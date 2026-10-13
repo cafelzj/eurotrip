@@ -21,3 +21,29 @@ python3 -m http.server 3000 --bind 0.0.0.0
 - `app.js`：分类、搜索、收藏和朗读
 
 词源未收录的词条明确标注，并提供 Wiktionary 查阅入口。图像是辅助记忆图示而非实物照片。尚未接入真人录音或后台账户。
+
+## 国家与城市指南
+
+默认首页现在是国家概览，覆盖匈牙利（布达佩斯、德布勒森、塞格德）、奥地利（维也纳、萨尔茨堡、因斯布鲁克）、德国（柏林、慕尼黑、汉堡、科隆），共 10 座城市、30 处地标。
+
+- `#guide/hu`、`#guide/at`、`#guide/de`：国家概览
+- `#guide/hu/budapest`：城市详情，可直接分享
+- `#words`：原有多语言词典
+- `guide-data.js`：概览、坐标、城市简介、特色、名人及交通/旅游链接
+- `guide.js`、`guide.css`：旅行指南交互与响应式布局
+- `borders.js`：Natural Earth 110m 国界，公有领域，来源 https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson
+- `vendor/leaflet`：Leaflet 1.9.4，BSD-2-Clause，许可证随文件保存；安装时校验 npm registry 的 SHA-512 integrity
+
+地图底图采用 OpenStreetMap 标准瓦片并显示署名，只在当前视图请求，不预抓取或缓存大量瓦片。需联网；失败时保留本地国界与坐标标记，并提示外部地图入口。景点坐标用于位置概览，不保证为实际入口。大范围国家概览不作为精确边界参考。
+
+交通图优先链接官方线路图页面；德布勒森、塞格德、萨尔茨堡、因斯布鲁克、科隆目前提供运营商网站的线路图查询入口，尚非已核验的直接 PDF。交通 App 链接指向官方/提供方说明网站；menetrend.app 是第三方。当前云网络无法访问这些运营商网站，因此未逐项验证外链可达性；票价、开放时间、实时线路均需在官方站点确认。
+
+## 浏览器验证
+
+在装有 Playwright 和 Chromium 的环境中，启动本地服务后运行：
+
+```sh
+node tests/guide.cjs
+```
+
+`CHROMIUM_PATH` 可覆盖浏览器位置，`SITE_URL` 可指向已部署站点。测试刻意阻断地图瓦片，验证底图不可用时的降级行为，以及国家/城市切换、标记导航、景点定位、深链接刷新、手机布局和词典兼容性；不将外链或瓦片实时可达性算作通过。
