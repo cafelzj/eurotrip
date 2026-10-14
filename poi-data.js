@@ -171,11 +171,11 @@ const poiCityInfo = {
       },
       {
         "type": "主菜",
-        "name": "炖肉（pörkölt）",
-        "description": "以红椒和洋葱为基础的浓汁炖肉。",
-        "comparison": "与古拉什汤相比，通常汁更浓、不是汤；肉类随菜单而异。",
-        "imageQuery": "Pörkölt",
-        "imageUrl": "https://commons.wikimedia.org/w/index.php?search=P%C3%B6rk%C3%B6lt&title=Special:MediaSearch&type=image"
+        "name": "红椒炖鸡（paprikás csirke）",
+        "description": "红椒调味的炖鸡，常搭配酸奶油和小面团。",
+        "comparison": "相比不含奶油的 pörkölt，通常更柔和、酱汁更有奶香；有乳制品限制时要确认。",
+        "imageQuery": "Chicken paprikash",
+        "imageUrl": "https://commons.wikimedia.org/w/index.php?search=Chicken%20paprikash&title=Special:MediaSearch&type=image"
       },
       {
         "type": "甜点",
