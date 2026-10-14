@@ -15,8 +15,8 @@ const { chromium } = require('playwright');
  assert(await page.locator('.leaflet-overlay-pane path').count()>0,'country border remains when tiles unavailable');
  await page.locator('.guide-marker-wrap').first().click();
  assert(page.url().endsWith('#guide/hu/budapest'),'map marker opens city');
- assert(await page.locator('.sight-card').count()===3,'city landmarks');
- assert(await page.locator('.guide-marker').count()===3,'landmark map markers');
+ assert(await page.locator('.sight-card').count()===6,'city landmarks');
+ assert(await page.locator('.guide-marker').count()===6,'landmark map markers');
  assert((await page.locator('.transit-panel').innerText()).includes('BudapestGO'),'transport app');
  assert(await page.locator('a[href="https://bkk.hu/en/maps/"]').count()===1,'official transport map link');
  await page.locator('[data-place="1"]').click();assert(await page.locator('[data-sight-card="1"]').evaluate(e=>e.classList.contains('focused')),'sight focuses map');
@@ -26,7 +26,7 @@ const { chromium } = require('playwright');
  assert((await page.locator('.city-facts').innerText()).includes('舒伯特'),'city famous people');
  await page.locator('[data-country="de"]').first().click();assert(await page.locator('.city-card').count()===4,'Germany cities');
  await page.locator('[data-city="berlin"]').click();
- await page.reload();assert(page.url().endsWith('#guide/de/berlin')&&await page.locator('.sight-card').count()===3,'city deep link survives refresh');
+ await page.reload();assert(page.url().endsWith('#guide/de/berlin')&&await page.locator('.sight-card').count()===5,'city deep link survives refresh');
  await page.locator('#wordsMode').click();assert(await page.locator('#wordList').isVisible(),'original vocabulary remains');
  await page.locator('#search').fill('alma');assert(await page.locator('.word-row').count()===1,'vocabulary search');
  await page.locator('.word-row').click();assert(await page.locator('#detail').evaluate(e=>e.open),'vocabulary detail');await page.keyboard.press('Escape');
@@ -39,6 +39,6 @@ const { chromium } = require('playwright');
  await page.setViewportSize({width:1440,height:1000});await page.locator('#travelMode').click();await page.screenshot({path:'/tmp/eurotrip-country.png',fullPage:true});
  await page.locator('[data-city="budapest"]').click();await page.screenshot({path:'/tmp/eurotrip-city.png',fullPage:true});
  if(errors.length)console.error(errors);assert(errors.length===0,'no JavaScript errors');
- for(const country of ['hu','at','de']){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country);const ids=await page.locator('[data-city]').evaluateAll(es=>es.map(e=>e.dataset.city));for(const id of ids){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country+'/'+id);assert(await page.locator('.sight-card').count()===3&&await page.locator('.guide-marker').count()===3,id+' landmarks load');}}
+ for(const country of ['hu','at','de']){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country);const ids=await page.locator('[data-city]').evaluateAll(es=>es.map(e=>e.dataset.city));for(const id of ids){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country+'/'+id);const counts={budapest:6,debrecen:4,szeged:5,vienna:4,salzburg:5,innsbruck:6,berlin:5,munich:6,hamburg:5,cologne:4};assert(await page.locator('.sight-card').count()===counts[id]&&await page.locator('.guide-marker').count()===counts[id],id+' landmarks load');}}
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
