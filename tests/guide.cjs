@@ -22,10 +22,10 @@ const { chromium } = require('playwright');
  await page.locator('[data-place="1"]').click();assert(await page.locator('[data-sight-card="1"]').evaluate(e=>e.classList.contains('focused')),'sight focuses map');
  await page.locator('#fitMap').click();
  await page.locator('[data-country="at"]').first().click();assert(await page.locator('.city-card').count()===3,'Austria cities');
- await page.locator('[data-city="vienna"]').click();assert((await page.locator('.city-facts').innerText()).includes('萨赫蛋糕'),'city specialties');
+ await page.locator('.city-card[data-city="vienna"]').click();assert((await page.locator('.city-facts').innerText()).includes('萨赫蛋糕'),'city specialties');
  assert((await page.locator('.city-facts').innerText()).includes('舒伯特'),'city famous people');
  await page.locator('[data-country="de"]').first().click();assert(await page.locator('.city-card').count()===4,'Germany cities');
- await page.locator('[data-city="berlin"]').click();
+ await page.locator('.city-card[data-city="berlin"]').click();
  await page.reload();assert(page.url().endsWith('#guide/de/berlin')&&await page.locator('.sight-card').count()===5,'city deep link survives refresh');
  await page.locator('#wordsMode').click();assert(await page.locator('#wordList').isVisible(),'original vocabulary remains');
  await page.locator('#search').fill('alma');assert(await page.locator('.word-row').count()===1,'vocabulary search');
@@ -33,12 +33,12 @@ const { chromium } = require('playwright');
  await page.locator('#travelMode').click();await page.locator('#saved').click();assert(await page.locator('#vocabulary').isVisible(),'header favorites enters vocabulary');
  await page.locator('#travelMode').click();await page.setViewportSize({width:390,height:844});
  assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile country layout fits');
- await page.locator('[data-city="budapest"]').click();assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile city layout fits');
+ await page.locator('.city-card[data-city="budapest"]').click();assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile city layout fits');
  await page.locator('[data-place="2"]').click();assert(await page.locator('[data-sight-card="2"]').evaluate(e=>e.classList.contains('focused')),'mobile map focus');
  await page.screenshot({path:'/tmp/eurotrip-city-mobile.png',fullPage:true});
  await page.setViewportSize({width:1440,height:1000});await page.locator('#travelMode').click();await page.screenshot({path:'/tmp/eurotrip-country.png',fullPage:true});
- await page.locator('[data-city="budapest"]').click();await page.screenshot({path:'/tmp/eurotrip-city.png',fullPage:true});
+ await page.locator('.city-card[data-city="budapest"]').click();await page.screenshot({path:'/tmp/eurotrip-city.png',fullPage:true});
  if(errors.length)console.error(errors);assert(errors.length===0,'no JavaScript errors');
- for(const country of ['hu','at','de']){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country);const ids=await page.locator('[data-city]').evaluateAll(es=>es.map(e=>e.dataset.city));for(const id of ids){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country+'/'+id);const counts={budapest:6,debrecen:4,szeged:5,vienna:4,salzburg:5,innsbruck:6,berlin:5,munich:6,hamburg:5,cologne:4};assert(await page.locator('.sight-card').count()===counts[id]&&await page.locator('.guide-marker').count()===counts[id],id+' landmarks load');}}
+ for(const country of ['hu','at','de']){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country);const ids=await page.locator('.city-card[data-city]').evaluateAll(es=>es.map(e=>e.dataset.city));for(const id of ids){await page.goto((process.env.SITE_URL||'http://127.0.0.1:3000')+'/#guide/'+country+'/'+id);const counts={budapest:6,debrecen:4,szeged:5,vienna:4,salzburg:5,innsbruck:6,berlin:5,munich:6,hamburg:5,cologne:4};assert(await page.locator('.sight-card').count()===counts[id]&&await page.locator('.guide-marker').count()===counts[id],id+' landmarks load');}}
  await browser.close();
 })().catch(e=>{console.error(e);process.exit(1)});
