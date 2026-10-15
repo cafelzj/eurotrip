@@ -49,7 +49,7 @@
   const title=validFood?food.name+' · 风味探索':validPlace?place.name+' · 位置与周边':city.name+' · 地图探索';
   guide.querySelector('.city-map-layout').insertAdjacentHTML('beforebegin',`<section class="map-context"><div><span class="guide-kicker">FOLLOW THE CARD, FIND THE PLACE</span><h2>${h(title)}</h2><p>${validFood?'已有餐饮关联会作为探索示例标记；即时检索得到的是附近餐馆，不保证售卖指定菜。':validPlace?'坐标为参考位置，请核对实际入口与开放安排。':'选择图层，探索景点、交通、购物与餐饮地点。'}</p></div><div>${validFood?CardGraph.link(food.id,'返回美食卡片'):validPlace?CardGraph.link(place.id,'返回地点卡片'):CardGraph.link('map-'+city.id,'地图关联卡片')}<button id="expandMapLayers">展开 / 收起图层说明</button></div></section>`);
   document.querySelector('#expandMapLayers').onclick=()=>guide.classList.toggle('map-layers-expanded');
-  if(validFood&&explorer){const venues=(CardGraph.edges.get(food.id)||[]).map(e=>CardGraph.nodes.get(e.to)).filter(n=>n?.type==='place'&&n.point).map(n=>({...n.point,id:n.point.id||n.id}));explorer.exploreFood(venues);}
+  if(validFood&&explorer){const venues=(CardGraph.edges.get(food.id)||[]).map(e=>CardGraph.nodes.get(e.to)).filter(n=>n?.type==='place'&&n.point).map(n=>({...n.point,id:n.point.id||n.id}));explorer.exploreFood(venues,food.id);}
   if(validPlace&&explorer){if(Number.isInteger(place.point.sightIndex)){explorer.showSight(place.point.sightIndex);focusPlace(place.point.sightIndex);}else explorer.focusPoint({...place.point,id:place.point.id||place.id});}
   requestAnimationFrame(()=>{if(map)map.invalidateSize();guide.querySelector('.map-context')?.scrollIntoView({block:'start'});});return;
  }
