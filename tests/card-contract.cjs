@@ -29,6 +29,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    assert((await page.locator('#travelMode').innerText()).includes({hu:'匈牙利',at:'奥地利',de:'德国'}[country]),'navigation retains the selected country');
    assert.equal(await page.locator('.entity-breadcrumb a').last().getAttribute('href'),'#guide/'+country);
   }
+  await page.goto(base+'/#china/suzhou');
+  const chinaInventory=await page.evaluate(()=>{while(document.querySelector('[data-hub-more]'))document.querySelector('[data-hub-more]').click();return [...document.querySelectorAll('[data-knowledge-card]')].map(el=>el.dataset.knowledgeCard);});chinaInventory.forEach(id=>inventory.add(id));
   const registered=await page.evaluate(()=>[...CardGraph.nodes.keys()]);
   assert.deepEqual([...inventory].sort(),registered.sort(),'every remaining detail is reachable through the rendered country collections');
   assert(await page.evaluate(()=>[...CardGraph.nodes.values()].every(n=>{const b=KnowledgeHub.mapBinding(n),points=KnowledgeHub.mappedPoints(n);return ['none','fixed','dynamic'].includes(b.mode)&&points.length<=1&&(b.mode==='fixed'?points.length===1&&points[0].id===n.id:points.length===0&&!n.point);}))); 

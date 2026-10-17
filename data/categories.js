@@ -336,6 +336,20 @@ const cardCategories = {
       "name": "其他景点",
       "icon": "📍",
       "description": "温泉、山地观景起点等其他值得停留的城市体验。"
+    },
+    {
+      "id": "gardens",
+      "category": "places",
+      "name": "古典园林",
+      "icon": "🪴",
+      "description": "借景、框景与曲折游线是读懂园林的线索；热门园林的预约、门票与开放时间分别查官方。"
+    },
+    {
+      "id": "temples",
+      "category": "places",
+      "name": "寺庙 / 道观",
+      "icon": "🏯",
+      "description": "从建筑、信仰与地方文化认识寺观，参观时尊重宗教活动及拍摄规定。"
     }
   ],
   "subcategoryAliases": {

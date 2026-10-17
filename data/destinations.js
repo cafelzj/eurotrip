@@ -41,6 +41,19 @@ const travelCountries = [
     "tips": "跨城市可用 DB Navigator 查询铁路。地方票请留意分区与生效条件；Deutschland-Ticket 通常不适用于 ICE、IC、EC 等长途列车。",
     "people": "歌德 · 作家；贝多芬 · 作曲家；爱因斯坦 · 物理学家。",
     "tourism": "https://www.germany.travel/en/home.html"
+  },
+  {
+    "id": "cn",
+    "name": "中国",
+    "local": "China",
+    "flag": "🇨🇳",
+    "section": "china",
+    "mapProvider": "osm",
+    "capital": "北京",
+    "currency": "人民币 CNY",
+    "language": "普通话；苏州本地方言为吴语苏州话",
+    "intro": "从一座城市开始认识中国：沿着交通、风味、购物、建筑与人物卡片，进入当地日常。",
+    "tourism": "https://www.mct.gov.cn/"
   }
 ];
 
@@ -255,5 +268,26 @@ const travelCities = [
     "climate": "冬季相对德国东部通常温和，但仍可能低温；全年注意雨天，夏季可能闷热。",
     "currency": "欧元 EUR",
     "prices": "普通消费通常较慕尼黑容易控制；展会和狂欢节期间住宿价格可能上涨。"
+  },
+  {
+    "id": "suzhou",
+    "country": "cn",
+    "name": "苏州",
+    "local": "Suzhou",
+    "lat": 31.305,
+    "lon": 120.615,
+    "coordSystem": "wgs84",
+    "adcode": "320500",
+    "province": "江苏",
+    "intro": "江苏的江南水城，以古典园林、运河街巷和吴文化著称。古城适合步行慢逛，向东到金鸡湖又能看到现代城市的一面。",
+    "river": "京杭大运河经过苏州，古城内水巷密布，西侧连接太湖，东侧有金鸡湖。",
+    "climate": "四季分明，夏季炎热潮湿，梅雨时节多雨；春秋通常更适合步行，仍需查看短期天气。",
+    "currency": "人民币 CNY",
+    "prices": "苏式面馆、小吃与连锁餐饮适合日常预算；园林门票、热门餐馆与节假日住宿需另列预算。",
+    "tourism": "https://www.suzhou.gov.cn/",
+    "app": "苏e行",
+    "appurl": "https://www.sz-mtr.com/",
+    "mapurl": "https://www.sz-mtr.com/",
+    "transit": "苏州轨道交通覆盖古城、新城与铁路车站；具体线路与票务请查官方。"
   }
 ];

@@ -1,0 +1,54 @@
+const {chromium}=require('playwright'),assert=require('node:assert/strict');
+const settle=require('./wait-for-route.cjs'),openMapBranch=require('./open-map-branch.cjs');
+(async()=>{
+ const browser=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
+ try{
+  const p=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[],badAssets=[];let queries=0;
+  p.on('pageerror',e=>errors.push(e.stack));
+  p.on('response',r=>{if(r.url().startsWith('http://127.0.0.1:')&&r.status()>=400)badAssets.push(r.url());});
+  await p.route('https://tile.openstreetmap.org/**',r=>r.abort());
+  await p.route('https://overpass-api.de/**',r=>{
+   queries++;const query=new URLSearchParams(r.request().postData()).get('data');assert(query.includes('大润发'));
+   return r.fulfill({contentType:'application/json',body:JSON.stringify({elements:[{type:'node',id:90101,lat:31.305,lon:120.62,tags:{shop:'supermarket',brand:'大润发',name:'大润发 苏州测试门店'}}]})});
+  });
+  const base=process.env.SITE_URL||'http://127.0.0.1:3014';
+  await p.goto(base+'/#guide/at');assert((await p.locator('#travelMode').innerText()).includes('欧洲国家'));
+  await p.locator('#travelMode').click();assert.equal(await p.locator('[data-nav-country]').count(),3);assert.equal(await p.locator('[data-nav-country="cn"]').count(),0);
+  await p.locator('#chinaMode').click();assert.equal(await p.locator('[data-nav-city]').count(),1);assert(await p.locator('#countryMenu').isHidden());
+  await p.locator('[data-nav-city="suzhou"]').click();await settle(p);
+  assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),'suzhou');
+  assert.equal(await p.locator('#chinaMode').getAttribute('aria-pressed'),'true');assert.equal(await p.locator('#travelMode').getAttribute('aria-pressed'),'false');
+  assert.equal(await p.locator('.destination-cities a').count(),1);assert.equal(await p.locator('.destination-overview').count(),0);
+  assert.equal(await p.locator('.hub-section').count(),5);assert.equal(await p.locator('.hub-tabs [data-hub-topic]').last().getAttribute('data-hub-topic'),'facts');
+  assert.equal(await p.locator('[data-knowledge-card="tip-common-help"]').count(),0);
+  assert(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='cn'),travelCities.find(c=>c.id==='suzhou')).every(n=>n.country==='cn'&&n.city==='suzhou')));
+  assert(!(await p.locator('body').innerText()).includes('国家知识'));
+  await p.locator('.hub-tabs [data-hub-topic="places"]').click();await p.selectOption('#hubKind','古典园林');await p.fill('#hubSearch','拙政园');
+  assert.equal(await p.locator('[data-knowledge-card="venue-suzhou-humble-administrator"]').count(),1);await p.reload();assert.equal(await p.locator('#hubKind').inputValue(),'古典园林');assert.equal(await p.locator('#hubSearch').inputValue(),'拙政园');
+  await p.locator('[data-knowledge-card="venue-suzhou-humble-administrator"] [data-map-card]').click();
+  assert((await p.locator('#miniMapCanvas .leaflet-popup-content').innerText()).includes('拙政园'));assert.equal(await p.locator('#miniMapCanvas .mini-marker').count(),1);
+  assert.equal(await p.locator('#miniMapFull').getAttribute('href'),'#map/suzhou');
+  await p.locator('#miniMapFull').click();await settle(p);assert.equal(queries,0);assert.equal(await p.locator('[data-map-series]').count(),5);
+  assert((await p.locator('#travelMap .leaflet-control-attribution').innerText()).includes('OpenStreetMap'));
+  assert(await p.evaluate(()=>[...document.querySelectorAll('[data-map-leaf]')].every(e=>CardGraph.nodes.get(e.dataset.mapLeaf)?.country==='cn')));
+  await openMapBranch(p,'[data-layer-focus="venue-suzhou-museum"]');await p.locator('[data-layer-focus="venue-suzhou-museum"]').click();
+  assert((await p.locator('.poi-popup').innerText()).includes('苏州博物馆'));await p.locator('.poi-popup a[href="#card/venue-suzhou-museum"]').click();await settle(p);
+  assert((await p.locator('.entity-breadcrumb').innerText()).includes('中国城市'));assert.equal(await p.locator('.entity-breadcrumb a').last().getAttribute('href'),'#china/suzhou');
+  await p.reload();assert.equal(await p.locator('#chinaMode').getAttribute('aria-pressed'),'true');
+  await p.goto(base+'/#card/person-suzhou-pei');assert((await p.locator('.entity-description').innerText()).includes('出生于广州'));await p.locator('.entity-relations a[href="#card/venue-suzhou-museum"]').click();await settle(p);assert.equal(await p.locator('.entity-detail').getAttribute('data-entity-id'),'venue-suzhou-museum');
+  await p.goto(base+'/#card/food-suzhou-noodles');assert.equal(await p.locator('.entity-actions [data-map-card],.entity-actions a[href^="#map/"]').count(),0);
+  await p.goto(base+'/#map/suzhou?search=brand-suzhou-rtmart');await p.waitForSelector('[data-source-card="poi-suzhou-osm-node-90101"]');assert.equal(queries,1);
+  assert.equal(await p.evaluate(()=>CardGraph.nodes.get('poi-suzhou-osm-node-90101').city),'suzhou');
+  await p.goto(base+'/#guide/cn/suzhou');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/suzhou');
+  await p.goto(base+'/#china');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/suzhou');
+  await p.locator('#wordsMode').click();assert(await p.locator('#vocabulary').isVisible());await p.locator('#travelMode').click();await p.locator('[data-nav-country="de"]').click();await settle(p);assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),'de');
+  await p.locator('#chinaMode').click();await p.keyboard.press('Escape');assert(await p.locator('#chinaMenu').isHidden());assert(await p.locator('#chinaMode').evaluate(e=>e===document.activeElement));
+  await p.goto(base+'/#china/suzhou');await p.setViewportSize({width:390,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+  await p.locator('#chinaMode').click();const menu=await p.locator('#chinaMenu').boundingBox();assert(menu.x>=0&&menu.x+menu.width<=390);await p.keyboard.press('Escape');
+  await p.screenshot({path:'/tmp/suzhou-mobile.png',fullPage:true});
+  await p.goto(base+'/#map/suzhou');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+  await p.setViewportSize({width:1440,height:1000});await p.goto(base+'/#china/suzhou');await p.screenshot({path:'/tmp/suzhou-desktop.png',fullPage:true});
+  assert.deepEqual(badAssets,[]);assert.deepEqual(errors,[]);
+  console.log('PASS Europe/China isolation, Suzhou filtering/reload, card links, exact map pins, scoped dynamic search, OSM configuration, menus, mobile and navigation');
+ }finally{await browser.close();}
+})().catch(e=>{console.error(e);process.exit(1)});
