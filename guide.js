@@ -50,12 +50,9 @@
  if(parts[0]==='map'){
   const city=cities.find(c=>c.id===parts[1]);if(!city){navigate('#cards');return;}cityPage(city.country,city.id);CardGraph.decorate(guide);guide.classList.add('map-focused');
   const food=CardGraph.nodes.get(params.get('food')),place=CardGraph.nodes.get(params.get('focus'));const validFood=food?.type==='food'&&(food.city===city.id||(food.shopping&&food.country===city.country)),validPlace=place?.type==='place'&&place.city===city.id;
-  const title=validFood?food.name+(food.shopping?' · 超市购买探索':' · 风味探索'):validPlace?place.name+' · 位置与周边':city.name+' · 地图探索';
-  guide.querySelector('.city-map-layout').insertAdjacentHTML('beforebegin',`<section class="map-context"><div><span class="guide-kicker">FOLLOW THE CARD, FIND THE PLACE</span><h2>${h(title)}</h2><p>${validFood&&food.shopping?'这里显示附近超市，不提供实时库存，也不保证售卖指定品牌或规格。地图城市是购买探索起点，不是商品产地。':validFood?'仅显示美食卡片明确关联的餐饮场所；可另开连锁品牌动态门店，不搜索未收录的普通餐馆。':validPlace?'坐标为参考位置，请核对实际入口与开放安排。':'选择图层，探索景点、交通、购物与餐饮地点。'}</p></div><div>${validFood?CardGraph.link(food.id,'返回美食卡片'):validPlace?CardGraph.link(place.id,'返回地点卡片'):CardGraph.link('map-'+city.id,'地图关联卡片')}<button id="expandMapLayers">展开 / 收起图层说明</button></div></section>`);
-  document.querySelector('#expandMapLayers').onclick=()=>{const layers=guide.querySelector('.full-map-layers');if(layers)layers.open=!layers.open;};
   if(validFood&&explorer){const venues=(CardGraph.edges.get(food.id)||[]).map(e=>CardGraph.nodes.get(e.to)).filter(n=>n?.type==='place'&&n.point).map(n=>({...n.point,id:n.point.id||n.id}));if(food.shopping)explorer.exploreGroceries(food.id);else explorer.exploreFood(venues,food.id);}
   if(validPlace&&explorer){if(Number.isInteger(place.point.sightIndex)){explorer.showSight(place.point.sightIndex);focusPlace(place.point.sightIndex);}else explorer.focusPoint({...place.point,id:place.point.id||place.id,knowledgeId:place.id});}
-  requestAnimationFrame(()=>{if(map)map.invalidateSize();guide.querySelector('.map-context')?.scrollIntoView({block:'start'});});return;
+  requestAnimationFrame(()=>{if(map)map.invalidateSize();guide.querySelector('#cityExplorer')?.scrollIntoView({block:'start'});});return;
  }
  const [,country='hu',city]=parts;if(city)cityPage(country,city);else countryPage(country,params.get('zone')||'all');CardGraph.decorate(guide);
  }
