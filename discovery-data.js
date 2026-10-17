@@ -15,6 +15,7 @@
  ['frueh','cologne','Früh am Dom',50.9401,6.9568,'food','restaurant','科隆大教堂附近的传统啤酒馆与餐饮场所，可了解 Kölsch 的点单和酒馆文化。','https://www.frueh-am-dom.de/'],
  ['hungarian-museum','budapest','匈牙利国家博物馆',47.4912,19.0624,'places','museum','通过考古、历史文物与展览了解匈牙利历史；展厅开放与临展以官方发布为准。','https://mnm.hu/'],
  ['kunsthistorisches','vienna','艺术史博物馆',48.2038,16.3618,'places','museum','维也纳的重要艺术博物馆，可结合藏品主题与临展选择参观路线。','https://www.khm.at/'],
+ ['prater','vienna','普拉特游乐园',48.2167,16.3959,'places','park','维也纳的传统游乐区域 Wurstelprater，邻近大片普拉特绿地。园区与各项游乐设施的开放时间、收费方式分别核对；参考坐标位于大摩天轮附近的游乐区。','https://www.praterwien.com/'],
  ['museumsquartier','vienna','MuseumsQuartier 博物馆区',48.2033,16.3589,'places','exhibition','包含多家文化机构、展览空间与公共庭院的文化区域，区内各机构的票务独立核对。','https://www.mqw.at/'],
  ['vienna-opera','vienna','维也纳国家歌剧院',48.203,16.3695,'places','theatre','歌剧与芭蕾的重要演出场所；演出、导览和站票是不同的参观方式。','https://www.wiener-staatsoper.at/'],
  ['salzburg-festspielhaus','salzburg','萨尔茨堡节庆剧院',47.7985,13.0404,'places','theatre','萨尔茨堡音乐节相关演出建筑群，可从节目与官方导览了解场馆。','https://www.salzburgerfestspiele.at/'],

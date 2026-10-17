@@ -153,7 +153,7 @@ const travelCities = [
         "lat": 47.554,
         "lon": 21.63,
         "description": "城北的绿地与休闲区，适合步行，附近有大学与温泉设施。",
-        "category": "other"
+        "category": "park"
       },
       {
         "category": "university",
@@ -515,7 +515,7 @@ const travelCities = [
         "lat": 48.151,
         "lon": 11.589,
         "description": "巨大的城市公园，包含草地、河流与啤酒花园；标记位于公园南部。",
-        "category": "other"
+        "category": "park"
       },
       {
         "name": "宁芬堡宫",
