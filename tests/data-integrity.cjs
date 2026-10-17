@@ -1,8 +1,8 @@
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
 const root=path.join(__dirname,'..'),context=vm.createContext({});context.window=context;context.sessionStorage={getItem:()=>null,setItem:()=>{}};
-const files=['data/destinations.js','data/categories.js','data/cards.js','data/relations.js','data/china-cards.js','data/map-providers.js'];
+const files=['data/destinations.js','data/categories.js','data/cards.js','data/relations.js','data/china-cards.js','data/capitals-cards.js','data/map-providers.js'];
 for(const file of files){const source=fs.readFileSync(path.join(root,file),'utf8'),declaration=/const (\w+) = ([\s\S]*?);\n/g;for(const match of source.matchAll(declaration))JSON.parse(match[2]);assert.equal(source.replace(declaration,'').replace(/\/\*[\s\S]*?\*\//g,'').trim(),'',file+' should contain only JSON data declarations');vm.runInContext(source,context,{filename:file});}
-vm.runInContext('globalThis.catalog={countries:travelCountries,cities:travelCities,provinces:chinaProvinces,categories:cardCategories,cards:[...travelCards,...chinaCards],relations:[...cardRelations,...chinaRelations]}',context);
+vm.runInContext('globalThis.catalog={countries:travelCountries,cities:travelCities,provinces:chinaProvinces,categories:cardCategories,cards:[...travelCards,...capitalCards,...chinaCards],relations:[...cardRelations,...capitalRelations,...chinaRelations]}',context);
 const {countries,cities,provinces,categories,cards,relations}=JSON.parse(JSON.stringify(context.catalog));
 const countryIds=new Set(countries.map(c=>c.id)),cityIds=new Set(cities.map(c=>c.id)),primary=new Map(categories.primary.map(c=>[c.id,c])),secondary=new Map(categories.secondary.map(c=>[c.id,c]));
 assert.equal(primary.size,5);for(const p of primary.values())assert(p.name&&p.icon&&p.description&&p.prefix&&/^#[0-9a-f]{6}$/i.test(p.color));assert.equal(secondary.size,categories.secondary.length);assert.equal(new Set(cards.map(c=>c.id)).size,cards.length);

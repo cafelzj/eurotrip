@@ -124,7 +124,7 @@ const travelCards = [
       ]
     ],
     "category": "food",
-    "subcategory": "dishes"
+    "subcategory": "wine"
   },
   {
     "id": "place-budapest-0",
@@ -1335,7 +1335,7 @@ const travelCards = [
       ]
     ],
     "category": "food",
-    "subcategory": "dishes"
+    "subcategory": "coffee"
   },
   {
     "id": "place-vienna-0",
@@ -4172,7 +4172,7 @@ const travelCards = [
       "波点"
     ],
     "description": "以 Túró Rudi 等产品著称，是认识匈牙利日常零食的入口。品牌属于跨国乳企体系，品牌传统与当前所有权要分开看。",
-    "note": "领域：冷藏乳制零食\n品牌起源：匈牙利市场品牌\n地理联系：与匈牙利乳制品消费文化有关；并非以独立本土所有权作分类\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：冷藏乳制零食\n品牌起源：匈牙利市场品牌\n地理联系：与匈牙利乳制品消费文化有关；并非以独立本土所有权作分类\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.pottyos.hu/",
@@ -4180,7 +4180,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-sport",
@@ -4191,7 +4194,7 @@ const travelCards = [
       "Sport"
     ],
     "description": "朗姆风味巧克力棒的经典品牌之一，不因当地传统就自动等同于独立匈牙利企业。",
-    "note": "领域：巧克力零食\n品牌起源：匈牙利市场品牌\n地理联系：品牌历史与匈牙利市场相关；当前企业归属请查品牌/集团资料\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：巧克力零食\n品牌起源：匈牙利市场品牌\n地理联系：品牌历史与匈牙利市场相关；当前企业归属请查品牌/集团资料\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.sportszelet.hu/",
@@ -4199,7 +4202,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-balaton",
@@ -4210,7 +4216,7 @@ const travelCards = [
       "Balaton szelet"
     ],
     "description": "匈牙利市场常见的巧克力威化品牌，购买时仍要看具体包装的制造商、产地与配料。",
-    "note": "领域：威化零食\n品牌起源：匈牙利市场品牌\n地理联系：品牌名关联巴拉顿；名称不等于所有产品都在湖区生产\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：威化零食\n品牌起源：匈牙利市场品牌\n地理联系：品牌名关联巴拉顿；名称不等于所有产品都在湖区生产\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://cerbona.hu/",
@@ -4218,7 +4224,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-szentkiralyi",
@@ -4229,7 +4238,7 @@ const travelCards = [
       "Szentkiralyi"
     ],
     "description": "匈牙利市场的瓶装水品牌之一。品牌名与气泡强弱不是一回事，要看具体瓶身标签。",
-    "note": "领域：矿泉水\n品牌起源：匈牙利\n地理联系：品牌与 Szentkirály 地名及水源联系有关\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：矿泉水\n品牌起源：匈牙利\n地理联系：品牌与 Szentkirály 地名及水源联系有关\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.szentkiralyi.hu/",
@@ -4237,7 +4246,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-hell",
@@ -4248,7 +4260,7 @@ const travelCards = [
       "HELL"
     ],
     "description": "能量饮料品牌，旅行时可用来认识当地饮料货架；产品规格、咖啡因与糖分以包装为准。",
-    "note": "领域：饮料\n品牌起源：匈牙利\n地理联系：品牌与匈牙利有起源及生产联系；不作为门店或总部定位\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：饮料\n品牌起源：匈牙利\n地理联系：品牌与匈牙利有起源及生产联系；不作为门店或总部定位\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.hellenergy.com/",
@@ -4256,7 +4268,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-marka",
@@ -4267,7 +4282,7 @@ const travelCards = [
       "Marka"
     ],
     "description": "以果味饮料等为人熟悉；不同系列的果汁含量、糖分和是否含气需要分别看标签。",
-    "note": "领域：汽水与果味饮料\n品牌起源：匈牙利\n地理联系：匈牙利市场的本土饮料品牌传统\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：汽水与果味饮料\n品牌起源：匈牙利\n地理联系：匈牙利市场的本土饮料品牌传统\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://markaudito.hu/",
@@ -4275,7 +4290,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-univer",
@@ -4286,7 +4304,7 @@ const travelCards = [
       "Erős Pista"
     ],
     "description": "以红椒酱等调味品为旅行者提供认识匈牙利家庭厨房的入口，不只是高价伴手礼。",
-    "note": "领域：食品与调味料\n品牌起源：匈牙利\n地理联系：产地/产业关联：凯奇凯梅特地区，本站未收录该城市\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：食品与调味料\n品牌起源：匈牙利\n地理联系：产地/产业关联：凯奇凯梅特地区，本站未收录该城市\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.univer.hu/en",
@@ -4294,7 +4312,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "brand-pick",
@@ -4303,7 +4324,7 @@ const travelCards = [
     "name": "PICK",
     "aliases": [],
     "description": "以熟成萨拉米等产品闻名。品牌、具体品类和配方要分别看，不能把所有香肠都当作同一产品。",
-    "note": "领域：肉制品\n品牌起源：匈牙利\n地理联系：品牌和生产历史关联：塞格德\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：肉制品\n品牌起源：匈牙利\n地理联系：品牌和生产历史关联：塞格德\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.pick.hu/en/",
@@ -4311,7 +4332,8 @@ const travelCards = [
       ]
     ],
     "cities": [
-      "szeged"
+      "szeged",
+      "budapest"
     ],
     "category": "brands",
     "subcategory": "consumer-brands"
@@ -4421,7 +4443,7 @@ const travelCards = [
       "红牛"
     ],
     "description": "现代 Red Bull 品牌与奥地利企业发展有关，也有泰国饮料渊源；不要简化成全部产品最初都在奥地利发明。",
-    "note": "领域：能量饮料与媒体\n品牌起源：奥地利品牌；有泰国饮料渊源\n地理联系：总部联系地：滨湖富施尔（萨尔茨堡州），不是萨尔茨堡市内\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：能量饮料与媒体\n品牌起源：奥地利品牌；有泰国饮料渊源\n地理联系：总部联系地：滨湖富施尔（萨尔茨堡州），不是萨尔茨堡市内\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.redbull.com/",
@@ -4429,7 +4451,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "brand-rauch",
@@ -4441,7 +4466,7 @@ const travelCards = [
       "Bravo"
     ],
     "description": "奥地利起源的饮料企业，Bravo 等饮料可作为认识果汁货架的入口。",
-    "note": "领域：果汁与饮料\n品牌起源：奥地利\n地理联系：总部关联：Rankweil，福拉尔贝格州；本站未收录\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：果汁与饮料\n品牌起源：奥地利\n地理联系：总部关联：Rankweil，福拉尔贝格州；本站未收录\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.rauch.cc/",
@@ -4449,7 +4474,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "brand-pez",
@@ -4480,7 +4508,7 @@ const travelCards = [
       "Kelly's"
     ],
     "description": "薯片和咸味零食品牌。历史起源、销售市场和当前集团所有权是不同维度。",
-    "note": "领域：咸味零食\n品牌起源：奥地利市场品牌\n地理联系：品牌与奥地利消费文化相关；现属跨国零食企业体系\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。",
+    "note": "领域：咸味零食\n品牌起源：奥地利市场品牌\n地理联系：品牌与奥地利消费文化相关；现属跨国零食企业体系\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n首都城市关联用于认识当地常见消费与购买线索，不改变品牌起源或总部所在地，也不保证具体门店库存。",
     "sources": [
       [
         "https://www.kellys.at/",
@@ -4488,7 +4516,10 @@ const travelCards = [
       ]
     ],
     "category": "brands",
-    "subcategory": "consumer-brands"
+    "subcategory": "consumer-brands",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "brand-bmw",
@@ -4852,14 +4883,10 @@ const travelCards = [
     "type": "brand",
     "country": "at",
     "countries": [
-      "hu",
       "at"
     ],
     "cities": [
       "salzburg",
-      "budapest",
-      "debrecen",
-      "szeged",
       "vienna",
       "innsbruck"
     ],
@@ -4900,7 +4927,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-sport-bar",
@@ -4922,7 +4952,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "chocolate",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-balaton-wafer",
@@ -4944,7 +4977,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "chocolate",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-szent-water",
@@ -4966,7 +5002,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-hell-can",
@@ -4987,8 +5026,11 @@ const travelCards = [
     ],
     "shopping": true,
     "category": "food",
-    "subcategory": "coffee",
-    "searchKind": "supermarket"
+    "subcategory": "snacks",
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-marka-soda",
@@ -5010,7 +5052,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-eros-pista",
@@ -5032,7 +5077,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "food-product-manner-wafer",
@@ -5054,7 +5102,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-almdudler-soda",
@@ -5076,7 +5127,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-redbull-can",
@@ -5097,8 +5151,11 @@ const travelCards = [
     ],
     "shopping": true,
     "category": "food",
-    "subcategory": "coffee",
-    "searchKind": "supermarket"
+    "subcategory": "snacks",
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-rauch-bravo",
@@ -5120,7 +5177,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-pez-candy",
@@ -5142,7 +5202,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-kellys-chips",
@@ -5164,7 +5227,10 @@ const travelCards = [
     "shopping": true,
     "category": "food",
     "subcategory": "snacks",
-    "searchKind": "supermarket"
+    "searchKind": "supermarket",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "food-product-haribo-goldbaren",
@@ -6237,7 +6303,10 @@ const travelCards = [
       ]
     ],
     "category": "food",
-    "subcategory": "gifts"
+    "subcategory": "gifts",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "specialty-hu-1",
@@ -6257,7 +6326,10 @@ const travelCards = [
       ]
     ],
     "category": "food",
-    "subcategory": "wine"
+    "subcategory": "wine",
+    "cities": [
+      "budapest"
+    ]
   },
   {
     "id": "specialty-hu-2",
@@ -6510,7 +6582,10 @@ const travelCards = [
       ]
     ],
     "category": "food",
-    "subcategory": "gifts"
+    "subcategory": "gifts",
+    "cities": [
+      "vienna"
+    ]
   },
   {
     "id": "specialty-at-2",
@@ -7427,7 +7502,9 @@ const travelCards = [
     "id": "food-culture-trappista",
     "type": "food",
     "country": "hu",
-    "cities": [],
+    "cities": [
+      "budapest"
+    ],
     "name": "Trappista 奶酪",
     "description": "匈牙利超市常见的半硬质奶酪名称，味道通常较温和；不同厂商、熟成与配方会影响风味。",
     "note": "适合先买小份尝味；留意乳制品标签和冷藏条件。普通冷藏奶酪不适合作为常温长途伴手礼。",
@@ -7471,7 +7548,9 @@ const travelCards = [
     "id": "food-culture-gruner",
     "type": "food",
     "country": "at",
-    "cities": [],
+    "cities": [
+      "vienna"
+    ],
     "name": "Grüner Veltliner 绿维特利纳",
     "description": "奥地利有代表性的白葡萄品种，可从清爽风格到更饱满的版本认识当地葡萄酒；不是某一座城市独有。",
     "note": "看产区、年份、干甜标示和容量。适合作为酒类伴手礼，但需自行核对运输与入境限额。",
