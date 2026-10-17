@@ -53,7 +53,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   assert.equal(await page.locator('#hubKind').inputValue(),'连锁餐饮','old brand category link opens the merged category');
   assert.equal(await page.locator('[data-knowledge-card="venue-nordsee-vienna"]').count(),1);
   await page.locator('[data-knowledge-card="brand-chain-nordsee"] .card-pin-action').click();await settle(page);
-  assert.equal(await page.locator('[data-dynamic-kind="restaurant"]').isChecked(),true);
+  assert.equal(await page.locator('[data-chain-card="brand-chain-nordsee"]').isChecked(),true);
   await page.waitForFunction(()=>document.querySelector('#poiStatus').textContent.includes('未找到'));
   assert.equal(queries,1);
   await page.goto(base+'/#guide/at');
