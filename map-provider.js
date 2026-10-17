@@ -7,7 +7,7 @@ window.TravelMaps=(()=>{
  }
  function create(container,{country,city,center,zoom=13,onTileError=()=>{}}){
   const config=provider(country,city);
-  const map=L.map(container,{scrollWheelZoom:false,zoomAnimation:false}).setView(center||[city.lat,city.lon],zoom);
+  const map=L.map(container,{scrollWheelZoom:true,touchZoom:true,zoomSnap:0.25,wheelPxPerZoomLevel:120,zoomAnimation:false}).setView(center||[city.lat,city.lon],zoom);
   L.tileLayer(config.tiles,{maxZoom:config.maxZoom,attribution:config.attribution}).on('tileerror',onTileError).addTo(map);
   return map;
  }
