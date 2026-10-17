@@ -16,12 +16,12 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
     return [...document.querySelectorAll('[data-knowledge-card]')].map(el=>el.dataset.knowledgeCard);
    });
    ids.forEach(id=>inventory.add(id));
-   assert(await page.locator('.hub-section-heading p').evaluateAll(es=>es.length===5&&es.every(e=>e.textContent.trim().length>0)));
+   assert(await page.locator('.hub-section-heading p').evaluateAll(es=>es.length===6&&es.every(e=>e.textContent.trim().length>0)));
    assert(await page.locator('.hub-subgroup-description').evaluateAll(es=>es.length>0&&es.every(e=>e.textContent.trim().length>0)));
    if(await page.locator('#miniMapToggle').isVisible())await page.locator('#miniMapToggle').click();
    assert.equal(await page.locator('#miniMapFull').getAttribute('href'),'#map/'+country);
    await page.locator('#miniMapFull').click();await settle(page);
-   assert.equal(await page.locator('[data-map-series]').count(),5);
+   assert.equal(await page.locator('[data-map-series]').count(),6);
    assert.equal(queries,0);
    await page.reload();assert.equal(await page.locator('#travelMap').count(),1);
    await page.goto(base+'/#card/brand-lidl');

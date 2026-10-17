@@ -1,7 +1,7 @@
 /* Series layers and bidirectional card / pin identity; no automatic POI requests. */
 window.FloatingMap=(()=>{
  const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const themes={essential:['必备信息','必','#4f6c50'],food:['美食与特产','食','#925533'],brands:['购物','购','#486b84'],facts:['冷知识与人物','知','#73608b'],places:['景点与建筑','景','#826b3e']};
+ const themes=Object.fromEntries(cardCategories.primary.map(c=>[c.id,[c.name,c.prefix,c.color]]));
  let pinCache=new Map(),cacheSize=0;
  function pinLabel(id){if(cacheSize!==CardGraph.nodes.size){cacheSize=CardGraph.nodes.size;pinCache=new Map();const counts={};for(const n of CardGraph.nodes.values())if(n.point){const t=KnowledgeHub.category(n)||'places';counts[t]=(counts[t]||0)+1;pinCache.set(n.id,(themes[t]?.[1]||'点')+counts[t]);}}return pinCache.get(id)||'⌖';}
  const cityBy=id=>travelCities.find(c=>c.id===id),countryBy=id=>travelCountries.find(c=>c.id===id);

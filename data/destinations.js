@@ -1,3 +1,4 @@
+/* Static content only. Edit stable IDs here; views read this catalog. */
 const travelCountries = [
   {
     "id": "hu",
@@ -42,6 +43,8 @@ const travelCountries = [
     "tourism": "https://www.germany.travel/en/home.html"
   }
 ];
+
+/* Static content only. Edit stable IDs here; views read this catalog. */
 const travelCities = [
   {
     "id": "budapest",
@@ -59,56 +62,6 @@ const travelCities = [
     "mapurl": "https://bkk.hu/en/maps/",
     "tourism": "https://www.budapestinfo.hu/",
     "transit": "地铁、电车、公交由 BKK 统筹。机场 100E 通常需要专用票；请核对当前票种。",
-    "places": [
-      {
-        "name": "匈牙利国会大厦",
-        "local": "Országház",
-        "lat": 47.507,
-        "lon": 19.045,
-        "description": "多瑙河东岸的新哥特式地标。参观内部需要按官方安排预约或购票。",
-        "category": "landmark"
-      },
-      {
-        "name": "渔人堡",
-        "local": "Halászbástya",
-        "lat": 47.502,
-        "lon": 19.034,
-        "description": "布达城堡山的观景平台，能俯瞰多瑙河与议会大厦，紧邻马加什教堂。",
-        "category": "landmark"
-      },
-      {
-        "name": "塞切尼温泉",
-        "local": "Széchenyi Gyógyfürdő",
-        "lat": 47.5187,
-        "lon": 19.0825,
-        "description": "城市公园内的历史温泉浴场，以室外池和黄色建筑闻名。",
-        "category": "other"
-      },
-      {
-        "category": "church",
-        "name": "圣斯蒂芬大教堂",
-        "local": "Szent István-bazilika",
-        "lat": 47.5009,
-        "lon": 19.0538,
-        "description": "佩斯市中心的重要教堂，穹顶是城市天际线的一部分。"
-      },
-      {
-        "category": "museum",
-        "name": "匈牙利国家博物馆",
-        "local": "Magyar Nemzeti Múzeum",
-        "lat": 47.4912,
-        "lon": 19.0626,
-        "description": "了解匈牙利历史与文化的重要博物馆。"
-      },
-      {
-        "category": "university",
-        "name": "罗兰大学主楼区域",
-        "local": "ELTE, Egyetem tér",
-        "lat": 47.4903,
-        "lon": 19.0586,
-        "description": "历史悠久的综合大学；标记为大学广场附近主楼，不代表全部校区。"
-      }
-    ],
     "river": "多瑙河（Duna）贯穿城市，西岸布达多丘陵，东岸佩斯较平坦。",
     "climate": "夏季常较热，冬季寒冷；春秋适合步行，河边有风，准备可叠穿衣物。",
     "currency": "匈牙利福林 HUF",
@@ -130,40 +83,6 @@ const travelCities = [
     "mapurl": "https://www.dkv.hu/",
     "tourism": "https://visitdebrecen.com/",
     "transit": "DKV 运营电车、无轨电车与公交。第三方 menetrend.app 可辅助查询；实时信息以 DKV 为准。",
-    "places": [
-      {
-        "name": "改革宗大教堂",
-        "local": "Református Nagytemplom",
-        "lat": 47.5325,
-        "lon": 21.6244,
-        "description": "市中心的黄色双塔教堂，是德布勒森最具辨识度的建筑之一。",
-        "category": "church"
-      },
-      {
-        "name": "德里博物馆",
-        "local": "Déri Múzeum",
-        "lat": 47.533,
-        "lon": 21.621,
-        "description": "收藏艺术与地方历史文物，因蒙卡奇的绘画作品而受到关注。",
-        "category": "museum"
-      },
-      {
-        "name": "大森林公园",
-        "local": "Nagyerdő",
-        "lat": 47.554,
-        "lon": 21.63,
-        "description": "城北的绿地与休闲区，适合步行，附近有大学与温泉设施。",
-        "category": "park"
-      },
-      {
-        "category": "university",
-        "name": "德布勒森大学主楼",
-        "local": "Debreceni Egyetem",
-        "lat": 47.5541,
-        "lon": 21.621,
-        "description": "大森林旁的大学主楼，体现城市的学术氛围。"
-      }
-    ],
     "river": "市区没有像多瑙河那样贯穿中心的大河；主要是匈牙利东部平原城市。",
     "climate": "内陆大陆性特征明显，夏季可炎热，冬季寒冷；郊外活动注意防晒和天气变化。",
     "currency": "匈牙利福林 HUF",
@@ -185,48 +104,6 @@ const travelCities = [
     "mapurl": "https://szkt.hu/",
     "tourism": "https://szegedtourism.hu/en/",
     "transit": "SZKT 的电车与无轨电车服务覆盖市区；公交及区域线路还需核对相应运营商。",
-    "places": [
-      {
-        "name": "塞格德还愿教堂",
-        "local": "Szegedi Dóm",
-        "lat": 46.2489,
-        "lon": 20.1482,
-        "description": "教堂广场上的双塔地标，与洪灾后的重建记忆紧密相连。",
-        "category": "church"
-      },
-      {
-        "name": "塞格德新犹太会堂",
-        "local": "Új zsinagóga",
-        "lat": 46.2534,
-        "lon": 20.141,
-        "description": "穹顶与彩色玻璃十分醒目，体现多种建筑风格的融合。",
-        "category": "church"
-      },
-      {
-        "name": "塞切尼广场",
-        "local": "Széchenyi tér",
-        "lat": 46.2546,
-        "lon": 20.1486,
-        "description": "绿树环绕的中心广场，可看到市政厅，是漫步旧城的起点。",
-        "category": "landmark"
-      },
-      {
-        "category": "museum",
-        "name": "莫拉·费伦茨博物馆",
-        "local": "Móra Ferenc Múzeum",
-        "lat": 46.2522,
-        "lon": 20.1522,
-        "description": "河岸附近的博物馆，收藏地方历史、考古和艺术。"
-      },
-      {
-        "category": "university",
-        "name": "塞格德大学主楼",
-        "local": "Szegedi Tudományegyetem",
-        "lat": 46.2493,
-        "lon": 20.1462,
-        "description": "杜戈尼奇广场的大学主楼，大学设施还分布在城市其他地方。"
-      }
-    ],
     "river": "蒂萨河（Tisza）沿市区东侧流过，河岸是散步和认识城市的好线索。",
     "climate": "日照较多，夏季偏热；冬季寒冷。暖季游河岸注意防晒，出发前查短期预报。",
     "currency": "匈牙利福林 HUF",
@@ -248,40 +125,6 @@ const travelCities = [
     "mapurl": "https://www.wienerlinien.at/web/wl-en/maps",
     "tourism": "https://www.wien.info/en",
     "transit": "U-Bahn、S-Bahn、电车与公交共同覆盖城市。机场位于市区核心票区之外，购票时留意目的地。",
-    "places": [
-      {
-        "name": "圣斯蒂芬大教堂",
-        "local": "Stephansdom",
-        "lat": 48.2085,
-        "lon": 16.3731,
-        "description": "老城中心的哥特式教堂，彩色屋顶和南塔是维也纳的象征。",
-        "category": "church"
-      },
-      {
-        "name": "美泉宫",
-        "local": "Schloss Schönbrunn",
-        "lat": 48.1845,
-        "lon": 16.3122,
-        "description": "哈布斯堡王朝的夏宫，拥有宫殿展室与宽阔花园，位于市中心西南。",
-        "category": "landmark"
-      },
-      {
-        "name": "美景宫",
-        "local": "Schloss Belvedere",
-        "lat": 48.1915,
-        "lon": 16.3809,
-        "description": "巴洛克宫殿与艺术收藏所在地，上美景宫收藏克里姆特的《吻》。",
-        "category": "museum"
-      },
-      {
-        "category": "university",
-        "name": "维也纳大学主楼",
-        "local": "Universität Wien",
-        "lat": 48.2132,
-        "lon": 16.3597,
-        "description": "环城大道上的大学主楼，大学成立于1365年；部分空间的参观规则需查官网。"
-      }
-    ],
     "river": "多瑙河（Donau）及多瑙运河（Donaukanal）共同塑造城市；老城并非紧贴主河道。",
     "climate": "四季分明，夏季也可能出现热浪，冬季寒冷且风明显；春秋准备雨具和薄外套。",
     "currency": "欧元 EUR",
@@ -303,48 +146,6 @@ const travelCities = [
     "mapurl": "https://salzburg-verkehr.at/",
     "tourism": "https://www.salzburg.info/en",
     "transit": "城市无轨电车、公交与区域铁路可在交通联盟网站查询。前往周边湖区要核对返程班次。",
-    "places": [
-      {
-        "name": "霍亨萨尔茨堡城堡",
-        "local": "Festung Hohensalzburg",
-        "lat": 47.795,
-        "lon": 13.0473,
-        "description": "俯瞰老城的大型城堡，可步行或乘缆车上山，视野覆盖城市与周边山地。",
-        "category": "landmark"
-      },
-      {
-        "name": "莫扎特出生地",
-        "local": "Mozarts Geburtshaus",
-        "lat": 47.8,
-        "lon": 13.0434,
-        "description": "粮食胡同上的黄色建筑，现为介绍莫扎特童年与家庭的博物馆。",
-        "category": "museum"
-      },
-      {
-        "name": "米拉贝尔宫与花园",
-        "local": "Schloss Mirabell",
-        "lat": 47.8055,
-        "lon": 13.0413,
-        "description": "河西岸的宫殿与几何花园，从花园可望见老城与城堡。",
-        "category": "landmark"
-      },
-      {
-        "category": "church",
-        "name": "萨尔茨堡大教堂",
-        "local": "Salzburger Dom",
-        "lat": 47.7978,
-        "lon": 13.0469,
-        "description": "老城中心的巴洛克教堂，周围广场适合步行探索。"
-      },
-      {
-        "category": "university",
-        "name": "萨尔茨堡大学大学广场区域",
-        "local": "Universität Salzburg, Universitätsplatz",
-        "lat": 47.7988,
-        "lon": 13.0434,
-        "description": "巴黎·洛德隆大学在老城有多处设施；此点标示大学广场周边。"
-      }
-    ],
     "river": "萨尔察赫河（Salzach）把老城与新城分开，沿河可欣赏城堡和教堂天际线。",
     "climate": "受阿尔卑斯山影响，降水较多；夏季也带雨具，冬季注意湿冷与可能的降雪。",
     "currency": "欧元 EUR",
@@ -366,56 +167,6 @@ const travelCities = [
     "mapurl": "https://www.ivb.at/",
     "tourism": "https://www.innsbruck.info/en/",
     "transit": "市区电车与公交由 IVB 运营。山地缆车独立购票，运行时间及天气可能影响行程。",
-    "places": [
-      {
-        "name": "黄金屋顶",
-        "local": "Goldenes Dachl",
-        "lat": 47.2686,
-        "lon": 11.3933,
-        "description": "老城中覆有镀金铜瓦的凸窗，是与马克西米连一世相关的城市地标。",
-        "category": "landmark"
-      },
-      {
-        "name": "北链山缆车起点",
-        "local": "Congress / Nordkette",
-        "lat": 47.2717,
-        "lon": 11.3958,
-        "description": "从 Congress 站进入北链山交通系统；此标记为市区起点，不是山顶。",
-        "category": "other"
-      },
-      {
-        "name": "贝吉瑟尔跳台",
-        "local": "Bergisel Sprungschanze",
-        "lat": 47.249,
-        "lon": 11.3994,
-        "description": "扎哈·哈迪德设计的跳台建筑，结合滑雪历史与城市全景。",
-        "category": "landmark"
-      },
-      {
-        "category": "church",
-        "name": "圣雅各大教堂",
-        "local": "Dom zu St. Jakob",
-        "lat": 47.2695,
-        "lon": 11.3938,
-        "description": "老城北部的巴洛克教堂，紧邻宫廷建筑。"
-      },
-      {
-        "category": "museum",
-        "name": "蒂罗尔州立博物馆",
-        "local": "Tiroler Landesmuseum Ferdinandeum",
-        "lat": 47.2666,
-        "lon": 11.3979,
-        "description": "收藏蒂罗尔地区的艺术与历史；参观前确认整修和开放安排。"
-      },
-      {
-        "category": "university",
-        "name": "因斯布鲁克大学主楼",
-        "local": "Universität Innsbruck",
-        "lat": 47.2631,
-        "lon": 11.3841,
-        "description": "因河畔的大学主楼区域，大学校区还分布在其他城区。"
-      }
-    ],
     "river": "因河（Inn）穿过山谷，北侧山脉与老城相邻；河谷地形影响交通走向。",
     "climate": "山地天气变化快，谷底与山上温差明显；即使夏季上山也应备保暖层，关注焚风和缆车运行。",
     "currency": "欧元 EUR",
@@ -437,48 +188,6 @@ const travelCities = [
     "mapurl": "https://www.bvg.de/en/connections/network-maps-and-routes",
     "tourism": "https://www.visitberlin.de/en",
     "transit": "地铁、电车、公交与 S-Bahn 联网。BER 机场属于 C 区，从市中心出发通常需 ABC 票。",
-    "places": [
-      {
-        "name": "勃兰登堡门",
-        "local": "Brandenburger Tor",
-        "lat": 52.5163,
-        "lon": 13.3777,
-        "description": "城市的经典地标，也见证了冷战分隔与德国统一。",
-        "category": "landmark"
-      },
-      {
-        "name": "博物馆岛",
-        "local": "Museumsinsel",
-        "lat": 52.5206,
-        "lon": 13.401,
-        "description": "施普雷河上的博物馆群；各馆开放及施工状态不同，参观前查官网。",
-        "category": "museum"
-      },
-      {
-        "name": "东边画廊",
-        "local": "East Side Gallery",
-        "lat": 52.505,
-        "lon": 13.4397,
-        "description": "保留的柏林墙段成为露天艺术长廊，位于施普雷河东侧。",
-        "category": "museum"
-      },
-      {
-        "category": "church",
-        "name": "柏林大教堂",
-        "local": "Berliner Dom",
-        "lat": 52.5191,
-        "lon": 13.401,
-        "description": "博物馆岛旁的穹顶教堂，可与附近博物馆安排在同一区域。"
-      },
-      {
-        "category": "university",
-        "name": "柏林洪堡大学主楼",
-        "local": "Humboldt-Universität zu Berlin",
-        "lat": 52.5187,
-        "lon": 13.3939,
-        "description": "菩提树下大街上的大学主楼，是城市学术历史的重要地标。"
-      }
-    ],
     "river": "施普雷河（Spree）穿过中心城区，哈弗尔河（Havel）及众多湖泊分布在更外围。",
     "climate": "冬季寒冷且日照时间短，夏季较暖也有热天；带雨具，按季节安排户外时间。",
     "currency": "欧元 EUR",
@@ -500,56 +209,6 @@ const travelCities = [
     "mapurl": "https://www.mvv-muenchen.de/en/maps-stations/maps/index.html",
     "tourism": "https://www.munich.travel/en",
     "transit": "U-Bahn、S-Bahn、电车与公交采用交通联盟票制。机场位于城外，购票时核对分区。",
-    "places": [
-      {
-        "name": "玛利亚广场",
-        "local": "Marienplatz",
-        "lat": 48.1374,
-        "lon": 11.5755,
-        "description": "新市政厅与钟琴所在的老城核心广场，适合开始步行探索。",
-        "category": "landmark"
-      },
-      {
-        "name": "英国花园",
-        "local": "Englischer Garten",
-        "lat": 48.151,
-        "lon": 11.589,
-        "description": "巨大的城市公园，包含草地、河流与啤酒花园；标记位于公园南部。",
-        "category": "park"
-      },
-      {
-        "name": "宁芬堡宫",
-        "local": "Schloss Nymphenburg",
-        "lat": 48.1583,
-        "lon": 11.5033,
-        "description": "巴伐利亚王室的夏宫，位于中心城区西侧，拥有宽阔园林。",
-        "category": "landmark"
-      },
-      {
-        "category": "church",
-        "name": "圣母教堂",
-        "local": "Frauenkirche",
-        "lat": 48.1386,
-        "lon": 11.573,
-        "description": "双塔圆顶是慕尼黑的经典城市符号。"
-      },
-      {
-        "category": "museum",
-        "name": "老绘画陈列馆",
-        "local": "Alte Pinakothek",
-        "lat": 48.1486,
-        "lon": 11.5701,
-        "description": "艺术区的重要美术馆，以欧洲古典绘画收藏闻名。"
-      },
-      {
-        "category": "university",
-        "name": "慕尼黑大学主楼",
-        "local": "Ludwig-Maximilians-Universität",
-        "lat": 48.1508,
-        "lon": 11.5802,
-        "description": "路德维希大街上的大学主楼，适合结合周边艺术区探索。"
-      }
-    ],
     "river": "伊萨尔河（Isar）流经城市东部，是步行、骑行和河边休闲的重要轴线。",
     "climate": "受阿尔卑斯山影响，天气变化较快，可能出现焚风；夏季有阵雨，冬季较冷。",
     "currency": "欧元 EUR",
@@ -571,48 +230,6 @@ const travelCities = [
     "mapurl": "https://www.hvv.de/en/plans",
     "tourism": "https://www.hamburg-travel.com/",
     "transit": "U-Bahn、S-Bahn、公交与部分港口渡轮属于 hvv 网络；观光游船通常独立售票。",
-    "places": [
-      {
-        "name": "易北爱乐厅",
-        "local": "Elbphilharmonie",
-        "lat": 53.5413,
-        "lon": 9.9841,
-        "description": "玻璃波浪屋顶与历史仓库结合的音乐厅，是港城的新地标。",
-        "category": "landmark"
-      },
-      {
-        "name": "仓库城",
-        "local": "Speicherstadt",
-        "lat": 53.5438,
-        "lon": 9.991,
-        "description": "运河边的历史红砖仓库群，与邻近港城形成鲜明对照。",
-        "category": "landmark"
-      },
-      {
-        "name": "圣米迦勒教堂",
-        "local": "St. Michaelis",
-        "lat": 53.5484,
-        "lon": 9.9787,
-        "description": "昵称“Michel”的巴洛克教堂，塔楼是经典城市观景点。",
-        "category": "church"
-      },
-      {
-        "category": "museum",
-        "name": "汉堡美术馆",
-        "local": "Hamburger Kunsthalle",
-        "lat": 53.5555,
-        "lon": 10.0036,
-        "description": "靠近中央车站，收藏从古典到现代的欧洲艺术。"
-      },
-      {
-        "category": "university",
-        "name": "汉堡大学主楼",
-        "local": "Universität Hamburg",
-        "lat": 53.5622,
-        "lon": 9.9895,
-        "description": "达姆门附近的大学主楼，校园分布在多个城区。"
-      }
-    ],
     "river": "易北河（Elbe）连接港口；阿尔斯特河与内、外阿尔斯特湖形成市中心水景。",
     "climate": "海洋性影响明显，常有风和阵雨；防风防水外套比只带伞更实用，夏夜也可能凉。",
     "currency": "欧元 EUR",
@@ -634,40 +251,6 @@ const travelCities = [
     "mapurl": "https://www.kvb.koeln/",
     "tourism": "https://www.cologne-tourism.com/",
     "transit": "轻轨 Stadtbahn 与公交构成市区交通。跨城行程要核对区域票制和列车类别。",
-    "places": [
-      {
-        "name": "科隆大教堂",
-        "local": "Kölner Dom",
-        "lat": 50.9413,
-        "lon": 6.9583,
-        "description": "拥有高耸双塔的哥特式大教堂，也是 UNESCO 世界遗产。",
-        "category": "church"
-      },
-      {
-        "name": "霍亨索伦桥",
-        "local": "Hohenzollernbrücke",
-        "lat": 50.9414,
-        "lon": 6.9657,
-        "description": "横跨莱茵河的铁路桥，步行道可欣赏教堂与河岸天际线。",
-        "category": "landmark"
-      },
-      {
-        "name": "路德维希博物馆",
-        "local": "Museum Ludwig",
-        "lat": 50.9408,
-        "lon": 6.9603,
-        "description": "大教堂附近的现代艺术博物馆，拥有波普艺术与毕加索作品收藏。",
-        "category": "museum"
-      },
-      {
-        "category": "university",
-        "name": "科隆大学主楼",
-        "local": "Universität zu Köln",
-        "lat": 50.9281,
-        "lon": 6.9285,
-        "description": "市中心西南的大学主楼，所在校园适合步行感受大学氛围。"
-      }
-    ],
     "river": "莱茵河（Rhein）贯穿城市，老城和大教堂在西岸，道依茨位于东岸。",
     "climate": "冬季相对德国东部通常温和，但仍可能低温；全年注意雨天，夏季可能闷热。",
     "currency": "欧元 EUR",

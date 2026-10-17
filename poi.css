@@ -6,3 +6,5 @@
 
 .map-tree-leaf.active{background:var(--card-soft,#edf2e5);border-radius:5px;box-shadow:inset 2px 0 var(--card-accent,#4f6c50)}
 .map-tree-primary{position:sticky;top:0;z-index:1}.map-focused>.breadcrumbs{padding:16px 0 10px}.map-focused>.map-destination-heading{margin:0 0 16px;padding:0 0 14px}.map-focused>.map-destination-heading h1{margin:0;font-size:26px}.map-focused>.map-destination-heading h1 small{font-size:17px}
+
+.poi-marker{background:var(--pin-color,#4f6c50)}
