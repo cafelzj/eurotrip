@@ -50,6 +50,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   }
   console.log('PASS no inferred pins for people/food/facts/companies; exact venue pin and full-map focus; obsolete detail routes removed');
   await page.goto(base+'/#guide/at/vienna?zone=food&kind='+encodeURIComponent('连锁餐饮品牌'));
+  assert.equal(await page.locator('#hubKind').inputValue(),'连锁餐饮','old brand category link opens the merged category');
+  assert.equal(await page.locator('[data-knowledge-card="venue-nordsee-vienna"]').count(),1);
   await page.locator('[data-knowledge-card="brand-chain-nordsee"] .card-pin-action').click();await settle(page);
   assert.equal(await page.locator('[data-dynamic-kind="restaurant"]').isChecked(),true);
   await page.waitForFunction(()=>document.querySelector('#poiStatus').textContent.includes('未找到'));
