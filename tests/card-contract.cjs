@@ -61,7 +61,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await page.screenshot({path:'/tmp/country-simple.png'});
   await page.locator('.destination-cities a[href="#guide/at/vienna"]').click();await settle(page);
   const cityLayout=await page.locator('.destination-hero').boundingBox();assert.equal(cityLayout.width,countryLayout.width);
-  assert.equal(await page.locator('.destination-facts article').count(),3);
+  assert.equal(await page.locator('.destination-facts').count(),0);
   if(await page.locator('#miniMapToggle').isVisible())await page.locator('#miniMapToggle').click();assert.equal(await page.locator('#miniMapFull').getAttribute('href'),'#map/vienna');
   await page.screenshot({path:'/tmp/city-simple.png'});
   await page.setViewportSize({width:390,height:844});
