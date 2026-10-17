@@ -25,6 +25,8 @@ python3 -m http.server 3014 --bind 0.0.0.0
 
 仅保留可在欧洲国家或中国城市集合中找到的独立卡片详情，当前卡片数量以数据目录为准。国家、城市与地图使用各自的指南/地图路由，不再创建重复卡片；词汇继续使用现有四语详情对话框。卡片之间保留有明确意义的双向知识关联和官方来源，但知识关联不推导地图坐标。旧的卡片漫游与分类详情渲染代码已删除。
 
+每张卡片详情均有「ChatGPT 生成介绍」按钮，在新标签页打开 ChatGPT，并通过 `q` 参数带入当前卡片的公开名称、类型、所在地、简介、补充说明、少量知识关联与参考入口。默认请求约 800 字的中文介绍，针对地点、美食、人物、品牌等使用不同的介绍要求；不把已有卡片或模板文字伪装成现场生成的文章。实际生成在 ChatGPT 进行，是否登录及服务可用性由 ChatGPT 决定。无需模型后端或前端 API 密钥。另可复制提示词到其他模型；剪贴板不可用时提供可选中的文本。不会包含收藏、浏览历史或未公开凭据。
+
 每张卡片只有以下一种地图行为，由 `KnowledgeHub.mapBinding` 集中判定：
 
 | 行为 | 数据与交互 |
@@ -116,6 +118,7 @@ python3 -m http.server 3014 --bind 0.0.0.0
 运行时代码各司其职：
 
 - `card-store.js`：加载数据、注册卡片、维护双向关系、保存和恢复即时门店；兼容旧会话中的动态卡片。
+- `card-ai.js`：按卡片类型组织介绍要求和公开上下文，生成 ChatGPT 链接及复制提示词交互。
 - `card-graph.js`：仅负责卡片详情、来源和关联跳转的展示。
 - `china-regions.js`：省份、地级市与县级目的地关系，规范/旧路径解析、行政面包屑、三级选择器与下辖范围判定。
 - `knowledge-hub.js`：国家/城市范围、分类筛选、卡片列表与地图入口；不再内嵌服务品牌或饮食内容。
@@ -141,6 +144,7 @@ SITE_URL=http://127.0.0.1:3014 node tests/categories.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/map-tree.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/map-zoom.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-contract.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/card-ai.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/guide.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-paths.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/series-layers.cjs
