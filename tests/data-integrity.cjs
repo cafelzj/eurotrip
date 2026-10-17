@@ -13,7 +13,11 @@ assert(cards.filter(n=>n.type==='place'&&n.point?.group==='transport').every(n=>
 for(const country of ['hu','at','de']){assert.equal(byId.get('tip-'+country+'-money').category,'brands');for(const suffix of ['deposit',country==='hu'?'hours':'sunday'])assert.equal(byId.get('tip-'+country+'-'+suffix).category,'brands');}
 assert.equal(byId.get('tip-common-bill').category,'food');for(const id of ['tip-hu-food','tip-at-water','tip-de-water'])assert.equal(byId.get(id).category,'food');
 for(const city of cities){for(const id of ['tip-city-'+city.id,'tip-'+city.id+'-ticket-choice','tip-'+city.id+'-transit-tools'])assert.equal(byId.get(id).category,'transport');}
-assert(cards.filter(n=>n.category==='essential').every(n=>['daily','pharmacy'].includes(n.subcategory)));
+assert(cards.filter(n=>n.category==='essential').every(n=>n.subcategory==='daily'));
+assert.deepEqual(categories.primary.map(c=>c.id),['essential','transport','food','brands','places','facts']);
+assert.equal(secondary.get('pharmacy').category,'brands');
+for(const country of ['hu','at','de']){assert.equal(byId.get('tip-'+country+'-pharmacy').category,'brands');assert.equal(byId.get('tip-'+country+'-shared-mobility').subcategory,'shared-mobility');}
+for(const city of ['budapest','vienna','berlin','munich','hamburg']){const n=byId.get('tip-'+city+'-metro');assert.equal(n.city,city);assert.equal(n.subcategory,'metro');assert.equal(n.category,'transport');assert(!n.point&&!n.searchKind);}
 vm.runInContext(fs.readFileSync(path.join(root,'card-store.js'),'utf8'),context,{filename:'card-store.js'});
 assert.equal(context.CardStore.nodes.size,cards.length);assert([...context.CardStore.nodes.values()].every(n=>!n.point||n.point.knowledgeId===n.id));assert.equal([...context.CardStore.edges.values()].reduce((sum,es)=>sum+es.length,0),relations.length*2);
 assert([...context.CardStore.edges].every(([id,es])=>es.every(e=>(context.CardStore.edges.get(e.to)||[]).some(back=>back.to===id))));

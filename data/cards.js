@@ -7363,7 +7363,7 @@ const travelCards = [
         "匈牙利药房查询"
       ]
     ],
-    "category": "essential",
+    "category": "brands",
     "subcategory": "pharmacy"
   },
   {
@@ -7380,7 +7380,7 @@ const travelCards = [
         "奥地利药师公会"
       ]
     ],
-    "category": "essential",
+    "category": "brands",
     "subcategory": "pharmacy"
   },
   {
@@ -7397,7 +7397,7 @@ const travelCards = [
         "aponet 药房与值班查询"
       ]
     ],
-    "category": "essential",
+    "category": "brands",
     "subcategory": "pharmacy"
   },
   {
@@ -8643,5 +8643,175 @@ const travelCards = [
     ],
     "category": "transport",
     "subcategory": "tickets"
+  },
+  {
+    "id": "tip-budapest-metro",
+    "type": "tip",
+    "country": "hu",
+    "city": "budapest",
+    "name": "布达佩斯 · 地铁怎么认、怎么坐",
+    "local": "Metró",
+    "description": "M1、M2、M3、M4 构成城市地铁骨架。M1 是历史悠久的千禧地铁；按线路编号和终点方向找站台。",
+    "note": "换乘、纸票验证与电子票启用请按 BKK 对应票种说明操作；机场 100E 巴士不属于地铁线路。",
+    "sources": [
+      [
+        "https://bkk.hu/en/tickets-and-passes/budapestgo/",
+        "BudapestGO · 工具入口"
+      ],
+      [
+        "https://bkk.hu/en/maps/",
+        "官方交通图 / 线路查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "metro"
+  },
+  {
+    "id": "tip-vienna-metro",
+    "type": "tip",
+    "country": "at",
+    "city": "vienna",
+    "name": "维也纳 · 地铁怎么认、怎么坐",
+    "local": "U-Bahn",
+    "description": "认准 U 标识。U-Bahn 是城市地铁，S-Bahn 是市郊铁路；两者可换乘，但要按实际行程核对票区。",
+    "note": "地铁延伸与施工可能改变线路，出发前查看 Wiener Linien 的最新线路图和运营公告；机场行程还需另核对市区外区段。",
+    "sources": [
+      [
+        "https://www.wienerlinien.at/web/wl-en/wienmobil",
+        "WienMobil · 工具入口"
+      ],
+      [
+        "https://www.wienerlinien.at/web/wl-en/maps",
+        "官方交通图 / 线路查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "metro"
+  },
+  {
+    "id": "tip-berlin-metro",
+    "type": "tip",
+    "country": "de",
+    "city": "berlin",
+    "name": "柏林 · 地铁怎么认、怎么坐",
+    "local": "U-Bahn",
+    "description": "认准蓝底白色 U 标识；绿色 S 标识对应 S-Bahn。两套网络可以互相换乘，规划路线时看清站名、方向与票区。",
+    "note": "BER 机场位于 C 区，不能把仅覆盖 AB 区的票用于完整机场行程；班次、施工与停运请查 BVG / VBB。",
+    "sources": [
+      [
+        "https://www.bvg.de/en",
+        "BVG Fahrinfo / BVG Tickets · 工具入口"
+      ],
+      [
+        "https://www.bvg.de/en/connections/network-maps-and-routes",
+        "官方交通图 / 线路查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "metro"
+  },
+  {
+    "id": "tip-munich-metro",
+    "type": "tip",
+    "country": "de",
+    "city": "munich",
+    "name": "慕尼黑 · 地铁怎么认、怎么坐",
+    "local": "U-Bahn",
+    "description": "U-Bahn 主要服务市区，S-Bahn 连接市郊并承担机场方向的铁路出行。用 MVG / MVV 路线图分清 U 与 S 线路。",
+    "note": "购票按出发地、目的地与适用区域核对，市区票不默认覆盖机场；换乘和临时调整请查官方路线查询。",
+    "sources": [
+      [
+        "https://www.mvg.de/services/mobile-services.html",
+        "MVGO / München Navigator · 工具入口"
+      ],
+      [
+        "https://www.mvv-muenchen.de/en/maps-stations/maps/index.html",
+        "官方交通图 / 线路查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "metro"
+  },
+  {
+    "id": "tip-hamburg-metro",
+    "type": "tip",
+    "country": "de",
+    "city": "hamburg",
+    "name": "汉堡 · 地铁怎么认、怎么坐",
+    "local": "U-Bahn",
+    "description": "U-Bahn 和 S-Bahn 共同构成城市轨道交通。虽然叫地下铁路，部分 U-Bahn 区段行驶在地面或高架上。",
+    "note": "通过 hvv 查询路线与票区；前往机场时查看机场方向 S-Bahn 的最新行程，勿只凭 U-Bahn 标识找车。",
+    "sources": [
+      [
+        "https://www.hvv.de/en/service/hvv-apps",
+        "hvv · 工具入口"
+      ],
+      [
+        "https://www.hvv.de/en/plans",
+        "官方交通图 / 线路查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "metro"
+  },
+  {
+    "id": "tip-hu-shared-mobility",
+    "type": "tip",
+    "country": "hu",
+    "name": "匈牙利 · 共享单车与滑板车",
+    "description": "布达佩斯可从 MOL Bubi 官方入口了解公共自行车；其他城市是否提供单车或电动滑板车，应在当地服务商 App 中查询。",
+    "note": "解锁前：确认是否需要注册、支付方式、起步费、计时费与押金。\n骑行前：查看当地年龄、通行区域及骑行规则，留意车辆状态与电量。\n结束时：在 App 指定的允许停车区或站点还车，确认订单结束；锁车并不一定等于停止计费。\n可用车辆、品牌和价格会变化，以当天官方 App 为准；普通公交地铁票不默认包含共享骑行。",
+    "sources": [
+      [
+        "https://molbubi.hu/en/",
+        "MOL Bubi 官方入口"
+      ],
+      [
+        "https://bkk.hu/en/",
+        "BKK 出行信息"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "shared-mobility"
+  },
+  {
+    "id": "tip-at-shared-mobility",
+    "type": "tip",
+    "country": "at",
+    "name": "奥地利 · 共享单车与滑板车",
+    "description": "维也纳可从 Wiener Linien 查询 WienMobil Rad；其他城市的品牌、服务区域和还车方式可能不同，按当地运营商 App 的说明操作。",
+    "note": "解锁前：确认是否需要注册、支付方式、起步费、计时费与押金。\n骑行前：查看当地年龄、通行区域及骑行规则，留意车辆状态与电量。\n结束时：在 App 指定的允许停车区或站点还车，确认订单结束；锁车并不一定等于停止计费。\n可用车辆、品牌和价格会变化，以当天官方 App 为准；普通公交地铁票不默认包含共享骑行。",
+    "sources": [
+      [
+        "https://www.wienerlinien.at/",
+        "Wiener Linien · WienMobil 查询入口"
+      ],
+      [
+        "https://www.nextbike.at/",
+        "nextbike 奥地利官方入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "shared-mobility"
+  },
+  {
+    "id": "tip-de-shared-mobility",
+    "type": "tip",
+    "country": "de",
+    "name": "德国 · 共享单车与滑板车",
+    "description": "共享单车和电动滑板车由不同服务商运营，城市间覆盖不同。可先查 nextbike、Lime 等官方入口，再在 App 中确认当前位置能否租还。",
+    "note": "解锁前：确认是否需要注册、支付方式、起步费、计时费与押金。\n骑行前：查看当地年龄、通行区域及骑行规则，留意车辆状态与电量。\n结束时：在 App 指定的允许停车区或站点还车，确认订单结束；锁车并不一定等于停止计费。\n可用车辆、品牌和价格会变化，以当天官方 App 为准；普通公交地铁票不默认包含共享骑行。",
+    "sources": [
+      [
+        "https://www.nextbike.de/en/",
+        "nextbike 德国官方入口"
+      ],
+      [
+        "https://www.li.me/",
+        "Lime 官方入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "shared-mobility"
   }
 ];

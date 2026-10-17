@@ -1085,5 +1085,65 @@ const cardRelations = [
     "venue-block-house-hamburg",
     "已收录的具体门店示例",
     "所属连锁品牌"
+  ],
+  [
+    "tip-budapest-metro",
+    "tip-budapest-transit-tools",
+    "查询交通 App 与线路图",
+    "地铁使用指南"
+  ],
+  [
+    "tip-budapest-metro",
+    "tip-budapest-ticket-choice",
+    "比较交通票种",
+    "地铁使用指南"
+  ],
+  [
+    "tip-vienna-metro",
+    "tip-vienna-transit-tools",
+    "查询交通 App 与线路图",
+    "地铁使用指南"
+  ],
+  [
+    "tip-vienna-metro",
+    "tip-vienna-ticket-choice",
+    "比较交通票种",
+    "地铁使用指南"
+  ],
+  [
+    "tip-berlin-metro",
+    "tip-berlin-transit-tools",
+    "查询交通 App 与线路图",
+    "地铁使用指南"
+  ],
+  [
+    "tip-berlin-metro",
+    "tip-berlin-ticket-choice",
+    "比较交通票种",
+    "地铁使用指南"
+  ],
+  [
+    "tip-munich-metro",
+    "tip-munich-transit-tools",
+    "查询交通 App 与线路图",
+    "地铁使用指南"
+  ],
+  [
+    "tip-munich-metro",
+    "tip-munich-ticket-choice",
+    "比较交通票种",
+    "地铁使用指南"
+  ],
+  [
+    "tip-hamburg-metro",
+    "tip-hamburg-transit-tools",
+    "查询交通 App 与线路图",
+    "地铁使用指南"
+  ],
+  [
+    "tip-hamburg-metro",
+    "tip-hamburg-ticket-choice",
+    "比较交通票种",
+    "地铁使用指南"
   ]
 ];

@@ -5,7 +5,7 @@ const cardCategories = {
       "id": "essential",
       "icon": "🧭",
       "name": "必备信息",
-      "description": "医药、应急与容易忽略的日常提醒",
+      "description": "应急求助与容易忽略的日常准备",
       "prefix": "必",
       "color": "#4f6c50"
     },
@@ -13,7 +13,7 @@ const cardCategories = {
       "id": "transport",
       "icon": "🚆",
       "name": "交通出行",
-      "description": "交通 App、线路图、票务、机场、火车站与轮渡码头",
+      "description": "地铁、共享骑行、交通 App、线路图、票务与交通枢纽",
       "prefix": "交",
       "color": "#3d7775"
     },
@@ -29,17 +29,9 @@ const cardCategories = {
       "id": "brands",
       "icon": "🛍️",
       "name": "购物",
-      "description": "支付、货币、超市、商圈、银行、药妆与企业品牌",
+      "description": "支付、货币、超市、商圈、银行、医药与企业品牌",
       "prefix": "购",
       "color": "#486b84"
-    },
-    {
-      "id": "facts",
-      "icon": "💡",
-      "name": "冷知识与人物",
-      "description": "从历史、地理和人物认识当地",
-      "prefix": "知",
-      "color": "#73608b"
     },
     {
       "id": "places",
@@ -48,6 +40,14 @@ const cardCategories = {
       "description": "教堂、博物馆、展览空间、剧院与公园",
       "prefix": "景",
       "color": "#826b3e"
+    },
+    {
+      "id": "facts",
+      "icon": "💡",
+      "name": "冷知识与人物",
+      "description": "从历史、地理和人物认识当地",
+      "prefix": "知",
+      "color": "#73608b"
     }
   ],
   "secondary": [
@@ -57,13 +57,6 @@ const cardCategories = {
       "name": "日常 / 应急",
       "icon": "🧳",
       "description": "紧急求助与旅行中的日常准备，提前保存重要联系方式。"
-    },
-    {
-      "id": "pharmacy",
-      "category": "essential",
-      "name": "医药服务",
-      "icon": "💊",
-      "description": "分清药房与药妆店，从官方渠道寻找药品与值班服务。"
     },
     {
       "id": "tickets",
@@ -78,6 +71,20 @@ const cardCategories = {
       "name": "交通 App / 线路图",
       "icon": "🚇",
       "description": "随身查询工具与官方线路图入口，实时班次和服务状态以运营商为准。"
+    },
+    {
+      "id": "metro",
+      "category": "transport",
+      "name": "地铁",
+      "icon": "🚇",
+      "description": "认识城市地铁的标识、换乘与线路图，留意与市郊铁路、轻轨的区别；运营调整以官方公告为准。"
+    },
+    {
+      "id": "shared-mobility",
+      "category": "transport",
+      "name": "共享单车 / 滑板车",
+      "icon": "🚲",
+      "description": "先在运营商 App 中确认服务范围、费用与停车区，再解锁骑行；公共交通票通常不默认包含共享骑行。"
     },
     {
       "id": "transport-rules",
@@ -239,6 +246,13 @@ const cardCategories = {
       "name": "银行",
       "icon": "🏦",
       "description": "银行与 ATM 查询线索，品牌不代表免手续费。"
+    },
+    {
+      "id": "pharmacy",
+      "category": "brands",
+      "name": "医药服务",
+      "icon": "💊",
+      "description": "分清药房与药妆店，从官方渠道寻找药品与值班服务。"
     },
     {
       "id": "drugstore",
