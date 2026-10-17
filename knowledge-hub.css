@@ -26,13 +26,22 @@
 .destination-hero{display:block!important;margin:26px 0!important;padding:0!important;border:0!important;background:none!important}.destination-hero h1{font-size:clamp(30px,4vw,44px);color:#243e3e;margin:12px 0}.destination-hero h1 small{display:inline-block;margin-left:18px;font-size:16px;font-weight:400;color:#829181}.destination-hero p{max-width:850px;line-height:1.9;color:#637461}.destination-hero a{font-size:12px;color:#617d50}.hub-subgroup-description{margin:0 0 16px;color:#6d7865;font-size:12px;line-height:1.9}.card-pin-action{text-decoration:none}.map-destination-heading{margin:20px 0}.map-destination-heading h1{font-size:28px}.breadcrumbs a{color:#627d50;text-decoration:none;font-size:12px}@media(max-width:700px){.destination-hero h1 small{font-size:13px;margin-left:10px}.hub-subgroup-description{font-size:11px}}
 
 .hub-tabs [data-hub-topic="transport"].active{background:#3d7775;border-color:#3d7775}
-/* The China collection uses the same cards with a city-only destination picker. */
-.china-cities{grid-template-columns:repeat(auto-fit,minmax(210px,280px))}
+/* China destinations share the collection layout and use an administrative selector. */
+
 .china-mode-control .country-menu{left:auto;right:0}
 @media(max-width:700px){
  .mode-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;align-items:stretch}
  .mode-tabs .country-mode-control{max-width:none;min-width:0;display:flex}
  .mode-tabs>button,.mode-tabs .country-mode-control>button{width:100%;padding:9px 5px;font-size:11px;line-height:1.6;min-height:52px}
  .mode-tabs .country-menu>button{flex:none}
- .china-cities{grid-template-columns:1fr}
+
 }
+.china-region-fields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:15px;padding:20px;background:#eef2e6;border:1px solid #dce4d0;border-radius:10px}
+.china-region-fields label{display:flex;flex-direction:column;gap:9px;min-width:0;font-size:12px;color:#647951}
+.china-region-fields select{width:100%;min-width:0;padding:12px;border:1px solid #d3dec6;background:#fffef9;border-radius:6px;color:#365131;font:inherit;font-size:14px}
+.china-region-fields select:focus-visible{outline:2px solid #6b8657;outline-offset:2px}
+.china-region-note,.china-location{font-size:12px;line-height:1.9;color:#7b8b6d}.china-region-note a{color:#4f7040}
+.china-province-label{font-size:11px;color:#819371;padding:9px 12px 7px;border-bottom:1px solid #e6ebde;margin-bottom:3px}
+.country-menu{max-height:min(70dvh,520px);overflow:auto}
+.breadcrumbs,.entity-breadcrumb{flex-wrap:wrap}
+@media(max-width:700px){.china-region-fields{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding:14px}.china-region-fields label:last-child{grid-column:1/-1}.china-region-fields select{font-size:13px}.china-region-note{font-size:11px}.china-region-picker .destination-picker-heading>span{line-height:1.8}}

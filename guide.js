@@ -1,7 +1,7 @@
 (()=>{
  let map,explorer;
  const guide=document.querySelector('#travelGuide'),countries=travelCountries,cities=travelCities,H=KnowledgeHub;
- const europe=countries.filter(c=>!H.isChina(c)),chinaCities=cities.filter(c=>H.isChina(countries.find(n=>n.id===c.country)));
+ const europe=countries.filter(c=>!H.isChina(c)),chinaCities=ChinaRegions.destinations;
  const countryButton=document.querySelector('#travelMode'),countryMenu=document.querySelector('#countryMenu'),chinaButton=document.querySelector('#chinaMode'),chinaMenu=document.querySelector('#chinaMenu');
  const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const link=(url,label)=>`<a href="${h(url)}" target="_blank" rel="noopener noreferrer">${h(label)} ↗</a>`;
@@ -16,12 +16,12 @@
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
  function destinationHeader(country,city){
   const n=city||country,chinese=H.isChina(country);
-  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':country.flag+' '+h(country.name)+' · 欧洲国家'}</a><span>/ ${city?h(city.name):'国家概览'}</span></div><div class="destination-hero ${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}<small>${h(n.local)}</small></h1><p>${h(n.intro)}</p>${link(n.tourism,'官方旅行指南')}</div></div>`;
+  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':country.flag+' '+h(country.name)+' · 欧洲国家'}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}<small>${h(n.local)}</small></h1><p>${h(n.intro)}</p>${link(n.tourism,'官方旅行指南')}</div></div>`;
  }
  function destinationPage(country,city,zone){guide.innerHTML=destinationHeader(country,city)+H.cityPicker(country,city)+H.render(country,city,zone);H.bind(guide);}
  function mapPage(country,city,params){
   H.rememberDestination(country,city);const scope=city||country;
-  guide.innerHTML=`<div class="breadcrumbs"><a href="${H.guideUrl(country,city)}">← ${h(scope.name)} · ${H.sectionName(country)}</a></div><div class="city-hero map-destination-heading"><h1>${h(scope.name)}<small>卡片地图</small></h1></div><div class="card-map-workspace"><section id="cityExplorer" aria-label="卡片地图图层"></section><div class="map-panel"><div id="travelMap" aria-label="${h(scope.name)}卡片地图"></div><div class="map-caption"><span id="mapNotice">© ${TravelMaps.provider(country,city).name} · 参考位置</span><button id="fitMap">显示全部地点</button></div></div></div><div class="sights-column"></div>`;
+  guide.innerHTML=`<div class="breadcrumbs"><a href="${H.guideUrl(country,city)}">← ${h(scope.name)} · ${H.sectionName(country)}</a></div><div class="city-hero map-destination-heading"><h1>${h(scope.name)}<small>卡片地图</small></h1>${H.isChina(country)?`<p class="china-location">${h(ChinaRegions.label(city))}</p>`:''}</div><div class="card-map-workspace"><section id="cityExplorer" aria-label="卡片地图图层"></section><div class="map-panel"><div id="travelMap" aria-label="${h(scope.name)}卡片地图"></div><div class="map-caption"><span id="mapNotice">© ${TravelMaps.provider(country,city).name} · 参考位置</span><button id="fitMap">显示全部地点</button></div></div></div><div class="sights-column"></div>`;
   guide.classList.add('map-focused');
   if(!window.L){document.querySelector('#travelMap').textContent='地图未能加载，请从目的地卡片继续浏览。';return;}
   const center=city||cities.find(c=>c.country===country.id);
@@ -41,7 +41,8 @@
    const n=CardGraph.nodes.get(id),destination=n?H.destinationFor(n):null;setMode(H.isChina(destination?.country)?'china':'europe');guide.innerHTML=CardGraph.renderDetail(id);return;
   }
   if(parts[0]==='china'){
-   const city=chinaCities.find(c=>c.id===parts[1]);if(!city){navigate('#china/'+lastChina);return;}
+   const city=ChinaRegions.resolve(parts.slice(1));if(!city){navigate(ChinaRegions.url(ChinaRegions.get(lastChina)));return;}
+   const canonical=ChinaRegions.url(city);if('#'+path!==canonical){navigate(canonical+(query?'?'+query:''));return;}
    lastChina=city.id;try{sessionStorage.setItem('eurotrip-china-city',lastChina);}catch{}
    setMode('china');destinationPage(countries.find(c=>c.id===city.country),city,params.get('zone')||'all');return;
   }
@@ -58,7 +59,7 @@
  }
  function syncMenus(){
   const parts=location.hash.slice(1).split('?')[0].split('/');let country,city;
-  if(parts[0]==='china')city=cities.find(c=>c.id===parts[1]);
+  if(parts[0]==='china')city=ChinaRegions.resolve(parts.slice(1));
   if(parts[0]==='guide'){country=countries.find(c=>c.id===parts[1]);city=cities.find(c=>c.id===parts[2]);}
   if(parts[0]==='map'){city=cities.find(c=>c.id===parts[1]);country=countries.find(c=>c.id===parts[1]);}
   if(parts[0]==='card')try{const n=CardGraph.nodes.get(decodeURIComponent(parts[1]));if(n)({country,city}=H.destinationFor(n));}catch{}
@@ -68,9 +69,10 @@
   countryButton.textContent='◎ 欧洲国家'+(country&&!H.isChina(country)?' · '+selected.name:'')+' ▾';
   chinaButton.textContent='⌂ 中国城市'+(H.isChina(country)?' · '+currentChina.name:'')+' ▾';
   countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${c.id===selected.id?'✓':''}</i></button>`).join('');
-  chinaMenu.innerHTML=chinaCities.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===currentChina.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.name)}</b><small>${h(c.province)} · ${h(c.local)}</small></span><i>${c.id===currentChina.id?'✓':''}</i></button>`).join('');
+  const selectedRoot=ChinaRegions.parent(currentChina)||currentChina;
+  chinaMenu.innerHTML=ChinaRegions.provinces.map(province=>`<div class="china-province-label" role="presentation">${h(province.name)}</div>`+ChinaRegions.prefectures(province.id).map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selectedRoot.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.adminName)}</b><small>${h(c.local)} · 地级市</small></span><i>${c.id===selectedRoot.id?'✓':''}</i></button>`).join('')).join('');
  }
- const menus=[[countryButton,countryMenu,'data-nav-country',id=>'#guide/'+id],[chinaButton,chinaMenu,'data-nav-city',id=>'#china/'+id]];
+ const menus=[[countryButton,countryMenu,'data-nav-country',id=>'#guide/'+id],[chinaButton,chinaMenu,'data-nav-city',id=>ChinaRegions.url(ChinaRegions.get(id))]];
  function closeMenus(focusButton){for(const [button,menu]of menus){menu.hidden=true;button.setAttribute('aria-expanded','false');}focusButton?.focus();}
  function openMenu(button,menu){closeMenus();menu.hidden=false;button.setAttribute('aria-expanded','true');(menu.querySelector('[aria-checked=true]')||menu.querySelector('button'))?.focus();}
  for(const [button,menu,attribute,url]of menus){

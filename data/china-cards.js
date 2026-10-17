@@ -1,4 +1,4 @@
-/* Suzhou catalog. Static content only; all fixed coordinates are WGS84 references. */
+/* Jiangsu destinations catalog. Static content only; all fixed coordinates are WGS84 references. */
 const chinaCards = [
   {
     "id": "tip-suzhou-metro",
@@ -903,6 +903,2006 @@ const chinaCards = [
         "苏州市政府 · 城市与文旅信息入口"
       ]
     ]
+  },
+  {
+    "id": "tip-xuzhou-metro",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "metro",
+    "name": "徐州地铁 · 先查方向与末班车",
+    "description": "用线路编号、终点方向与站名规划行程；徐州站、徐州东站是不同铁路车站，需按票面站名安排接驳。",
+    "note": "线路延伸、施工与末班时间会调整，出发前查询运营商最新线路图。",
+    "sources": [
+      [
+        "https://www.xzdtjt.com/",
+        "徐州地铁官方入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xuzhou-ticket-choice",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "tickets",
+    "name": "徐州 · 地铁与城际车票怎么选",
+    "description": "地铁可比较单程购票与官方乘车服务，铁路另用 12306 查询。先确认实际出发站与目的站，再安排交通预算。",
+    "note": "普通地铁乘车码不默认适用于铁路；可用票种、票价和优惠资格以运营商为准。",
+    "sources": [
+      [
+        "https://www.xzdtjt.com/",
+        "徐州地铁官方票务入口"
+      ],
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xuzhou-transit-tools",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "name": "徐州 · 交通 App 与线路图",
+    "description": "地铁从徐州地铁及运营商官方信息开始查；铁路使用 12306，其他城市导航可用地图 App。",
+    "note": "市区交通与下辖县、县级市之间的行程要单独规划，不按同一个市名假定已经到达。",
+    "sources": [
+      [
+        "https://www.xzdtjt.com/",
+        "徐州地铁官方入口"
+      ],
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ]
+    ]
+  },
+  {
+    "id": "tip-city-xuzhou",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "徐州出行 · 全市不等于市区",
+    "description": "全市概览包含已收录的下辖县级目的地，景点之间可能需要跨城区或跨县级城市出行。",
+    "note": "点开地点卡片先看所在行政层级，再确认车程、预约时间与返程方案。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xuzhou-shared-mobility",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "shared-mobility",
+    "name": "徐州 · 共享单车补齐短途",
+    "description": "可用共享单车衔接地铁与街区，先在运营商 App 查看服务区域、车辆及允许还车点。",
+    "note": "不要默认所有景区、步行街或湖滨路径都允许骑行；遵守现场规则，还车后确认订单结束。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xuzhou-help",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "facts",
+    "subcategory": "daily",
+    "name": "徐州旅行 · 日常与紧急准备",
+    "description": "报警 110、火警 119、急救 120；保存住宿地址、紧急联系人与预约凭证。",
+    "note": "县级目的地与市区可能相距较远，节假日注意门票预约、营业与末班交通。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xuzhou-pharmacy",
+    "type": "tip",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "brands",
+    "subcategory": "pharmacy",
+    "name": "徐州 · 药店与就医",
+    "description": "日常购药查询附近正规药店，处方药和持续不适请咨询药师或医疗机构。",
+    "note": "地图辅助找位置；营业、库存与处方要求需电话或现场确认。急救请拨 120。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "brand-xuzhou-rtmart",
+    "type": "brand",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "brands",
+    "subcategory": "supermarkets",
+    "name": "大润发 · 在徐州找门店",
+    "description": "品牌卡不对应固定地址，可在地图范围内搜索当地大润发门店，补给饮水、零食与日用品。",
+    "note": "门店营业与商品库存以商家为准；全市搜索需先放大到具体城区。",
+    "sources": [
+      [
+        "https://www.rt-mart.com.cn/",
+        "品牌官方入口"
+      ]
+    ],
+    "searchKind": "supermarket",
+    "searchName": "大润发",
+    "aliases": [
+      "大润发",
+      "RT-Mart"
+    ]
+  },
+  {
+    "id": "tip-wuxi-metro",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "metro",
+    "name": "无锡地铁 · 先查方向与末班车",
+    "description": "用线路编号、终点方向与站名规划行程；无锡站、无锡东站是不同铁路车站，需按票面站名安排接驳。",
+    "note": "线路延伸、施工与末班时间会调整，出发前查询运营商最新线路图。",
+    "sources": [
+      [
+        "https://www.wxmetro.net/",
+        "无锡地铁官方入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-wuxi-ticket-choice",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "tickets",
+    "name": "无锡 · 地铁与城际车票怎么选",
+    "description": "地铁可比较单程购票与官方乘车服务，铁路另用 12306 查询。先确认实际出发站与目的站，再安排交通预算。",
+    "note": "普通地铁乘车码不默认适用于铁路；可用票种、票价和优惠资格以运营商为准。",
+    "sources": [
+      [
+        "https://www.wxmetro.net/",
+        "无锡地铁官方票务入口"
+      ],
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ]
+    ]
+  },
+  {
+    "id": "tip-wuxi-transit-tools",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "name": "无锡 · 交通 App 与线路图",
+    "description": "地铁从码上行 / 无锡地铁官方乘车服务及运营商官方信息开始查；铁路使用 12306，其他城市导航可用地图 App。",
+    "note": "市区交通与下辖县、县级市之间的行程要单独规划，不按同一个市名假定已经到达。",
+    "sources": [
+      [
+        "https://www.wxmetro.net/",
+        "无锡地铁官方入口"
+      ],
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ]
+    ]
+  },
+  {
+    "id": "tip-city-wuxi",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "无锡出行 · 全市不等于市区",
+    "description": "全市概览包含已收录的下辖县级目的地，景点之间可能需要跨城区或跨县级城市出行。",
+    "note": "点开地点卡片先看所在行政层级，再确认车程、预约时间与返程方案。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-wuxi-shared-mobility",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "shared-mobility",
+    "name": "无锡 · 共享单车补齐短途",
+    "description": "可用共享单车衔接地铁与街区，先在运营商 App 查看服务区域、车辆及允许还车点。",
+    "note": "不要默认所有景区、步行街或湖滨路径都允许骑行；遵守现场规则，还车后确认订单结束。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-wuxi-help",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "facts",
+    "subcategory": "daily",
+    "name": "无锡旅行 · 日常与紧急准备",
+    "description": "报警 110、火警 119、急救 120；保存住宿地址、紧急联系人与预约凭证。",
+    "note": "县级目的地与市区可能相距较远，节假日注意门票预约、营业与末班交通。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-wuxi-pharmacy",
+    "type": "tip",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "brands",
+    "subcategory": "pharmacy",
+    "name": "无锡 · 药店与就医",
+    "description": "日常购药查询附近正规药店，处方药和持续不适请咨询药师或医疗机构。",
+    "note": "地图辅助找位置；营业、库存与处方要求需电话或现场确认。急救请拨 120。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "brand-wuxi-rtmart",
+    "type": "brand",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "brands",
+    "subcategory": "supermarkets",
+    "name": "大润发 · 在无锡找门店",
+    "description": "品牌卡不对应固定地址，可在地图范围内搜索当地大润发门店，补给饮水、零食与日用品。",
+    "note": "门店营业与商品库存以商家为准；全市搜索需先放大到具体城区。",
+    "sources": [
+      [
+        "https://www.rt-mart.com.cn/",
+        "品牌官方入口"
+      ]
+    ],
+    "searchKind": "supermarket",
+    "searchName": "大润发",
+    "aliases": [
+      "大润发",
+      "RT-Mart"
+    ]
+  },
+  {
+    "id": "venue-xuzhou-station",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "station",
+    "name": "徐州站",
+    "description": "靠近传统市区的铁路车站，不能与徐州东站混用。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-station",
+      "lat": 34.2638,
+      "lon": 117.2152,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "station"
+    }
+  },
+  {
+    "id": "venue-xuzhou-east-station",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "transport",
+    "subcategory": "station",
+    "name": "徐州东站",
+    "description": "位于城市东部的重要高铁车站，安排市区接驳需留出时间。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-east-station",
+      "lat": 34.2667,
+      "lon": 117.3031,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "station"
+    }
+  },
+  {
+    "id": "venue-xuzhou-airport",
+    "type": "place",
+    "country": "cn",
+    "city": "suining",
+    "category": "transport",
+    "subcategory": "airport",
+    "name": "徐州观音国际机场",
+    "description": "位于睢宁县的机场。它服务徐州，但不位于传统市中心。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-airport",
+      "lat": 33.78,
+      "lon": 117.554,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "airport"
+    }
+  },
+  {
+    "id": "venue-xuzhou-museum",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "museum",
+    "name": "徐州博物馆",
+    "description": "从馆藏与考古线索认识徐州历史，可与周边汉文化主题景点比较参观。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%BE%90%E5%B7%9E%E5%8D%9A%E7%89%A9%E9%A6%86",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-museum",
+      "lat": 34.253,
+      "lon": 117.18,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "museum"
+    }
+  },
+  {
+    "id": "venue-xuzhou-han-culture",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "landmark",
+    "name": "徐州汉文化景区",
+    "description": "以汉墓、汉兵马俑等汉代文化线索组织参观，票务和展区开放分别确认。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%BE%90%E5%B7%9E%E6%B1%89%E6%96%87%E5%8C%96%E6%99%AF%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-han-culture",
+      "lat": 34.242,
+      "lon": 117.231,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "landmark"
+    }
+  },
+  {
+    "id": "venue-xuzhou-yunlong-lake",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "park",
+    "name": "云龙湖",
+    "description": "适合湖滨散步与看城市山水，环湖距离不短，按体力选择一段步行。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E4%BA%91%E9%BE%99%E6%B9%96",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-yunlong-lake",
+      "lat": 34.242,
+      "lon": 117.151,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "venue-xuzhou-yunlong-hill",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "park",
+    "name": "云龙山",
+    "description": "与云龙湖相邻但并非同一景点，可结合山林步行理解徐州的地形。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E4%BA%91%E9%BE%99%E5%B1%B1",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-yunlong-hill",
+      "lat": 34.245,
+      "lon": 117.18,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "venue-xuzhou-huaihai-memorial",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "museum",
+    "name": "淮海战役纪念馆",
+    "description": "通过展陈认识淮海战役与区域近现代历史，参观规则及开放时间查官方。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B7%AE%E6%B5%B7%E6%88%98%E5%BD%B9%E7%BA%AA%E5%BF%B5%E9%A6%86",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-huaihai-memorial",
+      "lat": 34.239,
+      "lon": 117.185,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "museum"
+    }
+  },
+  {
+    "id": "venue-xuzhou-huilongwo",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "回龙窝历史文化街区",
+    "description": "从街巷、建筑与更新后的公共空间观察彭城生活。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%9B%9E%E9%BE%99%E7%AA%9D%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E8%A1%97%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-huilongwo",
+      "lat": 34.257,
+      "lon": 117.19,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "venue-xuzhou-hubushan",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "places",
+    "subcategory": "landmark",
+    "name": "户部山",
+    "description": "以历史街巷与古民居认识徐州城市生活，可与回龙窝安排同一片区步行。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%88%B7%E9%83%A8%E5%B1%B1",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-hubushan",
+      "lat": 34.255,
+      "lon": 117.186,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "landmark"
+    }
+  },
+  {
+    "id": "venue-xuzhou-suning-plaza",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "brands",
+    "subcategory": "shopping-districts",
+    "name": "徐州苏宁广场",
+    "description": "市中心的现代商业综合体线索，可与彭城广场周边街区一起规划。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-suning-plaza",
+      "lat": 34.264,
+      "lon": 117.186,
+      "coordSystem": "wgs84",
+      "group": "shopping",
+      "sub": "shopping-districts"
+    }
+  },
+  {
+    "id": "venue-xuzhou-pengcheng-square",
+    "type": "place",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "brands",
+    "subcategory": "shopping-districts",
+    "name": "彭城广场商圈",
+    "description": "传统城市中心的商业与交通衔接区域，不代表其中每家店同时营业。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-xuzhou-pengcheng-square",
+      "lat": 34.265,
+      "lon": 117.184,
+      "coordSystem": "wgs84",
+      "group": "shopping",
+      "sub": "shopping-districts"
+    }
+  },
+  {
+    "id": "food-xuzhou-diguoji",
+    "type": "food",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "徐州地锅鸡",
+    "description": "锅中炖鸡与贴饼组合，和普通炖鸡相比，多了饼吸收汤汁的口感。",
+    "note": "锅底、辣度与分量因店而异，点单时问清适合几人分享。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%BE%90%E5%B7%9E%E5%9C%B0%E9%94%85%E9%B8%A1",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-xuzhou-lomo",
+    "type": "food",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "烙馍与卷菜",
+    "description": "薄烙馍卷入蔬菜或肉类，适合用主食口感比较徐州日常吃法。",
+    "note": "烙馍不是所有卷饼的统一叫法；配菜与饼的厚薄会因店而异。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E7%83%99%E9%A6%8D%E4%B8%8E%E5%8D%B7%E8%8F%9C",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-xuzhou-satang",
+    "type": "food",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "饣它汤 · 早餐热汤",
+    "description": "常作为徐州早餐线索，与羊肉汤或普通粥品的原料和口感不同。",
+    "note": "常见含小麦或其他谷物，具体肉汤原料与配料向商家确认。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E9%A5%A3%E5%AE%83%E6%B1%A4%20%C2%B7%20%E6%97%A9%E9%A4%90%E7%83%AD%E6%B1%A4",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-xuzhou-sha-tang",
+    "type": "food",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "徐州辣汤与早餐搭配",
+    "description": "可与煎包、油条等早餐搭配，先比较胡椒、辣度与汤的稠度。",
+    "note": "不同店铺对汤名、用料与搭配的习惯可能不同，以菜单和店员说明为准。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%BE%90%E5%B7%9E%E8%BE%A3%E6%B1%A4%E4%B8%8E%E6%97%A9%E9%A4%90%E6%90%AD%E9%85%8D",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-xuzhou-mijian",
+    "type": "food",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "food",
+    "subcategory": "desserts",
+    "name": "蜜三刀",
+    "description": "甜度和糖浆感鲜明的传统点心，可与苏式酥点比较口感。",
+    "note": "常见于包括徐州在内的多地，不能只凭名称认定唯一产地；看标签与生产商。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E8%9C%9C%E4%B8%89%E5%88%80",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "fact-xuzhou-han",
+    "type": "fact",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "徐州与彭城、汉文化",
+    "description": "彭城是认识徐州历史的重要旧称。汉代墓葬、画像石与出土文物，让汉文化成为城市鲜明的探索线索。",
+    "note": "纪念设施、复原展示与出土原物需要分开理解。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "person-xuzhou-liubang",
+    "type": "person",
+    "country": "cn",
+    "city": "xuzhou",
+    "category": "facts",
+    "subcategory": "people",
+    "name": "刘邦 · 沛县与汉文化线索",
+    "description": "刘邦早年与沛县关系密切，可沿沛县相关纪念与徐州的汉文化展陈继续了解。",
+    "note": "不同史料中的古代地名与今天行政边界不能简单等同；现代纪念场所不自动等于古代原址。",
+    "sources": [
+      [
+        "https://www.xz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-wuxi-station",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "station",
+    "name": "无锡站",
+    "description": "靠近传统市区的重要铁路车站，与无锡东站不同。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-station",
+      "lat": 31.588,
+      "lon": 120.299,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "station"
+    }
+  },
+  {
+    "id": "venue-wuxi-east-station",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "station",
+    "name": "无锡东站",
+    "description": "位于锡山区的重要高铁车站，需预留与古城、太湖景点间的接驳时间。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-east-station",
+      "lat": 31.597,
+      "lon": 120.457,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "station"
+    }
+  },
+  {
+    "id": "venue-wuxi-airport",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "transport",
+    "subcategory": "airport",
+    "name": "苏南硕放国际机场",
+    "description": "位于无锡的民航机场，也服务周边城市；按航站楼与后续目的地安排出行。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-airport",
+      "lat": 31.494,
+      "lon": 120.429,
+      "coordSystem": "wgs84",
+      "group": "transport",
+      "sub": "airport"
+    }
+  },
+  {
+    "id": "venue-wuxi-yuantouzhu",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "park",
+    "name": "鼋头渚",
+    "description": "从太湖湖滨、山水与季节花景认识无锡，赏花期及游船运行要单独确认。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E9%BC%8B%E5%A4%B4%E6%B8%9A",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-yuantouzhu",
+      "lat": 31.52,
+      "lon": 120.22,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "venue-wuxi-huishan",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "惠山古镇",
+    "description": "以古镇街巷、祠堂与惠山周边景观认识城市历史。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%83%A0%E5%B1%B1%E5%8F%A4%E9%95%87",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-huishan",
+      "lat": 31.578,
+      "lon": 120.264,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "venue-wuxi-qingmingqiao",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "清名桥历史文化街区",
+    "description": "沿运河和桥梁理解无锡的水岸生活，适合按一段步行路线安排。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B8%85%E5%90%8D%E6%A1%A5%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E8%A1%97%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-qingmingqiao",
+      "lat": 31.553,
+      "lon": 120.308,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "venue-wuxi-museum",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "museum",
+    "name": "无锡博物院",
+    "description": "通过文物与城市相关展陈认识无锡，可结合市区行程安排参观。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%97%A0%E9%94%A1%E5%8D%9A%E7%89%A9%E9%99%A2",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-museum",
+      "lat": 31.553,
+      "lon": 120.299,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "museum"
+    }
+  },
+  {
+    "id": "venue-wuxi-lingshan",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "temples",
+    "name": "灵山胜境",
+    "description": "太湖西侧的宗教与文化游览场所，与市中心及鼋头渚不是同一位置。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E7%81%B5%E5%B1%B1%E8%83%9C%E5%A2%83",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-lingshan",
+      "lat": 31.425,
+      "lon": 120.093,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "temples"
+    }
+  },
+  {
+    "id": "venue-wuxi-lihu",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "park",
+    "name": "蠡湖",
+    "description": "开放湖滨景观的探索线索，可按天气、体力和交通挑选一段步行。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E8%A0%A1%E6%B9%96",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-lihu",
+      "lat": 31.531,
+      "lon": 120.269,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "venue-wuxi-university",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "university",
+    "name": "江南大学 · 蠡湖校区",
+    "description": "了解无锡高等教育与校园建筑的线索，公众进入须按学校现行规定。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%20%C2%B7%20%E8%A0%A1%E6%B9%96%E6%A0%A1%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-university",
+      "lat": 31.489,
+      "lon": 120.27,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "university"
+    }
+  },
+  {
+    "id": "venue-wuxi-grand-theatre",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "places",
+    "subcategory": "theatre",
+    "name": "无锡大剧院",
+    "description": "蠡湖附近的文化演出场馆，剧目、入场与建筑参观安排需分别确认。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%97%A0%E9%94%A1%E5%A4%A7%E5%89%A7%E9%99%A2",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-grand-theatre",
+      "lat": 31.519,
+      "lon": 120.284,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "theatre"
+    }
+  },
+  {
+    "id": "venue-wuxi-henglong",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "brands",
+    "subcategory": "shopping-districts",
+    "name": "无锡恒隆广场",
+    "description": "市中心的现代商业综合体，适合与老城商圈安排购物和餐饮。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-henglong",
+      "lat": 31.575,
+      "lon": 120.296,
+      "coordSystem": "wgs84",
+      "group": "shopping",
+      "sub": "shopping-districts"
+    }
+  },
+  {
+    "id": "venue-wuxi-nanchansi",
+    "type": "place",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "brands",
+    "subcategory": "shopping-districts",
+    "name": "南禅寺商圈",
+    "description": "寺院周边的商业街区与运河步行线索，街区和寺院参观规则要分别看。",
+    "note": "坐标为场所参考位置，不保证精确入口；预约、开放、车次与营业以官方为准。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ],
+    "point": {
+      "id": "venue-wuxi-nanchansi",
+      "lat": 31.564,
+      "lon": 120.307,
+      "coordSystem": "wgs84",
+      "group": "shopping",
+      "sub": "shopping-districts"
+    }
+  },
+  {
+    "id": "food-wuxi-xiaolong",
+    "type": "food",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "无锡小笼包",
+    "description": "常见口味带甜，汤汁与肉馅是比较线索；与生煎或普通包子的做法和口感不同。",
+    "note": "小笼大小、甜度与汤汁温度因店而异，刚出笼时先小口试温。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%97%A0%E9%94%A1%E5%B0%8F%E7%AC%BC%E5%8C%85",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-wuxi-ribs",
+    "type": "food",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "food",
+    "subcategory": "meat",
+    "name": "无锡酱排骨",
+    "description": "甜咸浓郁的酱汁与排骨相结合，是认识锡帮风味的一道线索。",
+    "note": "堂食菜与真空伴手礼在口感和保存条件上不同，购买礼盒请看配料和保质期。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%97%A0%E9%94%A1%E9%85%B1%E6%8E%92%E9%AA%A8",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-wuxi-gluten",
+    "type": "food",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "清水油面筋与面筋塞肉",
+    "description": "油面筋可做汤或塞肉烹调；和未经油炸的普通面筋在口感上不同。",
+    "note": "含小麦成分，素面筋与塞肉菜肴也不是同一种饮食选择。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B8%85%E6%B0%B4%E6%B2%B9%E9%9D%A2%E7%AD%8B%E4%B8%8E%E9%9D%A2%E7%AD%8B%E5%A1%9E%E8%82%89",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "food-wuxi-haitang",
+    "type": "food",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "food",
+    "subcategory": "desserts",
+    "name": "无锡糕团与时令点心",
+    "description": "可从玉兰饼、青团等地方小吃线索比较酥脆外皮、糯米口感和馅料。",
+    "note": "部分小吃与多座江南城市共享，不视为无锡独有；时令与供应请按当地菜单。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%97%A0%E9%94%A1%E7%B3%95%E5%9B%A2%E4%B8%8E%E6%97%B6%E4%BB%A4%E7%82%B9%E5%BF%83",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "brand-wuxi-sanfengqiao",
+    "type": "brand",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "brands",
+    "subcategory": "consumer-brands",
+    "name": "三凤桥 · 酱排骨品牌线索",
+    "description": "无锡老字号品牌，可沿酱排骨与熟食包装认识当地日常消费和伴手礼。",
+    "note": "品牌卡没有固定门店地址；到店、真空包装与邮寄产品的保存条件分别核对。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "fact-wuxi-taihu",
+    "type": "fact",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "无锡不只有市中心的一片太湖",
+    "description": "太湖湖岸与运河共同塑造无锡。无锡还代管江阴、宜兴，两座县级市各有独立的交通与游览安排。",
+    "note": "地级市全市概览是行政范围，不能按“同在无锡”推断两个景点可以步行抵达。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "person-wuxi-a-bing",
+    "type": "person",
+    "country": "cn",
+    "city": "wuxi",
+    "category": "facts",
+    "subcategory": "people",
+    "name": "阿炳 · 无锡与二泉映月",
+    "description": "民间音乐家华彦钧，艺名阿炳，与无锡及《二泉映月》有紧密联系。",
+    "note": "音乐作品中的意象与可参观地点并非一一对应；展览和纪念场所开放应另查官方。",
+    "sources": [
+      [
+        "https://www.wuxi.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-kunshan-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "kunshan",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "周庄古镇",
+    "description": "位于昆山的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.ks.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%91%A8%E5%BA%84%E5%8F%A4%E9%95%87",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-kunshan-highlight",
+      "lat": 31.114,
+      "lon": 120.845,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "local-kunshan-culture",
+    "type": "food",
+    "country": "cn",
+    "city": "kunshan",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "奥灶面",
+    "description": "红汤与白汤、不同浇头都值得分别比较；奥灶面与昆山联系紧密，不能把所有苏式面都叫奥灶面。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.ks.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%A5%A5%E7%81%B6%E9%9D%A2",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "tip-kunshan-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "kunshan",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "昆山 · 县级目的地接驳",
+    "description": "这里属于江苏省苏州市下辖的县级市；从苏州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.ks.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-changshu-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "changshu",
+    "category": "places",
+    "subcategory": "park",
+    "name": "虞山",
+    "description": "位于常熟的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.changshu.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E8%99%9E%E5%B1%B1",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-changshu-highlight",
+      "lat": 31.663,
+      "lon": 120.721,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-changshu-culture",
+    "type": "food",
+    "country": "cn",
+    "city": "changshu",
+    "category": "food",
+    "subcategory": "dishes",
+    "name": "常熟蕈油面",
+    "description": "蕈类风味与面汤组合是认识当地面食的线索，蕈类原料、时令与供应因店而异。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.changshu.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%B8%B8%E7%86%9F%E8%95%88%E6%B2%B9%E9%9D%A2",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "tip-changshu-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "changshu",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "常熟 · 县级目的地接驳",
+    "description": "这里属于江苏省苏州市下辖的县级市；从苏州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.changshu.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-zhangjiagang-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "zhangjiagang",
+    "category": "places",
+    "subcategory": "park",
+    "name": "香山景区",
+    "description": "位于张家港的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.zjg.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E9%A6%99%E5%B1%B1%E6%99%AF%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-zhangjiagang-highlight",
+      "lat": 31.857,
+      "lon": 120.402,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-zhangjiagang-culture",
+    "type": "fact",
+    "country": "cn",
+    "city": "zhangjiagang",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "张家港 · 长江港城",
+    "description": "张家港是苏州代管的县级市，临长江；港口与沿江生活比“苏州古城”的印象更能解释这里的地理。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.zjg.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-zhangjiagang-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "zhangjiagang",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "张家港 · 县级目的地接驳",
+    "description": "这里属于江苏省苏州市下辖的县级市；从苏州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.zjg.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-taicang-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "taicang",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "沙溪古镇",
+    "description": "位于太仓的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.taicang.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B2%99%E6%BA%AA%E5%8F%A4%E9%95%87",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-taicang-highlight",
+      "lat": 31.569,
+      "lon": 121.038,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "local-taicang-culture",
+    "type": "specialty",
+    "country": "cn",
+    "city": "taicang",
+    "category": "food",
+    "subcategory": "gifts",
+    "name": "太仓肉松",
+    "description": "比较原料、口感、配料与包装；即食零食和礼盒的保存、开封条件应按标签确认。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.taicang.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-taicang-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "taicang",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "太仓 · 县级目的地接驳",
+    "description": "这里属于江苏省苏州市下辖的县级市；从苏州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.taicang.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-jiangyin-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "jiangyin",
+    "category": "places",
+    "subcategory": "park",
+    "name": "鹅鼻嘴公园",
+    "description": "位于江阴的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.jiangyin.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E9%B9%85%E9%BC%BB%E5%98%B4%E5%85%AC%E5%9B%AD",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-jiangyin-highlight",
+      "lat": 31.944,
+      "lon": 120.292,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-jiangyin-culture",
+    "type": "food",
+    "country": "cn",
+    "city": "jiangyin",
+    "category": "food",
+    "subcategory": "desserts",
+    "name": "江阴马蹄酥",
+    "description": "以酥香口感认识江阴的传统糕点；它的名称与外形有关，选购时看馅料、配料和生产日期。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.jiangyin.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B1%9F%E9%98%B4%E9%A9%AC%E8%B9%84%E9%85%A5",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "tip-jiangyin-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "jiangyin",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "江阴 · 县级目的地接驳",
+    "description": "这里属于江苏省无锡市下辖的县级市；从无锡市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.jiangyin.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-yixing-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "yixing",
+    "category": "places",
+    "subcategory": "park",
+    "name": "宜兴竹海",
+    "description": "位于宜兴的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.yixing.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E5%AE%9C%E5%85%B4%E7%AB%B9%E6%B5%B7",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-yixing-highlight",
+      "lat": 31.178,
+      "lon": 119.71,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-yixing-culture",
+    "type": "tip",
+    "country": "cn",
+    "city": "yixing",
+    "category": "brands",
+    "subcategory": "shopping-tips",
+    "name": "宜兴紫砂 · 看泥料与工艺",
+    "description": "紫砂壶与宜兴丁蜀的制陶传统联系紧密；先比较用途、做工、材质说明和预算，不把价格或作者印章直接当作真伪保证。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.yixing.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-yixing-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "yixing",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "宜兴 · 县级目的地接驳",
+    "description": "这里属于江苏省无锡市下辖的县级市；从无锡市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.yixing.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-fengxian-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "fengxian",
+    "category": "places",
+    "subcategory": "museum",
+    "name": "丰县博物馆",
+    "description": "位于丰县的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "暂不提供固定地图坐标；参观馆址、开放与预约请通过当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.chinafx.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E4%B8%B0%E5%8E%BF%E5%8D%9A%E7%89%A9%E9%A6%86",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ]
+  },
+  {
+    "id": "local-fengxian-culture",
+    "type": "specialty",
+    "country": "cn",
+    "city": "fengxian",
+    "category": "food",
+    "subcategory": "gifts",
+    "name": "丰县 · 梨与苹果的产地线索",
+    "description": "可从当地果品认识丰县农业；鲜果的品种、上市时间与品质以当季商家和官方产区信息为准。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.chinafx.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-fengxian-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "fengxian",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "丰县 · 县级目的地接驳",
+    "description": "这里属于江苏省徐州市下辖的县；从徐州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.chinafx.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-peixian-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "peixian",
+    "category": "places",
+    "subcategory": "park",
+    "name": "沛县汉城公园",
+    "description": "位于沛县的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.px.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B2%9B%E5%8E%BF%E6%B1%89%E5%9F%8E%E5%85%AC%E5%9B%AD",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-peixian-highlight",
+      "lat": 34.73,
+      "lon": 116.93,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-peixian-culture",
+    "type": "fact",
+    "country": "cn",
+    "city": "peixian",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "沛县 · 刘邦与汉文化记忆",
+    "description": "沛县常以刘邦相关历史和汉文化记忆作为认识线索。历史叙事与现代纪念建筑要分开理解，不把复建景观直接当成汉代原物。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.px.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-peixian-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "peixian",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "沛县 · 县级目的地接驳",
+    "description": "这里属于江苏省徐州市下辖的县；从徐州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.px.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-suining-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "suining",
+    "category": "places",
+    "subcategory": "temples",
+    "name": "水月禅寺",
+    "description": "位于睢宁的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.cnsn.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E6%B0%B4%E6%9C%88%E7%A6%85%E5%AF%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-suining-highlight",
+      "lat": 33.905,
+      "lon": 117.954,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "temples"
+    }
+  },
+  {
+    "id": "local-suining-culture",
+    "type": "fact",
+    "country": "cn",
+    "city": "suining",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "睢宁 · 儿童画文化",
+    "description": "睢宁以儿童画文化形成鲜明的地方艺术线索。具体展览、公共文化活动与可参观场馆应按当地最新安排查询。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.cnsn.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-suining-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "suining",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "睢宁 · 县级目的地接驳",
+    "description": "这里属于江苏省徐州市下辖的县；从徐州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.cnsn.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-xinyi-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "xinyi",
+    "category": "places",
+    "subcategory": "other-places",
+    "name": "窑湾古镇",
+    "description": "位于新沂的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.xy.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E7%AA%91%E6%B9%BE%E5%8F%A4%E9%95%87",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-xinyi-highlight",
+      "lat": 34.185,
+      "lon": 118.112,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "other-places"
+    }
+  },
+  {
+    "id": "local-xinyi-culture",
+    "type": "fact",
+    "country": "cn",
+    "city": "xinyi",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "新沂 · 窑湾与运河商贸",
+    "description": "窑湾古镇可作为认识运河商贸与水陆交通的线索；它属于徐州代管的新沂市，与徐州市区并不是同一段步行行程。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.xy.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-xinyi-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "xinyi",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "新沂 · 县级目的地接驳",
+    "description": "这里属于江苏省徐州市下辖的县级市；从徐州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.xy.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
+  },
+  {
+    "id": "venue-pizhou-highlight",
+    "type": "place",
+    "country": "cn",
+    "city": "pizhou",
+    "category": "places",
+    "subcategory": "park",
+    "name": "艾山风景名胜区",
+    "description": "位于邳州的已收录游览线索，可与本地特产、历史或自然景观一起安排。",
+    "note": "坐标为场所参考位置，开放、入口与票务请从当地官方信息核对。",
+    "sources": [
+      [
+        "https://www.pz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ],
+      [
+        "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%E8%89%BE%E5%B1%B1%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA",
+        "图片参考 · Wikimedia Commons 检索"
+      ]
+    ],
+    "point": {
+      "id": "venue-pizhou-highlight",
+      "lat": 34.523,
+      "lon": 117.93,
+      "coordSystem": "wgs84",
+      "group": "landmarks",
+      "sub": "park"
+    }
+  },
+  {
+    "id": "local-pizhou-culture",
+    "type": "fact",
+    "country": "cn",
+    "city": "pizhou",
+    "category": "facts",
+    "subcategory": "facts",
+    "name": "邳州 · 银杏与秋季乡村",
+    "description": "银杏景观是认识邳州的一条季节线索，叶色受气温与天气影响。不要把固定某一天当成每年都适用的最佳观赏日期。",
+    "note": "该卡介绍当地文化或物产，不继承关联地点的坐标；具体供应、展览或销售按官方和商家信息核对。",
+    "sources": [
+      [
+        "https://www.pz.gov.cn/",
+        "地方政府 · 城市与文旅信息入口"
+      ]
+    ]
+  },
+  {
+    "id": "tip-pizhou-access",
+    "type": "tip",
+    "country": "cn",
+    "city": "pizhou",
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "name": "邳州 · 县级目的地接驳",
+    "description": "这里属于江苏省徐州市下辖的县级市；从徐州市区出发需按实际位置另查铁路、公路或公交接驳。",
+    "note": "铁路与客运并非每个景点门口都有站。先确认实际站名和到景点的距离，再安排返程；不默认地级市的市区地铁票可覆盖此地。",
+    "sources": [
+      [
+        "https://www.12306.cn/",
+        "铁路 12306"
+      ],
+      [
+        "https://www.pz.gov.cn/",
+        "本地官方服务入口"
+      ]
+    ]
   }
 ];
 
@@ -1008,5 +3008,185 @@ const chinaRelations = [
     "venue-suzhou-north-station",
     "注意区分两个车站",
     "注意区分两个车站"
+  ],
+  [
+    "local-kunshan-culture",
+    "venue-kunshan-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-kunshan-access",
+    "venue-kunshan-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-changshu-culture",
+    "venue-changshu-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-changshu-access",
+    "venue-changshu-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-zhangjiagang-culture",
+    "venue-zhangjiagang-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-zhangjiagang-access",
+    "venue-zhangjiagang-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-taicang-culture",
+    "venue-taicang-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-taicang-access",
+    "venue-taicang-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-jiangyin-culture",
+    "venue-jiangyin-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-jiangyin-access",
+    "venue-jiangyin-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-yixing-culture",
+    "venue-yixing-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-yixing-access",
+    "venue-yixing-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-fengxian-culture",
+    "venue-fengxian-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-fengxian-access",
+    "venue-fengxian-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-peixian-culture",
+    "venue-peixian-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-peixian-access",
+    "venue-peixian-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-suining-culture",
+    "venue-suining-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-suining-access",
+    "venue-suining-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-xinyi-culture",
+    "venue-xinyi-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-xinyi-access",
+    "venue-xinyi-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "local-pizhou-culture",
+    "venue-pizhou-highlight",
+    "结合本地地点探索",
+    "认识本地生活与文化"
+  ],
+  [
+    "tip-pizhou-access",
+    "venue-pizhou-highlight",
+    "规划实际目的地接驳",
+    "交通与行政归属"
+  ],
+  [
+    "food-xuzhou-diguoji",
+    "venue-xuzhou-huilongwo",
+    "探索古城街区（供应另查）",
+    "认识徐州风味"
+  ],
+  [
+    "fact-xuzhou-han",
+    "venue-xuzhou-han-culture",
+    "看汉文化景区",
+    "历史背景"
+  ],
+  [
+    "fact-xuzhou-han",
+    "venue-xuzhou-museum",
+    "看博物馆展陈",
+    "认识汉文化"
+  ],
+  [
+    "person-xuzhou-liubang",
+    "local-peixian-culture",
+    "去沛县了解汉文化线索",
+    "认识相关人物"
+  ],
+  [
+    "food-wuxi-ribs",
+    "brand-wuxi-sanfengqiao",
+    "认识地方品牌",
+    "认识无锡酱排骨"
+  ],
+  [
+    "fact-wuxi-taihu",
+    "venue-wuxi-yuantouzhu",
+    "看太湖湖岸",
+    "认识城市水系"
+  ],
+  [
+    "fact-wuxi-taihu",
+    "local-yixing-culture",
+    "认识下辖宜兴",
+    "回看无锡全市背景"
+  ],
+  [
+    "person-wuxi-a-bing",
+    "venue-wuxi-huishan",
+    "结合城市文化探索",
+    "相关音乐人物"
   ]
 ];
