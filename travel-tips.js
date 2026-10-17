@@ -312,9 +312,3 @@ const travelTipData = {
     }
   }
 };
-window.renderTravelTips = (country, city) => {
- const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const tips=[...(city?[travelTipData.cities[city.id]]:[]),...travelTipData.countries[country.id],...travelTipData.shared];
- const types=['全部','支付','交通','购物','餐饮','日常'];
- return `<section class="travel-tips" aria-label="容易忽略的小事"><div class="tips-heading"><div><span class="guide-kicker">SMALL THINGS, SMOOTHER TRAVELS</span><h2>容易忽略的小事</h2><p>${city?h(city.name)+' · 本城提醒与'+h(country.name)+'通用习惯':h(country.name)+' · 抵达前花一分钟看看'}</p></div><span>${tips.length} 条提醒</span></div><div class="tips-tabs" role="group" aria-label="提醒类型">${types.map((t,i)=>`<button data-tip-filter="${t}" class="${i===0?'active':''}" aria-pressed="${i===0}">${t}</button>`).join('')}</div><div class="tips-grid">${tips.map((t,i)=>`<details class="tip-card ${t.scope==='本城提醒'?'city-tip':''}" data-tip-category="${h(t.category)}" ${i===0?'open':''}><summary><span class="tip-meta">${h(t.category)} · ${h(t.scope)}</span><h3>${h(t.title)}</h3><span class="tip-expand" aria-hidden="true">＋</span></summary><div class="tip-body"><p>${h(t.body)}</p><div class="tip-action"><b>你可以这样做</b><p>${h(t.action)}</p></div>${t.url?`<a href="${h(t.url)}" target="_blank" rel="noopener noreferrer">${h(t.source)} ↗</a>`:''}</div></details>`).join('')}</div><p class="tips-note">提醒是出行参考，不是实时班次、营业时间或票价。不同票种、门店与日期可能有例外；请按链接中的适用范围查询，部分为官方首页入口。</p></section>`;
-};

@@ -4,7 +4,7 @@ module.exports=page=>page.waitForFunction(()=>{
  if(parts[0]==='cards')return !!document.querySelector('.knowledge-hub');
  if(parts[0]==='card'){let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{return !!document.querySelector('.entity-missing');}return CardGraph.nodes.has(id)?!!document.querySelector('[data-entity-id="'+CSS.escape(id)+'"]'):!!document.querySelector('.entity-missing');}
  if(parts[0]==='words')return document.querySelector('#vocabulary')?.hidden===false;
- if(parts[0]==='map'){const city=travelCities.find(c=>c.id===parts[1]);return !!document.querySelector('.map-focused #travelMap')&&document.querySelector('.city-hero h1')?.textContent.startsWith(city?.name); }
+ if(parts[0]==='map'){const city=travelCities.find(c=>c.id===parts[1])||travelCountries.find(c=>c.id===parts[1]);return !!document.querySelector('.map-focused #travelMap')&&document.querySelector('.city-hero h1')?.textContent.startsWith(city?.name); }
  if(parts[0]==='guide'){if(parts[2]){const city=travelCities.find(c=>c.id===parts[2]);return !!city&&!document.querySelector('#travelGuide').classList.contains('map-focused')&&document.querySelector('.city-hero h1')?.textContent.startsWith(city.name);}return !!document.querySelector('.knowledge-hub[data-scope="'+CSS.escape(parts[1]||'hu')+'"]');}
  return true;
 });
