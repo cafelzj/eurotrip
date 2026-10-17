@@ -26,6 +26,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    await page.reload();assert.equal(await page.locator('#travelMap').count(),1);
    await page.goto(base+'/#card/brand-lidl');
    assert.equal(await page.locator('.entity-actions a[href^="#map/"]').getAttribute('href'),'#map/'+country+'?search=brand-lidl','shared chain retains the selected country');
+   assert((await page.locator('#travelMode').innerText()).includes({hu:'匈牙利',at:'奥地利',de:'德国'}[country]),'navigation retains the selected country');
+   assert.equal(await page.locator('.entity-breadcrumb a').last().getAttribute('href'),'#guide/'+country);
   }
   const registered=await page.evaluate(()=>[...CardGraph.nodes.keys()]);
   assert.deepEqual([...inventory].sort(),registered.sort(),'every remaining detail is reachable through the rendered country collections');
