@@ -10,7 +10,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),open
    {type:'node',id:222,lat:48.2035,lon:16.3697,tags:{amenity:'fast_food',brand:'NORDSEE',name:'Tree NORDSEE'}}
   ]})});});
   const base=process.env.SITE_URL||'http://127.0.0.1:3014';await p.goto(base+'/#map/vienna');
-  assert.equal(await p.locator('.map-layer-tree>li').count(),6);
+  assert.equal(await p.locator('.map-layer-tree>li').count(),5);
   assert.equal(await p.locator('.full-map-layer-grid,.inline-chain-controls,.sub-filter-row,[data-dynamic-kind]').count(),0);
   assert.equal(queries.length,0);
   assert(await p.locator('[data-map-series="facts"]').isDisabled());
@@ -56,7 +56,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),open
   assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
   const mobileTree=await p.locator('#cityExplorer').boundingBox(),mobileMap=await p.locator('#travelMap').boundingBox();assert(mobileTree.y+mobileTree.height<=mobileMap.y);
   await p.screenshot({path:'/tmp/map-tree-mobile.png',fullPage:true});
-  await p.goto(base+'/#map/at');assert.equal(await p.locator('[data-map-series]').count(),6);assert(await p.locator('[data-map-leaf]').count()>20);
+  await p.goto(base+'/#map/at');assert.equal(await p.locator('[data-map-series]').count(),5);assert(await p.locator('[data-map-leaf]').count()>20);
   await p.evaluate(()=>localStorage.setItem('eurotrip-card-map-hu',JSON.stringify({series:{places:false},subs:{essential:{'机场':false}}})));
   await p.goto(base+'/#map/hu');assert(await p.locator('[data-map-layer="places"] [data-map-leaf]').evaluateAll(es=>es.every(e=>!e.checked)));assert.equal(await p.locator('[data-map-sub="机场"]').isChecked(),false);
   assert.deepEqual(errors,[]);

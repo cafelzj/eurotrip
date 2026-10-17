@@ -2,14 +2,6 @@
 const cardCategories = {
   "primary": [
     {
-      "id": "essential",
-      "icon": "🧭",
-      "name": "必备信息",
-      "description": "应急求助与容易忽略的日常准备",
-      "prefix": "必",
-      "color": "#4f6c50"
-    },
-    {
       "id": "transport",
       "icon": "🚆",
       "name": "交通出行",
@@ -45,19 +37,12 @@ const cardCategories = {
       "id": "facts",
       "icon": "💡",
       "name": "冷知识与人物",
-      "description": "从历史、地理和人物认识当地",
+      "description": "从历史、地理和人物认识当地，也收录日常与应急提醒",
       "prefix": "知",
       "color": "#73608b"
     }
   ],
   "secondary": [
-    {
-      "id": "daily",
-      "category": "essential",
-      "name": "日常 / 应急",
-      "icon": "🧳",
-      "description": "紧急求助与旅行中的日常准备，提前保存重要联系方式。"
-    },
     {
       "id": "tickets",
       "category": "transport",
@@ -281,6 +266,13 @@ const cardCategories = {
       "name": "商圈 / 购物",
       "icon": "🛍️",
       "description": "适合步行逛街的商圈与购物地点，营业安排以各店为准。"
+    },
+    {
+      "id": "daily",
+      "category": "facts",
+      "name": "日常 / 应急",
+      "icon": "🧳",
+      "description": "紧急求助与旅行中的日常准备，提前保存重要联系方式。"
     },
     {
       "id": "people",

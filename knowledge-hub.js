@@ -21,7 +21,16 @@ window.KnowledgeHub=(()=>{
  let active,lastCountry='hu';try{lastCountry=sessionStorage.getItem('eurotrip-country')||'hu';}catch{}
  function last(){return travelCountries.some(c=>c.id===lastCountry)?lastCountry:'hu';}
  function cityPicker(country,city){const list=travelCities.filter(c=>c.country===country.id);return `<section class="destination-picker" aria-label="选择国家概览或城市"><div class="destination-picker-heading"><h2>选择目的地</h2><span>选择城市后，下方卡片只展示城市关联内容</span></div><div class="destination-cities"><a href="#guide/${country.id}" class="destination-overview ${city?'':'active'}" ${city?'':'aria-current="page"'}><small>${country.flag} COUNTRY</small><b>国家概览</b><span>看全国文化与实用信息 →</span></a>${list.map(c=>`<a href="#guide/${country.id}/${c.id}" class="${city?.id===c.id?'active':''}" ${city?.id===c.id?'aria-current="page"':''}><small>${h(c.local)}</small><b>${h(c.name)}</b><span>${h(c.intro.slice(0,65))}${c.intro.length>65?'…':''}</span></a>`).join('')}</div></section>`;}
- function render(country,city,zone){if(location.hash.startsWith('#map/'))return '';zone=zone==='specialties'?'food':zone==='map'?'transport':zone==='shopping'?'brands':zone;if(!topics.some(t=>t[0]===zone))zone='all';const params=new URLSearchParams(location.hash.split('?')[1]||'');active={country,city,zone,q:params.get('q')||'',kind:cardCategories.subcategoryAliases[params.get('kind')]||params.get('kind')||'all',limits:{},openGroups:{}};if(zone==='essential'&&active.kind!=='all')active.zone=subcategoriesByName.get(active.kind)?.category||zone;rememberDestination(country,city);
+ function render(country,city,zone){
+ if(location.hash.startsWith('#map/'))return '';
+ const params=new URLSearchParams(location.hash.split('?')[1]||'');
+ let kind=cardCategories.subcategoryAliases[params.get('kind')]||params.get('kind')||'all';
+ // Keep bookmarks to the removed category usable after cards have moved.
+ if(zone==='essential'){if(kind==='all')kind='日常 / 应急';zone=subcategoriesByName.get(kind)?.category||'facts';}
+ zone=zone==='specialties'?'food':zone==='map'?'transport':zone==='shopping'?'brands':zone;
+ if(!topics.some(t=>t[0]===zone))zone='all';
+ active={country,city,zone,q:params.get('q')||'',kind,limits:{},openGroups:{}};
+ rememberDestination(country,city);
  return `<section class="knowledge-hub" data-scope="${city?.id||country.id}"><div class="hub-heading"><div><div class="guide-kicker">${city?'CITY COLLECTION':'COUNTRY COLLECTION'}</div><h2>${h(city?.name||country.name)}，从这几件事认识。</h2><p>${city?'只看本城明确关联的风味、人物和地点；全国通用的实用提醒会单独标注。':'从出发前的准备，到当地人的日常选择。点开卡片，继续探索关联知识与地图。'}</p></div><a href="#words">文 学几句当地语言 ↗</a></div><div class="hub-tabs" role="group" aria-label="卡片一级分类"><button data-hub-topic="all">全部主题</button>${topics.map(([id,icon,name])=>`<button data-hub-topic="${id}">${icon} ${name}<small></small></button>`).join('')}</div><div class="hub-tools"><label class="hub-search">⌕ <input id="hubSearch" type="search" value="${h(active.q)}" aria-label="搜索当前国家或城市的卡片" placeholder="在${h(city?.name||country.name)}找美食、品牌、人物…"></label><label class="hub-kind-label">卡片二级分类<select id="hubKind"></select></label><button id="hubReset">重置筛选</button><span id="hubCount" role="status" aria-live="polite"></span></div><div id="hubSections"></div></section>`;
  }
  function currentUrl(){if(!active)return '#guide/'+last();const p=new URLSearchParams();if(active.zone!=='all')p.set('zone',active.zone);if(active.q)p.set('q',active.q);if(active.kind!=='all')p.set('kind',active.kind);return '#guide/'+active.country.id+(active.city?'/'+active.city.id:'')+(p.size?'?'+p:'');}

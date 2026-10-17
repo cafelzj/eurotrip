@@ -6915,7 +6915,7 @@ const travelCards = [
       "at",
       "de"
     ],
-    "category": "essential",
+    "category": "facts",
     "subcategory": "daily"
   },
   {
