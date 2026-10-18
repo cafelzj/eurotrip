@@ -8,15 +8,16 @@ const {food,energy,stats,cards}=JSON.parse(JSON.stringify(context.data));
 const sources=new Map([...food.sources,...energy.sources,...stats.sources].map(s=>[s.id,s]));
 assert.equal(sources.size,food.sources.length+energy.sources.length+stats.sources.length,'source IDs must be unique');
 const categories=new Set(food.categories.map(c=>c.id)),methods=new Set(food.methods.map(m=>m.id)),cardIds=new Set(cards.map(n=>n.id));
-const items=new Map(food.items.map(n=>[n.id,n]));assert.equal(items.size,food.items.length);assert(food.items.length>=60);assert.equal(categories.size,8);
+const items=new Map(food.items.map(n=>[n.id,n]));assert.equal(items.size,food.items.length);assert(food.items.length>=60);assert.equal(categories.size,12);
 function checkRefs(value){if(!value||typeof value!=='object')return;for(const id of value.sourceIds||[])assert(sources.has(id),'unresolved source '+id);for(const child of Object.values(value))if(child&&typeof child==='object')Array.isArray(child)?child.forEach(checkRefs):checkRefs(child);}
 checkRefs({food,energy,stats});
 for(const item of items.values()){
  assert(item.name&&item.hu&&item.en&&item.summary&&item.trade&&item.regions.length,item.id);
- assert(categories.has(item.category));assert(['local','domestic','mixed','import'].includes(item.origin));
+ assert(categories.has(item.category));assert(Boolean(item.icon)!==Boolean(item.iconLabel),item.id+' must have an accurate emoji or text symbol');assert(item.features.every(f=>food.featureTypes.some(t=>t.id===f.kind)&&f.name&&f.description));assert(['local','domestic','mixed','import'].includes(item.origin));
  assert(item.season.every(m=>Number.isInteger(m)&&m>=1&&m<=12));assert(item.cooking.every(m=>methods.has(m)));
  assert(item.cardIds.every(id=>cardIds.has(id)),item.id+' links a missing card');assert(!item.point&&!item.searchKind,'atlas items do not fabricate map points');
 }
+assert.equal(items.get('milk').category,'dairy');assert.equal(items.get('egg').category,'eggs');assert.equal(items.get('pork').category,'meat');assert.equal(items.get('walnut').category,'nuts');assert.equal(items.get('walnut').iconLabel,'核桃');assert.equal(items.get('sunflower').category,'oil');assert.equal(items.get('rapeseed').category,'oil');assert.equal(items.get('sugar-beet').category,'sweetener');assert.equal(items.get('carp').category,'aquatic');assert.equal(items.get('carp').habitat,'freshwater');assert.equal(items.get('shrimp').habitat,'marine');assert.equal(food.indicators.length,6);
 const variables=new Map(stats.sources.flatMap(s=>(s.variables||[]).map(v=>[v.id,{...v,source:s}])));
 const charts=[...stats.charts,...energy.charts];assert.equal(charts.length,9);assert.equal(new Set(charts.map(c=>c.id)).size,charts.length);
 for(const chart of charts){
