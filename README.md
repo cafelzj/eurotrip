@@ -43,7 +43,6 @@ python3 -m http.server 3014 --bind 0.0.0.0
 - `#china/jiangsu/xuzhou`：江苏省 · 徐州市全市概览。
 - `#china/jiangsu/wuxi`：江苏省 · 无锡市全市概览。
 - `#china/jiangsu/wuxi/yixing`：江苏省 · 无锡市 · 宜兴市。
-- `#china/suzhou` 等旧城市链接仍可使用，自动保留筛选并转到规范路径。
 - `#map/suzhou`：苏州卡片地图；同样支持 `focus`、`search` 参数。
 - `#guide/at`：欧洲国家概览。
 - `#guide/at/vienna?zone=food`：维也纳的美食与特产。
