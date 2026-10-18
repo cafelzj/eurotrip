@@ -8,7 +8,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await page.route('https://overpass-api.de/**',r=>{queries++;return r.fulfill({contentType:'application/json',body:'{"elements":[]}'});});
   const base=process.env.SITE_URL||'http://127.0.0.1:3014',inventory=new Set();
   // Read actual rendered collections, including cards behind pagination and collapsed groups.
-  for(const country of ['hu','at','de']){
+  for(const country of ['hu','at','de','rs']){
    await page.goto(base+'/#guide/'+country);
    const ids=await page.evaluate(()=>{
     while(document.querySelector('[data-hub-more]'))document.querySelector('[data-hub-more]').click();
@@ -26,7 +26,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    await page.reload();assert.equal(await page.locator('#travelMap').count(),1);
    await page.goto(base+'/#card/brand-lidl');
    assert.equal(await page.locator('.entity-actions a[href^="#map/"]').getAttribute('href'),'#map/'+country+'?search=brand-lidl','shared chain retains the selected country');
-   assert((await page.locator('#travelMode').innerText()).includes({hu:'匈牙利',at:'奥地利',de:'德国'}[country]),'navigation retains the selected country');
+   assert((await page.locator('#travelMode').innerText()).includes({hu:'匈牙利',at:'奥地利',de:'德国',rs:'塞尔维亚'}[country]),'navigation retains the selected country');
    assert.equal(await page.locator('.entity-breadcrumb a').last().getAttribute('href'),'#guide/'+country);
   }
   for(const city of ['suzhou','xuzhou','wuxi']){

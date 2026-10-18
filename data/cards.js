@@ -4783,7 +4783,8 @@ const travelCards = [
     "countries": [
       "hu",
       "at",
-      "de"
+      "de",
+      "rs"
     ],
     "cities": [
       "budapest",
@@ -4795,18 +4796,25 @@ const travelCards = [
       "berlin",
       "munich",
       "hamburg",
-      "cologne"
+      "cologne",
+      "belgrade",
+      "novi-sad",
+      "nis"
     ],
     "name": "Lidl",
     "aliases": [
       "利德尔"
     ],
-    "description": "Schwarz 集团旗下的折扣零售品牌，在本次三国旅行中都可能遇见。门店所在国不等于品牌起源国。",
+    "description": "德国起源的折扣超市品牌，在匈牙利、奥地利、德国和塞尔维亚均有业务；门店所在国不等于品牌起源国。",
     "note": "领域：超市零售\n品牌起源：德国\n地理联系：德国起源的零售品牌；不同业务法人的所在地以公司资料为准\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n旅行服务城市关联也包括门店网络，不表示这些城市都是品牌起源地或总部。",
     "sources": [
       [
         "https://info.lidl/",
         "企业 / 品牌官方入口"
+      ],
+      [
+        "https://www.lidl.rs/",
+        "塞尔维亚 · 官方门店入口"
       ]
     ],
     "category": "brands",
@@ -7286,7 +7294,8 @@ const travelCards = [
     "countries": [
       "hu",
       "at",
-      "de"
+      "de",
+      "rs"
     ],
     "cities": [
       "budapest",
@@ -7298,10 +7307,13 @@ const travelCards = [
       "berlin",
       "munich",
       "hamburg",
-      "cologne"
+      "cologne",
+      "belgrade",
+      "novi-sad",
+      "nis"
     ],
     "name": "dm drogerie markt",
-    "description": "德国起源的药妆日用品连锁，在三国均有业务。适合买洗护、防晒和日用品；Drogerie 不是配处方药的药房。",
+    "description": "德国起源的药妆日用品连锁，在匈牙利、奥地利、德国和塞尔维亚均有业务。适合买洗护、防晒和日用品；药妆店与配药药房需分清。",
     "note": "城市联系表示门店或服务网络，不表示总部所在地。请用官方门店查询核对具体位置与营业时间；地图不提供库存或 ATM 手续费保证。",
     "sources": [
       [
@@ -7315,6 +7327,10 @@ const travelCards = [
       [
         "https://www.dm.hu/",
         "dm 匈牙利"
+      ],
+      [
+        "https://www.dm.rs/",
+        "塞尔维亚 · 官方门店入口"
       ]
     ],
     "category": "brands",
@@ -8892,5 +8908,1836 @@ const travelCards = [
     ],
     "category": "transport",
     "subcategory": "shared-mobility"
+  },
+  {
+    "id": "tip-city-belgrade",
+    "type": "tip",
+    "country": "rs",
+    "name": "贝尔格莱德 · 到站与换乘",
+    "description": "市内以公交、电车、无轨电车及城市铁路等衔接。市内常规公交与机场专线、城际铁路不能按同一票制推断；按官方当期说明确认。",
+    "note": "城市内出行、机场接驳与跨城车票分别查询；上车前核对方向、站名和实际停靠站。",
+    "sources": [
+      [
+        "https://www.bgprevoz.rs/",
+        "Beograd Plus / 官方线路查询"
+      ],
+      [
+        "https://www.gsp.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "city": "belgrade"
+  },
+  {
+    "id": "tip-belgrade-transit-tools",
+    "type": "tip",
+    "country": "rs",
+    "name": "贝尔格莱德 · 交通查询与线路图",
+    "description": "用官方线路、站点和时刻入口规划出行；第三方地图可辅助步行与换乘。",
+    "note": "查询工具：Beograd Plus / 官方线路查询。此处提供网站入口，不把所有运营商网站称为可下载App；临时改线以公告为准。",
+    "sources": [
+      [
+        "https://www.bgprevoz.rs/",
+        "Beograd Plus / 官方线路查询"
+      ],
+      [
+        "https://www.gsp.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "city": "belgrade"
+  },
+  {
+    "id": "tip-belgrade-ticket-choice",
+    "type": "tip",
+    "country": "rs",
+    "name": "贝尔格莱德 · 公交与跨城票务怎么确认",
+    "description": "先区分本地常规公交、机场服务与城际铁路，再核对各自是否收费、如何购票及有效范围。",
+    "note": "不直接套用其他国家的月票或多日票。贝尔格莱德市内公共交通自2025年起实施免费政策，但适用范围和后续变化仍应查市政府；机场专线、铁路等服务分别核对。",
+    "sources": [
+      [
+        "https://www.bgprevoz.rs/",
+        "Beograd Plus / 官方线路查询"
+      ],
+      [
+        "https://www.gsp.rs/",
+        "官方交通线路 / 时刻入口"
+      ],
+      [
+        "https://www.srbvoz.rs/en/",
+        "Srbija Voz · 铁路查询与购票"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "tickets",
+    "city": "belgrade"
+  },
+  {
+    "id": "fact-belgrade-daily-setting",
+    "type": "fact",
+    "country": "rs",
+    "name": "贝尔格莱德 · 河流、气候与日常预算",
+    "description": "萨瓦河（Sava）在此汇入多瑙河（Dunav）；旧城、新贝尔格莱德和泽蒙分布在不同河岸。",
+    "note": "夏季常热，冬季偏冷，河岸可能有较强的Košava风；春秋步行适合准备可叠穿衣物。\n货币：塞尔维亚第纳尔 RSD。\n物价：普通烤肉店、面包店常比维也纳更易控制预算；中心景区、河岸餐饮及住宿价格差异较大。",
+    "sources": [
+      [
+        "https://www.tob.rs/en",
+        "城市旅游资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts",
+    "city": "belgrade"
+  },
+  {
+    "id": "tip-city-novi-sad",
+    "type": "tip",
+    "country": "rs",
+    "name": "诺维萨德 · 到站与换乘",
+    "description": "公共交通主要依靠公交，老城与河岸适合步行。前往贝尔格莱德的铁路请核对当期实际发到站与接驳，不默认所有车次均停市中心站。",
+    "note": "城市内出行、机场接驳与跨城车票分别查询；上车前核对方向、站名和实际停靠站。",
+    "sources": [
+      [
+        "https://www.gspns.rs/",
+        "JGSP 官方线路与时刻查询"
+      ],
+      [
+        "https://www.gspns.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "city": "novi-sad"
+  },
+  {
+    "id": "tip-novi-sad-transit-tools",
+    "type": "tip",
+    "country": "rs",
+    "name": "诺维萨德 · 交通查询与线路图",
+    "description": "用官方线路、站点和时刻入口规划出行；第三方地图可辅助步行与换乘。",
+    "note": "查询工具：JGSP 官方线路与时刻查询。此处提供网站入口，不把所有运营商网站称为可下载App；临时改线以公告为准。",
+    "sources": [
+      [
+        "https://www.gspns.rs/",
+        "JGSP 官方线路与时刻查询"
+      ],
+      [
+        "https://www.gspns.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "city": "novi-sad"
+  },
+  {
+    "id": "tip-novi-sad-ticket-choice",
+    "type": "tip",
+    "country": "rs",
+    "name": "诺维萨德 · 公交与跨城票务怎么确认",
+    "description": "先区分本地常规公交、机场服务与城际铁路，再核对各自是否收费、如何购票及有效范围。",
+    "note": "停留数日可在运营商官网比较当期单次、日票或长期产品；不预设当地一定提供多日通票。铁路的实际发到站、车次和退改规则另查Srbija Voz。",
+    "sources": [
+      [
+        "https://www.gspns.rs/",
+        "JGSP 官方线路与时刻查询"
+      ],
+      [
+        "https://www.gspns.rs/",
+        "官方交通线路 / 时刻入口"
+      ],
+      [
+        "https://www.srbvoz.rs/en/",
+        "Srbija Voz · 铁路查询与购票"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "tickets",
+    "city": "novi-sad"
+  },
+  {
+    "id": "fact-novi-sad-daily-setting",
+    "type": "fact",
+    "country": "rs",
+    "name": "诺维萨德 · 河流、气候与日常预算",
+    "description": "多瑙河将老城一侧与彼得罗瓦拉丁一侧相连，河边可接上公园与步行路线。",
+    "note": "平原气候，夏热冬冷，河边有风；去要塞坡道时考虑防晒、雨后路面与回程。\n货币：塞尔维亚第纳尔 RSD。\n物价：日常面包店与普通咖啡馆通常容易控制预算；音乐节、展会等活动期间住宿会有较大变化。",
+    "sources": [
+      [
+        "https://novisad.travel/en/",
+        "城市旅游资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts",
+    "city": "novi-sad"
+  },
+  {
+    "id": "tip-city-nis",
+    "type": "tip",
+    "country": "rs",
+    "name": "尼什 · 到站与换乘",
+    "description": "公交覆盖市区，中心景点可步行串联。机场、城际汽车站与铁路分别查询班次；确认终点站名称及周末时刻。",
+    "note": "城市内出行、机场接驳与跨城车票分别查询；上车前核对方向、站名和实际停靠站。",
+    "sources": [
+      [
+        "https://www.jgpnis.rs/",
+        "JGP Niš 官方公交查询"
+      ],
+      [
+        "https://www.jgpnis.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transport-rules",
+    "city": "nis"
+  },
+  {
+    "id": "tip-nis-transit-tools",
+    "type": "tip",
+    "country": "rs",
+    "name": "尼什 · 交通查询与线路图",
+    "description": "用官方线路、站点和时刻入口规划出行；第三方地图可辅助步行与换乘。",
+    "note": "查询工具：JGP Niš 官方公交查询。此处提供网站入口，不把所有运营商网站称为可下载App；临时改线以公告为准。",
+    "sources": [
+      [
+        "https://www.jgpnis.rs/",
+        "JGP Niš 官方公交查询"
+      ],
+      [
+        "https://www.jgpnis.rs/",
+        "官方交通线路 / 时刻入口"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "city": "nis"
+  },
+  {
+    "id": "tip-nis-ticket-choice",
+    "type": "tip",
+    "country": "rs",
+    "name": "尼什 · 公交与跨城票务怎么确认",
+    "description": "先区分本地常规公交、机场服务与城际铁路，再核对各自是否收费、如何购票及有效范围。",
+    "note": "停留数日可在运营商官网比较当期单次、日票或长期产品；不预设当地一定提供多日通票。铁路的实际发到站、车次和退改规则另查Srbija Voz。",
+    "sources": [
+      [
+        "https://www.jgpnis.rs/",
+        "JGP Niš 官方公交查询"
+      ],
+      [
+        "https://www.jgpnis.rs/",
+        "官方交通线路 / 时刻入口"
+      ],
+      [
+        "https://www.srbvoz.rs/en/",
+        "Srbija Voz · 铁路查询与购票"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "tickets",
+    "city": "nis"
+  },
+  {
+    "id": "fact-nis-daily-setting",
+    "type": "fact",
+    "country": "rs",
+    "name": "尼什 · 河流、气候与日常预算",
+    "description": "尼沙瓦河（Nišava）经过市中心，向西汇入南摩拉瓦河水系；要塞与中心步行区隔河相望。",
+    "note": "内陆夏季较热，冬季可能降雪；参观户外遗址时准备遮阳与雨具。\n货币：塞尔维亚第纳尔 RSD。\n物价：普通烤肉店、面包店和日常餐饮常比贝尔格莱德核心旅游区更容易控制预算；不代表每家店都便宜。",
+    "sources": [
+      [
+        "https://visitnis.org/",
+        "城市旅游资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts",
+    "city": "nis"
+  },
+  {
+    "id": "tip-rs-money",
+    "type": "tip",
+    "country": "rs",
+    "name": "用第纳尔结算，先核对币种",
+    "description": "塞尔维亚本币为第纳尔（RSD），并非欧元。普通刷卡、取现和换汇都应核对账单币种、汇率及手续费。",
+    "note": "现金交易不要因报价提到欧元就默认可用欧元支付。换汇选银行或有资质的兑换点；刷卡转换币种时查看发卡行与终端费用。",
+    "sources": [
+      [
+        "https://www.nbs.rs/en/",
+        "塞尔维亚国家银行"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "payments"
+  },
+  {
+    "id": "tip-rs-entry",
+    "type": "tip",
+    "country": "rs",
+    "name": "入境与住宿登记，分别核对",
+    "description": "塞尔维亚不属于申根区；去塞尔维亚与继续前往申根国家，是两套不同的入境与停留要求。",
+    "note": "按所持护照和旅行日期查外交部。入住后确认住宿方办理外国人住宿登记；不要把免签理解为免除登记或可直接进入邻国。",
+    "sources": [
+      [
+        "https://www.mfa.gov.rs/en/citizens/travel-serbia",
+        "塞尔维亚外交部 · 入境资料"
+      ],
+      [
+        "https://www.mup.gov.rs/",
+        "塞尔维亚内务部 · 停留与登记入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "daily"
+  },
+  {
+    "id": "tip-rs-pharmacy",
+    "type": "tip",
+    "country": "rs",
+    "name": "Apoteka 是药房，药妆店另看",
+    "description": "药房常写 Apoteka / Апотека；普通药妆日用品店与配药药房不是同一类。",
+    "note": "需要药品时向药师确认成分和用法；值班安排查询当地药房官方信息。旅行前保存处方和常用药的通用名。",
+    "sources": [
+      [
+        "https://www.benu.rs/",
+        "BENU Serbia · 药房查询"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "pharmacy"
+  },
+  {
+    "id": "tip-rs-mobile",
+    "type": "tip",
+    "country": "rs",
+    "name": "漫游与离线准备",
+    "description": "塞尔维亚不在欧盟境内，不能默认手机套餐包含欧盟漫游；出发前确认覆盖国家和资费。",
+    "note": "保存住宿地址及西里尔字母写法，下载离线地图。银行验证短信、当地SIM / eSIM支持情况以运营商为准。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "daily"
+  },
+  {
+    "id": "tip-rs-dining",
+    "type": "tip",
+    "country": "rs",
+    "name": "点烤肉与馅饼，先问肉类和份量",
+    "description": "菜单中的烤肉可能按份或按重量，酥皮馅饼也可能按件或重量出售；先确认单价、份量与馅料。",
+    "note": "Ćevapi、pljeskavica的肉类配方因店而异；不能仅凭名称判断是否含猪肉。奶酪、kajmak、饼皮可能含乳或麸质，有饮食限制时向店员确认。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dining-tips"
+  },
+  {
+    "id": "tip-rs-rail",
+    "type": "tip",
+    "country": "rs",
+    "name": "Srbija Voz · 城际铁路",
+    "description": "先查实际发到站、车次、席位和退改规则，再安排机场或城市公交衔接。",
+    "note": "首都的Beograd Centar（Prokop）与老城不是同一地点；诺维萨德地区的实际停靠安排按当期时刻确认。",
+    "sources": [
+      [
+        "https://www.srbvoz.rs/en/",
+        "Srbija Voz · 官方查询"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "transit-tools",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "food-rs-cevapi",
+    "type": "food",
+    "country": "rs",
+    "name": "切瓦皮烤肉条",
+    "description": "小条状绞肉烤制，常配扁面包、生洋葱或kajmak。",
+    "note": "与pljeskavica相比形状更小；肉类组合和份量因店而异，不把巴尔干共享菜肴写成塞尔维亚独有。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=cevapi&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Ćevapi / Ћевапи"
+  },
+  {
+    "id": "food-rs-pljeskavica",
+    "type": "food",
+    "country": "rs",
+    "name": "普列斯卡维察烤肉饼",
+    "description": "大块绞肉饼，常夹面包并配酱料，也可作为盘餐。",
+    "note": "与美式汉堡相似但并非同一固定配方；点单时核对肉类、尺寸、辣味及加料。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=pljeskavica&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Pljeskavica / Пљескавица"
+  },
+  {
+    "id": "food-rs-burek",
+    "type": "food",
+    "country": "rs",
+    "name": "布雷克酥皮馅饼",
+    "description": "层叠酥皮配肉、奶酪或其他馅料，面包店常见。",
+    "note": "与普通面包相比层次更酥、油脂感更明显；常搭配饮用型酸奶。名字和馅料叫法在巴尔干地区有差异。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=burek&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "bread",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Burek / Бурек"
+  },
+  {
+    "id": "food-rs-gibanica",
+    "type": "food",
+    "country": "rs",
+    "name": "吉巴尼察奶酪酥皮派",
+    "description": "薄饼皮与奶酪、蛋等组合烘烤，切块食用。",
+    "note": "与burek有相似的饼皮背景，但配方和结构不同；通常含乳与蛋，口感偏咸香。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=gibanica&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Gibanica / Гибаница"
+  },
+  {
+    "id": "food-rs-sarma",
+    "type": "food",
+    "country": "rs",
+    "name": "酸卷心菜包肉",
+    "description": "常以发酵卷心菜叶包肉末和米，慢炖成菜。",
+    "note": "比烤肉更偏炖煮和酸香；也有不含肉版本，具体配料需问店员。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=sarma&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Sarma / Сарма"
+  },
+  {
+    "id": "food-rs-prebranac",
+    "type": "food",
+    "country": "rs",
+    "name": "烤豆煲",
+    "description": "白豆与大量洋葱等一起慢烤，常作主菜或配菜。",
+    "note": "比清汤豆类更浓稠；是否含动物油脂或肉类按当店配方确认。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=prebranac&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Prebranac / Пребранац"
+  },
+  {
+    "id": "food-rs-ajvar",
+    "type": "specialty",
+    "country": "rs",
+    "name": "阿伊瓦烤椒酱",
+    "description": "烤红椒制成的抹酱，有的配方加入茄子，超市常见瓶装。",
+    "note": "甜辣、颗粒和烟熏感差异明显；它是巴尔干共享风味，并非单一国家专属。玻璃瓶、液体及开封冷藏条件按标签处理。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=ajvar&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "gifts",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Ajvar / Ајвар"
+  },
+  {
+    "id": "food-rs-kajmak",
+    "type": "food",
+    "country": "rs",
+    "name": "卡伊马克乳脂制品",
+    "description": "浓厚的奶油状乳制品，常搭烤肉或面包。",
+    "note": "比普通鲜奶油更浓厚，盐味与熟成程度因产品而异；不是固定等同奶酪或黄油，携带时注意冷藏。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=kajmak&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dairy",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Kajmak / Кајмак"
+  },
+  {
+    "id": "food-rs-vanilice",
+    "type": "food",
+    "country": "rs",
+    "name": "香草夹心小饼干",
+    "description": "两片小酥饼夹果酱、外裹糖粉，常在家庭甜点与节日中出现。",
+    "note": "比奶油蛋糕更小巧，常见果酱夹心；部分配方使用猪油，素食需求应确认。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=vanilice&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "desserts",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Vanilice / Ванилице"
+  },
+  {
+    "id": "food-rs-plazma",
+    "type": "food",
+    "country": "rs",
+    "name": "Plazma 饼干",
+    "description": "Bambi旗下广为人知的饼干，可直接吃，也常压碎用于甜点。",
+    "note": "国民日常零食的典型选择；不同系列的原料与规格有差异，不能把所有版本都视为同一配方。",
+    "sources": [
+      [
+        "https://www.bambi.rs/",
+        "Bambi · 品牌资料"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=plazma&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "snacks",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Plazma"
+  },
+  {
+    "id": "food-rs-smoki",
+    "type": "food",
+    "country": "rs",
+    "name": "Smoki 花生玉米零食",
+    "description": "花生风味的膨化玉米零食，超市与便利店常见。",
+    "note": "与薯片相比更轻脆、花生味明显；含花生，过敏者注意标签。",
+    "sources": [
+      [
+        "https://www.stark.rs/",
+        "Štark · 品牌资料"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=smoki&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "snacks",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Smoki"
+  },
+  {
+    "id": "food-rs-knjaz",
+    "type": "food",
+    "country": "rs",
+    "name": "Knjaz Miloš 气泡矿泉水",
+    "description": "塞尔维亚常见瓶装气泡矿泉水品牌，水源地与阿兰杰洛瓦茨有关。",
+    "note": "购买前分清气泡矿泉水与调味饮料，名字中有water不一定代表无糖。",
+    "sources": [
+      [
+        "https://knjaz.rs/",
+        "Knjaz Miloš · 品牌资料"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=Knjaz Miloš&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "snacks",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Knjaz Miloš"
+  },
+  {
+    "id": "food-rs-rakija",
+    "type": "food",
+    "country": "rs",
+    "name": "拉基亚果实蒸馏酒",
+    "description": "由不同水果酿制再蒸馏，李子版本šljivovica尤为常见。",
+    "note": "是烈酒而非葡萄酒或果汁；按酒标核对原料、酒精度和容量，酒精饮品携带规则另查。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=rakija&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "wine",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Rakija / Ракија"
+  },
+  {
+    "id": "food-rs-coffee",
+    "type": "food",
+    "country": "rs",
+    "name": "家常煮咖啡",
+    "description": "细磨咖啡粉在小壶中加热，常连细粉沉淀一起倒入小杯。",
+    "note": "与过滤咖啡或espresso的萃取方式不同；不要把杯底细粉全部喝下。糖和牛奶习惯因店而异。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ],
+      [
+        "https://commons.wikimedia.org/w/index.php?search=Domaća kafa&title=Special:MediaSearch&type=image",
+        "Commons 图片参考搜索"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "coffee",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "local": "Domaća kafa / Домаћа кафа"
+  },
+  {
+    "id": "food-novi-sad-index",
+    "type": "food",
+    "country": "rs",
+    "name": "Index 热三明治",
+    "description": "诺维萨德常见的热三明治风格，多以面包夹肉类、蘑菇、奶酪及酱料后加热。",
+    "note": "配方并非统一；比冷三明治更浓厚，点单先问尺寸、肉类和酱料。",
+    "sources": [
+      [
+        "https://novisad.travel/en/",
+        "诺维萨德旅游局 · 饮食入口"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "dishes",
+    "city": "novi-sad",
+    "local": "Indeks sendvič"
+  },
+  {
+    "id": "brand-rs-maxi",
+    "type": "brand",
+    "country": "rs",
+    "name": "Maxi",
+    "description": "塞尔维亚常见的食品超市品牌；先认品牌，再按地图范围找具体门店。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.maxi.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "supermarkets",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "searchKind": "supermarket",
+    "searchName": "Maxi"
+  },
+  {
+    "id": "brand-rs-idea",
+    "type": "brand",
+    "country": "rs",
+    "name": "IDEA",
+    "description": "常见食品零售品牌，门店大小与商品选择各不相同。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.idea.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "supermarkets",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "searchKind": "supermarket",
+    "searchName": "IDEA"
+  },
+  {
+    "id": "brand-rs-univerexport",
+    "type": "brand",
+    "country": "rs",
+    "name": "Univerexport",
+    "description": "与诺维萨德及伏伊伏丁那联系紧密的零售企业，也在其他城市经营。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://univerexport.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "supermarkets",
+    "cities": [
+      "belgrade",
+      "novi-sad"
+    ],
+    "searchKind": "supermarket",
+    "searchName": "Univerexport"
+  },
+  {
+    "id": "brand-rs-lilly",
+    "type": "brand",
+    "country": "rs",
+    "name": "Lilly Drogerie",
+    "description": "塞尔维亚常见的药妆日用品零售品牌；部分门店服务与普通日用品区需分清。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.lilly.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "drugstore",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "brand-rs-benu",
+    "type": "brand",
+    "country": "rs",
+    "name": "BENU Serbia",
+    "description": "连锁药房品牌，可用官方门店入口寻找药师与药房服务。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.benu.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "pharmacy",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "brand-rs-raiffeisen-rs",
+    "type": "brand",
+    "country": "rs",
+    "name": "Raiffeisen banka Serbia",
+    "description": "塞尔维亚有业务的银行品牌；取现手续费、汇率和支持卡种应以银行与ATM提示为准。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.raiffeisenbank.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "bank",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "brand-rs-bambi",
+    "type": "brand",
+    "country": "rs",
+    "name": "Bambi",
+    "description": "与波扎雷瓦茨有关的食品企业，Plazma是其广为人知的饼干品牌。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.bambi.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "consumer-brands",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "brand-rs-stark",
+    "type": "brand",
+    "country": "rs",
+    "name": "Štark",
+    "description": "与贝尔格莱德有生产历史联系的糖果零食企业，Smoki等产品在当地广为人知。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://www.stark.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "consumer-brands",
+    "cities": [
+      "belgrade"
+    ]
+  },
+  {
+    "id": "brand-rs-walter",
+    "type": "brand",
+    "country": "rs",
+    "name": "Walter",
+    "description": "以萨拉热窝风格ćevapi等烤肉为特色的连锁餐饮；门店位置不代表菜肴起源地。",
+    "note": "城市联系表示门店、零售或文化联系，不意味着这些城市都是品牌起源地。具体营业、供应和服务请查官方。",
+    "sources": [
+      [
+        "https://walter.rs/",
+        "品牌 / 门店官方入口"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "chain-dining",
+    "cities": [
+      "belgrade",
+      "novi-sad"
+    ],
+    "searchKind": "restaurant",
+    "searchName": "Walter",
+    "aliases": [
+      "Walter sarajevski ćevap"
+    ]
+  },
+  {
+    "id": "place-belgrade-fortress",
+    "type": "place",
+    "country": "rs",
+    "name": "贝尔格莱德要塞",
+    "description": "卡莱梅格丹的历史要塞区，可俯看萨瓦河与多瑙河交汇；不同部分有不同参观规则。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.beogradskatvrdjava.co.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8233&mlon=20.4492#map=17/44.8233/20.4492",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "landmark",
+    "city": "belgrade",
+    "local": "Beogradska tvrđava",
+    "point": {
+      "id": "place-belgrade-fortress",
+      "lat": 44.8233,
+      "lon": 20.4492,
+      "group": "landmarks",
+      "sub": "landmark",
+      "category": "landmark",
+      "website": "https://www.beogradskatvrdjava.co.rs/"
+    }
+  },
+  {
+    "id": "place-belgrade-sava",
+    "type": "place",
+    "country": "rs",
+    "name": "圣萨瓦教堂",
+    "description": "贝尔格莱德最有辨识度的东正教建筑之一，内部马赛克与宏大空间值得留意。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://hramsvetogsave.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.7981&mlon=20.4685#map=17/44.7981/20.4685",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "church",
+    "city": "belgrade",
+    "local": "Hram Svetog Save",
+    "point": {
+      "id": "place-belgrade-sava",
+      "lat": 44.7981,
+      "lon": 20.4685,
+      "group": "landmarks",
+      "sub": "church",
+      "category": "church",
+      "website": "https://hramsvetogsave.rs/"
+    }
+  },
+  {
+    "id": "place-belgrade-tesla",
+    "type": "place",
+    "country": "rs",
+    "name": "尼古拉·特斯拉博物馆",
+    "description": "以特斯拉的生平、档案与电气科学遗产为主题，可把人物故事与城市步行串联。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://nikolateslamuseum.org/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8052&mlon=20.4705#map=17/44.8052/20.4705",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "museum",
+    "city": "belgrade",
+    "local": "Muzej Nikole Tesle",
+    "point": {
+      "id": "place-belgrade-tesla",
+      "lat": 44.8052,
+      "lon": 20.4705,
+      "group": "landmarks",
+      "sub": "museum",
+      "category": "museum",
+      "website": "https://nikolateslamuseum.org/"
+    }
+  },
+  {
+    "id": "place-belgrade-national-museum",
+    "type": "place",
+    "country": "rs",
+    "name": "塞尔维亚国家博物馆",
+    "description": "共和国广场旁的重要博物馆，从考古与艺术藏品认识区域历史。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.narodnimuzej.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8166&mlon=20.4607#map=17/44.8166/20.4607",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "museum",
+    "city": "belgrade",
+    "local": "Narodni muzej Srbije",
+    "point": {
+      "id": "place-belgrade-national-museum",
+      "lat": 44.8166,
+      "lon": 20.4607,
+      "group": "landmarks",
+      "sub": "museum",
+      "category": "museum",
+      "website": "https://www.narodnimuzej.rs/"
+    }
+  },
+  {
+    "id": "place-belgrade-theatre",
+    "type": "place",
+    "country": "rs",
+    "name": "贝尔格莱德国家剧院",
+    "description": "共和国广场一带的重要戏剧、歌剧和芭蕾场所，演出与建筑参观分别查询。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.narodnopozoriste.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8171&mlon=20.4612#map=17/44.8171/20.4612",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "theatre",
+    "city": "belgrade",
+    "local": "Narodno pozorište",
+    "point": {
+      "id": "place-belgrade-theatre",
+      "lat": 44.8171,
+      "lon": 20.4612,
+      "group": "landmarks",
+      "sub": "theatre",
+      "category": "theatre",
+      "website": "https://www.narodnopozoriste.rs/"
+    }
+  },
+  {
+    "id": "place-belgrade-university",
+    "type": "place",
+    "country": "rs",
+    "name": "贝尔格莱德大学校长楼",
+    "description": "学生广场旁的大学建筑，以此认识首都的高等教育与城市历史。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.bg.ac.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.819&mlon=20.4578#map=17/44.819/20.4578",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "university",
+    "city": "belgrade",
+    "local": "Univerzitet u Beogradu",
+    "point": {
+      "id": "place-belgrade-university",
+      "lat": 44.819,
+      "lon": 20.4578,
+      "group": "landmarks",
+      "sub": "university",
+      "category": "university",
+      "website": "https://www.bg.ac.rs/"
+    }
+  },
+  {
+    "id": "place-belgrade-kalemegdan",
+    "type": "place",
+    "country": "rs",
+    "name": "卡莱梅格丹公园",
+    "description": "紧邻要塞的城市绿地，适合结合河流观景、树荫步行与历史遗迹安排停留。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.tob.rs/en",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8224&mlon=20.4508#map=17/44.8224/20.4508",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "park",
+    "city": "belgrade",
+    "local": "Kalemegdan",
+    "point": {
+      "id": "place-belgrade-kalemegdan",
+      "lat": 44.8224,
+      "lon": 20.4508,
+      "group": "landmarks",
+      "sub": "park",
+      "category": "park",
+      "website": "https://www.tob.rs/en"
+    }
+  },
+  {
+    "id": "place-belgrade-airport",
+    "type": "place",
+    "country": "rs",
+    "name": "贝尔格莱德尼古拉·特斯拉机场",
+    "description": "首都主要国际机场，位于市中心以西；航班、航站楼与地面接驳分别核对。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://beg.aero/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8184&mlon=20.3091#map=17/44.8184/20.3091",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "airport",
+    "city": "belgrade",
+    "local": "Aerodrom Nikola Tesla · BEG",
+    "point": {
+      "id": "place-belgrade-airport",
+      "lat": 44.8184,
+      "lon": 20.3091,
+      "group": "transport",
+      "sub": "airport",
+      "category": "airport",
+      "website": "https://beg.aero/"
+    }
+  },
+  {
+    "id": "place-belgrade-station",
+    "type": "place",
+    "country": "rs",
+    "name": "贝尔格莱德中央站（Prokop）",
+    "description": "城际铁路的重要车站，位置在旧城核心以南，不能把站名理解为步行即可到达老城中心。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.srbvoz.rs/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.7943&mlon=20.4523#map=17/44.7943/20.4523",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "station",
+    "city": "belgrade",
+    "local": "Beograd Centar",
+    "point": {
+      "id": "place-belgrade-station",
+      "lat": 44.7943,
+      "lon": 20.4523,
+      "group": "transport",
+      "sub": "station",
+      "category": "station",
+      "website": "https://www.srbvoz.rs/en/"
+    }
+  },
+  {
+    "id": "place-belgrade-skadarlija",
+    "type": "place",
+    "country": "rs",
+    "name": "斯卡达利亚老街",
+    "description": "石板街、传统餐馆与波希米亚文化联想浓厚的街区；现场菜单与表演收费分别确认。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.tob.rs/en",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8178&mlon=20.464#map=17/44.8178/20.464",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "brands",
+    "subcategory": "shopping-districts",
+    "city": "belgrade",
+    "local": "Skadarlija",
+    "point": {
+      "id": "place-belgrade-skadarlija",
+      "lat": 44.8178,
+      "lon": 20.464,
+      "group": "shopping",
+      "sub": "shopping-districts",
+      "category": "shopping-districts",
+      "website": "https://www.tob.rs/en"
+    }
+  },
+  {
+    "id": "venue-belgrade-trisesira",
+    "type": "place",
+    "country": "rs",
+    "name": "三顶帽子餐馆",
+    "description": "斯卡达利亚历史餐馆之一，以传统餐饮与现场音乐氛围吸引访客。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://trisesira.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=44.8182&mlon=20.4642#map=17/44.8182/20.4642",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "food",
+    "subcategory": "restaurants",
+    "city": "belgrade",
+    "local": "Tri šešira",
+    "point": {
+      "id": "venue-belgrade-trisesira",
+      "lat": 44.8182,
+      "lon": 20.4642,
+      "group": "food",
+      "sub": "restaurants",
+      "category": "restaurants",
+      "website": "https://trisesira.rs/"
+    }
+  },
+  {
+    "id": "place-novi-sad-fortress",
+    "type": "place",
+    "country": "rs",
+    "name": "彼得罗瓦拉丁要塞",
+    "description": "多瑙河对岸的要塞区，钟楼、坡道和开阔河景是主要辨识点。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://novisad.travel/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.252&mlon=19.861#map=17/45.252/19.861",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "landmark",
+    "city": "novi-sad",
+    "local": "Petrovaradinska tvrđava",
+    "point": {
+      "id": "place-novi-sad-fortress",
+      "lat": 45.252,
+      "lon": 19.861,
+      "group": "landmarks",
+      "sub": "landmark",
+      "category": "landmark",
+      "website": "https://novisad.travel/en/"
+    }
+  },
+  {
+    "id": "place-novi-sad-mary",
+    "type": "place",
+    "country": "rs",
+    "name": "圣母圣名教堂",
+    "description": "自由广场旁的新哥特式天主教建筑；与东正教堂的空间及仪式传统可作对照。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://novisad.travel/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.2551&mlon=19.845#map=17/45.2551/19.845",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "church",
+    "city": "novi-sad",
+    "local": "Crkva Imena Marijinog",
+    "point": {
+      "id": "place-novi-sad-mary",
+      "lat": 45.2551,
+      "lon": 19.845,
+      "group": "landmarks",
+      "sub": "church",
+      "category": "church",
+      "website": "https://novisad.travel/en/"
+    }
+  },
+  {
+    "id": "place-novi-sad-gallery",
+    "type": "place",
+    "country": "rs",
+    "name": "塞尔维亚马蒂察画廊",
+    "description": "以塞尔维亚艺术收藏与研究为特色，可从作品了解18世纪以来的艺术脉络。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.galerijamaticesrpske.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.2514&mlon=19.8453#map=17/45.2514/19.8453",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "museum",
+    "city": "novi-sad",
+    "local": "Galerija Matice srpske",
+    "point": {
+      "id": "place-novi-sad-gallery",
+      "lat": 45.2514,
+      "lon": 19.8453,
+      "group": "landmarks",
+      "sub": "museum",
+      "category": "museum",
+      "website": "https://www.galerijamaticesrpske.rs/"
+    }
+  },
+  {
+    "id": "place-novi-sad-theatre",
+    "type": "place",
+    "country": "rs",
+    "name": "塞尔维亚国家剧院",
+    "description": "诺维萨德的重要演出机构，戏剧、歌剧和芭蕾节目分别查排期。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.snp.org.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.2554&mlon=19.8417#map=17/45.2554/19.8417",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "theatre",
+    "city": "novi-sad",
+    "local": "Srpsko narodno pozorište",
+    "point": {
+      "id": "place-novi-sad-theatre",
+      "lat": 45.2554,
+      "lon": 19.8417,
+      "group": "landmarks",
+      "sub": "theatre",
+      "category": "theatre",
+      "website": "https://www.snp.org.rs/"
+    }
+  },
+  {
+    "id": "place-novi-sad-park",
+    "type": "place",
+    "country": "rs",
+    "name": "多瑙河公园",
+    "description": "老城与多瑙河之间的小型城市公园，适合在步行途中停留。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://novisad.travel/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.254&mlon=19.8505#map=17/45.254/19.8505",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "park",
+    "city": "novi-sad",
+    "local": "Dunavski park",
+    "point": {
+      "id": "place-novi-sad-park",
+      "lat": 45.254,
+      "lon": 19.8505,
+      "group": "landmarks",
+      "sub": "park",
+      "category": "park",
+      "website": "https://novisad.travel/en/"
+    }
+  },
+  {
+    "id": "place-novi-sad-university",
+    "type": "place",
+    "country": "rs",
+    "name": "诺维萨德大学校园",
+    "description": "靠近多瑙河的大学校园，可结合河岸步行认识城市的学生生活。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.uns.ac.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.2463&mlon=19.8529#map=17/45.2463/19.8529",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "university",
+    "city": "novi-sad",
+    "local": "Univerzitet u Novom Sadu",
+    "point": {
+      "id": "place-novi-sad-university",
+      "lat": 45.2463,
+      "lon": 19.8529,
+      "group": "landmarks",
+      "sub": "university",
+      "category": "university",
+      "website": "https://www.uns.ac.rs/"
+    }
+  },
+  {
+    "id": "place-novi-sad-station",
+    "type": "place",
+    "country": "rs",
+    "name": "诺维萨德火车站",
+    "description": "铁路车站的参考位置；规划旅程时须查实际发到站与接驳，不能据地图图钉判断当前车站或站房可使用。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.srbvoz.rs/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=45.2658&mlon=19.829#map=17/45.2658/19.829",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "station",
+    "city": "novi-sad",
+    "local": "Železnička stanica Novi Sad",
+    "point": {
+      "id": "place-novi-sad-station",
+      "lat": 45.2658,
+      "lon": 19.829,
+      "group": "transport",
+      "sub": "station",
+      "category": "station",
+      "website": "https://www.srbvoz.rs/en/"
+    }
+  },
+  {
+    "id": "place-nis-fortress",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什要塞",
+    "description": "尼沙瓦河北岸的奥斯曼时期要塞与绿地，适合从城墙入口进入城市历史。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://visitnis.org/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3253&mlon=21.8952#map=17/43.3253/21.8952",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "landmark",
+    "city": "nis",
+    "local": "Niška tvrđava",
+    "point": {
+      "id": "place-nis-fortress",
+      "lat": 43.3253,
+      "lon": 21.8952,
+      "group": "landmarks",
+      "sub": "landmark",
+      "category": "landmark",
+      "website": "https://visitnis.org/"
+    }
+  },
+  {
+    "id": "place-nis-skull",
+    "type": "place",
+    "country": "rs",
+    "name": "头骨塔",
+    "description": "与19世纪早期塞尔维亚起义历史相关的纪念地点，理解背景比单纯猎奇更有意义。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://narodnimuzejnis.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3123&mlon=21.9235#map=17/43.3123/21.9235",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "museum",
+    "city": "nis",
+    "local": "Ćele-kula",
+    "point": {
+      "id": "place-nis-skull",
+      "lat": 43.3123,
+      "lon": 21.9235,
+      "group": "landmarks",
+      "sub": "museum",
+      "category": "museum",
+      "website": "https://narodnimuzejnis.rs/"
+    }
+  },
+  {
+    "id": "place-nis-museum",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什国家博物馆",
+    "description": "通过考古与历史材料了解古代纳伊苏斯及周边；各展区可能在不同地点，先查参观安排。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://narodnimuzejnis.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3183&mlon=21.8942#map=17/43.3183/21.8942",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "museum",
+    "city": "nis",
+    "local": "Narodni muzej Niš",
+    "point": {
+      "id": "place-nis-museum",
+      "lat": 43.3183,
+      "lon": 21.8942,
+      "group": "landmarks",
+      "sub": "museum",
+      "category": "museum",
+      "website": "https://narodnimuzejnis.rs/"
+    }
+  },
+  {
+    "id": "place-nis-theatre",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什国家剧院",
+    "description": "城市的重要舞台演出机构，可从节目与建筑认识当地文化生活。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.narodnopozoristenis.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.32&mlon=21.903#map=17/43.32/21.903",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "theatre",
+    "city": "nis",
+    "local": "Narodno pozorište Niš",
+    "point": {
+      "id": "place-nis-theatre",
+      "lat": 43.32,
+      "lon": 21.903,
+      "group": "landmarks",
+      "sub": "theatre",
+      "category": "theatre",
+      "website": "https://www.narodnopozoristenis.rs/"
+    }
+  },
+  {
+    "id": "place-nis-park",
+    "type": "place",
+    "country": "rs",
+    "name": "恰伊尔公园",
+    "description": "市中心东南侧的公共绿地，适合与日常街区步行相结合。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://visitnis.org/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3148&mlon=21.9053#map=17/43.3148/21.9053",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "park",
+    "city": "nis",
+    "local": "Park Čair",
+    "point": {
+      "id": "place-nis-park",
+      "lat": 43.3148,
+      "lon": 21.9053,
+      "group": "landmarks",
+      "sub": "park",
+      "category": "park",
+      "website": "https://visitnis.org/"
+    }
+  },
+  {
+    "id": "place-nis-university",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什大学主楼",
+    "description": "尼沙瓦河畔的大学行政主楼，是认识城市学术与近代建筑的一个入口。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.ni.ac.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3245&mlon=21.8949#map=17/43.3245/21.8949",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "places",
+    "subcategory": "university",
+    "city": "nis",
+    "local": "Univerzitet u Nišu",
+    "point": {
+      "id": "place-nis-university",
+      "lat": 43.3245,
+      "lon": 21.8949,
+      "group": "landmarks",
+      "sub": "university",
+      "category": "university",
+      "website": "https://www.ni.ac.rs/"
+    }
+  },
+  {
+    "id": "place-nis-airport",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什君士坦丁大帝机场",
+    "description": "服务塞尔维亚南部的机场；航班覆盖与接驳班次以旅行日期为准。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://ini.aerodromisrbije.rs/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3373&mlon=21.8537#map=17/43.3373/21.8537",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "airport",
+    "city": "nis",
+    "local": "Aerodrom Konstantin Veliki · INI",
+    "point": {
+      "id": "place-nis-airport",
+      "lat": 43.3373,
+      "lon": 21.8537,
+      "group": "transport",
+      "sub": "airport",
+      "category": "airport",
+      "website": "https://ini.aerodromisrbije.rs/"
+    }
+  },
+  {
+    "id": "place-nis-station",
+    "type": "place",
+    "country": "rs",
+    "name": "尼什火车站",
+    "description": "铁路到发参考地点，线路施工、实际车次和接驳请以铁路运营商当期信息为准。",
+    "note": "坐标是场所参考位置；参观入口、开放、演出和预约请查官方最新安排。",
+    "sources": [
+      [
+        "https://www.srbvoz.rs/en/",
+        "场所 / 旅游官方入口"
+      ],
+      [
+        "https://www.openstreetmap.org/?mlat=43.3137&mlon=21.8775#map=17/43.3137/21.8775",
+        "OpenStreetMap 参考位置"
+      ]
+    ],
+    "category": "transport",
+    "subcategory": "station",
+    "city": "nis",
+    "local": "Železnička stanica Niš",
+    "point": {
+      "id": "place-nis-station",
+      "lat": 43.3137,
+      "lon": 21.8775,
+      "group": "transport",
+      "sub": "station",
+      "category": "station",
+      "website": "https://www.srbvoz.rs/en/"
+    }
+  },
+  {
+    "id": "person-rs-tesla",
+    "type": "person",
+    "country": "rs",
+    "name": "尼古拉·特斯拉",
+    "description": "与交流电系统等电气技术发展密切相关的发明家；贝尔格莱德的博物馆保存其档案与遗产。",
+    "note": "1856年出生于斯米连，当时属奥地利帝国，今在克罗地亚；后来主要在美国工作，不应写成出生于贝尔格莱德。",
+    "sources": [
+      [
+        "https://nikolateslamuseum.org/",
+        "特斯拉博物馆"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "people",
+    "city": "belgrade",
+    "local": "Nikola Tesla / Никола Тесла"
+  },
+  {
+    "id": "person-rs-constantine",
+    "type": "person",
+    "country": "rs",
+    "name": "君士坦丁大帝",
+    "description": "古罗马皇帝，出生地纳伊苏斯与今天尼什相联系。",
+    "note": "把现代国界与古代身份分开理解：这里讲出生地点的历史联系，不把古罗马皇帝直接归为现代塞尔维亚国籍。",
+    "sources": [
+      [
+        "https://visitnis.org/",
+        "尼什旅游局 · 古罗马历史"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "people",
+    "city": "nis",
+    "local": "Constantine the Great"
+  },
+  {
+    "id": "fact-rs-scripts",
+    "type": "fact",
+    "country": "rs",
+    "name": "同一种语言，两套字母",
+    "description": "塞尔维亚语日常可同时见到西里尔字母和拉丁字母；同一个地名可能有两种写法。",
+    "note": "Beograd = Београд，Novi Sad = Нови Сад，Niš = Ниш。入口可写Ulaz / Улаз，出口可写Izlaz / Излаз；保存地址时把两种写法一起留好。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts",
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ]
+  },
+  {
+    "id": "fact-rs-rivers",
+    "type": "fact",
+    "country": "rs",
+    "name": "从平原到河谷，沿水系认识塞尔维亚",
+    "description": "北部伏伊伏丁那以平原为主，多瑙河连接诺维萨德与贝尔格莱德；中南部的地形与河谷又有不同。",
+    "note": "萨瓦河在贝尔格莱德汇入多瑙河；尼什位于尼沙瓦河畔。旅行地图上的城市距离不能直接当作公共交通所需时间。",
+    "sources": [
+      [
+        "https://www.serbia.travel/en",
+        "塞尔维亚国家旅游局 · 资料入口"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts"
+  },
+  {
+    "id": "fact-novi-sad-culture",
+    "type": "fact",
+    "country": "rs",
+    "name": "2022 欧洲文化之都的城市线索",
+    "description": "诺维萨德是2022年欧洲文化之都之一，可以沿画廊、剧院与文化站认识它。",
+    "note": "称号对应2022年度，不意味着当年的项目或活动至今仍常设；当前节目另查官方。",
+    "sources": [
+      [
+        "https://novisad2022.rs/en/",
+        "Novi Sad 2022 · 官方资料"
+      ]
+    ],
+    "category": "facts",
+    "subcategory": "facts",
+    "city": "novi-sad"
   }
 ];
