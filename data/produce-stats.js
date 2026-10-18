@@ -3,11 +3,11 @@ const produceStats = {
   "updatedAt": "2026-10-18",
   "intro": "布达佩斯的日常，由周边田野、匈牙利全国供应链和跨境贸易共同塑造。认识市场里的食材，也追踪支撑这座城市的水、电与燃料。",
   "scopeNote": "城市讲购买与生活，产区讲种养与加工，数字采用标明年份的匈牙利全国统计。本专题未取得可比的布达佩斯逐食材产量、进口量及实测消费量，不按人口分摊全国量。",
-  "supplyIntro": "产量覆盖2020–2024，食物可供量与谷物贸易覆盖2020–2023。默认展示各图最新可用年；切换年份或选择一个指标查看历年变化。数量与金额、产量与食用量分开核查。",
+  "supplyIntro": "按与食材图鉴一致的12类查看。默认是2010–2023同版食物平衡表，可逐产品查看产量、进口、出口、国内供给、食用可供总量与估算人均量；更新的2023/2024单项另列，年份与口径分别标明。",
   "sources": [
     {
       "id": "fao-crops",
-      "title": "FAOSTAT · 作物与奶类产量",
+      "title": "FAOSTAT · 农业、畜产与葡萄酒产量",
       "publisher": "Our World in Data；原始机构见各指标",
       "url": "https://github.com/owid/owid-grapher-svgs/tree/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables",
       "version": "d3f4efb3873ab6ebd5624d66b66d401ab63abb79",
@@ -291,6 +291,126 @@ const produceStats = {
           "dataSha256": "6a2386e48e949898d8ae662420e1028b1b846c4aaccec82fe604204ddf6aefd9",
           "metadataSha256": "c94c8d1dcdd774e8299f81e7af6fb0d4b54bf4ed6e7b35e847554aa5f98cd949",
           "definition": "Milk represents the raw equivalents of all dairy products including cheese, yoghurt, cream and milk consumed as the final product.",
+          "datasetVersion": "2026-02-25",
+          "upstream": [
+            {
+              "title": "Production: Crops and livestock products",
+              "producer": "Food and Agriculture Organization of the United Nations",
+              "datePublished": "2025-12-31",
+              "urlMain": "http://www.fao.org/faostat/en/#data/QCL",
+              "license": {
+                "url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+                "name": "CC BY-NC-SA 3.0 IGO"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1199257,
+          "label": "黑麦",
+          "name": "Rye | 00000071 || Production | 005510 || tonnes",
+          "unit": "tonnes",
+          "url": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1199257.data.json",
+          "metadataUrl": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1199257.metadata.json",
+          "dataSha256": "5a3c2a06e101fe4d6fddec490bb4d9b5794feddc2deddeabba2751199a5d7c2f",
+          "metadataSha256": "54f93ec28a03df61a9c244247f57afaea5a1cba28f78930934b33284ae2265f4",
+          "definition": "Item: Rye\n\nDescription: Rye\n\nMetric: Production\n\nDescription: Amount produced in the year.",
+          "datasetVersion": "2026-02-25",
+          "upstream": [
+            {
+              "title": "Production: Crops and livestock products",
+              "producer": "Food and Agriculture Organization of the United Nations",
+              "datePublished": "2025-12-31",
+              "urlMain": "http://www.fao.org/faostat/en/#data/QCL",
+              "license": {
+                "url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+                "name": "CC BY-NC-SA 3.0 IGO"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1198719,
+          "label": "猪肉",
+          "name": "Meat, pig | 00001035 || Production | 005510 || tonnes",
+          "unit": "tonnes",
+          "url": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198719.data.json",
+          "metadataUrl": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198719.metadata.json",
+          "dataSha256": "2f1bf4b68d15218c2adfa01d209278098bddc2482aa4f2a375865ad69ad9d8f1",
+          "metadataSha256": "f89b9e0ec67e34f9620c9315014af14102fd2a78f72988d3a0ba49116fe6abb5",
+          "definition": "Item: Meat of pig with the bone, fresh or chilled\n\nDescription: Meat, with the bone in, of domestic or wild pigs (e.g. wild boars), whether fresh or chilled. (Unofficial definition)\n\nMetric: Production\n\nDescription: Amount produced in the year.",
+          "datasetVersion": "2026-02-25",
+          "upstream": [
+            {
+              "title": "Production: Crops and livestock products",
+              "producer": "Food and Agriculture Organization of the United Nations",
+              "datePublished": "2025-12-31",
+              "urlMain": "http://www.fao.org/faostat/en/#data/QCL",
+              "license": {
+                "url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+                "name": "CC BY-NC-SA 3.0 IGO"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1198671,
+          "label": "鸡肉",
+          "name": "Meat, chicken | 00001058 || Production | 005510 || tonnes",
+          "unit": "tonnes",
+          "url": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198671.data.json",
+          "metadataUrl": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198671.metadata.json",
+          "dataSha256": "c300c4fcef446bbc6a9e73ef8d964d07dd1ba3a2eef4bdc63eade42ad3624f06",
+          "metadataSha256": "8616581abbcaa7d9b4b430d245639a4d4b7d0fa58efa1ac75eb4694a85fdb5b6",
+          "definition": "Item: Meat of chickens, fresh or chilled\n\nDescription: Meat of chickens, fresh or chilled This subclass includes: -  meat of chickens, Gallus domesticus, birds of subclass 02151, fresh or chilled This subclass does not include: -  meat of chickens, frozen, cf. 21141 - edible offal of chicken, cf. 21160\n\nMetric: Production\n\nDescription: Amount produced in the year.",
+          "datasetVersion": "2026-02-25",
+          "upstream": [
+            {
+              "title": "Production: Crops and livestock products",
+              "producer": "Food and Agriculture Organization of the United Nations",
+              "datePublished": "2025-12-31",
+              "urlMain": "http://www.fao.org/faostat/en/#data/QCL",
+              "license": {
+                "url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+                "name": "CC BY-NC-SA 3.0 IGO"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1198653,
+          "label": "牛与水牛肉",
+          "name": "Meat, beef and buffalo | 00001806 || Production | 005510 || tonnes",
+          "unit": "tonnes",
+          "url": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198653.data.json",
+          "metadataUrl": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1198653.metadata.json",
+          "dataSha256": "25cc809a8092905b0c38fb03ad3677699b9368ee7cf9cc906088b881695cddfa",
+          "metadataSha256": "e51f63723203b28a5fa14c1ba4606bac9403fed437cc8a3bf4665d390cdfe99c",
+          "definition": "Item: Beef and Buffalo Meat, primary\n\nDescription: The term \"LIVESTOCK\" is used in a broad sense to cover all grown animals regardless of age, location or purpose of breeding. Non-domesticated animals are excluded under this definition unless they are kept or raised in captivity. Domestic animals included are large and small quadrupeds, poultry, insects (bees) and larvae of insects (silkworms). Figures on livestock numbers should refer to live animals enumerated on a given day or on several consecutive days. The FAO practice is that figures for an indicated year relate to animals reported by countries for any day between October of the previous year and September of the year indicated. Statistics on live animals by age, sex and utilization generally are not included in the list that follows, even though such breakdowns are extremely desirable in terms of national statistics. For each animal species FAO proposes that information be maintained on changes in national herds during the year according to the following equation: initial herd + animals born + imports of live animals - exports of live animals - natural losses - slaughter = closing herd.FAO defines meat as the flesh of animals used for food. In production data, meat is normally reported inclusive of bone and exclusive of meat that is unfit for human consumption. As reported by individual countries, meat production data may refer either to commercial production (meat entering marketing channels), inspected production (from animals slaughtered under sanitary inspection), or total production (the total of the above- mentioned categories plus slaughter for personal consumption). All FAO annual production data refer to total production.Country statistics on meat production adhere to one or more of the following concepts: 1. Live weight: the weight of the animal immediately before slaughter. 2. Killed weight: the live weight less the uncollected blood lost during slaughter. 3. Dressed carcass weight: weight minus all parts - edible and inedible - that are removed in dressing the carcass. The concept varies widely from country to country and according to the various species of livestock. Edible parts generally include edible offals (head or head meat, tongue, brains, heart, liver, spleen, stomach or tripes and, in a few countries, other parts such as feet, throat and lungs. Slaughter fats (the unrendered fats that fall in the course of dressing the carcasses) are recorded as either edible or inedible according to country practice. Inedible parts generally include hides and skins (except in the case of pigs), as well as hoofs and stomach contents.Among individual countries, one of the following three concepts issued to measure production:A. Production from all animals, of both indigenous and foreign origin, that are slaughtered within national boundaries. B. Production from the slaughter of indigenous animals plus exports of live indigenous animals during the reference period. Derived from meat production as follows: production from slaughtered animals plus the meat equivalent of all animals exported alive, minus the meat equivalent of all animals imported alive. As imports/exports of live animals are recorded by FAO in numbers, not weight, animal type and size are of significance. C. The biological production concept covers indigenous animals that are either slaughtered or exported live, plus net additions to the stock during the reference period. Derived from indigenous productions follows: indigenous production plus (or minus) the meat equivalent of the change in the stock numbers during the reference period. Production is expressed in terms of live weight. Changes in the total live weight of all animals are not taken into account.FAO uses the first concept of meat production in the construction of its food balance sheets and for related indicators. The second concept, indigenous meat production, in measuring the output of the national livestock sector, is useful mainly in the construction of index numbers of agricultural production. The third concept, biological production, would be the most complete as it also reflects changes in the livestock herd, but it is not used because of difficulties in obtaining information from national reporting offices. The prices applied to indigenous meat production are derived from prices of live animals. This covers not only the value of meat, but also the value of offals, fats, hides and skins.Beef and Veal, Dried, Salted, Smok Meat of bovine animals, whether salted, in brine, dried or smoked. Includes edible flours and meals.Beef and Veal Preparations nes Meat and offal (o/t liver) that are boiled, steamed, grilled, fried, roasted or otherwise cooked. Includes prepared meals that contain more than 20% of meat and offal by weight.BUFFALO MEAT Fresh, chilled or frozen, with bone in or boneless.OFFALS OF BUFFALO, EDIBLE Fresh, chilled or frozen.\n\nMetric: Production\n\nDescription: Amount produced in the year.",
+          "datasetVersion": "2026-02-25",
+          "upstream": [
+            {
+              "title": "Production: Crops and livestock products",
+              "producer": "Food and Agriculture Organization of the United Nations",
+              "datePublished": "2025-12-31",
+              "urlMain": "http://www.fao.org/faostat/en/#data/QCL",
+              "license": {
+                "url": "http://www.fao.org/contact-us/terms/db-terms-of-use/en",
+                "name": "CC BY-NC-SA 3.0 IGO"
+              }
+            }
+          ]
+        },
+        {
+          "id": 1199551,
+          "label": "葡萄酒",
+          "name": "Wine | 00000564 || Production | 005510 || tonnes",
+          "unit": "tonnes",
+          "url": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1199551.data.json",
+          "metadataUrl": "https://raw.githubusercontent.com/owid/owid-grapher-svgs/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables/1199551.metadata.json",
+          "dataSha256": "0f7b1752d9d3e7e838ed41cc6dcdcb1f4ba4d8cf2c2d63f07ab8839d8033823c",
+          "metadataSha256": "1025f3c58bcc2bcadfaacd373c0e4fab2e9cd93ae3a112b6ed44a4dd307f18cc",
+          "definition": "Item: Wine\n\nDescription: Wines of fresh grapes of all qualities, including sparkling, fortified and dessert wines (Unofficial definition)\n\nMetric: Production\n\nDescription: Amount produced in the year.",
           "datasetVersion": "2026-02-25",
           "upstream": [
             {
@@ -798,382 +918,6 @@ const produceStats = {
   ],
   "charts": [
     {
-      "id": "field-crops",
-      "title": "主粮、油料与糖料：农业收获量",
-      "description": "籽粒、油籽、甜菜根分别统计原产品重量。甜菜根不是食糖，葵花籽不是葵花油，稻米的农业口径也不等同零售精米；这些作物还可用于饲料与工业。",
-      "scope": "匈牙利全国",
-      "unit": "吨",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-crops"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "小麦",
-          "variableId": 1199532,
-          "values": [
-            5121480,
-            5290140,
-            4354710,
-            5941990,
-            5272960
-          ]
-        },
-        {
-          "name": "玉米",
-          "variableId": 1198621,
-          "values": [
-            8365430,
-            6424630,
-            2765600,
-            6242410,
-            5297730
-          ]
-        },
-        {
-          "name": "大麦",
-          "variableId": 1197641,
-          "values": [
-            1483950,
-            1711630,
-            1590740,
-            2219720,
-            1554570
-          ]
-        },
-        {
-          "name": "葵花籽",
-          "variableId": 1199410,
-          "values": [
-            1697960,
-            1757710,
-            1286200,
-            1970150,
-            1798950
-          ]
-        },
-        {
-          "name": "油菜籽",
-          "variableId": 1199201,
-          "values": [
-            876900,
-            734020,
-            505050,
-            626410,
-            450360
-          ]
-        },
-        {
-          "name": "制糖甜菜",
-          "variableId": 1199386,
-          "values": [
-            780460,
-            678010,
-            470220,
-            875970,
-            856310
-          ]
-        },
-        {
-          "name": "稻米（FAO Rice）",
-          "variableId": 1199243,
-          "values": [
-            11740,
-            9520,
-            10150,
-            8330,
-            8560
-          ]
-        }
-      ]
-    },
-    {
-      "id": "horticulture",
-      "title": "苹果、葡萄与菜蔬：全国生产量",
-      "description": "展示已核查的四种园艺作物，不代表全部水果蔬菜。全国果园和农田供给城市；当年产量受天气、种植面积和单产等因素影响。",
-      "scope": "匈牙利全国",
-      "unit": "吨",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-crops"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "苹果",
-          "variableId": 1197505,
-          "values": [
-            398710,
-            514520,
-            350100,
-            486300,
-            376680
-          ]
-        },
-        {
-          "name": "葡萄",
-          "variableId": 1198454,
-          "values": [
-            435050,
-            437750,
-            414550,
-            410980,
-            378830
-          ]
-        },
-        {
-          "name": "土豆",
-          "variableId": 1199148,
-          "values": [
-            270090,
-            239840,
-            199210,
-            209950,
-            234350
-          ]
-        },
-        {
-          "name": "番茄",
-          "variableId": 1199460,
-          "values": [
-            154140,
-            171770,
-            137860,
-            177390,
-            183510
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cereal-trade",
-      "title": "粮食出口国，也会进口粮食",
-      "description": "谷物合计，不含啤酒。进口、出口是两个总流量；出口−进口为净出口，不能把净出口当出口总量，也不能用进口÷产量当全部食物的进口依赖率。",
-      "scope": "匈牙利全国",
-      "unit": "吨",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-fbs"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "谷物进口",
-          "variableId": 1200372,
-          "values": [
-            1095000,
-            1485000,
-            3043000,
-            2085000
-          ]
-        },
-        {
-          "name": "谷物出口",
-          "variableId": 1200352,
-          "values": [
-            8725000,
-            7511000,
-            5466000,
-            6228000
-          ]
-        }
-      ]
-    },
-    {
-      "id": "food-availability",
-      "title": "每人一年，平均有多少食物可供消费？",
-      "description": "可供量是全国食物平衡表指标，包含尚未扣除的消费者浪费，不是实际摄入或布达佩斯人均消费调查。奶类覆盖乳品折算，鱼类合计淡水与海产；各项并非同一种可食部重量。",
-      "scope": "匈牙利全国",
-      "unit": "千克 / 人 / 年",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-fbs"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "水果（不含葡萄酒）",
-          "variableId": 1201072,
-          "values": [
-            79.700005,
-            80.16002,
-            88.66002,
-            81.25996
-          ]
-        },
-        {
-          "name": "蔬菜",
-          "variableId": 1203862,
-          "values": [
-            85.86001,
-            88.750015,
-            78.140015,
-            98.31995
-          ]
-        },
-        {
-          "name": "奶类（不含黄油）",
-          "variableId": 1201769,
-          "values": [
-            192.26001,
-            195.07004,
-            188.55003,
-            188.99991
-          ]
-        },
-        {
-          "name": "肉类合计",
-          "variableId": 1201693,
-          "values": [
-            81.43001,
-            81.65002,
-            78.77001,
-            76.32996
-          ]
-        },
-        {
-          "name": "蛋类",
-          "variableId": 1200910,
-          "values": [
-            14.550002,
-            13.850002,
-            13.790002,
-            14.299993
-          ]
-        },
-        {
-          "name": "鱼与海产合计",
-          "variableId": 1201006,
-          "values": [
-            6.4300003,
-            6.450001,
-            6.460001,
-            6.4599967
-          ]
-        }
-      ]
-    },
-    {
-      "id": "meat-availability",
-      "title": "肉类可供量：猪、禽、牛的差别",
-      "description": "猪肉包含相应加工制品的平衡表归类；禽肉不只鸡肉。三项并未穷尽全部肉类，不与“肉类合计”重复相加；不是每人实际吃掉的肉量。",
-      "scope": "匈牙利全国",
-      "unit": "千克 / 人 / 年",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-fbs"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "猪肉",
-          "variableId": 1201581,
-          "values": [
-            47.870003,
-            50.010006,
-            48.500008,
-            47.209976
-          ]
-        },
-        {
-          "name": "禽肉",
-          "variableId": 1201620,
-          "values": [
-            27.480001,
-            25.340004,
-            24.210003,
-            24.079987
-          ]
-        },
-        {
-          "name": "牛与水牛肉",
-          "variableId": 1201508,
-          "values": [
-            5.7700005,
-            5.7400007,
-            5.590001,
-            4.4299974
-          ]
-        }
-      ]
-    },
-    {
-      "id": "inland-fish",
-      "title": "淡水背景：养殖与捕捞的生产量",
-      "description": "匈牙利是内陆国家。这里是全国养殖和捕捞数据，不是多瑙河市区渔获，也不包含进口海鲜的城市消费量；养殖并非仅鲤鱼。",
-      "scope": "匈牙利全国",
-      "unit": "吨",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "section": "supply",
-      "sourceIds": [
-        "fao-fish"
-      ],
-      "type": "bar",
-      "series": [
-        {
-          "name": "水产养殖",
-          "variableId": 1293862,
-          "values": [
-            18435.87,
-            18024.758,
-            18557.111,
-            17785.023,
-            19434.732
-          ]
-        },
-        {
-          "name": "捕捞",
-          "variableId": 1293865,
-          "values": [
-            5483.12,
-            4600.536,
-            4596.812,
-            4601.538,
-            4744.284
-          ]
-        }
-      ]
-    },
-    {
       "id": "energy-net-imports",
       "title": "能源供给，对外依赖到什么程度？",
       "description": "净能源进口占一次能源使用的比例。正数表示净进口，负数表示净出口；这是全国全部能源口径，不能替代气、油或电力的单项依赖率。",
@@ -1350,6 +1094,66 @@ const produceStats = {
       ]
     },
     {
+      "itemId": "rye",
+      "label": "黑麦 · 全国生产量",
+      "value": 70820,
+      "year": 2024,
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "variableId": 1199257,
+      "sourceIds": [
+        "fao-crops"
+      ]
+    },
+    {
+      "itemId": "pork",
+      "label": "猪肉 · 全国生产量",
+      "value": 462920,
+      "year": 2024,
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "variableId": 1198719,
+      "sourceIds": [
+        "fao-crops"
+      ]
+    },
+    {
+      "itemId": "chicken",
+      "label": "鸡肉 · 全国生产量",
+      "value": 401760,
+      "year": 2024,
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "variableId": 1198671,
+      "sourceIds": [
+        "fao-crops"
+      ]
+    },
+    {
+      "itemId": "beef",
+      "label": "牛与水牛肉 · 全国生产量",
+      "value": 23810,
+      "year": 2024,
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "variableId": 1198653,
+      "sourceIds": [
+        "fao-crops"
+      ]
+    },
+    {
+      "itemId": "wine",
+      "label": "葡萄酒 · 全国生产量",
+      "value": 292277,
+      "year": 2023,
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "variableId": 1199551,
+      "sourceIds": [
+        "fao-crops"
+      ]
+    },
+    {
       "itemId": "milk",
       "label": "奶类（不含黄油） · 全国人均可供量",
       "value": 188.99991,
@@ -1408,6 +1212,580 @@ const produceStats = {
       "sourceIds": [
         "fao-fbs"
       ]
+    }
+  ],
+  "latestSeries": [
+    {
+      "id": "latest-1199532",
+      "itemId": "wheat",
+      "name": "小麦",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        5121480,
+        5290140,
+        4354710,
+        5941990,
+        5272960
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199532
+    },
+    {
+      "id": "latest-1198621",
+      "itemId": "maize",
+      "name": "玉米",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        8365430,
+        6424630,
+        2765600,
+        6242410,
+        5297730
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198621
+    },
+    {
+      "id": "latest-1197641",
+      "itemId": "barley",
+      "name": "大麦",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        1483950,
+        1711630,
+        1590740,
+        2219720,
+        1554570
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1197641
+    },
+    {
+      "id": "latest-1199410",
+      "itemId": "sunflower",
+      "name": "葵花籽",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        1697960,
+        1757710,
+        1286200,
+        1970150,
+        1798950
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199410
+    },
+    {
+      "id": "latest-1199201",
+      "itemId": "rapeseed",
+      "name": "油菜籽",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        876900,
+        734020,
+        505050,
+        626410,
+        450360
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199201
+    },
+    {
+      "id": "latest-1199386",
+      "itemId": "sugar-beet",
+      "name": "制糖甜菜",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        780460,
+        678010,
+        470220,
+        875970,
+        856310
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199386
+    },
+    {
+      "id": "latest-1199243",
+      "itemId": "rice",
+      "name": "稻米（FAO Rice）",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        11740,
+        9520,
+        10150,
+        8330,
+        8560
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199243
+    },
+    {
+      "id": "latest-1197505",
+      "itemId": "apple",
+      "name": "苹果",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        398710,
+        514520,
+        350100,
+        486300,
+        376680
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1197505
+    },
+    {
+      "id": "latest-1198454",
+      "itemId": "grape",
+      "name": "葡萄",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        435050,
+        437750,
+        414550,
+        410980,
+        378830
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198454
+    },
+    {
+      "id": "latest-1199148",
+      "itemId": "potato",
+      "name": "土豆",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        270090,
+        239840,
+        199210,
+        209950,
+        234350
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199148
+    },
+    {
+      "id": "latest-1199460",
+      "itemId": "tomato",
+      "name": "番茄",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        154140,
+        171770,
+        137860,
+        177390,
+        183510
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199460
+    },
+    {
+      "id": "latest-1198790",
+      "itemId": "milk",
+      "name": "奶类生产总量",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        2019000,
+        2085000,
+        2044900,
+        2032110,
+        2098020
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198790
+    },
+    {
+      "id": "latest-1199257",
+      "itemId": "rye",
+      "name": "黑麦",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        84350,
+        85010,
+        59160,
+        94140,
+        70820
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199257
+    },
+    {
+      "id": "latest-1198719",
+      "itemId": "pork",
+      "name": "猪肉",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        455720,
+        473800,
+        441320,
+        427030,
+        462920
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198719
+    },
+    {
+      "id": "latest-1198671",
+      "itemId": "chicken",
+      "name": "鸡肉",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        354480,
+        367610,
+        348840,
+        378980,
+        401760
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198671
+    },
+    {
+      "id": "latest-1198653",
+      "itemId": "beef",
+      "name": "牛与水牛肉",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        29150,
+        30080,
+        26900,
+        24180,
+        23810
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1198653
+    },
+    {
+      "id": "latest-1199551",
+      "itemId": "wine",
+      "name": "葡萄酒",
+      "kind": "production",
+      "scope": "匈牙利全国",
+      "unit": "吨",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        307321,
+        294919,
+        291335,
+        292277,
+        null
+      ],
+      "sourceIds": [
+        "fao-crops"
+      ],
+      "variableId": 1199551
+    },
+    {
+      "id": "latest-1201769",
+      "itemId": "milk",
+      "name": "奶类（不含黄油）",
+      "kind": "perCapitaPublished",
+      "scope": "匈牙利全国",
+      "unit": "千克 / 人 / 年",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        192.26001,
+        195.07004,
+        188.55003,
+        188.99991,
+        null
+      ],
+      "sourceIds": [
+        "fao-fbs"
+      ],
+      "variableId": 1201769
+    },
+    {
+      "id": "latest-1200910",
+      "itemId": "egg",
+      "name": "蛋类",
+      "kind": "perCapitaPublished",
+      "scope": "匈牙利全国",
+      "unit": "千克 / 人 / 年",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        14.550002,
+        13.850002,
+        13.790002,
+        14.299993,
+        null
+      ],
+      "sourceIds": [
+        "fao-fbs"
+      ],
+      "variableId": 1200910
+    },
+    {
+      "id": "latest-1201581",
+      "itemId": "pork",
+      "name": "猪肉",
+      "kind": "perCapitaPublished",
+      "scope": "匈牙利全国",
+      "unit": "千克 / 人 / 年",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        47.870003,
+        50.010006,
+        48.500008,
+        47.209976,
+        null
+      ],
+      "sourceIds": [
+        "fao-fbs"
+      ],
+      "variableId": 1201581
+    },
+    {
+      "id": "latest-1201620",
+      "itemId": "chicken",
+      "name": "禽肉",
+      "kind": "perCapitaPublished",
+      "scope": "匈牙利全国",
+      "unit": "千克 / 人 / 年",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        27.480001,
+        25.340004,
+        24.210003,
+        24.079987,
+        null
+      ],
+      "sourceIds": [
+        "fao-fbs"
+      ],
+      "variableId": 1201620
+    },
+    {
+      "id": "latest-1201508",
+      "itemId": "beef",
+      "name": "牛与水牛肉",
+      "kind": "perCapitaPublished",
+      "scope": "匈牙利全国",
+      "unit": "千克 / 人 / 年",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "values": [
+        5.7700005,
+        5.7400007,
+        5.590001,
+        4.4299974,
+        null
+      ],
+      "sourceIds": [
+        "fao-fbs"
+      ],
+      "variableId": 1201508
     }
   ],
   "highlights": [
@@ -1483,7 +1861,7 @@ const produceStats = {
     }
   ],
   "notes": [
-    "图表只展示本次已读取数值与单位定义的指标；没有取得逐品类进口量的食材，会在详情中说明，不用谷物或全国总量替代。",
+    "同年供需现已扩展到53个产品/统计组；统计组与含制品条目不等于每种生鲜食材，未取得单项时不擅自拆分。",
     "2024粮食产量与2023谷物贸易不是同一年、同一商品分组，不能直接拼成自给率。进口可以发生在丰收或净出口年份。",
     "食物可供量不等于购买量、实际吃下去的重量或营养摄入。奶类包括乳品折算，鱼肉统计与零售去骨净肉重量也可能不同。",
     "收获月份是一般性产区参考，未逐一核对每个产区的官方日历；天气、品种、温室、储藏和进口都会改变上市时间。",
