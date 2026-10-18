@@ -122,20 +122,12 @@ def main():
                              "unit": "吨" if is_crop else "千克 / 人 / 年", "variableId": variable,
                              "sourceIds": ["fao-crops" if is_crop else "fao-fbs"]})
 
-    energy_source = (ROOT / "data/produce-energy.js").read_text().split(" = ", 1)[1].rstrip().removesuffix(";")
-    latest_electricity = json.loads(energy_source)["latestElectricity"]
     stats = {
         "id": "budapest", "updatedAt": args.checked_date,
         "intro": "布达佩斯的日常，由周边田野、匈牙利全国供应链和跨境贸易共同塑造。认识市场里的食材，也追踪支撑这座城市的水、电与燃料。",
         "scopeNote": "城市讲购买与生活，产区讲种养与加工，数字采用标明年份的匈牙利全国统计。本专题未取得可比的布达佩斯逐食材产量、进口量及实测消费量，不按人口分摊全国量。",
         "supplyIntro": "按与食材图鉴一致的12类查看。默认是2010–2023同版食物平衡表，可逐产品查看产量、进口、出口、国内供给、食用可供总量与估算人均量；更新的2023/2024单项另列，年份与口径分别标明。",
         "sources": sources, "charts": charts, "itemMetrics": item_metrics, "latestSeries": latest_series,
-        "highlights": [
-            {"label": "全国小麦产量", "value": records[1199532]["observations"][2024] / 10000, "unit": "万吨", "year": 2024, "scope": "匈牙利全国", "note": "农业生产口径，非城市消费。", "sourceIds": ["fao-crops"]},
-            {"label": "谷物净出口", "value": (records[1200352]["observations"][2023] - records[1200372]["observations"][2023]) / 10000, "unit": "万吨", "year": 2023, "scope": "匈牙利全国", "note": "谷物出口总量减进口总量。", "sourceIds": ["fao-fbs"]},
-            {"label": "电力净进口 / 需求", "value": latest_electricity["netImportShare"], "unit": "%", "year": latest_electricity["year"], "scope": "匈牙利全国", "note": "电力口径，来自 Ember / OWID。", "sourceIds": latest_electricity["sourceIds"]},
-            {"label": "能源净进口 / 能源使用", "value": records[1293792]["observations"][2023], "unit": "%", "year": 2023, "scope": "匈牙利全国", "note": "一次能源口径，区别于电力。", "sourceIds": ["energy-imports"]},
-        ],
         "context": [
             {"title": "在城市购买，不等于城市生产", "text": "布达佩斯是消费与集散市场。苹果果园、红椒产区、谷物田、鱼塘、酒庄与加工厂分布在全国各地；买菜时以摊位或包装的原产国、产地和当季批次为准。", "sourceIds": ["ksh-agriculture", "hu-tourism"]},
             {"title": "谷物可用于面包，也可用于饲料和工业", "text": "玉米、小麦和大麦不只供人直接食用：它们也进入饲料、淀粉、酿造与发酵链。国内供给量包含多种用途，不能直接除以人口当作吃饭数量。", "sourceIds": ["fao-fbs"]},

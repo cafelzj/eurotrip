@@ -55,5 +55,4 @@ for(const metric of stats.itemMetrics){assert(items.has(metric.itemId));assert(v
 assert(Math.abs(energy.electricity.mix.reduce((sum,n)=>sum+n.value,0)-energy.electricity.generation)<1e-8);
 for(const row of energy.electricityTrend){assert(Math.abs(row.generation+row.netImports-row.demand)<.011);assert.equal(row.imports,null);assert.equal(row.exports,null);}
 assert.equal(energy.latestElectricity.year,2025);assert.equal(energy.fuelConsumption.year,2024);
-const electricityHighlight=stats.highlights.find(h=>h.label.startsWith('电力'));assert.equal(electricityHighlight.value,energy.latestElectricity.netImportShare);assert.equal(electricityHighlight.year,energy.latestElectricity.year);
 console.log('PASS 60 food entries, existing-card links, complete source graph, 31 pinned OWID variables and 53 full-balance products, units/years/scope, trade quantities and energy accounting');

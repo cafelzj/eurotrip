@@ -1788,53 +1788,6 @@ const produceStats = {
       "variableId": 1201508
     }
   ],
-  "highlights": [
-    {
-      "label": "全国小麦产量",
-      "value": 527.296,
-      "unit": "万吨",
-      "year": 2024,
-      "scope": "匈牙利全国",
-      "note": "农业生产口径，非城市消费。",
-      "sourceIds": [
-        "fao-crops"
-      ]
-    },
-    {
-      "label": "谷物净出口",
-      "value": 414.3,
-      "unit": "万吨",
-      "year": 2023,
-      "scope": "匈牙利全国",
-      "note": "谷物出口总量减进口总量。",
-      "sourceIds": [
-        "fao-fbs"
-      ]
-    },
-    {
-      "label": "电力净进口 / 需求",
-      "value": 17.71,
-      "unit": "%",
-      "year": 2025,
-      "scope": "匈牙利全国",
-      "note": "电力口径，来自 Ember / OWID。",
-      "sourceIds": [
-        "energy-owid",
-        "energy-codebook"
-      ]
-    },
-    {
-      "label": "能源净进口 / 能源使用",
-      "value": 62.50981,
-      "unit": "%",
-      "year": 2023,
-      "scope": "匈牙利全国",
-      "note": "一次能源口径，区别于电力。",
-      "sourceIds": [
-        "energy-imports"
-      ]
-    }
-  ],
   "context": [
     {
       "title": "在城市购买，不等于城市生产",
