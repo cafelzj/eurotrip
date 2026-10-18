@@ -10,7 +10,7 @@
  H.finalize();
  function setMode(mode){
   const travel=mode!=='words';guide.hidden=!travel;document.querySelector('#vocabulary').hidden=travel;
-  for(const [id,selected]of [['travelMode',mode==='europe'],['wordsMode',mode==='words'],['chinaMode',mode==='china']]){const button=document.getElementById(id);button.classList.toggle('selected',selected);button.setAttribute('aria-pressed',selected);}
+  for(const [id,selected]of [['travelMode',mode==='europe'],['wordsMode',mode==='words'],['chinaMode',mode==='china'],['produceMode',mode==='produce']]){const button=document.getElementById(id);button.classList.toggle('selected',selected);button.setAttribute('aria-pressed',selected);}
  }
  function navigate(hash){if(location.hash===hash)route();else location.hash=hash;}
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
@@ -35,6 +35,10 @@
  function renderRoute(){
   disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
   if(parts[0]==='words'){setMode('words');return;}
+  if(parts[0]==='produce'){
+   if(parts[1]!=='budapest'||parts.length!==2){navigate('#produce/budapest');return;}
+   setMode('produce');guide.innerHTML=ProducePage.render();ProducePage.bind(guide);return;
+  }
   if(parts[0]==='cards'){navigate('#guide/'+H.lastCountry());return;}
   if(parts[0]==='card'){
    let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{id='';}
@@ -84,6 +88,7 @@
  function route(){closeMenus();renderRoute();syncMenus();window.FloatingMap?.sync();}
  for(const event of ['click','focusin'])document.addEventListener(event,e=>{if(!e.target.closest('.country-mode-control'))closeMenus();});
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
+ document.querySelector('#produceMode').onclick=()=>navigate('#produce/budapest');
  document.querySelector('#saved').addEventListener('click',()=>navigate('#words'));
  window.addEventListener('hashchange',()=>{route();window.scrollTo({top:0,behavior:'instant'});});route();
 })();
