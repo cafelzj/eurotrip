@@ -70,8 +70,8 @@
   country=country||countries.find(c=>c.id===city?.country);
   const selected=europe.find(c=>c.id===country?.id)||europe.find(c=>c.id===H.lastCountry())||europe[0];
   const currentChina=chinaCities.find(c=>c.id===city?.id)||chinaCities.find(c=>c.id===lastChina);
-  countryButton.textContent='◎ 欧洲国家'+(country&&!H.isChina(country)?' · '+selected.name:'')+' ▾';
-  chinaButton.textContent='⌂ 中国城市'+(H.isChina(country)?' · '+currentChina.name:'')+' ▾';
+  countryButton.innerHTML='◎ 欧洲国家'+(country&&!H.isChina(country)?`<span class="mode-location"> · ${h(selected.name)}</span>`:'')+' ▾';
+  chinaButton.innerHTML='⌂ 中国城市'+(H.isChina(country)?`<span class="mode-location"> · ${h(currentChina.name)}</span>`:'')+' ▾';
   countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${c.id===selected.id?'✓':''}</i></button>`).join('');
   const selectedRoot=ChinaRegions.parent(currentChina)||currentChina;
   chinaMenu.innerHTML=ChinaRegions.provinces.map(province=>`<div class="china-province-label" role="presentation">${h(province.name)}</div>`+ChinaRegions.prefectures(province.id).map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selectedRoot.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.adminName)}</b><small>${h(c.local)} · 地级市</small></span><i>${c.id===selectedRoot.id?'✓':''}</i></button>`).join('')).join('');
