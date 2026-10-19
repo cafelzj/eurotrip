@@ -46,9 +46,9 @@ const cardCategories = {
     {
       "id": "tickets",
       "category": "transport",
-      "name": "交通买票",
+      "name": "交通票务与乘车",
       "icon": "🎫",
-      "description": "从单次票、多日票到月票，先比较有效时间、区域和机场适用范围，再查官方票务。"
+      "description": "从单次票、多日票到月票，了解有效时间、票区、验证、换乘与机场接驳；把买票和实际乘车规则一起核对，以运营商最新说明为准。"
     },
     {
       "id": "transit-tools",
@@ -70,13 +70,6 @@ const cardCategories = {
       "name": "共享单车 / 滑板车",
       "icon": "🚲",
       "description": "先在运营商 App 中确认服务范围、费用与停车区，再解锁骑行；公共交通票通常不默认包含共享骑行。"
-    },
-    {
-      "id": "transport-rules",
-      "category": "transport",
-      "name": "乘车提醒",
-      "icon": "🚇",
-      "description": "验证、票区、换乘与机场接驳等容易忽略的出行规则。"
     },
     {
       "id": "airport",
@@ -359,8 +352,12 @@ const cardCategories = {
     "支付": "支付 / 货币",
     "购物": "购物提醒",
     "餐饮": "点餐 / 结账提醒",
-    "交通": "乘车提醒",
-    "日常": "日常 / 应急"
+    "交通": "交通票务与乘车",
+    "日常": "日常 / 应急",
+    "交通买票": "交通票务与乘车",
+    "乘车提醒": "交通票务与乘车",
+    "transport-rules": "交通票务与乘车",
+    "tickets": "交通票务与乘车"
   },
   "pointKinds": {
     "church": "church",

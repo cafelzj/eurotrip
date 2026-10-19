@@ -12,7 +12,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    assert.deepEqual(await p.locator('.hub-tabs [data-hub-topic]').evaluateAll(es=>es.map(e=>e.dataset.hubTopic)),['all','transport','food','brands','places','facts']);
    assert.equal(await p.locator('[data-hub-topic="essential"]').count(),0);
    await p.locator('[data-hub-topic="facts"]').first().click();await p.selectOption('#hubKind','日常 / 应急');assert.equal(await p.locator('[data-knowledge-card="tip-common-help"]').count(),1);
-   await p.locator('[data-hub-topic="transport"]').first().click();assert((await p.locator('#hubKind').innerText()).includes('交通买票'));assert((await p.locator('#hubKind').innerText()).includes('机场'));
+   await p.locator('[data-hub-topic="transport"]').first().click();assert((await p.locator('#hubKind').innerText()).includes('交通票务与乘车'));assert((await p.locator('#hubKind').innerText()).includes('机场'));
    await p.selectOption('#hubKind','地铁');assert(await p.locator('.hub-card').count());
    await p.selectOption('#hubKind','共享单车 / 滑板车');assert.equal(await p.locator('[data-knowledge-card="tip-'+country+'-shared-mobility"]').count(),1);
    await p.locator('[data-hub-topic="brands"]').first().click();await p.selectOption('#hubKind','支付 / 货币');assert(await p.locator('[data-knowledge-card="tip-'+country+'-money"]').count());
@@ -22,6 +22,14 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   }
   await p.goto(base+'/#guide/at/vienna?zone=essential');assert.equal(await p.locator('#hubKind').inputValue(),'日常 / 应急');assert.equal(await p.locator('[data-knowledge-card="tip-common-help"]').count(),1);
   await p.goto(base+'/#guide/at/vienna?zone=essential&kind='+encodeURIComponent('交通买票'));assert.equal(await p.locator('[data-hub-topic="transport"]').first().getAttribute('aria-pressed'),'true');assert((await p.evaluate(()=>location.hash)).includes('zone=transport'));
+  for(const oldKind of ['交通买票','乘车提醒','交通','transport-rules']){
+   await p.goto(base+'/#guide/at/vienna?zone=transport&kind='+encodeURIComponent(oldKind));
+   assert.equal(await p.locator('#hubKind').inputValue(),'交通票务与乘车');
+   while(await p.locator('[data-hub-more]').count())await p.locator('[data-hub-more]').first().click();
+   const ids=await p.locator('[data-knowledge-card]').evaluateAll(nodes=>nodes.map(n=>n.dataset.knowledgeCard));
+   assert(ids.includes('tip-vienna-ticket-choice'));assert(ids.includes('tip-city-vienna'));
+   assert.equal(await p.locator('.hub-subgroup').count(),1);
+  }
   for(const [oldKind,topic]of [['支付','brands'],['购物','brands'],['医药服务','brands'],['餐饮','food']]){await p.goto(base+'/#guide/at/vienna?zone=essential&kind='+encodeURIComponent(oldKind));assert.equal(await p.locator('[data-hub-topic="'+topic+'"]').first().getAttribute('aria-pressed'),'true');}
   await p.goto(base+'/#guide/hu/budapest?zone=transport&kind='+encodeURIComponent('地铁'));assert.equal(await p.locator('[data-knowledge-card="tip-budapest-metro"]').count(),1);
   await p.goto(base+'/#guide/hu/debrecen?zone=transport');assert.equal(await p.locator('#hubKind option[value="地铁"]').count(),0);await p.selectOption('#hubKind','共享单车 / 滑板车');assert.equal(await p.locator('[data-knowledge-card="tip-hu-shared-mobility"]').count(),1);

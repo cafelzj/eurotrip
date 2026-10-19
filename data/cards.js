@@ -6409,7 +6409,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-hu-airport",
@@ -6425,7 +6425,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-hu-deposit",
@@ -6684,7 +6684,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-at-deposit",
@@ -6732,7 +6732,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "fact-de-0",
@@ -6931,7 +6931,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-de-validate",
@@ -6947,7 +6947,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-de-deposit",
@@ -7031,7 +7031,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-debrecen",
@@ -7048,7 +7048,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-szeged",
@@ -7065,7 +7065,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-vienna",
@@ -7082,7 +7082,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-salzburg",
@@ -7099,7 +7099,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-innsbruck",
@@ -7116,7 +7116,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-berlin",
@@ -7133,7 +7133,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-munich",
@@ -7150,7 +7150,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-hamburg",
@@ -7167,7 +7167,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-city-cologne",
@@ -7184,7 +7184,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules"
+    "subcategory": "tickets"
   },
   {
     "id": "brand-billa",
@@ -8927,7 +8927,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules",
+    "subcategory": "tickets",
     "city": "belgrade"
   },
   {
@@ -9011,7 +9011,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules",
+    "subcategory": "tickets",
     "city": "novi-sad"
   },
   {
@@ -9095,7 +9095,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transport-rules",
+    "subcategory": "tickets",
     "city": "nis"
   },
   {
