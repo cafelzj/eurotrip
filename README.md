@@ -172,7 +172,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-supply.py --c
 - `produce.js`、`produce.css`：物产图鉴、食材筛选、季节矩阵、来源与导出、能源图表。
 - `produce-supply.js`、`produce-supply.css`：同年供需矩阵、最新单项、共享分类、多指标 / 多产品对比、基年指数与逐年读数及数据与食材互跳。
 - `guide.js`：欧洲国家、中国城市、物产与地图页面路由，共用目的地布局。
-- `floating-map.js`、`poi.js`：随身地图、三层图层树和动态门店搜索。
+- `floating-map.js`、`poi.js`：随身地图、三层图层树和动态门店搜索；`map-pins.css` 统一两种地图的标记、编号与聚合样式。
 - `card-manager.js`、`card-manager.css`：管理表、归属与内容搜索、筛选、分页、CSV和详情返回。
 - `app.js`：可配置语言的词典搜索、收藏、详情与设备朗读。
 - 对应 CSS 负责布局和分类配色；`vendor/` 保留 Leaflet 1.9.4（BSD-2-Clause）、MarkerCluster 1.5.3（MIT）及许可证。
