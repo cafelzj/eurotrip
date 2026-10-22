@@ -22,6 +22,8 @@ window.CardAI=(()=>{
    `主题：${node.name}${node.local?' / '+node.local:''}`,
    `类型：${type}；分类：${H.subtype(node)}`,
    `阅读场景：${country.name}${city?' · '+(H.isChina(country)?ChinaRegions.label(city):city.name):''}`,
+   `归属国家：${CardGraph.countryIds(node).map(id=>travelCountries.find(c=>c.id===id)?.name||id).join('、')}；关联城市：${CardGraph.cityIds(node).map(id=>travelCities.find(c=>c.id===id)?.name||id).join('、')||'未指定城市'}` ,
+   node.subtitle?`副标题：${node.subtitle}`:'',
    `现有简介：${short(node.description,450)}`,
    node.note?`补充资料：${short(node.note,1000)}`:'',
    related?`延伸线索：${related}`:'',

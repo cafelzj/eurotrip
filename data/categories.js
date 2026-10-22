@@ -282,6 +282,13 @@ const cardCategories = {
       "description": "把有趣的线索放回历史和地理背景中，沿关联继续阅读。"
     },
     {
+      "id": "world-heritage",
+      "category": "places",
+      "name": "世界遗产",
+      "icon": "🌍",
+      "description": "按 UNESCO 正式列名认识世界文化与自然遗产。历史城区、建筑群与跨国文化景观的范围各不相同；城市关联不代表整座城市都在遗产范围内，图钉只作参考位置。"
+    },
+    {
       "id": "church",
       "category": "places",
       "name": "教堂",

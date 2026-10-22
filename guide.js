@@ -29,7 +29,7 @@
   const border=countryBorders.features.find(f=>f.properties.name===country.border);if(border){const layer=L.geoJSON(border,{style:{color:'#879f78',weight:1.5,fillOpacity:city?0:.2},interactive:false}).addTo(map);if(!city)map.fitBounds(layer.getBounds(),{padding:[20,20]});}
   explorer=CityExplorer.mount({map,country,city});const fixed=CardGraph.nodes.get(params.get('focus')),search=CardGraph.nodes.get(params.get('search')||params.get('food'));const inScope=n=>n&&H.scoped(country,city).some(x=>x.id===n.id);
   if(inScope(fixed)&&H.mapBinding(fixed).mode==='fixed')explorer.focusNode(fixed.id);
-  if((inScope(search)||search?.shopping&&search.country===country.id)&&H.mapBinding(search).mode==='dynamic')explorer.searchCard(search);
+  if((inScope(search)||search?.shopping&&H.countryIds(search).includes(country.id))&&H.mapBinding(search).mode==='dynamic')explorer.searchCard(search);
   requestAnimationFrame(()=>map?.invalidateSize());
  }
  function renderRoute(){
@@ -39,6 +39,7 @@
    if(parts[1]!=='budapest'||parts.length!==2){navigate('#produce/budapest');return;}
    setMode('produce');guide.innerHTML=ProducePage.render();ProducePage.bind(guide);return;
   }
+  if(parts[0]==='card-manager'){setMode('europe');guide.innerHTML=CardManager.render();CardManager.bind(guide,params);return;}
   if(parts[0]==='cards'){navigate('#guide/'+H.lastCountry());return;}
   if(parts[0]==='card'){
    let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{id='';}
@@ -62,7 +63,7 @@
   setMode('europe');destinationPage(country,city,params.get('zone')||'all');
  }
  function syncMenus(){
-  const parts=location.hash.slice(1).split('?')[0].split('/');let country,city;
+  const parts=location.hash.slice(1).split('?')[0].split('/'),managing=parts[0]==='card-manager';let country,city;
   if(parts[0]==='china')city=ChinaRegions.resolve(parts.slice(1));
   if(parts[0]==='guide'){country=countries.find(c=>c.id===parts[1]);city=cities.find(c=>c.id===parts[2]);}
   if(parts[0]==='map'){city=cities.find(c=>c.id===parts[1]);country=countries.find(c=>c.id===parts[1]);}
@@ -70,19 +71,19 @@
   country=country||countries.find(c=>c.id===city?.country);
   const selected=europe.find(c=>c.id===country?.id)||europe.find(c=>c.id===H.lastCountry())||europe[0];
   const currentChina=chinaCities.find(c=>c.id===city?.id)||chinaCities.find(c=>c.id===lastChina);
-  countryButton.innerHTML='◎ 欧洲国家'+(country&&!H.isChina(country)?`<span class="mode-location"> · ${h(selected.name)}</span>`:'')+' ▾';
+  countryButton.innerHTML='◎ 欧洲国家'+(managing?'<span class="mode-location"> · 卡片管理</span>':country&&!H.isChina(country)?`<span class="mode-location"> · ${h(selected.name)}</span>`:'')+' ▾';
   chinaButton.innerHTML='⌂ 中国城市'+(H.isChina(country)?`<span class="mode-location"> · ${h(currentChina.name)}</span>`:'')+' ▾';
-  countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${c.id===selected.id?'✓':''}</i></button>`).join('');
+  countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managing&&c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${!managing&&c.id===selected.id?'✓':''}</i></button>`).join('')+`<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager ${managing?'aria-current="page"':''}><span>▦</span><span><b>卡片管理</b><small>表格 · 搜索与筛选</small></span><i>${managing?'✓':'↗'}</i></button>`;
   const selectedRoot=ChinaRegions.parent(currentChina)||currentChina;
   chinaMenu.innerHTML=ChinaRegions.provinces.map(province=>`<div class="china-province-label" role="presentation">${h(province.name)}</div>`+ChinaRegions.prefectures(province.id).map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${c.id===selectedRoot.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.adminName)}</b><small>${h(c.local)} · 地级市</small></span><i>${c.id===selectedRoot.id?'✓':''}</i></button>`).join('')).join('');
  }
  const menus=[[countryButton,countryMenu,'data-nav-country',id=>'#guide/'+id],[chinaButton,chinaMenu,'data-nav-city',id=>ChinaRegions.url(ChinaRegions.get(id))]];
  function closeMenus(focusButton){for(const [button,menu]of menus){menu.hidden=true;button.setAttribute('aria-expanded','false');}focusButton?.focus();}
- function openMenu(button,menu){closeMenus();menu.hidden=false;button.setAttribute('aria-expanded','true');(menu.querySelector('[aria-checked=true]')||menu.querySelector('button'))?.focus();}
+ function openMenu(button,menu){closeMenus();menu.hidden=false;button.setAttribute('aria-expanded','true');(menu.querySelector('[aria-current=page]')||menu.querySelector('[aria-checked=true]')||menu.querySelector('button'))?.focus();}
  for(const [button,menu,attribute,url]of menus){
   button.onclick=()=>menu.hidden?openMenu(button,menu):closeMenus(button);
   button.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp'].includes(e.key)){e.preventDefault();openMenu(button,menu);}});
-  menu.onclick=e=>{const option=e.target.closest('['+attribute+']');if(option){closeMenus(button);navigate(url(option.getAttribute(attribute)));}};
+  menu.onclick=e=>{if(e.target.closest('[data-nav-manager]')){closeMenus(button);navigate('#card-manager');return;}const option=e.target.closest('['+attribute+']');if(option){closeMenus(button);navigate(url(option.getAttribute(attribute)));}};
   menu.addEventListener('keydown',e=>{if(e.key==='Escape'){e.preventDefault();closeMenus(button);return;}if(!['ArrowDown','ArrowUp','Home','End'].includes(e.key))return;e.preventDefault();const options=[...menu.querySelectorAll('button')],at=options.indexOf(document.activeElement),next=e.key==='Home'?0:e.key==='End'?options.length-1:(at+(e.key==='ArrowDown'?1:-1)+options.length)%options.length;options[next].focus();});
  }
  function route(){closeMenus();renderRoute();syncMenus();window.FloatingMap?.sync();}
