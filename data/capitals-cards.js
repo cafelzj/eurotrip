@@ -1255,7 +1255,7 @@ const capitalCards = [
     "country": "hu",
     "city": "budapest",
     "category": "transport",
-    "subcategory": "transit-tools",
+    "subcategory": "tickets",
     "name": "电车 2 号线 · 河岸风景与日常交通",
     "local": "",
     "description": "佩斯河岸的电车线路可作为观察多瑙河与布达城堡区的日常交通线索。",

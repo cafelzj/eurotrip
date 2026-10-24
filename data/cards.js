@@ -8280,7 +8280,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-debrecen-transit-tools",
@@ -8301,7 +8301,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-szeged-transit-tools",
@@ -8322,7 +8322,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-vienna-transit-tools",
@@ -8343,7 +8343,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-salzburg-transit-tools",
@@ -8364,7 +8364,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-innsbruck-transit-tools",
@@ -8385,7 +8385,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-berlin-transit-tools",
@@ -8406,7 +8406,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-munich-transit-tools",
@@ -8427,7 +8427,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-hamburg-transit-tools",
@@ -8448,7 +8448,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "tip-cologne-transit-tools",
@@ -8469,7 +8469,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools"
+    "subcategory": "tickets"
   },
   {
     "id": "brand-chain-nordsee",
@@ -8948,7 +8948,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools",
+    "subcategory": "tickets",
     "city": "belgrade"
   },
   {
@@ -9032,7 +9032,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools",
+    "subcategory": "tickets",
     "city": "novi-sad"
   },
   {
@@ -9116,7 +9116,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools",
+    "subcategory": "tickets",
     "city": "nis"
   },
   {
@@ -9259,7 +9259,7 @@ const travelCards = [
       ]
     ],
     "category": "transport",
-    "subcategory": "transit-tools",
+    "subcategory": "tickets",
     "cities": [
       "belgrade",
       "novi-sad",

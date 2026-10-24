@@ -18,7 +18,7 @@ window.CardManager=(()=>{
   const config=scope(region),countryOptions=travelCountries.filter(c=>H.isChina(c)===(region==='china')),countryIds=new Set(countryOptions.map(c=>c.id));
   const all=[...G.nodes.values()].filter(n=>!n.live&&!n.collectionHidden&&G.countryIds(n).some(id=>countryIds.has(id))).sort((a,b)=>a.name.localeCompare(b.name,'zh-CN')||a.id.localeCompare(b.id));
   const index=new Map(all.map(n=>[n.id,G.searchText(n)]));
-  const state={q:params.get('q')||'',country:params.get('country')||'',city:params.get('city')||'',primary:params.get('primary')||'',secondary:params.get('secondary')||'',page:Math.max(1,parseInt(params.get('page'),10)||1),size:[25,50,100].includes(Number(params.get('size')))?Number(params.get('size')):25};
+  const state={q:params.get('q')||'',country:params.get('country')||'',city:params.get('city')||'',primary:params.get('primary')||'',secondary:cardCategories.secondary.find(c=>c.name===cardCategories.subcategoryAliases[params.get('secondary')])?.id||params.get('secondary')||'',page:Math.max(1,parseInt(params.get('page'),10)||1),size:[25,50,100].includes(Number(params.get('size')))?Number(params.get('size')):25};
   const input=name=>root.querySelector('[data-manager-'+name+']');let filtered=[];
   const options=(rows,value,placeholder)=>`<option value="">${h(placeholder)}</option>`+rows.map(n=>`<option value="${h(n.id)}" ${n.id===value?'selected':''}>${h((n.flag||n.icon||'')+' '+n.name)}</option>`).join('');
   function url(){const p=new URLSearchParams();for(const key of ['q','country','city','primary','secondary'])if(state[key])p.set(key,state[key]);if(state.page>1)p.set('page',state.page);if(state.size!==25)p.set('size',state.size);return config.path+(p.size?'?'+p:'');}

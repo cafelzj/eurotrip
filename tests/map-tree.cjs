@@ -15,7 +15,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),open
   assert.equal(queries.length,0);
   assert(await p.locator('[data-map-series="facts"]').isDisabled());
   assert(await p.evaluate(()=>[...document.querySelectorAll('[data-map-leaf]')].every(e=>{const n=CardGraph.nodes.get(e.dataset.mapLeaf);return n&&['fixed','dynamic'].includes(KnowledgeHub.mapBinding(n).mode)&&e.closest('.map-tree-subgroup').querySelector('[data-map-sub]').dataset.mapSub===KnowledgeHub.subtype(n);}))); 
-  const museum='[data-map-sub="博物馆 / 美术馆 / 展览"]',place='[data-map-leaf="place-vienna-2"]';
+  const museum='[data-map-sub="博物馆 / 美术馆 / 展览馆"]',place='[data-map-leaf="place-vienna-2"]';
   await open(p,place);await p.locator(place).uncheck();
   assert.equal(await p.locator('[data-source-card="place-vienna-2"]').count(),0);
   assert(await p.locator(museum).evaluate(e=>e.indeterminate));
@@ -27,7 +27,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),open
   assert.deepEqual(await p.locator('[data-map-leaf]').evaluateAll(es=>es.map(e=>[e.dataset.mapLeaf,e.checked])),before);
   assert.equal(queries.length,0);
   await p.locator(museum).click();assert(await p.locator(museum).isChecked());assert(!(await p.locator(museum).evaluate(e=>e.indeterminate)));
-  await p.locator(museum).uncheck();assert.equal(await p.locator('.poi-result').evaluateAll(es=>es.filter(e=>e.textContent.includes('博物馆 / 美术馆 / 展览')).length),0);
+  await p.locator(museum).uncheck();assert.equal(await p.locator('.poi-result').evaluateAll(es=>es.filter(e=>e.textContent.includes('博物馆 / 美术馆 / 展览馆')).length),0);
   await p.locator(museum).check();await open(p,place);await p.locator(place).uncheck();await p.reload();assert.equal(await p.locator(place).isChecked(),false);
   await p.goto(base+'/#map/budapest');assert(await p.locator(museum).isChecked());
   await p.goto(base+'/#map/vienna');await open(p,place);await p.locator(place).check();
@@ -47,7 +47,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),open
   await p.waitForSelector('[data-source-card="poi-vienna-osm-node-222"]');
   assert.equal(await p.locator('[data-tree-card="poi-vienna-osm-node-222"]').count(),0,'remote branches stay in the result list instead of growing the tree');
   assert((await p.locator('[data-chain-count="brand-chain-nordsee"]').innerText()).includes('已载入 1 家'));
-  await p.locator('[data-map-sub="连锁餐饮"]').uncheck();assert.equal(await p.locator('[data-source-card="poi-vienna-osm-node-222"],[data-source-card="venue-nordsee-vienna"]').count(),0);assert(await p.locator('[data-source-card="poi-vienna-osm-node-111"]').count());
+  // A half-selected parent can have checked=false: select the whole branch before clearing it.
+  await p.locator('[data-map-sub="连锁餐饮"]').check();await p.locator('[data-map-sub="连锁餐饮"]').uncheck();assert.equal(await p.locator('[data-source-card="poi-vienna-osm-node-222"],[data-source-card="venue-nordsee-vienna"]').count(),0);assert(await p.locator('[data-source-card="poi-vienna-osm-node-111"]').count());
   console.log('PASS leaf-to-exact-pin highlight, dynamic brand leaves, parent selection drives results/search, bounded dynamic results, mixed chain category');
   await p.screenshot({path:'/tmp/map-tree-desktop.png'});
   const sidebar=await p.locator('#cityExplorer').boundingBox(),map=await p.locator('#travelMap').boundingBox();assert(sidebar.x+sidebar.width<=map.x);
