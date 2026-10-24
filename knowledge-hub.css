@@ -34,7 +34,7 @@
  .mode-tabs .country-mode-control{max-width:none;min-width:0;display:flex}
  .mode-tabs>button,.mode-tabs .country-mode-control>button{width:100%;padding:9px 5px;font-size:var(--text-small);line-height:1.6;min-height:52px}
  .mode-tabs .country-menu>button{flex:none}
- .china-mode-control .country-menu{left:0;right:auto}
+ .china-mode-control .country-menu{left:auto;right:0}
 
 }
 .china-region-fields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:15px;padding:20px;background:#eef2e6;border:1px solid #dce4d0;border-radius:10px}

@@ -1,6 +1,6 @@
 const produceFood = {
-  "title": "布达佩斯餐桌上的物产",
-  "scope": "城市消费视角；生产、供给与贸易量化数据采用匈牙利全国口径。",
+  "title": "匈牙利食材与物产",
+  "scope": "匈牙利全国；布达佩斯仅作购买与生活背景",
   "seasonNote": "月份为匈牙利一般露地 / 果园新季上市的大致窗口，受产区、天气和品种影响；并非已核实的逐产地日历。温室、储藏、冷冻与进口可使全年在售。动物、水产、饮料等不设采收月份。",
   "notes": [
     "“匈牙利产”表示本国存在相应生产与饮食联系，不承诺某一门店批次或全部消费均由国内供应。",
@@ -219,6 +219,54 @@ const produceFood = {
       "scope": "布达佩斯供水，参考入口",
       "note": "官方供水入口；未核实当年度供水量、岸滤比例和能耗，因此不展示精确数值。",
       "verified": false
+    },
+    {
+      "id": "eu-crops-read",
+      "title": "Eurostat · 农作物生产（已读正文）",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Agricultural_production_-_crops",
+      "scope": "欧盟与成员国；使用文中明确标年的国家信息",
+      "year": "2024",
+      "verified": true,
+      "accessed": "2026-10-24",
+      "sha256": "6caa320ba94403d02fc877d588f30bdf1526268f73a8cc2d43bff5d28f309a5b",
+      "note": "实际读取文章正文；具体统计年份见引用。收获月份和逐项烹饪方式是编辑导读，不是此文章逐项验证的官方日历。"
+    },
+    {
+      "id": "eu-milk-read",
+      "title": "Eurostat · 奶与乳品生产（已读正文）",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Milk_and_milk_product_statistics",
+      "scope": "欧盟与成员国；使用文中明确标年的国家信息",
+      "year": "2024",
+      "verified": true,
+      "accessed": "2026-10-24",
+      "sha256": "2ae837c182371e65df2c22e18090ba08c90058b056223a1d406ed85e1dc435f3",
+      "note": "实际读取文章正文；具体统计年份见引用。收获月份和逐项烹饪方式是编辑导读，不是此文章逐项验证的官方日历。"
+    },
+    {
+      "id": "eu-vineyards-read",
+      "title": "Eurostat · 欧盟葡萄园（已读正文）",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Vineyards_in_the_EU_-_statistics",
+      "scope": "欧盟与成员国；使用文中明确标年的国家信息",
+      "year": "2020",
+      "verified": true,
+      "accessed": "2026-10-24",
+      "sha256": "998bfca6e6b44f494ff3fbb26a70b1470222da5a15cd27d7ecc34bf1a1614e63",
+      "note": "实际读取文章正文；具体统计年份见引用。收获月份和逐项烹饪方式是编辑导读，不是此文章逐项验证的官方日历。"
+    },
+    {
+      "id": "eu-aquaculture-read",
+      "title": "Eurostat · 水产养殖（已读正文）",
+      "publisher": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Aquaculture_statistics",
+      "scope": "欧盟与成员国；使用文中明确标年的国家信息",
+      "year": "2024",
+      "verified": true,
+      "accessed": "2026-10-24",
+      "sha256": "22c6660a561da50348ccf61138cebe8277351820e0e3f16ea4b67443ef653f13",
+      "note": "实际读取文章正文；具体统计年份见引用。收获月份和逐项烹饪方式是编辑导读，不是此文章逐项验证的官方日历。"
     }
   ],
   "items": [
@@ -257,7 +305,7 @@ const produceFood = {
         "匈牙利农业区；布达佩斯的面粉和面包由全国供应链供货。"
       ],
       "summary": "小麦是主粮与出口商品。面粉包装 BL 等级偏用途标签，不等同全麦比例。",
-      "trade": "已核查的2023全国谷物贸易为合计口径，不是小麦单项；本专题未取得同年小麦进口量或城市消费量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=wheat",
       "icon": "🌾",
       "iconLabel": "",
@@ -304,7 +352,7 @@ const produceFood = {
         "匈牙利农业区，气候与干旱会影响年产。"
       ],
       "summary": "鲜甜玉米与干籽粒玉米的用途不同；全国供给中的饲料和工业用量不等于人食用量。",
-      "trade": "谷物进出口合计见供给图表，不能拆成玉米单项；饲料和工业用量不等于人吃掉的玉米。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=maize",
       "icon": "🌽",
       "iconLabel": "",
@@ -340,7 +388,7 @@ const produceFood = {
         "匈牙利农业区与制麦供应链。"
       ],
       "summary": "啤酒生产也用到麦芽；并非所有大麦都达到酿造品质。",
-      "trade": "谷物贸易合计不等于大麦单项；麦芽、啤酒和原粮用不同商品口径，本专题未取得可比的单项进出口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=barley",
       "icon": "",
       "iconLabel": "大麦",
@@ -376,7 +424,7 @@ const produceFood = {
         "国内田作与欧洲谷物贸易。"
       ],
       "summary": "rozskenyér 的配方可混小麦；“颜色深”不保证全黑麦或全谷。",
-      "trade": "国内与进口份额未核实，不给出供给占比。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=rye",
       "icon": "",
       "iconLabel": "黑麦",
@@ -412,7 +460,7 @@ const produceFood = {
         "国内田作及进口燕麦制品。"
       ],
       "summary": "zabpehely 为燕麦片，常在超市早餐谷物区。",
-      "trade": "原粮、麦片和植物饮料属于不同统计项。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=oats",
       "icon": "",
       "iconLabel": "燕麦",
@@ -450,7 +498,7 @@ const produceFood = {
         "匈牙利有稻作，也有大量不同品种进口；不能把内陆国家等同于不种水稻。"
       ],
       "summary": "米与肉馅常同用于填馅料理；长粒、圆粒及速煮米用途不同。",
-      "trade": "没有核实当前国内自给率或进口吨数。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=rice",
       "icon": "🌾",
       "iconLabel": "",
@@ -490,7 +538,7 @@ const produceFood = {
         "匈牙利果园；东北部是重要传统果区。布达佩斯为消费市场。"
       ],
       "summary": "储藏苹果可使本国产季延长，摊位上的苹果不一定来自首都周边。",
-      "trade": "有国内产也有进口；市级进口吨数未取得。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=apple",
       "icon": "🍎",
       "iconLabel": "",
@@ -528,7 +576,7 @@ const produceFood = {
         "国内果园与欧洲供货商。"
       ],
       "summary": "与苹果一样适合看品种名和原产国，不把本地销售等同本地种植。",
-      "trade": "品种和月份会改变进口比例；没有逐品类市级消费量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=pear",
       "icon": "🍐",
       "iconLabel": "",
@@ -567,7 +615,7 @@ const produceFood = {
         "匈牙利多个果区；鲜果季可在城市市场寻找国内批次。"
       ],
       "summary": "比甜樱桃酸，meggyleves 是加奶油的水果汤，甜点里也常见。",
-      "trade": "鲜果、冷冻果和罐头为不同贸易品类，不混算重量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=sour+cherry",
       "icon": "🍒",
       "iconLabel": "",
@@ -614,7 +662,7 @@ const produceFood = {
         "匈牙利果园与进口渠道。"
       ],
       "summary": "cseresznye 与 meggy 是两种市场标签，买甜樱桃时不要混淆。",
-      "trade": "同季也可能见到进口；产地以标牌为准。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=sweet+cherry",
       "icon": "🍒",
       "iconLabel": "",
@@ -652,7 +700,7 @@ const produceFood = {
         "匈牙利果园；Szatmár 是相关果酱与果酒的传统地域名。"
       ],
       "summary": "szilvás gombóc 是裹李子的甜土豆面团球；szilvalekvár 是李子酱。",
-      "trade": "鲜李子、果酱和 pálinka 的统计单位与产品分类不同。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=plum",
       "icon": "",
       "iconLabel": "李子",
@@ -709,7 +757,7 @@ const produceFood = {
         "匈牙利果园；Gönc 一带有著名杏果与杏酒传统。"
       ],
       "summary": "barack 也可能泛指桃类，买杏时认 sárgabarack；杏酱常用于糕点。",
-      "trade": "国内产量受春霜影响；不据此推定当前价格或进口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=apricot",
       "icon": "",
       "iconLabel": "杏",
@@ -756,7 +804,7 @@ const produceFood = {
         "国内果园与欧洲进口；摊位可询问产区。"
       ],
       "summary": "őszibarack 为桃，词面含“秋”但并不表示只在秋季上市。",
-      "trade": "新鲜果、罐头和果汁须分别读贸易统计。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=peach",
       "icon": "🍑",
       "iconLabel": "",
@@ -793,7 +841,7 @@ const produceFood = {
         "匈牙利露地或设施栽培，非本季亦有进口。"
       ],
       "summary": "日常常说 eper；温室与进口会使销售月份早于露地产季。",
-      "trade": "五月至六月是近似露地新季窗口，不代表全年门店供应。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=strawberry",
       "icon": "🍓",
       "iconLabel": "",
@@ -830,7 +878,7 @@ const produceFood = {
         "匈牙利夏季瓜田与境外供应商。"
       ],
       "summary": "görögdinnye 是西瓜，sárgadinnye 是甜瓜；夏季可找 magyar 原产标签。",
-      "trade": "国内新季前后的进口供应不能只按国名词源判断。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=watermelon",
       "icon": "🍉",
       "iconLabel": "",
@@ -870,7 +918,7 @@ const produceFood = {
         "匈牙利葡萄园；食用葡萄与酿酒葡萄应分别理解。"
       ],
       "summary": "布达佩斯可以买到各葡萄酒区产品；托卡伊酒区并不位于首都市内。",
-      "trade": "葡萄鲜果贸易、葡萄汁和葡萄酒贸易不能直接相加。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=grape",
       "icon": "🍇",
       "iconLabel": "",
@@ -920,7 +968,7 @@ const produceFood = {
         "国内露地 / 温室与进口供应。"
       ],
       "summary": "与甜椒、洋葱同炖的 lecsó 是理解当地夏季蔬菜的入口。",
-      "trade": "设施栽培与进口均会延长供应；无布达佩斯进口量拆分。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=tomato",
       "icon": "🍅",
       "iconLabel": "",
@@ -970,7 +1018,7 @@ const produceFood = {
         "国内设施与露地种植，也有进口。"
       ],
       "summary": "paprika 可指鲜椒也可指椒粉；浅黄锥形甜椒与磨粉用红椒不是同一售卖形态。",
-      "trade": "辣度看 édes / csípős，鲜椒和椒粉分别统计。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=sweet+pepper",
       "icon": "🫑",
       "iconLabel": "",
@@ -1021,7 +1069,7 @@ const produceFood = {
         "匈牙利田作与欧洲进口渠道。"
       ],
       "summary": "krumpli 是常见口语；淀粉含量与品种决定更适合煮或炸。",
-      "trade": "新薯上市月份与储藏土豆全年供货分开理解。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=potato",
       "icon": "🥔",
       "iconLabel": "",
@@ -1062,7 +1110,7 @@ const produceFood = {
         "国内种植；Makó 是著名传统洋葱产区。"
       ],
       "summary": "先炒洋葱再加入红椒粉，是许多当地家常炖菜的味道基础。",
-      "trade": "Makó 等地名不代表所有柜台洋葱的产地，仍要看标签。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=onion",
       "icon": "🧅",
       "iconLabel": "",
@@ -1111,7 +1159,7 @@ const produceFood = {
         "国内种植与进口。"
       ],
       "summary": "lángos 常抹蒜汁再加酸奶油和奶酪。",
-      "trade": "进口批次很常见，但未核得匈牙利当前逐品类进口份额。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=garlic",
       "icon": "🧄",
       "iconLabel": "",
@@ -1163,7 +1211,7 @@ const produceFood = {
         "国内田作，亦有进口与加工品供应。"
       ],
       "summary": "savanyú káposzta 是酸卷心菜，和肉馅组合可做 töltött káposzta。",
-      "trade": "鲜菜和发酵菜是不同产品；市级消耗量无可靠公开拆分。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=cabbage",
       "icon": "🥬",
       "iconLabel": "",
@@ -1221,7 +1269,7 @@ const produceFood = {
         "国内根菜田与进口供应。"
       ],
       "summary": "与欧芹根、芹菜根常组成汤菜包；买汤料时看是否为组合称重。",
-      "trade": "储藏和进口带来全年供应，月份只指大致新季。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=carrot",
       "icon": "🥕",
       "iconLabel": "",
@@ -1260,7 +1308,7 @@ const produceFood = {
         "国内露地 / 设施与进口渠道。"
       ],
       "summary": "kovászos uborka 是常见夏季发酵黄瓜，区别于普通醋渍罐头。",
-      "trade": "鲜黄瓜与腌渍制品的重量及统计分类不等同。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=cucumber",
       "icon": "🥒",
       "iconLabel": "",
@@ -1309,7 +1357,7 @@ const produceFood = {
         "国内根菜种植与城市零售市场。"
       ],
       "summary": "cékla 通常是餐桌甜菜根，不要与工业制糖甜菜 cukorrépa 混淆。",
-      "trade": "此处为食用甜菜根，未套用制糖甜菜产量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=beetroot",
       "icon": "",
       "iconLabel": "甜菜根",
@@ -1346,7 +1394,7 @@ const produceFood = {
         "国内田作，常以冷冻或罐装形式销售。"
       ],
       "summary": "főzelék 是介于浓汤与炖菜之间的蔬菜主食配菜，常搭蛋或肉。",
-      "trade": "鲜品、冷冻、罐头是不同贸易品类，不将净重混为鲜重。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=green+peas",
       "icon": "",
       "iconLabel": "豌豆",
@@ -1389,7 +1437,7 @@ const produceFood = {
         "栽培蘑菇可来自国内；野生与进口菌菇来源另查。"
       ],
       "summary": "csiperke 常指栽培双孢菇；陌生野菇只从合规销售渠道购买。",
-      "trade": "栽培生产不是露地季节作物，此处不设果蔬采收月份。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=mushroom",
       "icon": "",
       "iconLabel": "蘑菇",
@@ -1427,7 +1475,7 @@ const produceFood = {
         "国内春季种植与欧洲进口。"
       ],
       "summary": "白芦笋与绿芦笋栽培及口感不同，通常分别标售。",
-      "trade": "产季短，全年供应不能据此判断为本国新鲜采收。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=asparagus",
       "icon": "",
       "iconLabel": "芦笋",
@@ -1463,7 +1511,7 @@ const produceFood = {
         "国内种植与进口干豆渠道。"
       ],
       "summary": "lencsefőzelék 是可尝试的家常豆类菜；干豆储存供应不受鲜季限制。",
-      "trade": "lentil 与 green peas 不合并；未核当前国内供给与进口比例。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=lentil",
       "icon": "",
       "iconLabel": "扁豆",
@@ -1510,7 +1558,7 @@ const produceFood = {
         "匈牙利田作与秋冬城市零售市场。"
       ],
       "summary": "sütőtök 适合烤制；与 tök 泛指的其他瓜类比较时看具体品种。",
-      "trade": "储藏可延续冬季供应；工业南瓜籽油与南瓜果肉不是同一统计项。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=pumpkin",
       "icon": "",
       "iconLabel": "南瓜",
@@ -1546,7 +1594,7 @@ const produceFood = {
         "国内田作与进口干豆供应。"
       ],
       "summary": "bableves 是豆汤；鲜四季豆 zöldbab 与成熟干豆不是同一产品形态。",
-      "trade": "鲜豆荚、干豆和罐头用不同重量与海关编码；不混算进口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=dry+bean",
       "icon": "🫘",
       "iconLabel": "",
@@ -1585,7 +1633,7 @@ const produceFood = {
         "匈牙利畜牧与屠宰加工，也有跨境肉类贸易。"
       ],
       "summary": "Mangalica 是匈牙利相关猪种名，商品是否使用该猪种要查明确标签。",
-      "trade": "活猪、猪肉和香肠分别统计；人均食物可供量不是实际入口摄入量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=pork",
       "icon": "🐖",
       "iconLabel": "",
@@ -1639,7 +1687,7 @@ const produceFood = {
         "国内畜牧与进口牛肉供应。"
       ],
       "summary": "gulyás 常是带汤的牛肉菜；pörkölt 更接近浓炖肉，但配方可用不同肉类。",
-      "trade": "胴体重、零售肉重和菜肴净重不可相互替代。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=beef",
       "icon": "🐄",
       "iconLabel": "",
@@ -1684,7 +1732,7 @@ const produceFood = {
         "国内家禽养殖及跨境肉类供应。"
       ],
       "summary": "红椒炖鸡 paprikás csirke 常搭酸奶油与小面疙瘩 nokedli。",
-      "trade": "全国 poultry meat 包含多种家禽，不应全部当作鸡肉。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=chicken",
       "notes": "详情中的禽肉人均可供量包含鸡、鸭等禽肉，不是仅鸡肉，也不是实际摄入。",
       "icon": "🐔",
@@ -1727,7 +1775,7 @@ const produceFood = {
         "匈牙利家禽产业与肉制品供应链。"
       ],
       "summary": "kacsa 为鸭、liba 为鹅；鹅肝 libamáj 与鸭肝 kacsamáj 要区分。",
-      "trade": "活禽、禽肉和肝制品分类不同；此处不虚构当前出口排名或份额。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=duck+%2F+goose",
       "icon": "",
       "iconLabel": "鸭·鹅",
@@ -1763,7 +1811,7 @@ const produceFood = {
         "匈牙利内陆池塘养殖及淡水渔业；不是首都市内海产。"
       ],
       "summary": "本地鱼汤可用鲤鱼；鱼刺较多。养殖鱼与野生捕捞必须分别统计。",
-      "trade": "匈牙利全国淡水养殖不等于布达佩斯产量；鲜活、冰鲜、冷冻贸易也不同。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=carp",
       "habitat": "freshwater",
       "icon": "🐟",
@@ -1809,7 +1857,7 @@ const produceFood = {
         "匈牙利内陆水产与供应商；非洲鲶鱼和欧洲鲶鱼要区分。"
       ],
       "summary": "harcsapaprikás 是可寻找的餐厅菜名；afrikai harcsa 为非洲鲶鱼。",
-      "trade": "鱼种、养殖方式和来源国看标签；全国养殖总量不能直接当餐厅消费。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=catfish",
       "habitat": "freshwater",
       "icon": "🐟",
@@ -1852,7 +1900,7 @@ const produceFood = {
         "内陆水体、养殖与境外供应均可能进入市场。"
       ],
       "summary": "fogas / süllő 指梭鲈，餐厅常写 fogasfilé；不应仅凭菜名宣称巴拉顿湖野捕。",
-      "trade": "菜单上的“当地风味”不是捕捞地证明；进口吨数未核。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=pike-perch",
       "habitat": "freshwater",
       "icon": "🐟",
@@ -1887,7 +1935,7 @@ const produceFood = {
         "国内冷水养殖与欧洲进口供应。"
       ],
       "summary": "温度适宜的冷水养殖与河湖自然捕捞是不同来源。",
-      "trade": "烟熏、冰鲜与冷冻品须按各自货品统计。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=trout",
       "habitat": "freshwater",
       "icon": "🐟",
@@ -1922,7 +1970,7 @@ const produceFood = {
         "境外海洋 / 水产供应链，经进口商进入内陆市场。"
       ],
       "summary": "匈牙利没有海岸，市内销售的海产不构成当地海洋捕捞；具体原产国仍看包装。",
-      "trade": "进口可经其他欧盟成员国分销；销售品牌、发货国与养殖国不必相同。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=salmon",
       "habitat": "marine",
       "icon": "🐟",
@@ -1956,7 +2004,7 @@ const produceFood = {
         "境外海产供应，常见腌渍或罐装。"
       ],
       "summary": "超市罐头或冷藏柜比较常见，腌渍产品可能含较多盐或糖。",
-      "trade": "鲜重、罐头净重和鱼肉含量不是同一口径；没有城市级进口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=herring",
       "habitat": "marine",
       "icon": "🐟",
@@ -1990,7 +2038,7 @@ const produceFood = {
         "境外捕捞 / 养殖与冷冻运输。"
       ],
       "summary": "在布达佩斯售卖的海虾来自外部供应链；淡水小龙虾不是同一品类。",
-      "trade": "带壳与去壳重量不可直接比较，原产国及养殖 / 捕捞看标签。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=shrimp",
       "habitat": "marine",
       "icon": "🦐",
@@ -2024,7 +2072,7 @@ const produceFood = {
         "境外海产供应，常见冷冻或餐饮渠道。"
       ],
       "summary": "kagyló 是宽泛贝类词；必须查看具体种类，不能把所有贝类统称贻贝。",
-      "trade": "活贝、熟肉和罐藏的重量与保存要求不同；不等同匈牙利本土海产。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=mussel+%2F+shellfish",
       "habitat": "marine",
       "icon": "",
@@ -2062,7 +2110,7 @@ const produceFood = {
         "匈牙利油料田与加工企业。"
       ],
       "summary": "种子压榨后可产油与饼粕；种子重量不能当作同量食用油。",
-      "trade": "全国葵花籽生产量见详情；籽粒、食用油和饼粕分别核算，本专题未取得可比的成品油进口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=sunflower+seed+%2F+oil",
       "icon": "🌻",
       "iconLabel": "",
@@ -2098,7 +2146,7 @@ const produceFood = {
         "匈牙利油料田与油脂加工供应链。"
       ],
       "summary": "农业油料除了上餐桌，也进入饲料、工业与能源链；菜籽油与籽粒产量不可等同。",
-      "trade": "生物柴油中的原料比例、菜籽贸易和成品燃料贸易须分别核算。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=rapeseed+%2F+oil",
       "icon": "",
       "iconLabel": "油菜籽",
@@ -2140,7 +2188,7 @@ const produceFood = {
         "Szeged、Kalocsa 为著名红椒粉地域；亦有其他国内与进口产品。"
       ],
       "summary": "édes 多为甜口，csípős 表示辣。椒粉直接接触过热油容易发苦，常移锅降温再加。",
-      "trade": "原产保护名称、一般红椒粉与红椒酱应分别看标签；未取得逐类进口量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=ground+paprika",
       "icon": "",
       "iconLabel": "椒粉",
@@ -2203,7 +2251,7 @@ const produceFood = {
         "欧洲香料供应链；具体种植国看包装。"
       ],
       "summary": "这里的 kömény 通常是 caraway；római kömény 才是 cumin（孜然），两者香气不同。",
-      "trade": "混合调味料和单一香料不能混为一种进口货品。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=caraway",
       "icon": "",
       "iconLabel": "葛缕子",
@@ -2243,7 +2291,7 @@ const produceFood = {
         "国内香草种植与进口供应。"
       ],
       "summary": "新鲜莳萝与酸奶油、黄瓜搭配常见，也可以买到干莳萝。",
-      "trade": "鲜、干香草重量差异大，统计时须分别处理。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=dill",
       "icon": "",
       "iconLabel": "莳萝",
@@ -2281,7 +2329,7 @@ const produceFood = {
         "匈牙利有传统辣根种植与加工。"
       ],
       "summary": "味道接近山葵的冲鼻感，和辣椒辣不同；罐装酱可能加醋、奶油或苹果。",
-      "trade": "整根、磨泥与混合酱是不同货品，未取得当期贸易吨数。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=horseradish",
       "icon": "",
       "iconLabel": "辣根",
@@ -2319,7 +2367,7 @@ const produceFood = {
         "国内奶牛与乳品加工，同时有进口乳品。"
       ],
       "summary": "tejföl 是酸奶油；túró 为凝乳，常用于甜食与拌面；Trappista 是常见奶酪。",
-      "trade": "FAO milk excluding butter 不是超市液态奶销量，不能误写为每人喝奶量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=milk+%2F+dairy",
       "notes": "全国奶类生产与可供量包含多种乳畜及乳品统计口径，不只是瓶装牛奶的销售重量。",
       "icon": "🥛",
@@ -2374,7 +2422,7 @@ const produceFood = {
         "国内蛋鸡与零售供应，也有跨境交易。"
       ],
       "summary": "欧盟蛋壳首位码表示饲养方式，后续国家码与生产者码有助辨识来源。",
-      "trade": "人均供应的 kg/年不能直接当作“枚数”，除非明确采用蛋重假设。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=egg",
       "icon": "🥚",
       "iconLabel": "",
@@ -2413,7 +2461,7 @@ const produceFood = {
         "国内农作与欧洲供应商；食用加工籽看正规包装。"
       ],
       "summary": "mákos 是“罂粟籽口味”，磨碎后常加糖用于糕点，与毒品并非同种食用概念。",
-      "trade": "仅讨论合法食品籽与加工品，不以食品名推断入境携带规则。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=poppy+seed",
       "icon": "",
       "iconLabel": "罂粟籽",
@@ -2461,7 +2509,7 @@ const produceFood = {
         "匈牙利果园与坚果贸易。"
       ],
       "summary": "diós 为核桃口味；与 mákos 常作为 bejgli 的两种选择。",
-      "trade": "带壳、去壳、烘焙馅料的净重与价格应分别比较。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=walnut",
       "icon": "",
       "iconLabel": "核桃",
@@ -2504,7 +2552,7 @@ const produceFood = {
         "匈牙利养蜂；蜂蜜品种与原产国以标签为准。"
       ],
       "summary": "akácméz 为洋槐蜜；混合蜜须读配料与原产标识，不能仅凭品牌断言为单一匈牙利蜜。",
-      "trade": "蜂蜜贸易量与国内蜂群数量不能替代城市蜂蜜消费量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=honey",
       "icon": "🍯",
       "iconLabel": "",
@@ -2550,7 +2598,7 @@ const produceFood = {
         "匈牙利糖料田与制糖加工供应链。"
       ],
       "summary": "cukorrépa 是糖料作物，不是餐桌上的红甜菜 cékla；糖最终可进入烘焙与饮料。",
-      "trade": "甜菜鲜根吨数不能当成食糖产量；进口糖也不能按根重直接比较。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=sugar+beet",
       "icon": "",
       "iconLabel": "糖用甜菜",
@@ -2585,7 +2633,7 @@ const produceFood = {
         "匈牙利多个葡萄酒区；在布达佩斯选购全国酒区产品。"
       ],
       "summary": "Tokaji Aszú 与公牛血 Egri Bikavér 风格、产区不同；首都销售不等于首都酿造。",
-      "trade": "酒类以升、百升或酒精量统计时要分别换算，不能与鲜葡萄吨数相加。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=wine",
       "icon": "🍷",
       "iconLabel": "",
@@ -2627,7 +2675,7 @@ const produceFood = {
         "匈牙利水果蒸馏传统，各产地与果种看标签。"
       ],
       "summary": "杏、李、梨等都可作原料；发酵后还需蒸馏，酒精度明显高于葡萄酒。",
-      "trade": "成品升数不等于原果耗用量，且酒精度会影响纯酒精量。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=fruit+spirit",
       "icon": "🥃",
       "iconLabel": "",
@@ -2669,7 +2717,7 @@ const produceFood = {
         "布达佩斯及匈牙利有酿造企业，也有进口品牌。"
       ],
       "summary": "本地酿造、品牌国别与麦芽 / 啤酒花原产地是三件事。",
-      "trade": "啤酒产量不意味着所有谷物和啤酒花均由本国种植；无当期首都原料进口拆分。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=beer",
       "icon": "🍺",
       "iconLabel": "",
@@ -2704,7 +2752,7 @@ const produceFood = {
         "咖啡豆依赖境外种植；国内可烘焙、加工和冲煮。"
       ],
       "summary": "匈牙利咖啡馆文化深厚，但不代表当地有规模咖啡农作种植。",
-      "trade": "生豆、熟豆、速溶咖啡按不同贸易编码统计；烘焙地与生豆原产国分开。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=coffee",
       "icon": "☕",
       "iconLabel": "",
@@ -2739,7 +2787,7 @@ const produceFood = {
         "首都自来水来自城市供水系统；瓶装矿泉水可来自国内其他水源或进口。"
       ],
       "summary": "szénsavas 为含气，szénsavmentes 为无气。布达佩斯多瑙河岸滤供水与商业矿泉水不是一回事。",
-      "trade": "天然矿泉水、瓶装饮水与自来水供给是不同统计口径，不以瓶装水品牌地替代城市水源。",
+      "trade": "全国同年供需表列出相关产品或统计组的产量、进口、出口、国内供给与食用可供量；统计组不擅自拆成单种食材，未将全国数字分摊为布达佩斯消费。",
       "imageUrl": "https://commons.wikimedia.org/w/index.php?title=Special%3AMediaSearch&type=image&search=drinking+%2F+mineral+water",
       "icon": "💧",
       "iconLabel": "",
@@ -2804,7 +2852,7 @@ const produceFood = {
       "name": "实际消费量与人均消费量",
       "unit": "吨 / 年；千克 / 人 / 年",
       "description": "根据调查等明确方法统计的实际消费；家庭购买、家庭消费和实际摄入仍是不同口径。",
-      "coverage": "本专题尚未取得可比的布达佩斯逐产品实测数据，不用可供量替代。"
+      "coverage": "本专题尚未取得可比的全国同口径逐产品实测数据，不用可供量替代。"
     }
   ]
 };

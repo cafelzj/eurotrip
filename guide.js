@@ -36,8 +36,9 @@
   disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
   if(parts[0]==='words'){setMode('words');return;}
   if(parts[0]==='produce'){
-   if(parts[1]!=='budapest'||parts.length!==2){navigate('#produce/budapest');return;}
-   setMode('produce');guide.innerHTML=ProducePage.render();ProducePage.bind(guide);return;
+   const country=parts[1]==='budapest'?'hu':produceCountries[parts[1]]?parts[1]:ProducePage.lastCountry();
+   if(parts[1]!==country||parts.length!==2){navigate('#produce/'+country+(query?'?'+query:''));return;}
+   setMode('produce');guide.innerHTML=ProducePage.render(country);ProducePage.bind(guide);return;
   }
   if(parts[0]==='card-manager'){const region=parts[1]==='china'?'china':'europe';setMode(region);guide.innerHTML=CardManager.render(region);CardManager.bind(guide,params,region);return;}
   if(parts[0]==='cards'){navigate('#guide/'+H.lastCountry());return;}
@@ -90,7 +91,7 @@
  function route(){closeMenus();renderRoute();syncMenus();window.FloatingMap?.sync();}
  for(const event of ['click','focusin'])document.addEventListener(event,e=>{if(!e.target.closest('.country-mode-control'))closeMenus();});
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
- document.querySelector('#produceMode').onclick=()=>navigate('#produce/budapest');
+ document.querySelector('#produceMode').onclick=()=>navigate('#produce/'+ProducePage.lastCountry());
  document.querySelector('#saved').addEventListener('click',()=>navigate('#words'));
  window.addEventListener('hashchange',()=>{route();window.scrollTo({top:0,behavior:'instant'});});route();
 })();

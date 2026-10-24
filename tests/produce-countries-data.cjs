@@ -1,0 +1,29 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm'),crypto=require('node:crypto'),path=require('node:path');
+const root=path.join(__dirname,'..'),context=vm.createContext({});
+for(const file of ['produce-food','produce-energy','produce-stats','produce-supply','produce-countries','produce-country-data']){
+ const code=fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),match=code.match(/^const \w+ = ([\s\S]*);\s*$/);assert(match);JSON.parse(match[1]);vm.runInContext(code,context);
+}
+for(const file of ['cards','capitals-cards','china-cards','heritage-cards'])vm.runInContext(fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),context);
+const all=JSON.parse(JSON.stringify(vm.runInContext('({countries:produceCountries,numeric:{...produceCountryData,hu:{stats:produceStats,supply:produceSupply,energy:produceEnergy}},food:produceFood,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards]})',context)));
+const cardIds=new Set(all.cards.map(c=>c.id)),categories=all.food.categories.map(c=>c.id),anchor={de:[21536,11472,12694,6360],at:[1745,2018,1365,854],hu:[5942,816,3476,1284]};
+for(const [code,country]of Object.entries(all.countries)){
+ const data=all.numeric[code],food=country.food||all.food,{stats,supply,energy}=data,scope=country.name+'全国';
+ const sources=new Map([...food.sources,...country.sources,...stats.sources,...supply.sources,...energy.sources].map(s=>[s.id,s]));
+ function refs(value){if(!value||typeof value!=='object')return;for(const id of value.sourceIds||[])assert(sources.has(id),code+' missing source '+id);for(const child of Object.values(value))if(child&&typeof child==='object')Array.isArray(child)?child.forEach(refs):refs(child);}
+ refs({data,food,country});assert.equal(country.regions.length,6);assert(food.items.length>=60);assert.equal(new Set(food.items.map(i=>i.id)).size,food.items.length);assert.deepEqual(food.categories.map(c=>c.id),categories);
+ for(const item of food.items){assert(item.name&&item.en&&(item.local||item.hu)&&item.summary&&item.trade&&item.regions.length);assert(categories.includes(item.category));assert(Boolean(item.icon)!==Boolean(item.iconLabel),item.id);assert(item.cardIds.every(id=>cardIds.has(id)));assert(item.season.every(m=>m>=1&&m<=12));assert(item.cooking.every(m=>food.methods.some(x=>x.id===m)));assert(item.features.every(f=>food.featureTypes.some(t=>t.id===f.kind)));assert(!item.point&&!item.searchKind);}
+ assert.equal(supply.scope,scope);assert.equal(supply.products.length,53);assert.equal(supply.population.length,14);assert.equal(supply.metrics.length,6);assert.equal(supply.defaultYear,2023);
+ for(const product of supply.products){assert.equal(product.scope,scope);for(const metric of supply.metrics){assert.equal(product.values[metric.id].length,supply.years.length);assert(product.values[metric.id].every(v=>v===null||Number.isFinite(v)&&v!==0));}for(let i=0;i<supply.years.length;i++){const value=product.values.food[i],per=product.values.perCapita[i];if(value===null)assert.equal(per,null);else assert(Math.abs(per-value*1000000/supply.population[i])<1e-8);}for(const [key,years]of Object.entries(product.ambiguousZeroYears))for(const year of years)assert.equal(product.values[key][supply.years.indexOf(year)],null);}
+ const wheat=supply.products.find(p=>p.code===2511);assert.deepEqual(['production','imports','exports','food'].map(k=>wheat.values[k].at(-1)),anchor[code]);
+ assert.equal(stats.sources.flatMap(s=>s.variables).length,31);for(const source of stats.sources){assert.equal(source.scope,scope);assert.equal(source.accessed,'2026-10-24');for(const v of source.variables){assert.match(v.dataSha256,/^[a-f0-9]{64}$/);assert.match(v.metadataSha256,/^[a-f0-9]{64}$/);}}
+ for(const series of stats.latestSeries){assert.equal(series.scope,scope);assert.equal(series.years.length,series.values.length);assert(series.values.every(v=>v===null||Number.isFinite(v)));}
+ for(const row of energy.electricityTrend){assert.equal(row.geo,scope);assert(Math.abs(row.generation+row.netImports-row.demand)<.02);}
+ assert(Math.abs(energy.electricity.mix.reduce((s,x)=>s+(x.value||0),0)-energy.electricity.generation)<.05);
+ for(const trade of energy.trade){const source=sources.get(trade.sourceIds[0]);assert(source.verified);assert.equal(trade.year,2024);assert.equal(trade.scope,scope);assert.equal(source.unit,{electricity:'GWH',gas:'TJ_GCV',oil:'THS_T'}[trade.id]);const raw=fs.readFileSync(path.join(root,source.snapshotUrl));assert.equal(crypto.createHash('sha256').update(raw).digest('hex'),source.sha256);const original=JSON.parse(raw),selection={freq:'A',geo:code.toUpperCase(),time:'2024',unit:source.unit,siec:source.siec};for(const [balance,value]of Object.entries(trade.values)){let at=0;selection.nrg_bal=balance;for(let i=0;i<original.id.length;i++)at=at*original.size[i]+original.dimension[original.id[i]].category.index[selection[original.id[i]]];assert.equal(value,original.value[String(at)]??null);}}
+ for(const chart of [...stats.charts,...energy.charts]){assert.equal(chart.scope,scope);assert(chart.sourceIds.every(id=>sources.get(id).verified));for(const series of chart.series)assert.equal(series.values.length,chart.years.length);}
+ if(code!=='hu')assert(!JSON.stringify(data).includes('布达佩斯'));
+}
+assert.equal(all.numeric.at.stats.latestSeries.find(s=>s.itemId==='rice').values.every(v=>v===null),true,'missing Austria rice series must not be invented or zero-filled');
+assert.equal(all.numeric.de.energy.electricity.mix.find(s=>s.id==='nuclear').value,0,'observed energy zero is retained');
+assert.equal(all.numeric.at.energy.electricityTrend.find(r=>r.year===2024).netImports,-6.78,'net export must retain its sign');
+console.log('PASS 184 food entries, 18 regions, 3 × 53 FBS products and 31 source variables, country anchors, source graph, per-capita arithmetic, explicit vs missing zeros, energy balances and byte-verified Eurostat snapshots');

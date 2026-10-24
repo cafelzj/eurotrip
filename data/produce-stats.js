@@ -1,7 +1,7 @@
 const produceStats = {
-  "id": "budapest",
-  "updatedAt": "2026-10-18",
-  "intro": "布达佩斯的日常，由周边田野、匈牙利全国供应链和跨境贸易共同塑造。认识市场里的食材，也追踪支撑这座城市的水、电与燃料。",
+  "id": "hu",
+  "updatedAt": "2026-10-24",
+  "intro": "从大平原的谷物与向日葵，到塞格德和考洛乔的红椒、东北果园、托卡伊葡萄园与内陆鱼塘：匈牙利的物产远不止首都市场。布达佩斯是消费与集散中心，食材和能源数字采用标明年份的全国统计。",
   "supplyIntro": "按与食材图鉴一致的12类查看。默认是2010–2023同版食物平衡表，可逐产品查看产量、进口、出口、国内供给、食用可供总量与估算人均量；更新的2023/2024单项另列，年份与口径分别标明。",
   "sources": [
     {
@@ -10,7 +10,7 @@ const produceStats = {
       "publisher": "Our World in Data；原始机构见各指标",
       "url": "https://github.com/owid/owid-grapher-svgs/tree/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables",
       "version": "d3f4efb3873ab6ebd5624d66b66d401ab63abb79",
-      "accessed": "2026-10-18",
+      "accessed": "2026-10-24",
       "year": "2020–2024",
       "scope": "匈牙利全国",
       "verified": true,
@@ -432,11 +432,11 @@ const produceStats = {
       "publisher": "Our World in Data；原始机构见各指标",
       "url": "https://github.com/owid/owid-grapher-svgs/tree/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables",
       "version": "d3f4efb3873ab6ebd5624d66b66d401ab63abb79",
-      "accessed": "2026-10-18",
+      "accessed": "2026-10-24",
       "year": "2020–2023",
       "scope": "匈牙利全国",
       "verified": true,
-      "note": "实际读取 FAO Food Balances 的 OWID 整理数据与定义，使用同一新版序列2020–2023。人均量是供应链末端可供人类消费量，尚未扣除消费者浪费；谷物进出口是食物平衡表口径，包含相应加工品折算，不是布达佩斯海关或门店销售统计。",
+      "note": "实际读取 FAO Food Balances 的 OWID 整理数据与定义，使用同一新版序列2020–2023。人均量是供应链末端可供人类消费量，尚未扣除消费者浪费；谷物进出口是食物平衡表口径，包含相应加工品折算，不是城市海关或门店销售统计。",
       "variables": [
         {
           "id": 1201072,
@@ -820,7 +820,7 @@ const produceStats = {
       "publisher": "Our World in Data；原始机构见各指标",
       "url": "https://github.com/owid/owid-grapher-svgs/tree/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables",
       "version": "d3f4efb3873ab6ebd5624d66b66d401ab63abb79",
-      "accessed": "2026-10-18",
+      "accessed": "2026-10-24",
       "year": "2020–2024",
       "scope": "匈牙利全国",
       "verified": true,
@@ -882,7 +882,7 @@ const produceStats = {
       "publisher": "Our World in Data；原始机构见各指标",
       "url": "https://github.com/owid/owid-grapher-svgs/tree/d3f4efb3873ab6ebd5624d66b66d401ab63abb79/variables",
       "version": "d3f4efb3873ab6ebd5624d66b66d401ab63abb79",
-      "accessed": "2026-10-18",
+      "accessed": "2026-10-24",
       "year": "2020–2023",
       "scope": "匈牙利全国",
       "verified": true,
@@ -1789,44 +1789,26 @@ const produceStats = {
   ],
   "context": [
     {
-      "title": "在城市购买，不等于城市生产",
-      "text": "布达佩斯是消费与集散市场。苹果果园、红椒产区、谷物田、鱼塘、酒庄与加工厂分布在全国各地；买菜时以摊位或包装的原产国、产地和当季批次为准。",
+      "title": "收成会随天气明显变化",
+      "text": "Eurostat 2024 农作物文章指出匈牙利春夏偏暖、偏干；籽粒玉米及玉米穗轴混合物产量较2023年下降约15.1%，大麦约下降30.0%。这是该文明确的产品口径，不替代下面FAO同版供需表。",
       "sourceIds": [
-        "ksh-agriculture",
-        "hu-tourism"
+        "eu-crops-read"
       ]
     },
     {
-      "title": "谷物可用于面包，也可用于饲料和工业",
-      "text": "玉米、小麦和大麦不只供人直接食用：它们也进入饲料、淀粉、酿造与发酵链。国内供给量包含多种用途，不能直接除以人口当作吃饭数量。",
+      "title": "白葡萄品种也占重要位置",
+      "text": "Eurostat 2020 葡萄园资料中，匈牙利葡萄园的白葡萄品种占65.8%。托卡伊甜酒只是众多酒款之一，品种面积比例不能直接当作全国葡萄酒产量或销量比例。",
       "sourceIds": [
-        "fao-fbs"
-      ]
-    },
-    {
-      "title": "海鲜与淡水鱼，是两条供应链",
-      "text": "鲤鱼、鲶鱼等有国内淡水养殖背景；三文鱼、鲱鱼、海虾和海贝通过外部供应链进入市场。匈牙利没有海岸，不代表当地没有海产消费，也不能把海鲜进口写成零。",
-      "sourceIds": [
-        "fao-fish",
-        "eu-fishery-hu"
+        "eu-vineyards-read"
       ]
     }
   ],
   "notes": [
     "同年供需现已扩展到53个产品/统计组；统计组与含制品条目不等于每种生鲜食材，未取得单项时不擅自拆分。",
-    "2024粮食产量与2023谷物贸易不是同一年、同一商品分组，不能直接拼成自给率。进口可以发生在丰收或净出口年份。",
+    "不同年份的农业产量与谷物贸易不是同一年、同一商品分组，不能直接拼成自给率。进口可以发生在丰收或净出口年份。",
     "食物可供量不等于购买量、实际吃下去的重量或营养摄入。奶类包括乳品折算，鱼肉统计与零售去骨净肉重量也可能不同。",
     "收获月份是一般性产区参考，未逐一核对每个产区的官方日历；天气、品种、温室、储藏和进口都会改变上市时间。",
     "数据有年份且可能被原机构修订；本页固定所读版本并提供元数据、原始链接和下载，不把资料图谱当作实时库存或价格。"
   ],
-  "energyContext": [
-    {
-      "title": "全国能源净进口：2023 年约 62.51%",
-      "text": "世界银行 / IEA 指标中，2023 年匈牙利能源净进口占能源使用62.51%。这是总进口减总出口后，占转化前一次能源使用的比例；不能理解为天然气62.51%来自进口，也不等同2025电力净进口占需求17.71%。",
-      "scope": "匈牙利全国 · 2023",
-      "sourceIds": [
-        "energy-imports"
-      ]
-    }
-  ]
+  "energyContext": []
 };

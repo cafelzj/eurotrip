@@ -11,9 +11,9 @@ const settle=require('./wait-for-route.cjs');
   const base=process.env.SITE_URL||'http://127.0.0.1:3014';
   await page.goto(base+'/#guide/hu/budapest');await page.locator('#miniMapToggle').click();assert(await page.locator('#miniMapPanel').isVisible());
   await page.locator('#produceMode').click();await settle(page);
-  assert.equal(await page.evaluate(()=>location.hash),'#produce/budapest');assert.equal(await page.locator('#produceMode').getAttribute('aria-pressed'),'true');
+  assert.equal(await page.evaluate(()=>location.hash),'#produce/hu');assert.equal(await page.locator('#produceMode').getAttribute('aria-pressed'),'true');
   assert.equal(await page.locator('.mode-tabs .selected').count(),1);assert(await page.locator('#vocabulary').isHidden());assert(await page.locator('.floating-map').isHidden());assert.equal(await page.locator('#miniMapCanvas .leaflet-pane').count(),0);
-  assert.equal(await page.locator('[data-produce-chart]').count(),4);assert.equal(await page.locator('[data-produce-food]').count(),12);assert((await page.locator('.produce-origin-note').innerText()).includes('不承诺'));
+  assert.equal(await page.locator('[data-produce-chart]').count(),7);assert.equal(await page.locator('[data-produce-food]').count(),12);assert((await page.locator('.produce-origin-note').innerText()).includes('不承诺'));
   await page.locator('[data-produce-more]').click();await page.locator('[data-produce-more]').click();assert.equal(await page.locator('[data-produce-food]').count(),60);assert(await page.locator('[data-produce-more]').isHidden());
   for(const category of ['grain','fruit','vegetable','meat','aquatic','oil','spice','dairy','eggs','nuts','sweetener','drink']){
    await page.selectOption('[data-produce-filter="category"]',category);
@@ -28,7 +28,7 @@ const settle=require('./wait-for-route.cjs');
   await page.locator('[data-produce-reset]').click();await page.fill('[data-produce-filter="query"]','korte');assert.equal(await page.locator('[data-produce-food]').getAttribute('data-produce-food'),'pear');
   await page.fill('[data-produce-filter="query"]','alma');assert.equal(await page.locator('[data-produce-food]').getAttribute('data-produce-food'),'apple');
   await page.locator('[data-produce-food="apple"]>summary').click();assert((await page.locator('.produce-item-statistics').innerText()).includes('376,680'));assert((await page.locator('.produce-item-statistics').innerText()).includes('匈牙利全国'));
-  await page.locator('[data-produce-food="apple"] [data-produce-source="fao-fbs"]').click();assert(await page.locator('[data-source-id="fao-fbs"]').evaluate(n=>n.open));assert.equal(await page.evaluate(()=>location.hash),'#produce/budapest');
+  await page.locator('[data-produce-food="apple"] [data-produce-source="fao-fbs"]').click();assert(await page.locator('[data-source-id="fao-fbs"]').evaluate(n=>n.open));assert.equal(await page.evaluate(()=>location.hash),'#produce/hu');
   assert.equal(await page.locator('[data-source-id="fao-fbs"] .produce-source-variables li').count(),11);assert((await page.locator('[data-source-id="fao-fbs"]').innerText()).includes('已读取'));
   await page.locator('[data-produce-reset]').click();await page.selectOption('[data-produce-filter="origin"]','import');assert(await page.locator('[data-produce-food]').count()>0);assert(await page.locator('[data-produce-food="apple"]').count()===0);
   await page.locator('[data-produce-reset]').click();await page.selectOption('[data-produce-filter="category"]','fruit');await page.selectOption('[data-produce-filter="month"]','1');assert.equal(await page.locator('[data-produce-food]').count(),0);assert((await page.locator('.produce-empty').first().innerText()).includes('没有符合'));
@@ -43,8 +43,8 @@ const settle=require('./wait-for-route.cjs');
   const csvPromise=page.waitForEvent('download');await page.locator('[data-produce-download="csv"]').click();const csv=await fs.readFile(await (await csvPromise).path(),'utf8');assert(csv.includes('谷物进口'));assert(csv.includes('同年供需：小麦及制品'));assert(csv.includes('5942'));assert(csv.includes('metadata.json'));assert(csv.includes('2025'));
   for(let i=0;i<3;i++){await page.locator('#wordsMode').click();await page.waitForSelector('#vocabulary:visible');assert(await page.locator('#vocabulary').isVisible());await page.locator('#produceMode').click();await settle(page);}
   const before=downloads,jsonPromise=page.waitForEvent('download');await page.locator('[data-produce-download="json"]').click();const json=JSON.parse(await fs.readFile(await (await jsonPromise).path(),'utf8'));assert.equal(json.food.items.length,60);assert.equal(json.stats.charts.length,1);assert.equal(json.supply.products.length,53);assert.equal(downloads,before+1,'handlers must not accumulate on repeated visits');
-  await page.locator('a[href="#guide/hu/budapest"]').first().click();await settle(page);assert.equal(await page.locator('.knowledge-hub').getAttribute('data-scope'),'budapest');
-  await page.goto(base+'/#produce');await settle(page);assert.equal(await page.evaluate(()=>location.hash),'#produce/budapest');await page.reload();assert.equal(await page.locator('[data-produce-chart]').count(),4);
+  await page.locator('a[href="#guide/hu"]').first().click();await settle(page);assert.equal(await page.locator('.knowledge-hub').getAttribute('data-scope'),'hu');
+  await page.goto(base+'/#produce');await settle(page);assert.equal(await page.evaluate(()=>location.hash),'#produce/hu');await page.reload();assert.equal(await page.locator('[data-produce-chart]').count(),7);
   for(const width of [390,320]){
    await page.setViewportSize({width,height:844});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile page overflows');
    await page.locator('#chinaMode').click();const menu=await page.locator('#chinaMenu').boundingBox();assert(menu.x>=0&&menu.x+menu.width<=width);await page.keyboard.press('Escape');

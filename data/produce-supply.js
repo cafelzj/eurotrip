@@ -1,6 +1,6 @@
 const produceSupply = {
-  "id": "hungary-fbs",
-  "checkedAt": "2026-10-18",
+  "id": "hu-fbs",
+  "checkedAt": "2026-10-24",
   "scope": "匈牙利全国",
   "years": [
     2010,
@@ -6830,7 +6830,7 @@ const produceSupply = {
     "副本中的国内供给负值原样保留并标记，属于需回溯核查的统计平衡，不表示消费者吃了负数量；不据此推算进口依赖率。",
     "副本转换脚本将未记录值填成0，无法区分真实零与缺值；本页将这些零值标为未确认，不擅自当作零产量或零进口。",
     "部分行是统计组或含制品，不能据此分配到某一种生鲜食材；禽肉不等于鸡肉，坚果合计不等于核桃，Pimento条目不等于匈牙利红椒粉单品。",
-    "本专题仍未取得可比的布达佩斯逐产品实测消费及摄入数据。食用可供量是消费参考，不能更名为实际消费量。"
+    "本专题仍未取得可比的国家或城市逐产品实测消费及摄入数据。食用可供量是消费参考，不能更名为实际消费量。"
   ],
   "sources": [
     {
@@ -6839,11 +6839,11 @@ const produceSupply = {
       "publisher": "FAO；公开整理：FixOurFood / AgriFoodPy",
       "url": "https://github.com/FixOurFood/agrifoodpy-data/tree/3251e9fe9a8fb24a471e13c98f058f897c1f0135/agrifoodpy_data/food",
       "version": "3251e9fe9a8fb24a471e13c98f058f897c1f0135",
-      "accessed": "2026-10-18",
+      "accessed": "2026-10-24",
       "year": "2010–2023",
       "scope": "匈牙利全国",
       "verified": true,
-      "note": "已实际读取FBS、同版人口与转换脚本，核对匈牙利代码97、千吨单位及字段。转换脚本直接转存FAO Value，不进行额外供需平衡拟合；其缺失填0的情况已在本页保守处理。人均量为由Food与人口推算的近似参考。未直接读取FAO官网实时API，原始FAO统计旗标未保留在此副本。",
+      "note": "已读取固定版本食物平衡表、人口及转换方法；核对 Hungary / FAO代码97、千吨单位与字段。原副本缺失填0，本站将这些0保留为未确认；未直接读取FAO实时API。人均量由Food与同版人口推算，不是实测摄入。",
       "variables": [
         {
           "id": "balance",

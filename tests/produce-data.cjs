@@ -19,7 +19,7 @@ for(const item of items.values()){
 }
 assert.equal(items.get('milk').category,'dairy');assert.equal(items.get('egg').category,'eggs');assert.equal(items.get('pork').category,'meat');assert.equal(items.get('walnut').category,'nuts');assert.equal(items.get('walnut').iconLabel,'核桃');assert.equal(items.get('sunflower').category,'oil');assert.equal(items.get('rapeseed').category,'oil');assert.equal(items.get('sugar-beet').category,'sweetener');assert.equal(items.get('carp').category,'aquatic');assert.equal(items.get('carp').habitat,'freshwater');assert.equal(items.get('shrimp').habitat,'marine');assert.equal(food.indicators.length,6);
 const variables=new Map(stats.sources.flatMap(s=>(s.variables||[]).map(v=>[v.id,{...v,source:s}])));
-const charts=[...stats.charts,...energy.charts];assert.equal(charts.length,3);assert.equal(new Set(charts.map(c=>c.id)).size,charts.length);
+const charts=[...stats.charts,...energy.charts];assert.equal(charts.length,6);assert.equal(new Set(charts.map(c=>c.id)).size,charts.length);
 for(const chart of charts){
  assert.equal(chart.scope,'匈牙利全国');assert(chart.description&&chart.unit&&chart.sourceIds.length);
  assert(chart.years.every((y,i)=>Number.isInteger(y)&&y>=2020&&y<=2025&&(!i||y>chart.years[i-1])));
