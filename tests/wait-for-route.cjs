@@ -4,6 +4,7 @@ module.exports=page=>page.waitForFunction(()=>{
  if(parts[0]==='cards')return !!document.querySelector('.knowledge-hub');
  if(parts[0]==='card'){let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{return !!document.querySelector('.entity-missing');}return CardGraph.nodes.has(id)?!!document.querySelector('[data-entity-id="'+CSS.escape(id)+'"]'):!!document.querySelector('.entity-missing');}
  if(parts[0]==='words')return document.querySelector('#vocabulary')?.hidden===false;
+ if(parts[0]==='plan'){const params=new URLSearchParams(query),view=['features','roadmap','benchmarks'].includes(params.get('view'))?params.get('view'):'features';return !!document.querySelector('.plan-page')&&document.querySelector('.plan-tabs a[aria-current]')?.textContent.startsWith({features:'已实现',roadmap:'计划实现',benchmarks:'类似产品对标'}[view])&&document.querySelector('#planSearch')?.value===(params.get('q')||'').slice(0,300);}
  if(parts[0]==='map'){const city=travelCities.find(c=>c.id===parts[1])||travelCountries.find(c=>c.id===parts[1]);return !!document.querySelector('.map-focused #travelMap')&&document.querySelector('.city-hero h1')?.textContent.startsWith(city?.name); }
  if(parts[0]==='guide'){if(parts[2]){const city=travelCities.find(c=>c.id===parts[2]);return !!city&&!document.querySelector('#travelGuide').classList.contains('map-focused')&&document.querySelector('.city-hero h1')?.textContent.startsWith(city.name);}return !!document.querySelector('.knowledge-hub[data-scope="'+CSS.escape(parts[1]||'hu')+'"]');}
  return true;

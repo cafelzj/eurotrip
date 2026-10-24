@@ -1583,5 +1583,65 @@ const cardRelations = [
     "fact-nis-daily-setting",
     "了解所在城市环境",
     "在城市地图中探索"
+  ],
+  [
+    "fact-hu-1",
+    "venue-budapest-buda-castle",
+    "从城堡区读西岸历史",
+    "理解布达与佩斯的形成"
+  ],
+  [
+    "fact-hu-1",
+    "venue-budapest-chain-bridge",
+    "合城之前的两岸联系",
+    "桥梁与合城的年代区别"
+  ],
+  [
+    "fact-hu-1",
+    "place-budapest-0",
+    "近代首都的国家建筑",
+    "首都扩张的历史背景"
+  ],
+  [
+    "fact-hu-1",
+    "venue-budapest-heroes-square",
+    "1896 年纪念叙事的城市空间",
+    "理解千年庆典的纪年"
+  ],
+  [
+    "fact-vienna-ring",
+    "venue-vienna-opera",
+    "比较环城大道的公共建筑",
+    "理解十九世纪城市扩张"
+  ],
+  [
+    "fact-de-0",
+    "heritage-museum-island",
+    "从文化机构读近代国家与首都",
+    "结合德国近现代历史理解"
+  ],
+  [
+    "fact-novi-sad-culture",
+    "place-novi-sad-fortress",
+    "从要塞读河流与边界",
+    "河对岸城市的文化发展"
+  ],
+  [
+    "fact-novi-sad-culture",
+    "place-novi-sad-gallery",
+    "从文化机构读十九世纪城市",
+    "城市文化背景与机构迁入"
+  ],
+  [
+    "fact-wuxi-taihu",
+    "venue-wuxi-qingmingqiao",
+    "沿运河读商贸与产业",
+    "太湖、运河与工业的区别"
+  ],
+  [
+    "fact-wuxi-taihu",
+    "venue-wuxi-museum",
+    "继续查看无锡城市史",
+    "联系区域水系与近代工业"
   ]
 ];

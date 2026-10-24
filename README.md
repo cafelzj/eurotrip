@@ -17,7 +17,7 @@ python3 -m http.server 3014 --bind 0.0.0.0
 
 ## 页面与卡片约定
 
-顶部按「欧洲国家」「中国城市」「旅行词典」「物产（beta）」排序。「欧洲国家」收录匈牙利、奥地利、德国、塞尔维亚及十三座城市；「中国城市」包含江苏省的苏州、徐州、无锡三个地级市，并按「省份 → 地级市 → 全市概览或县 / 县级市」选择目的地。三市下辖的 11 个县、县级市均有基础卡片；沿用目的地标题、五个一级分类、二级分类、卡片与地图交互，不展示中国国家概览。两组菜单、最近浏览目的地与内容范围独立。
+顶部按「欧洲国家」「中国城市」「旅行词典」「物产（beta）」「方案」排序。「欧洲国家」收录匈牙利、奥地利、德国、塞尔维亚及十三座城市；「中国城市」包含江苏省的苏州、徐州、无锡三个地级市，并按「省份 → 地级市 → 全市概览或县 / 县级市」选择目的地。三市下辖的 11 个县、县级市均有基础卡片；沿用目的地标题、五个一级分类、二级分类、卡片与地图交互，不展示中国国家概览。两组菜单、最近浏览目的地与内容范围独立。
 
 旅行词典的「展示语言」可勾选要看的语言，默认保持中文、英语、匈牙利语、德语顺序；新增塞尔维亚语（拉丁字母）作为可选语言。设置保存在浏览器，列表、详情、词典链接和感谢语朗读同步更新；至少保留一门，支持恢复默认。搜索覆盖所有已收录语言。新增语言只需在 `data/languages.js` 注册元数据，并在词条补充同名字段；缺少翻译时显示未收录且不生成朗读按钮，不在视图里写死四列。词条索引保持不变，收藏无需迁移。窄屏采用带语言标签的词卡。
 
@@ -67,6 +67,14 @@ python3 -m http.server 3014 --bind 0.0.0.0
 - `#produce/de`、`#produce/at`、`#produce/hu`：德国、奥地利、匈牙利物产；`#produce` 打开本会话最近浏览的国家，默认匈牙利。
 - `#produce/de?section=supply`：直接打开德国供需数据区；旧 `#produce/budapest` 保留参数转至 `#produce/hu`。
 - `#words`：旅行词典；`#cards` 兼容跳转至最近浏览国家。
+
+## 方案与持续完善
+
+`#plan` 是第五个栏目，集中展示 15 项已实现能力、12 项按优先级区分的待办建议、8 个 GitHub 产品对标。支持全文搜索、主题筛选、URL 恢复和计划 / 对标双向跳转；已实现项附真实体验链接，计划注明完成标准和依赖，不代表上线排期。对标基于 2026-10-24 读取的项目 README 与仓库资料，未部署实测；代码许可与公开数据许可分别判断，特别保留 Grapher 当前不再采用 MIT 的说明。覆盖数字从当前已加载卡片、目的地、词典和物产数据计算，动态门店不计入静态卡片总数。
+
+方案正文独立维护于 `data/plan.js`，渲染与筛选在 `plan.js`，布局在 `plan.css`。修改实现状态时应同步更新方案，避免把待办写成现有功能。新增功能入口仍复用现有路由，方案页面不显示随身地图。
+
+本轮同时扩充八张已有历史知识卡片：布达佩斯合城、维也纳环城大道、德国联邦与近现代转折、诺维萨德文化发展、苏州水城与园林、徐州汉文化、无锡水系与近代工业；补充十条明确的双向关联。年代、行政范围、原物与修复 / 复原分别解释。现有来源中仍有宽泛的官方入口，逐条事实的直接来源与核验日期列入优先待办，不把这一轮文字扩写视为完整史料核验。
 
 ## 物产 · 德国、奥地利与匈牙利
 
@@ -120,6 +128,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 | 文件 | 维护内容 |
 | --- | --- |
+| `data/plan.js` | 已实现功能、待办优先级 / 完成标准、产品对标与设计约定 |
 | `data/produce-food.js` | 匈牙利食材与共享12分类、指标定义、方法、特色类型及来源 |
 | `data/produce-countries.js` | 三国元数据与18个产区、德国/奥地利食材、语言、地方用途和阅读来源 |
 | `data/produce-country-data.js` | 生成的德国/奥地利农业、完整供需和能源统计 |
@@ -170,7 +179,8 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 - `map-provider.js`：集中创建地图与底图，小地图和完整地图复用；当前实现 OpenStreetMap / Leaflet。
 - `produce.js`、`produce.css`：物产图鉴、食材筛选、季节矩阵、来源与导出、能源图表。
 - `produce-supply.js`、`produce-supply.css`：同年供需矩阵、最新单项、共享分类、多指标 / 多产品对比、基年指数与逐年读数及数据与食材互跳。
-- `guide.js`：欧洲国家、中国城市、物产与地图页面路由，共用目的地布局。
+- `plan.js`、`plan.css`：方案、实现清单、路线图与产品对标。
+- `guide.js`：欧洲国家、中国城市、物产、方案与地图页面路由，共用目的地布局。
 - `floating-map.js`、`poi.js`：随身地图、三层图层树和动态门店搜索；`map-pins.css` 统一两种地图的标记、编号与聚合样式。
 - `card-manager.js`、`card-manager.css`：管理表、归属与内容搜索、筛选、分页、CSV和详情返回。
 - `app.js`：可配置语言的词典搜索、收藏、详情与设备朗读。
@@ -186,6 +196,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 ```sh
 node tests/data-integrity.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/plan.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager-regions.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/dictionary-languages.cjs
