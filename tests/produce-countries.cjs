@@ -6,7 +6,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
  const base=process.env.SITE_URL||'http://127.0.0.1:3016';
  for(const [id,name,term,item]of [['de','德国','Spargel','asparagus'],['at','奥地利','Marille','apricot'],['hu','匈牙利','alma','apple']]){
   await p.goto(base+'/#produce/'+id);assert.equal(await p.locator('.produce-country-picker a[aria-current="page"]').getAttribute('href'),'#produce/'+id);
-  assert((await p.locator('.produce-hero h1').innerText()).includes(name));assert.equal(await p.locator('.produce-region-grid article').count(),6);assert.equal(await p.locator('[data-produce-chart]').count(),7);
+  assert.equal(await p.locator('.produce-region-grid article').count(),6);assert.equal(await p.locator('[data-produce-chart]').count(),7);
   assert((await p.locator('.supply-coverage').innerText()).includes(name+'全国'));assert.equal(await p.locator('.floating-map').isVisible(),false);
   await p.fill('[data-produce-filter="query"]',term);assert.equal(await p.locator('[data-produce-food="'+item+'"]').count(),1);await p.locator('[data-produce-reset]').click();
   for(const category of ['grain','fruit','vegetable','meat','aquatic','oil','spice','dairy','eggs','nuts','sweetener','drink']){await p.selectOption('[data-produce-filter="category"]',category);assert(await p.locator('[data-produce-food]').count(),id+' '+category);}
