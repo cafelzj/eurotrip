@@ -23,9 +23,16 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await p.locator('.plan-tabs a').filter({hasText:'计划实现'}).click();await p.locator('[data-plan-id="context-vocabulary"]').waitFor();assert.equal(await p.locator('#planArea').inputValue(),'language');assert.equal(await p.locator('[data-plan-id]').count(),1);
   await p.locator('#planReset').click();assert.equal(await p.locator('[data-plan-id]').count(),12);assert.equal(await p.locator('[data-plan-id="history"]').getAttribute('data-plan-priority'),'first');
   await p.locator('[data-plan-id="images"]>summary').click();await p.locator('[data-plan-id="images"] .plan-related a').filter({hasText:'TREK'}).click();await p.waitForURL('**/#plan?view=benchmarks&item=trek');
-  assert(await p.locator('[data-plan-id="trek"]').evaluate(el=>el.open));assert.equal(await p.locator('[data-plan-id]').count(),8);assert((await p.locator('[data-plan-id="trek"]').innerText()).includes('本站现状'));assert.equal(await p.locator('[data-plan-id="trek"] a[href="https://github.com/liketrek/TREK"]').count(),1);
+  assert(await p.locator('[data-plan-id="trek"]').evaluate(el=>el.open));assert.equal(await p.locator('[data-plan-id]').count(),12);assert((await p.locator('[data-plan-id="trek"]').innerText()).includes('本站现状'));assert.equal(await p.locator('[data-plan-id="trek"] a[href="https://github.com/liketrek/TREK"]').count(),1);
   await p.locator('[data-plan-id="trek"] .plan-related a').filter({hasText:'配准确'}).click();await p.waitForURL('**/#plan?view=roadmap&item=images');assert(await p.locator('[data-plan-id="images"]').evaluate(el=>el.open));
   await go('#plan?view=benchmarks&q=MIT');assert((await p.locator('.plan-results').innerText()).includes('Grapher'));
+  await go('#plan?view=benchmarks&q=美食与特产');
+  assert.deepEqual((await p.locator('[data-plan-id]').evaluateAll(els=>els.map(el=>el.dataset.planId))).sort(),['howtocook','localbite','openfoodfacts','recipe-collection','worldcuisines']);
+  assert.equal(await p.locator('#planCount').innerText(),'显示 5 / 12 项');
+  await p.locator('[data-plan-id="localbite"]>summary').click();const localbite=await p.locator('[data-plan-id="localbite"]').innerText();assert(localbite.includes('1,800')&&localbite.includes('115')&&localbite.includes('东京'));
+  await p.locator('[data-plan-id="localbite"] .plan-related a').filter({hasText:'扩展目的地'}).click();await p.waitForURL('**/#plan?view=roadmap&item=coverage');
+  assert(await p.locator('[data-plan-id="coverage"]').evaluate(el=>el.open));assert.equal(await p.locator('[data-plan-id="coverage"] .plan-related a').count(),4);
+  await p.locator('[data-plan-id="coverage"] .plan-related a').filter({hasText:'WorldCuisines'}).click();await p.waitForURL('**/#plan?view=benchmarks&item=worldcuisines');assert(await p.locator('[data-plan-id="worldcuisines"]').evaluate(el=>el.open));
   await go('#plan?view=features&q=不存在的方案词');assert.equal(await p.locator('[data-plan-id]').count(),0);assert(await p.locator('.plan-empty').isVisible());await p.locator('#planReset').click();assert.equal(await p.locator('[data-plan-id]').count(),15);
   // Internal experience links must resolve to real implemented pages, not merely valid hashes.
   const urls=await p.evaluate(()=>[...new Set(projectPlan.features.flatMap(n=>n.links||[]).map(x=>x[0]).filter(x=>x.startsWith('#')))]);
@@ -37,6 +44,6 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   for(const width of [768,390,320]){await p.setViewportSize({width,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'no horizontal overflow '+width);await p.locator('.plan-tabs a').filter({hasText:'类似产品'}).click();await p.locator('[data-plan-id="trek"]>summary').click();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'open comparison fits '+width);await p.locator('#travelMode').click();assert(await p.locator('#countryMenu').isVisible());await p.keyboard.press('Escape');await p.locator('#chinaMode').click();assert(await p.locator('#chinaMenu').isVisible());await p.keyboard.press('Escape');await p.locator('#planMode').click();await settle(p);}
   await p.setViewportSize({width:390,height:844});await p.screenshot({path:'/tmp/eurotrip-plan-mobile.png',fullPage:false});
   assert.deepEqual(errors,[]);assert.deepEqual(bad,[]);
-  console.log('PASS plan navigation, dynamic inventory, honest status, all implementation links, search/filter/reload, cross-linked roadmap and 8 benchmarks, map cleanup, escaping and responsive menus');
+  console.log('PASS plan navigation, dynamic inventory, honest status, implementation links, search/filter/reload, 12 benchmarks including five food resources with verified scope and roadmap links, map cleanup, escaping and responsive menus');
  }finally{await browser.close();}
 })().catch(e=>{console.error(e);process.exit(1)});
