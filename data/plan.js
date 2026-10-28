@@ -1,6 +1,6 @@
 /* Product inventory and editorial roadmap. Plans are proposals, not shipped features. */
 const projectPlan = {
-  "updated": "2026-10-24",
+  "updated": "2026-10-29",
   "areas": [
     {"id": "content", "name": "目的地与知识", "icon": "📚"},
     {"id": "map", "name": "地图与出行", "icon": "🗺️"},
@@ -23,7 +23,7 @@ const projectPlan = {
     {"id": "charts", "area": "produce", "name": "供需对比、能源图表与导出", "summary": "同产品多指标、多产品同指标、三国同口径对比，以及逐年读数、原值表和来源。", "details": ["每国 53 个产品 / 统计组的同版 FAO 食物平衡表；区分产量、进口、出口、国内供给、食用可供量与估算人均量。", "电力、天然气、石油分别标注单位与年份；可导出 SVG、CSV、JSON，来源保留固定版本、哈希或快照。", "全国数据没有按人口分摊到城市，食用可供量不等于实际摄入量，缺失也不当作零。"], "links": [["#produce/de?section=supply", "查看德国供需对比"]]},
     {"id": "management", "area": "platform", "name": "欧洲 / 中国分开的卡片管理表", "summary": "只读批量浏览，按归属、分类、名称、副标题、简介、详情与来源搜索。", "details": ["支持组合筛选、分页、完整原文展开、CSV 导出、详情和地图入口，两个范围的状态独立。", "目前不能在网页中编辑或保存静态卡片；内容修改仍在数据文件中进行。"], "links": [["#card-manager", "欧洲卡片管理"], ["#card-manager/china", "中国卡片管理"]]},
     {"id": "ai", "area": "platform", "name": "在 ChatGPT 中生成卡片介绍", "summary": "每张卡片详情提供生成介绍按钮和可复制的提示词。", "details": ["把当前卡片公开资料、关联知识与参考入口带到 ChatGPT 新标签页。", "网站没有模型后端，也不在站内生成文章；实际使用取决于 ChatGPT 的访问与登录状态。"], "links": [["#card/heritage-schonbrunn", "体验卡片介绍入口"]]},
-    {"id": "delivery", "area": "platform", "name": "静态发布与清晰的数据结构", "summary": "HTML、CSS、原生 JavaScript，数据集中在 data/，通过 GitHub Pages 访问。", "details": ["目的地、分类、卡片、关系、语言和物产数据与页面交互分开维护，当前不需要 Vue、数据库或构建服务。", "词典收藏、语言设置、地图偏好与部分浏览状态保存在当前浏览器；没有账户或跨设备同步。", "功能有数据完整性与浏览器回归检查；方案页的覆盖统计从当前已加载数据计算。"], "links": [["https://github.com/cafelzj/eurotrip", "查看项目仓库"]]}
+    {"id": "delivery", "area": "platform", "name": "静态发布、统一视觉与清晰数据结构", "summary": "HTML、CSS、原生 JavaScript，数据集中在 data/，通过 GitHub Pages 访问。", "details": ["目的地、分类、卡片、关系、语言和物产数据与页面交互分开维护，当前不需要 Vue、数据库或构建服务。", "词典收藏、语言设置、地图偏好与部分浏览状态保存在当前浏览器；没有账户或跨设备同步。", "功能有数据完整性与浏览器回归检查；方案页的覆盖统计从当前已加载数据计算。", "采用浅色纸面、分类配色、局部毛玻璃导航与浮层、统一圆角及短暂交互反馈。支持实色回退和系统减少动效 / 透明度偏好；图表、正文、地图瓦片与图钉保持清晰。"], "links": [["https://github.com/cafelzj/eurotrip", "查看项目仓库"], ["https://github.com/cafelzj/eurotrip/blob/main/docs/design-refresh.md", "视觉更新调研与取舍"]]}
   ],
   "roadmap": [
     {"id": "history", "area": "content", "name": "把历史从零散趣闻扩展成知识网络", "priority": "first", "summary": "优先深化四个欧洲国家和江苏三市的历史，解释今天为什么长这样。", "details": ["按时代背景 → 关键转折 → 人物 → 现存地点组织内容，区分传说、纪念设施、复原展示与出土原物。", "重点专题：奥匈帝国与多瑙河城市、德国分裂与统一、巴尔干边界与城市、江南运河与工商业、徐州汉文化。", "新增历史卡片须明确时间和地域范围，连接现有人物、博物馆、遗产与建筑，避免重复抄写城市简介。"], "acceptance": "每个专题至少有可追溯来源、年代说明和有意义的关联；国家与相关城市筛选都能找到，史实与编辑解释分别表达。", "dependency": "优先核对博物馆、档案、学术与官方遗产资料；旧卡片也需补齐来源。", "links": [["#guide/hu/budapest?zone=facts", "现有布达佩斯知识卡片"]]},

@@ -70,7 +70,7 @@ python3 -m http.server 3014 --bind 0.0.0.0
 
 ## 方案与持续完善
 
-`#plan` 是第五个栏目，集中展示 15 项已实现能力、12 项按优先级区分的待办建议、12 个 GitHub 产品对标。支持全文搜索、主题筛选、URL 恢复和计划 / 对标双向跳转；已实现项附真实体验链接，计划注明完成标准和依赖，不代表上线排期。对标基于 2026-10-24 读取的项目 README 与仓库资料，未部署实测；代码许可与公开数据许可分别判断，特别保留 Grapher 当前不再采用 MIT 的说明。覆盖数字从当前已加载卡片、目的地、词典和物产数据计算，动态门店不计入静态卡片总数。
+`#plan` 是第五个栏目，集中展示 15 项已实现能力、12 项按优先级区分的待办建议、12 个 GitHub 产品对标。支持全文搜索、主题筛选、URL 恢复和计划 / 对标双向跳转；已实现项附真实体验链接，计划注明完成标准和依赖，不代表上线排期。对标基于逐次读取的项目 README 与仓库资料，未部署实测；代码许可与公开数据许可分别判断，特别保留 Grapher 当前不再采用 MIT 的说明。覆盖数字从当前已加载卡片、目的地、词典和物产数据计算，动态门店不计入静态卡片总数。
 
 美食与特产对标新增 WorldCuisines、LocalBite、recipes JSON 食谱汇编与 HowToCook，更新既有 Open Food Facts 条目，合计五个相关项目。保留 WorldCuisines 自述规模、LocalBite 实查 1,800 行中 115 行有菜名且均在东京、食谱地域标签不能直接推导起源等核对范围。五个项目通过“美食与特产”关键词可集中搜索，并与图片、情境词汇、地方内容完善和零售商品计划双向关联；尚未接入外部数据集。
 
@@ -123,6 +123,12 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 中国城市与欧洲地图均使用 OpenStreetMap，由 `map-provider.js` 和 `data/map-providers.js` 集中管理。目的地通过 `mapProvider` 选择已接入的提供方；静态地点以 WGS84 存储，中国地点显式标记 `coordSystem`。后续接入高德时，需要增加合法的地图服务配置、渲染适配与 WGS84 → GCJ-02 转换，不能只替换瓦片地址；卡片内容、分类和地点 ID 可以继续复用。
 
 底图为 OpenStreetMap 标准瓦片，保留署名；不预抓取。底图失败仍可显示本地国界与卡片坐标。坐标为位置参考，不保证入口、营业、菜单或库存；OSM 可能过时或缺失。
+
+## 统一视觉与毛玻璃
+
+本轮先调研 MDN、Fluent UI、Spectrum CSS、Radix Colors、Open Props、shadcn/ui，以及液态玻璃和 Bento 示例，再将取舍记录在 [视觉调研说明](docs/design-refresh.md)。网站使用独立的 `design-system.css` 视觉主题层：浅色背景、森林绿、五类卡片配色、统一表面与圆角、桌面吸顶导航，以及主导航、菜单、随身地图和词条对话框的局部毛玻璃。正文、表格、图表和地图图钉使用清晰表面；手机导航随文档滚动。
+
+滤镜通过 `@supports` 渐进增强，保留实色背景与 WebKit 前缀；响应减少动效、减少透明度、高对比、强制颜色与打印设置。CSS 之外不增加运行时框架、图形画布、动画库或额外图片。原组件文件继续负责布局，主题层集中定义视觉 token 与表面。清理了原目的地介绍上的强制覆盖规则，以便统一样式正常覆盖。浏览器检查使用 Chromium 和模拟偏好，不能当作 Safari / Firefox 真机全覆盖。
 
 ## 数据与代码结构
 
@@ -198,6 +204,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 ```sh
 node tests/data-integrity.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/design-system.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/plan.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager-regions.cjs
