@@ -70,7 +70,9 @@ python3 -m http.server 3014 --bind 0.0.0.0
 
 ## 方案与持续完善
 
-`#plan` 是第五个栏目，集中展示 15 项已实现能力、12 项按优先级区分的待办建议、12 个 GitHub 产品对标。支持全文搜索、主题筛选、URL 恢复和计划 / 对标双向跳转；已实现项附真实体验链接，计划注明完成标准和依赖，不代表上线排期。对标基于逐次读取的项目 README 与仓库资料，未部署实测；代码许可与公开数据许可分别判断，特别保留 Grapher 当前不再采用 MIT 的说明。覆盖数字从当前已加载卡片、目的地、词典和物产数据计算，动态门店不计入静态卡片总数。
+`#plan?view=features&item=visual-effects` 可直达“前端视觉与交互设计”，`#plan?view=features&item=card-browsing` 可直达双模式卡片浏览说明。
+
+`#plan` 是第五个栏目，集中展示 17 项已实现能力、12 项按优先级区分的待办建议、12 个 GitHub 产品对标。支持全文搜索、主题筛选、URL 恢复和计划 / 对标双向跳转；已实现项附真实体验链接，计划注明完成标准和依赖，不代表上线排期。对标基于逐次读取的项目 README 与仓库资料，未部署实测；代码许可与公开数据许可分别判断，特别保留 Grapher 当前不再采用 MIT 的说明。覆盖数字从当前已加载卡片、目的地、词典和物产数据计算，动态门店不计入静态卡片总数。
 
 美食与特产对标新增 WorldCuisines、LocalBite、recipes JSON 食谱汇编与 HowToCook，更新既有 Open Food Facts 条目，合计五个相关项目。保留 WorldCuisines 自述规模、LocalBite 实查 1,800 行中 115 行有菜名且均在东京、食谱地域标签不能直接推导起源等核对范围。五个项目通过“美食与特产”关键词可集中搜索，并与图片、情境词汇、地方内容完善和零售商品计划双向关联；尚未接入外部数据集。
 
@@ -126,9 +128,17 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 ## 统一视觉与毛玻璃
 
-本轮先调研 MDN、Fluent UI、Spectrum CSS、Radix Colors、Open Props、shadcn/ui，以及液态玻璃和 Bento 示例，再将取舍记录在 [视觉调研说明](docs/design-refresh.md)。网站使用独立的 `design-system.css` 视觉主题层：浅色背景、森林绿、五类卡片配色、统一表面与圆角、桌面吸顶导航，以及主导航、菜单、随身地图和词条对话框的局部毛玻璃。正文、表格、图表和地图图钉使用清晰表面；手机导航随文档滚动。
+本轮先调研 MDN、Fluent UI、Spectrum CSS、Radix Colors、Open Props、shadcn/ui，以及液态玻璃和 Bento 示例，再将取舍记录在 [视觉调研说明](docs/design-refresh.md)。网站使用独立的 `design-system.css` 视觉主题层：浅色背景、森林绿、五类卡片配色、统一表面与圆角、随页面滚动的主导航，以及主导航、菜单、随身地图和词条对话框的局部毛玻璃。正文、表格、图表和地图图钉使用清晰表面；桌面和手机的主导航均随文档滚动，不持续覆盖卡片。
 
 滤镜通过 `@supports` 渐进增强，保留实色背景与 WebKit 前缀；响应减少动效、减少透明度、高对比、强制颜色与打印设置。CSS 之外不增加运行时框架、图形画布、动画库或额外图片。原组件文件继续负责布局，主题层集中定义视觉 token 与表面。清理了原目的地介绍上的强制覆盖规则，以便统一样式正常覆盖。浏览器检查使用 Chromium 和模拟偏好，不能当作 Safari / Firefox 真机全覆盖。
+
+## 鼠标追光与瀑布流
+
+导航和短卡片支持柔和的鼠标跟随高光，分类卡片沿用原分类色。`spotlight.js` 使用文档级事件委托，移动事件按帧合并，只在当前目标更新两个局部坐标；离开、滚动、页面切换或失焦即清理。效果层位于文字下方并忽略指针事件。触屏、减少动效、减少透明度、高对比与强制颜色偏好禁用追光，地图、表格、图表、表单和长文不参与。详细规则见 [设计记录](docs/design-refresh.md#鼠标跟随高光)。
+
+欧洲国家和中国城市的卡片集合可在“分类浏览”和“瀑布流”间切换；新用户默认分类浏览，主动切换后记住偏好，`view=groups` / `view=waterfall` 可覆盖偏好。瀑布流共享全部筛选与卡片模板，每批 24 张，接近底部时继续追加；缺少 IntersectionObserver 时使用手动按钮。末尾明确显示已看完，不复制卡片。`shown` 保存已显示数量，`at` 保存最后进入的卡片，详情返回和刷新时恢复附近位置。地图的来源仍是全部匹配卡片，不随浏览批次截断。
+
+`card-feed.js` 负责高度布局、追加加载、窗口 / 字体变化与观察器清理；`card-feed.css` 提供三列 / 两列 / 单列布局。卡片数据、渲染、筛选和返回状态继续由 `knowledge-hub.js` 管理。按最短列放置新项，追加时保持旧项位置，切换路由时显式销毁观察器和待执行帧。
 
 ## 数据与代码结构
 
@@ -205,6 +215,8 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 ```sh
 node tests/data-integrity.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/design-system.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/spotlight.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/card-feed.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/plan.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager-regions.cjs

@@ -9,7 +9,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await go('#guide/hu');await p.locator('#miniMapToggle').click();await p.locator('#miniMapCanvas .leaflet-pane').first().waitFor({state:'attached'});
   await p.locator('#planMode').click();await settle(p);await p.locator('.plan-page').waitFor();
   assert.equal(await p.locator('.mode-tabs .selected').count(),1);assert.equal(await p.locator('#planMode').getAttribute('aria-pressed'),'true');assert(await p.locator('#vocabulary').isHidden());assert(await p.locator('.floating-map').isHidden());assert.equal(await p.locator('#miniMapCanvas .leaflet-pane').count(),0);
-  assert.equal(await p.locator('[data-plan-id]').count(),15);assert.equal(await p.locator('.plan-tabs a').count(),3);
+  assert.equal(await p.locator('[data-plan-id]').count(),17);assert.equal(await p.locator('.plan-tabs a').count(),3);
   const audit=await p.evaluate(()=>{
    const areas=new Set(projectPlan.areas.map(a=>a.id)),ids=new Map(Object.entries(projectPlan).filter(([key])=>['features','roadmap','benchmarks'].includes(key)).map(([key,items])=>[key,new Set(items.map(x=>x.id))]));
    const failures=[];
@@ -17,7 +17,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    const metrics=[...document.querySelectorAll('.plan-metrics strong')].map(e=>e.textContent);
    return {failures,metrics,cards:[...CardStore.nodes.values()].filter(n=>!n.live).length,words:words.length,foods:Object.values(produceCountries).reduce((sum,c)=>sum+(c.food||produceFood).items.length,0)};
   });assert.deepEqual(audit.failures,[]);assert.deepEqual(audit.metrics,[String(audit.cards),'4 国 / 13 城',String(audit.words),String(audit.foods)]);
-  await p.fill('#planSearch','FAO');assert.equal(await p.locator('[data-plan-id]').count(),1);assert.equal(await p.locator('[data-plan-id]').getAttribute('data-plan-id'),'charts');assert.equal(await p.locator('#planCount').innerText(),'显示 1 / 15 项');
+  await p.fill('#planSearch','FAO');assert.equal(await p.locator('[data-plan-id]').count(),1);assert.equal(await p.locator('[data-plan-id]').getAttribute('data-plan-id'),'charts');assert.equal(await p.locator('#planCount').innerText(),'显示 1 / 17 项');
   await p.reload();assert.equal(await p.locator('#planSearch').inputValue(),'FAO');assert.equal(await p.locator('[data-plan-id]').count(),1);
   await p.locator('#planReset').click();await p.selectOption('#planArea','language');assert.equal(await p.locator('[data-plan-id]').count(),1);
   await p.locator('.plan-tabs a').filter({hasText:'计划实现'}).click();await p.locator('[data-plan-id="context-vocabulary"]').waitFor();assert.equal(await p.locator('#planArea').inputValue(),'language');assert.equal(await p.locator('[data-plan-id]').count(),1);
@@ -33,7 +33,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await p.locator('[data-plan-id="localbite"] .plan-related a').filter({hasText:'扩展目的地'}).click();await p.waitForURL('**/#plan?view=roadmap&item=coverage');
   assert(await p.locator('[data-plan-id="coverage"]').evaluate(el=>el.open));assert.equal(await p.locator('[data-plan-id="coverage"] .plan-related a').count(),4);
   await p.locator('[data-plan-id="coverage"] .plan-related a').filter({hasText:'WorldCuisines'}).click();await p.waitForURL('**/#plan?view=benchmarks&item=worldcuisines');assert(await p.locator('[data-plan-id="worldcuisines"]').evaluate(el=>el.open));
-  await go('#plan?view=features&q=不存在的方案词');assert.equal(await p.locator('[data-plan-id]').count(),0);assert(await p.locator('.plan-empty').isVisible());await p.locator('#planReset').click();assert.equal(await p.locator('[data-plan-id]').count(),15);
+  await go('#plan?view=features&q=不存在的方案词');assert.equal(await p.locator('[data-plan-id]').count(),0);assert(await p.locator('.plan-empty').isVisible());await p.locator('#planReset').click();assert.equal(await p.locator('[data-plan-id]').count(),17);
   // Internal experience links must resolve to real implemented pages, not merely valid hashes.
   const urls=await p.evaluate(()=>[...new Set(projectPlan.features.flatMap(n=>n.links||[]).map(x=>x[0]).filter(x=>x.startsWith('#')))]);
   for(const hash of urls){await go(hash);assert.equal(await p.locator('.entity-missing').count(),0,hash);assert(await p.locator('#vocabulary:visible,.knowledge-hub,.entity-detail,.card-manager,.produce-page,.map-focused').count(),hash);}

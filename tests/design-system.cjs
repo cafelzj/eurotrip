@@ -14,7 +14,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
     await go(hash,selector);
     assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${id} fits ${width}`);
     assert.equal(await p.locator('.mode-tabs .selected').count(),1);
-    assert.equal(await p.locator('.mode-tabs').evaluate(e=>getComputedStyle(e).position),width>900?'sticky':'relative');
+    assert.equal(await p.locator('.mode-tabs').evaluate(e=>getComputedStyle(e).position),'relative');
     assert((await p.locator('body').evaluate(e=>parseFloat(getComputedStyle(e).fontSize)))>=16);
     if(width===1440||width===390)await p.screenshot({path:`${shots}/${id}-${width}.png`});
    }
@@ -22,7 +22,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
   await p.setViewportSize({width:1440,height:1050});await go('#guide/hu/budapest','.knowledge-hub');
   assert((await p.locator('.mode-tabs').evaluate(e=>getComputedStyle(e).backdropFilter)).includes('blur'));
   const layout=await p.locator('.destination-hero').evaluate(e=>{const s=getComputedStyle(e);return {padding:parseFloat(s.paddingLeft),height:e.getBoundingClientRect().height};});assert(layout.padding>=24&&layout.height>150,'hero text has real padding, not clipped by legacy rules');
-  await p.locator('[data-hub-section="food"]').scrollIntoViewIfNeeded();const sticky=await p.locator('.mode-tabs').boundingBox();assert(sticky.y>=11&&sticky.y<=13,'navigation remains available on desktop');
+  await p.locator('[data-hub-section="food"]').scrollIntoViewIfNeeded();const nav=await p.locator('.mode-tabs').boundingBox();assert(nav.y+nav.height<0,'navigation scrolls away instead of covering cards');
   await p.locator('#travelMode').click();assert(await p.locator('#countryMenu').isVisible());await p.keyboard.press('Escape');assert.equal(await p.locator('#travelMode').getAttribute('aria-expanded'),'false');
   await p.locator('#miniMapToggle').click();assert(await p.locator('#miniMapPanel').isVisible());assert((await p.locator('#miniMapPanel').evaluate(e=>getComputedStyle(e).backdropFilter)).includes('blur'));
   assert.equal(await p.locator('#miniMapCanvas').evaluate(e=>getComputedStyle(e).filter),'none');assert.equal(await p.locator('.map-pin').first().evaluate(e=>getComputedStyle(e).backdropFilter),'none');
@@ -53,6 +53,6 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=r
   await p.locator('#chinaMode').click();assert(await p.locator('#chinaMenu').isVisible());const menu=await p.locator('#chinaMenu').boundingBox();assert(menu.x>=0&&menu.x+menu.width<=390);await p.keyboard.press('Escape');
   await go('#words','#vocabulary:visible');await p.fill('#search','alma');await p.locator('.word-row').click();assert(await p.locator('#detail').evaluate(d=>d.open));assert((await p.locator('#detail').evaluate(e=>getComputedStyle(e).backdropFilter)).includes('blur'));await p.keyboard.press('Escape');assert(!(await p.locator('#detail').evaluate(d=>d.open)));
   assert.deepEqual(errors,[]);assert.deepEqual(bad,[]);
-  console.log('PASS 8 page types at 4 widths, sticky/flow navigation, glass and clear map pins, padded hero, keyboard focus, key text contrast, reduced motion/transparency, high contrast, forced colors, opaque fallback and mobile overlay controls');
+  console.log('PASS 8 page types at 4 widths, non-sticky navigation, glass and clear map pins, padded hero, keyboard focus, key text contrast, reduced motion/transparency, high contrast, forced colors, opaque fallback and mobile overlay controls');
  }finally{await b.close();}
 })().catch(e=>{console.error(e);process.exit(1)});

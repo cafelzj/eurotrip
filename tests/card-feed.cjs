@@ -1,0 +1,36 @@
+const {chromium}=require('playwright'),assert=require('node:assert/strict'),settle=require('./wait-for-route.cjs');
+(async()=>{
+ const browser=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
+ try{
+  const p=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));
+  await p.route('https://tile.openstreetmap.org/**',r=>r.abort());await p.route('https://fonts.googleapis.com/**',r=>r.abort());
+  const base=process.env.SITE_URL||'http://127.0.0.1:3020',tick=()=>p.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
+  const go=async hash=>{await p.goto(base+'/'+hash);await settle(p);};
+  await go('#guide/hu/budapest');assert.equal(await p.locator('.hub-section').count(),5);
+  await p.locator('[data-hub-view="waterfall"]').click();await p.waitForSelector('.card-feed-item');await tick();assert.equal(await p.locator('.card-feed-item').count(),24);assert.equal(await p.locator('.hub-subgroup').count(),0);assert((await p.evaluate(()=>location.hash)).includes('view=waterfall'));
+  const total=await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='hu'),travelCities.find(c=>c.id==='budapest')).length);assert.equal(total,119);assert((await p.locator('#hubCount').innerText()).includes(String(total)));
+  const positions=await p.locator('.card-feed-item').evaluateAll(els=>els.slice(0,24).map(e=>({id:e.firstElementChild.dataset.knowledgeCard,y:e.getBoundingClientRect().top+scrollY})));
+  await p.locator('[data-feed-more]').scrollIntoViewIfNeeded();await p.waitForFunction(()=>document.querySelectorAll('.card-feed-item').length>24);await tick();
+  const after=await p.locator('.card-feed-item').evaluateAll(els=>els.slice(0,24).map(e=>({id:e.firstElementChild.dataset.knowledgeCard,y:e.getBoundingClientRect().top+scrollY})));assert.deepEqual(after,positions,'appending does not move existing cards');
+  const title=p.locator('.card-feed-item .hub-card-title').nth(28),id=await title.locator('xpath=..').getAttribute('data-knowledge-card');await title.click();await settle(p);assert(await p.locator('[data-entity-id="'+id+'"]').count());const back=await p.locator('.entity-breadcrumb>a').first().getAttribute('href');assert(back.includes('view=waterfall')&&back.includes('at='+id));
+  await p.goBack();await p.waitForSelector('.card-feed-item [data-knowledge-card="'+id+'"]');await p.waitForFunction(id=>{const r=document.querySelector('[data-knowledge-card="'+id+'"]').getBoundingClientRect();return r.top>=80&&r.top<innerHeight;},id);assert(await p.locator('.card-feed-item').count()>=29);
+  await p.reload();await p.waitForSelector('[data-knowledge-card="'+id+'"]');await tick();assert((await p.evaluate(()=>location.hash)).includes('at='+id));
+  await p.evaluate(()=>{for(let i=0;i<30;i++){const b=document.querySelector('[data-feed-more]');if(b.hidden)break;b.click();}});await tick();
+  assert.equal(await p.locator('.card-feed-item').count(),total);assert(await p.locator('[data-feed-more]').isHidden());assert((await p.locator('.card-feed-footer').innerText()).includes('已看完'));
+  const ids=await p.locator('[data-knowledge-card]').evaluateAll(els=>els.map(e=>e.dataset.knowledgeCard));assert.equal(new Set(ids).size,total);assert.deepEqual([...ids].sort(),(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='hu'),travelCities.find(c=>c.id==='budapest')).map(n=>n.id))).sort());
+  async function noOverlap(){assert(await p.locator('.card-feed-grid').evaluate(grid=>{const rects=[...grid.children].map(e=>e.getBoundingClientRect()),end=grid.getBoundingClientRect().bottom;return rects.every((a,i)=>a.bottom<=end+1&&rects.slice(i+1).every(b=>Math.abs(a.left-b.left)>1||a.bottom<=b.top+1||b.bottom<=a.top+1));}));}
+  await noOverlap();
+  await p.locator('[data-hub-topic="food"]').first().click();await tick();assert(await p.locator('.card-feed .hub-card').evaluateAll(els=>els.every(e=>e.dataset.cardTheme==='food')));assert.equal(await p.locator('.card-feed-item').count(),24);
+  await p.selectOption('#hubKind','咖啡');await tick();assert(await p.locator('.hub-card').evaluateAll(els=>els.length>0&&els.every(e=>e.querySelector('.hub-card-meta>span').textContent.includes('咖啡'))));assert(!(await p.evaluate(()=>location.hash)).includes('at='));
+  await p.fill('#hubSearch','没有这个卡片的词');assert.equal(await p.locator('.card-feed-item').count(),0);assert((await p.locator('.card-feed-footer').innerText()).includes('没有匹配'));await p.locator('#hubReset').click();await tick();assert.equal(await p.locator('.card-feed-item').count(),24);
+  await go('#guide/at/vienna');await p.waitForSelector('.card-feed-item');assert.equal(await p.locator('[data-hub-view="waterfall"]').getAttribute('aria-pressed'),'true','view preference survives a destination change');
+  await p.evaluate(()=>KnowledgeHub.reveal('venue-vienna-opera'));await p.waitForSelector('[data-knowledge-card="venue-vienna-opera"].map-card-highlight');await p.locator('[data-knowledge-card="venue-vienna-opera"] [data-map-card]').click();assert((await p.locator('.leaflet-popup-content').innerText()).includes('歌剧院'));await p.locator('#miniMapClose').click();
+  await go('#china/jiangsu/suzhou?view=waterfall');await p.waitForSelector('.card-feed-item');assert(await p.locator('.hub-card').evaluateAll(els=>els.every(el=>KnowledgeHub.countryIds(CardStore.nodes.get(el.dataset.knowledgeCard)).includes('cn'))));
+  for(const [width,columns]of [[390,2],[320,1],[768,2],[1440,3]]){await p.setViewportSize({width,height:844});await tick();assert.equal(await p.locator('.card-feed-grid').evaluate(e=>parseInt(getComputedStyle(e).getPropertyValue('--feed-columns'))),columns);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await noOverlap();}
+  await p.locator('[data-hub-view="groups"]').click();assert.equal(await p.locator('.card-feed').count(),0);assert.equal(await p.locator('.hub-section').count(),5);await p.reload();assert.equal(await p.locator('.hub-section').count(),5);
+  await p.locator('[data-hub-view="waterfall"]').click();await go('#words');await p.evaluate(()=>{window.dispatchEvent(new Event('resize'));document.dispatchEvent(new Event('scroll'));});await tick();assert.equal(await p.evaluate(()=>location.hash),'#words');assert.equal(await p.locator('.card-feed').count(),0);
+  // Without automatic observation, the same finite feed remains manually accessible.
+  const fallback=await browser.newPage({viewport:{width:1440,height:1000}});await fallback.addInitScript(()=>window.IntersectionObserver=undefined);await fallback.goto(base+'/#guide/hu/budapest?view=waterfall');await fallback.waitForSelector('.card-feed-item');assert.equal(await fallback.locator('.card-feed-item').count(),24);await fallback.locator('[data-feed-more]').focus();await fallback.keyboard.press('Enter');assert.equal(await fallback.locator('.card-feed-item').count(),48);await fallback.close();
+  assert.deepEqual(errors,[]);console.log('PASS default groups, finite automatic/manual batches, stable positions and no overlap, full scoped inventory, filter reset, preference/deep-link/reload/detail restoration, map reveal, China ownership, four widths and observer cleanup');
+ }finally{await browser.close();}
+})().catch(e=>{console.error(e);process.exit(1)});

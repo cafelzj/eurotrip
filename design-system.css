@@ -21,7 +21,7 @@
   --ease-out: cubic-bezier(.2, .7, .2, 1);
 }
 
-html { scroll-padding-top: 110px; }
+html { scroll-padding-top: 18px; }
 body {
   background-color: var(--paper);
   background-image: linear-gradient(to bottom, transparent 60%, var(--paper)),
@@ -90,7 +90,6 @@ body > footer { color: var(--muted); border-color: var(--line); }
   }
   .country-menu { background-color: rgb(255 255 251 / 95%); }
 }
-@media (min-width: 901px) { .mode-tabs { position: sticky; top: 12px; } }
 
 /* Editorial destination surfaces, with decoration isolated from the text. */
 .destination-hero {
@@ -253,6 +252,29 @@ dialog#detail::backdrop { background: rgb(22 44 34 / 36%); backdrop-filter: blur
 .detail-picture, .translation { border-radius: 16px; }
 .etymology p { color: #48634e; }
 
+/* A local spotlight sits behind text; it never intercepts links or form controls. */
+[data-pointer-glow] { isolation: isolate; }
+[data-pointer-glow]:not(.mode-tabs) { position: relative; }
+[data-pointer-glow]::before {
+  content: '';
+  position: absolute;
+  inset: 1px;
+  z-index: -1;
+  border-radius: inherit;
+  pointer-events: none;
+  --pointer-tint: rgb(76 139 112 / 18%);
+  background: radial-gradient(240px circle at var(--pointer-x, 50%) var(--pointer-y, 50%), var(--pointer-tint), transparent 74%),
+    radial-gradient(110px circle at var(--pointer-x, 50%) var(--pointer-y, 50%), rgb(255 255 255 / 65%), transparent 72%);
+}
+.mode-tabs[data-pointer-glow]::before { --pointer-tint: rgb(76 139 112 / 12%); }
+.plan-card > summary[data-pointer-glow], .produce-food-card > summary[data-pointer-glow] { border-radius: inherit; }
+@supports (color: color-mix(in srgb, green, transparent)) {
+  [data-pointer-glow]::before { --pointer-tint: color-mix(in srgb, var(--card-accent, #4c8b70) 18%, transparent); }
+}
+@media (hover: none), (pointer: coarse), (prefers-reduced-motion: reduce), (prefers-reduced-transparency: reduce), (prefers-contrast: more), (forced-colors: active) {
+  [data-pointer-glow]::before { display: none; }
+}
+
 /* Visible keyboard focus, light pointer feedback and non-animated alternatives. */
 :is(a, button, input, select, summary, [tabindex]):focus-visible {
   outline: 3px solid #28654d;
@@ -331,4 +353,5 @@ button, summary, a { -webkit-tap-highlight-color: rgb(55 106 78 / 14%); }
   .mode-tabs { position: static; }
   .mode-tabs, .country-menu, dialog#detail { background: #fff; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
   .floating-map { display: none; }
+  [data-pointer-glow]::before { display: none; }
 }

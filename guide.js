@@ -33,8 +33,8 @@
   requestAnimationFrame(()=>map?.invalidateSize());
  }
  function renderRoute(){
-  disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
-  if(parts[0]==='words'){setMode('words');return;}
+  H.dispose();disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
+  if(parts[0]==='words'){setMode('words');guide.replaceChildren();return;}
   if(parts[0]==='plan'){setMode('plan');guide.innerHTML=PlanPage.render(params);PlanPage.bind(guide,params);return;}
   if(parts[0]==='produce'){
    const country=parts[1]==='budapest'?'hu':produceCountries[parts[1]]?parts[1]:ProducePage.lastCountry();
