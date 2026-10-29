@@ -158,6 +158,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 | `data/china-cards.js` | 江苏三市及县级目的地卡片、WGS84 参考坐标与双向知识关联；与欧洲内容分开维护 |
 | `data/map-providers.js` | 底图提供方、瓦片地址、署名与坐标系配置 |
 | `data/heritage-cards.js` | 世界遗产正式列名、明确归属、可选单点锚点、UNESCO入口与关联 |
+| `data/knowledge-cards.js` | 跨目的地的历史、地理、语言、工艺与人物专题，以及明确的双向阅读关联；知识关联不推导地图坐标 |
 | `data/cards.js` | 卡片正文、国家/城市范围、一级/二级分类、来源，以及一个可选 POI 或动态搜索类型 |
 | `data/relations.js` | 明确的双向关联，每条是 `[起点 ID, 终点 ID, 正向说明, 反向说明]` |
 | `data/categories.js` | 五个一级分类、二级分类、名称、图标、简介、地图颜色与编号前缀，以及旧名称兼容 |
@@ -167,6 +168,8 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 | `data/borders.js` | Natural Earth 110m 国界，公有领域 |
 
 布达佩斯与维也纳补充了艺术与历史场馆、演出空间、教堂、公园、具体餐饮地点、地方食品与交通线索。现有国民零食与日常消费品牌通过明确的城市关联进入首都集合，购买线索不改变品牌起源、总部或生产地，也不保证门店库存。SPAR 的奥地利企业与匈牙利运营入口分别维护。
+
+知识内容新增 72 张、深化 33 张旧卡，“冷知识与人物”由 74 张增至 146 张；全站共 768 张静态卡片、531 条双向关系记录。新内容覆盖欧洲四国和江苏三市，包括奥匈妥协、城市重建、现代艺术、德国分裂与统一、巴尔干历史，以及江南运河、地方工艺与人物。新卡均有背景解读、延伸阅读和至少两个关联方向，共用既有分类、搜索、瀑布流、详情与管理表；相关知识不会自动变成地图大头针。主题范围和来源约定见 [知识扩充说明](docs/knowledge-expansion.md)。
 
 静态卡片统一使用明确的 `category` 和 `subcategory` ID，不通过名称关键词猜分类。卡片 ID 保持稳定；调整文件顺序不会改变 ID 或关联。新增静态内容只需编辑相应数据文件，列表、小地图和完整地图读取同一份卡片。
 
