@@ -4784,7 +4784,9 @@ const travelCards = [
       "hu",
       "at",
       "de",
-      "rs"
+      "rs",
+      "si",
+      "pl"
     ],
     "cities": [
       "budapest",
@@ -4799,13 +4801,19 @@ const travelCards = [
       "cologne",
       "belgrade",
       "novi-sad",
-      "nis"
+      "nis",
+      "ljubljana",
+      "maribor",
+      "warsaw",
+      "krakow",
+      "gdansk",
+      "wroclaw"
     ],
     "name": "Lidl",
     "aliases": [
       "利德尔"
     ],
-    "description": "德国起源的折扣超市品牌，在匈牙利、奥地利、德国和塞尔维亚均有业务；门店所在国不等于品牌起源国。",
+    "description": "德国起源的折扣超市品牌，在本站收录的多个欧洲国家经营；具体门店按官方和地图当前范围查询，门店所在国不等于品牌起源国。",
     "note": "领域：超市零售\n品牌起源：德国\n地理联系：德国起源的零售品牌；不同业务法人的所在地以公司资料为准\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n旅行服务城市关联也包括门店网络，不表示这些城市都是品牌起源地或总部。",
     "sources": [
       [
@@ -4815,6 +4823,14 @@ const travelCards = [
       [
         "https://www.lidl.rs/",
         "塞尔维亚 · 官方门店入口"
+      ],
+      [
+        "https://www.lidl.si/",
+        "斯洛文尼亚 · 官方门店入口"
+      ],
+      [
+        "https://www.lidl.pl/",
+        "波兰 · 官方门店入口"
       ]
     ],
     "category": "brands",
@@ -4827,7 +4843,8 @@ const travelCards = [
     "country": "de",
     "countries": [
       "hu",
-      "de"
+      "de",
+      "pl"
     ],
     "cities": [
       "budapest",
@@ -4836,7 +4853,11 @@ const travelCards = [
       "berlin",
       "munich",
       "hamburg",
-      "cologne"
+      "cologne",
+      "warsaw",
+      "krakow",
+      "gdansk",
+      "wroclaw"
     ],
     "name": "ALDI",
     "aliases": [
@@ -4852,6 +4873,10 @@ const travelCards = [
       [
         "https://www.aldi-nord.de/",
         "ALDI Nord 官方入口"
+      ],
+      [
+        "https://www.aldi.pl/",
+        "ALDI 波兰"
       ]
     ],
     "category": "brands",
@@ -4863,23 +4888,31 @@ const travelCards = [
     "type": "brand",
     "country": "at",
     "countries": [
-      "at"
+      "at",
+      "si"
     ],
     "cities": [
       "vienna",
       "salzburg",
-      "innsbruck"
+      "innsbruck",
+      "ljubljana",
+      "maribor",
+      "bled"
     ],
     "name": "HOFER",
     "aliases": [
       "Hofer"
     ],
-    "description": "在奥地利旅行常见的折扣超市品牌，与 ALDI Süd 体系有关；不因商标不同就完全没有企业联系。",
+    "description": "奥地利和斯洛文尼亚常见的 HOFER 折扣超市品牌，与 ALDI Süd 体系有关；城市联系表示门店网络，具体店址与营业另查。",
     "note": "领域：超市零售\n品牌起源：奥地利市场品牌；属 ALDI Süd 体系\n地理联系：总部关联：Sattledt，上奥地利；不是维也纳，本站未收录\n企业/品牌的历史起源、销售市场、当前所有权与总部是不同维度；此卡不代表可参观办公或生产场所。\n旅行服务城市关联也包括门店网络，不表示这些城市都是品牌起源地或总部。",
     "sources": [
       [
         "https://www.hofer.at/",
         "企业 / 品牌官方入口"
+      ],
+      [
+        "https://www.hofer.si/",
+        "HOFER 斯洛文尼亚"
       ]
     ],
     "category": "brands",
@@ -7335,7 +7368,8 @@ const travelCards = [
       "hu",
       "at",
       "de",
-      "rs"
+      "rs",
+      "si"
     ],
     "cities": [
       "budapest",
@@ -7350,10 +7384,13 @@ const travelCards = [
       "cologne",
       "belgrade",
       "novi-sad",
-      "nis"
+      "nis",
+      "ljubljana",
+      "maribor",
+      "bled"
     ],
     "name": "dm drogerie markt",
-    "description": "德国起源的药妆日用品连锁，在匈牙利、奥地利、德国和塞尔维亚均有业务。适合买洗护、防晒和日用品；药妆店与配药药房需分清。",
+    "description": "德国起源的药妆日用品连锁，在多个中欧与巴尔干市场经营。适合买洗护、防晒和日用品；具体市场和门店看官方入口，药妆店与配药药房分清。",
     "note": "城市联系表示门店或服务网络，不表示总部所在地。请用官方门店查询核对具体位置与营业时间；地图不提供库存或 ATM 手续费保证。",
     "sources": [
       [
@@ -7371,6 +7408,10 @@ const travelCards = [
       [
         "https://www.dm.rs/",
         "塞尔维亚 · 官方门店入口"
+      ],
+      [
+        "https://www.dm.si/",
+        "dm 斯洛文尼亚"
       ]
     ],
     "category": "brands",

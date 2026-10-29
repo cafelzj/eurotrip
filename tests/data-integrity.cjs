@@ -1,8 +1,8 @@
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
 const root=path.join(__dirname,'..'),context=vm.createContext({});context.window=context;context.sessionStorage={getItem:()=>null,setItem:()=>{}};
-const files=['data/destinations.js','data/categories.js','data/cards.js','data/relations.js','data/china-cards.js','data/capitals-cards.js','data/map-providers.js','data/heritage-cards.js','data/knowledge-cards.js','data/plan.js'];
+const files=['data/destinations.js','data/categories.js','data/cards.js','data/relations.js','data/china-cards.js','data/capitals-cards.js','data/map-providers.js','data/heritage-cards.js','data/knowledge-cards.js','data/slovenia-cards.js','data/poland-cards.js','data/borders.js','data/plan.js'];
 for(const file of files){const source=fs.readFileSync(path.join(root,file),'utf8'),declaration=/const (\w+) = ([\s\S]*?);\n/g;for(const match of source.matchAll(declaration))JSON.parse(match[2]);assert.equal(source.replace(declaration,'').replace(/\/\*[\s\S]*?\*\//g,'').trim(),'',file+' should contain only JSON data declarations');vm.runInContext(source,context,{filename:file});}
-vm.runInContext('globalThis.catalog={countries:travelCountries,cities:travelCities,provinces:chinaProvinces,categories:cardCategories,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards],relations:[...cardRelations,...capitalRelations,...chinaRelations,...heritageRelations,...knowledgeRelations],knowledge:knowledgeCards}',context);
+vm.runInContext('globalThis.catalog={countries:travelCountries,cities:travelCities,provinces:chinaProvinces,categories:cardCategories,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards,...sloveniaCards,...polandCards],relations:[...cardRelations,...capitalRelations,...chinaRelations,...heritageRelations,...knowledgeRelations,...sloveniaRelations,...polandRelations],knowledge:knowledgeCards}',context);
 const {countries,cities,provinces,categories,cards,relations}=JSON.parse(JSON.stringify(context.catalog));
 const countryIds=new Set(countries.map(c=>c.id)),cityIds=new Set(cities.map(c=>c.id)),primary=new Map(categories.primary.map(c=>[c.id,c])),secondary=new Map(categories.secondary.map(c=>[c.id,c]));
 assert.equal(primary.size,5);for(const p of primary.values())assert(p.name&&p.icon&&p.description&&p.prefix&&/^#[0-9a-f]{6}$/i.test(p.color));assert.equal(secondary.size,categories.secondary.length);assert(!secondary.has('transport-rules'));assert(!secondary.has('transit-tools'));assert.equal(secondary.get('museum').name,'博物馆 / 美术馆 / 展览馆');assert.equal(secondary.get('tickets').name,'乘车指南');assert.equal(new Set(cards.map(c=>c.id)).size,cards.length);
@@ -18,7 +18,7 @@ assert.equal(byId.get('tip-common-bill').category,'food');for(const id of ['tip-
 for(const city of cities.filter(c=>!c.parentCity)){for(const id of ['tip-city-'+city.id,'tip-'+city.id+'-ticket-choice','tip-'+city.id+'-transit-tools']){assert.equal(byId.get(id).category,'transport');assert.equal(byId.get(id).subcategory,'tickets');}}
 assert(!cards.some(n=>n.category==='essential'));
 assert.equal(byId.get('tip-common-help').category,'facts');
-assert.equal(secondary.get('daily').category,'facts');assert.equal(secondary.get('world-heritage').category,'places');assert.equal(cards.filter(c=>c.subcategory==='world-heritage').length,14);
+assert.equal(secondary.get('daily').category,'facts');assert.equal(secondary.get('world-heritage').category,'places');assert.equal(cards.filter(c=>c.subcategory==='world-heritage').length,22);
 assert.deepEqual(categories.primary.map(c=>c.id),['transport','food','brands','places','facts']);
 assert.equal(secondary.get('pharmacy').category,'brands');
 for(const country of ['hu','at','de']){assert.equal(byId.get('tip-'+country+'-pharmacy').category,'brands');assert.equal(byId.get('tip-'+country+'-shared-mobility').subcategory,'shared-mobility');}

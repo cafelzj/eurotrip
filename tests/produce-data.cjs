@@ -2,8 +2,8 @@ const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),asse
 const context=vm.createContext({}),root=path.join(__dirname,'..');
 function load(file){const code=fs.readFileSync(path.join(root,file),'utf8');const declaration=/^const (\w+) = ([\s\S]*);\s*$/;const match=code.match(declaration);assert(match,file+' must be a data declaration');JSON.parse(match[2]);vm.runInContext(code,context,{filename:file});}
 for(const file of ['data/produce-food.js','data/produce-energy.js','data/produce-stats.js','data/produce-supply.js'])load(file);
-for(const file of ['data/cards.js','data/capitals-cards.js','data/china-cards.js','data/heritage-cards.js','data/knowledge-cards.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
-vm.runInContext('this.data={food:produceFood,energy:produceEnergy,stats:produceStats,supply:produceSupply,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards]}',context);
+for(const file of ['data/cards.js','data/capitals-cards.js','data/china-cards.js','data/heritage-cards.js','data/knowledge-cards.js','data/slovenia-cards.js','data/poland-cards.js'])vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
+vm.runInContext('this.data={food:produceFood,energy:produceEnergy,stats:produceStats,supply:produceSupply,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards,...sloveniaCards,...polandCards]}',context);
 const {food,energy,stats,supply,cards}=JSON.parse(JSON.stringify(context.data));
 const sources=new Map([...food.sources,...energy.sources,...stats.sources,...supply.sources].map(s=>[s.id,s]));
 assert.equal(sources.size,food.sources.length+energy.sources.length+stats.sources.length+supply.sources.length,'source IDs must be unique');

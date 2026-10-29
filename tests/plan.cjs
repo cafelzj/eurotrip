@@ -17,7 +17,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    for(const [key,set]of ids){if(set.size!==projectPlan[key].length)failures.push('duplicate '+key);for(const n of projectPlan[key]){if(!areas.has(n.area))failures.push(n.id+' area');for(const id of n.benchmarks||[])if(!ids.get('benchmarks').has(id))failures.push(n.id+' benchmark');for(const id of n.roadmap||[])if(!ids.get('roadmap').has(id))failures.push(n.id+' roadmap');for(const [u]of n.links||[])if(u.startsWith('#card/')&&!CardStore.nodes.has(u.slice(6)))failures.push(u);}}
    const metrics=[...document.querySelectorAll('.plan-metrics strong')].map(e=>e.textContent);
    return {failures,metrics,cards:[...CardStore.nodes.values()].filter(n=>!n.live).length,words:words.length,foods:Object.values(produceCountries).reduce((sum,c)=>sum+(c.food||produceFood).items.length,0)};
-  });assert.deepEqual(audit.failures,[]);assert.deepEqual(audit.metrics,[String(audit.cards),'4 国 / 13 城',String(audit.words),String(audit.foods)]);
+  });assert.deepEqual(audit.failures,[]);assert.deepEqual(audit.metrics,[String(audit.cards),'6 国 / 21 城',String(audit.words),String(audit.foods)]);
   await p.fill('#planSearch','FAO');assert.equal(await p.locator('[data-plan-id]').count(),1);assert.equal(await p.locator('[data-plan-id]').getAttribute('data-plan-id'),'charts');assert.equal(await p.locator('#planCount').innerText(),'显示 1 / 17 项');
   await p.reload();assert.equal(await p.locator('#planSearch').inputValue(),'FAO');assert.equal(await p.locator('[data-plan-id]').count(),1);
   await p.locator('#planReset').click();await p.selectOption('#planArea','language');assert.equal(await p.locator('[data-plan-id]').count(),1);

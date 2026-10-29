@@ -3,8 +3,8 @@ const root=path.join(__dirname,'..'),context=vm.createContext({});
 for(const file of ['produce-food','produce-energy','produce-stats','produce-supply','produce-countries','produce-country-data']){
  const code=fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),match=code.match(/^const \w+ = ([\s\S]*);\s*$/);assert(match);JSON.parse(match[1]);vm.runInContext(code,context);
 }
-for(const file of ['cards','capitals-cards','china-cards','heritage-cards','knowledge-cards'])vm.runInContext(fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),context);
-const all=JSON.parse(JSON.stringify(vm.runInContext('({countries:produceCountries,numeric:{...produceCountryData,hu:{stats:produceStats,supply:produceSupply,energy:produceEnergy}},food:produceFood,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards]})',context)));
+for(const file of ['cards','capitals-cards','china-cards','heritage-cards','knowledge-cards','slovenia-cards','poland-cards'])vm.runInContext(fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),context);
+const all=JSON.parse(JSON.stringify(vm.runInContext('({countries:produceCountries,numeric:{...produceCountryData,hu:{stats:produceStats,supply:produceSupply,energy:produceEnergy}},food:produceFood,cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards,...sloveniaCards,...polandCards]})',context)));
 const cardIds=new Set(all.cards.map(c=>c.id)),categories=all.food.categories.map(c=>c.id),anchor={de:[21536,11472,12694,6360],at:[1745,2018,1365,854],hu:[5942,816,3476,1284]};
 for(const [code,country]of Object.entries(all.countries)){
  const data=all.numeric[code],food=country.food||all.food,{stats,supply,energy}=data,scope=country.name+'全国';
