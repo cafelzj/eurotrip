@@ -421,3 +421,9 @@ button, summary, a { -webkit-tap-highlight-color: rgb(55 106 78 / 14%); }
   .mini-map-footer button, .mini-map-footer a { min-height: 44px; box-sizing: border-box; display: inline-flex; align-items: center; padding: 6px; font-size: 14px; }
   #miniMapNotice { padding: 0 12px 8px; font-size: 14px; line-height: 1.5; }
 }
+
+@media (max-width: 700px) {
+  .mini-map-footer { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; padding: 8px 10px; }
+  .mini-map-footer button, .mini-map-footer a { justify-content: center; margin: 0; min-width: 0; text-align: center; }
+  .mini-map-footer a { grid-column: 1 / -1; }
+}
