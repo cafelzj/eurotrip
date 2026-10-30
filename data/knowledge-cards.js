@@ -3967,6 +3967,177 @@ const knowledgeCards = [
       "旅行准备",
       "机场到市区：一步步走"
     ]
+  },
+  {
+    "id": "language-hu-paprika",
+    "type": "fact",
+    "countries": [
+      "hu"
+    ],
+    "cities": [
+      "budapest",
+      "debrecen",
+      "szeged"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Paprika：是辣椒，还是辣椒粉？",
+    "subtitle": "匈牙利语 · 菜单与市场",
+    "description": "匈牙利语 paprika 可以指辣椒，也常见于辣椒粉名称中；它并不自动意味着很辣。",
+    "note": "在匈牙利市场看见 paprika，先看看摊位卖的是新鲜蔬菜还是罐装香料。这个词可以指辣椒，香料商品又会通过名称与标签进一步说明品类和风味。英语里 paprika 常被理解为辣椒粉，不能把这种单一理解直接套回所有匈牙利语场景。\n购买香料时，可以留意 édes（甜的）和 csípős（辣的）等词；但甜味辣椒粉并不是加了糖，“甜”主要是在与辛辣风味作区别。不同等级、产地与配方也会带来差异。\n点菜时，如果担心辣度，可以直接询问是否辣，而不要只根据菜名有没有 paprika 来判断。过敏或饮食限制更需要查看配料并向店员确认，语言趣闻不能代替具体商品标签。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/paprika",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-at-kaffee",
+    "type": "fact",
+    "countries": [
+      "at"
+    ],
+    "cities": [
+      "vienna",
+      "salzburg",
+      "innsbruck"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Melange 不是“所有拿铁”的统一名称",
+    "subtitle": "维也纳 · 咖啡馆里的地方词汇",
+    "description": "维也纳咖啡馆常见 Melange，但不能把所有带奶咖啡都当成同一种饮品。",
+    "note": "在维也纳咖啡馆，菜单上的 Melange 是当地咖啡文化中常见的名称，通常涉及咖啡与热牛奶、奶泡的组合。具体比例、杯型和做法会因店而异，因此它与其他国家菜单上的拿铁或卡布奇诺可能相近，却不保证完全一致。\n词语本身与法语 mélange（混合）有关，但知道词源并不能直接推断某家店的配方。另一个可能遇到的词是 Schlagobers，指鲜奶油；它也提醒我们，同为德语，奥地利菜单会有自己的常用表达。\n最实用的做法是先读饮品说明，关心奶量、奶泡、是否加奶油时直接询问。需要植物奶或避免乳制品，也应确认整杯饮品的组成，而不是只靠一个熟悉的咖啡名称下判断。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/Wiener_Melange",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-de-bitte",
+    "type": "fact",
+    "countries": [
+      "de"
+    ],
+    "cities": [
+      "berlin",
+      "munich",
+      "hamburg",
+      "cologne"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Bitte：请、没关系，还是“您说什么”？",
+    "subtitle": "德语 · 一词多用的礼貌表达",
+    "description": "Bitte 会出现在请求、回应感谢、递东西和请对方重复等不同场景，语气与上下文很重要。",
+    "note": "第一次听德语对话，可能会觉得 Bitte 到处都是：点单时接在请求后面，可以表示“请”；对方说 Danke 后，Bitte 可以是“不客气”；递东西时也可能听到它，接近“给您”。同一个形式，承担的是不同的对话功能。\n如果没有听清楚，带疑问语气的 Bitte? 可以请求重复。更完整、明确的说法是 Wie bitte?；在嘈杂的车站或柜台，配合礼貌语气会比机械重复一个词更自然。\n这些含义不是随意互换，而是由前后发生了什么来决定。旅行者可以把它和 Danke 一起按完整情境记忆：提出请求、接过东西、道谢、回应。遇到重要的票务或付款信息没听懂时，仍应请对方写下来或展示屏幕，不要用礼貌回应掩盖理解上的不确定。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/bitte",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-rs-hvala",
+    "type": "fact",
+    "countries": [
+      "rs"
+    ],
+    "cities": [
+      "belgrade",
+      "novi-sad",
+      "nis"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Hvala：这串辅音其实是“谢谢”",
+    "subtitle": "塞尔维亚语 · 读懂基本礼貌词",
+    "description": "Hvala（Хвала）表示谢谢。拉丁与西里尔两种写法可以一起保存，便于对照。",
+    "note": "在塞尔维亚的小店或餐馆，说一句 Hvala 就能表达感谢。它的西里尔字母写法是 Хвала，两个形式对应同一个词；看到不同字母时，不要误以为含义不同。Hvala lepo 是另一种常见的感谢表达。\n对中文母语者来说，词首的辅音组合可能不熟悉。与其用一串不准确的中文谐音固定发音，更适合听可靠录音，留意各音怎样连在一起。刚开始不够流利也没关系，清楚的意图与友善语气通常比模仿口音更重要。\n塞尔维亚语和周边一些南斯拉夫语言共享不少词汇，但共享一个“谢谢”不代表这些语言及其身份可以随意混称。旅行时尊重目的地使用的语言名称，把简单词语作为交流开端，再按实际需要转用双方都理解的语言。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/hvala",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-si-hvala",
+    "type": "fact",
+    "countries": [
+      "si"
+    ],
+    "cities": [
+      "ljubljana",
+      "maribor",
+      "bled",
+      "piran"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "也说 Hvala：邻国语言里的熟悉与不同",
+    "subtitle": "斯洛文尼亚语 · 相似词不等于同一种语言",
+    "description": "斯洛文尼亚语也用 hvala 表示谢谢，与邻近南斯拉夫语言有共同词汇，但并不因此完全互通。",
+    "note": "在斯洛文尼亚旅行，hvala 是很实用的感谢词。如果之前去过塞尔维亚或克罗地亚，可能觉得这个词似曾相识。它反映了邻近语言间的联系，却不能据此把不同语言当成一种语言，也不能假定听懂一个词就能理解整段对话。\n斯洛文尼亚语有自己的标准形式、发音和语法特点。菜单、街牌和交通通知中的一些词可能熟悉，另一些则可能造成误解；尤其遇到日期、票务限制和禁止事项，不要只凭“看起来像”来猜。\n学习时可以把共同词与差异一起记录：先从谢谢、问候和请开始，再保存实际旅途中遇到的完整短语。使用当地语言名称、尊重当地人的表达习惯，比拿相似词作绝对的语言归属判断更有意义。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/hvala",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-pl-pan",
+    "type": "fact",
+    "countries": [
+      "pl"
+    ],
+    "cities": [
+      "warsaw",
+      "krakow",
+      "gdansk",
+      "wroclaw"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Pan / Pani：波兰语礼貌称呼里的线索",
+    "subtitle": "波兰语 · 称呼与交流距离",
+    "description": "Pan、Pani 常见于礼貌称呼与正式交流，也可能出现在预约或服务信息中。",
+    "note": "在波兰语中，Pan 和 Pani 可以分别用于对男性与女性的礼貌称呼，近似“先生”“女士”的某些用途。但实际句子结构与中文、英语并不相同，不能只把单词一对一替换，就认为完成了礼貌表达。\n在预约确认、邮件或现场交流中，这两个词能帮助你识别对方是在称呼谁。波兰语名词有格变化，实际文本里还可能出现相关变形；不认识每一种变化，也不影响先抓住姓名、时间与服务内容等关键信息。\n第一次与陌生人交流时，完整的礼貌问候通常比突然直呼名字更稳妥。这里介绍常见语言习惯，不根据外表替别人决定称呼；不确定时可以遵循对方自我介绍，或者使用不带个人称谓的简单问候，再转入具体请求。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/pani",
+        "延伸阅读 · 词义与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "语言趣闻"
+    ]
   }
 ];
 
@@ -5680,5 +5851,77 @@ const knowledgeRelations = [
     "brand-aldi",
     "继续查看当地信息",
     "落地实用清单"
+  ],
+  [
+    "language-hu-paprika",
+    "language-hu-szia",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-hu-paprika",
+    "language-hu-order",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-at-kaffee",
+    "language-at-servus",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-at-kaffee",
+    "language-de-broetchen",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-de-bitte",
+    "language-at-servus",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-de-bitte",
+    "language-de-broetchen",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-rs-hvala",
+    "language-rs-scripts",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-rs-hvala",
+    "arrival-rs-entry",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-si-hvala",
+    "language-si-dual",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-si-hvala",
+    "arrival-si-entry",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-pl-pan",
+    "language-pl-lodz",
+    "继续探索语言与生活",
+    "相关语言趣闻"
+  ],
+  [
+    "language-pl-pan",
+    "arrival-pl-entry",
+    "继续探索语言与生活",
+    "相关语言趣闻"
   ]
 ];
