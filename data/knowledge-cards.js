@@ -2305,6 +2305,267 @@ const knowledgeCards = [
       "明代",
       "徐弘祖"
     ]
+  },
+  {
+    "id": "language-hu-szia",
+    "type": "fact",
+    "countries": [
+      "hu"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Szia：一句话既能打招呼，也能告别",
+    "subtitle": "匈牙利语 · 熟人之间的问候",
+    "description": "Szia 是匈牙利语常见的非正式问候，见面和告别时都可以使用；对多人常说 sziasztok。",
+    "note": "旅行时听到同一个 szia 出现在进门和离店两个场景，不必以为自己听错了：这是一个既能开启、也能结束交流的非正式招呼。面对多个人时，可以听到复数形式 sziasztok。\n它不是对所有陌生人都适用的万能礼貌语。在较正式的柜台、办事场合，Jó napot kívánok（祝您日安）通常更稳妥，离开时可说 Viszontlátásra。年轻人、熟客与轻松的小店可能更常用 szia，但应跟随现场语气。\n先学会辨认使用场景，比机械地把一个中文“你好”替换到所有对话里更有用。卡片只介绍用法，不把听起来相似的外语词当作确定词源。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/szia",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-hu-order",
+    "type": "fact",
+    "countries": [
+      "hu"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "姓在前，名字在后：匈牙利姓名怎么看？",
+    "subtitle": "匈牙利语 · 姓名与日期顺序",
+    "description": "匈牙利语本土姓名通常姓在前、名在后；日期也常采用年、月、日的顺序。",
+    "note": "在匈牙利语资料里，李斯特常写作 Liszt Ferenc：Liszt 是姓，Ferenc 是名。英语介绍可能改为 Franz Liszt，因此同一位人物会以不同语言的姓名形式出现。看纪念碑、街名和博物馆说明时，可以先确认语言，再判断哪个部分是姓。\n这种顺序也能帮助中文读者理解名录，但不能直接套到每位外国人的姓名上：外国姓名在不同文本中可能保留原有顺序。匈牙利日期通常把年份放在前面，例如 2026. október 30.。\n在车票、预约确认和证件表单里，应按字段提示区分 family name 与 given name；不要仅凭一串文字的位置填写。文化上的常见习惯，并不代替具体系统的填写规则。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/Hungarian_names",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-at-servus",
+    "type": "fact",
+    "countries": [
+      "at",
+      "de"
+    ],
+    "cities": [
+      "vienna",
+      "munich"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Servus：从拉丁语到街头招呼",
+    "subtitle": "奥地利 / 巴伐利亚 · 见面与告别",
+    "description": "在奥地利和德国南部，Servus 常用于非正式问候或告别；它的历史来源与拉丁语“仆人”有关。",
+    "note": "在维也纳或慕尼黑听到 Servus，通常不需要按字面理解成身份关系。它来自拉丁语 servus（仆人），问候形式背后有“愿为您效劳”一类历史礼貌表达，后来成为地区性的日常招呼。\n今天的用法往往很轻松，既可以在见面时说，也可以在告别时说。它在奥地利和巴伐利亚等地区很常见，但不同年龄、场合和地区的偏好仍有差别，不能把它描述成整个德语区唯一的问候方式。\n在正式服务窗口或第一次接触较正式的对象时，可以使用 Guten Tag；听到对方用 Servus，再自然回应也很好。词的历史来源和今天实际表达的语气应分开理解，不必把古老字面含义带入每次交流。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/servus",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-de-broetchen",
+    "type": "fact",
+    "countries": [
+      "de",
+      "at"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Brötchen、Semmel：买小面包也有地区口音",
+    "subtitle": "德语 · 同类食物的地区称呼",
+    "description": "德语区的小面包有多个地区名称。Brötchen 很常见，奥地利和德国部分南部地区也常见 Semmel。",
+    "note": "在德国面包店学会 Brötchen 后，到了奥地利又看见 Semmel，并不意味着之前学错了。德语区存在许多区域性食物名称，同类小面包在不同地方可能用不同词来称呼；奥地利还常见具体品类名称 Kaisersemmel。\n这些词并不保证每家店卖的外形、配方都完全一样。最好结合柜台实物、商品标签和价格来点单；指着目标说 Dieses, bitte（请给我这个）往往比坚持某个地区词更实用。\n同样的区域差异也出现在咖啡、甜点和香肠名称上。旅行词典可以先提供广泛可理解的表达，再把当地常见叫法作为补充。不要把某一个城市的叫法当成全国统一标准，也不要仅凭名称相似就判断食材相同。",
+    "sources": [
+      [
+        "https://en.wiktionary.org/wiki/Semmel",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-de-compound",
+    "type": "fact",
+    "countries": [
+      "de",
+      "at"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "德语长词：先从最后一个词找线索",
+    "subtitle": "德语 · 复合词里的旅行提示",
+    "description": "德语常把多个词组合成一个词。看车站、博物馆和商店标识时，先辨认末尾的核心词很有帮助。",
+    "note": "Hauptbahnhof 可以拆成 Haupt（主要）和 Bahnhof（火车站），通常指中央或主要火车站；Kunstmuseum 由 Kunst（艺术）与 Museum（博物馆）组合。许多德语复合名词最后一部分决定它大体属于什么事物，前面的部分再缩小范围。\n因此遇到看似很长的标识，不必逐字母硬背。先找 Bahnhof、Museum、Straße、Platz 等熟悉部分，再结合所在位置理解。复合词中有时会出现连接成分，拼写也不是把中文逐字翻译后简单拼起来。\n这只是帮助阅读的技巧，不能保证所有词都能靠字面准确猜中。重要的票种、站名和路线仍应核对完整拼写；名称相近的车站也可能相距很远。先猜大类，再核对具体对象，是更可靠的旅行用法。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/German_grammar#Nouns",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-rs-scripts",
+    "type": "fact",
+    "countries": [
+      "rs"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Београд 和 Beograd，为什么是同一座城？",
+    "subtitle": "塞尔维亚语 · 两套字母",
+    "description": "塞尔维亚语同时使用西里尔字母和拉丁字母；Београд 与 Beograd 都表示贝尔格莱德。",
+    "note": "在塞尔维亚旅行，同一地点可能在路牌、菜单和手机地图上使用两种字母。Београд 与 Beograd 对应同一个城市名称，并不是两种不同语言。塞尔维亚语的西里尔字母与拉丁字母之间有系统的对应关系。\n塞尔维亚的官方使用以西里尔字母为重要基础，拉丁字母在日常媒体、网络和商业环境也很常见。不能因为看见拉丁字母就认定文本是英语，也不能认为所有标识都会提供两套写法。\n保存酒店、车站和目的地时，可以顺手保存两种本地写法，方便比对。拉丁写法里的 č、ć、š、ž、đ 等带符号字母也有区别；搜索时常能容错，但订票和核对专名时仍应优先保留原文。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/Serbian_language#Writing_system",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-si-dual",
+    "type": "fact",
+    "countries": [
+      "si"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "“我们俩”也有专门语法：斯洛文尼亚语双数",
+    "subtitle": "斯洛文尼亚语 · 两个人的表达",
+    "description": "斯洛文尼亚语除了单数、复数，还保留双数，用于恰好两个对象的许多表达。",
+    "note": "不少语言主要区分一个和多个，斯洛文尼亚语则还保留双数这一语法范畴。在适用的表达中，恰好两个人或两个事物会影响名词、代词以及相关词形，因此“我们俩”和“我们几个人”不只是换一个数字那么简单。\n这也是认识当地语言时很有趣的入口：即使暂时不会说，也能理解为什么两个人点餐时听到的形式，可能与一群人不同。具体变化需要结合性、格和句子结构学习，不能把所有词都机械套进一个双数后缀。\n双数并非斯洛文尼亚语独有，也不意味着当地人对所有自然成对事物都一律使用同一种形式。旅行者先学清楚“两张票”“两个人”等完整短语，比单独记一个语法标签更实用。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/Slovene_language#Dual",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-pl-lodz",
+    "type": "fact",
+    "countries": [
+      "pl"
+    ],
+    "cities": [],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "Ł 不是普通的 L：波兰语地名里的小机关",
+    "subtitle": "波兰语 · 字母与地名",
+    "description": "波兰语字母 ł 在现代标准发音中通常接近英语 w；看到带符号的字母时，不宜直接按英语读。",
+    "note": "波兰语的 ł 是独立字母，现代标准发音通常接近英语 w，而不是普通的 l。波兰语还使用 ą、ę、ć、ń、ó、ś、ź、ż 等字母，许多看起来细小的符号会影响发音和词形。\n旅行时可以把它当作辨认地名的提示，而不是必须一次学完的发音考试。车站电子屏和网络地址有时会省略附加符号，但正式地名的原始拼写仍值得保存。Łódź 是常被用来说明这些拼写特点的城市名称；这张卡片讨论全国语言特点，不代表本站已提供该城市完整指南。\n英语拼读习惯在这里未必适用，尤其不要把所有带符号字母当作装饰。出行前听一遍目的地的本地读音、保存文字与地图位置，通常比凭字母猜读更能帮助问路。",
+    "sources": [
+      [
+        "https://en.wikipedia.org/wiki/Polish_alphabet",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-cn-wu",
+    "type": "fact",
+    "countries": [
+      "cn"
+    ],
+    "cities": [
+      "suzhou",
+      "wuxi"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "苏州话与无锡话：同属吴语，也并非处处一样",
+    "subtitle": "地方语言 · 吴语与普通话",
+    "description": "苏州话、无锡话都属于吴语太湖片的重要地方变体，但词汇、声调与实际使用习惯存在差别。",
+    "note": "到了苏州和无锡，听见当地人交谈却难以用普通话逐字对应，是很正常的体验。两地的传统地方话都与吴语太湖片有关，但不能因为地理接近，就认为发音、词汇和声调完全相同；同一城市内部也可能有地方和代际差异。\n吴语的重要特点之一是保留了与中古全浊声母相关的区别，其具体语音实现需要看地方变体，不能简单理解成“把普通话说软一点”。游客可以从菜名、地名和街坊称呼开始听，不必急着模仿整句话。\n在现代城市服务场景中，普通话通常是很实用的沟通选择。介绍方言时，更适合呈现真实语境和可靠读音，而不是用普通话谐音标出一个看似准确、实际上容易误导的发音。",
+    "sources": [
+      [
+        "https://zh.wikipedia.org/wiki/吴语",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
+  },
+  {
+    "id": "language-cn-xuzhou",
+    "type": "fact",
+    "countries": [
+      "cn"
+    ],
+    "cities": [
+      "xuzhou"
+    ],
+    "category": "facts",
+    "subcategory": "language-fun",
+    "name": "同在江苏，徐州话为什么与苏州话差很多？",
+    "subtitle": "地方语言 · 省界与方言边界",
+    "description": "江苏不是一个单一方言区。徐州城区传统方言通常归入中原官话，苏州与无锡则与吴语相关。",
+    "note": "行政地图上的江苏省，并不对应一种统一的地方语言。徐州城区传统方言通常归入中原官话，苏州和无锡则属于吴语地区；南京等地又与江淮官话有关。由此可以理解，沿同一省份旅行，耳边的地方话也会有明显变化。\n方言边界通常不是沿着今天的省界整齐划分，历史人口流动、交通联系和地理环境都会留下影响。这里说的徐州城区也不等于整个地级市所有县区的语言情况完全一致，不同调查方案对边界与分片还可能有细节差异。\n旅行时可以把这种差别当作理解地方历史的线索，比较地名、市场叫卖和日常称呼。不要把“听起来像某省口音”直接等同于一个人的籍贯，也不要把普通话熟练程度当成评价地方文化的标准。",
+    "sources": [
+      [
+        "https://zh.wikipedia.org/wiki/徐州话",
+        "延伸阅读 · 语言与用法"
+      ]
+    ],
+    "aliases": [
+      "语言",
+      "方言",
+      "语言趣闻"
+    ]
   }
 ];
 
@@ -3322,5 +3583,125 @@ const knowledgeRelations = [
     "knowledge-hamburg-warehouse",
     "从餐桌追溯商品贸易",
     "把贸易史连接到饮食地理"
+  ],
+  [
+    "language-hu-szia",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-hu-szia",
+    "knowledge-hu-ottoman-buda",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-hu-order",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-hu-order",
+    "knowledge-hu-ottoman-buda",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-at-servus",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-at-servus",
+    "knowledge-vienna-1900",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-de-broetchen",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-de-broetchen",
+    "knowledge-vienna-1900",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-de-compound",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-de-compound",
+    "knowledge-vienna-1900",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-rs-scripts",
+    "knowledge-belgrade-confluence",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-rs-scripts",
+    "knowledge-belgrade-empires",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-si-dual",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-pl-lodz",
+    "knowledge-habsburg-compromise",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-cn-wu",
+    "knowledge-suzhou-canal",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-cn-wu",
+    "knowledge-suzhou-kunqu",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-cn-xuzhou",
+    "knowledge-suzhou-canal",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-cn-xuzhou",
+    "knowledge-suzhou-kunqu",
+    "继续认识当地文化",
+    "了解当地语言"
+  ],
+  [
+    "language-si-dual",
+    "brand-lidl",
+    "继续认识当地生活",
+    "了解当地语言"
+  ],
+  [
+    "language-pl-lodz",
+    "brand-lidl",
+    "继续认识当地生活",
+    "了解当地语言"
   ]
 ];

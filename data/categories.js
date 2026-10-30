@@ -343,6 +343,13 @@ const cardCategories = {
       "name": "寺庙 / 道观",
       "icon": "🏯",
       "description": "从建筑、信仰与地方文化认识寺观，参观时尊重宗教活动及拍摄规定。"
+    },
+    {
+      "id": "language-fun",
+      "category": "facts",
+      "name": "语言趣闻",
+      "icon": "💬",
+      "description": "从有趣的词语、方言、文字和称呼方式认识当地生活；区分通行表达与地区差异。"
     }
   ],
   "subcategoryAliases": {
