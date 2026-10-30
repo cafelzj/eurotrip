@@ -270,7 +270,7 @@ const cardCategories = {
     {
       "id": "facts",
       "category": "facts",
-      "name": "历史 / 地理 / 趣闻",
+      "name": "历史与地理",
       "icon": "📜",
       "description": "把有趣的线索放回历史和地理背景中，沿关联继续阅读。"
     },
