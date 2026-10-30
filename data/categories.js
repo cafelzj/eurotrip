@@ -36,8 +36,8 @@ const cardCategories = {
     {
       "id": "facts",
       "icon": "💡",
-      "name": "冷知识与人物",
-      "description": "从历史、地理和人物认识当地，也收录日常与应急提醒",
+      "name": "当地生活与文化",
+      "description": "落地实用信息、语言趣闻，以及历史、地理与当地人物",
       "prefix": "知",
       "color": "#73608b"
     }
@@ -350,6 +350,13 @@ const cardCategories = {
       "name": "语言趣闻",
       "icon": "💬",
       "description": "从有趣的词语、方言、文字和称呼方式认识当地生活；区分通行表达与地区差异。"
+    },
+    {
+      "id": "arrival",
+      "category": "facts",
+      "name": "入境与落地",
+      "icon": "🧳",
+      "description": "出发前和落地后的实用清单：入境、网络、插座、寄存、厕所、饮水、紧急求助及机场进城。政策、营业时间与服务状态请核对官方信息。"
     }
   ],
   "subcategoryAliases": {
