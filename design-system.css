@@ -405,3 +405,19 @@ button, summary, a { -webkit-tap-highlight-color: rgb(55 106 78 / 14%); }
   .floating-map { display: none; }
   [data-pointer-glow]::before { display: none; }
 }
+
+/* Phone pocket map: prioritize the map while keeping touch controls usable. */
+@media (max-width: 700px) {
+  #miniMapPanel { border-radius: 16px; }
+  .mini-map-heading { padding: 10px 12px 0; gap: 8px; align-items: center; }
+  .mini-map-heading small, #miniMapDescription { display: none; }
+  .mini-map-heading h2 { margin: 0; font-size: 17px; line-height: 1.4; }
+  .mini-map-heading > button { width: 44px; height: 44px; }
+  #miniMapLayers { flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain; gap: 6px; padding: 4px 12px 8px; }
+  #miniMapLayers label { flex: 0 0 auto; min-height: 44px; box-sizing: border-box; padding: 6px 8px; font-size: 14px; }
+  #miniMapLayers small { font-size: 14px; }
+  #miniMapCanvas { height: min(42dvh, 340px); }
+  .mini-map-footer { padding: 8px; gap: 5px; }
+  .mini-map-footer button, .mini-map-footer a { min-height: 44px; box-sizing: border-box; display: inline-flex; align-items: center; padding: 6px; font-size: 14px; }
+  #miniMapNotice { padding: 0 12px 8px; font-size: 14px; line-height: 1.5; }
+}
