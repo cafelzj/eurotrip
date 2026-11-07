@@ -1,0 +1,16 @@
+.landmark-art { margin: 0 0 14px; min-width: 0; flex-shrink: 0; }
+.landmark-art-frame { position: relative; aspect-ratio: 3 / 2; overflow: hidden; border-radius: 12px; background: #eeeade; }
+.landmark-art img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.landmark-art img[hidden], .landmark-art-fallback[hidden] { display: none; }
+.landmark-art figcaption { margin-top: 6px; color: #586154; font-size: 13px; line-height: 1.5; letter-spacing: 0; }
+.landmark-art-fallback { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; padding: 12px; color: #586154; font-size: 14px; }
+.landmark-art-fallback > span { font-size: 28px; }
+.landmark-art-detail { margin: 20px 0 24px; }
+.landmark-art-detail .landmark-art-frame { border-radius: 16px; }
+.landmark-art-detail figcaption { font-size: 14px; }
+@media (max-width:700px) {
+ .landmark-art { margin-bottom: 10px; }
+ .landmark-art-frame { border-radius: 9px; }
+ .landmark-art-detail { margin: 14px 0 18px; }
+ .landmark-art-detail .landmark-art-frame { border-radius: 12px; }
+}
