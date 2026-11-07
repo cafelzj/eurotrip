@@ -107,6 +107,12 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 脚本缓存位于 `/tmp/eurotrip-country-research/`，输出匈牙利原有三个数字文件和德国/奥地利的 `data/produce-country-data.js`，读取 `data/produce-countries.js` 中的国家/食材配置。固定上游提交并验证既有哈希；Eurostat使用仓库中的已读原始快照以重现本次结果，更新快照需重新读取、核对元数据与修订并重新生成。旧两个单国脚本保留变量/产品清单，统一刷新请用上述三国脚本。所有下载保持TLS验证和环境代理。
 
+## 人物与美食图片
+
+首批为全部 58 张人物卡与 133 张美食、饮品和零售商品卡配图，共复用 163 个 Wikimedia Commons 文件。美食采用真实照片；人物使用有来源的照片、历史绘画或雕塑。详情显示作者、许可与原始文件页，列表按需加载，人物与包装完整显示，图片失败后保留占位和正文。其余 41 张条目暂保留文字，避免同名误配、品牌错配或用相近菜式代替。
+
+素材目录在 `data/card-images.js`，展示在 `card-images.js` / `card-images.css`；选图规则及当前网络验证范围见 [配图说明](docs/card-images.md)。图片由访问者浏览器请求 Wikimedia CDN，当前执行环境限制了该域名的直接访问；受控图片测试不代表已验证真实 CDN 的浏览器加载。
+
 ## 地图与动态门店
 
 右下角「随身地图」默认收起，展开时初始化，收起时销毁；桌面默认宽 460px、画布高 340px，可继续放大。五个一级分类分别作为图层，名称、图标、颜色和编号前缀共用分类配置。每个固定 POI 使用对应卡片的名称、编号、图标、简介和详情链接，不沿关联卡片展开多个点；无地点的详情不会显示虚构大头针。国家和城市模式都提供「打开地图页面」入口。词典与完整地图页隐藏随身地图。
@@ -225,6 +231,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 ```sh
 node tests/data-integrity.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/card-images.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/design-system.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/spotlight.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-feed.cjs
