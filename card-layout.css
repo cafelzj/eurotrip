@@ -44,27 +44,6 @@
 .hub-card-bottom{align-items:center;gap:12px;padding-top:14px}.hub-detail-action{font-size:13px;font-weight:500;line-height:1.7}.hub-card-bottom .card-pin-action{font-size:12px;padding:7px 10px;border:1px solid var(--card-line,#dce3d4);border-radius:7px;background:transparent}
 @media(max-width:760px){.entity-detail{padding:22px}.entity-header h1{font-size:26px}.entity-overview.has-media{grid-template-columns:1fr;gap:24px}.entity-media{max-width:540px;width:100%;margin:auto}.entity-media .entity-image.card-image-portrait .card-image-frame{max-height:330px}.entity-intro .entity-description,.entity-reading-section p{font-size:16px}.entity-action-buttons{gap:8px}.entity-action-buttons .entity-primary,.entity-action-buttons .entity-secondary{font-size:13px!important}.entity-header .entity-ownership{gap:10px}.entity-reading-section{padding:21px 0}.entity-mini-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.entity-section-title{align-items:flex-start;gap:10px;flex-wrap:wrap}.entity-section-title h2{font-size:20px}}
 @media(max-width:420px){.entity-detail{padding:19px}.entity-mini-grid{grid-template-columns:1fr}.entity-header .entity-local{font-size:17px}.card-feed .hub-card .hub-card-title h4{font-size:17px}}
-/* Magazine lists: the image, headline and rule carry the hierarchy. */
-.hub-card[data-card-theme],.card-feed .hub-card[data-card-theme]{border:0;border-top:1px solid #d8dfd6;border-radius:0;background:transparent;box-shadow:none;padding:18px 0 14px;transform:none}
-.hub-card[data-card-theme]:hover{box-shadow:none;transform:none;background:transparent}
-.hub-card .card-image-frame,.hub-card .landmark-art-frame{border-radius:3px;border:0}
-.hub-card .card-image,.hub-card .landmark-art{margin-bottom:14px}
-.hub-card[data-card-theme] .hub-card-meta>span{background:none;padding:0;border-radius:0;font-size:12px;font-weight:500;letter-spacing:.5px}
-.hub-card-meta i{display:none}.hub-card .hub-card-meta small{font-size:12px;color:#788174}
-.hub-card[data-card-theme] .hub-card-title h4{font:600 21px/1.6 Georgia,'Noto Serif CJK SC','Songti SC',serif;color:#2e483b;margin:10px 0 7px}
-.hub-card-title:hover{text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:1px}
-.hub-card>p,.card-feed .hub-card>p{font-size:14px;line-height:1.9;margin:9px 0 14px;-webkit-line-clamp:3}
-.hub-card-bottom{border-top:0!important;padding-top:5px;gap:8px}.hub-detail-action{font-size:12px;color:#506950}
-.hub-card-bottom .card-pin-action{border:0;border-radius:0;padding:5px 0;color:#71806e;background:none}
-.hub-card-grid{gap:22px;align-items:stretch}.card-feed-grid{column-gap:24px}
-.hub-subgroup{border:0;border-top:1px solid #d7dfd3;border-radius:0;background:transparent;box-shadow:none}
-.hub-subgroup>summary{padding:17px 0;background:none;border-radius:0}.hub-subgroup-body{padding:0 0 16px}
-.hub-section-heading h3{font-family:Georgia,'Noto Serif CJK SC','Songti SC',serif;font-size:23px}
-.hub-subgroup-description{max-width:80ch;font-size:13px;line-height:1.9}
-.entity-detail[data-card-theme]{border:0;border-top:1px solid #d9dfd5;border-radius:0;box-shadow:none;background:transparent}
-.entity-mini[data-card-theme]{border:0;border-top:1px solid #d8dfd6;border-radius:0;background:transparent;box-shadow:none;padding:16px 0;transform:none}
-.entity-mini b{font-family:Georgia,'Noto Serif CJK SC','Songti SC',serif}
-@media(max-width:700px){.hub-card-grid{gap:18px}.card-feed-grid{column-gap:18px}.card-feed .hub-card[data-card-theme]{padding:14px 0 12px}.hub-card[data-card-theme] .hub-card-title h4{font-size:18px}.card-feed .hub-card>p{font-size:14px;line-height:1.85}.hub-card .hub-local{font-size:12px}.hub-card .hub-card-meta{gap:5px}.hub-section-heading h3{font-size:21px}}
 /* The primary menu shares the masthead. */
 body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-items:center;position:relative;z-index:160;overflow:visible}
 .site-header .brand{flex-shrink:0;font-size:22px;white-space:nowrap}.site-header .brand small{font-size:11px;letter-spacing:1.8px}
@@ -77,7 +56,29 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 .site-header .mode-tabs{min-width:0}
 @media(max-width:700px){.site-header .mode-tabs{display:grid;grid-template-columns:1.2fr 1.1fr 1.1fr 1fr .65fr;flex:1 1 100%;width:100%;min-width:0;gap:2px}.site-header .mode-tabs>.country-mode-control,.site-header .mode-tabs>button{grid-column:auto;min-width:0;width:auto}.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{width:100%;min-width:0;padding:8px 2px;font-size:12px}.site-header .mode-tabs .country-mode-control>button{overflow:hidden;text-overflow:ellipsis}.site-header .mode-tabs .country-menu>button{overflow:visible;white-space:normal;text-overflow:clip}}
 @media(max-width:360px){.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{font-size:11px;padding:8px 1px}.site-header .mode-tabs .mode-beta{font-size:8px;padding:1px}}
-.destination-gallery>a.destination-city-card{border:0;border-top:1px solid #d8dfd6;border-radius:0;background:transparent;box-shadow:none;padding-top:16px}
-.destination-gallery>a.destination-city-card:hover{box-shadow:none;transform:none;background:transparent}
-.destination-gallery .destination-city-visual{border-radius:3px}.destination-gallery .destination-city-copy{padding:20px 0 16px}
-.destination-gallery>a.destination-city-card.active{box-shadow:none;border-top:2px solid #56775c}
+/* Keep the familiar card surfaces; reduce only their radius and spacing. */
+.hub-card[data-card-theme],.card-feed .hub-card[data-card-theme]{border-radius:8px;padding:17px}
+.hub-card .card-image-frame,.hub-card .landmark-art-frame{border-radius:5px}
+.hub-subgroup{border-radius:8px}.hub-subgroup>summary{padding:13px 15px}.hub-subgroup-body{padding:12px}
+.entity-detail[data-card-theme]{border-radius:10px;padding:24px}
+.entity-mini[data-card-theme]{border-radius:6px;padding:14px}
+.destination-gallery>a.destination-city-card{border-radius:8px}.destination-gallery .destination-city-copy{padding:16px 18px}
+.destination-hero.destination-intro-merged{display:block;grid-template-columns:none;margin:4px 0 20px;padding:22px 25px;border-radius:10px}
+.destination-hero.destination-intro-merged:after{display:none}
+.destination-hero.destination-intro-merged>div{max-width:none;width:100%}
+.destination-intro-merged .guide-kicker{display:none}
+.destination-hero.destination-intro-merged h1{font-size:34px;line-height:1.4;margin:0 0 10px;letter-spacing:-.8px}
+.destination-hero.destination-intro-merged h1 small{font-size:21px}
+.destination-hero.destination-intro-merged p{font-size:15px;line-height:1.85;margin:0 0 14px;max-width:85ch}
+.destination-header-actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;font-size:12px}
+.destination-header-actions>a{font-size:13px!important}
+.destination-header-actions .destination-overview{display:inline-flex;align-items:center;padding:7px 12px;border:1px solid #cbd7c7;border-radius:6px;text-decoration:none;color:#4e6b50}
+.destination-header-actions .destination-overview.active{background:#e9efe2}
+.destination-header-actions>span{margin-left:auto;color:#7b8776;font-size:12px}
+.destination-picker:has(.destination-gallery){margin:0 0 28px}
+@media(max-width:700px){.hub-card[data-card-theme],.card-feed .hub-card[data-card-theme]{padding:14px}.entity-detail[data-card-theme]{padding:18px}.destination-hero.destination-intro-merged{padding:17px;margin:4px 0 15px}.destination-hero.destination-intro-merged h1{font-size:27px}.destination-hero.destination-intro-merged h1 small{font-size:16px}.destination-hero.destination-intro-merged p{font-size:15px;margin-bottom:12px}.destination-header-actions{gap:10px 15px}.destination-header-actions>span{display:none}.destination-gallery .destination-city-copy{padding:15px}.hub-subgroup-body{padding:10px}}
+.entity-actions{gap:12px}.entity-action-group{padding:0;border:0}.entity-action-buttons .entity-primary,.entity-action-buttons .entity-secondary{min-height:38px;padding:8px 12px!important}.entity-action-buttons .entity-ai-copy{min-height:38px;padding:8px 3px}.entity-actions .entity-ai-copy-fallback{margin:10px 0 0}
+.hub-card .card-image-frame{aspect-ratio:4/3}
+.hub-card[data-card-theme] .hub-card-title h4{font-family:inherit;font-size:18px;line-height:1.7;font-weight:600;color:var(--card-accent,#365131)}
+.hub-card>p{font-size:var(--text-body);line-height:1.9;-webkit-line-clamp:3}
+@media(max-width:700px){.card-feed .hub-card>p{font-size:15px}.card-feed .hub-card .hub-card-title h4{font-size:17px}}

@@ -32,7 +32,7 @@ window.CardAI=(()=>{
   ].filter(Boolean).join('\n\n');
  }
  function chatUrl(node){return 'https://chatgpt.com/?q='+encodeURIComponent(prompt(node));}
- function actions(node){return `<a class="entity-secondary entity-ai-link" href="${h(chatUrl(node))}" target="_blank" rel="noopener noreferrer" data-ai-intro="${h(node.id)}">ChatGPT 延伸阅读 ↗</a><button type="button" class="entity-ai-copy" data-ai-copy="${h(node.id)}">复制提示词</button><span class="entity-ai-status" role="status" aria-live="polite"></span>`;}
+ function actions(node){return `<a class="entity-secondary entity-ai-link" href="${h(chatUrl(node))}" target="_blank" rel="noopener noreferrer" data-ai-intro="${h(node.id)}">问 ChatGPT ↗</a><button type="button" class="entity-ai-copy" data-ai-copy="${h(node.id)}">复制问题</button><span class="entity-ai-status" role="status" aria-live="polite"></span>`;}
  document.addEventListener('click',async event=>{
   const button=event.target.closest('[data-ai-copy]');if(!button)return;
   const node=CardGraph.nodes.get(button.dataset.aiCopy),article=button.closest('.entity-detail');if(!node||!article)return;
@@ -40,12 +40,12 @@ window.CardAI=(()=>{
   try{
    if(!navigator.clipboard?.writeText)throw Error('clipboard unavailable');
    await navigator.clipboard.writeText(text);
-   if(article.isConnected){status.textContent='已复制，可粘贴到其他大模型。';article.querySelector('.entity-ai-copy-fallback')?.remove();}
+   if(article.isConnected){status.textContent='已复制';article.querySelector('.entity-ai-copy-fallback')?.remove();}
   }catch{
    if(article.isConnected){
     let panel=article.querySelector('.entity-ai-copy-fallback');
-    if(!panel){panel=document.createElement('div');panel.className='entity-ai-copy-fallback';panel.innerHTML='<label>生成介绍的提示词<textarea readonly rows="7" aria-label="生成介绍的提示词"></textarea></label>';article.querySelector('.entity-ai-note').after(panel);}
-    const field=panel.querySelector('textarea');field.value=text;field.focus();field.select();status.textContent='请用 Ctrl+C 或 ⌘C 复制已选内容。';
+    if(!panel){panel=document.createElement('div');panel.className='entity-ai-copy-fallback';panel.innerHTML='<label>问题内容<textarea readonly rows="7" aria-label="生成介绍的提示词"></textarea></label>';article.querySelector('.entity-ai-tools').append(panel);}
+    const field=panel.querySelector('textarea');field.value=text;field.focus();field.select();status.textContent='按 Ctrl+C / ⌘C 复制';
    }
   }finally{button.disabled=false;}
  });

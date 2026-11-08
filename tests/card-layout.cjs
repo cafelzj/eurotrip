@@ -10,6 +10,6 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
  }
  await go('place-innsbruck-4');await p.locator('.entity-map-tools [data-map-card]').click();assert(await p.locator('.leaflet-popup-content').count());await p.locator('#miniMapClose').click();
  await p.setViewportSize({width:1440,height:1050});await p.screenshot({path:'/tmp/card-layout-desktop.png',fullPage:true});await p.setViewportSize({width:390,height:1000});await p.screenshot({path:'/tmp/card-layout-mobile.png',fullPage:true});
- await p.goto(base+'/#guide/hu/budapest?view=waterfall');await settle(p);assert.equal(await p.locator('.hub-detail-action').count(),await p.locator('.card-feed-item').count());assert(await p.locator('.hub-card').evaluateAll(es=>es.every(e=>getComputedStyle(e).borderRadius==='0px')));assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));assert.deepEqual(errors,[]);
- console.log('PASS full editorial coverage, museum sources, all card types, header/media separation at four widths, grouped map/GPT controls, map preview and magazine feed');
+ await p.goto(base+'/#guide/hu/budapest?view=waterfall');await settle(p);assert.equal(await p.locator('.hub-detail-action').count(),await p.locator('.card-feed-item').count());assert(await p.locator('.hub-card').evaluateAll(es=>es.every(e=>getComputedStyle(e).borderRadius==='8px')));assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));assert.deepEqual(errors,[]);
+ console.log('PASS full editorial coverage, museum sources, all card types, header/media separation at four widths, grouped map/GPT controls, map preview and compact bordered feed');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});
