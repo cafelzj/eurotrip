@@ -9,8 +9,10 @@
       "无明显反光遮挡、杂乱背景、过大留白或不合适的裁切"
     ],
     "visualAuditComplete": false,
-    "blocker": "Wikimedia 原图服务连续三轮返回 HTTP 429，每次 Retry-After: 600 秒；已按要求等待并降至串行 12 秒/图，仍再次限流。剩余原图未取得，补图候选尚未视觉审核。",
-    "reviewMethod": "原图下载后逐张检查缩放视图，疑点单独放大；来源核对和程序测试不替代视觉判断。"
+    "blocker": null,
+    "reviewMethod": "原图下载后逐张检查缩放视图，疑点单独放大；来源核对和程序测试不替代视觉判断。",
+    "previousDownloadBlocker": "Wikimedia 原图服务连续三轮返回 HTTP 429，每次 Retry-After: 600 秒；已按要求等待并降至串行 12 秒/图，仍再次限流。剩余原图未取得，补图候选尚未视觉审核。",
+    "pendingReason": "上一轮美食下载曾遇 Wikimedia 429 限流；本轮交通原图已恢复下载。美食剩余 65 张仍待继续原图视觉审核，不能视为通过。"
   },
   "rejected": [
     {

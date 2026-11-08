@@ -115,9 +115,9 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 原有 99 张食物/产品照片中，已下载并目视审核 33 张，保留 15 张、淘汰 18 张；另撤下 1 张来源已确认主题错配的照片。剩余 65 张仍待视觉审核，不能把图片配置数量当成质量通过数量。27 张补图候选尚未通过视觉审核，也未加入网站。完整记录见 `docs/food-photo-review.json` 和 `docs/food-photo-candidates.json`。
 
-素材目录在 `data/card-images.js`，展示在 `card-images.js` / `card-images.css`；选图规则及网络验证范围见 [配图说明](docs/card-images.md)。本轮环境已能访问 Wikimedia，但原图服务连续返回 HTTP 429、要求每次等待 600 秒，降低下载频率后仍再次限流，整批清洗和补图尚未完成。受控图片测试只验证展示行为，不代表真实照片质量或 CDN 浏览器加载已通过。
+素材目录在 `data/card-images.js`，展示在 `card-images.js` / `card-images.css`；选图规则及网络验证范围见 [配图说明](docs/card-images.md)。上一轮美食原图下载曾连续遇到 HTTP 429，要求每次等待 600 秒；本轮交通原图已恢复下载并完成补图，美食剩余 65 张仍待继续视觉审核，不能视为通过。受控图片测试只验证展示行为，不代表真实照片质量或 CDN 浏览器加载已通过。
 
-奥地利另有 9 张车站与机场卡片补入经过原图视觉审核的真实照片，使用本地 WebP。拍摄年份、作者、来源及各自许可保留；记录见 `docs/transport-photo-review.json`，其他国家的交通地点仍需补图。
+全站 59 张固定交通地点均已配图，包含全部 57 张机场、火车站卡片，以及轮渡码头和换乘区各 1 张。58 张使用经过原图视觉审核的实拍，塞格德机场使用明确标注“非实景”的 OpenStreetMap 数据位置图；全部保存在本地。拍摄年份、作者或指定署名、来源及各自许可保留，塞格德火车站配置同站多图；记录见 `docs/transport-photo-review.json`。
 
 ## 地图与动态门店
 
