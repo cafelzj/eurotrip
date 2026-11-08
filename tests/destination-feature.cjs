@@ -20,8 +20,10 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
  await p.locator('#hubSearch').focus();assert.equal(await p.locator('#hubSearch').evaluate(e=>getComputedStyle(e).outlineStyle),'none');assert.notEqual(await p.locator('.hub-search').evaluate(e=>getComputedStyle(e).boxShadow),'none');
  for(const country of ['hu','at','de','rs','si','pl']){
   await p.goto(base+'/#guide/'+country);await settle(p);assert.equal(await p.locator('.destination-feature-visual img').count(),1,country+' has one image');
-  const buttons=p.locator('.destination-switcher button');for(let i=0;i<await buttons.count();i++){await buttons.nth(i).click();await settle(p);assert.equal(await p.locator('.destination-feature-visual img').count(),1);}
-  for(const width of [1440,768,390,320]){await p.setViewportSize({width,height:1000});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),country+' fits '+width);}
+  const countryImage=await p.locator('.destination-feature-visual img').getAttribute('src');assert(countryImage.startsWith('assets/countries/'),'country overview uses its own cover');await p.waitForFunction(()=>{const image=document.querySelector('.destination-feature-visual img');return image.complete&&image.naturalWidth>0;});
+  const buttons=p.locator('.destination-switcher button');for(let i=0;i<await buttons.count();i++){await buttons.nth(i).click();await settle(p);assert.equal(await p.locator('.destination-feature-visual img').count(),1);if(i>0)assert.notEqual(await p.locator('.destination-feature-visual img').getAttribute('src'),countryImage,'city never reuses the country cover');}
+  await buttons.first().click();await settle(p);assert.equal(await p.locator('.destination-feature-visual img').getAttribute('src'),countryImage,'return restores the country cover');
+  for(const width of [1440,768,390,320]){await p.setViewportSize({width,height:1000});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),country+' fits '+width);assert(await p.locator('.destination-switcher button').evaluateAll(es=>es.every(e=>parseFloat(getComputedStyle(e).fontSize)>=14)),'city names stay legible');}
  }
- assert.deepEqual(errors,[]);console.log('PASS single-image city feature, six countries, in-place scopes, filters, scroll, history, reload, compact focus and four widths');
+ assert.deepEqual(errors,[]);console.log('PASS independent country covers and legible city names, single-image city feature, six countries, in-place scopes, filters, scroll, history, reload, compact focus and four widths');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});

@@ -83,10 +83,16 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 .hub-card>p{font-size:var(--text-body);line-height:1.9;-webkit-line-clamp:3}
 @media(max-width:700px){.card-feed .hub-card>p{font-size:15px}.card-feed .hub-card .hub-card-title h4{font-size:17px}}
 
-/* Location on the left, category label on the right in both list modes. */
-.hub-card .hub-card-meta{flex-wrap:nowrap;align-items:flex-start;gap:10px}
-.hub-card .hub-card-meta>small{flex:1;min-width:0;max-width:none;text-align:left;overflow-wrap:anywhere}
-.hub-card .hub-card-meta>span{flex:0 1 auto;max-width:65%;margin-left:auto;text-align:right}
+/* Titles and subtitles on the left; category and destination on the right. */
+.hub-card-header{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px}
+.hub-card-heading{flex:1;min-width:0}
+.hub-card .hub-card-header .hub-card-title h4{margin:0;line-height:1.6;overflow-wrap:anywhere}
+.hub-card-header .hub-local{margin-top:4px}
+.hub-card .hub-card-header .hub-card-meta{display:flex;flex-direction:column;align-items:flex-end;flex:0 1 auto;flex-wrap:nowrap;gap:7px;max-width:42%;min-width:60px;margin:0;text-align:right}
+.hub-card .hub-card-header .hub-card-meta>span{flex:none;max-width:100%;margin:0;text-align:right;line-height:1.5}
+.hub-card .hub-card-header .hub-card-meta>small{flex:none;min-width:0;max-width:100%;text-align:right;overflow-wrap:anywhere;font-size:12px;line-height:1.6}
+@media(max-width:700px){.hub-card-header{gap:10px;margin-bottom:12px}.hub-card .hub-card-header .hub-card-title h4{font-size:17px}.hub-card .hub-card-header .hub-card-meta{gap:6px}.hub-card .hub-card-header .hub-card-meta>span{font-size:12px;padding:4px 6px}}
+@media(max-width:600px){.card-feed-grid{--feed-columns:1}}
 /* Keep ownership beside the title instead of extending the title stack. */
 .entity-header{display:grid;grid-template-columns:minmax(0,1fr) minmax(180px,auto);column-gap:24px;align-items:start}
 .entity-header>.entity-kind,.entity-header>h1,.entity-header>.entity-local,.entity-header>.entity-subtitle{grid-column:1}
@@ -110,5 +116,6 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 /* Keep the pocket map available without covering the collection. */
 .floating-map #miniMapToggle{min-height:40px;padding:7px 12px;gap:7px;border-radius:10px;box-shadow:0 3px 12px rgb(35 66 49 / 9%);font-size:14px;line-height:1.4}
 .floating-map #miniMapToggle>span{font-size:18px;line-height:1}
+.mini-map-icon{display:block;flex-shrink:0;color:currentColor}
 .floating-map #miniMapToggle>small{padding-left:8px;font-size:12px}
 @media(max-width:700px){.floating-map #miniMapToggle{min-height:40px;padding:7px 10px;font-size:13px}.floating-map #miniMapToggle>small{font-size:11px}}

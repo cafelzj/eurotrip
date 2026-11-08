@@ -100,20 +100,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Chicken_Paprikash_(Csirke_Paprik%C3%A1s).jpg",
       "checked": "2026-11-07"
     },
-    "img-fccd07476c2b": {
-      "file": "Pot_of_Hungarian_Fisherman's_Soup_(Halászlé,_Karpfensuppe).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pot_of_Hungarian_Fisherman%27s_Soup_%28Hal%C3%A1szl%C3%A9%2C_Karpfensuppe%29.jpg",
-      "width": 960,
-      "height": 1280,
-      "kind": "food",
-      "alt": "塞格德鱼汤（szegedi halászlé）实拍",
-      "caption": "塞格德鱼汤（szegedi halászlé） · 实拍",
-      "author": "Wikiuser100",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Pot_of_Hungarian_Fisherman%27s_Soup_(Hal%C3%A1szl%C3%A9,_Karpfensuppe).jpg",
-      "checked": "2026-11-07"
-    },
     "img-f8712dad2a01": {
       "file": "Wiener-Schnitzel02.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/960px-Wiener-Schnitzel02.jpg",
@@ -518,20 +504,6 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-ed0cbb80cc77": {
-      "file": "PEZ_Candy_Pieces.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PEZ_Candy_Pieces.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "product",
-      "alt": "PEZ 糖果实拍",
-      "caption": "PEZ 糖果 · 实拍",
-      "author": "B9hetare",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:PEZ_Candy_Pieces.jpg",
       "checked": "2026-11-07"
     },
     "img-15b4aad7175a": {
@@ -2254,7 +2226,6 @@ const cardImages = {
     "food-debrecen-3": "img-a41b3049ab1b",
     "food-debrecen-4": "img-6e306dd06365",
     "food-debrecen-5": "img-fac9e8aaf568",
-    "food-szeged-0": "img-fccd07476c2b",
     "food-szeged-3": "img-302656b83d0f",
     "food-szeged-4": "img-6e306dd06365",
     "food-szeged-5": "img-fac9e8aaf568",
@@ -2303,7 +2274,6 @@ const cardImages = {
     "food-product-eros-pista": "img-875267846d00",
     "food-product-manner-wafer": "img-20458d72c210",
     "food-product-almdudler-soda": "img-7739e5873d86",
-    "food-product-pez-candy": "img-ed0cbb80cc77",
     "food-product-ritter-chocolate": "img-15b4aad7175a",
     "food-product-leibniz-biscuit": "img-f15d19a643c3",
     "food-product-club-mate": "img-571135b3bcad",
@@ -2352,7 +2322,6 @@ const cardImages = {
     "food-budapest-hortobagy": "img-d25fe539ee71",
     "food-budapest-turos-csusza": "img-a003d1f02d72",
     "food-budapest-lecso": "img-7d3f5d42a263",
-    "food-budapest-fish-soup": "img-fccd07476c2b",
     "food-budapest-somloi": "img-38f929355550",
     "food-budapest-retes": "img-8b69cb9844fe",
     "food-budapest-beigli": "img-1e519e0a9c9f",

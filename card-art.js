@@ -2,8 +2,9 @@
 window.CardArt=(()=>{
  const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  function get(node){return node?.category==='places'&&Object.hasOwn(landmarkArt,node.id)?landmarkArt[node.id]:null;}
- function render(node,detail=false){
-  const art=get(node);if(!art)return '';
+ function getCountry(country){return typeof countryArt!=='undefined'?countryArt[country?.id]||null:null;}
+ function renderArtwork(art,detail=false){
+  if(!art)return '';
   const columns=art.columns===2?2:1,rows=art.rows===2?2:1,panel=Number.isInteger(art.panel)?art.panel:0;
   const x=-(panel%columns)*100/columns,y=-Math.floor(panel/columns)*100/rows;
   const position=`--art-columns:${columns};--art-rows:${rows};--art-x:${x}%;--art-y:${y}%`;
@@ -16,5 +17,7 @@ window.CardArt=(()=>{
   const figure=image.closest('.landmark-art');if(!figure)return;
   image.hidden=true;figure.querySelector('.landmark-art-fallback').hidden=false;
  },true);
- return {get,render};
+ const render=(node,detail=false)=>renderArtwork(get(node),detail);
+ const country=country=>renderArtwork(getCountry(country),true);
+ return {get,getCountry,render,country};
 })();
