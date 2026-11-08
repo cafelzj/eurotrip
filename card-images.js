@@ -12,6 +12,6 @@ window.CardImages=(()=>{
  document.addEventListener('keydown',event=>{const button=event.target.closest('[data-photo-index]');if(!button||!['ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;event.preventDefault();const figure=button.closest('[data-photo-card]'),buttons=[...figure.querySelectorAll('[data-photo-index]')],index=event.key==='Home'?0:event.key==='End'?buttons.length-1:(Number(button.dataset.photoIndex)+(event.key==='ArrowRight'?1:-1)+buttons.length)%buttons.length;select(figure,index);buttons[index].focus({preventScroll:true});});
  // Capture image errors because they do not bubble. Keep the reserved frame so
  // a failed remote image never changes the feed's measured card heights.
- document.addEventListener('error',e=>{const img=e.target;if(!img.matches?.('.card-image img'))return;const frame=img.closest('.card-image-frame');frame.classList.add('is-unavailable');img.hidden=true;frame.querySelector('.card-image-fallback').hidden=false;},true);
+ document.addEventListener('error',e=>{const img=e.target;if(!img.matches?.('.card-image img'))return;const frame=img.closest('.card-image-frame');img.hidden=true;if(!frame){img.closest('[data-photo-index]')?.classList.add('is-unavailable');return;}frame.classList.add('is-unavailable');frame.querySelector('.card-image-fallback').hidden=false;},true);
  return {get,getAll,card,detail};
 })();
