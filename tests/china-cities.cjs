@@ -33,7 +33,7 @@ const settle=require('./wait-for-route.cjs'),openMapBranch=require('./open-map-b
   assert(await p.evaluate(()=>[...document.querySelectorAll('[data-map-leaf]')].every(e=>CardGraph.nodes.get(e.dataset.mapLeaf)?.country==='cn')));
   await openMapBranch(p,'[data-layer-focus="venue-suzhou-museum"]');await p.locator('[data-layer-focus="venue-suzhou-museum"]').click();
   assert((await p.locator('.poi-popup').innerText()).includes('苏州博物馆'));await p.locator('.poi-popup a[href="#card/venue-suzhou-museum"]').click();await settle(p);
-  assert((await p.locator('.entity-breadcrumb').innerText()).includes('中国城市'));assert.equal(await p.locator('.entity-breadcrumb a').last().getAttribute('href'),'#china/jiangsu/suzhou');
+  assert.equal(await p.locator('.entity-breadcrumb').count(),0);assert.equal(await p.locator('.entity-ownership a[href="#china/jiangsu/suzhou"]').count(),1);
   await p.reload();assert.equal(await p.locator('#chinaMode').getAttribute('aria-pressed'),'true');
   await p.goto(base+'/#card/person-suzhou-pei');assert((await p.locator('.entity-description').innerText()).includes('出生于广州'));await p.locator('.entity-relations a[href="#card/venue-suzhou-museum"]').click();await settle(p);assert.equal(await p.locator('.entity-detail').getAttribute('data-entity-id'),'venue-suzhou-museum');
   await p.goto(base+'/#card/food-suzhou-noodles');assert.equal(await p.locator('.entity-actions [data-map-card],.entity-actions a[href^="#map/"]').count(),0);

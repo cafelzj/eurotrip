@@ -25,8 +25,8 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   assert((await p.locator('.poi-popup').innerText()).includes('宜兴竹海'));
   assert(await p.evaluate(()=>[...document.querySelectorAll('[data-map-leaf]')].every(e=>CardGraph.nodes.get(e.dataset.mapLeaf).city==='yixing')));
   await p.locator('.poi-popup a[href="#card/venue-yixing-highlight"]').click();await settle(p);
-  assert.equal(await p.locator('.entity-breadcrumb a').last().getAttribute('href'),'#china/jiangsu/wuxi/yixing');
-  assert((await p.locator('.entity-breadcrumb').innerText()).includes('无锡市'));
+  assert.equal(await p.locator('.entity-ownership a[href="#china/jiangsu/wuxi/yixing"]').count(),1);
+  assert.equal(await p.locator('.entity-breadcrumb').count(),0);
   const groups={suzhou:['kunshan','changshu','zhangjiagang','taicang'],xuzhou:['fengxian','peixian','suining','xinyi','pizhou'],wuxi:['jiangyin','yixing']};
   for(const [city,counties]of Object.entries(groups)){
    await p.goto(base+'/#china/jiangsu/'+city);
@@ -39,7 +39,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    await p.selectOption('#chinaCounty',city);await settle(p);assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),city);
   }
   await p.goto(base+'/#china/jiangsu/wuxi');await p.goto(base+'/#card/venue-suzhou-museum');
-  assert((await p.locator('.entity-breadcrumb a').first().getAttribute('href')).startsWith('#china/jiangsu/suzhou'));
+  assert((await p.evaluate(()=>KnowledgeHub.returnUrl(CardGraph.nodes.get('venue-suzhou-museum')))).startsWith('#china/jiangsu/suzhou'));
   await p.goto(base+'/#china/wuxi');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi');
   await p.goto(base+'/#china/yixing');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi/yixing');
   await p.selectOption('#chinaPrefecture','xuzhou');await settle(p);assert.equal(await p.locator('#chinaCounty').inputValue(),'xuzhou');

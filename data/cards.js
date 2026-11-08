@@ -7075,21 +7075,6 @@ const travelCards = [
     "subcategory": "daily"
   },
   {
-    "id": "tip-common-bill",
-    "type": "tip",
-    "name": "结账前先看账单，再决定是否给小费",
-    "description": "先看是否已有服务费、每项收费是否清楚，再根据当地习惯和服务决定是否留小费。不要把固定百分比当作所有餐馆的统一规则。",
-    "note": "有疑问可问：“Is service included?”（已含服务费吗？）",
-    "sources": [],
-    "countries": [
-      "hu",
-      "at",
-      "de"
-    ],
-    "category": "food",
-    "subcategory": "dining-tips"
-  },
-  {
     "id": "tip-city-budapest",
     "type": "tip",
     "country": "hu",

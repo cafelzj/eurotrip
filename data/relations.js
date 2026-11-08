@@ -7,36 +7,12 @@ const cardRelations = [
     "关联风味（不保证供应）"
   ],
   [
-    "food-budapest-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-budapest-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-budapest-2",
     "venue-budapest-market",
     "市场探索（供应需确认）",
     "关联风味（不保证供应）"
   ],
   [
-    "food-budapest-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-budapest-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-budapest-3",
     "food-debrecen-1",
     "同名风味的城市版本",
@@ -50,12 +26,6 @@ const cardRelations = [
   ],
   [
     "food-budapest-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-budapest-4",
     "food-debrecen-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
@@ -65,12 +35,6 @@ const cardRelations = [
     "food-szeged-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-budapest-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-budapest-5",
@@ -91,52 +55,16 @@ const cardRelations = [
     "认识相关酒类"
   ],
   [
-    "food-debrecen-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-debrecen-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-debrecen-1",
     "food-szeged-3",
     "同名风味的城市版本",
     "同名风味的城市版本"
   ],
   [
-    "food-debrecen-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-debrecen-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-debrecen-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-debrecen-4",
     "food-szeged-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-debrecen-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-debrecen-5",
@@ -149,24 +77,6 @@ const cardRelations = [
     "specialty-hu-1",
     "产区与挑选提示",
     "认识相关酒类"
-  ],
-  [
-    "food-szeged-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-szeged-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-szeged-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-szeged-2",
@@ -175,34 +85,10 @@ const cardRelations = [
     "认识这种食材"
   ],
   [
-    "food-szeged-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-szeged-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-szeged-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-szeged-5",
     "specialty-hu-1",
     "产区与挑选提示",
     "认识相关酒类"
-  ],
-  [
-    "food-vienna-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-vienna-1",
@@ -211,46 +97,10 @@ const cardRelations = [
     "关联风味（不保证供应）"
   ],
   [
-    "food-vienna-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-vienna-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-vienna-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-vienna-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-vienna-5",
     "venue-vienna-central",
     "相关餐饮场所（菜单需确认）",
     "关联风味（不保证供应）"
-  ],
-  [
-    "food-vienna-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-salzburg-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-salzburg-1",
@@ -266,27 +116,9 @@ const cardRelations = [
   ],
   [
     "food-salzburg-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-salzburg-1",
     "specialty-at-0",
     "挑选与产地提示",
     "认识这种甜品"
-  ],
-  [
-    "food-salzburg-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-salzburg-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-salzburg-3",
@@ -296,21 +128,9 @@ const cardRelations = [
   ],
   [
     "food-salzburg-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-salzburg-4",
     "food-vienna-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-salzburg-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-salzburg-5",
@@ -319,30 +139,6 @@ const cardRelations = [
     "同名风味的城市版本"
   ],
   [
-    "food-innsbruck-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-innsbruck-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-innsbruck-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-innsbruck-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-innsbruck-3",
     "food-vienna-3",
     "同名风味的城市版本",
@@ -356,12 +152,6 @@ const cardRelations = [
   ],
   [
     "food-innsbruck-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-innsbruck-4",
     "food-vienna-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
@@ -371,12 +161,6 @@ const cardRelations = [
     "food-salzburg-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-innsbruck-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-innsbruck-5",
@@ -397,30 +181,6 @@ const cardRelations = [
     "关联风味（不保证供应）"
   ],
   [
-    "food-berlin-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-berlin-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-berlin-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-berlin-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-berlin-3",
     "food-munich-3",
     "同名风味的城市版本",
@@ -431,12 +191,6 @@ const cardRelations = [
     "food-hamburg-3",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-berlin-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-berlin-4",
@@ -455,12 +209,6 @@ const cardRelations = [
     "food-cologne-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-berlin-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-berlin-5",
@@ -493,52 +241,16 @@ const cardRelations = [
     "关联风味（不保证供应）"
   ],
   [
-    "food-munich-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-munich-1",
     "venue-munich-hofbraeu",
     "相关餐饮场所（菜单需确认）",
     "关联风味（不保证供应）"
   ],
   [
-    "food-munich-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-munich-2",
     "venue-munich-hofbraeu",
     "相关餐饮场所（菜单需确认）",
     "关联风味（不保证供应）"
-  ],
-  [
-    "food-munich-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-munich-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-munich-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-munich-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-munich-5",
@@ -553,30 +265,6 @@ const cardRelations = [
     "关联风味（不保证供应）"
   ],
   [
-    "food-hamburg-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-hamburg-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-hamburg-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-hamburg-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-hamburg-3",
     "food-munich-3",
     "同名风味的城市版本",
@@ -584,21 +272,9 @@ const cardRelations = [
   ],
   [
     "food-hamburg-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-hamburg-4",
     "food-munich-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-hamburg-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-hamburg-5",
@@ -613,36 +289,6 @@ const cardRelations = [
     "同名风味的城市版本"
   ],
   [
-    "food-cologne-0",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-cologne-1",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-cologne-2",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-cologne-3",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
-    "food-cologne-4",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
-  ],
-  [
     "food-cologne-4",
     "food-munich-4",
     "同名风味的城市版本",
@@ -653,12 +299,6 @@ const cardRelations = [
     "food-hamburg-4",
     "同名风味的城市版本",
     "同名风味的城市版本"
-  ],
-  [
-    "food-cologne-5",
-    "tip-common-bill",
-    "点餐与结账提醒",
-    "可了解的美食"
   ],
   [
     "food-cologne-5",

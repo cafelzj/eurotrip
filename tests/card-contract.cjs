@@ -27,7 +27,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    await page.goto(base+'/#card/brand-lidl');
    assert.equal(await page.locator('.entity-actions a[href^="#map/"]').getAttribute('href'),'#map/'+country+'?search=brand-lidl','shared chain retains the selected country');
    assert((await page.locator('#travelMode').innerText()).includes({hu:'匈牙利',at:'奥地利',de:'德国',rs:'塞尔维亚',si:'斯洛文尼亚',pl:'波兰'}[country]),'navigation retains the selected country');
-   assert.equal(await page.locator('.entity-breadcrumb a').last().getAttribute('href'),'#guide/'+country);
+   assert.equal(await page.locator('.entity-breadcrumb').count(),0);assert.equal(await page.locator('.entity-ownership a[href="#guide/'+country+'"]').count(),1);
   }
   for(const city of ['suzhou','xuzhou','wuxi']){
    await page.goto(base+'/#china/jiangsu/'+city);

@@ -13,11 +13,24 @@ for(const [key,image]of Object.entries(media.assets)){
  assert(Number.isInteger(image.width)&&image.width>0&&Number.isInteger(image.height)&&image.height>0);assert(['food','portrait','product'].includes(image.kind));
 }
 assert(cards.filter(n=>n.type==='person').every(n=>media.cards[n.id]),'all existing people have a reviewed image');
-assert(Object.keys(media.cards).filter(id=>byId.get(id).type==='food').length>=100,'substantial food coverage');
 assert(!media.cards['food-xuzhou-lomo'],'Luomo musician is not the Xuzhou flatbread');
 assert(!media.cards['food-innsbruck-0'],'South Tyrolean ham is not an Austrian Tiroler Speck product photo');
 const photoReview=JSON.parse(fs.readFileSync(path.join(root,'docs/food-photo-review.json'),'utf8'));
-for(const file of photoReview.rejected.map(entry=>entry.file))assert(!Object.values(media.assets).some(image=>image.file===file),'withdraw rejected photo '+file);
+const canonicalFile=file=>decodeURIComponent(file).replaceAll('_',' ').normalize('NFC');
+for(const file of photoReview.rejected.map(entry=>entry.file))assert(!Object.values(media.assets).some(image=>canonicalFile(image.file)===canonicalFile(file)),'withdraw rejected photo '+file);
+// Coverage must follow the visual decisions; a numeric quota must never force
+// rejected photographs back into the site. These checks validate the record,
+// not the appearance of a photograph.
+const reviewed=new Map((photoReview.reviewed||[]).map(entry=>[entry.asset,entry]));
+const pending=new Map(photoReview.pending.map(entry=>[entry.asset,entry]));
+for(const [key,image]of Object.entries(media.assets)){
+ if(image.kind==='portrait')continue;
+ const decision=reviewed.get(key);
+ assert(decision?.status==='approved'||pending.has(key),'photo has an audit record: '+key);
+ if(decision){assert(decision.notes&&decision.reviewedAt&&decision.method);assert(/^[a-f0-9]{64}$/.test(decision.originalSha256),'original download fingerprint: '+key);assert.equal(image.visualReview?.status,'approved');}
+ if(photoReview.policy.visualAuditComplete)assert.equal(decision?.status,'approved','completed batch contains only approved photos');
+}
+if(photoReview.policy.visualAuditComplete)assert.equal(pending.size,0);
 console.log('PASS curated image ownership, source/license/alt/dimensions, complete people coverage and food identity exclusions');
 (async()=>{
  const browser=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
@@ -35,7 +48,7 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
   await tile.locator('.card-image').focus();await p.keyboard.press('Enter');await settle(p);assert.equal(await p.locator('.entity-image img').getAttribute('loading'),'eager');
   assert.equal(await p.locator('.entity-image a[href^="https://commons.wikimedia.org/wiki/File:"]').count(),1);assert((await p.locator('.entity-image figcaption').innerText()).includes('sikeri'));assert((await p.locator('.entity-image figcaption').innerText()).includes('CC BY-SA'));
   assert.equal(await p.locator('.entity-image img').evaluate(e=>getComputedStyle(e).objectFit),'contain');
-  await p.locator('.entity-breadcrumb>a').first().click();await settle(p);assert((await p.evaluate(()=>location.hash)).includes('at=food-budapest-2'));
+  assert.equal(await p.locator('.entity-breadcrumb').count(),0);await p.goBack();await settle(p);assert((await p.evaluate(()=>location.hash)).includes('at=food-budapest-2'));
   await tick();await img.scrollIntoViewIfNeeded();const before=await tile.locator('.card-image-frame').boundingBox();
   await img.evaluate(e=>e.src='/__missing-card-image.jpg');await tile.locator('.card-image-fallback').waitFor({state:'visible'});await tick();const after=await tile.locator('.card-image-frame').boundingBox();
   assert.equal(after.height,before.height,'failed image reserves the exact frame height');assert.equal(await tile.locator('.hub-card-title').count(),1,'card stays readable');

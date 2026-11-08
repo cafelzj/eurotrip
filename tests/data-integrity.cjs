@@ -14,7 +14,7 @@ for(const n of context.catalog.knowledge){assert.equal(n.category,'facts');asser
 for(const id of ['fact-hu-1','fact-vienna-ring','fact-de-0','fact-novi-sad-culture','fact-suzhou-water','fact-suzhou-gardens','fact-xuzhou-han','fact-wuxi-taihu']){const n=byId.get(id);assert(n.note.length>300,id+' needs substantive historical context');assert(n.sources.length,id+' historical sources');assert(!n.point&&!n.searchKind,id+' historical context does not invent a POI');assert(relations.some(r=>r.slice(0,2).includes(id)),id+' links to further reading');}
 assert(cards.filter(n=>n.type==='place'&&n.point?.group==='transport').every(n=>n.category==='transport'));
 for(const country of ['hu','at','de']){assert.equal(byId.get('tip-'+country+'-money').category,'brands');for(const suffix of ['deposit',country==='hu'?'hours':'sunday'])assert.equal(byId.get('tip-'+country+'-'+suffix).category,'brands');}
-assert.equal(byId.get('tip-common-bill').category,'food');for(const id of ['tip-hu-food','tip-at-water','tip-de-water'])assert.equal(byId.get(id).category,'food');
+assert(!byId.has('tip-common-bill'),'removed billing card stays out of the catalog');for(const id of ['tip-hu-food','tip-at-water','tip-de-water'])assert.equal(byId.get(id).category,'food');
 for(const city of cities.filter(c=>!c.parentCity)){for(const id of ['tip-city-'+city.id,'tip-'+city.id+'-ticket-choice','tip-'+city.id+'-transit-tools']){assert.equal(byId.get(id).category,'transport');assert.equal(byId.get(id).subcategory,'tickets');}}
 assert(!cards.some(n=>n.category==='essential'));
 assert.equal(byId.get('tip-common-help').category,'facts');
