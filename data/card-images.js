@@ -2,20 +2,6 @@
  * Food images are photographs, never generated. Credits remain with each file. */
 const cardImages = {
   "assets": {
-    "img-bb465fa25037": {
-      "file": "Gulyas080.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/960px-Gulyas080.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "古拉什汤（gulyás）实拍",
-      "caption": "古拉什汤（gulyás） · 实拍",
-      "author": "Lily15",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Gulyas080.jpg",
-      "checked": "2026-11-07"
-    },
     "img-cce6e9782007": {
       "file": "Kürtőskalács2011.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg/960px-K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
@@ -126,20 +112,6 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pot_of_Hungarian_Fisherman%27s_Soup_(Hal%C3%A1szl%C3%A9,_Karpfensuppe).jpg",
-      "checked": "2026-11-07"
-    },
-    "img-c68290ffb3dd": {
-      "file": "Pick_szeged_salami.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pick_szeged_salami.jpg/960px-Pick_szeged_salami.jpg",
-      "width": 960,
-      "height": 1280,
-      "kind": "food",
-      "alt": "Pick 萨拉米实物实拍",
-      "caption": "Pick 萨拉米实物 · 实拍",
-      "author": "Ranbar",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Pick_szeged_salami.jpg",
       "checked": "2026-11-07"
     },
     "img-f8712dad2a01": {
@@ -546,20 +518,6 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-9be2396f5de8": {
-      "file": "Red_Bull.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Red_Bull.jpg/960px-Red_Bull.jpg",
-      "width": 960,
-      "height": 2079,
-      "kind": "product",
-      "alt": "Red Bull 能量饮料实拍",
-      "caption": "Red Bull 能量饮料 · 实拍",
-      "author": "Mathious Ier",
-      "license": "CC0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Red_Bull.jpg",
       "checked": "2026-11-07"
     },
     "img-ed0cbb80cc77": {
@@ -2286,7 +2244,6 @@ const cardImages = {
     }
   },
   "cards": {
-    "food-budapest-0": "img-bb465fa25037",
     "food-budapest-1": "img-cce6e9782007",
     "food-budapest-2": "img-0c01d875298b",
     "food-budapest-3": "img-302656b83d0f",
@@ -2298,7 +2255,6 @@ const cardImages = {
     "food-debrecen-4": "img-6e306dd06365",
     "food-debrecen-5": "img-fac9e8aaf568",
     "food-szeged-0": "img-fccd07476c2b",
-    "food-szeged-1": "img-c68290ffb3dd",
     "food-szeged-3": "img-302656b83d0f",
     "food-szeged-4": "img-6e306dd06365",
     "food-szeged-5": "img-fac9e8aaf568",
@@ -2347,7 +2303,6 @@ const cardImages = {
     "food-product-eros-pista": "img-875267846d00",
     "food-product-manner-wafer": "img-20458d72c210",
     "food-product-almdudler-soda": "img-7739e5873d86",
-    "food-product-redbull-can": "img-9be2396f5de8",
     "food-product-pez-candy": "img-ed0cbb80cc77",
     "food-product-ritter-chocolate": "img-15b4aad7175a",
     "food-product-leibniz-biscuit": "img-f15d19a643c3",
@@ -2402,7 +2357,6 @@ const cardImages = {
     "food-budapest-retes": "img-8b69cb9844fe",
     "food-budapest-beigli": "img-1e519e0a9c9f",
     "food-budapest-pogacsa": "img-c5ebe95b0119",
-    "food-budapest-salami": "img-c68290ffb3dd",
     "person-budapest-szechenyi": "img-fb325b14de1b",
     "person-budapest-semmelweis": "img-7d22589bf79f",
     "person-budapest-kertesz": "img-6ee3abd47eaa",

@@ -3,7 +3,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
  const p=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[],queries=[];p.on('pageerror',e=>errors.push(e.message));
  await p.route('https://tile.openstreetmap.org/**',r=>r.abort());await p.route('https://overpass-api.de/**',r=>{queries.push(r.request().postData());return r.fulfill({contentType:'application/json',body:'{"elements":[]}'});});
  const base=process.env.SITE_URL||'http://127.0.0.1:3014';await p.goto(base+'/#guide/rs');await p.waitForSelector('.knowledge-hub[data-scope="rs"]');
- assert((await p.locator('.destination-hero').innerText()).includes('塞尔维亚'));assert.equal(await p.locator('.destination-cities a').count(),4);await p.locator('#travelMode').click();await p.locator('[data-nav-country="rs"]').click();await settle(p);
+ assert((await p.locator('.destination-feature-text').innerText()).includes('塞尔维亚'));assert.equal(await p.locator('.destination-switcher button').count(),4);await p.locator('#travelMode').click();await p.locator('[data-nav-country="rs"]').click();await settle(p);
  assert(await p.evaluate(()=>countryBorders.features.some(f=>f.properties.name==='Serbia')));
  assert.equal(await p.locator('.hub-section').count(),5);assert(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='rs')).length>=75));
  for(const city of ['belgrade','novi-sad','nis']){

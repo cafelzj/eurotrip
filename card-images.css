@@ -12,4 +12,9 @@
 .entity-image figcaption{display:flex;flex-direction:column;gap:5px;margin-top:10px;font-size:var(--text-small);line-height:1.8;color:#48614f;overflow-wrap:anywhere}
 .card-image-credit{font-size:var(--text-caption);color:#586b5b}
 .card-image-credit a{color:inherit;text-underline-offset:3px}
+.entity-image .card-image-thumbnails{display:flex;gap:8px;margin-top:10px;overflow-x:auto;padding:3px}
+.card-image-thumbnails button{position:relative;flex:0 0 70px;padding:0;border:2px solid transparent;border-radius:4px;overflow:hidden;background:#e9ede5;cursor:pointer}
+.card-image-thumbnails button[aria-pressed="true"]{border-color:#55715a}
+.card-image .card-image-thumbnails img{position:static;display:block;width:66px;height:50px;object-fit:cover}
+.card-image-position{display:block;margin-top:7px;color:#6e7d70;font-size:12px;font-variant-numeric:tabular-nums}
 @media(max-width:700px){.card-image{margin-bottom:13px}.card-image-frame{border-radius:9px}.entity-image{margin:20px 0}.entity-image .card-image-frame{max-height:380px}.entity-image figcaption{font-size:14px}}

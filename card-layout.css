@@ -82,3 +82,33 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 .hub-card[data-card-theme] .hub-card-title h4{font-family:inherit;font-size:18px;line-height:1.7;font-weight:600;color:var(--card-accent,#365131)}
 .hub-card>p{font-size:var(--text-body);line-height:1.9;-webkit-line-clamp:3}
 @media(max-width:700px){.card-feed .hub-card>p{font-size:15px}.card-feed .hub-card .hub-card-title h4{font-size:17px}}
+
+/* Location on the left, category label on the right in both list modes. */
+.hub-card .hub-card-meta{flex-wrap:nowrap;align-items:flex-start;gap:10px}
+.hub-card .hub-card-meta>small{flex:1;min-width:0;max-width:none;text-align:left;overflow-wrap:anywhere}
+.hub-card .hub-card-meta>span{flex:0 1 auto;max-width:65%;margin-left:auto;text-align:right}
+/* Keep ownership beside the title instead of extending the title stack. */
+.entity-header{display:grid;grid-template-columns:minmax(0,1fr) minmax(180px,auto);column-gap:24px;align-items:start}
+.entity-header>.entity-kind,.entity-header>h1,.entity-header>.entity-local,.entity-header>.entity-subtitle{grid-column:1}
+.entity-header .entity-ownership{grid-column:2;grid-row:1 / span 5;align-self:center;display:flex;flex-direction:column;align-items:flex-end;gap:9px;max-width:320px;margin:0;text-align:right}
+.entity-header .entity-ownership>div{justify-content:flex-end;text-align:right}
+@media(max-width:760px){.entity-header{display:block}.entity-header .entity-ownership{max-width:100%;margin:15px 0 0;align-items:flex-end}.entity-header .entity-ownership>div{justify-content:flex-end}}
+
+/* Compact filters; one focus treatment around the complete search control. */
+.knowledge-hub .hub-tabs{gap:8px;padding-top:0;padding-bottom:2px}
+.knowledge-hub .hub-tabs button{min-height:40px;padding:6px 13px;line-height:1.5}
+.knowledge-hub .hub-tools{padding:8px 10px;margin:8px 0 6px;gap:10px;border-radius:12px}
+.knowledge-hub .hub-search{padding:7px 11px;min-height:40px;line-height:1.4;transition:border-color .15s,box-shadow .15s}
+.knowledge-hub .hub-search:focus-within{outline:none;border-color:#779483;box-shadow:0 0 0 2px rgb(60 100 77 / 10%)}
+.knowledge-hub .hub-search input:focus,.knowledge-hub .hub-search input:focus-visible{outline:none;box-shadow:none;border:0}
+.knowledge-hub .hub-tools>button,.knowledge-hub .hub-kind-label select{min-height:40px;padding-top:7px;padding-bottom:7px}
+.knowledge-hub .hub-browse-bar{margin-top:6px;margin-bottom:12px;padding-top:0;padding-bottom:0;min-height:40px}
+.knowledge-hub .hub-view-switch{padding:3px;border-radius:10px}
+.knowledge-hub .hub-view-switch button{min-height:36px;padding:6px 10px}
+@media(forced-colors:active){.knowledge-hub .hub-search:focus-within{outline:2px solid Highlight;outline-offset:2px}}
+
+/* Keep the pocket map available without covering the collection. */
+.floating-map #miniMapToggle{min-height:40px;padding:7px 12px;gap:7px;border-radius:10px;box-shadow:0 3px 12px rgb(35 66 49 / 9%);font-size:14px;line-height:1.4}
+.floating-map #miniMapToggle>span{font-size:18px;line-height:1}
+.floating-map #miniMapToggle>small{padding-left:8px;font-size:12px}
+@media(max-width:700px){.floating-map #miniMapToggle{min-height:40px;padding:7px 10px;font-size:13px}.floating-map #miniMapToggle>small{font-size:11px}}

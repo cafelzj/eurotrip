@@ -61,10 +61,10 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await page.waitForFunction(()=>document.querySelector('#poiStatus').textContent.includes('未找到'));
   assert.equal(queries,1);
   await page.goto(base+'/#guide/at');
-  const countryLayout=await page.locator('.destination-hero').boundingBox();
+  const countryLayout=await page.locator('.destination-feature').boundingBox();
   await page.screenshot({path:'/tmp/country-simple.png'});
-  await page.locator('.destination-cities a[href="#guide/at/vienna"]').click();await settle(page);
-  const cityLayout=await page.locator('.destination-hero').boundingBox();assert.equal(cityLayout.width,countryLayout.width);
+  await page.locator('.destination-switcher [data-guide-city="vienna"]').click();await settle(page);
+  const cityLayout=await page.locator('.destination-feature').boundingBox();assert.equal(cityLayout.width,countryLayout.width);
   assert.equal(await page.locator('.destination-facts').count(),0);
   if(await page.locator('#miniMapToggle').isVisible())await page.locator('#miniMapToggle').click();assert.equal(await page.locator('#miniMapFull').getAttribute('href'),'#map/vienna');
   await page.screenshot({path:'/tmp/city-simple.png'});

@@ -19,3 +19,27 @@
 @media(hover:hover) and (pointer:fine){.destination-gallery>a.destination-city-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px #274a3a13}}
 @media(max-width:700px){.destination-cities.destination-gallery{grid-template-columns:1fr;gap:19px}.destination-gallery>a.destination-overview{flex-wrap:wrap;gap:8px 14px;padding:16px 18px}.destination-gallery>a.destination-overview>span{width:100%;margin:0}.destination-city-copy{padding:20px}.destination-gallery .destination-city-copy>small{font-size:29px}.destination-picker-heading{align-items:flex-start;gap:12px}.destination-picker-heading>span{font-size:12px;max-width:45%;line-height:1.7;text-align:right}}
 @media(prefers-reduced-motion:reduce){.destination-gallery>a.destination-city-card{transition:none}.destination-gallery>a.destination-city-card:hover{transform:none}}
+
+/* One destination at a time, with its collection switching in place. */
+.destination-feature{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);margin:6px 0 24px;border:1px solid #d6e0d7;border-radius:9px;overflow:hidden;background:#fffefa}
+.destination-feature-visual{position:relative;min-width:0;overflow:hidden;background:#e7ede5}
+.destination-feature-visual .landmark-art{margin:0;height:100%;max-width:none}
+.destination-feature-visual .landmark-art-frame{height:100%;min-height:380px;aspect-ratio:3/2;border:0;border-radius:0;max-height:none}
+.destination-feature-visual .landmark-art figcaption{position:absolute;right:12px;top:12px;max-width:85%;margin:0;padding:4px 7px;border-radius:4px;background:#ffffffe8;font-size:10px}
+.destination-feature-visual .landmark-art-context{display:none}
+.destination-feature-caption{position:absolute;bottom:12px;left:14px;padding:4px 8px;font-size:11px;background:#ffffffe8;border-radius:4px;color:#49624f}
+.destination-feature-copy{display:flex;flex-direction:column;padding:23px 26px;min-width:0}
+.destination-switcher{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:24px}
+.destination-switcher button{border:1px solid transparent;border-radius:5px;background:transparent;padding:7px 9px;min-height:36px;color:#627465;font:inherit;font-size:12px;cursor:pointer}
+.destination-switcher button[aria-pressed="true"]{background:#e9efe6;border-color:#cdd9c8;color:#2e5241;font-weight:600}
+.destination-feature-text>small{display:block;font:24px/1.2 Georgia,serif;color:#708171;margin-bottom:10px}
+.destination-feature-text h1{font-size:29px;line-height:1.4;margin:0 0 17px;color:#29473b}
+.destination-feature-text p{font-size:15px;line-height:1.95;color:#566e5d;margin:0;max-width:40ch}
+.destination-feature-footer{display:flex;gap:14px;align-items:center;justify-content:space-between;margin-top:auto;padding-top:24px}
+.destination-feature-footer>a{font-size:12px;color:#557247;text-underline-offset:4px}
+.destination-stepper{display:flex;align-items:center;gap:6px}
+.destination-stepper>span{font-size:11px;color:#7d8b7e;margin-right:5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.destination-stepper button{cursor:pointer;width:34px;height:34px;border:1px solid #d6e0d2;border-radius:50%;background:transparent;color:#3b604b;font-size:18px}
+.knowledge-hub{padding-top:0}
+@media(max-width:1050px){.destination-feature{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}.destination-feature-copy{padding:20px}.destination-feature-visual .landmark-art-frame{min-height:360px}.destination-switcher{margin-bottom:18px;gap:2px}.destination-switcher button{padding:6px 7px}.destination-feature-text h1{font-size:25px}.destination-feature-text>small{font-size:21px}}
+@media(max-width:700px){.destination-feature{grid-template-columns:1fr;margin-bottom:18px}.destination-feature-visual .landmark-art-frame{height:auto;min-height:0;aspect-ratio:3/2}.destination-feature-copy{padding:16px 17px}.destination-switcher{margin-bottom:17px;gap:4px}.destination-switcher button{min-height:36px;padding:6px 8px}.destination-feature-text h1{font-size:25px;margin-bottom:10px}.destination-feature-text>small{font-size:20px;margin-bottom:6px}.destination-feature-text p{font-size:14px;line-height:1.85;max-width:none}.destination-feature-footer{padding-top:17px}}

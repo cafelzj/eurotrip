@@ -16,9 +16,30 @@
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
  function destinationHeader(country,city){
   const n=city||country,chinese=H.isChina(country);
-  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':country.flag+' '+h(country.name)+' · 欧洲国家'}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${chinese?'':'destination-intro-merged '}${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}<small>${h(n.local)}</small></h1><p>${h(n.intro)}</p><div class="destination-header-actions">${link(n.tourism,'官方旅行指南')}${chinese?'':`<a class="destination-overview ${city?'':'active'}" href="${H.guideUrl(country)}" ${city?'':'aria-current="page"'}>国家概览${city?' →':' · 当前'}</a><span>选择下方城市，查看本城关联内容</span>`}</div></div></div>`;
+  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':'欧洲国家 · '+h(country.name)}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${chinese?'':'destination-intro-merged '}${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}<small>${h(n.local)}</small></h1><p>${h(n.intro)}</p><div class="destination-header-actions">${link(n.tourism,'官方旅行指南')}${chinese?'':`<a class="destination-overview ${city?'':'active'}" href="${H.guideUrl(country)}" ${city?'':'aria-current="page"'}>国家概览${city?' →':' · 当前'}</a><span>选择下方城市，查看本城关联内容</span>`}</div></div></div>`;
  }
- function destinationPage(country,city,zone){guide.innerHTML=destinationHeader(country,city)+H.cityPicker(country,city)+H.render(country,city,zone);H.bind(guide);}
+ function destinationPage(country,city,zone){const header=destinationHeader(country,city);guide.innerHTML=(H.isChina(country)?header:header.slice(0,header.indexOf('<div class="destination-hero')))+H.cityPicker(country,city)+H.render(country,city,zone);H.bind(guide);}
+ function switchDestination(country,city,zone){
+  const top=window.scrollY;
+  H.dispose();
+  const header=destinationHeader(country,city),wrapper=document.createElement('div');
+  wrapper.innerHTML=header.slice(0,header.indexOf('<div class="destination-hero'));
+  guide.querySelector('.breadcrumbs').replaceWith(wrapper.firstElementChild);
+  wrapper.innerHTML=H.cityPicker(country,city);guide.querySelector('.destination-picker').replaceWith(wrapper.firstElementChild);
+  wrapper.innerHTML=H.render(country,city,zone);guide.querySelector('.knowledge-hub').replaceWith(wrapper.firstElementChild);
+  H.bind(guide);syncMenus();window.FloatingMap?.sync();window.scrollTo({top,behavior:'instant'});
+ }
+ guide.addEventListener('click',event=>{
+  const button=event.target.closest('[data-guide-city]');if(!button)return;
+  const context=H.mapContext();if(!context||H.isChina(context.country))return;
+  const city=button.dataset.guideCity?cities.find(c=>c.country===context.country.id&&c.id===button.dataset.guideCity):null;
+  if(button.dataset.guideCity&&!city)return;if(context.city?.id===city?.id)return;
+  const query=new URLSearchParams();if(context.zone!=='all')query.set('zone',context.zone);if(context.q)query.set('q',context.q);if(context.kind!=='all')query.set('kind',context.kind);if(context.view==='waterfall')query.set('view','waterfall');
+  const url=H.guideUrl(context.country,city)+(query.size?'?'+query:'');if(location.hash===url)return;
+  const arrow=button.closest('.destination-stepper'),label=button.getAttribute('aria-label');
+  history.pushState(null,'',url);switchDestination(context.country,city,context.zone);
+  (arrow?guide.querySelector(`.destination-stepper [aria-label="${label}"]`):guide.querySelector(`.destination-switcher [data-guide-city="${city?.id||''}"]`))?.focus({preventScroll:true});
+ });
  function mapPage(country,city,params){
   H.rememberDestination(country,city);const scope=city||country;
   guide.innerHTML=`<div class="breadcrumbs"><a href="${H.guideUrl(country,city)}">← ${h(scope.name)} · ${H.sectionName(country)}</a></div><div class="city-hero map-destination-heading"><h1>${h(scope.name)}<small>卡片地图</small></h1>${H.isChina(country)?`<p class="china-location">${h(ChinaRegions.label(city))}</p>`:''}</div><div class="card-map-workspace"><section id="cityExplorer" aria-label="卡片地图图层"></section><div class="map-panel"><div id="travelMap" aria-label="${h(scope.name)}卡片地图"></div><div class="map-caption"><span id="mapNotice">© ${TravelMaps.provider(country,city).name} · 参考位置</span><button id="fitMap">显示全部地点</button></div></div></div><div class="sights-column"></div>`;
@@ -94,5 +115,10 @@
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
  document.querySelector('#produceMode').onclick=()=>navigate('#produce/'+ProducePage.lastCountry());
  document.querySelector('#planMode').onclick=()=>navigate('#plan');
- window.addEventListener('hashchange',()=>{route();window.scrollTo({top:0,behavior:'instant'});});route();
+ window.addEventListener('hashchange',()=>{
+  const parts=location.hash.slice(1).split('?')[0].split('/'),context=H.mapContext();
+  if(parts[0]==='guide'&&parts[1]===context?.country.id&&guide.querySelector('.destination-feature')&&(!parts[2]||cities.some(c=>c.id===parts[2]&&c.country===parts[1]))){
+   const params=new URLSearchParams(location.hash.split('?')[1]||'');switchDestination(context.country,cities.find(c=>c.id===parts[2]),params.get('zone')||'all');
+  }else{route();window.scrollTo({top:0,behavior:'instant'});}
+ });route();
 })();

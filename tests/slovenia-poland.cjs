@@ -18,7 +18,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   assert(await p.evaluate(()=>countryBorders.features.some(f=>f.properties.name==='Slovenia')&&countryBorders.features.some(f=>f.properties.name==='Poland')));
   assert.equal(await p.evaluate(()=>[...CardStore.nodes.values()].filter(n=>!n.live).length),971);
   for(const [country,cityIds]of Object.entries(scopes)){
-   await go('#guide/'+country);assert.equal(await p.locator('.destination-cities a').count(),5);assert.equal(await p.locator('.hub-section').count(),5);
+   await go('#guide/'+country);assert.equal(await p.locator('.destination-switcher button').count(),5);assert.equal(await p.locator('.hub-section').count(),5);
    for(const city of cityIds){
     await go('#guide/'+country+'/'+city);await p.waitForSelector('.knowledge-hub[data-scope="'+city+'"]');assert.equal(await p.locator('.hub-section').count(),5);
     const scope=await p.evaluate(({country,city})=>{const list=KnowledgeHub.scoped(travelCountries.find(c=>c.id===country),travelCities.find(c=>c.id===city));return {categories:[...new Set(list.map(n=>n.category))].sort(),valid:list.every(n=>CardStore.cityIds(n).includes(city)||n.type==='tip'&&!CardStore.cityIds(n).length)};},{country,city});

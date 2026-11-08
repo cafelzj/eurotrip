@@ -15,6 +15,7 @@ assert(cards.filter(n=>n.type==='person').every(n=>media.cards[n.id]),'all exist
 assert(Object.keys(media.cards).filter(id=>byId.get(id).type==='food').length>=100,'substantial food coverage');
 assert(!media.cards['food-xuzhou-lomo'],'Luomo musician is not the Xuzhou flatbread');
 assert(!media.cards['food-innsbruck-0'],'South Tyrolean ham is not an Austrian Tiroler Speck product photo');
+for(const file of ['Red_Bull.jpg','Gulyas080.jpg','Pick_szeged_salami.jpg'])assert(!Object.values(media.assets).some(image=>image.file===file),'withdraw rejected photo '+file);
 console.log('PASS curated image ownership, source/license/alt/dimensions, complete people coverage and food identity exclusions');
 (async()=>{
  const browser=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});
@@ -27,20 +28,23 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
   await p.route('**/__missing-card-image.jpg',r=>r.abort());
   const base=process.env.SITE_URL||'http://127.0.0.1:3020',go=async hash=>{await p.goto(base+'/'+hash);await settle(p);},tick=()=>p.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
   await go('#guide/hu/budapest?zone=food&view=waterfall');await p.waitForSelector('.card-feed-item .card-image img');await tick();
-  const tile=p.locator('[data-knowledge-card="food-budapest-0"]'),img=tile.locator('img');
-  assert.equal(await img.getAttribute('loading'),'lazy');assert((await img.getAttribute('alt')).includes('古拉什'));assert.equal(await img.evaluate(e=>getComputedStyle(e).objectFit),'cover');
+  const tile=p.locator('[data-knowledge-card="food-budapest-2"]'),img=tile.locator('img');
+  assert.equal(await img.getAttribute('loading'),'lazy');assert((await img.getAttribute('alt')).includes('兰戈什'));assert.equal(await img.evaluate(e=>getComputedStyle(e).objectFit),'cover');
   await tile.locator('.card-image').focus();await p.keyboard.press('Enter');await settle(p);assert.equal(await p.locator('.entity-image img').getAttribute('loading'),'eager');
-  assert.equal(await p.locator('.entity-image a[href^="https://commons.wikimedia.org/wiki/File:"]').count(),1);assert((await p.locator('.entity-image figcaption').innerText()).includes('Lily15'));assert((await p.locator('.entity-image figcaption').innerText()).includes('CC BY-SA'));
+  assert.equal(await p.locator('.entity-image a[href^="https://commons.wikimedia.org/wiki/File:"]').count(),1);assert((await p.locator('.entity-image figcaption').innerText()).includes('sikeri'));assert((await p.locator('.entity-image figcaption').innerText()).includes('CC BY-SA'));
   assert.equal(await p.locator('.entity-image img').evaluate(e=>getComputedStyle(e).objectFit),'contain');
-  await p.locator('.entity-breadcrumb>a').first().click();await settle(p);assert((await p.evaluate(()=>location.hash)).includes('at=food-budapest-0'));
+  await p.locator('.entity-breadcrumb>a').first().click();await settle(p);assert((await p.evaluate(()=>location.hash)).includes('at=food-budapest-2'));
   await tick();await img.scrollIntoViewIfNeeded();const before=await tile.locator('.card-image-frame').boundingBox();
   await img.evaluate(e=>e.src='/__missing-card-image.jpg');await tile.locator('.card-image-fallback').waitFor({state:'visible'});await tick();const after=await tile.locator('.card-image-frame').boundingBox();
   assert.equal(after.height,before.height,'failed image reserves the exact frame height');assert.equal(await tile.locator('.hub-card-title').count(),1,'card stays readable');
   assert(await p.locator('.card-feed-grid').evaluate(grid=>{const rs=[...grid.children].map(e=>e.getBoundingClientRect());return rs.every((a,i)=>rs.slice(i+1).every(b=>Math.abs(a.left-b.left)>1||a.bottom<=b.top+1||b.bottom<=a.top+1));}),'feed remains non-overlapping after image failure');
-  for(const hash of ['#card/person-mozart','#card/food-product-redbull-can']){
+  for(const hash of ['#card/person-mozart','#card/food-product-turo-rudi']){
    await go(hash);assert.equal(await p.locator('.entity-image img').evaluate(e=>getComputedStyle(e).objectFit),'contain');
    for(const width of [1440,768,390,320]){await p.setViewportSize({width,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'image/credit fit '+width);const r=await p.locator('.entity-image .card-image-frame').boundingBox();assert(r.width>100&&r.height>100);}
   }
+  await go('#card/food-budapest-2');
+  await p.evaluate(()=>{const id='food-budapest-2';cardImages.galleries={[id]:[cardImages.cards['food-budapest-3']]};document.querySelector('.entity-media').innerHTML=CardImages.detail(CardGraph.nodes.get(id));});
+  assert.equal(await p.locator('[data-photo-index]').count(),2);await p.locator('[data-photo-index="1"]').click();assert.equal(await p.locator('.card-image-position').innerText(),'2 / 2');assert((await p.locator('.entity-image figcaption').innerText()).includes('炖肉'));await p.keyboard.press('ArrowLeft');assert.equal(await p.locator('.card-image-position').innerText(),'1 / 2');assert.equal(await p.locator('[data-photo-index="0"]').getAttribute('aria-pressed'),'true');
   await go('#card/food-xuzhou-lomo');assert.equal(await p.locator('.entity-image').count(),0,'unreviewed entries stay text-only');
   await go('#guide/pl?zone=food&view=groups');assert(await p.locator('.hub-card .card-image').count());
   await go('#china/jiangsu/suzhou?zone=food&view=waterfall');assert(await p.locator('.card-feed .card-image').count());assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
