@@ -35,7 +35,9 @@ window.KnowledgeHub=(()=>{
  function cityPicker(country,city){
  if(isChina(country))return ChinaRegions.picker(city);
  const list=travelCities.filter(c=>c.country===country.id);
- return `<section class="destination-picker" aria-label="选择国家概览或城市"><div class="destination-picker-heading"><h2>选择目的地</h2><span>选择城市后，下方卡片只展示城市关联内容</span></div><div class="destination-cities"><a href="${guideUrl(country)}" class="destination-overview ${city?'':'active'}" ${city?'':'aria-current="page"'}><small>${country.flag} COUNTRY</small><b>国家概览</b><span>看全国文化与实用信息 →</span></a>${list.map(c=>`<a href="${guideUrl(country,c)}" class="${city?.id===c.id?'active':''}" ${city?.id===c.id?'aria-current="page"':''}><small>${h(c.local)}</small><b>${h(c.name)}</b><span>${h(c.intro.slice(0,65))}${c.intro.length>65?'…':''}</span></a>`).join('')}</div></section>`;
+ const landmarks=new Map(list.map(c=>[c.id,[...G.nodes.values()].find(n=>cityIds(n).includes(c.id)&&window.CardArt?.get(n))]));
+ return `<section class="destination-picker" aria-label="选择国家概览或城市"><div class="destination-picker-heading"><h2>选择目的地</h2><span>选择城市后，下方卡片只展示城市关联内容</span></div><div class="destination-cities destination-gallery"><a href="${guideUrl(country)}" class="destination-overview ${city?'':'active'}" ${city?'':'aria-current="page"'}><small>${country.flag} COUNTRY</small><b>国家概览</b><span>看全国文化与实用信息 →</span></a>${list.map(c=>{const landmark=landmarks.get(c.id);return `<a href="${guideUrl(country,c)}" class="destination-city-card ${landmark?'has-city-art ':''}${city?.id===c.id?'active':''}" ${city?.id===c.id?'aria-current="page"':''}>${landmark?`<div class="destination-city-visual">${CardArt.render(landmark)}</div>`:''}<div class="destination-city-copy"><small>${h(c.local)}</small><b>${h(c.name)}<span aria-hidden="true">↗</span></b><span>${h(c.intro.slice(0,85))}${c.intro.length>85?'…':''}</span>${landmark?`<em>${h(landmark.name)}</em>`:''}</div></a>`;}).join('')}</div></section>`;
+
  }
  function render(country,city,zone){
  if(location.hash.startsWith('#map/'))return '';

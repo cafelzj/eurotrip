@@ -324,20 +324,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Berliner-Pfannkuchen.jpg",
       "checked": "2026-11-07"
     },
-    "img-4e5fcfbf4162": {
-      "file": "Döner_kebab_slicing.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/D%C3%B6ner_kebab_slicing.jpg",
-      "width": 960,
-      "height": 1350,
-      "kind": "food",
-      "alt": "Döner实拍",
-      "caption": "Döner · 实拍",
-      "author": "Gleam",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:D%C3%B6ner_kebab_slicing.jpg",
-      "checked": "2026-11-07"
-    },
     "img-cd4372a5a382": {
       "file": "Heldrunger_Sauerbraten_2.JPG",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/960px-Heldrunger_Sauerbraten_2.JPG",
@@ -1008,20 +994,6 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Austrian_mountain_cheese.JPG",
-      "checked": "2026-11-07"
-    },
-    "img-15b5338cfbda": {
-      "file": "Helles_im_Glas-Helles_(pale_beer).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helles_im_Glas-Helles_%28pale_beer%29.jpg",
-      "width": 960,
-      "height": 1702,
-      "kind": "product",
-      "alt": "Münchner Helles 慕尼黑淡色拉格实拍",
-      "caption": "Münchner Helles 慕尼黑淡色拉格 · 实拍",
-      "author": "No machine-readable author provided. Flo422 assumed (based on copyright claims).",
-      "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Helles_im_Glas-Helles_(pale_beer).jpg",
       "checked": "2026-11-07"
     },
     "img-f592e91d8fb8": {
@@ -2283,6 +2255,34 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:%C5%BBurek_soup.jpg",
       "checked": "2026-11-07"
+    },
+    "img-d14544fb73c1": {
+      "file": "Döner_kebap.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/960px-D%C3%B6ner_kebap.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "柏林 Döner 烤肉夹饼，面包中夹入鸡肉与蔬菜",
+      "caption": "柏林 Döner 鸡肉夹饼 · 成品实拍",
+      "author": "FrugalGlutton.com",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:D%C3%B6ner_kebap.jpg",
+      "checked": "2026-11-08"
+    },
+    "img-a8539d44693f": {
+      "file": "Eine_Maß_Helles_(5943793774).jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eine_Ma%C3%9F_Helles_%285943793774%29.jpg/960px-Eine_Ma%C3%9F_Helles_%285943793774%29.jpg",
+      "width": 960,
+      "height": 721,
+      "kind": "food",
+      "alt": "慕尼黑啤酒花园中的一升 Helles 淡色拉格啤酒",
+      "caption": "Münchner Helles · 慕尼黑啤酒花园实拍",
+      "author": "Cornelius Kibelka",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eine_Ma%C3%9F_Helles_(5943793774).jpg",
+      "checked": "2026-11-08"
     }
   },
   "cards": {
@@ -2321,7 +2321,7 @@ const cardImages = {
     "food-innsbruck-5": "img-0ea34be8ad3c",
     "food-berlin-0": "img-13b631056ab6",
     "food-berlin-1": "img-3d67f3493c61",
-    "food-berlin-2": "img-4e5fcfbf4162",
+    "food-berlin-2": "img-d14544fb73c1",
     "food-berlin-3": "img-cd4372a5a382",
     "food-berlin-4": "img-0ff5ec65d125",
     "food-berlin-5": "img-8b69cb9844fe",
@@ -2381,7 +2381,7 @@ const cardImages = {
     "food-culture-gruner": "img-c4fe885769c9",
     "food-culture-bergkase": "img-baaf98ddf4ec",
     "food-culture-kolsch": "img-53d9eafcc4de",
-    "food-culture-helles": "img-15b5338cfbda",
+    "food-culture-helles": "img-a8539d44693f",
     "food-rs-cevapi": "img-f592e91d8fb8",
     "food-rs-pljeskavica": "img-bdde6d295741",
     "food-rs-burek": "img-deb96516ae8c",

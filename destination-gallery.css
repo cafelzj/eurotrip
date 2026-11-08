@@ -1,0 +1,21 @@
+/* Editorial destination entrances; routes and destination scopes stay shared. */
+.destination-cities.destination-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.destination-gallery>a.destination-overview{grid-column:1/-1;flex-direction:row;align-items:center;gap:18px;padding:17px 23px;border-radius:14px;box-shadow:none}
+.destination-gallery>a.destination-overview>small{font-size:12px;letter-spacing:1.5px}
+.destination-gallery>a.destination-overview>b{font-size:16px}
+.destination-gallery>a.destination-overview>span{margin-left:auto;font-size:14px}
+.destination-gallery>a.destination-city-card{display:block;padding:0;overflow:hidden;border-radius:19px;background:#fffefa;box-shadow:0 8px 24px #274a3a07;transition:transform .2s ease,box-shadow .2s ease}
+.destination-gallery>a.destination-city-card.active{box-shadow:0 0 0 2px #6b8657}
+.destination-city-visual{position:relative;overflow:hidden}
+.destination-city-visual .landmark-art{margin:0}
+.destination-city-visual .landmark-art-frame{aspect-ratio:16/10;border-radius:0;background:#e5eadd}
+.destination-city-visual .landmark-art figcaption{position:absolute;right:12px;bottom:12px;max-width:85%;margin:0;padding:5px 9px;background:#fffffff0;border-radius:5px;font-size:11px;color:#455d4e}
+.destination-city-copy{padding:23px 25px 24px}
+.destination-gallery .destination-city-copy>small{display:block;margin:0 0 8px;font:normal 32px/1.2 Georgia,serif;color:#294d3e;letter-spacing:-.5px}
+.destination-gallery .destination-city-copy>b{display:flex;justify-content:space-between;align-items:center;font-size:17px;font-weight:600;color:#3c594a}
+.destination-city-copy>b>span{font-size:23px;font-weight:400;color:#7b8e7c}
+.destination-city-copy>span{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:12px;font-size:15px;line-height:1.85;color:#65766b}
+.destination-city-copy>em{display:block;margin-top:16px;font-size:12px;line-height:1.6;font-style:normal;letter-spacing:.6px;color:#7a877a}
+@media(hover:hover) and (pointer:fine){.destination-gallery>a.destination-city-card:hover{transform:translateY(-3px);box-shadow:0 12px 30px #274a3a13}}
+@media(max-width:700px){.destination-cities.destination-gallery{grid-template-columns:1fr;gap:19px}.destination-gallery>a.destination-overview{flex-wrap:wrap;gap:8px 14px;padding:16px 18px}.destination-gallery>a.destination-overview>span{width:100%;margin:0}.destination-city-copy{padding:20px}.destination-gallery .destination-city-copy>small{font-size:29px}.destination-picker-heading{align-items:flex-start;gap:12px}.destination-picker-heading>span{font-size:12px;max-width:45%;line-height:1.7;text-align:right}}
+@media(prefers-reduced-motion:reduce){.destination-gallery>a.destination-city-card{transition:none}.destination-gallery>a.destination-city-card:hover{transform:none}}
