@@ -94,6 +94,5 @@
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
  document.querySelector('#produceMode').onclick=()=>navigate('#produce/'+ProducePage.lastCountry());
  document.querySelector('#planMode').onclick=()=>navigate('#plan');
- document.querySelector('#saved').addEventListener('click',()=>navigate('#words'));
  window.addEventListener('hashchange',()=>{route();window.scrollTo({top:0,behavior:'instant'});});route();
 })();

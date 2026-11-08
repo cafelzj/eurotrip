@@ -21,7 +21,7 @@ function renderLanguageSettings(){
  $('#phraseLanguages').innerHTML=selected.filter(l=>l.thanks).map(l=>`<button data-say="${esc(l.thanks)}" data-lang="${esc(l.locale)}"><span lang="${esc(l.locale)}">${esc(l.thanks)}</span><small>${esc(l.name)}</small> ♪</button>`).join('');
 }
 function setDisplayLanguages(ids){visibleLanguageIds=dictionaryLanguages.filter(l=>ids.includes(l.id)).map(l=>l.id);if(!visibleLanguageIds.length)visibleLanguageIds=[...defaultLanguages];try{localStorage.setItem('eurotrip-display-languages',JSON.stringify(visibleLanguageIds));}catch{toast('语言设置仅在本次使用中有效。');}render();}
-function save(){try{localStorage.setItem('eurotrip-favorites',JSON.stringify([...favorites]));}catch{toast('浏览器未允许保存，收藏仅在本次使用中有效。')}$('#savedCount').textContent=favorites.size;}
+function save(){try{localStorage.setItem('eurotrip-favorites',JSON.stringify([...favorites]));}catch{toast('浏览器未允许保存，收藏仅在本次使用中有效。')}const count=$('#savedCount');if(count)count.textContent=favorites.size;}
 function toggleFavorite(index){favorites.has(index)?favorites.delete(index):favorites.add(index);save();render();}
 function render(){
  renderLanguageSettings();
@@ -32,7 +32,7 @@ function render(){
  const filtered=words.map((w,i)=>({...w,i})).filter(w=>(favoritesOnly?favorites.has(w.i):q||w.cat===category)&&(!q||dictionaryLanguages.some(l=>wordText(w,l).toLocaleLowerCase().includes(q))));
  $('#resultCount').textContent=`${filtered.length} 个词条${q?' · 在全部分类中搜索':''}`;
  $('#wordList').innerHTML=filtered.map(w=>`<div class="word-row" data-word="${w.i}" tabindex="0" role="button" aria-label="查看${esc(w.zh)}的详情">${visibleLanguages().map((l,i)=>`<span class="${esc(l.id)} ${i===0?'word-primary':''}" data-language="${esc(l.id)}" data-language-label="${esc(l.name)}"><span class="word-cell-text" lang="${esc(l.locale)}">${i===0?`<span class="word-image" role="img" aria-label="${esc(w.zh)}图示">${w.emoji}</span>`:''}${esc(wordText(w,l)||'—')}</span></span>`).join('')}<button class="star ${favorites.has(w.i)?'is-saved':''}" data-favorite="${w.i}" aria-label="${favorites.has(w.i)?'取消收藏':'收藏'}${esc(w.zh)}" aria-pressed="${favorites.has(w.i)}">${favorites.has(w.i)?'★':'☆'}</button></div>`).join('');
- $('#empty').hidden=!!filtered.length;$('#saved').classList.toggle('active',favoritesOnly);$('#total').textContent=`${words.length} 个旅行词汇 · 8 个生活场景`;save();
+ $('#empty').hidden=!!filtered.length;$('#saved')?.classList.toggle('active',favoritesOnly);$('#total').textContent=`${words.length} 个旅行词汇 · 8 个生活场景`;save();
 }
 function toast(message){$('#toast').textContent=message;$('#toast').style.display='block';clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>$('#toast').style.display='none',4000);}
 function say(text,lang){if(!('speechSynthesis' in window)){toast('此浏览器不支持语音朗读。');return;}const voices=speechSynthesis.getVoices();if(!voices.some(v=>v.lang.startsWith(lang.slice(0,2)))){toast('设备可能未安装此语言语音；可在系统设置中添加。')}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=.8;u.onerror=()=>toast('语音暂不可用，请检查设备的语言语音设置。');speechSynthesis.speak(u);}
@@ -44,7 +44,7 @@ $('#languageOptions').addEventListener('change',event=>{const control=event.targ
 $('#resetLanguages').addEventListener('click',()=>setDisplayLanguages(defaultLanguages));
 $('#categories').addEventListener('click',e=>{const b=e.target.closest('[data-category]');if(b){category=Number(b.dataset.category);favoritesOnly=false;$('#search').value='';render();}});
 $('#search').addEventListener('input',render);
-$('#saved').addEventListener('click',()=>{favoritesOnly=!favoritesOnly;$('#search').value='';render();});
+$('#saved')?.addEventListener('click',()=>{favoritesOnly=!favoritesOnly;$('#search').value='';render();});
 $('#wordList').addEventListener('click',e=>{const fav=e.target.closest('[data-favorite]');if(fav){toggleFavorite(Number(fav.dataset.favorite));return;}const row=e.target.closest('[data-word]');if(row)detail(Number(row.dataset.word));});
 $('#wordList').addEventListener('keydown',e=>{if(e.target.matches('[data-word]')&&(e.key==='Enter'||e.key===' ')){e.preventDefault();detail(Number(e.target.dataset.word));}});
 document.addEventListener('click',e=>{const b=e.target.closest('[data-say]');if(b)say(b.dataset.say,b.dataset.lang);const f=e.target.closest('[data-detail-favorite]');if(f){const i=Number(f.dataset.detailFavorite);toggleFavorite(i);detail(i);}});

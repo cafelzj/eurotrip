@@ -32,7 +32,7 @@ window.CardAI=(()=>{
   ].filter(Boolean).join('\n\n');
  }
  function chatUrl(node){return 'https://chatgpt.com/?q='+encodeURIComponent(prompt(node));}
- function actions(node){return `<a class="entity-secondary entity-ai-link" href="${h(chatUrl(node))}" target="_blank" rel="noopener noreferrer" data-ai-intro="${h(node.id)}">✦ ChatGPT 生成介绍 ↗</a><button type="button" class="entity-ai-copy" data-ai-copy="${h(node.id)}">复制提示词</button><span class="entity-ai-status" role="status" aria-live="polite"></span>`;}
+ function actions(node){return `<a class="entity-secondary entity-ai-link" href="${h(chatUrl(node))}" target="_blank" rel="noopener noreferrer" data-ai-intro="${h(node.id)}">ChatGPT 延伸阅读 ↗</a><button type="button" class="entity-ai-copy" data-ai-copy="${h(node.id)}">复制提示词</button><span class="entity-ai-status" role="status" aria-live="polite"></span>`;}
  document.addEventListener('click',async event=>{
   const button=event.target.closest('[data-ai-copy]');if(!button)return;
   const node=CardGraph.nodes.get(button.dataset.aiCopy),article=button.closest('.entity-detail');if(!node||!article)return;
