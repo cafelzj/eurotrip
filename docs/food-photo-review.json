@@ -1,0 +1,1459 @@
+{
+  "updatedAt": "2026-11-08",
+  "policy": {
+    "foodGenerationAllowed": false,
+    "passCriteria": [
+      "菜品、品类、品牌与卡片主题一致",
+      "光线、白平衡和色彩正常",
+      "主体清晰完整、成品或商品呈现令人愿意尝试",
+      "无明显反光遮挡、杂乱背景、过大留白或不合适的裁切"
+    ],
+    "visualAuditComplete": false,
+    "blocker": "当前环境的网络白名单不包含原图源，原图尚不能下载和目视复核。"
+  },
+  "rejected": [
+    {
+      "file": "Gulyas080.jpg",
+      "reason": "户外锅与杂乱环境抢占画面，缺少清楚的成品呈现。"
+    },
+    {
+      "file": "Red_Bull.jpg",
+      "reason": "手持随拍、背景杂乱、竖图在卡片内留白过大。"
+    },
+    {
+      "file": "Pick_szeged_salami.jpg",
+      "reason": "包装强反光，产品本体和标签不清楚。"
+    },
+    {
+      "file": "Pot_of_Hungarian_Fisherman's_Soup_(Halászlé,_Karpfensuppe).jpg",
+      "reason": "直闪、桌面杂乱、鱼汤成品呈现不佳。"
+    },
+    {
+      "file": "PEZ_Candy_Pieces.jpg",
+      "reason": "灰暗特写、产品形态不完整，视觉上易与药片混淆。"
+    },
+    {
+      "file": "Tymbark_apple_mint_drink_1.jpg",
+      "reason": "低照度、瓶身侧向、标签不清，主体在卡片内过小。"
+    }
+  ],
+  "pending": [
+    {
+      "asset": "img-07106f3d579e",
+      "file": "White_wine_spritzer.jpg",
+      "cards": [
+        "food-vienna-spritzer"
+      ],
+      "subjects": [
+        "白葡萄酒汽水与 Heuriger"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:White_wine_spritzer.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0ea34be8ad3c",
+      "file": "Wiener_Melange_0363wien_img_9691.jpg",
+      "cards": [
+        "food-vienna-5",
+        "food-salzburg-5",
+        "food-innsbruck-5",
+        "food-culture-melange"
+      ],
+      "subjects": [
+        "维也纳米朗琪（Wiener Melange）",
+        "Wiener Melange 维也纳咖啡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wiener_Melange_0363wien_img_9691.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-15b4aad7175a",
+      "file": "Ritter_Sport_dark_chocolate.jpg",
+      "cards": [
+        "food-product-ritter-chocolate"
+      ],
+      "subjects": [
+        "Ritter Sport 方形巧克力"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Ritter_Sport_dark_chocolate.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-20458d72c210",
+      "file": "2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
+      "cards": [
+        "food-product-manner-wafer"
+      ],
+      "subjects": [
+        "Manner Neapolitaner 威化"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-210a2b6cea27",
+      "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
+      "cards": [
+        "food-rs-coffee"
+      ],
+      "subjects": [
+        "家常煮咖啡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-53d9eafcc4de",
+      "file": "Zunft-Kölsch_Glas.JPG",
+      "cards": [
+        "food-cologne-0",
+        "food-culture-kolsch"
+      ],
+      "subjects": [
+        "科隆啤酒（Kölsch）",
+        "Kölsch 科隆啤酒"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Zunft-K%C3%B6lsch_Glas.JPG",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-571135b3bcad",
+      "file": "Club-Mate.jpg",
+      "cards": [
+        "food-product-club-mate"
+      ],
+      "subjects": [
+        "Club-Mate 马黛茶饮料"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Club-Mate.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-7739e5873d86",
+      "file": "Almdudlerflaschen.jpg",
+      "cards": [
+        "food-product-almdudler-soda"
+      ],
+      "subjects": [
+        "Almdudler 草本汽水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-8481baa57fe4",
+      "file": "Original_Salzburger_Mozartkugel_Fürst_2009.jpg",
+      "cards": [
+        "food-salzburg-1"
+      ],
+      "subjects": [
+        "莫扎特巧克力球（Mozartkugel）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-875267846d00",
+      "file": "Eros_Pista_termekfoto.png",
+      "cards": [
+        "food-product-eros-pista"
+      ],
+      "subjects": [
+        "Univer Erős Pista 红椒酱"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Eros_Pista_termekfoto.png",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-8c2936810423",
+      "file": "Sauerkraut_Jar.jpg",
+      "cards": [
+        "food-cologne-3"
+      ],
+      "subjects": [
+        "酸菜（Sauerkraut）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sauerkraut_Jar.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-9680d957c63e",
+      "file": "Turorudi2.jpg",
+      "cards": [
+        "food-product-turo-rudi"
+      ],
+      "subjects": [
+        "Pöttyös Túró Rudi"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Turorudi2.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-aac2b1bc80d8",
+      "file": "Radenska.jpg",
+      "cards": [
+        "food-si-radenska"
+      ],
+      "subjects": [
+        "Radenska 矿泉水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Radenska.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-b3a6ab84245f",
+      "file": "Sportszelet1.jpg",
+      "cards": [
+        "food-product-sport-bar"
+      ],
+      "subjects": [
+        "Sport szelet 巧克力棒"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sportszelet1.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c4fe885769c9",
+      "file": "Grüner_Veltliner,_Doppler,_1.jpeg",
+      "cards": [
+        "food-culture-gruner"
+      ],
+      "subjects": [
+        "Grüner Veltliner 绿维特利纳"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Veltliner,_Doppler,_1.jpeg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c7a4583c6b1b",
+      "file": "Bionaden.4659.jpg",
+      "cards": [
+        "food-product-bionade"
+      ],
+      "subjects": [
+        "BIONADE 风味汽水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Bionaden.4659.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-cce6e9782007",
+      "file": "Kürtőskalács2011.jpg",
+      "cards": [
+        "food-budapest-1"
+      ],
+      "subjects": [
+        "烟囱蛋糕（kürtőskalács）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-dea367d0d450",
+      "file": "Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
+      "cards": [
+        "food-pl-krowki"
+      ],
+      "subjects": [
+        "Krówki · 波兰奶糖"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-e05e819f4b02",
+      "file": "Chocolate-covered_marshmallow_in_Poland.jpg",
+      "cards": [
+        "food-pl-ptasie-mleczko"
+      ],
+      "subjects": [
+        "Ptasie Mleczko · 巧克力裹泡沫糖"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Chocolate-covered_marshmallow_in_Poland.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f030d928cfe8",
+      "file": "Einspaenner.jpg",
+      "cards": [
+        "food-vienna-einspanner"
+      ],
+      "subjects": [
+        "Einspänner · 咖啡与奶油"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Einspaenner.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f15d19a643c3",
+      "file": "Butterkeks.jpg",
+      "cards": [
+        "food-product-leibniz-biscuit"
+      ],
+      "subjects": [
+        "LEIBNIZ Butterkeks 黄油饼干"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Butterkeks.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-fac9e8aaf568",
+      "file": "Tokaji_wine.jpg",
+      "cards": [
+        "food-budapest-5",
+        "food-debrecen-5",
+        "food-szeged-5"
+      ],
+      "subjects": [
+        "托卡伊甜酒（Tokaji Aszú）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tokaji_wine.jpg",
+      "status": "needs-visual-review",
+      "priority": 1,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-04c3f4949a49",
+      "file": "Weißwurst-1.jpg",
+      "cards": [
+        "food-munich-0"
+      ],
+      "subjects": [
+        "白香肠（Weißwurst）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wei%C3%9Fwurst-1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-061257e536f3",
+      "file": "Wuzetka_edit.JPG",
+      "cards": [
+        "food-pl-wuzetka"
+      ],
+      "subjects": [
+        "Wuzetka · 华沙可可奶油蛋糕"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wuzetka_edit.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-07b19600c450",
+      "file": "Franzbroetchen.wmt.jpg",
+      "cards": [
+        "food-hamburg-1"
+      ],
+      "subjects": [
+        "肉桂卷（Franzbrötchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Franzbroetchen.wmt.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-08659106591c",
+      "file": "Aringa-marinato.jpg",
+      "cards": [
+        "food-pl-sledz"
+      ],
+      "subjects": [
+        "Śledź · 鲱鱼小食"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Aringa-marinato.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0997e4e0603e",
+      "file": "Debrecziner.jpg",
+      "cards": [
+        "food-debrecen-0"
+      ],
+      "subjects": [
+        "德布勒森香肠（debreceni）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Debrecziner.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0c01d875298b",
+      "file": "Langos_Eger_Hungary.jpg",
+      "cards": [
+        "food-budapest-2"
+      ],
+      "subjects": [
+        "兰戈什（lángos）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Langos_Eger_Hungary.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0cd3d2b4973a",
+      "file": "Leberkäse-1.jpg",
+      "cards": [
+        "food-vienna-leberkase"
+      ],
+      "subjects": [
+        "Leberkäse · 熟肉烤块"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Leberk%C3%A4se-1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0eb1d9f3631d",
+      "file": "Smoki_grickalica.jpg",
+      "cards": [
+        "food-rs-smoki"
+      ],
+      "subjects": [
+        "Smoki 花生玉米零食"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Smoki_grickalica.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-0ff5ec65d125",
+      "file": "Reibekuchen_mit_Apfelmus.jpg",
+      "cards": [
+        "food-berlin-4",
+        "food-munich-4",
+        "food-hamburg-4",
+        "food-cologne-4"
+      ],
+      "subjects": [
+        "土豆煎饼（Reibekuchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Reibekuchen_mit_Apfelmus.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-13b631056ab6",
+      "file": "20220430_currywurst.jpg",
+      "cards": [
+        "food-berlin-0"
+      ],
+      "subjects": [
+        "咖喱香肠（Currywurst）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:20220430_currywurst.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-1ba97e224250",
+      "file": "Pfannkuchen_mit_Zucker.jpg",
+      "cards": [
+        "food-vienna-palatschinken"
+      ],
+      "subjects": [
+        "奥地利薄煎饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Pfannkuchen_mit_Zucker.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-1e519e0a9c9f",
+      "file": "Bejgli1.jpg",
+      "cards": [
+        "food-budapest-beigli"
+      ],
+      "subjects": [
+        "核桃 / 罂粟籽卷"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Bejgli1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-2378ede47351",
+      "file": "Pączki_-_14.05.2024.jpg",
+      "cards": [
+        "food-pl-paczek"
+      ],
+      "subjects": [
+        "Pączki · 波兰夹馅甜甜圈"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:P%C4%85czki_-_14.05.2024.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-27b110f79d29",
+      "file": "Töltött_káposzta,_2.jpg",
+      "cards": [
+        "food-budapest-stuffed-cabbage"
+      ],
+      "subjects": [
+        "匈牙利卷心菜卷"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6lt%C3%B6tt_k%C3%A1poszta,_2.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-28b36e97d075",
+      "file": "BrezelnSalz02_(cropped).JPG",
+      "cards": [
+        "food-munich-1"
+      ],
+      "subjects": [
+        "椒盐卷饼（Brezel）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-290e1e7f6c58",
+      "file": "Tiroler_Gröstl_Herrsching.jpg",
+      "cards": [
+        "food-innsbruck-2"
+      ],
+      "subjects": [
+        "蒂罗尔煎锅（Tiroler Gröstl）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tiroler_Gr%C3%B6stl_Herrsching.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-302656b83d0f",
+      "file": "Pörkölt.jpg",
+      "cards": [
+        "food-budapest-3",
+        "food-debrecen-1",
+        "food-szeged-3"
+      ],
+      "subjects": [
+        "炖肉（pörkölt）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:P%C3%B6rk%C3%B6lt.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-35dc67bcfb40",
+      "file": "Tafelspitz.jpg",
+      "cards": [
+        "food-vienna-3",
+        "food-salzburg-3",
+        "food-innsbruck-3"
+      ],
+      "subjects": [
+        "清煮牛肉（Tafelspitz）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tafelspitz.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-38f929355550",
+      "file": "Somloi-galuska.JPG",
+      "cards": [
+        "food-budapest-somloi"
+      ],
+      "subjects": [
+        "绍姆洛伊海绵蛋糕甜点"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Somloi-galuska.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-392c384ef3a3",
+      "file": "Salzburger_Nockerln_04_gastronomie_001.jpg",
+      "cards": [
+        "food-salzburg-0"
+      ],
+      "subjects": [
+        "萨尔茨堡舒芙蕾（Salzburger Nockerl）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Salzburger_Nockerln_04_gastronomie_001.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-3d67f3493c61",
+      "file": "Berliner-Pfannkuchen.jpg",
+      "cards": [
+        "food-berlin-1"
+      ],
+      "subjects": [
+        "柏林甜甜圈（Berliner / Pfannkuchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Berliner-Pfannkuchen.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-53485896af6d",
+      "file": "Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
+      "cards": [
+        "food-suzhou-eel"
+      ],
+      "subjects": [
+        "响油鳝糊 · 鲜香的一道热菜"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-566f7e39c29f",
+      "file": "00ane_Haxen.jpg",
+      "cards": [
+        "food-munich-2"
+      ],
+      "subjects": [
+        "猪肘（Schweinshaxe）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:00ane_Haxen.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-570105ccf688",
+      "file": "Sachertorte_DSC03027.JPG",
+      "cards": [
+        "food-vienna-1"
+      ],
+      "subjects": [
+        "萨赫蛋糕（Sachertorte）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sachertorte_DSC03027.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-5d7115f82803",
+      "file": "Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
+      "cards": [
+        "food-rs-prebranac"
+      ],
+      "subjects": [
+        "烤豆煲"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-5e3e3c3d92d7",
+      "file": "Käsekrainer.jpg",
+      "cards": [
+        "food-vienna-kasekrainer"
+      ],
+      "subjects": [
+        "奶酪香肠与法兰克福香肠"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:K%C3%A4sekrainer.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-5f7cf865c8d0",
+      "file": "2023_Sernik_polski_(1).jpg",
+      "cards": [
+        "food-pl-sernik"
+      ],
+      "subjects": [
+        "Sernik · 波兰奶酪蛋糕"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Sernik_polski_(1).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-62a953decd0f",
+      "file": "Serbian_Sarma.jpg",
+      "cards": [
+        "food-rs-sarma"
+      ],
+      "subjects": [
+        "酸卷心菜包肉"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Serbian_Sarma.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-640050a394ab",
+      "file": "Hamburger_Labskaus_1.jpg",
+      "cards": [
+        "food-hamburg-2"
+      ],
+      "subjects": [
+        "Labskaus"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hamburger_Labskaus_1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-66bf3ec850bb",
+      "file": "2015_0718_Käsespätzle_Sölden.jpg",
+      "cards": [
+        "food-salzburg-2"
+      ],
+      "subjects": [
+        "卡斯诺肯（Kasnocken）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-6bd036f4c454",
+      "file": "Fischbroetchen_01_(fcm).jpg",
+      "cards": [
+        "food-hamburg-0"
+      ],
+      "subjects": [
+        "鱼面包（Fischbrötchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Fischbroetchen_01_(fcm).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-6d12f292bfdc",
+      "file": "Misandao_(11).jpg",
+      "cards": [
+        "food-xuzhou-mijian"
+      ],
+      "subjects": [
+        "蜜三刀"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Misandao_(11).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-6e306dd06365",
+      "file": "Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
+      "cards": [
+        "food-budapest-4",
+        "food-debrecen-4",
+        "food-szeged-4"
+      ],
+      "subjects": [
+        "多博什蛋糕（Dobos torta）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-71a1ffa481b2",
+      "file": "Potica_na_Bledu.jpg",
+      "cards": [
+        "food-si-potica"
+      ],
+      "subjects": [
+        "Potica · 卷馅甜面包"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Potica_na_Bledu.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-7715efa061dc",
+      "file": "Red_soup_noodles_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165303).jpg",
+      "cards": [
+        "food-suzhou-noodles"
+      ],
+      "subjects": [
+        "苏式汤面 · 先选汤，再选浇头"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Red_soup_noodles_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165303).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-7d3f5d42a263",
+      "file": "Warm_Colors-_my_Mom's_Hungarian_Lecsó_cropped.jpg",
+      "cards": [
+        "food-budapest-lecso"
+      ],
+      "subjects": [
+        "红椒番茄炖菜"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-821d30aac48a",
+      "file": "2018-10-28-Halve_Hahn-9090.jpg",
+      "cards": [
+        "food-cologne-1"
+      ],
+      "subjects": [
+        "Halver Hahn"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2018-10-28-Halve_Hahn-9090.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-89031e0031fe",
+      "file": "Żurek_soup.jpg",
+      "cards": [
+        "food-pl-zurek"
+      ],
+      "subjects": [
+        "Żurek · 黑麦发酵酸汤"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%BBurek_soup.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-8a86bd25d6a1",
+      "file": "一盘地锅鸡.jpg",
+      "cards": [
+        "food-xuzhou-diguoji"
+      ],
+      "subjects": [
+        "徐州地锅鸡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-8b69cb9844fe",
+      "file": "Strudel.jpg",
+      "cards": [
+        "food-vienna-2",
+        "food-berlin-5",
+        "food-munich-5",
+        "food-hamburg-5",
+        "food-cologne-5",
+        "food-budapest-retes"
+      ],
+      "subjects": [
+        "苹果卷（Apfelstrudel）",
+        "匈牙利果馅卷"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Strudel.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-8e94e29b9480",
+      "file": "Polish_food_in_Poland_21.jpg",
+      "cards": [
+        "food-pl-kluski"
+      ],
+      "subjects": [
+        "西里西亚土豆团"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Polish_food_in_Poland_21.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-9a86bcab772c",
+      "file": "PrekmurskaGibanica1.JPG",
+      "cards": [
+        "food-si-gibanica"
+      ],
+      "subjects": [
+        "普雷克穆列 Gibanica 多层糕点"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:PrekmurskaGibanica1.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-a003d1f02d72",
+      "file": "Túróstészta.jpg",
+      "cards": [
+        "food-budapest-turos-csusza"
+      ],
+      "subjects": [
+        "凝乳拌面"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:T%C3%BAr%C3%B3st%C3%A9szta.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-a41b3049ab1b",
+      "file": "Chicken_Paprikash_(Csirke_Paprikás).jpg",
+      "cards": [
+        "food-debrecen-3",
+        "food-budapest-chicken-paprikash"
+      ],
+      "subjects": [
+        "红椒炖鸡（paprikás csirke）",
+        "红椒炖鸡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Chicken_Paprikash_(Csirke_Paprik%C3%A1s).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-a8539d44693f",
+      "file": "Eine_Maß_Helles_(5943793774).jpg",
+      "cards": [
+        "food-culture-helles"
+      ],
+      "subjects": [
+        "Münchner Helles 慕尼黑淡色拉格"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Eine_Ma%C3%9F_Helles_(5943793774).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-a99178922aea",
+      "file": "Oil-soaked_gluten.jpg",
+      "cards": [
+        "food-wuxi-gluten"
+      ],
+      "subjects": [
+        "清水油面筋与面筋塞肉"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Oil-soaked_gluten.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-aa86db34bbb1",
+      "file": "Wuxi_spareribs_sauce.jpg",
+      "cards": [
+        "food-wuxi-ribs"
+      ],
+      "subjects": [
+        "无锡酱排骨"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wuxi_spareribs_sauce.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-b58018a85ed9",
+      "file": "Buchteln.jpg",
+      "cards": [
+        "food-vienna-buchteln"
+      ],
+      "subjects": [
+        "果酱馅酵母面包团"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Buchteln.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-b89c9a43ed39",
+      "file": "Uszka-aasica.jpg",
+      "cards": [
+        "food-pl-barszcz"
+      ],
+      "subjects": [
+        "Barszcz czerwony · 红甜菜汤"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Uszka-aasica.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-b959e2fa3b10",
+      "file": "Suzhou_Squirrel_fish_松鼠鱖魚_-_img_02.jpg",
+      "cards": [
+        "food-suzhou-mandarin-fish"
+      ],
+      "subjects": [
+        "松鼠鳜鱼 · 造型与酸甜口"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-baaf98ddf4ec",
+      "file": "Austrian_mountain_cheese.JPG",
+      "cards": [
+        "food-culture-bergkase",
+        "food-vienna-bergkase"
+      ],
+      "subjects": [
+        "Bergkäse 山地奶酪",
+        "奥地利山地奶酪"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Austrian_mountain_cheese.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-bdde6d295741",
+      "file": "Pleskavitsa.JPG",
+      "cards": [
+        "food-rs-pljeskavica"
+      ],
+      "subjects": [
+        "普列斯卡维察烤肉饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Pleskavitsa.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-be72b637d377",
+      "file": "Struklji_2.jpg",
+      "cards": [
+        "food-si-struklji"
+      ],
+      "subjects": [
+        "Štruklji · 卷馅面点"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Struklji_2.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-bebdc3c836c4",
+      "file": "Frittatensuppe.jpg",
+      "cards": [
+        "food-vienna-frittaten"
+      ],
+      "subjects": [
+        "煎饼丝清汤"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Frittatensuppe.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c5ebe95b0119",
+      "file": "Pogácsa.jpg",
+      "cards": [
+        "food-budapest-pogacsa"
+      ],
+      "subjects": [
+        "匈牙利咸味小圆酥饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Pog%C3%A1csa.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c6e6380ca072",
+      "file": "Oscypki.jpg",
+      "cards": [
+        "food-pl-oscypek"
+      ],
+      "subjects": [
+        "Oscypek · 波德哈莱熏奶酪"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Oscypki.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c7ae4d058b69",
+      "file": "Gibanica_single_slice_with_full_pie_in_background.jpg",
+      "cards": [
+        "food-rs-gibanica"
+      ],
+      "subjects": [
+        "吉巴尼察奶酪酥皮派"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Gibanica_single_slice_with_full_pie_in_background.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-c83b9c981f8b",
+      "file": "Quarkstrudel_01.jpg",
+      "cards": [
+        "food-vienna-topfenstrudel"
+      ],
+      "subjects": [
+        "凝乳卷"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Quarkstrudel_01.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-cd4372a5a382",
+      "file": "Heldrunger_Sauerbraten_2.JPG",
+      "cards": [
+        "food-berlin-3",
+        "food-munich-3",
+        "food-hamburg-3"
+      ],
+      "subjects": [
+        "酸炖牛肉（Sauerbraten）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Heldrunger_Sauerbraten_2.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-d14544fb73c1",
+      "file": "Döner_kebap.jpg",
+      "cards": [
+        "food-berlin-2"
+      ],
+      "subjects": [
+        "Döner"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:D%C3%B6ner_kebap.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-d25fe539ee71",
+      "file": "Hortobagy_palacsinta.JPG",
+      "cards": [
+        "food-budapest-hortobagy"
+      ],
+      "subjects": [
+        "霍尔托巴吉肉馅煎饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Hortobagy_palacsinta.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-d4270b2e0b74",
+      "file": "Berggasthof_Haldenhof_-_Käsknöpfle_(1).jpg",
+      "cards": [
+        "food-innsbruck-1"
+      ],
+      "subjects": [
+        "奶酪面疙瘩（Käsespätzle）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_(1).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-d96226f01b13",
+      "file": "2015_0731_Kaiserschmarrn_Apfelsoße_Edelweisshütte_Sölden.jpg",
+      "cards": [
+        "food-vienna-4",
+        "food-salzburg-4",
+        "food-innsbruck-4"
+      ],
+      "subjects": [
+        "皇帝煎饼（Kaiserschmarrn）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-d97fe155b78c",
+      "file": "Kremna_rezina.jpg",
+      "cards": [
+        "food-si-bled-cream"
+      ],
+      "subjects": [
+        "布莱德奶油蛋糕"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Kremna_rezina.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-deb96516ae8c",
+      "file": "Burek_trokut_1.png",
+      "cards": [
+        "food-rs-burek"
+      ],
+      "subjects": [
+        "布雷克酥皮馅饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Burek_trokut_1.png",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-e35702e7d942",
+      "file": "Bigos_(1).jpg",
+      "cards": [
+        "food-pl-bigos"
+      ],
+      "subjects": [
+        "Bigos · 酸菜肉炖锅"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Bigos_(1).jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-e613813a301f",
+      "file": "Savoury_Suzhou-style_meat_mooncake.jpg",
+      "cards": [
+        "food-suzhou-mooncake"
+      ],
+      "subjects": [
+        "苏式月饼 · 酥皮也有咸口"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-e71388e0d7d6",
+      "file": "Trappista_cheese_original.jpg",
+      "cards": [
+        "food-culture-trappista"
+      ],
+      "subjects": [
+        "Trappista 奶酪"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Trappista_cheese_original.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-e991a5dd4160",
+      "file": "00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
+      "cards": [
+        "food-pl-golabki"
+      ],
+      "subjects": [
+        "Gołąbki · 卷心菜包馅"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-ebbba81bb7e7",
+      "file": "Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+      "cards": [
+        "food-si-kranjska"
+      ],
+      "subjects": [
+        "卡尼奥拉香肠"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f0eaa703f328",
+      "file": "Kaisersemmel-.jpg",
+      "cards": [
+        "food-vienna-semmel"
+      ],
+      "subjects": [
+        "面包店里的 Semmel 与 Kipferl"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Kaisersemmel-.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f124e9490d88",
+      "file": "Obwarzanek_mak.jpg",
+      "cards": [
+        "food-pl-obwarzanek"
+      ],
+      "subjects": [
+        "克拉科夫 Obwarzanek 环形面包"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Obwarzanek_mak.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f592e91d8fb8",
+      "file": "Cevapi_s_kajmakom.jpg",
+      "cards": [
+        "food-rs-cevapi"
+      ],
+      "subjects": [
+        "切瓦皮烤肉条"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Cevapi_s_kajmakom.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f78be527b828",
+      "file": "Qingtuan_1.jpg",
+      "cards": [
+        "food-suzhou-cakes"
+      ],
+      "subjects": [
+        "苏式糕团 · 随季节挑选"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Qingtuan_1.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-f8712dad2a01",
+      "file": "Wiener-Schnitzel02.jpg",
+      "cards": [
+        "food-vienna-0"
+      ],
+      "subjects": [
+        "维也纳炸肉排（Wiener Schnitzel）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wiener-Schnitzel02.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-fe5b16d43a76",
+      "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
+      "cards": [
+        "food-pl-pierogi"
+      ],
+      "subjects": [
+        "Pierogi · 波兰饺子"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    },
+    {
+      "asset": "img-ffb150065131",
+      "file": "昆山奥灶馆奥灶面.jpg",
+      "cards": [
+        "local-kunshan-culture"
+      ],
+      "subjects": [
+        "奥灶面"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg",
+      "status": "needs-visual-review",
+      "priority": 2,
+      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    }
+  ]
+}

@@ -2074,20 +2074,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
       "checked": "2026-11-07"
     },
-    "img-7179b80b92cf": {
-      "file": "Tymbark_apple_mint_drink_1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tymbark_apple_mint_drink_1.jpg/960px-Tymbark_apple_mint_drink_1.jpg",
-      "width": 960,
-      "height": 1099,
-      "kind": "product",
-      "alt": "Tymbark 果汁与饮料实拍",
-      "caption": "Tymbark 果汁与饮料 · 实拍",
-      "author": "Mx. Granger",
-      "license": "CC0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Tymbark_apple_mint_drink_1.jpg",
-      "checked": "2026-11-07"
-    },
     "img-b4098c6ad7f8": {
       "file": "Frederic_Chopin_photo.jpeg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/960px-Frederic_Chopin_photo.jpeg",
@@ -2392,7 +2378,6 @@ const cardImages = {
     "food-pl-kluski": "img-8e94e29b9480",
     "food-pl-ptasie-mleczko": "img-e05e819f4b02",
     "food-pl-krowki": "img-dea367d0d450",
-    "food-pl-tymbark": "img-7179b80b92cf",
     "person-pl-chopin": "img-b4098c6ad7f8",
     "person-pl-curie": "img-1ed399313e8a",
     "person-pl-copernicus": "img-34a1fa815519",

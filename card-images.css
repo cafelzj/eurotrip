@@ -18,4 +18,10 @@
 .card-image-thumbnails button.is-unavailable::after{content:'查看';font-size:12px;color:#586b5b}
 .card-image .card-image-thumbnails img{position:static;display:block;width:66px;height:50px;object-fit:cover}
 .card-image-position{display:block;margin-top:7px;color:#6e7d70;font-size:12px;font-variant-numeric:tabular-nums}
+.card-photo-carousel{position:relative;min-width:0;margin-bottom:17px}
+.card-photo-carousel>.card-image{margin-bottom:0}
+.card-photo-controls{position:absolute;z-index:2;right:9px;bottom:9px;display:flex;align-items:center;gap:5px}
+.card-photo-controls button{display:grid;place-items:center;width:30px;height:30px;padding:0;border:1px solid #d5dfd4;border-radius:50%;background:#fffffff2;color:#35553e;font:22px/1 Georgia,serif;cursor:pointer}
+.card-photo-controls .card-image-position{min-width:40px;margin:0;padding:5px 7px;border-radius:5px;background:#fffffff2;color:#35553e;text-align:center;font-size:11px;line-height:1.5}
+@media(max-width:700px){.card-photo-carousel{margin-bottom:13px}.card-photo-controls button{width:32px;height:32px}}
 @media(max-width:700px){.card-image{margin-bottom:13px}.card-image-frame{border-radius:9px}.entity-image{margin:20px 0}.entity-image .card-image-frame{max-height:380px}.entity-image figcaption{font-size:14px}}
