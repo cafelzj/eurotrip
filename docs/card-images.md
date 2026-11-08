@@ -13,3 +13,11 @@
 `card-images.js` 共用于分类列表、瀑布流和详情。列表按需加载，详情立即加载；人物和包装保留完整画面，菜品列表提供裁切预览，详情完整显示。多图卡片支持左右切换与键盘操作，详情提供缩略图和逐图署名。加载失败保留框高，正文和详情入口继续可用。图片由浏览器直接请求 Wikimedia，远程服务的可用性仍影响加载。
 
 验证命令：`node tests/data-integrity.cjs`；启动本地 HTTP 服务后，以 `SITE_URL` 运行 `tests/card-images.cjs`、`tests/card-feed.cjs`、`tests/card-layout.cjs`、`tests/destination-feature.cjs` 和 `tests/landmark-art.cjs`。图片测试使用受控像素验证布局、轮播和加载行为，并检查审核记录完整性及淘汰图片禁用；它们不证明真实照片的视觉质量。
+
+## 交通地点实拍
+
+2026-11-08 补入奥地利 9 张固定交通地点卡片：维也纳国际机场、中央车站、西站、中站、普拉特之星车站，萨尔茨堡机场和中央车站，以及因斯布鲁克机场和中央车站。12 张候选原图逐张目视后采用 9 张，淘汰 3 张主体不可辨或清晰度不足的照片。其他 50 张交通地点卡片尚待补图，不代表全站交通配图已完成。
+
+这些照片保存在 `assets/transport/`，等比缩小并转为 WebP，未改变场景或色彩。列表与详情共用现有图片组件，拍摄年份、作者、来源页和各自许可保留在素材数据及图注中。许可包含 CC BY、CC BY-SA、CC0、公有领域和 GFDL 1.2，不能统一标成 CC；逐文件说明见 `assets/transport/LICENSES.md`，GFDL 1.2 全文副本随图提供。审核记录及剩余地点见 `transport-photo-review.json`。
+
+`SITE_URL=本地预览地址 node tests/transport-images.cjs` 使用真实本地 WebP 检查图片加载、准确卡片映射、署名和桌面/手机详情布局。

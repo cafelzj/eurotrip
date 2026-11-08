@@ -2007,6 +2007,186 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Eine_Ma%C3%9F_Helles_(5943793774).jpg",
       "checked": "2026-11-08"
+    },
+    "transport-poi-salzburg-salzburg-1": {
+      "file": "Salzburg Hauptbahnhof (20190623 170409).jpg",
+      "src": "assets/transport/poi-salzburg-salzburg-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "kind": "place",
+      "alt": "萨尔茨堡中央车站实拍照片",
+      "caption": "萨尔茨堡中央车站 · 2019 年实拍",
+      "author": "Simon Legner (User:simon04)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Salzburg_Hauptbahnhof_(20190623_170409).jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "车站正立面及入口完整清楚，ÖBB 标识可辨，色彩自然；与萨尔茨堡中央车站主题一致。"
+      }
+    },
+    "transport-poi-vienna-vienna-0": {
+      "file": "2011-06-14 10-23-56 Austria Niederösterreich Fischamend Markt.jpg",
+      "src": "assets/transport/poi-vienna-vienna-0.webp",
+      "width": 1600,
+      "height": 1062,
+      "kind": "place",
+      "alt": "维也纳国际机场航站区航拍实拍照片",
+      "caption": "维也纳国际机场航站区航拍 · 2011 年实拍",
+      "author": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2011-06-14_10-23-56_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "机场航站楼、塔台、停机坪和跑道清楚，航拍主题准确；图注明确拍摄于 2011 年，不作当前航站楼路线图。"
+      }
+    },
+    "transport-poi-vienna-vienna-1": {
+      "file": "Wien Hauptbahnhof, 2019 (01).jpg",
+      "src": "assets/transport/poi-vienna-vienna-1.webp",
+      "width": 1600,
+      "height": 1060,
+      "kind": "place",
+      "alt": "维也纳中央车站实拍照片",
+      "caption": "维也纳中央车站 · 2019 年实拍",
+      "author": "Bahnfrend",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wien_Hauptbahnhof,_2019_(01).jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "维也纳中央车站站名、ÖBB 标识和入口清晰，暮色与室内照明自然，建筑主题准确。"
+      }
+    },
+    "transport-poi-vienna-vienna-2": {
+      "file": "Westbahnhof Wien. Außenansicht von Nordosten (2012).jpg",
+      "src": "assets/transport/poi-vienna-vienna-2.webp",
+      "width": 1600,
+      "height": 1063,
+      "kind": "place",
+      "alt": "维也纳西站实拍照片",
+      "caption": "维也纳西站 · 2012 年实拍",
+      "author": "Sven Gross-Selbeck",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Westbahnhof_Wien._Au%C3%9Fenansicht_von_Nordosten_(2012).jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "维也纳西站票厅与两侧建筑可辨，建筑结构完整；明确标注 2012 年拍摄。"
+      }
+    },
+    "transport-poi-salzburg-salzburg-0": {
+      "file": "Salzburg Airport LOWS RWY check flt u left base RWY15.jpg",
+      "src": "assets/transport/poi-salzburg-salzburg-0.webp",
+      "width": 1502,
+      "height": 922,
+      "kind": "place",
+      "alt": "萨尔茨堡机场跑道航拍实拍照片",
+      "caption": "萨尔茨堡机场跑道航拍 · 2019 年实拍",
+      "author": "SZGwebmaster",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Salzburg_Airport_LOWS_RWY_check_flt_u_left_base_RWY15.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "跑道与滑行道在航拍中清楚，周围山地环境可辨，主题与萨尔茨堡机场一致；图注明确为跑道航拍。"
+      }
+    },
+    "transport-poi-innsbruck-innsbruck-1": {
+      "file": "Innsbruck Hbf 2.jpg",
+      "src": "assets/transport/poi-innsbruck-innsbruck-1.webp",
+      "width": 1600,
+      "height": 1200,
+      "kind": "place",
+      "alt": "因斯布鲁克中央车站实拍照片",
+      "caption": "因斯布鲁克中央车站 · 2011 年实拍",
+      "author": "Ray ray ray",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Innsbruck_Hbf_2.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "因斯布鲁克中央车站站房、前广场和 ÖBB 标志清楚，背景山地与光色自然。"
+      }
+    },
+    "transport-venue-vienna-wien-mitte": {
+      "file": "Wien 03 Bahnhof Wien Mitte b.jpg",
+      "src": "assets/transport/venue-vienna-wien-mitte.webp",
+      "width": 1600,
+      "height": 900,
+      "kind": "place",
+      "alt": "维也纳中站实拍照片",
+      "caption": "维也纳中站 · 2013 年实拍",
+      "author": "Gugerell",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Wien_03_Bahnhof_Wien_Mitte_b.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "维也纳中站建筑入口、S-Bahn 和 CAT 标志可辨，画面清晰，站房主体明确。"
+      }
+    },
+    "transport-venue-vienna-praterstern": {
+      "file": "Praterstern 30.jpg",
+      "src": "assets/transport/venue-vienna-praterstern.webp",
+      "width": 1600,
+      "height": 900,
+      "kind": "place",
+      "alt": "普拉特之星车站实拍照片",
+      "caption": "普拉特之星车站 · 2010 年实拍",
+      "author": "Peter Gugerell",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "source": "https://commons.wikimedia.org/wiki/File:Praterstern_30.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "普拉特之星车站站房、铁路线与前广场完整可见，站点与周边城市位置关系清楚。"
+      }
+    },
+    "transport-poi-innsbruck-innsbruck-0": {
+      "file": "12-06-05-innsbruck-by-ralfr-164.jpg",
+      "src": "assets/transport/poi-innsbruck-innsbruck-0.webp",
+      "width": 1600,
+      "height": 1063,
+      "kind": "place",
+      "alt": "因斯布鲁克机场 INN实拍照片",
+      "caption": "因斯布鲁克机场 INN · 2012 年实拍",
+      "author": "Ralf Roletschek",
+      "license": "GFDL 1.2",
+      "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "source": "https://commons.wikimedia.org/wiki/File:12-06-05-innsbruck-by-ralfr-164.jpg",
+      "checked": "2026-11-08",
+      "processing": "原图等比缩小并转换 WebP，未改动场景内容或色彩。",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "因斯布鲁克机场航站楼、塔台及入口道路清楚，光线自然，建筑细节清晰。"
+      }
     }
   },
   "cards": {
@@ -2167,6 +2347,15 @@ const cardImages = {
     "person-pl-szymborska": "img-9dcc7e8e9836",
     "person-pl-walesa": "img-ca84b013df48",
     "person-pl-tokarczuk": "img-72a0bf5d6acb",
-    "food-pl-zurek": "img-89031e0031fe"
+    "food-pl-zurek": "img-89031e0031fe",
+    "poi-salzburg-salzburg-1": "transport-poi-salzburg-salzburg-1",
+    "poi-vienna-vienna-0": "transport-poi-vienna-vienna-0",
+    "poi-vienna-vienna-1": "transport-poi-vienna-vienna-1",
+    "poi-vienna-vienna-2": "transport-poi-vienna-vienna-2",
+    "poi-salzburg-salzburg-0": "transport-poi-salzburg-salzburg-0",
+    "poi-innsbruck-innsbruck-1": "transport-poi-innsbruck-innsbruck-1",
+    "venue-vienna-wien-mitte": "transport-venue-vienna-wien-mitte",
+    "venue-vienna-praterstern": "transport-venue-vienna-praterstern",
+    "poi-innsbruck-innsbruck-0": "transport-poi-innsbruck-innsbruck-0"
   }
 };

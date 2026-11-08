@@ -4,13 +4,13 @@ for(const file of ['data/cards.js','data/capitals-cards.js','data/china-cards.js
 const {cards,media}=vm.runInContext('({cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards,...sloveniaCards,...polandCards],media:cardImages})',context),byId=new Map(cards.map(n=>[n.id,n]));
 const used=new Set([...Object.values(media.cards),...Object.values(media.galleries||{}).flat()]);
 assert.equal(Object.keys(media.assets).length,used.size,'no unreferenced images');
-for(const [id,key]of Object.entries(media.cards)){assert(['person','food'].includes(byId.get(id)?.type),id);assert(media.assets[key],id);}
+for(const [id,key]of Object.entries(media.cards)){const node=byId.get(id);assert(['person','food'].includes(node?.type)||(node?.type==='place'&&node.category==='transport'),id);assert(media.assets[key],id);}
 for(const [id,keys]of Object.entries(media.galleries||{})){assert(media.cards[id],id+' gallery has a cover');assert(Array.isArray(keys)&&keys.length>0);assert.equal(new Set(keys).size,keys.length,'gallery has no duplicate entries');assert(keys.every(key=>media.assets[key]),id+' gallery references existing photos');}
 for(const [key,image]of Object.entries(media.assets)){
- assert(used.has(key));assert(/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\//.test(image.src));
+ assert(used.has(key));if(image.kind==='place'){assert(/^assets\/transport\/[a-z0-9-]+\.webp$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert.equal(image.visualReview?.status,'approved');}else assert(/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\//.test(image.src));
  assert(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(image.source));assert(/^https:\/\//.test(image.licenseUrl));
  assert(image.alt&&image.caption&&image.author&&image.license&&image.file&&/^\d{4}-\d\d-\d\d$/.test(image.checked));
- assert(Number.isInteger(image.width)&&image.width>0&&Number.isInteger(image.height)&&image.height>0);assert(['food','portrait','product'].includes(image.kind));
+ assert(Number.isInteger(image.width)&&image.width>0&&Number.isInteger(image.height)&&image.height>0);assert(['food','portrait','product','place'].includes(image.kind));
 }
 assert(cards.filter(n=>n.type==='person').every(n=>media.cards[n.id]),'all existing people have a reviewed image');
 assert(!media.cards['food-xuzhou-lomo'],'Luomo musician is not the Xuzhou flatbread');
@@ -28,7 +28,7 @@ assert.equal(reviewed.size+pending.size,(photoReview.reviewed||[]).length+photoR
 for(const [key,entry]of pending){assert.equal(entry.status,'needs-visual-review');assert(media.assets[key],'pending photo is still accounted for');assert(!reviewed.has(key));}
 for(const [key,entry]of reviewed)if(entry.status==='approved')assert.equal(media.assets[key]?.file,entry.file,'approved photo remains in the catalog');
 for(const [key,image]of Object.entries(media.assets)){
- if(image.kind==='portrait')continue;
+ if(['portrait','place'].includes(image.kind))continue;
  const decision=reviewed.get(key);
  assert(decision?.status==='approved'||pending.has(key),'photo has an audit record: '+key);
  if(decision){assert(decision.notes&&decision.reviewedAt&&decision.method);assert(/^[a-f0-9]{64}$/.test(decision.originalSha256),'original download fingerprint: '+key);assert.equal(image.visualReview?.status,'approved');}

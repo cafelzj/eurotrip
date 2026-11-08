@@ -1,0 +1,427 @@
+{
+  "updatedAt": "2026-11-08",
+  "scope": "奥地利 9 张固定车站与机场卡片；其他交通地点尚待补图。",
+  "allTransportCoverageComplete": false,
+  "reviewed": [
+    {
+      "card": "poi-salzburg-salzburg-1",
+      "file": "Salzburg Hauptbahnhof (20190623 170409).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salzburg_Hauptbahnhof_(20190623_170409).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Salzburg_Hauptbahnhof_%2820190623_170409%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Simon Legner (User:simon04)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": "approved",
+      "notes": "车站正立面及入口完整清楚，ÖBB 标识可辨，色彩自然；与萨尔茨堡中央车站主题一致。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "567f379bee50cc0ebd2fcb50ea6892713b798e01351dc324c77002c018bb52d2",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-vienna-vienna-0",
+      "file": "2011-06-14 10-23-56 Austria Niederösterreich Fischamend Markt.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2011-06-14_10-23-56_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/2011-06-14_10-23-56_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Hansueli Krapf",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "status": "approved",
+      "notes": "机场航站楼、塔台、停机坪和跑道清楚，航拍主题准确；图注明确拍摄于 2011 年，不作当前航站楼路线图。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "652de4726ddff686fd7d7bbe14e431fc10c6790538f7b705af04f8118f819bd1",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-vienna-vienna-1",
+      "file": "Wien Hauptbahnhof, 2019 (01).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wien_Hauptbahnhof,_2019_(01).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wien_Hauptbahnhof%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Bahnfrend",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": "approved",
+      "notes": "维也纳中央车站站名、ÖBB 标识和入口清晰，暮色与室内照明自然，建筑主题准确。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "d0e59b6c3a03c1f4c5b29dd868234f29d12a9b2e17b2fae9385e129d5db822a9",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-vienna-vienna-2",
+      "file": "Westbahnhof Wien. Außenansicht von Nordosten (2012).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Westbahnhof_Wien._Au%C3%9Fenansicht_von_Nordosten_(2012).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Westbahnhof_Wien._Au%C3%9Fenansicht_von_Nordosten_%282012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Sven Gross-Selbeck",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "status": "approved",
+      "notes": "维也纳西站票厅与两侧建筑可辨，建筑结构完整；明确标注 2012 年拍摄。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "41cc53d22c0be085455f248dc24e5ab84f98ff99cd954957359558b7ff2a7150",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-salzburg-salzburg-0",
+      "file": "Salzburg Airport LOWS RWY check flt u left base RWY15.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salzburg_Airport_LOWS_RWY_check_flt_u_left_base_RWY15.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Salzburg_Airport_LOWS_RWY_check_flt_u_left_base_RWY15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "SZGwebmaster",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": "approved",
+      "notes": "跑道与滑行道在航拍中清楚，周围山地环境可辨，主题与萨尔茨堡机场一致；图注明确为跑道航拍。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "5046568fa056c8f0c5f1b27fa350c9f9d3b3f3b2cd190b0a70f02171bffb2440",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-innsbruck-innsbruck-0",
+      "file": "6020 Innsbruck, Flughafen Innsbruck Ostseite 01 2021-10-19.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:6020_Innsbruck,_Flughafen_Innsbruck_Ostseite_01_2021-10-19.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/6020_Innsbruck%2C_Flughafen_Innsbruck_Ostseite_01_2021-10-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Hangman'sDeath",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "status": "rejected",
+      "notes": "画面几乎只有草地、天空和远山，看不清机场跑道、航站楼或标识，不能帮助辨认机场。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "175fb6ca4afb39de11630ef1250eee2fe3d49383a8f3f664ffeefc29de7671be",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-innsbruck-innsbruck-1",
+      "file": "Innsbruck Hbf 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Innsbruck_Hbf_2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Innsbruck_Hbf_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ray ray ray",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "status": "approved",
+      "notes": "因斯布鲁克中央车站站房、前广场和 ÖBB 标志清楚，背景山地与光色自然。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "95b3740fd8c1ee75aa32f502fd7b0ab5db1fbd3e6d9af0fa237208bd1d11454f",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "venue-vienna-wien-mitte",
+      "file": "Wien 03 Bahnhof Wien Mitte b.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wien_03_Bahnhof_Wien_Mitte_b.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Wien_03_Bahnhof_Wien_Mitte_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Gugerell",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "status": "approved",
+      "notes": "维也纳中站建筑入口、S-Bahn 和 CAT 标志可辨，画面清晰，站房主体明确。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "628de7c5f1af80b6e62dbfc96484dcc87bf14ef53febf2136c250668a26b0f58",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "venue-vienna-praterstern",
+      "file": "Praterstern Wien - Vorplatz-4938.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Praterstern_Wien_-_Vorplatz-4938.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Praterstern_Wien_-_Vorplatz-4938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Hubertl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "status": "rejected",
+      "notes": "前景立杆遮挡主体，画面主要是 ÖBB 标志和棚架特写，无法清楚认识普拉特之星车站。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "5b0346ee86b23f0816f4a6253e8aed8b563682c16d78f62bd8b16dc417311c3c",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-innsbruck-innsbruck-0",
+      "file": "Innsbruck Airport.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Innsbruck_Airport.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Innsbruck_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Stephan Mosel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "status": "rejected",
+      "notes": "远摄画面偏软且噪点较重，航站区细节不足，另选清晰的航站楼正面照片。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "8c7c90aba1c3ea6bd103cb9743e7b7ecab41e4446101bdc9a62092897cc2e9f2",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "venue-vienna-praterstern",
+      "file": "Praterstern 30.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Praterstern_30.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Praterstern_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Peter Gugerell",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "status": "approved",
+      "notes": "普拉特之星车站站房、铁路线与前广场完整可见，站点与周边城市位置关系清楚。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "00d2a0aa65d73b80c1995b07ff351fe0e4ab6aa50c9f50e5532d541561ae1c3a",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    },
+    {
+      "card": "poi-innsbruck-innsbruck-0",
+      "file": "12-06-05-innsbruck-by-ralfr-164.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12-06-05-innsbruck-by-ralfr-164.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/12-06-05-innsbruck-by-ralfr-164.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Ralf Roletschek",
+      "license": "GFDL 1.2",
+      "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "status": "approved",
+      "notes": "因斯布鲁克机场航站楼、塔台及入口道路清楚，光线自然，建筑细节清晰。",
+      "reviewedAt": "2026-11-08",
+      "originalSha256": "987f56cf18556b58f3ba8e3ebde37bd6f30ce2d5b2f440d901322e1411d76210",
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+    }
+  ],
+  "pending": [
+    {
+      "card": "poi-budapest-budapest-0",
+      "name": "布达佩斯李斯特国际机场 BUD",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-budapest-budapest-1",
+      "name": "东站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-budapest-budapest-2",
+      "name": "西站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-debrecen-debrecen-0",
+      "name": "德布勒森国际机场 DEB",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-debrecen-debrecen-1",
+      "name": "德布勒森车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-szeged-szeged-0",
+      "name": "塞格德机场",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-szeged-szeged-1",
+      "name": "塞格德车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-berlin-berlin-0",
+      "name": "柏林勃兰登堡机场 BER",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-berlin-berlin-1",
+      "name": "柏林中央车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-berlin-berlin-2",
+      "name": "东十字站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-munich-munich-0",
+      "name": "慕尼黑机场 MUC",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-munich-munich-1",
+      "name": "慕尼黑中央车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-munich-munich-2",
+      "name": "慕尼黑东站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-hamburg-hamburg-0",
+      "name": "汉堡机场 HAM",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-hamburg-hamburg-1",
+      "name": "汉堡中央车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-hamburg-hamburg-2",
+      "name": "汉堡阿尔托纳站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-cologne-cologne-0",
+      "name": "科隆波恩机场 CGN",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-cologne-cologne-1",
+      "name": "科隆中央车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "poi-cologne-cologne-2",
+      "name": "科隆展会/道依茨站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-hamburg-ferry",
+      "name": "Landungsbrücken 轮渡码头",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-belgrade-airport",
+      "name": "贝尔格莱德尼古拉·特斯拉机场",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-belgrade-station",
+      "name": "贝尔格莱德中央站（Prokop）",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-novi-sad-station",
+      "name": "诺维萨德火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-nis-airport",
+      "name": "尼什君士坦丁大帝机场",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-nis-station",
+      "name": "尼什火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-budapest-deli",
+      "name": "布达佩斯南站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-budapest-deak",
+      "name": "戴阿克·费伦茨广场换乘区",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-suzhou-station",
+      "name": "苏州站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-suzhou-north-station",
+      "name": "苏州北站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-xuzhou-station",
+      "name": "徐州站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-xuzhou-east-station",
+      "name": "徐州东站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-xuzhou-airport",
+      "name": "徐州观音国际机场",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-wuxi-station",
+      "name": "无锡站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-wuxi-east-station",
+      "name": "无锡东站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "venue-wuxi-airport",
+      "name": "苏南硕放国际机场",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-ljubljana-airport",
+      "name": "卢布尔雅那约热·普奇尼克机场 LJU",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-ljubljana-station",
+      "name": "卢布尔雅那火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-maribor-station",
+      "name": "马里博尔火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-bled-lesce-station",
+      "name": "Lesce–Bled 火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-bled-jezero-station",
+      "name": "Bled Jezero 火车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-piran-koper-station",
+      "name": "科佩尔火车站 · 皮兰铁路接驳",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-warsaw-chopin-airport",
+      "name": "华沙肖邦机场 WAW",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-warsaw-modlin-airport",
+      "name": "华沙莫德林机场 WMI",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-krakow-airport",
+      "name": "克拉科夫若望·保禄二世机场 KRK",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-gdansk-airport",
+      "name": "格但斯克莱赫·瓦文萨机场 GDN",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-wroclaw-airport",
+      "name": "弗罗茨瓦夫哥白尼机场 WRO",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-warsaw-station",
+      "name": "华沙中央车站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-krakow-station",
+      "name": "克拉科夫火车总站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-gdansk-station",
+      "name": "格但斯克火车总站",
+      "status": "needs-photo-search-and-visual-review"
+    },
+    {
+      "card": "place-wroclaw-station",
+      "name": "弗罗茨瓦夫火车总站",
+      "status": "needs-photo-search-and-visual-review"
+    }
+  ]
+}
