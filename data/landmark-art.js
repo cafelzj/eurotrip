@@ -1,8 +1,8 @@
 /* Curated AI travel illustrations. Interpretive artwork, not documentary photographs. */
 const landmarkArt = {
   "place-budapest-0": {
-    "src": "assets/landmarks/budapest-parliament.webp",
-    "thumbnail": "assets/landmarks/budapest-parliament-480.webp",
+    "src": "assets/landmarks/budapest-parliament.jpg",
+    "thumbnail": "assets/landmarks/budapest-parliament-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩",
@@ -13,8 +13,8 @@ const landmarkArt = {
     "styleReason": "用多瑙河的蓝绿与新哥特式建筑的暖石色组织水彩画面。"
   },
   "place-vienna-0": {
-    "src": "assets/landmarks/vienna-stephansdom.webp",
-    "thumbnail": "assets/landmarks/vienna-stephansdom-480.webp",
+    "src": "assets/landmarks/vienna-stephansdom.jpg",
+    "thumbnail": "assets/landmarks/vienna-stephansdom-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "油画",
@@ -25,8 +25,8 @@ const landmarkArt = {
     "styleReason": "以油画的笔触和暖光表现维也纳历史建筑与彩色瓦屋顶。"
   },
   "place-berlin-0": {
-    "src": "assets/landmarks/berlin-brandenburg.webp",
-    "thumbnail": "assets/landmarks/berlin-brandenburg-480.webp",
+    "src": "assets/landmarks/berlin-brandenburg.jpg",
+    "thumbnail": "assets/landmarks/berlin-brandenburg-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "复古海报",
@@ -37,8 +37,8 @@ const landmarkArt = {
     "styleReason": "借鉴现代主义旅行海报，以几何色块概括古典城门。"
   },
   "place-belgrade-fortress": {
-    "src": "assets/landmarks/belgrade-fortress.webp",
-    "thumbnail": "assets/landmarks/belgrade-fortress-480.webp",
+    "src": "assets/landmarks/belgrade-fortress.jpg",
+    "thumbnail": "assets/landmarks/belgrade-fortress-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "油画",
@@ -49,8 +49,8 @@ const landmarkArt = {
     "styleReason": "以塞尔维亚河岸城市的暖石色与绿荫组织风景油画。"
   },
   "place-bled-island": {
-    "src": "assets/landmarks/bled-island.webp",
-    "thumbnail": "assets/landmarks/bled-island-480.webp",
+    "src": "assets/landmarks/bled-island.jpg",
+    "thumbnail": "assets/landmarks/bled-island-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩",
@@ -61,8 +61,8 @@ const landmarkArt = {
     "styleReason": "从斯洛文尼亚湖泊与山地景色取色，使用轻盈水彩。"
   },
   "place-krakow-wawel": {
-    "src": "assets/landmarks/krakow-wawel.webp",
-    "thumbnail": "assets/landmarks/krakow-wawel-480.webp",
+    "src": "assets/landmarks/krakow-wawel.jpg",
+    "thumbnail": "assets/landmarks/krakow-wawel-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "装饰艺术海报",
@@ -73,8 +73,8 @@ const landmarkArt = {
     "styleReason": "借鉴波兰旅行海报与装饰艺术的层次和配色。"
   },
   "venue-suzhou-humble-administrator": {
-    "src": "assets/landmarks/suzhou-garden.webp",
-    "thumbnail": "assets/landmarks/suzhou-garden-480.webp",
+    "src": "assets/landmarks/suzhou-garden.jpg",
+    "thumbnail": "assets/landmarks/suzhou-garden-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水墨",
@@ -85,8 +85,8 @@ const landmarkArt = {
     "styleReason": "从江南文人画与吴门山水取意，描绘园林意境。"
   },
   "venue-wuxi-yuantouzhu": {
-    "src": "assets/landmarks/wuxi-yuantouzhu.webp",
-    "thumbnail": "assets/landmarks/wuxi-yuantouzhu-480.webp",
+    "src": "assets/landmarks/wuxi-yuantouzhu.jpg",
+    "thumbnail": "assets/landmarks/wuxi-yuantouzhu-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水粉",
@@ -97,8 +97,8 @@ const landmarkArt = {
     "styleReason": "结合太湖春景与当代水粉，以樱花粉和湖水青绿取色。"
   },
   "venue-xuzhou-han-culture": {
-    "src": "assets/landmarks/xuzhou-han.webp",
-    "thumbnail": "assets/landmarks/xuzhou-han-480.webp",
+    "src": "assets/landmarks/xuzhou-han.jpg",
+    "thumbnail": "assets/landmarks/xuzhou-han-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "展览海报",
@@ -109,8 +109,8 @@ const landmarkArt = {
     "styleReason": "结合汉俑与画像石文化线索，采用克制的展览海报构图。"
   },
   "place-budapest-1": {
-    "src": "assets/landmarks/atlas-hu-01.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-01-960.webp",
+    "src": "assets/landmarks/atlas-hu-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -125,8 +125,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-budapest-2": {
-    "src": "assets/landmarks/atlas-hu-01.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-01-960.webp",
+    "src": "assets/landmarks/atlas-hu-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -141,8 +141,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-budapest-3": {
-    "src": "assets/landmarks/atlas-hu-01.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-01-960.webp",
+    "src": "assets/landmarks/atlas-hu-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -157,8 +157,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-budapest-4": {
-    "src": "assets/landmarks/atlas-hu-01.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-01-960.webp",
+    "src": "assets/landmarks/atlas-hu-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -173,8 +173,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-hungarian-museum": {
-    "src": "assets/landmarks/atlas-hu-01.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-01-960.webp",
+    "src": "assets/landmarks/atlas-hu-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -190,8 +190,8 @@ const landmarkArt = {
     "aliasOf": "place-budapest-4"
   },
   "place-budapest-5": {
-    "src": "assets/landmarks/atlas-hu-02.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-02-960.webp",
+    "src": "assets/landmarks/atlas-hu-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -206,8 +206,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-budapest-6": {
-    "src": "assets/landmarks/atlas-hu-02.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-02-960.webp",
+    "src": "assets/landmarks/atlas-hu-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -222,8 +222,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-debrecen-0": {
-    "src": "assets/landmarks/atlas-hu-02.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-02-960.webp",
+    "src": "assets/landmarks/atlas-hu-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -238,8 +238,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-debrecen-1": {
-    "src": "assets/landmarks/atlas-hu-02.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-02-960.webp",
+    "src": "assets/landmarks/atlas-hu-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -254,8 +254,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-debrecen-2": {
-    "src": "assets/landmarks/atlas-hu-03.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-03-960.webp",
+    "src": "assets/landmarks/atlas-hu-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -270,8 +270,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-debrecen-3": {
-    "src": "assets/landmarks/atlas-hu-03.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-03-960.webp",
+    "src": "assets/landmarks/atlas-hu-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -286,8 +286,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-szeged-0": {
-    "src": "assets/landmarks/atlas-hu-03.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-03-960.webp",
+    "src": "assets/landmarks/atlas-hu-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -302,8 +302,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-szeged-1": {
-    "src": "assets/landmarks/atlas-hu-03.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-03-960.webp",
+    "src": "assets/landmarks/atlas-hu-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -318,8 +318,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-szeged-2": {
-    "src": "assets/landmarks/atlas-hu-04.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-04-960.webp",
+    "src": "assets/landmarks/atlas-hu-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -334,8 +334,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-szeged-3": {
-    "src": "assets/landmarks/atlas-hu-04.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-04-960.webp",
+    "src": "assets/landmarks/atlas-hu-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -350,8 +350,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-szeged-4": {
-    "src": "assets/landmarks/atlas-hu-04.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-04-960.webp",
+    "src": "assets/landmarks/atlas-hu-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -366,8 +366,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-buda-castle": {
-    "src": "assets/landmarks/atlas-hu-04.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-04-960.webp",
+    "src": "assets/landmarks/atlas-hu-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -382,8 +382,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-matthias": {
-    "src": "assets/landmarks/atlas-hu-05.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-05-960.webp",
+    "src": "assets/landmarks/atlas-hu-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -398,8 +398,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-chain-bridge": {
-    "src": "assets/landmarks/atlas-hu-05.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-05-960.webp",
+    "src": "assets/landmarks/atlas-hu-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -414,8 +414,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-heroes-square": {
-    "src": "assets/landmarks/atlas-hu-05.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-05-960.webp",
+    "src": "assets/landmarks/atlas-hu-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -430,8 +430,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-fine-arts": {
-    "src": "assets/landmarks/atlas-hu-05.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-05-960.webp",
+    "src": "assets/landmarks/atlas-hu-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -446,8 +446,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-national-gallery": {
-    "src": "assets/landmarks/atlas-hu-06.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-06-960.webp",
+    "src": "assets/landmarks/atlas-hu-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -462,8 +462,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-dohany": {
-    "src": "assets/landmarks/atlas-hu-06.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-06-960.webp",
+    "src": "assets/landmarks/atlas-hu-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -478,8 +478,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-margaret-island": {
-    "src": "assets/landmarks/atlas-hu-06.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-06-960.webp",
+    "src": "assets/landmarks/atlas-hu-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -494,8 +494,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-city-park": {
-    "src": "assets/landmarks/atlas-hu-06.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-06-960.webp",
+    "src": "assets/landmarks/atlas-hu-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -510,8 +510,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-vajdahunyad": {
-    "src": "assets/landmarks/atlas-hu-07.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-07-960.webp",
+    "src": "assets/landmarks/atlas-hu-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -526,8 +526,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-opera": {
-    "src": "assets/landmarks/atlas-hu-07.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-07-960.webp",
+    "src": "assets/landmarks/atlas-hu-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -542,8 +542,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-mupa": {
-    "src": "assets/landmarks/atlas-hu-07.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-07-960.webp",
+    "src": "assets/landmarks/atlas-hu-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -558,8 +558,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-vigado": {
-    "src": "assets/landmarks/atlas-hu-07.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-07-960.webp",
+    "src": "assets/landmarks/atlas-hu-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -574,8 +574,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-bme": {
-    "src": "assets/landmarks/atlas-hu-08.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-08-960.webp",
+    "src": "assets/landmarks/atlas-hu-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -590,8 +590,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-rudas": {
-    "src": "assets/landmarks/atlas-hu-08.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-08-960.webp",
+    "src": "assets/landmarks/atlas-hu-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -606,8 +606,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-budapest-liberty-bridge": {
-    "src": "assets/landmarks/atlas-hu-08.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-08-960.webp",
+    "src": "assets/landmarks/atlas-hu-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -622,8 +622,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "culture-budapest-house-music": {
-    "src": "assets/landmarks/atlas-hu-08.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-08-960.webp",
+    "src": "assets/landmarks/atlas-hu-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -638,8 +638,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "culture-budapest-ethnography": {
-    "src": "assets/landmarks/atlas-hu-09.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-09-960.webp",
+    "src": "assets/landmarks/atlas-hu-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -654,8 +654,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-budapest": {
-    "src": "assets/landmarks/atlas-hu-09.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-09-960.webp",
+    "src": "assets/landmarks/atlas-hu-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -670,8 +670,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-hortobagy": {
-    "src": "assets/landmarks/atlas-hu-09.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-09-960.webp",
+    "src": "assets/landmarks/atlas-hu-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -686,8 +686,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-tokaj": {
-    "src": "assets/landmarks/atlas-hu-09.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-09-960.webp",
+    "src": "assets/landmarks/atlas-hu-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -702,8 +702,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-pannonhalma": {
-    "src": "assets/landmarks/atlas-hu-10.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-10-960.webp",
+    "src": "assets/landmarks/atlas-hu-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -718,8 +718,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-ferto-neusiedlersee": {
-    "src": "assets/landmarks/atlas-hu-10.webp",
-    "thumbnail": "assets/landmarks/atlas-hu-10-960.webp",
+    "src": "assets/landmarks/atlas-hu-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-hu-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -734,8 +734,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-vienna-1": {
-    "src": "assets/landmarks/atlas-at-01.webp",
-    "thumbnail": "assets/landmarks/atlas-at-01-960.webp",
+    "src": "assets/landmarks/atlas-at-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -750,8 +750,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-vienna-2": {
-    "src": "assets/landmarks/atlas-at-01.webp",
-    "thumbnail": "assets/landmarks/atlas-at-01-960.webp",
+    "src": "assets/landmarks/atlas-at-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -766,8 +766,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-vienna-3": {
-    "src": "assets/landmarks/atlas-at-01.webp",
-    "thumbnail": "assets/landmarks/atlas-at-01-960.webp",
+    "src": "assets/landmarks/atlas-at-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -782,8 +782,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-salzburg-0": {
-    "src": "assets/landmarks/atlas-at-01.webp",
-    "thumbnail": "assets/landmarks/atlas-at-01-960.webp",
+    "src": "assets/landmarks/atlas-at-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -798,8 +798,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-salzburg-1": {
-    "src": "assets/landmarks/atlas-at-02.webp",
-    "thumbnail": "assets/landmarks/atlas-at-02-960.webp",
+    "src": "assets/landmarks/atlas-at-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -814,8 +814,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-salzburg-2": {
-    "src": "assets/landmarks/atlas-at-02.webp",
-    "thumbnail": "assets/landmarks/atlas-at-02-960.webp",
+    "src": "assets/landmarks/atlas-at-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -830,8 +830,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-salzburg-3": {
-    "src": "assets/landmarks/atlas-at-02.webp",
-    "thumbnail": "assets/landmarks/atlas-at-02-960.webp",
+    "src": "assets/landmarks/atlas-at-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -846,8 +846,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-salzburg-4": {
-    "src": "assets/landmarks/atlas-at-02.webp",
-    "thumbnail": "assets/landmarks/atlas-at-02-960.webp",
+    "src": "assets/landmarks/atlas-at-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -862,8 +862,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-0": {
-    "src": "assets/landmarks/atlas-at-03.webp",
-    "thumbnail": "assets/landmarks/atlas-at-03-960.webp",
+    "src": "assets/landmarks/atlas-at-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -878,8 +878,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-1": {
-    "src": "assets/landmarks/atlas-at-03.webp",
-    "thumbnail": "assets/landmarks/atlas-at-03-960.webp",
+    "src": "assets/landmarks/atlas-at-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -894,8 +894,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-2": {
-    "src": "assets/landmarks/atlas-at-03.webp",
-    "thumbnail": "assets/landmarks/atlas-at-03-960.webp",
+    "src": "assets/landmarks/atlas-at-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -910,8 +910,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-3": {
-    "src": "assets/landmarks/atlas-at-03.webp",
-    "thumbnail": "assets/landmarks/atlas-at-03-960.webp",
+    "src": "assets/landmarks/atlas-at-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -926,8 +926,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-4": {
-    "src": "assets/landmarks/atlas-at-04.webp",
-    "thumbnail": "assets/landmarks/atlas-at-04-960.webp",
+    "src": "assets/landmarks/atlas-at-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -942,8 +942,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-innsbruck-5": {
-    "src": "assets/landmarks/atlas-at-04.webp",
-    "thumbnail": "assets/landmarks/atlas-at-04-960.webp",
+    "src": "assets/landmarks/atlas-at-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -958,8 +958,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-kunsthistorisches": {
-    "src": "assets/landmarks/atlas-at-04.webp",
-    "thumbnail": "assets/landmarks/atlas-at-04-960.webp",
+    "src": "assets/landmarks/atlas-at-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -974,8 +974,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-prater": {
-    "src": "assets/landmarks/atlas-at-04.webp",
-    "thumbnail": "assets/landmarks/atlas-at-04-960.webp",
+    "src": "assets/landmarks/atlas-at-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -990,8 +990,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-museumsquartier": {
-    "src": "assets/landmarks/atlas-at-05.webp",
-    "thumbnail": "assets/landmarks/atlas-at-05-960.webp",
+    "src": "assets/landmarks/atlas-at-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1006,8 +1006,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-opera": {
-    "src": "assets/landmarks/atlas-at-05.webp",
-    "thumbnail": "assets/landmarks/atlas-at-05-960.webp",
+    "src": "assets/landmarks/atlas-at-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1022,8 +1022,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-salzburg-festspielhaus": {
-    "src": "assets/landmarks/atlas-at-05.webp",
-    "thumbnail": "assets/landmarks/atlas-at-05-960.webp",
+    "src": "assets/landmarks/atlas-at-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1038,8 +1038,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-hofburg": {
-    "src": "assets/landmarks/atlas-at-05.webp",
-    "thumbnail": "assets/landmarks/atlas-at-05-960.webp",
+    "src": "assets/landmarks/atlas-at-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1054,8 +1054,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-natural-history": {
-    "src": "assets/landmarks/atlas-at-07.webp",
-    "thumbnail": "assets/landmarks/atlas-at-07-960.webp",
+    "src": "assets/landmarks/atlas-at-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1070,8 +1070,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-house-music": {
-    "src": "assets/landmarks/atlas-at-07.webp",
-    "thumbnail": "assets/landmarks/atlas-at-07-960.webp",
+    "src": "assets/landmarks/atlas-at-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1086,8 +1086,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-wien-museum": {
-    "src": "assets/landmarks/atlas-at-07.webp",
-    "thumbnail": "assets/landmarks/atlas-at-07-960.webp",
+    "src": "assets/landmarks/atlas-at-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1102,8 +1102,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-karlskirche": {
-    "src": "assets/landmarks/atlas-at-07.webp",
-    "thumbnail": "assets/landmarks/atlas-at-07-960.webp",
+    "src": "assets/landmarks/atlas-at-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1118,8 +1118,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-votivkirche": {
-    "src": "assets/landmarks/atlas-at-08.webp",
-    "thumbnail": "assets/landmarks/atlas-at-08-960.webp",
+    "src": "assets/landmarks/atlas-at-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1134,8 +1134,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-musikverein": {
-    "src": "assets/landmarks/atlas-at-08.webp",
-    "thumbnail": "assets/landmarks/atlas-at-08-960.webp",
+    "src": "assets/landmarks/atlas-at-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1150,8 +1150,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-konzerthaus": {
-    "src": "assets/landmarks/atlas-at-08.webp",
-    "thumbnail": "assets/landmarks/atlas-at-08-960.webp",
+    "src": "assets/landmarks/atlas-at-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1166,8 +1166,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-burgtheater": {
-    "src": "assets/landmarks/atlas-at-08.webp",
-    "thumbnail": "assets/landmarks/atlas-at-08-960.webp",
+    "src": "assets/landmarks/atlas-at-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1182,8 +1182,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-hundertwasser": {
-    "src": "assets/landmarks/atlas-at-09.webp",
-    "thumbnail": "assets/landmarks/atlas-at-09-960.webp",
+    "src": "assets/landmarks/atlas-at-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1198,8 +1198,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-stadtpark": {
-    "src": "assets/landmarks/atlas-at-09.webp",
-    "thumbnail": "assets/landmarks/atlas-at-09-960.webp",
+    "src": "assets/landmarks/atlas-at-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1214,8 +1214,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-augarten": {
-    "src": "assets/landmarks/atlas-at-09.webp",
-    "thumbnail": "assets/landmarks/atlas-at-09-960.webp",
+    "src": "assets/landmarks/atlas-at-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1230,8 +1230,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-danube-island": {
-    "src": "assets/landmarks/atlas-at-09.webp",
-    "thumbnail": "assets/landmarks/atlas-at-09-960.webp",
+    "src": "assets/landmarks/atlas-at-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1246,8 +1246,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-wu": {
-    "src": "assets/landmarks/atlas-at-10.webp",
-    "thumbnail": "assets/landmarks/atlas-at-10-960.webp",
+    "src": "assets/landmarks/atlas-at-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1262,8 +1262,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-central-cemetery": {
-    "src": "assets/landmarks/atlas-at-10.webp",
-    "thumbnail": "assets/landmarks/atlas-at-10-960.webp",
+    "src": "assets/landmarks/atlas-at-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1278,8 +1278,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-freud-museum": {
-    "src": "assets/landmarks/atlas-at-10.webp",
-    "thumbnail": "assets/landmarks/atlas-at-10-960.webp",
+    "src": "assets/landmarks/atlas-at-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1294,8 +1294,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-vienna-centre": {
-    "src": "assets/landmarks/atlas-at-10.webp",
-    "thumbnail": "assets/landmarks/atlas-at-10-960.webp",
+    "src": "assets/landmarks/atlas-at-10.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-10-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1310,8 +1310,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-schonbrunn": {
-    "src": "assets/landmarks/atlas-at-11.webp",
-    "thumbnail": "assets/landmarks/atlas-at-11-960.webp",
+    "src": "assets/landmarks/atlas-at-11.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-11-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1326,8 +1326,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-salzburg": {
-    "src": "assets/landmarks/atlas-at-11.webp",
-    "thumbnail": "assets/landmarks/atlas-at-11-960.webp",
+    "src": "assets/landmarks/atlas-at-11.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-11-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1342,8 +1342,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-berlin-1": {
-    "src": "assets/landmarks/atlas-de-01.webp",
-    "thumbnail": "assets/landmarks/atlas-de-01-960.webp",
+    "src": "assets/landmarks/atlas-de-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1358,8 +1358,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-berlin-2": {
-    "src": "assets/landmarks/atlas-de-01.webp",
-    "thumbnail": "assets/landmarks/atlas-de-01-960.webp",
+    "src": "assets/landmarks/atlas-de-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1374,8 +1374,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-berlin-3": {
-    "src": "assets/landmarks/atlas-de-01.webp",
-    "thumbnail": "assets/landmarks/atlas-de-01-960.webp",
+    "src": "assets/landmarks/atlas-de-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1390,8 +1390,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-berlin-4": {
-    "src": "assets/landmarks/atlas-de-01.webp",
-    "thumbnail": "assets/landmarks/atlas-de-01-960.webp",
+    "src": "assets/landmarks/atlas-de-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1406,8 +1406,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-0": {
-    "src": "assets/landmarks/atlas-de-02.webp",
-    "thumbnail": "assets/landmarks/atlas-de-02-960.webp",
+    "src": "assets/landmarks/atlas-de-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1422,8 +1422,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-1": {
-    "src": "assets/landmarks/atlas-de-02.webp",
-    "thumbnail": "assets/landmarks/atlas-de-02-960.webp",
+    "src": "assets/landmarks/atlas-de-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1438,8 +1438,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-2": {
-    "src": "assets/landmarks/atlas-de-02.webp",
-    "thumbnail": "assets/landmarks/atlas-de-02-960.webp",
+    "src": "assets/landmarks/atlas-de-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1454,8 +1454,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-3": {
-    "src": "assets/landmarks/atlas-de-02.webp",
-    "thumbnail": "assets/landmarks/atlas-de-02-960.webp",
+    "src": "assets/landmarks/atlas-de-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1470,8 +1470,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-4": {
-    "src": "assets/landmarks/atlas-de-03.webp",
-    "thumbnail": "assets/landmarks/atlas-de-03-960.webp",
+    "src": "assets/landmarks/atlas-de-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1486,8 +1486,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-5": {
-    "src": "assets/landmarks/atlas-de-03.webp",
-    "thumbnail": "assets/landmarks/atlas-de-03-960.webp",
+    "src": "assets/landmarks/atlas-de-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1502,8 +1502,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-munich-6": {
-    "src": "assets/landmarks/atlas-de-03.webp",
-    "thumbnail": "assets/landmarks/atlas-de-03-960.webp",
+    "src": "assets/landmarks/atlas-de-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1518,8 +1518,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-hamburg-0": {
-    "src": "assets/landmarks/atlas-de-03.webp",
-    "thumbnail": "assets/landmarks/atlas-de-03-960.webp",
+    "src": "assets/landmarks/atlas-de-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1534,8 +1534,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-albertina": {
-    "src": "assets/landmarks/atlas-at-06.webp",
-    "thumbnail": "assets/landmarks/atlas-at-06-960.webp",
+    "src": "assets/landmarks/atlas-at-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1550,8 +1550,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-leopold": {
-    "src": "assets/landmarks/atlas-at-06.webp",
-    "thumbnail": "assets/landmarks/atlas-at-06-960.webp",
+    "src": "assets/landmarks/atlas-at-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1566,8 +1566,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-secession": {
-    "src": "assets/landmarks/atlas-at-06.webp",
-    "thumbnail": "assets/landmarks/atlas-at-06-960.webp",
+    "src": "assets/landmarks/atlas-at-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1582,8 +1582,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-vienna-mak": {
-    "src": "assets/landmarks/atlas-at-06.webp",
-    "thumbnail": "assets/landmarks/atlas-at-06-960.webp",
+    "src": "assets/landmarks/atlas-at-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-at-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1598,8 +1598,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-hamburg-1": {
-    "src": "assets/landmarks/atlas-de-04.webp",
-    "thumbnail": "assets/landmarks/atlas-de-04-960.webp",
+    "src": "assets/landmarks/atlas-de-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1614,8 +1614,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-hamburg-2": {
-    "src": "assets/landmarks/atlas-de-04.webp",
-    "thumbnail": "assets/landmarks/atlas-de-04-960.webp",
+    "src": "assets/landmarks/atlas-de-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1630,8 +1630,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-hamburg-3": {
-    "src": "assets/landmarks/atlas-de-04.webp",
-    "thumbnail": "assets/landmarks/atlas-de-04-960.webp",
+    "src": "assets/landmarks/atlas-de-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1646,8 +1646,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-hamburg-4": {
-    "src": "assets/landmarks/atlas-de-04.webp",
-    "thumbnail": "assets/landmarks/atlas-de-04-960.webp",
+    "src": "assets/landmarks/atlas-de-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1662,8 +1662,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-cologne-0": {
-    "src": "assets/landmarks/atlas-de-05.webp",
-    "thumbnail": "assets/landmarks/atlas-de-05-960.webp",
+    "src": "assets/landmarks/atlas-de-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1678,8 +1678,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-cologne-1": {
-    "src": "assets/landmarks/atlas-de-05.webp",
-    "thumbnail": "assets/landmarks/atlas-de-05-960.webp",
+    "src": "assets/landmarks/atlas-de-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1694,8 +1694,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-cologne-2": {
-    "src": "assets/landmarks/atlas-de-05.webp",
-    "thumbnail": "assets/landmarks/atlas-de-05-960.webp",
+    "src": "assets/landmarks/atlas-de-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1710,8 +1710,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-cologne-3": {
-    "src": "assets/landmarks/atlas-de-05.webp",
-    "thumbnail": "assets/landmarks/atlas-de-05-960.webp",
+    "src": "assets/landmarks/atlas-de-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1726,8 +1726,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-berlin-deutsches-theater": {
-    "src": "assets/landmarks/atlas-de-06.webp",
-    "thumbnail": "assets/landmarks/atlas-de-06-960.webp",
+    "src": "assets/landmarks/atlas-de-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1742,8 +1742,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-bavarian-opera": {
-    "src": "assets/landmarks/atlas-de-06.webp",
-    "thumbnail": "assets/landmarks/atlas-de-06-960.webp",
+    "src": "assets/landmarks/atlas-de-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1758,8 +1758,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-museum-island": {
-    "src": "assets/landmarks/atlas-de-06.webp",
-    "thumbnail": "assets/landmarks/atlas-de-06-960.webp",
+    "src": "assets/landmarks/atlas-de-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1774,8 +1774,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-hamburg": {
-    "src": "assets/landmarks/atlas-de-06.webp",
-    "thumbnail": "assets/landmarks/atlas-de-06-960.webp",
+    "src": "assets/landmarks/atlas-de-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1790,8 +1790,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-sava": {
-    "src": "assets/landmarks/atlas-rs-01.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-01-960.webp",
+    "src": "assets/landmarks/atlas-rs-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1806,8 +1806,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-tesla": {
-    "src": "assets/landmarks/atlas-rs-01.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-01-960.webp",
+    "src": "assets/landmarks/atlas-rs-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1822,8 +1822,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-national-museum": {
-    "src": "assets/landmarks/atlas-rs-01.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-01-960.webp",
+    "src": "assets/landmarks/atlas-rs-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1838,8 +1838,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-theatre": {
-    "src": "assets/landmarks/atlas-rs-01.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-01-960.webp",
+    "src": "assets/landmarks/atlas-rs-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1854,8 +1854,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-university": {
-    "src": "assets/landmarks/atlas-rs-02.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-02-960.webp",
+    "src": "assets/landmarks/atlas-rs-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1870,8 +1870,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-belgrade-kalemegdan": {
-    "src": "assets/landmarks/atlas-rs-02.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-02-960.webp",
+    "src": "assets/landmarks/atlas-rs-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1886,8 +1886,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-fortress": {
-    "src": "assets/landmarks/atlas-rs-02.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-02-960.webp",
+    "src": "assets/landmarks/atlas-rs-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1902,8 +1902,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-mary": {
-    "src": "assets/landmarks/atlas-rs-02.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-02-960.webp",
+    "src": "assets/landmarks/atlas-rs-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1918,8 +1918,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-gallery": {
-    "src": "assets/landmarks/atlas-rs-03.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-03-960.webp",
+    "src": "assets/landmarks/atlas-rs-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1934,8 +1934,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-theatre": {
-    "src": "assets/landmarks/atlas-rs-03.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-03-960.webp",
+    "src": "assets/landmarks/atlas-rs-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1950,8 +1950,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-park": {
-    "src": "assets/landmarks/atlas-rs-03.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-03-960.webp",
+    "src": "assets/landmarks/atlas-rs-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1966,8 +1966,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-novi-sad-university": {
-    "src": "assets/landmarks/atlas-rs-03.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-03-960.webp",
+    "src": "assets/landmarks/atlas-rs-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1982,8 +1982,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-fortress": {
-    "src": "assets/landmarks/atlas-rs-04.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-04-960.webp",
+    "src": "assets/landmarks/atlas-rs-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -1998,8 +1998,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-skull": {
-    "src": "assets/landmarks/atlas-rs-04.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-04-960.webp",
+    "src": "assets/landmarks/atlas-rs-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2014,8 +2014,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-museum": {
-    "src": "assets/landmarks/atlas-rs-04.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-04-960.webp",
+    "src": "assets/landmarks/atlas-rs-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2030,8 +2030,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-theatre": {
-    "src": "assets/landmarks/atlas-rs-04.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-04-960.webp",
+    "src": "assets/landmarks/atlas-rs-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2046,8 +2046,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-park": {
-    "src": "assets/landmarks/atlas-rs-05.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-05-960.webp",
+    "src": "assets/landmarks/atlas-rs-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2062,8 +2062,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-nis-university": {
-    "src": "assets/landmarks/atlas-rs-05.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-05-960.webp",
+    "src": "assets/landmarks/atlas-rs-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2078,8 +2078,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-stari-ras": {
-    "src": "assets/landmarks/atlas-rs-05.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-05-960.webp",
+    "src": "assets/landmarks/atlas-rs-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2094,8 +2094,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-studenica": {
-    "src": "assets/landmarks/atlas-rs-05.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-05-960.webp",
+    "src": "assets/landmarks/atlas-rs-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2110,8 +2110,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-gamzigrad": {
-    "src": "assets/landmarks/atlas-rs-06.webp",
-    "thumbnail": "assets/landmarks/atlas-rs-06-960.webp",
+    "src": "assets/landmarks/atlas-rs-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-rs-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2126,8 +2126,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-triple-bridge": {
-    "src": "assets/landmarks/atlas-si-01.webp",
-    "thumbnail": "assets/landmarks/atlas-si-01-960.webp",
+    "src": "assets/landmarks/atlas-si-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2142,8 +2142,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-dragon-bridge": {
-    "src": "assets/landmarks/atlas-si-01.webp",
-    "thumbnail": "assets/landmarks/atlas-si-01-960.webp",
+    "src": "assets/landmarks/atlas-si-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2158,8 +2158,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-castle": {
-    "src": "assets/landmarks/atlas-si-01.webp",
-    "thumbnail": "assets/landmarks/atlas-si-01-960.webp",
+    "src": "assets/landmarks/atlas-si-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2174,8 +2174,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-national-gallery": {
-    "src": "assets/landmarks/atlas-si-01.webp",
-    "thumbnail": "assets/landmarks/atlas-si-01-960.webp",
+    "src": "assets/landmarks/atlas-si-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2190,8 +2190,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-nuk": {
-    "src": "assets/landmarks/atlas-si-02.webp",
-    "thumbnail": "assets/landmarks/atlas-si-02-960.webp",
+    "src": "assets/landmarks/atlas-si-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2206,8 +2206,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-university": {
-    "src": "assets/landmarks/atlas-si-02.webp",
-    "thumbnail": "assets/landmarks/atlas-si-02-960.webp",
+    "src": "assets/landmarks/atlas-si-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2222,8 +2222,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-tivoli": {
-    "src": "assets/landmarks/atlas-si-02.webp",
-    "thumbnail": "assets/landmarks/atlas-si-02-960.webp",
+    "src": "assets/landmarks/atlas-si-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2238,8 +2238,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-ljubljana-cankarjev-dom": {
-    "src": "assets/landmarks/atlas-si-02.webp",
-    "thumbnail": "assets/landmarks/atlas-si-02-960.webp",
+    "src": "assets/landmarks/atlas-si-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2254,8 +2254,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-old-vine": {
-    "src": "assets/landmarks/atlas-si-03.webp",
-    "thumbnail": "assets/landmarks/atlas-si-03-960.webp",
+    "src": "assets/landmarks/atlas-si-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2270,8 +2270,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-cathedral": {
-    "src": "assets/landmarks/atlas-si-03.webp",
-    "thumbnail": "assets/landmarks/atlas-si-03-960.webp",
+    "src": "assets/landmarks/atlas-si-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2286,8 +2286,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-castle-museum": {
-    "src": "assets/landmarks/atlas-si-03.webp",
-    "thumbnail": "assets/landmarks/atlas-si-03-960.webp",
+    "src": "assets/landmarks/atlas-si-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2302,8 +2302,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-university": {
-    "src": "assets/landmarks/atlas-si-03.webp",
-    "thumbnail": "assets/landmarks/atlas-si-03-960.webp",
+    "src": "assets/landmarks/atlas-si-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2318,8 +2318,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-puppet-theatre": {
-    "src": "assets/landmarks/atlas-si-04.webp",
-    "thumbnail": "assets/landmarks/atlas-si-04-960.webp",
+    "src": "assets/landmarks/atlas-si-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2334,8 +2334,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-maribor-lent": {
-    "src": "assets/landmarks/atlas-si-04.webp",
-    "thumbnail": "assets/landmarks/atlas-si-04-960.webp",
+    "src": "assets/landmarks/atlas-si-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2350,8 +2350,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-bled-castle": {
-    "src": "assets/landmarks/atlas-si-04.webp",
-    "thumbnail": "assets/landmarks/atlas-si-04-960.webp",
+    "src": "assets/landmarks/atlas-si-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2366,8 +2366,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-bled-lakeside": {
-    "src": "assets/landmarks/atlas-si-04.webp",
-    "thumbnail": "assets/landmarks/atlas-si-04-960.webp",
+    "src": "assets/landmarks/atlas-si-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2382,8 +2382,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-bled-straza": {
-    "src": "assets/landmarks/atlas-si-05.webp",
-    "thumbnail": "assets/landmarks/atlas-si-05-960.webp",
+    "src": "assets/landmarks/atlas-si-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2398,8 +2398,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-piran-tartini-square": {
-    "src": "assets/landmarks/atlas-si-05.webp",
-    "thumbnail": "assets/landmarks/atlas-si-05-960.webp",
+    "src": "assets/landmarks/atlas-si-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2414,8 +2414,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-piran-st-george": {
-    "src": "assets/landmarks/atlas-si-05.webp",
-    "thumbnail": "assets/landmarks/atlas-si-05-960.webp",
+    "src": "assets/landmarks/atlas-si-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2430,8 +2430,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-piran-walls": {
-    "src": "assets/landmarks/atlas-si-05.webp",
-    "thumbnail": "assets/landmarks/atlas-si-05-960.webp",
+    "src": "assets/landmarks/atlas-si-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2446,8 +2446,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-piran-maritime-museum": {
-    "src": "assets/landmarks/atlas-si-06.webp",
-    "thumbnail": "assets/landmarks/atlas-si-06-960.webp",
+    "src": "assets/landmarks/atlas-si-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2462,8 +2462,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-piran-saltpans": {
-    "src": "assets/landmarks/atlas-si-06.webp",
-    "thumbnail": "assets/landmarks/atlas-si-06-960.webp",
+    "src": "assets/landmarks/atlas-si-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2478,8 +2478,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-ljubljana-plecnik": {
-    "src": "assets/landmarks/atlas-si-06.webp",
-    "thumbnail": "assets/landmarks/atlas-si-06-960.webp",
+    "src": "assets/landmarks/atlas-si-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2494,8 +2494,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-skocjan": {
-    "src": "assets/landmarks/atlas-si-06.webp",
-    "thumbnail": "assets/landmarks/atlas-si-06-960.webp",
+    "src": "assets/landmarks/atlas-si-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-si-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2510,8 +2510,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-lazienki": {
-    "src": "assets/landmarks/atlas-pl-02.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-02-960.webp",
+    "src": "assets/landmarks/atlas-pl-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2526,8 +2526,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-chopin-museum": {
-    "src": "assets/landmarks/atlas-pl-02.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-02-960.webp",
+    "src": "assets/landmarks/atlas-pl-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2542,8 +2542,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-university": {
-    "src": "assets/landmarks/atlas-pl-02.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-02-960.webp",
+    "src": "assets/landmarks/atlas-pl-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2558,8 +2558,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-grand-theatre": {
-    "src": "assets/landmarks/atlas-pl-02.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-02-960.webp",
+    "src": "assets/landmarks/atlas-pl-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2574,8 +2574,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-main-square": {
-    "src": "assets/landmarks/atlas-pl-03.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-03-960.webp",
+    "src": "assets/landmarks/atlas-pl-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2590,8 +2590,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-st-mary": {
-    "src": "assets/landmarks/atlas-pl-03.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-03-960.webp",
+    "src": "assets/landmarks/atlas-pl-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2606,8 +2606,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-collegium-maius": {
-    "src": "assets/landmarks/atlas-pl-03.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-03-960.webp",
+    "src": "assets/landmarks/atlas-pl-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2622,8 +2622,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-mocak": {
-    "src": "assets/landmarks/atlas-pl-03.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-03-960.webp",
+    "src": "assets/landmarks/atlas-pl-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2638,8 +2638,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-krakow-centre": {
-    "src": "assets/landmarks/atlas-pl-08.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-08-960.webp",
+    "src": "assets/landmarks/atlas-pl-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2654,8 +2654,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-wroclaw-centennial": {
-    "src": "assets/landmarks/atlas-pl-08.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-08-960.webp",
+    "src": "assets/landmarks/atlas-pl-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2670,8 +2670,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-wieliczka-bochnia": {
-    "src": "assets/landmarks/atlas-pl-08.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-08-960.webp",
+    "src": "assets/landmarks/atlas-pl-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2686,8 +2686,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-malbork": {
-    "src": "assets/landmarks/atlas-pl-08.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-08-960.webp",
+    "src": "assets/landmarks/atlas-pl-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2702,8 +2702,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-cologne": {
-    "src": "assets/landmarks/atlas-de-05.webp",
-    "thumbnail": "assets/landmarks/atlas-de-05-960.webp",
+    "src": "assets/landmarks/atlas-de-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-de-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2719,8 +2719,8 @@ const landmarkArt = {
     "aliasOf": "place-cologne-0"
   },
   "place-warsaw-old-town": {
-    "src": "assets/landmarks/atlas-pl-01.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-01-960.webp",
+    "src": "assets/landmarks/atlas-pl-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2735,8 +2735,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-royal-castle": {
-    "src": "assets/landmarks/atlas-pl-01.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-01-960.webp",
+    "src": "assets/landmarks/atlas-pl-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2751,8 +2751,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-polin": {
-    "src": "assets/landmarks/atlas-pl-01.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-01-960.webp",
+    "src": "assets/landmarks/atlas-pl-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2767,8 +2767,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-warsaw-uprising-museum": {
-    "src": "assets/landmarks/atlas-pl-01.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-01-960.webp",
+    "src": "assets/landmarks/atlas-pl-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2783,8 +2783,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-czartoryski": {
-    "src": "assets/landmarks/atlas-pl-04.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-04-960.webp",
+    "src": "assets/landmarks/atlas-pl-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2799,8 +2799,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-krakow-planty": {
-    "src": "assets/landmarks/atlas-pl-04.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-04-960.webp",
+    "src": "assets/landmarks/atlas-pl-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2815,8 +2815,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-long-market": {
-    "src": "assets/landmarks/atlas-pl-04.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-04-960.webp",
+    "src": "assets/landmarks/atlas-pl-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2831,8 +2831,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-st-mary": {
-    "src": "assets/landmarks/atlas-pl-04.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-04-960.webp",
+    "src": "assets/landmarks/atlas-pl-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2847,8 +2847,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-solidarity-centre": {
-    "src": "assets/landmarks/atlas-pl-05.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-05-960.webp",
+    "src": "assets/landmarks/atlas-pl-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2863,8 +2863,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-wwii-museum": {
-    "src": "assets/landmarks/atlas-pl-05.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-05-960.webp",
+    "src": "assets/landmarks/atlas-pl-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2879,8 +2879,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-crane": {
-    "src": "assets/landmarks/atlas-pl-05.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-05-960.webp",
+    "src": "assets/landmarks/atlas-pl-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2895,8 +2895,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-shakespeare-theatre": {
-    "src": "assets/landmarks/atlas-pl-05.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-05-960.webp",
+    "src": "assets/landmarks/atlas-pl-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2911,8 +2911,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-gdansk-oliwa-park": {
-    "src": "assets/landmarks/atlas-pl-06.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-06-960.webp",
+    "src": "assets/landmarks/atlas-pl-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2927,8 +2927,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-rynek": {
-    "src": "assets/landmarks/atlas-pl-06.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-06-960.webp",
+    "src": "assets/landmarks/atlas-pl-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2943,8 +2943,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-cathedral": {
-    "src": "assets/landmarks/atlas-pl-06.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-06-960.webp",
+    "src": "assets/landmarks/atlas-pl-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2959,8 +2959,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-national-museum": {
-    "src": "assets/landmarks/atlas-pl-06.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-06-960.webp",
+    "src": "assets/landmarks/atlas-pl-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2975,8 +2975,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-university": {
-    "src": "assets/landmarks/atlas-pl-07.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-07-960.webp",
+    "src": "assets/landmarks/atlas-pl-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -2991,8 +2991,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-opera": {
-    "src": "assets/landmarks/atlas-pl-07.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-07-960.webp",
+    "src": "assets/landmarks/atlas-pl-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3007,8 +3007,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "place-wroclaw-szczytnicki": {
-    "src": "assets/landmarks/atlas-pl-07.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-07-960.webp",
+    "src": "assets/landmarks/atlas-pl-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3023,8 +3023,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-warsaw-centre": {
-    "src": "assets/landmarks/atlas-pl-07.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-07-960.webp",
+    "src": "assets/landmarks/atlas-pl-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3039,8 +3039,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "heritage-auschwitz-birkenau": {
-    "src": "assets/landmarks/atlas-pl-09.webp",
-    "thumbnail": "assets/landmarks/atlas-pl-09-960.webp",
+    "src": "assets/landmarks/atlas-pl-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-pl-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3055,8 +3055,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-lingering-garden": {
-    "src": "assets/landmarks/atlas-cn-01.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-01-960.webp",
+    "src": "assets/landmarks/atlas-cn-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3071,8 +3071,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-tiger-hill": {
-    "src": "assets/landmarks/atlas-cn-01.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-01-960.webp",
+    "src": "assets/landmarks/atlas-cn-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3087,8 +3087,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-museum": {
-    "src": "assets/landmarks/atlas-cn-01.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-01-960.webp",
+    "src": "assets/landmarks/atlas-cn-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3103,8 +3103,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-hanshan": {
-    "src": "assets/landmarks/atlas-cn-01.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-01-960.webp",
+    "src": "assets/landmarks/atlas-cn-01.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-01-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3119,8 +3119,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-pingjiang": {
-    "src": "assets/landmarks/atlas-cn-02.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-02-960.webp",
+    "src": "assets/landmarks/atlas-cn-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3135,8 +3135,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-shantang": {
-    "src": "assets/landmarks/atlas-cn-02.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-02-960.webp",
+    "src": "assets/landmarks/atlas-cn-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3151,8 +3151,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-jinji-lake": {
-    "src": "assets/landmarks/atlas-cn-02.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-02-960.webp",
+    "src": "assets/landmarks/atlas-cn-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3167,8 +3167,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-university": {
-    "src": "assets/landmarks/atlas-cn-02.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-02-960.webp",
+    "src": "assets/landmarks/atlas-cn-02.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-02-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3183,8 +3183,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suzhou-arts": {
-    "src": "assets/landmarks/atlas-cn-03.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-03-960.webp",
+    "src": "assets/landmarks/atlas-cn-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3199,8 +3199,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-museum": {
-    "src": "assets/landmarks/atlas-cn-03.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-03-960.webp",
+    "src": "assets/landmarks/atlas-cn-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3215,8 +3215,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-yunlong-lake": {
-    "src": "assets/landmarks/atlas-cn-03.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-03-960.webp",
+    "src": "assets/landmarks/atlas-cn-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3231,8 +3231,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-yunlong-hill": {
-    "src": "assets/landmarks/atlas-cn-03.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-03-960.webp",
+    "src": "assets/landmarks/atlas-cn-03.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-03-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3247,8 +3247,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-huaihai-memorial": {
-    "src": "assets/landmarks/atlas-cn-04.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-04-960.webp",
+    "src": "assets/landmarks/atlas-cn-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3263,8 +3263,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-huilongwo": {
-    "src": "assets/landmarks/atlas-cn-04.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-04-960.webp",
+    "src": "assets/landmarks/atlas-cn-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3279,8 +3279,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xuzhou-hubushan": {
-    "src": "assets/landmarks/atlas-cn-04.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-04-960.webp",
+    "src": "assets/landmarks/atlas-cn-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3295,8 +3295,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-huishan": {
-    "src": "assets/landmarks/atlas-cn-04.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-04-960.webp",
+    "src": "assets/landmarks/atlas-cn-04.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-04-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3311,8 +3311,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-qingmingqiao": {
-    "src": "assets/landmarks/atlas-cn-05.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-05-960.webp",
+    "src": "assets/landmarks/atlas-cn-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3327,8 +3327,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-museum": {
-    "src": "assets/landmarks/atlas-cn-05.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-05-960.webp",
+    "src": "assets/landmarks/atlas-cn-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3343,8 +3343,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-lingshan": {
-    "src": "assets/landmarks/atlas-cn-05.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-05-960.webp",
+    "src": "assets/landmarks/atlas-cn-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3359,8 +3359,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-lihu": {
-    "src": "assets/landmarks/atlas-cn-05.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-05-960.webp",
+    "src": "assets/landmarks/atlas-cn-05.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-05-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3375,8 +3375,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-university": {
-    "src": "assets/landmarks/atlas-cn-06.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-06-960.webp",
+    "src": "assets/landmarks/atlas-cn-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3391,8 +3391,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-wuxi-grand-theatre": {
-    "src": "assets/landmarks/atlas-cn-06.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-06-960.webp",
+    "src": "assets/landmarks/atlas-cn-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3407,8 +3407,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-kunshan-highlight": {
-    "src": "assets/landmarks/atlas-cn-06.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-06-960.webp",
+    "src": "assets/landmarks/atlas-cn-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3423,8 +3423,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-changshu-highlight": {
-    "src": "assets/landmarks/atlas-cn-06.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-06-960.webp",
+    "src": "assets/landmarks/atlas-cn-06.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-06-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3439,8 +3439,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-zhangjiagang-highlight": {
-    "src": "assets/landmarks/atlas-cn-07.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-07-960.webp",
+    "src": "assets/landmarks/atlas-cn-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3455,8 +3455,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-taicang-highlight": {
-    "src": "assets/landmarks/atlas-cn-07.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-07-960.webp",
+    "src": "assets/landmarks/atlas-cn-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3471,8 +3471,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-jiangyin-highlight": {
-    "src": "assets/landmarks/atlas-cn-07.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-07-960.webp",
+    "src": "assets/landmarks/atlas-cn-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3487,8 +3487,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-yixing-highlight": {
-    "src": "assets/landmarks/atlas-cn-07.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-07-960.webp",
+    "src": "assets/landmarks/atlas-cn-07.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-07-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3503,8 +3503,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-fengxian-highlight": {
-    "src": "assets/landmarks/atlas-cn-08.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-08-960.webp",
+    "src": "assets/landmarks/atlas-cn-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3519,8 +3519,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-peixian-highlight": {
-    "src": "assets/landmarks/atlas-cn-08.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-08-960.webp",
+    "src": "assets/landmarks/atlas-cn-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3535,8 +3535,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-suining-highlight": {
-    "src": "assets/landmarks/atlas-cn-08.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-08-960.webp",
+    "src": "assets/landmarks/atlas-cn-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3551,8 +3551,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-xinyi-highlight": {
-    "src": "assets/landmarks/atlas-cn-08.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-08-960.webp",
+    "src": "assets/landmarks/atlas-cn-08.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-08-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,
@@ -3567,8 +3567,8 @@ const landmarkArt = {
     "generatedAt": "2026-11-07"
   },
   "venue-pizhou-highlight": {
-    "src": "assets/landmarks/atlas-cn-09.webp",
-    "thumbnail": "assets/landmarks/atlas-cn-09-960.webp",
+    "src": "assets/landmarks/atlas-cn-09.jpg",
+    "thumbnail": "assets/landmarks/atlas-cn-09-960.jpg",
     "width": 1536,
     "height": 1024,
     "thumbnailWidth": 960,

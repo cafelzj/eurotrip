@@ -7,7 +7,7 @@ assert.equal(Object.keys(media.assets).length,used.size,'no unreferenced images'
 for(const [id,key]of Object.entries(media.cards)){const node=byId.get(id);assert(['person','food'].includes(node?.type)||(node?.type==='place'&&node.category==='transport'),id);assert(media.assets[key],id);if(['place','map'].includes(media.assets[key].kind))assert(node.type==='place'&&node.category==='transport','transport media is never used to bypass food review');}
 for(const [id,keys]of Object.entries(media.galleries||{})){assert(media.cards[id],id+' gallery has a cover');assert(Array.isArray(keys)&&keys.length>0);assert.equal(new Set(keys).size,keys.length,'gallery has no duplicate entries');assert(keys.every(key=>media.assets[key]),id+' gallery references existing photos');}
 for(const [key,image]of Object.entries(media.assets)){
- assert(used.has(key));if(['place','map'].includes(image.kind)){assert(/^assets\/transport\/[a-z0-9-]+\.webp$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert.equal(image.visualReview?.status,'approved');}else assert(/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\//.test(image.src));
+ assert(used.has(key));if(['place','map'].includes(image.kind)){assert(/^assets\/transport\/[a-z0-9-]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert.equal(image.visualReview?.status,'approved');}else {assert(/^assets\/photos\/(?:food|portraits)\/img-[a-z0-9]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert(/^https:\/\/upload\.wikimedia\.org\//.test(image.originalSrc));}
  if(image.kind==='map'){assert.equal(image.provider,'OpenStreetMap');assert(/^https:\/\/www\.openstreetmap\.org\//.test(image.source));assert(image.caption.includes('非实景'));assert(fs.existsSync(path.join(root,image.sourceData)));}else assert(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(image.source));assert(/^https:\/\//.test(image.licenseUrl));
  assert(image.alt&&image.caption&&image.author&&image.license&&image.file&&/^\d{4}-\d\d-\d\d$/.test(image.checked));
  assert(Number.isInteger(image.width)&&image.width>0&&Number.isInteger(image.height)&&image.height>0);assert(['food','portrait','product','place','map'].includes(image.kind));
@@ -41,9 +41,8 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
  try{
   const p=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));
   await p.route('https://tile.openstreetmap.org/**',r=>r.abort());await p.route('https://fonts.googleapis.com/**',r=>r.abort());
-  // Controlled pixels test layout/load behavior without depending on remote media
-  // access. They do not verify the photographic contents or real CDN availability.
-  await p.route('https://upload.wikimedia.org/**',r=>r.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720"><rect width="960" height="720" fill="#d4ddcd"/></svg>'}));
+  // All photographs load from real local files; no remote-image fixture.
+  await p.route('https://upload.wikimedia.org/**',r=>r.abort());
   await p.route('**/__missing-card-image.jpg',r=>r.abort());
   const base=process.env.SITE_URL||'http://127.0.0.1:3020',go=async hash=>{await p.goto(base+'/'+hash);await settle(p);},tick=()=>p.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
   await go('#guide/hu/budapest?zone=food&view=waterfall');await p.waitForSelector('.card-feed-item .card-image img');await tick();
@@ -64,7 +63,7 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
   await go('#card/food-budapest-2');
   await p.evaluate(()=>{const id='food-budapest-2';cardImages.galleries={[id]:[cardImages.cards['food-budapest-3']]};document.querySelector('.entity-media').innerHTML=CardImages.detail(CardGraph.nodes.get(id));});
   assert.equal(await p.locator('[data-photo-index]').count(),2);await p.locator('[data-photo-index="1"] img').evaluate(e=>e.src='/__missing-card-image.jpg');await p.locator('[data-photo-index="1"].is-unavailable').waitFor();await p.locator('[data-photo-index="1"]').click();assert.equal(await p.locator('.card-image-position').innerText(),'2 / 2');assert((await p.locator('.entity-image figcaption').innerText()).includes('炖肉'));await p.keyboard.press('ArrowLeft');assert.equal(await p.locator('.card-image-position').innerText(),'1 / 2');assert.equal(await p.locator('[data-photo-index="0"]').getAttribute('aria-pressed'),'true');
-  // UI-only gallery fixtures use controlled pixels; no new photo is published.
+  // UI-only gallery fixtures reuse existing local photos; no new photo is published.
   for(const view of ['groups','waterfall']){
    await go('#guide/hu/budapest?zone=food&view='+view);await p.evaluate(()=>{const id='food-budapest-2';cardImages.galleries={[id]:[cardImages.cards['food-budapest-3']]};const old=document.querySelector('[data-knowledge-card="'+id+'"] .card-photo-carousel')||document.querySelector('[data-knowledge-card="'+id+'"] .card-image'),box=document.createElement('div');box.innerHTML=CardImages.card(CardGraph.nodes.get(id));old.replaceWith(box.firstElementChild);});
    const root=p.locator('[data-knowledge-card="food-budapest-2"] .card-photo-carousel'),photo=root.locator('.card-image-frame img'),first=await photo.getAttribute('src'),hash=await p.evaluate(()=>location.hash);await root.scrollIntoViewIfNeeded();const before=await root.locator('.card-image-frame').boundingBox();

@@ -3,7 +3,7 @@ const cardImages = {
   "assets": {
     "img-cce6e9782007": {
       "file": "Kürtőskalács2011.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg/960px-K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
+      "src": "assets/photos/food/img-cce6e9782007.jpg",
       "width": 960,
       "height": 1198,
       "kind": "food",
@@ -18,11 +18,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "烟囱蛋糕金黄酥壳和糖晶清晰，成品形态准确，背景干净，光线有层次。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg/960px-K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg"
     },
     "img-0c01d875298b": {
       "file": "Langos_Eger_Hungary.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Langos_Eger_Hungary.jpg/960px-Langos_Eger_Hungary.jpg",
+      "src": "assets/photos/food/img-0c01d875298b.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -37,11 +38,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "兰戈什饼完整，酥皮、酸奶油与奶酪细节清楚，日光下色彩正常。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Langos_Eger_Hungary.jpg/960px-Langos_Eger_Hungary.jpg"
     },
     "img-302656b83d0f": {
       "file": "Pörkölt.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/P%C3%B6rk%C3%B6lt.jpg/960px-P%C3%B6rk%C3%B6lt.jpg",
+      "src": "assets/photos/food/img-302656b83d0f.jpg",
       "width": 960,
       "height": 746,
       "kind": "food",
@@ -51,11 +53,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:P%C3%B6rk%C3%B6lt.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/P%C3%B6rk%C3%B6lt.jpg/960px-P%C3%B6rk%C3%B6lt.jpg"
     },
     "img-6e306dd06365": {
       "file": "Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg/960px-Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg",
+      "src": "assets/photos/food/img-6e306dd06365.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -65,13 +68,14 @@ const cardImages = {
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg/960px-Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg"
     },
     "img-0997e4e0603e": {
       "file": "Debrecziner.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Debrecziner.jpg",
-      "width": 960,
-      "height": 720,
+      "src": "assets/photos/food/img-0997e4e0603e.jpg",
+      "width": 945,
+      "height": 709,
       "kind": "food",
       "alt": "德布勒森香肠（debreceni）实拍",
       "caption": "德布勒森香肠（debreceni） · 实拍",
@@ -84,11 +88,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "香肠主体完整、色泽自然，面包与配菜说明食用搭配，白底清楚简洁。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Debrecziner.jpg"
     },
     "img-a41b3049ab1b": {
       "file": "Chicken_Paprikash_(Csirke_Paprikás).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg/960px-Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg",
+      "src": "assets/photos/food/img-a41b3049ab1b.jpg",
       "width": 960,
       "height": 960,
       "kind": "food",
@@ -98,11 +103,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Chicken_Paprikash_(Csirke_Paprik%C3%A1s).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg/960px-Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg"
     },
     "img-f8712dad2a01": {
       "file": "Wiener-Schnitzel02.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/960px-Wiener-Schnitzel02.jpg",
+      "src": "assets/photos/food/img-f8712dad2a01.jpg",
       "width": 960,
       "height": 704,
       "kind": "food",
@@ -112,11 +118,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Wiener-Schnitzel02.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/960px-Wiener-Schnitzel02.jpg"
     },
     "img-570105ccf688": {
       "file": "Sachertorte_DSC03027.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/960px-Sachertorte_DSC03027.JPG",
+      "src": "assets/photos/food/img-570105ccf688.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -126,11 +133,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Sachertorte_DSC03027.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/960px-Sachertorte_DSC03027.JPG"
     },
     "img-8b69cb9844fe": {
       "file": "Strudel.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/960px-Strudel.jpg",
+      "src": "assets/photos/food/img-8b69cb9844fe.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -140,11 +148,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Strudel.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/960px-Strudel.jpg"
     },
     "img-35dc67bcfb40": {
       "file": "Tafelspitz.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tafelspitz.jpg/960px-Tafelspitz.jpg",
+      "src": "assets/photos/food/img-35dc67bcfb40.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -154,11 +163,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Tafelspitz.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tafelspitz.jpg/960px-Tafelspitz.jpg"
     },
     "img-d96226f01b13": {
       "file": "2015_0731_Kaiserschmarrn_Apfelsoße_Edelweisshütte_Sölden.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg/960px-2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
+      "src": "assets/photos/food/img-d96226f01b13.jpg",
       "width": 960,
       "height": 768,
       "kind": "food",
@@ -168,11 +178,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg/960px-2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg"
     },
     "img-392c384ef3a3": {
       "file": "Salzburger_Nockerln_04_gastronomie_001.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/960px-Salzburger_Nockerln_04_gastronomie_001.jpg",
+      "src": "assets/photos/food/img-392c384ef3a3.jpg",
       "width": 960,
       "height": 643,
       "kind": "food",
@@ -182,11 +193,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Salzburger_Nockerln_04_gastronomie_001.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/960px-Salzburger_Nockerln_04_gastronomie_001.jpg"
     },
     "img-d4270b2e0b74": {
       "file": "Berggasthof_Haldenhof_-_Käsknöpfle_(1).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/960px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg",
+      "src": "assets/photos/food/img-d4270b2e0b74.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -196,11 +208,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_(1).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/960px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg"
     },
     "img-290e1e7f6c58": {
       "file": "Tiroler_Gröstl_Herrsching.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tiroler_Gr%C3%B6stl_Herrsching.jpg/960px-Tiroler_Gr%C3%B6stl_Herrsching.jpg",
+      "src": "assets/photos/food/img-290e1e7f6c58.jpg",
       "width": 960,
       "height": 563,
       "kind": "food",
@@ -210,11 +223,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tiroler_Gr%C3%B6stl_Herrsching.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tiroler_Gr%C3%B6stl_Herrsching.jpg/960px-Tiroler_Gr%C3%B6stl_Herrsching.jpg"
     },
     "img-3d67f3493c61": {
       "file": "Berliner-Pfannkuchen.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berliner-Pfannkuchen.jpg/960px-Berliner-Pfannkuchen.jpg",
+      "src": "assets/photos/food/img-3d67f3493c61.jpg",
       "width": 960,
       "height": 674,
       "kind": "food",
@@ -224,11 +238,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Berliner-Pfannkuchen.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berliner-Pfannkuchen.jpg/960px-Berliner-Pfannkuchen.jpg"
     },
     "img-cd4372a5a382": {
       "file": "Heldrunger_Sauerbraten_2.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/960px-Heldrunger_Sauerbraten_2.JPG",
+      "src": "assets/photos/food/img-cd4372a5a382.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -238,11 +253,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Heldrunger_Sauerbraten_2.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/960px-Heldrunger_Sauerbraten_2.JPG"
     },
     "img-0ff5ec65d125": {
       "file": "Reibekuchen_mit_Apfelmus.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Reibekuchen_mit_Apfelmus.jpg/960px-Reibekuchen_mit_Apfelmus.jpg",
+      "src": "assets/photos/food/img-0ff5ec65d125.jpg",
       "width": 960,
       "height": 480,
       "kind": "food",
@@ -257,11 +273,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "土豆煎饼焦脆纹理与苹果酱清楚，主盘完整，颜色自然且有食欲。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Reibekuchen_mit_Apfelmus.jpg/960px-Reibekuchen_mit_Apfelmus.jpg"
     },
     "img-04c3f4949a49": {
       "file": "Weißwurst-1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wei%C3%9Fwurst-1.jpg/960px-Wei%C3%9Fwurst-1.jpg",
+      "src": "assets/photos/food/img-04c3f4949a49.jpg",
       "width": 960,
       "height": 731,
       "kind": "food",
@@ -276,11 +293,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "白香肠及切面、椒盐卷饼和芥末完整清楚，单盘背景简洁，食物本色自然。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wei%C3%9Fwurst-1.jpg/960px-Wei%C3%9Fwurst-1.jpg"
     },
     "img-28b36e97d075": {
       "file": "BrezelnSalz02_(cropped).JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BrezelnSalz02_%28cropped%29.JPG/960px-BrezelnSalz02_%28cropped%29.JPG",
+      "src": "assets/photos/food/img-28b36e97d075.jpg",
       "width": 960,
       "height": 678,
       "kind": "food",
@@ -290,13 +308,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BrezelnSalz02_%28cropped%29.JPG/960px-BrezelnSalz02_%28cropped%29.JPG"
     },
     "img-566f7e39c29f": {
       "file": "00ane_Haxen.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/00ane_Haxen.jpg",
-      "width": 960,
-      "height": 720,
+      "src": "assets/photos/food/img-566f7e39c29f.jpg",
+      "width": 845,
+      "height": 634,
       "kind": "food",
       "alt": "猪肘（Schweinshaxe）实拍",
       "caption": "猪肘（Schweinshaxe） · 实拍",
@@ -304,11 +323,12 @@ const cardImages = {
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:00ane_Haxen.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/54/00ane_Haxen.jpg"
     },
     "img-6bd036f4c454": {
       "file": "Fischbroetchen_01_(fcm).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fischbroetchen_01_%28fcm%29.jpg/960px-Fischbroetchen_01_%28fcm%29.jpg",
+      "src": "assets/photos/food/img-6bd036f4c454.jpg",
       "width": 960,
       "height": 515,
       "kind": "food",
@@ -318,13 +338,14 @@ const cardImages = {
       "license": "CC BY-SA 2.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Fischbroetchen_01_(fcm).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fischbroetchen_01_%28fcm%29.jpg/960px-Fischbroetchen_01_%28fcm%29.jpg"
     },
     "img-07b19600c450": {
       "file": "Franzbroetchen.wmt.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Franzbroetchen.wmt.jpg",
-      "width": 960,
-      "height": 692,
+      "src": "assets/photos/food/img-07b19600c450.jpg",
+      "width": 730,
+      "height": 526,
       "kind": "food",
       "alt": "肉桂卷（Franzbrötchen）实拍",
       "caption": "肉桂卷（Franzbrötchen） · 实拍",
@@ -337,11 +358,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "肉桂卷形态完整，烘烤纹理与颜色自然，单盘背景简洁，无明显杂物遮挡。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Franzbroetchen.wmt.jpg"
     },
     "img-640050a394ab": {
       "file": "Hamburger_Labskaus_1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburger_Labskaus_1.jpg/960px-Hamburger_Labskaus_1.jpg",
+      "src": "assets/photos/food/img-640050a394ab.jpg",
       "width": 960,
       "height": 929,
       "kind": "food",
@@ -351,11 +373,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Hamburger_Labskaus_1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburger_Labskaus_1.jpg/960px-Hamburger_Labskaus_1.jpg"
     },
     "img-821d30aac48a": {
       "file": "2018-10-28-Halve_Hahn-9090.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2018-10-28-Halve_Hahn-9090.jpg/960px-2018-10-28-Halve_Hahn-9090.jpg",
+      "src": "assets/photos/food/img-821d30aac48a.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -365,11 +388,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2018-10-28-Halve_Hahn-9090.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2018-10-28-Halve_Hahn-9090.jpg/960px-2018-10-28-Halve_Hahn-9090.jpg"
     },
     "img-b3a6ab84245f": {
       "file": "Sportszelet1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sportszelet1.jpg/960px-Sportszelet1.jpg",
+      "src": "assets/photos/food/img-b3a6ab84245f.jpg",
       "width": 960,
       "height": 664,
       "kind": "product",
@@ -384,13 +408,14 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "Sport 绿色包装标识清楚，巧克力棒及切面完整，背景简洁，没有遮挡品牌的强反光。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sportszelet1.jpg/960px-Sportszelet1.jpg"
     },
     "img-875267846d00": {
       "file": "Eros_Pista_termekfoto.png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eros_Pista_termekfoto.png",
-      "width": 960,
-      "height": 1477,
+      "src": "assets/photos/food/img-875267846d00.png",
+      "width": 616,
+      "height": 948,
       "kind": "product",
       "alt": "Univer Erős Pista 红椒酱实拍",
       "caption": "Univer Erős Pista 红椒酱 · 实拍",
@@ -403,11 +428,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "正面完整红椒酱瓶，Univer 与 Erős Pista 标签清楚，白底干净，色彩自然。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eros_Pista_termekfoto.png"
     },
     "img-20458d72c210": {
       "file": "2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg/960px-2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
+      "src": "assets/photos/food/img-20458d72c210.jpg",
       "width": 960,
       "height": 640,
       "kind": "product",
@@ -422,11 +448,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "威化断面层次清楚，成品完整，深色背景干净；说明为威化实物而非包装商品图。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg/960px-2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg"
     },
     "img-15b4aad7175a": {
       "file": "Ritter_Sport_dark_chocolate.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ritter_Sport_dark_chocolate.jpg/960px-Ritter_Sport_dark_chocolate.jpg",
+      "src": "assets/photos/food/img-15b4aad7175a.jpg",
       "width": 960,
       "height": 720,
       "kind": "product",
@@ -441,11 +468,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "巧克力表面和 Ritter Sport 压字清楚，色彩自然、背景干净，无强反光遮挡。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ritter_Sport_dark_chocolate.jpg/960px-Ritter_Sport_dark_chocolate.jpg"
     },
     "img-f15d19a643c3": {
       "file": "Butterkeks.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Butterkeks.jpg/960px-Butterkeks.jpg",
+      "src": "assets/photos/food/img-f15d19a643c3.jpg",
       "width": 960,
       "height": 838,
       "kind": "product",
@@ -460,11 +488,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "LEIBNIZ 饼干品牌压字及边缘清楚，金黄色自然，白底简洁完整。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Butterkeks.jpg/960px-Butterkeks.jpg"
     },
     "img-c7a4583c6b1b": {
       "file": "Bionaden.4659.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bionaden.4659.jpg/960px-Bionaden.4659.jpg",
+      "src": "assets/photos/food/img-c7a4583c6b1b.jpg",
       "width": 960,
       "height": 720,
       "kind": "product",
@@ -479,11 +508,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "五款 BIONADE 瓶身正面完整，品牌、口味和色彩可辨，浅底干净，产品呈现明确。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bionaden.4659.jpg/960px-Bionaden.4659.jpg"
     },
     "img-959d9102f358": {
       "file": "Erno_Rubik_Genius_Gala_2014.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erno_Rubik_Genius_Gala_2014.jpg/960px-Erno_Rubik_Genius_Gala_2014.jpg",
+      "src": "assets/photos/portraits/img-959d9102f358.jpg",
       "width": 960,
       "height": 1224,
       "kind": "portrait",
@@ -493,13 +523,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Erno_Rubik_Genius_Gala_2014.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erno_Rubik_Genius_Gala_2014.jpg/960px-Erno_Rubik_Genius_Gala_2014.jpg"
     },
     "img-9feecdd109a2": {
       "file": "Franz_Liszt_by_Herman_Biow-_1843.png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Franz_Liszt_by_Herman_Biow-_1843.png",
-      "width": 960,
-      "height": 1174,
+      "src": "assets/photos/portraits/img-9feecdd109a2.png",
+      "width": 656,
+      "height": 802,
       "kind": "portrait",
       "alt": "李斯特",
       "caption": "李斯特",
@@ -507,13 +538,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Franz_Liszt_by_Herman_Biow-_1843.png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Franz_Liszt_by_Herman_Biow-_1843.png"
     },
     "img-8dd30e55df03": {
       "file": "Bartók_Béla_1927.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
-      "width": 960,
-      "height": 885,
+      "src": "assets/photos/portraits/img-8dd30e55df03.jpg",
+      "width": 411,
+      "height": 379,
       "kind": "portrait",
       "alt": "巴托克",
       "caption": "巴托克",
@@ -521,11 +553,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Bart%C3%B3k_B%C3%A9la_1927.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg"
     },
     "img-b2517ab8aa79": {
       "file": "Wolfgang-amadeus-mozart_1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/960px-Wolfgang-amadeus-mozart_1.jpg",
+      "src": "assets/photos/portraits/img-b2517ab8aa79.jpg",
       "width": 960,
       "height": 1230,
       "kind": "portrait",
@@ -535,11 +568,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/960px-Wolfgang-amadeus-mozart_1.jpg"
     },
     "img-faa70518f483": {
       "file": "Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/960px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
+      "src": "assets/photos/portraits/img-faa70518f483.jpg",
       "width": 960,
       "height": 1145,
       "kind": "portrait",
@@ -549,13 +583,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/960px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"
     },
     "img-15112e0d8b01": {
       "file": "Klimt.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Klimt.jpg",
-      "width": 960,
-      "height": 1227,
+      "src": "assets/photos/portraits/img-15112e0d8b01.jpg",
+      "width": 780,
+      "height": 997,
       "kind": "portrait",
       "alt": "克里姆特",
       "caption": "克里姆特",
@@ -563,11 +598,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Klimt.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Klimt.jpg"
     },
     "img-8ae0f90a9f06": {
       "file": "Goethe_(Stieler_1828).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/960px-Goethe_%28Stieler_1828%29.jpg",
+      "src": "assets/photos/portraits/img-8ae0f90a9f06.jpg",
       "width": 960,
       "height": 1184,
       "kind": "portrait",
@@ -577,11 +613,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Goethe_(Stieler_1828).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/960px-Goethe_%28Stieler_1828%29.jpg"
     },
     "img-535d50cd41a3": {
       "file": "Joseph_Karl_Stieler's_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
+      "src": "assets/photos/portraits/img-535d50cd41a3.jpg",
       "width": 960,
       "height": 1195,
       "kind": "portrait",
@@ -591,11 +628,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/960px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"
     },
     "img-07599d97c49b": {
       "file": "Albert_Einstein_Head_cleaned.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
+      "src": "assets/photos/portraits/img-07599d97c49b.jpg",
       "width": 960,
       "height": 1188,
       "kind": "portrait",
@@ -605,13 +643,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg"
     },
     "img-6e50998c21d8": {
       "file": "Csokonai_portre.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csokonai_portre.jpg",
-      "width": 960,
-      "height": 1396,
+      "src": "assets/photos/portraits/img-6e50998c21d8.jpg",
+      "width": 275,
+      "height": 400,
       "kind": "portrait",
       "alt": "米哈伊·乔科瑙伊",
       "caption": "米哈伊·乔科瑙伊",
@@ -619,11 +658,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Csokonai_portre.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csokonai_portre.jpg"
     },
     "img-dc124604937a": {
       "file": "Portrait_of_Lajos_Kossuth,_1852.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Portrait_of_Lajos_Kossuth%2C_1852.jpg/960px-Portrait_of_Lajos_Kossuth%2C_1852.jpg",
+      "src": "assets/photos/portraits/img-dc124604937a.jpg",
       "width": 960,
       "height": 1348,
       "kind": "portrait",
@@ -633,11 +673,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lajos_Kossuth,_1852.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Portrait_of_Lajos_Kossuth%2C_1852.jpg/960px-Portrait_of_Lajos_Kossuth%2C_1852.jpg"
     },
     "img-f2c920c84b40": {
       "file": "Szent-Györgyi_Albert,_Nobel-díjas_és_Kossuth-díjas_orvos,_biokémikus._Fortepan_74535.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Szent-Gy%C3%B6rgyi_Albert%2C_Nobel-d%C3%ADjas_%C3%A9s_Kossuth-d%C3%ADjas_orvos%2C_biok%C3%A9mikus._Fortepan_74535.jpg/960px-Szent-Gy%C3%B6rgyi_Albert%2C_Nobel-d%C3%ADjas_%C3%A9s_Kossuth-d%C3%ADjas_orvos%2C_biok%C3%A9mikus._Fortepan_74535.jpg",
+      "src": "assets/photos/portraits/img-f2c920c84b40.jpg",
       "width": 960,
       "height": 1372,
       "kind": "portrait",
@@ -647,11 +688,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Szent-Gy%C3%B6rgyi_Albert,_Nobel-d%C3%ADjas_%C3%A9s_Kossuth-d%C3%ADjas_orvos,_biok%C3%A9mikus._Fortepan_74535.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Szent-Gy%C3%B6rgyi_Albert%2C_Nobel-d%C3%ADjas_%C3%A9s_Kossuth-d%C3%ADjas_orvos%2C_biok%C3%A9mikus._Fortepan_74535.jpg/960px-Szent-Gy%C3%B6rgyi_Albert%2C_Nobel-d%C3%ADjas_%C3%A9s_Kossuth-d%C3%ADjas_orvos%2C_biok%C3%A9mikus._Fortepan_74535.jpg"
     },
     "img-41e33e76cb19": {
       "file": "Herbert_Von_Karajan,_Fundo_Correio_da_Manhã_-_2_(cropped).tif",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Herbert_Von_Karajan%2C_Fundo_Correio_da_Manh%C3%A3_-_2_%28cropped%29.tif/lossy-page1-960px-Herbert_Von_Karajan%2C_Fundo_Correio_da_Manh%C3%A3_-_2_%28cropped%29.tif.jpg",
+      "src": "assets/photos/portraits/img-41e33e76cb19.jpg",
       "width": 960,
       "height": 1078,
       "kind": "portrait",
@@ -661,11 +703,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Herbert_Von_Karajan,_Fundo_Correio_da_Manh%C3%A3_-_2_(cropped).tif",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Herbert_Von_Karajan%2C_Fundo_Correio_da_Manh%C3%A3_-_2_%28cropped%29.tif/lossy-page1-960px-Herbert_Von_Karajan%2C_Fundo_Correio_da_Manh%C3%A3_-_2_%28cropped%29.tif.jpg"
     },
     "img-c34216e1f20e": {
       "file": "Albrecht_Dürer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg",
+      "src": "assets/photos/portraits/img-c34216e1f20e.jpg",
       "width": 960,
       "height": 1175,
       "kind": "portrait",
@@ -675,11 +718,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Portrait_of_Maximilian_I_-_Google_Art_Project.jpg"
     },
     "img-61c75d2d526f": {
       "file": "Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/960px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
+      "src": "assets/photos/portraits/img-61c75d2d526f.jpg",
       "width": 960,
       "height": 937,
       "kind": "portrait",
@@ -689,13 +733,14 @@ const cardImages = {
       "license": "FAL",
       "licenseUrl": "https://artlibre.org/licence/lal/en",
       "source": "https://commons.wikimedia.org/wiki/File:Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/960px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg"
     },
     "img-064dc8b09a65": {
       "file": "Marlene_Dietrich_in_No_Highway_(1951)_(Cropped).png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png",
-      "width": 960,
-      "height": 1200,
+      "src": "assets/photos/portraits/img-064dc8b09a65.jpg",
+      "width": 600,
+      "height": 750,
       "kind": "portrait",
       "alt": "马琳·黛德丽",
       "caption": "马琳·黛德丽",
@@ -703,13 +748,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Marlene_Dietrich_in_No_Highway_(1951)_(Cropped).png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Marlene_Dietrich_in_No_Highway_%281951%29_%28Cropped%29.png"
     },
     "img-c5de071415e4": {
       "file": "Weimarer_Klassik.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Weimarer_Klassik.jpg",
-      "width": 960,
-      "height": 995,
+      "src": "assets/photos/portraits/img-c5de071415e4.jpg",
+      "width": 634,
+      "height": 657,
       "kind": "portrait",
       "alt": "席勒、威廉与亚历山大·冯·洪堡、歌德在耶拿（历史绘画）",
       "caption": "席勒、威廉与亚历山大·冯·洪堡、歌德在耶拿（历史绘画）",
@@ -717,13 +763,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Weimarer_Klassik.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/21/Weimarer_Klassik.jpg"
     },
     "img-ad08b3aa6d98": {
       "file": "Thomas_Mann_1929.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg",
-      "width": 960,
-      "height": 1440,
+      "src": "assets/photos/portraits/img-ad08b3aa6d98.jpg",
+      "width": 464,
+      "height": 696,
       "kind": "portrait",
       "alt": "托马斯·曼",
       "caption": "托马斯·曼",
@@ -731,11 +778,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Thomas_Mann_1929.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg"
     },
     "img-3ab08d4f47c8": {
       "file": "Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg/960px-Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
+      "src": "assets/photos/portraits/img-3ab08d4f47c8.jpg",
       "width": 960,
       "height": 1333,
       "kind": "portrait",
@@ -745,11 +793,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg/960px-Kandinsky_-_Vassily_Kandinsky_by_Adolf_Elnain_Photo_credits_-_Georges_Meguerditchian.jpg"
     },
     "img-c1885ad3fb2e": {
       "file": "JohannesBrahms_(cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JohannesBrahms_%28cropped%29.jpg/960px-JohannesBrahms_%28cropped%29.jpg",
+      "src": "assets/photos/portraits/img-c1885ad3fb2e.jpg",
       "width": 960,
       "height": 1155,
       "kind": "portrait",
@@ -759,13 +808,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:JohannesBrahms_(cropped).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/JohannesBrahms_%28cropped%29.jpg/960px-JohannesBrahms_%28cropped%29.jpg"
     },
     "img-0537e878d6b7": {
       "file": "Gotthold_Ephraim_Lessing.PNG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gotthold_Ephraim_Lessing.PNG",
-      "width": 960,
-      "height": 1160,
+      "src": "assets/photos/portraits/img-0537e878d6b7.jpg",
+      "width": 437,
+      "height": 528,
       "kind": "portrait",
       "alt": "莱辛",
       "caption": "莱辛",
@@ -773,13 +823,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Gotthold_Ephraim_Lessing.PNG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gotthold_Ephraim_Lessing.PNG"
     },
     "img-c8eea2cb095c": {
       "file": "Bundesarchiv_B_145_Bild-F062164-0004,_Bonn,_Heinrich_Böll.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg",
-      "width": 960,
-      "height": 1182,
+      "src": "assets/photos/portraits/img-c8eea2cb095c.jpg",
+      "width": 532,
+      "height": 655,
       "kind": "portrait",
       "alt": "海因里希·伯尔",
       "caption": "海因里希·伯尔",
@@ -787,11 +838,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F062164-0004,_Bonn,_Heinrich_B%C3%B6ll.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bundesarchiv_B_145_Bild-F062164-0004%2C_Bonn%2C_Heinrich_B%C3%B6ll.jpg"
     },
     "img-b2344058edc1": {
       "file": "Adenauer_Bouserath3.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adenauer_Bouserath3.jpg/960px-Adenauer_Bouserath3.jpg",
+      "src": "assets/photos/portraits/img-b2344058edc1.jpg",
       "width": 960,
       "height": 1327,
       "kind": "portrait",
@@ -801,11 +853,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Adenauer_Bouserath3.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adenauer_Bouserath3.jpg/960px-Adenauer_Bouserath3.jpg"
     },
     "img-e71388e0d7d6": {
       "file": "Trappista_cheese_original.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trappista_cheese_original.jpg/960px-Trappista_cheese_original.jpg",
+      "src": "assets/photos/food/img-e71388e0d7d6.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -815,11 +868,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Trappista_cheese_original.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trappista_cheese_original.jpg/960px-Trappista_cheese_original.jpg"
     },
     "img-baaf98ddf4ec": {
       "file": "Austrian_mountain_cheese.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Austrian_mountain_cheese.JPG/960px-Austrian_mountain_cheese.JPG",
+      "src": "assets/photos/food/img-baaf98ddf4ec.jpg",
       "width": 960,
       "height": 737,
       "kind": "food",
@@ -829,13 +883,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Austrian_mountain_cheese.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Austrian_mountain_cheese.JPG/960px-Austrian_mountain_cheese.JPG"
     },
     "img-f592e91d8fb8": {
       "file": "Cevapi_s_kajmakom.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg",
-      "width": 960,
-      "height": 540,
+      "src": "assets/photos/food/img-f592e91d8fb8.jpg",
+      "width": 800,
+      "height": 450,
       "kind": "food",
       "alt": "切瓦皮烤肉条实拍",
       "caption": "切瓦皮烤肉条 · 实拍",
@@ -843,11 +898,12 @@ const cardImages = {
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Cevapi_s_kajmakom.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg"
     },
     "img-bdde6d295741": {
       "file": "Pleskavitsa.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pleskavitsa.JPG/960px-Pleskavitsa.JPG",
+      "src": "assets/photos/food/img-bdde6d295741.jpg",
       "width": 960,
       "height": 763,
       "kind": "food",
@@ -857,13 +913,14 @@ const cardImages = {
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pleskavitsa.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pleskavitsa.JPG/960px-Pleskavitsa.JPG"
     },
     "img-deb96516ae8c": {
       "file": "Burek_trokut_1.png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Burek_trokut_1.png",
-      "width": 960,
-      "height": 686,
+      "src": "assets/photos/food/img-deb96516ae8c.jpg",
+      "width": 574,
+      "height": 410,
       "kind": "food",
       "alt": "布雷克酥皮馅饼实拍",
       "caption": "布雷克酥皮馅饼 · 实拍",
@@ -871,13 +928,14 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Burek_trokut_1.png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/13/Burek_trokut_1.png"
     },
     "img-c7ae4d058b69": {
       "file": "Gibanica_single_slice_with_full_pie_in_background.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gibanica_single_slice_with_full_pie_in_background.jpg",
-      "width": 960,
-      "height": 638,
+      "src": "assets/photos/food/img-c7ae4d058b69.jpg",
+      "width": 788,
+      "height": 524,
       "kind": "food",
       "alt": "吉巴尼察奶酪酥皮派实拍",
       "caption": "吉巴尼察奶酪酥皮派 · 实拍",
@@ -885,11 +943,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Gibanica_single_slice_with_full_pie_in_background.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gibanica_single_slice_with_full_pie_in_background.jpg"
     },
     "img-62a953decd0f": {
       "file": "Serbian_Sarma.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Serbian_Sarma.jpg/960px-Serbian_Sarma.jpg",
+      "src": "assets/photos/food/img-62a953decd0f.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -899,13 +958,14 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Serbian_Sarma.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Serbian_Sarma.jpg/960px-Serbian_Sarma.jpg"
     },
     "img-5d7115f82803": {
       "file": "Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Prebranac_i_stara_paelja_drvena%2C_Srbija.jpg",
-      "width": 960,
-      "height": 720,
+      "src": "assets/photos/food/img-5d7115f82803.jpg",
+      "width": 640,
+      "height": 480,
       "kind": "food",
       "alt": "烤豆煲实拍",
       "caption": "烤豆煲 · 实拍",
@@ -913,11 +973,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/40/Prebranac_i_stara_paelja_drvena%2C_Srbija.jpg"
     },
     "img-210a2b6cea27": {
       "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg/960px-T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
+      "src": "assets/photos/food/img-210a2b6cea27.jpg",
       "width": 960,
       "height": 1112,
       "kind": "food",
@@ -932,13 +993,14 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "铜壶向杯中倒咖啡的制作过程清楚，光线自然；作为土耳其咖啡冲煮过程照片，不作包装商品图。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg/960px-T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg"
     },
     "img-f4ae62ec340f": {
       "file": "Tesla_circa_1890.jpeg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
-      "width": 960,
-      "height": 1287,
+      "src": "assets/photos/portraits/img-f4ae62ec340f.jpg",
+      "width": 940,
+      "height": 1260,
       "kind": "portrait",
       "alt": "尼古拉·特斯拉",
       "caption": "尼古拉·特斯拉",
@@ -946,11 +1008,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg"
     },
     "img-e541d8b7a6f9": {
       "file": "Statua_di_Costantino_ai_musei_capitolini.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/960px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+      "src": "assets/photos/portraits/img-e541d8b7a6f9.jpg",
       "width": 960,
       "height": 1375,
       "kind": "portrait",
@@ -960,11 +1023,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Statua_di_Costantino_ai_musei_capitolini.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/960px-Statua_di_Costantino_ai_musei_capitolini.jpg"
     },
     "img-27b110f79d29": {
       "file": "Töltött_káposzta,_2.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg/960px-T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg",
+      "src": "assets/photos/food/img-27b110f79d29.jpg",
       "width": 960,
       "height": 638,
       "kind": "food",
@@ -974,11 +1038,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6lt%C3%B6tt_k%C3%A1poszta,_2.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg/960px-T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg"
     },
     "img-d25fe539ee71": {
       "file": "Hortobagy_palacsinta.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hortobagy_palacsinta.JPG/960px-Hortobagy_palacsinta.JPG",
+      "src": "assets/photos/food/img-d25fe539ee71.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -988,11 +1053,12 @@ const cardImages = {
       "license": "CC BY 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Hortobagy_palacsinta.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hortobagy_palacsinta.JPG/960px-Hortobagy_palacsinta.JPG"
     },
     "img-a003d1f02d72": {
       "file": "Túróstészta.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%BAr%C3%B3st%C3%A9szta.jpg/960px-T%C3%BAr%C3%B3st%C3%A9szta.jpg",
+      "src": "assets/photos/food/img-a003d1f02d72.jpg",
       "width": 960,
       "height": 820,
       "kind": "food",
@@ -1002,11 +1068,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:T%C3%BAr%C3%B3st%C3%A9szta.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%BAr%C3%B3st%C3%A9szta.jpg/960px-T%C3%BAr%C3%B3st%C3%A9szta.jpg"
     },
     "img-7d3f5d42a263": {
       "file": "Warm_Colors-_my_Mom's_Hungarian_Lecsó_cropped.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg/960px-Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg",
+      "src": "assets/photos/food/img-7d3f5d42a263.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -1016,11 +1083,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg/960px-Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg"
     },
     "img-38f929355550": {
       "file": "Somloi-galuska.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somloi-galuska.JPG/960px-Somloi-galuska.JPG",
+      "src": "assets/photos/food/img-38f929355550.jpg",
       "width": 960,
       "height": 638,
       "kind": "food",
@@ -1030,11 +1098,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Somloi-galuska.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somloi-galuska.JPG/960px-Somloi-galuska.JPG"
     },
     "img-1e519e0a9c9f": {
       "file": "Bejgli1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bejgli1.jpg/960px-Bejgli1.jpg",
+      "src": "assets/photos/food/img-1e519e0a9c9f.jpg",
       "width": 960,
       "height": 726,
       "kind": "food",
@@ -1044,11 +1113,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Bejgli1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bejgli1.jpg/960px-Bejgli1.jpg"
     },
     "img-c5ebe95b0119": {
       "file": "Pogácsa.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pog%C3%A1csa.jpg/960px-Pog%C3%A1csa.jpg",
+      "src": "assets/photos/food/img-c5ebe95b0119.jpg",
       "width": 960,
       "height": 748,
       "kind": "food",
@@ -1058,13 +1128,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pog%C3%A1csa.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pog%C3%A1csa.jpg/960px-Pog%C3%A1csa.jpg"
     },
     "img-fb325b14de1b": {
       "file": "Gróf_Széchenyi_István.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gr%C3%B3f_Sz%C3%A9chenyi_Istv%C3%A1n.jpg",
-      "width": 960,
-      "height": 1225,
+      "src": "assets/photos/portraits/img-fb325b14de1b.jpg",
+      "width": 700,
+      "height": 893,
       "kind": "portrait",
       "alt": "塞切尼·伊什特万",
       "caption": "塞切尼·伊什特万",
@@ -1072,11 +1143,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B3f_Sz%C3%A9chenyi_Istv%C3%A1n.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gr%C3%B3f_Sz%C3%A9chenyi_Istv%C3%A1n.jpg"
     },
     "img-7d22589bf79f": {
       "file": "Borsos_&_Doctor_Semmelweis_Ignác_cropped.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg/960px-Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg",
+      "src": "assets/photos/portraits/img-7d22589bf79f.jpg",
       "width": 960,
       "height": 997,
       "kind": "portrait",
@@ -1086,11 +1158,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg/960px-Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg"
     },
     "img-6ee3abd47eaa": {
       "file": "Oliver_Mark_-_Imre_Kertész,_Berlin_2005.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg/960px-Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg",
+      "src": "assets/photos/portraits/img-6ee3abd47eaa.jpg",
       "width": 960,
       "height": 1157,
       "kind": "portrait",
@@ -1100,11 +1173,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Oliver_Mark_-_Imre_Kert%C3%A9sz,_Berlin_2005.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg/960px-Oliver_Mark_-_Imre_Kert%C3%A9sz%2C_Berlin_2005.jpg"
     },
     "img-5e3e3c3d92d7": {
       "file": "Käsekrainer.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K%C3%A4sekrainer.jpg/960px-K%C3%A4sekrainer.jpg",
+      "src": "assets/photos/food/img-5e3e3c3d92d7.jpg",
       "width": 960,
       "height": 736,
       "kind": "food",
@@ -1114,11 +1188,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:K%C3%A4sekrainer.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K%C3%A4sekrainer.jpg/960px-K%C3%A4sekrainer.jpg"
     },
     "img-0cd3d2b4973a": {
       "file": "Leberkäse-1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Leberk%C3%A4se-1.jpg/960px-Leberk%C3%A4se-1.jpg",
+      "src": "assets/photos/food/img-0cd3d2b4973a.jpg",
       "width": 960,
       "height": 824,
       "kind": "food",
@@ -1133,11 +1208,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "熟肉烤块的切面和烤皮清楚，主体完整、光线均匀，白色背景干净。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Leberk%C3%A4se-1.jpg/960px-Leberk%C3%A4se-1.jpg"
     },
     "img-bebdc3c836c4": {
       "file": "Frittatensuppe.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Frittatensuppe.jpg/960px-Frittatensuppe.jpg",
+      "src": "assets/photos/food/img-bebdc3c836c4.jpg",
       "width": 960,
       "height": 772,
       "kind": "food",
@@ -1147,11 +1223,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Frittatensuppe.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Frittatensuppe.jpg/960px-Frittatensuppe.jpg"
     },
     "img-c83b9c981f8b": {
       "file": "Quarkstrudel_01.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quarkstrudel_01.jpg/960px-Quarkstrudel_01.jpg",
+      "src": "assets/photos/food/img-c83b9c981f8b.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1161,13 +1238,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Quarkstrudel_01.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quarkstrudel_01.jpg/960px-Quarkstrudel_01.jpg"
     },
     "img-b58018a85ed9": {
       "file": "Buchteln.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Buchteln.jpg",
-      "width": 960,
-      "height": 790,
+      "src": "assets/photos/food/img-b58018a85ed9.jpg",
+      "width": 542,
+      "height": 446,
       "kind": "food",
       "alt": "果酱馅酵母面包团实拍",
       "caption": "果酱馅酵母面包团 · 实拍",
@@ -1175,11 +1253,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Buchteln.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Buchteln.jpg"
     },
     "img-f0eaa703f328": {
       "file": "Kaisersemmel-.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaisersemmel-.jpg/960px-Kaisersemmel-.jpg",
+      "src": "assets/photos/food/img-f0eaa703f328.jpg",
       "width": 960,
       "height": 872,
       "kind": "food",
@@ -1189,11 +1268,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Kaisersemmel-.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaisersemmel-.jpg/960px-Kaisersemmel-.jpg"
     },
     "img-07106f3d579e": {
       "file": "White_wine_spritzer.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_wine_spritzer.jpg/960px-White_wine_spritzer.jpg",
+      "src": "assets/photos/food/img-07106f3d579e.jpg",
       "width": 960,
       "height": 1440,
       "kind": "food",
@@ -1208,11 +1288,12 @@ const cardImages = {
         "status": "approved",
         "date": "2026-11-08",
         "notes": "酒杯主体完整，酒液与气泡清晰，暖光与白平衡自然，背景虚化；仅说明白葡萄酒汽水，不冒充具体酒庄。"
-      }
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_wine_spritzer.jpg/960px-White_wine_spritzer.jpg"
     },
     "img-a5ab93e092cc": {
       "file": "Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/960px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+      "src": "assets/photos/portraits/img-a5ab93e092cc.jpg",
       "width": 960,
       "height": 1306,
       "kind": "portrait",
@@ -1222,11 +1303,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/960px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg"
     },
     "img-f8e3dc5b79d8": {
       "file": "Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg/960px-Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
+      "src": "assets/photos/portraits/img-f8e3dc5b79d8.jpg",
       "width": 960,
       "height": 1280,
       "kind": "portrait",
@@ -1236,13 +1318,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg/960px-Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg"
     },
     "img-45703ea50bdb": {
       "file": "Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
-      "width": 960,
-      "height": 1203,
+      "src": "assets/photos/portraits/img-45703ea50bdb.jpg",
+      "width": 671,
+      "height": 841,
       "kind": "portrait",
       "alt": "海蒂·拉玛",
       "caption": "海蒂·拉玛",
@@ -1250,11 +1333,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg"
     },
     "img-7715efa061dc": {
       "file": "Red_soup_noodles_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165303).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg/960px-Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg",
+      "src": "assets/photos/food/img-7715efa061dc.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -1264,11 +1348,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Red_soup_noodles_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165303).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg/960px-Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg"
     },
     "img-b959e2fa3b10": {
       "file": "Suzhou_Squirrel_fish_松鼠鱖魚_-_img_02.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg/960px-Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg",
+      "src": "assets/photos/food/img-b959e2fa3b10.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1278,11 +1363,12 @@ const cardImages = {
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg/960px-Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg"
     },
     "img-53485896af6d": {
       "file": "Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg/960px-Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg",
+      "src": "assets/photos/food/img-53485896af6d.jpg",
       "width": 960,
       "height": 640,
       "kind": "food",
@@ -1292,11 +1378,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg/960px-Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg"
     },
     "img-e613813a301f": {
       "file": "Savoury_Suzhou-style_meat_mooncake.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Savoury_Suzhou-style_meat_mooncake.jpg/960px-Savoury_Suzhou-style_meat_mooncake.jpg",
+      "src": "assets/photos/food/img-e613813a301f.jpg",
       "width": 960,
       "height": 641,
       "kind": "food",
@@ -1306,11 +1393,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Savoury_Suzhou-style_meat_mooncake.jpg/960px-Savoury_Suzhou-style_meat_mooncake.jpg"
     },
     "img-f78be527b828": {
       "file": "Qingtuan_1.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qingtuan_1.jpg/960px-Qingtuan_1.jpg",
+      "src": "assets/photos/food/img-f78be527b828.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1320,11 +1408,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Qingtuan_1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qingtuan_1.jpg/960px-Qingtuan_1.jpg"
     },
     "img-008ff60e217d": {
       "file": "Portrait_of_Wen_Zhengming.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Portrait_of_Wen_Zhengming.jpg/960px-Portrait_of_Wen_Zhengming.jpg",
+      "src": "assets/photos/portraits/img-008ff60e217d.jpg",
       "width": 960,
       "height": 1008,
       "kind": "portrait",
@@ -1334,11 +1423,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Wen_Zhengming.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Portrait_of_Wen_Zhengming.jpg/960px-Portrait_of_Wen_Zhengming.jpg"
     },
     "img-10c76fe345ab": {
       "file": "Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg/960px-Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg",
+      "src": "assets/photos/portraits/img-10c76fe345ab.jpg",
       "width": 960,
       "height": 1283,
       "kind": "portrait",
@@ -1348,11 +1438,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Itzhak_Perlman_with_I.M._Pei,_architect,_looking_at_model_of_NYC_Convention_Center_(03124v)_(cropped).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg/960px-Itzhak_Perlman_with_I.M._Pei%2C_architect%2C_looking_at_model_of_NYC_Convention_Center_%2803124v%29_%28cropped%29.jpg"
     },
     "img-8a86bd25d6a1": {
       "file": "一盘地锅鸡.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg/960px-%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg",
+      "src": "assets/photos/food/img-8a86bd25d6a1.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1362,11 +1453,12 @@ const cardImages = {
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg/960px-%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg"
     },
     "img-6d12f292bfdc": {
       "file": "Misandao_(11).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Misandao_%2811%29.jpg/960px-Misandao_%2811%29.jpg",
+      "src": "assets/photos/food/img-6d12f292bfdc.jpg",
       "width": 960,
       "height": 960,
       "kind": "food",
@@ -1376,13 +1468,14 @@ const cardImages = {
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Misandao_(11).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Misandao_%2811%29.jpg/960px-Misandao_%2811%29.jpg"
     },
     "img-2622806a61f3": {
       "file": "Liu-bang.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Liu-bang.jpg",
-      "width": 960,
-      "height": 1099,
+      "src": "assets/photos/portraits/img-2622806a61f3.jpg",
+      "width": 560,
+      "height": 641,
       "kind": "portrait",
       "alt": "刘邦肖像（明代后人绘制）",
       "caption": "刘邦肖像（明代后人绘制）",
@@ -1390,13 +1483,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Liu-bang.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Liu-bang.jpg"
     },
     "img-aa86db34bbb1": {
       "file": "Wuxi_spareribs_sauce.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wuxi_spareribs_sauce.jpg",
-      "width": 960,
-      "height": 667,
+      "src": "assets/photos/food/img-aa86db34bbb1.jpg",
+      "width": 800,
+      "height": 556,
       "kind": "food",
       "alt": "无锡酱排骨实拍",
       "caption": "无锡酱排骨 · 实拍",
@@ -1404,11 +1498,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Wuxi_spareribs_sauce.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wuxi_spareribs_sauce.jpg"
     },
     "img-a99178922aea": {
       "file": "Oil-soaked_gluten.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oil-soaked_gluten.jpg/960px-Oil-soaked_gluten.jpg",
+      "src": "assets/photos/food/img-a99178922aea.jpg",
       "width": 960,
       "height": 960,
       "kind": "food",
@@ -1418,11 +1513,12 @@ const cardImages = {
       "license": "CC0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Oil-soaked_gluten.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oil-soaked_gluten.jpg/960px-Oil-soaked_gluten.jpg"
     },
     "img-b32bcee60e03": {
       "file": "阿炳证件照.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg/960px-%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg",
+      "src": "assets/photos/portraits/img-b32bcee60e03.jpg",
       "width": 960,
       "height": 1280,
       "kind": "portrait",
@@ -1432,11 +1528,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg/960px-%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg"
     },
     "img-ffb150065131": {
       "file": "昆山奥灶馆奥灶面.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg/960px-%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg",
+      "src": "assets/photos/food/img-ffb150065131.jpg",
       "width": 960,
       "height": 540,
       "kind": "food",
@@ -1446,11 +1543,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg/960px-%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg"
     },
     "img-3b93fb879274": {
       "file": "Barabás_Petőfi.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Barab%C3%A1s_Pet%C5%91fi.jpg/960px-Barab%C3%A1s_Pet%C5%91fi.jpg",
+      "src": "assets/photos/portraits/img-3b93fb879274.jpg",
       "width": 960,
       "height": 1482,
       "kind": "portrait",
@@ -1460,13 +1558,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Barab%C3%A1s_Pet%C5%91fi.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Barab%C3%A1s_Pet%C5%91fi.jpg/960px-Barab%C3%A1s_Pet%C5%91fi.jpg"
     },
     "img-6867298cb1d7": {
       "file": "Andrea_Mantegna_-_King_Matthias_Corvinus_of_Hungary.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Andrea_Mantegna_-_King_Matthias_Corvinus_of_Hungary.jpg",
-      "width": 960,
-      "height": 1226,
+      "src": "assets/photos/portraits/img-6867298cb1d7.jpg",
+      "width": 752,
+      "height": 960,
       "kind": "portrait",
       "alt": "马加什一世",
       "caption": "马加什一世",
@@ -1474,13 +1573,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_-_King_Matthias_Corvinus_of_Hungary.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/48/Andrea_Mantegna_-_King_Matthias_Corvinus_of_Hungary.jpg"
     },
     "img-7faf78b2e8b1": {
       "file": "Kodály_Zoltán_1930s.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg",
-      "width": 960,
-      "height": 1238,
+      "src": "assets/photos/portraits/img-7faf78b2e8b1.jpg",
+      "width": 349,
+      "height": 450,
       "kind": "portrait",
       "alt": "柯达伊",
       "caption": "柯达伊",
@@ -1488,11 +1588,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kod%C3%A1ly_Zolt%C3%A1n_1930s.jpg"
     },
     "img-6ab34a5c1dad": {
       "file": "Kaiserin_Maria_Theresia_(HRR).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiserin_Maria_Theresia_%28HRR%29.jpg/960px-Kaiserin_Maria_Theresia_%28HRR%29.jpg",
+      "src": "assets/photos/portraits/img-6ab34a5c1dad.jpg",
       "width": 960,
       "height": 1190,
       "kind": "portrait",
@@ -1502,13 +1603,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Kaiserin_Maria_Theresia_(HRR).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiserin_Maria_Theresia_%28HRR%29.jpg/960px-Kaiserin_Maria_Theresia_%28HRR%29.jpg"
     },
     "img-c75a5f945471": {
       "file": "Otto_Wagner_photo2_retouched.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Otto_Wagner_photo2_retouched.jpg",
-      "width": 960,
-      "height": 1381,
+      "src": "assets/photos/portraits/img-c75a5f945471.jpg",
+      "width": 139,
+      "height": 200,
       "kind": "portrait",
       "alt": "奥托·瓦格纳",
       "caption": "奥托·瓦格纳",
@@ -1516,13 +1618,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Otto_Wagner_photo2_retouched.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/31/Otto_Wagner_photo2_retouched.jpg"
     },
     "img-943aa320d97b": {
       "file": "WalterGropius-1919.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg",
-      "width": 960,
-      "height": 1356,
+      "src": "assets/photos/portraits/img-943aa320d97b.jpg",
+      "width": 540,
+      "height": 763,
       "kind": "portrait",
       "alt": "瓦尔特·格罗皮乌斯",
       "caption": "瓦尔特·格罗皮乌斯",
@@ -1530,13 +1633,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:WalterGropius-1919.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b5/WalterGropius-1919.jpg"
     },
     "img-67c09fd5b3dd": {
       "file": "Gestapo_photo_of_Sophie_Scholl_taken_after_her_capture_on_February_18,_1943-2.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gestapo_photo_of_Sophie_Scholl_taken_after_her_capture_on_February_18%2C_1943-2.jpg",
-      "width": 960,
-      "height": 1312,
+      "src": "assets/photos/portraits/img-67c09fd5b3dd.jpg",
+      "width": 210,
+      "height": 287,
       "kind": "portrait",
       "alt": "索菲·绍尔",
       "caption": "索菲·绍尔",
@@ -1544,13 +1648,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Gestapo_photo_of_Sophie_Scholl_taken_after_her_capture_on_February_18,_1943-2.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gestapo_photo_of_Sophie_Scholl_taken_after_her_capture_on_February_18%2C_1943-2.jpg"
     },
     "img-ef66009393da": {
       "file": "Käthe_Kollwitz_by_Hugo_Erfurth,_1927.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg",
-      "width": 960,
-      "height": 1264,
+      "src": "assets/photos/portraits/img-ef66009393da.jpg",
+      "width": 642,
+      "height": 845,
       "kind": "portrait",
       "alt": "凯绥·珂勒惠支",
       "caption": "凯绥·珂勒惠支",
@@ -1558,13 +1663,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:K%C3%A4the_Kollwitz_by_Hugo_Erfurth,_1927.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4the_Kollwitz_by_Hugo_Erfurth%2C_1927.jpg"
     },
     "img-7b28f4109467": {
       "file": "Milutin_Milanković_2.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Milutin_Milankovi%C4%87_2.jpg",
-      "width": 960,
-      "height": 1280,
+      "src": "assets/photos/portraits/img-7b28f4109467.jpg",
+      "width": 270,
+      "height": 360,
       "kind": "portrait",
       "alt": "米卢廷·米兰科维奇",
       "caption": "米卢廷·米兰科维奇",
@@ -1572,11 +1678,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Milutin_Milankovi%C4%87_2.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/89/Milutin_Milankovi%C4%87_2.jpg"
     },
     "img-eceb978234b0": {
       "file": "S._Kragujevic,_Ivo_Andric,_1961_(3x4_cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg/960px-S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg",
+      "src": "assets/photos/portraits/img-eceb978234b0.jpg",
       "width": 960,
       "height": 1279,
       "kind": "portrait",
@@ -1586,13 +1693,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0 rs",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:S._Kragujevic,_Ivo_Andric,_1961_(3x4_cropped).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg/960px-S._Kragujevic%2C_Ivo_Andric%2C_1961_%283x4_cropped%29.jpg"
     },
     "img-946f7902a7de": {
       "file": "Su_shi.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Su_shi.jpg",
-      "width": 960,
-      "height": 2260,
+      "src": "assets/photos/portraits/img-946f7902a7de.jpg",
+      "width": 750,
+      "height": 1766,
       "kind": "portrait",
       "alt": "苏轼画像（赵孟頫绘）",
       "caption": "苏轼画像（赵孟頫绘）",
@@ -1600,13 +1708,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Su_shi.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/98/Su_shi.jpg"
     },
     "img-b2f580042594": {
       "file": "Xu_Xiake.png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xu_Xiake.png",
-      "width": 960,
-      "height": 1652,
+      "src": "assets/photos/portraits/img-b2f580042594.jpg",
+      "width": 738,
+      "height": 1270,
       "kind": "portrait",
       "alt": "徐霞客历史画像",
       "caption": "徐霞客历史画像",
@@ -1614,11 +1723,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Xu_Xiake.png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xu_Xiake.png"
     },
     "img-71a1ffa481b2": {
       "file": "Potica_na_Bledu.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potica_na_Bledu.jpg/960px-Potica_na_Bledu.jpg",
+      "src": "assets/photos/food/img-71a1ffa481b2.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1628,11 +1738,12 @@ const cardImages = {
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Potica_na_Bledu.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potica_na_Bledu.jpg/960px-Potica_na_Bledu.jpg"
     },
     "img-ebbba81bb7e7": {
       "file": "Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg/960px-Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+      "src": "assets/photos/food/img-ebbba81bb7e7.jpg",
       "width": 960,
       "height": 539,
       "kind": "food",
@@ -1642,11 +1753,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg/960px-Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg"
     },
     "img-be72b637d377": {
       "file": "Struklji_2.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Struklji_2.jpg/960px-Struklji_2.jpg",
+      "src": "assets/photos/food/img-be72b637d377.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1656,11 +1768,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Struklji_2.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Struklji_2.jpg/960px-Struklji_2.jpg"
     },
     "img-9a86bcab772c": {
       "file": "PrekmurskaGibanica1.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/960px-PrekmurskaGibanica1.JPG",
+      "src": "assets/photos/food/img-9a86bcab772c.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1670,11 +1783,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:PrekmurskaGibanica1.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/960px-PrekmurskaGibanica1.JPG"
     },
     "img-d97fe155b78c": {
       "file": "Kremna_rezina.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/960px-Kremna_rezina.jpg",
+      "src": "assets/photos/food/img-d97fe155b78c.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1684,13 +1798,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Kremna_rezina.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/960px-Kremna_rezina.jpg"
     },
     "img-d80642ef76f2": {
       "file": "Jože_Plečnik_(1943),_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jo%C5%BEe_Ple%C4%8Dnik_%281943%29%2C_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
-      "width": 960,
-      "height": 712,
+      "src": "assets/photos/portraits/img-d80642ef76f2.jpg",
+      "width": 500,
+      "height": 371,
       "kind": "portrait",
       "alt": "约热·普列奇尼克",
       "caption": "约热·普列奇尼克",
@@ -1698,13 +1813,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Jo%C5%BEe_Ple%C4%8Dnik_(1943),_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jo%C5%BEe_Ple%C4%8Dnik_%281943%29%2C_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg"
     },
     "img-8bc50c27c20b": {
       "file": "Prešern-Goldenstein.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pre%C5%A1ern-Goldenstein.jpg",
-      "width": 960,
-      "height": 1447,
+      "src": "assets/photos/portraits/img-8bc50c27c20b.jpg",
+      "width": 680,
+      "height": 1025,
       "kind": "portrait",
       "alt": "弗兰采·普列舍伦",
       "caption": "弗兰采·普列舍伦",
@@ -1712,13 +1828,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Pre%C5%A1ern-Goldenstein.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pre%C5%A1ern-Goldenstein.jpg"
     },
     "img-d51ba2ccaebc": {
       "file": "Rudolf_Maister_1910s.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rudolf_Maister_1910s.jpg",
-      "width": 960,
-      "height": 1495,
+      "src": "assets/photos/portraits/img-d51ba2ccaebc.jpg",
+      "width": 321,
+      "height": 500,
       "kind": "portrait",
       "alt": "鲁道夫·迈斯特",
       "caption": "鲁道夫·迈斯特",
@@ -1726,11 +1843,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Rudolf_Maister_1910s.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rudolf_Maister_1910s.jpg"
     },
     "img-ba7c48031780": {
       "file": "Giuseppe_Tartini_(Tartini_House).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Giuseppe_Tartini_%28Tartini_House%29.jpg/960px-Giuseppe_Tartini_%28Tartini_House%29.jpg",
+      "src": "assets/photos/portraits/img-ba7c48031780.jpg",
       "width": 960,
       "height": 1163,
       "kind": "portrait",
@@ -1740,13 +1858,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Tartini_(Tartini_House).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Giuseppe_Tartini_%28Tartini_House%29.jpg/960px-Giuseppe_Tartini_%28Tartini_House%29.jpg"
     },
     "img-f50abe767174": {
       "file": "Alma_Karlin.png",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alma_Karlin.png",
-      "width": 960,
-      "height": 1545,
+      "src": "assets/photos/portraits/img-f50abe767174.jpg",
+      "width": 248,
+      "height": 399,
       "kind": "portrait",
       "alt": "阿尔玛·卡林",
       "caption": "阿尔玛·卡林",
@@ -1754,11 +1873,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Alma_Karlin.png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alma_Karlin.png"
     },
     "img-fe5b16d43a76": {
       "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/960px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
+      "src": "assets/photos/food/img-fe5b16d43a76.jpg",
       "width": 960,
       "height": 955,
       "kind": "food",
@@ -1768,11 +1888,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/960px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg"
     },
     "img-e35702e7d942": {
       "file": "Bigos_(1).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/960px-Bigos_%281%29.jpg",
+      "src": "assets/photos/food/img-e35702e7d942.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1782,13 +1903,14 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Bigos_(1).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/960px-Bigos_%281%29.jpg"
     },
     "img-b89c9a43ed39": {
       "file": "Uszka-aasica.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Uszka-aasica.jpg",
-      "width": 960,
-      "height": 720,
+      "src": "assets/photos/food/img-b89c9a43ed39.jpg",
+      "width": 640,
+      "height": 480,
       "kind": "food",
       "alt": "红甜菜汤与 uszka 小面点实拍",
       "caption": "红甜菜汤与 uszka 小面点 · 实拍",
@@ -1796,13 +1918,14 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Uszka-aasica.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/13/Uszka-aasica.jpg"
     },
     "img-e991a5dd4160": {
       "file": "00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/00101_Rindfleisch_-_Kohlroulade%2C_Podkarpackie.JPG",
-      "width": 960,
-      "height": 720,
+      "src": "assets/photos/food/img-e991a5dd4160.jpg",
+      "width": 800,
+      "height": 600,
       "kind": "food",
       "alt": "Gołąbki实拍",
       "caption": "Gołąbki · 实拍",
@@ -1810,11 +1933,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/df/00101_Rindfleisch_-_Kohlroulade%2C_Podkarpackie.JPG"
     },
     "img-2378ede47351": {
       "file": "Pączki_-_14.05.2024.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/P%C4%85czki_-_14.05.2024.jpg/960px-P%C4%85czki_-_14.05.2024.jpg",
+      "src": "assets/photos/food/img-2378ede47351.jpg",
       "width": 960,
       "height": 884,
       "kind": "food",
@@ -1824,11 +1948,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:P%C4%85czki_-_14.05.2024.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/P%C4%85czki_-_14.05.2024.jpg/960px-P%C4%85czki_-_14.05.2024.jpg"
     },
     "img-5f7cf865c8d0": {
       "file": "2023_Sernik_polski_(1).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2023_Sernik_polski_%281%29.jpg/960px-2023_Sernik_polski_%281%29.jpg",
+      "src": "assets/photos/food/img-5f7cf865c8d0.jpg",
       "width": 960,
       "height": 658,
       "kind": "food",
@@ -1838,11 +1963,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2023_Sernik_polski_(1).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2023_Sernik_polski_%281%29.jpg/960px-2023_Sernik_polski_%281%29.jpg"
     },
     "img-f124e9490d88": {
       "file": "Obwarzanek_mak.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/960px-Obwarzanek_mak.jpg",
+      "src": "assets/photos/food/img-f124e9490d88.jpg",
       "width": 960,
       "height": 901,
       "kind": "food",
@@ -1852,13 +1978,14 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Obwarzanek_mak.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/960px-Obwarzanek_mak.jpg"
     },
     "img-c6e6380ca072": {
       "file": "Oscypki.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Oscypki.jpg",
-      "width": 960,
-      "height": 843,
+      "src": "assets/photos/food/img-c6e6380ca072.jpg",
+      "width": 873,
+      "height": 767,
       "kind": "food",
       "alt": "Oscypek实拍",
       "caption": "Oscypek · 实拍",
@@ -1866,11 +1993,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Oscypki.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Oscypki.jpg"
     },
     "img-8e94e29b9480": {
       "file": "Polish_food_in_Poland_21.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Polish_food_in_Poland_21.jpg/960px-Polish_food_in_Poland_21.jpg",
+      "src": "assets/photos/food/img-8e94e29b9480.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1880,11 +2008,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Polish_food_in_Poland_21.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Polish_food_in_Poland_21.jpg/960px-Polish_food_in_Poland_21.jpg"
     },
     "img-b4098c6ad7f8": {
       "file": "Frederic_Chopin_photo.jpeg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/960px-Frederic_Chopin_photo.jpeg",
+      "src": "assets/photos/portraits/img-b4098c6ad7f8.jpg",
       "width": 960,
       "height": 1354,
       "kind": "portrait",
@@ -1894,11 +2023,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Frederic_Chopin_photo.jpeg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/960px-Frederic_Chopin_photo.jpeg"
     },
     "img-1ed399313e8a": {
       "file": "Marie_Curie_c._1920s.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg",
+      "src": "assets/photos/portraits/img-1ed399313e8a.jpg",
       "width": 960,
       "height": 1305,
       "kind": "portrait",
@@ -1908,11 +2038,12 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/960px-Marie_Curie_c._1920s.jpg"
     },
     "img-34a1fa815519": {
       "file": "Nikolaus_Kopernikus_MOT.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/960px-Nikolaus_Kopernikus_MOT.jpg",
+      "src": "assets/photos/portraits/img-34a1fa815519.jpg",
       "width": 960,
       "height": 1199,
       "kind": "portrait",
@@ -1922,13 +2053,14 @@ const cardImages = {
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/960px-Nikolaus_Kopernikus_MOT.jpg"
     },
     "img-9dcc7e8e9836": {
       "file": "Wisława_Szymborska_2009.10.23_(1).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wis%C5%82awa_Szymborska_2009.10.23_%281%29.jpg",
-      "width": 960,
-      "height": 1280,
+      "src": "assets/photos/portraits/img-9dcc7e8e9836.jpg",
+      "width": 360,
+      "height": 480,
       "kind": "portrait",
       "alt": "维斯瓦娃·辛波斯卡",
       "caption": "维斯瓦娃·辛波斯卡",
@@ -1936,13 +2068,14 @@ const cardImages = {
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Wis%C5%82awa_Szymborska_2009.10.23_(1).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wis%C5%82awa_Szymborska_2009.10.23_%281%29.jpg"
     },
     "img-ca84b013df48": {
       "file": "03.17_總統接見「波蘭前總統華勒沙乙行」_-_55151702432_(cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg",
-      "width": 960,
-      "height": 1215,
+      "src": "assets/photos/portraits/img-ca84b013df48.jpg",
+      "width": 433,
+      "height": 548,
       "kind": "portrait",
       "alt": "莱赫·瓦文萨",
       "caption": "莱赫·瓦文萨",
@@ -1950,11 +2083,12 @@ const cardImages = {
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_(cropped).jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg"
     },
     "img-72a0bf5d6acb": {
       "file": "Olga_Tokarczuk-9739.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olga_Tokarczuk-9739.jpg/960px-Olga_Tokarczuk-9739.jpg",
+      "src": "assets/photos/portraits/img-72a0bf5d6acb.jpg",
       "width": 960,
       "height": 1280,
       "kind": "portrait",
@@ -1964,11 +2098,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Olga_Tokarczuk-9739.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olga_Tokarczuk-9739.jpg/960px-Olga_Tokarczuk-9739.jpg"
     },
     "img-89031e0031fe": {
       "file": "Żurek_soup.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%C5%BBurek_soup.jpg/960px-%C5%BBurek_soup.jpg",
+      "src": "assets/photos/food/img-89031e0031fe.jpg",
       "width": 960,
       "height": 713,
       "kind": "food",
@@ -1978,11 +2113,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:%C5%BBurek_soup.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%C5%BBurek_soup.jpg/960px-%C5%BBurek_soup.jpg"
     },
     "img-d14544fb73c1": {
       "file": "Döner_kebap.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/960px-D%C3%B6ner_kebap.jpg",
+      "src": "assets/photos/food/img-d14544fb73c1.jpg",
       "width": 960,
       "height": 720,
       "kind": "food",
@@ -1992,11 +2128,12 @@ const cardImages = {
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "source": "https://commons.wikimedia.org/wiki/File:D%C3%B6ner_kebap.jpg",
-      "checked": "2026-11-08"
+      "checked": "2026-11-08",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/960px-D%C3%B6ner_kebap.jpg"
     },
     "img-a8539d44693f": {
       "file": "Eine_Maß_Helles_(5943793774).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eine_Ma%C3%9F_Helles_%285943793774%29.jpg/960px-Eine_Ma%C3%9F_Helles_%285943793774%29.jpg",
+      "src": "assets/photos/food/img-a8539d44693f.jpg",
       "width": 960,
       "height": 721,
       "kind": "food",
@@ -2006,11 +2143,12 @@ const cardImages = {
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Eine_Ma%C3%9F_Helles_(5943793774).jpg",
-      "checked": "2026-11-08"
+      "checked": "2026-11-08",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eine_Ma%C3%9F_Helles_%285943793774%29.jpg/960px-Eine_Ma%C3%9F_Helles_%285943793774%29.jpg"
     },
     "transport-poi-salzburg-salzburg-1": {
       "file": "Salzburg Hauptbahnhof (20190623 170409).jpg",
-      "src": "assets/transport/poi-salzburg-salzburg-1.webp",
+      "src": "assets/transport/poi-salzburg-salzburg-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2030,7 +2168,7 @@ const cardImages = {
     },
     "transport-poi-vienna-vienna-0": {
       "file": "2011-06-14 10-23-56 Austria Niederösterreich Fischamend Markt.jpg",
-      "src": "assets/transport/poi-vienna-vienna-0.webp",
+      "src": "assets/transport/poi-vienna-vienna-0.jpg",
       "width": 1600,
       "height": 1062,
       "kind": "place",
@@ -2050,7 +2188,7 @@ const cardImages = {
     },
     "transport-poi-vienna-vienna-1": {
       "file": "Wien Hauptbahnhof, 2019 (01).jpg",
-      "src": "assets/transport/poi-vienna-vienna-1.webp",
+      "src": "assets/transport/poi-vienna-vienna-1.jpg",
       "width": 1600,
       "height": 1060,
       "kind": "place",
@@ -2070,7 +2208,7 @@ const cardImages = {
     },
     "transport-poi-vienna-vienna-2": {
       "file": "Westbahnhof Wien. Außenansicht von Nordosten (2012).jpg",
-      "src": "assets/transport/poi-vienna-vienna-2.webp",
+      "src": "assets/transport/poi-vienna-vienna-2.jpg",
       "width": 1600,
       "height": 1063,
       "kind": "place",
@@ -2090,7 +2228,7 @@ const cardImages = {
     },
     "transport-poi-salzburg-salzburg-0": {
       "file": "Salzburg Airport LOWS RWY check flt u left base RWY15.jpg",
-      "src": "assets/transport/poi-salzburg-salzburg-0.webp",
+      "src": "assets/transport/poi-salzburg-salzburg-0.jpg",
       "width": 1502,
       "height": 922,
       "kind": "place",
@@ -2110,7 +2248,7 @@ const cardImages = {
     },
     "transport-poi-innsbruck-innsbruck-1": {
       "file": "Innsbruck Hbf 2.jpg",
-      "src": "assets/transport/poi-innsbruck-innsbruck-1.webp",
+      "src": "assets/transport/poi-innsbruck-innsbruck-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2130,7 +2268,7 @@ const cardImages = {
     },
     "transport-venue-vienna-wien-mitte": {
       "file": "Wien 03 Bahnhof Wien Mitte b.jpg",
-      "src": "assets/transport/venue-vienna-wien-mitte.webp",
+      "src": "assets/transport/venue-vienna-wien-mitte.jpg",
       "width": 1600,
       "height": 900,
       "kind": "place",
@@ -2150,7 +2288,7 @@ const cardImages = {
     },
     "transport-venue-vienna-praterstern": {
       "file": "Praterstern 30.jpg",
-      "src": "assets/transport/venue-vienna-praterstern.webp",
+      "src": "assets/transport/venue-vienna-praterstern.jpg",
       "width": 1600,
       "height": 900,
       "kind": "place",
@@ -2170,7 +2308,7 @@ const cardImages = {
     },
     "transport-poi-innsbruck-innsbruck-0": {
       "file": "12-06-05-innsbruck-by-ralfr-164.jpg",
-      "src": "assets/transport/poi-innsbruck-innsbruck-0.webp",
+      "src": "assets/transport/poi-innsbruck-innsbruck-0.jpg",
       "width": 1600,
       "height": 1063,
       "kind": "place",
@@ -2190,7 +2328,7 @@ const cardImages = {
     },
     "transport-venue-hamburg-ferry": {
       "file": "2013-06-08 Projekt Heißlufftballon DSCF7556.jpg",
-      "src": "assets/transport/venue-hamburg-ferry.webp",
+      "src": "assets/transport/venue-hamburg-ferry.jpg",
       "width": 1600,
       "height": 1071,
       "kind": "place",
@@ -2211,7 +2349,7 @@ const cardImages = {
     },
     "transport-poi-hamburg-hamburg-2": {
       "file": "Bahnhof Altona (Einfahrt).jpg",
-      "src": "assets/transport/poi-hamburg-hamburg-2.webp",
+      "src": "assets/transport/poi-hamburg-hamburg-2.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2232,7 +2370,7 @@ const cardImages = {
     },
     "transport-poi-szeged-szeged-1": {
       "file": "NagyállomásSzeged.jpg",
-      "src": "assets/transport/poi-szeged-szeged-1.webp",
+      "src": "assets/transport/poi-szeged-szeged-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2253,7 +2391,7 @@ const cardImages = {
     },
     "transport-venue-budapest-deli": {
       "file": "Deli-pu-budapest.jpg",
-      "src": "assets/transport/venue-budapest-deli.webp",
+      "src": "assets/transport/venue-budapest-deli.jpg",
       "width": 800,
       "height": 600,
       "kind": "place",
@@ -2274,7 +2412,7 @@ const cardImages = {
     },
     "transport-poi-szeged-szeged-1-gallery-2": {
       "file": "Szeged, vasútállomás, image9.jpg",
-      "src": "assets/transport/poi-szeged-szeged-1-gallery-2.webp",
+      "src": "assets/transport/poi-szeged-szeged-1-gallery-2.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2295,7 +2433,7 @@ const cardImages = {
     },
     "transport-place-piran-koper-station": {
       "file": "Zug am Bahnhof Koper Želežniška postaja Koper Stazione ferroviaria di Capodistria (52977029239).jpg",
-      "src": "assets/transport/place-piran-koper-station.webp",
+      "src": "assets/transport/place-piran-koper-station.jpg",
       "width": 1594,
       "height": 1200,
       "kind": "place",
@@ -2316,7 +2454,7 @@ const cardImages = {
     },
     "transport-place-bled-jezero-station": {
       "file": "Bled Jezero Bahnhof (51589958729).jpg",
-      "src": "assets/transport/place-bled-jezero-station.webp",
+      "src": "assets/transport/place-bled-jezero-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2337,7 +2475,7 @@ const cardImages = {
     },
     "transport-venue-xuzhou-station": {
       "file": "Xuzhou Railway Station.jpg",
-      "src": "assets/transport/venue-xuzhou-station.webp",
+      "src": "assets/transport/venue-xuzhou-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2358,7 +2496,7 @@ const cardImages = {
     },
     "transport-poi-munich-munich-1": {
       "file": "Hauptbahnhof München.jpg",
-      "src": "assets/transport/poi-munich-munich-1.webp",
+      "src": "assets/transport/poi-munich-munich-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2379,7 +2517,7 @@ const cardImages = {
     },
     "transport-poi-munich-munich-0": {
       "file": "Munich airport 2019 2.jpg",
-      "src": "assets/transport/poi-munich-munich-0.webp",
+      "src": "assets/transport/poi-munich-munich-0.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2400,7 +2538,7 @@ const cardImages = {
     },
     "transport-poi-budapest-budapest-0": {
       "file": "Terminál 2 - Ferihegy, 2015.07.27.JPG",
-      "src": "assets/transport/poi-budapest-budapest-0.webp",
+      "src": "assets/transport/poi-budapest-budapest-0.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2421,7 +2559,7 @@ const cardImages = {
     },
     "transport-poi-budapest-budapest-1": {
       "file": "14-05-06-budapest-RalfR-11.jpg",
-      "src": "assets/transport/poi-budapest-budapest-1.webp",
+      "src": "assets/transport/poi-budapest-budapest-1.jpg",
       "width": 1600,
       "height": 909,
       "kind": "place",
@@ -2442,7 +2580,7 @@ const cardImages = {
     },
     "transport-poi-budapest-budapest-2": {
       "file": "Nyugati pályaudvar, Budapest.jpg",
-      "src": "assets/transport/poi-budapest-budapest-2.webp",
+      "src": "assets/transport/poi-budapest-budapest-2.jpg",
       "width": 1600,
       "height": 888,
       "kind": "place",
@@ -2463,7 +2601,7 @@ const cardImages = {
     },
     "transport-poi-berlin-berlin-0": {
       "file": "Berlin Brandenburg Airport Terminal 1.jpg",
-      "src": "assets/transport/poi-berlin-berlin-0.webp",
+      "src": "assets/transport/poi-berlin-berlin-0.jpg",
       "width": 1600,
       "height": 1058,
       "kind": "place",
@@ -2484,7 +2622,7 @@ const cardImages = {
     },
     "transport-poi-berlin-berlin-1": {
       "file": "Berlin Hauptbahnhof Ostseite HDR.jpg",
-      "src": "assets/transport/poi-berlin-berlin-1.webp",
+      "src": "assets/transport/poi-berlin-berlin-1.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2505,7 +2643,7 @@ const cardImages = {
     },
     "transport-poi-berlin-berlin-2": {
       "file": "Bhf Ostkreuz 2024 Luftbild Toni Klemm.jpg",
-      "src": "assets/transport/poi-berlin-berlin-2.webp",
+      "src": "assets/transport/poi-berlin-berlin-2.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2526,7 +2664,7 @@ const cardImages = {
     },
     "transport-poi-munich-munich-2": {
       "file": "Munich Ostbahnhof Station May 2017.jpg",
-      "src": "assets/transport/poi-munich-munich-2.webp",
+      "src": "assets/transport/poi-munich-munich-2.jpg",
       "width": 1200,
       "height": 764,
       "kind": "place",
@@ -2547,7 +2685,7 @@ const cardImages = {
     },
     "transport-poi-hamburg-hamburg-0": {
       "file": "Hamburg airport terminals.jpg",
-      "src": "assets/transport/poi-hamburg-hamburg-0.webp",
+      "src": "assets/transport/poi-hamburg-hamburg-0.jpg",
       "width": 1600,
       "height": 871,
       "kind": "place",
@@ -2568,7 +2706,7 @@ const cardImages = {
     },
     "transport-poi-hamburg-hamburg-1": {
       "file": "2013-06-08 Highflyer HP L4733.JPG",
-      "src": "assets/transport/poi-hamburg-hamburg-1.webp",
+      "src": "assets/transport/poi-hamburg-hamburg-1.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2589,7 +2727,7 @@ const cardImages = {
     },
     "transport-poi-cologne-cologne-0": {
       "file": "Cologne Bonn Airport - Terminal 2 - in times of COVID-19 pandemic-0384.jpg",
-      "src": "assets/transport/poi-cologne-cologne-0.webp",
+      "src": "assets/transport/poi-cologne-cologne-0.jpg",
       "width": 1600,
       "height": 900,
       "kind": "place",
@@ -2610,7 +2748,7 @@ const cardImages = {
     },
     "transport-poi-cologne-cologne-1": {
       "file": "Koeln Hauptbahnhof Luftaufnahme.jpg",
-      "src": "assets/transport/poi-cologne-cologne-1.webp",
+      "src": "assets/transport/poi-cologne-cologne-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2631,7 +2769,7 @@ const cardImages = {
     },
     "transport-poi-cologne-cologne-2": {
       "file": "Bahnhof Köln-Deutz-6041.jpg",
-      "src": "assets/transport/poi-cologne-cologne-2.webp",
+      "src": "assets/transport/poi-cologne-cologne-2.jpg",
       "width": 1115,
       "height": 1200,
       "kind": "place",
@@ -2652,7 +2790,7 @@ const cardImages = {
     },
     "transport-place-belgrade-airport": {
       "file": "Belgrade Nikola Tesla Airport 2023.jpg",
-      "src": "assets/transport/place-belgrade-airport.webp",
+      "src": "assets/transport/place-belgrade-airport.jpg",
       "width": 1600,
       "height": 921,
       "kind": "place",
@@ -2673,7 +2811,7 @@ const cardImages = {
     },
     "transport-place-belgrade-station": {
       "file": "Свјетлопис жељезничке станице Биоград центар4.jpg",
-      "src": "assets/transport/place-belgrade-station.webp",
+      "src": "assets/transport/place-belgrade-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2694,7 +2832,7 @@ const cardImages = {
     },
     "transport-place-novi-sad-station": {
       "file": "Železnička stanica Novi Sad.jpg",
-      "src": "assets/transport/place-novi-sad-station.webp",
+      "src": "assets/transport/place-novi-sad-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2715,7 +2853,7 @@ const cardImages = {
     },
     "transport-place-nis-airport": {
       "file": "Nis Airport new terminal.jpg",
-      "src": "assets/transport/place-nis-airport.webp",
+      "src": "assets/transport/place-nis-airport.jpg",
       "width": 1600,
       "height": 1079,
       "kind": "place",
@@ -2736,7 +2874,7 @@ const cardImages = {
     },
     "transport-place-nis-station": {
       "file": "Niš railway station 2.JPG",
-      "src": "assets/transport/place-nis-station.webp",
+      "src": "assets/transport/place-nis-station.jpg",
       "width": 1600,
       "height": 884,
       "kind": "place",
@@ -2757,7 +2895,7 @@ const cardImages = {
     },
     "transport-venue-suzhou-station": {
       "file": "20240803 Suzhou Zhan, Jiangsu.jpg",
-      "src": "assets/transport/venue-suzhou-station.webp",
+      "src": "assets/transport/venue-suzhou-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2778,7 +2916,7 @@ const cardImages = {
     },
     "transport-venue-suzhou-north-station": {
       "file": "Suzhou North Railway Station.jpg",
-      "src": "assets/transport/venue-suzhou-north-station.webp",
+      "src": "assets/transport/venue-suzhou-north-station.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2799,7 +2937,7 @@ const cardImages = {
     },
     "transport-venue-xuzhou-east-station": {
       "file": "Xuzhoudong Railway Station East Building.jpg",
-      "src": "assets/transport/venue-xuzhou-east-station.webp",
+      "src": "assets/transport/venue-xuzhou-east-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2820,7 +2958,7 @@ const cardImages = {
     },
     "transport-venue-xuzhou-airport": {
       "file": "Xuzhou Guanyin Airport.jpg",
-      "src": "assets/transport/venue-xuzhou-airport.webp",
+      "src": "assets/transport/venue-xuzhou-airport.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2841,7 +2979,7 @@ const cardImages = {
     },
     "transport-venue-wuxi-station": {
       "file": "雨后的无锡站南广场.jpg",
-      "src": "assets/transport/venue-wuxi-station.webp",
+      "src": "assets/transport/venue-wuxi-station.jpg",
       "width": 1452,
       "height": 1200,
       "kind": "place",
@@ -2862,7 +3000,7 @@ const cardImages = {
     },
     "transport-venue-wuxi-east-station": {
       "file": "201603 Facade of Wuxidong Station.JPG",
-      "src": "assets/transport/venue-wuxi-east-station.webp",
+      "src": "assets/transport/venue-wuxi-east-station.jpg",
       "width": 1600,
       "height": 899,
       "kind": "place",
@@ -2883,7 +3021,7 @@ const cardImages = {
     },
     "transport-venue-wuxi-airport": {
       "file": "无锡机场-nosign (2).jpg",
-      "src": "assets/transport/venue-wuxi-airport.webp",
+      "src": "assets/transport/venue-wuxi-airport.jpg",
       "width": 1523,
       "height": 1154,
       "kind": "place",
@@ -2904,7 +3042,7 @@ const cardImages = {
     },
     "transport-place-ljubljana-airport": {
       "file": "Ljubljana airport.jpg",
-      "src": "assets/transport/place-ljubljana-airport.webp",
+      "src": "assets/transport/place-ljubljana-airport.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -2925,7 +3063,7 @@ const cardImages = {
     },
     "transport-place-ljubljana-station": {
       "file": "Ljubljana - Železniška postaja Ljubljana & Spomenik Rudolfu Maistru (48874550281).jpg",
-      "src": "assets/transport/place-ljubljana-station.webp",
+      "src": "assets/transport/place-ljubljana-station.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -2946,7 +3084,7 @@ const cardImages = {
     },
     "transport-place-warsaw-chopin-airport": {
       "file": "Lotnisko Chopina w Warszawie 2018b.jpg",
-      "src": "assets/transport/place-warsaw-chopin-airport.webp",
+      "src": "assets/transport/place-warsaw-chopin-airport.jpg",
       "width": 1600,
       "height": 926,
       "kind": "place",
@@ -2967,7 +3105,7 @@ const cardImages = {
     },
     "transport-place-warsaw-modlin-airport": {
       "file": "Warsaw Modlin (cropped).jpg",
-      "src": "assets/transport/place-warsaw-modlin-airport.webp",
+      "src": "assets/transport/place-warsaw-modlin-airport.jpg",
       "width": 1200,
       "height": 661,
       "kind": "place",
@@ -2988,7 +3126,7 @@ const cardImages = {
     },
     "transport-place-krakow-airport": {
       "file": "Terminal, Kraków Airport, 2024 (01).jpg",
-      "src": "assets/transport/place-krakow-airport.webp",
+      "src": "assets/transport/place-krakow-airport.jpg",
       "width": 1600,
       "height": 887,
       "kind": "place",
@@ -3009,7 +3147,7 @@ const cardImages = {
     },
     "transport-place-gdansk-airport": {
       "file": "GDN T2 5.jpg",
-      "src": "assets/transport/place-gdansk-airport.webp",
+      "src": "assets/transport/place-gdansk-airport.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -3030,7 +3168,7 @@ const cardImages = {
     },
     "transport-place-wroclaw-airport": {
       "file": "Terminal T2 we Wrocławiu - landside.jpg",
-      "src": "assets/transport/place-wroclaw-airport.webp",
+      "src": "assets/transport/place-wroclaw-airport.jpg",
       "width": 1023,
       "height": 683,
       "kind": "place",
@@ -3051,7 +3189,7 @@ const cardImages = {
     },
     "transport-place-warsaw-station": {
       "file": "Dworzec Centralny w Warszawie 2025.jpg",
-      "src": "assets/transport/place-warsaw-station.webp",
+      "src": "assets/transport/place-warsaw-station.jpg",
       "width": 1600,
       "height": 1042,
       "kind": "place",
@@ -3072,7 +3210,7 @@ const cardImages = {
     },
     "transport-place-krakow-station": {
       "file": "Kraków Główny railway station, new platforms i, 1-3 Jan Nowak-Jeziorański square, Kraków, Poland.jpg",
-      "src": "assets/transport/place-krakow-station.webp",
+      "src": "assets/transport/place-krakow-station.jpg",
       "width": 1600,
       "height": 980,
       "kind": "place",
@@ -3093,7 +3231,7 @@ const cardImages = {
     },
     "transport-place-gdansk-station": {
       "file": "Estación de FFCC, Gdansk, Polonia, 2013-05-20, DD 01.jpg",
-      "src": "assets/transport/place-gdansk-station.webp",
+      "src": "assets/transport/place-gdansk-station.jpg",
       "width": 1600,
       "height": 1119,
       "kind": "place",
@@ -3114,7 +3252,7 @@ const cardImages = {
     },
     "transport-place-wroclaw-station": {
       "file": "Wrocław Dworzec Główny.jpg",
-      "src": "assets/transport/place-wroclaw-station.webp",
+      "src": "assets/transport/place-wroclaw-station.jpg",
       "width": 1600,
       "height": 1067,
       "kind": "place",
@@ -3135,7 +3273,7 @@ const cardImages = {
     },
     "transport-poi-debrecen-debrecen-1": {
       "file": "Debrecen palyaudvar2.JPG",
-      "src": "assets/transport/poi-debrecen-debrecen-1.webp",
+      "src": "assets/transport/poi-debrecen-debrecen-1.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -3156,7 +3294,7 @@ const cardImages = {
     },
     "transport-place-bled-lesce-station": {
       "file": "Lesce-Bled-train station-front.jpg",
-      "src": "assets/transport/place-bled-lesce-station.webp",
+      "src": "assets/transport/place-bled-lesce-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -3177,7 +3315,7 @@ const cardImages = {
     },
     "transport-place-maribor-station": {
       "file": "Glavna železniška postaja Maribor.jpg",
-      "src": "assets/transport/place-maribor-station.webp",
+      "src": "assets/transport/place-maribor-station.jpg",
       "width": 1600,
       "height": 1200,
       "kind": "place",
@@ -3198,7 +3336,7 @@ const cardImages = {
     },
     "transport-poi-debrecen-debrecen-0": {
       "file": "Debrecen-apt.jpg",
-      "src": "assets/transport/poi-debrecen-debrecen-0.webp",
+      "src": "assets/transport/poi-debrecen-debrecen-0.jpg",
       "width": 1600,
       "height": 1037,
       "kind": "place",
@@ -3219,7 +3357,7 @@ const cardImages = {
     },
     "transport-venue-budapest-deak": {
       "file": "Budapest M3 Deák Ferenc tér 2023 1.jpg",
-      "src": "assets/transport/venue-budapest-deak.webp",
+      "src": "assets/transport/venue-budapest-deak.jpg",
       "width": 1600,
       "height": 900,
       "kind": "place",
@@ -3240,7 +3378,7 @@ const cardImages = {
     },
     "transport-poi-szeged-szeged-0": {
       "file": "Szeged-Airport-OpenStreetMap-location-map",
-      "src": "assets/transport/poi-szeged-szeged-0.webp",
+      "src": "assets/transport/poi-szeged-szeged-0.png",
       "width": 1200,
       "height": 900,
       "kind": "map",

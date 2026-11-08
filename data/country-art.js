@@ -1,8 +1,8 @@
 /* Independent country overview covers; interpretive artwork, not photographs. */
 const countryArt = {
   "hu": {
-    "src": "assets/countries/hu-overview.webp",
-    "thumbnail": "assets/countries/hu-overview-480.webp",
+    "src": "assets/countries/hu-overview.jpg",
+    "thumbnail": "assets/countries/hu-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",
@@ -13,8 +13,8 @@ const countryArt = {
     "generatedAt": "2026-11-08"
   },
   "at": {
-    "src": "assets/countries/at-overview.webp",
-    "thumbnail": "assets/countries/at-overview-480.webp",
+    "src": "assets/countries/at-overview.jpg",
+    "thumbnail": "assets/countries/at-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",
@@ -25,8 +25,8 @@ const countryArt = {
     "generatedAt": "2026-11-08"
   },
   "de": {
-    "src": "assets/countries/de-overview.webp",
-    "thumbnail": "assets/countries/de-overview-480.webp",
+    "src": "assets/countries/de-overview.jpg",
+    "thumbnail": "assets/countries/de-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",
@@ -37,8 +37,8 @@ const countryArt = {
     "generatedAt": "2026-11-08"
   },
   "rs": {
-    "src": "assets/countries/rs-overview.webp",
-    "thumbnail": "assets/countries/rs-overview-480.webp",
+    "src": "assets/countries/rs-overview.jpg",
+    "thumbnail": "assets/countries/rs-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",
@@ -49,8 +49,8 @@ const countryArt = {
     "generatedAt": "2026-11-08"
   },
   "si": {
-    "src": "assets/countries/si-overview.webp",
-    "thumbnail": "assets/countries/si-overview-480.webp",
+    "src": "assets/countries/si-overview.jpg",
+    "thumbnail": "assets/countries/si-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",
@@ -61,8 +61,8 @@ const countryArt = {
     "generatedAt": "2026-11-08"
   },
   "pl": {
-    "src": "assets/countries/pl-overview.webp",
-    "thumbnail": "assets/countries/pl-overview-480.webp",
+    "src": "assets/countries/pl-overview.jpg",
+    "thumbnail": "assets/countries/pl-overview-480.jpg",
     "width": 1200,
     "height": 800,
     "style": "水彩旅行插画",

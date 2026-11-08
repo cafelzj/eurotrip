@@ -13,15 +13,15 @@ for(const [id,a]of Object.entries(art)){
  if(a.columns){assert.equal(a.columns,2);assert.equal(a.rows,2);assert(Number.isInteger(a.panel)&&a.panel>=0&&a.panel<4);}
  const frame=a.src+'#'+(a.panel??0);if(frames.has(frame))assert.equal(a.aliasOf,frames.get(frame),id+' only explicit same-place aliases share art');else frames.set(frame,id);
  for(const [file,width,height]of [[a.src,a.width,a.height],[a.thumbnail,a.thumbnailWidth||480,(a.thumbnailWidth||480)*2/3]]){
-  assert(/^assets\/landmarks\/[a-z0-9-]+\.webp$/.test(file));
+  assert(/^assets\/landmarks\/[a-z0-9-]+\.jpg$/.test(file));
   if(assets.has(file))continue;
   const bytes=fs.readFileSync(path.join(root,file));
-  assert.equal(bytes.toString('ascii',0,4),'RIFF');assert.equal(bytes.toString('ascii',8,12),'WEBP');
+  assert.equal(bytes.readUInt16BE(0),0xffd8,'JPEG supports older mobile browsers');
   assert(bytes.length<650000,'web-sized asset '+file);assets.set(file,[width,height]);
  }
 }
 for(const job of plan.jobs)for(const panel of job.panels){
- const a=art[panel.id];assert(a.src.endsWith('/'+job.id+'.webp'));assert.equal(a.panel,panel.panel);assert.equal(a.style,panel.style);assert.equal(a.styleReason,panel.styleReason);
+ const a=art[panel.id];assert(a.src.endsWith('/'+job.id+'.jpg'));assert.equal(a.panel,panel.panel);assert.equal(a.style,panel.style);assert.equal(a.styleReason,panel.styleReason);
 }
 assert.equal(frames.size,places.length-Object.keys(plan.aliases).length);
 (async()=>{

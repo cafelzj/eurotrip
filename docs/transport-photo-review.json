@@ -15,7 +15,9 @@
       "notes": "车站正立面及入口完整清楚，ÖBB 标识可辨，色彩自然；与萨尔茨堡中央车站主题一致。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "567f379bee50cc0ebd2fcb50ea6892713b798e01351dc324c77002c018bb52d2",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "d74d78e7ae46644fd150d2973bd9a50189a58fdc479802d64dabb6fa7680be26",
+      "outputSrc": "assets/transport/poi-salzburg-salzburg-1.jpg"
     },
     {
       "card": "poi-vienna-vienna-0",
@@ -29,7 +31,9 @@
       "notes": "机场航站楼、塔台、停机坪和跑道清楚，航拍主题准确；图注明确拍摄于 2011 年，不作当前航站楼路线图。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "652de4726ddff686fd7d7bbe14e431fc10c6790538f7b705af04f8118f819bd1",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "8bdcf723b50441f89dabd6699363bda8163050691e687fea6150e5754f4e5b57",
+      "outputSrc": "assets/transport/poi-vienna-vienna-0.jpg"
     },
     {
       "card": "poi-vienna-vienna-1",
@@ -43,7 +47,9 @@
       "notes": "维也纳中央车站站名、ÖBB 标识和入口清晰，暮色与室内照明自然，建筑主题准确。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "d0e59b6c3a03c1f4c5b29dd868234f29d12a9b2e17b2fae9385e129d5db822a9",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "9fae6659d2e4c60a4063b39c9403ce782e197be50e39413878c55a58db782818",
+      "outputSrc": "assets/transport/poi-vienna-vienna-1.jpg"
     },
     {
       "card": "poi-vienna-vienna-2",
@@ -57,7 +63,9 @@
       "notes": "维也纳西站票厅与两侧建筑可辨，建筑结构完整；明确标注 2012 年拍摄。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "41cc53d22c0be085455f248dc24e5ab84f98ff99cd954957359558b7ff2a7150",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "3f3061d5d038c566e7ed37a929f1496afb42223228d9400136271be72946a5b0",
+      "outputSrc": "assets/transport/poi-vienna-vienna-2.jpg"
     },
     {
       "card": "poi-salzburg-salzburg-0",
@@ -71,7 +79,9 @@
       "notes": "跑道与滑行道在航拍中清楚，周围山地环境可辨，主题与萨尔茨堡机场一致；图注明确为跑道航拍。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "5046568fa056c8f0c5f1b27fa350c9f9d3b3f3b2cd190b0a70f02171bffb2440",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "2ce23dcb11783db9e12ae76e8940f999c6826555d2a25e94129dfdb61466d44a",
+      "outputSrc": "assets/transport/poi-salzburg-salzburg-0.jpg"
     },
     {
       "card": "poi-innsbruck-innsbruck-0",
@@ -99,7 +109,9 @@
       "notes": "因斯布鲁克中央车站站房、前广场和 ÖBB 标志清楚，背景山地与光色自然。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "95b3740fd8c1ee75aa32f502fd7b0ab5db1fbd3e6d9af0fa237208bd1d11454f",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "b1a26ac2424f4319612ea038ec295e394939a644393727d9398e7fa6c97125b1",
+      "outputSrc": "assets/transport/poi-innsbruck-innsbruck-1.jpg"
     },
     {
       "card": "venue-vienna-wien-mitte",
@@ -113,7 +125,9 @@
       "notes": "维也纳中站建筑入口、S-Bahn 和 CAT 标志可辨，画面清晰，站房主体明确。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "628de7c5f1af80b6e62dbfc96484dcc87bf14ef53febf2136c250668a26b0f58",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "ee6ee85b571dad0d0a2674d260fa68b760acef623e5e02676a93364f7a69f45d",
+      "outputSrc": "assets/transport/venue-vienna-wien-mitte.jpg"
     },
     {
       "card": "venue-vienna-praterstern",
@@ -155,7 +169,9 @@
       "notes": "普拉特之星车站站房、铁路线与前广场完整可见，站点与周边城市位置关系清楚。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "00d2a0aa65d73b80c1995b07ff351fe0e4ab6aa50c9f50e5532d541561ae1c3a",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "6a5165b4c77af80c7c2c4b43393aba49aa2e5db20e43940ac752a7d3e4b49411",
+      "outputSrc": "assets/transport/venue-vienna-praterstern.jpg"
     },
     {
       "card": "poi-innsbruck-innsbruck-0",
@@ -169,7 +185,9 @@
       "notes": "因斯布鲁克机场航站楼、塔台及入口道路清楚，光线自然，建筑细节清晰。",
       "reviewedAt": "2026-11-08",
       "originalSha256": "987f56cf18556b58f3ba8e3ebde37bd6f30ce2d5b2f440d901322e1411d76210",
-      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。"
+      "method": "下载原图并逐张目视检查地点、建筑辨识度、构图、清晰度和光色。",
+      "outputSha256": "bb0fb955cd800fc0de5794dac66f817bebb758e1e16ff9c5812cb6eef7e56059",
+      "outputSrc": "assets/transport/poi-innsbruck-innsbruck-0.jpg"
     },
     {
       "card": "venue-hamburg-ferry",
@@ -188,7 +206,9 @@
       "originalSha256": "83c0cf34869bf4125f3739a2e7eeb4046ca2d355af847f31155579b7fcd79361",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-hamburg-ferry",
-      "outputSha256": "5b840181b8c65fdc67939661495b9192b4fb418e20f4dd73cf48cdf909f4309d"
+      "outputSha256": "8cbf5b50c740999c45d6082b542b38f2237f576dbc13e8fe7cf0350a032bda5b",
+      "previousOutputSha256": "5b840181b8c65fdc67939661495b9192b4fb418e20f4dd73cf48cdf909f4309d",
+      "outputSrc": "assets/transport/venue-hamburg-ferry.jpg"
     },
     {
       "card": "poi-hamburg-hamburg-2",
@@ -207,7 +227,9 @@
       "originalSha256": "e155bfa1d28a76c0b30ff3ed5a7d59c7f69deb352a34006dbc1b43700aff74b0",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-hamburg-hamburg-2",
-      "outputSha256": "16bd375f51ff70d5e42a1fb758677c6b454b1a20ca8ab29e07294832ae058052"
+      "outputSha256": "66da934f77274f65cf66cde9351f6f6fc3add41c6229bedf703e0f94b2bcaca2",
+      "previousOutputSha256": "16bd375f51ff70d5e42a1fb758677c6b454b1a20ca8ab29e07294832ae058052",
+      "outputSrc": "assets/transport/poi-hamburg-hamburg-2.jpg"
     },
     {
       "card": "poi-szeged-szeged-1",
@@ -226,7 +248,9 @@
       "originalSha256": "3509fd24aa7c91ec71092f9f4a4041332d5172b183a024e01051578a60299434",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-szeged-szeged-1",
-      "outputSha256": "d9add0bbebb995e8539344954316d581bfa23fa6cbb223f65aefeaac15bd71a4"
+      "outputSha256": "9f9dc2d3e4b6bf428617a1ebba2fa978cffb0ab1b8135e2377443b1042f4c718",
+      "previousOutputSha256": "d9add0bbebb995e8539344954316d581bfa23fa6cbb223f65aefeaac15bd71a4",
+      "outputSrc": "assets/transport/poi-szeged-szeged-1.jpg"
     },
     {
       "card": "venue-budapest-deli",
@@ -245,7 +269,9 @@
       "originalSha256": "fbc83a930482b1255caf6f959e0521a37afcec261c6d46ba5bf8bfd0ab1415f9",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-budapest-deli",
-      "outputSha256": "cbb282898a2be31d0e044a17ba6031a23c101550439c7e91dffbde599cd33d9b"
+      "outputSha256": "3c5d1dc4a702782e639ccd935044815e5fba2f12bf2014e1577c8ecd43736c9b",
+      "previousOutputSha256": "cbb282898a2be31d0e044a17ba6031a23c101550439c7e91dffbde599cd33d9b",
+      "outputSrc": "assets/transport/venue-budapest-deli.jpg"
     },
     {
       "card": "venue-budapest-deli",
@@ -298,7 +324,9 @@
       "originalSha256": "17c0c0fd117a8616359d7cde82aee08b23fb0bd7b26c8b4f49b2ee27c3bf49b0",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-szeged-szeged-1-gallery-2",
-      "outputSha256": "99302c5ae5344ac2e7faf0ff7566d7577e3dd7258f61285cdaaed9e0b83396d0"
+      "outputSha256": "0850935006a20b7e2ece085f27886a58e79351ae18183fd415a99b3f7794310d",
+      "previousOutputSha256": "99302c5ae5344ac2e7faf0ff7566d7577e3dd7258f61285cdaaed9e0b83396d0",
+      "outputSrc": "assets/transport/poi-szeged-szeged-1-gallery-2.jpg"
     },
     {
       "card": "place-piran-koper-station",
@@ -317,7 +345,9 @@
       "originalSha256": "f14a8f3e4c3b4727e95e5e513e08238b17dcb050b3dcee8b32376d2f0938a48d",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-piran-koper-station",
-      "outputSha256": "a97868132cacf14bd63483c3d2f694334a8514755f60ad8f89e4c84e149d9bd7"
+      "outputSha256": "b4189af328b538669caa2f8ea3fdb1019d0f6ef4434f6a3c3d9db82e591c89d7",
+      "previousOutputSha256": "a97868132cacf14bd63483c3d2f694334a8514755f60ad8f89e4c84e149d9bd7",
+      "outputSrc": "assets/transport/place-piran-koper-station.jpg"
     },
     {
       "card": "place-bled-jezero-station",
@@ -336,7 +366,9 @@
       "originalSha256": "cc5ba01e403d93f91860faeaebc4a0dbf9f483aa89523ff91852d7594abb024c",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-bled-jezero-station",
-      "outputSha256": "ac153d6e5a79d5763fd6015357bbc722e9b21bd3a0169818edbf1bb57a6c530e"
+      "outputSha256": "ba8af42ed78e59a43104ef17911fe8aeb855126e173e46fefbcf16eceac4f1cb",
+      "previousOutputSha256": "ac153d6e5a79d5763fd6015357bbc722e9b21bd3a0169818edbf1bb57a6c530e",
+      "outputSrc": "assets/transport/place-bled-jezero-station.jpg"
     },
     {
       "card": "venue-xuzhou-station",
@@ -355,7 +387,9 @@
       "originalSha256": "9bd8946dc24d68a97bdfd69c29c4cb8cdf25f3ee657e5fde3da44f1d36523a32",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-xuzhou-station",
-      "outputSha256": "8ca256b51f5e124af1fdc8aa5ec81ef8791f736a8d985a1ad71fe75b05da8fbf"
+      "outputSha256": "7e84989ee02f4ec63378be040bf5e59b7e3304732a9e4958c188b3b7fb586490",
+      "previousOutputSha256": "8ca256b51f5e124af1fdc8aa5ec81ef8791f736a8d985a1ad71fe75b05da8fbf",
+      "outputSrc": "assets/transport/venue-xuzhou-station.jpg"
     },
     {
       "card": "venue-budapest-deli",
@@ -408,7 +442,9 @@
       "originalSha256": "3f5773df72e593017441ae18a979bf4b690687ace7adf5285486ea12954b87c2",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-munich-munich-1",
-      "outputSha256": "e447cedcc7b45a87fa6bd6fb51e894b21b8df180b6605fa0d43159f5b9cb3c5c"
+      "outputSha256": "bd3605931129ed3b11fe3a099d845b6e8291ce6c8f2cf32200b2694572cf378b",
+      "previousOutputSha256": "e447cedcc7b45a87fa6bd6fb51e894b21b8df180b6605fa0d43159f5b9cb3c5c",
+      "outputSrc": "assets/transport/poi-munich-munich-1.jpg"
     },
     {
       "card": "poi-munich-munich-0",
@@ -427,7 +463,9 @@
       "originalSha256": "cc1db41e9e2e548c915dfc31563ad49b3f92d7f2149598e71c4f9d8d64e1b7dc",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-munich-munich-0",
-      "outputSha256": "d0e9581fd5c5b756c74ed905964263de0e4e6390c761008a1956424e027d12ef"
+      "outputSha256": "3734f5f4f45aa72e3a3de7472a678cde0655ad5476317ca0863a026dcbbc44d0",
+      "previousOutputSha256": "d0e9581fd5c5b756c74ed905964263de0e4e6390c761008a1956424e027d12ef",
+      "outputSrc": "assets/transport/poi-munich-munich-0.jpg"
     },
     {
       "card": "poi-munich-munich-1",
@@ -514,7 +552,9 @@
       "originalSha256": "45daf731abd98ad169260edbe21014e0fc4e1532dc28e5926d6adfe5a9442f9d",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-budapest-budapest-0",
-      "outputSha256": "80bc2ece847979cc6cd9bdb5b3bd56741885cd7f025551044149fb9bd8ff6264"
+      "outputSha256": "c843e28a42bbd978fb8fc1835ffc36559e4166d3cdb8432e6ad784dbfa788977",
+      "previousOutputSha256": "80bc2ece847979cc6cd9bdb5b3bd56741885cd7f025551044149fb9bd8ff6264",
+      "outputSrc": "assets/transport/poi-budapest-budapest-0.jpg"
     },
     {
       "card": "poi-budapest-budapest-1",
@@ -533,7 +573,9 @@
       "originalSha256": "a09c474c1f777a9a9d6b90f101ffe9d21b009654ac0157aae854757718a0a1a3",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-budapest-budapest-1",
-      "outputSha256": "2256c2f477868641e1a143757667ba2f52fb2d81f8ca75989492a3ae643ad79a"
+      "outputSha256": "558cc6fa756849eafd1f263155179a6196bb435349749b08961b1f7a34050102",
+      "previousOutputSha256": "2256c2f477868641e1a143757667ba2f52fb2d81f8ca75989492a3ae643ad79a",
+      "outputSrc": "assets/transport/poi-budapest-budapest-1.jpg"
     },
     {
       "card": "poi-budapest-budapest-2",
@@ -552,7 +594,9 @@
       "originalSha256": "6c04bf3b8cbe8f89a22c4a15c18f140559fd199275b6d87b26bb80063bbcd002",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-budapest-budapest-2",
-      "outputSha256": "6ac6bf7f50854f8c510ff338fa4f68a81b105f3e1b53e96b820bf5f1d045b930"
+      "outputSha256": "1dcecea8879a371e8d6f63dc3d172b69d740f76c64b22c471da2f4cad2dad358",
+      "previousOutputSha256": "6ac6bf7f50854f8c510ff338fa4f68a81b105f3e1b53e96b820bf5f1d045b930",
+      "outputSrc": "assets/transport/poi-budapest-budapest-2.jpg"
     },
     {
       "card": "poi-debrecen-debrecen-0",
@@ -588,7 +632,9 @@
       "originalSha256": "1c1da6522fff44040ffb2637c7d210acf2c4901b39338637e6be699fece0c11a",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-berlin-berlin-0",
-      "outputSha256": "f52814bc11fb05a08eec9c061cab3dec6791d79d0652796b79b86148da448df7"
+      "outputSha256": "fa88855d564bbeea25feab3a6aad28bf6b928d023428b32a686d7a5353303232",
+      "previousOutputSha256": "f52814bc11fb05a08eec9c061cab3dec6791d79d0652796b79b86148da448df7",
+      "outputSrc": "assets/transport/poi-berlin-berlin-0.jpg"
     },
     {
       "card": "poi-berlin-berlin-1",
@@ -607,7 +653,9 @@
       "originalSha256": "4922434c97fce66a03e5604d0467fcd139df95c1bf7fe95da86bdec4b3cf23dd",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-berlin-berlin-1",
-      "outputSha256": "dd583b4f12376cf2d704d6a05ac8d428cbdc559c5895281a99a9b19fce4f9497"
+      "outputSha256": "877764dc77f7e0c759d0ea76264a96f930c60cd365b96084048b808f41da60cb",
+      "previousOutputSha256": "dd583b4f12376cf2d704d6a05ac8d428cbdc559c5895281a99a9b19fce4f9497",
+      "outputSrc": "assets/transport/poi-berlin-berlin-1.jpg"
     },
     {
       "card": "poi-berlin-berlin-2",
@@ -626,7 +674,9 @@
       "originalSha256": "3c741db17ffa719df2b3ef0d03b6a9210b3c22ec687e9020a83eafb04ff7ef66",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-berlin-berlin-2",
-      "outputSha256": "34cb81dbacb0ff6566b80204376696d87e8f71abfe10168d413ac052ecde0f45"
+      "outputSha256": "9947bd91398c20a81d61bb25253126406ccf3f7dc3cc7f9ad130a7d7634b627a",
+      "previousOutputSha256": "34cb81dbacb0ff6566b80204376696d87e8f71abfe10168d413ac052ecde0f45",
+      "outputSrc": "assets/transport/poi-berlin-berlin-2.jpg"
     },
     {
       "card": "poi-munich-munich-0",
@@ -679,7 +729,9 @@
       "originalSha256": "e17d2905e73aedf20bb9bc7c6d03bf743110234afd374f02693908b89bd63209",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-munich-munich-2",
-      "outputSha256": "b389a6213be9bf60c82116423e8a7dac4af84b8b063adade3bb966f102bc3b3c"
+      "outputSha256": "256c67c63a63a44865f4ff3f0ca2d929f6ebae91d43fda5aa21ca8dcc6bf23c2",
+      "previousOutputSha256": "b389a6213be9bf60c82116423e8a7dac4af84b8b063adade3bb966f102bc3b3c",
+      "outputSrc": "assets/transport/poi-munich-munich-2.jpg"
     },
     {
       "card": "poi-hamburg-hamburg-0",
@@ -698,7 +750,9 @@
       "originalSha256": "1aeab3d3041f1cd255712e36b399637ebe08bac4bd8995ad2832a8b8a03fa3e6",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-hamburg-hamburg-0",
-      "outputSha256": "68f9a0675693146463b2f33d4ee7baaee641432da35155758ad0e68ed8731bc1"
+      "outputSha256": "4906dd86ec1b76779a26d022a4f17fa6fa7703ffe778bd542d94117021b028aa",
+      "previousOutputSha256": "68f9a0675693146463b2f33d4ee7baaee641432da35155758ad0e68ed8731bc1",
+      "outputSrc": "assets/transport/poi-hamburg-hamburg-0.jpg"
     },
     {
       "card": "poi-hamburg-hamburg-1",
@@ -717,7 +771,9 @@
       "originalSha256": "21c68a588c04a0026d6ff31a0031d10ac4c5cba34a0dfcbb99c64f10d7fb69e3",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-hamburg-hamburg-1",
-      "outputSha256": "4dba5b938969b7fa5234c4c255c6938cbd455563c41b3d06e742e85d6d565a78"
+      "outputSha256": "91e76119cba9c5e1f455f087199e1054045e17921b8648ec394f5c020b53b144",
+      "previousOutputSha256": "4dba5b938969b7fa5234c4c255c6938cbd455563c41b3d06e742e85d6d565a78",
+      "outputSrc": "assets/transport/poi-hamburg-hamburg-1.jpg"
     },
     {
       "card": "poi-hamburg-hamburg-2",
@@ -753,7 +809,9 @@
       "originalSha256": "772494c13fa9611a8796f79775da4b2003c2f7901a438250b660346b12e3b77b",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-cologne-cologne-0",
-      "outputSha256": "40768c7a078c30652bf213f13c8b46403dc45d6e40c722251afe67a00d1cee16"
+      "outputSha256": "38642012a2d11463fcf1bf780639539934e086c25653105a5e6c0dfd128595a8",
+      "previousOutputSha256": "40768c7a078c30652bf213f13c8b46403dc45d6e40c722251afe67a00d1cee16",
+      "outputSrc": "assets/transport/poi-cologne-cologne-0.jpg"
     },
     {
       "card": "poi-cologne-cologne-1",
@@ -772,7 +830,9 @@
       "originalSha256": "54bd987175949d36ecfe0d434650aca61eaf0eadfa1fb575e4a00f1285f2999e",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-cologne-cologne-1",
-      "outputSha256": "eb834919887327e0e009fe4ae548373619fe5b880938291d7009380dfb283f33"
+      "outputSha256": "80b80da2ac175bd6e7f2026eb2b93256243e86e4de952b6a5bb5ee5be984921d",
+      "previousOutputSha256": "eb834919887327e0e009fe4ae548373619fe5b880938291d7009380dfb283f33",
+      "outputSrc": "assets/transport/poi-cologne-cologne-1.jpg"
     },
     {
       "card": "poi-cologne-cologne-2",
@@ -791,7 +851,9 @@
       "originalSha256": "28deed112e64671c35ef3620b2d2a96c59806c2e8d348e657a4b2bea22a4e910",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-cologne-cologne-2",
-      "outputSha256": "5f22cf234f3d16dbdd1d1156c0fdcb3527a2702a43081af9e620ff8bd18d8e62"
+      "outputSha256": "89a3d89b1c863982c81f99fd68b3472e06334345dbe21f25e57e992ed5a66968",
+      "previousOutputSha256": "5f22cf234f3d16dbdd1d1156c0fdcb3527a2702a43081af9e620ff8bd18d8e62",
+      "outputSrc": "assets/transport/poi-cologne-cologne-2.jpg"
     },
     {
       "card": "place-belgrade-airport",
@@ -810,7 +872,9 @@
       "originalSha256": "ec79afc9a723f236d124b772dbf104870b46132b13e2ae3fd2a6b908da47574e",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-belgrade-airport",
-      "outputSha256": "6ea65ae97b96cad26cb6d4fd21b974e3d86bde84138a736bd7332020630edb9b"
+      "outputSha256": "cdb5fda73905590c62ededa6bdefaee96ee63cf88ec1cdb7714347891d6c58ed",
+      "previousOutputSha256": "6ea65ae97b96cad26cb6d4fd21b974e3d86bde84138a736bd7332020630edb9b",
+      "outputSrc": "assets/transport/place-belgrade-airport.jpg"
     },
     {
       "card": "place-belgrade-station",
@@ -829,7 +893,9 @@
       "originalSha256": "74439dbdb13f9f561af01620b3ef48566ce59de86056b74793da81703adaa9b8",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-belgrade-station",
-      "outputSha256": "36e993d4701828fb708d7dbac639c28beafc9cfce0be75edb391250f08c36dc1"
+      "outputSha256": "caeef3fa6b75c588fba35847e47ac2591212d703e0115c77f3de82ab99bb746e",
+      "previousOutputSha256": "36e993d4701828fb708d7dbac639c28beafc9cfce0be75edb391250f08c36dc1",
+      "outputSrc": "assets/transport/place-belgrade-station.jpg"
     },
     {
       "card": "place-novi-sad-station",
@@ -848,7 +914,9 @@
       "originalSha256": "fd85bd0771eb8f112df72e8dc47474fa55124403d16916a2a4801d21e120473f",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-novi-sad-station",
-      "outputSha256": "854aa03fb297abae0be16e3ed8a658838b24bfa8e70f88d6862e3704c7060f98"
+      "outputSha256": "94ef3934a787b80167694252baa6ea9f62332c27a14be2b12dfe705afc4672a5",
+      "previousOutputSha256": "854aa03fb297abae0be16e3ed8a658838b24bfa8e70f88d6862e3704c7060f98",
+      "outputSrc": "assets/transport/place-novi-sad-station.jpg"
     },
     {
       "card": "place-nis-airport",
@@ -867,7 +935,9 @@
       "originalSha256": "3089159f9ff169a79d78502f761debe2a8b2c36d2a561d306352d99779424bb2",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-nis-airport",
-      "outputSha256": "5e747bf087d589c03361270c09d5beabcccc1f615c7c5f1f1db0f998cab338e6"
+      "outputSha256": "3eecc20b5460db73735fcbfe2ae080ccf26312210da42597b159887fd48524f2",
+      "previousOutputSha256": "5e747bf087d589c03361270c09d5beabcccc1f615c7c5f1f1db0f998cab338e6",
+      "outputSrc": "assets/transport/place-nis-airport.jpg"
     },
     {
       "card": "place-nis-station",
@@ -886,7 +956,9 @@
       "originalSha256": "5c2e8ebd3a41404f7880e1d0f1d6e13a4d00df910448e1ce3f119754cfa19e93",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-nis-station",
-      "outputSha256": "501829cbadaa7654f04ed436f31274b72a584796664b748e5c1c1f1817d23354"
+      "outputSha256": "d642157854b8c628afa4c52da3529fd38c16c5176ec50cc9d41f7f748efcb9b1",
+      "previousOutputSha256": "501829cbadaa7654f04ed436f31274b72a584796664b748e5c1c1f1817d23354",
+      "outputSrc": "assets/transport/place-nis-station.jpg"
     },
     {
       "card": "venue-budapest-deli",
@@ -922,7 +994,9 @@
       "originalSha256": "a0257cb3d08cb41b9f6a8a89c8bc0a53a03393841be33a33962af9c1cadeb6c2",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-suzhou-station",
-      "outputSha256": "139a63f9b0b27912d3144b76e77465fefe5f6042e76d379e0acc27c8f8a2bf95"
+      "outputSha256": "872c176cf2f6dd77556475ea3e5ef758bcb2573c1e23f5d8445aa8d5b27680cd",
+      "previousOutputSha256": "139a63f9b0b27912d3144b76e77465fefe5f6042e76d379e0acc27c8f8a2bf95",
+      "outputSrc": "assets/transport/venue-suzhou-station.jpg"
     },
     {
       "card": "venue-suzhou-north-station",
@@ -941,7 +1015,9 @@
       "originalSha256": "e91a9ec20a82ccf14ef5a0f5bf3d7d7efc6c9cdfedff6fef4c0f66b456cd012a",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-suzhou-north-station",
-      "outputSha256": "bd774b283b5ddc383c3cc352cfa11ab5e3372f20dbd2e7b80075c6778dbbf03a"
+      "outputSha256": "cd801af4d60cd3805aa337f825c4d20e47cb3e6beb7931e73c3065e41fa08679",
+      "previousOutputSha256": "bd774b283b5ddc383c3cc352cfa11ab5e3372f20dbd2e7b80075c6778dbbf03a",
+      "outputSrc": "assets/transport/venue-suzhou-north-station.jpg"
     },
     {
       "card": "venue-xuzhou-station",
@@ -977,7 +1053,9 @@
       "originalSha256": "e80cb9daa736fe9918a25c9ab7d4f41282254b94ba408f952851a7b106198980",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-xuzhou-east-station",
-      "outputSha256": "60a72e6b78762a2d582fb10aaf35ea616231a05f846d73fc20078f9581e257fe"
+      "outputSha256": "3449ae0e1ce455bb5276652b7c3e62d4ed480381d11a9ab9c90acd1dc6c51f3b",
+      "previousOutputSha256": "60a72e6b78762a2d582fb10aaf35ea616231a05f846d73fc20078f9581e257fe",
+      "outputSrc": "assets/transport/venue-xuzhou-east-station.jpg"
     },
     {
       "card": "venue-xuzhou-airport",
@@ -996,7 +1074,9 @@
       "originalSha256": "07b37037672fb1b3d180f1b5238bff20e089332b2facd04afc7e692b2ae146af",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-xuzhou-airport",
-      "outputSha256": "857e09a3a3be9fa898b5c2c97c03377fe6d90ac20b21d8035bd94e094123ef78"
+      "outputSha256": "1328d8e10ffb160db98b0ca4bcaa10938c1e602471cd25fafe56684b60fefb2a",
+      "previousOutputSha256": "857e09a3a3be9fa898b5c2c97c03377fe6d90ac20b21d8035bd94e094123ef78",
+      "outputSrc": "assets/transport/venue-xuzhou-airport.jpg"
     },
     {
       "card": "venue-wuxi-station",
@@ -1021,7 +1101,9 @@
         0.92
       ],
       "asset": "transport-venue-wuxi-station",
-      "outputSha256": "0229e8bc7cfabeccee39045d7cdccf744d0c14ef875b296e52cb663eb1818060"
+      "outputSha256": "5235179b09f212b36dfd3b0ce9462446aee964ce34e79ffd230c5e0129952552",
+      "previousOutputSha256": "0229e8bc7cfabeccee39045d7cdccf744d0c14ef875b296e52cb663eb1818060",
+      "outputSrc": "assets/transport/venue-wuxi-station.jpg"
     },
     {
       "card": "venue-wuxi-east-station",
@@ -1040,7 +1122,9 @@
       "originalSha256": "a9f6ce25a53b5bf7cb3ac938b7dcf82ac6fbeb3ff74eab431299fd796283ab8b",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-wuxi-east-station",
-      "outputSha256": "8d1104af19cc8020f2d6998734e3e60007e1831b4aa11359b9c17e86827cb25f"
+      "outputSha256": "909e8d5022055cf7151010b7961700bc5ea867aa20fa5bd34fdd147124617b63",
+      "previousOutputSha256": "8d1104af19cc8020f2d6998734e3e60007e1831b4aa11359b9c17e86827cb25f",
+      "outputSrc": "assets/transport/venue-wuxi-east-station.jpg"
     },
     {
       "card": "venue-wuxi-airport",
@@ -1059,7 +1143,9 @@
       "originalSha256": "8f3ba44953471bcb111af9f6c3d282fe24794319a87f893ba34a8e5b4dd1e8f4",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-wuxi-airport",
-      "outputSha256": "2e67e49d804b41e67c5183b9d9e86f47991aa109895d79296fbc2c56bfa318ae"
+      "outputSha256": "42c2e69c99757da5683c59f3e05b3f3ad9b3870939b7957b7dfc171be406f5d9",
+      "previousOutputSha256": "2e67e49d804b41e67c5183b9d9e86f47991aa109895d79296fbc2c56bfa318ae",
+      "outputSrc": "assets/transport/venue-wuxi-airport.jpg"
     },
     {
       "card": "place-ljubljana-airport",
@@ -1078,7 +1164,9 @@
       "originalSha256": "88b4439c3f92e57326d341fc99f6a36c3e7cde552363ebd1d5486e3d12e095e5",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-ljubljana-airport",
-      "outputSha256": "f0a0c66287e60b299d52cbab760a627b218606afeb2a04ae165fd9e5ee413894"
+      "outputSha256": "f73b8bbcfe3866dc5c7ceebc0662ea0ae7e218e891d697287c474504c7148925",
+      "previousOutputSha256": "f0a0c66287e60b299d52cbab760a627b218606afeb2a04ae165fd9e5ee413894",
+      "outputSrc": "assets/transport/place-ljubljana-airport.jpg"
     },
     {
       "card": "place-ljubljana-station",
@@ -1097,7 +1185,9 @@
       "originalSha256": "2c67fe174518e52a4472bed7ea48bb3ee0ef1e352567b15bad573c5805ffe705",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-ljubljana-station",
-      "outputSha256": "b405ef57c187f94d3bbd39c0a6fbf21327cbc6cfcb5b5126b7544de95b76ba64"
+      "outputSha256": "32dd2789472267d517cad92e7332140b694af9511d393f3bdc9dc015793ac576",
+      "previousOutputSha256": "b405ef57c187f94d3bbd39c0a6fbf21327cbc6cfcb5b5126b7544de95b76ba64",
+      "outputSrc": "assets/transport/place-ljubljana-station.jpg"
     },
     {
       "card": "place-bled-jezero-station",
@@ -1150,7 +1240,9 @@
       "originalSha256": "ef1c128c68be5cd2c5ed46f7c526f004073e4f9723602ce71ebc64d4fee16bca",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-warsaw-chopin-airport",
-      "outputSha256": "94b6ea4dfce0ed368362630546ad9f71cb11cd7b6f4ea29096e75de3fda2d5d8"
+      "outputSha256": "75d7857f71cb022c5d810522312073dba27100a3cf16d96fe94b8717d245d86a",
+      "previousOutputSha256": "94b6ea4dfce0ed368362630546ad9f71cb11cd7b6f4ea29096e75de3fda2d5d8",
+      "outputSrc": "assets/transport/place-warsaw-chopin-airport.jpg"
     },
     {
       "card": "place-warsaw-modlin-airport",
@@ -1169,7 +1261,9 @@
       "originalSha256": "8cb45bcafe307d6e73d85bcf31a1815f08864527799355c65b9d622c29f8971b",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-warsaw-modlin-airport",
-      "outputSha256": "cb4d5b796aa7951af6525c1f47e37797a38462340173d17d44f6fc7bf247ed05"
+      "outputSha256": "76a57c8eae541aa33c6d055a87ed553cd8c9d5b98a8309813be391fda2da8e1d",
+      "previousOutputSha256": "cb4d5b796aa7951af6525c1f47e37797a38462340173d17d44f6fc7bf247ed05",
+      "outputSrc": "assets/transport/place-warsaw-modlin-airport.jpg"
     },
     {
       "card": "place-krakow-airport",
@@ -1188,7 +1282,9 @@
       "originalSha256": "7bab36d74b754adeabd285d01d44d8d83e6db0ddbba3dd654f3ab47ac236b502",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-krakow-airport",
-      "outputSha256": "afaa125a917e81dec4ca2835957b7ebcf7919a66ab2a9d2a9d5f11b80e05bbb5"
+      "outputSha256": "802a5e9813dd6c884ac18e9293e7c6eace42674d163adebbd7a71960e53be006",
+      "previousOutputSha256": "afaa125a917e81dec4ca2835957b7ebcf7919a66ab2a9d2a9d5f11b80e05bbb5",
+      "outputSrc": "assets/transport/place-krakow-airport.jpg"
     },
     {
       "card": "place-gdansk-airport",
@@ -1207,7 +1303,9 @@
       "originalSha256": "c47a5e482151782dc08b83f4d0c35e2d73ac379af9cd4e49a20a13c8ffbcb83f",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-gdansk-airport",
-      "outputSha256": "56cd29fe7ee16190eba5d22fdd0cbb814889e9d637b7a83f9c77c424573dcddc"
+      "outputSha256": "06c84237ec3a2eb4f37cd880e3417f8390cf5461cc50f084f115a4ec0cd1a5f9",
+      "previousOutputSha256": "56cd29fe7ee16190eba5d22fdd0cbb814889e9d637b7a83f9c77c424573dcddc",
+      "outputSrc": "assets/transport/place-gdansk-airport.jpg"
     },
     {
       "card": "place-wroclaw-airport",
@@ -1226,7 +1324,9 @@
       "originalSha256": "39dc21d38dc439b74bcd564d324ee1dd210c2230441f190b0df3bebfcd31759d",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-wroclaw-airport",
-      "outputSha256": "9efa2feddb4fd495207a99587d1a3313f3dbacdfb2b18b634cad32c5634132cb"
+      "outputSha256": "c654d3a224f3893e30820ea70018c1811425c0ef860299281f7dbfa9a2158c8a",
+      "previousOutputSha256": "9efa2feddb4fd495207a99587d1a3313f3dbacdfb2b18b634cad32c5634132cb",
+      "outputSrc": "assets/transport/place-wroclaw-airport.jpg"
     },
     {
       "card": "place-warsaw-station",
@@ -1245,7 +1345,9 @@
       "originalSha256": "8234d92952c9b565729bd35ce0a43364c2a63d4128b91a74dba6f602cfc0f91e",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-warsaw-station",
-      "outputSha256": "3195458f0ef3b06eb82f95f5f6c70feaf4c7669b43916619628aa1230102c20a"
+      "outputSha256": "689b9c35d5056866fdde96c6cb21311e3121348b993864ecdd5c5861cf36bf1d",
+      "previousOutputSha256": "3195458f0ef3b06eb82f95f5f6c70feaf4c7669b43916619628aa1230102c20a",
+      "outputSrc": "assets/transport/place-warsaw-station.jpg"
     },
     {
       "card": "place-krakow-station",
@@ -1264,7 +1366,9 @@
       "originalSha256": "d552d78256fdfed91896bbfe9b01b5830454100b58b5b98838ebfe3c679a2075",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-krakow-station",
-      "outputSha256": "a747c56769de9ad99dfdd0bb6848e90888cc2b19efbb667d66ccc9c8dcf78073"
+      "outputSha256": "892d25895270a98bb5988d562187a467ffbd75ecddecf3a785b742e1795e8386",
+      "previousOutputSha256": "a747c56769de9ad99dfdd0bb6848e90888cc2b19efbb667d66ccc9c8dcf78073",
+      "outputSrc": "assets/transport/place-krakow-station.jpg"
     },
     {
       "card": "place-gdansk-station",
@@ -1283,7 +1387,9 @@
       "originalSha256": "d93e915c2e9e63738c900b92b6784252f31de99c69501e5b3637f6bd742a3f20",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-gdansk-station",
-      "outputSha256": "3be3e685154185d0572ea1110d6e29fda3c3ad5c6ed30b92d7afb2d6cb78409d"
+      "outputSha256": "ab108d2c8730d05ee1e3f2d3aea37dc70d27ce97cc069ce2500d3eadf1cfbe44",
+      "previousOutputSha256": "3be3e685154185d0572ea1110d6e29fda3c3ad5c6ed30b92d7afb2d6cb78409d",
+      "outputSrc": "assets/transport/place-gdansk-station.jpg"
     },
     {
       "card": "place-wroclaw-station",
@@ -1302,7 +1408,9 @@
       "originalSha256": "1f1c2b9d35c959b4e00a09bd59193bd1c8c5adbb59e7c92fb9c31d266310b02b",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-wroclaw-station",
-      "outputSha256": "23903958006de34e185578a94573129b03ad3b2922f25f2bdfb2dcc3b7e08b25"
+      "outputSha256": "4b0e6a6227088fa9c276738ceea171a0471734def43e9fb3007374308281bf27",
+      "previousOutputSha256": "23903958006de34e185578a94573129b03ad3b2922f25f2bdfb2dcc3b7e08b25",
+      "outputSrc": "assets/transport/place-wroclaw-station.jpg"
     },
     {
       "card": "poi-debrecen-debrecen-1",
@@ -1321,7 +1429,9 @@
       "originalSha256": "e4a403b16e41e01dd5f1f8f1e9e09068aea2bbe510f9d60d1d14030f0de56321",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-poi-debrecen-debrecen-1",
-      "outputSha256": "2ec86061242d01ff170f887c4648b3398ea22d8c226af48be926f5a0042dd8a8"
+      "outputSha256": "08ca7c94f627fdd3b4833468474222e3ea93054b29116f54be8a4c3efcf5402a",
+      "previousOutputSha256": "2ec86061242d01ff170f887c4648b3398ea22d8c226af48be926f5a0042dd8a8",
+      "outputSrc": "assets/transport/poi-debrecen-debrecen-1.jpg"
     },
     {
       "card": "poi-szeged-szeged-1",
@@ -1357,7 +1467,9 @@
       "originalSha256": "f9c933409f2c57316f035ec0925bafd1fdfc99a180729412a7fe7b1a49a53cdb",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-bled-lesce-station",
-      "outputSha256": "574dbd0b68a44030905464c85c6757ed8f109531610ddc9ff57ca9a02b125323"
+      "outputSha256": "8f2191439041c9e05a388558731b10ce72a1931165770770e56a3357e9cb5b48",
+      "previousOutputSha256": "574dbd0b68a44030905464c85c6757ed8f109531610ddc9ff57ca9a02b125323",
+      "outputSrc": "assets/transport/place-bled-lesce-station.jpg"
     },
     {
       "card": "place-maribor-station",
@@ -1376,7 +1488,9 @@
       "originalSha256": "b95e899781d49987fcc549b3d969a4fab962a9231953802500adb1eb06b19918",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-place-maribor-station",
-      "outputSha256": "e3c200e871029245650dfa30855bff37c47129e2ab9a9db5dd8a83a5fe78232e"
+      "outputSha256": "a3c96dda51663190e88efdbcc0a150e0b57ac37a4db8b870fd4d5469c91616d6",
+      "previousOutputSha256": "e3c200e871029245650dfa30855bff37c47129e2ab9a9db5dd8a83a5fe78232e",
+      "outputSrc": "assets/transport/place-maribor-station.jpg"
     },
     {
       "card": "venue-budapest-deak",
@@ -1435,7 +1549,9 @@
         0.88
       ],
       "asset": "transport-poi-debrecen-debrecen-0",
-      "outputSha256": "a1dd0474a3c59a48a1d2f8477db75c1dab21dce519b711ad2ab2ad68ceb5706e"
+      "outputSha256": "74eade4f8e5d04ca80a967cd2a6e824bb407aa1a18ab5d8510245790e754c4e6",
+      "previousOutputSha256": "a1dd0474a3c59a48a1d2f8477db75c1dab21dce519b711ad2ab2ad68ceb5706e",
+      "outputSrc": "assets/transport/poi-debrecen-debrecen-0.jpg"
     },
     {
       "card": "venue-budapest-deak",
@@ -1454,7 +1570,9 @@
       "originalSha256": "5755f1f8c731a74c8e45a8ac9a376e8a193f5211f019dc72d16f47a6fc57bc67",
       "method": "下载原图并逐张目视检查地点、辨识度、构图、清晰度和光色；采用裁切时另外检查实际输出。",
       "asset": "transport-venue-budapest-deak",
-      "outputSha256": "708a098d778ecc2bd374a7f130cb4e558c57c0d93f6fb9cef008a50d50f7e9be"
+      "outputSha256": "2fc2ff7c5f852c82b676a7b5beecff442a2e968635bfb94e55b98e306bb3c61b",
+      "previousOutputSha256": "708a098d778ecc2bd374a7f130cb4e558c57c0d93f6fb9cef008a50d50f7e9be",
+      "outputSrc": "assets/transport/venue-budapest-deak.jpg"
     },
     {
       "card": "poi-szeged-szeged-0",
@@ -1470,9 +1588,11 @@
       "status": "approved",
       "reviewedAt": "2026-11-08",
       "originalSha256": "0d6fd3ccf9d06dfbedf957cccfa759ce4299651d2c9f4f3af86d0465cf9a79a5",
-      "outputSha256": "371a68b9dd9511b293401da356d2429e27b7e66f6ec0870eca864f52b4d3918c",
+      "outputSha256": "689fa9f636808372525bcaa3905143d84f8d49976050aacf0f7aaddb1e08dd3b",
       "notes": "依据 OpenStreetMap 真实道路、建筑和跑道几何制图，逐项核对位置与轮廓；明确标注位置示意、非实景，不冒充机场照片。",
-      "method": "核对开放地图数据坐标、跑道与道路几何及实际输出；不是照片视觉审核。"
+      "method": "核对开放地图数据坐标、跑道与道路几何及实际输出；不是照片视觉审核。",
+      "previousOutputSha256": "371a68b9dd9511b293401da356d2429e27b7e66f6ec0870eca864f52b4d3918c",
+      "outputSrc": "assets/transport/poi-szeged-szeged-0.png"
     }
   ],
   "pending": [],

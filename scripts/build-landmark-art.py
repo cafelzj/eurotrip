@@ -1,4 +1,4 @@
-"""Export generated art sheets to WebP and map each scene to its exact card.
+"""Export generated art sheets to JPEG and map each scene to its exact card.
 
 Original image generation is performed with the image tool, not this script.
 Usage: python scripts/build-landmark-art.py --sources /tmp/eurotrip-art-batch
@@ -43,8 +43,8 @@ def build(sources, partial):
             raise ValueError("Art sheet must have a 3:2 ratio: " + job["id"])
         job["sourceFile"] = source.name
         job["sourceDimensions"] = [width, height]
-        full = "assets/landmarks/" + job["id"] + ".webp"
-        thumb = "assets/landmarks/" + job["id"] + "-960.webp"
+        full = "assets/landmarks/" + job["id"] + ".jpg"
+        thumb = "assets/landmarks/" + job["id"] + "-960.jpg"
         export(source, ROOT / full, width, 78)
         export(source, ROOT / thumb, 960, 80)
         for scene in job["panels"]:
