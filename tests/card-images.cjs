@@ -23,6 +23,10 @@ for(const file of photoReview.rejected.map(entry=>entry.file))assert(!Object.val
 // not the appearance of a photograph.
 const reviewed=new Map((photoReview.reviewed||[]).map(entry=>[entry.asset,entry]));
 const pending=new Map(photoReview.pending.map(entry=>[entry.asset,entry]));
+assert.equal(photoReview.policy.foodGenerationAllowed,false);
+assert.equal(reviewed.size+pending.size,(photoReview.reviewed||[]).length+photoReview.pending.length,'audit records do not overlap');
+for(const [key,entry]of pending){assert.equal(entry.status,'needs-visual-review');assert(media.assets[key],'pending photo is still accounted for');assert(!reviewed.has(key));}
+for(const [key,entry]of reviewed)if(entry.status==='approved')assert.equal(media.assets[key]?.file,entry.file,'approved photo remains in the catalog');
 for(const [key,image]of Object.entries(media.assets)){
  if(image.kind==='portrait')continue;
  const decision=reviewed.get(key);
@@ -53,7 +57,7 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
   await img.evaluate(e=>e.src='/__missing-card-image.jpg');await tile.locator('.card-image-fallback').waitFor({state:'visible'});await tick();const after=await tile.locator('.card-image-frame').boundingBox();
   assert.equal(after.height,before.height,'failed image reserves the exact frame height');assert.equal(await tile.locator('.hub-card-title').count(),1,'card stays readable');
   assert(await p.locator('.card-feed-grid').evaluate(grid=>{const rs=[...grid.children].map(e=>e.getBoundingClientRect());return rs.every((a,i)=>rs.slice(i+1).every(b=>Math.abs(a.left-b.left)>1||a.bottom<=b.top+1||b.bottom<=a.top+1));}),'feed remains non-overlapping after image failure');
-  for(const hash of ['#card/person-mozart','#card/food-product-turo-rudi']){
+  for(const hash of ['#card/person-mozart','#card/food-product-ritter-chocolate']){
    await go(hash);assert.equal(await p.locator('.entity-image img').evaluate(e=>getComputedStyle(e).objectFit),'contain');
    for(const width of [1440,768,390,320]){await p.setViewportSize({width,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'image/credit fit '+width);const r=await p.locator('.entity-image .card-image-frame').boundingBox();assert(r.width>100&&r.height>100);}
   }

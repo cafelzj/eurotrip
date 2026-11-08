@@ -1,5 +1,4 @@
-/* Curated Wikimedia Commons media; checked against file descriptions and licenses.
- * Food images are photographs, never generated. Credits remain with each file. */
+/* Curated real photographs and historical portraits. Per-file source and license credits retained. */
 const cardImages = {
   "assets": {
     "img-cce6e9782007": {
@@ -14,7 +13,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "烟囱蛋糕金黄酥壳和糖晶清晰，成品形态准确，背景干净，光线有层次。"
+      }
     },
     "img-0c01d875298b": {
       "file": "Langos_Eger_Hungary.jpg",
@@ -28,7 +32,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Langos_Eger_Hungary.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "兰戈什饼完整，酥皮、酸奶油与奶酪细节清楚，日光下色彩正常。"
+      }
     },
     "img-302656b83d0f": {
       "file": "Pörkölt.jpg",
@@ -58,20 +67,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
       "checked": "2026-11-07"
     },
-    "img-fac9e8aaf568": {
-      "file": "Tokaji_wine.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tokaji_wine.jpg/960px-Tokaji_wine.jpg",
-      "width": 960,
-      "height": 1280,
-      "kind": "food",
-      "alt": "托卡伊甜酒（Tokaji Aszú）实拍",
-      "caption": "托卡伊甜酒（Tokaji Aszú） · 实拍",
-      "author": "Hungarian Snow",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Tokaji_wine.jpg",
-      "checked": "2026-11-07"
-    },
     "img-0997e4e0603e": {
       "file": "Debrecziner.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Debrecziner.jpg",
@@ -84,7 +79,12 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Debrecziner.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "香肠主体完整、色泽自然，面包与配菜说明食用搭配，白底清楚简洁。"
+      }
     },
     "img-a41b3049ab1b": {
       "file": "Chicken_Paprikash_(Csirke_Paprikás).jpg",
@@ -170,20 +170,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
       "checked": "2026-11-07"
     },
-    "img-0ea34be8ad3c": {
-      "file": "Wiener_Melange_0363wien_img_9691.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wiener_Melange_0363wien_img_9691.jpg/960px-Wiener_Melange_0363wien_img_9691.jpg",
-      "width": 960,
-      "height": 1280,
-      "kind": "food",
-      "alt": "维也纳米朗琪（Wiener Melange）实拍",
-      "caption": "维也纳米朗琪（Wiener Melange） · 实拍",
-      "author": "Rüdiger Wölk",
-      "license": "CC BY-SA 2.0 de",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Wiener_Melange_0363wien_img_9691.jpg",
-      "checked": "2026-11-07"
-    },
     "img-392c384ef3a3": {
       "file": "Salzburger_Nockerln_04_gastronomie_001.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/960px-Salzburger_Nockerln_04_gastronomie_001.jpg",
@@ -196,34 +182,6 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Salzburger_Nockerln_04_gastronomie_001.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-8481baa57fe4": {
-      "file": "Original_Salzburger_Mozartkugel_Fürst_2009.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg",
-      "width": 960,
-      "height": 1439,
-      "kind": "food",
-      "alt": "莫扎特巧克力球（Mozartkugel）实拍",
-      "caption": "莫扎特巧克力球（Mozartkugel） · 实拍",
-      "author": "Roberta F.",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-66bf3ec850bb": {
-      "file": "2015_0718_Käsespätzle_Sölden.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg/960px-2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg",
-      "width": 960,
-      "height": 678,
-      "kind": "food",
-      "alt": "卡斯诺肯（Kasnocken）实拍",
-      "caption": "卡斯诺肯（Kasnocken） · 实拍",
-      "author": "Takeaway",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg",
       "checked": "2026-11-07"
     },
     "img-d4270b2e0b74": {
@@ -252,20 +210,6 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tiroler_Gr%C3%B6stl_Herrsching.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-13b631056ab6": {
-      "file": "20220430_currywurst.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20220430_currywurst.jpg/960px-20220430_currywurst.jpg",
-      "width": 960,
-      "height": 540,
-      "kind": "food",
-      "alt": "咖喱香肠（Currywurst）实拍",
-      "caption": "咖喱香肠（Currywurst） · 实拍",
-      "author": "Ziko van Dijk",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:20220430_currywurst.jpg",
       "checked": "2026-11-07"
     },
     "img-3d67f3493c61": {
@@ -308,7 +252,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Reibekuchen_mit_Apfelmus.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "土豆煎饼焦脆纹理与苹果酱清楚，主盘完整，颜色自然且有食欲。"
+      }
     },
     "img-04c3f4949a49": {
       "file": "Weißwurst-1.jpg",
@@ -322,7 +271,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Wei%C3%9Fwurst-1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "白香肠及切面、椒盐卷饼和芥末完整清楚，单盘背景简洁，食物本色自然。"
+      }
     },
     "img-28b36e97d075": {
       "file": "BrezelnSalz02_(cropped).JPG",
@@ -378,7 +332,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Franzbroetchen.wmt.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "肉桂卷形态完整，烘烤纹理与颜色自然，单盘背景简洁，无明显杂物遮挡。"
+      }
     },
     "img-640050a394ab": {
       "file": "Hamburger_Labskaus_1.jpg",
@@ -392,20 +351,6 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Hamburger_Labskaus_1.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-53d9eafcc4de": {
-      "file": "Zunft-Kölsch_Glas.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Zunft-K%C3%B6lsch_Glas.JPG/960px-Zunft-K%C3%B6lsch_Glas.JPG",
-      "width": 960,
-      "height": 1280,
-      "kind": "food",
-      "alt": "科隆啤酒（Kölsch）实拍",
-      "caption": "科隆啤酒（Kölsch） · 实拍",
-      "author": "User:Trexer",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Zunft-K%C3%B6lsch_Glas.JPG",
       "checked": "2026-11-07"
     },
     "img-821d30aac48a": {
@@ -422,34 +367,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:2018-10-28-Halve_Hahn-9090.jpg",
       "checked": "2026-11-07"
     },
-    "img-8c2936810423": {
-      "file": "Sauerkraut_Jar.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sauerkraut_Jar.jpg/960px-Sauerkraut_Jar.jpg",
-      "width": 960,
-      "height": 1466,
-      "kind": "product",
-      "alt": "酸菜（Sauerkraut）实拍",
-      "caption": "酸菜（Sauerkraut） · 实拍",
-      "author": "Bdubay",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Sauerkraut_Jar.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-9680d957c63e": {
-      "file": "Turorudi2.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Turorudi2.jpg/960px-Turorudi2.jpg",
-      "width": 960,
-      "height": 410,
-      "kind": "product",
-      "alt": "Pöttyös Túró Rudi（切开后）实拍",
-      "caption": "Pöttyös Túró Rudi（切开后） · 实拍",
-      "author": "Váradi Zsolt",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "source": "https://commons.wikimedia.org/wiki/File:Turorudi2.jpg",
-      "checked": "2026-11-07"
-    },
     "img-b3a6ab84245f": {
       "file": "Sportszelet1.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sportszelet1.jpg/960px-Sportszelet1.jpg",
@@ -462,7 +379,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Sportszelet1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "Sport 绿色包装标识清楚，巧克力棒及切面完整，背景简洁，没有遮挡品牌的强反光。"
+      }
     },
     "img-875267846d00": {
       "file": "Eros_Pista_termekfoto.png",
@@ -476,7 +398,12 @@ const cardImages = {
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Eros_Pista_termekfoto.png",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "正面完整红椒酱瓶，Univer 与 Erős Pista 标签清楚，白底干净，色彩自然。"
+      }
     },
     "img-20458d72c210": {
       "file": "2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
@@ -490,21 +417,12 @@ const cardImages = {
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-7739e5873d86": {
-      "file": "Almdudlerflaschen.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Almdudlerflaschen.jpg/960px-Almdudlerflaschen.jpg",
-      "width": 960,
-      "height": 954,
-      "kind": "product",
-      "alt": "Almdudler 草本汽水实拍",
-      "caption": "Almdudler 草本汽水 · 实拍",
-      "author": "Loimo",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "威化断面层次清楚，成品完整，深色背景干净；说明为威化实物而非包装商品图。"
+      }
     },
     "img-15b4aad7175a": {
       "file": "Ritter_Sport_dark_chocolate.jpg",
@@ -518,7 +436,12 @@ const cardImages = {
       "license": "CC0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Ritter_Sport_dark_chocolate.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "巧克力表面和 Ritter Sport 压字清楚，色彩自然、背景干净，无强反光遮挡。"
+      }
     },
     "img-f15d19a643c3": {
       "file": "Butterkeks.jpg",
@@ -532,21 +455,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Butterkeks.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-571135b3bcad": {
-      "file": "Club-Mate.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Club-Mate.jpg/960px-Club-Mate.jpg",
-      "width": 960,
-      "height": 1600,
-      "kind": "product",
-      "alt": "Club-Mate 马黛茶饮料实拍",
-      "caption": "Club-Mate 马黛茶饮料 · 实拍",
-      "author": "Christo",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Club-Mate.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "LEIBNIZ 饼干品牌压字及边缘清楚，金黄色自然，白底简洁完整。"
+      }
     },
     "img-c7a4583c6b1b": {
       "file": "Bionaden.4659.jpg",
@@ -560,7 +474,12 @@ const cardImages = {
       "license": "CC BY-SA 2.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Bionaden.4659.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "五款 BIONADE 瓶身正面完整，品牌、口味和色彩可辨，浅底干净，产品呈现明确。"
+      }
     },
     "img-959d9102f358": {
       "file": "Erno_Rubik_Genius_Gala_2014.jpg",
@@ -898,20 +817,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Trappista_cheese_original.jpg",
       "checked": "2026-11-07"
     },
-    "img-c4fe885769c9": {
-      "file": "Grüner_Veltliner,_Doppler,_1.jpeg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gr%C3%BCner_Veltliner%2C_Doppler%2C_1.jpeg/960px-Gr%C3%BCner_Veltliner%2C_Doppler%2C_1.jpeg",
-      "width": 960,
-      "height": 1994,
-      "kind": "product",
-      "alt": "奥地利 Grüner Veltliner 葡萄酒（两升瓶装示例）实拍",
-      "caption": "奥地利 Grüner Veltliner 葡萄酒（两升瓶装示例） · 实拍",
-      "author": "Renardo la vulpo",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Veltliner,_Doppler,_1.jpeg",
-      "checked": "2026-11-07"
-    },
     "img-baaf98ddf4ec": {
       "file": "Austrian_mountain_cheese.JPG",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Austrian_mountain_cheese.JPG/960px-Austrian_mountain_cheese.JPG",
@@ -1010,20 +915,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
       "checked": "2026-11-07"
     },
-    "img-0eb1d9f3631d": {
-      "file": "Smoki_grickalica.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Smoki_grickalica.jpg/960px-Smoki_grickalica.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "Smoki 花生玉米零食实拍",
-      "caption": "Smoki 花生玉米零食 · 实拍",
-      "author": "Михаило Јовановић",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Smoki_grickalica.jpg",
-      "checked": "2026-11-07"
-    },
     "img-210a2b6cea27": {
       "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg/960px-T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
@@ -1036,7 +927,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "铜壶向杯中倒咖啡的制作过程清楚，光线自然；作为土耳其咖啡冲煮过程照片，不作包装商品图。"
+      }
     },
     "img-f4ae62ec340f": {
       "file": "Tesla_circa_1890.jpeg",
@@ -1232,7 +1128,12 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Leberk%C3%A4se-1.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "熟肉烤块的切面和烤皮清楚，主体完整、光线均匀，白色背景干净。"
+      }
     },
     "img-bebdc3c836c4": {
       "file": "Frittatensuppe.jpg",
@@ -1246,20 +1147,6 @@ const cardImages = {
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Frittatensuppe.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-1ba97e224250": {
-      "file": "Pfannkuchen_mit_Zucker.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pfannkuchen_mit_Zucker.jpg/960px-Pfannkuchen_mit_Zucker.jpg",
-      "width": 960,
-      "height": 589,
-      "kind": "food",
-      "alt": "奥地利薄煎饼实拍",
-      "caption": "奥地利薄煎饼 · 实拍",
-      "author": "Jan Homann",
-      "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Pfannkuchen_mit_Zucker.jpg",
       "checked": "2026-11-07"
     },
     "img-c83b9c981f8b": {
@@ -1304,20 +1191,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Kaisersemmel-.jpg",
       "checked": "2026-11-07"
     },
-    "img-f030d928cfe8": {
-      "file": "Einspaenner.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Einspaenner.jpg",
-      "width": 960,
-      "height": 1440,
-      "kind": "food",
-      "alt": "Einspänner实拍",
-      "caption": "Einspänner · 实拍",
-      "author": "V. Kostitsin-Teterin",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Einspaenner.jpg",
-      "checked": "2026-11-07"
-    },
     "img-07106f3d579e": {
       "file": "White_wine_spritzer.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_wine_spritzer.jpg/960px-White_wine_spritzer.jpg",
@@ -1330,7 +1203,12 @@ const cardImages = {
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:White_wine_spritzer.jpg",
-      "checked": "2026-11-07"
+      "checked": "2026-11-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-08",
+        "notes": "酒杯主体完整，酒液与气泡清晰，暖光与白平衡自然，背景虚化；仅说明白葡萄酒汽水，不冒充具体酒庄。"
+      }
     },
     "img-a5ab93e092cc": {
       "file": "Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg",
@@ -1808,20 +1686,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Kremna_rezina.jpg",
       "checked": "2026-11-07"
     },
-    "img-aac2b1bc80d8": {
-      "file": "Radenska.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Radenska.jpg/960px-Radenska.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "product",
-      "alt": "Radenska 矿泉水实拍",
-      "caption": "Radenska 矿泉水 · 实拍",
-      "author": "Shabicht",
-      "license": "CC BY-SA 2.5 si",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/si/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Radenska.jpg",
-      "checked": "2026-11-07"
-    },
     "img-d80642ef76f2": {
       "file": "Jože_Plečnik_(1943),_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jo%C5%BEe_Ple%C4%8Dnik_%281943%29%2C_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
@@ -1976,20 +1840,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:2023_Sernik_polski_(1).jpg",
       "checked": "2026-11-07"
     },
-    "img-061257e536f3": {
-      "file": "Wuzetka_edit.JPG",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Wuzetka_edit.JPG/960px-Wuzetka_edit.JPG",
-      "width": 960,
-      "height": 731,
-      "kind": "food",
-      "alt": "Wuzetka实拍",
-      "caption": "Wuzetka · 实拍",
-      "author": "SpiderMum",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Wuzetka_edit.JPG",
-      "checked": "2026-11-07"
-    },
     "img-f124e9490d88": {
       "file": "Obwarzanek_mak.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/960px-Obwarzanek_mak.jpg",
@@ -2018,20 +1868,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Oscypki.jpg",
       "checked": "2026-11-07"
     },
-    "img-08659106591c": {
-      "file": "Aringa-marinato.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aringa-marinato.jpg/960px-Aringa-marinato.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "Śledź实拍",
-      "caption": "Śledź · 实拍",
-      "author": "Kagor at the Ukrainian language Wikipedia",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Aringa-marinato.jpg",
-      "checked": "2026-11-07"
-    },
     "img-8e94e29b9480": {
       "file": "Polish_food_in_Poland_21.jpg",
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Polish_food_in_Poland_21.jpg/960px-Polish_food_in_Poland_21.jpg",
@@ -2044,34 +1880,6 @@ const cardImages = {
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Polish_food_in_Poland_21.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-e05e819f4b02": {
-      "file": "Chocolate-covered_marshmallow_in_Poland.jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Chocolate-covered_marshmallow_in_Poland.jpg/960px-Chocolate-covered_marshmallow_in_Poland.jpg",
-      "width": 960,
-      "height": 723,
-      "kind": "product",
-      "alt": "Ptasie Mleczko实拍",
-      "caption": "Ptasie Mleczko · 实拍",
-      "author": "Syced",
-      "license": "CC0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Chocolate-covered_marshmallow_in_Poland.jpg",
-      "checked": "2026-11-07"
-    },
-    "img-dea367d0d450": {
-      "file": "Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wyborowa_krowka_belchatowska_%28edit%29_%28cropped%29.jpg",
-      "width": 960,
-      "height": 436,
-      "kind": "product",
-      "alt": "Krówki实拍",
-      "caption": "Krówki · 实拍",
-      "author": "File:Wyborowa krowka belchatowska.jpg: Ministerstwo Rolnictwa i Rozwoju Wsi derivative work: white balance automatically altered using GIMP 2.10.22, cropped using CropTool",
-      "license": "CC BY 3.0 pl",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
       "checked": "2026-11-07"
     },
     "img-b4098c6ad7f8": {
@@ -2206,33 +2014,24 @@ const cardImages = {
     "food-budapest-2": "img-0c01d875298b",
     "food-budapest-3": "img-302656b83d0f",
     "food-budapest-4": "img-6e306dd06365",
-    "food-budapest-5": "img-fac9e8aaf568",
     "food-debrecen-0": "img-0997e4e0603e",
     "food-debrecen-1": "img-302656b83d0f",
     "food-debrecen-3": "img-a41b3049ab1b",
     "food-debrecen-4": "img-6e306dd06365",
-    "food-debrecen-5": "img-fac9e8aaf568",
     "food-szeged-3": "img-302656b83d0f",
     "food-szeged-4": "img-6e306dd06365",
-    "food-szeged-5": "img-fac9e8aaf568",
     "food-vienna-0": "img-f8712dad2a01",
     "food-vienna-1": "img-570105ccf688",
     "food-vienna-2": "img-8b69cb9844fe",
     "food-vienna-3": "img-35dc67bcfb40",
     "food-vienna-4": "img-d96226f01b13",
-    "food-vienna-5": "img-0ea34be8ad3c",
     "food-salzburg-0": "img-392c384ef3a3",
-    "food-salzburg-1": "img-8481baa57fe4",
-    "food-salzburg-2": "img-66bf3ec850bb",
     "food-salzburg-3": "img-35dc67bcfb40",
     "food-salzburg-4": "img-d96226f01b13",
-    "food-salzburg-5": "img-0ea34be8ad3c",
     "food-innsbruck-1": "img-d4270b2e0b74",
     "food-innsbruck-2": "img-290e1e7f6c58",
     "food-innsbruck-3": "img-35dc67bcfb40",
     "food-innsbruck-4": "img-d96226f01b13",
-    "food-innsbruck-5": "img-0ea34be8ad3c",
-    "food-berlin-0": "img-13b631056ab6",
     "food-berlin-1": "img-3d67f3493c61",
     "food-berlin-2": "img-d14544fb73c1",
     "food-berlin-3": "img-cd4372a5a382",
@@ -2250,19 +2049,14 @@ const cardImages = {
     "food-hamburg-3": "img-cd4372a5a382",
     "food-hamburg-4": "img-0ff5ec65d125",
     "food-hamburg-5": "img-8b69cb9844fe",
-    "food-cologne-0": "img-53d9eafcc4de",
     "food-cologne-1": "img-821d30aac48a",
-    "food-cologne-3": "img-8c2936810423",
     "food-cologne-4": "img-0ff5ec65d125",
     "food-cologne-5": "img-8b69cb9844fe",
-    "food-product-turo-rudi": "img-9680d957c63e",
     "food-product-sport-bar": "img-b3a6ab84245f",
     "food-product-eros-pista": "img-875267846d00",
     "food-product-manner-wafer": "img-20458d72c210",
-    "food-product-almdudler-soda": "img-7739e5873d86",
     "food-product-ritter-chocolate": "img-15b4aad7175a",
     "food-product-leibniz-biscuit": "img-f15d19a643c3",
-    "food-product-club-mate": "img-571135b3bcad",
     "food-product-bionade": "img-c7a4583c6b1b",
     "person-rubik": "img-959d9102f358",
     "person-liszt": "img-9feecdd109a2",
@@ -2288,10 +2082,7 @@ const cardImages = {
     "person-boll": "img-c8eea2cb095c",
     "person-adenauer": "img-b2344058edc1",
     "food-culture-trappista": "img-e71388e0d7d6",
-    "food-culture-melange": "img-0ea34be8ad3c",
-    "food-culture-gruner": "img-c4fe885769c9",
     "food-culture-bergkase": "img-baaf98ddf4ec",
-    "food-culture-kolsch": "img-53d9eafcc4de",
     "food-culture-helles": "img-a8539d44693f",
     "food-rs-cevapi": "img-f592e91d8fb8",
     "food-rs-pljeskavica": "img-bdde6d295741",
@@ -2299,7 +2090,6 @@ const cardImages = {
     "food-rs-gibanica": "img-c7ae4d058b69",
     "food-rs-sarma": "img-62a953decd0f",
     "food-rs-prebranac": "img-5d7115f82803",
-    "food-rs-smoki": "img-0eb1d9f3631d",
     "food-rs-coffee": "img-210a2b6cea27",
     "person-rs-tesla": "img-f4ae62ec340f",
     "person-rs-constantine": "img-e541d8b7a6f9",
@@ -2318,12 +2108,10 @@ const cardImages = {
     "food-vienna-kasekrainer": "img-5e3e3c3d92d7",
     "food-vienna-leberkase": "img-0cd3d2b4973a",
     "food-vienna-frittaten": "img-bebdc3c836c4",
-    "food-vienna-palatschinken": "img-1ba97e224250",
     "food-vienna-topfenstrudel": "img-c83b9c981f8b",
     "food-vienna-buchteln": "img-b58018a85ed9",
     "food-vienna-semmel": "img-f0eaa703f328",
     "food-vienna-bergkase": "img-baaf98ddf4ec",
-    "food-vienna-einspanner": "img-f030d928cfe8",
     "food-vienna-spritzer": "img-07106f3d579e",
     "person-vienna-freud": "img-a5ab93e092cc",
     "person-vienna-strauss": "img-f8e3dc5b79d8",
@@ -2359,7 +2147,6 @@ const cardImages = {
     "food-si-struklji": "img-be72b637d377",
     "food-si-gibanica": "img-9a86bcab772c",
     "food-si-bled-cream": "img-d97fe155b78c",
-    "food-si-radenska": "img-aac2b1bc80d8",
     "person-si-plecnik": "img-d80642ef76f2",
     "person-si-preseren": "img-8bc50c27c20b",
     "person-si-maister": "img-d51ba2ccaebc",
@@ -2371,13 +2158,9 @@ const cardImages = {
     "food-pl-golabki": "img-e991a5dd4160",
     "food-pl-paczek": "img-2378ede47351",
     "food-pl-sernik": "img-5f7cf865c8d0",
-    "food-pl-wuzetka": "img-061257e536f3",
     "food-pl-obwarzanek": "img-f124e9490d88",
     "food-pl-oscypek": "img-c6e6380ca072",
-    "food-pl-sledz": "img-08659106591c",
     "food-pl-kluski": "img-8e94e29b9480",
-    "food-pl-ptasie-mleczko": "img-e05e819f4b02",
-    "food-pl-krowki": "img-dea367d0d450",
     "person-pl-chopin": "img-b4098c6ad7f8",
     "person-pl-curie": "img-1ed399313e8a",
     "person-pl-copernicus": "img-34a1fa815519",

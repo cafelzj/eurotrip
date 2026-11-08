@@ -9,7 +9,8 @@
       "无明显反光遮挡、杂乱背景、过大留白或不合适的裁切"
     ],
     "visualAuditComplete": false,
-    "blocker": "当前环境的网络白名单不包含原图源，原图尚不能下载和目视复核。"
+    "blocker": "Wikimedia 原图服务连续三轮返回 HTTP 429，每次 Retry-After: 600 秒；已按要求等待并降至串行 12 秒/图，仍再次限流。剩余原图未取得，补图候选尚未视觉审核。",
+    "reviewMethod": "原图下载后逐张检查缩放视图，疑点单独放大；来源核对和程序测试不替代视觉判断。"
   },
   "rejected": [
     {
@@ -35,482 +36,85 @@
     {
       "file": "Tymbark_apple_mint_drink_1.jpg",
       "reason": "低照度、瓶身侧向、标签不清，主体在卡片内过小。"
+    },
+    {
+      "file": "Wiener_Melange_0363wien_img_9691.jpg",
+      "reason": "咖啡杯对焦偏软、颗粒重且偏黄，报纸、残盘和水杯占据大量画面。"
+    },
+    {
+      "file": "Zunft-Kölsch_Glas.JPG",
+      "reason": "啤酒背后有多名顾客，桌面纸巾和杂物抢占画面，主体边缘与背景混杂。"
+    },
+    {
+      "file": "Club-Mate.jpg",
+      "reason": "瓶身虽正面但整体低照度偏灰，酒液和墙面暗淡，不符合饮料商品图标准。"
+    },
+    {
+      "file": "Almdudlerflaschen.jpg",
+      "reason": "多瓶互相遮挡，前排瓶身被裁断，偏暗偏绿且反光密集，没有清楚完整的商品主体。"
+    },
+    {
+      "file": "Original_Salzburger_Mozartkugel_Fürst_2009.jpg",
+      "reason": "巧克力球的金属包装大面积反光，暗背景与阴影遮住品牌和产品细节。"
+    },
+    {
+      "file": "Sauerkraut_Jar.jpg",
+      "reason": "家中桌面随拍偏黄，酸菜罐与背景海报、柜体混杂，缺少清楚诱人的成品呈现。"
+    },
+    {
+      "file": "Turorudi2.jpg",
+      "reason": "凝乳棒明显偏黄偏暗，品牌包装不可见，不适合作为 Pöttyös 商品识别图。"
+    },
+    {
+      "file": "Radenska.jpg",
+      "reason": "商场内多品牌塑料瓶挤在一起，瓶身反光、标签互相遮挡，背景灯光与招牌杂乱。"
+    },
+    {
+      "file": "Grüner_Veltliner,_Doppler,_1.jpeg",
+      "reason": "整瓶低照度偏黑，标签倾斜、瓶身反光，酒液与产品细节不清楚。"
+    },
+    {
+      "file": "Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
+      "reason": "奶糖原图偏软、色调灰暗，糖纸与糖块细节不足，达不到清晰有食欲的标准。"
+    },
+    {
+      "file": "Chocolate-covered_marshmallow_in_Poland.jpg",
+      "reason": "巧克力表面发白斑驳，背景为反光包装纸，整体灰暗且缺少干净的成品呈现。"
+    },
+    {
+      "file": "Einspaenner.jpg",
+      "reason": "咖啡原图分辨率过低，放大后缺少细节，不适合现有卡片和详情的大图展示。"
+    },
+    {
+      "file": "Tokaji_wine.jpg",
+      "reason": "酒瓶上下均被裁切，餐桌花纹与罐头等杂物干扰，标签偏软，不适合作为商品图。"
+    },
+    {
+      "file": "Wuzetka_edit.JPG",
+      "reason": "蛋糕照片颗粒明显、对比生硬，奶油高光与暗部失去层次，蓝色花盘抢占视线。"
+    },
+    {
+      "file": "Aringa-marinato.jpg",
+      "reason": "直闪使鱼皮泛灰发亮，花纹桌布抢占画面，整体食物呈现生硬。"
+    },
+    {
+      "file": "Smoki_grickalica.jpg",
+      "reason": "单颗零食强烈过曝，大片黑影和桌面占据画面，没有可辨认的 Smoki 品牌包装。"
+    },
+    {
+      "file": "20220430_currywurst.jpg",
+      "reason": "近距离裁切使香肠和餐盘不完整，叉子、纸巾及涂抹开的酱汁让画面杂乱。"
+    },
+    {
+      "file": "Pfannkuchen_mit_Zucker.jpg",
+      "reason": "直闪下薄煎饼偏灰发黄，蓝色玻璃盘反光强烈，整体缺少自然明亮的食物呈现。"
+    },
+    {
+      "file": "2015_0718_Käsespätzle_Sölden.jpg",
+      "reason": "来源明确是蒂罗尔 Käsespätzle，与卡片 Kasnocken 的面团形态和名称不一致，不能仅因同为奶酪面食而复用。"
     }
   ],
   "pending": [
-    {
-      "asset": "img-07106f3d579e",
-      "file": "White_wine_spritzer.jpg",
-      "cards": [
-        "food-vienna-spritzer"
-      ],
-      "subjects": [
-        "白葡萄酒汽水与 Heuriger"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:White_wine_spritzer.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0ea34be8ad3c",
-      "file": "Wiener_Melange_0363wien_img_9691.jpg",
-      "cards": [
-        "food-vienna-5",
-        "food-salzburg-5",
-        "food-innsbruck-5",
-        "food-culture-melange"
-      ],
-      "subjects": [
-        "维也纳米朗琪（Wiener Melange）",
-        "Wiener Melange 维也纳咖啡"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Wiener_Melange_0363wien_img_9691.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-15b4aad7175a",
-      "file": "Ritter_Sport_dark_chocolate.jpg",
-      "cards": [
-        "food-product-ritter-chocolate"
-      ],
-      "subjects": [
-        "Ritter Sport 方形巧克力"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Ritter_Sport_dark_chocolate.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-20458d72c210",
-      "file": "2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
-      "cards": [
-        "food-product-manner-wafer"
-      ],
-      "subjects": [
-        "Manner Neapolitaner 威化"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-210a2b6cea27",
-      "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
-      "cards": [
-        "food-rs-coffee"
-      ],
-      "subjects": [
-        "家常煮咖啡"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-53d9eafcc4de",
-      "file": "Zunft-Kölsch_Glas.JPG",
-      "cards": [
-        "food-cologne-0",
-        "food-culture-kolsch"
-      ],
-      "subjects": [
-        "科隆啤酒（Kölsch）",
-        "Kölsch 科隆啤酒"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Zunft-K%C3%B6lsch_Glas.JPG",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-571135b3bcad",
-      "file": "Club-Mate.jpg",
-      "cards": [
-        "food-product-club-mate"
-      ],
-      "subjects": [
-        "Club-Mate 马黛茶饮料"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Club-Mate.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-7739e5873d86",
-      "file": "Almdudlerflaschen.jpg",
-      "cards": [
-        "food-product-almdudler-soda"
-      ],
-      "subjects": [
-        "Almdudler 草本汽水"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-8481baa57fe4",
-      "file": "Original_Salzburger_Mozartkugel_Fürst_2009.jpg",
-      "cards": [
-        "food-salzburg-1"
-      ],
-      "subjects": [
-        "莫扎特巧克力球（Mozartkugel）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-875267846d00",
-      "file": "Eros_Pista_termekfoto.png",
-      "cards": [
-        "food-product-eros-pista"
-      ],
-      "subjects": [
-        "Univer Erős Pista 红椒酱"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Eros_Pista_termekfoto.png",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-8c2936810423",
-      "file": "Sauerkraut_Jar.jpg",
-      "cards": [
-        "food-cologne-3"
-      ],
-      "subjects": [
-        "酸菜（Sauerkraut）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Sauerkraut_Jar.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-9680d957c63e",
-      "file": "Turorudi2.jpg",
-      "cards": [
-        "food-product-turo-rudi"
-      ],
-      "subjects": [
-        "Pöttyös Túró Rudi"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Turorudi2.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-aac2b1bc80d8",
-      "file": "Radenska.jpg",
-      "cards": [
-        "food-si-radenska"
-      ],
-      "subjects": [
-        "Radenska 矿泉水"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Radenska.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-b3a6ab84245f",
-      "file": "Sportszelet1.jpg",
-      "cards": [
-        "food-product-sport-bar"
-      ],
-      "subjects": [
-        "Sport szelet 巧克力棒"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Sportszelet1.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-c4fe885769c9",
-      "file": "Grüner_Veltliner,_Doppler,_1.jpeg",
-      "cards": [
-        "food-culture-gruner"
-      ],
-      "subjects": [
-        "Grüner Veltliner 绿维特利纳"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Veltliner,_Doppler,_1.jpeg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-c7a4583c6b1b",
-      "file": "Bionaden.4659.jpg",
-      "cards": [
-        "food-product-bionade"
-      ],
-      "subjects": [
-        "BIONADE 风味汽水"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Bionaden.4659.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-cce6e9782007",
-      "file": "Kürtőskalács2011.jpg",
-      "cards": [
-        "food-budapest-1"
-      ],
-      "subjects": [
-        "烟囱蛋糕（kürtőskalács）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-dea367d0d450",
-      "file": "Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
-      "cards": [
-        "food-pl-krowki"
-      ],
-      "subjects": [
-        "Krówki · 波兰奶糖"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-e05e819f4b02",
-      "file": "Chocolate-covered_marshmallow_in_Poland.jpg",
-      "cards": [
-        "food-pl-ptasie-mleczko"
-      ],
-      "subjects": [
-        "Ptasie Mleczko · 巧克力裹泡沫糖"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Chocolate-covered_marshmallow_in_Poland.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-f030d928cfe8",
-      "file": "Einspaenner.jpg",
-      "cards": [
-        "food-vienna-einspanner"
-      ],
-      "subjects": [
-        "Einspänner · 咖啡与奶油"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Einspaenner.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-f15d19a643c3",
-      "file": "Butterkeks.jpg",
-      "cards": [
-        "food-product-leibniz-biscuit"
-      ],
-      "subjects": [
-        "LEIBNIZ Butterkeks 黄油饼干"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Butterkeks.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-fac9e8aaf568",
-      "file": "Tokaji_wine.jpg",
-      "cards": [
-        "food-budapest-5",
-        "food-debrecen-5",
-        "food-szeged-5"
-      ],
-      "subjects": [
-        "托卡伊甜酒（Tokaji Aszú）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Tokaji_wine.jpg",
-      "status": "needs-visual-review",
-      "priority": 1,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-04c3f4949a49",
-      "file": "Weißwurst-1.jpg",
-      "cards": [
-        "food-munich-0"
-      ],
-      "subjects": [
-        "白香肠（Weißwurst）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Wei%C3%9Fwurst-1.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-061257e536f3",
-      "file": "Wuzetka_edit.JPG",
-      "cards": [
-        "food-pl-wuzetka"
-      ],
-      "subjects": [
-        "Wuzetka · 华沙可可奶油蛋糕"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Wuzetka_edit.JPG",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-07b19600c450",
-      "file": "Franzbroetchen.wmt.jpg",
-      "cards": [
-        "food-hamburg-1"
-      ],
-      "subjects": [
-        "肉桂卷（Franzbrötchen）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Franzbroetchen.wmt.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-08659106591c",
-      "file": "Aringa-marinato.jpg",
-      "cards": [
-        "food-pl-sledz"
-      ],
-      "subjects": [
-        "Śledź · 鲱鱼小食"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Aringa-marinato.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0997e4e0603e",
-      "file": "Debrecziner.jpg",
-      "cards": [
-        "food-debrecen-0"
-      ],
-      "subjects": [
-        "德布勒森香肠（debreceni）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Debrecziner.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0c01d875298b",
-      "file": "Langos_Eger_Hungary.jpg",
-      "cards": [
-        "food-budapest-2"
-      ],
-      "subjects": [
-        "兰戈什（lángos）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Langos_Eger_Hungary.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0cd3d2b4973a",
-      "file": "Leberkäse-1.jpg",
-      "cards": [
-        "food-vienna-leberkase"
-      ],
-      "subjects": [
-        "Leberkäse · 熟肉烤块"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Leberk%C3%A4se-1.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0eb1d9f3631d",
-      "file": "Smoki_grickalica.jpg",
-      "cards": [
-        "food-rs-smoki"
-      ],
-      "subjects": [
-        "Smoki 花生玉米零食"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Smoki_grickalica.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-0ff5ec65d125",
-      "file": "Reibekuchen_mit_Apfelmus.jpg",
-      "cards": [
-        "food-berlin-4",
-        "food-munich-4",
-        "food-hamburg-4",
-        "food-cologne-4"
-      ],
-      "subjects": [
-        "土豆煎饼（Reibekuchen）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Reibekuchen_mit_Apfelmus.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-13b631056ab6",
-      "file": "20220430_currywurst.jpg",
-      "cards": [
-        "food-berlin-0"
-      ],
-      "subjects": [
-        "咖喱香肠（Currywurst）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:20220430_currywurst.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-1ba97e224250",
-      "file": "Pfannkuchen_mit_Zucker.jpg",
-      "cards": [
-        "food-vienna-palatschinken"
-      ],
-      "subjects": [
-        "奥地利薄煎饼"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Pfannkuchen_mit_Zucker.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
     {
       "asset": "img-1e519e0a9c9f",
       "file": "Bejgli1.jpg",
@@ -763,20 +367,6 @@
         "Labskaus"
       ],
       "source": "https://commons.wikimedia.org/wiki/File:Hamburger_Labskaus_1.jpg",
-      "status": "needs-visual-review",
-      "priority": 2,
-      "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
-    },
-    {
-      "asset": "img-66bf3ec850bb",
-      "file": "2015_0718_Käsespätzle_Sölden.jpg",
-      "cards": [
-        "food-salzburg-2"
-      ],
-      "subjects": [
-        "卡斯诺肯（Kasnocken）"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg",
       "status": "needs-visual-review",
       "priority": 2,
       "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
@@ -1454,6 +1044,597 @@
       "status": "needs-visual-review",
       "priority": 2,
       "notes": "来源与许可记录不代表视觉质量已通过；需打开原图检查。"
+    }
+  ],
+  "reviewed": [
+    {
+      "asset": "img-07106f3d579e",
+      "file": "White_wine_spritzer.jpg",
+      "cards": [
+        "food-vienna-spritzer"
+      ],
+      "subjects": [
+        "白葡萄酒汽水与 Heuriger"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:White_wine_spritzer.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "酒杯主体完整，酒液与气泡清晰，暖光与白平衡自然，背景虚化；仅说明白葡萄酒汽水，不冒充具体酒庄。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "07c44ec1699874a99b8ddb5d74b6e13674bc9ed6d02535c9f35d71ca4ac107c6"
+    },
+    {
+      "asset": "img-0ea34be8ad3c",
+      "file": "Wiener_Melange_0363wien_img_9691.jpg",
+      "cards": [
+        "food-vienna-5",
+        "food-salzburg-5",
+        "food-innsbruck-5",
+        "food-culture-melange"
+      ],
+      "subjects": [
+        "维也纳米朗琪（Wiener Melange）",
+        "Wiener Melange 维也纳咖啡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wiener_Melange_0363wien_img_9691.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "咖啡杯对焦偏软、颗粒重且偏黄，报纸、残盘和水杯占据大量画面。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "9d4ad086422389eada69f2d9f9b67dbe67ea5bc2a76f52af3a019998e7a8c211"
+    },
+    {
+      "asset": "img-15b4aad7175a",
+      "file": "Ritter_Sport_dark_chocolate.jpg",
+      "cards": [
+        "food-product-ritter-chocolate"
+      ],
+      "subjects": [
+        "Ritter Sport 方形巧克力"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Ritter_Sport_dark_chocolate.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "巧克力表面和 Ritter Sport 压字清楚，色彩自然、背景干净，无强反光遮挡。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "f485be10ae527de9c297ee0ee7ddc2bc6da42ad7376866aa3ee0bb54cbf66ae8"
+    },
+    {
+      "asset": "img-20458d72c210",
+      "file": "2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
+      "cards": [
+        "food-product-manner-wafer"
+      ],
+      "subjects": [
+        "Manner Neapolitaner 威化"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2020-02-20-Manner_Neapolitane-Lokal_K-4775.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "威化断面层次清楚，成品完整，深色背景干净；说明为威化实物而非包装商品图。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "0b49d09f9c85d72016e1fc24f7b907f31326d523bf39095a3d97e39af40a28cf"
+    },
+    {
+      "asset": "img-210a2b6cea27",
+      "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
+      "cards": [
+        "food-rs-coffee"
+      ],
+      "subjects": [
+        "家常煮咖啡"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_Kahvesi_-_Bakir_Cezve.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "铜壶向杯中倒咖啡的制作过程清楚，光线自然；作为土耳其咖啡冲煮过程照片，不作包装商品图。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "1c47d9975269df5cede5d7d680c0c1650d4abb507ed9a4b5d45dbf03b2843580"
+    },
+    {
+      "asset": "img-53d9eafcc4de",
+      "file": "Zunft-Kölsch_Glas.JPG",
+      "cards": [
+        "food-cologne-0",
+        "food-culture-kolsch"
+      ],
+      "subjects": [
+        "科隆啤酒（Kölsch）",
+        "Kölsch 科隆啤酒"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Zunft-K%C3%B6lsch_Glas.JPG",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "啤酒背后有多名顾客，桌面纸巾和杂物抢占画面，主体边缘与背景混杂。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "9057cdddc1b2a1b6822da0f46933eab8ae33ce1402a4fb3885a20ad7ea7559bb"
+    },
+    {
+      "asset": "img-571135b3bcad",
+      "file": "Club-Mate.jpg",
+      "cards": [
+        "food-product-club-mate"
+      ],
+      "subjects": [
+        "Club-Mate 马黛茶饮料"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Club-Mate.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "瓶身虽正面但整体低照度偏灰，酒液和墙面暗淡，不符合饮料商品图标准。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "7f0b6996c5ed609f46c9b8caeb7c9102d9cd82e39dbb6a84c46c9667685880bc"
+    },
+    {
+      "asset": "img-7739e5873d86",
+      "file": "Almdudlerflaschen.jpg",
+      "cards": [
+        "food-product-almdudler-soda"
+      ],
+      "subjects": [
+        "Almdudler 草本汽水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Almdudlerflaschen.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "多瓶互相遮挡，前排瓶身被裁断，偏暗偏绿且反光密集，没有清楚完整的商品主体。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "29706e7378e36b513ece9a9f012b9cfb2a047f3b3d3428b5c0618ce3a234183d"
+    },
+    {
+      "asset": "img-8481baa57fe4",
+      "file": "Original_Salzburger_Mozartkugel_Fürst_2009.jpg",
+      "cards": [
+        "food-salzburg-1"
+      ],
+      "subjects": [
+        "莫扎特巧克力球（Mozartkugel）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Original_Salzburger_Mozartkugel_F%C3%BCrst_2009.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "巧克力球的金属包装大面积反光，暗背景与阴影遮住品牌和产品细节。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "8b90216222d4b6722c1114ce1c8081d1de08233902c412d55b9c6de057dfc0c9"
+    },
+    {
+      "asset": "img-875267846d00",
+      "file": "Eros_Pista_termekfoto.png",
+      "cards": [
+        "food-product-eros-pista"
+      ],
+      "subjects": [
+        "Univer Erős Pista 红椒酱"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Eros_Pista_termekfoto.png",
+      "status": "approved",
+      "priority": 1,
+      "notes": "正面完整红椒酱瓶，Univer 与 Erős Pista 标签清楚，白底干净，色彩自然。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "bf10b4c56800e95e59199093de83d4c9affa2ded43b277b20315141706980cb4"
+    },
+    {
+      "asset": "img-8c2936810423",
+      "file": "Sauerkraut_Jar.jpg",
+      "cards": [
+        "food-cologne-3"
+      ],
+      "subjects": [
+        "酸菜（Sauerkraut）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sauerkraut_Jar.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "家中桌面随拍偏黄，酸菜罐与背景海报、柜体混杂，缺少清楚诱人的成品呈现。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "78601e8cb4defc49bdf67efebe4fa70136c9feed9f548d63ebe52b157693fa05"
+    },
+    {
+      "asset": "img-9680d957c63e",
+      "file": "Turorudi2.jpg",
+      "cards": [
+        "food-product-turo-rudi"
+      ],
+      "subjects": [
+        "Pöttyös Túró Rudi"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Turorudi2.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "凝乳棒明显偏黄偏暗，品牌包装不可见，不适合作为 Pöttyös 商品识别图。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "6067f5598a147fece59dd43551b84eb7053b0873709ea9fda8a3b978c9cae86c"
+    },
+    {
+      "asset": "img-aac2b1bc80d8",
+      "file": "Radenska.jpg",
+      "cards": [
+        "food-si-radenska"
+      ],
+      "subjects": [
+        "Radenska 矿泉水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Radenska.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "商场内多品牌塑料瓶挤在一起，瓶身反光、标签互相遮挡，背景灯光与招牌杂乱。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "82f3222cfc1bb4d76dc06e0fa1218409118333fbf695c139302a658e59efe9a9"
+    },
+    {
+      "asset": "img-b3a6ab84245f",
+      "file": "Sportszelet1.jpg",
+      "cards": [
+        "food-product-sport-bar"
+      ],
+      "subjects": [
+        "Sport szelet 巧克力棒"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Sportszelet1.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "Sport 绿色包装标识清楚，巧克力棒及切面完整，背景简洁，没有遮挡品牌的强反光。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "f0949c86b9aac08f21ec9dc76bedb2f2fe4da3e4898f1cb62b28425710c0cfb5"
+    },
+    {
+      "asset": "img-c4fe885769c9",
+      "file": "Grüner_Veltliner,_Doppler,_1.jpeg",
+      "cards": [
+        "food-culture-gruner"
+      ],
+      "subjects": [
+        "Grüner Veltliner 绿维特利纳"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Veltliner,_Doppler,_1.jpeg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "整瓶低照度偏黑，标签倾斜、瓶身反光，酒液与产品细节不清楚。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "0f5a0b1bfa243be95f054b015327b4ae074e424d895f03dc0081cc5c3b83a1be"
+    },
+    {
+      "asset": "img-c7a4583c6b1b",
+      "file": "Bionaden.4659.jpg",
+      "cards": [
+        "food-product-bionade"
+      ],
+      "subjects": [
+        "BIONADE 风味汽水"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Bionaden.4659.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "五款 BIONADE 瓶身正面完整，品牌、口味和色彩可辨，浅底干净，产品呈现明确。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "2dcc398e45a8489a5ea97dfd2e19a3bc9db1d3c5a92096e4ab1c8dc56e765154"
+    },
+    {
+      "asset": "img-cce6e9782007",
+      "file": "Kürtőskalács2011.jpg",
+      "cards": [
+        "food-budapest-1"
+      ],
+      "subjects": [
+        "烟囱蛋糕（kürtőskalács）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:K%C3%BCrt%C5%91skal%C3%A1cs2011.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "烟囱蛋糕金黄酥壳和糖晶清晰，成品形态准确，背景干净，光线有层次。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "dece6cdb447aa95b7e56a9c43979e69946797c713d2ffa70a8d576d8a2d4c038"
+    },
+    {
+      "asset": "img-dea367d0d450",
+      "file": "Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
+      "cards": [
+        "food-pl-krowki"
+      ],
+      "subjects": [
+        "Krówki · 波兰奶糖"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wyborowa_krowka_belchatowska_(edit)_(cropped).jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "奶糖原图偏软、色调灰暗，糖纸与糖块细节不足，达不到清晰有食欲的标准。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "816f31d42332c61b34846fc152e8bd113b2e77e646b897ae8fcaea89823739ac"
+    },
+    {
+      "asset": "img-e05e819f4b02",
+      "file": "Chocolate-covered_marshmallow_in_Poland.jpg",
+      "cards": [
+        "food-pl-ptasie-mleczko"
+      ],
+      "subjects": [
+        "Ptasie Mleczko · 巧克力裹泡沫糖"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Chocolate-covered_marshmallow_in_Poland.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "巧克力表面发白斑驳，背景为反光包装纸，整体灰暗且缺少干净的成品呈现。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "07c191b23f25ca596c73caa18a378da43c63cc5497239e8428136b9442b8f054"
+    },
+    {
+      "asset": "img-f030d928cfe8",
+      "file": "Einspaenner.jpg",
+      "cards": [
+        "food-vienna-einspanner"
+      ],
+      "subjects": [
+        "Einspänner · 咖啡与奶油"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Einspaenner.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "咖啡原图分辨率过低，放大后缺少细节，不适合现有卡片和详情的大图展示。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "cbc99f806b6276d3f78e59d64a7c4c75d2c4398fc56b7a745c49808fe42faa09"
+    },
+    {
+      "asset": "img-f15d19a643c3",
+      "file": "Butterkeks.jpg",
+      "cards": [
+        "food-product-leibniz-biscuit"
+      ],
+      "subjects": [
+        "LEIBNIZ Butterkeks 黄油饼干"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Butterkeks.jpg",
+      "status": "approved",
+      "priority": 1,
+      "notes": "LEIBNIZ 饼干品牌压字及边缘清楚，金黄色自然，白底简洁完整。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "5c9dd07f7017023eead3b2d86e875b9a4c1c312d8e7e56c313aad39961d0fa7e"
+    },
+    {
+      "asset": "img-fac9e8aaf568",
+      "file": "Tokaji_wine.jpg",
+      "cards": [
+        "food-budapest-5",
+        "food-debrecen-5",
+        "food-szeged-5"
+      ],
+      "subjects": [
+        "托卡伊甜酒（Tokaji Aszú）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tokaji_wine.jpg",
+      "status": "rejected",
+      "priority": 1,
+      "notes": "酒瓶上下均被裁切，餐桌花纹与罐头等杂物干扰，标签偏软，不适合作为商品图。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "9ea27f5f635669eebe118f27fdbb52ed24ed04845fa32489bf8c2f77a0403bf4"
+    },
+    {
+      "asset": "img-04c3f4949a49",
+      "file": "Weißwurst-1.jpg",
+      "cards": [
+        "food-munich-0"
+      ],
+      "subjects": [
+        "白香肠（Weißwurst）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wei%C3%9Fwurst-1.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "白香肠及切面、椒盐卷饼和芥末完整清楚，单盘背景简洁，食物本色自然。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "9dfa38ab9f957da53c5b082a203c600e2fd6c74bac42e1b0c1b81710224c36f5"
+    },
+    {
+      "asset": "img-061257e536f3",
+      "file": "Wuzetka_edit.JPG",
+      "cards": [
+        "food-pl-wuzetka"
+      ],
+      "subjects": [
+        "Wuzetka · 华沙可可奶油蛋糕"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Wuzetka_edit.JPG",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "蛋糕照片颗粒明显、对比生硬，奶油高光与暗部失去层次，蓝色花盘抢占视线。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "d6774ade974d091920821abd7225a79c2d6553b74c28be6402ef6111a2cdb9df"
+    },
+    {
+      "asset": "img-07b19600c450",
+      "file": "Franzbroetchen.wmt.jpg",
+      "cards": [
+        "food-hamburg-1"
+      ],
+      "subjects": [
+        "肉桂卷（Franzbrötchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Franzbroetchen.wmt.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "肉桂卷形态完整，烘烤纹理与颜色自然，单盘背景简洁，无明显杂物遮挡。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "a12da0cf2b6abcf6c18af05893a0ec0cbc97e3925453209ab70dd6fe665e44ce"
+    },
+    {
+      "asset": "img-08659106591c",
+      "file": "Aringa-marinato.jpg",
+      "cards": [
+        "food-pl-sledz"
+      ],
+      "subjects": [
+        "Śledź · 鲱鱼小食"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Aringa-marinato.jpg",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "直闪使鱼皮泛灰发亮，花纹桌布抢占画面，整体食物呈现生硬。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "1465350389bce4149a997f7459de168031667f62479ce8345e0ddb44563f38c7"
+    },
+    {
+      "asset": "img-0997e4e0603e",
+      "file": "Debrecziner.jpg",
+      "cards": [
+        "food-debrecen-0"
+      ],
+      "subjects": [
+        "德布勒森香肠（debreceni）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Debrecziner.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "香肠主体完整、色泽自然，面包与配菜说明食用搭配，白底清楚简洁。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "081621020dde2d5dc757225cafd46df489deba59482a1f393cf0210a8a9e8a45"
+    },
+    {
+      "asset": "img-0c01d875298b",
+      "file": "Langos_Eger_Hungary.jpg",
+      "cards": [
+        "food-budapest-2"
+      ],
+      "subjects": [
+        "兰戈什（lángos）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Langos_Eger_Hungary.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "兰戈什饼完整，酥皮、酸奶油与奶酪细节清楚，日光下色彩正常。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "34d019a0d7e155df87f0b5cd38e4da865e424a1f810bf81e53feff54b4bc9938"
+    },
+    {
+      "asset": "img-0cd3d2b4973a",
+      "file": "Leberkäse-1.jpg",
+      "cards": [
+        "food-vienna-leberkase"
+      ],
+      "subjects": [
+        "Leberkäse · 熟肉烤块"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Leberk%C3%A4se-1.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "熟肉烤块的切面和烤皮清楚，主体完整、光线均匀，白色背景干净。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "79d5c243c9c140ac451f43b89aecb0139ed0cc6970fb6f3c2e85c1cc200953b7"
+    },
+    {
+      "asset": "img-0eb1d9f3631d",
+      "file": "Smoki_grickalica.jpg",
+      "cards": [
+        "food-rs-smoki"
+      ],
+      "subjects": [
+        "Smoki 花生玉米零食"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Smoki_grickalica.jpg",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "单颗零食强烈过曝，大片黑影和桌面占据画面，没有可辨认的 Smoki 品牌包装。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "b58b2ebfc6dcbb76e610b9168e02b7cc76b53b090e25815a95251e99b79f852c"
+    },
+    {
+      "asset": "img-0ff5ec65d125",
+      "file": "Reibekuchen_mit_Apfelmus.jpg",
+      "cards": [
+        "food-berlin-4",
+        "food-munich-4",
+        "food-hamburg-4",
+        "food-cologne-4"
+      ],
+      "subjects": [
+        "土豆煎饼（Reibekuchen）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Reibekuchen_mit_Apfelmus.jpg",
+      "status": "approved",
+      "priority": 2,
+      "notes": "土豆煎饼焦脆纹理与苹果酱清楚，主盘完整，颜色自然且有食欲。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "dbbbc385e3ee47d7a7bc43dae8bda6c3dde0b604960d14f01eb52457ee9f1310"
+    },
+    {
+      "asset": "img-13b631056ab6",
+      "file": "20220430_currywurst.jpg",
+      "cards": [
+        "food-berlin-0"
+      ],
+      "subjects": [
+        "咖喱香肠（Currywurst）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:20220430_currywurst.jpg",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "近距离裁切使香肠和餐盘不完整，叉子、纸巾及涂抹开的酱汁让画面杂乱。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "d4868c6aeeb444781bae9bc7160eed9fd7e252d9e96b10e1d13893cbe21333b0"
+    },
+    {
+      "asset": "img-1ba97e224250",
+      "file": "Pfannkuchen_mit_Zucker.jpg",
+      "cards": [
+        "food-vienna-palatschinken"
+      ],
+      "subjects": [
+        "奥地利薄煎饼"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Pfannkuchen_mit_Zucker.jpg",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "直闪下薄煎饼偏灰发黄，蓝色玻璃盘反光强烈，整体缺少自然明亮的食物呈现。",
+      "reviewedAt": "2026-11-08",
+      "method": "下载原图后逐张目视检查缩放视图，核对主体、清晰度、光色、背景及商品可辨识度。",
+      "originalSha256": "3c7b1b5fa7a6d00e076b8d31b87fd8516d6c79e848b7cebe7227f16731351436"
+    },
+    {
+      "asset": "img-66bf3ec850bb",
+      "file": "2015_0718_Käsespätzle_Sölden.jpg",
+      "cards": [
+        "food-salzburg-2"
+      ],
+      "subjects": [
+        "卡斯诺肯（Kasnocken）"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:2015_0718_K%C3%A4sesp%C3%A4tzle_S%C3%B6lden.jpg",
+      "status": "rejected",
+      "priority": 2,
+      "notes": "来源明确是蒂罗尔 Käsespätzle，与卡片 Kasnocken 的面团形态和名称不一致，不能仅因同为奶酪面食而复用。",
+      "reviewedAt": "2026-11-08",
+      "method": "来源元数据已明确主题错配，未经视觉审核即撤下；不计入已目视审核数量。",
+      "originalSha256": null
     }
   ]
 }
