@@ -254,6 +254,13 @@ const cardCategories = {
       "description": "适合步行逛街的商圈与购物地点，营业安排以各店为准。"
     },
     {
+      "id": "living-costs",
+      "category": "facts",
+      "name": "物价与开销",
+      "icon": "🧾",
+      "description": "从基本食品、外食、通勤、住房与居民家庭账本认识日常负担；每张卡保留统计年份、币种和人均／每户／税前口径。全国平均不代替城市报价。"
+    },
+    {
       "id": "daily",
       "category": "facts",
       "name": "日常 / 应急",

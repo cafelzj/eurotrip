@@ -20,7 +20,8 @@ window.KnowledgeHub=(()=>{
  }
  function mapUrl(n){const binding=mapBinding(n);if(binding.mode==='none')return '';const {country,city}=destinationFor(n);return '#map/'+(city?.id||country.id)+'?'+(binding.mode==='fixed'?'focus=':'search=')+encodeURIComponent(n.id);}
  function rememberDestination(country,city){if(active?.country.id!==country.id||active?.city?.id!==city?.id)active={country,city,zone:'all',q:'',kind:'all',view:preferredView,feedLimit:24,at:'',limits:{},openGroups:{}};if(!isChina(country)){lastCountry=country.id;try{sessionStorage.setItem('eurotrip-country',country.id);}catch{}}}
- function scoped(country,city){return [...G.nodes.values()].filter(n=>!n.collectionHidden&&category(n)&&(city?cityIds(n).some(id=>isChina(country)?ChinaRegions.contains(city,id):id===city.id)||n.type==='tip'&&!cityIds(n).length&&(countryIds(n).includes(country.id)):countryIds(n).includes(country.id)));}
+ function nationalReference(n){return n.type==='tip'||n.subcategory==='living-costs';}
+ function scoped(country,city){return [...G.nodes.values()].filter(n=>!n.collectionHidden&&category(n)&&(city?cityIds(n).some(id=>isChina(country)?ChinaRegions.contains(city,id):id===city.id)||nationalReference(n)&&!cityIds(n).length&&(countryIds(n).includes(country.id)):countryIds(n).includes(country.id)));}
  function finalize(){const reachable=new Set(travelCountries.flatMap(c=>scoped(c,null).map(n=>n.id)));G.prune(n=>reachable.has(n.id));for(const n of G.nodes.values())if(n.live)G.linkLive(n);}
  function subtype(n){return subcategories.get(n.subcategory)?.name||'其他地点';}
  function subtypeDescription(name){return subcategoriesByName.get(name)?.description||'';}
@@ -86,9 +87,9 @@ window.KnowledgeHub=(()=>{
  }
  active.mapNodes=filtered;active.mapUniverse=searched;history.replaceState(null,'',currentUrl());window.FloatingMap?.sync();}
  function brandPriority(n){const k=subtype(n);return k==='超市'?0:k==='银行'?1:k==='药妆 / 日用'?2:3;}
- function card(n){const owners=cityIds(n),countries=countryIds(n),broad=active.city&&n.type==='tip'&&!owners.length;
+ function card(n){const owners=cityIds(n),countries=countryIds(n),broad=active.city&&nationalReference(n)&&!owners.length;
  const labels=owners.map(id=>travelCities.find(c=>c.id===id)?.name).filter(Boolean);
- const location=broad?'本城同样适用 · 全国 / 通用':active.city&&owners.includes(active.city.id)?active.city.name:labels.length?labels.slice(0,2).join(' / ')+(labels.length>2?' 等'+labels.length+'城':''):countries.map(id=>travelCountries.find(c=>c.id===id)?.name).filter(Boolean).join(' / ');
+ const location=broad?(n.subcategory==='living-costs'?'全国参考':'本城同样适用 · 全国 / 通用'):active.city&&owners.includes(active.city.id)?active.city.name:labels.length?labels.slice(0,2).join(' / ')+(labels.length>2?' 等'+labels.length+'城':''):countries.map(id=>travelCountries.find(c=>c.id===id)?.name).filter(Boolean).join(' / ');
  const points=mappedPoints(n),pin=window.FloatingMap?.pinLabel(points[0]?.id);return `<article class="hub-card" data-card-theme="${category(n)}" data-knowledge-card="${h(n.id)}" id="knowledge-${h(n.id)}"><div class="hub-card-header"><div class="hub-card-heading"><a class="hub-card-title" href="${G.url(n.id)}"><h4>${h(n.name)}</h4></a>${n.subtitle||n.local?`<div class="hub-local">${h(n.subtitle||n.local)}</div>`:''}</div><div class="hub-card-meta"><span><i aria-hidden="true">${iconForNode(n)}</i> ${h(subtype(n))}</span><small>${h(location)}</small></div></div>${window.CardImages?.card(n)||CardArt.render(n)}<p>${h(n.description)}</p><div class="hub-card-bottom"><a class="hub-detail-action" href="${G.url(n.id)}">查看详情 →</a>${mapBinding(n).mode==='dynamic'?`<a class="card-pin-action" href="${mapUrl(n)}">⌕ 动态搜索</a>`:points.length?`<button class="card-pin-action" data-map-card="${h(n.id)}"><b>${h(pin||'⌖')}</b> 地图定位</button>`:''}</div></article>`;}
  function bind(root){
   if(!root.querySelector('.knowledge-hub'))return;

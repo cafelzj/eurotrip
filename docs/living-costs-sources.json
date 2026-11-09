@@ -1,0 +1,216 @@
+{
+  "checked": "2026-11-09",
+  "scope": "15 cards across six European countries. Values are dated facts, not live quotes or minimum living budgets.",
+  "sources": [
+    {
+      "id": "hu-house-csv",
+      "url": "https://www.ksh.hu/stadat_files/jov/en/jov0001.csv",
+      "checked": "2026-11-09",
+      "period": "2025",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "d298cda14b5ec67aa379b587c2676f823014128f9050e68c8fb81ec4638cca43",
+      "extract": "Annual consumption expenditure per capita of households, HUF: 2 165 108; annual net income: 2 992 279; basic expenditure ratio: 56.3%",
+      "cards": [
+        "living-hu-household"
+      ]
+    },
+    {
+      "id": "hu-food-csv",
+      "url": "https://www.ksh.hu/stadat_files/ara/en/ara0004.csv",
+      "checked": "2026-11-09",
+      "period": "2025",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "cd7326f01509a7d94dc3e9342dc801e0e9e53a643d1fa2bb4af58c762a05b772",
+      "extract": "White bread kg 925; long-life milk 2.8% litre 430; eggs 10 pieces 900; espresso coffee double portion 589",
+      "cards": [
+        "living-hu-groceries"
+      ]
+    },
+    {
+      "id": "at-house-pdf",
+      "url": "https://www.statistik.at/fileadmin/announcement/2026/03/20260304Konsumerhebung202425EN.pdf",
+      "checked": "2026-11-09",
+      "period": "2024/25",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "9d427e52c187932ee117feac3961c8d703c35aaa67e5c09ab0baf18aeeb1b879",
+      "extract": "Average monthly household expenditure EUR 4 170; employed single-person households EUR 3 080; monthly equivalent expenditure EUR 2 760; housing and energy EUR 1 100; food and non-alcoholic beverages EUR 484",
+      "cards": [
+        "living-at-household"
+      ]
+    },
+    {
+      "id": "at-rents",
+      "url": "https://www.statistik.at/en/statistics/population-and-society/housing/housing-costs",
+      "checked": "2026-11-09",
+      "period": "2026-Q2",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "bbfeb6833607cd41b640500c51463736777ec8e45cab31283de6cd3d6b5aca18",
+      "extract": "Average rent including running costs per dwelling 694.7 EUR; per square metre 10.5 EUR; main residences",
+      "cards": [
+        "living-at-rent"
+      ]
+    },
+    {
+      "id": "at-wien",
+      "url": "https://www.wienerlinien.at/web/wl-en/annual-pass",
+      "checked": "2026-11-09",
+      "period": "2026",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "5ca9139980a590ae5fcb0b29ed1dfb6e1baa42b26fc1474d0fb96c3d04c9c062",
+      "extract": "Annual Pass VIENNA EUR from 461.00; one year in Vienna core zone; fare adjustment announced effective 2027-01-01",
+      "cards": [
+        "living-vienna-pass"
+      ]
+    },
+    {
+      "id": "de-total",
+      "url": "https://www.destatis.de/EN/Themes/Society-Environment/Income-Consumption-Living-Conditions/Consumption-Expenditure/Tables/private-consumption-d-lwr.html",
+      "checked": "2026-11-09",
+      "period": "2024",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "911c23718f9332059977b516df4031323c475e82fc4b734f520be1d5188aa9e0",
+      "extract": "Private consumption expenditure total 3257; food, beverages and tobacco 457; housing, energy, maintenance 1181; transport 448; EUR per household and month",
+      "cards": [
+        "living-de-household"
+      ]
+    },
+    {
+      "id": "de-size",
+      "url": "https://www.destatis.de/EN/Themes/Society-Environment/Income-Consumption-Living-Conditions/Consumption-Expenditure/Tables/private-consumption-ngt-size-evs.html",
+      "checked": "2026-11-09",
+      "period": "2023",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "203e5406bfcd270cc377f14ed4be77107bfe11f2b571931f1262320c92285ecd",
+      "extract": "Food, beverages and tobacco: households total 430; single-person households 269; two-person households 477; monthly EUR",
+      "cards": [
+        "living-de-groceries"
+      ]
+    },
+    {
+      "id": "de-dticket-official",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlandticket-2134074",
+      "checked": "2026-11-09",
+      "period": "2026",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "2abb1e3b9aacf04d574a0eec869812a17358068804ddb7980a80447d0fad0651",
+      "extract": "Seit Januar 2026 kostet es monatlich 63 Euro. Zum 1. Januar 2027 steigt der Preis ... von 63 auf 66,80 Euro im Monat.",
+      "cards": [
+        "living-de-commute"
+      ]
+    },
+    {
+      "id": "si-food-data",
+      "url": "https://pxweb.stat.si/SiStatData/api/v1/en/Data/0411005S.px",
+      "checked": "2026-11-09",
+      "period": "2025",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "371f2b9bfddf49e630ead705b3613ab5899f38b1577bb1e24cdaed30b44db855",
+      "extract": "Average annual retail prices EUR: bread kg 3.84; UHT whole milk l 1.14; eggs 10 pieces 2.43; menu lunch portion 14.59; black coffee espresso cup 1.86",
+      "cards": [
+        "living-si-groceries",
+        "living-si-lunch"
+      ],
+      "requestMethod": "POST",
+      "query": {
+        "query": [
+          {
+            "code": "IZDELKI IN STORITVE",
+            "selection": {
+              "filter": "item",
+              "values": [
+                "0111301000",
+                "0114102000",
+                "0114701000",
+                "1111199200",
+                "1111199320"
+              ]
+            }
+          },
+          {
+            "code": "MERITVE",
+            "selection": {
+              "filter": "item",
+              "values": [
+                "1"
+              ]
+            }
+          },
+          {
+            "code": "LETO",
+            "selection": {
+              "filter": "item",
+              "values": [
+                "2025"
+              ]
+            }
+          }
+        ],
+        "response": {
+          "format": "json-stat2"
+        }
+      }
+    },
+    {
+      "id": "si-lpp-pdf",
+      "url": "https://www.lpp.si/wp-content/uploads/2026/10/PRICE-LIST-OF-TICKETS-FOR-LJUBLJANA-CITY-PUBLIC-TRANSPORT-AND-INTEGRATED-LINES-1.-9.-2026_EN.pdf",
+      "checked": "2026-11-09",
+      "period": "from 2026-09-01",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "6fbf9e1b0a84a09f8175f0da19be57c282a17dbab000d756a76ad6c0f2ece871",
+      "extract": "Zone 1 adults monthly 37.00; annual 365.00; Urbana credit single fare with transfers within 90 minutes 1.50; EMV single fare 1.50",
+      "cards": [
+        "living-ljubljana-pass"
+      ]
+    },
+    {
+      "id": "rs-house-content",
+      "url": "https://publikacije.stat.gov.rs/G2026/htmlE/G20261099.html",
+      "checked": "2026-11-09",
+      "period": "2025",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "5708e219dbfdf4e86b7b1f37a55fe63dae154baedd024d288fef173a3cce17c2",
+      "extract": "Household monthly: consumption 109787 RSD, income money and kind 109136 RSD, 2.57 persons; food 40169; housing and utilities 17659. Belgrade region consumption 121420, income 126518, 2.42 persons; food 41317, housing 19332.",
+      "cards": [
+        "living-rs-household",
+        "living-belgrade-household"
+      ]
+    },
+    {
+      "id": "euro-pli",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/prc_ppp_ind?lang=en&geo=PL&na_item=PLI_EU27_2020&time=2024",
+      "checked": "2026-11-09",
+      "period": "2024",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "4845976eeeb5cd014a8ed8592bcd699e04859628152d74ade576af189c13a340",
+      "extract": "PLI_EU27_2020 (EU=100), Poland: E011 72.2; A0101 86.8; A0103 103.1. COICOP 1999 analytical categories.",
+      "cards": [
+        "living-pl-price-level"
+      ]
+    },
+    {
+      "id": "pl-min-wage",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/earn_mw_cur?lang=en&geo=PL&currency=NAC&time=2026-S2",
+      "checked": "2026-11-09",
+      "period": "2026-S2",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "dd38b33612c9ea0b6d9793c19ed6ecc28248478c9510e174b49ed96541f1f58e",
+      "extract": "National currency, Poland: 4806; monthly statutory minimum wage.",
+      "cards": [
+        "living-pl-wage"
+      ],
+      "retrievedUrl": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/earn_mw_cur?lang=en&geo=PL&currency=NAC&lastTimePeriod=1"
+    },
+    {
+      "id": "euro-wage-meta",
+      "url": "https://ec.europa.eu/eurostat/cache/metadata/en/earn_minw_esms.htm",
+      "checked": "2026-11-09",
+      "period": "methodology",
+      "method": "Read official source content; extracted table values. Not search snippets.",
+      "downloadSha256": "5fbb0c53cdd610bdbb43309ed4a06fc1f6cd6d61740ae77113de1ff7d205835c",
+      "extract": "Minimum wages are gross amounts, that is, before deduction of income tax and social security contributions.",
+      "cards": [
+        "living-pl-wage"
+      ]
+    }
+  ]
+}
