@@ -54,22 +54,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:P%C3%B6rk%C3%B6lt.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/P%C3%B6rk%C3%B6lt.jpg/960px-P%C3%B6rk%C3%B6lt.jpg"
-    },
-    "img-6e306dd06365": {
-      "file": "Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
-      "src": "assets/photos/food/img-6e306dd06365.jpg",
-      "width": 960,
-      "height": 640,
-      "kind": "food",
-      "alt": "多博什蛋糕（Dobos torta）实拍",
-      "caption": "多博什蛋糕（Dobos torta） · 实拍",
-      "author": "Savannah Grandfather",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Dobos_cake_(Gerbeaud_Confectionery_Budapest_Hungary).jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg/960px-Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/P%C3%B6rk%C3%B6lt.jpg/960px-P%C3%B6rk%C3%B6lt.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "炖肉、浓汁和面疙瘩配食清楚，明亮均匀的餐桌光，肉块与酱汁呈现自然有食欲。"
+      }
     },
     "img-0997e4e0603e": {
       "file": "Debrecziner.jpg",
@@ -104,7 +94,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Chicken_Paprikash_(Csirke_Paprik%C3%A1s).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg/960px-Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg/960px-Chicken_Paprikash_%28Csirke_Paprik%C3%A1s%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "鸡肉、红椒奶油汁、面疙瘩清楚可辨，橙红酱色与白盘正常，成品完整。"
+      }
     },
     "img-f8712dad2a01": {
       "file": "Wiener-Schnitzel02.jpg",
@@ -119,22 +114,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Wiener-Schnitzel02.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/960px-Wiener-Schnitzel02.jpg"
-    },
-    "img-570105ccf688": {
-      "file": "Sachertorte_DSC03027.JPG",
-      "src": "assets/photos/food/img-570105ccf688.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "萨赫蛋糕（Sachertorte）实拍",
-      "caption": "萨赫蛋糕（Sachertorte） · 实拍",
-      "author": "David Monniaux",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Sachertorte_DSC03027.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sachertorte_DSC03027.JPG/960px-Sachertorte_DSC03027.JPG"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/960px-Wiener-Schnitzel02.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "维也纳炸肉排金黄面衣与完整大块清楚，柠檬、沙拉配食自然，主体有食欲。"
+      }
     },
     "img-8b69cb9844fe": {
       "file": "Strudel.jpg",
@@ -149,22 +134,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Strudel.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/960px-Strudel.jpg"
-    },
-    "img-35dc67bcfb40": {
-      "file": "Tafelspitz.jpg",
-      "src": "assets/photos/food/img-35dc67bcfb40.jpg",
-      "width": 960,
-      "height": 640,
-      "kind": "food",
-      "alt": "清煮牛肉（Tafelspitz）实拍",
-      "caption": "清煮牛肉（Tafelspitz） · 实拍",
-      "author": "RobertK",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "source": "https://commons.wikimedia.org/wiki/File:Tafelspitz.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tafelspitz.jpg/960px-Tafelspitz.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/960px-Strudel.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "苹果卷酥皮、糖粉及苹果馅切面层次清楚，颜色自然金黄，背景简洁，有食欲。"
+      }
     },
     "img-d96226f01b13": {
       "file": "2015_0731_Kaiserschmarrn_Apfelsoße_Edelweisshütte_Sölden.jpg",
@@ -179,7 +154,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg/960px-2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg/960px-2015_0731_Kaiserschmarrn_Apfelso%C3%9Fe_Edelweissh%C3%BCtte_S%C3%B6lden.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "皇帝煎饼切块、糖粉、焦香表面与苹果酱清楚，明亮自然光，主体有食欲。"
+      }
     },
     "img-392c384ef3a3": {
       "file": "Salzburger_Nockerln_04_gastronomie_001.jpg",
@@ -194,7 +174,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Salzburger_Nockerln_04_gastronomie_001.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/960px-Salzburger_Nockerln_04_gastronomie_001.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/960px-Salzburger_Nockerln_04_gastronomie_001.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "舒芙蕾三座山形完整，表皮金黄与糖粉清楚，自然暖色餐桌光，背景虚化不抢主体。"
+      }
     },
     "img-d4270b2e0b74": {
       "file": "Berggasthof_Haldenhof_-_Käsknöpfle_(1).jpg",
@@ -209,7 +194,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_(1).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/960px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/960px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "奶酪面疙瘩与炸洋葱清楚，成品铺满盘面，木桌自然光正常；仅匹配Käsespätzle，不用于Kasnocken。"
+      }
     },
     "img-290e1e7f6c58": {
       "file": "Tiroler_Gröstl_Herrsching.jpg",
@@ -224,7 +214,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Tiroler_Gr%C3%B6stl_Herrsching.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tiroler_Gr%C3%B6stl_Herrsching.jpg/960px-Tiroler_Gr%C3%B6stl_Herrsching.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tiroler_Gr%C3%B6stl_Herrsching.jpg/960px-Tiroler_Gr%C3%B6stl_Herrsching.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "蒂罗尔煎锅中土豆与肉片完整清晰，金黄煎面和香草颜色自然，餐桌背景没有遮挡主菜。"
+      }
     },
     "img-3d67f3493c61": {
       "file": "Berliner-Pfannkuchen.jpg",
@@ -239,22 +234,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Berliner-Pfannkuchen.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berliner-Pfannkuchen.jpg/960px-Berliner-Pfannkuchen.jpg"
-    },
-    "img-cd4372a5a382": {
-      "file": "Heldrunger_Sauerbraten_2.JPG",
-      "src": "assets/photos/food/img-cd4372a5a382.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "酸炖牛肉（Sauerbraten）实拍",
-      "caption": "酸炖牛肉（Sauerbraten） · 实拍",
-      "author": "Dr. Bernd Gross",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Heldrunger_Sauerbraten_2.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/960px-Heldrunger_Sauerbraten_2.JPG"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berliner-Pfannkuchen.jpg/960px-Berliner-Pfannkuchen.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "整颗与切开的柏林甜甜圈并置，糖粉、面包体和果酱馅清楚，背景与盘面简洁，光线正常。"
+      }
     },
     "img-0ff5ec65d125": {
       "file": "Reibekuchen_mit_Apfelmus.jpg",
@@ -296,51 +281,6 @@ const cardImages = {
       },
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wei%C3%9Fwurst-1.jpg/960px-Wei%C3%9Fwurst-1.jpg"
     },
-    "img-28b36e97d075": {
-      "file": "BrezelnSalz02_(cropped).JPG",
-      "src": "assets/photos/food/img-28b36e97d075.jpg",
-      "width": 960,
-      "height": 678,
-      "kind": "food",
-      "alt": "椒盐卷饼（Brezel）实拍",
-      "caption": "椒盐卷饼（Brezel） · 实拍",
-      "author": "Sundar1",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BrezelnSalz02_%28cropped%29.JPG/960px-BrezelnSalz02_%28cropped%29.JPG"
-    },
-    "img-566f7e39c29f": {
-      "file": "00ane_Haxen.jpg",
-      "src": "assets/photos/food/img-566f7e39c29f.jpg",
-      "width": 845,
-      "height": 634,
-      "kind": "food",
-      "alt": "猪肘（Schweinshaxe）实拍",
-      "caption": "猪肘（Schweinshaxe） · 实拍",
-      "author": "Erich Ferdinand",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:00ane_Haxen.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/54/00ane_Haxen.jpg"
-    },
-    "img-6bd036f4c454": {
-      "file": "Fischbroetchen_01_(fcm).jpg",
-      "src": "assets/photos/food/img-6bd036f4c454.jpg",
-      "width": 960,
-      "height": 515,
-      "kind": "food",
-      "alt": "鱼面包（Fischbrötchen）实拍",
-      "caption": "鱼面包（Fischbrötchen） · 实拍",
-      "author": "Frank C. Müller, Baden-Baden",
-      "license": "CC BY-SA 2.0 de",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
-      "source": "https://commons.wikimedia.org/wiki/File:Fischbroetchen_01_(fcm).jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fischbroetchen_01_%28fcm%29.jpg/960px-Fischbroetchen_01_%28fcm%29.jpg"
-    },
     "img-07b19600c450": {
       "file": "Franzbroetchen.wmt.jpg",
       "src": "assets/photos/food/img-07b19600c450.jpg",
@@ -374,7 +314,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Hamburger_Labskaus_1.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburger_Labskaus_1.jpg/960px-Hamburger_Labskaus_1.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamburger_Labskaus_1.jpg/960px-Hamburger_Labskaus_1.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Labskaus、煎蛋、甜菜根、酸黄瓜与鱼卷完整可辨，盘面干净，食物颜色自然；说明成菜搭配，不冒充单一原料。"
+      }
     },
     "img-821d30aac48a": {
       "file": "2018-10-28-Halve_Hahn-9090.jpg",
@@ -389,7 +334,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2018-10-28-Halve_Hahn-9090.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2018-10-28-Halve_Hahn-9090.jpg/960px-2018-10-28-Halve_Hahn-9090.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2018-10-28-Halve_Hahn-9090.jpg/960px-2018-10-28-Halve_Hahn-9090.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "黑麦面包、奶酪、洋葱与芥末的Halve Hahn搭配完整清晰，背景整洁，食材本色正常，没有冒充鸡肉。"
+      }
     },
     "img-b3a6ab84245f": {
       "file": "Sportszelet1.jpg",
@@ -856,51 +806,6 @@ const cardImages = {
       "checked": "2026-11-07",
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adenauer_Bouserath3.jpg/960px-Adenauer_Bouserath3.jpg"
     },
-    "img-e71388e0d7d6": {
-      "file": "Trappista_cheese_original.jpg",
-      "src": "assets/photos/food/img-e71388e0d7d6.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "Trappista 奶酪实拍",
-      "caption": "Trappista 奶酪 · 实拍",
-      "author": "Shabicht",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Trappista_cheese_original.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trappista_cheese_original.jpg/960px-Trappista_cheese_original.jpg"
-    },
-    "img-baaf98ddf4ec": {
-      "file": "Austrian_mountain_cheese.JPG",
-      "src": "assets/photos/food/img-baaf98ddf4ec.jpg",
-      "width": 960,
-      "height": 737,
-      "kind": "food",
-      "alt": "Bergkäse 山地奶酪实拍",
-      "caption": "Bergkäse 山地奶酪 · 实拍",
-      "author": "Wald1siedel",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Austrian_mountain_cheese.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Austrian_mountain_cheese.JPG/960px-Austrian_mountain_cheese.JPG"
-    },
-    "img-f592e91d8fb8": {
-      "file": "Cevapi_s_kajmakom.jpg",
-      "src": "assets/photos/food/img-f592e91d8fb8.jpg",
-      "width": 800,
-      "height": 450,
-      "kind": "food",
-      "alt": "切瓦皮烤肉条实拍",
-      "caption": "切瓦皮烤肉条 · 实拍",
-      "author": "Christian Paul from Vancouver, Canada",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Cevapi_s_kajmakom.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cevapi_s_kajmakom.jpg"
-    },
     "img-bdde6d295741": {
       "file": "Pleskavitsa.JPG",
       "src": "assets/photos/food/img-bdde6d295741.jpg",
@@ -914,22 +819,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pleskavitsa.JPG",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pleskavitsa.JPG/960px-Pleskavitsa.JPG"
-    },
-    "img-deb96516ae8c": {
-      "file": "Burek_trokut_1.png",
-      "src": "assets/photos/food/img-deb96516ae8c.jpg",
-      "width": 574,
-      "height": 410,
-      "kind": "food",
-      "alt": "布雷克酥皮馅饼实拍",
-      "caption": "布雷克酥皮馅饼 · 实拍",
-      "author": "Nikola Škorić",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "source": "https://commons.wikimedia.org/wiki/File:Burek_trokut_1.png",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/13/Burek_trokut_1.png"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pleskavitsa.JPG/960px-Pleskavitsa.JPG",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "烤肉饼主体与烤纹清晰，配菜完整，光线充足，虽为直闪但肉饼质感和本色可辨。"
+      }
     },
     "img-c7ae4d058b69": {
       "file": "Gibanica_single_slice_with_full_pie_in_background.jpg",
@@ -944,37 +839,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Gibanica_single_slice_with_full_pie_in_background.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gibanica_single_slice_with_full_pie_in_background.jpg"
-    },
-    "img-62a953decd0f": {
-      "file": "Serbian_Sarma.jpg",
-      "src": "assets/photos/food/img-62a953decd0f.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "酸卷心菜包肉实拍",
-      "caption": "酸卷心菜包肉 · 实拍",
-      "author": "Goran Andjelic",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Serbian_Sarma.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Serbian_Sarma.jpg/960px-Serbian_Sarma.jpg"
-    },
-    "img-5d7115f82803": {
-      "file": "Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
-      "src": "assets/photos/food/img-5d7115f82803.jpg",
-      "width": 640,
-      "height": 480,
-      "kind": "food",
-      "alt": "烤豆煲实拍",
-      "caption": "烤豆煲 · 实拍",
-      "author": "Verica 1966",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Prebranac_i_stara_paelja_drvena,_Srbija.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/40/Prebranac_i_stara_paelja_drvena%2C_Srbija.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gibanica_single_slice_with_full_pie_in_background.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "奶酪派切面和酥皮层清楚，内馅与金黄表皮自然，背景整派虚化不抢主体。"
+      }
     },
     "img-210a2b6cea27": {
       "file": "Türk_Kahvesi_-_Bakir_Cezve.jpg",
@@ -1039,37 +909,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6lt%C3%B6tt_k%C3%A1poszta,_2.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg/960px-T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg"
-    },
-    "img-d25fe539ee71": {
-      "file": "Hortobagy_palacsinta.JPG",
-      "src": "assets/photos/food/img-d25fe539ee71.jpg",
-      "width": 960,
-      "height": 640,
-      "kind": "food",
-      "alt": "霍尔托巴吉肉馅煎饼实拍",
-      "caption": "霍尔托巴吉肉馅煎饼 · 实拍",
-      "author": "I, Themightyquill",
-      "license": "CC BY 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
-      "source": "https://commons.wikimedia.org/wiki/File:Hortobagy_palacsinta.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hortobagy_palacsinta.JPG/960px-Hortobagy_palacsinta.JPG"
-    },
-    "img-a003d1f02d72": {
-      "file": "Túróstészta.jpg",
-      "src": "assets/photos/food/img-a003d1f02d72.jpg",
-      "width": 960,
-      "height": 820,
-      "kind": "food",
-      "alt": "凝乳拌面实拍",
-      "caption": "凝乳拌面 · 实拍",
-      "author": "Christo",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:T%C3%BAr%C3%B3st%C3%A9szta.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%BAr%C3%B3st%C3%A9szta.jpg/960px-T%C3%BAr%C3%B3st%C3%A9szta.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg/960px-T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "卷心菜卷成品、酱汁与酸奶油配料清楚，摆盘完整，自然餐桌光线，主题与卡片相符。"
+      }
     },
     "img-7d3f5d42a263": {
       "file": "Warm_Colors-_my_Mom's_Hungarian_Lecsó_cropped.jpg",
@@ -1084,22 +929,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg/960px-Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg"
-    },
-    "img-38f929355550": {
-      "file": "Somloi-galuska.JPG",
-      "src": "assets/photos/food/img-38f929355550.jpg",
-      "width": 960,
-      "height": 638,
-      "kind": "food",
-      "alt": "绍姆洛伊海绵蛋糕甜点实拍",
-      "caption": "绍姆洛伊海绵蛋糕甜点 · 实拍",
-      "author": "Illustratedjc",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Somloi-galuska.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somloi-galuska.JPG/960px-Somloi-galuska.JPG"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg/960px-Warm_Colors-_my_Mom%27s_Hungarian_Lecs%C3%B3_cropped.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "红椒番茄洋葱炖菜内容清楚，暖色食材与简洁深色背景分离，成品占比充分，无器皿杂物干扰。"
+      }
     },
     "img-1e519e0a9c9f": {
       "file": "Bejgli1.jpg",
@@ -1107,14 +942,19 @@ const cardImages = {
       "width": 960,
       "height": 726,
       "kind": "food",
-      "alt": "核桃 / 罂粟籽卷实拍",
-      "caption": "核桃 / 罂粟籽卷 · 实拍",
+      "alt": "匈牙利 Bejgli 核桃与罂粟籽卷 · 甜点类型示例，非指定店铺出品",
+      "caption": "匈牙利 Bejgli 核桃与罂粟籽卷 · 甜点类型示例，非指定店铺出品",
       "author": "Hu Totya",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Bejgli1.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bejgli1.jpg/960px-Bejgli1.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bejgli1.jpg/960px-Bejgli1.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "核桃与罂粟籽卷及切面完整清晰，面皮金黄、颜色自然，摆盘干净，填馅层次可辨。"
+      }
     },
     "img-c5ebe95b0119": {
       "file": "Pogácsa.jpg",
@@ -1129,7 +969,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Pog%C3%A1csa.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pog%C3%A1csa.jpg/960px-Pog%C3%A1csa.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pog%C3%A1csa.jpg/960px-Pog%C3%A1csa.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "咸味小圆饼烤皮、奶酪与多层面体可辨，盘面干净，温暖颜色自然。"
+      }
     },
     "img-fb325b14de1b": {
       "file": "Gróf_Széchenyi_István.jpg",
@@ -1189,7 +1034,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:K%C3%A4sekrainer.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K%C3%A4sekrainer.jpg/960px-K%C3%A4sekrainer.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K%C3%A4sekrainer.jpg/960px-K%C3%A4sekrainer.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "奶酪香肠与切面完整，奶酪粒可辨，明亮自然光与简洁白盘，配食没有遮挡主角；只说明Käsekrainer示例。"
+      }
     },
     "img-0cd3d2b4973a": {
       "file": "Leberkäse-1.jpg",
@@ -1224,7 +1074,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Frittatensuppe.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Frittatensuppe.jpg/960px-Frittatensuppe.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Frittatensuppe.jpg/960px-Frittatensuppe.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "煎饼丝的焦香表面、清汤和葱花清楚，白碗干净，光色自然，主体占比充分。"
+      }
     },
     "img-c83b9c981f8b": {
       "file": "Quarkstrudel_01.jpg",
@@ -1239,7 +1094,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Quarkstrudel_01.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quarkstrudel_01.jpg/960px-Quarkstrudel_01.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Quarkstrudel_01.jpg/960px-Quarkstrudel_01.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "凝乳卷切块完整，薄皮、凝乳与葡萄干结构清楚，背景干净，乳黄色正常。"
+      }
     },
     "img-b58018a85ed9": {
       "file": "Buchteln.jpg",
@@ -1254,7 +1114,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Buchteln.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Buchteln.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Buchteln.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "酵母面包团外皮金黄、内部松软组织可见，白盘与背景简洁；原图分辨率有限但主体清楚。"
+      }
     },
     "img-f0eaa703f328": {
       "file": "Kaisersemmel-.jpg",
@@ -1262,14 +1127,19 @@ const cardImages = {
       "width": 960,
       "height": 872,
       "kind": "food",
-      "alt": "Semmel 圆面包实拍",
-      "caption": "Semmel 圆面包 · 实拍",
+      "alt": "Kaisersemmel 皇帝小圆面包实拍",
+      "caption": "Kaisersemmel 皇帝小圆面包 · 实拍",
       "author": "Kobako",
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Kaisersemmel-.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaisersemmel-.jpg/960px-Kaisersemmel-.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaisersemmel-.jpg/960px-Kaisersemmel-.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Kaisersemmel完整，五瓣开口和烘烤纹理清楚，金黄色自然、背景干净；只说明Semmel示例，不冒充Kipferl。"
+      }
     },
     "img-07106f3d579e": {
       "file": "White_wine_spritzer.jpg",
@@ -1349,7 +1219,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Red_soup_noodles_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165303).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg/960px-Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg/960px-Red_soup_noodles_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165303%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "苏式红汤面完整，细面排列与清汤色泽清楚，光线明亮，碗盘没有遮挡主体；北京分店拍摄，只作菜品示例。"
+      }
     },
     "img-b959e2fa3b10": {
       "file": "Suzhou_Squirrel_fish_松鼠鱖魚_-_img_02.jpg",
@@ -1364,7 +1239,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg/960px-Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg/960px-Suzhou_Squirrel_fish_%E6%9D%BE%E9%BC%A0%E9%B1%96%E9%AD%9A_-_img_02.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "松鼠鳜鱼刀花、酥炸鱼肉与酸甜酱汁清楚，主体完整，餐桌背景没有遮挡；仅作菜品示例。"
+      }
     },
     "img-53485896af6d": {
       "file": "Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
@@ -1372,29 +1252,19 @@ const cardImages = {
       "width": 960,
       "height": 640,
       "kind": "food",
-      "alt": "响油鳝糊实拍",
-      "caption": "响油鳝糊 · 实拍",
+      "alt": "响油鳝糊菜品示例 · 拍摄于北京芳草地松鹤楼分店，非苏州门店",
+      "caption": "响油鳝糊菜品示例 · 拍摄于北京芳草地松鹤楼分店，非苏州门店",
       "author": "N509FZ",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles,_Parkview_Green_(20210126165145).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg/960px-Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg"
-    },
-    "img-e613813a301f": {
-      "file": "Savoury_Suzhou-style_meat_mooncake.jpg",
-      "src": "assets/photos/food/img-e613813a301f.jpg",
-      "width": 960,
-      "height": 641,
-      "kind": "food",
-      "alt": "苏式月饼实拍",
-      "caption": "苏式月饼 · 实拍",
-      "author": "Dllu",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Savoury_Suzhou-style_meat_mooncake.jpg/960px-Savoury_Suzhou-style_meat_mooncake.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg/960px-Stir-fried_shredded_eel_with_hot_oil_and_ginger_at_Songhelou_Suzhou_Noodles%2C_Parkview_Green_%2820210126165145%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "鳝丝、姜蒜与葱花清楚，酱汁自然有光泽，盘面整洁，主体完整；照片来自北京分店，只作菜品示例，不作苏州门店实景。"
+      }
     },
     "img-f78be527b828": {
       "file": "Qingtuan_1.jpg",
@@ -1409,7 +1279,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Qingtuan_1.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qingtuan_1.jpg/960px-Qingtuan_1.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qingtuan_1.jpg/960px-Qingtuan_1.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "青团整体及豆沙切面清楚，绿色糕皮和红豆馅自然，背景简单；图注只写青团示例。"
+      }
     },
     "img-008ff60e217d": {
       "file": "Portrait_of_Wen_Zhengming.jpg",
@@ -1454,7 +1329,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg/960px-%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg/960px-%E4%B8%80%E7%9B%98%E5%9C%B0%E9%94%85%E9%B8%A1.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "地锅鸡与贴饼围边清楚可辨，鸡肉、青椒和汤汁成品自然，餐桌背景虚化，主体充足。"
+      }
     },
     "img-6d12f292bfdc": {
       "file": "Misandao_(11).jpg",
@@ -1469,7 +1349,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Misandao_(11).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Misandao_%2811%29.jpg/960px-Misandao_%2811%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Misandao_%2811%29.jpg/960px-Misandao_%2811%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "蜜三刀成品近景清晰，方形切口、蜜汁表面及芝麻可辨，颜色温暖自然，没有杂乱背景。"
+      }
     },
     "img-2622806a61f3": {
       "file": "Liu-bang.jpg",
@@ -1499,7 +1384,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Wuxi_spareribs_sauce.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wuxi_spareribs_sauce.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wuxi_spareribs_sauce.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "无锡酱排骨块形完整，红亮酱汁与肉质清楚，摆盘干净，暖色餐桌光正常。"
+      }
     },
     "img-a99178922aea": {
       "file": "Oil-soaked_gluten.jpg",
@@ -1507,14 +1397,19 @@ const cardImages = {
       "width": 960,
       "height": 960,
       "kind": "food",
-      "alt": "清水油面筋（未填馅）实拍",
-      "caption": "清水油面筋（未填馅） · 实拍",
+      "alt": "油面筋食材实拍",
+      "caption": "油面筋食材实拍 · 图中尚未酿肉，非成品照",
       "author": "Fumikas Sagisavas",
       "license": "CC0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "source": "https://commons.wikimedia.org/wiki/File:Oil-soaked_gluten.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oil-soaked_gluten.jpg/960px-Oil-soaked_gluten.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Oil-soaked_gluten.jpg/960px-Oil-soaked_gluten.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "油面筋原料完整，金黄色泽与外壳纹理清楚；仅展示油面筋本体，不冒充已塞肉成菜。"
+      }
     },
     "img-b32bcee60e03": {
       "file": "阿炳证件照.jpg",
@@ -1530,21 +1425,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg",
       "checked": "2026-11-07",
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg/960px-%E9%98%BF%E7%82%B3%E8%AF%81%E4%BB%B6%E7%85%A7.jpg"
-    },
-    "img-ffb150065131": {
-      "file": "昆山奥灶馆奥灶面.jpg",
-      "src": "assets/photos/food/img-ffb150065131.jpg",
-      "width": 960,
-      "height": 540,
-      "kind": "food",
-      "alt": "奥灶面实拍",
-      "caption": "奥灶面 · 实拍",
-      "author": "Gisling",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg/960px-%E6%98%86%E5%B1%B1%E5%A5%A5%E7%81%B6%E9%A6%86%E5%A5%A5%E7%81%B6%E9%9D%A2.jpg"
     },
     "img-3b93fb879274": {
       "file": "Barabás_Petőfi.jpg",
@@ -1726,21 +1606,6 @@ const cardImages = {
       "checked": "2026-11-07",
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xu_Xiake.png"
     },
-    "img-71a1ffa481b2": {
-      "file": "Potica_na_Bledu.jpg",
-      "src": "assets/photos/food/img-71a1ffa481b2.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "Potica实拍",
-      "caption": "Potica · 实拍",
-      "author": "Selena N. B. H. from Fayetteville, USA",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Potica_na_Bledu.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potica_na_Bledu.jpg/960px-Potica_na_Bledu.jpg"
-    },
     "img-ebbba81bb7e7": {
       "file": "Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
       "src": "assets/photos/food/img-ebbba81bb7e7.jpg",
@@ -1754,52 +1619,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg/960px-Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg"
-    },
-    "img-be72b637d377": {
-      "file": "Struklji_2.jpg",
-      "src": "assets/photos/food/img-be72b637d377.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "Štruklji实拍",
-      "caption": "Štruklji · 实拍",
-      "author": "FocalPoint",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Struklji_2.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Struklji_2.jpg/960px-Struklji_2.jpg"
-    },
-    "img-9a86bcab772c": {
-      "file": "PrekmurskaGibanica1.JPG",
-      "src": "assets/photos/food/img-9a86bcab772c.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "普雷克穆列 Gibanica 多层糕点实拍",
-      "caption": "普雷克穆列 Gibanica 多层糕点 · 实拍",
-      "author": "Sl-Ziga",
-      "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:PrekmurskaGibanica1.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/960px-PrekmurskaGibanica1.JPG"
-    },
-    "img-d97fe155b78c": {
-      "file": "Kremna_rezina.jpg",
-      "src": "assets/photos/food/img-d97fe155b78c.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "布莱德奶油蛋糕实拍",
-      "caption": "布莱德奶油蛋糕 · 实拍",
-      "author": "UkPaolo",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Kremna_rezina.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/960px-Kremna_rezina.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg/960px-Carniolian_sausage_-_Kranjska_klobasa_-_Klobasarna_Ljubljana.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "卡尼奥拉香肠与面包、芥末、辣根清楚完整，食材色泽自然，木板摆盘简洁。"
+      }
     },
     "img-d80642ef76f2": {
       "file": "Jože_Plečnik_(1943),_Zbirka_upodobitev_znanih_Slovencev_NUK.jpg",
@@ -1876,21 +1701,6 @@ const cardImages = {
       "checked": "2026-11-07",
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alma_Karlin.png"
     },
-    "img-fe5b16d43a76": {
-      "file": "Pierogi_z_masłem_-_2023.03.31.jpg",
-      "src": "assets/photos/food/img-fe5b16d43a76.jpg",
-      "width": 960,
-      "height": 955,
-      "kind": "food",
-      "alt": "Pierogi实拍",
-      "caption": "Pierogi · 实拍",
-      "author": "Aw58",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Pierogi_z_mas%C5%82em_-_2023.03.31.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/960px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg"
-    },
     "img-e35702e7d942": {
       "file": "Bigos_(1).jpg",
       "src": "assets/photos/food/img-e35702e7d942.jpg",
@@ -1904,52 +1714,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Bigos_(1).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/960px-Bigos_%281%29.jpg"
-    },
-    "img-b89c9a43ed39": {
-      "file": "Uszka-aasica.jpg",
-      "src": "assets/photos/food/img-b89c9a43ed39.jpg",
-      "width": 640,
-      "height": 480,
-      "kind": "food",
-      "alt": "红甜菜汤与 uszka 小面点实拍",
-      "caption": "红甜菜汤与 uszka 小面点 · 实拍",
-      "author": "http://en.wikipedia.org/wiki/User:Vegalabs",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:Uszka-aasica.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/13/Uszka-aasica.jpg"
-    },
-    "img-e991a5dd4160": {
-      "file": "00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
-      "src": "assets/photos/food/img-e991a5dd4160.jpg",
-      "width": 800,
-      "height": 600,
-      "kind": "food",
-      "alt": "Gołąbki实拍",
-      "caption": "Gołąbki · 实拍",
-      "author": "Silar",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:00101_Rindfleisch_-_Kohlroulade,_Podkarpackie.JPG",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/df/00101_Rindfleisch_-_Kohlroulade%2C_Podkarpackie.JPG"
-    },
-    "img-2378ede47351": {
-      "file": "Pączki_-_14.05.2024.jpg",
-      "src": "assets/photos/food/img-2378ede47351.jpg",
-      "width": 960,
-      "height": 884,
-      "kind": "food",
-      "alt": "Pączki实拍",
-      "caption": "Pączki · 实拍",
-      "author": "Aw58",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:P%C4%85czki_-_14.05.2024.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/P%C4%85czki_-_14.05.2024.jpg/960px-P%C4%85czki_-_14.05.2024.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/960px-Bigos_%281%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Bigos酸菜、肉块与香肠细节可辨，红棕汤汁自然，白盘完整，配菜没有遮挡主要内容。"
+      }
     },
     "img-5f7cf865c8d0": {
       "file": "2023_Sernik_polski_(1).jpg",
@@ -1964,7 +1734,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:2023_Sernik_polski_(1).jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2023_Sernik_polski_%281%29.jpg/960px-2023_Sernik_polski_%281%29.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2023_Sernik_polski_%281%29.jpg/960px-2023_Sernik_polski_%281%29.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "奶酪蛋糕切块完整，酥顶与乳酪层清晰，颜色自然、白盘干净，主体占比充分。"
+      }
     },
     "img-f124e9490d88": {
       "file": "Obwarzanek_mak.jpg",
@@ -1979,37 +1754,12 @@ const cardImages = {
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "source": "https://commons.wikimedia.org/wiki/File:Obwarzanek_mak.jpg",
       "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/960px-Obwarzanek_mak.jpg"
-    },
-    "img-c6e6380ca072": {
-      "file": "Oscypki.jpg",
-      "src": "assets/photos/food/img-c6e6380ca072.jpg",
-      "width": 873,
-      "height": 767,
-      "kind": "food",
-      "alt": "Oscypek实拍",
-      "caption": "Oscypek · 实拍",
-      "author": "Pawel Swiegoda (Paberu)",
-      "license": "CC BY-SA 2.5",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-      "source": "https://commons.wikimedia.org/wiki/File:Oscypki.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Oscypki.jpg"
-    },
-    "img-8e94e29b9480": {
-      "file": "Polish_food_in_Poland_21.jpg",
-      "src": "assets/photos/food/img-8e94e29b9480.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "西里西亚土豆团实拍",
-      "caption": "西里西亚土豆团 · 实拍",
-      "author": "User:Piotrus",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Polish_food_in_Poland_21.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Polish_food_in_Poland_21.jpg/960px-Polish_food_in_Poland_21.jpg"
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Obwarzanek_mak.jpg/960px-Obwarzanek_mak.jpg",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Obwarzanek环形与扭结完整，罂粟籽、表皮和金黄色可辨，深色背景简洁；真实摄影的原有背景处理不改变食品形态。"
+      }
     },
     "img-b4098c6ad7f8": {
       "file": "Frederic_Chopin_photo.jpeg",
@@ -2100,51 +1850,6 @@ const cardImages = {
       "source": "https://commons.wikimedia.org/wiki/File:Olga_Tokarczuk-9739.jpg",
       "checked": "2026-11-07",
       "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olga_Tokarczuk-9739.jpg/960px-Olga_Tokarczuk-9739.jpg"
-    },
-    "img-89031e0031fe": {
-      "file": "Żurek_soup.jpg",
-      "src": "assets/photos/food/img-89031e0031fe.jpg",
-      "width": 960,
-      "height": 713,
-      "kind": "food",
-      "alt": "Żurek 黑麦发酵酸汤实拍",
-      "caption": "Żurek 黑麦发酵酸汤 · 实拍",
-      "author": "Maksym Kozlenko",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "source": "https://commons.wikimedia.org/wiki/File:%C5%BBurek_soup.jpg",
-      "checked": "2026-11-07",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%C5%BBurek_soup.jpg/960px-%C5%BBurek_soup.jpg"
-    },
-    "img-d14544fb73c1": {
-      "file": "Döner_kebap.jpg",
-      "src": "assets/photos/food/img-d14544fb73c1.jpg",
-      "width": 960,
-      "height": 720,
-      "kind": "food",
-      "alt": "柏林 Döner 烤肉夹饼，面包中夹入鸡肉与蔬菜",
-      "caption": "柏林 Döner 鸡肉夹饼 · 成品实拍",
-      "author": "FrugalGlutton.com",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "source": "https://commons.wikimedia.org/wiki/File:D%C3%B6ner_kebap.jpg",
-      "checked": "2026-11-08",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/D%C3%B6ner_kebap.jpg/960px-D%C3%B6ner_kebap.jpg"
-    },
-    "img-a8539d44693f": {
-      "file": "Eine_Maß_Helles_(5943793774).jpg",
-      "src": "assets/photos/food/img-a8539d44693f.jpg",
-      "width": 960,
-      "height": 721,
-      "kind": "food",
-      "alt": "慕尼黑啤酒花园中的一升 Helles 淡色拉格啤酒",
-      "caption": "Münchner Helles · 慕尼黑啤酒花园实拍",
-      "author": "Cornelius Kibelka",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File:Eine_Ma%C3%9F_Helles_(5943793774).jpg",
-      "checked": "2026-11-08",
-      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eine_Ma%C3%9F_Helles_%285943793774%29.jpg/960px-Eine_Ma%C3%9F_Helles_%285943793774%29.jpg"
     },
     "transport-poi-salzburg-salzburg-1": {
       "file": "Salzburg Hauptbahnhof (20190623 170409).jpg",
@@ -3397,46 +3102,1143 @@ const cardImages = {
         "date": "2026-11-08",
         "notes": "依据 OpenStreetMap 真实道路、建筑和跑道几何制图，逐项核对位置与轮廓；明确标注位置示意、非实景，不冒充机场照片。"
       }
+    },
+    "img-d59f5ee6b826": {
+      "file": "Goulash Soup4 - 2024-02-06 19.03.01.jpg",
+      "src": "assets/photos/food/img-d59f5ee6b826.jpg",
+      "width": 825,
+      "height": 1100,
+      "kind": "food",
+      "alt": "匈牙利古拉什汤 · 碗装实拍（保留原图日期标记）",
+      "caption": "匈牙利古拉什汤 · 碗装实拍（保留原图日期标记）",
+      "author": "LesMezei",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Goulash_Soup4_-_2024-02-06_19.03.01.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "碗装古拉什汤，肉、土豆与面疙瘩可辨，色彩正常，保留原图日期水印。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/42/Goulash_Soup4_-_2024-02-06_19.03.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-7c71c14ad5ae": {
+      "file": "Balatoni halászlé 094 (4375940169).jpg",
+      "src": "assets/photos/food/img-7c71c14ad5ae.jpg",
+      "width": 1200,
+      "height": 908,
+      "kind": "food",
+      "alt": "匈牙利鱼汤 · 巴拉顿湖风味实拍，非塞格德配方示范",
+      "caption": "匈牙利鱼汤 · 巴拉顿湖风味实拍，非塞格德配方示范",
+      "author": "János Korom Dr. from Wien, Austria",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Balatoni_hal%C3%A1szl%C3%A9_094_(4375940169).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "盘装鱼汤成品清楚，鱼肉块和红椒汤色可辨，光线正常；保留原有边框和作者水印，不作锅装图。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/52/Balatoni_hal%C3%A1szl%C3%A9_094_%284375940169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-2db41c45303d": {
+      "file": "Milka Alpine Milk Chocolate chunks and wrapper.jpg",
+      "src": "assets/photos/food/img-2db41c45303d.jpg",
+      "width": 1200,
+      "height": 675,
+      "kind": "product",
+      "alt": "Milka Alpine Milk 牛奶巧克力 · 包装与巧克力实拍",
+      "caption": "Milka Alpine Milk 牛奶巧克力 · 包装与巧克力实拍",
+      "author": "Ubcule",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Milka_Alpine_Milk_Chocolate_chunks_and_wrapper.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Milka紫色正面包装与巧克力实物同时清楚，品牌与产品易辨，无强反光或杂乱背景，选为封面。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Milka_Alpine_Milk_Chocolate_chunks_and_wrapper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-cfc59e732c27": {
+      "file": "Milka Alpine Milk Chocolate bar 100g.jpg",
+      "src": "assets/photos/food/img-cfc59e732c27.jpg",
+      "width": 1200,
+      "height": 675,
+      "kind": "product",
+      "alt": "Milka Alpine Milk 牛奶巧克力 · 整板实拍",
+      "caption": "Milka Alpine Milk 牛奶巧克力 · 整板实拍",
+      "author": "Ubcule",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Milka_Alpine_Milk_Chocolate_bar_100g.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Milka整板巧克力完整、色泽自然、表面品牌压印清楚，白底简洁，适合作为实物相册图。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/90/Milka_Alpine_Milk_Chocolate_bar_100g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-44e11b9d5f11": {
+      "file": "Milka Alpine Milk Chocolate bar 100g with chunks broken off.jpg",
+      "src": "assets/photos/food/img-44e11b9d5f11.jpg",
+      "width": 1200,
+      "height": 675,
+      "kind": "product",
+      "alt": "Milka Alpine Milk 牛奶巧克力 · 掰块实拍",
+      "caption": "Milka Alpine Milk 牛奶巧克力 · 掰块实拍",
+      "author": "Ubcule",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Milka_Alpine_Milk_Chocolate_bar_100g_with_chunks_broken_off.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Milka切块与整板局部展示断面和压印，色彩正常，白底简洁，可作实物细节相册。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/84/Milka_Alpine_Milk_Chocolate_bar_100g_with_chunks_broken_off.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-e74b58ef4e68": {
+      "file": "Brot des Jahres 2018.jpg",
+      "src": "assets/photos/food/img-e74b58ef4e68.jpg",
+      "width": 1200,
+      "height": 800,
+      "kind": "food",
+      "alt": "德国 Dinkel 斯佩尔特小麦面包 · 实拍",
+      "caption": "德国 Dinkel 斯佩尔特小麦面包 · 实拍",
+      "author": "Stollenbaecker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brot_des_Jahres_2018.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "德国斯佩尔特小麦面包，烘烤表皮与字样清晰，背景干净。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Brot_des_Jahres_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-63fdb61dfe46": {
+      "file": "Dobos torta.jpg",
+      "src": "assets/photos/food/img-63fdb61dfe46.jpg",
+      "width": 1200,
+      "height": 797,
+      "kind": "food",
+      "alt": "多博什蛋糕 · 焦糖薄片装饰的整蛋糕实拍",
+      "caption": "多博什蛋糕 · 焦糖薄片装饰的整蛋糕实拍",
+      "author": "Christo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dobos_torta.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整多博什蛋糕，焦糖薄片和奶油装饰清楚，自然光线，背景干净。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/70/Dobos_torta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-e108d2e3ee1f": {
+      "file": "Tafelspitz in Meerrettichsauce.jpg",
+      "src": "assets/photos/food/img-e108d2e3ee1f.jpg",
+      "width": 1100,
+      "height": 1100,
+      "kind": "food",
+      "alt": "Tafelspitz 清煮牛肉 · 辣根酱与蔬菜搭配实拍",
+      "caption": "Tafelspitz 清煮牛肉 · 辣根酱与蔬菜搭配实拍",
+      "author": "Hh2409",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tafelspitz_in_Meerrettichsauce.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "白煮牛肉配辣根酱与蔬菜，干净装盘、自然光线，食材清楚。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tafelspitz_in_Meerrettichsauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-807760c6bf7e": {
+      "file": "Sachertorte in Vienna.jpg",
+      "src": "assets/photos/food/img-807760c6bf7e.jpg",
+      "width": 1200,
+      "height": 928,
+      "kind": "food",
+      "alt": "萨赫蛋糕配鲜奶油 · 维也纳实拍",
+      "caption": "萨赫蛋糕配鲜奶油 · 维也纳实拍",
+      "author": "Rizka",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sachertorte_in_Vienna.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "维也纳 Sacher 蛋糕与鲜奶油清晰，餐厅暖光正常，品牌标记可辨。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sachertorte_in_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-eaf3ba20062b": {
+      "file": "ザッハートルテ（ウィーン菓子シュトラウス・青森）20220910-P1003098.jpg",
+      "src": "assets/photos/food/img-eaf3ba20062b.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "萨赫蛋糕菜品示例 · 拍摄于日本青森维也纳糕点店 Strauss",
+      "caption": "萨赫蛋糕菜品示例 · 拍摄于日本青森维也纳糕点店 Strauss",
+      "author": "くろふね",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%82%B6%E3%83%83%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AB%E3%83%86%EF%BC%88%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3%E8%8F%93%E5%AD%90%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9%E3%83%BB%E9%9D%92%E6%A3%AE%EF%BC%8920220910-P1003098.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整巧克力蛋糕切片、光色自然，切面可辨；拍于青森维也纳糕点店，准确注明菜品示例。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%E3%82%B6%E3%83%83%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AB%E3%83%86%EF%BC%88%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3%E8%8F%93%E5%AD%90%E3%82%B7%E3%83%A5%E3%83%88%E3%83%A9%E3%82%A6%E3%82%B9%E3%83%BB%E9%9D%92%E6%A3%AE%EF%BC%8920220910-P1003098.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-aeed80d154f3": {
+      "file": "Café Hofburg Wien 2008 Melange 1.jpg",
+      "src": "assets/photos/food/img-aeed80d154f3.jpg",
+      "width": 1200,
+      "height": 857,
+      "kind": "food",
+      "alt": "Wiener Melange 米朗琪 · 维也纳 Hofburg 咖啡馆实拍",
+      "caption": "Wiener Melange 米朗琪 · 维也纳 Hofburg 咖啡馆实拍",
+      "author": "Manfred Werner (Tsui)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Hofburg_Wien_2008_Melange_1.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Hofburg 咖啡馆米朗琪及水杯，自然日光、杯具完整，咖啡奶泡细节清楚。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/89/Caf%C3%A9_Hofburg_Wien_2008_Melange_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-7f0e861b688f": {
+      "file": "Mozartkugeln-Fuerst.jpg",
+      "src": "assets/photos/food/img-7f0e861b688f.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "product",
+      "alt": "Fürst 莫扎特巧克力球 · 蓝银包装与剖面实拍",
+      "caption": "Fürst 莫扎特巧克力球 · 蓝银包装与剖面实拍",
+      "author": "Clemens Pfeiffer",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Mozartkugeln-Fuerst.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "白底实拍，Fürst 蓝银包装上的品牌与剖面馅料可辨；部分包装有自然高光但不遮挡主题。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mozartkugeln-Fuerst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-12b813c809e8": {
+      "file": "Kleines Wiener Gulasch - Café Engländer (Wien).jpg",
+      "src": "assets/photos/food/img-12b813c809e8.jpg",
+      "width": 1200,
+      "height": 981,
+      "kind": "food",
+      "alt": "维也纳 Café Engländer 的浓汁古拉什 · 与匈牙利汤式不同",
+      "caption": "维也纳 Café Engländer 的浓汁古拉什 · 与匈牙利汤式不同",
+      "author": "Christian Michelides",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kleines_Wiener_Gulasch_-_Caf%C3%A9_Engl%C3%A4nder_(Wien).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "维也纳 Café Engländer 的浓汁古拉什，牛肉与酱汁清楚，光色自然，与匈牙利汤式区分。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleines_Wiener_Gulasch_-_Caf%C3%A9_Engl%C3%A4nder_%28Wien%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-495cc21233e7": {
+      "file": "Cafe Landtmann Kleiner Brauner 1.jpg",
+      "src": "assets/photos/food/img-495cc21233e7.jpg",
+      "width": 1200,
+      "height": 950,
+      "kind": "food",
+      "alt": "Kleiner Brauner 小杯咖啡 · 维也纳 Café Landtmann 实拍",
+      "caption": "Kleiner Brauner 小杯咖啡 · 维也纳 Café Landtmann 实拍",
+      "author": "Geolina163",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cafe_Landtmann_Kleiner_Brauner_1.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Landtmann 咖啡杯与油脂清楚，白桌布干净，附水杯不遮主体。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cafe_Landtmann_Kleiner_Brauner_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-15fc7bb9f1ba": {
+      "file": "Hofzuckerbäcker Demel Frühstück 04.jpg",
+      "src": "assets/photos/food/img-15fc7bb9f1ba.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "Einspänner 奶油咖啡 · 维也纳 Demel 实拍",
+      "caption": "Einspänner 奶油咖啡 · 维也纳 Demel 实拍",
+      "author": "Geolina163",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hofzuckerb%C3%A4cker_Demel_Fr%C3%BChst%C3%BCck_04.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "Demel 玻璃杯奶油咖啡清楚，奶油与咖啡分层可见，背景适度虚化。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hofzuckerb%C3%A4cker_Demel_Fr%C3%BChst%C3%BCck_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-85c080bf51d0": {
+      "file": "Palatschinke.jpg",
+      "src": "assets/photos/food/img-85c080bf51d0.jpg",
+      "width": 1128,
+      "height": 737,
+      "kind": "food",
+      "alt": "Palatschinken 薄煎饼 · 拍摄于布拉迪斯拉发的菜品示例",
+      "caption": "Palatschinken 薄煎饼 · 拍摄于布拉迪斯拉发的菜品示例",
+      "author": "User:Karl Gruber/Credits",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Palatschinke.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "薄煎饼成品完整、光线自然，奶油与果馅可辨；拍摄于布拉迪斯拉发，说明为菜品示例。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Palatschinke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-a464538a42a7": {
+      "file": "Pretzel (49880645848).jpg",
+      "src": "assets/photos/food/img-a464538a42a7.jpg",
+      "width": 1100,
+      "height": 1100,
+      "kind": "food",
+      "alt": "Brezel 碱水面包 · 烘烤表皮与盐粒实拍",
+      "caption": "Brezel 碱水面包 · 烘烤表皮与盐粒实拍",
+      "author": "Ajay Suresh from New York, NY, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pretzel_(49880645848).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整现烤碱水面包，表皮金黄、盐粒和面皮纹理清楚，背景简洁。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pretzel_%2849880645848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-f7049ecdff5d": {
+      "file": "Öcher Sauerbraten Postwagen Aachen.jpg",
+      "src": "assets/photos/food/img-f7049ecdff5d.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "Sauerbraten 酸炖牛肉 · 亚琛 Postwagen 餐馆实拍",
+      "caption": "Sauerbraten 酸炖牛肉 · 亚琛 Postwagen 餐馆实拍",
+      "author": "Benreis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%96cher_Sauerbraten_Postwagen_Aachen.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "亚琛餐馆酸炖牛肉摆盘，肉酱、马铃薯团及紫甘蓝清楚，区域来源属莱茵兰，光线自然。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/67/%C3%96cher_Sauerbraten_Postwagen_Aachen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-a5c703b18a9c": {
+      "file": "Pfefferhering Vitt (1).jpg",
+      "src": "assets/photos/food/img-a5c703b18a9c.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "Fischbrötchen 鱼面包 · 德国 Vitt 的胡椒鲱鱼搭配实拍",
+      "caption": "Fischbrötchen 鱼面包 · 德国 Vitt 的胡椒鲱鱼搭配实拍",
+      "author": "Benreis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pfefferhering_Vitt_(1).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "胡椒鲱鱼面包，鱼片、蔬菜和面包细节清楚，颜色自然，画面简洁。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pfefferhering_Vitt_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-77033c0135cf": {
+      "file": "Kölsch Flaschen.jpg",
+      "src": "assets/photos/food/img-77033c0135cf.jpg",
+      "width": 1145,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Kölsch 科隆啤酒 · 四家品牌的密封瓶装实拍",
+      "caption": "Kölsch 科隆啤酒 · 四家品牌的密封瓶装实拍",
+      "author": "Mini.fb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6lsch_Flaschen.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "四种科隆啤酒均密封正面摆放，品牌标签完整清楚，背景简洁，未见手持或半空瓶。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a7/K%C3%B6lsch_Flaschen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-d56f47dfd28d": {
+      "file": "Cockta v 0,25-litrski steklenički.png",
+      "src": "assets/photos/food/img-d56f47dfd28d.png",
+      "width": 290,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Cockta Original 草本汽水 · 0.25 升玻璃瓶实拍",
+      "caption": "Cockta Original 草本汽水 · 0.25 升玻璃瓶实拍",
+      "author": "MajdaK28",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cockta_v_0,25-litrski_stekleni%C4%8Dki.png",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整密封 Cockta Original 瓶，正面品牌锐利、光色正常，背景透明，保留摄影中的倒影。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cockta_v_0%2C25-litrski_stekleni%C4%8Dki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-a5dc499b7c77": {
+      "file": "2023 Kostki czekolady E.Wedel (1).jpg",
+      "src": "assets/photos/food/img-a5dc499b7c77.jpg",
+      "width": 1200,
+      "height": 839,
+      "kind": "product",
+      "alt": "E.Wedel 巧克力 · 不同口味与品牌压印实拍",
+      "caption": "E.Wedel 巧克力 · 不同口味与品牌压印实拍",
+      "author": "Jacek Halicki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Kostki_czekolady_E.Wedel_(1).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "白底巧克力整齐排列，品牌压印清楚，能区分多种颜色，主体完整。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2023_Kostki_czekolady_E.Wedel_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-3f3fc57e2d51": {
+      "file": "Prince-Polo-Dark-Split.jpg",
+      "src": "assets/photos/food/img-3f3fc57e2d51.jpg",
+      "width": 1200,
+      "height": 380,
+      "kind": "product",
+      "alt": "Prince Polo Dark 威化 · 巧克力包衣与分层剖面实拍",
+      "caption": "Prince Polo Dark 威化 · 巧克力包衣与分层剖面实拍",
+      "author": "Evan-Amos",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Prince-Polo-Dark-Split.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "实拍白底切面，巧克力包衣和威化层次锐利，色彩自然。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Prince-Polo-Dark-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-3c404956f797": {
+      "file": "Prince-Polo-Hazl-Split.jpg",
+      "src": "assets/photos/food/img-3c404956f797.jpg",
+      "width": 1200,
+      "height": 382,
+      "kind": "product",
+      "alt": "Prince Polo 榛子味威化 · 分层剖面实拍",
+      "caption": "Prince Polo 榛子味威化 · 分层剖面实拍",
+      "author": "Evan-Amos",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Prince-Polo-Hazl-Split.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "实拍榛子味威化剖面，分层清楚、光线均匀，须标明口味。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Prince-Polo-Hazl-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-ce10f7d70f3d": {
+      "file": "W-Z cake in Gliwice, Silesian Voivodeship, Poland, November 2022.jpg",
+      "src": "assets/photos/food/img-ce10f7d70f3d.jpg",
+      "width": 1101,
+      "height": 1100,
+      "kind": "food",
+      "alt": "Wuzetka 可可奶油蛋糕 · 波兰 Gliwice 菜品实拍",
+      "caption": "Wuzetka 可可奶油蛋糕 · 波兰 Gliwice 菜品实拍",
+      "author": "MichalPL",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:W-Z_cake_in_Gliwice,_Silesian_Voivodeship,_Poland,_November_2022.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "W-Z 蛋糕切片和奶油夹层清楚，盘面整洁、色彩自然；照片拍于 Gliwice，不能写成华沙门店实拍。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b0/W-Z_cake_in_Gliwice%2C_Silesian_Voivodeship%2C_Poland%2C_November_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-e71ee6492922": {
+      "file": "Potica (9501040588).jpg",
+      "src": "assets/photos/food/img-e71ee6492922.jpg",
+      "width": 1200,
+      "height": 723,
+      "kind": "food",
+      "alt": "Potica 核桃卷切片 · 卢布尔雅那龙桥附近面包店实拍",
+      "caption": "Potica 核桃卷切片 · 卢布尔雅那龙桥附近面包店实拍",
+      "author": "Michael R Perry",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Potica_(9501040588).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "卢布尔雅那面包店的核桃卷切片，馅料与卷层锐利，色泽正常，主体占比足够。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/75/Potica_%289501040588%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-c53982cf5024": {
+      "file": "Prekmurska gibanica with coffee.jpg",
+      "src": "assets/photos/food/img-c53982cf5024.jpg",
+      "width": 1200,
+      "height": 807,
+      "kind": "food",
+      "alt": "Prekmurska gibanica 多层糕点配咖啡 · 实拍",
+      "caption": "Prekmurska gibanica 多层糕点配咖啡 · 实拍",
+      "author": "Zello",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Prekmurska_gibanica_with_coffee.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "多层蛋糕切面清晰，罂粟籽和奶酪层可辨，自然户外光线，杯具位于背景。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Prekmurska_gibanica_with_coffee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-0c5dfc472467": {
+      "file": "Prgini štruklji.jpg",
+      "src": "assets/photos/food/img-0c5dfc472467.jpg",
+      "width": 1200,
+      "height": 676,
+      "kind": "food",
+      "alt": "Štruklji 卷馅面点 · 斯洛文尼亚 Prgini 甜馅版本实拍",
+      "caption": "Štruklji 卷馅面点 · 斯洛文尼亚 Prgini 甜馅版本实拍",
+      "author": "Hladnikm",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Prgini_%C5%A1truklji.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "斯洛文尼亚 Prgini štruklji 甜卷，切面与果酱完整清楚，光色自然；明确具体版本。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Prgini_%C5%A1truklji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-f623ed6b27b0": {
+      "file": "Serbian Ćevapi.jpg",
+      "src": "assets/photos/food/img-f623ed6b27b0.jpg",
+      "width": 1200,
+      "height": 581,
+      "kind": "food",
+      "alt": "塞尔维亚 Ćevapi 烤肉条 · 成品实拍",
+      "caption": "塞尔维亚 Ćevapi 烤肉条 · 成品实拍",
+      "author": "young shanahan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Serbian_%C4%86evapi.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "塞尔维亚烤肉条完整清楚，焦痕与肉质细节可辨，日光自然，背景虚化。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/75/Serbian_%C4%86evapi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-d0de7891e55e": {
+      "file": "Gołąbki - 12.01.2026.jpg",
+      "src": "assets/photos/food/img-d0de7891e55e.jpg",
+      "width": 1200,
+      "height": 935,
+      "kind": "food",
+      "alt": "Gołąbki 卷心菜包馅配番茄酱 · 实拍",
+      "caption": "Gołąbki 卷心菜包馅配番茄酱 · 实拍",
+      "author": "Aw58",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Go%C5%82%C4%85bki_-_12.01.2026.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整卷心菜包馅配番茄酱，光色正常，盘面整洁，食物形状清楚。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/Go%C5%82%C4%85bki_-_12.01.2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-f651905a7a91": {
+      "file": "Kluski śląskie ze skwarkami - 2024.01.02.jpg",
+      "src": "assets/photos/food/img-f651905a7a91.jpg",
+      "width": 1069,
+      "height": 1100,
+      "kind": "food",
+      "alt": "西里西亚土豆团 · 培根搭配实拍",
+      "caption": "西里西亚土豆团 · 培根搭配实拍",
+      "author": "Aw58",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kluski_%C5%9Bl%C4%85skie_ze_skwarkami_-_2024.01.02.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "西里西亚土豆团及培根完整清楚，盘面干净、光线均匀。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kluski_%C5%9Bl%C4%85skie_ze_skwarkami_-_2024.01.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-b32264161a0c": {
+      "file": "Sppon of Paprika.jpg",
+      "src": "assets/photos/food/img-b32264161a0c.jpg",
+      "width": 1200,
+      "height": 687,
+      "kind": "food",
+      "alt": "Paprika 红椒粉 · 食材实拍，非指定产地或品牌包装",
+      "caption": "Paprika 红椒粉 · 食材实拍，非指定产地或品牌包装",
+      "author": "Gnu-Bricoleur",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sppon_of_Paprika.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "红椒粉和勺子主体清楚，自然侧光展示颗粒，需写食材示例而非特定产地或品牌。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sppon_of_Paprika.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-b0c04983d05d": {
+      "file": "Wikipedia Marzipan 2018 by-Raboe 03.jpg",
+      "src": "assets/photos/food/img-b0c04983d05d.jpg",
+      "width": 1200,
+      "height": 675,
+      "kind": "product",
+      "alt": "Niederegger 吕贝克杏仁糖礼盒 · 图中为 Wikipedia 纪念包装",
+      "caption": "Niederegger 吕贝克杏仁糖礼盒 · 图中为 Wikipedia 纪念包装",
+      "author": "© Ra Boe / Wikipedia",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Wikipedia_Marzipan_2018_by-Raboe_03.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "杏仁糖礼盒清楚、Niederegger 品牌可辨，包装整齐，无强反光遮挡。图中为 Wikipedia 纪念包装。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Wikipedia_Marzipan_2018_by-Raboe_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-999f7361afd6": {
+      "file": "OpenFoodFacts-8600939507667-front_hu-12.jpg",
+      "src": "assets/photos/food/img-999f7361afd6.jpg",
+      "width": 685,
+      "height": 890,
+      "kind": "product",
+      "alt": "Smoki Original 花生玉米零食 · 密封包装实拍",
+      "caption": "Smoki Original 花生玉米零食 · 密封包装实拍",
+      "author": "Open Food Facts contributor biroistvangeza",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/8600939507667",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "白底完整正面包装实拍，Smoki Original 品牌与花生口味可辨，无杂乱背景。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/860/093/950/7667/1.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "8600939507667",
+      "photoId": "1",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/860/093/950/7667/front_hu.12.full.jpg"
+    },
+    "img-c7a907f6c0da": {
+      "file": "Смоки во розова пластична чинија на бела позадина.jpg",
+      "src": "assets/photos/food/img-c7a907f6c0da.jpg",
+      "width": 1200,
+      "height": 800,
+      "kind": "food",
+      "alt": "Smoki 花生玉米零食 · 碗装成品实拍",
+      "caption": "Smoki 花生玉米零食 · 碗装成品实拍",
+      "author": "Mihail Verbal",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BC%D0%BE%D0%BA%D0%B8_%D0%B2%D0%BE_%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%87%D0%B8%D0%BD%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%B1%D0%B5%D0%BB%D0%B0_%D0%BF%D0%BE%D0%B7%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "整碗花生泡芙色泽自然，表面纹理清楚，白色背景简洁；作为零食形态补充图。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%D0%A1%D0%BC%D0%BE%D0%BA%D0%B8_%D0%B2%D0%BE_%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%87%D0%B8%D0%BD%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%B1%D0%B5%D0%BB%D0%B0_%D0%BF%D0%BE%D0%B7%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-6b77fa02b91a": {
+      "file": "OpenFoodFacts-9044400841000-front_fr-23.jpg",
+      "src": "assets/photos/food/img-6b77fa02b91a.jpg",
+      "width": 288,
+      "height": 776,
+      "kind": "product",
+      "alt": "PEZ 小黄人糖果分配器与三条补充糖 · 密封套装实拍",
+      "caption": "PEZ 小黄人糖果分配器与三条补充糖 · 密封套装实拍",
+      "author": "Open Food Facts contributor openfoodfacts-contributors",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/9044400841000",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "白底密封糖果分配器套装实拍，PEZ 品牌、小黄人造型和三条糖包装均可辨。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/904/440/084/1000/4.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "9044400841000",
+      "photoId": "4",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/904/440/084/1000/front_fr.23.full.jpg"
+    },
+    "img-a9dab8f26b89": {
+      "file": "OpenFoodFacts-3838902402069-front_it-3.jpg",
+      "src": "assets/photos/food/img-a9dab8f26b89.jpg",
+      "width": 296,
+      "height": 558,
+      "kind": "product",
+      "alt": "Gorenjka 70% 黑巧克力 · 包装实拍",
+      "caption": "Gorenjka 70% 黑巧克力 · 包装实拍",
+      "author": "Open Food Facts contributor date-limite-app",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/3838902402069",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整正面商品照，Gorenjka 70% 黑巧克力品牌和可可含量清楚，背景干净。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/383/890/240/2069/1.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "3838902402069",
+      "photoId": "1",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/383/890/240/2069/front_it.3.full.jpg"
+    },
+    "img-8fd8dc46b9a1": {
+      "file": "Bled Cremeschnitte (blejska kremšnita).jpg",
+      "src": "assets/photos/food/img-8fd8dc46b9a1.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "布莱德奶油蛋糕 · 奶油、卡仕达与酥皮实拍",
+      "caption": "布莱德奶油蛋糕 · 奶油、卡仕达与酥皮实拍",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bled_Cremeschnitte_(blejska_krem%C5%A1nita).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "布莱德奶油蛋糕成品完整，酥皮、奶油与卡仕达层清楚，自然光色，背景适度虚化。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bled_Cremeschnitte_%28blejska_krem%C5%A1nita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-8e4ab986d232": {
+      "file": "Bled (9783671736).jpg",
+      "src": "assets/photos/food/img-8e4ab986d232.jpg",
+      "width": 1200,
+      "height": 797,
+      "kind": "food",
+      "alt": "布莱德奶油蛋糕 · 原产纪念餐巾与摆盘实拍",
+      "caption": "布莱德奶油蛋糕 · 原产纪念餐巾与摆盘实拍",
+      "author": "Erik from Laagri, Estonia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bled_(9783671736).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "布莱德奶油蛋糕配原产纪念餐巾，奶油与黄色内馅清楚，摆盘整洁、日光自然。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bled_%289783671736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-b7d12df99747": {
+      "file": "Żurek soup served in PKP restaurant car.jpg",
+      "src": "assets/photos/food/img-b7d12df99747.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "Żurek 黑麦发酵酸汤配面包 · 波兰列车餐车实拍",
+      "caption": "Żurek 黑麦发酵酸汤配面包 · 波兰列车餐车实拍",
+      "author": "Maksym Kozlenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%BBurek_soup_served_in_PKP_restaurant_car.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "波兰列车餐车的 Żurek 酸汤与面包，汤碗完整且细节清晰，色彩正常，准确注明餐车场景。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c4/%C5%BBurek_soup_served_in_PKP_restaurant_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-ad104d0c1e5d": {
+      "file": "OpenFoodFacts-8600037008011-front_fr-3.jpg",
+      "src": "assets/photos/food/img-ad104d0c1e5d.jpg",
+      "width": 380,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Knjaz Miloš 气泡矿泉水 · 密封玻璃瓶实拍",
+      "caption": "Knjaz Miloš 气泡矿泉水 · 密封玻璃瓶实拍",
+      "author": "Open Food Facts contributor kiliweb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/8600037008011",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "密封完整绿色玻璃瓶，品牌正面清楚，日光下标签和水体可辨；背景无杂乱物品。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/860/003/700/8011/1.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "8600037008011",
+      "photoId": "1",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/860/003/700/8011/front_fr.3.full.jpg"
+    },
+    "img-0e388e073905": {
+      "file": "OpenFoodFacts-5901588058658-front_en-38.jpg",
+      "src": "assets/photos/food/img-0e388e073905.jpg",
+      "width": 590,
+      "height": 1100,
+      "kind": "product",
+      "alt": "E.Wedel Ptasie Mleczko 香草味巧克力裹泡沫糖 · 盒装实拍",
+      "caption": "E.Wedel Ptasie Mleczko 香草味巧克力裹泡沫糖 · 盒装实拍",
+      "author": "Open Food Facts contributor foodless",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/5901588058658",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "盒面品牌、香草口味和巧克力剖面图示清楚，光线均匀；来源裁切视图已转正。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/590/158/805/8658/9.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "5901588058658",
+      "photoId": "9",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/590/158/805/8658/front_en.38.full.jpg"
+    },
+    "img-bf06b675aceb": {
+      "file": "OpenFoodFacts-3838410542349-front_de-4.jpg",
+      "src": "assets/photos/food/img-bf06b675aceb.jpg",
+      "width": 825,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Piranske soline 盐之花 · 125 克罐装实拍",
+      "caption": "Piranske soline 盐之花 · 125 克罐装实拍",
+      "author": "Open Food Facts contributor openfoodfacts-contributors",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/3838410542349",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整 Piranske soline 盐之花罐，品牌与品名正面清楚，无反光遮挡；室内暖光自然。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/383/841/054/2349/1.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "3838410542349",
+      "photoId": "1",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/383/841/054/2349/front_de.4.full.jpg"
+    },
+    "img-ab026eb87e44": {
+      "file": "Currywurst med toast (4541065102).jpg",
+      "src": "assets/photos/food/img-ab026eb87e44.jpg",
+      "width": 1200,
+      "height": 797,
+      "kind": "food",
+      "alt": "Currywurst 咖喱香肠配面包 · 成品实拍",
+      "caption": "Currywurst 咖喱香肠配面包 · 成品实拍",
+      "author": "cyclonebill from Copenhagen, Denmark",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Currywurst_med_toast_(4541065102).jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "咖喱香肠与面包完整成品，表皮、酱汁和咖喱粉锐利，自然侧光，背景简洁。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Currywurst_med_toast_%284541065102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-bbfeaab1f12b": {
+      "file": "Curryking-4612.jpg",
+      "src": "assets/photos/food/img-bbfeaab1f12b.jpg",
+      "width": 1200,
+      "height": 800,
+      "kind": "food",
+      "alt": "Currywurst 咖喱香肠 · 切片与酱汁实拍",
+      "caption": "Currywurst 咖喱香肠 · 切片与酱汁实拍",
+      "author": "Superbass",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Curryking-4612.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "德国咖喱香肠切片在餐盘中清楚呈现，日光色彩自然、咖喱粉和酱汁可辨。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Curryking-4612.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-9c2e2dfebdc4": {
+      "file": "Pączki - 2025.06.18.jpg",
+      "src": "assets/photos/food/img-9c2e2dfebdc4.jpg",
+      "width": 1066,
+      "height": 1100,
+      "kind": "food",
+      "alt": "Pączki 波兰夹馅甜甜圈 · 糖衣与橙皮装饰实拍",
+      "caption": "Pączki 波兰夹馅甜甜圈 · 糖衣与橙皮装饰实拍",
+      "author": "Aw58",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:P%C4%85czki_-_2025.06.18.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "两枚完整波兰夹馅甜甜圈，糖衣、橙皮与烘炸表皮清楚，日光自然。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d8/P%C4%85czki_-_2025.06.18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-14f3354f9691": {
+      "file": "Karczma Regionalna Gościnna Chata, Wysowa-Zdrój, Poland, 2024, 06.jpg",
+      "src": "assets/photos/food/img-14f3354f9691.jpg",
+      "width": 1200,
+      "height": 900,
+      "kind": "food",
+      "alt": "Pierogi 波兰饺子 · Wysowa-Zdrój 的 Karczma Regionalna Gościnna Chata 餐馆实拍",
+      "caption": "Pierogi 波兰饺子 · Wysowa-Zdrój 的 Karczma Regionalna Gościnna Chata 餐馆实拍",
+      "author": "Chris Olszewski",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Karczma_Regionalna_Go%C5%9Bcinna_Chata,_Wysowa-Zdr%C3%B3j,_Poland,_2024,_06.jpg",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "波兰餐馆饺子装盘完整，面皮褶皱、洋葱和配菜清楚，自然光色。"
+      },
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/6/69/Karczma_Regionalna_Go%C5%9Bcinna_Chata%2C_Wysowa-Zdr%C3%B3j%2C_Poland%2C_2024%2C_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons"
+    },
+    "img-c840e9387ff1": {
+      "file": "OpenFoodFacts-4260107222262-front_de-30.jpg",
+      "src": "assets/photos/food/img-c840e9387ff1.jpg",
+      "width": 302,
+      "height": 1100,
+      "kind": "product",
+      "alt": "fritz-kola 原味可乐的封盖玻璃瓶，黑色标签上可见品牌头像与 Hamburg 字样。",
+      "caption": "fritz-kola 原味可乐的封盖玻璃瓶，黑色标签上可见品牌头像与 Hamburg 字样。",
+      "author": "Open Food Facts contributor kiliweb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/4260107222262",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整封盖正面瓶身，品牌及产品文字清晰，白色背景、光线均匀，无手持与强反光。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/426/010/722/2262/8.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "4260107222262",
+      "photoId": "8",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/426/010/722/2262/front_de.30.full.jpg"
+    },
+    "img-e9b9f3daff5d": {
+      "file": "OpenFoodFacts-9002490100070-front_es-282.jpg",
+      "src": "assets/photos/food/img-e9b9f3daff5d.jpg",
+      "width": 426,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Red Bull 原味能量饮料的蓝银色罐装，西班牙语包装示例。",
+      "caption": "Red Bull 原味能量饮料的蓝银色罐装，西班牙语包装示例。",
+      "author": "Open Food Facts contributor thaialagata",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/9002490100070",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "原味能量饮料完整正面罐，品牌清晰，白色背景、自然金属质感，无手持或强反光；西班牙语包装示例。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/900/249/010/0070/39.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "9002490100070",
+      "photoId": "39",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/900/249/010/0070/front_es.282.full.jpg"
+    },
+    "img-3ffbd821bb2c": {
+      "file": "OpenFoodFacts-9000159198017-front_de-48.jpg",
+      "src": "assets/photos/food/img-3ffbd821bb2c.jpg",
+      "width": 773,
+      "height": 1100,
+      "kind": "product",
+      "alt": "Kelly’s 红椒味薯片，包装可见品牌、Paprika 和奥地利生产标识。",
+      "caption": "Kelly’s 红椒味薯片，包装可见品牌、Paprika 和奥地利生产标识。",
+      "author": "Open Food Facts contributor bentren",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/9000159198017",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整红椒味薯片正面包装，品牌与口味文字清楚；白色背景，轻微包装折痕和自然反光未遮挡文字。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/900/015/919/8017/11.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "9000159198017",
+      "photoId": "11",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/900/015/919/8017/front_de.48.full.jpg"
+    },
+    "img-f7378624d5d9": {
+      "file": "OpenFoodFacts-7622210310361-front_de-35.jpg",
+      "src": "assets/photos/food/img-f7378624d5d9.jpg",
+      "width": 1200,
+      "height": 309,
+      "kind": "product",
+      "alt": "Prince Polo Classic 巧克力威化的完整金色包装，品牌与 Classic 字样清晰可见。",
+      "caption": "Prince Polo Classic 巧克力威化的完整金色包装，品牌与 Classic 字样清晰可见。",
+      "author": "Open Food Facts contributor franzg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/7622210310361",
+      "checked": "2026-11-09",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-09",
+        "notes": "完整经典款正面包装，品牌、Classic 与产品示意图清晰，深色背景简洁；封口有金属包装自然反光，未遮挡标签。"
+      },
+      "originalSrc": "https://images.openfoodfacts.org/images/products/762/221/031/0361/12.jpg",
+      "provider": "Open Food Facts",
+      "productCode": "7622210310361",
+      "photoId": "12",
+      "licenseSource": "https://world.openfoodfacts.org/legal",
+      "selectedSrc": "https://images.openfoodfacts.org/images/products/762/221/031/0361/front_de.35.full.jpg"
     }
   },
   "cards": {
     "food-budapest-1": "img-cce6e9782007",
     "food-budapest-2": "img-0c01d875298b",
     "food-budapest-3": "img-302656b83d0f",
-    "food-budapest-4": "img-6e306dd06365",
     "food-debrecen-0": "img-0997e4e0603e",
     "food-debrecen-1": "img-302656b83d0f",
     "food-debrecen-3": "img-a41b3049ab1b",
-    "food-debrecen-4": "img-6e306dd06365",
     "food-szeged-3": "img-302656b83d0f",
-    "food-szeged-4": "img-6e306dd06365",
     "food-vienna-0": "img-f8712dad2a01",
-    "food-vienna-1": "img-570105ccf688",
     "food-vienna-2": "img-8b69cb9844fe",
-    "food-vienna-3": "img-35dc67bcfb40",
     "food-vienna-4": "img-d96226f01b13",
     "food-salzburg-0": "img-392c384ef3a3",
-    "food-salzburg-3": "img-35dc67bcfb40",
     "food-salzburg-4": "img-d96226f01b13",
     "food-innsbruck-1": "img-d4270b2e0b74",
     "food-innsbruck-2": "img-290e1e7f6c58",
-    "food-innsbruck-3": "img-35dc67bcfb40",
     "food-innsbruck-4": "img-d96226f01b13",
     "food-berlin-1": "img-3d67f3493c61",
-    "food-berlin-2": "img-d14544fb73c1",
-    "food-berlin-3": "img-cd4372a5a382",
     "food-berlin-4": "img-0ff5ec65d125",
     "food-berlin-5": "img-8b69cb9844fe",
     "food-munich-0": "img-04c3f4949a49",
-    "food-munich-1": "img-28b36e97d075",
-    "food-munich-2": "img-566f7e39c29f",
-    "food-munich-3": "img-cd4372a5a382",
     "food-munich-4": "img-0ff5ec65d125",
     "food-munich-5": "img-8b69cb9844fe",
-    "food-hamburg-0": "img-6bd036f4c454",
     "food-hamburg-1": "img-07b19600c450",
     "food-hamburg-2": "img-640050a394ab",
-    "food-hamburg-3": "img-cd4372a5a382",
     "food-hamburg-4": "img-0ff5ec65d125",
     "food-hamburg-5": "img-8b69cb9844fe",
     "food-cologne-1": "img-821d30aac48a",
@@ -3471,24 +4273,14 @@ const cardImages = {
     "person-lessing": "img-0537e878d6b7",
     "person-boll": "img-c8eea2cb095c",
     "person-adenauer": "img-b2344058edc1",
-    "food-culture-trappista": "img-e71388e0d7d6",
-    "food-culture-bergkase": "img-baaf98ddf4ec",
-    "food-culture-helles": "img-a8539d44693f",
-    "food-rs-cevapi": "img-f592e91d8fb8",
     "food-rs-pljeskavica": "img-bdde6d295741",
-    "food-rs-burek": "img-deb96516ae8c",
     "food-rs-gibanica": "img-c7ae4d058b69",
-    "food-rs-sarma": "img-62a953decd0f",
-    "food-rs-prebranac": "img-5d7115f82803",
     "food-rs-coffee": "img-210a2b6cea27",
     "person-rs-tesla": "img-f4ae62ec340f",
     "person-rs-constantine": "img-e541d8b7a6f9",
     "food-budapest-chicken-paprikash": "img-a41b3049ab1b",
     "food-budapest-stuffed-cabbage": "img-27b110f79d29",
-    "food-budapest-hortobagy": "img-d25fe539ee71",
-    "food-budapest-turos-csusza": "img-a003d1f02d72",
     "food-budapest-lecso": "img-7d3f5d42a263",
-    "food-budapest-somloi": "img-38f929355550",
     "food-budapest-retes": "img-8b69cb9844fe",
     "food-budapest-beigli": "img-1e519e0a9c9f",
     "food-budapest-pogacsa": "img-c5ebe95b0119",
@@ -3501,7 +4293,6 @@ const cardImages = {
     "food-vienna-topfenstrudel": "img-c83b9c981f8b",
     "food-vienna-buchteln": "img-b58018a85ed9",
     "food-vienna-semmel": "img-f0eaa703f328",
-    "food-vienna-bergkase": "img-baaf98ddf4ec",
     "food-vienna-spritzer": "img-07106f3d579e",
     "person-vienna-freud": "img-a5ab93e092cc",
     "person-vienna-strauss": "img-f8e3dc5b79d8",
@@ -3509,7 +4300,6 @@ const cardImages = {
     "food-suzhou-noodles": "img-7715efa061dc",
     "food-suzhou-mandarin-fish": "img-b959e2fa3b10",
     "food-suzhou-eel": "img-53485896af6d",
-    "food-suzhou-mooncake": "img-e613813a301f",
     "food-suzhou-cakes": "img-f78be527b828",
     "person-suzhou-wenzhengming": "img-008ff60e217d",
     "person-suzhou-pei": "img-10c76fe345ab",
@@ -3519,7 +4309,6 @@ const cardImages = {
     "food-wuxi-ribs": "img-aa86db34bbb1",
     "food-wuxi-gluten": "img-a99178922aea",
     "person-wuxi-a-bing": "img-b32bcee60e03",
-    "local-kunshan-culture": "img-ffb150065131",
     "person-hu-petofi": "img-3b93fb879274",
     "person-hu-matthias": "img-6867298cb1d7",
     "person-hu-kodaly": "img-7faf78b2e8b1",
@@ -3532,32 +4321,21 @@ const cardImages = {
     "person-rs-andric": "img-eceb978234b0",
     "person-xuzhou-sushi": "img-946f7902a7de",
     "person-wuxi-xuxiake": "img-b2f580042594",
-    "food-si-potica": "img-71a1ffa481b2",
     "food-si-kranjska": "img-ebbba81bb7e7",
-    "food-si-struklji": "img-be72b637d377",
-    "food-si-gibanica": "img-9a86bcab772c",
-    "food-si-bled-cream": "img-d97fe155b78c",
     "person-si-plecnik": "img-d80642ef76f2",
     "person-si-preseren": "img-8bc50c27c20b",
     "person-si-maister": "img-d51ba2ccaebc",
     "person-si-tartini": "img-ba7c48031780",
     "person-si-alma-karlin": "img-f50abe767174",
-    "food-pl-pierogi": "img-fe5b16d43a76",
     "food-pl-bigos": "img-e35702e7d942",
-    "food-pl-barszcz": "img-b89c9a43ed39",
-    "food-pl-golabki": "img-e991a5dd4160",
-    "food-pl-paczek": "img-2378ede47351",
     "food-pl-sernik": "img-5f7cf865c8d0",
     "food-pl-obwarzanek": "img-f124e9490d88",
-    "food-pl-oscypek": "img-c6e6380ca072",
-    "food-pl-kluski": "img-8e94e29b9480",
     "person-pl-chopin": "img-b4098c6ad7f8",
     "person-pl-curie": "img-1ed399313e8a",
     "person-pl-copernicus": "img-34a1fa815519",
     "person-pl-szymborska": "img-9dcc7e8e9836",
     "person-pl-walesa": "img-ca84b013df48",
     "person-pl-tokarczuk": "img-72a0bf5d6acb",
-    "food-pl-zurek": "img-89031e0031fe",
     "poi-salzburg-salzburg-1": "transport-poi-salzburg-salzburg-1",
     "poi-vienna-vienna-0": "transport-poi-vienna-vienna-0",
     "poi-vienna-vienna-1": "transport-poi-vienna-vienna-1",
@@ -3616,11 +4394,92 @@ const cardImages = {
     "place-maribor-station": "transport-place-maribor-station",
     "poi-debrecen-debrecen-0": "transport-poi-debrecen-debrecen-0",
     "venue-budapest-deak": "transport-venue-budapest-deak",
-    "poi-szeged-szeged-0": "transport-poi-szeged-szeged-0"
+    "poi-szeged-szeged-0": "transport-poi-szeged-szeged-0",
+    "food-budapest-0": "img-d59f5ee6b826",
+    "food-budapest-fish-soup": "img-7c71c14ad5ae",
+    "food-product-milka-chocolate": "img-2db41c45303d",
+    "food-culture-brot": "img-e74b58ef4e68",
+    "food-budapest-4": "img-63fdb61dfe46",
+    "food-debrecen-4": "img-63fdb61dfe46",
+    "food-szeged-4": "img-63fdb61dfe46",
+    "food-vienna-3": "img-e108d2e3ee1f",
+    "food-salzburg-3": "img-e108d2e3ee1f",
+    "food-innsbruck-3": "img-e108d2e3ee1f",
+    "food-vienna-1": "img-807760c6bf7e",
+    "food-vienna-5": "img-aeed80d154f3",
+    "food-salzburg-5": "img-aeed80d154f3",
+    "food-innsbruck-5": "img-aeed80d154f3",
+    "food-culture-melange": "img-aeed80d154f3",
+    "food-salzburg-1": "img-7f0e861b688f",
+    "specialty-at-0": "img-7f0e861b688f",
+    "food-vienna-gulasch": "img-12b813c809e8",
+    "food-vienna-coffee-names": "img-495cc21233e7",
+    "food-vienna-einspanner": "img-15fc7bb9f1ba",
+    "food-vienna-palatschinken": "img-85c080bf51d0",
+    "food-munich-1": "img-a464538a42a7",
+    "food-berlin-3": "img-f7049ecdff5d",
+    "food-munich-3": "img-f7049ecdff5d",
+    "food-hamburg-3": "img-f7049ecdff5d",
+    "food-cologne-2": "img-f7049ecdff5d",
+    "food-hamburg-0": "img-a5c703b18a9c",
+    "food-cologne-0": "img-77033c0135cf",
+    "food-culture-kolsch": "img-77033c0135cf",
+    "food-si-cockta": "img-d56f47dfd28d",
+    "food-pl-wedel": "img-a5dc499b7c77",
+    "food-pl-prince-polo": "img-f7378624d5d9",
+    "food-pl-wuzetka": "img-ce10f7d70f3d",
+    "food-si-potica": "img-e71ee6492922",
+    "food-si-gibanica": "img-c53982cf5024",
+    "food-si-struklji": "img-0c5dfc472467",
+    "food-rs-cevapi": "img-f623ed6b27b0",
+    "food-pl-golabki": "img-d0de7891e55e",
+    "food-pl-kluski": "img-f651905a7a91",
+    "food-szeged-2": "img-b32264161a0c",
+    "specialty-hu-0": "img-b32264161a0c",
+    "specialty-de-0": "img-b0c04983d05d",
+    "food-rs-smoki": "img-999f7361afd6",
+    "food-product-pez-candy": "img-6b77fa02b91a",
+    "food-si-gorenjka": "img-a9dab8f26b89",
+    "food-si-bled-cream": "img-8fd8dc46b9a1",
+    "food-pl-zurek": "img-b7d12df99747",
+    "food-rs-knjaz": "img-ad104d0c1e5d",
+    "food-pl-ptasie-mleczko": "img-0e388e073905",
+    "food-si-piran-salt": "img-bf06b675aceb",
+    "food-berlin-0": "img-ab026eb87e44",
+    "food-pl-paczek": "img-9c2e2dfebdc4",
+    "food-pl-pierogi": "img-14f3354f9691",
+    "food-product-fritz-kola": "img-c840e9387ff1",
+    "food-product-redbull-can": "img-e9b9f3daff5d",
+    "food-product-kellys-chips": "img-3ffbd821bb2c",
+    "specialty-at-2": "img-20458d72c210",
+    "food-debrecen-2": "img-1e519e0a9c9f"
   },
   "galleries": {
     "poi-szeged-szeged-1": [
       "transport-poi-szeged-szeged-1-gallery-2"
+    ],
+    "food-product-milka-chocolate": [
+      "img-cfc59e732c27",
+      "img-44e11b9d5f11"
+    ],
+    "food-vienna-1": [
+      "img-eaf3ba20062b"
+    ],
+    "food-pl-prince-polo": [
+      "img-3c404956f797",
+      "img-3f3fc57e2d51"
+    ],
+    "food-rs-smoki": [
+      "img-c7a907f6c0da"
+    ],
+    "food-si-bled-cream": [
+      "img-8e4ab986d232"
+    ],
+    "food-berlin-0": [
+      "img-bbfeaab1f12b"
+    ],
+    "food-debrecen-2": [
+      "img-63fdb61dfe46"
     ]
   }
 };

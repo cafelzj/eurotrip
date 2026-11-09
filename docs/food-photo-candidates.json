@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "candidates": [
     {
       "file": "Balatoni halászlé 093 (4375939627).jpg",
@@ -9,8 +9,11 @@
       "author": "János Korom Dr. from Wien, Austria",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "人物与汤锅占画面，锅沿油渍和背景杂乱，不能替代干净的鱼汤成品图。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "c7e9174437a9008c2e46a9db18a07f1caa3f3190bbd4f7a75fc785be4e0abc6c",
+      "configuredAssets": []
     },
     {
       "file": "Balatoni halászlé 094 (4375940169).jpg",
@@ -20,8 +23,13 @@
       "author": "János Korom Dr. from Wien, Austria",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "盘装鱼汤成品清楚，鱼肉块和红椒汤色可辨，光线正常；保留原有边框和作者水印，不作锅装图。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "99e83acbf114f821809ca6ac91e3a0cf30b731669a9d728e77671160ae1f2059",
+      "configuredAssets": [
+        "img-7c71c14ad5ae"
+      ]
     },
     {
       "file": "Fish soup (Halászle).jpg",
@@ -31,8 +39,11 @@
       "author": "Lukáš Perný",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "食物在户外桌面只占部分竖画面，细节软、背景留白多；酸奶油形式也不作典型塞格德鱼汤参考。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "97e6dfe0537509b4f1607bfa47e9e22f14217f5a9eaa2b4cb3a9561eaae667f2",
+      "configuredAssets": []
     },
     {
       "file": "Milka Alpine Milk Chocolate bar 100g.jpg",
@@ -42,8 +53,13 @@
       "author": "Ubcule",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "Milka整板巧克力完整、色泽自然、表面品牌压印清楚，白底简洁，适合作为实物相册图。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "882efbdb0cb6a38a00f722be9e713f9f05cc75e4b84baaedfeba59c888d61adc",
+      "configuredAssets": [
+        "img-cfc59e732c27"
+      ]
     },
     {
       "file": "Milka Alpine Milk Chocolate chunks and wrapper.jpg",
@@ -53,8 +69,13 @@
       "author": "Ubcule",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "Milka紫色正面包装与巧克力实物同时清楚，品牌与产品易辨，无强反光或杂乱背景，选为封面。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "cb7fe0f7503610b7b8731b37263ff8a0d34d8f43c20ae3664d54bfd29e23cf22",
+      "configuredAssets": [
+        "img-2db41c45303d"
+      ]
     },
     {
       "file": "Milka Alpine Milk Chocolate bar 100g with chunks broken off.jpg",
@@ -64,8 +85,13 @@
       "author": "Ubcule",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "Milka切块与整板局部展示断面和压印，色彩正常，白底简洁，可作实物细节相册。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "dbaf2607e20fb392af1e7e4a2a32d49b5e7d5f69d75be26309595a8d68c43d2b",
+      "configuredAssets": [
+        "img-44e11b9d5f11"
+      ]
     },
     {
       "file": "Bottle of \"Cockta\" in Croatia.jpg",
@@ -75,8 +101,11 @@
       "author": "Elbert Hampton",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "超市货架近拍，Cockta Free与原味混在画面，邻瓶与价签干扰，不作为干净产品图。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "d814742de5f395d6f3330393a692c7f17c088175763dba24383474fbc3d3cc7e",
+      "configuredAssets": []
     },
     {
       "file": "Bottle of Cockta, 2013.jpg",
@@ -86,8 +115,11 @@
       "author": "DimiTalen",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "手持瓶身随拍，反光强，手指占明显面积。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "3f3bc7bf3d50febc3aee1fea0ecdb626bdf709ccdab719b2c24dc343b9edc868",
+      "configuredAssets": []
     },
     {
       "file": "Cockta 2018.jpg",
@@ -97,8 +129,11 @@
       "author": "Shabicht",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "逆光瓶杯、瓶身暗部、杂乱街景与缺失瓶口，不符合商品呈现要求。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "aeea90ec158b35d69eb5d3ae649269d67d68a3cf5274bbd9bf8eee4ac6a3816b",
+      "configuredAssets": []
     },
     {
       "file": "Haribo-goldbaeren-2007.jpg",
@@ -108,8 +143,11 @@
       "author": "Benjamin Mussler at German Wikipedia",
       "license": "Public domain",
       "licenseUrl": "",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "六色Goldbären软糖单颗形态完整、色泽自然透亮，适合与包装图搭配作实物相册；不作品牌正面包装替代。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "445501506c279f749949106ef9885c6ded7512cd78668614118bffdbc1949ae0",
+      "configuredAssets": []
     },
     {
       "file": "PEZ-Candies.jpg",
@@ -119,8 +157,11 @@
       "author": "Evan-Amos",
       "license": "Public domain",
       "licenseUrl": "",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "糖块虽然较明亮，但仍为类似药片的平铺特写，缺乏包装与产品整体识别，不用于PEZ封面。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "3afcb4de83ab73363f6da49737ae60963bc5518b260b5426121b78b8fcc0d016",
+      "configuredAssets": []
     },
     {
       "file": "Pez Collection - Flickr - karen.tkr.jpg",
@@ -130,8 +171,11 @@
       "author": "Karen from Renton, WA, USA",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "糖果分配器收藏墙偏灰暗，主体细小且没有糖果包装与实物，不能作为食品卡片封面。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "b73f6746792eea1a01304f1f8cc9821fb12c4b7e1c8be50008072e2ac8e6a36d",
+      "configuredAssets": []
     },
     {
       "file": "Goulash Soup4 - 2024-02-06 19.03.01.jpg",
@@ -141,8 +185,13 @@
       "author": "LesMezei",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "碗装古拉什汤，肉、土豆与面疙瘩可辨，色彩正常，保留原图日期水印。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "cf907ec363759a1bcf0ea665062489fc006cc912d51eb860f39a1893f3a3e270",
+      "configuredAssets": [
+        "img-d59f5ee6b826"
+      ]
     },
     {
       "file": "Goulash soup 2014.jpg",
@@ -152,8 +201,11 @@
       "author": "ainudil",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "餐厅光线偏橙且较暗，汤体藏在面包碗内。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "6aa2fcc686951f16cfd463ecc3123d1f4abe0ea8210ee1e95614f590f7ad5853",
+      "configuredAssets": []
     },
     {
       "file": "Brot des Jahres 2018.jpg",
@@ -163,8 +215,13 @@
       "author": "Stollenbaecker",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "approved",
+      "notes": "德国斯佩尔特小麦面包，烘烤表皮与字样清晰，背景干净。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "173be72b8a63571aac618f3305c7ad065979d7bf4e67137b9a0a8f1de4188585",
+      "configuredAssets": [
+        "img-e74b58ef4e68"
+      ]
     },
     {
       "file": "Vanilice 001.jpg",
@@ -174,8 +231,11 @@
       "author": "",
       "license": "CC BY-SA 3.0 rs",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "塑料收纳盒随拍，偏暗偏软。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "757e4a21c5986278c4deff1fe14887a9c4127070c5de5656cd437843a041d94f",
+      "configuredAssets": []
     },
     {
       "file": "Domaće vanilice.jpg",
@@ -185,8 +245,11 @@
       "author": "Milena Djurasovic",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "花卉、杯具抢占画面，饼干主体太小且偏暗。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "a59711855752823a049109c94c304fc477400f3523b81cc22b010e8a6eb32b5a",
+      "configuredAssets": []
     },
     {
       "file": "Vanilice, Srbija.jpg",
@@ -196,8 +259,11 @@
       "author": "Verica 1966",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "饼干对焦偏软，周围树叶与篮子杂乱。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "4655bb6fe347c9609f6adac985ce4c6eba975c106c436e7eb669a7a24ec1c292",
+      "configuredAssets": []
     },
     {
       "file": "Paprika Powder, Jan 2026.jpg",
@@ -207,8 +273,11 @@
       "author": "Ralff Nestor Nacor",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "菜市场塑料袋强反光，非清楚的食品成品呈现。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "8143dacd3421cb4ae8350f47454f594d61aac714dd540bf968f05590f7e09152",
+      "configuredAssets": []
     },
     {
       "file": "Club-MateFlasche.jpg",
@@ -218,8 +287,11 @@
       "author": "Tetzemann",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "瓶身可辨但光线偏暗，背景有成排杂物，继续寻找干净商品图。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "585661c7455c580ba9ad0081e07c73c29ea5bc9aedd64d42b1a724a2d4b3655f",
+      "configuredAssets": []
     },
     {
       "file": "Club-Mate Bottle Container 0.5l in 2020.jpg",
@@ -229,8 +301,11 @@
       "author": "Emil Engler",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "主要是搬运箱，瓶身和饮品被遮挡。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "12dec71c6fde7d05546875f426d92179aed35cbf1d187ecf5863ea53559cfa46",
+      "configuredAssets": []
     },
     {
       "file": "Club-Mate photo1.jpg",
@@ -240,8 +315,11 @@
       "author": "Sami Mlouhi",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "室内灯光偏黄、失焦，灯具抢占画面。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "af11f47065e4f3d8b232d28d165ba7a5e979aa0ee3d60abc0c19eb3c9b3d0aa6",
+      "configuredAssets": []
     },
     {
       "file": "Wiener Melange 1.JPG",
@@ -251,8 +329,11 @@
       "author": "Dr. Bernd Gross",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "咖啡直闪下灰暗，桌面花纹与金属反光杂乱。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "d1bb668cac77c789edf8c8c8477cf746615d0b38788b265e769ad03c39378512",
+      "configuredAssets": []
     },
     {
       "file": "Wiener Melange 2.JPG",
@@ -262,8 +343,11 @@
       "author": "Dr. Bernd Gross",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "与22同场景，灰暗直闪。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "4b094ee74eabdd9b848309656fbe1ec3a64bb99853361fa46cf8781e020e5ee3",
+      "configuredAssets": []
     },
     {
       "file": "Wiener Melange im Sacher.JPG",
@@ -273,8 +357,11 @@
       "author": "Dr. Bernd Gross",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "咖啡直闪且偏灰，后方餐盘杂乱。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "242b7a61b2f1c9534cbe1f2ab7648863455c3f0101e0c30e72d8c5f5ac2e16d7",
+      "configuredAssets": []
     },
     {
       "file": "Almdudler bottle and glass.jpg",
@@ -284,8 +371,11 @@
       "author": "Pieter Schepens",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "手持杯、瓶已开启且部分空，人物背景杂乱。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "c40de0f5f9a23234a4b809347f3053084d4e219e53bfddd3aba32b8f5cb44b61",
+      "configuredAssets": []
     },
     {
       "file": "Almdudler samples.jpg",
@@ -295,8 +385,12 @@
       "author": "Like_the_Grand_Canyon",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "status": "needs-visual-review",
-      "notes": "只核对了来源元数据；原图尚未下载与视觉审核，不可直接加入网站。"
+      "status": "rejected",
+      "notes": "逆光窗边且标签非产品正面，玻璃反光明显。",
+      "reviewedAt": "2026-11-09",
+      "originalSha256": "f97c6288c801e1d07d32a9655babc1d2ac811da289d6b0f951ca12210099ac7d",
+      "configuredAssets": []
     }
-  ]
+  ],
+  "reviewMethod": "逐张查看下载原图；通过候选不等于必然配置，具体采用情况以卡片配置与审核记录为准。"
 }

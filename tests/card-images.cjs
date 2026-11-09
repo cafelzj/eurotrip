@@ -4,11 +4,16 @@ for(const file of ['data/cards.js','data/capitals-cards.js','data/china-cards.js
 const {cards,media}=vm.runInContext('({cards:[...travelCards,...capitalCards,...chinaCards,...heritageCards,...knowledgeCards,...sloveniaCards,...polandCards],media:cardImages})',context),byId=new Map(cards.map(n=>[n.id,n]));
 const used=new Set([...Object.values(media.cards),...Object.values(media.galleries||{}).flat()]);
 assert.equal(Object.keys(media.assets).length,used.size,'no unreferenced images');
-for(const [id,key]of Object.entries(media.cards)){const node=byId.get(id);assert(['person','food'].includes(node?.type)||(node?.type==='place'&&node.category==='transport'),id);assert(media.assets[key],id);if(['place','map'].includes(media.assets[key].kind))assert(node.type==='place'&&node.category==='transport','transport media is never used to bypass food review');}
+for(const [id,key]of Object.entries(media.cards)){const node=byId.get(id);assert(['person','food'].includes(node?.type)||(node?.type==='specialty'&&node.category==='food')||(node?.type==='place'&&node.category==='transport'),id);assert(media.assets[key],id);if(['place','map'].includes(media.assets[key].kind))assert(node.type==='place'&&node.category==='transport','transport media is never used to bypass food review');}
 for(const [id,keys]of Object.entries(media.galleries||{})){assert(media.cards[id],id+' gallery has a cover');assert(Array.isArray(keys)&&keys.length>0);assert.equal(new Set(keys).size,keys.length,'gallery has no duplicate entries');assert(keys.every(key=>media.assets[key]),id+' gallery references existing photos');}
 for(const [key,image]of Object.entries(media.assets)){
- assert(used.has(key));if(['place','map'].includes(image.kind)){assert(/^assets\/transport\/[a-z0-9-]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert.equal(image.visualReview?.status,'approved');}else {assert(/^assets\/photos\/(?:food|portraits)\/img-[a-z0-9]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert(/^https:\/\/upload\.wikimedia\.org\//.test(image.originalSrc));}
- if(image.kind==='map'){assert.equal(image.provider,'OpenStreetMap');assert(/^https:\/\/www\.openstreetmap\.org\//.test(image.source));assert(image.caption.includes('非实景'));assert(fs.existsSync(path.join(root,image.sourceData)));}else assert(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(image.source));assert(/^https:\/\//.test(image.licenseUrl));
+ assert(used.has(key));if(['place','map'].includes(image.kind)){assert(/^assets\/transport\/[a-z0-9-]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert.equal(image.visualReview?.status,'approved');}else {assert(/^assets\/photos\/(?:food|portraits)\/img-[a-z0-9]+\.(?:jpg|png)$/.test(image.src));assert(fs.existsSync(path.join(root,image.src)));assert((image.provider==='Open Food Facts'?/^https:\/\/images\.openfoodfacts\.org\/images\/products\/(?:\d+\/)+\d+\.jpg$/:/^https:\/\/upload\.wikimedia\.org\//).test(image.originalSrc));}
+ if(image.kind==='map'){assert.equal(image.provider,'OpenStreetMap');assert(/^https:\/\/www\.openstreetmap\.org\//.test(image.source));assert(image.caption.includes('非实景'));assert(fs.existsSync(path.join(root,image.sourceData)));}
+ else if(image.provider==='Open Food Facts'){
+  assert.equal(image.kind,'product');assert(/^\d{8,14}$/.test(image.productCode));assert.equal(image.source,'https://world.openfoodfacts.org/product/'+image.productCode);
+  assert.equal(image.license,'CC BY-SA 3.0');assert.equal(image.licenseUrl,'https://creativecommons.org/licenses/by-sa/3.0/');assert.equal(image.licenseSource,'https://world.openfoodfacts.org/legal');
+  assert(/^\d+$/.test(image.photoId));assert(image.originalSrc.endsWith('/'+image.photoId+'.jpg'));assert(/^https:\/\/images\.openfoodfacts\.org\/images\/products\/(?:\d+\/)+front_[a-z]+\.\d+\.full\.jpg$/.test(image.selectedSrc));assert(image.author.startsWith('Open Food Facts contributor '));
+ }else assert(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(image.source));assert(/^https:\/\//.test(image.licenseUrl));
  assert(image.alt&&image.caption&&image.author&&image.license&&image.file&&/^\d{4}-\d\d-\d\d$/.test(image.checked));
  assert(Number.isInteger(image.width)&&image.width>0&&Number.isInteger(image.height)&&image.height>0);assert(['food','portrait','product','place','map'].includes(image.kind));
 }
@@ -60,6 +65,17 @@ console.log('PASS curated image ownership, source/license/alt/dimensions, comple
    await go(hash);assert.equal(await p.locator('.entity-image img').evaluate(e=>getComputedStyle(e).objectFit),'contain');
    for(const width of [1440,768,390,320]){await p.setViewportSize({width,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'image/credit fit '+width);const r=await p.locator('.entity-image .card-image-frame').boundingBox();assert(r.width>100&&r.height>100);}
   }
+  // Published albums and the second photo provider use real local files and
+  // their own credits, including edible specialty cards.
+  await go('#card/food-pl-prince-polo');assert.equal(await p.locator('[data-photo-index]').count(),3);
+  const princeCover=media.assets[media.cards['food-pl-prince-polo']];
+  assert.equal(princeCover.provider,'Open Food Facts');assert.equal(await p.locator('.entity-image .card-image-credit a').last().getAttribute('href'),princeCover.source);
+  assert((await p.locator('.entity-image figcaption').innerText()).includes('CC BY-SA 3.0'));
+  await p.locator('[data-photo-index="1"]').click();await p.locator('.entity-image .card-image-frame img').evaluate(im=>im.decode());
+  assert((await p.locator('.entity-image .card-image-credit a').last().getAttribute('href')).startsWith('https://commons.wikimedia.org/wiki/File:'));
+  assert((await p.locator('.entity-image figcaption').innerText()).includes('Evan-Amos'));
+  await go('#card/food-product-milka-chocolate');assert.equal(await p.locator('[data-photo-index]').count(),3);
+  for(const id of ['specialty-at-0','specialty-at-2','specialty-hu-0','specialty-de-0']){await go('#card/'+id);await p.locator('.entity-image .card-image-frame img').evaluate(im=>im.decode());assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'specialty photo fits mobile '+id);}
   await go('#card/food-budapest-2');
   await p.evaluate(()=>{const id='food-budapest-2';cardImages.galleries={[id]:[cardImages.cards['food-budapest-3']]};document.querySelector('.entity-media').innerHTML=CardImages.detail(CardGraph.nodes.get(id));});
   assert.equal(await p.locator('[data-photo-index]').count(),2);await p.locator('[data-photo-index="1"] img').evaluate(e=>e.src='/__missing-card-image.jpg');await p.locator('[data-photo-index="1"].is-unavailable').waitFor();await p.locator('[data-photo-index="1"]').click();assert.equal(await p.locator('.card-image-position').innerText(),'2 / 2');assert((await p.locator('.entity-image figcaption').innerText()).includes('炖肉'));await p.keyboard.press('ArrowLeft');assert.equal(await p.locator('.card-image-position').innerText(),'1 / 2');assert.equal(await p.locator('[data-photo-index="0"]').getAttribute('aria-pressed'),'true');

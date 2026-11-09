@@ -1,0 +1,1918 @@
+{
+  "updatedAt": "2026-11-09",
+  "scope": "菜品、饮料、包装食品和可食用特产；餐饮场所、消费提示、品牌介绍和工艺品不计入这个分母。food-pl-amber 虽为历史 food 类型，实际是琥珀工艺，单独排除。",
+  "summary": {
+    "foodCards": 173,
+    "foodCardsWithPhotos": 116,
+    "edibleSpecialtyCards": 10,
+    "edibleSpecialtyCardsWithPhotos": 4,
+    "approvedPhotographs": 100,
+    "newPhotographs": 51,
+    "removedPhotographs": 31,
+    "foodAlbums": 7
+  },
+  "cards": [
+    {
+      "card": "food-budapest-0",
+      "name": "古拉什汤（gulyás）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d59f5ee6b826"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-1",
+      "name": "烟囱蛋糕（kürtőskalács）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-cce6e9782007"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-2",
+      "name": "兰戈什（lángos）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0c01d875298b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-3",
+      "name": "炖肉（pörkölt）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-302656b83d0f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-4",
+      "name": "多博什蛋糕（Dobos torta）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-63fdb61dfe46"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-5",
+      "name": "托卡伊甜酒（Tokaji Aszú）",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-debrecen-0",
+      "name": "德布勒森香肠（debreceni）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0997e4e0603e"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-debrecen-1",
+      "name": "炖肉（pörkölt）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-302656b83d0f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-debrecen-2",
+      "name": "甜点与糕饼",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-1e519e0a9c9f",
+        "img-63fdb61dfe46"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-debrecen-3",
+      "name": "红椒炖鸡（paprikás csirke）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a41b3049ab1b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-debrecen-4",
+      "name": "多博什蛋糕（Dobos torta）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-63fdb61dfe46"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-debrecen-5",
+      "name": "托卡伊甜酒（Tokaji Aszú）",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-szeged-0",
+      "name": "塞格德鱼汤（szegedi halászlé）",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-szeged-1",
+      "name": "Pick 萨拉米",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-szeged-2",
+      "name": "红椒粉（paprika）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-b32264161a0c"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-szeged-3",
+      "name": "炖肉（pörkölt）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-302656b83d0f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-szeged-4",
+      "name": "多博什蛋糕（Dobos torta）",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-63fdb61dfe46"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-szeged-5",
+      "name": "托卡伊甜酒（Tokaji Aszú）",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-vienna-0",
+      "name": "维也纳炸肉排（Wiener Schnitzel）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f8712dad2a01"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-1",
+      "name": "萨赫蛋糕（Sachertorte）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-807760c6bf7e",
+        "img-eaf3ba20062b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-2",
+      "name": "苹果卷（Apfelstrudel）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-3",
+      "name": "清煮牛肉（Tafelspitz）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e108d2e3ee1f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-4",
+      "name": "皇帝煎饼（Kaiserschmarrn）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d96226f01b13"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-5",
+      "name": "维也纳米朗琪（Wiener Melange）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-aeed80d154f3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-salzburg-0",
+      "name": "萨尔茨堡舒芙蕾（Salzburger Nockerl）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-392c384ef3a3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-salzburg-1",
+      "name": "莫扎特巧克力球（Mozartkugel）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-7f0e861b688f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-salzburg-2",
+      "name": "卡斯诺肯（Kasnocken）",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-salzburg-3",
+      "name": "清煮牛肉（Tafelspitz）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e108d2e3ee1f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-salzburg-4",
+      "name": "皇帝煎饼（Kaiserschmarrn）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d96226f01b13"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-salzburg-5",
+      "name": "维也纳米朗琪（Wiener Melange）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-aeed80d154f3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-innsbruck-0",
+      "name": "蒂罗尔培根（Tiroler Speck）",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-innsbruck-1",
+      "name": "奶酪面疙瘩（Käsespätzle）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d4270b2e0b74"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-innsbruck-2",
+      "name": "蒂罗尔煎锅（Tiroler Gröstl）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-290e1e7f6c58"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-innsbruck-3",
+      "name": "清煮牛肉（Tafelspitz）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e108d2e3ee1f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-innsbruck-4",
+      "name": "皇帝煎饼（Kaiserschmarrn）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d96226f01b13"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-innsbruck-5",
+      "name": "维也纳米朗琪（Wiener Melange）",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-aeed80d154f3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-berlin-0",
+      "name": "咖喱香肠（Currywurst）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-ab026eb87e44",
+        "img-bbfeaab1f12b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-berlin-1",
+      "name": "柏林甜甜圈（Berliner / Pfannkuchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-3d67f3493c61"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-berlin-2",
+      "name": "Döner",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-berlin-3",
+      "name": "酸炖牛肉（Sauerbraten）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f7049ecdff5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-berlin-4",
+      "name": "土豆煎饼（Reibekuchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0ff5ec65d125"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-berlin-5",
+      "name": "苹果卷（Apfelstrudel）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-munich-0",
+      "name": "白香肠（Weißwurst）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-04c3f4949a49"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-munich-1",
+      "name": "椒盐卷饼（Brezel）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a464538a42a7"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-munich-2",
+      "name": "猪肘（Schweinshaxe）",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-munich-3",
+      "name": "酸炖牛肉（Sauerbraten）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f7049ecdff5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-munich-4",
+      "name": "土豆煎饼（Reibekuchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0ff5ec65d125"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-munich-5",
+      "name": "苹果卷（Apfelstrudel）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-0",
+      "name": "鱼面包（Fischbrötchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a5c703b18a9c"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-1",
+      "name": "肉桂卷（Franzbrötchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-07b19600c450"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-2",
+      "name": "Labskaus",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-640050a394ab"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-3",
+      "name": "酸炖牛肉（Sauerbraten）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f7049ecdff5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-4",
+      "name": "土豆煎饼（Reibekuchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0ff5ec65d125"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-hamburg-5",
+      "name": "苹果卷（Apfelstrudel）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-cologne-0",
+      "name": "科隆啤酒（Kölsch）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-77033c0135cf"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-cologne-1",
+      "name": "Halver Hahn",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-821d30aac48a"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-cologne-2",
+      "name": "莱茵酸炖牛肉（Sauerbraten）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f7049ecdff5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-cologne-3",
+      "name": "酸菜（Sauerkraut）",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-cologne-4",
+      "name": "土豆煎饼（Reibekuchen）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0ff5ec65d125"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-cologne-5",
+      "name": "苹果卷（Apfelstrudel）",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-turo-rudi",
+      "name": "Pöttyös Túró Rudi",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-sport-bar",
+      "name": "Sport szelet 巧克力棒",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-b3a6ab84245f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-balaton-wafer",
+      "name": "Balaton 巧克力威化",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-szent-water",
+      "name": "Szentkirályi 矿泉水",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-hell-can",
+      "name": "HELL 能量饮料",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-marka-soda",
+      "name": "Márka 果味饮料",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-eros-pista",
+      "name": "Univer Erős Pista 红椒酱",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-875267846d00"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-manner-wafer",
+      "name": "Manner Neapolitaner 威化",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-20458d72c210"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-almdudler-soda",
+      "name": "Almdudler 草本汽水",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-redbull-can",
+      "name": "Red Bull 能量饮料",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e9b9f3daff5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-rauch-bravo",
+      "name": "RAUCH Bravo 果味饮料",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-pez-candy",
+      "name": "PEZ 糖果",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-6b77fa02b91a"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-kellys-chips",
+      "name": "Kelly’s 薯片",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-3ffbd821bb2c"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-haribo-goldbaren",
+      "name": "HARIBO Goldbären 小熊软糖",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-ritter-chocolate",
+      "name": "Ritter Sport 方形巧克力",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-15b4aad7175a"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-leibniz-biscuit",
+      "name": "LEIBNIZ Butterkeks 黄油饼干",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f15d19a643c3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-chipsfrisch",
+      "name": "funny-frisch Chipsfrisch 薯片",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-fritz-kola",
+      "name": "fritz-kola 可乐",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c840e9387ff1"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-club-mate",
+      "name": "Club-Mate 马黛茶饮料",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-product-bionade",
+      "name": "BIONADE 风味汽水",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c7a4583c6b1b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-product-milka-chocolate",
+      "name": "Milka 牛奶巧克力",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-2db41c45303d",
+        "img-cfc59e732c27",
+        "img-44e11b9d5f11"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-culture-hungarian-coffee",
+      "name": "匈牙利咖啡馆里的 espresso",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-culture-trappista",
+      "name": "Trappista 奶酪",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-culture-melange",
+      "name": "Wiener Melange 维也纳咖啡",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-aeed80d154f3"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-culture-gruner",
+      "name": "Grüner Veltliner 绿维特利纳",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-culture-bergkase",
+      "name": "Bergkäse 山地奶酪",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-culture-brot",
+      "name": "Brotkultur 德国面包文化",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e74b58ef4e68"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-culture-kolsch",
+      "name": "Kölsch 科隆啤酒",
+      "country": "de",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-77033c0135cf"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-culture-helles",
+      "name": "Münchner Helles 慕尼黑淡色拉格",
+      "country": "de",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-cevapi",
+      "name": "切瓦皮烤肉条",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f623ed6b27b0"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-pljeskavica",
+      "name": "普列斯卡维察烤肉饼",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-bdde6d295741"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-burek",
+      "name": "布雷克酥皮馅饼",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-gibanica",
+      "name": "吉巴尼察奶酪酥皮派",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c7ae4d058b69"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-sarma",
+      "name": "酸卷心菜包肉",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-prebranac",
+      "name": "烤豆煲",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-kajmak",
+      "name": "卡伊马克乳脂制品",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-vanilice",
+      "name": "香草夹心小饼干",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-plazma",
+      "name": "Plazma 饼干",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-smoki",
+      "name": "Smoki 花生玉米零食",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-999f7361afd6",
+        "img-c7a907f6c0da"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-knjaz",
+      "name": "Knjaz Miloš 气泡矿泉水",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-ad104d0c1e5d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-rakija",
+      "name": "拉基亚果实蒸馏酒",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-rs-coffee",
+      "name": "家常煮咖啡",
+      "country": "rs",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-210a2b6cea27"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-novi-sad-index",
+      "name": "Index 热三明治",
+      "country": "rs",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-budapest-chicken-paprikash",
+      "name": "红椒炖鸡",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a41b3049ab1b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-stuffed-cabbage",
+      "name": "匈牙利卷心菜卷",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-27b110f79d29"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-hortobagy",
+      "name": "霍尔托巴吉肉馅煎饼",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-budapest-turos-csusza",
+      "name": "凝乳拌面",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-budapest-lecso",
+      "name": "红椒番茄炖菜",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-7d3f5d42a263"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-fish-soup",
+      "name": "匈牙利鱼汤",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-7c71c14ad5ae"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-somloi",
+      "name": "绍姆洛伊海绵蛋糕甜点",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-budapest-retes",
+      "name": "匈牙利果馅卷",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8b69cb9844fe"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-beigli",
+      "name": "核桃 / 罂粟籽卷",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-1e519e0a9c9f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-pogacsa",
+      "name": "匈牙利咸味小圆酥饼",
+      "country": "hu",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c5ebe95b0119"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-budapest-salami",
+      "name": "匈牙利萨拉米 · 读标签再比较",
+      "country": "hu",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-vienna-kasekrainer",
+      "name": "奶酪香肠与法兰克福香肠",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-5e3e3c3d92d7"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-leberkase",
+      "name": "Leberkäse · 熟肉烤块",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0cd3d2b4973a"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-gulasch",
+      "name": "维也纳炖牛肉",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-12b813c809e8"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-frittaten",
+      "name": "煎饼丝清汤",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-bebdc3c836c4"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-palatschinken",
+      "name": "奥地利薄煎饼",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-85c080bf51d0"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-topfenstrudel",
+      "name": "凝乳卷",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c83b9c981f8b"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-buchteln",
+      "name": "果酱馅酵母面包团",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-b58018a85ed9"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-semmel",
+      "name": "面包店里的 Semmel 与 Kipferl",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f0eaa703f328"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-bergkase",
+      "name": "奥地利山地奶酪",
+      "country": "at",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-vienna-einspanner",
+      "name": "Einspänner · 咖啡与奶油",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-15fc7bb9f1ba"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-coffee-names",
+      "name": "Brauner 与 Verlängerter",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-495cc21233e7"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-vienna-spritzer",
+      "name": "白葡萄酒汽水与 Heuriger",
+      "country": "at",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-07106f3d579e"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-suzhou-noodles",
+      "name": "苏式汤面 · 先选汤，再选浇头",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-7715efa061dc"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-suzhou-mandarin-fish",
+      "name": "松鼠鳜鱼 · 造型与酸甜口",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-b959e2fa3b10"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-suzhou-eel",
+      "name": "响油鳝糊 · 鲜香的一道热菜",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-53485896af6d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-suzhou-mooncake",
+      "name": "苏式月饼 · 酥皮也有咸口",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-suzhou-cakes",
+      "name": "苏式糕团 · 随季节挑选",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f78be527b828"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-xuzhou-diguoji",
+      "name": "徐州地锅鸡",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8a86bd25d6a1"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-xuzhou-lomo",
+      "name": "烙馍与卷菜",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-xuzhou-satang",
+      "name": "饣它汤 · 早餐热汤",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-xuzhou-sha-tang",
+      "name": "徐州辣汤与早餐搭配",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-xuzhou-mijian",
+      "name": "蜜三刀",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-6d12f292bfdc"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-wuxi-xiaolong",
+      "name": "无锡小笼包",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-wuxi-ribs",
+      "name": "无锡酱排骨",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-aa86db34bbb1"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-wuxi-gluten",
+      "name": "清水油面筋与面筋塞肉",
+      "country": "cn",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a99178922aea"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-wuxi-haitang",
+      "name": "无锡糕团与时令点心",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "local-kunshan-culture",
+      "name": "奥灶面",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "local-changshu-culture",
+      "name": "常熟蕈油面",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "local-jiangyin-culture",
+      "name": "江阴马蹄酥",
+      "country": "cn",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-si-potica",
+      "name": "Potica · 卷馅甜面包",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e71ee6492922"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-kranjska",
+      "name": "卡尼奥拉香肠",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-ebbba81bb7e7"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-struklji",
+      "name": "Štruklji · 卷馅面点",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0c5dfc472467"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-gibanica",
+      "name": "普雷克穆列 Gibanica 多层糕点",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-c53982cf5024"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-bled-cream",
+      "name": "布莱德奶油蛋糕",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-8fd8dc46b9a1",
+        "img-8e4ab986d232"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-styrian-wine",
+      "name": "斯洛文尼亚施蒂利亚葡萄酒",
+      "country": "si",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-si-istrian-fish",
+      "name": "皮兰的海鱼与伊斯特拉风味",
+      "country": "si",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-si-piran-salt",
+      "name": "皮兰盐与盐之花",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-bf06b675aceb"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-gorenjka",
+      "name": "Gorenjka 巧克力",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a9dab8f26b89"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-cockta",
+      "name": "Cockta 草本风味汽水",
+      "country": "si",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d56f47dfd28d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-si-argeta",
+      "name": "Argeta 涂抹酱",
+      "country": "si",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-si-fructal",
+      "name": "Fructal 果汁与饮料",
+      "country": "si",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-si-radenska",
+      "name": "Radenska 矿泉水",
+      "country": "si",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-pl-pierogi",
+      "name": "Pierogi · 波兰饺子",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-14f3354f9691"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-zurek",
+      "name": "Żurek · 黑麦发酵酸汤",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-b7d12df99747"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-bigos",
+      "name": "Bigos · 酸菜肉炖锅",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-e35702e7d942"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-barszcz",
+      "name": "Barszcz czerwony · 红甜菜汤",
+      "country": "pl",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-pl-golabki",
+      "name": "Gołąbki · 卷心菜包馅",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-d0de7891e55e"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-paczek",
+      "name": "Pączki · 波兰夹馅甜甜圈",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-9c2e2dfebdc4"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-sernik",
+      "name": "Sernik · 波兰奶酪蛋糕",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-5f7cf865c8d0"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-wuzetka",
+      "name": "Wuzetka · 华沙可可奶油蛋糕",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-ce10f7d70f3d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-obwarzanek",
+      "name": "克拉科夫 Obwarzanek 环形面包",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f124e9490d88"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-oscypek",
+      "name": "Oscypek · 波德哈莱熏奶酪",
+      "country": "pl",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-pl-sledz",
+      "name": "Śledź · 鲱鱼小食",
+      "country": "pl",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-pl-kluski",
+      "name": "西里西亚土豆团",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f651905a7a91"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-wedel",
+      "name": "E.Wedel 巧克力",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-a5dc499b7c77"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-ptasie-mleczko",
+      "name": "Ptasie Mleczko · 巧克力裹泡沫糖",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-0e388e073905"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-prince-polo",
+      "name": "Prince Polo 威化",
+      "country": "pl",
+      "type": "food",
+      "status": "approved-photo",
+      "assets": [
+        "img-f7378624d5d9",
+        "img-3c404956f797",
+        "img-3f3fc57e2d51"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-pl-krowki",
+      "name": "Krówki · 波兰奶糖",
+      "country": "pl",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "food-pl-tymbark",
+      "name": "Tymbark 果汁与饮料",
+      "country": "pl",
+      "type": "food",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "local-fengxian-culture",
+      "name": "丰县 · 梨与苹果的产地线索",
+      "country": "cn",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "specialty-at-1",
+      "name": "南瓜籽油",
+      "country": "at",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "local-taicang-culture",
+      "name": "太仓肉松",
+      "country": "cn",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "specialty-hu-0",
+      "name": "红椒粉",
+      "country": "hu",
+      "type": "specialty",
+      "status": "approved-photo",
+      "assets": [
+        "img-b32264161a0c"
+      ],
+      "reason": null
+    },
+    {
+      "card": "food-rs-ajvar",
+      "name": "阿伊瓦烤椒酱",
+      "country": "rs",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "specialty-de-0",
+      "name": "吕贝克杏仁糖",
+      "country": "de",
+      "type": "specialty",
+      "status": "approved-photo",
+      "assets": [
+        "img-b0c04983d05d"
+      ],
+      "reason": null
+    },
+    {
+      "card": "specialty-hu-1",
+      "name": "托卡伊葡萄酒",
+      "country": "hu",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "specialty-suzhou-tea",
+      "name": "洞庭碧螺春 · 苏州的茶礼",
+      "country": "cn",
+      "type": "specialty",
+      "status": "needs-suitable-photo",
+      "assets": [],
+      "reason": "本轮未取得可采用且完成原图审核的对应照片；继续保持文字卡片，禁止以错图、差图或生成图补足数量。"
+    },
+    {
+      "card": "specialty-at-0",
+      "name": "莫扎特巧克力球",
+      "country": "at",
+      "type": "specialty",
+      "status": "approved-photo",
+      "assets": [
+        "img-7f0e861b688f"
+      ],
+      "reason": null
+    },
+    {
+      "card": "specialty-at-2",
+      "name": "威化饼",
+      "country": "at",
+      "type": "specialty",
+      "status": "approved-photo",
+      "assets": [
+        "img-20458d72c210"
+      ],
+      "reason": null
+    }
+  ],
+  "restaurantVenues": {
+    "total": 37,
+    "withPhotos": 0,
+    "status": "separate-follow-up",
+    "note": "指定餐饮地点需核对实际店铺与分店后另配照片，不能拿同名店或泛菜品图代替。"
+  }
+}
