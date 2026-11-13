@@ -11,7 +11,7 @@ window.CardStore=(()=>{
  const foodKey=(id,i)=>`food-${id}-${i}`,sightKey=(id,i)=>`place-${id}-${i}`;
  const poiKey=(id,p)=>p.knowledgeId||`poi-${id}-${p.id}`;
  const coords=p=>`https://www.openstreetmap.org/?mlat=${p.lat}&mlon=${p.lon}#map=16/${p.lat}/${p.lon}`;
- function add(card){const editorial=!card.live&&typeof cardReading!=='undefined'?cardReading[card.id]:null;const node={...card,...(editorial||{}),briefDescription:card.description};if(node.point)node.point={...node.point,knowledgeId:node.id};
+ function add(card){const editorial=!card.live&&typeof cardReading!=='undefined'?cardReading[card.id]:null;const node={...card,...(editorial||{})};if(node.point)node.point={...node.point,knowledgeId:node.id};
   if(!node.subcategory){const p=node.point;node.subcategory=node.live&&node.parentCard&&p?.group==='food'?'chain-dining':cardCategories.pointKinds[p?.category]||cardCategories.pointKinds[p?.sub]||cardCategories.pointGroups[p?.group]||cardCategories.typeDefaults[node.type];}
   const sub=subcategories.get(node.subcategory);if(!sub||!types[node.type]||node.category&&node.category!==sub.category)throw Error('卡片分类无效：'+node.id);
   node.category=sub.category;nodes.set(node.id,node);if(!edges.has(node.id))edges.set(node.id,[]);return node;

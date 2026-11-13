@@ -8,9 +8,6 @@ window.CardFeed=(()=>{
   function layout(){
    if(frame)cancelAnimationFrame(frame);frame=0;if(stopped||!grid.isConnected)return;
    const style=getComputedStyle(grid),columns=parseInt(style.getPropertyValue('--feed-columns'))||1,gap=parseFloat(style.columnGap)||16,heights=Array(columns).fill(0),nodes=[...grid.children];
-   // Measuring auto-placed rows must not temporarily collapse the document and
-   // clamp the user's scroll position in the compact destination presentation.
-   const minHeight=grid.style.minHeight;grid.style.minHeight=grid.getBoundingClientRect().height+'px';
    // Clear former coordinates before measuring: a third column must not survive a two-column resize.
    for(const item of nodes){item.style.gridColumn='auto';item.style.gridRow='auto';}
    const sizes=nodes.map(item=>Math.ceil(item.firstElementChild.getBoundingClientRect().height));
@@ -19,7 +16,6 @@ window.CardFeed=(()=>{
     item.style.gridColumn=String(column+1);item.style.gridRow=(heights[column]+1)+' / span '+Math.max(1,height);
     heights[column]+=height+gap;
    }
-   grid.style.minHeight=minHeight;
    if(shown<items.length)intersection?.observe(sentinel);
   }
   function schedule(){if(!stopped&&!frame)frame=requestAnimationFrame(layout);}
@@ -39,13 +35,10 @@ window.CardFeed=(()=>{
   if(window.ResizeObserver){resize=new ResizeObserver(entries=>{const width=entries[0].contentRect.width;if(Math.abs(width-lastWidth)>.5){lastWidth=width;schedule();}});resize.observe(grid);}
   else window.addEventListener('resize',schedule,{passive:true});
   grid.addEventListener('load',schedule,true);document.fonts?.ready.then(schedule);
-  window.addEventListener('site-style-change',schedule);window.addEventListener('site-layout-change',schedule);
   if(items.length)append(Math.max(batch,initialCount));
   else{status.textContent='当前筛选没有匹配卡片，可尝试其他关键词或重置筛选。';button.hidden=true;}
   function reveal(id){const index=items.findIndex(n=>n.id===id);if(index<0)return null;if(index>=shown)append(Math.ceil((index+1)/batch)*batch);layout();return grid.querySelector('[data-knowledge-card="'+CSS.escape(id)+'"]');}
-  function destroy(){stopped=true;intersection?.disconnect();resize?.disconnect();if(frame)cancelAnimationFrame(frame);grid.removeEventListener('load',schedule,true);window.removeEventListener('resize',schedule);window.removeEventListener('site-style-change',schedule);window.removeEventListener('site-layout-change',schedule);}
-  // Set the collection's real height before a route restores its scroll position.
-  layout();
+  function destroy(){stopped=true;intersection?.disconnect();resize?.disconnect();if(frame)cancelAnimationFrame(frame);grid.removeEventListener('load',schedule,true);window.removeEventListener('resize',schedule);}
   return {destroy,reveal};
  }
  return {mount};
