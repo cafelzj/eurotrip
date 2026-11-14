@@ -1,4 +1,4 @@
-/* Regional foods and local brands. Editorial text with sources per item. */
+/* Regional foods, local products and crafts. Editorial text with sources per item. */
 window.flavorCatalog={
   "reviewed": "2026-11-14",
   "provinces": [
@@ -133,6 +133,11 @@ window.flavorCatalog={
       "id": "seasoning",
       "name": "调味品",
       "color": "#8a7047"
+    },
+    {
+      "id": "crafts",
+      "name": "物品与工艺",
+      "color": "#79658a"
     }
   ],
   "proteins": [
@@ -8935,6 +8940,110 @@ window.flavorCatalog={
       "publisher": "无锡市政府新闻办（澎湃号·政务）",
       "kind": "official",
       "checked": "2026-11-14"
+    },
+    "regional-20261114-bj-produce": {
+      "name": "北京市农业农村局｜寻味北京35个地标农产品",
+      "url": "https://nyncj.beijing.gov.cn/nyj/snxx/gqxx/325838454/index.html"
+    },
+    "regional-20261114-bj-mtg": {
+      "name": "门头沟区政府｜十四五时期休闲农业发展规划",
+      "url": "https://www.bjmtg.gov.cn/bjmtg/2024zcwj/202408/ea12154fb664473cb16410b5f65b95b9.shtml"
+    },
+    "regional-20261114-sd-produce": {
+      "name": "人民网／大众日报｜山东培育13个农业优势特色产业",
+      "url": "https://sd.people.com.cn/n2/2021/0616/c166192-34778337.html"
+    },
+    "regional-20261114-sh-produce": {
+      "name": "上海市农业农村委｜农产品地理标志产品（上海）",
+      "url": "https://nyncw.sh.gov.cn/ztmycpzs/20180705/0009-67360.html"
+    },
+    "regional-20261114-sx-produce": {
+      "name": "商务部中国保护知识产权网｜临汾25个农产品地理标志转化认定",
+      "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202508/1992795.html"
+    },
+    "regional-20261114-hb-produce": {
+      "name": "石家庄市市场监管局｜地理标志产品信息表",
+      "url": "https://scjg.sjz.gov.cn/columns/4915bd5e-5287-458d-a4a3-6f354c26371b/202603/04/08e59335-baed-4662-98b0-8b44daae9650.html"
+    },
+    "regional-20261114-hn-produce": {
+      "name": "湖南省政府｜地理标志集体、证明商标与产品名录",
+      "url": "https://hunan.gov.cn/topic/2020hnjksc/jkscwzewm/202412/t20241223_33533711.html"
+    },
+    "regional-20261114-hn-lotus": {
+      "name": "湖南省政府／湖南日报｜湘潭湘莲入选中国消费名品",
+      "url": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202601/t20260119_33895231.html"
+    },
+    "regional-20261114-hu-produce": {
+      "name": "湖北省农业农村厅／湖北日报｜特色之乡行动方案",
+      "url": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202507/t20250701_5709974.shtml"
+    },
+    "regional-20261114-ln-produce": {
+      "name": "辽宁省农业农村厅｜农产品区域公用品牌名单",
+      "url": "https://nync.ln.gov.cn/nync/index/rdzt/lnyppwlx/ppml/2026020611263275151/index.shtml"
+    },
+    "regional-20261114-ln-tomato": {
+      "name": "盘锦市农业农村局｜盘锦碱地柿子",
+      "url": "https://nyncj.panjin.gov.cn/2024_07/01_08/content-477529.html"
+    },
+    "regional-20261114-jl-produce": {
+      "name": "吉林省市场监管厅｜地理标志商标名录",
+      "url": "https://scjg.jl.gov.cn/ztzl/jlszscq/sbdlbz/dlbzsb/202601/t20260120_9400851.html"
+    },
+    "regional-20261114-hlj-produce": {
+      "name": "伊美区政府｜全国名特优新农产品名录报道",
+      "url": "https://www.ycym.gov.cn/ymqrmzf/c101939/202409/371672.shtml"
+    },
+    "regional-20261114-zj-food": {
+      "name": "文化和旅游部／中国旅游报｜常山全域旅游与地方果品",
+      "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/zj/201911/t20191129_849210.html"
+    },
+    "regional-20261114-ah-pomegranate": {
+      "name": "怀远县政府｜石榴全链发展与特色产业",
+      "url": "https://www.ahhy.gov.cn/xwzx/bmdt/81384389.html"
+    },
+    "regional-20261114-he-wenxian": {
+      "name": "河南豫台视窗｜温县铁棍山药",
+      "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/articleecf5ad24710949c8946179ac4906c844.html"
+    },
+    "regional-20261114-he-jujube": {
+      "name": "河南豫台视窗｜新郑红枣",
+      "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/article61b8389e09fb4124a57cc2aa3d9fc0b8.html"
+    },
+    "regional-20261114-cnipa-products": {
+      "name": "国家知识产权局｜第660号地理标志用标公告",
+      "url": "https://www.cnipa.gov.cn/art/2026/1/12/art_575_203605.html"
+    },
+    "regional-20261114-fj-dried": {
+      "name": "龙岩市委党史和地方志研究室｜闽西八大干",
+      "url": "https://ly.fjdsfzw.org.cn/2020-07-17/content_94460.html"
+    },
+    "regional-20261114-craft-national": {
+      "name": "文化和旅游部｜第一批国家级非物质文化遗产名录",
+      "url": "https://zwgk.mct.gov.cn/zfxxgkml/fwzwhyc/202012/t20201206_916788.html"
+    },
+    "regional-20261114-bj-rabbit": {
+      "name": "北京市政府／朝阳文旅局｜泥塑（北京兔儿爷）",
+      "url": "https://www.beijing.gov.cn/renwen/bjgk/cygk/cyfy/202307/t20230712_3161042.html"
+    },
+    "regional-20261114-craft-hunan": {
+      "name": "湖南省政府｜首批国家传统工艺振兴目录湖南项目",
+      "url": "https://www.hunan.gov.cn/hnyw/sy/hnyw1/201805/t20180526_5019993.html"
+    },
+    "regional-20261114-craft-hubei": {
+      "name": "湖北省文化和旅游厅｜省级非遗代表性项目名录",
+      "url": "https://wlt.hubei.gov.cn/bsfw/bmcxfw/fwzwhyc/dbxxm/dbxxmsj/201911/t20191121_1363880.shtml"
+    },
+    "regional-20261114-craft-jl": {
+      "name": "中国吉林网｜松花石雕刻技艺",
+      "url": "https://culture.cnjiwang.com/ccjlfwzwhycxszg/202506/3952923.html"
+    },
+    "regional-20261114-craft-hlj": {
+      "name": "黑龙江省农业农村厅／人民日报｜同江赫哲族渔猎文化",
+      "url": "https://nynct.hlj.gov.cn/nynct/c115380/202411/c00_31786567.shtml"
+    },
+    "regional-20261114-wuxi-ice": {
+      "name": "扬子晚报／无锡日报｜省级非遗工坊，无锡＋3！",
+      "url": "https://www.yangtse.com/news/jiangsu/wuxi/202506/t20250619_223887.html"
     }
   },
   "items": [
@@ -22159,8 +22268,10 @@ window.flavorCatalog={
       "description": "封丘树莓来自新乡封丘，果实柔软多汁，甜酸味鲜明，可直接食用，也能用于果汁、果酱等加工。",
       "detail": "浆果由许多小颗粒组成，成熟度影响甜酸和软硬。此项记录产区鲜果，与加糖、调配后的瓶装饮品分列。",
       "sources": [
-        "six-c4b0ed338ccba0"
-      ]
+        "six-c4b0ed338ccba0",
+        "regional-20261114-cnipa-products"
+      ],
+      "locality": "封丘县"
     },
     {
       "id": "flavor-henan-8fb32699e3",
@@ -26145,8 +26256,10 @@ window.flavorCatalog={
       "description": "东港大黄蚬来自丹东东港近海贝类资源，蚬肉鲜味明显，常以蒸煮等方式熟食，也可制成加工海鲜食品。",
       "detail": "贝壳与肉体呈现地方海产品辨识，鲜货和包装加工品状态不同；作为产区食材收录，不将某一菜式等同所有黄蚬。",
       "sources": [
-        "six-f6e976551a92cf"
-      ]
+        "six-f6e976551a92cf",
+        "regional-20261114-ln-produce"
+      ],
+      "locality": "东港市"
     },
     {
       "id": "flavor-liaoning-96fbbcd24e",
@@ -26400,8 +26513,10 @@ window.flavorCatalog={
       "description": "盘锦河蟹关联当地稻田与湿地养殖，成蟹可清蒸等熟食，蟹肉、蟹黄或蟹膏呈现不同口感，是地方具名水产。",
       "detail": "时令、雌雄和规格影响成品质地，鲜蟹与醉制、包装蟹品应分别看待；这里记录产区食材，不用一款产品代表全部河蟹。",
       "sources": [
-        "six-620edda5d590f0"
-      ]
+        "six-620edda5d590f0",
+        "regional-20261114-ln-produce"
+      ],
+      "locality": "盘锦市相关产区"
     },
     {
       "id": "flavor-liaoning-86f92f3b56",
@@ -28852,6 +28967,5844 @@ window.flavorCatalog={
       "sources": [
         "wuxi-release-tianzi-20241030"
       ]
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "海淀区",
+      "name": "京西稻",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-389c4b237aff83",
+      "description": "京西稻：北京西郊万寿山、玉泉山一带的粳稻，与当地水利和稻作文化相连。",
+      "detail": "北京西郊万寿山、玉泉山一带的粳稻，与当地水利和稻作文化相连。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "海淀区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区兴寿镇、崔村镇等",
+      "name": "昌平草莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-63b25cb7a8d118",
+      "description": "昌平草莓：报道列明昌平多个草莓产镇，果肉细腻，保留种植地与鲜果的关联。",
+      "detail": "报道列明昌平多个草莓产镇，果肉细腻，保留种植地与鲜果的关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "昌平区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区雁翅镇泗家水村",
+      "name": "泗家水红头香椿",
+      "type": "ingredients",
+      "kind": "时令蔬菜",
+      "id": "regional-8a12f67ed334e0",
+      "description": "泗家水红头香椿：以红色或紫红色嫩芽为特色，报道介绍当地采食头茬顶芽的习惯。",
+      "detail": "以红色或紫红色嫩芽为特色，报道介绍当地采食头茬顶芽的习惯。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "门头沟区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "房山区上方山",
+      "name": "上方山香椿",
+      "type": "ingredients",
+      "kind": "时令蔬菜",
+      "id": "regional-0336feed708779",
+      "description": "上方山香椿：上方山一带的香椿嫩芽，香气明显，可辨认当地春日食材传统。",
+      "detail": "上方山一带的香椿嫩芽，香气明显，可辨认当地春日食材传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "房山区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "海淀区北安河",
+      "name": "海淀玉巴达杏",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-67425d9e28b580",
+      "description": "海淀玉巴达杏：北安河一带传承的杏品种，报道将其与海淀地方果树栽培联系起来。",
+      "detail": "北安河一带传承的杏品种，报道将其与海淀地方果树栽培联系起来。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "海淀区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "通州区西集镇、潞城镇、张家湾镇",
+      "name": "通州大樱桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-94572185e450c6",
+      "description": "通州大樱桃：北运河沿线与西集等地的鲜樱桃，报道以果肉和汁水为主要特点。",
+      "detail": "北运河沿线与西集等地的鲜樱桃，报道以果肉和汁水为主要特点。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "通州区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "大兴区安定镇前野厂村",
+      "name": "安定桑椹",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-204776f98f38d3",
+      "description": "安定桑椹：安定镇古桑园所产桑椹，连接古树保护和当地时令鲜果消费。",
+      "detail": "安定镇古桑园所产桑椹，连接古树保护和当地时令鲜果消费。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "大兴区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "大兴区庞各庄镇",
+      "name": "庞各庄金把黄鸭梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-a8c445eebfacd3",
+      "description": "庞各庄金把黄鸭梨：庞各庄古梨园保留的地方梨品种，名称中的金把是识别线索。",
+      "detail": "庞各庄古梨园保留的地方梨品种，名称中的金把是识别线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "大兴区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "延庆区",
+      "name": "延庆国光苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0124966f5feb64",
+      "description": "延庆国光苹果：延庆北山产业带的国光苹果，报道描述其果肉脆、酸甜并有香气。",
+      "detail": "延庆北山产业带的国光苹果，报道描述其果肉脆、酸甜并有香气。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "延庆区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "延庆区张山营镇、康庄镇等",
+      "name": "延怀河谷葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-a38f735724147e",
+      "description": "延怀河谷葡萄：本条记录报道中的北京延庆一侧产区，葡萄栽培还与相邻河谷相连。",
+      "detail": "本条记录报道中的北京延庆一侧产区，葡萄栽培还与相邻河谷相连。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "延庆区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "大兴区庞各庄镇等",
+      "name": "大兴西瓜",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-9650e686ca9d8e",
+      "description": "大兴西瓜：大兴多个乡镇种植的地方西瓜，报道列明庞各庄、礼贤等生产区域。",
+      "detail": "大兴多个乡镇种植的地方西瓜，报道列明庞各庄、礼贤等生产区域。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "大兴区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区军庄镇、妙峰山镇等",
+      "name": "京白梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-5d34ccf52e4a06",
+      "description": "京白梨：门头沟传统梨品种，具有后熟特点，核小，软熟后风味发生变化。",
+      "detail": "门头沟传统梨品种，具有后熟特点，核小，软熟后风味发生变化。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "门头沟区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "房山区张坊镇",
+      "name": "房山磨盘柿",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-03208ed3240452",
+      "description": "房山磨盘柿：果腰有明显缢痕、外形似磨盘的柿子，与房山张坊一带种植相关。",
+      "detail": "果腰有明显缢痕、外形似磨盘的柿子，与房山张坊一带种植相关。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "房山区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "平谷区",
+      "name": "平谷大桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-29d4b7e39de67b",
+      "description": "平谷大桃：平谷产桃包含白桃、黄桃、蟠桃和油桃等系列，并非单一品种。",
+      "detail": "平谷产桃包含白桃、黄桃、蟠桃和油桃等系列，并非单一品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "平谷区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "通州区张家湾镇",
+      "name": "张家湾葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-a8f06b60bda480",
+      "description": "张家湾葡萄：张家湾一带的葡萄种植传统，报道描述其果穗整齐、果肉细腻。",
+      "detail": "张家湾一带的葡萄种植传统，报道描述其果穗整齐、果肉细腻。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "通州区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区兴寿镇、流村镇、崔村镇等",
+      "name": "昌平苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-598cf1e4e7183d",
+      "description": "昌平苹果：昌平山前暖带所产苹果，报道列举兴寿、流村、崔村等主要产区。",
+      "detail": "昌平山前暖带所产苹果，报道列举兴寿、流村、崔村等主要产区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "昌平区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "怀柔区桥梓镇",
+      "name": "桥梓尜尜枣",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-9937ccc1316253",
+      "description": "桥梓尜尜枣：果实两端较小、中部较大的地方枣，与桥梓镇村落栽培相连。",
+      "detail": "果实两端较小、中部较大的地方枣，与桥梓镇村落栽培相连。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "怀柔区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "平谷区南独乐河镇北寨村",
+      "name": "北寨红杏",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-c21f90feca3e16",
+      "description": "北寨红杏：北寨村选育的红杏，果形圆，果皮黄中透红，风味酸甜多汁。",
+      "detail": "北寨村选育的红杏，果形圆，果皮黄中透红，风味酸甜多汁。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "平谷区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "密云区密云水库周边",
+      "name": "密云甘栗",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-0760f1cfb8156d",
+      "description": "密云甘栗：密云水库周边乡镇所产板栗，报道将其作为密云地方果品介绍。",
+      "detail": "密云水库周边乡镇所产板栗，报道将其作为密云地方果品介绍。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "密云区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "丰台区长辛店一带",
+      "name": "长辛店白枣",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-fe4022f1cd4f8b",
+      "description": "长辛店白枣：长辛店及附近庭院保留的枣品种，报道描述皮薄、汁多、核小。",
+      "detail": "长辛店及附近庭院保留的枣品种，报道描述皮薄、汁多、核小。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "丰台区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区",
+      "name": "门头沟京西白蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-21644f3b11d7a1",
+      "description": "门头沟京西白蜜：门头沟地方蜂蜜，报道说明属于荆条蜜，保留蜜源植物的信息。",
+      "detail": "门头沟地方蜂蜜，报道说明属于荆条蜜，保留蜜源植物的信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "门头沟区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "怀柔区渤海镇、九渡河镇",
+      "name": "怀柔板栗",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-146bb5d4dbd022",
+      "description": "怀柔板栗：怀柔山地板栗，报道描述果形小巧、肉质细腻并带有甘甜风味。",
+      "detail": "怀柔山地板栗，报道描述果形小巧、肉质细腻并带有甘甜风味。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "怀柔区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "延庆区",
+      "name": "延庆香白杏",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-7958146e1f4686",
+      "description": "延庆香白杏：延庆山前地带的香白杏，报道以肉细、汁多、香气浓为特色。",
+      "detail": "延庆山前地带的香白杏，报道以肉细、汁多、香气浓为特色。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "延庆区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区流村镇漆园村",
+      "name": "高口红椿",
+      "type": "ingredients",
+      "kind": "时令蔬菜",
+      "id": "regional-7941d11e3c482b",
+      "description": "高口红椿：漆园村一带的红香椿，嫩芽较厚实，报道强调当地春季食材特色。",
+      "detail": "漆园村一带的红香椿，嫩芽较厚实，报道强调当地春季食材特色。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "昌平区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区流村镇西峰山村",
+      "name": "西峰山小枣",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-40d452843106c9",
+      "description": "西峰山小枣：西峰山村种植的小枣，来源将其列入北京地方果品导览之中。",
+      "detail": "西峰山村种植的小枣，来源将其列入北京地方果品导览之中。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-produce"
+      ],
+      "district": "昌平区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区王平镇韭园村",
+      "name": "韭园酱菜",
+      "type": "seasoning",
+      "kind": "地方酱菜",
+      "id": "regional-2c081fd44ee029",
+      "description": "韭园酱菜：门头沟地方腌制菜，区级休闲农业规划将其列入特色美食产品。",
+      "detail": "门头沟地方腌制菜，区级休闲农业规划将其列入特色美食产品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-mtg"
+      ],
+      "district": "门头沟区"
+    },
+    {
+      "province": "shandong",
+      "city": "济南",
+      "locality": "章丘区",
+      "name": "章丘大葱",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-bc8fcb5e19a8f9",
+      "description": "山东农业优势特色产业方案点名的地方蔬菜，按章丘现行区划归属济南。",
+      "detail": "山东农业优势特色产业方案点名的地方蔬菜，按章丘现行区划归属济南。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "济宁",
+      "locality": "金乡县",
+      "name": "金乡大蒜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-dc972181c0d640",
+      "description": "金乡大蒜：省级特色产业方案列明的大蒜产区，记录鲜蒜而不混同深加工品牌。",
+      "detail": "省级特色产业方案列明的大蒜产区，记录鲜蒜而不混同深加工品牌。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "滨州",
+      "locality": "沾化区",
+      "name": "沾化冬枣",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-ad39dcae425592",
+      "description": "沾化冬枣：山东特色果业中的冬枣产区，以现行沾化区名称记录县域定位。",
+      "detail": "山东特色果业中的冬枣产区，以现行沾化区名称记录县域定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "栖霞市",
+      "name": "栖霞苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-b4b0da672c2cf6",
+      "description": "栖霞苹果：省级特色农业方案列明的苹果产区，县级市栖霞隶属烟台市。",
+      "detail": "省级特色农业方案列明的苹果产区，县级市栖霞隶属烟台市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "莱阳市",
+      "name": "莱阳黄梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-ee4850568db6e7",
+      "description": "莱阳黄梨：山东特色产业方案列明的地方梨，保留莱阳县级市的具体定位。",
+      "detail": "山东特色产业方案列明的地方梨，保留莱阳县级市的具体定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "寿光市",
+      "name": "寿光蔬菜",
+      "type": "ingredients",
+      "kind": "地方蔬菜产区",
+      "id": "regional-9c0c449af6f73d",
+      "description": "寿光蔬菜：来源以蔬菜产业整体记录寿光，本条不把产业名当作某一个新品种。",
+      "detail": "来源以蔬菜产业整体记录寿光，本条不把产业名当作某一个新品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "青州市",
+      "name": "青州银瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-c9fe6559006d62",
+      "description": "青州银瓜：山东特色产业方案点名的瓜果产品，归入青州所在的潍坊市。",
+      "detail": "山东特色产业方案点名的瓜果产品，归入青州所在的潍坊市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "德州",
+      "locality": "乐陵市",
+      "name": "乐陵小枣",
+      "type": "ingredients",
+      "kind": "地方果干原料",
+      "id": "regional-33aeecbed208b0",
+      "description": "乐陵小枣：省级方案列明的地方枣产品，与乐陵地方栽培和加工产业相连。",
+      "detail": "省级方案列明的地方枣产品，与乐陵地方栽培和加工产业相连。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sd-produce"
+      ]
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "金山区吕巷镇等",
+      "name": "金山蟠桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-31ecbb324bb4fe",
+      "description": "上海农产品名录列明的蟠桃，产区涉及吕巷及金山其他乡镇部分村落。",
+      "detail": "上海农产品名录列明的蟠桃，产区涉及吕巷及金山其他乡镇部分村落。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "金山区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "浦东新区三林镇等",
+      "name": "三林崩瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-264f2621d14e5d",
+      "description": "三林崩瓜：名录列明的上海地方瓜果，保留浦东新区及三林等乡镇的产区信息。",
+      "detail": "名录列明的上海地方瓜果，保留浦东新区及三林等乡镇的产区信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "浦东新区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "崇明区",
+      "name": "崇明金瓜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-e0ff41a2b15035",
+      "description": "上海农产品名录中的地方瓜类，原资料写崇明县，按现行崇明区展示。",
+      "detail": "上海农产品名录中的地方瓜类，原资料写崇明县，按现行崇明区展示。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "崇明区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "金山区亭林镇等",
+      "name": "亭林雪瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-5ae51ae140f92b",
+      "description": "名录中的金山地方果品，名称与亭林相连，保护地域还涉及其他乡镇。",
+      "detail": "名录中的金山地方果品，名称与亭林相连，保护地域还涉及其他乡镇。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "金山区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "嘉定区马陆镇等",
+      "name": "马陆葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-121b3f2e1ed3be",
+      "description": "马陆葡萄：上海农产品名录列明的葡萄，产区包含马陆及嘉定其他相关乡镇。",
+      "detail": "上海农产品名录列明的葡萄，产区包含马陆及嘉定其他相关乡镇。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "嘉定区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "奉贤区庄行镇",
+      "name": "庄行蜜梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-be4d63ab7a02a1",
+      "description": "庄行蜜梨：庄行镇多个村落所产的地方梨，名录列明潘垫、新华、东风等村。",
+      "detail": "庄行镇多个村落所产的地方梨，名录列明潘垫、新华、东风等村。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "奉贤区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "奉贤区青村镇",
+      "name": "奉贤黄桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-6aa5367591926c",
+      "description": "奉贤黄桃：青村镇多个村落种植的地方黄桃，名录提供具体产区而非门店信息。",
+      "detail": "青村镇多个村落种植的地方黄桃，名录提供具体产区而非门店信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "奉贤区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "浦东新区泥城镇等",
+      "name": "彭镇青扁豆",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-c8d472d1a22ec2",
+      "description": "彭镇青扁豆：名录列明泥城、大团、书院等乡镇的青扁豆，作为熟食原料记录。",
+      "detail": "名录列明泥城、大团、书院等乡镇的青扁豆，作为熟食原料记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sh-produce"
+      ],
+      "district": "浦东新区"
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "古县",
+      "name": "古县核桃",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-05f902ad595df0",
+      "description": "古县核桃：临汾地理标志转化认定报道点名的核桃，保留古县这一县域产地。",
+      "detail": "临汾地理标志转化认定报道点名的核桃，保留古县这一县域产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "吉县",
+      "name": "吉县苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-9b3bed9fa3a3d5",
+      "description": "吉县苹果：临汾报道列明的地理标志苹果产品，地方果业归属可与吉县对应。",
+      "detail": "临汾报道列明的地理标志苹果产品，地方果业归属可与吉县对应。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "大宁县",
+      "name": "大宁西瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-930f9f2c8849b2",
+      "description": "大宁西瓜：临汾地方瓜果产品，报道列入当地农产品地理标志转化认定名单。",
+      "detail": "临汾地方瓜果产品，报道列入当地农产品地理标志转化认定名单。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "大宁县",
+      "name": "大宁红皮小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-9f9fc42b37ad05",
+      "description": "大宁红皮小米：临汾报道列明的地方小米，名称中的红皮不直接推定熟饭颜色。",
+      "detail": "临汾报道列明的地方小米，名称中的红皮不直接推定熟饭颜色。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "永和县",
+      "name": "永和条枣",
+      "type": "ingredients",
+      "kind": "地方果品",
+      "id": "regional-61394216731bea",
+      "description": "永和条枣：以永和命名的枣产品，报道确认其纳入临汾地方农产品认定名单。",
+      "detail": "以永和命名的枣产品，报道确认其纳入临汾地方农产品认定名单。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "蒲县",
+      "name": "蒲县马铃薯",
+      "type": "ingredients",
+      "kind": "地方薯类",
+      "id": "regional-f3d27c31867b27",
+      "description": "蒲县马铃薯：报道列明的蒲县马铃薯，以地方食材记录，不预设固定的烹调方法。",
+      "detail": "报道列明的蒲县马铃薯，以地方食材记录，不预设固定的烹调方法。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "蒲县",
+      "name": "蒲县核桃",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-9d51608268a5a0",
+      "description": "蒲县核桃：与蒲县相连的地方核桃，报道列入此次临汾农产品认定名单。",
+      "detail": "与蒲县相连的地方核桃，报道列入此次临汾农产品认定名单。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "霍州市",
+      "name": "霍州苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-57de9b8dfec788",
+      "description": "霍州苹果是山西临汾霍州市的地方鲜果，报道将其列入地理标志转化认定名单。",
+      "detail": "临汾报道点名的苹果产品，霍州为临汾代管的县级市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "洪洞县",
+      "name": "洪洞莲藕",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-f7eec2a0246094",
+      "description": "洪洞莲藕：临汾认定名单中的莲藕产品，县域定位为洪洞，与成菜分开收录。",
+      "detail": "临汾认定名单中的莲藕产品，县域定位为洪洞，与成菜分开收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "古县",
+      "name": "古县小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-bc7ec3d204aba4",
+      "description": "古县小米：临汾报道列明的地方谷物产品，记录小米而不替代具体种植品种。",
+      "detail": "临汾报道列明的地方谷物产品，记录小米而不替代具体种植品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "霍州市",
+      "name": "霍州核桃",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-4a51920b45e968",
+      "description": "地方农产品认定报道点名的霍州核桃，与霍州苹果分别作为食材记录。",
+      "detail": "地方农产品认定报道点名的霍州核桃，与霍州苹果分别作为食材记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "汾西县",
+      "name": "汾西梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-bab07f14f97be4",
+      "description": "汾西梨：临汾认定名单列明的梨产品，与同市其他县的梨品种分开定位。",
+      "detail": "临汾认定名单列明的梨产品，与同市其他县的梨品种分开定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "翼城县",
+      "name": "翼城苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-8d96d38f6ba9c4",
+      "description": "临汾认定名单中的地方苹果，产地定位为翼城县，品牌企业另行核对。",
+      "detail": "临汾认定名单中的地方苹果，产地定位为翼城县，品牌企业另行核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "安泽县",
+      "name": "安泽蜂蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-a64753eea0d6c9",
+      "description": "安泽蜂蜜：临汾报道确认的县域蜂蜜产品，未据此推定所有蜂蜜都属同一蜜源。",
+      "detail": "临汾报道确认的县域蜂蜜产品，未据此推定所有蜂蜜都属同一蜜源。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "曲沃县",
+      "name": "曲沃葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-47fb878245e925",
+      "description": "认定报道列明的曲沃葡萄，以地方鲜果记录，未把它直接当作葡萄酒。",
+      "detail": "认定报道列明的曲沃葡萄，以地方鲜果记录，未把它直接当作葡萄酒。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "浮山县",
+      "name": "浮山苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-4041e8f819d59d",
+      "description": "报道列明的地方苹果，保留浮山县产地，栽培品种和上市期尚未细分。",
+      "detail": "报道列明的地方苹果，保留浮山县产地，栽培品种和上市期尚未细分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-sx-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赞皇县",
+      "name": "赞皇大枣",
+      "type": "ingredients",
+      "kind": "地方果品",
+      "id": "regional-585780848d2308",
+      "description": "赞皇大枣：市级地理标志产品信息表列明的枣产品，申请地区为赞皇县。",
+      "detail": "市级地理标志产品信息表列明的枣产品，申请地区为赞皇县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "晋州市",
+      "name": "晋州鸭梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-1694243d2be8f7",
+      "description": "晋州鸭梨：市级地理标志产品表列明的鸭梨，县级市晋州归属石家庄。",
+      "detail": "市级地理标志产品表列明的鸭梨，县级市晋州归属石家庄。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "name": "新乐西瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-94adc048e39731",
+      "description": "新乐西瓜：石家庄地方瓜果产品，名录列明新乐市作为对应申请地区。",
+      "detail": "石家庄地方瓜果产品，名录列明新乐市作为对应申请地区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赵县",
+      "name": "赵县雪花梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-2fe15add370db6",
+      "description": "赵县雪花梨：市级名录同时列有赵州雪花梨这一名称，作为同一产品合并收录。",
+      "detail": "市级名录同时列有赵州雪花梨这一名称，作为同一产品合并收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "鹿泉区",
+      "name": "鹿泉香椿",
+      "type": "ingredients",
+      "kind": "时令蔬菜",
+      "id": "regional-03754aaf3b846b",
+      "description": "鹿泉香椿：市级地理标志产品表列明的香椿，现行产地定位为鹿泉区。",
+      "detail": "市级地理标志产品表列明的香椿，现行产地定位为鹿泉区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "name": "新乐花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-a301b4ad8c91ea",
+      "description": "新乐花生：市级地理标志信息表列明的花生，记录地方农产品而非加工品牌。",
+      "detail": "市级地理标志信息表列明的花生，记录地方农产品而非加工品牌。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "行唐县",
+      "name": "行唐大枣",
+      "type": "ingredients",
+      "kind": "地方果品",
+      "id": "regional-37b5ee15f586b7",
+      "description": "行唐大枣：市级信息表列明的地方大枣，按行唐县保存县域检索位置。",
+      "detail": "市级信息表列明的地方大枣，按行唐县保存县域检索位置。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "灵寿县",
+      "name": "灵寿金针菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-023b5a5b95a6f0",
+      "description": "灵寿金针菇：市级信息表列明的金针菇产品，申请主体为灵寿食用菌服务机构。",
+      "detail": "市级信息表列明的金针菇产品，申请主体为灵寿食用菌服务机构。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赵县",
+      "name": "赵县黄冠梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0bfc29176f1bc5",
+      "description": "赵县黄冠梨：市级名录列明的黄冠梨，与同县雪花梨按产品名称分别收录。",
+      "detail": "市级名录列明的黄冠梨，与同县雪花梨按产品名称分别收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hb-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "宁乡市",
+      "name": "宁乡花猪",
+      "type": "ingredients",
+      "kind": "地方猪肉原料",
+      "id": "regional-352f36d07a3cf8",
+      "description": "宁乡花猪：湖南地理标志名录列明的地方猪产品，保留宁乡县级市的产地信息。",
+      "detail": "湖南地理标志名录列明的地方猪产品，保留宁乡县级市的产地信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "name": "浏阳茶油",
+      "type": "ingredients",
+      "kind": "地方食用油",
+      "id": "regional-e67d5b3ef6af59",
+      "description": "浏阳茶油：湖南地理标志名录中的地方茶油，植物油与冲泡茶分别分类。",
+      "detail": "湖南地理标志名录中的地方茶油，植物油与冲泡茶分别分类。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "常宁市",
+      "name": "常宁无渣生姜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-35edac27619633",
+      "description": "常宁无渣生姜：湖南名录列明的生姜产品，名称中的无渣作为产品名保留。",
+      "detail": "湖南名录列明的生姜产品，名称中的无渣作为产品名保留。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "name": "祁东槟榔芋",
+      "type": "ingredients",
+      "kind": "地方薯芋",
+      "id": "regional-9b21f9198956c0",
+      "description": "祁东槟榔芋：湖南名录列明的地方芋类，名称不表示其中含有槟榔成分。",
+      "detail": "湖南名录列明的地方芋类，名称不表示其中含有槟榔成分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "name": "祁东黄花菜",
+      "type": "ingredients",
+      "kind": "地方干菜原料",
+      "id": "regional-71da4af6d074ae",
+      "description": "祁东黄花菜：湖南地理标志名录列明的黄花菜产品，作为地方食材单独记录。",
+      "detail": "湖南地理标志名录列明的黄花菜产品，作为地方食材单独记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "name": "茶陵大蒜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-4827b70998402d",
+      "description": "茶陵大蒜：湖南名录列明的地方大蒜，保存茶陵县级产地，供日后逐县筛选。",
+      "detail": "湖南名录列明的地方大蒜，保存茶陵县级产地，供日后逐县筛选。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "炎陵县",
+      "name": "炎陵黄桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-6b442f2699b85d",
+      "description": "炎陵黄桃是湖南株洲炎陵县的地方鲜果，省级地理标志名录列明该产品名称。",
+      "detail": "湖南地理标志名录列明的黄桃，归入炎陵所在的株洲市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘潭县花石镇等",
+      "name": "湘莲",
+      "type": "ingredients",
+      "kind": "地方莲子",
+      "id": "regional-d0fa6a9910c847",
+      "description": "湘潭地方莲子，报道介绍寸三莲及花石镇的莲子种植、加工和贸易关联。",
+      "detail": "湘潭地方莲子，报道介绍寸三莲及花石镇的莲子种植、加工和贸易关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-lotus"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县",
+      "name": "隆回龙牙百合",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "id": "regional-ce73e10db796e4",
+      "description": "隆回龙牙百合：湖南名录列明的地方百合，作为农产品记录，不采用药用功效宣传。",
+      "detail": "湖南名录列明的地方百合，作为农产品记录，不采用药用功效宣传。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "新宁县",
+      "name": "新宁脐橙",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-aad7f3a34e3005",
+      "description": "新宁脐橙：湖南名录列明的新宁脐橙，与其他柑橘品牌和品种分开定位。",
+      "detail": "湖南名录列明的新宁脐橙，与其他柑橘品牌和品种分开定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "华容县",
+      "name": "华容芥菜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-3ce123e32bb275",
+      "description": "湖南地理标志名录列明的芥菜产品，和腌制成品、具体企业分开理解。",
+      "detail": "湖南地理标志名录列明的芥菜产品，和腌制成品、具体企业分开理解。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市",
+      "name": "临湘浮标",
+      "type": "crafts",
+      "kind": "垂钓用品",
+      "id": "regional-2edc8750743e5c",
+      "description": "临湘浮标：湖南名录列明的地方浮标产品，作为非食品用品纳入风物目录。",
+      "detail": "湖南名录列明的地方浮标产品，作为非食品用品纳入风物目录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "name": "石门柑橘",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-40e0cde3490764",
+      "description": "石门柑橘：湖南名录列明的县域柑橘产品，实际品种仍需随具体包装核对。",
+      "detail": "湖南名录列明的县域柑橘产品，实际品种仍需随具体包装核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "常德",
+      "locality": "汉寿县",
+      "name": "汉寿甲鱼",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-e299de26e0ed98",
+      "description": "汉寿甲鱼：湖南地理标志名录列明的地方甲鱼产品，以食材收录而非固定菜式。",
+      "detail": "湖南地理标志名录列明的地方甲鱼产品，以食材收录而非固定菜式。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "name": "桑植蜂蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-326d4778d192cb",
+      "description": "桑植蜂蜜：湖南名录列明的县域蜂蜜，未把地方名称直接等同单一花源。",
+      "detail": "湖南名录列明的县域蜂蜜，未把地方名称直接等同单一花源。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "name": "桑植魔芋",
+      "type": "ingredients",
+      "kind": "地方薯类原料",
+      "id": "regional-e36e04b12c16d4",
+      "description": "桑植魔芋：湖南名录列明的魔芋农产品，和加工后的魔芋食品分开记录。",
+      "detail": "湖南名录列明的魔芋农产品，和加工后的魔芋食品分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "沅江市",
+      "name": "沅江芦笋",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-acb3785f59fcf5",
+      "description": "沅江芦笋：湖南名录列明的地方芦笋产品，保留沅江市这一县级市定位。",
+      "detail": "湖南名录列明的地方芦笋产品，保留沅江市这一县级市定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "桃江县",
+      "name": "桃江竹笋",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-147ab19c66f5da",
+      "description": "湖南地理标志名录列明的笋类食材，具体竹种和采收期未作统一推定。",
+      "detail": "湖南地理标志名录列明的笋类食材，具体竹种和采收期未作统一推定。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "永兴县",
+      "name": "永兴冰糖橙",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-31583c383b2f63",
+      "description": "湖南名录列明的地方橙类产品，冰糖橙是品种相关名称而非加糖食品。",
+      "detail": "湖南名录列明的地方橙类产品，冰糖橙是品种相关名称而非加糖食品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "name": "江永香柚",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-d6f44bb38f0d02",
+      "description": "江永香柚：湖南地理标志名录列明的江永地方柚，保存县域信息便于继续查证。",
+      "detail": "湖南地理标志名录列明的江永地方柚，保存县域信息便于继续查证。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "name": "江永香芋",
+      "type": "ingredients",
+      "kind": "地方薯芋",
+      "id": "regional-a5d4603aa8fe54",
+      "description": "江永香芋：湖南名录列明的地方芋类，与江永香柚、香姜分开作为食材记录。",
+      "detail": "湖南名录列明的地方芋类，与江永香柚、香姜分开作为食材记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "name": "江永香姜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-7ee0754a2be8bb",
+      "description": "江永香姜：湖南名录列明的江永地方姜产品，不直接推定鲜姜与干姜规格。",
+      "detail": "湖南名录列明的江永地方姜产品，不直接推定鲜姜与干姜规格。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "靖州苗族侗族自治县",
+      "name": "靖州杨梅",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-e3f8f425aaa6fb",
+      "description": "靖州杨梅：湖南名录列明的地方杨梅，与其他产区杨梅按县域分别记录。",
+      "detail": "湖南名录列明的地方杨梅，与其他产区杨梅按县域分别记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "洪江市",
+      "name": "黔阳冰糖橙",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-13fa8d77a06d52",
+      "description": "黔阳冰糖橙：湖南名录列明的橙类产品，以现行洪江市定位，区别于洪江区。",
+      "detail": "湖南名录列明的橙类产品，以现行洪江市定位，区别于洪江区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "会同县",
+      "name": "会同魔芋",
+      "type": "ingredients",
+      "kind": "地方薯类原料",
+      "id": "regional-d63de9b97585fc",
+      "description": "会同魔芋：湖南地理标志产品名录列明的魔芋，以农产原料归类而不编造菜式。",
+      "detail": "湖南地理标志产品名录列明的魔芋，以农产原料归类而不编造菜式。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "涟源市",
+      "name": "涟源金秋梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-2a87c68b0de274",
+      "description": "涟源金秋梨：湖南名录列明的梨产品，保留涟源县级市产地，具体上市期未核。",
+      "detail": "湖南名录列明的梨产品，保留涟源县级市产地，具体上市期未核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "name": "新化红心李",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-f382ca11ab54a4",
+      "description": "湖南名录列明的新化李产品，产品名保留红心特征，品种谱系待细化。",
+      "detail": "湖南名录列明的新化李产品，产品名保留红心特征，品种谱系待细化。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "name": "泸溪椪柑",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0d4aee499c20c8",
+      "description": "湖南地理标志名录列明的地方柑橘，记录椪柑而不混同其他柑橘产品。",
+      "detail": "湖南地理标志名录列明的地方柑橘，记录椪柑而不混同其他柑橘产品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "龙山县",
+      "name": "龙山百合",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "id": "regional-ec1f3b9208a4c4",
+      "description": "龙山百合：湖南名录列明的地方百合，同一产品不同商标类别合并为一张卡片。",
+      "detail": "湖南名录列明的地方百合，同一产品不同商标类别合并为一张卡片。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hn-produce"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "仙桃",
+      "locality": "仙桃市",
+      "name": "仙桃黄鳝",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-a29e25cc49a700",
+      "description": "仙桃黄鳝：省农业农村厅报道将仙桃与黄鳝产业对应，作为水产食材记录。",
+      "detail": "省农业农村厅报道将仙桃与黄鳝产业对应，作为水产食材记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hu-produce"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "秭归县",
+      "name": "秭归脐橙",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-3d7fa1d235340e",
+      "description": "秭归脐橙：省级特色之乡方案确认秭归脐橙产业关联，保留县域定位。",
+      "detail": "省级特色之乡方案确认秭归脐橙产业关联，保留县域定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hu-produce"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "随州",
+      "locality": "随县",
+      "name": "随县香菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-f7187c3a510801",
+      "description": "省级方案将随县与香菇产业对应，本条不扩大成所有随州香菇的规格。",
+      "detail": "省级方案将随县与香菇产业对应，本条不扩大成所有随州香菇的规格。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hu-produce"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "安陆市",
+      "name": "安陆银杏",
+      "type": "ingredients",
+      "kind": "地方果实原料",
+      "id": "regional-ce74356b0fcf73",
+      "description": "安陆银杏：省级报道将安陆与银杏产业对应，具体食品加工方式仍需另核。",
+      "detail": "省级报道将安陆与银杏产业对应，具体食品加工方式仍需另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hu-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "name": "康平甘薯",
+      "type": "ingredients",
+      "kind": "地方薯类",
+      "id": "regional-4a6d9ca49756c4",
+      "description": "康平甘薯：省级区域公用品牌名单列有康平甘薯，并以红地瓜注明其地方称呼。",
+      "detail": "省级区域公用品牌名单列有康平甘薯，并以红地瓜注明其地方称呼。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "name": "康平花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-9024b8d3784768",
+      "description": "康平花生：辽宁区域公用品牌名单列明的花生，县域产地定位为康平县。",
+      "detail": "辽宁区域公用品牌名单列明的花生，县域产地定位为康平县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈北新区",
+      "name": "沈北清水大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-8198ebb5e88eda",
+      "description": "沈北清水大米：省级品牌名单中的沈北大米产品，记录稻米而不代替某企业商标。",
+      "detail": "省级品牌名单中的沈北大米产品，记录稻米而不代替某企业商标。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市",
+      "name": "瓦房店闫店地瓜",
+      "type": "ingredients",
+      "kind": "地方薯类",
+      "id": "regional-6b00c70f08b934",
+      "description": "瓦房店闫店地瓜：省级品牌名单点名的地方地瓜，保留瓦房店和闫店这一地名线索。",
+      "detail": "省级品牌名单点名的地方地瓜，保留瓦房店和闫店这一地名线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "新宾满族自治县",
+      "name": "新宾大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-0d2d570955a192",
+      "description": "新宾大米：省级区域公用品牌名录列明的新宾稻米，和当地蜂蜜分开归类。",
+      "detail": "省级区域公用品牌名录列明的新宾稻米，和当地蜂蜜分开归类。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "name": "桓仁大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-e1ba371e11cf9d",
+      "description": "桓仁大米：辽宁品牌名录列明的桓仁稻米，保留县级产地而不编造具体品种。",
+      "detail": "辽宁品牌名录列明的桓仁稻米，保留县级产地而不编造具体品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "name": "东港大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-7c71457823628b",
+      "description": "东港大米：辽宁品牌名单中的县域稻米产品，东港为丹东代管的县级市。",
+      "detail": "辽宁品牌名单中的县域稻米产品，东港为丹东代管的县级市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "义县",
+      "name": "义县花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-73c3f318afa5c0",
+      "description": "义县花生：省级区域公用品牌名单列明的花生，以义县这一县域保存定位。",
+      "detail": "省级区域公用品牌名单列明的花生，以义县这一县域保存定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "营口市相关产区",
+      "name": "营口大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-8bdce97d161e56",
+      "description": "营口大米：省级名单将此稻米品牌归于营口，本条不擅自缩小到某个乡镇。",
+      "detail": "省级名单将此稻米品牌归于营口，本条不擅自缩小到某个乡镇。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "name": "彰武黑豆",
+      "type": "ingredients",
+      "kind": "地方杂豆",
+      "id": "regional-ca90d4d9218b1f",
+      "description": "彰武黑豆：辽宁区域公用品牌名单中的地方黑豆，与同县花生、甘薯分列。",
+      "detail": "辽宁区域公用品牌名单中的地方黑豆，与同县花生、甘薯分列。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "name": "彰武花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-1f0be24d64c059",
+      "description": "彰武花生：省级名单列明的彰武花生，按县域记录，不直接推定加工工艺。",
+      "detail": "省级名单列明的彰武花生，按县域记录，不直接推定加工工艺。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "name": "彰武地瓜",
+      "type": "ingredients",
+      "kind": "地方薯类",
+      "id": "regional-256615cf9a8b6f",
+      "description": "彰武地瓜是辽宁阜新彰武县的地方薯类，省级区域公用品牌名录列明该产品。",
+      "detail": "省级区域公用品牌名单中的地瓜产品，产地关联彰武县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市",
+      "name": "灯塔大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-bbad1ccf4af0c2",
+      "description": "灯塔大米：辽宁区域公用品牌名单列明的地方稻米，灯塔归属辽阳市。",
+      "detail": "辽宁区域公用品牌名单列明的地方稻米，灯塔归属辽阳市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "建平县",
+      "name": "建平小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-3b8a3cf66a35b6",
+      "description": "建平小米：辽宁区域公用品牌名单中的地方小米，县域定位为建平县。",
+      "detail": "辽宁区域公用品牌名单中的地方小米，县域定位为建平县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "建平县",
+      "name": "建平荞麦",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-77c4c9afc09204",
+      "description": "建平荞麦：省级品牌名录列明的荞麦产品，和成品荞麦面、糕饼分开记录。",
+      "detail": "省级品牌名录列明的荞麦产品，和成品荞麦面、糕饼分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关产区",
+      "name": "盘锦大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-6cc76a09be029e",
+      "description": "省级区域公用品牌名单列明的盘锦稻米，未将产区品牌等同某家企业。",
+      "detail": "省级区域公用品牌名单列明的盘锦稻米，未将产区品牌等同某家企业。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市红崖子镇",
+      "name": "红崖子花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-fa30fd4b6b8edb",
+      "description": "红崖子花生：辽宁品牌名录列明的红崖子花生，保留兴城红崖子地名供县镇检索。",
+      "detail": "辽宁品牌名录列明的红崖子花生，保留兴城红崖子地名供县镇检索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "name": "大连大樱桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0bd5028a5c64a4",
+      "description": "大连大樱桃：辽宁名单中的大连区域樱桃品牌，本条与旅顺子产区不重复拆卡。",
+      "detail": "辽宁名单中的大连区域樱桃品牌，本条与旅顺子产区不重复拆卡。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "name": "大连苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-9e1237b5fde9e1",
+      "description": "大连苹果：辽宁区域公用品牌名单列明的苹果，具体品种和下属产区尚未细分。",
+      "detail": "辽宁区域公用品牌名单列明的苹果，具体品种和下属产区尚未细分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "name": "大连油桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-7d1da7b50e31fd",
+      "description": "辽宁区域公用品牌名单列明的油桃，与普通桃和樱桃按食材分开记录。",
+      "detail": "辽宁区域公用品牌名单列明的油桃，与普通桃和樱桃按食材分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "name": "庄河蓝莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0afd5bdba1dbb6",
+      "description": "庄河蓝莓：省级区域公用品牌名单中的蓝莓，县级市庄河归属大连市。",
+      "detail": "省级区域公用品牌名单中的蓝莓，县级市庄河归属大连市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "name": "庄河草莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-78e9fb7c2bb1fa",
+      "description": "庄河草莓：辽宁品牌名录列明的庄河草莓，与同市蓝莓产品分开记录。",
+      "detail": "辽宁品牌名录列明的庄河草莓，与同市蓝莓产品分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市",
+      "name": "瓦房店小国光苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-8f9bc8a72cc728",
+      "description": "瓦房店小国光苹果：省级名录中的地方苹果，保留小国光这一产品名称以便品种检索。",
+      "detail": "省级名录中的地方苹果，保留小国光这一产品名称以便品种检索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "鞍山市相关产区",
+      "name": "鞍山南果梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-572cc0fe6a4294",
+      "description": "鞍山南果梨：辽宁区域公用品牌名单列明的南果梨，以鞍山市级范围记录。",
+      "detail": "辽宁区域公用品牌名单列明的南果梨，以鞍山市级范围记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "岫岩满族自治县",
+      "name": "岫岩滑子蘑",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-03053502614001",
+      "description": "岫岩滑子蘑：省级品牌名单列明的地方食用菌，保留岫岩这一县域产地。",
+      "detail": "省级品牌名单列明的地方食用菌，保留岫岩这一县域产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "岫岩满族自治县",
+      "name": "岫岩软枣猕猴桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-d034a6a8afce0d",
+      "description": "岫岩软枣猕猴桃：辽宁品牌名录列明的软枣猕猴桃，与名称相近的普通枣区分。",
+      "detail": "辽宁品牌名录列明的软枣猕猴桃，与名称相近的普通枣区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "抚顺市相关产区",
+      "name": "抚顺单片黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-d858632b585ba1",
+      "description": "抚顺单片黑木耳：辽宁区域公用品牌名单中的黑木耳产品，以单片这一产品名保留。",
+      "detail": "辽宁区域公用品牌名单中的黑木耳产品，以单片这一产品名保留。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "name": "东港草莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-1744fe3ed90e6c",
+      "description": "东港草莓是辽宁丹东东港市的地方鲜果，省级区域公用品牌名录确认该地区关联。",
+      "detail": "省级区域公用品牌名单中的草莓，县级市东港隶属丹东。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "name": "凤城蓝莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-455f9655827188",
+      "description": "凤城蓝莓：辽宁区域公用品牌名单列明的蓝莓，与东港草莓分开定位。",
+      "detail": "辽宁区域公用品牌名单列明的蓝莓，与东港草莓分开定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "北镇市",
+      "name": "北镇葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-2ea3e47c3d078b",
+      "description": "北镇葡萄：辽宁品牌名录列明的葡萄，以北镇县级市为地方食材定位。",
+      "detail": "辽宁品牌名录列明的葡萄，以北镇县级市为地方食材定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "name": "盖州苹果",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-a056ed8ce58d67",
+      "description": "盖州苹果：辽宁区域公用品牌名单中的苹果产品，县域定位为盖州市。",
+      "detail": "辽宁区域公用品牌名单中的苹果产品，县域定位为盖州市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "name": "盖州葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-6ae067fcd9d7b9",
+      "description": "盖州葡萄：省级名单列明的地方葡萄，保留盖州产地而不等同葡萄酒产品。",
+      "detail": "省级名单列明的地方葡萄，保留盖州产地而不等同葡萄酒产品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "name": "盖州生姜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-34ce6604f68f47",
+      "description": "盖州生姜：辽宁区域公用品牌名单列明的生姜，作为鲜食加工原料记录。",
+      "detail": "辽宁区域公用品牌名单列明的生姜，作为鲜食加工原料记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "name": "盖州桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-5af9e2e543a063",
+      "description": "盖州桃：省级名单中的地方桃产品，与同县苹果、葡萄分开作为食材收录。",
+      "detail": "省级名单中的地方桃产品，与同县苹果、葡萄分开作为食材收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "大石桥市",
+      "name": "大石桥大红袍李子",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-00525aecbde17b",
+      "description": "大石桥大红袍李子：辽宁品牌名录列明的李子，大红袍为本条产品名称的一部分。",
+      "detail": "辽宁品牌名录列明的李子，大红袍为本条产品名称的一部分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市",
+      "name": "灯塔葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-86c15ed0fdcd9b",
+      "description": "灯塔葡萄：辽宁区域公用品牌名单中的葡萄，保存灯塔县级市的定位。",
+      "detail": "辽宁区域公用品牌名单中的葡萄，保存灯塔县级市的定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "北票市",
+      "name": "北票番茄",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-c6b64d9e1c79ab",
+      "description": "北票番茄：省级品牌名单列明的地方番茄，不把区域品牌视为统一栽培品种。",
+      "detail": "省级品牌名单列明的地方番茄，不把区域品牌视为统一栽培品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "name": "凌源黄瓜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-09e29a15098cbc",
+      "description": "凌源黄瓜：辽宁区域公用品牌名单中的黄瓜，归属凌源所在的朝阳市。",
+      "detail": "辽宁区域公用品牌名单中的黄瓜，归属凌源所在的朝阳市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "name": "凌源香菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-cf373cfd74c844",
+      "description": "凌源香菇：省级名录列明的县域香菇，保留凌源产地便于继续逐县补充。",
+      "detail": "省级名录列明的县域香菇，保留凌源产地便于继续逐县补充。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关产区",
+      "name": "盘锦碱地柿子",
+      "type": "ingredients",
+      "kind": "地方番茄",
+      "id": "regional-26bceebcead82b",
+      "description": "盘锦碱地生长的地方番茄，果肉丰实，红绿相间，地方名称中的柿子并非树上柿果。",
+      "detail": "盘锦碱地生长的地方番茄，果肉丰实，红绿相间，地方名称中的柿子并非树上柿果。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-tomato"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "绥中县",
+      "name": "绥中白梨",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-d15cbae53edbaf",
+      "description": "绥中白梨：辽宁区域公用品牌名录列明的白梨，保留绥中县域的地方关联。",
+      "detail": "辽宁区域公用品牌名录列明的白梨，保留绥中县域的地方关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "黑山县",
+      "name": "黑山褐壳鸡蛋",
+      "type": "ingredients",
+      "kind": "地方禽蛋",
+      "id": "regional-b5a4970a48159f",
+      "description": "黑山褐壳鸡蛋：辽宁名录列明的褐壳鸡蛋，记录产品名而不据壳色推定营养差别。",
+      "detail": "辽宁名录列明的褐壳鸡蛋，记录产品名而不据壳色推定营养差别。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "昌图县",
+      "name": "昌图黑猪",
+      "type": "ingredients",
+      "kind": "地方猪肉原料",
+      "id": "regional-9fe07a591cba2d",
+      "description": "昌图黑猪：辽宁名单中的地方猪产品，以昌图县定位，具体肉制品另行记录。",
+      "detail": "辽宁名单中的地方猪产品，以昌图县定位，具体肉制品另行记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "name": "大连裙带菜",
+      "type": "ingredients",
+      "kind": "地方海藻",
+      "id": "regional-d36d11670a84e9",
+      "description": "大连裙带菜：辽宁区域公用品牌名单中的海藻产品，与陆地蔬菜和成菜分开收录。",
+      "detail": "辽宁区域公用品牌名单中的海藻产品，与陆地蔬菜和成菜分开收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "name": "东港杂色蛤",
+      "type": "ingredients",
+      "kind": "地方贝类",
+      "id": "regional-97d95de93bc6a6",
+      "description": "东港杂色蛤：辽宁区域公用品牌名单列明的蛤类产品，以东港县域定位。",
+      "detail": "辽宁区域公用品牌名单列明的蛤类产品，以东港县域定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "name": "东港梭子蟹",
+      "type": "ingredients",
+      "kind": "地方蟹类",
+      "id": "regional-fb62f1746b6740",
+      "description": "东港梭子蟹：辽宁名单中的地方海蟹产品，以食材记录，不编造成菜名称。",
+      "detail": "辽宁名单中的地方海蟹产品，以食材记录，不编造成菜名称。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "营口市相关产区",
+      "name": "营口海蜇",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-6db6d69dcd085b",
+      "description": "营口海蜇：省级品牌名单列明的海蜇，保留营口市级关联，不预设加工盐度。",
+      "detail": "省级品牌名单列明的海蜇，保留营口市级关联，不预设加工盐度。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市",
+      "name": "兴城多宝鱼",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-eddcdac485f2da",
+      "description": "兴城多宝鱼：辽宁区域公用品牌名单列明的养殖水产，县域定位为兴城市。",
+      "detail": "辽宁区域公用品牌名单列明的养殖水产，县域定位为兴城市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "新宾满族自治县",
+      "name": "新宾蜂蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-f266ff28f2a831",
+      "description": "新宾蜂蜜：省级区域公用品牌名单列明的蜂蜜，不由地名推定统一的蜜源植物。",
+      "detail": "省级区域公用品牌名单列明的蜂蜜，不由地名推定统一的蜜源植物。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "name": "桓仁蜂蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-a8c9de57d7566a",
+      "description": "桓仁蜂蜜：辽宁品牌名单中的县域蜂蜜，和当地稻米、酒类分开记录。",
+      "detail": "辽宁品牌名单中的县域蜂蜜，和当地稻米、酒类分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "name": "桓仁大榛子",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-1b9f62e467530f",
+      "description": "桓仁大榛子：辽宁区域公用品牌名单列明的榛子，以桓仁县域保存产地信息。",
+      "detail": "辽宁区域公用品牌名单列明的榛子，以桓仁县域保存产地信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "name": "凤城板栗",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-3774e7d8b2f604",
+      "description": "凤城板栗：辽宁区域公用品牌名单中的板栗，保留凤城地方食材关联。",
+      "detail": "辽宁区域公用品牌名单中的板栗，保留凤城地方食材关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "name": "凤城蚕蛹",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "id": "regional-fcc0b5dd7249bf",
+      "description": "凤城蚕蛹：辽宁名单列明的凤城蚕蛹，具体蚕种与加工方式仍需按产品核对。",
+      "detail": "辽宁名单列明的凤城蚕蛹，具体蚕种与加工方式仍需按产品核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "北票市",
+      "name": "北票荆条蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-23648e5110f59d",
+      "description": "北票荆条蜜：省级品牌名单点名的荆条蜜，蜜源信息来自产品名称而非地名推断。",
+      "detail": "省级品牌名单点名的荆条蜜，蜜源信息来自产品名称而非地名推断。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "辽阳市相关产区",
+      "name": "辽阳大果榛子",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-2484250d66c649",
+      "description": "辽阳大果榛子：辽宁区域公用品牌名单中的榛子，保持市域关联而不虚构具体村镇。",
+      "detail": "辽宁区域公用品牌名单中的榛子，保持市域关联而不虚构具体村镇。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "铁岭市相关产区",
+      "name": "铁岭榛子",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-b6b55f29a5c56a",
+      "description": "铁岭榛子：辽宁省区域公用品牌名单列明的榛子，以铁岭市级范围收录。",
+      "detail": "辽宁省区域公用品牌名单列明的榛子，以铁岭市级范围收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ln-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "榆树市",
+      "name": "榆树大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-2dcd9fc1b3428a",
+      "description": "榆树大米：省级地理标志商标名录列明的大米，注册主体为榆树稻米产业协会。",
+      "detail": "省级地理标志商标名录列明的大米，注册主体为榆树稻米产业协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "九台区饮马河一带",
+      "name": "九台饮马河大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-2959d97c0c73fd",
+      "description": "吉林名录列明的饮马河稻米，旧主体名中的九台市按现行九台区展示。",
+      "detail": "吉林名录列明的饮马河稻米，旧主体名中的九台市按现行九台区展示。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "农安县靠山镇",
+      "name": "红石砬小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-2e63636332749e",
+      "description": "吉林名录中的小米产品，注册主体位于农安县靠山镇，保留此定位线索。",
+      "detail": "吉林名录中的小米产品，注册主体位于农安县靠山镇，保留此定位线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "公主岭市",
+      "name": "公主岭玉米",
+      "type": "ingredients",
+      "kind": "地方谷物",
+      "id": "regional-3c9f4289fa9cc1",
+      "description": "公主岭玉米：吉林名录列明的玉米产品，公主岭按现行由长春代管的归属记录。",
+      "detail": "吉林名录列明的玉米产品，公主岭按现行由长春代管的归属记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "公主岭市",
+      "name": "公主岭大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-53e09d11cd827a",
+      "description": "公主岭大米：吉林地理标志商标名录列明的稻米，区别于同一产区的玉米产品。",
+      "detail": "吉林地理标志商标名录列明的稻米，区别于同一产区的玉米产品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "公主岭市",
+      "name": "公主岭油豆角",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-0cb40ba2e6c09f",
+      "description": "公主岭油豆角：省级名录列明的鲜蔬菜产品，保存油豆角这一地方食材名称。",
+      "detail": "省级名录列明的鲜蔬菜产品，保存油豆角这一地方食材名称。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "双阳区",
+      "name": "双阳胖头鱼",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-9708b01cd194e7",
+      "description": "双阳胖头鱼：吉林地理标志名录列明的胖头鱼产品，保留双阳区的生产关联。",
+      "detail": "吉林地理标志名录列明的胖头鱼产品，保留双阳区的生产关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "locality": "德惠市",
+      "name": "德惠大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-c1ef9545915e72",
+      "description": "德惠大米：吉林名录中的县域稻米产品，注册主体为德惠市大米协会。",
+      "detail": "吉林名录中的县域稻米产品，注册主体为德惠市大米协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "舒兰市",
+      "name": "舒兰大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-e2fe84602192f7",
+      "description": "舒兰大米：省级地理标志商标名录列明的舒兰稻米，按县级市保存地理关联。",
+      "detail": "省级地理标志商标名录列明的舒兰稻米，按县级市保存地理关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "永吉县万昌镇",
+      "name": "万昌大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-f80667bf4ee87d",
+      "description": "万昌大米：吉林名录列明的稻米产品，注册主体为永吉县粮食行业协会。",
+      "detail": "吉林名录列明的稻米产品，注册主体为永吉县粮食行业协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "蛟河市黄松甸镇",
+      "name": "黄松甸黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-85b3a920eb33f7",
+      "description": "黄松甸黑木耳：吉林名录列明的黑木耳，与黄松甸食用菌协会的地方关联明确。",
+      "detail": "吉林名录列明的黑木耳，与黄松甸食用菌协会的地方关联明确。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "桦甸市",
+      "name": "桦甸葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-5a96fbbf792a22",
+      "description": "桦甸葡萄：省级名录核定商品为新鲜葡萄，保留鲜果与葡萄酒的分类区别。",
+      "detail": "省级名录核定商品为新鲜葡萄，保留鲜果与葡萄酒的分类区别。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "桦甸市",
+      "name": "桦甸紫苏",
+      "type": "ingredients",
+      "kind": "地方香草原料",
+      "id": "regional-eba5de475cc422",
+      "description": "吉林地理标志商标名录列明的紫苏，以植物食材记录，不作疗效介绍。",
+      "detail": "吉林地理标志商标名录列明的紫苏，以植物食材记录，不作疗效介绍。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "蛟河市",
+      "name": "蛟河粘玉米",
+      "type": "ingredients",
+      "kind": "地方谷物",
+      "id": "regional-406abdc9d8a994",
+      "description": "蛟河粘玉米：吉林名录核定商品包括玉米和速冻玉米，商品形态随具体产品另核。",
+      "detail": "吉林名录核定商品包括玉米和速冻玉米，商品形态随具体产品另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县",
+      "name": "伊通大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-76fda764d7f7d8",
+      "description": "伊通大米：吉林地理标志商标名录中的大米，县域定位为伊通满族自治县。",
+      "detail": "吉林地理标志商标名录中的大米，县域定位为伊通满族自治县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "双辽市",
+      "name": "双辽小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-52097b54722560",
+      "description": "双辽小米：吉林名录列明的小米，和已收录的双辽大米分开作为谷物记录。",
+      "detail": "吉林名录列明的小米，和已收录的双辽大米分开作为谷物记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "双辽市",
+      "name": "双辽花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-2aac5286da9b99",
+      "description": "双辽花生：省级名录核定商品为新鲜花生，保存双辽县级市的产地信息。",
+      "detail": "省级名录核定商品为新鲜花生，保存双辽县级市的产地信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县二道镇",
+      "name": "伊通二道干豆腐",
+      "type": "ingredients",
+      "kind": "地方豆制品",
+      "id": "regional-aabcfa98562ab8",
+      "description": "伊通二道干豆腐：吉林名录列明的干豆腐产品，注册主体为伊通二道干豆腐行业协会。",
+      "detail": "吉林名录列明的干豆腐产品，注册主体为伊通二道干豆腐行业协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县",
+      "name": "伊通榛子",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-0e1194345bed7d",
+      "description": "伊通榛子：省级名录列明的鲜榛子，保留伊通县域关联而不虚构特定炒制方法。",
+      "detail": "省级名录列明的鲜榛子，保留伊通县域关联而不虚构特定炒制方法。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县",
+      "name": "伊通玉米",
+      "type": "ingredients",
+      "kind": "地方谷物",
+      "id": "regional-ab82526a1dd030",
+      "description": "伊通玉米：吉林名录列明的伊通玉米，记录原粮食材而不替代某道地方菜。",
+      "detail": "吉林名录列明的伊通玉米，记录原粮食材而不替代某道地方菜。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县",
+      "name": "伊通黄牛肉",
+      "type": "ingredients",
+      "kind": "地方肉类",
+      "id": "regional-17dabdf3752ee4",
+      "description": "伊通黄牛肉：吉林名录明确列有牛肉核定商品，以肉类食材而非活畜卡片收录。",
+      "detail": "吉林名录明确列有牛肉核定商品，以肉类食材而非活畜卡片收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ],
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "locality": "伊通满族自治县",
+      "name": "伊通黑猪肉",
+      "type": "ingredients",
+      "kind": "地方肉类",
+      "id": "regional-c65e969730d968",
+      "description": "伊通黑猪肉：吉林地理标志商标名录明确列有猪肉，保留伊通县域产地关联。",
+      "detail": "吉林地理标志商标名录明确列有猪肉，保留伊通县域产地关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "辽源",
+      "locality": "东辽县",
+      "name": "东辽黑猪",
+      "type": "ingredients",
+      "kind": "地方猪肉原料",
+      "id": "regional-9d259a45dd515f",
+      "description": "东辽黑猪：吉林名录列有猪肉核定商品，以食材记录，不与同名活猪重复拆卡。",
+      "detail": "吉林名录列有猪肉核定商品，以食材记录，不与同名活猪重复拆卡。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "通化",
+      "locality": "柳河县",
+      "name": "柳河山葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-11b8679a3b95cf",
+      "description": "柳河山葡萄：吉林名录核定商品为鲜葡萄，与柳河山葡萄酒按产品形态区分。",
+      "detail": "吉林名录核定商品为鲜葡萄，与柳河山葡萄酒按产品形态区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "通化",
+      "locality": "柳河县",
+      "name": "柳河大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-d294a655455add",
+      "description": "柳河大米：吉林地理标志商标名录列明的稻米，注册主体为当地稻米产业协会。",
+      "detail": "吉林地理标志商标名录列明的稻米，注册主体为当地稻米产业协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "通化",
+      "locality": "辉南县",
+      "name": "辉南大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-39b628a81d6cfa",
+      "description": "辉南大米是吉林通化辉南县的地方稻米，名录中的核定商品包括谷类制品和米。",
+      "detail": "吉林名录列明的县域大米，核定商品包括谷类制品和米。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白山",
+      "locality": "长白朝鲜族自治县",
+      "name": "长白林下猪",
+      "type": "ingredients",
+      "kind": "地方猪肉原料",
+      "id": "regional-3ff0a1ff192e92",
+      "description": "长白林下猪：吉林名录中该产品核定为猪肉，以食材而非野生动物产品记录。",
+      "detail": "吉林名录中该产品核定为猪肉，以食材而非野生动物产品记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "前郭尔罗斯蒙古族自治县",
+      "name": "前郭尔罗斯大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-feeec829aef21f",
+      "description": "前郭尔罗斯大米：吉林名录列明的稻米产品，按前郭县保存完整县域检索名称。",
+      "detail": "吉林名录列明的稻米产品，按前郭县保存完整县域检索名称。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "乾安县",
+      "name": "乾安黄小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-ec4fec9850755c",
+      "description": "乾安黄小米：吉林地理标志商标名录列明的黄小米，与县域谷物种植协会相关。",
+      "detail": "吉林地理标志商标名录列明的黄小米，与县域谷物种植协会相关。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "扶余市",
+      "name": "扶余四粒红花生",
+      "type": "ingredients",
+      "kind": "地方坚果油料",
+      "id": "regional-5d992d10829f33",
+      "description": "扶余四粒红花生：吉林名录核定商品为花生，主体中的旧扶余县按现行扶余市展示。",
+      "detail": "吉林名录核定商品为花生，主体中的旧扶余县按现行扶余市展示。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "长岭县",
+      "name": "长岭葵花籽",
+      "type": "ingredients",
+      "kind": "地方油料坚果",
+      "id": "regional-c1fdb8a9bfe60e",
+      "description": "吉林名录核定商品为葵花种籽，保留长岭县域关联，不推定加工口味。",
+      "detail": "吉林名录核定商品为葵花种籽，保留长岭县域关联，不推定加工口味。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "长岭县腰坨子乡",
+      "name": "腰坨子白根萝卜",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-ef581c0f530694",
+      "description": "腰坨子白根萝卜：吉林名录列明的鲜萝卜产品，注册主体为长岭土特产品服务机构。",
+      "detail": "吉林名录列明的鲜萝卜产品，注册主体为长岭土特产品服务机构。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "locality": "长岭县新安镇",
+      "name": "新安镇辣椒",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-150ad593f9db0c",
+      "description": "新安镇辣椒：吉林名录核定商品为辣椒植物，保留新安镇及长岭县域的定位。",
+      "detail": "吉林名录核定商品为辣椒植物，保留新安镇及长岭县域的定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "洮南市黑水镇",
+      "name": "洮南黑水西瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-ff006a7681e7a9",
+      "description": "洮南黑水西瓜：吉林地理标志商标名录中的西瓜，与洮南黑水镇产业协会对应。",
+      "detail": "吉林地理标志商标名录中的西瓜，与洮南黑水镇产业协会对应。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "白城市相关产区",
+      "name": "白城绿豆",
+      "type": "ingredients",
+      "kind": "地方杂豆",
+      "id": "regional-8993920636ca4f",
+      "description": "白城绿豆：省级地理标志商标名录列明的绿豆，以市级区域品牌收录。",
+      "detail": "省级地理标志商标名录列明的绿豆，以市级区域品牌收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "通榆县",
+      "name": "通榆草原红牛肉",
+      "type": "ingredients",
+      "kind": "地方肉类",
+      "id": "regional-1b8c170b6d9d32",
+      "description": "通榆草原红牛肉：吉林名录明确核定牛肉商品，和同名活牛、牛奶按产品形态区分。",
+      "detail": "吉林名录明确核定牛肉商品，和同名活牛、牛奶按产品形态区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ],
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "洮南市",
+      "name": "洮南辣椒",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-ae5443089de1ab",
+      "description": "洮南辣椒：吉林名录同时列明鲜辣椒和干辣椒，两种商品形态合并介绍。",
+      "detail": "吉林名录同时列明鲜辣椒和干辣椒，两种商品形态合并介绍。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "镇赉县",
+      "name": "镇赉大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-ccaebdb27a0f4e",
+      "description": "镇赉大米：吉林名录列明的地方稻米，注册主体为镇赉莫莫格湿地稻米协会。",
+      "detail": "吉林名录列明的地方稻米，注册主体为镇赉莫莫格湿地稻米协会。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "镇赉县",
+      "name": "镇赉甜瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-1fa9297987c97b",
+      "description": "镇赉甜瓜：吉林名录列明的甜瓜，注册主体来自镇赉县建平乡，保留县域定位。",
+      "detail": "吉林名录列明的甜瓜，注册主体来自镇赉县建平乡，保留县域定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "通榆县八面乡",
+      "name": "通榆八面小米",
+      "type": "ingredients",
+      "kind": "地方杂粮",
+      "id": "regional-b47ecb18064a1b",
+      "description": "通榆八面小米：吉林地理标志名录列明的小米，以通榆县和八面地名保存检索线索。",
+      "detail": "吉林地理标志名录列明的小米，以通榆县和八面地名保存检索线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "大安市",
+      "name": "大安大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-84d1e5e5781bb3",
+      "description": "大安大米：吉林地理标志商标名录列明的大米，和同市水产原料分开归类。",
+      "detail": "吉林地理标志商标名录列明的大米，和同市水产原料分开归类。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "珲春市",
+      "name": "珲春大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-65246cd877fcaa",
+      "description": "珲春大米：吉林名录列明的珲春稻米，归属延边州，县级市信息保存在产地栏。",
+      "detail": "吉林名录列明的珲春稻米，归属延边州，县级市信息保存在产地栏。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "敦化市",
+      "name": "敦化小粒黄豆",
+      "type": "ingredients",
+      "kind": "地方杂豆",
+      "id": "regional-2fa3954d144c06",
+      "description": "敦化小粒黄豆：吉林名录核定商品为大豆，名称保留小粒黄豆这一识别特点。",
+      "detail": "吉林名录核定商品为大豆，名称保留小粒黄豆这一识别特点。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "安图县",
+      "name": "安图大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-33b410ff10b5db",
+      "description": "安图大米：吉林地理标志名录列明的县域大米，记录产区而不指代某家企业。",
+      "detail": "吉林地理标志名录列明的县域大米，记录产区而不指代某家企业。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "安图县",
+      "name": "安图黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-ef631be1f086cb",
+      "description": "安图黑木耳：吉林名录核定商品为木耳，与当地大米、蓝莓等食材分别记录。",
+      "detail": "吉林名录核定商品为木耳，与当地大米、蓝莓等食材分别记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "安图县",
+      "name": "安图香瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-7520d39e05631a",
+      "description": "安图香瓜：吉林名录核定商品为新鲜香瓜，保留安图县域地方果品关联。",
+      "detail": "吉林名录核定商品为新鲜香瓜，保留安图县域地方果品关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "安图县",
+      "name": "安图蓝莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-bc378788475e9d",
+      "description": "安图蓝莓：吉林名录同时列明鲜蓝莓和蓝莓果干，同名产品合并记录不同形态。",
+      "detail": "吉林名录同时列明鲜蓝莓和蓝莓果干，同名产品合并记录不同形态。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "汪清县",
+      "name": "汪清黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-855ebd90142125",
+      "description": "吉林地理标志名录列明的木耳，注册主体与汪清农产品加工协会相关。",
+      "detail": "吉林地理标志名录列明的木耳，注册主体与汪清农产品加工协会相关。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "locality": "通榆县",
+      "name": "通榆草原红牛奶",
+      "type": "dairy",
+      "kind": "地方乳品",
+      "id": "regional-a3c661bfbcd052",
+      "description": "吉林名录将该产品核定商品列为牛奶，不能据此推定鲜奶品牌或供应点。",
+      "detail": "吉林名录将该产品核定商品列为牛奶，不能据此推定鲜奶品牌或供应点。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-jl-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "呼兰区",
+      "name": "呼兰鸡蛋",
+      "type": "ingredients",
+      "kind": "地方禽蛋",
+      "id": "regional-dfb1c3655e0feb",
+      "description": "呼兰鸡蛋：全国名特优新农产品报道列明的鸡蛋，以呼兰区保存地方生产关联。",
+      "detail": "全国名特优新农产品报道列明的鸡蛋，以呼兰区保存地方生产关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "方正县",
+      "name": "方正富硒大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-f0193b94d6a431",
+      "description": "名特优新农产品报道中的大米，富硒为产品名保留，不扩展健康功效。",
+      "detail": "名特优新农产品报道中的大米，富硒为产品名保留，不扩展健康功效。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "甘南县",
+      "name": "甘南粥米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-f834ba9b5e8c78",
+      "description": "甘南粥米：报道注明为大米，本条的甘南指黑龙江甘南县，与甘肃甘南州区分。",
+      "detail": "报道注明为大米，本条的甘南指黑龙江甘南县，与甘肃甘南州区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "宁安市",
+      "name": "宁安石板大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-851e4a62e6587a",
+      "description": "宁安石板大米：名特优新报道列明的稻米产品，记录宁安产区，不虚构具体种植村。",
+      "detail": "名特优新报道列明的稻米产品，记录宁安产区，不虚构具体种植村。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "宁安市",
+      "name": "宁安椴树蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-53fa2771bb6381",
+      "description": "宁安椴树蜜：报道列明的椴树蜜，以蜜源产品名及宁安地方生产关联收录。",
+      "detail": "报道列明的椴树蜜，以蜜源产品名及宁安地方生产关联收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "穆棱市",
+      "name": "穆棱大豆",
+      "type": "ingredients",
+      "kind": "地方杂豆",
+      "id": "regional-a9ac620b9594ae",
+      "description": "穆棱大豆：名特优新农产品报道列明的地方大豆，穆棱为牡丹江代管县级市。",
+      "detail": "名特优新农产品报道列明的地方大豆，穆棱为牡丹江代管县级市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "抚远市",
+      "name": "抚远蔓越莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-95ddc2e9bb0539",
+      "description": "抚远蔓越莓：报道列明的抚远蔓越莓，作为当地种植鲜果记录，不等同进口果干。",
+      "detail": "报道列明的抚远蔓越莓，作为当地种植鲜果记录，不等同进口果干。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "虎林市",
+      "name": "虎林椴树蜜",
+      "type": "ingredients",
+      "kind": "蜂产品",
+      "id": "regional-068c8f93de118a",
+      "description": "虎林椴树蜜：名特优新报道列明的地方椴树蜜，按虎林县级市记录产地。",
+      "detail": "名特优新报道列明的地方椴树蜜，按虎林县级市记录产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "伊春",
+      "locality": "伊春市相关产区",
+      "name": "伊春蓝莓",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-e94c177f21412e",
+      "description": "伊春蓝莓：地方政府报道列明的伊春蓝莓，按市域收录，不混同大兴安岭产区。",
+      "detail": "地方政府报道列明的伊春蓝莓，按市域收录，不混同大兴安岭产区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "伊春",
+      "locality": "伊春市相关产区",
+      "name": "伊春黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-a84eee7d871f35",
+      "description": "伊春黑木耳：名特优新报道列明的地方食用菌，以伊春市域记录，具体县区另核。",
+      "detail": "名特优新报道列明的地方食用菌，以伊春市域记录，具体县区另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "海伦市",
+      "name": "海伦大豆",
+      "type": "ingredients",
+      "kind": "地方杂豆",
+      "id": "regional-141a37b5a5b054",
+      "description": "海伦大豆：名特优新农产品报道列明的海伦大豆，以县级市保存地理定位。",
+      "detail": "名特优新农产品报道列明的海伦大豆，以县级市保存地理定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "海伦市",
+      "name": "海伦大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-5cbdae369fea2e",
+      "description": "海伦大米：地方政府报道列明的海伦稻米，与同市大豆作为不同食材分别记录。",
+      "detail": "地方政府报道列明的海伦稻米，与同市大豆作为不同食材分别记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "庆安县",
+      "name": "庆安大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-e0a5b6eeec7f2b",
+      "description": "庆安大米：名特优新报道列明的稻米产品，与已收录的庆安大米酒分别分类。",
+      "detail": "名特优新报道列明的稻米产品，与已收录的庆安大米酒分别分类。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-hlj-produce"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "常山县",
+      "name": "常山胡柚",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-b71b629407c335",
+      "description": "常山地方柚果，报道描述其汁水丰富、甜中略带苦味，与采摘旅游相连。",
+      "detail": "常山地方柚果，报道描述其汁水丰富、甜中略带苦味，与采摘旅游相连。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-zj-food"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "仙居县",
+      "name": "仙居杨梅",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-0f9a12585365c8",
+      "description": "仙居杨梅：文化和旅游部转载报道列举的浙江时鲜果品，县域定位为仙居。",
+      "detail": "文化和旅游部转载报道列举的浙江时鲜果品，县域定位为仙居。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-zj-food"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "奉化区",
+      "name": "奉化水蜜桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-2c623b2ad735f5",
+      "description": "奉化水蜜桃：文化和旅游部报道列举的浙江时鲜果品，以现行奉化区保存定位。",
+      "detail": "文化和旅游部报道列举的浙江时鲜果品，以现行奉化区保存定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-zj-food"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "浦江县",
+      "name": "浦江巨峰葡萄",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-892bbcea57b99b",
+      "description": "浦江巨峰葡萄：报道列举的浙江地方葡萄，巨峰为品种相关名称，区别于葡萄酒。",
+      "detail": "报道列举的浙江地方葡萄，巨峰为品种相关名称，区别于葡萄酒。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-zj-food"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "蚌埠",
+      "locality": "怀远县",
+      "name": "怀远石榴",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-d5e071dd145c71",
+      "description": "怀远石榴：县政府报道确认的石榴产业和地理标志产品，保存怀远县域产地。",
+      "detail": "县政府报道确认的石榴产业和地理标志产品，保存怀远县域产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-ah-pomegranate"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "焦作",
+      "locality": "温县",
+      "name": "温县铁棍山药",
+      "type": "ingredients",
+      "kind": "地方薯蓣",
+      "id": "regional-b1be29f77283a8",
+      "description": "温县铁棍山药：河南地方特产介绍中的山药，表面有不规则斑点，熟后粉性较足。",
+      "detail": "河南地方特产介绍中的山药，表面有不规则斑点，熟后粉性较足。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-he-wenxian"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "郑州",
+      "locality": "新郑市",
+      "name": "新郑红枣",
+      "type": "ingredients",
+      "kind": "地方枣果",
+      "id": "regional-711f29effd1321",
+      "description": "新郑红枣：河南地方特产介绍中的红枣，包含灰枣、鸡心枣等不同品种。",
+      "detail": "河南地方特产介绍中的红枣，包含灰枣、鸡心枣等不同品种。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-he-jujube"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "name": "西峡猕猴桃",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-e91d433ba6fe84",
+      "description": "国家知识产权局用标公告点名的地方鲜果，按西峡县域保存地理关联。",
+      "detail": "国家知识产权局用标公告点名的地方鲜果，按西峡县域保存地理关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "name": "西峡香菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-daca93f9bce217",
+      "description": "国家知识产权局公告列明的地方香菇，不能据公告推定每个商家的许可。",
+      "detail": "国家知识产权局公告列明的地方香菇，不能据公告推定每个商家的许可。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "驻马店",
+      "locality": "平舆县",
+      "name": "平舆白芝麻",
+      "type": "ingredients",
+      "kind": "地方油料",
+      "id": "regional-4ed8f4e98b886c",
+      "description": "国家知识产权局公告列明的白芝麻，作为地方食材而非调味成品记录。",
+      "detail": "国家知识产权局公告列明的白芝麻，作为地方食材而非调味成品记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "邳州市",
+      "name": "邳州板栗",
+      "type": "ingredients",
+      "kind": "地方坚果",
+      "id": "regional-a0b2f131c5d737",
+      "description": "邳州板栗：国家知识产权局用标公告列明的地方板栗，以邳州县级市记录。",
+      "detail": "国家知识产权局用标公告列明的地方板栗，以邳州县级市记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如东县",
+      "name": "如东泥螺",
+      "type": "ingredients",
+      "kind": "地方水产原料",
+      "id": "regional-0a928208b0ecab",
+      "description": "国家知识产权局公告列明的泥螺产品，作为食材收录，不推定为生食成品。",
+      "detail": "国家知识产权局公告列明的泥螺产品，作为食材收录，不推定为生食成品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "兴化市",
+      "name": "兴化大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "id": "regional-27f20cfe02c449",
+      "description": "兴化大米：国家知识产权局公告列明的地方大米，产地定位为兴化县级市。",
+      "detail": "国家知识产权局公告列明的地方大米，产地定位为兴化县级市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "赣榆区",
+      "name": "赣榆梭子蟹",
+      "type": "ingredients",
+      "kind": "地方蟹类",
+      "id": "regional-1878f697e9d0ed",
+      "description": "赣榆梭子蟹：国家知识产权局公告列明的梭子蟹，保留赣榆区这一县级定位。",
+      "detail": "国家知识产权局公告列明的梭子蟹，保留赣榆区这一县级定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "庆元县",
+      "name": "庆元香菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-38c9295a3cac60",
+      "description": "庆元香菇：国家知识产权局公告列明的地方香菇，保留庆元县域食材关联。",
+      "detail": "国家知识产权局公告列明的地方香菇，保留庆元县域食材关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "开化县",
+      "name": "开化黑木耳",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-fe04431310d3c6",
+      "description": "开化黑木耳：国家知识产权局公告列明的木耳产品，与开化龙顶茶分开记录。",
+      "detail": "国家知识产权局公告列明的木耳产品，与开化龙顶茶分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "江山市",
+      "name": "江山白菇",
+      "type": "ingredients",
+      "kind": "地方食用菌",
+      "id": "regional-8af0d67492d045",
+      "description": "江山白菇：国家知识产权局公告点名的白菇产品，保存江山县级市定位。",
+      "detail": "国家知识产权局公告点名的白菇产品，保存江山县级市定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "临海市",
+      "name": "临海西兰花",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "id": "regional-ee4132cfe1d6d2",
+      "description": "临海西兰花：国家知识产权局公告列明的地方蔬菜，与同市茶叶、果品分别分类。",
+      "detail": "国家知识产权局公告列明的地方蔬菜，与同市茶叶、果品分别分类。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "平湖市",
+      "name": "平湖西瓜",
+      "type": "ingredients",
+      "kind": "地方瓜果",
+      "id": "regional-e47bf666f4945d",
+      "description": "平湖西瓜：国家知识产权局公告列明的西瓜产品，以平湖县级市保存地方关联。",
+      "detail": "国家知识产权局公告列明的西瓜产品，以平湖县级市保存地方关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "舟山",
+      "locality": "定海区金塘镇",
+      "name": "金塘李",
+      "type": "ingredients",
+      "kind": "地方鲜果",
+      "id": "regional-971e62df8ec86b",
+      "description": "金塘李：国家知识产权局公告列明的李子产品，保留金塘这一海岛产地线索。",
+      "detail": "国家知识产权局公告列明的李子产品，保留金塘这一海岛产地线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-cnipa-products"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "长汀县",
+      "name": "长汀豆腐干",
+      "type": "ingredients",
+      "kind": "地方豆制品",
+      "id": "regional-3496771da2b438",
+      "description": "客家豆制品，地方志介绍以酸浆凝结豆腐，再经滤压制作的地方方法。",
+      "detail": "客家豆制品，地方志介绍以酸浆凝结豆腐，再经滤压制作的地方方法。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "连城县",
+      "name": "连城红心地瓜干",
+      "type": "ingredients",
+      "kind": "地方薯干",
+      "id": "regional-8f1ffdaa9bf26f",
+      "description": "连城红心地瓜干：以红心甘薯加工的地方特产，现有蜜饯、香酥等不同产品形态。",
+      "detail": "以红心甘薯加工的地方特产，现有蜜饯、香酥等不同产品形态。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "上杭县",
+      "name": "上杭萝卜干",
+      "type": "ingredients",
+      "kind": "地方干菜",
+      "id": "regional-cb2a783b179df6",
+      "description": "闽西八大干之一，以萝卜加工的地方食品，特点是香脆，产地为上杭。",
+      "detail": "闽西八大干之一，以萝卜加工的地方食品，特点是香脆，产地为上杭。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "三明",
+      "locality": "清流县",
+      "name": "清流笋干",
+      "type": "ingredients",
+      "kind": "地方笋干",
+      "id": "regional-52b18ffc6e2fbf",
+      "description": "清流笋干：以春笋尖制作的地方干笋，地方志将其列入汀州八大干介绍。",
+      "detail": "以春笋尖制作的地方干笋，地方志将其列入汀州八大干介绍。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "武平县",
+      "name": "武平猪胆肝",
+      "type": "dishes",
+      "kind": "地方熟食",
+      "id": "regional-e3f580e0939053",
+      "description": "武平猪胆肝：又称武平猪胆干，地方志列举猪肝、猪胆、酒及香辛料等加工原料。",
+      "detail": "又称武平猪胆干，地方志列举猪肝、猪胆、酒及香辛料等加工原料。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "三明",
+      "locality": "明溪县",
+      "name": "明溪肉脯干",
+      "type": "dishes",
+      "kind": "地方肉脯",
+      "id": "regional-f7aa8f1a0adfad",
+      "description": "以猪后腿精肉加工，地方志描述其口感韧、咸中略甜，属于八大干之一。",
+      "detail": "以猪后腿精肉加工，地方志描述其口感韧、咸中略甜，属于八大干之一。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-fj-dried"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "东城区",
+      "name": "景泰蓝",
+      "type": "crafts",
+      "kind": "金属珐琅工艺",
+      "id": "regional-ade8064ec44f1c",
+      "description": "景泰蓝：国家名录中的景泰蓝制作技艺，原申报地崇文区现属东城区。",
+      "detail": "国家名录中的景泰蓝制作技艺，原申报地崇文区现属东城区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "东城区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "东城区",
+      "name": "北京雕漆",
+      "type": "crafts",
+      "kind": "漆器工艺",
+      "id": "regional-7e0c97df93b0ed",
+      "description": "国家名录中的雕漆技艺，原申报地为崇文区，本条按现行东城区定位。",
+      "detail": "国家名录中的雕漆技艺，原申报地为崇文区，本条按现行东城区定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "东城区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "朝阳区",
+      "name": "聚元号弓箭",
+      "type": "crafts",
+      "kind": "传统器具",
+      "id": "regional-1f768d6ff4ed03",
+      "description": "国家名录中的聚元号弓箭制作技艺，以器具及制作传统记录北京风物。",
+      "detail": "国家名录中的聚元号弓箭制作技艺，以器具及制作传统记录北京风物。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "朝阳区"
+    },
+    {
+      "province": "beijing",
+      "city": "北京",
+      "locality": "朝阳区",
+      "name": "北京兔儿爷",
+      "type": "crafts",
+      "kind": "彩绘泥塑",
+      "id": "regional-c34d00ce24d865",
+      "description": "具有北京中秋节俗特色的泥塑形象，来源介绍其泥塑、彩绘和民俗关联。",
+      "detail": "具有北京中秋节俗特色的泥塑形象，来源介绍其泥塑、彩绘和民俗关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-bj-rabbit"
+      ],
+      "district": "朝阳区"
+    },
+    {
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "潍坊市相关传承地区",
+      "name": "潍坊风筝",
+      "type": "crafts",
+      "kind": "风筝工艺",
+      "id": "regional-7dd07b767f8f99",
+      "description": "潍坊风筝：国家名录将潍坊风筝列入风筝制作技艺，记录地方扎制和绘饰传统。",
+      "detail": "国家名录将潍坊风筝列入风筝制作技艺，记录地方扎制和绘饰传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "潍坊市杨家埠一带",
+      "name": "杨家埠木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-d9135f6cfd4b0c",
+      "description": "杨家埠木版年画：国家名录中的潍坊地方年画，作为可印制的节俗图像物品收录。",
+      "detail": "国家名录中的潍坊地方年画，作为可印制的节俗图像物品收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "高密市",
+      "name": "高密扑灰年画",
+      "type": "crafts",
+      "kind": "民间绘画",
+      "id": "regional-28545f21d37b96",
+      "description": "高密扑灰年画：国家名录中的地方年画形式，扑灰为工艺名称，保留高密县域定位。",
+      "detail": "国家名录中的地方年画形式，扑灰为工艺名称，保留高密县域定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "宣城",
+      "locality": "泾县",
+      "name": "宣纸",
+      "type": "crafts",
+      "kind": "书画用纸",
+      "id": "regional-6f0ca66101f2a7",
+      "description": "国家名录中的宣纸制作技艺，申报地区为泾县，不将所有宣城产纸统称宣纸。",
+      "detail": "国家名录中的宣纸制作技艺，申报地区为泾县，不将所有宣城产纸统称宣纸。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "歙县",
+      "name": "歙砚",
+      "type": "crafts",
+      "kind": "文房砚台",
+      "id": "regional-04b2f30ecf728e",
+      "description": "国家名录中的歙砚制作技艺，本条记录安徽歙县一侧的地方文房传统。",
+      "detail": "国家名录中的歙砚制作技艺，本条记录安徽歙县一侧的地方文房传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "屯溪区、歙县",
+      "name": "徽墨",
+      "type": "crafts",
+      "kind": "书画用墨",
+      "id": "regional-abe662145a61e1",
+      "description": "国家名录列明屯溪、歙县以及宣城绩溪等传承地，本条合并介绍而不重复计数。",
+      "detail": "国家名录列明屯溪、歙县以及宣城绩溪等传承地，本条合并介绍而不重复计数。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。名录同时列明宣城市绩溪县的传承关联，未重复创建第二张卡片。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "黄山市相关传承地区",
+      "name": "徽州三雕",
+      "type": "crafts",
+      "kind": "木石砖雕饰",
+      "id": "regional-121ed0374d09c5",
+      "description": "国家名录中的徽州三雕，本条记录黄山市关联，不把邻省同类工艺混作安徽产地。",
+      "detail": "国家名录中的徽州三雕，本条记录黄山市关联，不把邻省同类工艺混作安徽产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "休宁县万安镇",
+      "name": "万安罗盘",
+      "type": "crafts",
+      "kind": "传统测向器具",
+      "id": "regional-1231d2f2dd807d",
+      "description": "国家名录中的万安罗盘制作技艺，县域为休宁，保留器物与地方手工传统。",
+      "detail": "国家名录中的万安罗盘制作技艺，县域为休宁，保留器物与地方手工传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "芜湖",
+      "locality": "芜湖市相关传承地区",
+      "name": "芜湖铁画",
+      "type": "crafts",
+      "kind": "金属画工艺",
+      "id": "regional-6916d8a388f960",
+      "description": "国家名录中的铁画锻制技艺，以金属成形表现画面，和纸上绘画区分。",
+      "detail": "国家名录中的铁画锻制技艺，以金属成形表现画面，和纸上绘画区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "anhui",
+      "city": "阜阳",
+      "locality": "界首市",
+      "name": "界首彩陶",
+      "type": "crafts",
+      "kind": "彩陶工艺",
+      "id": "regional-ce5d515355b3fc",
+      "description": "界首彩陶：国家名录中的界首彩陶烧制技艺，县级市界首现归阜阳市。",
+      "detail": "国家名录中的界首彩陶烧制技艺，县级市界首现归阜阳市。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "南京",
+      "locality": "南京市相关传承地区",
+      "name": "南京云锦",
+      "type": "crafts",
+      "kind": "传统丝织品",
+      "id": "regional-2979fd1e414a67",
+      "description": "南京云锦：国家名录中的木机妆花手工织造技艺，以织物及制作传统记录。",
+      "detail": "国家名录中的木机妆花手工织造技艺，以织物及制作传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "南京",
+      "locality": "南京市相关传承地区",
+      "name": "南京金箔",
+      "type": "crafts",
+      "kind": "金属薄片工艺",
+      "id": "regional-1a530d7092dcb0",
+      "description": "国家名录中的金箔锻制技艺，作为装饰与工艺材料收录，不归入食品。",
+      "detail": "国家名录中的金箔锻制技艺，作为装饰与工艺材料收录，不归入食品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "苏州市相关传承地区",
+      "name": "苏绣",
+      "type": "crafts",
+      "kind": "传统刺绣",
+      "id": "regional-b64510c0ca5f8f",
+      "description": "国家名录列明苏州地区的刺绣工艺，本条不以任意苏州售卖绣品替代产地证明。",
+      "detail": "国家名录列明苏州地区的刺绣工艺，本条不以任意苏州售卖绣品替代产地证明。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "苏州市桃花坞一带",
+      "name": "桃花坞木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-b559480be2d128",
+      "description": "桃花坞木版年画：国家名录中的苏州地方年画，以版印图像和节俗用途记录地方物品。",
+      "detail": "国家名录中的苏州地方年画，以版印图像和节俗用途记录地方物品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "苏州市相关传承地区",
+      "name": "苏州宋锦",
+      "type": "crafts",
+      "kind": "传统丝织品",
+      "id": "regional-a60c220a861563",
+      "description": "苏州宋锦：国家名录中的宋锦织造技艺，与同市缂丝和刺绣按工艺分别记录。",
+      "detail": "国家名录中的宋锦织造技艺，与同市缂丝和刺绣按工艺分别记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "苏州市相关传承地区",
+      "name": "苏州缂丝",
+      "type": "crafts",
+      "kind": "传统丝织品",
+      "id": "regional-6ad4439b924d2a",
+      "description": "国家名录中的苏州缂丝织造技艺，以织物工艺记录而非具体商业品牌。",
+      "detail": "国家名录中的苏州缂丝织造技艺，以织物工艺记录而非具体商业品牌。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "无锡",
+      "locality": "宜兴市",
+      "name": "宜兴紫砂陶",
+      "type": "crafts",
+      "kind": "陶器工艺",
+      "id": "regional-f799b47f3d57d4",
+      "description": "国家名录中的紫砂陶制作技艺，以宜兴现行县级市定位，器形与窑口另核。",
+      "detail": "国家名录中的紫砂陶制作技艺，以宜兴现行县级市定位，器形与窑口另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "无锡",
+      "locality": "惠山一带",
+      "name": "惠山泥人",
+      "type": "crafts",
+      "kind": "彩绘泥塑",
+      "id": "regional-c756b98e6fcf50",
+      "description": "国家名录在泥塑项目中列明的无锡地方泥人，作为民间造型工艺记录。",
+      "detail": "国家名录在泥塑项目中列明的无锡地方泥人，作为民间造型工艺记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "扬州市相关传承地区",
+      "name": "扬州玉雕",
+      "type": "crafts",
+      "kind": "玉石雕刻",
+      "id": "regional-011d5679ab0c7d",
+      "description": "国家名录中的扬州玉雕，记录雕刻加工传统，玉材产地与加工地分别理解。",
+      "detail": "国家名录中的扬州玉雕，记录雕刻加工传统，玉材产地与加工地分别理解。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "扬州市相关传承地区",
+      "name": "扬州漆器",
+      "type": "crafts",
+      "kind": "漆器工艺",
+      "id": "regional-6c556c676d44e0",
+      "description": "扬州漆器：国家名录中的扬州漆器髹饰技艺，以器物制作传统记录地方工艺。",
+      "detail": "国家名录中的扬州漆器髹饰技艺，以器物制作传统记录地方工艺。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "扬州市相关传承地区",
+      "name": "扬州剪纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-2d07a0a68574ea",
+      "description": "扬州剪纸：国家名录剪纸项目中的扬州地方形式，与其他地区剪纸分开定位。",
+      "detail": "国家名录剪纸项目中的扬州地方形式，与其他地区剪纸分开定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "南通市相关传承地区",
+      "name": "南通蓝印花布",
+      "type": "crafts",
+      "kind": "传统印染布",
+      "id": "regional-7fd90cdcf86c65",
+      "description": "南通蓝印花布：国家名录中的蓝印花布印染技艺，以地方织染工艺和织物记录。",
+      "detail": "国家名录中的蓝印花布印染技艺，以地方织染工艺和织物记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "南通市相关传承地区",
+      "name": "南通板鹞风筝",
+      "type": "crafts",
+      "kind": "风筝工艺",
+      "id": "regional-15af4e68e0dcda",
+      "description": "南通板鹞风筝：国家名录中的地方风筝形式，与潍坊等地风筝分别归属。",
+      "detail": "国家名录中的地方风筝形式，与潍坊等地风筝分别归属。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "龙泉市",
+      "name": "龙泉青瓷",
+      "type": "crafts",
+      "kind": "青瓷工艺",
+      "id": "regional-1388049da47a20",
+      "description": "龙泉青瓷：国家名录中的龙泉青瓷烧制技艺，以陶瓷器物和地方制作传统记录。",
+      "detail": "国家名录中的龙泉青瓷烧制技艺，以陶瓷器物和地方制作传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "青田县",
+      "name": "青田石雕",
+      "type": "crafts",
+      "kind": "石雕工艺",
+      "id": "regional-190bfc567074bf",
+      "description": "青田石雕：国家名录中的青田石雕，雕刻加工地与每件作品石材来源分别核对。",
+      "detail": "国家名录中的青田石雕，雕刻加工地与每件作品石材来源分别核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "龙泉市",
+      "name": "龙泉宝剑",
+      "type": "crafts",
+      "kind": "金属器物工艺",
+      "id": "regional-ef65a49943ef4d",
+      "description": "龙泉宝剑：国家名录中的龙泉宝剑锻制技艺，作为传统器物与工艺文化记录。",
+      "detail": "国家名录中的龙泉宝剑锻制技艺，作为传统器物与工艺文化记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "乐清市",
+      "name": "乐清黄杨木雕",
+      "type": "crafts",
+      "kind": "木雕工艺",
+      "id": "regional-80148cd3b298b0",
+      "description": "乐清黄杨木雕：国家名录中的黄杨木雕，以乐清县级市为地方制作传统的定位。",
+      "detail": "国家名录中的黄杨木雕，以乐清县级市为地方制作传统的定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "乐清市",
+      "name": "乐清细纹刻纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-c0699d3a31e35e",
+      "description": "乐清细纹刻纸：国家名录剪纸项目列明的地方刻纸形式，保存乐清这一县域产地。",
+      "detail": "国家名录剪纸项目列明的地方刻纸形式，保存乐清这一县域产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "东阳市",
+      "name": "东阳木雕",
+      "type": "crafts",
+      "kind": "木雕工艺",
+      "id": "regional-68b4be8025304b",
+      "description": "国家名录中的东阳木雕，作为地方雕刻传统记录，不指向某个现代品牌。",
+      "detail": "国家名录中的东阳木雕，作为地方雕刻传统记录，不指向某个现代品牌。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "宁波市相关传承地区",
+      "name": "宁波朱金漆木雕",
+      "type": "crafts",
+      "kind": "漆木雕饰",
+      "id": "regional-a0d6c85956436f",
+      "description": "宁波朱金漆木雕：国家名录中的朱金漆木雕，以木雕与漆饰相连的地方工艺收录。",
+      "detail": "国家名录中的朱金漆木雕，以木雕与漆饰相连的地方工艺收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "湖州市相关传承地区",
+      "name": "湖笔",
+      "type": "crafts",
+      "kind": "书画用笔",
+      "id": "regional-79e6536081f5e3",
+      "description": "湖笔：国家名录中的湖笔制作技艺，以毛笔和地方制作传统记录文房用品。",
+      "detail": "国家名录中的湖笔制作技艺，以毛笔和地方制作传统记录文房用品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "嵊州市",
+      "name": "嵊州竹编",
+      "type": "crafts",
+      "kind": "竹编工艺",
+      "id": "regional-d21561c3928cab",
+      "description": "嵊州竹编：国家名录中的地方竹编，以嵊州县级市保存工艺制作关联。",
+      "detail": "国家名录中的地方竹编，以嵊州县级市保存工艺制作关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "仙居县",
+      "name": "仙居花灯",
+      "type": "crafts",
+      "kind": "灯彩工艺",
+      "id": "regional-18095277561b47",
+      "description": "仙居花灯：国家名录灯彩项目列明的仙居花灯，作为节俗物品而非食品记录。",
+      "detail": "国家名录灯彩项目列明的仙居花灯，作为节俗物品而非食品记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "海宁市硖石一带",
+      "name": "硖石灯彩",
+      "type": "crafts",
+      "kind": "灯彩工艺",
+      "id": "regional-be57a8c3032fe8",
+      "description": "硖石灯彩：国家名录中的硖石灯彩，以海宁县级市及硖石地名保存检索位置。",
+      "detail": "国家名录中的硖石灯彩，以海宁县级市及硖石地名保存检索位置。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "富阳区",
+      "name": "富阳竹纸",
+      "type": "crafts",
+      "kind": "书画用纸",
+      "id": "regional-23a08a390a85d9",
+      "description": "富阳竹纸：国家名录竹纸制作技艺列有浙江富阳市，按现行富阳区记录。",
+      "detail": "国家名录竹纸制作技艺列有浙江富阳市，按现行富阳区记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "杭州市相关传承地区",
+      "name": "张小泉剪刀",
+      "type": "crafts",
+      "kind": "金属日用器具",
+      "id": "regional-8a39cbb0b87dad",
+      "description": "国家名录中的张小泉剪刀锻制技艺，记录制作传统，现代产品规格另核。",
+      "detail": "国家名录中的张小泉剪刀锻制技艺，记录制作传统，现代产品规格另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "松江区",
+      "name": "顾绣",
+      "type": "crafts",
+      "kind": "传统刺绣",
+      "id": "regional-995e420e3cbc52",
+      "description": "国家名录列明松江顾绣，后续传承还涉及其他地区，不据此限定全部绣作产地。",
+      "detail": "国家名录列明松江顾绣，后续传承还涉及其他地区，不据此限定全部绣作产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。本条以第一批国家名录的松江关联定位，不否认后续嘉定等地区的传承。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "松江区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "嘉定区",
+      "name": "嘉定竹刻",
+      "type": "crafts",
+      "kind": "竹雕工艺",
+      "id": "regional-450c5d3b55a0a3",
+      "description": "嘉定竹刻：国家名录中的嘉定竹刻，以竹材雕刻器物和地方文人手工传统记录。",
+      "detail": "国家名录中的嘉定竹刻，以竹材雕刻器物和地方文人手工传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "嘉定区"
+    },
+    {
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "徐汇区",
+      "name": "乌泥泾手工棉纺织品",
+      "type": "crafts",
+      "kind": "传统棉织品",
+      "id": "regional-ef32c853822392",
+      "description": "乌泥泾手工棉纺织品：国家名录中的乌泥泾手工棉纺织技艺，申报地区为上海徐汇区。",
+      "detail": "国家名录中的乌泥泾手工棉纺织技艺，申报地区为上海徐汇区。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ],
+      "district": "徐汇区"
+    },
+    {
+      "province": "shanxi",
+      "city": "晋中",
+      "locality": "平遥县",
+      "name": "平遥推光漆器",
+      "type": "crafts",
+      "kind": "漆器工艺",
+      "id": "regional-76a711fd92cd55",
+      "description": "国家名录中的平遥推光漆器髹饰技艺，以县域制作传统记录地方物品。",
+      "detail": "国家名录中的平遥推光漆器髹饰技艺，以县域制作传统记录地方物品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "shanxi",
+      "city": "吕梁",
+      "locality": "中阳县",
+      "name": "中阳剪纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-5043ad5b68a791",
+      "description": "中阳剪纸：国家名录剪纸项目列明的山西地方形式，以中阳县保存地区关联。",
+      "detail": "国家名录剪纸项目列明的山西地方形式，以中阳县保存地区关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "开封",
+      "locality": "祥符区朱仙镇",
+      "name": "朱仙镇木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-1ac66db555162a",
+      "description": "国家名录中的开封地方年画，保留朱仙镇这一核心地名供进一步检索。",
+      "detail": "国家名录中的开封地方年画，保留朱仙镇这一核心地名供进一步检索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "henan",
+      "city": "鹤壁",
+      "locality": "浚县",
+      "name": "浚县泥咕咕",
+      "type": "crafts",
+      "kind": "民间泥塑",
+      "id": "regional-146194337f3769",
+      "description": "浚县泥咕咕：国家名录泥塑项目列明的地方泥塑形式，按浚县所在的鹤壁归属。",
+      "detail": "国家名录泥塑项目列明的地方泥塑形式，按浚县所在的鹤壁归属。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "衡水",
+      "locality": "武强县",
+      "name": "武强木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-2a871ee2034583",
+      "description": "武强木版年画：国家名录中的地方木版年画，产地定位为衡水市武强县。",
+      "detail": "国家名录中的地方木版年画，产地定位为衡水市武强县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "衡水",
+      "locality": "衡水市相关传承地区",
+      "name": "衡水内画",
+      "type": "crafts",
+      "kind": "内画工艺",
+      "id": "regional-e314b62127af75",
+      "description": "衡水内画：国家名录中的衡水内画，以器物内部绘制的传统工艺记录地方风物。",
+      "detail": "国家名录中的衡水内画，以器物内部绘制的传统工艺记录地方风物。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "张家口",
+      "locality": "蔚县",
+      "name": "蔚县剪纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-3f188ff87fcc0f",
+      "description": "蔚县剪纸：国家名录剪纸项目中的蔚县地方形式，保留县域地理关联。",
+      "detail": "国家名录剪纸项目中的蔚县地方形式，保留县域地理关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "承德",
+      "locality": "丰宁满族自治县",
+      "name": "丰宁满族剪纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-a348e987f1ddfe",
+      "description": "丰宁满族剪纸：国家名录列明的满族剪纸形式，以丰宁县域记录地方传承。",
+      "detail": "国家名录列明的满族剪纸形式，以丰宁县域记录地方传承。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "保定",
+      "locality": "曲阳县",
+      "name": "曲阳石雕",
+      "type": "crafts",
+      "kind": "石雕工艺",
+      "id": "regional-c7dfe5cd4cef2f",
+      "description": "国家名录中的曲阳石雕，以雕刻加工传统收录，不把所有原石产地归为曲阳。",
+      "detail": "国家名录中的曲阳石雕，以雕刻加工传统收录，不把所有原石产地归为曲阳。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "峰峰矿区",
+      "name": "磁州窑陶瓷",
+      "type": "crafts",
+      "kind": "陶瓷工艺",
+      "id": "regional-d81c55f209f5ae",
+      "description": "国家名录中的磁州窑烧制技艺，申报地区为峰峰矿区，区别于只按名称猜测归属。",
+      "detail": "国家名录中的磁州窑烧制技艺，申报地区为峰峰矿区，区别于只按名称猜测归属。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市相关传承地区",
+      "name": "湘绣",
+      "type": "crafts",
+      "kind": "传统刺绣",
+      "id": "regional-51ddd8b3ce9449",
+      "description": "湘绣：湖南公布的国家传统工艺振兴目录列明长沙湘绣，以地方绣作记录。",
+      "detail": "湖南公布的国家传统工艺振兴目录列明长沙湘绣，以地方绣作记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "name": "浏阳菊花石雕",
+      "type": "crafts",
+      "kind": "石雕工艺",
+      "id": "regional-83ecfc7a3fb86f",
+      "description": "湖南传统工艺振兴目录列明长沙、浏阳的菊花石雕，以制作传统收录。",
+      "detail": "湖南传统工艺振兴目录列明长沙、浏阳的菊花石雕，以制作传统收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "醴陵市",
+      "name": "醴陵釉下五彩瓷",
+      "type": "crafts",
+      "kind": "彩瓷工艺",
+      "id": "regional-e03f2ea85f4267",
+      "description": "湖南传统工艺振兴目录列明醴陵釉下五彩瓷烧制技艺，以器物工艺记录。",
+      "detail": "湖南传统工艺振兴目录列明醴陵釉下五彩瓷烧制技艺，以器物工艺记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县",
+      "name": "花瑶挑花",
+      "type": "crafts",
+      "kind": "传统织绣",
+      "id": "regional-2ebf10733dadae",
+      "description": "湖南目录列明隆回与溆浦两地传承，本条按隆回收录并说明跨地区关联。",
+      "detail": "湖南目录列明隆回与溆浦两地传承，本条按隆回收录并说明跨地区关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。来源同时列明怀化市溆浦县的传承关联，未重复创建第二张卡片。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县滩头镇",
+      "name": "滩头木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-2df8e8e0385ac6",
+      "description": "滩头木版年画：湖南传统工艺振兴目录列明的年画绘制技艺，保留县镇检索位置。",
+      "detail": "湖南传统工艺振兴目录列明的年画绘制技艺，保留县镇检索位置。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "邵阳市相关传承地区",
+      "name": "宝庆竹刻",
+      "type": "crafts",
+      "kind": "竹雕工艺",
+      "id": "regional-bd1ee87e9829aa",
+      "description": "宝庆竹刻：湖南传统工艺振兴目录列明的竹刻，以邵阳作为地方制作关联。",
+      "detail": "湖南传统工艺振兴目录列明的竹刻，以邵阳作为地方制作关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "益阳市相关传承地区",
+      "name": "益阳小郁竹艺",
+      "type": "crafts",
+      "kind": "竹作工艺",
+      "id": "regional-562d09cf45b623",
+      "description": "益阳小郁竹艺：湖南传统工艺振兴目录列明的竹艺，以地方竹材器物制作传统记录。",
+      "detail": "湖南传统工艺振兴目录列明的竹艺，以地方竹材器物制作传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "通道侗族自治县",
+      "name": "通道侗锦",
+      "type": "crafts",
+      "kind": "传统织锦",
+      "id": "regional-a91dee6227f744",
+      "description": "通道侗锦：湖南传统工艺振兴目录列明的侗锦织造技艺，保留通道县域信息。",
+      "detail": "湖南传统工艺振兴目录列明的侗锦织造技艺，保留通道县域信息。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "name": "泸溪苗族挑花",
+      "type": "crafts",
+      "kind": "传统织绣",
+      "id": "regional-6a30666160ee7d",
+      "description": "泸溪苗族挑花：湖南传统工艺振兴目录列明泸溪苗族挑花，与花瑶挑花分开记录。",
+      "detail": "湖南传统工艺振兴目录列明泸溪苗族挑花，与花瑶挑花分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "name": "踏虎凿花",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-ebac629dae8d4d",
+      "description": "踏虎凿花：湖南传统工艺振兴目录列明的凿花制作技艺，产地关联泸溪县。",
+      "detail": "湖南传统工艺振兴目录列明的凿花制作技艺，产地关联泸溪县。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "湘西州相关传承地区",
+      "name": "土家族织锦",
+      "type": "crafts",
+      "kind": "传统织锦",
+      "id": "regional-a07642129c915b",
+      "description": "湖南传统工艺振兴目录列明的湘西织锦，记录地区传承而非单个企业品牌。",
+      "detail": "湖南传统工艺振兴目录列明的湘西织锦，记录地区传承而非单个企业品牌。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hunan"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "武汉",
+      "locality": "江汉区",
+      "name": "汉绣",
+      "type": "crafts",
+      "kind": "传统刺绣",
+      "id": "regional-5cd6576c25f1e9",
+      "description": "湖北名录列明江汉汉绣，扩展项目还包括荆州，本条保留多地传承说明。",
+      "detail": "湖北名录列明江汉汉绣，扩展项目还包括荆州，本条保留多地传承说明。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。名录也包含荆州的扩展项目，并非武汉独有。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "黄石",
+      "locality": "阳新县",
+      "name": "阳新布贴",
+      "type": "crafts",
+      "kind": "布艺",
+      "id": "regional-7b275a69a0c464",
+      "description": "阳新布贴：湖北省级名录列明的地方布艺，以阳新县保存制作传统的关联。",
+      "detail": "湖北省级名录列明的地方布艺，以阳新县保存制作传统的关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "襄州区程河镇",
+      "name": "程河柳编",
+      "type": "crafts",
+      "kind": "柳编工艺",
+      "id": "regional-f4397b7de1e42b",
+      "description": "程河柳编：湖北省级名录列明的襄州地方柳编，以编织物品记录而非食品。",
+      "detail": "湖北省级名录列明的襄州地方柳编，以编织物品记录而非食品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "老河口市",
+      "name": "老河口木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-52568128e7f749",
+      "description": "老河口木版年画：湖北省级名录列明的年画，保留老河口县级市定位。",
+      "detail": "湖北省级名录列明的年画，保留老河口县级市定位。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "黄梅县",
+      "name": "黄梅挑花",
+      "type": "crafts",
+      "kind": "传统织绣",
+      "id": "regional-825c414b70f038",
+      "description": "黄梅挑花：湖北省级名录列明的黄梅挑花，与邻省其他挑花形式分别归属。",
+      "detail": "湖北省级名录列明的黄梅挑花，与邻省其他挑花形式分别归属。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "红安县",
+      "name": "红安大布",
+      "type": "crafts",
+      "kind": "传统棉织品",
+      "id": "regional-d7013774a3f923",
+      "description": "红安大布：湖北名录中的红安大布传统纺织技艺，以地方棉织物和工艺记录。",
+      "detail": "湖北名录中的红安大布传统纺织技艺，以地方棉织物和工艺记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "红安县",
+      "name": "红安绣花鞋垫",
+      "type": "crafts",
+      "kind": "织绣日用品",
+      "id": "regional-ce1c48721008b6",
+      "description": "红安绣花鞋垫：湖北省级名录列明的绣花鞋垫，以地方日用物品及制作传统收录。",
+      "detail": "湖北省级名录列明的绣花鞋垫，以地方日用物品及制作传统收录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "武穴市",
+      "name": "章水泉竹艺",
+      "type": "crafts",
+      "kind": "竹作工艺",
+      "id": "regional-01e5d98cfcbe04",
+      "description": "章水泉竹艺：湖北省级名录列明的竹艺，以武穴县级市保留产地关联。",
+      "detail": "湖北省级名录列明的竹艺，以武穴县级市保留产地关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "荆州市相关传承地区",
+      "name": "楚式漆器",
+      "type": "crafts",
+      "kind": "漆器工艺",
+      "id": "regional-489649d693d387",
+      "description": "湖北名录列明荆州楚式漆器，其他传承地区另有扩展，不将其限定为独占产地。",
+      "detail": "湖北名录列明荆州楚式漆器，其他传承地区另有扩展，不将其限定为独占产地。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "来凤县",
+      "name": "来凤土家织锦西兰卡普",
+      "type": "crafts",
+      "kind": "传统织锦",
+      "id": "regional-f5a7e7b29a95ef",
+      "description": "来凤土家织锦西兰卡普：湖北省级名录将西兰卡普与来凤县对应，以县域传承和织物记录。",
+      "detail": "湖北省级名录将西兰卡普与来凤县对应，以县域传承和织物记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "枝江市",
+      "name": "枝江手工布鞋",
+      "type": "crafts",
+      "kind": "传统日用鞋履",
+      "id": "regional-d33d2ef22d482c",
+      "description": "枝江手工布鞋：湖北省级名录列明枝江民间手工布鞋，以日用品与制作传统记录。",
+      "detail": "湖北省级名录列明枝江民间手工布鞋，以日用品与制作传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝南区",
+      "name": "孝感锡器",
+      "type": "crafts",
+      "kind": "金属日用工艺",
+      "id": "regional-ea5eb5d75f1db2",
+      "description": "孝感锡器：湖北省级名录列明锡雕及锡器制作，以孝南区保存地方工艺关联。",
+      "detail": "湖北省级名录列明锡雕及锡器制作，以孝南区保存地方工艺关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hubei"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "福州",
+      "locality": "福州市相关传承地区",
+      "name": "寿山石雕",
+      "type": "crafts",
+      "kind": "石雕工艺",
+      "id": "regional-e1ee3d1d860a38",
+      "description": "国家名录中的寿山石雕，以福州地方雕刻传统记录，作品材质仍逐件核对。",
+      "detail": "国家名录中的寿山石雕，以福州地方雕刻传统记录，作品材质仍逐件核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "福州",
+      "locality": "福州市相关传承地区",
+      "name": "福州脱胎漆器",
+      "type": "crafts",
+      "kind": "漆器工艺",
+      "id": "regional-2e1e48e581746c",
+      "description": "福州脱胎漆器：国家名录中的脱胎漆器髹饰技艺，记录地方器物和制作传统。",
+      "detail": "国家名录中的脱胎漆器髹饰技艺，记录地方器物和制作传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "厦门",
+      "locality": "厦门市相关传承地区",
+      "name": "厦门漆线雕",
+      "type": "crafts",
+      "kind": "漆饰工艺",
+      "id": "regional-2474c5ca489480",
+      "description": "厦门漆线雕：国家名录中的漆线雕技艺，以厦门市域保存地方制作关联。",
+      "detail": "国家名录中的漆线雕技艺，以厦门市域保存地方制作关联。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "德化县",
+      "name": "德化瓷",
+      "type": "crafts",
+      "kind": "陶瓷工艺",
+      "id": "regional-dea3f9e2ecd716",
+      "description": "德化瓷：国家名录中的德化瓷烧制技艺，以德化县域记录地方瓷器传统。",
+      "detail": "国家名录中的德化瓷烧制技艺，以德化县域记录地方瓷器传统。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "惠安县",
+      "name": "惠安石雕",
+      "type": "crafts",
+      "kind": "石雕工艺",
+      "id": "regional-677437738d8ba7",
+      "description": "惠安石雕：国家名录中的惠安石雕，以雕刻加工地记录，石材原产地另作区分。",
+      "detail": "国家名录中的惠安石雕，以雕刻加工地记录，石材原产地另作区分。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "泉州市相关传承地区",
+      "name": "泉州花灯",
+      "type": "crafts",
+      "kind": "灯彩工艺",
+      "id": "regional-facee3cf013d74",
+      "description": "泉州花灯：国家名录灯彩项目中的泉州地方形式，作为节俗物品而非食品记录。",
+      "detail": "国家名录灯彩项目中的泉州地方形式，作为节俗物品而非食品记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "漳州",
+      "locality": "漳州市相关传承地区",
+      "name": "漳州木版年画",
+      "type": "crafts",
+      "kind": "木版年画",
+      "id": "regional-f575fcf9630259",
+      "description": "漳州木版年画：国家名录中的地方年画，以版印图像和节俗物品记录漳州风物。",
+      "detail": "国家名录中的地方年画，以版印图像和节俗物品记录漳州风物。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "fujian",
+      "city": "漳州",
+      "locality": "漳州市相关传承地区",
+      "name": "漳州木偶头",
+      "type": "crafts",
+      "kind": "木雕工艺",
+      "id": "regional-b1cad359f43c6b",
+      "description": "漳州木偶头：国家名录中的木偶头雕刻，以戏偶部件和地方雕刻传统记录。",
+      "detail": "国家名录中的木偶头雕刻，以戏偶部件和地方雕刻传统记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "岫岩满族自治县",
+      "name": "岫岩玉雕",
+      "type": "crafts",
+      "kind": "玉石雕刻",
+      "id": "regional-41138fc49c57ef",
+      "description": "国家名录中的岫岩玉雕，以地方雕刻加工传统记录，玉料来源仍需逐件核对。",
+      "detail": "国家名录中的岫岩玉雕，以地方雕刻加工传统记录，玉料来源仍需逐件核对。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "阜新市相关传承地区",
+      "name": "阜新玛瑙雕",
+      "type": "crafts",
+      "kind": "玛瑙雕刻",
+      "id": "regional-ff8b370efe37c3",
+      "description": "阜新玛瑙雕：国家名录列明的地方玛瑙雕刻，不采用材料自带保值增值的宣传。",
+      "detail": "国家名录列明的地方玛瑙雕刻，不采用材料自带保值增值的宣传。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "医巫闾山相关传承地区",
+      "name": "医巫闾山满族剪纸",
+      "type": "crafts",
+      "kind": "纸艺",
+      "id": "regional-22994514688e63",
+      "description": "国家名录剪纸项目中的满族地方形式，以锦州及医巫闾山保存检索线索。",
+      "detail": "国家名录剪纸项目中的满族地方形式，以锦州及医巫闾山保存检索线索。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-national"
+      ]
+    },
+    {
+      "province": "jilin",
+      "city": "白山",
+      "locality": "江源区等",
+      "name": "长白山松花石砚",
+      "type": "crafts",
+      "kind": "文房砚台",
+      "id": "regional-8101e12ff3f686",
+      "description": "吉林地方报道介绍白山江源等地松花石与砚台雕刻，器形也有随形等差别。",
+      "detail": "吉林地方报道介绍白山江源等地松花石与砚台雕刻，器形也有随形等差别。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-jl"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "name": "赫哲族鱼皮画",
+      "type": "crafts",
+      "kind": "鱼皮工艺",
+      "id": "regional-530707f3d9b06b",
+      "description": "赫哲族鱼皮画：同江地方报道介绍利用鱼皮裁剪、镂空、拼接与粘贴制作的图画。",
+      "detail": "同江地方报道介绍利用鱼皮裁剪、镂空、拼接与粘贴制作的图画。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hlj"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "name": "赫哲族鱼皮服饰",
+      "type": "crafts",
+      "kind": "传统服饰工艺",
+      "id": "regional-b11db0346d9bac",
+      "description": "报道介绍鱼皮衣等传统服饰及其当代传承，与鱼皮画按用途分开记录。",
+      "detail": "报道介绍鱼皮衣等传统服饰及其当代传承，与鱼皮画按用途分开记录。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hlj"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "name": "同江桦树皮画",
+      "type": "crafts",
+      "kind": "树皮工艺",
+      "id": "regional-a6c78a80a45da6",
+      "description": "同江报道列明的文创物品，利用树皮材料制作画作，具体作品工艺另核。",
+      "detail": "同江报道列明的文创物品，利用树皮材料制作画作，具体作品工艺另核。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hlj"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "name": "同江麦秸画",
+      "type": "crafts",
+      "kind": "植物材料工艺",
+      "id": "regional-f214c4fb049db6",
+      "description": "同江麦秸画：报道列明的同江文创产品，以麦秸材料相关画作记录地方物品。",
+      "detail": "报道列明的同江文创产品，以麦秸材料相关画作记录地方物品。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hlj"
+      ]
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "name": "同江玉米叶画",
+      "type": "crafts",
+      "kind": "植物材料工艺",
+      "id": "regional-bca6ad70d3d4de",
+      "description": "同江玉米叶画：同江报道列明的文创物品，以玉米叶材料相关画作记录地方手工艺。",
+      "detail": "同江报道列明的文创物品，以玉米叶材料相关画作记录地方手工艺。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-craft-hlj"
+      ]
+    },
+    {
+      "province": "jiangsu",
+      "city": "无锡",
+      "locality": "江阴市华士镇华西村",
+      "name": "华士冰油",
+      "type": "seasoning",
+      "kind": "传统酿造酱油",
+      "id": "regional-0556a899e76d7d",
+      "description": "江阴华士地方酱油，报道介绍以大缸日晒酿造，晒制时表面盐晶似冰，因而称为冰油。",
+      "detail": "江阴华士地方酱油，报道介绍以大缸日晒酿造，晒制时表面盐晶似冰，因而称为冰油。本条依据所列资料核对名称、产品类别与地域关联；具体厂商、配方、售价及当前供应未作逐一确认。",
+      "originNote": "核对范围：名称、类别与地域关联。名录中的申报单位、品牌登记不等于所有商家均获许可；风味、规格和现售情况以具体产品进一步核对。",
+      "verificationScope": "name-category-locality",
+      "verificationStatus": "sourced",
+      "sources": [
+        "regional-20261114-wuxi-ice"
+      ]
+    },
+    {
+      "id": "lead-web-baoying-lotus",
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "宝应县",
+      "name": "宝应荷藕",
+      "type": "ingredients",
+      "kind": "待核实地方荷藕线索",
+      "description": "待核实线索：检索发现宝应荷藕的地方产业报道，原文请求返回403，尚未完成正文核对。",
+      "detail": "网络检索发现2026年地方报道，涉及宝应荷藕及地方农业品牌。由于正文请求返回HTTP 403，本条只保存名称与宝应县的检索关联；品种、风味、荣誉和当前产销情况仍待原文核实。",
+      "verificationStatus": "pending",
+      "verificationNote": "网络检索线索；报道正文返回HTTP 403，名称、地域及产品细节待进一步核对。",
+      "leadOrigin": "web-search",
+      "candidateSources": [
+        {
+          "name": "宝应荷藕报道（检索发现，原文未读）",
+          "url": "https://www.zgjssw.gov.cn/shixianchuanzhen/yangzhou/202601/t20260110_8551270.shtml"
+        }
+      ],
+      "sources": []
     }
   ],
   "targetItems": 2000

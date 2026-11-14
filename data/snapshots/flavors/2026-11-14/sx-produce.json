@@ -1,0 +1,121 @@
+{
+  "sourceId": "regional-20261114-sx-produce",
+  "sourceUrl": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202508/1992795.html",
+  "responseBytesSha256": "657bc8d0fc03a0fd4c5747c02a314d7bbe156c373c7bcfe6ef274213de5c9e15",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "古县核桃",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "古县",
+      "note": "古县核桃：临汾地理标志转化认定报道点名的核桃，保留古县这一县域产地。"
+    },
+    {
+      "name": "吉县苹果",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "吉县",
+      "note": "吉县苹果：临汾报道列明的地理标志苹果产品，地方果业归属可与吉县对应。"
+    },
+    {
+      "name": "大宁西瓜",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "大宁县",
+      "note": "大宁西瓜：临汾地方瓜果产品，报道列入当地农产品地理标志转化认定名单。"
+    },
+    {
+      "name": "大宁红皮小米",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "大宁县",
+      "note": "大宁红皮小米：临汾报道列明的地方小米，名称中的红皮不直接推定熟饭颜色。"
+    },
+    {
+      "name": "永和条枣",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "永和县",
+      "note": "永和条枣：以永和命名的枣产品，报道确认其纳入临汾地方农产品认定名单。"
+    },
+    {
+      "name": "蒲县马铃薯",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "蒲县",
+      "note": "蒲县马铃薯：报道列明的蒲县马铃薯，以地方食材记录，不预设固定的烹调方法。"
+    },
+    {
+      "name": "蒲县核桃",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "蒲县",
+      "note": "蒲县核桃：与蒲县相连的地方核桃，报道列入此次临汾农产品认定名单。"
+    },
+    {
+      "name": "霍州苹果",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "霍州市",
+      "note": "霍州苹果是山西临汾霍州市的地方鲜果，报道将其列入地理标志转化认定名单。"
+    },
+    {
+      "name": "洪洞莲藕",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "洪洞县",
+      "note": "洪洞莲藕：临汾认定名单中的莲藕产品，县域定位为洪洞，与成菜分开收录。"
+    },
+    {
+      "name": "古县小米",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "古县",
+      "note": "古县小米：临汾报道列明的地方谷物产品，记录小米而不替代具体种植品种。"
+    },
+    {
+      "name": "霍州核桃",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "霍州市",
+      "note": "地方农产品认定报道点名的霍州核桃，与霍州苹果分别作为食材记录。"
+    },
+    {
+      "name": "汾西梨",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "汾西县",
+      "note": "汾西梨：临汾认定名单列明的梨产品，与同市其他县的梨品种分开定位。"
+    },
+    {
+      "name": "翼城苹果",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "翼城县",
+      "note": "临汾认定名单中的地方苹果，产地定位为翼城县，品牌企业另行核对。"
+    },
+    {
+      "name": "安泽蜂蜜",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "安泽县",
+      "note": "安泽蜂蜜：临汾报道确认的县域蜂蜜产品，未据此推定所有蜂蜜都属同一蜜源。"
+    },
+    {
+      "name": "曲沃葡萄",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "曲沃县",
+      "note": "认定报道列明的曲沃葡萄，以地方鲜果记录，未把它直接当作葡萄酒。"
+    },
+    {
+      "name": "浮山苹果",
+      "province": "shanxi",
+      "city": "临汾",
+      "locality": "浮山县",
+      "note": "报道列明的地方苹果，保留浮山县产地，栽培品种和上市期尚未细分。"
+    }
+  ]
+}

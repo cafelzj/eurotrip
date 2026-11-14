@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-ah-pomegranate",
+  "sourceUrl": "https://www.ahhy.gov.cn/xwzx/bmdt/81384389.html",
+  "responseBytesSha256": "6ea2d2177bdc2507b7ba0cf4113f65da0943fa1271217fb8778e6ae5c7473ff4",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "怀远石榴",
+      "province": "anhui",
+      "city": "蚌埠",
+      "locality": "怀远县",
+      "note": "怀远石榴：县政府报道确认的石榴产业和地理标志产品，保存怀远县域产地。"
+    }
+  ]
+}

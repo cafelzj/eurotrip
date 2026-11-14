@@ -1,0 +1,51 @@
+{
+  "sourceId": "regional-20261114-fj-dried",
+  "sourceUrl": "https://ly.fjdsfzw.org.cn/2020-07-17/content_94460.html",
+  "responseBytesSha256": "e999bbf8ef198c90e5565091bad59b4742bd302995828848b3b5ea73e881cffd",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "长汀豆腐干",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "长汀县",
+      "note": "客家豆制品，地方志介绍以酸浆凝结豆腐，再经滤压制作的地方方法。"
+    },
+    {
+      "name": "连城红心地瓜干",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "连城县",
+      "note": "连城红心地瓜干：以红心甘薯加工的地方特产，现有蜜饯、香酥等不同产品形态。"
+    },
+    {
+      "name": "上杭萝卜干",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "上杭县",
+      "note": "闽西八大干之一，以萝卜加工的地方食品，特点是香脆，产地为上杭。"
+    },
+    {
+      "name": "清流笋干",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "清流县",
+      "note": "清流笋干：以春笋尖制作的地方干笋，地方志将其列入汀州八大干介绍。"
+    },
+    {
+      "name": "武平猪胆肝",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "武平县",
+      "note": "武平猪胆肝：又称武平猪胆干，地方志列举猪肝、猪胆、酒及香辛料等加工原料。"
+    },
+    {
+      "name": "明溪肉脯干",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "明溪县",
+      "note": "以猪后腿精肉加工，地方志描述其口感韧、咸中略甜，属于八大干之一。"
+    }
+  ]
+}

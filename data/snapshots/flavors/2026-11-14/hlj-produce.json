@@ -1,0 +1,100 @@
+{
+  "sourceId": "regional-20261114-hlj-produce",
+  "sourceUrl": "https://www.ycym.gov.cn/ymqrmzf/c101939/202409/371672.shtml",
+  "responseBytesSha256": "bb78568690ef9feb09c756406f797eca093fd2b10de46e39b70c09555f2d9842",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "呼兰鸡蛋",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "呼兰区",
+      "note": "呼兰鸡蛋：全国名特优新农产品报道列明的鸡蛋，以呼兰区保存地方生产关联。"
+    },
+    {
+      "name": "方正富硒大米",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "方正县",
+      "note": "名特优新农产品报道中的大米，富硒为产品名保留，不扩展健康功效。"
+    },
+    {
+      "name": "甘南粥米",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "甘南县",
+      "note": "甘南粥米：报道注明为大米，本条的甘南指黑龙江甘南县，与甘肃甘南州区分。"
+    },
+    {
+      "name": "宁安石板大米",
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "宁安市",
+      "note": "宁安石板大米：名特优新报道列明的稻米产品，记录宁安产区，不虚构具体种植村。"
+    },
+    {
+      "name": "宁安椴树蜜",
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "宁安市",
+      "note": "宁安椴树蜜：报道列明的椴树蜜，以蜜源产品名及宁安地方生产关联收录。"
+    },
+    {
+      "name": "穆棱大豆",
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "locality": "穆棱市",
+      "note": "穆棱大豆：名特优新农产品报道列明的地方大豆，穆棱为牡丹江代管县级市。"
+    },
+    {
+      "name": "抚远蔓越莓",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "抚远市",
+      "note": "抚远蔓越莓：报道列明的抚远蔓越莓，作为当地种植鲜果记录，不等同进口果干。"
+    },
+    {
+      "name": "虎林椴树蜜",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "虎林市",
+      "note": "虎林椴树蜜：名特优新报道列明的地方椴树蜜，按虎林县级市记录产地。"
+    },
+    {
+      "name": "伊春蓝莓",
+      "province": "heilongjiang",
+      "city": "伊春",
+      "locality": "伊春市相关产区",
+      "note": "伊春蓝莓：地方政府报道列明的伊春蓝莓，按市域收录，不混同大兴安岭产区。"
+    },
+    {
+      "name": "伊春黑木耳",
+      "province": "heilongjiang",
+      "city": "伊春",
+      "locality": "伊春市相关产区",
+      "note": "伊春黑木耳：名特优新报道列明的地方食用菌，以伊春市域记录，具体县区另核。"
+    },
+    {
+      "name": "海伦大豆",
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "海伦市",
+      "note": "海伦大豆：名特优新农产品报道列明的海伦大豆，以县级市保存地理定位。"
+    },
+    {
+      "name": "海伦大米",
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "海伦市",
+      "note": "海伦大米：地方政府报道列明的海伦稻米，与同市大豆作为不同食材分别记录。"
+    },
+    {
+      "name": "庆安大米",
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "庆安县",
+      "note": "庆安大米：名特优新报道列明的稻米产品，与已收录的庆安大米酒分别分类。"
+    }
+  ]
+}

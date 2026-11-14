@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-ln-tomato",
+  "sourceUrl": "https://nyncj.panjin.gov.cn/2024_07/01_08/content-477529.html",
+  "responseBytesSha256": "fff91a9b268aea32eaf76fbe73b48ae564f0ee19d6a6a4c9f3422eb6c382b2ae",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "盘锦碱地柿子",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关产区",
+      "note": "盘锦碱地生长的地方番茄，果肉丰实，红绿相间，地方名称中的柿子并非树上柿果。"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-bj-rabbit",
+  "sourceUrl": "https://www.beijing.gov.cn/renwen/bjgk/cygk/cyfy/202307/t20230712_3161042.html",
+  "responseBytesSha256": "aa4d3ce97f309c87e921a996f531535162364fd452e163b73b1b42db30aa9177",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "北京兔儿爷",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "朝阳区",
+      "note": "具有北京中秋节俗特色的泥塑形象，来源介绍其泥塑、彩绘和民俗关联。"
+    }
+  ]
+}

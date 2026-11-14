@@ -1,0 +1,205 @@
+{
+  "sourceId": "regional-20261114-hn-produce",
+  "sourceUrl": "https://hunan.gov.cn/topic/2020hnjksc/jkscwzewm/202412/t20241223_33533711.html",
+  "responseBytesSha256": "739d0e5bbed24dc32e6ca54a84254248128194cfea8551ad15972b4d8f66f5e6",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "宁乡花猪",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "宁乡市",
+      "note": "宁乡花猪：湖南地理标志名录列明的地方猪产品，保留宁乡县级市的产地信息。"
+    },
+    {
+      "name": "浏阳茶油",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "note": "浏阳茶油：湖南地理标志名录中的地方茶油，植物油与冲泡茶分别分类。"
+    },
+    {
+      "name": "常宁无渣生姜",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "常宁市",
+      "note": "常宁无渣生姜：湖南名录列明的生姜产品，名称中的无渣作为产品名保留。"
+    },
+    {
+      "name": "祁东槟榔芋",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "note": "祁东槟榔芋：湖南名录列明的地方芋类，名称不表示其中含有槟榔成分。"
+    },
+    {
+      "name": "祁东黄花菜",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "note": "祁东黄花菜：湖南地理标志名录列明的黄花菜产品，作为地方食材单独记录。"
+    },
+    {
+      "name": "茶陵大蒜",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "note": "茶陵大蒜：湖南名录列明的地方大蒜，保存茶陵县级产地，供日后逐县筛选。"
+    },
+    {
+      "name": "炎陵黄桃",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "炎陵县",
+      "note": "炎陵黄桃是湖南株洲炎陵县的地方鲜果，省级地理标志名录列明该产品名称。"
+    },
+    {
+      "name": "隆回龙牙百合",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县",
+      "note": "隆回龙牙百合：湖南名录列明的地方百合，作为农产品记录，不采用药用功效宣传。"
+    },
+    {
+      "name": "新宁脐橙",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "新宁县",
+      "note": "新宁脐橙：湖南名录列明的新宁脐橙，与其他柑橘品牌和品种分开定位。"
+    },
+    {
+      "name": "华容芥菜",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "华容县",
+      "note": "湖南地理标志名录列明的芥菜产品，和腌制成品、具体企业分开理解。"
+    },
+    {
+      "name": "临湘浮标",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市",
+      "note": "临湘浮标：湖南名录列明的地方浮标产品，作为非食品用品纳入风物目录。"
+    },
+    {
+      "name": "石门柑橘",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "note": "石门柑橘：湖南名录列明的县域柑橘产品，实际品种仍需随具体包装核对。"
+    },
+    {
+      "name": "汉寿甲鱼",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "汉寿县",
+      "note": "汉寿甲鱼：湖南地理标志名录列明的地方甲鱼产品，以食材收录而非固定菜式。"
+    },
+    {
+      "name": "桑植蜂蜜",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "note": "桑植蜂蜜：湖南名录列明的县域蜂蜜，未把地方名称直接等同单一花源。"
+    },
+    {
+      "name": "桑植魔芋",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "note": "桑植魔芋：湖南名录列明的魔芋农产品，和加工后的魔芋食品分开记录。"
+    },
+    {
+      "name": "沅江芦笋",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "沅江市",
+      "note": "沅江芦笋：湖南名录列明的地方芦笋产品，保留沅江市这一县级市定位。"
+    },
+    {
+      "name": "桃江竹笋",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "桃江县",
+      "note": "湖南地理标志名录列明的笋类食材，具体竹种和采收期未作统一推定。"
+    },
+    {
+      "name": "永兴冰糖橙",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "永兴县",
+      "note": "湖南名录列明的地方橙类产品，冰糖橙是品种相关名称而非加糖食品。"
+    },
+    {
+      "name": "江永香柚",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "note": "江永香柚：湖南地理标志名录列明的江永地方柚，保存县域信息便于继续查证。"
+    },
+    {
+      "name": "江永香芋",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "note": "江永香芋：湖南名录列明的地方芋类，与江永香柚、香姜分开作为食材记录。"
+    },
+    {
+      "name": "江永香姜",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县",
+      "note": "江永香姜：湖南名录列明的江永地方姜产品，不直接推定鲜姜与干姜规格。"
+    },
+    {
+      "name": "靖州杨梅",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "靖州苗族侗族自治县",
+      "note": "靖州杨梅：湖南名录列明的地方杨梅，与其他产区杨梅按县域分别记录。"
+    },
+    {
+      "name": "黔阳冰糖橙",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "洪江市",
+      "note": "黔阳冰糖橙：湖南名录列明的橙类产品，以现行洪江市定位，区别于洪江区。"
+    },
+    {
+      "name": "会同魔芋",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "会同县",
+      "note": "会同魔芋：湖南地理标志产品名录列明的魔芋，以农产原料归类而不编造菜式。"
+    },
+    {
+      "name": "涟源金秋梨",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "涟源市",
+      "note": "涟源金秋梨：湖南名录列明的梨产品，保留涟源县级市产地，具体上市期未核。"
+    },
+    {
+      "name": "新化红心李",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "note": "湖南名录列明的新化李产品，产品名保留红心特征，品种谱系待细化。"
+    },
+    {
+      "name": "泸溪椪柑",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "note": "湖南地理标志名录列明的地方柑橘，记录椪柑而不混同其他柑橘产品。"
+    },
+    {
+      "name": "龙山百合",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "龙山县",
+      "note": "龙山百合：湖南名录列明的地方百合，同一产品不同商标类别合并为一张卡片。"
+    }
+  ]
+}

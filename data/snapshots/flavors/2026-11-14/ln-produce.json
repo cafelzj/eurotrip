@@ -1,0 +1,408 @@
+{
+  "sourceId": "regional-20261114-ln-produce",
+  "sourceUrl": "https://nync.ln.gov.cn/nync/index/rdzt/lnyppwlx/ppml/2026020611263275151/index.shtml",
+  "responseBytesSha256": "8184839d443cf67449c2637514fbec8babe7514d74d509e6cc62a20a8684f800",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "东港大黄蚬",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "note": "东港大黄蚬来自丹东东港近海贝类资源，蚬肉鲜味明显，常以蒸煮等方式熟食，也可制成加工海鲜食品。"
+    },
+    {
+      "name": "盘锦河蟹",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关产区",
+      "note": "盘锦河蟹关联当地稻田与湿地养殖，成蟹可清蒸等熟食，蟹肉、蟹黄或蟹膏呈现不同口感，是地方具名水产。"
+    },
+    {
+      "name": "康平甘薯",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "note": "康平甘薯：省级区域公用品牌名单列有康平甘薯，并以红地瓜注明其地方称呼。"
+    },
+    {
+      "name": "康平花生",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "note": "康平花生：辽宁区域公用品牌名单列明的花生，县域产地定位为康平县。"
+    },
+    {
+      "name": "沈北清水大米",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈北新区",
+      "note": "沈北清水大米：省级品牌名单中的沈北大米产品，记录稻米而不代替某企业商标。"
+    },
+    {
+      "name": "瓦房店闫店地瓜",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市",
+      "note": "瓦房店闫店地瓜：省级品牌名单点名的地方地瓜，保留瓦房店和闫店这一地名线索。"
+    },
+    {
+      "name": "新宾大米",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "新宾满族自治县",
+      "note": "新宾大米：省级区域公用品牌名录列明的新宾稻米，和当地蜂蜜分开归类。"
+    },
+    {
+      "name": "桓仁大米",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "note": "桓仁大米：辽宁品牌名录列明的桓仁稻米，保留县级产地而不编造具体品种。"
+    },
+    {
+      "name": "东港大米",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "note": "东港大米：辽宁品牌名单中的县域稻米产品，东港为丹东代管的县级市。"
+    },
+    {
+      "name": "义县花生",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "义县",
+      "note": "义县花生：省级区域公用品牌名单列明的花生，以义县这一县域保存定位。"
+    },
+    {
+      "name": "营口大米",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "营口市相关产区",
+      "note": "营口大米：省级名单将此稻米品牌归于营口，本条不擅自缩小到某个乡镇。"
+    },
+    {
+      "name": "彰武黑豆",
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "note": "彰武黑豆：辽宁区域公用品牌名单中的地方黑豆，与同县花生、甘薯分列。"
+    },
+    {
+      "name": "彰武花生",
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "note": "彰武花生：省级名单列明的彰武花生，按县域记录，不直接推定加工工艺。"
+    },
+    {
+      "name": "彰武地瓜",
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "note": "彰武地瓜是辽宁阜新彰武县的地方薯类，省级区域公用品牌名录列明该产品。"
+    },
+    {
+      "name": "灯塔大米",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市",
+      "note": "灯塔大米：辽宁区域公用品牌名单列明的地方稻米，灯塔归属辽阳市。"
+    },
+    {
+      "name": "建平小米",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "建平县",
+      "note": "建平小米：辽宁区域公用品牌名单中的地方小米，县域定位为建平县。"
+    },
+    {
+      "name": "建平荞麦",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "建平县",
+      "note": "建平荞麦：省级品牌名录列明的荞麦产品，和成品荞麦面、糕饼分开记录。"
+    },
+    {
+      "name": "盘锦大米",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关产区",
+      "note": "省级区域公用品牌名单列明的盘锦稻米，未将产区品牌等同某家企业。"
+    },
+    {
+      "name": "红崖子花生",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市红崖子镇",
+      "note": "红崖子花生：辽宁品牌名录列明的红崖子花生，保留兴城红崖子地名供县镇检索。"
+    },
+    {
+      "name": "大连大樱桃",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "note": "大连大樱桃：辽宁名单中的大连区域樱桃品牌，本条与旅顺子产区不重复拆卡。"
+    },
+    {
+      "name": "大连苹果",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "note": "大连苹果：辽宁区域公用品牌名单列明的苹果，具体品种和下属产区尚未细分。"
+    },
+    {
+      "name": "大连油桃",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "note": "辽宁区域公用品牌名单列明的油桃，与普通桃和樱桃按食材分开记录。"
+    },
+    {
+      "name": "庄河蓝莓",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "note": "庄河蓝莓：省级区域公用品牌名单中的蓝莓，县级市庄河归属大连市。"
+    },
+    {
+      "name": "庄河草莓",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "note": "庄河草莓：辽宁品牌名录列明的庄河草莓，与同市蓝莓产品分开记录。"
+    },
+    {
+      "name": "瓦房店小国光苹果",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市",
+      "note": "瓦房店小国光苹果：省级名录中的地方苹果，保留小国光这一产品名称以便品种检索。"
+    },
+    {
+      "name": "鞍山南果梨",
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "鞍山市相关产区",
+      "note": "鞍山南果梨：辽宁区域公用品牌名单列明的南果梨，以鞍山市级范围记录。"
+    },
+    {
+      "name": "岫岩滑子蘑",
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "岫岩满族自治县",
+      "note": "岫岩滑子蘑：省级品牌名单列明的地方食用菌，保留岫岩这一县域产地。"
+    },
+    {
+      "name": "岫岩软枣猕猴桃",
+      "province": "liaoning",
+      "city": "鞍山",
+      "locality": "岫岩满族自治县",
+      "note": "岫岩软枣猕猴桃：辽宁品牌名录列明的软枣猕猴桃，与名称相近的普通枣区分。"
+    },
+    {
+      "name": "抚顺单片黑木耳",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "抚顺市相关产区",
+      "note": "抚顺单片黑木耳：辽宁区域公用品牌名单中的黑木耳产品，以单片这一产品名保留。"
+    },
+    {
+      "name": "东港草莓",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "note": "东港草莓是辽宁丹东东港市的地方鲜果，省级区域公用品牌名录确认该地区关联。"
+    },
+    {
+      "name": "凤城蓝莓",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "note": "凤城蓝莓：辽宁区域公用品牌名单列明的蓝莓，与东港草莓分开定位。"
+    },
+    {
+      "name": "北镇葡萄",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "北镇市",
+      "note": "北镇葡萄：辽宁品牌名录列明的葡萄，以北镇县级市为地方食材定位。"
+    },
+    {
+      "name": "盖州苹果",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "note": "盖州苹果：辽宁区域公用品牌名单中的苹果产品，县域定位为盖州市。"
+    },
+    {
+      "name": "盖州葡萄",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "note": "盖州葡萄：省级名单列明的地方葡萄，保留盖州产地而不等同葡萄酒产品。"
+    },
+    {
+      "name": "盖州生姜",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "note": "盖州生姜：辽宁区域公用品牌名单列明的生姜，作为鲜食加工原料记录。"
+    },
+    {
+      "name": "盖州桃",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "盖州市",
+      "note": "盖州桃：省级名单中的地方桃产品，与同县苹果、葡萄分开作为食材收录。"
+    },
+    {
+      "name": "大石桥大红袍李子",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "大石桥市",
+      "note": "大石桥大红袍李子：辽宁品牌名录列明的李子，大红袍为本条产品名称的一部分。"
+    },
+    {
+      "name": "灯塔葡萄",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市",
+      "note": "灯塔葡萄：辽宁区域公用品牌名单中的葡萄，保存灯塔县级市的定位。"
+    },
+    {
+      "name": "北票番茄",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "北票市",
+      "note": "北票番茄：省级品牌名单列明的地方番茄，不把区域品牌视为统一栽培品种。"
+    },
+    {
+      "name": "凌源黄瓜",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "note": "凌源黄瓜：辽宁区域公用品牌名单中的黄瓜，归属凌源所在的朝阳市。"
+    },
+    {
+      "name": "凌源香菇",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "note": "凌源香菇：省级名录列明的县域香菇，保留凌源产地便于继续逐县补充。"
+    },
+    {
+      "name": "绥中白梨",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "绥中县",
+      "note": "绥中白梨：辽宁区域公用品牌名录列明的白梨，保留绥中县域的地方关联。"
+    },
+    {
+      "name": "黑山褐壳鸡蛋",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "黑山县",
+      "note": "黑山褐壳鸡蛋：辽宁名录列明的褐壳鸡蛋，记录产品名而不据壳色推定营养差别。"
+    },
+    {
+      "name": "昌图黑猪",
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "昌图县",
+      "note": "昌图黑猪：辽宁名单中的地方猪产品，以昌图县定位，具体肉制品另行记录。"
+    },
+    {
+      "name": "大连裙带菜",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关产区",
+      "note": "大连裙带菜：辽宁区域公用品牌名单中的海藻产品，与陆地蔬菜和成菜分开收录。"
+    },
+    {
+      "name": "东港杂色蛤",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "note": "东港杂色蛤：辽宁区域公用品牌名单列明的蛤类产品，以东港县域定位。"
+    },
+    {
+      "name": "东港梭子蟹",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "note": "东港梭子蟹：辽宁名单中的地方海蟹产品，以食材记录，不编造成菜名称。"
+    },
+    {
+      "name": "营口海蜇",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "营口市相关产区",
+      "note": "营口海蜇：省级品牌名单列明的海蜇，保留营口市级关联，不预设加工盐度。"
+    },
+    {
+      "name": "兴城多宝鱼",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市",
+      "note": "兴城多宝鱼：辽宁区域公用品牌名单列明的养殖水产，县域定位为兴城市。"
+    },
+    {
+      "name": "新宾蜂蜜",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "新宾满族自治县",
+      "note": "新宾蜂蜜：省级区域公用品牌名单列明的蜂蜜，不由地名推定统一的蜜源植物。"
+    },
+    {
+      "name": "桓仁蜂蜜",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "note": "桓仁蜂蜜：辽宁品牌名单中的县域蜂蜜，和当地稻米、酒类分开记录。"
+    },
+    {
+      "name": "桓仁大榛子",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "note": "桓仁大榛子：辽宁区域公用品牌名单列明的榛子，以桓仁县域保存产地信息。"
+    },
+    {
+      "name": "凤城板栗",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "note": "凤城板栗：辽宁区域公用品牌名单中的板栗，保留凤城地方食材关联。"
+    },
+    {
+      "name": "凤城蚕蛹",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "note": "凤城蚕蛹：辽宁名单列明的凤城蚕蛹，具体蚕种与加工方式仍需按产品核对。"
+    },
+    {
+      "name": "北票荆条蜜",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "北票市",
+      "note": "北票荆条蜜：省级品牌名单点名的荆条蜜，蜜源信息来自产品名称而非地名推断。"
+    },
+    {
+      "name": "辽阳大果榛子",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "辽阳市相关产区",
+      "note": "辽阳大果榛子：辽宁区域公用品牌名单中的榛子，保持市域关联而不虚构具体村镇。"
+    },
+    {
+      "name": "铁岭榛子",
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "铁岭市相关产区",
+      "note": "铁岭榛子：辽宁省区域公用品牌名单列明的榛子，以铁岭市级范围收录。"
+    }
+  ]
+}

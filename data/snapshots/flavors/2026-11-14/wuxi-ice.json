@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-wuxi-ice",
+  "sourceUrl": "https://www.yangtse.com/news/jiangsu/wuxi/202506/t20250619_223887.html",
+  "responseBytesSha256": "9c20a6eed4dffad28f3860f24de1df853f5626af255a3f624df38b7b06951135",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "华士冰油",
+      "province": "jiangsu",
+      "city": "无锡",
+      "locality": "江阴市华士镇华西村",
+      "note": "江阴华士地方酱油，报道介绍以大缸日晒酿造，晒制时表面盐晶似冰，因而称为冰油。"
+    }
+  ]
+}

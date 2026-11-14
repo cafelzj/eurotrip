@@ -1,0 +1,65 @@
+{
+  "sourceId": "regional-20261114-sd-produce",
+  "sourceUrl": "https://sd.people.com.cn/n2/2021/0616/c166192-34778337.html",
+  "responseBytesSha256": "f8134698a1cad97f94941cc32d2e0f7a7f39fb2ca97ac5e36d70d107dc8aa518",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "章丘大葱",
+      "province": "shandong",
+      "city": "济南",
+      "locality": "章丘区",
+      "note": "山东农业优势特色产业方案点名的地方蔬菜，按章丘现行区划归属济南。"
+    },
+    {
+      "name": "金乡大蒜",
+      "province": "shandong",
+      "city": "济宁",
+      "locality": "金乡县",
+      "note": "金乡大蒜：省级特色产业方案列明的大蒜产区，记录鲜蒜而不混同深加工品牌。"
+    },
+    {
+      "name": "沾化冬枣",
+      "province": "shandong",
+      "city": "滨州",
+      "locality": "沾化区",
+      "note": "沾化冬枣：山东特色果业中的冬枣产区，以现行沾化区名称记录县域定位。"
+    },
+    {
+      "name": "栖霞苹果",
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "栖霞市",
+      "note": "栖霞苹果：省级特色农业方案列明的苹果产区，县级市栖霞隶属烟台市。"
+    },
+    {
+      "name": "莱阳黄梨",
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "莱阳市",
+      "note": "莱阳黄梨：山东特色产业方案列明的地方梨，保留莱阳县级市的具体定位。"
+    },
+    {
+      "name": "寿光蔬菜",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "寿光市",
+      "note": "寿光蔬菜：来源以蔬菜产业整体记录寿光，本条不把产业名当作某一个新品种。"
+    },
+    {
+      "name": "青州银瓜",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "青州市",
+      "note": "青州银瓜：山东特色产业方案点名的瓜果产品，归入青州所在的潍坊市。"
+    },
+    {
+      "name": "乐陵小枣",
+      "province": "shandong",
+      "city": "德州",
+      "locality": "乐陵市",
+      "note": "乐陵小枣：省级方案列明的地方枣产品，与乐陵地方栽培和加工产业相连。"
+    }
+  ]
+}

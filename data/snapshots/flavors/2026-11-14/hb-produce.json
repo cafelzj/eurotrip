@@ -1,0 +1,72 @@
+{
+  "sourceId": "regional-20261114-hb-produce",
+  "sourceUrl": "https://scjg.sjz.gov.cn/columns/4915bd5e-5287-458d-a4a3-6f354c26371b/202603/04/08e59335-baed-4662-98b0-8b44daae9650.html",
+  "responseBytesSha256": "80c1c46a6b4268c24c02757d266dfb2d1b0755c06bd1377a793ae926cdd781f2",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "赞皇大枣",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赞皇县",
+      "note": "赞皇大枣：市级地理标志产品信息表列明的枣产品，申请地区为赞皇县。"
+    },
+    {
+      "name": "晋州鸭梨",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "晋州市",
+      "note": "晋州鸭梨：市级地理标志产品表列明的鸭梨，县级市晋州归属石家庄。"
+    },
+    {
+      "name": "新乐西瓜",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "note": "新乐西瓜：石家庄地方瓜果产品，名录列明新乐市作为对应申请地区。"
+    },
+    {
+      "name": "赵县雪花梨",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赵县",
+      "note": "赵县雪花梨：市级名录同时列有赵州雪花梨这一名称，作为同一产品合并收录。"
+    },
+    {
+      "name": "鹿泉香椿",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "鹿泉区",
+      "note": "鹿泉香椿：市级地理标志产品表列明的香椿，现行产地定位为鹿泉区。"
+    },
+    {
+      "name": "新乐花生",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "note": "新乐花生：市级地理标志信息表列明的花生，记录地方农产品而非加工品牌。"
+    },
+    {
+      "name": "行唐大枣",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "行唐县",
+      "note": "行唐大枣：市级信息表列明的地方大枣，按行唐县保存县域检索位置。"
+    },
+    {
+      "name": "灵寿金针菇",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "灵寿县",
+      "note": "灵寿金针菇：市级信息表列明的金针菇产品，申请主体为灵寿食用菌服务机构。"
+    },
+    {
+      "name": "赵县黄冠梨",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赵县",
+      "note": "赵县黄冠梨：市级名录列明的黄冠梨，与同县雪花梨按产品名称分别收录。"
+    }
+  ]
+}

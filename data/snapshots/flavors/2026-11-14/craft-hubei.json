@@ -1,0 +1,93 @@
+{
+  "sourceId": "regional-20261114-craft-hubei",
+  "sourceUrl": "https://wlt.hubei.gov.cn/bsfw/bmcxfw/fwzwhyc/dbxxm/dbxxmsj/201911/t20191121_1363880.shtml",
+  "responseBytesSha256": "5c094481579eb652ce05672d36440042a7737f3f5541881a7045d26ef5b18ebe",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "汉绣",
+      "province": "hubei",
+      "city": "武汉",
+      "locality": "江汉区",
+      "note": "湖北名录列明江汉汉绣，扩展项目还包括荆州，本条保留多地传承说明。"
+    },
+    {
+      "name": "阳新布贴",
+      "province": "hubei",
+      "city": "黄石",
+      "locality": "阳新县",
+      "note": "阳新布贴：湖北省级名录列明的地方布艺，以阳新县保存制作传统的关联。"
+    },
+    {
+      "name": "程河柳编",
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "襄州区程河镇",
+      "note": "程河柳编：湖北省级名录列明的襄州地方柳编，以编织物品记录而非食品。"
+    },
+    {
+      "name": "老河口木版年画",
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "老河口市",
+      "note": "老河口木版年画：湖北省级名录列明的年画，保留老河口县级市定位。"
+    },
+    {
+      "name": "黄梅挑花",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "黄梅县",
+      "note": "黄梅挑花：湖北省级名录列明的黄梅挑花，与邻省其他挑花形式分别归属。"
+    },
+    {
+      "name": "红安大布",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "红安县",
+      "note": "红安大布：湖北名录中的红安大布传统纺织技艺，以地方棉织物和工艺记录。"
+    },
+    {
+      "name": "红安绣花鞋垫",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "红安县",
+      "note": "红安绣花鞋垫：湖北省级名录列明的绣花鞋垫，以地方日用物品及制作传统收录。"
+    },
+    {
+      "name": "章水泉竹艺",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "武穴市",
+      "note": "章水泉竹艺：湖北省级名录列明的竹艺，以武穴县级市保留产地关联。"
+    },
+    {
+      "name": "楚式漆器",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "荆州市相关传承地区",
+      "note": "湖北名录列明荆州楚式漆器，其他传承地区另有扩展，不将其限定为独占产地。"
+    },
+    {
+      "name": "来凤土家织锦西兰卡普",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "来凤县",
+      "note": "来凤土家织锦西兰卡普：湖北省级名录将西兰卡普与来凤县对应，以县域传承和织物记录。"
+    },
+    {
+      "name": "枝江手工布鞋",
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "枝江市",
+      "note": "枝江手工布鞋：湖北省级名录列明枝江民间手工布鞋，以日用品与制作传统记录。"
+    },
+    {
+      "name": "孝感锡器",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝南区",
+      "note": "孝感锡器：湖北省级名录列明锡雕及锡器制作，以孝南区保存地方工艺关联。"
+    }
+  ]
+}

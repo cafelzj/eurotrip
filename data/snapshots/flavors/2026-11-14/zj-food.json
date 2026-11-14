@@ -1,0 +1,37 @@
+{
+  "sourceId": "regional-20261114-zj-food",
+  "sourceUrl": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/zj/201911/t20191129_849210.html",
+  "responseBytesSha256": "a05401c446fcd0633b77ab21d4c964bb38235642cc96114e32f298fb15330612",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "常山胡柚",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "常山县",
+      "note": "常山地方柚果，报道描述其汁水丰富、甜中略带苦味，与采摘旅游相连。"
+    },
+    {
+      "name": "仙居杨梅",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "仙居县",
+      "note": "仙居杨梅：文化和旅游部转载报道列举的浙江时鲜果品，县域定位为仙居。"
+    },
+    {
+      "name": "奉化水蜜桃",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "奉化区",
+      "note": "奉化水蜜桃：文化和旅游部报道列举的浙江时鲜果品，以现行奉化区保存定位。"
+    },
+    {
+      "name": "浦江巨峰葡萄",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "浦江县",
+      "note": "浦江巨峰葡萄：报道列举的浙江地方葡萄，巨峰为品种相关名称，区别于葡萄酒。"
+    }
+  ]
+}

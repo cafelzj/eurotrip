@@ -1,0 +1,107 @@
+{
+  "sourceId": "regional-20261114-cnipa-products",
+  "sourceUrl": "https://www.cnipa.gov.cn/art/2026/1/12/art_575_203605.html",
+  "responseBytesSha256": "a93b76c41299703638011a65d6fb2811fa8d4caaad2d44b27c885adb9de6a024",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "封丘树莓",
+      "province": "henan",
+      "city": "新乡",
+      "locality": "封丘县",
+      "note": "封丘树莓来自新乡封丘，果实柔软多汁，甜酸味鲜明，可直接食用，也能用于果汁、果酱等加工。"
+    },
+    {
+      "name": "西峡猕猴桃",
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "note": "国家知识产权局用标公告点名的地方鲜果，按西峡县域保存地理关联。"
+    },
+    {
+      "name": "西峡香菇",
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "note": "国家知识产权局公告列明的地方香菇，不能据公告推定每个商家的许可。"
+    },
+    {
+      "name": "平舆白芝麻",
+      "province": "henan",
+      "city": "驻马店",
+      "locality": "平舆县",
+      "note": "国家知识产权局公告列明的白芝麻，作为地方食材而非调味成品记录。"
+    },
+    {
+      "name": "邳州板栗",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "邳州市",
+      "note": "邳州板栗：国家知识产权局用标公告列明的地方板栗，以邳州县级市记录。"
+    },
+    {
+      "name": "如东泥螺",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如东县",
+      "note": "国家知识产权局公告列明的泥螺产品，作为食材收录，不推定为生食成品。"
+    },
+    {
+      "name": "兴化大米",
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "兴化市",
+      "note": "兴化大米：国家知识产权局公告列明的地方大米，产地定位为兴化县级市。"
+    },
+    {
+      "name": "赣榆梭子蟹",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "赣榆区",
+      "note": "赣榆梭子蟹：国家知识产权局公告列明的梭子蟹，保留赣榆区这一县级定位。"
+    },
+    {
+      "name": "庆元香菇",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "庆元县",
+      "note": "庆元香菇：国家知识产权局公告列明的地方香菇，保留庆元县域食材关联。"
+    },
+    {
+      "name": "开化黑木耳",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "开化县",
+      "note": "开化黑木耳：国家知识产权局公告列明的木耳产品，与开化龙顶茶分开记录。"
+    },
+    {
+      "name": "江山白菇",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "江山市",
+      "note": "江山白菇：国家知识产权局公告点名的白菇产品，保存江山县级市定位。"
+    },
+    {
+      "name": "临海西兰花",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "临海市",
+      "note": "临海西兰花：国家知识产权局公告列明的地方蔬菜，与同市茶叶、果品分别分类。"
+    },
+    {
+      "name": "平湖西瓜",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "平湖市",
+      "note": "平湖西瓜：国家知识产权局公告列明的西瓜产品，以平湖县级市保存地方关联。"
+    },
+    {
+      "name": "金塘李",
+      "province": "zhejiang",
+      "city": "舟山",
+      "locality": "定海区金塘镇",
+      "note": "金塘李：国家知识产权局公告列明的李子产品，保留金塘这一海岛产地线索。"
+    }
+  ]
+}

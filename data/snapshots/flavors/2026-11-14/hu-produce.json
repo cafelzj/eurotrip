@@ -1,0 +1,37 @@
+{
+  "sourceId": "regional-20261114-hu-produce",
+  "sourceUrl": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202507/t20250701_5709974.shtml",
+  "responseBytesSha256": "37fd28664d822fe1f1d21cbeded68b6463acd5b06959323b4448735e36d3d002",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "仙桃黄鳝",
+      "province": "hubei",
+      "city": "仙桃",
+      "locality": "仙桃市",
+      "note": "仙桃黄鳝：省农业农村厅报道将仙桃与黄鳝产业对应，作为水产食材记录。"
+    },
+    {
+      "name": "秭归脐橙",
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "秭归县",
+      "note": "秭归脐橙：省级特色之乡方案确认秭归脐橙产业关联，保留县域定位。"
+    },
+    {
+      "name": "随县香菇",
+      "province": "hubei",
+      "city": "随州",
+      "locality": "随县",
+      "note": "省级方案将随县与香菇产业对应，本条不扩大成所有随州香菇的规格。"
+    },
+    {
+      "name": "安陆银杏",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "安陆市",
+      "note": "安陆银杏：省级报道将安陆与银杏产业对应，具体食品加工方式仍需另核。"
+    }
+  ]
+}

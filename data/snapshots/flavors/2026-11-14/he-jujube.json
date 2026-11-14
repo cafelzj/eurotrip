@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-he-jujube",
+  "sourceUrl": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/article61b8389e09fb4124a57cc2aa3d9fc0b8.html",
+  "responseBytesSha256": "fad6453287f53e0f858c0297daccb57866d33546678d4528651279368e415c77",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "新郑红枣",
+      "province": "henan",
+      "city": "郑州",
+      "locality": "新郑市",
+      "note": "新郑红枣：河南地方特产介绍中的红枣，包含灰枣、鸡心枣等不同品种。"
+    }
+  ]
+}

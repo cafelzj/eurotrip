@@ -1,0 +1,44 @@
+{
+  "sourceId": "regional-20261114-craft-hlj",
+  "sourceUrl": "https://nynct.hlj.gov.cn/nynct/c115380/202411/c00_31786567.shtml",
+  "responseBytesSha256": "261df1e7c8bf6168dc061905f862b56bfbf001e5929d7c6c3a23246f9b6a1654",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "赫哲族鱼皮画",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "note": "赫哲族鱼皮画：同江地方报道介绍利用鱼皮裁剪、镂空、拼接与粘贴制作的图画。"
+    },
+    {
+      "name": "赫哲族鱼皮服饰",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "note": "报道介绍鱼皮衣等传统服饰及其当代传承，与鱼皮画按用途分开记录。"
+    },
+    {
+      "name": "同江桦树皮画",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "note": "同江报道列明的文创物品，利用树皮材料制作画作，具体作品工艺另核。"
+    },
+    {
+      "name": "同江麦秸画",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "note": "同江麦秸画：报道列明的同江文创产品，以麦秸材料相关画作记录地方物品。"
+    },
+    {
+      "name": "同江玉米叶画",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "同江市",
+      "note": "同江玉米叶画：同江报道列明的文创物品，以玉米叶材料相关画作记录地方手工艺。"
+    }
+  ]
+}

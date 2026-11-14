@@ -4,6 +4,10 @@
 
 公开网址：https://cafelzj.github.io/eurotrip/
 
+## 风物食单
+
+`#flavors` 按15省市及县镇浏览地方食品与物品；现有1733项，其中1687项有已读来源、46项待核实。本批新增339项并增加“物品与工艺”分类，核对范围与证据缺口随卡片保留。收录和研究进度见 [风物食单说明](docs/flavors.md)，详细记录见 [本批审阅](docs/flavor-regional-expansion-2026-11-14.json)。综合风物2000项目标尚差267项，不代表逐市县已完成覆盖。
+
 ## 本地运行
 
 纯静态 HTML、CSS、JavaScript，无需安装应用依赖：

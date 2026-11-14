@@ -1,0 +1,65 @@
+{
+  "sourceId": "regional-20261114-sh-produce",
+  "sourceUrl": "https://nyncw.sh.gov.cn/ztmycpzs/20180705/0009-67360.html",
+  "responseBytesSha256": "00c3516e2980812fa49af8b3885b549dbcbff286eeaa223ec0307c0ad063e741",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "金山蟠桃",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "金山区吕巷镇等",
+      "note": "上海农产品名录列明的蟠桃，产区涉及吕巷及金山其他乡镇部分村落。"
+    },
+    {
+      "name": "三林崩瓜",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "浦东新区三林镇等",
+      "note": "三林崩瓜：名录列明的上海地方瓜果，保留浦东新区及三林等乡镇的产区信息。"
+    },
+    {
+      "name": "崇明金瓜",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "崇明区",
+      "note": "上海农产品名录中的地方瓜类，原资料写崇明县，按现行崇明区展示。"
+    },
+    {
+      "name": "亭林雪瓜",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "金山区亭林镇等",
+      "note": "名录中的金山地方果品，名称与亭林相连，保护地域还涉及其他乡镇。"
+    },
+    {
+      "name": "马陆葡萄",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "嘉定区马陆镇等",
+      "note": "马陆葡萄：上海农产品名录列明的葡萄，产区包含马陆及嘉定其他相关乡镇。"
+    },
+    {
+      "name": "庄行蜜梨",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "奉贤区庄行镇",
+      "note": "庄行蜜梨：庄行镇多个村落所产的地方梨，名录列明潘垫、新华、东风等村。"
+    },
+    {
+      "name": "奉贤黄桃",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "奉贤区青村镇",
+      "note": "奉贤黄桃：青村镇多个村落种植的地方黄桃，名录提供具体产区而非门店信息。"
+    },
+    {
+      "name": "彭镇青扁豆",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "浦东新区泥城镇等",
+      "note": "彭镇青扁豆：名录列明泥城、大团、书院等乡镇的青扁豆，作为熟食原料记录。"
+    }
+  ]
+}

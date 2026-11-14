@@ -1,0 +1,86 @@
+{
+  "sourceId": "regional-20261114-craft-hunan",
+  "sourceUrl": "https://www.hunan.gov.cn/hnyw/sy/hnyw1/201805/t20180526_5019993.html",
+  "responseBytesSha256": "1eece1963ddfa1c07d70cdd2f973087d9a598ada30cb7fb729efee5672c975ed",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "湘绣",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市相关传承地区",
+      "note": "湘绣：湖南公布的国家传统工艺振兴目录列明长沙湘绣，以地方绣作记录。"
+    },
+    {
+      "name": "浏阳菊花石雕",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "note": "湖南传统工艺振兴目录列明长沙、浏阳的菊花石雕，以制作传统收录。"
+    },
+    {
+      "name": "醴陵釉下五彩瓷",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "醴陵市",
+      "note": "湖南传统工艺振兴目录列明醴陵釉下五彩瓷烧制技艺，以器物工艺记录。"
+    },
+    {
+      "name": "花瑶挑花",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县",
+      "note": "湖南目录列明隆回与溆浦两地传承，本条按隆回收录并说明跨地区关联。"
+    },
+    {
+      "name": "滩头木版年画",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "隆回县滩头镇",
+      "note": "滩头木版年画：湖南传统工艺振兴目录列明的年画绘制技艺，保留县镇检索位置。"
+    },
+    {
+      "name": "宝庆竹刻",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "邵阳市相关传承地区",
+      "note": "宝庆竹刻：湖南传统工艺振兴目录列明的竹刻，以邵阳作为地方制作关联。"
+    },
+    {
+      "name": "益阳小郁竹艺",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "益阳市相关传承地区",
+      "note": "益阳小郁竹艺：湖南传统工艺振兴目录列明的竹艺，以地方竹材器物制作传统记录。"
+    },
+    {
+      "name": "通道侗锦",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "通道侗族自治县",
+      "note": "通道侗锦：湖南传统工艺振兴目录列明的侗锦织造技艺，保留通道县域信息。"
+    },
+    {
+      "name": "泸溪苗族挑花",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "note": "泸溪苗族挑花：湖南传统工艺振兴目录列明泸溪苗族挑花，与花瑶挑花分开记录。"
+    },
+    {
+      "name": "踏虎凿花",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "note": "踏虎凿花：湖南传统工艺振兴目录列明的凿花制作技艺，产地关联泸溪县。"
+    },
+    {
+      "name": "土家族织锦",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "湘西州相关传承地区",
+      "note": "湖南传统工艺振兴目录列明的湘西织锦，记录地区传承而非单个企业品牌。"
+    }
+  ]
+}

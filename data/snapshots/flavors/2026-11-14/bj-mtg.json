@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-bj-mtg",
+  "sourceUrl": "https://www.bjmtg.gov.cn/bjmtg/2024zcwj/202408/ea12154fb664473cb16410b5f65b95b9.shtml",
+  "responseBytesSha256": "96b1caf6e4256c1d956cf51a3e12b032555e0d323d453c3441622b9ae9105bd8",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "韭园酱菜",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区王平镇韭园村",
+      "note": "韭园酱菜：门头沟地方腌制菜，区级休闲农业规划将其列入特色美食产品。"
+    }
+  ]
+}

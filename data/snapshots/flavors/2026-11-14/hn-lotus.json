@@ -1,0 +1,16 @@
+{
+  "sourceId": "regional-20261114-hn-lotus",
+  "sourceUrl": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202601/t20260119_33895231.html",
+  "responseBytesSha256": "cfd84bff77817ad3f6cd7601e3597ea44aa807cb9a38794522e60d8c60f4eb0c",
+  "kind": "editorial-reading-notes",
+  "scope": "名称、类别及来源明确的地域关联；不以名录推定统一配方、现售、产地独占或全体商家许可。",
+  "items": [
+    {
+      "name": "湘莲",
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘潭县花石镇等",
+      "note": "湘潭地方莲子，报道介绍寸三莲及花石镇的莲子种植、加工和贸易关联。"
+    }
+  ]
+}
