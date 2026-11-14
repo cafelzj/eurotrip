@@ -1,8 +1,8 @@
 {
   "reviewed": "2026-11-14",
   "targetItems": 2000,
-  "totalItems": 1733,
-  "remainingItems": 267,
+  "totalItems": 2112,
+  "remainingItems": 0,
   "scope": "已收录15省市的地级市、自治州、地区及所辖县、县级市、区；济源等省直管单位单列。县内乡镇在卡片 locality 中注明。",
   "order": "按目录省份顺序，每个地级市之后依行政代码逐县级单位检索；省直管县级单位不虚构下属县。",
   "statusMeaning": {
@@ -968,7 +968,22 @@
         "regional-ade8064ec44f1c",
         "regional-7e0c97df93b0ed",
         "regional-1f768d6ff4ed03",
-        "regional-c34d00ce24d865"
+        "regional-c34d00ce24d865",
+        "county-68f9ca540e2543",
+        "county-7868beae98169a",
+        "county-7d59d391d1c7c5",
+        "county-a236c33a03eba0",
+        "county-faeeb7c43b34a8",
+        "county-add429d072b676",
+        "county-fe213e9cb7c238",
+        "county-6f917fa519764e",
+        "county-313c42ee1745ef",
+        "county-0dc01af7f48c14",
+        "county-e02eeb61b2f8df",
+        "county-7447485cdbf6ab",
+        "county-0ee8dcac428f94",
+        "county-53bbb2734798ac",
+        "county-9de1e5ce3d7f0f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -4603,7 +4618,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 341500
+      "parentAdcode": 341500,
+      "searchEvidence": [
+        {
+          "query": "安徽 舒城 霍邱 金寨 地方小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch11"
+        }
+      ]
     },
     {
       "adcode": 341523,
@@ -4617,7 +4641,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 341500
+      "parentAdcode": 341500,
+      "searchEvidence": [
+        {
+          "query": "安徽 舒城 霍邱 金寨 地方小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch11"
+        }
+      ]
     },
     {
       "adcode": 341524,
@@ -4631,7 +4664,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 341500
+      "parentAdcode": 341500,
+      "searchEvidence": [
+        {
+          "query": "安徽 舒城 霍邱 金寨 地方小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch11"
+        }
+      ]
     },
     {
       "adcode": 341525,
@@ -4938,10 +4980,21 @@
         "flavor-jiangsu-dc962a8f81",
         "flavor-jiangsu-dab8ddad8b",
         "regional-2979fd1e414a67",
-        "regional-1a530d7092dcb0"
+        "regional-1a530d7092dcb0",
+        "county-a3edc614b8625d",
+        "county-cc2c6fe00f78dc"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "南京 苏州 无锡 乳业 卫岗 双喜 益多",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch0"
+        }
+      ]
     },
     {
       "adcode": 320102,
@@ -5026,9 +5079,11 @@
       "city": "南京",
       "name": "江宁区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a3edc614b8625d"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320100
     },
     {
@@ -5088,7 +5143,8 @@
         "wuxi-tianzi-niuniu",
         "regional-f799b47f3d57d4",
         "regional-c756b98e6fcf50",
-        "regional-0556a899e76d7d"
+        "regional-0556a899e76d7d",
+        "county-3ca3ad30befffe"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -5188,6 +5244,34 @@
           "evidenceSha256": "d088eaa0902233f9083b01ed8dc35e504d4d52c789a3336dae05860070a9f20f",
           "candidateCount": 3,
           "status": "search-only-not-article-review"
+        },
+        {
+          "query": "南京 苏州 无锡 乳业 卫岗 双喜 益多",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch0"
+        },
+        {
+          "query": "江苏 飞鹤 无锡 美乐 羊奶 乳业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch2"
+        },
+        {
+          "query": "无锡 益多 乳业 美乐 牛奶 官网",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "dairyMoreSearch1"
+        },
+        {
+          "query": "无锡养乐多 乳品 工厂 官网",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "dairyMoreSearch2"
         }
       ]
     },
@@ -5636,9 +5720,11 @@
       "city": "无锡",
       "name": "新吴区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-3ca3ad30befffe"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 320200,
       "searchEvidence": [
         {
@@ -5983,7 +6069,10 @@
         "flavor-jiangsu-cd43e8355c",
         "flavor-jiangsu-833b9e50ec",
         "flavor-jiangsu-816d7b53b6",
-        "regional-a0b2f131c5d737"
+        "regional-a0b2f131c5d737",
+        "county-694bd8b8fc97f6",
+        "county-569205c5897b86",
+        "county-3bf5f6c2992616"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -6038,9 +6127,11 @@
       "city": "徐州",
       "name": "铜山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-694bd8b8fc97f6"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320300
     },
     {
@@ -6050,7 +6141,8 @@
       "name": "丰县",
       "level": "county",
       "entryIds": [
-        "flavor-jiangsu-cd43e8355c"
+        "flavor-jiangsu-cd43e8355c",
+        "county-569205c5897b86"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -6077,8 +6169,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320300
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320300,
+      "searchEvidence": [
+        {
+          "query": "徐州 睢宁 君乐宝 维维 天山雪 乳业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch2"
+        }
+      ]
     },
     {
       "adcode": 320381,
@@ -6086,9 +6187,11 @@
       "city": "徐州",
       "name": "新沂市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-3bf5f6c2992616"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320300
     },
     {
@@ -6121,7 +6224,9 @@
         "flavor-jiangsu-d80d5b33c7",
         "flavor-jiangsu-80ccd93c01",
         "flavor-jiangsu-952840c1a7",
-        "flavor-jiangsu-cf1acf82ba"
+        "flavor-jiangsu-cf1acf82ba",
+        "county-ce3297a751a578",
+        "county-cc9ad8395735b8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -6143,9 +6248,11 @@
       "city": "常州",
       "name": "钟楼区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ce3297a751a578"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320400
     },
     {
@@ -6177,7 +6284,8 @@
       "name": "金坛区",
       "level": "county",
       "entryIds": [
-        "flavor-jiangsu-952840c1a7"
+        "flavor-jiangsu-952840c1a7",
+        "county-cc9ad8395735b8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -6221,7 +6329,12 @@
         "regional-b64510c0ca5f8f",
         "regional-b559480be2d128",
         "regional-a60c220a861563",
-        "regional-6ad4439b924d2a"
+        "regional-6ad4439b924d2a",
+        "county-42617c58722d32",
+        "county-67c9b35707dfd6",
+        "county-a442c88617077f",
+        "county-6c53d584694bce",
+        "county-a6cc838be49400"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -6311,10 +6424,21 @@
       "city": "苏州",
       "name": "昆山市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6c53d584694bce"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320500
+      "status": "has-sourced-entries",
+      "parentAdcode": 320500,
+      "searchEvidence": [
+        {
+          "query": "江苏 鲜活 乳业 昆山 奶油 企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch2"
+        }
+      ]
     },
     {
       "adcode": 320585,
@@ -6350,10 +6474,34 @@
         "flavor-jiangsu-cf85633184",
         "regional-0a928208b0ecab",
         "regional-7fd90cdcf86c65",
-        "regional-15af4e68e0dcda"
+        "regional-15af4e68e0dcda",
+        "county-6cbcb957983103"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "南通 乳业 怡生 海安 乳品 企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        },
+        {
+          "query": "南通 怡生 乳业 牛奶",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch3"
+        },
+        {
+          "query": "南通 怡生乳业 牛奶",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySingle2"
+        }
+      ]
     },
     {
       "adcode": 320602,
@@ -6361,9 +6509,11 @@
       "city": "南通",
       "name": "崇川区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6cbcb957983103"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320600
     },
     {
@@ -6441,7 +6591,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 320600
+      "parentAdcode": 320600,
+      "searchEvidence": [
+        {
+          "query": "南通 乳业 怡生 海安 乳品 企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        }
+      ]
     },
     {
       "adcode": 320700,
@@ -6461,10 +6620,28 @@
         "flavor-jiangsu-8a5e336eda",
         "flavor-jiangsu-e554484beb",
         "flavor-jiangsu-f8a2a2adcf",
-        "regional-1878f697e9d0ed"
+        "regional-1878f697e9d0ed",
+        "county-b3ef0a8f3fc9b3",
+        "county-05564482fde9df"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        },
+        {
+          "query": "江苏 连云港 乳制品 生产 企业 牛奶",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "extraCitySearch2"
+        }
+      ]
     },
     {
       "adcode": 320703,
@@ -6472,10 +6649,28 @@
       "city": "连云港",
       "name": "连云区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b3ef0a8f3fc9b3"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320700
+      "status": "has-sourced-entries",
+      "parentAdcode": 320700,
+      "searchEvidence": [
+        {
+          "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        },
+        {
+          "query": "江苏 连云港 乳制品 生产 企业 牛奶",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "extraCitySearch2"
+        }
+      ]
     },
     {
       "adcode": 320706,
@@ -6483,9 +6678,11 @@
       "city": "连云港",
       "name": "海州区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-05564482fde9df"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320700
     },
     {
@@ -6565,7 +6762,16 @@
         "flavor-jiangsu-61a53284e1"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        }
+      ]
     },
     {
       "adcode": 320803,
@@ -6575,8 +6781,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320800
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320800,
+      "searchEvidence": [
+        {
+          "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        }
+      ]
     },
     {
       "adcode": 320804,
@@ -6673,10 +6888,21 @@
         "flavor-jiangsu-04e6a5fd14",
         "flavor-jiangsu-749a7cf0e4",
         "flavor-jiangsu-9c92a146f6",
-        "flavor-jiangsu-4e8ed3625f"
+        "flavor-jiangsu-4e8ed3625f",
+        "county-a07802cf5130dd",
+        "county-a6e482d867620d"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "盐城 银宝 菊乐 光明 乳业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        }
+      ]
     },
     {
       "adcode": 320902,
@@ -6757,9 +6983,12 @@
       "city": "盐城",
       "name": "射阳县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a07802cf5130dd",
+        "county-a6e482d867620d"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 320900
     },
     {
@@ -6810,7 +7039,10 @@
         "flavor-jiangsu-3742d8c138",
         "regional-011d5679ab0c7d",
         "regional-6c556c676d44e0",
-        "regional-2d07a0a68574ea"
+        "regional-2d07a0a68574ea",
+        "county-de55d4527fc139",
+        "county-6ea4548df813b3",
+        "county-19fed11b1a24fa"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -6821,9 +7053,11 @@
       "city": "扬州",
       "name": "广陵区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-de55d4527fc139"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 321000
     },
     {
@@ -6879,7 +7113,8 @@
       "name": "高邮市",
       "level": "county",
       "entryIds": [
-        "flavor-jiangsu-fbe3664ad3"
+        "flavor-jiangsu-fbe3664ad3",
+        "county-6ea4548df813b3"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -6902,10 +7137,35 @@
         "flavor-jiangsu-ea5ce311cc",
         "flavor-jiangsu-79ad60cfcc",
         "flavor-jiangsu-04b3bfd105",
-        "flavor-jiangsu-e03d26593f"
+        "flavor-jiangsu-e03d26593f",
+        "county-204c0d09f69133",
+        "county-968a4c6f16bbed"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "常州 红梅 乳业 镇江 乳业 企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch0"
+        },
+        {
+          "query": "镇江 恒康 乳业 牛奶",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch3"
+        },
+        {
+          "query": "镇江 乳业 牛奶 企业 恒康 丹阳",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySingle3"
+        }
+      ]
     },
     {
       "adcode": 321102,
@@ -6947,11 +7207,21 @@
       "name": "丹阳市",
       "level": "county",
       "entryIds": [
-        "flavor-jiangsu-79ad60cfcc"
+        "flavor-jiangsu-79ad60cfcc",
+        "county-968a4c6f16bbed"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 321100
+      "parentAdcode": 321100,
+      "searchEvidence": [
+        {
+          "query": "镇江 乳业 牛奶 企业 恒康 丹阳",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySingle3"
+        }
+      ]
     },
     {
       "adcode": 321182,
@@ -7000,7 +7270,8 @@
         "flavor-jiangsu-dfc01af87a",
         "flavor-jiangsu-ebc2cbc874",
         "flavor-jiangsu-3d8c9c7faf",
-        "regional-27f20cfe02c449"
+        "regional-27f20cfe02c449",
+        "county-6def1f7890cf4d"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -7034,7 +7305,8 @@
       "name": "姜堰区",
       "level": "county",
       "entryIds": [
-        "flavor-jiangsu-da6ebb6414"
+        "flavor-jiangsu-da6ebb6414",
+        "county-6def1f7890cf4d"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -7101,10 +7373,28 @@
         "flavor-jiangsu-362d9e1953",
         "flavor-jiangsu-46ed04d0ad",
         "flavor-jiangsu-ab5a3c1ef6",
-        "flavor-jiangsu-fc05c9ed72"
+        "flavor-jiangsu-fc05c9ed72",
+        "county-7d4abf05969ad0",
+        "county-b8826e8faa9b71"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "jsDairySearch1"
+        },
+        {
+          "query": "江苏 宿迁 乳业 志威 蒙牛",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "extraCitySearch3"
+        }
+      ]
     },
     {
       "adcode": 321302,
@@ -7123,9 +7413,11 @@
       "city": "宿迁",
       "name": "宿豫区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-7d4abf05969ad0"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 321300
     },
     {
@@ -7190,7 +7482,17 @@
         "flavor-zhejiang-b6e5086b17",
         "flavor-zhejiang-7398a8f0ff",
         "regional-23a08a390a85d9",
-        "regional-8a39cbb0b87dad"
+        "regional-8a39cbb0b87dad",
+        "county-9270e3167929d6",
+        "county-6e6ac0481bb8f3",
+        "county-e195be034c060f",
+        "county-2c3de7a71bfc32",
+        "county-e94ff2e1b68af8",
+        "county-0af507918087c0",
+        "county-617b37391e3d0c",
+        "county-b621ef47566622",
+        "county-934d0a3bcc0e69",
+        "county-0f717bff82f4a2"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -7735,9 +8037,11 @@
       "city": "杭州",
       "name": "萧山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-9270e3167929d6"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -7954,7 +8258,8 @@
       "name": "富阳区",
       "level": "county",
       "entryIds": [
-        "regional-23a08a390a85d9"
+        "regional-23a08a390a85d9",
+        "county-0f717bff82f4a2"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8064,9 +8369,11 @@
       "city": "杭州",
       "name": "临安区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-e195be034c060f"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -8281,9 +8588,12 @@
       "city": "杭州",
       "name": "临平区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6e6ac0481bb8f3",
+        "county-934d0a3bcc0e69"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -8390,9 +8700,11 @@
       "city": "杭州",
       "name": "桐庐县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-2c3de7a71bfc32"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -8498,9 +8810,11 @@
       "city": "杭州",
       "name": "淳安县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-e94ff2e1b68af8"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -8606,9 +8920,13 @@
       "city": "杭州",
       "name": "建德市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-0af507918087c0",
+        "county-617b37391e3d0c",
+        "county-b621ef47566622"
+      ],
       "reviewedTopics": [],
-      "status": "search-leads-pending-review",
+      "status": "has-sourced-entries",
       "parentAdcode": 330100,
       "searchEvidence": [
         {
@@ -8730,7 +9048,15 @@
         "flavor-zhejiang-6731e08cc7",
         "county-zhejiang-baa28e5ea1",
         "regional-2c623b2ad735f5",
-        "regional-a0d6c85956436f"
+        "regional-a0d6c85956436f",
+        "county-a11dbab0552600",
+        "county-0f14d417c71776",
+        "county-2df168523dea30",
+        "county-1b8b20507baf90",
+        "county-9cd08305709a26",
+        "county-c4761d6e18be3b",
+        "county-f904b934f6af03",
+        "county-a80af01d730b9c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -8741,9 +9067,11 @@
       "city": "宁波",
       "name": "海曙区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a11dbab0552600"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330200
     },
     {
@@ -8763,9 +9091,11 @@
       "city": "宁波",
       "name": "北仑区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-0f14d417c71776"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330200
     },
     {
@@ -8785,9 +9115,11 @@
       "city": "宁波",
       "name": "鄞州区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-2df168523dea30"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330200
     },
     {
@@ -8797,7 +9129,8 @@
       "name": "奉化区",
       "level": "county",
       "entryIds": [
-        "regional-2c623b2ad735f5"
+        "regional-2c623b2ad735f5",
+        "county-1b8b20507baf90"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8810,7 +9143,9 @@
       "name": "象山县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-56c16bb7d1"
+        "flavor-zhejiang-56c16bb7d1",
+        "county-f904b934f6af03",
+        "county-a80af01d730b9c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8823,7 +9158,8 @@
       "name": "宁海县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-14dd3618e0"
+        "flavor-zhejiang-14dd3618e0",
+        "county-c4761d6e18be3b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8836,7 +9172,8 @@
       "name": "余姚市",
       "level": "county",
       "entryIds": [
-        "county-zhejiang-baa28e5ea1"
+        "county-zhejiang-baa28e5ea1",
+        "county-9cd08305709a26"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8874,7 +9211,15 @@
         "flavor-zhejiang-b9411c1995",
         "county-zhejiang-6551e72666",
         "regional-80148cd3b298b0",
-        "regional-c0699d3a31e35e"
+        "regional-c0699d3a31e35e",
+        "county-b645178d4e274a",
+        "county-5da1babea2e2c1",
+        "county-c10d7f850f8864",
+        "county-18d9c51886d6da",
+        "county-a5cbd12df14ae3",
+        "county-7a0969fc8211ad",
+        "county-1418f65fc0122b",
+        "county-f3ce7b76225025"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -8896,9 +9241,11 @@
       "city": "温州",
       "name": "龙湾区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b645178d4e274a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330300
     },
     {
@@ -8918,9 +9265,11 @@
       "city": "温州",
       "name": "洞头区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-1418f65fc0122b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330300
     },
     {
@@ -8929,9 +9278,11 @@
       "city": "温州",
       "name": "永嘉县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-c10d7f850f8864"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330300
     },
     {
@@ -8941,7 +9292,8 @@
       "name": "平阳县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-b9411c1995"
+        "flavor-zhejiang-b9411c1995",
+        "county-18d9c51886d6da"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8955,7 +9307,8 @@
       "level": "county",
       "entryIds": [
         "flavor-zhejiang-165174eadb",
-        "county-zhejiang-6551e72666"
+        "county-zhejiang-6551e72666",
+        "county-7a0969fc8211ad"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -8967,9 +9320,11 @@
       "city": "温州",
       "name": "文成县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-f3ce7b76225025"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330300
     },
     {
@@ -8979,7 +9334,8 @@
       "name": "泰顺县",
       "level": "county",
       "entryIds": [
-        "zj-taishun-rice-noodles"
+        "zj-taishun-rice-noodles",
+        "county-a5cbd12df14ae3"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9005,7 +9361,8 @@
       "entryIds": [
         "flavor-zhejiang-f1b67ca9a0",
         "regional-80148cd3b298b0",
-        "regional-c0699d3a31e35e"
+        "regional-c0699d3a31e35e",
+        "county-5da1babea2e2c1"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9042,7 +9399,14 @@
         "flavor-zhejiang-caa99dee23",
         "flavor-zhejiang-4c34b0a89a",
         "regional-e47bf666f4945d",
-        "regional-be57a8c3032fe8"
+        "regional-be57a8c3032fe8",
+        "county-ba0363c1697aaa",
+        "county-a2f85c446eb815",
+        "county-b88770603ca654",
+        "county-27c75b1c4c6858",
+        "county-09ff6176cbcd30",
+        "county-8c42f2e287ed21",
+        "county-ac3d5f0832e654"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9053,9 +9417,11 @@
       "city": "嘉兴",
       "name": "南湖区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ba0363c1697aaa"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330400
     },
     {
@@ -9064,9 +9430,11 @@
       "city": "嘉兴",
       "name": "秀洲区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a2f85c446eb815"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330400
     },
     {
@@ -9078,7 +9446,9 @@
       "entryIds": [
         "flavor-zhejiang-267f01bf30",
         "flavor-zhejiang-287a9609ac",
-        "flavor-zhejiang-367013ddcf"
+        "flavor-zhejiang-367013ddcf",
+        "county-b88770603ca654",
+        "county-ac3d5f0832e654"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9121,7 +9491,8 @@
       "entryIds": [
         "zj-pinghu-zaodan",
         "zj-pinghu-chigao",
-        "regional-e47bf666f4945d"
+        "regional-e47bf666f4945d",
+        "county-27c75b1c4c6858"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9133,9 +9504,12 @@
       "city": "嘉兴",
       "name": "桐乡市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-09ff6176cbcd30",
+        "county-8c42f2e287ed21"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330400
     },
     {
@@ -9158,7 +9532,12 @@
         "flavor-zhejiang-a2406cdb0c",
         "flavor-zhejiang-fad70612e0",
         "flavor-zhejiang-f9932d112c",
-        "regional-79e6536081f5e3"
+        "regional-79e6536081f5e3",
+        "county-2e798a84b2f07d",
+        "county-959282e13289a1",
+        "county-76caa74a867597",
+        "county-225240819615d4",
+        "county-8039c11dc6014c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9169,9 +9548,12 @@
       "city": "湖州",
       "name": "吴兴区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-2e798a84b2f07d",
+        "county-959282e13289a1"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330500
     },
     {
@@ -9181,7 +9563,9 @@
       "name": "南浔区",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-d537ede1bf"
+        "flavor-zhejiang-d537ede1bf",
+        "county-76caa74a867597",
+        "county-225240819615d4"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9225,7 +9609,8 @@
       "name": "安吉县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-e23316ec3c"
+        "flavor-zhejiang-e23316ec3c",
+        "county-8039c11dc6014c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9254,7 +9639,14 @@
         "flavor-zhejiang-8ad58bbea0",
         "flavor-zhejiang-aa6ad12949",
         "flavor-zhejiang-2377408f11",
-        "regional-d21561c3928cab"
+        "regional-d21561c3928cab",
+        "county-107c44bcda7f28",
+        "county-8120694dcb176f",
+        "county-6f5cfe71a1e5df",
+        "county-6d83b971b28779",
+        "county-033de905926910",
+        "county-cc418f87577467",
+        "county-bc3d34f971befd"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9290,9 +9682,11 @@
       "city": "绍兴",
       "name": "上虞区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-bc3d34f971befd"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330600
     },
     {
@@ -9304,7 +9698,8 @@
       "entryIds": [
         "flavor-zhejiang-9f39ff4631",
         "flavor-zhejiang-a1e8193b8b",
-        "flavor-zhejiang-5a12ff0716"
+        "flavor-zhejiang-5a12ff0716",
+        "county-cc418f87577467"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9317,7 +9712,10 @@
       "name": "诸暨市",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-75dc780016"
+        "flavor-zhejiang-75dc780016",
+        "county-107c44bcda7f28",
+        "county-8120694dcb176f",
+        "county-6f5cfe71a1e5df"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9331,7 +9729,9 @@
       "level": "county",
       "entryIds": [
         "flavor-zhejiang-8ad58bbea0",
-        "regional-d21561c3928cab"
+        "regional-d21561c3928cab",
+        "county-6d83b971b28779",
+        "county-033de905926910"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9362,7 +9762,14 @@
         "county-zhejiang-51f21c1e29",
         "county-zhejiang-3f026c8ab0",
         "regional-892bbcea57b99b",
-        "regional-68b4be8025304b"
+        "regional-68b4be8025304b",
+        "county-1ea5c4acc36720",
+        "county-8d6773813fe342",
+        "county-b07b32b9272620",
+        "county-b7e0867cf491cf",
+        "county-c2fae9573e966f",
+        "county-02f749891d42a6",
+        "county-30271f64fc9b63"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9384,9 +9791,11 @@
       "city": "金华",
       "name": "金东区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-1ea5c4acc36720"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330700
     },
     {
@@ -9396,7 +9805,8 @@
       "name": "武义县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-12af55825d"
+        "flavor-zhejiang-12af55825d",
+        "county-c2fae9573e966f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9411,7 +9821,8 @@
       "entryIds": [
         "flavor-zhejiang-2944fdf741",
         "flavor-zhejiang-a1a484e9b6",
-        "regional-892bbcea57b99b"
+        "regional-892bbcea57b99b",
+        "county-b7e0867cf491cf"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9424,7 +9835,9 @@
       "name": "磐安县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-af02039c34"
+        "flavor-zhejiang-af02039c34",
+        "county-02f749891d42a6",
+        "county-30271f64fc9b63"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9453,9 +9866,11 @@
       "city": "金华",
       "name": "义乌市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b07b32b9272620"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330700
     },
     {
@@ -9465,7 +9880,8 @@
       "name": "东阳市",
       "level": "county",
       "entryIds": [
-        "regional-68b4be8025304b"
+        "regional-68b4be8025304b",
+        "county-8d6773813fe342"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9511,7 +9927,11 @@
         "county-zhejiang-73e46a304b",
         "regional-b71b629407c335",
         "regional-fe04431310d3c6",
-        "regional-8af0d67492d045"
+        "regional-8af0d67492d045",
+        "county-1b0325affb1032",
+        "county-10452abda324b1",
+        "county-48d675976f47ea",
+        "county-0bdee5a3bb5b3b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9534,11 +9954,21 @@
       "name": "衢江区",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-cfbb32e120"
+        "flavor-zhejiang-cfbb32e120",
+        "county-1b0325affb1032"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 330800
+      "parentAdcode": 330800,
+      "searchEvidence": [
+        {
+          "query": "浙江 江山 常山 衢江 地方菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch10"
+        }
+      ]
     },
     {
       "adcode": 330822,
@@ -9547,11 +9977,21 @@
       "name": "常山县",
       "level": "county",
       "entryIds": [
-        "regional-b71b629407c335"
+        "regional-b71b629407c335",
+        "county-48d675976f47ea"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 330800
+      "parentAdcode": 330800,
+      "searchEvidence": [
+        {
+          "query": "浙江 江山 常山 衢江 地方菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch10"
+        }
+      ]
     },
     {
       "adcode": 330824,
@@ -9565,7 +10005,8 @@
         "flavor-zhejiang-fa8d963e08",
         "flavor-zhejiang-a9245a8ba8",
         "flavor-zhejiang-51986085ae",
-        "regional-fe04431310d3c6"
+        "regional-fe04431310d3c6",
+        "county-0bdee5a3bb5b3b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9597,11 +10038,21 @@
       "level": "county",
       "entryIds": [
         "flavor-zhejiang-9e84031bde",
-        "regional-8af0d67492d045"
+        "regional-8af0d67492d045",
+        "county-10452abda324b1"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 330800
+      "parentAdcode": 330800,
+      "searchEvidence": [
+        {
+          "query": "浙江 江山 常山 衢江 地方菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch10"
+        }
+      ]
     },
     {
       "adcode": 330900,
@@ -9621,7 +10072,10 @@
         "flavor-zhejiang-8f9837c665",
         "flavor-zhejiang-ef91bb83b4",
         "flavor-zhejiang-8960793cfc",
-        "regional-971e62df8ec86b"
+        "regional-971e62df8ec86b",
+        "county-54f1e107445f13",
+        "county-a49acd4d929bb5",
+        "county-6f00f242ded977"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9645,9 +10099,11 @@
       "city": "舟山",
       "name": "普陀区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-54f1e107445f13"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 330900
     },
     {
@@ -9658,7 +10114,8 @@
       "level": "county",
       "entryIds": [
         "flavor-zhejiang-8f9837c665",
-        "flavor-zhejiang-ef91bb83b4"
+        "flavor-zhejiang-ef91bb83b4",
+        "county-a49acd4d929bb5"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9671,7 +10128,8 @@
       "name": "嵊泗县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-4c5aedc69c"
+        "flavor-zhejiang-4c5aedc69c",
+        "county-6f00f242ded977"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9699,7 +10157,17 @@
         "county-zhejiang-2256d7eaaa",
         "regional-0f9a12585365c8",
         "regional-ee4132cfe1d6d2",
-        "regional-18095277561b47"
+        "regional-18095277561b47",
+        "county-997eb2829a5203",
+        "county-7c5881ed0f1e83",
+        "county-3d3f1733b7fa22",
+        "county-8c61f8b90934fc",
+        "county-4b0aed0268cddf",
+        "county-e544e611fe8709",
+        "county-a2400dd1f4bbfd",
+        "county-10b27f4d048962",
+        "county-202abc83b24ced",
+        "county-3ebcae7a657306"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9710,9 +10178,11 @@
       "city": "台州",
       "name": "椒江区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-997eb2829a5203"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 331000
     },
     {
@@ -9721,9 +10191,13 @@
       "city": "台州",
       "name": "黄岩区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-7c5881ed0f1e83",
+        "county-e544e611fe8709",
+        "county-a2400dd1f4bbfd"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 331000
     },
     {
@@ -9732,9 +10206,11 @@
       "city": "台州",
       "name": "路桥区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-3d3f1733b7fa22"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 331000
     },
     {
@@ -9745,7 +10221,8 @@
       "level": "county",
       "entryIds": [
         "flavor-zhejiang-68e1cc0e06",
-        "flavor-zhejiang-3c655b5894"
+        "flavor-zhejiang-3c655b5894",
+        "county-3ebcae7a657306"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9776,7 +10253,8 @@
       "entryIds": [
         "flavor-zhejiang-a23181ee18",
         "regional-0f9a12585365c8",
-        "regional-18095277561b47"
+        "regional-18095277561b47",
+        "county-4b0aed0268cddf"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9789,7 +10267,8 @@
       "name": "温岭市",
       "level": "county",
       "entryIds": [
-        "zj-guming"
+        "zj-guming",
+        "county-10b27f4d048962"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9804,7 +10283,8 @@
       "entryIds": [
         "flavor-zhejiang-6599354056",
         "county-zhejiang-2256d7eaaa",
-        "regional-ee4132cfe1d6d2"
+        "regional-ee4132cfe1d6d2",
+        "county-8c61f8b90934fc"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9816,9 +10296,11 @@
       "city": "台州",
       "name": "玉环市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-202abc83b24ced"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 331000
     },
     {
@@ -9842,7 +10324,14 @@
         "regional-38c9295a3cac60",
         "regional-1388049da47a20",
         "regional-190bfc567074bf",
-        "regional-ef65a49943ef4d"
+        "regional-ef65a49943ef4d",
+        "county-1597178be55d93",
+        "county-33005d6867555b",
+        "county-91588bb765e7be",
+        "county-1557668417b4da",
+        "county-c815759f381465",
+        "county-722133bf972660",
+        "county-671f68524ee22e"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -9868,7 +10357,8 @@
       "name": "青田县",
       "level": "county",
       "entryIds": [
-        "regional-190bfc567074bf"
+        "regional-190bfc567074bf",
+        "county-33005d6867555b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9883,7 +10373,8 @@
       "entryIds": [
         "zj-jinyun-shaobing",
         "zj-jinyun-nanxiang",
-        "flavor-zhejiang-642bb5b8d3"
+        "flavor-zhejiang-642bb5b8d3",
+        "county-671f68524ee22e"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9896,7 +10387,8 @@
       "name": "遂昌县",
       "level": "county",
       "entryIds": [
-        "flavor-zhejiang-a2141f51ce"
+        "flavor-zhejiang-a2141f51ce",
+        "county-c815759f381465"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9921,9 +10413,11 @@
       "city": "丽水",
       "name": "云和县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-91588bb765e7be"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 331100
     },
     {
@@ -9935,7 +10429,9 @@
       "entryIds": [
         "flavor-zhejiang-0dc6882641",
         "flavor-zhejiang-70490da46b",
-        "regional-38c9295a3cac60"
+        "regional-38c9295a3cac60",
+        "county-1557668417b4da",
+        "county-722133bf972660"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -9963,7 +10459,8 @@
       "level": "county",
       "entryIds": [
         "regional-1388049da47a20",
-        "regional-ef65a49943ef4d"
+        "regional-ef65a49943ef4d",
+        "county-1597178be55d93"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -10014,7 +10511,16 @@
         "regional-ef32c853822392"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "site.shanghai.gov.cn 生煎 包 上海",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "githubLeadCheck1"
+        }
+      ]
     },
     {
       "adcode": 310101,
@@ -13518,8 +14024,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 411400
+      "status": "search-leads-pending-review",
+      "parentAdcode": 411400,
+      "searchEvidence": [
+        {
+          "query": "河南 民权 宁陵 睢县 地方特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch9"
+        }
+      ]
     },
     {
       "adcode": 411422,
@@ -13540,8 +14055,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 411400
+      "status": "search-leads-pending-review",
+      "parentAdcode": 411400,
+      "searchEvidence": [
+        {
+          "query": "河南 民权 宁陵 睢县 地方特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch9"
+        }
+      ]
     },
     {
       "adcode": 411424,
@@ -16110,10 +16634,37 @@
         "regional-352f36d07a3cf8",
         "regional-e67d5b3ef6af59",
         "regional-51ddd8b3ce9449",
-        "regional-83ecfc7a3fb86f"
+        "regional-83ecfc7a3fb86f",
+        "county-ffe20ead7f222e",
+        "county-c1c5839872ce01",
+        "county-f551974f43df23",
+        "county-9a00f4b8d2e48c",
+        "county-7a77226421ba82",
+        "county-185e4941dd99ce",
+        "county-7f8f1958b842aa",
+        "county-49fdfcd4c344cf",
+        "county-77b6da3eef9e56",
+        "county-0af69a32a81591",
+        "county-b67f063e88a4a7",
+        "county-676e5e525d77b9",
+        "county-fec7f769f33353",
+        "county-fd417b5c77188f",
+        "county-edabc4e6d739a5",
+        "county-e620e4dac8d7a0",
+        "county-0bc30b3a705093",
+        "county-7eac3fb3ea6a8f"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "site.hunan.gov.cn 长沙 糖油粑粑 小炒黄牛肉",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "githubLeadCheck0"
+        }
+      ]
     },
     {
       "adcode": 430102,
@@ -16176,9 +16727,11 @@
       "city": "长沙",
       "name": "望城区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-7a77226421ba82"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430100
     },
     {
@@ -16189,8 +16742,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 430100
+      "status": "search-leads-pending-review",
+      "parentAdcode": 430100,
+      "searchEvidence": [
+        {
+          "query": "site.hunan.gov.cn 长沙 糖油粑粑 小炒黄牛肉",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "githubLeadCheck0"
+        }
+      ]
     },
     {
       "adcode": 430181,
@@ -16200,7 +16762,10 @@
       "level": "county",
       "entryIds": [
         "regional-e67d5b3ef6af59",
-        "regional-83ecfc7a3fb86f"
+        "regional-83ecfc7a3fb86f",
+        "county-ffe20ead7f222e",
+        "county-f551974f43df23",
+        "county-9a00f4b8d2e48c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16213,7 +16778,9 @@
       "name": "宁乡市",
       "level": "county",
       "entryIds": [
-        "regional-352f36d07a3cf8"
+        "regional-352f36d07a3cf8",
+        "county-c1c5839872ce01",
+        "county-7f8f1958b842aa"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16232,7 +16799,15 @@
         "flavor-hunan-e5aa01b73e",
         "regional-4827b70998402d",
         "regional-6b442f2699b85d",
-        "regional-e03f2ea85f4267"
+        "regional-e03f2ea85f4267",
+        "county-67f4d101f8575d",
+        "county-5afbecbf39742d",
+        "county-2bfba780b605ae",
+        "county-ca9869f8c10282",
+        "county-250705a0f00cf1",
+        "county-6f50d3fe29eb69",
+        "county-1c2d61d9af4955",
+        "county-384dc090f1f5db"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16287,9 +16862,12 @@
       "city": "株洲",
       "name": "渌口区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-2bfba780b605ae",
+        "county-ca9869f8c10282"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430200
     },
     {
@@ -16298,9 +16876,12 @@
       "city": "株洲",
       "name": "攸县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-67f4d101f8575d",
+        "county-6f50d3fe29eb69"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430200
     },
     {
@@ -16310,7 +16891,11 @@
       "name": "茶陵县",
       "level": "county",
       "entryIds": [
-        "regional-4827b70998402d"
+        "regional-4827b70998402d",
+        "county-5afbecbf39742d",
+        "county-250705a0f00cf1",
+        "county-1c2d61d9af4955",
+        "county-384dc090f1f5db"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16353,7 +16938,11 @@
         "flavor-hunan-383b6419e6",
         "flavor-hunan-4de4dd48b5",
         "flavor-hunan-50b29aaed3",
-        "regional-d0fa6a9910c847"
+        "regional-d0fa6a9910c847",
+        "county-59ae0560464bb7",
+        "county-b6ec5e42d536cf",
+        "county-006aeff3592ae1",
+        "county-33138e8de62af5"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16387,7 +16976,8 @@
       "name": "湘潭县",
       "level": "county",
       "entryIds": [
-        "regional-d0fa6a9910c847"
+        "regional-d0fa6a9910c847",
+        "county-33138e8de62af5"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16399,9 +16989,12 @@
       "city": "湘潭",
       "name": "湘乡市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b6ec5e42d536cf",
+        "county-006aeff3592ae1"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430300
     },
     {
@@ -16428,7 +17021,12 @@
         "flavor-hunan-955293dd6a",
         "regional-35edac27619633",
         "regional-9b21f9198956c0",
-        "regional-71da4af6d074ae"
+        "regional-71da4af6d074ae",
+        "county-56603fe1fff058",
+        "county-731b004b891c0f",
+        "county-13e1865d2acb4a",
+        "county-e261bdeb8613f5",
+        "county-95f0d81be1415b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16494,9 +17092,11 @@
       "city": "衡阳",
       "name": "衡阳县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-e261bdeb8613f5"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430400
     },
     {
@@ -16527,9 +17127,11 @@
       "city": "衡阳",
       "name": "衡东县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-56603fe1fff058"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430400
     },
     {
@@ -16540,7 +17142,8 @@
       "level": "county",
       "entryIds": [
         "regional-9b21f9198956c0",
-        "regional-71da4af6d074ae"
+        "regional-71da4af6d074ae",
+        "county-13e1865d2acb4a"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16564,7 +17167,8 @@
       "name": "常宁市",
       "level": "county",
       "entryIds": [
-        "regional-35edac27619633"
+        "regional-35edac27619633",
+        "county-731b004b891c0f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16586,7 +17190,10 @@
         "regional-aad7f3a34e3005",
         "regional-2ebf10733dadae",
         "regional-2df8e8e0385ac6",
-        "regional-bd1ee87e9829aa"
+        "regional-bd1ee87e9829aa",
+        "county-639faa96e789b2",
+        "county-f17d5cdb8dd0e3",
+        "county-ba5c57c7dd0a1b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16702,9 +17309,12 @@
       "city": "邵阳",
       "name": "城步苗族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-f17d5cdb8dd0e3",
+        "county-ba5c57c7dd0a1b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430500
     },
     {
@@ -16724,9 +17334,11 @@
       "city": "邵阳",
       "name": "邵东市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-639faa96e789b2"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430500
     },
     {
@@ -16740,7 +17352,26 @@
         "flavor-hunan-2bc947844d",
         "flavor-hunan-b52d9e72d4",
         "regional-3ce123e32bb275",
-        "regional-2edc8750743e5c"
+        "regional-2edc8750743e5c",
+        "county-e4d81a854bb522",
+        "county-c78f9dac974604",
+        "county-effe88a3774209",
+        "county-5eed30037be260",
+        "county-b402fa52dbbd5d",
+        "county-46db3990b61103",
+        "county-aee3ec24957fe4",
+        "county-2c13b482296b03",
+        "county-e8ca7f715170e7",
+        "county-f513f8fa81fce9",
+        "county-9cf6f189ce8a5f",
+        "county-35414ffa0f51d2",
+        "county-54c0ffe5d690c0",
+        "county-101274c12465a3",
+        "county-9ec12e4352d920",
+        "county-76b179941163d4",
+        "county-f4b44ff7baa8a6",
+        "county-e150cb2439ac02",
+        "county-ac1bf3d08d1dc3"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16773,9 +17404,14 @@
       "city": "岳阳",
       "name": "君山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-e4d81a854bb522",
+        "county-aee3ec24957fe4",
+        "county-2c13b482296b03",
+        "county-35414ffa0f51d2"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430600
     },
     {
@@ -16808,9 +17444,12 @@
       "city": "岳阳",
       "name": "湘阴县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-c78f9dac974604",
+        "county-46db3990b61103"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430600
     },
     {
@@ -16819,9 +17458,12 @@
       "city": "岳阳",
       "name": "平江县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-f513f8fa81fce9",
+        "county-f4b44ff7baa8a6"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430600
     },
     {
@@ -16830,9 +17472,11 @@
       "city": "岳阳",
       "name": "汨罗市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-54c0ffe5d690c0"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430600
     },
     {
@@ -16842,7 +17486,9 @@
       "name": "临湘市",
       "level": "county",
       "entryIds": [
-        "regional-2edc8750743e5c"
+        "regional-2edc8750743e5c",
+        "county-101274c12465a3",
+        "county-9ec12e4352d920"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16859,7 +17505,20 @@
         "flavor-hunan-5ca42eb9b7",
         "flavor-hunan-12bc4967cd",
         "regional-40e0cde3490764",
-        "regional-e299de26e0ed98"
+        "regional-e299de26e0ed98",
+        "county-d93453565c6ff1",
+        "county-fbd93b2464f473",
+        "county-3ff981d4d3d8bc",
+        "county-e01c10a6acd691",
+        "county-4ce399fd5267c3",
+        "county-ffa7dbeadcad3a",
+        "county-574f31672350df",
+        "county-036d1676959207",
+        "county-84f76a019d82d1",
+        "county-f5ebb346126dff",
+        "county-98f4844811c327",
+        "county-cfa9d42fbad474",
+        "county-ee8ab275a7bfe8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -16870,9 +17529,11 @@
       "city": "常德",
       "name": "武陵区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ee8ab275a7bfe8"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16881,9 +17542,11 @@
       "city": "常德",
       "name": "鼎城区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-d93453565c6ff1"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16904,7 +17567,8 @@
       "name": "汉寿县",
       "level": "county",
       "entryIds": [
-        "regional-e299de26e0ed98"
+        "regional-e299de26e0ed98",
+        "county-4ce399fd5267c3"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16916,9 +17580,13 @@
       "city": "常德",
       "name": "澧县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-036d1676959207",
+        "county-84f76a019d82d1",
+        "county-f5ebb346126dff"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16927,9 +17595,12 @@
       "city": "常德",
       "name": "临澧县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-036d1676959207",
+        "county-84f76a019d82d1"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16938,9 +17609,11 @@
       "city": "常德",
       "name": "桃源县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-98f4844811c327"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16950,7 +17623,10 @@
       "name": "石门县",
       "level": "county",
       "entryIds": [
-        "regional-40e0cde3490764"
+        "regional-40e0cde3490764",
+        "county-ffa7dbeadcad3a",
+        "county-574f31672350df",
+        "county-cfa9d42fbad474"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -16962,9 +17638,11 @@
       "city": "常德",
       "name": "津市市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-3ff981d4d3d8bc"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430700
     },
     {
@@ -16979,7 +17657,11 @@
         "flavor-hunan-fa1a3871e9",
         "flavor-hunan-67d9ad0585",
         "regional-326d4778d192cb",
-        "regional-e36e04b12c16d4"
+        "regional-e36e04b12c16d4",
+        "county-04e6f4d914d650",
+        "county-af2d4cac9ce10e",
+        "county-b753358618dfd4",
+        "county-c155738d67947c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17025,7 +17707,10 @@
       "level": "county",
       "entryIds": [
         "regional-326d4778d192cb",
-        "regional-e36e04b12c16d4"
+        "regional-e36e04b12c16d4",
+        "county-af2d4cac9ce10e",
+        "county-b753358618dfd4",
+        "county-c155738d67947c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17044,7 +17729,14 @@
         "flavor-hunan-c4a8800e7b",
         "regional-acb3785f59fcf5",
         "regional-147ab19c66f5da",
-        "regional-562d09cf45b623"
+        "regional-562d09cf45b623",
+        "county-143270dfed3273",
+        "county-481b47d746cf6d",
+        "county-a6d6f7d8f5af9f",
+        "county-179851facea12c",
+        "county-04f183765f2628",
+        "county-6e3428d7dfcd9b",
+        "county-1d7a18af09b02e"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17077,9 +17769,12 @@
       "city": "益阳",
       "name": "南县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-143270dfed3273",
+        "county-481b47d746cf6d"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430900
     },
     {
@@ -17089,7 +17784,9 @@
       "name": "桃江县",
       "level": "county",
       "entryIds": [
-        "regional-147ab19c66f5da"
+        "regional-147ab19c66f5da",
+        "county-04f183765f2628",
+        "county-1d7a18af09b02e"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17101,9 +17798,11 @@
       "city": "益阳",
       "name": "安化县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6e3428d7dfcd9b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 430900
     },
     {
@@ -17130,7 +17829,12 @@
         "flavor-hunan-87f757368b",
         "flavor-hunan-c1feaebd38",
         "flavor-hunan-1e59bfa641",
-        "regional-31583c383b2f63"
+        "regional-31583c383b2f63",
+        "county-55c90a55307b15",
+        "county-2a9c1976283c43",
+        "county-428e5a1bb72f2b",
+        "county-07adf67444d18a",
+        "county-a0fc5ef6899f6b"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17174,9 +17878,11 @@
       "city": "郴州",
       "name": "宜章县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-55c90a55307b15"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431000
     },
     {
@@ -17220,9 +17926,11 @@
       "city": "郴州",
       "name": "汝城县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a0fc5ef6899f6b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431000
     },
     {
@@ -17231,9 +17939,11 @@
       "city": "郴州",
       "name": "桂东县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-428e5a1bb72f2b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431000
     },
     {
@@ -17242,9 +17952,11 @@
       "city": "郴州",
       "name": "安仁县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-07adf67444d18a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431000
     },
     {
@@ -17271,7 +17983,22 @@
         "flavor-hunan-04fd30e2cd",
         "regional-d6f44bb38f0d02",
         "regional-a5d4603aa8fe54",
-        "regional-7ee0754a2be8bb"
+        "regional-7ee0754a2be8bb",
+        "county-ed56235c8379a4",
+        "county-76821d4cfcd9c5",
+        "county-44d723e0d2e5ab",
+        "county-eed011235bf168",
+        "county-e2ab7ac2212013",
+        "county-c36d6a8e89f511",
+        "county-a931535a21b830",
+        "county-d29c6c2e701371",
+        "county-bdcfc2c3777003",
+        "county-b0b1f105d21166",
+        "county-de5b3c0bed930b",
+        "county-ff48fdc08f869c",
+        "county-f87b47dd78a122",
+        "county-9701ac8492f3bf",
+        "county-e1d66508010bf8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17304,10 +18031,22 @@
       "city": "永州",
       "name": "祁阳市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-a931535a21b830",
+        "county-b0b1f105d21166"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 431100
+      "status": "has-sourced-entries",
+      "parentAdcode": 431100,
+      "searchEvidence": [
+        {
+          "query": "湖南 宁远 祁阳 道县 特色小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch3"
+        }
+      ]
     },
     {
       "adcode": 431122,
@@ -17315,9 +18054,11 @@
       "city": "永州",
       "name": "东安县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-e2ab7ac2212013"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17326,9 +18067,12 @@
       "city": "永州",
       "name": "双牌县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ed56235c8379a4",
+        "county-de5b3c0bed930b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17337,9 +18081,11 @@
       "city": "永州",
       "name": "道县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-eed011235bf168"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17351,7 +18097,8 @@
       "entryIds": [
         "regional-d6f44bb38f0d02",
         "regional-a5d4603aa8fe54",
-        "regional-7ee0754a2be8bb"
+        "regional-7ee0754a2be8bb",
+        "county-e1d66508010bf8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17363,10 +18110,21 @@
       "city": "永州",
       "name": "宁远县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ff48fdc08f869c"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 431100
+      "status": "has-sourced-entries",
+      "parentAdcode": 431100,
+      "searchEvidence": [
+        {
+          "query": "湖南 宁远 祁阳 道县 特色小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch3"
+        }
+      ]
     },
     {
       "adcode": 431127,
@@ -17374,9 +18132,12 @@
       "city": "永州",
       "name": "蓝山县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-76821d4cfcd9c5",
+        "county-f87b47dd78a122"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17385,9 +18146,12 @@
       "city": "永州",
       "name": "新田县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-44d723e0d2e5ab",
+        "county-c36d6a8e89f511"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17396,9 +18160,12 @@
       "city": "永州",
       "name": "江华瑶族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-d29c6c2e701371",
+        "county-9701ac8492f3bf"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431100
     },
     {
@@ -17415,7 +18182,15 @@
         "regional-e3f8f425aaa6fb",
         "regional-13fa8d77a06d52",
         "regional-d63de9b97585fc",
-        "regional-a91dee6227f744"
+        "regional-a91dee6227f744",
+        "county-aea5eb12b2d5b2",
+        "county-249b6f55a1fd2c",
+        "county-8935cbbd8194dc",
+        "county-728825dc58132f",
+        "county-8d522af62c4d1a",
+        "county-46f9519a87ba44",
+        "county-4146eaa73aa8d3",
+        "county-979dd4da72b1c4"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17494,9 +18269,12 @@
       "city": "怀化",
       "name": "麻阳苗族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-249b6f55a1fd2c",
+        "county-8935cbbd8194dc"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431200
     },
     {
@@ -17505,9 +18283,11 @@
       "city": "怀化",
       "name": "新晃侗族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-728825dc58132f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431200
     },
     {
@@ -17516,9 +18296,11 @@
       "city": "怀化",
       "name": "芷江侗族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-aea5eb12b2d5b2"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 431200
     },
     {
@@ -17541,7 +18323,9 @@
       "name": "通道侗族自治县",
       "level": "county",
       "entryIds": [
-        "regional-a91dee6227f744"
+        "regional-a91dee6227f744",
+        "county-4146eaa73aa8d3",
+        "county-979dd4da72b1c4"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17554,7 +18338,9 @@
       "name": "洪江市",
       "level": "county",
       "entryIds": [
-        "regional-13fa8d77a06d52"
+        "regional-13fa8d77a06d52",
+        "county-8d522af62c4d1a",
+        "county-46f9519a87ba44"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17572,7 +18358,12 @@
         "flavor-hunan-7a11b008c1",
         "flavor-hunan-550de0cfcd",
         "regional-2a87c68b0de274",
-        "regional-f382ca11ab54a4"
+        "regional-f382ca11ab54a4",
+        "county-4322f0e3838712",
+        "county-3f559e21a19d97",
+        "county-691a77854f90dd",
+        "county-e92793f79649a1",
+        "county-468641d5a31fc2"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17606,7 +18397,11 @@
       "name": "新化县",
       "level": "county",
       "entryIds": [
-        "regional-f382ca11ab54a4"
+        "regional-f382ca11ab54a4",
+        "county-3f559e21a19d97",
+        "county-691a77854f90dd",
+        "county-e92793f79649a1",
+        "county-468641d5a31fc2"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17630,7 +18425,8 @@
       "name": "涟源市",
       "level": "county",
       "entryIds": [
-        "regional-2a87c68b0de274"
+        "regional-2a87c68b0de274",
+        "county-4322f0e3838712"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -17651,7 +18447,19 @@
         "regional-ec1f3b9208a4c4",
         "regional-6a30666160ee7d",
         "regional-ebac629dae8d4d",
-        "regional-a07642129c915b"
+        "regional-a07642129c915b",
+        "county-1850764018454d",
+        "county-599a8e81552c05",
+        "county-a909fd365362e3",
+        "county-11e2ca73bc3a73",
+        "county-7ed67bbe64fdb3",
+        "county-b91de6104e9ccc",
+        "county-e023f135d9ec2e",
+        "county-0a9d1f7b75b5e8",
+        "county-9a57e6d4345ad5",
+        "county-ffff447a2f77e0",
+        "county-871d9f9840488a",
+        "county-ae11653e3b2d28"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -17688,9 +18496,16 @@
       "city": "湘西州",
       "name": "凤凰县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-599a8e81552c05",
+        "county-7ed67bbe64fdb3",
+        "county-b91de6104e9ccc",
+        "county-0a9d1f7b75b5e8",
+        "county-9a57e6d4345ad5",
+        "county-871d9f9840488a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 433100
     },
     {
@@ -17721,9 +18536,11 @@
       "city": "湘西州",
       "name": "古丈县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ffff447a2f77e0"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 433100
     },
     {
@@ -17732,9 +18549,11 @@
       "city": "湘西州",
       "name": "永顺县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-ae11653e3b2d28"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 433100
     },
     {
@@ -17744,7 +18563,10 @@
       "name": "龙山县",
       "level": "county",
       "entryIds": [
-        "regional-ec1f3b9208a4c4"
+        "regional-ec1f3b9208a4c4",
+        "county-1850764018454d",
+        "county-a909fd365362e3",
+        "county-11e2ca73bc3a73"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -18005,7 +18827,8 @@
       "entryIds": [
         "flavor-hubei-d0b1f19356",
         "flavor-hubei-4e3bdb9b8f",
-        "flavor-hubei-5c8be81682"
+        "flavor-hubei-5c8be81682",
+        "county-483abd69a9c458"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -18062,8 +18885,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 420300
+      "status": "search-leads-pending-review",
+      "parentAdcode": 420300,
+      "searchEvidence": [
+        {
+          "query": "湖北 竹溪 竹山 房县 特色菜 蒸盆",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch1"
+        }
+      ]
     },
     {
       "adcode": 420324,
@@ -18071,10 +18903,21 @@
       "city": "十堰",
       "name": "竹溪县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-483abd69a9c458"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 420300
+      "status": "has-sourced-entries",
+      "parentAdcode": 420300,
+      "searchEvidence": [
+        {
+          "query": "湖北 竹溪 竹山 房县 特色菜 蒸盆",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch1"
+        }
+      ]
     },
     {
       "adcode": 420325,
@@ -18439,7 +19282,10 @@
       "entryIds": [
         "flavor-hubei-343330fb68",
         "flavor-hubei-240733fd7c",
-        "flavor-hubei-8ba725b6b2"
+        "flavor-hubei-8ba725b6b2",
+        "county-0aaad26c30fc2c",
+        "county-024f3a3519c3de",
+        "county-71e4fb8a3580a1"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -18474,8 +19320,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 420800
+      "status": "search-leads-pending-review",
+      "parentAdcode": 420800,
+      "searchEvidence": [
+        {
+          "query": "湖北 钟祥 沙洋 地方美食 蟠龙菜",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch2"
+        }
+      ]
     },
     {
       "adcode": 420881,
@@ -18483,10 +19338,23 @@
       "city": "荆门",
       "name": "钟祥市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-0aaad26c30fc2c",
+        "county-024f3a3519c3de",
+        "county-71e4fb8a3580a1"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 420800
+      "status": "has-sourced-entries",
+      "parentAdcode": 420800,
+      "searchEvidence": [
+        {
+          "query": "湖北 钟祥 沙洋 地方美食 蟠龙菜",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch2"
+        }
+      ]
     },
     {
       "adcode": 420882,
@@ -18712,7 +19580,17 @@
         "regional-825c414b70f038",
         "regional-d7013774a3f923",
         "regional-ce1c48721008b6",
-        "regional-01e5d98cfcbe04"
+        "regional-01e5d98cfcbe04",
+        "county-dd0cbe1d6d2e3b",
+        "county-c55a0e36618971",
+        "county-342a82bc9efaf1",
+        "county-b0bbb80dd617d6",
+        "county-6b497f77464aff",
+        "county-a9efae12105705",
+        "county-40069121f8c26d",
+        "county-60034b1f62831d",
+        "county-20a09bc7ed1ad8",
+        "county-1b107e13413af0"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -18759,10 +19637,30 @@
       "city": "黄冈",
       "name": "罗田县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-dd0cbe1d6d2e3b",
+        "county-c55a0e36618971",
+        "county-342a82bc9efaf1",
+        "county-b0bbb80dd617d6",
+        "county-6b497f77464aff",
+        "county-a9efae12105705",
+        "county-40069121f8c26d",
+        "county-60034b1f62831d",
+        "county-20a09bc7ed1ad8",
+        "county-1b107e13413af0"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 421100
+      "status": "has-sourced-entries",
+      "parentAdcode": 421100,
+      "searchEvidence": [
+        {
+          "query": "湖北 罗田 英山 地方小吃 吊锅 汽水粑",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch0"
+        }
+      ]
     },
     {
       "adcode": 421124,
@@ -18772,8 +19670,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 421100
+      "status": "search-leads-pending-review",
+      "parentAdcode": 421100,
+      "searchEvidence": [
+        {
+          "query": "湖北 罗田 英山 地方小吃 吊锅 汽水粑",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch0"
+        }
+      ]
     },
     {
       "adcode": 421125,
@@ -20017,7 +20924,17 @@
         "regional-3496771da2b438",
         "regional-8f1ffdaa9bf26f",
         "regional-cb2a783b179df6",
-        "regional-e3f580e0939053"
+        "regional-e3f580e0939053",
+        "county-5a354b0c6ca1b8",
+        "county-e7b0a39555caea",
+        "county-da1aef46f573ac",
+        "county-a9bef558990301",
+        "county-7f3323238ec96f",
+        "county-83969970d78304",
+        "county-988ea03988f300",
+        "county-8fcdf6f6ccd42b",
+        "county-d404bdd876f2ae",
+        "county-431ebe9cbd5012"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20028,9 +20945,11 @@
       "city": "龙岩",
       "name": "新罗区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-d404bdd876f2ae"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 350800
     },
     {
@@ -20039,9 +20958,11 @@
       "city": "龙岩",
       "name": "永定区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-8fcdf6f6ccd42b"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 350800
     },
     {
@@ -20051,11 +20972,22 @@
       "name": "长汀县",
       "level": "county",
       "entryIds": [
-        "regional-3496771da2b438"
+        "regional-3496771da2b438",
+        "county-da1aef46f573ac",
+        "county-a9bef558990301"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 350800
+      "parentAdcode": 350800,
+      "searchEvidence": [
+        {
+          "query": "福建 连城 长汀 武平 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch4"
+        }
+      ]
     },
     {
       "adcode": 350823,
@@ -20064,7 +20996,10 @@
       "name": "上杭县",
       "level": "county",
       "entryIds": [
-        "regional-cb2a783b179df6"
+        "regional-cb2a783b179df6",
+        "county-7f3323238ec96f",
+        "county-83969970d78304",
+        "county-988ea03988f300"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20077,11 +21012,21 @@
       "name": "武平县",
       "level": "county",
       "entryIds": [
-        "regional-e3f580e0939053"
+        "regional-e3f580e0939053",
+        "county-5a354b0c6ca1b8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 350800
+      "parentAdcode": 350800,
+      "searchEvidence": [
+        {
+          "query": "福建 连城 长汀 武平 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch4"
+        }
+      ]
     },
     {
       "adcode": 350825,
@@ -20090,11 +21035,21 @@
       "name": "连城县",
       "level": "county",
       "entryIds": [
-        "regional-8f1ffdaa9bf26f"
+        "regional-8f1ffdaa9bf26f",
+        "county-e7b0a39555caea"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 350800
+      "parentAdcode": 350800,
+      "searchEvidence": [
+        {
+          "query": "福建 连城 长汀 武平 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch4"
+        }
+      ]
     },
     {
       "adcode": 350881,
@@ -20102,9 +21057,11 @@
       "city": "龙岩",
       "name": "漳平市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-431ebe9cbd5012"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 350800
     },
     {
@@ -20237,7 +21194,22 @@
         "flavor-liaoning-b5ef4c2758",
         "regional-4a6d9ca49756c4",
         "regional-9024b8d3784768",
-        "regional-8198ebb5e88eda"
+        "regional-8198ebb5e88eda",
+        "county-d1074e0fefa062",
+        "county-088efa6a21f875",
+        "county-bffe8429232755",
+        "county-c60e50e1e3537f",
+        "county-cb2c8aa41fb21d",
+        "county-878be912eb0007",
+        "county-def941d88de05a",
+        "county-5a2114c99953e4",
+        "county-8e5a2202bcf936",
+        "county-055ccb795b24d9",
+        "county-6d0877c2504d86",
+        "county-c718236742df53",
+        "county-aa1088f0c8ddc5",
+        "county-86250d7c412fee",
+        "county-ff1730c555c93f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20270,9 +21242,11 @@
       "city": "沈阳",
       "name": "大东区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-c718236742df53"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20303,9 +21277,11 @@
       "city": "沈阳",
       "name": "苏家屯区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-86250d7c412fee"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20326,7 +21302,8 @@
       "name": "沈北新区",
       "level": "county",
       "entryIds": [
-        "regional-8198ebb5e88eda"
+        "regional-8198ebb5e88eda",
+        "county-ff1730c555c93f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20338,9 +21315,12 @@
       "city": "沈阳",
       "name": "于洪区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-878be912eb0007",
+        "county-def941d88de05a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20349,9 +21329,11 @@
       "city": "沈阳",
       "name": "辽中区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-055ccb795b24d9"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20362,7 +21344,8 @@
       "level": "county",
       "entryIds": [
         "regional-4a6d9ca49756c4",
-        "regional-9024b8d3784768"
+        "regional-9024b8d3784768",
+        "county-cb2c8aa41fb21d"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20374,9 +21357,11 @@
       "city": "沈阳",
       "name": "法库县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-8e5a2202bcf936"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20385,9 +21370,12 @@
       "city": "沈阳",
       "name": "新民市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-088efa6a21f875",
+        "county-c60e50e1e3537f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210100
     },
     {
@@ -20408,7 +21396,31 @@
         "regional-0afd5bdba1dbb6",
         "regional-78e9fb7c2bb1fa",
         "regional-8f9bc8a72cc728",
-        "regional-d36d11670a84e9"
+        "regional-d36d11670a84e9",
+        "county-dca4a43db79d77",
+        "county-e025960b2f03e6",
+        "county-555692eef9d2bc",
+        "county-fb44a848d64a4b",
+        "county-f33824739f15cf",
+        "county-1f52f26b7c5419",
+        "county-705cb3fa223fc1",
+        "county-cae423ce896fa1",
+        "county-f8faf4056108a7",
+        "county-5f1d6b7631f7a3",
+        "county-8bd4c21548153e",
+        "county-40d29fbaee9122",
+        "county-6c4dec34026942",
+        "county-15133dffc048ee",
+        "county-0154236207b3e9",
+        "county-17283be65532e5",
+        "county-bcbfff8e896334",
+        "county-bf12bfc120c702",
+        "county-6da29bc812d86f",
+        "county-da3b244742b47c",
+        "county-bc076dfc8b0492",
+        "county-1520e15c6c0dce",
+        "county-91bda3884ffe15",
+        "county-2ede518e774ceb"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20419,9 +21431,11 @@
       "city": "大连",
       "name": "中山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-8bd4c21548153e"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210200
     },
     {
@@ -20452,9 +21466,11 @@
       "city": "大连",
       "name": "甘井子区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6da29bc812d86f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210200
     },
     {
@@ -20485,9 +21501,11 @@
       "city": "大连",
       "name": "普兰店区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-40d29fbaee9122"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210200
     },
     {
@@ -20496,9 +21514,11 @@
       "city": "大连",
       "name": "长海县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-17283be65532e5"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210200
     },
     {
@@ -20509,7 +21529,9 @@
       "level": "county",
       "entryIds": [
         "regional-6b00c70f08b934",
-        "regional-8f9bc8a72cc728"
+        "regional-8f9bc8a72cc728",
+        "county-6c4dec34026942",
+        "county-2ede518e774ceb"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20523,7 +21545,9 @@
       "level": "county",
       "entryIds": [
         "regional-0afd5bdba1dbb6",
-        "regional-78e9fb7c2bb1fa"
+        "regional-78e9fb7c2bb1fa",
+        "county-15133dffc048ee",
+        "county-0154236207b3e9"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20640,7 +21664,12 @@
         "flavor-liaoning-c61e7a0611",
         "regional-0d2d570955a192",
         "regional-d858632b585ba1",
-        "regional-f266ff28f2a831"
+        "regional-f266ff28f2a831",
+        "county-2d195a90f0f5e6",
+        "county-b4af8c5d28af2a",
+        "county-c069debfc00acc",
+        "county-0ba43fdaabdf6f",
+        "county-3e4e0abaddac73"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20708,7 +21737,8 @@
       "level": "county",
       "entryIds": [
         "regional-0d2d570955a192",
-        "regional-f266ff28f2a831"
+        "regional-f266ff28f2a831",
+        "county-0ba43fdaabdf6f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20832,7 +21862,25 @@
         "regional-97d95de93bc6a6",
         "regional-fb62f1746b6740",
         "regional-3774e7d8b2f604",
-        "regional-fcc0b5dd7249bf"
+        "regional-fcc0b5dd7249bf",
+        "county-c8b8c9e0894717",
+        "county-2de9d0134573c6",
+        "county-05dfd97482e19b",
+        "county-c599f4bc9854f4",
+        "county-ca9a190462ef98",
+        "county-7b90106d481607",
+        "county-62aae8979de4d5",
+        "county-56caf1005d5c97",
+        "county-7c49133f727227",
+        "county-e541c5560a2b15",
+        "county-8a6ffc056bcad6",
+        "county-0c1808dd3cb9d1",
+        "county-29aa1cf4f54202",
+        "county-414855966f79fe",
+        "county-5d0bb924d07c14",
+        "county-065197fa56f192",
+        "county-b0651181d6f13f",
+        "county-7ffd5fc82e83d8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20876,9 +21924,14 @@
       "city": "丹东",
       "name": "宽甸满族自治县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-8a6ffc056bcad6",
+        "county-0c1808dd3cb9d1",
+        "county-29aa1cf4f54202",
+        "county-414855966f79fe"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 210600
     },
     {
@@ -20892,7 +21945,12 @@
         "regional-7c71457823628b",
         "regional-1744fe3ed90e6c",
         "regional-97d95de93bc6a6",
-        "regional-fb62f1746b6740"
+        "regional-fb62f1746b6740",
+        "county-62aae8979de4d5",
+        "county-56caf1005d5c97",
+        "county-7c49133f727227",
+        "county-e541c5560a2b15",
+        "county-b0651181d6f13f"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20907,7 +21965,9 @@
       "entryIds": [
         "regional-455f9655827188",
         "regional-3774e7d8b2f604",
-        "regional-fcc0b5dd7249bf"
+        "regional-fcc0b5dd7249bf",
+        "county-5d0bb924d07c14",
+        "county-7ffd5fc82e83d8"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -20927,7 +21987,14 @@
         "regional-73c3f318afa5c0",
         "regional-2ea3e47c3d078b",
         "regional-b5a4970a48159f",
-        "regional-22994514688e63"
+        "regional-22994514688e63",
+        "county-e44114b7b3bef6",
+        "county-6e162b27172d3e",
+        "county-5a6d9dc4911934",
+        "county-97641a51308d92",
+        "county-62ad8332aaad1a",
+        "county-3ec6604fc9a08b",
+        "county-bc08c9ea85d382"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -20985,7 +22052,9 @@
       "name": "义县",
       "level": "county",
       "entryIds": [
-        "regional-73c3f318afa5c0"
+        "regional-73c3f318afa5c0",
+        "county-5a6d9dc4911934",
+        "county-97641a51308d92"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -21009,7 +22078,9 @@
       "name": "北镇市",
       "level": "county",
       "entryIds": [
-        "regional-2ea3e47c3d078b"
+        "regional-2ea3e47c3d078b",
+        "county-6e162b27172d3e",
+        "county-bc08c9ea85d382"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -21123,10 +22194,21 @@
         "regional-ca90d4d9218b1f",
         "regional-1f0be24d64c059",
         "regional-256615cf9a8b6f",
-        "regional-ff8b370efe37c3"
+        "regional-ff8b370efe37c3",
+        "county-3b5b200d5153da",
+        "county-f4c2a1f1aff174"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch8"
+        }
+      ]
     },
     {
       "adcode": 210902,
@@ -21191,8 +22273,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 210900
+      "status": "search-leads-pending-review",
+      "parentAdcode": 210900,
+      "searchEvidence": [
+        {
+          "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch8"
+        }
+      ]
     },
     {
       "adcode": 210922,
@@ -21203,11 +22294,22 @@
       "entryIds": [
         "regional-ca90d4d9218b1f",
         "regional-1f0be24d64c059",
-        "regional-256615cf9a8b6f"
+        "regional-256615cf9a8b6f",
+        "county-3b5b200d5153da",
+        "county-f4c2a1f1aff174"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 210900
+      "parentAdcode": 210900,
+      "searchEvidence": [
+        {
+          "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch8"
+        }
+      ]
     },
     {
       "adcode": 211000,
@@ -21221,10 +22323,31 @@
         "flavor-liaoning-86d6f4748f",
         "regional-bbad1ccf4af0c2",
         "regional-86c15ed0fdcd9b",
-        "regional-2484250d66c649"
+        "regional-2484250d66c649",
+        "county-6469c96e074f8e",
+        "county-b1a3dabf7e72fc",
+        "county-57643fa936051f",
+        "county-b1a94ff3463f44",
+        "county-90bc0e66a65843",
+        "county-fba7e297ecdd15",
+        "county-1c331c0f7b5254",
+        "county-6ca64647a6a8bd",
+        "county-e25a1e6d679991",
+        "county-80edf024b26f32",
+        "county-11157786f65981",
+        "county-56f90528c9f480"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch5"
+        }
+      ]
     },
     {
       "adcode": 211002,
@@ -21232,9 +22355,12 @@
       "city": "辽阳",
       "name": "白塔区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-6469c96e074f8e",
+        "county-56f90528c9f480"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211000
     },
     {
@@ -21243,9 +22369,12 @@
       "city": "辽阳",
       "name": "文圣区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b1a3dabf7e72fc",
+        "county-57643fa936051f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211000
     },
     {
@@ -21254,9 +22383,11 @@
       "city": "辽阳",
       "name": "宏伟区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-90bc0e66a65843"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211000
     },
     {
@@ -21265,10 +22396,22 @@
       "city": "辽阳",
       "name": "弓长岭区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-80edf024b26f32",
+        "county-11157786f65981"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 211000
+      "status": "has-sourced-entries",
+      "parentAdcode": 211000,
+      "searchEvidence": [
+        {
+          "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch5"
+        }
+      ]
     },
     {
       "adcode": 211011,
@@ -21276,9 +22419,11 @@
       "city": "辽阳",
       "name": "太子河区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-b1a94ff3463f44"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211000
     },
     {
@@ -21287,10 +22432,22 @@
       "city": "辽阳",
       "name": "辽阳县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-fba7e297ecdd15",
+        "county-1c331c0f7b5254"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 211000
+      "status": "has-sourced-entries",
+      "parentAdcode": 211000,
+      "searchEvidence": [
+        {
+          "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch5"
+        }
+      ]
     },
     {
       "adcode": 211081,
@@ -21300,11 +22457,22 @@
       "level": "county",
       "entryIds": [
         "regional-bbad1ccf4af0c2",
-        "regional-86c15ed0fdcd9b"
+        "regional-86c15ed0fdcd9b",
+        "county-6ca64647a6a8bd",
+        "county-e25a1e6d679991"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 211000
+      "parentAdcode": 211000,
+      "searchEvidence": [
+        {
+          "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch5"
+        }
+      ]
     },
     {
       "adcode": 211100,
@@ -21317,7 +22485,18 @@
         "flavor-liaoning-c08296a0dc",
         "flavor-liaoning-97da0f45b7",
         "regional-6cc76a09be029e",
-        "regional-26bceebcead82b"
+        "regional-26bceebcead82b",
+        "county-041ab4ab7e51a0",
+        "county-36f5c5e7faf2f6",
+        "county-c42a8e8c4a6ab2",
+        "county-2e5edbf66c0e27",
+        "county-7afbc79ee966aa",
+        "county-f64b2accc9ded1",
+        "county-6e124e159be8f8",
+        "county-08a37d379b8fa8",
+        "county-04336af0c7918c",
+        "county-22395c52c23be7",
+        "county-75a3ef046fa14d"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -21350,9 +22529,11 @@
       "city": "盘锦",
       "name": "大洼区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-04336af0c7918c"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211100
     },
     {
@@ -21361,9 +22542,11 @@
       "city": "盘锦",
       "name": "盘山县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-75a3ef046fa14d"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211100
     },
     {
@@ -21579,7 +22762,15 @@
         "flavor-liaoning-09f953fc98",
         "regional-fa30fd4b6b8edb",
         "regional-d15cbae53edbaf",
-        "regional-eddcdac485f2da"
+        "regional-eddcdac485f2da",
+        "county-997825bc567000",
+        "county-3c9cd373e689aa",
+        "county-aeb02e56f97ece",
+        "county-c5271a06442815",
+        "county-1584e5a76c07e0",
+        "county-ad4c32446fb189",
+        "county-2172a67006ca5a",
+        "county-beafa4dff6325a"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -21590,9 +22781,11 @@
       "city": "葫芦岛",
       "name": "连山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-2172a67006ca5a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211400
     },
     {
@@ -21624,7 +22817,8 @@
       "name": "绥中县",
       "level": "county",
       "entryIds": [
-        "regional-d15cbae53edbaf"
+        "regional-d15cbae53edbaf",
+        "county-3c9cd373e689aa"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -21636,9 +22830,13 @@
       "city": "葫芦岛",
       "name": "建昌县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-aeb02e56f97ece",
+        "county-c5271a06442815",
+        "county-beafa4dff6325a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 211400
     },
     {
@@ -21649,7 +22847,9 @@
       "level": "county",
       "entryIds": [
         "regional-fa30fd4b6b8edb",
-        "regional-eddcdac485f2da"
+        "regional-eddcdac485f2da",
+        "county-1584e5a76c07e0",
+        "county-ad4c32446fb189"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
@@ -21830,7 +23030,16 @@
         "regional-406abdc9d8a994"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "吉林 大安 通榆 洮南 特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch6"
+        }
+      ]
     },
     {
       "adcode": 220202,
@@ -22334,7 +23543,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 220700
+      "parentAdcode": 220700,
+      "searchEvidence": [
+        {
+          "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch5"
+        }
+      ]
     },
     {
       "adcode": 220723,
@@ -22380,7 +23598,10 @@
         "regional-1fa9297987c97b",
         "regional-b47ecb18064a1b",
         "regional-84d1e5e5781bb3",
-        "regional-a3c661bfbcd052"
+        "regional-a3c661bfbcd052",
+        "county-b8b8bde190da18",
+        "county-346404bd9468a5",
+        "county-cd69cd868bb6dd"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -22391,9 +23612,11 @@
       "city": "白城",
       "name": "洮北区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-cd69cd868bb6dd"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 220800
     },
     {
@@ -22419,11 +23642,21 @@
       "entryIds": [
         "regional-1b8c170b6d9d32",
         "regional-b47ecb18064a1b",
-        "regional-a3c661bfbcd052"
+        "regional-a3c661bfbcd052",
+        "county-346404bd9468a5"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 220800
+      "parentAdcode": 220800,
+      "searchEvidence": [
+        {
+          "query": "吉林 大安 通榆 洮南 特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch6"
+        }
+      ]
     },
     {
       "adcode": 220881,
@@ -22437,7 +23670,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 220800
+      "parentAdcode": 220800,
+      "searchEvidence": [
+        {
+          "query": "吉林 大安 通榆 洮南 特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch6"
+        }
+      ]
     },
     {
       "adcode": 220882,
@@ -22446,11 +23688,21 @@
       "name": "大安市",
       "level": "county",
       "entryIds": [
-        "regional-84d1e5e5781bb3"
+        "regional-84d1e5e5781bb3",
+        "county-b8b8bde190da18"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 220800
+      "parentAdcode": 220800,
+      "searchEvidence": [
+        {
+          "query": "吉林 大安 通榆 洮南 特色 美食",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch6"
+        }
+      ]
     },
     {
       "adcode": 222400,
@@ -22590,10 +23842,20 @@
         "flavor-heilongjiang-6b70c45cdb",
         "flavor-heilongjiang-ea993acc50",
         "regional-dfb1c3655e0feb",
-        "regional-f0193b94d6a431"
+        "regional-f0193b94d6a431",
+        "county-39afcc6b2cdc09"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "query": "马迭尔 冰棍 哈尔滨 政府",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "githubLeadCheck3"
+        }
+      ]
     },
     {
       "adcode": 230102,
@@ -22601,9 +23863,11 @@
       "city": "哈尔滨",
       "name": "道里区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-39afcc6b2cdc09"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 230100
     },
     {
@@ -22899,8 +24163,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 230200
+      "status": "search-leads-pending-review",
+      "parentAdcode": 230200,
+      "searchEvidence": [
+        {
+          "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch7"
+        }
+      ]
     },
     {
       "adcode": 230223,
@@ -23003,7 +24276,12 @@
         "flavor-heilongjiang-9555f1ab14",
         "flavor-heilongjiang-3645397b35",
         "flavor-heilongjiang-6b261daf79",
-        "regional-068c8f93de118a"
+        "regional-068c8f93de118a",
+        "county-1426adabd237b4",
+        "county-ec38443d371679",
+        "county-5acc7f1b3300f1",
+        "county-70b876dce67f30",
+        "county-b5b4c1134d1968"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -23025,9 +24303,11 @@
       "city": "鸡西",
       "name": "恒山区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-70b876dce67f30"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 230300
     },
     {
@@ -23082,8 +24362,17 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 230300
+      "status": "search-leads-pending-review",
+      "parentAdcode": 230300,
+      "searchEvidence": [
+        {
+          "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch7"
+        }
+      ]
     },
     {
       "adcode": 230381,
@@ -23096,7 +24385,16 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 230300
+      "parentAdcode": 230300,
+      "searchEvidence": [
+        {
+          "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch7"
+        }
+      ]
     },
     {
       "adcode": 230382,
@@ -23104,10 +24402,21 @@
       "city": "鸡西",
       "name": "密山市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "county-1426adabd237b4"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 230300
+      "status": "has-sourced-entries",
+      "parentAdcode": 230300,
+      "searchEvidence": [
+        {
+          "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
+          "checked": "2026-11-14",
+          "status": "search-only-not-comprehensive",
+          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "batch": "countySearch7"
+        }
+      ]
     },
     {
       "adcode": 230400,

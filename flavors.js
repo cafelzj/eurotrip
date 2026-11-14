@@ -26,7 +26,7 @@ window.FlavorPage=(()=>{
  }
  function matches(item,state,ignoreType=false){
   const q=state.q.trim().toLocaleLowerCase();
-  return (state.review==='all'||(item.verificationStatus==='pending'?'pending':'sourced')===state.review)&&(state.city==='all'||item.city===state.city)&&(state.district==='all'||item.district===state.district||item.districts?.includes(state.district))&&(ignoreType||state.type==='all'||item.type===state.type)&&(ignoreType||state.protein==='all'||item.proteins?.includes(state.protein))&&(!q||[item.name,item.city,item.district,item.locality,provinces.get(item.province).name,item.description,item.detail,item.kind,item.brand,item.verificationNote,...(item.proteins||[])].join(' ').toLocaleLowerCase().includes(q));
+  return (state.review==='all'||(item.verificationStatus==='pending'?'pending':'sourced')===state.review)&&(state.city==='all'||item.city===state.city)&&(state.district==='all'||item.district===state.district||item.districts?.includes(state.district))&&(ignoreType||state.type==='all'||item.type===state.type)&&(ignoreType||state.protein==='all'||item.proteins?.includes(state.protein))&&(!q||[item.name,item.city,item.district,item.locality,provinces.get(item.province).name,item.description,item.detail,item.kind,item.brand,item.company,item.verificationNote,...(item.productTypes||[]),...(item.proteins||[])].join(' ').toLocaleLowerCase().includes(q));
  }
  function card(item){
   const type=types.get(item.type),province=provinces.get(item.province);

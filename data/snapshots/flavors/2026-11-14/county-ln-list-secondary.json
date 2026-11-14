@@ -1,0 +1,775 @@
+{
+  "sourceId": "county-20261114-ln-list-secondary",
+  "sourceUrl": "https://www.chacewang.com/newsdetail/news684944.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅采用2024-10-29公示转载中的菜名与地方关联；原政府链接404，未读成原始公告，未将公示称作最终获评。",
+  "evidenceHash": "affc290e19e0bdaaec93694c453b1defe29c6430944bbd14517f18e9c6520272",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-dca4a43db79d77",
+      "name": "大连杂拌鱼",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连杂拌鱼：地标美食公示转载列明的地方鱼菜，记录名称与大连关联，鱼种组合和做法尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e025960b2f03e6",
+      "name": "大连海味全家福",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连海味全家福：公示转载列明的海味组合，以一个菜名记录，不把未列清的海味原料拆卡计数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-555692eef9d2bc",
+      "name": "大连蹄筋烧海参",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连蹄筋烧海参：公示转载列明的蹄筋烧海参，保留菜名中的食材组合，不推定蹄筋的动物来源。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fb44a848d64a4b",
+      "name": "大连海胆豆腐",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连海胆豆腐：公示转载中的海胆豆腐，记录大连地方海味与豆制食品的具名组合。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f33824739f15cf",
+      "name": "大连焖渤海湾刀鱼",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连焖渤海湾刀鱼：公示转载列明的焖鱼菜名，保留渤海湾刀鱼称呼，不将其混同长江刀鲚。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1f52f26b7c5419",
+      "name": "大连滑溜牙片鱼",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连滑溜牙片鱼：公示转载列明的牙片鱼菜式，保存滑溜这一菜名线索，具体物种与调料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-705cb3fa223fc1",
+      "name": "大连红烧海螺",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连红烧海螺：公示转载列明的海螺菜，记录名称与城市关联，不把同类海螺全部视为同一规格。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cae423ce896fa1",
+      "name": "大连海参烧小螺",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连海参烧小螺：公示转载列明的海参与小螺组合，具体螺种和加工方式仍需另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f8faf4056108a7",
+      "name": "大连锅塌大虾",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连锅塌大虾：公示转载列明的锅塌大虾，以地方菜名记录，不依据菜名编造完整菜谱。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5f1d6b7631f7a3",
+      "name": "大连葱烧鱼肚",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连葱烧鱼肚：公示转载列明的葱烧鱼肚，保存菜名与城市关联，鱼肚具体原料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8bd4c21548153e",
+      "name": "中山石锅鲍鱼小土豆",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "中山区",
+      "description": "中山石锅鲍鱼小土豆：公示转载列明的石锅鲍鱼小土豆，以大连中山区保存具体地方关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-40d29fbaee9122",
+      "name": "普兰店炭烧黄蚬",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "普兰店区",
+      "description": "普兰店炭烧黄蚬：公示转载列明的黄蚬菜式，保存普兰店区定位，炭烧工艺仍需进一步原文核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6c4dec34026942",
+      "name": "复州城老式过油肉",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市复州城镇",
+      "description": "复州城老式过油肉：公示转载列明的复州城地方肉菜，与其他省份的过油肉按明确地区分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-15133dffc048ee",
+      "name": "庄河大骨鸡炖蘑菇",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "description": "庄河大骨鸡炖蘑菇：公示转载列明的大骨鸡与蘑菇组合，以庄河县级市保存地方饮食关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0154236207b3e9",
+      "name": "庄河鲶鱼炖茄子",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "庄河市",
+      "description": "庄河鲶鱼炖茄子：公示转载列明的鲶鱼茄子菜式，记录庄河地方餐桌关联，调味与比例不作统一推定。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-17283be65532e5",
+      "name": "长海海参炖鱼",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "长海县",
+      "description": "长海海参炖鱼：公示转载列明的海参炖鱼，以长海县域保存关联，不据菜名指定唯一鱼种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bcbfff8e896334",
+      "name": "大连滑蛋辣炒蟹",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连滑蛋辣炒蟹：公示转载列明的蛋蟹组合，保存菜名与城市关联，不推定蟹种和固定辣度。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bf12bfc120c702",
+      "name": "大连海胆饺子",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连海胆饺子：公示转载列明的海胆饺子，以大连城市关联记录，馅料是否另含肉类仍需逐品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6da29bc812d86f",
+      "name": "小平岛海肠饺子",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市小平岛一带",
+      "description": "小平岛海肠饺子：公示转载列明的海肠饺子，保留小平岛地名，不把所有海鲜饺子合成同一产品。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-da3b244742b47c",
+      "name": "东关街锅贴",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市东关街一带",
+      "description": "东关街锅贴：公示转载列明的东关街锅贴，记录地方街区与食品关联，不推定现售店址。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bc076dfc8b0492",
+      "name": "大连蚬子芸豆面",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连蚬子芸豆面：公示转载列明的蚬子芸豆面，保存海味与豆荚配面的地方组合。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1520e15c6c0dce",
+      "name": "大连海麻线包子",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连海麻线包子：公示转载列明的海麻线包子，海麻线为地方食材称呼，具体物种和配料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-91bda3884ffe15",
+      "name": "大连下锅烂疙瘩汤",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连市相关传承地区",
+      "description": "大连下锅烂疙瘩汤：公示转载列明的疙瘩汤，保留地方名称，具体面团处理和配菜仍待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2ede518e774ceb",
+      "name": "复州城炸薄脆",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "瓦房店市复州城镇",
+      "description": "复州城炸薄脆：公示转载列明的复州城薄脆，保存县镇关联，不推定固定面料比例。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2d195a90f0f5e6",
+      "name": "抚顺永安饺子",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "抚顺市相关传承地区",
+      "description": "抚顺永安饺子：公示转载列明的永安饺子，暂按地方食品名称记录，现行经营主体与地址另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b4af8c5d28af2a",
+      "name": "砖台梨花饼",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "抚顺市砖台一带",
+      "description": "砖台梨花饼：公示转载列明的梨花饼，保留砖台地名，不凭名称推定所有产品都含梨花原料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c069debfc00acc",
+      "name": "萨尔浒鱼头汤",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "萨尔浒一带",
+      "description": "萨尔浒鱼头汤：公示转载列明的鱼头汤，记录萨尔浒地名关联，具体鱼种与汤料还需细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0ba43fdaabdf6f",
+      "name": "新宾羊汤",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "新宾满族自治县",
+      "description": "新宾羊汤：公示转载列明的新宾地方羊汤，保存县域关联，与邻近地区羊汤分别定位。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3e4e0abaddac73",
+      "name": "家炖大伙房胖头鱼",
+      "province": "liaoning",
+      "city": "抚顺",
+      "locality": "大伙房水库相关地区",
+      "description": "家炖大伙房胖头鱼：公示转载列明的家炖胖头鱼，记录大伙房地名关联，具体产地凭产品证明另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c8b8c9e0894717",
+      "name": "丹东酱蟹",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东酱蟹：公示转载列明的酱蟹，记录丹东菜名关联，蟹种及生熟加工状态尚待核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2de9d0134573c6",
+      "name": "丹东朝鲜族米肠",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东朝鲜族米肠：公示转载列明的米肠，保存朝鲜族地方饮食关联，米料和肠衣配方仍待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-05dfd97482e19b",
+      "name": "丹东朝鲜族拌饭",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东朝鲜族拌饭：公示转载列明的拌饭，记录丹东朝鲜族餐桌关联，不将各店配菜视为统一组合。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c599f4bc9854f4",
+      "name": "丹东朝鲜族辣白菜",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东朝鲜族辣白菜：公示转载列明的辣白菜，以城市饮食关联记录，不推定统一发酵配方和辣度。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ca9a190462ef98",
+      "name": "丹东朝鲜族辣拌蟹",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东朝鲜族辣拌蟹：公示转载列明的辣拌蟹，保留地方菜名，生熟状态及具体加工方法仍待进一步确认。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7b90106d481607",
+      "name": "丹东海鲜烧烤",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东海鲜烧烤：公示转载以海鲜烧烤整体列名，作为组合记录，不把未指明的海鲜原料拆成多项。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-62aae8979de4d5",
+      "name": "东港大海螺炖茄子",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "description": "东港大海螺炖茄子：公示转载列明的海螺与茄子组合，保存东港县级市的餐桌关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-56caf1005d5c97",
+      "name": "东港炭烧海螺",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "description": "东港炭烧海螺：公示转载列名使用碳烧海螺，本条统一书写炭烧，具体用火工艺仍待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7c49133f727227",
+      "name": "东港锡纸黄蚬子",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "description": "东港锡纸黄蚬子：公示转载列明的黄蚬子菜式，保存锡纸与海味组合的名称，不推定完整配方。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e541c5560a2b15",
+      "name": "东港香煎椒盐小人仙",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市",
+      "description": "东港香煎椒盐小人仙：公示转载列明的椒盐小人仙，保留地方食材称呼，物种与实际煎制步骤另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8a6ffc056bcad6",
+      "name": "宽甸连年吉利",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "宽甸满族自治县",
+      "description": "宽甸连年吉利：公示转载用鲢、鲶、鲫、鲤解释菜名，本条按一个组合记录，不重复拆成四道菜。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0c1808dd3cb9d1",
+      "name": "宽甸羊汤",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "宽甸满族自治县",
+      "description": "宽甸羊汤：公示转载列明的县域羊汤，以宽甸保存地理关联，不预设固定配菜。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-29aa1cf4f54202",
+      "name": "宽甸炸鸭绿江面条鱼",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "宽甸满族自治县",
+      "description": "宽甸炸鸭绿江面条鱼：公示转载列明的面条鱼菜式，保留鸭绿江地名，不凭小鱼俗名断定唯一物种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-414855966f79fe",
+      "name": "宽甸熏鸡",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "宽甸满族自治县",
+      "description": "宽甸熏鸡：公示转载列明的熏鸡，以宽甸县域记录，具体熏料与生产主体仍需核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5d0bb924d07c14",
+      "name": "凤城满族特色杀猪菜",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "description": "凤城满族特色杀猪菜：公示转载列明的满族杀猪菜，保存凤城地方饮食关联，不将各家配料统一化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-065197fa56f192",
+      "name": "丹东炒叉子",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "丹东市相关传承地区",
+      "description": "丹东炒叉子：公示转载列明的炒叉子，保存丹东饮食关联，具体制粉原料尚待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b0651181d6f13f",
+      "name": "孤山碱蓬蒸饺",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "东港市孤山镇",
+      "description": "孤山碱蓬蒸饺：公示转载列明的碱蓬蒸饺，保存孤山镇定位，馅料组合与用料比例仍待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7ffd5fc82e83d8",
+      "name": "凤城满族年饽饽",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "凤城市",
+      "description": "凤城满族年饽饽：公示转载列明的满族年饽饽，保存凤城年节食品关联，不虚构统一的单品形态。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e44114b7b3bef6",
+      "name": "锦州烧烤",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "锦州市相关传承地区",
+      "description": "锦州烧烤：公示转载列明的城市烧烤食品，记录地方饮食关联，不把某家门店当作全部代表。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6e162b27172d3e",
+      "name": "北镇熏猪蹄",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "北镇市",
+      "description": "北镇熏猪蹄：公示转载列明的熏猪蹄，以北镇县级市保存关联，与沟帮子熏鸡分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5a6d9dc4911934",
+      "name": "义县地方特色白丸子",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "义县",
+      "description": "义县地方特色白丸子：公示转载列明的白丸子，保存义县位置，肉类或其他原料尚待具体配方核查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-97641a51308d92",
+      "name": "义县全羊汤",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "义县",
+      "description": "义县全羊汤：公示转载列明的全羊汤，保存义县地方关联，不据名称推定全部内脏搭配。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-62ad8332aaad1a",
+      "name": "锦州清真八大碗",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "锦州市相关传承地区",
+      "description": "锦州清真八大碗：公示转载以一个八大碗组合列名，本条不在没有菜目资料时虚构八张独立卡。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3ec6604fc9a08b",
+      "name": "锦州酱焖渤海湾大鲁子鱼",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "锦州市相关传承地区",
+      "description": "锦州酱焖渤海湾大鲁子鱼：公示转载列明的地方鱼菜，保留大鲁子鱼俗名，不推定唯一物种和原料供货地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bc08c9ea85d382",
+      "name": "沟帮子水馅包子",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "北镇市沟帮子街道",
+      "description": "沟帮子水馅包子：公示转载列明的水馅包子，保存沟帮子地名，与同地熏鸡作为不同食品记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6469c96e074f8e",
+      "name": "白塔琉璃茄子",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "白塔区",
+      "description": "白塔琉璃茄子：公示转载列明的琉璃茄子，保存白塔区关联，不凭菜名推定固定挂糖工序。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b1a3dabf7e72fc",
+      "name": "文圣烩小碗子",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "文圣区",
+      "description": "文圣烩小碗子：公示转载列明的烩小碗子，以文圣区保存关联，碗中具体食材仍待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-57643fa936051f",
+      "name": "文圣酱驴蹄",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "文圣区",
+      "description": "文圣酱驴蹄：公示转载列明的酱驴蹄，记录文圣区地方关联，不推定统一香料和卤制时长。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b1a94ff3463f44",
+      "name": "太子河香辣肉丝",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "太子河区",
+      "description": "太子河香辣肉丝：公示转载列明的香辣肉丝，以太子河区保存地方关联，肉类来源及具体辣度另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-90bc0e66a65843",
+      "name": "宏伟生炒鸡",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "宏伟区",
+      "description": "宏伟生炒鸡：公示转载列明的生炒鸡，记录宏伟区关联，生炒是工艺称呼而非生食推荐。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fba7e297ecdd15",
+      "name": "首山烧汁茄夹",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "辽阳县首山镇",
+      "description": "首山烧汁茄夹：公示转载列明的茄夹，以首山地名保存县镇关联，夹馅原料及烧汁配方另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1c331c0f7b5254",
+      "name": "首山砂锅肘子",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "辽阳县首山镇",
+      "description": "首山砂锅肘子：公示转载列明的砂锅肘子，记录首山地名关联，不推定具体砂锅材质和炖制时长。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6ca64647a6a8bd",
+      "name": "灯塔霸王黄玉鸡",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市",
+      "description": "灯塔霸王黄玉鸡：公示转载列明的具名鸡菜，保存灯塔县级市关联，黄玉鸡名称不作品种或品牌证明。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e25a1e6d679991",
+      "name": "沈旦炖豆腐",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "灯塔市沈旦堡一带",
+      "description": "沈旦炖豆腐：公示转载列明的沈旦炖豆腐，保存沈旦地名，实际配菜与豆腐工艺还需核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-80edf024b26f32",
+      "name": "汤河清蒸鲢鱼",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "弓长岭区汤河镇",
+      "description": "汤河清蒸鲢鱼：公示转载列明的清蒸鲢鱼，以汤河镇保存地方关联，不将菜名当作野生来源证明。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-11157786f65981",
+      "name": "弓长岭烧羊排",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "弓长岭区",
+      "description": "弓长岭烧羊排：公示转载列明的羊排菜，保存弓长岭区关联，具体烹调步骤及调味仍待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-56f90528c9f480",
+      "name": "白塔冰酥白肉",
+      "province": "liaoning",
+      "city": "辽阳",
+      "locality": "白塔区",
+      "description": "白塔冰酥白肉：公示转载列明的冰酥白肉，记录白塔区名称与菜式关联，配料及成菜形态尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-041ab4ab7e51a0",
+      "name": "盘锦清蒸河蟹",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦清蒸河蟹：公示转载列明的蒸河蟹，作为成菜与已有盘锦河蟹原料卡分开记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-36f5c5e7faf2f6",
+      "name": "盘锦煎烹河刀",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦煎烹河刀：公示转载列明的河刀鱼菜，保留地方鱼名，不根据刀鱼一词推定受保护鱼种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c42a8e8c4a6ab2",
+      "name": "盘锦河蟹豆腐",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦河蟹豆腐：公示转载列明的河蟹与豆腐组合，以一个地方菜名记录，不拆分食材增加数量。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2e5edbf66c0e27",
+      "name": "盘锦海蜇炖肉",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦海蜇炖肉：公示转载列明的海蜇与肉类组合，保存城市关联，肉种及加工方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7afbc79ee966aa",
+      "name": "盘锦文蛤茄子",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦文蛤茄子：公示转载列明的文蛤茄子组合，保存地方菜名，不推定唯一烹调工艺。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f64b2accc9ded1",
+      "name": "盘锦炖鲜蒲笋",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦炖鲜蒲笋：公示转载列明的鲜蒲笋菜式，记录地方水生蔬菜关联，不与普通竹笋混同。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6e124e159be8f8",
+      "name": "盘锦酱骨头",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦酱骨头：公示转载列明的酱骨头，以盘锦地方菜名记录，骨料与卤料构成仍待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-08a37d379b8fa8",
+      "name": "老该里农家香肠",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市老该里一带",
+      "description": "老该里农家香肠：公示转载列明的农家香肠，保留老该里地名线索，不编造具体生产企业。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-04336af0c7918c",
+      "name": "田庄台佬田台烧鸡",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "大洼区田庄台镇",
+      "description": "田庄台佬田台烧鸡：公示转载列明的田庄台烧鸡，保存县镇名称，品牌主体及现售情况仍需另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-22395c52c23be7",
+      "name": "盘锦铁锅手炒油茶",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦市相关传承地区",
+      "description": "盘锦铁锅手炒油茶：公示转载列明的油茶，名称指地方谷物食品，不当作茶树叶冲泡饮品。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-75a3ef046fa14d",
+      "name": "盘山县大米嘎巴",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘山县",
+      "description": "盘山县大米嘎巴：公示转载列明的大米嘎巴，保存盘山县位置，具体成形与加工工艺仍待核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-997825bc567000",
+      "name": "葫芦岛海鲜辣炒",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "葫芦岛市相关传承地区",
+      "description": "葫芦岛海鲜辣炒：公示转载列明的海鲜辣炒，以一个组合菜名记录，不虚构固定海鲜种类。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3c9cd373e689aa",
+      "name": "绥中水豆腐",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "绥中县",
+      "description": "绥中水豆腐：公示转载列明的县域水豆腐，保存绥中关联，不推定每家店采用相同凝固剂。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-aeb02e56f97ece",
+      "name": "建昌老式浇汁鱼",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "建昌县",
+      "description": "建昌老式浇汁鱼：公示转载列明的浇汁鱼，以建昌县记录，鱼种与酱汁配方尚待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c5271a06442815",
+      "name": "要路沟水煮干豆腐",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "建昌县要路沟乡",
+      "description": "要路沟水煮干豆腐：公示转载列明的水煮干豆腐，保存要路沟乡镇关联，不将水煮等同统一辣味菜式。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1584e5a76c07e0",
+      "name": "兴城金丝多宝鱼",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市",
+      "description": "兴城金丝多宝鱼：公示转载列明的多宝鱼菜式，与兴城多宝鱼原料卡分开，金丝含义尚待工艺核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ad4c32446fb189",
+      "name": "红崖子花生小豆腐",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市红崖子镇",
+      "description": "红崖子花生小豆腐：公示转载列明的花生小豆腐，保存红崖子地名，不由名称推定只含花生一种原料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2172a67006ca5a",
+      "name": "杨家杖子煎饺",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "连山区杨家杖子一带",
+      "description": "杨家杖子煎饺：公示转载列明的杨家杖子煎饺，保留地区关联，具体馅料和经营主体另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-beafa4dff6325a",
+      "name": "建昌汤土沟杏仁粥",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "建昌县汤土沟一带",
+      "description": "建昌汤土沟杏仁粥：公示转载列明的杏仁粥，保存汤土沟地名，杏仁品种、处理方式及配料尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

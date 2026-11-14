@@ -1,0 +1,28 @@
+{
+  "sourceId": "county-20261114-lyg-dairy",
+  "sourceUrl": "https://www.cqn.com.cn/ms/content/2024-12/12/content_9082294.htm",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "5db2fadf6f15eb70a6c337a9796e761bd2f1fb15dd25576bb31a978e004fc1e2",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-b3ef0a8f3fc9b3",
+      "name": "三元双宝乳品",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "连云区东辛农场",
+      "description": "三元双宝乳品：2024年抽检公布表列明东辛农场生产企业及鲜奶、风味酸奶等样品，多条抽样记录合为一家企业。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-05564482fde9df",
+      "name": "连望乳品",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "海州区宁海相关地区武圩",
+      "description": "连望乳品：2024年抽检表列明连望原味风味发酵乳及生产企业；未仅凭新希望名称推定其与其他同名集团的股权关系。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

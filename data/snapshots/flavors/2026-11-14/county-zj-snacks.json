@@ -1,0 +1,694 @@
+{
+  "sourceId": "county-20261114-zj-snacks",
+  "sourceUrl": "https://hznews.hangzhou.com.cn/jingji/content/2021-02/09/content_7909452_0.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "b1e5487910f1dead395057316b9401a32dac4b3cbb39e71d85c4781b00f0f025",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-9270e3167929d6",
+      "name": "河上桔红糕",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "萧山区河上镇",
+      "description": "河上桔红糕：萧山河上一带的地方糕点，资料将其列入浙江农家小吃名单，具体配料尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6e6ac0481bb8f3",
+      "name": "塘栖小桃酥",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "临平区塘栖镇",
+      "description": "塘栖小桃酥：以塘栖地名记录的地方桃酥，来源使用旧余杭区名称，按现行临平区展示。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e195be034c060f",
+      "name": "昌南山牛蒡粿",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "临安区昌南一带",
+      "description": "昌南山牛蒡粿：临安地方粿类小吃，保留牛蒡粿这一产品名，不据名称编造配料比例。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2c3de7a71bfc32",
+      "name": "桐庐米粿",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "桐庐县",
+      "description": "桐庐米粿：浙江县域小吃名单列明的米粿，以桐庐县域保存关联，馅料与形态另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e94ff2e1b68af8",
+      "name": "安上粉皮",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "淳安县安上村一带",
+      "description": "安上粉皮：浙江名单列明的粉皮小吃，县域为淳安，具体制粉原料仍需进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0af507918087c0",
+      "name": "建德状元饼",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "建德市",
+      "description": "建德状元饼：浙江小吃名单列明的建德地方饼食，状元为名称，不据此采信历史传说。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-617b37391e3d0c",
+      "name": "建德水米糕",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "建德市",
+      "description": "建德水米糕：浙江名单列明的建德糕点，保留水米糕名称，具体水米处理工序尚待细查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b621ef47566622",
+      "name": "三都麻糍",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "建德市三都镇",
+      "description": "三都麻糍：以建德三都命名的地方麻糍，来源支持县镇关联，不统一推定咸甜口味。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-934d0a3bcc0e69",
+      "name": "塘栖粢毛肉圆",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "临平区塘栖镇",
+      "description": "塘栖粢毛肉圆：来源以塘栖地方肉圆收录，使用旧余杭区名称，现按临平区保存检索位置。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0f717bff82f4a2",
+      "name": "永昌臭豆腐",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "富阳区永昌镇",
+      "description": "永昌臭豆腐：浙江名单列明的富阳永昌臭豆腐，与绍兴等地同类食品按明确地区分开记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a11dbab0552600",
+      "name": "海曙乌饭麻糍",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "海曙区",
+      "description": "海曙乌饭麻糍：浙江小吃名单列明的乌饭麻糍，以海曙区定位，具体植物染料和配方另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0f14d417c71776",
+      "name": "北仑虾刺年糕",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "北仑区",
+      "description": "北仑虾刺年糕：浙江名单列明的地方年糕，虾刺为产品名保留，不凭名称推定必含虾肉。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2df168523dea30",
+      "name": "鄞州阿明包子",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "鄞州区",
+      "description": "鄞州阿明包子：浙江名单点名的阿明包子，暂按地方包点及名称记录，经营主体和现售位置另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1b8b20507baf90",
+      "name": "奉化千层饼",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "奉化区",
+      "description": "奉化千层饼：浙江名单列明的奉化饼食，与其他地区同名千层饼按具名产区分别识别。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9cd08305709a26",
+      "name": "陆埠豆酥糖",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "余姚市陆埠镇",
+      "description": "陆埠豆酥糖：浙江小吃名单列明的豆酥糖，保存余姚陆埠地名，具体豆料和糖油比例另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c4761d6e18be3b",
+      "name": "宁海麦饼",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "宁海县",
+      "description": "宁海麦饼：浙江名单列明的宁海麦饼，与台州等地麦饼按县域饮食关联区分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f904b934f6af03",
+      "name": "象山米馒头",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "象山县",
+      "description": "象山米馒头：浙江名单列明的米馒头，保留象山县域，具体发酵工艺与原料比例另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a80af01d730b9c",
+      "name": "象山鱼糍面",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "象山县",
+      "description": "象山鱼糍面：浙江名单以鱼糍面名称列入象山小吃，鱼制主体与谷物配比尚待原文工艺核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b645178d4e274a",
+      "name": "龙湾纱面汤",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "龙湾区",
+      "description": "龙湾纱面汤：浙江小吃名单列明的地方汤面，保留龙湾区关联，面条工艺和汤料仍待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5da1babea2e2c1",
+      "name": "乐清瓦头锦",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "乐清市",
+      "description": "乐清瓦头锦：浙江名单列明的乐清小吃，保留瓦头锦名称，具体原料和类别还需进一步细分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c10d7f850f8864",
+      "name": "永嘉麦饼",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "永嘉县",
+      "description": "永嘉麦饼：浙江名单列明的永嘉县域麦饼，与其他地区同名饼食分别保存地理关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-18d9c51886d6da",
+      "name": "平阳炒粉干",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "平阳县",
+      "description": "平阳炒粉干：浙江小吃名单列明的炒粉干，以平阳县域定位，不推定所有版本配料相同。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a5cbd12df14ae3",
+      "name": "里光婆饼",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "泰顺县里光一带",
+      "description": "里光婆饼：浙江名单列明的泰顺地方小吃，保存里光地名，具体制作方法仍待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7a0969fc8211ad",
+      "name": "矾山肉燕",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "苍南县矾山镇",
+      "description": "矾山肉燕：浙江名单列明的苍南肉燕，保存矾山镇定位，不将其与福州肉燕混作同一产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1418f65fc0122b",
+      "name": "洞头墨鱼饼",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "洞头区",
+      "description": "洞头墨鱼饼：浙江名单列明的墨鱼饼，以洞头海岛饮食关联记录，具体鱼肉与粉料比例另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f3ce7b76225025",
+      "name": "文成农家绿豆腐",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "文成县",
+      "description": "文成农家绿豆腐：浙江名单列明的绿豆腐，产品植物原料尚待逐项核对，不把名称理解为绿豆制豆腐。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2e798a84b2f07d",
+      "name": "湖州茶食四珍",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "吴兴区",
+      "description": "湖州茶食四珍：浙江名单以一项组合记录的湖州茶食，不在没有具体资料时拆成四个虚构条目。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-959282e13289a1",
+      "name": "湖州大馄饨",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "吴兴区",
+      "description": "湖州大馄饨：浙江名单列明的大馄饨，以吴兴区保存地方关联，具体馅料和供应主体另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-76caa74a867597",
+      "name": "南浔红烧羊肉面",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "南浔区",
+      "description": "南浔红烧羊肉面：浙江名单列明的羊肉面，将面食与红烧羊肉的地方组合保留在同一条目。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-225240819615d4",
+      "name": "南浔桑果糕",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "南浔区",
+      "description": "南浔桑果糕：浙江名单列明的桑果糕，保存南浔区关联，具体桑果加工工序尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8039c11dc6014c",
+      "name": "安吉吴均汤包",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "安吉县",
+      "description": "安吉吴均汤包：浙江名单列明的吴均汤包，按安吉县域记录，品牌主体和具体馅料仍需另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ba0363c1697aaa",
+      "name": "凤桥梅花糕",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "南湖区凤桥镇",
+      "description": "凤桥梅花糕：浙江小吃名单列明的梅花糕，以嘉兴凤桥保存地理关联，不统一推定各款馅料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a2f85c446eb815",
+      "name": "王江泾芝麻栗酥",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "秀洲区王江泾镇",
+      "description": "王江泾芝麻栗酥：浙江名单列明的芝麻栗酥，保存秀洲王江泾乡镇定位。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b88770603ca654",
+      "name": "西塘八珍糕",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "嘉善县西塘镇",
+      "description": "西塘八珍糕：浙江名单以西塘钟稻荪八珍糕列名，本条按地方糕点合并，不拆分配方凑数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-27c75b1c4c6858",
+      "name": "平湖蟹壳黄",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "平湖市",
+      "description": "平湖蟹壳黄：浙江名单列明的平湖地方酥饼，蟹壳黄为形貌名称，不能据此推定含蟹肉。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-09ff6176cbcd30",
+      "name": "乌镇姑嫂饼",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "桐乡市乌镇",
+      "description": "乌镇姑嫂饼：浙江小吃名单列明的地方饼食，保存乌镇地名，不以名称采信人物故事。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8c42f2e287ed21",
+      "name": "乌镇定胜糕",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "桐乡市乌镇",
+      "description": "乌镇定胜糕：浙江名单列明的定胜糕，以桐乡乌镇保存县镇关联，形态和配方尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ac3d5f0832e654",
+      "name": "嘉善西塘粉蒸肉",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "嘉善县西塘镇",
+      "description": "嘉善西塘粉蒸肉：浙江小吃名单列明的西塘粉蒸肉，与其他地区米粉蒸肉按具名地区分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-107c44bcda7f28",
+      "name": "次坞打面",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "诸暨市次坞镇",
+      "description": "次坞打面：浙江名单列明的诸暨地方面食，保存次坞镇关联，和成品挂面分别理解。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8120694dcb176f",
+      "name": "西施团圆饼",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "诸暨市",
+      "description": "西施团圆饼：浙江名单列明的诸暨地方饼食，西施为名称，不以名称确认人物创制传说。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6f5cfe71a1e5df",
+      "name": "诸暨糖漾",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "诸暨市",
+      "description": "诸暨糖漾：浙江小吃名单列明的糖漾，具体粉料和凝结方式仍需进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6d83b971b28779",
+      "name": "嵊州小笼包",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "嵊州市",
+      "description": "嵊州小笼包：浙江名单列明的嵊州地方小笼包，与杭州和上海等地的包点分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-033de905926910",
+      "name": "嵊州炒榨面",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "嵊州市",
+      "description": "嵊州炒榨面：浙江小吃名单列明的炒榨面，以嵊州县级市保存关联，具体炒制配料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cc418f87577467",
+      "name": "新昌炒年糕",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "新昌县",
+      "description": "新昌炒年糕：浙江名单列明的新昌炒年糕，年糕成形主食与具体炒料分别核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bc3d34f971befd",
+      "name": "谢塘五香干",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "locality": "上虞区谢塘镇",
+      "description": "谢塘五香干：浙江名单列明的五香干，保存上虞谢塘地名，不能将五香名称视为固定香料清单。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1ea5c4acc36720",
+      "name": "金华佛手饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "金东区",
+      "description": "金华佛手饼：浙江名单列明的佛手饼，以金东区保存关联，佛手名称的原料或造型含义尚待细查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8d6773813fe342",
+      "name": "东阳沃面",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "东阳市",
+      "description": "东阳沃面：浙江小吃名单列明的东阳沃面，记录地方汤面关联，具体汤料配比仍需另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b07b32b9272620",
+      "name": "东河肉饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "义乌市东河一带",
+      "description": "东河肉饼：浙江名单列明的义乌肉饼，保存东河地名，不以同名门店所在地替代产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b7e0867cf491cf",
+      "name": "浦江一根面",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "浦江县",
+      "description": "浦江一根面：浙江小吃名单列明的一根面，保存浦江县域关联，具体拉制方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c2fae9573e966f",
+      "name": "武义艾糕",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "武义县",
+      "description": "武义艾糕：浙江名单列明的艾糕，保存武义县域，具体艾料与米料比例尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-02f749891d42a6",
+      "name": "磐安大蒜饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "磐安县",
+      "description": "磐安大蒜饼：浙江小吃名单列明的大蒜饼，以磐安县域保存地方食物关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-30271f64fc9b63",
+      "name": "方前扁食",
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "磐安县方前镇",
+      "description": "方前扁食：浙江名单列明的磐安地方扁食，保存方前镇定位，具体皮料和馅料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1b0325affb1032",
+      "name": "杜泽灌肠",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "衢江区杜泽镇",
+      "description": "杜泽灌肠：浙江小吃名单列明的灌肠，以杜泽地名保存关联，具体原料构成仍待细查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-10452abda324b1",
+      "name": "江山米糕",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "江山市",
+      "description": "江山米糕：浙江名单列明的江山米糕，以县级市记录地方关联，具体品种与发酵工序另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-48d675976f47ea",
+      "name": "常山麦香饼",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "常山县",
+      "description": "常山麦香饼：浙江名单列明的常山地方饼食，保存县域关联，不凭麦香名称推定全部配料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0bdee5a3bb5b3b",
+      "name": "桐村碱水粽",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "开化县桐村镇",
+      "description": "桐村碱水粽：浙江名单列明的开化桐村粽子，保留碱水粽产品名，碱水原料及用量不作猜测。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-54f1e107445f13",
+      "name": "普陀观音饼",
+      "province": "zhejiang",
+      "city": "舟山",
+      "locality": "普陀区",
+      "description": "普陀观音饼：浙江名单列明的普陀地方饼食，名称体现文化关联，具体馅料仍按产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a49acd4d929bb5",
+      "name": "倭井潭硬糕",
+      "province": "zhejiang",
+      "city": "舟山",
+      "locality": "岱山县倭井潭一带",
+      "description": "倭井潭硬糕：浙江小吃名单列明的岱山地方硬糕，保留倭井潭地名供后续县镇检索。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6f00f242ded977",
+      "name": "舟山带鱼饭",
+      "province": "zhejiang",
+      "city": "舟山",
+      "locality": "嵊泗县",
+      "description": "舟山带鱼饭：浙江名单将带鱼饭定位于嵊泗，记录米饭与海鱼组合，不当作所有舟山饭食的统称。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-997eb2829a5203",
+      "name": "椒江姜汁核桃调蛋",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "椒江区",
+      "description": "椒江姜汁核桃调蛋：浙江名单列明的姜汁核桃调蛋，保存椒江区关联，不依据食材名推定滋补功效。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7c5881ed0f1e83",
+      "name": "沙埠豆腐干",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "黄岩区沙埠镇",
+      "description": "沙埠豆腐干：浙江小吃名单列明的豆腐干，以黄岩沙埠保存县镇位置，调味方法仍需另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3d3f1733b7fa22",
+      "name": "螺洋三宝",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "路桥区螺洋街道",
+      "description": "螺洋三宝：浙江名单将螺洋三宝作为一个组合列名，具体三项构成未确认，不拆卡凑数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8c61f8b90934fc",
+      "name": "临海糟羹",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "临海市",
+      "description": "临海糟羹：浙江名单列明的临海地方羹食，糟羹名称不等于每个版本都含酒糟。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-4b0aed0268cddf",
+      "name": "仙居泡鲞",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "仙居县",
+      "description": "仙居泡鲞：浙江小吃名单列明的泡鲞，保存仙居县域，具体鱼种和加工步骤仍待核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e544e611fe8709",
+      "name": "黄岩红糖烤糖",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "黄岩区",
+      "description": "黄岩红糖烤糖：浙江名单列明的红糖烤糖，保存黄岩区的产品关联，原料比例与制法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a2400dd1f4bbfd",
+      "name": "宁溪麦鼓头",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "黄岩区宁溪镇",
+      "description": "宁溪麦鼓头：浙江名单列明的麦鼓头，保存宁溪镇地名，实际面料、馅料和形态仍待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-10b27f4d048962",
+      "name": "温岭泡虾",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "温岭市",
+      "description": "温岭泡虾：浙江小吃名单列明的泡虾，以温岭县级市保存关联，粉皮及配料尚待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-202abc83b24ced",
+      "name": "玉环敲鱼皮馄饨",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "玉环市",
+      "description": "玉环敲鱼皮馄饨：浙江名单列明的敲鱼皮馄饨，保留玉环关联，鱼皮成形方法和馅料配比另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3ebcae7a657306",
+      "name": "三门松花饼",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "三门县",
+      "description": "三门松花饼：浙江小吃名单列明的松花饼，以三门县域记录，名称中的松花含义仍待细查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1597178be55d93",
+      "name": "龙泉金观音饼",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "龙泉市",
+      "description": "龙泉金观音饼：浙江名单列明的金观音饼，以龙泉县级市保存关联，不凭名称推定一定使用茶叶。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-33005d6867555b",
+      "name": "青田国师饼",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "青田县",
+      "description": "青田国师饼：浙江小吃名单列明的国师饼，保留青田地名，不据名称确认创始人物或年代。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-91588bb765e7be",
+      "name": "云和油筒饼",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "云和县",
+      "description": "云和油筒饼：浙江名单列明的油筒饼，以云和县域保存关联，形态、馅料和烘制方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1557668417b4da",
+      "name": "庆元黄粿",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "庆元县",
+      "description": "庆元黄粿：浙江名单列明的地方黄粿，保留庆元县域，具体染色材料和成形方法尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c815759f381465",
+      "name": "遂昌长粽",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "遂昌县",
+      "description": "遂昌长粽：浙江小吃名单列明的长粽，以遂昌县域保存地方关联，具体包裹材料和馅料另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-722133bf972660",
+      "name": "庆元乌米饭",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "庆元县",
+      "description": "庆元乌米饭：浙江名单列明的乌米饭，按成饭归类，具体植物原料和制作工序仍待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-671f68524ee22e",
+      "name": "缙云敲肉羹",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "缙云县",
+      "description": "缙云敲肉羹：浙江小吃名单列明的敲肉羹，以缙云县域保存关联，肉料、粉料比例尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

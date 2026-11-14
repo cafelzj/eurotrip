@@ -1,0 +1,37 @@
+{
+  "sourceId": "county-20261114-baicheng",
+  "sourceUrl": "https://zhuanti.mct.gov.cn/xcszbwg2022/jilin/detail/1976.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "d5fd55f8d6a5e888c8f33b6174f451b794f3eaed0a367db701fc1857ca2c3791",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-b8b8bde190da18",
+      "name": "大安芦苇画",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "大安市",
+      "description": "大安芦苇画：文旅部地方线路列明的芦苇画手工制作，以大安市保存材料工艺和地方关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-346404bd9468a5",
+      "name": "通榆草编",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "通榆县",
+      "description": "通榆草编：文旅部线路推荐通榆草编体验，记录当地手工艺关联，草种和具体产品形态另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cd69cd868bb6dd",
+      "name": "乌兰图嘎蒙古族馅饼",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "洮北区德顺蒙古族乡乌兰图嘎村",
+      "description": "乌兰图嘎蒙古族馅饼：文旅部线路介绍当地蒙古族馅饼体验，保存村级定位，具体馅料仍按地方做法核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

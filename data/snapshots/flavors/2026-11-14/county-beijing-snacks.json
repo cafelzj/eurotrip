@@ -1,0 +1,145 @@
+{
+  "sourceId": "county-20261114-beijing-snacks",
+  "sourceUrl": "https://www.visitbeijing.com.cn/article/47QmRdIK1JB",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "e249b0273151a77c1739896c0748cbcc6a16c5cc540b87c39d263f5836d22c91",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-68f9ca540e2543",
+      "name": "艾窝窝",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "艾窝窝：北京旅游网列明的传统糯米小吃，记录食品本身，不沿用2019年文章中的店址和售卖季节作为现况。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7868beae98169a",
+      "name": "糖耳朵",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "糖耳朵：又称蜜麻花，以耳状外形辨识；北京旅游网将其列为当地传统小吃，不与普通麻花混为一项。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7d59d391d1c7c5",
+      "name": "姜丝排叉儿",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "姜丝排叉儿：北京旅游网介绍的带鲜姜风味的小炸食，名称保留儿化写法，不把文中的历史传说作为已核实断代。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a236c33a03eba0",
+      "name": "馓子麻花",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "馓子麻花：北京旅游网列明的北京清真小吃，另称散子、环饼；这些别称合并保存，不拆分计数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-faeeb7c43b34a8",
+      "name": "褡裢火烧",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "褡裢火烧：北京旅游网介绍的长形煎制面食，名称关联旧式褡裢外形；搭配汤和馅料因实际制作而异。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-add429d072b676",
+      "name": "墩饽饽",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "墩饽饽：以酵面、白糖、桂花等制作，先烙后烤；北京旅游网将其列为老北京地方传统点心。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fe213e9cb7c238",
+      "name": "蛤蟆吐蜜",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "蛤蟆吐蜜：以烧饼烤制后开口露出豆沙馅的外形得名；名称不表示使用蛙类原料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6f917fa519764e",
+      "name": "北京核桃酥",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "北京核桃酥：北京旅游网小吃目录列明的核桃风味糕点，作为地方供食传统记录，不主张核桃酥为北京独有。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-313c42ee1745ef",
+      "name": "栗子凉糕",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "栗子凉糕：北京旅游网介绍的栗粉、白糖和桂花压制糕点，保存夏季凉食的地方关联，不推定全部在售商品配方一致。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0dc01af7f48c14",
+      "name": "焦圈",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "焦圈：北京旅游网列明的环形酥脆炸食，常与豆汁等早餐搭配；GitHub城市条目的线索经此资料交叉核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e02eeb61b2f8df",
+      "name": "开口笑",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "开口笑：北京旅游网介绍的开裂外形油炸点心，按食品名称记录，不将节俗寓意当作起源证据。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7447485cdbf6ab",
+      "name": "螺丝转",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "螺丝转：北京旅游网介绍的螺旋形烤制面点，以芝麻酱等形成风味，具体香料和比例仍按实际商品确认。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0ee8dcac428f94",
+      "name": "油酥火烧",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "油酥火烧：北京旅游网传统小吃清单列明的火烧品种，记录地方面点关联，不以历史店址推定今日经营位置。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-53bbb2734798ac",
+      "name": "北京芝麻烧饼",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "北京芝麻烧饼：北京旅游网介绍的半发面烧饼，以多层组织和芝麻风味辨识；不推定所有地方烧饼都属同一做法。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9de1e5ce3d7f0f",
+      "name": "炸灌肠",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "北京市传统小吃相关地区",
+      "description": "炸灌肠：北京旅游网介绍的切片油炸小吃，常配蒜汁；名称中的肠不据以标注肉类原料，具体配方逐品确认。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

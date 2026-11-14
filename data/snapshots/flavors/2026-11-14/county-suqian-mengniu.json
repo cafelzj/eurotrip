@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-suqian-mengniu",
+  "sourceUrl": "https://m.cqn.com.cn/ms/content/2024-11/11/content_9076733.htm",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "6d6b8540bf02898d7b4c12c3d6d9e8acd3cb370000bbf27cea9f801bf8ac0996",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-b8826e8faa9b71",
+      "name": "蒙牛宿迁乳品",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "locality": "宿迁经济开发区苏州路777号",
+      "description": "蒙牛宿迁乳品：2024年抽检表列明高钙牛奶及宿迁生产企业，记录生产基地，与品牌发源地分别保存。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

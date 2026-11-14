@@ -1,0 +1,100 @@
+{
+  "sourceId": "county-20261114-luotian",
+  "sourceUrl": "https://m.cnhubei.com/pcmedia/detail?id=636277",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "af17cb2115a843875b95c3f63d948be13ddb8a8e440115f7b4043f5a505f99b1",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-dd0cbe1d6d2e3b",
+      "name": "罗田板栗土鸡汤",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田板栗土鸡汤：地方文旅介绍以板栗和土鸡配炖的汤菜，保存罗田县域饮食关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c55a0e36618971",
+      "name": "天堂腊肉",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "天堂腊肉：地方名吃介绍列明的天堂腊肉，保留罗田地域关联，不推定统一熏料与保存期。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-342a82bc9efaf1",
+      "name": "罗田吊锅",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田吊锅：罗田地方吊锅以火塘与悬锅的餐饮方式为特色，实际肉蔬组合随具体菜品变化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b0bbb80dd617d6",
+      "name": "罗田胜利肉糕",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县胜利镇",
+      "description": "罗田胜利肉糕：地方名吃介绍列明胜利肉糕，保存县镇关联，鱼肉与粉料等配方以具体做法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6b497f77464aff",
+      "name": "罗田胖头鱼",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田胖头鱼：地方名吃介绍中的胖头鱼菜式，以罗田县域记录，不将成菜直接等同某个养殖场。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a9efae12105705",
+      "name": "罗田晃子汤",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田晃子汤：地方介绍说明晃子为猪血，与猪杂配制成汤；具体部位和配比随地方做法变化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-40069121f8c26d",
+      "name": "罗田香蕈肉",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田香蕈肉：地方介绍将香蕈与肉相配的菜式列为名吃，菌类物种及具体肉部位仍需细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-60034b1f62831d",
+      "name": "板栗腊味糯米饭",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "板栗腊味糯米饭：罗田名吃介绍列明的板栗与腊味糯米饭，以一项复合主食记录，不拆分原料计数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-20a09bc7ed1ad8",
+      "name": "罗田汽水粑",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田汽水粑：地方介绍说明先发酵再借铁锅蒸汽成形，汽水是加工用水汽，不是汽水饮料配料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1b107e13413af0",
+      "name": "罗田鸭蛋酥",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "description": "罗田鸭蛋酥：地方名吃介绍列明的鸭蛋酥，名称与外形有关，是否含蛋不能仅凭名称推定。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "sourceId": "county-20261114-yongzhou",
+  "sourceUrl": "https://zhuanti.mct.gov.cn/csxz2022/hunan/detail_g7yU_721/4619.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "5e79d7940bb86673e902922acd49557305153dc623f5159a9dd4ab937230f898",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-bdcfc2c3777003",
+      "name": "永州血鸭",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "永州市相关传承地区",
+      "description": "永州血鸭：文旅部地方线路列明的永州美食，以血鸭名称保存地方关联，配方和制作方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b0b1f105d21166",
+      "name": "祁阳曲米鱼",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "祁阳市",
+      "description": "祁阳曲米鱼：文旅部线路列明的县域鱼菜，保留曲米鱼名称，不凭名称编造腌发或加工步骤。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-de5b3c0bed930b",
+      "name": "双牌酒糟肉",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "双牌县",
+      "description": "双牌酒糟肉：文旅部线路列明的酒糟肉，以双牌县保存地域关联，原料比例和加工方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ff48fdc08f869c",
+      "name": "宁远状元水丸子",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "宁远县下灌一带",
+      "description": "宁远状元水丸子：文旅部线路列明的宁远地方丸子，状元为名称，不据名称采用历史人物创制故事。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f87b47dd78a122",
+      "name": "蓝山金牌牛杂",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "蓝山县",
+      "description": "蓝山金牌牛杂：文旅部线路列明的地方牛杂菜，金牌为菜名用语，不作为独立获奖证据。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9701ac8492f3bf",
+      "name": "江华瑶家十八酿",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江华瑶族自治县",
+      "description": "江华瑶家十八酿：文旅部线路以十八酿组合列名，具体菜目未逐项核对，不拆成十八项凑数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e1d66508010bf8",
+      "name": "江永瑶山油茶",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江永县勾蓝瑶村一带",
+      "description": "江永瑶山油茶：文旅部线路列明的瑶山油茶，作为地方饮食关联记录，不推定所有门店原料相同。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

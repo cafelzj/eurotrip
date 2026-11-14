@@ -200,6 +200,978 @@
       "city": "湘西州",
       "locality": "龙山县",
       "note": "龙山百合：湖南名录列明的地方百合，同一产品不同商标类别合并为一张卡片。"
+    },
+    {
+      "id": "county-ffe20ead7f222e",
+      "name": "浏阳豆豉",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "description": "浏阳豆豉：以浏阳命名的豆豉，作为地方调味产品记录，与豆腐、香干分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c1c5839872ce01",
+      "name": "宁乡五里堆香干",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "宁乡市",
+      "description": "宁乡五里堆香干：湖南名录列明的五里堆香干，保存宁乡这一县级市关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f551974f43df23",
+      "name": "浏阳蒸菜",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "description": "浏阳蒸菜：以蒸制为特色的浏阳地方菜传统，作为组合条目，不将不同蒸菜虚构为统一配方。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9a00f4b8d2e48c",
+      "name": "浏阳夏布",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "浏阳市",
+      "description": "浏阳夏布：湖南名录列明的地方夏布，归入物品与工艺，和茶油、豆豉等食品分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7a77226421ba82",
+      "name": "铜官陶瓷",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "望城区铜官街道",
+      "description": "铜官陶瓷：以铜官为地名的地方陶瓷，保存长沙望城的器物制作关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-185e4941dd99ce",
+      "name": "长沙绿茶",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市相关产区",
+      "description": "长沙绿茶：湖南地理标志名录列明的绿茶产品，本条保持市域范围，未缩小到单一茶园。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7f8f1958b842aa",
+      "name": "沩山毛尖",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "宁乡市沩山",
+      "description": "沩山毛尖：以沩山命名的地方茶，茶园、等级与具体加工方式随产品进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-56603fe1fff058",
+      "name": "三樟黄贡椒",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "衡东县三樟镇",
+      "description": "三樟黄贡椒：名录列明的地方黄贡椒，按衡东三樟地名记录，不以名称推定历史贡品身份。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-731b004b891c0f",
+      "name": "常宁茶油",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "常宁市",
+      "description": "常宁茶油：湖南地理标志产品名录中的地方茶油，属于食用植物油，区别于冲泡茶。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-13e1865d2acb4a",
+      "name": "祁东酥脆枣",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "description": "祁东酥脆枣：以祁东命名的枣产品，酥脆为产品名称线索，具体品种和成熟期尚未逐项核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e261bdeb8613f5",
+      "name": "衡阳台源乌莲",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "衡阳县台源镇",
+      "description": "衡阳台源乌莲：湖南名录列明的地方莲产品，保存台源的生产地域关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-95f0d81be1415b",
+      "name": "衡阳鱼丸",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "衡阳市相关传承地区",
+      "description": "衡阳鱼丸：名录列明的地方鱼丸，记录衡阳饮食关联，不推定所有门店使用相同鱼种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-67f4d101f8575d",
+      "name": "攸县麻鸭",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "攸县",
+      "description": "攸县麻鸭：湖南名录列明的麻鸭产品，与已经收录的攸县米粉和豆腐分别分类。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5afbecbf39742d",
+      "name": "茶陵黄牛",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "description": "茶陵黄牛：名录列明的地方黄牛，记录畜牧产区，不将其直接当作某一道熟食菜名。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2bfba780b605ae",
+      "name": "白关丝瓜",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "渌口区白关镇",
+      "description": "白关丝瓜：湖南名录列明的丝瓜，保存白关这一乡镇产地线索。保留县域产地关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ca9869f8c10282",
+      "name": "株洲王十万黄辣椒",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "渌口区王十万一带",
+      "description": "株洲王十万黄辣椒：湖南名录列明的地方黄辣椒，保存王十万地名，乡镇现行边界仍可继续细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-250705a0f00cf1",
+      "name": "茶陵生姜",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "description": "茶陵生姜：湖南名录中的茶陵姜产品，以县域保存产地，不把它和加工姜制品混作同类。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6f50d3fe29eb69",
+      "name": "攸县茶油",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "攸县",
+      "description": "攸县茶油：名录列明的县域茶油产品，记录原料加工的地域关联，不视作特定企业品牌。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1c2d61d9af4955",
+      "name": "茶陵红茶",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "description": "茶陵红茶：湖南名录列明的县域红茶，产品类别与同县生姜、大蒜等食材分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-384dc090f1f5db",
+      "name": "茶陵风干鹅",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "茶陵县",
+      "description": "茶陵风干鹅：湖南名录列明的地方风干鹅，保存加工食品形态，不推定统一腌料和保存期。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-59ae0560464bb7",
+      "name": "沙子岭猪",
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘潭市相关产区",
+      "description": "沙子岭猪：名录列明的地方猪产品，作为畜牧食材关联记录，和具体熟食品牌分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b6ec5e42d536cf",
+      "name": "壶天石羊",
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘乡市壶天镇",
+      "description": "壶天石羊：湖南名录中的地方羊产品，保存湘乡壶天关联，具体肉品形式仍按包装辨认。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-006aeff3592ae1",
+      "name": "湘乡水府茶",
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘乡市水府一带",
+      "description": "湘乡水府茶：湖南名录列明的水府茶，记录湘乡产区关联，未凭名称推定所有茶类与等级。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-33138e8de62af5",
+      "name": "湘潭乌石腊肉",
+      "province": "hunan",
+      "city": "湘潭",
+      "locality": "湘潭县乌石镇",
+      "description": "湘潭乌石腊肉：湖南名录列明的乌石地方腊肉，记录腌腊食品形态，不编造具体熏制时长。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-639faa96e789b2",
+      "name": "邵东黄花菜",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "邵东市",
+      "description": "邵东黄花菜：湖南地理标志名录中的黄花菜，以邵东县级市记录产地，具体加工状态另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f17d5cdb8dd0e3",
+      "name": "城步竹笋",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "城步苗族自治县",
+      "description": "城步竹笋：湖南名录列明的县域竹笋，不把名称直接等同于某种加工笋干。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ba5c57c7dd0a1b",
+      "name": "城步峒茶",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "城步苗族自治县",
+      "description": "城步峒茶：湖南名录列明的城步地方茶，保留峒茶这一名称供后续品种与工艺核查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e4d81a854bb522",
+      "name": "广兴洲大白菜",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "君山区广兴洲镇",
+      "description": "广兴洲大白菜：湖南名录列明的地方大白菜，保存广兴洲乡镇定位，不视为统一栽培品种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c78f9dac974604",
+      "name": "樟树港辣椒",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "湘阴县樟树镇",
+      "description": "樟树港辣椒：湖南名录列明的辣椒产品，与樟树港地名相连，和省外同名地不混淆。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-effe88a3774209",
+      "name": "岳阳黄颡鱼",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关产区",
+      "description": "岳阳黄颡鱼：湖南名录列明的黄颡鱼，作为水产原料记录，不推定养殖场或固定烹法。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5eed30037be260",
+      "name": "岳阳大米",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关产区",
+      "description": "岳阳大米：湖南名录列明的市域稻米产品，未将区域名称当作某一家企业的商标。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b402fa52dbbd5d",
+      "name": "岳阳花猪",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关产区",
+      "description": "岳阳花猪：湖南名录列明的地方猪产品，以市域保留畜牧产区关联，不虚构具体村镇。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-46db3990b61103",
+      "name": "玉池山桂花蜜",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "湘阴县玉池山一带",
+      "description": "玉池山桂花蜜：湖南名录点名的桂花蜜产品，保存玉池山地名，不据此推定每款蜂蜜的检测指标。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-aee3ec24957fe4",
+      "name": "君山芦笋",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "君山区",
+      "description": "君山芦笋：湖南名录列明的君山芦笋，作为地方食材记录，与芦苇工艺用品分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2c13b482296b03",
+      "name": "君山许市脐橙",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "君山区许市镇",
+      "description": "君山许市脐橙：湖南名录列明的县镇橙类产品，保存君山许市的具体产区线索。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e8ca7f715170e7",
+      "name": "岳阳金盆柚",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关产区",
+      "description": "岳阳金盆柚：湖南名录列明的地方柚产品，暂按市域记录，品种与乡镇范围待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f513f8fa81fce9",
+      "name": "平江面筋",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "平江县",
+      "description": "平江面筋：湖南名录列明的平江地方面筋食品，具体配方、口味和厂商仍分别核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9cf6f189ce8a5f",
+      "name": "岳阳黄沙街百叶",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市黄沙街一带",
+      "description": "岳阳黄沙街百叶：名录列明的黄沙街百叶，作为地方豆制食品记录，不根据名称推定肉类原料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-35414ffa0f51d2",
+      "name": "钱粮湖六门闸风干鱼",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "君山区钱粮湖六门闸",
+      "description": "钱粮湖六门闸风干鱼：湖南名录列明的风干鱼产品，保存县镇地名，不推定统一鱼种与腌料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-54c0ffe5d690c0",
+      "name": "汨罗粽子",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "汨罗市",
+      "description": "汨罗粽子：湖南名录列明的汨罗地方粽子，按粽类收录，咸甜馅料随具体产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-101274c12465a3",
+      "name": "龙窖腐乳",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市龙窖山一带",
+      "description": "龙窖腐乳：湖南地理标志产品名录列明的腐乳，保留龙窖地名，不推定统一发酵配方。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9ec12e4352d920",
+      "name": "龙窖酱菜",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市龙窖山一带",
+      "description": "龙窖酱菜：湖南名录列明的酱菜产品，和同地区腐乳分开记录，不虚构具体菜种组合。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-76b179941163d4",
+      "name": "岳阳黄茶",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关产区",
+      "description": "岳阳黄茶：湖南名录列明的黄茶，以市域茶区记录，具体品种与等级需随茶品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f4b44ff7baa8a6",
+      "name": "平江高山茶",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "平江县",
+      "description": "平江高山茶：湖南名录中的平江地方茶，名称不代替海拔证明，具体茶园还可进一步细分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e150cb2439ac02",
+      "name": "岳阳芭蕉扇",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关传承地区",
+      "description": "岳阳芭蕉扇：湖南名录列明的地方扇类物品，与食品分开，材质和制作工序尚未逐件核查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ac1bf3d08d1dc3",
+      "name": "岳州青瓷",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "岳阳市相关传承地区",
+      "description": "岳州青瓷：湖南名录列明的地方青瓷，以陶瓷器物和制作地区关联记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-d93453565c6ff1",
+      "name": "鼎城茶油",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "鼎城区",
+      "description": "鼎城茶油：湖南名录列明的县区茶油，作为植物食用油记录，区别于冲泡茶饮。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fbd93b2464f473",
+      "name": "常德香米",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "常德市相关产区",
+      "description": "常德香米：湖南名录列明的地方稻米，香米是产品名称，未统一推定栽培品种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3ff981d4d3d8bc",
+      "name": "津市藠果",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "津市市",
+      "description": "津市藠果：湖南名录列明的地方藠类产品，保留津市县级市位置，具体加工形态另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e01c10a6acd691",
+      "name": "常德柳叶鲫",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "常德市相关产区",
+      "description": "常德柳叶鲫：湖南名录列明的柳叶鲫，以鱼类食材记录，不直接据名称推定野生来源。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-4ce399fd5267c3",
+      "name": "汉寿玉臂藕",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "汉寿县",
+      "description": "汉寿玉臂藕：湖南名录列明的地方莲藕产品，以汉寿县域保存食材关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ffa7dbeadcad3a",
+      "name": "石门马头山羊",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "description": "石门马头山羊：湖南名录中的山羊产品，记录石门县产地，肉品与具体熟食分开理解。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-574f31672350df",
+      "name": "石门土鸡",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "description": "石门土鸡：湖南名录列明的地方鸡产品，保留石门县域，不把土鸡一词当作统一品种证明。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-036d1676959207",
+      "name": "临澧杂柑",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "临澧县",
+      "description": "临澧杂柑：湖南名录列明的杂柑产品，记录县域果业关联，具体品种仍按产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-84f76a019d82d1",
+      "name": "临澧黄花鱼",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "临澧县",
+      "description": "临澧黄花鱼：湖南名录列明的黄花鱼产品，物种与养殖水域未据同名海鱼作猜测。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f5ebb346126dff",
+      "name": "澧县葡萄",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "澧县",
+      "description": "澧县葡萄：湖南地理标志产品名录中的葡萄，以澧县保存地方种植关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-98f4844811c327",
+      "name": "桃源大叶茶",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "桃源县",
+      "description": "桃源大叶茶：湖南名录列明的大叶茶，记录桃源产区，不将名称代替每款茶的品种鉴定。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cfa9d42fbad474",
+      "name": "石门红茶",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "description": "石门红茶：湖南名录列明的红茶产品，与同县石门银峰及柑橘分别归类。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ee8ab275a7bfe8",
+      "name": "德山大曲",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "武陵区德山一带",
+      "description": "德山大曲：湖南地理标志名录中的地方酒产品，酒度、容量及当前厂商仍按具体包装核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-04e6f4d914d650",
+      "name": "张家界椪柑",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "张家界市相关产区",
+      "description": "张家界椪柑：湖南名录列明的椪柑产品，按市域保存地方果业关联，不推定单一乡镇。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-af2d4cac9ce10e",
+      "name": "桑植茶油",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "description": "桑植茶油：湖南名录列明的地方茶油，与同县茶叶和蜂蜜按产品类别分别收录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b753358618dfd4",
+      "name": "桑植粽叶",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "description": "桑植粽叶：湖南名录列明的地方粽叶，记录用于包裹食品的植物材料，和粽子成品分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c155738d67947c",
+      "name": "桑植白茶",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "description": "桑植白茶：湖南名录列明的桑植白茶，以地方茶产品记录，具体树种和工艺随茶品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-143270dfed3273",
+      "name": "南县中华鳖",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "南县",
+      "description": "南县中华鳖：湖南名录列明的中华鳖产品，记录南县养殖食材关联，不推定统一烹法。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-481b47d746cf6d",
+      "name": "南县稻虾米",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "南县",
+      "description": "南县稻虾米：湖南名录列明的稻虾米，名称涉及稻虾生产模式，不能理解为米饭里必然含虾。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a6d6f7d8f5af9f",
+      "name": "大通湖大米",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "大通湖区",
+      "description": "大通湖大米：湖南名录中的地方大米，以大通湖区保存具体产区关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-179851facea12c",
+      "name": "大通湖大闸蟹",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "大通湖区",
+      "description": "大通湖大闸蟹：湖南名录列明的地方蟹产品，和同区大米按不同食材分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-04f183765f2628",
+      "name": "桃江绿茶",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "桃江县",
+      "description": "桃江绿茶：湖南名录列明的桃江绿茶，与当地竹笋、竹凉席按不同类别分别收录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6e3428d7dfcd9b",
+      "name": "安化腊肉",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "安化县",
+      "description": "安化腊肉：湖南名录列明的县域腊肉产品，不以地方名称推定统一熏制方式和保存期限。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1d7a18af09b02e",
+      "name": "桃江竹凉席",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "桃江县",
+      "description": "桃江竹凉席：湖南名录列明的竹凉席，按非食品日用品收录，记录地方竹产业关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-55c90a55307b15",
+      "name": "宜章脐橙",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "宜章县",
+      "description": "宜章脐橙：湖南名录列明的地方脐橙，保存宜章县域位置，不与永兴冰糖橙混同。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-2a9c1976283c43",
+      "name": "郴州高山禾花鱼",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "郴州市相关产区",
+      "description": "郴州高山禾花鱼：湖南名录列明的禾花鱼，具体品种、水域及生产模式仍按产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-428e5a1bb72f2b",
+      "name": "桂东罗汉果",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "桂东县",
+      "description": "桂东罗汉果：湖南名录列明的地方罗汉果，作为果实产品记录，不采用疗效宣传。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-07adf67444d18a",
+      "name": "安仁大米",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "安仁县",
+      "description": "安仁大米：湖南名录中的县域稻米产品，保持安仁产地关联，不等同某个商业品牌。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a0fc5ef6899f6b",
+      "name": "汝城白毛茶",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "汝城县",
+      "description": "汝城白毛茶：湖南名录列明的地方茶，保留白毛茶这一名称，品种和加工方式待逐品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ed56235c8379a4",
+      "name": "双牌虎爪姜",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "双牌县",
+      "description": "双牌虎爪姜：湖南名录列明的虎爪姜，记录双牌县域食材关联，不编造具体种植历史。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-76821d4cfcd9c5",
+      "name": "蓝山黄花梨",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "蓝山县",
+      "description": "蓝山黄花梨：湖南名录列明的黄花梨，作为梨果记录，与同名木材品类明确区分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-44d723e0d2e5ab",
+      "name": "新田大豆",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "新田县",
+      "description": "新田大豆：湖南名录列明的新田大豆，以县域保存地方农业关联。保留县域产地关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-eed011235bf168",
+      "name": "道州脐橙",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "道县",
+      "description": "道州脐橙：湖南名录列明的地方脐橙，道州地名按现行道县定位。保留县域产地关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e2ab7ac2212013",
+      "name": "舜皇山土猪",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "东安县舜皇山一带",
+      "description": "舜皇山土猪：湖南名录列明的地方猪产品，记录舜皇山关联，不推定具体养殖场。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c36d6a8e89f511",
+      "name": "陶岭三味辣椒",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "新田县陶岭一带",
+      "description": "陶岭三味辣椒：湖南名录列明的地方辣椒，三味是产品名称，具体品种与风味仍待细分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a931535a21b830",
+      "name": "祁阳槟榔芋",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "祁阳市",
+      "description": "祁阳槟榔芋：湖南名录列明的地方芋类，槟榔芋名称不表示加入槟榔，按现行祁阳市定位。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-d29c6c2e701371",
+      "name": "江华苦茶",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "江华瑶族自治县",
+      "description": "江华苦茶：湖南名录列明的江华地方茶，不将苦茶名称直接等同某一种代用茶植物。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-aea5eb12b2d5b2",
+      "name": "芷江绿壳鸡蛋",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "芷江侗族自治县",
+      "description": "芷江绿壳鸡蛋：湖南名录列明的绿壳鸡蛋，记录产品名称，不由蛋壳颜色推定营养优势。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-249b6f55a1fd2c",
+      "name": "麻阳白鹅",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "麻阳苗族自治县",
+      "description": "麻阳白鹅：湖南名录列明的地方鹅产品，以麻阳县域保存关联，不当作已经烹熟的菜名。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8935cbbd8194dc",
+      "name": "麻阳小籽花生",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "麻阳苗族自治县",
+      "description": "麻阳小籽花生：湖南名录列明的地方花生，保留小籽产品名，具体品种和烘炒形态另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-728825dc58132f",
+      "name": "新晃黄牛肉",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "新晃侗族自治县",
+      "description": "新晃黄牛肉：湖南地理标志产品名录列明的黄牛肉，以新晃县域记录食材产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8d522af62c4d1a",
+      "name": "托口生姜",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "洪江市托口镇",
+      "description": "托口生姜：湖南名录列明的生姜产品，按洪江市托口镇保存地理检索线索。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-46f9519a87ba44",
+      "name": "大崇金秋梨",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "洪江市大崇乡",
+      "description": "大崇金秋梨：湖南名录列明的地方梨产品，以洪江市大崇地名保存县镇关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-4146eaa73aa8d3",
+      "name": "通道腌肉",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "通道侗族自治县",
+      "description": "通道腌肉：湖南名录列明的腌肉产品，记录通道饮食传统，不推定所有产品的食用状态。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-979dd4da72b1c4",
+      "name": "通道苦酒",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "通道侗族自治县",
+      "description": "通道苦酒：湖南名录列明的地方酒，保留苦酒这一名称，具体酒种与酒度尚待细分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-4322f0e3838712",
+      "name": "桥头河萝卜",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "涟源市桥头河镇",
+      "description": "桥头河萝卜：湖南名录列明的萝卜产品，以桥头河乡镇地名保存具体产地关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3f559e21a19d97",
+      "name": "新化魔芋",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "description": "新化魔芋：湖南名录列明的魔芋产品，以农产原料记录，不能直接等同加工后的魔芋制品。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-691a77854f90dd",
+      "name": "新化杨梅",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "description": "新化杨梅：湖南名录列明的新化杨梅，与其他县域杨梅按具名产区分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e92793f79649a1",
+      "name": "新化红薯粉",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "description": "新化红薯粉：湖南名录列明的红薯粉，记录原料产品名，不凭名称决定所有产品均为粉条。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-468641d5a31fc2",
+      "name": "新化稻田鲤鱼",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "新化县",
+      "description": "新化稻田鲤鱼：湖南名录列明的稻田鲤鱼，记录地方水产关联，具体生产模式仍按产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-1850764018454d",
+      "name": "里耶脐橙",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "龙山县里耶镇",
+      "description": "里耶脐橙：湖南名录列明的地方脐橙，保留里耶和龙山县的产地信息。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-599a8e81552c05",
+      "name": "凤凰红心猕猴桃",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰红心猕猴桃：湖南名录列明的猕猴桃产品，红心是产品名线索，不推定所有果实成熟度一致。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a909fd365362e3",
+      "name": "龙山萝卜",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "龙山县",
+      "description": "龙山萝卜：湖南名录列明的地方萝卜，与同县百合、辣椒按不同食材分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-11e2ca73bc3a73",
+      "name": "龙山七姊妹辣椒",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "龙山县",
+      "description": "龙山七姊妹辣椒：湖南名录列明的七姊妹辣椒，具体辛辣程度、品种和包装规格另行核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7ed67bbe64fdb3",
+      "name": "凤凰生姜",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰生姜：湖南名录列明的生姜，记录县域食材，不与姜糖等加工食品混同。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b91de6104e9ccc",
+      "name": "凤凰苦荞",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰苦荞：湖南名录列明的地方苦荞，作为谷物原料记录，不能将全部产品视为冲泡茶。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e023f135d9ec2e",
+      "name": "湘西茶油",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "湘西州相关产区",
+      "description": "湘西茶油：湖南名录列明的区域茶油，以州域保存关联，不缩小为某家厂商的独有产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0a9d1f7b75b5e8",
+      "name": "凤凰姜糖",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰姜糖：湖南名录列明的地方姜糖，记录姜与糖食的产品关联，具体配方仍需按包装核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-9a57e6d4345ad5",
+      "name": "凤凰血粑鸭",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰血粑鸭：湖南名录列明的地方鸭菜，保存凤凰县域位置，血粑等具体制法另作深入核查。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ffff447a2f77e0",
+      "name": "古丈红茶",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "古丈县",
+      "description": "古丈红茶：湖南名录列明的红茶产品，与已收录的古丈毛尖分别按茶类记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-871d9f9840488a",
+      "name": "凤凰蜡染",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "凤凰县",
+      "description": "凤凰蜡染：湖南名录列明的地方蜡染，记录织物工艺关联，不把任意门店售品等同地方制作。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ae11653e3b2d28",
+      "name": "塔卧石雕",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "永顺县塔卧镇",
+      "description": "塔卧石雕：湖南名录列明的地方石雕，保留塔卧地名，原石来源与加工地分别理解。",
+      "verificationScope": "source-supported-name-category-locality"
     }
   ]
 }

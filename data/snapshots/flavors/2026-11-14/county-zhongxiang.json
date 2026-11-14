@@ -1,0 +1,37 @@
+{
+  "sourceId": "county-20261114-zhongxiang",
+  "sourceUrl": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202404/t20240423_5167791_slh.shtml",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "337a9baa27c5d0a2b4eab0d89b730cec7042dfb5cec469b12c2731663a10a676",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-0aaad26c30fc2c",
+      "name": "钟祥蟠龙菜",
+      "province": "hubei",
+      "city": "荆门",
+      "locality": "钟祥市",
+      "description": "钟祥蟠龙菜：湖北农业部门报道介绍钟祥地方蟠龙菜，卷切的菜式形态与地方餐桌记忆相关。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-024f3a3519c3de",
+      "name": "石牌豆腐",
+      "province": "hubei",
+      "city": "荆门",
+      "locality": "钟祥市石牌镇",
+      "description": "石牌豆腐：钟祥地方特产报道将石牌豆腐与蟠龙菜等并列，保留石牌地名，不推定具体凝固工艺。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-71e4fb8a3580a1",
+      "name": "钟祥米茶",
+      "province": "hubei",
+      "city": "荆门",
+      "locality": "钟祥市",
+      "description": "钟祥米茶：地方报道将米茶列为钟祥特产，与茶树叶冲泡品分开；具体炒米和冲煮方法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

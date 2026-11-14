@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-madieer",
+  "sourceUrl": "https://www.xinhuanet.com/20260125/7bbccb50b8ac4f41943f40569c06e537/c.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "2f8e7f7c05fffbdc6e00a4567c04eef8c9258c59b71704e6ccb7593b88262263",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-39afcc6b2cdc09",
+      "name": "马迭尔冰棍",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "道里区中央大街",
+      "description": "马迭尔冰棍：新华社2026年报道确认哈尔滨中央大街马迭尔冷饮厅及奶油冰棍，按冷冻甜食记录；GitHub线索中的名称已作外部核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

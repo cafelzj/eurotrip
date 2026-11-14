@@ -1,0 +1,55 @@
+{
+  "sourceId": "county-20261114-jixi",
+  "sourceUrl": "https://wlt.hlj.gov.cn/wlt/c114164/202605/c00_31943938.shtml",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "fded0d3444b3b8137bc34cbf56c5486a6d55d32b334a9889a3ea837d2fb39ac6",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-1426adabd237b4",
+      "name": "鸡西烤冷面",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "密山市等当地消费地区",
+      "description": "鸡西烤冷面：省文旅报道介绍铁板面片裹蛋、夹烤肠并刷酱的吃法，本条不据此断定唯一发明地点。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ec38443d371679",
+      "name": "西太大煎饼",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "鸡西市相关传承地区",
+      "description": "西太大煎饼：省文旅报道列明的地方煎饼，保留西太地名，具体乡镇与原料构成尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5acc7f1b3300f1",
+      "name": "鸡西朝鲜族打糕",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "鸡西市相关传承地区",
+      "description": "鸡西朝鲜族打糕：省文旅报道列明的朝鲜族打糕，以鸡西城市饮食关联记录，不重复当作延边产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-70b876dce67f30",
+      "name": "柳毛小笨鸡炖榛蘑",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "恒山区柳毛一带",
+      "description": "柳毛小笨鸡炖榛蘑：省文旅报道介绍柳毛鸡肉与榛蘑的组合，保存县区地名，不据俗名推定具体鸡品种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b5b4c1134d1968",
+      "name": "清蒸兴凯湖大白鱼",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "locality": "兴凯湖相关消费地区",
+      "description": "清蒸兴凯湖大白鱼：省文旅报道介绍兴凯湖白鱼蒸制成菜，与已经收录的鱼类原料卡分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

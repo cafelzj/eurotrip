@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-zhiwei",
+  "sourceUrl": "https://www.cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=11769",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "7ec979852d756664405573bb07a57c2ffac4fe16e58328ad5018d494e83a73a2",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-64f43db7758a47",
+      "name": "志威乳品与食品配料",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "locality": "宿迁（市级位置待复核）",
+      "description": "待核实线索：志威乳品与食品配料：食品配料协会参展商资料确认江苏志威乳业及乳粉、炼乳粉等产品，也有植脂末和固体饮料，不能全部称作纯乳制品。",
+      "verificationScope": "company-products-supported-locality-pending"
+    }
+  ]
+}

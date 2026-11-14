@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-weiyang-news",
+  "sourceUrl": "https://jsnews.jschina.com.cn/yz/a/202410/t20241031_3519324.shtml",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "e3397486818b0832a4a9488f3b3743067e554eb74613f0acf2b4cf6c6a36caaa",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-19fed11b1a24fa",
+      "name": "维扬乳品",
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "扬州市维扬乳业工厂",
+      "description": "维扬乳品：中国江苏网2024年社区工厂研学报道确认企业、牛奶生产车间和乳制品，未取得官网正文，不扩写未经读取的具体产品清单。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

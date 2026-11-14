@@ -1,0 +1,3540 @@
+{
+  "checked": "2026-11-14",
+  "searchBatchCount": 39,
+  "queryCount": 50,
+  "scope": "本轮真实网络检索的查询词与结果链接底稿；批量查询共享结果集合，不能把每条结果都视为每个查询命中。",
+  "meaning": "搜索记录不等于正文核实；实际采用条目与已读来源另见flavor-2000-expansion-2026-11-14.json及flavor-source-review.json。",
+  "batches": [
+    {
+      "batch": "jsDairySearch0",
+      "queries": [
+        "江苏 乳制品 生产企业 名单 食品生产许可证",
+        "南京 苏州 无锡 乳业 卫岗 双喜 益多",
+        "常州 红梅 乳业 镇江 乳业 企业",
+        "扬州 扬大 维扬 茉尔 乳业"
+      ],
+      "resultLinks": [
+        {
+          "title": "红梅乳业SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E7%BA%A2%E6%A2%85%E4%B9%B3%E4%B8%9A.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "sc10532SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/sc10532.html"
+        },
+        {
+          "title": "乳制品-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/category/5.html?page=6"
+        },
+        {
+          "title": "乳SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E4%B9%B3.html"
+        },
+        {
+          "title": "﻿﻿2026江苏乳制品企业名录",
+          "url": "https://food.beiei.com/dairy-products/jiangsu.html"
+        },
+        {
+          "title": "江苏维扬乳业有限公司",
+          "url": "https://www.jswyruye.com/"
+        },
+        {
+          "title": "常州红梅乳业有限公司-公司地址-企业联系方式-客套企业名录",
+          "url": "https://qyml.curtao.com/qyml/91320404137294767N"
+        },
+        {
+          "title": "乳业SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E4%B9%B3%E4%B8%9A.html"
+        },
+        {
+          "title": "2026年江苏省常州市市场监督管理局食品安全抽检信息发布（第三期）_食用_天宁区_新北区",
+          "url": "https://www.sohu.com/a/1019907514_122014422"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySearch1",
+      "queries": [
+        "南通 乳业 怡生 海安 乳品 企业",
+        "泰州 乳业 春兰 乳品 企业",
+        "盐城 银宝 菊乐 光明 乳业",
+        "淮安 连云港 宿迁 乳业 乳制品 生产企业"
+      ],
+      "resultLinks": [
+        {
+          "title": "建设项目环境影响报告表",
+          "url": "https://www.haian.gov.cn/haskfq/upload/13c1f14f-315e-4932-82bb-2e65e090c505.pdf"
+        },
+        {
+          "title": "关于2025年度农业产业化市级龙头企业考评认定结果的公示",
+          "url": "https://www.chacewang.com/newsdetail/news909536.html"
+        },
+        {
+          "title": "附件2",
+          "url": "https://www.haian.gov.cn/haskfq/upload/73410ec3-7ea6-4421-a4ed-56bf8f1d6b4e.pdf"
+        },
+        {
+          "title": "盐城市国资委 国企风采 银宝集团",
+          "url": "https://jsycgzw.yancheng.gov.cn/art/2021/11/2/art_521_422438.html"
+        },
+        {
+          "title": "sc10532SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/sc10532.html"
+        },
+        {
+          "title": "企业标准信息公共服务平台",
+          "url": "https://www.qybz.org.cn/user/detail/738d17059f4d7fe3a2ba98fa59e8fad923fa03464df32fd6072324ac961e7b301667e8270e92630f8ddeed1ee4fdb693"
+        },
+        {
+          "title": "SC10532092401655|江苏光明银宝乳业有限公司-sc认证查询网|食品生产许可证查询网-手机版",
+          "url": "https://m.foodsc.net/sc/217855.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://jsychrss.yancheng.gov.cn/attach/0/f8311c59950b42cd8a4220dee0dfc0c3.pdf"
+        },
+        {
+          "title": "光明乳业股份有限公司 2025 年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225052036.PDF"
+        },
+        {
+          "title": "光明乳业(600597)_公司公告_光明乳业：2026年半年度报告新浪财经_新浪网",
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12574314&stockid=600597"
+        },
+        {
+          "title": "从“敲门招商”到“三产共舞”-南通市人民政府",
+          "url": "https://www.nantong.gov.cn/ntsrmzf/sxcz/content/ccab1a03-8e0c-4ef8-a3b8-da5040658f1c.html"
+        },
+        {
+          "title": "中国证券报 - 光明乳业股份有限公司<BR/>第八届董事会第二次会议决议公告",
+          "url": "https://epaper.cs.com.cn/zgzqb/html/2025-07/29/nw.D110000zgzqb_20250729_2-B002.htm"
+        },
+        {
+          "title": "江苏省盐城市市场监督管理局公布120批次食品抽检结果：全部合格_手机新浪网",
+          "url": "https://finance.sina.cn/2022-05-10/detail-imcwiwst6651565.d.html"
+        },
+        {
+          "title": "光明乳业与银宝集团携手打造江苏射阳项目，共创乳业牧业光明未来-光明乳业官网",
+          "url": "https://www.brightdairy.com/News/Detail/20200719144211392"
+        },
+        {
+          "title": "第四十一号 上市公司董事会决议公告",
+          "url": "https://qxb-pdf-osscache.qixin.com/AnBaseinfo/a6082205868bb01ac1486688124cef54.pdf"
+        },
+        {
+          "title": "chunlan - 企查查",
+          "url": "https://top.qcc.com/tc/e0124840d9ff.html"
+        },
+        {
+          "title": "海安市市场监督管理局 关于131批次食品安全监督 抽检信息的通告（2024年第6期） - 公开标准",
+          "url": "https://www.haian.gov.cn/hasscjgj/gkbz/content/7759270f-2458-431b-8c86-2e17ca476ecf.html"
+        },
+        {
+          "title": "SC10532137100228|江苏志威乳业有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/70023.html"
+        },
+        {
+          "title": "江苏省淮安市清江浦区2024年度食品监督抽检信息公示（第四期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-08/05/content_9059552.htm"
+        },
+        {
+          "title": "江苏省淮安市2024年食品安全监督抽检信息公告（第17期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2024-10/10/content_9071316.htm"
+        },
+        {
+          "title": "江苏省海安市市场监督管理局关于86批次食品安全监督抽检信息的通告（2025年第3期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2025-03/18/content_9097490.htm"
+        },
+        {
+          "title": "光明乳业(600597)_公司公告_光明乳业：2026年半年度报告新浪财经_新浪网",
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12574314&stockid=600597"
+        },
+        {
+          "title": "江苏省泰州市市场监管局2026年第6期食品安全监督抽检结果公示-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2026-09/14/content_9172651.htm"
+        },
+        {
+          "title": "序号 1 | 县别 东台市",
+          "url": "https://file.smejs.cn/group1/M00/05/0B/rBIAAWTobOWAZacIAANYkqdK80k267.pdf"
+        },
+        {
+          "title": "江苏省盐城市市场监督管理局关于100批次食品抽检情况的通告（2023年第25期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2023-11/29/content_9004802.htm"
+        },
+        {
+          "title": "淮安市食品制造业黄页-黄页网站免费频道大全-中国企业库黄页网站",
+          "url": "https://www.qiyeku.cn/huangye/358_85_6.html"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySearch2",
+      "queries": [
+        "徐州 睢宁 君乐宝 维维 天山雪 乳业",
+        "江苏 鲜活 乳业 昆山 奶油 企业",
+        "江苏 飞鹤 无锡 美乐 羊奶 乳业"
+      ],
+      "resultLinks": [
+        {
+          "title": "〖江苏〗徐州市市场监管局关于4批次食品不合格情况的通告（2023年第11期）_手机新浪网",
+          "url": "https://finance.sina.cn/2023-12-13/detail-imzxwhkv9034083.d.html?cid=76675&node_id=76675&oid=3810927193872428&vt=4"
+        },
+        {
+          "title": "维维食品饮料股份有限公司2025年年度报告",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225096426.PDF"
+        },
+        {
+          "title": "基本資料-鮮活控股",
+          "url": "https://www.sunjuice.com/category/basic.html"
+        },
+        {
+          "title": "〖江苏〗徐州市市场监管局关于4批次食品不合格情况的通告（2023年第11期）_手机新浪网",
+          "url": "https://finance.sina.cn/2023-12-13/detail-imzxwhkv9034083.d.html"
+        },
+        {
+          "title": "sc10532SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/sc10532.html"
+        },
+        {
+          "title": "鮮活實力-鮮活控股",
+          "url": "https://www.sunjuice.com/category/about.html"
+        },
+        {
+          "title": "第一昆山",
+          "url": "https://www.ksrmtzx.com/news/detail/77373"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/zdly/spjg/cjgg/202507/P020250715581040581323.pdf"
+        },
+        {
+          "title": "江苏省徐州市泉山区市场监管局关于2026年食品安全监督抽检信息的公告（2026年第5期）_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihyuqe1380112.shtml"
+        },
+        {
+          "title": "乳品SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E4%B9%B3%E5%93%81.html"
+        },
+        {
+          "title": "江苏省徐州市泉山区市场监管局关于2026年食品安全监督抽检信息的公告（2026年第5期）_手机新浪网",
+          "url": "https://finance.sina.cn/2026-07-16/detail-inihyuqe1380112.d.html?cid=76675&node_id=76675&oid=%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E6%A4%9C%E7%B4%A2seo+%28TG%3Ae10838%29.hrm&vt=4"
+        },
+        {
+          "title": "鲜活果汁 | 昆山德国工业园",
+          "url": "https://ksgip.com/company/26"
+        },
+        {
+          "title": "「鲜活果汁有限公司招聘」- 智通直聘",
+          "url": "https://www.job5156.com/comp/S3S7B7XpFGuyOeZApoPBCQ"
+        },
+        {
+          "title": "SC10532032100036|江苏君乐宝乳业有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/173101.html"
+        },
+        {
+          "title": "江苏省徐州市睢宁县市场监督管理局关于公布食品安全监督抽检信息的公告（2025年第1期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2025-04/11/content_9101049.htm"
+        },
+        {
+          "title": "江苏省徐州市泉山区市场监管局关于2025年食品安全监督抽检信息的公告（2025年第4期）_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2025-06-04/doc-ineywwwc0319321.shtml"
+        },
+        {
+          "title": "江苏省宿迁市市场监督管理局2024年第23期食品安全监督抽检信息通告-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2025-01/09/content_9086733.htm"
+        },
+        {
+          "title": "无锡市食药监局食品生产、流通环节食品安全监督抽检公示公告",
+          "url": "https://www.wuxi.gov.cn/doc/2018/03/29/2547085.shtml"
+        },
+        {
+          "title": "徐州市人民政府办公室文件",
+          "url": "https://www.investchn.com/Uploads/2022-04/20220407023442-90454.pdf"
+        },
+        {
+          "title": "SC11732058300978|鲜活果汁工业(昆山)有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/57779.html"
+        },
+        {
+          "title": "1063203SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/1063203.html"
+        },
+        {
+          "title": "鲜活实业（昆山）食品工业有限公司",
+          "url": "https://brand.asiabt.com/index.php?homepage=sunjuice"
+        },
+        {
+          "title": "江苏省徐州市泉山区市场监管局关于2025年食品安全监督抽检信息的公告（2025年第5期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2025-07/03/content_9112821.htm"
+        },
+        {
+          "title": "维维股份(600300)_公司公告_维维股份：2025年半年度报告新浪财经_新浪网",
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11376449&stockid=600300"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.mee.gov.cn/gkml/hbb/bgt/201602/W020160204588073230704.pdf"
+        },
+        {
+          "title": "苏州鲜活饮品股份有限公司",
+          "url": "https://reportdocs.static.szse.cn/UpFiles/rasinfodisc1/202303/RAS_202303_CF3AA3C8CC04466DBBE308515A57F98B.pdf"
+        },
+        {
+          "title": "鮮活控股股份有限公司簡報人：　吳明憲",
+          "url": "https://www.myfreshjuice.com/upload/file/2025/03/25/f0155996-e1ca-4659-a99f-0352aa2a94a8.pdf"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySearch3",
+      "queries": [
+        "扬大 乳业 官网 扬州 茉尔",
+        "常州 红梅 乳业 官网",
+        "南通 怡生 乳业 牛奶",
+        "镇江 恒康 乳业 牛奶"
+      ],
+      "resultLinks": [
+        {
+          "title": "红梅乳业SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E7%BA%A2%E6%A2%85%E4%B9%B3%E4%B8%9A.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "乳业SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E4%B9%B3%E4%B8%9A.html"
+        },
+        {
+          "title": "常州红梅乳业有限公司-公司地址-企业联系方式-客套企业名录",
+          "url": "https://qyml.curtao.com/qyml/91320404137294767N"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期",
+          "url": "https://m.cqn.com.cn/ms/att/2025-04/07/dbfc5dfe-8c28-40dd-af7b-33cf3c78a9f4.pdf"
+        },
+        {
+          "title": "红梅袋装鲜牛奶200ml_红梅_食品饮料品牌专题-火爆食品饮料招商网〖5888.TV〗",
+          "url": "https://www.5888.tv/brand/hongmei/pro/8092"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySingle0",
+      "queries": [
+        "扬大乳业 茉尔 官网 扬州"
+      ],
+      "resultLinks": [
+        {
+          "title": "扬大酸奶成美食界新晋网红_中国江苏网",
+          "url": "https://jsnews.jschina.com.cn/24hour/202104/t20210422_2768206.shtml"
+        },
+        {
+          "title": "序号 1 | 标称生产企业名称 徐州新和康源食品",
+          "url": "https://4221067.s21i.faiusr.com/61/ABUIABA9GAAgkbiuygYogeTfjgY.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "科研产品谱｜生物制造产品情报库",
+          "url": "https://bioproductatlas.site/"
+        },
+        {
+          "title": "扬州市扬大康源乳业有限公司经营部 联系电话",
+          "url": "https://m.114best.com/gs32/7681440765.html"
+        },
+        {
+          "title": "乳业SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E4%B9%B3%E4%B8%9A.html"
+        },
+        {
+          "title": "扬州SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E6%89%AC%E5%B7%9E.html"
+        },
+        {
+          "title": "酸奶大学上新！联名限定款来了 —江苏站—教育在线",
+          "url": "https://jiangsu.eol.cn/jsgd/202605/t20260507_2732804.shtml"
+        },
+        {
+          "title": "SC10632100200082|扬州市扬大康源乳业有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/10432.html"
+        },
+        {
+          "title": "扬州市扬大康源乳业有限公司_最新招标采购公告_采招网",
+          "url": "https://www.bidcenter.com.cn/enterprise/yzsydkyryyxgs274189/"
+        },
+        {
+          "title": "扬州市扬大康源乳业有限公司工商信息",
+          "url": "https://www.shitangzhaobiao.com.cn/qiye/yzsydkyryyxgs/6/"
+        },
+        {
+          "title": "扬大牛奶品牌及商品 - 京东",
+          "url": "https://www.jd.com/brand/6196affa142c44526073.html"
+        },
+        {
+          "title": "扬州树人高级中学网站",
+          "url": "https://www.yzzxjyjt.com/yzsr/contents/140/34072.html"
+        },
+        {
+          "title": "一所大学与一座城的奶业情缘 - 乳业时报数字报",
+          "url": "https://static.0471tv.org.cn/sb/pc/con/202512/26/content_94018.html"
+        },
+        {
+          "title": "目  录",
+          "url": "https://www.hfcas.ac.cn/hzjl/ydhz/dfxq/201407/P020140731313762128430.pdf"
+        },
+        {
+          "title": "(12) 按照专利合作条约所公布的国际申请",
+          "url": "https://patentimages.storage.googleapis.com/08/71/16/d4508610cef35b/WO2019095168A1.pdf"
+        },
+        {
+          "title": "(19) 中华人民共和国国家知识产权局",
+          "url": "https://patentimages.storage.googleapis.com/e1/38/4f/658c76d906b5ff/CN103431043B.pdf"
+        },
+        {
+          "title": "扬州大学",
+          "url": "https://zh.wikipedia.org/wiki/%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySingle1",
+      "queries": [
+        "江苏维扬乳业 公司 产品 地址"
+      ],
+      "resultLinks": [
+        {
+          "title": "江苏维扬乳业有限公司",
+          "url": "https://www.jswyruye.com/"
+        },
+        {
+          "title": "张垲_第七类型(上海)供应链管理有限公司_创始人-FoodTalks个人主页",
+          "url": "https://www.foodtalks.cn/people/6351"
+        },
+        {
+          "title": "扬州维扬经开区创智社区组织开展“七彩的夏日·维扬牛奶工厂亲子研学”活动_中国江苏网",
+          "url": "https://jsnews.jschina.com.cn/yz/a/202410/t20241031_3519324.shtml"
+        },
+        {
+          "title": "〖视频〗“新质”观察：“智造 + 文旅”双轮驱动 扬州乳业闯出传统产业新路子",
+          "url": "https://news.96189.com/w/2608/de6fe09a687f4607b2661a9fc7bf4489.html"
+        },
+        {
+          "title": "扬州维扬乳业",
+          "url": "https://sp.hc23.com/company/26353.html"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期/批",
+          "url": "https://www.wxifc.org.cn/upload/portal/20250115/44168f49254c0b4b78e79bf6628fa661.pdf"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期/批",
+          "url": "https://scjgj.jiangsu.gov.cn/attach/0/1e03172c1a8245fbb91b63b30beee1d4.pdf"
+        },
+        {
+          "title": "<BBE3D7DCB1EDA3A8B5DA37C6DAA3A92E786C73>",
+          "url": "https://njna.nanjing.gov.cn/ztzl/cjgjspaqsfcs/jdcjxx/202212/P020221220406532131108.pdf"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期/批",
+          "url": "https://m.cqn.com.cn/ms/att/2025-03/31/6d028c24-5d7e-4ce5-8ab0-c099e0b34294.pdf"
+        },
+        {
+          "title": "维扬品牌介绍-维扬豆腐干_素鸡_豆腐_豆制品-买购APP",
+          "url": "https://www.maigoo.com/brand/25376.html"
+        },
+        {
+          "title": "维扬简介-维扬豆制品-十大品牌网CNPP",
+          "url": "https://www.cnpp.cn/pinpai/25376.html"
+        },
+        {
+          "title": "扬州维扬豆制食品有限公司企业介绍-买购APP",
+          "url": "https://www.maigoo.com/company/21795.html"
+        },
+        {
+          "title": "首页-南京卫岗乳业有限公司",
+          "url": "https://www.weigangdairy.com/"
+        },
+        {
+          "title": "江苏省徐州市云龙区市场监督管理局关于公布食品安全监督抽检信息的通告（2024年第六期）_手机新浪网",
+          "url": "https://finance.sina.cn/2024-10-09/detail-incrxzxu9401405.d.html?from=wap"
+        },
+        {
+          "title": "在线商城-南京卫岗乳业有限公司",
+          "url": "https://www.weigangdairy.com/zxsc"
+        },
+        {
+          "title": "品牌产品-南京卫岗乳业有限公司",
+          "url": "https://www.weigangdairy.com/ppcp"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySingle2",
+      "queries": [
+        "南通 怡生乳业 牛奶"
+      ],
+      "resultLinks": [
+        {
+          "title": "2026年5月25日南通市区部分超市奶制品价格(通城晒价台第1256期）-南通市人民政府",
+          "url": "https://www.nantong.gov.cn/ntsrmzf/csbj/content/48ae0548-69d5-4240-b6f5-75b2e83539f9.html"
+        },
+        {
+          "title": "启东市食品安全监管信息",
+          "url": "https://www.cqn.com.cn/ms/att/2022-07/27/ea6f83fe-71db-4ace-ac39-e090b4d036f8.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.chongchuan.gov.cn/ntsccqscjgj/upload/46c70770-a86f-4efe-8920-909acb9cbaca.pdf"
+        },
+        {
+          "title": "序号 1 | 类别 保健食品 | 产品名称 中国劲酒 | 生产/加工/购 进日期",
+          "url": "https://www.cqn.com.cn/ms/att/2023-05/05/14b9ea0a-92a9-4294-93bb-dd5d06c8baca.pdf"
+        },
+        {
+          "title": "2026年2月25日南通市区部分超市奶制品价格(通城晒价台第1227期）-南通市人民政府",
+          "url": "https://www.nantong.gov.cn/ntsrmzf/csbj/content/75592e66-9a6f-4a51-8fdd-0fe627f35637.html"
+        },
+        {
+          "title": "2026年4月24日南通市区部分超市奶制品价格(通城晒价台第1246期） - 通城晒价台",
+          "url": "https://fgw.nantong.gov.cn/ntsfgw/tcsjt/content/8bd266aa-1844-41f0-8530-804761df6ae5.html"
+        },
+        {
+          "title": "2026年8月25日南通市区部分超市奶制品价格(通城晒价台第1285期）丨信息详情丨招标网",
+          "url": "https://news.zhaobiao.cn/trade_v_e58138f6ae0dd274deb0df531e25f086.html"
+        },
+        {
+          "title": "江苏省南通市市场监督管理局公布124批次食品抽检信息-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2023-01/18/content_8901348.htm"
+        },
+        {
+          "title": "2025年3月25日南通市区部分超市奶制品价格(通城晒价台第1117期）-南通市人民政府",
+          "url": "https://www.nantong.gov.cn/ntsrmzf/csbj/content/9806ffd9-6ca2-4747-add5-eab67be51512.html"
+        },
+        {
+          "title": "海安市市场监督管理局 关于131批次食品安全监督 抽检信息的通告（2024年第6期） - 公开标准",
+          "url": "https://www.haian.gov.cn/hasscjgj/gkbz/content/7759270f-2458-431b-8c86-2e17ca476ecf.html"
+        },
+        {
+          "title": "2026年7月24日南通市区部分超市奶制品价格(通城晒价台第1275期）丨信息详情丨招标网",
+          "url": "https://news.zhaobiao.cn/trade_v_ab32355c72edc84c535a201bba9f524f.html"
+        },
+        {
+          "title": "江苏省南通市市场监管局抽检乳制品98批次均合格|黄海_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2022-04-06/doc-imcwiwst0204405.shtml"
+        },
+        {
+          "title": "江苏省海安市市场监管局公布13批次乳制品抽检合格信息|南通市_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2022-10-21/doc-imqqsmrp3339853.shtml"
+        },
+        {
+          "title": "江苏省南通市2026年食品安全监督抽检结果公告（第一期）_手机新浪网",
+          "url": "https://finance.sina.cn/2026-02-14/detail-inhmuaqs2347697.d.html?vt=4&wm=%3D8115_0001"
+        },
+        {
+          "title": "南通酸奶/粉/益生菌电话_南通酸奶/粉/益生菌价格 - 58同城",
+          "url": "https://nt.58.com/suannai/"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "jsDairySingle3",
+      "queries": [
+        "镇江 乳业 牛奶 企业 恒康 丹阳"
+      ],
+      "resultLinks": [
+        {
+          "title": "练湖乳品：60余年匠心坚守做优“良心奶”_曲阿街道_镇街_丹阳新闻_丹阳新闻网",
+          "url": "https://www.dy001.cn/2024/1014/204378.shtml"
+        },
+        {
+          "title": "镇江市食品、饮料及烟草制品批发黄页-黄页网站免费频道大全-中国黄页网站",
+          "url": "https://www.huangyewang.net/huangye/386_308.html"
+        },
+        {
+          "title": "江苏省镇江市市场监管局公布乳制品三聚氰胺食品安全专项抽检结果-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2020-12/23/content_8654671.htm"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://amr.nanjing.gov.cn/gkml/202507/P020250708639860646598.pdf"
+        },
+        {
+          "title": "江苏省镇江市市场监管局抽检乳制品110批次 合格率100%_手机新浪网",
+          "url": "https://finance.sina.cn/2022-03-17/detail-imcwiwss6622861.d.html"
+        },
+        {
+          "title": "江苏省镇江市抽检原味酸奶等乳制品7批次 全部合格-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2022-12/30/content_8895145.htm"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期/批",
+          "url": "https://www.wxifc.org.cn/upload/portal/20250115/44168f49254c0b4b78e79bf6628fa661.pdf"
+        },
+        {
+          "title": "镇江市多措并举保障消费者乳肉制品食用安全",
+          "url": "https://cfsn.cn/news/detail/274/82909.html"
+        },
+        {
+          "title": "2024年江苏省镇江市高新区5-6月食品安全抽检结果公告_手机新浪网",
+          "url": "https://finance.sina.cn/2024-08-05/detail-inchqtiy8908884.d.html?wm=3049_0015"
+        },
+        {
+          "title": "江苏省溧阳市市场监督管理局关于公布2024年8期食品安全监测结果信息的公告_手机新浪网",
+          "url": "https://finance.sina.cn/2024-08-22/detail-incknxxc8472943.d.html?wm=3049_0015"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "序号",
+          "url": "https://www.cqn.com.cn/ms/att/2023-02/17/45ae3f4f-25fc-413f-b7b6-284148453271.pdf"
+        },
+        {
+          "title": "序号 1 | 标称生产企业名称 如皋市志恒食品厂",
+          "url": "https://m.cqn.com.cn/ms/att/2025-07/28/b7b3b36b-b559-44a6-80c9-dd2c939bb109.pdf"
+        },
+        {
+          "title": "2024年江苏镇江润州区1-5月食品安全抽检结果公告-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2024-08/16/content_9061999.htm"
+        },
+        {
+          "title": "2024年江苏镇江润州区6月食品安全监督抽检结果公告-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-07/29/content_9058571.htm"
+        },
+        {
+          "title": "江阴市人民政府门户网-江苏食品工业企业扎实推进诚信体系建设",
+          "url": "https://www.jiangyin.gov.cn/doc/2015/07/03/687604.shtml"
+        },
+        {
+          "title": "江苏恒顺集团",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E8%8B%8F%E6%81%92%E9%A1%BA%E9%9B%86%E5%9B%A2"
+        },
+        {
+          "title": "奶粉",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A5%B6%E7%B2%89"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch0",
+      "queries": [
+        "湖北 罗田 英山 地方小吃 吊锅 汽水粑"
+      ],
+      "resultLinks": [
+        {
+          "title": "五一黄金周│罗田大别山旅游度假区等你来嗨! - 湖北日报新闻客户端",
+          "url": "https://news.hubeidaily.net/mobile/c_3942540.html"
+        },
+        {
+          "title": "罗田县美食 _罗田县_湖北龙网",
+          "url": "https://www.hubeilong.com/c/121546143342024.html"
+        },
+        {
+          "title": "文旅部推荐8条湖北乡村旅游精品线路，打卡攻略请收好 ！",
+          "url": "https://m.cnhubei.com/content/2022-05/10/content_14736329.html"
+        },
+        {
+          "title": "大别美食，乡味罗田丨罗田十大名吃",
+          "url": "https://m.cnhubei.com/pcmedia/detail?id=636277"
+        },
+        {
+          "title": "文旅部推荐8条湖北乡村旅游精品线路，打卡攻略请收好 ！-荆楚网-湖北日报网",
+          "url": "https://news.cnhubei.com/content/2022-05/10/content_14736329.html"
+        },
+        {
+          "title": "罗田山水农庄·非遗吊锅攻略,山水农庄·非遗吊锅套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃〖携程美食〗",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2717/18179971.html"
+        },
+        {
+          "title": "湖北罗田有哪些特色小吃和特产？ - 惠农网",
+          "url": "https://news.cnhnb.com/zxsd/detail/439567/"
+        },
+        {
+          "title": "方国栋将非遗美食做成餐饮冠军 湖北日报数字报",
+          "url": "https://epaper.hubeidaily.net/pc/content/202602/04/content_339771.html"
+        },
+        {
+          "title": "RWRMRB07B20220522C",
+          "url": "https://paper.people.com.cn/rmrb/images/2022-05/22/07/rmrb2022052207.pdf"
+        },
+        {
+          "title": "2016-18",
+          "url": "https://www.hubei.gov.cn/gbhis/2016/2016-18.pdf"
+        },
+        {
+          "title": "2026-02-04综合",
+          "url": "https://epaper.hubeidaily.net/pc/attachment/202602/04/0a7fd21a-c699-4e3e-912e-479b62e0186c.pdf"
+        },
+        {
+          "title": "2026-02-12社会",
+          "url": "https://epaper.hubeidaily.net/pc/attachment/202602/12/96bd1769-cb99-4870-b6b6-d408c0746b1e.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/zdly/spjg/cjgg/202208/P020220808598748316290.pdf"
+        },
+        {
+          "title": "2025-07-17两会互动",
+          "url": "https://epaper.hubeidaily.net/pc/attachment/202507/17/25858825-a8bf-4364-9c2c-00a8ce4ed516.pdf"
+        },
+        {
+          "title": "湖北省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "滇菜",
+          "url": "https://zh.wikipedia.org/wiki/%E6%BB%87%E8%8F%9C"
+        },
+        {
+          "title": "火烧粑",
+          "url": "https://zh.wikipedia.org/wiki/%E7%81%AB%E7%83%A7%E7%B2%91"
+        },
+        {
+          "title": "焌米茶",
+          "url": "https://zh.wikipedia.org/wiki/%E7%84%8C%E7%B1%B3%E8%8C%B6"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "火鍋",
+          "url": "https://zh.wikipedia.org/wiki/%E7%81%AB%E9%8D%8B"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch1",
+      "queries": [
+        "湖北 竹溪 竹山 房县 特色菜 蒸盆"
+      ],
+      "resultLinks": [
+        {
+          "title": "美味在 “县”丨竹溪：一盆山珍藏百味，半城烟火寄乡愁 - 湖北日报新闻客户端",
+          "url": "https://news.hubeidaily.net/pc/c_5504606.html"
+        },
+        {
+          "title": "十堰人的非遗美食-荆楚网-湖北日报网",
+          "url": "https://www.cnhubei.com/content/2025-02/07/content_18920578.html"
+        },
+        {
+          "title": "竹溪蒸盆",
+          "url": "https://ccyjy.hbue.edu.cn/b1/03/c8558a241923/page.htm"
+        },
+        {
+          "title": "18种好物、5小时慢蒸！竹溪非遗老味道，不用多说的盛情 - 湖北日报新闻客户端",
+          "url": "https://news.hubeidaily.net/mobile/c_5696458.html"
+        },
+        {
+          "title": "竹溪蒸盆：蒸制名菜带富一方百姓-荆楚网-湖北日报网",
+          "url": "https://news.cnhubei.com/content/2023-02/27/content_15533876.html"
+        },
+        {
+          "title": "“烹”然心动！资深大师现场教学，竹溪“楚大厨”品牌“响起来”-荆楚网-湖北日报网",
+          "url": "https://news.cnhubei.com/content/2023-08/23/content_16469771.html"
+        },
+        {
+          "title": "湖北省非遗美食“竹溪蒸盆”落地密云 檀营地区_最新动态_北京市密云区人民政府",
+          "url": "https://www.bjmy.gov.cn/stmy/zjmy/zjgk/tydqbsc/zxdt/202401/t20240119_275193.html"
+        },
+        {
+          "title": "湖北·“年味竹溪 乐购好物”之旅",
+          "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/hubei/detail/8167.html"
+        },
+        {
+          "title": "央视《三餐四季》寻十堰美食，竹溪蒸盆压轴登场 - 湖北日报新闻客户端",
+          "url": "https://news.hubeidaily.net/mobile/c_2706611.html"
+        },
+        {
+          "title": "别错过！十堰特色美食，一口就上头，超绝！_竹溪_郧西_房县",
+          "url": "https://www.sohu.com/a/927157810_121106908"
+        },
+        {
+          "title": "Amazing China Colorful Jingchu丨Zhuxi Steamed Pot: Steamed Cuisine Brings Wealth to Locals",
+          "url": "https://www.ctdsb.net/c1743_202303/1688982.html"
+        },
+        {
+          "title": "“没入菜系却自成体系”，竹溪菜为何“吃香”？",
+          "url": "https://www.ctdsb.net/c1676_202403/2070009.html"
+        },
+        {
+          "title": "区域合作201710.30.indd",
+          "url": "https://lyzz.visitbeijing.com.cn/uploadfile/2018/0530/%E5%8C%BA%E5%9F%9F%E5%90%88%E4%BD%9C2017.pdf"
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://indico.ihep.ac.cn/event/22923/attachments/79283/100043/Shiyan.pdf"
+        },
+        {
+          "title": "2016-18",
+          "url": "https://www.hubei.gov.cn/gbhis/2016/2016-18.pdf"
+        },
+        {
+          "title": "2026-03-12解读一",
+          "url": "https://epaper.hubeidaily.net/pc/attachment/202603/12/198bed65-0797-4b02-84d3-5f0ef439273d.pdf"
+        },
+        {
+          "title": "fz20260530C",
+          "url": "https://syrb.10yan.com/uploadfiles/syrb/20260530/20260530A04.pdf"
+        },
+        {
+          "title": "2024-02-28两会解读二",
+          "url": "https://epaper.hubeidaily.net/pc/attachment/202402/28/2e5091b1-7668-4969-af84-86014c252eb3.pdf"
+        },
+        {
+          "title": "竹溪县",
+          "url": "https://zh.wikipedia.org/wiki/%E7%AB%B9%E6%BA%AA%E5%8E%BF"
+        },
+        {
+          "title": "湖北省中国传统村落列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%9D%91%E8%90%BD%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "竹山",
+          "url": "https://zh.wikipedia.org/wiki/%E7%AB%B9%E5%B1%B1"
+        },
+        {
+          "title": "楚菜",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A5%9A%E8%8F%9C"
+        },
+        {
+          "title": "湖北省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "荆紫关镇",
+          "url": "https://zh.wikipedia.org/wiki/%E8%8D%86%E7%B4%AB%E5%85%B3%E9%95%87"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch2",
+      "queries": [
+        "湖北 钟祥 沙洋 地方美食 蟠龙菜"
+      ],
+      "resultLinks": [
+        {
+          "title": "[荆门]钟祥蟠龙菜：传统美食焕发新生，区域公用品牌扬帆起航--湖北省农业农村厅",
+          "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202404/t20240423_5167791_slh.shtml"
+        },
+        {
+          "title": "[荆门]钟祥发布“蟠龙菜”区域公用品牌--湖北省农业农村厅",
+          "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202412/t20241226_5475666.shtml"
+        },
+        {
+          "title": "钟祥蟠龙菜亮相央视《非遗里的中国》 - 湖北日报新闻客户端",
+          "url": "https://news.hubeidaily.net/pc/c_3074399.html"
+        },
+        {
+          "title": "吴金林：28年坚守，乡厨之子让这道“非遗菜 ”香飘全国--湖北省人力资源和社会保障厅",
+          "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/cjgzlcfjy/jcfxcy/202603/t20260326_5899825.shtml"
+        },
+        {
+          "title": "钟祥蟠龙菜--湖北省文化和旅游厅",
+          "url": "https://wlt.hubei.gov.cn/bmdt/ztzl/zshb/201912/t20191226_1799374.shtml"
+        },
+        {
+          "title": "蟠龙菜_长寿食品_美食_文案_钟祥旅游",
+          "url": "https://zhongxiang.hmltec.com/index.php?c=show&id=129"
+        },
+        {
+          "title": "“钟祥蟠龙菜”区域公用品牌正式发布 传统非遗美食有了“新名片”",
+          "url": "https://m.cnhubei.com/content/2024-12/24/content_18787895.html"
+        },
+        {
+          "title": "寿乡美食(湖北画报)_目的地资料_文案_钟祥旅游",
+          "url": "https://zhongxiang.hmltec.com/index.php?c=show&id=72"
+        },
+        {
+          "title": "舌尖上的非遗 | 钟祥蟠龙菜：吃肉不见肉的明朝御膳_澎湃号·媒体_澎湃新闻-The Paper",
+          "url": "https://www.thepaper.cn/newsDetail_forward_12177153"
+        },
+        {
+          "title": "莲藕排骨汤、沔阳粉蒸肉、钟祥蟠龙菜、腊八豆猪蹄 四款“湖北味”搭上春运高铁-荆楚网-湖北日报网",
+          "url": "https://news.cnhubei.com/content/2024-01/14/content_17260844.html"
+        },
+        {
+          "title": "蟠龙",
+          "url": "https://wjw.hubei.gov.cn/zfxxgk/zc/gkwj/ywh/202602/P020260203609888482012.pdf"
+        },
+        {
+          "title": "编  委（以笔",
+          "url": "https://ivantsoi.myds.me/web/schoolebook/pdf/085019.pdf"
+        },
+        {
+          "title": "本次抽检的食品种类包括餐饮食品、食用农产品、炒货食品及坚果制品、饮料、蔬菜制品、糕点",
+          "url": "https://scjg.hubei.gov.cn/bmdt/jggz/cjgg/202201/P020220107606652277360.pdf"
+        },
+        {
+          "title": "湖北菜介绍09：钟祥蟠龙菜",
+          "url": "https://exp.lnc.edu.cn/suite/portal/res?key=42879960"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/zdly/spjg/cjgg/202201/P020220107606652277360.pdf"
+        },
+        {
+          "title": "新民网：www.xinmin.cn 24小时读者热线：96255",
+          "url": "https://xmwb.xinmin.cn/resfile/2016-10-27/B05/B05.pdf"
+        },
+        {
+          "title": "楚菜",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A5%9A%E8%8F%9C"
+        },
+        {
+          "title": "湖北省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "钟祥市",
+          "url": "https://zh.wikipedia.org/wiki/%E9%92%9F%E7%A5%A5%E5%B8%82"
+        },
+        {
+          "title": "承天府 (湖北)",
+          "url": "https://zh.wikipedia.org/wiki/%E6%89%BF%E5%A4%A9%E5%BA%9C_%28%E6%B9%96%E5%8C%97%29"
+        },
+        {
+          "title": "湖北水库列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E6%B0%B4%E5%BA%93%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "仙桃市",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BB%99%E6%A1%83%E5%B8%82"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch3",
+      "queries": [
+        "湖南 宁远 祁阳 道县 特色小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "湖南·永州金秋魅力田野之旅",
+          "url": "https://zhuanti.mct.gov.cn/csxz2022/hunan/detail_g7yU_721/4619.html"
+        },
+        {
+          "title": "湖南宁远：烹珍馐美馔赛“村碗”",
+          "url": "https://hn.people.com.cn/n2/2024/0611/c356888-40874835.html"
+        },
+        {
+          "title": "宁远县中和镇：特色美食产业铺就群众增收致富路-湖南法治报",
+          "url": "https://www.efaw.cn/content/17363600"
+        },
+        {
+          "title": "祁阳县全域旅游发展规划（文本）",
+          "url": "https://www.qy.gov.cn/qy/lyly/202309/fde5a09995de4cf895abf2171a5153d7/files/80e6b384fdbd4a71a91fcc4f1d797ff2.pdf"
+        },
+        {
+          "title": "2024 年5 月10 日",
+          "url": "https://epaper.voc.com.cn/hnrb/images/2024-05/10/08/2024051008_pdf.pdf"
+        },
+        {
+          "title": "九嶷风光 瑶寨风情",
+          "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/hunan/detail/2382.html"
+        },
+        {
+          "title": "村民当大厨，烹出“乡土味” - 永州 - 新湖南",
+          "url": "https://www.hunantoday.cn/news/xhn/202412/21531547.html"
+        },
+        {
+          "title": "永州特产 - 正宗湖南永州本土特产名录〖中华特产网永州特产大全〗",
+          "url": "https://www.zhtechan.cn/yongzhou/"
+        },
+        {
+          "title": "B2024-05-250401",
+          "url": "https://epaper.voc.com.cn/hnrb/images/2024-05/25/04/2024052504_pdf.pdf"
+        },
+        {
+          "title": "“永州金牌源味”名菜出炉 东安鸡宁远鸭上榜 - 市州精选 - 湖南在线 - 华声在线",
+          "url": "https://hunan.voc.com.cn/news/201710/26124207.html"
+        },
+        {
+          "title": "文旅部推荐！永州4道美食，1条线路入选！_美食特产_永州政府网",
+          "url": "https://www.yzcity.gov.cn/cnyz/mstc/202408/aae15ca942ae454f984a30a217edfeeb.shtml"
+        },
+        {
+          "title": "128条全国乡村旅游精品线路出炉！湖南6条线路上榜_湖南文旅_旅游频道",
+          "url": "https://tour.rednet.cn/content/2022/09/30/11889348.html"
+        },
+        {
+          "title": "128条全国乡村旅游精品线路出炉！湖南6条线路上榜",
+          "url": "https://tour.rednet.cn/m/content/2022/09/30/11889348.html"
+        },
+        {
+          "title": "九嶷圣地 争创5A〖84〗丨相遇村厨，惦记一生，宁远文旅火爆“出圈” - 永州 - 新湖南",
+          "url": "https://www.hunantoday.cn/news/xhn/202504/28922122.html"
+        },
+        {
+          "title": "文旅部推荐！永州4道美食，1条线路入选！_美食特产_永州政府网",
+          "url": "https://yzcity.gov.cn/cnyz/mstc/202408/aae15ca942ae454f984a30a217edfeeb.shtml"
+        },
+        {
+          "title": "B2024-12-230301",
+          "url": "https://hnrb.hunantoday.cn/hnrb_epaper/images/2024-12/23/03/2024122303_pdf.pdf"
+        },
+        {
+          "title": "食品安全抽样检验项目合格食品信息表 本次公布的抽样检验合",
+          "url": "https://m.cqn.com.cn/ms/att/2025-04/24/a3a9d44b-6e50-4f24-bfe8-87af81a74044.pdf"
+        },
+        {
+          "title": "馬楚州縣列表",
+          "url": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E6%A5%9A%E5%B7%9E%E7%B8%A3%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "湖南省道",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8D%97%E7%9C%81%E9%81%93"
+        },
+        {
+          "title": "湘语",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B9%98%E8%AF%AD"
+        },
+        {
+          "title": "零陵地区",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9B%B6%E9%99%B5%E5%9C%B0%E5%8C%BA"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch4",
+      "queries": [
+        "福建 连城 长汀 武平 特色菜 小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "龙岩风味概述 _ 闽菜飘香 _ 福建省商务厅",
+          "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202007/t20200707_5317860.htm"
+        },
+        {
+          "title": "·Research on Standard Application·",
+          "url": "https://science.cspress.com.cn/uploadfile/202509/9f38a90c3c4e35d.pdf"
+        },
+        {
+          "title": "客家祖地 美食故里_龙岩新闻_海峡网",
+          "url": "https://www.hxnews.com/news/fj/ly/201909/10/1802874.shtml"
+        },
+        {
+          "title": "关于省十四届人大二次会议第1342号建议的答复 _ 人大代表建议 _ 福建省农业农村厅",
+          "url": "https://nynct.fujian.gov.cn/xxgk/jyta/jy/202408/t20240809_6500269.htm"
+        },
+        {
+          "title": "信息一代　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　58期",
+          "url": "https://ise.hhu.edu.cn/_upload/article/files/90/f4/22cfc03545e5a8fc78b3be955e61/41de5e74-28e7-4ac1-a865-0cc0f511f5ac.pdf"
+        },
+        {
+          "title": "长汀政府网_长汀人民政府网_福建长汀政府网站-火车网",
+          "url": "https://www.huochepw100.com/zhengfu_350821/"
+        },
+        {
+          "title": "1985—2025，弹指一挥间，《福建乡土》迎来创",
+          "url": "https://www.fjmm.gov.cn/fzlm/fjxt/202512/P020251223392062417525.pdf"
+        },
+        {
+          "title": "十、福建省《龙岩市》_华夏揽胜：走遍神州总攻略最新章节_诛仙网",
+          "url": "https://www.zhuxianwang.com/shu_259875/114125497.html"
+        },
+        {
+          "title": "人民日报海外版-人民网",
+          "url": "https://paper.people.com.cn/rmrbhwb/html/2014-01/03/content_1370457.htm"
+        },
+        {
+          "title": "龙岩史志网_中共龙岩市委党史和地方志研究室 - 本市动态",
+          "url": "https://ly.fjdsfzw.org.cn/2020-07-17/content_94460.html"
+        },
+        {
+          "title": "岩城美食盛宴_福建站_新浪网",
+          "url": "https://fj.sina.com.cn/longyan/zt/ycmssy/"
+        },
+        {
+          "title": "龙岩市2023文旅“客家美食宴”大赛--福建频道--人民网_网上的人民日报",
+          "url": "https://fj.people.com.cn/GB/339045/340948/408556/408569/index.html"
+        },
+        {
+          "title": "龙岩、三明特产之八大干 - 福建首页 -中国天气网",
+          "url": "https://fj.weather.com.cn/zt/tqzt/1784337.shtml"
+        },
+        {
+          "title": "龙岩小吃_龙岩小吃大全_龙岩特色小吃_〖香哈网〗",
+          "url": "https://www.xiangha.com/xiaochi/longyanshi/"
+        },
+        {
+          "title": "序号 1 | 特优区名称 武夷山市武夷岩茶中国特色 农产品优势区",
+          "url": "https://nynct.fujian.gov.cn/xxgk/zfxxgk/fdzdgknr/nyyw/ywgz/202403/P020240305385457612051.pdf"
+        },
+        {
+          "title": "|  | 蚂蜂窝旅游攻略 中国系列",
+          "url": "https://see19.com/wp-content/uploads/2024/08/%E9%A9%AC%E8%9C%82%E7%AA%9D%E6%B0%B8%E5%AE%9A.pdf"
+        },
+        {
+          "title": "正文文件",
+          "url": "https://nynct.fujian.gov.cn/xxgk/zfxxgk/fdzdgknr/nyyw/ywgz/202503/P020250319598918621343.pdf"
+        },
+        {
+          "title": "汀州八大乾",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B1%80%E5%B7%9E%E5%85%AB%E5%A4%A7%E4%B9%BE"
+        },
+        {
+          "title": "客家菜",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%8F%9C"
+        },
+        {
+          "title": "灯盏糕",
+          "url": "https://zh.wikipedia.org/wiki/%E7%81%AF%E7%9B%8F%E7%B3%95"
+        },
+        {
+          "title": "连江县",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BF%9E%E6%B1%9F%E5%8E%BF"
+        },
+        {
+          "title": "中国菜系之乡",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8F%9C%E7%B3%BB%E4%B9%8B%E4%B9%A1"
+        },
+        {
+          "title": "连城县",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BF%9E%E5%9F%8E%E5%8E%BF"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch5",
+      "queries": [
+        "辽宁 辽阳 灯塔 弓长岭 特色美食"
+      ],
+      "resultLinks": [
+        {
+          "title": "2024“美市美食”辽宁地标美食评审认定结果公示",
+          "url": "https://swt.ln.gov.cn/swt/ywxx/tzgg/2024102916531538698/index.shtml"
+        },
+        {
+          "title": "“都市田园•采绿摘黄”之旅",
+          "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/liaoning/detail/2411.html"
+        },
+        {
+          "title": "数字乡村看辽宁 | 辽阳弓长岭：昔日百年矿区 今日康养之城",
+          "url": "https://www.ln.gov.cn/web/ywdt/tpxx/2024110109305380050/index.shtml"
+        },
+        {
+          "title": "100条旅游线路围成的沈阳现代化都市圈冰雪盛宴 开席！",
+          "url": "https://www.ln.gov.cn/web/ywdt/tpxx/2025121909281318125/index.shtml"
+        },
+        {
+          "title": "乡村振兴中国行｜辽阳山水资源变金饭碗，绿色产业开启致富新篇章",
+          "url": "https://www.ln.gov.cn/web/ywdt/jrln/tpxw/2024101209094398632/index.shtml"
+        },
+        {
+          "title": "2022年辽阳市年鉴定稿连版",
+          "url": "https://tpgj-static.lnrbxmt.com/2023/10-08/09-50-400072928461389.pdf"
+        },
+        {
+          "title": "辽阳",
+          "url": "https://www.ln.gov.cn/web/sqgk/csmp/2025101310551591045/index.shtml"
+        },
+        {
+          "title": "辽阳美食节开启 来品“全鱼宴”",
+          "url": "https://www.ln.gov.cn/web/ywdt/qsgd/ass_2_1/2024062008414172912/index.shtml"
+        },
+        {
+          "title": "辽宁日报",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/con/202610/23/content_342216.html"
+        },
+        {
+          "title": "2024“美市美食”辽宁地标美食评审认定结果公示",
+          "url": "https://www.chacewang.com/newsdetail/news684944.html"
+        },
+        {
+          "title": "爱上弓长岭-新闻-北国网",
+          "url": "https://news.lnd.com.cn/system/2026/10/16/030579474.shtml"
+        },
+        {
+          "title": "辽宁日报",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/con/202309/08/content_205239.html"
+        },
+        {
+          "title": "辽宁日报",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/con/202312/15/content_216957.html"
+        },
+        {
+          "title": "1. 辽宁和创物业管理有限公司食",
+          "url": "https://scjg.ln.gov.cn/scjdglj/zt/spaqsfcjhd/sfcj/D912CE4F358544999186A10419D27EDA/2023021715511681439.pdf"
+        },
+        {
+          "title": ",26, 辽阳年鉴（2020）",
+          "url": "https://tpgj-static.lnrbxmt.com/2022/03-16/09-42-380563-513271173.pdf"
+        },
+        {
+          "title": "■ 408 •  辽阳年鉴（2019）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　县（市）区",
+          "url": "https://tpgj-static.lnrbxmt.com/2022/03-16/09-41-410712-610826593.pdf"
+        },
+        {
+          "title": "WBA03B20230103C",
+          "url": "https://epaper.lnd.com.cn/lswbepaper/pc/att/202301/03/0a122fa5-bfd5-4779-a256-6bbdc30b5fa3.pdf"
+        },
+        {
+          "title": "辽宁省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E5%AE%81%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "辽阳市",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E9%98%B3%E5%B8%82"
+        },
+        {
+          "title": "辽宁省A级旅游景区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E5%AE%81%E7%9C%81A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "弓长岭区",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BC%93%E9%95%BF%E5%B2%AD%E5%8C%BA"
+        },
+        {
+          "title": "鞍山鐵礦",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9E%8D%E5%B1%B1%E9%90%B5%E7%A4%A6"
+        },
+        {
+          "title": "灯塔市",
+          "url": "https://zh.wikipedia.org/wiki/%E7%81%AF%E5%A1%94%E5%B8%82"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch6",
+      "queries": [
+        "吉林 大安 通榆 洮南 特色 美食"
+      ],
+      "resultLinks": [
+        {
+          "title": "白城区域旅游线路（1431—1477）",
+          "url": "https://whhlyt.jl.gov.cn/ztzl/jlslyxlhxj/gdxl/bcs/bcs_424374/202507/t20250710_9277030.html"
+        },
+        {
+          "title": "白城市 “鹤舞湿地情·民俗休闲游”研学之旅",
+          "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/jilin/detail/1976.html"
+        },
+        {
+          "title": "吉林·“鹤舞蓝天 漫赏杏花”闲适之旅",
+          "url": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/beijing/detail_g7yU_506/3386.html"
+        },
+        {
+          "title": "吉林6条乡村旅游线路入选“全国精品”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_19229190"
+        },
+        {
+          "title": "吉林·盛世丰年 游购白城",
+          "url": "https://zhuanti.mct.gov.cn/csxz2022/jilin/detail_g7yU_711/4433.html"
+        },
+        {
+          "title": "文旅部推荐！吉林这5条线路，国庆必去！",
+          "url": "https://jl.people.com.cn/n2/2023/0926/c349771-40586093.html"
+        },
+        {
+          "title": "大安市旅游线路（1491—1506）",
+          "url": "https://whhlyt.jl.gov.cn/ztzl/jlslyxlhxj/gdxl/bcs/das/202507/t20250710_9277036.html"
+        },
+        {
+          "title": "吉林省6条乡村旅游线路入选“全国精品”！_澎湃号·媒体_澎湃新闻-The Paper",
+          "url": "https://www.thepaper.cn/newsDetail_forward_19248793"
+        },
+        {
+          "title": "文旅部推薦！吉林這5條線路，國慶必去！",
+          "url": "https://jl.people.com.cn/BIG5/n2/2023/0926/c349771-40586093.html"
+        },
+        {
+          "title": "Baicheng Travel Guide: Xianghai Wetland, Cranes, Grasslands | CN Trip Essentials",
+          "url": "https://cntripessentials.com/destinations/jilin/baicheng/"
+        },
+        {
+          "title": "（５）",
+          "url": "https://xxgk.jl.gov.cn/szf/gkml/202205/W020220602571552298668.pdf"
+        },
+        {
+          "title": "标题",
+          "url": "https://www.jl.gov.cn/gb/2024/zb_202418/szfbgtwj/202410/P020241012350493660183.pdf"
+        },
+        {
+          "title": "专栏：高值高效生态农业重点工程",
+          "url": "https://xxgk.jl.gov.cn/szf/gkml/201812/W020141118571765672928.pdf"
+        },
+        {
+          "title": "吉林洮南经济开发区化工园区",
+          "url": "https://www.taonan.gov.cn/xxgk/tzgg/202503/P020250408508123781456.pdf"
+        },
+        {
+          "title": "LY04B20250117C",
+          "url": "https://www.ctnews.com.cn/paper/att/202501/17/a0d124a8-f8fa-4ac4-8f07-2e7b076803b0.pdf"
+        },
+        {
+          "title": "同安美食特色足",
+          "url": "https://dzb.sunnews.cn/page/2025-01/28/A06/hxcb20250128A06.pdf"
+        },
+        {
+          "title": "吉林省省道及以上道路列表",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E7%9C%81%E7%9C%81%E9%81%93%E5%8F%8A%E4%BB%A5%E4%B8%8A%E9%81%93%E8%B7%AF%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "吉林省公路",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E7%9C%81%E5%85%AC%E8%B7%AF"
+        },
+        {
+          "title": "吉林省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "通榆县",
+          "url": "https://zh.wikipedia.org/wiki/%E9%80%9A%E6%A6%86%E5%8E%BF"
+        },
+        {
+          "title": "辽菜",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E8%8F%9C"
+        },
+        {
+          "title": "白城地区",
+          "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E5%9F%8E%E5%9C%B0%E5%8C%BA"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch7",
+      "queries": [
+        "黑龙江 虎林 密山 鸡东 特色菜 小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "黑龙江省发布龙江特色十大名菜、67县美食菜品名录 - 黑龙江网",
+          "url": "https://www.chinahlj.cn/news/830743.html"
+        },
+        {
+          "title": "第六章　文旅产业优化升级工程",
+          "url": "https://www.jixi.gov.cn/jixi/c100329/202302/60274/files/%E9%B8%A1%E8%A5%BF%E5%B8%82%E5%85%A8%E5%9F%9F%E6%97%85%E6%B8%B8%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92%282022%E5%B9%B4--2035%E5%B9%B4%29.pdf"
+        },
+        {
+          "title": "黑龙江·“境界江湖 爽朗鸡西”乡村休闲之旅",
+          "url": "https://zhuanti.mct.gov.cn/xczgshsh2023/syxj/detail_shi/3783.html"
+        },
+        {
+          "title": "烟火边城 百味鸡西-黑龙江省文化和旅游厅",
+          "url": "https://wlt.hlj.gov.cn/wlt/c114164/202605/c00_31943938.shtml"
+        },
+        {
+          "title": "黑龙江省乡村旅游精品线路 - 扶携领地",
+          "url": "https://www.zgfxld.com/nd.jsp?id=1694"
+        },
+        {
+          "title": "迎旅发 看鸡西｜鸡东：边境小城的山水红韵与烟火风情",
+          "url": "https://wap.hljnews.cn/template/100/6909569914160128.html"
+        },
+        {
+          "title": "鸡西特产 - 正宗黑龙江鸡西本土特产名录〖中华特产网鸡西特产大全〗",
+          "url": "https://www.zhtechan.cn/ji-xi/"
+        },
+        {
+          "title": "<th>市(地)、县(",
+          "url": "https://www.hljszw.org.cn/pdf/20250603/%E7%B2%AE%E9%A3%9F%E5%BF%97-%E6%80%BB.pdf"
+        },
+        {
+          "title": "鸡东特产有哪些？正宗鸡东特产图文介绍 -黑龙江鸡东特产大全 - 特色谷",
+          "url": "https://www.tesegu.com/techan/jidong/"
+        },
+        {
+          "title": "密山特产有哪些？正宗密山特产图文介绍 -黑龙江密山特产大全 - 特色谷",
+          "url": "https://m.tesegu.com/techan/mishan/"
+        },
+        {
+          "title": "鸡东特产有哪些？正宗鸡东特产图文介绍 -黑龙江鸡东特产大全 - 特色谷",
+          "url": "https://www.dinglijixie.com/techan/jidong/index.html"
+        },
+        {
+          "title": "虎林特产有哪些？正宗虎林特产图文介绍 -黑龙江虎林特产大全 - 特色谷",
+          "url": "https://m.tesegu.com/techan/hulin/?sort=new"
+        },
+        {
+          "title": "行食四季 | 属于黑龙江的诗画生活，绝不能错过的全国乡村旅游精品路线新鲜出炉-黑龙江省文化和旅游厅",
+          "url": "https://wlt.hlj.gov.cn/wlt/c114254/202308/c00_31659995.shtml"
+        },
+        {
+          "title": "黑经贸投资发〔2001〕403号",
+          "url": "https://gxt.hlj.gov.cn/gxt/c106958/202309/31670988/files/%E9%BB%91%E5%B7%A5%E4%BF%A1%E9%A3%9F%E5%93%81%E8%81%94%E5%8F%91%5B2023%5D226%E5%8F%B7%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E5%8E%85%E7%AD%89%E5%8D%81%E4%BA%94%E9%83%A8%E9%97%A8%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BF%AB%E6%8E%A8%E5%8A%A8%E5%9C%B0%E6%96%B9%E7%89%B9%E8%89%B2%E9%A3%9F%E5%93%81%E4%BA%A7%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%A1%88%281%29.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.hlj.gov.cn/hlj/yjzj/202212/31506150/files/%E3%80%8A%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E8%BE%B9%E5%A2%83%E5%9F%8E%E9%95%87%E7%89%B9%E8%89%B2%E9%A3%8E%E8%B2%8C%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B.pdf"
+        },
+        {
+          "title": "密山特产有哪些？正宗密山特产图文介绍 -黑龙江密山特产大全 - 特色谷",
+          "url": "https://www.tesegu.com/techan/mishan/"
+        },
+        {
+          "title": "密山市隶属于黑龙江省密山市",
+          "url": "https://www.hljms.gov.cn/mss/c100499/202501/319160/files/%E5%AF%86%E5%B1%B1%E5%B8%82%E5%9B%BA%E4%BD%93%E5%BA%9F%E7%89%A9%E5%88%86%E7%B1%BB%E6%B2%BB%E7%90%86%E4%B8%93%E9%A1%B9%E8%A7%84%E5%88%92%EF%BC%882024-2035%E5%B9%B4%EF%BC%89%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+        },
+        {
+          "title": "黑龙江省边境城镇特色风貌建设规划",
+          "url": "https://www.hlj.gov.cn/hlj/yjzj/202212/31506150/files/HLJ202212111919000199831177754.pdf"
+        },
+        {
+          "title": "烤冷面",
+          "url": "https://zh.wikipedia.org/wiki/%E7%83%A4%E5%86%B7%E9%9D%A2"
+        },
+        {
+          "title": "黑龙江省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "龙江菜",
+          "url": "https://zh.wikipedia.org/wiki/%E9%BE%99%E6%B1%9F%E8%8F%9C"
+        },
+        {
+          "title": "吉林省",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%89%E6%9E%97%E7%9C%81"
+        },
+        {
+          "title": "Northeast China administrative division codes of the PRC (Division 2)",
+          "url": "https://en.wikipedia.org/wiki/Northeast_China_administrative_division_codes_of_the_PRC_%28Division_2%29"
+        },
+        {
+          "title": "东方红镇",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%96%B9%E7%BA%A2%E9%95%87"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch8",
+      "queries": [
+        "辽宁 阜新 彰武 阜蒙县 地方美食"
+      ],
+      "resultLinks": [
+        {
+          "title": "阜新市旅游资源简介",
+          "url": "https://whly.fuxin.gov.cn/content/2024/319864.html"
+        },
+        {
+          "title": "关于印发《阜新文化旅游全面振兴新突破三年行动方案（2023—2025年）》的通知",
+          "url": "https://whly.fuxin.gov.cn/content/2023/782937.html"
+        },
+        {
+          "title": "漠上草原缓缓归——辽宁彰武",
+          "url": "https://www.zhangwu.gov.cn/content/2025/1016573.html"
+        },
+        {
+          "title": "游遍阜新_阜新市文化旅游和广播电视局",
+          "url": "https://whly.fuxin.gov.cn/channel/12021/index.html"
+        },
+        {
+          "title": "阜新戏冰玩雪挑战之旅",
+          "url": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/liaoning/detail/2809.html"
+        },
+        {
+          "title": "市政协十二届三次会议《关于加强乡村文化建设推进乡村振兴的建议》（54号）答复",
+          "url": "https://whly.fuxin.gov.cn/content/2020/313308.html"
+        },
+        {
+          "title": "全国乡村旅游重点乡镇展播⑧阜新市彰武县大德镇大德村：生态旅游闯新路 “漠上草原”好风光",
+          "url": "https://whly.ln.gov.cn/whly/mtjj/2022111114311393260/index.shtml"
+        },
+        {
+          "title": "阜新本地生活 阜新本地生活信息查询 辽宁省阜新市信息查询 - 新北旅游网",
+          "url": "https://www.sgpabj.com/bendi/fuxin/"
+        },
+        {
+          "title": "食品经营许可基本信息  |  |  |  |  |  |  |",
+          "url": "https://www.zhangwu.gov.cn/zw/file/2023-11-16/17001170695374028e4928a108a34138018bd6dfbee1516c.pdf"
+        },
+        {
+          "title": "辽宁·“雪国童话 激情冰雪 ”之旅",
+          "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/4974.html"
+        },
+        {
+          "title": "阜新市彰武县，美食攻略 - 鹿线图",
+          "url": "https://www.aiyoutravel.com/article/detail/1879394315106115584"
+        },
+        {
+          "title": "RB0820251029C",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/att/202510/29/517880bf-c074-4ebd-a6cb-ca0588f9c059.pdf"
+        },
+        {
+          "title": "辽宁省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E5%AE%81%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "彰武镇",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BD%B0%E6%AD%A6%E9%95%87"
+        },
+        {
+          "title": "彰武县",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BD%B0%E6%AD%A6%E5%8E%BF"
+        },
+        {
+          "title": "辽宁省A级旅游景区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E5%AE%81%E7%9C%81A%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "阜新蒙古族自治县",
+          "url": "https://zh.wikipedia.org/wiki/%E9%98%9C%E6%96%B0%E8%92%99%E5%8F%A4%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF"
+        },
+        {
+          "title": "后新秋镇",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%8E%E6%96%B0%E7%A7%8B%E9%95%87"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch9",
+      "queries": [
+        "河南 民权 宁陵 睢县 地方特色 美食"
+      ],
+      "resultLinks": [
+        {
+          "title": "标题",
+          "url": "https://xcoss.henan.gov.cn/typtfile/20260116/4b01cf5ec75444d8b5e1b5d9c92b2ca7.pdf"
+        },
+        {
+          "title": "商丘特产 - 正宗河南商丘本土特产名录〖中华特产网商丘特产大全〗",
+          "url": "https://www.zhtechan.cn/shangqiu/"
+        },
+        {
+          "title": "董店街道",
+          "url": "https://www.hnzwfw.gov.cn/411422210000/detail.html?region=411422210000"
+        },
+        {
+          "title": "校地结对帮扶，助力脱贫攻坚——宁陵特产介绍-外语与旅游学院 - 河南工业贸易职业学院",
+          "url": "https://www.hngm.edu.cn/yywyxy/info/1047/1651.htm"
+        },
+        {
+          "title": "河南宁陵：探索“红色+”旅游新业态_先锋文汇_共产党员网",
+          "url": "https://tougao.12371.cn/gaojian.php?tid=5735582"
+        },
+        {
+          "title": "河南宁陵：花开万树 幸福满园--文旅·体育--人民网",
+          "url": "https://ent.people.com.cn/n1/2025/1116/c1012-40604675.html"
+        },
+        {
+          "title": "部门文件　　　　　　　　　　　　　　　　　　　　　　　　　　　　河南省人民政府公报(2002.7)",
+          "url": "https://file.henan.gov.cn/4500000001/2020-04-23/1587641251474MdSsiyKH.pdf"
+        },
+        {
+          "title": "中国城市报-人民网",
+          "url": "https://paper.people.com.cn/zgcsb/html/2016-08/15/content_1704760.htm"
+        },
+        {
+          "title": "（河南省）商丘市宁陵县国民经济和社会发展十四五规划（2022年更新）-可行性研究报告规划计划-大牛工程师",
+          "url": "https://www.gcs66.com/document_detail/46585.html"
+        },
+        {
+          "title": "趣哪悠“七豫”之旅之吃豫菜：商丘传统热门美食名吃名单_凤凰网",
+          "url": "https://i.ifeng.com/c/8GWbX6jok4S"
+        },
+        {
+          "title": "梨花带雨润沃土---河南文明网",
+          "url": "https://hen.wenming.cn/jiaodiantu/202503/t20250328_6877996.html"
+        },
+        {
+          "title": "宁陵：梨花白 日子甜",
+          "url": "https://henan.people.com.cn/n2/2021/0329/c351638-34645730.html"
+        },
+        {
+          "title": "· 424 · 宁县志（1986—2015）",
+          "url": "https://gsdfszw.org.cn/gsxz/qys_275/nx/202201/P020220120628497562674.pdf"
+        },
+        {
+          "title": "睢宁县",
+          "url": "https://zh.wikipedia.org/wiki/%E7%9D%A2%E5%AE%81%E5%8E%BF"
+        },
+        {
+          "title": "宁陵县_中国县域",
+          "url": "https://www.zgcounty.com/wap/news/19266.html"
+        },
+        {
+          "title": "的医学教授石国壁、水",
+          "url": "https://www.gsdfszw.org.cn/gsxnj/qys_306/nxnj/202310/P020231025417862283025.pdf"
+        },
+        {
+          "title": "World Bank Document",
+          "url": "https://documents1.worldbank.org/curated/en/262901468216941734/pdf/E22700CHINESE01Henan1FD1Wang11012CN.pdf"
+        },
+        {
+          "title": "sqrbxq@16",
+          "url": "https://epaper.sqrb.com.cn/old/sqrb/page/1/2018-07/12/04/2018071204_pdf.pdf"
+        },
+        {
+          "title": "宁陵县",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%81%E9%99%B5%E5%8E%BF"
+        },
+        {
+          "title": "民权县",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B0%91%E6%9D%83%E5%8E%BF"
+        },
+        {
+          "title": "明朝行政區劃",
+          "url": "https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83"
+        },
+        {
+          "title": "河南省道",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B2%B3%E5%8D%97%E7%9C%81%E9%81%93"
+        },
+        {
+          "title": "商阜片",
+          "url": "https://zh.wikipedia.org/wiki/%E5%95%86%E9%98%9C%E7%89%87"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch10",
+      "queries": [
+        "浙江 江山 常山 衢江 地方菜 小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "衢州美食攻略三头一掌_兔头鸭头鱼头鸭掌_衢州小吃推荐-浙江江郎山国旅",
+          "url": "https://jianglangshanlvxingshe.com/guide/food"
+        },
+        {
+          "title": "明明这么土的衢州菜系 为什么在杭城有那么多店？-杭州新闻中心-杭州网",
+          "url": "https://hznews.hangzhou.com.cn/jingji/content/2021-09/05/content_8046989_0.htm"
+        },
+        {
+          "title": "浙江农家特色小吃百强榜出炉-杭州新闻中心-杭州网",
+          "url": "https://hznews.hangzhou.com.cn/jingji/content/2021-02/09/content_7909452_0.html"
+        },
+        {
+          "title": "衢州美食攻略三头一掌_兔头鸭头鱼头鸭掌_衢州小吃推荐-浙江江郎山国旅",
+          "url": "https://www.jianglangshanlvxingshe.com/guide/food"
+        },
+        {
+          "title": "特产_浙江衢州经济开发区|衢州招商|衢州厂房|衢州产业园|衢州工业园",
+          "url": "https://qzedz.investchn.com/About/index/pid/165.html"
+        },
+        {
+          "title": "浙市联〔2020〕4 号",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3096/site/attach/-1/2101050842001018309.pdf"
+        },
+        {
+          "title": "我们一起做一张杭城衢州菜系地图_杭州2022年第19届亚运会官网",
+          "url": "https://www.hangzhou2022.cn/hzhyn/mshz/202109/t20210923_39304.shtml"
+        },
+        {
+          "title": "明明这么土的衢州菜系 为什么在杭城有那么多店？-杭州新闻中心-杭州网",
+          "url": "https://hznews.hangzhou.com.cn/jingji/content/2021-09/05/content_8046989_2.htm"
+        },
+        {
+          "title": "LY04B20230217C",
+          "url": "https://www.ctnews.com.cn/paper/att/202302/17/9ec4e74f-f90d-4c36-8fef-601e9ddea8eb.pdf"
+        },
+        {
+          "title": "浙江工人日报",
+          "url": "https://epaper.zjgrrb.com/html/2021-08/07/content_2761198.htm?div=0"
+        },
+        {
+          "title": "浙市联〔2020〕4 号",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3397/site/attach/-1/2101050842001018309.pdf"
+        },
+        {
+          "title": "新的一年去江山寻找一个遗世独立旧梦尝尝妈妈的那碗大陈面-浙江新闻-浙江在线",
+          "url": "https://zjnews.zjol.com.cn/zjnews/qznews/201812/t20181229_9113540.shtml"
+        },
+        {
+          "title": "浙江省商务",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2147/site/attach/0/02ff5b22c4ba4708943db1b1f94e493d.pdf"
+        },
+        {
+          "title": "衢州市人民政府关",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3084/site/attach/0/fe261a27cb06482eb5bc801af1786313.pdf"
+        },
+        {
+          "title": "政报2020年第十二期",
+          "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3084/site/attach/0/b15951e87ff749dea3a65417fa497a8a.pdf"
+        },
+        {
+          "title": "衢州人用70+图，辣到你抱头痛哭！_浙江在线",
+          "url": "https://qz.zjol.com.cn/qzxw/201901/t20190128_9357535_ext.shtml?mode=m2pc"
+        },
+        {
+          "title": "明明这么土的衢州菜系 为什么在杭城有那么多店？-杭州新闻中心-杭州网",
+          "url": "https://hznews.hangzhou.com.cn/jingji/content/2021-09/05/content_8046989.htm"
+        },
+        {
+          "title": "江山特产有哪些？正宗江山特产图文介绍 -浙江江山特产大全 - 特色谷",
+          "url": "https://www.tesegu.com/techan/jiangshan/?sort=hot7"
+        },
+        {
+          "title": "衢州市",
+          "url": "https://zh.wikipedia.org/wiki/%E8%A1%A2%E5%B7%9E%E5%B8%82"
+        },
+        {
+          "title": "常山港",
+          "url": "https://zh.wikipedia.org/wiki/%E5%B8%B8%E5%B1%B1%E6%B8%AF"
+        },
+        {
+          "title": "衢江",
+          "url": "https://zh.wikipedia.org/wiki/%E8%A1%A2%E6%B1%9F"
+        },
+        {
+          "title": "浙江省中国传统村落列表",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B5%99%E6%B1%9F%E7%9C%81%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E6%9D%91%E8%90%BD%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "浙江省",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B5%99%E6%B1%9F%E7%9C%81"
+        },
+        {
+          "title": "杭州市",
+          "url": "https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82"
+        },
+        {
+          "title": "Garden of Contentment",
+          "url": "https://www.newyorker.com/magazine/2008/11/24/garden-of-contentment"
+        },
+        {
+          "title": "My wife's annual plate of hometown 干粉/gānfěn. I had the 年糕/niángāo instead, because I'm not local.",
+          "url": "https://www.reddit.com/r/chinesefood/comments/1r8pb3y/my_wifes_annual_plate_of_hometown_%E5%B9%B2%E7%B2%89g%C4%81nf%C4%9Bn_i_had/"
+        },
+        {
+          "title": "3 Days in Wenzhou — Looking for Authentic Local Experiences",
+          "url": "https://www.reddit.com/r/chinalife/comments/1wnq43g/3_days_in_wenzhou_looking_for_authentic_local/"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "countySearch11",
+      "queries": [
+        "安徽 舒城 霍邱 金寨 地方小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "六安市文化和旅游局关于印发《六安市乡村旅游发展规划（2021-2035年）》的通知",
+          "url": "https://www.luan.gov.cn/group1/M00/0E/71/wKgSGWVXK9-Ab-EWAAnwNllN5qA568.pdf"
+        },
+        {
+          "title": "六安市文化和旅游局关于印发《六安市乡村旅游发展规划（2021-2035年）》的通知_六安市文化和旅游局",
+          "url": "https://wlj.luan.gov.cn/public/6608361/10526224.html"
+        },
+        {
+          "title": "六安市乡土特色产品品牌目录",
+          "url": "https://scjgj.luan.gov.cn/group4/M00/04/FA/wKgSHGBb6laAWsn1AAILria4_5M269.pdf"
+        },
+        {
+          "title": "<th>序号",
+          "url": "https://www.shucheng.gov.cn/group3/M00/2D/8D/wKgSG2I2sl-AGT9_AATZfa0hvNU709.pdf"
+        },
+        {
+          "title": "特色美食200道！安徽百县名小吃名单出炉",
+          "url": "https://ah.people.com.cn/n2/2022/0129/c358428-35117890.html"
+        },
+        {
+          "title": "安徽百县名小吃名单出炉！200道！@小伙伴一起去吃吃吃！_中安在线",
+          "url": "https://ah.anhuinews.com/mssh/202202/t20220201_5790284.html"
+        },
+        {
+          "title": "六安市文化和旅游局规范性文件",
+          "url": "https://www.luan.gov.cn/group1/M00/10/6F/wKgSGWcysdGARHTpAAsCI31_ECE721.pdf"
+        },
+        {
+          "title": "六安市文化和旅游局关于印发《六安市乡村旅游发展规划（2021-2035年）》的通知_六安市文化和旅游局",
+          "url": "https://www.luan.gov.cn/public/6608361/10197177.html"
+        },
+        {
+          "title": "六安特产 - 正宗安徽六安本土特产名录〖中华特产网六安特产大全〗",
+          "url": "https://www.zhtechan.cn/liuan/"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.luan.gov.cn/group1/M00/14/AE/wKgSGWlcaqyACkbGAAQQp_E96cc285.pdf"
+        },
+        {
+          "title": "相约安徽·向春而行 | 春游大别山，来一场舌尖上的“踏青”_文旅动态_文旅六安_六安新闻网",
+          "url": "https://ht.luaninfo.com/lxla/lydt/content_164203"
+        },
+        {
+          "title": "关于2024年省级农村电商项目申报推荐及认定结果的公示_六安市商务局（六安市人民政府口岸办公室）",
+          "url": "https://swj.luan.gov.cn/zwzx/tzgg/5358529.html"
+        },
+        {
+          "title": "〖跟着赛事去旅行〗看龙舟、品美食！快来六安赴一场饕餮盛宴！_文旅动态_文旅六安_六安新闻网",
+          "url": "https://ht.luaninfo.com/lxla/lydt/content_196968"
+        },
+        {
+          "title": "如果你来到安徽六安，这6种特产美食别错过，全你吃过才算合格|桃|小吃|霍邱|金寨|菱角_新浪娱乐_新浪新闻",
+          "url": "https://k.sina.cn/article_6391624937_17cf874e900100qjdx.html"
+        },
+        {
+          "title": "央视力荐，六安小吃火了！快到六安来，开启一场特色美食美景之旅！_文旅动态_文旅六安_六安新闻网",
+          "url": "https://www.luaninfo.com/lxla/lydt/content_174351"
+        },
+        {
+          "title": "皖美好味道 | 寻觅大别山的春之味_TOM旅游",
+          "url": "https://travel.tom.com/202204/1689224230.html"
+        },
+        {
+          "title": "花開安徽 向春出發|春游大別山，來一場舌尖上的“踏青”",
+          "url": "https://ah.people.com.cn/BIG5/n2/2023/0314/c358428-40335814.html"
+        },
+        {
+          "title": "淮西话",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B7%AE%E8%A5%BF%E8%AF%9D"
+        },
+        {
+          "title": "六安县道列表",
+          "url": "https://zh.wikipedia.org/wiki/%E5%85%AD%E5%AE%89%E5%8E%BF%E9%81%93%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "安徽省",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%BD%E7%9C%81"
+        },
+        {
+          "title": "安徽省乡级以上行政区列表",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B9%A1%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "合肥市道路列表",
+          "url": "https://zh.wikipedia.org/wiki/%E5%90%88%E8%82%A5%E5%B8%82%E9%81%93%E8%B7%AF%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "洪巢片",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B4%AA%E5%B7%A2%E7%89%87"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "expansionSearch0",
+      "queries": [
+        "福建 地理标志 产品 名录 县 特产 农产品"
+      ],
+      "resultLinks": [
+        {
+          "title": "正文文件",
+          "url": "https://nynct.fujian.gov.cn/xxgk/zfxxgk/fdzdgknr/nyyw/ywgz/202310/P020231026381879868594.pdf"
+        },
+        {
+          "title": "福建省农业农",
+          "url": "https://nynct.fj.gov.cn/xxgk/zfxxgk/fdzdgknr/nyyw/ywgz/202512/P020251203407052587807.pdf"
+        },
+        {
+          "title": "地理标志保护和",
+          "url": "https://scjgj.fujian.gov.cn/zfxxgkzl/xxgkml/zdlyxxgk/zscq/202308/P020230928311070827226.pdf"
+        },
+        {
+          "title": "A0420250824C",
+          "url": "https://mag.fznews.com.cn/fzrb/2025/20250824/20250824_004/news-fzrb-9822-20250824-m-004-004-300.pdf"
+        },
+        {
+          "title": "福建省地理标志保护产品名录（截至2024-12-31，累计107件）_帮帮团网",
+          "url": "https://www.bbthy.net/tea/9709.html"
+        },
+        {
+          "title": "地方特色农产品 🍊 | Laosheng.top",
+          "url": "https://laosheng.top/fuwu/%E5%86%9C%E4%BA%A7%E5%93%81"
+        },
+        {
+          "title": "福建省农业农",
+          "url": "https://nynct.fujian.gov.cn/xxgk/zfxxgk/fdzdgknr/nyyw/ywgz/202512/P020251203407052587807.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.fujian.gov.cn/zw/tzgg/202604/P020260420560681369610.pdf"
+        },
+        {
+          "title": "山海相融 地标生“金”_ 福建要闻_福建省人民政府门户网站",
+          "url": "https://www.fujian.gov.cn/xwdt/fjyw/202607/t20260719_7189699.htm"
+        },
+        {
+          "title": "来围观！福建省地理标志产业地图发布_福建_新闻频道_福州新闻网",
+          "url": "https://news.fznews.com.cn/dsxw/20240424/8dN8Msss27.shtml"
+        },
+        {
+          "title": "福建地理标志产品名单目录 福建省地理标志产品有哪些→榜中榜知识",
+          "url": "https://www.maigoo.com/goomai/741061.html"
+        },
+        {
+          "title": "2026年品牌农业项目 _ 资金政策公开 _ 福建省农业农村厅",
+          "url": "https://nynct.fj.gov.cn/xxgk/czzj/zjzcgk/202602/t20260211_7091926.htm"
+        },
+        {
+          "title": "福建：地标“金名片”催生产业新活力_ 文旅经济_福建省人民政府门户网站",
+          "url": "https://www.fj.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202305/t20230523_6173958.htm"
+        },
+        {
+          "title": "福建地理标志产品名单目录 福建省地理标志产品有哪些→榜中榜知识",
+          "url": "https://m.maigoo.com/goomai/741061.html"
+        },
+        {
+          "title": "福建省地理标志调研简报：福建地理标志656个，居全国第4位；漳州市以150个居全国地市州盟首位，亚热带果品特色鲜明，运用率55.03%。_保护_县域_特产",
+          "url": "https://www.sohu.com/a/1087922027_120801483"
+        },
+        {
+          "title": "福建省10个农产品获农产品地理标志登记保护",
+          "url": "https://fj.people.com.cn/n2/2021/0112/c181466-34523020.html"
+        },
+        {
+          "title": "建宁县县域商业建设工作实施方案 _ 县域商业体系专栏 _ 建宁县人民政府门户网站",
+          "url": "https://www.fjjn.gov.cn/ztzl/xysytx/202403/t20240306_2007032.htm"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "中国农产品地理标志登记列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%BA%A7%E5%93%81%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E7%99%BB%E8%AE%B0%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "福建地理",
+          "url": "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%BB%BA%E5%9C%B0%E7%90%86"
+        },
+        {
+          "title": "闽清县",
+          "url": "https://zh.wikipedia.org/wiki/%E9%97%BD%E6%B8%85%E5%8E%BF"
+        },
+        {
+          "title": "福州市",
+          "url": "https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E5%B8%82"
+        },
+        {
+          "title": "宁德市",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%81%E5%BE%B7%E5%B8%82"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "expansionSearch1",
+      "queries": [
+        "安徽 地理标志 产品 名录 特产 县"
+      ],
+      "resultLinks": [
+        {
+          "title": "安徽省5个产品获批国家地理标志保护产品",
+          "url": "https://ah.people.com.cn/n2/2025/0418/c358428-41200273.html"
+        },
+        {
+          "title": "中国保护知识产权网",
+          "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202407/1986822.html"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "金丝绞瓜等安徽6项地理标志产品将有地方标准",
+          "url": "https://ah.people.com.cn/n2/2026/0402/c227131-41541722.html"
+        },
+        {
+          "title": "中宇恒泰地理标志综合服务平台",
+          "url": "https://chinapgi.org/industry/VerifyAnnouncement/445.html"
+        },
+        {
+          "title": "安徽省5个产品获批国家地理标志保护产品 总数增至99个|标志|安徽省_新浪新闻",
+          "url": "https://news.sina.com.cn/zx/gj/2025-04-18/doc-inetquyr7924109.shtml"
+        },
+        {
+          "title": "2026安徽十大特产盘点：十大地理标志产品排名与参考价（砀山酥梨、长丰草莓、霍山石斛、六安瓜片、黄山毛峰…）",
+          "url": "https://kwbdltc.cn/specialty.html"
+        },
+        {
+          "title": "关于核准安徽齐顶山茶业有限公司等52家企业使用地理标志产品专用标志的公告",
+          "url": "https://www.cpgi.org.cn/?a=detail&c=i&cataid=3&id=4435"
+        },
+        {
+          "title": "中国保护知识产权网",
+          "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202109/1964818.html"
+        },
+        {
+          "title": "国家知识产权局 动态信息 安徽新增31家企业获准使用地理标志专用标志",
+          "url": "https://www.cnipa.gov.cn/art/2020/7/3/art_57_150218.html"
+        },
+        {
+          "title": "安徽持续以标准化建设为核心抓手为地理标志保护产品赋能_农业科普_科普博览_资讯_中国农业科技推广网手机版",
+          "url": "https://www.agricoop.cn/mobile/news/show.php?itemid=30025"
+        },
+        {
+          "title": "中国保护知识产权网",
+          "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202010/1955804.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=9d36d63974e849d9b5586fde98a80741.pdf&showname=%E7%AC%AC%E4%BA%8C%E6%89%B9%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E8%BF%90%E7%94%A8%E4%BF%83%E8%BF%9B%E9%87%8D%E7%82%B9%E8%81%94%E7%B3%BB%E6%8C%87%E5%AF%BC%E5%90%8D%E5%BD%95.pdf"
+        },
+        {
+          "title": "安徽特色农产品代表性产品",
+          "url": "https://www.xn--btrs6f400a.com/index.php/wap/jyxw/491.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/module/download/down.jsp?colID=2536&i_ID=199319"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/attach/0/4ddbcb4c323e424ba621dd198f92f5ae.pdf"
+        },
+        {
+          "title": "序号 1 | 地理标志 产品名称 晋州鸭梨 | 企",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=622180b14e544e4e8e43a9ae447bb716.pdf&showname=247%E5%AE%B6%E6%A0%B8%E5%87%86%E4%BD%BF%E7%94%A8%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%B8%93%E7%94%A8%E6%A0%87%E5%BF%97%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95.pdf"
+        },
+        {
+          "title": "中国农产品地理标志登记列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%BA%A7%E5%93%81%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E7%99%BB%E8%AE%B0%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "序号 1 | 产品名称 崇明白山羊",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=c623d8fede31457eaaea781f49a4164f.pdf&showname=1.+%E5%B4%87%E6%98%8E%E7%99%BD%E5%B1%B1%E7%BE%8A%E7%AD%89224%E4%B8%AA%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E5%85%AC%E5%91%8A%E4%BF%A1%E6%81%AF.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://zscqj.hubei.gov.cn/fbjd/zc/qtzdgkwj/202410/P020241016358334723301.pdf"
+        },
+        {
+          "title": "当涂县",
+          "url": "https://zh.wikipedia.org/wiki/%E5%BD%93%E6%B6%82%E5%8E%BF"
+        },
+        {
+          "title": "西山焦枣",
+          "url": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%B1%B1%E7%84%A6%E6%9E%A3"
+        },
+        {
+          "title": "中国地理标志产品",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81"
+        },
+        {
+          "title": "和县",
+          "url": "https://zh.wikipedia.org/wiki/%E5%92%8C%E5%8E%BF"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "expansionSearch2",
+      "queries": [
+        "山东 地理标志 产品 名录 特产 县"
+      ],
+      "resultLinks": [
+        {
+          "title": "地方特色农产品 🍊 | Laosheng.top",
+          "url": "https://laosheng.top/fuwu/%E5%86%9C%E4%BA%A7%E5%93%81"
+        },
+        {
+          "title": "山东-地理标志特产大全",
+          "url": "https://www.sinogi.cn/wap/index.php/county/index/typeid/370000"
+        },
+        {
+          "title": "山东省地理标志保护产品名单｜山东年鉴2013｜山东年鉴｜山东地情档案",
+          "url": "https://shandong-chorography.org/database/d00/section/27/article/346/"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "地理标志产品名单",
+          "url": "https://www.xn--btrs6f400a.com/index.php/wap/wzzx/330.html"
+        },
+        {
+          "title": "一、",
+          "url": "https://www.boshan.gov.cn/module/download/downfile.jsp?classid=0&filename=592793a1a8f84d50ae0a38fc2828ed78.pdf"
+        },
+        {
+          "title": "地理标志|地标特产大全-地理标志特产大全",
+          "url": "https://www.sinogi.cn/wap/index.php/share/details/id/12752"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/attach/0/baf15fc1f5b74750bf14e64ec11ca970.pdf"
+        },
+        {
+          "title": "山东地理标志产品名单目录 山东省地理标志保护产品有哪些→榜中榜知识",
+          "url": "https://www.maigoo.com/goomai/741066.html"
+        },
+        {
+          "title": "ICS 67.080.20",
+          "url": "https://qccdata.qichacha.com/Standard/StandardLocal/79e30abf9d710a2af410bfdb15cb6527.pdf"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "expansionSearch3",
+      "queries": [
+        "江苏 地理标志 产品 名录 特产"
+      ],
+      "resultLinks": [
+        {
+          "title": "江苏省人民政府 地方动态 盐城市19个产品入选地理标志产品名录",
+          "url": "https://www.jiangsu.gov.cn/art/2025/8/4/art_33718_11618298.html"
+        },
+        {
+          "title": "江苏省人民政府 今日江苏 江苏省地理标志文创新品目录发布",
+          "url": "https://www.jiangsu.gov.cn/art/2026/10/20/art_60095_11844259.html"
+        },
+        {
+          "title": "YZWBA008B20221230C",
+          "url": "https://doss.xhby.net/zpaper/yzwb/pc/att/202212/30/04413ecd-b429-42f7-8857-17f2e0a21076.pdf"
+        },
+        {
+          "title": "国家知识产权局公报 2023·4",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=7113fe2dd51a4a38b80f7e15bb6c5ad7.pdf&showname=2023-4.pdf"
+        },
+        {
+          "title": "国家知识产权局 动态信息 江苏启动“我最喜爱的江苏地理标志产品”公益调查活动",
+          "url": "https://www.cnipa.gov.cn/art/2022/6/23/art_57_176166.html"
+        },
+        {
+          "title": "江苏地理标志产品有哪些 江苏地理标志产品名单目录→榜中榜知识",
+          "url": "https://www.maigoo.com/goomai/740992.html"
+        },
+        {
+          "title": "江苏-地理标志特产大全",
+          "url": "https://www.sinogi.cn/wap/index.php/county/zxshow/typeid/320000/id/9422"
+        },
+        {
+          "title": "“苏地优品——2022我最喜爱的江苏地理标志产品”公益调查活动评选结果出炉",
+          "url": "https://www.sohu.com/a/622767544_121448078"
+        },
+        {
+          "title": "江苏又有28种美食将获国家地理标志保护 - 气象科普 -中国天气网",
+          "url": "https://www.weather.com.cn/jiangsu/qxkp/rdzt/11/2224942.shtml"
+        },
+        {
+          "title": "地方特色农产品 🍊 | Laosheng.top",
+          "url": "https://laosheng.top/fuwu/%E5%86%9C%E4%BA%A7%E5%93%81"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=9c60bcffb9b443729e14988ca84ffe93.pdf&showname=%E7%AC%AC%E4%BA%8C%E6%89%B9%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E8%BF%90%E7%94%A8%E4%BF%83%E8%BF%9B%E9%87%8D%E7%82%B9%E8%81%94%E7%B3%BB%E6%8C%87%E5%AF%BC%E5%90%8D%E5%BD%95.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=d5360c4c44384f3ea91d58f71fc1e84b.pdf&showname=%E7%AC%AC%E4%B8%80%E6%89%B9%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E8%BF%90%E7%94%A8%E4%BF%83%E8%BF%9B%E9%87%8D%E7%82%B9%E8%81%94%E7%B3%BB%E6%8C%87%E5%AF%BC%E5%90%8D%E5%BD%95.pdf"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "<",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=baf15fc1f5b74750bf14e64ec11ca970.pdf&showname=%E7%AC%AC%E4%BA%8C%E6%89%B9%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E8%BF%90%E7%94%A8%E4%BF%83%E8%BF%9B%E9%87%8D%E7%82%B9%E8%81%94%E7%B3%BB%E6%8C%87%E5%AF%BC%E5%90%8D%E5%BD%95.pdf"
+        },
+        {
+          "title": "江苏-地理标志特产大全",
+          "url": "https://www.sinogi.cn/wap/index.php/county/ggpt/typeid/320000"
+        },
+        {
+          "title": "ＰＲＯＰＥ",
+          "url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=4e7b10fcdeb3432f9d23eef250a82ed9.pdf&showname=2024-3.pdf"
+        },
+        {
+          "title": "打造区域发展金名片——江苏地理标志产品调查_手机新浪网",
+          "url": "https://finance.sina.cn/2023-12-21/detail-imzytmzn4954839.d.html"
+        },
+        {
+          "title": "去江苏可以买点啥？13市宝藏苏货清单，建议收藏！_中国江苏网",
+          "url": "https://jsnews.jschina.com.cn/jsyw/202603/t20260330_s69ca49bae4b0cff2510431d5.shtml"
+        },
+        {
+          "title": "中国农产品地理标志登记列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%BA%A7%E5%93%81%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E7%99%BB%E8%AE%B0%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "中国国家地理标志保护产品",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81"
+        },
+        {
+          "title": "江苏省非物质文化遗产",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7"
+        },
+        {
+          "title": "雨花茶",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9B%A8%E8%8A%B1%E8%8C%B6"
+        },
+        {
+          "title": "中国地理标志产品",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubFoodSearch0",
+      "queries": [
+        "site:github.com 中国 美食 地图 特产"
+      ],
+      "resultLinks": [
+        {
+          "title": "一张图吃遍中国：AI 眼中的“美食版”中国地图详解 · jiacai2050 jiacai2050 · Discussion #59 · GitHub",
+          "url": "https://github.com/jiacai2050/jiacai2050/discussions/59"
+        },
+        {
+          "title": "GitHub - tanjunming111/HUAXIA_Travel_Web: A Web that will provide you with suggestions for your traveling plans. · GitHub",
+          "url": "https://github.com/tanjunming111/HUAXIA_Travel_Web"
+        },
+        {
+          "title": "GitHub - wjjwkwindy/awesome-cn-food-web: 🇨🇳🍚中国美食地图 | China food map | Vue3 + Vite · GitHub",
+          "url": "https://github.com/wjjwkwindy/awesome-cn-food-web"
+        },
+        {
+          "title": "shanhe-youji/cities.md at main · yingwang/shanhe-youji · GitHub",
+          "url": "https://github.com/yingwang/shanhe-youji/blob/main/cities.md"
+        },
+        {
+          "title": "GitHub - salaamalykum/China-Halal-Restaurant: High-quality dataset of 201 authentic articles introducing Halal restaurants across China. RAG optimized. · GitHub",
+          "url": "https://github.com/salaamalykum/China-Halal-Restaurant"
+        },
+        {
+          "title": "shanhe-youji/card-data.md at main · yingwang/shanhe-youji · GitHub",
+          "url": "https://github.com/yingwang/shanhe-youji/blob/main/card-data.md"
+        },
+        {
+          "title": "VibeJourney/README.zh-CN.md at main · iAmCorey/VibeJourney · GitHub",
+          "url": "https://github.com/iAmCorey/VibeJourney/blob/main/README.zh-CN.md"
+        },
+        {
+          "title": "Halal-Food-In-China/content/北京清真美食地图34.md at main · salaamalykum/Halal-Food-In-China · GitHub",
+          "url": "https://github.com/salaamalykum/Halal-Food-In-China/blob/main/content/%E5%8C%97%E4%BA%AC%E6%B8%85%E7%9C%9F%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE34.md"
+        },
+        {
+          "title": "Halal-Food-In-China/content/北京清真美食地图26期.md at main · salaamalykum/Halal-Food-In-China · GitHub",
+          "url": "https://github.com/salaamalykum/Halal-Food-In-China/blob/main/content/%E5%8C%97%E4%BA%AC%E6%B8%85%E7%9C%9F%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9B%BE26%E6%9C%9F.md"
+        },
+        {
+          "title": "ujn45d26a/20kR8OX9fU.md at main · stm-v/ujn45d26a · GitHub",
+          "url": "https://github.com/stm-v/ujn45d26a/blob/main/20kR8OX9fU.md"
+        },
+        {
+          "title": "GitHub - jacwu/demo-gpt-image-2 · GitHub",
+          "url": "https://github.com/jacwu/demo-gpt-image-2"
+        },
+        {
+          "title": "GitHub - MiChuan/Qinghai_Tibet_Tourism: Qinghai-Tibet Tourism · GitHub",
+          "url": "https://github.com/MiChuan/Qinghai_Tibet_Tourism"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubFoodSearch1",
+      "queries": [
+        "site:github.com 中国 地方小吃 数据"
+      ],
+      "resultLinks": [
+        {
+          "title": "shanhe-youji/card-data.md at main · yingwang/shanhe-youji · GitHub",
+          "url": "https://github.com/yingwang/shanhe-youji/blob/main/card-data.md"
+        },
+        {
+          "title": "ixdcat.github.io/content.json at master · xdcxdc/ixdcat.github.io · GitHub",
+          "url": "https://github.com/xdcxdc/ixdcat.github.io/blob/master/content.json"
+        },
+        {
+          "title": "GitHub - salaamalykum/Chinese-Muslim-Travel: 本数据集是目前已知的纯中文原生穆斯林旅游 RAG 专属语料库。所有标题和正文均为未经过任何翻译和篡改的原始中文文本 · GitHub",
+          "url": "https://github.com/salaamalykum/Chinese-Muslim-Travel"
+        },
+        {
+          "title": "hysadm/ZjzsCzmt_760267.md at main · okingman/hysadm · GitHub",
+          "url": "https://github.com/okingman/hysadm/blob/main/ZjzsCzmt_760267.md"
+        },
+        {
+          "title": "GitHub - XS661/travel_china_rag: 面向全国的智能旅游问答与推荐系统（移动端 Web） · GitHub",
+          "url": "https://github.com/XS661/travel_china_rag"
+        },
+        {
+          "title": "hysadm/ZLrOslVs_749147.md at main · okingman/hysadm · GitHub",
+          "url": "https://github.com/okingman/hysadm/blob/main/ZLrOslVs_749147.md"
+        },
+        {
+          "title": "adtaip/20260816RlQaNw.md at main · bryanchristopher743/adtaip · GitHub",
+          "url": "https://github.com/bryanchristopher743/adtaip/blob/main/20260816RlQaNw.md"
+        },
+        {
+          "title": "20260718_06/20260821-ibhu0j2o.md at main · lindsayawren-sys/20260718_06 · GitHub",
+          "url": "https://github.com/lindsayawren-sys/20260718_06/blob/main/20260821-ibhu0j2o.md"
+        },
+        {
+          "title": "GitHub - Dancing-Pierre/Taobao_snail_noodle_review_visualization_large_screen: 淘宝螺蛳粉销售数据可视化大屏 · GitHub",
+          "url": "https://github.com/Dancing-Pierre/Taobao_snail_noodle_review_visualization_large_screen"
+        },
+        {
+          "title": "xwlb/news/2021-03-26.md at master · xiaoyu2er/xwlb · GitHub",
+          "url": "https://github.com/xiaoyu2er/xwlb/blob/master/news/2021-03-26.md"
+        },
+        {
+          "title": "ieefmc/20260818CsrOmw.md at main · lynchjon970/ieefmc · GitHub",
+          "url": "https://github.com/lynchjon970/ieefmc/blob/main/20260818CsrOmw.md"
+        },
+        {
+          "title": "hysadm/OaqWDaEE_759144.md at main · okingman/hysadm · GitHub",
+          "url": "https://github.com/okingman/hysadm/blob/main/OaqWDaEE_759144.md"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubFoodSearch2",
+      "queries": [
+        "site:github.com Anduin2017 HowToCook"
+      ],
+      "resultLinks": [
+        {
+          "title": "Releases · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/releases"
+        },
+        {
+          "title": "GitHub - Anduin2017/HowToCook: Programmer's guide about how to cook at home. · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook"
+        },
+        {
+          "title": "HowToCook/README.md at master · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/master/README.md"
+        },
+        {
+          "title": "Package how-to-cook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/pkgs/container/how-to-cook"
+        },
+        {
+          "title": "GitHub - Anduin2017/HowToCook at www.ooee.top · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/?ref=www.ooee.top"
+        },
+        {
+          "title": "All Workflow Runs · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/actions"
+        },
+        {
+          "title": "本地部署菜谱 Web 服务，没有餐谱内容，显示 “在 HowToCook 中搜索 0 道菜谱” · Issue #1790 · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/issues/1790"
+        },
+        {
+          "title": "Issues · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/issues"
+        },
+        {
+          "title": "HowToCook/.github/templates/readme_template.md at master · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/master/.github%2Ftemplates%2Freadme_template.md"
+        },
+        {
+          "title": "Anduin2017 HowToCook · Discussions · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/discussions"
+        },
+        {
+          "title": "地三鲜炒出来齁咸 · Issue #1687 · Anduin2017/HowToCook",
+          "url": "https://github.com/Anduin2017/HowToCook/issues/1687"
+        },
+        {
+          "title": "HowToCook/LICENSE at master · Anduin2017/HowToCook · GitHub",
+          "url": "https://github.com/Anduin2017/HowToCook/blob/master/LICENSE"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "extraCitySearch0",
+      "queries": [
+        "2024 美市美食 辽宁 地标美食 评审认定结果 公示 215"
+      ],
+      "resultLinks": [
+        {
+          "title": "2024“美市美食”辽宁地标美食评审认定结果公示",
+          "url": "https://swt.ln.gov.cn/swt/ywxx/tzgg/2024102916531538698/index.shtml"
+        },
+        {
+          "title": "2024“美市美食”辽宁地标美食名单公布-要闻播报-沈阳市文旅局",
+          "url": "https://wlgd.shenyang.gov.cn/xxfb/ywbb/202412/t20241212_4775387.html"
+        },
+        {
+          "title": "2024“美市美食”辽宁地标美食评审认定结果公示",
+          "url": "https://www.chacewang.com/newsdetail/news684944.html"
+        },
+        {
+          "title": "辽宁官方公布地标美食评定结果：大连上榜最多，沈阳“大兴狗肉”被删_中国政库_澎湃新闻-The Paper",
+          "url": "https://www.thepaper.cn/newsDetail_forward_29608498"
+        },
+        {
+          "title": "辽宁完整指南｜美食·特产·地理标志产品·非遗",
+          "url": "https://micselect.com/en/regions/liaoning/guide"
+        },
+        {
+          "title": "辽宁日报",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/con/202412/11/content_265005.html"
+        },
+        {
+          "title": "官方发布！辽宁“硬菜”榜来了-地方新闻-北国网",
+          "url": "https://liaoning.lnd.com.cn/system/2024/12/11/030493657.shtml"
+        },
+        {
+          "title": "辽宁“硬菜”榜单公布！沈阳鸡架、锦州烧烤等196道地方美食入围_辽宁食品工业网",
+          "url": "https://www.lnfia.cn/index.php?a=index&aid=1027&c=View&m=home"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://swt.ln.gov.cn/swt/ywxx/tzgg/17c8a40f-4.shtml"
+        },
+        {
+          "title": "36个大连美食入选2024辽宁地标美食-A01版－半岛晨报数字版",
+          "url": "https://bdcb.cn/shtml/bdcb/20241211/20241211A013.html"
+        },
+        {
+          "title": "辽宁日报",
+          "url": "https://epaper.lnd.com.cn/lswbepaper/pc/con/202412/16/content_265795.html"
+        },
+        {
+          "title": "鸭绿江之窗",
+          "url": "https://www.yljzc.com/zh/News_18547.html"
+        },
+        {
+          "title": "沈阳市窗口",
+          "url": "https://epaper.lnd.com.cn/lswbepaper/pc/att/202412/16/77233301-aa2a-4fc4-b448-e3b2f26470b5.pdf"
+        },
+        {
+          "title": "WBA03B20241231C",
+          "url": "https://epaper.lnd.com.cn/lswbepaper/pc/att/202412/31/55c2c20a-9eb4-41cd-be57-330dec46a23c.pdf"
+        },
+        {
+          "title": "WENHUAXINWEN",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/att/202412/24/80657641-3e7d-45b8-96b7-76a5bb9b970c.pdf"
+        },
+        {
+          "title": "ICS 03.080.99",
+          "url": "https://www.ttbz.org.cn/upload/file/20221230/6380801062113166995718982.pdf"
+        },
+        {
+          "title": "RB0220241211C",
+          "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/att/202412/11/a4365b87-a173-4b09-9ddf-bf90504ec079.pdf"
+        },
+        {
+          "title": "辽菜",
+          "url": "https://zh.wikipedia.org/wiki/%E8%BE%BD%E8%8F%9C"
+        },
+        {
+          "title": "国家级非物质文化遗产代表性项目名录",
+          "url": "https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E7%BA%A7%E9%9D%9E%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E4%BB%A3%E8%A1%A8%E6%80%A7%E9%A1%B9%E7%9B%AE%E5%90%8D%E5%BD%95"
+        },
+        {
+          "title": "中国地理标志产品保护列表",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BA%A7%E5%93%81%E4%BF%9D%E6%8A%A4%E5%88%97%E8%A1%A8"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "extraCitySearch1",
+      "queries": [
+        "江苏 泰州 乳业 金力 牛奶"
+      ],
+      "resultLinks": [
+        {
+          "title": "序号 1 | 标示生产单位 名称 福建广林福茶 业有限责任公 司 | 标示生产单位地",
+          "url": "https://www.cqn.com.cn/ms/att/2025-08/12/cc7c68c7-ac48-42fd-8a87-9d3641c9d300.pdf"
+        },
+        {
+          "title": "sc10532SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/sc10532.html"
+        },
+        {
+          "title": "泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果汇总表（8）",
+          "url": "https://www.cmc.gov.cn/cms_files/filemanager/1558491259/attach/202411/6dd7db20addf41a1b30800fd81ae9593.pdf?fileName=%E6%B3%B0%E5%B7%9E%E5%8C%BB%E8%8D%AF%E9%AB%98%E6%96%B0%E5%8C%BA%EF%BC%88%E9%AB%98%E6%B8%AF%E5%8C%BA%EF%BC%89%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB%E8%A1%A8%EF%BC%88%E5%85%AB%EF%BC%89.pdf"
+        },
+        {
+          "title": "江苏省泰州市市场监管局2026年第6期食品安全监督抽检结果公示-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2026-09/14/content_9172651.htm"
+        },
+        {
+          "title": "泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果汇总表（6）",
+          "url": "https://www.cmc.gov.cn/cms_files/filemanager/1558491259/attach/202512/8ca8beb3c9d44e22903f25419b3199ac.pdf?fileName=%E6%B3%B0%E5%B7%9E%E5%8C%BB%E8%8D%AF%E9%AB%98%E6%96%B0%E5%8C%BA%EF%BC%88%E9%AB%98%E6%B8%AF%E5%8C%BA%EF%BC%89%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB%E8%A1%A8%EF%BC%88%E5%85%AD%EF%BC%89.pdf"
+        },
+        {
+          "title": "泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果汇总表（1）",
+          "url": "https://www.cmc.gov.cn/cms_files/filemanager/1558491259/attach/20256/02d0bfb6e508406e81a936e47491d69f.pdf?fileName=2025%E5%B9%B4%E6%B3%B0%E5%B7%9E%E5%8C%BB%E8%8D%AF%E9%AB%98%E6%96%B0%E5%8C%BA%EF%BC%88%E9%AB%98%E6%B8%AF%E5%8C%BA%EF%BC%89%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB%E8%A1%A8%EF%BC%88%E4%B8%80%EF%BC%89.pdf"
+        },
+        {
+          "title": "金力牛奶-城北街道POI数据-海陵区POI数据-泰州市POI数据-江苏省POI数据-POI数据",
+          "url": "https://www.poi86.com/poi/amap2/119210007.html"
+        },
+        {
+          "title": "江苏省泰州市市场监管局公示18批次乳制品监督抽检合格信息-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2023-01/09/content_8897914.htm"
+        },
+        {
+          "title": "苏州市相城区市场监管局抽检乳制品44批次 全部合格-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2023-01/16/content_8900408.htm"
+        },
+        {
+          "title": "泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果汇总表（4）",
+          "url": "https://www.cmc.gov.cn/cms_files/filemanager/1558491259/attach/20246/22b525b2188c44bf9426596c65a87d70.pdf?fileName=%E6%B3%B0%E5%B7%9E%E5%8C%BB%E8%8D%AF%E9%AB%98%E6%96%B0%E5%8C%BA%EF%BC%88%E9%AB%98%E6%B8%AF%E5%8C%BA%EF%BC%89%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB%E8%A1%A8%EF%BC%88%E5%9B%9B%EF%BC%89.pdf"
+        },
+        {
+          "title": "泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果汇总表（2）",
+          "url": "https://www.cmc.gov.cn/cms_files/filemanager/1558491259/attach/20269/9a949ed4355247c98611f0fb2c3066b9.pdf?fileName=%E6%B3%B0%E5%B7%9E%E5%8C%BB%E8%8D%AF%E9%AB%98%E6%96%B0%E5%8C%BA%EF%BC%88%E9%AB%98%E6%B8%AF%E5%8C%BA%EF%BC%89%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E7%BB%93%E6%9E%9C%E6%B1%87%E6%80%BB%E8%A1%A8%EF%BC%88%E4%BA%8C%EF%BC%89.pdf"
+        },
+        {
+          "title": "〖江苏省〗泰州医药高新区（高港区）市场监督管理局食品安全监督抽检结果公示_手机新浪网",
+          "url": "https://finance.sina.cn/2024-09-12/detail-incnwvuq3153761.d.html?cid=76675&node_id=76675&vt=4"
+        },
+        {
+          "title": "江苏省泰州市海陵区市场监管局食品安全监督抽检结果公示（2025年11月）_手机新浪网",
+          "url": "https://finance.sina.cn/2026-01-12/detail-inhfzukt9994939.d.html"
+        },
+        {
+          "title": "江苏省泰州市姜堰区市场监督管理局2024年第五期食品安全监督抽检信息公告_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2024-11-07/doc-incvfpyx2321553.shtml"
+        },
+        {
+          "title": "四千余瓶酸奶生产日期虚假标注 江苏泰州市金力乳品被罚_搜狐网",
+          "url": "https://m.sohu.com/a/1029921329_120157034"
+        },
+        {
+          "title": "泰州：乡村振兴实绩考核连续3年居全省第一等次_我苏网",
+          "url": "https://www.ourjiangsu.com/a/20230204/1675495595140.shtml"
+        },
+        {
+          "title": "江苏维扬乳业有限公司",
+          "url": "https://www.jswyruye.com/"
+        },
+        {
+          "title": "江苏省泰州市姜堰区市场监督管理局2024年第三期食品安全监督抽检信息公告-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-08/13/content_9061097.htm"
+        },
+        {
+          "title": "Liste der Zhonghua Laozihao",
+          "url": "https://de.wikipedia.org/wiki/Liste_der_Zhonghua_Laozihao"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "extraCitySearch2",
+      "queries": [
+        "江苏 连云港 乳制品 生产 企业 牛奶"
+      ],
+      "resultLinks": [
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "2025年第10期江苏省连云港市海州区食品安全监督抽检信息公示_手机新浪网",
+          "url": "https://finance.sina.cn/2025-07-04/detail-infehynm3003458.d.html?wm=3049_0015"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告（2024年第20期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2024-12/12/content_9082294.htm"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告（2024年第20期）_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2024-12-12/doc-inczezhm2914613.shtml"
+        },
+        {
+          "title": "农业信息 -加强对接交流 助力牧场提质增效",
+          "url": "https://www.lyg.gov.cn/zglygzfmhwz/nyggcggxx/content/80153cce-2a3f-4ece-a5bf-e597142b89b1.html"
+        },
+        {
+          "title": "序号 1 | 标称生产企业名称 徐州新和康源食品",
+          "url": "https://4221067.s21i.faiusr.com/61/ABUIABA9GAAgkbiuygYogeTfjgY.pdf"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告（2024年第20期）_手机新浪网",
+          "url": "https://finance.sina.cn/2024-12-12/detail-inczezhm2914613.d.html"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告 （2024年第9期）_手机新浪网",
+          "url": "https://finance.sina.cn/2024-08-26/detail-inckyerc6394648.d.html"
+        },
+        {
+          "title": "江苏三元双宝乳业有限公司_百度百科",
+          "url": "https://bkso.baidu.com/item/%E6%B1%9F%E8%8B%8F%E4%B8%89%E5%85%83%E5%8F%8C%E5%AE%9D%E4%B9%B3%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/321454?fromModule=lemma_inlink"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告 （2026年第4期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2026-06/17/content_9161497.htm"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告（2023年第28期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-01/08/content_9017685.htm"
+        },
+        {
+          "title": "江苏省连云港市食品安全监督抽检信息公告（2024年第20期）_手机新浪网",
+          "url": "https://finance.sina.cn/2024-12-12/detail-inczezhm2914613.d.html?cid=76675&node_id=76675&vt=4"
+        },
+        {
+          "title": "2025年第11期江苏省连云港市海州区食品安全监督抽检信息公示|江苏省_新浪财经_新浪网",
+          "url": "https://finance.sina.com.cn/jjxw/2025-07-04/doc-infehynm3003403.shtml"
+        },
+        {
+          "title": "连云港东旺奶牛养殖有限公司 - 工厂详情 - 天下工厂",
+          "url": "https://www.tianxiagongchang.com/detail/601667_lian-yun-gang-dong-wang-nai-niu-yang-zhi-you-xian-gong-si"
+        },
+        {
+          "title": "金山镇 (连云港市)",
+          "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%B1%B1%E9%95%87_%28%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82%29"
+        },
+        {
+          "title": "伊利集团",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%88%A9%E9%9B%86%E5%9B%A2"
+        },
+        {
+          "title": "宋庄镇 (连云港市)",
+          "url": "https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%BA%84%E9%95%87_%28%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82%29"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "extraCitySearch3",
+      "queries": [
+        "江苏 宿迁 乳业 志威 蒙牛"
+      ],
+      "resultLinks": [
+        {
+          "title": "SC10532137100228|江苏志威乳业有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/70023.html"
+        },
+        {
+          "title": "序号 1 | 标称生产企业名称 如皋市志恒食品厂",
+          "url": "https://m.cqn.com.cn/ms/att/2025-07/28/b7b3b36b-b559-44a6-80c9-dd2c939bb109.pdf"
+        },
+        {
+          "title": "sc10532SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/sc10532.html"
+        },
+        {
+          "title": "蒙牛SC搜索结果-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/psearch/kws/%E8%92%99%E7%89%9B.html"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://njna.nanjing.gov.cn/njsjbxqglwyh/202601/P020260114394561382663.pdf"
+        },
+        {
+          "title": "江苏省宿迁市市场监督管理局2024年第15期食品安全监督抽检信息通告-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-11/11/content_9076733.htm"
+        },
+        {
+          "title": "（声明：以下信息仅指本次抽检标称的生产企业相关产品的生产日期/批",
+          "url": "https://www.wxifc.org.cn/upload/portal/20250115/44168f49254c0b4b78e79bf6628fa661.pdf"
+        },
+        {
+          "title": "雨花台区人民政府",
+          "url": "https://www.njyh.gov.cn/yhtqrmzf/202411/t20241129_5021841.html"
+        },
+        {
+          "title": "蒙牛集团2024-2026年度广宣品 竞争性谈判项目公告_蒙牛官网",
+          "url": "https://www.mengniu.com.cn/contact/detail/19410.html"
+        },
+        {
+          "title": "江苏省宿迁市市场监督管理局2024年第23期食品安全监督抽检信息通告-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2025-01/09/content_9086733.htm"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.chongchuan.gov.cn/ntsccqscjgj/upload/d8207501-61bd-40b7-b2bd-729a4b3ff0a5.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://amr.nanjing.gov.cn/ztzl/spaqjg/spcj/202505/P020250530631702747023.pdf"
+        },
+        {
+          "title": "蒙牛乳业 2024-2025 年度制冷压缩机专用维修备件项目 竞争性谈判信息公告_蒙牛官网",
+          "url": "https://www.mengniu.com.cn/contact/detail/11637.html"
+        },
+        {
+          "title": "蒙牛乳业2023-2025年度不锈钢备件采购项目 竞争性谈判信息公告_蒙牛官网",
+          "url": "https://www.mengniu.com.cn/contact/detail/12019.html"
+        },
+        {
+          "title": "蒙牛乳业2023年奶粉外袋（牛皮纸）类物料渠道 公开寻源公告_蒙牛官网",
+          "url": "https://www.mengniu.com.cn/contact/detail/12937.html"
+        },
+        {
+          "title": "蒙牛乳业2026-2028年度不锈钢工艺器具制作及修缮采购项目竞争性谈判信息公告_蒙牛官网",
+          "url": "https://www.mengniu.com.cn/contact/detail/25669.html"
+        },
+        {
+          "title": "奶粉",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A5%B6%E7%B2%89"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "dairyMoreSearch0",
+      "queries": [
+        "惠氏 苏州 工厂 婴幼儿 配方 奶粉 官网"
+      ],
+      "resultLinks": [
+        {
+          "title": "中国82家婴幼儿配方乳粉生产企业获得生产许可证-中新网",
+          "url": "https://www.chinanews.com/gn/2014/05-30/6230349.shtml"
+        },
+        {
+          "title": "国家食品药品监督管理总局公布婴幼儿配方乳粉生产企业名单_中国质量新闻网移动版",
+          "url": "https://m.cqn.com.cn/zj/content/2013-08/07/content_1905172.htm"
+        },
+        {
+          "title": "序号",
+          "url": "https://m.cqn.com.cn/ms/att/2021-06/18/118e3457-8ddc-4e59-8758-2c430506235e.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.lw.gov.cn/lwq/zdly_spypaq_cjxx/201802/1184c930bba148f6839ce072b3fd1a3b/files/f1df96b36a7e49a88a062a196e3ed50f.pdf"
+        },
+        {
+          "title": "本次抽检共涉及89家企业的224批次婴幼儿配方乳",
+          "url": "https://www.antion.net/uploads/soft/1709/1505815231635775.pdf"
+        },
+        {
+          "title": "食药监总局公布82家婴幼儿乳粉生产企业名录 ——人民政协网",
+          "url": "https://www.rmzxw.com.cn/c/2014-05-30/333099_3.shtml?n2m=1"
+        },
+        {
+          "title": "生产用水反渗透惠氏苏州工厂以制药的理念来制造奶粉_中国膜工业协会",
+          "url": "https://www.membranes.com.cn/xingyedongtai/gongyexinwen/2015-01-19/15094.html"
+        },
+        {
+          "title": "〖你点我检〗苏州市市场监督管理局抽检食品180批次 合格率100%_手机新浪网",
+          "url": "https://finance.sina.cn/2021-10-08/detail-iktzscyx8497116.d.html?from=wap"
+        },
+        {
+          "title": "食药监总局公布82家婴幼儿乳粉生产企业名录（表）_手机新浪网",
+          "url": "https://finance.sina.cn/sa/2014-05-30/detail-iiznctkf1092701.d.html?vt=4"
+        },
+        {
+          "title": "抽检依据GB 10765-2010《食品安",
+          "url": "https://amr.zhengzhou.gov.cn/attachment/2020%E5%B9%B4%E7%AC%AC14%E6%9C%9F%20-%20%E9%99%84%E4%BB%B6.pdf?QbM-UzujgYTAGEbhoPecJ8Es1UhqeKNEy5FdVY7V3NMfRg-uuhHUAr4RxVUY8p78eLlH4lo3xr6pbgi7epxsnTkGfEvS="
+        },
+        {
+          "title": "抽检依据GB 10765-2010《食品安",
+          "url": "https://amr.zhengzhou.gov.cn/attachment/2020%E5%B9%B4%E7%AC%AC14%E6%9C%9F%20-%20%E9%99%84%E4%BB%B6.pdf?PB2RHM6TY_68hUivQE1kshEwhoa-EpPkgma--A7ejp8-U7PxrOJrRyJJ6pkIzfkZZlLkQzPttOgbjwJBKrLyMLWJfOCv="
+        },
+        {
+          "title": "守正创新，百年奶粉品牌的传承之路 ｜百企探新质_南方+_南方plus",
+          "url": "https://static.nfnews.com/content/202411/26/c10284139.html?enterColumnId=28947"
+        },
+        {
+          "title": "惠氏营养品（中国）新建项目竣工环境保护验收评审-服务案例-苏州百信环境检测工程技术有限公司",
+          "url": "https://www.bxet.net/fuwuanli/suzhoushibaixinhuanjingjiancegongchengjishuyouxiangongsitongguohuishiyingyangpin.html"
+        },
+        {
+          "title": "苏州市食药监局抽检10类食品165批次样品 全部合格_中国质量新闻网移动版",
+          "url": "https://m.cqn.com.cn/ms/content/2018-10/19/content_6361797.htm"
+        },
+        {
+          "title": "食药监总局公布82家婴幼儿乳粉生产企业名录（表）_手机新浪网",
+          "url": "https://finance.sina.cn/sa/2014-05-30/detail-iiznctkf1092701.d.html?from=wap"
+        },
+        {
+          "title": "「你点我检」苏州市市场监督管理局抽检食品180批次 合格率100% - 今日头条",
+          "url": "https://www.toutiao.com/article/7016589899268801061/"
+        },
+        {
+          "title": "食品安全监督抽检产品合格信息（2020年第16号）",
+          "url": "https://scjgj.sc.gov.cn/scsjgj/c104536/2020/4/30/43c2e717e7564af4a0344f0d4bc2b764/files/%E9%99%84%E4%BB%B62-%E5%90%88%E6%A0%BC-2020%E5%B9%B416%E5%8F%B7%E4%BF%A1%E6%81%AF%E5%85%AC%E5%B8%83.pdf"
+        },
+        {
+          "title": "奶粉",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A5%B6%E7%B2%89"
+        },
+        {
+          "title": "惠氏",
+          "url": "https://zh.wikipedia.org/wiki/%E6%83%A0%E6%B0%8F"
+        },
+        {
+          "title": "雀巢",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9B%80%E5%B7%A2"
+        },
+        {
+          "title": "Official test failures of the 2008 Chinese milk scandal",
+          "url": "https://en.wikipedia.org/wiki/Official_test_failures_of_the_2008_Chinese_milk_scandal"
+        },
+        {
+          "title": "伊利集团",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%88%A9%E9%9B%86%E5%9B%A2"
+        },
+        {
+          "title": "澳优乳业",
+          "url": "https://zh.wikipedia.org/wiki/%E6%BE%B3%E4%BC%98%E4%B9%B3%E4%B8%9A"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "dairyMoreSearch1",
+      "queries": [
+        "无锡 益多 乳业 美乐 牛奶 官网"
+      ],
+      "resultLinks": [
+        {
+          "title": "西湖牌-美丽健乳业集团有限公司",
+          "url": "https://www.meilijian.com/xihu.html"
+        },
+        {
+          "title": "江苏省高新区（新吴区）2024年食品安全监督抽检公示（第五期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-09/26/content_9070029.htm"
+        },
+        {
+          "title": "2026年1月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2026/01/30/4726025.shtml"
+        },
+        {
+          "title": "2026年3月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2026/03/31/4752669.shtml"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf"
+        },
+        {
+          "title": "2026年2月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2026/02/28/4738550.shtml"
+        },
+        {
+          "title": "2026年7月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2026/07/31/4812569.shtml"
+        },
+        {
+          "title": "江苏省无锡市市场监督管理局发布2025年食品安全监督抽检公示（第10期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2025-07/03/content_9112894.htm"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://amr.nanjing.gov.cn/ztzl/spaqjg/spcj/202505/P020250523660672378763.pdf"
+        },
+        {
+          "title": "江苏省无锡市市场监管局公示2022年食品安全监督抽检情况（第24期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2022-10/13/content_8869363.htm"
+        },
+        {
+          "title": "序号",
+          "url": "https://amr.nanjing.gov.cn/gkml/202505/P020250523657973805056.pdf"
+        },
+        {
+          "title": "马山牛奶下月底停产“老无锡”满满的都是童年回忆_中国江苏网",
+          "url": "https://jsnews.jschina.com.cn/wx/a/202007/t20200701_2581309.shtml"
+        },
+        {
+          "title": "江苏省无锡市市场监督管理局2023年食品安全监督抽检公示（第31期）-中国质量新闻网",
+          "url": "https://m.cqn.com.cn/ms/content/2024-01/03/content_9016312.htm"
+        },
+        {
+          "title": "2025年9月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2025/09/29/4659721.shtml"
+        },
+        {
+          "title": "2025年8月份部分乳制品超市价格-无锡市发展和改革委员会",
+          "url": "https://dpc.wuxi.gov.cn/doc/2025/08/29/4639257.shtml"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://amr.nanjing.gov.cn/ztzl/spaqjg/spcj/202502/P020250214557504484252.pdf"
+        },
+        {
+          "title": "益力多",
+          "url": "https://zh.wikipedia.org/wiki/%E7%9B%8A%E5%8A%9B%E5%A4%9A"
+        },
+        {
+          "title": "養樂多公司",
+          "url": "https://zh.wikipedia.org/wiki/%E9%A4%8A%E6%A8%82%E5%A4%9A%E5%85%AC%E5%8F%B8"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "dairyMoreSearch2",
+      "queries": [
+        "无锡养乐多 乳品 工厂 官网"
+      ],
+      "resultLinks": [
+        {
+          "title": "安全安心工厂｜养乐多（中国）投资有限公司官网",
+          "url": "https://www.yakult.com.cn/factory"
+        },
+        {
+          "title": "养乐多在中国｜养乐多（中国）投资有限公司官网",
+          "url": "https://www.yakult.com.cn/yakult-china"
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://foodsci.jiangnan.edu.cn/__local/7/3C/51/0F7D3B5557C4F3684A5A1ACD496_5936CEA9_27CB4.pdf?e=.pdf"
+        },
+        {
+          "title": "历史沿革｜养乐多（中国）投资有限公司官网",
+          "url": "https://www.yakult.com.cn/history"
+        },
+        {
+          "title": "新闻与活动｜养乐多（中国）投资有限公司官网",
+          "url": "https://www.yakult.com.cn/news"
+        },
+        {
+          "title": "2023–2024亮点绩效概览",
+          "url": "https://www.yakult.com.cn/pdfs/%E5%85%BB%E4%B9%90%E5%A4%9A2023-2024%E4%BC%81%E4%B8%9A%E7%A4%BE%E4%BC%9A%E8%B4%A3%E4%BB%BB%E6%8A%A5%E5%91%8A%EF%BC%88PDF%E7%89%88%205.4MB%EF%BC%89.pdf"
+        },
+        {
+          "title": "江苏省无锡市市场监督管理局发布2025年食品安全监督抽检公示（第10期）-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2025-07/03/content_9112894.htm"
+        },
+        {
+          "title": "Wuxi Yakult Co., Ltd.",
+          "url": "https://www.cnverify.com/company/Wuxi-Yakult-Co-Ltd"
+        },
+        {
+          "title": "关于无锡养乐多乳品有限公司养乐多活菌型乳酸菌乳饮品第二工厂项目环境影响报告表的批复",
+          "url": "https://www.wuxi.gov.cn/doc/2021/12/27/3879095.shtml"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.cqn.com.cn/ms/att/2023-10/16/9b2f95fd-6423-4f72-bae2-eb0f312e7c2d.pdf"
+        },
+        {
+          "title": "Yakult News Release",
+          "url": "https://www.yakult.co.jp/company/news/file.php?id=155779982487.pdf&type=release"
+        },
+        {
+          "title": "江苏省无锡市市场监督管理局：饮料18批次抽检全部合格-中国质量新闻网",
+          "url": "https://www.cqn.com.cn/ms/content/2021-05/06/content_8689728.htm"
+        },
+        {
+          "title": "无锡市人民政府·批准结果",
+          "url": "https://www.wuxi.gov.cn/ztzl/zdjsxmpzhssqsmzqgkzl/yldhjxrsjypdegcxm/pzjg/index.shtml"
+        },
+        {
+          "title": "中国养乐多工厂累计参观人数破百万 透明安心铸就信赖-美通社PR-Newswire",
+          "url": "https://www.prnasia.com/story/544298-1.shtml"
+        },
+        {
+          "title": "無錫日商倶楽部名簿（公開）：20250311.xlsx",
+          "url": "https://www.wuxijp.club/file/upload/202503/19/103548961.pdf"
+        },
+        {
+          "title": "益力多",
+          "url": "https://zh.wikipedia.org/wiki/%E7%9B%8A%E5%8A%9B%E5%A4%9A"
+        },
+        {
+          "title": "養樂多公司",
+          "url": "https://zh.wikipedia.org/wiki/%E9%A4%8A%E6%A8%82%E5%A4%9A%E5%85%AC%E5%8F%B8"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "dairyMoreSearch3",
+      "queries": [
+        "江苏 志威 乳业 稀奶油 产品"
+      ],
+      "resultLinks": [
+        {
+          "title": "Q/ZWRY 0002 S-2022 奶油粉_食品安全企业标准_国内标准_食品标准_食品伙伴网下载中心",
+          "url": "https://down.foodmate.net/standard/sort/19/117441.html"
+        },
+        {
+          "title": "Q/ZWRY 0001 S-2021 乳基粉",
+          "url": "https://cfsn.cn/zcwk/detail/2163/16966.html"
+        },
+        {
+          "title": "SC10532137100228|江苏志威乳业有限公司-sc认证查询网|食品生产许可证查询网",
+          "url": "https://www.foodsc.net/sc/70023.html"
+        },
+        {
+          "title": "江苏志威乳业有限公司",
+          "url": "https://www.xnbl.net/com/zhiwei/"
+        },
+        {
+          "title": "Q/JLSZS 0001 S-2021 食品加工用奶油制品系列",
+          "url": "https://cfsn.cn/zcwk/detail/2163/16971.html"
+        },
+        {
+          "title": "股份有限公司",
+          "url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-03-12/b1948672dfa211eea040fa163e26e5de.pdf"
+        },
+        {
+          "title": "股份有限公司",
+          "url": "https://dataclouds.cninfo.com.cn/shgonggao/2024/2024-08-13/73e4748e588711efac6dfa163e26e5de.pdf"
+        },
+        {
+          "title": "第21届中国国际食品添加剂和配料展览会（FIC2017）国内展商名录-食品添加剂展名录-展商名录-食品展会大全",
+          "url": "https://www.foodex360.com/minglu/show-133.html"
+        },
+        {
+          "title": "序号 1 | 标称生产企业名称 如皋市志恒食品厂",
+          "url": "https://m.cqn.com.cn/ms/att/2025-07/28/b7b3b36b-b559-44a6-80c9-dd2c939bb109.pdf"
+        },
+        {
+          "title": "GB 2760-2024 食品添加剂使用标准",
+          "url": "https://2760.foodvip.net/index.php/category/limit/17.html"
+        },
+        {
+          "title": "股份有限公司",
+          "url": "https://static.cninfo.com.cn/finalpage/2023-03-14/1216111204.PDF"
+        },
+        {
+          "title": "Q/JLSZS 0032 S-2021 淡奶油粉",
+          "url": "https://cfsn.cn/zcwk/detail/2163/16958.html"
+        },
+        {
+          "title": "股份有限公司2024年年度报告",
+          "url": "https://epaper.stcn.com/pic/202503/11/0dfddf84184cbcdd5b70acfb461c1912.pdf"
+        },
+        {
+          "title": "食品添加剂通用法典标准",
+          "url": "https://www.cnsalt.cn/yyxh/kbcms/ueditor/php/upload/file/20250121/1737470945863806.pdf"
+        },
+        {
+          "title": "奶油",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A5%B6%E6%B2%B9"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubLeadCheck0",
+      "queries": [
+        "site.hunan.gov.cn 长沙 糖油粑粑 小炒黄牛肉"
+      ],
+      "resultLinks": [
+        {
+          "title": "More than Spicy! | 不止于辣！-湖南省人民政府门户网站",
+          "url": "https://www.hunan.gov.cn/topic/ccjhl/djz/202107/t20210713_19909838.html"
+        },
+        {
+          "title": "贝贝品呗丨@谷爱凌 这份长沙最全“糖油粑粑”攻略，请收好！ - 今日关注 - 湖南在线 - 华声在线",
+          "url": "https://hunan.voc.com.cn/news/202202/23649457.html"
+        },
+        {
+          "title": "长沙五家必吃糖油粑粑，糯米星人可别错过！ - 文章 -",
+          "url": "https://www.woshiji.cn/show-20-5570-1.html"
+        },
+        {
+          "title": "长沙炊烟小炒黄牛肉(富兴店)攻略,炊烟小炒黄牛肉(富兴店)套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃〖携程美食〗",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/148/78823851.html"
+        },
+        {
+          "title": "糖油粑粑介绍_湖南美食",
+          "url": "https://m.cncn.com/meishi/hunan/food/3671"
+        },
+        {
+          "title": "湖南省档案局",
+          "url": "https://sdaj.hunan.gov.cn/sdaj/ggfw/hnts/msmr/202105/t20210510_16528119.html"
+        },
+        {
+          "title": "跟着美味畅游长沙 2023“韵味长沙 恰到好处的幸福”旅游美食推广活动启幕 - 湖南省文化和旅游厅",
+          "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202309/t20230911_29481768.html"
+        },
+        {
+          "title": "<visu",
+          "url": "https://www.csair.com/csvideo/2018/20180424_30/changshalvyougonglue20180424.pdf"
+        },
+        {
+          "title": "计算机应用技术专业 技能考核题库",
+          "url": "https://www.hngczy.cn/updateFile/file/20231117/20231117155214_2500.pdf"
+        },
+        {
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://ftp.qrcode.ltd/%E5%85%A8%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5/%E5%8D%8E%E4%B8%AD%E5%9C%B0%E5%8C%BA/%E6%88%91%E6%98%AF%E9%A9%B4%E5%8F%8B-%E9%95%BF%E6%B2%99.pdf"
+        },
+        {
+          "title": "小炒黄",
+          "url": "https://owsc.wynnresortsmacau.com/dining/260210-WP-Palace-Cafe-A-La-Carte-Menu-ENTC.pdf"
+        },
+        {
+          "title": "长沙首个糖油粑粑地图来袭，甜蜜到爆 - 每日头条",
+          "url": "https://kknews.cc/zh-cn/food/345am3o.html"
+        },
+        {
+          "title": "ICS 67.120",
+          "url": "https://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk=8afc848a15f5c55518190f563d083b17020853ca760823f17f1f65cecb522262"
+        },
+        {
+          "title": "小炒黄",
+          "url": "https://owsc.wynnresortsmacau.com/dining/250814-WP-Palace-Cafe-A-La-Carte-Menu-SC.pdf"
+        },
+        {
+          "title": "糖油粑粑",
+          "url": "https://zh.wikipedia.org/wiki/%E7%B3%96%E6%B2%B9%E7%B2%91%E7%B2%91"
+        },
+        {
+          "title": "长沙市",
+          "url": "https://zh.wikipedia.org/wiki/%E9%95%BF%E6%B2%99%E5%B8%82"
+        },
+        {
+          "title": "炊烟小炒黄牛肉",
+          "url": "https://zh.wikipedia.org/wiki/%E7%82%8A%E7%83%9F%E5%B0%8F%E7%82%92%E9%BB%84%E7%89%9B%E8%82%89"
+        },
+        {
+          "title": "Hunan cuisine",
+          "url": "https://en.wikipedia.org/wiki/Hunan_cuisine"
+        },
+        {
+          "title": "Culinária de Hunão",
+          "url": "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_de_Hun%C3%A3o"
+        },
+        {
+          "title": "糍粑",
+          "url": "https://zh.wikipedia.org/wiki/%E7%B3%8D%E7%B2%91"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubLeadCheck1",
+      "queries": [
+        "site.shanghai.gov.cn 生煎 包 上海"
+      ],
+      "resultLinks": [
+        {
+          "title": "Pan-fried pork buns_Local Flavors",
+          "url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260430/c012ba9f05414f3184be86244a03e950.html"
+        },
+        {
+          "title": "生煎包 · ShanghaiFlux",
+          "url": "https://shanghaiflux.com/zh-CN/dishes/shengjianbao"
+        },
+        {
+          "title": "这条市中心的小马路，居然藏着上海生煎“三巨头”！队伍最长的是这家！",
+          "url": "https://sghexport.shobserver.com/html/baijiahao/2026/03/29/1727455.html"
+        },
+        {
+          "title": "上海生煎江湖又“吵”翻了！在黄浦吃遍各“门派”，到底谁才是老饕们心目中的“白月光”？_上观新闻",
+          "url": "https://www.shobserver.cn/sgh/detail?id=1716359"
+        },
+        {
+          "title": "吃——上海菜谱解码 · ShanghaiFlux",
+          "url": "https://shanghaiflux.com/zh-CN/local/food"
+        },
+        {
+          "title": "上海还有哪些好吃的生煎包店铺？",
+          "url": "https://www.sina.cn/gc/article/niuhyra6778674.html"
+        },
+        {
+          "title": "上海小杨生煎(湟普汇店)攻略,小杨生煎(湟普汇店)套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃〖携程美食〗",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/143874/5002074.html"
+        },
+        {
+          "title": "上海 街头美食 - Cities Insider",
+          "url": "https://citiesinsider.com/country/china/shanghai/street-food/zh"
+        },
+        {
+          "title": "上海大壶春生煎(四川中路店)攻略,大壶春生煎(四川中路店)套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃〖携程美食〗",
+          "url": "https://gs.ctrip.com/html5/you/foods/fooddetail/2/4996389.html"
+        },
+        {
+          "title": "上海东泰祥生煎馆(陕西南路店)攻略,东泰祥生煎馆(陕西南路店)套餐/特色菜品推荐_菜单/人均消费/电话/地址/菜系/点评/营业时间_餐厅介绍_哪个菜好吃〖携程美食〗",
+          "url": "https://gs.ctrip.com/html5/you/foods/Shanghai2/5013068.html"
+        },
+        {
+          "title": "上海必吃 — Haoliday 旅行图谱",
+          "url": "https://www.haoliday.com/zh/explore/shanghai/lens/must-eat"
+        },
+        {
+          "title": "〖生煎包〗怎么样,电话,地址,价格,评价-上海小吃-城市惠",
+          "url": "https://www.cityhui.com/shop/21558.html"
+        },
+        {
+          "title": "标题",
+          "url": "https://www.shanghai.gov.cn/cmsres/a3/a30eba9b7d5046e683c03c75f1300c44/9788ec2c6ca1cbffae9c25df3f6af637.pdf"
+        },
+        {
+          "title": "MUST TASTE 本场上海的味をご堪能しよう",
+          "url": "https://www.china8.jp/upload/wysiwyg/shanghai/sh_food.pdf"
+        },
+        {
+          "title": "2024年09期黄浦区食品安全监督抽检信息(合格）",
+          "url": "https://www.shhuangpu.gov.cn/uploadfile/30d4d0c0-758e-49cb-b1aa-e43c70e2e247/2024%E5%B9%B409%E6%9C%9F%E9%BB%84%E6%B5%A6%E5%8C%BA%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E4%BF%A1%E6%81%AF%EF%BC%88%E5%90%88%E6%A0%BC%EF%BC%89.pdf"
+        },
+        {
+          "title": "黄安委会〔2023〕3",
+          "url": "https://www.shhuangpu.gov.cn/uploadfile/ec79d697-bd2b-48f4-81c3-3e3eb924f5c8/%E9%BB%84%E6%B5%A6%E5%8C%BA%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E5%A7%94%E5%91%98%E4%BC%9A%E3%80%81%E9%BB%84%E6%B5%A6%E5%8C%BA%E6%B6%88%E9%98%B2%E5%AE%89%E5%85%A8%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E7%94%A8%E7%94%B5%E7%94%A8%E7%81%AB%E5%AE%89%E5%85%A8%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5%28%E9%BB%84%E5%AE%89%E5%A7%94%E4%BC%9A%E3%80%902023%E3%80%913%E5%8F%B7%EF%BC%89.pdf"
+        },
+        {
+          "title": "餐饮 · EATING",
+          "url": "https://ftp.qrcode.ltd/%E5%85%A8%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5/%E5%8D%8E%E4%B8%9C%E5%9C%B0%E5%8C%BA/%E6%88%91%E6%98%AF%E9%A9%B4%E5%8F%8B-%E4%B8%8A%E6%B5%B7%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5.pdf"
+        },
+        {
+          "title": "<table id=\"e1\">",
+          "url": "https://www.songjiang.gov.cn/shsj_main/048ba8a0-216b-43d8-aaab-1a45f32fb026/512edf67-054a-4620-8cdd-470a42250fc0/2023%E5%B9%B4%E6%9D%BE%E6%B1%9F%E5%B8%82%E5%9C%BA%E5%B1%80%E9%A3%9F%E5%93%81%E9%A4%90%E9%A5%AE%E7%8E%AF%E8%8A%8211%E6%9C%88%E6%8A%BD%E6%A3%80%E4%BF%A1%E6%81%AF%E5%85%AC%E7%A4%BA%EF%BC%88%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%9C%9F%EF%BC%89.pdf"
+        },
+        {
+          "title": "生煎馒头",
+          "url": "https://zh.wikipedia.org/wiki/%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4"
+        },
+        {
+          "title": "Breakfast places in Shanghai open before 5am?",
+          "url": "https://www.reddit.com/r/shanghai/comments/1uf27wi/breakfast_places_in_shanghai_open_before_5am/"
+        },
+        {
+          "title": "小杨生煎",
+          "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%9D%A8%E7%94%9F%E7%85%8E"
+        },
+        {
+          "title": "One Perfect Day in Shanghai's Former French Concession",
+          "url": "https://www.vogue.com/article/shanghai-old-french-concession-guide"
+        },
+        {
+          "title": "大壶春",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A3%B6%E6%98%A5"
+        },
+        {
+          "title": "Restauraunt recommendations in Shanghai for traditional Shanghai food?",
+          "url": "https://www.reddit.com/r/shanghai/comments/1wtc31t/restauraunt_recommendations_in_shanghai_for/"
+        },
+        {
+          "title": "包子",
+          "url": "https://zh.wikipedia.org/wiki/%E5%8C%85%E5%AD%90"
+        },
+        {
+          "title": "王家沙点心店",
+          "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%B6%E6%B2%99%E7%82%B9%E5%BF%83%E5%BA%97"
+        },
+        {
+          "title": "Finding Jiangbing in Shanghai",
+          "url": "https://www.reddit.com/r/shanghai/comments/1nxp0z8"
+        },
+        {
+          "title": "Help Me remember a Hole in a wall Fried Pork Bun restaurant.",
+          "url": "https://www.reddit.com/r/shanghai/comments/1dp8cnx"
+        },
+        {
+          "title": "蕭潤邦",
+          "url": "https://zh.wikipedia.org/wiki/%E8%95%AD%E6%BD%A4%E9%82%A6"
+        },
+        {
+          "title": "Breakfats in Shanghai",
+          "url": "https://www.reddit.com/r/shanghai/comments/1e2yll0"
+        },
+        {
+          "title": "Chinese pork bun at canteen name?",
+          "url": "https://www.reddit.com/r/shanghai/comments/1onzfxo"
+        },
+        {
+          "title": "Nothing beats Jia Jia Tang Bao. They have the best Xiao Long Bao in the world.",
+          "url": "https://www.reddit.com/r/shanghai/comments/1v1fkc8/nothing_beats_jia_jia_tang_bao_they_have_the_best/"
+        },
+        {
+          "title": "Best places for xiaolongbao and crab roe dishes?",
+          "url": "https://www.reddit.com/r/shanghai/comments/1ppgu83/best_places_for_xiaolongbao_and_crab_roe_dishes/"
+        },
+        {
+          "title": "places to eat street food",
+          "url": "https://www.reddit.com/r/shanghai/comments/1o8mans"
+        },
+        {
+          "title": "Restaurant recommendation in Shanghai",
+          "url": "https://www.reddit.com/r/travelchina/comments/1lefs74/restaurant_recommendation_in_shanghai/"
+        },
+        {
+          "title": "Shanghai dumplings for a first visit: xiaolongbao, shengjian and what to check before ordering",
+          "url": "https://www.reddit.com/r/u_Fun-Koala-5833/comments/1xrycs6/shanghai_dumplings_for_a_first_visit_xiaolongbao/"
+        },
+        {
+          "title": "What is your favorite restaurant to order from in Shanghai? Something you never get tired of.",
+          "url": "https://www.reddit.com/r/shanghai/comments/1irbzmv"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubLeadCheck2",
+      "queries": [
+        "site.beijing.gov.cn 焦圈 小吃"
+      ],
+      "resultLinks": [
+        {
+          "title": "焦圈",
+          "url": "https://s.visitbeijing.com.cn/food/100"
+        },
+        {
+          "title": "老北京小吃攻略：传统小吃",
+          "url": "https://www.visitbeijing.com.cn/article/47QmRdIK1JB"
+        },
+        {
+          "title": "北京旅游网资源库美食",
+          "url": "https://s.visitbeijing.com.cn/index.php/foods?page=27"
+        },
+        {
+          "title": "过传统节日 品传统美食",
+          "url": "https://www.visitbeijing.com.cn/article/47Qri0us9lr"
+        },
+        {
+          "title": "这些小吃你可能还在吃 却找不到原来的味道了",
+          "url": "https://www.visitbeijing.com.cn/article/47QrZmtoa4S"
+        },
+        {
+          "title": "北京文旅公布三大新榜单，豆汁、焦圈上榜",
+          "url": "https://m.bjnews.com.cn/detail/1780650268129278.html"
+        },
+        {
+          "title": "带你解锁舌尖上的京城味道",
+          "url": "https://www.visitbeijing.com.cn/article/4NnhbyVVvlG"
+        },
+        {
+          "title": "老北京小吃十三绝有哪些？",
+          "url": "https://www.visitbeijing.com.cn/article/47QrQ2jKEim"
+        },
+        {
+          "title": "北京市西城区人民政府",
+          "url": "https://www.bjxch.gov.cn/xcsj/sjx/sjyl/pnidpv35pnpagenumpv5.html"
+        },
+        {
+          "title": "西城「市井烟火」主题线路上线，从市井小吃到宫廷饽饽，再到胡同逛吃，吃透京味精华_线路推荐_首都之窗_北京市人民政府门户网站",
+          "url": "https://www.beijing.gov.cn/renwen/rwzyd/xltj/202602/t20260222_4532496.html"
+        },
+        {
+          "title": "吃遍“十三绝” 才算真正了解老北京小吃",
+          "url": "https://www.visitbeijing.com.cn/article/47QkKgdU17D"
+        },
+        {
+          "title": "北京必吃美食：豆汁焦圈儿",
+          "url": "https://www.visitbeijing.com.cn/article/47QmQrd87yQ"
+        },
+        {
+          "title": "美食册子内文最终版.indd",
+          "url": "https://lyzz.visitbeijing.com.cn/uploadfile/2018/0530/%E5%90%83%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%BE%8E%E9%A3%9F%E4%B8%93%E5%88%8A2015.pdf"
+        },
+        {
+          "title": "70157 扉页.indd",
+          "url": "https://www.ecsponline.com/yz/B5F8B42DE1F4D4EB282EE3E006226684F000.pdf"
+        },
+        {
+          "title": "焦圈",
+          "url": "https://zh.wikipedia.org/wiki/%E7%84%A6%E5%9C%88"
+        },
+        {
+          "title": "12.11.封面.indd",
+          "url": "https://www.bj.icbc.com.cn/SiteCollectionDocuments/ICBC/Resources/ICBC/%E5%8C%97%E4%BA%AC%E5%88%86%E8%A1%8C/%E4%B8%8B%E8%BD%BD/2012/%E7%9D%BF%E7%AC%AC11%E6%9C%9F%E7%94%B5%E5%AD%90%E7%89%88.pdf"
+        },
+        {
+          "title": "中式小吃",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BC%8F%E5%B0%8F%E5%90%83"
+        },
+        {
+          "title": "京菜",
+          "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E8%8F%9C"
+        },
+        {
+          "title": "豆",
+          "url": "https://www.csair.com/cn/czadscale/201707/beijing.pdf"
+        },
+        {
+          "title": "12.11.封面.indd",
+          "url": "https://www.icbc.com.au/SiteCollectionDocuments/ICBC/Resources/ICBC/%E5%8C%97%E4%BA%AC%E5%88%86%E8%A1%8C/%E4%B8%8B%E8%BD%BD/2012/%E7%9D%BF%E7%AC%AC11%E6%9C%9F%E7%94%B5%E5%AD%90%E7%89%88.pdf"
+        },
+        {
+          "title": "炸酱面是北京最有名的小吃之一，北京人对炸酱还有很多的叫法，如炸酱、小碗儿干炸",
+          "url": "https://www.tup.com.cn/upload/books/yz/052876-01.pdf"
+        },
+        {
+          "title": "Jiaoquan",
+          "url": "https://en.wikipedia.org/wiki/Jiaoquan"
+        },
+        {
+          "title": "Beijing cuisine",
+          "url": "https://en.wikipedia.org/wiki/Beijing_cuisine"
+        },
+        {
+          "title": "豆汁",
+          "url": "https://zh.wikipedia.org/wiki/%E8%B1%86%E6%B1%81"
+        },
+        {
+          "title": "Old Beijing Snacks - which would you try / which do you love?",
+          "url": "https://www.reddit.com/r/chinesecooking/comments/1mpzt4s/old_beijing_snacks_which_would_you_try_which_do/"
+        },
+        {
+          "title": "Old Beijing Snacks - which would you try / which do you love?",
+          "url": "https://www.reddit.com/r/chinesecooking/comments/1mpzpx9"
+        },
+        {
+          "title": "What's the best local food you had in Beijing?",
+          "url": "https://www.reddit.com/r/beijing/comments/ow4vab"
+        },
+        {
+          "title": "求北京美食推荐",
+          "url": "https://www.reddit.com/r/China_irl/comments/1vxv8pu/%E6%B1%82%E5%8C%97%E4%BA%AC%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90/"
+        },
+        {
+          "title": "Beijing street food",
+          "url": "https://www.reddit.com/r/beijing/comments/1g0ogru"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    },
+    {
+      "batch": "githubLeadCheck3",
+      "queries": [
+        "马迭尔 冰棍 哈尔滨 政府"
+      ],
+      "resultLinks": [
+        {
+          "title": "哈尔滨市促进“马迭尔”冰棍等地方特色品牌健康发展",
+          "url": "https://www.cfsn.cn/news/detail/478/305602.html"
+        },
+        {
+          "title": "哈尔滨日报-守正创新 绘就冰城文旅新坐标",
+          "url": "https://harbin.joyhua.cn/hebrb/20250915/mhtml/page_04_content_20250915005006.htm"
+        },
+        {
+          "title": "燃情冰雪季｜头冰出水 “尔滨”启新章-黑龙江省文化和旅游厅",
+          "url": "https://wlt.hlj.gov.cn/wlt/c114169/202512/c00_31894953.shtml"
+        },
+        {
+          "title": "马迭尔冰棍：品质香飘百年 创新走向全国",
+          "url": "https://www.hljnews.cn/ljxw/content/2026-08/16/content_904461.html"
+        },
+        {
+          "title": "马迭尔冰棍：“冰城符号”走向全国，守正创新焕发新活力",
+          "url": "https://www.hljnews.cn/ljxw/content/2026-08/15/content_904412.html"
+        },
+        {
+          "title": "马迭尔冰棍的“七十二变”-老字号数字博物馆",
+          "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/articledeail/2830"
+        },
+        {
+          "title": "集团新闻-马迭尔集团",
+          "url": "https://www.madieer.cn/index.php?lanmu=3&p=news_list"
+        },
+        {
+          "title": "Jewish Routes in Harbin| 1",
+          "url": "https://www.shtetlinks.jewishgen.org/harbin/Jewish_Footprints_in_Harbin.pdf"
+        },
+        {
+          "title": "1930 年秋",
+          "url": "https://www.tsinghua.org.cn/__local/A/70/A0/6F831D0CDA4B0C0B445BB3B528E_C97C0816_75B6A7.pdf"
+        },
+        {
+          "title": "Jewish Routes in Harbin 150",
+          "url": "https://kehilalinks.jewishgen.org/harbin/Jewish_Footprints_in_Harbin.pdf"
+        },
+        {
+          "title": "09B09BC20240112",
+          "url": "https://sz.iprchn.com/dataFile/batch/zsb/bz/20240101/%E4%B8%AD%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E6%8A%A5/20240112/2024011209.pdf"
+        },
+        {
+          "title": "LY01B20240110C",
+          "url": "https://www.ctnews.com.cn/paper/att/202401/10/33651c59-2746-43e4-85c0-dbee442d8659.pdf"
+        },
+        {
+          "title": "马迭尔宾馆",
+          "url": "https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%BF%AD%E5%B0%94%E5%AE%BE%E9%A6%86"
+        },
+        {
+          "title": "中国冰雪ACG展会",
+          "url": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%86%B0%E9%9B%AAACG%E5%B1%95%E4%BC%9A"
+        },
+        {
+          "title": "哈尔滨市历史建筑",
+          "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82%E5%8E%86%E5%8F%B2%E5%BB%BA%E7%AD%91"
+        },
+        {
+          "title": "哈尔滨市文物保护单位",
+          "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%82%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D"
+        },
+        {
+          "title": "道里区各级文物保护单位列表",
+          "url": "https://zh.wikipedia.org/wiki/%E9%81%93%E9%87%8C%E5%8C%BA%E5%90%84%E7%BA%A7%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8D%95%E4%BD%8D%E5%88%97%E8%A1%A8"
+        },
+        {
+          "title": "哈尔滨卷烟厂",
+          "url": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%8D%B7%E7%83%9F%E5%8E%82"
+        }
+      ],
+      "evidenceStatus": "search-result-only-unless-separately-read",
+      "reviewedTopicsCompleted": false
+    }
+  ],
+  "failedOrLimitedReads": [
+    {
+      "url": "https://www.jswyruye.com/",
+      "status": "503/timeout",
+      "treatment": "官网正文未读；改用中国江苏网工厂报道。"
+    },
+    {
+      "url": "https://www.yakult.com.cn/factory",
+      "status": "HTML fetched but no readable text",
+      "treatment": "不计为已读来源；采用具体抽检表。"
+    },
+    {
+      "url": "https://swt.ln.gov.cn/swt/ywxx/tzgg/2024102916531538698/index.shtml",
+      "status": 404,
+      "treatment": "只读到查策网公示转载，明确标二级来源；沈阳另有政府最终名单。"
+    },
+    {
+      "url": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf",
+      "status": "direct-download-403; web-reader-succeeded",
+      "treatment": "通过网页阅读器读取PDF行，哈希为阅读器响应而非PDF原始字节。"
+    }
+  ],
+  "githubReviews": [
+    {
+      "repository": "https://github.com/wjjwkwindy/awesome-cn-food-web",
+      "readUrl": "https://raw.githubusercontent.com/wjjwkwindy/awesome-cn-food-web/main/README.md",
+      "evidenceSha256": "9d8db329d383125d46bd2aea3a503c18a5f51c7e02d03a59f153acabc664a5cc",
+      "scope": "地图、店铺数据结构与线索检索思路；README不构成每种食品产地证据。"
+    },
+    {
+      "repository": "https://github.com/Anduin2017/HowToCook",
+      "readUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/README.md",
+      "evidenceSha256": "911bd31a4f295ba61d62e45def53d49ea915e204454eceb16fa5851d785476a4",
+      "scope": "菜谱与食品名称线索；菜谱不能直接证明某省市县独有或发源。"
+    },
+    {
+      "repository": "https://github.com/yingwang/shanhe-youji",
+      "readUrl": "https://raw.githubusercontent.com/yingwang/shanhe-youji/main/cities.md",
+      "evidenceSha256": "7418fef6c1e9f09f73aab9b17fc7a25e0d7f1e23538f89128f9c16e0a66633fe",
+      "scope": "城市游戏资源；只取名称线索，不采用游戏金币、价格、属性或虚构效果。"
+    }
+  ]
+}

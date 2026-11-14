@@ -1,0 +1,109 @@
+{
+  "sourceId": "county-20261114-changsha-snacks",
+  "sourceUrl": "https://www.hunan.gov.cn/jxxx/hxwh/cls/201307/t20130724_4874962.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "4e0dc450a47e544e5dcf8e8b69a4106ad755c53f6bc03a04b6aaf50e873a3bd7",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-49fdfcd4c344cf",
+      "name": "姊妹团子",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "姊妹团子：湖南省政府传统小吃技艺资料列明的火宫殿小吃，作为一个品名保存，不将不同馅心分拆计数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-77b6da3eef9e56",
+      "name": "火宫殿煮馓子",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "火宫殿煮馓子：湖南省政府资料列明的八大传统小吃之一，保留煮馓子这一具体菜名，汤底和配料尚待进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0af69a32a81591",
+      "name": "长沙荷兰粉",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙荷兰粉：湖南省政府火宫殿资料列明的粉食，保留地方品名，不由荷兰二字推断其起源国家。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-b67f063e88a4a7",
+      "name": "糖油粑粑",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "糖油粑粑：湖南省政府列明的长沙传统小吃，GitHub城市游戏资源出现的名称以此资料交叉核对，不采用游戏属性。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-676e5e525d77b9",
+      "name": "长沙白粒丸",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙白粒丸：湖南省政府传统小吃技艺资料列明的火宫殿小吃，当前来源支持名称与地区，具体原料尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fec7f769f33353",
+      "name": "龙脂猪血",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "龙脂猪血：湖南省政府传统小吃技艺资料列明的八大品种之一，以地方菜名记录，不由名称添加未经核实的药食解释。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-fd417b5c77188f",
+      "name": "长沙三角干子",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙三角干子：湖南省政府火宫殿资料列明的传统干子食品，名称与地方关联有据，具体调味仍需进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-edabc4e6d739a5",
+      "name": "火宫殿红烧猪脚",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "火宫殿红烧猪脚：湖南省政府资料列明的八大传统小吃之一，保留火宫殿技艺关联，不将普通红烧猪脚全部视为同一传承。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e620e4dac8d7a0",
+      "name": "长沙八宝果饭",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙八宝果饭：湖南省政府火宫殿资料列明的米饭小吃，记录具名品种，不由八宝二字编造固定八种配料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-0bc30b3a705093",
+      "name": "长沙兰花干子",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙兰花干子：湖南省政府传统小吃资料列明的火宫殿干子食品，与三角干子按来源所列名称分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7eac3fb3ea6a8f",
+      "name": "长沙神仙钵饭",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙市火宫殿传统小吃相关地区",
+      "description": "长沙神仙钵饭：湖南省政府火宫殿资料列明的钵饭，名称与地域关联有据，神仙二字不作功效或历史人物解释。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-yakult-sampling",
+  "sourceUrl": "https://m.cqn.com.cn/ms/content/2024-09/26/content_9070029.htm",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "4cae73d0bb72e2e73dd605482fc0aecfe0a477aef45a67f5ce97bc4216968c22",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-3ca3ad30befffe",
+      "name": "养乐多无锡乳酸菌饮品",
+      "province": "jiangsu",
+      "city": "无锡",
+      "locality": "新吴区锡勤路3号",
+      "description": "养乐多无锡乳酸菌饮品：2024年抽检表列明无锡养乐多乳品有限公司生产的低糖活菌型乳酸菌乳饮品，按饮品分类，工厂位置不等于品牌起源。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

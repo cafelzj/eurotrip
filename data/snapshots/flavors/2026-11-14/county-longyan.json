@@ -1,0 +1,100 @@
+{
+  "sourceId": "county-20261114-longyan",
+  "sourceUrl": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202007/t20200707_5317860.htm",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "1c950f37147ebd245ab40c27538121901e38c8cccc3a05a88888b817b274d695",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-5a354b0c6ca1b8",
+      "name": "武平槌鱼",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "武平县",
+      "description": "武平槌鱼：福建商务部门在闽西客家菜概述中点名武平槌鱼，具体成形与配料比例仍待深入核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-e7b0a39555caea",
+      "name": "连城涮九门头",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "连城县",
+      "description": "连城涮九门头：福建商务部门介绍连城九门头与涮九门头，合并同一地方名菜，不重复按别名计数。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-da1aef46f573ac",
+      "name": "白斩河田鸡",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "长汀县",
+      "description": "白斩河田鸡：福建商务部门将其列入闽西客家菜介绍，记录河田鸡成菜，与原料禽种分开。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a9bef558990301",
+      "name": "长汀豆腐宴",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "长汀县",
+      "description": "长汀豆腐宴：福建商务部门以一项豆腐宴介绍地方饮食，不在缺少菜目时虚构多道独立菜。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7f3323238ec96f",
+      "name": "上杭肉圆",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "上杭县",
+      "description": "上杭肉圆：福建商务部门在概述中点名上杭肉圆，保留县域关联，具体原料和工艺仍待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-83969970d78304",
+      "name": "上杭捏甲子",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "上杭县",
+      "description": "上杭捏甲子：福建商务部门点名的地方小吃，保留捏甲子称呼，皮料、馅料和制作方法尚待细化。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-988ea03988f300",
+      "name": "上杭鱼粄",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "上杭县",
+      "description": "上杭鱼粄：福建商务部门在概述中点名上杭鱼粄，具体鱼肉和米粉构成尚待工艺原文核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8fcdf6f6ccd42b",
+      "name": "永定鸡肠面",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "永定区",
+      "description": "永定鸡肠面：福建商务部门点名的鸡肠面，名称不等于必用鸡肠作原料，具体面料与做法另核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-d404bdd876f2ae",
+      "name": "新罗清汤粉",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "新罗区",
+      "description": "新罗清汤粉：福建商务部门点名的县区米粉，记录新罗地方饮食关联，具体汤料随做法核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-431ebe9cbd5012",
+      "name": "漳平米浆粿",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "漳平市",
+      "description": "漳平米浆粿：福建商务部门在闽西饮食概述中列明的米浆粿，保存漳平县级市关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

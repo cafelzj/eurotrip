@@ -1,0 +1,189 @@
+{
+  "sourceId": "county-20261114-js-dairy-pdf",
+  "sourceUrl": "https://scjgj.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=a8c269f9c88d4ec899bf4a06f99dd677.pdf",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对已读取行中标称生产企业、生产地址、产品名与批次；不把抽样零售商当生产企业，不推定品牌发源、全线认证、当前许可证或全时段质量。",
+  "evidenceHash": "946f7e2d22aefd92e9d6333d416937e75743599ab194a997592cc2db6a2b554e",
+  "evidenceHashBasis": "web-reader-responses-canonical-json-utf8",
+  "items": [
+    {
+      "id": "county-42617c58722d32",
+      "name": "伊利苏州乳品",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "工业园区星龙街459号",
+      "description": "伊利苏州乳品：抽检表第2项列明原味零蔗糖风味发酵乳及苏州工厂；此处是生产基地关联，不将伊利品牌发源地改为苏州。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6def1f7890cf4d",
+      "name": "金力乳品",
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "姜堰区俞垛镇通北路8号",
+      "description": "金力乳品：抽检表第19项列明草莓燕麦风味发酵乳，第152项另列含乳饮料；混合产品线不全部视作纯牛奶。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a3edc614b8625d",
+      "name": "南京光明乳品",
+      "province": "jiangsu",
+      "city": "南京",
+      "locality": "江宁区禄口镇来凤路2号",
+      "description": "南京光明乳品：抽检表第23、237项列明巴氏杀菌热处理风味酸牛奶；其热处理类别与需活菌保存的普通低温酸奶区分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-de55d4527fc139",
+      "name": "扬大康源乳品",
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "广陵区鼎兴路88号",
+      "description": "扬大康源乳品：抽检表第29、198项列明茉莉花风味发酵乳与巴氏杀菌鲜牛奶，扬大、扬农作为同一企业的品牌线索合并保存。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-67c9b35707dfd6",
+      "name": "梁丰乳品",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "张家港经济开发区振兴路9号",
+      "description": "梁丰乳品：抽检表第86项列明草莓牛奶及张家港标称生产地址，记录实际乳品，不由集团食品业务推断所有产品都属于乳制品。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ce3297a751a578",
+      "name": "常州红梅乳品",
+      "province": "jiangsu",
+      "city": "常州",
+      "locality": "钟楼区梧桐路56号",
+      "description": "常州红梅乳品：抽检表第87项列明大红枣牛奶及常州工厂，与南通同名红梅生产企业分开记录，未据同名推断股权关系。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a442c88617077f",
+      "name": "明治苏州乳品",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "高新区普陀山路189号",
+      "description": "明治苏州乳品：抽检表第90项列明高温杀菌乳牛乳，标记苏州生产基地，不将生产地址当作明治品牌起源地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6c53d584694bce",
+      "name": "优诺昆山乳品",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "昆山市张浦镇彩华路158号",
+      "description": "优诺昆山乳品：抽检表第93、101项分别列明低温牛乳和希腊式酸奶，两条产品记录合并到同一生产企业卡片。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a6cc838be49400",
+      "name": "卡士苏州酸奶",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "漕湖街道汤浜路57号",
+      "description": "卡士苏州酸奶：抽检表第155、220项列明原味风味发酵乳，保存苏州工厂关联，不把抽样超市所在城市当作产地。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cc9ad8395735b8",
+      "name": "一鸣江苏乳品",
+      "province": "jiangsu",
+      "city": "常州",
+      "locality": "金坛区荆元路88号",
+      "description": "一鸣江苏乳品：抽检表第156项列明冷藏A2β酪蛋白牛乳及金坛生产地址，与目录温州一鸣品牌发源卡明确区分。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a07802cf5130dd",
+      "name": "健桥乳品",
+      "province": "jiangsu",
+      "city": "盐城",
+      "locality": "射阳县城北环东路168号",
+      "description": "健桥乳品：抽检表第159项列明高钙有机鲜牛奶，名称中的有机仅为该样品名称，不推定企业全线产品有同一认证。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-694bd8b8fc97f6",
+      "name": "绿健乳品",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "铜山区棠张镇纺织工业园镇东路3号",
+      "description": "绿健乳品：抽检表第165项列明彭城老酸奶的茉莉青提风味产品，按一家企业保存，未拆分多个口味增加条目。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-7d4abf05969ad0",
+      "name": "优格宿迁酸奶",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "locality": "宿豫区大兴镇大兴工业园6号",
+      "description": "优格宿迁酸奶：抽检表第144项列明茉莉蜜瓜味厚酸奶，类别是巴氏杀菌热处理风味酸奶，不仅凭厚字推定乳蛋白含量。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-569205c5897b86",
+      "name": "君乐宝江苏乳品",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "丰县经济开发区汉源路与华张路交叉处",
+      "description": "君乐宝江苏乳品：抽检表第229、238项列明纯牛奶与简醇零蔗糖酸奶，丰县生产地与君乐宝品牌发源地分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-3bf5f6c2992616",
+      "name": "卫岗新沂乳品",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "新沂市无锡—新沂工业园大桥东路218号",
+      "description": "卫岗新沂乳品：抽检表第230项列明纯牛奶及新沂工厂，作为明确生产企业收录，与南京卫岗品牌卡保留不同关系说明。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-a6e482d867620d",
+      "name": "光明银宝乳品",
+      "province": "jiangsu",
+      "city": "盐城",
+      "locality": "射阳县射阳港经济区幸福大道34号",
+      "description": "光明银宝乳品：抽检表第235、240项列明纯牛奶和鲜牛奶；加工企业与光明银宝相关牧业公司不拆作两家乳品企业。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6ea4548df813b3",
+      "name": "华兴乳品",
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "高邮市甘垛镇甘泉村",
+      "description": "华兴乳品：抽检表第95项列明风味发酵乳及甘垛镇生产地址，保存高邮县级市与扬州地级市两层位置。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-204c0d09f69133",
+      "name": "莱益塔奶酪",
+      "province": "jiangsu",
+      "city": "镇江",
+      "locality": "镇江新区港南路88号8号厂房",
+      "description": "莱益塔奶酪：抽检表第99项列明马苏里拉奶酪碎及镇江工厂，属于奶酪加工产品，不与液态奶生产企业混为一种业务。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cc2c6fe00f78dc",
+      "name": "大旺南京调制乳",
+      "province": "jiangsu",
+      "city": "南京",
+      "locality": "江宁经济技术开发区董村路112号",
+      "description": "大旺南京调制乳：抽检表第239项列明旺仔牛奶并注明调制乳，记录南京标称生产企业，未将调制乳表述成纯牛奶。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "flavor-jiangsu-7444c0c71c",
+      "name": "双喜牛奶",
+      "province": "jiangsu",
+      "city": "苏州",
+      "locality": "苏州高新区鹿山路49号",
+      "description": "双喜牛奶与苏州区域乳业相连，是认识当地牛奶、酸奶加工和城市送奶生活的一项品牌线索，地域关联见公开乳业报道。"
+    }
+  ]
+}

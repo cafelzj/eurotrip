@@ -1,0 +1,145 @@
+{
+  "sourceId": "county-20261114-ln-final",
+  "sourceUrl": "https://wlgd.shenyang.gov.cn/xxfb/ywbb/202412/t20241212_4775387.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "43b000a9706a3035ebecbd45944bb0ee14733fe59c59a60ca5006e130af8a404",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-d1074e0fefa062",
+      "name": "沈阳烤串",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳市相关传承地区",
+      "description": "沈阳烤串：沈阳文旅发布的地标美食名单列明烤串，记录地方烧烤传统，不将全部摊点视为同一品牌。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-088efa6a21f875",
+      "name": "新民血肠",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "新民市",
+      "description": "新民血肠：沈阳文旅名单列明的新民地方血肠，保存县级市关联，实际配料仍按产品核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-bffe8429232755",
+      "name": "沈阳香鸡",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳市相关传承地区",
+      "description": "沈阳香鸡：沈阳文旅名单列明的香鸡，以城市饮食关联记录，不凭名称编造具体香料。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c60e50e1e3537f",
+      "name": "新民香叶焗鸡脖",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "新民市",
+      "description": "新民香叶焗鸡脖：沈阳文旅名单列明的鸡脖食品，保存新民关联，香叶与焗制为菜名中的识别线索。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-cb2c8aa41fb21d",
+      "name": "康平羊汤",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "description": "康平羊汤：沈阳文旅名单列明的县域羊汤，保存康平县位置，不推定汤料配方和统一售价。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-878be912eb0007",
+      "name": "于洪酱驴肉",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "于洪区",
+      "description": "于洪酱驴肉：沈阳文旅名单列明的酱驴肉，以于洪区保存地区关联，不与其他驴肉熟食混同。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-def941d88de05a",
+      "name": "于洪烧鸽子",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "于洪区",
+      "description": "于洪烧鸽子：沈阳文旅名单列明的烧鸽子，保存于洪区位置，具体烹调工序仍需逐店核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-5a2114c99953e4",
+      "name": "彩塔炒焖子",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳市彩塔街一带",
+      "description": "彩塔炒焖子：沈阳文旅名单列明的彩塔地方炒焖子，与大连、丹东同名小吃分别记录。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-8e5a2202bcf936",
+      "name": "法库风味鱼",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "法库县",
+      "description": "法库风味鱼：沈阳文旅名单列明的地方鱼菜，以法库县保存关联，不由名称推定唯一鱼种。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-055ccb795b24d9",
+      "name": "辽中鲫鱼莲藕汤",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "辽中区",
+      "description": "辽中鲫鱼莲藕汤：沈阳文旅名单列明的鲫鱼莲藕汤，以辽中区保存地方食材组合关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-6d0877c2504d86",
+      "name": "沈阳熏酱熟食",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳市相关传承地区",
+      "description": "沈阳熏酱熟食：沈阳文旅名单列明的熏酱熟食，作为组合保留，不将未列出的单品拆分增加数量。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-c718236742df53",
+      "name": "大东四绝菜",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "大东区",
+      "description": "大东四绝菜：沈阳文旅名单以大东非遗四绝菜列名，本条仅记录组合名与地区，四菜构成尚待细核。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-aa1088f0c8ddc5",
+      "name": "沈阳抻面",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳市相关传承地区",
+      "description": "沈阳抻面：沈阳文旅地标美食名单列明的抻面，以城市面食传统记录，汤料和配菜不作统一推定。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-86250d7c412fee",
+      "name": "苏家屯朝鲜族肉酱冷面",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "苏家屯区",
+      "description": "苏家屯朝鲜族肉酱冷面：沈阳文旅名单列明的肉酱冷面，保留苏家屯区定位，与西塔大冷面分开识别。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-ff1730c555c93f",
+      "name": "沈北粘火勺",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈北新区",
+      "description": "沈北粘火勺：沈阳文旅名单列明的粘火勺，保存沈北区位，具体面料和馅料仍需进一步核对。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

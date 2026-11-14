@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-zhuxi-news",
+  "sourceUrl": "https://news.hubeidaily.net/pc/c_5504606.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "b1ff87e8eae9f1f9397c4f01fdb86f61391af62b3bec05f197af7a6a3cb72db3",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-483abd69a9c458",
+      "name": "竹溪蒸盆",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "竹溪县",
+      "description": "竹溪蒸盆：报道介绍腊猪蹄、鸡肉、竹笋、香菇、木耳等合蒸成盆，保存竹溪县域待客菜关联。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

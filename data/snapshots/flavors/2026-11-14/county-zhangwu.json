@@ -1,0 +1,28 @@
+{
+  "sourceId": "county-20261114-zhangwu",
+  "sourceUrl": "https://www.zhangwu.gov.cn/content/2025/1016573.html",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "02f19c55e95cea767d975ec13af9fefd7218c14c2b0bfb84403d66010741bc76",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-3b5b200d5153da",
+      "name": "彰武沙泉鱼宴",
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "description": "彰武沙泉鱼宴：彰武县政府介绍的沙泉鱼宴，作为一项宴席组合保存，不虚构其中未列明的菜目。",
+      "verificationScope": "source-supported-name-category-locality"
+    },
+    {
+      "id": "county-f4c2a1f1aff174",
+      "name": "彰武地瓜宴",
+      "province": "liaoning",
+      "city": "阜新",
+      "locality": "彰武县",
+      "description": "彰武地瓜宴：县政府介绍以当地甘薯组成的宴席，本条按一个组合记录，不照录来源中的疗效宣传。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

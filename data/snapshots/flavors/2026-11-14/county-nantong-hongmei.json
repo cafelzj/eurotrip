@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-nantong-hongmei",
+  "sourceUrl": "https://www.cqn.com.cn/ms/content/2023-01/18/content_8901348.htm",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "a3a837f7ad0493e788fb8041e511bd120b2e5368cbcf341fdb5cce7519282bd0",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-6cbcb957983103",
+      "name": "南通红梅乳品",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "崇川区黄海路99号（来源旧称港闸）",
+      "description": "南通红梅乳品：2023年抽检公布表列明益生菌原味酸牛奶和黄海路工厂，生产批次为2022年，当前产品线仍需跟踪。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}

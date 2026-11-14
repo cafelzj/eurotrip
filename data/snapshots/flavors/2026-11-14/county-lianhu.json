@@ -1,0 +1,19 @@
+{
+  "sourceId": "county-20261114-lianhu",
+  "sourceUrl": "https://www.dy001.cn/2024/1014/204378.shtml",
+  "kind": "editorial-reading-notes",
+  "scope": "仅核对资料支持的名称、类别和地域关联；不推定统一配方、现售、产地独占、企业当前许可或全部产品认证。",
+  "evidenceHash": "87fd79e943db75d12aca40d1c90bf1f32eeb87045b16c67ce830f4f97834369a",
+  "evidenceHashBasis": "original-response-bytes",
+  "items": [
+    {
+      "id": "county-968a4c6f16bbed",
+      "name": "练湖乳品",
+      "province": "jiangsu",
+      "city": "镇江",
+      "locality": "丹阳市开发区马陵村相关地区",
+      "description": "练湖乳品：丹阳新闻网2024年探访介绍鲜奶、酸奶等产品与练湖生产企业；历史牧场和企业改制按报道时间理解。",
+      "verificationScope": "source-supported-name-category-locality"
+    }
+  ]
+}
