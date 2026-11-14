@@ -8063,6 +8063,45 @@
       "supportsItems": [
         "绍兴酱鸭（安昌做法）"
       ]
+    },
+    {
+      "id": "brand-0d6000c4fc94",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E8%8C%89%E6%B2%8F",
+      "title": "最懂情怀的茉沏，联名苏州桥，以特调冬酿重温江南记忆",
+      "read": true,
+      "evidenceSha256": "e16ae328ee0c1af071b9de46f384efc4e5a740f845120775e386f43c5d308e81",
+      "readVia": "中国日报公开检索接口正文",
+      "evidenceUrl": "https://newssearch.chinadaily.com.cn/rest/search?fullMust=%E8%8C%89%E6%B2%8F&sort=relevance&page=0&curType=story",
+      "originalUrl": "https://cn.chinadaily.com.cn/a/202301/13/WS63c1248ea3102ada8b22b2a7.html",
+      "supportsItems": [
+        "茉沏"
+      ]
+    },
+    {
+      "id": "brand-3c256c7151f4",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E6%96%B0%E6%97%B6%E6%B2%8F",
+      "title": "【茶饮新标杆·冠军新时沏】2021茶饮赛道财富分享会",
+      "read": true,
+      "evidenceSha256": "47aed62176b3e82dcf49f80982f4060b30ea0bb140dd46a16bc4be03329a70fa",
+      "readVia": "中国日报公开检索接口正文",
+      "evidenceUrl": "https://newssearch.chinadaily.com.cn/rest/search?fullMust=%E6%96%B0%E6%97%B6%E6%B2%8F&sort=relevance&page=0&curType=story",
+      "originalUrl": "https://caijing.chinadaily.com.cn/a/202102/25/WS60370acea3101e7ce9740eed.html",
+      "supportsItems": [
+        "新时沏"
+      ]
+    },
+    {
+      "id": "brand-e620827ae239",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E4%B8%80%E5%8F%B6%E8%A7%85%E5%B1%B1",
+      "title": "守正宗・玩出新｜祁门红茶：从世界高香礼茶，到年轻人的日常新宠",
+      "read": true,
+      "evidenceSha256": "f56ae32cff119caf170b517ea21f785ff6d18418ab9c56b1ae9e82c5c7a7f2c5",
+      "readVia": "中国日报公开检索接口正文",
+      "evidenceUrl": "https://newssearch.chinadaily.com.cn/rest/search?fullMust=%E4%B8%80%E5%8F%B6%E8%A7%85%E5%B1%B1&sort=relevance&page=0&curType=story",
+      "originalUrl": "https://cn.chinadaily.com.cn/a/202605/29/WS6a1933b0a310942cc49aef47.html",
+      "supportsItems": [
+        "一叶觅山"
+      ]
     }
   ],
   "candidatesNotPublished": [
@@ -8268,7 +8307,6 @@
       "scope": "茶饮品牌",
       "names": [
         "口口椰",
-        "一叶觅山",
         "遇苋",
         "三平方茶",
         "华佗华一堂",

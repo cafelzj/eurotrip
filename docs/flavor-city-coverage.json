@@ -7,15 +7,15 @@
       "city": "北京",
       "count": 23,
       "types": {
-        "dairy": 2,
-        "drinks": 3,
-        "alcohol": 1,
-        "tea": 2,
-        "dishes": 8,
-        "seasoning": 2,
-        "milktea": 1,
         "staples": 3,
-        "ingredients": 1
+        "alcohol": 1,
+        "dairy": 2,
+        "ingredients": 1,
+        "tea": 2,
+        "seasoning": 2,
+        "drinks": 3,
+        "milktea": 1,
+        "dishes": 8
       }
     },
     {
@@ -23,9 +23,9 @@
       "city": "济南",
       "count": 11,
       "types": {
-        "dairy": 1,
+        "staples": 4,
         "dishes": 6,
-        "staples": 4
+        "dairy": 1
       }
     },
     {
@@ -33,12 +33,12 @@
       "city": "青岛",
       "count": 12,
       "types": {
-        "drinks": 2,
-        "alcohol": 2,
-        "tea": 1,
-        "dishes": 4,
         "staples": 2,
-        "dairy": 1
+        "alcohol": 2,
+        "dairy": 1,
+        "tea": 1,
+        "drinks": 2,
+        "dishes": 4
       }
     },
     {
@@ -46,11 +46,11 @@
       "city": "淄博",
       "count": 11,
       "types": {
-        "dairy": 1,
-        "dishes": 4,
         "staples": 3,
+        "ingredients": 1,
         "alcohol": 2,
-        "ingredients": 1
+        "dairy": 1,
+        "dishes": 4
       }
     },
     {
@@ -58,12 +58,12 @@
       "city": "枣庄",
       "count": 11,
       "types": {
-        "dishes": 5,
         "staples": 2,
-        "tea": 1,
-        "alcohol": 1,
         "ingredients": 1,
-        "seasoning": 1
+        "alcohol": 1,
+        "tea": 1,
+        "seasoning": 1,
+        "dishes": 5
       }
     },
     {
@@ -71,11 +71,11 @@
       "city": "东营",
       "count": 11,
       "types": {
-        "dishes": 3,
         "staples": 3,
-        "tea": 2,
+        "ingredients": 2,
         "alcohol": 1,
-        "ingredients": 2
+        "tea": 2,
+        "dishes": 3
       }
     },
     {
@@ -83,11 +83,11 @@
       "city": "烟台",
       "count": 11,
       "types": {
-        "alcohol": 1,
         "staples": 5,
-        "dishes": 3,
+        "alcohol": 1,
+        "tea": 1,
         "seasoning": 1,
-        "tea": 1
+        "dishes": 3
       }
     },
     {
@@ -95,11 +95,11 @@
       "city": "潍坊",
       "count": 11,
       "types": {
-        "dishes": 2,
         "staples": 6,
+        "ingredients": 1,
         "alcohol": 1,
         "seasoning": 1,
-        "ingredients": 1
+        "dishes": 2
       }
     },
     {
@@ -107,10 +107,10 @@
       "city": "济宁",
       "count": 11,
       "types": {
-        "dishes": 5,
+        "seasoning": 1,
         "staples": 4,
-        "alcohol": 1,
-        "seasoning": 1
+        "dishes": 5,
+        "alcohol": 1
       }
     },
     {
@@ -118,11 +118,11 @@
       "city": "泰安",
       "count": 11,
       "types": {
-        "dishes": 5,
         "staples": 2,
-        "seasoning": 2,
+        "ingredients": 1,
         "tea": 1,
-        "ingredients": 1
+        "seasoning": 2,
+        "dishes": 5
       }
     },
     {
@@ -130,10 +130,10 @@
       "city": "威海",
       "count": 11,
       "types": {
-        "dishes": 4,
         "staples": 5,
-        "ingredients": 1,
-        "tea": 1
+        "tea": 1,
+        "dishes": 4,
+        "ingredients": 1
       }
     },
     {
@@ -141,10 +141,10 @@
       "city": "日照",
       "count": 11,
       "types": {
-        "tea": 3,
+        "seasoning": 2,
         "staples": 3,
-        "ingredients": 3,
-        "seasoning": 2
+        "tea": 3,
+        "ingredients": 3
       }
     },
     {
@@ -152,11 +152,11 @@
       "city": "临沂",
       "count": 11,
       "types": {
-        "dishes": 4,
         "staples": 3,
-        "seasoning": 2,
         "alcohol": 1,
-        "tea": 1
+        "tea": 1,
+        "seasoning": 2,
+        "dishes": 4
       }
     },
     {
@@ -164,10 +164,10 @@
       "city": "德州",
       "count": 11,
       "types": {
-        "dishes": 4,
+        "seasoning": 1,
         "staples": 5,
-        "alcohol": 1,
-        "seasoning": 1
+        "dishes": 4,
+        "alcohol": 1
       }
     },
     {
@@ -185,9 +185,9 @@
       "city": "滨州",
       "count": 11,
       "types": {
+        "seasoning": 2,
         "staples": 4,
         "dishes": 4,
-        "seasoning": 2,
         "ingredients": 1
       }
     },
@@ -196,22 +196,22 @@
       "city": "菏泽",
       "count": 12,
       "types": {
-        "dishes": 8,
         "staples": 3,
+        "dishes": 8,
         "alcohol": 1
       }
     },
     {
       "province": "anhui",
       "city": "合肥",
-      "count": 13,
+      "count": 14,
       "types": {
-        "milktea": 1,
-        "dishes": 5,
         "staples": 4,
-        "tea": 1,
         "alcohol": 1,
-        "dairy": 1
+        "dairy": 1,
+        "tea": 1,
+        "milktea": 2,
+        "dishes": 5
       }
     },
     {
@@ -219,9 +219,9 @@
       "city": "芜湖",
       "count": 11,
       "types": {
+        "seasoning": 1,
         "staples": 4,
         "dishes": 5,
-        "seasoning": 1,
         "alcohol": 1
       }
     },
@@ -230,12 +230,12 @@
       "city": "蚌埠",
       "count": 12,
       "types": {
-        "milktea": 1,
         "staples": 3,
-        "drinks": 1,
-        "dishes": 5,
+        "ingredients": 1,
         "seasoning": 1,
-        "ingredients": 1
+        "milktea": 1,
+        "drinks": 1,
+        "dishes": 5
       }
     },
     {
@@ -243,12 +243,12 @@
       "city": "淮南",
       "count": 12,
       "types": {
-        "dairy": 1,
-        "drinks": 1,
-        "dishes": 5,
         "staples": 2,
+        "dairy": 1,
+        "ingredients": 1,
         "seasoning": 2,
-        "ingredients": 1
+        "drinks": 1,
+        "dishes": 5
       }
     },
     {
@@ -256,12 +256,12 @@
       "city": "马鞍山",
       "count": 12,
       "types": {
-        "seasoning": 1,
-        "dishes": 4,
-        "alcohol": 2,
+        "staples": 1,
         "ingredients": 2,
+        "alcohol": 2,
         "tea": 2,
-        "staples": 1
+        "seasoning": 1,
+        "dishes": 4
       }
     },
     {
@@ -269,12 +269,12 @@
       "city": "淮北",
       "count": 12,
       "types": {
-        "alcohol": 1,
-        "tea": 1,
-        "dishes": 3,
-        "seasoning": 1,
         "staples": 5,
-        "dairy": 1
+        "alcohol": 1,
+        "dairy": 1,
+        "tea": 1,
+        "seasoning": 1,
+        "dishes": 3
       }
     },
     {
@@ -282,11 +282,11 @@
       "city": "铜陵",
       "count": 11,
       "types": {
-        "dishes": 3,
-        "tea": 1,
+        "alcohol": 1,
         "ingredients": 4,
+        "tea": 1,
         "seasoning": 2,
-        "alcohol": 1
+        "dishes": 3
       }
     },
     {
@@ -295,8 +295,8 @@
       "count": 13,
       "types": {
         "seasoning": 2,
-        "dishes": 5,
         "staples": 3,
+        "dishes": 5,
         "tea": 3
       }
     },
@@ -305,9 +305,9 @@
       "city": "黄山",
       "count": 12,
       "types": {
+        "staples": 2,
         "tea": 4,
-        "dishes": 6,
-        "staples": 2
+        "dishes": 6
       }
     },
     {
@@ -315,13 +315,13 @@
       "city": "滁州",
       "count": 11,
       "types": {
-        "dishes": 2,
-        "milktea": 1,
         "staples": 3,
-        "seasoning": 2,
         "alcohol": 1,
         "ingredients": 1,
-        "tea": 1
+        "tea": 1,
+        "seasoning": 2,
+        "milktea": 1,
+        "dishes": 2
       }
     },
     {
@@ -330,10 +330,10 @@
       "count": 11,
       "types": {
         "staples": 3,
-        "drinks": 1,
+        "ingredients": 1,
         "alcohol": 2,
-        "dishes": 4,
-        "ingredients": 1
+        "drinks": 1,
+        "dishes": 4
       }
     },
     {
@@ -341,10 +341,10 @@
       "city": "宿州",
       "count": 11,
       "types": {
-        "dishes": 4,
-        "ingredients": 4,
+        "seasoning": 1,
         "alcohol": 2,
-        "seasoning": 1
+        "dishes": 4,
+        "ingredients": 4
       }
     },
     {
@@ -352,10 +352,10 @@
       "city": "六安",
       "count": 11,
       "types": {
-        "alcohol": 2,
-        "tea": 6,
         "ingredients": 2,
-        "staples": 1
+        "staples": 1,
+        "tea": 6,
+        "alcohol": 2
       }
     },
     {
@@ -363,12 +363,12 @@
       "city": "亳州",
       "count": 11,
       "types": {
-        "alcohol": 2,
         "staples": 4,
-        "dishes": 2,
         "ingredients": 1,
+        "alcohol": 2,
+        "tea": 1,
         "seasoning": 1,
-        "tea": 1
+        "dishes": 2
       }
     },
     {
@@ -376,11 +376,11 @@
       "city": "池州",
       "count": 12,
       "types": {
+        "staples": 1,
+        "ingredients": 3,
         "tea": 4,
         "seasoning": 1,
-        "dishes": 3,
-        "staples": 1,
-        "ingredients": 3
+        "dishes": 3
       }
     },
     {
@@ -388,12 +388,12 @@
       "city": "宣城",
       "count": 12,
       "types": {
-        "dishes": 3,
-        "tea": 5,
-        "alcohol": 1,
-        "seasoning": 1,
         "staples": 1,
-        "ingredients": 1
+        "alcohol": 1,
+        "ingredients": 1,
+        "tea": 5,
+        "seasoning": 1,
+        "dishes": 3
       }
     },
     {
@@ -401,10 +401,10 @@
       "city": "南京",
       "count": 12,
       "types": {
-        "tea": 1,
-        "dishes": 5,
+        "dairy": 1,
         "staples": 5,
-        "dairy": 1
+        "tea": 1,
+        "dishes": 5
       }
     },
     {
@@ -412,8 +412,8 @@
       "city": "无锡",
       "count": 11,
       "types": {
-        "dishes": 4,
         "staples": 5,
+        "dishes": 4,
         "tea": 2
       }
     },
@@ -422,11 +422,11 @@
       "city": "徐州",
       "count": 12,
       "types": {
+        "staples": 4,
+        "alcohol": 1,
         "dairy": 1,
         "drinks": 1,
-        "dishes": 5,
-        "staples": 4,
-        "alcohol": 1
+        "dishes": 5
       }
     },
     {
@@ -434,24 +434,24 @@
       "city": "常州",
       "count": 11,
       "types": {
+        "seasoning": 1,
         "staples": 5,
         "dishes": 3,
-        "seasoning": 1,
         "tea": 2
       }
     },
     {
       "province": "jiangsu",
       "city": "苏州",
-      "count": 13,
+      "count": 14,
       "types": {
-        "tea": 1,
-        "dishes": 5,
         "staples": 3,
-        "milktea": 1,
         "alcohol": 1,
+        "dairy": 1,
+        "tea": 1,
+        "milktea": 2,
         "seasoning": 1,
-        "dairy": 1
+        "dishes": 5
       }
     },
     {
@@ -459,8 +459,8 @@
       "city": "南通",
       "count": 11,
       "types": {
-        "staples": 7,
         "seasoning": 2,
+        "staples": 7,
         "dishes": 1,
         "alcohol": 1
       }
@@ -470,12 +470,12 @@
       "city": "连云港",
       "count": 11,
       "types": {
-        "dishes": 5,
+        "staples": 1,
+        "ingredients": 1,
         "alcohol": 1,
         "tea": 1,
         "seasoning": 2,
-        "ingredients": 1,
-        "staples": 1
+        "dishes": 5
       }
     },
     {
@@ -483,12 +483,12 @@
       "city": "淮安",
       "count": 14,
       "types": {
-        "dishes": 6,
-        "alcohol": 1,
-        "ingredients": 2,
-        "seasoning": 1,
         "staples": 3,
-        "dairy": 1
+        "ingredients": 2,
+        "alcohol": 1,
+        "dairy": 1,
+        "seasoning": 1,
+        "dishes": 6
       }
     },
     {
@@ -496,9 +496,9 @@
       "city": "盐城",
       "count": 11,
       "types": {
+        "seasoning": 2,
         "staples": 5,
         "dishes": 3,
-        "seasoning": 2,
         "alcohol": 1
       }
     },
@@ -507,9 +507,9 @@
       "city": "扬州",
       "count": 13,
       "types": {
-        "dishes": 6,
         "seasoning": 1,
         "staples": 5,
+        "dishes": 6,
         "tea": 1
       }
     },
@@ -518,11 +518,11 @@
       "city": "镇江",
       "count": 11,
       "types": {
-        "seasoning": 2,
         "staples": 3,
-        "dishes": 3,
+        "alcohol": 1,
         "tea": 2,
-        "alcohol": 1
+        "seasoning": 2,
+        "dishes": 3
       }
     },
     {
@@ -530,9 +530,9 @@
       "city": "泰州",
       "count": 12,
       "types": {
-        "dishes": 5,
-        "staples": 5,
         "seasoning": 1,
+        "staples": 5,
+        "dishes": 5,
         "alcohol": 1
       }
     },
@@ -541,10 +541,10 @@
       "city": "宿迁",
       "count": 11,
       "types": {
-        "alcohol": 2,
         "staples": 5,
+        "ingredients": 1,
         "dishes": 3,
-        "ingredients": 1
+        "alcohol": 2
       }
     },
     {
@@ -552,10 +552,10 @@
       "city": "杭州",
       "count": 13,
       "types": {
-        "tea": 2,
-        "dishes": 6,
+        "dairy": 1,
         "staples": 4,
-        "dairy": 1
+        "tea": 2,
+        "dishes": 6
       }
     },
     {
@@ -563,11 +563,11 @@
       "city": "宁波",
       "count": 12,
       "types": {
-        "dishes": 6,
-        "ingredients": 1,
         "staples": 3,
+        "dairy": 1,
+        "ingredients": 1,
         "tea": 1,
-        "dairy": 1
+        "dishes": 6
       }
     },
     {
@@ -575,10 +575,10 @@
       "city": "温州",
       "count": 12,
       "types": {
-        "dairy": 2,
         "staples": 6,
+        "tea": 1,
         "dishes": 3,
-        "tea": 1
+        "dairy": 2
       }
     },
     {
@@ -586,9 +586,9 @@
       "city": "嘉兴",
       "count": 12,
       "types": {
+        "seasoning": 1,
         "staples": 6,
         "dishes": 4,
-        "seasoning": 1,
         "tea": 1
       }
     },
@@ -597,11 +597,11 @@
       "city": "湖州",
       "count": 13,
       "types": {
+        "staples": 2,
+        "dairy": 1,
         "tea": 3,
         "milktea": 1,
-        "dishes": 6,
-        "staples": 2,
-        "dairy": 1
+        "dishes": 6
       }
     },
     {
@@ -609,23 +609,24 @@
       "city": "绍兴",
       "count": 16,
       "types": {
-        "alcohol": 2,
-        "dishes": 7,
         "staples": 2,
+        "alcohol": 2,
         "tea": 4,
-        "seasoning": 1
+        "seasoning": 1,
+        "dishes": 7
       }
     },
     {
       "province": "zhejiang",
       "city": "金华",
-      "count": 11,
+      "count": 12,
       "types": {
-        "drinks": 1,
-        "dishes": 4,
         "staples": 4,
+        "ingredients": 1,
         "tea": 1,
-        "ingredients": 1
+        "milktea": 1,
+        "drinks": 1,
+        "dishes": 4
       }
     },
     {
@@ -633,11 +634,11 @@
       "city": "衢州",
       "count": 11,
       "types": {
-        "seasoning": 1,
         "staples": 5,
-        "dishes": 2,
+        "ingredients": 1,
         "tea": 2,
-        "ingredients": 1
+        "seasoning": 1,
+        "dishes": 2
       }
     },
     {
@@ -645,10 +646,10 @@
       "city": "舟山",
       "count": 11,
       "types": {
-        "ingredients": 3,
         "staples": 2,
+        "tea": 1,
         "dishes": 5,
-        "tea": 1
+        "ingredients": 3
       }
     },
     {
@@ -656,11 +657,11 @@
       "city": "台州",
       "count": 12,
       "types": {
-        "milktea": 1,
         "staples": 8,
         "ingredients": 1,
-        "dishes": 1,
-        "tea": 1
+        "tea": 1,
+        "milktea": 1,
+        "dishes": 1
       }
     },
     {
@@ -678,14 +679,14 @@
       "city": "上海",
       "count": 25,
       "types": {
-        "dairy": 2,
-        "drinks": 1,
-        "alcohol": 1,
-        "tea": 1,
-        "dishes": 8,
-        "seasoning": 4,
         "staples": 7,
-        "milktea": 1
+        "alcohol": 1,
+        "dairy": 2,
+        "tea": 1,
+        "seasoning": 4,
+        "drinks": 1,
+        "milktea": 1,
+        "dishes": 8
       }
     },
     {
@@ -694,8 +695,8 @@
       "count": 13,
       "types": {
         "seasoning": 1,
-        "dishes": 5,
         "staples": 6,
+        "dishes": 5,
         "ingredients": 1
       }
     },
@@ -704,8 +705,8 @@
       "city": "大同",
       "count": 15,
       "types": {
-        "dishes": 8,
-        "staples": 7
+        "staples": 7,
+        "dishes": 8
       }
     },
     {
@@ -713,9 +714,9 @@
       "city": "阳泉",
       "count": 11,
       "types": {
-        "dishes": 5,
+        "seasoning": 1,
         "staples": 5,
-        "seasoning": 1
+        "dishes": 5
       }
     },
     {
@@ -723,8 +724,8 @@
       "city": "长治",
       "count": 11,
       "types": {
-        "dishes": 3,
-        "staples": 8
+        "staples": 8,
+        "dishes": 3
       }
     },
     {
@@ -732,8 +733,8 @@
       "city": "晋城",
       "count": 11,
       "types": {
-        "dishes": 6,
-        "staples": 5
+        "staples": 5,
+        "dishes": 6
       }
     },
     {
@@ -741,12 +742,12 @@
       "city": "朔州",
       "count": 11,
       "types": {
-        "dishes": 4,
         "staples": 3,
+        "ingredients": 1,
         "dairy": 1,
         "tea": 1,
-        "ingredients": 1,
-        "seasoning": 1
+        "seasoning": 1,
+        "dishes": 4
       }
     },
     {
@@ -754,9 +755,9 @@
       "city": "晋中",
       "count": 11,
       "types": {
+        "staples": 7,
         "drinks": 1,
-        "dishes": 3,
-        "staples": 7
+        "dishes": 3
       }
     },
     {
@@ -774,9 +775,9 @@
       "city": "忻州",
       "count": 14,
       "types": {
+        "staples": 7,
         "dishes": 5,
-        "alcohol": 2,
-        "staples": 7
+        "alcohol": 2
       }
     },
     {
@@ -784,8 +785,8 @@
       "city": "临汾",
       "count": 11,
       "types": {
-        "dishes": 4,
         "staples": 6,
+        "dishes": 4,
         "alcohol": 1
       }
     },
@@ -794,11 +795,11 @@
       "city": "吕梁",
       "count": 13,
       "types": {
-        "alcohol": 2,
-        "ingredients": 1,
         "staples": 5,
-        "dishes": 4,
-        "drinks": 1
+        "ingredients": 1,
+        "alcohol": 2,
+        "drinks": 1,
+        "dishes": 4
       }
     }
   ]

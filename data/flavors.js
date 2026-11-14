@@ -5245,6 +5245,27 @@ window.flavorCatalog={
       "publisher": "中国日报网",
       "kind": "reference",
       "checked": "2026-11-14"
+    },
+    "brand-0d6000c4fc94": {
+      "name": "最懂情怀的茉沏，联名苏州桥，以特调冬酿重温江南记忆（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E8%8C%89%E6%B2%8F",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "brand-3c256c7151f4": {
+      "name": "【茶饮新标杆·冠军新时沏】2021茶饮赛道财富分享会（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E6%96%B0%E6%97%B6%E6%B2%8F",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "brand-e620827ae239": {
+      "name": "守正宗・玩出新｜祁门红茶：从世界高香礼茶，到年轻人的日常新宠（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E4%B8%80%E5%8F%B6%E8%A7%85%E5%B1%B1",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
     }
   },
   "items": [
@@ -17430,6 +17451,45 @@ window.flavorCatalog={
       ],
       "locality": "柯桥区",
       "id": "flavor-zhejiang-2377408f11"
+    },
+    {
+      "id": "tea-jiangsu-626b4bc35c",
+      "province": "jiangsu",
+      "city": "苏州",
+      "name": "茉沏",
+      "type": "milktea",
+      "kind": "江南现制茶饮",
+      "description": "以桂花乌龙、米露、酒酿等搭配呈现江南风味的茶饮品牌，曾与苏州桥合作推出白玉桂花米露。",
+      "detail": "产品将桂花乌龙茶底与桂花米露、酒酿组合，保留姑苏冬至饮食的灵感；本项记录苏州文化与产品关联，不推定首店地址。",
+      "sources": [
+        "brand-0d6000c4fc94"
+      ]
+    },
+    {
+      "id": "tea-zhejiang-8c1308ad41",
+      "province": "zhejiang",
+      "city": "金华",
+      "name": "新时沏",
+      "type": "milktea",
+      "kind": "现制茶饮品牌",
+      "description": "新时沏与金华发展背景相连，曾推出茶饮与炸鸡结合的门店模式，品牌后来把总部迁至杭州。",
+      "detail": "2021年品牌报道明确记述2020年7月总部由金华迁到杭州。这里保留金华历史关联，同时标出总部迁移，门店数不沿用未注明日期的统计。",
+      "sources": [
+        "brand-3c256c7151f4"
+      ]
+    },
+    {
+      "id": "tea-anhui-f0eef738a0",
+      "province": "anhui",
+      "city": "合肥",
+      "name": "一叶觅山",
+      "type": "milktea",
+      "kind": "原叶现制茶饮",
+      "description": "一叶觅山是与合肥相连的茶饮品牌，曾参与祁门红茶联名活动，将传统茶叶与现制特调饮品结合。",
+      "detail": "2026年祁门红茶活动报道明确将一叶觅山称为合肥本土品牌，并介绍联名茶点与特调。品牌关联城市与祁门红茶原料产区分别记录。",
+      "sources": [
+        "brand-e620827ae239"
+      ]
     }
   ]
 };
