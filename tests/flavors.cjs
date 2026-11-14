@@ -1,7 +1,7 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),{chromium}=require('playwright');
 const ctx={window:{}};vm.createContext(ctx);for(const file of['data/flavors.js','data/flavor-map-regions.js'])vm.runInContext(fs.readFileSync(file,'utf8'),ctx);
 const data=ctx.window.flavorCatalog,regions=ctx.window.flavorMapRegions,review=JSON.parse(fs.readFileSync('docs/flavor-source-review.json','utf8'));
-assert.deepEqual(Array.from(data.provinces,p=>p.name),['北京','山东','安徽','江苏','浙江','上海','山西']);
+assert.deepEqual(Array.from(data.provinces,p=>p.name),['北京','山东','安徽','江苏','浙江','上海','山西','河南','河北','湖南','湖北','福建','辽宁','吉林','黑龙江']);
 assert.equal(new Set(data.items.map(i=>i.id)).size,data.items.length);
 assert.equal(new Set(data.items.map(i=>i.province+'|'+i.city+'|'+i.name)).size,data.items.length);
 for(const item of data.items){
@@ -15,13 +15,14 @@ for(const item of data.items){
 let cityCount=0;
 for(const province of data.provinces){
  const cities=regions[province.id].level==='city'?regions[province.id].regions.map(r=>r.name):[province.name];
- for(const city of cities){cityCount++;assert(data.items.filter(i=>i.province===province.id&&i.city===city).length>=11,province.name+' '+city+' needs more than ten entries');}
+ for(const city of cities){cityCount++;const count=data.items.filter(i=>i.province===province.id&&i.city===city).length;assert(count>0,province.name+' '+city+' has a first sourced batch');if(['beijing','shandong','anhui','jiangsu','zhejiang','shanghai','shanxi'].includes(province.id))assert(count>=11,province.name+' '+city+' retains completed coverage');}
  const svg=fs.readFileSync('assets/maps/flavors/'+province.id+'.svg','utf8');assert.equal((svg.match(/data-flavor-region=/g)||[]).length,regions[province.id].regions.length);assert(!/(?:href|src)="https?:|<script|onload=|onclick=/.test(svg));assert(review.provinceMaps.some(r=>r.province===province.id&&r.features===regions[province.id].regions.length));
 }
-assert.equal(cityCount,69);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),99);
+assert.equal(cityCount,174);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),204);
 const coverage=JSON.parse(fs.readFileSync('docs/flavor-city-coverage.json','utf8'));
-assert.equal(coverage.cities.length,69);
-for(const row of coverage.cities)assert.equal(row.count,data.items.filter(i=>i.province===row.province&&i.city===row.city).length,'coverage agrees with live catalog');
+assert.equal(coverage.cities.length,169);
+assert.equal(coverage.minimumPerCity,11);assert.equal(coverage.status,'in-progress');for(const row of coverage.cities.filter(r=>r.count<11))assert(coverage.pendingCities.some(r=>r.province===row.province&&r.city===row.city&&r.remainingToTarget===11-row.count),'unfinished targets remain explicit');
+for(const row of [...coverage.cities,...coverage.countyAreas])assert.equal(row.count,data.items.filter(i=>i.province===row.province&&i.city===row.city).length,'coverage agrees with live catalog');
 for(const type of data.categories)assert(data.items.some(i=>i.type===type.id));
 assert.equal(data.categories.find(c=>c.id==='staples').name,'面食');
 assert.equal(data.categories.find(c=>c.id==='drinks').name,'饮品');assert(!data.categories.some(c=>c.id==='milktea'));assert(!data.items.some(i=>i.type==='milktea'));
@@ -35,7 +36,7 @@ assert(data.items.some(i=>i.type==='drinks'&&i.kind.includes('冲泡')));assert(
  await p.route('**/*',r=>{const u=r.request().url();if(u.includes('/assets/maps/'))mapRequests.push(u);if(new URL(u).origin!==origin){external.push(u);return r.abort();}return r.continue();});
  const ready=()=>p.waitForSelector('.flavor-card');const visit=async hash=>{await p.goto(base+'/'+hash);await ready();};
  await visit('#flavors');assert.equal(await p.locator('#flavorsMode').getAttribute('aria-pressed'),'true');
- assert.equal(await p.locator('.flavor-provinces nav a').count(),8);assert.equal(await p.locator('#flavorMap, #flavorProvinceMap').count(),0,'choose a province from the list before showing a city map');
+ assert.equal(await p.locator('.flavor-provinces nav a').count(),16);assert.equal(await p.locator('#flavorMap, #flavorProvinceMap').count(),0,'choose a province from the list before showing a city map');
  assert.equal(await p.locator('.flavor-card').count(),24);await p.locator('#flavorMore').click();assert.equal(await p.locator('.flavor-card').count(),48);
  for(const region of data.provinces){await visit('#flavors/'+region.id);await p.waitForSelector('#flavorProvinceMap[data-province="'+region.id+'"] svg');assert.equal(await p.locator('#flavorProvinceMap [data-flavor-region]').count(),regions[region.id].regions.length);assert.equal(await p.locator('[data-flavor-city]').count(),regions[region.id].regions.length+1);}
  await visit('#flavors/shanxi');await p.locator('[data-flavor-city="忻州"]').click();await ready();assert.equal(await p.locator('#flavorCity').inputValue(),'忻州');assert(await p.locator('[data-flavor-id="sx-jinbo-huangjiu"]').isVisible());
@@ -57,5 +58,5 @@ assert(data.items.some(i=>i.type==='drinks'&&i.kind.includes('冲泡')));assert(
  }
  await p.route('**/assets/maps/flavors/*.svg',r=>r.abort());await p.reload();await ready();await p.waitForFunction(()=>document.querySelector('#flavorProvinceMap').textContent.includes('仍可用城市清单'));await p.locator('[data-flavor-city="铜陵"]').click();await ready();assert.equal(await p.locator('#flavorCity').inputValue(),'铜陵');assert(await p.locator('.flavor-card').count()>=11,'list works without a map');
  assert(!mapRequests.some(u=>u.includes('china-provinces.svg')),'province selection does not request a national map');assert.deepEqual(errors,[]);assert(external.every(u=>/fonts\.googleapis\.com/.test(u)),'catalog has no external map, media, data or search dependency');
- console.log('PASS '+data.items.length+' sourced entries; 69 cities each >10; province/city lists, seven maps/99 regions, keyboard, empty-city state, filters, URL/reload/back, five widths and map failure fallback');
+ console.log('PASS '+data.items.length+' sourced entries; completed original city coverage retained; new city targets tracked; province/city lists, fifteen maps/204 regions, keyboard, empty-city state, filters, URL/reload/back, five widths and map failure fallback');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,6 +1,570 @@
 {
   "reviewed": "2026-11-14",
   "minimumPerCity": 11,
+  "status": "in-progress",
+  "completedProvinces": [
+    "beijing",
+    "shandong",
+    "anhui",
+    "jiangsu",
+    "zhejiang",
+    "shanghai",
+    "shanxi"
+  ],
+  "pendingCities": [
+    {
+      "province": "henan",
+      "city": "濮阳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "henan",
+      "city": "许昌",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "henan",
+      "city": "漯河",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "henan",
+      "city": "三门峡",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "henan",
+      "city": "南阳",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "henan",
+      "city": "商丘",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "henan",
+      "city": "信阳",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "henan",
+      "city": "周口",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "henan",
+      "city": "驻马店",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "hebei",
+      "city": "石家庄",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hebei",
+      "city": "唐山",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hebei",
+      "city": "秦皇岛",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hebei",
+      "city": "邯郸",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hebei",
+      "city": "邢台",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hebei",
+      "city": "保定",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hebei",
+      "city": "张家口",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hebei",
+      "city": "承德",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hebei",
+      "city": "沧州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hebei",
+      "city": "廊坊",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hebei",
+      "city": "衡水",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hunan",
+      "city": "长沙",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "hunan",
+      "city": "株洲",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "湘潭",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "衡阳",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "邵阳",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "hunan",
+      "city": "岳阳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hunan",
+      "city": "常德",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hunan",
+      "city": "张家界",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "益阳",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "郴州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "永州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "怀化",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "娄底",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hunan",
+      "city": "湘西州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "hubei",
+      "city": "武汉",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "hubei",
+      "city": "黄石",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "十堰",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "宜昌",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "hubei",
+      "city": "襄阳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "鄂州",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "荆门",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "孝感",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "荆州",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "黄冈",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "咸宁",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "随州",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "hubei",
+      "city": "恩施州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "fujian",
+      "city": "福州",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "fujian",
+      "city": "厦门",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "fujian",
+      "city": "莆田",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "fujian",
+      "city": "三明",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "fujian",
+      "city": "泉州",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "fujian",
+      "city": "漳州",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "fujian",
+      "city": "南平",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "fujian",
+      "city": "龙岩",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "fujian",
+      "city": "宁德",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "liaoning",
+      "city": "沈阳",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "liaoning",
+      "city": "大连",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "liaoning",
+      "city": "鞍山",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "抚顺",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "本溪",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "liaoning",
+      "city": "丹东",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "liaoning",
+      "city": "锦州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "liaoning",
+      "city": "营口",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "阜新",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "liaoning",
+      "city": "辽阳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "盘锦",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "铁岭",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "朝阳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jilin",
+      "city": "长春",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "jilin",
+      "city": "吉林",
+      "count": 2,
+      "remainingToTarget": 9
+    },
+    {
+      "province": "jilin",
+      "city": "四平",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "jilin",
+      "city": "辽源",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jilin",
+      "city": "通化",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "jilin",
+      "city": "白山",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jilin",
+      "city": "松原",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jilin",
+      "city": "白城",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jilin",
+      "city": "延边州",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "heilongjiang",
+      "city": "鹤岗",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "双鸭山",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "大庆",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "伊春",
+      "count": 2,
+      "remainingToTarget": 9
+    },
+    {
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "count": 2,
+      "remainingToTarget": 9
+    },
+    {
+      "province": "heilongjiang",
+      "city": "七台河",
+      "count": 2,
+      "remainingToTarget": 9
+    },
+    {
+      "province": "heilongjiang",
+      "city": "牡丹江",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "黑河",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "绥化",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "heilongjiang",
+      "city": "大兴安岭",
+      "count": 4,
+      "remainingToTarget": 7
+    }
+  ],
   "cities": [
     {
       "province": "beijing",
@@ -801,12 +1365,14 @@
     {
       "province": "henan",
       "city": "郑州",
-      "count": 9,
+      "count": 11,
       "types": {
         "staples": 5,
         "dishes": 2,
         "alcohol": 1,
-        "seasoning": 1
+        "seasoning": 1,
+        "drinks": 1,
+        "dairy": 1
       }
     },
     {
@@ -859,11 +1425,11 @@
     {
       "province": "henan",
       "city": "鹤壁",
-      "count": 10,
+      "count": 11,
       "types": {
         "alcohol": 1,
         "staples": 3,
-        "ingredients": 4,
+        "ingredients": 5,
         "dishes": 2
       }
     },
@@ -1051,10 +1617,11 @@
     {
       "province": "hebei",
       "city": "承德",
-      "count": 4,
+      "count": 5,
       "types": {
         "dishes": 3,
-        "staples": 1
+        "staples": 1,
+        "drinks": 1
       }
     },
     {
@@ -1079,20 +1646,22 @@
     {
       "province": "hebei",
       "city": "衡水",
-      "count": 4,
+      "count": 5,
       "types": {
         "dishes": 2,
         "staples": 1,
-        "alcohol": 1
+        "alcohol": 1,
+        "drinks": 1
       }
     },
     {
       "province": "hunan",
       "city": "长沙",
-      "count": 5,
+      "count": 6,
       "types": {
         "dishes": 4,
-        "tea": 1
+        "tea": 1,
+        "drinks": 1
       }
     },
     {
@@ -1128,10 +1697,11 @@
     {
       "province": "hunan",
       "city": "邵阳",
-      "count": 4,
+      "count": 5,
       "types": {
         "dishes": 3,
-        "staples": 1
+        "staples": 1,
+        "dairy": 1
       }
     },
     {
@@ -1256,11 +1826,12 @@
     {
       "province": "hubei",
       "city": "宜昌",
-      "count": 5,
+      "count": 6,
       "types": {
         "dishes": 2,
         "tea": 2,
-        "alcohol": 1
+        "alcohol": 1,
+        "drinks": 1
       }
     },
     {
@@ -1352,272 +1923,442 @@
     {
       "province": "fujian",
       "city": "福州",
-      "count": 0,
-      "types": {}
+      "count": 6,
+      "types": {
+        "dishes": 3,
+        "staples": 2,
+        "tea": 1
+      }
     },
     {
       "province": "fujian",
       "city": "厦门",
-      "count": 0,
-      "types": {}
+      "count": 7,
+      "types": {
+        "staples": 2,
+        "drinks": 2,
+        "dishes": 3
+      }
     },
     {
       "province": "fujian",
       "city": "莆田",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "staples": 4
+      }
     },
     {
       "province": "fujian",
       "city": "三明",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "staples": 3,
+        "drinks": 1,
+        "tea": 1
+      }
     },
     {
       "province": "fujian",
       "city": "泉州",
-      "count": 0,
-      "types": {}
+      "count": 6,
+      "types": {
+        "staples": 1,
+        "dishes": 3,
+        "seasoning": 1,
+        "tea": 1
+      }
     },
     {
       "province": "fujian",
       "city": "漳州",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "staples": 2,
+        "dishes": 1,
+        "drinks": 1,
+        "tea": 1
+      }
     },
     {
       "province": "fujian",
       "city": "南平",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "tea": 3,
+        "dishes": 1,
+        "dairy": 1
+      }
     },
     {
       "province": "fujian",
       "city": "龙岩",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "ingredients": 1,
+        "alcohol": 1,
+        "staples": 2
+      }
     },
     {
       "province": "fujian",
       "city": "宁德",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "tea": 2,
+        "dishes": 1,
+        "staples": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "沈阳",
-      "count": 0,
-      "types": {}
+      "count": 7,
+      "types": {
+        "staples": 3,
+        "dishes": 1,
+        "alcohol": 1,
+        "dairy": 1,
+        "drinks": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "大连",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "staples": 1,
+        "dishes": 2,
+        "ingredients": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "鞍山",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "staples": 2,
+        "dishes": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "抚顺",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 2,
+        "staples": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "本溪",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "dishes": 3,
+        "drinks": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "丹东",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "dishes": 1,
+        "staples": 2,
+        "ingredients": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "锦州",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "staples": 2,
+        "drinks": 1,
+        "dishes": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "营口",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 2,
+        "staples": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "阜新",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "dishes": 1,
+        "staples": 2,
+        "alcohol": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "辽阳",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 2,
+        "ingredients": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "盘锦",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 2,
+        "ingredients": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "铁岭",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 2,
+        "staples": 1
+      }
     },
     {
       "province": "liaoning",
       "city": "朝阳",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 1,
+        "staples": 2
+      }
     },
     {
       "province": "liaoning",
       "city": "葫芦岛",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "ingredients": 2,
+        "seasoning": 1
+      }
     },
     {
       "province": "jilin",
       "city": "长春",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "dishes": 2,
+        "staples": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "jilin",
       "city": "吉林",
-      "count": 0,
-      "types": {}
+      "count": 2,
+      "types": {
+        "dishes": 1,
+        "staples": 1
+      }
     },
     {
       "province": "jilin",
       "city": "四平",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "dishes": 1,
+        "staples": 1,
+        "ingredients": 1,
+        "drinks": 1
+      }
     },
     {
       "province": "jilin",
       "city": "辽源",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "staples": 1,
+        "dishes": 1,
+        "ingredients": 1
+      }
     },
     {
       "province": "jilin",
       "city": "通化",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "dishes": 2,
+        "staples": 1,
+        "alcohol": 2
+      }
     },
     {
       "province": "jilin",
       "city": "白山",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 1,
+        "ingredients": 2
+      }
     },
     {
       "province": "jilin",
       "city": "松原",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "ingredients": 2,
+        "staples": 1
+      }
     },
     {
       "province": "jilin",
       "city": "白城",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "staples": 1,
+        "ingredients": 2
+      }
     },
     {
       "province": "jilin",
       "city": "延边州",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "staples": 2,
+        "dishes": 1,
+        "seasoning": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "哈尔滨",
-      "count": 0,
-      "types": {}
+      "count": 9,
+      "types": {
+        "dishes": 5,
+        "staples": 2,
+        "alcohol": 1,
+        "drinks": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "齐齐哈尔",
-      "count": 0,
-      "types": {}
+      "count": 5,
+      "types": {
+        "dishes": 1,
+        "seasoning": 1,
+        "alcohol": 1,
+        "drinks": 1,
+        "dairy": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "鸡西",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "staples": 2,
+        "dishes": 1,
+        "ingredients": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "鹤岗",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "staples": 1,
+        "dishes": 1,
+        "ingredients": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "双鸭山",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 1,
+        "ingredients": 2
+      }
     },
     {
       "province": "heilongjiang",
       "city": "大庆",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 1,
+        "staples": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "伊春",
-      "count": 0,
-      "types": {}
+      "count": 2,
+      "types": {
+        "ingredients": 1,
+        "drinks": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "佳木斯",
-      "count": 0,
-      "types": {}
+      "count": 2,
+      "types": {
+        "dishes": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "七台河",
-      "count": 0,
-      "types": {}
+      "count": 2,
+      "types": {
+        "dishes": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "牡丹江",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "dishes": 1,
+        "staples": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "黑河",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "drinks": 1,
+        "dishes": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "绥化",
-      "count": 0,
-      "types": {}
+      "count": 3,
+      "types": {
+        "staples": 1,
+        "seasoning": 1,
+        "alcohol": 1
+      }
     },
     {
       "province": "heilongjiang",
       "city": "大兴安岭",
-      "count": 0,
-      "types": {}
+      "count": 4,
+      "types": {
+        "seasoning": 2,
+        "ingredients": 2
+      }
     }
   ],
   "countyAreas": [
