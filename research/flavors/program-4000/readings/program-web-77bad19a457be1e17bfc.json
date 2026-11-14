@@ -1,0 +1,23 @@
+{
+  "id": "program-web-77bad19a457be1e17bfc",
+  "title": "老板，来碗面，大碗的",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_FOOD&cpid=666&ctype=news&docid=10511607bbd72f3db3772c504dc80aa609ec291&dy_scenario=relate&r=CN&tn=006fdcbd5292706192dc691ad784b1778e2e0f44b20be8a0a4c74b5449eee499&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "7de35dcd1d73a63034fedfb17cded6c2a28d1bbf38fb35ab9f5e729e5c3d4c9b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "eeaa62a7fca665e4ee47ddd3d5f598ac285ccb2234d17766f669a00a67b23b67",
+    "textLength": 2103,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "河南烩面",
+      "province": "henan",
+      "city": "郑州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

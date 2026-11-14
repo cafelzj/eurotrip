@@ -1,0 +1,95 @@
+{
+  "id": "program-web-c9841562bbd8fa199193",
+  "title": "江苏13设区市地标美食公布 260道名菜小吃请你品“ 味 ”江苏_中国江苏网",
+  "url": "https://jsnews.jschina.com.cn/shms/201910/t20191024_2411898.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "573d2abf5878222bd382ff7a9c0c9b6ff63aebf98176591c90309e7e2cd7c6af",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9d1e047ad66be3bf7f8eff2854ebee7a1a0e430051ed74ac23f1583d1885bba4",
+    "textLength": 2487,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "银丝面",
+      "province": "jiangsu",
+      "city": "常州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "横山桥百叶",
+      "province": "jiangsu",
+      "city": "常州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "芙蓉螺蛳",
+      "province": "jiangsu",
+      "city": "常州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "溧阳扎肝",
+      "province": "jiangsu",
+      "city": "常州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "焖肉面",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "清炒虾仁",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "蕈油面",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "海门山羊",
+      "province": "jiangsu",
+      "city": "南通",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "蟹黄汤包",
+      "province": "jiangsu",
+      "city": "镇江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "扬中河豚",
+      "province": "jiangsu",
+      "city": "镇江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

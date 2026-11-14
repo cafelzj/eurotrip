@@ -1,0 +1,47 @@
+{
+  "id": "program-web-31b674d9c5c282a1d64f",
+  "title": "**南京：** 小笼包、煮干丝、鸭血粉丝、如",
+  "url": "https://ise.hhu.edu.cn/_upload/article/files/90/f4/22cfc03545e5a8fc78b3be955e61/41de5e74-28e7-4ac1-a865-0cc0f511f5ac.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "80b17a92f5b9cddaf36ad574aa990cacf46c895a22d7f29962de2a6c2f8cfc8a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "03144aaa34156a25bc44ccb9197d2a96d3a5861cdcdc24bc67ca0472e98629e1",
+    "textLength": 28512,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "活珠子",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "马蹄酥",
+      "province": "jiangsu",
+      "city": "无锡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "海棠糕",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "八珍糕",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

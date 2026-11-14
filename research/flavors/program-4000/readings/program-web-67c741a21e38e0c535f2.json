@@ -1,0 +1,23 @@
+{
+  "id": "program-web-67c741a21e38e0c535f2",
+  "title": "家乡美味之莒县大饼-日照要闻-日照新闻网-日照第一门户网站 日照新闻-日照日报-黄海晨刊",
+  "url": "https://www.rznews.cn/viscms/juxian3053/20260403/720901.html",
+  "checked": "2026-11-14",
+  "responseSha256": "93908c6751c13ce6470ee7d1563361a37ecf701b92cbf398be641e0692fc6931",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a32fb5647c0886c03eda6cbd89e69810cc0719bea0c4c5edd31cb505289932b6",
+    "textLength": 1634,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "莒县大饼",
+      "province": "shandong",
+      "city": "日照",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

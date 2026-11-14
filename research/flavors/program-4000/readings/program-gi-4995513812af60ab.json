@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-4995513812af60ab",
+  "title": "地理标志公告 · 2022年第473号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2022%E5%B9%B4%E7%AC%AC473%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "162081b31222285bdcd9ef495cfd768d5dae3cc3a011007f9650605ebb34aa56",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2022%E5%B9%B4%E7%AC%AC473%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "162081b31222285bdcd9ef495cfd768d5dae3cc3a011007f9650605ebb34aa56",
+    "textSha256": "168502f31e97044d4ae7fa3300b4333fbb6f5c9d818b916f9606764a4e536cbe",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "滦南虾酱",
+      "province": "hebei",
+      "city": "唐山",
+      "locality": "滦南县",
+      "type": "seasoning",
+      "sectionSha256": "656e53977b6dba31f2e6a6b0c4dbb4758c70d99e6d1bd116238a1b7cc52e097c",
+      "headingOffset": 390,
+      "scope": "河北省唐山市滦南县南堡镇、柏各庄镇、坨里镇、胡各庄镇共4个镇现辖行政区域",
+      "variety": "要求1.鲜乌虾。产地范围内清明至小满期间的鲜乌虾,允许含有少量其他鲜虾,鲜乌虾占比≥90%,符合国家相关标准规定。2.食盐。产地范围内生产的高钠海盐,符合国家相关标准规定",
+      "sensory": "酱质细腻粘稠,浅红褐色,气味鲜香,咸度适中",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "滦南虾油",
+      "province": "hebei",
+      "city": "唐山",
+      "locality": "滦南县",
+      "type": "seasoning",
+      "sectionSha256": "86cb103f29e9d2e4dc2bb83232ee7b2be9800a9f8811d4c4e1d64d90ca474368",
+      "headingOffset": 1320,
+      "scope": "河北省唐山市滦南县南堡镇、柏各庄镇、坨里镇、胡各庄镇共4个镇现辖行政区域",
+      "variety": "要求1.鲜乌虾。产地范围内清明至小满期间的鲜乌虾,允许含有少量其他鲜虾,鲜乌虾占比≥90%,符合国家相关标准规定。2.食盐。产地范围内生产的高钠海盐,符合国家相关标准规定",
+      "sensory": "外观呈褐色,清而不混,气味鲜浓清香,口感咸鲜合一,味极鲜美,余味绕口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

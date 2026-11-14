@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7d9ddc101be3c5f00131",
+  "title": "厦门美食攻略",
+  "url": "https://weibo.com/2/detail/comos%3Anitzrfm5567858",
+  "checked": "2026-11-14",
+  "responseSha256": "ea21902a4f60244e57c96f0240290d9774c234ae09dedd8f4fd0e2c386d52825",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f3501239e97e0eadc0ef9081d9ff54d0e314edad3a2eda2e7c2e9626001ccf77",
+    "textLength": 1972,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "姜母鸭",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

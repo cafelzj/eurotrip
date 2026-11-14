@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0a1119c55f94ccf286c1",
+  "title": "河北秦皇岛特色美食有哪些，2025年乾隆都馋的秦皇岛味道，十大非遗小吃，海鲜盛宴，吃出300年烟火气，推荐收藏品尝",
+  "url": "https://www.visitbeijing.com.cn/article/4OesUc716sm?device=amp",
+  "checked": "2026-11-14",
+  "responseSha256": "72af2b0f04760f3e68d05bcc0847a9f95f91d51e878f66a368eb7dd66c93bba6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3afea50c3aa239b68a14da894cb2a56e42097a085821a9ed454bd36ad73fd03d",
+    "textLength": 2534,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "卢龙甘薯",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

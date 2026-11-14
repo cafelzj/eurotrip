@@ -1,0 +1,71 @@
+{
+  "id": "program-web-132e42e39892d0ce112c",
+  "title": "“皖美好味道·百县名小吃”美食体验街区（罍街）开街仪式举办",
+  "url": "https://ah.people.com.cn/n2/2022/0126/c402120-35113888.html",
+  "checked": "2026-11-14",
+  "responseSha256": "83dd398b58ae9a0984b6b8a4bd638a84095440ada07f7981048ff0ecd72d0eb1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "24c68f838e90f14b241cb0576edc852d4a1d733199e51e3b011ea15e225ddcab",
+    "textLength": 6174,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "石塘驴巴",
+      "province": "anhui",
+      "city": "合肥",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "肥西老母鸡",
+      "province": "anhui",
+      "city": "合肥",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "徽州刀板香",
+      "province": "anhui",
+      "city": "黄山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "腊八豆腐",
+      "province": "anhui",
+      "city": "黄山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "雷官板鸭",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "马厂羊肉面",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "管坝牛肉",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

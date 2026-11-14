@@ -1,0 +1,23 @@
+{
+  "id": "program-web-92bb2b97e575edb65a67",
+  "title": "花开安徽 向春出发丨不可错过的阜阳，“面面”俱到好滋味",
+  "url": "https://ah.people.com.cn/n2/2023/0315/c358428-40337717.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a55dfa2a4b857729f785ec9686d463515f987e320cd3bace69a1ed8e882eda19",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "62bcfa2a0ce0e28bc52dddf3401edf53fd1e946baa21d3844a1c5429f942d7e0",
+    "textLength": 3606,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "格拉条",
+      "province": "anhui",
+      "city": "阜阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

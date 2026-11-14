@@ -1,0 +1,31 @@
+{
+  "id": "program-web-aad4b3f23ab5ba15c187",
+  "title": "焦作最有名的十大名吃 河南焦作十大美食小吃排行→买购APP",
+  "url": "https://www.maigoo.com/top/426045.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4507f9a6261f82373b677172b2275c618dd7b7316bf4a2ca76824127c1ae206f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "889c195ef50dc9df017776e05a893b1802d244b32462745f1b9bec822c96563e",
+    "textLength": 6390,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "博爱浆面条",
+      "province": "henan",
+      "city": "焦作",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "孟州炒面",
+      "province": "henan",
+      "city": "焦作",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

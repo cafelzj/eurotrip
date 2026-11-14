@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-f50526b83dea5280",
+  "title": "地理标志公告 · 2008年第146号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC146%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "50f6a273956f23091149f781a95c3dbe9ecf3596d8d28bf45c726d8d50dadaf9",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC146%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "50f6a273956f23091149f781a95c3dbe9ecf3596d8d28bf45c726d8d50dadaf9",
+    "textSha256": "e0e377c8025396c550dd7ff2388a526388ac4067179da5efa190d3e3d9e2e363",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "陈集山药",
+      "province": "shandong",
+      "city": "菏泽",
+      "locality": "定陶区",
+      "type": "ingredients",
+      "sectionSha256": "3cb0333acdafe4fbaf42226a9dc54f53e4975cf4905b29cc6560238669dea40e",
+      "headingOffset": 3349,
+      "scope": "陈集山药地理标志产品保护范围为山东省定陶县陈集镇现辖行政区域。",
+      "variety": "西施种子、鸡皮糙",
+      "sensory": "外观品种质地口感(用清水煮之品尝)根毛条形表皮西施种子稀短圆直浅黄硬实面、甜、香、爽棕黄有鸡皮毛囊状鸡皮糙稠长顺直坚实面、沙、香、绵点",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄河口文蛤",
+      "province": "shandong",
+      "city": "东营",
+      "locality": "东营区、河口区",
+      "type": "ingredients",
+      "sectionSha256": "b04583f6599a786666fcc261c4d1ebdba434ef375f2b593b268757adc6118e59",
+      "headingOffset": 5050,
+      "scope": "黄河口文蛤地理标志产品保护范围为山东省东营市河口区现辖行政区域内部分海域,北部282482.94亩(东南点:北纬38°07′45.18′′,东经118°28′43.41′′,西南点:北纬38°08′12.04′′,东经118°16′40.51′′,西北点:北纬38°13′52.23′′,东经118°16′47.22′′,东北点:北纬38°13′34.33′′,东经118°28′59.08′′),东部47502.28亩(东南点:北纬37°57′33.80′′,东经119°01′54.35′′,西南点:北纬37°57′51.93′′,东经119°00′52.72′′,西北点:北纬38°04′03.89′′,东经118°56′59.97′′,东北点:北纬38°04′29.99′′,东经118°58′57.43′′)。",
+      "variety": "帘蛤科文蛤属文蛤(Meretrixmeretrix)",
+      "sensory": "项目要求贝壳表面光滑、坚硬,完整、无畸形,无附着物,被有一层红、褐、黑外观三色相间,光滑似漆的壳皮;轮脉清晰,花纹艳丽,由壳顶开始有锯齿、点状的褐色带,无放射肋,规格整齐。个体活力双壳闭合有力;潜沙能力强,潜沙率不低于95%。杂质无外来杂质,无空壳,贝壳内无泥沙",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武冈卤豆腐",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "武冈市",
+      "type": "dishes",
+      "sectionSha256": "52a044a3a8cece4509f9da83646e3897a894217e50e16b581b1b4437380334bb",
+      "headingOffset": 6133,
+      "scope": "武冈卤豆腐地理标志产品保护范围为湖南省武冈市湾头桥镇、龙田乡、头堂乡、荆竹镇、马坪乡、安乐乡、晏田乡、水浸坪乡、邓家铺镇、双牌乡、稠树塘镇、秦桥乡、文坪镇、大甸乡、司马冲镇、邓元泰镇、龙溪镇、迎春亭街道、辕门口街道等19个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "表面有光泽,呈黄褐色,色泽相对一致。组织致密、紧实。具有该品种应有的香气与滋味,口感纯正、咸淡适中、有嚼劲",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武冈卤铜鹅",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "武冈市",
+      "type": "ingredients",
+      "sectionSha256": "cae2188acb4b02aa6156b6b1e45707958e79b034b1a3e3178782a0793b9a14ec",
+      "headingOffset": 7160,
+      "scope": "武冈卤铜鹅地理标志产品保护范围为湖南省武冈市湾头桥镇、龙田乡、头堂乡、荆竹镇、马坪乡、安乐乡、晏田乡、水浸坪乡、邓家铺镇、双牌乡、稠树塘镇、秦桥乡、文坪镇、大甸乡、司马冲镇、邓元泰镇、龙溪镇、迎春亭街道、辕门口街道等19个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "表面美观洁净,呈黄褐色,色泽相对一致;肌肉组织致密,条、块或个体周正,具有武冈卤铜鹅固有的香气与滋味,回味悠长,咸淡适中",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

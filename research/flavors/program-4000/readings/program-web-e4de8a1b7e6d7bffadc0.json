@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e4de8a1b7e6d7bffadc0",
+  "title": "瑞安特色美食小吃：双炊糕、五香干、湖岭牛排与炒双粉的吃法档案",
+  "url": "https://www.juour.cn/zj/ruian/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "00e70275b2dbccb903e6b2ee88777b478d28ae20a7eee872c641e054cfe2050a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "22243b4d84e6bc6a901e54a6e011e7e056bfdc8e42feeedc2bf514b7046f5f4f",
+    "textLength": 8162,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "湖岭牛排",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

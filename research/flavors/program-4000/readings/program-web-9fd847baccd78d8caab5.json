@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9fd847baccd78d8caab5",
+  "title": "传承“栾川文化”“栾川符号” 彰显文化自信",
+  "url": "https://city.cri.cn/chinanews/20180206/be3511ff-8662-abcd-db3f-175475c8fdcc.html",
+  "checked": "2026-11-14",
+  "responseSha256": "55c608f0e30a091f916dbfdcf78e0eecaedb48b418958afdcef31c1c81aae7e2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b498b9d3974ee330df4e2e4d1381eb91054d18d16b7a66bbcbf9bccce8cd955",
+    "textLength": 2120,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "栾川豆腐",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

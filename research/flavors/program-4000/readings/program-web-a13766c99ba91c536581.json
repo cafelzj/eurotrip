@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a13766c99ba91c536581",
+  "title": "蚌埠，“中国味都”IP打造的构思与路径 - 文旅 - 安徽财经网",
+  "url": "https://www.ahcaijing.com/html/2025/lvyou_0820/577859.html",
+  "checked": "2026-11-14",
+  "responseSha256": "5cc0183ace816e2132ab98848420594667396dcb0f5941581ffc1cd53ffcbfff",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "046663b501b63306ddd69fb5dc9cc5b732a676761c508093ef5885b7d601f65e",
+    "textLength": 3695,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "固镇花生",
+      "province": "anhui",
+      "city": "蚌埠",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

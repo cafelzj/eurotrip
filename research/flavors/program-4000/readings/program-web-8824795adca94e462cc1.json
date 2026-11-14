@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8824795adca94e462cc1",
+  "title": "细河区旅游百科 — 免费滨水慢生活，品味历史与蒙古馅饼 | 细河风景区、人民公园、阜新市博物馆、玉龙湖 | VisitCN",
+  "url": "https://visitcn.com.cn/zh/provinces/liaoning/fuxin/fuxin-xihe",
+  "checked": "2026-11-14",
+  "responseSha256": "820fad6c6717e453f2bf9a93f968fed340b3fcb4440a1b5f2aa183f8e87a126e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0daf0e9b6b6378ce91cef34ecb7a3e07ae264daa193c8bb0b049e4d403a7f7f6",
+    "textLength": 2869,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蒙古馅饼",
+      "province": "liaoning",
+      "city": "阜新",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

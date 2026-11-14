@@ -1,0 +1,23 @@
+{
+  "id": "program-web-796d744fedac7be9755f",
+  "title": "去湘潭，在半部湘菜史写就的小城尝一回地道美食 - 湖南省文化和旅游厅",
+  "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202406/t20240626_33337326.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a6b582cb6505fae2ffaa16ba08520c1aa332be15402015755490d669f79a2e56",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1f26f386a962b725eb2689ff71dca0f5c07c175e34075656d7203b2b7ef1586f",
+    "textLength": 3976,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "毛氏红烧肉",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

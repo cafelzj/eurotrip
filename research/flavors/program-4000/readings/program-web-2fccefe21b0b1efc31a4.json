@@ -1,0 +1,31 @@
+{
+  "id": "program-web-2fccefe21b0b1efc31a4",
+  "title": "我爱湘潭我的家·非遗春节湘潭味丨毛氏菜系：从韶山飘向世界的年味_湘当对“胃”_味道湖南__红网",
+  "url": "https://wdhn.rednet.cn/content/646946/99/14684139.html",
+  "checked": "2026-11-14",
+  "responseSha256": "049fb4aa94a01491000d8427324656e101cdffee2d8eceab93a52426149bed9f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b1ee40ccbbfb161840f2fb3b433bc770619df477daa293062080384b10da998",
+    "textLength": 1918,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "毛氏红烧肉",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "火焙鱼",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

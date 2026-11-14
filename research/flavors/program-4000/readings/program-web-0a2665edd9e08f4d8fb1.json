@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0a2665edd9e08f4d8fb1",
+  "title": "蒙古馅饼",
+  "url": "https://www.fmx.gov.cn/content/2026/294305.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0e27edf71dfe91a08e11ff75cf085774a52512ccae882acba3c2e472c1c7aa59",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1cf6e4ed028414e175d212419867ba8d1c2bbea911c658a393a1853febfe3a76",
+    "textLength": 3545,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蒙古馅饼",
+      "province": "liaoning",
+      "city": "阜新",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

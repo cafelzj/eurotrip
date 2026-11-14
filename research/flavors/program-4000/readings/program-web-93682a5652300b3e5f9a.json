@@ -1,0 +1,31 @@
+{
+  "id": "program-web-93682a5652300b3e5f9a",
+  "title": "海韵悠悠漳郡地 人文熠熠古城新 _ 媒体视点 _ 福建省交通运输厅",
+  "url": "https://jtyst.fj.gov.cn/zwgk/jtyw/mtsy/202410/t20241024_6553246.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "55f7dc60259c476eb686bb6250d0db45478a917560e11d7811f39a82ca377911",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7b6137e785bec9b63f308b21a8fee94fb2c176339c978c19f78a252dfd6aa4bf",
+    "textLength": 6939,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "漳州卤面",
+      "province": "fujian",
+      "city": "漳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "猫仔粥",
+      "province": "fujian",
+      "city": "漳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

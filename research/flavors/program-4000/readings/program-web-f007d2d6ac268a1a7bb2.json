@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f007d2d6ac268a1a7bb2",
+  "title": "廊坊十大必买特产 河北廊坊有什么特产(2026)→买购APP",
+  "url": "https://www.maigoo.com/top/404908.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6345347085b669fe76c1d72c9560ee45831989e159605ae0b15966caed6bce9b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b4b90a73e57b653a6376ce059ed3e46647f18b89abc038c2fd7840d045accc9f",
+    "textLength": 6836,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "胜芳松花蛋",
+      "province": "hebei",
+      "city": "廊坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

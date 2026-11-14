@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d37e7e31f33422bd9578",
+  "title": "0720220512C",
+  "url": "https://szb.northnews.cn/bfxb/resfile/2022-05-12/07/bfxb2022051207.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5a36a092318d3986ef588b141494a2836526269fecb354ce47b41259171689ec",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "61d3ea1461ad46d96823b39b363c2cbaa1ac3d0b0a048b7f98ebd8bfbbc9cefb",
+    "textLength": 5439,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沙县拌面",
+      "province": "fujian",
+      "city": "三明",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

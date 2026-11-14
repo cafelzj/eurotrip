@@ -1,0 +1,23 @@
+{
+  "id": "program-web-66324b52d9faebbdf567",
+  "title": "台州12种小吃上榜“浙江百强”，你都吃过吗？_浙江在线",
+  "url": "https://tz.zjol.com.cn/tzxw/202101/t20210106_21927676_ext.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "8d2b41d21a37b5536145c7eade39f02fecb0e71ce453b727c3583cc717f719b3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ef1fa561fccbe4c309ae66408f89d72c4aed905c93cf4c0eb59fec5d8907a36b",
+    "textLength": 1611,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "温岭嵌糕",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

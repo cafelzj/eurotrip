@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-e65cc121bdd1a2e9",
+  "title": "地理标志公告 · 2019年第331号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2019%E5%B9%B4%E7%AC%AC331%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "852f84c189becc7b44723c6e5b386b38bd1e536e3110806abf3511225bc5354c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2019%E5%B9%B4%E7%AC%AC331%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "852f84c189becc7b44723c6e5b386b38bd1e536e3110806abf3511225bc5354c",
+    "textSha256": "d8c10934083ab0a6217c880326347ae8dcc0517cf66a54fa8dd4416b458188b9",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "连江海带",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "连江县",
+      "type": "ingredients",
+      "sectionSha256": "905b81678404ae17a1e3d35a78a0606fca23778e39a651ee2cdef4b7c62fa4cf",
+      "headingOffset": 472,
+      "scope": "福建省福州市连江县现辖行政区域及北纬26°07′至26°27′,东经119°17′至120°31′之间海域",
+      "variety": "以“连杂一号”、“黄官”和“三海”海带为主要苗种",
+      "sensory": "鲜海带:叶片平整,宽度较大,中带部与边缘部的叶片厚度均匀,个体间性状均匀,附着性生物和砂泥少,藻体柔嫩,口感脆爽鲜美。—4—干海带:呈海带固有的深绿色或褐色,叶体清洁平展,两棵间无粘贴、无霉变、无花斑、无海带根。盐渍海带:表面光滑,无粘液,呈褐绿色,形状整齐",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "溆浦瑶茶",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "溆浦县",
+      "type": "tea",
+      "sectionSha256": "1eba8dc07ae24d3813cf37134244519bc865f76b5de6b07004bcea8d6b428c38",
+      "headingOffset": 2780,
+      "scope": "湖南省怀化市溆浦县现辖行政区域内的卢峰镇、低庄镇、深子湖镇、祖师殿镇、桥江镇、油洋乡、三江镇、水东镇、统溪河镇、小横垅乡、淘金坪乡、两丫坪镇、中都乡、沿溪乡、北斗溪镇、葛竹坪镇、龙庄湾乡、龙潭镇、黄茅园镇等19个乡镇现辖行政区域",
+      "variety": "木姜叶柯(LithocarpuslitseifoliusHanceChun)",
+      "sensory": "外观卷曲紧实,色泽墨绿;汤色浅黄、绿亮;气味清香,滋味甘甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "汨罗粽子",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "汨罗市",
+      "type": "staples",
+      "sectionSha256": "e5adade745025dd8b3c1889542065d30213d81dd2f148e3d33f64b06d3a4f170",
+      "headingOffset": 3867,
+      "scope": "湖南省汨罗市现辖行政区域",
+      "variety": "要求。1.生产用水:产地范围内的地下水,水质符合国家生活饮用水标准规定。2.粽叶:产地范围内生产的箬叶,从采摘到加工使用不多于2天。3.糯米:产地范围内当年产的“桂花糯”(俗称“三粒寸”),应符合国家大米相关标准规定。4.食用碱:应符合国家食用碱相关标准规定。5.猪肉:应符合国家畜肉相关标准规定。6.红豆、绿豆:应符合国家粮食相关标准规定",
+      "sensory": "外形呈牛角状、扎线松紧适当;剥去粽叶,粽体颜色橙黄,晶莹透亮;入口糯软略粘,清香味甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

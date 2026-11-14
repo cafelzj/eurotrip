@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-23935a91827190c1",
+  "title": "地理标志公告 · 2010年第165号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC165%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "1c773692b168dd633f73400acaadd00aff72498ec00f1c4cd38a28d830fb36e9",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC165%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "1c773692b168dd633f73400acaadd00aff72498ec00f1c4cd38a28d830fb36e9",
+    "textSha256": "f7e544a3d8cb2c252e3370e44868bc596d6a9b729a5d7719bf1a61e555b05691",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大厂肥牛",
+      "province": "hebei",
+      "city": "廊坊",
+      "locality": "大厂回族自治县",
+      "type": "ingredients",
+      "sectionSha256": "6769254f6d340f6a35b4c3c2cd1fd7d12de0c241ab73907f963d3319e272af81",
+      "headingOffset": 1565,
+      "scope": "",
+      "variety": "秦川牛、鲁西黄牛、南阳牛、晋南牛",
+      "sensory": "(1)上脑:色泽深红,沉积脂肪明显,横切面呈现较明显的大理石花纹,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,口感瘦而不柴。(2)眼肉:色泽鲜红,有光泽,外油层较厚,横切面呈眼状,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤澄清,脂肪团聚于表面,有香味,口感肥而不腻。(3)外脊:色泽淡红,大理石花纹分布均匀,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,脂肪团聚于表面,有香味,口感弹性足,生食入口即化。(4)里脊:色泽鲜红,有光泽,脂肪呈雪花样沉积,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,口感细嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "邳州银杏",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "邳州市",
+      "type": "ingredients",
+      "sectionSha256": "fb329329b2ae304e7653f653ddaf4edbbd38afe5d38cac35936ca419578b5786",
+      "headingOffset": 3560,
+      "scope": "",
+      "variety": "马铃类品种",
+      "sensory": "外壳光滑洁白,具有光泽。果仁煮熟后口感质地细腻,有韧性,糯性好,香味浓,回味稍有甘甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "云梦鱼面",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "云梦县",
+      "type": "staples",
+      "sectionSha256": "8da3c0bcbf51dfb9a4aa34a60132479ef0dc0a87cc005756a0e6aae801f90332",
+      "headingOffset": 4197,
+      "scope": "",
+      "variety": "要求。1.生产用鱼:鱼面生产所用鱼必须是保护范围内府河所产,且新鲜、无污染、无变质的青鱼、草鱼或鲢鱼等。2.生产用水:使用保护范围内的地下水,符合国家生活饮用水标准",
+      "sensory": "项目指标色泽面色银白色、光滑油润形态折叠状、均匀一致气味具有鱼鲜味。烹调性炸食酥口焦脆、炒食柔软爽口、煮食不粘连",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-21d8b264d3d72c038303",
+  "title": "54道湖北美食正好一副扑克牌 - 武汉市人民政府门户网站",
+  "url": "https://www.wuhan.gov.cn/sy/whyw/202209/t20220903_2034944.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "23d3cbc6a65083927e6ffc2dd10b70982a653032600fb404e8e47c9481093a62",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "753538295b165694b43ab08f291bb2591ad390d749e2839bdbc77a565f71f681",
+    "textLength": 2588,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "清蒸武昌鱼",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

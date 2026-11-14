@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-73883f5de0bf0d13",
+  "title": "地理标志公告 · 2013年第89号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f196e2c623f7f3d267f1f9d21649c6de29f3c4f1f6a950d1397f91d145748da6",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f196e2c623f7f3d267f1f9d21649c6de29f3c4f1f6a950d1397f91d145748da6",
+    "textSha256": "fcac0776f846a1ec9046345fb31ef728bde756e44b34a740b0b0d2447e0aa9cb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "岢岚柏籽羊肉",
+      "province": "shanxi",
+      "city": "忻州",
+      "locality": "岢岚县",
+      "type": "ingredients",
+      "sectionSha256": "070db3a9eccdc008801e7f21ae33561823465b891f2d1fd566687cf9c22d41d1",
+      "headingOffset": 1674,
+      "scope": "岢岚柏籽羊肉产地范围为山西省岢岚县现辖行政区域。",
+      "variety": "",
+      "sensory": "羊肉肌纤维清晰,有韧性,肉外表微干或有风干膜,不沾手,有弹性,指压后的凹陷立即恢复;肌肉呈紫红色,有光泽,脂肪呈乳白色;具柏香味,膻味适宜,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "岢岚红芸豆",
+      "province": "shanxi",
+      "city": "忻州",
+      "locality": "岢岚县",
+      "type": "ingredients",
+      "sectionSha256": "7b781a4ff127381eddd22a67b1efbc7ea3f13f6e07563451202acf0b7c88fe75",
+      "headingOffset": 2878,
+      "scope": "岢岚红芸豆产地范围为山西省岢岚县现辖行政区域。",
+      "variety": "",
+      "sensory": "豆粒紫红鲜亮,无垩白粒,籽粒肾形,蒸煮时有清香味,口感脆嫩有弹性,清香适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "强恕堂酒",
+      "province": "shandong",
+      "city": "淄博",
+      "locality": "桓台县",
+      "type": "alcohol",
+      "sectionSha256": "d16f37a094bffb36e05d2f05349b0d8f5f746d3bfac7beffcdda25ac5b28bcb7",
+      "headingOffset": 3593,
+      "scope": "强恕堂酒产地范围为山东省桓台县索镇、唐山镇、田庄镇、新城镇、马桥镇、荆家镇、起凤镇、果里镇共8个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)色泽和外观:无色或微黄,清亮透明,无悬浮物,无沉淀(注:当酒温低于10°C时,允许出现白色絮状沉淀或失光。10°C以上应逐渐恢复正常);(2)香气:具有较浓郁的己酸乙酯为主体香的复合香气,陈香明显;(3)口味:酒体醇和协调、绵甜爽净;(4)风格:具有本品典型风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "昌邑大对虾",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "昌邑市",
+      "type": "ingredients",
+      "sectionSha256": "733ea49067a4548ec87a21975094c7eb2dbb23851f80c6d4e53b848b9db9b7e8",
+      "headingOffset": 4962,
+      "scope": "昌邑大对虾产地范围为山东省昌邑市现辖行政区域。",
+      "variety": "",
+      "sensory": "体表光滑透明,色泽鲜艳,体长大而侧扁,甲壳薄而坚硬。雄性呈黄褐色,雌性呈青绿色。肉质细腻,紧密有弹性,口感独特,具有海水虾固有鲜味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "伏里土陶",
+      "province": "shandong",
+      "city": "枣庄",
+      "locality": "山亭区",
+      "type": "crafts",
+      "sectionSha256": "364d47ca3455d476dd0ea5e0c71dd5ba6154039b44e3d21b2775b9645c3a94be",
+      "headingOffset": 5478,
+      "scope": "伏里土陶产地范围为山东省枣庄市山亭区西集镇伏里村现辖行政区域。",
+      "variety": "",
+      "sensory": "古朴庄重、陶质深沉、古铜色、色泽浑厚;敲击声音响亮、清脆,余音悦耳;透气性好而长期使用不渗漏,支撑力大",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

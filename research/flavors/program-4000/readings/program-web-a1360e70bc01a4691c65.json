@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a1360e70bc01a4691c65",
+  "title": "非遗美食之河南——长垣烹饪技艺",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?cpid=666&ctype=news&docid=105116066fea927baa67610233b8b4841187d23&dy_scenario=relate&pageType=26&r=CN&tn=db5383e727d48037b84a140a99739cf3bd5908ac61affc07187a76d0ead336a9&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "dc4c834a7994b8ca6c28cd6fc7d22a368f33ffeb4091da7ea8cf8cdcced47d8e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "31f6ddc7b21162a121b45f8caa0d1d9c16af3aa52c952810d6e7e0218ffacbf2",
+    "textLength": 1015,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "霜打馍",
+      "province": "henan",
+      "city": "新乡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

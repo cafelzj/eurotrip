@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-f5305eaa3786b98f",
+  "title": "地理标志公告 · 2011年第137号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c083385f8f49757f5bec9464632dafa2951d8ef8160eecfe3b19836ce3b67c9c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c083385f8f49757f5bec9464632dafa2951d8ef8160eecfe3b19836ce3b67c9c",
+    "textSha256": "bd1f8b7a74002b922ba9f4da75383940731a073808c0ec7e6518d0f35820b966",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "巴哈西伯绿豆",
+      "province": "heilongjiang",
+      "city": "大庆",
+      "locality": "杜尔伯特蒙古族自治县",
+      "type": "ingredients",
+      "sectionSha256": "5ddad12eb304a28ed0d218bc531c5e1d4076083dca479c19f7ce2df17bd6ad2e",
+      "headingOffset": 1868,
+      "scope": "巴哈西伯绿豆产地范围为黑龙江省杜尔伯特蒙古族自治县白音诺勒乡、一心乡、克尔台乡、敖林西伯乡、胡吉吐莫镇、巴彦查干乡、江湾乡7个乡镇现辖行政区域。",
+      "variety": "当地原生品种,以及中绿2号、滨绿1号、大鹦歌绿935、白绿522、白绿8号、白绿6号",
+      "sensory": "籽粒饱满,色泽纯正,有光泽",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

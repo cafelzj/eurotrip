@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-6cf838da11187ac1",
+  "title": "地理标志公告 · 2012年第13号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "bd446e5bae3185e22a4c32349c3ab3807042a8d5227afb5ee8fd7d920f7970e0",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "bd446e5bae3185e22a4c32349c3ab3807042a8d5227afb5ee8fd7d920f7970e0",
+    "textSha256": "ccf3b719f8aaef0a3f5d1d6d11119222c71f8a6f0b23dca01e589a3701b7008f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "松萝茶",
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "休宁县",
+      "type": "tea",
+      "sectionSha256": "8869323029f711f0d990da370470dda68cb2c664654256e20f5bc05a6c565c79",
+      "headingOffset": 2088,
+      "scope": "松萝茶产地范围为安徽省休宁县海阳镇、万安镇、齐云山镇、蓝田镇、渭桥乡、五城镇、山斗乡、岭南乡、商山镇、东临溪镇、源芳乡、榆树乡、璜尖乡、白际乡、龙田乡、溪口镇、陈霞乡、板桥乡、流口镇、汪村镇、鹤城乡21个乡镇现辖行政区域。",
+      "variety": "当地群体品种及适制松萝茶的茶树良种",
+      "sensory": "(1)条形茶:条索紧细、重实、匀壮,香气高爽持久,滋味浓厚甘醇,汤色翠绿微黄,叶底绿嫩明亮。(2)针形茶:紧秀挺直、匀齐,锋苗、白毫显露,色泽绿润,滋味鲜爽,回味甘甜,兰花香持久,汤色翠绿,清澈明亮,叶底匀齐、肥壮,嫩绿鲜亮。(3)卷曲形茶:紧结稍圆、匀壮显毫,色泽绿润,花香持久,滋味鲜爽,汤色鲜绿明亮,叶底匀齐、嫩绿明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "汉南甜玉米",
+      "province": "hubei",
+      "city": "武汉",
+      "locality": "汉南区",
+      "type": "ingredients",
+      "sectionSha256": "23aacfef4d26c6b77c1dced26cd8393b751a8b69bee7a34d54ac28e85ab94b4e",
+      "headingOffset": 4635,
+      "scope": "汉南甜玉米产地范围为湖北省武汉市汉南区邓南街道办事处现辖行政区域。",
+      "variety": "华甜玉3号、华甜玉4号和鄂甜玉5号",
+      "sensory": "蒸煮后食用:甜、香、柔嫩,皮薄渣少,穗形美观,颜色鲜亮;直接生食:甜、鲜、脆、嫩,清香味绵,皮薄渣少,穗形美观,颜色鲜亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

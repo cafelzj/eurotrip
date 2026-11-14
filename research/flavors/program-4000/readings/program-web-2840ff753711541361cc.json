@@ -1,0 +1,31 @@
+{
+  "id": "program-web-2840ff753711541361cc",
+  "title": "江苏13市十大地标美食榜单发布！",
+  "url": "https://m.thepaper.cn/newsDetail_forward_4608400",
+  "checked": "2026-11-14",
+  "responseSha256": "5e8e3effe705c996436083ec4b95ba751a5f8701d9cd080aadfca2f90ba25fac",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1cee88c609092cc5ea4f603e58f69afa24677e49bee9289cab63768fcdcd4848",
+    "textLength": 2145,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "梅花糕",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "无锡小笼",
+      "province": "jiangsu",
+      "city": "无锡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

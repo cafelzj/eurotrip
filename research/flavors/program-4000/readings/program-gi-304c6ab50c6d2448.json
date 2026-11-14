@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-304c6ab50c6d2448",
+  "title": "地理标志公告 · 2006年第162号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c5ee35bdc366fa1b0427aa180de02d6c47d5fe4937831853a99c690b651af097",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c5ee35bdc366fa1b0427aa180de02d6c47d5fe4937831853a99c690b651af097",
+    "textSha256": "8b290ed3726d68eb8c52a7e33dc09bf370b8d99e263abbc6376fa53688ca0e73",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "白城燕麦",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "洮北区、镇赉县、通榆县、洮南市、大安市",
+      "type": "ingredients",
+      "sectionSha256": "62246eb9a3f492bd6a2ac9b522f9428bf0b1160bca6042b73a39f11e2ccc6a37",
+      "headingOffset": 0,
+      "scope": "白城燕麦地理标志产品保护范围以吉林省白城市人民政府《关于界定白城燕麦地理标志产品保护范围的函》(白政发[2006]15号)提出的范围为准,为吉林省白城市洮北区、大安市、洮南市、镇赉县和通榆县等5个县、市、区现辖行政区域",
+      "variety": "白燕号系列品种",
+      "sensory": "和蒸煮品质:白城燕麦籽粒饱满,腹沟较浅,种皮浅黄色,硬度适中,粒形为长卵圆形或卵圆形。蒸煮易熟化,不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

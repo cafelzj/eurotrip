@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-8cbefaa6cfa9da13",
+  "title": "地理标志公告 · 2010年第28号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "968a40ae549a67eb952b1ade95787d9662605b724da33a29eab6c57937b99006",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "968a40ae549a67eb952b1ade95787d9662605b724da33a29eab6c57937b99006",
+    "textSha256": "cecc053a67b6fe9da536eea5127be1d86475afabed75f28f592f507e1d2314b9",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "查干湖胖头鱼",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "前郭尔罗斯蒙古族自治县",
+      "type": "ingredients",
+      "sectionSha256": "c8ed9294668c95a8628ce568b2359ec5ca33b9f7ec72f81d77d29bd645db6653",
+      "headingOffset": 1820,
+      "scope": "查干湖胖头鱼地理标志产品保护范围为吉林省前郭尔罗斯蒙古族自治县内的查干湖、新庙泡、库里泡和余热鱼苗繁殖场,地理坐标东经124°03′28′′至124°30′59′′,北纬45°5′42′′至45°25′50′′。",
+      "variety": "鳙鱼(Aristichthysmobilis)",
+      "sensory": "头部偏小,体色从背部向下由微黑至银白,渐变明显。肉质富有弹性,加工后口感嫩滑,无土腥味,滋味鲜香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄松甸黑木耳",
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "蛟河市",
+      "type": "ingredients",
+      "sectionSha256": "ec8f5491c665b863cdd4fd75eed5c2bfc12a0f226a1530466e1ed2444cef3301",
+      "headingOffset": 2466,
+      "scope": "黄松甸黑木耳地理标志产品保护范围为吉林省蛟河市黄松甸镇、白石山镇、漂河镇、前进乡、新站镇、乌林朝鲜族乡、拉法街道、天岗镇、庆岭镇、松江镇、天北镇、新农街道、河南街道等13个乡镇街道现辖行政区域。",
+      "variety": "栽培品种选择蛟耳1号、天翔双丰1号和吉AU1号等品种",
+      "sensory": "耳片单片、无耳根,口感脆嫩。春耳耳面黑褐色,有光泽,背面暗灰色,耳片大小1.5cm至5.0cm,耳片厚0.4mm至1.0mm;秋耳耳面黑色,光亮感强,背面黑褐色,耳片大小1.2cm至4.0cm,耳片厚0.9mm至1.5mm",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武安小米",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "武安市",
+      "type": "ingredients",
+      "sectionSha256": "4a66e5281e72f337101bdb1994c7a469b2c7f16166fafcc050c3bc6dd3445e52",
+      "headingOffset": 3735,
+      "scope": "武安小米地理标志产品保护范围为河北省武安市现辖行政区域。",
+      "variety": "“冀谷19”(原名“冀优2号”)、“冀谷25”(原名“懒谷一号”)、“冀谷31”(原名“懒谷三号”)",
+      "sensory": "粒小饱满,色泽鲜黄,气味清香,绵软滑爽",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

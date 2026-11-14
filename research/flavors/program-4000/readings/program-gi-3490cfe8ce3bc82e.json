@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3490cfe8ce3bc82e",
+  "title": "地理标志公告 · 2006年第121号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d0fd3d6279252a502022988eaf7bbd61ea3de1900e0b6311ec1c43a7a5b51ef9",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d0fd3d6279252a502022988eaf7bbd61ea3de1900e0b6311ec1c43a7a5b51ef9",
+    "textSha256": "1c148db897d4bf7882e82261e40ac49c69c14510be3417d172f3852fef3e13bd",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "邓村绿茶",
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "夷陵区",
+      "type": "tea",
+      "sectionSha256": "36ad6b24095f1b14073ee393938780a5557e98ec36657d7842f28466e8cc8d0b",
+      "headingOffset": 0,
+      "scope": "邓村绿茶地理标志产品保护范围以湖北省宜昌市夷陵区人民政府《关于界定邓村绿茶地理标志产品保护范围的函》(夷政函[2005]24号)提出的范围为准,为湖北省宜昌市夷陵区邓村乡、太平溪镇、乐天溪镇、三斗坪镇、下堡坪乡、雾渡河镇、樟村坪镇、黄花乡等8个乡镇现辖行政区域",
+      "variety": "宜昌大叶茶及其系列品种",
+      "sensory": "外形内质级别条索色泽整碎净度香气滋味汤色叶底细紧鲜嫩高嫩绿细嫩匀齐嫩绿明特绿润匀齐匀净鲜爽显锋苗爽持久清澈亮紧细锋香高嫩绿一尚绿润匀整洁净鲜醇嫩匀嫩绿尚亮苗尚显尚持久明亮尚有二紧实绿稍润尚匀整尚高醇厚绿明亮较嫩匀黄绿尚亮嫩茎灰绿稍有尚绿三尚紧实尚匀整纯正醇和有嫩茎黄绿尚亮尚润嫩茎明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

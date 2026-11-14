@@ -1,0 +1,31 @@
+{
+  "id": "program-web-6af93fcb7331e2461c94",
+  "title": "去秦皇岛山海关古城玩，有哪些特色美食不能错过？",
+  "url": "https://www.sina.cn/gc/article/nirkywe2349473.html",
+  "checked": "2026-11-14",
+  "responseSha256": "e833ca12bee9ef640dc15ae696328590965303651d4d8669ff5410344f55d350",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "dacf6e0aaba7bc694e08547f8906b08546f677b0872dc19314710daf4febe611",
+    "textLength": 1602,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "山海关浑锅",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "四条包子",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

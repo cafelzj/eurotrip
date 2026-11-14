@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7b86db6b263f5dde69af",
+  "title": "潍坊昌邑：冬日盛景，热气腾腾_新浪新闻",
+  "url": "https://news.sina.com.cn/zx/gj/2026-01-16/doc-inhhnzaw0704028.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "3e6ee731e5b0f0112338690450f492c74f1487f7562d9c84154bad6740de881f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "40738291f03ed58b7ddecc27779f6c2d73baf0cc0c0af24020fb7a46419d5bfc",
+    "textLength": 4123,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "潍河银鱼",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

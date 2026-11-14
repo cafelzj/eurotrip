@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-6ddb42f3014df904",
+  "title": "地理标志公告 · 2007年第46号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC46%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "aff8c2f099314381431d7b128275968720a9cd24ad984911e8c8e25f22080871",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC46%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "aff8c2f099314381431d7b128275968720a9cd24ad984911e8c8e25f22080871",
+    "textSha256": "236fd64c9a88790582d6452cc5da02a0b46740afaf485a94b5667214876b4b04",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "海盐大头菜",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "海盐县",
+      "type": "ingredients",
+      "sectionSha256": "b4108a007b008c729331415d93250eaf5134293b16a9d6c5c0f61f89d45756c8",
+      "headingOffset": 0,
+      "scope": "海盐大头菜地理标志产品保护范围以浙江省海盐县人民政府《关于“海盐大头菜”地理标志产品保护范围的函》(盐政函[2006]4号)提出的范围为准,为浙江省海盐县现辖行政区域",
+      "variety": "本地瘪大种",
+      "sensory": "气味略香,色泽微黄色,香脆爽口,略带酸味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

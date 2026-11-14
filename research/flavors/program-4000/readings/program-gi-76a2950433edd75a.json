@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-76a2950433edd75a",
+  "title": "地理标志公告 · 2008年第32号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC32%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "a28a350b948b7bcd0f6261d65a9a3b5e9f77c89b96c3d36422f6e713b0c96226",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC32%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "a28a350b948b7bcd0f6261d65a9a3b5e9f77c89b96c3d36422f6e713b0c96226",
+    "textSha256": "014c345a7cab29ab8b8f553d8c3b28d21e4142eacf97abb375b34cfb72fa07bb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "闽笋干",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "永安市",
+      "type": "ingredients",
+      "sectionSha256": "913cd8ee8826e956e19ef73fafec3ed7ebfac9a8732c66bae199d9bef4c0b5fe",
+      "headingOffset": 0,
+      "scope": "闽笋干地理标志产品保护范围以福建省永安市人民政府《关于界定闽笋干地理标志产品保护范围的请示》(永政文〔2007〕12号)提出的范围为准,为福建省永安市现辖行政区域",
+      "variety": "",
+      "sensory": "色泽金黄、带玉色,具有笋干的特殊香气味,略带酸味,笋身扁平干净。(1)凤尾:全部由笋嫩尖制成,无杂色,无脑头。笋长不超过15cm;(2)正牌:全笋制成,组织较嫩,无粗老根头,笋长不超过30cm、笋节距小于1.5cm、脑头小于5%、厚度大于0.5cm,;(3)付牌:全笋制成,无粗老纤维,无明显粗老根头,笋长不超过55cm、笋节距小于2.5cm、脑头小于8%、厚度大于0.3cm",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

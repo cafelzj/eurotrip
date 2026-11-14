@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e7c24386c3549f3849b1",
+  "title": "福清饮食与饮食文化探讨（7）_南岛_新闻_华人头条",
+  "url": "https://www.52hrtt.com/nd/n/w/info/F1779176383480",
+  "checked": "2026-11-14",
+  "responseSha256": "115e2c5faf2f1c65183a6f7f21fe2f2dbde1be7e489b79aa08e0083cd64de0b5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "59322528b58692c8752ca7fa1e526222a3f3c656d0cbbc0bd44a225dbc5dcabb",
+    "textLength": 2323,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "福清光饼",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

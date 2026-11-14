@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1a4ac74c017b64389065",
+  "title": "吕梁十大好吃的特色小吃 山西吕梁最受欢迎10大名吃排行→买购APP",
+  "url": "https://www.maigoo.com/top/426195.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0a7ef69d123a604727506438756eb6eed82da3d4ffe4ee147812f0f541a38973",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "43ec736df003e54b05682ed35d785d55f08c136ff53bfaad1078efc4ab3c0441",
+    "textLength": 7020,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "柳林芝麻饼",
+      "province": "shanxi",
+      "city": "吕梁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

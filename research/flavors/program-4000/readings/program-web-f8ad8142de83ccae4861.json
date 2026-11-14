@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f8ad8142de83ccae4861",
+  "title": "高铁来了！十堰郧西“食力”迎客！_长江云 - 湖北网络广播电视台官方网站",
+  "url": "https://news.hbtv.com.cn/p/4611884.html",
+  "checked": "2026-11-14",
+  "responseSha256": "379bed553ef060358237fc937bea844bd6cbccc401dbc4848045192d0189f74c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "512c06b98bf577a378dd68700ce0a742349ce4707a41a01ec856ca8eed3617bb",
+    "textLength": 1538,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "马头山羊",
+      "province": "hubei",
+      "city": "十堰",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

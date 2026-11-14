@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a4eb2fbf70fd96818ceb",
+  "title": "“华中预制菜之都”荆州，不止预制菜｜故乡里的中国-经济观察网",
+  "url": "https://m.eeo.com.cn/2025/0128/708776.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "fcfd581370da2eb47fa795e8be35a2327005d958f32b95d31ce4646501172858",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "214105f2084038a5121a7cded049361738311c25365988c3af811f726b992293",
+    "textLength": 3152,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "公安锅盔",
+      "province": "hubei",
+      "city": "荆州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

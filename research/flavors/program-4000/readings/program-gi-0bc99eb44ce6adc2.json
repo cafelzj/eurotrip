@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-0bc99eb44ce6adc2",
+  "title": "地理标志公告 · 2008年第13号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2c8ca6f7c2a24504616aec5d8d575e0642e19cbe28774a101abc1ffe3b2a300f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2c8ca6f7c2a24504616aec5d8d575e0642e19cbe28774a101abc1ffe3b2a300f",
+    "textSha256": "975677f992e06c21ad486f69648da7a2339aa6d63aebb710e507dcacfc861f7f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "淮阳黄花菜",
+      "province": "henan",
+      "city": "周口",
+      "locality": "淮阳区",
+      "type": "ingredients",
+      "sectionSha256": "dc1293d92322d990650692bf525fbacaee649abe0dffaadb22b4cf33e613c2ea",
+      "headingOffset": 0,
+      "scope": "淮阳黄花菜地理标志产品保护范围以河南省淮阳县人民政府《关于实施淮阳黄花菜地理标志产品保护范围的函》(淮政文〔2006〕58号)提出的范围为准,为河南省淮阳县城关镇、冯塘乡、刘振屯乡、临蔡镇、大连乡、新站镇、葛店乡、四通镇、鲁台镇、安岭镇、黄集乡、郑集乡、朱集乡、齐老乡、豆门乡、曹河乡、王店乡、白楼乡、许湾乡等19个乡镇现辖行政区域",
+      "variety": "陈州金针",
+      "sensory": "菜条丰润,色泽呈黄白色或金黄色,油分大,弹性强,香气纯正、浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

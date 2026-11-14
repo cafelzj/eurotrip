@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4e5f912fa05174d5fbcf",
+  "title": "让崇明菜登上高端舞台！- 上海市崇明区人民政府",
+  "url": "https://www.shcm.gov.cn/bmpd/019006/019006003/20231123/317d0bab-de21-4132-a4c7-35c45a272d72.html",
+  "checked": "2026-11-14",
+  "responseSha256": "94ab6fb5f6decdab2ef0e754c0463555edfe2716eaf46db7353995208e61eb38",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "73a9994b8623f1b45324a9564c0cabad6d642ba6efe714b84fe4fb75aa34ebdd",
+    "textLength": 2219,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "崇明白扁豆",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

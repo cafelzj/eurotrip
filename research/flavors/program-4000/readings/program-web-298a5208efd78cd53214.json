@@ -1,0 +1,47 @@
+{
+  "id": "program-web-298a5208efd78cd53214",
+  "title": "苏州小吃_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl211.html",
+  "checked": "2026-11-14",
+  "responseSha256": "1308b7d42ebb0d6bf5252004964e4a153c53ab103eff96aafbdefecd6bc8c49a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bf1f03618a07359c27293bea00b1f61cdc9e06782e4a3e4397f384dca7cccd90",
+    "textLength": 2353,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "焖肉面",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "响油鳝糊",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "清炒虾仁",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "鸡头米",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

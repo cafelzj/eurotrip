@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-d2138958de88de68",
+  "title": "地理标志公告 · 2009年第103号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "49b065d3893a8dcac283f1c354bb64de35d0fd2d8cbeafe5d74adaf9052399a7",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "49b065d3893a8dcac283f1c354bb64de35d0fd2d8cbeafe5d74adaf9052399a7",
+    "textSha256": "137501ac84fd9e1bede7681049652765572d3b1cf6a672d1bc93fb2683a03f72",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "集安鸭绿江咸鸭蛋",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "集安市",
+      "type": "dishes",
+      "sectionSha256": "a266de336e61509e2ab8d490942fdf4b2a82a003fb4c2f34a93dcc233d3cef77",
+      "headingOffset": 1745,
+      "scope": "集安鸭绿江咸鸭蛋地理标志产品保护范围为吉林省集安市青石镇、太王镇、麻线乡、榆林镇、凉水朝鲜族自治乡等5个乡镇现辖行政区域。",
+      "variety": "及辅料要求。1.鸭子养殖:鸭子的品种是当地麻鸭。鸭子的饲养环境、饲养过程、饲料及饲料添加剂的使用、兽药的使用,应符合国家生产绿色食品的有关规定。饲养环境、疫情疫病的防治与控制必须执行国家相关规定,不得污染环境。2.原料蛋:选用放养在集安段鸭绿江上觅食江中鱼虾虫草的当地麻鸭所生产的不超过7天的鲜蛋。3.食盐:符合国家有关规定的要求。4.水:符合国家有关规定的要求",
+      "sensory": "生咸鸭蛋蛋白清晰透明,富有粘性。熟咸鸭蛋蛋白细嫩洁白,富有弹性。生咸鸭蛋蛋黄有立体感。熟咸鸭蛋蛋黄含油多。蛋黄占比大,色泽深红或杏红。口感纯正,咸淡适中,具有独特的鲜味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "建阳桔柚",
+      "province": "fujian",
+      "city": "南平",
+      "locality": "建阳区",
+      "type": "ingredients",
+      "sectionSha256": "debb88c91a865e8560c4ce86d047126fe76272360e221b05ef6eb21c5d625f6c",
+      "headingOffset": 3920,
+      "scope": "建阳桔柚地理标志产品保护范围为福建省建阳市现辖行政区域。",
+      "variety": "潭甜桔柚",
+      "sensory": "项目指标果形呈扁圆球形或圆球形,果梗部略呈荸荠形;果径6.5cm~8.5cm果面果面光洁,色泽为橙色或橙黄色,油孢较粗大果肉果肉为橙黄色,化渣,汁多,清甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "团风荸荠",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "团风县",
+      "type": "ingredients",
+      "sectionSha256": "2a783ac57eff5808877cae826c353b261852d00795816ad09d478bb8adaad790",
+      "headingOffset": 4949,
+      "scope": "团风荸荠地理标志产品保护范围为湖北省团风县淋山河镇、方高坪镇、马曹庙镇等3个乡镇现辖行政区域。",
+      "variety": "鄂荠1号",
+      "sensory": "球茎呈扁圆形、皮薄、表皮呈棕红色、肉呈白色、甜脆、渣少、脐部平",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

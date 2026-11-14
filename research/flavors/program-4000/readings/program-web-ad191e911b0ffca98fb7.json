@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ad191e911b0ffca98fb7",
+  "title": "房山的外边是什么？你不用告诉我，我出不去了！",
+  "url": "https://www.visitbeijing.com.cn/article/4PB1v4C06q2",
+  "checked": "2026-11-14",
+  "responseSha256": "7330dc4851dcdcfe7bd025184153d8a3f4f2f9ff3646dd0e8c0087502aae33b7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0785779dc950f0d0498a006f3c639fc623a125c6df267e81ffced5e017aec30e",
+    "textLength": 1934,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "磨盘柿",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

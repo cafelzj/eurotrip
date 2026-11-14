@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-8bebb3b89632b228",
+  "title": "地理标志公告 · 2010年第111号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "109c1cc90d27d20e3a19a4f9b5e22efa95ec920ee7216458fba73afd44818dcc",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "109c1cc90d27d20e3a19a4f9b5e22efa95ec920ee7216458fba73afd44818dcc",
+    "textSha256": "1a3757b3e7c50b796320fb9ef4ab8a44c27461e179b4cb4f0ca798da1f9b2929",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "左云苦荞",
+      "province": "shanxi",
+      "city": "大同",
+      "locality": "左云县",
+      "type": "ingredients",
+      "sectionSha256": "eb34ffa9e122c4d1893c9276f48c9d3fa55479a0b84e7b2e6bffac7d11b4d75e",
+      "headingOffset": 1594,
+      "scope": "",
+      "variety": "“黑丰一号”",
+      "sensory": "籽粒黑褐色或灰褐色,形状为圆三棱形或锥状三棱形,上有三棱三沟,沟棱相同,棱圆钝",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "灵璧石",
+      "province": "anhui",
+      "city": "宿州",
+      "locality": "灵璧县",
+      "type": "crafts",
+      "sectionSha256": "5aab36bf04821d597d723c37cf66e9d13127e513d93dcff16e0e6e13ad35db60",
+      "headingOffset": 2538,
+      "scope": "",
+      "variety": "",
+      "sensory": "(1)青黛灵璧石:颜色青黑,敲击发出清脆声音。(2)灵璧纹石:颜色青黑,表面有直线、弧线、圈线及金钱、蝴蝶、祥云中一种或多种不规则状纹理。(3)灵璧皖螺石:表面呈螺旋状突起(形似螺壳)颜色为红、黄、灰色。(4)五彩灵璧石:一块石体呈多种颜色,有黄、绛、红、青、白色等。(5)白灵璧石:颜色部分或大部为纯白色,其余部分青、灰色。(6)灵璧透花石:颜色黑、灰,表面有人物、植物、山川、清溪、汉画等图案,有较强墨韵感。(7)红灵璧石:石头通体为红色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

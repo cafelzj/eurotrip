@@ -1,0 +1,55 @@
+{
+  "id": "program-web-83b93a0d6cf49095d430",
+  "title": "中国之窗｜湖南——三湘四水 相约湖南 | 号角新闻网",
+  "url": "https://www.uni.org.cn/tanyuan/2023/01/29/1851.html",
+  "checked": "2026-11-14",
+  "responseSha256": "70083706f7ae5ab5ace80373d4d980bc5ba0689aaba29e8e324090d5c307b6aa",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3760b787de08a898ab0235485b43dc34ffc69e4a612f3cacd80f1aab86960282",
+    "textLength": 28007,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炎陵白鹅",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "邵阳米粉",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "猪血丸子",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "麻阳冰糖橙",
+      "province": "hunan",
+      "city": "怀化",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "涟源精制面粉",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

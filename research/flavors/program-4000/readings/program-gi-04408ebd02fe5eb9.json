@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-04408ebd02fe5eb9",
+  "title": "地理标志公告 · 2005年第166号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC166%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e1ef17cebbbb606aa0f70785fe4dd0ef2c7454fb0542354d922caae6b2ffd895",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC166%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e1ef17cebbbb606aa0f70785fe4dd0ef2c7454fb0542354d922caae6b2ffd895",
+    "textSha256": "eb0eb19befe1e9f8fc707fd465b8c9d094bf4c33c17ee67e96a76e037819b537",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "赞皇大枣",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "赞皇县",
+      "type": "ingredients",
+      "sectionSha256": "303f796e8e78ef3e0d7d52a4661a28218d1c9cbb19f63a15114bc2111358cd8a",
+      "headingOffset": 0,
+      "scope": "赞皇大枣地理标志产品保护范围以河北省赞皇县人民政府《关于界定赞皇大枣地理标志保护范围的建议的函》(赞政请[2004]30号)提出的范围为准,为河北省赞皇县阳泽、院头、清河、张楞、龙门、赞皇、许亭、土门、黄北坪、邢郭等10个乡镇现辖行政区域",
+      "variety": "金丝大枣",
+      "sensory": "果卵圆至长圆形,大小均匀,色泽紫红,有光泽,单果重7至12.5,果肉厚实有弹性,呈黄褐色,口感香甜微有辣感,可食率≥85%",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

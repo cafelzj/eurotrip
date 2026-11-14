@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-4d31f6687c91806b",
+  "title": "地理标志公告 · 2006年第176号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC176%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5465c9dca4666f9ba23b83969c0ffc67425475b5f372cebebeb08b430d9f690a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC176%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5465c9dca4666f9ba23b83969c0ffc67425475b5f372cebebeb08b430d9f690a",
+    "textSha256": "29a46c26009b5fe6ed090db1600a10e48481ba16ffa0096b744c7f3b3fff92aa",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "龙峰茶",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "竹溪县",
+      "type": "tea",
+      "sectionSha256": "4a29fd3c3466e61c378ac0e787765ea96a090d82e85393e66ca4651a542eb763",
+      "headingOffset": 0,
+      "scope": "龙峰茶地理标志产品保护范围以湖北省竹溪县人民政府《竹溪县人民政府关于界定“龙峰茶”地理标志产品保护地域范围的函》(溪政函[2006]11号)提出的范围为准,为湖北省竹溪县蒋家堰镇、中锋镇、龙坝乡、城关镇、水坪镇、县河镇、新洲乡、兵营乡、鄂坪乡、汇湾乡、泉溪镇、丰溪镇、天宝乡等13个乡镇,以及龙王垭茶场、梅子茶场、前进茶场、杨家扒综合农场、标湖林场、双竹林场、九里岗林场、王家山茶场、天池垭林场等9个县农林特场现辖行政区域",
+      "variety": "",
+      "sensory": "外形紧细显毫,色泽嫩绿光润,匀整,属高香型茶叶,香气鲜嫩清高持久,带天然花香,滋味鲜醇甘爽,汤色嫩绿明亮,叶底细嫩成朵。除外形特色外,龙峰茶显著的特点是香气高,带天然花香,滋味鲜醇甘爽。分为特一级、特二级、一级、二级共四个等级:品质特一级特二级一级二级条索紧细显毫秀美,匀条索紧细显毫秀美,匀条索紧细显毫,匀条索紧结显毫,尚外形整,色泽嫩绿光润,整,色泽翠绿油润,整,色泽翠绿,稍匀整,色泽尚绿稍无嫩茎。稍有嫩茎。有嫩茎。润,有嫩茎。香气清高持久清高持久鲜浓清香汤色嫩绿明亮清绿明亮清绿明亮黄绿明亮滋味鲜醇甘爽鲜醇甘爽鲜醇醇浓细嫩匀整、叶底细嫩、匀齐、嫩绿明亮细嫩匀整、嫩绿明亮。黄绿尚亮黄绿明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

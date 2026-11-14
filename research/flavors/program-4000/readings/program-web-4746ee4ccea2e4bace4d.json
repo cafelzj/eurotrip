@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4746ee4ccea2e4bace4d",
+  "title": "序号 1 | 地方特色",
+  "url": "https://www.yanqitong.cn/uploads/20250425/7d1f00ccbc9981b90108acd61afd85bc.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "cc49734abb4bf2f44210cc4b92093a7b380023984f65c609aa33190a880c3635",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "460e7069bb92e141efca322944565c8eb6f54dbf3e19e1c80cb5d1d221ea4299",
+    "textLength": 3084,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "清徐老陈醋",
+      "province": "shanxi",
+      "city": "太原",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

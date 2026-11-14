@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6fbe5e60c0f7dc739c75",
+  "title": "麻阳苗族自治县（中国湖南省怀化市下辖自治县）_百科资料_新农商网",
+  "url": "https://www.xncsb.cn/baike/282934.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "826dc93361b35ee01159126305b66eac5ff19371332e31d56b0bdd634b85e854",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0714dede3ca983845382929d00b6adc0e13cf22f53d9f55128174e09d9424822",
+    "textLength": 20943,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "麻阳冰糖橙",
+      "province": "hunan",
+      "city": "怀化",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

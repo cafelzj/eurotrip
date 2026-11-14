@@ -1,0 +1,39 @@
+{
+  "id": "program-web-4d9de44bccf1c96b7280",
+  "title": "暑假来许昌，你就这么玩……",
+  "url": "https://www.xuchang.gov.cn/zjxc/005010/20260625/cbd3c5b6-c242-48e3-bcc2-d68f8320d283.html",
+  "checked": "2026-11-14",
+  "responseSha256": "f1120be84ff4cf2afd831ad7502e6459653515f02d92de250a83fd6291a417b2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b2ca5a0ebe735775450a78e1b27e1a1865b68d7eacb97f131918086156b2d39c",
+    "textLength": 3134,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "襄城焖面",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "禹州粉条",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "禹州十三碗",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

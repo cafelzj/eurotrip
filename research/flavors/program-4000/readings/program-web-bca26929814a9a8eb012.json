@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bca26929814a9a8eb012",
+  "title": "漯河特色——漯河十大美食 - 漯河市中级人民法院",
+  "url": "https://lhzy.hncourt.gov.cn/public/detail.php?id=5064",
+  "checked": "2026-11-14",
+  "responseSha256": "6142f0770b36a7cd771e9b911acbafc435e1cd9319007fc4568a892308f69262",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "500b55d075c760daf7e098e9b8144f73895effda792f7602ca0b0e4f7e8a3734",
+    "textLength": 1448,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "舞阳杠子馍",
+      "province": "henan",
+      "city": "漯河",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b1719ed8730877e6",
+  "title": "地理标志公告 · 2023年第538号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC538%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d551afa69a88c524c516aa10fab2acddf7e92438f01cbb623a0fb1c4b374a935",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC538%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d551afa69a88c524c516aa10fab2acddf7e92438f01cbb623a0fb1c4b374a935",
+    "textSha256": "7e994465755f085743e947834a8434554e48ef36f014ccd3cc8c631d0d6ff7b0",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "泰山玉",
+      "province": "shandong",
+      "city": "泰安",
+      "locality": "岱岳区",
+      "type": "crafts",
+      "sectionSha256": "4111f3f8e333fe1eb0df2a7cccc05aa83865915ae47b31960b9a23f0ec9f7f0a",
+      "headingOffset": 321,
+      "scope": "山东省泰安市岱岳区粥店街道、道朗镇,济南市长清区万德镇共3个镇、街道现辖行政区域",
+      "variety": "要求1.原料产地。原料出产于东经116°57’45”~116°59’45”,北纬36°13’45”~36°14’45”的区域范围。2.原料特征。为原生矿料,以深色调的绿色和黑色为主的蛇纹石质玉石。晶质集合体,常呈鳞片变晶结构,块状构造,结构致密",
+      "sensory": "产品以稳如泰山、福佑平安、敢当文化等系列题材为主,体现泰山文化特点。在自然光下以深色调为主,强光照射下呈现黑色、深绿、灰绿等颜色,常含有金属片状反光、白色絮状包体。半透明至不透明,具有油脂光泽至玻璃光泽",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-950cb29c207f2feb",
+  "title": "地理标志公告 · 2010年第52号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e46ed1fe3e25c63ca58ee87e2316970211aa6c29053447f60240f4ed7cff9130",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e46ed1fe3e25c63ca58ee87e2316970211aa6c29053447f60240f4ed7cff9130",
+    "textSha256": "00347ac70f1cb5e0903361b25901130635bc63e3c83ad80dc24326609ec4b36f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "惠明茶",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "景宁畲族自治县",
+      "type": "tea",
+      "sectionSha256": "30ee912748754bce37482c616f73245c81000d41336f1c2ea2261ece70349914",
+      "headingOffset": 1525,
+      "scope": "惠明茶地理标志产品保护范围为浙江省景宁畲族自治县现辖行政区域。",
+      "variety": "适制惠明茶的当地群体种",
+      "sensory": "(1)螺形惠明茶:外形条索紧细稍弯曲、色泽绿润,内质香气浓高、汤色明亮、滋味鲜醇回甘、叶底明亮。(2)扁形惠明茶:外形扁直,色泽绿润,内质香气浓高、汤色明亮、滋味鲜醇回甘、叶底明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "胶河土豆",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "高密市",
+      "type": "ingredients",
+      "sectionSha256": "6693589aea1febda0e8ee9f783a05b2b82393e351c2ec4f41b5ad2b212783d49",
+      "headingOffset": 3433,
+      "scope": "胶河土豆地理标志产品保护范围为山东省高密市柏城镇柏城社区、李家营社区和王吴社区等3个社区现辖行政区域。",
+      "variety": "早熟品种选用“荷兰7号”,中熟品种选用“荷兰15”号",
+      "sensory": "项目要求形状椭圆形,个头均匀,芽眼浅。颜色皮薄光滑,呈淡黄色,肉质鲜亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

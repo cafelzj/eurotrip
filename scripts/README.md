@@ -8,6 +8,8 @@
 | `check-research.py` | 索引、路径、笔记、公开快照、可选本地归档 → 检查结果 | Python标准库；离线、不修改文件 |
 | `search-flavor-counties.py` | 市县队列 → 追加检索证据、逐次运行日志及本地响应原件 | Python标准库、网络；不自动采用食品或完成研究主题 |
 | `refresh-flavor-coverage.py` | 正式风物目录 → 覆盖数量与队列条目引用 | Python标准库；保留检索记录与主题核对状态 |
+| `index-flavor-program-searches.py` | 4000项研究的完整查询响应 → 公开索引与逐地搜索证据 | Python标准库；不把搜索完成写成事实核实完成 |
+| `flavor-program/` | 已保存本地输入 → 单次采用、产品边界复核、交叉审阅索引 | 见 [研究索引](../research/flavors/program-4000/README.md)；单次导入拒绝重复运行，初始知识稿保持不变 |
 | `build-flavor-research-queue.py` | 已读取的市级行政边界目录 → 市县检索目录 | Python标准库；保留旧证据；行政边界不作食品归属证明 |
 | `build-flavor-province-maps.py` | 行政边界目录 → 省图及 `data/flavor-map-regions.js` | Python标准库；会更新正式地图文件 |
 | `build-china-province-map.py` | 边界输入 → 中国省图 | Python标准库；先查看 `--help` 确认输入与输出 |

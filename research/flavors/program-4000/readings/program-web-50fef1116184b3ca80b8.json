@@ -1,0 +1,23 @@
+{
+  "id": "program-web-50fef1116184b3ca80b8",
+  "title": "南阳市",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E9%98%B3%E5%B8%82",
+  "checked": "2026-11-14",
+  "responseSha256": "57c6c42ca72bb4884dfff878cf92b2321c6fa8ce70247ef82a932eed3eb8e102",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "78fb944df1e36ca059bd81d210bca17bea9d49cf2a0fdbdd0f7c13b94cd225bf",
+    "textLength": 44702,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "新野臊子",
+      "province": "henan",
+      "city": "南阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

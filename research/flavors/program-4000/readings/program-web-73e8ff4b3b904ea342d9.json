@@ -1,0 +1,23 @@
+{
+  "id": "program-web-73e8ff4b3b904ea342d9",
+  "title": "运城特产推荐_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl2040.html",
+  "checked": "2026-11-14",
+  "responseSha256": "e9e10800975cae5f8a2f10dd02f24573c73b69c9c4ecbb3999637d75336b8afd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6e812161c1f6ef1910a5def1cd02ba0707eb0a994d5043d2ffc5ee2093d7a01b",
+    "textLength": 1681,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "万荣苹果",
+      "province": "shanxi",
+      "city": "运城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

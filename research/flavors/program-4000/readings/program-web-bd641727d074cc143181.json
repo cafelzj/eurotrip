@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bd641727d074cc143181",
+  "title": "跟着堰马游十堰｜这16道美味，治愈你的42.195公里_十堰_新闻中心_长江网_cjn.cn",
+  "url": "https://news.cjn.cn/hbpd_19912/sy_19931/202503/t5107210.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "71e9ffc50ffd672ec65c8d1e4eaf78e43938845ea51737c7a5a59e7cd0360c39",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3bb8d14205489f450bb6f36bd50ab6c39c65a1da37e608cc136c28362105ee95",
+    "textLength": 2708,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "房县花菇",
+      "province": "hubei",
+      "city": "十堰",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3ea551eb888e16145787",
+  "title": "盘点秦皇岛的四种特色美食，绝对不能错过！",
+  "url": "https://www.visitbeijing.com.cn/article/47QnVjTjDIG",
+  "checked": "2026-11-14",
+  "responseSha256": "3c21e3cf54124c652c110965e9a157174c709a75c4adbe92d0e1f160400afd18",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "13d3fbdf41480d37a2785d6e04c7af92f7b55668d456286a44824b9374b14440",
+    "textLength": 1691,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "卢龙粉丝",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

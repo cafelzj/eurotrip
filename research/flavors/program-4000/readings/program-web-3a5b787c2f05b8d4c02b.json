@@ -1,0 +1,31 @@
+{
+  "id": "program-web-3a5b787c2f05b8d4c02b",
+  "title": "上万种特色美食齐聚南京 引燃岁末年货采购热潮_中国江苏网",
+  "url": "https://jsnews.jschina.com.cn/hxms/202012/t20201221_2693930.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "2eb1afbcc8c5ba17277d80ad20efb411af6f0fdaf21c03749c2d243447693c46",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5279c54f0442e3c5a3d68c8db4ed9754e16f62dbcfe8bdeee0bfc24ac32b8f9f",
+    "textLength": 1564,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "盐水鸭",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "鸭血粉丝汤",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

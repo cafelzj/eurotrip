@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-420344d07c7026b5",
+  "title": "地理标志公告 · 2009年第89号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6535b57a923b3596fe267caf9ba8c4f22a5c52373852f6fd2137cdd4feab8217",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "6535b57a923b3596fe267caf9ba8c4f22a5c52373852f6fd2137cdd4feab8217",
+    "textSha256": "dc73f74f4233fabc57b3cabe4507431d460464f55dfdbb99717b6e898c413b92",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "南湖菱",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "嘉兴相关产区",
+      "type": "ingredients",
+      "sectionSha256": "e07ede1a621ea1fb2dc37d90a1509666e86fc9c59fcfdc8bc6cb9ad1bd3330c3",
+      "headingOffset": 1722,
+      "scope": "南湖菱地理标志产品保护范围为浙江省嘉兴市现辖行政区域内,东经120°31′至120°56′,北纬30°35′至30°58′之间的区域。",
+      "variety": "元宝菱",
+      "sensory": "(1)嫩菱:果实初步硬化,表皮翠绿,皮薄肉嫩,汁多甜脆,用指甲掐刻果皮可轻度陷入,放水中上浮。(2)老菱:果实已充分硬化,果皮呈黄绿色,果实与果柄出现环形裂纹,放入水中下沉",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "东海(老)淮猪肉",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "东海县",
+      "type": "ingredients",
+      "sectionSha256": "d909036c2fe4baf9e96d6401816891a0b68f4e00884884240ae6b5292616dcfe",
+      "headingOffset": 2839,
+      "scope": "东海(老)淮猪肉地理标志产品保护范围为江苏省东海县现辖行政区域。",
+      "variety": "淮猪(淮北猪)",
+      "sensory": "皮厚在0.4cm至0.6cm;肌肉色泽鲜红色或深红色,脂肪洁白,有光泽,大理石纹明显;煮沸烹饪后肉汤澄清透明,脂肪团聚于表面,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

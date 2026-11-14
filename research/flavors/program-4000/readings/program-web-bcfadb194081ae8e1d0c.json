@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bcfadb194081ae8e1d0c",
+  "title": "舌尖上的旅行 盘点全国31省区市特色美食（组图）〖7〗--旅游频道_权威全面报道旅游--人民网",
+  "url": "https://travel.people.com.cn/n/2014/0418/c41570-24915100-7.html",
+  "checked": "2026-11-14",
+  "responseSha256": "680b74bc3933a2cc50403b57968a516737b9176dfa765d73124dd6902031270e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8329dba6a9b5efbf0ecc6bf81c0dc969786e3959ed446a2162e33f4c970dd1bc",
+    "textLength": 2906,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "白肉血肠",
+      "province": "jilin",
+      "city": "长春",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ddcbb7b55f68e44ee308",
+  "title": "嵩县农产品有“家”了_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_11193707",
+  "checked": "2026-11-14",
+  "responseSha256": "e4407f76de394854c3a9a789656ddde4f7dc7e61246e399f8b4120ee30f30079",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c833b688570fc35b03915bbdda20a7b27b31fdfbbcd482862282cbdd3d9303e4",
+    "textLength": 1365,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "陆浑银鱼",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

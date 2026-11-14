@@ -1,0 +1,23 @@
+{
+  "id": "program-web-761e0aa3bc1dff3382b3",
+  "title": "到玄武，来一场新春“CityEat”_中国江苏网",
+  "url": "https://jsnews.jschina.com.cn/nj/a/202502/t20250202_s679f6313e4b04dff9907c50e.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "62e344e69d69f121ba490f233bc5a3196c85d2557534a72ad08ffbe5b021bfad",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "264ca5d40cae43fc56fcd21f4c042abe3819573cdab4cf9effd1f157b6451167",
+    "textLength": 2511,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "盐水鸭",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

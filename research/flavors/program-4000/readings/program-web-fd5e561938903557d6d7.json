@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fd5e561938903557d6d7",
+  "title": "济宁市“十四五”文化和旅游发展规划（征求意见稿）",
+  "url": "https://www.jining.gov.cn/attach/0/f5fe5350fbf0415a8c50889d96ec0ddf.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0ebc536dc736215b57e35ec99194934219e0d59297a90da13504ee77e8672e16",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3c6e3cc92e3e8c21fc2f2b835295cf368da15205174ad8ed9b008c4980ff524c",
+    "textLength": 90501,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "孔府宴",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

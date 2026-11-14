@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2606d0f3a00f531e7795",
+  "title": "“临沂十大好吃” 美食评选启动_山东各地 _山东新闻_新闻_齐鲁网",
+  "url": "https://news.iqilu.com/shandong/shandonggedi/20230209/5350238.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "d087c9d4a4e2d8487761e2afdac48afddd349d449ef7d93ee3efd7dc0ec134b7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "03125eb0837b8c945e42bd3e39f519726065cae653db3e91b2ea8acdd443ea31",
+    "textLength": 3440,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "郯城银杏",
+      "province": "shandong",
+      "city": "临沂",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

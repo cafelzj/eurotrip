@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-424fa34ad1efbcdb",
+  "title": "地理标志公告 · 2023年第557号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC557%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c92715692fbfc4c390995346a4be147eaa64db9d49b7f40a9780c45c680cde10",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC557%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c92715692fbfc4c390995346a4be147eaa64db9d49b7f40a9780c45c680cde10",
+    "textSha256": "0a76d00aa354826e57e0140611989849f8813147220f4ff99ad554cd77f2d9de",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "洪江雪峰乌骨鸡",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "鹤城区、中方县、辰溪县、溆浦县、会同县、麻阳苗族自治县、芷江侗族自治县、洪江市",
+      "type": "ingredients",
+      "sectionSha256": "6c70dbda6e02a971bd56ce16750d2f1406866a7962d7c4e7cb82d868cafe6d48",
+      "headingOffset": 326,
+      "scope": "湖南省怀化市鹤城区、中方县、芷江侗族自治县、洪江市、溆浦县、麻阳苗族自治县、辰溪县、会同县、洪江区共9个县、区、市现辖行政区域",
+      "variety": "雪峰乌骨鸡",
+      "sensory": "(1)活鸡。羽毛有黄麻、黑色及白色,呈片状。耳叶蓝色,胫细无毛,具有乌喙、乌脚、乌皮、乌肉、乌骨、乌冠、乌舌等“七乌”特征。—3—(2)白条鸡。肌肉丰满有弹性,胴体表面光泽呈乌色,肉质细嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "北镇葡萄",
+      "province": "liaoning",
+      "city": "锦州",
+      "locality": "北镇市",
+      "type": "ingredients",
+      "sectionSha256": "c4026c66bdfbca9d69e3df477e36e9c62cbf31a538cb995b67047b8e373de72f",
+      "headingOffset": 1441,
+      "scope": "辽宁省锦州市北镇市现辖行政区域",
+      "variety": "巨峰、辽峰",
+      "sensory": "果皮紫黑色,果粉薄,果粒着生紧密,果穗呈圆锥形或圆柱形,单粒重10~12g。果皮易剥离、多汁,风味酸甜,有淡草莓香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

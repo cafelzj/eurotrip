@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-5f3e1ba246d42f0f",
+  "title": "地理标志公告 · 2007年第134号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "fa1081061a55a85473d937490b933b637e3b5f8a174b60d09faccb6fa9366e81",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "fa1081061a55a85473d937490b933b637e3b5f8a174b60d09faccb6fa9366e81",
+    "textSha256": "5386e3f16431d6053cbe3e839f107c32cb65aaf993f0f109024c35da4e00a6a7",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "王店三园鸡",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "秀洲区",
+      "type": "ingredients",
+      "sectionSha256": "9291602625756ae59c90f8d7872996972060d32fb7ca410324fa9eca329a424c",
+      "headingOffset": 0,
+      "scope": "王店三园鸡地理标志产品保护范围以浙江省嘉兴市秀洲区人民政府《关于王店三园鸡地理标志产品保护范围界定的函》(秀洲政函〔2006〕2号)提出的范围为准,为浙江省嘉兴市秀洲区王店镇现辖行政区域",
+      "variety": "王店鸡",
+      "sensory": "船型。羽尾呈青紫色,耳叫“四方”鸡。单冠三齿,鸡高大,呈船型。耳垂、垂、肉垂、鸡冠大而鲜耳垂、肉垂都很小,颜色肉垂大而鲜红,平冠。红,单冠直立。鲜红。蛋白质含量≥21.60%;氨蛋白质含量≥21.65%;氨蛋白质含量≥22.4%;氨基",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

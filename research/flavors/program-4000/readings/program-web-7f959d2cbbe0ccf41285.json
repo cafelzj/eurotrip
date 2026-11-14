@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7f959d2cbbe0ccf41285",
+  "title": "泉州美食非遗名录_非遗传承_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://www.quanzhou.gov.cn/gastronomy/ch/msjy/fypx/202501/t20250109_3129019.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "0de677751ff67cdd0f5f3745a086f00a34f72b51bca3475e774e1cfca10a95d8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0643d96a176c149bed8ef97de347f5af2ac091ddff91b58b43647cfb103d344b",
+    "textLength": 684,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "桔红糕",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

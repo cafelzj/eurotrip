@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a680576f6788864adf2c",
+  "title": "厦门有哪些适合毕业生的特色美食？",
+  "url": "https://m.weibo.cn/2/detail/comos%3Aniwvftp9267496",
+  "checked": "2026-11-14",
+  "responseSha256": "6816131e2d85b29acf4f0acf1dbe6d24c88279a79a58ee44d47dcebcf946dd6f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9eeb0b57185f56905fd7ebb1f0a6d4da4fc7b768190f6e75ce91f48be4c30c29",
+    "textLength": 2054,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "烧肉粽",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "姜母鸭",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

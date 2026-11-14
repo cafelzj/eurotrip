@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-64e54bdcf3ac6102",
+  "title": "地理标志公告 · 2009年第104号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "1a599ac62cabc4a329d6bd384e2682b69c52251b429136936a4ba87da7e00ec4",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "1a599ac62cabc4a329d6bd384e2682b69c52251b429136936a4ba87da7e00ec4",
+    "textSha256": "62c55fed7e72657f0e85dd45e7e842baf2d64bf35b39f5fdf1e6b206a8fb3746",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "围场马铃薯",
+      "province": "hebei",
+      "city": "承德",
+      "locality": "围场满族蒙古族自治县",
+      "type": "ingredients",
+      "sectionSha256": "f4997363b63fd74593a1440d0b62de54afeef6525a6ab38993a36b5ea06714a9",
+      "headingOffset": 1654,
+      "scope": "围场马铃薯地理标志产品保护范围为河北省围场满族蒙古族自治县现辖行政区域。",
+      "variety": "克新一号、渭薯一号、夏坡蒂、大西洋、中薯9号、费乌瑞它",
+      "sensory": "表皮光滑、芽眼浅、薯块呈圆形或椭圆形",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "蕲春珍米",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "蕲春县",
+      "type": "ingredients",
+      "sectionSha256": "c409428cf2a9e89d77eb166d5253ef7de688753fae7134cba43acc7751d75628",
+      "headingOffset": 2397,
+      "scope": "蕲春珍米地理标志产品保护范围为湖北省蕲春县横车镇、赤东镇、管窑镇、彭思镇、漕河镇、蕲州镇、八里湖办事处、株林镇、刘河镇等9个乡镇街道办事处现辖行政区域。",
+      "variety": "晚籼类型地方品种民科粘",
+      "sensory": "米粒晶莹透亮,光泽度好;粒型瘦长;米饭味清香爽口,口感细腻,软而不粘,富有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "广济佛手山药",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "武穴市",
+      "type": "ingredients",
+      "sectionSha256": "0073a7b31dfb7944549f42966642fe14dc782cd993f4ddbfb55957a2719acdaf",
+      "headingOffset": 3214,
+      "scope": "广济佛手山药地理标志产品保护范围为湖北省武穴市梅川镇、余川镇等2个乡镇现辖行政区域。",
+      "variety": "毛藤薯蓣品系当地佛手山药农家品种",
+      "sensory": "外形呈手掌状;皮薄,表皮呈土黄色;断面肉质凝白,气味清香,水分充足,淀粉含量丰富;煮熟后,口感滑爽,咀嚼无木质纤维渣",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

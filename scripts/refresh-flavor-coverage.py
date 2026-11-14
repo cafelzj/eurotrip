@@ -34,7 +34,7 @@ def refresh():
         # Having local entries is not evidence that every research topic was searched.
         searched = any(e.get('status', '').startswith('search-only-') for e in place.get('searchEvidence', []))
         place['status'] = 'has-sourced-entries' if items else 'search-leads-pending-review' if searched else 'not-started'
-    queue.update(totalItems=len(data['items']), remainingItems=max(0, data['targetItems'] - len(data['items'])))
+    queue.update(targetItems=data['targetItems'], totalItems=len(data['items']), remainingItems=max(0, data['targetItems'] - len(data['items'])))
     if not any(t['topic'] == 'crafts' for t in queue['queryTemplates']):
         queue['queryTemplates'].append({'topic': 'crafts', 'queries': ['{city} {name} 地方物品 传统工艺 特产']})
     save('research/flavors/queue.json', queue)

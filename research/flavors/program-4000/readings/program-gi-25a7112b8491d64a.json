@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-25a7112b8491d64a",
+  "title": "地理标志公告 · 2018年第33号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2e34139cf98b90256f267a7a6cb57a583d421b0ab523a712b3154e3fafa19ecf",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2e34139cf98b90256f267a7a6cb57a583d421b0ab523a712b3154e3fafa19ecf",
+    "textSha256": "caae40bc724cbce051fdf3dea451c0e050046c152de4972fd9d750111eaa9200",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "燕潮酩酒",
+      "province": "hebei",
+      "city": "廊坊",
+      "locality": "三河市",
+      "type": "alcohol",
+      "sectionSha256": "738efaa08a32ba11dc1bcfb9b8af0c951158738a3951bba014f6866b27f8d190",
+      "headingOffset": 7219,
+      "scope": "燕潮酩酒产地范围为河北省三河市燕郊镇现辖行政区域。",
+      "variety": "",
+      "sensory": "项目感官要求色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀。窖香突出、具有较浓郁的己酸乙酯为主体的复合香气、有舒香气适陈香。口味绵甜爽净、入口生香、落喉顺畅、余味悠长。风格具有陈香淡雅的独特风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "公主屯鸡蛋",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "新民市",
+      "type": "ingredients",
+      "sectionSha256": "901e55058f9ee8df38771d80d040fe1a424843b68f561d9eb9af15c033aa9f04",
+      "headingOffset": 8699,
+      "scope": "公主屯鸡蛋产地范围为辽宁省新民市公主屯地区,具体包括公主屯镇、东蛇山子镇、陶家屯镇、三道岗子镇、高台子镇、大柳屯镇、新农村乡、于家窝堡乡现辖行政区域。",
+      "variety": "",
+      "sensory": "蛋壳较厚坚固;浓蛋白、稀蛋白分界清晰。蛋黄有弹性,呈橘黄色至橙红色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "肇州大瓜子",
+      "province": "heilongjiang",
+      "city": "大庆",
+      "locality": "肇州县",
+      "type": "ingredients",
+      "sectionSha256": "57bfff499d87103c1a7e13e0ee1bc9cdd605959217e87ada3b5fb830285e5fbe",
+      "headingOffset": 9269,
+      "scope": "肇州大瓜子产地范围为黑龙江省大庆市肇州县辖区内的肇州镇、兴城镇、丰乐镇、永乐镇、二井子镇、朝阳沟镇、榆树乡、新福乡、永胜乡、双发乡、托古乡、朝阳乡现辖行政区域。",
+      "variety": "",
+      "sensory": "感观特色应符合表1要求。表1生瓜子感官特色项目要求色泽果皮呈乌黑色,无霉变气味本地葵花籽香味,无其他异味果实果实饱满,出仁率达到50%以上粒形长锥形,个大均匀,平均可达2.5至3厘米(2)",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "呼中偃松籽",
+      "province": "heilongjiang",
+      "city": "大兴安岭",
+      "locality": "大兴安岭相关产区",
+      "type": "ingredients",
+      "sectionSha256": "48b532203c033044cce00fe9f10f396757a388fed6b7e33c494bed07d33b14e0",
+      "headingOffset": 16023,
+      "scope": "呼中偃松籽产地范围为黑龙江省大兴安岭地区呼中区现辖行政区域,呼中区全境及呼中区国家级自然保护区。",
+      "variety": "",
+      "sensory": "表1感观指标项目指标形状三角状倒卵圆形,微扁,无翅气味淡淡的松香味、无酸败色泽暗褐色,种皮光泽完整,表面洁净均匀性长7-10mm,径5-7mm,均匀整齐",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3270e322644fdc053f0c",
+  "title": "辽宁省农产品区域公用品牌名单",
+  "url": "https://nync.ln.gov.cn/nync/index/rdzt/lnyppwlx/ppml/2026020611263275151/index.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "8184839d443cf67449c2637514fbec8babe7514d74d509e6cc62a20a8684f800",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6309af9369b30ad86259b12370b82be68ef3294a0b838fed2f0138e244cbfab4",
+    "textLength": 1798,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南果梨",
+      "province": "liaoning",
+      "city": "鞍山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

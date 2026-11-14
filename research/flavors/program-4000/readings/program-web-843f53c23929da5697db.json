@@ -1,0 +1,23 @@
+{
+  "id": "program-web-843f53c23929da5697db",
+  "title": "莆田风味概述 _ 闽菜飘香 _ 福建省商务厅",
+  "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202007/t20200707_5317859.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "37fd52bbecf920a55a2ce2a572cb61ef11fd95d05604c700dff2268525450993",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "043eae587ea18efbe09501f6d5477b1b71546fb0bd79bf8d667047ff30f1882c",
+    "textLength": 2615,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "荔枝肉",
+      "province": "fujian",
+      "city": "莆田",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

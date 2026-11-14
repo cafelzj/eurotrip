@@ -1,0 +1,39 @@
+{
+  "id": "program-web-8bbbca3d6740ec0a19c8",
+  "title": "邯郸有什么好吃的？本地特色美食与在哪吃 - 我爱邯郸",
+  "url": "https://woaihandan.com/guide/food/",
+  "checked": "2026-11-14",
+  "responseSha256": "4e57683f6edc0de86907c8261f49c064adba01874821aa9d235481210b0a6428",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c0bc16c85982f3eb45731ed6e15ca6ba4a5dafe981537c2fd175931b2f83021b",
+    "textLength": 1161,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永年驴肉香肠",
+      "province": "hebei",
+      "city": "邯郸",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "广府酥鱼",
+      "province": "hebei",
+      "city": "邯郸",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "郭八火烧",
+      "province": "hebei",
+      "city": "邯郸",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

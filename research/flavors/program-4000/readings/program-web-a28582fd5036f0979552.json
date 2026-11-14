@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a28582fd5036f0979552",
+  "title": "郴州推出特色菜品110个、优质特色农产品175个 “一桌郴州饭” 吃得香喷喷 - 市州精选 - 湖南在线 - 华声在线",
+  "url": "https://hunan.voc.com.cn/news/202309/22624167.html",
+  "checked": "2026-11-14",
+  "responseSha256": "75e9a2778318d329922f0fa2054311ce7a95ac871a313da66809a0e4d059e6ae",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f650a247a00e67b9586cde6fea200c342a7a6d73edb9eca2ee1790797a966e8e",
+    "textLength": 1494,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "桂阳坛子肉",
+      "province": "hunan",
+      "city": "郴州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

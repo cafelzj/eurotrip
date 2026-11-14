@@ -1,0 +1,23 @@
+{
+  "id": "program-web-cf5255c4bf75cfc31540",
+  "title": "郑州市中原区，美食攻略 - 鹿线图",
+  "url": "https://www.aiyoutravel.com/article/detail/1879840575247753216",
+  "checked": "2026-11-14",
+  "responseSha256": "862498220b60ba82009beaa5c427ec38087aa6b193c9d04cd31c8643a8bedd17",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d4e79d7673eac26fb08e755143bdd932e32d3e22fc2331403ed02cc22746f181",
+    "textLength": 1617,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "合记烩面",
+      "province": "henan",
+      "city": "郑州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-0a144c1a280c8bdb",
+  "title": "地理标志公告 · 2011年第94号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "4188fc0af812aadd7341b70a567bf797ef57b53020b03d8d1e422ed1d3c9a74a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "4188fc0af812aadd7341b70a567bf797ef57b53020b03d8d1e422ed1d3c9a74a",
+    "textSha256": "21120b55bc3f653663761b511d210c22e2f28cba2b567a6d4310b1f1a0a27f51",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "和顺肉牛",
+      "province": "shanxi",
+      "city": "晋中",
+      "locality": "和顺县",
+      "type": "ingredients",
+      "sectionSha256": "522bf498b17fe7f8c32e9eee68c9421e0d176ff7d1386474cd9a3497476a44a0",
+      "headingOffset": 1545,
+      "scope": "和顺肉牛产地范围为山西省和顺县现辖行政区域。",
+      "variety": "中国西门塔尔牛",
+      "sensory": "体躯深宽高大,结构匀称,体质结实,肌肉发达,后躯丰满,被毛光亮,毛色为红(黄)白花",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "平度牛肉",
+      "province": "shandong",
+      "city": "青岛",
+      "locality": "平度市",
+      "type": "ingredients",
+      "sectionSha256": "5061c4c85369ecd549f0a9bd7df7305560a967af0c56abfdb3660cbd7985391d",
+      "headingOffset": 2004,
+      "scope": "平度牛肉产地范围为山东省平度市云山镇、麻兰镇、张戈庄镇、郭庄镇、南村镇、兰底镇、万家镇、蓼兰镇、崔家集镇、白埠镇、明村镇、门村镇、田庄镇、张舍镇和店子镇等15个乡镇现辖行政区域。",
+      "variety": "鲁西黄牛及其杂交后代",
+      "sensory": "(1)上脑:色泽深红,沉积脂肪明显,横切面呈现较明显的大理石花纹,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,口感瘦而不柴。(2)肉眼:色泽鲜红,有光泽,外油层较厚,横切面呈眼状,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤澄清,脂肪团聚于表面,有香味,口感肥而不腻。(3)西冷:色泽淡红,大理石花纹分布均匀,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,脂肪团聚于表面,有香味,口感弹性足。(4)牛柳:色泽鲜红,有光泽,脂肪呈雪花样沉积,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,口感细嫩。(5)S腹肉:色泽红润,脂肪分层沉积,指压后凹陷立即恢复,表面湿润不粘手,煮沸后肉汤透明,口感细滑",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武夷红茶",
+      "province": "fujian",
+      "city": "南平",
+      "locality": "武夷山市",
+      "type": "tea",
+      "sectionSha256": "5a51bed449d10b8c19ef5cbef493b1596688fdf4148d50b4faaaca4e02f365a7",
+      "headingOffset": 3297,
+      "scope": "武夷红茶产地范围为福建省武夷山市及福建武夷山国家级自然保护区现辖行政区域。",
+      "variety": "武夷菜茶及其培育出的系列品种",
+      "sensory": "(1)小种红茶:色泽乌润,条索较紧实,尚肥壮。闻干茶具有桂圆汤香味。沏开后茶汤橙红明亮,清澈,滋味醇厚,甘滑爽口,具有特有的高山韵和桂圆汤味。(2)烟小种:色泽乌润,条索较紧,闻干茶具有松烟香,沏开后茶汤呈红色,滋味较醇和,具有松烟味。(3)奇红:色泽金、黄、褐、黑相间,条索禁秀,略显卷曲,闻干茶具有浓郁的果香、花香、蜜香。沏开后汤色金黄,清澈透亮,滋味醇厚,甘滑爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

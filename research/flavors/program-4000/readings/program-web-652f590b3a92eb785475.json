@@ -1,0 +1,23 @@
+{
+  "id": "program-web-652f590b3a92eb785475",
+  "title": "新闻发布｜买原汁原味的“鹤城优品”， 网购渠道来了！_新浪财经_新浪网",
+  "url": "https://finance.sina.com.cn/jjxw/2025-06-10/doc-inezraiy3299897.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "583bab05485fc76772ac7db2e91e8953de1c70c78fe8fc3796c4a27d13cbb2ba",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e443b003c02e0d32137aebe7dd297e1a9b200dd1be1a4a36f589d05e898cbd4f",
+    "textLength": 3169,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "飞鹤奶粉",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

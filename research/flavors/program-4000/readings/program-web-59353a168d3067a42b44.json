@@ -1,0 +1,23 @@
+{
+  "id": "program-web-59353a168d3067a42b44",
+  "title": "娄底：特色农产品深加工 延长产业链 提升价值回报 - 湖南省工业和信息化厅",
+  "url": "https://gxt.hunan.gov.cn/gxt/ztzl/gxyxc/gxyxchx/202501/t20250125_33575484.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7caceaa9162ffa97b089e5ea8704ca19fa5e3b2f363e5e166c775677e128f274",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0d924e5c7b478d24c595d73198066163c6f752c9e0d5efd0fd98742761a4513a",
+    "textLength": 1549,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "白溪豆腐",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

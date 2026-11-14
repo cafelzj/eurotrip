@@ -1,0 +1,23 @@
+{
+  "id": "program-web-04c4a5b9c3560d175ef2",
+  "title": "十大有名的许昌特色美食小吃 到河南许昌必吃10大小吃→买购APP",
+  "url": "https://m.maigoo.com/top/436208.html",
+  "checked": "2026-11-14",
+  "responseSha256": "1dc6375640ae82454ca0fb6193b0c56152145660fbe7a1945d6ce3ce436ef362",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "08e09a3e4e18af3aa35f13866d56dbaafc59c64a2c30d9407d37f961a3cae62f",
+    "textLength": 3950,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "顺店杂炣",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

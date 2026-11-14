@@ -1,0 +1,31 @@
+{
+  "id": "program-web-d43cdd23d59746d2c516",
+  "title": "山西介休市有哪些特产 - 农南网",
+  "url": "https://www.nongnan.com/a/35.html",
+  "checked": "2026-11-14",
+  "responseSha256": "dca85dd1cb3cd4d43cd1470470f9a27216f1af0a7945e6f538894bb518afe201",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e3bf517cd366be86ca87a1efc544c35a2bd264b35ffc5fc82bdf13dd615f17f8",
+    "textLength": 858,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "介休担担面",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "贯馅糖",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

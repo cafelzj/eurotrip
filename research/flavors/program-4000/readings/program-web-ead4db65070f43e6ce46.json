@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ead4db65070f43e6ce46",
+  "title": "毛氏菜系：从韶山飘向世界的年味 - 湘潭 - 新湖南",
+  "url": "https://www.hunantoday.cn/news/xhn/202501/27356912.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7de780615b5c630b09b7a168b220df7e1812b17543f91e20563c0380a96f1dbb",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "67b1781bbfeb093f61f94ade479722ec13674ee5d298e7f6d09902907c879558",
+    "textLength": 2741,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "火焙鱼",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

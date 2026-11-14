@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-1baf2a41164ad200",
+  "title": "地理标志公告 · 2007年第110号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC110%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "fd007948784059ee893f966e1b18ed6a82b25fe7126643f81a487275651cdfb2",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC110%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "fd007948784059ee893f966e1b18ed6a82b25fe7126643f81a487275651cdfb2",
+    "textSha256": "46f6a0311347fcbb56f35e5b6cd887e84e633deb969beba5ece869aea65ce6ec",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "威海海带",
+      "province": "shandong",
+      "city": "威海",
+      "locality": "威海相关产区",
+      "type": "ingredients",
+      "sectionSha256": "9ecd1065d2a468d70806b276ba950d0879755091eee51a857d0e4f3716b37943",
+      "headingOffset": 0,
+      "scope": "威海海带地理标志产品保护范围以山东省威海市人民政府《关于申请威海海带地理标志产品保护范围的函》(威政字[2005]81号)提出的范围为准,为山东省威海沿海的王家湾(中心位置北纬36°51.5′,东经122°22.5′)、石岛湾(北纬36°54.5′,东经122°25′)、桑沟湾(北纬37°6′,东经122°30′)、俚岛湾(北纬37°15.5′,东经122°34′)、荣成湾(北纬37°21′,东经122°36′)、港西-泊于-崮山(北纬37°27′,东经122°33′至北纬37°27′,东经122°18′)、威海湾(北纬37°28′,东经122°10.5′)、刘公岛(北纬37°30.4′,东经122°11′)、孙家疃-张村-初村(北纬37°34.5′,东经122°5.5′至北纬37°30′,东经121°55.5′)等海域",
+      "variety": "单海1号、单杂10号、远杂10号、荣海一号、荣福、901、日本真海带",
+      "sensory": "叶体长起,够50cm无黄白边的折够70cm无黄白边的折断海带)断海带)叶体最大宽13cm以上10cm以上度允许叶体一侧或两侧长度黄白边无和不超过10cm黄白梢无无水份,%≤18≤20泥沙杂质,%≤2≤3蛋白质(以干基计),%≥7碘(以干基计),mg/100g≥300钙(以干基计),mg/100g≥150铁(以干基计),mg/100g≥7锌(以干基计),mg/100g≥22.盐渍海带:感官和",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

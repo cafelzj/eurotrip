@@ -1,0 +1,121 @@
+{
+  "id": "program-gi-0248d8859368599b",
+  "title": "地理标志公告 · 2017年第108号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "684cb2c4011c9c8c85ae3c874fde345ef671ac596fc298413d8c283e27725080",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "684cb2c4011c9c8c85ae3c874fde345ef671ac596fc298413d8c283e27725080",
+    "textSha256": "2d9e3646a2fa268bf90e4f254116744213e433edf775a8ae03af98e3ec066d45",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "新乐花生",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "type": "ingredients",
+      "sectionSha256": "a2efef1d4717c16f9f616ca454634d52b3b5c85fb5ab45c8ffb46d58bed178c5",
+      "headingOffset": 9303,
+      "scope": "新乐花生产地范围为河北省新乐市木村乡、正莫镇、大岳镇、东王镇、承安镇、杜固镇、邯邰镇现辖行政区域。",
+      "variety": "",
+      "sensory": "带壳果实大而圆润、果尖呈鸡嘴型;果壳表面麻眼明显而且光滑,呈白色、无黑点现象。果仁呈粉红色或浅粉色。果肉为象牙色。生食入口软糯,香而不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "柏各庄大米",
+      "province": "hebei",
+      "city": "唐山",
+      "locality": "曹妃甸区",
+      "type": "ingredients",
+      "sectionSha256": "803a261a5ea10896f9aa0a430207553d8e600321fe2f0c85ce4b823b3f6458c4",
+      "headingOffset": 10493,
+      "scope": "柏各庄大米产地范围为河北省唐山市曹妃甸区现辖行政区域。",
+      "variety": "",
+      "sensory": "米粒整齐匀称、色泽洁白鲜亮;米饭结构紧密,洁白有光泽,软硬适中,味道纯正,为稻米自然香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "辽砚",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "南芬区、本溪满族自治县",
+      "type": "crafts",
+      "sectionSha256": "c5769b0036ee344b5014d3f6e87674470b4d0dbf768b9068a177d9943230c1d3",
+      "headingOffset": 12356,
+      "scope": "辽砚产地范围为辽宁省本溪市南芬区思山岭街道办事处、南芬街道办事处、铁山街道办事处、郭家街道办事处、下马塘街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "砚体应细腻、光滑,无明显沙划痕、刀痕、裂痕、断暇、风化,造型美观大方,布局合理适用,图饰优美,石纹俏色对比明显,具有地方特色;声音清脆,“叩之如铜”;砚池手感平滑;砚池与砚盖吻合,不变形。2.检验指标:检验项目标准范围砚石硬度(肖氏)≥30HSD3砚石发墨量>5mm/min砚石吸水率<0.15%砚石放射性应符合GB6566中第3.2条中A类要求3.尺寸:(1)规格辽砚:根据石材,长、宽、高比例适中,符合审美要求。以宫庭砚砚体为例,长:155mm,公差为±5mm;宽:110mm,公差为±2.5mm;高:15mm,公差为±1.5mm。(2)随形辽砚:尺寸与公差不作要求,但最大长度不超过30cm。(3)砚盒,底、盖吻合,砚盒印附的文字和图案、标识应清晰。4.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "如东泥螺",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如东县",
+      "type": "ingredients",
+      "sectionSha256": "fbfacc95f06519690914ddcc28a558102bd189bee81508fed8b1007b592c2c37",
+      "headingOffset": 14767,
+      "scope": "如东泥螺产地范围为江苏省南通市如东县现辖行政区域。",
+      "variety": "",
+      "sensory": "鲜活泥螺:外壳完整,呈固有色泽,具有如东泥螺固有的滋味及气味,无异味,在室温下,肌肉组织紧密有弹性,受惊时,闭合,活力正常。咸泥螺:具有咸如东泥螺固有色泽,汤汁清,允许有轻微浑浊,具有咸如东泥螺特有的清香滋味,无异味,形态完整,肉质较脆弹性较好。醉泥螺:具有醉如东泥螺固有色泽,汤汁清,允许有轻微浑浊,具有醉如东泥螺固有滋味及气味,肉质鲜、嫩、香、脆,咸甜适中,无异味,具有醉如东泥螺固有的完整形态",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "如皋黄酒",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如皋市",
+      "type": "alcohol",
+      "sectionSha256": "f51d311d7197421f6be4d138cb812cfe8113288b99474fe24925d4d19263a1f8",
+      "headingOffset": 15982,
+      "scope": "如皋黄酒产地范围为江苏省如皋市现辖行政区域。",
+      "variety": "",
+      "sensory": "色如玛瑙,清亮透明,鲜甜爽口,香气浓郁,回味悠长,风格独特",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "东安鸡",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "东安县",
+      "type": "ingredients",
+      "sectionSha256": "973cc11d51fcebb9af816a6df5303298f9d1e2f9c70ac7c83974f354f6629291",
+      "headingOffset": 20096,
+      "scope": "东安鸡产地范围为湖南省永州市东安县芦洪市镇、鹿马桥镇、端桥铺镇、新圩江镇、川岩乡、花桥镇、井头圩镇、大江口乡、紫溪市镇、白牙市镇、大庙口镇、石期市镇、大盛镇、南桥镇、横塘镇、水岭乡、黄泥洞林场现辖行政区域。",
+      "variety": "",
+      "sensory": "东安鸡(冷鲜):脚较细,呈青色或浅灰色,脚底青白,表皮浅黄,光亮细滑,肌肉丰满有弹性,肌间脂肪分布均匀;表皮和肌肉切面有光泽,具有鸡肉正常气味,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "南县小龙虾",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "南县",
+      "type": "ingredients",
+      "sectionSha256": "824cc6f97a369fa24a0b865ead42f43430a21a67a4654d64fc6af84992607b2c",
+      "headingOffset": 20993,
+      "scope": "南县小龙虾产地范围为湖南省益阳市南县行政区域内的三仙湖镇、中鱼口乡、青树嘴镇、南洲镇、麻河口镇、华阁镇、明山头镇、茅草街镇、厂窖镇、武圣宫镇、乌嘴乡、浪拔湖镇现辖行政区域。",
+      "variety": "",
+      "sensory": "活体个大体长,雄性背长、螯小。熟制后鲜红光亮,红色度、明度(亮度)高,腹部圆润光泽、污染物沉积少。口感肉质细嫩,味道鲜美,气味醇香,烹调后壳色鲜红,肉色白嫩,味感丰富",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "古丈红茶",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "古丈县",
+      "type": "tea",
+      "sectionSha256": "d075c1385c5fc7cc726c390a0e3d1d55f98aaf95ac6b50e4a365048929c10a19",
+      "headingOffset": 22097,
+      "scope": "古丈红茶产地范围为湖南省湘西土家族苗族自治州古丈县古阳镇、高峰镇、默戎镇、断龙山镇、红石林镇、坪坝镇、岩头寨镇现辖行政区域。",
+      "variety": "",
+      "sensory": "条索紧结、乌润显金毫、汤色红艳明亮、甜香持久、鲜醇甘甜、叶底匀整带芽尖",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

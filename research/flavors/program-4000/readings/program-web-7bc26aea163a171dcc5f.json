@@ -1,0 +1,39 @@
+{
+  "id": "program-web-7bc26aea163a171dcc5f",
+  "title": "Hans Journal of Food and Nutrition Science 食品与营养科学, 2022, 11(2), 194-200",
+  "url": "https://pdf.hanspub.org/hjfns20220200000_42360737.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "1d1619cdc6ae294bc105651f5b0a6517be31edfdf9901c822cd0c3e088169cfb",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9ef8f6f25aecbf5b9584e6afc24eb1fdc31350458fbc439d1a786b8fab8aac1e",
+    "textLength": 13999,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "佛跳墙",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "锅边糊",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "沙县拌面",
+      "province": "fujian",
+      "city": "三明",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

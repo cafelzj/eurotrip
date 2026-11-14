@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-a68d87e4b8cff24e",
+  "title": "地理标志公告 · 2012年第209号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC209%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "ab333f5500816ac84455de22b969ab20077e95de9f638f23206c3ae3c954b555",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC209%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "ab333f5500816ac84455de22b969ab20077e95de9f638f23206c3ae3c954b555",
+    "textSha256": "66d8907bf79ff769c34a291da94cbf302808a632b45e0044b209d60bb6aac3a2",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "恩施黄牛肉",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "恩施市、利川市、建始县、巴东县、宣恩县、咸丰县、来凤县、鹤峰县",
+      "type": "ingredients",
+      "sectionSha256": "5dc42d41b9008dc1d1c82b5ed9069ae60367a83947edc08f949c7f1acfe9ed7e",
+      "headingOffset": 1854,
+      "scope": "恩施黄牛肉产地范围为湖北省恩施土家族苗族自治州恩施市、利川市、建始县、巴东县、宣恩县、咸丰县、来凤县、鹤峰县8个县市现辖行政区域。",
+      "variety": "",
+      "sensory": "肌肉有光泽,呈玫瑰红色,大理石花纹明显;脂肪呈乳白色;外表微干或有风干膜,不粘手;指压后的凹陷立即恢复;香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "恩施黑猪肉",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "恩施市、利川市、建始县、巴东县、宣恩县、咸丰县、来凤县、鹤峰县",
+      "type": "ingredients",
+      "sectionSha256": "46980f3e7a245881246baf64c30e643f3d16ff0f6931d1c610ebcc6ed2cbd2df",
+      "headingOffset": 2677,
+      "scope": "恩施黑猪肉产地范围为湖北省恩施土家族苗族自治州恩施市、利川市、建始县、巴东县、宣恩县、咸丰县、来凤县、鹤峰县8个县市现辖行政区域。",
+      "variety": "",
+      "sensory": "肌肉有光泽,呈樱桃红色,大理石花纹明显;脂肪呈乳白色;外表微干或有风干膜,不粘手;指压后的凹陷立即恢复;香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "谢河辣椒",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "团风县",
+      "type": "ingredients",
+      "sectionSha256": "9ecd16a469f06e84f0909d5f81005bfcdce27c219a2d63cb12a918a3a35a077f",
+      "headingOffset": 3537,
+      "scope": "谢河辣椒产地范围为湖北省团风县现辖行政区域。",
+      "variety": "",
+      "sensory": "鲜果单重25g至35g,呈长圆锥形,果色鲜红,果面光滑、硬实。皮薄肉厚籽少,肉质脆嫩。辣中带甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大悟花生",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "大悟县",
+      "type": "ingredients",
+      "sectionSha256": "7100daace28756cf918598eed9736ea9a69a462df41fa820f6e21bcd8252d005",
+      "headingOffset": 4209,
+      "scope": "大悟花生产地范围为湖北省大悟县城关镇、阳平镇、芳畈镇、新城镇、刘集镇、夏店镇、河口镇、吕王镇、黄站镇、宣化店镇、丰店镇、高店乡、大新镇、三里城镇、东新乡、彭店乡、四姑镇17个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "果壳薄,网纹清晰;籽实饱满,果仁粒小,大小均匀,口感具有香、酥、脆、甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大悟绿茶",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "大悟县",
+      "type": "tea",
+      "sectionSha256": "d978bcb345fa8707661957a68f1f08f15caa001889ca5de68b8ca4549ad05a92",
+      "headingOffset": 5337,
+      "scope": "大悟绿茶产地范围为湖北省大悟县城关镇、阳平镇、芳畈镇、新城镇、刘集镇、夏店镇、河口镇、吕王镇、黄站镇、宣化店镇、丰店镇、高店乡、大新镇、三里城镇、东新乡、彭店乡、四姑镇17个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)特级:扁形茶扁平光润,挺直尖削;毛尖茶条索紧细微曲;寿眉茶,略扁直显锋苗。香气嫩香持久,滋味鲜嫩爽口,汤色嫩绿明亮,叶底软亮、匀整。(2)一级:扁形茶扁平光润,挺直;毛尖茶条索紧细,光直;寿眉茶,紧结。香气清香持久,滋味鲜醇爽口,汤色嫩绿尚亮,叶底明亮、匀整。(3)二级:扁形茶扁平挺直尚润;毛尖茶条索紧,稍曲;寿眉茶尚紧实。香气清香,滋味鲜醇尚爽,汤色绿亮,叶底尚明亮、尚匀整",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a9bd1da3d623bdfb4d1c",
+  "title": "浙江省绍兴市市场监督管理局食品安全监督抽检信息公告（2024年第8期）-中国质量新闻网",
+  "url": "https://www.cqn.com.cn/ms/content/2024-09/09/content_9066465.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "23348a8dd6cb20e45ecf5e81c08c56333c75064d14100ff197398e1ebb57755f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "be864a3558a711a7123e56543686575807e1291ec98affef500e2c5ae2a9abc5",
+    "textLength": 15560,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "花雕酒",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "香雪酒",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

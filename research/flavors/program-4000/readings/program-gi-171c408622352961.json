@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-171c408622352961",
+  "title": "地理标志公告 · 2006年第140号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0e2fef39766b461abfbdbe031ef1682cb7502c4bf841c68bbaa3210f2bd23615",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0e2fef39766b461abfbdbe031ef1682cb7502c4bf841c68bbaa3210f2bd23615",
+    "textSha256": "936780e246e792f309525423e7bcefacdc91f451422837df60a9ae570c19f655",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "桓仁大米",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "type": "ingredients",
+      "sectionSha256": "df33bc5bfd424388340cecd72464f3f998be566177b009eac6b30a32871462f0",
+      "headingOffset": 0,
+      "scope": "桓仁大米地理标志产品保护范围以辽宁省桓仁满族自治县人民政府《关于界定桓仁大米地理标志产品保护范围的请示》(桓政[2006]47号)提出的范围为准,为辽宁省桓仁满族自治县现辖行政区域",
+      "variety": "采用京租、越光、稻花香、丰优307等适生优质粳稻品种",
+      "sensory": "清白、有光泽、米粒半透明,米味清香,蒸煮时散发浓郁的饭香味,口感绵软略粘香甜,适口性强,凉后不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

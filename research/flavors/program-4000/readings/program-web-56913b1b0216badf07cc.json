@@ -1,0 +1,31 @@
+{
+  "id": "program-web-56913b1b0216badf07cc",
+  "title": "2025秦皇岛美食必吃榜正式揭晓，这些美味别错过！_海港区_山海_抚宁",
+  "url": "https://www.sohu.com/a/924051441_121106842",
+  "checked": "2026-11-14",
+  "responseSha256": "e9d96eb41a52149afca2a813a351b4ca5b6087a871d920e0e9e88fb0ce51b15d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0d5ad82cb1ac28e1fa590d83a8d1e41a18640f61c99e99d2723258d95c827039",
+    "textLength": 3366,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "山海关浑锅",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "四条包子",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

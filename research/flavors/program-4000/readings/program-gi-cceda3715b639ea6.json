@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-cceda3715b639ea6",
+  "title": "地理标志公告 · 2006年第22号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC22%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "70ea58eb73f294c1ccc0855599f954f5c0eb0042c51b6f46a03af9b0e94770e8",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC22%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "70ea58eb73f294c1ccc0855599f954f5c0eb0042c51b6f46a03af9b0e94770e8",
+    "textSha256": "50f7f8cd4afe6bd9504be06803a2794729a9f210657e52b1153856a13c2162a3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "无棣金丝小枣",
+      "province": "shandong",
+      "city": "滨州",
+      "locality": "沾化区、无棣县",
+      "type": "ingredients",
+      "sectionSha256": "6cf048511cf2420637eb892ddbd559141f9aa626e72af6722dc5a7e2485473c7",
+      "headingOffset": 0,
+      "scope": "无棣金丝小枣地理标志产品保护范围以山东省滨州市人民政府《关于界定无棣金丝小枣地理标志产品保护范围的函》及《有关问题补充说明的函》(滨政字[2004]72号、滨政字[2004]85号)提出的范围为准,为山东省无棣县现辖行政区和沾化县的古城镇、大高镇、冯家镇、黄升乡、富国镇、泊头镇等6个乡镇现辖行政区域",
+      "variety": "",
+      "sensory": "无棣金丝小枣干果呈深红色。果形正,以椭圆形和长筒型为主。干枣单果重不小于3克,可食率不低于90%。果皮薄而坚韧,果形饱满,肉质肥厚,富弹性。掰开半干枣可见金丝",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

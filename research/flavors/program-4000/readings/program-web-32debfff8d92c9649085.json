@@ -1,0 +1,23 @@
+{
+  "id": "program-web-32debfff8d92c9649085",
+  "title": "朔州十大必吃小吃排行 山西朔州10大特色名吃推荐→买购APP",
+  "url": "https://www.maigoo.com/top/426560.html",
+  "checked": "2026-11-14",
+  "responseSha256": "3d30d73e541ca8c586aad6d07fcc9832de6ea60b55a60fc18cac45becb4fcd99",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e118c614218f66d9795a1b58000810d8c7104fbe46073a3d1a69d834f14ce0d",
+    "textLength": 6373,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "应县凉粉",
+      "province": "shanxi",
+      "city": "朔州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

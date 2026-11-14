@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8a319f53cee65ba36f1a",
+  "title": "十大浙江衢州特色美食小吃 最受欢迎的10大衢州名吃→买购APP",
+  "url": "https://m.maigoo.com/top/436204.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4185d564a89facd226aea9b24f3497fac817fc14ba8f0b991abd6618fde583ac",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e26793c498d35ecf0e5e78b72ab08d982bdb306102f64f7d3806f7512323e912",
+    "textLength": 6961,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "三头一掌",
+      "province": "zhejiang",
+      "city": "衢州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

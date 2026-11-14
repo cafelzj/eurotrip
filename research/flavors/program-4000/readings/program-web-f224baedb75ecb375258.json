@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f224baedb75ecb375258",
+  "title": "《4种椒江美食，不仅只勾引当地人的胃》（散文，作者郭荷群，浙江）",
+  "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2432/site/attach/0/5f22a727cf9f4d92bb7f69dd73e0ba13.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6f2cfe989cd2beba2e39a85c3d4491e485b25331fef5f56711c2212a50d8bf83",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fd40bae85f6cdbdaa21e7e69d76f0dbefef23e0822b243169839708f25e1fd63",
+    "textLength": 36901,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "姜汤面",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

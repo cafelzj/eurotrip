@@ -1,0 +1,23 @@
+{
+  "id": "program-web-281be72c6e8d6c973148",
+  "title": "青岛美食攻略_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl261.html",
+  "checked": "2026-11-14",
+  "responseSha256": "245def982a8da915aba0c4689a70822563dbdeb95193a48644c64c4cd026a36e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "dafc98bdb193c4e690ce7adf7215550900a5a6a5a62c69adc8c62a19d72c35d6",
+    "textLength": 2184,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "葱烧海参",
+      "province": "shandong",
+      "city": "青岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

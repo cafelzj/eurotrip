@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3cd054e11ea38cde41e7",
+  "title": "迁西县（中国河北省唐山市下辖县）_百科资料_新农商网",
+  "url": "https://www.xncsb.cn/baike/283818.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "e8d2b501fe7570a3f0e08bd0e44edc289ef1ab551ccfdf96bfa3209e449e2d3d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e72da7979e66d6c647875f784d81e2bd41ed19387c4be7d170f246fa37f0e0e6",
+    "textLength": 19207,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "迁西板栗",
+      "province": "hebei",
+      "city": "唐山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

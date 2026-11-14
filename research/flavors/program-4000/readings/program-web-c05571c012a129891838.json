@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c05571c012a129891838",
+  "title": "盘点河南平顶山特色美食 路过了就尝尝吧_中部纵览_中国网",
+  "url": "https://henan.china.com.cn/m/2020-05/15/content_41153932.html",
+  "checked": "2026-11-14",
+  "responseSha256": "30013a46605c37241e73c61111963ca5ad68c3d344cc904d1bacc8c403ca1cc1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "08f552bd167b624a49b7187535a177cdaabf5628a516aded4a4a99156d3f78b5",
+    "textLength": 1562,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "汝州粉皮",
+      "province": "henan",
+      "city": "平顶山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

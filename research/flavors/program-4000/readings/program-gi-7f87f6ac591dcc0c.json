@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-7f87f6ac591dcc0c",
+  "title": "地理标志公告 · 2007年第118号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC118%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "859d16af86b2fb4eddda99ab93fedf10d191ca5e20c61de3629d16840554f066",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC118%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "859d16af86b2fb4eddda99ab93fedf10d191ca5e20c61de3629d16840554f066",
+    "textSha256": "2b0975c6e012bbdd0f7189bda331eac9b1e54204893173c5d2e8add3bb9e69ca",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "广灵小米",
+      "province": "shanxi",
+      "city": "大同",
+      "locality": "广灵县",
+      "type": "ingredients",
+      "sectionSha256": "24e0d12886e38497c98a8ce57f2f9a7b0e4fa18556064bef7a7c4ed8372a54ff",
+      "headingOffset": 0,
+      "scope": "广灵小米地理标志产品保护范围以山西省广灵县人民政府《关于界定“广灵小米”地理标志产品保护范围的请示》(广政请字〔2006〕48号)提出的范围为准,为山西省广灵县壶泉镇、南村镇、宜兴乡、作疃乡、斗泉乡、蕉山乡、梁庄乡、加斗乡等8个乡镇现辖行政区域",
+      "variety": "1.大白谷。2.东方亮",
+      "sensory": "(1)大白谷:桔黄色、米粒小、味香、千粒重2.2g至2.5g。(2)东方亮:金黄色、米粒较小、味甘、千粒重2.5g至2.8g",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

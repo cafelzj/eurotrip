@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7f88e656230568f5e4e1",
+  "title": "2022年中国旅游日宿州市系列活动新闻发布会_宿州市人民政府",
+  "url": "https://www.ahsz.gov.cn/content/article/192813891",
+  "checked": "2026-11-14",
+  "responseSha256": "0ba9487008966096f5b2d2214c921a75569b4336c6758762cdc2b2f6aca299ae",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2738837e89e2cc62b45aa4035dd89b2d90bab88a35bb0a69e4885f5189eac8a2",
+    "textLength": 4864,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "萧县羊肉汤",
+      "province": "anhui",
+      "city": "宿州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

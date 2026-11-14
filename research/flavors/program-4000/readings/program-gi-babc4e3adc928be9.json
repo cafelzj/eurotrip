@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-babc4e3adc928be9",
+  "title": "地理标志公告 · 2006年第203号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC203%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "a3a3f2b0be17e6b901dc033e23cdcf42bd5f580e8e29e1bb8c9a3417ec32adad",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC203%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "a3a3f2b0be17e6b901dc033e23cdcf42bd5f580e8e29e1bb8c9a3417ec32adad",
+    "textSha256": "86b69acf2a1d674daea004a2d86573262aa3286aaa33efd7568a7bf31c6d4c84",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永春佛手",
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "永春县",
+      "type": "tea",
+      "sectionSha256": "9ed02e025105a57111f7d787f6048a27b56f11bed6e75df379826227db0b8d66",
+      "headingOffset": 0,
+      "scope": "永春佛手地理标志产品保护范围以福建省永春县人民政府《关于界定永春佛手茶地理标志产品保护范围的请示》(永政文[2006]65号)提出的范围为准,为福建省永春县现辖行政区域",
+      "variety": "红芽佛手茶和绿芽佛手茶",
+      "sensory": "(1)毛茶:具有佛手茶品种特征,无非茶类夹杂物,无异味,无霉变。等次二等四等六等肥壮、圆结、重实、外条索肥壮、紧结、匀整卷曲结实、稍匀整匀整形色泽砂绿油润砂绿尚油润乌绿稍带褐红浓郁幽长,品种特征香气清高、品种特征明显清纯,品种特征尚显明显汤色金黄清澈明亮橙黄清澈橙黄尚清澈内醇厚甘爽,品种特征尚醇厚甘爽,品种特征尚质滋味醇和、品种特征略显明显明显肥厚、软亮、匀整、尚肥厚、稍软亮、匀整、黄绿有红边、尚软、尚叶底边鲜红红边明匀整(2)精茶:具有佛手茶品种特征,无非茶类夹杂物,无异味,无异臭,无霉变。级别特级一级二级三级项目条较壮结尚壮结稍粗松壮结重实索色尚油润稍带褐色褐色外乌油润泽整欠匀整形匀整匀整尚匀整碎净匀净匀净尚匀净带细梗轻片度内浓郁幽长,品种特征清高,品种特征明显清醇,有品种特纯正香极显征气质滋醇厚甘爽,品种特征醇厚,品种特征明显尚醇厚,品种特纯和味极显征尚显金黄、清澈明亮金黄、清澈尚金黄清澈橙黄汤色叶肥厚软亮,匀整,红肥厚软亮,匀整,红尚软亮稍花杂粗硬底边明显边明显",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6e9d3882e0828528b846",
+  "title": "到了河南吃什么？逛老城！_凤凰网",
+  "url": "https://hn.ifeng.com/c/8uis2n0uiXj",
+  "checked": "2026-11-14",
+  "responseSha256": "936c3628f76c7b20729374c638f97a48461523637bb52b5924397291858b1b25",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bdb2f2b11bcf4f13487198a80bbf221c84f8c5af0fb3da07c0c876be1fb7132a",
+    "textLength": 2796,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沈丘顾家馍",
+      "province": "henan",
+      "city": "周口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

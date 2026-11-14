@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-474d714f84beafdb",
+  "title": "地理标志公告 · 2012年第112号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "51d058ab3b2a0be3e411ace01985f2188824d37ffdd75f24e23d59ddf5a1df00",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "51d058ab3b2a0be3e411ace01985f2188824d37ffdd75f24e23d59ddf5a1df00",
+    "textSha256": "07db3599b4a5c006b79bcd04c4d2408961fff4c0c06ca38c1da25cfbd2bd976e",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "洪泽湖大闸蟹",
+      "province": "jiangsu",
+      "city": "淮安",
+      "locality": "洪泽区",
+      "type": "ingredients",
+      "sectionSha256": "bbfe5576166e0508baf654cf5af53506990faf1a3e2847fe51b200b379fe0e13",
+      "headingOffset": 1757,
+      "scope": "洪泽湖大闸蟹产地范围为江苏省洪泽县仁和镇、岔河镇、老子山镇、西顺河镇、东双沟镇、万集镇、三河镇、共和镇、蒋坝镇、高良涧镇、黄集镇11个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "青壳、白肚、金爪、黄毛、个大、体肥,肉甜味鲜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "茶口粉干",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "闽清县",
+      "type": "staples",
+      "sectionSha256": "06e4a85b00279c2f966bd2ecf95ee30409115b3348e5b60572e5d5fcb7191049",
+      "headingOffset": 2393,
+      "scope": "茶口粉干产地范围为福建省闽清县塔庄镇、省璜镇、坂东镇、三溪乡4个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)色泽:粉干润而半透明,表面有光泽。(2)组织形态:粉条粗细均匀,有弹性。(3)口感:煮后米香味浓郁,口感爽滑,不粘牙,有韧性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "仰韶小米(坻坞小米)",
+      "province": "henan",
+      "city": "三门峡",
+      "locality": "渑池县",
+      "type": "ingredients",
+      "sectionSha256": "16b0f338a70b13c8eed57737e0ba14d51dfbfb671c52717efaf8f99178fc6376",
+      "headingOffset": 4166,
+      "scope": "仰韶小米(坻坞小米)产地范围为河南省渑池县仁村乡、段村乡、南村乡、洪阳镇、城关镇、张村镇、英豪镇、天池镇、仰韶乡、陈村乡、果园乡、坡头乡12个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "米粒小而饱满,质地较硬,色黄如金,米油丰富,煮饭粘糊性强,可揭三层米纹,凉后与碗粘合,甜香味美,入口甘醇,清香宜人,回味悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

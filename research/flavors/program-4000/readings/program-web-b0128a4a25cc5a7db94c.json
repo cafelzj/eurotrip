@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b0128a4a25cc5a7db94c",
+  "title": "惠安“惠女家宴”_一县一桌菜_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://www.quanzhou.gov.cn/gastronomy/ch/sqsm/yxyzc/202412/t20241211_3115844.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "b203ffa445bf017d590162d3fbe37ff4ab8f20573412112677b9aecbfc53716f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "25be5362fe8637ca4c9a301aa816b5413d77a3fc96b6e4e045b4a7e0949b6d3d",
+    "textLength": 3614,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "崇武鱼卷",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

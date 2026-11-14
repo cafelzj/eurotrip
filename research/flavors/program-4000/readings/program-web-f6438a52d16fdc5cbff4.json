@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f6438a52d16fdc5cbff4",
+  "title": "河南·信阳浉河区醉美茶乡约你相见",
+  "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/henan/detail/6829.html",
+  "checked": "2026-11-14",
+  "responseSha256": "62b7facd4bfb5e6e3ae4a215293e64006999d9429243d12bde7e41f1a060db08",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7b3192d1eb4da1f5b1322822c00d17928a1cc8e3c6ddbd180982102d271e5047",
+    "textLength": 1433,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "信阳红",
+      "province": "henan",
+      "city": "信阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

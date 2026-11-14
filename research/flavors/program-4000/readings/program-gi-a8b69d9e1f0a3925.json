@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-a8b69d9e1f0a3925",
+  "title": "地理标志公告 · 2012年第185号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC185%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7d683c1c736573d2420bf2808b0ab861b73cc2ede37f8c1d933c3ebb9558153b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC185%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7d683c1c736573d2420bf2808b0ab861b73cc2ede37f8c1d933c3ebb9558153b",
+    "textSha256": "e992a71eba5c3ff8b59d043e8e76521d8f03aac935364d620244dfb2d6138103",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "窑湾绿豆烧",
+      "province": "jiangsu",
+      "city": "徐州",
+      "locality": "新沂市",
+      "type": "alcohol",
+      "sectionSha256": "19e497dd1615dbbd9a8284f5d32ce5415b7dd426baaefef13ffff1819eb4f1ba",
+      "headingOffset": 1702,
+      "scope": "窑湾绿豆烧产地范围为江苏省新沂市窑湾镇现辖行政区域。",
+      "variety": "",
+      "sensory": "指标项目高度酒低度酒棕褐色或琥珀色,清澈透明,允色泽和外观棕褐色或琥珀色,清澈透明许有少量沉淀香气典雅醇正的复合香,香和谐典雅醇正的复合香,诸香和谐入口绵甜浓厚、醇爽舒适,诸味入口绵甜浓厚、醇爽舒适,诸味协口味协调,后味净,味悠长调,后味爽净风格具有本品典型的风格具有本品典型的风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "微山湖大闸蟹",
+      "province": "shandong",
+      "city": "济宁",
+      "locality": "微山县",
+      "type": "ingredients",
+      "sectionSha256": "21e0b39958ce9eb8a5b1c984885360d22dfdc975ffc14ea99f8b51dcbd8f2ed4",
+      "headingOffset": 4766,
+      "scope": "微山湖大闸蟹产地范围为山东省微山县微山湖水域(126600公顷)。",
+      "variety": "",
+      "sensory": "大闸蟹壳青色,腹面乳白色;蟹爪金色,步足刚毛和螯足绒毛金黄色;活动正常,反应敏捷;体表清洁,甲壳光泽良好;鳃丝清晰、白色或微褐色;肌肉白色,纹理清晰、有弹性;蟹黄凝固不流动,煮熟的雌蟹黄颜色呈红色,香味浓郁,雄蟹蟹膏颜色呈白色,呈凝胶状",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "微山湖四鼻鲤鱼",
+      "province": "shandong",
+      "city": "济宁",
+      "locality": "微山县",
+      "type": "ingredients",
+      "sectionSha256": "ce8889de3088bb57d8dcc1ae7eb87a67535b1dfdf60a379d575e7140b2dc205a",
+      "headingOffset": 6155,
+      "scope": "微山湖四鼻鲤鱼产地范围为山东省微山县微山湖水域(126600公顷)。",
+      "variety": "",
+      "sensory": "前鼻孔和后鼻孔之间的皮膜明显,鱼体体态修长,背鳍青灰,尾鳍、臀鳍淡红,体侧鳞片金黄,肉质鲜嫩,味道鲜美而醇厚",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "微山湖乌鳢",
+      "province": "shandong",
+      "city": "济宁",
+      "locality": "微山县",
+      "type": "ingredients",
+      "sectionSha256": "9aac993c9267afb9170ca85550b34fa6b1541258aae2465768bb5ef23ef415e0",
+      "headingOffset": 7084,
+      "scope": "微山湖乌鳢产地范围为山东省微山县微山湖水域(126600公顷)。",
+      "variety": "",
+      "sensory": "体态丰腴,体形圆而长,全身灰黑色,背部与头部较暗,腹部淡白色,头背部有七星状斑纹,体侧有许多不规则黑色斑块,有光泽,鳞片完整,不易脱落,粘液无浑浊,肌肉组织有弹性。肉质细腻,密实,味道鲜美",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "昌邑梭子蟹",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "昌邑市",
+      "type": "ingredients",
+      "sectionSha256": "e77f4ca4463bfc2961c2c80d61876bb2a38808a5dca443feaff3ea2f0958b6ad",
+      "headingOffset": 8093,
+      "scope": "昌邑梭子蟹产地范围为山东省昌邑市现辖行政区域内的北纬37°07′至37°40′,东经119°17′至119°34′区域。",
+      "variety": "",
+      "sensory": "头胸甲坚硬,背部呈青黄色,体表色泽光洁。蟹体厚实,体型肥满。肉质细腻,紧密有弹性。蟹黄凝固呈石榴红色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

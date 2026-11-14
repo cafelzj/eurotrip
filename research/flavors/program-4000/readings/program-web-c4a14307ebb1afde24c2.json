@@ -1,0 +1,39 @@
+{
+  "id": "program-web-c4a14307ebb1afde24c2",
+  "title": "《二十四节气里的滁州味道》融媒体新书首发",
+  "url": "https://ah.people.com.cn/n2/2021/1022/c227131-34969679.html",
+  "checked": "2026-11-14",
+  "responseSha256": "96a4bf1dbe38b210a287e207f847047e6d0ef58adcf678b157428b3fb6baa007",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "cd75643d5e46aa27e43354a8f82c96f4f37512b8725c866aefec07c26b4bf946",
+    "textLength": 2364,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "雷官板鸭",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "管坝牛肉",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "秦栏卤鹅",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

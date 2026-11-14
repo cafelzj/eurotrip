@@ -1,0 +1,23 @@
+{
+  "id": "program-web-49483da006e71d8526eb",
+  "title": "伊春要闻-伊春市人民政府",
+  "url": "https://www.yc.gov.cn/ycsrmzf/c101986/202507/405643.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "6ee04cbbdb75a0c3caa6ebd437bfc1971bc9b6d4f5af35a536d99946aa340dd0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "511e0002a9b0153d30de7ab60dd16a6cc8adc46e7788c9e9ecd9eb5a37d00588",
+    "textLength": 2309,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "嘉荫大豆",
+      "province": "heilongjiang",
+      "city": "伊春",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

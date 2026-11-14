@@ -1,0 +1,31 @@
+{
+  "id": "program-web-7c4fb7ed68272f1ae2cb",
+  "title": "许昌非遗美食汇总- 许昌本地宝",
+  "url": "https://xc.bendibao.com/tour/20211221/6563.shtm",
+  "checked": "2026-11-14",
+  "responseSha256": "8be43b7582bf4c58ca18749bc2c637dd1e0342bc4314254ec9bd4eab07f012bf",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "96ce1ec7e83319bf2aa3541215600741fbfe9a01bcec76bbc530ad18f0430c19",
+    "textLength": 6339,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鄢陵吊炉烧饼",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "顺店杂炣",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

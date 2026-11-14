@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f3260d729307a6234fa1",
+  "title": "湖南发布美食旅游地图、金牌旅游小吃",
+  "url": "https://cfsn.cn/news/detail/249/234911.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d6131252f96e54af13100e4a60cddd37b635ddc7f3c82620aea97b9e132553c5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b68232d4663f83a354ee4c637d2a849edd24523e79949aacbb22880665d70d10",
+    "textLength": 3573,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "长沙臭豆腐",
+      "province": "hunan",
+      "city": "长沙",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

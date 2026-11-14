@@ -1,0 +1,47 @@
+{
+  "id": "program-web-98781a21cee30225553d",
+  "title": "〖老城记忆〗太地道了！这里有一份老洛阳人才知道的「老城味道」指南",
+  "url": "https://m.thepaper.cn/baijiahao_12529773",
+  "checked": "2026-11-14",
+  "responseSha256": "075622c1fa8f0b2fa354a32f25abc1bf27250cbc053397bac719bcf858d66f81",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bb1035505ce8acec5847d3456576537c2a6ca59d4e07a730f606d255bb930006",
+    "textLength": 3687,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "连汤肉片",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "驴肉汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "豆腐汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "不翻汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

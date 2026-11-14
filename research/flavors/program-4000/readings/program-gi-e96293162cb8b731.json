@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-e96293162cb8b731",
+  "title": "地理标志公告 · 2007年第103号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d3ccbd3d587b68db8c90fd206685046ea21d20d6d5f3fc66b9bc6f6a50e9317d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d3ccbd3d587b68db8c90fd206685046ea21d20d6d5f3fc66b9bc6f6a50e9317d",
+    "textSha256": "987f7c5a4004aa6914da969013b9eae22df21ac1d71c9686f3a4d417a9b611b8",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "姚庄蘑菇",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "locality": "嘉善县",
+      "type": "ingredients",
+      "sectionSha256": "96f0137708b10da08219545bd771d0737144f5bc0122ee80ad3d0f30b2f109b2",
+      "headingOffset": 0,
+      "scope": "姚庄蘑菇地理标志产品保护范围以浙江省嘉善县人民政府《关于姚庄蘑菇地理标志产品保护范围的函》(善政[2005]9号)提出的范围为准,为浙江省嘉善县姚庄镇现辖行政区域",
+      "variety": "",
+      "sensory": "蘑菇肉质鲜嫩、美味可口,外观漂亮,肉里结实,菇白肉厚。采收后24小时内不易氧化变黑,不需要漂白处理",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

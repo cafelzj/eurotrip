@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-4403a45733f603c6",
+  "title": "地理标志公告 · 2011年第103号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "80b46725352143085f489ced4d053023b57af98d6c523b3c487a96dd10194649",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "80b46725352143085f489ced4d053023b57af98d6c523b3c487a96dd10194649",
+    "textSha256": "43fa20ad194c7dc1bddb7568f61a612e0cf808232a65c2666a24383b77d7f460",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "通榆中国草原红牛肉",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "通榆县",
+      "type": "ingredients",
+      "sectionSha256": "4e778f6bcf59350a7eb815be868f6323774da207d6ad776ce82750bc732e3c31",
+      "headingOffset": 1522,
+      "scope": "通榆中国草原红牛肉产地范围为吉林省通榆县现辖行政区域。",
+      "variety": "中国草原红牛",
+      "sensory": "肉色呈鲜红色,脂肪呈白色或乳白色,切面大理石花纹明显,肌纤维纤细清晰,肉质细嫩多汁,熟肉具特有的膻香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "吉阳大蒜",
+      "province": "hubei",
+      "city": "随州",
+      "locality": "广水市",
+      "type": "ingredients",
+      "sectionSha256": "5b962f883ba705eaa5587758d4a3ed2c059d287110f347603eb4d7d394be4b9b",
+      "headingOffset": 2089,
+      "scope": "吉阳大蒜产地范围为湖北省广水市太平乡、李店乡、骆店乡、陈巷镇、十里街道办事处、城郊乡、杨寨镇、广水街道办事处8个乡镇街道现辖行政区域。",
+      "variety": "地方白皮蒜",
+      "sensory": "色白、皮薄、大小均匀,蒜瓣8至10瓣,瓣紧,脆嫩、辛辣味浓",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

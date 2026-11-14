@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bd528f1dd594f44433a9",
+  "title": "宁波江北区特色美食：慈城年糕与本地小吃怎么吃",
+  "url": "https://www.juour.cn/zj/nbfang/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "3e8c3eb21798221fdf2b7b4dcf3708c3e6435579a3ec4152e46091a3dbf2cf10",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1687b404bd063a7957054954aae344889a646c4a6e7bc2069f62ce442949de18",
+    "textLength": 5494,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "雪菜大黄鱼",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

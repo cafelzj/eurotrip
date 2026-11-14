@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7d5a023a9d0058c6200c",
+  "title": "6月必去“福建小垦丁”，这里的美食鲜掉眉_澎湃号·湃客_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_18669644",
+  "checked": "2026-11-14",
+  "responseSha256": "0327e787dd1be965a8dff20f1a7f6af86ffef67db13404cbfc5b755059d6ba32",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7b9462f54e412418d0d0223348f321567a19e2ea1ade5ce9fcecf6b1791f16a0",
+    "textLength": 4031,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "八珍炒糕",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ed6c60773bef7c857eea",
+  "title": "漳州诏安红星青梅暨诏安地标农产品推介会在福州举行",
+  "url": "https://fj.people.com.cn/n2/2022/0110/c181466-35089012.html",
+  "checked": "2026-11-14",
+  "responseSha256": "65d50c95fe93da31f1683b40084fb7484986ec97901871b13cb2efa212bc502a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "dd5005794a313c1071e7de73ba0e6492985964f3ac0a210421ab9fe32312fc93",
+    "textLength": 2134,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "诏安青梅",
+      "province": "fujian",
+      "city": "漳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

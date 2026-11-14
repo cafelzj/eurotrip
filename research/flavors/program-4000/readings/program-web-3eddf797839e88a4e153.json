@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3eddf797839e88a4e153",
+  "title": "首届葱饼美食文化节在永泰开幕_福州要闻_新闻频道_福州新闻网",
+  "url": "https://news.fznews.com.cn/fzxw/20230604/g9x49K08X9.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "ff7e64528fca4b5da079dbf08f897ef1985633d475f2b799de6e99dea29b55b2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1b345446bad500d456cd37d7de4d5cde185137c9aab2bfc6fc9ccd3e39e2af6e",
+    "textLength": 1327,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永泰葱饼",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

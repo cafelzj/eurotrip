@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-211c0e6c2e9e7052",
+  "title": "地理标志公告 · 2007年第55号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0bf7805bf1056e434c05c6ac24131eede3341d6a0d69b56e8778ec348c6cdef5",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0bf7805bf1056e434c05c6ac24131eede3341d6a0d69b56e8778ec348c6cdef5",
+    "textSha256": "c72c91fcd8a65e7aef3ec3d2d4573cbd0ed57b384db71acc417ee303c22ff863",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "政和白茶",
+      "province": "fujian",
+      "city": "南平",
+      "locality": "政和县",
+      "type": "tea",
+      "sectionSha256": "bc0d231e03b0565e6ab09e113fc0eb7bac03c0b15cf7ab1852d48bd5fb4632b6",
+      "headingOffset": 0,
+      "scope": "政和白茶地理标志产品保护范围以福建省政和县人民政府《关于申请将政和白茶列入地理标志产品保护的请示》(政人综[2006]49号)提出的范围为准,为福建省政和县现辖行政区域",
+      "variety": "",
+      "sensory": "(1)白毫银针:外形:单芽肥壮,满披茸毛,色泽银白或灰白。内质:香气清纯,毫香明显;滋味清甜鲜爽,毫味足;汤色淡黄,明亮。叶底:匀整,明亮。(2)白牡丹:1特级白牡丹:外形:叶抱芽,芽叶连枝,叶缘垂卷,毫心肥壮银白,毫多而显,叶色灰绿或翠绿,叶背有茸毛。内质:香气清鲜浓郁,毫香明显;滋味清甜纯爽,毫味显;汤色杏黄,明亮。叶底:毫心多,叶张嫩,芽叶连枝,色泽嫩绿、明亮。2一级白牡丹:外形:芽叶连枝,匀嫩,尚匀整,叶缘垂卷,略有破张,毫心银白,毫心显,叶色灰绿或暗绿,部分叶背有茸毛。内质:香气清鲜纯正,有毫香;滋味尚甜、纯正,有毫味;汤色浅黄,较亮。叶底:毫心尚显,叶张柔软,叶脉微红,尚亮。3二级白牡丹:外形:部分芽叶连枝,破张较多,有毫心,毫心稍瘦,叶张尚嫩,色泽暗绿,稍带少量黄绿叶及暗褐叶。内质:香气尚清鲜纯正,略有毫香;滋味尚鲜纯,略带青涩回甘;汤色深黄尚明亮。叶底:少量毫心,叶脉浅红",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

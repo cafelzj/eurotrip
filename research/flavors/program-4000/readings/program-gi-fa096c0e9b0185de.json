@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-fa096c0e9b0185de",
+  "title": "地理标志公告 · 2010年第15号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC15%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c5b68ef4781f84e6b32bb32d35e4b1ae9193126cad16911adb2f41adca23cb05",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC15%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c5b68ef4781f84e6b32bb32d35e4b1ae9193126cad16911adb2f41adca23cb05",
+    "textSha256": "45093e462de1bad9ec3a0ca03fca50106c3e4b507714da019a0bf06f3258a9e1",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大泉源酒",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "通化县",
+      "type": "alcohol",
+      "sectionSha256": "ffc1db483c8bb261dc7bdab85586d6ad2b6fe954f252c6d133d16ed5848ee2e4",
+      "headingOffset": 1623,
+      "scope": "大泉源酒地理标志产品保护范围为吉林省通化县大泉源乡、快大茂镇、四棚乡、英额布镇、三棵榆树镇、富江乡、光华镇、江甸镇、兴林镇、果松镇、东来乡、石湖镇、金斗乡、大安镇、二密镇等15个乡镇现辖行政区域。",
+      "variety": "1.高粱:采用符合国家标准规定的优质红高粱。2.小麦:采用符合国家标准规定的优质小麦。3.酿造用水:采用大泉源乡现辖行政区域符合国家标准规定的含氡、锶、偏硅酸的重碳酸钙镁型矿泉水",
+      "sensory": "(1)色:无色或微黄、透明。(2)香:清香略带陈香、焦香、糟香。(3)味:锦甜、柔和、尾净。(4)格:清香、秀雅",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "五城茶干",
+      "province": "anhui",
+      "city": "黄山",
+      "locality": "休宁县",
+      "type": "dishes",
+      "sectionSha256": "cac3643cedee0d89df387892251e2536b8ab8b0afd87a6bb55031ce72abc622a",
+      "headingOffset": 3928,
+      "scope": "五城茶干地理标志产品保护范围为安徽省休宁县五城镇、商山乡、山斗乡、岭南乡、海阳镇、万安镇、齐云山镇、鹤城乡等8个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "项目指标色泽红棕色,色泽均匀、有油润感滋味咸甜适中、香气浓厚、质地组织细密、对折不断、柔软有劲、有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

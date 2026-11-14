@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-aa74738092a30a6a",
+  "title": "地理标志公告 · 2009年第81号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b1bf0b8c7f50fb9343b6b9645a715fe5692e7fa9a3257351e78f4cb32680739f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b1bf0b8c7f50fb9343b6b9645a715fe5692e7fa9a3257351e78f4cb32680739f",
+    "textSha256": "5ffbcac0a656a5984d8aa88040f0567d1d3192fdf99a11130c3e144c9530c340",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "兴化大米",
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "兴化市",
+      "type": "ingredients",
+      "sectionSha256": "61eec3f2a489afe5bb017607e7688c27dd7117dd6f13135093641fd3269b5858",
+      "headingOffset": 1572,
+      "scope": "兴化大米地理标志产品保护范围为江苏省兴化市现辖行政区域。",
+      "variety": "选用武育粳3号,淮稻5号,华粳6号等中迟熟中粳品种",
+      "sensory": "大米晶莹透亮,粒型适中。大米蒸煮时,饭粒完整,米饭柔软油润,浓香持久,米饭冷后不硬且有粘性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "兴化红皮小麦",
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "兴化市",
+      "type": "ingredients",
+      "sectionSha256": "72aef4572bd954d54e876bb38e70cc99d2b86782e70ea246d419c4022e719d50",
+      "headingOffset": 2697,
+      "scope": "兴化红皮小麦地理标志产品保护范围为江苏省兴化市现辖行政区域。",
+      "variety": "选用扬麦158、扬麦11号、扬麦16号等中筋春性红皮小麦品种",
+      "sensory": "籽粒饱满整齐,红皮角质,腹沟较浅",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "永春老醋",
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "永春县",
+      "type": "seasoning",
+      "sectionSha256": "c39966b937a99a83cb442346117ab12084cf5c3c21403acfef942abe026d9b9f",
+      "headingOffset": 4180,
+      "scope": "永春老醋地理标志产品保护范围为福建省永春县现辖行政区域。",
+      "variety": "1.糯米:符合GB2715的规定,主要产自保护范围内,淀粉含量不小于72%,含水量不大于12%,不变率小于3.5%,不完善率小于6%,具有糯米正常色泽和气味,无霉变。2.红曲米:符合GB4926的规定,糖化率不小于1200mg/g.h,酒精度不小于15%(v/v),颜色呈暗红色,具有红曲米特有香气,无染杂,发酵均匀、完整。3.水:酿造用水应取自保护范围内的地下水,应符合GB5749的规定",
+      "sensory": "项目要求色泽棕褐或棕红色香气具有液态发酵永春老醋特有的酯香味,无其他不良气味滋味入口柔和,稍有甜味,不涩,无杂味体态澄清,允许有微量沉淀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

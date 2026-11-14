@@ -1,0 +1,23 @@
+{
+  "id": "program-web-36bb209939b76cf64fcb",
+  "title": "杭州特产 - 正宗浙江杭州本土特产名录〖中华特产网杭州特产大全〗",
+  "url": "https://www.zhtechan.cn/hangzhou/",
+  "checked": "2026-11-14",
+  "responseSha256": "d018b6fcb59210e2bcc15e670032c7767536905dbdc399dbcf7a83be47e296b6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a4e3c29b16f2653f61baf69867f5284c4483aaec3d76bb8553191fe21466f3fd",
+    "textLength": 1036,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "天目笋干",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

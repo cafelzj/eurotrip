@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-c4f697444b9b2b8a",
+  "title": "地理标志公告 · 2016年第9号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC9%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "13da1706affd88c8f413525aff828c26e0f58810a8608c1c701463d2e44fbe7e",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC9%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "13da1706affd88c8f413525aff828c26e0f58810a8608c1c701463d2e44fbe7e",
+    "textSha256": "b1a792e27c7d87e03e6f6f024b1964debd671378bee90f23415271c69395252a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大连虾片",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "旅顺口区",
+      "type": "ingredients",
+      "sectionSha256": "25957bd18b234c270374005dd747ffc0144626f83c7a1d0110d38d3daed18636",
+      "headingOffset": 7722,
+      "scope": "大连虾片产地范围为辽宁省大连市旅顺口区现辖行政区域(含龙王塘)。",
+      "variety": "",
+      "sensory": "色泽半透明,表面光亮,大小、厚薄均匀,经油炸后,口感酥脆,有虾的鲜味,无硬心",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "竹溪腐乳",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "竹溪县",
+      "type": "seasoning",
+      "sectionSha256": "ccc13be02d8aaecacc36a0756c6b7eb5b65c0c9d2aadb03412bc3be89f7852a9",
+      "headingOffset": 8348,
+      "scope": "竹溪腐乳产地范围为湖北省竹溪县境内的15个乡镇。",
+      "variety": "",
+      "sensory": "块形整齐,厚薄均匀,表面呈鲜红色或枣红色,切面为杏黄色或酱褐色,质地细滑,香辣适口,滋味鲜美,具有特有的酱香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大别山黑山羊",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "团风县、红安县、罗田县、英山县、浠水县、蕲春县、黄梅县、麻城市",
+      "type": "ingredients",
+      "sectionSha256": "6a881a77d2cabef4b374800da6051c242d57546fa7f2ec20676324ed0399095d",
+      "headingOffset": 9509,
+      "scope": "大别山黑山羊产地范围为湖北省黄冈市麻城市、罗田县、英山县全境;蕲春县境内的株林镇、刘河镇、向桥乡、狮子镇、大同镇、檀林镇、张榜镇;红安县境内的七里坪镇、华家河镇;团风县境内的贾庙乡、杜皮乡、大崎乡、回龙镇;浠水县境内的绿杨乡、团陂镇;黄梅县境内的柳林乡、停前镇、五祖镇、苦竹乡、大河镇现辖行政区域。",
+      "variety": "",
+      "sensory": "肉色鲜红,有光泽,脂肪呈白色,肉味清香少膻,爽口不腻,肉质鲜嫩,富有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

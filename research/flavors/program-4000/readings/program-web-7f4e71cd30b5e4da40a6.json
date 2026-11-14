@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7f4e71cd30b5e4da40a6",
+  "title": "逛吃过大年丨打卡北京小吃，有些味道或许小众但没准就是你的最爱",
+  "url": "https://m.bjnews.com.cn/detail/1707967735169848.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ec7479a78210403a9ab75a26009b0c62cc7bf4612ce20a8232b68910a686d297",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "df2e9d07d978ce0323c5c62277a080715984549f766b8960f9785b5467ca5e46",
+    "textLength": 1296,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "驴打滚",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

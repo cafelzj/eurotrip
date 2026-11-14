@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-9a4a92ac219ab29d",
+  "title": "地理标志公告 · 2008年第65号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC65%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "dfc17f8c8fe532acd457acb31fcc43f3d6efffa83aecc666e2da2a973f13163b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC65%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "dfc17f8c8fe532acd457acb31fcc43f3d6efffa83aecc666e2da2a973f13163b",
+    "textSha256": "03e2125db3b65e4018a25ff4abc34bc5eb362116874746412910231b24797c07",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "延边黄牛肉",
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "延吉市、图们市、敦化市、珲春市、龙井市、和龙市、汪清县、安图县",
+      "type": "ingredients",
+      "sectionSha256": "6e3c4391a262fac3f5dc415855a54644ec8e28a7cbd8bb57d20a3fc3c9f11ba4",
+      "headingOffset": 4080,
+      "scope": "延边黄牛肉地理标志产品保护范围以吉林省延边朝鲜族自治州人民政府办公室《关于划定延边黄牛肉地理标志产品保护范围的通知》(延州政办函〔2007〕65号)提出的范围为准,为吉林省延边朝鲜族自治州延吉市、图们市、珲春市、龙井市、和龙市、敦化市、汪清县、安图县等8个县市现辖行政区域。",
+      "variety": "在保护地域范围内出生的延边黄牛(含75%以上延边黄牛血统)",
+      "sensory": "延边黄牛肉红色均匀,有光泽,脂肪呈白色和微黄色,纤维清晰,有韧性,肉外表面微干或潮湿,不粘手,切面湿润,指压后凹陷立即恢复,具有鲜牛肉应有的气味,无臭味,无异味。根据延边黄牛胴体分级标准,大理石花纹等级标准不低于No2级;脂肪颜色为乳白色(No1或No2级),肌肉颜色为鲜红色(No2或No3级)",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "来凤漆筷",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "来凤县",
+      "type": "crafts",
+      "sectionSha256": "dbf30b13bc2f9b3a6e5800af93c9faee090a090cc092338bc56ae8f4286fa264",
+      "headingOffset": 5446,
+      "scope": "来凤漆筷地理标志产品保护范围以湖北省来凤县人民政府《关于界定“来凤漆筷”地理标志产品范围的函》(来政函〔2006〕40号)提出的范围为准,为湖北省恩施州来凤县相翔凤镇、绿水乡、漫水乡、百福司镇、大河镇、旧司乡、三胡乡、革勒车乡等8个乡镇现辖行政区域。",
+      "variety": "镶嵌贝壳、生漆涂刷盖面的筷子",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-03a2d5e97fe6297aa8bb",
+  "title": "齐河县（中国山东省德州市下辖县）_百科资料_新农商网",
+  "url": "https://www.xncsb.cn/baike/7282.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "4ec36fb4139bfc8b6e6816c02c6d431833538082498e64023cff591e80b4b00c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "eaf4a7975671c3c845895e122617fa584dc4aeee822f52ec8e35fde500e622be",
+    "textLength": 22305,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "黄河甲鱼",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

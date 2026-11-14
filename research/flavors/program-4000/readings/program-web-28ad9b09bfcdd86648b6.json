@@ -1,0 +1,23 @@
+{
+  "id": "program-web-28ad9b09bfcdd86648b6",
+  "title": "辽宁日报",
+  "url": "https://epaper.lnd.com.cn/lnrbepaper/pc/con/202506/12/content_287836.html",
+  "checked": "2026-11-14",
+  "responseSha256": "65c0617944480562ddc81b2393217f2b21d5536997f88da4c058d8a92ff9451c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ceed42f108c9dc3014dac00ce4f1b9ca2cd7524d0b105b7eb35465340f6906d4",
+    "textLength": 314,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "昌图豁鹅",
+      "province": "liaoning",
+      "city": "铁岭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

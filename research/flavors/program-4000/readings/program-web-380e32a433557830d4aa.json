@@ -1,0 +1,23 @@
+{
+  "id": "program-web-380e32a433557830d4aa",
+  "title": "关于聚力打造定远文化强县的几点建议",
+  "url": "https://www.dyxzx.gov.cn/content/detail/52fd7ca0356cf4cf2a1bad22.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0a34db1bf175330df53318c3d9d89199a5d6f15077d376fa6f87408b3ea1f398",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "85c6835fbeb92df306d2d4e5f950e81afc8c50c0c79e2cd04abcc7b50a33482d",
+    "textLength": 5400,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "定远卤鹅",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

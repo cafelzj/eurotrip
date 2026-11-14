@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-26142b98d673ddbd",
+  "title": "地理标志公告 · 2012年第218号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC218%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b109751cb1625f58897f946239eb13775ca9f7e8b9dec5809cfab9be42637271",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC218%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b109751cb1625f58897f946239eb13775ca9f7e8b9dec5809cfab9be42637271",
+    "textSha256": "d8259f38df14163871763b6aa004df3adc264ccd779284bdf2d2ebbd4d6478df",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "公主岭大米",
+      "province": "jilin",
+      "city": "长春",
+      "locality": "公主岭市",
+      "type": "ingredients",
+      "sectionSha256": "dc1dde1909134b6e34651378a5985f8d823af83b2eb57e79a365a4657754bdbd",
+      "headingOffset": 4007,
+      "scope": "公主岭大米产地范围为吉林省公主岭市桑树台镇、十屋镇、八屋镇、秦家屯镇、大榆树镇、朝阳坡镇、南崴子街道、二十家子镇、刘房子街道、陶家屯镇、杨大城子镇、毛城子镇12个乡镇街道现辖行政区域。",
+      "variety": "",
+      "sensory": "米粒椭圆,整齐、洁白光亮、通体透明,米饭油亮、香醇、松软,入口香、粘、滑、软食味品质极佳",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "红石砬小米",
+      "province": "jilin",
+      "city": "长春",
+      "locality": "农安县",
+      "type": "ingredients",
+      "sectionSha256": "29a7d1c47491dcb8237afb9903695f68007f91950d52ece7e78cd879872feb09",
+      "headingOffset": 4769,
+      "scope": "红石砬小米产地范围为吉林省农安县靠山镇、新农乡、青山乡、黄鱼圈乡、万金塔乡5个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽鲜黄,米粒小而圆润饱满,手感光滑沉实,小米饭松软油亮、入口柔软、饭香浓郁、粘而不粘口、易于蒸煮,凉饭不回生。小米粥黄粘适口,绵甜爽滑",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

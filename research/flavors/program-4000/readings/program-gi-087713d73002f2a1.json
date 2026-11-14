@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-087713d73002f2a1",
+  "title": "地理标志公告 · 2013年第81号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "34473c65cdf366763908cbe8781ec79fc748b52ddeef805e8a2a3bc0593b30b7",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "34473c65cdf366763908cbe8781ec79fc748b52ddeef805e8a2a3bc0593b30b7",
+    "textSha256": "f3a28e190710b469ff1257352d9a21ea545d3d12ecd7e5e14f144b80e25a4c85",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "余姚皮蛋",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "余姚市",
+      "type": "dishes",
+      "sectionSha256": "7d9c5d89ac43d86cfa6a12df2f61ce6c07e1a175586554a3ac1641e1717c6514",
+      "headingOffset": 1717,
+      "scope": "余姚皮蛋产地范围为浙江省余姚市泗门镇、牟山镇、梁弄镇、河姆渡镇、鹿亭乡、黄家埠镇、小曹娥镇、三七市镇、陆埠镇、大岚镇、临山镇、丈亭镇、大隐镇、马渚镇共14个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)形态:蛋体完整,有光泽,有弹性,不粘壳,有松花或花纹,呈溏心,可有大溏心、小溏心、硬心。(2)色泽:蛋白呈半透明的青褐色,棕色或不透明的深褐色,透明的黄色。(3)香气滋味:具有皮蛋应有的滋味和气味,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "余姚咸蛋",
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "余姚市",
+      "type": "ingredients",
+      "sectionSha256": "dc975ffe60aa301bf3d3678c9d8b678207da10ccbdb03aeb5c348046b1996223",
+      "headingOffset": 2996,
+      "scope": "余姚咸蛋产地范围为浙江省余姚市泗门镇、牟山镇、梁弄镇、河姆渡镇、鹿亭乡、黄家埠镇、小曹娥镇、三七市镇、陆埠镇、大岚镇、临山镇、丈亭镇、大隐镇、马渚镇共14个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)形态:剥壳后蛋白完整、不粘壳,蛋白无“蜂窝状”现象,蛋黄较结实,蛋黄与蛋白间具有一层灰黑色膜。(2)色泽:蛋白清白,蛋黄红润或黄润。(3)香气滋味:有余姚咸蛋特有的香气,咸淡适中,香味浓郁,蛋黄松沙可口,蛋白细腻、无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

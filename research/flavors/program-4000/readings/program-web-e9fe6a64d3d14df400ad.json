@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e9fe6a64d3d14df400ad",
+  "title": "河北邯郸：烹出美食文化“味觉增长极”",
+  "url": "https://he.people.com.cn/n2/2026/0106/c192235-41465084.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6b38dd51c7b79c8bcfd019b8e382b43668a70cb2001dc7209a0ef89f05b80f62",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f59ecb1b7ad29c89052a1766ffe3be7d16b3003ee9d26df895201f74461b8112",
+    "textLength": 2950,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永年驴肉香肠",
+      "province": "hebei",
+      "city": "邯郸",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

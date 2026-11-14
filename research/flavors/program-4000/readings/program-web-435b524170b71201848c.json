@@ -1,0 +1,23 @@
+{
+  "id": "program-web-435b524170b71201848c",
+  "title": "台州十大碗，上菜啦！-台州频道",
+  "url": "https://tz.zjol.com.cn/tzxw/202312/t20231210_26504069.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "34190ed6f9d3e239912abb273605a7584c433f7f9a5351598aeda4a9d7b8ee4b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "524a7b9e9c4977646e10a66cc8984ef11e3315a5e9fe0b1e8adf788882bb2463",
+    "textLength": 3497,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "仙居三黄鸡",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

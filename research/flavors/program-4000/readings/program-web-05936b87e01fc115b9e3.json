@@ -1,0 +1,31 @@
+{
+  "id": "program-web-05936b87e01fc115b9e3",
+  "title": "湖北省襄阳市有什么特产可以送（地理标志特产一览）_武汉生活网",
+  "url": "https://www.wuhan.com/food/30225.html",
+  "checked": "2026-11-14",
+  "responseSha256": "9de53214bb165d8bf0dcc4833e5a951614c5bba391c5e63bb92dce58a95a852b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "aee1c0e6515170ef1e56f0af5c41b6e8764f549fdf955100185878a37e267243",
+    "textLength": 1606,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南漳板栗",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "南漳黑木耳",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

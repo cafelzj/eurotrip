@@ -1,0 +1,23 @@
+{
+  "id": "program-web-24238637a8df410d35b4",
+  "title": "“嘉定一桌菜” 道道皆乡愁_媒体报道_上海市农业农村委员会",
+  "url": "https://nyncw.sh.gov.cn/mtbd/20250124/fb351b67ae564221ad36e7491fb5a86e.html",
+  "checked": "2026-11-14",
+  "responseSha256": "72cf518e16045ac92f70b5aa3fa6aca1167ad15be565b0418bbd1cb4059b25ce",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c39fe090f7d5c948d9b2cb64e2ffa0dd5b033c7c8a17ab8528f70c22adcaa38a",
+    "textLength": 2601,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南翔小笼",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

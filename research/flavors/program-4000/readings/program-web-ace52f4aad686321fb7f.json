@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ace52f4aad686321fb7f",
+  "title": "信阳菜十大经典名菜排行 河南信阳10道地方特色菜盘点→买购APP",
+  "url": "https://www.maigoo.com/top/427122.html",
+  "checked": "2026-11-14",
+  "responseSha256": "855567af3a99c162153c7bf97dd804257784c5da8ab913026b3493de94eda68f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "af3971fed5a181081a087a0193dd7b5c518753b2da52a899a09a38986406a6c1",
+    "textLength": 6534,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "固始鹅块",
+      "province": "henan",
+      "city": "信阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

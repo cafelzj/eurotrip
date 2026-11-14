@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c236209d0123aa042d35",
+  "title": "忻州古城特色美食之——保德碗托_古城_景区风光_忻游网",
+  "url": "https://www.xinzhou.tv/index.php?c=show&id=1092",
+  "checked": "2026-11-14",
+  "responseSha256": "ff97b95b6db9f855f50420cf063148bdf83a1a880bb7f418408e53d206e56738",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "16f328842a792efd3a65cf9322fc465320bf62f1d36d5ac1cd78eb1a91b5a3b4",
+    "textLength": 1220,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "保德碗托",
+      "province": "shanxi",
+      "city": "忻州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

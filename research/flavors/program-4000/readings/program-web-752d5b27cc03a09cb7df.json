@@ -1,0 +1,39 @@
+{
+  "id": "program-web-752d5b27cc03a09cb7df",
+  "title": "一、特产食品｜民俗库｜专题库｜山东地情档案",
+  "url": "https://shandong-chorography.org/database/a/section/81/article/111/",
+  "checked": "2026-11-14",
+  "responseSha256": "6094a6e8599d8827bd467e6cb46f3d87d8bdc8f92b953c3d5538a8109a8169d4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "895ed7b90378bf59d2f77e62c0b929a36ae43cc204a8ccc3df3c5b6d9f56cb8e",
+    "textLength": 2229,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "金乡金谷",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "孔府宴",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "阳信鸭梨",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

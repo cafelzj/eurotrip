@@ -1,0 +1,31 @@
+{
+  "id": "program-web-34ca4583bf2f65dd0da9",
+  "title": "本地人气最高的家常菜馆怎么找？三门峡3个维度说透+FAQ",
+  "url": "https://www.sina.cn/gc/article/niwfwak2564217.html",
+  "checked": "2026-11-14",
+  "responseSha256": "2e69a7f372cd66b0f38aafd323fd1305e6059e7252bef3b3a2b431be28cbf419",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "30f45887c3b4d7416b50420a6828a3cb06dc61ced05eb38e6a149b21fcb8fe3a",
+    "textLength": 3044,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "陕州十碗席",
+      "province": "henan",
+      "city": "三门峡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "灵宝肉夹馍",
+      "province": "henan",
+      "city": "三门峡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

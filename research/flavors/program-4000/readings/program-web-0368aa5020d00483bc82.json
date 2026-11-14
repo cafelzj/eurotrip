@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0368aa5020d00483bc82",
+  "title": "焦作美食攻略_焦作有什么特色小吃_焦作美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g1206/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "77669ccf009dfdfb98536001a20e12e6767896d7ac8db57e48c5d11f5dcc1d42",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1d7fdc1d55837ccde3b74128f748bab58104e676ada0574c912ab47fdfeabe96",
+    "textLength": 1969,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "博爱浆面条",
+      "province": "henan",
+      "city": "焦作",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

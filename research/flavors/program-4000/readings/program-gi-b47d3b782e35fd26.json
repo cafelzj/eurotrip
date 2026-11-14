@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-b47d3b782e35fd26",
+  "title": "地理标志公告 · 2009年第107号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC107%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e0b6c80ae34fbee9caf8dd11743fa1272af4ecbb3bef01bc7740d11364a33338",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC107%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e0b6c80ae34fbee9caf8dd11743fa1272af4ecbb3bef01bc7740d11364a33338",
+    "textSha256": "3f40ce4d10d33065059f9b5d0c7f9e924d03bf598b91ef70d30e7e9f35f03d3d",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "湖头米粉",
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "安溪县",
+      "type": "staples",
+      "sectionSha256": "f6d31da71674b46add83824cf9cef0161cb5a2558df5f641cec2248ce41e9410",
+      "headingOffset": 1778,
+      "scope": "湖头米粉地理标志产品保护范围为福建省安溪县湖头镇现辖行政区域。",
+      "variety": "要求。1.大米:选取保护区内生产的籼稻米,其直链淀粉含量≥15%。2.水:选取保护范围内符合下列指标要求的天然山泉水和地下水。溶解性总固体≤100mg/L,溴化物≤0.005mg/L,偏硅酸≥25mg/L,pH值6.5至7.0,总硬度8至12度;卫生指标符合国家关于生活饮用水的标准",
+      "sensory": "晶莹半透明,色泽灰白、均匀,米香味纯正浓郁,久煮不糊、口感柔韧、滑爽、有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "莱州梭子蟹",
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "莱州市",
+      "type": "ingredients",
+      "sectionSha256": "745ce2feb2f9ebc64020b03e2a48dc1e3f1aa163d9731c3b8b832dea4e756fe7",
+      "headingOffset": 4426,
+      "scope": "莱州梭子蟹地理标志产品保护范围为山东省莱州市土山镇、沙河镇、虎头崖镇、永安路街道、城港路街道、三山岛街道、金城镇的沿海海水池塘及渤海莱州湾东部37°4′至37°40′,东经119°16′至120°32′海域。",
+      "variety": "三疣梭子蟹(Portunustrituberculatus),属甲壳纲十足目梭子蟹科",
+      "sensory": "项目指标背面体表青绿色,腹面灰白色。体表光洁,无附着物,纹理清晰,白色斑点外观少,有完整的双螯和步足。背甲的两侧有明显白斑,具活力。气味具有梭子蟹固有的鲜、腥气味,无异味。鳃鳃丝清晰,白色,无异味。组织肌肉纹理清晰、紧密、有弹性。体态体形肥满,用手指压腹面有坚实感",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

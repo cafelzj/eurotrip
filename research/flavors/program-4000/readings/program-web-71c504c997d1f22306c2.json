@@ -1,0 +1,31 @@
+{
+  "id": "program-web-71c504c997d1f22306c2",
+  "title": "凤凰县美食攻略_凤凰县有什么特色小吃_凤凰县美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g1516/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "3c824ec470940a8ee8baf31516fbcca5a991ab959d4c3745f1a5ff8da974f456",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7708e431d8c8ab38fafc1017b8cd556b267e4b35cad7c9924c24f9d194f71ded",
+    "textLength": 734,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "血粑鸭",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "酸汤鱼",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

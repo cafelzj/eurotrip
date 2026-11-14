@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-6144aa3cad1de1a6",
+  "title": "地理标志公告 · 2007年第124号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC124%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c8b35c5b4ccca9af9d20687c4c7305b6945dfcf08d758a613bcc061680f54c4c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC124%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c8b35c5b4ccca9af9d20687c4c7305b6945dfcf08d758a613bcc061680f54c4c",
+    "textSha256": "e5bf7922608b174390b025fbd187579cdb833725cad9f1e140af6108e94eb9fb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "玉泉酒",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "阿城区",
+      "type": "alcohol",
+      "sectionSha256": "57465c8caf05969c140f599e08a467f17313a08d5e1219406095c27b4d2c300b",
+      "headingOffset": 0,
+      "scope": "玉泉酒地理标志产品保护范围以黑龙江省哈尔滨市阿城区人民政府《关于申报玉泉酒地理标志产品保护区域的请示》(哈阿政呈[2007]1号)提出的范围为准,为黑龙江省哈尔滨市阿城区现辖行政区域",
+      "variety": "",
+      "sensory": "总酸(以乙酸计)>0.8总酯(以乙酸乙酯计)>2.0清亮透明己酸乙酯1.0~2.5窖香浓郁乙酸乙酯1.3~1.5绵甜醇和乳酸乙酯1.5~1.8清冽甘爽丁酸乙酯0.3~0.4尾净香长糠醛0.2~0.3乙缩醛0.3~0.42.酱香工艺:水泥窖,整粮一次投料。大曲酱香六轮发酵,七次摘酒。要求高温润料、高温曲、高温堆积、高温摘酒,整粮多轮次30天发酵,前三轮用曲量平均占原料的18%至20%,后三轮采用高中温曲,半成品分轮次陈贮三年作为酱香基酒,并需要符合表2规定。表2酱香型半成品酒",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

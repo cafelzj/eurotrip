@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2f961ad4c2c49ab11052",
+  "title": "赞家乡美食，讲背后故事|山西大学第十七届校园饮食文化节之家乡美食征文优秀作品选系列二-最新动态-山西大学饮食服务中心",
+  "url": "https://ysfwzx.sxu.edu.cn/zxdt/75700e24e39347b5b7925d7150d57f3b.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "0ab3c660b37436a2003d239628b3823ea6f7360e60151619e4824cbcfcc5ebb2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "784201774f4641cf489103c7804ae94a2f5cecfdacb7e4baac4a3d7332b57414",
+    "textLength": 18899,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "羊杂割",
+      "province": "shanxi",
+      "city": "太原",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

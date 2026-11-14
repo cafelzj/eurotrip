@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1454e6eac946b071dd30",
+  "title": "南平10大著名小吃排行 福建南平十大好吃的小吃推荐→买购APP",
+  "url": "https://www.maigoo.com/top/426563.html",
+  "checked": "2026-11-14",
+  "responseSha256": "3fef81490049875852fc7bc85c934f555425198ffa8935b0dc04af5e4b4af989",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6765e702ab5f40c039bde8446e546e64eeed7a333ee5c93b14115a48f0ad0e2a",
+    "textLength": 5800,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "建瓯光饼",
+      "province": "fujian",
+      "city": "南平",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

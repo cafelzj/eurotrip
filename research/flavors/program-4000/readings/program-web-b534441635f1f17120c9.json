@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b534441635f1f17120c9",
+  "title": "黄陂三宝你吃过吗，快来在传统美食里品尝荆楚味道-荆楚网-湖北日报网",
+  "url": "https://news.cnhubei.com/content/2022-11/28/content_15280026.html",
+  "checked": "2026-11-14",
+  "responseSha256": "cb8d0adf8923d0ecb68127bf72c50b8f8306bc4d64c1570a26c46581d86fe5ce",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b2981bd0f235529a45837b6308e5749ea90fb61a4ff7b89b8e1c2cbe4d944d66",
+    "textLength": 1389,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "黄陂豆丝",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

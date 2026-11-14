@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0e79ba2d16858ab73272",
+  "title": "特色美食_北京市密云区人民政府",
+  "url": "https://www.bjmy.gov.cn/stmy/yhmy/tsms/index_1.html",
+  "checked": "2026-11-14",
+  "responseSha256": "8a4b9498a5f58b6b234091ca4d28b43d094a803919a27aca0272b813ba103a5b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "07180b898de2ea6fb8cba6c48449146fab4063e0fe84be5339fc57ef5fd820bb",
+    "textLength": 799,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "密云水库鱼",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-006debfc164660bdd748",
+  "title": "淮北市组织开展“安徽美食·百城千味”美食评选宣传推介活动_淮北市文化旅游体育局",
+  "url": "https://wlt.huaibei.gov.cn/gzdt/bmdt/56513581.html",
+  "checked": "2026-11-14",
+  "responseSha256": "2ab089de4fffa19a32625d7e93c43c0425825f2c900d68238e3e87faef8b5429",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "343053c6190da6d5cd8d17a00f6a1cbb6305aa1e1b1bfb1a6c88c8389e571b32",
+    "textLength": 1048,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南坪响肚",
+      "province": "anhui",
+      "city": "淮北",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

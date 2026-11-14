@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d4e087ca7605b9f466ac",
+  "title": "藏在美食里的文化｜广饶肴驴肉，飘香千里 传承百年_大众新闻_大众新媒体大平台",
+  "url": "https://dzrb.dzng.com/videos/0/NEWS1409286EKBLFOHDEGMQS",
+  "checked": "2026-11-14",
+  "responseSha256": "098b56a2e034603b522737b09c88914acf40783198c9f54efd798329c77494f3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "348d0339d3a85837795e396361d670d70ab6cee9226f3fed8da1c62eae31d8a7",
+    "textLength": 547,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "广饶肴驴肉",
+      "province": "shandong",
+      "city": "东营",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

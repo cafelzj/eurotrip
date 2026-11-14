@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e4dc2a060828f7aa2361",
+  "title": "盘点黑龙江省哈尔滨市方正县特产 - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/444680/",
+  "checked": "2026-11-14",
+  "responseSha256": "085a73dd77e267e8f9036f57a104a3fd33996d522d1139c5bf1a46a6f663f42e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e63683e5b386728aaa442215177ee60e5c2452f0a1d6d762b4d8ffd7f875293",
+    "textLength": 2441,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "方正大米",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

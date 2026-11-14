@@ -1,0 +1,31 @@
+{
+  "id": "program-web-170d5d4f42c5f2cb7dbc",
+  "title": "株洲市| 醴陵入选湖南省“十大湘菜名县” - 湖南省农业农村厅",
+  "url": "https://agri.hunan.gov.cn/agri/xxgk/gzdt/sxdt_1/202403/t20240315_33248605.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b333c8e48dc713e84bcd304d22181fe23f5a95e77755acbe8a8bf4fc7359f98b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a20b4b07a672e7874cf5a0efb31bd2405220021d3f15c3ed738a611c71e1193e",
+    "textLength": 1599,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "醴陵小炒肉",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "醴陵炒粉",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8f8d8f9da4c5c1cd8d7c",
+  "title": "延津县产业集聚区情况简介 - 招商平台 - 延津县人民政府",
+  "url": "https://www.yanjin.gov.cn/newsinfo/2493.html",
+  "checked": "2026-11-14",
+  "responseSha256": "527b212a1bd3d8bddccffc3ff24801644f97b0f37a0ab00e3609974ed100558b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "382fcfb3a2c4d025626dc5dd5f8bb8e54fb922af1d4a450659c955f4f40f8290",
+    "textLength": 2562,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "延津小麦",
+      "province": "henan",
+      "city": "新乡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

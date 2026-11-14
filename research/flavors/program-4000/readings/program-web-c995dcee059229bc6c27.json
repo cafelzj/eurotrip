@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c995dcee059229bc6c27",
+  "title": "“大约在冬季 乐驾游永州” - 湖南省文化和旅游厅",
+  "url": "https://whhlyt.hunan.gov.cn/news/sxxw/202212/t20221209_29156386.html",
+  "checked": "2026-11-14",
+  "responseSha256": "52e49b986ca9fc3d98a4ee8b1c23809ed5897aa2ce56d35e04cba592368a22c1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "33b58d3eb1e33857f696c31fd034d09a3cdea124584ddcdeed056a592958d142",
+    "textLength": 3442,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宁远血鸭",
+      "province": "hunan",
+      "city": "永州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

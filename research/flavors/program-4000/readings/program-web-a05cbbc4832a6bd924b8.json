@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a05cbbc4832a6bd924b8",
+  "title": "〖老城记忆〗太地道了！这里有一份老洛阳人才知道的「老城味道」指南_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_12529773",
+  "checked": "2026-11-14",
+  "responseSha256": "986371ebb82ce3acc46997329d17409723a0c07fe3026167d71df5d0a66c6ff4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9c9b64d90161f472d8a6a781ba5f6583f9de01c6ad562a6609d290e22bc60b40",
+    "textLength": 4159,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "驴肉汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "豆腐汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

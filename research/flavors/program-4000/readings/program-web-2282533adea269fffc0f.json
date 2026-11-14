@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2282533adea269fffc0f",
+  "title": "全市地方特色美食宴 烹饪大赛举行 _ 市级动态 _ 三明市人民政府门户网站",
+  "url": "https://www.sm.gov.cn/zw/zwxx/sjdt/202111/t20211102_1722559.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "e19cc580309832ca89df567833d83e7f7625d6299bc29669f1a8ad504252a834",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "739a5ce15842d5d4b04fe9cb4e25f9f4137b37622620d929e7880dde3327c799",
+    "textLength": 1809,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永安粿条",
+      "province": "fujian",
+      "city": "三明",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

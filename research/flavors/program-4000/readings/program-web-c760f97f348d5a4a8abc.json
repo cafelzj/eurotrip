@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c760f97f348d5a4a8abc",
+  "title": "太谷美食攻略：这份十大特产美食老字号清单，照着买准没错-老家特产网",
+  "url": "https://www.tutechan114.com/article/505.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6a086fb27b7f1cb9a8972106d5e54a8b210ae242a078cbc0bff6921785c2088a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "337941b8c8bbbfdfe8dbf9bb9269439daec0916fa6823bc5094e890ae605c864",
+    "textLength": 3560,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "太谷熏鸽",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

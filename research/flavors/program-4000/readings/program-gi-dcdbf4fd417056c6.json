@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-dcdbf4fd417056c6",
+  "title": "地理标志公告 · 2009年第127号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC127%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b169fc720c0c35399663b09b70db1cf8150f36c4a7dbe3610237d83b397c3bf9",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC127%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b169fc720c0c35399663b09b70db1cf8150f36c4a7dbe3610237d83b397c3bf9",
+    "textSha256": "3435a736b700a19396a7b4bbc7c72af69a57c9f534df8fd2f20ea0252e19e20b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "桓仁红松籽",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "type": "ingredients",
+      "sectionSha256": "768e12ba7225a14fd7623ce0a9688c8bd51c1dcbab3068988e71e08c6442ca89",
+      "headingOffset": 1476,
+      "scope": "桓仁红松籽地理标志产品保护范围为辽宁省桓仁满族自治县现辖行政区域。",
+      "variety": "",
+      "sensory": "桓仁红松籽,果仁饱满,颜色黄褐色、浅金黄色,有光泽,风味独特,清香绵长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "桓仁大榛子",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "type": "ingredients",
+      "sectionSha256": "68d0dff53434c2e29015e836aa4c7c5b7a01e4165453303985e1e4738ebc5470",
+      "headingOffset": 2093,
+      "scope": "桓仁大榛子地理标志产品保护范围为辽宁省桓仁满族自治县现辖行政区域。",
+      "variety": "薄壳红、达维、金铃、平顶黄、玉坠",
+      "sensory": "坚果个大金黄色至暗红色,色泽光亮,皮薄,仁满,果仁饱满度≥90%",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "新晃黄牛肉",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "新晃侗族自治县",
+      "type": "ingredients",
+      "sectionSha256": "8a10b70e8ad5aa7dc4fb8c09d05f2ab2b66690414590093e3c471f9bafa737ce",
+      "headingOffset": 3437,
+      "scope": "新晃黄牛肉地理标志产品保护范围为湖南省新晃侗族自治县现辖行政区域。",
+      "variety": "湘西黄牛",
+      "sensory": "(1)鲜牛肉和解冻后牛肉:呈鲜红色或樱桃红色,有光泽,脂肪呈乳白色或淡黄色;外表不粘手;肌纤维清晰,柔韧有弹性;煮沸后肉汤透明澄清,脂肪团聚于表面;肉质细嫩,味道醇厚。(2)腌腊牛肉:呈暗红色或暗褐色,有光泽;无盐霜,无粘液;切面光滑,干爽坚实,纹理清晰;有纯正的腊香味或发酵味,烹调后香味浓郁,咀嚼时软硬适中,有回味。(3)酱卤牛肉:呈酱黄色或褐色;肌肉组织紧密;肉质酥软,香味浓郁,咀嚼时绵香可口,回味悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "朱湖糯米",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝南区",
+      "type": "ingredients",
+      "sectionSha256": "0f752c969dbbca67a4a945d96d266cf4fdccb3888d5bfe8b5f6c5ddd7cdb1f2a",
+      "headingOffset": 5096,
+      "scope": "朱湖糯米地理标志产品保护范围为湖北省孝感市孝南区朱湖农场、东山头农场、朋兴乡、肖港镇、新铺镇、祝战镇、三汊镇、卧龙乡、毛陈镇等9个乡镇、农场现辖行政区域。",
+      "variety": "珍糯及同类特色的中籼糯稻品种",
+      "sensory": "稻谷粒形长大饱满,米粒颜色乳白光亮,形似珍珠。饭米油润光洁,粘糍性强,食感糍软,香甜可口,冷饭不回生变硬",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

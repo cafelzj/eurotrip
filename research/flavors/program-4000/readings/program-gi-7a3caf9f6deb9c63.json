@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-7a3caf9f6deb9c63",
+  "title": "地理标志公告 · 2013年第137号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2ac5e0d802892fc06587b060aad672be7cb226d04c10ffc391139a10b53abeaf",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2ac5e0d802892fc06587b060aad672be7cb226d04c10ffc391139a10b53abeaf",
+    "textSha256": "c00a9dedcf28e41ae5d9ae5c13266e5ef5abe4729117360c0e2415e5de91ee1a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "运城盐池大盐(河东大盐)",
+      "province": "shanxi",
+      "city": "运城",
+      "locality": "盐湖区",
+      "type": "seasoning",
+      "sectionSha256": "e354abe4711a7a4aa2ac77f09bad1691dfb18ba143fb1bc85e0a79426e269b49",
+      "headingOffset": 1934,
+      "scope": "运城盐池大盐(河东大盐)产地范围为山西省运城市盐湖区运城盐池,位于运城盆地南部,东起东郭镇,沿中条山北坡,向西经南城办西姚村、席张乡底张村,北起安邑办,沿市区南部,向西经南城办、西城办、龙居镇南部,西至车盘办乔家庄,总面积154.6平方公里。",
+      "variety": "",
+      "sensory": "外观呈颗粒状,淡青色或浅粉色,色泽均匀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

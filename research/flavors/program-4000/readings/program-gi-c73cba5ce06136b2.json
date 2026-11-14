@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-c73cba5ce06136b2",
+  "title": "地理标志公告 · 2014年第13号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b1d026a9e9bd4b84f047f02a9a1f9aca6a3ac48c8ef83b7f5e162cc718f0bc8d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b1d026a9e9bd4b84f047f02a9a1f9aca6a3ac48c8ef83b7f5e162cc718f0bc8d",
+    "textSha256": "2dbe006217a4ef23648bd787c4fac64c8c5b0d044313dba58d2e5ee61ef1b7c9",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "凌源蓝莓",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "type": "ingredients",
+      "sectionSha256": "e6429718ceff6178b0e9f7a72845b1327a352e92e55cbee4b2a4b87929d9b711",
+      "headingOffset": 7704,
+      "scope": "凌源蓝莓产地范围为辽宁省凌源市现辖行政区域。",
+      "variety": "",
+      "sensory": "果皮厚,果粉白色浓厚,果肉细腻,果香浓郁。果实单果重≥3g",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "西江大米(西江贡米)",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "通化县",
+      "type": "ingredients",
+      "sectionSha256": "2ead0127f16ff7af2eb046ae872bee69baf6b1a12f779c5feafa40c7ca3de8bc",
+      "headingOffset": 8583,
+      "scope": "西江大米(西江贡米)产地范围为吉林省通化县西江镇现辖行政区域。",
+      "variety": "",
+      "sensory": "米粒亮泽、半透明、圆润饱满。米饭油亮、香润粘滑,冷饭不易回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "女山湖大闸蟹",
+      "province": "anhui",
+      "city": "滁州",
+      "locality": "明光市",
+      "type": "ingredients",
+      "sectionSha256": "bdcfc13594bcfe948b8d15499fc8bd519d373b8703a1f79c7bce5e121d126310",
+      "headingOffset": 9388,
+      "scope": "女山湖大闸蟹产地范围为安徽省明光市女山湖水域,北纬32.9°-33°,东经118°-118.2°,总面积约1万公顷。",
+      "variety": "",
+      "sensory": "体表光泽、背青腹白、黄毛金爪,活动有力、反应敏捷,口感肉质细嫩、有弹性、香鲜甜美",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "石梁河葡萄",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "东海县",
+      "type": "ingredients",
+      "sectionSha256": "761c8bb709fcf709d7fd6040941768fdd2c08db76cc3eb4ac979a30575fcf1bb",
+      "headingOffset": 21966,
+      "scope": "石梁河葡萄产地范围为江苏省东海县石梁河镇现辖行政区域。",
+      "variety": "",
+      "sensory": "果穗完整,果粒大小、形状、颜色整齐,果粉完整,果皮中厚,果实外观呈现本品种特色;果肉细腻,糖酸比合理,适口性好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

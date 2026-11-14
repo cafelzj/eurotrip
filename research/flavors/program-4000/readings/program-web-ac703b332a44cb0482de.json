@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ac703b332a44cb0482de",
+  "title": "情满镇江 共襄发展丨江南鱼米之乡，品味别样镇江_中国镇江金山网 国家一类新闻网站",
+  "url": "https://www.jsw.com.cn/2023/0520/1787202.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "c50a7b9073347df957064120d7712b61ffc74fb3daac949d3ce8a4cf9dfd5861",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "37366f6efc482771ad1ef4bc05e52334a5f35289ded8fb5acdcb1b4fe2035284",
+    "textLength": 5396,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "扬中河豚",
+      "province": "jiangsu",
+      "city": "镇江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f95a42b6395692b0d5d7",
+  "title": "周宁乌蛋粿：味蕾不曾懵懂 家乡致富团宠",
+  "url": "https://fj.people.com.cn/n2/2022/0622/c181466-40006199.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ade987b7afc0d19184c333412840a032648a9f885272e30c0e887f4a438ba297",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4de9900f5eacd67e59fc64f794291740e5fb02cd24cce58b3b0f275cb9caf636",
+    "textLength": 2530,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "周宁高山马铃薯",
+      "province": "fujian",
+      "city": "宁德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

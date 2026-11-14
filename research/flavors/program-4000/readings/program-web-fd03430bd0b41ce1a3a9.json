@@ -1,0 +1,31 @@
+{
+  "id": "program-web-fd03430bd0b41ce1a3a9",
+  "title": "湘西州 - 求真百科",
+  "url": "https://factpedia.org/index.php?title=%E6%B9%98%E8%A5%BF%E5%B7%9E&variant=zh",
+  "checked": "2026-11-14",
+  "responseSha256": "2d8bd7f1365eb7664f257daece1f4c9a92d4370d057bd0f381554338d810d39e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b7a21605e66cd6be5dc1a306e82fb21aa9765ac8a0f59315a6cf3a52e642e6ef",
+    "textLength": 25245,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "湘西酸肉",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "湘西米豆腐",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

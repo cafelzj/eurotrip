@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-abd6bddf018c7390",
+  "title": "地理标志公告 · 2007年第50号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC50%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5de9d72f4448075b2d60e9beace5262064ed6f51619b631092f60d594f10504f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC50%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5de9d72f4448075b2d60e9beace5262064ed6f51619b631092f60d594f10504f",
+    "textSha256": "9c51817c2d13860298b2f1626d9ec4f5fbf4f54261d34fd4c2a6019e36e0aab8",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "中牟大白蒜",
+      "province": "henan",
+      "city": "郑州",
+      "locality": "中牟县",
+      "type": "ingredients",
+      "sectionSha256": "0ea72dea0f830ea7bcc3ed7b62d384a2aa9b4f82d46b0c1d1f867577785b98d3",
+      "headingOffset": 0,
+      "scope": "中牟大白蒜地理标志产品保护范围以河南省中牟县人民政府《关于对中牟大白蒜实施原产地域产品保护的函》(牟政文[2004]10号)提出的范围为准,为河南省中牟县现辖行政区域",
+      "variety": "地方大白蒜良种",
+      "sensory": "蒜头大,直径在5cm以上(特级或一级)的蒜头占80%以上,蒜头表皮紧裹,蒜皮洁白,弹性好,耐贮运;蒜瓣排列紧密,坚实饱满,色泽纯正,外层8至10瓣,内层4至6瓣,有光泽;味鲜、辛辣、纯正、无异味。2.蒜头等级和",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

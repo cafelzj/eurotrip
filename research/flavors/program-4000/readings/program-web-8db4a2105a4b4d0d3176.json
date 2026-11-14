@@ -1,0 +1,31 @@
+{
+  "id": "program-web-8db4a2105a4b4d0d3176",
+  "title": "济南的好味道",
+  "url": "https://jnbusiness.jinan.gov.cn/col8314/art/2025/art_8314_4784185.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d2f0f31ab24d10730843ede6a28d53e8d0fea5b14083abf85cd25fe4b4819170",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "987512dec17a4f9bcb2cde34ad59a76ce67ea1be0e4bfbcfd62e034e4d9a7548",
+    "textLength": 2077,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "把子肉",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "平阴玫瑰",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

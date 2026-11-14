@@ -1,0 +1,23 @@
+{
+  "id": "program-web-534f881fbbd591959d8a",
+  "title": "保定市_百度百科",
+  "url": "https://bkso.baidu.com/item/%E4%BF%9D%E5%AE%9A%E5%B8%82/0?fromModule=lemma_inlink",
+  "checked": "2026-11-14",
+  "responseSha256": "f354ef508aaded22d38d189e047a45f10e74d08d3f56f4d70341e45e07ca288e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "97b4bb4ad5b73a57615831af26f9b2d7d1bfbe3e12e545c1f11c6f14d95411ac",
+    "textLength": 33072,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "麻核桃",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

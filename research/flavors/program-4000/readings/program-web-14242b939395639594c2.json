@@ -1,0 +1,31 @@
+{
+  "id": "program-web-14242b939395639594c2",
+  "title": "东营自驾游攻略 · 黄河在这里入海，土地还在生长 | 大环线旅游",
+  "url": "https://www.dahuanxian.com.cn/dongying-zijiayou/",
+  "checked": "2026-11-14",
+  "responseSha256": "a60ab29b2fea0260a3ae7cbac3c9dfece8b3bdceef2cd9b114700927f80b192d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5dd83b9daa7d1d684df5da7a19021596515ad713acb20e0ad8003d8d56d54a44",
+    "textLength": 15232,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "利津水煎包",
+      "province": "shandong",
+      "city": "东营",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "广饶肴驴肉",
+      "province": "shandong",
+      "city": "东营",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

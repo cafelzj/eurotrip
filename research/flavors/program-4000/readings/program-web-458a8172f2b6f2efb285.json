@@ -1,0 +1,23 @@
+{
+  "id": "program-web-458a8172f2b6f2efb285",
+  "title": "锦州与京东集团达成战略合作共同推广特色农产品",
+  "url": "https://www.ln.gov.cn/web/qmzx/xczx/zchb/2024070909454367208/index.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "59b1b1f794847a682af81146c627404967cf22b40450225af060398fe40e864e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d7f17ca2d919d50b8583e33c0bb68de4d89e3feac21ef03025eed0f9766ecd95",
+    "textLength": 851,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "义县小粒花生",
+      "province": "liaoning",
+      "city": "锦州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

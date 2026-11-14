@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b3ee794cad20bb7701e4",
+  "title": "山西灵石县：一块灵石传古韵，两院古堡叙繁华，一山碧水藏康养诗意_王家大院_文化_古镇",
+  "url": "https://www.sohu.com/a/1052797362_122815278",
+  "checked": "2026-11-14",
+  "responseSha256": "fd3756c4cfe4d310f8c6cde364182b69660e79c3e4e08acaf2273bafb70826b8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8c526502cfbcd1fcc00d3cc491ad6250f07158c210778d4153f17562fc468321",
+    "textLength": 8908,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "灵石油糕",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

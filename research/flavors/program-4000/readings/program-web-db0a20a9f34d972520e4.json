@@ -1,0 +1,23 @@
+{
+  "id": "program-web-db0a20a9f34d972520e4",
+  "title": "保定特产 - 正宗河北保定本土特产名录〖中华特产网保定特产大全〗",
+  "url": "https://www.zhtechan.cn/baoding/",
+  "checked": "2026-11-14",
+  "responseSha256": "9322e4e400467d2dd01da4b341c028b8201d08ad8f1b82cf4af4767b822782e7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e15666732546e8ef284547e0402a7e831fb24c1409a2a7a85d7a1e64840a4183",
+    "textLength": 1077,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "涿州贡米",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

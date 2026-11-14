@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-e52705ee8a22a1a2",
+  "title": "地理标志公告 · 2007年第77号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0900bbc2820ab8cb474765c98f1d9b66933a6d20b6b2e7716d912d7f8b8410d2",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0900bbc2820ab8cb474765c98f1d9b66933a6d20b6b2e7716d912d7f8b8410d2",
+    "textSha256": "7064dd9f06ce907747e83600fd7c8673ee9e24bccf74c80df7db63380f1c4178",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "张弓酒",
+      "province": "henan",
+      "city": "商丘",
+      "locality": "宁陵县",
+      "type": "alcohol",
+      "sectionSha256": "d585fe05f43acbc312d03146e675e1f5e2572d42a4f2fa0c12982352cb07c260",
+      "headingOffset": 0,
+      "scope": "张弓酒地理标志产品保护范围以河南省宁陵县人民政府《关于界定张弓酒地理标志产品保护范围的函》(宁政函[2006]14号)提出的范围为准,为河南省宁陵县张弓镇东村、北村现辖行政区域",
+      "variety": "",
+      "sensory": "38%vol感官特征为:无色(微黄)透明,窖香浓郁,绵甜柔和,自然谐调,后味爽净,风格典型。52%vol感官特征为:无色(或微黄)透明,窖香浓郁、醇甜净爽,醇厚丰满,谐调舒适,回味悠长,风格典型",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

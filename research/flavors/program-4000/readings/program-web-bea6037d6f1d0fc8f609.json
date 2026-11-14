@@ -1,0 +1,47 @@
+{
+  "id": "program-web-bea6037d6f1d0fc8f609",
+  "title": "湖州特色美食：湖鲜、老字号与小吃小店",
+  "url": "https://www.juour.cn/zj/2178571577/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "07123a214b7e4936e0b5b1429302d7c9642a222cb13784bd380c2b67287392e0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "371c4ee76036a1681a1d1431e117b8771cce90c1bc2d983a8e5f0dd03ef9013d",
+    "textLength": 8173,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "诸老大粽子",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "周生记馄饨",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "千张包",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "震远同茶食",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

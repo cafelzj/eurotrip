@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-037f3e92019ad6f6",
+  "title": "地理标志公告 · 2011年第194号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "10e2e14f0139761c1a2389d535feff23ddb5315349fd35424f14a181bc32c301",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "10e2e14f0139761c1a2389d535feff23ddb5315349fd35424f14a181bc32c301",
+    "textSha256": "5e693a434e2c9dab40640e1029fab32704ba3970ad25a5f0261e63f578e4d157",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "新宁脐橙",
+      "province": "hunan",
+      "city": "邵阳",
+      "locality": "新宁县",
+      "type": "ingredients",
+      "sectionSha256": "003cacf6f8ab45d88155c79375d2052d17de67901e5e736eebf621ec0dabfff3",
+      "headingOffset": 2205,
+      "scope": "新宁脐橙产地范围为湖南省新宁县水庙镇、飞仙桥乡、万塘乡、金石镇、崀山镇、白沙镇、黄龙镇、清江桥乡、高桥镇、回龙寺镇10个乡镇现辖行政区域。",
+      "variety": "崀丰",
+      "sensory": "果实横径在65mm至85mm、果形成圆球形或椭圆形,果皮颜色为橙黄色或橙红色。保鲜性好,果肉无枯水、粒化现象,肉质脆嫩化渣酸甜可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

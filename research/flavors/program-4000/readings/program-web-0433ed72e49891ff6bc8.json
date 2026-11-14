@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0433ed72e49891ff6bc8",
+  "title": "责编：朱金宜　邮箱：zjy",
+  "url": "https://paper.people.com.cn/rmrbhwb/images/2024-10/16/12/rmrbhwb2024101612.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "a560c9326573ac56eea34847e2564fd92c66b2f7d8633be72c9f7b42f3fdd089",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ec31538189ec07b1bf4810705307c9ca728ef94fc9b22009608547a5cec8051c",
+    "textLength": 19005,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蜂蜜麻糖",
+      "province": "hebei",
+      "city": "唐山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

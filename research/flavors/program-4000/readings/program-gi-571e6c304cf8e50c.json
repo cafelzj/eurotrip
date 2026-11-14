@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-571e6c304cf8e50c",
+  "title": "地理标志公告 · 2008年第24号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b20c88f1db778fbde1b35119da1687e402fd7c981af0a1b9dd6555914db51857",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b20c88f1db778fbde1b35119da1687e402fd7c981af0a1b9dd6555914db51857",
+    "textSha256": "663f9e4257b5bed6a11c66a5b43dc375912645788d6069d05019cb9e399be1d3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "姜家店大米",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "柳河县",
+      "type": "ingredients",
+      "sectionSha256": "a4aa51b8a5496c5c93f695a0b89675bd6a645a7bf4411ae4c7dd058db2a2d610",
+      "headingOffset": 0,
+      "scope": "姜家店大米地理标志产品保护范围以吉林省柳河县人民政府《关于确定姜家店大米地理标志产品保护地域范围的通知》(柳政文〔2007〕27号)提出的范围为准,为吉林省柳河县姜家店乡、柳河镇、三源浦镇、驼腰岭镇、向阳镇、安口镇、圣水镇、红石镇、亨通镇、孤山子镇、五道沟镇、凉水镇、罗通山镇、时家店乡、柳南乡等15个乡镇现辖行政区域",
+      "variety": "选用抗逆性强的吉粳88、秋田小町、松粳6号等达到姜家店大米质量特色的优质品种",
+      "sensory": "粒呈半透明、有光泽,垩白小。米饭油亮、香、软、粘、滑,口感好,食味佳,冷饭不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d010f377bc7fed7a1929",
+  "title": "馋到哭：南平人的《隐藏菜单》！_津巴布韦_新闻_华人头条",
+  "url": "https://www.52hrtt.com/zw/n/w/info/G1747708919364",
+  "checked": "2026-11-14",
+  "responseSha256": "cbff7689e8bbcbf6d7c2e69fc4d51627d76ee88ba713cabcbe2d0cd0c910c2b3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "802994217154a86fa345f5a9345fe9f8f0f77594624e2dcce39ba3bf8f04bac5",
+    "textLength": 3467,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "大红袍",
+      "province": "fujian",
+      "city": "南平",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

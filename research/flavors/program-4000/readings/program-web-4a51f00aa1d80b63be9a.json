@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4a51f00aa1d80b63be9a",
+  "title": "食在忻州_文旅资讯_忻游网",
+  "url": "https://m.xinzhou.tv/index.php?c=show&id=1033",
+  "checked": "2026-11-14",
+  "responseSha256": "2676c1f60178990e4b44a32a1aaf051b889c515c3a555c1a133d668be2361b33",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "67a9425c426c3a0d008a479a82658b20086fab3815fb2e76f39ae844c64080e2",
+    "textLength": 6295,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "代县黄酒",
+      "province": "shanxi",
+      "city": "忻州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

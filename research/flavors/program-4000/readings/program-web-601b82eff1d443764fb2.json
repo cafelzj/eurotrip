@@ -1,0 +1,31 @@
+{
+  "id": "program-web-601b82eff1d443764fb2",
+  "title": "福建有哪些特产 本地风味好物清单_新传媒网",
+  "url": "https://shlx.xwcm.net/zsjx/202610/1445613.html",
+  "checked": "2026-11-14",
+  "responseSha256": "42c797963eca01047914f938ddd8fed1bb93c83d78084da643f91ae9d1db47dc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "df299de60b4d66efa51c5f4838b1abadabcb6cbb7bf15a0ad6e7e288247d5abf",
+    "textLength": 5071,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "安溪铁观音",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "霞浦海带",
+      "province": "fujian",
+      "city": "宁德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

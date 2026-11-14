@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-6c90bd73c66243a8",
+  "title": "地理标志公告 · 2010年第94号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "69f642b60d87559cafc8897382590aa200bfb78d50662543cbc13acc95264249",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "69f642b60d87559cafc8897382590aa200bfb78d50662543cbc13acc95264249",
+    "textSha256": "7680be2d30d70676e8749171c0e17c6ac9b24ef77714f94bc8a6a7d3db27a03c",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "太谷饼",
+      "province": "shanxi",
+      "city": "晋中",
+      "locality": "太谷区",
+      "type": "staples",
+      "sectionSha256": "0bdca7f0ffaa4d9ce15d6d8bfc049f2946ae321d27c66e6ae3c6c0b2271b643c",
+      "headingOffset": 1747,
+      "scope": "太谷饼地理标志产品保护范围为山西省太谷县明星镇、候城乡、北汪乡、水秀乡、胡村镇、小白乡、阳邑乡、任村乡、范村镇等9个乡镇现辖行政区域。",
+      "variety": "1.小麦粉:小麦产自保护区内的老沙麦,10月下旬种植,次年6月下旬收获,生长期210天以上。小麦粉面筋质>25.0%(以湿基计),灰分<0.85%(以干基计),水分≤14.0%。2.饴糖:使用保护区种植的小米,采用传统加工工艺生产。3.水:生产用水为此保护区内地下水,水质符合国家生活饮用水卫生标准",
+      "sensory": "项目要求形态呈扁圆形,饼面芝麻分布均匀,边缘有细小裂纹色泽表面光泽,呈棕红色,内部呈蛋黄色组织内部有小蜂窝状,气孔分布均匀滋味及口感甜绵香酥,不粘牙,气味芳香,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "富裕老窖酒",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "富裕县",
+      "type": "alcohol",
+      "sectionSha256": "ac6a4a3051958b261efe252f4f10c94dc00c96a9480a433d6752c62bd2c3502f",
+      "headingOffset": 2748,
+      "scope": "富裕老窖酒地理标志产品保护范围为黑龙江省富裕县富裕镇、二道湾镇、富海镇、富路镇、龙安桥镇、忠厚乡、塔哈乡、友谊乡、绍文乡、繁荣乡等10个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "浓香兼芝麻香型白酒。闻香以浓香为主,浓香与芝麻香协调,酒体丰满,回味悠长,落口芝麻香香味明显,风格独特。项目优级一级色泽无色或微黄、清亮透明、无悬浮物、无沉淀以浓香主体、带有芝麻香的复合香以浓香为主体、带有芝麻香的复合香香气气、幽雅馥郁气、较幽雅馥郁酒体丰满、绵甜爽净、芝麻香味谐较醇厚丰满、绵甜爽净、芝麻香味谐口味调、余味悠长调、余味较长具有本品固有风格具有本品明显风格风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

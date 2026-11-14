@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2390c60efceb300be8f2",
+  "title": "安琪酵母、宜红工夫茶……“宜昌特色消费品”亮相央视！-湖北省经济和信息化厅",
+  "url": "https://jxt.hubei.gov.cn/bmdt/rdjj/202501/t20250126_5522022.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "e8ee93c3f2e9a372577a9b57f883c2437b2adcdbb600d13bcb561f40178647fc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e1ca210888adf3d8a5c9df5ea786a266c08e86e73304256426771cf551b5c54f",
+    "textLength": 1674,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宜红工夫茶",
+      "province": "hubei",
+      "city": "宜昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

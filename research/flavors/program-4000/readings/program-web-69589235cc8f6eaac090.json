@@ -1,0 +1,23 @@
+{
+  "id": "program-web-69589235cc8f6eaac090",
+  "title": "邢台(河北省地级市)_360百科",
+  "url": "https://upimg.baike.so.com/doc/155352-164135.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4321dd946d2bf56578c6a47e0f49fb71df85d4f44c329aad83fd08b9640b5b97",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "26c0d271e9ae4b6411b36c3b3e56ea91128007bd07576ffb2055bb81c375ce8e",
+    "textLength": 20392,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "隆尧泽畔藕",
+      "province": "hebei",
+      "city": "邢台",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

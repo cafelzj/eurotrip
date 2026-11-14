@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2d0905a787d0246b4671",
+  "title": "秦皇岛，怎么这么好吃！ ——一座城市的美味人文地理解构_澎湃号·媒体_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_34230711",
+  "checked": "2026-11-14",
+  "responseSha256": "98af62570b1f5ac6e1044ccdc50f4520330ee74ba8f652306c0f808959fd08af",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "631a09b81e2de63ae8ad0e6092ad4bff66c865ef5cbdd3bcc846e2be05a2cb37",
+    "textLength": 10814,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "青龙板栗",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

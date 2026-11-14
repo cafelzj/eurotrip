@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4c85639fa6bbc97f0388",
+  "title": "我市就“寻味河东好吃运城”暨“名菜”“美食”评选进行信息发布_搜狐网",
+  "url": "https://m.sohu.com/a/522054883_121106854/",
+  "checked": "2026-11-14",
+  "responseSha256": "b2d7f3ff50c0afafe5586e7949e98804c77b17df63196bd147ff7644d55fc211",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8a4405d7e2ef029b967a120e4d91bbef8b927130ffc55da1c2835a28a8ba0039",
+    "textLength": 972,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永济扯面",
+      "province": "shanxi",
+      "city": "运城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a74398a3f8c62379633f",
+  "title": "〖邵阳市〗我省又一区域性集体商标面世 “邵阳红”集体商标获批-湖南省人民政府门户网站",
+  "url": "https://www.hunan.gov.cn/hnyw/szdt/202111/t20211102_20960339.html",
+  "checked": "2026-11-14",
+  "responseSha256": "104e957c0d535e756dbde244b985617b81e42bc8845ab8d3a286a28417183f4a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d66d4de4a694ea8a7806b1cd1516730facc57a8c21ae4dfd4a33da7fa71f0df2",
+    "textLength": 1318,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "龙牙百合",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "武冈卤菜",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

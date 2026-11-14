@@ -1,0 +1,23 @@
+{
+  "id": "program-web-da3f3b8923d92df8de3d",
+  "title": "2026年枣阳琚湾酸浆面美食季启动 - 湖北日报新闻客户端",
+  "url": "https://news.hubeidaily.net/mobile/c_5451671.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4efe2c2735e1bf10261577214d8cb03a14d9551ac8bfb05b68f67ca9831a91ae",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2675102e7b4d5d45187a2dc58f3584f1b488f15193719f9b63a8e4cdc9d4fe2d",
+    "textLength": 1332,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枣阳酸浆面",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

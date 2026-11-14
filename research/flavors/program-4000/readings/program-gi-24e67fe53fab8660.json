@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-24e67fe53fab8660",
+  "title": "地理标志公告 · 2012年第37号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC37%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "4b9b4be4d17dcfd4342d61fad3e9d9b8bb64ff100e883bf2df3203f3b6827c1a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC37%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "4b9b4be4d17dcfd4342d61fad3e9d9b8bb64ff100e883bf2df3203f3b6827c1a",
+    "textSha256": "26ce7940888972e653474dfe3df9e5aa21b63f512df8594f43814a9dbdc27d72",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "京白梨",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "门头沟区",
+      "type": "ingredients",
+      "sectionSha256": "ad9decc54130ef8ad3bf9971192fe96a5266e2cb7d8d32172261e6d0dcf4f42d",
+      "headingOffset": 1680,
+      "scope": "京白梨产地范围为北京市门头沟区军庄镇、妙峰山镇、王平镇、潭柘寺镇4个镇现辖行政区域。",
+      "variety": "秋子梨系的当地原生品种",
+      "sensory": "果实扁圆,果皮光滑细薄,后熟前果皮呈黄绿色,果肉乳白、细腻,果肉中石细胞少;后熟后果皮转为黄白色,果肉柔软多汁,酸甜适口,香味浓",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "克东天然苏打水",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "克东县",
+      "type": "drinks",
+      "sectionSha256": "215e61a995aeb6aa0590e532c5e00027284ea80f6fd11454538c2bd649d3c802",
+      "headingOffset": 2567,
+      "scope": "克东天然苏打水产地范围为黑龙江省克东县现辖行政区域。",
+      "variety": "",
+      "sensory": "清澈透明,并具有克东天然苏打水滑顺口感,口味纯正",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

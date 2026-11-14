@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-11362558e362dd79",
+  "title": "地理标志公告 · 2008年第133号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC133%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "63c19beef21ee249b54d27033980c3446c8ca934ee3178a029f26765c76e432d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC133%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "63c19beef21ee249b54d27033980c3446c8ca934ee3178a029f26765c76e432d",
+    "textSha256": "2d6c3d3c262977cb301584fd40356285f0bd1c1bc56220e58cab9b27045db028",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "天目山铁皮石斛",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "临安区",
+      "type": "ingredients",
+      "sectionSha256": "b78a21e2bd57709f9d02ae306394e5bd8e322761f720105aa4f1242ecf6e7561",
+      "headingOffset": 1791,
+      "scope": "天目山铁皮石斛地理标志产品保护范围以浙江省临安市人民政府《关于划定天目山铁皮石斛地理标志产品保护区域的函》(临政发〔2007〕156号)提出的范围为准,为浙江省临安市现辖行政区域。",
+      "variety": "铁皮石斛",
+      "sensory": "(1)鲜品:鲜茎具叶鞘不完全包被形成明显的环状间隙(黑节);易折断,断口平整;口感微甜,咀嚼渣极少、粘液丰富。(2)干品:易折断,口感微清香,咀嚼渣极少、粘液丰富",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

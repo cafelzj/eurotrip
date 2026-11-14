@@ -1,0 +1,23 @@
+{
+  "id": "program-web-964fb5baf2190a962f93",
+  "title": "兴化多举措推动餐饮品牌升级_聚焦泰州",
+  "url": "https://www.jujiaotaizhou.com/a/jingji/14991.html",
+  "checked": "2026-11-14",
+  "responseSha256": "923c1257f677aaf4035c62808d7cef450eda2ed20db521abb8f0eab15472dfc8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "643a2ce98924829d416f80a09d82c36bb853d5a1c6837ba212fee45e1889dd7e",
+    "textLength": 1357,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沙沟鱼圆",
+      "province": "jiangsu",
+      "city": "泰州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

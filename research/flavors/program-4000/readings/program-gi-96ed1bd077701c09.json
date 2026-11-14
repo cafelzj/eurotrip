@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-96ed1bd077701c09",
+  "title": "地理标志公告 · 2015年第143号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC143%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0ec392e1a92ab9b804c40ece18fff60d4e32d1a4bc3e598e1a02784f69693b77",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC143%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0ec392e1a92ab9b804c40ece18fff60d4e32d1a4bc3e598e1a02784f69693b77",
+    "textSha256": "c030e6b17f33ef7a76900f15f43cd9d640b621a4d01f6c1107553ef67e44ca7a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "高平大黄梨",
+      "province": "shanxi",
+      "city": "晋城",
+      "locality": "高平市",
+      "type": "ingredients",
+      "sectionSha256": "a6b65362e3d2292cc98bdb4a2c1b318ff2de8ca2b3a49d0f4ee853d6052482ac",
+      "headingOffset": 6871,
+      "scope": "高平大黄梨产地范围内的生产者,可向山西检验检疫局提出使用“地理标志产品专用标志”的申请,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "果色黄绿,酸甜可口、汁多味浓",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "东辽黑猪",
+      "province": "jilin",
+      "city": "辽源",
+      "locality": "东辽县",
+      "type": "ingredients",
+      "sectionSha256": "67a77f65fafdd1f804addd34c4637ddb5e5f5e89376f88b6f4bbd56171819ca6",
+      "headingOffset": 7445,
+      "scope": "东辽黑猪产地范围内的生产者,可向吉林省东辽县质量技术监督局提出使用“地理标志产品专用标志”的申请,经吉林省质量技术监督局审核,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "1.活体猪:通体黑色,体质强健,额宽嘴短,两耳下垂,瘦肉率高。2.猪肉:有大理石条纹,系水力高,肉质紧实,肥而不腻。(二)",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "天华谷尖(南阳谷尖)",
+      "province": "anhui",
+      "city": "安庆",
+      "locality": "太湖县",
+      "type": "tea",
+      "sectionSha256": "616b8cb20f80bfbc47481de4817b2e4990e647cca2bb86b0092756669057e3ee",
+      "headingOffset": 8174,
+      "scope": "天华谷尖(南阳谷尖)产地范围内的生产者,可向安徽省太湖县质量技术监督局提出使用“地理标志产品专用标志”的申请,经安徽省质量技术监督局审核,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "形似稻谷,滋味鲜爽、醇厚,色泽翠绿,汤色碧绿,叶底匀整明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "宣城木榨油",
+      "province": "anhui",
+      "city": "宣城",
+      "locality": "宣州区",
+      "type": "ingredients",
+      "sectionSha256": "efc31e451b4d860f91ab7a896b4d1a4f0268797b484dc70d5ec2d6b4529c7618",
+      "headingOffset": 8894,
+      "scope": "宣城木榨油产地范围为安徽省宣城市宣州区现辖行政区域。",
+      "variety": "",
+      "sensory": "项目要求气味、滋味具有菜籽油固有的气味和滋味,香味浓郁持久,口感纯正。透明度色泽枣红、澄清透亮,不浑浊",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

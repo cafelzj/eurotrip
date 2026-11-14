@@ -1,0 +1,23 @@
+{
+  "id": "program-web-75dddde5609d45050d6d",
+  "title": "〖权威发布〗山西举行2026非遗面食大会新闻发布会_活动_中国烹饪协会_朔州",
+  "url": "https://www.sohu.com/a/1050738947_121106991",
+  "checked": "2026-11-14",
+  "responseSha256": "f0f7b25f656db81b7eaa7517f55f68ec2ab880ea201df33819c153f73bedcecf",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9de0c0faee3d6affe98f4b9b38ab3f126be6f3f01b176f4bf36ca9d0cec6a62a",
+    "textLength": 6496,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "中阳木耳",
+      "province": "shanxi",
+      "city": "吕梁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

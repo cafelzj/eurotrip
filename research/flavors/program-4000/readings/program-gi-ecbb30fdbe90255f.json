@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-ecbb30fdbe90255f",
+  "title": "地理标志公告 · 2006年第193号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC193%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "088c0feb17b0221f942d424805cfa242a524e4b4d3dae30ae49661dce0a5d97e",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC193%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "088c0feb17b0221f942d424805cfa242a524e4b4d3dae30ae49661dce0a5d97e",
+    "textSha256": "3eb7a24ef44a2b4c963d038eba6650732c2be1f5a18d70eeae7982fc8e63ec41",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "遂昌竹炭",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "遂昌县",
+      "type": "crafts",
+      "sectionSha256": "189c20a4d4043a682caa79d0f6b06822011906f0563f8a6ebb9ee82de1991792",
+      "headingOffset": 0,
+      "scope": "遂昌竹炭地理标志产品保护范围以浙江省遂昌县人民政府《关于要求划定遂昌竹炭地理标志产品保护范围的请示》(遂政[2005]49号)提出的范围为准,为浙江省遂昌县现辖行政区域",
+      "variety": "1.产地:浙江遂昌现辖行政区域及同属仙霞岭山系的龙泉、松阳、浦城、江山、衢州、龙游、武义等县具有相似生长条件、生长健壮的毛竹。2.种名:毛竹(Phyllostachysheterocyclacv.pubescens)3.竹龄:5年以上",
+      "sensory": "(1)筒炭:黑色,无裂缝,金属钢音,断面有金属光泽;(2)片炭:黑色,无裂缝,金属钢音,断面有金属光泽;(3)颗粒炭:黑色,无杂质,直径在3至20mm,分级均匀;(4)粉炭:黑色,无杂质,直径在1mm以下,分级均匀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

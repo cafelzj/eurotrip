@@ -1,0 +1,23 @@
+{
+  "id": "program-web-997977b3ca46cc6ba2d3",
+  "title": "江苏徐州10大名小吃，你吃过几种",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_NEWSTAB_ZH&cpid=666&ctype=news&docid=105113987c83d6040f4c4e5c21085d5d894cc64&dy_scenario=relate&emuiVer=34&pageType=26&r=CN&sdkVersion=120101339&tn=dd0ee6653f97f52a100992264ba8ecb175979ecb35f0cbe70e4b39cb1ebe6260&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "bb6a0a3cd05ab18fc0a21d121db66b023371e786c479a78680c8f73b31b53baa",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5e23c9bcfdced60270dc224873bb5fcca87b5e6e155af490ec09dd29f9703c7d",
+    "textLength": 2248,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "把子肉",
+      "province": "jiangsu",
+      "city": "徐州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-8c7c5ff6b42b5944a43d",
+  "title": "凤凰古城-湖南凤凰古城介绍→买购APP",
+  "url": "https://www.maigoo.com/citiao/111743.html",
+  "checked": "2026-11-14",
+  "responseSha256": "2f9558cb87866a0da1c1fdf37a7632c193032c36ba21b06daf93589f23942e30",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "350a63515b7afe743a0f2bfcfc3f4e87fae3bcae0aa34a76f1b20e3cf8e5fc3e",
+    "textLength": 14584,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "血粑鸭",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "酸汤鱼",
+      "province": "hunan",
+      "city": "湘西州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

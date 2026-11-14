@@ -1,0 +1,71 @@
+{
+  "id": "program-web-025450657a6a02e580af",
+  "title": "中国之窗｜湖南——三湘四水 相约湖南 | 香港国际传播中心",
+  "url": "https://www.hkic.org.cn/tanyuan/2023/01/29/1851.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7dab20786ffa214c02a5980b878e2d53095b7da949e090d6f7a2fad6e416b225",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e31dae1006b52dd9b2dfc3fa06e44a4bafada1a54bba5353abf662929383245",
+    "textLength": 28058,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炎陵白鹅",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "灯芯糕",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "邵阳米粉",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "津市牛肉粉",
+      "province": "hunan",
+      "city": "常德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "道州灰鹅",
+      "province": "hunan",
+      "city": "永州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "麻阳冰糖橙",
+      "province": "hunan",
+      "city": "怀化",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "涟源精制面粉",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

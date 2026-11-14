@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8dd34b5ba63e17a16817",
+  "title": "2025“品味洛宁”妈妈菜之蒸肉争霸赛圆满收官",
+  "url": "https://ha.people.com.cn/n2/2025/0929/c378397-41368865.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d906e1af5c110f3d7710ea55107dab7fd147609753151070cfdd68d7462ee34f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "43b44ccd3c4453bc7e2825a2926e79e370113a3c2d27cffbe3346ed839de6f3a",
+    "textLength": 2585,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "洛宁酸牛肉",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

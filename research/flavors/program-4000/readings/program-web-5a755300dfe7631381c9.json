@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5a755300dfe7631381c9",
+  "title": "苏州非物质文化遗产消费指南：哪些能买？哪里能看？ - 一座城",
+  "url": "https://www.secretao.com/archives/556",
+  "checked": "2026-11-14",
+  "responseSha256": "01175d096bd4b2998654629aef41263c644569fe04d8bb3259d245da19e5dbb3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "622bce953d6ddc0ec4f70f43b32b16b001aa91ac35c886bd3c9fa06e77e3ac32",
+    "textLength": 11260,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "叫花鸡",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

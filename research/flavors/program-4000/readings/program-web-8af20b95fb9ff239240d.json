@@ -1,0 +1,47 @@
+{
+  "id": "program-web-8af20b95fb9ff239240d",
+  "title": "盘点河南开封美食 中国八大古都之一 你想吃的这都有_中部纵览_中国网",
+  "url": "https://henan.china.com.cn/finance/2020-05/08/content_41144503.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "32743f2e48f1700b579d17e4efc10f8ea78e293a0792646dd68f3a67d7582fab",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b5544eb340f0c3fbe7728ee327161a131169438196b73f04be5239bbbe51491",
+    "textLength": 457,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "套四宝",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "酱瓜鸡丁",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "灌汤包",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "炒凉粉",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

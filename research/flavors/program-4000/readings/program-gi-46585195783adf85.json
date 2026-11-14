@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-46585195783adf85",
+  "title": "地理标志公告 · 2008年第14号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b18e40c6bf7adba4145371ddc61fc3361276e4421c2ecc72b10afe97f835355a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b18e40c6bf7adba4145371ddc61fc3361276e4421c2ecc72b10afe97f835355a",
+    "textSha256": "ba9316b5f56957fa4e56e5ae80c688cfa8138e8339ccbd51a8c9efaa9aef754c",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永济芦笋",
+      "province": "shanxi",
+      "city": "运城",
+      "locality": "永济市",
+      "type": "ingredients",
+      "sectionSha256": "c30185c1417f1040c138d876bf9d77896ec432944efce231c10394db6a905572",
+      "headingOffset": 0,
+      "scope": "永济芦笋地理标志产品保护范围以山西省永济市人民政府《关于确定永济芦笋地理标志产品保护产地范围的函》(永政函〔2007〕14号)提出的范围为准,为山西省永济市现辖行政区域",
+      "variety": "",
+      "sensory": "基部直径≥8cm,长度<20cm,笋茎圆柱形,顶端如箭,通体笔直修长,色泽晶莹剔透,色白皮薄,直径0.8cm以上,其中≥1.2cm占80%以上",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

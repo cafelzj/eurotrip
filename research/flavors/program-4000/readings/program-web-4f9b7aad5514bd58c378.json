@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4f9b7aad5514bd58c378",
+  "title": "舌尖、指尖、心尖上的许昌！一文带你看遍咱家乡的非遗“全家福”",
+  "url": "https://xuchang.gov.cn/zjxc/005010/20260417/59a74fa7-3836-4903-b6ea-d2134bdea7a9.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b91e685f7dc25ebf2b3be12d1fd31b7c5da3d2fe5292687e6d117973609c92f4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9749f780530af2b7fcc79f5f52274d99e33af904551ee13ad65f1af9273b4c2c",
+    "textLength": 3543,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鄢陵吊炉烧饼",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

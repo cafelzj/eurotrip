@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c7b981ab2e2c067ff699",
+  "title": "黄冈特产小吃前十名排行 湖北黄冈好吃的十大美味名吃盘点→买购APP",
+  "url": "https://www.maigoo.com/top/427135.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c698aa0e4595c5cb346b7a14bd7aadfb7213d989c33a681fd46eaf961276d118",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5210c46391a518645f332a1b60692fde179f71404269d59708eccf2613639765",
+    "textLength": 6633,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "麻城肉糕",
+      "province": "hubei",
+      "city": "黄冈",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-ffcecd287058e42c",
+  "title": "地理标志公告 · 2005年第121号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7c96124c24ec0e89d41b29808cd4ff91149bf4df87527847df164e18593a7bbe",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7c96124c24ec0e89d41b29808cd4ff91149bf4df87527847df164e18593a7bbe",
+    "textSha256": "990adb63eb728928c41d298ddf874f0b93e785e067d6cb8e72b6d922fe7486ce",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "符离集烧鸡",
+      "province": "anhui",
+      "city": "宿州",
+      "locality": "宿州相关产区",
+      "type": "dishes",
+      "sectionSha256": "4fe7bfcd044d1aefac83f8407a138db2347845a224ae88baef078acd529aa86b",
+      "headingOffset": 0,
+      "scope": "符离集烧鸡地理标志产品保护范围以安徽省宿州市?桥区人民政府《关于请求将符离集烧鸡列为地理标志产品予以保护的请示》(?政秘[2004]65号)提出的地域范围为准,为安徽省宿州市?桥区现辖行政区域",
+      "variety": "1.鸡种:淮北麻鸡。2.鸡源:选自安徽省宿州市、淮北市、亳州市、固镇县及江苏省铜山县南部地区散养的淮北麻鸡。料鸡选用经检验检疫合格当年或隔年的成年健嫩活鸡,",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

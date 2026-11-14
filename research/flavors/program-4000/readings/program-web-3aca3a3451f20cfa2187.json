@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3aca3a3451f20cfa2187",
+  "title": "苏州市公布首批市级非遗工坊，昆山2家入选 | 昆山市人民政府",
+  "url": "https://www.ks.gov.cn/kss/bmdt/202310/2ba55c51230b463a8e8a0d3259acf676.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "f2211416c953349aca9e24913ac7d0507fffaff986e71c8f4d68ca1da9a14866",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a685bdb8b500da3c9990fdaa3fb2a35a46c1953f2ab6eaf46b75eb35a9e4f978",
+    "textLength": 1448,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "奥灶面",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

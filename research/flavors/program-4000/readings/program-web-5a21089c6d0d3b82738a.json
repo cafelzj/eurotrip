@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5a21089c6d0d3b82738a",
+  "title": "城厢区_百度百科",
+  "url": "https://bkso.baidu.com/item/%E5%9F%8E%E5%8E%A2%E5%8C%BA/234676?fromModule=lemma_inlink",
+  "checked": "2026-11-14",
+  "responseSha256": "7c3bbeb8778e17741582aadbae99c95741c63b223245c18a162cb809ca09e2fd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b901e757189b2774d97b3110509023751d1b9f725425f940bb7fafc9ee74f252",
+    "textLength": 13848,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "兴化桂圆",
+      "province": "fujian",
+      "city": "莆田",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

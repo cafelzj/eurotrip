@@ -1,0 +1,31 @@
+{
+  "id": "program-web-bb5648982d1c9cde51a5",
+  "title": "〖品味老城•记忆洛阳〗舌尖上的老城最洛阳",
+  "url": "https://m.thepaper.cn/newsDetail_forward_12529704",
+  "checked": "2026-11-14",
+  "responseSha256": "193e2a621ccab24ec1500d1ba1d4b902b4d2a7685ec7062cb00720cd2a53ad20",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b53610199abbd7472b4201d68d1cc217b55d3abcf0fd4f0f576ea89f9ba07f29",
+    "textLength": 4182,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "驴肉汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "不翻汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

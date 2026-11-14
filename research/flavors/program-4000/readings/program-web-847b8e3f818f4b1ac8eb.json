@@ -1,0 +1,23 @@
+{
+  "id": "program-web-847b8e3f818f4b1ac8eb",
+  "title": "看这里！一同解锁柯城12条亚运主题线路_衢州有礼_中国网",
+  "url": "https://qz.china.com.cn/2023-07/13/content_42444984.html",
+  "checked": "2026-11-14",
+  "responseSha256": "cef7d05639ef41650ecb9d613b3cd49985ed22e9ae246f569c34689f1af92778",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b1aea02ea5764daecb21689a75ea2215a2fdd82dd1cc68fb948384c9af37ff11",
+    "textLength": 3701,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "三头一掌",
+      "province": "zhejiang",
+      "city": "衢州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

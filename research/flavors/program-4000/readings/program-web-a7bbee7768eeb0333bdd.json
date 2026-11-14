@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a7bbee7768eeb0333bdd",
+  "title": "济任政字〔2025〕20 号",
+  "url": "https://www.jining.gov.cn/jpolicypub/jpolicy_file/filedata/2026/01/30/401350e8d15b43fbab12180363bb6e16.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2c552a00eaf5ea4b80d3fbee4783b23b605b1c6906eec759a0dc7380aaec00be",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9fa9100ca7025508033172ee094e4a1058b25d18e2064480a8bdb8bb96549180",
+    "textLength": 2231,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "甏肉干饭",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

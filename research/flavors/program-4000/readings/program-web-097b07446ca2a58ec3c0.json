@@ -1,0 +1,23 @@
+{
+  "id": "program-web-097b07446ca2a58ec3c0",
+  "title": "衡阳特产 - 正宗湖南衡阳本土特产名录〖中华特产网衡阳特产大全〗",
+  "url": "https://www.zhtechan.cn/hengyang/",
+  "checked": "2026-11-14",
+  "responseSha256": "731319885004ea26c7c1129e56df2773f6d8c5d3b0b6e435566c7fdd749f490e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "422e272ff66b3f36fdfe2fab8d1dd087f8cadb76a72ba5b674a91c73c206a12c",
+    "textLength": 1045,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "耒阳茶油",
+      "province": "hunan",
+      "city": "衡阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-26ab97dc5f649eed",
+  "title": "地理标志公告 · 2011年第138号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "206d715cf006f21a34c1f14012c73e530a1ab4bb664ba6d7e6ed6a358cb1c5af",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "206d715cf006f21a34c1f14012c73e530a1ab4bb664ba6d7e6ed6a358cb1c5af",
+    "textSha256": "137373abf3ab9c2c9c30cfd8f8839b034962dd99d747e4b03510ed58cdb96a92",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "杭州丝绸",
+      "province": "zhejiang",
+      "city": "杭州",
+      "locality": "杭州相关产区",
+      "type": "crafts",
+      "sectionSha256": "0e63cd1f3d63e7349a995b02d2812ceb0a029c73d307c4dac86436f4e01eb6da",
+      "headingOffset": 1930,
+      "scope": "杭州丝绸产地范围为浙江省杭州市现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)生丝:色泽白、手感软、光泽明;纤度偏差小,均匀度、洁净度好;无霉丝、丝把硬化等疵点。(2)白坯:丰满,织纹缜密,光泽自然,悬垂性佳。(3)色绸:手感柔和而富有弹性,光泽肥亮、鲜艳,质地丰满,织纹缜密,光泽自然,花型绚丽丰满,华丽高雅、艳而不俗,悬垂性佳。织锦类绸面经色均匀,用多种纬色分段交叉,色泽鲜艳,富有艺术效果。2.质量指标:(1)生丝:纤度偏差纤度最大偏差均匀二度变化清洁,分洁净,分名义纤度Den<den<(条)<>>15den以下1.253.301516~22den1.403.90623~29den1.554.50495.090.030~49den2.005.80350以上2.557.403(2)白坯、色绸:等级项目AAA幅宽偏差%±1.5±2.0密度偏差%-2.0-3.0质量偏差%-3.0-4.0断裂强力N≥220经向+2~-4.0+2~-6.0练白纺类织纬向+2~-1.0+2~-2.0物经向+2~-3.0+2~-4.0印染纬向+1~-1.0+1~-1.0经向+2~-6.0+2~-9.0尺寸练白绉类织纬向+1.5~-3.0+2~-5.0物经向变化率%印染+2~-3.0+2~-5.0纬向纬向+2~-3.0+2~-5.0练白其他织纬向+2~-2.0+2~-2.0物经向+2~-3.0+2~-4.0印染纬向+1~-1.0+1~-2.0耐洗变色43~4染色牢度,耐水沾色43~4级耐汗渍耐干摩擦43~4外观疵点,幅宽114cm及以下0.50.9分/m≤幅宽114cm以上0.61pH值6.8~7.26.5~7.5等级项目AAA可分解芳香胺染料禁用禁用异味无无甲醛含量(mg/k",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "仰韶大杏",
+      "province": "henan",
+      "city": "三门峡",
+      "locality": "渑池县",
+      "type": "ingredients",
+      "sectionSha256": "be5d7e9ea38846616881ec2c00662d9f11213eadb1f54f923f2cfa870441e4d8",
+      "headingOffset": 6461,
+      "scope": "仰韶大杏产地范围为河南省渑池县果园乡、城关镇、张村镇、英豪镇、洪阳镇、天池镇、仰韶乡、陈村乡、仁村乡、坡头乡、段村乡、南村乡12个乡镇现辖行政区域。",
+      "variety": "鸡蛋杏",
+      "sensory": "果实个大,底色为橙黄色,阳面有红晕。肉质细腻,酸甜爽口,香味浓郁,汁多纤维少",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "仰韶柿饼",
+      "province": "henan",
+      "city": "三门峡",
+      "locality": "渑池县",
+      "type": "ingredients",
+      "sectionSha256": "aef06b91b79ab3773a79b58108d29ccff38459900541289c6f97e2f8d4b4f049",
+      "headingOffset": 7221,
+      "scope": "仰韶柿饼产地范围为河南省渑池县段村乡、南村乡、城关镇、张村镇、英豪镇、洪阳镇、天池镇、仰韶乡、陈村乡、仁村乡、果园乡、坡头乡12个乡镇现辖行政区域。",
+      "variety": "牛心柿",
+      "sensory": "外白如霜,柿饼拉开呈橙红色半透明状,软而不滞,甜而不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

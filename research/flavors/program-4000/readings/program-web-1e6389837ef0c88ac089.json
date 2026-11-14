@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1e6389837ef0c88ac089",
+  "title": "到厦门市井深巷里吃最纯正的闽南古早味，《快把我哥带走》取景地 | 界面 · 财经号",
+  "url": "https://m.jiemian.com/article/2426019.html",
+  "checked": "2026-11-14",
+  "responseSha256": "69a44ec81aacf7d9d10148cd55110670ed7d5ad6745d5f0cee8c021bd4f65a78",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b01305673609b6007dcde48c00bcaf13068c33a32b67a862a6d7fe6676e2d28",
+    "textLength": 5350,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "面线糊",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

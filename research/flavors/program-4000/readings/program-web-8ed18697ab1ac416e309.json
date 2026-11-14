@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8ed18697ab1ac416e309",
+  "title": "郭城摔面‌",
+  "url": "https://www.meipian.cn/5laa8tsi",
+  "checked": "2026-11-14",
+  "responseSha256": "c6dca2ee9398fe4f9271ecec7effbaa412670de7953be055d9a900cbcc116c78",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6ace453e3cba3b68da4dcbe0ccb07e0ea1617857084db4cb5146605e1183363c",
+    "textLength": 8152,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海阳白黄瓜",
+      "province": "shandong",
+      "city": "烟台",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

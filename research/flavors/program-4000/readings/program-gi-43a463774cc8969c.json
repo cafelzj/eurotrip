@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-43a463774cc8969c",
+  "title": "地理标志公告 · 2011年第97号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5f22e5e3e17a0e75ac8c485d20b1874f063109a2c84202bd2bf9bbc39531afd7",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5f22e5e3e17a0e75ac8c485d20b1874f063109a2c84202bd2bf9bbc39531afd7",
+    "textSha256": "7d5ccc744f175c4e491a084148789e02e1d2395431d31a9836e63ef18ff15bff",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "东陵红树莓",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "沈阳相关产区",
+      "type": "ingredients",
+      "sectionSha256": "6b003ef53282465d751a23fec92c6dde7cf8b37cb3c07ec00e330e7a8e71100f",
+      "headingOffset": 1825,
+      "scope": "东陵红树莓产地范围为辽宁省沈阳市东陵区祝家街道、深井子街道、李相街道、王滨沟乡4个街道乡现辖行政区域。",
+      "variety": "当地原生品种及引进适生品种",
+      "sensory": "果形端正、饱满,果面光泽亮丽,果实鲜红色,果肉肉质柔软多汁,酸甜适口,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "老龙口白酒",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "大东区",
+      "type": "alcohol",
+      "sectionSha256": "166e045d376185a21c7e44e8fd20c0a0aaa69a5bedfdbef7647403f06be86406",
+      "headingOffset": 2803,
+      "scope": "老龙口白酒产地范围为辽宁省沈阳市大东区长白山余脉沈阳天柱山水带上,东经123°26′43.96′′至123°35′9.29′′,北纬41°46′59.79′′至41°54′19.69′′。",
+      "variety": "",
+      "sensory": "项目要求酒精度/(%vol)42-6538色泽无色(或微黄)透明香气窖香糟香雅逸、醇香怡醇厚绵柔,甘美爽净,香味谐口味醇和绵软,香味谐调,余味怡畅调,回味悠长风格具有本品独特风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄岗柳编",
+      "province": "anhui",
+      "city": "阜阳",
+      "locality": "阜南县",
+      "type": "crafts",
+      "sectionSha256": "a7f968cb7c542d4c6846425ab50c98f3b4e7483dc77205db72a764c0243256cb",
+      "headingOffset": 4646,
+      "scope": "黄岗柳编产地范围为安徽省阜南县黄岗镇、郜台乡、中岗镇、张寨镇、曹集镇、老观乡、王家坝镇、于集乡、王化镇、朱寨镇、焦陂镇、地城镇、柳沟镇、苗集镇14个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "结构严密,形体圆润,手感光滑细腻,色泽一致,质轻坚固,无斑痕,无污染,透气性好,耐挤压,经久耐用。(1)柳篮产品:柳条匀称,隙间均匀;产品平整、细腻、柔韧,无炸条,无裂条,无断条,扭纹自然、流畅,条间隙小,色泽光亮。(2)家具产品:柳条均匀、密实、骨架硬实,无断茬、无断条、无破头、无露钉、无钉隙,平整、流畅,不悬模、不变形。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

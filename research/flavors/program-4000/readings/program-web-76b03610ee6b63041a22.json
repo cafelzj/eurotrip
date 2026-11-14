@@ -1,0 +1,23 @@
+{
+  "id": "program-web-76b03610ee6b63041a22",
+  "title": "嘉兴桐乡深挖“春日经济”潜力 激活消费新动能",
+  "url": "https://zj.people.com.cn/n2/2025/0331/c186327-41181143.html",
+  "checked": "2026-11-14",
+  "responseSha256": "61264d8d42630311d71d3bba031b99264a505724a7754aba51c76f489c09d729",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "27eb229438ac77fc1aada5e041007828cfd4767f678cc434c01c8ef855e637cf",
+    "textLength": 3500,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "杭白菊",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

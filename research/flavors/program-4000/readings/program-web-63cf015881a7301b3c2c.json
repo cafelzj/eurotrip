@@ -1,0 +1,23 @@
+{
+  "id": "program-web-63cf015881a7301b3c2c",
+  "title": "迎旅发·游怀化②丨藏书地更藏烟火气，辰溪的美藏在眼前与舌尖_湖南文旅_旅游频道",
+  "url": "https://tour.rednet.cn/content/646655/51/12055013.html",
+  "checked": "2026-11-14",
+  "responseSha256": "95093dad177f549f82711f60b1f6155cd9ef7475d596e0c3ed6d3ca3aae789ca",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5ce20d019f1a1828fe072371b7fc28b8cdb6758ba616d2a674022cd4fbc42258",
+    "textLength": 2636,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "辰溪酸萝卜",
+      "province": "hunan",
+      "city": "怀化",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

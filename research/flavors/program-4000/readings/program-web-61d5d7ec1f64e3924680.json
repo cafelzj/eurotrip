@@ -1,0 +1,23 @@
+{
+  "id": "program-web-61d5d7ec1f64e3924680",
+  "title": "黄石市文化和旅游局局长肖婷做客“极目楚天 畅游湖北”访谈 工业名城华丽变身旅游胜地",
+  "url": "https://m.cnhubei.com/content/2022-06/30/content_14866643.html",
+  "checked": "2026-11-14",
+  "responseSha256": "1385758caf0d52232b56f1d418fc96496062a9ee3e13c4e80c81d00be42f6f9d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a4eee586e204ee3d0119134540a29e30b183371dbad45211ca4b8897f409af59",
+    "textLength": 3008,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "保安狗血桃",
+      "province": "hubei",
+      "city": "黄石",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5207dee1b0df8e396948",
+  "title": "徐州市丰县副县长、科技镇长团团长陈冠军一行 来院考察调研 -食品学院-江南大学食品学院",
+  "url": "https://foodsci.jiangnan.edu.cn/info/1106/16487.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "76acd397d6459faf9c02f8601b8d027aea098693ec47c2c36cead9a2bd22c80b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b7be2345abef9f72f6dd3acff8daf4cdfb29f0d15abd7183594b53cf6326e65d",
+    "textLength": 1069,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "丰县白酥梨",
+      "province": "jiangsu",
+      "city": "徐州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

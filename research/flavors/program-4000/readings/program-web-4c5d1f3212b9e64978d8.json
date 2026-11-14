@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4c5d1f3212b9e64978d8",
+  "title": "厦门“新闽菜”：一半是传统 一半是创新_ 全省资讯_福建省人民政府门户网站",
+  "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/flsxkmh/202412/t20241217_6592779.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "e83a35421019c7250dc3a610f1057b9754b47630ff63f17311eb585f2a884c0f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "01496f6783766c44fe769c7b3a427a2e41db8a6432d3bf7d9182e0d3420498ad",
+    "textLength": 8691,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沙茶面",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

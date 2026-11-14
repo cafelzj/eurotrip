@@ -1,0 +1,23 @@
+{
+  "id": "program-web-29ac3c72b9a9c9236e24",
+  "title": "福清哥 - 福清网|福清特色美食|福清旅游攻略|福清生活网",
+  "url": "https://www.fuqingge.com/",
+  "checked": "2026-11-14",
+  "responseSha256": "a2c4ee715ad3e5e861c703b2d371964122323db7df9ccb48b1d8dae4e19d5ac5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "aa492139b3cb75486841662a09a9206627535e5b8dff111d76137a4fd4a30d41",
+    "textLength": 7123,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海蛎饼",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

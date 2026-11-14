@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-79c2fbc53ce59e0b",
+  "title": "地理标志公告 · 2009年第41号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "3fcf5bcd09755f006dd6ad7c5c80eb21ceea8f8fb8071f7d7ce660a67df53907",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "3fcf5bcd09755f006dd6ad7c5c80eb21ceea8f8fb8071f7d7ce660a67df53907",
+    "textSha256": "db5f445266f04b1eac05b0848048b985caf2b219f572dd62e413a61b5207d365",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "讷河马铃薯",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "讷河市",
+      "type": "ingredients",
+      "sectionSha256": "e139d6a977aeed858c65bad9b6014d573c0169af3e3c6df77adc433587e40da5",
+      "headingOffset": 1785,
+      "scope": "讷河马铃薯地理标志产品保护范围为黑龙江省讷河市讷河镇、拉哈镇、老莱镇、龙河镇、学田镇、通南镇、九井镇、讷南镇、二克浅镇、长发镇、六合镇、同义镇、同心乡、和盛乡、兴旺乡、孔国乡等16个乡镇现辖行政区域。",
+      "variety": "讷漠尔",
+      "sensory": "形状椭圆形,薯形规整,直径5cm至12cm,单薯重150g至700g,芽眼浅,无空心。口感:熟食表现为干、甜、面,不回生、无麻辣感",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "中国北极蓝莓",
+      "province": "heilongjiang",
+      "city": "大兴安岭",
+      "locality": "大兴安岭相关产区",
+      "type": "ingredients",
+      "sectionSha256": "190d86fbf32c90ddf70d9c0e4bb6ba81e0f8afa7b0f46ed6759442c529d26050",
+      "headingOffset": 2580,
+      "scope": "中国北极蓝莓地理标志产品保护范围为黑龙江省大兴安岭地区现辖行政区域。",
+      "variety": "",
+      "sensory": "项目要求色泽蓝黑色或紫黑色果面无碰压伤、磨伤、果锈、药害、虫伤滋气味酸甜适口、皮薄、果肉细腻,具有本品特有的滋气味组织状态大小均匀园粒形状、成熟饱满杂质无肉眼可见杂质",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

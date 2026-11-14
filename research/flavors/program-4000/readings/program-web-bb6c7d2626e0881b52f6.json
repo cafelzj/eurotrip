@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bb6c7d2626e0881b52f6",
+  "title": "内乡县美食攻略_内乡县有什么特色小吃_内乡县美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g41369/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "06132b8e27b925c63c9511b596509299366142c95aa32616c2e58b2c2117bae0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "670d1ca242c571c38e9347e886e706e9884696767f127875aee659e01fa74808",
+    "textLength": 688,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "内乡缸炉烧饼",
+      "province": "henan",
+      "city": "南阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

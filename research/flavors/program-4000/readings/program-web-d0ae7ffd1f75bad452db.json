@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d0ae7ffd1f75bad452db",
+  "title": "辰溪特色非遗美食“香飘”榆树湾 - 怀化 - 新湖南",
+  "url": "https://www.hunantoday.cn/news/xhn/202509/30505527.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7367ec536641a0530613c5eafe88ce53c98f391b8f39b2354388d919a4c9697d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7da9d78f79a314b72ec9fb15f8a5ba29423e16c77c26d79fcba8de479f0babae",
+    "textLength": 2297,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "辰溪酸萝卜",
+      "province": "hunan",
+      "city": "怀化",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

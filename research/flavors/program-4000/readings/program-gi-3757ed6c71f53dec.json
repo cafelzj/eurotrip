@@ -1,0 +1,121 @@
+{
+  "id": "program-gi-3757ed6c71f53dec",
+  "title": "地理标志公告 · 2016年第128号_附件",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5b382af13507243a958742ce59a28dc8102a80c69af90195c1e880c20f615c73",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+    "mirrorPdfSha256": "5b382af13507243a958742ce59a28dc8102a80c69af90195c1e880c20f615c73",
+    "textSha256": "845f302bfb63095d09df6275424b9fc3cdafda31688ab845e17b45286537c91e",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "迁安桑皮纸(迁纸)",
+      "province": "hebei",
+      "city": "唐山",
+      "locality": "迁安市",
+      "type": "crafts",
+      "sectionSha256": "63149295daa51f2134a2fa3b7d58acea8404fe4c45d807817ea39d2bccb7e175",
+      "headingOffset": 1694,
+      "scope": "",
+      "variety": "",
+      "sensory": "纸质纯净绵韧,纤维纯正、结构均匀、拉力强、吸水性好、搓折无损、吃墨均匀,行笔流畅",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "建平荞麦",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "建平县",
+      "type": "ingredients",
+      "sectionSha256": "e01a74c3ffdd0deb4d2ac63f106b4d21b2406409a62f0ddc1e6fcc9dbe685875",
+      "headingOffset": 10075,
+      "scope": "",
+      "variety": "",
+      "sensory": "“建平荞麦”米粒浅褐色,无明显感官色差;米粒棱状、饱满,大小一致;荞麦米蒸煮后具有谷香味;建平荞麦粉色泽呈浅白色,和成面团具有较好的粘着性和韧性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "高邮湖大闸蟹",
+      "province": "jiangsu",
+      "city": "扬州",
+      "locality": "高邮市",
+      "type": "ingredients",
+      "sectionSha256": "df09ec57217403dbdf501d8f902f957f72773731090d636275843a65d700707e",
+      "headingOffset": 14605,
+      "scope": "",
+      "variety": "",
+      "sensory": "青背,白肚,金爪黄毛,膏红脂满,肉质细嫩,味甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "如东条斑紫菜",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如东县",
+      "type": "ingredients",
+      "sectionSha256": "a3d94c664bc5959e44da7f113798d59da937b96910396305a5a6c97fec37d11a",
+      "headingOffset": 15525,
+      "scope": "",
+      "variety": "",
+      "sensory": "如东条斑紫菜外观呈黑褐色,光泽明亮,具有浓郁的天然鲜味和香气,紫菜片张平整光滑,具柔韧性。(二)",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "东海西红柿",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "东海县",
+      "type": "ingredients",
+      "sectionSha256": "7b4ce5ab777b1bb284f7c6bc881d2036f5620ca0ec71b5f201717853500664b5",
+      "headingOffset": 17064,
+      "scope": "",
+      "variety": "",
+      "sensory": "肉质面沙,酸甜多汁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "来安花红",
+      "province": "anhui",
+      "city": "滁州",
+      "locality": "来安县",
+      "type": "ingredients",
+      "sectionSha256": "1e84925e8ed3e56928fab4bf2a58a0521d113aed51e9a78f5e8a051bc8af9af1",
+      "headingOffset": 22204,
+      "scope": "",
+      "variety": "",
+      "sensory": "底色青黄,红蕴分明,色艳美观,皮薄肉脆,汁多渣少,酸甜爽口,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "菏泽牡丹籽油",
+      "province": "shandong",
+      "city": "菏泽",
+      "locality": "牡丹区",
+      "type": "ingredients",
+      "sectionSha256": "33e28ed51aed8baff7b5813200525c85cf8aba0bce48df6169239ceb24cdf18c",
+      "headingOffset": 31898,
+      "scope": "",
+      "variety": "",
+      "sensory": "色泽黄色到金黄色,具有牡丹鲜花清香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "烟台绿茶",
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "烟台相关产区",
+      "type": "tea",
+      "sectionSha256": "021c0cb5640998545fcad80f194b7c0b633ab917d5aca8c49d408364b62f4301",
+      "headingOffset": 32727,
+      "scope": "",
+      "variety": "",
+      "sensory": "叶片厚、香气浓、滋味厚、耐冲泡。(1)扁形茶:外形扁平挺直、光滑鲜润、色泽翠绿,汤色碧绿明亮,香气浓郁悠长、持久,滋味醇厚,叶底匀齐成朵。(2)卷曲形茶:条索紧细或紧结,匀整壮实,色泽灰绿起霜,香气清高而持久,滋味浓醇而回甘,叶底嫩绿而厚实。(3)针形茶:外形紧、细、圆、直、绿,有白毫,汤色清澈、绿亮,香气清高,滋味醇和,叶底肥嫩、匀齐",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

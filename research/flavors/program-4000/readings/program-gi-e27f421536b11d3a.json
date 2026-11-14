@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-e27f421536b11d3a",
+  "title": "地理标志公告 · 2011年第174号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC174%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "4957cb67fb3703c8189d14c6368b8771076262922b6fab19adc75135367d1628",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC174%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "4957cb67fb3703c8189d14c6368b8771076262922b6fab19adc75135367d1628",
+    "textSha256": "362843ba9c333fd3bc10dce0e1bfbaec549d3809d31ae90d41592c233e130722",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "辽中寒富苹果",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "辽中区",
+      "type": "ingredients",
+      "sectionSha256": "645127cb33dc828856f2e894086d85674653ea53c631acc5cd61a9668923686a",
+      "headingOffset": 1677,
+      "scope": "辽中寒富苹果产地范围为辽宁省辽中县现辖行政区域。",
+      "variety": "寒富",
+      "sensory": "果实短圆柱形,彩色片状鲜红,全面着色;肉质爽脆,酸甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "辽中鲫鱼",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "辽中区",
+      "type": "ingredients",
+      "sectionSha256": "c59e2ddadcfa6a0781bb2c74ba09128e429fdecca8ae8bd0d508f1086bf04d18",
+      "headingOffset": 2199,
+      "scope": "辽中鲫鱼产地范围为辽宁省辽中县现辖行政区域。",
+      "variety": "当地原生鲫鱼(Carassiusauratus)",
+      "sensory": "鱼体背部呈灰黑色,鳞片紧密,肉质细嫩,肉味鲜美",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "罗田金银花",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "type": "ingredients",
+      "sectionSha256": "cea06bea6864801b34d4fbcb3b687e739ed75fbf547e26440603f97fb12d1e97",
+      "headingOffset": 3640,
+      "scope": "罗田金银花产地范围为湖北省罗田县胜利镇、河铺镇、九资河镇、白庙河乡、大崎乡、平湖乡、三里畈镇、匡河乡、凤山镇、大河岸镇、白莲河乡、骆驼坳镇12个乡镇,天堂寨、薄刀锋、青苔关、黄狮寨4个国营林场现辖行政区域。",
+      "variety": "盘叶忍冬(LoniceratragophyllaHemsl)",
+      "sensory": "金黄色,颜色比其它品种金银花略深;花萼短小,萼筒≥2mm,无毛,华冠唇形,花蕾长3cm至5cm;香气浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "蕲春酸米粉",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "蕲春县",
+      "type": "staples",
+      "sectionSha256": "f0efafec18385195b34200c4b3ffffe7306f96747fd9c8c33253bfa58075678a",
+      "headingOffset": 4407,
+      "scope": "蕲春酸米粉产地范围为湖北省蕲春县蕲州镇、八里湖街道办事处、赤东镇、漕河镇、横车镇、彭思镇、管窑镇、株林镇、刘河镇、狮子镇、青石镇、向桥乡、张塝镇、檀林镇、大同镇15个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽呈乳白色;圆条形、条形均匀,呈凝胶状结构;具有发酵性酸味;柔软爽口,筋道感足,韧性好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c9c7a4c13f43767d",
+  "title": "地理标志公告 · 2007年第141号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "174e3850aaec6ac0c606fb69da5052c314e477fc837763224a0aed2f47a5e12e",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "174e3850aaec6ac0c606fb69da5052c314e477fc837763224a0aed2f47a5e12e",
+    "textSha256": "3c822ac65251c49fb0e2f8c2f2630254cd2c4ab97cf0093fe267d09f4666647d",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "醴陵瓷器",
+      "province": "hunan",
+      "city": "株洲",
+      "locality": "醴陵市",
+      "type": "crafts",
+      "sectionSha256": "301f92707c5aed397012110642d7ffa7a7d4f48086af2c818859fa8f4f736115",
+      "headingOffset": 0,
+      "scope": "醴陵瓷器地理标志产品保护范围以湖南省醴陵市人民政府《关于划定醴陵瓷器地理标志产品地域范围建议的函》(醴政函〔2005〕120号)提出的范围为准,为醴陵市行政区域内陶瓷科技工业园和南桥镇、富里镇、白兔潭镇、浦口镇、王仙镇、王坊镇、东堡乡、东富镇、孙家湾乡、泗汾镇、船湾镇、沈潭镇、清水江乡、大障镇、贺家桥镇、嘉树乡、栗山坝镇、均楚镇、石亭镇、神福港镇、板杉乡、新阳乡、仙霞镇、黄獭嘴镇、枫林市乡、官庄乡、来龙门街道办事处、黄泥坳街道办事处、西山街道办事处、阳三石街道办事处等30个乡镇、街道办事处现辖行政区域",
+      "variety": "",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

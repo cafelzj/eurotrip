@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d2c39290de854ccd2824",
+  "title": "辽宁省凤城市地理标志产品和地理标志证明商标两项地方标准发布-中国质量新闻网",
+  "url": "https://www.cqn.com.cn/zj/content/2024-02/04/content_9026776.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "63602fd08add66c0e2d9049bb810c39ada0dcff31c9bbcd02348e032c3408065",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3355cbee4de7fd81e0ef07b8e05acf28225a84f491dc856f877485f243928f86",
+    "textLength": 1920,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "凤城老窖",
+      "province": "liaoning",
+      "city": "丹东",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

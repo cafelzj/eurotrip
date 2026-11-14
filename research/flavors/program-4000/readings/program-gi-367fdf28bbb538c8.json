@@ -1,0 +1,95 @@
+{
+  "id": "program-gi-367fdf28bbb538c8",
+  "title": "地理标志公告 · 2015年第44号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC44%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "96514bb7cffb2eed58adb7ee60cdde61421754195c5d06c06bfe1b473b24be04",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC44%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "96514bb7cffb2eed58adb7ee60cdde61421754195c5d06c06bfe1b473b24be04",
+    "textSha256": "b2a4aad3d3c52a6d00ac6a10907d787eba886212f274179897d286e595bf8769",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "肇东小米",
+      "province": "heilongjiang",
+      "city": "绥化",
+      "locality": "肇东市",
+      "type": "ingredients",
+      "sectionSha256": "e970466bffe6c4509eb5ff1a969229b38e848980d6b0a3a21e1178abfa0ca250",
+      "headingOffset": 7170,
+      "scope": "肇东小米产地范围为黑龙江省肇东市黎明镇、五里明镇、里木店镇、姜家镇、五站镇、昌五镇、宋站镇、尚家镇、太平乡、向阳乡、德昌乡、明久乡、跃进乡、洪河乡、安民乡、海城乡共16个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "籽粒饱满,色泽金黄,表面光泽,手感滑实;煮粥色泽呈黄,米粒悬浮均匀而粘稠,蒸饭散而不柴,香味浓郁,绵软可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "花果山风鹅",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "灌云县",
+      "type": "ingredients",
+      "sectionSha256": "3d87b38ea9c95d965259c28e6261de39daab9710dc0ddc7f7321c7803948f579",
+      "headingOffset": 8751,
+      "scope": "花果山风鹅产地范围为江苏省灌云县现辖行政区域。",
+      "variety": "",
+      "sensory": "鹅体呈酱黄色,皮薄,肉质致密,有嚼劲,老嫩适中",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大纵湖大闸蟹",
+      "province": "jiangsu",
+      "city": "盐城",
+      "locality": "盐都区",
+      "type": "ingredients",
+      "sectionSha256": "9992263b7587e918602d354457a7699a5da52174821437d0e7ecec336fe742c2",
+      "headingOffset": 10155,
+      "scope": "大纵湖大闸蟹产地范围为江苏省盐城市盐都区大纵湖镇、楼王镇、学富镇、秦南镇、尚庄镇、郭猛镇、大冈镇、龙冈镇、盐龙街道办事处、潘黄街道办事处、张庄街道办事处、新区管委会共12个镇街道办事处管委会现辖行政区域。",
+      "variety": "",
+      "sensory": "青壳,白肚,金爪,黄毛,膏满,肉甜,味鲜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "板浦滴醋",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "海州区",
+      "type": "seasoning",
+      "sectionSha256": "01f5e49ee3efc5916a3c7cd371d8dc08e3b545bc99b4eb36a6faca287583c137",
+      "headingOffset": 11758,
+      "scope": "板浦滴醋产地范围为江苏省连云港市海州区板浦镇现辖行政区域。",
+      "variety": "",
+      "sensory": "琥珀色和红棕色;具有本品特有的香气;酸味柔和,回味绵长,无异味;澄清无悬浮物;酸而不涩,酸中带甜,柔和爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "嘉儒蛤",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "福清市",
+      "type": "ingredients",
+      "sectionSha256": "36f92d9d91d03dd51200b6620ef727ba2f05b9dc5f2070d6671fdfeb0272ac5a",
+      "headingOffset": 13256,
+      "scope": "嘉儒蛤产地范围为福建省福清市,北纬25°41′43.89′′至25°29′33.58′′,东经119°27′42.73′′至119°38′32.76′′,海域滩涂面积105平方公里,围垦区土池面积33.6平方公里。",
+      "variety": "",
+      "sensory": "壳艳体肥,肉质鲜嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "永泰山茶油",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "永泰县",
+      "type": "ingredients",
+      "sectionSha256": "2f9664e4238cd0c3270f637ebea4e7975007bd626e3136cb18307f71d9f4149f",
+      "headingOffset": 14099,
+      "scope": "永泰山茶油产地范围为福建省永泰县现辖行政区域。",
+      "variety": "",
+      "sensory": "油品澄黄通透、有光泽,无涩味,油香浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

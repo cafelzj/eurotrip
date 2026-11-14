@@ -1,0 +1,23 @@
+{
+  "id": "program-web-09de0e44e72e68a991f2",
+  "title": "味道石家莊 | 孔潤常編著 | 河北人民出版社 | HyRead ebook 耕莘健康管理專科學校",
+  "url": "https://ctcn.ebook.hyread.com.tw/bookDetail.jsp?id=178121",
+  "checked": "2026-11-14",
+  "responseSha256": "8b896f88fd4a7effe3f17c226b7e482f7a707384932de10f919d7124038be09d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5220648ba8f2bb1ed55c1baaeb30b7fe142d883d4259a9b3da1c1da0b98ffc46",
+    "textLength": 5056,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "藁城宫酒",
+      "province": "hebei",
+      "city": "石家庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

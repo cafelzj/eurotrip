@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5ed539c9fedbd140e05e",
+  "title": "临汾美食地图首次公开！这家藏在村里的老关家，凭什么火了十几年？_非遗_地理_标志",
+  "url": "https://www.sohu.com/a/998068350_122553792",
+  "checked": "2026-11-14",
+  "responseSha256": "ae9ad19beb7804b839f40f39a9309b3225fa56f37bb96d95c2b1ba3afe00e4d3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "cc40fb723b4f446ee42741403c6b657bc23453cd5c695c3c6a614bfc8afa7578",
+    "textLength": 2258,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "隰县玉露香梨",
+      "province": "shanxi",
+      "city": "临汾",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

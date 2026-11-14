@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-c7fdf478eebd2450",
+  "title": "地理标志公告 · 2011年第69号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC69%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "9b9cd19c23dfca548b8f5c670c1420444183d0488c030a5d2841180eed090e17",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC69%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "9b9cd19c23dfca548b8f5c670c1420444183d0488c030a5d2841180eed090e17",
+    "textSha256": "b187a3d69bbc901c8d3ddcc4c833b5208bce2f8999cae531232796129b2c1960",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大连河豚",
+      "province": "liaoning",
+      "city": "大连",
+      "locality": "大连相关产区",
+      "type": "ingredients",
+      "sectionSha256": "e3a7e5c06e3b9e0ffaabdd070623c56a9ac964a7fd027ebd57b92aad2a23d0f8",
+      "headingOffset": 1689,
+      "scope": "大连河豚产地范围为辽宁省大连市现辖行政区域。",
+      "variety": "红鳍东方鲀[Fugurubripes(TemmincketSchlegel)]",
+      "sensory": "鱼体两侧虎纹清晰,色泽鲜明。肉质洁白滑嫩、晶莹透明",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "双沟酒",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "locality": "泗洪县",
+      "type": "alcohol",
+      "sectionSha256": "9a213be580d3b2b2ebfaaeeb2ad20d672155c58c1c019066341f66b87a3dcc69",
+      "headingOffset": 2727,
+      "scope": "双沟酒产地范围为江苏省宿迁市泗洪县双沟镇现辖行政区域。",
+      "variety": "酿造,加浆用水采用保护区域内的地下水(井深100m以下),水质符合国家生活饮用水相关要求。高粱、小麦、大米、糯米、玉米、大麦、豌豆达到国家相关标准的一级品要求",
+      "sensory": "色清透明、香气浓郁、风味纯正、入口绵甜、酒体醇厚、尾净味悠长。项目标准要求色泽和外观无色(或微黄)透明、无悬浮物、无沉淀香气窖香浓郁、复合幽雅口味醇甜绵柔,丰满协调,味爽净悠长风格具有本品突出风格当酒的温度低于10°C时,允许出现白色絮状沉淀物质或失光。10°C以上时应逐渐恢复正常",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "定海湾丁香鱼",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "连江县",
+      "type": "ingredients",
+      "sectionSha256": "56e5a95e3fff63da4a2335430e83bba2e51b187f5d6ef9d13d68f74a1bbc0a97",
+      "headingOffset": 4564,
+      "scope": "定海湾丁香鱼产地范围为福建省连江县筱埕镇现辖行政区域及定海湾海域,北纬26°19′至26°28′,东经119°85′至119°71′。",
+      "variety": "",
+      "sensory": "项目要求色泽光泽好,半透明,白色或青白色肌肉有弹性,个体大小均匀,无其他水产夹杂物,完整率≥95%,组织及形态无干耗滋味及气味有丁香鱼固有的鲜香味、无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

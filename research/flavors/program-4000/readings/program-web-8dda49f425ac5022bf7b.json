@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8dda49f425ac5022bf7b",
+  "title": "带你走进不一样的椒“姜”",
+  "url": "https://m.thepaper.cn/newsDetail_forward_25105114",
+  "checked": "2026-11-14",
+  "responseSha256": "ee842ce962373ab59828f72e465f1d6b659c3bd714f2d6d20ce4d0276c391c17",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b382e9cb7fafdf10bc6a6f7cd3517a07e8b25dbec9aa0a0dfdd19a59d3d9c6ed",
+    "textLength": 2660,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "姜汁调蛋",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

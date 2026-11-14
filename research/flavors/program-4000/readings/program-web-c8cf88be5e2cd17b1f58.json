@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c8cf88be5e2cd17b1f58",
+  "title": "襄阳市文化和旅游局局长袁晓宁：郑渝高铁带动襄阳酒店一房难求--湖北省文化和旅游厅",
+  "url": "https://wlt.hubei.gov.cn/bmdt/mtjj/202207/t20220722_4231102.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "37b093eee34f13ba1fe18999e19dde823a68a4854d0c8db457c386475ce07bb6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d816d0a16b16bc7f6f45ed7406cdb896c1e853c9b9a9b241c912ef932423a24e",
+    "textLength": 4368,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宜城大虾",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-644e15946e4ed6c48223",
+  "title": "沧州美食",
+  "url": "https://www.visitbeijing.com.cn/article/4JCEQW2OQur",
+  "checked": "2026-11-14",
+  "responseSha256": "4f473f3d60ee2937a3c77b2c82db13ed4f6669a72016ebab9d70c3de55a2012d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "31a8de4546206bec6e0c1cde7f39d4dcd29a291398bd2594c50ddf375485cb94",
+    "textLength": 4070,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "黄骅烧饼",
+      "province": "hebei",
+      "city": "沧州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

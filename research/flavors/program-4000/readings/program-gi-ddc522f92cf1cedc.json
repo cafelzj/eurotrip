@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-ddc522f92cf1cedc",
+  "title": "地理标志公告 · 2008年第104号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b18ff1af44cb3f87bcea1b50d3bc11a88605fb81633701ad935f8932215c6201",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b18ff1af44cb3f87bcea1b50d3bc11a88605fb81633701ad935f8932215c6201",
+    "textSha256": "2942bac4f15adf16bdc80434fdb50a1ba389e73516e5db69f5902ef9d2474757",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "西峡猕猴桃",
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "type": "ingredients",
+      "sectionSha256": "c696ef071894b9885939db324cdc5b6919cb9a30b9a3b06c09554ef0185f4d16",
+      "headingOffset": 2109,
+      "scope": "西峡猕猴桃地理标志产品保护范围以河南省西峡县人民政府办公室《关于确定西峡猕猴桃国家地理标志产品保护范围的通知》(西政办〔2007〕51号)提出的范围为准,为河南省西峡县丹水镇、田关乡、回车镇、五里桥乡、阳城乡、丁河镇、重阳乡、西坪镇、寨根乡、桑坪镇、石界河乡、米坪镇、军马河乡、双龙镇、二朗坪乡、太平镇乡、白羽街道办事处、莲花街道办事处、紫金街道办事处等19个乡镇街道办事处现辖行政区域。",
+      "variety": "海沃德,华美2号,徐香、红阳等4个品种",
+      "sensory": "品种海沃德华美二号红阳徐香项目果形长椭圆形长圆柱形短圆柱形短椭圆形果皮绿褐色或淡果皮黄褐色,被果皮黄褐色,绿色,颜色均果皮光滑无外观色泽黄棕色柔毛,皮被黄褐色硬刺匀,密生褐色硬毛、淡绿色薄。毛。毛。果肉黄色或淡绿色,沿果心果肉颜色果肉翠绿色浅绿色有紫红色条,黄绿色呈放射状分布。果实大小(g)≥80≥90≥70≥80果心小,柔软,果心小,柔软,果心金黄色,果心小,柔果心纤维少。纤维少。小且柔软。软,纤维少",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "罗田甜柿",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "罗田县",
+      "type": "ingredients",
+      "sectionSha256": "6c13fbb6c4bb48d1a09ffeb7a4efed7b36f71e552ae4ecf21ba711a5a7e1ce06",
+      "headingOffset": 4316,
+      "scope": "罗田甜柿地理标志产品保护范围以湖北省罗田县人民政府《关于拟界定罗田甜柿地理标志产品保护范围的函》(罗政函〔2007〕80号)提出的范围为准,为湖北省罗田县现辖行政区域。",
+      "variety": "",
+      "sensory": "类型品种品质特点秋焰甜柿(鄂柿1大型果果实扁圆形,果面橘黄色、具白色果粉号)果实方圆形、果形整齐、果顶丰满,果皮橙黄色、中型果中果甜柿果粉多、有光泽小型果蜜糖柿果实圆形、果皮橙黄色,风味特甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

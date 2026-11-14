@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-241166b070ae278e",
+  "title": "地理标志公告 · 2012年第101号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC101%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "996565137604d86aa0d77f0b293435bb82f4e2925759b8003548a5a8f4c70cf9",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC101%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "996565137604d86aa0d77f0b293435bb82f4e2925759b8003548a5a8f4c70cf9",
+    "textSha256": "8c34d74f2d7fe9820d99213986508a539994baa0820117ac2107eb307561ca1a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "宣恩火腿",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "宣恩县",
+      "type": "dishes",
+      "sectionSha256": "2db7771ccf8c73d632981d302984c086fc0d1ae4fa35d0700b2381bd35dde084",
+      "headingOffset": 1481,
+      "scope": "宣恩火腿产地范围为湖北省宣恩县现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)形状:整腿形似“竹叶”,爪小骨细;分割腿为块状。(2)色泽、风味:肉质细嫩,皮色黄亮,瘦肉红似玫瑰、脂白有光泽、气味鲜香、滋味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

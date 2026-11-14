@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a8214c1143338664f939",
+  "title": "“十大晋菜”名单公示 晋城人爱吃的有哪些？ - 晋城市人民政府",
+  "url": "https://www.jcgov.gov.cn/dtxx/jcdt/202206/t20220606_1609117.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "5df8b91b29ce2802ab9646ce2fcbd0382abb717f2bd484b0291fc733d80dae6f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "024725bf6929273dfb2000690cdfc56db7aa3f6e7bc472009056afb2a9ba8c78",
+    "textLength": 1509,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "过油肉",
+      "province": "shanxi",
+      "city": "太原",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

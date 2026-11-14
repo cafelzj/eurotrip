@@ -1,0 +1,23 @@
+{
+  "id": "program-web-075a8dc9fbe48adf9f52",
+  "title": "吕梁名特优功能食品 吕梁特色农产品展 交城篇",
+  "url": "https://www.sxllnews.cn/xyllrb/pc/con/202005/15/c61985.html",
+  "checked": "2026-11-14",
+  "responseSha256": "e4177973893456e4b6cd8fbea34e4d1f06c749cbb8af182079e03a54d8769a0f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "51fd9b155396dc48d7dd573e08e32be632fc519b7feea0bec5e09def6d298eca",
+    "textLength": 1093,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "交城骏枣",
+      "province": "shanxi",
+      "city": "吕梁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

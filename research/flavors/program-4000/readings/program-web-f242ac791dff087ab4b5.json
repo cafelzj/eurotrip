@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f242ac791dff087ab4b5",
+  "title": "温州特色美食小吃吃什么：鱼丸、灯盏糕、猪脏粉与老店街区",
+  "url": "https://www.juour.cn/zj/54272344270/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "fec8285d283e16ec0be129354b0eab878912c3e28cb99d66c2ecd76c94ab3df2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "efecb77c8cbbfe887edf637d96475b697c2540df89ab6a2326e21c1d1272c588",
+    "textLength": 9582,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "江蟹生",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

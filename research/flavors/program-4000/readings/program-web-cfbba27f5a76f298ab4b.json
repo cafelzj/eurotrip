@@ -1,0 +1,23 @@
+{
+  "id": "program-web-cfbba27f5a76f298ab4b",
+  "title": "鹤岗的味儿，藏在3分熟的小串里！-鹤岗市人民政府",
+  "url": "https://www.hegang.gov.cn/hegang/hgxw/202510/81340.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "55c5913461607c60ce2a1332a673ac7e9bacba799dad5eb869baf220aba00579",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d3c3da8e0f0f2eb50b39238387451d5dc30f6da6ee7d32dfbcb468e12e2c942e",
+    "textLength": 1995,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鹤岗小串",
+      "province": "heilongjiang",
+      "city": "鹤岗",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

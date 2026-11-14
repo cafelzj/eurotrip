@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-401a9095c4e8e31e",
+  "title": "地理标志公告 · 2011年第38号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC38%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f72d9e66b06ba3cff24a452d4286f9077714b074275246ae019bb46ba89aa4ca",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC38%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f72d9e66b06ba3cff24a452d4286f9077714b074275246ae019bb46ba89aa4ca",
+    "textSha256": "aea73487e9541ef122ccf0269909e0697c1f867ea3e1fde2a6b4346d8ee4dee5",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "洪湖莲子",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "洪湖市",
+      "type": "ingredients",
+      "sectionSha256": "5c21e0f1b8e41e0bd46dfee5a1e802725b8df38a0ccf317c1d86623e1829fc0e",
+      "headingOffset": 1656,
+      "scope": "洪湖莲子产地范围为湖北省洪湖市瞿家湾镇、沙口镇、戴家场镇、万全镇、峰口镇、汊河镇、黄家口镇、小港管理区、大同湖管理区、滨湖办事处、新堤办事处、螺山镇12个镇、办事处、管理区现辖行政区域。",
+      "variety": "鄂籽莲1号、鄂籽莲2号",
+      "sensory": "(1)形态:颗粒饱满、肉质厚实。(2)色泽:带皮莲呈暗红色,磨皮后呈白色或黄白色。(3)香气和滋味:晒干后具香气。煮熟后粉而不散,糯而有嚼劲",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "薤山叠翠",
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "谷城县",
+      "type": "tea",
+      "sectionSha256": "8e45692e3558843cd7566b6cf79a9120d07615813d0c397b58723368a62a1f0d",
+      "headingOffset": 2390,
+      "scope": "薤山叠翠产地范围为湖北省谷城县薤山林场、紫金镇、南河镇、石花镇、赵湾乡现辖行政区域。",
+      "variety": "当地群体品种",
+      "sensory": "(1)外形:条索紧细显锋苗、色泽翠绿油润。(2)汤色:嫩绿明亮。香气:栗香持久。(3)滋味:鲜醇爽口。(4)叶底:嫩绿明亮匀整",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "碣滩茶",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "沅陵县",
+      "type": "tea",
+      "sectionSha256": "eb5d96e0a3b32c98ed9fc6122f9654b5d318bb2d40d6c868c86ebf22c6f3a4f4",
+      "headingOffset": 3069,
+      "scope": "碣滩茶产地范围为湖南省沅陵县现辖行政区域。",
+      "variety": "当地群体品种以及适制碣滩茶的良种",
+      "sensory": "鲜叶等级外形色泽香气滋味汤色叶底标准墨绿杏绿嫩绿银针单芽头挺直匀齐有毫香鲜爽有毫明亮明亮一号毛单芽头及一紧秀匀齐翠绿栗香鲜爽嫩绿嫩绿尖芽一叶略卷曲显毫高长回甘明亮匀亮二号毛一芽条索紧结墨绿栗香尚绿黄绿醇和尖二叶微曲有毫较长明净尚亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "湘绣(沙坪产区)",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "开福区、长沙县",
+      "type": "crafts",
+      "sectionSha256": "0ff9e8028e56f1eae6ef12db401150d2fd1f2b427a403641a27e74a693ce3eaf",
+      "headingOffset": 5291,
+      "scope": "湘绣(沙坪产区)产地范围为湖南省长沙市开福区沙坪社区、茶子山村、自安村、钟石村、金霞村、成功村、竹坡村、告塘村、海塘村、双湖村、汉回村、乌溪村、广胜村、大安村、板塘村、大明村、大星村、白霞村、中岭村、罗汉庄村、伍家岭村、高源村、高岭村、涝刀河村、凤羽村、涝刀河社区、彭家巷社区、太阳山社区、群力社区、霞凝社区、天井社区、新源社区32个自然村、社区镇现辖行政区域。",
+      "variety": "要求。1.丝线质量要求:真丝线用当地的皂荚仁溶液进行处理,再根据图案的不同需要把一根丝线劈成成1/2、1/4、1/8、1/16乃至更细,一根线劈丝份数不少于16丝,128毛的真丝线。2.底料质量要求:优质库缎、软缎或软质白画布,并符合国家质量技术要求",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

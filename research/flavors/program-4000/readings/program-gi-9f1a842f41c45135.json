@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-9f1a842f41c45135",
+  "title": "地理标志公告 · 2007年第60号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "ce3a8448a64faa6ae746b24f0de52d776b990f1e67d6af4b563a99cae00b86fc",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "ce3a8448a64faa6ae746b24f0de52d776b990f1e67d6af4b563a99cae00b86fc",
+    "textSha256": "35a941dd83c7653de69def65971446b424c627118b90f2e94125a237f4bec3f4",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "尤溪金柑",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "尤溪县",
+      "type": "ingredients",
+      "sectionSha256": "297d5cbeb8084912f69580ffbd21af3dffa7a4c8ca8feea11e127dcdf4176e25",
+      "headingOffset": 0,
+      "scope": "尤溪金柑地理标志产品保护范围以福建省尤溪县人民政府《关于尤溪金柑地理标志产品保护划定产地范围的请示》(尤政文[2006]199号)提出的范围为准,为福建省尤溪县现辖行政区域",
+      "variety": "金弹",
+      "sensory": "果实呈椭圆形或倒卵状椭圆形。果皮光滑,色泽鲜艳,较厚,油胞小而密。果皮甘甜微辣,有香气,肉质脆嫩、酸甜可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

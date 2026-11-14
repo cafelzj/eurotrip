@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-955b9f4017298288",
+  "title": "地理标志公告 · 2005年第208号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "fa153670e178be00461930d920bae7ce10682db3f422086a9074629c973f7564",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "fa153670e178be00461930d920bae7ce10682db3f422086a9074629c973f7564",
+    "textSha256": "9709585124e318bdc8db250c64a667968140b8b2584f04413f4fa861c231aa9e",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "桃源野茶王",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "桃源县",
+      "type": "tea",
+      "sectionSha256": "93e3c373ed94ba7f5d207e72ed5da08f412c4d3e99d96bf831117cb2dfeb9129",
+      "headingOffset": 0,
+      "scope": "桃源野茶王地理标志产品保护范围以湖南省桃源县人民政府《关于界定桃源野茶王地理标志产品保护范围的函》(桃政函[2004]62号)提出的范围为准,为湖南省桃源县桃花源镇、沙坪镇、芦花潭乡、牯牛山乡、乡溪桥乡、茶庵铺乡、太平铺乡、西安铺乡、封坪乡、凌津滩乡等10个乡镇现辖行政区域",
+      "variety": "",
+      "sensory": "外形全芽挺直,汤色嫩绿清澈,香气持久带栗香味,回味甘甜爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

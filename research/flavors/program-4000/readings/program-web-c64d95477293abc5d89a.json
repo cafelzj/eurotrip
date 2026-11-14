@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c64d95477293abc5d89a",
+  "title": "“锡有佳肴”让世界品尝无锡味道_我苏网",
+  "url": "https://www.ourjiangsu.com/a/20231125/1700910559505.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "1371b4df43c1c4c4148d1a5d64cbc87b3a759b4a0a12415bbcd084c2e334ea02",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2ae90535bdd66c9548265ca33002b52d7a9a08bda936b38b12d8c9d40d57fd39",
+    "textLength": 1178,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "镜箱豆腐",
+      "province": "jiangsu",
+      "city": "无锡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-807246057db6872a5406",
+  "title": "平顺县有哪些特色产品？_平顺县城市百科",
+  "url": "https://www.dengta.org.cn/m/n12913.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ae8bdb57c384f22a8c543163eae04d68e20727d8e2b8ed03c858d8aea80a4e78",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "da9e91cecfb5e8fdb9090068ac0815f7f52266badf43441e59c513cae3d0a73a",
+    "textLength": 1430,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "黎城核桃",
+      "province": "shanxi",
+      "city": "长治",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

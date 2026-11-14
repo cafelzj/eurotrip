@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-0b11601d59def0bc",
+  "title": "地理标志公告 · 2012年第208号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0d36753ed41fb608b685f9e623924da959084d420ccecf7d5af511176929ed84",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0d36753ed41fb608b685f9e623924da959084d420ccecf7d5af511176929ed84",
+    "textSha256": "52226db6af9255b263edb976745c321eed655566e59928b676cbc4e46009f327",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "汉寿玉臂藕",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "汉寿县",
+      "type": "ingredients",
+      "sectionSha256": "f2575bec96014bbce7f29be6712300af913720befb8054acba7f50ce7382af3a",
+      "headingOffset": 1825,
+      "scope": "汉寿玉臂藕产地范围为湖南省汉寿县龙阳镇、周文庙乡、岩汪湖镇、沧港镇、新兴乡、坡头镇、鸭子港乡、酉港镇、洲口镇、文蔚乡、罐头嘴镇、聂家桥乡、大南湖乡、蒋家嘴镇、月明潭乡、毓德铺镇、龙潭桥乡、株木山乡18个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "每根主藕长达1.5m至1.8m,横径7cm至8cm,有4至5节,最大节间长30cm,藕孔九个,单支全藕重2.8kg至4kg;藕外皮和肉色均为玉白色,藕身均匀;口味清脆香甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "石门马头山羊",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "石门县",
+      "type": "ingredients",
+      "sectionSha256": "fc79025c502e6b723b8f1876c54e2159fb1db0e0b79631f0882c73f1e8fe0509",
+      "headingOffset": 2975,
+      "scope": "石门马头山羊产地范围为湖南省石门县南北镇、东山峰管理区、壶瓶山镇、所街乡、雁池乡、磨市镇、白云乡、新关镇、皂市镇、新铺乡、三圣乡、太平镇、维新镇、子良乡、蒙泉镇、夹山镇、罗坪乡17个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)活体羊:被毛以纯白为主,允许有3%以内的杂毛。公、母羊均无角而有髯,头形似马头,鼻梁平直,耳大稍向前斜,眼大有神。体躯呈长方形,骨骼坚实,结构匀称,背腰平直,肋骨开张良好,臂部宽大,尻稍倾斜,尾短而上翘。(2)羊肉:肉色鲜红且均匀,有光泽,肉细而紧密,有弹性,外表略干,不粘手,气味新鲜,膻味小",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "舜皇山土猪",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "零陵区、冷水滩区、祁阳市、东安县、双牌县",
+      "type": "ingredients",
+      "sectionSha256": "4e4f1aabd1977779a53f17543f2531b09687c79f9142a8f326a5e803e9b68630",
+      "headingOffset": 4332,
+      "scope": "舜皇山土猪产地范围为湖南省永州市冷水滩区、零陵区、东安县、双牌县、祁阳县5个县区现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)活体猪:毛色为两头乌,即头和尾部毛色为黑色,其它部分均为白色;头短而宽,面微凹;耳中等大,形如蝶;额部有皱纹,背腰较平直,腹大但不拖地。(2)猪肉:肌肉色泽深红色,大理石纹明显,肉质细嫩;脂肪洁白,含水量低,结缔组织清晰,煮沸烹饪后肉汤澄清透明,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-26965f8cce22e1232694",
+  "title": "湖北省黄冈市有什么特产可以带（地理标志产品）_武汉生活网",
+  "url": "https://www.wuhan.com/food/30212.html",
+  "checked": "2026-11-14",
+  "responseSha256": "603dbd0006bff17848b8595e61296c1861ec91a1a9a7370cd88ef54c2540174a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "35f4d19850fac81c0df75cfc901c95d007c27c3de754b905b8f54a32c18f3ce3",
+    "textLength": 1593,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "罗田板栗",
+      "province": "hubei",
+      "city": "黄冈",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

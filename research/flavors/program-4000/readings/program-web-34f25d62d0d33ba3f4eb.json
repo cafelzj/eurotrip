@@ -1,0 +1,23 @@
+{
+  "id": "program-web-34f25d62d0d33ba3f4eb",
+  "title": "〖志载冀往〗衡水名特食品和特色小吃_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_2659852",
+  "checked": "2026-11-14",
+  "responseSha256": "c0c5a0ca1a6fe41d50d26d818e63927719b19fa7fc762b39157c0237b95f4b8f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f953b126b88db0bcec1807a49c449e50aabf9058bf7f0d975542e7aa9131a064",
+    "textLength": 2357,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "饶阳金丝杂面",
+      "province": "hebei",
+      "city": "衡水",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

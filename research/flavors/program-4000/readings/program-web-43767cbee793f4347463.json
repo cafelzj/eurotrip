@@ -1,0 +1,23 @@
+{
+  "id": "program-web-43767cbee793f4347463",
+  "title": "火了！河北这46种特色美食，被列入保护名录",
+  "url": "https://www.visitbeijing.com.cn/article/47Qt2PzFvx2",
+  "checked": "2026-11-14",
+  "responseSha256": "2234ac8822991b5133c8745e11a00359c91fe71b655b676a4bf5bcb45c04c4d3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "cc3a6fd642958733e2cfebf59c99daa6cf60a8f3e248ea2f5770472d61a29e8e",
+    "textLength": 6208,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "吴桥宫面",
+      "province": "hebei",
+      "city": "沧州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

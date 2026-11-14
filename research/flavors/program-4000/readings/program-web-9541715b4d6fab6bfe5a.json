@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9541715b4d6fab6bfe5a",
+  "title": "让“荆楚味道”香飘四海-武汉市农业农村局",
+  "url": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202201/t20220124_1912456.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6960e60fe5c05545e613d99d778198ac1ea1df902019f0bad9a2ef867653768a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2432c4e453428ddbd79f28cc15cae016ecb63c2ca3d56e51cb27404de575dff5",
+    "textLength": 3451,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "襄阳牛肉面",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-4d32ba9ec5c1f15e2a2b",
+  "title": "福州小吃_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl226.html",
+  "checked": "2026-11-14",
+  "responseSha256": "60b900414b18df9b596125ab5f5eb965b23518fbdae443a170a48bd812aaf1c3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1af00d11273daaf8782b23cb9da2742f94d656f6f0924642c5e2b8991d9daf7d",
+    "textLength": 2236,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "佛跳墙",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "醉排骨",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-f8745f869b3b9e7d",
+  "title": "地理标志公告 · 2013年第41号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "9be6136987234a24a56df0570812b58347724d5c0cfc2efe5f7b3d3ddaca9fca",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "9be6136987234a24a56df0570812b58347724d5c0cfc2efe5f7b3d3ddaca9fca",
+    "textSha256": "460bb35f907aee984e810605d5eae0654745fa146471df8678ecfe69b0a68008",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "北票金丝王大枣",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "北票市",
+      "type": "ingredients",
+      "sectionSha256": "9fe3865e925803d22aba54005bec9d30e0be56b6fa0958d994bcacfbb4b9a20c",
+      "headingOffset": 1918,
+      "scope": "北票金丝王大枣产地范围内的生产者,可向辽宁省北票市质量技术监督局提出使用“地理标志产品专用标志”的申请,经辽宁省质量技术监督局审核,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "果实呈卵圆形,表皮深红色,果肉呈乳黄色,肉厚核小,质地松脆,汁液中多,酸甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黑水西瓜",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "洮南市",
+      "type": "ingredients",
+      "sectionSha256": "ef85bc827e1d7b53aa616960bc5dd551fd87edcc8883f358bf0f7234cc2a472f",
+      "headingOffset": 2704,
+      "scope": "黑水西瓜产地范围内的生产者,可向吉林省洮南市质量技术监督局提出使用“地理标志产品专用标志”的申请,经吉林省质量技术监督局审核,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "瓜瓤脆沙,甘甜多汁,爽口,纤维少",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "吉林高粱酒",
+      "province": "jilin",
+      "city": "吉林",
+      "locality": "永吉县、舒兰市",
+      "type": "alcohol",
+      "sectionSha256": "b940010adb9de4a54d637dc2b442a168b12c1e37867a1477bb1fb0d7b4e2b4f2",
+      "headingOffset": 3482,
+      "scope": "吉林高粱酒产地范围为吉林省舒兰市经济开发区、南城街道、北城街道、铁东街道,永吉县经济开发区、西阳镇6个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "指标项目高度酒低度酒色泽和外观无色,清亮透明,无悬浮物,无沉淀物具有高粱酒香和乙酸乙酯为主体高粱酒香和乙酸乙酯为主体的复香气的复合香气,陈香明显。合香气,陈香较明显。酒体柔和谐调、绵甜爽净、陈香酒体柔和谐调、绵甜爽净、陈香口味味突出。味明显。风格具有本品典型风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "来凤藤茶",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "来凤县",
+      "type": "tea",
+      "sectionSha256": "d5bd6dfe28c490c61e1e6ae234a2c7bc94e937b53de030c0155f733350a1c1f1",
+      "headingOffset": 5127,
+      "scope": "来凤藤茶产地范围为湖北省来凤县绿水镇、漫水乡、百福司镇、大河镇、旧司乡、革勒车乡、三胡乡7个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)须:絮状,灰色,表面披白霜,汤色黄绿,气清香,滋味微苦而回甜,回甘持久。(2)芽叶:条状,表面灰白隐绿,汤色黄绿,气清香,滋味微苦而回甜,回甘持久。(3)珠:圆球形,表面黄绿色,直径1.5mm至2mm,汤色黄绿,气清香,滋味微苦而回甜,回甘持久。(4)曲:纺锤状,表面深绿色,汤色黄绿,气清香,滋味微苦而回甜,回甘持久。(5)露:卷曲状,表面灰白隐绿,汤色黄绿,气清香,滋味微苦而回甜,回甘持久",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "赤壁竹笋",
+      "province": "hubei",
+      "city": "咸宁",
+      "locality": "赤壁市",
+      "type": "ingredients",
+      "sectionSha256": "b1754335327d96f20eb5ce5e45bdb8840a7ea156703909ae8e3d0fdf6237b525",
+      "headingOffset": 6611,
+      "scope": "赤壁竹笋产地范围为湖北省赤壁市赵李桥镇、茶庵岭镇、官塘驿镇、中伙铺镇、官塘驿林场、陆水湖风景区办事处6个乡镇、林场、办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)鲜笋:冬笋底小短粗,呈圆锥形,微弯,笋体饱满,形态完整,笋壳呈鲜黄色,肉色乳白,口感鲜嫩,单只重150g以上;春笋底大粗壮,笋体饱满,形态完整。笋壳呈褐黄色,肉色白中泛黄,脆爽,单只重300g以上。(2)水煮笋(清水笋):笋肉呈乳白色,有光泽、汤汁清晰,允许有少量白色析出物;笋鲜嫩,笋尖、笋节完整无缺,切面光滑,切削平整。(3)笋干:金黄色有光泽,色泽均匀一致,清水浸泡后切面有光泽;形态基本完整;表面干爽,无霉点或霉斑,无虫蚀;滑嫩爽口,纤维少,无苦涩味等异味,有韧性,具有笋干特有的香气;无外来杂质",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

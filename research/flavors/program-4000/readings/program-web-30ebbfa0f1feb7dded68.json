@@ -1,0 +1,23 @@
+{
+  "id": "program-web-30ebbfa0f1feb7dded68",
+  "title": "鹤岗市人民政府办公室关于印发鹤岗市冬季冰雪旅游“百日行动”实施方案的通知-鹤岗市人民政府",
+  "url": "https://www.hegang.gov.cn/hegang/hzbf/202411/63399.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "0efe4e0ac3041de3dab9bd62ba3682dc48e2365fd972a2d7825f3af371b2cc80",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a2b91ab0b157b0fb394e7c2d9a8a52c5771ff8729492d93bb9a9968e0a17646d",
+    "textLength": 9454,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鹤岗小串",
+      "province": "heilongjiang",
+      "city": "鹤岗",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "program-web-a7f3ef1a2db29336506a",
+  "title": "厦门美食地图｜闽南小吃与海鲜，中山路・沙坡尾・八市｜MUST EAT MAP",
+  "url": "https://www.musteatmap.com/zh/xiamen/",
+  "checked": "2026-11-14",
+  "responseSha256": "5e33249db80984d5ad863cd5a473e5c54a06849f8b577ed899759622fb71214e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fa6ff8b63d22a130978bf56974af8818704de9539fc6f1b8061e3f48b2402956",
+    "textLength": 1753,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海蛎煎",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "花生汤",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "烧肉粽",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "面线糊",
+      "province": "fujian",
+      "city": "厦门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

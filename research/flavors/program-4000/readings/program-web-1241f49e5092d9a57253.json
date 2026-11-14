@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1241f49e5092d9a57253",
+  "title": "苏州市",
+  "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82",
+  "checked": "2026-11-14",
+  "responseSha256": "38fa18df3237c91be917060268c29703e196d4a086d0767f8e0982b25c529dc1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ce8dff347585340bbe2e7a965714af64ac053b166957779227483dcea64e3cdd",
+    "textLength": 53613,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "苏式汤面",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

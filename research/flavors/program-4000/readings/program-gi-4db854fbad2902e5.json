@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-4db854fbad2902e5",
+  "title": "地理标志公告 · 2021年第459号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC459%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "20596d3c4699211287c18f166fe1600650c74480112cb61514222557425d0f8d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC459%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "20596d3c4699211287c18f166fe1600650c74480112cb61514222557425d0f8d",
+    "textSha256": "80df2e89d0092d3593f8b1a3bd5b6692ffb1dc8f51bb5115bf4d4f0f54250028",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "望江风酿酱油",
+      "province": "anhui",
+      "city": "安庆",
+      "locality": "望江县",
+      "type": "seasoning",
+      "sectionSha256": "340101f15570ce9c9ad3c5a114f7f7c00f163bc80227f89e13e565b7483fe89b",
+      "headingOffset": 392,
+      "scope": "安徽省安庆市望江县现辖行政区域",
+      "variety": "要求1.黑豆、黄豆:产地范围内种植的黑豆、黄豆,符合国家相关标准规定。2.小麦:产地范围内种植的小麦,符合国家相关标准规定",
+      "sensory": "红褐色,色泽鲜艳,澄清有光泽,具有浓郁的酱香及酯香,味鲜美,醇厚、咸甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "乳山牡蛎",
+      "province": "shandong",
+      "city": "威海",
+      "locality": "乳山市",
+      "type": "ingredients",
+      "sectionSha256": "3bada552f6a9d47930a04ef5d7dfb3aea284d847cf23eaa551980599e1509743",
+      "headingOffset": 1383,
+      "scope": "山东省乳山市现辖行政区毗邻海域,即以下A1~A8共八个点坐标所围海域:A1,36°42′58.113′′,121°28′08.772′′;A2,36°41′56.679′′,121°39′22.372′′;A3,36°46′01.342′′,121°41′43.271′′;A4,36°48′23.092′′,121°44′30.070′′;A5,36°51′05.337′′,121°47′02.094′′;A6,36°52′46.148′′,121°51′03.106′′;A7,36°29′34.633′′,121°51′00.654′′;A8,36°19′26.484′′,121°34′29.760′′",
+      "variety": "长牡蛎",
+      "sensory": "蛎壳厚硬且形状不规则,下壳(左壳)较大,上壳(右壳)略小且平,有放射肋。蛎体呈乳白色,肥满度高、肉质细腻爽滑,汁浓,味道鲜甜,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

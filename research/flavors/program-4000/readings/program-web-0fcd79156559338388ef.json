@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0fcd79156559338388ef",
+  "title": "符号学视阈下台州食饼筒的文化价值及营销策略分析",
+  "url": "https://pdf.hanspub.org/ecl2025144_1242313765.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f21f212acede733fba98b4450fb0bf6eb83ed5f3651901c0e4d2eb15112c567a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1525460a14b9ab90219afcea78fb209c9104734994f0db78b0202ca5c19fca4b",
+    "textLength": 14746,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "食饼筒",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

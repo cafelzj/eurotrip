@@ -1,0 +1,23 @@
+{
+  "id": "program-web-95a260904caaff6905b0",
+  "title": "味美浙江·百县千碗·宁海霞客宴",
+  "url": "https://www.ctnews.com.cn/paper/content/202405/22/content_95162.html",
+  "checked": "2026-11-14",
+  "responseSha256": "76a4cf761185d52196668fa4845586af8e63bdbf2b0923629f13f15101937ecf",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "df88bcd4cc955bf9555fd7a480570ff50e82ba713e5e4a42a1ddb5cb1c0def03",
+    "textLength": 1497,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "前童三宝",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

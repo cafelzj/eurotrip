@@ -1,0 +1,23 @@
+{
+  "id": "program-web-40df9323f4a650393b79",
+  "title": "湖州味道｜湖州何以“面”面俱到",
+  "url": "https://thirdpage.thepaper.cn/h5/jrtt/33055185",
+  "checked": "2026-11-14",
+  "responseSha256": "2c5cc4dd4c5de752e6488dfd6aa1c04660a462d810ebf87d975919e473e6e41d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c17bbf74ff1ed98f87b1254c28f0d9ddf294788cf6f49a325bd9eefb340505eb",
+    "textLength": 5360,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南浔双交面",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

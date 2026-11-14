@@ -1,0 +1,23 @@
+{
+  "id": "program-web-edfc0896705f624a14cf",
+  "title": "《淇水烟雨——鹤壁历史记忆》编写大纲",
+  "url": "https://zfcg.henan.gov.cn/cmsweb81e27e/nas/webfile2024/hebi/rootfiles/2023/07/17/0c73218d1a534d2c9509857556feb202.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "9cc0fd5f818e71e5059cfcf87a52391c24424cc38d0e3dc91b4f62e6a21599e0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "70f907387b2e4f57dc3c640f3045ce571ca8c17a17bcb9f108090e454df641eb",
+    "textLength": 10874,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "浚县子馍",
+      "province": "henan",
+      "city": "鹤壁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c6678e20d8c64f952b2c",
+  "title": "承德特产 - 正宗河北承德本土特产名录〖中华特产网承德特产大全〗",
+  "url": "https://www.zhtechan.cn/chengde/",
+  "checked": "2026-11-14",
+  "responseSha256": "1bb3f621730b7b05f61b03717ff12b2791a19519ce80def311174b8fab2a91fa",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f43737cc448f97854c22b49a5b40c8ba951cf87b472022c5e4e166247aac0122",
+    "textLength": 1050,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "隆化肉牛",
+      "province": "hebei",
+      "city": "承德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

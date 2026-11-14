@@ -1,0 +1,71 @@
+{
+  "id": "program-web-db93226d98fcc132c754",
+  "title": "江苏13设区市地标美食公布 260道名菜小吃请你品“ 味 ”江苏-时政新闻-浙江在线",
+  "url": "https://china.zjol.com.cn/gnxw/201910/t20191024_11244836.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "610dca61ef510efd97e96a1f0e72bc6851de2689892f4b18d57de3cb39dd9124",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "15558342cc612ed9813693534b516947b7b97c84c3c723232496b4f9c2769915",
+    "textLength": 2794,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "梅花糕",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "镜箱豆腐",
+      "province": "jiangsu",
+      "city": "无锡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "清炒虾仁",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "拆烩鲢鱼头",
+      "province": "jiangsu",
+      "city": "扬州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "三丁包",
+      "province": "jiangsu",
+      "city": "扬州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "四喜汤团",
+      "province": "jiangsu",
+      "city": "扬州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "扬中河豚",
+      "province": "jiangsu",
+      "city": "镇江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

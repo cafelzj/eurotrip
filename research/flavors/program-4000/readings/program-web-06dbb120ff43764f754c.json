@@ -1,0 +1,23 @@
+{
+  "id": "program-web-06dbb120ff43764f754c",
+  "title": "太馋了!这些\"蛇\"尖上的非遗美食你都吃过吗?-上海市文旅推广网",
+  "url": "https://www.meet-in-shanghai.net/cn/news/its-so-gluttonous-have-you-eaten-all-the-intangible-cultural-heritage-delicacies-on-the-tip-of-these-snakes-112981/",
+  "checked": "2026-11-14",
+  "responseSha256": "45eca7ac998421f3bf6a0a4aeb6b6a06332f5413b021940938b9b9f76ba9db61",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bfb2e9c07f529099660fcc123e401af4ae36b7192f521c84b18f1e6bd308ca60",
+    "textLength": 3746,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枫泾丁蹄",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

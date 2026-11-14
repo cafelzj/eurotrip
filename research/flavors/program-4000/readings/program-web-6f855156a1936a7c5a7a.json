@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6f855156a1936a7c5a7a",
+  "title": "龙岗(河北省邢台市的别号)_360百科",
+  "url": "https://upimg.baike.so.com/doc/5577137-7569394.html",
+  "checked": "2026-11-14",
+  "responseSha256": "49bf02e2a01e099f67360c96017f6c40fcb9dc116975fd918d0624cc90f66a1f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2048e58b187aba6daf1aac3ba33b75c0d204c1a504ebb6a8742758f4eb696b0a",
+    "textLength": 24298,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "广宗薄饼",
+      "province": "hebei",
+      "city": "邢台",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

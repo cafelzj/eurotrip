@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fc434f8a56945559d458",
+  "title": "锅盖面、肴肉、香醋，这座江苏最“霸气”的城市有多好吃？",
+  "url": "https://m.thepaper.cn/newsDetail_forward_23253521",
+  "checked": "2026-11-14",
+  "responseSha256": "f7dc13409ed3a3d9baa8ed3822f974235ca2d16e99e816fb1cbe68dc02b6ef95",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d30c9c8b10c36f283ebd191d27290d3a2d2298fde6b9afe07b87eb914973d725",
+    "textLength": 4542,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "镇江香醋",
+      "province": "jiangsu",
+      "city": "镇江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

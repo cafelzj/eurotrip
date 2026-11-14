@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fd510285dd4e58857b99",
+  "title": "从师傅口传心授，到标准流程生产！这碗200多年的面有了统一制作规范 - 湖北日报新闻客户端",
+  "url": "https://news.hubeidaily.net/mobile/c_5638181.html",
+  "checked": "2026-11-14",
+  "responseSha256": "04fc01c3d126d618691f73b3b13c8df8ee384497b5e542d7815323f9958df297",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7cb1b99d9e67438d56b05d3c8b2aaf70b2145b2c6147e4948b5bc7c7ad455598",
+    "textLength": 1069,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枣阳酸浆面",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

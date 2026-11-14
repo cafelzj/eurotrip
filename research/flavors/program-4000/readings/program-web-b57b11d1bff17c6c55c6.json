@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b57b11d1bff17c6c55c6",
+  "title": "石家庄十大特色小吃",
+  "url": "https://www.visitbeijing.com.cn/article/4JPUMyPp923",
+  "checked": "2026-11-14",
+  "responseSha256": "abc39081e0c5314d1ad3f928c3348c99cf50f059bd590560ab305216bf7c32f9",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b04b115256d1d027a2f9f5cc3384c58270133009c2eee8aa9eac2778ca4495d1",
+    "textLength": 2977,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "赵县驴肉",
+      "province": "hebei",
+      "city": "石家庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

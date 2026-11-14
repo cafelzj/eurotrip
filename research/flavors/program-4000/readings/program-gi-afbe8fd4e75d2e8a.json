@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-afbe8fd4e75d2e8a",
+  "title": "地理标志公告 · 2007年第182号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC182%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "40e5b1770c91042d6401e7e54c7f6c4b2ef123deb956de0489b76dcd360e9a00",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC182%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "40e5b1770c91042d6401e7e54c7f6c4b2ef123deb956de0489b76dcd360e9a00",
+    "textSha256": "aebe2f60d734c13fdcc90e6f488d7a25688a77d85bbae16e3af9c8eb07c8bcda",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永丰辣酱",
+      "province": "hunan",
+      "city": "娄底",
+      "locality": "双峰县",
+      "type": "seasoning",
+      "sectionSha256": "082d8484da859c79e602c7045baaed6b05e58d5d622b136819b51c5255ca49d0",
+      "headingOffset": 0,
+      "scope": "永丰辣酱地理标志产品保护范围以湖南省双峰县人民政府《关于划定永丰辣酱地理标志产品地域范围建议的函》(双政函〔2006〕54号)提出的范围为准,为湖南省双峰县永丰镇、印塘乡、走马街镇、梓门桥镇、沙塘乡、石牛乡等6个乡镇现辖行政区域",
+      "variety": "辣椒。1.立地条件:地势平缓,可耕种土地坡度≤20°,土壤pH值在6.0至7.2之间。2.品种:当地的灯笼椒、牛角椒。3.栽培技术:(1)播种:在气温稳定大于5°C的2月下旬至3月上旬择晴天播种。每平方米苗床均匀撒播种子小于等于5g。(2)定植:按单株栽植,种植密度控制在45000株/公倾以下。(3)施肥:基肥以农家肥为主。定植后,每隔15至20天,用腐熟稀薄人粪尿液淋蔸提苗;第一期果实达到大于2cm以上时,每公倾追施腐熟人粪尿液15至18吨。4.采收:选择全红辣椒分批采摘。采收期为7至8月,晴天采摘,雨天和阴天有露水时禁止采摘",
+      "sensory": "项目指标色泽呈红褐色或棕红色,半透明带琥珀光泽气味酱香中透着辣椒、小麦发酵后特有的芬芳,清幽深邃,留香怡人口味辣味醇厚,咸甜辛鲜,落口爽落,遗有回酸状态粘稠适度,无杂质,无悬浮,可见辣椒籽、细碎辣椒块",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

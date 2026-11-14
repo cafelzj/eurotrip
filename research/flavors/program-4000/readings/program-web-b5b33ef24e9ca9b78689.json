@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b5b33ef24e9ca9b78689",
+  "title": "烟火熏香 琴韵悠长｜潍坊诸城九龙口巷的老街新事_潍坊民生_潍坊_齐鲁网",
+  "url": "https://weifang.iqilu.com/wfminsheng/2026/0803/5933238.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "a1621cc2c2261fabe1c6bd0d6297729fdd1ab7036f7b7ef4323e454ec2c509ad",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "17d0ecc447054e774496ceb470a5753de13cb6a1d22cb210bccc0fba93c8d6c4",
+    "textLength": 4216,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "诸城烧肉",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

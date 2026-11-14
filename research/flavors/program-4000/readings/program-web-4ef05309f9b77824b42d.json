@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4ef05309f9b77824b42d",
+  "title": "浙江省丽水市市场监管局食品安全监督抽检信息通告（2024年第14期）-中国质量新闻网",
+  "url": "https://m.cqn.com.cn/ms/content/2024-12/11/content_9082000.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "2932739ec2562f5278af0a8ba9278ee5f39c96688d6b56dd5cf6e63b9d0ad37d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6ae5c4c41dd2ef1e8cb1e82fce2022d33b0f192ea1f98d432af648dacd19b960",
+    "textLength": 13985,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "庆元甜桔柚",
+      "province": "zhejiang",
+      "city": "丽水",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

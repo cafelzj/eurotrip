@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a76024ba3752851fd6cf",
+  "title": "〖山东美食攻略〗十大鲁菜 山东小吃 特产 美食街 老字号餐馆一览→榜中榜知识",
+  "url": "https://www.maigoo.com/goomai/183641.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a3bd5f17e0e6227ccbf224910e7156854d0dd30024151dbfe511d6821a44e641",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e609def986e37027e840f3870e8a5d42c6c3a1aabbf1c4e46a79d26260a804a6",
+    "textLength": 8918,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "滕州菜煎饼",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "张汪板鸭",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

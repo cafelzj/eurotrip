@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c3e3fc668df1c0b33789",
+  "title": "邵阳美食的“出圈”之道",
+  "url": "https://hn.people.com.cn/n2/2026/0427/c356887-41564386.html",
+  "checked": "2026-11-14",
+  "responseSha256": "8279bd94bbd5e3fee39da5b5e3d2f49d25b24e36b7e6aa86baa133944d24204b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "73a743a2282237cc61498709d8efc2d85f3573a401cc64872fedec6834def9fc",
+    "textLength": 4201,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "邵阳米粉",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

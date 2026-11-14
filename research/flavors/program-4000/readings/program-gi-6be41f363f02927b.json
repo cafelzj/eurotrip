@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-6be41f363f02927b",
+  "title": "地理标志公告 · 2006年第97号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7e0796897fcd23ec83612706a570b2dccdd304631733185649af3abe6fd077fe",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7e0796897fcd23ec83612706a570b2dccdd304631733185649af3abe6fd077fe",
+    "textSha256": "2590d191e3c50719af79788cbeb2dc73a4c99aafd30592f078558891b536ad03",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "泌阳花菇",
+      "province": "henan",
+      "city": "驻马店",
+      "locality": "泌阳县",
+      "type": "ingredients",
+      "sectionSha256": "94b8d1015e2767ded3b56248c3f115c03104ef9e31c97026511f85d5d6105548",
+      "headingOffset": 0,
+      "scope": "泌阳花菇地理标志产品保护范围以河南省泌阳县人民政府《关于界定泌阳花菇原产地域产品保护范围的请示》(泌政文[2005]69号)提出的范围为准,为河南省泌阳县现辖行政区域",
+      "variety": "",
+      "sensory": "朵园、肉厚、质细、色白、爆花自然、外形美观,口感脆嫩爽滑,肉质无海绵感。级别直径(cm)厚度(cm)要求柄短,天白爆花,大卷边,龟裂纹深,菌褶特级4-6≥3整齐,呈米黄色。柄短,白花,大卷边,龟裂均匀,菌褶整一级4-6≥2齐,呈米黄色。柄短,棕白各半,龟裂较浅,大卷边,菌褶二级3-7≥2整齐,呈米黄色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-47508a573c568f1fad83",
+  "title": "滨州市地标美食榜 - 我吃鸭",
+  "url": "https://www.wochiya.com/shandong/binzhou.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ec5c7910d45b72f4bce4affb23a1072422655493087a601590dd44e90ee52e17",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "073f72b9b3b739940ab8fee44c5be4bfb96472bf3b5ebf86be3f3b22fdb40383",
+    "textLength": 1968,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "魏集驴肉",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "青阳炒鸡",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

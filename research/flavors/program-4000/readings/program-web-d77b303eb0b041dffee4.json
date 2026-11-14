@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d77b303eb0b041dffee4",
+  "title": "北京小吃：都有其独特的历史故事和制作工艺",
+  "url": "https://big5.visitbeijing.com.cn/article/4JZQSao1SJm",
+  "checked": "2026-11-14",
+  "responseSha256": "eea2bd69e14343da3f91a506738b8d7d6500d00fd4dce05ba7a1f60e39e235a6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9feaf0db3233021b1bb4ebb7a4f483a7967dc2e12afec6a7b15952d6d1a30a7b",
+    "textLength": 3711,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炸酱面",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

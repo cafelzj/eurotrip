@@ -1,0 +1,23 @@
+{
+  "id": "program-web-98a67c3ec07a09c0c945",
+  "title": "浙江知识产权在线-一体化服务",
+  "url": "https://zscqyjs.zjamr.zj.gov.cn/api/othing/cms/tzggDetail/2/7cdf0ee5e084442ea023be7cfe642acc.html",
+  "checked": "2026-11-14",
+  "responseSha256": "fb9ed6f062411ee49ff6591c0354a12d8afc050eca9c62a29d37a2d9e1ff7474",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "72c05bd14363f011ce75b7f10aae8e4414a1d7afc8038aea26e6cc31c4641214",
+    "textLength": 1404,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "龙牙百合",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

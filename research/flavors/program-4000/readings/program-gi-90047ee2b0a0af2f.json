@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-90047ee2b0a0af2f",
+  "title": "地理标志公告 · 2007年第193号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC193%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "a3b3ec9816fcc01b3af3656177fc1b58bb6f9cc8a62c8707a6d20a63bfeaca22",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC193%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "a3b3ec9816fcc01b3af3656177fc1b58bb6f9cc8a62c8707a6d20a63bfeaca22",
+    "textSha256": "410ea5d42d59a41e513f631f995b1afa39970070d142425754d7fe245fc1c2cd",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "固城湖螃蟹",
+      "province": "jiangsu",
+      "city": "南京",
+      "locality": "高淳区",
+      "type": "ingredients",
+      "sectionSha256": "81353e92e24402df3dcd777fb6991deaedeb78bd3945ad09916ef792bba0f220",
+      "headingOffset": 0,
+      "scope": "固城湖螃蟹地理标志产品保护范围以江苏省南京市高淳县人民政府《关于划定“固城湖”螃蟹地理标志产品保护地域范围建议的函》(高政函〔2007〕6号)提出的范围为准,为江苏省南京市高淳县固城湖和砖墙镇、阳江镇、淳溪镇、固城镇、古柏镇、漆桥镇、东坝镇、桠溪镇等8个镇现辖行政区域",
+      "variety": "长江水系的中华绒螯蟹(EriocheirsinensisH.Milne-Eswards)",
+      "sensory": "(1)外形特征:蟹体可分为头胸部、腹部。头胸部上下披上一层坚韧的甲壳,上面为头胸甲,一般呈墨绿色和青色。下面是腹甲,呈灰白色,5对胸足,伸展于头胸部两侧,左右对称。头胸甲前缘平直,有4个额齿,中间凹缺较大,呈“U”型,左右各有4个侧齿,第4侧齿明显可见,背部中央隆起,表面凹凸不平,额角后方有6个明显的疣状突。腹面中央有一凹陷的腹甲沟,周围缘边生有绒毛。雌雄异体。雌蟹腹部呈圆形,雄蟹为三角形,俗称团脐和尖脐。(2)体形与体色:头胸甲明显隆起,甲壳坚硬光洁,青背白肚,背部为青色、青灰色,腹部为白色、乳白色等自然光泽;金爪黄毛,螯足及步足前后缘均有金色、金黄色绒毛,步足指节细长呈金黄色。鳃丝清晰、洁净,无异物、无异味。(3)体质活力:蟹体肥厚、活泼有力、反应敏捷,双螯强健,八足齐全。(4)味道:膏腴丰满,肉质细嫩,味道鲜美稍带甜味。2.等级分类:体重(g/只)等级分类雄蟹雌蟹特级≥250≥200一级≥200≥",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

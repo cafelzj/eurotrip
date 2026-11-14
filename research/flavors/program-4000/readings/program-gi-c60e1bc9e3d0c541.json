@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c60e1bc9e3d0c541",
+  "title": "地理标志公告 · 2006年第211号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC211%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d3b59fd2a2cb6977b2a5374414c7ffb91bc26d4b6e31589ac77bc25ad8968c76",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC211%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d3b59fd2a2cb6977b2a5374414c7ffb91bc26d4b6e31589ac77bc25ad8968c76",
+    "textSha256": "3e48e4cac9312cab601bf1b09f73f43733e38be8d0ce0c1987e7a47433876bb6",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "房山磨盘柿",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "房山区",
+      "type": "ingredients",
+      "sectionSha256": "60d96260a1072c403290dbdc09471f498467dba7b769e182e0167b1d3f6568de",
+      "headingOffset": 0,
+      "scope": "房山磨盘柿地理标志产品保护范围以北京市房山区人民政府《关于界定“房山磨盘柿”地理标志产品保护地域范围的建议》(房政函[2006]2号)提出的范围为准,为北京市房山区十渡镇、张坊镇、大石窝镇、长沟镇、韩村河镇、周口店镇、城关街道、阎村镇、青龙湖镇、河北镇、佛子庄乡等11个乡镇现辖行政区域",
+      "variety": "磨盘柿",
+      "sensory": "果形端正,扁方或扁圆,缢痕明显,柿蒂完整,橙黄色至橙红色,平均单果重240克",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

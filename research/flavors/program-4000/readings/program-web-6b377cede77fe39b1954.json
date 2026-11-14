@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6b377cede77fe39b1954",
+  "title": "非遗美食之山西——曲沃羊汤_骨架_羊杂_杂碎",
+  "url": "https://www.sohu.com/a/1080796714_121851614",
+  "checked": "2026-11-14",
+  "responseSha256": "e75dbed3b7ccf25578934775e4b07364b31fa164c514569026ec0aac3cf6e711",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3fa2bc5ba60235200f1a826f8520f8a61cc1a39695fb8332c318fbf787cce423",
+    "textLength": 1151,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "曲沃羊汤",
+      "province": "shanxi",
+      "city": "临汾",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

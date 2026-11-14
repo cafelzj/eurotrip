@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-e6d5ccf8ebe33d56",
+  "title": "地理标志公告 · 2010年第53号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC53%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5b5fcb8c168c1385b9daa1be6847ce8e5bd1863b6e40155d0f9ffe701f896fd3",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC53%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5b5fcb8c168c1385b9daa1be6847ce8e5bd1863b6e40155d0f9ffe701f896fd3",
+    "textSha256": "fbdc4a08b34d7fecd27600fc2110aa35202f001d5ecc3c09fb0b46bd3a699be6",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "唐县大枣",
+      "province": "hebei",
+      "city": "保定",
+      "locality": "唐县",
+      "type": "ingredients",
+      "sectionSha256": "3f2238edd1125b94c13632fede601143f1dd2e4a974c74c8f41ce1320febabfc",
+      "headingOffset": 1636,
+      "scope": "唐县大枣地理标志产品保护范围为河北省唐县倒马关乡、川里镇、黄石口乡、羊角乡、石门乡、军城镇、齐家佐乡、白合镇、迷城乡、大洋乡、北店头乡、雹水乡、都亭乡、罗庄乡、北罗镇、南店头乡、仁厚镇、高昌镇等18个乡镇现辖行政区域。",
+      "variety": "婆枣",
+      "sensory": "果型为长椭圆形,果实饱满、皱缩程度小,果实个大肉厚有弹性、外观紫红艳丽具光泽",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "威海无花果",
+      "province": "shandong",
+      "city": "威海",
+      "locality": "威海相关产区",
+      "type": "ingredients",
+      "sectionSha256": "89848a6a2d003af1832bfe376cf1ae52d701da8f90255852b3f7d572726f4428",
+      "headingOffset": 3519,
+      "scope": "威海无花果地理标志产品保护范围为山东省威海经济技术开发区崮山镇、泊于镇、皇冠街道办事处、凤林街道办事处、西苑街道办事处等5个镇、街道办现辖行政区域。",
+      "variety": "青皮",
+      "sensory": "果实倒圆锥形。果实熟后果皮淡黄绿色,果肉淡紫色,果肋明显,果皮韧度较大,果汁较多,风味甘甜,口感松软,甜而不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

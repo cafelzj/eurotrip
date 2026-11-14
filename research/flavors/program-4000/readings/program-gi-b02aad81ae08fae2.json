@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b02aad81ae08fae2",
+  "title": "地理标志公告 · 2009年第141号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "cf70d8439f6cdcf7084b08d510ffd3f9c701b0a09234f9beea3035b3eab23888",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "cf70d8439f6cdcf7084b08d510ffd3f9c701b0a09234f9beea3035b3eab23888",
+    "textSha256": "c02985851fcb77e2933ea11a8d6087c0ff5531f2431871a71e47015b27690a6e",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "柳河山葡萄",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "柳河县",
+      "type": "ingredients",
+      "sectionSha256": "ed6b18653d2b70e762aab15e9cb93cc476a6001cbb58b6f5943c712f489a3049",
+      "headingOffset": 1783,
+      "scope": "柳河山葡萄地理标志产品保护范围为吉林省柳河县柳河镇、三源浦朝鲜族镇、驼腰岭镇、向阳镇、安口镇、圣水镇、红石镇、亨通镇、孤山子镇、五道沟镇、凉水河子镇、时家店乡、柳南乡、姜家店朝鲜族乡、罗通山镇等15个乡镇现辖行政区域。",
+      "variety": "“双优”、“双红”、“左优红”、“北冰红”、“公酿一号”以及经地理标志保护相关部门批准的其他山葡萄品种",
+      "sensory": "果穗长圆锥形,果粒小,平均粒重1.38g,着色浓、色素高、果粉厚,果实呈紫黑色或蓝黑色,果汁呈宝石红色,酸甜适口,有浓郁的山葡萄清香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

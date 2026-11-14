@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a621e881f0e9f5424d48",
+  "title": "来漳州，感受“闽式生活”的古早味_ 文旅经济_福建省人民政府门户网站",
+  "url": "https://www.fj.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202604/t20260413_7123549.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "cd754219104e0ebff34e81bc5fd1984e1c0c2d239b0fa0439b0dac4f8285e075",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4fce28d12cbfbf2049dda1da0ba0c452c868b2de3b737ac63465fd5e2ab4ee09",
+    "textLength": 8489,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "手抓面",
+      "province": "fujian",
+      "city": "漳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

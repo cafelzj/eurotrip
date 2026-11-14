@@ -1,0 +1,23 @@
+{
+  "id": "program-web-abf264ee716817e0cfbf",
+  "title": "衡水市十大名菜名吃评选结果揭晓→_故城_武邑扣_餐饮",
+  "url": "https://www.sohu.com/a/845359124_121124031",
+  "checked": "2026-11-14",
+  "responseSha256": "357d44d76a3fd7ac68d8bb211508e79211388066f65f3c67658315fe857b7645",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "303ce490ad7556c34ec41a1a1033c8c0d3a47e91ce24c9e2e79e4d59b1eb10b2",
+    "textLength": 707,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "武强酥鱼",
+      "province": "hebei",
+      "city": "衡水",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

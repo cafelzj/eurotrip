@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-8f6c7b59f1f506d1",
+  "title": "地理标志公告 · 2012年第220号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC220%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "8d43db4ee1adcaca4d3f82c5e38ce2a33e35dd8aabeac2de434eacc2613374f2",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC220%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "8d43db4ee1adcaca4d3f82c5e38ce2a33e35dd8aabeac2de434eacc2613374f2",
+    "textSha256": "0d330766517c2003222ec0c59ce814154ec7452fbffaace1da820c39db4c8ddd",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "泉盛河酒",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "龙城区、朝阳县",
+      "type": "alcohol",
+      "sectionSha256": "d7518b966e59708849f8bedd92acc4e069e32b6898c0386411e203446d47fc77",
+      "headingOffset": 2385,
+      "scope": "泉盛河酒产地范围为辽宁省朝阳市龙城区现辖行政区域。",
+      "variety": "",
+      "sensory": "指标项目高度酒低度酒色泽及外观无色(或微黄)、清亮透明、无悬浮物,无沉淀杂质具有明显的高粱酒陈具有较明显的高粱酒陈香气香香气香香气酒体协调、陈香明酒体较协调、陈香较为口味显、余味悠长明显、余味较悠长风格具有本品典型的风格注:当温度低于10°C时,允许有白色絮状沉淀或失光;高于10°C时,白色絮状沉淀自然消失",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "灌南金针菇",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "灌南县",
+      "type": "ingredients",
+      "sectionSha256": "646e2342a95b45f8169d6277118c51975a2759deb0ffd74c0424e2069100e4f2",
+      "headingOffset": 4057,
+      "scope": "灌南金针菇产地范围为江苏省灌南县现辖行政区域。",
+      "variety": "",
+      "sensory": "子实体色泽白亮,菌柄细长,盖小质细,整齐均匀,外形感观好,口感脆嫩爽滑",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "金坛雀舌茶",
+      "province": "jiangsu",
+      "city": "常州",
+      "locality": "金坛区",
+      "type": "tea",
+      "sectionSha256": "bcd3019c4ad67c054d155b6169fea49a5f189825df58173fdb933b507233799c",
+      "headingOffset": 5787,
+      "scope": "金坛雀舌茶产地范围为江苏省金坛市薛埠镇、指前镇、朱林镇、直溪镇4个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "外形扁平挺秀、状如雀舌,茶条匀整、色泽绿润;内质香气清高、栗香明显持久、汤色明亮、滋味鲜爽、叶底嫩匀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-886b097e79e4e8e2",
+  "title": "地理标志公告 · 2015年第24号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "21101f85101d7acbff214c47cde5022a60a5275ae38b9efacfb00c1175da1e4c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "21101f85101d7acbff214c47cde5022a60a5275ae38b9efacfb00c1175da1e4c",
+    "textSha256": "bed54347803f45168e6558c41d70d0ee0540e4b324ae8ed4b0aef17cea4e2081",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "肃宁裘皮",
+      "province": "hebei",
+      "city": "沧州",
+      "locality": "肃宁县",
+      "type": "crafts",
+      "sectionSha256": "c0a787aa0be4137b82a50b71b0756ba87941816fb08fc4e80e22470b8456f747",
+      "headingOffset": 11709,
+      "scope": "肃宁裘皮产地范围为河北省肃宁县现辖行政区域。",
+      "variety": "",
+      "sensory": "鞣制后长度不低于原皮长度,无影响使用价值的伤残。(1)水貂皮:皮板柔软如丝绸,厚度0.4mm至0.7mm,部位差±0.2cm;毛被针绒齐全、针毛灵活;色泽光亮;手感丰满。(2)狐狸皮:皮板柔软如棉麻,厚度0.5mm至0.8mm,部位差±0.3cm;毛被针绒齐全、针毛灵活;色泽光亮;手感丰满。(3)貉皮:皮板柔软如麻布,厚度0.5mm至0.9mm,部位差±0.3cm;毛被灵活松散、针绒齐全",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "乾安红辣椒",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "乾安县",
+      "type": "ingredients",
+      "sectionSha256": "737b4692c02df775970df1cdf68b119ba698b59bad9fff0dd485d896933ead02",
+      "headingOffset": 12581,
+      "scope": "乾安红辣椒产地范围为吉林省乾安县乾安镇、大布苏镇、水字镇、安字镇、让字镇、所字镇、道字乡、严字乡、赞字乡、余字乡、鳞字特色农业园区、大布苏工业园区、大遐畜牧场、鹿场、良种繁育基地、腾字种畜场共16个乡镇场园区基地现辖行政区域。",
+      "variety": "",
+      "sensory": "果实呈羊角形,表皮光滑,色泽红亮;质细肉厚,辣感适中,辣香浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "龙头胖头鱼",
+      "province": "heilongjiang",
+      "city": "双鸭山",
+      "locality": "宝清县",
+      "type": "ingredients",
+      "sectionSha256": "524051847939a8eeb617ec5280f42a85701f3a6713068941b55b4c62da677b42",
+      "headingOffset": 13475,
+      "scope": "龙头胖头鱼产地范围为黑龙江省宝清县龙头镇龙湖自然保护区(龙头桥水库)天然湖区,水域面积3200公顷。",
+      "variety": "",
+      "sensory": "肉质细嫩有嚼劲,无土腥味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "宝清苹果(寒疆红果)",
+      "province": "heilongjiang",
+      "city": "双鸭山",
+      "locality": "宝清县",
+      "type": "ingredients",
+      "sectionSha256": "3f48128964dbdeed52fc0581c1d8035caa583863f3aca6015f475c797d426c34",
+      "headingOffset": 14152,
+      "scope": "宝清苹果(寒疆红果)产地范围为黑龙江省宝清县宝清镇、七星泡镇、七星河乡、五九七农场共4个乡镇农场现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)金红苹果:果实阔椭圆形。果实底色鲜黄,有红色条霞,果肉黄白色,质地细脆,汁多,甜酸适口。(2)七月鲜苹果:果实圆锥形,果实底色绿黄,鲜艳红色,外观美,果肉白色稍绿,肉质细脆,甜酸。(3)黄太平苹果:果实扁圆形,果实底黄色,鲜艳红色,果肉黄白色,肉质脆,甜酸",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "老庙牛肉",
+      "province": "henan",
+      "city": "安阳",
+      "locality": "滑县",
+      "type": "ingredients",
+      "sectionSha256": "c8ac132afa2cd0a451f3299c44acfa15084a4fbab0d867c00ea4d2a338e842e7",
+      "headingOffset": 15826,
+      "scope": "老庙牛肉产地范围为河南省滑县老爷庙乡现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽淡红、熟烂适度、鲜香醇厚、风味独特",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

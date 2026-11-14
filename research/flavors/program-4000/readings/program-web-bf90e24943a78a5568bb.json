@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bf90e24943a78a5568bb",
+  "title": "威海市人民政府 “十二五”规划 威海市食品工业“十二五”发展规划",
+  "url": "https://www.weihai.gov.cn/art/2021/10/18/art_80791_2692559.html",
+  "checked": "2026-11-14",
+  "responseSha256": "3397b0b7e9a728d9a17fba2a3b52e5bbe33887875565abfa586280f361faa7ed",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b46d5abf07fdd3d0dde17fa38ed95ab1eacc4c8f1e6e7a6abbe05862e8efcbf",
+    "textLength": 7331,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "荣成海带",
+      "province": "shandong",
+      "city": "威海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

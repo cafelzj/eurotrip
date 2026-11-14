@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c34c9c16a21fdbce",
+  "title": "地理标志公告 · 2005年第191号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "9518df4637c03b508f5428ffab54500a1e96fc69f4003fd055baa2cfc1ecc22b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "9518df4637c03b508f5428ffab54500a1e96fc69f4003fd055baa2cfc1ecc22b",
+    "textSha256": "04c56187ffc60ce52a336a91b83b37818405e0ba3c8af6788a950ba404be2f86",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "宝清红小豆",
+      "province": "heilongjiang",
+      "city": "双鸭山",
+      "locality": "宝清县",
+      "type": "ingredients",
+      "sectionSha256": "31e625b56fee81f67bb5c88597d9593a57222548c6fa422965cdbc4f95003d3f",
+      "headingOffset": 0,
+      "scope": "宝清红小豆地理标志产品保护范围以黑龙江省宝清县人民政府《关于界定宝清红小豆原产地域产品保护范围的函》(宝政办发[2004]18号)提出的范围为准,为黑龙江省宝清县现辖行政区域",
+      "variety": "",
+      "sensory": "种皮深红色,色泽鲜艳有光泽,粒大,粒形独特近似三角棱柱形,一头整齐一头呈卵形,有棱,手感明显,脐部底端塌陷;皮薄,蒸煮时有特殊浓郁香气",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2175871bcbc7a05f3d52",
+  "title": "〖绍兴美食攻略〗绍兴十大名菜 小吃 夜宵 特产 老字号美食大盘点→榜中榜知识",
+  "url": "https://www.maigoo.com/goomai/240848.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b474a3ca047a6dc7a90b7344d9cd1f9ea0bab890993f07990173c722a0162ce0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "914ae050a2455f597752b2fdc9ffe3d32aefa40a1cee1181cccc90aa87e9ff59",
+    "textLength": 7906,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "绍兴黄酒",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

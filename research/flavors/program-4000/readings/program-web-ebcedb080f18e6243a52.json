@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ebcedb080f18e6243a52",
+  "title": "南乐县（中国河南省濮阳市下辖县）_百科资料_新农商网",
+  "url": "https://www.xncsb.cn/baike/83042.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "a0a60f2a0d6c420339f03a4d1282e390ccca5f2366a74608e177741ab24ee329",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4b1085a394359e79ef89bd081cf6c6518c03977de0bed2e5dcc2387535a04004",
+    "textLength": 21465,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南乐壮馍",
+      "province": "henan",
+      "city": "濮阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f3ec9dbd59b7e817786f",
+  "title": "北京旅游网资源库美食",
+  "url": "https://s.visitbeijing.com.cn/foods?area=2&theme=1",
+  "checked": "2026-11-14",
+  "responseSha256": "d7262077ae98e1f1a4c28381983b0346ba03ba24488b52ab0754cd5c332e4025",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e6b65621423e578897288bac746480dcec59221064aeacc417192b21e48fee1",
+    "textLength": 642,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "驴打滚",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

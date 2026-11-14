@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ddfdce82578ea24a58c2",
+  "title": "齐鲁味话：山东名吃故事集（三十五）泰安篇·东平湖糟鱼 - 鲁网银龄频道 山东银龄新闻网 山东银龄服务平台",
+  "url": "https://y.sdnews.com.cn/lxsh/wenxue/202607/t20260713_4706448.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "88ec861df4237ebb0cccf4134b18a30cda5a9b9648db39e09e23a07f47980642",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2654d5e33ff9b94f7afbb916df81bd8d6bd76546e5376963adaa035671878fd9",
+    "textLength": 2045,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "东平湖糟鱼",
+      "province": "shandong",
+      "city": "泰安",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

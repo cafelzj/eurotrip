@@ -1,0 +1,31 @@
+{
+  "id": "program-web-1b5ea3e1caf103abc52a",
+  "title": "吃——上海菜谱解码 · ShanghaiFlux",
+  "url": "https://shanghaiflux.com/zh-CN/local/food",
+  "checked": "2026-11-14",
+  "responseSha256": "2b44c29829483a6c81ac1e264e717d51bed5c85b361863d6311ce0667ca30802",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a56314a6d5a98cb689973efec74581655ff99bf424c72c323b2f2eb1a25ae2ea",
+    "textLength": 4952,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "红烧肉",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "葱油拌面",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

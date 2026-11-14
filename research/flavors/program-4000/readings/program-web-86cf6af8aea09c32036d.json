@@ -1,0 +1,23 @@
+{
+  "id": "program-web-86cf6af8aea09c32036d",
+  "title": "山东德州食品安全有保障宁津县里醋更香",
+  "url": "https://www.cfsn.cn/news/detail/426/82622.html",
+  "checked": "2026-11-14",
+  "responseSha256": "5d3abbbff90166de6824e21cf2e2e8cb9dc8ed1f02ad2ec0a6bfb9565dea104b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e3c4392402c87b04e4a0c0236ccb08ecfdad4551f2bab7616b06c7d3505d963b",
+    "textLength": 2290,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "保店驴肉",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

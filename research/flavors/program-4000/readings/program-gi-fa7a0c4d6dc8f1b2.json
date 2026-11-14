@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-fa7a0c4d6dc8f1b2",
+  "title": "地理标志公告 · 2009年第131号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC131%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "001fe8a20db4fa3df92a434ae0669fa055175f0530b6e633e4a3b107dc833d83",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC131%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "001fe8a20db4fa3df92a434ae0669fa055175f0530b6e633e4a3b107dc833d83",
+    "textSha256": "78c2acb26bdd06875cd4ade6657d21a641c7cb80cb95344bf77de1ab311888f2",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "沱湖螃蟹",
+      "province": "anhui",
+      "city": "蚌埠",
+      "locality": "五河县",
+      "type": "ingredients",
+      "sectionSha256": "625e0f2b5c4a14d096ff7a538267c291c350faa647a2cd962977295f38a43cf0",
+      "headingOffset": 6336,
+      "scope": "沱湖螃蟹地理标志产品保护范围为安徽省五河县沱湖乡辖区内的水域,包括沱湖上游的管咀到下游节制闸段水域,以及与该段水域相连的河叉、滩涂、低洼地等可养水域,总面积7000公顷。",
+      "variety": "长江水系中华绒螯蟹(Eriocheirsinensis)",
+      "sensory": "青壳、白肚、金爪、褐螯。成蟹壳肉盈实,膏脂丰腴,煮熟后,体色匀红,雌蟹“蟹黄”油红如榴米,雄蟹“蟹黄”通透如玉;蟹肉微甜、味鲜,蟹壳簿而脆钙质含量高",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

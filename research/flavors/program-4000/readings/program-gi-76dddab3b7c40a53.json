@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-76dddab3b7c40a53",
+  "title": "地理标志公告 · 2011年第33号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d1c8f26ab46491eb0ca8b298c20a77f85109fce7d748c98559f8e2d3cbec59b5",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d1c8f26ab46491eb0ca8b298c20a77f85109fce7d748c98559f8e2d3cbec59b5",
+    "textSha256": "66665cf29ef5e0edc87cdeaf955374bd5b74642b9e374dc218a60f6c13224124",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "富岗苹果",
+      "province": "hebei",
+      "city": "邢台",
+      "locality": "内丘县",
+      "type": "ingredients",
+      "sectionSha256": "f5c44f7fdcf6cfda20da9fa7d0610e98d68c41da882b9d7b46109102d15f83b0",
+      "headingOffset": 2358,
+      "scope": "富岗苹果产地范围为河北省内丘县侯家庄乡、獐么乡、南赛乡3个乡镇现辖行政区域。",
+      "variety": "富士着色系品种",
+      "sensory": "果面新鲜亮洁,果肉淡黄色,肉质细,致密多汁,香气浓郁,酸甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

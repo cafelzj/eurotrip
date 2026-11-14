@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b86005ab6f869355",
+  "title": "地理标志公告 · 2008年第28号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "3b851bbcc2c0e6f23ed75007190edfa5ddd0acf009398d3a9850cf7d5c796bcd",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "3b851bbcc2c0e6f23ed75007190edfa5ddd0acf009398d3a9850cf7d5c796bcd",
+    "textSha256": "1db29d007cfa1df0ec6cb711ccf27259cbc1da6b077a2c64796d55cab8d55b53",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "燕山板栗",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区、平谷区、密云区、延庆区",
+      "type": "ingredients",
+      "sectionSha256": "caf0f73f6f1e015f9ae139ed9fc47cef8f2f45ca3a2fd34ae3750b026b95c9c9",
+      "headingOffset": 0,
+      "scope": "燕山板栗地理标志产品保护范围以北京市人民政府《关于申请界定燕山板栗地理标志产品产地范围的函》(京政函〔2007〕104号)提出的范围为准,为北京市密云县石城镇、冯家峪镇、不老屯镇、北庄镇、太师屯镇、高岭镇、大城子镇、巨各庄镇、穆家峪镇、溪翁庄镇;昌平区长陵镇、十三陵镇、兴寿镇、崔村镇、南口镇;平谷区镇罗营镇、大华山镇、刘家店镇、山东庄镇、金海湖镇、王辛庄镇、南独乐河镇、峪口镇、熊耳寨乡、黄松峪乡;延庆县大庄科乡、四海镇、珍珠泉乡等28个乡镇现辖行政区域",
+      "variety": "燕红、燕昌、燕丰、燕山短枝、燕魁、银丰、黑七、辛庄2号、南早3号、怀九5号",
+      "sensory": "(1)外观:果实为近半圆形,栗皮褐色,有光泽,茸毛少。(2)单果重:≥5.5克。(3)风味:果肉淡黄至乳黄,味香甜。(4)加工特性:涩皮易剥离",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

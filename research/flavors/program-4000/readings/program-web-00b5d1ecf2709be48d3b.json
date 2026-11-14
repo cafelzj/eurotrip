@@ -1,0 +1,23 @@
+{
+  "id": "program-web-00b5d1ecf2709be48d3b",
+  "title": "@吃货们 坐上这趟高铁 品味\"舌尖上的山东\"！-新闻-青岛网络广播电视台",
+  "url": "https://news.qtv.com.cn/system/2019/11/25/015521313.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "ee20e12366a18600a5874dba718126e3bd16e6205f0f4c9a7b0395b4d08f82d0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a01bb7d9438fd7f92fca8f428d1680668a298d35b72886c6db1e07442d2e0dc7",
+    "textLength": 4540,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "流亭猪蹄",
+      "province": "shandong",
+      "city": "青岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-b6d60c115c643ad6",
+  "title": "地理标志公告 · 2014年第139号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC139%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2a5e40f265d5861415c0a7519cc412aec590573257c495e7b39ddbc228787390",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC139%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2a5e40f265d5861415c0a7519cc412aec590573257c495e7b39ddbc228787390",
+    "textSha256": "743d5886398d267319eceaec1d02271da517ff46cfc3183bbf201a0120c02490",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大名小磨香油",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "大名县",
+      "type": "seasoning",
+      "sectionSha256": "cfa3d20e0942144e13a0465075f10a3ffe23cff34ff8c76bffb97eaefdcc79e8",
+      "headingOffset": 5589,
+      "scope": "大名小磨香油产地范围为河北省大名县现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽枣红,晶莹透亮,具有芝麻油固有的气味和滋味,香味浓郁持久,口感纯正",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "松江大米",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "松江区",
+      "type": "ingredients",
+      "sectionSha256": "193989c3bf7570531a4f41be4d38112429a63d6916fc49da91e1b8434bdd2468",
+      "headingOffset": 8069,
+      "scope": "松江大米产地范围为上海市松江区叶榭镇、泖港镇、石湖荡镇、新浜镇、小昆山镇、佘山镇共6个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "米粒饱满,晶莹半透明;米饭柔软有弹性,食味清香略甜,表面油光",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "宣酒",
+      "province": "anhui",
+      "city": "宣城",
+      "locality": "宣城相关产区",
+      "type": "alcohol",
+      "sectionSha256": "72572c4239e2b5a0a8789142aebe6dbf00b1b28a2122678043dfdecb6975589a",
+      "headingOffset": 10460,
+      "scope": "宣酒产地范围为安徽省宣城市区沪渝高速以东,皖赣铁路以西,敬亭山以南,宣城经济技术开发区及市区北部(涉及飞彩和澄江两个街道的部分行政区域)现辖行政区域。",
+      "variety": "",
+      "sensory": "酒精度41%vol~68%vol40%vol色泽无色或微黄,清亮透明,无悬浮物,无沉淀香气窖香浓郁、醇香典雅口味绵甜柔和、酒体圆润、自然谐调、余味爽净",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "常宁茶油",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "常宁市",
+      "type": "ingredients",
+      "sectionSha256": "06cfbb54c43fa43003dda5ab66322d8c06957c98faf676cafa773a65571e4466",
+      "headingOffset": 12024,
+      "scope": "常宁茶油产地范围为湖南省常宁市现辖行政区域。",
+      "variety": "",
+      "sensory": "油色澄黄通透,具有茶籽油固有的气味和滋味,香味浓郁,口感爽滑",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

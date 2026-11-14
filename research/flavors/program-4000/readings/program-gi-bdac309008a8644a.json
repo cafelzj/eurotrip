@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-bdac309008a8644a",
+  "title": "地理标志公告 · 2008年第119号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "ca82297cc43ad30645ecbfcc85ea7328637db4503f548086b19e81edbe49ce17",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "ca82297cc43ad30645ecbfcc85ea7328637db4503f548086b19e81edbe49ce17",
+    "textSha256": "6d49f4d2fd4c9b25b1215aa149f76efa358bad13da6926113bb0624b3c4924d4",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "练塘茭白",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "青浦区",
+      "type": "ingredients",
+      "sectionSha256": "883e3247e237c513273c8e2620b62170a6ffbbad77b90be22eb16e2bbb7350b3",
+      "headingOffset": 2612,
+      "scope": "练塘茭白地理标志产品保护范围以上海市青浦区人民政府《关于划定练塘茭白地理标志产品保护范围的函》(青府函〔2008〕10号)提出的范围为准,为上海市青浦区练塘镇,朱家角镇张马村、李庄村、先锋村、张巷村、沈巷村、新胜村、安庄村、林家村、建新村、薛间村等10个村,金泽镇新港村、爱国村、莲湖村、杨湾村、南新村等5个村现辖行政区域。",
+      "variety": "当地优良茭白品种",
+      "sensory": "半光茭条索紧洁,光茭茭体洁白粗大;肉质爽脆,味鲜微甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

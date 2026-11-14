@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-f98bda6611a37dde",
+  "title": "地理标志公告 · 2023年第512号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC512%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "876f9701f6faf64b6080c86132bc3c69bbe274d82de79ab9ab59f943ad4ad6f3",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC512%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "876f9701f6faf64b6080c86132bc3c69bbe274d82de79ab9ab59f943ad4ad6f3",
+    "textSha256": "7813924b7a8b0a4433fd43e26e89e9309f970184c681588bb9bdde1b104aef03",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "故城龙凤贡面",
+      "province": "hebei",
+      "city": "衡水",
+      "locality": "故城县",
+      "type": "staples",
+      "sectionSha256": "5ef9180c150f35da156b13d87c26d4cff74fceb5eae5f0600be19ec325f17142",
+      "headingOffset": 2249,
+      "scope": "河北省衡水市故城县故城镇、青罕镇、郑口镇共3个镇现辖行政区域",
+      "variety": "要求1.小麦。产地范围内生产的硬质小麦,小麦粉面筋质(湿基)≥28%,其他指标符合国家相关标准规定。2.香油。符合国家相关标准规定。3.鸡蛋。符合国家相关标准规定。4.辅料。水、食用盐等,符合国家相关标准规定",
+      "sensory": "(1)龙须面:有“白如雪,细如丝,空如竹,韧如藤”的特点。耐煮、汤清、味厚,入口时面质劲道有弹性。(2)凤尾面:白色微青,柔韧晶亮,扁条平而直,薄如纸。耐煮、汤清、味厚,入口时面质劲道有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

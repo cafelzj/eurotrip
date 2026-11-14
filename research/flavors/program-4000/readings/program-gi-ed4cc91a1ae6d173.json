@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-ed4cc91a1ae6d173",
+  "title": "地理标志公告 · 2013年第6号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC6%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "dad4879021b12e331abbdf106328f8adc2993400f3b2687fa0d182ddc2cda4e1",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC6%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "dad4879021b12e331abbdf106328f8adc2993400f3b2687fa0d182ddc2cda4e1",
+    "textSha256": "b176b0a5234c494bddd7c2b283245bd2d9789b0be582518a9ca6463e469c6185",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "新乐西瓜",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "新乐市",
+      "type": "ingredients",
+      "sectionSha256": "b26ea05abdd630f24ef454b4769b65b10c4a1d4eb3bd6bb321a9742898ba0b6a",
+      "headingOffset": 1686,
+      "scope": "新乐西瓜产地范围为河北省新乐市东王镇、邯邰镇、大岳镇、承安镇、正莫镇5个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "果实圆形;果皮为绿底上覆墨绿色条纹;果肉粉红色、艳红色,色泽鲜艳;瓜瓤脆沙、甘甜、多汁、爽口,无黄筋",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "清苑熏香",
+      "province": "hebei",
+      "city": "保定",
+      "locality": "清苑区",
+      "type": "crafts",
+      "sectionSha256": "6b0ebaf1959ff9fb5c76b4399e41ffba002690094c77d56785aaf8f06a2a9585",
+      "headingOffset": 2460,
+      "scope": "清苑熏香产地范围为河北省清苑县现辖行政区域。",
+      "variety": "",
+      "sensory": "韧性好,不易断裂,燃烧稳定、完全,香气淡雅清新、纯正持久,无刺激性异味,烟灰颜色灰白",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

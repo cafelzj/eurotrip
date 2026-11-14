@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9978ba4cf25f939c226b",
+  "title": "来青岛吃什么？青岛发布本地特色美食清单_澎湃号·媒体_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_31745461",
+  "checked": "2026-11-14",
+  "responseSha256": "82da1c81819fd3af99418a5dd038c2afd354989fe0d06002c6ce8a46ed640b41",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "047d4f72f7a70456cb6f181b0f556b81f0e356041bfe24f0da614bef9b7fb606",
+    "textLength": 2666,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "郑庄脂渣",
+      "province": "shandong",
+      "city": "青岛",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a7b5e41646e341bc29ca",
+  "title": "全省推介！太和板面、格拉条、枕头馍……_阜阳市_店铺_方集",
+  "url": "https://www.sohu.com/a/657345298_118783",
+  "checked": "2026-11-14",
+  "responseSha256": "00ab1bc7cb00d15049435b7af3eb6d34ff09301f0afa10eaf6d81b4bda8f1eb1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fd7b7a621848c153b2e9ed7f9e40a9f87093dde7a818ea98739dbf69a00dc0e7",
+    "textLength": 2173,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枕头馍",
+      "province": "anhui",
+      "city": "阜阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "界首黄牛肉",
+      "province": "anhui",
+      "city": "阜阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

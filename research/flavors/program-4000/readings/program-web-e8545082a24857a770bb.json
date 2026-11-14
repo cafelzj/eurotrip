@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e8545082a24857a770bb",
+  "title": "河北沧州献县特产有哪些？ - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/443212/",
+  "checked": "2026-11-14",
+  "responseSha256": "124a35d0c26185ee9c4aa24f30430b1db72ac039c43720b2a4e8e58aa9c06945",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "aa6d69ef74f9fbddad50bd7821ccd95b42833451011490b0e195fe416befc0d2",
+    "textLength": 2338,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "献王酒",
+      "province": "hebei",
+      "city": "沧州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

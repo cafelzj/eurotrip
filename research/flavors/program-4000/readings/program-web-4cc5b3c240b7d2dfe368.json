@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4cc5b3c240b7d2dfe368",
+  "title": "一缕茶香润诗城-宣城市农业农村局",
+  "url": "https://nyncj.xuancheng.gov.cn/News/show/1679418.html",
+  "checked": "2026-11-14",
+  "responseSha256": "f7fc1671bcf3b770074002cf77b24ea6bbc0b70e00fb38522a47edcc3c191747",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d6cb38fe28b70caa9aa9ad16e7da552778d3a818c4808f0193452b45ad7fc994",
+    "textLength": 2604,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "泾县兰香",
+      "province": "anhui",
+      "city": "宣城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

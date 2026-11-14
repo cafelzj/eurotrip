@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bd06129c37681b7b63f1",
+  "title": "安徽·畅享皖美“食”光之旅",
+  "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/anhui/detail/7471.html",
+  "checked": "2026-11-14",
+  "responseSha256": "560dcdd4b44260fcdc127321cdf23094af299e419be07e1a32fd1c960e05fbe6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "913fa4918ca7ef67cd2ce54422a32188428ae506c6e59d067640acd80ae8f51b",
+    "textLength": 1810,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "大肉面",
+      "province": "anhui",
+      "city": "马鞍山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

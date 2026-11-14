@@ -1,0 +1,23 @@
+{
+  "id": "program-web-94b1cd6061cd9632e4ae",
+  "title": "好吃的泉山美食地标来了！_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_25842506",
+  "checked": "2026-11-14",
+  "responseSha256": "c8dea90a6c13cdaf8d6059ab3f95991d0a9f4de7f4fa8f021b757a1682e86fe5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c133a52721d2db1dafa5b9723d030e8f958b30f05fc2a67db4b57a030e311101",
+    "textLength": 1400,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "烙馍卷馓子",
+      "province": "jiangsu",
+      "city": "徐州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

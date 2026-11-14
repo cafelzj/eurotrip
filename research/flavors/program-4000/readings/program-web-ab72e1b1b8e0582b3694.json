@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ab72e1b1b8e0582b3694",
+  "title": "张家口逛吃手册：汇聚“混血”的美食地？",
+  "url": "https://www.visitbeijing.com.cn/article/4POMCcltiIg",
+  "checked": "2026-11-14",
+  "responseSha256": "b694a68bc7d0615e4146855d8cfbd8e6d3ba5dfd66f0b88be54c4dc5ddd18a8d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "66d420314e8e3ec11feb5c1eccb9ed85254da3f074c1b176bba27f6df9352d0b",
+    "textLength": 2666,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "怀安豆腐皮",
+      "province": "hebei",
+      "city": "张家口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

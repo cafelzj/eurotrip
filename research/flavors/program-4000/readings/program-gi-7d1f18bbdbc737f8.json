@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-7d1f18bbdbc737f8",
+  "title": "地理标志公告 · 2012年第224号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC224%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7af5fa257184b4c8f9a7eca924ae78caa15e7fbe1de7889c47fb643354ed2daa",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC224%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7af5fa257184b4c8f9a7eca924ae78caa15e7fbe1de7889c47fb643354ed2daa",
+    "textSha256": "efe02f02f4463ac646cf533e368adffd4ee6920a5d4abacd2af41964321fa4e3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "塔山石榴",
+      "province": "anhui",
+      "city": "淮北",
+      "locality": "烈山区",
+      "type": "ingredients",
+      "sectionSha256": "654be1e0f40c99ae82ddedc6a78ebea244b92a0c3b3600fd8e06e9f742e313dc",
+      "headingOffset": 1805,
+      "scope": "塔山石榴产地范围为安徽省淮北市烈山区烈山镇、宋疃镇、古饶镇3个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "感官指标果皮籽粒口感品种名称皮薄,成熟后阳面包色有红色针状种核软、可食、软籽1号古铜色晶体品质上等。较厚光洁青绿,红籽粒红色,针状种核软、可食、软籽2号晕明显。晶体明显。品质上等。籽粒绿白色,可种核绵软、品质软籽3号果皮较薄青黄色。见辐射状晶体。佳。果皮厚、果面光味浓、味甜微籽粒鲜红或粉红青皮甜滑、表面青绿色,向酸,汁多。核半软色、透明。阳面捎带红褐色。籽。表面光亮、果皮呈汁多、味酸甜,鲜红色,向阳面棕红籽粒呈水红色、初熟时有涩味,存塔仙红色,较软,并有纵向透明。放几天后涩味消红线,条纹明显。失。果皮粉红色,阳面味酸甜,无涩籽粒淡红色,核大红软紫红色,有星状果味,口感好,风味半软。锈。佳,品质上等。果皮青黄色,阳面籽粒马齿状,籽果汁多,甜味青皮软籽红色或淡红色,皮粒大,红白色,核浓,品质上等。薄。小而软",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "龟山岩绿",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "麻城市",
+      "type": "tea",
+      "sectionSha256": "7e1673d10c3232da68b09243d7d90f3e6e9ccff19d0231c18e79adff0cd75ab9",
+      "headingOffset": 5250,
+      "scope": "龟山岩绿产地范围为湖北省麻城市龟山茶场及龟山镇、三河口镇、木子店镇、张家畈镇4个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "龟山岩绿为条形绿茶,其品质特色为:芽叶肥壮重实,条索紧实绿润,有锋苗,白毫显露,叶底嫩匀,汤色黄绿明亮,滋味鲜爽醇厚,栗香持久,耐冲泡",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄梅禅茶",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "黄梅县",
+      "type": "tea",
+      "sectionSha256": "ea9fa371d279707fa5d825fa35105b97f7e4651a7ece2b051f9555373abc24db",
+      "headingOffset": 6549,
+      "scope": "黄梅禅茶产地范围为湖北省黄梅县五祖镇、大河镇、停前镇、柳林乡、杉木乡、苦竹乡、挪步园管理处等7个乡镇管理处现辖行政区域。",
+      "variety": "",
+      "sensory": "条索挺直、细秀、显毫。色泽翠绿尚润。嫰香持久,鲜醇爽口。汤色清澈明亮。叶底翠绿明亮匀整",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "纪山龙米",
+      "province": "hubei",
+      "city": "荆门",
+      "locality": "沙洋县",
+      "type": "ingredients",
+      "sectionSha256": "b04e3da908c8a61710c9af1dbee936ce2f0bc51f38915ac50c7884a07885284e",
+      "headingOffset": 7932,
+      "scope": "纪山龙米产地范围为湖北省沙洋县纪山镇、十里镇、拾回桥镇、后港镇、毛李镇、官当镇、曾集镇、沈集镇、五里镇、高阳镇、沙洋镇11个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "粒型较长,米粒晶莹剔透。蒸煮后饭粒完整,浓香持久,冷却后不成团,不返生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武穴竹编",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "武穴市",
+      "type": "crafts",
+      "sectionSha256": "6f0b2347e42c571ecd5e8ee664ca4a59c1a23fad37e4b35e8e51fef0e50da571",
+      "headingOffset": 9065,
+      "scope": "武穴竹编产地范围为湖北省武穴市武穴街道办事处、刊江街道办事处、田镇街道办事处、万丈湖街道办事处、梅川镇、余川镇、花桥镇、大金镇、四望镇、石佛寺镇、大法寺镇、龙坪镇12个镇、街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽柔和,编织紧密、均匀;平面光滑、手感无毛刺;经纬比例恰当、图案清晰完整,层次分明;首尾衔接紧密、修边光平。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

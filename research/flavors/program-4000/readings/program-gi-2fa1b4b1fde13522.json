@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-2fa1b4b1fde13522",
+  "title": "地理标志公告 · 2017年第117号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6f5887093bce90214637fb8bf2cec14f44acdcd64dece408d1d9b15d54135767",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "6f5887093bce90214637fb8bf2cec14f44acdcd64dece408d1d9b15d54135767",
+    "textSha256": "e0d6f150928be5ef4ea63b66f4df4f4c0e6db91b3d05948d2ca41cb5ec852e98",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "涉县黑枣",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "涉县",
+      "type": "ingredients",
+      "sectionSha256": "6693ca732f5d326bd556afcc07dc61353d1e3f7a1bf133bd496adaa5dbe2d4ea",
+      "headingOffset": 9386,
+      "scope": "涉县黑枣产地范围为河北省邯郸市涉县现辖行政区域。",
+      "variety": "",
+      "sensory": "近球形(圆形)或长椭圆形,果顶圆、果粉少,无核;黑褐色,果皮松,果肉松软有弹性,口感沙甜可口;单果重≥2.30g",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "南丰黄酒",
+      "province": "anhui",
+      "city": "宣城",
+      "locality": "郎溪县",
+      "type": "alcohol",
+      "sectionSha256": "e667ebf7a7338a9671e5dea3b36f314614f9909eff46271d6d000c502b6c40ea",
+      "headingOffset": 10262,
+      "scope": "南丰黄酒产地范围为安徽省宣城市郎溪县郎川河流域涛城、建平、飞鲤、新发现辖行政区域。",
+      "variety": "",
+      "sensory": "清亮透明,呈琥珀色光泽;口感醇和、鲜甜爽口无异味;酒体协调,具有独特的清香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "柘城辣椒",
+      "province": "henan",
+      "city": "商丘",
+      "locality": "柘城县",
+      "type": "ingredients",
+      "sectionSha256": "111a0c2e1f4bb91a84ccd8fa48ed553fdca924a7d56f8a35195aa8d323d98577",
+      "headingOffset": 12590,
+      "scope": "柘城辣椒产地范围为河南省柘城县现辖行政区域。",
+      "variety": "",
+      "sensory": "形态均匀、色泽暗红、油亮光洁、辣度适中、香味浓郁、果长4cm至8cm、直径0.5cm至1.5cm",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

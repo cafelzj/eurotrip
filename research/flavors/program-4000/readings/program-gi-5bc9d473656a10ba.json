@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-5bc9d473656a10ba",
+  "title": "地理标志公告 · 2006年第155号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC155%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "8dc8f3adce7a8f778ac6958cb20b45443b6f30e9180c135f692b06303fb9bb98",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC155%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "8dc8f3adce7a8f778ac6958cb20b45443b6f30e9180c135f692b06303fb9bb98",
+    "textSha256": "484e8df735dca42abb17dcf0ddc48a40cf24eff4a662e865b6a630684e7cd581",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "昌平苹果",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "昌平区",
+      "type": "ingredients",
+      "sectionSha256": "a1036efa92e388186cc72732b9e8f3af1855ceca69ed602335de9e1d5d6aafbf",
+      "headingOffset": 0,
+      "scope": "昌平苹果地理标志产品保护范围以北京市昌平区人民政府《关于申请界定昌平苹果地理标志产品保护地域范围的函》(昌政函[2006]57号)提出的范围为准,为北京市昌平区南邵镇、崔村镇、流村镇、兴寿镇、南口镇、马池口镇、阳坊镇、百善镇、长陵镇、十三陵镇、沙河镇、城南镇等12个镇、街道现辖行政区域",
+      "variety": "富士优系、王林、桑沙",
+      "sensory": "要求果实完整良好,果面新鲜洁净、具蜡质、有光泽。富士系着色面积≥95%;以片红为主相间条纹;果肉乳黄、硬脆多汁,有香味。色泽桑沙着色面积≥90%;以片红相间红色条纹;果肉乳黄、硬脆多汁。王林果形端正,青绿色,果面光洁,无锈斑富士系≥300g,果形指数≥0.9≥250g,果形指数≥0.9单果重王林≥300g,果形指数≥0.9≥250g,果形指数≥0.9桑沙≥250g,果形指数≥0.85≥220g,果形指数≥0.85",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

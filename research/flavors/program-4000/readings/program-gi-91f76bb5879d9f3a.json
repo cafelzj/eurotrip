@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-91f76bb5879d9f3a",
+  "title": "地理标志公告 · 2006年第119号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6eedac611055abbdca4b8e2a9d04be3c09979a5f74cd4911a42df20125e8522f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "6eedac611055abbdca4b8e2a9d04be3c09979a5f74cd4911a42df20125e8522f",
+    "textSha256": "68f662c30ce64ee97be7032f3fcdbd25a6e77099e628e8860015f147ad0e20ea",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "东山鲍鱼",
+      "province": "fujian",
+      "city": "漳州",
+      "locality": "东山县",
+      "type": "ingredients",
+      "sectionSha256": "27fb334e27219f8f7f98ff1c78b64d318bcad78de1ce3ed7970aa5f9094a1e7a",
+      "headingOffset": 0,
+      "scope": "东山鲍鱼地理标志产品保护范围以福建省东山县人民政府《关于界定东山鲍鱼地理标志产品保护范围的函》(东政函[2005]16号)提出的范围为准,为福建省东山县的西埔镇、陈城镇、前楼镇、樟塘镇、康美镇、铜陵镇、杏陈镇等7个乡镇现辖行政区域及海域",
+      "variety": "九孔鲍、杂交鲍(日本盘鲍和北方皱纹盘鲍杂交的后代,本地俗称黑鲍)、杂色鲍",
+      "sensory": "(1)九孔鲍:壳形完整、无缺裂,长椭园形,呼吸孔6至9个,外壳呈褐色、红棕色或2种颜色相间,螺肋与生长线细密,珍珠层较厚且富有光泽,足部淡黄色,肌肉富有韧性,伸展有力。(2)杂交鲍(黑鲍):壳形完整、无缺裂,稍长椭园形,呼吸孔3至5个,壳色为绿褐色,壳纹为不规则的皱褶状突起,珍珠层银白色带红绿珍珠光泽,足部棕黄带深色条纹,肉质细嫩,肌肉富有弹性,伸展有力。(3)杂色鲍:壳形完整、无缺裂,长椭园形,呼吸孔6至9个,壳色为赤褐色,螺肋明显,生长线细密,壳内层有银白色珍珠层且有光泽,足部淡黄色,足部骨肉富有韧性,伸展有力",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

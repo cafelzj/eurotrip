@@ -1,0 +1,39 @@
+{
+  "id": "program-web-51a28fca81dee2b208d3",
+  "title": "河北保定小吃排行榜前十名 到保定必吃的10大特色名吃推荐→买购APP",
+  "url": "https://m.maigoo.com/top/436245.html",
+  "checked": "2026-11-14",
+  "responseSha256": "14f4642bcc2cb1a90d14f5077ba0b0dcf57d5d5a1dffa1ee1272525780b8a1b4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "676351f5381b7345e478c21454541d5be2c62d80338b33d37b513d13072f8d85",
+    "textLength": 5478,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "槐茂酱菜",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "曲阳缸炉烧饼",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "定州焖子",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

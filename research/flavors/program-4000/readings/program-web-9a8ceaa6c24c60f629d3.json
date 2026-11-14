@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9a8ceaa6c24c60f629d3",
+  "title": "佳木斯富锦：情系黑土粮仓 共绘中国粮都合作新蓝图_地市动态_省农业农村厅",
+  "url": "https://nynct.hlj.gov.cn/nynct/c115380/202605/c00_31941203.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "4a82123143d881237dc4421356922d94c39dfaec610d21d4133b3f64979b75dd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "27364ec1ba1a1af8b3f209e4544f95fdc0a13c72274b9e62085175b1b5e0706b",
+    "textLength": 6886,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "富锦大米",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

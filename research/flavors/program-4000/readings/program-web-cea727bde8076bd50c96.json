@@ -1,0 +1,23 @@
+{
+  "id": "program-web-cea727bde8076bd50c96",
+  "title": "聊城面食培训去哪家？呱嗒什香面烧麦技术能学到吗？_馅料_小菜_高唐县",
+  "url": "https://www.sohu.com/a/1035673512_122662213",
+  "checked": "2026-11-14",
+  "responseSha256": "4df7468be1fcf708127f81de049bd65abf716e457de9edbf780f8fb9be669588",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "188fef1c191ebcfbe0814e128922922865e5999c060e6d692d9c93700d0cdb5f",
+    "textLength": 9244,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高唐驴肉",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

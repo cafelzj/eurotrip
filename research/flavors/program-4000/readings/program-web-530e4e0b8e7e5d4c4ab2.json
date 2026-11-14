@@ -1,0 +1,39 @@
+{
+  "id": "program-web-530e4e0b8e7e5d4c4ab2",
+  "title": "西湖区特色美食小吃指南：六道名菜、八样小吃与片区小店地图",
+  "url": "https://www.juour.cn/zj/hzxh/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6036f6f293a738072e3220ebbb7a8c0f82a6a80b20433afcdf9ad80dc52e53f8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "00e32c6a12ec0939ad2ff9f8b61e5d205db1ca85cccf7b9d3329608977c87705",
+    "textLength": 9137,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "定胜糕",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "猫耳朵",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "杭州小笼",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

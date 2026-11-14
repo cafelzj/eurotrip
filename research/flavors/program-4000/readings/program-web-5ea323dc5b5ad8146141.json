@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5ea323dc5b5ad8146141",
+  "title": "毕业季 福启新程 | 一口吃下千年！跟着非遗美食，吃透整个福建_昆士兰_新闻_华人头条",
+  "url": "https://www.52hrtt.com/ksl/n/w/info/F1779177494520",
+  "checked": "2026-11-14",
+  "responseSha256": "c4af185695e85f35cec91ab099ebc6c89312d45648dbaa3ddc817d50036a6c27",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8f38e4e6e5fa7654aaf5ad9d6f2352019e4c05d28b1ada05fa0ac6a24164be7c",
+    "textLength": 4195,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "时来运转",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

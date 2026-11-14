@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d69ade4004677c59395d",
+  "title": "嘉兴海宁特色美食有哪些-嘉兴本地宝",
+  "url": "https://jx.bendibao.com/xiuxian/202375/10151.shtm",
+  "checked": "2026-11-14",
+  "responseSha256": "03a54972d70fae2f29445dfed8ce764aad44d910bb3d4a1b8ac9e7b3be4a2750",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "64bc2d5c94b1a80f77dd6ddfe838b4d1d0a33c96d84493d7b6d428fea10ef541",
+    "textLength": 3497,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海宁缸肉",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

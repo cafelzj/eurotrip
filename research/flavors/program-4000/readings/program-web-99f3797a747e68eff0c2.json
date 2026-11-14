@@ -1,0 +1,23 @@
+{
+  "id": "program-web-99f3797a747e68eff0c2",
+  "title": "惠安：尽享“山海城”盛宴，领略惠女风情韵_一县一桌菜_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://quanzhou.gov.cn/gastronomy/ch/sqsm/yxyzc/202411/t20241121_3107263.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "90b04f95420271a70431d4e6be5c4ffc7d8d8d7cdfce039728b6b17848db6cb6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e72134ffdf694585d1279057c96fc8e38987fd9a914cbf907982e6508f1eba9c",
+    "textLength": 2326,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "崇武鱼卷",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-012fb2b8f6aec5a853b6",
+  "title": "山东省淄博市地方特产",
+  "url": "https://jiuzg.com/art/c726abb2-bfce-429a-88c2-630ed9717b9a.html",
+  "checked": "2026-11-14",
+  "responseSha256": "2871e3f0694889aa2a27b0e218d304994798f4b32c61da17865612390bdc459d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ad57ff654bff713bc0051a65fbabd9e706d77be2fbc2fd417b0ea3a701d62c79",
+    "textLength": 1280,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高青黑牛",
+      "province": "shandong",
+      "city": "淄博",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "高青大米",
+      "province": "shandong",
+      "city": "淄博",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

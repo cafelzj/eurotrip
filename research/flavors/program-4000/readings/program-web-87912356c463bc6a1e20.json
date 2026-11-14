@@ -1,0 +1,23 @@
+{
+  "id": "program-web-87912356c463bc6a1e20",
+  "title": "从湖岸吃到山野，怀柔三大美食街区全攻略！",
+  "url": "https://www.visitbeijing.com.cn/article/4R5m0ZpHq4a",
+  "checked": "2026-11-14",
+  "responseSha256": "da4d7abb51adef64543c72c112b438199f7156febb7294b21bf00b29bf7a9eba",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "49dc3f5c460aa095522412d0f59adaaff47e58a0437b557631cd8df2cd9edb20",
+    "textLength": 2806,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "虹鳟鱼",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

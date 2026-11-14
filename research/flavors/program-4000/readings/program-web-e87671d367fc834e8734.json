@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e87671d367fc834e8734",
+  "title": "忻州日报",
+  "url": "https://szb.xzrbw.com/epaper/2026-02/25/content_9912948.html",
+  "checked": "2026-11-14",
+  "responseSha256": "97c5c69d9df018fae5e44a1dc6c8f3073eef026e28fe17b6d501fac4cde072eb",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e54ab3c3b2c5d8e717656951da17d0b85352cd345fdaaac8b020f87ce35f34fb",
+    "textLength": 3816,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "静乐莜面",
+      "province": "shanxi",
+      "city": "忻州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

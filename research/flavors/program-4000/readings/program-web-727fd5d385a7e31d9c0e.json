@@ -1,0 +1,23 @@
+{
+  "id": "program-web-727fd5d385a7e31d9c0e",
+  "title": "炎陵白鹅、攸县香干、仙都酱板鸭，够“土”够“味” _株洲_湖南频道_红网",
+  "url": "https://hn.rednet.cn/content/2020/04/20/7086063.html",
+  "checked": "2026-11-14",
+  "responseSha256": "06d1b9ce510d3ee14ed5120b490778107a0594774f47b19200c464a84fef7a43",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "444462278d5cc4de78e4c67faf28ad556cc3301f15a38e1e53e2bbe2a1f87493",
+    "textLength": 3824,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炎陵白鹅",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

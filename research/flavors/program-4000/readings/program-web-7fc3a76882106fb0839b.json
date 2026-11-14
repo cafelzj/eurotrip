@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7fc3a76882106fb0839b",
+  "title": "2026汉川湖乡楚味美食文旅暨第二届小龙虾消费季好戏连台 引爆盛夏消费热潮 - 湖北日报新闻客户端",
+  "url": "https://news.hubeidaily.net/mobile/c_5635179.html",
+  "checked": "2026-11-14",
+  "responseSha256": "eb4717ebde5d5ffc5c660213e042f22dfe1de3e1cc29c71d3e19813fb314d1c7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c98629d1549a0fffda0a076d7c7e5ce9c7139ed76e9adff371bb76eeb4df7b16",
+    "textLength": 1037,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "汉川荷月",
+      "province": "hubei",
+      "city": "孝感",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

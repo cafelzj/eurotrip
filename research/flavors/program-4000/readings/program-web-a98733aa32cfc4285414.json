@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a98733aa32cfc4285414",
+  "title": "宁波特色美食｜甬帮名菜、十大名点与老字号小吃店清单",
+  "url": "https://www.juour.cn/zj/gotoningbo/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "244e6b33603c40879d69857670b6c3cb0ae25774c49660ef86dc789cf895bc4b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "79a75cd6f56851de0add906d122f1bfeec4610eb09c8223e5cc7f9ef1a15860b",
+    "textLength": 8588,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "红膏炝蟹",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6d5d7ebc0885d5fd94b5",
+  "title": "黑龙江伊春嘉荫县特产介绍 - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/444795/",
+  "checked": "2026-11-14",
+  "responseSha256": "dd4f250ede688fc7cb59cf3ec3b5eb1066f7975e53ae25a01b3da2c515b698ca",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "41fb17824ae9ed7afa70f8076d2dce7aed86b8757fe03127c4c03ac7fd7e473d",
+    "textLength": 2158,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "嘉荫大豆",
+      "province": "heilongjiang",
+      "city": "伊春",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

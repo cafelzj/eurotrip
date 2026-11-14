@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2a007fbcd19c1ec9b570",
+  "title": "“邵阳红”集体商标成功获批-湖南省市场监督管理局",
+  "url": "https://amr.hunan.gov.cn/xxx/szdtx/202110/t20211028_20898326.html",
+  "checked": "2026-11-14",
+  "responseSha256": "09805f5dbfebc4fd8962383189e1c54ee057255ff7d8b14e63e3c5e66c803148",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d0d3406b2e7aa77e7a5749efb9b1d8b67bf3a5394efe763330b571271b2a91b8",
+    "textLength": 1443,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "武冈卤菜",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

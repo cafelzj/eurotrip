@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b360c311da3f29574807",
+  "title": "咸宁市文化和旅游局局长做客湖北日报传媒集团5G演播室邀你来游咸宁--湖北省文化和旅游厅",
+  "url": "https://wlt.hubei.gov.cn/bmdt/szyw/xn/202204/t20220424_4095231.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "90d25c77bf477c7f347421580126c333ff523054468e031fb809d2faab24e22c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "00b88dd03109b760f06b63cd291c345653e78c06ce2b5983b9992340db824c57",
+    "textLength": 3950,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "青砖茶",
+      "province": "hubei",
+      "city": "咸宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

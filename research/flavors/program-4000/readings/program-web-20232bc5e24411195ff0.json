@@ -1,0 +1,23 @@
+{
+  "id": "program-web-20232bc5e24411195ff0",
+  "title": "洛阳市新安县：寻访新安老城，吃烫面角，品豫西软糯风味_搜狐网",
+  "url": "https://m.sohu.com/a/1077620785_122516926/",
+  "checked": "2026-11-14",
+  "responseSha256": "73b10fc53dbf1021b894b080e3de816215492423f52d91c3707a67ecc5f84d57",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5ebecec32df5de20c53de49908460d129af60dfe7c473cbfe2e3f09cf043fe07",
+    "textLength": 689,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "新安烫面角",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

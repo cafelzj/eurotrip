@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c5a13612491f7db8110a",
+  "title": "五峰土家族自治县_百度百科",
+  "url": "https://bkso.baidu.com/item/%E4%BA%94%E5%B3%B0%E5%9C%9F%E5%AE%B6%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF/881985?fromModule=lemma_inlink",
+  "checked": "2026-11-14",
+  "responseSha256": "58a803b6aca5b1f536504979923b408e2f4381121401430af9ce01812c3f49e3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2ce4debac5a8ec310449df44984f3665745409a8bc714b7328888cd578ba7ede",
+    "textLength": 16953,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "采花毛尖",
+      "province": "hubei",
+      "city": "宜昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

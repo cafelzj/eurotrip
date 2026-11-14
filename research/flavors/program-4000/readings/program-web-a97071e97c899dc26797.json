@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a97071e97c899dc26797",
+  "title": "济南这10款美食入选“山东地标”",
+  "url": "https://jnbusiness.jinan.gov.cn/col8314/art/2025/art_8314_4783453.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0f6bc3db544ab15c750cc6b898d3ea929248e29dc545f54dcf6dc3b50853d0f7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8c711d715594d37e5bf63d8aabbc767cc705d465ba5b1e6aa044eb58387ee696",
+    "textLength": 908,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "把子肉",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "平阴玫瑰",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

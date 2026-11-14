@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2ce153e0273c3a22c594",
+  "title": "关于区政协2026年第16号提案的答复-宣州区人民政府",
+  "url": "https://www.xuanzhou.gov.cn/OpennessContent/show/3779318.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4d662b0035bf4a8973314f7fd0644fce8f9e6ebf6aa53542d2c3fe154d9202ec",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "471e67ef22e528a395b83721eaf226431db8381ecca9a2fc25e1d1d7fde2b472",
+    "textLength": 2969,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "水阳三宝",
+      "province": "anhui",
+      "city": "宣城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

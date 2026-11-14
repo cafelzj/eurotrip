@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fb32450ec31a31a446aa",
+  "title": "吉林寻秋记丨跟着“美食”游吉林_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_28602488",
+  "checked": "2026-11-14",
+  "responseSha256": "7da48745e552da926a9a61bc6bd670a32020f585d493a65fd609f7b6847ee393",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5737b958906ba571571a0b85e575dc1d1e161f7734be6bcf1abc0a7d3411ae3f",
+    "textLength": 2773,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "雪衣豆沙",
+      "province": "jilin",
+      "city": "长春",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

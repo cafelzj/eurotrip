@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8d210bcb63aa7c7a",
+  "title": "地理标志公告 · 2007年第48号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC48%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "833addc17ba6c4e6fa457a285106fbc181d6c1edc07b1ccd0abc8a86a1cbcc88",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC48%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "833addc17ba6c4e6fa457a285106fbc181d6c1edc07b1ccd0abc8a86a1cbcc88",
+    "textSha256": "d6c6a6dbb1900f7005a76c80bd45998f78a8da065200518f77e196c6a8d98694",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "恩施玉露",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "恩施市",
+      "type": "tea",
+      "sectionSha256": "ffcb28b5cdd3478f7d48d9232ac103ac32f2c38c6642f47bb3de989bf838cdf0",
+      "headingOffset": 0,
+      "scope": "恩施玉露地理标志产品保护范围以湖北省恩施市人民政府《关于划定“恩施玉露“地理标志产品保护地域范围建议的函》(恩施市政函[2006]61号)提出的范围为准,为湖北省恩施市芭蕉侗族乡、舞阳坝街道办事处现辖行政区域",
+      "variety": "地方群体品种“恩苔早”或适制恩施玉露的无性系良种",
+      "sensory": "等级外形汤色香气滋味叶底形似松针、色泽翠绿清澈、明特级清香持久鲜爽、回甘嫩匀、明亮亮紧细挺直、色泽绿润嫩绿、明一级清香尚持久鲜醇、回甜绿、明亮亮二级挺直、墨绿绿、明亮清香醇和绿、尚亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

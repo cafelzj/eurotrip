@@ -1,0 +1,23 @@
+{
+  "id": "program-web-15b8a67610c8c7e3aa6d",
+  "title": "浙江省金华市市场监督管理局食品安全监督抽检信息通告（20250528）_武义_婺城区_制品",
+  "url": "https://www.sohu.com/a/901592618_122095496",
+  "checked": "2026-11-14",
+  "responseSha256": "2cb2ddf6a4e9b0691c2a9cffbff20f96e2529180499235d4f7ce0f84791739a2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "114d4ddaf5b8ee06a93aefd8574b84d56ba41a7629a8f53d870b2a393a9942a5",
+    "textLength": 4518,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "金华酥饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-gi-382ff45b98cbf7ad",
+  "title": "地理标志公告 · 2008年第12号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC12%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0eea793beb6c233281aafc750838552c75313b65861ac74428811dabd47ddbda",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC12%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0eea793beb6c233281aafc750838552c75313b65861ac74428811dabd47ddbda",
+    "textSha256": "b26e76ebd4bb90f9ac43662f11d574d6bcb28967b1daa46e74b5e0ebef032dcb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "无棣贝瓷",
+      "province": "shandong",
+      "city": "滨州",
+      "locality": "无棣县",
+      "type": "crafts",
+      "sectionSha256": "2dc50cec2998e344b7bf642cede307a66e86b9ffc340e4c133ac45cd231ff2c0",
+      "headingOffset": 0,
+      "scope": "无棣贝瓷地理标志产品保护范围以山东省无棣县人民政府《关于请求给予无棣贝瓷地理标志产品保护的请示》(棣政发〔2006〕63号)提出的范围为准,为山东省无棣县现辖行政区域",
+      "variety": "1.原料组成:贝壳砂、长石、石英、粘土等,主要特点及化学组成范围见下表:化学组成范围原料名称SiO2AL2O3CaOMgOK2ONa2OFe2O3TiO2贝壳砂≤0.5≤0.5≥54≤0.2≤0.1≤0.1≤0.1----长石≤66≥16≤0.5≤0.5≥11≥0.2≤0.2≤0.05粘土≤45≥34≤0.2≤0.2≤0.5≤0.4≤0.5≤0.1石英≥99≤0.5≤0.1≤0.1--------≤0.2----2.原料加工:原料经拣选、水洗、破碎、研磨、过筛、除铁、陈腐,制成坯泥、釉料",
+      "sensory": "具有质地细腻、壁薄轻柔、釉面滋润、玲珑剔透等特点,与普通白瓷相比同体积产品重量轻30%以上、白度高、透明度好、机械强度高以及绿色环保、抗菌保健、活化水等品质特色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。",
+      "manufacturingNotes": "贝壳砂、长石、石英、粘土；坯泥和釉料分别制备；随器型成型、施釉；高温素烧和低温釉烧两次烧成。"
+    }
+  ]
+}

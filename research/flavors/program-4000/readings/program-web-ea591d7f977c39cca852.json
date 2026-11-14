@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ea591d7f977c39cca852",
+  "title": "大同刀削面 - 云州美食 - 云州区人民政府",
+  "url": "https://www.yunzhou.gov.cn/yzqrmzfz/sqglmzzj/202007/e806464524534484962843b6f738a2f3.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "f7cc6c7e520f05fe09c43684089fa139757fe4dc31a1bfd8cb355887f3e84073",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bc7260b8c0fbeb5410bfc92ddba7a259ef468d3e6cb022dc2fff640985db415f",
+    "textLength": 3073,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "大同刀削面",
+      "province": "shanxi",
+      "city": "大同",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

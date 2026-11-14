@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f00d8e0bf48337f38523",
+  "title": "金坛封缸酒 – 常州特产指南",
+  "url": "https://changzhoutechan.cn/techan/jintan-fenggang-wine/",
+  "checked": "2026-11-14",
+  "responseSha256": "c5b9c092a357786c229df24d28319a86da3e249efb275f01f4ea73bc592febdb",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "30911151ce8b12fb30f18bb8852b1977d24944140afb938408e2931c3f2ff8b7",
+    "textLength": 1111,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "金坛封缸酒",
+      "province": "jiangsu",
+      "city": "常州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

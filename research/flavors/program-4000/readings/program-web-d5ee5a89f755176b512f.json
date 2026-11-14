@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d5ee5a89f755176b512f",
+  "title": "老饕的“五一”汴梁行：从早鲜到夜香，鼓楼美食全打卡-鼓楼区人民政府网站",
+  "url": "https://www.gulou.gov.cn/kfsglqwz/c00202/pc/content/content_1935255435885350912.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c1c5939b4d1e6696c4cb9f7ea2b76dc9aed9494872d8352355e91b108503fa1f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "222ead2f899c8596217bdba6d0bdf2cb632d341b9897db9637d03986604bf0ff",
+    "textLength": 2793,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炒凉粉",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

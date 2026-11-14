@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b69aa656475b6dedc520",
+  "title": "浙江糯叽叽天堂，人均30+吃遍街头小吃_澎湃号·湃客_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_24144825",
+  "checked": "2026-11-14",
+  "responseSha256": "131645f0486c6f9ef8bf1bf4c2e3366e599cefa6150b6cda26f1e8125d39be6b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fee5923fd6d824e712f59e73a87114fce4afe8a6d1399483f718d8aec78d72b7",
+    "textLength": 6292,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "八宝饭",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0771815680c75145e7e9",
+  "title": "杭州富阳东坞山豆腐皮获浙江省乡村美食金奖",
+  "url": "https://www.cfsn.cn/news/detail/573/250398.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d0499be46eb352e5a66561955bed6e1badcbcb42c6b12cf2fc188928627aefc4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b142cb71be43bab0e8b697a87ae095f1814c60c4715c92466b0aac3574b64e75",
+    "textLength": 2088,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "东坞山豆腐皮",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

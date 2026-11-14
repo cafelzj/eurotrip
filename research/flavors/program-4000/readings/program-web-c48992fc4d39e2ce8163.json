@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c48992fc4d39e2ce8163",
+  "title": "牛肉汤、羊肉汤、新安烫面角……洛阳“官宣”特色小吃地方标准 - 中原各地 - 精彩中原网",
+  "url": "https://zygd.jczynet.com/25833_1.html",
+  "checked": "2026-11-14",
+  "responseSha256": "2163356d5b2025f6549bcd8a6bb25b94d4adbc6596c23266b14c68a497cee8dd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e55b21fc2d3f8c6d1a82ac17786b25a4fd593d69c90709d64198373bdd2411d",
+    "textLength": 1789,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "新安烫面角",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

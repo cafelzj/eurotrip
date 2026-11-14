@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-4a19bd3e88a0ff10",
+  "title": "地理标志公告 · 2007年第202号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC202%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c14651afd2fa3f2b55f747b8e97866ef235e3c02426223ce549be9b4a34c82ee",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC202%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c14651afd2fa3f2b55f747b8e97866ef235e3c02426223ce549be9b4a34c82ee",
+    "textSha256": "97f4b5d5d798d4d68a7af95974fe3a6819ce373c5ade6ecdb6defa0f31ad6ae8",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "白城油葵",
+      "province": "jilin",
+      "city": "白城",
+      "locality": "白城相关产区",
+      "type": "ingredients",
+      "sectionSha256": "6a22334a32b4568cea91964979f4a099795fafc82c7a7ef2bc0b0c682d3779d3",
+      "headingOffset": 0,
+      "scope": "白城油葵地理标志产品保护范围以吉林省白城市人民政府《关于确定白城油葵地理标志产品保护范围的通知》(白政发〔2006〕27号)提出的范围为准,为吉林省白城市现辖行政区域",
+      "variety": "白葵杂六号、赤葵杂二号等适合在白城种植的油葵优良品种",
+      "sensory": "白城油葵籽粒饱满,果皮黑色,有光泽,硬度适中。粒形为长卵形或卵圆形,在收获、晾晒、清选和运输等过程中不易破损",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

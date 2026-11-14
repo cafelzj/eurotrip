@@ -1,0 +1,23 @@
+{
+  "id": "program-web-89787ff96dc836ba83da",
+  "title": "宿州9道美食上榜安徽“百县名小吃”_宿州市人民政府",
+  "url": "https://www.ahsz.gov.cn/zwzx/bmdt/192576551.html",
+  "checked": "2026-11-14",
+  "responseSha256": "22bc83f055b0f24b5df1006df0d069c0cf1794c9ca0b6a20397bc662e4c0ee5e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c197261ef6435e1fcaecd1685673907a1dbb8a51c58825dbfd6f2cfd13ee6ff5",
+    "textLength": 854,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "萧县羊肉汤",
+      "province": "anhui",
+      "city": "宿州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

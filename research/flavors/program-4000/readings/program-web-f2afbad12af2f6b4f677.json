@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f2afbad12af2f6b4f677",
+  "title": "央视《金牌新字号》推介漯河美食",
+  "url": "https://www.lhrb.com.cn/2024/07/08/wap_99532017.html",
+  "checked": "2026-11-14",
+  "responseSha256": "cc01263ca31e594450c79b55b976b2187590ee82b7cb4c8b407af8fe95b1e7c2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d6dcef530cef3e097fa830a341255a7c8ed52aabeea21bf62117382f92fdf83b",
+    "textLength": 3018,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "舞阳杠子馍",
+      "province": "henan",
+      "city": "漯河",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

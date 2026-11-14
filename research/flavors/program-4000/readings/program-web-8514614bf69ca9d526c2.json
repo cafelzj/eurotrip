@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8514614bf69ca9d526c2",
+  "title": "临沂美食攻略_临沂有什么特色小吃_临沂美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g2411/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "3b5f3b2ac3644d0805b9cde2d5e2bc3ace01fd73a104f7ae56d25aa856934952",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "31e7af509caaff59529e102148f170f187a5cdca77206ee7f314c7808a3b8a01",
+    "textLength": 1097,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沂水丰糕",
+      "province": "shandong",
+      "city": "临沂",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

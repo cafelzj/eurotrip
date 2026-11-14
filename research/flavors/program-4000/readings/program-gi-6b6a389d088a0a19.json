@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-6b6a389d088a0a19",
+  "title": "地理标志公告 · 2013年第99号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC99%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "062cab1db8579e16fb2b0bb00c3d13085306a78c1df61ec247e2ef99738b61e1",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC99%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "062cab1db8579e16fb2b0bb00c3d13085306a78c1df61ec247e2ef99738b61e1",
+    "textSha256": "cc5392f7b874d35c2a20ee8a0b38e1b3db5274808aafded4db2bab13f787d982",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "博洛铺小米",
+      "province": "liaoning",
+      "city": "营口",
+      "locality": "大石桥市",
+      "type": "ingredients",
+      "sectionSha256": "00d1fca04f8d0ec7e3de320c5ac106b3e52c9fbb05dee248f51f7ef99b75baaa",
+      "headingOffset": 1708,
+      "scope": "博洛铺小米产地范围为辽宁省大石桥市博洛铺镇、永安镇、汤池镇共3个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "粒大饱满,色泽淡黄或深黄,蒸煮气味清香、微甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "康平地瓜",
+      "province": "liaoning",
+      "city": "沈阳",
+      "locality": "康平县",
+      "type": "ingredients",
+      "sectionSha256": "f920cfbb7a3d52118974218d1f89d4137a6dd7c597a0615e8428449b31c2f6a2",
+      "headingOffset": 2332,
+      "scope": "康平地瓜产地范围为辽宁省康平县现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽鲜艳,纺缍型,皮光滑。口感甜、绵、沙,糯性强",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "乾安糯玉米",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "乾安县",
+      "type": "ingredients",
+      "sectionSha256": "5225ade5ac10f154d35551cec0eea8127103119afd6005b51cb9231c9752ff07",
+      "headingOffset": 5779,
+      "scope": "乾安糯玉米产地范围为吉林省乾安县乾安镇、大布苏镇、水字镇、安字镇、让字镇、所字镇、道字乡、严字乡、赞字乡、余字乡、鳞字特色农业园区、大布苏工业园区、大遐畜牧场、鹿场、来字良种繁育基地、腾字种畜场共16个乡镇场现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)鲜糯玉米:苞叶包被完整,新鲜嫩绿,果穗完整,籽粒饱满柔嫩,种皮色泽亮丽,穗形一致美观。(2)蒸煮速冻糯玉米:籽粒粘软清香,入口润滑,口感细腻,糯中带甜,皮薄无渣,适口性好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

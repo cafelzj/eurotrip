@@ -1,0 +1,95 @@
+{
+  "id": "program-gi-c646d2d97a419308",
+  "title": "地理标志公告 · 2018年第277号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5fe90f57ed12b0d062ab02f531571e38f567c23b2839eb5e582ec0f86a5c624d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5fe90f57ed12b0d062ab02f531571e38f567c23b2839eb5e582ec0f86a5c624d",
+    "textSha256": "fd4509f923cdb5f334ec0fbd5513b90342b96006d28763b14d98afe18992f6ae",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "铁岭大米",
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "清河区、铁岭县、西丰县、昌图县、调兵山市、开原市",
+      "type": "ingredients",
+      "sectionSha256": "9e4854b440ea3887537f9b3663542d3c86cf580cb570ce593811cf926aa53c7c",
+      "headingOffset": 1868,
+      "scope": "铁岭大米产地范围为辽宁省铁岭市铁岭县、开原市、西丰县、清河区,昌图县宝力镇、宝力农场、三江口镇、傅家镇、古榆树镇、长发镇、通江口镇、亮中桥镇、老城镇、东嘎镇、八面城镇、四面城镇和调兵山市大明镇、晓明镇现辖行政区域",
+      "variety": "铁粳、辽粳、沈农、富禾系列品种",
+      "sensory": "米质半透明或透明,色泽青白有光泽,具有本区域大米固有的自然清香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "南芬虹鳟鱼",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "南芬区、本溪满族自治县",
+      "type": "ingredients",
+      "sectionSha256": "01f5313501b20429d9708dbb8ba8bfda34fe1051dd72e8b4b502e9df41f181ed",
+      "headingOffset": 2873,
+      "scope": "南芬虹鳟鱼产地范围为辽宁省本溪市南芬区思山岭街道办事处、南芬街道办事处、铁山街道办事处、郭家街道办事处、下马塘街道办事处共5个街道现辖行政区域",
+      "variety": "虹鳟鱼",
+      "sensory": "背部和头部呈蓝绿色,头部、背部、体侧分布有不规则的黑褐色斑点,体侧沿侧线有一条鲜艳的彩虹带。无肌间刺,肉质肥嫩,无土腥味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "碱厂红南果",
+      "province": "liaoning",
+      "city": "葫芦岛",
+      "locality": "兴城市",
+      "type": "ingredients",
+      "sectionSha256": "f59e4e13eefbd7377e8f805226b7cb242913c20d9e1c1e1f0637923b4c4b0287",
+      "headingOffset": 3893,
+      "scope": "碱厂红南果产地范围为辽宁省兴城市碱厂满族乡、三道沟乡、药王乡、围屏乡、红崖子镇、郭家镇共6个乡镇现辖行政区域",
+      "variety": "南果梨",
+      "sensory": "近圆形,果实呈红色,果肉乳白至黄白色,单果重80g以上",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "炭泉黑豆",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "长岭县",
+      "type": "ingredients",
+      "sectionSha256": "c2813297a1d683f4e12b740d67b1fb911794333b9a534ea8c5f00d9d439d5d62",
+      "headingOffset": 5955,
+      "scope": "炭泉黑豆产地范围为吉林省长岭县前进乡、三县堡乡、东岭乡、腰坨子乡、新安镇、前七号镇、大兴镇、长岭镇、八十八乡共9个乡镇现辖行政区域",
+      "variety": "“大粒青”、“黑珍珠”等品种",
+      "sensory": "色泽乌黑亮泽、颗粒大而饱满、籽粒均匀、豆瓣呈青绿色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "乾安羊肉",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "乾安县",
+      "type": "ingredients",
+      "sectionSha256": "7987ea1d15c4d90a8cf42a53a029a375060dee2534f8e889c1525064546d3e0c",
+      "headingOffset": 6762,
+      "scope": "乾安羊肉产地范围为吉林省乾安县现辖行政区域",
+      "variety": "乾华肉用美利奴羊、鲁西黑头羊、东北细毛羊和小尾寒羊的杂交后代",
+      "sensory": "(1)鲜羊肉肌肉色泽鲜红或深红,有光泽,脂肪呈乳白色,肌纤维致密、坚实、有弹性、指压后的凹陷立即恢复。—18—(2)冻羊肉肌肉有光泽,色鲜艳,脂肪呈乳白色,肉质紧密,具有坚实感,肌纤维韧性强,外表微干或有风干膜,不粘手",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "泸溪椪柑",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "泸溪县",
+      "type": "ingredients",
+      "sectionSha256": "9d2c6740b1b7a175bc45294fa0a2e44838d38634eef2ee293e0ab26b7fb14c2f",
+      "headingOffset": 14654,
+      "scope": "泸溪椪柑产地范围为湖南省泸溪县武溪镇、浦市镇、洗溪镇、潭溪镇、兴隆场镇、达岚镇、合水镇、小章乡、白羊溪乡、石榴坪乡、解放岩乡共11个乡镇现辖行政区域",
+      "variety": "辛女椪柑",
+      "sensory": "果扁圆形,果皮光滑,橙红或橙黄色,蜡质层厚,皮薄易剥,果肉橙红色,脆嫩化渣,酸甜味浓,汁多,籽少,食后回味香甜。果实组织紧密,耐贮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

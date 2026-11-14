@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-e35e660e5afa38ba",
+  "title": "地理标志公告 · 2006年第76号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC76%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d4006a961a06914d1fc269e1f0096c888d237a86541a6061ad89ef5b69717637",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC76%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d4006a961a06914d1fc269e1f0096c888d237a86541a6061ad89ef5b69717637",
+    "textSha256": "fa3c2114fd4966aa5cffc6d418bb4c3da0b9488d00f81109456c4c3a8028ff5f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "茌平圆铃大枣",
+      "province": "shandong",
+      "city": "聊城",
+      "locality": "茌平区",
+      "type": "ingredients",
+      "sectionSha256": "ea8a0ee767e3d20501dbdde6d784b34a8ec872c300cf091fe8c54c45fb014f4d",
+      "headingOffset": 0,
+      "scope": "茌平圆铃大枣地理标志产品保护范围以山东省茌平县人民政府《关于界定茌平圆铃大枣地理标志产品保护范围的建议》(茌政发[2005]48号)提出的范围为准,为山东省茌平县现辖行政区域",
+      "variety": "圆铃大枣及优系",
+      "sensory": "干果着深紫红色,果皮薄而坚韧,果形以椭圆形为主,皱褶多,果形饱满、肉实,富有弹性,干枣单果重量不低于5克,可食率不低于91%",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-934bb6287d481f925f48",
+  "title": "新洲区：全域旅游盛景绘就，魅力新城待君来赏 - 武汉市人民政府门户网站",
+  "url": "https://www.wuhan.gov.cn/whyw/gqdt/202411/t20241115_2485238.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "a484090516aeb22ad5884de00115aaf6a8173546e424bddcd6cd1810715e8766",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7768f7ae2f7374f621f042dc6f0ee51b742c6c674f14577a08b389c28fcafe03",
+    "textLength": 4219,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "旧街白茶",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

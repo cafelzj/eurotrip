@@ -1,0 +1,23 @@
+{
+  "id": "program-web-414fc41a77d330a9f6d7",
+  "title": "淮扬菜特刊　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　人文历史",
+  "url": "https://kjc.jsfpc.edu.cn/_upload/article/files/65/d2/ffcd630c40f0a247900c9cc3b912/27ab2e19-1e16-4046-833c-7405ae38c911.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "431ed6efd1fca867114c64d668bac6babef2ddd634a239561bc5a812f2a1496f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a5c7b6ef331b3b969217bab89e308ede02570b54d8f7fd8d277ab7ca422f7c19",
+    "textLength": 265381,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高沟酒",
+      "province": "jiangsu",
+      "city": "淮安",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

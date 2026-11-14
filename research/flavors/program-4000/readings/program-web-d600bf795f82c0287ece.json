@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d600bf795f82c0287ece",
+  "title": "菏泽十大小吃 菏泽特色小吃排行 菏泽有什么名小吃→买购APP",
+  "url": "https://www.maigoo.com/top/405452.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0b6fe0b0725be2385d2caedd2698157fc7c7279a0dd4376dba8a7edf04f06ec4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9789562dc2a054dbb5b079d90738f689c7838111f50e9632db19623a94a8bbb5",
+    "textLength": 6392,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "曹县烧饼",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

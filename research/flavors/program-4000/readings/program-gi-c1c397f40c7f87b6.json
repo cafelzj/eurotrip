@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-c1c397f40c7f87b6",
+  "title": "地理标志公告 · 2011年第175号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "fc1925da5fc572a29474588433932b78712b8816ca408f287143e6d0c2ab51eb",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "fc1925da5fc572a29474588433932b78712b8816ca408f287143e6d0c2ab51eb",
+    "textSha256": "63c11b1d4a7c47918b43b02746954e32d1627198135eab17062cecce9364c78f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永安金线莲",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "永安市",
+      "type": "ingredients",
+      "sectionSha256": "10af3c2556f7e7640ba699b15cb6eff966c8bf72220f17def88a9b00d8171c22",
+      "headingOffset": 1671,
+      "scope": "永安金线莲产地范围为福建省永安市现辖行政区域。",
+      "variety": "金线莲[A.roxburghii(Wall)Lindl.]",
+      "sensory": "(1)鲜品:株高6cm以上,植株硬挺,茎节明显,根2至3条,叶5至6片,叶为卵椭圆形,互生具柄,尾尖,叶表面墨绿色有光泽,叶脉金黄清晰,脉络相连,背面呈淡紫色。(2)干品:株形完整、干燥,茎节明显,叶片卷曲皱缩,脉络清晰,有特殊气味,每10克70至100株",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "丹江口鳡鱼",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "丹江口市",
+      "type": "ingredients",
+      "sectionSha256": "5af6da7fe627906f6d451e49e2b8cf439d4170cd1db08523fdd05c837d7463f2",
+      "headingOffset": 2600,
+      "scope": "丹江口鳡鱼产地范围为湖北省丹江口市武当山特区、六里坪镇、均县镇、习家店镇、蒿坪镇、石鼓镇、凉水河镇、浪河镇、丁家营镇、土台乡、土关垭镇、牛河林业开发管理区、三官殿街道办事处、大坝街道办事处、均州路街道办事处、新港经济开发管理处、丹赵路街道办事处17个乡镇办(处、区)现辖行政区域。",
+      "variety": "鳡鱼(Elopichtysbambusa)",
+      "sensory": "(1)活鱼:背部呈青色,腹部纯白色,体色光亮,肉质细嫩鲜美。(2)冰鲜鱼:鲜鱼加冰块包装,保鲜贮运,不改变鲜鱼形态,保持鲜鱼色泽和肉质风味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

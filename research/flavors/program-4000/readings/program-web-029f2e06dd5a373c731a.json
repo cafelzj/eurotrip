@@ -1,0 +1,23 @@
+{
+  "id": "program-web-029f2e06dd5a373c731a",
+  "title": "@许昌名吃，这24种许昌地道美食，你吃过几种？-大河新闻",
+  "url": "https://www.dahebao.cn/dahe/appweb/1358864",
+  "checked": "2026-11-14",
+  "responseSha256": "80043e4dea6b40e4d45f7d2ee3da2a0cb7536ebce1f9b72dfa3bacb125f100ab",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9c0ae1c7801a330720c1c82b35076924424b33db4b0b4f1b07a4b26dadf978c6",
+    "textLength": 4525,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鄢陵吊炉烧饼",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

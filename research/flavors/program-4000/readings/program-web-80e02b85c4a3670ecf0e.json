@@ -1,0 +1,23 @@
+{
+  "id": "program-web-80e02b85c4a3670ecf0e",
+  "title": "黑龙江省齐齐哈尔市富裕县传统优势项目与“三新”项目齐发展搭上项目快车奔向富裕路",
+  "url": "https://www.mof.gov.cn/zhengwuxinxi/xinwenlianbo/heilongjiangcaizhengxinxilianbo/201008/t20100809_332177.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "31a1ebd5fcdf49f3f12210830c52cc44c0e69eaa7d38b8c586b1346fe9844277",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5d2cb4380a10302f4c74456796cbb52d36c1f1528f59b1623ad66488fb035caa",
+    "textLength": 2605,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "富裕老窖",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

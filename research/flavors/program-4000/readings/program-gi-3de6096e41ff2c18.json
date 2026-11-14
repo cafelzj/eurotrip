@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-3de6096e41ff2c18",
+  "title": "地理标志公告 · 2010年第70号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC70%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "8fcf193a8d006fa5617c06a2e5279e017a3292ea43e59ef69957abb09e7d911b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC70%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "8fcf193a8d006fa5617c06a2e5279e017a3292ea43e59ef69957abb09e7d911b",
+    "textSha256": "2f86f5f4e9b5c1e12b740b4fa7021ba6015f57970a21ddb9f01e4ae7e84bfb4a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "衢州莹白瓷",
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "柯城区、衢江区、常山县、开化县、龙游县、江山市",
+      "type": "crafts",
+      "sectionSha256": "0df6f073549a65a5a5024105e4698cad2f93d206619aff8bcd45d376df29969e",
+      "headingOffset": 1643,
+      "scope": "衢州莹白瓷地理标志产品保护范围为浙江省衢州市柯城区、衢江区、龙游县、常山县、开化县、江山市等6个区、县、市现辖行政区域。",
+      "variety": "",
+      "sensory": "洁如玉,滑如脂,明如莹。瓷质细腻,釉面柔和,透亮皎洁,似象牙,又似羊脂白玉",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "正阳三黄鸡",
+      "province": "henan",
+      "city": "驻马店",
+      "locality": "正阳县",
+      "type": "ingredients",
+      "sectionSha256": "81665d8a13e88201e782dd100dbace17fc780e7c39acae841b3f8633effe9c89",
+      "headingOffset": 2865,
+      "scope": "正阳三黄鸡地理标志产品保护范围为河南省正阳县慎水乡、兰青乡、铜钟镇、大林镇、皮店乡、陡沟镇等6个乡镇现辖行政区域。",
+      "variety": "三黄鸡",
+      "sensory": "(1)活体特征:正阳三黄鸡体格较小,体态匀称,结构紧张状态,外貌秀丽,具有喙黄黄羽蹠黄的“三黄”特征。公鸡头大小适中,眼大有神,虹彩橘红色。冠形分单冠、复冠两种,单冠直立,占86%,有5至7个冠齿。颈羽较躯干羽色稍浅,带金光,全身羽毛金黄色,主翼羽黄褐色,尾羽黑褐色。头尾高翘。母鸡体型小巧呈楔形,头清秀,喙黄色基部呈黄褐色。颈羽黄色,较躯干羽色略深,带金光。胸圆,肌肉丰满,腹部宽广柔软富弹性。(2)白条鸡特征:正阳三黄鸡屠宰后,胴体美观,全身皮肤呈嫩黄色,皮下及腹腔内脂肪呈鲜黄色。具有皮薄、骨细、肉质细嫩多汁、风味鲜美,营养丰富等特点",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

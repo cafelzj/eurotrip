@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5b759c75876a484fb18d",
+  "title": "“瓯菜十大系列菜”评选揭晓！乐清两大特色菜入选_搜狐网",
+  "url": "https://m.sohu.com/a/492049086_121117447",
+  "checked": "2026-11-14",
+  "responseSha256": "13f5006de1a2a61805b8c4cc1cb397769987c8b45563d9b5df82fcc84a28e5f2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e072c700ab2da1ea6a5c2267e3e2542c9b45816870031b3a8e1733c8526c07fe",
+    "textLength": 768,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "清江三鲜面",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

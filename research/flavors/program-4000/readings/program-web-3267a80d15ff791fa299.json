@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3267a80d15ff791fa299",
+  "title": "荆州美食小吃（当地的主要特产分布） - 灵秀湖北",
+  "url": "https://www.lingxiuhubei.com/jn/4153.html",
+  "checked": "2026-11-14",
+  "responseSha256": "55f061671aeffec7a2c23e8cc84b1ecb3c9fa39c383fc4d8372a059f1376620f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "3555a21813c9d0ea34d8811c6fd8a240034c7827de393f3d42d036de70a4b227",
+    "textLength": 3287,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "公安锅盔",
+      "province": "hubei",
+      "city": "荆州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

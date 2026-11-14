@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8c2cfe51b2f40cab4b4a",
+  "title": "齐鲁味话：山东名吃故事集（八十五）聊城篇·阳谷布袋鸡 - 鲁网银龄频道 山东银龄新闻网 山东银龄服务平台",
+  "url": "https://y.sdnews.com.cn/lxsh/wenxue/202607/t20260723_4711680.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "781c2854ca22fb4c220eb37775648ee29619a2217f2100526601435d68caad12",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a115560bd7ce33f167cf18d3338ae0e018c133be12575c93390f8fde05ab7bd1",
+    "textLength": 1920,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "阳谷布袋鸡",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-185fd1068f4c9cc9ea70",
+  "title": "民间故事让美食文化“出圈”，江陵铁牛饼成爆款美食-荆楚网-湖北日报网",
+  "url": "https://news.cnhubei.com/content/2022-04/22/content_14684538.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6a5f881607632258c9fb26099f526d6a1b69e44972863932e88d4991cb28dc5a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "370e7d3138155dd13c12e4a3b08fb4962b1e9f5f9c20d39ed866cc1ecd5e40d5",
+    "textLength": 4655,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "江陵铁牛饼",
+      "province": "hubei",
+      "city": "荆州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

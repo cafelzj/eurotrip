@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bb8a308fcca28fe209ef",
+  "title": "玉环特色美食推荐｜鱼皮馄饨·敲鱼面·古早小吃",
+  "url": "https://www.juour.cn/zj/yuhuanwenlv/yuhuan-meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b661b3cee118a2c70ab7033b366ff5b5fd0c6baadb515e9e8a581a771c7f8688",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "66bf7d58dd6b4939d49b6096c7653531bf3813815a66d99c71f1fd9fdb520d7d",
+    "textLength": 5217,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "玉环文旦",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

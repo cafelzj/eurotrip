@@ -1,0 +1,39 @@
+{
+  "id": "program-web-089c9e88af09a8a21995",
+  "title": "非遗+美食！德州发布4条特色美食线路",
+  "url": "https://iapp.dztv.tv/share/YS0xNzktNDQ1NTc1NjU.html",
+  "checked": "2026-11-14",
+  "responseSha256": "30ac02b3cd6cf511972c46cf51d0c997a99d5d2c44adcacd0d5df1e2dc9f86bd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "82165ae3c268e158aef86a3954de2baddf311e348c0ac969011be66505c55b1b",
+    "textLength": 1042,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宁津大柳面",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "保店驴肉",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "长官包子",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e097dc8de943cdea1537",
+  "title": "温州市乐清文旅：雁荡山下的山海之城怎么玩",
+  "url": "https://www.juour.cn/zj/yueqing/index.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ae48b1f37b4d6637e9f8d3bfb1073edba73845a10286a756650ca4f869fab86b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2232bb8a3a8c8aa339e8a7754bd34bdf2ee61f8fcdf863d8eb605d84437b1974",
+    "textLength": 7372,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "清江三鲜面",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

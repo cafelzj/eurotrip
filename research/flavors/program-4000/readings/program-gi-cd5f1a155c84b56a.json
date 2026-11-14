@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-cd5f1a155c84b56a",
+  "title": "地理标志公告 · 2009年第68号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC68%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e3cee013fda0b1020e94aa6ca810f93190f9fc2940a7d951496ccf181844ff6a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC68%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e3cee013fda0b1020e94aa6ca810f93190f9fc2940a7d951496ccf181844ff6a",
+    "textSha256": "ea1b7ba9b53fbbfc792a9b010c6585f5427c9e3b7647b637fc85f952d93a05a6",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "内黄大枣",
+      "province": "henan",
+      "city": "安阳",
+      "locality": "内黄县",
+      "type": "ingredients",
+      "sectionSha256": "e7d730826b40f6d8668f156f159643850de157702b00b016e964a34c4ee803e2",
+      "headingOffset": 2195,
+      "scope": "内黄大枣地理标志产品保护范围为河南省内黄县城关镇、张龙乡、马上乡、东庄镇、高堤乡、亳城乡、梁庄镇、中召乡、后河镇、井店镇、二安乡、六村乡、楚旺镇、宋村乡、田氏乡、豆公乡、石盘屯乡等17个乡镇现辖行政区域。",
+      "variety": "扁核酸",
+      "sensory": "形状为短圆筒形,上端略粗,下端略细,果核为扁形,单果重≥4.2克;外果皮紫红色,有光泽;果肉厚,呈浅黄色,酸甜适口,有弹性",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

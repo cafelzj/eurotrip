@@ -1,0 +1,31 @@
+{
+  "id": "program-web-f6ed589612ea68a4dcee",
+  "title": "潍坊九种美食入围山东百种非遗美食名单_潍坊民生_潍坊_齐鲁网",
+  "url": "https://weifang.iqilu.com/wfminsheng/2025/0508/5809092.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "7019e958f4de7c0765a77776cd6289affc2eaa527fd82b2a3d8eedf1e662591a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "86601a261481258e82a1a4e59ec05d0e097da820849336c77a8e4f6acda4bb75",
+    "textLength": 2470,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "临朐全羊",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "诸城烧肉",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-e5e863c54feedf2b",
+  "title": "地理标志公告 · 2006年第221号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC221%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e775d07b9de389ac4acbec621a0b387f0c79beaa14f8c3efb0b7468f507d2f60",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC221%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e775d07b9de389ac4acbec621a0b387f0c79beaa14f8c3efb0b7468f507d2f60",
+    "textSha256": "799d0b83a730d298bc047e2bf5fcd077b77194473f048d0eb8ac267d3a3f8d1c",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "桓仁冰酒",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "type": "alcohol",
+      "sectionSha256": "fcba0251ee6c4b9795f510f163cdd3ccf76c548b9826d16d1fed02caea971ede",
+      "headingOffset": 0,
+      "scope": "桓仁冰酒地理标志产品保护范围以辽宁省桓仁满族自治县人民政府《关于桓仁冰酒地域保护范围的请示》(桓政办发[2006]82号)提出的范围为准,为辽宁省桓仁满族自治县北甸子乡现辖行政区域",
+      "variety": "",
+      "sensory": "金黄色,清亮透明,果香浓郁,丰满醇厚,甜润爽口,回味悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

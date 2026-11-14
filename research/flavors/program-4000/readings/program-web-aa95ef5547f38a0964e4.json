@@ -1,0 +1,31 @@
+{
+  "id": "program-web-aa95ef5547f38a0964e4",
+  "title": "如皋特色美食大全 - 长寿八碗 · 早茶5种 · 街头晚茶12种 · 长寿乡特产糕饼 | 如皋旅游",
+  "url": "https://www.rgly.com/xiaochi/",
+  "checked": "2026-11-14",
+  "responseSha256": "f7163d56d693c4d8e017f0388f15cd9424d5010b7910d59cc03582b22936b197",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c28e614490f5ac2cfe40b0c22c353b76d2d2d1008f02406b49464499f71846a6",
+    "textLength": 1675,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "如皋萝卜干",
+      "province": "jiangsu",
+      "city": "南通",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "林梓潮糕",
+      "province": "jiangsu",
+      "city": "南通",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

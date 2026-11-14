@@ -1,0 +1,23 @@
+{
+  "id": "program-web-40c19b67da795f389373",
+  "title": "乐享冬趣主题线路 | 来菏泽吧！远离喧嚣尽享生态闲情游！_要闻_大众网菏泽",
+  "url": "https://heze.dzwww.com/yw/202312/t20231206_13269920.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "985470f92cbfa2ee6f40f1eb29e31adc519ca5bdec427ee3fe06bfaa3a9ba9b2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c1b0305dccc9b4c9ea8ff2f2d5a32e24058cbd93d79f07ebdd4c3bde7d7790e8",
+    "textLength": 3583,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "东明香肚",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

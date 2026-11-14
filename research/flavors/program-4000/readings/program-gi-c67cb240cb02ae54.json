@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c67cb240cb02ae54",
+  "title": "地理标志公告 · 2006年第188号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC188%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "cf8a5824d553e8cbae0a5100f0b19da41c2bcb6f78cb30f4da961fd0113432f4",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC188%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "cf8a5824d553e8cbae0a5100f0b19da41c2bcb6f78cb30f4da961fd0113432f4",
+    "textSha256": "fde63944b09865ddd86fbbbfedcd28e2c01571a65de440341330e580a889de31",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "瓯柑",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "瓯海区",
+      "type": "ingredients",
+      "sectionSha256": "1799caffcd792c9b9331d3f1699d931676a7717be5cad1449cddacf7d386e632",
+      "headingOffset": 0,
+      "scope": "瓯柑地理标志产品保护范围以浙江省温州市瓯海区人民政府《关于瓯柑地理标志产品保护范围划定的意见》(温瓯政[2004]40号)提出的范围为准,为浙江省温州市瓯海区现辖行政区域",
+      "variety": "",
+      "sensory": "果形端正,果径≥50mm,果皮色泽橙黄色或金黄色,果皮与果肉结合紧密,易于剥离,果肉柔软化渣,略带微苦",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

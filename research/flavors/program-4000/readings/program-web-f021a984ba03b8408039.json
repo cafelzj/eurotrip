@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f021a984ba03b8408039",
+  "title": "淮安政协文史",
+  "url": "https://zx.huaian.gov.cn/col/14068_734855/art/16987680/1699841384291O4VyCzD2.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d3abbe41f037b3c7bacb0fc05435df3ee93bfc45135c2a72b1640034f2d44e60",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d56a8ddda7cde0488206f7a290954144872679f11c9fd198e7854f0a88590037",
+    "textLength": 1715,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "平桥豆腐",
+      "province": "jiangsu",
+      "city": "淮安",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

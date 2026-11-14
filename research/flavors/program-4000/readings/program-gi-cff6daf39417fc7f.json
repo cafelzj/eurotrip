@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-cff6daf39417fc7f",
+  "title": "地理标志公告 · 2007年第78号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC78%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5cfdb7a244b7b161a55a4af970f7ef4dfc058d2fe50c4339390564c85a9addaf",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC78%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5cfdb7a244b7b161a55a4af970f7ef4dfc058d2fe50c4339390564c85a9addaf",
+    "textSha256": "989f3571ec2c118c8cc924e1d10e1d9e2abec97c3529b43081d682ebce804bd7",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "河阴石榴",
+      "province": "henan",
+      "city": "郑州",
+      "locality": "荥阳市",
+      "type": "ingredients",
+      "sectionSha256": "6d12d619a49a8bafc9e8a3c32288a1c727f6e4a99755fffa9cfda759b93cb42f",
+      "headingOffset": 0,
+      "scope": "河阴石榴地理标志产品保护范围以河南省荥阳市人民政府《关于河阴石榴地理标志产品保护范围界定的报告》(荥政文[2006]197号)提出的范围为准,为河南省荥阳市广武镇、高村乡、王村镇、汜水镇4个乡镇现辖行政区域",
+      "variety": "豫软籽1号及其芽变(不包含硬籽芽变)",
+      "sensory": "品种外观色泽单果重(g)百粒重(g)可食率(%)果皮厚度(cm)豫软籽1号1/2红≥200≥60≥90≤0.3红皮软籽全红≥200≥55≥85≤0.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

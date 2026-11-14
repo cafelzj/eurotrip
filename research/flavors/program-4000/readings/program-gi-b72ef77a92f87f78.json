@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b72ef77a92f87f78",
+  "title": "地理标志公告 · 2007年第28号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "72028be8cab2619a853b3999dd12efb62630e940edf909994035dd0242e43f8d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC28%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "72028be8cab2619a853b3999dd12efb62630e940edf909994035dd0242e43f8d",
+    "textSha256": "5916580cf85e9d0df420c812b022034764f5997244bde3820e0a56cba596963f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "扶余四粒红",
+      "province": "jilin",
+      "city": "松原",
+      "locality": "扶余市",
+      "type": "ingredients",
+      "sectionSha256": "8d366d87a8c15a8f102b884ef9e4fa2573ec06029976e4da071b540ca112757a",
+      "headingOffset": 0,
+      "scope": "扶余四粒红地理标志产品保护范围以吉林省《扶余县人民政府办公室关于确定扶余四粒红花生地理标志产品保护范围的通知》(扶政办发[2006]4号)提出的范围为准,为吉林省扶余县三岔河镇、陶赖昭镇、五家站镇、弓棚子镇、增盛镇、三井子镇、新万发镇、大林子镇、新站乡、社里乡、永平乡、更新乡、徐家店乡、肖家乡等14个乡镇现辖行政区域",
+      "variety": "扶余中粒、扶花一号、扶花二号、扶花三号等系列品种及其优系",
+      "sensory": "扶余四粒红感官特征应符合下表规定:产品名称特点花生仁花生果项目串珠形;果壳坚实,一般外有12粒形多见三角形、圆柱型;籽粒圆润饱条纵脉,其间有许多小维管束相形态满;果皮光滑;单粒较小,平均径长7通,脉络平滑;荚果果喙短小、毫米左右,高12毫米左右。果腰不明显;多为4室,每室1颗果仁种皮呈红色、棕红色或深红色,颜色均白色或浅黄色,略带暗青,均匀色泽匀;有光泽;子叶呈白色或乳白色一致油而不腻,脆而不硬,润而不粘,香味口感纯正,余味持久",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

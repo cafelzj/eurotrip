@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-be8ff8e421c9b987",
+  "title": "地理标志公告 · 2005年第119号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "87d5fc261d4f9ed309529e164711cf28008089259fa9d84c1e0827bd03d990ea",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "87d5fc261d4f9ed309529e164711cf28008089259fa9d84c1e0827bd03d990ea",
+    "textSha256": "25ccaeb9f8859859ac43ff79c11114c41ab14b708a0f7782ea1b66e03f3d0f3f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "涉县核桃",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "涉县",
+      "type": "ingredients",
+      "sectionSha256": "0a01ced81d6f251cecbe24c4b423f526960aa85428c176eeff625405848015ab",
+      "headingOffset": 0,
+      "scope": "涉县核桃地理标志产品保护范围以河北省涉县人民政府《关于界定涉县核桃地理标志保护范围的建议的函》(涉政呈[2004]47号)提出的范围为准,为河北省涉县现辖行政区域",
+      "variety": "绵核桃",
+      "sensory": "果实中等大,果顶平钝,基部圆滑,种仁饱满,壳皮较薄,黄褐色,无光泽,麻纹明显,但不深刻,缝合线微隆起,内隔壁不发达,取仁容易,风味浓香。壳厚1.5mm左右",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

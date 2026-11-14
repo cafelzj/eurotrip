@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7f39ef9ee2f3fae47695",
+  "title": "张家口积极推进农业品牌创建",
+  "url": "https://www.cfsn.cn/news/detail/243/334810.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c4e3c6fc5070b59117fab49044815f156ac3ed386fbfbb16aa734dba589865c9",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "18fb0f0a1302c66f1db44e140dd0d65302162601b432d73d801d57e5700e4dd6",
+    "textLength": 2240,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "张北马铃薯",
+      "province": "hebei",
+      "city": "张家口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

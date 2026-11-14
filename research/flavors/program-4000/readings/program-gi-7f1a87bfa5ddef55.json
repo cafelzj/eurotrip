@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-7f1a87bfa5ddef55",
+  "title": "地理标志公告 · 2006年第194号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "447d74286f16bba97d838d82f52d1ea5cb5348190bfe096dd2a5022338252ae5",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "447d74286f16bba97d838d82f52d1ea5cb5348190bfe096dd2a5022338252ae5",
+    "textSha256": "21198133c0845f0d891d088716b947cbde9a3f22e323b2ebc1ffa324251cacdb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "兴化香葱",
+      "province": "jiangsu",
+      "city": "泰州",
+      "locality": "兴化市",
+      "type": "ingredients",
+      "sectionSha256": "2f75f4c14266ed1a1f845cbfb5ffdf992491c75dac749e7427a6c2d8ade6feba",
+      "headingOffset": 0,
+      "scope": "兴化香葱地理标志产品保护范围以江苏省兴化市人民政府《关于兴化香葱地理标志保护范围的请示》(兴政发〔2005〕111号)提出的范围为准,为江苏省兴化市现辖行政区域",
+      "variety": "",
+      "sensory": "(1)鲜葱:叶鞘圆管形,呈白色,叶身呈管状,新叶呈青绿色,成龄叶呈深绿色。株高≥40cm,假茎粗≥1.0cm,青白比7:3。(2)脱水葱:水分≤8.0%,总灰份≤8.0%",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

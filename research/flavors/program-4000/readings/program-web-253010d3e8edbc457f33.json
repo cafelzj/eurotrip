@@ -1,0 +1,23 @@
+{
+  "id": "program-web-253010d3e8edbc457f33",
+  "title": "晋江市“沪江十八道”深沪地标宴发布会举行_申都新闻_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://quanzhou.gov.cn/gastronomy/ch/scdt/sdxw/202501/t20250102_3125763.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "d2ef2b99af8b1645ddc579d75928bbc316de5efbff1f2968511621a6ab6dbdee",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4d1325caa4da9f149aa688680c51263f20445e426617168ccd507fef933b42d4",
+    "textLength": 1681,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "拳头母",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

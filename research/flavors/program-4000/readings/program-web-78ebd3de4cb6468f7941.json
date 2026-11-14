@@ -1,0 +1,31 @@
+{
+  "id": "program-web-78ebd3de4cb6468f7941",
+  "title": "馋哭了！台州这些非遗美食，你都吃过吗-台州频道",
+  "url": "https://tz.zjol.com.cn/tzxw/202304/t20230407_25608171.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "d5bc2e5603d0371d44c0e7bb480ed5ebf14a1c9ecacc2376282e04a3f134db13",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6e45dec834e03c0a82cc85ca80df541fc956f1fc558655cf031af062a4605e8f",
+    "textLength": 2414,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "姜汁调蛋",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "食饼筒",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

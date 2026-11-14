@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-46ff285ee3b68bca",
+  "title": "地理标志公告 · 2006年第223号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC223%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5e9f1538f47f90c13f48a021ceb5927c4b7d9128a79aa1f9ead85f75e6d282cb",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC223%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5e9f1538f47f90c13f48a021ceb5927c4b7d9128a79aa1f9ead85f75e6d282cb",
+    "textSha256": "8925346c1d07acb7c82881c06818d8a6be6b8918422698136d2cfc317b328401",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "丹东板栗",
+      "province": "liaoning",
+      "city": "丹东",
+      "locality": "元宝区、振兴区、振安区、宽甸满族自治县、东港市、凤城市",
+      "type": "ingredients",
+      "sectionSha256": "dd8cee83d97d62943fcf7d78ac5280936219752a4733485acb39f376f35bcb35",
+      "headingOffset": 0,
+      "scope": "丹东板栗地理标志产品保护范围以辽宁省丹东市人民政府《关于划定丹东板栗地理标志产品保护地域范围建议的函》(丹政[2006]75号)提出的范围为准,为辽宁省丹东市东港市、凤城市2个市,宽甸县,元宝区、振安区、振兴区等3个区现辖行政区域",
+      "variety": "辽栗10号、辽栗23号、丹泽、利平、大峰、9113、有磨、国见、土60、金华",
+      "sensory": "果实呈三角形状,椭圆或扁椭圆形,有顶尖,红褐色或淡褐色,果面光滑;果肉黄白色或淡黄色,有香味,质地细糯。大果型品种平均单果重≥16克,中果型品种平均单果重≥11克",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

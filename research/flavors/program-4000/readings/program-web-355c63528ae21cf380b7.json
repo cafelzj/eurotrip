@@ -1,0 +1,23 @@
+{
+  "id": "program-web-355c63528ae21cf380b7",
+  "title": "湖北·赏花踏青之旅-中国旅游新闻网",
+  "url": "https://www.ctnews.com.cn/zt/content/2023-04/28/content_141347.html",
+  "checked": "2026-11-14",
+  "responseSha256": "af6665e8ab515424bb865f5c36e881415e920428036297692c22c3ad699b3486",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1eebd4376c8dbe602c082afc4a9281bcc4395e21549c26ef2f54fc4c659d7b7c",
+    "textLength": 2283,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "来凤杨梅",
+      "province": "hubei",
+      "city": "恩施州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

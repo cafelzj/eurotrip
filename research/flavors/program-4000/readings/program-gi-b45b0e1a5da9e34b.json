@@ -1,0 +1,121 @@
+{
+  "id": "program-gi-b45b0e1a5da9e34b",
+  "title": "地理标志公告 · 2014年第109号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC109%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b125193c1581bfaf64aa6441cc6cfea0db7ae31b9d5bea54eb9c37b4cbdefc27",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC109%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b125193c1581bfaf64aa6441cc6cfea0db7ae31b9d5bea54eb9c37b4cbdefc27",
+    "textSha256": "5c533256dfc4fbd67a1aea34d9d01c84012c9f1aadcbeaf25e173430b9c306a7",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "公安牛肉",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "公安县",
+      "type": "ingredients",
+      "sectionSha256": "c36985a054361cf25b3f3f81c20c78cf8291e14d96bca4dd3f8049b7a308b1a6",
+      "headingOffset": 5273,
+      "scope": "公安牛肉产地范围为湖北省公安县现辖行政区域。",
+      "variety": "",
+      "sensory": "肉质紧实,不腥不燥,色泽酱红,味道鲜美,汤汁浓郁,且嚼劲十足。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "野猪湖胖头鱼",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝南区",
+      "type": "ingredients",
+      "sectionSha256": "6a1a26cd762b44a2781c756d399c2c03e4ef4f2600d2693f2d82f7a408377def",
+      "headingOffset": 6939,
+      "scope": "野猪湖胖头鱼产地范围为湖北省孝感市孝南区野猪湖现辖行政区域。",
+      "variety": "",
+      "sensory": "鱼头大而肥,体色光亮,从背部向下由微黑至银白,肉质富有弹性,口感嫩滑,滋味鲜香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "海子湖青鱼(长湖青鱼)",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "荆州区",
+      "type": "ingredients",
+      "sectionSha256": "b2437f34c252fd7e30352db4fefe435be0b52e6fcd1a432883760fe85ef543eb",
+      "headingOffset": 7729,
+      "scope": "海子湖青鱼(长湖青鱼)产地范围为湖北省荆州市荆州区海子湖(长湖)流域以及与海子湖(长湖)连通的水域。",
+      "variety": "",
+      "sensory": "肉质细嫩鲜美,鱼体圆润光滑。体背及体侧上半部青黑色,腹部灰白色,各鳍均呈灰黑色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "随州银杏",
+      "province": "hubei",
+      "city": "随州",
+      "locality": "随州相关产区",
+      "type": "ingredients",
+      "sectionSha256": "fdd1164528aca2ca16f834acab8efd8709327b0c8a17e45007f26a92db7266df",
+      "headingOffset": 8534,
+      "scope": "随州银杏产地范围为湖北省随州市洛阳镇、何店镇、长岗镇、三里岗镇、柳林镇、均川镇、洪山镇、环潭镇、吴山镇、万和镇、殷店镇、草店镇、小林镇、淮河镇共14个镇现辖行政区域。",
+      "variety": "",
+      "sensory": "种壳呈汉白玉或鱼肚白色,具光泽。种仁熟后质地细腻,具韧性和糯性,口感自然香,略有苦感",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "北寨红杏",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "平谷区",
+      "type": "ingredients",
+      "sectionSha256": "561d1abb3251d51fb31f054c8f801f59b33ebf399bef121d03516770084230ee",
+      "headingOffset": 9201,
+      "scope": "北寨红杏产地范围为北京市平谷区北寨村现辖行政区域。",
+      "variety": "",
+      "sensory": "果大形圆,皮薄肉厚,果肉桔黄色,成熟时着红晕,酸甜适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大营裘皮",
+      "province": "hebei",
+      "city": "衡水",
+      "locality": "枣强县",
+      "type": "crafts",
+      "sectionSha256": "193b7fb196595eae3046bb909597a4d0b80f5970b4d97d0dd753469a76104f5f",
+      "headingOffset": 9751,
+      "scope": "大营裘皮产地范围为河北省枣强县大营镇、新屯乡、恩察镇、加会镇共4个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "无皮脂和化工味道,质地柔软,毛质细润柔软,轻柔暖和。(1)水貂皮:皮型完整,毛绒平整、灵活,毛色纯正、光亮,背腹基本一致;针绒毛长度比例适中,针毛覆盖绒毛良好;板质良好。(2)狐狸皮:皮型完整,毛绒厚密,针毛齐全灵活,被毛蓬松、颜色均匀、有光润,皮板细韧。(3)貉皮:皮型完整,毛绒丰足,针毛齐全,绒毛清晰,色泽光润,板质良好。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "辉南大米",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "辉南县",
+      "type": "ingredients",
+      "sectionSha256": "c486c370ea412eb0097d76b10e3d61292d87c94ce01d07a779adcef7faa38b6c",
+      "headingOffset": 11792,
+      "scope": "辉南大米产地范围为吉林省辉南县现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽清白、籽粒完整饱满,光亮透明,饭香浓郁,松软油亮,饭粒完整,米饭冷后不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "桑植萝卜",
+      "province": "hunan",
+      "city": "张家界",
+      "locality": "桑植县",
+      "type": "ingredients",
+      "sectionSha256": "ff5f03915d7def05aff1ccdd5cf2e2108515ec98618339989d3a63dda1a2ba27",
+      "headingOffset": 13266,
+      "scope": "桑植萝卜产地范围为湖南省桑植县白石乡、西莲乡、人潮溪乡、蹇家坡乡、细砂坪乡、八大公山乡、谷罗山乡、天星山林场、陈家河镇、竹叶坪乡共10个乡镇林场现辖行政区域。",
+      "variety": "",
+      "sensory": "肉质根呈长筒型,白色、光滑、顺直、无青头;肉质雪白、无糠心,口感脆嫩、少渣",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f140adcc3d395125aca0",
+  "title": "舌尖上的秋天：河南十八地市美食寻味指南",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_JINGXUAN_ZH&cpid=666&ctype=news&docid=1051209977133802ccc489c14cb9956ae38d0c0&dy_scenario=relate&r=CN&tn=93727ca3148734c730deaeb593f127065671af80c0497ca0799d59fa1de20b2f&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "60af36f1a1b55dee6f9e882a4da3613fff38f765221267feae316cf7b0e6d65f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "35061f2355c278b3499ae0cfd8399fd560833650ed8955d3af7b6d8980aaf994",
+    "textLength": 2699,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "济源鸡蛋不翻",
+      "province": "henan",
+      "city": "济源",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

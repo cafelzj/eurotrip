@@ -1,0 +1,31 @@
+{
+  "id": "program-web-ac4b36ef5e3155501292",
+  "title": "滨州市",
+  "url": "https://zh.wikipedia.org/wiki/%E6%BB%A8%E5%B7%9E%E5%B8%82",
+  "checked": "2026-11-14",
+  "responseSha256": "7a6e2c7523e23c78cd1db990feea2807c59d7fc00f5ae4a67ba5b5917576122c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2baab5cb0603d6fca18a88752d1de4e521503363a35cc69b590abf4114c9f331",
+    "textLength": 27369,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "青阳炒鸡",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "西董豆腐",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

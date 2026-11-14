@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e0037e451c3728f5d610",
+  "title": "黑龙江省宝清县地方知名特产介绍 - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/444792/",
+  "checked": "2026-11-14",
+  "responseSha256": "74230095ec002679da829ff32afec9f251069d8babe3165033705ba2baac4ebd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2ac9cb508421889de5a80eb302791e6089c5cf6cad5d4e105bb7152279efad56",
+    "textLength": 2413,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宝清大白板",
+      "province": "heilongjiang",
+      "city": "双鸭山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

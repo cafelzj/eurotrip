@@ -1,0 +1,31 @@
+{
+  "id": "program-web-47b94b8096afab5a49f6",
+  "title": "山西·运城“农耕之源 美丽乡村”之旅",
+  "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi/detail_g7yU_708/4398.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7261ada59062853681ee71ab80eff40fdee257c701ba9c9a7bef80d5c3b5c621",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "55614b39a59b71a06144685549a77a59ebcc649ac32a2880c3dd6412a03b2764",
+    "textLength": 1782,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "万荣苹果",
+      "province": "shanxi",
+      "city": "运城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "稷山板枣",
+      "province": "shanxi",
+      "city": "运城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

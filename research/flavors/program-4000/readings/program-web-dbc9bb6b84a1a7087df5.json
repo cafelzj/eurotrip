@@ -1,0 +1,23 @@
+{
+  "id": "program-web-dbc9bb6b84a1a7087df5",
+  "title": "周末去哪儿？鹤壁美食喊你来打卡啦_浚县_传统_口感",
+  "url": "https://www.sohu.com/a/1042510891_121106991",
+  "checked": "2026-11-14",
+  "responseSha256": "1a9db557630acfbcff7180e82bdb61914e496b17aef492a89c7c80e36b587b42",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bffdcca04f9376a01928058466a55a72d44b2c80658281ba76f997435828f442",
+    "textLength": 1413,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "缠丝鸭蛋",
+      "province": "henan",
+      "city": "鹤壁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

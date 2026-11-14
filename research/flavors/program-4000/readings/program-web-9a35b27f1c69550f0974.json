@@ -1,0 +1,31 @@
+{
+  "id": "program-web-9a35b27f1c69550f0974",
+  "title": "收藏！咱厝人的特色农产品清单来啦→-泉州要闻-泉州动态-政府信息公开-政务公开-泉州市人民政府",
+  "url": "https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/qzdt/qzyw/202409/t20240902_3077382.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "d6010013aea678efa0d68bb0e3013da0e667f3a2af9b9bda886bf965770c4a1a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "204ecc36c16aaf9940eb68aa10f6dc7b79e1148e1d2e20a20d77c2c08e8c0c71",
+    "textLength": 5124,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "官桥豆干",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "蓬华芥菜",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

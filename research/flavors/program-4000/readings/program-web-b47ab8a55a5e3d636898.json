@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b47ab8a55a5e3d636898",
+  "title": "泉州美食标准体系_行业协会_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://www.quanzhou.gov.cn/gastronomy/ch/mscy/xydt/202505/t20250522_3172218.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "b3b6746a1bfd3eb30ae57f8bb4678ef5fc560dab042f90a980cd4ffa6cde78ae",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "61dcd03406b7e97e628a61ca624491b6bc5d54a5ffac3c86be79bde7178b432c",
+    "textLength": 5174,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "拳头母",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

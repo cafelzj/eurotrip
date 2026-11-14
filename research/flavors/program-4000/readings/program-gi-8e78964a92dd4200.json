@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8e78964a92dd4200",
+  "title": "地理标志公告 · 2007年第200号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC200%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7f16d361763d7a35c58f0a881ecc16b9c352d02d41a22cb0ab5d91ec270af145",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC200%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7f16d361763d7a35c58f0a881ecc16b9c352d02d41a22cb0ab5d91ec270af145",
+    "textSha256": "7399c613107b61c13ffceb51b312fc1e94c9556dad3f8db0d638c107beaef772",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "清流豆腐皮",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "清流县",
+      "type": "dishes",
+      "sectionSha256": "ab0bf275f978100b99926804101bd28f6e82751f76fe5b3354037fafa354a377",
+      "headingOffset": 0,
+      "scope": "清流豆腐皮地理标志产品保护范围以福建省清流县人民政府《关于界定清流豆腐皮地理标志产品保护产地范围的请示》(清政文[2007]98号)提出的范围为准,为福建省清流县现辖行政区域",
+      "variety": "",
+      "sensory": "色泽金黄,质地透亮,豆香味浓郁纯正、微甜,久煮不糊,韧性好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

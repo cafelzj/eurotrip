@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-089ca14133835eb0",
+  "title": "地理标志公告 · 2011年第121号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "31ecab6a70e35fc8c15002e49fe6762c4b621b0644061b6f9f71a4eae56b8262",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "31ecab6a70e35fc8c15002e49fe6762c4b621b0644061b6f9f71a4eae56b8262",
+    "textSha256": "da0c9c9530f8f97c33608dffa9b8532ecb618e185321836113c0fcc6040728e3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "通河大米",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "locality": "通河县",
+      "type": "ingredients",
+      "sectionSha256": "fca2ae4bc97fefe43608996a13da0ee30c34098bf7e48324ef97ae0040c37a08",
+      "headingOffset": 2288,
+      "scope": "",
+      "variety": "东农428等东农系列品种",
+      "sensory": "米粒晶莹透亮、光泽度好,垩白粒率低、垩白度小。蒸煮时饭有清香味,饭粒晶莹,口感绵软油润有弹性,清香适口,口感好,冷后不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

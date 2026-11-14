@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8aa2db8aa97286e1",
+  "title": "地理标志公告 · 2007年第49号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC49%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "14cb5791bc198287787013e924eaf61993cffce96d0c0976b254037d92ff7fe1",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC49%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "14cb5791bc198287787013e924eaf61993cffce96d0c0976b254037d92ff7fe1",
+    "textSha256": "363504d2d78479a594348da52ebe5200d1ddc341aab37a743b8913de2bf9e781",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大兴西瓜",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "大兴区",
+      "type": "ingredients",
+      "sectionSha256": "9534241d711077f43629f53cb274cd69d69dbfd43a17d50a700d92e91c51cac3",
+      "headingOffset": 0,
+      "scope": "大兴西瓜地理标志产品保护范围以北京市大兴区人民政府《关于界定大兴西瓜地理标志产品保护地域范围的请示》(京兴政文[2006]10号)提出的范围为准,为北京市大兴区庞各庄镇、北臧村镇、礼贤镇、榆垡镇、魏善庄镇、安定镇等6个镇现辖行政区域",
+      "variety": "京欣一号、京欣二号、京欣三号、航兴一号四个中果型适生西瓜品种",
+      "sensory": "(1)果型:中果型,果实圆形或高圆形;(2)单瓜重:4至8公斤;(3)果皮:果皮薄脆,厚度不超过1.2厘米,皮色为绿底上覆深绿色条带;(4)瓤色:粉红色至桃红色,色泽鲜艳;(5)质地与风味:瓜瓤脆沙,甘甜多汁,纤维含量少,爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

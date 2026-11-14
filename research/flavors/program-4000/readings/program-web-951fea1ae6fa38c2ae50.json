@@ -1,0 +1,23 @@
+{
+  "id": "program-web-951fea1ae6fa38c2ae50",
+  "title": "春日正当“食”！沿黄河解锁山东特色美食_山东宣传网",
+  "url": "https://www.sdxc.gov.cn/sy/xcdt/202403/t20240327_13896564.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "f7e5a11f8e1b76420ffbd7f9154e61700bdb46cf906ec64dd952630f003d1d80",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "12e22466fe176bb5e5541f74ed44fdf6b56a4bc2c7f6a7fabd38f4669bdd2fba",
+    "textLength": 4406,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高唐老豆腐",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

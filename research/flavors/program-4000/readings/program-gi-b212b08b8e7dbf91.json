@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b212b08b8e7dbf91",
+  "title": "地理标志公告 · 2008年第27号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC27%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "165b113fb05e0dc461629f33756895945e3276fd6f8b03f94618c8f11a3d5ce8",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC27%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "165b113fb05e0dc461629f33756895945e3276fd6f8b03f94618c8f11a3d5ce8",
+    "textSha256": "726360127d59b47556bb4df36280bfecd4b83cfe841857cdf8b649d60a4a4224",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "集安板栗",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "集安市",
+      "type": "ingredients",
+      "sectionSha256": "c968a1e75a2b0d3bccaa4c93b96bbe69b27559d9651ad74be9b889ef57c5aff0",
+      "headingOffset": 0,
+      "scope": "集安板栗地理标志产品保护范围以吉林省集安市人民政府办公室《关于确定集安板栗地理标志产品保护地域范围的通知》(集政办发〔2007〕6号)提出的范围为准,为吉林省集安市青石镇、太王镇、麻线乡、榆林镇、凉水朝鲜族乡、大路镇、通胜街道等7个乡镇街道现辖行政区域",
+      "variety": "近和、银叶、方座",
+      "sensory": "饱满,红褐色,果肉浅黄色,细腻,涩皮薄易剥离",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

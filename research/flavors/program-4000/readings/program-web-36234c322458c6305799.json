@@ -1,0 +1,23 @@
+{
+  "id": "program-web-36234c322458c6305799",
+  "title": "谁说安徽是美食荒漠？那是你没去过这座好吃又好玩的宝藏小城",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_NEWSTAB_ZH&cpid=666&ctype=news&docid=10511672106182664573026&dy_scenario=relate&emuiver=31&r=CN&sdkVersion=120101307&tn=dfde71b677b6bacdb1c1e276ccfc219566d40b2adce612e0d2991f54dd9b97bd&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "60cf7a6b58729514dfc432c2f6e356907694871159d78135704737d9ef37db73",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1e5b32c54526b8d1120ecf5dc05f9f38a2f82e11134b97034d0f54805907f58e",
+    "textLength": 1958,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "寿州圆子",
+      "province": "anhui",
+      "city": "淮南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

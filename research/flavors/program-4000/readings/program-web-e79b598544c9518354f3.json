@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e79b598544c9518354f3",
+  "title": "闽南“泉”味道：味蕾深处的泉州记忆_传统食材_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://www.quanzhou.gov.cn/gastronomy/ch/sqsm/ctsc/202411/t20241128_3110632.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "6abcff58928ae569d2ec196d68c4e99147c6e899528d0df3ba7ab96f3c1a02e9",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2c3c85972f75fd2dbd0b102d5cab7198c1c0695899832e1d04a8b75cacc5eb27",
+    "textLength": 3746,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蚵仔煎",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

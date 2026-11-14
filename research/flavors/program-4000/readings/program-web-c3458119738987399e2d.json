@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c3458119738987399e2d",
+  "title": "南京味道",
+  "url": "https://guide.michelin.com/sg/zh_CN/article/features/nanjing-flavours",
+  "checked": "2026-11-14",
+  "responseSha256": "d9bd3c25bc8120cdb15d6540d1e2374a22ac7429bc602f58d7e4701cb83079fd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fa66fb241cb2d1634dbad9fffe474849d2093fc0b82d032a734fdb7292578970",
+    "textLength": 5433,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蜜汁藕",
+      "province": "jiangsu",
+      "city": "南京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

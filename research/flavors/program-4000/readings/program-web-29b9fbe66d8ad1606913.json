@@ -1,0 +1,23 @@
+{
+  "id": "program-web-29b9fbe66d8ad1606913",
+  "title": "[黄冈]大别山土特产“土”出百味千面--湖北省农业农村厅",
+  "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202411/t20241128_5430353_slh.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "82800f83c8fd8860e9e80be7190f1cdf14b0638144bca648e765d856d3b39ae5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "57a9b4a5eceae60afeaa95b2202ec163b8caf646a9ea1745479f3f9e53dcd9fb",
+    "textLength": 5661,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "武穴佛手山药",
+      "province": "hubei",
+      "city": "黄冈",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

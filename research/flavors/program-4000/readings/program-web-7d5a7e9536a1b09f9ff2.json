@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7d5a7e9536a1b09f9ff2",
+  "title": "宁海美食｜长街蛏子、前童三宝与县城小吃地图",
+  "url": "https://www.juour.cn/zj/zbnh/ninghai-meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6c7893c0e15fd7b28f7dd8e2e53c169e22de0539425c6601bf3fb8dacbb135c7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e9d8d6e02455294fe082c5ebba3596333795785d45f6307c9398f7a45391c641",
+    "textLength": 8895,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "前童三宝",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

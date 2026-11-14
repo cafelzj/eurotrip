@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8f4b8416f5afb69a12bb",
+  "title": "北京本地人推荐的地道美食有哪些？ - 去哪儿",
+  "url": "https://travelnews.qunar.com/qa_strategy/beijing-authentic-local-food-guide",
+  "checked": "2026-11-14",
+  "responseSha256": "2ffbd2710b643f94670bb7fa3948e472060d0c688cc7f7a1b7ee3675e92af39e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8294df7e521e0e6f2aa606d5fc70d6540981da53e63b6c7a1c13786fc4f3f563",
+    "textLength": 2603,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "炸酱面",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

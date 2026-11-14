@@ -1,0 +1,23 @@
+{
+  "id": "program-web-40d32e16f70688376efa",
+  "title": "吃货有福了！湖南美食旅游地图亮相-湖南省人民政府门户网站",
+  "url": "https://www.hunan.gov.cn/hnszf/hnyw/zwdt/202312/t20231222_32608217.html",
+  "checked": "2026-11-14",
+  "responseSha256": "9d649b11c9519487cb3971c353ee51b0e3b33ab3402d3d442d71ddc76276477e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "06f6f962b5dc000faa205eb2a3286fd4cebd3f3c87e6c85bb4e5d3ac944a99e9",
+    "textLength": 1296,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "酱板鸭",
+      "province": "hunan",
+      "city": "常德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

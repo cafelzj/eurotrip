@@ -1,0 +1,23 @@
+{
+  "id": "program-web-02ee813cfa518542255f",
+  "title": "山西·昔阳“观乡村美景 品田园风味”之旅",
+  "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/shanxi/detail/7448.html",
+  "checked": "2026-11-14",
+  "responseSha256": "0b17220b71d340ba7abdad695b787bd5e0eb719d873ee8727f51a634f3d057d7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "39a3a930e06e9b32b1a6622d108c9db43fa5cc7e68fad8b8ecfee3eb6854588c",
+    "textLength": 1552,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "昔阳压饼",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

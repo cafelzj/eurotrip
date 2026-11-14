@@ -1,0 +1,23 @@
+{
+  "id": "program-web-cab1d0f87c4acb840cfe",
+  "title": "邵阳特产推荐_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl1947.html",
+  "checked": "2026-11-14",
+  "responseSha256": "21295e64713da73c78f0a3195c9d6f1d08588b790acef492b87f824b489bef34",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9b1c4b1845861b6b793fb53ce2fc1d2bb83eaddced37ff516a791bf543817c9f",
+    "textLength": 1807,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "猪血丸子",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

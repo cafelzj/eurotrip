@@ -1,0 +1,31 @@
+{
+  "id": "program-web-2ab59f6d2533ccf9449f",
+  "title": "[恩施州]恩施州：共同富裕引领下的乡村振兴路径探索--湖北省农业农村厅",
+  "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202312/t20231207_4992496_slh.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "1268551ff8624931a854c8f66945d3709f639d91afcf3a4fbe7856a1c70d0ffc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c88dcdcfd175ef4878bb7a74e48531de5a555d235968dcc30396e79c1ac5d40d",
+    "textLength": 5052,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "景阳鸡",
+      "province": "hubei",
+      "city": "恩施州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "关口葡萄",
+      "province": "hubei",
+      "city": "恩施州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

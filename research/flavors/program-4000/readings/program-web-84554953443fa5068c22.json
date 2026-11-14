@@ -1,0 +1,23 @@
+{
+  "id": "program-web-84554953443fa5068c22",
+  "title": "千年古城美食 浙江越城“百县千碗”传递家乡味道",
+  "url": "https://cfsn.cn/news/detail/574/78019.html",
+  "checked": "2026-11-14",
+  "responseSha256": "90cc98087a310735312d3bc2f0a2029c68e749319f706d9c4ce5cb3299bf99ad",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ba561218ec32b1050c0677c118c70bc5608cc770af221c898d5beab7796b7b15",
+    "textLength": 2123,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "绍三鲜",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ac56ae176ed221026687",
+  "title": "绿叶红镶边 漳平水仙茶｜福建省〖全国名特优新农产品〗 _ 福山福水 福农优品（已归档） _ 福建省农业农村厅",
+  "url": "https://nynct.fujian.gov.cn/ztzl/fsfsfnyp/202212/t20221212_6077339.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "52f481bc93f4c769c070c90e283359501362666ec91955e7bbbd1bceff7550c6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ae121318d7e333ce44fd8a72241b982477b99dba6f773c385874d3de39d2b2b1",
+    "textLength": 2070,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "漳平水仙",
+      "province": "fujian",
+      "city": "龙岩",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

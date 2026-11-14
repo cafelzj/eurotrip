@@ -1,0 +1,47 @@
+{
+  "id": "program-web-a1bbc7dc721dc363d7eb",
+  "title": "泰安市农业经济发展服务中心 农业农村经济信息 山东省乡村特色产业名优产品名单(2025)",
+  "url": "https://nj.taian.gov.cn/art/2025/9/10/art_356185_10291948.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b9b684c7a88a611560d5068f91d9085fc4978f7e61ca6e0158a22a2cb2fd566b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6e624752b68d24514830a5ebd184adaeedfa80f40dba4d919b23325abf2c3007",
+    "textLength": 3474,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "辣子鸡",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "魏氏熏鸡",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "东阿阿胶",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "东明香肚",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

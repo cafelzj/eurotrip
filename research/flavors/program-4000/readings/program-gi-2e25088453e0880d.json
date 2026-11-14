@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-2e25088453e0880d",
+  "title": "地理标志公告 · 2006年第138号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "362aa66af018ab7c8ca1dd9d8e2d58b378142fd21221d6eb55d9b3d6fd161450",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "362aa66af018ab7c8ca1dd9d8e2d58b378142fd21221d6eb55d9b3d6fd161450",
+    "textSha256": "b7a07cdbf6273be589c41260fa37c6af18bcc752db0b55679c0685f4a7d4a642",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "三门青蟹",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "三门县",
+      "type": "ingredients",
+      "sectionSha256": "b324659898d0c84b4d52df4e41cc0fc45f7481568617a79cabcedea70ad9211c",
+      "headingOffset": 0,
+      "scope": "三门青蟹地理标志产品保护范围以浙江省三门县人民政府《关于划定三门青蟹地理标志地域范围的请示》(三政[2006]8号)提出的范围为准,为浙江省三门县现辖行政区域",
+      "variety": "锯缘青蟹[scyllccserratoc]",
+      "sensory": "青背、黄肚、金爪、绯钳,壳薄、螯大,蟹黄黄白色,脂膏橙黄色,蟹肉洁白细嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

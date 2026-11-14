@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2507304cb9154b692063",
+  "title": "山东宁津县有哪些特产？ - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/444219/",
+  "checked": "2026-11-14",
+  "responseSha256": "5870ca72ee354cc4e2da7f12a577b99117361131bf0adbb293cfeebb994ed138",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "48efd005f96b5759acd012076f6662608ad2730857911b098a6dfd3b5f63f36f",
+    "textLength": 2270,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "长官包子",
+      "province": "shandong",
+      "city": "德州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

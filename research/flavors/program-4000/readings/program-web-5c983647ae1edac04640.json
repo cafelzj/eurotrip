@@ -1,0 +1,31 @@
+{
+  "id": "program-web-5c983647ae1edac04640",
+  "title": "南阳十大小吃 南阳特色小吃排行 南阳有什么名小吃→买购APP",
+  "url": "https://m.maigoo.com/top/405887.html",
+  "checked": "2026-11-14",
+  "responseSha256": "e0ababdf5efedf95f250900b069dc56cdd21531fcb6563cd679210e9f07477db",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1e73f67be6f4bf8775362d9a3bef978b237364509fa0d2a26e7666af69921f12",
+    "textLength": 3938,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "内乡缸炉烧饼",
+      "province": "henan",
+      "city": "南阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "窝子面",
+      "province": "henan",
+      "city": "南阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

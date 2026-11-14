@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3422bc1cf5bb71a9",
+  "title": "地理标志公告 · 2006年第122号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b5d99d12d054ec1d1035f4d98b60578c6bf93a9aa84ef861718af735475dcdbd",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b5d99d12d054ec1d1035f4d98b60578c6bf93a9aa84ef861718af735475dcdbd",
+    "textSha256": "70ce494e4de7559b2aa47260404008b0bc226954fecad7f21d5f7b764f90b723",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "青州蜜桃",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "青州市",
+      "type": "ingredients",
+      "sectionSha256": "0df580607aceac842d55adaf4f4dadbf21bf5a67414ec86f1bb8e8c4dce8abf5",
+      "headingOffset": 0,
+      "scope": "青州蜜桃地理标志产品保护范围以山东省青州市人民政府《青州市人民政府申请界定青州蜜桃地理标志产品保护范围的函》(青政函字[2005]27号)提出的范围为准,为山东省青州市五里镇、普通镇、邵庄镇、庙子镇、云门山街道办事处等5个镇、街道办事处现辖行政区域",
+      "variety": "青仲蜜、青霜蜜、冬雪蜜",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

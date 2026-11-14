@@ -1,0 +1,23 @@
+{
+  "id": "program-web-64cb6e7bfa5abd1bfc94",
+  "title": "太谷特产介绍-太谷特产有哪些-太谷特色美食排行-老家特产网",
+  "url": "https://www.tutechan114.com/city/140726.html",
+  "checked": "2026-11-14",
+  "responseSha256": "835f9c63e3d3c0db254461a62a5b46449ca068f6bc0599da072cd84a53f9100b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7dbf51430c87f74533bad1932b4cca07aa9de79edb43944459e413a4d38512f8",
+    "textLength": 2660,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "太谷熏鸽",
+      "province": "shanxi",
+      "city": "晋中",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

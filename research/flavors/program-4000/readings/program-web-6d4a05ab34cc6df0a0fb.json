@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6d4a05ab34cc6df0a0fb",
+  "title": "〖沿着高速看湖南〗郴州特色农产品知多少-华声在线",
+  "url": "https://hunan.voc.com.cn/mobile/news/202105/24064347.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b82573981257bbf81256d738d8a322a51a9114bd6cccfa984c0023fe80495125",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "97d7825f1e23170afb4b7d5ac8aacceaa0a14692eb7c0c31883037079b2b9a54",
+    "textLength": 761,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "桂阳坛子肉",
+      "province": "hunan",
+      "city": "郴州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

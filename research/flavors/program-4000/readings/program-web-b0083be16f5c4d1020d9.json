@@ -1,0 +1,31 @@
+{
+  "id": "program-web-b0083be16f5c4d1020d9",
+  "title": "央视聚焦｜来自央视认证的武汉好逛、好吃、好物推荐",
+  "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202408/t20240829_2447279.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "7a4c96b4f622f7d21350cb5f29425e4286732a6d4991eb09feddb1caf2b29e43",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a16e53405d5b8633d9f012be127f8ff476e54207096540f0885b6a3f81f926fe",
+    "textLength": 4420,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "清蒸武昌鱼",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "黄陂三鲜",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

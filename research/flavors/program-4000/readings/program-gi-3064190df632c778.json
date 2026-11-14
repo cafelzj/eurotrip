@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3064190df632c778",
+  "title": "地理标志公告 · 2012年第205号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC205%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7d1d6be3a022ca712a04566622f19c87bc35531a01e5cd96128a3072c7748f9f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC205%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7d1d6be3a022ca712a04566622f19c87bc35531a01e5cd96128a3072c7748f9f",
+    "textSha256": "b3d7bcac58c183fea7c86f03f9ebaec95eed150da7e0d001a8d7d85a7b9fdc90",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永定万应茶",
+      "province": "fujian",
+      "city": "龙岩",
+      "locality": "永定区",
+      "type": "tea",
+      "sectionSha256": "93c886e44b6749b08cbaed189c739badbb93bcda376bf61a71ee43b2dc9027b2",
+      "headingOffset": 2914,
+      "scope": "永定万应茶产地范围为福建省永定县现辖行政区域。",
+      "variety": "",
+      "sensory": "项颗粒状块状目外棕褐色颗粒状,颗粒色泽大淡红褐色小扁圆形块状,边沿圆弧完整。大小、观小均匀(12目)厚度、色泽均匀(直径21mm、厚度10mm)棕褐色颗粒状或淡红褐色扁圆块状,色泽均匀。色泽开水泡或煎煮后汤色淡红棕色。气具有纯正清檀的香味,无霉变味及其它异味。味滋味微苦、香气浓郁、回甘留香,饮用后有神清气爽,肠胃清新感。味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

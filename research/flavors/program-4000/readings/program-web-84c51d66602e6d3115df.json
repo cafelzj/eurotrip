@@ -1,0 +1,23 @@
+{
+  "id": "program-web-84c51d66602e6d3115df",
+  "title": "湖北咸宁有哪些特色小吃 咸宁美食攻略_武汉生活网",
+  "url": "https://www.wuhan.com/food/40610.html",
+  "checked": "2026-11-14",
+  "responseSha256": "91117903ca3f0decd8aa0826ce7a53f723fe3d04a0f1af5917e4faaed26371d1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a0dc5cb1320e8f0136dbc9558d7725648e732394beea072e859f0edc9be9b3a4",
+    "textLength": 1557,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "咸宁桂花",
+      "province": "hubei",
+      "city": "咸宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

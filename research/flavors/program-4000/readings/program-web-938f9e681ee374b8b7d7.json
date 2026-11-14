@@ -1,0 +1,23 @@
+{
+  "id": "program-web-938f9e681ee374b8b7d7",
+  "title": "株洲有哪些好吃的？- 株洲本地宝",
+  "url": "https://zhuzhou.bendibao.com/meishi/2023717/9323.shtm",
+  "checked": "2026-11-14",
+  "responseSha256": "00a74fdd28d454ea6b61e653caea48408728e20f130ce262247cd91831dc05c4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8808799cf7daef420c9829ff35f1d5039e47da1b11f8d674949886416db50e22",
+    "textLength": 4728,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "醴陵炒粉",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

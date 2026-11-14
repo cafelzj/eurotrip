@@ -1,0 +1,31 @@
+{
+  "id": "program-web-1e6dce900c7a48df1406",
+  "title": "河北各地美食被列入非物质文化遗产保护名录！你吃过几种？",
+  "url": "https://www.visitbeijing.com.cn/article/4JCDwvs1uIZ",
+  "checked": "2026-11-14",
+  "responseSha256": "f303b5805cd92b4f0b453deeb78d4ae52147f592f6ae576861f5e7b97a7c54e0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d75c356ac30bd86b530f2ac2a41d7684ab7b2da57512ec1db07db3a65c761c8a",
+    "textLength": 6202,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "槐茂酱菜",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "吴桥宫面",
+      "province": "hebei",
+      "city": "沧州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

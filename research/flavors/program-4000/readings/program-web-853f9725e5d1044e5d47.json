@@ -1,0 +1,23 @@
+{
+  "id": "program-web-853f9725e5d1044e5d47",
+  "title": "潍坊美食攻略_潍坊有什么特色小吃_潍坊美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g2417/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "a2bd52aa95f556d9ca6d7b97825ece6f8d3cdbce449623ac831803613ab623b8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "496a7dce5682a8721c3bc1263745945e77a26b9c6c18722850847b293a859766",
+    "textLength": 758,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "朝天锅",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

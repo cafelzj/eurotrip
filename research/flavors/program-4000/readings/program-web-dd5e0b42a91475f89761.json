@@ -1,0 +1,23 @@
+{
+  "id": "program-web-dd5e0b42a91475f89761",
+  "title": "中国山西临汾美食介绍- 临汾本地宝",
+  "url": "https://linfen.bendibao.com/meishi/20131230/67.shtm",
+  "checked": "2026-11-14",
+  "responseSha256": "391941221daf330916b26e0ee94263bf944684564e77cd49f0d3ebcde70ee8ec",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7b94193e37e4dca9fc0afe46af06f516066bd2b9032166b7186970c31053ef72",
+    "textLength": 3583,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "曲沃羊汤",
+      "province": "shanxi",
+      "city": "临汾",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

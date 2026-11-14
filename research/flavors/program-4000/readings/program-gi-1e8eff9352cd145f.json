@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-1e8eff9352cd145f",
+  "title": "地理标志公告 · 2011年第100号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC100%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "eab8f7d8924f0e9488ab2b699b6b5908a3413410991a4f98bedb3db6dab349f5",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC100%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "eab8f7d8924f0e9488ab2b699b6b5908a3413410991a4f98bedb3db6dab349f5",
+    "textSha256": "c77a1eca656d1724536387863e6e4b3eba3cdaff154ef5224d6a16a81e9b4406",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "桓仁山核桃油",
+      "province": "liaoning",
+      "city": "本溪",
+      "locality": "桓仁满族自治县",
+      "type": "ingredients",
+      "sectionSha256": "73914b2f6987414f12068807d27ff8945b7bc42d34f4786120d668c440bb3ae3",
+      "headingOffset": 1458,
+      "scope": "桓仁山核桃油产地范围为辽宁省桓仁满族自治县现辖行政区域。",
+      "variety": "核桃楸(JugansmandshuricaMaxim)",
+      "sensory": "(1)色泽和外观:油色金黄鲜亮,油脂澄清、透明。(2)口感:醇厚绵香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "榆树钱酒(榆树大曲)",
+      "province": "jilin",
+      "city": "长春",
+      "locality": "榆树市",
+      "type": "alcohol",
+      "sectionSha256": "829f95db00d5e6b04ef6ac093906775a131349c1b7f6ed1071f89ff2d72edfba",
+      "headingOffset": 2104,
+      "scope": "榆树钱酒(榆树大曲)产地范围为吉林省榆树市现辖行政区域。",
+      "variety": "要求。1.水:保护范围内的地下水,水质符合国家饮用水标准。2.高粱:保护范围内生产的酿酒高粱,品质符合国家相关标准要求",
+      "sensory": "(1)高度酒(41.0%vol至65.0%vol)项目优级一级色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气诸香谐调,幽雅怡畅诸香较谐调,较幽雅舒适口味细腻丰满,回味爽净醇厚柔绵,回味较爽风格具有本品典型的风格具有本品突出的风格(2)低度酒(36.0%vol至40.0%vol)项目优级一级色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气诸香谐调,幽雅舒适诸香较谐调,纯正舒适口味醇和绵柔,余味爽净醇甜柔和,余味较爽风格具有本品典型的风格具有本品明显的风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "贡水白柚",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "宣恩县",
+      "type": "ingredients",
+      "sectionSha256": "aa6ecbcd21ce26e50274c40c23edc6476465afdd00a00c5974744890235bb5d0",
+      "headingOffset": 3988,
+      "scope": "贡水白柚产地范围为湖北省宣恩县李家河乡、沙道沟镇、高罗乡、珠山镇、晓关侗族乡、椒园镇6个乡镇现辖行政区域。",
+      "variety": "鄂柚1号",
+      "sensory": "贡水白柚果实中大,单果重900g至1500g,呈倒卵圆形,蒂部稍偏微凹,有沟纹,果面黄白色,油胞中细,果皮中厚,海绵层白色;果实少核或无核,囊瓣整齐一致,果肉易与囊衣完整分离,汁胞脆嫩,酸甜适度,味浓,无苦、麻等异味,耐贮藏",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

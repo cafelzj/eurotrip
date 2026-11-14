@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a723b90c407b1b0c5cd8",
+  "title": "文旅企业展播|鞍山名优特产精品体验馆",
+  "url": "https://www.meipian.cn/36slwd89",
+  "checked": "2026-11-14",
+  "responseSha256": "78fabd0881f994bb98b8f849b5d58a47c6c6ffd0bac8972a96e8b5c2abb081e9",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1afc70047581a1578b273d2b69fb8d37af641408e766c767ad2424257fabdd8b",
+    "textLength": 4066,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南果梨",
+      "province": "liaoning",
+      "city": "鞍山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

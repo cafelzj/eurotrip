@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0da477db93180e6ee31f",
+  "title": "北国水乡，人间烟火！这份攻略带你读懂桓台、玩转桓台！_ 淄博新闻_鲁中网",
+  "url": "https://news.lznews.cn/luzhong/zibo/202604/t20260401_17596448.html",
+  "checked": "2026-11-14",
+  "responseSha256": "bd208881d034015338e4f41e02471343de623126ee840b514a2ec060e0d0c601",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0eaaafc1b77cca61da9359c4b53fd64a6eb014ecf50fc2c73e622973a27c4c93",
+    "textLength": 3660,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "马踏湖白莲藕",
+      "province": "shandong",
+      "city": "淄博",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

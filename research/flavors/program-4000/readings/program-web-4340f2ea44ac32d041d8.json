@@ -1,0 +1,31 @@
+{
+  "id": "program-web-4340f2ea44ac32d041d8",
+  "title": "盘点河南安阳特色美食 能否勾起你肚里的馋虫？_中部纵览_中国网",
+  "url": "https://henan.china.com.cn/m/2020-05/19/content_41156829_6.html",
+  "checked": "2026-11-14",
+  "responseSha256": "faa624e4625f7363c151dc0f30c6733ea107f96849da8bb2500d1eccd4b54149",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9a6c8724f311d8daa3736c8426f50e5957db4e2781dcd5aaae0a5def11b14cee",
+    "textLength": 622,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "扁粉菜",
+      "province": "henan",
+      "city": "安阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "粉浆饭",
+      "province": "henan",
+      "city": "安阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "program-web-fa92165e3223cd7d243e",
+  "title": "濮阳市（河南省辖地级市）_百度百科",
+  "url": "https://wapbaike.baidu.com/item/%E6%BF%AE%E9%98%B3%E5%B8%82/62402561",
+  "checked": "2026-11-14",
+  "responseSha256": "36f1f681e4c85fd2a0628a9ab494c7082d204fd6a6f5d66d59cf5609a407301e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "48385ed5ca52275508ebc0b22bfb1b3c03e909d2dbbfd6c24762b1f85d7d74bf",
+    "textLength": 41530,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "濮阳壮馍",
+      "province": "henan",
+      "city": "濮阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "濮阳裹凉皮",
+      "province": "henan",
+      "city": "濮阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

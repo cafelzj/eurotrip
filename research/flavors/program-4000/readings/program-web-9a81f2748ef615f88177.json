@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9a81f2748ef615f88177",
+  "title": "非遗之旅 首选潍坊：五一假期，168项主题活动串起满城烟火与匠心 - 潍坊频道",
+  "url": "https://weifang.sdnews.com.cn/ly/202604/t20260429_4672030.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "eeb9146b37b051e71c5a03ddcb6f2aac75c54836e747ca341c4226c119a63a05",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "db223ee040377e9ebaaeab85c2ef2ee8c018d2b81fe1e8b0c84b4e96e92ecca4",
+    "textLength": 3711,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高密大蜜枣",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-19de3e89cf3c1761e2e5",
+  "title": "郑州美食地图：56家必吃+83家老店，闭眼冲不迷路_南岛_新闻_华人头条",
+  "url": "https://www.52hrtt.com/nd/n/w/info/ifm2026060723081013916633",
+  "checked": "2026-11-14",
+  "responseSha256": "8df39bdc273eac1d5d6bf602de2d357f1977253daadf2db7be70b10222c6049d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d082b450d71bad116874555e8fa0e065d3a21c22fca24648e743b6a3db7a6d28",
+    "textLength": 7483,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "合记烩面",
+      "province": "henan",
+      "city": "郑州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

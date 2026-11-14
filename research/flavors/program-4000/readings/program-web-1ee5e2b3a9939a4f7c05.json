@@ -1,0 +1,31 @@
+{
+  "id": "program-web-1ee5e2b3a9939a4f7c05",
+  "title": "食在忻州_文旅资讯_忻游网",
+  "url": "https://www.xinzhou.tv/index.php?c=show&id=1033",
+  "checked": "2026-11-14",
+  "responseSha256": "c22c9baaf50f62c944cc22ff6bacc5f4b2e038dfdd3d1fd5ec06a6a747a5dc66",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6cc5d3ce94bbf0a2ba1b87cf13d113307c6f6a525946c2b1dd410cb2ecdd6ae5",
+    "textLength": 6506,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "代县黄酒",
+      "province": "shanxi",
+      "city": "忻州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "神池胡麻油",
+      "province": "shanxi",
+      "city": "忻州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

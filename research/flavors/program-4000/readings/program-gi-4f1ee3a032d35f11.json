@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-4f1ee3a032d35f11",
+  "title": "地理标志公告 · 2008年第138号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "8ba44a83b7496f76ee984979c91cfc99de226e3de78bde356711dcd901a60b0d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "8ba44a83b7496f76ee984979c91cfc99de226e3de78bde356711dcd901a60b0d",
+    "textSha256": "82fd3551d2098bc455ac2051a1bc72c8e1ff15e8102714de1b8357f96413f783",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "射阳大米",
+      "province": "jiangsu",
+      "city": "盐城",
+      "locality": "射阳县",
+      "type": "ingredients",
+      "sectionSha256": "87e5d4b61935d530c337bcb1a31cb359894607662a86bba2fb6d34522165406c",
+      "headingOffset": 1416,
+      "scope": "射阳大米地理标志产品保护范围为江苏省射阳县临海镇、千秋镇、通洋镇、四明镇、阜余镇、海河镇、陈洋镇、合德镇、海通镇、黄沙港镇、兴桥镇、新坍镇现辖行政区域和淮海农场、临海农场、新洋农场和沿海滩涂。",
+      "variety": "“武育粳3号”或食味性与之接近的迟熟中粳类型品种",
+      "sensory": "色泽洁白,透明有润泽。饭软而不粘,凉饭不返生,米饭有清香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "许昌腐竹",
+      "province": "henan",
+      "city": "许昌",
+      "locality": "魏都区",
+      "type": "dishes",
+      "sectionSha256": "c771d4f913284d1ce5322d025aceee499572a64ad369bf471f1c55419cb917c9",
+      "headingOffset": 3042,
+      "scope": "许昌腐竹地理标志产品保护范围为河南省许昌市许昌县河街乡、苏桥镇、桂村乡、椹涧乡,魏都区七里店乡、高桥营办事处共6个乡镇街道办事处现辖行政区域。",
+      "variety": "1.大豆:产自许昌辖区内,北纬33°42′至34°24′与东经113°03′至114°19′,大豆水溶蛋白(干基)≥35%。2.加工用水:来自保护区内石梁河、清潩河流域,水质符合生活饮用水卫生标准,钙离子≤40mg/L,镁离子≤15mg/L,硫酸根离子≤200mg/L",
+      "sensory": "腐竹呈浅黄色,色泽均匀一致;呈细条状,质地细腻,无短条和碎块,无肉眼可见杂质,无霉变和虫蛀现象;韧性好,久煮不糊,口感筋道;具有特有的豆香,口感甘淡,滋味鲜美,无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9c23a74a6af9ba334d02",
+  "title": "中国名菜——潜江油焖大虾--湖北省文化和旅游厅",
+  "url": "https://wlt.hubei.gov.cn/bmdt/ztzl/zshb/201912/t20191226_1799465.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "68a05398b157a81f24b9af1599a9875a8782e9357f55a06d9366c54f733d995e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a0a5db265e16832debffd9e67c9ffae2b8d537a842d260e22d84bace04c51a09",
+    "textLength": 2310,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "油焖大虾",
+      "province": "hubei",
+      "city": "潜江",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

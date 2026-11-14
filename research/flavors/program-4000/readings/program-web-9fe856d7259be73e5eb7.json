@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9fe856d7259be73e5eb7",
+  "title": "新沂的云片桂花糕有三百多年历史，骆马湖银鱼被称为水中人参。 - 去哪儿",
+  "url": "https://travelnews.qunar.com/ugc/xinyi-yunpian-cake-history",
+  "checked": "2026-11-14",
+  "responseSha256": "7653b6300983187be2d43db516cb8998fb45ca3d8e201bfd9c315c64597fc84c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "92703c6e907a45d2c658a6fd7ceecf46f4569f70c50b1cf6fb12e6f14228a44f",
+    "textLength": 3527,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "窑湾甜油",
+      "province": "jiangsu",
+      "city": "徐州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

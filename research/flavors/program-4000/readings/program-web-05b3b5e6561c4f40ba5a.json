@@ -1,0 +1,23 @@
+{
+  "id": "program-web-05b3b5e6561c4f40ba5a",
+  "title": "潍坊饮食文化的渊源与特色｜山东省首届齐鲁新方志论坛论文集｜山东方志文献｜山东地情档案",
+  "url": "https://shandong-chorography.org/database/fa01/section/11/article/98/",
+  "checked": "2026-11-14",
+  "responseSha256": "9ccc106e2cf146fbce2195365ff534545ba9f40f9fab82f89342258d170f9d1b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ea68a5d84434afb6f1a79ccd603e9273b34f83de5f0bcc0ab817978bb38565a6",
+    "textLength": 16351,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "高密大蜜枣",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

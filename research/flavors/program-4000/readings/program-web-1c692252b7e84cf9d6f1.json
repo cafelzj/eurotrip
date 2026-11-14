@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1c692252b7e84cf9d6f1",
+  "title": "跑一场台马，赴一席山海丨台州，一座来了就想吃的米其林之城 - 潮新闻",
+  "url": "https://tidenews.com.cn/news.html?id=3613773",
+  "checked": "2026-11-14",
+  "responseSha256": "9c665e653b660c5413c64bdf5b9afd4ae3318f9efec1291c88a0bcc7b273ec72",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "410b6a9eb1ea1999338b86297a88e6c54a2176cd0821d29c1d90be3c0ef23a6d",
+    "textLength": 2938,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "姜汤面",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

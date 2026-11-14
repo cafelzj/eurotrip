@@ -1,0 +1,31 @@
+{
+  "id": "program-web-ff2e7de7a06fa0aa12b6",
+  "title": "北京美食攻略",
+  "url": "https://www.visitbeijing.com.cn/article/48R3DHeitLS?device=amp",
+  "checked": "2026-11-14",
+  "responseSha256": "3704365388a167143ba3ec50c44c92f2c06f54922ebab886e1b5b602b3f5c0a5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "755fcb1595ac80ea518cdfc1314ff80b9f2a659b566c7c767aa1dd998c8e4a6a",
+    "textLength": 5112,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "糖葫芦",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "驴打滚",
+      "province": "beijing",
+      "city": "北京",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

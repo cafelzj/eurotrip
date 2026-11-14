@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8be3a344388def17dd34",
+  "title": "临沂十大小吃 临沂特色小吃排行 临沂有什么名小吃→买购APP",
+  "url": "https://www.maigoo.com/top/405446.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b06c2c0cad631e4d9023a6c56a2a1ab0e1af1a0783b1e1ad68cd24daf5b82d36",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "472182233d1c327fa05dab067871e43191e14b64f2dd7563d742b06b113ce338",
+    "textLength": 6679,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "临沂煎饼",
+      "province": "shandong",
+      "city": "临沂",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b0b3d5f5f527bd8dee88",
+  "title": "商河老豆腐〖百味中国（山东）之特色旅游小吃〗-尊龙凯时平台入口",
+  "url": "https://www.xpj21333.com/meishi/shanghelaodoufu.html",
+  "checked": "2026-11-14",
+  "responseSha256": "23de1c2c24b9062c0a416ee736b80703c34e100eda9bafafc115575e64928969",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "057a7dcbf1a771d21531bcece1f591b5725f6b2940042dd6ab6d12887f7c9945",
+    "textLength": 2220,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "商河老豆腐",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-94e8a13d40b8d31a",
+  "title": "地理标志公告 · 2024年第566号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2024%E5%B9%B4%E7%AC%AC566%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "48a6726cff74f32de07fb412c17361e7f06fb271ddd506edd82f8c701e2c9ffa",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2024%E5%B9%B4%E7%AC%AC566%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "48a6726cff74f32de07fb412c17361e7f06fb271ddd506edd82f8c701e2c9ffa",
+    "textSha256": "979dd68c1d773ef0dc89f0cc5305e08f459efd664f84d8e6533a8b7494ceaa7d",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "长白石",
+      "province": "jilin",
+      "city": "白山",
+      "locality": "长白朝鲜族自治县",
+      "type": "crafts",
+      "sectionSha256": "7f24874a36ec2ac2531034851f52852f9af7eaf03bf7c75588cc74595455fee0",
+      "headingOffset": 268,
+      "scope": "吉林省白山市长白朝鲜族自治县马鹿沟镇现辖行政区域",
+      "variety": "要求1.原料产地。原料产出于东经128°11′43′′~128°12′34′′,北纬41°27′10′′~41°27′49′′的区域范围。2.原料特征。为原生矿料,以浅灰色、淡青黄色为主的晶质矿物集合体,鳞片变晶结构、变余凝灰结构、隐晶质结构,块状构造,具贝壳状断口。3.矿物成分。主要矿物组成为高岭石族矿物,以珍珠陶石、迪开石、高岭石、埃洛石及其过渡矿物为主的多种矿物组合黏土岩",
+      "sensory": "产品以白山松水、福佑平安等系列题材为主,体现长白山文化特点。以黄、灰等颜色为主,呈透明至微透明,常含有粟粒斑点,可见蜡状和油脂光泽,质地细腻、温润,印面平整,雕刻精美",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

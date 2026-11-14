@@ -1,0 +1,108 @@
+{
+  "id": "program-gi-c5b01adb99896ad7",
+  "title": "地理标志公告 · 2014年第55号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6f37bd97f2ece1bd98f6c06600b411cb47a5ed85c0a9396043c6054ead0a9f8a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "6f37bd97f2ece1bd98f6c06600b411cb47a5ed85c0a9396043c6054ead0a9f8a",
+    "textSha256": "3a1e0add97a05449e2e95d1a28ed16a2630e9b50e3b893726cc6ba78c4568222",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "莆田荔枝",
+      "province": "fujian",
+      "city": "莆田",
+      "locality": "城厢区、涵江区、荔城区、仙游县",
+      "type": "ingredients",
+      "sectionSha256": "b432ca7b41d228a115d93cab972425b9d87e0d88687a4490509ea088b0c4e27d",
+      "headingOffset": 8444,
+      "scope": "莆田荔枝产地范围为福建省莆田市荔城区西天尾镇、新度镇、黄石镇、拱辰街道办事处;城厢区华亭镇、凤凰山街道办事处、灵川镇、东海镇、霞林街道办事处;涵江区梧塘镇、白塘镇、涵西街道办事处、涵东街道办事处;仙游县郊尾镇、枫亭镇共15个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "果皮红色或紫红色,且色泽均匀一致,果实心形,果肉乳白色,汁多味甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "宁化薏米(宁化糯薏米)",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "宁化县",
+      "type": "ingredients",
+      "sectionSha256": "9bc0aa6e9f654766dae7ad894bf055722291920bdb31afbf793e5aa5d92e1401",
+      "headingOffset": 9115,
+      "scope": "宁化薏米(宁化糯薏米)产地范围为福建省宁化县现辖行政区域。",
+      "variety": "",
+      "sensory": "色灰白、饱满、圆润、光滑、腹沟深,质坚实,粉性,味微甜,煮后“糯软甘甜、粘稠鲜香、柔韧爽滑”",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "永春漆篮",
+      "province": "fujian",
+      "city": "泉州",
+      "locality": "永春县",
+      "type": "crafts",
+      "sectionSha256": "88dc4f556595accac37b0af460de16fe56d7fb509943b72e2343e862dda74d61",
+      "headingOffset": 10362,
+      "scope": "永春漆篮产地范围为福建省永春县现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)整体性要求:造型美观、端正,坚固;(2)堆面:粘贴牢固,花纹清晰;(3)漆面:色泽均匀、光亮;(4)画面:比例得当,图案形象。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "夫子河鱼面(夫子河捶鱼)",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "麻城市",
+      "type": "staples",
+      "sectionSha256": "a7dcd9d34af09d90bf3c7a177c5f8e6b3efb1e43335f6660fdcc2c4d4e57839a",
+      "headingOffset": 11840,
+      "scope": "夫子河鱼面(夫子河捶鱼)产地范围为湖北市麻城市夫子河镇、白果镇、龟山镇、盐田河镇共4个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "产品为淡黄色、酱黄色或淡黑色,呈椭圆形,大小均匀,厚薄一致,具鱼香味;炖食不粘连、不浑汤、有弹性,炒食柔软爽口,炸食香脆可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "周巷凤凰茶",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝昌县",
+      "type": "tea",
+      "sectionSha256": "2de07801352b0dee3408399912aa9e9e5b7f59f1f51c80b5956042431a029151",
+      "headingOffset": 12533,
+      "scope": "周巷凤凰茶产地范围为湖北省孝昌县周巷镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)特级:外形扁平光直,翠绿显毫,匀齐;香气清香持久,汤色嫩绿明亮,滋味鲜醇。叶底柔嫩匀齐。(2)一级:外形扁平光直,绿润;香气清香,汤色嫩绿明亮,滋味鲜醇。叶底嫩匀明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "蕲春薏苡仁",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "蕲春县",
+      "type": "ingredients",
+      "sectionSha256": "bac002441807e46a0954978317b7772136e85a71d0091920a950edab54adb3e1",
+      "headingOffset": 14260,
+      "scope": "",
+      "variety": "",
+      "sensory": "表面乳白色,腹沟深宽,有淡棕色点状种脐;煮后糯软、粘稠、馨香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "丹江口青虾",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "丹江口市",
+      "type": "ingredients",
+      "sectionSha256": "92bcca394fe932bf97a3cd9e713a268ed993d764ef7e2b45cceabd9e8771d334",
+      "headingOffset": 15746,
+      "scope": "丹江口青虾产地范围为湖北省丹江口市均县镇、六里坪镇、习家店镇、凉水河镇、浪河镇、丁家营镇、土台乡、武当山特区、牛河林业开发管理区、大坝办事处、丹赵路办事处、三宫殿办事处12个乡镇办事处区现辖行政区域。",
+      "variety": "",
+      "sensory": "体形粗短。鲜体背部青灰色,光泽鲜亮,呈半透明体状。壳薄肉满,鲜肉呈玉白色,肉质紧密,口感细腻鲜嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

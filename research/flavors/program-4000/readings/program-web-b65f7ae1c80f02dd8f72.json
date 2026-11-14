@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b65f7ae1c80f02dd8f72",
+  "title": "嘉兴特色小吃哪家好吃：粽子、酱鸭、烧卖与船菜店铺清单",
+  "url": "https://www.juour.cn/zj/xinyoujiaxing/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ff36848b10479928415b9a523787f7371abc45cbd527069147383c7f49f8da20",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "48be0e431baf84bdbdd9ba1b4c45717c16c370325b2da7208146763990e36c89",
+    "textLength": 7489,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海宁缸肉",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

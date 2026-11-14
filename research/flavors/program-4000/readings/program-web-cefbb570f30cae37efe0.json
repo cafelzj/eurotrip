@@ -1,0 +1,47 @@
+{
+  "id": "program-web-cefbb570f30cae37efe0",
+  "title": "看饿了！温州95道美食入选“味美浙江”-新闻中心-温州网",
+  "url": "https://news.66wz.com/system/2023/11/17/105609665.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "f86883bb2a15c25cb13f4c8c2c9142e75a2cb49e79079cc8eb0784d7cbba3bf8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "28b768b69ed880ece05db379c83ad0effba2e4ae511bde178b19400768e31590",
+    "textLength": 3280,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "温州馄饨",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "炒粉干",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "三丝敲鱼",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "江蟹生",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

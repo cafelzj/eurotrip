@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3d64ba8effdd94ad8b6a",
+  "title": "武汉美食出战！终于，我熬出头了",
+  "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202402/t20240202_2355205.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "aec964f49dec487e0389600efe73dea2f2b1f63ac57b01fc398bc1206a695bf7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5b65c38a5cec2bd758b087ae176eeaa02275b0737367989f2bdb66c68ca0363c",
+    "textLength": 2158,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "排骨藕汤",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

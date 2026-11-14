@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-e2e936c4ec7e7ce8",
+  "title": "地理标志公告 · 2008年第80号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC80%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2a7dd22d995c9ada73b166c6ca22b06c4fdeddf62a379734da36c3751002e824",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC80%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2a7dd22d995c9ada73b166c6ca22b06c4fdeddf62a379734da36c3751002e824",
+    "textSha256": "fca1455bdd5eadf28e573150f41c9f6b865887631d20c92f936afea5c4b644ca",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "祁县酥梨",
+      "province": "shanxi",
+      "city": "晋中",
+      "locality": "祁县",
+      "type": "ingredients",
+      "sectionSha256": "d50026d7806766efcc8caa420dcad87a3ac45c1ebf0480d4b38bc5bef03edb03",
+      "headingOffset": 1865,
+      "scope": "祁县酥梨地理标志产品保护范围以山西省祁县人民政府《关于划定祁县酥梨地理标志产品保护范围的建议》(祁政发〔2007〕41号)提出的范围为准,为山西省祁县古县镇、昭馀镇、东观镇、城赵镇、来远镇、贾令镇、峪口乡、西六支乡等8个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "果型端正,呈卵圆型,果皮乳黄色,果面光洁鲜亮,果点小而密,果皮薄,肉质酥脆无渣,具香气,果汁多,果味甜,果核小,石细胞少",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

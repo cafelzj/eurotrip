@@ -1,0 +1,31 @@
+{
+  "id": "program-web-ace3a4848b9fd7d5e983",
+  "title": "谁说朔州只有煤？山西农信带你打开塞上宝藏盲盒——结尾好礼相送！_新浪财经_新浪网",
+  "url": "https://finance.sina.com.cn/money/bank/2026-09-24/doc-inisxnuv5232587.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "e475b51dbcbfb7d12617076e3d617a38ab689942ab48b67173ff749739250508",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "163fdb95ccb5f97df575fb3fa4fae8ded493542ce5c24843e40c37884f0ffe09",
+    "textLength": 5848,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "应县紫皮大蒜",
+      "province": "shanxi",
+      "city": "朔州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "右玉沙棘",
+      "province": "shanxi",
+      "city": "朔州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

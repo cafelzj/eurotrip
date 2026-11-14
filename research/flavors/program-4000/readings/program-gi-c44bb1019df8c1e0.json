@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c44bb1019df8c1e0",
+  "title": "地理标志公告 · 2007年第195号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC195%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f3de682b27324b7067094eeb6076c14e8784286868a03169cde33dd93595d2a0",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC195%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f3de682b27324b7067094eeb6076c14e8784286868a03169cde33dd93595d2a0",
+    "textSha256": "73edbc43fa55e59968135fafac9b477adb074b87a209fb540baa0f3491b75260",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "泰山赤鳞鱼",
+      "province": "shandong",
+      "city": "泰安",
+      "locality": "泰山区",
+      "type": "ingredients",
+      "sectionSha256": "0e2112d73330f0ccf49d465c9c360104139c4f4f8b5309bc17cc4860a4bb69bf",
+      "headingOffset": 0,
+      "scope": "泰山赤鳞鱼地理标志产品保护范围以山东省泰安市泰山区人民政府《关于申请给予泰山赤鳞鱼地理标志产品保护的函》(泰山政发〔2006〕91号)提出的范围为准,为山东省泰安市泰山区现辖行政区域",
+      "variety": "赤鳞鱼属鲤形目(Cypriniformes)、鲤科(Cyprinidae)、鲅亚科(Barbinae)、突吻鱼属(Varlcorhinus)、铲颌鱼亚属(Scaphesthes)",
+      "sensory": "鱼体呈梭形,略侧扁,稍狭长,头短,吻钝,眼中等大,位于头侧面偏上方,口下位,腹部呈银白色,具有淡灰色侧线两条,体侧每个鳞片基部具有一新月形黑斑。当光线由弱到强时,其体色由黑褐色变为金黄色。分为三个等级:优级、一级、二级,规格如下表:等级优级一级二级项目规格体长>180mm180mm≥体长>130mm130mm≥体长>80mm",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

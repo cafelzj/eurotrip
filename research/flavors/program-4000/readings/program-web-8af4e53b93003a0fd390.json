@@ -1,0 +1,47 @@
+{
+  "id": "program-web-8af4e53b93003a0fd390",
+  "title": "“味美浙江·百县千碗”风味美食公示 温州95道佳肴上榜-新闻中心-温州网",
+  "url": "https://news.66wz.com/system/2023/11/21/105610203.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "97e4dce88fa8bfb489b1b04b60be4ee027c7632f7205b6687998ca4e06b4f51a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e00c5dfaf2dbb85091fe86546c91f7291445400c2c566fef409b40eb272d63a4",
+    "textLength": 1560,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "温州馄饨",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "炒粉干",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "三丝敲鱼",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "江蟹生",
+      "province": "zhejiang",
+      "city": "温州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

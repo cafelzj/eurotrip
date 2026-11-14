@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d89c1f6f90b8acc0eddc",
+  "title": "株洲特产推荐_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl2054.html",
+  "checked": "2026-11-14",
+  "responseSha256": "62df788bafa237453245bbf8c06c7664b9cf750bb0117b314e0d755344541b80",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "52401443b81c778a5489eed3ab461f6cfc88bfa363ea22b2df0dd85f9e5b3948",
+    "textLength": 1864,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "攸县香干",
+      "province": "hunan",
+      "city": "株洲",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

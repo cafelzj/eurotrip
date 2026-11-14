@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-ecc3e9f7541b0699",
+  "title": "地理标志公告 · 2010年第14号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f80639b04c4e2bb83ff3095d81fb49ff445c4308d69af7cb9feef6848206f061",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f80639b04c4e2bb83ff3095d81fb49ff445c4308d69af7cb9feef6848206f061",
+    "textSha256": "c0552aae346252c164a1e74d5cc1d4822bdc1119080793904711a907bf960b3b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "泰来大米",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "泰来县",
+      "type": "ingredients",
+      "sectionSha256": "154a0ab100fc37c0836ff60b7dd3f11db7b43fdf26ebc64be6b728a6bdd88f54",
+      "headingOffset": 1792,
+      "scope": "泰来大米地理标志产品保护范围为黑龙江省泰来县江桥镇、汤池镇、大兴镇、塔子城镇、和平镇、克利镇、平洋镇、宁姜乡、胜利乡等9个乡镇现辖行政区域。",
+      "variety": "选用通过国家或地方审定适应当地种植的耐冷、优质水稻松粳系列、绥粳系列、东农系列、龙稻系列适宜粳稻品种",
+      "sensory": "米粒呈长椭圆型,长度5.0至5.8mm,米粒长宽比为1.8至2.2之间,蒸煮时有浓郁的香味,米饭口感绵软、粘性适中、适口性好,米饭表面有油光润泽,凉后不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-8aa437e5808c959d",
+  "title": "地理标志公告 · 2010年第159号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC159%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f41748e883a272f4e60e7c0d6e4993ab0878963e05870964627e5b8b2df8f4ac",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC159%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f41748e883a272f4e60e7c0d6e4993ab0878963e05870964627e5b8b2df8f4ac",
+    "textSha256": "182529c946741adf9cb9fee386f2319e56513307a4385695b0e4f75d72c76b3d",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "屏南老酒",
+      "province": "fujian",
+      "city": "宁德",
+      "locality": "屏南县",
+      "type": "alcohol",
+      "sectionSha256": "efceae4e33e73b9e5210a2691f870e7f2e209e80240e8dc01dd9fd7fd9af5ded",
+      "headingOffset": 1670,
+      "scope": "",
+      "variety": "1.糯米:采用屏南县现辖行政区域生产的优质高山糯米,符合国家糯米标准规定的要求。2.糖化发酵剂:采用屏南县现辖行政区域生产的优质红曲。3.酿造用水:采用符合国家生活饮用水标准规定的屏南县山泉水",
+      "sensory": "呈琥珀色,清亮透明,有光泽,具有红曲黄酒的独特焦香味,酒体协调,醇和、柔爽、无异味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "武穴酥糖",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "武穴市",
+      "type": "dishes",
+      "sectionSha256": "51d973081ff578864365c2055813f11d0bca5cc12670180346a5a629dd4efdba",
+      "headingOffset": 4467,
+      "scope": "",
+      "variety": "",
+      "sensory": "项目要求形态方块形黑色芝麻类:呈浅灰色,表面油润。白色芝麻类:呈麦黄色,表面色泽油润组织形态酥糖层次、厚薄均匀,不粘包装纸。允许有桂花碎片存在气味及滋味具有浓郁的芝麻、桂花香味,甜度适中、酥脆爽口,不粘牙",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "永州山苍子油",
+      "province": "hunan",
+      "city": "永州",
+      "locality": "永州相关产区",
+      "type": "ingredients",
+      "sectionSha256": "0777c01efcdfe626186d0f287246bc3e5dd16573594cd93758cb2bf2c97991c7",
+      "headingOffset": 5617,
+      "scope": "",
+      "variety": "",
+      "sensory": "浅黄至黄色清澈液体,有柠檬醛香气",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "program-web-f7ebe9c180bb8b036d31",
+  "title": "山东省工业和信息化厅等部门关于印发《关于促进全省传统优势食品产区和地方特色食品产业高质量发展的实施方案（2023-2025）》的通知 (鲁工信发〔2023〕11号)-法规中心-酒业信息网",
+  "url": "https://jiu.foodmate.net/law/show.php?itemid=5645",
+  "checked": "2026-11-14",
+  "responseSha256": "10b9c5cc74b336fce20d718102def3e6eb313a3207df0d072eb522a30b03b760",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d20979f42e177d168208c4fb79bd090941a5e009a5511ce51ec5e86d4b1601ca",
+    "textLength": 10745,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "平阴玫瑰",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "高青黑牛",
+      "province": "shandong",
+      "city": "淄博",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "海阳白黄瓜",
+      "province": "shandong",
+      "city": "烟台",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "临朐鹅肝",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "邹城蘑菇",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "荣成海带",
+      "province": "shandong",
+      "city": "威海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "莘县香瓜",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "阳信鸭梨",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

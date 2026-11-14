@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ce1dfdd4caea7b75a982",
+  "title": "都市快报-杭州人，今天买菜请认准这只“大菜篮”",
+  "url": "https://mdaily.hangzhou.com.cn/dskb/2026/04/30/article_detail_2_20260430A081.html",
+  "checked": "2026-11-14",
+  "responseSha256": "cb53f6fcebca328d0ab0e846637b6317a61d65290dd962b1feea207a84356b83",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d315dc05028b43dc49557abd8e778c34f359d4353a29dfb3e66f81aebf8bef66",
+    "textLength": 4909,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "千岛湖鱼头",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

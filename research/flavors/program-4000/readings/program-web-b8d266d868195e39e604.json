@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b8d266d868195e39e604",
+  "title": "高质量发展看南阳-2023网络名人行",
+  "url": "https://henan.sina.cn/zt_d/subject-1684995552",
+  "checked": "2026-11-14",
+  "responseSha256": "8336de1e03f7ba9395c1dbfabe22c4743c509f1fdb8f0b362022c1acc8c6ccf1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c97c54f7ca6d75ac45187c5d2cdb9872193741486388c4eadba34a045b6423fe",
+    "textLength": 3659,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "新野臊子",
+      "province": "henan",
+      "city": "南阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

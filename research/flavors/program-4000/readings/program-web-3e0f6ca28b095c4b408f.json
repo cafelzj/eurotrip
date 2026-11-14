@@ -1,0 +1,39 @@
+{
+  "id": "program-web-3e0f6ca28b095c4b408f",
+  "title": "洛阳秋季有哪些必尝的当地美食？",
+  "url": "https://www.sina.cn/gc/article/nisppwf0999916.html",
+  "checked": "2026-11-14",
+  "responseSha256": "3a57196bd55968c44f4f19546f81d81e2ce73b958f944a9499cfcc5480b5ca83",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "cf98e8b599c24e936c538e5f3f7fd65d5424226b370a0883a25a0f942cf8af49",
+    "textLength": 1825,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "连汤肉片",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "洛宁酸牛肉",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "顾县肉合",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

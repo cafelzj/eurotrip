@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-89ce5e05db614ddf",
+  "title": "地理标志公告 · 2006年第191号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "996e70c26391da0a79e483012d66d5b9ea872f9df99b19cada2ce0213e552640",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "996e70c26391da0a79e483012d66d5b9ea872f9df99b19cada2ce0213e552640",
+    "textSha256": "56ff4497a45ed0e1cede8c4dc1c1f260d6c122cda348e181815b06f47c134ee3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "梅河大米",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "梅河口市",
+      "type": "ingredients",
+      "sectionSha256": "13d337a7048142a7c704814831cdfafde41bc864f7e8ae350ee85cb36f4792f1",
+      "headingOffset": 0,
+      "scope": "梅河大米地理标志产品保护范围以吉林省梅河口市人民政府办公室《关于确定梅河大米地理标志产品保护地域范围的函》(梅政办函[2006]5号)提出的范围为准,为吉林省梅河口市现辖行政区域",
+      "variety": "秋田小町、吉粳83等同类食味特色的中晚熟优质常规粳稻品种",
+      "sensory": "米粒呈半透明、有光泽,外形呈短圆或椭圆形,长度4.5mm至5.5mm,长宽比1.6至2.0。米饭有油光、饭香浓郁、入口柔软滑顺、粘而不粘口,适口性好、凉饭不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

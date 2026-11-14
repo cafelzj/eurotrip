@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-c3d152a48258ffbb",
+  "title": "地理标志公告 · 2008年第147号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC147%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7d8d82a4aba88d6a2b7729c66b6699c18024fd39ed5d6a957c9451efc6b9d26d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC147%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7d8d82a4aba88d6a2b7729c66b6699c18024fd39ed5d6a957c9451efc6b9d26d",
+    "textSha256": "1f3c1a73402b4f67761b13ae379f21a26b0db649fc7055438f05d8c13a76464b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "霍邱柳编",
+      "province": "anhui",
+      "city": "六安",
+      "locality": "霍邱县",
+      "type": "crafts",
+      "sectionSha256": "5564395b0ec90bf5aea7ed994ef52b7ec3b7c45ebf1318abe577600d22169231",
+      "headingOffset": 1459,
+      "scope": "霍邱柳编地理标志产品保护范围为安徽省霍邱县临淮岗乡、临水镇、周集镇、城西湖乡、宋店乡、新店镇等6个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "手感光滑,其性柔韧,耐撞击、摔打、挤压,无霉变,无异味,无斑痕,无污染,透气性强,经久耐用,生态环保。(1)柳篮产品:柳条匀称,隙间均匀;产品平整、细腻、柔韧,无炸条,无裂条,无断条,扭纹自然、流畅,条间隙小,立体感强,色泽光亮。(2)家具产品:柳条均匀、密实、骨架硬实,无断茬、无断条、无破头、无露钉、无钉隙,平整、流畅,古朴美观,色泽靓丽。2.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "洪湖大闸蟹",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "洪湖市",
+      "type": "ingredients",
+      "sectionSha256": "3ba6a6c51a24677f0cec77c12a9fa9962ff7b79e678490360245480c788daa5c",
+      "headingOffset": 5856,
+      "scope": "洪湖大闸蟹地理标志产品保护范围为湖北省洪湖市所辖的大湖水域,总面积4万亩。",
+      "variety": "长江水系中华绒螯蟹(Eriocheirsinensis)",
+      "sensory": "(1)外观特征:蟹壳成青泥色,平滑而富有光泽;脐部洁白晶莹,如白玉一般,无瑕疵和污迹;蟹的附肢上刚毛长而呈金黄色,根据挺拔;蟹足金黄,坚实有力。(2)体形及相关性状:个体肥硕,头胸甲相对较厚,肉质致密,甲壳坚硬、丰满、有光泽,蟹黄酱紫色或豆沙色,脂膏呈现乳白色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

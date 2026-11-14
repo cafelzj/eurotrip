@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b1468302df5d905c828c",
+  "title": "十大受欢迎的辽宁鞍山风味名吃 来鞍山不容错过的10种小吃→买购APP",
+  "url": "https://m.maigoo.com/top/436413.html",
+  "checked": "2026-11-14",
+  "responseSha256": "60d11d1b08c693621d99b992f0d13b30141d1340cab455dff02ad140f65c7fe3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4fb7991335f7db63c16cff03b75d69b9f8b257b679fe346b075789108de5f154",
+    "textLength": 6512,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "海城馅饼",
+      "province": "liaoning",
+      "city": "鞍山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

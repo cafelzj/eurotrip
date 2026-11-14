@@ -1,0 +1,23 @@
+{
+  "id": "program-web-704841cdaa6ccc93471a",
+  "title": "来安徽，这些小吃你不能错过_央广网",
+  "url": "https://www.cnr.cn/ah/ygkx/20170118/t20170118_523498377.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "9e0d5e14296052d1e6cba5b180a32451f0e5ae4aef7f3bb723d3b24df8ffb336",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f8bf6aa46f56e279492c8a793f2a7216f11a0b8b3eebe72a4b5d98fccc1cc8e3",
+    "textLength": 1895,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "江毛水饺",
+      "province": "anhui",
+      "city": "安庆",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

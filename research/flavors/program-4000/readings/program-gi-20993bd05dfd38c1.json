@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-20993bd05dfd38c1",
+  "title": "地理标志公告 · 2006年第124号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC124%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "60e46c71f9d273ab8d6b9e3a2d9f5852b7cee95924dc1336b7cf4ab57b0630b2",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC124%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "60e46c71f9d273ab8d6b9e3a2d9f5852b7cee95924dc1336b7cf4ab57b0630b2",
+    "textSha256": "b412411a6e0d2411f26b008b75237362570d33db0ede108dc3973692629e3a33",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "昌邑丝绸",
+      "province": "shandong",
+      "city": "潍坊",
+      "locality": "昌邑市",
+      "type": "crafts",
+      "sectionSha256": "73bb5f688b575a16ce486d5f2a0dbf30e69e35fb2f3e0f793f62516bc21b83cd",
+      "headingOffset": 0,
+      "scope": "昌邑丝绸地理标志产品保护范围以山东省昌邑市人民政府《关于申请界定昌邑丝绸地理标志产品保护范围的函》(昌政函[2005]10号)提出的范围为准,为山东省昌邑市现辖行政区域",
+      "variety": "",
+      "sensory": "产品种类感官特色纱手感米糯,富有弹性,悬垂性能良好绉绉效果明显,富有弹性,抗皱性强纺手感细腻、爽滑,光泽度好,绸面平挺、细密缎手感光滑柔软,有光泽绡轻灵,飘逸,较薄透孔,亚光泽锦外观瑰丽,多彩,花纹精致高雅绒手感柔软,光滑,绒面丰满绢绸面平整、挺括、丰满,光泽柔和呢组织变化丰富,质地丰厚,少光泽绫光泽亮丽,斜向纹路清晰罗罗组织效果明显葛经细纬粗,经密纬疏,横向条纹明显,质地厚实绸绸面平滑,光泽感强、纹理清晰绨质地厚实,表面较粗糙2.质量指标:等级项目AAA幅宽偏差%±1.5±2.0密度偏差%-2.0-3.0质量偏差%-3.0-4.0断裂强力N≥200经向-4.0-6.0练白纬向-1.0-2.0纺类织物经向-3.0-4.0印染纬向-1.0-1.0经向-8.0-10.0练白尺寸纬向-3.0-5.0绉类织物变化率%经向-5.0-6.0印染纬向-2.0-3.0经向-3.0-5.0练白纬向-2.0-2.0其他织物经向-3.0-4.0印染纬向-1.0-2.0耐洗变色3-43-4耐水染色牢度,级沾色33耐汗渍耐干摩擦33外观疵点,分幅宽114cm及以下0.50.9/m≤幅宽114cm以上0.61等级项目AAApH值6.8-7.26.5-7.5可分解芳香胺染料禁用禁用异味无无甲醛含量(mg/kg)≤2050",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

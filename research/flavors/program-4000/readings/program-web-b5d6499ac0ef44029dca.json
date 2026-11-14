@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b5d6499ac0ef44029dca",
+  "title": "河南·栾川喜庆乡村“晒秋”之旅",
+  "url": "https://zhuanti.mct.gov.cn/csxz2022/henan/detail_g7yU_719/4628.html",
+  "checked": "2026-11-14",
+  "responseSha256": "01536ad8f4ee588b82102cecad30c2b8a05763e2b502dbb015d24f55c75d1dfd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6bfa4abd32f83df31856b49c9de97c0851440a04f8ae92a8dc2268db6d8b55be",
+    "textLength": 2137,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "栾川豆腐",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

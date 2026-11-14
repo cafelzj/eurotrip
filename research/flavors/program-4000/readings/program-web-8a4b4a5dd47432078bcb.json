@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8a4b4a5dd47432078bcb",
+  "title": "〖舌尖八婺•婺城篇〗俘获味蕾！地道金华味，吃一次就会爱上！",
+  "url": "https://m.thepaper.cn/newsDetail_forward_11930845",
+  "checked": "2026-11-14",
+  "responseSha256": "d36e87e28b277ae436834b358c459d92f734293018e2d1d147a64404eea0364c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2cc54c950274273dfa7ac54b2583e329095aa0a34b8f9779f194900e1329b6e1",
+    "textLength": 2223,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "金华酥饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bb9d4f5c7edb0f8603a1",
+  "title": "新闻纵深｜千年古县 多彩易州|保定市|河北省|易县|游客|狼牙山_手机新浪网",
+  "url": "https://news.sina.cn/znl/2024-11-17/detail-incwiwtn1185872.d.html",
+  "checked": "2026-11-14",
+  "responseSha256": "9f7ebf1a399ffc40aa4636a566ee6d6c5ca3989bf41d6a81f11699bb05061ee1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2cf069124533b3b2d48cfc756fdd88c4ed148e5e35c8745e091a776aea1e3f5e",
+    "textLength": 5552,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "易水砚",
+      "province": "hebei",
+      "city": "保定",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

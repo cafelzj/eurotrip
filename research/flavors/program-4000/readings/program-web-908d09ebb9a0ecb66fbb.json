@@ -1,0 +1,23 @@
+{
+  "id": "program-web-908d09ebb9a0ecb66fbb",
+  "title": "丰收开新局：安徽来安美食跨省“圈粉”引客来",
+  "url": "https://dzswgf.mofcom.gov.cn/news/400/2026/10/1792460659087.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7268af910c9c3eef13628663c6712417b78593dad896f252a5974eaa0e9c24bf",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "158d3c4b26506ed724f1a4608aa6dcf58fc28588fc383242e4a5af481b6d953b",
+    "textLength": 1865,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "雷官板鸭",
+      "province": "anhui",
+      "city": "滁州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

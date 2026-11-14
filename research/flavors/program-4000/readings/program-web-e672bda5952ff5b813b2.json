@@ -1,0 +1,47 @@
+{
+  "id": "program-web-e672bda5952ff5b813b2",
+  "title": "中国辣子鸡之乡的“舌尖名片”！枣庄这8种正宗特色美食吃过才算没白来-区市动态-新闻中心",
+  "url": "https://xunduwang.com/news/10107.html",
+  "checked": "2026-11-14",
+  "responseSha256": "acd36a46622dab22cccaba9b3053975bc07e213cce3b9c4b8eb124d2a1aa352d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8728fd73c02870906b785c64f38c5353424492aa88b913982fbca6bc90042cc6",
+    "textLength": 2280,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "辣子鸡",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "羊肉汤",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "菜煎饼",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "滕州菜煎饼",
+      "province": "shandong",
+      "city": "枣庄",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

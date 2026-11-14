@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8b9f556b0bd8236c",
+  "title": "地理标志公告 · 2009年第88号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "12d26dd0ab29743425ffd68c30bb7ebf238a112fa628b49512f62b82e0d91c6a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "12d26dd0ab29743425ffd68c30bb7ebf238a112fa628b49512f62b82e0d91c6a",
+    "textSha256": "5b581f88fb0b61c840b878dd2ec97279c1fbf9ad3c6a05afaccabab158453937",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "临海杨梅",
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "临海市",
+      "type": "ingredients",
+      "sectionSha256": "5a482ddec968238c643a25b3717d743307e1e2b5e33e8421f22bef03563f5959",
+      "headingOffset": 1539,
+      "scope": "临海杨梅地理标志产品保护范围为浙江省临海市现辖行政区域。",
+      "variety": "东魁、早大梅、荸荠种",
+      "sensory": "果大汁多,肉柱充实、圆钝,色泽艳丽,光泽度好,肉质细嫩,酸甜可口,风味浓郁。(1)东魁:果实大,圆球形,深黑色或深红色,肉柱充实,顶端圆钝或少量尖锐,肉质细嫩,风味酸甜可口。(2)早大梅:果实圆球形,紫黑色或紫红色,肉柱充实,顶端圆钝,光泽度好,肉质致密、较硬,耐贮藏(采后常温下存放一夜仍保持原色),风味酸甜适中。(3)荸荠种:果实圆球形,紫黑色,肉柱充实、顶端圆钝或有少量尖锐,有光泽,肉质细嫩,味甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

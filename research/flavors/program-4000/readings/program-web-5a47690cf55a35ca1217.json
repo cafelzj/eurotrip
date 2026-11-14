@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5a47690cf55a35ca1217",
+  "title": "“客”哪里吃｜武汉“十大名菜”之“经典菜”，江城席面的C位象征",
+  "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202408/t20240828_2446801.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "babdaaf7db2f18f94af72ef13ed355610fd3043998f6b41dae3e803ddf6cde2c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ca6eba84282422102cf63d68ec090a8f44c75ab4601e02d1a0cd136765dfe4de",
+    "textLength": 2552,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "黄陂三鲜",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

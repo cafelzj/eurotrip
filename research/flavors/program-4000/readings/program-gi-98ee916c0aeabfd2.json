@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-98ee916c0aeabfd2",
+  "title": "地理标志公告 · 2011年第195号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC195%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "040de3b6184d2320cf6866452f03adee51d1147dcee88b661fbde3ea0035726f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC195%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "040de3b6184d2320cf6866452f03adee51d1147dcee88b661fbde3ea0035726f",
+    "textSha256": "027b985e62e6f1b8d2a07d7750c613b4411b6efccdb123ac7f1021f1eeb6bb5b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "延边辣白菜(延边朝鲜族辣白菜)",
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "延吉市、图们市、敦化市、珲春市、龙井市、和龙市、汪清县、安图县",
+      "type": "ingredients",
+      "sectionSha256": "2980cc7b20161735948975db5854f085f4387c13824e64d99bd3f18f5ef3f7d4",
+      "headingOffset": 1793,
+      "scope": "延边辣白菜(延边朝鲜族辣白菜)产地范围为吉林省延边朝鲜族自治州延吉市、图们市、珲春市、龙井市、和龙市、敦化市、汪清县、安图县8个市县现辖行政区域。",
+      "variety": "",
+      "sensory": "具有乳酸发酵所固有的香味、口味清香,颜色鲜艳,白绿透红,咸、酸、甜、辣、鲜五味调和,上色均匀、质地脆嫩、清爽可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "笔架鱼肚",
+      "province": "hubei",
+      "city": "荆州",
+      "locality": "石首市",
+      "type": "ingredients",
+      "sectionSha256": "c438cf5601cf96a050ff0cb55e5530814b26b91292b8a2ce5fbd7890b68b89b3",
+      "headingOffset": 2701,
+      "scope": "笔架鱼肚产地范围为湖北省石首市新厂镇、横沟市镇、小河口镇、东升镇、调关镇、桃花山镇、高基庙镇、团山寺镇、高陵镇、南口镇、久合垸乡、天鹅洲经济开发区、绣林办事处、笔架山办事处14个乡镇办开发区现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽透明微黄,具有独特香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄陂荆蜜",
+      "province": "hubei",
+      "city": "武汉",
+      "locality": "黄陂区",
+      "type": "ingredients",
+      "sectionSha256": "104afd83b3009aaefdd603e7afdbffe223892ad5652ef9a87727c4edad99fc47",
+      "headingOffset": 3050,
+      "scope": "黄陂荆蜜产地范围为湖北省武汉市黄陂区木兰山风景区及蔡家榨街道办事处、六指街道办事处、王家河街道办事处、木兰乡、长轩岭街道办事处、蔡店乡、姚家集街道办事处、罗汉寺街道办事处、李家集街道办事处9个街道办事处、乡现辖行政区域。",
+      "variety": "",
+      "sensory": "色泽呈琥珀红,半透明,易结晶,结晶白色泛红;口感绵甜、甜中有酸,润不刺喉,回味悠长,有牡荆花特有的花香味;常温下呈透明或半透明粘稠流体,易结晶",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "赤壁猕猴桃",
+      "province": "hubei",
+      "city": "咸宁",
+      "locality": "赤壁市",
+      "type": "ingredients",
+      "sectionSha256": "6ca759c3d72868e40a5f6181220f95f8f18eaca777f5b755b9dd004fbade3889",
+      "headingOffset": 3678,
+      "scope": "赤壁猕猴桃产地范围为湖北省赤壁市现辖行政区域。",
+      "variety": "金魁、海沃德",
+      "sensory": "果实呈圆柱形(金魁)或卵圆形(海沃德),果面褐色或深褐色,果肉翠绿色,酸甜适度,汁液多,具清香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

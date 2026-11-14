@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2b635485c73c8007b521",
+  "title": "〖艺行〗暑期社会实践 | 寻味浙里，以剪传韵 ——浙江外国语学院剪艺实践团-浙江外国语学院艺术学院",
+  "url": "https://ysxy.zisu.edu.cn/info/1002/7084.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "1ef06b980f58dc409f4c8106c7772c1c096780156d79da26c5c32f16fecc8c74",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "624332f6ec84fa24c646ee413a517cf8bc340a9a80c1f1ee1600200fc1b6ccb2",
+    "textLength": 4295,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "千张包",
+      "province": "zhejiang",
+      "city": "湖州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

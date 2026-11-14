@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-f32ef75f52f1417f",
+  "title": "地理标志公告 · 2007年第208号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "6e46778ccbbae8dab12f0805e03f19086266b1513ffdb9611274c9b4dc9c3b97",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "6e46778ccbbae8dab12f0805e03f19086266b1513ffdb9611274c9b4dc9c3b97",
+    "textSha256": "36cc046830bd164630496774f3a896ae5a168d4e00a6bd783f3b413f28a7275a",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永泰李干",
+      "province": "fujian",
+      "city": "福州",
+      "locality": "永泰县",
+      "type": "ingredients",
+      "sectionSha256": "fc1d6e3c998c831ecc69c0c45888e97d6aed73687a055ba01b1c649653e3108d",
+      "headingOffset": 0,
+      "scope": "永泰李干地理标志产品保护范围以福建省永泰县人民政府《关于请求界定“永泰李干”地理标志产品产地保护范围的函》(樟政〔2007〕81号)提出的范围为准,为福建省永泰县现辖行政区域",
+      "variety": "",
+      "sensory": "(1)色泽:呈棕褐色或黑褐色,有光泽。(2)形态:肉质柔嫩,组织饱满。(3)组织:呈整果,颗粒完整,表面皱纹细密、均匀、干爽。(4)滋味:甜酸适口,无砂齿感,保留原果风味,无异味。(5)杂质:无肉眼可见外来杂质",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

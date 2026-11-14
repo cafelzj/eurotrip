@@ -1,0 +1,31 @@
+{
+  "id": "program-web-e84ff4202bf1c7b037d9",
+  "title": "昆山美食推荐2026｜奥灶面、大闸蟹及十大特色小吃 – 城市智库",
+  "url": "https://www.orgo.cn/b2b/kunshan-food-recommendations-2026/",
+  "checked": "2026-11-14",
+  "responseSha256": "24e80eda2afea3fe5294eeda0907128288f913486e9578daad150e761532ef45",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "a936ae600f9a062ae38bf4e1734ab03af1a61662a288707701af06872fcc5191",
+    "textLength": 6067,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "袜底酥",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "万三蹄",
+      "province": "jiangsu",
+      "city": "苏州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

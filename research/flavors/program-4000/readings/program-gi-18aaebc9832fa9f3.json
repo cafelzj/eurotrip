@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-18aaebc9832fa9f3",
+  "title": "地理标志公告 · 2012年第88号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c2d08f580cf0181a9e78e72a3e955ac2e87ae2ac7123f5f4805304bd393958e3",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c2d08f580cf0181a9e78e72a3e955ac2e87ae2ac7123f5f4805304bd393958e3",
+    "textSha256": "70bd44afad44de8831ef0735a76eaa75efd91be5b133685ec54708107dbfc0e6",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "火烧坪包儿菜",
+      "province": "hubei",
+      "city": "宜昌",
+      "locality": "长阳土家族自治县",
+      "type": "ingredients",
+      "sectionSha256": "b78b44f40a1c5e8009732e752b54837b1d0568dd545892099ddf6a2984460996",
+      "headingOffset": 4606,
+      "scope": "火烧坪包儿菜产地范围为湖北省长阳土家族自治县火烧坪乡、贺家坪镇、榔坪镇、资丘镇、渔峡口镇、都镇湾镇、鸭子口乡7个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "叶球扁平状,紧实,味微甜,口感脆嫩",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

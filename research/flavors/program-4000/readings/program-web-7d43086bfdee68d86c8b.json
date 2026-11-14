@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7d43086bfdee68d86c8b",
+  "title": "武陟政府网_武陟人民政府网_河南武陟政府网站-火车网",
+  "url": "https://www.huochepw100.com/zhengfu_410823/",
+  "checked": "2026-11-14",
+  "responseSha256": "c48b9cc8839c31ab30d86f5090c4eea532131d5b1660e70468d47e41100356d8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "f9fad60f64dd33d4058b2eb08647ad55e5ff027729b04439e98b44b2e64593b2",
+    "textLength": 10365,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "怀山药",
+      "province": "henan",
+      "city": "焦作",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

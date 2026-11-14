@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8504d378b0686e13",
+  "title": "地理标志公告 · 2007年第171号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC171%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d29ae18ba06b5a0c9e6d6365fccf276eb608d2362b443b3e2a16bdef0c7cc343",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC171%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d29ae18ba06b5a0c9e6d6365fccf276eb608d2362b443b3e2a16bdef0c7cc343",
+    "textSha256": "75519c9a423157f6fba3cdf1ad010d7a122e3debe39147af25d61c14ed02dced",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "程河柳编",
+      "province": "hubei",
+      "city": "襄阳",
+      "locality": "襄阳相关产区",
+      "type": "crafts",
+      "sectionSha256": "d80e1faea467f7ce08e55f713b6727c7dc9d35c9ada6666c9e3f7a331dd4d379",
+      "headingOffset": 0,
+      "scope": "程河柳编地理标志产品保护范围以湖北省襄樊市襄阳区人民政府《关于程河柳编地理标志产品保护和管理的批复》(襄政函[2006]56号)提出的范围为准,为湖北省襄樊市襄阳区程河镇、朱集镇、双沟镇等3个镇现辖行政区域",
+      "variety": "",
+      "sensory": "",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-efc628dc6a827357",
+  "title": "地理标志公告 · 2014年第39号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7a6edf387f3143512034e7a2651a51f0ccf04afa76f9d213610145b701434a05",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7a6edf387f3143512034e7a2651a51f0ccf04afa76f9d213610145b701434a05",
+    "textSha256": "e058417d5fd1f7099ede3fd8295d73c8aae09d5a50798e1db62f566c1630f775",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "朝阳杏仁油",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "龙城区、朝阳县",
+      "type": "ingredients",
+      "sectionSha256": "8662c4c23508b940f5bee4e625e2cf55682b517c93a7077d5c5e5bf87bb144f0",
+      "headingOffset": 6483,
+      "scope": "朝阳杏仁油产地范围为辽宁省朝阳市龙城区现辖行政区域。",
+      "variety": "",
+      "sensory": "项目指标色泽及外观清亮透明的黄色液态油脂香气具有杏仁特有的浓郁芳香口感口感润滑细腻临界-10°C时,油体保持清亮透明",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄梅鱼面",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "黄梅县",
+      "type": "staples",
+      "sectionSha256": "7d0cce923ffa31c0644cbadb241ccf6b93203c9fbeba3e432c5e5a57f0c5bb9f",
+      "headingOffset": 8630,
+      "scope": "黄梅鱼面产地范围为湖北省黄梅县黄梅镇、下新镇、独山镇、濯港镇、大河镇、五祖镇、停前镇、柳林乡、杉木乡、苦竹乡共10个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "产品为青色或淡黄色、光滑油润,均匀一致,具有鱼香味,炸食酥口焦脆、炒食柔软爽口,煮食不混汤",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "梅子贡茶",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "竹溪县",
+      "type": "tea",
+      "sectionSha256": "da914f5ac8bd4ac1a46140ff82fcf7f2fddde152c0cbe5ab04968f4faff40d9e",
+      "headingOffset": 10786,
+      "scope": "梅子贡茶产地范围为湖北省竹溪县蒋家堰镇、中峰镇、鄂坪乡、汇湾乡、泉溪镇、梅子垭茶场、杨家扒综合农场、双竹林场共8个乡镇农林特场现辖行政区域。",
+      "variety": "",
+      "sensory": "细秀显毫,匀整,色泽翠绿;香气清高,滋味鲜醇,汤色嫩绿明亮,叶底嫩匀绿亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "黄梅荷叶茶",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "黄梅县",
+      "type": "tea",
+      "sectionSha256": "9fe46a35447f52e4e8040e6de97928821b530d661ad33efc68e8a0dd911ced81",
+      "headingOffset": 11831,
+      "scope": "黄梅荷叶茶产地范围为湖北省黄梅县黄梅镇、下新镇、独山镇、濯港镇、孔垄镇、分路镇、小池镇、大河镇、五祖镇、刘佐乡共10个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "外形紧卷如螺,细小匀整,色泽灰绿,有荷叶清香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "竹山郧巴黄牛",
+      "province": "hubei",
+      "city": "十堰",
+      "locality": "竹山县",
+      "type": "ingredients",
+      "sectionSha256": "c7b3b869498dfef588202a22f3e3ba9a6760f833a27d84ef024ccbdc5378048c",
+      "headingOffset": 12644,
+      "scope": "竹山郧巴黄牛产地范围为湖北省竹山县城关镇、溢水镇、麻家渡镇、宝丰镇、擂鼓镇、秦古镇、得胜镇、上庸镇、官渡镇、潘口乡、竹坪乡、大庙乡、双台乡、楼台乡、文峰乡、深河乡、柳林乡共17个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)活体牛:体型高大,结构匀称,肌肉丰满,颈侧皱褶明显,垂皮发达;被毛细密,毛色为黄色、板栗色或红黄色;角呈龙门形或笋形。公牛颈宽厚、粗短,粗壮结实,母牛颈较薄、稍长,细致紧凑。(2)鲜肉:肌肉有光泽,呈玫瑰红色,大理石花纹明显,肉质细嫩,外表微干或有风干膜,不粘手,指压后凹陷立即恢复",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

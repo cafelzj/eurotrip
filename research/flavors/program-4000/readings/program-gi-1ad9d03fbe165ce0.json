@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-1ad9d03fbe165ce0",
+  "title": "地理标志公告 · 2006年第220号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC220%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "fc5f88694c47dcffcf967dddcb6adc925726eaa503862b02f032e75c58ebd46f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC220%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "fc5f88694c47dcffcf967dddcb6adc925726eaa503862b02f032e75c58ebd46f",
+    "textSha256": "b56c10d75826f10e65b95fbb3d7431ccfc813c73a2e66ffb2b2e211c2883c462",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "延边大米",
+      "province": "jilin",
+      "city": "延边州",
+      "locality": "延吉市、图们市、敦化市、珲春市、龙井市、和龙市、汪清县、安图县",
+      "type": "ingredients",
+      "sectionSha256": "928e5540f72f44328ae211d163ebb5d01c64e4a8e7c9242ab15750d8654b8caf",
+      "headingOffset": 0,
+      "scope": "延边大米地理标志产品保护范围以吉林省延边朝鲜族自治州人民政府办公室《关于划定延边大米地理标志产品保护范围的通知》(延州政办电[2005]120号)提出的范围为准,为吉林省延边朝鲜族自治州延吉市、图们市、珲春市、龙井市、和龙市、敦化市、汪清县、安图县等8个县、市现辖行政区域",
+      "variety": "选用通过国家或地方审定适应当地种植的耐冷、优质水稻吉粳81、五优一号等具有同类特色的中晚熟粳稻品种",
+      "sensory": "米粒呈椭圆型,米粒长度5.0至5.5mm,米粒长宽比为1.8至2.0之间,蒸煮时可散发出浓郁的饭香味,米饭口感柔软、粘性适中、适口性好,米饭表面有油光,凉后不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-19b8e0f45e9c46de",
+  "title": "地理标志公告 · 2009年第128号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b7cd70b87ae10a37aa8f72e10cfeea91d91a9d92c813b964ee587f990a03d63a",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b7cd70b87ae10a37aa8f72e10cfeea91d91a9d92c813b964ee587f990a03d63a",
+    "textSha256": "00c7e02164f578354d680d79f9223b6befed3835667b6b1b66e56ae70c2c499b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "肖港小香葱",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝南区",
+      "type": "ingredients",
+      "sectionSha256": "df62e6d9becf48d4519b0dad93bc0784f4e1e0b0e4f38d0861b9dbcdc32aa518",
+      "headingOffset": 1863,
+      "scope": "肖港小香葱地理标志产品保护范围为湖北省孝感市孝南区肖港镇现辖行政区域。",
+      "variety": "华香葱1号",
+      "sensory": "叶片深绿色,饱满、挺实、有光泽。植株丛生直立,葱叶成细筒状,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "太子米",
+      "province": "hubei",
+      "city": "孝感",
+      "locality": "孝昌县",
+      "type": "ingredients",
+      "sectionSha256": "1f188feefaa7db865da080fc978c53d757c5488e4945f8e69554e5e0dd2c5927",
+      "headingOffset": 2892,
+      "scope": "太子米地理标志产品保护范围为湖北省孝昌县邹岗镇、白沙镇、丰山镇、花西乡、周巷镇、陡山乡、花园镇、小悟乡、季店乡、卫店镇、王店镇、小河镇等12个乡镇现辖行政区域。",
+      "variety": "常规优质籼稻品种",
+      "sensory": "米粒呈半透明、有光泽,外形呈短圆或椭圆形,长度5.7至6.7mm,长宽比2.4至2.6。米饭有油光、饭香浓郁、入口柔软滑顺、黏而不粘口,适口性好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "英山云雾茶",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "英山县",
+      "type": "tea",
+      "sectionSha256": "a44c79f039d1f63aa09f7570fc40e22a9c4edda255a781c3e637a180590afd1d",
+      "headingOffset": 3722,
+      "scope": "英山云雾茶地理标志产品保护范围为湖北省英山县南河镇、方家咀乡、温泉镇、红山镇、孔家坊乡、金家铺镇、石头咀镇、杨柳湾镇、雷家店镇、草盘地镇、陶家河乡等11个乡镇现辖行政区域。",
+      "variety": "鄂茶1号、鄂茶5号、白毫早等适宜加工英山云雾茶的中小叶无性系茶树良种",
+      "sensory": "等级项目春笋春蕊春茗一芽一叶初展不少于100%一芽一叶原料要求100%单芽50%、一芽二叶初展不高初展于50%挺直细秀卷曲,条索细紧卷曲,有白毫外形显毫白毫显露色泽翠绿尚润翠绿尚润绿润香气嫩香持久香高持久清香持久滋味鲜醇爽口鲜浓爽口浓醇内质汤色清澈明亮嫩绿明亮绿亮芽叶细嫩叶底翠绿明亮匀齐嫩绿明亮明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

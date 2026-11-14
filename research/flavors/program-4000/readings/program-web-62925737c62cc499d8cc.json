@@ -1,0 +1,23 @@
+{
+  "id": "program-web-62925737c62cc499d8cc",
+  "title": "漳州新增一个优势特色产业集群项目 _ 招商动态 _ 福建省商务厅",
+  "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/gntzcjc/zsdt/202505/t20250523_6917488.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "413d8f7ad8e1ebe36cc8d75e1389c113f713194c9ce62098bcd760181d02810f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "cc5932d159b74144506469238a887938ce8082791b9dd3b01978ae8030a12937",
+    "textLength": 1462,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "华安铁观音",
+      "province": "fujian",
+      "city": "漳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

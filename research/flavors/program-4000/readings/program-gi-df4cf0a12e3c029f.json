@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-df4cf0a12e3c029f",
+  "title": "地理标志公告 · 2013年第73号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC73%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b4a6d6364309d6b24cb792d19e03ee31f11377ee60e7f629a45720f6f3ba3b4c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC73%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b4a6d6364309d6b24cb792d19e03ee31f11377ee60e7f629a45720f6f3ba3b4c",
+    "textSha256": "e03194509d88f01001a8b44c1439e983e73108112a00875279b70e78f0d5c4bd",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "讷河甜菜",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "locality": "讷河市",
+      "type": "ingredients",
+      "sectionSha256": "3fb499410aaa892053cdccc7c9c36004f484ad5aec69301f855b218d4b218ef2",
+      "headingOffset": 3391,
+      "scope": "讷河甜菜产地范围为黑龙江省讷河市通江街道办事处、雨亭街道办事处、拉哈镇、二克浅镇、学田镇、龙河镇、讷南镇、六合镇、长发镇、通南镇、同义镇、九井镇、老菜镇、孔国乡、和盛乡、同心乡、兴旺鄂温克族乡共17个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "形状圆锥形或楔形,直径12cm至20cm,根形规整,无空心",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6d95d524ca2e61a6916b",
+  "title": "宁德美食_宁德特色小吃_宁德有什么好吃的",
+  "url": "https://qyun.yaochufa.com/ningde_meishi",
+  "checked": "2026-11-14",
+  "responseSha256": "58ee8186951fb056795793997399b06e9f089f60bb42e2cbb470021259130c37",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "38e3db03fc3efe13e8c16a1260a46de3e3fc8a97f8efc72b4aea1c22ef5c009a",
+    "textLength": 1831,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "霞浦剑蛏",
+      "province": "fujian",
+      "city": "宁德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

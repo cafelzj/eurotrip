@@ -1,0 +1,23 @@
+{
+  "id": "program-web-18a0d8a1e19829ad0a86",
+  "title": "中国之窗｜安徽——美好安徽 迎客天下 | 香港国际传播中心",
+  "url": "https://www.hkic.org.cn/tanyuan/2023/02/02/2462.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c88bb43a03f2cd89f29108b429cff1b687b3433118172969f088c8a4eff54e13",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4597e5c210c0c71ce24b2193bd36ecc96e071c2cc0b28e3382cbda3d23192325",
+    "textLength": 26395,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蒙城撒汤",
+      "province": "anhui",
+      "city": "亳州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

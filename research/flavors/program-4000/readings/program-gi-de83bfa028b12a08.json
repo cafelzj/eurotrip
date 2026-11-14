@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-de83bfa028b12a08",
+  "title": "地理标志公告 · 2008年第92号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC92%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "ddc1178eb756d8782289ee2240c1ead8b57b1416f97c13b02bda531c2c8d1c5b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC92%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "ddc1178eb756d8782289ee2240c1ead8b57b1416f97c13b02bda531c2c8d1c5b",
+    "textSha256": "c68d6976fce908c0f0b4aa2e46b8090b207430614bd13a9e78dfed669debd528",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "傅家花生",
+      "province": "liaoning",
+      "city": "铁岭",
+      "locality": "昌图县",
+      "type": "ingredients",
+      "sectionSha256": "e06b34467d73eed0191713fd86fd39231fd038a2e3b71ad511b4abec8c8a54df",
+      "headingOffset": 2048,
+      "scope": "傅家花生地理标志产品保护范围以辽宁省昌图县人民政府《关于界定“傅家花生”地域保护范围的函》(昌政函〔2007〕6号)提出的范围为准,为辽宁省昌图县傅家镇远大村、大地村、友好村、白家窝堡村、五丰村、友爱村、张家窝堡村、长山村、唐家围子村、傅家村、太民村、邱家屯村,傅家林场宝龙分场、山河分场、种子林分场、朱家村、老曲家店村、郭家平房村,以及三江口镇刘塘房村、海丰村,古榆树镇劳动村、榆树村现辖行政区域。",
+      "variety": "白沙、昌花一号、鲁花十二珍珠豆型品种及四粒红",
+      "sensory": "要求项目白沙昌花一号鲁花十二四粒红籽仁桃形,种皮籽仁珍珠豆形,籽仁珍珠豆形,籽仁柱形或三角形,组织淡红色。荚果网种皮粉红色。荚种皮浅红色。荚种皮红色。荚果网纹形态目小、网纹细浅、果网目小、网纹果网纹细浅,果清晰,网纹浅而光要求项目白沙昌花一号鲁花十二四粒红缩缢浅,果嘴短较深、缩缢浅,嘴钝,均为二粒滑、皮薄,果嘴极短,钝。二粒荚果为果嘴短钝小,均荚果,百果重约果腰不明显;多为四主,百果重134.6为二粒荚果,百165克,百仁重室,每室一粒。百果克左右,百仁重果重191.2克,70克左右重197.5克,百仁重53.3克左右百仁重82.8克55.0克滋气味口感细腻、香甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

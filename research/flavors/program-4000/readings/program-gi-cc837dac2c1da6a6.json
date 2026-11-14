@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-cc837dac2c1da6a6",
+  "title": "地理标志公告 · 2009年第51号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "965100f63920bfea39a6211ee2ef3f811f6c5df7b8229fd7e7dcf0006631782c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "965100f63920bfea39a6211ee2ef3f811f6c5df7b8229fd7e7dcf0006631782c",
+    "textSha256": "9a4b65d16d82057c0cd518bd72f318827ea5f1835d81dc24f9823fcd71f9bd65",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "清流溪鱼",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "清流县",
+      "type": "ingredients",
+      "sectionSha256": "88633e607cb2b290c06ad767bf0ac63227c85866b8be22c59e2f56477947367a",
+      "headingOffset": 1698,
+      "scope": "清流溪鱼地理标志产品保护范围为福建省清流县现辖行政区域。",
+      "variety": "1.草鱼(Ctenopharyngodonidellus):属鲤科、雅罗鱼亚科、草鱼属。2.鳙鱼(Aristichthysmobilis):属鲤科,鲢亚科,鳙属。当地俗称:大头鲢、花鲢。3.翘嘴红鲌(Culteralburnus):属鲤科,鲌亚科,鲌属。当地俗称:九龙白刀、翘嘴。4.鳜鱼(Sinipercaspp):属鮨科,鳜亚科,鳜属。当地俗称:桂花鱼、贵鱼",
+      "sensory": "(1)草鱼:体背部深青灰,腹部银白,胸、腹鳍略带金黄。(2)鳙鲢:头极肥大,体侧上半部深黑色,腹部银白,两侧杂有许多黑色的不规则小斑点。(3)翘嘴红鲌:肉质细嫩,体背呈青灰色,两侧银白。(4)鱖鱼:鲜美味甜,腹部灰白色,体侧具有明显的不规则的暗棕色斑点及斑块",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

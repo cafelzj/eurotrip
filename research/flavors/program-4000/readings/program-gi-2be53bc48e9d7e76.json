@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-2be53bc48e9d7e76",
+  "title": "地理标志公告 · 2009年第87号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC87%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5bf9d676455f43061cadf8808c7600d2f44385c143a6d573ad492174b178fbff",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC87%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5bf9d676455f43061cadf8808c7600d2f44385c143a6d573ad492174b178fbff",
+    "textSha256": "1e14d8335cb634ab81bb655a9ea33f4070922ca47edca091c84fd04a1e6271ba",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "阜宁大糕",
+      "province": "jiangsu",
+      "city": "盐城",
+      "locality": "阜宁县",
+      "type": "staples",
+      "sectionSha256": "5b404c78d8379a44f383abc682eb7ccafa77b4563eb870d0b0b2bfaf59eb18b2",
+      "headingOffset": 1662,
+      "scope": "阜宁大糕地理标志产品保护范围为江苏省阜宁县益林镇、阜城镇、沟墩镇、施庄镇、三灶镇、郭墅镇、硕集镇、新沟镇、羊寨镇、芦蒲镇、东沟镇、古河镇、罗桥镇、杨集镇、公兴镇、板湖镇等16个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)形态:糕片轻薄如白纸,柔软似丝绸,具有可燃可卷的特点。(2)色泽:表面光滑无糖斑,呈乳白色。(3)滋味:入口绵软滑润,甘甜如蜂蜜,有淡淡米香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "狼山鸡",
+      "province": "jiangsu",
+      "city": "南通",
+      "locality": "如东县",
+      "type": "ingredients",
+      "sectionSha256": "d77a762a96b19308b3243fc747be1303b97f38af30095f6887ab38671c4a74d2",
+      "headingOffset": 3034,
+      "scope": "狼山鸡地理标志产品保护范围为江苏省如东县现辖行政区域。",
+      "variety": "在保护范围内繁殖的纯黑地方品种鸡",
+      "sensory": "采用符合如东县当地狼山鸡特征和上市日龄的狼山鸡肉用商品鸡。屠宰后,屠体洁白,肤色及骨色均呈白色,胫细呈黑色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "红安苕",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "红安县",
+      "type": "ingredients",
+      "sectionSha256": "2e4a9417da066033cbe8637e9606842409010831d9f0bd6822c0831289c863e9",
+      "headingOffset": 8609,
+      "scope": "红安苕地理标志产品保护范围为湖北省红安县太平桥镇、八里湾镇、觅儿寺镇、高桥镇、上新集镇、二程镇、城关镇、杏花乡、永佳河镇、七里坪镇、华家河镇、火连畈茶场等12个乡镇(场)现辖行政区域。",
+      "variety": "当地红心苕",
+      "sensory": "皮薄肉红、少粉多糖,生吃甜而脆,熟食则温软而醇香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-0a32c99e40ebff690c74",
+  "title": "沂水丰糕入选山东百种非遗美食名单-欢迎您来到沂水县人民政府",
+  "url": "https://www.yishui.gov.cn/info/129234/418846.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "80ecc98f97eba742e476cf56f9a30ad7d2d81a3d73fdb47191b131e4ea26505e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "259cf538c2ebc817bbf3ae14b818b08c7117b514cef72e66b77e4cf1d6dc1cea",
+    "textLength": 1311,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "沂水丰糕",
+      "province": "shandong",
+      "city": "临沂",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

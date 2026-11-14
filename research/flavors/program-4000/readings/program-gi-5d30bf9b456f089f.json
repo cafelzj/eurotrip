@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-5d30bf9b456f089f",
+  "title": "地理标志公告 · 2007年第42号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC42%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "385db5c8c9dd65b263aea5dec7a47431dd1cc60e2a28bc879ae79a74eb4342cf",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC42%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "385db5c8c9dd65b263aea5dec7a47431dd1cc60e2a28bc879ae79a74eb4342cf",
+    "textSha256": "6fb1b0ad8d2f9260a12a4a75ea32a5cff5678401d2f46ab74faf2bcab00172cb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "德清早园笋",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "德清县",
+      "type": "ingredients",
+      "sectionSha256": "8b1557f8327a1d7bfce0849c64e1255a70bfe9fb3f9ed8352e31931040a899ec",
+      "headingOffset": 0,
+      "scope": "德清早园笋地理标志产品保护范围以浙江省德清县人民政府《关于界定德清早园笋地理标志产品保护范围的报告》(德政[2006]32号)提出的范围为准,为浙江省德清县现辖行政区域",
+      "variety": "早竹",
+      "sensory": "鲜笋笋体粗壮,外壳呈红褐色,笋肉丰腴白嫩,肉质脆嫩,口感鲜美,无苦涩且略带甜味。无变形,无畸形。笋箨有光泽不萎蔫。2.分级标准:鲜笋分级表等级最大直径cm长度cm重量g/笋外观特等品≥625~30150以上形状正常、新鲜、色泽良好、无一等品3-620~40150以上破损、无拔节",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

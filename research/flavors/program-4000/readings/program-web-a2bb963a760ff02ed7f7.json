@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a2bb963a760ff02ed7f7",
+  "title": "本周末开启道县追光之旅：演唱会与美景美食共绘浪漫春日_道县_湖南频道_红网",
+  "url": "https://hn.rednet.cn/content/646847/61/13678334.html",
+  "checked": "2026-11-14",
+  "responseSha256": "5f3851717505f11bddb3b56069dec2add95db15a98c7b3bdf815edd186fd41fc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ae6c0f1ab82f5cf07711ee1bc10af2296a94fedab932eb5a7232a49082a9db13",
+    "textLength": 2884,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "道州灰鹅",
+      "province": "hunan",
+      "city": "永州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

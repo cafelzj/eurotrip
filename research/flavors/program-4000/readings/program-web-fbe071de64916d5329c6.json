@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fbe071de64916d5329c6",
+  "title": "舌尖上的周口丨非遗味道火爆“三川十馆·春会”_中国网",
+  "url": "https://food.china.com.cn/2024-02/29/content_117027276.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "0d233e081c5ddd4bd2322753eb433d4655064ae320c7a8d6c4d0db353d7c6a30",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e98c4b73d58a62f4aeba56e03f0d50f1ac6508c5641e16de3113ea702e605254",
+    "textLength": 2989,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鹿邑妈糊",
+      "province": "henan",
+      "city": "周口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

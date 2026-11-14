@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-ab3910488aec9f8b",
+  "title": "地理标志公告 · 2006年第52号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "bdc67d09aa6132965bb5cede83d61f7a575054d0d07ea21a34941f209383fac4",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "bdc67d09aa6132965bb5cede83d61f7a575054d0d07ea21a34941f209383fac4",
+    "textSha256": "c3a4ea642ff97218315bfd3879dbd438ff94482b480510e238d7ba107573e490",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "平谷大桃",
+      "province": "beijing",
+      "city": "北京",
+      "locality": "平谷区",
+      "type": "ingredients",
+      "sectionSha256": "08476c76c19e7c2d57a62fe1a4a4657589a2b0f0bfe22affc3d4bd18d3712235",
+      "headingOffset": 0,
+      "scope": "平谷大桃地理标志产品保护范围以北京市平谷区人民政府《关于划定平谷大桃国家地理标志保护范围的函》(京平政文[2005]65号)提出的范围为准,为北京市平谷区现辖行政区域",
+      "variety": "大久保、庆丰(北京26号)、京艳(北京24号)、燕红(绿化9号)、八月脆(北京33号)、艳丰1号、陆王仙、华玉、大红桃、二十一世纪等10个白桃品种",
+      "sensory": "必须符合本品种的特征。(1)大久保:着红色,单果重≥225克,柔软多汁,肉质密,甜酸适口。(2)庆丰(北京26号):红黄色,单果重≥150克,柔软多汁,味甜。(3)燕红(绿化9号):底色乳白,果面红色,单果重≥250克,肉质致密,汁液多,味甜,有香味。(4)京艳(北京24号):底色黄白,果面红色,单果重≥250克,肉质细而致密,柔软,有香味,味甜。(5)八月脆(北京33号):果面红色,单果重≥300克,肉质细脆,汁液中等,味甜。(6)艳丰1号:底色黄,果面红色,单果重≥250克,肉质致密,脆而多汁,味甜。(7)陆王仙:底色黄,果面红色,单果重≥250克,肉质致密,脆而多汁,味甜。(8)华玉:底色黄白,外观鲜艳,单果重≥250克,肉质硬,细而致密,味甜,有香气。(9)大红桃:底色黄白,外观全红,单果重≥250克,肉质硬而致密,风味甜。(10)二十一世纪:底色乳白,着红色晕,单果重≥225克,肉质致密,汁液多,味甜,有香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

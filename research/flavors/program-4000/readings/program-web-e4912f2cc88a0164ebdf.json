@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e4912f2cc88a0164ebdf",
+  "title": "河北玉田县的特产，玉田粉坨享誉冀东 - 农服务",
+  "url": "https://www.nongfuwu.com/a/21b3c9.html",
+  "checked": "2026-11-14",
+  "responseSha256": "f3a78697dac4e1f42ba306e0bd52ce35e436c67eaf8ed37ae98ec16bb3aae815",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "43cb114bc5b4396f8598cf4776cb22688184f82626ada2c88d23ccda3ca1be93",
+    "textLength": 1972,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "玉田包尖白菜",
+      "province": "hebei",
+      "city": "唐山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

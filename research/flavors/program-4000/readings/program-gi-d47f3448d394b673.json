@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-d47f3448d394b673",
+  "title": "地理标志公告 · 2007年第30号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC30%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c6bf31b9b47497b092977e259a2fec3be61fd49a1bae6f0984a9fdaffe6b5747",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC30%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c6bf31b9b47497b092977e259a2fec3be61fd49a1bae6f0984a9fdaffe6b5747",
+    "textSha256": "f9727d945cc59d7a2011c7cb381ff065451b7ab2645f674c11be42ffa2e53fb9",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "坦洋工夫",
+      "province": "fujian",
+      "city": "宁德",
+      "locality": "福安市",
+      "type": "tea",
+      "sectionSha256": "efa09534c5e5b229477192f1554f961f7939c16e5c88b7e98c863720adcc04ee",
+      "headingOffset": 0,
+      "scope": "坦洋工夫地理标志产品保护范围以福建省福安市人民政府《关于划定坦洋工夫地理标志产品保护范围的意见》(安政文[2006]78号)提出的范围为准,为福建省福安市现辖行政区域",
+      "variety": "",
+      "sensory": "条索圆紧匀直,色泽乌黑油润,汤色红艳呈金黄色,滋味清鲜甜和,叶底红匀光滑,有桂花香的品质特征。外形内质级别条索整碎净度色泽香气滋味汤色叶底鲜美鲜浓红艳芽头肥嫩匀、特级肥嫩紧细、洁净油润、金毫显露浓郁醇厚金圈红艳亮嫩香一级肥嫩紧实多峰苗匀齐洁净乌润鲜浓醇红艳柔嫩多芽红艳亮浓郁肥嫩紧实二级较匀齐较洁净乌润嫩浓鲜醇较浓红尚艳柔嫩有芽红亮尚有锋苗柔嫩红三级肥壮紧细匀整尚净稍有嫩茎乌尚润浓纯醇尚浓红亮尚亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

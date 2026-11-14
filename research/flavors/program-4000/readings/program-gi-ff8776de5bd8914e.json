@@ -1,0 +1,82 @@
+{
+  "id": "program-gi-ff8776de5bd8914e",
+  "title": "地理标志公告 · 2013年第91号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC91%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "66a9103a4d876f8d0b1ecd27a062dbde74eeff752edbcb776031eec0501475fb",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC91%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "66a9103a4d876f8d0b1ecd27a062dbde74eeff752edbcb776031eec0501475fb",
+    "textSha256": "1c776a23ed649ddace0fdc959f6c94effb51ba33cef97bdf08623d6a9abbb961",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "湘珍珠葡萄",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "鹤城区、中方县、芷江侗族自治县、洪江市",
+      "type": "ingredients",
+      "sectionSha256": "93157cbdd61781acbe7f172e0c626dfc4a7b8ddac3428af295a7a6641f36e473",
+      "headingOffset": 1821,
+      "scope": "湘珍珠葡萄产地范围为湖南省怀化市中方县、芷江侗族自治县、鹤城区和洪江市现辖行政区域。",
+      "variety": "",
+      "sensory": "果形圆润,果皮紫黑发亮,酷似黑珍珠。果皮厚而韧,果粉较厚,果皮与果肉易分离,肉质细嫩软滑,多汁多籽,清甜爽口,具有独特的清香",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "常德酱板鸭",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "武陵区、鼎城区、安乡县、澧县、临澧县、桃源县",
+      "type": "dishes",
+      "sectionSha256": "6c0ab168c6e6bac2ca781c4c1e6d20830718e9704c40c8311bf2bea43eff6096",
+      "headingOffset": 2629,
+      "scope": "常德酱板鸭产地范围为湖南省常德市武陵区护城乡、东郊乡、东江乡、河洑镇、丹洲乡、芦荻山乡、南坪岗乡、城东街道、城南街道、城西街道、城北街道、三岔路街道,鼎城区武陵镇,桃源县漳江镇、陬市镇、青林乡、临澧县安福镇、佘市桥镇、望城乡,安乡县深柳镇、黄山头镇、大鲸港镇共22个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)外观:通体红光油亮,色泽呈深红或酱褐色。撑板成型完整,形体扁平柔和,有质感。(2)口感:酱香浓郁,香辣爽口,皮酥肉紧,不腻不腥,极有嚼劲",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "罗代黑猪",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "长沙县",
+      "type": "ingredients",
+      "sectionSha256": "d97b4e30d2d8b2dd5f5120c0f1ae343b166cd59299702ec28804233bf6ba1ce2",
+      "headingOffset": 3639,
+      "scope": "罗代黑猪产地范围为湖南省长沙县双江镇、金井镇、高桥镇、路口镇、春华镇、白沙镇、福临镇、开慧镇、北山镇共9个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)活体猪:全身毛色灰黑色,皮肤粉红色,四肢下端为白色,俗称“乌云盖顶,四蹄踏雪”。头型清秀,蝴蝶耳,头分长头和短头两种,长头型俗称“阉鸡头”,短头型俗称“寿字头”,尾根粗、尾尖稍扁,俗称“泥鳅尾”。(2)猪肉:肉色鲜红,有光泽,大理石纹明显;外表微干或有风干膜,不粘手,富有弹性;煮沸烹饪后肉汤澄清透明,香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "祁东酥脆枣",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "type": "ingredients",
+      "sectionSha256": "32a54c59df1974676f6f555763f685c28905ec270ad51558348c26a9f68d4dbc",
+      "headingOffset": 4686,
+      "scope": "祁东酥脆枣产地范围为湖南省祁东县现辖行政区域。",
+      "variety": "",
+      "sensory": "果实呈椭圆或长椭圆形,果面淡红或黄白色,果面光滑,无锈斑或污点,晶莹剔透",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "大通湖大闸蟹",
+      "province": "hunan",
+      "city": "益阳",
+      "locality": "益阳相关产区",
+      "type": "ingredients",
+      "sectionSha256": "396c752c0f8f493f9d5ca08ab94a8045f4ada23f18f1daaad8bc0a7c462b9f9d",
+      "headingOffset": 5387,
+      "scope": "大通湖大闸蟹产地范围为湖南省益阳市大通湖区河坝镇、北洲子镇、金盆镇、千山红镇、沙堡洲办事处、南湾湖办事处共6个镇、办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "体表光泽、背青腹白、黄毛金爪,活动有力、反应敏捷,口感肉质细嫩、有弹性、香鲜甜美",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-d3d1f70fbecf6342",
+  "title": "地理标志公告 · 2007年第61号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC61%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d930f3ddebd9bb6fc632b8bdb1e5a5b6380413e9bd64a1a19574ea2ddb63a395",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC61%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d930f3ddebd9bb6fc632b8bdb1e5a5b6380413e9bd64a1a19574ea2ddb63a395",
+    "textSha256": "15a8e4388fd8b15510789ea9b314726a53bb1e6784728e8837610c1e1dda82bb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永安莴苣",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "永安市",
+      "type": "ingredients",
+      "sectionSha256": "23e7c4f6f8f4d6eb79cc5ac6436fb4996fa3ab5d1c5437a2a09a84803243cf96",
+      "headingOffset": 0,
+      "scope": "永安莴苣地理标志产品保护范围以福建省永安市人民政府《关于界定永安莴苣地理标志产品保护范围的请示》(永政文[2006]116号)提出的范围为准,为福建省永安市现辖行政区域",
+      "variety": "飞桥莴苣1号",
+      "sensory": "指标:肉质茎呈长棒形、茎表皮绿白色略带淡紫色、茎肉色翠绿、香气味浓、叶紫绿色,表皮无裂痕,无空心,可食率75%以上。茎粗大于4厘米,茎长大于50厘米",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

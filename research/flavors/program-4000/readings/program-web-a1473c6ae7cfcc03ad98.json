@@ -1,0 +1,31 @@
+{
+  "id": "program-web-a1473c6ae7cfcc03ad98",
+  "title": "潍坊学小吃做法去哪？肉火烧朝天锅，学完就是潍坊人的一日三餐",
+  "url": "https://www.zhenxuan168.com/page/articleDe.php?artID=13167",
+  "checked": "2026-11-14",
+  "responseSha256": "0c1e79c6cfef3ba1ef916b8e6d1517909ea5460b1019f554eb110ea77b2e9dfc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2c59e73f454328a043057f4af655f9cfef3538b1a9b98b4af485e50dcefe9d22",
+    "textLength": 6225,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鸡鸭和乐",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "临朐全羊",
+      "province": "shandong",
+      "city": "潍坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

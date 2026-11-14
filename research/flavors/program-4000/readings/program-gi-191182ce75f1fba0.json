@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-191182ce75f1fba0",
+  "title": "地理标志公告 · 2009年第60号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "3ff1575ed50536144b545df698653461c5410a102084202e80cb6d8a6f18cb4f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "3ff1575ed50536144b545df698653461c5410a102084202e80cb6d8a6f18cb4f",
+    "textSha256": "755920974b292166b2bf5d3625fa4e1ed2f188a1dc98a0c9c5e7398ed6785d9d",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "龙池砚",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "将乐县",
+      "type": "crafts",
+      "sectionSha256": "832ad3a7ccbae179152f376119eadcb41ff622f43d891d2424e8ef0a372b4620",
+      "headingOffset": 2625,
+      "scope": "龙池砚地理标志产品保护范围为福建省将乐县现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)外观:色泽以黑润为主,部分灰黑略呈微紫,表面依稀可见银色闪光点;质地细腻、坚实厚重、温润滑爽,轻轻敲击会发出清脆悦耳声音。砚堂手感平滑,无明显的沙划痕,不得有影响使用功能的裂痕。(2)造型和图饰:因材施艺,以雕饰龙图为主。(3)雕刻:以浮雕为主,兼以镂空等技法;雕刻准确、线条流畅;物像清晰、层次分明。(4)品性:莹润发墨,呵之水出,下墨如风,发墨如油(即磨出的墨汁浓、亮、艳,如油泛光)、不耗水、不结冰、不朽(磨出的墨汁防蛀)、护毫",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

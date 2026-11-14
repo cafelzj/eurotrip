@@ -1,0 +1,23 @@
+{
+  "id": "program-web-99f4efbd868f050d02fe",
+  "title": "烟雨潇湘·诗画永州——永州美食之旅_美食特产_永州政府网",
+  "url": "https://www.yzcity.gov.cn/cnyz/mstc/202208/04951140fa534de1973678ed172671ec.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "348d05c1feb537db2c62a4b464f6f548c4a281a8362d25859ada40924f2d0b96",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1a1a02f3a72e1bcb75854180294d2af1038b25b7b9c8edb20a29674e7b42dc8b",
+    "textLength": 2698,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "道州灰鹅",
+      "province": "hunan",
+      "city": "永州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

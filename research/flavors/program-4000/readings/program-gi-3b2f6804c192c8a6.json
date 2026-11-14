@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3b2f6804c192c8a6",
+  "title": "地理标志公告 · 2006年第190号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC190%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "607124252c9c99032bddaeedeadf12d171ced5d9fc44299a8777d1f5c4c912ed",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC190%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "607124252c9c99032bddaeedeadf12d171ced5d9fc44299a8777d1f5c4c912ed",
+    "textSha256": "3a52a4a5a982bcefa02f095d2511515e29229fe0afd66846c5dbab878062e9eb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "宁陵白蜡杆",
+      "province": "henan",
+      "city": "商丘",
+      "locality": "宁陵县",
+      "type": "crafts",
+      "sectionSha256": "6e24a213afd31854d782ff0fe3a872a15679923fb8e06557bbb3973e46f41ce3",
+      "headingOffset": 0,
+      "scope": "宁陵白蜡杆地理标志产品保护范围以河南省宁陵县人民政府《关于界定宁陵白蜡杆地理标志产品保护范围的函》(宁政函[2006]13号)提出的范围为准,为河南省宁陵县柳河、石桥、逻岗、阳驿、城郊、程楼等6个乡镇现辖行政区域",
+      "variety": "",
+      "sensory": "杆皮灰色有绒毛或光滑,杆较直、尖削度小。去皮气干或加工后,杆体色泽白而亮丽、光滑。木材坚韧而富有弹性,结构均匀,纹理致密,强度大,耐磨损,抗腐蚀,耐水湿,纤维长。无明显心材边材,不易劈裂,加工容易,钉着力较好,油漆及胶粘力均好",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

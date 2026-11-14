@@ -1,0 +1,23 @@
+{
+  "id": "program-web-44a51cd1513c532db89c",
+  "title": "江苏·“一湖风韵 生态风光”洪泽湖生态文化行",
+  "url": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/beijing/detail_g7yU_506/3409.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a4f24841be363cf119a3b5ead725c6d7ca9d2ee459d007c75dbf5fb1a4253f56",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1a7160ea7bddd8a721e8de6a1378bf4fb6eb4d8ee0113c806a65012628bb5692",
+    "textLength": 3201,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "泗洪大米",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

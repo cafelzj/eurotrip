@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-746c930abf0b3f32",
+  "title": "地理标志公告 · 2007年第140号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f9509e7cec2b2c330c98af33fcd864a106fcfd9eebed98fdec031414369b42ba",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f9509e7cec2b2c330c98af33fcd864a106fcfd9eebed98fdec031414369b42ba",
+    "textSha256": "fa9dfea44131480826ac04c270b65c4d11efd0c119b399cf0411fd3f9f6886f5",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "利川山药",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "利川市",
+      "type": "ingredients",
+      "sectionSha256": "8f1e586510de7c46cd74bbf8bc590fa0b0a6f4468195c8b941f56556bc6dec7b",
+      "headingOffset": 0,
+      "scope": "利川山药地理标志产品保护范围以湖北省利川市人民政府《关于拟界定利川山药地理标志产品保护地域范围的函》(利政函〔2006〕50号)提出的范围为准,为湖北省利川市团堡镇、柏杨坝镇、建南镇、忠路镇、谋道镇、汪营镇、元堡乡、凉雾乡、文斗乡、沙溪乡、毛坝乡、南坪乡、都亭街道办事处、东城街道办事处等14个乡镇街道办事处现辖行政区域",
+      "variety": "毛藤薯蓣品系当地农家品种,米白色或浅红色山药",
+      "sensory": "根茎质坚实、条形微曲、有弹性、浑身多毛须、表皮米白色或浅红色;长20至40cm,中段直径2至3cm;刨皮或折断断面,肉质凝白色,有乳突壮的黏液浸出",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-76b98038dedb80610266",
+  "title": "湖南有哪些农产品特产（盘点）_武汉生活网",
+  "url": "https://www.wuhan.com/food/86247.html",
+  "checked": "2026-11-14",
+  "responseSha256": "8c1cf7e95fe593dc38f9f76ed374caf3401da5eef68e5cad3465c045205b3bbd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "439dc37dd693a157b723a7be97239332e04be7780c63b93ffd4b67aca8b57a57",
+    "textLength": 1981,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "津市牛肉粉",
+      "province": "hunan",
+      "city": "常德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

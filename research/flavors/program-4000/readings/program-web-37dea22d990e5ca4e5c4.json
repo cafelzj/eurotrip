@@ -1,0 +1,23 @@
+{
+  "id": "program-web-37dea22d990e5ca4e5c4",
+  "title": "〖荆州欢迎你·吃在荆州①〗有一种味道叫荆州",
+  "url": "https://m.thepaper.cn/newsDetail_forward_10460579",
+  "checked": "2026-11-14",
+  "responseSha256": "8721ca92dede7a0f543341214ef83a15977dded168c13448edf9b080506b5f6c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2ef7080e8735bf3161af427382d7712ef7f919344c88b5bd8d5dc1810e2d805f",
+    "textLength": 3149,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "洪湖鸭",
+      "province": "hubei",
+      "city": "荆州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

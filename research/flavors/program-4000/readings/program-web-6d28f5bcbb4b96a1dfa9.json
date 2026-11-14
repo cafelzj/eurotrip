@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6d28f5bcbb4b96a1dfa9",
+  "title": "五一来济宁吃什么？- 济宁本地宝",
+  "url": "https://jining.bendibao.com/tour/2024424/24599.shtm",
+  "checked": "2026-11-14",
+  "responseSha256": "d8209984b33a047846ef2bc437d0aacbdf4f8716a14c3a1561018487aed140f5",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "dcd07d462c30750f50e0f5728b166baacf1b26317a4fd814fe2e6862f116c4eb",
+    "textLength": 9828,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "孔府宴",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

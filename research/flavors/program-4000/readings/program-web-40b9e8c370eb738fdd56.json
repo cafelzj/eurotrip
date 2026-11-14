@@ -1,0 +1,23 @@
+{
+  "id": "program-web-40b9e8c370eb738fdd56",
+  "title": "浙江宣传 | 金华的面",
+  "url": "https://zjnews.zjol.com.cn/zjxc/202501/t20250125_30794274.shtml?mode=m2pc",
+  "checked": "2026-11-14",
+  "responseSha256": "c18dceb2c9ab6abaea1e92443362b0d4be65037290a17e51716f9db0d0bb9bea",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6d295fae098cb8c15f325556940ba44f4464a486dd7dbf0e1f5a33a94eff9cdd",
+    "textLength": 3286,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "兰溪牛肉面",
+      "province": "zhejiang",
+      "city": "金华",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

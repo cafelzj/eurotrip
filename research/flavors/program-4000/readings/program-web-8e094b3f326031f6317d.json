@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8e094b3f326031f6317d",
+  "title": "〖娄底市〗新化农村居民人均收入突破万元大关-湖南省人民政府门户网站",
+  "url": "https://www.hunan.gov.cn/hnyw/szdt/202110/t20211011_20745466.html",
+  "checked": "2026-11-14",
+  "responseSha256": "fa138ad3280ec2ab44229d92edf7e50bcc85e05d66cdffa537fccba0c282f850",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e453b5660a1af3f180a3e3b370d5b2ca94c12aad4c5451c88b8cffa9825502c9",
+    "textLength": 1419,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "白溪豆腐",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

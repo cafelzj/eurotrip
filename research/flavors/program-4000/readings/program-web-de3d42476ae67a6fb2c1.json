@@ -1,0 +1,23 @@
+{
+  "id": "program-web-de3d42476ae67a6fb2c1",
+  "title": "济宁，怎一个运河了得！_山东宣传网",
+  "url": "https://www.sdxc.gov.cn/sy/tp/202302/t20230220_11436362.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "6bc0123ec874c2001aacd2833ad539e950df97f9ff830782514032bfe3661eb8",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d71844c908e7461382de7f516506c9160febe798a2e08a4ef241aa90ceb3947a",
+    "textLength": 3046,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "甏肉干饭",
+      "province": "shandong",
+      "city": "济宁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

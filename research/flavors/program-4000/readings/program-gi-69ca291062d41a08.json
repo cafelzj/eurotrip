@@ -1,0 +1,121 @@
+{
+  "id": "program-gi-69ca291062d41a08",
+  "title": "地理标志公告 · 2015年第74号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "2a9ef9a717a6499ed30aecb541307e08d7c81b24c2cdd4a91047e899a7a72760",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "2a9ef9a717a6499ed30aecb541307e08d7c81b24c2cdd4a91047e899a7a72760",
+    "textSha256": "e4c7762cc24cb576f8291949f101cb5670445d8e30eb8f48c526116d07b9c0aa",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "乐亭甜瓜",
+      "province": "hebei",
+      "city": "唐山",
+      "locality": "乐亭县",
+      "type": "ingredients",
+      "sectionSha256": "47c4b44e2a8a07f6eeac118c792da8000704ed52e330e52dd748b91c828b47da",
+      "headingOffset": 6895,
+      "scope": "乐亭甜瓜产地范围为河北省乐亭县现辖行政区域。",
+      "variety": "",
+      "sensory": "果皮、果肉均为绿色,口感香甜、酥脆、甜而不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "青县羊角脆",
+      "province": "hebei",
+      "city": "沧州",
+      "locality": "青县",
+      "type": "ingredients",
+      "sectionSha256": "941b71485e1c2dd3cd384e060e5442ff4d17ae07d9a408eef22e86ce5044b0f5",
+      "headingOffset": 7526,
+      "scope": "青县羊角脆产地范围为河北省青县现辖行政区域。",
+      "variety": "",
+      "sensory": "果实长锥形,一端大,一端稍细,弯曲似羊角。果皮灰白色,果肉浅绿色,瓜瓤橘黄色。肉质酥脆,入口即化,香甜爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "丛台酒",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "肥乡区",
+      "type": "alcohol",
+      "sectionSha256": "2d64f536cca9c829ef5305358412d18391087bdfb6b0eeb4cf82953d6d1b7149",
+      "headingOffset": 8054,
+      "scope": "丛台酒产地范围为河北省邯郸市邯郸县、肥乡县共2个县现辖行政区域。",
+      "variety": "",
+      "sensory": "无色或微黄,清亮透明,窖香浓郁,醇厚绵甜,酒体丰满,尾净悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "朝阳绿豆",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "朝阳县",
+      "type": "ingredients",
+      "sectionSha256": "d54c8c373cdc5decd1be3b4ed62d487317b85cb3a1cdae168843d33bff0abf76",
+      "headingOffset": 12247,
+      "scope": "朝阳绿豆产地范围为辽宁省朝阳县现辖行政区域。",
+      "variety": "",
+      "sensory": "绿豆粒大、均匀,颗粒饱满,豆色浓绿、色泽明亮、无杂色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "朝阳小米",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "朝阳县",
+      "type": "ingredients",
+      "sectionSha256": "9265b142008064f7e80c8ec86e30fc3bc1b33cf5c520a3e0115b68e09d715e4f",
+      "headingOffset": 13333,
+      "scope": "朝阳小米产地范围为辽宁省朝阳县现辖行政区域。",
+      "variety": "",
+      "sensory": "米色金黄,米粒小、均匀、且饱满,表面有光泽,无明显感官色差,煮熟的小米饭入口柔软,饭香浓郁,易于蒸煮,凉饭不回生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "三十家子鳞棒葱",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "凌源市",
+      "type": "ingredients",
+      "sectionSha256": "bde356baface0c51a8f453590b5670286f4200afaa74636f6102d4e35737c8ba",
+      "headingOffset": 14002,
+      "scope": "三十家子鳞棒葱产地范围为辽宁省凌源市三十家子镇现辖行政区域。",
+      "variety": "",
+      "sensory": "葱白致密紧实,质地脆嫩,辛辣味淡,纵切易散",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "单县羊肉汤",
+      "province": "shandong",
+      "city": "菏泽",
+      "locality": "单县",
+      "type": "ingredients",
+      "sectionSha256": "24adb7487ba2208e48bb442a9949a27b50dddb1d515fec71fe65f02e3d98513a",
+      "headingOffset": 14629,
+      "scope": "单县羊肉汤产地范围为山东省单县现辖行政区域。",
+      "variety": "",
+      "sensory": "乳白色,有光泽,鲜洁爽口、不腥不膻、不粘不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "槐山羊肉",
+      "province": "henan",
+      "city": "周口",
+      "locality": "淮阳区、沈丘县、郸城县、项城市",
+      "type": "ingredients",
+      "sectionSha256": "4bb213b64cad074b765038b07859fc02dd1613cfc0d3da7ba2d369fa0adcbd2a",
+      "headingOffset": 16998,
+      "scope": "槐山羊肉产地范围为河南省周口市沈丘县,项城市郑郭镇、王明口镇、官会镇、付集镇、千佛阁办事处、花园办事处、秣陵镇、三店乡、高寺镇、丁集镇、南顿镇、永丰镇、范集镇,淮阳县新站镇、豆门乡、鲁台镇、朱集乡、冯塘乡、徐湾乡、王店乡,郸城县钱店镇、东风乡、巴集乡、石槽镇、宜路乡现辖行政区域。",
+      "variety": "",
+      "sensory": "项目鲜羊肉冻羊肉肌肉有光泽,色鲜红或深红,脂肪色泽肌肉色鲜艳,有光泽,脂肪乳白色乳白或淡黄色黏度外表微干,或有风干膜,不粘手外表微干或有风干膜,或湿润,不粘手弹性指压后的凹陷立即恢复肌肉结构紧密,有坚实感,肌纤维韧性强气味具有鲜羊肉的正常气味具有羊肉的正常气味透明澄清,脂肪团聚于表面,具特透明澄清,脂肪团聚于表面,具有羊肉汤固有肉汤状态有香味香味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

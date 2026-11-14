@@ -1,0 +1,63 @@
+{
+  "id": "program-web-f1e87482bf47fa64f3a4",
+  "title": "中国之窗｜浙江——诗画江南 | 号角新闻网",
+  "url": "https://www.uni.org.cn/tanyuan/2023/01/29/2116.html",
+  "checked": "2026-11-14",
+  "responseSha256": "04e121958bbf5d68cbe09e93d1c660e204323670219bab412fc3f2476de43449",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2e5ce839cdacc5a2f7f015931879572fd918a9268d9a9d815e2bf835c4bd81b6",
+    "textLength": 25101,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "富春江鲥鱼",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "东坞山豆腐皮",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "红膏炝蟹",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "奉化芋艿头",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "荷叶粉蒸肉",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "杭白菊",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5c345b63e68b588ab14f",
+  "title": "泰兴",
+  "url": "https://jsj.taizhou.gov.cn/tstyxc/tsdtwllx/art/2023/art_cb3eb8376e424934861d1342e82b19c6.html",
+  "checked": "2026-11-14",
+  "responseSha256": "64952d11ae6216372a33feb1d2c2acd3133c8305b1d7d4f3f1540923151610b4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6756a1b03ac80aa643040c15f7031fcba578ff043a90cec02816ff7fa685f75a",
+    "textLength": 2034,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蟹黄汤包",
+      "province": "jiangsu",
+      "city": "泰州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

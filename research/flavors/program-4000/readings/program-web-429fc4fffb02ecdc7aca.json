@@ -1,0 +1,55 @@
+{
+  "id": "program-web-429fc4fffb02ecdc7aca",
+  "title": "中国之窗｜浙江——诗画江南 | 中国之窗",
+  "url": "https://www.huamei.org.cn/zhejiang/2023/01/29/2116.html",
+  "checked": "2026-11-14",
+  "responseSha256": "201de04d0170cdef569e0caf9977fc599b789478e91e472e504898307e15f73d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "babd9b2990c7c9316f8040ad9caed5e137a6696b03e174706c1fd09546cc7903",
+    "textLength": 25586,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "富春江鲥鱼",
+      "province": "zhejiang",
+      "city": "杭州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "红膏炝蟹",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "奉化芋艿头",
+      "province": "zhejiang",
+      "city": "宁波",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "荷叶粉蒸肉",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "杭白菊",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

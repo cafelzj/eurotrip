@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fdac33590cbb20b0e77f",
+  "title": "娄底对味“招牌牛肚王”一年卖出10万份 - 湖南省文化和旅游厅",
+  "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202312/t20231213_32482402.html",
+  "checked": "2026-11-14",
+  "responseSha256": "31f7f03074289a29e6dbd62a026676c00ad1ff8fe843ccb76cd5c8217b289034",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "365d75b4dfd14474cf4abd110bdd00a13aa6f89246a2096ad28e00e513ed3cf7",
+    "textLength": 1946,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "三合汤",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

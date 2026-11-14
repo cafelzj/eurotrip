@@ -1,0 +1,23 @@
+{
+  "id": "program-web-2d2c686cc4ef5fb30f98",
+  "title": "三明市地标美食榜 - 我吃鸭",
+  "url": "https://www.wochiya.com/fujian/sanming.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b48191420d0b36a7f9b2d4aa852a11d8d76f2298991da9668ca2e4300aeb2cfc",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bed4ef6a3c2f88bf4704b155dac3fbd87f84568ad84e0035d772a66e3849ba34",
+    "textLength": 1388,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "永安粿条",
+      "province": "fujian",
+      "city": "三明",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

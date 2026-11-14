@@ -1,0 +1,31 @@
+{
+  "id": "program-web-7606e6b68ed87be8867c",
+  "title": "在菏泽，放不下的，只有筷子！_山东各地 _山东新闻_新闻_齐鲁网",
+  "url": "https://news.iqilu.com/shandong/shandonggedi/20231031/5539204.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "22f8872155eccb656a7b645e453680f4d7d83cb4609b20489baf920dc7e297c7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4ace79136e5f28ee4f8822f9ed9e1918e6f9d2bdf0700a00b42fa28c6d2801e1",
+    "textLength": 5127,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "曹州烧饼",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "谢集罐子汤",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5290aa11daaeb669ca37",
+  "title": "衢州江山：谜一样的廿八都展现多样之美",
+  "url": "https://town.zjol.com.cn/czjsb/202304/t20230421_25659990.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "cd354b900e1af1f47d30aca0f5e6fd9b4fc6715cb2e8e7ca93d4d0e4a05a270c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c0e9c017431c95942d90d9d5373e36c2bd79e54a05fa8cb3ceaa23ea81863e99",
+    "textLength": 1485,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "江山蜂蜜",
+      "province": "zhejiang",
+      "city": "衢州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

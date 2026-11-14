@@ -1,0 +1,31 @@
+{
+  "id": "program-web-1452f0d285ffdb9a7309",
+  "title": "首批“江苏味道”出炉 泰州9道菜点入选_中国江苏网",
+  "url": "https://jsnews.jschina.com.cn/tz/a/202105/t20210510_2778051.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "364cdb6643e147b6a3a43ce4635c319ee56f353660067995f955a344a52d9131",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0d7053f95ebc295a6f68b0ac0d883d6980ce1578d8fbf1de3be50ee31cedb1d1",
+    "textLength": 1339,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蟹黄汤包",
+      "province": "jiangsu",
+      "city": "泰州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "老汁鸡",
+      "province": "jiangsu",
+      "city": "泰州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

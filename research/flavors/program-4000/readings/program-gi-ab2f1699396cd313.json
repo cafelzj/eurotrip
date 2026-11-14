@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-ab2f1699396cd313",
+  "title": "地理标志公告 · 2021年第452号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC452%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0a6bf74398d313f8a6ec530f07e9f2bc39e1fededf3e0c66032da2cfc6ae99ea",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC452%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0a6bf74398d313f8a6ec530f07e9f2bc39e1fededf3e0c66032da2cfc6ae99ea",
+    "textSha256": "8fe1022be0f0484048dd66b6cb72f3ea098eb306b9ef6e213ad121ccdb29e4de",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "阜平大枣",
+      "province": "hebei",
+      "city": "保定",
+      "locality": "阜平县",
+      "type": "ingredients",
+      "sectionSha256": "e4451f7e2250f85a2fdc2b6a921b96e6a3dd1e048333322f00b4365c94414a74",
+      "headingOffset": 427,
+      "scope": "河北省保定市阜平县阜平镇、平阳镇、城南庄镇、王林口镇、台峪乡、北果元乡、大台乡、史家寨乡共8个乡、镇现辖行政区域",
+      "variety": "婆枣",
+      "sensory": "长圆形或卵圆形,干制红枣果皮深红色,果面皱纹少、有光泽,个大肉厚皮薄核小,果肉细腻糯性强,芳香味浓,甜酸适口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "怀仁陶瓷",
+      "province": "shanxi",
+      "city": "朔州",
+      "locality": "怀仁市",
+      "type": "crafts",
+      "sectionSha256": "38fa5befb41a1ec9b1dc6ad1e4dc02c6d1ceabfb18f41278db082f05aa96eb74",
+      "headingOffset": 1577,
+      "scope": "山西省朔州市怀仁市吴家窑镇、新家园镇、金沙滩镇、海北头乡、云中镇共5个乡、镇现辖行政区域",
+      "variety": "",
+      "sensory": "(1)白瓷:白净光滑,瓷质细腻,温润柔和,釉面光亮平整、亮度好、透光性强。(2)色釉瓷:色彩斑斓,颜色均匀,底沿光滑",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "鹤岗白酒",
+      "province": "heilongjiang",
+      "city": "鹤岗",
+      "locality": "鹤岗相关产区",
+      "type": "alcohol",
+      "sectionSha256": "8723567e0b03d4ec0d65fce22f3335dd2fabf6fa75710a3c260352b08e8d7bd4",
+      "headingOffset": 2723,
+      "scope": "黑龙江省鹤岗市现辖行政区域(不含农垦总局、森工总局部分区域)",
+      "variety": "要求1.高粱。产地范围内的高粱,应符合国家高粱相关标准规定。2.玉米、小麦、大米。产地范围内的玉米、小麦、大米,应符合国家相关标准规定。3.水。产地范围内无污染的深井水,应符合国家生活饮用水相关标准规定",
+      "sensory": "酒体微黄,清澈透明,酱香略带焦香,香气突出,空杯留香较长,酒体醇厚,丰满,入口醇和,回味悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

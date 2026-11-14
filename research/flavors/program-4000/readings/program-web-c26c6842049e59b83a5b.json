@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c26c6842049e59b83a5b",
+  "title": "娄底|〖文化中国行〗“循廉记”：烟火氤氲 廉味至浓 - 湖南省文化和旅游厅",
+  "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202512/t20251229_33881756.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7ccbb3dfcab79b69b815a3e441df46f0cc317c8a0d85b9db00a6fb414fd8c56b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c2677f812eedda4ba41f789b63a684113a9ee4f268a8e44e01b0e621db0818f1",
+    "textLength": 2871,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "三合汤",
+      "province": "hunan",
+      "city": "娄底",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

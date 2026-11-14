@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fc65f231ea49e9b580b3",
+  "title": "食在淮安专题",
+  "url": "https://www.huaian.gov.cn/col/18094_788576/art/17722944/1774601117584mF542B6O.html",
+  "checked": "2026-11-14",
+  "responseSha256": "d0c5295fe4dae20f1310db77980a39458a08d2f22f1f743bc81b11b16ab3129d",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "47ff4cf9e719cd69cf81d82fb09b136783e3c8e4c1cc3ed9ad7b21cf8ba18e54",
+    "textLength": 908,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "平桥豆腐",
+      "province": "jiangsu",
+      "city": "淮安",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

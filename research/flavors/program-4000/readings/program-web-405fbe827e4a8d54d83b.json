@@ -1,0 +1,23 @@
+{
+  "id": "program-web-405fbe827e4a8d54d83b",
+  "title": "浙江省绍兴市市场监督管理局食品安全监督抽检信息公告（2024年第8期）_手机新浪网",
+  "url": "https://finance.sina.cn/2024-09-09/detail-incnptzr3153552.d.html",
+  "checked": "2026-11-14",
+  "responseSha256": "318ba19a5c2a5192975bbb61a867f81d0409782ee2392963dbfed36f58d1b66e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0efc4c678e173085a7ce4c60e1cd0f121676499a419e481093501a2373c33e5a",
+    "textLength": 14686,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "香雪酒",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

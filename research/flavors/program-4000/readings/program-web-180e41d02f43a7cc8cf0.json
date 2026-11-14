@@ -1,0 +1,23 @@
+{
+  "id": "program-web-180e41d02f43a7cc8cf0",
+  "title": "关于“荆楚优品”目录的公示--湖北省商务厅",
+  "url": "https://swt.hubei.gov.cn/stdt/tzgg/201910/t20191025_4843.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "165f37c6ba7b7d1e5b34dbe34a72529dcd92b27480c5a8740e59beed64279bc2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c078ec9e19d0090855d7790faece1e66d0790dc1b3faeb9e5044ea39d08d536a",
+    "textLength": 5409,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "宜昌红茶",
+      "province": "hubei",
+      "city": "宜昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-96778b946d0347b7650b",
+  "title": "品味 · 八一七 ｜福州邀您好吃好玩享福味！_福州要闻_新闻频道_福州新闻网",
+  "url": "https://news.fznews.com.cn/fzxw/20220822/7y35076ouh.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "be48903fd8e89de9c88821faaaa3cd1eeb5152780a06d3bbacbedf557496bf19",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c4616f6878122a9f88076c2c55642b5449765dcf90c44b122f829e268e6cb736",
+    "textLength": 3480,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "千页糕",
+      "province": "fujian",
+      "city": "福州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

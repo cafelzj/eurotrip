@@ -1,0 +1,23 @@
+{
+  "id": "program-web-86106b3cab6595ba78e9",
+  "title": "南安“成功家宴”：成功故里品成功_一县一桌菜_泉州申报联合国教科文组织创意城市网络世界美食之都官方网站",
+  "url": "https://quanzhou.gov.cn/gastronomy/ch/sqsm/yxyzc/202411/t20241121_3107408.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "cfd5619c5cd887563353415d2ba9ad7afe44f78aec16af4cf92affd2c1f7c8f1",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "bd63fbb826addc0c5b9e056729d69a12feb711cad42a8e6ce3154300a49d5f42",
+    "textLength": 4693,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "洪濑鸡爪",
+      "province": "fujian",
+      "city": "泉州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

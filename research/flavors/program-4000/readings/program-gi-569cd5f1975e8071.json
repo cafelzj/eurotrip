@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-569cd5f1975e8071",
+  "title": "地理标志公告 · 2010年第138号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0d8f2aa5d18f8baa11907549dc82db0d348370d85b6e0017cce5de847e28e5da",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0d8f2aa5d18f8baa11907549dc82db0d348370d85b6e0017cce5de847e28e5da",
+    "textSha256": "53f66eaaf6d162d30e6f6d66b67d584d23c9be5cc99b6d1f5fc4274d9c3702db",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "武陟大米",
+      "province": "henan",
+      "city": "焦作",
+      "locality": "武陟县",
+      "type": "ingredients",
+      "sectionSha256": "738f0dd8d9ded6c13248dd125476b2472fcac7a696c4dda559f9d7ef197dca41",
+      "headingOffset": 4073,
+      "scope": "",
+      "variety": "选用新丰2号、水晶3号等中晚熟优质粳米品种",
+      "sensory": "米粒圆润,晶莹透亮,油润香口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

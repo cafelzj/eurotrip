@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d525da9e2fa59d41d0f3",
+  "title": "卢氏县",
+  "url": "https://zh.wikipedia.org/wiki/%E5%8D%A2%E6%B0%8F%E5%8E%BF",
+  "checked": "2026-11-14",
+  "responseSha256": "90af8255ab9ff963f0f68347376a96e8e2fba6a9f314ac9dab9efac4456a581b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4b73b23cf4f76f301134ae176de82520f0dae8c798b706843bd547cf54280301",
+    "textLength": 22279,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "卢氏黑木耳",
+      "province": "henan",
+      "city": "三门峡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

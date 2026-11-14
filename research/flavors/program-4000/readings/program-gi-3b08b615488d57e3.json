@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3b08b615488d57e3",
+  "title": "地理标志公告 · 2012年第222号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC222%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f5313c138267f79f4c5e8e32ac9eb80247de9f24ca1a51b6ffc5b41f913cf784",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC222%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f5313c138267f79f4c5e8e32ac9eb80247de9f24ca1a51b6ffc5b41f913cf784",
+    "textSha256": "68f7202165789f2db01ac66e3dfd62b7bc878b8f2e7cbbc4d6141b0e38402d47",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "凌塔白酒",
+      "province": "liaoning",
+      "city": "朝阳",
+      "locality": "朝阳县",
+      "type": "alcohol",
+      "sectionSha256": "71f2876e0c993f33765ecc7c26e745dd4f89ad8c5b44d2ad797b0f05ea08778c",
+      "headingOffset": 1765,
+      "scope": "凌塔白酒产地范围为辽宁省朝阳县柳城镇现辖行政区域。",
+      "variety": "",
+      "sensory": "项目指标色泽及外观无色(或微黄)清亮透明、无悬浮物,无沉淀香气具有乙酸乙酯和乳酸乙酯为主体的复合香气,清香略带陈香口味酒体丰满、柔和,绵甜醇厚,余味悠长有陈味风格具有本品特有的陈香风格注:当温度低于10°C时,允许有白色絮状沉淀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

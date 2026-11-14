@@ -1,0 +1,31 @@
+{
+  "id": "program-web-2026b1230ed26184c678",
+  "title": "〖湖南美食攻略〗十大湘菜 名小吃 特产 美食街 老字号餐馆等一览→榜中榜知识",
+  "url": "https://m.maigoo.com/goomai/188976.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4ff7e7453ea29cc68b5ce25402e27d2e6cc0bacf4571774b1fe82df0a038a4e7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "781ecbafa13468c7d624275b086826774bd32e6d773773b5c5c75162a97b3834",
+    "textLength": 4491,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "浏阳茴饼",
+      "province": "hunan",
+      "city": "长沙",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "灯芯糕",
+      "province": "hunan",
+      "city": "湘潭",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

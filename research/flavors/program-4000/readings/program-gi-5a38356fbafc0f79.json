@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-5a38356fbafc0f79",
+  "title": "地理标志公告 · 2008年第122号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "8825741e4381ccf82eee4d623ad9a15662960d9875e7d0bbf3c31f609ce6634e",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "8825741e4381ccf82eee4d623ad9a15662960d9875e7d0bbf3c31f609ce6634e",
+    "textSha256": "bba61c742444a137c143466cf0fdaf84d3c3f04e0c0b1150ced8a1aa2258dc76",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "容城绿芦笋",
+      "province": "hebei",
+      "city": "保定",
+      "locality": "容城县",
+      "type": "ingredients",
+      "sectionSha256": "8b0b8f5e1a7a3b2412b4f24206b74be4e44ded8fe61057acdcda4c8a60278157",
+      "headingOffset": 1740,
+      "scope": "容城绿芦笋地理标志产品保护范围以河北省容城县人民政府《关于将容城绿芦笋划定为地理标志保护产品的请示》(〔2007〕8号)提出的范围为准,为河北省容城县现辖行政区域。",
+      "variety": "阿波罗、冠军等一代杂交品种",
+      "sensory": "基部直径≥0.8cm,长度20cm至30cm,笋条顺直,色泽翠绿,肉质细腻,不散头、无白根",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

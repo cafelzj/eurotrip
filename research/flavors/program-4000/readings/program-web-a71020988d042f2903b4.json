@@ -1,0 +1,23 @@
+{
+  "id": "program-web-a71020988d042f2903b4",
+  "title": "常德“十大名菜”出炉_常德_湖南频道_红网",
+  "url": "https://hn.rednet.cn/c/2018/04/04/860157.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "98128ac663bd6076247d11ab21afd28cf449efd8049caca1f530f866ad79f581",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "116024d937cfd8f894b5a4f80807736bc5fdcc08056689e1e053f998723a5ae5",
+    "textLength": 1125,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "玉臂藕",
+      "province": "hunan",
+      "city": "常德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

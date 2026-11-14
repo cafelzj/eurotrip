@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-4f6af4de24330905",
+  "title": "地理标志公告 · 2009年第108号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "cf03c93a25db24206ba1cd2bcb9ad09fa378facde78e65527bd5f6ebae5a264e",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "cf03c93a25db24206ba1cd2bcb9ad09fa378facde78e65527bd5f6ebae5a264e",
+    "textSha256": "9c0b5a1bf9f728c491773eb74b0a2b2190092fff857b47f83b7de43f464248bb",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "永年大蒜",
+      "province": "hebei",
+      "city": "邯郸",
+      "locality": "永年区",
+      "type": "ingredients",
+      "sectionSha256": "94191850ba310f2f99ca08f409f85cf419d99da5029a42e7b0e24d15a2076733",
+      "headingOffset": 1582,
+      "scope": "永年大蒜地理标志产品保护范围为河北省永年县现辖行政区域。",
+      "variety": "地方白皮蒜",
+      "sensory": "蒜头直径4cm至6cm、4至6瓣、蒜瓣大小均匀,蒜衣与蒜瓣紧密结合不易失水,耐储存。蒜瓣皮薄、肉嫩、汁多,辛香味浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "盘锦河豚",
+      "province": "liaoning",
+      "city": "盘锦",
+      "locality": "盘锦相关产区",
+      "type": "ingredients",
+      "sectionSha256": "479f8672ece0c8b9a105fe76aaeefec2c2b11ab075f59fa6fcf348189c2eb73a",
+      "headingOffset": 2204,
+      "scope": "盘锦河豚地理标志产品保护范围为辽宁省盘锦市现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)肉质:肉质洁白,口感细腻,味道极鲜。(2)鱼体:体背部为青黑色并常带有黑白花点,腹部为白色,胸上方有一对对称的圆圈状“大圆斑”,臀鳍为白色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "莱阳梨",
+      "province": "shandong",
+      "city": "烟台",
+      "locality": "莱阳市",
+      "type": "ingredients",
+      "sectionSha256": "9af3130ed7ed9afc8228ce0260d85aa3272250f8e17f233bb3e576c6dd421d7e",
+      "headingOffset": 4149,
+      "scope": "莱阳梨地理标志产品保护范围为山东省莱阳市现辖行政区域。",
+      "variety": "茌(慈)梨",
+      "sensory": "(1)果皮色泽:绿色至黄绿色。(2)果实外形:果呈倒卵形,萼洼深陷有锈斑,果点大而密,果梗周围或一侧凸起,果梗稍斜或直。(3)口感:肉质细嫩致密,石细胞少,汁多可口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

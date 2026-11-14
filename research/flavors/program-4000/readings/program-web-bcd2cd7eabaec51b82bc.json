@@ -1,0 +1,23 @@
+{
+  "id": "program-web-bcd2cd7eabaec51b82bc",
+  "title": "金华特色美食小吃_金华火腿酥饼鸡子馃吃法_九县市美食地图",
+  "url": "https://www.juour.cn/zj/0579jhwl/meishi.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c9ef48210cb83e1d9ca47f0bc997448577987e164a73a12affc741178df1dd57",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d2866c06aab925b7834f3652ea4dd6c317db1a46866e5596429e4ab091e30895",
+    "textLength": 11657,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "兰溪牛肉面",
+      "province": "zhejiang",
+      "city": "金华",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-5d55804a1c19fbbaf378",
+  "title": "社会眼｜烟火气升腾 消费潮涌动",
+  "url": "https://www.hljnews.cn/ljxw/content/2026-05/05/content_891028.html",
+  "checked": "2026-11-14",
+  "responseSha256": "76e288ced65cfc9e9ab291f75fa0a43e508359d5032daf33c34b207688efb743",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "00f109a4d1134e3f0e922558c7f60f5d2c00e81fa0fc092bc0eacd230e3321c0",
+    "textLength": 3591,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "老鼎丰糕点",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

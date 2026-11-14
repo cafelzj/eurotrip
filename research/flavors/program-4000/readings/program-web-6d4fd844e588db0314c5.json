@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6d4fd844e588db0314c5",
+  "title": "张家口十大小吃 张家口有什么小吃 张家口特色小吃排行→买购APP",
+  "url": "https://www.maigoo.com/top/405832.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b7dd606ed5e93377b9eff5f79b11f03c9ad66b76ce90aacf0cd6d4de8fa7bc8f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "0bed847704d2654ffaf9109e655442d51fc32aba2f104d8fa102edf92532e716",
+    "textLength": 6663,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "阳原圪渣饼",
+      "province": "hebei",
+      "city": "张家口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

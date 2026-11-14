@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-45302d4569ce99ec",
+  "title": "地理标志公告 · 2011年第93号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC93%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "68f535719c6e6ced82061f6e7dc00078847e2f93922216fd59df69c710619dd6",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC93%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "68f535719c6e6ced82061f6e7dc00078847e2f93922216fd59df69c710619dd6",
+    "textSha256": "587fc300df5bb4cf075f2d119fa36585f04fe6532b073b1fd78e9ecde41f1c10",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "羊楼洞砖茶(洞茶)",
+      "province": "hubei",
+      "city": "咸宁",
+      "locality": "赤壁市",
+      "type": "tea",
+      "sectionSha256": "e4b731cee678d87d5f1aa13500b24f8bd9846453bfd3634e7e5aaf745a3c6346",
+      "headingOffset": 1632,
+      "scope": "羊楼洞砖茶(洞茶)产地范围为湖北省赤壁市赵李桥镇、新店镇、茶庵岭镇、神山镇、余家桥乡5个乡镇现辖行政区域。",
+      "variety": "鄂南群体品种及适宜制作砖茶的其它优良茶树品种",
+      "sensory": "(1)青砖:砖面光滑,棱角整齐,紧结平整,无斧头(一头厚一头薄),无刀口(一边厚一边薄),无畸形,无松泡,密度≥1.01g/cm3。色泽青褐、压印纹理清晰,砖内无黑霉、白霉、青霉等霉菌。内质香气纯正、且有明显陈香气,并含有发酵菌香,楠竹香与木质香等复合气味感觉。汤色橙红、叶底暗褐。(2)米砖:砖面平整、棱角分明、厚薄一致、图案清晰,砖内无黑霉、白霉、青霉等霉菌。特级米砖茶乌黑油润,香气纯正、滋味浓醇、汤色深红、叶底红匀。普通米砖茶黑褐稍泛黄,香气平正、滋味尚浓醇、汤色深红、叶底红暗",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

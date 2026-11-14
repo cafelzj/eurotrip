@@ -1,0 +1,23 @@
+{
+  "id": "program-web-f77bd1d757bceba4cc81",
+  "title": "盘点郑州各县市的特色美食",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_FOOD&cpid=666&ctype=news&docid=10512660a64c50becf064527de3f2f44c4aaea9&dy_scenario=relate&r=CN&tn=7df9c854af35de3ccf807794be431895b1fa3013c9812d66c91adbe148e8f253&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "80d217fa77a9a4d5c9bc5726ba66d64f06302db8d7bf13f0334c5dd2809d5455",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8b660d3614464e86cc2c52a85689a9e3986fd8765bed2f1cc9e0b2ea12e354af",
+    "textLength": 648,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "新密炒虾尾",
+      "province": "henan",
+      "city": "郑州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

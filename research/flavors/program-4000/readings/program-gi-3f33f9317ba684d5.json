@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-3f33f9317ba684d5",
+  "title": "地理标志公告 · 2006年第65号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC65%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e13c2f8d2076aec36a3532d9d85ccf1fabeab0d5d23acde84af2915615937c86",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC65%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e13c2f8d2076aec36a3532d9d85ccf1fabeab0d5d23acde84af2915615937c86",
+    "textSha256": "85a9387ce8cb0607d8b356336c08002455e9e8743f0dd88d5d0d0cb976edc2c7",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "五营红松籽",
+      "province": "heilongjiang",
+      "city": "伊春",
+      "locality": "伊春相关产区",
+      "type": "ingredients",
+      "sectionSha256": "7dfb1aa7cc2bf13f905607759bc8d6f2176c58405506a32fadf95007572748f3",
+      "headingOffset": 0,
+      "scope": "五营红松籽地理标志产品保护范围以黑龙江省伊春市五营区人民政府《关于确定五营红松籽地理标志产品保护范围的函》(五政办发[2005]30号)提出的范围为准,为黑龙江省伊春市五营区现辖行政区域",
+      "variety": "",
+      "sensory": "红松籽的形状为三角锥行,棱角明显,顶端锐角较小,尖锐比其他地区的明显。颗粒较大,果皮较厚,千粒重在400克以上。含籽率75%以上。果实呈红褐色、果仁呈乳白色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

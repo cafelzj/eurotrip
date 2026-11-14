@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-50def1e7f7ba3835",
+  "title": "地理标志公告 · 2008年第26号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC26%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f682ac25ce9d084859bd5e22898ce818ed5d972a6bcdc22d0cea3900f576c819",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC26%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "f682ac25ce9d084859bd5e22898ce818ed5d972a6bcdc22d0cea3900f576c819",
+    "textSha256": "4935f4f855caff9aaa2541880093367623897c58684b39801bd56a8d0f7ed9b2",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "松阳茶",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "松阳县",
+      "type": "tea",
+      "sectionSha256": "d60759f2d989af9d57b5f9b33a66d62770842ec04ee4db7252782a64b86b503a",
+      "headingOffset": 0,
+      "scope": "松阳茶地理标志产品保护范围以浙江省松阳县人民政府《关于要求划定松阳茶地理标志产品保护范围的请示》(松政〔2006〕45号)提出的范围为准,为浙江省松阳县现辖行政区域",
+      "variety": "适制松阳茶的品种:迎霜、嘉茗1号、龙井43、白叶1号、银猴等无性系品种和内质好的鸠坑有性种。其中适制松阳银猴品种为银猴",
+      "sensory": "松阳茶外形条索紧结绿润,汤色清澈绿亮,香气香高持久,滋味鲜浓,叶底嫩绿明亮。其中松阳银猴外形条索紧实翠润、白毫显露,汤色嫩绿清澈明亮,香气栗香持久,滋味鲜醇甘爽,叶底肥嫩明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

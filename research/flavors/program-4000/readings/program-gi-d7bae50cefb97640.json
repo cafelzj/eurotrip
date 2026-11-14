@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-d7bae50cefb97640",
+  "title": "地理标志公告 · 2012年第135号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC135%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "82b0989d42d5b42573630008a2995ce846b7f59d5cc7038f564666edfce34dd0",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC135%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "82b0989d42d5b42573630008a2995ce846b7f59d5cc7038f564666edfce34dd0",
+    "textSha256": "564af0e36b759ab8a0a15834da04cdf7c371db746bea657327e56cc20e1319a5",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "清流黄羊",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "清流县",
+      "type": "ingredients",
+      "sectionSha256": "d0a2af092f5a931b7506a3d64408a16d8b434e87051a7c225993ae5ecfb4263e",
+      "headingOffset": 1786,
+      "scope": "清流黄羊产地范围为福建省清流县现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)活体羊:被毛以棕黄色为主,头部有部份黑色、褐色,富有光泽,自颈部至尻部沿背脊有一条黑色毛带,耳大长,下垂,胸部深广、肋骨开张,背腰平直,结构匀称,四肢发达,蹄质坚硬。出栏体重为25至35千克。(2)羊肉:肌肉呈红色有光泽,肉质细嫩、脂肪少而分布均匀,纹理清晰,膻味轻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "铜官陶瓷",
+      "province": "hunan",
+      "city": "长沙",
+      "locality": "望城区",
+      "type": "crafts",
+      "sectionSha256": "e1e09626e611356e4c210a9f5f798fa1601f04b42af462771f4e37693549c92b",
+      "headingOffset": 2736,
+      "scope": "铜官陶瓷产地范围为湖南省望城县铜官镇高岭社区、铜官街社区、誓港社区、袁嘉湖社区、洪家洲社区、万星村、花实村、华城村、太丰村、郭亮村10个自然村和社区现辖行政区域。",
+      "variety": "",
+      "sensory": "(1)日用陶瓷:胎质成米黄色,质硬、致密,能抵御外力冲击不易破碎,因使用钙质釉而釉面光亮,同时,在同一产品上可同时采用釉下彩和复色彩装饰,色彩丰富,另外,其产品外形有规则型,也有异形型。(2)工艺陶瓷:胎质一般呈黄浅红色或浅青色,较致密,其装饰因在同一件产品上同时采用2至3种色釉覆盖胎体,釉面光亮并呈自然流感状(俗称花釉)",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "玲珑茶",
+      "province": "hunan",
+      "city": "郴州",
+      "locality": "桂东县",
+      "type": "tea",
+      "sectionSha256": "53eaf6bf5a5b1a11e1748bc186f7b127de76fb784c50de261cb0acedc3598042",
+      "headingOffset": 4550,
+      "scope": "玲珑茶产地范围为湖南省桂东县的沙田镇、城关镇、清泉镇、桥头乡、寒口乡、黄洞乡、贝溪乡、增口乡、寨前乡、大塘乡、新坊乡、普乐乡、东洛乡、大水乡、青山乡、四都乡16个乡镇及八面山自然保护区现辖行政区域。",
+      "variety": "",
+      "sensory": "外形紧曲,状若环钩,翠绿显毫,滋味醇爽回甘,嫩香持久,汤色清绿明亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

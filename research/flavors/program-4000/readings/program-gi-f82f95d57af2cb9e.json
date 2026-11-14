@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-f82f95d57af2cb9e",
+  "title": "地理标志公告 · 2011年第22号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC22%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "5dc55a04ca54ef79d1851c9290d5d5012fcc5616cbc90f975c39050835c51b65",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC22%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "5dc55a04ca54ef79d1851c9290d5d5012fcc5616cbc90f975c39050835c51b65",
+    "textSha256": "ca618c4a1eee28b2e8353615073d6d77241f0c4dfbc99c9849e1e670a011812b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "松花石",
+      "province": "jilin",
+      "city": "白山",
+      "locality": "浑江区、江源区、靖宇县、临江市",
+      "type": "crafts",
+      "sectionSha256": "518cb7adaa278df3c55d45b93af2df382b4b55b7654b8eba8ac689a8cfa4fc9b",
+      "headingOffset": 2036,
+      "scope": "松花石产地范围为吉林省白山市江源区、浑江区、临江市、靖宇县,通化市东昌区、二道江区、通化县、柳河县、辉南县、集安市,延边州敦化市、安图县12个市区县现辖行政区域。",
+      "variety": "",
+      "sensory": "油脂光泽",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "松花砚(松花石砚)",
+      "province": "jilin",
+      "city": "白山",
+      "locality": "浑江区、江源区、靖宇县、临江市",
+      "type": "crafts",
+      "sectionSha256": "0d89f278373bdea897a57e84eef3b66d76e355507fa85f874e4e1ec5b198ea54",
+      "headingOffset": 2432,
+      "scope": "松花砚(松花石砚)产地范围为吉林省白山市江源区、浑江区、临江市、靖宇县,通化市东昌区、二道江区、通化县、柳河县、辉南县、集安市,延边州敦化市、安图县12个市区县现辖行政区域。",
+      "variety": "",
+      "sensory": "颗粒度小,质地致密、细腻,手感凉爽,抚摸略有滑涩感。色系丰富,色彩众多,以绿色为主,分翡翠绿、苹果绿、杨黄绿、菠菜绿、青灰绿、淡灰绿、暗灰绿七个绿色级别",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "仓桥水晶梨",
+      "province": "shanghai",
+      "city": "上海",
+      "locality": "松江区",
+      "type": "ingredients",
+      "sectionSha256": "56c5c1638f51105b926cc08d9eb32720dc2ec604ad8b510ad94757a6164f8264",
+      "headingOffset": 3024,
+      "scope": "仓桥水晶梨产地范围为上海市松江区永丰街道(原仓桥镇),车墩镇南门村、米市渡村、打铁桥村、联民村、联庄村、洋泾村、长溇村、得胜村8个村,叶榭镇兴达村、堰泾村、井凌桥村、四村村、八字桥村、徐姚村6个村,泖港镇泖港村、黄桥村、新建村、焦家村、南三村、曹家浜村6个村,石湖荡镇金汇村、东夏村、新姚村、洙桥村4个村现辖行政区域。",
+      "variety": "早生新水、翠冠",
+      "sensory": "果皮薄,果面光洁,“早生新水”果面呈金黄色,“翠冠”呈黄绿色;口感酥脆,石细胞少,果肉细嫩,汁多味甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "澧县葡萄(澧州葡萄)",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "澧县",
+      "type": "ingredients",
+      "sectionSha256": "9ffd79174e2905263ed9e260dcd3a58d1177196fda29f0c5ee3cf2ff7dddcbe1",
+      "headingOffset": 4214,
+      "scope": "澧县葡萄(澧州葡萄)产地范围为湖南省澧县澧阳镇、张公庙镇、澧澹乡、澧南镇、澧东乡、涔南乡、大坪乡、道河乡、小渡口镇、九垸乡、官垸乡、永丰乡、如东乡、梦溪镇、雷公塔镇、大堰当镇、车溪乡、中武乡、金罗镇、王家厂镇20个乡镇。",
+      "variety": "红地球、红宝石、美人指、夏黑、户太八号",
+      "sensory": "果粒较大,果皮较细较薄,汁多,果粉较厚,色泽鲜亮,肉嫩清脆化渣,甜而爽口",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

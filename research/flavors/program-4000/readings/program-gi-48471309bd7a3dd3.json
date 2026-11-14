@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-48471309bd7a3dd3",
+  "title": "地理标志公告 · 2007年第215号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC215%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c465c9be4f93de1a909e800f78b53eaa470ed8b2b846caa8c20818985ffee1db",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC215%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c465c9be4f93de1a909e800f78b53eaa470ed8b2b846caa8c20818985ffee1db",
+    "textSha256": "0739c8263a7ec4b8d844b3e4af0c4e9327996e3eb5b29f2aa7942a54f5d91245",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "来凤凤头姜",
+      "province": "hubei",
+      "city": "恩施州",
+      "locality": "来凤县",
+      "type": "ingredients",
+      "sectionSha256": "b6ff3a2a36591ab17eadec6f388267a4e58b88cf7b8133c34c6cfaa699739d07",
+      "headingOffset": 0,
+      "scope": "来凤凤头姜地理标志产品保护范围以来湖北省凤县人民政府《关于界定“来凤凤头姜”地理标志产品范围的函》(来政函〔2006〕38号)提出的范围为准,为湖北省来凤县翔凤镇、绿水乡、漫水乡、百福司镇、大河镇、旧司乡、三胡乡、革勒车乡等8个乡镇现辖行政区域",
+      "variety": "",
+      "sensory": "姜形状为一致性的块状、片状、丝状、粒状,辣椒为粒状。姜色为淡黄,汁液为淡红色;具有生姜、辣椒等原辅料的复合香气,食之脆嫩无筋、酸辣适中,醇香浓郁而持久",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8c0cfa61bdcf247c2248",
+  "title": "柳林县有哪些美食？_柳林县城市百科",
+  "url": "https://www.dengta.org.cn/m/n12788.html",
+  "checked": "2026-11-14",
+  "responseSha256": "e41dda4d4115e865d2825397d2aed6d299235ba52273f213f57ba5b1674dc338",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7235cbef6c41862d705c39d30bf1af265b3108cb7611739658a1b1322fc3a9d9",
+    "textLength": 1485,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "柳林芝麻饼",
+      "province": "shanxi",
+      "city": "吕梁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

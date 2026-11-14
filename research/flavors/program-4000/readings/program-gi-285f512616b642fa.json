@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-285f512616b642fa",
+  "title": "地理标志公告 · 2010年第162号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "43c278bd05cefb9709cf2aebda031d630da7adfae1d5899d8d05090fda94de30",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "43c278bd05cefb9709cf2aebda031d630da7adfae1d5899d8d05090fda94de30",
+    "textSha256": "46e2582bdd00a1de8c601f517c57354fe423bf49d11ad4b8f3e33d8e2706f2a3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "望都辣椒",
+      "province": "hebei",
+      "city": "保定",
+      "locality": "望都县",
+      "type": "ingredients",
+      "sectionSha256": "d304fe2c4d485a5a3d0363c8b9c0a3025909650fbc265d304798f78c78034e84",
+      "headingOffset": 1705,
+      "scope": "",
+      "variety": "选择传统地方品种及其选系",
+      "sensory": "干椒色泽紫红而光亮,果面光滑,肉质肥厚而富有油性,辣香浓郁",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

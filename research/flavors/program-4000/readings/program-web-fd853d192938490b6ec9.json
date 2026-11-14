@@ -1,0 +1,39 @@
+{
+  "id": "program-web-fd853d192938490b6ec9",
+  "title": "画册第三版.cdr",
+  "url": "https://zt.www.jiyuan.gov.cn/zsyz/wstz_zsyz/syzy/P020250714557071539642.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "1e19b4521dcd1ed25f36b63add77ddd667795f1e7bd84ff279de73c019df58b7",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "d5176bfbb2781f19d72cd95c7e7c10c6fff15321082f38cf13dca2ed522eed5d",
+    "textLength": 127365,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "灌汤包",
+      "province": "henan",
+      "city": "开封",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "胡辣汤",
+      "province": "henan",
+      "city": "洛阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "逍遥镇胡辣汤",
+      "province": "henan",
+      "city": "周口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b39ec474a702b3a6",
+  "title": "地理标志公告 · 2010年第169号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "7277d50ae6891880e1e18af3e6503b9fffc0c215d5dddd4f0c805ad2d7f5772c",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "7277d50ae6891880e1e18af3e6503b9fffc0c215d5dddd4f0c805ad2d7f5772c",
+    "textSha256": "55c2203484547a85f188f34f838d898b8102bc67aa14b9509e7a0cf6491ae571",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "大田肉兔",
+      "province": "fujian",
+      "city": "三明",
+      "locality": "大田县",
+      "type": "ingredients",
+      "sectionSha256": "7fac3b7b46a48a5d3178b37223522ab37858e68c5424d41794d21b6d0cbaf44b",
+      "headingOffset": 3057,
+      "scope": "",
+      "variety": "福建兔(黑毛)",
+      "sensory": "(1)体型外貌:体型较短小,结实紧凑,臀部宽圆、头小嘴尖,具有黑毛、黑皮、黑眼、黑耳、黑爪“五黑”特征。成年兔雄性体长30cm至38cm,胸围22cm至32cm;雌性体长32cm至39cm,胸围24cm至35cm。(2)肉质:屠宰放血后,皮肉分明,肉质细嫩,肉色鲜红色有光泽,脂肪层薄,呈白色或微黄色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

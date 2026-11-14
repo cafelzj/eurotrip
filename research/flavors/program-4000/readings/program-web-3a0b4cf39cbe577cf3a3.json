@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3a0b4cf39cbe577cf3a3",
+  "title": "我县十五种特产亮相周口首届“三川十馆·春会”-沈丘县人民政府",
+  "url": "https://www.shenqiu.gov.cn/newslast_38427.html",
+  "checked": "2026-11-14",
+  "responseSha256": "f26f66ac143a4d9a00707e1d59b53eda245b16c32c72aedfebc2c9fef8e63bd6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ee4c49a6bee22d5fba694a6d587d2cf25dfde4b6cd955b4520b6e7d6b08daf16",
+    "textLength": 1110,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "邓城猪蹄",
+      "province": "henan",
+      "city": "周口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

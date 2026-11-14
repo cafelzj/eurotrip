@@ -1,0 +1,23 @@
+{
+  "id": "program-web-cb9f0f4b7d2a5115f6df",
+  "title": "务工者谈浙江沿海小城春节：鲜味串年味-中新网",
+  "url": "https://www.chinanews.com/df/2015/02-19/7073396.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "5582ed183610f8750a494c3caf9e305d76e76951bac736a47a757f23fc4a84cf",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "43c3b5b77deb973f26969561941c5fd4f75eef2c39471b99b465b1a248e096b2",
+    "textLength": 3122,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "食饼筒",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

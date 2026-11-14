@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7fd07aa196a9a2972731",
+  "title": "阳泉十大特色美食小吃排名 山西阳泉好吃的十大名吃→买购APP",
+  "url": "https://www.maigoo.com/top/427567.html",
+  "checked": "2026-11-14",
+  "responseSha256": "7c664649d0e8ca00b80dfafa2fc38a9871e300f7f5ca9df7f351f90cb04e8727",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "79b823d7e89b38094dce66111a4f8989344400514d0cdfd57845520120e41000",
+    "textLength": 6833,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "平定黄瓜干",
+      "province": "shanxi",
+      "city": "阳泉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

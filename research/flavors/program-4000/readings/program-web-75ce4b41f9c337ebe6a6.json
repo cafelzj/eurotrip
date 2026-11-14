@@ -1,0 +1,23 @@
+{
+  "id": "program-web-75ce4b41f9c337ebe6a6",
+  "title": "“嘉定一桌菜”首秀，既是家乡味，又是“嘉”乡情_乡村振兴_上海市农业农村委员会",
+  "url": "https://nyncw.sh.gov.cn/xczx2/20211216/3c56c853134f47fdb247960c7d1de95b.html",
+  "checked": "2026-11-14",
+  "responseSha256": "4a2fd4d3dcae9051fa876eede8d3d85d1e8f669470ab08e685bb6db36c771e69",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4f7e60782d7188e6f3971952838bb43b5126754b335d463ccf8b1e8ca27c9869",
+    "textLength": 1200,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "南翔小笼",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

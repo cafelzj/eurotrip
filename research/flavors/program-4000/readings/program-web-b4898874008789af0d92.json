@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b4898874008789af0d92",
+  "title": "吃在滨州_滨州大众网",
+  "url": "https://binzhou.dzwww.com/ly/czbz/",
+  "checked": "2026-11-14",
+  "responseSha256": "d101685d1abde5fbdd009d775c89ef9031b9d2744a10d0283ecbe243dc493038",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9d2b7448af9e84cd819b685fd2fffab7624816af8aedd1bcaaed9b8fa4eebef4",
+    "textLength": 2605,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "魏集驴肉",
+      "province": "shandong",
+      "city": "滨州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

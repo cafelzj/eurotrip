@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b26de587662224ad555c",
+  "title": "这个低调的避暑美食大省，究竟有多好吃？",
+  "url": "https://jl.people.com.cn/n2/2024/0623/c349771-40888400.html",
+  "checked": "2026-11-14",
+  "responseSha256": "c6c6aa841dba061318a0b57094a68c1fc975cf80e7380f76705813c3c660045b",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "90c32984fc73eb3a9e89e4d24fd5e85ac2855a044ea13f8caac087fc2e4146e7",
+    "textLength": 7052,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "白肉血肠",
+      "province": "jilin",
+      "city": "长春",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

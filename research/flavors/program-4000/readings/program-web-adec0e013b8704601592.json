@@ -1,0 +1,23 @@
+{
+  "id": "program-web-adec0e013b8704601592",
+  "title": "吉林美食|吉林特色小吃|吉林美食攻略|吉林小吃-本地宝吉林美食网",
+  "url": "https://jl.bendibao.com/meishi/",
+  "checked": "2026-11-14",
+  "responseSha256": "42fed8fc94ddad943e19dc16e831ab14f119e03f9993520f4fa57ae7de4b6839",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "86db95e0807aa9ec8040298274b26ce4ec3bc09899aa89f794a3896a2cd2cffd",
+    "textLength": 1726,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "庆岭活鱼",
+      "province": "jilin",
+      "city": "吉林",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

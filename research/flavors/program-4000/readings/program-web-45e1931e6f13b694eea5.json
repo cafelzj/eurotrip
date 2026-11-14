@@ -1,0 +1,23 @@
+{
+  "id": "program-web-45e1931e6f13b694eea5",
+  "title": "嵊州小吃：手工小笼包、手工干菜饺、榨面、豆腐年糕……-嵊州新闻网",
+  "url": "https://sznews.zjol.com.cn/sznews/system/2021/05/10/033016029.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "c1dc048ccef835cf5f070a7a66ef62fb91e3074af283a818c030dc758b850eaa",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "fbad81db579ed8679c7a4eeb1efdf7e7eefd04ee24f35cc82c050e8ab5814e9d",
+    "textLength": 1526,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "豆腐年糕",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

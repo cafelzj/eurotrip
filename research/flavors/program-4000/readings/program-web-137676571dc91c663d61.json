@@ -1,0 +1,31 @@
+{
+  "id": "program-web-137676571dc91c663d61",
+  "title": "百县百味：河北100个县的代表菜_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_2663847",
+  "checked": "2026-11-14",
+  "responseSha256": "1db6a0406cdd51337dc57b7f1a9e9c2e24156e783415d727fa74ceea023db83a",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e6c58d30cb12702c2233bb93a25cb9444e639f0c2a6a88c18e7d9e8c89ae29ba",
+    "textLength": 9027,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "三河豆片",
+      "province": "hebei",
+      "city": "廊坊",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "武强酥鱼",
+      "province": "hebei",
+      "city": "衡水",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

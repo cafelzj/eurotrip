@@ -1,0 +1,31 @@
+{
+  "id": "program-web-0cc3a109139a3df06831",
+  "title": "咱濮阳的19道“特色菜”，你吃过几道？|特色小吃_新浪新闻",
+  "url": "https://k.sina.cn/article_6972519913_19f9835e900100racq.html",
+  "checked": "2026-11-14",
+  "responseSha256": "518f85e2d77cb01eee5718d6e242c40abecbdbb4c93597ed89273e5d0bdcd1d3",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ead1df294f5edc3afbf20ab822af8406b078939e74ea9efe2b4910858e798567",
+    "textLength": 1443,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "濮阳壮馍",
+      "province": "henan",
+      "city": "濮阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "濮阳裹凉皮",
+      "province": "henan",
+      "city": "濮阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

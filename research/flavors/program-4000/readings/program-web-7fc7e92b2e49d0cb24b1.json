@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7fc7e92b2e49d0cb24b1",
+  "title": "恩施特产 - 正宗湖北恩施本土特产名录〖中华特产网恩施特产大全〗",
+  "url": "https://www.zhtechan.cn/enshi/",
+  "checked": "2026-11-14",
+  "responseSha256": "5cea36e5b5bc134eae3f7c103c0565dc96176bb2a414b87319c19b145d400e67",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "1363dd7f33ee4067a3c7331f18ff3ed82740490c4aae8ea6e7c46da64ad0fd79",
+    "textLength": 1036,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "利川莼菜",
+      "province": "hubei",
+      "city": "恩施州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-26f848a7f49866adab79",
+  "title": "潮声丨地方小吃，为何要有“标准”答案",
+  "url": "https://zjnews.zjol.com.cn/zjnews/202602/t20260223_31518270.shtml?v=1.0",
+  "checked": "2026-11-14",
+  "responseSha256": "3de82e4b505bbb8a75af28ce8f5e27512ab12b1417061b2d09246928ae4002c0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ce2fe658f98ee702898d49f61e072a2bfc8bbff78e63d455a4f6e70d50e7c362",
+    "textLength": 4793,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "衢州鸭头",
+      "province": "zhejiang",
+      "city": "衢州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

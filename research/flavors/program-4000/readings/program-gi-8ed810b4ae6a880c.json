@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-8ed810b4ae6a880c",
+  "title": "地理标志公告 · 2007年第151号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC151%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "d2156a402dbb00fcd738cddd5fdc80e30b620ab225dbc410625c083569392c34",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC151%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "d2156a402dbb00fcd738cddd5fdc80e30b620ab225dbc410625c083569392c34",
+    "textSha256": "6cc738685dc89daedff6e4faa7ee15281c8ed466e4f24c46f7f8aedc9111a676",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "东海水晶",
+      "province": "jiangsu",
+      "city": "连云港",
+      "locality": "东海县",
+      "type": "crafts",
+      "sectionSha256": "5535eb8212088ec3b72caf90575e6bc54d599fa3a23e56d9c979d9f8ca4c616f",
+      "headingOffset": 0,
+      "scope": "东海水晶地理标志产品保护范围以江苏省东海县人民政府《关于明确东海水晶地理标志产品保护区域的请示》(东政发[2006]91号)提出的范围为准,为江苏省东海县现辖行政区域",
+      "variety": "感官特征。一般为晶体状构造,可雕性和抛光性好。全透明或半透明,玻璃光泽,常见颜色有无色、茶色、紫色、绿色、黄色等",
+      "sensory": "一般为晶体状构造,可雕性和抛光性好。全透明或半透明,玻璃光泽,常见颜色有无色、茶色、紫色、绿色、黄色等。(二)原料",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

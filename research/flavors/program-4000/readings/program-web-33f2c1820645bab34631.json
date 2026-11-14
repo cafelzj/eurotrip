@@ -1,0 +1,23 @@
+{
+  "id": "program-web-33f2c1820645bab34631",
+  "title": "新乡各县市的特色美食，你都吃过几种",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=-1&cpid=666&ctype=news&docid=1051178OCMSe75e09ea881b0d0e_si_-2&dy_scenario=relate&r=CN&tn=86e9d98f98fe4fd0c5491285a2c3093652e77d64549af444c5ede5fb1b3c748e&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "ce33ad7f87badc69006742fd093e07d053ad1c3ecd8f8cb514f0a9ba5b129016",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "9836ce1f786635735cd560fe4b429d11b4f2a26fab3fc6abbd2a4c76d07f9553",
+    "textLength": 432,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "霜打馍",
+      "province": "henan",
+      "city": "新乡",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

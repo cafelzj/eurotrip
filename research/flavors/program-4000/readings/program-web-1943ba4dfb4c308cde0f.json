@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1943ba4dfb4c308cde0f",
+  "title": "天台饺饼筒：一张薄饼卷十样菜，和天台小吃“三件套” | 小城中国",
+  "url": "https://smalltownchina.com/zh/tiantai/jiaobingtong/",
+  "checked": "2026-11-14",
+  "responseSha256": "0b3cac99e4074e23e1a0a174513f2e62fab202361270c339237b4b2e3f254380",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "5a8b5a197ab4d88051f4137e37ce33c8e61c0fffafb576e0d9466798e4b080a5",
+    "textLength": 2988,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "天台饺饼筒",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

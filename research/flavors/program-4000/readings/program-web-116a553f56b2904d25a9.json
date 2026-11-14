@@ -1,0 +1,23 @@
+{
+  "id": "program-web-116a553f56b2904d25a9",
+  "title": "唐山市召开“唐山老字号嘉年华暨餐饮美食展览会”新闻发布会",
+  "url": "https://m.thepaper.cn/newsDetail_forward_25649022",
+  "checked": "2026-11-14",
+  "responseSha256": "8ed1f29cc9f6faa14c77bc54f62a2a6b802c0331de8419c18624aa47ebb4989c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "ca084eaaa291317924581980c1315828ce974e97be40349e559f77c69725ffa3",
+    "textLength": 3090,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "刘美烧鸡",
+      "province": "hebei",
+      "city": "唐山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

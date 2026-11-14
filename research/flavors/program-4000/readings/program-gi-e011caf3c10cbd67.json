@@ -1,0 +1,108 @@
+{
+  "id": "program-gi-e011caf3c10cbd67",
+  "title": "地理标志公告 · 2015年第96号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "c1c557cc31846d3a928850546e5763ec55ed5f9e098d643b5d19b624f6f8b74f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "c1c557cc31846d3a928850546e5763ec55ed5f9e098d643b5d19b624f6f8b74f",
+    "textSha256": "c33d44787cd7f3a313c1e65d42a21e9109df493cffd4027cec7c7dc27a050ae7",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "绿杨桥封缸酒",
+      "province": "hubei",
+      "city": "黄冈",
+      "locality": "浠水县",
+      "type": "alcohol",
+      "sectionSha256": "5c2f9f70121a62ec403e848846230c58ad37bbce70034b510153532ba05db0a8",
+      "headingOffset": 10324,
+      "scope": "绿杨桥封缸酒产地范围内的生产者,可向湖北省浠水县质量技术监督局提出使用“地理标志产品专用标志”的申请,经湖北省质量技术监督局审核,报质检总局核准后予以公告。",
+      "variety": "",
+      "sensory": "呈琥珀色,具有黄酒特有的浓郁醇香,无异味;口感甘甜、醇厚;酒体协调,具有黄酒的典型风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "龙窖腐乳",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市",
+      "type": "seasoning",
+      "sectionSha256": "c226ba64d31934a3a674f7552e68f01099e33eaa6ee3b26d553169c6cbbbf5cc",
+      "headingOffset": 12288,
+      "scope": "龙窖腐乳产地范围为湖南省临湘市长安街道办事处、桃矿街道办事处、羊楼司镇、江南镇、源潭镇、黄盖镇、聂市镇、乘风乡、儒溪镇、五里牌乡、定湖镇、忠防镇、坦渡乡、城南乡、横铺乡、长塘镇共16个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "块状完整、厚薄均匀、质地细腻、醇香可口、咸淡适口。表面呈乳黄色,断面呈乳黄色或者淡黄色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "龙窖酱菜",
+      "province": "hunan",
+      "city": "岳阳",
+      "locality": "临湘市",
+      "type": "seasoning",
+      "sectionSha256": "5071ad02dffd242d01b1ba84919cfea04990a7b38c9f1784c83bc5c5157f522f",
+      "headingOffset": 13396,
+      "scope": "龙窖酱菜产地范围为湖南省临湘市长安街道办事处、桃矿街道办事处、羊楼司镇、江南镇、源潭镇、黄盖镇、聂市镇、乘风乡、儒溪镇、五里牌乡、定湖镇、忠防镇、坦渡乡、城南乡、横铺乡、长塘镇共16个乡镇街道办事处现辖行政区域。",
+      "variety": "",
+      "sensory": "榨菜:色泽青灰色或青绿色,呈片状、丝状或颗粒状,质地脆嫩,咸淡适中,微辣。萝卜:色泽黄色或红色,呈条状、粒状或蓑衣状,爽脆可口,咸淡适中,微辣",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "祁东黄花菜",
+      "province": "hunan",
+      "city": "衡阳",
+      "locality": "祁东县",
+      "type": "ingredients",
+      "sectionSha256": "bc530460a9816d018c97aa353f168876b104559d3fd719caafd27688f3ab380d",
+      "headingOffset": 14406,
+      "scope": "祁东黄花菜产地范围为湖南省祁东县现辖行政区域。",
+      "variety": "",
+      "sensory": "干菜菜条中间草青色,两头褐绿色,均匀有光泽;肉质肥厚,气味芬芳,口感甜",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "临澧杂柑",
+      "province": "hunan",
+      "city": "常德",
+      "locality": "澧县、临澧县",
+      "type": "ingredients",
+      "sectionSha256": "42a0ec4ff15098076491aab31c3e217857e5240b529bef1a8ddc229bdd328624",
+      "headingOffset": 14993,
+      "scope": "临澧杂柑产地范围为湖南省临澧县九里乡、官亭乡、新安镇、望城乡、杨板乡、文家乡、烽火乡、修梅镇、杉板乡、太浮镇、陈二乡、柏枝乡、四新岗镇、佘市桥镇、停弦渡镇共15个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "果形扁球形,色泽亮丽;果皮较薄,橙红色;果肉汁多肉脆、清香甜爽;耐储存",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "五强溪鱼",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "沅陵县",
+      "type": "ingredients",
+      "sectionSha256": "e92f1644083694ae703af97fbb4f3d42158e341edcee140fc0faf2e7524793ac",
+      "headingOffset": 15659,
+      "scope": "五强溪鱼产地范围为湖南省沅陵县现辖行政区域内沅水、酉水流域,北纬28°04′48′′至29°02′26′′,东经110°05′31′′至110°06′27′′,水域面积31万亩,包括五强溪镇、陈家滩乡、肖家桥乡、清浪乡、北溶乡、深溪口乡、沅陵镇、太常乡、盘古乡、二酉乡、明溪口镇。",
+      "variety": "",
+      "sensory": "翘嘴红鲌:鱼体修长,侧扁,背部呈深黑色、腹部呈银白色且有光泽,肉质细嫩鲜美;鳙鱼:头大体肥,肉质雪白细嫩;青鱼:鱼体色深,呈梭型,味鲜,略带甜味,无泥腥味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "芷江鸭",
+      "province": "hunan",
+      "city": "怀化",
+      "locality": "芷江侗族自治县",
+      "type": "ingredients",
+      "sectionSha256": "e032db8a81a19326b149dfb957567e23e0e81dcd2180093a4b34487de9c74753",
+      "headingOffset": 16997,
+      "scope": "芷江鸭产地范围为湖南省芷江侗族自治县芷江镇、罗旧镇、新店坪镇、牛牯坪乡、艾头坪乡、岩桥乡、水宽乡、木叶溪乡、麻缨塘乡、竹坪铺乡、土桥乡、杨公庙乡、梨溪口乡、洞下场乡、楠木坪乡、晓坪乡、萝卜田乡共17个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "胴体肉色红润,皮薄,骨细软,皮下脂肪少,肌肉发达,切面有光泽,纹理清晰,富有弹性;熟肉酥嫩,煮沸烹饪后肉汤乳白色,香味浓郁,不腥不腻",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

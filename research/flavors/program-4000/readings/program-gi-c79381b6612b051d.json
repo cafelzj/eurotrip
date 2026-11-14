@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-c79381b6612b051d",
+  "title": "地理标志公告 · 2007年第16号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC16%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "a8477f5e0c27f2aa5c6a2f79b21c429d1a09b02360dd8567ff28b3628e170a39",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC16%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "a8477f5e0c27f2aa5c6a2f79b21c429d1a09b02360dd8567ff28b3628e170a39",
+    "textSha256": "e26cc44d6b156a5e7e4f0101768705c3a61416292a9118558420d3fe16f4191f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "孙吴大果沙棘",
+      "province": "heilongjiang",
+      "city": "黑河",
+      "locality": "孙吴县",
+      "type": "ingredients",
+      "sectionSha256": "646a953a60e56458e7f95a1b85a0fe88645b223f1158001cf2eabd15608b6969",
+      "headingOffset": 0,
+      "scope": "孙吴大果沙棘地理标志产品保护范围以黑龙江省孙吴县人民政府《关于界定孙吴大果沙棘地理标志产品保护区域的请示》(孙政发[2006]76号)提出的范围为准,为黑龙江省孙吴县孙吴镇、辰清镇、红旗乡、奋斗乡、群山乡、沿江乡、清溪乡、正阳山乡、西兴乡、卧牛河乡、辰清林场、大河口林场、前进林场、沿江林场、红旗林场、向阳林场等16个乡镇林场现辖行政区域",
+      "variety": "",
+      "sensory": "感官特色应符合表1的要求表1孙吴大果沙棘果的感官指标项目指标形状长圆形或长圆柱形颜色桔黄色至桔红色滋、气味具有该产品特有的滋味和气味",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

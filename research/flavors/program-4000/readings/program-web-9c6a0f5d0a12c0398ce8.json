@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9c6a0f5d0a12c0398ce8",
+  "title": "河北张家口蔚县特产汇总 - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/443930/",
+  "checked": "2026-11-14",
+  "responseSha256": "f5dc2d1e7b4b49b57034801f092cb9485a894fbc7fc36b1872764d57e3073973",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c651a8056306d7ea491199a184fcfe6d22230b5029df1f9ef19cd2a0b5669bf4",
+    "textLength": 2030,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蔚县小米",
+      "province": "hebei",
+      "city": "张家口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

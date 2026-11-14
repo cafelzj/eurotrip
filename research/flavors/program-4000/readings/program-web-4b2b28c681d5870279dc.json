@@ -1,0 +1,23 @@
+{
+  "id": "program-web-4b2b28c681d5870279dc",
+  "title": "山西新绛：“流量配菜”做成“文旅硬菜”-中新网",
+  "url": "https://www.chinanews.com/sh/2024/10-08/10298138.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "3b24ccb98d15595a082cc5009932d124edd1ba3ba8cb01bc4b3a29ec4455771f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "181042615eedfd0fb1212ac9fc34f93201c40e2f194c3d6aa88a6d281831af6e",
+    "textLength": 4596,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "绛州澄泥砚",
+      "province": "shanxi",
+      "city": "运城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

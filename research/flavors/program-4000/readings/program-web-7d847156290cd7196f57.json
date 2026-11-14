@@ -1,0 +1,23 @@
+{
+  "id": "program-web-7d847156290cd7196f57",
+  "title": "邵东特产 - 正宗湖南邵东本土特产名录〖中华特产网邵东特产大全〗",
+  "url": "https://www.zhtechan.cn/shaodong/",
+  "checked": "2026-11-14",
+  "responseSha256": "6b4c53c33d72f531ad45921b1ac1800413526a0f261331dccdc5f9a9bac7646e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "7b15df21679287af3e879fa8d887eda99fba8533d0d3d0e9ab4e27eac11838af",
+    "textLength": 770,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "佘田桥豆腐",
+      "province": "hunan",
+      "city": "邵阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

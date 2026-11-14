@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-bec327ebce9fe290",
+  "title": "地理标志公告 · 2006年第161号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC161%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b94606852e0e61f95ae924e8185f35ccc0510b15ba393a992478ed44ed6dd076",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC161%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b94606852e0e61f95ae924e8185f35ccc0510b15ba393a992478ed44ed6dd076",
+    "textSha256": "98262d3b7612452b11ad480a1da61fb96cb936ce797d4377b23fa43d06f9d682",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "崂山绿茶",
+      "province": "shandong",
+      "city": "青岛",
+      "locality": "崂山区",
+      "type": "tea",
+      "sectionSha256": "77f92705c9df2e7f807aa44c6be66cc7b114268676d0189fa3300f3fcd0102cd",
+      "headingOffset": 0,
+      "scope": "崂山绿茶地理标志产品保护范围以山东省青岛市崂山区人民政府《关于申请划定崂山绿茶地理标志产品保护产区的函》(崂政函[2006]2号)提出的范围为准,为山东省青岛市崂山区王哥庄、沙子口、中韩、北宅等4个街道办事处现辖行政区域",
+      "variety": "黄山群体种、鸠坑种、祁门种、龙井43、福鼎大白茶等中小叶抗寒性较强的优良品种",
+      "sensory": "(1)卷曲茶:外形:条索卷曲、细紧、匀整;不同级别茶叶色泽从翠绿到墨绿,但不得枯黄、断碎。内质:香气高,从嫩栗香到尚纯;汤色从嫩绿明亮到黄绿,但不得浑浊;滋味醇、无异味;叶底从嫩绿明亮到黄绿。(2)扁形茶:外形:外形扁平,不同级别茶叶从光滑到扁平;色泽从嫩绿到黄绿,匀整洁净。内质:香气高,从嫩香到纯正;滋味醇,无异味;汤色从嫩绿明亮到黄绿明亮;叶底从嫩绿明亮到黄亮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

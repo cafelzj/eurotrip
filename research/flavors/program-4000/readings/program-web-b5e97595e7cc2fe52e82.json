@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b5e97595e7cc2fe52e82",
+  "title": "张家口美食地图：一口爱上塞外风味",
+  "url": "https://www.visitbeijing.com.cn/article/4MwJWdS5gAv",
+  "checked": "2026-11-14",
+  "responseSha256": "027143042511aa9aa5cb5ab832455e2420fb25e2993270d6c20bf8ef646ff776",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4e88af62da3daef93a35a10f8f46f7c0f17e9018fb96f36b1b3e4f517a55ad9b",
+    "textLength": 2977,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "阳原圪渣饼",
+      "province": "hebei",
+      "city": "张家口",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

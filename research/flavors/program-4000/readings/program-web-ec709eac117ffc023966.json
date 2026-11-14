@@ -1,0 +1,23 @@
+{
+  "id": "program-web-ec709eac117ffc023966",
+  "title": "呼叫“尔滨”，俺在菏泽很想你！_要闻_大众网菏泽",
+  "url": "https://heze.dzwww.com/yw/202401/t20240109_13480176.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "d230c7d26020608a7ae6e28fd891e0764d46a298fffbafc3d853e6a4cd9be997",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2fb28f684307012adb8d7560d816931b167a3eec84233371e81808e126e57b62",
+    "textLength": 5188,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "谢集罐子汤",
+      "province": "shandong",
+      "city": "菏泽",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

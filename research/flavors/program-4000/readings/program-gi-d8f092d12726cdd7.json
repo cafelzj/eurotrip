@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-d8f092d12726cdd7",
+  "title": "地理标志公告 · 2007年第43号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC43%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "29b180928bc6796183a4537dde776b4e271980db5a18b5021918ba32ae64aec4",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC43%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "29b180928bc6796183a4537dde776b4e271980db5a18b5021918ba32ae64aec4",
+    "textSha256": "95296a8f0a702103d2e08220bbbb003293330a491bc170279fdb84a4d6544971",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "蔡甸莲藕",
+      "province": "hubei",
+      "city": "武汉",
+      "locality": "蔡甸区",
+      "type": "ingredients",
+      "sectionSha256": "5ba4652a71852bc929c68a338e5e8a8fe5e68734089390c23bd96e51268dbf96",
+      "headingOffset": 0,
+      "scope": "蔡甸莲藕地理标志产品保护范围以湖北省武汉市蔡甸区人民政府《关于界定蔡甸莲藕地理标志产品保护范围的函》(蔡政函[2006]21号)提出的范围为准,为湖北省武汉市蔡甸区现辖行政区域",
+      "variety": "浅水藕(NelumbonuciferaGaertn.QianShuiOu)六月报、鄂莲一号、汉阳州藕、鄂莲五号、新一号、武植二号",
+      "sensory": "蔡甸莲藕感观特征见表1。表1规格节段数(节)长度(cm)横断面径(cm)重量(kg)2L5-7100-1308-102.5-3.5L4-570-1006-81.5-2.5M3-450-704-61.0-1.5S2-330-503-40.5-1.",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1739dba5f3c8aacd8a23",
+  "title": "阳泉市有哪些美食？_阳泉市城市百科",
+  "url": "https://www.dengta.org.cn/m/n12728.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a7e4d1341c3b3d4d6d6375fc77df1191e2f609b6373ed35f8649bab62fee8875",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b1758b6003fa6eb5c126fa173487180ede8a974e589080e23e2de799c9a2a826",
+    "textLength": 1365,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "平定黄瓜干",
+      "province": "shanxi",
+      "city": "阳泉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

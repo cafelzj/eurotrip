@@ -1,0 +1,31 @@
+{
+  "id": "program-web-7c60929d20b65b916eaa",
+  "title": "莆阳美食 烹出千年文化韵味_ 文旅经济_福建省人民政府门户网站",
+  "url": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202301/t20230101_6085620.htm",
+  "checked": "2026-11-14",
+  "responseSha256": "696f18ecffab1d54c7fca14ef2913acd326f129b6bfa37488dbb0ef745395684",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "2dd1a67db91cc8bfe984c5a56751cb9cc452f052fa817b0b8d6c1053f5c51798",
+    "textLength": 9467,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "荔枝肉",
+      "province": "fujian",
+      "city": "莆田",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "兴化桂圆",
+      "province": "fujian",
+      "city": "莆田",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "program-gi-e7242e0775ff95d2",
+  "title": "地理标志公告 · 2008年第140号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "548ecade218d141f1f44f10d43f4606e21da19ea3f6f84cd767d1054dc8b356d",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC140%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "548ecade218d141f1f44f10d43f4606e21da19ea3f6f84cd767d1054dc8b356d",
+    "textSha256": "66923eb7fa104585c8cadfd1daba026c21fdfdbba00aa327959e7e5fe220c230",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "长兴吊瓜籽",
+      "province": "zhejiang",
+      "city": "湖州",
+      "locality": "长兴县",
+      "type": "ingredients",
+      "sectionSha256": "050866d6e4de37957b4954f13b31c6099264fbc2a1aa091c52aa8799b898596a",
+      "headingOffset": 2188,
+      "scope": "长兴吊瓜籽地理标志产品保护范围为浙江省长兴县现辖行政区域。",
+      "variety": "",
+      "sensory": "呈扁平卵状椭圆形,长12mm至18mm,宽6mm至10mm,厚约4mm至6mm,外壳浅棕色及棕褐色,壳薄而坚硬光滑,近边缘处有一圈棱线,籽仁呈黄白色,富油性,籽粒大小均匀、颗粒饱满,千粒重在200g至260g之间。具有固有的香味、滋味,具备壳薄、仁肥、质脆、香浓、味甘、口感好的特色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "浦城薏米",
+      "province": "fujian",
+      "city": "南平",
+      "locality": "浦城县",
+      "type": "ingredients",
+      "sectionSha256": "c972039c69c5df607866d49bbb202522055abf31b81aa8f5e6aca9339bb9f6b6",
+      "headingOffset": 3880,
+      "scope": "浦城薏米地理标志产品保护范围为福建省浦城县现辖行政区域。",
+      "variety": "白壳种",
+      "sensory": "色白、饱满、圆润,腹沟深宽,有一定粉性;煮后糯软、粘香、细腻、软滑、气馨甘爽。呈现浦城薏米特有的“糯、甘、稠”等品质特征",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "西峡香菇",
+      "province": "henan",
+      "city": "南阳",
+      "locality": "西峡县",
+      "type": "ingredients",
+      "sectionSha256": "4431ff4e5d2ad1394994d39e0e8c9f8511c0f850d57a8d528133aa2469fcbc6b",
+      "headingOffset": 5332,
+      "scope": "西峡香菇地理标志产品保护范围为河南省西峡县丹水镇、田关乡、阳城乡、回车镇、五里桥镇、丁河镇、重阳乡、西坪镇、寨根乡、桑坪镇、石界河乡、米坪镇、军马河乡、双龙镇、二狼坪乡等15个乡镇现辖行政区域。",
+      "variety": "",
+      "sensory": "级别直径cm厚度cm要求剪柄,菌盖圆整,大卷边,白色,裂纹深,花纹自特级4—6≥3然,菌褶整齐,米黄色剪柄,菇形圆整,大卷边,花纹自然,白色,菌褶整一级4—6≥2齐,呈米黄色剪柄,卷边,菇形圆,裂纹浅,茶褐色,菌褶整齐、二级3—7≥2不倒伏,米黄色",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

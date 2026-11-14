@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-53c38dd973d7be06",
+  "title": "地理标志公告 · 2008年第141号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "b5d62e8e1b303c6ee4df6430dd76afa6072d47d843615e9819d293bdd8e64b4b",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "b5d62e8e1b303c6ee4df6430dd76afa6072d47d843615e9819d293bdd8e64b4b",
+    "textSha256": "6b8a5213881b8a987511300854b7d490b3cfffdef6587faa70b9961c598f0d37",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "仰韶酒",
+      "province": "henan",
+      "city": "三门峡",
+      "locality": "渑池县",
+      "type": "alcohol",
+      "sectionSha256": "1bddf40c81dd1be527f861b216f113378a46b5d274365174230864306d077194",
+      "headingOffset": 1491,
+      "scope": "仰韶酒地理标志产品保护范围为河南省渑池县城关镇、仰韶乡、张村镇、英豪镇、陈村乡、洪阳镇、仁村乡、果园乡、天池乡、坡头乡、段村乡、南村乡等12个乡镇现辖行政区域。",
+      "variety": "1.小麦:产于保护区范围内,蛋白质含量≥11%的优质强筋小麦。2.高粱:采用符合国家标准规定的辽宁、内蒙等地生产的优质高粱。3.酿造用水:来自保护区内,总硬度为185mg/L至300mg/L,pH值6.7至8.0。4.勾兑用水:使用符合国家规定的纯净水",
+      "sensory": "项目指标酒精度%45465052(VOL)色泽及外观无色(或微黄)、清亮透明,无悬浮物,无沉淀复合香典雅复合香典雅复合香典雅复合香典雅香气陈香舒适陈香舒适陈香怡人陈香怡人醇甜柔和,绵软醇甜柔和,绵软醇甜绵软,酒体醇醇甜绵软,圆润口味爽口,酒体爽净,爽净,酒体谐调,厚,诸味协调,味爽口,酒体醇厚,余味悠长余味悠长净悠长味净悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "program-gi-0c71f66be86181c0",
+  "title": "地理标志公告 · 2011年第98号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "896d63c8aace3cf982b8bb4a9e6a08a2469cd4d8fd55a8a1323ac4cceeef241f",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "896d63c8aace3cf982b8bb4a9e6a08a2469cd4d8fd55a8a1323ac4cceeef241f",
+    "textSha256": "63e877a03962330c2c3d407abfe219c805b4c649ab98640a190f5e6d2ed39445",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "盟台宴酒",
+      "province": "shandong",
+      "city": "菏泽",
+      "locality": "巨野县",
+      "type": "alcohol",
+      "sectionSha256": "fcd597ad16073e9fafc731e1b3dfefb6d4896515632e58e20c25e64d86a48bc9",
+      "headingOffset": 1640,
+      "scope": "盟台宴酒产地范围为山东省菏泽市巨野县开发区现辖行政区域。",
+      "variety": "",
+      "sensory": "项目36%vol、39%vol感官要求色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气复合香(浓香、芝麻香、酱香)突出、幽雅、自然口味绵柔爽净、细腻,诸味协调,余味悠长项目42%vol、52%vol感官要求色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气复合香(浓香、芝麻香、酱香)突出,陈香、幽雅、馥郁口味绵柔爽净,醇厚细腻,诸味协调,余味悠长",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "临水酒",
+      "province": "anhui",
+      "city": "六安",
+      "locality": "霍邱县",
+      "type": "alcohol",
+      "sectionSha256": "8d4d9796da83e5d8664ce8d6781493ab2fa1f811617f93e36d509f0b68c17820",
+      "headingOffset": 3477,
+      "scope": "临水酒产地范围为安徽省霍邱县临水镇现辖行政区域。",
+      "variety": "",
+      "sensory": "项目酒精度40.3%vol、42%vol色泽无色或微黄、清亮透明、无悬浮物、无沉淀香气香气馥郁、幽雅口味绵甜醇厚,香味协调、余味净爽风格具有本品固有风格",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

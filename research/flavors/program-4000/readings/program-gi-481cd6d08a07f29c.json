@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-481cd6d08a07f29c",
+  "title": "地理标志公告 · 2005年第186号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC186%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "3d3d0cc9dbd7b8886121effa15d1713e5236bb77dfc2653b1d265d7ea540e0c3",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC186%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "3d3d0cc9dbd7b8886121effa15d1713e5236bb77dfc2653b1d265d7ea540e0c3",
+    "textSha256": "ec22b9abc7d73fcc3fa0d0cbc972853eb17f147a190b2cfbd4dbaf68c89f051f",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "通化山葡萄酒",
+      "province": "jilin",
+      "city": "通化",
+      "locality": "通化县",
+      "type": "alcohol",
+      "sectionSha256": "89025b5be206b1a17b723f344aa7a90e60bad036f3a6ba59c08670b9d020ac2a",
+      "headingOffset": 0,
+      "scope": "通化山葡萄酒地理标志产品保护范围以吉林省通化市人民政府《关于界定通化山葡萄酒地理标志产品保护范围的函》(通市政文[2004]79号)提出的范围为准,为吉林省通化市现辖行政区域",
+      "variety": "1.生产通化半甜、甜红山葡萄酒的葡萄品种。(1)野生山葡萄。(2)选育山葡萄:“双优”、“双红”、“左山一”。(3)杂交山葡萄:“公酿一号”。2.生产通化半干、干红山葡萄酒的葡萄品种。(1)选育山葡萄:“双优”、“双红”、“左山一”。(2)杂交山葡萄:“公酿一号”",
+      "sensory": "分类外观、色泽香气滋味项目通化半干、干红山葡萄具有新鲜的小浆果、葡醇厚、圆润、协调、紫红、深红、宝石红。酒萄花、椴树花等香气。丰满。具有陈酿的酒香、小浆通化半甜、甜红山葡萄紫红、深红、宝石红、醇厚、协调、结构果、葡萄花、椴树花等酒红微带棕。感强、酸甜适口。香气。2.通化山葡萄酒",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

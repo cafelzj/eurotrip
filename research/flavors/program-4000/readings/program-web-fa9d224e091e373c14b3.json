@@ -1,0 +1,23 @@
+{
+  "id": "program-web-fa9d224e091e373c14b3",
+  "title": "〖志载冀往〗邢台名特食品和特色小吃",
+  "url": "https://m.thepaper.cn/newsDetail_forward_2663221",
+  "checked": "2026-11-14",
+  "responseSha256": "dfe7a395752363c05aa67344f5ec6c127365e4bf0717f37902ba029ac2014268",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "846535d6c3b345236f5c49409de2dc03b4d4514996b6068fac2d6c7975a637c5",
+    "textLength": 2626,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "广宗薄饼",
+      "province": "hebei",
+      "city": "邢台",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

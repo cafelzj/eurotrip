@@ -1,0 +1,23 @@
+{
+  "id": "program-web-331c3366e43ec25cc3e2",
+  "title": "七大受欢迎的鹤壁特色菜肴 到河南鹤壁7大必吃经典名菜推荐→买购APP",
+  "url": "https://m.maigoo.com/top/439627.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b6e7e1aa2246f2e6a86e22e701fc8036ea1e5de9580c6cfaa8c0da5dd9037384",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "63a17e5c4c4fda21af073bd4881319d2a68e0cfeb8501b38ad71dbbd828f78af",
+    "textLength": 5720,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "缠丝鸭蛋",
+      "province": "henan",
+      "city": "鹤壁",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

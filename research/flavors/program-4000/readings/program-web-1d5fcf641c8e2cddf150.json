@@ -1,0 +1,23 @@
+{
+  "id": "program-web-1d5fcf641c8e2cddf150",
+  "title": "[2026年]-平顶山市商务局",
+  "url": "https://swj.pds.gov.cn/contents/66065/470091.html",
+  "checked": "2026-11-14",
+  "responseSha256": "f9f8e999ffb6d1c1da78eff7bbbbcd4115b76014a81050b2113c0d167723f662",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b16143bf7033b5991ac2956088f9f0afbf0cf6cf0960f65b52f08e5adcbcc3c1",
+    "textLength": 4783,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "郏县饸饹",
+      "province": "henan",
+      "city": "平顶山",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

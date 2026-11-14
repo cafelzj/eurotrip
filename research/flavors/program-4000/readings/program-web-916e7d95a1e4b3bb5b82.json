@@ -1,0 +1,23 @@
+{
+  "id": "program-web-916e7d95a1e4b3bb5b82",
+  "title": "金山区_上海市人民政府",
+  "url": "https://www.shanghai.gov.cn/jinshan/index.html",
+  "checked": "2026-11-14",
+  "responseSha256": "ce616b3ac7d328f746fe289fbd80cff46dca63edb33f9fae28fcdf8abdf33657",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "692c722bf2c6ba93d2b19676b8d8d4cfac74339dd49777061344e6dba0ea69f0",
+    "textLength": 8830,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枫泾丁蹄",
+      "province": "shanghai",
+      "city": "上海",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

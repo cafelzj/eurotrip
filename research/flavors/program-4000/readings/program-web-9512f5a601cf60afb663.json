@@ -1,0 +1,23 @@
+{
+  "id": "program-web-9512f5a601cf60afb663",
+  "title": "湖北日报报道：荆楚味道 香飘天下——湖北省农产品区域公用品牌展示--湖北省农业农村厅",
+  "url": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202009/t20200922_2919480.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "590deea62e3390c5b06850c94b89809b073b6dd9c50b13aa6a313a076119178e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "edf7ab170432f0a1219aa190cd301a459130d00fd1460617ec201989947422ed",
+    "textLength": 4407,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "老河口砂梨",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

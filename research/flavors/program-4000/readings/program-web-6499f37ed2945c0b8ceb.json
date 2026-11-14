@@ -1,0 +1,31 @@
+{
+  "id": "program-web-6499f37ed2945c0b8ceb",
+  "title": "食品经济产业发展潜力报告_鸡西市重点产业发展潜力报告_ 鸡西市人民政府",
+  "url": "https://www.jixi.gov.cn/jixi/c100028/202310/c06_272893.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "2c97c2b44d05e12d4242054416b69a0eb4cb3b637e8938e6d2a02d5555800a56",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "020352ed2b9f7f360059daf08033f0bdd70b24072700e922c4c21e306a630c31",
+    "textLength": 1399,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "鸡东大米",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "虎林大米",
+      "province": "heilongjiang",
+      "city": "鸡西",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

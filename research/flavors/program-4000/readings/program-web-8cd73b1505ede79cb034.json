@@ -1,0 +1,23 @@
+{
+  "id": "program-web-8cd73b1505ede79cb034",
+  "title": "常德市市场监督管理局关于印发《常德市开展“农超企”对接保障中小微企业生活物资需求实施细则》的通知_部门文件_履职依据_信息公开_常德市市场监督管理局",
+  "url": "https://scjg.changde.gov.cn/zwgk/public/6617367/8284124.html",
+  "checked": "2026-11-14",
+  "responseSha256": "fe4d781ec6892365eb3e0307a561feb6075cb8e2ad5093de103938c03a294100",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "b2598488304c1ab632103a231599372b85eceddfb4165f64e17510504b18b924",
+    "textLength": 22075,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "酱板鸭",
+      "province": "hunan",
+      "city": "常德",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

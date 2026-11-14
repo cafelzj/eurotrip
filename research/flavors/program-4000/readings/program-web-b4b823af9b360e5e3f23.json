@@ -1,0 +1,23 @@
+{
+  "id": "program-web-b4b823af9b360e5e3f23",
+  "title": "武汉美食出战！人生苦短，再来一碗",
+  "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202402/t20240201_2354594.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "42b32aa2c380060ae16e18cbcf884c16fb44fa40105c3b3880bb2e72c4122c2e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "24684949a63b3cd73a7521cdc982097ae4d8d99dc9b03ab5c02cc07b039b6322",
+    "textLength": 1526,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "糊汤粉",
+      "province": "hubei",
+      "city": "武汉",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

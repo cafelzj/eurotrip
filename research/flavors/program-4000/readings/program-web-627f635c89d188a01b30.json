@@ -1,0 +1,23 @@
+{
+  "id": "program-web-627f635c89d188a01b30",
+  "title": "文旅部推荐！永州4道美食，1条线路入选！_美食特产_永州政府网",
+  "url": "https://yzcity.gov.cn/cnyz/mstc/202408/aae15ca942ae454f984a30a217edfeeb.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "15097a0658095156f93fc624bdad4bbfd6e2ffe95015ef5b9e3cf1da635d8f77",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "6596f22e9c058c5ab92494f3b704df1a872a900db9927754c4c25571aa1ac782",
+    "textLength": 5232,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "九嶷山兔",
+      "province": "hunan",
+      "city": "永州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

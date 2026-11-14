@@ -1,0 +1,23 @@
+{
+  "id": "program-web-44d56b0323304aaf189f",
+  "title": "花博会、温泉、粉黛花海、贡梨……济南商河这个宝藏地国庆假期必须安排！_摄影_商河县_王平",
+  "url": "https://www.sohu.com/a/724436465_121106991",
+  "checked": "2026-11-14",
+  "responseSha256": "4a109914b65c9b7ea5c4aa2f8229e9cc9ec9c8818181080f8a92ed191d368d72",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e8b4a3c99c3ba8a533bb264d4a031d06f821fafc40ffde1d7273b0052571f658",
+    "textLength": 5369,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "糖酥火烧",
+      "province": "shandong",
+      "city": "济南",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

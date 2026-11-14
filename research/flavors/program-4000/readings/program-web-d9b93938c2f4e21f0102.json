@@ -1,0 +1,23 @@
+{
+  "id": "program-web-d9b93938c2f4e21f0102",
+  "title": "《玉环市全域旅游发展规划》",
+  "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3171/site/attach/0/79927ba8917d46269eb6e41807ff4dce.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "f6c4dc8473f9aec104ab0d22e59da78b9cde26e435abe3622892da787d2e18ca",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e67b6a0da04184f59c97c2c8b9ef12ebab255f2ba2a323cebf78a96d0ef6f060",
+    "textLength": 160147,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "玉环文旦",
+      "province": "zhejiang",
+      "city": "台州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

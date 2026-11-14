@@ -1,0 +1,23 @@
+{
+  "id": "program-web-faadabd86b268f8d42be",
+  "title": "湖北各地最具代表性的特色美食，你都吃过几种？",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=-1&cpid=666&ctype=news&docid=1051227OCMS848be26390aabdeb_si_-2&dy_scenario=relate&ifl=zh_CN&r=CN&tn=b46ceeaf3bb94349e589dc91f649c544e49e56b40ebdf67bbd09bf3554e127ca&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "1677181c7051fca8085e72656672ad41a95314fce17bd91d56d84e34e432b3d0",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c3e6554d875e73eb9968f488b7f13c1899f36d3cb5da836bad49f670696e0803",
+    "textLength": 1290,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "广水滑肉",
+      "province": "hubei",
+      "city": "随州",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

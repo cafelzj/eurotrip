@@ -1,0 +1,23 @@
+{
+  "id": "program-web-aab2563b5ea3c043139b",
+  "title": "金华东阳市8大推荐美食，这些美食值得品尝",
+  "url": "https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?channel=HW_NORMALNESTEDFEED_ZH&cpid=666&ctype=news&docid=105126696c0dd128b13be395cb76ec030dadf50&dy_scenario=relate&r=CN&tn=51cc232dcd157404cf51a524e392baea70ba2f07de08f362ca1d487b7f5f76f5&to_app=hwbrowser",
+  "checked": "2026-11-14",
+  "responseSha256": "34b6c1fa97280ff91ce1709d11b21003890ec8fe52c33108fd5703108ad5977f",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "06b18650f556ee96866e87738509111c3d6962b669bda03f726adf7e968c0917",
+    "textLength": 1025,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "上卢馄饨",
+      "province": "zhejiang",
+      "city": "金华",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

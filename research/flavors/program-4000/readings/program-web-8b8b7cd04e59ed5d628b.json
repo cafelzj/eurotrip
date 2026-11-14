@@ -1,0 +1,39 @@
+{
+  "id": "program-web-8b8b7cd04e59ed5d628b",
+  "title": "官宣！“来许昌 够开心” 2026许昌六条秋季精品旅游线路发布",
+  "url": "https://xuchang.gov.cn/zjxc/005010/20260918/b92e7ebe-c24d-40cd-b4d4-245a9b22040d.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a6d28075b779558774ef75819e1f1c1b2a4992718e34d7cd88b2f23ba56084d6",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "da7c391d80982c44e71f38ac740743c853e8273f6836e3ea833deb017e812e00",
+    "textLength": 3797,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "襄城焖面",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "禹州粉条",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "禹州十三碗",
+      "province": "henan",
+      "city": "许昌",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

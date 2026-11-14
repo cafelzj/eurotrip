@@ -1,0 +1,23 @@
+{
+  "id": "program-web-e8bd5d841e42394e947b",
+  "title": "南通特产 - 正宗江苏南通本土特产名录〖中华特产网南通特产大全〗",
+  "url": "https://www.zhtechan.cn/nantong/",
+  "checked": "2026-11-14",
+  "responseSha256": "07e7d0d6ad760de56a8173a97753fe523e7ba8fde270b01ef77986533958062e",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "43263cecc4bc686d88466e9b3de385f922bccc35658224004eadb339f2f0ce18",
+    "textLength": 1047,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "白蒲黄酒",
+      "province": "jiangsu",
+      "city": "南通",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

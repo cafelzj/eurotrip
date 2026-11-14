@@ -1,0 +1,23 @@
+{
+  "id": "program-web-3fcd5446773f9c10a886",
+  "title": "[荆门]钟祥发布“蟠龙菜”区域公用品牌--湖北省农业农村厅",
+  "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202412/t20241226_5475666.shtml",
+  "checked": "2026-11-14",
+  "responseSha256": "356b672dc6c5f595cb389744b96c327f5739250013dd18c3de6e9ba11aef2a06",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "14a55111e242ef5c0d719ca8306b5822750b0a73fdbdfa0ed8c73e6d9b7e8af9",
+    "textLength": 1409,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "蟠龙菜",
+      "province": "hubei",
+      "city": "荆门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

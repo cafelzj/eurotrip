@@ -1,0 +1,23 @@
+{
+  "id": "program-web-22807d5df22fc7cb723b",
+  "title": "美食 - 红安",
+  "url": "https://runwu.net.cn/foods/",
+  "checked": "2026-11-14",
+  "responseSha256": "743d3974fa9e8a17a8ce0f7ce44300590445fae9aaccccc49dd924bc8bd91be4",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "e20e4fe3ec887074fb83586c06defdf09cc09a5d3361c7ba754c4a223a0d72a1",
+    "textLength": 1250,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "红安绿豆粑",
+      "province": "hubei",
+      "city": "黄冈",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

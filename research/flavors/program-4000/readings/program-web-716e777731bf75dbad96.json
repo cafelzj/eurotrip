@@ -1,0 +1,23 @@
+{
+  "id": "program-web-716e777731bf75dbad96",
+  "title": "京山市美食攻略_京山市有什么特色小吃_京山市美食推荐排行_途牛移动站",
+  "url": "https://m.tuniu.com/g41469/cuisine/",
+  "checked": "2026-11-14",
+  "responseSha256": "d695ee09f9ea2237a7c93818d1c4fecf5ed635b617d8b2c8e14cd24b8eebbf20",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "c1f9727bfac6536e8539c2866440e28e4aaba5fe2cc9e5cfe407004656a39ed1",
+    "textLength": 747,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "京山桥米",
+      "province": "hubei",
+      "city": "荆门",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

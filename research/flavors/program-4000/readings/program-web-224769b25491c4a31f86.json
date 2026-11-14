@@ -1,0 +1,23 @@
+{
+  "id": "program-web-224769b25491c4a31f86",
+  "title": "江城市民有口福啦！襄阳优质农产品强势入驻武商梦时代广场",
+  "url": "https://www.cfsn.cn/news/detail/631/280813.html?view=pc",
+  "checked": "2026-11-14",
+  "responseSha256": "af28cafaf92d89d2dab4a01c753cce76b4a1da86af0b2c492f2a5167a0abc0a9",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "82dcfed80afc421383ddb7ec26ed5e9b150d15e69d8933896d3836d80be21aef",
+    "textLength": 2788,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "枣阳皇桃",
+      "province": "hubei",
+      "city": "襄阳",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

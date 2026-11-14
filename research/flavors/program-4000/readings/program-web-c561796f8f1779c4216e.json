@@ -1,0 +1,23 @@
+{
+  "id": "program-web-c561796f8f1779c4216e",
+  "title": "芜湖市五道菜品入选省级招牌菜_芜湖市文化和旅游局",
+  "url": "https://ct.wuhu.gov.cn/xwzx/bmyw/8267834.html",
+  "checked": "2026-11-14",
+  "responseSha256": "a58ccafd609ba913d69f1a292bfbac0617ac9201d15b07cc6eb74bb31c19c6ce",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "4cfbaece236c9174e9eb5f3a42bbc8098f02cf8140d12a6aee4c2391abccd32d",
+    "textLength": 859,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "虾籽面",
+      "province": "anhui",
+      "city": "芜湖",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

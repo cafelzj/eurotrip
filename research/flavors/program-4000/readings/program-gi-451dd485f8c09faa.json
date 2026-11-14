@@ -1,0 +1,69 @@
+{
+  "id": "program-gi-451dd485f8c09faa",
+  "title": "地理标志公告 · 2010年第71号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC71%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "e81e5a4cf378d365448c1e99a118e6511745cd25d9b0c8d58133d40b845886bc",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC71%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "e81e5a4cf378d365448c1e99a118e6511745cd25d9b0c8d58133d40b845886bc",
+    "textSha256": "d4fa26d364dedc66defb5cf192b8d09eb4b79cc12c0980feb04b48024805c4c1",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "晋州鸭梨",
+      "province": "hebei",
+      "city": "石家庄",
+      "locality": "晋州市",
+      "type": "ingredients",
+      "sectionSha256": "580227b1822de032f99a3372844a8d180c3263002ce4a0d3045560646a9bb8b9",
+      "headingOffset": 1586,
+      "scope": "晋州鸭梨地理标志产品保护范围为河北省晋州市东卓宿镇、周家庄乡、东里庄乡、总十庄镇、马于镇、营里镇、循环经济园区、桃园镇等8个乡镇现辖行政区域。",
+      "variety": "鸭梨",
+      "sensory": "果实呈倒卵圆形,近果梗处有一鸭头状突起(鸭突),果面光滑,绿黄色,果点小,皮薄,石细胞少,果肉细脆",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "建三江大米",
+      "province": "heilongjiang",
+      "city": "佳木斯",
+      "locality": "佳木斯相关产区",
+      "type": "ingredients",
+      "sectionSha256": "fca6562fe02e281a1291e2ae8c8c84946b27204117233882e2e435b4477517d0",
+      "headingOffset": 2077,
+      "scope": "建三江大米地理标志产品保护范围为黑龙江省农垦总局建三江分局七星农场、八五九农场、创业农场、红卫农场、胜利农场、前锋农场、勤得利农场、二道河农场、红河农场、大兴农场、鸭绿河农场、浓江农场、前哨农场、前进农场、青龙山农场等15个国营农场现辖行政区域。",
+      "variety": "选用空育131等通过国家或地方审定适应当地种植的耐冷品种",
+      "sensory": "(1)组织形态和色泽:米粒晶莹透亮,光泽度好,粒型适中,垩白粒率小,垩白度小,视觉感官好。(2)滋味和气味:蒸煮时饭有清香味,米饭饭粒晶莹,口感绵软油润有弹性,饭味清香适口、香味持久,有光泽,口感好,米饭冷后不返生",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "云和黑木耳",
+      "province": "zhejiang",
+      "city": "丽水",
+      "locality": "云和县",
+      "type": "ingredients",
+      "sectionSha256": "5dbbca1338aa981ac7301fe9a303b2bf92cde8390294bcb725e56fb213397d82",
+      "headingOffset": 2948,
+      "scope": "云和黑木耳地理标志产品保护范围为浙江省云和县现辖行政区域。",
+      "variety": "段木栽培选择“新科”;人造耳木栽培选择“新科”、“916”",
+      "sensory": "耳面黑色或或深褐色,有光泽感。单片耳状、肉厚,耳片厚度1.2cm以上。口感佳,具特有糯性。耐泡、浸泡系数大,耐煮",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    },
+    {
+      "name": "广武大葱",
+      "province": "henan",
+      "city": "郑州",
+      "locality": "荥阳市",
+      "type": "ingredients",
+      "sectionSha256": "166ad47bdf5dace69464d699233d789d38f607d4c576d0decf4a4f768a1f9890",
+      "headingOffset": 3791,
+      "scope": "广武大葱地理标志产品保护范围为河南省荥阳市广武镇、高村乡、王村镇、城关乡等4个乡镇现辖行政区域(二)",
+      "variety": "长白条",
+      "sensory": "葱白致密紧实,质地脆嫩,辛辣味淡",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

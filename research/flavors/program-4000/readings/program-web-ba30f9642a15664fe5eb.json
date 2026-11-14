@@ -1,0 +1,31 @@
+{
+  "id": "program-web-ba30f9642a15664fe5eb",
+  "title": "福建·武夷山春季“喊山采茶”民俗体验之旅",
+  "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/fujian/detail/6822.html",
+  "checked": "2026-11-14",
+  "responseSha256": "b401eb985b5b57b1ea616ddbd06e848cd7c56c74ee77306129f9100a3eb73bb2",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "8e5fe0526adb92c3eb2f25d3a938ce46f76ed5e62a2433bae3b086d0a825079f",
+    "textLength": 1983,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "大红袍",
+      "province": "fujian",
+      "city": "南平",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "金骏眉",
+      "province": "fujian",
+      "city": "南平",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

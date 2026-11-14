@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-ad34ddb3f5b0a4ee",
+  "title": "地理标志公告 · 2007年第191号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "10cb1fa34bc831e033d0c614c559422623354d76cfcad5d9e62432ef217c0151",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC191%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "10cb1fa34bc831e033d0c614c559422623354d76cfcad5d9e62432ef217c0151",
+    "textSha256": "9beb8850d6e185a90c0977a5f8e619987fb026a5f2cd90f85474688f47d6a45b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "湘西猕猴桃",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "吉首市、泸溪县、凤凰县、花垣县、保靖县、古丈县、永顺县、龙山县",
+      "type": "ingredients",
+      "sectionSha256": "80aa3093f3984292c533be6ae91d62e13a5e23ce45f1bff0d9974ed82b4eba05",
+      "headingOffset": 0,
+      "scope": "湘西猕猴桃地理标志产品保护范围以湖南省湘西土家族苗族自治州人民政府《关于划定“湘西猕猴桃”地理标志产品地域保护范围的函》(州政函〔2007〕85号)提出的范围为准,为湖南省湘西自治州吉首市、凤凰市、永顺县、保靖县、花垣县、古丈县、龙山县、泸溪县等8个县市现辖行政区域",
+      "variety": "米良系列、红阳",
+      "sensory": "如表1、表2所示。表1米良系列猕猴桃感官指标项目指标外形果实美观整齐,果形呈长圆柱形,果皮棕褐色,被长茸毛。果重80-120克。果肉色泽果心淡黄色,果肉黄绿色。口感汁液多,具清香,酸甜适口,风味纯正,具米良系列猕猴桃独有特征。表2红阳猕猴桃感官指标项目指标外形果实美观整齐,果形呈短圆柱形,果皮褐绿色。果重50-100克。果肉色泽果心鲜红色,果肉黄色。口感肉质红嫩,甜度适中,风味纯正,具红阳猕猴桃独有特征",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

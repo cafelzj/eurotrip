@@ -1,0 +1,23 @@
+{
+  "id": "program-web-6cc4a398a8b56b537a04",
+  "title": "芜湖小吃_灯塔慈善救助基金会",
+  "url": "https://www.dengta.org.cn/m/nl277.html",
+  "checked": "2026-11-14",
+  "responseSha256": "6a010de99f41f83c795d7180ed17c59bddab5a564b7f3d428196faad824ae41c",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "eb9c893c1ec8df418cd61adbfbe5ee17fedc08bee1efeb848c7d37b8e495ac25",
+    "textLength": 1277,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "红皮烤鸭",
+      "province": "anhui",
+      "city": "芜湖",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}

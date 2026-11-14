@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-38178957d409a433",
+  "title": "地理标志公告 · 2007年第207号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC207%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "0352c769f454f45669dea74b39030347e93b8f26ecacfd682df56b055e129b36",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC207%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "0352c769f454f45669dea74b39030347e93b8f26ecacfd682df56b055e129b36",
+    "textSha256": "0e9d0ded00576e359ed4ae20f7a9e2d2a77bca4180387b91f5dcd397ed62b9a3",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "古丈毛尖",
+      "province": "hunan",
+      "city": "湘西州",
+      "locality": "古丈县",
+      "type": "tea",
+      "sectionSha256": "7b9cb1ba8ce7824488a60e10466adaf79477fdba1bdd3a634927a44f9cf7d8f3",
+      "headingOffset": 0,
+      "scope": "古丈毛尖地理标志产品保护范围以湖南省古丈县人民政府《关于划定“古丈毛尖”茶原产地域保护范围的函》(古政函〔2007〕8号)提出的范围为准,为湖南省湘西自治州古丈县古阳镇、双溪乡、默戎镇、坪坝乡、山枣乡、河蓬乡、高望界乡、高峰乡、罗依溪镇、红石林镇、断龙山乡、岩头寨乡等12个乡镇现辖行政区域",
+      "variety": "中小叶适制品种",
+      "sensory": "表1古丈毛尖质(等)级参数表鲜叶外形内质等级标准条索色泽整碎净度香气滋味汤色叶底紧细圆直、白鲜爽特级一芽隐翠匀整洁净嫩香高锐持久浅绿嫩匀毫显露醇甘一芽一叶一级紧结、显毫翠绿匀整洁净嫩香高长醇爽浅绿较嫩匀初展一芽一叶较紧结、黄绿较二级绿润较匀整匀净栗香较高长醇较爽黄绿开展显毫匀",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

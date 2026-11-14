@@ -1,0 +1,30 @@
+{
+  "id": "program-gi-b2ab3b4adfc1dd2e",
+  "title": "地理标志公告 · 2007年第66号",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC66%E5%8F%B7.pdf",
+  "checked": "2026-11-14",
+  "responseSha256": "72a3dbfd18dbd4a97cc1f1df2a7c4423b04681cd7f168cd1a3cab331f794eb11",
+  "readMethod": "programmatic-pdf-text-extraction-and-product-section-check",
+  "provenance": {
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC66%E5%8F%B7.pdf",
+    "mirrorPdfSha256": "72a3dbfd18dbd4a97cc1f1df2a7c4423b04681cd7f168cd1a3cab331f794eb11",
+    "textSha256": "9adb472ff87d66bcd706582c647713d7dc1902827e72caaf02d77aa225d60dac",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。"
+  },
+  "facts": [
+    {
+      "name": "丁岙杨梅",
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "瓯海区",
+      "type": "ingredients",
+      "sectionSha256": "06f4d8eb724eb74732bba42211bcae7874a1945f49e5110025bd2be1725f4958",
+      "headingOffset": 0,
+      "scope": "丁岙杨梅地理标志产品保护范围以温州市瓯海区人民政府《关于丁岙杨梅原产地域产品保护产区划定的意见》(温瓯政[2005]38号)提出的范围为准,为浙江省温州市瓯海区现辖行政区域",
+      "variety": "",
+      "sensory": "果实肉柱饱满圆钝,肉嫩而脆不刺口,色泽紫黑发亮;果柄长达2.5cm至3.5cm,果柄基部有一红色园球型突起,被誉为“红盘绿蒂”;平均单果重≥12g",
+      "reviewScope": "核对公告中的产品名称、保护地域、分类及提取到的原料、感官、生产信息；不证明任意商家的产品获标、当前许可或实际批次品质。"
+    }
+  ]
+}

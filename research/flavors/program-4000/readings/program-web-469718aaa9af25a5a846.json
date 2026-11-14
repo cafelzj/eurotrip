@@ -1,0 +1,39 @@
+{
+  "id": "program-web-469718aaa9af25a5a846",
+  "title": "聊城学小吃手艺去哪？运河老城的味道，便宜到你不好意思",
+  "url": "https://www.zhenxuan168.com/page/articleDe.php?artID=13174",
+  "checked": "2026-11-14",
+  "responseSha256": "73f5f7954a39a61d2f4407dd8ae02223e014941a89f0ad3e5a834ade63d7a5dd",
+  "readMethod": "programmatic-body-name-and-locality-cross-check",
+  "provenance": {
+    "textSha256": "05d207063a93c5ecc926ffde049a6e7e4373a5544a1cca49c5bc4b6aad99b75a",
+    "textLength": 7413,
+    "scope": "实际下载并提取正文；未用搜索摘要代替正文，不声明逐页人工阅读全文。"
+  },
+  "facts": [
+    {
+      "name": "阳谷布袋鸡",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "高唐驴肉",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    },
+    {
+      "name": "临清烧卖",
+      "province": "shandong",
+      "city": "聊城",
+      "nameInReadBody": true,
+      "localityInContext": true,
+      "reviewScope": "只核对可读正文中的名称及相邻地域语境；不据此认定完整配方、具体年份、现售或品牌授权。"
+    }
+  ]
+}
