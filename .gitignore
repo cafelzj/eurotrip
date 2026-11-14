@@ -1,0 +1,11 @@
+# Rebuildable development files.
+__pycache__/
+*.py[cod]
+node_modules/
+playwright-report/
+test-results/
+.DS_Store
+
+# Local originals and full search responses are preserved but not published.
+/research/.local/
+/work/

@@ -1,0 +1,1076 @@
+{
+  "batch": "2026-11-14-pre-organization",
+  "createdAt": "2026-11-14T11:57:28.834516+00:00",
+  "archive": "research/.local/archives/2026-11-14-pre-organization.tar.gz",
+  "archiveSha256": "79cb2ebf8de8521f566ccb8a51caf7cdf039fdc16c86b9a89f2ae71a7b299793",
+  "originalDirectories": [
+    "/workspace/work/flavor-research-20261114",
+    "/workspace/work/jiangsu-dairy"
+  ],
+  "fileCount": 212,
+  "totalUncompressedBytes": 9286691,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "flavor-research-20261114/__pycache__/fetch.cpython-312.pyc",
+      "bytes": 4681,
+      "sha256": "c5119cb2c2b46d770ccbd6d6c16cc06f5612003c0b349cb94d0fd420a4bd6f0a"
+    },
+    {
+      "member": "flavor-research-20261114/ah-pomegranate.html",
+      "bytes": 16011,
+      "sha256": "6ea2d2177bdc2507b7ba0cf4113f65da0943fa1271217fb8778e6ae5c7473ff4"
+    },
+    {
+      "member": "flavor-research-20261114/ah-pomegranate.json",
+      "bytes": 262,
+      "sha256": "ebdb0f4e0e4e57f3cd12904ce718873cd7f08012ccfb93dd570a6f3c03ed09e8"
+    },
+    {
+      "member": "flavor-research-20261114/ah-pomegranate.txt",
+      "bytes": 2159,
+      "sha256": "e1a8eec94ac85eef3f9fef3a8f30c761be1849a435a9efc9c21305cf4a25c38e"
+    },
+    {
+      "member": "flavor-research-20261114/apply.py",
+      "bytes": 8737,
+      "sha256": "0980929351a024ca72e792b65a26af74db30576b648a713100375740415acb28"
+    },
+    {
+      "member": "flavor-research-20261114/bj-mtg.html",
+      "bytes": 357590,
+      "sha256": "96b1caf6e4256c1d956cf51a3e12b032555e0d323d453c3441622b9ae9105bd8"
+    },
+    {
+      "member": "flavor-research-20261114/bj-mtg.json",
+      "bytes": 332,
+      "sha256": "fd3b15cd2068d9a242f916707239c8477569edeed3701abd74a3924ba33dfd78"
+    },
+    {
+      "member": "flavor-research-20261114/bj-mtg.txt",
+      "bytes": 65324,
+      "sha256": "eb084cd052b5b17f32fe27b1fdca7c76ba8333d974b4354e0bd4c29313b31238"
+    },
+    {
+      "member": "flavor-research-20261114/bj-produce.html",
+      "bytes": 59648,
+      "sha256": "3c11cd1920d08d28199f5be8967d33a159d2307803e22655367cadd49756b41d"
+    },
+    {
+      "member": "flavor-research-20261114/bj-produce.json",
+      "bytes": 291,
+      "sha256": "c82a1d30b434060f0d5f3a1eedb2d55d8b647bb6b9fbd7962108a3919a358c50"
+    },
+    {
+      "member": "flavor-research-20261114/bj-produce.txt",
+      "bytes": 12762,
+      "sha256": "d47a9e0e94c5ae3f9dc387327ad5df0bf017c0080f7160f57429dffb907750e6"
+    },
+    {
+      "member": "flavor-research-20261114/bj-rabbit.html",
+      "bytes": 31249,
+      "sha256": "aa4d3ce97f309c87e921a996f531535162364fd452e163b73b1b42db30aa9177"
+    },
+    {
+      "member": "flavor-research-20261114/bj-rabbit.json",
+      "bytes": 319,
+      "sha256": "793fa6970794e565c7837e63ecdd13e6cdf650dfa2773683870612d3929acf05"
+    },
+    {
+      "member": "flavor-research-20261114/bj-rabbit.txt",
+      "bytes": 1657,
+      "sha256": "3366031f27cf7e3f691a67a0892f7217c1c0c311cbc46150f6d4efd8141e0bf1"
+    },
+    {
+      "member": "flavor-research-20261114/cnipa-products.html",
+      "bytes": 12520,
+      "sha256": "a93b76c41299703638011a65d6fb2811fa8d4caaad2d44b27c885adb9de6a024"
+    },
+    {
+      "member": "flavor-research-20261114/cnipa-products.json",
+      "bytes": 285,
+      "sha256": "3148e721797b618a3ff142879483825dbd6bcaf8d5f0843f692f283eb1e5e6c2"
+    },
+    {
+      "member": "flavor-research-20261114/cnipa-products.txt",
+      "bytes": 5640,
+      "sha256": "4e8514af4244bb7c7fce164fc14e2dafd8f3d160e2082a06e1f45c52bfe9f254"
+    },
+    {
+      "member": "flavor-research-20261114/craft-fj.html",
+      "bytes": 420207,
+      "sha256": "7a2bfdaba1ab8c2a10932c3efea00f65a53b02380b45da108631e2da80886bc4"
+    },
+    {
+      "member": "flavor-research-20261114/craft-fj.json",
+      "bytes": 331,
+      "sha256": "8b917726ba49780ef82097e20244a4f229fd23319646ba96057fa57348f06608"
+    },
+    {
+      "member": "flavor-research-20261114/craft-fj.txt",
+      "bytes": 13335,
+      "sha256": "6665839e82d793fd7474c58d9e1aa125af98ae65d974d8e27fdacb6db5827115"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hlj.html",
+      "bytes": 92934,
+      "sha256": "261df1e7c8bf6168dc061905f862b56bfbf001e5929d7c6c3a23246f9b6a1654"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hlj.json",
+      "bytes": 292,
+      "sha256": "4f542a3439ca6acd9c661c1b52f94199c2b1d195fbd2f528610545a507894be9"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hlj.txt",
+      "bytes": 12930,
+      "sha256": "1310e96819bc3bd1b9d5d17fe9a2c2cef4086414ef225ba3ffe205e7011f604f"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hubei.html",
+      "bytes": 746405,
+      "sha256": "5c094481579eb652ce05672d36440042a7737f3f5541881a7045d26ef5b18ebe"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hubei.json",
+      "bytes": 345,
+      "sha256": "57df1368e3762a75bd6afc018dfd7d8402e96391e6cac3b8a4dcaf58f50172c7"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hubei.txt",
+      "bytes": 46399,
+      "sha256": "76deb8fa7106eaf1038f34c91b53725ca0411fd04adc206427e07315e0469a79"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hunan.html",
+      "bytes": 28442,
+      "sha256": "1eece1963ddfa1c07d70cdd2f973087d9a598ada30cb7fb729efee5672c975ed"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hunan.json",
+      "bytes": 302,
+      "sha256": "cb76ba52e195ba99f404af72d8fbc2a1dcb741c2dae490c486da92b514ec63de"
+    },
+    {
+      "member": "flavor-research-20261114/craft-hunan.txt",
+      "bytes": 3477,
+      "sha256": "abeb25a6fb3b310baaf98c2255bf6621ae667b10767bfd840212e9a3e03c37c1"
+    },
+    {
+      "member": "flavor-research-20261114/craft-jl.html",
+      "bytes": 42688,
+      "sha256": "4303a66b2c1259ad19ee1fab7f475969e691a404f96b51085f19d470dcca61a5"
+    },
+    {
+      "member": "flavor-research-20261114/craft-jl.json",
+      "bytes": 291,
+      "sha256": "b25e0ad0164930c50e01e08fa9eb79bc0458f9425c16b6cac031c0b9814da9f1"
+    },
+    {
+      "member": "flavor-research-20261114/craft-jl.txt",
+      "bytes": 2864,
+      "sha256": "3af3fe6c36f043c87fd4b890c713e0e10964ac024e8fc28b8a0a19c46e346efb"
+    },
+    {
+      "member": "flavor-research-20261114/craft-national.html",
+      "bytes": 89024,
+      "sha256": "3d7f68443057355405a8eea45e414347866b20993abea793700ae29d3956cf8a"
+    },
+    {
+      "member": "flavor-research-20261114/craft-national.json",
+      "bytes": 308,
+      "sha256": "d7fe08467cf6b73a85c55d9699257ccf8bde28547be0d49400efcbcb296daaa2"
+    },
+    {
+      "member": "flavor-research-20261114/craft-national.txt",
+      "bytes": 61060,
+      "sha256": "8efa819d0803d6bc8f96fdd283030b5e0839d58f0af70cf27cd1bb9cc0e98689"
+    },
+    {
+      "member": "flavor-research-20261114/craft-sh.html",
+      "bytes": 134412,
+      "sha256": "3ab8e23e54ed02df245b2470eaef94d29569c95344cd640fca52118911465680"
+    },
+    {
+      "member": "flavor-research-20261114/craft-sh.json",
+      "bytes": 327,
+      "sha256": "014d24ef6f07283064ca2de3e5948a4e3bbe859158b0baf069418b474333ffea"
+    },
+    {
+      "member": "flavor-research-20261114/craft-sh.txt",
+      "bytes": 7343,
+      "sha256": "7c6fd7dcf740a28d6650aa42f4d8f4df31ee5d9692cb23ee5503ed83bef870c1"
+    },
+    {
+      "member": "flavor-research-20261114/curate.py",
+      "bytes": 49367,
+      "sha256": "032c6f0197c58e737ebde40a634d7f08554d30b6516420fd23235ea21801e1ab"
+    },
+    {
+      "member": "flavor-research-20261114/curated.json",
+      "bytes": 105355,
+      "sha256": "3e61d3581b7721ce5be0772921b1fa03a085233be1c1350703c3fccf871cc06f"
+    },
+    {
+      "member": "flavor-research-20261114/extra.json",
+      "bytes": 767,
+      "sha256": "4d5005f5db4a8cc206481d52bef5d12ffead44a4e44a329ef109b650c5b3c43f"
+    },
+    {
+      "member": "flavor-research-20261114/fetch.py",
+      "bytes": 1483,
+      "sha256": "7537c9a03ad4d60ba869fc0a42937dc323e1adf40ab973316fecc388e7f32dec"
+    },
+    {
+      "member": "flavor-research-20261114/filters-1661.png",
+      "bytes": 314364,
+      "sha256": "3a9375e30450b36b449ed2cdb6b8342515db6ee26c06d02df1a3d7328f5b7a2d"
+    },
+    {
+      "member": "flavor-research-20261114/filters-390.png",
+      "bytes": 89472,
+      "sha256": "53b8666b1374f9da827291137df03a7eef10561f6f3e6f7f6bb1c7ad8aa43832"
+    },
+    {
+      "member": "flavor-research-20261114/fj-dried.html",
+      "bytes": 18463,
+      "sha256": "e999bbf8ef198c90e5565091bad59b4742bd302995828848b3b5ea73e881cffd"
+    },
+    {
+      "member": "flavor-research-20261114/fj-dried.json",
+      "bytes": 273,
+      "sha256": "b8f413f4e6eba52c8bb485d4d55d13c09bc91ddd2b1fb6878232b41bbab0c980"
+    },
+    {
+      "member": "flavor-research-20261114/fj-dried.txt",
+      "bytes": 5213,
+      "sha256": "c1d83ae192f6c8f676fae39422836451b41a365cf5c233a91a18c9301daad7cf"
+    },
+    {
+      "member": "flavor-research-20261114/hb-produce.html",
+      "bytes": 43914,
+      "sha256": "80c1c46a6b4268c24c02757d266dfb2d1b0755c06bd1377a793ae926cdd781f2"
+    },
+    {
+      "member": "flavor-research-20261114/hb-produce.json",
+      "bytes": 404,
+      "sha256": "3f4edd5f025668c7cded488975c77a5da3a4e22911c00ffc47708d0feb1342bb"
+    },
+    {
+      "member": "flavor-research-20261114/hb-produce.txt",
+      "bytes": 1222,
+      "sha256": "fce70c3f666cc276557dc6d6f7e5a13317963af415ebed6beeb5e478de6bcdd7"
+    },
+    {
+      "member": "flavor-research-20261114/he-jujube.html",
+      "bytes": 15386,
+      "sha256": "fad6453287f53e0f858c0297daccb57866d33546678d4528651279368e415c77"
+    },
+    {
+      "member": "flavor-research-20261114/he-jujube.json",
+      "bytes": 386,
+      "sha256": "474e8ebcc2bb05b7365d1f8f8baa42e39563c7f3008040b38e09e03ff87a186c"
+    },
+    {
+      "member": "flavor-research-20261114/he-jujube.txt",
+      "bytes": 7255,
+      "sha256": "120bd54d28fccf5df7b62d20c4914f9c80c3a2128be2a5c1c6dca5a1f050b4ff"
+    },
+    {
+      "member": "flavor-research-20261114/he-wenxian.html",
+      "bytes": 9378,
+      "sha256": "ce0f2e69b106d33719f07b1803f75cbf0cdb33caae3af53b8013cdefc14300bf"
+    },
+    {
+      "member": "flavor-research-20261114/he-wenxian.json",
+      "bytes": 386,
+      "sha256": "a9382f0e1cd0aa33f53b4220525dd9a1e61fb03e6fe717268a990cc227f70de2"
+    },
+    {
+      "member": "flavor-research-20261114/he-wenxian.txt",
+      "bytes": 1408,
+      "sha256": "ba09bdc45b4f208d1372ffcb6c5d8a10c8d35f59d025291c2314cc57a43ff770"
+    },
+    {
+      "member": "flavor-research-20261114/hlj-produce.html",
+      "bytes": 23003,
+      "sha256": "bb78568690ef9feb09c756406f797eca093fd2b10de46e39b70c09555f2d9842"
+    },
+    {
+      "member": "flavor-research-20261114/hlj-produce.json",
+      "bytes": 284,
+      "sha256": "c5a7de72b3bf1e0669ebce95aa439f12f63faa4cbb173cc2b4b5f284115e7f24"
+    },
+    {
+      "member": "flavor-research-20261114/hlj-produce.txt",
+      "bytes": 3608,
+      "sha256": "ca9e92f24a6b059464c728184421427a89f568a75ac0139e2d8ec1eb5b632cd8"
+    },
+    {
+      "member": "flavor-research-20261114/hn-lotus.html",
+      "bytes": 29187,
+      "sha256": "cfd84bff77817ad3f6cd7601e3597ea44aa807cb9a38794522e60d8c60f4eb0c"
+    },
+    {
+      "member": "flavor-research-20261114/hn-lotus.json",
+      "bytes": 313,
+      "sha256": "f7017d875dd253c0123d609e52881e3dd19483e11e966fa53306619312b0725a"
+    },
+    {
+      "member": "flavor-research-20261114/hn-lotus.txt",
+      "bytes": 2819,
+      "sha256": "cb61a65412fba07f55f65b760658d16cd955759d714297f96c3a7730d1296fb0"
+    },
+    {
+      "member": "flavor-research-20261114/hn-produce.html",
+      "bytes": 14074,
+      "sha256": "739d0e5bbed24dc32e6ca54a84254248128194cfea8551ad15972b4d8f66f5e6"
+    },
+    {
+      "member": "flavor-research-20261114/hn-produce.json",
+      "bytes": 321,
+      "sha256": "9f48d7fdde9004071ebfb6159fd5c5c2a1c38b9275e83c431de349cfa376a13e"
+    },
+    {
+      "member": "flavor-research-20261114/hn-produce.txt",
+      "bytes": 6166,
+      "sha256": "4a91a6c4a3624eb34c04e58ce0ee841cc79bd76ec907f50568f3337561c741ba"
+    },
+    {
+      "member": "flavor-research-20261114/hu-produce.html",
+      "bytes": 196631,
+      "sha256": "37fd28664d822fe1f1d21cbeded68b6463acd5b06959323b4448735e36d3d002"
+    },
+    {
+      "member": "flavor-research-20261114/hu-produce.json",
+      "bytes": 303,
+      "sha256": "9f6a83227607954edc71079e4e8a2a319c96f3c4ba1bb6fe0aa5eb0d459e63b6"
+    },
+    {
+      "member": "flavor-research-20261114/hu-produce.txt",
+      "bytes": 10382,
+      "sha256": "c1d9ac414498214935ca8bea3ac9d1665d6901edfd5f67cb55032b5effb95139"
+    },
+    {
+      "member": "flavor-research-20261114/jl-produce.html",
+      "bytes": 333906,
+      "sha256": "26f58de86cdef4f9700485478e25bc9a4548bef808ac879422d50a2fe6cdd85d"
+    },
+    {
+      "member": "flavor-research-20261114/jl-produce.json",
+      "bytes": 323,
+      "sha256": "d12f5ad30e8a5329f3efb0e27bc886ed5e82f5d05e386a379391aab91a44a353"
+    },
+    {
+      "member": "flavor-research-20261114/jl-produce.txt",
+      "bytes": 11907,
+      "sha256": "5921a5c9f01c2334e048079f9ef89199aad0e0eef563d79c5f78a62616651ce1"
+    },
+    {
+      "member": "flavor-research-20261114/ln-produce.html",
+      "bytes": 164605,
+      "sha256": "8184839d443cf67449c2637514fbec8babe7514d74d509e6cc62a20a8684f800"
+    },
+    {
+      "member": "flavor-research-20261114/ln-produce.json",
+      "bytes": 333,
+      "sha256": "267796df083b836ea4a3fb885a820c394a44e4742e0db718f425ff68c3580d61"
+    },
+    {
+      "member": "flavor-research-20261114/ln-produce.txt",
+      "bytes": 4757,
+      "sha256": "b39b0b8efabd0aa91de36eee6c8162136940da2988b568b762d4b0e05df08fad"
+    },
+    {
+      "member": "flavor-research-20261114/ln-tomato.html",
+      "bytes": 17456,
+      "sha256": "fff91a9b268aea32eaf76fbe73b48ae564f0ee19d6a6a4c9f3422eb6c382b2ae"
+    },
+    {
+      "member": "flavor-research-20261114/ln-tomato.json",
+      "bytes": 285,
+      "sha256": "5e644226f35ec3ce1df8a9f709a780b2c8d28b0abad18d50e80f0e04383da0d2"
+    },
+    {
+      "member": "flavor-research-20261114/ln-tomato.txt",
+      "bytes": 1902,
+      "sha256": "d0a327494285849949dcaa5058a290da3a88b0913badb8fab59c87bdc2710899"
+    },
+    {
+      "member": "flavor-research-20261114/script-bytecode/build-flavor-research-queue.cpython-312.pyc",
+      "bytes": 7667,
+      "sha256": "971adc2bd19eb091959d2cb6717bd7d26bf6c8cc0e1b73defd9870f888b6bdee"
+    },
+    {
+      "member": "flavor-research-20261114/script-bytecode/refresh-flavor-coverage.cpython-312.pyc",
+      "bytes": 6141,
+      "sha256": "42be0bf5467049ea1148fb972974b53afdfea19da71a89e440b46807388e0ffd"
+    },
+    {
+      "member": "flavor-research-20261114/script-bytecode/search-flavor-counties.cpython-312.pyc",
+      "bytes": 6017,
+      "sha256": "60051a64040e98a541a81e030d75a54af866979e8acbd4e9553a1f0954c6d2e2"
+    },
+    {
+      "member": "flavor-research-20261114/sd-produce.html",
+      "bytes": 25757,
+      "sha256": "f8134698a1cad97f94941cc32d2e0f7a7f39fb2ca97ac5e36d70d107dc8aa518"
+    },
+    {
+      "member": "flavor-research-20261114/sd-produce.json",
+      "bytes": 283,
+      "sha256": "42f9703c5720b220c058809c20014349a2b96901ab0d92720ac32d337d8f772f"
+    },
+    {
+      "member": "flavor-research-20261114/sd-produce.txt",
+      "bytes": 4874,
+      "sha256": "045537b8e8485237e86c25070837d521eba7bf67859ffd66e9e5dd0f735bc89e"
+    },
+    {
+      "member": "flavor-research-20261114/sh-produce.html",
+      "bytes": 28590,
+      "sha256": "00c3516e2980812fa49af8b3885b549dbcbff286eeaa223ec0307c0ad063e741"
+    },
+    {
+      "member": "flavor-research-20261114/sh-produce.json",
+      "bytes": 279,
+      "sha256": "ca6b3bb39c07a09e3af815242299916a725af5aa5c3b6c31e7314b4f831f9b2f"
+    },
+    {
+      "member": "flavor-research-20261114/sh-produce.txt",
+      "bytes": 5216,
+      "sha256": "43b01afb442d38f17e73391f21ae64926bb8cc63c74052f5290d9628808b48d6"
+    },
+    {
+      "member": "flavor-research-20261114/sources.json",
+      "bytes": 1738,
+      "sha256": "22cc5932c6ee426cd287f952f92bb1ce2950baa63994c5b1e9e825b0e65dbc96"
+    },
+    {
+      "member": "flavor-research-20261114/sx-produce.html",
+      "bytes": 18122,
+      "sha256": "657bc8d0fc03a0fd4c5747c02a314d7bbe156c373c7bcfe6ef274213de5c9e15"
+    },
+    {
+      "member": "flavor-research-20261114/sx-produce.json",
+      "bytes": 291,
+      "sha256": "106cc400f79f33df2a8472bb580dc7c2622ca86dba2aecd6929990043a324cda"
+    },
+    {
+      "member": "flavor-research-20261114/sx-produce.txt",
+      "bytes": 4242,
+      "sha256": "bf22a393db8a871cc9faaf243a92017b7c1697275a708e68117acd971f46dce8"
+    },
+    {
+      "member": "flavor-research-20261114/wuxi-ice.html",
+      "bytes": 18251,
+      "sha256": "9c20a6eed4dffad28f3860f24de1df853f5626af255a3f624df38b7b06951135"
+    },
+    {
+      "member": "flavor-research-20261114/wuxi-ice.json",
+      "bytes": 303,
+      "sha256": "54865372dba39fe0aa8807ed8ccc201e1965c6ec3104cdf1bf998ce6b54a16d7"
+    },
+    {
+      "member": "flavor-research-20261114/wuxi-ice.txt",
+      "bytes": 5214,
+      "sha256": "96b07c8030cd4edfaf81897af1500559166262ebb162ca88367a4f77de709226"
+    },
+    {
+      "member": "flavor-research-20261114/zj-food.html",
+      "bytes": 28340,
+      "sha256": "a05401c446fcd0633b77ab21d4c964bb38235642cc96114e32f298fb15330612"
+    },
+    {
+      "member": "flavor-research-20261114/zj-food.json",
+      "bytes": 322,
+      "sha256": "1aa128d715cb593e81239d8862938bb74f345d72fcbfa15a056c88a46a988298"
+    },
+    {
+      "member": "flavor-research-20261114/zj-food.txt",
+      "bytes": 15218,
+      "sha256": "c37e6e42b4b3843ac6b0d0656685780d16ba38f608cb82976f2cf03a1427d2ae"
+    },
+    {
+      "member": "jiangsu-dairy/__pycache__/fetch.cpython-312.pyc",
+      "bytes": 4661,
+      "sha256": "268413ce6570b01a9d4ac1c36585bddb2bb6f3b7f01442a82fec706ea11c4e32"
+    },
+    {
+      "member": "jiangsu-dairy/additional-sources.json",
+      "bytes": 751,
+      "sha256": "2afa1d0641fd34a3f5838f3c2402bffabb853ba6fcf1f2c705dfd961c0ab0fd4"
+    },
+    {
+      "member": "jiangsu-dairy/ah-five.html",
+      "bytes": 34432,
+      "sha256": "76e2dfa8e55bb4aab63273391ff14af6afdeb3777aeab55ca0f90824b0e6d0fc"
+    },
+    {
+      "member": "jiangsu-dairy/ah-five.json",
+      "bytes": 280,
+      "sha256": "24d6ad8da3ce874a188e55525f6773568003c53cabf1bd024ad14c5c3a53811d"
+    },
+    {
+      "member": "jiangsu-dairy/ah-five.txt",
+      "bytes": 4987,
+      "sha256": "34505ee53e4087ea0573489ee526f3af7c26381f07d24916629e107d501a17c7"
+    },
+    {
+      "member": "jiangsu-dairy/ah-six.html",
+      "bytes": 36936,
+      "sha256": "84b808ae1bdddafd6c9b4734723f14f1a83efb774d410d7962951a1da7f44b20"
+    },
+    {
+      "member": "jiangsu-dairy/ah-six.json",
+      "bytes": 279,
+      "sha256": "221429dab73704dffad3aba9bee6b740e387e0581b056870037047498aa2becb"
+    },
+    {
+      "member": "jiangsu-dairy/ah-six.txt",
+      "bytes": 5718,
+      "sha256": "dbb7c90df1f2a0120aad184ad3aba9635f69101ab241f9405a988000486ec6c2"
+    },
+    {
+      "member": "jiangsu-dairy/all-search-responses.json",
+      "bytes": 975472,
+      "sha256": "900fd7027fb0dd29718a1e6f844c8de7e326ac6ea0dbd1f92ac0b76e2b02a0b9"
+    },
+    {
+      "member": "jiangsu-dairy/apply-expansion.py",
+      "bytes": 9132,
+      "sha256": "83d9e07b9486796c73327f3374a53cf6bda2b58ead9dee784b7ee24e94d61fd2"
+    },
+    {
+      "member": "jiangsu-dairy/baicheng.html",
+      "bytes": 15775,
+      "sha256": "d5fd55f8d6a5e888c8f33b6174f451b794f3eaed0a367db701fc1857ca2c3791"
+    },
+    {
+      "member": "jiangsu-dairy/baicheng.json",
+      "bytes": 285,
+      "sha256": "e2b9cf6b438ee3358ba815e0174e449aa3e79384cad20705722042cacc2b6033"
+    },
+    {
+      "member": "jiangsu-dairy/baicheng.txt",
+      "bytes": 3022,
+      "sha256": "cc5a6664a4e25fa6ccd402e7564460432542f42a6664eb8b41151a66500a88b1"
+    },
+    {
+      "member": "jiangsu-dairy/beijing-snacks.html",
+      "bytes": 56365,
+      "sha256": "e249b0273151a77c1739896c0748cbcc6a16c5cc540b87c39d263f5836d22c91"
+    },
+    {
+      "member": "jiangsu-dairy/beijing-snacks.json",
+      "bytes": 271,
+      "sha256": "09d96298de20aa0af4b512de6605a2f71d3fd0070f1483bd5f59311c74f66db7"
+    },
+    {
+      "member": "jiangsu-dairy/beijing-snacks.txt",
+      "bytes": 11827,
+      "sha256": "df618c331556c924488de534faf6271267737569d9d3f487ceefa27490f549e6"
+    },
+    {
+      "member": "jiangsu-dairy/bright-yinbao.html",
+      "bytes": 19963,
+      "sha256": "678f0e2916e5bcc9445f791882e74781e48c8b706231072f1ddfe9ccfd74caa3"
+    },
+    {
+      "member": "jiangsu-dairy/bright-yinbao.json",
+      "bytes": 282,
+      "sha256": "d729739031114d997f22e53a9f3edd42c1ce5e358a94c2fa39416aaec3127d3a"
+    },
+    {
+      "member": "jiangsu-dairy/bright-yinbao.txt",
+      "bytes": 7840,
+      "sha256": "9e1caf582e4326472b8dfb7ad8af153f8cee60dcbac6aa5ca91e916dc6703049"
+    },
+    {
+      "member": "jiangsu-dairy/changsha-snacks.html",
+      "bytes": 30602,
+      "sha256": "4e0dc450a47e544e5dcf8e8b69a4106ad755c53f6bc03a04b6aaf50e873a3bd7"
+    },
+    {
+      "member": "jiangsu-dairy/changsha-snacks.json",
+      "bytes": 306,
+      "sha256": "93bc683a5a28a963c97ad400c57e42561374c852f0f2f66ff7feffe977468020"
+    },
+    {
+      "member": "jiangsu-dairy/changsha-snacks.txt",
+      "bytes": 2590,
+      "sha256": "47679d2bc0a50f932a780e20c28f7a5a1caf36f12115ba971972a554c9283a06"
+    },
+    {
+      "member": "jiangsu-dairy/county-sources.json",
+      "bytes": 954,
+      "sha256": "10f1db4a5f559953d7f271500c993a470a8ad5791b17298c436df278567bcf80"
+    },
+    {
+      "member": "jiangsu-dairy/curate-expansion.py",
+      "bytes": 30112,
+      "sha256": "7d7d204939f61dc0a26e9f829e70969a5330bb18c8e573fb71da94cebbc2d5c6"
+    },
+    {
+      "member": "jiangsu-dairy/curate-final.py",
+      "bytes": 14055,
+      "sha256": "dc24178127500f337f687fe5f25094dd27ae7eca63572ef66f636a3e549d6c91"
+    },
+    {
+      "member": "jiangsu-dairy/curate-more.py",
+      "bytes": 24237,
+      "sha256": "bad4ace44dd71bbd4496ecdc4b7916acb2fbbc062ca3818f175338fb655105d1"
+    },
+    {
+      "member": "jiangsu-dairy/curated-expansion.json",
+      "bytes": 57955,
+      "sha256": "54dc2549da760d682ef0322cbccadc07f9dfd4d10af3a1c752e3623e2553feb9"
+    },
+    {
+      "member": "jiangsu-dairy/curated-final.json",
+      "bytes": 129462,
+      "sha256": "260d4d231d3444fb8513174181f3779fd0e164ef91b3c82ef16d932fe88f6d45"
+    },
+    {
+      "member": "jiangsu-dairy/curated-more.json",
+      "bytes": 104847,
+      "sha256": "58ca4635d36336edab1bb2dbc633795bfdd2fabfe65e37e6f671566b0661c0cf"
+    },
+    {
+      "member": "jiangsu-dairy/dairyPdfFinalRead-current.json",
+      "bytes": 19983,
+      "sha256": "1a523d938f1666437e358ad65fb7bed0cf67872ab560fde8319ef31fc6a49ffe"
+    },
+    {
+      "member": "jiangsu-dairy/dairyPdfFind-current.json",
+      "bytes": 21190,
+      "sha256": "f27e90c116c949218aa5365783b3d13daa10feb0aa291bf3b37a4507e9ddbf35"
+    },
+    {
+      "member": "jiangsu-dairy/dairyPdfFind.json",
+      "bytes": 21152,
+      "sha256": "cca0b3a38d23388f3ff87048098dfe7a259ffbca6ccc4cd36013d2b0173b56a6"
+    },
+    {
+      "member": "jiangsu-dairy/dairyPdfReadMore-current.json",
+      "bytes": 19647,
+      "sha256": "69c28fe742d45d8c5e014f367ad3469920c925323e4a62c6279aca3b68b4ada6"
+    },
+    {
+      "member": "jiangsu-dairy/dairyPdfReadMore.json",
+      "bytes": 19609,
+      "sha256": "336bb57f3c8fd6af906e62e4d0324b1d2c935c0d4635bd8400231619630e2aee"
+    },
+    {
+      "member": "jiangsu-dairy/fetch.py",
+      "bytes": 1483,
+      "sha256": "7537c9a03ad4d60ba869fc0a42937dc323e1adf40ab973316fecc388e7f32dec"
+    },
+    {
+      "member": "jiangsu-dairy/final-sources.json",
+      "bytes": 624,
+      "sha256": "4c27e75bf1a98866ed2540110ebf61ffc574cdb146932740565a3ceebefdcab2"
+    },
+    {
+      "member": "jiangsu-dairy/finalize-docs.py",
+      "bytes": 6553,
+      "sha256": "fb1443a6b12b5cf83687b87265c1c36f864cb562fb77e61d45171bc86885474d"
+    },
+    {
+      "member": "jiangsu-dairy/github-city.html",
+      "bytes": 40784,
+      "sha256": "7418fef6c1e9f09f73aab9b17fc7a25e0d7f1e23538f89128f9c16e0a66633fe"
+    },
+    {
+      "member": "jiangsu-dairy/github-city.json",
+      "bytes": 307,
+      "sha256": "e1d0550fd50abf7fe5b4261c105ecc4585a35a21093717c49bf395979bc25db1"
+    },
+    {
+      "member": "jiangsu-dairy/github-city.txt",
+      "bytes": 40536,
+      "sha256": "b8782505142dc2df14f223f7e60d603ee0788466cc085f30b0ef6c2153aed190"
+    },
+    {
+      "member": "jiangsu-dairy/github-cook.html",
+      "bytes": 27594,
+      "sha256": "911bd31a4f295ba61d62e45def53d49ea915e204454eceb16fa5851d785476a4"
+    },
+    {
+      "member": "jiangsu-dairy/github-cook.json",
+      "bytes": 309,
+      "sha256": "f6410c5375f5405d84055694d5c8029b2d554364453c961bf527d23840bf4039"
+    },
+    {
+      "member": "jiangsu-dairy/github-cook.txt",
+      "bytes": 27552,
+      "sha256": "774dd7583e91dd11a0af5213a51bb8211434b0b2594ce51690388eab47fb3613"
+    },
+    {
+      "member": "jiangsu-dairy/github-map.html",
+      "bytes": 1387,
+      "sha256": "9d8db329d383125d46bd2aea3a503c18a5f51c7e02d03a59f153acabc664a5cc"
+    },
+    {
+      "member": "jiangsu-dairy/github-map.json",
+      "bytes": 322,
+      "sha256": "51f1c3b59a1ac3094df2c453ec3a044b5047a9e73d56e13a741fdd309fe3e414"
+    },
+    {
+      "member": "jiangsu-dairy/github-map.txt",
+      "bytes": 934,
+      "sha256": "da2c5490a2822dc463418f51a5965724c989b3ca490c508c120033ab86ecf22a"
+    },
+    {
+      "member": "jiangsu-dairy/jixi.html",
+      "bytes": 63504,
+      "sha256": "fded0d3444b3b8137bc34cbf56c5486a6d55d32b334a9889a3ea837d2fb39ac6"
+    },
+    {
+      "member": "jiangsu-dairy/jixi.json",
+      "bytes": 279,
+      "sha256": "a1ea4d2486b5a87fe6bae27754c22911c0bf1e1bc8cc96f0afb9b4cf050df4bc"
+    },
+    {
+      "member": "jiangsu-dairy/jixi.txt",
+      "bytes": 7422,
+      "sha256": "00e6648a4bf6dd5ef5d5c1860d3f31e1294e5e2524f2a665303a827d1733c67d"
+    },
+    {
+      "member": "jiangsu-dairy/lianhu.html",
+      "bytes": 44603,
+      "sha256": "87fd79e943db75d12aca40d1c90bf1f32eeb87045b16c67ce830f4f97834369a"
+    },
+    {
+      "member": "jiangsu-dairy/lianhu.json",
+      "bytes": 247,
+      "sha256": "8f41809de6099e2482011530478d06012e9e57b4d686cd144ec44a40756869a8"
+    },
+    {
+      "member": "jiangsu-dairy/lianhu.txt",
+      "bytes": 9584,
+      "sha256": "9394a94bc77368536aba680436cc32b54e54a3f8cf3b016c99502d965df8d854"
+    },
+    {
+      "member": "jiangsu-dairy/ln-final.html",
+      "bytes": 15709,
+      "sha256": "43b000a9706a3035ebecbd45944bb0ee14733fe59c59a60ca5006e130af8a404"
+    },
+    {
+      "member": "jiangsu-dairy/ln-final.json",
+      "bytes": 298,
+      "sha256": "c7d5dcd14fcebd2687d971b172422dc6c3a9119eb651f55f79ca0891ef946468"
+    },
+    {
+      "member": "jiangsu-dairy/ln-final.txt",
+      "bytes": 2076,
+      "sha256": "015929fc3515ab387e7cd1677003b40b6cd9ff5270b55b3c21c525de9f6ec2b2"
+    },
+    {
+      "member": "jiangsu-dairy/ln-list-secondary.html",
+      "bytes": 16398,
+      "sha256": "affc290e19e0bdaaec93694c453b1defe29c6430944bbd14517f18e9c6520272"
+    },
+    {
+      "member": "jiangsu-dairy/ln-list-secondary.json",
+      "bytes": 276,
+      "sha256": "0256eb3442564fcc826b775f4e7327d0ac73375fc8529d371b0540a1c72b145b"
+    },
+    {
+      "member": "jiangsu-dairy/ln-list-secondary.txt",
+      "bytes": 7485,
+      "sha256": "3a853ecd962c7aa82c3be6e8766fd21bbc529330067c1fc10e7daeeadc2b15d0"
+    },
+    {
+      "member": "jiangsu-dairy/longyan.html",
+      "bytes": 55041,
+      "sha256": "1c950f37147ebd245ab40c27538121901e38c8cccc3a05a88888b817b274d695"
+    },
+    {
+      "member": "jiangsu-dairy/longyan.json",
+      "bytes": 324,
+      "sha256": "28abc0320514b1086661305599a7b9cd39247dab2dac8984957072bbd60ca16a"
+    },
+    {
+      "member": "jiangsu-dairy/longyan.txt",
+      "bytes": 8854,
+      "sha256": "c185a8534a464e48391c028adfda1e8bd7ac803851d2e4be754fc75778cf1d8d"
+    },
+    {
+      "member": "jiangsu-dairy/luotian.html",
+      "bytes": 12638,
+      "sha256": "af17cb2115a843875b95c3f63d948be13ddb8a8e440115f7b4043f5a505f99b1"
+    },
+    {
+      "member": "jiangsu-dairy/luotian.json",
+      "bytes": 253,
+      "sha256": "ddbcd177ef89cb1344bf6a15ec65a90cec66a67b16bf64a3ed4357d001a87cbb"
+    },
+    {
+      "member": "jiangsu-dairy/luotian.txt",
+      "bytes": 8374,
+      "sha256": "18e0413e5fe141a3bc13ef8e6a6bd6952d771405df893dd0e0fb1352f5d2d091"
+    },
+    {
+      "member": "jiangsu-dairy/lyg-dairy.html",
+      "bytes": 396569,
+      "sha256": "5db2fadf6f15eb70a6c337a9796e761bd2f1fb15dd25576bb31a978e004fc1e2"
+    },
+    {
+      "member": "jiangsu-dairy/lyg-dairy.json",
+      "bytes": 293,
+      "sha256": "3b310038985ea6794c0402a92058d1653fc5ac6fd59e10817a18a74dfd08b10a"
+    },
+    {
+      "member": "jiangsu-dairy/lyg-dairy.txt",
+      "bytes": 120657,
+      "sha256": "4cec7d278bbfc2ed74398d018c2388ca53763304dfd68181d6579c1fbf4813d9"
+    },
+    {
+      "member": "jiangsu-dairy/madieer.html",
+      "bytes": 18300,
+      "sha256": "2f8e7f7c05fffbdc6e00a4567c04eef8c9258c59b71704e6ccb7593b88262263"
+    },
+    {
+      "member": "jiangsu-dairy/madieer.json",
+      "bytes": 310,
+      "sha256": "e709d707827351bdad9fd9a8f883d1e3e575badc9285b147f1b09119607090ac"
+    },
+    {
+      "member": "jiangsu-dairy/madieer.txt",
+      "bytes": 7315,
+      "sha256": "a111fb2681c2b1ae47b588e8e1a8e5a306476bd979446cceca0b10918ddfa0f8"
+    },
+    {
+      "member": "jiangsu-dairy/nantong-hongmei.html",
+      "bytes": 198649,
+      "sha256": "a3a837f7ad0493e788fb8041e511bd120b2e5368cbcf341fdb5cce7519282bd0"
+    },
+    {
+      "member": "jiangsu-dairy/nantong-hongmei.json",
+      "bytes": 299,
+      "sha256": "85ae99fcbd1ddbcae41c183e7262f9ac59dc49dba97530d5d4885c0b14d81197"
+    },
+    {
+      "member": "jiangsu-dairy/nantong-hongmei.txt",
+      "bytes": 40504,
+      "sha256": "671bb7fd913c0f3caef836075676377ec13485ad7843c23c34464c4a65f399d5"
+    },
+    {
+      "member": "jiangsu-dairy/readKeySources-current.json",
+      "bytes": 21176,
+      "sha256": "84d6d9ee65d5677bc72a78c32513d2e3536bf5bf75af249126c9e98f7a03f4e5"
+    },
+    {
+      "member": "jiangsu-dairy/readKeySources.json",
+      "bytes": 21138,
+      "sha256": "7325f40c605df6c7f8e8b30d5070e8bf74cb4a706cf4064d54db8b5529ad6165"
+    },
+    {
+      "member": "jiangsu-dairy/search-batch-0.json",
+      "bytes": 25155,
+      "sha256": "72b80b17af878f68ea5cf3f55d02dd9f0de022093e738ad6d57d70b23439f5df"
+    },
+    {
+      "member": "jiangsu-dairy/search-batch-1.json",
+      "bytes": 27510,
+      "sha256": "d50ef2e847d2e8eba0f6c0e7b0c8e057988ae02536909a32b7ac63e4b1dacb2f"
+    },
+    {
+      "member": "jiangsu-dairy/search-batch-2.json",
+      "bytes": 25773,
+      "sha256": "a3656e3a6a4d1c44dd475973c6e1f67914d7f0c4852802452113263c23ebcb2a"
+    },
+    {
+      "member": "jiangsu-dairy/sources.json",
+      "bytes": 663,
+      "sha256": "664410389021fde3e35ce9a1908d4148ca95443007ec0a5752ce5dd02c27e4b4"
+    },
+    {
+      "member": "jiangsu-dairy/suqian-mengniu.html",
+      "bytes": 470895,
+      "sha256": "6d6b8540bf02898d7b4c12c3d6d9e8acd3cb370000bbf27cea9f801bf8ac0996"
+    },
+    {
+      "member": "jiangsu-dairy/suqian-mengniu.json",
+      "bytes": 294,
+      "sha256": "4943876e4ff61ab626b51973ec5468ab07efd452f8920ab91dca47378f2f6668"
+    },
+    {
+      "member": "jiangsu-dairy/suqian-mengniu.txt",
+      "bytes": 177265,
+      "sha256": "183f62f68e261c1c2d56fb18031f8ac309af599623aeee9d3b318b24d391b195"
+    },
+    {
+      "member": "jiangsu-dairy/weiyang-news.html",
+      "bytes": 20564,
+      "sha256": "e3397486818b0832a4a9488f3b3743067e554eb74613f0acf2b4cf6c6a36caaa"
+    },
+    {
+      "member": "jiangsu-dairy/weiyang-news.json",
+      "bytes": 296,
+      "sha256": "88eaa19da46d666d05ed94714f74ba08443340529fad3c69059eb43184531d53"
+    },
+    {
+      "member": "jiangsu-dairy/weiyang-news.txt",
+      "bytes": 2605,
+      "sha256": "598b8b42e8b33d4e53f2c941ec744f73e5e4c2aa2bb88ba7571518798ee5f5c9"
+    },
+    {
+      "member": "jiangsu-dairy/write-search-log.py",
+      "bytes": 4961,
+      "sha256": "e90d958c64509c18c6ea089c38e82a4e303f7be95cec87feb72721bb70b2e622"
+    },
+    {
+      "member": "jiangsu-dairy/yakult-sampling.html",
+      "bytes": 1032038,
+      "sha256": "4cae73d0bb72e2e73dd605482fc0aecfe0a477aef45a67f5ce97bc4216968c22"
+    },
+    {
+      "member": "jiangsu-dairy/yakult-sampling.json",
+      "bytes": 296,
+      "sha256": "ea5cad3a6dd7785bfffa3293d8487c54237f6aaac4225b5fdcb88b467e53f0fe"
+    },
+    {
+      "member": "jiangsu-dairy/yakult-sampling.txt",
+      "bytes": 252046,
+      "sha256": "0fdfddb1a20c69f66e74d13b22e7c913a8686e1fe2fab1b86c0c2b2965335c55"
+    },
+    {
+      "member": "jiangsu-dairy/yakult.html",
+      "bytes": 3024,
+      "sha256": "b6e50cfe9929ecd5f4a71af84cb23e6d9f9a6aa240efe1dfd5de8a80b8ee681d"
+    },
+    {
+      "member": "jiangsu-dairy/yakult.json",
+      "bytes": 224,
+      "sha256": "7661ae8b65375540fb7090f60591611fdf2c4b1c7187c38a59a2a5d687fe745b"
+    },
+    {
+      "member": "jiangsu-dairy/yakult.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "member": "jiangsu-dairy/yangda.html",
+      "bytes": 22509,
+      "sha256": "79e039c26c839bf5c75623449d8c29875d095b9f01cb1a35e5457fc22f6c7237"
+    },
+    {
+      "member": "jiangsu-dairy/yangda.json",
+      "bytes": 295,
+      "sha256": "59c20b6e298366955368a85c0ab9de65cff44c97a95ef5a1de178e8853367754"
+    },
+    {
+      "member": "jiangsu-dairy/yangda.txt",
+      "bytes": 4612,
+      "sha256": "b340772dba0c87c476f998e7e91de405be34664d27019fd3911c9e83cc61286b"
+    },
+    {
+      "member": "jiangsu-dairy/yongzhou.html",
+      "bytes": 16465,
+      "sha256": "5e79d7940bb86673e902922acd49557305153dc623f5159a9dd4ab937230f898"
+    },
+    {
+      "member": "jiangsu-dairy/yongzhou.json",
+      "bytes": 297,
+      "sha256": "bf955857634fc4ca1c0a83c86b64594c43e0620759af242a66306a62b2402cdf"
+    },
+    {
+      "member": "jiangsu-dairy/yongzhou.txt",
+      "bytes": 3314,
+      "sha256": "3cf8613bcdecb21ad7d1d640bc108d38f188352705bcfd61ce40b86f6cc03fe4"
+    },
+    {
+      "member": "jiangsu-dairy/zhangwu.html",
+      "bytes": 90472,
+      "sha256": "02f19c55e95cea767d975ec13af9fefd7218c14c2b0bfb84403d66010741bc76"
+    },
+    {
+      "member": "jiangsu-dairy/zhangwu.json",
+      "bytes": 266,
+      "sha256": "b828223427d96aea368778ce0aec396badaaacbae597a920c78b0adf0a4dc0f7"
+    },
+    {
+      "member": "jiangsu-dairy/zhangwu.txt",
+      "bytes": 15663,
+      "sha256": "8b46d5cc8456747cdb7257578830bc26413c46ae8400133b376f234403aa1e83"
+    },
+    {
+      "member": "jiangsu-dairy/zhenjiang-changjiang.html",
+      "bytes": 70391,
+      "sha256": "62d04f26515c9c8ec9159a9c7021f6370a3fefa30fcc59beb8d48a12267054de"
+    },
+    {
+      "member": "jiangsu-dairy/zhenjiang-changjiang.json",
+      "bytes": 303,
+      "sha256": "d5f5e7ce6be9f393cb207433fb4740ce0d181161f14623ba8afeaa75f4164470"
+    },
+    {
+      "member": "jiangsu-dairy/zhenjiang-changjiang.txt",
+      "bytes": 16799,
+      "sha256": "2a0c618a7aef3390a315a098d6a3fb9c5b6520c571526f997c464d01418f3ee2"
+    },
+    {
+      "member": "jiangsu-dairy/zhiwei.html",
+      "bytes": 37191,
+      "sha256": "7ec979852d756664405573bb07a57c2ffac4fe16e58328ad5018d494e83a73a2"
+    },
+    {
+      "member": "jiangsu-dairy/zhiwei.json",
+      "bytes": 311,
+      "sha256": "e8f005c119bb922ab376d6fd248a24f34e207618121d639c1a5d12f44f789fd9"
+    },
+    {
+      "member": "jiangsu-dairy/zhiwei.txt",
+      "bytes": 2351,
+      "sha256": "3b88dfb9db7aac090c07834f0f57388f138381bf406ac24095a14b7bcd453a68"
+    },
+    {
+      "member": "jiangsu-dairy/zhongxiang.html",
+      "bytes": 24392,
+      "sha256": "337a9baa27c5d0a2b4eab0d89b730cec7042dfb5cec469b12c2731663a10a676"
+    },
+    {
+      "member": "jiangsu-dairy/zhongxiang.json",
+      "bytes": 309,
+      "sha256": "a02a1e2c411a281ad25e30dd11ef41d69e0c1277f2b1048676d5d2ce70b2a9d0"
+    },
+    {
+      "member": "jiangsu-dairy/zhongxiang.txt",
+      "bytes": 4498,
+      "sha256": "849eba95d2b98ae05a95a4bdda80df576c1a3843ef193ab0623f61078bf55023"
+    },
+    {
+      "member": "jiangsu-dairy/zhuxi-news.html",
+      "bytes": 44927,
+      "sha256": "b1ff87e8eae9f1f9397c4f01fdb86f61391af62b3bec05f197af7a6a3cb72db3"
+    },
+    {
+      "member": "jiangsu-dairy/zhuxi-news.json",
+      "bytes": 254,
+      "sha256": "045b832e309b05394ffe64928a6743deda7099a7a068aef84635e311b0d9a5d5"
+    },
+    {
+      "member": "jiangsu-dairy/zhuxi-news.txt",
+      "bytes": 2603,
+      "sha256": "13f7d13ca5762cae3a9ae004733942c3f3f7bdcfd7dfb468fac5396868be3c8f"
+    },
+    {
+      "member": "jiangsu-dairy/zj-snacks.html",
+      "bytes": 20143,
+      "sha256": "b1e5487910f1dead395057316b9401a32dac4b3cbb39e71d85c4781b00f0f025"
+    },
+    {
+      "member": "jiangsu-dairy/zj-snacks.json",
+      "bytes": 322,
+      "sha256": "05e71a62143e50f57252abc7220151c0790bba38a78326ebd88e301f2250764e"
+    },
+    {
+      "member": "jiangsu-dairy/zj-snacks.txt",
+      "bytes": 5347,
+      "sha256": "c55c81858ccefb5eb1b3f772054f184c4def7993c1b56925ae1924620d4ec311"
+    }
+  ]
+}

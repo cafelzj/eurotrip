@@ -1,6 +1,6 @@
 {
   "reviewedAt": "2026-11-09",
-  "scope": "新增搜索候选中实际逐张查看过原图的照片；搜索结果及缩略图筛选不算通过。旧 27 张候选另见 food-photo-candidates.json，旧 65 张原图结论见 food-photo-review.json。",
+  "scope": "新增搜索候选中实际逐张查看过原图的照片；搜索结果及缩略图筛选不算通过。旧 27 张候选另见 research/media/food/candidates.json，旧 65 张原图结论见 research/media/food/review.json。",
   "generationAllowed": false,
   "method": "查看下载原图及选定的商品正面图；检查主题、产地或口味、清晰度、光色、食欲感、背景与品牌。只对所选照片等比例缩放、色彩配置归一化和 JPEG/PNG 编码，不生成或修改场景。",
   "summary": {

@@ -1,0 +1,643 @@
+{
+  "scope": "Metadata only; full pages and responses are in the local archive.",
+  "records": [
+    {
+      "originalMember": "flavor-research-20261114/ah-pomegranate.json",
+      "metadata": {
+        "key": "ah-pomegranate",
+        "url": "https://www.ahhy.gov.cn/xwzx/bmdt/81384389.html",
+        "resolvedUrl": "https://www.ahhy.gov.cn/xwzx/bmdt/81384389.html",
+        "evidenceSha256": "6ea2d2177bdc2507b7ba0cf4113f65da0943fa1271217fb8778e6ae5c7473ff4",
+        "length": 845
+      },
+      "metadataSha256": "ebdb0f4e0e4e57f3cd12904ce718873cd7f08012ccfb93dd570a6f3c03ed09e8"
+    },
+    {
+      "originalMember": "flavor-research-20261114/bj-mtg.json",
+      "metadata": {
+        "key": "bj-mtg",
+        "url": "https://www.bjmtg.gov.cn/bjmtg/2024zcwj/202408/ea12154fb664473cb16410b5f65b95b9.shtml",
+        "resolvedUrl": "https://www.bjmtg.gov.cn/bjmtg/2024zcwj/202408/ea12154fb664473cb16410b5f65b95b9.shtml",
+        "evidenceSha256": "96b1caf6e4256c1d956cf51a3e12b032555e0d323d453c3441622b9ae9105bd8",
+        "length": 22792
+      },
+      "metadataSha256": "fd3b15cd2068d9a242f916707239c8477569edeed3701abd74a3924ba33dfd78"
+    },
+    {
+      "originalMember": "flavor-research-20261114/bj-produce.json",
+      "metadata": {
+        "key": "bj-produce",
+        "url": "https://nyncj.beijing.gov.cn/nyj/snxx/gqxx/325838454/index.html",
+        "resolvedUrl": "https://nyncj.beijing.gov.cn/nyj/snxx/gqxx/325838454/index.html",
+        "evidenceSha256": "3c11cd1920d08d28199f5be8967d33a159d2307803e22655367cadd49756b41d",
+        "length": 4536
+      },
+      "metadataSha256": "c82a1d30b434060f0d5f3a1eedb2d55d8b647bb6b9fbd7962108a3919a358c50"
+    },
+    {
+      "originalMember": "flavor-research-20261114/bj-rabbit.json",
+      "metadata": {
+        "key": "bj-rabbit",
+        "url": "https://www.beijing.gov.cn/renwen/bjgk/cygk/cyfy/202307/t20230712_3161042.html",
+        "resolvedUrl": "https://www.beijing.gov.cn/renwen/bjgk/cygk/cyfy/202307/t20230712_3161042.html",
+        "evidenceSha256": "aa4d3ce97f309c87e921a996f531535162364fd452e163b73b1b42db30aa9177",
+        "length": 587
+      },
+      "metadataSha256": "793fa6970794e565c7837e63ecdd13e6cdf650dfa2773683870612d3929acf05"
+    },
+    {
+      "originalMember": "flavor-research-20261114/cnipa-products.json",
+      "metadata": {
+        "key": "cnipa-products",
+        "url": "https://www.cnipa.gov.cn/art/2026/1/12/art_575_203605.html",
+        "resolvedUrl": "https://www.cnipa.gov.cn/art/2026/1/12/art_575_203605.html",
+        "evidenceSha256": "a93b76c41299703638011a65d6fb2811fa8d4caaad2d44b27c885adb9de6a024",
+        "length": 1974
+      },
+      "metadataSha256": "3148e721797b618a3ff142879483825dbd6bcaf8d5f0843f692f283eb1e5e6c2"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-fj.json",
+      "metadata": {
+        "key": "craft-fj",
+        "url": "https://wlt.fujian.gov.cn/zwgk/sjfb/fycx/fwzwhycdbxxmml/202003/t20200319_5219568.htm",
+        "resolvedUrl": "https://wlt.fujian.gov.cn/zwgk/sjfb/fycx/fwzwhycdbxxmml/202003/t20200319_5219568.htm",
+        "evidenceSha256": "7a2bfdaba1ab8c2a10932c3efea00f65a53b02380b45da108631e2da80886bc4",
+        "length": 5831
+      },
+      "metadataSha256": "8b917726ba49780ef82097e20244a4f229fd23319646ba96057fa57348f06608"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-hlj.json",
+      "metadata": {
+        "key": "craft-hlj",
+        "url": "https://nynct.hlj.gov.cn/nynct/c115380/202411/c00_31786567.shtml",
+        "resolvedUrl": "https://nynct.hlj.gov.cn/nynct/c115380/202411/c00_31786567.shtml",
+        "evidenceSha256": "261df1e7c8bf6168dc061905f862b56bfbf001e5929d7c6c3a23246f9b6a1654",
+        "length": 4686
+      },
+      "metadataSha256": "4f542a3439ca6acd9c661c1b52f94199c2b1d195fbd2f528610545a507894be9"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-hubei.json",
+      "metadata": {
+        "key": "craft-hubei",
+        "url": "https://wlt.hubei.gov.cn/bsfw/bmcxfw/fwzwhyc/dbxxm/dbxxmsj/201911/t20191121_1363880.shtml",
+        "resolvedUrl": "https://wlt.hubei.gov.cn/bsfw/bmcxfw/fwzwhyc/dbxxm/dbxxmsj/201911/t20191121_1363880.shtml",
+        "evidenceSha256": "5c094481579eb652ce05672d36440042a7737f3f5541881a7045d26ef5b18ebe",
+        "length": 24015
+      },
+      "metadataSha256": "57df1368e3762a75bd6afc018dfd7d8402e96391e6cac3b8a4dcaf58f50172c7"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-hunan.json",
+      "metadata": {
+        "key": "craft-hunan",
+        "url": "https://www.hunan.gov.cn/hnyw/sy/hnyw1/201805/t20180526_5019993.html",
+        "resolvedUrl": "https://www.hunan.gov.cn/hnyw/sy/hnyw1/201805/t20180526_5019993.html",
+        "evidenceSha256": "1eece1963ddfa1c07d70cdd2f973087d9a598ada30cb7fb729efee5672c975ed",
+        "length": 1388
+      },
+      "metadataSha256": "cb76ba52e195ba99f404af72d8fbc2a1dcb741c2dae490c486da92b514ec63de"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-jl.json",
+      "metadata": {
+        "key": "craft-jl",
+        "url": "https://culture.cnjiwang.com/ccjlfwzwhycxszg/202506/3952923.html",
+        "resolvedUrl": "https://culture.cnjiwang.com/ccjlfwzwhycxszg/202506/3952923.html",
+        "evidenceSha256": "4303a66b2c1259ad19ee1fab7f475969e691a404f96b51085f19d470dcca61a5",
+        "length": 1046
+      },
+      "metadataSha256": "b25e0ad0164930c50e01e08fa9eb79bc0458f9425c16b6cac031c0b9814da9f1"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-national.json",
+      "metadata": {
+        "key": "craft-national",
+        "url": "https://zwgk.mct.gov.cn/zfxxgkml/fwzwhyc/202012/t20201206_916788.html",
+        "resolvedUrl": "https://zwgk.mct.gov.cn/zfxxgkml/fwzwhyc/202012/t20201206_916788.html",
+        "evidenceSha256": "3d7f68443057355405a8eea45e414347866b20993abea793700ae29d3956cf8a",
+        "length": 23349
+      },
+      "metadataSha256": "d7fe08467cf6b73a85c55d9699257ccf8bde28547be0d49400efcbcb296daaa2"
+    },
+    {
+      "originalMember": "flavor-research-20261114/craft-sh.json",
+      "metadata": {
+        "key": "craft-sh",
+        "url": "https://www.shanghai.gov.cn/nw17199/20210203/efdbfb831817480d96dfaccfa16d9156.html",
+        "resolvedUrl": "https://www.shanghai.gov.cn/nw17199/20210203/efdbfb831817480d96dfaccfa16d9156.html",
+        "evidenceSha256": "3ab8e23e54ed02df245b2470eaef94d29569c95344cd640fca52118911465680",
+        "length": 3807
+      },
+      "metadataSha256": "014d24ef6f07283064ca2de3e5948a4e3bbe859158b0baf069418b474333ffea"
+    },
+    {
+      "originalMember": "flavor-research-20261114/fj-dried.json",
+      "metadata": {
+        "key": "fj-dried",
+        "url": "https://ly.fjdsfzw.org.cn/2020-07-17/content_94460.html",
+        "resolvedUrl": "https://ly.fjdsfzw.org.cn/2020-07-17/content_94460.html",
+        "evidenceSha256": "e999bbf8ef198c90e5565091bad59b4742bd302995828848b3b5ea73e881cffd",
+        "length": 1866
+      },
+      "metadataSha256": "b8f413f4e6eba52c8bb485d4d55d13c09bc91ddd2b1fb6878232b41bbab0c980"
+    },
+    {
+      "originalMember": "flavor-research-20261114/hb-produce.json",
+      "metadata": {
+        "key": "hb-produce",
+        "url": "https://scjg.sjz.gov.cn/columns/4915bd5e-5287-458d-a4a3-6f354c26371b/202603/04/08e59335-baed-4662-98b0-8b44daae9650.html",
+        "resolvedUrl": "https://scjg.sjz.gov.cn/columns/4915bd5e-5287-458d-a4a3-6f354c26371b/202603/04/08e59335-baed-4662-98b0-8b44daae9650.html",
+        "evidenceSha256": "80c1c46a6b4268c24c02757d266dfb2d1b0755c06bd1377a793ae926cdd781f2",
+        "length": 606
+      },
+      "metadataSha256": "3f4edd5f025668c7cded488975c77a5da3a4e22911c00ffc47708d0feb1342bb"
+    },
+    {
+      "originalMember": "flavor-research-20261114/he-jujube.json",
+      "metadata": {
+        "key": "he-jujube",
+        "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/article61b8389e09fb4124a57cc2aa3d9fc0b8.html",
+        "resolvedUrl": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/article61b8389e09fb4124a57cc2aa3d9fc0b8.html",
+        "evidenceSha256": "fad6453287f53e0f858c0297daccb57866d33546678d4528651279368e415c77",
+        "length": 2604
+      },
+      "metadataSha256": "474e8ebcc2bb05b7365d1f8f8baa42e39563c7f3008040b38e09e03ff87a186c"
+    },
+    {
+      "originalMember": "flavor-research-20261114/he-wenxian.json",
+      "metadata": {
+        "key": "he-wenxian",
+        "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/articleecf5ad24710949c8946179ac4906c844.html",
+        "resolvedUrl": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/tcms/articleecf5ad24710949c8946179ac4906c844.html",
+        "evidenceSha256": "ce0f2e69b106d33719f07b1803f75cbf0cdb33caae3af53b8013cdefc14300bf",
+        "length": 579
+      },
+      "metadataSha256": "a9382f0e1cd0aa33f53b4220525dd9a1e61fb03e6fe717268a990cc227f70de2"
+    },
+    {
+      "originalMember": "flavor-research-20261114/hlj-produce.json",
+      "metadata": {
+        "key": "hlj-produce",
+        "url": "https://www.ycym.gov.cn/ymqrmzf/c101939/202409/371672.shtml",
+        "resolvedUrl": "https://www.ycym.gov.cn/ymqrmzf/c101939/202409/371672.shtml",
+        "evidenceSha256": "bb78568690ef9feb09c756406f797eca093fd2b10de46e39b70c09555f2d9842",
+        "length": 1338
+      },
+      "metadataSha256": "c5a7de72b3bf1e0669ebce95aa439f12f63faa4cbb173cc2b4b5f284115e7f24"
+    },
+    {
+      "originalMember": "flavor-research-20261114/hn-lotus.json",
+      "metadata": {
+        "key": "hn-lotus",
+        "url": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202601/t20260119_33895231.html",
+        "resolvedUrl": "https://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202601/t20260119_33895231.html",
+        "evidenceSha256": "cfd84bff77817ad3f6cd7601e3597ea44aa807cb9a38794522e60d8c60f4eb0c",
+        "length": 1170
+      },
+      "metadataSha256": "f7017d875dd253c0123d609e52881e3dd19483e11e966fa53306619312b0725a"
+    },
+    {
+      "originalMember": "flavor-research-20261114/hn-produce.json",
+      "metadata": {
+        "key": "hn-produce",
+        "url": "https://hunan.gov.cn/topic/2020hnjksc/jkscwzewm/202412/t20241223_33533711.html",
+        "resolvedUrl": "https://hunan.gov.cn/topic/2020hnjksc/jkscwzewm/202412/t20241223_33533711.html",
+        "evidenceSha256": "739d0e5bbed24dc32e6ca54a84254248128194cfea8551ad15972b4d8f66f5e6",
+        "length": 2206
+      },
+      "metadataSha256": "9f48d7fdde9004071ebfb6159fd5c5c2a1c38b9275e83c431de349cfa376a13e"
+    },
+    {
+      "originalMember": "flavor-research-20261114/hu-produce.json",
+      "metadata": {
+        "key": "hu-produce",
+        "url": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202507/t20250701_5709974.shtml",
+        "resolvedUrl": "https://nyt.hubei.gov.cn/bmdt/yw/mtksn/202507/t20250701_5709974.shtml",
+        "evidenceSha256": "37fd28664d822fe1f1d21cbeded68b6463acd5b06959323b4448735e36d3d002",
+        "length": 4322
+      },
+      "metadataSha256": "9f6a83227607954edc71079e4e8a2a319c96f3c4ba1bb6fe0aa5eb0d459e63b6"
+    },
+    {
+      "originalMember": "flavor-research-20261114/jl-produce.json",
+      "metadata": {
+        "key": "jl-produce",
+        "url": "https://scjg.jl.gov.cn/ztzl/jlszscq/sbdlbz/dlbzsb/202601/t20260120_9400851.html",
+        "resolvedUrl": "https://scjg.jl.gov.cn/ztzl/jlszscq/sbdlbz/dlbzsb/202601/t20260120_9400851.html",
+        "evidenceSha256": "26f58de86cdef4f9700485478e25bc9a4548bef808ac879422d50a2fe6cdd85d",
+        "length": 6351
+      },
+      "metadataSha256": "d12f5ad30e8a5329f3efb0e27bc886ed5e82f5d05e386a379391aab91a44a353"
+    },
+    {
+      "originalMember": "flavor-research-20261114/ln-produce.json",
+      "metadata": {
+        "key": "ln-produce",
+        "url": "https://nync.ln.gov.cn/nync/index/rdzt/lnyppwlx/ppml/2026020611263275151/index.shtml",
+        "resolvedUrl": "https://nync.ln.gov.cn/nync/index/rdzt/lnyppwlx/ppml/2026020611263275151/index.shtml",
+        "evidenceSha256": "8184839d443cf67449c2637514fbec8babe7514d74d509e6cc62a20a8684f800",
+        "length": 2627
+      },
+      "metadataSha256": "267796df083b836ea4a3fb885a820c394a44e4742e0db718f425ff68c3580d61"
+    },
+    {
+      "originalMember": "flavor-research-20261114/ln-tomato.json",
+      "metadata": {
+        "key": "ln-tomato",
+        "url": "https://nyncj.panjin.gov.cn/2024_07/01_08/content-477529.html",
+        "resolvedUrl": "https://nyncj.panjin.gov.cn/2024_07/01_08/content-477529.html",
+        "evidenceSha256": "fff91a9b268aea32eaf76fbe73b48ae564f0ee19d6a6a4c9f3422eb6c382b2ae",
+        "length": 716
+      },
+      "metadataSha256": "5e644226f35ec3ce1df8a9f709a780b2c8d28b0abad18d50e80f0e04383da0d2"
+    },
+    {
+      "originalMember": "flavor-research-20261114/sd-produce.json",
+      "metadata": {
+        "key": "sd-produce",
+        "url": "https://sd.people.com.cn/n2/2021/0616/c166192-34778337.html",
+        "resolvedUrl": "https://sd.people.com.cn/n2/2021/0616/c166192-34778337.html",
+        "evidenceSha256": "f8134698a1cad97f94941cc32d2e0f7a7f39fb2ca97ac5e36d70d107dc8aa518",
+        "length": 2745
+      },
+      "metadataSha256": "42f9703c5720b220c058809c20014349a2b96901ab0d92720ac32d337d8f772f"
+    },
+    {
+      "originalMember": "flavor-research-20261114/sh-produce.json",
+      "metadata": {
+        "key": "sh-produce",
+        "url": "https://nyncw.sh.gov.cn/ztmycpzs/20180705/0009-67360.html",
+        "resolvedUrl": "https://nyncw.sh.gov.cn/ztmycpzs/20180705/0009-67360.html",
+        "evidenceSha256": "00c3516e2980812fa49af8b3885b549dbcbff286eeaa223ec0307c0ad063e741",
+        "length": 2311
+      },
+      "metadataSha256": "ca6b3bb39c07a09e3af815242299916a725af5aa5c3b6c31e7314b4f831f9b2f"
+    },
+    {
+      "originalMember": "flavor-research-20261114/sx-produce.json",
+      "metadata": {
+        "key": "sx-produce",
+        "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202508/1992795.html",
+        "resolvedUrl": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202508/1992795.html",
+        "evidenceSha256": "657bc8d0fc03a0fd4c5747c02a314d7bbe156c373c7bcfe6ef274213de5c9e15",
+        "length": 1558
+      },
+      "metadataSha256": "106cc400f79f33df2a8472bb580dc7c2622ca86dba2aecd6929990043a324cda"
+    },
+    {
+      "originalMember": "flavor-research-20261114/wuxi-ice.json",
+      "metadata": {
+        "key": "wuxi-ice",
+        "url": "https://www.yangtse.com/news/jiangsu/wuxi/202506/t20250619_223887.html",
+        "resolvedUrl": "https://www.yangtse.com/news/jiangsu/wuxi/202506/t20250619_223887.html",
+        "evidenceSha256": "9c20a6eed4dffad28f3860f24de1df853f5626af255a3f624df38b7b06951135",
+        "length": 1878
+      },
+      "metadataSha256": "54865372dba39fe0aa8807ed8ccc201e1965c6ec3104cdf1bf998ce6b54a16d7"
+    },
+    {
+      "originalMember": "flavor-research-20261114/zj-food.json",
+      "metadata": {
+        "key": "zj-food",
+        "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/zj/201911/t20191129_849210.html",
+        "resolvedUrl": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/zj/201911/t20191129_849210.html",
+        "evidenceSha256": "a05401c446fcd0633b77ab21d4c964bb38235642cc96114e32f298fb15330612",
+        "length": 5247
+      },
+      "metadataSha256": "1aa128d715cb593e81239d8862938bb74f345d72fcbfa15a056c88a46a988298"
+    },
+    {
+      "originalMember": "jiangsu-dairy/ah-five.json",
+      "metadata": {
+        "key": "ah-five",
+        "url": "https://ah.people.com.cn/n2/2025/0418/c358428-41200273.html",
+        "resolvedUrl": "https://ah.people.com.cn/n2/2025/0418/c358428-41200273.html",
+        "evidenceSha256": "76e2dfa8e55bb4aab63273391ff14af6afdeb3777aeab55ca0f90824b0e6d0fc",
+        "length": 2041
+      },
+      "metadataSha256": "24d6ad8da3ce874a188e55525f6773568003c53cabf1bd024ad14c5c3a53811d"
+    },
+    {
+      "originalMember": "jiangsu-dairy/ah-six.json",
+      "metadata": {
+        "key": "ah-six",
+        "url": "https://ah.people.com.cn/n2/2026/0402/c227131-41541722.html",
+        "resolvedUrl": "https://ah.people.com.cn/n2/2026/0402/c227131-41541722.html",
+        "evidenceSha256": "84b808ae1bdddafd6c9b4734723f14f1a83efb774d410d7962951a1da7f44b20",
+        "length": 2307
+      },
+      "metadataSha256": "221429dab73704dffad3aba9bee6b740e387e0581b056870037047498aa2becb"
+    },
+    {
+      "originalMember": "jiangsu-dairy/baicheng.json",
+      "metadata": {
+        "key": "baicheng",
+        "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/jilin/detail/1976.html",
+        "resolvedUrl": "https://zhuanti.mct.gov.cn/xcszbwg2022/jilin/detail/1976.html",
+        "evidenceSha256": "d5fd55f8d6a5e888c8f33b6174f451b794f3eaed0a367db701fc1857ca2c3791",
+        "length": 1120
+      },
+      "metadataSha256": "e2b9cf6b438ee3358ba815e0174e449aa3e79384cad20705722042cacc2b6033"
+    },
+    {
+      "originalMember": "jiangsu-dairy/beijing-snacks.json",
+      "metadata": {
+        "key": "beijing-snacks",
+        "url": "https://www.visitbeijing.com.cn/article/47QmRdIK1JB",
+        "resolvedUrl": "https://www.visitbeijing.com.cn/article/47QmRdIK1JB",
+        "evidenceSha256": "e249b0273151a77c1739896c0748cbcc6a16c5cc540b87c39d263f5836d22c91",
+        "length": 4265
+      },
+      "metadataSha256": "09d96298de20aa0af4b512de6605a2f71d3fd0070f1483bd5f59311c74f66db7"
+    },
+    {
+      "originalMember": "jiangsu-dairy/bright-yinbao.json",
+      "metadata": {
+        "key": "bright-yinbao",
+        "url": "https://www.brightdairy.com/News/Detail/20200719144211392",
+        "resolvedUrl": "https://www.brightdairy.com/News/Detail/20200719144211392",
+        "evidenceSha256": "678f0e2916e5bcc9445f791882e74781e48c8b706231072f1ddfe9ccfd74caa3",
+        "length": 2818
+      },
+      "metadataSha256": "d729739031114d997f22e53a9f3edd42c1ce5e358a94c2fa39416aaec3127d3a"
+    },
+    {
+      "originalMember": "jiangsu-dairy/changsha-snacks.json",
+      "metadata": {
+        "key": "changsha-snacks",
+        "url": "https://www.hunan.gov.cn/jxxx/hxwh/cls/201307/t20130724_4874962.html",
+        "resolvedUrl": "https://www.hunan.gov.cn/jxxx/hxwh/cls/201307/t20130724_4874962.html",
+        "evidenceSha256": "4e0dc450a47e544e5dcf8e8b69a4106ad755c53f6bc03a04b6aaf50e873a3bd7",
+        "length": 1078
+      },
+      "metadataSha256": "93bc683a5a28a963c97ad400c57e42561374c852f0f2f66ff7feffe977468020"
+    },
+    {
+      "originalMember": "jiangsu-dairy/github-city.json",
+      "metadata": {
+        "key": "github-city",
+        "url": "https://raw.githubusercontent.com/yingwang/shanhe-youji/main/cities.md",
+        "resolvedUrl": "https://raw.githubusercontent.com/yingwang/shanhe-youji/main/cities.md",
+        "evidenceSha256": "7418fef6c1e9f09f73aab9b17fc7a25e0d7f1e23538f89128f9c16e0a66633fe",
+        "length": 21354
+      },
+      "metadataSha256": "e1d0550fd50abf7fe5b4261c105ecc4585a35a21093717c49bf395979bc25db1"
+    },
+    {
+      "originalMember": "jiangsu-dairy/github-cook.json",
+      "metadata": {
+        "key": "github-cook",
+        "url": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/README.md",
+        "resolvedUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/master/README.md",
+        "evidenceSha256": "911bd31a4f295ba61d62e45def53d49ea915e204454eceb16fa5851d785476a4",
+        "length": 17428
+      },
+      "metadataSha256": "f6410c5375f5405d84055694d5c8029b2d554364453c961bf527d23840bf4039"
+    },
+    {
+      "originalMember": "jiangsu-dairy/github-map.json",
+      "metadata": {
+        "key": "github-map",
+        "url": "https://raw.githubusercontent.com/wjjwkwindy/awesome-cn-food-web/main/README.md",
+        "resolvedUrl": "https://raw.githubusercontent.com/wjjwkwindy/awesome-cn-food-web/main/README.md",
+        "evidenceSha256": "9d8db329d383125d46bd2aea3a503c18a5f51c7e02d03a59f153acabc664a5cc",
+        "length": 590
+      },
+      "metadataSha256": "51f1c3b59a1ac3094df2c453ec3a044b5047a9e73d56e13a741fdd309fe3e414"
+    },
+    {
+      "originalMember": "jiangsu-dairy/jixi.json",
+      "metadata": {
+        "key": "jixi",
+        "url": "https://wlt.hlj.gov.cn/wlt/c114164/202605/c00_31943938.shtml",
+        "resolvedUrl": "https://wlt.hlj.gov.cn/wlt/c114164/202605/c00_31943938.shtml",
+        "evidenceSha256": "fded0d3444b3b8137bc34cbf56c5486a6d55d32b334a9889a3ea837d2fb39ac6",
+        "length": 2806
+      },
+      "metadataSha256": "a1ea4d2486b5a87fe6bae27754c22911c0bf1e1bc8cc96f0afb9b4cf050df4bc"
+    },
+    {
+      "originalMember": "jiangsu-dairy/lianhu.json",
+      "metadata": {
+        "key": "lianhu",
+        "url": "https://www.dy001.cn/2024/1014/204378.shtml",
+        "resolvedUrl": "https://www.dy001.cn/2024/1014/204378.shtml",
+        "evidenceSha256": "87fd79e943db75d12aca40d1c90bf1f32eeb87045b16c67ce830f4f97834369a",
+        "length": 3402
+      },
+      "metadataSha256": "8f41809de6099e2482011530478d06012e9e57b4d686cd144ec44a40756869a8"
+    },
+    {
+      "originalMember": "jiangsu-dairy/ln-final.json",
+      "metadata": {
+        "key": "ln-final",
+        "url": "https://wlgd.shenyang.gov.cn/xxfb/ywbb/202412/t20241212_4775387.html",
+        "resolvedUrl": "https://wlgd.shenyang.gov.cn/xxfb/ywbb/202412/t20241212_4775387.html",
+        "evidenceSha256": "43b000a9706a3035ebecbd45944bb0ee14733fe59c59a60ca5006e130af8a404",
+        "length": 803
+      },
+      "metadataSha256": "c7d5dcd14fcebd2687d971b172422dc6c3a9119eb651f55f79ca0891ef946468"
+    },
+    {
+      "originalMember": "jiangsu-dairy/ln-list-secondary.json",
+      "metadata": {
+        "key": "ln-list-secondary",
+        "url": "https://www.chacewang.com/newsdetail/news684944.html",
+        "resolvedUrl": "https://www.chacewang.com/newsdetail/news684944.html",
+        "evidenceSha256": "affc290e19e0bdaaec93694c453b1defe29c6430944bbd14517f18e9c6520272",
+        "length": 3052
+      },
+      "metadataSha256": "0256eb3442564fcc826b775f4e7327d0ac73375fc8529d371b0540a1c72b145b"
+    },
+    {
+      "originalMember": "jiangsu-dairy/longyan.json",
+      "metadata": {
+        "key": "longyan",
+        "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202007/t20200707_5317860.htm",
+        "resolvedUrl": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/fwyfzc/mcpx/202007/t20200707_5317860.htm",
+        "evidenceSha256": "1c950f37147ebd245ab40c27538121901e38c8cccc3a05a88888b817b274d695",
+        "length": 3166
+      },
+      "metadataSha256": "28abc0320514b1086661305599a7b9cd39247dab2dac8984957072bbd60ca16a"
+    },
+    {
+      "originalMember": "jiangsu-dairy/luotian.json",
+      "metadata": {
+        "key": "luotian",
+        "url": "https://m.cnhubei.com/pcmedia/detail?id=636277",
+        "resolvedUrl": "http://m.cnhubei.com/pcmedia/detail?id=636277",
+        "evidenceSha256": "af17cb2115a843875b95c3f63d948be13ddb8a8e440115f7b4043f5a505f99b1",
+        "length": 3014
+      },
+      "metadataSha256": "ddbcd177ef89cb1344bf6a15ec65a90cec66a67b16bf64a3ed4357d001a87cbb"
+    },
+    {
+      "originalMember": "jiangsu-dairy/lyg-dairy.json",
+      "metadata": {
+        "key": "lyg-dairy",
+        "url": "https://www.cqn.com.cn/ms/content/2024-12/12/content_9082294.htm",
+        "resolvedUrl": "https://www.cqn.com.cn/ms/content/2024-12/12/content_9082294.htm",
+        "evidenceSha256": "5db2fadf6f15eb70a6c337a9796e761bd2f1fb15dd25576bb31a978e004fc1e2",
+        "length": 65169
+      },
+      "metadataSha256": "3b310038985ea6794c0402a92058d1653fc5ac6fd59e10817a18a74dfd08b10a"
+    },
+    {
+      "originalMember": "jiangsu-dairy/madieer.json",
+      "metadata": {
+        "key": "madieer",
+        "url": "https://www.xinhuanet.com/20260125/7bbccb50b8ac4f41943f40569c06e537/c.html",
+        "resolvedUrl": "https://www.xinhuanet.com/20260125/7bbccb50b8ac4f41943f40569c06e537/c.html",
+        "evidenceSha256": "2f8e7f7c05fffbdc6e00a4567c04eef8c9258c59b71704e6ccb7593b88262263",
+        "length": 2527
+      },
+      "metadataSha256": "e709d707827351bdad9fd9a8f883d1e3e575badc9285b147f1b09119607090ac"
+    },
+    {
+      "originalMember": "jiangsu-dairy/nantong-hongmei.json",
+      "metadata": {
+        "key": "nantong-hongmei",
+        "url": "https://www.cqn.com.cn/ms/content/2023-01/18/content_8901348.htm",
+        "resolvedUrl": "https://www.cqn.com.cn/ms/content/2023-01/18/content_8901348.htm",
+        "evidenceSha256": "a3a837f7ad0493e788fb8041e511bd120b2e5368cbcf341fdb5cce7519282bd0",
+        "length": 20646
+      },
+      "metadataSha256": "85ae99fcbd1ddbcae41c183e7262f9ac59dc49dba97530d5d4885c0b14d81197"
+    },
+    {
+      "originalMember": "jiangsu-dairy/suqian-mengniu.json",
+      "metadata": {
+        "key": "suqian-mengniu",
+        "url": "https://m.cqn.com.cn/ms/content/2024-11/11/content_9076733.htm",
+        "resolvedUrl": "https://m.cqn.com.cn/ms/content/2024-11/11/content_9076733.htm",
+        "evidenceSha256": "6d6b8540bf02898d7b4c12c3d6d9e8acd3cb370000bbf27cea9f801bf8ac0996",
+        "length": 92823
+      },
+      "metadataSha256": "4943876e4ff61ab626b51973ec5468ab07efd452f8920ab91dca47378f2f6668"
+    },
+    {
+      "originalMember": "jiangsu-dairy/weiyang-news.json",
+      "metadata": {
+        "key": "weiyang-news",
+        "url": "https://jsnews.jschina.com.cn/yz/a/202410/t20241031_3519324.shtml",
+        "resolvedUrl": "https://jsnews.jschina.com.cn/yz/a/202410/t20241031_3519324.shtml",
+        "evidenceSha256": "e3397486818b0832a4a9488f3b3743067e554eb74613f0acf2b4cf6c6a36caaa",
+        "length": 982
+      },
+      "metadataSha256": "88eaa19da46d666d05ed94714f74ba08443340529fad3c69059eb43184531d53"
+    },
+    {
+      "originalMember": "jiangsu-dairy/yakult-sampling.json",
+      "metadata": {
+        "key": "yakult-sampling",
+        "url": "https://m.cqn.com.cn/ms/content/2024-09/26/content_9070029.htm",
+        "resolvedUrl": "https://m.cqn.com.cn/ms/content/2024-09/26/content_9070029.htm",
+        "evidenceSha256": "4cae73d0bb72e2e73dd605482fc0aecfe0a477aef45a67f5ce97bc4216968c22",
+        "length": 144950
+      },
+      "metadataSha256": "ea5cad3a6dd7785bfffa3293d8487c54237f6aaac4225b5fdcb88b467e53f0fe"
+    },
+    {
+      "originalMember": "jiangsu-dairy/yakult.json",
+      "metadata": {
+        "key": "yakult",
+        "url": "https://www.yakult.com.cn/factory",
+        "resolvedUrl": "https://www.yakult.com.cn/factory",
+        "evidenceSha256": "b6e50cfe9929ecd5f4a71af84cb23e6d9f9a6aa240efe1dfd5de8a80b8ee681d",
+        "length": 0
+      },
+      "metadataSha256": "7661ae8b65375540fb7090f60591611fdf2c4b1c7187c38a59a2a5d687fe745b"
+    },
+    {
+      "originalMember": "jiangsu-dairy/yangda.json",
+      "metadata": {
+        "key": "yangda",
+        "url": "https://jsnews.jschina.com.cn/24hour/202104/t20210422_2768206.shtml",
+        "resolvedUrl": "https://jsnews.jschina.com.cn/24hour/202104/t20210422_2768206.shtml",
+        "evidenceSha256": "79e039c26c839bf5c75623449d8c29875d095b9f01cb1a35e5457fc22f6c7237",
+        "length": 1693
+      },
+      "metadataSha256": "59c20b6e298366955368a85c0ab9de65cff44c97a95ef5a1de178e8853367754"
+    },
+    {
+      "originalMember": "jiangsu-dairy/yongzhou.json",
+      "metadata": {
+        "key": "yongzhou",
+        "url": "https://zhuanti.mct.gov.cn/csxz2022/hunan/detail_g7yU_721/4619.html",
+        "resolvedUrl": "https://zhuanti.mct.gov.cn/csxz2022/hunan/detail_g7yU_721/4619.html",
+        "evidenceSha256": "5e79d7940bb86673e902922acd49557305153dc623f5159a9dd4ab937230f898",
+        "length": 1216
+      },
+      "metadataSha256": "bf955857634fc4ca1c0a83c86b64594c43e0620759af242a66306a62b2402cdf"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zhangwu.json",
+      "metadata": {
+        "key": "zhangwu",
+        "url": "https://www.zhangwu.gov.cn/content/2025/1016573.html",
+        "resolvedUrl": "https://www.zhangwu.gov.cn/content/2025/1016573.html",
+        "evidenceSha256": "02f19c55e95cea767d975ec13af9fefd7218c14c2b0bfb84403d66010741bc76",
+        "length": 5985
+      },
+      "metadataSha256": "b828223427d96aea368778ce0aec396badaaacbae597a920c78b0adf0a4dc0f7"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zhenjiang-changjiang.json",
+      "metadata": {
+        "key": "zhenjiang-changjiang",
+        "url": "https://www.cqn.com.cn/ms/content/2020-12/23/content_8654671.htm",
+        "resolvedUrl": "https://www.cqn.com.cn/ms/content/2020-12/23/content_8654671.htm",
+        "evidenceSha256": "62d04f26515c9c8ec9159a9c7021f6370a3fefa30fcc59beb8d48a12267054de",
+        "length": 7767
+      },
+      "metadataSha256": "d5f5e7ce6be9f393cb207433fb4740ce0d181161f14623ba8afeaa75f4164470"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zhiwei.json",
+      "metadata": {
+        "key": "zhiwei",
+        "url": "https://www.cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=11769",
+        "resolvedUrl": "https://www.cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=11769",
+        "evidenceSha256": "7ec979852d756664405573bb07a57c2ffac4fe16e58328ad5018d494e83a73a2",
+        "length": 1398
+      },
+      "metadataSha256": "e8f005c119bb922ab376d6fd248a24f34e207618121d639c1a5d12f44f789fd9"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zhongxiang.json",
+      "metadata": {
+        "key": "zhongxiang",
+        "url": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202404/t20240423_5167791_slh.shtml",
+        "resolvedUrl": "https://nyt.hubei.gov.cn/bmdt/yw/szdt/202404/t20240423_5167791_slh.shtml",
+        "evidenceSha256": "337a9baa27c5d0a2b4eab0d89b730cec7042dfb5cec469b12c2731663a10a676",
+        "length": 1641
+      },
+      "metadataSha256": "a02a1e2c411a281ad25e30dd11ef41d69e0c1277f2b1048676d5d2ce70b2a9d0"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zhuxi-news.json",
+      "metadata": {
+        "key": "zhuxi-news",
+        "url": "https://news.hubeidaily.net/pc/c_5504606.html",
+        "resolvedUrl": "https://news.hubeidaily.net/pc/c_5504606.html",
+        "evidenceSha256": "b1ff87e8eae9f1f9397c4f01fdb86f61391af62b3bec05f197af7a6a3cb72db3",
+        "length": 996
+      },
+      "metadataSha256": "045b832e309b05394ffe64928a6743deda7099a7a068aef84635e311b0d9a5d5"
+    },
+    {
+      "originalMember": "jiangsu-dairy/zj-snacks.json",
+      "metadata": {
+        "key": "zj-snacks",
+        "url": "https://hznews.hangzhou.com.cn/jingji/content/2021-02/09/content_7909452_0.html",
+        "resolvedUrl": "https://hznews.hangzhou.com.cn/jingji/content/2021-02/09/content_7909452_0.html",
+        "evidenceSha256": "b1e5487910f1dead395057316b9401a32dac4b3cbb39e71d85c4781b00f0f025",
+        "length": 1971
+      },
+      "metadataSha256": "05e71a62143e50f57252abc7220151c0790bba38a78326ebd88e301f2250764e"
+    }
+  ]
+}

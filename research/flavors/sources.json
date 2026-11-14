@@ -13781,7 +13781,7 @@
       "title": "北京市农业农村局｜寻味北京35个地标农产品",
       "read": true,
       "evidenceSha256": "3c11cd1920d08d28199f5be8967d33a159d2307803e22655367cadd49756b41d",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/bj-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/bj-produce.json",
       "supportsItems": [
         "京西稻",
         "昌平草莓",
@@ -13819,7 +13819,7 @@
       "title": "门头沟区政府｜十四五时期休闲农业发展规划",
       "read": true,
       "evidenceSha256": "96b1caf6e4256c1d956cf51a3e12b032555e0d323d453c3441622b9ae9105bd8",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/bj-mtg.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/bj-mtg.json",
       "supportsItems": [
         "韭园酱菜"
       ],
@@ -13833,7 +13833,7 @@
       "title": "人民网／大众日报｜山东培育13个农业优势特色产业",
       "read": true,
       "evidenceSha256": "f8134698a1cad97f94941cc32d2e0f7a7f39fb2ca97ac5e36d70d107dc8aa518",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/sd-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/sd-produce.json",
       "supportsItems": [
         "章丘大葱",
         "金乡大蒜",
@@ -13854,7 +13854,7 @@
       "title": "上海市农业农村委｜农产品地理标志产品（上海）",
       "read": true,
       "evidenceSha256": "00c3516e2980812fa49af8b3885b549dbcbff286eeaa223ec0307c0ad063e741",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/sh-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/sh-produce.json",
       "supportsItems": [
         "金山蟠桃",
         "三林崩瓜",
@@ -13875,7 +13875,7 @@
       "title": "商务部中国保护知识产权网｜临汾25个农产品地理标志转化认定",
       "read": true,
       "evidenceSha256": "657bc8d0fc03a0fd4c5747c02a314d7bbe156c373c7bcfe6ef274213de5c9e15",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/sx-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/sx-produce.json",
       "supportsItems": [
         "古县核桃",
         "吉县苹果",
@@ -13904,7 +13904,7 @@
       "title": "石家庄市市场监管局｜地理标志产品信息表",
       "read": true,
       "evidenceSha256": "80c1c46a6b4268c24c02757d266dfb2d1b0755c06bd1377a793ae926cdd781f2",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/hb-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/hb-produce.json",
       "supportsItems": [
         "赞皇大枣",
         "晋州鸭梨",
@@ -13926,7 +13926,7 @@
       "title": "湖南省政府｜地理标志集体、证明商标与产品名录",
       "read": true,
       "evidenceSha256": "739d0e5bbed24dc32e6ca54a84254248128194cfea8551ad15972b4d8f66f5e6",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/hn-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/hn-produce.json",
       "supportsItems": [
         "宁乡花猪",
         "浏阳茶油",
@@ -14075,7 +14075,7 @@
       "title": "湖南省政府／湖南日报｜湘潭湘莲入选中国消费名品",
       "read": true,
       "evidenceSha256": "cfd84bff77817ad3f6cd7601e3597ea44aa807cb9a38794522e60d8c60f4eb0c",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/hn-lotus.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/hn-lotus.json",
       "supportsItems": [
         "湘莲"
       ],
@@ -14089,7 +14089,7 @@
       "title": "湖北省农业农村厅／湖北日报｜特色之乡行动方案",
       "read": true,
       "evidenceSha256": "37fd28664d822fe1f1d21cbeded68b6463acd5b06959323b4448735e36d3d002",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/hu-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/hu-produce.json",
       "supportsItems": [
         "仙桃黄鳝",
         "秭归脐橙",
@@ -14106,7 +14106,7 @@
       "title": "辽宁省农业农村厅｜农产品区域公用品牌名单",
       "read": true,
       "evidenceSha256": "8184839d443cf67449c2637514fbec8babe7514d74d509e6cc62a20a8684f800",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/ln-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/ln-produce.json",
       "supportsItems": [
         "康平甘薯",
         "康平花生",
@@ -14176,7 +14176,7 @@
       "title": "盘锦市农业农村局｜盘锦碱地柿子",
       "read": true,
       "evidenceSha256": "fff91a9b268aea32eaf76fbe73b48ae564f0ee19d6a6a4c9f3422eb6c382b2ae",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/ln-tomato.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/ln-tomato.json",
       "supportsItems": [
         "盘锦碱地柿子"
       ],
@@ -14190,7 +14190,7 @@
       "title": "吉林省市场监管厅｜地理标志商标名录",
       "read": true,
       "evidenceSha256": "26f58de86cdef4f9700485478e25bc9a4548bef808ac879422d50a2fe6cdd85d",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/jl-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/jl-produce.json",
       "supportsItems": [
         "榆树大米",
         "九台饮马河大米",
@@ -14252,7 +14252,7 @@
       "title": "伊美区政府｜全国名特优新农产品名录报道",
       "read": true,
       "evidenceSha256": "bb78568690ef9feb09c756406f797eca093fd2b10de46e39b70c09555f2d9842",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/hlj-produce.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/hlj-produce.json",
       "supportsItems": [
         "呼兰鸡蛋",
         "方正富硒大米",
@@ -14278,7 +14278,7 @@
       "title": "文化和旅游部／中国旅游报｜常山全域旅游与地方果品",
       "read": true,
       "evidenceSha256": "a05401c446fcd0633b77ab21d4c964bb38235642cc96114e32f298fb15330612",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/zj-food.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/zj-food.json",
       "supportsItems": [
         "常山胡柚",
         "仙居杨梅",
@@ -14295,7 +14295,7 @@
       "title": "怀远县政府｜石榴全链发展与特色产业",
       "read": true,
       "evidenceSha256": "6ea2d2177bdc2507b7ba0cf4113f65da0943fa1271217fb8778e6ae5c7473ff4",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/ah-pomegranate.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/ah-pomegranate.json",
       "supportsItems": [
         "怀远石榴"
       ],
@@ -14309,7 +14309,7 @@
       "title": "河南豫台视窗｜温县铁棍山药",
       "read": true,
       "evidenceSha256": "ce0f2e69b106d33719f07b1803f75cbf0cdb33caae3af53b8013cdefc14300bf",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/he-wenxian.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/he-wenxian.json",
       "supportsItems": [
         "温县铁棍山药"
       ],
@@ -14323,7 +14323,7 @@
       "title": "河南豫台视窗｜新郑红枣",
       "read": true,
       "evidenceSha256": "fad6453287f53e0f858c0297daccb57866d33546678d4528651279368e415c77",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/he-jujube.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/he-jujube.json",
       "supportsItems": [
         "新郑红枣"
       ],
@@ -14337,7 +14337,7 @@
       "title": "国家知识产权局｜第660号地理标志用标公告",
       "read": true,
       "evidenceSha256": "a93b76c41299703638011a65d6fb2811fa8d4caaad2d44b27c885adb9de6a024",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/cnipa-products.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/cnipa-products.json",
       "supportsItems": [
         "西峡猕猴桃",
         "西峡香菇",
@@ -14364,7 +14364,7 @@
       "title": "龙岩市委党史和地方志研究室｜闽西八大干",
       "read": true,
       "evidenceSha256": "e999bbf8ef198c90e5565091bad59b4742bd302995828848b3b5ea73e881cffd",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/fj-dried.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/fj-dried.json",
       "supportsItems": [
         "长汀豆腐干",
         "连城红心地瓜干",
@@ -14383,7 +14383,7 @@
       "title": "文化和旅游部｜第一批国家级非物质文化遗产名录",
       "read": true,
       "evidenceSha256": "3d7f68443057355405a8eea45e414347866b20993abea793700ae29d3956cf8a",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/craft-national.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/craft-national.json",
       "supportsItems": [
         "景泰蓝",
         "北京雕漆",
@@ -14459,7 +14459,7 @@
       "title": "北京市政府／朝阳文旅局｜泥塑（北京兔儿爷）",
       "read": true,
       "evidenceSha256": "aa4d3ce97f309c87e921a996f531535162364fd452e163b73b1b42db30aa9177",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/bj-rabbit.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/bj-rabbit.json",
       "supportsItems": [
         "北京兔儿爷"
       ],
@@ -14473,7 +14473,7 @@
       "title": "湖南省政府｜首批国家传统工艺振兴目录湖南项目",
       "read": true,
       "evidenceSha256": "1eece1963ddfa1c07d70cdd2f973087d9a598ada30cb7fb729efee5672c975ed",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/craft-hunan.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/craft-hunan.json",
       "supportsItems": [
         "湘绣",
         "浏阳菊花石雕",
@@ -14497,7 +14497,7 @@
       "title": "湖北省文化和旅游厅｜省级非遗代表性项目名录",
       "read": true,
       "evidenceSha256": "5c094481579eb652ce05672d36440042a7737f3f5541881a7045d26ef5b18ebe",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/craft-hubei.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/craft-hubei.json",
       "supportsItems": [
         "汉绣",
         "阳新布贴",
@@ -14522,7 +14522,7 @@
       "title": "中国吉林网｜松花石雕刻技艺",
       "read": true,
       "evidenceSha256": "4303a66b2c1259ad19ee1fab7f475969e691a404f96b51085f19d470dcca61a5",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/craft-jl.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/craft-jl.json",
       "supportsItems": [
         "长白山松花石砚"
       ],
@@ -14536,7 +14536,7 @@
       "title": "黑龙江省农业农村厅／人民日报｜同江赫哲族渔猎文化",
       "read": true,
       "evidenceSha256": "261df1e7c8bf6168dc061905f862b56bfbf001e5929d7c6c3a23246f9b6a1654",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/craft-hlj.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/craft-hlj.json",
       "supportsItems": [
         "赫哲族鱼皮画",
         "赫哲族鱼皮服饰",
@@ -14554,7 +14554,7 @@
       "title": "扬子晚报／无锡日报｜省级非遗工坊，无锡＋3！",
       "read": true,
       "evidenceSha256": "9c20a6eed4dffad28f3860f24de1df853f5626af255a3f624df38b7b06951135",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/wuxi-ice.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/wuxi-ice.json",
       "supportsItems": [
         "华士冰油"
       ],
@@ -14568,7 +14568,7 @@
       "title": "文化和旅游部专题｜白城乡村风物",
       "read": true,
       "evidenceSha256": "d5fd55f8d6a5e888c8f33b6174f451b794f3eaed0a367db701fc1857ca2c3791",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-baicheng.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-baicheng.json",
       "supportsItems": [
         "大安芦苇画",
         "通榆草编",
@@ -14584,7 +14584,7 @@
       "title": "北京旅游网｜老北京传统小吃（2019）",
       "read": true,
       "evidenceSha256": "e249b0273151a77c1739896c0748cbcc6a16c5cc540b87c39d263f5836d22c91",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-beijing-snacks.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-beijing-snacks.json",
       "supportsItems": [
         "艾窝窝",
         "糖耳朵",
@@ -14612,7 +14612,7 @@
       "title": "湖南省政府｜火宫殿传统小吃制作技艺",
       "read": true,
       "evidenceSha256": "4e0dc450a47e544e5dcf8e8b69a4106ad755c53f6bc03a04b6aaf50e873a3bd7",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-changsha-snacks.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-changsha-snacks.json",
       "supportsItems": [
         "姊妹团子",
         "火宫殿煮馓子",
@@ -14636,7 +14636,7 @@
       "title": "黑龙江文旅厅｜鸡西地方美食",
       "read": true,
       "evidenceSha256": "fded0d3444b3b8137bc34cbf56c5486a6d55d32b334a9889a3ea837d2fb39ac6",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-jixi.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-jixi.json",
       "supportsItems": [
         "鸡西烤冷面",
         "西太大煎饼",
@@ -14654,7 +14654,7 @@
       "title": "江苏省市场监管局｜食品抽检表：乳品生产企业与产品（2026）",
       "read": true,
       "evidenceSha256": "946f7e2d22aefd92e9d6333d416937e75743599ab194a997592cc2db6a2b554e",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-js-dairy-pdf.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-js-dairy-pdf.json",
       "supportsItems": [
         "伊利苏州乳品",
         "金力乳品",
@@ -14690,7 +14690,7 @@
       "title": "丹阳新闻网｜练湖乳品探访（2024）",
       "read": true,
       "evidenceSha256": "87fd79e943db75d12aca40d1c90bf1f32eeb87045b16c67ce830f4f97834369a",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-lianhu.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-lianhu.json",
       "supportsItems": [
         "练湖乳品"
       ],
@@ -14704,7 +14704,7 @@
       "title": "沈阳文旅｜2024辽宁地标美食名单与沈阳18道美食",
       "read": true,
       "evidenceSha256": "43b000a9706a3035ebecbd45944bb0ee14733fe59c59a60ca5006e130af8a404",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-ln-final.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-ln-final.json",
       "supportsItems": [
         "沈阳烤串",
         "新民血肠",
@@ -14732,7 +14732,7 @@
       "title": "查策网｜2024辽宁地标美食公示转载（非最终结果）",
       "read": true,
       "evidenceSha256": "affc290e19e0bdaaec93694c453b1defe29c6430944bbd14517f18e9c6520272",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-ln-list-secondary.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-ln-list-secondary.json",
       "supportsItems": [
         "大连杂拌鱼",
         "大连海味全家福",
@@ -14832,7 +14832,7 @@
       "title": "福建商务厅｜龙岩地方名菜",
       "read": true,
       "evidenceSha256": "1c950f37147ebd245ab40c27538121901e38c8cccc3a05a88888b817b274d695",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-longyan.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-longyan.json",
       "supportsItems": [
         "武平槌鱼",
         "连城涮九门头",
@@ -14855,7 +14855,7 @@
       "title": "荆楚网｜罗田地方名吃",
       "read": true,
       "evidenceSha256": "af17cb2115a843875b95c3f63d948be13ddb8a8e440115f7b4043f5a505f99b1",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-luotian.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-luotian.json",
       "supportsItems": [
         "罗田板栗土鸡汤",
         "天堂腊肉",
@@ -14878,7 +14878,7 @@
       "title": "中国质量新闻网｜连云港食品抽检公布表（2024）",
       "read": true,
       "evidenceSha256": "5db2fadf6f15eb70a6c337a9796e761bd2f1fb15dd25576bb31a978e004fc1e2",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-lyg-dairy.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-lyg-dairy.json",
       "supportsItems": [
         "三元双宝乳品",
         "连望乳品"
@@ -14893,7 +14893,7 @@
       "title": "新华社｜老字号的新味道：马迭尔冰棍（2026）",
       "read": true,
       "evidenceSha256": "2f8e7f7c05fffbdc6e00a4567c04eef8c9258c59b71704e6ccb7593b88262263",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-madieer.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-madieer.json",
       "supportsItems": [
         "马迭尔冰棍"
       ],
@@ -14907,7 +14907,7 @@
       "title": "中国质量新闻网｜南通食品抽检公布表（2023）",
       "read": true,
       "evidenceSha256": "a3a837f7ad0493e788fb8041e511bd120b2e5368cbcf341fdb5cce7519282bd0",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-nantong-hongmei.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-nantong-hongmei.json",
       "supportsItems": [
         "南通红梅乳品"
       ],
@@ -14921,7 +14921,7 @@
       "title": "中国质量新闻网｜宿迁食品抽检公布表（2024）",
       "read": true,
       "evidenceSha256": "6d6b8540bf02898d7b4c12c3d6d9e8acd3cb370000bbf27cea9f801bf8ac0996",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-suqian-mengniu.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-suqian-mengniu.json",
       "supportsItems": [
         "蒙牛宿迁乳品"
       ],
@@ -14935,7 +14935,7 @@
       "title": "中国江苏网｜维扬牛奶工厂研学（2024）",
       "read": true,
       "evidenceSha256": "e3397486818b0832a4a9488f3b3743067e554eb74613f0acf2b4cf6c6a36caaa",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-weiyang-news.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-weiyang-news.json",
       "supportsItems": [
         "维扬乳品"
       ],
@@ -14949,7 +14949,7 @@
       "title": "中国质量新闻网｜无锡乳酸菌乳饮品抽检记录（2024）",
       "read": true,
       "evidenceSha256": "4cae73d0bb72e2e73dd605482fc0aecfe0a477aef45a67f5ce97bc4216968c22",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-yakult-sampling.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-yakult-sampling.json",
       "supportsItems": [
         "养乐多无锡乳酸菌饮品"
       ],
@@ -14963,7 +14963,7 @@
       "title": "文化和旅游部专题｜永州乡村线路与美食",
       "read": true,
       "evidenceSha256": "5e79d7940bb86673e902922acd49557305153dc623f5159a9dd4ab937230f898",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-yongzhou.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-yongzhou.json",
       "supportsItems": [
         "永州血鸭",
         "祁阳曲米鱼",
@@ -14983,7 +14983,7 @@
       "title": "彰武县政府｜地方特色美食",
       "read": true,
       "evidenceSha256": "02f19c55e95cea767d975ec13af9fefd7218c14c2b0bfb84403d66010741bc76",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-zhangwu.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-zhangwu.json",
       "supportsItems": [
         "彰武沙泉鱼宴",
         "彰武地瓜宴"
@@ -14998,7 +14998,7 @@
       "title": "食品配料协会｜江苏志威乳业参展商资料",
       "read": true,
       "evidenceSha256": "7ec979852d756664405573bb07a57c2ffac4fe16e58328ad5018d494e83a73a2",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-zhiwei.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-zhiwei.json",
       "supportsItems": [
         "志威乳品与食品配料"
       ],
@@ -15012,7 +15012,7 @@
       "title": "湖北农业农村厅｜钟祥地方美食",
       "read": true,
       "evidenceSha256": "337a9baa27c5d0a2b4eab0d89b730cec7042dfb5cec469b12c2731663a10a676",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-zhongxiang.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-zhongxiang.json",
       "supportsItems": [
         "钟祥蟠龙菜",
         "石牌豆腐",
@@ -15028,7 +15028,7 @@
       "title": "湖北日报｜竹溪蒸盆",
       "read": true,
       "evidenceSha256": "b1ff87e8eae9f1f9397c4f01fdb86f61391af62b3bec05f197af7a6a3cb72db3",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-zhuxi-news.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-zhuxi-news.json",
       "supportsItems": [
         "竹溪蒸盆"
       ],
@@ -15042,7 +15042,7 @@
       "title": "杭州网｜浙江农家特色小吃百强名单（2021）",
       "read": true,
       "evidenceSha256": "b1e5487910f1dead395057316b9401a32dac4b3cbb39e71d85c4781b00f0f025",
-      "evidenceFile": "data/snapshots/flavors/2026-11-14/county-zj-snacks.json",
+      "evidenceFile": "research/flavors/reading-notes/2026-11-14/county-zj-snacks.json",
       "supportsItems": [
         "河上桔红糕",
         "塘栖小桃酥",
@@ -15316,8 +15316,8 @@
       "evidenceSha256": "f8d3bdbee4068811237efd23fe349a4c6e3bc99334079f9746f19e7df5ea4854"
     }
   ],
-  "claimsReview": "flavor-claims-review-2026-11-14.md",
-  "coverageFile": "flavor-city-coverage.json",
+  "claimsReview": "research/flavors/batches/2026-11-14/claims-review.md",
+  "coverageFile": "research/flavors/coverage.json",
   "editorialRules": [
     "面食独立分类；主要原料可筛选；地方食材另列。",
     "品牌发源、总部、生产基地与零售点分别核对，不以工厂地址推定品牌起点。",

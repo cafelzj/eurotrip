@@ -1,6 +1,6 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),{chromium}=require('playwright');
 const ctx={window:{}};vm.createContext(ctx);for(const file of['data/flavors.js','data/flavor-map-regions.js'])vm.runInContext(fs.readFileSync(file,'utf8'),ctx);
-const data=ctx.window.flavorCatalog,regions=ctx.window.flavorMapRegions,review=JSON.parse(fs.readFileSync('docs/flavor-source-review.json','utf8'));
+const data=ctx.window.flavorCatalog,regions=ctx.window.flavorMapRegions,review=JSON.parse(fs.readFileSync('research/flavors/sources.json','utf8'));
 for(const source of review.sources.filter(r=>r.evidenceFile))assert.equal(require('node:crypto').createHash('sha256').update(fs.readFileSync(source.evidenceFile)).digest('hex'),source.readingNotesSha256,'saved source evidence agrees with '+source.id);
 assert.deepEqual(Array.from(data.provinces,p=>p.name),['北京','山东','安徽','江苏','浙江','上海','山西','河南','河北','湖南','湖北','福建','辽宁','吉林','黑龙江']);
 assert.equal(new Set(data.items.map(i=>i.id)).size,data.items.length);
@@ -20,12 +20,12 @@ for(const province of data.provinces){
  const svg=fs.readFileSync('assets/maps/flavors/'+province.id+'.svg','utf8');assert.equal((svg.match(/data-flavor-region=/g)||[]).length,regions[province.id].regions.length);assert(!/(?:href|src)="https?:|<script|onload=|onclick=/.test(svg));assert(review.provinceMaps.some(r=>r.province===province.id&&r.features===regions[province.id].regions.length));
 }
 assert.equal(cityCount,174);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),204);
-const coverage=JSON.parse(fs.readFileSync('docs/flavor-city-coverage.json','utf8'));
+const coverage=JSON.parse(fs.readFileSync('research/flavors/coverage.json','utf8'));
 assert.equal(coverage.cities.length,169);
 assert.equal(coverage.minimumPerCity,11);assert.equal(coverage.status,'in-progress');for(const row of coverage.cities.filter(r=>r.count<11))assert(coverage.pendingCities.some(r=>r.province===row.province&&r.city===row.city&&r.remainingToTarget===11-(row.sourceBackedCount??row.count)),'unfinished targets remain explicit');
 for(const row of [...coverage.cities,...coverage.countyAreas])assert.equal(row.count,data.items.filter(i=>i.province===row.province&&i.city===row.city).length,'coverage agrees with live catalog');
 for(const type of data.categories)assert(data.items.some(i=>i.type===type.id));
-const research=JSON.parse(fs.readFileSync('docs/flavor-research-queue.json','utf8'));assert.equal(new Set(research.places.map(p=>p.adcode)).size,research.places.length);assert.equal(research.totalItems,data.items.length);assert.equal(research.targetItems,2000);assert.deepEqual(research.missingBoundaryLists,[]);for(const place of research.places)for(const id of place.entryIds)assert(data.items.some(i=>i.id===id),'research references existing entries');
+const research=JSON.parse(fs.readFileSync('research/flavors/queue.json','utf8'));assert.equal(new Set(research.places.map(p=>p.adcode)).size,research.places.length);assert.equal(research.totalItems,data.items.length);assert.equal(research.targetItems,2000);assert.deepEqual(research.missingBoundaryLists,[]);for(const place of research.places)for(const id of place.entryIds)assert(data.items.some(i=>i.id===id),'research references existing entries');
 assert.equal(data.targetItems,2000);assert.equal(coverage.totalItems,data.items.length);assert.equal(coverage.remainingItems,Math.max(0,2000-data.items.length));
 assert.equal(data.items.find(i=>i.name==='禹州杂炣')?.locality,'禹州市顺店镇');assert(!data.items.find(i=>i.name==='蛋清羊尾')?.proteins?.includes('羊'),'egg-white dessert is not lamb');
 assert.equal(data.categories.find(c=>c.id==='staples').name,'面食');

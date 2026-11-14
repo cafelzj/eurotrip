@@ -42,7 +42,7 @@
 
 先确认具体题材与卡片对象一致，再通过图像生成工具创作；避免给泛城市卡片套用另一处景点的画作。导出网页版本只进行等比缩放、格式转换和压缩，不更改画面内容。原生成文件保留在生成目录，仓库只存部署所需资产。以后加入真实照片，应另外记录原始页面、作者和许可，不能沿用 AI 插画的标记。
 
-`docs/landmark-art-prompts.json` 保存本轮逐场所的题材、风格选择理由、完整创作提示和象限分配。每组生成后保存一份本地记录，例如 `{"id":"atlas-hu-01","source":"/workspace/generated_images/example.png"}`。使用 ImageMagick 7 导出网页资源并生成配置：
+`research/media/landmarks/generation-plan.json` 保存本轮逐场所的题材、风格选择理由、完整创作提示和象限分配。每组生成后保存一份本地记录，例如 `{"id":"atlas-hu-01","source":"/workspace/generated_images/example.png"}`。使用 ImageMagick 7 导出网页资源并生成配置：
 
 ```bash
 python scripts/build-landmark-art.py --sources /tmp/eurotrip-art-batch

@@ -1,5 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto'),{chromium}=require('playwright'),settle=require('./wait-for-route.cjs');
-const root=path.join(__dirname,'..'),review=JSON.parse(fs.readFileSync(path.join(root,'docs/transport-photo-review.json'),'utf8')),approved=review.reviewed.filter(r=>r.status==='approved'),normal=s=>s.replace(/\s+/g,' ').trim();
+const root=path.join(__dirname,'..'),review=JSON.parse(fs.readFileSync(path.join(root,'research/media/transport/review.json'),'utf8')),approved=review.reviewed.filter(r=>r.status==='approved'),normal=s=>s.replace(/\s+/g,' ').trim();
 assert(review.allTransportCoverageComplete&&review.airportStationCoverageComplete);assert.equal(review.pending.length,0);
 (async()=>{const b=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});try{
  const p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));await p.route('https://upload.wikimedia.org/**',r=>r.abort());await p.route('https://tile.openstreetmap.org/**',r=>r.abort());await p.route('https://fonts.googleapis.com/**',r=>r.abort());const base=process.env.SITE_URL||'http://127.0.0.1:4173';

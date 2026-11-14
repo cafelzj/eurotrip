@@ -1,7 +1,7 @@
 const {chromium}=require('playwright'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),settle=require('./wait-for-route.cjs');
 const root=path.join(__dirname,'..');
 const constants=file=>[...fs.readFileSync(path.join(root,file),'utf8').matchAll(/const (\w+) = ([\s\S]*?);\n/g)].map(m=>JSON.parse(m[2]));
-const art=constants('data/landmark-art.js')[0],plan=JSON.parse(fs.readFileSync(path.join(root,'docs/landmark-art-prompts.json'),'utf8'));
+const art=constants('data/landmark-art.js')[0],plan=JSON.parse(fs.readFileSync(path.join(root,'research/media/landmarks/generation-plan.json'),'utf8'));
 const places=['cards','capitals-cards','china-cards','heritage-cards','slovenia-cards','poland-cards'].flatMap(name=>constants('data/'+name+'.js').flat()).filter(n=>n?.category==='places');
 assert.equal(places.length,plan.targetCount);
 assert.deepEqual(Object.keys(art).sort(),places.map(n=>n.id).sort(),'every static attraction has a mapped illustration');

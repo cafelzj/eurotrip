@@ -2,7 +2,7 @@
 
 本记录核对用户提供的五省综述、浙江与安徽分市清单，并说明本次采用、更正及暂缓的内容。网站仍收录最初指定的北京、山东、安徽、江苏、浙江、上海、山西；陕西、辽宁列入本页核对范围，未用它们替换山西或新增未经整理的省份入口。
 
-“未检索到”“只有企业名录”“搜索结果未展示”均不能推出当地没有这类食品。市级收录数量见 [flavor-city-coverage.json](flavor-city-coverage.json)，每项实际引用见 [flavor-source-review.json](flavor-source-review.json)。正文链接失效而公开检索接口仍保留全文的情况，已分别记录 `readVia`、`evidenceUrl`、`originalUrl` 和原链接状态。
+“未检索到”“只有企业名录”“搜索结果未展示”均不能推出当地没有这类食品。市级收录数量见 [flavor-city-coverage.json](../../coverage.json)，每项实际引用见 [flavor-source-review.json](../../sources.json)。正文链接失效而公开检索接口仍保留全文的情况，已分别记录 `readVia`、`evidenceUrl`、`originalUrl` 和原链接状态。
 
 ## 需要更正的判断
 
@@ -115,4 +115,4 @@
 
 天气网食品、特产页为二级介绍资料，正文存在旧区划、错误栏目、串入其他茶类、保健宣传等问题。只采用经人工阅读后能对应食品和地点的内容；没有照搬“十大”排名、御赐传说、疗效和固定保存期限。其错误地名模板标题没有拿来判断城市，审阅记录保留原始标题。
 
-后续茶饮品牌核对更新见 [tea-brand-review.md](tea-brand-review.md)，一叶觅山已凭明确称为合肥本土品牌的报道补入。
+后续茶饮品牌核对更新见 [tea-brand-review.md](tea-brands.md)，一叶觅山已凭明确称为合肥本土品牌的报道补入。

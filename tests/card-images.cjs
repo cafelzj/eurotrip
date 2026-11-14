@@ -20,7 +20,7 @@ for(const [key,image]of Object.entries(media.assets)){
 assert(cards.filter(n=>n.type==='person').every(n=>media.cards[n.id]),'all existing people have a reviewed image');
 assert(!media.cards['food-xuzhou-lomo'],'Luomo musician is not the Xuzhou flatbread');
 assert(!media.cards['food-innsbruck-0'],'South Tyrolean ham is not an Austrian Tiroler Speck product photo');
-const photoReview=JSON.parse(fs.readFileSync(path.join(root,'docs/food-photo-review.json'),'utf8'));
+const photoReview=JSON.parse(fs.readFileSync(path.join(root,'research/media/food/review.json'),'utf8'));
 const canonicalFile=file=>decodeURIComponent(file).replaceAll('_',' ').normalize('NFC');
 for(const file of photoReview.rejected.map(entry=>entry.file))assert(!Object.values(media.assets).some(image=>canonicalFile(image.file)===canonicalFile(file)),'withdraw rejected photo '+file);
 // Coverage must follow the visual decisions; a numeric quota must never force

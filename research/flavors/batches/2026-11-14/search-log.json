@@ -3,7 +3,7 @@
   "searchBatchCount": 39,
   "queryCount": 50,
   "scope": "本轮真实网络检索的查询词与结果链接底稿；批量查询共享结果集合，不能把每条结果都视为每个查询命中。",
-  "meaning": "搜索记录不等于正文核实；实际采用条目与已读来源另见flavor-2000-expansion-2026-11-14.json及flavor-source-review.json。",
+  "meaning": "搜索记录不等于正文核实；实际采用条目与已读来源另见 research/flavors/batches/2026-11-14/expansion-2112.json 及 research/flavors/sources.json。",
   "batches": [
     {
       "batch": "jsDairySearch0",

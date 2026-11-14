@@ -2,7 +2,7 @@
 
 Photographs retain their individual licenses below. Processing: proportional resizing and conversion to WebP, with JPEG/PNG compatibility copies now used by the site; no scene content or colors altered. Dates in captions are the original photograph dates, not a claim of current operational layout.
 
-The author, source and license listed for each WebP also apply to its same-name JPEG/PNG compatibility copy. File-level conversion fingerprints are recorded in `docs/local-media.json`. The compatibility encoding preserves the existing scene and dimensions.
+The author, source and license listed for each WebP also apply to its same-name JPEG/PNG compatibility copy. File-level conversion fingerprints are recorded in `research/media/local-copies.json`. The compatibility encoding preserves the existing scene and dimensions.
 
 ## poi-salzburg-salzburg-1.webp
 

@@ -4624,7 +4624,7 @@
           "query": "安徽 舒城 霍邱 金寨 地方小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch11"
         }
       ]
@@ -4647,7 +4647,7 @@
           "query": "安徽 舒城 霍邱 金寨 地方小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch11"
         }
       ]
@@ -4670,7 +4670,7 @@
           "query": "安徽 舒城 霍邱 金寨 地方小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch11"
         }
       ]
@@ -4991,7 +4991,7 @@
           "query": "南京 苏州 无锡 乳业 卫岗 双喜 益多",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch0"
         }
       ]
@@ -5249,28 +5249,28 @@
           "query": "南京 苏州 无锡 乳业 卫岗 双喜 益多",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch0"
         },
         {
           "query": "江苏 飞鹤 无锡 美乐 羊奶 乳业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch2"
         },
         {
           "query": "无锡 益多 乳业 美乐 牛奶 官网",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "dairyMoreSearch1"
         },
         {
           "query": "无锡养乐多 乳品 工厂 官网",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "dairyMoreSearch2"
         }
       ]
@@ -6176,7 +6176,7 @@
           "query": "徐州 睢宁 君乐宝 维维 天山雪 乳业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch2"
         }
       ]
@@ -6435,7 +6435,7 @@
           "query": "江苏 鲜活 乳业 昆山 奶油 企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch2"
         }
       ]
@@ -6484,21 +6484,21 @@
           "query": "南通 乳业 怡生 海安 乳品 企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         },
         {
           "query": "南通 怡生 乳业 牛奶",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch3"
         },
         {
           "query": "南通 怡生乳业 牛奶",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySingle2"
         }
       ]
@@ -6597,7 +6597,7 @@
           "query": "南通 乳业 怡生 海安 乳品 企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         }
       ]
@@ -6631,14 +6631,14 @@
           "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         },
         {
           "query": "江苏 连云港 乳制品 生产 企业 牛奶",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "extraCitySearch2"
         }
       ]
@@ -6660,14 +6660,14 @@
           "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         },
         {
           "query": "江苏 连云港 乳制品 生产 企业 牛奶",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "extraCitySearch2"
         }
       ]
@@ -6768,7 +6768,7 @@
           "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         }
       ]
@@ -6788,7 +6788,7 @@
           "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         }
       ]
@@ -6899,7 +6899,7 @@
           "query": "盐城 银宝 菊乐 光明 乳业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         }
       ]
@@ -7148,21 +7148,21 @@
           "query": "常州 红梅 乳业 镇江 乳业 企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch0"
         },
         {
           "query": "镇江 恒康 乳业 牛奶",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch3"
         },
         {
           "query": "镇江 乳业 牛奶 企业 恒康 丹阳",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySingle3"
         }
       ]
@@ -7218,7 +7218,7 @@
           "query": "镇江 乳业 牛奶 企业 恒康 丹阳",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySingle3"
         }
       ]
@@ -7384,14 +7384,14 @@
           "query": "淮安 连云港 宿迁 乳业 乳制品 生产企业",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "jsDairySearch1"
         },
         {
           "query": "江苏 宿迁 乳业 志威 蒙牛",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "extraCitySearch3"
         }
       ]
@@ -9965,7 +9965,7 @@
           "query": "浙江 江山 常山 衢江 地方菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch10"
         }
       ]
@@ -9988,7 +9988,7 @@
           "query": "浙江 江山 常山 衢江 地方菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch10"
         }
       ]
@@ -10049,7 +10049,7 @@
           "query": "浙江 江山 常山 衢江 地方菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch10"
         }
       ]
@@ -10517,7 +10517,7 @@
           "query": "site.shanghai.gov.cn 生煎 包 上海",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "githubLeadCheck1"
         }
       ]
@@ -14031,7 +14031,7 @@
           "query": "河南 民权 宁陵 睢县 地方特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch9"
         }
       ]
@@ -14062,7 +14062,7 @@
           "query": "河南 民权 宁陵 睢县 地方特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch9"
         }
       ]
@@ -16661,7 +16661,7 @@
           "query": "site.hunan.gov.cn 长沙 糖油粑粑 小炒黄牛肉",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "githubLeadCheck0"
         }
       ]
@@ -16749,7 +16749,7 @@
           "query": "site.hunan.gov.cn 长沙 糖油粑粑 小炒黄牛肉",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "githubLeadCheck0"
         }
       ]
@@ -18043,7 +18043,7 @@
           "query": "湖南 宁远 祁阳 道县 特色小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch3"
         }
       ]
@@ -18121,7 +18121,7 @@
           "query": "湖南 宁远 祁阳 道县 特色小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch3"
         }
       ]
@@ -18892,7 +18892,7 @@
           "query": "湖北 竹溪 竹山 房县 特色菜 蒸盆",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch1"
         }
       ]
@@ -18914,7 +18914,7 @@
           "query": "湖北 竹溪 竹山 房县 特色菜 蒸盆",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch1"
         }
       ]
@@ -19327,7 +19327,7 @@
           "query": "湖北 钟祥 沙洋 地方美食 蟠龙菜",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch2"
         }
       ]
@@ -19351,7 +19351,7 @@
           "query": "湖北 钟祥 沙洋 地方美食 蟠龙菜",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch2"
         }
       ]
@@ -19657,7 +19657,7 @@
           "query": "湖北 罗田 英山 地方小吃 吊锅 汽水粑",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch0"
         }
       ]
@@ -19677,7 +19677,7 @@
           "query": "湖北 罗田 英山 地方小吃 吊锅 汽水粑",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch0"
         }
       ]
@@ -20984,7 +20984,7 @@
           "query": "福建 连城 长汀 武平 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch4"
         }
       ]
@@ -21023,7 +21023,7 @@
           "query": "福建 连城 长汀 武平 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch4"
         }
       ]
@@ -21046,7 +21046,7 @@
           "query": "福建 连城 长汀 武平 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch4"
         }
       ]
@@ -21466,11 +21466,9 @@
       "city": "大连",
       "name": "甘井子区",
       "level": "county",
-      "entryIds": [
-        "county-6da29bc812d86f"
-      ],
+      "entryIds": [],
       "reviewedTopics": [],
-      "status": "has-sourced-entries",
+      "status": "not-started",
       "parentAdcode": 210200
     },
     {
@@ -22205,7 +22203,7 @@
           "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch8"
         }
       ]
@@ -22280,7 +22278,7 @@
           "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch8"
         }
       ]
@@ -22306,7 +22304,7 @@
           "query": "辽宁 阜新 彰武 阜蒙县 地方美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch8"
         }
       ]
@@ -22344,7 +22342,7 @@
           "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch5"
         }
       ]
@@ -22408,7 +22406,7 @@
           "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch5"
         }
       ]
@@ -22444,7 +22442,7 @@
           "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch5"
         }
       ]
@@ -22469,7 +22467,7 @@
           "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch5"
         }
       ]
@@ -23036,7 +23034,7 @@
           "query": "吉林 大安 通榆 洮南 特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch6"
         }
       ]
@@ -23549,7 +23547,7 @@
           "query": "辽宁 辽阳 灯塔 弓长岭 特色美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch5"
         }
       ]
@@ -23653,7 +23651,7 @@
           "query": "吉林 大安 通榆 洮南 特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch6"
         }
       ]
@@ -23676,7 +23674,7 @@
           "query": "吉林 大安 通榆 洮南 特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch6"
         }
       ]
@@ -23699,7 +23697,7 @@
           "query": "吉林 大安 通榆 洮南 特色 美食",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch6"
         }
       ]
@@ -23852,7 +23850,7 @@
           "query": "马迭尔 冰棍 哈尔滨 政府",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "githubLeadCheck3"
         }
       ]
@@ -24170,7 +24168,7 @@
           "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch7"
         }
       ]
@@ -24369,7 +24367,7 @@
           "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch7"
         }
       ]
@@ -24391,7 +24389,7 @@
           "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch7"
         }
       ]
@@ -24413,7 +24411,7 @@
           "query": "黑龙江 虎林 密山 鸡东 特色菜 小吃",
           "checked": "2026-11-14",
           "status": "search-only-not-comprehensive",
-          "logFile": "docs/flavor-search-log-2026-11-14.json",
+          "logFile": "research/flavors/batches/2026-11-14/search-log.json",
           "batch": "countySearch7"
         }
       ]

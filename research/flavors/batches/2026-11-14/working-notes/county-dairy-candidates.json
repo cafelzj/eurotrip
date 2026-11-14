@@ -1,0 +1,3938 @@
+[
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "seasoning",
+    "locality": "浏阳市",
+    "name": "浏阳豆豉",
+    "kind": "发酵豆类调味品",
+    "fact": "以浏阳命名的豆豉，作为地方调味产品记录，与豆腐、香干分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "宁乡市",
+    "name": "宁乡五里堆香干",
+    "kind": "地方豆制品",
+    "fact": "湖南名录列明的五里堆香干，保存宁乡这一县级市关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "浏阳市",
+    "name": "浏阳蒸菜",
+    "kind": "地方蒸制菜系",
+    "fact": "以蒸制为特色的浏阳地方菜传统，作为组合条目，不将不同蒸菜虚构为统一配方。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "crafts",
+    "locality": "浏阳市",
+    "name": "浏阳夏布",
+    "kind": "传统织物",
+    "fact": "湖南名录列明的地方夏布，归入物品与工艺，和茶油、豆豉等食品分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "crafts",
+    "locality": "望城区铜官街道",
+    "name": "铜官陶瓷",
+    "kind": "陶瓷工艺",
+    "fact": "以铜官为地名的地方陶瓷，保存长沙望城的器物制作关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "tea",
+    "locality": "长沙市相关产区",
+    "name": "长沙绿茶",
+    "kind": "地方茶叶",
+    "fact": "湖南地理标志名录列明的绿茶产品，本条保持市域范围，未缩小到单一茶园。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "tea",
+    "locality": "宁乡市沩山",
+    "name": "沩山毛尖",
+    "kind": "地方茶叶",
+    "fact": "以沩山命名的地方茶，茶园、等级与具体加工方式随产品进一步核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "衡阳",
+    "type": "ingredients",
+    "locality": "衡东县三樟镇",
+    "name": "三樟黄贡椒",
+    "kind": "地方辣椒",
+    "fact": "名录列明的地方黄贡椒，按衡东三樟地名记录，不以名称推定历史贡品身份。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "衡阳",
+    "type": "ingredients",
+    "locality": "常宁市",
+    "name": "常宁茶油",
+    "kind": "地方食用油",
+    "fact": "湖南地理标志产品名录中的地方茶油，属于食用植物油，区别于冲泡茶。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "衡阳",
+    "type": "ingredients",
+    "locality": "祁东县",
+    "name": "祁东酥脆枣",
+    "kind": "地方鲜果",
+    "fact": "以祁东命名的枣产品，酥脆为产品名称线索，具体品种和成熟期尚未逐项核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "衡阳",
+    "type": "ingredients",
+    "locality": "衡阳县台源镇",
+    "name": "衡阳台源乌莲",
+    "kind": "地方莲子",
+    "fact": "湖南名录列明的地方莲产品，保存台源的生产地域关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "衡阳",
+    "type": "dishes",
+    "locality": "衡阳市相关传承地区",
+    "name": "衡阳鱼丸",
+    "kind": "地方鱼制食品",
+    "fact": "名录列明的地方鱼丸，记录衡阳饮食关联，不推定所有门店使用相同鱼种。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "攸县",
+    "name": "攸县麻鸭",
+    "kind": "地方禽类原料",
+    "fact": "湖南名录列明的麻鸭产品，与已经收录的攸县米粉和豆腐分别分类。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "茶陵县",
+    "name": "茶陵黄牛",
+    "kind": "地方畜牧原料",
+    "fact": "名录列明的地方黄牛，记录畜牧产区，不将其直接当作某一道熟食菜名。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "渌口区白关镇",
+    "name": "白关丝瓜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的丝瓜，保存白关这一乡镇产地线索。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "渌口区王十万一带",
+    "name": "株洲王十万黄辣椒",
+    "kind": "地方辣椒",
+    "fact": "湖南名录列明的地方黄辣椒，保存王十万地名，乡镇现行边界仍可继续细化。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "茶陵县",
+    "name": "茶陵生姜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录中的茶陵姜产品，以县域保存产地，不把它和加工姜制品混作同类。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "ingredients",
+    "locality": "攸县",
+    "name": "攸县茶油",
+    "kind": "地方食用油",
+    "fact": "名录列明的县域茶油产品，记录原料加工的地域关联，不视作特定企业品牌。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "tea",
+    "locality": "茶陵县",
+    "name": "茶陵红茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的县域红茶，产品类别与同县生姜、大蒜等食材分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "株洲",
+    "type": "dishes",
+    "locality": "茶陵县",
+    "name": "茶陵风干鹅",
+    "kind": "地方禽类加工食品",
+    "fact": "湖南名录列明的地方风干鹅，保存加工食品形态，不推定统一腌料和保存期。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘潭",
+    "type": "ingredients",
+    "locality": "湘潭市相关产区",
+    "name": "沙子岭猪",
+    "kind": "地方畜牧原料",
+    "fact": "名录列明的地方猪产品，作为畜牧食材关联记录，和具体熟食品牌分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘潭",
+    "type": "ingredients",
+    "locality": "湘乡市壶天镇",
+    "name": "壶天石羊",
+    "kind": "地方畜牧原料",
+    "fact": "湖南名录中的地方羊产品，保存湘乡壶天关联，具体肉品形式仍按包装辨认。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘潭",
+    "type": "tea",
+    "locality": "湘乡市水府一带",
+    "name": "湘乡水府茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的水府茶，记录湘乡产区关联，未凭名称推定所有茶类与等级。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘潭",
+    "type": "dishes",
+    "locality": "湘潭县乌石镇",
+    "name": "湘潭乌石腊肉",
+    "kind": "地方腌腊肉",
+    "fact": "湖南名录列明的乌石地方腊肉，记录腌腊食品形态，不编造具体熏制时长。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "邵阳",
+    "type": "ingredients",
+    "locality": "邵东市",
+    "name": "邵东黄花菜",
+    "kind": "地方干菜原料",
+    "fact": "湖南地理标志名录中的黄花菜，以邵东县级市记录产地，具体加工状态另核。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "邵阳",
+    "type": "ingredients",
+    "locality": "城步苗族自治县",
+    "name": "城步竹笋",
+    "kind": "地方笋类食材",
+    "fact": "湖南名录列明的县域竹笋，不把名称直接等同于某种加工笋干。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "邵阳",
+    "type": "tea",
+    "locality": "城步苗族自治县",
+    "name": "城步峒茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的城步地方茶，保留峒茶这一名称供后续品种与工艺核查。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "君山区广兴洲镇",
+    "name": "广兴洲大白菜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的地方大白菜，保存广兴洲乡镇定位，不视为统一栽培品种。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "湘阴县樟树镇",
+    "name": "樟树港辣椒",
+    "kind": "地方辣椒",
+    "fact": "湖南名录列明的辣椒产品，与樟树港地名相连，和省外同名地不混淆。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "岳阳市相关产区",
+    "name": "岳阳黄颡鱼",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的黄颡鱼，作为水产原料记录，不推定养殖场或固定烹法。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "岳阳市相关产区",
+    "name": "岳阳大米",
+    "kind": "地方稻米",
+    "fact": "湖南名录列明的市域稻米产品，未将区域名称当作某一家企业的商标。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "岳阳市相关产区",
+    "name": "岳阳花猪",
+    "kind": "地方畜牧原料",
+    "fact": "湖南名录列明的地方猪产品，以市域保留畜牧产区关联，不虚构具体村镇。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "湘阴县玉池山一带",
+    "name": "玉池山桂花蜜",
+    "kind": "蜂产品",
+    "fact": "湖南名录点名的桂花蜜产品，保存玉池山地名，不据此推定每款蜂蜜的检测指标。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "君山区",
+    "name": "君山芦笋",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的君山芦笋，作为地方食材记录，与芦苇工艺用品分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "君山区许市镇",
+    "name": "君山许市脐橙",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的县镇橙类产品，保存君山许市的具体产区线索。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "ingredients",
+    "locality": "岳阳市相关产区",
+    "name": "岳阳金盆柚",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的地方柚产品，暂按市域记录，品种与乡镇范围待细化。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "dishes",
+    "locality": "平江县",
+    "name": "平江面筋",
+    "kind": "地方加工小吃",
+    "fact": "湖南名录列明的平江地方面筋食品，具体配方、口味和厂商仍分别核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "dishes",
+    "locality": "岳阳市黄沙街一带",
+    "name": "岳阳黄沙街百叶",
+    "kind": "地方豆制品",
+    "fact": "名录列明的黄沙街百叶，作为地方豆制食品记录，不根据名称推定肉类原料。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "dishes",
+    "locality": "君山区钱粮湖六门闸",
+    "name": "钱粮湖六门闸风干鱼",
+    "kind": "地方鱼类加工食品",
+    "fact": "湖南名录列明的风干鱼产品，保存县镇地名，不推定统一鱼种与腌料。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "staples",
+    "locality": "汨罗市",
+    "name": "汨罗粽子",
+    "kind": "地方米制主食",
+    "fact": "湖南名录列明的汨罗地方粽子，按粽类收录，咸甜馅料随具体产品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "seasoning",
+    "locality": "临湘市龙窖山一带",
+    "name": "龙窖腐乳",
+    "kind": "发酵豆类调味食品",
+    "fact": "湖南地理标志产品名录列明的腐乳，保留龙窖地名，不推定统一发酵配方。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "seasoning",
+    "locality": "临湘市龙窖山一带",
+    "name": "龙窖酱菜",
+    "kind": "地方酱腌菜",
+    "fact": "湖南名录列明的酱菜产品，和同地区腐乳分开记录，不虚构具体菜种组合。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "tea",
+    "locality": "岳阳市相关产区",
+    "name": "岳阳黄茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的黄茶，以市域茶区记录，具体品种与等级需随茶品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "tea",
+    "locality": "平江县",
+    "name": "平江高山茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录中的平江地方茶，名称不代替海拔证明，具体茶园还可进一步细分。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "crafts",
+    "locality": "岳阳市相关传承地区",
+    "name": "岳阳芭蕉扇",
+    "kind": "传统日用品",
+    "fact": "湖南名录列明的地方扇类物品，与食品分开，材质和制作工序尚未逐件核查。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "岳阳",
+    "type": "crafts",
+    "locality": "岳阳市相关传承地区",
+    "name": "岳州青瓷",
+    "kind": "青瓷工艺",
+    "fact": "湖南名录列明的地方青瓷，以陶瓷器物和制作地区关联记录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "鼎城区",
+    "name": "鼎城茶油",
+    "kind": "地方食用油",
+    "fact": "湖南名录列明的县区茶油，作为植物食用油记录，区别于冲泡茶饮。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "常德市相关产区",
+    "name": "常德香米",
+    "kind": "地方稻米",
+    "fact": "湖南名录列明的地方稻米，香米是产品名称，未统一推定栽培品种。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "津市市",
+    "name": "津市藠果",
+    "kind": "地方蔬菜及加工原料",
+    "fact": "湖南名录列明的地方藠类产品，保留津市县级市位置，具体加工形态另核。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "常德市相关产区",
+    "name": "常德柳叶鲫",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的柳叶鲫，以鱼类食材记录，不直接据名称推定野生来源。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "汉寿县",
+    "name": "汉寿玉臂藕",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的地方莲藕产品，以汉寿县域保存食材关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "石门县",
+    "name": "石门马头山羊",
+    "kind": "地方畜牧原料",
+    "fact": "湖南名录中的山羊产品，记录石门县产地，肉品与具体熟食分开理解。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "石门县",
+    "name": "石门土鸡",
+    "kind": "地方禽类原料",
+    "fact": "湖南名录列明的地方鸡产品，保留石门县域，不把土鸡一词当作统一品种证明。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "临澧县",
+    "name": "临澧杂柑",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的杂柑产品，记录县域果业关联，具体品种仍按产品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "临澧县",
+    "name": "临澧黄花鱼",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的黄花鱼产品，物种与养殖水域未据同名海鱼作猜测。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "ingredients",
+    "locality": "澧县",
+    "name": "澧县葡萄",
+    "kind": "地方鲜果",
+    "fact": "湖南地理标志产品名录中的葡萄，以澧县保存地方种植关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "tea",
+    "locality": "桃源县",
+    "name": "桃源大叶茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的大叶茶，记录桃源产区，不将名称代替每款茶的品种鉴定。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "tea",
+    "locality": "石门县",
+    "name": "石门红茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的红茶产品，与同县石门银峰及柑橘分别归类。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "常德",
+    "type": "alcohol",
+    "locality": "武陵区德山一带",
+    "name": "德山大曲",
+    "kind": "地方酒",
+    "fact": "湖南地理标志名录中的地方酒产品，酒度、容量及当前厂商仍按具体包装核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "张家界",
+    "type": "ingredients",
+    "locality": "张家界市相关产区",
+    "name": "张家界椪柑",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的椪柑产品，按市域保存地方果业关联，不推定单一乡镇。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "张家界",
+    "type": "ingredients",
+    "locality": "桑植县",
+    "name": "桑植茶油",
+    "kind": "地方食用油",
+    "fact": "湖南名录列明的地方茶油，与同县茶叶和蜂蜜按产品类别分别收录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "张家界",
+    "type": "ingredients",
+    "locality": "桑植县",
+    "name": "桑植粽叶",
+    "kind": "地方食品包裹材料",
+    "fact": "湖南名录列明的地方粽叶，记录用于包裹食品的植物材料，和粽子成品分开。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "张家界",
+    "type": "tea",
+    "locality": "桑植县",
+    "name": "桑植白茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的桑植白茶，以地方茶产品记录，具体树种和工艺随茶品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "ingredients",
+    "locality": "南县",
+    "name": "南县中华鳖",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的中华鳖产品，记录南县养殖食材关联，不推定统一烹法。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "ingredients",
+    "locality": "南县",
+    "name": "南县稻虾米",
+    "kind": "地方稻米",
+    "fact": "湖南名录列明的稻虾米，名称涉及稻虾生产模式，不能理解为米饭里必然含虾。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "ingredients",
+    "locality": "大通湖区",
+    "name": "大通湖大米",
+    "kind": "地方稻米",
+    "fact": "湖南名录中的地方大米，以大通湖区保存具体产区关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "ingredients",
+    "locality": "大通湖区",
+    "name": "大通湖大闸蟹",
+    "kind": "地方蟹类",
+    "fact": "湖南名录列明的地方蟹产品，和同区大米按不同食材分别记录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "tea",
+    "locality": "桃江县",
+    "name": "桃江绿茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的桃江绿茶，与当地竹笋、竹凉席按不同类别分别收录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "dishes",
+    "locality": "安化县",
+    "name": "安化腊肉",
+    "kind": "地方腌腊肉",
+    "fact": "湖南名录列明的县域腊肉产品，不以地方名称推定统一熏制方式和保存期限。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "益阳",
+    "type": "crafts",
+    "locality": "桃江县",
+    "name": "桃江竹凉席",
+    "kind": "竹制日用品",
+    "fact": "湖南名录列明的竹凉席，按非食品日用品收录，记录地方竹产业关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "郴州",
+    "type": "ingredients",
+    "locality": "宜章县",
+    "name": "宜章脐橙",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的地方脐橙，保存宜章县域位置，不与永兴冰糖橙混同。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "郴州",
+    "type": "ingredients",
+    "locality": "郴州市相关产区",
+    "name": "郴州高山禾花鱼",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的禾花鱼，具体品种、水域及生产模式仍按产品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "郴州",
+    "type": "ingredients",
+    "locality": "桂东县",
+    "name": "桂东罗汉果",
+    "kind": "地方果实",
+    "fact": "湖南名录列明的地方罗汉果，作为果实产品记录，不采用疗效宣传。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "郴州",
+    "type": "ingredients",
+    "locality": "安仁县",
+    "name": "安仁大米",
+    "kind": "地方稻米",
+    "fact": "湖南名录中的县域稻米产品，保持安仁产地关联，不等同某个商业品牌。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "郴州",
+    "type": "tea",
+    "locality": "汝城县",
+    "name": "汝城白毛茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的地方茶，保留白毛茶这一名称，品种和加工方式待逐品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "双牌县",
+    "name": "双牌虎爪姜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的虎爪姜，记录双牌县域食材关联，不编造具体种植历史。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "蓝山县",
+    "name": "蓝山黄花梨",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的黄花梨，作为梨果记录，与同名木材品类明确区分。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "新田县",
+    "name": "新田大豆",
+    "kind": "地方杂豆",
+    "fact": "湖南名录列明的新田大豆，以县域保存地方农业关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "道县",
+    "name": "道州脐橙",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的地方脐橙，道州地名按现行道县定位。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "东安县舜皇山一带",
+    "name": "舜皇山土猪",
+    "kind": "地方畜牧原料",
+    "fact": "湖南名录列明的地方猪产品，记录舜皇山关联，不推定具体养殖场。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "新田县陶岭一带",
+    "name": "陶岭三味辣椒",
+    "kind": "地方辣椒",
+    "fact": "湖南名录列明的地方辣椒，三味是产品名称，具体品种与风味仍待细分。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "ingredients",
+    "locality": "祁阳市",
+    "name": "祁阳槟榔芋",
+    "kind": "地方薯芋",
+    "fact": "湖南名录列明的地方芋类，槟榔芋名称不表示加入槟榔，按现行祁阳市定位。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "永州",
+    "type": "tea",
+    "locality": "江华瑶族自治县",
+    "name": "江华苦茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的江华地方茶，不将苦茶名称直接等同某一种代用茶植物。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "芷江侗族自治县",
+    "name": "芷江绿壳鸡蛋",
+    "kind": "地方禽蛋",
+    "fact": "湖南名录列明的绿壳鸡蛋，记录产品名称，不由蛋壳颜色推定营养优势。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "麻阳苗族自治县",
+    "name": "麻阳白鹅",
+    "kind": "地方禽类原料",
+    "fact": "湖南名录列明的地方鹅产品，以麻阳县域保存关联，不当作已经烹熟的菜名。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "麻阳苗族自治县",
+    "name": "麻阳小籽花生",
+    "kind": "地方坚果油料",
+    "fact": "湖南名录列明的地方花生，保留小籽产品名，具体品种和烘炒形态另核。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "新晃侗族自治县",
+    "name": "新晃黄牛肉",
+    "kind": "地方肉类",
+    "fact": "湖南地理标志产品名录列明的黄牛肉，以新晃县域记录食材产地。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "洪江市托口镇",
+    "name": "托口生姜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的生姜产品，按洪江市托口镇保存地理检索线索。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "ingredients",
+    "locality": "洪江市大崇乡",
+    "name": "大崇金秋梨",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的地方梨产品，以洪江市大崇地名保存县镇关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "dishes",
+    "locality": "通道侗族自治县",
+    "name": "通道腌肉",
+    "kind": "地方腌制肉",
+    "fact": "湖南名录列明的腌肉产品，记录通道饮食传统，不推定所有产品的食用状态。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "怀化",
+    "type": "alcohol",
+    "locality": "通道侗族自治县",
+    "name": "通道苦酒",
+    "kind": "地方酒",
+    "fact": "湖南名录列明的地方酒，保留苦酒这一名称，具体酒种与酒度尚待细分。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "娄底",
+    "type": "ingredients",
+    "locality": "涟源市桥头河镇",
+    "name": "桥头河萝卜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的萝卜产品，以桥头河乡镇地名保存具体产地关联。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "娄底",
+    "type": "ingredients",
+    "locality": "新化县",
+    "name": "新化魔芋",
+    "kind": "地方薯类原料",
+    "fact": "湖南名录列明的魔芋产品，以农产原料记录，不能直接等同加工后的魔芋制品。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "娄底",
+    "type": "ingredients",
+    "locality": "新化县",
+    "name": "新化杨梅",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的新化杨梅，与其他县域杨梅按具名产区分别记录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "娄底",
+    "type": "ingredients",
+    "locality": "新化县",
+    "name": "新化红薯粉",
+    "kind": "地方淀粉原料",
+    "fact": "湖南名录列明的红薯粉，记录原料产品名，不凭名称决定所有产品均为粉条。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "娄底",
+    "type": "ingredients",
+    "locality": "新化县",
+    "name": "新化稻田鲤鱼",
+    "kind": "地方水产",
+    "fact": "湖南名录列明的稻田鲤鱼，记录地方水产关联，具体生产模式仍按产品核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "龙山县里耶镇",
+    "name": "里耶脐橙",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的地方脐橙，保留里耶和龙山县的产地信息。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "凤凰县",
+    "name": "凤凰红心猕猴桃",
+    "kind": "地方鲜果",
+    "fact": "湖南名录列明的猕猴桃产品，红心是产品名线索，不推定所有果实成熟度一致。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "龙山县",
+    "name": "龙山萝卜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的地方萝卜，与同县百合、辣椒按不同食材分别记录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "龙山县",
+    "name": "龙山七姊妹辣椒",
+    "kind": "地方辣椒",
+    "fact": "湖南名录列明的七姊妹辣椒，具体辛辣程度、品种和包装规格另行核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "凤凰县",
+    "name": "凤凰生姜",
+    "kind": "地方蔬菜",
+    "fact": "湖南名录列明的生姜，记录县域食材，不与姜糖等加工食品混同。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "凤凰县",
+    "name": "凤凰苦荞",
+    "kind": "地方杂粮",
+    "fact": "湖南名录列明的地方苦荞，作为谷物原料记录，不能将全部产品视为冲泡茶。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "ingredients",
+    "locality": "湘西州相关产区",
+    "name": "湘西茶油",
+    "kind": "地方食用油",
+    "fact": "湖南名录列明的区域茶油，以州域保存关联，不缩小为某家厂商的独有产地。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "dishes",
+    "locality": "凤凰县",
+    "name": "凤凰姜糖",
+    "kind": "地方糖食",
+    "fact": "湖南名录列明的地方姜糖，记录姜与糖食的产品关联，具体配方仍需按包装核对。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "dishes",
+    "locality": "凤凰县",
+    "name": "凤凰血粑鸭",
+    "kind": "地方鸭菜",
+    "fact": "湖南名录列明的地方鸭菜，保存凤凰县域位置，血粑等具体制法另作深入核查。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "tea",
+    "locality": "古丈县",
+    "name": "古丈红茶",
+    "kind": "地方茶叶",
+    "fact": "湖南名录列明的红茶产品，与已收录的古丈毛尖分别按茶类记录。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "crafts",
+    "locality": "凤凰县",
+    "name": "凤凰蜡染",
+    "kind": "传统织染工艺",
+    "fact": "湖南名录列明的地方蜡染，记录织物工艺关联，不把任意门店售品等同地方制作。"
+  },
+  {
+    "source": "hn-produce",
+    "province": "hunan",
+    "city": "湘西州",
+    "type": "crafts",
+    "locality": "永顺县塔卧镇",
+    "name": "塔卧石雕",
+    "kind": "石雕工艺",
+    "fact": "湖南名录列明的地方石雕，保留塔卧地名，原石来源与加工地分别理解。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "萧山区河上镇",
+    "name": "河上桔红糕",
+    "kind": "地方糕点",
+    "fact": "萧山河上一带的地方糕点，资料将其列入浙江农家小吃名单，具体配料尚待细核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "临平区塘栖镇",
+    "name": "塘栖小桃酥",
+    "kind": "地方糕点",
+    "fact": "以塘栖地名记录的地方桃酥，来源使用旧余杭区名称，按现行临平区展示。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "临安区昌南一带",
+    "name": "昌南山牛蒡粿",
+    "kind": "地方粿点",
+    "fact": "临安地方粿类小吃，保留牛蒡粿这一产品名，不据名称编造配料比例。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "桐庐县",
+    "name": "桐庐米粿",
+    "kind": "地方米制小吃",
+    "fact": "浙江县域小吃名单列明的米粿，以桐庐县域保存关联，馅料与形态另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "淳安县安上村一带",
+    "name": "安上粉皮",
+    "kind": "地方淀粉小吃",
+    "fact": "浙江名单列明的粉皮小吃，县域为淳安，具体制粉原料仍需进一步核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "建德市",
+    "name": "建德状元饼",
+    "kind": "地方饼食",
+    "fact": "浙江小吃名单列明的建德地方饼食，状元为名称，不据此采信历史传说。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "建德市",
+    "name": "建德水米糕",
+    "kind": "地方米制糕点",
+    "fact": "浙江名单列明的建德糕点，保留水米糕名称，具体水米处理工序尚待细查。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "staples",
+    "locality": "建德市三都镇",
+    "name": "三都麻糍",
+    "kind": "地方糯米小吃",
+    "fact": "以建德三都命名的地方麻糍，来源支持县镇关联，不统一推定咸甜口味。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "dishes",
+    "locality": "临平区塘栖镇",
+    "name": "塘栖粢毛肉圆",
+    "kind": "地方肉圆",
+    "fact": "来源以塘栖地方肉圆收录，使用旧余杭区名称，现按临平区保存检索位置。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "杭州",
+    "type": "dishes",
+    "locality": "富阳区永昌镇",
+    "name": "永昌臭豆腐",
+    "kind": "地方豆制小吃",
+    "fact": "浙江名单列明的富阳永昌臭豆腐，与绍兴等地同类食品按明确地区分开记录。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "海曙区",
+    "name": "海曙乌饭麻糍",
+    "kind": "地方米制小吃",
+    "fact": "浙江小吃名单列明的乌饭麻糍，以海曙区定位，具体植物染料和配方另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "北仑区",
+    "name": "北仑虾刺年糕",
+    "kind": "地方年糕",
+    "fact": "浙江名单列明的地方年糕，虾刺为产品名保留，不凭名称推定必含虾肉。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "鄞州区",
+    "name": "鄞州阿明包子",
+    "kind": "地方包点",
+    "fact": "浙江名单点名的阿明包子，暂按地方包点及名称记录，经营主体和现售位置另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "奉化区",
+    "name": "奉化千层饼",
+    "kind": "地方酥饼",
+    "fact": "浙江名单列明的奉化饼食，与其他地区同名千层饼按具名产区分别识别。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "余姚市陆埠镇",
+    "name": "陆埠豆酥糖",
+    "kind": "地方糖酥点心",
+    "fact": "浙江小吃名单列明的豆酥糖，保存余姚陆埠地名，具体豆料和糖油比例另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "宁海县",
+    "name": "宁海麦饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的宁海麦饼，与台州等地麦饼按县域饮食关联区分。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "staples",
+    "locality": "象山县",
+    "name": "象山米馒头",
+    "kind": "地方米制主食",
+    "fact": "浙江名单列明的米馒头，保留象山县域，具体发酵工艺与原料比例另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "宁波",
+    "type": "dishes",
+    "locality": "象山县",
+    "name": "象山鱼糍面",
+    "kind": "地方鱼制小吃",
+    "fact": "浙江名单以鱼糍面名称列入象山小吃，鱼制主体与谷物配比尚待原文工艺核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "龙湾区",
+    "name": "龙湾纱面汤",
+    "kind": "地方面食",
+    "fact": "浙江小吃名单列明的地方汤面，保留龙湾区关联，面条工艺和汤料仍待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "乐清市",
+    "name": "乐清瓦头锦",
+    "kind": "地方糕点线索",
+    "fact": "浙江名单列明的乐清小吃，保留瓦头锦名称，具体原料和类别还需进一步细分。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "永嘉县",
+    "name": "永嘉麦饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的永嘉县域麦饼，与其他地区同名饼食分别保存地理关联。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "平阳县",
+    "name": "平阳炒粉干",
+    "kind": "地方米粉",
+    "fact": "浙江小吃名单列明的炒粉干，以平阳县域定位，不推定所有版本配料相同。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "泰顺县里光一带",
+    "name": "里光婆饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的泰顺地方小吃，保存里光地名，具体制作方法仍待进一步核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "staples",
+    "locality": "苍南县矾山镇",
+    "name": "矾山肉燕",
+    "kind": "地方肉燕小吃",
+    "fact": "浙江名单列明的苍南肉燕，保存矾山镇定位，不将其与福州肉燕混作同一产地。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "dishes",
+    "locality": "洞头区",
+    "name": "洞头墨鱼饼",
+    "kind": "地方海味食品",
+    "fact": "浙江名单列明的墨鱼饼，以洞头海岛饮食关联记录，具体鱼肉与粉料比例另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "温州",
+    "type": "dishes",
+    "locality": "文成县",
+    "name": "文成农家绿豆腐",
+    "kind": "地方凝冻小吃",
+    "fact": "浙江名单列明的绿豆腐，产品植物原料尚待逐项核对，不把名称理解为绿豆制豆腐。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "湖州",
+    "type": "staples",
+    "locality": "吴兴区",
+    "name": "湖州茶食四珍",
+    "kind": "地方糕点组合",
+    "fact": "浙江名单以一项组合记录的湖州茶食，不在没有具体资料时拆成四个虚构条目。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "湖州",
+    "type": "staples",
+    "locality": "吴兴区",
+    "name": "湖州大馄饨",
+    "kind": "地方馄饨",
+    "fact": "浙江名单列明的大馄饨，以吴兴区保存地方关联，具体馅料和供应主体另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "湖州",
+    "type": "staples",
+    "locality": "南浔区",
+    "name": "南浔红烧羊肉面",
+    "kind": "地方面食",
+    "fact": "浙江名单列明的羊肉面，将面食与红烧羊肉的地方组合保留在同一条目。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "湖州",
+    "type": "staples",
+    "locality": "南浔区",
+    "name": "南浔桑果糕",
+    "kind": "地方糕点",
+    "fact": "浙江名单列明的桑果糕，保存南浔区关联，具体桑果加工工序尚待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "湖州",
+    "type": "staples",
+    "locality": "安吉县",
+    "name": "安吉吴均汤包",
+    "kind": "地方汤包",
+    "fact": "浙江名单列明的吴均汤包，按安吉县域记录，品牌主体和具体馅料仍需另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "南湖区凤桥镇",
+    "name": "凤桥梅花糕",
+    "kind": "地方糕点",
+    "fact": "浙江小吃名单列明的梅花糕，以嘉兴凤桥保存地理关联，不统一推定各款馅料。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "秀洲区王江泾镇",
+    "name": "王江泾芝麻栗酥",
+    "kind": "地方酥点",
+    "fact": "浙江名单列明的芝麻栗酥，保存秀洲王江泾乡镇定位。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "嘉善县西塘镇",
+    "name": "西塘八珍糕",
+    "kind": "地方糕点",
+    "fact": "浙江名单以西塘钟稻荪八珍糕列名，本条按地方糕点合并，不拆分配方凑数。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "平湖市",
+    "name": "平湖蟹壳黄",
+    "kind": "地方酥饼",
+    "fact": "浙江名单列明的平湖地方酥饼，蟹壳黄为形貌名称，不能据此推定含蟹肉。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "桐乡市乌镇",
+    "name": "乌镇姑嫂饼",
+    "kind": "地方糕点",
+    "fact": "浙江小吃名单列明的地方饼食，保存乌镇地名，不以名称采信人物故事。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "staples",
+    "locality": "桐乡市乌镇",
+    "name": "乌镇定胜糕",
+    "kind": "地方米制糕点",
+    "fact": "浙江名单列明的定胜糕，以桐乡乌镇保存县镇关联，形态和配方尚待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "嘉兴",
+    "type": "dishes",
+    "locality": "嘉善县西塘镇",
+    "name": "嘉善西塘粉蒸肉",
+    "kind": "地方蒸肉",
+    "fact": "浙江小吃名单列明的西塘粉蒸肉，与其他地区米粉蒸肉按具名地区分开。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "诸暨市次坞镇",
+    "name": "次坞打面",
+    "kind": "地方手工面",
+    "fact": "浙江名单列明的诸暨地方面食，保存次坞镇关联，和成品挂面分别理解。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "诸暨市",
+    "name": "西施团圆饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的诸暨地方饼食，西施为名称，不以名称确认人物创制传说。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "诸暨市",
+    "name": "诸暨糖漾",
+    "kind": "地方甜食",
+    "fact": "浙江小吃名单列明的糖漾，具体粉料和凝结方式仍需进一步核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "嵊州市",
+    "name": "嵊州小笼包",
+    "kind": "地方包点",
+    "fact": "浙江名单列明的嵊州地方小笼包，与杭州和上海等地的包点分别记录。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "嵊州市",
+    "name": "嵊州炒榨面",
+    "kind": "地方米面",
+    "fact": "浙江小吃名单列明的炒榨面，以嵊州县级市保存关联，具体炒制配料另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "staples",
+    "locality": "新昌县",
+    "name": "新昌炒年糕",
+    "kind": "地方年糕菜",
+    "fact": "浙江名单列明的新昌炒年糕，年糕成形主食与具体炒料分别核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "绍兴",
+    "type": "dishes",
+    "locality": "上虞区谢塘镇",
+    "name": "谢塘五香干",
+    "kind": "地方豆制小吃",
+    "fact": "浙江名单列明的五香干，保存上虞谢塘地名，不能将五香名称视为固定香料清单。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "金东区",
+    "name": "金华佛手饼",
+    "kind": "地方糕点",
+    "fact": "浙江名单列明的佛手饼，以金东区保存关联，佛手名称的原料或造型含义尚待细查。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "东阳市",
+    "name": "东阳沃面",
+    "kind": "地方面食",
+    "fact": "浙江小吃名单列明的东阳沃面，记录地方汤面关联，具体汤料配比仍需另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "义乌市东河一带",
+    "name": "东河肉饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的义乌肉饼，保存东河地名，不以同名门店所在地替代产地。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "浦江县",
+    "name": "浦江一根面",
+    "kind": "地方手工面",
+    "fact": "浙江小吃名单列明的一根面，保存浦江县域关联，具体拉制方法另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "武义县",
+    "name": "武义艾糕",
+    "kind": "地方米制糕点",
+    "fact": "浙江名单列明的艾糕，保存武义县域，具体艾料与米料比例尚待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "磐安县",
+    "name": "磐安大蒜饼",
+    "kind": "地方饼食",
+    "fact": "浙江小吃名单列明的大蒜饼，以磐安县域保存地方食物关联。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "金华",
+    "type": "staples",
+    "locality": "磐安县方前镇",
+    "name": "方前扁食",
+    "kind": "地方包馅小吃",
+    "fact": "浙江名单列明的磐安地方扁食，保存方前镇定位，具体皮料和馅料另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "衢州",
+    "type": "dishes",
+    "locality": "衢江区杜泽镇",
+    "name": "杜泽灌肠",
+    "kind": "地方肠制小吃",
+    "fact": "浙江小吃名单列明的灌肠，以杜泽地名保存关联，具体原料构成仍待细查。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "衢州",
+    "type": "staples",
+    "locality": "江山市",
+    "name": "江山米糕",
+    "kind": "地方米制糕点",
+    "fact": "浙江名单列明的江山米糕，以县级市记录地方关联，具体品种与发酵工序另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "衢州",
+    "type": "staples",
+    "locality": "常山县",
+    "name": "常山麦香饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的常山地方饼食，保存县域关联，不凭麦香名称推定全部配料。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "衢州",
+    "type": "staples",
+    "locality": "开化县桐村镇",
+    "name": "桐村碱水粽",
+    "kind": "地方米制主食",
+    "fact": "浙江名单列明的开化桐村粽子，保留碱水粽产品名，碱水原料及用量不作猜测。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "舟山",
+    "type": "staples",
+    "locality": "普陀区",
+    "name": "普陀观音饼",
+    "kind": "地方糕点",
+    "fact": "浙江名单列明的普陀地方饼食，名称体现文化关联，具体馅料仍按产品核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "舟山",
+    "type": "staples",
+    "locality": "岱山县倭井潭一带",
+    "name": "倭井潭硬糕",
+    "kind": "地方米制糕点",
+    "fact": "浙江小吃名单列明的岱山地方硬糕，保留倭井潭地名供后续县镇检索。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "舟山",
+    "type": "dishes",
+    "locality": "嵊泗县",
+    "name": "舟山带鱼饭",
+    "kind": "地方鱼饭组合",
+    "fact": "浙江名单将带鱼饭定位于嵊泗，记录米饭与海鱼组合，不当作所有舟山饭食的统称。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "dishes",
+    "locality": "椒江区",
+    "name": "椒江姜汁核桃调蛋",
+    "kind": "地方蛋甜品",
+    "fact": "浙江名单列明的姜汁核桃调蛋，保存椒江区关联，不依据食材名推定滋补功效。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "dishes",
+    "locality": "黄岩区沙埠镇",
+    "name": "沙埠豆腐干",
+    "kind": "地方豆制小吃",
+    "fact": "浙江小吃名单列明的豆腐干，以黄岩沙埠保存县镇位置，调味方法仍需另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "dishes",
+    "locality": "路桥区螺洋街道",
+    "name": "螺洋三宝",
+    "kind": "地方食品组合",
+    "fact": "浙江名单将螺洋三宝作为一个组合列名，具体三项构成未确认，不拆卡凑数。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "dishes",
+    "locality": "临海市",
+    "name": "临海糟羹",
+    "kind": "地方羹食",
+    "fact": "浙江名单列明的临海地方羹食，糟羹名称不等于每个版本都含酒糟。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "dishes",
+    "locality": "仙居县",
+    "name": "仙居泡鲞",
+    "kind": "地方鱼制食品",
+    "fact": "浙江小吃名单列明的泡鲞，保存仙居县域，具体鱼种和加工步骤仍待核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "staples",
+    "locality": "黄岩区",
+    "name": "黄岩红糖烤糖",
+    "kind": "地方糖食",
+    "fact": "浙江名单列明的红糖烤糖，保存黄岩区的产品关联，原料比例与制法另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "staples",
+    "locality": "黄岩区宁溪镇",
+    "name": "宁溪麦鼓头",
+    "kind": "地方小吃",
+    "fact": "浙江名单列明的麦鼓头，保存宁溪镇地名，实际面料、馅料和形态仍待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "staples",
+    "locality": "温岭市",
+    "name": "温岭泡虾",
+    "kind": "地方小吃",
+    "fact": "浙江小吃名单列明的泡虾，以温岭县级市保存关联，粉皮及配料尚待进一步核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "staples",
+    "locality": "玉环市",
+    "name": "玉环敲鱼皮馄饨",
+    "kind": "地方包馅小吃",
+    "fact": "浙江名单列明的敲鱼皮馄饨，保留玉环关联，鱼皮成形方法和馅料配比另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "台州",
+    "type": "staples",
+    "locality": "三门县",
+    "name": "三门松花饼",
+    "kind": "地方饼食",
+    "fact": "浙江小吃名单列明的松花饼，以三门县域记录，名称中的松花含义仍待细查。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "staples",
+    "locality": "龙泉市",
+    "name": "龙泉金观音饼",
+    "kind": "地方糕点",
+    "fact": "浙江名单列明的金观音饼，以龙泉县级市保存关联，不凭名称推定一定使用茶叶。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "staples",
+    "locality": "青田县",
+    "name": "青田国师饼",
+    "kind": "地方饼食",
+    "fact": "浙江小吃名单列明的国师饼，保留青田地名，不据名称确认创始人物或年代。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "staples",
+    "locality": "云和县",
+    "name": "云和油筒饼",
+    "kind": "地方饼食",
+    "fact": "浙江名单列明的油筒饼，以云和县域保存关联，形态、馅料和烘制方法另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "staples",
+    "locality": "庆元县",
+    "name": "庆元黄粿",
+    "kind": "地方米制主食",
+    "fact": "浙江名单列明的地方黄粿，保留庆元县域，具体染色材料和成形方法尚待细化。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "staples",
+    "locality": "遂昌县",
+    "name": "遂昌长粽",
+    "kind": "地方米制主食",
+    "fact": "浙江小吃名单列明的长粽，以遂昌县域保存地方关联，具体包裹材料和馅料另核。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "dishes",
+    "locality": "庆元县",
+    "name": "庆元乌米饭",
+    "kind": "地方米饭",
+    "fact": "浙江名单列明的乌米饭，按成饭归类，具体植物原料和制作工序仍待进一步核对。"
+  },
+  {
+    "source": "zj-snacks",
+    "province": "zhejiang",
+    "city": "丽水",
+    "type": "dishes",
+    "locality": "缙云县",
+    "name": "缙云敲肉羹",
+    "kind": "地方肉羹",
+    "fact": "浙江小吃名单列明的敲肉羹，以缙云县域保存关联，肉料、粉料比例尚待细化。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "沈阳市相关传承地区",
+    "name": "沈阳烤串",
+    "kind": "地方烧烤",
+    "fact": "沈阳文旅发布的地标美食名单列明烤串，记录地方烧烤传统，不将全部摊点视为同一品牌。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "新民市",
+    "name": "新民血肠",
+    "kind": "地方肠制食品",
+    "fact": "沈阳文旅名单列明的新民地方血肠，保存县级市关联，实际配料仍按产品核对。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "沈阳市相关传承地区",
+    "name": "沈阳香鸡",
+    "kind": "地方鸡菜",
+    "fact": "沈阳文旅名单列明的香鸡，以城市饮食关联记录，不凭名称编造具体香料。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "新民市",
+    "name": "新民香叶焗鸡脖",
+    "kind": "地方鸡肉食品",
+    "fact": "沈阳文旅名单列明的鸡脖食品，保存新民关联，香叶与焗制为菜名中的识别线索。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "康平县",
+    "name": "康平羊汤",
+    "kind": "地方羊汤",
+    "fact": "沈阳文旅名单列明的县域羊汤，保存康平县位置，不推定汤料配方和统一售价。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "于洪区",
+    "name": "于洪酱驴肉",
+    "kind": "地方酱肉",
+    "fact": "沈阳文旅名单列明的酱驴肉，以于洪区保存地区关联，不与其他驴肉熟食混同。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "于洪区",
+    "name": "于洪烧鸽子",
+    "kind": "地方禽菜",
+    "fact": "沈阳文旅名单列明的烧鸽子，保存于洪区位置，具体烹调工序仍需逐店核对。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "沈阳市彩塔街一带",
+    "name": "彩塔炒焖子",
+    "kind": "地方炒制小吃",
+    "fact": "沈阳文旅名单列明的彩塔地方炒焖子，与大连、丹东同名小吃分别记录。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "法库县",
+    "name": "法库风味鱼",
+    "kind": "地方鱼菜",
+    "fact": "沈阳文旅名单列明的地方鱼菜，以法库县保存关联，不由名称推定唯一鱼种。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "辽中区",
+    "name": "辽中鲫鱼莲藕汤",
+    "kind": "地方鱼汤",
+    "fact": "沈阳文旅名单列明的鲫鱼莲藕汤，以辽中区保存地方食材组合关联。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "沈阳市相关传承地区",
+    "name": "沈阳熏酱熟食",
+    "kind": "地方熟食组合",
+    "fact": "沈阳文旅名单列明的熏酱熟食，作为组合保留，不将未列出的单品拆分增加数量。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "dishes",
+    "locality": "大东区",
+    "name": "大东四绝菜",
+    "kind": "地方菜组合",
+    "fact": "沈阳文旅名单以大东非遗四绝菜列名，本条仅记录组合名与地区，四菜构成尚待细核。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "staples",
+    "locality": "沈阳市相关传承地区",
+    "name": "沈阳抻面",
+    "kind": "地方面食",
+    "fact": "沈阳文旅地标美食名单列明的抻面，以城市面食传统记录，汤料和配菜不作统一推定。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "staples",
+    "locality": "苏家屯区",
+    "name": "苏家屯朝鲜族肉酱冷面",
+    "kind": "地方冷面",
+    "fact": "沈阳文旅名单列明的肉酱冷面，保留苏家屯区定位，与西塔大冷面分开识别。"
+  },
+  {
+    "source": "ln-final",
+    "province": "liaoning",
+    "city": "沈阳",
+    "type": "staples",
+    "locality": "沈北新区",
+    "name": "沈北粘火勺",
+    "kind": "地方米面小吃",
+    "fact": "沈阳文旅名单列明的粘火勺，保存沈北区位，具体面料和馅料仍需进一步核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连杂拌鱼",
+    "kind": "地方鱼菜",
+    "fact": "地标美食公示转载列明的地方鱼菜，记录名称与大连关联，鱼种组合和做法尚待细化。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连海味全家福",
+    "kind": "地方海味组合",
+    "fact": "公示转载列明的海味组合，以一个菜名记录，不把未列清的海味原料拆卡计数。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连蹄筋烧海参",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的蹄筋烧海参，保留菜名中的食材组合，不推定蹄筋的动物来源。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连海胆豆腐",
+    "kind": "地方海味豆腐菜",
+    "fact": "公示转载中的海胆豆腐，记录大连地方海味与豆制食品的具名组合。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连焖渤海湾刀鱼",
+    "kind": "地方焖鱼",
+    "fact": "公示转载列明的焖鱼菜名，保留渤海湾刀鱼称呼，不将其混同长江刀鲚。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连滑溜牙片鱼",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的牙片鱼菜式，保存滑溜这一菜名线索，具体物种与调料另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连红烧海螺",
+    "kind": "地方贝类菜",
+    "fact": "公示转载列明的海螺菜，记录名称与城市关联，不把同类海螺全部视为同一规格。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连海参烧小螺",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的海参与小螺组合，具体螺种和加工方式仍需另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连锅塌大虾",
+    "kind": "地方虾菜",
+    "fact": "公示转载列明的锅塌大虾，以地方菜名记录，不依据菜名编造完整菜谱。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连葱烧鱼肚",
+    "kind": "地方鱼制菜",
+    "fact": "公示转载列明的葱烧鱼肚，保存菜名与城市关联，鱼肚具体原料另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "中山区",
+    "name": "中山石锅鲍鱼小土豆",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的石锅鲍鱼小土豆，以大连中山区保存具体地方关联。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "普兰店区",
+    "name": "普兰店炭烧黄蚬",
+    "kind": "地方贝类菜",
+    "fact": "公示转载列明的黄蚬菜式，保存普兰店区定位，炭烧工艺仍需进一步原文核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "瓦房店市复州城镇",
+    "name": "复州城老式过油肉",
+    "kind": "地方肉菜",
+    "fact": "公示转载列明的复州城地方肉菜，与其他省份的过油肉按明确地区分别记录。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "庄河市",
+    "name": "庄河大骨鸡炖蘑菇",
+    "kind": "地方鸡菜",
+    "fact": "公示转载列明的大骨鸡与蘑菇组合，以庄河县级市保存地方饮食关联。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "庄河市",
+    "name": "庄河鲶鱼炖茄子",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的鲶鱼茄子菜式，记录庄河地方餐桌关联，调味与比例不作统一推定。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "长海县",
+    "name": "长海海参炖鱼",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的海参炖鱼，以长海县域保存关联，不据菜名指定唯一鱼种。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "dishes",
+    "locality": "大连市相关传承地区",
+    "name": "大连滑蛋辣炒蟹",
+    "kind": "地方蟹菜",
+    "fact": "公示转载列明的蛋蟹组合，保存菜名与城市关联，不推定蟹种和固定辣度。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "大连市相关传承地区",
+    "name": "大连海胆饺子",
+    "kind": "地方饺子",
+    "fact": "公示转载列明的海胆饺子，以大连城市关联记录，馅料是否另含肉类仍需逐品核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "甘井子区小平岛一带",
+    "name": "小平岛海肠饺子",
+    "kind": "地方饺子",
+    "fact": "公示转载列明的海肠饺子，保留小平岛地名，不把所有海鲜饺子合成同一产品。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "大连市东关街一带",
+    "name": "东关街锅贴",
+    "kind": "地方煎制面点",
+    "fact": "公示转载列明的东关街锅贴，记录地方街区与食品关联，不推定现售店址。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "大连市相关传承地区",
+    "name": "大连蚬子芸豆面",
+    "kind": "地方面食",
+    "fact": "公示转载列明的蚬子芸豆面，保存海味与豆荚配面的地方组合。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "大连市相关传承地区",
+    "name": "大连海麻线包子",
+    "kind": "地方包点",
+    "fact": "公示转载列明的海麻线包子，海麻线为地方食材称呼，具体物种和配料另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "大连市相关传承地区",
+    "name": "大连下锅烂疙瘩汤",
+    "kind": "地方面食",
+    "fact": "公示转载列明的疙瘩汤，保留地方名称，具体面团处理和配菜仍待细化。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "大连",
+    "type": "staples",
+    "locality": "瓦房店市复州城镇",
+    "name": "复州城炸薄脆",
+    "kind": "地方炸制面点",
+    "fact": "公示转载列明的复州城薄脆，保存县镇关联，不推定固定面料比例。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "抚顺",
+    "type": "staples",
+    "locality": "抚顺市相关传承地区",
+    "name": "抚顺永安饺子",
+    "kind": "地方饺子",
+    "fact": "公示转载列明的永安饺子，暂按地方食品名称记录，现行经营主体与地址另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "抚顺",
+    "type": "staples",
+    "locality": "抚顺市砖台一带",
+    "name": "砖台梨花饼",
+    "kind": "地方饼食",
+    "fact": "公示转载列明的梨花饼，保留砖台地名，不凭名称推定所有产品都含梨花原料。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "抚顺",
+    "type": "dishes",
+    "locality": "萨尔浒一带",
+    "name": "萨尔浒鱼头汤",
+    "kind": "地方鱼汤",
+    "fact": "公示转载列明的鱼头汤，记录萨尔浒地名关联，具体鱼种与汤料还需细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "抚顺",
+    "type": "dishes",
+    "locality": "新宾满族自治县",
+    "name": "新宾羊汤",
+    "kind": "地方羊汤",
+    "fact": "公示转载列明的新宾地方羊汤，保存县域关联，与邻近地区羊汤分别定位。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "抚顺",
+    "type": "dishes",
+    "locality": "大伙房水库相关地区",
+    "name": "家炖大伙房胖头鱼",
+    "kind": "地方炖鱼",
+    "fact": "公示转载列明的家炖胖头鱼，记录大伙房地名关联，具体产地凭产品证明另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东酱蟹",
+    "kind": "地方蟹菜",
+    "fact": "公示转载列明的酱蟹，记录丹东菜名关联，蟹种及生熟加工状态尚待核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东朝鲜族米肠",
+    "kind": "地方肠制食品",
+    "fact": "公示转载列明的米肠，保存朝鲜族地方饮食关联，米料和肠衣配方仍待细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东朝鲜族拌饭",
+    "kind": "地方米饭",
+    "fact": "公示转载列明的拌饭，记录丹东朝鲜族餐桌关联，不将各店配菜视为统一组合。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东朝鲜族辣白菜",
+    "kind": "地方腌菜",
+    "fact": "公示转载列明的辣白菜，以城市饮食关联记录，不推定统一发酵配方和辣度。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东朝鲜族辣拌蟹",
+    "kind": "地方蟹菜",
+    "fact": "公示转载列明的辣拌蟹，保留地方菜名，生熟状态及具体加工方法仍待进一步确认。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东海鲜烧烤",
+    "kind": "地方烧烤组合",
+    "fact": "公示转载以海鲜烧烤整体列名，作为组合记录，不把未指明的海鲜原料拆成多项。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "东港市",
+    "name": "东港大海螺炖茄子",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的海螺与茄子组合，保存东港县级市的餐桌关联。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "东港市",
+    "name": "东港炭烧海螺",
+    "kind": "地方贝类菜",
+    "fact": "公示转载列名使用碳烧海螺，本条统一书写炭烧，具体用火工艺仍待进一步核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "东港市",
+    "name": "东港锡纸黄蚬子",
+    "kind": "地方贝类菜",
+    "fact": "公示转载列明的黄蚬子菜式，保存锡纸与海味组合的名称，不推定完整配方。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "东港市",
+    "name": "东港香煎椒盐小人仙",
+    "kind": "地方贝类菜",
+    "fact": "公示转载列明的椒盐小人仙，保留地方食材称呼，物种与实际煎制步骤另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "宽甸满族自治县",
+    "name": "宽甸连年吉利",
+    "kind": "地方鱼菜组合",
+    "fact": "公示转载用鲢、鲶、鲫、鲤解释菜名，本条按一个组合记录，不重复拆成四道菜。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "宽甸满族自治县",
+    "name": "宽甸羊汤",
+    "kind": "地方羊汤",
+    "fact": "公示转载列明的县域羊汤，以宽甸保存地理关联，不预设固定配菜。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "宽甸满族自治县",
+    "name": "宽甸炸鸭绿江面条鱼",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的面条鱼菜式，保留鸭绿江地名，不凭小鱼俗名断定唯一物种。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "宽甸满族自治县",
+    "name": "宽甸熏鸡",
+    "kind": "地方禽类熟食",
+    "fact": "公示转载列明的熏鸡，以宽甸县域记录，具体熏料与生产主体仍需核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "dishes",
+    "locality": "凤城市",
+    "name": "凤城满族特色杀猪菜",
+    "kind": "地方肉菜组合",
+    "fact": "公示转载列明的满族杀猪菜，保存凤城地方饮食关联，不将各家配料统一化。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "staples",
+    "locality": "丹东市相关传承地区",
+    "name": "丹东炒叉子",
+    "kind": "地方淀粉面食",
+    "fact": "公示转载列明的炒叉子，保存丹东饮食关联，具体制粉原料尚待进一步核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "staples",
+    "locality": "东港市孤山镇",
+    "name": "孤山碱蓬蒸饺",
+    "kind": "地方蒸饺",
+    "fact": "公示转载列明的碱蓬蒸饺，保存孤山镇定位，馅料组合与用料比例仍待细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "丹东",
+    "type": "staples",
+    "locality": "凤城市",
+    "name": "凤城满族年饽饽",
+    "kind": "地方米面食品",
+    "fact": "公示转载列明的满族年饽饽，保存凤城年节食品关联，不虚构统一的单品形态。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "锦州市相关传承地区",
+    "name": "锦州烧烤",
+    "kind": "地方烧烤",
+    "fact": "公示转载列明的城市烧烤食品，记录地方饮食关联，不把某家门店当作全部代表。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "北镇市",
+    "name": "北镇熏猪蹄",
+    "kind": "地方熟食",
+    "fact": "公示转载列明的熏猪蹄，以北镇县级市保存关联，与沟帮子熏鸡分开。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "义县",
+    "name": "义县地方特色白丸子",
+    "kind": "地方丸子",
+    "fact": "公示转载列明的白丸子，保存义县位置，肉类或其他原料尚待具体配方核查。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "义县",
+    "name": "义县全羊汤",
+    "kind": "地方羊汤",
+    "fact": "公示转载列明的全羊汤，保存义县地方关联，不据名称推定全部内脏搭配。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "锦州市相关传承地区",
+    "name": "锦州清真八大碗",
+    "kind": "地方宴席组合",
+    "fact": "公示转载以一个八大碗组合列名，本条不在没有菜目资料时虚构八张独立卡。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "dishes",
+    "locality": "锦州市相关传承地区",
+    "name": "锦州酱焖渤海湾大鲁子鱼",
+    "kind": "地方焖鱼",
+    "fact": "公示转载列明的地方鱼菜，保留大鲁子鱼俗名，不推定唯一物种和原料供货地。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "锦州",
+    "type": "staples",
+    "locality": "北镇市沟帮子街道",
+    "name": "沟帮子水馅包子",
+    "kind": "地方包点",
+    "fact": "公示转载列明的水馅包子，保存沟帮子地名，与同地熏鸡作为不同食品记录。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "白塔区",
+    "name": "白塔琉璃茄子",
+    "kind": "地方蔬菜菜肴",
+    "fact": "公示转载列明的琉璃茄子，保存白塔区关联，不凭菜名推定固定挂糖工序。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "文圣区",
+    "name": "文圣烩小碗子",
+    "kind": "地方烩菜",
+    "fact": "公示转载列明的烩小碗子，以文圣区保存关联，碗中具体食材仍待进一步核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "文圣区",
+    "name": "文圣酱驴蹄",
+    "kind": "地方熟食",
+    "fact": "公示转载列明的酱驴蹄，记录文圣区地方关联，不推定统一香料和卤制时长。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "太子河区",
+    "name": "太子河香辣肉丝",
+    "kind": "地方肉菜",
+    "fact": "公示转载列明的香辣肉丝，以太子河区保存地方关联，肉类来源及具体辣度另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "宏伟区",
+    "name": "宏伟生炒鸡",
+    "kind": "地方鸡菜",
+    "fact": "公示转载列明的生炒鸡，记录宏伟区关联，生炒是工艺称呼而非生食推荐。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "辽阳县首山镇",
+    "name": "首山烧汁茄夹",
+    "kind": "地方蔬菜菜肴",
+    "fact": "公示转载列明的茄夹，以首山地名保存县镇关联，夹馅原料及烧汁配方另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "辽阳县首山镇",
+    "name": "首山砂锅肘子",
+    "kind": "地方肉菜",
+    "fact": "公示转载列明的砂锅肘子，记录首山地名关联，不推定具体砂锅材质和炖制时长。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "灯塔市",
+    "name": "灯塔霸王黄玉鸡",
+    "kind": "地方鸡菜",
+    "fact": "公示转载列明的具名鸡菜，保存灯塔县级市关联，黄玉鸡名称不作品种或品牌证明。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "灯塔市沈旦堡一带",
+    "name": "沈旦炖豆腐",
+    "kind": "地方豆腐菜",
+    "fact": "公示转载列明的沈旦炖豆腐，保存沈旦地名，实际配菜与豆腐工艺还需核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "弓长岭区汤河镇",
+    "name": "汤河清蒸鲢鱼",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的清蒸鲢鱼，以汤河镇保存地方关联，不将菜名当作野生来源证明。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "弓长岭区",
+    "name": "弓长岭烧羊排",
+    "kind": "地方羊菜",
+    "fact": "公示转载列明的羊排菜，保存弓长岭区关联，具体烹调步骤及调味仍待细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "辽阳",
+    "type": "dishes",
+    "locality": "白塔区",
+    "name": "白塔冰酥白肉",
+    "kind": "地方肉菜",
+    "fact": "公示转载列明的冰酥白肉，记录白塔区名称与菜式关联，配料及成菜形态尚待细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦清蒸河蟹",
+    "kind": "地方蟹菜",
+    "fact": "公示转载列明的蒸河蟹，作为成菜与已有盘锦河蟹原料卡分开记录。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦煎烹河刀",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的河刀鱼菜，保留地方鱼名，不根据刀鱼一词推定受保护鱼种。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦河蟹豆腐",
+    "kind": "地方蟹豆腐菜",
+    "fact": "公示转载列明的河蟹与豆腐组合，以一个地方菜名记录，不拆分食材增加数量。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦海蜇炖肉",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的海蜇与肉类组合，保存城市关联，肉种及加工方法另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦文蛤茄子",
+    "kind": "地方海味菜",
+    "fact": "公示转载列明的文蛤茄子组合，保存地方菜名，不推定唯一烹调工艺。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦炖鲜蒲笋",
+    "kind": "地方蔬菜菜肴",
+    "fact": "公示转载列明的鲜蒲笋菜式，记录地方水生蔬菜关联，不与普通竹笋混同。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦酱骨头",
+    "kind": "地方熟食",
+    "fact": "公示转载列明的酱骨头，以盘锦地方菜名记录，骨料与卤料构成仍待细核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "盘锦市老该里一带",
+    "name": "老该里农家香肠",
+    "kind": "地方肠制食品",
+    "fact": "公示转载列明的农家香肠，保留老该里地名线索，不编造具体生产企业。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "dishes",
+    "locality": "大洼区田庄台镇",
+    "name": "田庄台佬田台烧鸡",
+    "kind": "地方禽类熟食",
+    "fact": "公示转载列明的田庄台烧鸡，保存县镇名称，品牌主体及现售情况仍需另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "staples",
+    "locality": "盘锦市相关传承地区",
+    "name": "盘锦铁锅手炒油茶",
+    "kind": "地方炒制谷物食品",
+    "fact": "公示转载列明的油茶，名称指地方谷物食品，不当作茶树叶冲泡饮品。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "盘锦",
+    "type": "staples",
+    "locality": "盘山县",
+    "name": "盘山县大米嘎巴",
+    "kind": "地方米制小吃",
+    "fact": "公示转载列明的大米嘎巴，保存盘山县位置，具体成形与加工工艺仍待核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "葫芦岛市相关传承地区",
+    "name": "葫芦岛海鲜辣炒",
+    "kind": "地方海味组合",
+    "fact": "公示转载列明的海鲜辣炒，以一个组合菜名记录，不虚构固定海鲜种类。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "绥中县",
+    "name": "绥中水豆腐",
+    "kind": "地方豆制食品",
+    "fact": "公示转载列明的县域水豆腐，保存绥中关联，不推定每家店采用相同凝固剂。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "建昌县",
+    "name": "建昌老式浇汁鱼",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的浇汁鱼，以建昌县记录，鱼种与酱汁配方尚待进一步核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "建昌县要路沟乡",
+    "name": "要路沟水煮干豆腐",
+    "kind": "地方豆腐菜",
+    "fact": "公示转载列明的水煮干豆腐，保存要路沟乡镇关联，不将水煮等同统一辣味菜式。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "兴城市",
+    "name": "兴城金丝多宝鱼",
+    "kind": "地方鱼菜",
+    "fact": "公示转载列明的多宝鱼菜式，与兴城多宝鱼原料卡分开，金丝含义尚待工艺核对。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "兴城市红崖子镇",
+    "name": "红崖子花生小豆腐",
+    "kind": "地方豆制风味小吃",
+    "fact": "公示转载列明的花生小豆腐，保存红崖子地名，不由名称推定只含花生一种原料。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "staples",
+    "locality": "连山区杨家杖子一带",
+    "name": "杨家杖子煎饺",
+    "kind": "地方煎制面点",
+    "fact": "公示转载列明的杨家杖子煎饺，保留地区关联，具体馅料和经营主体另核。"
+  },
+  {
+    "source": "ln-list-secondary",
+    "province": "liaoning",
+    "city": "葫芦岛",
+    "type": "dishes",
+    "locality": "建昌县汤土沟一带",
+    "name": "建昌汤土沟杏仁粥",
+    "kind": "地方粥食",
+    "fact": "公示转载列明的杏仁粥，保存汤土沟地名，杏仁品种、处理方式及配料尚待细核。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "罗田板栗土鸡汤",
+    "kind": "地方鸡汤",
+    "fact": "地方文旅介绍以板栗和土鸡配炖的汤菜，保存罗田县域饮食关联。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "天堂腊肉",
+    "kind": "地方腌腊食品",
+    "fact": "地方名吃介绍列明的天堂腊肉，保留罗田地域关联，不推定统一熏料与保存期。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "罗田吊锅",
+    "kind": "地方锅物",
+    "fact": "罗田地方吊锅以火塘与悬锅的餐饮方式为特色，实际肉蔬组合随具体菜品变化。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县胜利镇",
+    "name": "罗田胜利肉糕",
+    "kind": "地方蒸制肉糕",
+    "fact": "地方名吃介绍列明胜利肉糕，保存县镇关联，鱼肉与粉料等配方以具体做法另核。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "罗田胖头鱼",
+    "kind": "地方鱼菜",
+    "fact": "地方名吃介绍中的胖头鱼菜式，以罗田县域记录，不将成菜直接等同某个养殖场。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "罗田晃子汤",
+    "kind": "地方肉汤",
+    "fact": "地方介绍说明晃子为猪血，与猪杂配制成汤；具体部位和配比随地方做法变化。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "罗田香蕈肉",
+    "kind": "地方菌肉菜",
+    "fact": "地方介绍将香蕈与肉相配的菜式列为名吃，菌类物种及具体肉部位仍需细核。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "dishes",
+    "locality": "罗田县",
+    "name": "板栗腊味糯米饭",
+    "kind": "地方米饭",
+    "fact": "罗田名吃介绍列明的板栗与腊味糯米饭，以一项复合主食记录，不拆分原料计数。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "staples",
+    "locality": "罗田县",
+    "name": "罗田汽水粑",
+    "kind": "地方发酵面点",
+    "fact": "地方介绍说明先发酵再借铁锅蒸汽成形，汽水是加工用水汽，不是汽水饮料配料。"
+  },
+  {
+    "source": "luotian",
+    "province": "hubei",
+    "city": "黄冈",
+    "type": "staples",
+    "locality": "罗田县",
+    "name": "罗田鸭蛋酥",
+    "kind": "地方糕点",
+    "fact": "地方名吃介绍列明的鸭蛋酥，名称与外形有关，是否含蛋不能仅凭名称推定。"
+  },
+  {
+    "source": "zhuxi-news",
+    "province": "hubei",
+    "city": "十堰",
+    "type": "dishes",
+    "locality": "竹溪县",
+    "name": "竹溪蒸盆",
+    "kind": "地方蒸制盆菜",
+    "fact": "报道介绍腊猪蹄、鸡肉、竹笋、香菇、木耳等合蒸成盆，保存竹溪县域待客菜关联。"
+  },
+  {
+    "source": "zhongxiang",
+    "province": "hubei",
+    "city": "荆门",
+    "type": "dishes",
+    "locality": "钟祥市",
+    "name": "钟祥蟠龙菜",
+    "kind": "地方卷制蒸菜",
+    "fact": "湖北农业部门报道介绍钟祥地方蟠龙菜，卷切的菜式形态与地方餐桌记忆相关。"
+  },
+  {
+    "source": "zhongxiang",
+    "province": "hubei",
+    "city": "荆门",
+    "type": "dishes",
+    "locality": "钟祥市石牌镇",
+    "name": "石牌豆腐",
+    "kind": "地方豆制食品",
+    "fact": "钟祥地方特产报道将石牌豆腐与蟠龙菜等并列，保留石牌地名，不推定具体凝固工艺。"
+  },
+  {
+    "source": "zhongxiang",
+    "province": "hubei",
+    "city": "荆门",
+    "type": "drinks",
+    "locality": "钟祥市",
+    "name": "钟祥米茶",
+    "kind": "炒米冲煮饮食",
+    "fact": "地方报道将米茶列为钟祥特产，与茶树叶冲泡品分开；具体炒米和冲煮方法另核。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "永州市相关传承地区",
+    "name": "永州血鸭",
+    "kind": "地方鸭菜",
+    "fact": "文旅部地方线路列明的永州美食，以血鸭名称保存地方关联，配方和制作方法另核。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "祁阳市",
+    "name": "祁阳曲米鱼",
+    "kind": "地方鱼菜",
+    "fact": "文旅部线路列明的县域鱼菜，保留曲米鱼名称，不凭名称编造腌发或加工步骤。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "双牌县",
+    "name": "双牌酒糟肉",
+    "kind": "地方肉菜",
+    "fact": "文旅部线路列明的酒糟肉，以双牌县保存地域关联，原料比例和加工方法另核。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "宁远县下灌一带",
+    "name": "宁远状元水丸子",
+    "kind": "地方丸子",
+    "fact": "文旅部线路列明的宁远地方丸子，状元为名称，不据名称采用历史人物创制故事。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "蓝山县",
+    "name": "蓝山金牌牛杂",
+    "kind": "地方牛杂菜",
+    "fact": "文旅部线路列明的地方牛杂菜，金牌为菜名用语，不作为独立获奖证据。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "dishes",
+    "locality": "江华瑶族自治县",
+    "name": "江华瑶家十八酿",
+    "kind": "地方酿制菜组合",
+    "fact": "文旅部线路以十八酿组合列名，具体菜目未逐项核对，不拆成十八项凑数。"
+  },
+  {
+    "source": "yongzhou",
+    "province": "hunan",
+    "city": "永州",
+    "type": "drinks",
+    "locality": "江永县勾蓝瑶村一带",
+    "name": "江永瑶山油茶",
+    "kind": "地方油茶",
+    "fact": "文旅部线路列明的瑶山油茶，作为地方饮食关联记录，不推定所有门店原料相同。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "dishes",
+    "locality": "武平县",
+    "name": "武平槌鱼",
+    "kind": "地方鱼制食品",
+    "fact": "福建商务部门在闽西客家菜概述中点名武平槌鱼，具体成形与配料比例仍待深入核对。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "dishes",
+    "locality": "连城县",
+    "name": "连城涮九门头",
+    "kind": "地方肉菜",
+    "fact": "福建商务部门介绍连城九门头与涮九门头，合并同一地方名菜，不重复按别名计数。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "dishes",
+    "locality": "长汀县",
+    "name": "白斩河田鸡",
+    "kind": "地方鸡菜",
+    "fact": "福建商务部门将其列入闽西客家菜介绍，记录河田鸡成菜，与原料禽种分开。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "dishes",
+    "locality": "长汀县",
+    "name": "长汀豆腐宴",
+    "kind": "地方豆腐菜组合",
+    "fact": "福建商务部门以一项豆腐宴介绍地方饮食，不在缺少菜目时虚构多道独立菜。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "dishes",
+    "locality": "上杭县",
+    "name": "上杭肉圆",
+    "kind": "地方丸子",
+    "fact": "福建商务部门在概述中点名上杭肉圆，保留县域关联，具体原料和工艺仍待细核。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "staples",
+    "locality": "上杭县",
+    "name": "上杭捏甲子",
+    "kind": "地方包馅小吃",
+    "fact": "福建商务部门点名的地方小吃，保留捏甲子称呼，皮料、馅料和制作方法尚待细化。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "staples",
+    "locality": "上杭县",
+    "name": "上杭鱼粄",
+    "kind": "地方小吃",
+    "fact": "福建商务部门在概述中点名上杭鱼粄，具体鱼肉和米粉构成尚待工艺原文核对。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "staples",
+    "locality": "永定区",
+    "name": "永定鸡肠面",
+    "kind": "地方面食",
+    "fact": "福建商务部门点名的鸡肠面，名称不等于必用鸡肠作原料，具体面料与做法另核。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "staples",
+    "locality": "新罗区",
+    "name": "新罗清汤粉",
+    "kind": "地方米粉",
+    "fact": "福建商务部门点名的县区米粉，记录新罗地方饮食关联，具体汤料随做法核对。"
+  },
+  {
+    "source": "longyan",
+    "province": "fujian",
+    "city": "龙岩",
+    "type": "staples",
+    "locality": "漳平市",
+    "name": "漳平米浆粿",
+    "kind": "地方米制小吃",
+    "fact": "福建商务部门在闽西饮食概述中列明的米浆粿，保存漳平县级市关联。"
+  },
+  {
+    "source": "baicheng",
+    "province": "jilin",
+    "city": "白城",
+    "type": "crafts",
+    "locality": "大安市",
+    "name": "大安芦苇画",
+    "kind": "植物材料工艺",
+    "fact": "文旅部地方线路列明的芦苇画手工制作，以大安市保存材料工艺和地方关联。"
+  },
+  {
+    "source": "baicheng",
+    "province": "jilin",
+    "city": "白城",
+    "type": "crafts",
+    "locality": "通榆县",
+    "name": "通榆草编",
+    "kind": "植物编织工艺",
+    "fact": "文旅部线路推荐通榆草编体验，记录当地手工艺关联，草种和具体产品形态另核。"
+  },
+  {
+    "source": "baicheng",
+    "province": "jilin",
+    "city": "白城",
+    "type": "staples",
+    "locality": "洮北区德顺蒙古族乡乌兰图嘎村",
+    "name": "乌兰图嘎蒙古族馅饼",
+    "kind": "地方馅饼",
+    "fact": "文旅部线路介绍当地蒙古族馅饼体验，保存村级定位，具体馅料仍按地方做法核对。"
+  },
+  {
+    "source": "zhangwu",
+    "province": "liaoning",
+    "city": "阜新",
+    "type": "dishes",
+    "locality": "彰武县",
+    "name": "彰武沙泉鱼宴",
+    "kind": "地方鱼宴组合",
+    "fact": "彰武县政府介绍的沙泉鱼宴，作为一项宴席组合保存，不虚构其中未列明的菜目。"
+  },
+  {
+    "source": "zhangwu",
+    "province": "liaoning",
+    "city": "阜新",
+    "type": "dishes",
+    "locality": "彰武县",
+    "name": "彰武地瓜宴",
+    "kind": "地方薯类宴席",
+    "fact": "县政府介绍以当地甘薯组成的宴席，本条按一个组合记录，不照录来源中的疗效宣传。"
+  },
+  {
+    "source": "jixi",
+    "province": "heilongjiang",
+    "city": "鸡西",
+    "type": "staples",
+    "locality": "密山市等当地消费地区",
+    "name": "鸡西烤冷面",
+    "kind": "地方铁板面食",
+    "fact": "省文旅报道介绍铁板面片裹蛋、夹烤肠并刷酱的吃法，本条不据此断定唯一发明地点。"
+  },
+  {
+    "source": "jixi",
+    "province": "heilongjiang",
+    "city": "鸡西",
+    "type": "staples",
+    "locality": "鸡西市相关传承地区",
+    "name": "西太大煎饼",
+    "kind": "地方煎饼",
+    "fact": "省文旅报道列明的地方煎饼，保留西太地名，具体乡镇与原料构成尚待细核。"
+  },
+  {
+    "source": "jixi",
+    "province": "heilongjiang",
+    "city": "鸡西",
+    "type": "staples",
+    "locality": "鸡西市相关传承地区",
+    "name": "鸡西朝鲜族打糕",
+    "kind": "地方米制小吃",
+    "fact": "省文旅报道列明的朝鲜族打糕，以鸡西城市饮食关联记录，不重复当作延边产地。"
+  },
+  {
+    "source": "jixi",
+    "province": "heilongjiang",
+    "city": "鸡西",
+    "type": "dishes",
+    "locality": "恒山区柳毛一带",
+    "name": "柳毛小笨鸡炖榛蘑",
+    "kind": "地方鸡菌菜",
+    "fact": "省文旅报道介绍柳毛鸡肉与榛蘑的组合，保存县区地名，不据俗名推定具体鸡品种。"
+  },
+  {
+    "source": "jixi",
+    "province": "heilongjiang",
+    "city": "鸡西",
+    "type": "dishes",
+    "locality": "兴凯湖相关消费地区",
+    "name": "清蒸兴凯湖大白鱼",
+    "kind": "地方鱼菜",
+    "fact": "省文旅报道介绍兴凯湖白鱼蒸制成菜，与已经收录的鱼类原料卡分开。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "艾窝窝",
+    "kind": "糯米点心",
+    "fact": "北京旅游网列明的传统糯米小吃，记录食品本身，不沿用2019年文章中的店址和售卖季节作为现况。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "糖耳朵",
+    "kind": "油炸甜点",
+    "fact": "又称蜜麻花，以耳状外形辨识；北京旅游网将其列为当地传统小吃，不与普通麻花混为一项。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "姜丝排叉儿",
+    "kind": "姜味炸食",
+    "fact": "北京旅游网介绍的带鲜姜风味的小炸食，名称保留儿化写法，不把文中的历史传说作为已核实断代。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "馓子麻花",
+    "kind": "花式麻花",
+    "fact": "北京旅游网列明的北京清真小吃，另称散子、环饼；这些别称合并保存，不拆分计数。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "褡裢火烧",
+    "kind": "煎制面点",
+    "fact": "北京旅游网介绍的长形煎制面食，名称关联旧式褡裢外形；搭配汤和馅料因实际制作而异。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "墩饽饽",
+    "kind": "烙烤糕点",
+    "fact": "以酵面、白糖、桂花等制作，先烙后烤；北京旅游网将其列为老北京地方传统点心。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "蛤蟆吐蜜",
+    "kind": "豆沙烧饼",
+    "fact": "以烧饼烤制后开口露出豆沙馅的外形得名；名称不表示使用蛙类原料。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "北京核桃酥",
+    "kind": "传统糕点",
+    "fact": "北京旅游网小吃目录列明的核桃风味糕点，作为地方供食传统记录，不主张核桃酥为北京独有。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "栗子凉糕",
+    "kind": "栗味糕点",
+    "fact": "北京旅游网介绍的栗粉、白糖和桂花压制糕点，保存夏季凉食的地方关联，不推定全部在售商品配方一致。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "焦圈",
+    "kind": "环形炸食",
+    "fact": "北京旅游网列明的环形酥脆炸食，常与豆汁等早餐搭配；GitHub城市条目的线索经此资料交叉核对。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "开口笑",
+    "kind": "油炸点心",
+    "fact": "北京旅游网介绍的开裂外形油炸点心，按食品名称记录，不将节俗寓意当作起源证据。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "螺丝转",
+    "kind": "麻酱面点",
+    "fact": "北京旅游网介绍的螺旋形烤制面点，以芝麻酱等形成风味，具体香料和比例仍按实际商品确认。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "油酥火烧",
+    "kind": "酥制火烧",
+    "fact": "北京旅游网传统小吃清单列明的火烧品种，记录地方面点关联，不以历史店址推定今日经营位置。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "staples",
+    "locality": "北京市传统小吃相关地区",
+    "name": "北京芝麻烧饼",
+    "kind": "传统烧饼",
+    "fact": "北京旅游网介绍的半发面烧饼，以多层组织和芝麻风味辨识；不推定所有地方烧饼都属同一做法。"
+  },
+  {
+    "source": "beijing-snacks",
+    "province": "beijing",
+    "city": "北京",
+    "type": "dishes",
+    "locality": "北京市传统小吃相关地区",
+    "name": "炸灌肠",
+    "kind": "淀粉类炸食",
+    "fact": "北京旅游网介绍的切片油炸小吃，常配蒜汁；名称中的肠不据以标注肉类原料，具体配方逐品确认。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "staples",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "姊妹团子",
+    "kind": "传统团点",
+    "fact": "湖南省政府传统小吃技艺资料列明的火宫殿小吃，作为一个品名保存，不将不同馅心分拆计数。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "staples",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "火宫殿煮馓子",
+    "kind": "传统面食",
+    "fact": "湖南省政府资料列明的八大传统小吃之一，保留煮馓子这一具体菜名，汤底和配料尚待进一步核对。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "staples",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙荷兰粉",
+    "kind": "传统粉食",
+    "fact": "湖南省政府火宫殿资料列明的粉食，保留地方品名，不由荷兰二字推断其起源国家。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "staples",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "糖油粑粑",
+    "kind": "传统米制甜食",
+    "fact": "湖南省政府列明的长沙传统小吃，GitHub城市游戏资源出现的名称以此资料交叉核对，不采用游戏属性。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "staples",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙白粒丸",
+    "kind": "传统丸点",
+    "fact": "湖南省政府传统小吃技艺资料列明的火宫殿小吃，当前来源支持名称与地区，具体原料尚待细核。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "龙脂猪血",
+    "kind": "传统血制小吃",
+    "fact": "湖南省政府传统小吃技艺资料列明的八大品种之一，以地方菜名记录，不由名称添加未经核实的药食解释。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙三角干子",
+    "kind": "传统豆制小吃",
+    "fact": "湖南省政府火宫殿资料列明的传统干子食品，名称与地方关联有据，具体调味仍需进一步核对。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "火宫殿红烧猪脚",
+    "kind": "传统猪肉菜",
+    "fact": "湖南省政府资料列明的八大传统小吃之一，保留火宫殿技艺关联，不将普通红烧猪脚全部视为同一传承。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙八宝果饭",
+    "kind": "传统米饭甜食",
+    "fact": "湖南省政府火宫殿资料列明的米饭小吃，记录具名品种，不由八宝二字编造固定八种配料。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙兰花干子",
+    "kind": "传统豆制小吃",
+    "fact": "湖南省政府传统小吃资料列明的火宫殿干子食品，与三角干子按来源所列名称分别记录。"
+  },
+  {
+    "source": "changsha-snacks",
+    "province": "hunan",
+    "city": "长沙",
+    "type": "dishes",
+    "locality": "长沙市火宫殿传统小吃相关地区",
+    "name": "长沙神仙钵饭",
+    "kind": "传统钵饭",
+    "fact": "湖南省政府火宫殿资料列明的钵饭，名称与地域关联有据，神仙二字不作功效或历史人物解释。"
+  },
+  {
+    "source": "madieer",
+    "province": "heilongjiang",
+    "city": "哈尔滨",
+    "type": "dishes",
+    "locality": "道里区中央大街",
+    "name": "马迭尔冰棍",
+    "kind": "奶油冰棍",
+    "fact": "新华社2026年报道确认哈尔滨中央大街马迭尔冷饮厅及奶油冰棍，按冷冻甜食记录；GitHub线索中的名称已作外部核对。"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "苏州",
+    "type": "dairy",
+    "locality": "工业园区星龙街459号",
+    "name": "伊利苏州乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第2项列明原味零蔗糖风味发酵乳及苏州工厂；此处是生产基地关联，不将伊利品牌发源地改为苏州。",
+    "company": "伊利苏州乳业有限责任公司",
+    "productTypes": [
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "泰州",
+    "type": "dairy",
+    "locality": "姜堰区俞垛镇通北路8号",
+    "name": "金力乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第19项列明草莓燕麦风味发酵乳，第152项另列含乳饮料；混合产品线不全部视作纯牛奶。",
+    "company": "泰州市金力乳品有限公司",
+    "productTypes": [
+      "风味发酵乳",
+      "含乳饮料"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "南京",
+    "type": "dairy",
+    "locality": "江宁区禄口镇来凤路2号",
+    "name": "南京光明乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第23、237项列明巴氏杀菌热处理风味酸牛奶；其热处理类别与需活菌保存的普通低温酸奶区分。",
+    "company": "南京光明乳品有限公司",
+    "productTypes": [
+      "热处理风味酸牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "扬州",
+    "type": "dairy",
+    "locality": "广陵区鼎兴路88号",
+    "name": "扬大康源乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第29、198项列明茉莉花风味发酵乳与巴氏杀菌鲜牛奶，扬大、扬农作为同一企业的品牌线索合并保存。",
+    "company": "扬州市扬大康源乳业有限公司",
+    "productTypes": [
+      "鲜牛奶",
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "苏州",
+    "type": "dairy",
+    "locality": "张家港经济开发区振兴路9号",
+    "name": "梁丰乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第86项列明草莓牛奶及张家港标称生产地址，记录实际乳品，不由集团食品业务推断所有产品都属于乳制品。",
+    "company": "江苏梁丰食品集团有限公司",
+    "productTypes": [
+      "草莓牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "常州",
+    "type": "dairy",
+    "locality": "钟楼区梧桐路56号",
+    "name": "常州红梅乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第87项列明大红枣牛奶及常州工厂，与南通同名红梅生产企业分开记录，未据同名推断股权关系。",
+    "company": "常州红梅乳业有限公司",
+    "productTypes": [
+      "大红枣牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "苏州",
+    "type": "dairy",
+    "locality": "高新区普陀山路189号",
+    "name": "明治苏州乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第90项列明高温杀菌乳牛乳，标记苏州生产基地，不将生产地址当作明治品牌起源地。",
+    "company": "明治乳业（苏州）有限公司",
+    "productTypes": [
+      "高温杀菌乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "苏州",
+    "type": "dairy",
+    "locality": "昆山市张浦镇彩华路158号",
+    "name": "优诺昆山乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第93、101项分别列明低温牛乳和希腊式酸奶，两条产品记录合并到同一生产企业卡片。",
+    "company": "优诺乳业有限公司",
+    "productTypes": [
+      "低温牛乳",
+      "希腊式发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "苏州",
+    "type": "dairy",
+    "locality": "漕湖街道汤浜路57号",
+    "name": "卡士苏州酸奶",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第155、220项列明原味风味发酵乳，保存苏州工厂关联，不把抽样超市所在城市当作产地。",
+    "company": "卡士酸奶（苏州）有限公司",
+    "productTypes": [
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "常州",
+    "type": "dairy",
+    "locality": "金坛区荆元路88号",
+    "name": "一鸣江苏乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第156项列明冷藏A2β酪蛋白牛乳及金坛生产地址，与目录温州一鸣品牌发源卡明确区分。",
+    "company": "江苏一鸣食品有限公司",
+    "productTypes": [
+      "高温杀菌乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "盐城",
+    "type": "dairy",
+    "locality": "射阳县城北环东路168号",
+    "name": "健桥乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第159项列明高钙有机鲜牛奶，名称中的有机仅为该样品名称，不推定企业全线产品有同一认证。",
+    "company": "盐城市健桥乳业有限公司",
+    "productTypes": [
+      "鲜牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "徐州",
+    "type": "dairy",
+    "locality": "铜山区棠张镇纺织工业园镇东路3号",
+    "name": "绿健乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第165项列明彭城老酸奶的茉莉青提风味产品，按一家企业保存，未拆分多个口味增加条目。",
+    "company": "徐州绿健乳品饮料有限公司",
+    "productTypes": [
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "宿迁",
+    "type": "dairy",
+    "locality": "宿豫区大兴镇大兴工业园6号",
+    "name": "优格宿迁酸奶",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第144项列明茉莉蜜瓜味厚酸奶，类别是巴氏杀菌热处理风味酸奶，不仅凭厚字推定乳蛋白含量。",
+    "company": "江苏优格生物科技有限公司",
+    "productTypes": [
+      "热处理风味酸奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "徐州",
+    "type": "dairy",
+    "locality": "丰县经济开发区汉源路与华张路交叉处",
+    "name": "君乐宝江苏乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第229、238项列明纯牛奶与简醇零蔗糖酸奶，丰县生产地与君乐宝品牌发源地分别记录。",
+    "company": "江苏君乐宝乳业有限公司",
+    "productTypes": [
+      "纯牛奶",
+      "风味酸奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "徐州",
+    "type": "dairy",
+    "locality": "新沂市无锡—新沂工业园大桥东路218号",
+    "name": "卫岗新沂乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第230项列明纯牛奶及新沂工厂，作为明确生产企业收录，与南京卫岗品牌卡保留不同关系说明。",
+    "company": "徐州卫岗乳品有限公司",
+    "productTypes": [
+      "纯牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "盐城",
+    "type": "dairy",
+    "locality": "射阳县射阳港经济区幸福大道34号",
+    "name": "光明银宝乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第235、240项列明纯牛奶和鲜牛奶；加工企业与光明银宝相关牧业公司不拆作两家乳品企业。",
+    "company": "江苏光明银宝乳业有限公司",
+    "productTypes": [
+      "纯牛奶",
+      "鲜牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "扬州",
+    "type": "dairy",
+    "locality": "高邮市甘垛镇甘泉村",
+    "name": "华兴乳品",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第95项列明风味发酵乳及甘垛镇生产地址，保存高邮县级市与扬州地级市两层位置。",
+    "company": "扬州市华兴乳业有限公司",
+    "productTypes": [
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "镇江",
+    "type": "dairy",
+    "locality": "镇江新区港南路88号8号厂房",
+    "name": "莱益塔奶酪",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第99项列明马苏里拉奶酪碎及镇江工厂，属于奶酪加工产品，不与液态奶生产企业混为一种业务。",
+    "company": "莱益塔（江苏）食品科技有限公司",
+    "productTypes": [
+      "马苏里拉奶酪碎"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "js-dairy-pdf",
+    "province": "jiangsu",
+    "city": "南京",
+    "type": "dairy",
+    "locality": "江宁经济技术开发区董村路112号",
+    "name": "大旺南京调制乳",
+    "kind": "乳品企业与产品",
+    "fact": "抽检表第239项列明旺仔牛奶并注明调制乳，记录南京标称生产企业，未将调制乳表述成纯牛奶。",
+    "company": "南京大旺食品有限公司",
+    "productTypes": [
+      "旺仔调制乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "lianhu",
+    "province": "jiangsu",
+    "city": "镇江",
+    "type": "dairy",
+    "locality": "丹阳市开发区马陵村相关地区",
+    "name": "练湖乳品",
+    "kind": "乳品企业与产品",
+    "fact": "丹阳新闻网2024年探访介绍鲜奶、酸奶等产品与练湖生产企业；历史牧场和企业改制按报道时间理解。",
+    "company": "丹阳市练湖乳品有限公司",
+    "productTypes": [
+      "鲜奶",
+      "酸奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "nantong-hongmei",
+    "province": "jiangsu",
+    "city": "南通",
+    "type": "dairy",
+    "locality": "崇川区黄海路99号（来源旧称港闸）",
+    "name": "南通红梅乳品",
+    "kind": "乳品企业与产品",
+    "fact": "2023年抽检公布表列明益生菌原味酸牛奶和黄海路工厂，生产批次为2022年，当前产品线仍需跟踪。",
+    "company": "南通红梅乳业有限公司",
+    "productTypes": [
+      "风味酸牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "weiyang-news",
+    "province": "jiangsu",
+    "city": "扬州",
+    "type": "dairy",
+    "locality": "扬州市维扬乳业工厂",
+    "name": "维扬乳品",
+    "kind": "乳品企业与产品",
+    "fact": "中国江苏网2024年社区工厂研学报道确认企业、牛奶生产车间和乳制品，未取得官网正文，不扩写未经读取的具体产品清单。",
+    "company": "江苏维扬乳业有限公司",
+    "productTypes": [
+      "乳制品"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "lyg-dairy",
+    "province": "jiangsu",
+    "city": "连云港",
+    "type": "dairy",
+    "locality": "连云区东辛农场",
+    "name": "三元双宝乳品",
+    "kind": "乳品企业与产品",
+    "fact": "2024年抽检公布表列明东辛农场生产企业及鲜奶、风味酸奶等样品，多条抽样记录合为一家企业。",
+    "company": "江苏三元双宝乳业有限公司",
+    "productTypes": [
+      "鲜奶",
+      "风味酸奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "lyg-dairy",
+    "province": "jiangsu",
+    "city": "连云港",
+    "type": "dairy",
+    "locality": "海州区宁海相关地区武圩",
+    "name": "连望乳品",
+    "kind": "乳品企业与产品",
+    "fact": "2024年抽检表列明连望原味风味发酵乳及生产企业；未仅凭新希望名称推定其与其他同名集团的股权关系。",
+    "company": "连云港市新希望乳业有限公司",
+    "productTypes": [
+      "风味发酵乳"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "suqian-mengniu",
+    "province": "jiangsu",
+    "city": "宿迁",
+    "type": "dairy",
+    "locality": "宿迁经济开发区苏州路777号",
+    "name": "蒙牛宿迁乳品",
+    "kind": "乳品企业与产品",
+    "fact": "2024年抽检表列明高钙牛奶及宿迁生产企业，记录生产基地，与品牌发源地分别保存。",
+    "company": "蒙牛乳业宿迁有限公司",
+    "productTypes": [
+      "高钙牛奶"
+    ],
+    "relationship": "production-enterprise"
+  },
+  {
+    "source": "yakult-sampling",
+    "province": "jiangsu",
+    "city": "无锡",
+    "type": "drinks",
+    "locality": "新吴区锡勤路3号",
+    "name": "养乐多无锡乳酸菌饮品",
+    "kind": "乳酸菌乳饮品",
+    "fact": "2024年抽检表列明无锡养乐多乳品有限公司生产的低糖活菌型乳酸菌乳饮品，按饮品分类，工厂位置不等于品牌起源。",
+    "company": "无锡养乐多乳品有限公司",
+    "relationship": "production-enterprise",
+    "productTypes": [
+      "活菌型乳酸菌乳饮品"
+    ]
+  },
+  {
+    "source": "zhiwei",
+    "province": "jiangsu",
+    "city": "宿迁",
+    "type": "dairy",
+    "locality": "宿迁（市级位置待复核）",
+    "name": "志威乳品与食品配料",
+    "kind": "乳品企业线索",
+    "company": "江苏志威乳业有限公司",
+    "productTypes": [
+      "乳粉",
+      "炼乳粉",
+      "奶油粉",
+      "植脂末",
+      "固体饮料"
+    ],
+    "fact": "食品配料协会参展商资料确认江苏志威乳业及乳粉、炼乳粉等产品，也有植脂末和固体饮料，不能全部称作纯乳制品。",
+    "pending": "已读协会页面支持企业名与产品，但未列明工厂地址；宿迁归属仅有检索线索，市县位置、现行经营与生产许可待复核。"
+  }
+]

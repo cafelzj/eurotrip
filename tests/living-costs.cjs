@@ -2,7 +2,7 @@ const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),asse
 const root=path.join(__dirname,'..'),ctx=vm.createContext({});
 for(const file of ['categories','knowledge-cards'])vm.runInContext(fs.readFileSync(path.join(root,'data',file+'.js'),'utf8'),ctx);
 const {cards,categories}=JSON.parse(vm.runInContext('JSON.stringify({cards:knowledgeCards.filter(n=>n.subcategory==="living-costs"),categories:cardCategories})',ctx)),byId=new Map(cards.map(n=>[n.id,n]));
-const evidence=JSON.parse(fs.readFileSync(path.join(root,'docs/living-costs-sources.json'),'utf8'));
+const evidence=JSON.parse(fs.readFileSync(path.join(root,'research/living-costs/sources.json'),'utf8'));
 assert.equal(categories.secondary.find(n=>n.id==='living-costs').category,'facts');
 assert.deepEqual([...new Set(cards.map(n=>n.country))].sort(),['at','de','hu','pl','rs','si']);
 for(const n of cards){

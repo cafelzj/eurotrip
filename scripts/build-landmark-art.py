@@ -24,7 +24,7 @@ def export(source, target, width, quality):
 
 
 def build(sources, partial):
-    plan = json.loads((ROOT / "docs/landmark-art-prompts.json").read_text())
+    plan = json.loads((ROOT / "research/media/landmarks/generation-plan.json").read_text())
     catalog_path = ROOT / "data/landmark-art.js"
     text = catalog_path.read_text()
     catalog = json.loads(re.search(r"const landmarkArt = ([\s\S]*?);\n", text)[1])
@@ -75,7 +75,7 @@ def build(sources, partial):
     if not partial:
         plan["coverage"] = dict(cards=len(catalog), distinctScenes=len(catalog)-len(plan["aliases"]),
                                 newSheets=len(plan["jobs"]))
-        (ROOT / "docs/landmark-art-prompts.json").write_text(
+        (ROOT / "research/media/landmarks/generation-plan.json").write_text(
             json.dumps(plan, ensure_ascii=False, indent=2) + "\n")
     catalog_path.write_text(
         "/* Curated AI travel illustrations. Interpretive artwork, not documentary photographs. */\n"

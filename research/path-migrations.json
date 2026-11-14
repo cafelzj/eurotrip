@@ -1,0 +1,484 @@
+{
+  "date": "2026-11-14",
+  "scope": "Research documents and editorial notes only. Runtime scripts, data IDs, image assets, Eurostat public downloads and eight maintenance guides retain their paths.",
+  "files": [
+    {
+      "previousPath": "docs/flavor-source-review.json",
+      "path": "research/flavors/sources.json",
+      "previousSha256": "0c31ac22c8e033278014c528d32db13e855d93168cd65aa27c827a93eb023b2b",
+      "sha256AtMigration": "e07d7d2ff7127a27b008a5bae853c5b5df49b469c5dd836d4a2471e1771677ff",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/flavor-city-coverage.json",
+      "path": "research/flavors/coverage.json",
+      "previousSha256": "588f83afdf4b41760e051566219e6fb706c884331918e1f9de482e841a4b5351",
+      "sha256AtMigration": "588f83afdf4b41760e051566219e6fb706c884331918e1f9de482e841a4b5351",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/flavor-research-queue.json",
+      "path": "research/flavors/queue.json",
+      "previousSha256": "ab8be81f57bba711a97f01e0018ca01893a44f9559cd76e98d7c77dbd5ed2de6",
+      "sha256AtMigration": "3c45565345d226d3e41c0c0c50b8f45c04661b64dda6473d1253ed1350225157",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/flavor-search-log-2026-11-14.json",
+      "path": "research/flavors/batches/2026-11-14/search-log.json",
+      "previousSha256": "31a069599eeb53c733e04f88b1fe6afba9ff9b254b17818e7c12692af6e29b33",
+      "sha256AtMigration": "48aaf84ba2cf5b5300b2e3d233b931341109c0b85fc9e7596bb594a31ac26e79",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/flavor-2000-expansion-2026-11-14.json",
+      "path": "research/flavors/batches/2026-11-14/expansion-2112.json",
+      "previousSha256": "bf74ba810b97fcf459d31e6b5bfe1281329f0a1479f7e05d778f7dcd3f79fafc",
+      "sha256AtMigration": "ebccd5cfeb15922f6b84a2cdcb93d535894006b0534453e5d1220ac152ff0ea1",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/flavor-regional-expansion-2026-11-14.json",
+      "path": "research/flavors/batches/2026-11-14/expansion-1733.json",
+      "previousSha256": "9e4b4471f9af54e4af0f317a6127a27543bb1de128596e3f9188c11db61027a3",
+      "sha256AtMigration": "9e4b4471f9af54e4af0f317a6127a27543bb1de128596e3f9188c11db61027a3",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/flavor-claims-review-2026-11-14.md",
+      "path": "research/flavors/batches/2026-11-14/claims-review.md",
+      "previousSha256": "eabf4c3fc5e25fba30dc192d6dbbac7c423081847cc1d8faa7d9b3a4d4f72959",
+      "sha256AtMigration": "50218e6917256bcf4a40f6f8efca5f132a9beb2bfaf5ecec432243768d26b3b1",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/flavor-county-review-2026-11-14.md",
+      "path": "research/flavors/batches/2026-11-14/county-review.md",
+      "previousSha256": "afa1166bf927dcd61a69db95da3668c55041242e4b4d1c08573c7902b1a5fdc7",
+      "sha256AtMigration": "afa1166bf927dcd61a69db95da3668c55041242e4b4d1c08573c7902b1a5fdc7",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/flavor-expansion-review-2026-11-14.md",
+      "path": "research/flavors/batches/2026-11-14/expansion-review.md",
+      "previousSha256": "80ad624094aacd5c59f8b1c1a2579206a81d5b69189f79d9906c6ed23bb536b2",
+      "sha256AtMigration": "ec814c6066c3c3b71f59d516345589eaa63081551e5960afd37a45c19478b0c5",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/tea-brand-review.md",
+      "path": "research/flavors/batches/2026-11-14/tea-brands.md",
+      "previousSha256": "32733fb7d8f8649aae8339acfb19733fe3f240d7c8cce6ea1b2a71bbe12d659e",
+      "sha256AtMigration": "32733fb7d8f8649aae8339acfb19733fe3f240d7c8cce6ea1b2a71bbe12d659e",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/food-image-coverage.json",
+      "path": "research/media/food/coverage.json",
+      "previousSha256": "ebf00a8e4359998efb8e743f0eb06718b19af1941888597b86ac93d19453b785",
+      "sha256AtMigration": "ebf00a8e4359998efb8e743f0eb06718b19af1941888597b86ac93d19453b785",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/food-photo-review.json",
+      "path": "research/media/food/review.json",
+      "previousSha256": "63def52a99db86f8bec6510841494ec4f14e6619164a524c9a60289e135a2a23",
+      "sha256AtMigration": "63def52a99db86f8bec6510841494ec4f14e6619164a524c9a60289e135a2a23",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/food-photo-candidates.json",
+      "path": "research/media/food/candidates.json",
+      "previousSha256": "dfaa1dbda556bd42b716d0d5a2c604d748ecd941c57a0754f8717543773b21c6",
+      "sha256AtMigration": "dfaa1dbda556bd42b716d0d5a2c604d748ecd941c57a0754f8717543773b21c6",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/food-photo-batch-2026-11-09.json",
+      "path": "research/media/food/batches/2026-11-09.json",
+      "previousSha256": "2ad17b8124764c3c0a9df3d2ad5ddb4ea882152e68513009085faa1e419cdfa1",
+      "sha256AtMigration": "ee282c2b877429519a9b81ff0887d12ac3bd603ccfe8c112c7427eff24d9f9b8",
+      "bytesPreserved": false
+    },
+    {
+      "previousPath": "docs/transport-photo-review.json",
+      "path": "research/media/transport/review.json",
+      "previousSha256": "7fb1bbfb5e480bcfb9f03381f7439c27dcf86b57b6f6cd83093fce57f881f694",
+      "sha256AtMigration": "7fb1bbfb5e480bcfb9f03381f7439c27dcf86b57b6f6cd83093fce57f881f694",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/local-media.json",
+      "path": "research/media/local-copies.json",
+      "previousSha256": "3d02d0fd7dac388a19e090e7b89fa7fad6d1026f31d53c01aaaf794fd7834c78",
+      "sha256AtMigration": "3d02d0fd7dac388a19e090e7b89fa7fad6d1026f31d53c01aaaf794fd7834c78",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/landmark-art-prompts.json",
+      "path": "research/media/landmarks/generation-plan.json",
+      "previousSha256": "58bd6d8f2a6f48022eb6d362a7e39f947b6e60085e8fe2b0b7984fdcde904915",
+      "sha256AtMigration": "58bd6d8f2a6f48022eb6d362a7e39f947b6e60085e8fe2b0b7984fdcde904915",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/ipa-source-records.json",
+      "path": "research/dictionary/ipa-records.json",
+      "previousSha256": "be7c15965e5488b25fe1fba25af6bb4e91dfbc98c101eaf1cdc312c7d4066b63",
+      "sha256AtMigration": "be7c15965e5488b25fe1fba25af6bb4e91dfbc98c101eaf1cdc312c7d4066b63",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "docs/living-costs-sources.json",
+      "path": "research/living-costs/sources.json",
+      "previousSha256": "6b2a7841a7660b6d437c1e7262b71775f9367c12942724d95dd3d3654627628a",
+      "sha256AtMigration": "6b2a7841a7660b6d437c1e7262b71775f9367c12942724d95dd3d3654627628a",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-lyg-dairy.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-lyg-dairy.json",
+      "previousSha256": "74511408b2f8da5261b55535f59fc81b6633e1a9080988d95d9a362161b3f321",
+      "sha256AtMigration": "74511408b2f8da5261b55535f59fc81b6633e1a9080988d95d9a362161b3f321",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-zhuxi-news.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-zhuxi-news.json",
+      "previousSha256": "01ee538a56932c0f4079a7df1f1a6d53b689b6cf2d6326c457681990bf86c61a",
+      "sha256AtMigration": "01ee538a56932c0f4079a7df1f1a6d53b689b6cf2d6326c457681990bf86c61a",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-changsha-snacks.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-changsha-snacks.json",
+      "previousSha256": "b32146917de0c1697c5e76c4e9b9a501a2a9ecb33aa1c4238531622793d4c88d",
+      "sha256AtMigration": "b32146917de0c1697c5e76c4e9b9a501a2a9ecb33aa1c4238531622793d4c88d",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/ah-pomegranate.json",
+      "path": "research/flavors/reading-notes/2026-11-14/ah-pomegranate.json",
+      "previousSha256": "ddfda166178496d9bf8a8b85f57dd3e6f1dbc406cf95e6afbe143bb550e01e30",
+      "sha256AtMigration": "ddfda166178496d9bf8a8b85f57dd3e6f1dbc406cf95e6afbe143bb550e01e30",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-jixi.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-jixi.json",
+      "previousSha256": "c0c3406ad7ca52f27448bfcec8cff51a57ceb01056c49f09f8e95cdb3a5fb9db",
+      "sha256AtMigration": "c0c3406ad7ca52f27448bfcec8cff51a57ceb01056c49f09f8e95cdb3a5fb9db",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/he-wenxian.json",
+      "path": "research/flavors/reading-notes/2026-11-14/he-wenxian.json",
+      "previousSha256": "a9de12a443eec1dd63112bba9acb7768b62953dc8a650522847ab29ba7a8d248",
+      "sha256AtMigration": "a9de12a443eec1dd63112bba9acb7768b62953dc8a650522847ab29ba7a8d248",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/hu-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/hu-produce.json",
+      "previousSha256": "9dd64aaa6ab09b9a17d015d2bd8ba3113f4ede896e7e07b45f47d0d556bc59ba",
+      "sha256AtMigration": "9dd64aaa6ab09b9a17d015d2bd8ba3113f4ede896e7e07b45f47d0d556bc59ba",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-baicheng.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-baicheng.json",
+      "previousSha256": "76d65339b1464d5fe0a3e6bc5d7241880b3d0485ef9928b952f527736af51bbc",
+      "sha256AtMigration": "76d65339b1464d5fe0a3e6bc5d7241880b3d0485ef9928b952f527736af51bbc",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/cnipa-products.json",
+      "path": "research/flavors/reading-notes/2026-11-14/cnipa-products.json",
+      "previousSha256": "06eacfb7d9e7a3da87b7aa57f8f6af8b1caf233a1b5726914f9ed3d9bc45f9ce",
+      "sha256AtMigration": "06eacfb7d9e7a3da87b7aa57f8f6af8b1caf233a1b5726914f9ed3d9bc45f9ce",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/fj-dried.json",
+      "path": "research/flavors/reading-notes/2026-11-14/fj-dried.json",
+      "previousSha256": "67fa2ca9659c643583f44004bfe06c3546acda8b54d6f62739b86fa27d8cccab",
+      "sha256AtMigration": "67fa2ca9659c643583f44004bfe06c3546acda8b54d6f62739b86fa27d8cccab",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-luotian.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-luotian.json",
+      "previousSha256": "67df723c637111bd1bad62360ac04e371c06fb46058052d1649c027c1f21d63a",
+      "sha256AtMigration": "67df723c637111bd1bad62360ac04e371c06fb46058052d1649c027c1f21d63a",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/jl-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/jl-produce.json",
+      "previousSha256": "82b157a8eee2e7aefd0be643114ca8667f4d5d0f3efe3be37bfd41879f9b4079",
+      "sha256AtMigration": "82b157a8eee2e7aefd0be643114ca8667f4d5d0f3efe3be37bfd41879f9b4079",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/zj-food.json",
+      "path": "research/flavors/reading-notes/2026-11-14/zj-food.json",
+      "previousSha256": "430a1b04e1472e70ca2a3667788d40ffeb59c6acb5889dddefdf90aa52c72573",
+      "sha256AtMigration": "430a1b04e1472e70ca2a3667788d40ffeb59c6acb5889dddefdf90aa52c72573",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-nantong-hongmei.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-nantong-hongmei.json",
+      "previousSha256": "c1b1b3534b26d671d331f70290c4e156dcc185e6572b1caa742a6d9abe88c396",
+      "sha256AtMigration": "c1b1b3534b26d671d331f70290c4e156dcc185e6572b1caa742a6d9abe88c396",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-beijing-snacks.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-beijing-snacks.json",
+      "previousSha256": "5d3eb24e97ff0b5d5fdcfca11e1049c1cbca087ee09dc1d43bcd4ff0c3fcd2de",
+      "sha256AtMigration": "5d3eb24e97ff0b5d5fdcfca11e1049c1cbca087ee09dc1d43bcd4ff0c3fcd2de",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-yakult-sampling.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-yakult-sampling.json",
+      "previousSha256": "1dd51d6fac9bbc25d7fc7769001dc3eb370df574206d311731ea22e452aea3e6",
+      "sha256AtMigration": "1dd51d6fac9bbc25d7fc7769001dc3eb370df574206d311731ea22e452aea3e6",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/bj-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/bj-produce.json",
+      "previousSha256": "caa362850fc180b9c25f09a405d4f31ae9bd5dcd3b252e6c13657cb34566a6b1",
+      "sha256AtMigration": "caa362850fc180b9c25f09a405d4f31ae9bd5dcd3b252e6c13657cb34566a6b1",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/craft-hlj.json",
+      "path": "research/flavors/reading-notes/2026-11-14/craft-hlj.json",
+      "previousSha256": "bc38e2e90670fcdf763465f5cbafa1497bbd5f85b0d7bd35a87c6d7edef09c7b",
+      "sha256AtMigration": "bc38e2e90670fcdf763465f5cbafa1497bbd5f85b0d7bd35a87c6d7edef09c7b",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/hn-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/hn-produce.json",
+      "previousSha256": "8078c4f06c90bb239a834b1784ca4e8fb90e807d6c04eb1298d3a1cf10fe03c6",
+      "sha256AtMigration": "8078c4f06c90bb239a834b1784ca4e8fb90e807d6c04eb1298d3a1cf10fe03c6",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/craft-national.json",
+      "path": "research/flavors/reading-notes/2026-11-14/craft-national.json",
+      "previousSha256": "5eee4e419449910e1cc8f121658c69979b183795c5fde561903a8edcb1bd9bec",
+      "sha256AtMigration": "5eee4e419449910e1cc8f121658c69979b183795c5fde561903a8edcb1bd9bec",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-zhiwei.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-zhiwei.json",
+      "previousSha256": "32ebdf7062376551f272b0e5e688df68f48f61ad4a415e7b46a6437c896e8d24",
+      "sha256AtMigration": "32ebdf7062376551f272b0e5e688df68f48f61ad4a415e7b46a6437c896e8d24",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/sd-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/sd-produce.json",
+      "previousSha256": "ea69943922c8aad72f1815b9b8744b3fa17eccd984ac62e7ac463cdb7f14cd81",
+      "sha256AtMigration": "ea69943922c8aad72f1815b9b8744b3fa17eccd984ac62e7ac463cdb7f14cd81",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/bj-mtg.json",
+      "path": "research/flavors/reading-notes/2026-11-14/bj-mtg.json",
+      "previousSha256": "ceb91a1cda1b66a1693193ea1783ec934229e27f67e348ab42b8040315671890",
+      "sha256AtMigration": "ceb91a1cda1b66a1693193ea1783ec934229e27f67e348ab42b8040315671890",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-ln-list-secondary.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-ln-list-secondary.json",
+      "previousSha256": "de8c5cf01d5012e36286eaf5f056dc84707cff8aa2d33037d56d59a732c2e070",
+      "sha256AtMigration": "de8c5cf01d5012e36286eaf5f056dc84707cff8aa2d33037d56d59a732c2e070",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-suqian-mengniu.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-suqian-mengniu.json",
+      "previousSha256": "d74fd21bd17d3e85b09ec3c3928fa4e97a40df0d4d1edb162a43334b17dd44c7",
+      "sha256AtMigration": "d74fd21bd17d3e85b09ec3c3928fa4e97a40df0d4d1edb162a43334b17dd44c7",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/craft-hunan.json",
+      "path": "research/flavors/reading-notes/2026-11-14/craft-hunan.json",
+      "previousSha256": "57680f16bd22d96524b711154f95ff6e070914502118a5301ca711590fd27b45",
+      "sha256AtMigration": "57680f16bd22d96524b711154f95ff6e070914502118a5301ca711590fd27b45",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/wuxi-ice.json",
+      "path": "research/flavors/reading-notes/2026-11-14/wuxi-ice.json",
+      "previousSha256": "b387e9bca0d1fd4568da88e4d5d24254222639901b37a22aaebb892cd11720c4",
+      "sha256AtMigration": "b387e9bca0d1fd4568da88e4d5d24254222639901b37a22aaebb892cd11720c4",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-js-dairy-pdf.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-js-dairy-pdf.json",
+      "previousSha256": "46bc2338fcf8a4302e510f895eedfe5c732b3aa078a01a5559eb21c334483a04",
+      "sha256AtMigration": "46bc2338fcf8a4302e510f895eedfe5c732b3aa078a01a5559eb21c334483a04",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/hn-lotus.json",
+      "path": "research/flavors/reading-notes/2026-11-14/hn-lotus.json",
+      "previousSha256": "52e48c3a2d410ae2a9c70cf7bf2ccd557177753655cd37af504ca0f3f80790b0",
+      "sha256AtMigration": "52e48c3a2d410ae2a9c70cf7bf2ccd557177753655cd37af504ca0f3f80790b0",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-ln-final.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-ln-final.json",
+      "previousSha256": "917203add7f98a505612ee9f5edf4dd2ae584867efc84d6bc848e5353e5dec5d",
+      "sha256AtMigration": "917203add7f98a505612ee9f5edf4dd2ae584867efc84d6bc848e5353e5dec5d",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-zhangwu.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-zhangwu.json",
+      "previousSha256": "b10f76e4560ac51711427b472d8463835fc6006817193463d4255632a680824d",
+      "sha256AtMigration": "b10f76e4560ac51711427b472d8463835fc6006817193463d4255632a680824d",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-lianhu.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-lianhu.json",
+      "previousSha256": "b48c108815a81c48a4025e319a842833a3aa5651752bb5a193b004b82cf70383",
+      "sha256AtMigration": "b48c108815a81c48a4025e319a842833a3aa5651752bb5a193b004b82cf70383",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-madieer.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-madieer.json",
+      "previousSha256": "21815a313b0e74a1b6fa44469e751765f1807e56f3e7491cc67e34b73c1540bb",
+      "sha256AtMigration": "21815a313b0e74a1b6fa44469e751765f1807e56f3e7491cc67e34b73c1540bb",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-yongzhou.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-yongzhou.json",
+      "previousSha256": "5192182be8f43624b676bd3c8bb6a8e998504d3764c39efa7586df768dd62855",
+      "sha256AtMigration": "5192182be8f43624b676bd3c8bb6a8e998504d3764c39efa7586df768dd62855",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-zj-snacks.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-zj-snacks.json",
+      "previousSha256": "9c9cecb8542bc7a16e68a324a0b140ffc87d6763235875d3ae3a08f70497c493",
+      "sha256AtMigration": "9c9cecb8542bc7a16e68a324a0b140ffc87d6763235875d3ae3a08f70497c493",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-longyan.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-longyan.json",
+      "previousSha256": "df3be1ad4e671969f6e65f8cc6a05e7432922539effcaa62a89d0db39d6f3437",
+      "sha256AtMigration": "df3be1ad4e671969f6e65f8cc6a05e7432922539effcaa62a89d0db39d6f3437",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/ln-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/ln-produce.json",
+      "previousSha256": "a1268b234851a6d588b7d1ef63745c373ef8ee9337034189056b3927e98b12fd",
+      "sha256AtMigration": "a1268b234851a6d588b7d1ef63745c373ef8ee9337034189056b3927e98b12fd",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/craft-jl.json",
+      "path": "research/flavors/reading-notes/2026-11-14/craft-jl.json",
+      "previousSha256": "3dff09a91501ef2afa82cef3711509fedf9f4858cc5fb508419b9cb61a614742",
+      "sha256AtMigration": "3dff09a91501ef2afa82cef3711509fedf9f4858cc5fb508419b9cb61a614742",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/hlj-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/hlj-produce.json",
+      "previousSha256": "824806f34480cda2778ff497d491eb8e6f807d06d5e188903ee7541f39fdbe4a",
+      "sha256AtMigration": "824806f34480cda2778ff497d491eb8e6f807d06d5e188903ee7541f39fdbe4a",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-zhongxiang.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-zhongxiang.json",
+      "previousSha256": "e00001c8d0437c6ed4cfa8a003eff3c77136e776d0e0bc33a1f10229bca8a9d0",
+      "sha256AtMigration": "e00001c8d0437c6ed4cfa8a003eff3c77136e776d0e0bc33a1f10229bca8a9d0",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/sx-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/sx-produce.json",
+      "previousSha256": "30974cf94672e78499f383b642cbf46840f1866a5692badf546727a61d57a389",
+      "sha256AtMigration": "30974cf94672e78499f383b642cbf46840f1866a5692badf546727a61d57a389",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/craft-hubei.json",
+      "path": "research/flavors/reading-notes/2026-11-14/craft-hubei.json",
+      "previousSha256": "58db85e724b02337fe16212c784a2a985611886035443b62f91ae5532a8bcc17",
+      "sha256AtMigration": "58db85e724b02337fe16212c784a2a985611886035443b62f91ae5532a8bcc17",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/bj-rabbit.json",
+      "path": "research/flavors/reading-notes/2026-11-14/bj-rabbit.json",
+      "previousSha256": "bce441948a22b24d00315ffd23e28ca97b10581e0cab5b90c5f60d63b7e1ed06",
+      "sha256AtMigration": "bce441948a22b24d00315ffd23e28ca97b10581e0cab5b90c5f60d63b7e1ed06",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/county-weiyang-news.json",
+      "path": "research/flavors/reading-notes/2026-11-14/county-weiyang-news.json",
+      "previousSha256": "efa0e06c4447cc75743a8da70666734b05d7970ef413be53436d04cd4a1b7cb9",
+      "sha256AtMigration": "efa0e06c4447cc75743a8da70666734b05d7970ef413be53436d04cd4a1b7cb9",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/hb-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/hb-produce.json",
+      "previousSha256": "cd547ba73c409558df0754b3e289a820665f2573836a2380c2ea1d8dd64c643b",
+      "sha256AtMigration": "cd547ba73c409558df0754b3e289a820665f2573836a2380c2ea1d8dd64c643b",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/he-jujube.json",
+      "path": "research/flavors/reading-notes/2026-11-14/he-jujube.json",
+      "previousSha256": "c3dc64f7dd831624274459262dac52a2568ba089052fdf3c4fcae803461f8310",
+      "sha256AtMigration": "c3dc64f7dd831624274459262dac52a2568ba089052fdf3c4fcae803461f8310",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/ln-tomato.json",
+      "path": "research/flavors/reading-notes/2026-11-14/ln-tomato.json",
+      "previousSha256": "267d9f142e254ef676a6e48e4f78c69b47ff3844fca988864327e0361d31fbcd",
+      "sha256AtMigration": "267d9f142e254ef676a6e48e4f78c69b47ff3844fca988864327e0361d31fbcd",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "data/snapshots/flavors/2026-11-14/sh-produce.json",
+      "path": "research/flavors/reading-notes/2026-11-14/sh-produce.json",
+      "previousSha256": "e1ceb98cf5b715afaf70d73dece98b47c8fe2df0a911772611c2deef310052bd",
+      "sha256AtMigration": "e1ceb98cf5b715afaf70d73dece98b47c8fe2df0a911772611c2deef310052bd",
+      "bytesPreserved": true
+    }
+  ],
+  "previousRevision": "5d9f21aa607339d515979cd23df9c097fdb34e8c",
+  "derivedIndexCorrections": [
+    {
+      "place": "甘井子区",
+      "adcode": 210211,
+      "removedEntryId": "county-6da29bc812d86f",
+      "reason": "刷新旧索引：正式卡片此前已只定位到小平岛，未指定甘井子区；移除过期县域引用，正式卡片内容不变。"
+    }
+  ]
+}
