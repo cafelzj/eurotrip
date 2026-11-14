@@ -13,8 +13,7 @@
         "ingredients": 1,
         "tea": 2,
         "seasoning": 2,
-        "drinks": 3,
-        "milktea": 1,
+        "drinks": 4,
         "dishes": 8
       }
     },
@@ -210,8 +209,8 @@
         "alcohol": 1,
         "dairy": 1,
         "tea": 1,
-        "milktea": 2,
-        "dishes": 5
+        "dishes": 5,
+        "drinks": 2
       }
     },
     {
@@ -233,8 +232,7 @@
         "staples": 3,
         "ingredients": 1,
         "seasoning": 1,
-        "milktea": 1,
-        "drinks": 1,
+        "drinks": 2,
         "dishes": 5
       }
     },
@@ -320,8 +318,8 @@
         "ingredients": 1,
         "tea": 1,
         "seasoning": 2,
-        "milktea": 1,
-        "dishes": 2
+        "dishes": 2,
+        "drinks": 1
       }
     },
     {
@@ -449,9 +447,9 @@
         "alcohol": 1,
         "dairy": 1,
         "tea": 1,
-        "milktea": 2,
         "seasoning": 1,
-        "dishes": 5
+        "dishes": 5,
+        "drinks": 2
       }
     },
     {
@@ -600,8 +598,8 @@
         "staples": 2,
         "dairy": 1,
         "tea": 3,
-        "milktea": 1,
-        "dishes": 6
+        "dishes": 6,
+        "drinks": 1
       }
     },
     {
@@ -624,8 +622,7 @@
         "staples": 4,
         "ingredients": 1,
         "tea": 1,
-        "milktea": 1,
-        "drinks": 1,
+        "drinks": 2,
         "dishes": 4
       }
     },
@@ -660,8 +657,8 @@
         "staples": 8,
         "ingredients": 1,
         "tea": 1,
-        "milktea": 1,
-        "dishes": 1
+        "dishes": 1,
+        "drinks": 1
       }
     },
     {
@@ -684,8 +681,7 @@
         "dairy": 2,
         "tea": 1,
         "seasoning": 4,
-        "drinks": 1,
-        "milktea": 1,
+        "drinks": 2,
         "dishes": 8
       }
     },

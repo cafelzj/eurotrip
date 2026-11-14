@@ -12,7 +12,7 @@ window.FlavorPage=(()=>{
  const hasIngredientFilter=state=>['dishes','staples','ingredients'].includes(state.type);
  const cityOptions=state=>regions[state.province]?.regions.map(r=>r.name)||cities(state);
  function parse(province,params){
-  const state={province:provinces.has(province)?province:'all',type:types.has(params.get('type'))?params.get('type'):'all',city:params.get('city')||'all',district:params.get('district')||'all',protein:data.proteins.includes(params.get('protein'))?params.get('protein'):'all',q:(params.get('q')||'').slice(0,160),limit:24};
+  const state={province:provinces.has(province)?province:'all',type:params.get('type')==='milktea'?'drinks':types.has(params.get('type'))?params.get('type'):'all',city:params.get('city')||'all',district:params.get('district')||'all',protein:data.proteins.includes(params.get('protein'))?params.get('protein'):'all',q:(params.get('q')||'').slice(0,160),limit:24};
   if(!hasIngredientFilter(state))state.protein='all';
   if(!cities(state).includes(state.city)&&!cityOptions(state).includes(state.city))state.city='all';
   if(!districtMode(state)||!cityOptions(state).includes(state.district))state.district='all';
