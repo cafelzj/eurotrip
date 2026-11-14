@@ -8746,6 +8746,188 @@ window.flavorCatalog={
       "publisher": "中国日报网转载／公开检索",
       "kind": "reference",
       "checked": "2026-11-14"
+    },
+    "depth-f2085104197410": {
+      "name": "天气网 · 元氏炸糕",
+      "url": "https://www.tianqi.com/techan/16511.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-aed4b074a749cc": {
+      "name": "天气网 · 西河肉糕",
+      "url": "https://www.tianqi.com/meishi/1765.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-1223dbac102727": {
+      "name": "天气网 · 双鸽火腿",
+      "url": "https://www.tianqi.com/meishi/240.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-65b7b819993a05": {
+      "name": "天气网 · 万里香烧鸡",
+      "url": "https://www.tianqi.com/meishi/1782.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-e5ed1f76919431": {
+      "name": "天气网 · 义盛永熏鸡",
+      "url": "https://www.tianqi.com/meishi/3158.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-8cd9c808559776": {
+      "name": "天气网 · 郝家烧麦",
+      "url": "https://www.tianqi.com/techan/12408.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-016f2070828a4d": {
+      "name": "天气网 · 建昌营馓子",
+      "url": "https://www.tianqi.com/techan/12399.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-f5efe97069a42a": {
+      "name": "天气网 · 花生酥糖",
+      "url": "https://www.tianqi.com/techan/12404.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-1f041e86979792": {
+      "name": "天气网 · 抚宁老髦肉",
+      "url": "https://www.tianqi.com/meishi/1784.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-c2ae6bc6b7408b": {
+      "name": "天气网 · 回记绿豆糕",
+      "url": "https://www.tianqi.com/meishi/1783.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-68672d48a2987e": {
+      "name": "天气网 · 北戴河烤鱼片",
+      "url": "https://www.tianqi.com/techan/15511.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-1224e6f8a396cb": {
+      "name": "天气网 · 巨鹿焖饼",
+      "url": "https://www.tianqi.com/meishi/1817.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-4ba073527fcc24": {
+      "name": "天气网 · 黑家饺子",
+      "url": "https://www.tianqi.com/techan/14740.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-95a0d2cb4ba6ba": {
+      "name": "天气网 · 沙河排骨",
+      "url": "https://www.tianqi.com/techan/14652.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-61be574d25c24c": {
+      "name": "天气网 · 临西空心手工挂面",
+      "url": "https://www.tianqi.com/techan/14539.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-149e4716878aed": {
+      "name": "天气网 · 广宗粘豆包",
+      "url": "https://www.tianqi.com/techan/14467.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-376c6ee50900ba": {
+      "name": "天气网 · 白玉鸡脯",
+      "url": "https://www.tianqi.com/meishi/3166.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-61040c1412da9e": {
+      "name": "天气网 · 烙炸",
+      "url": "https://www.tianqi.com/meishi/3164.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-f95c6daf8d5803": {
+      "name": "天气网 · 定兴棒子面饼",
+      "url": "https://www.tianqi.com/meishi/1829.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-1f1915317e0a6d": {
+      "name": "天气网 · 曲阳烧饼",
+      "url": "https://www.tianqi.com/meishi/1828.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-705ba544739967": {
+      "name": "天气网 · 骨渣丸子",
+      "url": "https://www.tianqi.com/meishi/1826.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-ce7b69906dafb3": {
+      "name": "天气网 · 白运章包子",
+      "url": "https://www.tianqi.com/meishi/1825.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-d6899a90e3941e": {
+      "name": "天气网 · 圪渣饼",
+      "url": "https://www.tianqi.com/meishi/1849.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-c40afd89bde50a": {
+      "name": "天气网 · 蔚县糊糊面",
+      "url": "https://www.tianqi.com/techan/16177.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-bba3fb3bd62f3d": {
+      "name": "天气网 · 糖麻叶",
+      "url": "https://www.tianqi.com/meishi/1847.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "depth-438d7deb976fb8": {
+      "name": "天气网 · 一鸣园食醋",
+      "url": "https://www.tianqi.com/techan/16150.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
     }
   },
   "items": [
@@ -27650,6 +27832,390 @@ window.flavorCatalog={
         "county-d7f6d28c316139"
       ],
       "id": "county-henan-a17b524e73"
+    },
+    {
+      "id": "depth-hebei-bf81c0aa51",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "元氏炸糕",
+      "type": "staples",
+      "kind": "烫面包糖炸糕",
+      "description": "元氏炸糕将糯米粉与麦面粉烫揉成团，包入红糖、白糖等甜馅，再炸至金黄，外皮酥香，内层柔软带糯性。",
+      "detail": "开水烫面使面团更易揉匀，糯米粉又增加黏软口感。糖馅受热融化，与外层脆壳形成对照，也有豆沙等不同馅口。",
+      "sources": [
+        "depth-f2085104197410"
+      ],
+      "locality": "元氏县"
+    },
+    {
+      "id": "depth-hebei-93e6f11067",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "西河肉糕",
+      "type": "dishes",
+      "kind": "淀粉肉末蒸糕",
+      "description": "西河肉糕关联深泽西河村，以绿豆、红薯淀粉等配肉末、肉汤和油料蒸制，成品切片，粉糕柔韧，肉汤咸香。",
+      "detail": "驴肉切细后与淀粉、汤油共同成形，熟制后可配烧饼，地方称烧饼裹肉。糕体来自淀粉凝结，与纯肉压制熟食结构不同。",
+      "sources": [
+        "depth-aed4b074a749cc"
+      ],
+      "locality": "深泽县西河村"
+    },
+    {
+      "id": "depth-hebei-f13c9f20b2",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "双鸽火腿",
+      "type": "dishes",
+      "kind": "地方品牌肉制品",
+      "description": "双鸽火腿与石家庄食品加工品牌相连，以猪肉配蛋白类辅料等加工，成品带肉香，可切片配饭、夹饼或炒菜。",
+      "detail": "肉料与辅料共同构成可切片的组织，煎炒后又形成表面香气。同品牌产品规格不同，具体配料及保存条件按实际标签辨认。",
+      "sources": [
+        "depth-1223dbac102727"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "depth-hebei-0b2fb147f0",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "万里香烧鸡",
+      "type": "dishes",
+      "kind": "老店香料烧鸡",
+      "description": "唐山万里香烧鸡与路南地方店号相连，整鸡配香料加工，成品棕红、形似琵琶，鸡皮香润，肉质软嫩。",
+      "detail": "蜂蜜着色与后续熟制让鸡皮、鸡肉分别呈现色香，砂仁、草果、肉桂等提供复合辛香，保留整鸡熟食的地方店号线索。",
+      "sources": [
+        "depth-65b7b819993a05"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "depth-hebei-47db5fdce6",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "义盛永熏鸡",
+      "type": "dishes",
+      "kind": "老汤煮制熏鸡",
+      "description": "唐山义盛永熏鸡将整形鸡放入香料老汤煮熟，再经熏制增香，肉质软烂、表皮带熏香，是具名地方熟食。",
+      "detail": "老汤配葱姜、花椒、桂皮等让味道进入肉中，之后熏制补充表面色香。两段工艺分别形成内部咸鲜和外层特殊气味。",
+      "sources": [
+        "depth-e5ed1f76919431"
+      ]
+    },
+    {
+      "id": "depth-hebei-f47096fb9a",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "郝家烧麦",
+      "type": "staples",
+      "kind": "烫面羊肉烧麦",
+      "description": "郝家烧麦关联唐山遵化地方店号，以烫面擀成薄皮，包入羊肉、白菜与葱姜等馅料，蒸后皮薄、肉香浓。",
+      "detail": "皮边用走锤压薄，收口保留花边形态，馅内加入煮肉白汤，使羊肉与汤汁结合。这里以羊肉馅为辨识，与糯米烧卖不同。",
+      "sources": [
+        "depth-8cd9c808559776"
+      ],
+      "locality": "遵化市",
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "depth-hebei-734118d335",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "建昌营馓子",
+      "type": "staples",
+      "kind": "细条油炸馓子",
+      "description": "建昌营馓子来自迁安建昌营镇，盐水和面后反复揉醒、搓条、浸油，再拉细成把炸制，色泽嫩黄，口感酥脆。",
+      "detail": "细面条以筷子托起入锅，火候影响条形完整与疏松程度。芝麻油、花生油等参与炸制，油香与麦面香气共同留在成品中。",
+      "sources": [
+        "depth-016f2070828a4d"
+      ],
+      "locality": "迁安市建昌营镇"
+    },
+    {
+      "id": "depth-hebei-156a08d396",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "花生酥糖",
+      "type": "dishes",
+      "kind": "花生粉层叠糖食",
+      "description": "唐山花生酥糖把炒熟花生磨粉，与白糖、饴糖等加工成疏松糖体，入口香甜易散，带明显花生烘香。",
+      "detail": "花生粉与糖坯经过翻叠、拉制形成细层，切块后内部质地较松。它与面片结合蜜汁的唐山麻糖形态和主料各有区别。",
+      "sources": [
+        "depth-f5efe97069a42a"
+      ]
+    },
+    {
+      "id": "depth-hebei-082edde4ae",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "抚宁老髦肉",
+      "type": "dishes",
+      "kind": "地方熏肉熟食",
+      "description": "抚宁老髦肉是秦皇岛抚宁具名熟食，猪肉经过调味熟制与熏制，成品棕黄、肉质有弹性，带醇厚熏香。",
+      "detail": "名称与地方制作人的称呼相连，猪肉不同部位带来肥瘦、筋皮的多种口感。卤煮先形成内部滋味，熏制再补充表皮香气。",
+      "sources": [
+        "depth-1f041e86979792"
+      ],
+      "locality": "抚宁区",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "depth-hebei-65897ff155",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "回记绿豆糕",
+      "type": "staples",
+      "kind": "模压蒸制豆粉糕",
+      "description": "回记绿豆糕关联秦皇岛山海关地方糕点店号，以绿豆粉与糖、粉料等加工，压模后蒸熟，糕体细腻、入口甜香。",
+      "detail": "粉料先调成可压制状态，再装入模具整形，蒸制让糕体结合。不同层料与油糖组合影响口感，保留地方豆粉糕点的辨识。",
+      "sources": [
+        "depth-c2ae6bc6b7408b"
+      ],
+      "locality": "山海关区"
+    },
+    {
+      "id": "depth-hebei-079be5d13c",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "北戴河烤鱼片",
+      "type": "dishes",
+      "kind": "烘烤压松鱼片",
+      "description": "北戴河烤鱼片以鱼肉剖片调味、烘烤，再压松整形，成品带鱼鲜与烘香，可作小份水产熟食。",
+      "detail": "烘烤后的鱼肉较紧，碾压帮助纤维松开，让成片鱼肉更易咀嚼。具体鱼种和调味随产品不同，应按实际配料表分别辨认。",
+      "sources": [
+        "depth-68672d48a2987e"
+      ],
+      "locality": "北戴河区",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "depth-hebei-4c06c796ef",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "巨鹿焖饼",
+      "type": "staples",
+      "kind": "饼丝焖菜主食",
+      "description": "巨鹿焖饼把不发酵的烙饼切成细丝，与菜料、汤汁焖熟，饼丝柔软而不黏，吸收肉菜香，是当地家常主食。",
+      "detail": "先烙薄饼再切丝，是这种食品的加工起点，后续借汤汽焖润。饼丝与菜汁在同锅结合，区别于干吃烙饼或直接煮生面条。",
+      "sources": [
+        "depth-1224e6f8a396cb"
+      ],
+      "locality": "巨鹿县"
+    },
+    {
+      "id": "depth-hebei-df068cad71",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "黑家饺子",
+      "type": "staples",
+      "kind": "羊肉蔬菜水饺",
+      "description": "邢台黑家饺子以羊肉与时蔬等调馅，加入葱、花椒水、香油等，包入面皮水煮，馅料鲜润、带羊肉香。",
+      "detail": "肉馅逐步吸收调味水分，擀皮保持薄厚较匀，捏成中间饱满的饺形。煮熟后皮与馅同时柔软，店号保留地方面食线索。",
+      "sources": [
+        "depth-4ba073527fcc24"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "depth-hebei-ab54769abb",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "沙河排骨",
+      "type": "dishes",
+      "kind": "先炸后焖排骨",
+      "description": "沙河排骨将排骨切块、拌酱油与淀粉后炸至金黄，再配葱姜、八角等加汤慢焖，成品咸香、肉质酥烂。",
+      "detail": "炸制先形成外层色香，焖煮再让汤味进入骨边肉。前后两段火候使排骨兼有油炸香气与慢炖后的柔软，是地方具名肉菜。",
+      "sources": [
+        "depth-95a0d2cb4ba6ba"
+      ],
+      "locality": "沙河市",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "depth-hebei-f0821e272f",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "临西空心手工挂面",
+      "type": "staples",
+      "kind": "手工拉伸干面",
+      "description": "临西空心手工挂面关联尖冢地方手艺，以小麦粉配盐、蛋或菜汁等，经过揉制、轧切与拉伸晾干，面条细长。",
+      "detail": "反复加工让面团延展，干燥后保留细条形态，复水煮食又恢复柔韧。不同配料形成不同产品，不把全部挂面写成同一种蛋面。",
+      "sources": [
+        "depth-61be574d25c24c"
+      ],
+      "locality": "临西县尖冢镇"
+    },
+    {
+      "id": "depth-hebei-f8ca72fac6",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "广宗粘豆包",
+      "type": "staples",
+      "kind": "黄米枣豆馅蒸食",
+      "description": "广宗粘豆包以大黄米面制皮，包入红豆、枣等煮制的甜馅，蒸熟后黏软，米香与豆枣甜香相合，是地方米食。",
+      "detail": "黄米皮与熟豆馅组成两层结构，揉面、发酵与蒸制共同影响韧度。黍米是这里的重要原料，成品与小麦面豆沙包口感不同。",
+      "sources": [
+        "depth-149e4716878aed"
+      ],
+      "locality": "广宗县"
+    },
+    {
+      "id": "depth-hebei-1d091e82b2",
+      "province": "hebei",
+      "city": "保定",
+      "name": "白玉鸡脯",
+      "type": "dishes",
+      "kind": "蛋清鸡肉滑制菜",
+      "description": "保定白玉鸡脯以鸡脯肉配蛋清等细加工，熟制后色浅、质地细嫩，鸡肉鲜味与柔软口感相合，是当地具名菜。",
+      "detail": "地方介绍记录汆熟与滑熟等不同制作路线，温和熟制帮助保持浅色与细嫩。名称以白玉比色，并不表示原料是豆腐或乳品。",
+      "sources": [
+        "depth-376c6ee50900ba"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "depth-hebei-6045db312f",
+      "province": "hebei",
+      "city": "保定",
+      "name": "烙炸",
+      "type": "dishes",
+      "kind": "绿豆薄饼炸烧菜",
+      "description": "涿州烙炸以绿豆面制成薄饼，切块炸成金黄后，再配葱蒜、醋汁或酱料翻烧，外层焦香、内部较嫩。",
+      "detail": "同一薄饼可作焦烙炸、酱焖等吃法，先定形后复炸烧汁形成多段口感。它属于豆面加工菜，名字中的炸字联系后续烹制。",
+      "sources": [
+        "depth-61040c1412da9e"
+      ],
+      "locality": "涿州市"
+    },
+    {
+      "id": "depth-hebei-1a0591a081",
+      "province": "hebei",
+      "city": "保定",
+      "name": "定兴棒子面饼",
+      "type": "staples",
+      "kind": "薄脆玉米面饼",
+      "description": "定兴棒子面饼以玉米面等和团，擀得很薄后在锅或饼铛上烙熟，饼体干香、较脆，可掰片夹酱和蔬菜。",
+      "detail": "传统介绍记录只熥一面的做法，多张同烙时需调整层次，让薄饼受热。棒子面就是玉米面，成品质地与松软发面饼不同。",
+      "sources": [
+        "depth-f95c6daf8d5803"
+      ],
+      "locality": "定兴县"
+    },
+    {
+      "id": "depth-hebei-bff9267811",
+      "province": "hebei",
+      "city": "保定",
+      "name": "曲阳烧饼",
+      "type": "staples",
+      "kind": "缸炉芝麻薄烧饼",
+      "description": "曲阳烧饼以麦面、芝麻等加工，薄饼入缸炉烘制，表面带芝麻，成品色黄，突出酥、香、薄、脆的地方风格。",
+      "detail": "面团揉制、油酥与炉火共同影响层次，芝麻在受热中增添烘香。饼体较薄，入口容易碎散，与厚实锅盔的咀嚼感有所不同。",
+      "sources": [
+        "depth-1f1915317e0a6d"
+      ],
+      "locality": "曲阳县"
+    },
+    {
+      "id": "depth-hebei-681b44c9f9",
+      "province": "hebei",
+      "city": "保定",
+      "name": "骨渣丸子",
+      "type": "dishes",
+      "kind": "脆骨肉馅丸子",
+      "description": "蠡县骨渣丸子将脆骨剁细加入肉馅，配蛋与淀粉等调成丸子，炸后再炖，肉馅柔软中留有脆骨的咀嚼感。",
+      "detail": "油炸先让丸子定形，香料汤慢炖又让味道进入内部。脆骨是区别普通肉丸的主要食材线索，成品保留两种肉料的不同质地。",
+      "sources": [
+        "depth-705ba544739967"
+      ],
+      "locality": "蠡县"
+    },
+    {
+      "id": "depth-hebei-e36ae64d2d",
+      "province": "hebei",
+      "city": "保定",
+      "name": "白运章包子",
+      "type": "staples",
+      "kind": "牛肉蔬菜蒸包",
+      "description": "保定白运章包子以鲜牛肉、时令蔬菜等作馅，发面与烫面配合制皮，蒸后皮薄而筋韧，肉馅鲜香。",
+      "detail": "面团两种处理方式共同调节皮的松软和延展，肉馅配香料与蔬菜形成汁味。店号取自制作人姓名，保留地方包子加工线索。",
+      "sources": [
+        "depth-ce7b69906dafb3"
+      ],
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "id": "depth-hebei-0f4777bc98",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "圪渣饼",
+      "type": "staples",
+      "kind": "薄脆烘烤甜饼",
+      "description": "阳原圪渣饼关联揣骨疃地方糕点，外形圆薄、烤后金黄，带油润光泽，入口酥脆甜香，地方名字借锅巴的薄脆感。",
+      "detail": "面饼经整形与烘烤形成接近半透明的薄层，细薄结构使口感容易碎散。地方也有改良配方，具体果汁等辅料应按单品辨认。",
+      "sources": [
+        "depth-d6899a90e3941e"
+      ],
+      "locality": "阳原县揣骨疃镇"
+    },
+    {
+      "id": "depth-hebei-20ba11a5c0",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "蔚县糊糊面",
+      "type": "staples",
+      "kind": "炒豆磨粉糊食",
+      "description": "蔚县暖泉糊糊面以豌豆、扁豆等加工，豆料先烘炒，再去皮磨粉，冲煮后带炒豆香，是当地地方杂粮食品。",
+      "detail": "这里的面主要指磨出的粉料，烘炒火候影响香气，而不是一根根麦面条。豆粉与水结合形成糊食，保留谷豆加工的地方特点。",
+      "sources": [
+        "depth-c40afd89bde50a"
+      ],
+      "locality": "蔚县暖泉镇"
+    },
+    {
+      "id": "depth-hebei-ace9c4222c",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "糖麻叶",
+      "type": "staples",
+      "kind": "翻花油炸面点",
+      "description": "蔚县糖麻叶以面粉、糖、蛋和芝麻等和面，擀薄切片，中间划口后翻穿整形，再炸至金黄，甜香中有酥脆口感。",
+      "detail": "面片翻穿形成整齐花形，厚薄与油温决定外脆内软的程度。芝麻、蛋料和糖共同添香，属于地方油炸面点而非麻叶植物菜。",
+      "sources": [
+        "depth-bba3fb3bd62f3d"
+      ],
+      "locality": "蔚县"
+    },
+    {
+      "id": "depth-hebei-227b0c40e7",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "一鸣园食醋",
+      "type": "seasoning",
+      "kind": "熏烤粮谷酿醋",
+      "description": "一鸣园食醋关联张家口下花园地方酿造，以高粱、小米、谷糠、麦麸等加工，经过熏烤酿制，成醋带粮香与酸甜味。",
+      "detail": "原料粮、醋醅加工和陈放共同影响香气，成品可为饺子蘸料、凉菜或热菜调味。地方品牌与具体产品酸度、规格应分别辨认。",
+      "sources": [
+        "depth-438d7deb976fb8"
+      ],
+      "locality": "下花园区"
     }
   ],
   "targetItems": 2000

@@ -1,8 +1,8 @@
 {
   "reviewed": "2026-11-14",
   "targetItems": 2000,
-  "totalItems": 1321,
-  "remainingItems": 679,
+  "totalItems": 1347,
+  "remainingItems": 653,
   "scope": "已收录15省市的地级市、自治州、地区及所辖县、县级市、区；济源等省直管单位单列。县内乡镇在卡片 locality 中注明。",
   "order": "按目录省份顺序，每个地级市之后依行政代码逐县级单位检索；省直管县级单位不虚构下属县。",
   "statusMeaning": {
@@ -12921,7 +12921,10 @@
         "flavor-hebei-d3070d2d47",
         "flavor-hebei-d670fec647",
         "flavor-hebei-45ea61d5ad",
-        "flavor-hebei-01f97ee16e"
+        "flavor-hebei-01f97ee16e",
+        "depth-hebei-bf81c0aa51",
+        "depth-hebei-93e6f11067",
+        "depth-hebei-f13c9f20b2"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -13075,9 +13078,11 @@
       "city": "石家庄",
       "name": "深泽县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-93e6f11067"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130100
     },
     {
@@ -13119,9 +13124,11 @@
       "city": "石家庄",
       "name": "元氏县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-bf81c0aa51"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130100
     },
     {
@@ -13179,7 +13186,12 @@
         "flavor-hebei-3af1d747c4",
         "flavor-hebei-ce33159a29",
         "flavor-hebei-b32a3f1434",
-        "flavor-hebei-66446039c1"
+        "flavor-hebei-66446039c1",
+        "depth-hebei-0b2fb147f0",
+        "depth-hebei-47db5fdce6",
+        "depth-hebei-f47096fb9a",
+        "depth-hebei-734118d335",
+        "depth-hebei-156a08d396"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -13311,9 +13323,11 @@
       "city": "唐山",
       "name": "遵化市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-f47096fb9a"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130200
     },
     {
@@ -13322,9 +13336,11 @@
       "city": "唐山",
       "name": "迁安市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-734118d335"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130200
     },
     {
@@ -13348,7 +13364,10 @@
         "flavor-hebei-46abffd710",
         "flavor-hebei-67364a167c",
         "flavor-hebei-c0ed510a20",
-        "flavor-hebei-ac37d2e144"
+        "flavor-hebei-ac37d2e144",
+        "depth-hebei-082edde4ae",
+        "depth-hebei-65897ff155",
+        "depth-hebei-079be5d13c"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -13370,9 +13389,11 @@
       "city": "秦皇岛",
       "name": "山海关区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-65897ff155"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130300
     },
     {
@@ -13381,9 +13402,11 @@
       "city": "秦皇岛",
       "name": "北戴河区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-079be5d13c"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130300
     },
     {
@@ -13392,9 +13415,11 @@
       "city": "秦皇岛",
       "name": "抚宁区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-082edde4ae"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130300
     },
     {
@@ -13653,7 +13678,12 @@
       "entryIds": [
         "flavor-hebei-8d633d8b86",
         "flavor-hebei-0049350089",
-        "flavor-hebei-f59afd1ccd"
+        "flavor-hebei-f59afd1ccd",
+        "depth-hebei-4c06c796ef",
+        "depth-hebei-df068cad71",
+        "depth-hebei-ab54769abb",
+        "depth-hebei-f0821e272f",
+        "depth-hebei-f8ca72fac6"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -13763,9 +13793,11 @@
       "city": "邢台",
       "name": "巨鹿县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-4c06c796ef"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130500
     },
     {
@@ -13785,9 +13817,11 @@
       "city": "邢台",
       "name": "广宗县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-f8ca72fac6"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130500
     },
     {
@@ -13829,9 +13863,11 @@
       "city": "邢台",
       "name": "临西县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-f0821e272f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130500
     },
     {
@@ -13851,9 +13887,11 @@
       "city": "邢台",
       "name": "沙河市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-ab54769abb"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130500
     },
     {
@@ -13865,7 +13903,13 @@
       "entryIds": [
         "flavor-hebei-848d9c6f4e",
         "flavor-hebei-1722f01170",
-        "flavor-hebei-1a7011c355"
+        "flavor-hebei-1a7011c355",
+        "depth-hebei-1d091e82b2",
+        "depth-hebei-6045db312f",
+        "depth-hebei-1a0591a081",
+        "depth-hebei-bff9267811",
+        "depth-hebei-681b44c9f9",
+        "depth-hebei-e36ae64d2d"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -13953,9 +13997,11 @@
       "city": "保定",
       "name": "定兴县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-1a0591a081"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130600
     },
     {
@@ -14041,9 +14087,11 @@
       "city": "保定",
       "name": "曲阳县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-bff9267811"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130600
     },
     {
@@ -14052,9 +14100,11 @@
       "city": "保定",
       "name": "蠡县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-681b44c9f9"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130600
     },
     {
@@ -14096,9 +14146,11 @@
       "city": "保定",
       "name": "涿州市",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-6045db312f"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130600
     },
     {
@@ -14144,7 +14196,11 @@
         "flavor-hebei-42aef53664",
         "flavor-hebei-64c383836b",
         "flavor-hebei-1f66ab76b3",
-        "flavor-hebei-342d65276b"
+        "flavor-hebei-342d65276b",
+        "depth-hebei-0f4777bc98",
+        "depth-hebei-20ba11a5c0",
+        "depth-hebei-ace9c4222c",
+        "depth-hebei-227b0c40e7"
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries"
@@ -14188,9 +14244,11 @@
       "city": "张家口",
       "name": "下花园区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-227b0c40e7"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130700
     },
     {
@@ -14265,9 +14323,12 @@
       "city": "张家口",
       "name": "蔚县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-20ba11a5c0",
+        "depth-hebei-ace9c4222c"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130700
     },
     {
@@ -14276,9 +14337,11 @@
       "city": "张家口",
       "name": "阳原县",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "depth-hebei-0f4777bc98"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
+      "status": "has-sourced-entries",
       "parentAdcode": 130700
     },
     {

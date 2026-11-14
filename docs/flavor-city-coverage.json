@@ -69,20 +69,20 @@
     {
       "province": "hebei",
       "city": "石家庄",
-      "count": 5,
-      "remainingToTarget": 6
+      "count": 8,
+      "remainingToTarget": 3
     },
     {
       "province": "hebei",
       "city": "唐山",
-      "count": 5,
-      "remainingToTarget": 6
+      "count": 10,
+      "remainingToTarget": 1
     },
     {
       "province": "hebei",
       "city": "秦皇岛",
-      "count": 4,
-      "remainingToTarget": 7
+      "count": 7,
+      "remainingToTarget": 4
     },
     {
       "province": "hebei",
@@ -93,20 +93,20 @@
     {
       "province": "hebei",
       "city": "邢台",
-      "count": 3,
-      "remainingToTarget": 8
+      "count": 8,
+      "remainingToTarget": 3
     },
     {
       "province": "hebei",
       "city": "保定",
-      "count": 3,
-      "remainingToTarget": 8
+      "count": 9,
+      "remainingToTarget": 2
     },
     {
       "province": "hebei",
       "city": "张家口",
-      "count": 4,
-      "remainingToTarget": 7
+      "count": 8,
+      "remainingToTarget": 3
     },
     {
       "province": "hebei",
@@ -1553,29 +1553,29 @@
     {
       "province": "hebei",
       "city": "石家庄",
-      "count": 5,
+      "count": 8,
       "types": {
-        "dishes": 3,
-        "staples": 2
+        "dishes": 5,
+        "staples": 3
       }
     },
     {
       "province": "hebei",
       "city": "唐山",
-      "count": 5,
+      "count": 10,
       "types": {
-        "staples": 2,
-        "dishes": 2,
+        "staples": 4,
+        "dishes": 5,
         "seasoning": 1
       }
     },
     {
       "province": "hebei",
       "city": "秦皇岛",
-      "count": 4,
+      "count": 7,
       "types": {
-        "staples": 1,
-        "dishes": 2,
+        "staples": 2,
+        "dishes": 4,
         "alcohol": 1
       }
     },
@@ -1592,28 +1592,29 @@
     {
       "province": "hebei",
       "city": "邢台",
-      "count": 3,
+      "count": 8,
       "types": {
-        "dishes": 2,
-        "staples": 1
+        "dishes": 3,
+        "staples": 5
       }
     },
     {
       "province": "hebei",
       "city": "保定",
-      "count": 3,
+      "count": 9,
       "types": {
-        "staples": 2,
-        "dishes": 1
+        "staples": 5,
+        "dishes": 4
       }
     },
     {
       "province": "hebei",
       "city": "张家口",
-      "count": 4,
+      "count": 8,
       "types": {
         "dishes": 3,
-        "staples": 1
+        "staples": 4,
+        "seasoning": 1
       }
     },
     {
@@ -2408,7 +2409,7 @@
       }
     }
   ],
-  "totalItems": 1321,
+  "totalItems": 1347,
   "targetItems": 2000,
-  "remainingItems": 679
+  "remainingItems": 653
 }
