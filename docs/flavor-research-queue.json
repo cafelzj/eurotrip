@@ -1,8 +1,8 @@
 {
   "reviewed": "2026-11-14",
   "targetItems": 2000,
-  "totalItems": 1347,
-  "remainingItems": 653,
+  "totalItems": 1394,
+  "remainingItems": 606,
   "scope": "已收录15省市的地级市、自治州、地区及所辖县、县级市、区；济源等省直管单位单列。县内乡镇在卡片 locality 中注明。",
   "order": "按目录省份顺序，每个地级市之后依行政代码逐县级单位检索；省直管县级单位不虚构下属县。",
   "statusMeaning": {
@@ -4963,10 +4963,110 @@
         "flavor-jiangsu-a11e87e6b5",
         "flavor-jiangsu-2880a536ec",
         "flavor-jiangsu-8eb3c4d0ec",
-        "flavor-jiangsu-b987dd1904"
+        "flavor-jiangsu-b987dd1904",
+        "lead-wuxi-tianzi",
+        "wuxi-tianzi-niuniu"
       ],
       "reviewedTopics": [],
-      "status": "has-sourced-entries"
+      "status": "has-sourced-entries",
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "5d120401a70d67159ff50fd5b612c988e1f26b21c283d2f1860f6fed7861d9c4",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "9c6222e6bd8e5e795cb80a4dbd78fd4eb930d0d602b0952f04400d3cbc7a87f3",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "f9129544bcc89a22e8131b44073fbdde14d761e36b1290eba84eeeb440911a0c",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "34d44df4b4ab88bcd97f98fdc0a61f6182987fb6b5729e45e9e701bee3144580",
+          "candidateCount": 4,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "ca5366fa8166180d9cc919bf2e1bfe0aa04c457ee373ef6dfc6ee9a24c8910b4",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "4c53174fb701de63e144c271e18c8873ccaefce5ba12e68c261106fc3493c959",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "22f51d0289678edd2d69285e1d54fcd19c69a13746c1a3256cb1461aaf6c5b92",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "fafb329192ccf06ca3de3ca75c910f5942209b68cd0a6447590e07944907ca61",
+          "candidateCount": 4,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "6e6e493afb3ea68569f5e42629300c4a9365acb722f7a122eb64a4c41257d839",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "5810782e79a46bc5681c34d5728e1b77eb1640e70a5cd51121e85f105e0f8042",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "1ffa489de3b5456c9c39adf750fc3a8a59a092b8315cf7d456f54453981c19a9",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "d088eaa0902233f9083b01ed8dc35e504d4d52c789a3336dae05860070a9f20f",
+          "candidateCount": 3,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320205,
@@ -4976,8 +5076,106 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320200
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 锡山 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "26aadc577725c6a8c33f7c349d9141f26129b0385cbb4dffb9fcd15ac35f2b2f",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 锡山 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "bb15be155995ac047e43aa7d21ac576bceb0d76290c9a592e1a0f0a91eb55ca6",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 锡山 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "aa872422153e2fa3d2fc57f2d74ca38fc7f7129ccb4d067f7aece10bb4359f55",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 锡山 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "53b71cf21b41ea575af0f0827586bd0d04061bc3bebdb96400c4c33dd63e39a4",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 锡山 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "1820b6d13fb03e5102359670a84e51349995466597a39c8db4ba6dbb7d64d351",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 锡山 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2e5260f6f7437aaa676ce5d2ac7e014b6fee2128513e27949de6c70839f3a53b",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 锡山 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "19876a9b8e367cb6249700c55ae25897a31d49c5fbc5d152b330a6ba75f07012",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 锡山 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "ffe8472731e336c30d7985bb87271f420be8dd1877255c968e472540258ea44e",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 锡山 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "3e3341c5ffa06fc3626b180edcbe3a094d2ad1c739c14410749a2ee720b5d3f9",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 锡山 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2d3db2f861554d4e8012c74a4e60372444a1694df6d65b939eb47292ece32cf8",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 锡山 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2d9b094f4b0fce07a02a5a6e8e40654c52741bcc17ddf14e4472d745f8134b77",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 锡山 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E9%94%A1%E5%B1%B1+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "deb1bdab18201cd82a5f4bb0556a431929ef12926d75a42c9ce30494f20720e7",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320206,
@@ -4987,8 +5185,106 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320200
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 惠山 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "9b4251294d72f1594debee76a2978bace1b3cb28889906e721831d0a0939e06c",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 惠山 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "8e7958ffe63b99c09bdb2db56c8684e985d1954878eaf7caececcd08b923c6ef",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 惠山 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "5ff28bdfddd488a2bdb77c2fd058a7b09f7975f71e5f358097a3eeecf7ae824d",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 惠山 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "cb5d161850372c915ffe991b2ebe917f1cadcc6150d1e543f645c5a9ba48fa1c",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 惠山 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "46bfd4ee75b62b17423269b4b4f5647da4725091b4cc73dfdfd9d176108c467f",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 惠山 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "e2b6a986647c18067be2342454e0c02110f7a34808ce252d822d398d9f2d729e",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 惠山 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "eefba2078e7e02b9aefbc1e19bcafc3191d4d72a5149024ddb141965286172ae",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 惠山 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "696d2670790fc90002ee61d134c8bbacc5bbaddcc05f641e2daeca91244cae31",
+          "candidateCount": 3,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 惠山 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "78e6ee2d023d0241647c3f7452a08c9a17689822a8d45d452371e7ad619d0e37",
+          "candidateCount": 3,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 惠山 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "e27861b12927775d822896da6594f9226f34ac13e110d2671b26684d392f25d1",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 惠山 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "8f5625f5331537c86113c74090906e30548b0c3b33cdf2505f4ea50886a1b7f6",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 惠山 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%83%A0%E5%B1%B1+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "c133a7ad49926403002ae4fb7bce0de3d6958b730c1e0d84f42358e0c4da5715",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320211,
@@ -4998,8 +5294,106 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320200
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 滨湖 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "37455add82bd38314d5f355223bd5e39ad7175a4e7e591b7b0c20ae807230f8b",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 滨湖 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "1266d699a9d726cde7fa5dd7db68e94c424ba598d195f7726380e09ddc0e4870",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 滨湖 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "e22a3e297c10a6aa18fb9d9e8a0d114a3527678147e92a64025abb8fd0ada401",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 滨湖 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "05a3fd2d54178d0e268e573e4ae64fce52c48ef8454b83d774bcc05a23c5cb1e",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 滨湖 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "8bca9c521d92962b84fd428a5fb65756ee6f0771aa66b11fb491b31791c9d915",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 滨湖 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "d0cb804e8adc0fd23a6c4415793d4738598fc84d1885ccc64c981de0c2e9d6bf",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 滨湖 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "6877228b9949325b523e5035239311ddc9e7184468b766305e9511aef0a27b69",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 滨湖 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "23399470a09e3f7e7ba02d52b3509a5318576b8f7ce80b650e995c15e881eda1",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 滨湖 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "b0cb46d16f13874d75025a50095af6f6ef555e16408ac3ca5065c69e3fb5e13a",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 滨湖 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "226b87b58c6954c6d9af247df36dc30ef5bdeaa87a93696cf36f2cacfd53acf8",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 滨湖 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "95d937ad2f13bd30ce4dd63fe3990a56d4f0fd7315cf6a182bccc3954bdafdb5",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 滨湖 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%BB%A8%E6%B9%96+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "a22a1de1c6abd3d3e640bf0b15967ee19cff16922c03d7f5e2b5afded3a5ecae",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320213,
@@ -5007,10 +5401,111 @@
       "city": "无锡",
       "name": "梁溪区",
       "level": "county",
-      "entryIds": [],
+      "entryIds": [
+        "lead-wuxi-tianzi",
+        "wuxi-tianzi-niuniu"
+      ],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320200
+      "status": "has-sourced-entries",
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 梁溪 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "d0823987d4dfb361665986569ad9718ed07c9b297a2bf994cbf9a6716b8247d8",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 梁溪 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "e69d704b59c0ae35593acd6ad6e78ff57ccf3851ed11c81ff293c03b34e06022",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 梁溪 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "705c7d3e4ebc68148243745b49c8a615ab96b23ad64d7cb034b66040484975eb",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 梁溪 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "e88a88a2de8a1fb12db8603d3a8d94411970eec5b5b334d390219716f6dfc3fe",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 梁溪 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "3e019c1e474c5dcd8ba4f247ea76d74157676fd5168564951f1a8fa0a323d0d9",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 梁溪 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2ee3ea6448d6fd3ff1bb7c4d3c347387489b40ef0a44d76b9f011af827fa6c34",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 梁溪 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "7d1fb7b85c3c6fa5d817ea9e51504ad966beec55fc51b19c8c952de1c1b0a26c",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 梁溪 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "93819cd93210ef267d7cab25c9735a25bdf222d45a3b5cd3bac7558619b5ee7c",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 梁溪 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "0c35186b8f52f2d98fd58d9a495d6abfb50d9df57140b990728230bd5d4caa84",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 梁溪 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "86ce914d9e7049c3eab2cbb509e5f1f6593b876b74dc601c69be93a6e63febdd",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 梁溪 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "b2b48d2249136978f605fb7ed76299cb5b12b17dbe63528507afb179804494cb",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 梁溪 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%A2%81%E6%BA%AA+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "99af822c6624ec9a8db08207911846a2b6c4f3fb122507168ae7f96bdc433577",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320214,
@@ -5020,8 +5515,106 @@
       "level": "county",
       "entryIds": [],
       "reviewedTopics": [],
-      "status": "not-started",
-      "parentAdcode": 320200
+      "status": "search-leads-pending-review",
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 新吴 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "d122383150186316c5f164f4f182fc05d02201770fca49936919c9a72516dc72",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 新吴 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "54f5ddcef6e3ac65c1d5cd752861be1051ac13e3279f14c44c01d893c031b4c3",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 新吴 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "be4194cf5a7665adf369d68f4d29b5a83e85021ca67975d3002eefe464fcb966",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 新吴 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "da8c664285cd5746f4bec47211ce397a8ea81dfa039e84d7ef40d3295274eb20",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 新吴 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "1d7825c1e472fe6db80351157b8cbe4addc1d5a320bf83d4acb0de302a5383b5",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 新吴 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "49d643c917c6fc6b07a20f4d5e753a08cff438b8d5f69c4f301d154f26d9d5e2",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 新吴 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "0b205d0896b50ac270af5812bbf898c50559d37f67a6066d4f4252fc105d2cbf",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 新吴 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "c478586bf7001aed74e87ac46121669d4ad40685dbf518e709a435e76f6002cc",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 新吴 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "63901dbef111db0f34672cbb42a3fb70187b0e01f325d3646c071d3f776a78c5",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 新吴 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "0e1e98fc63ec073c86fa8fafcf0d754fad079773844129c3b5762134bba65ed6",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 新吴 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "71f128efb80327e2beef0a745736b4f5d000cf3beb527de6b5dcadf7c77fdcc0",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 新吴 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%96%B0%E5%90%B4+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "bf391a7e0aaa82c59b6cf14a2d9e123fe4f58eddd00774a92d76223d6bcfe820",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320281,
@@ -5034,7 +5627,105 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 320200
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 江阴 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "5da2e1506c8b78bccc5d08e64c0d69e6dbf38d2dc56d7af9cdd8a39699a32681",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 江阴 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2c9ae521d218e7bfa2e4b073598cee1cd5cac07f132321060c90f6f3689138c4",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 江阴 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "204c6ee043a09d8c688c414812614a1d4397d4f2d7ded36222ef28dffd158aad",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 江阴 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "54aa9c496327194afa95480d5a2f25884f02f6045e95cf859094866ddc82a567",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 江阴 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "49f6aee0257f5e750e02192a094b7bbb76173bdedaafe5aa1252e2cdb553ee56",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 江阴 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2a2e02a50bb91c093057133d488ec6455b9950d80f51c4cd862a07a108a67201",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 江阴 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "53b7de73e2e25c0f1ab4c463112741343739f1bb0b92b28198ef59f64c3d44c2",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 江阴 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "a3df5d04bdae19eddc91e5b1651afe6d8a56f34048fbc69bb9d0c4a049986093",
+          "candidateCount": 4,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 江阴 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "f123542192058f7c336d56518d3beb18f85dfb139dbd13da83835404d5f15521",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 江阴 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "5562b97447c9fa9af41a7867a20aa1dce6389bf7700fb200197b8d363199b247",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 江阴 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "6a34e1392fde1c042fa391bbb673cd9086bbc1433207b3a6975bc1f7ddfddb3f",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 江阴 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E6%B1%9F%E9%98%B4+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "b9749c42f72a258c5b24df4dbe6f5857b68c6a577826350e983b3ccbd188efb9",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320282,
@@ -5048,7 +5739,105 @@
       ],
       "reviewedTopics": [],
       "status": "has-sourced-entries",
-      "parentAdcode": 320200
+      "parentAdcode": 320200,
+      "searchEvidence": [
+        {
+          "topic": "local-dishes",
+          "query": "无锡 宜兴 特色菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E7%89%B9%E8%89%B2%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "96aad17c9b205853628c57040a59c8c843a603a844bec61ad01062e3559094cf",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 宜兴 小众菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E5%B0%8F%E4%BC%97%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "9ab9683f3a49af33a890b6328c5da5048e877e90c2bb6b989aa44208c861e292",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 宜兴 当地菜",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E5%BD%93%E5%9C%B0%E8%8F%9C&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "a883e0dabc36826cb34f891fc1bc3763cb5ba0e88dbee0ca78b53627014c7203",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "local-dishes",
+          "query": "无锡 宜兴 小吃",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E5%B0%8F%E5%90%83&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "953b6dae13a677d841044d124b64afbc3e905d67cfccf2ec191206d954c8d167",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "dairy",
+          "query": "无锡 宜兴 乳品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E4%B9%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "2f7665d35deb7015807b16b96dc556bdca497cafb27e92ac2c9c2db712f1c14e",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 宜兴 饮品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E9%A5%AE%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "8c6fa0108f88f1125c5e627fa8a925f49dabc2d9cadedd0ad164a3ab9e26fd68",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "drinks",
+          "query": "无锡 宜兴 奶茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E5%A5%B6%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "0f1bd74c689d8053164d96cb553857f663f970c97d6461b63c4d2017fd36cc09",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "alcohol",
+          "query": "无锡 宜兴 酒",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E9%85%92&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "6aaf85d8379661e5ff4e989bf1a2a6119fe4f2056191ef40aab106c5624e820d",
+          "candidateCount": 2,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "tea",
+          "query": "无锡 宜兴 茶",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E8%8C%B6&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "f02ef9dc1653380883b6c57b354eeb4afca73f1c7e18c5ce5b521d7ddc68a434",
+          "candidateCount": 1,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "staples",
+          "query": "无锡 宜兴 面食",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E9%9D%A2%E9%A3%9F&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "8f0abd26f58206702398bbb6c187334ebd5cae476c542c9c647e66905a8aa091",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "seasoning",
+          "query": "无锡 宜兴 调味品",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E8%B0%83%E5%91%B3%E5%93%81&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "ff4fdf0a544ae9571cf0bd82f3dab936287d81e04ac2bfc4194b16675c413224",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        },
+        {
+          "topic": "ingredients",
+          "query": "无锡 宜兴 特产",
+          "url": "https://newssearch.chinadaily.com.cn/rest/search?keywords=%E6%97%A0%E9%94%A1+%E5%AE%9C%E5%85%B4+%E7%89%B9%E4%BA%A7&sort=relevance&page=0&curType=story",
+          "evidenceSha256": "b7ab3eb53bf125e068d68d77276a842ab795ffcf4edeb92525c31bb57395881b",
+          "candidateCount": 0,
+          "status": "search-only-not-article-review"
+        }
+      ]
     },
     {
       "adcode": 320300,

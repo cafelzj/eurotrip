@@ -10,7 +10,7 @@ def js(name,variable):return json.loads((root/name).read_text().split(variable+'
 data=js('data/flavors.js','window.flavorCatalog');geo=js('data/flavor-map-regions.js','window.flavorMapRegions')
 oldpath=root/'docs/flavor-research-queue.json';old=json.loads(oldpath.read_text())if oldpath.exists()else{};previous={r['adcode']:r for r in old.get('places',[])};places=[];sources=[];missing=[]
 def add(province,city,name,code,level,parent=None):
- items=[i for i in data['items']if i['province']==province['id']and i['city']==city]
+ items=[i for i in data['items']if i['province']==province['id']and i['city']==city and i.get('verificationStatus')!='pending']
  if level=='county':items=[i for i in items if name in str(i.get('locality',''))or i.get('district')==name or name in i.get('districts',[])]
  prev=previous.get(code,{});row={'adcode':code,'province':province['id'],'city':city,'name':name,'level':level,'entryIds':[i['id']for i in items],'reviewedTopics':prev.get('reviewedTopics',[]),'status':'has-sourced-entries'if items else'search-leads-pending-review'if prev.get('searchEvidence')else'not-started'}
  if parent:row['parentAdcode']=parent

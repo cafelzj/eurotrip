@@ -6,7 +6,7 @@ assert.equal(new Set(data.items.map(i=>i.id)).size,data.items.length);
 assert.equal(new Set(data.items.map(i=>i.province+'|'+i.city+'|'+i.name)).size,data.items.length);
 for(const item of data.items){
  assert(data.provinces.some(p=>p.id===item.province));assert(data.categories.some(t=>t.id===item.type));
- assert(item.city&&item.name&&item.description.length>30&&item.detail.length>30,item.name+' has useful food descriptions');assert(item.sources.length>0);
+ assert(item.city&&item.name&&item.description.length>0&&item.detail.length>30);if(item.verificationStatus==='pending')assert(item.verificationNote&&item.description.startsWith('待核实线索：'));else {assert(item.description.length>30,item.name);assert(item.sources.length>0);}
  for(const id of item.sources){const s=data.sources[id];assert(s&&typeof s.name==='string'&&/^https?:\/\//.test(s.url));assert(review.sources.some(r=>r.id===id&&r.read&&/^[a-f0-9]{64}$/.test(r.evidenceSha256)),item.name+' has read evidence');}
  for(const protein of item.proteins||[])assert(data.proteins.includes(protein));const geo=regions[item.province];
  if(geo.level==='city')assert(item.city==='全省'||geo.regions.some(r=>r.name===item.city),'current city attribution for '+item.name);
@@ -21,7 +21,7 @@ for(const province of data.provinces){
 assert.equal(cityCount,174);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),204);
 const coverage=JSON.parse(fs.readFileSync('docs/flavor-city-coverage.json','utf8'));
 assert.equal(coverage.cities.length,169);
-assert.equal(coverage.minimumPerCity,11);assert.equal(coverage.status,'in-progress');for(const row of coverage.cities.filter(r=>r.count<11))assert(coverage.pendingCities.some(r=>r.province===row.province&&r.city===row.city&&r.remainingToTarget===11-row.count),'unfinished targets remain explicit');
+assert.equal(coverage.minimumPerCity,11);assert.equal(coverage.status,'in-progress');for(const row of coverage.cities.filter(r=>r.count<11))assert(coverage.pendingCities.some(r=>r.province===row.province&&r.city===row.city&&r.remainingToTarget===11-(row.sourceBackedCount??row.count)),'unfinished targets remain explicit');
 for(const row of [...coverage.cities,...coverage.countyAreas])assert.equal(row.count,data.items.filter(i=>i.province===row.province&&i.city===row.city).length,'coverage agrees with live catalog');
 for(const type of data.categories)assert(data.items.some(i=>i.type===type.id));
 const research=JSON.parse(fs.readFileSync('docs/flavor-research-queue.json','utf8'));assert.equal(new Set(research.places.map(p=>p.adcode)).size,research.places.length);assert.equal(research.totalItems,data.items.length);assert.equal(research.targetItems,2000);assert.deepEqual(research.missingBoundaryLists,[]);for(const place of research.places)for(const id of place.entryIds)assert(data.items.some(i=>i.id===id),'research references existing entries');
@@ -38,6 +38,7 @@ assert(data.items.some(i=>i.type==='drinks'&&i.kind.includes('冲泡')));assert(
  p.on('pageerror',e=>errors.push(e.message));const base=process.env.SITE_URL||'http://127.0.0.1:4173',origin=new URL(base).origin;
  await p.route('**/*',r=>{const u=r.request().url();if(u.includes('/assets/maps/'))mapRequests.push(u);if(new URL(u).origin!==origin){external.push(u);return r.abort();}return r.continue();});
  const ready=()=>p.waitForSelector('.flavor-card');const visit=async hash=>{await p.goto(base+'/'+hash);await ready();};
+ await visit('#flavors?review=pending');assert(await p.locator('.flavor-verification-note').count()>0);assert(await p.locator('.flavor-card').evaluateAll(es=>es.every(e=>e.textContent.includes('待核实'))));await p.reload();await ready();assert.equal(await p.locator('#flavorReview').inputValue(),'pending');await p.selectOption('#flavorReview','sourced');await ready();assert.equal(await p.locator('.flavor-verification-note').count(),0);
  await visit('#flavors');assert.equal(await p.locator('#flavorsMode').getAttribute('aria-pressed'),'true');
  assert.equal(await p.locator('.flavor-provinces nav a').count(),16);assert.equal(await p.locator('#flavorMap, #flavorProvinceMap').count(),0,'choose a province from the list before showing a city map');
  assert.equal(await p.locator('.flavor-card').count(),24);await p.locator('#flavorMore').click();assert.equal(await p.locator('.flavor-card').count(),48);
@@ -63,5 +64,5 @@ assert(data.items.some(i=>i.type==='drinks'&&i.kind.includes('冲泡')));assert(
  for(const route of ['#flavors/henan?q='+encodeURIComponent('顺店'),'#flavors/zhejiang?q='+encodeURIComponent('兰溪')]){await p.setViewportSize({width:320,height:900});await visit(route);assert(await p.locator('.flavor-locality').count()>0);await p.locator('.flavor-card details summary').first().click();assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'county tags and food reading fit mobile');}await visit('#flavors/anhui');
  await p.route('**/assets/maps/flavors/*.svg',r=>r.abort());await p.reload();await ready();await p.waitForFunction(()=>document.querySelector('#flavorProvinceMap').textContent.includes('仍可用城市清单'));await p.locator('[data-flavor-city="铜陵"]').click();await ready();assert.equal(await p.locator('#flavorCity').inputValue(),'铜陵');assert(await p.locator('.flavor-card').count()>=11,'list works without a map');
  assert(!mapRequests.some(u=>u.includes('china-provinces.svg')),'province selection does not request a national map');assert.deepEqual(errors,[]);assert(external.every(u=>/fonts\.googleapis\.com/.test(u)),'catalog has no external map, media, data or search dependency');
- console.log('PASS '+data.items.length+' sourced entries; completed original city coverage retained; new city targets tracked; province/city lists, fifteen maps/204 regions, keyboard, empty-city state, filters, URL/reload/back, five widths and map failure fallback');
+ console.log('PASS '+data.items.filter(i=>i.verificationStatus!=='pending').length+' source-backed entries + '+data.items.filter(i=>i.verificationStatus==='pending').length+' pending leads; completed original city coverage retained; new city targets tracked; province/city lists, fifteen maps/204 regions, keyboard, empty-city state, filters, URL/reload/back, five widths and map failure fallback');
 }finally{await browser.close();}})().catch(e=>{console.error(e);process.exit(1)});
