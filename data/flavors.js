@@ -1,4 +1,4 @@
-/* First seven-province catalog. Editorial descriptions; factual sources are linked per item. */
+/* Provincial food catalog. Editorial descriptions; factual sources are linked per item. */
 window.flavorCatalog={
   "reviewed": "2026-11-14",
   "provinces": [
@@ -36,13 +36,13 @@ window.flavorCatalog={
       "id": "shanghai",
       "name": "上海",
       "adcode": 310000,
-      "summary": "光明乳品、老汽水和海派黄酒，与本帮酱香、糟味冷菜及海派西餐共同组成城市食单。"
+      "summary": "光明乳品、老汽水、地方茶饮与海派黄酒；辣酱油、糟卤和腐乳之外，也保留奉贤羊肉、闵行与崇明糕点的郊区味道。"
     },
     {
       "id": "shanxi",
       "name": "山西",
       "adcode": 140000,
-      "summary": "清徐醋、汾阳酒、晋中熟肉和地方汤食；代用茶按原料另作说明，继续向市县细分。"
+      "summary": "代县黄酒、清徐陈醋、朔州牛乳与晋北羊肉；沿十一座城市，分别记录蒸肉、熟食、豆制品和地方杂粮面食。"
     }
   ],
   "categories": [
@@ -55,6 +55,11 @@ window.flavorCatalog={
       "id": "drinks",
       "name": "饮料",
       "color": "#577662"
+    },
+    {
+      "id": "milktea",
+      "name": "奶茶／茶饮",
+      "color": "#8b6d53"
     },
     {
       "id": "alcohol",
@@ -468,6 +473,706 @@ window.flavorCatalog={
       "name": "维基百科贡献者 · 上海老字号名录",
       "url": "https://zh.wikipedia.org/wiki/Template:%E4%B8%8A%E6%B5%B7%E7%9A%84%E8%80%81%E5%AD%97%E5%8F%B7",
       "publisher": "维基百科贡献者",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-11cabd70e74c10": {
+      "name": "Pingyao beef (Pingyao Niurou)",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302374.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-d271f06131188d": {
+      "name": "Dingxiang steamed meat",
+      "url": "http://shanxi.chinadaily.com.cn/2021-09/15/c_661177.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-431a4357b56e7b": {
+      "name": "Taiyuan medicinal soup (Tounao)",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302375.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-89ef4af98517d6": {
+      "name": "Taiyuan Shaomei",
+      "url": "http://shanxi.chinadaily.com.cn/2023-05/09/c_884365.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-4b4d0669593447": {
+      "name": "Taiyuan Yangzage",
+      "url": "http://shanxi.chinadaily.com.cn/2023-11/10/c_383289.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-0348bce61dd2dd": {
+      "name": "Taiyuan Kaolaolao",
+      "url": "http://shanxi.chinadaily.com.cn/2021-05/17/c_623196.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9679e021f0f4cd": {
+      "name": "Fried boiled pork (Guo You Rou)",
+      "url": "http://shanxi.chinadaily.com.cn/2020-06/11/c_302376.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-bf1f4937e5d745": {
+      "name": "Traditional production of Liuweizhai braised pork with sauce",
+      "url": "http://shanxi.chinadaily.com.cn/2022-10/10/c_818364.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-a7c5d382a00d8a": {
+      "name": "Guangling dried soybean curd",
+      "url": "http://shanxi.chinadaily.com.cn/2021-03/16/c_604112.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-62ca5bca97d5a6": {
+      "name": "Hunyuan potato jelly",
+      "url": "http://shanxi.chinadaily.com.cn/2020-02/17/c_452373.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-93527257ff9404": {
+      "name": "Datong instant boiled mutton",
+      "url": "http://shanxi.chinadaily.com.cn/2021-11/16/c_682240.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-2991de72710d77": {
+      "name": "Changzhi pickled and roast donkey meat",
+      "url": "http://shanxi.chinadaily.com.cn/2020-09/01/c_533285.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-6690f6c175919d": {
+      "name": "Changzhi Lucheng Pancake",
+      "url": "http://shanxi.chinadaily.com.cn/2022-07/11/c_787893.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3d00a1d7b66719": {
+      "name": "Shredded tofu with vermicelli in Pingding county",
+      "url": "http://shanxi.chinadaily.com.cn/2021-06/30/c_638008.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-8dac01d4fcaef7": {
+      "name": "Wu Family smoked meat (Wujia Xunrou)",
+      "url": "http://shanxi.chinadaily.com.cn/2019-03/21/c_346835.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3f33f5384afeb3": {
+      "name": "Lyuliang cypress seed mutton",
+      "url": "http://shanxi.chinadaily.com.cn/2021-08/12/c_651116.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-d766ed0270bce1": {
+      "name": "Sweet baked wheaten cake",
+      "url": "http://shanxi.chinadaily.com.cn/2020-11/05/c_561340.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-73f9fd4b19d979": {
+      "name": "Jishan fried dough twists (Jishan Mahua)",
+      "url": "http://shanxi.chinadaily.com.cn/2020-04/13/c_471103.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-10a84037b171e3": {
+      "name": "Wenxi Huamo (flower-shaped buns)",
+      "url": "http://shanxi.chinadaily.com.cn/2022-11/07/c_828404.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-4d940b0aa8654a": {
+      "name": "Fried cake (Yougao)",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302372.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-083215ffb76ff9": {
+      "name": "Shanxi unveils culinary delights along three 'No 1 Tourist Highways'",
+      "url": "http://shanxi.chinadaily.com.cn/2025-09/05/c_1125702.htm",
+      "publisher": "中国日报网 · 山西地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-97193cea011dc8": {
+      "name": "（乡村行·看振兴）雁门关外“种草记”：山西朔州盐碱地“长”出富民大产业",
+      "url": "https://finance.eastmoney.com/a/202607283823441722.html",
+      "publisher": "中国新闻网（东方财富转载）",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-a038abd673ba8d": {
+      "name": "卡旺卡辟谣将在上海、苏州开店",
+      "url": "https://finance.eastmoney.com/a/202605143736619341.html",
+      "publisher": "蓝鲸新闻（东方财富转载）",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-11856026540d3d": {
+      "name": "甜啦啦 · 品牌故事",
+      "url": "https://www.tianlala.com/brand/",
+      "publisher": "甜啦啦官网",
+      "kind": "primary",
+      "checked": "2026-11-14"
+    },
+    "read-87f76322dd9c97": {
+      "name": "香飘飘 · 我们是谁",
+      "url": "https://www.chinaxpp.com/about.html",
+      "publisher": "香飘飘官网",
+      "kind": "primary",
+      "checked": "2026-11-14"
+    },
+    "read-f490eef7fcc0eb": {
+      "name": "香飘飘 · 冲泡奶茶",
+      "url": "https://www.chinaxpp.com/brand/xpp.html",
+      "publisher": "香飘飘官网",
+      "kind": "primary",
+      "checked": "2026-11-14"
+    },
+    "read-d726444e088117": {
+      "name": "山西代县“文化夜市”开市：融非遗、促消费、兴文旅",
+      "url": "https://www.chinanews.com.cn/sh/2025/08-09/10462216.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-2b4457844541eb": {
+      "name": "（乡村行·看振兴）雁门关下黄酒飘香 文旅融合共话振兴",
+      "url": "https://www.chinanews.com.cn/cj/2023/11-24/10117280.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-1e8c808a23c30e": {
+      "name": "西餐里的中国味儿",
+      "url": "https://www.dili360.com/ch/article/p54bf6cf9c787707.htm",
+      "publisher": "中华遗产 · 中国国家地理网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-574b70bb4cb5c8": {
+      "name": "订单排满！腐乳变“东方奶酪”？在海外卖爆了！",
+      "url": "https://www.chinanews.com.cn/cj/2024/02-06/10159956.shtml",
+      "publisher": "央视财经（中国新闻网转载）",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-be63004c5f86cf": {
+      "name": "大暑节气南北“凉”品大PK 看解暑美味到底哪家强",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-22/10451922.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9a12a64ec7da89": {
+      "name": "古茗 · 品牌历程",
+      "url": "https://www.gumingnc.com/brand-history/",
+      "publisher": "古茗官网",
+      "kind": "primary",
+      "checked": "2026-11-14"
+    },
+    "read-9e01351e3b16ac": {
+      "name": "Shikou roast chicken: A taste of Dongying",
+      "url": "http://shandong.chinadaily.com.cn/2026-08/13/c_1205445.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-d391d0c58be907": {
+      "name": "Dongying's ICH cuisine: Cuijiaheya tofu",
+      "url": "http://shandong.chinadaily.com.cn/2026-01/07/c_1153288.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-97ab4886804014": {
+      "name": "Please select your Weifang cuisine hero!",
+      "url": "http://shandong.chinadaily.com.cn/2025-09/15/c_1125430.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-97b546b734a11e": {
+      "name": "Xuecheng peppery chicken",
+      "url": "http://shandong.chinadaily.com.cn/2020-10/28/c_560280.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-4755abc9016c18": {
+      "name": "Have a bite of Zaozhuang",
+      "url": "http://shandong.chinadaily.com.cn/2020-07/15/c_515658.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-e8dc4a4351afe1": {
+      "name": "Feixian stir-fried chicken",
+      "url": "http://shandong.chinadaily.com.cn/2021-01/29/c_586563.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-e00919bfdcd1e8": {
+      "name": "Video: Caoxian County Roasted Beef",
+      "url": "http://shandong.chinadaily.com.cn/2023-02/16/c_860668.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-e23258162d1d69": {
+      "name": "Warm your heart and soul with a bowl of soup in winter",
+      "url": "http://shandong.chinadaily.com.cn/2020-12/17/c_575574.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-612eb2d231f917": {
+      "name": "Video: Shixiang noodles in Linqing",
+      "url": "http://shandong.chinadaily.com.cn/2023-04/26/c_881485.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9d6d10c2636279": {
+      "name": "Video: Qingping hollow noodles",
+      "url": "http://shandong.chinadaily.com.cn/2023-04/28/c_882347.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-e6e2e030f5b626": {
+      "name": "Yantai's tasty Penglai Xiaomian",
+      "url": "http://shandong.chinadaily.com.cn/2022-04/29/c_749126.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-f42090834cd94a": {
+      "name": "Longkou fensi (vermicelli made from bean starch)",
+      "url": "http://shandong.chinadaily.com.cn/2022-09/13/c_811932.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-24216d30e9f99e": {
+      "name": "Qingdao pork greaves (青岛脂渣/Qingdao Zhi Zha)",
+      "url": "http://shandong.chinadaily.com.cn/2018-11/22/c_305954.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-5fea470fdf7334": {
+      "name": "Chili sautéed clams (辣炒蛤蜊/La Chao Ge Li)",
+      "url": "http://shandong.chinadaily.com.cn/2018-11/22/c_305945.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-e2324c9427d82d": {
+      "name": "Fishermen produce sun-dried fish in Weihai",
+      "url": "http://shandong.chinadaily.com.cn/2020-11/27/c_569957.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-187055d7e93c4f": {
+      "name": "Weihai bakers prepare festive holiday buns",
+      "url": "http://shandong.chinadaily.com.cn/2021-01/20/c_583981.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-19c7fdf0ec3da4": {
+      "name": "Enjoy breakfast snacks in Jinan",
+      "url": "http://shandong.chinadaily.com.cn/2023-11/06/c_936576.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-5af57f394e7056": {
+      "name": "Huang's roasted pork",
+      "url": "http://shandong.chinadaily.com.cn/2022-07/07/c_787163.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-f65e58e675f166": {
+      "name": "Recommended breakfast in Tai'an",
+      "url": "http://shandong.chinadaily.com.cn/2024-01/09/c_954662.htm",
+      "publisher": "中国日报网 · 山东地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3dbd4a2b62773d": {
+      "name": "Quzhou Gangjiang: A delicious sauce for rice",
+      "url": "http://zhejiang.chinadaily.com.cn/2023-11/21/c_940960.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-757fda4af046dc": {
+      "name": "Jinhua Ham",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-01/22/c_584874.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-c33b737c691778": {
+      "name": "Winter delicacy of Quzhou: Steamed rice cake",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-12/03/c_1050286.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-203d064e7554cb": {
+      "name": "Array of delicacies regale those at Quzhou during Spring Festival",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-02/18/c_596053.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-ba0002eafd7193": {
+      "name": "Quzhou delicacies",
+      "url": "http://zhejiang.chinadaily.com.cn/2020-06/18/c_558163.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9fce1f6d9db228": {
+      "name": "Ginger soup noodles",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-07/25/c_1008520.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-4fc20301acf817": {
+      "name": "Taizhou pancake roll",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-06/21/c_998444.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3feaa931627354": {
+      "name": "Zhao Yijun: Master of Jinyun shaobing",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-02/01/c_960305.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-a256c81328f047": {
+      "name": "Aroma of Spring Festival in Lishui: Nanxiang steamed bread",
+      "url": "http://zhejiang.chinadaily.com.cn/2022-01/27/c_703438.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-87f0ca274a1ff6": {
+      "name": "Authentic delicacies from Lishui's Liandu",
+      "url": "http://zhejiang.chinadaily.com.cn/2025-08/01/c_1114252.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-2ac5aaf54225d7": {
+      "name": "Succulent tastes of Lishui make every day a festival",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-02/19/c_595810.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-c43bd84c84dc97": {
+      "name": "Mouthwatering, special snacks on offer from Yongkang city",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-08/24/c_654891.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3e60b78536dd70": {
+      "name": "Delicacies in Jiaxing",
+      "url": "http://zhejiang.chinadaily.com.cn/2023-01/19/c_849592.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-11913d666b4e2b": {
+      "name": "Sun-dried rice noodles offer taste of home from Wenzhou",
+      "url": "http://zhejiang.chinadaily.com.cn/2026-06/08/c_1189188.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-8f5b888de40ad9": {
+      "name": "Must-eat Zhoushan delicacies in autumn",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-11/24/c_684312.htm",
+      "publisher": "中国日报网 · 浙江地方英文网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-anqing": {
+      "name": "Anqing · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/anqing/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-maanshan": {
+      "name": "Maanshan · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/maanshan/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-tongling": {
+      "name": "Tongling · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/tongling/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-chuzhou": {
+      "name": "Chuzhou · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/chuzhou/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-huainan": {
+      "name": "Huainan · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/huainan/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-lu'an": {
+      "name": "Lu'an · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/luan/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-47da33ecad4a48": {
+      "name": "Hefei dining",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/hefei/dining.htm",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9b4b3f02348287": {
+      "name": "Huangshan dining",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/huangshan/dining.htm",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "tcg-anhui-chizhou": {
+      "name": "Chizhou · 地方食品介绍",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/chizhou/",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-bd1a47d1567ad5": {
+      "name": "一把荆芥“潮”起来 本土食材“跨界”圈粉年轻人",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-10/10656794.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-3b8fd173631f27": {
+      "name": "品美食、赏非遗、看大戏 山西高平庙会点燃烟火气",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-22/10626865.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-fd76d3d66087fd": {
+      "name": "淮扬菜 · 代表菜与地方做法",
+      "url": "https://www.travelchinaguide.com/huaiyang-cuisine.htm",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-7f968d199b12ff": {
+      "name": "沿着大运河看中国丨波澜壮阔与活色生香，解锁“运河之都”淮安的AB面",
+      "url": "https://www.chinanews.com.cn/sh/2023/08-16/10062090.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-51f26619d87698": {
+      "name": "探访古城扬州“老字号”：感受时代变迁-中新网",
+      "url": "https://www.chinanews.com.cn/cul/2019/02-04/8747783.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-0a1069d8538b30": {
+      "name": "人这一辈子，一定要去一趟“0州”",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-20/10450847.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-02ea6bf73a6929": {
+      "name": "“包装实丑价格感人” 年轻人买零食都爱淘“工厂店”",
+      "url": "https://www.chinanews.com.cn/life/2022/01-20/9657147.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-b9fd0d2c452473": {
+      "name": "（新春走基层）文旅“头雁”的谈判：没有“网红”咖啡馆也能赢",
+      "url": "https://www.chinanews.com.cn/sh/2026/02-16/10573342.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-c65f6a7b2bb7d7": {
+      "name": "老字号香飘百年 探访江苏省级非遗南通西亭脆饼制作全过程-中新网",
+      "url": "https://www.chinanews.com.cn/tp/hd2011/2023/11-07/1086198.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-52ed9872eed939": {
+      "name": "“灌云豆丹”过去是害虫 今日变地方特色美食 ——中新网",
+      "url": "https://www.chinanews.com.cn/cj/2010/08-09/2455739.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-18174e0d6ad406": {
+      "name": "宿迁传统美食车轮饼形似车轮 用冰糖和猪油制成 -中新网",
+      "url": "https://www.chinanews.com.cn/cul/2015/02-25/7077746.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-9f17e4d9b601f4": {
+      "name": "Xuzhou dining",
+      "url": "https://www.travelchinaguide.com/cityguides/jiangsu/xuzhou/dining.htm",
+      "publisher": "TravelChinaGuide",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-df5bec54d1e64b": {
+      "name": "我买的不是奶茶，是生活中的甜味剂",
+      "url": "https://www.chinanews.com.cn/cj/2021/01-30/9400305.shtml",
+      "publisher": "中国新闻周刊（中国新闻网转载）",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-a8f0fa5a441586": {
+      "name": "从老味道到新国潮 舌尖上的非遗老字号焕新出发-中新网",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652092.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-2da8d0ef62eb97": {
+      "name": "锦绣中国年｜第十届北京非遗大观园活动举办 非遗民俗共贺新春",
+      "url": "https://www.chinanews.com.cn/sh/2024/02-13/10163408.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-b51392f18c5a32": {
+      "name": "长城脚下的国风盛典 2025怀柔国潮文化季启幕",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-14/10447376.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-1e3ddca42355af": {
+      "name": "（聚焦中国高质量发展）探寻长城脚下“北旮旯”的国际流量密码",
+      "url": "https://www.chinanews.com.cn/sh/2024/10-20/10304859.shtml",
+      "publisher": "中国新闻社",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-78f01aa7152260": {
+      "name": "过年的“甜蜜”藏在这里",
+      "url": "https://www.chinanews.com.cn/life/2025/02-09/10365778.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-06707245ba3af2": {
+      "name": "香港青年上海崇明行：看生态蝶变 话低空未来",
+      "url": "https://www.chinanews.com.cn/txy/2026/04-04/10598707.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-aaa739924123db": {
+      "name": "酷暑中遇见“非遗”食俗 上海庄行伏羊节开启“羊肉+烧酒”进补模式",
+      "url": "https://www.chinanews.com.cn/sh/2023/07-09/10039559.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-fde8a15fc63adc": {
+      "name": "（乡村行·看振兴）一壶棒棒茶，泡出千年古镇慢时光与新生机",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-23/10591614.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-d2482f41b48162": {
+      "name": "2022中国地标美食早茶早餐类名录首发",
+      "url": "https://www.chinanews.com.cn/life/2022/06-17/9782539.shtml",
+      "publisher": "中国新闻社 · 中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-edf71041b74df9": {
+      "name": "山东济宁曲阜：以旅为媒书写各民族交往交流交融新篇",
+      "url": "https://www.chinanews.com.cn/txy/2026/03-16/10587526.shtml",
+      "publisher": "中国新闻网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-0ff5cc1e7d3c9a": {
+      "name": "北洋乞丐将军高三升：因名字吉利得袁世凯青睐",
+      "url": "https://www.chinanews.com.cn/cul/2012/06-19/3972770.shtml",
+      "publisher": "大众日报（中国新闻网转载）",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "read-c7c8cf0ef96584": {
+      "name": "合肥新桥“长”出DRAM龙头：打新前夜 长鑫科技12英寸存储器晶圆制造基地二期项目正在建设",
+      "url": "https://finance.eastmoney.com/a/202607173810478097.html",
+      "publisher": "每日经济新闻（东方财富转载）",
       "kind": "reference",
       "checked": "2026-11-14"
     }
@@ -1620,16 +2325,18 @@ window.flavorCatalog={
       "province": "shanghai",
       "city": "上海",
       "type": "dishes",
-      "name": "白切羊肉",
+      "name": "庄行白切羊肉",
       "kind": "白煮冷切羊肉",
-      "description": "羊肉煮熟后切片呈上，上海郊区与本帮菜传统中都有这类做法。羊肉的部位和煮制方式比厚重酱汁更能决定口感。",
-      "detail": "上海地方饮食资料还列出真如、江桥等羊肉加工技艺，可作为以后按区镇继续扩充的线索。首批不把这些不同传统合并成同一品牌。",
+      "description": "奉贤庄行的白切羊肉，与夏季伏羊节和本地烧酒相连，是上海郊区的一道地方肉食。",
+      "detail": "庄行伏羊节把羊肉、烧酒与夏季乡村聚餐结合起来。地方报道记录了老街、餐饮点与乡村游活动，也说明本帮饮食不只集中在中心城区。",
       "sources": [
-        "wiki-上海菜"
+        "read-aaa739924123db"
       ],
       "proteins": [
         "羊"
-      ]
+      ],
+      "district": "奉贤区",
+      "locality": "庄行镇"
     },
     {
       "id": "sh-luosong",
@@ -1808,6 +2515,2060 @@ window.flavorCatalog={
       "detail": "资料把这两类汤作为烹调中的调味基础。奶汤的“奶”描述汤色，本条按底汤记录，避免与乳制品、直接饮用的乳饮料混在一起。",
       "sources": [
         "tcg-shandong"
+      ]
+    },
+    {
+      "id": "sx-pingyao-beef",
+      "province": "shanxi",
+      "city": "晋中",
+      "type": "dishes",
+      "name": "平遥牛肉",
+      "kind": "腌卤熟牛肉",
+      "description": "平遥的代表性熟肉，切开色泽红润，肉质紧实中带软嫩，通常切片作冷盘。",
+      "detail": "平遥牛肉的传统加工技艺被列入国家级非遗。原料选择与制作过程相互配合，让熟肉保留红润色泽和软嫩口感，切片冷食时尤其能感受到肉本身的香气。",
+      "sources": [
+        "read-11cabd70e74c10"
+      ],
+      "locality": "平遥县",
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "id": "sx-dingxiang-pork",
+      "province": "shanxi",
+      "city": "忻州",
+      "type": "dishes",
+      "name": "定襄蒸肉",
+      "kind": "猪肉蒸制",
+      "description": "瘦猪肉与淀粉、油和调味料拌合蒸熟，质地绵软，是定襄宴席上常见的一道肉食。",
+      "detail": "它的做法重点在肉与淀粉的结合及蒸制后的细腻口感，和把大块肉直接上笼蒸的菜肴不同。地方介绍也记录了它从宴席食品进入民间餐桌的线索。",
+      "sources": [
+        "read-d271f06131188d"
+      ],
+      "locality": "定襄县",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sx-tounao",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "太原头脑",
+      "kind": "羊肉糊汤",
+      "description": "以羊肉等原料制成的浓厚汤食，是太原冷天清晨的一种地方味道；“头脑”是菜名。",
+      "detail": "太原地方记述把“头脑”的命名与傅山联系起来。秋冬时节，当地人到清真饭店喝上一碗热头脑，是这道汤食与城市生活相连的具体场景。",
+      "sources": [
+        "read-431a4357b56e7b"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sx-shaomei",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "太原烧麦",
+      "kind": "薄皮蒸点",
+      "description": "薄皮包馅、上口收成细褶花边，蒸熟后像一朵朵舒展的花，是太原的传统面点。",
+      "detail": "花边需要借助专门的擀制工具；揉面、擀皮、打褶、包馅和蒸制各有工序。地方资料把它与晋中、太原一带的宴席面点传统联系起来。",
+      "sources": [
+        "read-89ef4af98517d6"
+      ]
+    },
+    {
+      "id": "sx-taiyuan-yangza",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "太原羊杂割",
+      "kind": "羊杂粉条汤",
+      "description": "羊杂与粉条在汤中煮热，葱姜、香菜和羊油增香，再以醋、胡椒或辣椒调出层次。",
+      "detail": "“羊杂割”也称羊杂碎。太原的街头店铺常用大锅煮汤，但端上桌是一碗热汤与切好的羊杂；它和单纯的炖羊肉有不同的口感。",
+      "sources": [
+        "read-4b4d0669593447"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sx-kaolaolao",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "莜面栲栳栳",
+      "kind": "莜麦蒸面",
+      "description": "把莜面搓推成薄薄的筒状，挨个立起排入笼中蒸熟，再蘸蘑菇汤、羊肉汤或酸辣汁。",
+      "detail": "“栲栳”原指竹篾、柳条编成的盛物器具，面筒成排后的形状由此得名。这种吃法在山西中北部都可见，太原只是其中一个常见的品尝城市。",
+      "sources": [
+        "read-0348bce61dd2dd"
+      ]
+    },
+    {
+      "id": "sx-guoyourou",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "山西过油肉",
+      "kind": "过油炒肉片",
+      "description": "肉片先经油处理再回锅炒制，成菜咸鲜中带醋香，是晋菜馆里很有辨识度的一道菜。",
+      "detail": "“过油”点出了烹调工序：先让肉片获得滑嫩口感，再与配料、调味汁合炒。地方介绍强调色泽金黄、肉质嫩与微酸的味道；它并非只属于太原一城。",
+      "sources": [
+        "read-9679e021f0f4cd"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sx-liuweizhai",
+      "province": "shanxi",
+      "city": "太原",
+      "type": "dishes",
+      "name": "六味斋酱肉",
+      "kind": "地方熟食品牌",
+      "description": "太原老字号的酱肉，以慢火炖制形成酱香，成品熟而不烂，切片可作熟食冷盘。",
+      "detail": "资料记录了太原六味斋使用香辛料、以慢火炖制数小时的传统工序。熟而不烂、酱香融入肉中，是它作为地方熟肉的主要识别点。",
+      "sources": [
+        "read-bf1f4937e5d745"
+      ],
+      "brand": "六味斋",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sx-guangling-tofu",
+      "province": "shanxi",
+      "city": "大同",
+      "type": "dishes",
+      "name": "广灵豆腐干",
+      "kind": "豆制熟食",
+      "description": "广灵把豆腐切条、晾干，再以调料卤煮，做成有嚼劲的豆腐干，常见咸味和熏味。",
+      "detail": "制作依次经过煮豆浆、成豆腐、切条、晾晒、卤制。不同加工方式带来不同风味，可作凉菜，也可进入热菜。这里的广灵是大同市下辖县。",
+      "sources": [
+        "read-a7c5d382a00d8a"
+      ],
+      "locality": "广灵县"
+    },
+    {
+      "id": "sx-hunyuan-liangfen",
+      "province": "shanxi",
+      "city": "大同",
+      "type": "dishes",
+      "name": "浑源凉粉",
+      "kind": "土豆淀粉凉粉",
+      "description": "用土豆淀粉制成凉粉，配醋、葱、黄瓜、萝卜和辣油，炸蚕豆与豆制品增添脆香。",
+      "detail": "它与常见的绿豆凉粉原料不同；浑源吃法的辨识度还在配料丰富、酸辣相衬。地方资料同时记录了炸蚕豆、豆腐等佐料，不只是一碗淋辣椒油的粉。",
+      "sources": [
+        "read-62ca5bca97d5a6"
+      ],
+      "locality": "浑源县"
+    },
+    {
+      "id": "sx-datong-mutton",
+      "province": "shanxi",
+      "city": "大同",
+      "type": "dishes",
+      "name": "大同涮羊肉",
+      "kind": "铜锅涮食",
+      "description": "薄羊肉入热汤涮熟，白菜、豆腐、粉丝搭配麻酱，延续了晋北常见的铜锅涮食风味。",
+      "detail": "大同邻近内蒙古，地方资料将羊肉供应与当地涮食传统联系起来。汤底和蘸料后来不断变化，不能把今天所有店铺都概括成同一种固定配方。",
+      "sources": [
+        "read-93527257ff9404"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sx-changzhi-donkey",
+      "province": "shanxi",
+      "city": "长治",
+      "type": "dishes",
+      "name": "长治腊驴肉",
+      "kind": "香辛料熟肉",
+      "description": "驴肉经香辛料加工，形成咸香而有回味的熟肉，是长治很有辨识度的地方食品。",
+      "detail": "当地将腊驴肉视作有代表性的熟食，多种香辛料参与加工，让驴肉保留咸香回味。长治腊驴肉与同城潞城甩饼里的驴肉、驴油线索也能互相参照。",
+      "sources": [
+        "read-2991de72710d77"
+      ],
+      "locality": "长治"
+    },
+    {
+      "id": "sx-lucheng-pancake",
+      "province": "shanxi",
+      "city": "长治",
+      "type": "dishes",
+      "name": "潞城甩饼",
+      "kind": "驴油烙薄饼",
+      "description": "用驴油烙制薄饼，卷入驴肉和蔬菜，配蒜泥蘸食；薄饼本身的油香是重点。",
+      "detail": "潞城现为长治市潞城区。地方资料把它作为当地汉族面食记录，不能因为名称像普通煎饼，就忽略烙饼用油、卷料和蒜泥的组合。",
+      "sources": [
+        "read-6690f6c175919d"
+      ],
+      "locality": "潞城区"
+    },
+    {
+      "id": "sx-pingding-tofu",
+      "province": "shanxi",
+      "city": "阳泉",
+      "type": "dishes",
+      "name": "平定豆丝粉条",
+      "kind": "豆制宴席菜",
+      "description": "炸过的豆腐丝与粉条同做，豆丝外层有香气、里面柔软，是平定待客宴席中的地方菜。",
+      "detail": "它虽然外观看起来容易被误当成凉拌粉条，地方资料说明实际是热菜。豆丝需要先炸，婚丧待客等宴席上都能见到这类做法。",
+      "sources": [
+        "read-3d00a1d7b66719"
+      ],
+      "locality": "平定县"
+    },
+    {
+      "id": "sx-wujia-smoked",
+      "province": "shanxi",
+      "city": "临汾",
+      "type": "dishes",
+      "name": "吴家熏肉",
+      "kind": "猪鸡合制熏肉",
+      "description": "把猪肉与鸡肉组合加工，再经熏制形成香气，是临汾地方熟食中的一个具体品种。",
+      "detail": "地方介绍特别指出它同时使用猪肉与鸡肉，因此这里保留双食材标签。它不是把普通腊肉换个地名，而是有当地名称和配料组合的熏肉。",
+      "sources": [
+        "read-8dac01d4fcaef7"
+      ],
+      "proteins": [
+        "猪",
+        "鸡"
+      ]
+    },
+    {
+      "id": "sx-zhongyang-lamb",
+      "province": "shanxi",
+      "city": "吕梁",
+      "type": "dishes",
+      "name": "中阳柏籽羊肉",
+      "kind": "地方羊肉",
+      "description": "吕梁中阳的羊肉风味与山地放牧环境相连，肉质和香气是当地人认识这一食材的线索。",
+      "detail": "中阳位于吕梁山西麓，地方资料记录羊采食柏籽、柏叶等山地植物的背景。山地放牧环境与肉的地方风味相连，是认识“柏籽羊肉”名称的重要线索。",
+      "sources": [
+        "read-3f33f5384afeb3"
+      ],
+      "locality": "中阳县",
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sx-linxian-tanghuoshao",
+      "province": "shanxi",
+      "city": "吕梁",
+      "type": "dishes",
+      "name": "临县糖火烧",
+      "kind": "模压烤点",
+      "description": "面坯用木模压形后入炉烤制，入口酥甜，饼面中间隆起，常有红印和双圈边纹。",
+      "detail": "临县糖火烧常用于走亲访友、婚庆和孩子满月等场合。木模、红印、双圈边纹和炉烤香气共同构成它的特色，也让一块甜饼成为地方礼俗的载体。",
+      "sources": [
+        "read-d766ed0270bce1"
+      ],
+      "locality": "临县"
+    },
+    {
+      "id": "sx-jishan-mahua",
+      "province": "shanxi",
+      "city": "运城",
+      "type": "dishes",
+      "name": "稷山麻花",
+      "kind": "油炸面点",
+      "description": "面条搓合成扭纹后炸至金黄，常见甜、咸两类口味，是稷山的传统面点。",
+      "detail": "不同作坊会做出不同股数、粗细和形状。地方介绍强调酥脆和手工造型；没有把古代名人或皇家故事写作已经证实的起源。",
+      "sources": [
+        "read-73f9fd4b19d979"
+      ],
+      "locality": "稷山县"
+    },
+    {
+      "id": "sx-wenxi-huamo",
+      "province": "shanxi",
+      "city": "运城",
+      "type": "dishes",
+      "name": "闻喜花馍",
+      "kind": "蒸制面塑",
+      "description": "把发面捏出花卉、动物等造型再蒸熟，既是食物，也是闻喜节庆与待客礼俗中的面塑。",
+      "detail": "婚礼、寿庆、乔迁等场合常用不同造型表达祝愿。其特色不只在好看，还在面团塑形、配色和蒸制；这里与油炸的闻喜煮饼分开记录。",
+      "sources": [
+        "read-10a84037b171e3"
+      ],
+      "locality": "闻喜县"
+    },
+    {
+      "id": "sx-jinzhong-yougao",
+      "province": "shanxi",
+      "city": "晋中",
+      "type": "dishes",
+      "name": "晋中油糕",
+      "kind": "豆枣馅炸糕",
+      "description": "面坯包入豆沙或枣泥等甜馅后油炸，趁热吃外层香、内馅软，是晋中的节庆点心之一。",
+      "detail": "地方资料记录了油糕在传统节日、婚礼和生日中的食用习惯。各地面粉、杂粮和馅料有差异，因此不把某一家配比写成全晋中唯一做法。",
+      "sources": [
+        "read-4d940b0aa8654a"
+      ]
+    },
+    {
+      "id": "sx-wutai-tofu",
+      "province": "shanxi",
+      "city": "忻州",
+      "type": "dishes",
+      "name": "五台烩豆腐丸子",
+      "kind": "豆制热菜",
+      "description": "以豆腐丸子做成热菜，是五台地方风味在山西旅游公路美食名录中的一项。",
+      "detail": "山西烹饪餐饮行业协会公布的地方美食名单，把五台豆腐丸子列入太行一号公路沿线代表菜。豆制菜与蒸肉、羊汤等并列，展示了沿线饮食的不同原料。",
+      "sources": [
+        "read-083215ffb76ff9"
+      ],
+      "locality": "五台县"
+    },
+    {
+      "id": "sx-xiyang-oat",
+      "province": "shanxi",
+      "city": "晋中",
+      "type": "dishes",
+      "name": "昔阳焖莜面",
+      "kind": "莜麦面食",
+      "description": "以焖制方式呈现的昔阳莜面，和栲栳栳的成筒蒸制、蘸汁吃法各有面貌。",
+      "detail": "它入选山西太行一号公路沿线地方美食名录。这里保留昔阳县这一具体归属，不把所有莜面做法都合并成一个“山西面食”条目。",
+      "sources": [
+        "read-083215ffb76ff9"
+      ],
+      "locality": "昔阳县"
+    },
+    {
+      "id": "sx-shilou-buckwheat",
+      "province": "shanxi",
+      "city": "吕梁",
+      "type": "dishes",
+      "name": "石楼酸汤荞面",
+      "kind": "荞麦汤面",
+      "description": "荞麦面与带醋香的酸汤相配，是吕梁石楼的地方汤面，在黄河一号公路美食名录中有记录。",
+      "detail": "这一项的识别点是石楼、荞麦与酸汤三者的组合。它与晋北以莜麦为主的面食在原料上不同，不将荞面误写成莜面。",
+      "sources": [
+        "read-083215ffb76ff9"
+      ],
+      "locality": "石楼县"
+    },
+    {
+      "id": "sx-shanyin-pancake",
+      "province": "shanxi",
+      "city": "朔州",
+      "type": "dishes",
+      "name": "山阴杂粮饼",
+      "kind": "杂粮面食",
+      "description": "把当地杂粮做成饼类，是山阴列入长城一号公路沿线地方美食的一项。",
+      "detail": "山阴县属朔州市，杂粮饼入选了长城一号公路沿线地方美食名录。山西北部的主食不仅有白面，也保留了以地方杂粮加工成饼的习惯。",
+      "sources": [
+        "read-083215ffb76ff9"
+      ],
+      "locality": "山阴县"
+    },
+    {
+      "id": "sx-huguan-soup",
+      "province": "shanxi",
+      "city": "长治",
+      "type": "dishes",
+      "name": "壶关羊汤",
+      "kind": "地方羊汤",
+      "description": "以羊肉风味为主的热汤，是长治壶关的地方食品，入选太行一号公路沿线美食名录。",
+      "detail": "壶关羊汤与太原羊杂割、晋北涮羊肉分别收录，保留市县差异。具体店家的部位、配料和蘸料可能不同，不用一个通用羊汤配方替代地方材料。",
+      "sources": [
+        "read-083215ffb76ff9"
+      ],
+      "locality": "壶关县",
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sx-gucheng-milk",
+      "province": "shanxi",
+      "city": "朔州",
+      "type": "dairy",
+      "name": "古城牛奶",
+      "kind": "地方乳品品牌",
+      "description": "与朔州山阴相连的乳品品牌，地方报道记录了古城乳业、奶牛养殖与当地饲草供应的联系。",
+      "detail": "中新网的山阴县报道追踪了盐碱地种草、奶牛养殖到乳品加工的产业链。这里将古城放在朔州乳制品中，不再把山西乳品留成“待补充”。",
+      "sources": [
+        "read-97193cea011dc8"
+      ],
+      "brand": "古城",
+      "locality": "山阴县"
+    },
+    {
+      "id": "ah-kawangka",
+      "province": "anhui",
+      "city": "合肥",
+      "type": "milktea",
+      "name": "卡旺卡",
+      "kind": "现制奶茶品牌",
+      "description": "从安徽发展起来的本土茶饮品牌，奶茶与地方年轻人的日常消费相连，和全国连锁在安徽开分店的情况不同。",
+      "detail": "公开报道把卡旺卡列为合肥本土品牌；2026 年品牌也专门澄清过上海、苏州门店传闻。城市字段记录品牌线索，不用快闪店或新增分店倒推品牌发源地。",
+      "sources": [
+        "read-a038abd673ba8d",
+        "read-c7c8cf0ef96584"
+      ],
+      "brand": "卡旺卡",
+      "originNote": "合肥本土品牌；门店开放情况以品牌当期公告为准。"
+    },
+    {
+      "id": "ah-tianlala",
+      "province": "anhui",
+      "city": "蚌埠",
+      "type": "milktea",
+      "name": "甜啦啦",
+      "kind": "现制果茶与奶茶",
+      "description": "2015 年创立、总部位于安徽蚌埠的茶饮品牌，以鲜果茶、奶茶等门店现制饮品为主要产品。",
+      "detail": "品牌官网明确记录了蚌埠总部和安徽汇旺餐饮管理有限公司的归属，也列有“有料奶茶”“冰鲜果茶”等系列。奶茶与果茶都在本系列内，但不把果茶当乳制品。",
+      "sources": [
+        "read-11856026540d3d"
+      ],
+      "brand": "甜啦啦",
+      "originNote": "品牌总部：安徽蚌埠；全国门店不等于各地本土品牌。"
+    },
+    {
+      "id": "zj-xiangpiaopiao",
+      "province": "zhejiang",
+      "city": "湖州",
+      "type": "milktea",
+      "name": "香飘飘奶茶",
+      "kind": "杯装冲泡奶茶",
+      "description": "2005 年诞生于浙江湖州的杯装奶茶品牌；茶粉、奶类配料与小料分别组合，冲泡后饮用。",
+      "detail": "官网保留了从经典杯装、珍珠双拼到原叶现泡系列的产品变化。它与茶饮店现场制作的奶茶分开标明；收录地按品牌发源湖州，不按各地工厂或目前办公地点改写。",
+      "sources": [
+        "read-87f76322dd9c97",
+        "read-f490eef7fcc0eb"
+      ],
+      "brand": "香飘飘",
+      "originNote": "浙江湖州发源；本项为冲泡产品，不是现制门店奶茶。"
+    },
+    {
+      "id": "sx-jinbo-huangjiu",
+      "province": "shanxi",
+      "city": "忻州",
+      "type": "alcohol",
+      "name": "雁门金波黄酒",
+      "kind": "代州黄酒",
+      "description": "代县的地方黄酒品牌，属于山西北方黄酒的风味线索，不能用汾酒等蒸馏白酒代替这一类别。",
+      "detail": "中新网对代县文化夜市的报道明确列出了“金波黄酒”。代州黄酒的地方酿造传统与黍米相连；具体酒款的甜度、酒精度和原料应分别记录，不能把黄酒统一写成一种规格。",
+      "sources": [
+        "read-d726444e088117",
+        "read-2b4457844541eb"
+      ],
+      "brand": "雁门金波",
+      "locality": "代县",
+      "originNote": "山西忻州代县。资料中的“代州”是当地历史地名。"
+    },
+    {
+      "id": "sx-daizhou-fish",
+      "province": "shanxi",
+      "city": "忻州",
+      "type": "dishes",
+      "name": "代州熬鱼",
+      "kind": "代县地方鱼菜",
+      "description": "代县夜市与地方餐桌上可见的鱼菜，与当地黄酒一起构成雁门关下的地方饮食线索。",
+      "detail": "代县文化夜市报道将代州熬鱼列为非遗美食区的特色饮食。它按具体地方名称单独收录，与临汾吉县的黄河鲤鱼菜分开，保留山西不同市县的鱼味。",
+      "sources": [
+        "read-d726444e088117"
+      ],
+      "locality": "代县",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "sh-la-jiangyou",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "seasoning",
+      "name": "上海辣酱油",
+      "kind": "海派酸鲜调味汁",
+      "description": "酸、甜、微辛的调味汁，颜色近似酱油，常与海派西餐和炸猪排相连；名字里的“辣”并不等于辣椒酱。",
+      "detail": "其风味线索与伍斯特酱、粤语中的“喼汁”相连，进入上海后称为辣酱油。各种品牌配方不同，但它与日常生抽、老抽的用途和味道有明显区别。",
+      "sources": [
+        "read-1e8c808a23c30e",
+        "read-574b70bb4cb5c8"
+      ]
+    },
+    {
+      "id": "sh-zaolu",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "seasoning",
+      "name": "糟卤",
+      "kind": "糟香浸渍调味汁",
+      "description": "带有糟香与咸鲜味的调味汁，用来浸出毛豆、鸡爪等熟食的香气，是上海夏季糟味冷菜的一条重要线索。",
+      "detail": "江南有多种糟味吃法，宁波糟毛豆、苏州糟卤鸡爪和上海弄堂糟货各有面貌。糟卤是用于浸渍的汁液，与浓稠的酒糟、甜酒酿应分开认识。",
+      "sources": [
+        "read-be63004c5f86cf"
+      ]
+    },
+    {
+      "id": "sh-dingfeng-furu",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "seasoning",
+      "name": "鼎丰腐乳",
+      "kind": "地方发酵豆制调味品",
+      "description": "上海老字号腐乳，发酵后的豆香与咸鲜味可配粥饭，也进入家常菜的调味。",
+      "detail": "央视财经的上海食品报道专门介绍了鼎丰腐乳及其海外销售。腐乳虽然常被比作“东方奶酪”，原料仍是豆制品，应归入调味品而不是乳制品。",
+      "sources": [
+        "read-574b70bb4cb5c8"
+      ],
+      "brand": "鼎丰"
+    },
+    {
+      "id": "sh-paigu-niangao",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "dishes",
+      "name": "排骨年糕",
+      "kind": "海派小吃",
+      "description": "炸排骨与软糯年糕搭配，卤汁把两种口感连在一起，辣酱油则带来酸鲜的味道。",
+      "detail": "上海老字号报道记录了排骨炸制、与年糕入卤汁以及添加辣酱油的做法。外酥的肉排和有嚼劲的米制年糕相衬，是这道小吃的辨识点。",
+      "sources": [
+        "read-574b70bb4cb5c8"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "zj-guming",
+      "province": "zhejiang",
+      "city": "台州",
+      "type": "milktea",
+      "name": "古茗",
+      "kind": "现制奶茶与果茶",
+      "description": "2010 年从浙江温岭大溪起步的茶饮品牌，后来发展出奶茶、果茶等系列，是台州本土品牌的一条线索。",
+      "detail": "品牌历程明确记载其起源于浙南小镇大溪，以及从奶茶向鲜果茶发展的变化。品牌发源地记为台州温岭，不因总部办公或全国门店的变化改作其他城市。",
+      "sources": [
+        "read-9a12a64ec7da89"
+      ],
+      "brand": "古茗",
+      "locality": "温岭市大溪镇",
+      "originNote": "品牌发源：浙江台州温岭大溪。"
+    },
+    {
+      "id": "sd-shikou-chicken",
+      "province": "shandong",
+      "city": "东营",
+      "type": "dishes",
+      "name": "史口烧鸡",
+      "kind": "卤煮烧鸡",
+      "description": "东营史口镇的传统烧鸡，先在香辛料老汤中慢煮，再以糖熏烧色，皮色金红、肉质软嫩。",
+      "detail": "当地做法重视老汤的续用，让卤香在反复烹调中积累；最后的糖烧工序形成光泽和香气。这与德州扒鸡、临沂炒鸡分别记录。",
+      "sources": [
+        "read-9e01351e3b16ac"
+      ],
+      "locality": "东营区史口镇",
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "sd-cuijiaheya-tofu",
+      "province": "shandong",
+      "city": "东营",
+      "type": "dishes",
+      "name": "崔家河崖豆腐",
+      "kind": "手工豆腐",
+      "description": "崔家河崖村的豆腐以手工点卤见长，豆浆凝结成细嫩而有韧性的豆腐，是当地日常食物。",
+      "detail": "磨豆可以借助机器，点卤仍需凭经验控制凝固时机。当地报道把这项制作技艺与传承人、村落生活联系起来，展示了豆制品背后的具体地方工序。",
+      "sources": [
+        "read-d391d0c58be907"
+      ],
+      "locality": "崔家河崖村"
+    },
+    {
+      "id": "sd-weifang-chaotianguo",
+      "province": "shandong",
+      "city": "潍坊",
+      "type": "dishes",
+      "name": "潍坊朝天锅",
+      "kind": "卷饼与锅煮熟食",
+      "description": "潍坊代表性地方食品，与和乐、肉火烧一起构成当地人熟悉的日常味道。",
+      "detail": "地方饮食介绍把朝天锅列作潍坊的代表。它保留锅煮熟食与饼食结合的吃法，适合和同城不同做法的面食并列认识。",
+      "sources": [
+        "read-97ab4886804014"
+      ]
+    },
+    {
+      "id": "sd-weifang-hele",
+      "province": "shandong",
+      "city": "潍坊",
+      "type": "dishes",
+      "name": "潍坊和乐",
+      "kind": "地方条形面食",
+      "description": "潍坊日常饮食中的一种面食，与朝天锅、肉火烧并称于当地风味介绍中。",
+      "detail": "“和乐”是地方食品名称，不能按字面理解为菜肴口味。它体现了潍坊城市饮食中面食、汤食与熟食并存的传统。",
+      "sources": [
+        "read-97ab4886804014"
+      ]
+    },
+    {
+      "id": "sd-weifang-rouhuoshao",
+      "province": "shandong",
+      "city": "潍坊",
+      "type": "dishes",
+      "name": "潍坊肉火烧",
+      "kind": "肉馅烤饼",
+      "description": "带肉馅的火烧是潍坊街头常见的面食，饼皮的烤香与肉馅的鲜味相衬。",
+      "detail": "潍坊地方介绍将其与朝天锅、和乐并列为日常代表。火烧与当地其他饼类各有形状、制法，保留“潍坊肉火烧”这一具体名称。",
+      "sources": [
+        "read-97ab4886804014"
+      ]
+    },
+    {
+      "id": "sd-zaozhuang-chicken",
+      "province": "shandong",
+      "city": "枣庄",
+      "type": "dishes",
+      "name": "枣庄辣子鸡",
+      "kind": "香辣炒鸡",
+      "description": "鸡块炒出浓郁香气，是枣庄宴席中的地方菜，薛城等地有鲜明的炒鸡传统。",
+      "detail": "地方报道把它列为枣庄代表菜，既用于家常聚餐，也进入宴席。它和临沂费县的柴火炒鸡相邻而不同，食单保留各自城市归属。",
+      "sources": [
+        "read-97b546b734a11e"
+      ],
+      "locality": "薛城区等地",
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "sd-zaozhuang-jianbing",
+      "province": "shandong",
+      "city": "枣庄",
+      "type": "dishes",
+      "name": "枣庄菜煎饼",
+      "kind": "夹蔬菜煎饼",
+      "description": "煎饼里包入蔬菜等配料，煎出金黄外皮与鲜香内馅，是枣庄的街头主食。",
+      "detail": "它与卷大葱的薄煎饼不同，重点在包馅再煎形成的层次。枣庄地方食物介绍将其与辣子鸡、羊汤等一起列入城市饮食。",
+      "sources": [
+        "read-4755abc9016c18"
+      ]
+    },
+    {
+      "id": "sd-feixian-chicken",
+      "province": "shandong",
+      "city": "临沂",
+      "type": "dishes",
+      "name": "费县炒鸡",
+      "kind": "沂蒙柴火炒鸡",
+      "description": "在传统炉灶上以香辛料炒制鸡块，锅气与鸡肉香相连，是沂蒙地区的一种地方做法。",
+      "detail": "报道记录了费县人沿用老式炉灶制作的场景。费县属临沂市，这一项按市县保留，与济南黄焖鸡、枣庄辣子鸡分别收录。",
+      "sources": [
+        "read-e8dc4a4351afe1"
+      ],
+      "locality": "费县",
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "sd-caoxian-beef",
+      "province": "shandong",
+      "city": "菏泽",
+      "type": "dishes",
+      "name": "曹县烧牛肉",
+      "kind": "地方熟牛肉",
+      "description": "曹县的传统熟牛肉，以肉质紧实、软嫩和独特香味受到当地人喜爱，是鲁西南的一条地方熟食线索。",
+      "detail": "地方报道将曹县烧牛肉列作当地非遗食品。它保留县域名称与熟肉做法，和同属鲁西南的单县羊汤分别呈现牛、羊两种风味。",
+      "sources": [
+        "read-e00919bfdcd1e8"
+      ],
+      "locality": "曹县",
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "id": "sd-shanxian-soup",
+      "province": "shandong",
+      "city": "菏泽",
+      "type": "dishes",
+      "name": "单县羊肉汤",
+      "kind": "地方羊汤",
+      "description": "以羊肉、羊骨风味为主的热汤，单县羊汤是鲁西南很有代表性的地方汤食。",
+      "detail": "地方冬季汤食介绍将其与济南奶汤蒲菜、临沂糁并列。羊汤中各家配料和浓淡会有变化，地域名称比一个笼统“山东羊汤”更能保留地方差异。",
+      "sources": [
+        "read-e23258162d1d69"
+      ],
+      "locality": "单县",
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "sd-linqing-shixiang",
+      "province": "shandong",
+      "city": "聊城",
+      "type": "dishes",
+      "name": "临清什香面",
+      "kind": "多配料拌面",
+      "description": "面条配上十样菜码、八类调味，食客可自行组合，临清运河饮食的丰富由此可见。",
+      "detail": "地方资料强调了菜码与调味分设的吃法。临清是聊城下辖县级市，南北口味在运河交通中交汇，也体现在这一碗可自行搭配的面里。",
+      "sources": [
+        "read-612eb2d231f917"
+      ],
+      "locality": "临清市"
+    },
+    {
+      "id": "sd-qingping-noodles",
+      "province": "shandong",
+      "city": "聊城",
+      "type": "dishes",
+      "name": "清平空心面",
+      "kind": "空心手工面",
+      "description": "高唐清平镇的传统面条，以“空心”形态和制作技艺区别于普通挂面。",
+      "detail": "地方报道记录了清平空心面的传统制作。清平属高唐县，食单按聊城市收录，并把镇域线索留在名称与地点中，方便继续追查当地作坊。",
+      "sources": [
+        "read-9d6d10c2636279"
+      ],
+      "locality": "高唐县清平镇"
+    },
+    {
+      "id": "sd-penglai-xiaomian",
+      "province": "shandong",
+      "city": "烟台",
+      "type": "dishes",
+      "name": "蓬莱小面",
+      "kind": "海鲜打卤细面",
+      "description": "细面配浓鲜卤汁，鱼鲜和鸡蛋等形成风味，是烟台蓬莱的地方早餐面食。",
+      "detail": "“小面”强调其细小面条和地方吃法，不是重庆小面的另一名字。地方介绍记录了海鲜卤、打卤等变化，保留蓬莱这一具体地名。",
+      "sources": [
+        "read-e6e2e030f5b626"
+      ],
+      "locality": "蓬莱区",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "sd-longkou-fensi",
+      "province": "shandong",
+      "city": "烟台",
+      "type": "dishes",
+      "name": "龙口粉丝",
+      "kind": "豆淀粉干制食品",
+      "description": "用豆类淀粉制成细丝，经过成形、晾晒等工序，适合炖汤、凉拌和吸收菜汁。",
+      "detail": "地方资料记录它从招远一带扩展到烟台多地、经龙口港外销的历史线索，因此“龙口”既是名称，也是流通地标，不能理解为只在龙口一地生产。",
+      "sources": [
+        "read-f42090834cd94a"
+      ],
+      "locality": "招远、龙口等地"
+    },
+    {
+      "id": "sd-qingdao-zhizha",
+      "province": "shandong",
+      "city": "青岛",
+      "type": "dishes",
+      "name": "青岛脂渣",
+      "kind": "煎炸猪肉熟食",
+      "description": "把带脂肪的猪肉调味后煎炸、滤油，留下浓缩肉香和有嚼劲的肉块，是青岛地方熟食。",
+      "detail": "它并非普通零食薯片，也不同于只有猪皮的炸猪皮。地方介绍记录了五花肉等原料经调味、炸制、沥油的做法。",
+      "sources": [
+        "read-24216d30e9f99e"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sd-qingdao-clams",
+      "province": "shandong",
+      "city": "青岛",
+      "type": "dishes",
+      "name": "辣炒蛤蜊",
+      "kind": "海鲜快炒",
+      "description": "蛤蜊与辣味调料快炒，鲜汁与辣香融合，是青岛夏季常见的下酒菜，也常与当地鲜啤搭配。",
+      "detail": "当地口语里蛤蜊常被读作“嘎啦”。报道把辣炒蛤蜊与青岛鲜啤并提，既能看到海鲜原料，也能看到港城日常的饮食搭配。",
+      "sources": [
+        "read-5fea470fdf7334"
+      ]
+    },
+    {
+      "id": "sd-rongcheng-dried-fish",
+      "province": "shandong",
+      "city": "威海",
+      "type": "dishes",
+      "name": "荣成咸鱼干",
+      "kind": "胶东风干鱼",
+      "description": "鱼清理、盐渍后挂在海边晾晒，冬季沿海村落的鱼架形成了威海地方食物的一道风景。",
+      "detail": "荣成属威海，报道记录了当地入冬后的晒鱼场景。干制鱼保留海鱼的咸鲜与紧实口感，和现捞鲜鱼的烹调方式分别认识。",
+      "sources": [
+        "read-e2324c9427d82d"
+      ],
+      "locality": "荣成市",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "sd-weihai-huabobo",
+      "province": "shandong",
+      "city": "威海",
+      "type": "dishes",
+      "name": "胶东花饽饽",
+      "kind": "造型蒸面食",
+      "description": "把面团做成动物、人物和花卉形象再蒸熟，胶东花饽饽既是食品，也参与节日与礼俗。",
+      "detail": "威海春节报道记录了当地制作花饽饽的场景。这类面塑在胶东多地都有传统，本项保留威海实例，不把整个胶东传统归为单一城市独有。",
+      "sources": [
+        "read-187055d7e93c4f"
+      ]
+    },
+    {
+      "id": "sd-jinan-youxuan",
+      "province": "shandong",
+      "city": "济南",
+      "type": "dishes",
+      "name": "济南油旋",
+      "kind": "葱香螺旋烤点",
+      "description": "面坯旋成螺纹，烤后外皮金黄酥脆、内里柔软，带明显葱香，是济南传统小吃。",
+      "detail": "名称来自旋涡般的形状；它与普通烧饼的区别不只在大小，还在层次和葱香。地方早餐报道把油旋列为济南日常味道。",
+      "sources": [
+        "read-19c7fdf0ec3da4"
+      ]
+    },
+    {
+      "id": "sd-jinan-huang-roast",
+      "province": "shandong",
+      "city": "济南",
+      "type": "dishes",
+      "name": "黄家烤肉",
+      "kind": "章丘整猪烤肉",
+      "description": "以高温炉烤制猪肉，外皮酥香、内肉柔嫩，是济南章丘秀惠一带的地方熟食。",
+      "detail": "地方报道记录了整猪入炉和调味后高温烘烤的传统技法。名称中的“黄家”保留家族技艺线索，地方归属为今天济南市章丘区。",
+      "sources": [
+        "read-5af57f394e7056"
+      ],
+      "locality": "章丘区秀惠街道",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sd-taiansan",
+      "province": "shandong",
+      "city": "泰安",
+      "type": "dishes",
+      "name": "泰安糁汤",
+      "kind": "麦仁肉汤",
+      "description": "麦仁与鸡、牛或羊等肉汤煮成浓厚汤食，也有把热汤冲入鸡蛋的吃法，是泰安的地方早餐。",
+      "detail": "泰安早餐资料记录了肉汤与碎麦仁的组合。糁汤在山东多地可见，不同城市有不同做法，这里按泰安的具体材料收录。",
+      "sources": [
+        "read-f65e58e675f166"
+      ]
+    },
+    {
+      "id": "sd-taishan-congee",
+      "province": "shandong",
+      "city": "泰安",
+      "type": "dishes",
+      "name": "泰山豆粥",
+      "kind": "小米黄豆粥",
+      "description": "小米和黄豆同煮，谷物香与豆香相融，是泰安早餐中朴素而有地方识别度的一碗粥。",
+      "detail": "地方资料将其称为 Taishan Congee，并明确写到小米与黄豆。它与白米粥、豆汁儿的原料和工序不同，归入地方主食而非乳品或植物奶。",
+      "sources": [
+        "read-f65e58e675f166"
+      ]
+    },
+    {
+      "id": "zj-gangjiang",
+      "province": "zhejiang",
+      "city": "衢州",
+      "type": "seasoning",
+      "name": "衢州缸酱",
+      "kind": "酱香佐餐菜",
+      "description": "五花肉、豆干、茭白或笋切丁，与黄豆酱、辣椒、姜蒜炒合，咸香微辣，适合佐饭。",
+      "detail": "当地还有加入橘皮的做法。缸酱既是一道可佐饭的酱菜，也能拌面、夹馒头；食材丁与酱一起炒出的浓香，使它区别于单纯装瓶的酱油。",
+      "sources": [
+        "read-3dbd4a2b62773d"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "zj-jinhua-ham",
+      "province": "zhejiang",
+      "city": "金华",
+      "type": "dishes",
+      "name": "金华火腿",
+      "kind": "干腌发酵火腿",
+      "description": "以猪后腿腌制、晾晒和发酵，成品有浓郁咸鲜香气，可蒸食，也常给汤羹和蒸菜提味。",
+      "detail": "金华火腿常呈琵琶形，制作经过腌、洗、整形、干燥和发酵等连续工序。火腿既可作菜中主料，也能以少量咸鲜香气衬托笋、菌菇和汤羹。",
+      "sources": [
+        "read-757fda4af046dc"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "zj-longyou-fagao",
+      "province": "zhejiang",
+      "city": "衢州",
+      "type": "dishes",
+      "name": "龙游发糕",
+      "kind": "酒酿发酵米糕",
+      "description": "米粉与糖、米酒等拌合发酵后蒸熟，软甜而有酒香，是龙游节庆与走亲送礼的地方食品。",
+      "detail": "地方做法有加入猪油的版本，成糕表面有光泽、组织蓬松。龙游人春节蒸发糕、分享亲友，也借名称寄托来年兴旺的愿望。",
+      "sources": [
+        "read-c33b737c691778"
+      ],
+      "locality": "龙游县"
+    },
+    {
+      "id": "zj-santou-yizhang",
+      "province": "zhejiang",
+      "city": "衢州",
+      "type": "dishes",
+      "name": "衢州三头一掌",
+      "kind": "香辣卤味组合",
+      "description": "兔头、鸭头、鱼头和鸭掌组成“三头一掌”，香辣浓郁，是认识衢州口味的一组代表食品。",
+      "detail": "浙江许多地方口味清淡，衢州却以辣味见长；这组食品常见于本地餐馆和街头熟食店。“三头”不是三种鸭头，“一掌”则指鸭掌。",
+      "sources": [
+        "read-203d064e7554cb"
+      ],
+      "proteins": [
+        "鸭",
+        "鱼"
+      ]
+    },
+    {
+      "id": "zj-kaihua-fensi",
+      "province": "zhejiang",
+      "city": "衢州",
+      "type": "dishes",
+      "name": "开化番薯粉丝",
+      "kind": "红薯粉面食",
+      "description": "红薯淀粉蒸成透明薄片，再制成有韧劲的粉丝，与辣汤相配，是开化冬天的地方吃法。",
+      "detail": "地方资料记录了红薯淀粉蒸片的步骤及当地人爱吃的辣汤口味。开化属衢州，红薯粉丝与米制的龙游发糕分别呈现了当地不同主粮加工方式。",
+      "sources": [
+        "read-ba0002eafd7193"
+      ],
+      "locality": "开化县"
+    },
+    {
+      "id": "zj-shaoyongfeng",
+      "province": "zhejiang",
+      "city": "衢州",
+      "type": "dishes",
+      "name": "邵永丰麻饼",
+      "kind": "芝麻烘烤点心",
+      "description": "芝麻、核桃、花生仁、橘皮与面粉组合烘烤，坚果香里带橘皮气味，是衢州的地方点心。",
+      "detail": "浙江非遗传统美食展示资料列出了这一食品及配料。这里保留具体老字号名称，和其他城市同叫“麻饼”的产品分开记录。",
+      "sources": [
+        "read-ba0002eafd7193"
+      ],
+      "brand": "邵永丰"
+    },
+    {
+      "id": "zj-taizhou-jiangtangmian",
+      "province": "zhejiang",
+      "city": "台州",
+      "type": "dishes",
+      "name": "台州姜汤面",
+      "kind": "姜香汤面",
+      "description": "晒干姜片煮成汤，加入面条、海鲜或猪肉、蔬菜，姜香在汤底里而不只是碗面上的姜丝。",
+      "detail": "台州山地、沿海人家的配料各有变化：山地常见蛋和猪肉，沿海则用虾、蛤蜊、蟹或小黄鱼。不同版本都围绕姜汤与面条展开。",
+      "sources": [
+        "read-9fce1f6d9db228"
+      ]
+    },
+    {
+      "id": "zj-taizhou-shibingtong",
+      "province": "zhejiang",
+      "city": "台州",
+      "type": "dishes",
+      "name": "台州食饼筒",
+      "kind": "薄皮卷菜",
+      "description": "把卤肉、鸡蛋、虾、豆芽等菜包进薄饼皮，卷成一筒，切开能看到整齐而丰富的馅料。",
+      "detail": "椒江端午、临海年节和天台节庆都有相关吃法；天台也称饺饼筒。薄皮制作与菜料搭配同样重要，各地称呼和节令习惯并不完全相同。",
+      "sources": [
+        "read-4fc20301acf817"
+      ]
+    },
+    {
+      "id": "zj-jinyun-shaobing",
+      "province": "zhejiang",
+      "city": "丽水",
+      "type": "dishes",
+      "name": "缙云烧饼",
+      "kind": "桶炉贴烤饼",
+      "description": "面皮包入肉与梅干菜等馅料，贴在桶炉内壁烤出酥香，是丽水缙云的代表性面点。",
+      "detail": "缙云本地师傅把传统炉烤技艺整理、传授，近年也将店铺开到外省与海外。它的地方性来自缙云技艺与馅料组合，不取决于如今在哪里能买到。",
+      "sources": [
+        "read-3feaa931627354"
+      ],
+      "locality": "缙云县"
+    },
+    {
+      "id": "zj-jinyun-nanxiang",
+      "province": "zhejiang",
+      "city": "丽水",
+      "type": "dishes",
+      "name": "缙云南乡馒头",
+      "kind": "发酵蒸面食",
+      "description": "缙云南部人家过年前制作的馒头，传统做法用米、酵母与酒曲制成发酵水，再与面粉结合。",
+      "detail": "充分发酵后揉制、蒸熟，口感带甜。地方报道记录了春节前家家制作的习惯，也记录这项技艺通过电商走出本地的变化。",
+      "sources": [
+        "read-a256c81328f047"
+      ],
+      "locality": "缙云县南乡"
+    },
+    {
+      "id": "zj-liandu-wrap",
+      "province": "zhejiang",
+      "city": "丽水",
+      "type": "dishes",
+      "name": "丽水莲都薄饼",
+      "kind": "薄皮卷食",
+      "description": "薄饼皮包入新鲜蔬菜、肉条、海鲜或豆腐等配料，是莲都街头与家庭餐桌上的地方吃法。",
+      "detail": "这类薄饼以轻薄皮子容纳多种馅料，具体组合随季节、家庭而变。莲都属于丽水市，本项与台州食饼筒并列收录，保留两个地方的名称。",
+      "sources": [
+        "read-87f0ca274a1ff6"
+      ],
+      "locality": "莲都区"
+    },
+    {
+      "id": "zj-liandu-tofuballs",
+      "province": "zhejiang",
+      "city": "丽水",
+      "type": "dishes",
+      "name": "莲都豆腐丸",
+      "kind": "豆腐肉虾汤丸",
+      "description": "盐卤豆腐与鲜肉、虾拌合成丸，放入骨汤和鲜菇中煮，豆香与汤鲜交织。",
+      "detail": "地方报道记下了手工捏丸及鲜菇汤底的组合。虽然名称叫豆腐丸，它并非当然是素食；有肉、虾的传统版本应在介绍中说清。",
+      "sources": [
+        "read-87f0ca274a1ff6"
+      ],
+      "locality": "莲都区"
+    },
+    {
+      "id": "zj-jingning-fenpi",
+      "province": "zhejiang",
+      "city": "丽水",
+      "type": "dishes",
+      "name": "景宁粉皮",
+      "kind": "地方粉皮汤食",
+      "description": "粉皮煮入汤中，配荷包蛋与青菜，是丽水景宁畲乡常见的早餐形式，一碗里有主食、蛋和蔬菜。",
+      "detail": "景宁畲族自治县属丽水。地方资料以一碗加蛋、加蔬菜的粉皮介绍其日常吃法，体现它作为主食的角色，和凉拌粉皮分别认识。",
+      "sources": [
+        "read-2ac5aaf54225d7"
+      ],
+      "locality": "景宁畲族自治县"
+    },
+    {
+      "id": "zj-yongkang-roumaibing",
+      "province": "zhejiang",
+      "city": "金华",
+      "type": "dishes",
+      "name": "永康肉麦饼",
+      "kind": "梅干菜猪肉馅饼",
+      "description": "面饼包入梅干菜与五花肉，烙出饼香，肉汁和菜干的咸香进入面皮，是永康传统饼食。",
+      "detail": "饼体圆而饱满，地方介绍将它列为永康代表小吃。永康是金华下辖县级市，食单按金华归集，同时保留永康这一具体地名。",
+      "sources": [
+        "read-c43bd84c84dc97"
+      ],
+      "locality": "永康市",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "zj-yongkang-smoked-tofu",
+      "province": "zhejiang",
+      "city": "金华",
+      "type": "dishes",
+      "name": "永康熏豆腐干",
+      "kind": "熏制豆制品",
+      "description": "咸豆腐经烘烤、烟熏后变得紧实，豆香中带木烟气，是永康的地方豆制品。",
+      "detail": "地方介绍记录以松木屑辅助熏烤的传统方式，成品表面光亮、口感紧实。它与鲜豆腐、薄豆腐皮分别加工，也适合分开理解。",
+      "sources": [
+        "read-c43bd84c84dc97"
+      ],
+      "locality": "永康市"
+    },
+    {
+      "id": "zj-jiaxing-shaomai",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "type": "dishes",
+      "name": "嘉兴鲜肉烧卖",
+      "kind": "肉笋馅蒸点",
+      "description": "以鲜肉末与冬笋丁作馅，包入薄皮蒸熟，是嘉兴地方烧卖的一种做法。",
+      "detail": "地方介绍特别区分了鲜肉馅与常见的糯米烧卖。冬笋的脆嫩和肉馅相配，展示了江南蒸点内部也有细致的城市差异。",
+      "sources": [
+        "read-3e60b78536dd70"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "zj-pinghu-zaodan",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "type": "dishes",
+      "name": "平湖糟蛋",
+      "kind": "酒糟加工鸭蛋",
+      "description": "以鸭蛋与米酒糟等加工，形成独特糟香，是嘉兴平湖的地方食品，和普通咸鸭蛋有不同风味。",
+      "detail": "它与普通咸鸭蛋的风味和加工线索不同，重点在蛋与米酒香气的结合。这里的“平湖”是嘉兴下辖市，不把糟蛋笼统归到所有浙江城市。",
+      "sources": [
+        "read-3e60b78536dd70"
+      ],
+      "locality": "平湖市",
+      "proteins": [
+        "鸭"
+      ]
+    },
+    {
+      "id": "zj-pinghu-chigao",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "type": "dishes",
+      "name": "平湖糍糕",
+      "kind": "无馅糯米糕点",
+      "description": "用糯米粉制作、不包馅，却能做出多种味道，是平湖的传统江南糕点。",
+      "detail": "嘉兴地方食品介绍将其列为平湖的传统技艺食品。它和同城糟蛋、肉馅烧卖在原料与口感上差别鲜明，让地方食单不只剩一两道肉菜。",
+      "sources": [
+        "read-3e60b78536dd70"
+      ],
+      "locality": "平湖市"
+    },
+    {
+      "id": "zj-taishun-rice-noodles",
+      "province": "zhejiang",
+      "city": "温州",
+      "type": "dishes",
+      "name": "泰顺大安米面",
+      "kind": "手工日晒米面",
+      "description": "当地大米浸泡、磨浆、蒸制后切条晾晒，成品耐煮爽滑，是温州泰顺的大安地方主食。",
+      "detail": "大安乡大丘坪村仍有许多人家手工制作，晾晒依赖天气。干米面泡软后可配蔬菜、煎蛋快炒，也被在外泰顺人寄作家乡味道。",
+      "sources": [
+        "read-11913d666b4e2b"
+      ],
+      "locality": "泰顺县大安乡"
+    },
+    {
+      "id": "zj-zhoushan-hairtail",
+      "province": "zhejiang",
+      "city": "舟山",
+      "type": "dishes",
+      "name": "舟山带鱼",
+      "kind": "海鱼与地方做法",
+      "description": "舟山代表性海产，常见清蒸、红烧，也有盐渍后风干的做法，鲜鱼与鱼干各有口感。",
+      "detail": "舟山人会清蒸或红烧带鱼，也将带鱼用盐加工后风干。新鲜与干制改变了鱼肉的质地，同一片海的食材由此可以出现在不同季节和不同家常菜里。",
+      "sources": [
+        "read-8f5b888de40ad9"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "zj-zhoushan-swimming-crab",
+      "province": "zhejiang",
+      "city": "舟山",
+      "type": "dishes",
+      "name": "舟山梭子蟹",
+      "kind": "海蟹与地方做法",
+      "description": "清蒸、盐焗、葱油、炒年糕都是舟山常见的梭子蟹做法，鲜甜蟹肉与米面也能相配。",
+      "detail": "沿海捕捞时令与舟山餐桌紧密相连，同一种梭子蟹就有清蒸、盐焗、葱油和炒年糕等多种熟制形式。蟹的鲜汁进入年糕，便从海味又延伸出一份主食。",
+      "sources": [
+        "read-8f5b888de40ad9"
+      ]
+    },
+    {
+      "id": "ah-huyumei",
+      "province": "anhui",
+      "city": "安庆",
+      "type": "seasoning",
+      "name": "胡玉美蚕豆辣酱",
+      "kind": "地方豆酱",
+      "description": "安庆老字号的蚕豆辣酱，以豆类发酵形成的酱香与辣味相连，可佐餐也可入菜。",
+      "detail": "地方食品资料将胡玉美蚕豆辣酱与安庆传统糕点并列。这里明确记录蚕豆酱这一具体产品，补足安徽食单中此前缺少的调味品。",
+      "sources": [
+        "tcg-anhui-anqing"
+      ],
+      "brand": "胡玉美"
+    },
+    {
+      "id": "ah-huangchi-pickles",
+      "province": "anhui",
+      "city": "马鞍山",
+      "type": "seasoning",
+      "name": "黄池酱菜",
+      "kind": "地方酱腌菜",
+      "description": "马鞍山黄池的酱腌蔬菜，咸鲜脆爽，连接当地餐桌与江南酱菜加工传统。",
+      "detail": "黄池酱菜与采石茶干共同出现在马鞍山地方产品介绍中。一项以蔬菜腌酿，一项以大豆加工，两条线索都连接着沿江人家的佐茶、配粥与家常餐桌。",
+      "sources": [
+        "tcg-anhui-maanshan"
+      ],
+      "locality": "黄池镇"
+    },
+    {
+      "id": "ah-caishi-chagan",
+      "province": "anhui",
+      "city": "马鞍山",
+      "type": "dishes",
+      "name": "采石茶干",
+      "kind": "五香豆腐干",
+      "description": "豆腐加工成适合佐茶的小块茶干，紧实有嚼劲，是马鞍山的传统地方食品。",
+      "detail": "“茶干”是配茶的豆制食品，并非用茶叶做的糕点。地方产品介绍将采石茶干列为代表，与同城黄池酱菜共同体现了江边城市的日常佐餐味道。",
+      "sources": [
+        "tcg-anhui-maanshan"
+      ],
+      "locality": "采石"
+    },
+    {
+      "id": "ah-shunan-sugar",
+      "province": "anhui",
+      "city": "铜陵",
+      "type": "dishes",
+      "name": "顺安酥糖",
+      "kind": "酥糖点心",
+      "description": "入口酥松的地方糖点，是铜陵顺安传统食品的一条线索，和姜制品同属当地常见伴手礼。",
+      "detail": "顺安是铜陵的地方镇名，酥糖是当地产品资料列出的传统点心。和铜陵的姜制品并列时，可以看到同一座沿江城市既有辛香佐餐味，也有酥甜的节庆食品。",
+      "sources": [
+        "tcg-anhui-tongling"
+      ],
+      "locality": "顺安镇"
+    },
+    {
+      "id": "ah-mozi-su",
+      "province": "anhui",
+      "city": "安庆",
+      "type": "dishes",
+      "name": "墨子酥",
+      "kind": "芝麻酥点",
+      "description": "安庆传统酥点，细碎酥香，常与胡玉美辣酱、怀宁贡糕一起作为地方食品被介绍。",
+      "detail": "名称保留当地糕点的识别线索，不把它当作墨子本人创制的历史结论。它与柔软的米糕口感不同，可在同城点心中分开认识。",
+      "sources": [
+        "tcg-anhui-anqing"
+      ]
+    },
+    {
+      "id": "ah-huaining-gonggao",
+      "province": "anhui",
+      "city": "安庆",
+      "type": "dishes",
+      "name": "怀宁贡糕",
+      "kind": "地方糕点",
+      "description": "怀宁的传统地方糕点，是安庆地方食品资料明确列出的伴手礼，与当地酥点、豆酱分别收录。",
+      "detail": "怀宁县属安庆。贡糕与同城墨子酥并列，分别保留糕、酥两条点心线索，也展示地方伴手礼并不只是统一包装的“安徽特产”。",
+      "sources": [
+        "tcg-anhui-anqing"
+      ],
+      "locality": "怀宁县"
+    },
+    {
+      "id": "ah-langya-sutang",
+      "province": "anhui",
+      "city": "滁州",
+      "type": "dishes",
+      "name": "琅琊酥糖",
+      "kind": "地方糖点",
+      "description": "滁州地方产品中的传统酥糖，酥香甜润，和当地菊花、雪片糕等一起组成地方伴手礼线索。",
+      "detail": "地方指南明确列出 Langya crisp candy，即琅琊酥糖。名称来自滁州琅琊这一地方标识，食单与铜陵顺安酥糖分别记录。",
+      "sources": [
+        "tcg-anhui-chuzhou"
+      ]
+    },
+    {
+      "id": "ah-huainan-tofu",
+      "province": "anhui",
+      "city": "淮南",
+      "type": "dishes",
+      "name": "八公山豆腐",
+      "kind": "地方豆腐与豆腐宴",
+      "description": "淮南八公山豆腐细嫩，既可作为家常食材，也能用多种做法组成豆腐宴。",
+      "detail": "淮南地方资料把八公山豆腐与当地豆腐宴联系起来。豆腐发明与淮南王的故事常被传说化，这里保留地方饮食联系，不把传说当作精确考古结论。",
+      "sources": [
+        "tcg-anhui-huainan"
+      ],
+      "locality": "八公山"
+    },
+    {
+      "id": "ah-shouxian-dajiujia",
+      "province": "anhui",
+      "city": "淮南",
+      "type": "dishes",
+      "name": "寿县大救驾",
+      "kind": "酥皮点心",
+      "description": "寿县的传统酥点，名称“大救驾”很有辨识度，地方指南把它列为代表性糕点，与茶饮相配。",
+      "detail": "大救驾与寿县地方文化相连，适合在传统酥点中单独认识。寿县现属淮南市，旧版指南仍将它列在六安地方产品中，归集时采用现行行政区划。",
+      "sources": [
+        "tcg-anhui-lu'an"
+      ],
+      "locality": "寿县"
+    },
+    {
+      "id": "ah-hefei-roastduck",
+      "province": "anhui",
+      "city": "合肥",
+      "type": "dishes",
+      "name": "庐州烤鸭",
+      "kind": "地方烤鸭",
+      "description": "烤出金黄鸭皮与柔嫩鸭肉，是合肥庐州菜的代表，与北京烤鸭分别保留地方名称。",
+      "detail": "合肥地方饮食资料将庐州烤鸭列入四道代表菜。食单介绍其烤制香气与城市归属，不照搬源于宫廷的单线起源故事。",
+      "sources": [
+        "read-47da33ecad4a48"
+      ],
+      "proteins": [
+        "鸭"
+      ]
+    },
+    {
+      "id": "ah-hefei-hodgepodge",
+      "province": "anhui",
+      "city": "合肥",
+      "type": "dishes",
+      "name": "李鸿章大杂烩",
+      "kind": "多料合烩菜",
+      "description": "鸡肉、火腿、海味、蔬菜等多种材料以鸡汤合烩，是合肥地方菜中一道名字鲜明的杂烩。",
+      "detail": "流传的名称故事将它与李鸿章宴客联系起来；那属于地方菜肴传说。能够明确的是多种原料合烩、用汤融合滋味的做法。",
+      "sources": [
+        "read-47da33ecad4a48"
+      ],
+      "proteins": [
+        "鸡",
+        "猪"
+      ]
+    },
+    {
+      "id": "ah-hefei-caocao-chicken",
+      "province": "anhui",
+      "city": "合肥",
+      "type": "dishes",
+      "name": "曹操鸡",
+      "kind": "香料炖鸡",
+      "description": "也称逍遥鸡，以鸡与香料等炖制，是合肥地方菜介绍中反复出现的具体菜名。",
+      "detail": "菜名常附会曹操喜爱的故事，资料把它作为传说记录。这里不将名称故事写成可靠断代，也不添加“药材炖制可治病”等功效结论。",
+      "sources": [
+        "read-47da33ecad4a48"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "ah-maodoufu",
+      "province": "anhui",
+      "city": "黄山",
+      "type": "dishes",
+      "name": "徽州毛豆腐",
+      "kind": "发酵豆腐菜",
+      "description": "豆腐经发酵在表面形成细毛，再煎、烧或烤，形成外香内软的口感，是徽州地方食物。",
+      "detail": "毛豆腐常见于屯溪、休宁等地。虎皮毛豆腐的名称来自煎烧后的表面纹理，配辣酱等调味；它与臭鳜鱼分别体现徽州的豆类、鱼类发酵风味。",
+      "sources": [
+        "read-9b4b3f02348287",
+        "wiki-徽菜"
+      ]
+    },
+    {
+      "id": "ah-wenzheng-bamboo",
+      "province": "anhui",
+      "city": "黄山",
+      "type": "dishes",
+      "name": "问政山笋",
+      "kind": "徽州春笋菜",
+      "description": "以歙县问政山一带的春笋烹制，突出笋的清香、脆嫩与鲜味，是徽菜中的山地素味。",
+      "detail": "资料记录以笋煮制并加麻油等调味。徽州处在山地，竹笋、菌菇等食材让徽菜不只有红烧肉菜，这道菜保留具体山名。",
+      "sources": [
+        "wiki-徽菜"
+      ],
+      "locality": "歙县问政山"
+    },
+    {
+      "id": "ah-xianggu-banli",
+      "province": "anhui",
+      "city": "黄山",
+      "type": "dishes",
+      "name": "香菇板栗",
+      "kind": "徽州山珍合烧",
+      "description": "以山地香菇与板栗烹制，菌菇的鲜香与板栗的酥糯相配，是徽菜中的一条山地食材线索。",
+      "detail": "徽菜资料将香菇板栗列为具体菜肴，强调两种食材的颜色、质地与鲜味。食单单列这一菜名，让不吃肉的读者也能找到以植物食材为主的地方菜。",
+      "sources": [
+        "wiki-徽菜"
+      ]
+    },
+    {
+      "id": "ah-jiuhua-maofeng",
+      "province": "anhui",
+      "city": "池州",
+      "type": "tea",
+      "name": "九华毛峰",
+      "kind": "地方绿茶",
+      "description": "池州九华山一带的毛峰茶，与当地山地环境相连，是认识池州地方茶的一条线索。",
+      "detail": "池州地方产品介绍明确列出九华山毛峰。毛峰是一类茶叶外形与制作名称，不应因为同叫毛峰，就与黄山毛峰合并为一个产地。",
+      "sources": [
+        "tcg-anhui-chizhou"
+      ],
+      "locality": "九华山"
+    },
+    {
+      "id": "ah-fuyang-gelatiao",
+      "province": "anhui",
+      "city": "阜阳",
+      "type": "dishes",
+      "name": "阜阳格拉条",
+      "kind": "凉拌面食",
+      "description": "把面条拌着吃，夏季常配荆芥等当地人喜爱的辛香食材，是阜阳的日常面食。",
+      "detail": "中新网的阜阳荆芥文化报道记录了格拉条与荆芥的组合。荆芥的特殊香气也延伸到凉菜、茶饮中，地方食材并不只停留在一道传统菜里。",
+      "sources": [
+        "read-bd1a47d1567ad5"
+      ]
+    },
+    {
+      "id": "ah-fuyang-jingjie-tea",
+      "province": "anhui",
+      "city": "阜阳",
+      "type": "drinks",
+      "name": "阜阳荆芥柠檬茶",
+      "kind": "地方食材创意饮品",
+      "description": "荆芥的辛香与柠檬酸香结合，是阜阳把本地常见食材做成新饮品的一种尝试。",
+      "detail": "阜阳荆芥文化节报道介绍了这一组合：荆芥过多会冲、过少又寡淡，调整配比后柠檬更能衬出香气。它是地方创意饮品，不被写成历史悠久的古方。",
+      "sources": [
+        "read-bd1a47d1567ad5"
+      ]
+    },
+    {
+      "id": "ah-linhuan-tea",
+      "province": "anhui",
+      "city": "淮北",
+      "type": "tea",
+      "name": "临涣棒棒茶",
+      "kind": "茶梗泡饮习俗",
+      "description": "以六安、祁门等地的茶梗泡饮，临涣茶馆的老茶客围坐聊天，茶梗被称作“棒棒”。",
+      "detail": "临涣镇本身并不产茶，南来北往的商旅把饮茶习惯带到这里。茶馆既是喝茶歇脚的场所，也参与乡邻调解，“地方茶文化”与“茶叶产区”在此应分别记录。",
+      "sources": [
+        "read-fde8a15fc63adc"
+      ],
+      "locality": "濉溪县临涣镇"
+    },
+    {
+      "id": "sx-gaoping-tofu",
+      "province": "shanxi",
+      "city": "晋城",
+      "type": "dishes",
+      "name": "高平烧豆腐",
+      "kind": "地方豆腐菜",
+      "description": "晋城高平的地方豆腐食品，庙会和街市里都能见到，与里圪抓、川汤一同构成当地小吃线索。",
+      "detail": "高平炎帝庙会的报道记录了烧豆腐、里圪抓和川汤在当地街市上的制作与销售。逛庙会、看上党梆子、吃一口热食，共同构成了晋东南地方生活的场景。",
+      "sources": [
+        "read-3b8fd173631f27"
+      ],
+      "locality": "高平市"
+    },
+    {
+      "id": "js-dazhugansi",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "大煮干丝",
+      "kind": "鸡汤煮豆腐干丝",
+      "description": "豆腐干切成细丝，配鸡丝、火腿丝等，用鸡汤煮出鲜味，是淮扬刀工与汤功结合的一道菜。",
+      "detail": "干丝切得均匀，才能在煮制时吸收汤味又保留口感。它与只用热水烫熟、拌调味汁的烫干丝有不同工序，不应混成同一张菜卡。",
+      "sources": [
+        "read-fd76d3d66087fd"
+      ],
+      "proteins": [
+        "鸡",
+        "猪"
+      ]
+    },
+    {
+      "id": "js-yangzhou-friedrice",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "扬州炒饭",
+      "kind": "多料炒饭",
+      "description": "米饭与鸡蛋、虾仁、火腿等翻炒，讲究米粒松散而各类配料细碎均匀，是扬州的代表饭食。",
+      "detail": "扬州炒饭将米饭、鸡蛋与细切配料一起翻炒，强调米粒松散又能彼此融合。不同餐馆会调整虾仁、火腿等配料，但饭与菜合为一盘的主食形式一直很鲜明。",
+      "sources": [
+        "read-fd76d3d66087fd"
+      ]
+    },
+    {
+      "id": "js-pingqiao-tofu",
+      "province": "jiangsu",
+      "city": "淮安",
+      "type": "dishes",
+      "name": "平桥豆腐羹",
+      "kind": "细切豆腐汤羹",
+      "description": "嫩豆腐切薄片，与香菇、笋、火腿和肉丝等煮成羹，口味咸鲜，名称来自淮安平桥。",
+      "detail": "豆腐薄片与配料大小需要协调，成羹才能细腻均匀。它的地方归属在淮安，和扬州文思豆腐同用豆腐、同重刀工，却有各自的名称与做法。",
+      "sources": [
+        "read-fd76d3d66087fd"
+      ],
+      "locality": "平桥",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "js-wensi-tofu",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "文思豆腐",
+      "kind": "细丝豆腐羹",
+      "description": "把嫩豆腐切成极细的丝，再以汤羹呈现，是淮扬菜里以刀工著称的豆腐菜。",
+      "detail": "细切需要让豆腐保持完整而匀细，入口仍然柔软。豆腐丝在汤中舒展的形态，是这道菜比浓烈调味更突出的识别点。",
+      "sources": [
+        "read-fd76d3d66087fd"
+      ]
+    },
+    {
+      "id": "js-ruandou-eel",
+      "province": "jiangsu",
+      "city": "淮安",
+      "type": "dishes",
+      "name": "软兜长鱼",
+      "kind": "淮扬鳝鱼菜",
+      "description": "这里的“长鱼”指黄鳝，软嫩的鳝肉配调味汁，是淮安水乡饮食的代表菜。",
+      "detail": "淮安位于运河与湖荡相连的地区，软兜长鱼与蒲菜都是当地人常提的水中风味。淮扬菜名录和淮安地方采访均记录了这一具体菜名。",
+      "sources": [
+        "read-fd76d3d66087fd",
+        "read-7f968d199b12ff"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "js-sanhesimei",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "seasoning",
+      "name": "三和四美酱菜",
+      "kind": "地方酱腌菜品牌",
+      "description": "扬州老字号酱菜，连接江南酱园的加工传统与本地人配粥、佐餐的日常习惯。",
+      "detail": "中新网走访三和四美酱品店，记录了扬州老字号的经营与手工包扎商品。酱菜具体单品可再细分；本项先保留品牌、城市和酱菜品类的对应。",
+      "sources": [
+        "read-51f26619d87698"
+      ],
+      "brand": "三和四美"
+    },
+    {
+      "id": "js-changzhou-damagao",
+      "province": "jiangsu",
+      "city": "常州",
+      "type": "dishes",
+      "name": "常州大麻糕",
+      "kind": "层酥烤点",
+      "description": "炭火烤制出层层酥皮，咸甜香气相叠，是常州老城饮食里有代表性的饼点。",
+      "detail": "常州地方饮食介绍将大麻糕与银丝面、天目湖鱼头、萝卜干并列。炭火烤出的层酥与咸甜风味，使一块面点也能成为认识城市的入口。",
+      "sources": [
+        "read-0a1069d8538b30"
+      ]
+    },
+    {
+      "id": "js-changzhou-yinsimian",
+      "province": "jiangsu",
+      "city": "常州",
+      "type": "dishes",
+      "name": "常州银丝面",
+      "kind": "细面与鲜汤",
+      "description": "面条细如银丝，配鲜汤和虾仁、鳝糊等浇头，是常州清晨面食的一种地方味道。",
+      "detail": "地方报道把它放在常州老街与传统店铺的生活场景中。细面本身、汤头与浇头共同构成口感，和宽面、炒面分别认识。",
+      "sources": [
+        "read-0a1069d8538b30"
+      ]
+    },
+    {
+      "id": "js-tianmuhu-fishhead",
+      "province": "jiangsu",
+      "city": "常州",
+      "type": "dishes",
+      "name": "天目湖砂锅鱼头",
+      "kind": "砂锅鱼汤",
+      "description": "以砂锅炖出鱼头鲜味，是常州溧阳天目湖一带的地方菜，汤与鱼肉共同构成主角。",
+      "detail": "天目湖位于常州下辖的溧阳市，当地饮食介绍把砂锅鱼头列作代表味道。湖区鱼产与砂锅炖汤相结合，汤和鱼头共同构成这道菜的主要口感。",
+      "sources": [
+        "read-0a1069d8538b30"
+      ],
+      "locality": "溧阳市天目湖",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "js-changzhou-radish",
+      "province": "jiangsu",
+      "city": "常州",
+      "type": "seasoning",
+      "name": "常州萝卜干",
+      "kind": "地方腌晒蔬菜",
+      "description": "萝卜加工成脆香的萝卜干，可佐餐也能炒饭，是常州有辨识度的地方腌菜。",
+      "detail": "当地文旅报道记录了萝卜干和炒饭套餐的结合。这类佐餐菜既能单独吃，也可变成菜肴配料，补在调味品与酱腌菜一类中。",
+      "sources": [
+        "read-0a1069d8538b30"
+      ]
+    },
+    {
+      "id": "js-jingjiang-roufu",
+      "province": "jiangsu",
+      "city": "泰州",
+      "type": "dishes",
+      "name": "靖江猪肉脯",
+      "kind": "烘制肉类零食",
+      "description": "猪肉加工成薄片，调味后烘烤或干制，咸甜肉香集中，是靖江有地方识别度的熟食。",
+      "detail": "靖江市属泰州。有关源头工厂食品的报道明确记录了来自江苏靖江的猪肉脯生产者，因此城市归集采用泰州，并保留靖江这一具体地名。",
+      "sources": [
+        "read-02ea6bf73a6929"
+      ],
+      "locality": "靖江市",
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "js-dongtai-fishnoodles",
+      "province": "jiangsu",
+      "city": "盐城",
+      "type": "dishes",
+      "name": "东台鱼汤面",
+      "kind": "鱼汤面食",
+      "description": "以鱼鲜汤底与面条相配，是盐城东台的地方早餐面食，名称同时点出了产地与汤味。",
+      "detail": "中新网的乡村餐饮采访专门提到东台鱼汤面，并强调保留东台原有风味。东台是盐城下辖县级市，即使在外地开店，也不据分店位置改写原乡。",
+      "sources": [
+        "read-b9fd0d2c452473"
+      ],
+      "locality": "东台市",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "js-xiting-cuibing",
+      "province": "jiangsu",
+      "city": "南通",
+      "type": "dishes",
+      "name": "西亭脆饼",
+      "kind": "层酥烘烤点心",
+      "description": "南通西亭的传统脆饼，以酥脆的层次为识别点，是当地老字号食品与传统技艺的一条线索。",
+      "detail": "西亭位于南通市通州区。中新网以图集记录了脆饼制作的工序，并将它作为江苏省级非遗介绍；老字号点心的层酥口感背后，是一连串手工加工的积累。",
+      "sources": [
+        "read-c65f6a7b2bb7d7"
+      ],
+      "locality": "通州区西亭镇"
+    },
+    {
+      "id": "js-guanyun-doudan",
+      "province": "jiangsu",
+      "city": "连云港",
+      "type": "dishes",
+      "name": "灌云豆丹",
+      "kind": "地方昆虫食材菜",
+      "description": "以豆天蛾幼虫“豆丹”加工成菜，是连云港灌云的特殊地方食物，外观与口感都很有辨识度。",
+      "detail": "豆丹是豆天蛾幼虫，灌云的报道记录了它从田间虫害变成地方食品及养殖产业的过程。它属于有鲜明地方习惯的昆虫食材，名称与真实原料一起说明更容易理解。",
+      "sources": [
+        "read-52ed9872eed939"
+      ],
+      "locality": "灌云县"
+    },
+    {
+      "id": "js-suqian-chelunbing",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "type": "dishes",
+      "name": "宿迁车轮饼",
+      "kind": "猪油糖馅炸点",
+      "description": "圆饼形似小车轮，以冰糖和猪油等作馅，炸后外皮香酥，是宿迁节庆与走亲时常见的点心。",
+      "detail": "当地报道记录了离乡返城前家人打包车轮饼的习惯。它与台湾同名的模具烤制夹馅点心做法不同，食单保留宿迁版本的馅料与油炸线索。",
+      "sources": [
+        "read-18174e0d6ad406"
+      ]
+    },
+    {
+      "id": "js-xuzhou-lambfish",
+      "province": "jiangsu",
+      "city": "徐州",
+      "type": "dishes",
+      "name": "羊方藏鱼",
+      "kind": "羊肉与鱼合炖",
+      "description": "把鱼与羊肉组合炖制，让两种鲜味交融，是徐州传统菜中一道名称和造型都鲜明的菜。",
+      "detail": "地方饮食介绍记录了鱼置入羊肉、合炖调味的做法，也附有彭祖传说。食单区分可核对的菜肴结构与传说，不把“第一道菜”等说法当作断代结论。",
+      "sources": [
+        "read-9f17e4d9b601f4"
+      ],
+      "proteins": [
+        "羊",
+        "鱼"
+      ]
+    },
+    {
+      "id": "js-xuzhou-huizengrou",
+      "province": "jiangsu",
+      "city": "徐州",
+      "type": "dishes",
+      "name": "东坡回赠肉",
+      "kind": "徐州炖肉",
+      "description": "以五花肉切块慢炖，成菜肉香浓厚，是徐州地方饮食中与苏轼故事相连的一道肉菜。",
+      "detail": "流传的名称故事讲苏轼在徐州抗洪后，将百姓送来的肉烹好再回赠。这里把它作为地方饮食故事讲述，与杭州的东坡肉分别保留城市和菜名。",
+      "sources": [
+        "read-9f17e4d9b601f4"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sh-hushangayi",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "milktea",
+      "name": "沪上阿姨",
+      "kind": "现制奶茶与果茶",
+      "description": "从上海发展起来的茶饮品牌，以奶茶、五谷茶饮等进入城市日常消费，后来把门店扩展到其他城市。",
+      "detail": "品牌发展报道明确记载“创始于上海”，并介绍其向二三线城市拓展的路径。这里按品牌起步城市收录，不按创始人籍贯或分店所在城市改写归属。",
+      "sources": [
+        "read-df5bec54d1e64b"
+      ],
+      "brand": "沪上阿姨",
+      "originNote": "品牌创立地：上海。"
+    },
+    {
+      "id": "bj-wuyutai-milktea",
+      "province": "beijing",
+      "city": "北京",
+      "type": "milktea",
+      "name": "吴裕泰现制茶饮",
+      "kind": "茶庄品牌奶茶",
+      "description": "北京老茶庄把茉莉花茶等制茶经验延伸到奶茶、茶冰淇淋等新品，让茶庄也成为现制茶饮的一条地方线索。",
+      "detail": "2026 年中新网的老字号报道记录了吴裕泰推出奶茶。它与品牌原有的干茶销售分别收录：前者是现制饮品，后者是茶叶零售，不因为同一品牌而混淆食品类别。",
+      "sources": [
+        "read-a8f0fa5a441586"
+      ],
+      "brand": "吴裕泰",
+      "originNote": "北京茶庄品牌；不表示茶叶原料产于北京。"
+    },
+    {
+      "id": "ah-mingguang-nailvbo",
+      "province": "anhui",
+      "city": "滁州",
+      "type": "milktea",
+      "name": "明光奶绿波",
+      "kind": "地方特色茶饮",
+      "description": "明光把本地绿豆食品线索做成“奶绿波奶茶”，与绿豆糕等一起形成当地新出现的特色饮品组合。",
+      "detail": "2026 年地方食品报道把奶绿波奶茶、旺绿波绿豆糕列为明光的新创意食品组合。熟悉的地方物产进入杯装饮品与糕点，也让小城餐桌出现新的表达方式。",
+      "sources": [
+        "read-bd1a47d1567ad5"
+      ],
+      "locality": "明光市"
+    },
+    {
+      "id": "bj-yanqing-huoshao",
+      "province": "beijing",
+      "city": "北京",
+      "type": "dishes",
+      "name": "延庆火勺",
+      "kind": "地方烤饼",
+      "description": "延庆的传统火勺，是当地节庆与日常餐桌上的面食，也出现在北京非遗美食展示活动中。",
+      "detail": "2024 年延庆非遗大观园把火勺与永宁豆腐、贺氏酱猪脸一同列为地方食品。火勺可以搭配其他熟食，体现京郊日常主食的不同于城区点心的一面。",
+      "sources": [
+        "read-2da8d0ef62eb97"
+      ],
+      "district": "延庆区",
+      "locality": "延庆"
+    },
+    {
+      "id": "bj-yongning-tofu",
+      "province": "beijing",
+      "city": "北京",
+      "type": "dishes",
+      "name": "永宁豆腐",
+      "kind": "京郊地方豆腐",
+      "description": "延庆永宁的传统豆腐，以具体古镇名称保留地方识别度，是京郊日常豆制食品的一条线索。",
+      "detail": "北京非遗大观园在延庆的活动资料明确列出永宁豆腐。它与同区火勺、地方酱肉共同组成京郊餐桌，而不是用一项“北京小吃”概括整个城市。",
+      "sources": [
+        "read-2da8d0ef62eb97"
+      ],
+      "district": "延庆区",
+      "locality": "永宁镇"
+    },
+    {
+      "id": "bj-huairou-trout",
+      "province": "beijing",
+      "city": "北京",
+      "type": "dishes",
+      "name": "怀柔虹鳟鱼",
+      "kind": "京郊地方鱼产",
+      "description": "虹鳟鱼与板栗、山核桃等一同被当地列为怀柔特色物产，是京北山村饮食的一条线索。",
+      "detail": "怀柔渤海镇北沟村的报道记录了以虹鳟鱼酱搭配咖啡蛋的创意吃法，展示地方鱼产也会进入新菜。传统与新做法都应明确名称与食材，保留怀柔这一具体归属。",
+      "sources": [
+        "read-b51392f18c5a32",
+        "read-1e3ddca42355af"
+      ],
+      "district": "怀柔区",
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "bj-beigou-chestnut-coffee",
+      "province": "beijing",
+      "city": "北京",
+      "type": "drinks",
+      "name": "北沟板栗咖啡",
+      "kind": "地方食材咖啡",
+      "description": "怀柔北沟村把板栗风味与咖啡结合，长城脚下的乡村咖啡馆由此有了具体的地方食材线索。",
+      "detail": "中新社对北沟村的走访记录了中外游客喝板栗咖啡的场景。它是本地食材与现代咖啡消费结合的饮品，与北冰洋汽水、豆汁儿分别呈现北京饮料的不同面貌。",
+      "sources": [
+        "read-1e3ddca42355af"
+      ],
+      "district": "怀柔区",
+      "locality": "渤海镇北沟村"
+    },
+    {
+      "id": "sh-zhuanqiao-tongzhenggao",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "dishes",
+      "name": "颛桥桶蒸糕",
+      "kind": "木桶蒸米糕",
+      "description": "把米粉等原料放入杉木蒸糕桶蒸制，木桶与蒸汽形成特别的制作场景，是闵行颛桥的传统糕点。",
+      "detail": "颛桥桶蒸糕制作技艺在 2015 年列入上海市级非遗名录。中新网走访传承人沈静的作坊，记录了多只杉木蒸桶以及由外婆传下来的老蒸桶。",
+      "sources": [
+        "read-78f01aa7152260"
+      ],
+      "district": "闵行区",
+      "locality": "颛桥"
+    },
+    {
+      "id": "sh-chongming-gao",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "dishes",
+      "name": "崇明糕",
+      "kind": "地方米糕",
+      "description": "崇明的传统米糕，与岛上的稻作生活相连，节日与待客时也能见到这一地方糕点。",
+      "detail": "沪港学生交流报道记录了在崇明大米文化馆了解稻作与加工、再手工制作崇明糕的活动。地方糕点背后的谷物与农耕线索因此可以一同理解。",
+      "sources": [
+        "read-06707245ba3af2"
+      ],
+      "district": "崇明区"
+    },
+    {
+      "id": "ah-wuhu-xiazimian",
+      "province": "anhui",
+      "city": "芜湖",
+      "type": "dishes",
+      "name": "芜湖虾籽面",
+      "kind": "虾籽鲜汤面",
+      "description": "以虾籽的鲜味配细面，是芜湖老字号早餐的代表，入选 2022 中国地标美食早茶早餐类名录。",
+      "detail": "芜湖耿福兴把虾籽面、小笼汤包、酥烧饼称作传承的非遗小吃“三大件”。一碗面背后也能看到地方老店、手艺传授与日常早餐的联系。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "brand": "耿福兴等"
+    },
+    {
+      "id": "ah-wuhu-tangbao",
+      "province": "anhui",
+      "city": "芜湖",
+      "type": "dishes",
+      "name": "芜湖小笼汤包",
+      "kind": "地方汤包",
+      "description": "薄皮包入肉馅，蒸熟后带汤汁，是芜湖老字号早餐“三大件”之一，与虾籽面、酥烧饼常被并提。",
+      "detail": "中新网对芜湖餐饮经营者的采访，明确记录了这三种传承小吃。汤包的皮、馅与汤相互配合，和干香酥脆的烧饼是不同的早餐选择。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "ah-wuhu-sushaobing",
+      "province": "anhui",
+      "city": "芜湖",
+      "type": "dishes",
+      "name": "芜湖酥烧饼",
+      "kind": "酥香烤饼",
+      "description": "以烘烤后的酥香为特点，是芜湖传统老店保留的早餐小吃，与汤面、汤包形成不同口感。",
+      "detail": "芜湖耿福兴经营者的公开采访把酥烧饼列入非遗小吃“三大件”。这里保留城市与具体食品名称，避免把安徽各地烧饼混成同一种做法。",
+      "sources": [
+        "read-d2482f41b48162"
+      ]
+    },
+    {
+      "id": "sd-shili-yinxing",
+      "province": "shandong",
+      "city": "济宁",
+      "type": "dishes",
+      "name": "诗礼银杏",
+      "kind": "孔府风味甜菜",
+      "description": "以银杏仁作主料的孔府甜菜，名称与曲阜的诗礼文化相连，是济宁地方宴席与节庆食品的一条线索。",
+      "detail": "曲阜孔子博物馆的黄河大集报道，记录游客品尝诗礼银杏的场景。它把孔府菜从正式宴席带进日常文化活动，也让地方甜味有了具体的名称。",
+      "sources": [
+        "read-edf71041b74df9"
+      ],
+      "locality": "曲阜市"
+    },
+    {
+      "id": "sd-binzhou-guozibing",
+      "province": "shandong",
+      "city": "滨州",
+      "type": "dishes",
+      "name": "滨州锅子饼",
+      "kind": "地方煎制卷饼",
+      "description": "薄饼裹入馅料再煎烙，饼皮与内馅一同入口，是滨州传统面食中名称鲜明的一种。",
+      "detail": "地方人物记述把滨州锅子饼与利津水煎包、蒲台面并提，保留了黄河沿岸不同城镇的名食线索。饼、包与面在一段乡味记忆中相遇，也体现出沿黄餐桌上面食的丰富。",
+      "sources": [
+        "read-0ff5cc1e7d3c9a"
+      ]
+    },
+    {
+      "id": "bj-chaogan",
+      "province": "beijing",
+      "city": "北京",
+      "type": "dishes",
+      "name": "北京炒肝",
+      "kind": "肠肝蒜香羹食",
+      "description": "猪肠、猪肝与蒜香汤汁相合，勾出浓稠口感，是北京传统早餐之一，也常与包子搭配。",
+      "detail": "虽然叫“炒肝”，成品更接近带浓汁的羹食。北京炒肝入选 2022 中国地标早餐名录，保留城市名称与具体食材，比一项笼统“老北京早餐”更清楚。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sh-shengjian",
+      "province": "shanghai",
+      "city": "上海",
+      "type": "dishes",
+      "name": "上海生煎包",
+      "kind": "煎蒸结合的包点",
+      "description": "面皮包入肉馅，底部煎出脆香，上部柔软，馅内有汤汁，是上海具有代表性的街头点心。",
+      "detail": "上海生煎包入选 2022 中国地标早餐名录。煎底与蒸熟上皮带来不同口感，各家发面程度、汤汁和收口朝向也会有差异。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "js-nanjing-duckblood",
+      "province": "jiangsu",
+      "city": "南京",
+      "type": "dishes",
+      "name": "南京鸭血粉丝汤",
+      "kind": "鸭味汤食",
+      "description": "鸭血与粉丝煮入鲜汤，常与鸭杂等配料相伴，是南京鸭味饮食中不同于盐水鸭的一碗汤。",
+      "detail": "南京鸭血粉丝汤入选 2022 中国地标早餐名录。它以汤与粉丝作为主食形式，体现同一座城市对鸭的不同部位和不同口感的利用。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "鸭"
+      ]
+    },
+    {
+      "id": "js-suzhou-sanxia",
+      "province": "jiangsu",
+      "city": "苏州",
+      "type": "dishes",
+      "name": "苏州三虾面",
+      "kind": "虾仁虾籽虾脑面",
+      "description": "虾仁、虾籽与虾脑合称“三虾”，配面形成浓鲜风味，是苏州季节性虾味面的一条代表线索。",
+      "detail": "苏州三虾面入选 2022 中国地标早餐名录。这里“三”指同类食材的不同部分，并非三种虾混炒；地方面食也常随水产时令而变化。",
+      "sources": [
+        "read-d2482f41b48162"
+      ]
+    },
+    {
+      "id": "js-yangzhou-sanding",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "扬州三丁包",
+      "kind": "三丁馅蒸包",
+      "description": "以鸡丁、肉丁、笋丁等组成馅料，包入发面蒸熟，是扬州茶社早茶中的代表性包点。",
+      "detail": "三丁包入选 2022 中国地标早餐名录。鸡肉、猪肉与笋的不同口感融在馅里，和大煮干丝、烫干丝等共同呈现扬州早茶的细致分工。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "鸡",
+        "猪"
+      ]
+    },
+    {
+      "id": "js-yangzhou-wuding",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "扬州盐商五丁包",
+      "kind": "多料馅蒸包",
+      "description": "以多种丁状馅料组合成包点，强调配料的丰富与协调，是扬州盐商饮食文化的一条食品线索。",
+      "detail": "盐商五丁包与三丁包、烫干丝一起入选 2022 中国地标早餐名录。它保留“五丁”这一独立名称，各店具体选料与配比仍可能不同。",
+      "sources": [
+        "read-d2482f41b48162"
+      ]
+    },
+    {
+      "id": "js-yangzhou-tanggansi",
+      "province": "jiangsu",
+      "city": "扬州",
+      "type": "dishes",
+      "name": "扬州烫干丝",
+      "kind": "烫制豆腐干丝",
+      "description": "豆腐干细切成丝，用热水烫软、去豆腥，再拌调味，口感清爽，是扬州早茶的常见一碟。",
+      "detail": "它与大煮干丝的区别在于“烫”与“煮”：前者以烫制、拌味呈现干丝，后者以鸡汤等煮入鲜味。烫干丝也入选 2022 中国地标早餐名录。",
+      "sources": [
+        "read-d2482f41b48162"
+      ]
+    },
+    {
+      "id": "zj-hangzhou-xiaolong",
+      "province": "zhejiang",
+      "city": "杭州",
+      "type": "dishes",
+      "name": "杭州小笼包",
+      "kind": "地方小笼蒸包",
+      "description": "小个包子入小笼蒸熟，以面皮、肉馅和热腾腾的蒸香组成早餐，是杭州常见的街头主食。",
+      "detail": "杭州小笼包入选 2022 中国地标早餐名录。各地小笼包的皮与馅并不完全相同，收录时保留杭州名称，与芜湖汤包、上海生煎分开。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "sd-jinan-bazirou",
+      "province": "shandong",
+      "city": "济南",
+      "type": "dishes",
+      "name": "济南把子肉",
+      "kind": "酱香炖肉与米饭",
+      "description": "带皮猪肉以酱汁慢炖，肉与浓香卤汁配米饭，是济南有辨识度的一顿主食组合。",
+      "detail": "“老济南把子肉”入选 2022 中国地标早餐名录。食物在一天中的吃法会随店铺而异，但炖肉、卤汁与米饭的搭配是认识这一地方食品的重要线索。",
+      "sources": [
+        "read-d2482f41b48162"
+      ],
+      "proteins": [
+        "猪"
       ]
     }
   ]

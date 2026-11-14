@@ -6,266 +6,413 @@
       "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E8%8F%9C",
       "title": "京菜",
       "read": true,
-      "evidenceSha256": "1bc2c8fdac2a3ecc84125d185299051a9ff27f252c27d70e31091b53e0fc9377"
+      "evidenceSha256": "1bc2c8fdac2a3ecc84125d185299051a9ff27f252c27d70e31091b53e0fc9377",
+      "supportsItems": [
+        "豆汁儿",
+        "北京烤鸭",
+        "涮羊肉",
+        "炙子烤肉",
+        "京酱肉丝",
+        "芙蓉鸡片",
+        "天福号酱肘子",
+        "王致和腐乳"
+      ]
     },
     {
       "id": "wiki-鲁菜",
       "url": "https://zh.wikipedia.org/wiki/%E9%B2%81%E8%8F%9C",
       "title": "鲁菜",
       "read": true,
-      "evidenceSha256": "e16dc053cb398dbe5919c9478cabbc72e853a22efd414f60d1a59a42335c6892"
+      "evidenceSha256": "e16dc053cb398dbe5919c9478cabbc72e853a22efd414f60d1a59a42335c6892",
+      "supportsItems": [
+        "黄焖鸡",
+        "九转大肠",
+        "糖醋黄河鲤鱼",
+        "博山酥锅"
+      ]
     },
     {
       "id": "wiki-徽菜",
       "url": "https://zh.wikipedia.org/wiki/%E5%BE%BD%E8%8F%9C",
       "title": "徽菜",
       "read": true,
-      "evidenceSha256": "42ade4498f9974335c26ce9e2dae2fe01ae4fe0d26a0df8d5b13d9aad3a4f5ac"
+      "evidenceSha256": "42ade4498f9974335c26ce9e2dae2fe01ae4fe0d26a0df8d5b13d9aad3a4f5ac",
+      "supportsItems": [
+        "臭鳜鱼",
+        "绩溪一品锅",
+        "徽州毛豆腐",
+        "问政山笋",
+        "香菇板栗"
+      ]
     },
     {
       "id": "wiki-苏菜",
       "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%8F%9C",
       "title": "苏菜",
       "read": true,
-      "evidenceSha256": "05b4861e71daf4b10bc29dea62929ce86ff4665d4d99c0f105137c349f873c50"
+      "evidenceSha256": "05b4861e71daf4b10bc29dea62929ce86ff4665d4d99c0f105137c349f873c50",
+      "supportsItems": [
+        "地锅鸡"
+      ]
     },
     {
       "id": "wiki-浙菜",
       "url": "https://zh.wikipedia.org/wiki/%E6%B5%99%E8%8F%9C",
       "title": "浙菜",
       "read": true,
-      "evidenceSha256": "73701c2fb06085b389b61543a717ff495e9a265e9a410c55d575e05e41b78eb5"
+      "evidenceSha256": "73701c2fb06085b389b61543a717ff495e9a265e9a410c55d575e05e41b78eb5",
+      "supportsItems": [
+        "东坡肉",
+        "西湖醋鱼",
+        "雪菜大汤黄鱼",
+        "梅干菜焖肉",
+        "叫化童鸡",
+        "荷叶粉蒸肉"
+      ]
     },
     {
       "id": "wiki-上海菜",
       "url": "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%8F%9C",
       "title": "上海菜",
       "read": true,
-      "evidenceSha256": "51a56c4eb9f7f4749eeaec6a346646d8772f07779fd94d1d728ee69005315737"
+      "evidenceSha256": "51a56c4eb9f7f4749eeaec6a346646d8772f07779fd94d1d728ee69005315737",
+      "supportsItems": [
+        "白斩鸡",
+        "八宝鸭",
+        "本帮红烧肉",
+        "腌笃鲜",
+        "上海熏鱼",
+        "响油鳝丝",
+        "海派罗宋汤"
+      ]
     },
     {
       "id": "wiki-三元食品",
       "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%83%E9%A3%9F%E5%93%81",
       "title": "三元食品",
       "read": true,
-      "evidenceSha256": "40995b2dc59df09626545499c66ce20b5ae6d9c931c0022b867862401ebe4553"
+      "evidenceSha256": "40995b2dc59df09626545499c66ce20b5ae6d9c931c0022b867862401ebe4553",
+      "supportsItems": [
+        "三元鲜牛奶"
+      ]
     },
     {
       "id": "wiki-光明乳业",
       "url": "https://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A",
       "title": "光明乳业",
       "read": true,
-      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266"
+      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266",
+      "supportsItems": [
+        "光明鲜牛奶",
+        "光明酸奶",
+        "佛手牌味精"
+      ]
     },
     {
       "id": "wuyutai",
       "url": "https://www.wuyutai.com/",
       "title": "吴裕泰 · 企业与茶类",
       "read": true,
-      "evidenceSha256": "936114bdc1ad8b1b2b8322d3b5b80c22a34ea076c79a6f26a142bdc82fb45bab"
+      "evidenceSha256": "936114bdc1ad8b1b2b8322d3b5b80c22a34ea076c79a6f26a142bdc82fb45bab",
+      "supportsItems": [
+        "吴裕泰茉莉花茶"
+      ]
     },
     {
       "id": "hongxing",
       "url": "https://www.redstarwine.com/",
       "title": "红星二锅头 · 品牌与产品",
       "read": true,
-      "evidenceSha256": "8364937d411b1928aa348c9d7591a26828ac11e9dae1640aa73489f7bb9d8c8e"
+      "evidenceSha256": "8364937d411b1928aa348c9d7591a26828ac11e9dae1640aa73489f7bb9d8c8e",
+      "supportsItems": [
+        "红星二锅头"
+      ]
     },
     {
       "id": "laoshan",
       "url": "https://www.laoshan.com.cn/",
       "title": "崂山矿泉 · 饮料系列",
       "read": true,
-      "evidenceSha256": "740c0befa1f5657085f6eeaebf567cddfe3baaa0a46698e252f8ad9101c5a474"
+      "evidenceSha256": "740c0befa1f5657085f6eeaebf567cddfe3baaa0a46698e252f8ad9101c5a474",
+      "supportsItems": [
+        "崂山可乐",
+        "崂山白花蛇草水"
+      ]
     },
     {
       "id": "yanghe",
       "url": "https://www.chinayanghe.com/",
       "title": "洋河股份 · 洋河与双沟",
       "read": true,
-      "evidenceSha256": "a3a7374fee2c07efa322a6cbf303d7fd689dc7183c4c45028e205bd0db740774"
+      "evidenceSha256": "a3a7374fee2c07efa322a6cbf303d7fd689dc7183c4c45028e205bd0db740774",
+      "supportsItems": [
+        "洋河酒",
+        "双沟酒"
+      ]
     },
     {
       "id": "yingjia",
       "url": "https://www.yingjia.cn/",
       "title": "迎驾贡酒 · 生态酿造",
       "read": true,
-      "evidenceSha256": "748c4c5bbe6b2c1967326ca34299fc5542b9398320c12ce32a590f0f25c2f643"
+      "evidenceSha256": "748c4c5bbe6b2c1967326ca34299fc5542b9398320c12ce32a590f0f25c2f643",
+      "supportsItems": [
+        "迎驾贡酒"
+      ]
     },
     {
       "id": "fenjiu",
       "url": "https://www.fenjiu.com.cn/",
       "title": "汾酒集团 · 汾酒与竹叶青",
       "read": true,
-      "evidenceSha256": "d7311edef4ae424744bb768a8dcee1d7d5c276c8891b83ecc5d54a28d7169984"
+      "evidenceSha256": "d7311edef4ae424744bb768a8dcee1d7d5c276c8891b83ecc5d54a28d7169984",
+      "supportsItems": [
+        "汾酒",
+        "竹叶青酒"
+      ]
     },
     {
       "id": "shuita",
       "url": "https://www.shuita.com/",
       "title": "水塔醋业 · 酿造工艺",
       "read": true,
-      "evidenceSha256": "bf19f367e670a9299f7c063357f8a7cb4e796823818028352eba3cda3dc1acba"
+      "evidenceSha256": "bf19f367e670a9299f7c063357f8a7cb4e796823818028352eba3cda3dc1acba",
+      "supportsItems": [
+        "水塔老陈醋"
+      ]
     },
     {
       "id": "vv",
       "url": "https://www.vvfood.cn/",
       "title": "维维股份 · 豆奶与产品家族",
       "read": true,
-      "evidenceSha256": "d31a41eb7c89b3876268276727e7440f387250f826607e635fa217d65d9af7f4"
+      "evidenceSha256": "d31a41eb7c89b3876268276727e7440f387250f826607e635fa217d65d9af7f4",
+      "supportsItems": [
+        "天山雪牛奶",
+        "维维豆奶"
+      ]
     },
     {
       "id": "bby",
       "url": "https://s.visitbeijing.com.cn/gallery/16057",
       "title": "北京旅游网 · 老字号北冰洋",
       "read": true,
-      "evidenceSha256": "7db7bfc98d1731638e40d53d51d1b56f1bdc7f592221aa4d889378b3157f47ff"
+      "evidenceSha256": "7db7bfc98d1731638e40d53d51d1b56f1bdc7f592221aa4d889378b3157f47ff",
+      "supportsItems": [
+        "北冰洋汽水"
+      ]
     },
     {
       "id": "bj-cheese",
       "url": "https://s.visitbeijing.com.cn/food/106",
       "title": "北京旅游网 · 老北京奶酪",
       "read": true,
-      "evidenceSha256": "6829c3aa02bfd84003d4c9643732fcef09b406f65a160a610b485c192f0428c3"
+      "evidenceSha256": "6829c3aa02bfd84003d4c9643732fcef09b406f65a160a610b485c192f0428c3",
+      "supportsItems": [
+        "老北京奶酪"
+      ]
     },
     {
       "id": "liubiju",
       "url": "https://s.visitbeijing.com.cn/food/223",
       "title": "北京旅游网 · 六必居酱菜",
       "read": true,
-      "evidenceSha256": "d6af530f118bec7be22c92d2d71604f7d402ae9d4c9c801c6a66959ea54ad2c1"
+      "evidenceSha256": "d6af530f118bec7be22c92d2d71604f7d402ae9d4c9c801c6a66959ea54ad2c1",
+      "supportsItems": [
+        "六必居酱菜"
+      ]
     },
     {
       "id": "baike-三元梅园",
       "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%B8%89%E5%85%83%E6%A2%85%E5%9B%AD%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/20037998?fromtitle=%E4%B8%89%E5%85%83%E6%A2%85%E5%9B%AD&fromid=6813247",
       "title": "北京三元梅园食品有限公司",
       "read": true,
-      "evidenceSha256": "516809d55b332a7550b7c953cb4632c830444b499906a3253be38c39838fc693"
+      "evidenceSha256": "516809d55b332a7550b7c953cb4632c830444b499906a3253be38c39838fc693",
+      "supportsItems": [
+        "老北京奶酪"
+      ]
     },
     {
       "id": "baike-张一元",
       "url": "https://baike.baidu.com/item/%E5%BC%A0%E4%B8%80%E5%85%83",
       "title": "张一元",
       "read": true,
-      "evidenceSha256": "b22bf33780c9dbe2708fbb9cb8e12df6541e7ee4a96667d0f9daf2e0bd8eba89"
+      "evidenceSha256": "b22bf33780c9dbe2708fbb9cb8e12df6541e7ee4a96667d0f9daf2e0bd8eba89",
+      "supportsItems": [
+        "张一元茉莉花茶"
+      ]
     },
     {
       "id": "baike-得益乳业",
       "url": "https://baike.baidu.com/item/%E5%BE%97%E7%9B%8A%E4%B9%B3%E4%B8%9A",
       "title": "得益乳业",
       "read": true,
-      "evidenceSha256": "d1e8ced5082ed45e921e6712e3d887719e8d6a8cff46a84d90cb2a69544d231b"
+      "evidenceSha256": "d1e8ced5082ed45e921e6712e3d887719e8d6a8cff46a84d90cb2a69544d231b",
+      "supportsItems": [
+        "得益鲜牛奶"
+      ]
     },
     {
       "id": "baike-佳宝乳业",
       "url": "https://baike.baidu.com/item/%E6%B5%8E%E5%8D%97%E4%BD%B3%E5%AE%9D%E4%B9%B3%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/2776530?fromtitle=%E4%BD%B3%E5%AE%9D%E4%B9%B3%E4%B8%9A&fromid=5360195",
       "title": "济南佳宝乳业有限公司",
       "read": true,
-      "evidenceSha256": "a4785b6695c2820b20e86ae56704e4ef6902cdbe75d8338fface8af993e69a03"
+      "evidenceSha256": "a4785b6695c2820b20e86ae56704e4ef6902cdbe75d8338fface8af993e69a03",
+      "supportsItems": [
+        "佳宝酸奶与鲜奶"
+      ]
     },
     {
       "id": "baike-日照绿茶",
       "url": "https://baike.baidu.com/item/%E6%97%A5%E7%85%A7%E7%BB%BF%E8%8C%B6",
       "title": "日照绿茶",
       "read": true,
-      "evidenceSha256": "d5700821524f07cd392bf2542b27e1eae4fd2609b67795a265ae7cba1f004b1c"
+      "evidenceSha256": "d5700821524f07cd392bf2542b27e1eae4fd2609b67795a265ae7cba1f004b1c",
+      "supportsItems": [
+        "日照绿茶"
+      ]
     },
     {
       "id": "baike-崂山绿茶",
       "url": "https://baike.baidu.com/item/%E5%B4%82%E5%B1%B1%E7%BB%BF%E8%8C%B6",
       "title": "崂山绿茶",
       "read": true,
-      "evidenceSha256": "d8984a04f33bf4d1b47f4bc10e79465d38b3822ca2ed7474720ee4a1cf844d16"
+      "evidenceSha256": "d8984a04f33bf4d1b47f4bc10e79465d38b3822ca2ed7474720ee4a1cf844d16",
+      "supportsItems": [
+        "崂山绿茶"
+      ]
     },
     {
       "id": "baike-益益乳业",
       "url": "https://baike.baidu.com/item/%E5%AE%89%E5%BE%BD%E7%9B%8A%E7%9B%8A%E4%B9%B3%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8848940?fromtitle=%E7%9B%8A%E7%9B%8A%E4%B9%B3%E4%B8%9A&fromid=236817",
       "title": "安徽益益乳业有限公司",
       "read": true,
-      "evidenceSha256": "3ce7e9c104cd88b191cf39c3aad786a4049bb4cafaed99918f075022f506b732"
+      "evidenceSha256": "3ce7e9c104cd88b191cf39c3aad786a4049bb4cafaed99918f075022f506b732",
+      "supportsItems": [
+        "益益牛奶",
+        "益益含乳饮料"
+      ]
     },
     {
       "id": "baike-黄山毛峰",
       "url": "https://baike.baidu.com/item/%E9%BB%84%E5%B1%B1%E6%AF%9B%E5%B3%B0/3761",
       "title": "黄山毛峰",
       "read": true,
-      "evidenceSha256": "44331baf57859b9ee93c9252de94be12b40c76b19ad052f9928a482b9e11c9ff"
+      "evidenceSha256": "44331baf57859b9ee93c9252de94be12b40c76b19ad052f9928a482b9e11c9ff",
+      "supportsItems": [
+        "黄山毛峰"
+      ]
     },
     {
       "id": "baike-太平猴魁",
       "url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E7%8C%B4%E9%AD%81/2705",
       "title": "太平猴魁",
       "read": true,
-      "evidenceSha256": "96b6ae501cc0bd6b54bf1b098a2c2b1fdc3d72597b5f1c421ad2171f6b7ef62d"
+      "evidenceSha256": "96b6ae501cc0bd6b54bf1b098a2c2b1fdc3d72597b5f1c421ad2171f6b7ef62d",
+      "supportsItems": [
+        "太平猴魁"
+      ]
     },
     {
       "id": "baike-六安瓜片",
       "url": "https://baike.baidu.com/item/%E5%85%AD%E5%AE%89%E7%93%9C%E7%89%87/645421",
       "title": "六安瓜片",
       "read": true,
-      "evidenceSha256": "bc49607d3926d96ac76f5617ce33e8b5af53e4cab3cc820bb66d8d5eb5c2edcb"
+      "evidenceSha256": "bc49607d3926d96ac76f5617ce33e8b5af53e4cab3cc820bb66d8d5eb5c2edcb",
+      "supportsItems": [
+        "六安瓜片"
+      ]
     },
     {
       "id": "baike-祁门红茶",
       "url": "https://baike.baidu.com/item/%E7%A5%81%E9%97%A8%E7%BA%A2%E8%8C%B6/411266",
       "title": "祁门红茶",
       "read": true,
-      "evidenceSha256": "af0b6b691d3164f7baae1b42752b9236d3ba79d882197bfaf53beff6e60825e3"
+      "evidenceSha256": "af0b6b691d3164f7baae1b42752b9236d3ba79d882197bfaf53beff6e60825e3",
+      "supportsItems": [
+        "祁门红茶"
+      ]
     },
     {
       "id": "baike-碧螺春",
       "url": "https://baike.baidu.com/item/%E7%A2%A7%E8%9E%BA%E6%98%A5/2682",
       "title": "碧螺春",
       "read": true,
-      "evidenceSha256": "f005b13948c16b3161b1de3fb560aba54bd679e8b7da1db2fd24c872614e3dfd"
+      "evidenceSha256": "f005b13948c16b3161b1de3fb560aba54bd679e8b7da1db2fd24c872614e3dfd",
+      "supportsItems": [
+        "碧螺春"
+      ]
     },
     {
       "id": "baike-雨花茶",
       "url": "https://baike.baidu.com/item/%E9%9B%A8%E8%8A%B1%E8%8C%B6",
       "title": "雨花茶",
       "read": true,
-      "evidenceSha256": "bbb343c51c7d3f8c92e0cf84d3c83faec9677db1edc64e2e06f74c9781e54719"
+      "evidenceSha256": "bbb343c51c7d3f8c92e0cf84d3c83faec9677db1edc64e2e06f74c9781e54719",
+      "supportsItems": [
+        "雨花茶"
+      ]
     },
     {
       "id": "baike-龙井茶",
       "url": "https://baike.baidu.com/item/%E9%BE%99%E4%BA%95%E8%8C%B6/794",
       "title": "龙井茶",
       "read": true,
-      "evidenceSha256": "dcb894614fd7fe6502231f5897ef8252f0a3e584bd0ee13a3ee8bac96c613314"
+      "evidenceSha256": "dcb894614fd7fe6502231f5897ef8252f0a3e584bd0ee13a3ee8bac96c613314",
+      "supportsItems": [
+        "西湖龙井"
+      ]
     },
     {
       "id": "baike-安吉白茶",
       "url": "https://baike.baidu.com/item/%E5%AE%89%E5%90%89%E7%99%BD%E8%8C%B6",
       "title": "安吉白茶",
       "read": true,
-      "evidenceSha256": "39e1b94f3b77abf90fd4687a0553e1d878037e75ffb0ff9d4e613d37f8f16d7e"
+      "evidenceSha256": "39e1b94f3b77abf90fd4687a0553e1d878037e75ffb0ff9d4e613d37f8f16d7e",
+      "supportsItems": [
+        "安吉白茶"
+      ]
     },
     {
       "id": "baike-九曲红梅",
       "url": "https://baike.baidu.com/item/%E4%B9%9D%E6%9B%B2%E7%BA%A2%E6%A2%85",
       "title": "九曲红梅",
       "read": true,
-      "evidenceSha256": "97acb9b25fe317d29607bc012fc86515b018f4b9428ca96ae1c830a9f53fcacc"
+      "evidenceSha256": "97acb9b25fe317d29607bc012fc86515b018f4b9428ca96ae1c830a9f53fcacc",
+      "supportsItems": [
+        "九曲红梅"
+      ]
     },
     {
       "id": "baike-光明乳业",
       "url": "https://baike.baidu.com/item/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/11005699?fromtitle=%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A&fromid=1646840",
       "title": "光明乳业股份有限公司",
       "read": true,
-      "evidenceSha256": "c83b864bea6a5387a60014ed822ae4b44f9d7ed2586ce0ae847ee8f039658e79"
+      "evidenceSha256": "c83b864bea6a5387a60014ed822ae4b44f9d7ed2586ce0ae847ee8f039658e79",
+      "supportsItems": [
+        "光明鲜牛奶",
+        "光明酸奶"
+      ]
     },
     {
       "id": "baike-大寨核桃露",
       "url": "https://baike.baidu.com/item/%E5%A4%A7%E5%AF%A8%E7%89%8C%E6%A0%B8%E6%A1%83%E9%9C%B2/16948837?fromtitle=%E5%A4%A7%E5%AF%A8%E6%A0%B8%E6%A1%83%E9%9C%B2&fromid=2437088",
       "title": "大寨牌核桃露",
       "read": true,
-      "evidenceSha256": "74b0572e1df26a62b79022797ed46b8a682793be628e175d14c5979c0e5d9bcc"
+      "evidenceSha256": "74b0572e1df26a62b79022797ed46b8a682793be628e175d14c5979c0e5d9bcc",
+      "supportsItems": [
+        "大寨核桃露"
+      ]
     },
     {
       "id": "baike-山西药茶",
       "url": "https://baike.baidu.com/item/%E5%B1%B1%E8%A5%BF%E8%8D%AF%E8%8C%B6",
       "title": "山西药茶",
       "read": true,
-      "evidenceSha256": "37a3379e8ed39d0b3dba241469940193c71bb6504e33da293b20c2ce798b02da"
+      "evidenceSha256": "37a3379e8ed39d0b3dba241469940193c71bb6504e33da293b20c2ce798b02da",
+      "supportsItems": [
+        "山西药茶 · 代用茶"
+      ]
     },
     {
       "id": "company-tsingtao",
@@ -273,7 +420,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600600",
       "title": "青岛啤酒股份有限公司",
       "read": true,
-      "evidenceSha256": "7f80cc3a43d65f97b0429c71fd7f3e46fb5290de2f7968699ae1aee9411b4c34"
+      "evidenceSha256": "7f80cc3a43d65f97b0429c71fd7f3e46fb5290de2f7968699ae1aee9411b4c34",
+      "supportsItems": [
+        "青岛啤酒"
+      ]
     },
     {
       "id": "company-changyu",
@@ -281,7 +431,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sz000869",
       "title": "烟台张裕葡萄酿酒股份有限公司",
       "read": true,
-      "evidenceSha256": "b371be4aa6d17f6c64d8642c869a24c2fce837d2b6ca0bea9b06042b01ef53c0"
+      "evidenceSha256": "b371be4aa6d17f6c64d8642c869a24c2fce837d2b6ca0bea9b06042b01ef53c0",
+      "supportsItems": [
+        "张裕葡萄酒"
+      ]
     },
     {
       "id": "company-gujing",
@@ -289,7 +442,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sz000596",
       "title": "安徽古井贡酒股份有限公司",
       "read": true,
-      "evidenceSha256": "524b658da3222d94284b6e347ddaa12c50ef8b82f73d54b970c9bf34457afc97"
+      "evidenceSha256": "524b658da3222d94284b6e347ddaa12c50ef8b82f73d54b970c9bf34457afc97",
+      "supportsItems": [
+        "古井贡酒"
+      ]
     },
     {
       "id": "company-kouzi",
@@ -297,7 +453,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh603589",
       "title": "安徽口子酒业股份有限公司",
       "read": true,
-      "evidenceSha256": "f6316b9b48e2ec864c76acc5ee230ebd2881859f16fbb5b1f1c954f2db1e1a05"
+      "evidenceSha256": "f6316b9b48e2ec864c76acc5ee230ebd2881859f16fbb5b1f1c954f2db1e1a05",
+      "supportsItems": [
+        "口子窖"
+      ]
     },
     {
       "id": "company-yiming",
@@ -305,7 +464,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh605179",
       "title": "浙江一鸣食品股份有限公司",
       "read": true,
-      "evidenceSha256": "32028e0112270dc88269c920f0275b7dabdf478b1794eedd49b86d2db5074abf"
+      "evidenceSha256": "32028e0112270dc88269c920f0275b7dabdf478b1794eedd49b86d2db5074abf",
+      "supportsItems": [
+        "一鸣鲜牛奶"
+      ]
     },
     {
       "id": "company-lizy",
@@ -313,7 +475,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh605337",
       "title": "浙江李子园食品股份有限公司",
       "read": true,
-      "evidenceSha256": "0181a29351c9c32b3ce67c50c49e04a1b4de973db040fc3d775625119dc7e342"
+      "evidenceSha256": "0181a29351c9c32b3ce67c50c49e04a1b4de973db040fc3d775625119dc7e342",
+      "supportsItems": [
+        "李子园甜牛奶饮料"
+      ]
     },
     {
       "id": "company-jinfeng",
@@ -321,7 +486,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600616",
       "title": "上海金枫酒业股份有限公司",
       "read": true,
-      "evidenceSha256": "61b423f8969ffdb167634d5fe29674b8fc713d9f3afc74dacdaacee9f78b5358"
+      "evidenceSha256": "61b423f8969ffdb167634d5fe29674b8fc713d9f3afc74dacdaacee9f78b5358",
+      "supportsItems": [
+        "石库门黄酒"
+      ]
     },
     {
       "id": "company-hengshun",
@@ -329,7 +497,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600305",
       "title": "江苏恒顺醋业股份有限公司",
       "read": true,
-      "evidenceSha256": "cf8219d7c09cfb2e5767340d4efaf9953999710134b068888dab0e163c837e83"
+      "evidenceSha256": "cf8219d7c09cfb2e5767340d4efaf9953999710134b068888dab0e163c837e83",
+      "supportsItems": [
+        "恒顺香醋"
+      ]
     },
     {
       "id": "company-guyue",
@@ -337,7 +508,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600059",
       "title": "浙江古越龙山绍兴酒股份有限公司",
       "read": true,
-      "evidenceSha256": "45359a335913d822763d584e016b5a72021966e8c4f2b9fac2403b58a12eeead"
+      "evidenceSha256": "45359a335913d822763d584e016b5a72021966e8c4f2b9fac2403b58a12eeead",
+      "supportsItems": [
+        "古越龙山绍兴酒"
+      ]
     },
     {
       "id": "company-kuaiji",
@@ -345,7 +519,10 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh601579",
       "title": "会稽山绍兴酒股份有限公司",
       "read": true,
-      "evidenceSha256": "511f019fffc869806c3fbe4e28dfbbebbe7d7d3249aa11c0a7bb0efe40f8e276"
+      "evidenceSha256": "511f019fffc869806c3fbe4e28dfbbebbe7d7d3249aa11c0a7bb0efe40f8e276",
+      "supportsItems": [
+        "会稽山绍兴酒"
+      ]
     },
     {
       "id": "company-maling",
@@ -353,42 +530,68 @@
       "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600073",
       "title": "上海光明肉业集团股份有限公司",
       "read": true,
-      "evidenceSha256": "855e4b467871c8307a40f514d945acd181db0b0c2baa75cfb2b83ba78eba83ac"
+      "evidenceSha256": "855e4b467871c8307a40f514d945acd181db0b0c2baa75cfb2b83ba78eba83ac",
+      "supportsItems": [
+        "正广和饮品",
+        "佛手牌味精"
+      ]
     },
     {
       "id": "tcg-jiangsu",
       "url": "https://www.travelchinaguide.com/jiangsu-cuisine.htm",
       "title": "TravelChinaGuide · Jiangsu cuisine",
       "read": true,
-      "evidenceSha256": "97d8b25a511430e53069944940829aae15f1af35d0d87acfe025f8d6eed593cd"
+      "evidenceSha256": "97d8b25a511430e53069944940829aae15f1af35d0d87acfe025f8d6eed593cd",
+      "supportsItems": [
+        "南京盐水鸭",
+        "松鼠鳜鱼",
+        "无锡酱排骨",
+        "狮子头",
+        "常熟叫花鸡"
+      ]
     },
     {
       "id": "sx-winter",
       "url": "https://shanxi.chinadaily.com.cn/2026-02/12/c_1160740.htm",
       "title": "山西英文网 · 冬季地方美食",
       "read": true,
-      "evidenceSha256": "870de70220d44e948909d917ee6692b3f1dfee966bbb5c0160f683e94d16136c"
+      "evidenceSha256": "870de70220d44e948909d917ee6692b3f1dfee966bbb5c0160f683e94d16136c",
+      "supportsItems": [
+        "阳泉砂锅"
+      ]
     },
     {
       "id": "sx-routes",
       "url": "https://shanxi.chinadaily.com.cn/2025-09/05/c_1125702.htm",
       "title": "山西英文网 · 三条一号公路地方美食",
       "read": true,
-      "evidenceSha256": "bfcd479b3f18a03f784502f85bd35e24c84a14c7a02db5d72239e35707bfb4f6"
+      "evidenceSha256": "bfcd479b3f18a03f784502f85bd35e24c84a14c7a02db5d72239e35707bfb4f6",
+      "supportsItems": [
+        "右玉盐煎羊肉",
+        "吉县黄河鲤鱼",
+        "永和红烧羊肉"
+      ]
     },
     {
       "id": "tcg-anhui",
       "url": "https://www.travelchinaguide.com/anhui-cuisine.htm",
       "title": "TravelChinaGuide · anhui cuisine",
       "read": true,
-      "evidenceSha256": "02c1894031ab67b4724959bf5965f7f540b59fb3caa073ca1e42d7495c5dd487"
+      "evidenceSha256": "02c1894031ab67b4724959bf5965f7f540b59fb3caa073ca1e42d7495c5dd487",
+      "supportsItems": [
+        "符离集烧鸡"
+      ]
     },
     {
       "id": "tcg-shandong",
       "url": "https://www.travelchinaguide.com/shandong-cuisine.htm",
       "title": "TravelChinaGuide · shandong cuisine",
       "read": true,
-      "evidenceSha256": "dcdeba3df0e6619f7eaf864bc3e9c15ae9f7233a1e90dc709f44b31f26345482"
+      "evidenceSha256": "dcdeba3df0e6619f7eaf864bc3e9c15ae9f7233a1e90dc709f44b31f26345482",
+      "supportsItems": [
+        "德州扒鸡",
+        "鲁菜清汤与奶汤"
+      ]
     },
     {
       "id": "shanghai-old-brands",
@@ -396,16 +599,1057 @@
       "readVia": "https://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A",
       "title": "上海的老字号（展开名录）",
       "read": true,
-      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266"
+      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266",
+      "supportsItems": [
+        "汪裕泰茶庄"
+      ]
+    },
+    {
+      "id": "read-11cabd70e74c10",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302374.htm",
+      "title": "Pingyao beef (Pingyao Niurou)",
+      "read": true,
+      "evidenceSha256": "ee007516978ce0b32ab1f9bd2ad1b15d2d5d89854d60bc071f98f872f654def3",
+      "supportsItems": [
+        "平遥牛肉"
+      ]
+    },
+    {
+      "id": "read-d271f06131188d",
+      "url": "http://shanxi.chinadaily.com.cn/2021-09/15/c_661177.htm",
+      "title": "Dingxiang steamed meat",
+      "read": true,
+      "evidenceSha256": "a671c0924ce132c691fde06400a1b50330f0f93481408cb6ea719798cf20e181",
+      "supportsItems": [
+        "定襄蒸肉"
+      ]
+    },
+    {
+      "id": "read-431a4357b56e7b",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302375.htm",
+      "title": "Taiyuan medicinal soup (Tounao)",
+      "read": true,
+      "evidenceSha256": "24d88dd5a20c02b41eb549d80809b530cc43641887be64f44a338d10804342a1",
+      "supportsItems": [
+        "太原头脑"
+      ]
+    },
+    {
+      "id": "read-89ef4af98517d6",
+      "url": "http://shanxi.chinadaily.com.cn/2023-05/09/c_884365.htm",
+      "title": "Taiyuan Shaomei",
+      "read": true,
+      "evidenceSha256": "78bd19f100979c7e907e01c0a5155a6768c9b3ff555dd39cb3bebe78842c708e",
+      "supportsItems": [
+        "太原烧麦"
+      ]
+    },
+    {
+      "id": "read-4b4d0669593447",
+      "url": "http://shanxi.chinadaily.com.cn/2023-11/10/c_383289.htm",
+      "title": "Taiyuan Yangzage",
+      "read": true,
+      "evidenceSha256": "d53ffac0779e12d406f37d8eedf1df073f563a88f0d3d3c73252de8e6eaca626",
+      "supportsItems": [
+        "太原羊杂割"
+      ]
+    },
+    {
+      "id": "read-0348bce61dd2dd",
+      "url": "http://shanxi.chinadaily.com.cn/2021-05/17/c_623196.htm",
+      "title": "Taiyuan Kaolaolao",
+      "read": true,
+      "evidenceSha256": "d521c36c7bceb45c519863dd41e8ae10f205123aa1e813cc48f9e8e8ff0ac13a",
+      "supportsItems": [
+        "莜面栲栳栳"
+      ]
+    },
+    {
+      "id": "read-9679e021f0f4cd",
+      "url": "http://shanxi.chinadaily.com.cn/2020-06/11/c_302376.htm",
+      "title": "Fried boiled pork (Guo You Rou)",
+      "read": true,
+      "evidenceSha256": "f7299337bca612f65cf7eea78b215e4fe85b232a99d4c4f972de720e3fb33023",
+      "supportsItems": [
+        "山西过油肉"
+      ]
+    },
+    {
+      "id": "read-bf1f4937e5d745",
+      "url": "http://shanxi.chinadaily.com.cn/2022-10/10/c_818364.htm",
+      "title": "Traditional production of Liuweizhai braised pork with sauce",
+      "read": true,
+      "evidenceSha256": "dcb046835dea53b42d092255a52582ed3e327db2db9c9c5acb05258bde74c55b",
+      "supportsItems": [
+        "六味斋酱肉"
+      ]
+    },
+    {
+      "id": "read-a7c5d382a00d8a",
+      "url": "http://shanxi.chinadaily.com.cn/2021-03/16/c_604112.htm",
+      "title": "Guangling dried soybean curd",
+      "read": true,
+      "evidenceSha256": "67361328c19457eaf059b22dbe24b5cb362a5354d8b8d4e38440bcfc98c38a88",
+      "supportsItems": [
+        "广灵豆腐干"
+      ]
+    },
+    {
+      "id": "read-62ca5bca97d5a6",
+      "url": "http://shanxi.chinadaily.com.cn/2020-02/17/c_452373.htm",
+      "title": "Hunyuan potato jelly",
+      "read": true,
+      "evidenceSha256": "ccdd8c11a828da6dd110a16397e150f9abc097f698b31cc4cdd488e30da483d3",
+      "supportsItems": [
+        "浑源凉粉"
+      ]
+    },
+    {
+      "id": "read-93527257ff9404",
+      "url": "http://shanxi.chinadaily.com.cn/2021-11/16/c_682240.htm",
+      "title": "Datong instant boiled mutton",
+      "read": true,
+      "evidenceSha256": "570312868c22aacd298614247688555ff9e2682e6231e9da8a4389063fc9b3a7",
+      "supportsItems": [
+        "大同涮羊肉"
+      ]
+    },
+    {
+      "id": "read-2991de72710d77",
+      "url": "http://shanxi.chinadaily.com.cn/2020-09/01/c_533285.htm",
+      "title": "Changzhi pickled and roast donkey meat",
+      "read": true,
+      "evidenceSha256": "d4dd82c96a11fb10478791f1225776daa18da892f4b63a4adab72432efaa5b2a",
+      "supportsItems": [
+        "长治腊驴肉"
+      ]
+    },
+    {
+      "id": "read-6690f6c175919d",
+      "url": "http://shanxi.chinadaily.com.cn/2022-07/11/c_787893.htm",
+      "title": "Changzhi Lucheng Pancake",
+      "read": true,
+      "evidenceSha256": "7edb859161b87f7ede14461709f6f2e08448e19dc8a76e0c63a8b597e59a0296",
+      "supportsItems": [
+        "潞城甩饼"
+      ]
+    },
+    {
+      "id": "read-3d00a1d7b66719",
+      "url": "http://shanxi.chinadaily.com.cn/2021-06/30/c_638008.htm",
+      "title": "Shredded tofu with vermicelli in Pingding county",
+      "read": true,
+      "evidenceSha256": "a2047ce58d354dffdf2c10659591859c93752f9a84904cd32f6a5f98a599fe90",
+      "supportsItems": [
+        "平定豆丝粉条"
+      ]
+    },
+    {
+      "id": "read-8dac01d4fcaef7",
+      "url": "http://shanxi.chinadaily.com.cn/2019-03/21/c_346835.htm",
+      "title": "Wu Family smoked meat (Wujia Xunrou)",
+      "read": true,
+      "evidenceSha256": "e5eee228f1218d92c76f6a1ecc9c55b0b892bdf9a1546581e777b49f8ddd80f3",
+      "supportsItems": [
+        "吴家熏肉"
+      ]
+    },
+    {
+      "id": "read-3f33f5384afeb3",
+      "url": "http://shanxi.chinadaily.com.cn/2021-08/12/c_651116.htm",
+      "title": "Lyuliang cypress seed mutton",
+      "read": true,
+      "evidenceSha256": "527f38a7eef9f6d6b4bb8c04576eb4f295aaadbb5c923901c465cc8ccf8cf845",
+      "supportsItems": [
+        "中阳柏籽羊肉"
+      ]
+    },
+    {
+      "id": "read-d766ed0270bce1",
+      "url": "http://shanxi.chinadaily.com.cn/2020-11/05/c_561340.htm",
+      "title": "Sweet baked wheaten cake",
+      "read": true,
+      "evidenceSha256": "3b54c3cb0e179fc4104c55142f46684df49bed92cbb6e72f8c49bb466fe39ffd",
+      "supportsItems": [
+        "临县糖火烧"
+      ]
+    },
+    {
+      "id": "read-73f9fd4b19d979",
+      "url": "http://shanxi.chinadaily.com.cn/2020-04/13/c_471103.htm",
+      "title": "Jishan fried dough twists (Jishan Mahua)",
+      "read": true,
+      "evidenceSha256": "a93584ed95be8804e9b2b341dba86ca28b4530bc782a06f35c2927236fa39b3c",
+      "supportsItems": [
+        "稷山麻花"
+      ]
+    },
+    {
+      "id": "read-10a84037b171e3",
+      "url": "http://shanxi.chinadaily.com.cn/2022-11/07/c_828404.htm",
+      "title": "Wenxi Huamo (flower-shaped buns)",
+      "read": true,
+      "evidenceSha256": "c4c57f3e26dd280567ea1b344d0af3f2ab87c821ae1b5b6a3be7b251e1a0d5d1",
+      "supportsItems": [
+        "闻喜花馍"
+      ]
+    },
+    {
+      "id": "read-4d940b0aa8654a",
+      "url": "http://shanxi.chinadaily.com.cn/2018-08/23/c_302372.htm",
+      "title": "Fried cake (Yougao)",
+      "read": true,
+      "evidenceSha256": "98975b0a84536750d0459f4758eed9c893398f11f4ae8a636a91dc9c6881b485",
+      "supportsItems": [
+        "晋中油糕"
+      ]
+    },
+    {
+      "id": "read-083215ffb76ff9",
+      "url": "http://shanxi.chinadaily.com.cn/2025-09/05/c_1125702.htm",
+      "title": "Shanxi unveils culinary delights along three 'No 1 Tourist Highways'",
+      "read": true,
+      "evidenceSha256": "bfcd479b3f18a03f784502f85bd35e24c84a14c7a02db5d72239e35707bfb4f6",
+      "supportsItems": [
+        "五台烩豆腐丸子",
+        "昔阳焖莜面",
+        "石楼酸汤荞面",
+        "山阴杂粮饼",
+        "壶关羊汤"
+      ]
+    },
+    {
+      "id": "read-97193cea011dc8",
+      "url": "https://finance.eastmoney.com/a/202607283823441722.html",
+      "title": "（乡村行·看振兴）雁门关外“种草记”：山西朔州盐碱地“长”出富民大产业",
+      "read": true,
+      "evidenceSha256": "0003ced49963de55d2d0ddbe7a7bf5ac910d934fc6b777f8df5693a84a8a6d1e",
+      "supportsItems": [
+        "古城牛奶"
+      ]
+    },
+    {
+      "id": "read-a038abd673ba8d",
+      "url": "https://finance.eastmoney.com/a/202605143736619341.html",
+      "title": "卡旺卡辟谣将在上海、苏州开店",
+      "read": true,
+      "evidenceSha256": "157505bce4c1d81008dc7e3dcea856fd851abc87cbfa9f4016a68907f6267731",
+      "supportsItems": [
+        "卡旺卡"
+      ]
+    },
+    {
+      "id": "read-11856026540d3d",
+      "url": "https://www.tianlala.com/brand/",
+      "title": "甜啦啦 · 品牌故事",
+      "read": true,
+      "evidenceSha256": "720ddb81e7312785425054ccd3b63f242fad6ff698a410d8b9cb73eaa75dcfc3",
+      "supportsItems": [
+        "甜啦啦"
+      ]
+    },
+    {
+      "id": "read-87f76322dd9c97",
+      "url": "https://www.chinaxpp.com/about.html",
+      "title": "香飘飘 · 我们是谁",
+      "read": true,
+      "evidenceSha256": "3be343fa13e2883cc299bb01570bcba1b341be107fd2b8df8f0b99bb485abdc9",
+      "supportsItems": [
+        "香飘飘奶茶"
+      ]
+    },
+    {
+      "id": "read-f490eef7fcc0eb",
+      "url": "https://www.chinaxpp.com/brand/xpp.html",
+      "title": "香飘飘 · 冲泡奶茶",
+      "read": true,
+      "evidenceSha256": "3cc26d87fdff38698458138f3ccdb6801325f89bf8400ed7232d96a378dfa9f2",
+      "supportsItems": [
+        "香飘飘奶茶"
+      ]
+    },
+    {
+      "id": "read-d726444e088117",
+      "url": "https://www.chinanews.com.cn/sh/2025/08-09/10462216.shtml",
+      "title": "山西代县“文化夜市”开市：融非遗、促消费、兴文旅",
+      "read": true,
+      "evidenceSha256": "a10b13a1c3a8edd6a5896951d5781f6acdecabd43407446458613ea1ae31324b",
+      "supportsItems": [
+        "雁门金波黄酒",
+        "代州熬鱼"
+      ]
+    },
+    {
+      "id": "read-2b4457844541eb",
+      "url": "https://www.chinanews.com.cn/cj/2023/11-24/10117280.shtml",
+      "title": "（乡村行·看振兴）雁门关下黄酒飘香 文旅融合共话振兴",
+      "read": true,
+      "evidenceSha256": "99c8c49a377d5056f9489290a9c81b75f0c7fdb214a06ff1f4297ba7e9fafdac",
+      "supportsItems": [
+        "雁门金波黄酒"
+      ]
+    },
+    {
+      "id": "read-1e8c808a23c30e",
+      "url": "https://www.dili360.com/ch/article/p54bf6cf9c787707.htm",
+      "title": "西餐里的中国味儿",
+      "read": true,
+      "evidenceSha256": "a1d9bbebe4ad1ea031d803d61c0bde166c40f1da159acc02d19dcd89dfab7b70",
+      "supportsItems": [
+        "上海辣酱油"
+      ]
+    },
+    {
+      "id": "read-574b70bb4cb5c8",
+      "url": "https://www.chinanews.com.cn/cj/2024/02-06/10159956.shtml",
+      "title": "订单排满！腐乳变“东方奶酪”？在海外卖爆了！",
+      "read": true,
+      "evidenceSha256": "6c3001aadd74fc0b0566704268562e567775d06ed774b77e830a3106d0631e22",
+      "supportsItems": [
+        "上海辣酱油",
+        "鼎丰腐乳",
+        "排骨年糕"
+      ]
+    },
+    {
+      "id": "read-be63004c5f86cf",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-22/10451922.shtml",
+      "title": "大暑节气南北“凉”品大PK 看解暑美味到底哪家强",
+      "read": true,
+      "evidenceSha256": "0ed41f93331cba0dea49554dbfe0249a6642edddb2e822afd4980a60d5181932",
+      "supportsItems": [
+        "糟卤"
+      ]
+    },
+    {
+      "id": "read-9a12a64ec7da89",
+      "url": "https://www.gumingnc.com/brand-history/",
+      "title": "古茗 · 品牌历程",
+      "read": true,
+      "evidenceSha256": "4b595b26a6f8f819efab0527caefbbb28cb3383c3f04fc9f75ab6ba0286c9398",
+      "supportsItems": [
+        "古茗"
+      ]
+    },
+    {
+      "id": "read-9e01351e3b16ac",
+      "url": "http://shandong.chinadaily.com.cn/2026-08/13/c_1205445.htm",
+      "title": "Shikou roast chicken: A taste of Dongying",
+      "read": true,
+      "evidenceSha256": "a3c8d1f232194f5e9bc65a7d64a2ebfe67560853ac9f1e034d53ab04dd6dcac3",
+      "supportsItems": [
+        "史口烧鸡"
+      ]
+    },
+    {
+      "id": "read-d391d0c58be907",
+      "url": "http://shandong.chinadaily.com.cn/2026-01/07/c_1153288.htm",
+      "title": "Dongying's ICH cuisine: Cuijiaheya tofu",
+      "read": true,
+      "evidenceSha256": "b358df74960647c5e610de275e54d2ed77c6d6115d4ebcc6571e145a5c9291d8",
+      "supportsItems": [
+        "崔家河崖豆腐"
+      ]
+    },
+    {
+      "id": "read-97ab4886804014",
+      "url": "http://shandong.chinadaily.com.cn/2025-09/15/c_1125430.htm",
+      "title": "Please select your Weifang cuisine hero!",
+      "read": true,
+      "evidenceSha256": "2a985e3deba4d37acf9e5dfd63439fbfaa8d95b2df45c82af016ad2a97acc07d",
+      "supportsItems": [
+        "潍坊朝天锅",
+        "潍坊和乐",
+        "潍坊肉火烧"
+      ]
+    },
+    {
+      "id": "read-97b546b734a11e",
+      "url": "http://shandong.chinadaily.com.cn/2020-10/28/c_560280.htm",
+      "title": "Xuecheng peppery chicken",
+      "read": true,
+      "evidenceSha256": "6543f7bac27667a5455ffdccb16938d437763668a9765c18cac9f1f0c6f5cee8",
+      "supportsItems": [
+        "枣庄辣子鸡"
+      ]
+    },
+    {
+      "id": "read-4755abc9016c18",
+      "url": "http://shandong.chinadaily.com.cn/2020-07/15/c_515658.htm",
+      "title": "Have a bite of Zaozhuang",
+      "read": true,
+      "evidenceSha256": "f46a323ae5eb2c193bf128ebd6fa1134f91a70096b3f3aed60ecba64eab6ac9e",
+      "supportsItems": [
+        "枣庄菜煎饼"
+      ]
+    },
+    {
+      "id": "read-e8dc4a4351afe1",
+      "url": "http://shandong.chinadaily.com.cn/2021-01/29/c_586563.htm",
+      "title": "Feixian stir-fried chicken",
+      "read": true,
+      "evidenceSha256": "ecefddb47b3276054556084fa03731b5adb087095a8e6dda5ff9731f1240c9fc",
+      "supportsItems": [
+        "费县炒鸡"
+      ]
+    },
+    {
+      "id": "read-e00919bfdcd1e8",
+      "url": "http://shandong.chinadaily.com.cn/2023-02/16/c_860668.htm",
+      "title": "Video: Caoxian County Roasted Beef",
+      "read": true,
+      "evidenceSha256": "d0f19a6202bc837b2ef6d7bff3c1b6e14551e398c927bc6ddd8faf7a1237c7ba",
+      "supportsItems": [
+        "曹县烧牛肉"
+      ]
+    },
+    {
+      "id": "read-e23258162d1d69",
+      "url": "http://shandong.chinadaily.com.cn/2020-12/17/c_575574.htm",
+      "title": "Warm your heart and soul with a bowl of soup in winter",
+      "read": true,
+      "evidenceSha256": "891bf153ba303e1c35d7da23d7d2f628b5c354032f1e3582c2e6b8d3ed6547b6",
+      "supportsItems": [
+        "单县羊肉汤"
+      ]
+    },
+    {
+      "id": "read-612eb2d231f917",
+      "url": "http://shandong.chinadaily.com.cn/2023-04/26/c_881485.htm",
+      "title": "Video: Shixiang noodles in Linqing",
+      "read": true,
+      "evidenceSha256": "ca23f806ac719e65d3df445dcc8146eb2698132d8e2662156fe1fed685859db8",
+      "supportsItems": [
+        "临清什香面"
+      ]
+    },
+    {
+      "id": "read-9d6d10c2636279",
+      "url": "http://shandong.chinadaily.com.cn/2023-04/28/c_882347.htm",
+      "title": "Video: Qingping hollow noodles",
+      "read": true,
+      "evidenceSha256": "0cb77446adfa3d1fd178b6c1ea54b32386961c0edc1dc980c0e6cf8f0d98407a",
+      "supportsItems": [
+        "清平空心面"
+      ]
+    },
+    {
+      "id": "read-e6e2e030f5b626",
+      "url": "http://shandong.chinadaily.com.cn/2022-04/29/c_749126.htm",
+      "title": "Yantai's tasty Penglai Xiaomian",
+      "read": true,
+      "evidenceSha256": "9f7b5e62639d84507413400160c2aea8b69327ee73412d56e0c385a090a05936",
+      "supportsItems": [
+        "蓬莱小面"
+      ]
+    },
+    {
+      "id": "read-f42090834cd94a",
+      "url": "http://shandong.chinadaily.com.cn/2022-09/13/c_811932.htm",
+      "title": "Longkou fensi (vermicelli made from bean starch)",
+      "read": true,
+      "evidenceSha256": "1730666366eabbe15d0cceef4207291191b62e4fc00364fa779a132b1a847f57",
+      "supportsItems": [
+        "龙口粉丝"
+      ]
+    },
+    {
+      "id": "read-24216d30e9f99e",
+      "url": "http://shandong.chinadaily.com.cn/2018-11/22/c_305954.htm",
+      "title": "Qingdao pork greaves (青岛脂渣/Qingdao Zhi Zha)",
+      "read": true,
+      "evidenceSha256": "ddd9e20a958b4714cbe66d1a7dac0f357cccdbfc1abe481e331ae68632b7fbcd",
+      "supportsItems": [
+        "青岛脂渣"
+      ]
+    },
+    {
+      "id": "read-5fea470fdf7334",
+      "url": "http://shandong.chinadaily.com.cn/2018-11/22/c_305945.htm",
+      "title": "Chili sautéed clams (辣炒蛤蜊/La Chao Ge Li)",
+      "read": true,
+      "evidenceSha256": "6e67afd389ca133fa2559013039273d89d1315034ffea2732f816feb8491a304",
+      "supportsItems": [
+        "辣炒蛤蜊"
+      ]
+    },
+    {
+      "id": "read-e2324c9427d82d",
+      "url": "http://shandong.chinadaily.com.cn/2020-11/27/c_569957.htm",
+      "title": "Fishermen produce sun-dried fish in Weihai",
+      "read": true,
+      "evidenceSha256": "9662c2d9b566dbad6befc0860f626e7d8b74d7487b555a049cc5799882568662",
+      "supportsItems": [
+        "荣成咸鱼干"
+      ]
+    },
+    {
+      "id": "read-187055d7e93c4f",
+      "url": "http://shandong.chinadaily.com.cn/2021-01/20/c_583981.htm",
+      "title": "Weihai bakers prepare festive holiday buns",
+      "read": true,
+      "evidenceSha256": "3844ee90fe938dd21a56b49ac3b3ce37cd9f896b908b820a5e24f96779c9b7b6",
+      "supportsItems": [
+        "胶东花饽饽"
+      ]
+    },
+    {
+      "id": "read-19c7fdf0ec3da4",
+      "url": "http://shandong.chinadaily.com.cn/2023-11/06/c_936576.htm",
+      "title": "Enjoy breakfast snacks in Jinan",
+      "read": true,
+      "evidenceSha256": "906d3393fac24547b7ee75774d5429f58b944bde60e753c3419c4b4cd3c508be",
+      "supportsItems": [
+        "济南油旋"
+      ]
+    },
+    {
+      "id": "read-5af57f394e7056",
+      "url": "http://shandong.chinadaily.com.cn/2022-07/07/c_787163.htm",
+      "title": "Huang's roasted pork",
+      "read": true,
+      "evidenceSha256": "182b57dee279194b89b732f41ec8444b6dcc1ceb16fd307cc3c796f28786ab15",
+      "supportsItems": [
+        "黄家烤肉"
+      ]
+    },
+    {
+      "id": "read-f65e58e675f166",
+      "url": "http://shandong.chinadaily.com.cn/2024-01/09/c_954662.htm",
+      "title": "Recommended breakfast in Tai'an",
+      "read": true,
+      "evidenceSha256": "92731c17283a9d6d2a85a8aa44f79b1c4d2728be5dd05650137224827d458b6a",
+      "supportsItems": [
+        "泰安糁汤",
+        "泰山豆粥"
+      ]
+    },
+    {
+      "id": "read-3dbd4a2b62773d",
+      "url": "http://zhejiang.chinadaily.com.cn/2023-11/21/c_940960.htm",
+      "title": "Quzhou Gangjiang: A delicious sauce for rice",
+      "read": true,
+      "evidenceSha256": "1ed90d8b453e5b9bfa0273aed0fbe8e03393c07d9b718a51e8507fdbf90248d5",
+      "supportsItems": [
+        "衢州缸酱"
+      ]
+    },
+    {
+      "id": "read-757fda4af046dc",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-01/22/c_584874.htm",
+      "title": "Jinhua Ham",
+      "read": true,
+      "evidenceSha256": "0ccd768ea39c10f9d15627c25ea94dcd8d45c783a3e88968a6e44977029807e5",
+      "supportsItems": [
+        "金华火腿"
+      ]
+    },
+    {
+      "id": "read-c33b737c691778",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-12/03/c_1050286.htm",
+      "title": "Winter delicacy of Quzhou: Steamed rice cake",
+      "read": true,
+      "evidenceSha256": "f72053abf14b6d5ebf91415315c4e15141b7c2b0c5e28b0fd4aa80441e91daa2",
+      "supportsItems": [
+        "龙游发糕"
+      ]
+    },
+    {
+      "id": "read-203d064e7554cb",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-02/18/c_596053.htm",
+      "title": "Array of delicacies regale those at Quzhou during Spring Festival",
+      "read": true,
+      "evidenceSha256": "9b07a033cbdd73e62db3abf03c946c404e66dce8813f3c9056625f36956bc29c",
+      "supportsItems": [
+        "衢州三头一掌"
+      ]
+    },
+    {
+      "id": "read-ba0002eafd7193",
+      "url": "http://zhejiang.chinadaily.com.cn/2020-06/18/c_558163.htm",
+      "title": "Quzhou delicacies",
+      "read": true,
+      "evidenceSha256": "e22bbf853af086059dbc5f9ea6b060beed89887c600abef697a5a82de2ff1079",
+      "supportsItems": [
+        "开化番薯粉丝",
+        "邵永丰麻饼"
+      ]
+    },
+    {
+      "id": "read-9fce1f6d9db228",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-07/25/c_1008520.htm",
+      "title": "Ginger soup noodles",
+      "read": true,
+      "evidenceSha256": "acf55fc1c7705de9c443f7e8ef819beb85957d31b52363808f633cd3c0a451b0",
+      "supportsItems": [
+        "台州姜汤面"
+      ]
+    },
+    {
+      "id": "read-4fc20301acf817",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-06/21/c_998444.htm",
+      "title": "Taizhou pancake roll",
+      "read": true,
+      "evidenceSha256": "2e2027904bc175be06064f227b0a5ba2dba3217d4ecbcbf6a4cde0a889b14919",
+      "supportsItems": [
+        "台州食饼筒"
+      ]
+    },
+    {
+      "id": "read-3feaa931627354",
+      "url": "http://zhejiang.chinadaily.com.cn/2024-02/01/c_960305.htm",
+      "title": "Zhao Yijun: Master of Jinyun shaobing",
+      "read": true,
+      "evidenceSha256": "f92e168789c40c50dc69e9e5b13541012ef5c74f8be2bd4b28a5e3cefd7262e7",
+      "supportsItems": [
+        "缙云烧饼"
+      ]
+    },
+    {
+      "id": "read-a256c81328f047",
+      "url": "http://zhejiang.chinadaily.com.cn/2022-01/27/c_703438.htm",
+      "title": "Aroma of Spring Festival in Lishui: Nanxiang steamed bread",
+      "read": true,
+      "evidenceSha256": "248c40606e3ea399acd7ffe867e6701d3c8d12f91a3f98bab3afe783536ca4cc",
+      "supportsItems": [
+        "缙云南乡馒头"
+      ]
+    },
+    {
+      "id": "read-87f0ca274a1ff6",
+      "url": "http://zhejiang.chinadaily.com.cn/2025-08/01/c_1114252.htm",
+      "title": "Authentic delicacies from Lishui's Liandu",
+      "read": true,
+      "evidenceSha256": "c54c697b1dd21ca4b5422c654b5ac4dac1c19a97b9d50fb410077c16e2e50407",
+      "supportsItems": [
+        "丽水莲都薄饼",
+        "莲都豆腐丸"
+      ]
+    },
+    {
+      "id": "read-2ac5aaf54225d7",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-02/19/c_595810.htm",
+      "title": "Succulent tastes of Lishui make every day a festival",
+      "read": true,
+      "evidenceSha256": "c77f0fe8948afd6cb955982ee26fcbe21e12cc3dc94f3354bde9eccc8a6b38ed",
+      "supportsItems": [
+        "景宁粉皮"
+      ]
+    },
+    {
+      "id": "read-c43bd84c84dc97",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-08/24/c_654891.htm",
+      "title": "Mouthwatering, special snacks on offer from Yongkang city",
+      "read": true,
+      "evidenceSha256": "890ea88fa9056fedca93e348f0182798508b0646e60c5732b4df06bdc4b1ef85",
+      "supportsItems": [
+        "永康肉麦饼",
+        "永康熏豆腐干"
+      ]
+    },
+    {
+      "id": "read-3e60b78536dd70",
+      "url": "http://zhejiang.chinadaily.com.cn/2023-01/19/c_849592.htm",
+      "title": "Delicacies in Jiaxing",
+      "read": true,
+      "evidenceSha256": "4b01eb1fb08c71dcc51a2e4d2bc66c45fe15ee4a51cd79b7e3e76cb89d4289d5",
+      "supportsItems": [
+        "嘉兴鲜肉烧卖",
+        "平湖糟蛋",
+        "平湖糍糕"
+      ]
+    },
+    {
+      "id": "read-11913d666b4e2b",
+      "url": "http://zhejiang.chinadaily.com.cn/2026-06/08/c_1189188.htm",
+      "title": "Sun-dried rice noodles offer taste of home from Wenzhou",
+      "read": true,
+      "evidenceSha256": "668f008d4710e2b057072b366f4a824d5cd8bd14cde53f36c91f33a790c795cc",
+      "supportsItems": [
+        "泰顺大安米面"
+      ]
+    },
+    {
+      "id": "read-8f5b888de40ad9",
+      "url": "http://zhejiang.chinadaily.com.cn/2021-11/24/c_684312.htm",
+      "title": "Must-eat Zhoushan delicacies in autumn",
+      "read": true,
+      "evidenceSha256": "7de8d7e2042abd2defe69c28f371bdfe12a0cd6608603c9ec8eda8b60c0eb14b",
+      "supportsItems": [
+        "舟山带鱼",
+        "舟山梭子蟹"
+      ]
+    },
+    {
+      "id": "tcg-anhui-anqing",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/anqing/",
+      "title": "Anqing",
+      "read": true,
+      "evidenceSha256": "a0b451d21bdff3b9dc039b7d94f372004e865ebf7d85b4e6f16eda017a3981ce",
+      "supportsItems": [
+        "胡玉美蚕豆辣酱",
+        "墨子酥",
+        "怀宁贡糕"
+      ]
+    },
+    {
+      "id": "tcg-anhui-maanshan",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/maanshan/",
+      "title": "Maanshan",
+      "read": true,
+      "evidenceSha256": "2debbdd146312594ea45c22d5eaf17fdc23326001fd29ce0ae2208e76376b81d",
+      "supportsItems": [
+        "黄池酱菜",
+        "采石茶干"
+      ]
+    },
+    {
+      "id": "tcg-anhui-tongling",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/tongling/",
+      "title": "Tongling",
+      "read": true,
+      "evidenceSha256": "05e500a2185f308835b0b3e74ad9dd16c46095f4fad16cef19b53a85d30d3f3d",
+      "supportsItems": [
+        "顺安酥糖"
+      ]
+    },
+    {
+      "id": "tcg-anhui-chuzhou",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/chuzhou/",
+      "title": "Chuzhou",
+      "read": true,
+      "evidenceSha256": "d869dcb673ce19151cdeb7c6a097db460ab2542625d934037719d0fd2d9a886d",
+      "supportsItems": [
+        "琅琊酥糖"
+      ]
+    },
+    {
+      "id": "tcg-anhui-huainan",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/huainan/",
+      "title": "Huainan",
+      "read": true,
+      "evidenceSha256": "42436c87a6c3632e8e4a39357c45befd80c1dab05d6f2dfe4532335a3754910d",
+      "supportsItems": [
+        "八公山豆腐"
+      ]
+    },
+    {
+      "id": "tcg-anhui-lu'an",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/luan/",
+      "title": "Lu'an",
+      "read": true,
+      "evidenceSha256": "b480dff166f4fb641c12dbecfde40560799981b2996788b0bc4eb10753142f4c",
+      "supportsItems": [
+        "寿县大救驾"
+      ]
+    },
+    {
+      "id": "read-47da33ecad4a48",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/hefei/dining.htm",
+      "title": "Hefei dining",
+      "read": true,
+      "evidenceSha256": "becc851764f9d6353c9d646e97748319284c7c13e542ba0e47aa2a390c169544",
+      "supportsItems": [
+        "庐州烤鸭",
+        "李鸿章大杂烩",
+        "曹操鸡"
+      ]
+    },
+    {
+      "id": "read-9b4b3f02348287",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/huangshan/dining.htm",
+      "title": "Huangshan dining",
+      "read": true,
+      "evidenceSha256": "8517b5e340b11012f255e929f951ab0a508e2939a1b172681a1df355803b54b6",
+      "supportsItems": [
+        "徽州毛豆腐"
+      ]
+    },
+    {
+      "id": "tcg-anhui-chizhou",
+      "url": "https://www.travelchinaguide.com/cityguides/anhui/chizhou/",
+      "title": "Chizhou",
+      "read": true,
+      "evidenceSha256": "a107645c5258a702e2a39b9c62785f9ba59fc35f0d8b9db2497b517ee230f32e",
+      "supportsItems": [
+        "九华毛峰"
+      ]
+    },
+    {
+      "id": "read-bd1a47d1567ad5",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-10/10656794.shtml",
+      "title": "一把荆芥“潮”起来 本土食材“跨界”圈粉年轻人",
+      "read": true,
+      "evidenceSha256": "51da371b7c4c1f323c06323d25c188ff72e7ff83cbc4a6e59a78396ff7c1e56c",
+      "supportsItems": [
+        "阜阳格拉条",
+        "阜阳荆芥柠檬茶",
+        "明光奶绿波"
+      ]
+    },
+    {
+      "id": "read-3b8fd173631f27",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-22/10626865.shtml",
+      "title": "品美食、赏非遗、看大戏 山西高平庙会点燃烟火气",
+      "read": true,
+      "evidenceSha256": "7e79e8607405bcddb067d09cd636703693b58d4e2647325dead76d04b9abeba8",
+      "supportsItems": [
+        "高平烧豆腐"
+      ]
+    },
+    {
+      "id": "read-fd76d3d66087fd",
+      "url": "https://www.travelchinaguide.com/huaiyang-cuisine.htm",
+      "title": "淮扬菜 · 代表菜与地方做法",
+      "read": true,
+      "evidenceSha256": "e271e4ac4a3311ddaeeb794210237b6427f462efc9a0f4829ec24b741d84fab3",
+      "supportsItems": [
+        "大煮干丝",
+        "扬州炒饭",
+        "平桥豆腐羹",
+        "文思豆腐",
+        "软兜长鱼"
+      ]
+    },
+    {
+      "id": "read-7f968d199b12ff",
+      "url": "https://www.chinanews.com.cn/sh/2023/08-16/10062090.shtml",
+      "title": "沿着大运河看中国丨波澜壮阔与活色生香，解锁“运河之都”淮安的AB面",
+      "read": true,
+      "evidenceSha256": "9affa13b5500762db1ba77421a660ebe779d8db10d2b7fc12c8da36a865941e8",
+      "supportsItems": [
+        "软兜长鱼"
+      ]
+    },
+    {
+      "id": "read-51f26619d87698",
+      "url": "https://www.chinanews.com.cn/cul/2019/02-04/8747783.shtml",
+      "title": "探访古城扬州“老字号”：感受时代变迁-中新网",
+      "read": true,
+      "evidenceSha256": "02d8fb7368ccf738c9b262a5cc8e07fe6ab1a56223b118de0430f893bf26e31b",
+      "supportsItems": [
+        "三和四美酱菜"
+      ]
+    },
+    {
+      "id": "read-0a1069d8538b30",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-20/10450847.shtml",
+      "title": "人这一辈子，一定要去一趟“0州”",
+      "read": true,
+      "evidenceSha256": "22b84d9fbff619eed3b23496036b65d24c84c5176f004067e029ffa1895a4e73",
+      "supportsItems": [
+        "常州大麻糕",
+        "常州银丝面",
+        "天目湖砂锅鱼头",
+        "常州萝卜干"
+      ]
+    },
+    {
+      "id": "read-02ea6bf73a6929",
+      "url": "https://www.chinanews.com.cn/life/2022/01-20/9657147.shtml",
+      "title": "“包装实丑价格感人” 年轻人买零食都爱淘“工厂店”",
+      "read": true,
+      "evidenceSha256": "3b29bbdb0055384a0f83a375062670f62482372319112b16a5b7ab7559d2d9a4",
+      "supportsItems": [
+        "靖江猪肉脯"
+      ]
+    },
+    {
+      "id": "read-b9fd0d2c452473",
+      "url": "https://www.chinanews.com.cn/sh/2026/02-16/10573342.shtml",
+      "title": "（新春走基层）文旅“头雁”的谈判：没有“网红”咖啡馆也能赢",
+      "read": true,
+      "evidenceSha256": "6ebbcdc65fb05387dea56bac9f5028c4b1b02d5106a319d58cfcf087fc6c2b65",
+      "supportsItems": [
+        "东台鱼汤面"
+      ]
+    },
+    {
+      "id": "read-c65f6a7b2bb7d7",
+      "url": "https://www.chinanews.com.cn/tp/hd2011/2023/11-07/1086198.shtml",
+      "title": "老字号香飘百年 探访江苏省级非遗南通西亭脆饼制作全过程-中新网",
+      "read": true,
+      "evidenceSha256": "05c96b8a7af821b0f18e37b4db7139cf4cff6d2138698125fea862e830fa7a08",
+      "supportsItems": [
+        "西亭脆饼"
+      ]
+    },
+    {
+      "id": "read-52ed9872eed939",
+      "url": "https://www.chinanews.com.cn/cj/2010/08-09/2455739.shtml",
+      "title": "“灌云豆丹”过去是害虫 今日变地方特色美食 ——中新网",
+      "read": true,
+      "evidenceSha256": "e4feb45f4f8dfa5aa018eb92776072d7a2613b7e128ba2abe95f7d33ab6f3099",
+      "supportsItems": [
+        "灌云豆丹"
+      ]
+    },
+    {
+      "id": "read-18174e0d6ad406",
+      "url": "https://www.chinanews.com.cn/cul/2015/02-25/7077746.shtml",
+      "title": "宿迁传统美食车轮饼形似车轮 用冰糖和猪油制成 -中新网",
+      "read": true,
+      "evidenceSha256": "e4457c3b7a0658bc526c8894f6320640b79ef68cc8a1d5525e81f1dce34f0966",
+      "supportsItems": [
+        "宿迁车轮饼"
+      ]
+    },
+    {
+      "id": "read-9f17e4d9b601f4",
+      "url": "https://www.travelchinaguide.com/cityguides/jiangsu/xuzhou/dining.htm",
+      "title": "Xuzhou dining",
+      "read": true,
+      "evidenceSha256": "738933a7d0a5d956381752f594da43f23d61e2b948db297786fe002ea8e696a6",
+      "supportsItems": [
+        "羊方藏鱼",
+        "东坡回赠肉"
+      ]
+    },
+    {
+      "id": "read-df5bec54d1e64b",
+      "url": "https://www.chinanews.com.cn/cj/2021/01-30/9400305.shtml",
+      "title": "我买的不是奶茶，是生活中的甜味剂",
+      "read": true,
+      "evidenceSha256": "3eee839dac7094c1ecbb76883adf411a98d32787301ae128d89315a296538f96",
+      "supportsItems": [
+        "沪上阿姨"
+      ]
+    },
+    {
+      "id": "read-a8f0fa5a441586",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652092.shtml",
+      "title": "从老味道到新国潮 舌尖上的非遗老字号焕新出发-中新网",
+      "read": true,
+      "evidenceSha256": "1dadf279529f6cae8c4429d28210bc4ab0b199915b453e0d220f3a8753899c53",
+      "supportsItems": [
+        "吴裕泰现制茶饮"
+      ]
+    },
+    {
+      "id": "read-2da8d0ef62eb97",
+      "url": "https://www.chinanews.com.cn/sh/2024/02-13/10163408.shtml",
+      "title": "锦绣中国年｜第十届北京非遗大观园活动举办 非遗民俗共贺新春",
+      "read": true,
+      "evidenceSha256": "44762283927367fc1f1835ba8b4b5752b373d87e56e3cf3b7d963e055a28319f",
+      "supportsItems": [
+        "延庆火勺",
+        "永宁豆腐"
+      ]
+    },
+    {
+      "id": "read-b51392f18c5a32",
+      "url": "https://www.chinanews.com.cn/sh/2025/07-14/10447376.shtml",
+      "title": "长城脚下的国风盛典 2025怀柔国潮文化季启幕",
+      "read": true,
+      "evidenceSha256": "2480c0b4703d5979fe847e261bfadfd534d394b875b2a2adcbf9a1028f7dde3d",
+      "supportsItems": [
+        "怀柔虹鳟鱼"
+      ]
+    },
+    {
+      "id": "read-1e3ddca42355af",
+      "url": "https://www.chinanews.com.cn/sh/2024/10-20/10304859.shtml",
+      "title": "（聚焦中国高质量发展）探寻长城脚下“北旮旯”的国际流量密码",
+      "read": true,
+      "evidenceSha256": "2db09547ff1f77800a31a8b098aadb2d0f0f2dc54df40acb239559e528183a8b",
+      "supportsItems": [
+        "怀柔虹鳟鱼",
+        "北沟板栗咖啡"
+      ]
+    },
+    {
+      "id": "read-78f01aa7152260",
+      "url": "https://www.chinanews.com.cn/life/2025/02-09/10365778.shtml",
+      "title": "过年的“甜蜜”藏在这里",
+      "read": true,
+      "evidenceSha256": "2e39eceb06a0980e047cf3f4c5ad67abf443e2e327221132a8e6312dc368ad02",
+      "supportsItems": [
+        "颛桥桶蒸糕"
+      ]
+    },
+    {
+      "id": "read-06707245ba3af2",
+      "url": "https://www.chinanews.com.cn/txy/2026/04-04/10598707.shtml",
+      "title": "香港青年上海崇明行：看生态蝶变 话低空未来",
+      "read": true,
+      "evidenceSha256": "4fd7156186844d2f0c5b92df002f510cfa6a1b114c3555d72dbe1073eb167ccc",
+      "supportsItems": [
+        "崇明糕"
+      ]
+    },
+    {
+      "id": "read-aaa739924123db",
+      "url": "https://www.chinanews.com.cn/sh/2023/07-09/10039559.shtml",
+      "title": "酷暑中遇见“非遗”食俗 上海庄行伏羊节开启“羊肉+烧酒”进补模式",
+      "read": true,
+      "evidenceSha256": "d24571872e9312bcb5bfda0add692789323aac0f0c058c89c7ef0774fa92a66a",
+      "supportsItems": [
+        "庄行白切羊肉"
+      ]
+    },
+    {
+      "id": "read-fde8a15fc63adc",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-23/10591614.shtml",
+      "title": "（乡村行·看振兴）一壶棒棒茶，泡出千年古镇慢时光与新生机",
+      "read": true,
+      "evidenceSha256": "30f693ac475dd7739ba0c83eeda729ab5a540ee86ae99ec66d69c8f6b7775135",
+      "supportsItems": [
+        "临涣棒棒茶"
+      ]
+    },
+    {
+      "id": "read-d2482f41b48162",
+      "url": "https://www.chinanews.com.cn/life/2022/06-17/9782539.shtml",
+      "title": "2022中国地标美食早茶早餐类名录首发",
+      "read": true,
+      "evidenceSha256": "e17029d6157c7efa1b27a9878870ab1a2d1c4c55d0611a1b699b46859418ba6c",
+      "supportsItems": [
+        "芜湖虾籽面",
+        "芜湖小笼汤包",
+        "芜湖酥烧饼",
+        "北京炒肝",
+        "上海生煎包",
+        "南京鸭血粉丝汤",
+        "苏州三虾面",
+        "扬州三丁包",
+        "扬州盐商五丁包",
+        "扬州烫干丝",
+        "杭州小笼包",
+        "济南把子肉"
+      ]
+    },
+    {
+      "id": "read-edf71041b74df9",
+      "url": "https://www.chinanews.com.cn/txy/2026/03-16/10587526.shtml",
+      "title": "山东济宁曲阜：以旅为媒书写各民族交往交流交融新篇",
+      "read": true,
+      "evidenceSha256": "c73895e9254ac5c0aa7120b3420045de8aa7e63aabf80619dc440f356c4d9867",
+      "supportsItems": [
+        "诗礼银杏"
+      ]
+    },
+    {
+      "id": "read-0ff5cc1e7d3c9a",
+      "url": "https://www.chinanews.com.cn/cul/2012/06-19/3972770.shtml",
+      "title": "北洋乞丐将军高三升：因名字吉利得袁世凯青睐",
+      "read": true,
+      "evidenceSha256": "cb1849c8a30565ff4ca003d8a6d473a900f02e5e4d06dd1a2d932c0cf0b9f8b4",
+      "supportsItems": [
+        "滨州锅子饼"
+      ]
+    },
+    {
+      "id": "read-c7c8cf0ef96584",
+      "url": "https://finance.eastmoney.com/a/202607173810478097.html",
+      "title": "合肥新桥“长”出DRAM龙头：打新前夜 长鑫科技12英寸存储器晶圆制造基地二期项目正在建设",
+      "read": true,
+      "evidenceSha256": "d79b15172f1a4ca119555fd1101bc5a33e648be2d2dca7763d9bd3a7d0b973e5",
+      "supportsItems": [
+        "卡旺卡"
+      ]
     }
   ],
   "candidatesNotPublished": [
-    {
-      "id": "sd-mutton-soup",
-      "name": "单县羊肉汤",
-      "province": "shandong",
-      "reason": "来源正文尚未成功读取或主题不符，未发布"
-    },
     {
       "id": "sd-shinho",
       "name": "欣和酱油",
@@ -431,12 +1675,6 @@
       "reason": "来源正文尚未成功读取或主题不符，未发布"
     },
     {
-      "id": "ah-huyumei",
-      "name": "胡玉美蚕豆酱",
-      "province": "anhui",
-      "reason": "来源正文尚未成功读取或主题不符，未发布"
-    },
-    {
       "id": "js-danyang",
       "name": "丹阳黄酒",
       "province": "jiangsu",
@@ -445,12 +1683,6 @@
     {
       "id": "js-cangshu-lamb",
       "name": "藏书羊肉",
-      "province": "jiangsu",
-      "reason": "来源正文尚未成功读取或主题不符，未发布"
-    },
-    {
-      "id": "js-sanhesimei",
-      "name": "三和四美酱菜",
       "province": "jiangsu",
       "reason": "来源正文尚未成功读取或主题不符，未发布"
     },
@@ -473,21 +1705,9 @@
       "reason": "来源正文尚未成功读取或主题不符，未发布"
     },
     {
-      "id": "sh-dingfeng",
-      "name": "鼎丰腐乳",
-      "province": "shanghai",
-      "reason": "来源正文尚未成功读取或主题不符，未发布"
-    },
-    {
       "id": "sh-baoding",
       "name": "宝鼎天鱼糟卤",
       "province": "shanghai",
-      "reason": "来源正文尚未成功读取或主题不符，未发布"
-    },
-    {
-      "id": "sx-gucheng",
-      "name": "古城牛奶",
-      "province": "shanxi",
       "reason": "来源正文尚未成功读取或主题不符，未发布"
     },
     {
@@ -495,6 +1715,30 @@
       "name": "宁化府益源庆醋",
       "province": "shanxi",
       "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "tea-origin-阿水大杯茶",
+      "name": "阿水大杯茶",
+      "province": "shandong",
+      "reason": "已检索品牌线索，但公开材料尚不足以核实品牌发源地；不把分店位置用作发源地。"
+    },
+    {
+      "id": "tea-origin-7分甜",
+      "name": "7分甜",
+      "province": "jiangsu",
+      "reason": "已检索品牌线索，但公开材料尚不足以核实品牌发源地；不把分店位置用作发源地。"
+    },
+    {
+      "id": "tea-origin-百分茶",
+      "name": "百分茶",
+      "province": "jiangsu",
+      "reason": "已检索品牌线索，但公开材料尚不足以核实品牌发源地；不把分店位置用作发源地。"
+    },
+    {
+      "id": "tea-origin-山西本土奶茶品牌",
+      "name": "山西本土奶茶品牌",
+      "province": "shanxi",
+      "reason": "已检索品牌线索，但公开材料尚不足以核实品牌发源地；不把分店位置用作发源地。"
     }
   ],
   "map": {
@@ -504,5 +1748,63 @@
     "boundaryFeatures": 1,
     "sourceSHA256": "99adfeded5223848bbe37a0a12f8023e11ee12161c7800521c27db42fdeac275",
     "svgSHA256": "c50ce919f13321e48b4d9d1c5975b5534538a79abc663cc2b430a1adafaa9fcb"
-  }
+  },
+  "provinceMaps": [
+    {
+      "province": "beijing",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/110000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 16,
+      "sourceSHA256": "7a333e5737d1e69a7e90400874ec908d5cb5c6a8d8efead24c0f137345054d95",
+      "svgSHA256": "7fda0dffa06763e849cce1bc0ad6d7134ce8210c60bedc38e9cd0abd58e1f4e8"
+    },
+    {
+      "province": "shandong",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/370000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 16,
+      "sourceSHA256": "04d600e257db17869aa7fabcfcd6a87a7236791a7f02dd891636f5f58da0133f",
+      "svgSHA256": "b3356efe75218c79a9e1854ae54741e68001f4861e4ca540d61f4e54f8fb79a3"
+    },
+    {
+      "province": "anhui",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/340000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 16,
+      "sourceSHA256": "7ca3290e0458f34086df4d61fa9804e2c624d55dfe5f8f6a841844b5dcd43207",
+      "svgSHA256": "3e8046a90a0b2d17f1d3e89ed211e8a1abccc5799d3d5cb19ad7307b6a9b04ac"
+    },
+    {
+      "province": "jiangsu",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/320000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 13,
+      "sourceSHA256": "6af17f07a3c83bad7d4d552efdd7f59ba8f7574363d1a686f59bc1d0f91733e7",
+      "svgSHA256": "291942b55de5c450a4994aee4e3f341ca54809f854d4452d575afe26a5581d77"
+    },
+    {
+      "province": "zhejiang",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/330000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 11,
+      "sourceSHA256": "f87241d47687264861aa619b8dc37ffeb61a2be5d6018a8c01ec0ce0acb5cb38",
+      "svgSHA256": "296dc6db3b6f99ac3476832dbf2864cab70656bd1657cfb582f6fa0486e995a0"
+    },
+    {
+      "province": "shanghai",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 16,
+      "sourceSHA256": "f699513d5eb63d56350018d90db92345aeefc88c9e4f76197ea405178b6c31ae",
+      "svgSHA256": "594de92181a7995a2d99e6a5f5b24b55c9b29e2b69e0bae7129285c650801f2a"
+    },
+    {
+      "province": "shanxi",
+      "source": "https://geo.datav.aliyun.com/areas_v3/bound/140000_full.json",
+      "retrieved": "2026-11-14",
+      "features": 11,
+      "sourceSHA256": "5da8144cc2d3a6ab6be40a63fd2ed099a33f1deae8e727214542e73f410ff607",
+      "svgSHA256": "410a52bad8e567bc012a1ef4972916114a7bd5a7b8a697f533ffd90a88816651"
+    }
+  ]
 }

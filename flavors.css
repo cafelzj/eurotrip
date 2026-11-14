@@ -73,5 +73,26 @@
 .flavor-load button{font:inherit;font-size:14px;padding:10px 24px;border:1px solid #c9d9ca;border-radius:6px;background:#f3f7ef;color:#3f624b;cursor:pointer}
 .flavor-empty{grid-column:1/-1;padding:30px 15px;text-align:center;border:1px dashed #cbdacb;border-radius:8px;font-size:15px}
 .flavor-editorial-note{margin:25px 0 0;font-size:12px;line-height:1.9;color:#657969}
+.flavor-atlas{display:block}
+.flavor-map-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}
+.flavor-map-pair figure>h2{font-size:17px;line-height:1.5;margin:0 0 9px;color:#345841}
+.flavor-map-pair .flavor-map{height:350px;aspect-ratio:auto;max-width:100%}
+.flavor-map-pair svg{max-height:350px}
+.flavor-map-pair .flavor-province-map svg{height:350px}
+.flavor-map-pair figcaption{min-height:20px}
+.flavor-atlas-source{display:flex;justify-content:space-between;gap:8px 15px;flex-wrap:wrap;font-size:11px;line-height:1.8;color:#657969;margin:9px 0 13px}
+#travelGuide .flavor-atlas-source a{font-size:11px}
+.flavor-province-intro{display:flex;align-items:baseline;gap:10px 15px;margin-top:13px;padding-top:12px;flex-wrap:wrap}
+.flavor-province-intro h2{font-size:16px;margin:0;flex-shrink:0}
+.flavor-province-intro p{font-size:13px;margin:0}
+.flavor-region-shape{fill:#e7eee3;stroke:#fffdf7;stroke-width:1.4;stroke-linejoin:round}
+.flavor-province-map .has-foods .flavor-region-shape{fill:#a9c1a6}
+.flavor-province-map .is-current .flavor-region-shape{fill:#547a5d;stroke:#294e36;stroke-width:2}
+.flavor-province-map a:hover .flavor-region-shape,.flavor-province-map a:focus .flavor-region-shape{fill:#7fa781;stroke:#294e36;stroke-width:2}
+.flavor-region-name{font:16px sans-serif;fill:#25472e;text-anchor:middle;dominant-baseline:middle;paint-order:stroke;stroke:#fbfdf8;stroke-width:2.4;stroke-linejoin:round;pointer-events:none}
+.flavor-region-leader{stroke:#83957c;stroke-width:1;fill:none;pointer-events:none}
+.flavor-map-labels .flavor-region-name{pointer-events:all}
+.flavor-map-labels a:hover .flavor-region-name{text-decoration:underline}
+@media(max-width:700px){.flavor-map-pair{grid-template-columns:minmax(0,1fr);gap:20px}.flavor-map-pair .flavor-map{height:auto;aspect-ratio:860/585}.flavor-map-pair .flavor-province-map{aspect-ratio:600/470}.flavor-map-pair .flavor-province-map svg{height:auto;max-height:330px}.flavor-map-pair figure>h2{font-size:16px}.flavor-atlas-source{font-size:10px}.flavor-province-intro{gap:5px}.flavor-province-intro p{font-size:13px}}
 @media(max-width:1100px){.flavor-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.flavor-atlas{gap:19px;padding:16px}.flavor-provinces nav{gap:6px}.flavor-provinces nav a{font-size:13px;padding:7px 9px}}
 @media(max-width:700px){.flavor-page{padding-top:10px}.flavor-heading{align-items:flex-start;flex-direction:column;gap:8px;margin-bottom:16px}.flavor-heading h1{font-size:27px}.flavor-heading p{font-size:14px}.flavor-heading>span{font-size:12px}.flavor-atlas{grid-template-columns:minmax(0,1fr);gap:17px;padding:13px}.flavor-map{max-width:430px;width:100%}.flavor-atlas figcaption{font-size:10px}.flavor-atlas figcaption a{font-size:10px}.flavor-provinces h2{font-size:17px;margin-bottom:9px}.flavor-provinces nav a{font-size:13px;padding:7px 10px;min-height:40px}.flavor-province-intro{margin-top:13px;padding-top:12px}.flavor-province-intro h2{font-size:16px}.flavor-categories{gap:6px}.flavor-categories button{font-size:13px;padding:7px 9px}.flavor-filter-row{grid-template-columns:minmax(0,1fr) auto;gap:9px 12px}.flavor-search{grid-column:1/-1}.flavor-city select{padding:9px}.flavor-results-heading{margin-top:21px}.flavor-results-heading h2{font-size:18px}.flavor-grid{grid-template-columns:minmax(0,1fr);gap:13px}.flavor-card{padding:14px}.flavor-card>p,.flavor-card-reading>p{font-size:15px}.flavor-card-header>div>span{padding:3px 7px}.flavor-editorial-note{font-size:11px}}
