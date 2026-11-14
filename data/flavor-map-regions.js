@@ -430,5 +430,465 @@ window.flavorMapRegions={
         "adcode": 141100
       }
     ]
+  },
+  "henan": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "郑州",
+        "adcode": 410100
+      },
+      {
+        "name": "开封",
+        "adcode": 410200
+      },
+      {
+        "name": "洛阳",
+        "adcode": 410300
+      },
+      {
+        "name": "平顶山",
+        "adcode": 410400
+      },
+      {
+        "name": "安阳",
+        "adcode": 410500
+      },
+      {
+        "name": "鹤壁",
+        "adcode": 410600
+      },
+      {
+        "name": "新乡",
+        "adcode": 410700
+      },
+      {
+        "name": "焦作",
+        "adcode": 410800
+      },
+      {
+        "name": "濮阳",
+        "adcode": 410900
+      },
+      {
+        "name": "许昌",
+        "adcode": 411000
+      },
+      {
+        "name": "漯河",
+        "adcode": 411100
+      },
+      {
+        "name": "三门峡",
+        "adcode": 411200
+      },
+      {
+        "name": "南阳",
+        "adcode": 411300
+      },
+      {
+        "name": "商丘",
+        "adcode": 411400
+      },
+      {
+        "name": "信阳",
+        "adcode": 411500
+      },
+      {
+        "name": "周口",
+        "adcode": 411600
+      },
+      {
+        "name": "驻马店",
+        "adcode": 411700
+      },
+      {
+        "name": "济源",
+        "adcode": 419001
+      }
+    ]
+  },
+  "hebei": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "石家庄",
+        "adcode": 130100
+      },
+      {
+        "name": "唐山",
+        "adcode": 130200
+      },
+      {
+        "name": "秦皇岛",
+        "adcode": 130300
+      },
+      {
+        "name": "邯郸",
+        "adcode": 130400
+      },
+      {
+        "name": "邢台",
+        "adcode": 130500
+      },
+      {
+        "name": "保定",
+        "adcode": 130600
+      },
+      {
+        "name": "张家口",
+        "adcode": 130700
+      },
+      {
+        "name": "承德",
+        "adcode": 130800
+      },
+      {
+        "name": "沧州",
+        "adcode": 130900
+      },
+      {
+        "name": "廊坊",
+        "adcode": 131000
+      },
+      {
+        "name": "衡水",
+        "adcode": 131100
+      }
+    ]
+  },
+  "hunan": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "长沙",
+        "adcode": 430100
+      },
+      {
+        "name": "株洲",
+        "adcode": 430200
+      },
+      {
+        "name": "湘潭",
+        "adcode": 430300
+      },
+      {
+        "name": "衡阳",
+        "adcode": 430400
+      },
+      {
+        "name": "邵阳",
+        "adcode": 430500
+      },
+      {
+        "name": "岳阳",
+        "adcode": 430600
+      },
+      {
+        "name": "常德",
+        "adcode": 430700
+      },
+      {
+        "name": "张家界",
+        "adcode": 430800
+      },
+      {
+        "name": "益阳",
+        "adcode": 430900
+      },
+      {
+        "name": "郴州",
+        "adcode": 431000
+      },
+      {
+        "name": "永州",
+        "adcode": 431100
+      },
+      {
+        "name": "怀化",
+        "adcode": 431200
+      },
+      {
+        "name": "娄底",
+        "adcode": 431300
+      },
+      {
+        "name": "湘西州",
+        "adcode": 433100
+      }
+    ]
+  },
+  "hubei": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "武汉",
+        "adcode": 420100
+      },
+      {
+        "name": "黄石",
+        "adcode": 420200
+      },
+      {
+        "name": "十堰",
+        "adcode": 420300
+      },
+      {
+        "name": "宜昌",
+        "adcode": 420500
+      },
+      {
+        "name": "襄阳",
+        "adcode": 420600
+      },
+      {
+        "name": "鄂州",
+        "adcode": 420700
+      },
+      {
+        "name": "荆门",
+        "adcode": 420800
+      },
+      {
+        "name": "孝感",
+        "adcode": 420900
+      },
+      {
+        "name": "荆州",
+        "adcode": 421000
+      },
+      {
+        "name": "黄冈",
+        "adcode": 421100
+      },
+      {
+        "name": "咸宁",
+        "adcode": 421200
+      },
+      {
+        "name": "随州",
+        "adcode": 421300
+      },
+      {
+        "name": "恩施州",
+        "adcode": 422800
+      },
+      {
+        "name": "仙桃",
+        "adcode": 429004
+      },
+      {
+        "name": "潜江",
+        "adcode": 429005
+      },
+      {
+        "name": "天门",
+        "adcode": 429006
+      },
+      {
+        "name": "神农架",
+        "adcode": 429021
+      }
+    ]
+  },
+  "fujian": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "福州",
+        "adcode": 350100
+      },
+      {
+        "name": "厦门",
+        "adcode": 350200
+      },
+      {
+        "name": "莆田",
+        "adcode": 350300
+      },
+      {
+        "name": "三明",
+        "adcode": 350400
+      },
+      {
+        "name": "泉州",
+        "adcode": 350500
+      },
+      {
+        "name": "漳州",
+        "adcode": 350600
+      },
+      {
+        "name": "南平",
+        "adcode": 350700
+      },
+      {
+        "name": "龙岩",
+        "adcode": 350800
+      },
+      {
+        "name": "宁德",
+        "adcode": 350900
+      }
+    ]
+  },
+  "liaoning": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "沈阳",
+        "adcode": 210100
+      },
+      {
+        "name": "大连",
+        "adcode": 210200
+      },
+      {
+        "name": "鞍山",
+        "adcode": 210300
+      },
+      {
+        "name": "抚顺",
+        "adcode": 210400
+      },
+      {
+        "name": "本溪",
+        "adcode": 210500
+      },
+      {
+        "name": "丹东",
+        "adcode": 210600
+      },
+      {
+        "name": "锦州",
+        "adcode": 210700
+      },
+      {
+        "name": "营口",
+        "adcode": 210800
+      },
+      {
+        "name": "阜新",
+        "adcode": 210900
+      },
+      {
+        "name": "辽阳",
+        "adcode": 211000
+      },
+      {
+        "name": "盘锦",
+        "adcode": 211100
+      },
+      {
+        "name": "铁岭",
+        "adcode": 211200
+      },
+      {
+        "name": "朝阳",
+        "adcode": 211300
+      },
+      {
+        "name": "葫芦岛",
+        "adcode": 211400
+      }
+    ]
+  },
+  "jilin": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "长春",
+        "adcode": 220100
+      },
+      {
+        "name": "吉林",
+        "adcode": 220200
+      },
+      {
+        "name": "四平",
+        "adcode": 220300
+      },
+      {
+        "name": "辽源",
+        "adcode": 220400
+      },
+      {
+        "name": "通化",
+        "adcode": 220500
+      },
+      {
+        "name": "白山",
+        "adcode": 220600
+      },
+      {
+        "name": "松原",
+        "adcode": 220700
+      },
+      {
+        "name": "白城",
+        "adcode": 220800
+      },
+      {
+        "name": "延边州",
+        "adcode": 222400
+      }
+    ]
+  },
+  "heilongjiang": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "哈尔滨",
+        "adcode": 230100
+      },
+      {
+        "name": "齐齐哈尔",
+        "adcode": 230200
+      },
+      {
+        "name": "鸡西",
+        "adcode": 230300
+      },
+      {
+        "name": "鹤岗",
+        "adcode": 230400
+      },
+      {
+        "name": "双鸭山",
+        "adcode": 230500
+      },
+      {
+        "name": "大庆",
+        "adcode": 230600
+      },
+      {
+        "name": "伊春",
+        "adcode": 230700
+      },
+      {
+        "name": "佳木斯",
+        "adcode": 230800
+      },
+      {
+        "name": "七台河",
+        "adcode": 230900
+      },
+      {
+        "name": "牡丹江",
+        "adcode": 231000
+      },
+      {
+        "name": "黑河",
+        "adcode": 231100
+      },
+      {
+        "name": "绥化",
+        "adcode": 231200
+      },
+      {
+        "name": "大兴安岭",
+        "adcode": 232700
+      }
+    ]
   }
 };

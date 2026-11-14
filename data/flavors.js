@@ -43,6 +43,54 @@ window.flavorCatalog={
       "name": "山西",
       "adcode": 140000,
       "summary": "代县黄酒、清徐陈醋、朔州牛乳与晋北羊肉；沿十一座城市，分别记录蒸肉、熟食、豆制品和地方杂粮面食。"
+    },
+    {
+      "id": "henan",
+      "name": "河南",
+      "adcode": 410000,
+      "summary": "沿黄河与豫南水乡，认识烩面、胡辣汤、地方乳品、酒茶与家常调味。"
+    },
+    {
+      "id": "hebei",
+      "name": "河北",
+      "adcode": 130000,
+      "summary": "从坝上莜面到冀中烧饼，连接地方乳业、果仁饮品、燕赵熟食与酒品。"
+    },
+    {
+      "id": "hunan",
+      "name": "湖南",
+      "adcode": 430000,
+      "summary": "米粉、湖湘菜、山地茶与地方茶饮，按城市保留湖南各地风味。"
+    },
+    {
+      "id": "hubei",
+      "name": "湖北",
+      "adcode": 420000,
+      "summary": "过早面食、湖鲜蒸菜与山地茶区，连同地方乳品、饮品和酿造调味。"
+    },
+    {
+      "id": "fujian",
+      "name": "福建",
+      "adcode": 350000,
+      "summary": "沿山海寻找鱼丸、扁肉、米面与茶香，分别记录品牌、原料产地和地方做法。"
+    },
+    {
+      "id": "liaoning",
+      "name": "辽宁",
+      "adcode": 210000,
+      "summary": "沿辽河、辽东山地与海岸，收录地方乳品、汽水、饺饼、熟食和酿酒。"
+    },
+    {
+      "id": "jilin",
+      "name": "吉林",
+      "adcode": 220000,
+      "summary": "从朝鲜族米面到东北家常菜，记录地方乳品、饮品和粮谷酿造。"
+    },
+    {
+      "id": "heilongjiang",
+      "name": "黑龙江",
+      "adcode": 230000,
+      "summary": "沿松花江与黑土地，认识地方乳品、面食、熟食、饮品和酒。"
     }
   ],
   "categories": [
@@ -5259,6 +5307,2008 @@ window.flavorCatalog={
       "name": "守正宗・玩出新｜祁门红茶：从世界高香礼茶，到年轻人的日常新宠（公开检索正文）",
       "url": "https://newssearch.chinadaily.com.cn/search?query=%E4%B8%80%E5%8F%B6%E8%A7%85%E5%B1%B1",
       "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9c1017760b41b5": {
+      "name": "天气网 · 烩面",
+      "url": "https://www.tianqi.com/meishi/427.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f18cfa44b0d8eb": {
+      "name": "天气网 · 蔡记蒸饺",
+      "url": "https://www.tianqi.com/techan/1592.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-202b7179b33d0f": {
+      "name": "天气网 · 葛记焖饼",
+      "url": "https://www.tianqi.com/techan/1591.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b675992e3a76dd": {
+      "name": "天气网 · 郑州油馍",
+      "url": "https://www.tianqi.com/techan/1569.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-930238afbea1ce": {
+      "name": "天气网 · 炸八块",
+      "url": "https://www.tianqi.com/meishi/2733.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5bea930b7aa03b": {
+      "name": "天气网 · 鲤鱼三吃",
+      "url": "https://www.tianqi.com/meishi/2734.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f536133971bf94": {
+      "name": "天气网 · 双桥酒",
+      "url": "https://www.tianqi.com/meishi/447.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b01deb2d8a311e": {
+      "name": "天气网 · 中牟瓜豆酱",
+      "url": "https://www.tianqi.com/techan/1456.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a6d6ced8781871": {
+      "name": "天气网 · 大隗荷叶饼",
+      "url": "https://www.tianqi.com/techan/1381.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6cdd6873981fc0": {
+      "name": "天气网 · 小笼灌汤包",
+      "url": "https://www.tianqi.com/meishi/448.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c2e127b2fd04ae": {
+      "name": "天气网 · 鲤鱼焙面",
+      "url": "https://www.tianqi.com/meishi/440.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-27b604f274ee46": {
+      "name": "天气网 · 羊肉炕馍",
+      "url": "https://www.tianqi.com/meishi/452.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-54ce17baa40c8d": {
+      "name": "天气网 · 黄焖鱼",
+      "url": "https://www.tianqi.com/meishi/453.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-19dbbb15e406c7": {
+      "name": "天气网 · 桶子鸡",
+      "url": "https://www.tianqi.com/meishi/429.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-08b2047bc68d33": {
+      "name": "天气网 · 杏仁茶",
+      "url": "https://www.tianqi.com/meishi/451.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-65e13653ad4153": {
+      "name": "天气网 · 朱仙镇豆腐干",
+      "url": "https://www.tianqi.com/techan/13181.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1147ddd20724b1": {
+      "name": "天气网 · 沙家酱牛肉",
+      "url": "https://www.tianqi.com/techan/13161.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f1d35b3ade10bc": {
+      "name": "天气网 · 花生糕",
+      "url": "https://www.tianqi.com/techan/13134.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-842aebe2d054e4": {
+      "name": "天气网 · 江米甜酒",
+      "url": "https://www.tianqi.com/techan/13144.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5cecd8209a7f4f": {
+      "name": "天气网 · 杞县酱红萝卜",
+      "url": "https://www.tianqi.com/techan/13048.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fd59ba73f89f64": {
+      "name": "天气网 · 洛阳水席",
+      "url": "https://www.tianqi.com/meishi/454.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2329cba364ae70": {
+      "name": "天气网 · 牡丹燕菜",
+      "url": "https://www.tianqi.com/meishi/455.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9219062f226b4d": {
+      "name": "天气网 · 洛阳不翻汤",
+      "url": "https://www.tianqi.com/meishi/456.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a6d022e3943db7": {
+      "name": "天气网 · 浆面条",
+      "url": "https://www.tianqi.com/meishi/457.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-53d9d0fcfa948f": {
+      "name": "天气网 · 糊涂面",
+      "url": "https://www.tianqi.com/meishi/460.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-67b95b85e0abd5": {
+      "name": "天气网 · 洛阳羊肉汤",
+      "url": "https://www.tianqi.com/meishi/459.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-48ce17fa596493": {
+      "name": "天气网 · 鸡蛋灌饼",
+      "url": "https://www.tianqi.com/techan/12103.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3cd1041dedba75": {
+      "name": "天气网 · 合盛栈元宵",
+      "url": "https://www.tianqi.com/techan/12090.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9cc472cdd60e3f": {
+      "name": "天气网 · 牡丹饼",
+      "url": "https://www.tianqi.com/techan/12073.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-de5cf0b8686946": {
+      "name": "天气网 · 汝阳杜康",
+      "url": "https://www.tianqi.com/techan/12014.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d881c4edb8030e": {
+      "name": "天气网 · 重渡沟柿子醋",
+      "url": "https://www.tianqi.com/techan/11986.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-234ec7dbb366a8": {
+      "name": "天气网 · 火腿肉粽",
+      "url": "https://www.tianqi.com/techan/12574.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8fa24fb0fac1c4": {
+      "name": "天气网 · 鲁山张良姜",
+      "url": "https://www.tianqi.com/techan/12564.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1063754f0c4d42": {
+      "name": "天气网 · 翟集陈醋",
+      "url": "https://www.tianqi.com/techan/12501.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ee69d86731366c": {
+      "name": "天气网 · 宝丰酒",
+      "url": "https://www.tianqi.com/techan/12500.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0767fc2e5f89b6": {
+      "name": "天气网 · 买根烧鸡",
+      "url": "https://www.tianqi.com/techan/12496.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0b363fe465ac37": {
+      "name": "天气网 · 三郎庙茶",
+      "url": "https://www.tianqi.com/techan/12476.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-500d016a3f486d": {
+      "name": "天气网 · 观音堂花椒",
+      "url": "https://www.tianqi.com/techan/12491.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b7ec4bff3e38ff": {
+      "name": "天气网 · 鲁山猕猴桃",
+      "url": "https://www.tianqi.com/techan/12572.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-998449bd29d0cb": {
+      "name": "天气网 · 舞钢红薯",
+      "url": "https://www.tianqi.com/techan/12553.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-43df168f2be9fc": {
+      "name": "天气网 · 汝坟店柿子",
+      "url": "https://www.tianqi.com/techan/12549.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-40b4fcc06e2d1a": {
+      "name": "天气网 · 坡河萝卜",
+      "url": "https://www.tianqi.com/techan/12472.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-81c393d1136c34": {
+      "name": "天气网 · 道口烧鸡",
+      "url": "https://www.tianqi.com/meishi/433.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bd32729454319a": {
+      "name": "天气网 · 皮渣",
+      "url": "https://www.tianqi.com/techan/11671.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-155c05172ecfe5": {
+      "name": "天气网 · 临淇水煎包",
+      "url": "https://www.tianqi.com/techan/11621.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9388cad11b5bab": {
+      "name": "天气网 · 梁庄状馍",
+      "url": "https://www.tianqi.com/techan/11572.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-181a1d740ca494": {
+      "name": "天气网 · 宜沟空心挂面",
+      "url": "https://www.tianqi.com/techan/11493.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-15709412bcd3d4": {
+      "name": "天气网 · 万古羊肉卤",
+      "url": "https://www.tianqi.com/techan/11511.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fd43f25f6948d5": {
+      "name": "天气网 · 彰德陈醋",
+      "url": "https://www.tianqi.com/techan/11707.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8e92dc81fc0333": {
+      "name": "天气网 · 双头黄酒",
+      "url": "https://www.tianqi.com/techan/11488.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5015785f69925e": {
+      "name": "天气网 · 马投涧小磨香油",
+      "url": "https://www.tianqi.com/techan/11683.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-48d126df6a0d88": {
+      "name": "天气网 · 林州茶店柿饼",
+      "url": "https://www.tianqi.com/techan/11596.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-00321e9b3b2597": {
+      "name": "天气网 · 内黄大枣",
+      "url": "https://www.tianqi.com/techan/11581.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3d1ec499ebc722": {
+      "name": "天气网 · 大湖黄酒",
+      "url": "https://www.tianqi.com/techan/14282.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7dbb4c25d745b4": {
+      "name": "天气网 · 僧帽双瓤烧饼",
+      "url": "https://www.tianqi.com/techan/14232.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-42da2119ec712c": {
+      "name": "天气网 · 黑芝麻糍馍馍",
+      "url": "https://www.tianqi.com/techan/14217.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-24f11bba27d26f": {
+      "name": "天气网 · 淇河鲫鱼",
+      "url": "https://www.tianqi.com/techan/14210.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-79b9f4651f3dc7": {
+      "name": "天气网 · 淇河缠丝鸭蛋",
+      "url": "https://www.tianqi.com/techan/14204.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-34fbbeaee1b18a": {
+      "name": "天气网 · 义兴蒋烧鸡",
+      "url": "https://www.tianqi.com/techan/14159.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d292a79fb8d007": {
+      "name": "天气网 · 黎阳贡面",
+      "url": "https://www.tianqi.com/techan/14154.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-facc6239ed435d": {
+      "name": "天气网 · 寺下头吴记花生米",
+      "url": "https://www.tianqi.com/techan/14152.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e336242bb227ee": {
+      "name": "天气网 · 淇河黄小米",
+      "url": "https://www.tianqi.com/techan/14185.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5e7c4697ab35c5": {
+      "name": "天气网 · 淇县竹笋",
+      "url": "https://www.tianqi.com/techan/14207.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1a8472380cd254": {
+      "name": "天气网 · 空心面",
+      "url": "https://www.tianqi.com/techan/11444.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-cc910bd3a8cf06": {
+      "name": "天气网 · 高村粉皮",
+      "url": "https://www.tianqi.com/techan/11425.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7fa339df91c864": {
+      "name": "天气网 · 延津火烧",
+      "url": "https://www.tianqi.com/techan/11358.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6b8957c711732f": {
+      "name": "天气网 · 牛忠喜烧饼",
+      "url": "https://www.tianqi.com/techan/11335.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-774cd2261d7774": {
+      "name": "天气网 · 卫辉杜记牛肉",
+      "url": "https://www.tianqi.com/techan/11321.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f9c7c0cc802016": {
+      "name": "天气网 · 辉县柿子醋",
+      "url": "https://www.tianqi.com/techan/11311.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ed354b5aa9a264": {
+      "name": "天气网 · 原阳黑米醋",
+      "url": "https://www.tianqi.com/techan/11278.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-60a992d7daf224": {
+      "name": "天气网 · 翟记薄荷茶",
+      "url": "https://www.tianqi.com/techan/11449.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c4b0ed338ccba0": {
+      "name": "天气网 · 封丘树莓",
+      "url": "https://www.tianqi.com/techan/11366.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-22d8f3748919ca": {
+      "name": "天气网 · 原阳大米",
+      "url": "https://www.tianqi.com/techan/11274.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-64a94da9b44bba": {
+      "name": "天气网 · 辉县香稻",
+      "url": "https://www.tianqi.com/techan/11316.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1d616c6be674b4": {
+      "name": "天气网 · 靳贤书烧饼",
+      "url": "https://www.tianqi.com/techan/13289.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b01acc4efa8fa7": {
+      "name": "天气网 · 马记烧鸡",
+      "url": "https://www.tianqi.com/techan/13270.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8fd078d120cc98": {
+      "name": "天气网 · 武陟油茶",
+      "url": "https://www.tianqi.com/techan/13233.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c68260052e383b": {
+      "name": "天气网 · 山药酥",
+      "url": "https://www.tianqi.com/techan/13312.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7cde0ec55a0187": {
+      "name": "天气网 · 焦作柿饼",
+      "url": "https://www.tianqi.com/techan/13313.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-91c9d885212e95": {
+      "name": "天气网 · 怀府珍珠菊",
+      "url": "https://www.tianqi.com/techan/13215.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a799f02e7a5f4d": {
+      "name": "天气网 · 博爱冬凌茶",
+      "url": "https://www.tianqi.com/techan/13267.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-dd6a0c9ef2f37b": {
+      "name": "天气网 · 铁棍山药",
+      "url": "https://www.tianqi.com/techan/13278.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-227a977e520e18": {
+      "name": "天气网 · 清化姜",
+      "url": "https://www.tianqi.com/techan/13273.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6f82db60aa16f8": {
+      "name": "天气网 · 马宣寨大米",
+      "url": "https://www.tianqi.com/techan/13210.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f6fccaa8be5754": {
+      "name": "天气网 · 博爱八月黄",
+      "url": "https://www.tianqi.com/techan/13265.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-4218e06d21b6c9": {
+      "name": "天气网 · “六百居”香肠",
+      "url": "https://www.tianqi.com/techan/13719.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-af39c3c19e2f1f": {
+      "name": "天气网 · 张氏烧鸡",
+      "url": "https://www.tianqi.com/techan/13702.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ffc7c603425570": {
+      "name": "天气网 · 南乐芝麻糖",
+      "url": "https://www.tianqi.com/techan/13687.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0527c5017e1d43": {
+      "name": "天气网 · 河街腐竹",
+      "url": "https://www.tianqi.com/techan/14142.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7e45893a892f84": {
+      "name": "天气网 · 百子寿桃",
+      "url": "https://www.tianqi.com/techan/14053.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-954e4d2249f954": {
+      "name": "天气网 · 陈化店矿泉水",
+      "url": "https://www.tianqi.com/techan/14049.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-980131025624f2": {
+      "name": "天气网 · 胡辣汤",
+      "url": "https://www.tianqi.com/meishi/458.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-880ae87dc747ab": {
+      "name": "天气网 · 郾城豆腐盒",
+      "url": "https://www.tianqi.com/techan/14018.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0d543d46122f27": {
+      "name": "天气网 · 贾湖酒",
+      "url": "https://www.tianqi.com/techan/13988.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-609af8d1094bb5": {
+      "name": "天气网 · 五香面豆",
+      "url": "https://www.tianqi.com/techan/13957.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0eaf3bcb2b65a3": {
+      "name": "天气网 · 大营麻花",
+      "url": "https://www.tianqi.com/techan/13937.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-847ce50b78795d": {
+      "name": "天气网 · 仰韶酒",
+      "url": "https://www.tianqi.com/techan/13817.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-07c8017edc490d": {
+      "name": "天气网 · 脂油烧饼",
+      "url": "https://www.tianqi.com/techan/13764.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-84fc67e74ce88d": {
+      "name": "天气网 · 博望锅盔",
+      "url": "https://www.tianqi.com/techan/11245.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-90a7a9d1fe99d2": {
+      "name": "天气网 · 桐柏豆筋",
+      "url": "https://www.tianqi.com/techan/11223.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2e9ec2bdc464db": {
+      "name": "天气网 · 桐柏红",
+      "url": "https://www.tianqi.com/techan/11212.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2eff84dce644f0": {
+      "name": "天气网 · 桐柏玉叶茶",
+      "url": "https://www.tianqi.com/techan/11207.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ec93c1d087b5f3": {
+      "name": "天气网 · 刘集黄酒",
+      "url": "https://www.tianqi.com/techan/11178.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b569ba03b6f8fc": {
+      "name": "天气网 · 界中米醋",
+      "url": "https://www.tianqi.com/techan/11248.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-456319ccf01d37": {
+      "name": "天气网 · 镇平烧鸡",
+      "url": "https://www.tianqi.com/techan/11096.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-641d15edde8ace": {
+      "name": "天气网 · 郭家水煎包",
+      "url": "https://www.tianqi.com/techan/13016.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-efb990741a048d": {
+      "name": "天气网 · 大有丰酱菜",
+      "url": "https://www.tianqi.com/techan/13021.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e7c2220b460c87": {
+      "name": "天气网 · 皇沟御酒",
+      "url": "https://www.tianqi.com/techan/12989.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7d2994f0be2e95": {
+      "name": "天气网 · 张弓酒",
+      "url": "https://www.tianqi.com/techan/12906.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6afca6f0d6ee7f": {
+      "name": "天气网 · 陈店麻花",
+      "url": "https://www.tianqi.com/techan/12838.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8af77b226534ec": {
+      "name": "天气网 · 民权葡萄酒",
+      "url": "https://www.tianqi.com/techan/12808.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8753e8d34b283c": {
+      "name": "天气网 · 信阳毛尖",
+      "url": "https://www.tianqi.com/techan/12442.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a00fdcfd528329": {
+      "name": "天气网 · 金刚碧绿茶",
+      "url": "https://www.tianqi.com/techan/12396.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7ca640baec3072": {
+      "name": "天气网 · 商城烟熏腊肉",
+      "url": "https://www.tianqi.com/techan/12366.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e138c7463d066f": {
+      "name": "天气网 · 商城烧饼",
+      "url": "https://www.tianqi.com/techan/12358.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7dd85d1a944087": {
+      "name": "天气网 · 商城发糕",
+      "url": "https://www.tianqi.com/techan/12356.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b2b16aaada9bdd": {
+      "name": "天气网 · 固始糍粑",
+      "url": "https://www.tianqi.com/techan/12330.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-84897065c035e0": {
+      "name": "天气网 · 双柳板鸭",
+      "url": "https://www.tianqi.com/techan/12279.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f3a9c7331ea392": {
+      "name": "天气网 · 板栗汁",
+      "url": "https://www.tianqi.com/techan/12270.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7259feed88c3f6": {
+      "name": "天气网 · 潢川空心贡面",
+      "url": "https://www.tianqi.com/techan/12262.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-014681e2bbc42c": {
+      "name": "天气网 · 宋河粮液酒",
+      "url": "https://www.tianqi.com/techan/12735.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-83c1586add34e3": {
+      "name": "天气网 · 孔集烧鸡",
+      "url": "https://www.tianqi.com/techan/12727.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e9a2fb6d3806b1": {
+      "name": "天气网 · 观堂麻片",
+      "url": "https://www.tianqi.com/techan/12715.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b188a0e8508805": {
+      "name": "天气网 · 郸城张集熏鸡",
+      "url": "https://www.tianqi.com/techan/12696.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6fa248f7265241": {
+      "name": "天气网 · 酱黄花菜",
+      "url": "https://www.tianqi.com/techan/12580.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2d896e889e3523": {
+      "name": "天气网 · 王勿桥伏陈醋",
+      "url": "https://www.tianqi.com/techan/13583.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0b37acd8143685": {
+      "name": "天气网 · 水上漂酱菜",
+      "url": "https://www.tianqi.com/techan/13519.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0a306769047986": {
+      "name": "天气网 · 野里烧饼",
+      "url": "https://www.tianqi.com/techan/13514.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fc2b1ee551282a": {
+      "name": "天气网 · 平舆小磨香油",
+      "url": "https://www.tianqi.com/techan/13501.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-de10b5befc1c45": {
+      "name": "天气网 · 泌阳五香驴肉",
+      "url": "https://www.tianqi.com/techan/13479.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d79e0a58bdbdd6": {
+      "name": "天气网 · 汝南鸡汁豆腐干",
+      "url": "https://www.tianqi.com/techan/13427.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e92a89da9c51b3": {
+      "name": "天气网 · 汝南马蹄馓子",
+      "url": "https://www.tianqi.com/techan/13416.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9907d4049deb46": {
+      "name": "天气网 · 济源土馍",
+      "url": "https://www.tianqi.com/techan/14255.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2fc83b4b657341": {
+      "name": "天气网 · 济源玉皇李",
+      "url": "https://www.tianqi.com/techan/14236.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ef086d770825c9": {
+      "name": "天气网 · 金凤扒鸡",
+      "url": "https://www.tianqi.com/meishi/1763.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-055f1232c21b09": {
+      "name": "天气网 · 正定八大碗",
+      "url": "https://www.tianqi.com/meishi/1565.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d98da2cb6d8ef3": {
+      "name": "天气网 · 金毛狮子鱼",
+      "url": "https://www.tianqi.com/meishi/1766.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b8b5aee9eb0311": {
+      "name": "天气网 · 藁城宫面",
+      "url": "https://www.tianqi.com/meishi/233.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e209d01f8e82ee": {
+      "name": "天气网 · 缸炉烧饼",
+      "url": "https://www.tianqi.com/meishi/235.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6692c8db371a6a": {
+      "name": "天气网 · 棋子烧饼",
+      "url": "https://www.tianqi.com/meishi/1777.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-48e8e181c4ae54": {
+      "name": "天气网 · 唐山麻糖",
+      "url": "https://www.tianqi.com/meishi/1775.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b681db44876317": {
+      "name": "天气网 · 咯扎",
+      "url": "https://www.tianqi.com/meishi/1773.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d70ecb61fba7de": {
+      "name": "天气网 · 唐山懒豆腐",
+      "url": "https://www.tianqi.com/meishi/1778.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f0f1cd4e67982a": {
+      "name": "天气网 · 唐山虾酱",
+      "url": "https://www.tianqi.com/meishi/3169.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-49b3ba4110fbd5": {
+      "name": "天气网 · 老二位麻酱烧饼",
+      "url": "https://www.tianqi.com/meishi/1789.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-40e4ca82f504e9": {
+      "name": "天气网 · 杨长子火腿肠",
+      "url": "https://www.tianqi.com/meishi/1788.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2b0a4f29eedb7a": {
+      "name": "天气网 · 昌黎葡萄酒",
+      "url": "https://www.tianqi.com/techan/15328.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fad2b98882f6ed": {
+      "name": "天气网 · 粉鸽子",
+      "url": "https://www.tianqi.com/meishi/1786.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5ea240556ec860": {
+      "name": "天气网 · 二毛烧鸡",
+      "url": "https://www.tianqi.com/meishi/1802.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-deef12fee8da65": {
+      "name": "天气网 · 五百居香肠",
+      "url": "https://www.tianqi.com/meishi/1799.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c7e94ec7133054": {
+      "name": "天气网 · 武安拽面",
+      "url": "https://www.tianqi.com/meishi/1798.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-22953d97815ca9": {
+      "name": "天气网 · 永年驴肉灌肠",
+      "url": "https://www.tianqi.com/meishi/1795.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7724b581c20b9d": {
+      "name": "天气网 · 邯郸丛台酒",
+      "url": "https://www.tianqi.com/techan/14072.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-17af0dd8fec465": {
+      "name": "天气网 · 任县老炒肉",
+      "url": "https://www.tianqi.com/meishi/3172.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2f44207ca54805": {
+      "name": "天气网 · 威县火烧",
+      "url": "https://www.tianqi.com/meishi/1820.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-11808bf65b589f": {
+      "name": "天气网 · 南宫熏菜",
+      "url": "https://www.tianqi.com/meishi/1819.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-837c61ae68303c": {
+      "name": "天气网 · 驴肉火烧",
+      "url": "https://www.tianqi.com/meishi/232.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d92892fffa433f": {
+      "name": "天气网 · 白肉罩火烧",
+      "url": "https://www.tianqi.com/meishi/2458.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ce97b2688dbe07": {
+      "name": "天气网 · 高碑店豆腐丝",
+      "url": "https://www.tianqi.com/meishi/1824.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5e57ba2c45454d": {
+      "name": "天气网 · 蔚县八大碗",
+      "url": "https://www.tianqi.com/meishi/3160.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d035103a987ab8": {
+      "name": "天气网 · 宣化油面窝窝",
+      "url": "https://www.tianqi.com/meishi/3127.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0a57a7a1a0069a": {
+      "name": "天气网 · 柴沟堡熏肉",
+      "url": "https://www.tianqi.com/meishi/1770.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8f7a4830370876": {
+      "name": "天气网 · 烧南北",
+      "url": "https://www.tianqi.com/meishi/245.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ae4b3facf3d831": {
+      "name": "天气网 · 都山水豆腐",
+      "url": "https://www.tianqi.com/meishi/3165.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9d98b402ad7eaf": {
+      "name": "天气网 · 八沟羊汤",
+      "url": "https://www.tianqi.com/meishi/3148.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2b778af79fc2b0": {
+      "name": "天气网 · 改刀肉",
+      "url": "https://www.tianqi.com/meishi/3147.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fa5e62f270d6d1": {
+      "name": "天气网 · 拨御面",
+      "url": "https://www.tianqi.com/meishi/3144.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b1e394bd10d1a5": {
+      "name": "天气网 · 河间驴肉火烧",
+      "url": "https://www.tianqi.com/meishi/1868.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8012a4865289df": {
+      "name": "天气网 · 沧州火锅鸡",
+      "url": "https://www.tianqi.com/meishi/3130.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c843154c7f0e71": {
+      "name": "天气网 · 金丝杂面丝",
+      "url": "https://www.tianqi.com/meishi/3129.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a7f363637b2fcc": {
+      "name": "天气网 · 沧州冬菜",
+      "url": "https://www.tianqi.com/techan/15119.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-82ddf178ed0d20": {
+      "name": "天气网 · 香河肉饼",
+      "url": "https://www.tianqi.com/meishi/1897.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-32172c46a3b677": {
+      "name": "天气网 · 文安熬鱼",
+      "url": "https://www.tianqi.com/meishi/3155.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-04dc81c6a0c032": {
+      "name": "天气网 · 永清胡记烧鸡",
+      "url": "https://www.tianqi.com/meishi/1902.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-511d3554f3184d": {
+      "name": "天气网 · 三河豆腐丝",
+      "url": "https://www.tianqi.com/meishi/1827.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5061d8dab59878": {
+      "name": "天气网 · 武邑扣碗",
+      "url": "https://www.tianqi.com/meishi/3131.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bbe8d1e7d3a1ef": {
+      "name": "天气网 · 鞋底儿烧饼",
+      "url": "https://www.tianqi.com/meishi/1925.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-49f32412c5bc6b": {
+      "name": "天气网 · 饶阳豆腐脑",
+      "url": "https://www.tianqi.com/meishi/1924.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5ffff541dc8078": {
+      "name": "天气网 · 衡水老白干",
+      "url": "https://www.tianqi.com/techan/16490.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e4f95c42ae4b8e": {
+      "name": "天气网 · 辣椒炒肉",
+      "url": "https://www.tianqi.com/meishi/787.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6edbe21012e453": {
+      "name": "天气网 · 剁椒鱼头",
+      "url": "https://www.tianqi.com/meishi/785.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5231b845b2e5c5": {
+      "name": "天气网 · 口味虾",
+      "url": "https://www.tianqi.com/meishi/783.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b3f7169e105cd0": {
+      "name": "天气网 · 臭豆腐",
+      "url": "https://www.tianqi.com/meishi/782.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-062ba9b5af3bcf": {
+      "name": "天气网 · 高桥银峰茶",
+      "url": "https://www.tianqi.com/techan/973.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-997d19b9d64c49": {
+      "name": "天气网 · 艾叶米果",
+      "url": "https://www.tianqi.com/techan/10804.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-664d982aff3a19": {
+      "name": "天气网 · 唐人神香肠",
+      "url": "https://www.tianqi.com/techan/10772.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5a4f75c39be05c": {
+      "name": "天气网 · 攸县米粉",
+      "url": "https://www.tianqi.com/techan/10610.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-39b2dc725b3a9b": {
+      "name": "天气网 · 攸县豆腐",
+      "url": "https://www.tianqi.com/techan/10616.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-27e1ddcd5e735c": {
+      "name": "天气网 · 湘潭灯芯糕",
+      "url": "https://www.tianqi.com/techan/10905.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9ab6e6e0269cb9": {
+      "name": "天气网 · 龙牌酱油",
+      "url": "https://www.tianqi.com/techan/10900.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9d7bb8f0387f2d": {
+      "name": "天气网 · 油粑粑",
+      "url": "https://www.tianqi.com/techan/10889.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8c90f4cc4ac697": {
+      "name": "天气网 · 湘乡烘糕",
+      "url": "https://www.tianqi.com/techan/10885.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7c368ff1038c46": {
+      "name": "天气网 · 酥薄饼",
+      "url": "https://www.tianqi.com/techan/10588.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bfb088b2b80838": {
+      "name": "天气网 · 耒阳盐藠头",
+      "url": "https://www.tianqi.com/techan/10527.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5100410b6444c9": {
+      "name": "天气网 · 耒阳油茶",
+      "url": "https://www.tianqi.com/techan/10510.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fe7ec6bc307962": {
+      "name": "天气网 · 西渡湖之酒",
+      "url": "https://www.tianqi.com/techan/10430.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-667b5c52d65814": {
+      "name": "天气网 · 武冈猪血饼",
+      "url": "https://www.tianqi.com/techan/9896.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-cb51407ffab394": {
+      "name": "天气网 · 武冈卤豆腐",
+      "url": "https://www.tianqi.com/techan/9894.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c31accd1d4aebf": {
+      "name": "天气网 · 武冈卤铜鹅",
+      "url": "https://www.tianqi.com/techan/9890.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f425f6c0c4f090": {
+      "name": "天气网 · 武冈空饼",
+      "url": "https://www.tianqi.com/techan/9899.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9b263db8eba2a7": {
+      "name": "天气网 · 张谷英油豆腐",
+      "url": "https://www.tianqi.com/techan/11595.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7ecc98d3b47e75": {
+      "name": "天气网 · 长乐甜酒",
+      "url": "https://www.tianqi.com/techan/11421.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a8739bf8586db5": {
+      "name": "天气网 · 临湘黑茶",
+      "url": "https://www.tianqi.com/techan/11542.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-4c74ffb13d7776": {
+      "name": "天气网 · 常德酱板鸭",
+      "url": "https://www.tianqi.com/techan/10270.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e89cdaac51026e": {
+      "name": "天气网 · 武陵酒",
+      "url": "https://www.tianqi.com/techan/10276.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-87746ba470fc01": {
+      "name": "天气网 · 石门银峰",
+      "url": "https://www.tianqi.com/techan/10208.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bd0007aa95d729": {
+      "name": "天气网 · 土家三下锅",
+      "url": "https://www.tianqi.com/meishi/793.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7d15ce304a2d16": {
+      "name": "天气网 · 葛根粉炒肉",
+      "url": "https://www.tianqi.com/meishi/797.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bdefa83c1eea74": {
+      "name": "天气网 · 茅岩莓茶",
+      "url": "https://www.tianqi.com/techan/12834.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0a2ce29f1fd2af": {
+      "name": "天气网 · 青岩茗翠",
+      "url": "https://www.tianqi.com/techan/12706.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-344956074a4dea": {
+      "name": "天气网 · 益阳排糖",
+      "url": "https://www.tianqi.com/techan/12632.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6fd44be6fcb64f": {
+      "name": "天气网 · 金花腐乳",
+      "url": "https://www.tianqi.com/techan/12628.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-153abfc3a80c74": {
+      "name": "天气网 · 安化黑茶",
+      "url": "https://www.tianqi.com/techan/12480.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e18b0d20566e71": {
+      "name": "天气网 · 安化红茶",
+      "url": "https://www.tianqi.com/techan/12602.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1ec811bda7ad92": {
+      "name": "天气网 · ​临武鸭",
+      "url": "https://www.tianqi.com/meishi/2757.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-08e3f4bc75adc8": {
+      "name": "天气网 · 桂东板鸭",
+      "url": "https://www.tianqi.com/techan/12272.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3bc677881d3b7b": {
+      "name": "天气网 · 桂东玲珑茶",
+      "url": "https://www.tianqi.com/techan/12253.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-13b73fc66d967c": {
+      "name": "天气网 · 东江鱼",
+      "url": "https://www.tianqi.com/techan/12130.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9e7f515f18c36f": {
+      "name": "天气网 · 东安鸡",
+      "url": "https://www.tianqi.com/techan/11032.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fa5cb4af76da07": {
+      "name": "天气网 · 零陵板鸭",
+      "url": "https://www.tianqi.com/techan/11277.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2d7c180216dc38": {
+      "name": "天气网 · 江华茶油腐乳",
+      "url": "https://www.tianqi.com/techan/11273.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e945c0a0c3e271": {
+      "name": "天气网 · 蓝山黑糊酒",
+      "url": "https://www.tianqi.com/techan/11164.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-85a7c2efbfc53e": {
+      "name": "天气网 · 芷江鸭",
+      "url": "https://www.tianqi.com/techan/11902.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bf054dd5710393": {
+      "name": "天气网 · 溆浦糍粑",
+      "url": "https://www.tianqi.com/techan/11922.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f8a71f0abf14b7": {
+      "name": "天气网 · 新晃锅巴粉",
+      "url": "https://www.tianqi.com/techan/11889.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-986f21339c934a": {
+      "name": "天气网 · 碣滩茶",
+      "url": "https://www.tianqi.com/techan/11681.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-feffc8ea24a0ec": {
+      "name": "天气网 · 富田桥豆腐",
+      "url": "https://www.tianqi.com/techan/12439.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-28f3b75c2e2f5a": {
+      "name": "天气网 · 新化水酒",
+      "url": "https://www.tianqi.com/techan/12411.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5e5190ac622a35": {
+      "name": "天气网 · 枫木贡茶",
+      "url": "https://www.tianqi.com/techan/12445.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3dc9c14d075799": {
+      "name": "天气网 · 永丰辣酱",
+      "url": "https://www.tianqi.com/techan/12302.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e205ae7cae7e3f": {
+      "name": "天气网 · 古丈毛尖",
+      "url": "https://www.tianqi.com/techan/13020.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-8b7b53ae6780ab": {
+      "name": "天气网 · 保靖黄金茶",
+      "url": "https://www.tianqi.com/techan/12965.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-e8175f18a914fb": {
+      "name": "天气网 · 茶峒碗儿糕",
+      "url": "https://www.tianqi.com/techan/13165.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-30c5895f660811": {
+      "name": "天气网 · 洗车河霉豆腐",
+      "url": "https://www.tianqi.com/techan/13156.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-2cf632bd4fe90e": {
+      "name": "天气网 · 热干面",
+      "url": "https://www.tianqi.com/meishi/575.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ae2a65d316d18d": {
+      "name": "天气网 · 三鲜豆皮",
+      "url": "https://www.tianqi.com/meishi/577.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d2d9e36ca9d10d": {
+      "name": "天气网 · 四季美汤包",
+      "url": "https://www.tianqi.com/meishi/474.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-fdfa18e9750e2d": {
+      "name": "天气网 · 面窝",
+      "url": "https://www.tianqi.com/meishi/583.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6c5163334da706": {
+      "name": "天气网 · 排骨莲藕汤",
+      "url": "https://www.tianqi.com/meishi/586.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-983e29c674dca9": {
+      "name": "天气网 · 糊米酒",
+      "url": "https://www.tianqi.com/meishi/585.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-b7157bf9f79afb": {
+      "name": "天气网 · 黄石港饼",
+      "url": "https://www.tianqi.com/techan/9325.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-388c533530ee4f": {
+      "name": "天气网 · 黄石炸糍粑",
+      "url": "https://www.tianqi.com/techan/9323.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0a66074b474d28": {
+      "name": "天气网 · 西塞山中国劲酒",
+      "url": "https://www.tianqi.com/techan/9314.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-dac5588d65e237": {
+      "name": "天气网 · 茅箭浆耙儿馍",
+      "url": "https://www.tianqi.com/techan/10445.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-0ae01db9df64d8": {
+      "name": "天气网 · 武当道茶",
+      "url": "https://www.tianqi.com/techan/10340.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-4f6018232a71e6": {
+      "name": "天气网 · 房县黄酒",
+      "url": "https://www.tianqi.com/techan/9710.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a09fbd3fc99d15": {
+      "name": "天气网 · 三游神仙鸡",
+      "url": "https://www.tianqi.com/meishi/603.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-640b4b68c3a7a2": {
+      "name": "天气网 · 炕洋芋",
+      "url": "https://www.tianqi.com/meishi/600.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7d93e1331c7d26": {
+      "name": "天气网 · 宜红茶",
+      "url": "https://www.tianqi.com/meishi/605.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-adef1b136fbf24": {
+      "name": "天气网 · 邓村绿茶",
+      "url": "https://www.tianqi.com/techan/11551.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3cdf3edba6a735": {
+      "name": "天气网 · 枝江大曲",
+      "url": "https://www.tianqi.com/techan/11412.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1f4835c4fd1aca": {
+      "name": "天气网 · 金刚酥",
+      "url": "https://www.tianqi.com/techan/14345.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-da93b9f8b49763": {
+      "name": "天气网 · 襄樊大头菜",
+      "url": "https://www.tianqi.com/techan/14340.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-13f8160c1fa5aa": {
+      "name": "天气网 · 石花大曲",
+      "url": "https://www.tianqi.com/techan/12383.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f2583ffde52a6b": {
+      "name": "天气网 · 鄂州武昌鱼",
+      "url": "https://www.tianqi.com/techan/14570.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-aa9276db646b15": {
+      "name": "天气网 · 周屴板鸭",
+      "url": "https://www.tianqi.com/techan/14509.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f85aff85e5d317": {
+      "name": "天气网 · 小磨香麻油",
+      "url": "https://www.tianqi.com/techan/14573.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f38d1b60058373": {
+      "name": "天气网 · 茶花点心太师饼",
+      "url": "https://www.tianqi.com/techan/14866.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-7407c354c86579": {
+      "name": "天气网 · 八角雪枣",
+      "url": "https://www.tianqi.com/techan/14860.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-806054ca603741": {
+      "name": "天气网 · 长湖鱼糕",
+      "url": "https://www.tianqi.com/techan/14818.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-924270b89f7cdc": {
+      "name": "天气网 · 孝感麻糖",
+      "url": "https://www.tianqi.com/meishi/591.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1562b50ae27228": {
+      "name": "天气网 · 孝感米酒",
+      "url": "https://www.tianqi.com/techan/15044.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-4655b9a4e59c4e": {
+      "name": "天气网 · 应城豆皮",
+      "url": "https://www.tianqi.com/techan/14999.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-df5cbe9023e95b": {
+      "name": "天气网 · 荆州小胡鸭",
+      "url": "https://www.tianqi.com/techan/15557.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-643072685b8c2c": {
+      "name": "天气网 · 沙市豆瓣酱",
+      "url": "https://www.tianqi.com/techan/15548.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3a19475b68eb22": {
+      "name": "天气网 · 洪湖莲藕",
+      "url": "https://www.tianqi.com/techan/15470.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-d4079eb1be9aaa": {
+      "name": "天气网 · 软萩粑",
+      "url": "https://www.tianqi.com/techan/16074.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-bca3161cecb84d": {
+      "name": "天气网 · 黄州东坡饼",
+      "url": "https://www.tianqi.com/techan/16062.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a46410fcc0c626": {
+      "name": "天气网 · 黄梅鱼面",
+      "url": "https://www.tianqi.com/techan/15850.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ee55a232a5451a": {
+      "name": "天气网 · 咸安桂花酥糖",
+      "url": "https://www.tianqi.com/techan/15825.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a201f9b8bca3a1": {
+      "name": "天气网 · 通山粑砣",
+      "url": "https://www.tianqi.com/techan/15820.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-5a3c19ae7d4239": {
+      "name": "天气网 · 羊楼洞砖茶",
+      "url": "https://www.tianqi.com/techan/15703.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-777fab34b6161a": {
+      "name": "天气网 · 广水酸白菜",
+      "url": "https://www.tianqi.com/techan/15493.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-6a4005f5ee9b45": {
+      "name": "天气网 · 广水奎面",
+      "url": "https://www.tianqi.com/techan/15487.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1cb6af0f54a5a3": {
+      "name": "天气网 · 随州泡泡青",
+      "url": "https://www.tianqi.com/techan/15398.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-a5bbe46760d7a8": {
+      "name": "天气网 · 张关合渣",
+      "url": "https://www.tianqi.com/meishi/2643.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-63bd1e26425902": {
+      "name": "天气网 · 榨广椒",
+      "url": "https://www.tianqi.com/meishi/2639.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-f5eebe65062c22": {
+      "name": "天气网 · 柏杨豆干",
+      "url": "https://www.tianqi.com/meishi/2638.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-ccb8477bfccb8d": {
+      "name": "天气网 · 利川红 ",
+      "url": "https://www.tianqi.com/techan/15222.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-3853464c05d9ad": {
+      "name": "天气网 · 仙桃红庙酥饼",
+      "url": "https://www.tianqi.com/techan/14848.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-37f5c6f9559905": {
+      "name": "天气网 · 仙桃塌豆饼",
+      "url": "https://www.tianqi.com/techan/14845.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-c494aece641228": {
+      "name": "天气网 · 潜江福寿饼",
+      "url": "https://www.tianqi.com/techan/14686.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-00e1f62faa6b56": {
+      "name": "天气网 · 潜江米茶 ",
+      "url": "https://www.tianqi.com/techan/14683.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-1d502684cb1568": {
+      "name": "天气网 · 天门锅盔",
+      "url": "https://www.tianqi.com/techan/14677.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-9da50f6982f923": {
+      "name": "天气网 · 木鱼绿茶",
+      "url": "https://www.tianqi.com/techan/14559.html",
+      "publisher": "天气网美食与特产频道",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "six-908f0acc79021a": {
+      "name": "天气网 · 神农架腊肉",
+      "url": "https://www.tianqi.com/techan/14552.html",
+      "publisher": "天气网美食与特产频道",
       "kind": "reference",
       "checked": "2026-11-14"
     }
@@ -17484,6 +19534,3908 @@ window.flavorCatalog={
       "detail": "2026年祁门红茶活动报道明确将一叶觅山称为合肥本土品牌，并介绍联名茶点与特调。品牌关联城市与祁门红茶原料产区分别记录。",
       "sources": [
         "brand-e620827ae239"
+      ]
+    },
+    {
+      "id": "flavor-henan-616e40800e",
+      "province": "henan",
+      "city": "郑州",
+      "name": "烩面",
+      "type": "staples",
+      "kind": "羊汤抻面",
+      "description": "郑州烩面把醒好的麦面坯抻成宽薄面条，配羊肉汤、肉片与蔬菜，面筋、汤鲜，是当地日常主食。",
+      "detail": "黄花菜、木耳、粉条等让一碗面有多种质地，香菜、辣椒油和糖蒜又提供不同的搭配味道。",
+      "sources": [
+        "six-9c1017760b41b5"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-henan-46ed6507f3",
+      "province": "henan",
+      "city": "郑州",
+      "name": "蔡记蒸饺",
+      "type": "staples",
+      "kind": "薄皮灌汤蒸饺",
+      "description": "蔡记蒸饺与郑州地方店号相连，面皮较薄、色微黄，蒸熟后馅料饱满，肉香与汤汁在薄皮内结合。",
+      "detail": "包制、收口和蒸制火候共同影响皮馅口感，成品外形整齐、表面有光泽，属于蒸食而非水煮饺子。",
+      "sources": [
+        "six-f18cfa44b0d8eb"
+      ]
+    },
+    {
+      "id": "flavor-henan-7955eb15b3",
+      "province": "henan",
+      "city": "郑州",
+      "name": "葛记焖饼",
+      "type": "staples",
+      "kind": "坛子肉焖饼",
+      "description": "葛记焖饼把饼条、坛子肉与高汤同焖，锅底配青菜，饼吸收肉汤后柔软入味，是郑州具名面食。",
+      "detail": "坛子肉带来醇厚肉香，青菜与饼条又形成不同质地；“焖”让汤汁进入面饼，是这项食品的工艺特点。",
+      "sources": [
+        "six-202b7179b33d0f"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-80a1bb6da1",
+      "province": "henan",
+      "city": "郑州",
+      "name": "郑州油馍",
+      "type": "staples",
+      "kind": "葱香油煎面饼",
+      "description": "郑州油馍以麦面配葱、花椒叶等煎炸，外层有焦香、内里柔软，是当地可配汤食用的一种面食。",
+      "detail": "面团擀成饼后入油熟制，葱与植物香料增加香气。它保留面皮的嚼劲，与松脆到易碎的薄酥饼不同。",
+      "sources": [
+        "six-b675992e3a76dd"
+      ]
+    },
+    {
+      "id": "flavor-henan-97b3c1fce5",
+      "province": "henan",
+      "city": "郑州",
+      "name": "炸八块",
+      "type": "dishes",
+      "kind": "油炸分块鸡",
+      "description": "炸八块又称八块鸡，以鸡肉、鸡肫、鸡肝等配淀粉加工，炸后外焦里嫩，是郑州餐馆中的豫菜风味。",
+      "detail": "地方报菜语以“一只鸡子剁八瓣”描述它的形态。鸡肉分块后受热，油炸形成表面香气，内部仍保留肉的质地。",
+      "sources": [
+        "six-930238afbea1ce"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-e98aba4eb4",
+      "province": "henan",
+      "city": "郑州",
+      "name": "鲤鱼三吃",
+      "type": "dishes",
+      "kind": "一鱼多种做法",
+      "description": "郑州鲤鱼三吃将一条鲤鱼分作不同菜式，常组合烧、炸、汤等烹法，让同一食材呈现多种口感。",
+      "detail": "分段、分部位处理后，鱼肉、鱼头骨等各有用处；它作为一组地方鱼菜收录，不拆成重复的三张泛称卡片。",
+      "sources": [
+        "six-5bea930b7aa03b"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-henan-994135b1ff",
+      "province": "henan",
+      "city": "郑州",
+      "name": "双桥酒",
+      "type": "alcohol",
+      "kind": "惠济地方白酒",
+      "description": "双桥酒与郑州惠济双桥一带酿酒相连，酒液清亮，清冽、醇香是地方介绍中记录的主要风格。",
+      "detail": "同一地方酒也有不同度数与包装，名称保留双桥地名。它属于含酒精饮品，与水果汽水、茶饮分别归类。",
+      "sources": [
+        "six-f536133971bf94"
+      ]
+    },
+    {
+      "id": "flavor-henan-f05028aedd",
+      "province": "henan",
+      "city": "郑州",
+      "name": "中牟瓜豆酱",
+      "type": "seasoning",
+      "kind": "西瓜豆瓣酱",
+      "description": "中牟瓜豆酱把西瓜、黄豆、麦面等结合酿制，酱香浓，可配花馍，也能入菜，是郑州中牟的地方调味。",
+      "detail": "豆类和西瓜提供不同原料风味，花椒、茴香、姜等又添辛香；成品可与葱、凉粉等共同炒制。",
+      "sources": [
+        "six-b01deb2d8a311e"
+      ]
+    },
+    {
+      "id": "flavor-henan-a2456e2e37",
+      "province": "henan",
+      "city": "郑州",
+      "name": "大隗荷叶饼",
+      "type": "staples",
+      "kind": "叠层甜馅烤饼",
+      "description": "大隗荷叶饼来自郑州新密大隗，以多层面皮包糖、蜂蜜、芝麻等馅料，形似荷叶，口感层薄香甜。",
+      "detail": "叠层面皮在烘烤中形成香气，内部甜馅较黏润。它以造型得名，并不表示必须用荷叶作为饼皮原料。",
+      "sources": [
+        "six-a6d6ced8781871"
+      ]
+    },
+    {
+      "id": "flavor-henan-ab18e15123",
+      "province": "henan",
+      "city": "开封",
+      "name": "小笼灌汤包",
+      "type": "staples",
+      "kind": "菊花形汤包",
+      "description": "开封小笼灌汤包以薄皮包入猪肉汤馅，蒸后汁多、皮软，收褶外形似菊花，是当地代表蒸制面食。",
+      "detail": "肉馅、汤汁与面皮同时入口，褶纹也让包体呈现花形；当地又有菊花包的称呼，合并记录同一食品。",
+      "sources": [
+        "six-6cdd6873981fc0"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-3766c2927d",
+      "province": "henan",
+      "city": "开封",
+      "name": "鲤鱼焙面",
+      "type": "dishes",
+      "kind": "糖醋鱼配焙面",
+      "description": "开封鲤鱼焙面把糖醋鱼与焙制细面组合，鱼肉软嫩，面丝吸收糖醋汁，又保留局部酥香，是当地鱼菜。",
+      "detail": "全称有糖醋软溜鱼焙面，“焙面”指上面的细面食品。鱼与面一同成菜，酸甜汁水连接两种不同质地。",
+      "sources": [
+        "six-c2e127b2fd04ae"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-henan-7125a354b0",
+      "province": "henan",
+      "city": "开封",
+      "name": "羊肉炕馍",
+      "type": "staples",
+      "kind": "薄饼裹羊肉末",
+      "description": "开封羊肉炕馍把羊肉末、葱等包入薄面饼，在锅上炕香，饼皮柔韧、肉末焦香，是当地街头面食。",
+      "detail": "羊油与香料为薄饼添味，面皮包住肉末后再熟制。它是可以拿起吃的包卷面食，和羊汤泡馍的形式不同。",
+      "sources": [
+        "six-27b604f274ee46"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-henan-853ed4f69c",
+      "province": "henan",
+      "city": "开封",
+      "name": "黄焖鱼",
+      "type": "dishes",
+      "kind": "先炸后焖鱼",
+      "description": "开封黄焖鱼以小鲫鱼、草鱼等加工，挂糊炸成金黄后再配卤汤焖制，鱼鲜与香料味逐渐融合。",
+      "detail": "油炸形成外层香气，后续焖制又让汤汁进入鱼肉，成品兼有浓汤和熟鱼，口感区别于清煮鱼汤。",
+      "sources": [
+        "six-54ce17baa40c8d"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-henan-de02006297",
+      "province": "henan",
+      "city": "开封",
+      "name": "桶子鸡",
+      "type": "dishes",
+      "kind": "整鸡卤制熟食",
+      "description": "开封桶子鸡以整鸡加工，成品颜色鲜黄、皮肉咸香，鸡体形态较完整，是当地有明确名称的熟食。",
+      "detail": "地方店号马豫兴与这种鸡食相连，熟鸡可切块成盘。名称指向成品形态，识别重点是整鸡处理和熟制风味。",
+      "sources": [
+        "six-19dbbb15e406c7"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-2942bd67a6",
+      "province": "henan",
+      "city": "开封",
+      "name": "杏仁茶",
+      "type": "drinks",
+      "kind": "坚果冲调甜羹",
+      "description": "开封杏仁茶以杏仁粉等冲成甜稠羹，常配花生、芝麻、玫瑰、桂花等，既有坚果香也有花香。",
+      "detail": "名称虽有“茶”，这份食品的主体是粉料与配料冲调的羹饮，和茶树鲜叶制成的绿茶、红茶不同。",
+      "sources": [
+        "six-08b2047bc68d33"
+      ]
+    },
+    {
+      "id": "flavor-henan-c2d2f03304",
+      "province": "henan",
+      "city": "开封",
+      "name": "朱仙镇豆腐干",
+      "type": "dishes",
+      "kind": "五香卤制豆干",
+      "description": "朱仙镇豆腐干来自开封朱仙镇，以大豆制豆腐后配多种香料卤制、去水，入口紧实，豆香与卤香相合。",
+      "detail": "当地又有五香茶干的称呼，茴香、桂皮、花椒等使香气更有层次；“茶干”并不表示主料是茶叶。",
+      "sources": [
+        "six-65e13653ad4153"
+      ]
+    },
+    {
+      "id": "flavor-henan-b443a8828e",
+      "province": "henan",
+      "city": "开封",
+      "name": "沙家酱牛肉",
+      "type": "dishes",
+      "kind": "酱卤牛腱熟食",
+      "description": "沙家酱牛肉与开封地方食品相连，以牛腱肉卤煮等工序制成，切片后肉香浓、带筋膜的不同口感。",
+      "detail": "腱肉的纤维与筋膜在慢煮中逐渐变软，成品既能作为冷盘，也能与烧饼等主食搭配，突出酱香和牛肉本味。",
+      "sources": [
+        "six-1147ddd20724b1"
+      ],
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "id": "flavor-henan-497ed42247",
+      "province": "henan",
+      "city": "开封",
+      "name": "花生糕",
+      "type": "dishes",
+      "kind": "捶制花生糖糕",
+      "description": "开封花生糕以花生仁与糖料加工，经过捶压形成疏松糕体，入口香甜松脆，带明显花生的烘香。",
+      "detail": "捶压、翻叠让糖料与碎花生结合，质地逐渐变细。它虽然叫糕，主要识别点是坚果糖食的松酥口感。",
+      "sources": [
+        "six-f1d35b3ade10bc"
+      ]
+    },
+    {
+      "id": "flavor-henan-9a8792dd63",
+      "province": "henan",
+      "city": "开封",
+      "name": "江米甜酒",
+      "type": "alcohol",
+      "kind": "江米发酵酒食",
+      "description": "开封江米甜酒以糯米加工，米粒与酒汁结合，味甜、香气浓，是当地顺河一带具有具体名称的食品。",
+      "detail": "“江米”即糯米，米料经糖化发酵形成甜味与酒香。具体产品的酒精度、稠度不同，应结合实际标签辨认。",
+      "sources": [
+        "six-842aebe2d054e4"
+      ]
+    },
+    {
+      "id": "flavor-henan-6cbbf2328d",
+      "province": "henan",
+      "city": "开封",
+      "name": "杞县酱红萝卜",
+      "type": "seasoning",
+      "kind": "甜脆酱腌萝卜",
+      "description": "杞县酱红萝卜以红萝卜酱制，入口脆嫩、咸中带甜，切开颜色较润，是开封杞县地方佐餐小菜。",
+      "detail": "萝卜作菜坯，酱汁逐渐进入内部，使蔬菜脆感与酱香共存。它可配粥饭，区别于鲜萝卜直接切片食用。",
+      "sources": [
+        "six-5cecd8209a7f4f"
+      ]
+    },
+    {
+      "id": "flavor-henan-a12d1c8b62",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "洛阳水席",
+      "type": "dishes",
+      "kind": "汤菜成组宴席",
+      "description": "洛阳水席以冷盘、热菜组合成席，汤菜较多、菜式依次上桌，形成当地成组宴客菜的代表形式。",
+      "detail": "常见介绍以二十四道菜说明其规模，汤水菜与连续上菜共同留下名称印象；此处收录宴席组合，具体菜仍分别辨认。",
+      "sources": [
+        "six-fd59ba73f89f64"
+      ]
+    },
+    {
+      "id": "flavor-henan-f8a66a1ec9",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "牡丹燕菜",
+      "type": "dishes",
+      "kind": "萝卜丝仿燕菜",
+      "description": "洛阳牡丹燕菜以白萝卜细丝等加工，配鸡丝、火腿、菌笋等鲜料，外形与汤菜风格相连，是当地水席代表。",
+      "detail": "萝卜切丝、拌粉等处理形成类似细丝燕菜的质感。名称借牡丹形象留下印记，主要原料不是燕窝。",
+      "sources": [
+        "six-2329cba364ae70"
+      ],
+      "proteins": [
+        "鸡",
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-98ff0fdc23",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "洛阳不翻汤",
+      "type": "dishes",
+      "kind": "薄饼配鲜汤",
+      "description": "洛阳不翻汤以薄圆饼配汤，碗里有粉条、虾皮、韭菜等，热汤冲入后形成汤、饼与配料同食的早餐。",
+      "detail": "“不翻”联系小饼的烙制做法，面饼放入鲜汤又吸收汤味。香料、胡椒等让一碗汤食有不同香气。",
+      "sources": [
+        "six-9219062f226b4d"
+      ]
+    },
+    {
+      "id": "flavor-henan-743023cf9b",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "浆面条",
+      "type": "staples",
+      "kind": "酸浆煮杂豆面",
+      "description": "洛阳浆面条以豆浆、杂豆面条与蔬菜等同煮，汤面稠润，酸香与豆香相连，是当地日常面食。",
+      "detail": "豆浆的处理影响汤味，芹菜、豆类、韭菜花等则补充口感。它与普通清汤面不同，汤浆本身也是主要风味。",
+      "sources": [
+        "six-a6d022e3943db7"
+      ]
+    },
+    {
+      "id": "flavor-henan-251a853b0d",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "糊涂面",
+      "type": "staples",
+      "kind": "谷物糊汤面",
+      "description": "洛阳糊涂面将面条与玉米面等煮成较稠的汤面，配萝卜、芝麻叶、豆腐等，谷物香与菜香相合。",
+      "detail": "谷物粉使面汤变稠，煮豆、葱花、香油等又提供不同口感。它把糊粥与面条结合，保留日常主食的朴实风味。",
+      "sources": [
+        "six-53d9d0fcfa948f"
+      ]
+    },
+    {
+      "id": "flavor-henan-c9cfe23cdc",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "洛阳羊肉汤",
+      "type": "dishes",
+      "kind": "鲜羊汤配锅盔",
+      "description": "洛阳羊肉汤以羊肉、骨等熬出鲜汤，配葱花等调味，常与锅盔同吃，是当地城市早餐的一条代表线索。",
+      "detail": "锅盔撕块泡入汤中，吸汤后变软又保留麦香，羊肉与汤、面食组合成餐，呈现当地喝汤的习惯。",
+      "sources": [
+        "six-67b95b85e0abd5"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-henan-b07a8b3bf0",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "鸡蛋灌饼",
+      "type": "staples",
+      "kind": "蛋液灌入层饼",
+      "description": "洛阳鸡蛋灌饼把面皮做出层次，煎烙中灌入鸡蛋液，熟后饼香、蛋香相合，是当地流传的面食。",
+      "detail": "面皮内部的空层为蛋液留出空间，加热后鸡蛋凝结。它后来在多地流行，洛阳保留有自己的地方餐食关联。",
+      "sources": [
+        "six-48ce17fa596493"
+      ]
+    },
+    {
+      "id": "flavor-henan-30e4a9800b",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "合盛栈元宵",
+      "type": "staples",
+      "kind": "滚粉甜馅元宵",
+      "description": "合盛栈元宵与洛阳具名食品制作相连，以糯米粉滚裹甜馅，煮后外皮软糯，有豆沙、枣泥、花香等口味。",
+      "detail": "馅心沾水后在米粉中反复滚圆，形成一层层粉皮。这一工艺与直接用糯米团包馅的汤圆有所不同。",
+      "sources": [
+        "six-3cd1041dedba75"
+      ]
+    },
+    {
+      "id": "flavor-henan-9ce0010198",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "牡丹饼",
+      "type": "staples",
+      "kind": "豆米蒸制甜糕",
+      "description": "洛阳牡丹饼的这份地方做法以豆类粉和米加工蒸糕，配豆类、红枣等，口感香甜细软，另以牡丹花瓣添味。",
+      "detail": "豆米蒸糕与豌豆、红小豆等配料形成不同质地，花瓣作为辅料进入馅中；名称相同的商品仍需按各自配方辨认。",
+      "sources": [
+        "six-9cc472cdd60e3f"
+      ]
+    },
+    {
+      "id": "flavor-henan-17b23bad8f",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "汝阳杜康",
+      "type": "alcohol",
+      "kind": "汝阳地方白酒",
+      "description": "汝阳杜康与洛阳汝阳杜康村酿酒相连，是当地具有具体品牌、产区名称的白酒，谷物酿香构成风格。",
+      "detail": "现代酒厂与地方酿酒作坊发展相连，杜康名称又有文化记忆。具体香型、度数和系列仍应按实际酒款区分。",
+      "sources": [
+        "six-de5cf0b8686946"
+      ]
+    },
+    {
+      "id": "flavor-henan-70e5cef541",
+      "province": "henan",
+      "city": "洛阳",
+      "name": "重渡沟柿子醋",
+      "type": "seasoning",
+      "kind": "柿果发酵醋",
+      "description": "重渡沟柿子醋产自洛阳栾川，以柿子汁等酿制，酸味中带回甘、果醋香，是当地具有明确产地的调味品。",
+      "detail": "柿果原料进入酿醋工艺，形成与谷物醋不同的原料线索。成品可用作蘸汁、凉拌或烹调中的酸味来源。",
+      "sources": [
+        "six-d881c4edb8030e"
+      ]
+    },
+    {
+      "id": "flavor-henan-cfd89ba63e",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "火腿肉粽",
+      "type": "dishes",
+      "kind": "火腿糯米粽",
+      "description": "平顶山鲁山地方介绍中的火腿肉粽，以糯米、火腿、猪肉及菌菇等包裹成形，咸香中带米粒的软糯。",
+      "detail": "粽叶包住米与馅料，熟制后形成叶香、肉香和米香。它按糯米成餐食品收录，保留地方具体名称与用料。",
+      "sources": [
+        "six-234ec7dbb366a8"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-e79f52a925",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "鲁山张良姜",
+      "type": "seasoning",
+      "kind": "地方鲜姜",
+      "description": "张良姜来自平顶山鲁山张良镇，以姜块的辛香进入当地调味和佐餐加工，是具有具体乡镇地名的食材。",
+      "detail": "鲜姜切片、切丝或切末能释放不同程度的香气，也可用于腌渍。地方名称对应产区，不等同于一个固定包装品牌。",
+      "sources": [
+        "six-8fa24fb0fac1c4"
+      ]
+    },
+    {
+      "id": "flavor-henan-f3acd02cdb",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "翟集陈醋",
+      "type": "seasoning",
+      "kind": "宝丰地方米醋",
+      "description": "翟集陈醋来自平顶山宝丰翟集，地方介绍以阳柳牌米醋为具体产品线索，酸香与酿造风味用于佐餐调味。",
+      "detail": "谷物经酿制、取醋与陈存形成风味，成品可蘸食、凉拌或入菜。地名、品牌与具体酒醋产品分别辨认。",
+      "sources": [
+        "six-1063754f0c4d42"
+      ]
+    },
+    {
+      "id": "flavor-henan-60e9d1826e",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "宝丰酒",
+      "type": "alcohol",
+      "kind": "清香型地方白酒",
+      "description": "宝丰酒与平顶山宝丰地方酿酒相连，以清香型白酒为代表，是当地具有明确品牌名称的含酒精饮品。",
+      "detail": "制曲、粮食发酵、蒸馏和陈放共同形成酒体，具体系列与酒度不同。地方品牌名不替代实际产品上的香型、配料信息。",
+      "sources": [
+        "six-ee69d86731366c"
+      ]
+    },
+    {
+      "id": "flavor-henan-32ade5522d",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "买根烧鸡",
+      "type": "dishes",
+      "kind": "宝丰具名烧鸡",
+      "description": "买根烧鸡来自平顶山宝丰，以整鸡熟制、配地方香料形成咸香，鸡肉柔嫩，是当地具体到制作者名称的食品。",
+      "detail": "名称保留买根这一制作传承线索，成品可切块作熟肉冷盘。鸡肉、鸡皮与卤香构成不同层次的口感。",
+      "sources": [
+        "six-0767fc2e5f89b6"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-f4b74b1814",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "三郎庙茶",
+      "type": "tea",
+      "kind": "郏县地方茶事",
+      "description": "三郎庙茶与平顶山郏县姚庄南三郎庙的饮茶传统相连，茶香甘醇，是当地具有具体村名的茶事食品线索。",
+      "detail": "此项标注地方茶名与消费传统，不由村名推定茶树原料全部产于当地。茶品来源与冲泡、饮茶地点需分别辨认。",
+      "sources": [
+        "six-0b363fe465ac37"
+      ]
+    },
+    {
+      "id": "flavor-henan-7f1d6326d9",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "观音堂花椒",
+      "type": "seasoning",
+      "kind": "宝丰香辛料",
+      "description": "观音堂花椒来自平顶山宝丰大营镇，椒皮香气浓、带麻味，可用于炖肉、调馅或制作花椒油等调味。",
+      "detail": "干椒皮是主要辛香部位，磨碎、浸油或整粒入汤能呈现不同风味。它保留具体村镇产区，是地方调味食材。",
+      "sources": [
+        "six-500d016a3f486d"
+      ]
+    },
+    {
+      "id": "flavor-henan-c9416b343b",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "鲁山猕猴桃",
+      "type": "ingredients",
+      "kind": "山地产区鲜果",
+      "description": "鲁山猕猴桃来自平顶山鲁山，果肉细软、多汁，甜酸随品种与成熟度变化，是当地有具体产区的水果。",
+      "detail": "鲜果可直接食用，也能加工成果汁、果酱和果干。此处记录果实产区，与已调配的瓶装果汁分别归类。",
+      "sources": [
+        "six-b7ec4bff3e38ff"
+      ]
+    },
+    {
+      "id": "flavor-henan-18981349ae",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "舞钢红薯",
+      "type": "ingredients",
+      "kind": "地方薯类食材",
+      "description": "舞钢红薯来自平顶山舞钢，熟后有薯香，粉糯或绵软口感随品种变化，是当地具有明确产区名称的粮食原料。",
+      "detail": "红薯可蒸、烤，也可加工成薯干或淀粉食品；整薯与粉条、薯粉糕等成形面食分别记录食用状态。",
+      "sources": [
+        "six-998449bd29d0cb"
+      ]
+    },
+    {
+      "id": "flavor-henan-a3b3527841",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "汝坟店柿子",
+      "type": "ingredients",
+      "kind": "地方鲜柿果",
+      "description": "汝坟店柿子与平顶山地方种植相连，成熟后有果香与甜味，硬、软食用口感随品种和处理方式变化。",
+      "detail": "柿果可鲜食，也可去皮晾成柿饼。这里保留具体产区称呼，区别于不分产地的一般水果名称。",
+      "sources": [
+        "six-43df168f2be9fc"
+      ]
+    },
+    {
+      "id": "flavor-henan-a1e7d5bb95",
+      "province": "henan",
+      "city": "平顶山",
+      "name": "坡河萝卜",
+      "type": "ingredients",
+      "kind": "地方萝卜食材",
+      "description": "坡河萝卜是平顶山地方产区蔬菜，以萝卜的脆嫩与清香为食材线索，可入汤、炒食或腌作小菜。",
+      "detail": "鲜萝卜与酱腌萝卜有不同含水量和口感，具体用途随品种与做法变化。此项记录产区食材，不虚构独占的菜谱。",
+      "sources": [
+        "six-40b4fcc06e2d1a"
+      ]
+    },
+    {
+      "id": "flavor-henan-3edb5b0b46",
+      "province": "henan",
+      "city": "安阳",
+      "name": "道口烧鸡",
+      "type": "dishes",
+      "kind": "滑县卤制整鸡",
+      "description": "道口烧鸡与安阳滑县道口相连，以整鸡配香料熟制，皮肉咸香、肉质软嫩，是当地传统熟鸡食品。",
+      "detail": "卤香进入鸡肉，熟后仍保留整鸡外形，食用时可切块分食。道口地名随食品传播，区别于某一种鸡的品种名称。",
+      "sources": [
+        "six-81c393d1136c34"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-0627633da5",
+      "province": "henan",
+      "city": "安阳",
+      "name": "皮渣",
+      "type": "dishes",
+      "kind": "蒸制粉条块",
+      "description": "安阳皮渣把粉条、淀粉等调和蒸成块，切片后可煎、炒或烩食，外层香、内部柔软，是当地具名小吃。",
+      "detail": "淀粉将粉条与配料黏合成形，冷却后便于切块。后续加热方式改变表面口感，能作为家常菜也能进入地方宴席。",
+      "sources": [
+        "six-bd32729454319a"
+      ]
+    },
+    {
+      "id": "flavor-henan-3a27d0adea",
+      "province": "henan",
+      "city": "安阳",
+      "name": "临淇水煎包",
+      "type": "staples",
+      "kind": "焦底发面包",
+      "description": "临淇水煎包来自安阳林州临淇镇，煎制后底面金黄焦脆、其余面皮柔软，包馅与面香相互结合。",
+      "detail": "包坯在平锅中借水汽、油煎熟透，底部形成薄脆层。它保留具体镇名，和纯蒸制的包子呈现不同口感。",
+      "sources": [
+        "six-155c05172ecfe5"
+      ]
+    },
+    {
+      "id": "flavor-henan-f99fe77ed4",
+      "province": "henan",
+      "city": "安阳",
+      "name": "梁庄状馍",
+      "type": "staples",
+      "kind": "肉葱夹层煎馍",
+      "description": "梁庄状馍来自安阳内黄梁庄，以面片夹瘦肉、大葱等馅，煎烙后外香内软，层间能见肉馅，是当地面食。",
+      "detail": "面皮与馅料叠合后压成饼，煎盘使外层产生烙香。厚度、火候共同影响饼内面层与肉馅的熟度。",
+      "sources": [
+        "six-9388cad11b5bab"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-12c86ad5e8",
+      "province": "henan",
+      "city": "安阳",
+      "name": "宜沟空心挂面",
+      "type": "staples",
+      "kind": "汤阴手工细面",
+      "description": "宜沟空心挂面来自安阳汤阴宜沟，面条细长、中间带空隙，煮后柔滑有韧劲，是当地手工面食。",
+      "detail": "和面、醒面与拉伸帮助面筋展开，干燥后便于保存。煮制时面条吸水舒展，可配肉汤、蛋汤或蔬菜汤。",
+      "sources": [
+        "six-181a1d740ca494"
+      ]
+    },
+    {
+      "id": "flavor-henan-6d35099068",
+      "province": "henan",
+      "city": "安阳",
+      "name": "万古羊肉卤",
+      "type": "dishes",
+      "kind": "羊肉卤汁汤食",
+      "description": "万古羊肉卤与安阳滑县万古镇相连，以羊肉和调味卤汁形成浓香，是当地带有具体镇名的羊肉食品。",
+      "detail": "羊肉风味与香料相互结合，熟制后可与主食同食。地方名保留万古地名，实际浓稠度和配料依制作者变化。",
+      "sources": [
+        "six-15709412bcd3d4"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-henan-2fe48da72e",
+      "province": "henan",
+      "city": "安阳",
+      "name": "彰德陈醋",
+      "type": "seasoning",
+      "kind": "地方酿造陈醋",
+      "description": "彰德陈醋与安阳传统酿醋相连，色泽较深，酸香醇厚、带回甘，可用于蘸食、拌菜和烹调提味。",
+      "detail": "彰德是安阳历史名称，醋名保留了这条地方线索。酿制、取醋和陈放共同影响酸味、香气与成品色泽。",
+      "sources": [
+        "six-fd43f25f6948d5"
+      ]
+    },
+    {
+      "id": "flavor-henan-9ce567a83c",
+      "province": "henan",
+      "city": "安阳",
+      "name": "双头黄酒",
+      "type": "alcohol",
+      "kind": "小米稷米黄酒",
+      "description": "双头黄酒来自安阳汤阴，以小米、稷米等酿制，谷物香与酒香结合，是当地具有具体名称的黄酒。",
+      "detail": "原料与酒曲经过糖化、发酵形成酒液，属于发酵酒的一种。它保留北方谷物用料，与以糯米为主的部分黄酒有别。",
+      "sources": [
+        "six-8e92dc81fc0333"
+      ]
+    },
+    {
+      "id": "flavor-henan-e2883226a4",
+      "province": "henan",
+      "city": "安阳",
+      "name": "马投涧小磨香油",
+      "type": "seasoning",
+      "kind": "芝麻研磨香油",
+      "description": "马投涧小磨香油来自安阳马投涧，以芝麻经炒制、研磨等加工取油，香气浓，可少量加入凉菜、汤或馅料。",
+      "detail": "小磨工艺先使芝麻成浆，再经分离取油，保留烘炒香气。地方名称与加工方法共同构成这种调味油的识别点。",
+      "sources": [
+        "six-5015785f69925e"
+      ]
+    },
+    {
+      "id": "flavor-henan-1007c8823d",
+      "province": "henan",
+      "city": "安阳",
+      "name": "林州茶店柿饼",
+      "type": "dishes",
+      "kind": "地方去皮晾柿",
+      "description": "林州茶店柿饼来自安阳林州茶店，以柿果去皮、晾制等加工，入口甜润绵韧，是当地果实加工食品。",
+      "detail": "脱去部分水分后，果肉甜味更加集中，表面也可能形成糖霜。名称中的茶店是地名，食品本身不是茶叶制品。",
+      "sources": [
+        "six-48d126df6a0d88"
+      ]
+    },
+    {
+      "id": "flavor-henan-711ad682ea",
+      "province": "henan",
+      "city": "安阳",
+      "name": "内黄大枣",
+      "type": "ingredients",
+      "kind": "地方鲜枣与干枣",
+      "description": "内黄大枣与安阳内黄枣区相连，果肉甘甜，可鲜食，也可加工成干枣，是当地具有明确产区名称的水果。",
+      "detail": "鲜枣较脆、含水较多，干制后口感与甜香又有变化，能用于粥、糕点等。产区食材与具体熟制食品分别记录。",
+      "sources": [
+        "six-00321e9b3b2597"
+      ]
+    },
+    {
+      "id": "flavor-henan-414637bb03",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "大湖黄酒",
+      "type": "alcohol",
+      "kind": "地方发酵黄酒",
+      "description": "大湖黄酒是鹤壁地方酒品名称，以发酵酒的谷物香与酒香进入当地餐桌，具体酒度、甜度随产品变化。",
+      "detail": "它可作为含酒精饮品辨认，也能在烹调中提供酒香。地方品牌名与实际酒款配料、包装各有各自信息。",
+      "sources": [
+        "six-3d1ec499ebc722"
+      ]
+    },
+    {
+      "id": "flavor-henan-69ef8111b7",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "僧帽双瓤烧饼",
+      "type": "staples",
+      "kind": "叠层酥软烧饼",
+      "description": "僧帽双瓤烧饼来自鹤壁淇滨，以麦面制坯、包叠后烤熟，外层焦黄、内瓤柔软，造型留下地方称呼。",
+      "detail": "面坯的折叠和炉火共同形成内部层次，外壳与内瓤口感不同。它是麦面熟食，不是以帽子形模具制成的糖果。",
+      "sources": [
+        "six-7dbb4c25d745b4"
+      ]
+    },
+    {
+      "id": "flavor-henan-200e669613",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "黑芝麻糍馍馍",
+      "type": "staples",
+      "kind": "芝麻糯米点心",
+      "description": "黑芝麻糍馍馍来自鹤壁鹤山，以糯米粉、黑芝麻等制作，米香与坚果香结合，入口有糯软口感。",
+      "detail": "芝麻经过处理释放烘香，与糯米面团组合成形。它属于米面点心，和以整粒谷物煮成的米饭有不同质地。",
+      "sources": [
+        "six-42da2119ec712c"
+      ]
+    },
+    {
+      "id": "flavor-henan-dc5f979fcf",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "淇河鲫鱼",
+      "type": "ingredients",
+      "kind": "淇河地方鱼类",
+      "description": "淇河鲫鱼与鹤壁淇河水域的地方水产传统相连，鲫鱼可煮汤、烧制，鱼鲜进入当地家庭菜肴。",
+      "detail": "此项记录具体水域关联的食材名称，烹调后又可形成不同鱼菜。鱼肉与骨熬煮时共同影响汤味和成菜质地。",
+      "sources": [
+        "six-24f11bba27d26f"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-henan-749ca39953",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "淇河缠丝鸭蛋",
+      "type": "ingredients",
+      "kind": "淇河地方鸭蛋",
+      "description": "淇河缠丝鸭蛋与鹤壁淇河沿岸养鸭地区相连，是具有地方称呼的蛋类食材，蛋白与蛋黄各有不同质地。",
+      "detail": "地方介绍把它与沿河村落相联系，鸭蛋可熟煮或作其他食品原料。具体加工后的咸蛋、松花蛋另有自己的食品名称。",
+      "sources": [
+        "six-79b9f4651f3dc7"
+      ],
+      "proteins": [
+        "鸭"
+      ]
+    },
+    {
+      "id": "flavor-henan-a3c4e67d90",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "义兴蒋烧鸡",
+      "type": "dishes",
+      "kind": "浚县具名熟鸡",
+      "description": "义兴蒋烧鸡来自鹤壁浚县，以鸡肉配当地卤味加工，熟后香味浓、肉质嫩，是有具体店号线索的熟食。",
+      "detail": "制作名称与蒋姓传承相连，整鸡熟制后可切块成盘。卤香、鸡皮与瘦肉在同一份食品中呈现不同口感。",
+      "sources": [
+        "six-34fbbeaee1b18a"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-bbab3d8804",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "黎阳贡面",
+      "type": "staples",
+      "kind": "浚县手工挂面",
+      "description": "黎阳贡面与鹤壁浚县黎阳地方制面相连，以麦面加工成细长挂面，煮后柔滑，是当地具名面食。",
+      "detail": "手工面条经过和、醒、拉伸、干燥等工序形成细条，麦香随熟煮释放。黎阳地名也保留在这项食品的名称中。",
+      "sources": [
+        "six-d292a79fb8d007"
+      ]
+    },
+    {
+      "id": "flavor-henan-fa03100ed2",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "寺下头吴记花生米",
+      "type": "dishes",
+      "kind": "香酥熟花生",
+      "description": "寺下头吴记花生米来自鹤壁浚县城关一带，成品颗粒较匀、入口香酥，是保留具体制作名称的地方零食。",
+      "detail": "花生经熟制后释放坚果香，成品可作小吃，也可佐餐。吴记与寺下头分别保留制作者和地方称呼。",
+      "sources": [
+        "six-facc6239ed435d"
+      ]
+    },
+    {
+      "id": "flavor-henan-c33074f66b",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "淇河黄小米",
+      "type": "ingredients",
+      "kind": "谷子去壳小米",
+      "description": "淇河黄小米来自鹤壁地方谷子种植区，米粒黄亮，煮后有谷物清香，是当地可用于粥食的粮食原料。",
+      "detail": "谷子去壳后成为小米，整粒煮粥和磨粉制面食有不同形态。此项记录产区食材，不把普通粥虚构成统一地方配方。",
+      "sources": [
+        "six-e336242bb227ee"
+      ]
+    },
+    {
+      "id": "flavor-henan-cb3ea78db6",
+      "province": "henan",
+      "city": "鹤壁",
+      "name": "淇县竹笋",
+      "type": "ingredients",
+      "kind": "地方春笋食材",
+      "description": "淇县竹笋来自鹤壁淇县，嫩笋可焯后炒、烧或入汤，笋香与脆嫩口感进入当地时令餐桌。",
+      "detail": "竹笋随成熟度纤维逐渐变化，切片、切丝可搭配肉与蔬菜。它按地方食材收录，与腌笋、笋干的加工状态不同。",
+      "sources": [
+        "six-5e7c4697ab35c5"
+      ]
+    },
+    {
+      "id": "flavor-henan-cb54e9dd54",
+      "province": "henan",
+      "city": "新乡",
+      "name": "空心面",
+      "type": "staples",
+      "kind": "卫滨细长挂面",
+      "description": "新乡卫滨空心面状细如丝、条身中空，煮后柔滑而有筋力，是当地具有具体形态的地方制面食品。",
+      "detail": "麦面经过和面、醒面与拉伸，面条内部形成孔隙。干燥后便于成束储存，熟煮时可吸收汤汁中的味道。",
+      "sources": [
+        "six-1a8472380cd254"
+      ]
+    },
+    {
+      "id": "flavor-henan-10b6864df3",
+      "province": "henan",
+      "city": "新乡",
+      "name": "高村粉皮",
+      "type": "staples",
+      "kind": "长垣绿豆粉皮",
+      "description": "高村粉皮来自新乡长垣常村镇高村，以绿豆淀粉加工成薄片，泡煮后滑韧，可拌、炒或入汤。",
+      "detail": "粉浆受热凝结、铺成薄层后再揭皮，形成片状食品。它与豆浆蛋白压制的豆腐皮原料不同，口感也各有特点。",
+      "sources": [
+        "six-cc910bd3a8cf06"
+      ]
+    },
+    {
+      "id": "flavor-henan-8a33ef9617",
+      "province": "henan",
+      "city": "新乡",
+      "name": "延津火烧",
+      "type": "staples",
+      "kind": "地方厚实烤饼",
+      "description": "延津火烧来自新乡延津，饼形较大，麦面制坯后烙烤，外皮有焦香、内瓤柔软，是当地日常面食。",
+      "detail": "饼坯厚度与火候配合，使外壳和内部都熟透。它可单吃，也能与汤、肉、菜组合，保留豫北麦面主食风格。",
+      "sources": [
+        "six-7fa339df91c864"
+      ]
+    },
+    {
+      "id": "flavor-henan-162d6ef723",
+      "province": "henan",
+      "city": "新乡",
+      "name": "牛忠喜烧饼",
+      "type": "staples",
+      "kind": "具名酥香烧饼",
+      "description": "牛忠喜烧饼是新乡具有制作者名称的烧饼，麦面成坯后烤制，带油香、面香，是当地具名面点。",
+      "detail": "面团处理和烘烤使饼的内外形成不同口感，地方食品名称与牛忠喜这一制作传承相连，保留具体品牌线索。",
+      "sources": [
+        "six-6b8957c711732f"
+      ]
+    },
+    {
+      "id": "flavor-henan-a6aa95ab9f",
+      "province": "henan",
+      "city": "新乡",
+      "name": "卫辉杜记牛肉",
+      "type": "dishes",
+      "kind": "香卤黄牛肉",
+      "description": "卫辉杜记牛肉来自新乡卫辉，以黄牛肉配香辛料熟制，肉香与卤香结合，切片可见肉的纹理与筋膜。",
+      "detail": "慢煮帮助肉块熟软并吸收调味，腱、筋等不同部位带来软韧变化。杜记名称保留地方熟肉制作的具体线索。",
+      "sources": [
+        "six-774cd2261d7774"
+      ],
+      "proteins": [
+        "牛"
+      ]
+    },
+    {
+      "id": "flavor-henan-a040d28f01",
+      "province": "henan",
+      "city": "新乡",
+      "name": "辉县柿子醋",
+      "type": "seasoning",
+      "kind": "地方柿果醋",
+      "description": "辉县柿子醋来自新乡辉县，以柿果酿制形成果醋酸香，咸鲜菜肴、蘸汁和凉拌都可使用这一地方调味品。",
+      "detail": "柿子从鲜果转为醋液，果实与酿制工艺共同影响香气。此处保留实际产区，不采用与历史人物相连的起源传说。",
+      "sources": [
+        "six-f9c7c0cc802016"
+      ]
+    },
+    {
+      "id": "flavor-henan-10f402570a",
+      "province": "henan",
+      "city": "新乡",
+      "name": "原阳黑米醋",
+      "type": "seasoning",
+      "kind": "地方谷物酿醋",
+      "description": "原阳黑米醋与新乡原阳酿醋相连，谷物经加工形成酸香，常用于蘸食、凉拌或烹调，是当地具体醋品名称。",
+      "detail": "酿造、取醋与存放影响醋液的浓淡和色泽，名称保留原阳这一地方关联；不同瓶装产品仍有各自配料。",
+      "sources": [
+        "six-ed354b5aa9a264"
+      ]
+    },
+    {
+      "id": "flavor-henan-19dd1c8aab",
+      "province": "henan",
+      "city": "新乡",
+      "name": "翟记薄荷茶",
+      "type": "tea",
+      "kind": "薄荷叶代用茶",
+      "description": "翟记薄荷茶与新乡地方茶业制作相连，以薄荷叶等加工成冲泡品，带清新的薄荷香，是具名代用茶。",
+      "detail": "薄荷原料与茶树叶不同，干燥、做形等处理保留植物气息。品牌又有不同包装，茶原料与饮茶消费地点分别辨认。",
+      "sources": [
+        "six-60a992d7daf224"
+      ]
+    },
+    {
+      "id": "flavor-henan-4f5677dae7",
+      "province": "henan",
+      "city": "新乡",
+      "name": "封丘树莓",
+      "type": "ingredients",
+      "kind": "地方浆果",
+      "description": "封丘树莓来自新乡封丘，果实柔软多汁，甜酸味鲜明，可直接食用，也能用于果汁、果酱等加工。",
+      "detail": "浆果由许多小颗粒组成，成熟度影响甜酸和软硬。此项记录产区鲜果，与加糖、调配后的瓶装饮品分列。",
+      "sources": [
+        "six-c4b0ed338ccba0"
+      ]
+    },
+    {
+      "id": "flavor-henan-8fb32699e3",
+      "province": "henan",
+      "city": "新乡",
+      "name": "原阳大米",
+      "type": "ingredients",
+      "kind": "地方稻米",
+      "description": "原阳大米来自新乡原阳稻作地区，米粒较晶莹，煮后软筋、带米香，是当地具有具体产区的粮食原料。",
+      "detail": "稻谷去壳、碾制后成为日常主食大米，可蒸饭，也可进入米制食品。不同品种、加工精度会带来口感变化。",
+      "sources": [
+        "six-22d8f3748919ca"
+      ]
+    },
+    {
+      "id": "flavor-henan-8a4ac50c5f",
+      "province": "henan",
+      "city": "新乡",
+      "name": "辉县香稻",
+      "type": "ingredients",
+      "kind": "地方香稻米",
+      "description": "辉县香稻来自新乡辉县，保留当地稻作品种名称，煮食有米香，可作为米饭或其他米制食品原料。",
+      "detail": "香稻是种植原料线索，去壳后的米与熟米饭是不同状态。地方品种、采收和加工共同影响成品的香气与口感。",
+      "sources": [
+        "six-64a94da9b44bba"
+      ]
+    },
+    {
+      "id": "flavor-henan-bd0aa8444a",
+      "province": "henan",
+      "city": "焦作",
+      "name": "靳贤书烧饼",
+      "type": "staples",
+      "kind": "具名酥脆烧饼",
+      "description": "靳贤书烧饼与焦作制饼者名称相连，以麦面制坯、烤制，颜色焦黄、口感酥脆，是当地具名面食。",
+      "detail": "揉面、成形与炉火共同决定饼皮的香气和硬软。食品名称保留具体制作者，而不只是一个普通的烧饼形状。",
+      "sources": [
+        "six-1d616c6be674b4"
+      ]
+    },
+    {
+      "id": "flavor-henan-5681081fcb",
+      "province": "henan",
+      "city": "焦作",
+      "name": "马记烧鸡",
+      "type": "dishes",
+      "kind": "博爱地方熟鸡",
+      "description": "马记烧鸡来自焦作博爱许良镇，以鸡肉配地方卤味熟制，入口肉香浓，是当地有具体制作名称的熟食。",
+      "detail": "整鸡处理、调味和熟制火候相互配合，鸡皮、瘦肉有不同口感。马记这一名称也随着经营扩展进入周边地区。",
+      "sources": [
+        "six-b01acc4efa8fa7"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-ff3b9c28ad",
+      "province": "henan",
+      "city": "焦作",
+      "name": "武陟油茶",
+      "type": "drinks",
+      "kind": "炒面冲调咸羹",
+      "description": "武陟油茶来自焦作武陟，以炒香的面粉、油脂等配坚果和调味料冲成稠羹，咸香、面香与坚果香结合。",
+      "detail": "名称虽有茶，主料却是谷物粉与配料，热水冲调后形成羹状。它与茶树叶冲泡的清茶，在原料和口感上都不同。",
+      "sources": [
+        "six-8fd078d120cc98"
+      ]
+    },
+    {
+      "id": "flavor-henan-4b5e63dd97",
+      "province": "henan",
+      "city": "焦作",
+      "name": "山药酥",
+      "type": "dishes",
+      "kind": "熟制酥香山药",
+      "description": "山药酥与焦作山阳地方食品相连，以鲜山药加工成酥脆小吃，外层香、内里保留山药的粉糯口感。",
+      "detail": "鲜山药经切配、熟制后改变质地，呈现酥香风味。它是已加工的食品，与整根铁棍山药作为食材分别记录。",
+      "sources": [
+        "six-c68260052e383b"
+      ]
+    },
+    {
+      "id": "flavor-henan-69a8987b4c",
+      "province": "henan",
+      "city": "焦作",
+      "name": "焦作柿饼",
+      "type": "dishes",
+      "kind": "地方晾制柿果",
+      "description": "焦作柿饼以柿子去皮、晾制等加工，甜味集中，果肉绵韧，是当地具有产区称呼的熟果加工食品。",
+      "detail": "果实脱水后体积收缩、质地变紧，表面可见自然糖霜。柿饼可单吃，也可进入糕点、甜食等不同做法。",
+      "sources": [
+        "six-7cde0ec55a0187"
+      ]
+    },
+    {
+      "id": "flavor-henan-17db29f214",
+      "province": "henan",
+      "city": "焦作",
+      "name": "怀府珍珠菊",
+      "type": "tea",
+      "kind": "菊花代用茶",
+      "description": "怀府珍珠菊与焦作怀府地方花卉加工相连，以菊花、花蕾作冲泡原料，花香清楚，是当地代用茶。",
+      "detail": "“珍珠”描绘花蕾形态，原料是菊科植物而非茶树叶。干燥花蕾泡开后能见花形，保留这一地方产品的识别点。",
+      "sources": [
+        "six-91c9d885212e95"
+      ]
+    },
+    {
+      "id": "flavor-henan-b2dc9de98d",
+      "province": "henan",
+      "city": "焦作",
+      "name": "博爱冬凌茶",
+      "type": "tea",
+      "kind": "冬凌草代用茶",
+      "description": "博爱冬凌茶与焦作博爱地方植物冲泡习惯相连，以冬凌草等加工，不属于茶树叶制成的绿茶、红茶。",
+      "detail": "冬凌草名称与其生长环境中霜凌形象相连，干燥植物用于冲泡。这里只记录实际代用茶身份与原料，不附加疗效。",
+      "sources": [
+        "six-a799f02e7a5f4d"
+      ]
+    },
+    {
+      "id": "flavor-henan-6b654e67b9",
+      "province": "henan",
+      "city": "焦作",
+      "name": "铁棍山药",
+      "type": "ingredients",
+      "kind": "温县山药食材",
+      "description": "铁棍山药与焦作温县种植相连，熟后细腻、粉糯，可蒸、煮、炖，是当地具有具体名称的薯蓣类食材。",
+      "detail": "整根山药与山药粉、山药酥等加工食品各有形态，蒸煮火候影响软糯程度。产地与食材名称共同保留地方识别度。",
+      "sources": [
+        "six-dd6a0c9ef2f37b"
+      ]
+    },
+    {
+      "id": "flavor-henan-524d0fa5e0",
+      "province": "henan",
+      "city": "焦作",
+      "name": "清化姜",
+      "type": "seasoning",
+      "kind": "博爱鲜姜",
+      "description": "清化姜又称博爱姜、上庄姜，与焦作博爱许良、上庄等地相连，姜香鲜明，可用于炒菜、调味或腌渍。",
+      "detail": "同一地方姜的不同地名叫法合并记录，不拆成三项食品。鲜姜切配后释放辛香，加热与腌制又形成不同风味。",
+      "sources": [
+        "six-227a977e520e18"
+      ]
+    },
+    {
+      "id": "flavor-henan-921f4595a5",
+      "province": "henan",
+      "city": "焦作",
+      "name": "马宣寨大米",
+      "type": "ingredients",
+      "kind": "修武地方稻米",
+      "description": "马宣寨大米来自焦作修武马宣寨，保留具体村落产区名称，熟米有谷物香，可作为家庭米饭等主食原料。",
+      "detail": "稻谷收获后经脱壳、碾制成为食用米，口感随品种和加工变化。村名用于定位产区，不采用御赐地名传说作结论。",
+      "sources": [
+        "six-6f82db60aa16f8"
+      ]
+    },
+    {
+      "id": "flavor-henan-e82220ca37",
+      "province": "henan",
+      "city": "焦作",
+      "name": "博爱八月黄",
+      "type": "ingredients",
+      "kind": "地方柿子品种",
+      "description": "博爱八月黄来自焦作博爱，是当地传统柿子品种名称，果实偏扁圆，成熟后果肉带甜香和柔软口感。",
+      "detail": "它以地方品种记录，既可鲜食，也能加工成柿饼等；与已经晾制的焦作柿饼保持食用状态的区别。",
+      "sources": [
+        "six-f6fccaa8be5754"
+      ]
+    },
+    {
+      "id": "flavor-henan-efe8ab6105",
+      "province": "henan",
+      "city": "濮阳",
+      "name": "“六百居”香肠",
+      "type": "dishes",
+      "kind": "地方香料香肠",
+      "description": "濮阳六百居香肠以肉料配多种香料加工，成品肉香与辛香融合，是当地具名熟食，可切片佐餐。",
+      "detail": "香料配方和肉馅加工共同影响香肠风味，包装食品与门店散售的保存条件有别，具体以产品说明为准。",
+      "sources": [
+        "six-4218e06d21b6c9"
+      ]
+    },
+    {
+      "id": "flavor-henan-34894edd8a",
+      "province": "henan",
+      "city": "濮阳",
+      "name": "张氏烧鸡",
+      "type": "dishes",
+      "kind": "地方整鸡熟食",
+      "description": "濮阳张氏烧鸡突出干香与嫩烂的鸡肉质地，既可热食也可作为凉盘，属于当地有具体店号关联的熟食。",
+      "detail": "整鸡熟制后可拆分装盘，鸡皮、鸡肉与骨边肉各有口感；蘸料会改变咸香层次，也可直接品尝肉味。",
+      "sources": [
+        "six-af39c3c19e2f1f"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-00d51cb06d",
+      "province": "henan",
+      "city": "濮阳",
+      "name": "南乐芝麻糖",
+      "type": "dishes",
+      "kind": "麦芽糖芝麻糖食",
+      "description": "南乐芝麻糖以麦芽糖料与芝麻结合，传统形状有八字形，入口香甜酥脆，芝麻香覆盖糖体。",
+      "detail": "麦芽制糖与芝麻炒香是两条原料线，糖料包裹芝麻后定形，成品兼有拉糖的甜香和坚果的烘香。",
+      "sources": [
+        "six-ffc7c603425570"
+      ]
+    },
+    {
+      "id": "flavor-henan-3c436bb7c5",
+      "province": "henan",
+      "city": "许昌",
+      "name": "河街腐竹",
+      "type": "ingredients",
+      "kind": "豆浆挑皮干货",
+      "description": "许昌河街腐竹以豆浆表面凝成的豆皮加工，干品淡黄、带豆香，泡发后可凉拌，也可烧肉或配蔬菜。",
+      "detail": "干燥后的条片较脆，吸水后恢复柔韧；腐竹本身是豆制食材，烹调时能够吸收汤汁和酱料的味道。",
+      "sources": [
+        "six-0527c5017e1d43"
+      ]
+    },
+    {
+      "id": "flavor-henan-f7945a13c3",
+      "province": "henan",
+      "city": "许昌",
+      "name": "百子寿桃",
+      "type": "staples",
+      "kind": "寿桃造型面点",
+      "description": "许昌百子寿桃把小桃形面点组合在大寿桃外壳中，小桃可包枣泥馅，兼有甜点与庆寿造型的特点。",
+      "detail": "面团经反复擀叠塑形，再以较温和的火候烘制定型；大小桃组合成整体，是其与普通单个寿桃的区别。",
+      "sources": [
+        "six-7e45893a892f84"
+      ]
+    },
+    {
+      "id": "flavor-henan-f3d43d4259",
+      "province": "henan",
+      "city": "许昌",
+      "name": "陈化店矿泉水",
+      "type": "drinks",
+      "kind": "鄢陵地方饮用水",
+      "description": "陈化店矿泉水关联许昌鄢陵陈化店镇，地方茶馆以当地水泡茶，饮水与待客茶事共同构成地方风物。",
+      "detail": "水源介绍涉及中深层地下水；此处记录地域和泡茶用途，具体瓶装产品的水源、指标及名称以标签为准。",
+      "sources": [
+        "six-954e4d2249f954"
+      ]
+    },
+    {
+      "id": "flavor-henan-16b2a471d7",
+      "province": "henan",
+      "city": "漯河",
+      "name": "胡辣汤",
+      "type": "dishes",
+      "kind": "肉汤面筋辣汤",
+      "description": "漯河胡辣汤以牛羊肉汤、面筋、粉条等煮成，胡椒与香料带来辛香，稠汤常与油条、包子等早餐搭配。",
+      "detail": "面筋水或粉料让汤汁变稠，肉料和粉条补充咀嚼感；与豆腐脑同盛的“两掺”又形成另一种早餐组合。",
+      "sources": [
+        "six-980131025624f2"
+      ],
+      "proteins": [
+        "牛",
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-henan-132ae739db",
+      "province": "henan",
+      "city": "漯河",
+      "name": "郾城豆腐盒",
+      "type": "dishes",
+      "kind": "酿馅豆腐菜",
+      "description": "郾城豆腐盒以豆腐制成容纳馅料的盒形，配肉馅等加工，豆香、馅香与汤汁结合，是漯河地方菜。",
+      "detail": "豆腐外壳与内部馅料呈现两种质地，烹调既要让馅熟透，也要保持外形，成品可带汤汁同食。",
+      "sources": [
+        "six-880ae87dc747ab"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-9f5175903b",
+      "province": "henan",
+      "city": "漯河",
+      "name": "贾湖酒",
+      "type": "alcohol",
+      "kind": "舞阳地方白酒",
+      "description": "贾湖酒与漯河舞阳北舞渡一带地方酿酒相连，成品突出粮香和醇厚酒味，是当地具有明确名称的酒品。",
+      "detail": "地方文化名称与现代酒品的原料、工艺需要分别辨认；具体酒精度和香型随产品系列，以实物标示为准。",
+      "sources": [
+        "six-0d543d46122f27"
+      ]
+    },
+    {
+      "id": "flavor-henan-9c4b66299c",
+      "province": "henan",
+      "city": "三门峡",
+      "name": "五香面豆",
+      "type": "staples",
+      "kind": "小粒烘焙面食",
+      "description": "三门峡五香面豆以小麦面揉制、发酵，切成豆粒状后烘焙，颗粒小巧，口感酥脆，带面香与香料味。",
+      "detail": "传统介绍记录白绵土作传热介质的烘焙工艺；“面豆”指面粉做成的小粒食品，主要原料并不是黄豆。",
+      "sources": [
+        "six-609af8d1094bb5"
+      ]
+    },
+    {
+      "id": "flavor-henan-96307dbfc3",
+      "province": "henan",
+      "city": "三门峡",
+      "name": "大营麻花",
+      "type": "staples",
+      "kind": "地方油炸麻花",
+      "description": "三门峡大营麻花将面条搓拧后油炸，成品酥香，地方介绍同时记录软面、硬面两种加工风格。",
+      "detail": "面团含水量与配方不同，会改变麻花的酥软程度；外形虽同为绞股长条，内部质地并非只有一种。",
+      "sources": [
+        "six-0eaf3bcb2b65a3"
+      ]
+    },
+    {
+      "id": "flavor-henan-4d83ee5060",
+      "province": "henan",
+      "city": "三门峡",
+      "name": "仰韶酒",
+      "type": "alcohol",
+      "kind": "渑池地方白酒",
+      "description": "仰韶酒关联三门峡渑池，以粮谷酿造形成酒香，地方产品介绍记录高粱原料与泥池发酵等工艺线索。",
+      "detail": "酒品名称借地方文化形成辨识，具体系列在香型、度数和包装上有所不同，不能以单一旧款参数代表全部。",
+      "sources": [
+        "six-847ce50b78795d"
+      ]
+    },
+    {
+      "id": "flavor-henan-ddbd0645e7",
+      "province": "henan",
+      "city": "三门峡",
+      "name": "脂油烧饼",
+      "type": "staples",
+      "kind": "旋纹叠层烧饼",
+      "description": "三门峡脂油烧饼外形扁圆，旋纹相套，烘烙后外层焦香、内部较软，掰开可见层层薄片。",
+      "detail": "油脂与面层结合形成分层口感，既可保持整饼食用，也能挤压抖开成松散片条，呈现不同入口方式。",
+      "sources": [
+        "six-07c8017edc490d"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-a855a3f4f5",
+      "province": "henan",
+      "city": "南阳",
+      "name": "博望锅盔",
+      "type": "staples",
+      "kind": "方城厚面锅盔",
+      "description": "博望锅盔来自南阳方城博望镇，饼体较厚，颜色偏白，外层酥香、内部筋韧，是当地具名烙烤面食。",
+      "detail": "面团经过反复揉压与翻烙，让厚饼内部成熟而表面不过焦；名称与锅形、盔形外观相连，切块后更易分食。",
+      "sources": [
+        "six-84fc67e74ce88d"
+      ]
+    },
+    {
+      "id": "flavor-henan-c8ab5ba662",
+      "province": "henan",
+      "city": "南阳",
+      "name": "桐柏豆筋",
+      "type": "ingredients",
+      "kind": "豆浆凝皮干货",
+      "description": "桐柏豆筋以大豆加工豆浆，挑取浆面凝成的豆皮再晾干，泡软后质地滑韧，豆香清楚，是南阳地方豆制品。",
+      "detail": "挑皮、成条和干燥改变豆浆的形态，复水后可凉拌、炒菜、烧肉或入火锅，能够吸附配菜与汤汁的味道。",
+      "sources": [
+        "six-90a7a9d1fe99d2"
+      ]
+    },
+    {
+      "id": "flavor-henan-1b0e4cec55",
+      "province": "henan",
+      "city": "南阳",
+      "name": "桐柏红",
+      "type": "tea",
+      "kind": "桐柏山红茶",
+      "description": "桐柏红利用桐柏茶区鲜叶，经萎凋、揉捻、发酵和烘干制成，茶汤红亮，带甜润茶香与蜜韵。",
+      "detail": "原料有一芽一叶、一芽二叶等采摘规格，分级和发酵影响风味；它与同产区的绿茶属于不同加工路线。",
+      "sources": [
+        "six-2e9ec2bdc464db"
+      ]
+    },
+    {
+      "id": "flavor-henan-e1c7f7b73b",
+      "province": "henan",
+      "city": "南阳",
+      "name": "桐柏玉叶茶",
+      "type": "tea",
+      "kind": "扁形地方绿茶",
+      "description": "桐柏玉叶茶关联桐柏山太白顶东侧等茶区，干茶扁平、色泽绿翠，冲泡后汤色清亮，滋味鲜醇。",
+      "detail": "扁形外观与制茶整形相连，嫩芽叶形成清鲜茶味；它与桐柏红分别记录，不把同产区不同工艺合成一款。",
+      "sources": [
+        "six-2eff84dce644f0"
+      ]
+    },
+    {
+      "id": "flavor-henan-7f3e505ae8",
+      "province": "henan",
+      "city": "南阳",
+      "name": "刘集黄酒",
+      "type": "alcohol",
+      "kind": "米粮发酵黄酒",
+      "description": "南阳刘集黄酒以小米、糯米等粮食配麦曲加工，经发酵、过滤和陈放形成酒香，属于地方发酵酒。",
+      "detail": "粮食经糖化与发酵后，米香、甜味与酒味相互结合；黄酒与蒸馏白酒工艺不同，度数也应看具体产品标签。",
+      "sources": [
+        "six-ec93c1d087b5f3"
+      ]
+    },
+    {
+      "id": "flavor-henan-b34e25cd6d",
+      "province": "henan",
+      "city": "南阳",
+      "name": "界中米醋",
+      "type": "seasoning",
+      "kind": "宛城小米酿醋",
+      "description": "界中米醋来自南阳宛城瓦店界中，以小米等酿制，醋色深褐，酸味中带谷物酿造香，可作蘸料或入菜。",
+      "detail": "地方醋名保留界中地名，适合观察粮食加工与家庭调味的联系；记录酸香与原料，不沿用来源中的疗效说法。",
+      "sources": [
+        "six-b569ba03b6f8fc"
+      ]
+    },
+    {
+      "id": "flavor-henan-4bae0279f5",
+      "province": "henan",
+      "city": "南阳",
+      "name": "镇平烧鸡",
+      "type": "dishes",
+      "kind": "先炸后卤整鸡",
+      "description": "镇平烧鸡以整鸡加工，表皮着色后油炸，再放入香料老汤卤煮，成品皮香、肉烂，咸香进入肉内。",
+      "detail": "蜂蜜水帮助表皮形成色泽，香料与老汤构成卤味；慢煮让鸡肉与骨头逐渐松离，整形则保留熟鸡的完整外观。",
+      "sources": [
+        "six-456319ccf01d37"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-9cd6dda927",
+      "province": "henan",
+      "city": "商丘",
+      "name": "郭家水煎包",
+      "type": "staples",
+      "kind": "煎蒸结合包子",
+      "description": "商丘郭家水煎包以包馅面团入锅，借水汽与锅底油温共同熟制，成品底部焦香，面皮较软。",
+      "detail": "水煎让包子同时带有蒸食和煎食的质地，锅底形成薄脆层，内部馅料则保留汁水，与整笼清蒸包不同。",
+      "sources": [
+        "six-641d15edde8ace"
+      ]
+    },
+    {
+      "id": "flavor-henan-4404652cf6",
+      "province": "henan",
+      "city": "商丘",
+      "name": "大有丰酱菜",
+      "type": "seasoning",
+      "kind": "地方酱腌佐餐菜",
+      "description": "商丘大有丰酱菜与当地酱园食品相连，蔬菜经腌制和酱渍形成咸甜酱香，可作粥饭旁的小份佐餐菜。",
+      "detail": "不同菜坯在脆嫩程度、咸甜比例上各有特点，品牌关联的是酱菜系列，具体原料与配方应按单品分别辨认。",
+      "sources": [
+        "six-efb990741a048d"
+      ]
+    },
+    {
+      "id": "flavor-henan-f690af2de7",
+      "province": "henan",
+      "city": "商丘",
+      "name": "皇沟御酒",
+      "type": "alcohol",
+      "kind": "永城地方白酒",
+      "description": "皇沟御酒关联商丘永城，以粮谷酿制形成醇厚酒香，是当地有明确品牌与地名关联的地方酒品。",
+      "detail": "白酒系列有不同规格和度数，酿酒原料与工艺决定风味；品牌名称中的文化用语不作为历史贡酒的证明。",
+      "sources": [
+        "six-e7c2220b460c87"
+      ]
+    },
+    {
+      "id": "flavor-henan-2073fd2921",
+      "province": "henan",
+      "city": "商丘",
+      "name": "张弓酒",
+      "type": "alcohol",
+      "kind": "宁陵地方白酒",
+      "description": "张弓酒与商丘宁陵张弓镇相连，以地方粮谷酿酒传统形成品牌辨识，酒香与粮食发酵、蒸馏加工有关。",
+      "detail": "张弓地名保留在产品名称中，同品牌不同年份和系列并不等同，具体香型与酒精度应依所选产品标示。",
+      "sources": [
+        "six-7d2994f0be2e95"
+      ]
+    },
+    {
+      "id": "flavor-henan-8cedfb1b9e",
+      "province": "henan",
+      "city": "商丘",
+      "name": "陈店麻花",
+      "type": "staples",
+      "kind": "虞城绞股麻花",
+      "description": "陈店麻花又与景家麻花名称相连，地域归属是商丘虞城陈店集，面条搓拧油炸，成品香酥，有甜咸风味。",
+      "detail": "面粉配糖或盐等和面，经过搓条、打花和油炸形成绳头状；两个相关名称合并收录，避免当作两项重复计数。",
+      "sources": [
+        "six-6afca6f0d6ee7f"
+      ]
+    },
+    {
+      "id": "flavor-henan-5635a8ebba",
+      "province": "henan",
+      "city": "商丘",
+      "name": "民权葡萄酒",
+      "type": "alcohol",
+      "kind": "地方葡萄酿酒",
+      "description": "民权葡萄酒与商丘民权的葡萄加工相连，成品以葡萄果香和发酵酒香为特点，是当地粮酒之外的酒品线索。",
+      "detail": "葡萄品种、发酵和陈放会改变酒的色泽、甜度与香气；此处保留产区概念，不用单一规格代表所有产品。",
+      "sources": [
+        "six-8af77b226534ec"
+      ]
+    },
+    {
+      "id": "flavor-henan-d69d3ba5aa",
+      "province": "henan",
+      "city": "信阳",
+      "name": "信阳毛尖",
+      "type": "tea",
+      "kind": "条形炒青绿茶",
+      "description": "信阳毛尖是信阳代表绿茶，干茶条索紧细，冲泡后汤色浅绿至黄绿，茶香清鲜，滋味浓醇而爽口。",
+      "detail": "嫩度、条索与加工火候共同影响茶味，识别时可结合干茶和叶底；具体山场、等级与采摘时间另看产品说明。",
+      "sources": [
+        "six-8753e8d34b283c"
+      ]
+    },
+    {
+      "id": "flavor-henan-1a97c85b15",
+      "province": "henan",
+      "city": "信阳",
+      "name": "金刚碧绿茶",
+      "type": "tea",
+      "kind": "商城扁形绿茶",
+      "description": "金刚碧绿茶产区关联信阳商城金刚台，以嫩芽叶经摊放、杀青、理条和烘焙制成，外形扁直，茶味鲜爽。",
+      "detail": "杀青保留绿茶风格，理条与烘焙形成外观和香气；同属信阳茶区，它与条形毛尖的造型仍有区别。",
+      "sources": [
+        "six-a00fdcfd528329"
+      ]
+    },
+    {
+      "id": "flavor-henan-e2fe8cbfa3",
+      "province": "henan",
+      "city": "信阳",
+      "name": "商城烟熏腊肉",
+      "type": "dishes",
+      "kind": "腌晒烟熏猪肉",
+      "description": "商城烟熏腊肉把猪肉分条腌制，再晾晒、烟熏，瘦肉棕红，脂肪与烟香结合，是信阳商城的地方腊味。",
+      "detail": "腌制先让盐味进入肉中，后续干燥和烟熏逐步形成香气；熟制后可切片配蔬菜，突出腊肉的紧实咸香。",
+      "sources": [
+        "six-7ca640baec3072"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-6bbf441d4d",
+      "province": "henan",
+      "city": "信阳",
+      "name": "商城烧饼",
+      "type": "staples",
+      "kind": "肉馅手打烧饼",
+      "description": "商城烧饼以面粉、猪肉、香油等加工，面团反复揉打后包入肉馅，手工拉打成形，成品带面香与肉香。",
+      "detail": "面团的揉打影响延展和嚼劲，手掌间整形留下地方制作特点；它以包馅面饼收录，不与干挂面混为一项。",
+      "sources": [
+        "six-e138c7463d066f"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-49f19b89ba",
+      "province": "henan",
+      "city": "信阳",
+      "name": "商城发糕",
+      "type": "staples",
+      "kind": "米浆发酵蒸糕",
+      "description": "商城发糕把大米浸泡磨浆，加入甜酒、糖等发酵后蒸制，糕体松软，米香、甜香与轻微发酵香结合。",
+      "detail": "米浆发起后以蒸汽定形，切块可见较疏松的内部组织；主要原料是米，仍归入广义米面主食的面食分类。",
+      "sources": [
+        "six-7dd85d1a944087"
+      ]
+    },
+    {
+      "id": "flavor-henan-997ba00722",
+      "province": "henan",
+      "city": "信阳",
+      "name": "固始糍粑",
+      "type": "staples",
+      "kind": "捶制糯米食品",
+      "description": "固始糍粑以糯米蒸熟后反复捶捣，趁热整成片块，糯性强、口感绵韧，是信阳固始地方米食。",
+      "detail": "捶打使米粒逐渐黏合，切块后可烤、煎或煮，外层焦香与内部软糯能形成对照，做法会改变最终质地。",
+      "sources": [
+        "six-b2b16aaada9bdd"
+      ]
+    },
+    {
+      "id": "flavor-henan-436384caf7",
+      "province": "henan",
+      "city": "信阳",
+      "name": "双柳板鸭",
+      "type": "dishes",
+      "kind": "潢川地方鸭食",
+      "description": "双柳板鸭关联信阳潢川双柳树镇，以鸭加工成地方熟食原料，肉丰、咸香，可蒸食或清炖后分切。",
+      "detail": "板鸭的加工使盐味和鸭肉香结合，蒸制与炖制呈现不同软硬度；收录具体地方产品，不采用野生来源的宣传。",
+      "sources": [
+        "six-84897065c035e0"
+      ]
+    },
+    {
+      "id": "flavor-henan-243a5e2341",
+      "province": "henan",
+      "city": "信阳",
+      "name": "板栗汁",
+      "type": "drinks",
+      "kind": "潢川植物饮品",
+      "description": "信阳潢川板栗汁以板栗仁加工成饮品，入口细腻，带板栗甜香，属于植物原料饮品，不是牛奶或奶茶。",
+      "detail": "板栗仁经加工形成可饮的液体，配料、甜度和浓度随产品不同；植物饮品的具体分类仍以实物标签为准。",
+      "sources": [
+        "six-f3a9c7331ea392"
+      ]
+    },
+    {
+      "id": "flavor-henan-7955f9fa12",
+      "province": "henan",
+      "city": "信阳",
+      "name": "潢川空心贡面",
+      "type": "staples",
+      "kind": "手工拉伸细面",
+      "description": "潢川空心贡面以小麦粉和盐水和面，经过盘条、绕筷、醒发和多次拉伸晾干，面条细长，截面带微孔。",
+      "detail": "反复醒发和拉伸形成细条与内部结构，晾晒完成干面形态；煮后质地柔韧，可配清汤，也能吸收肉汤滋味。",
+      "sources": [
+        "six-7259feed88c3f6"
+      ]
+    },
+    {
+      "id": "flavor-henan-2f50da6b20",
+      "province": "henan",
+      "city": "周口",
+      "name": "宋河粮液酒",
+      "type": "alcohol",
+      "kind": "鹿邑粮谷白酒",
+      "description": "宋河粮液与周口鹿邑地方酿酒相连，以高粱配大曲糖化发酵，经过固态泥池发酵和蒸馏形成粮酒香气。",
+      "detail": "小麦、大麦、豌豆等可参与制曲，粮谷与曲共同影响发酵风味；具体香型、酒精度及配料依产品标签辨认。",
+      "sources": [
+        "six-014681e2bbc42c"
+      ]
+    },
+    {
+      "id": "flavor-henan-7ddbcd7efc",
+      "province": "henan",
+      "city": "周口",
+      "name": "孔集烧鸡",
+      "type": "dishes",
+      "kind": "地方卤制整鸡",
+      "description": "周口孔集烧鸡以整鸡熟制，成品颜色黄中带红，鸡肉软烂而筋皮仍有口感，是当地具名的熟食。",
+      "detail": "鸡皮着色和肉质嫩度形成识别特点，分切后可作冷盘或家常佐餐；地方名称与店号共同保留在食品记忆中。",
+      "sources": [
+        "six-83c1586add34e3"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-0439bc16d6",
+      "province": "henan",
+      "city": "周口",
+      "name": "观堂麻片",
+      "type": "dishes",
+      "kind": "薄片芝麻糖食",
+      "description": "观堂麻片关联周口地方糖食，以芝麻、糖、红薯粉和蛋清等加工，片体很薄，入口甜脆，带芝麻香。",
+      "detail": "粉料、蛋清与糖料帮助形成薄片结构，芝麻补充坚果烘香；它是薄脆糖食，不能仅因含粉就视作面条类主食。",
+      "sources": [
+        "six-e9a2fb6d3806b1"
+      ]
+    },
+    {
+      "id": "flavor-henan-c5b316b83e",
+      "province": "henan",
+      "city": "周口",
+      "name": "郸城张集熏鸡",
+      "type": "dishes",
+      "kind": "老汤煮制熏鸡",
+      "description": "郸城张集熏鸡以整鸡入老汤煮制，再经熏制形成颜色和香气，肉质软嫩、外形较完整，是周口地方鸡食。",
+      "detail": "煮制让香料味进入鸡肉，趁热熏制又形成表层熏香；两段加工分别影响内部滋味与外部色香。",
+      "sources": [
+        "six-b188a0e8508805"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-fbf9f7f0bd",
+      "province": "henan",
+      "city": "周口",
+      "name": "酱黄花菜",
+      "type": "seasoning",
+      "kind": "淮阳酱渍金针菜",
+      "description": "淮阳酱黄花菜以黄花菜配甜面酱等加工，入口脆嫩，咸甜酱香相合，是周口地方佐餐小菜。",
+      "detail": "菜坯经过腌渍后再吸收酱香，黄花菜的条状外观仍可辨认，食用时可少量配粥饭，体现酱菜的浓缩滋味。",
+      "sources": [
+        "six-6fa248f7265241"
+      ]
+    },
+    {
+      "id": "flavor-henan-c47d780dc6",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "王勿桥伏陈醋",
+      "type": "seasoning",
+      "kind": "正阳小麦酿醋",
+      "description": "王勿桥伏陈醋关联驻马店正阳，以小麦等为主要原料，经历缸中酿制和陈放，醋香浓厚，酸中带微甜。",
+      "detail": "地方工艺叙述把伏天封缸与陈藏联系起来，名称保留时令和储藏特点；作为调味醋收录，不转述保健疗效。",
+      "sources": [
+        "six-2d896e889e3523"
+      ]
+    },
+    {
+      "id": "flavor-henan-ee594b486d",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "水上漂酱菜",
+      "type": "seasoning",
+      "kind": "新蔡酱腌食品",
+      "description": "水上漂酱菜关联驻马店新蔡，产品线包括西瓜酱豆、甜脆蒜瓣等，分别突出浓酱香与甜脆微酸口感。",
+      "detail": "不同蔬菜和豆类经过酱腌形成多种风味，品牌系列保留为一项，具体单品原料和工艺以产品说明分别识别。",
+      "sources": [
+        "six-0b37acd8143685"
+      ]
+    },
+    {
+      "id": "flavor-henan-5c5ff70a1c",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "野里烧饼",
+      "type": "staples",
+      "kind": "新蔡葱油烤饼",
+      "description": "野里烧饼关联驻马店新蔡，以面粉、油脂和葱花等制饼，外撒芝麻后烘烤，成品枣红，焦酥中带柔软。",
+      "detail": "表面芝麻在烘烤中添香，内层葱花和油脂让面层有咸香；饼皮着色与内部软度共同构成地方风格。",
+      "sources": [
+        "six-0a306769047986"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-henan-aee07a7c0b",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "平舆小磨香油",
+      "type": "seasoning",
+      "kind": "白芝麻香油",
+      "description": "平舆小磨香油以当地白芝麻等加工，带炒芝麻的浓香，可用于凉拌、蒸蛋和面汤，是驻马店地方调味。",
+      "detail": "芝麻原料经焙炒后产生香气，再经磨制等工序取油；少量香油便能改变汤菜气味，适合观察地方油料加工。",
+      "sources": [
+        "six-fc2b1ee551282a"
+      ]
+    },
+    {
+      "id": "flavor-henan-6852bb06ed",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "泌阳五香驴肉",
+      "type": "dishes",
+      "kind": "香料腌煮驴肉",
+      "description": "泌阳五香驴肉选用驴肉配丁香、桂皮、草果等香辛料，经腌制、蒸煮等制成，肉香与五香味结合。",
+      "detail": "原料肉的纤维和香料配方影响咀嚼与回味，成品可切片佐餐；包装熟食的保存条件以实际产品标示为准。",
+      "sources": [
+        "six-de10b5befc1c45"
+      ]
+    },
+    {
+      "id": "flavor-henan-f0cee81171",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "汝南鸡汁豆腐干",
+      "type": "dishes",
+      "kind": "鸡汤卤制豆干",
+      "description": "汝南鸡汁豆腐干以黄豆制坯，再入鸡汤、酱油与香料汤中浸煨，成品紧实有嚼劲，豆香与汤鲜相合。",
+      "detail": "压制先让豆腐去水成形，后续多段卤制把汤味带入内部，晾干又收紧质地，是豆干与鸡汤结合的地方做法。",
+      "sources": [
+        "six-d79e0a58bdbdd6"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-henan-51cd400a34",
+      "province": "henan",
+      "city": "驻马店",
+      "name": "汝南马蹄馓子",
+      "type": "staples",
+      "kind": "细条油炸馓子",
+      "description": "汝南马蹄馓子以面粉、清油等炸制，条细色黄，干食焦酥，入汤后又转柔韧，是驻马店地方米面小吃。",
+      "detail": "面团搓拉成细条并整形，油炸形成疏松脆感；同一食品可以干吃或配汤，油香与吸汤后的口感各有特点。",
+      "sources": [
+        "six-e92a89da9c51b3"
+      ]
+    },
+    {
+      "id": "flavor-henan-93d1fcc10c",
+      "province": "henan",
+      "city": "济源",
+      "name": "济源土馍",
+      "type": "staples",
+      "kind": "小粒烘焙面食",
+      "description": "济源土馍以面粉配鸡蛋、芝麻、香油、葱花等加工，成品微黄、酥香，外层与内部带不同软硬度。",
+      "detail": "地方介绍记录使用白面土作烘焙传热介质的工艺，食品主体仍为面团；这里只记录面食形态与风味。",
+      "sources": [
+        "six-9907d4049deb46"
+      ]
+    },
+    {
+      "id": "flavor-henan-13a2cff1e5",
+      "province": "henan",
+      "city": "济源",
+      "name": "济源玉皇李",
+      "type": "ingredients",
+      "kind": "地方李子鲜果",
+      "description": "济源玉皇李果皮较薄，果肉淡黄、多汁，入口甜酸相间，可鲜食，也可加工为果酱、果脯等食品。",
+      "detail": "地方山前小气候与果树栽培相连，成熟度会影响软硬和酸甜；作为鲜果食材收录，与即食菜和饮料分别归类。",
+      "sources": [
+        "six-2fc83b4b657341"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c377535219",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "金凤扒鸡",
+      "type": "dishes",
+      "kind": "老汤卤制整鸡",
+      "description": "金凤扒鸡是石家庄具名鸡食，整鸡以蜂蜜等上色炸制，再入香料老汤煮熟，成品皮香、肉质嫩烂。",
+      "detail": "表皮着色与老汤卤煮是两段不同加工，前者形成色香，后者让汤味进入肉内；这里保留食品工艺而不附会疗效。",
+      "sources": [
+        "six-ef086d770825c9"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hebei-d3070d2d47",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "正定八大碗",
+      "type": "dishes",
+      "kind": "荤素蒸碗宴席",
+      "description": "正定八大碗以多碗荤素菜组合待客，常见四荤四素搭配，蒸、炖、烧等烹法让一桌菜有不同质地。",
+      "detail": "“八大碗”指成组宴席形式，具体配菜有变化，肉菜与素菜共同配馒头或米饭，并不等于八道菜在所有店中完全相同。",
+      "sources": [
+        "six-055f1232c21b09"
+      ]
+    },
+    {
+      "id": "flavor-hebei-d670fec647",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "金毛狮子鱼",
+      "type": "dishes",
+      "kind": "蓬松糖醋鱼菜",
+      "description": "金毛狮子鱼与石家庄地方名菜相连，鱼肉细切造型后炸制，成品金黄蓬松，形似狮鬃，配汁酸甜适口。",
+      "detail": "刀工让鱼肉形成细丝外观，油炸使外层酥香，糖醋汁又带入湿润酸甜，鱼的形态与口味共同构成菜名。",
+      "sources": [
+        "six-d98da2cb6d8ef3"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hebei-45ea61d5ad",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "藁城宫面",
+      "type": "staples",
+      "kind": "细条空心挂面",
+      "description": "藁城宫面以小麦粉、油、盐等加工，面条细长、截面带空隙，煮后柔韧，是石家庄藁城的地方面食。",
+      "detail": "拉伸、整形与干燥形成条细心空的特点，适合配清汤或肉汤；“宫面”保留传统名称，原料仍以具体产品标示为准。",
+      "sources": [
+        "six-b8b5aee9eb0311"
+      ]
+    },
+    {
+      "id": "flavor-hebei-01f97ee16e",
+      "province": "hebei",
+      "city": "石家庄",
+      "name": "缸炉烧饼",
+      "type": "staples",
+      "kind": "缸壁贴烤面饼",
+      "description": "石家庄缸炉烧饼把饼坯贴在横卧缸炉内壁烘烤，成品鼓起、色泽焦黄，入口香酥，是冀中地方面食。",
+      "detail": "缸壁的蓄热和内壁曲面影响贴饼与受热，火候既要让饼熟透，又要避免脱落，形成有别于平锅烙饼的外层。",
+      "sources": [
+        "six-e209d01f8e82ee"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c8b0759c3e",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "棋子烧饼",
+      "type": "staples",
+      "kind": "小鼓形酥皮烧饼",
+      "description": "唐山棋子烧饼个头小、形如棋子，以油酥面皮包肉、糖或什锦等馅料，烤后层次松酥、表面金黄。",
+      "detail": "油脂与面层结合形成酥皮，馅料又有咸甜多种路线；名称来自小巧外形，同一面食不因不同馅口重复计数。",
+      "sources": [
+        "six-6692c8db371a6a"
+      ]
+    },
+    {
+      "id": "flavor-hebei-3af1d747c4",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "唐山麻糖",
+      "type": "staples",
+      "kind": "团花形蜜汁面点",
+      "description": "唐山麻糖由薄面片加工成团花形，炸制后结合糖蜜，层片薄，入口香甜，兼有松软和微脆的质地。",
+      "detail": "地方制作线索与排叉、麻叶等油炸面点相连，薄片和糖汁共同形成口感，区别于坚果为主体的芝麻糖块。",
+      "sources": [
+        "six-48e8e181c4ae54"
+      ]
+    },
+    {
+      "id": "flavor-hebei-ce33159a29",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "咯扎",
+      "type": "dishes",
+      "kind": "豆面薄片菜",
+      "description": "唐山咯扎又写作饹馇，以豆面等制成薄饼再切块，可炒、炸或烩菜，豆香与不同汤汁、调味相结合。",
+      "detail": "大饹馇和小饹馇在厚薄上有所区别，薄片也可作包卷材料；它作为豆面加工菜收录，名称写法合并为同一项。",
+      "sources": [
+        "six-b681db44876317"
+      ]
+    },
+    {
+      "id": "flavor-hebei-b32a3f1434",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "唐山懒豆腐",
+      "type": "dishes",
+      "kind": "碎豆炖干菜",
+      "description": "唐山懒豆腐将泡好的黄豆磨碎，与干白菜等同炖，豆粒、豆浆与菜叶混合，形成浓厚的农家豆菜风味。",
+      "detail": "豆子不必先制成完整豆腐块，碎豆与干菜在炖煮中结合，花椒水、蒜等补充香味，“懒”字联系简化的加工形态。",
+      "sources": [
+        "six-d70ecb61fba7de"
+      ]
+    },
+    {
+      "id": "flavor-hebei-66446039c1",
+      "province": "hebei",
+      "city": "唐山",
+      "name": "唐山虾酱",
+      "type": "seasoning",
+      "kind": "沿海小虾发酵酱",
+      "description": "唐山虾酱关联沿海小虾加工，以盐渍发酵形成浓稠酱体，带鲜咸海味，可蒸蛋、炒菜或作小份调味。",
+      "detail": "发酵使虾料的质地与气味改变，成品通常用量较少；虾酱本体与加鸡蛋、辣椒等做成的菜应分别辨认。",
+      "sources": [
+        "six-f0f1cd4e67982a"
+      ]
+    },
+    {
+      "id": "flavor-hebei-46abffd710",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "老二位麻酱烧饼",
+      "type": "staples",
+      "kind": "麻酱分层烧饼",
+      "description": "秦皇岛老二位麻酱烧饼以面粉、芝麻酱、花椒和芝麻等制作，面层卷叠后烙烤，麻香浓、层次分明。",
+      "detail": "花椒炒香磨细后与麻酱进入面层，表面芝麻又添烘香；卷叠与烤制使烧饼内部松软、外表微焦。",
+      "sources": [
+        "six-49b3ba4110fbd5"
+      ]
+    },
+    {
+      "id": "flavor-hebei-67364a167c",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "杨长子火腿肠",
+      "type": "dishes",
+      "kind": "北戴河肉制熟食",
+      "description": "杨长子火腿肠与秦皇岛北戴河地方肉食相连，源于店号和制肠技艺，成品突出醇厚肉香与紧实质地。",
+      "detail": "地方食品记忆与制作人杨庭珍相连，品牌名称保留个人称呼；火腿肠系列的具体配料、熏制方式依单品辨认。",
+      "sources": [
+        "six-40e4ca82f504e9"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c0ed510a20",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "昌黎葡萄酒",
+      "type": "alcohol",
+      "kind": "沿海葡萄酒产区",
+      "description": "昌黎葡萄酒关联秦皇岛昌黎酿酒葡萄种植与加工，产区以干红等产品形成辨识，带葡萄果香与发酵酒香。",
+      "detail": "赤霞珠等葡萄品种进入当地种植和酿酒链条，不同酒庄、年份与系列口味有别，产区概念不能替代具体产品标签。",
+      "sources": [
+        "six-2b0a4f29eedb7a"
+      ]
+    },
+    {
+      "id": "flavor-hebei-ac37d2e144",
+      "province": "hebei",
+      "city": "秦皇岛",
+      "name": "粉鸽子",
+      "type": "dishes",
+      "kind": "绿豆面薄饼菜",
+      "description": "秦皇岛粉鸽子以绿豆面等摊成很薄的圆饼，切片后可炒、炖、炸或包卷，成品带豆香与柔韧质地。",
+      "detail": "名称里的“鸽子”指地方食品叫法，主要原料并不是鸽肉；薄饼受热和吸汁后可呈现脆、软等不同口感。",
+      "sources": [
+        "six-fad2b98882f6ed"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c1bc71d1b4",
+      "province": "hebei",
+      "city": "邯郸",
+      "name": "二毛烧鸡",
+      "type": "dishes",
+      "kind": "大名地方烧鸡",
+      "description": "二毛烧鸡又与珍积成烧鸡名称相连，来自邯郸大名地方熟食传统，整鸡加工后咸香入味，保留完整鸡形。",
+      "detail": "店号与人物称呼形成食品名称，鸡肉、皮与骨边肉呈现不同质地；作为同一地方食品收录，不按别名拆成两张卡。",
+      "sources": [
+        "six-5ea240556ec860"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hebei-e4ed886ceb",
+      "province": "hebei",
+      "city": "邯郸",
+      "name": "五百居香肠",
+      "type": "dishes",
+      "kind": "大名甜咸香肠",
+      "description": "五百居香肠来自邯郸大名，肉料肥瘦相配，成品条形整齐，入口甜咸兼有，香料味与肉香融合。",
+      "detail": "肉馅比例、灌制和熟成加工共同影响香肠质地，切片后能观察肉料结构，适合以熟食形式少量配主食。",
+      "sources": [
+        "six-deef12fee8da65"
+      ]
+    },
+    {
+      "id": "flavor-hebei-681108f701",
+      "province": "hebei",
+      "city": "邯郸",
+      "name": "武安拽面",
+      "type": "staples",
+      "kind": "手拽家常面条",
+      "description": "武安拽面把和好的软面反复醒揉、拽拉成条，煮熟后配菜卤、肉卤或炸酱，是邯郸武安日常面食。",
+      "detail": "面团含水和拽条均匀程度影响嚼劲，宽窄厚薄可随手工变化；番茄、土豆、鸡蛋等又组成不同家常卤味。",
+      "sources": [
+        "six-c7e94ec7133054"
+      ]
+    },
+    {
+      "id": "flavor-hebei-1b41ba7068",
+      "province": "hebei",
+      "city": "邯郸",
+      "name": "永年驴肉灌肠",
+      "type": "dishes",
+      "kind": "驴肉粉芡熏肠",
+      "description": "永年驴肉灌肠以驴肉末配绿豆粉芡、香油和调味料，灌入肠衣蒸煮后熏制，是邯郸地方肉食。",
+      "detail": "肉末与粉芡让内部组织结合，老汤增加咸鲜，后续熏制又留下表层香气；它与直接切块的酱驴肉形态不同。",
+      "sources": [
+        "six-22953d97815ca9"
+      ]
+    },
+    {
+      "id": "flavor-hebei-71e59ae274",
+      "province": "hebei",
+      "city": "邯郸",
+      "name": "邯郸丛台酒",
+      "type": "alcohol",
+      "kind": "地方浓香白酒",
+      "description": "丛台酒与邯郸地标丛台名称相连，地方产品介绍以浓香、绵软、落口甜净概括风格，是当地粮谷酒品牌。",
+      "detail": "地标为品牌带来地方辨识，具体酒款仍有度数和规格之别；品牌文化故事与现代产品的生产资料需要分别看待。",
+      "sources": [
+        "six-7724b581c20b9d"
+      ]
+    },
+    {
+      "id": "flavor-hebei-8d633d8b86",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "任县老炒肉",
+      "type": "dishes",
+      "kind": "任泽酱香炒肉",
+      "description": "任县老炒肉关联今邢台任泽，以肉片抓芡、过油后加酱急炒，菜色较深、酱香浓，常配当地烧饼或火烧。",
+      "detail": "油脂、酱料与快火炒制构成浓厚风味，肉片外层带芡汁；名称保留旧县称呼，当前行政归属按任泽区说明。",
+      "sources": [
+        "six-17af0dd8fec465"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-0049350089",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "威县火烧",
+      "type": "staples",
+      "kind": "地方烙烤面食",
+      "description": "威县火烧是邢台地方具名面食，面饼经烙烤成熟，表层形成焦香，内部保留面团的柔韧，常作日常主食。",
+      "detail": "面团揉制与炉火共同影响饼体，烤制让面香逐渐集中；地方火烧与包馅烧饼做法不尽相同，具体按店家成品辨认。",
+      "sources": [
+        "six-2f44207ca54805"
+      ]
+    },
+    {
+      "id": "flavor-hebei-f59afd1ccd",
+      "province": "hebei",
+      "city": "邢台",
+      "name": "南宫熏菜",
+      "type": "dishes",
+      "kind": "香料熟制熏肉",
+      "description": "南宫熏菜是邢台南宫地方熟食，以肉料配调味加工，再以熏制增香，形成切片食用的咸香肉制品。",
+      "detail": "“熏菜”在这里是地方食品名称，重心在肉料熟制与熏香，并非一盘熏蔬菜；不同单品可有不同原料结构。",
+      "sources": [
+        "six-11808bf65b589f"
+      ]
+    },
+    {
+      "id": "flavor-hebei-848d9c6f4e",
+      "province": "hebei",
+      "city": "保定",
+      "name": "驴肉火烧",
+      "type": "staples",
+      "kind": "烤饼夹驴肉",
+      "description": "保定驴肉火烧把熟驴肉切碎夹入火烧，热饼外酥、内层吸收肉汁，面香与驴肉咸香共同组成地方主食。",
+      "detail": "火烧的烙烤与驴肉的卤煮分别加工，临食再组合；保定与河间存在不同地方风格，不能把全部做法视作同一标准。",
+      "sources": [
+        "six-837c61ae68303c"
+      ]
+    },
+    {
+      "id": "flavor-hebei-1722f01170",
+      "province": "hebei",
+      "city": "保定",
+      "name": "白肉罩火烧",
+      "type": "staples",
+      "kind": "肉汤浸罩火烧",
+      "description": "白肉罩火烧是保定地方汤饼组合，以熟肉片和火烧配热汤，饼体浸润后变软，肉香与汤味一同入口。",
+      "detail": "“罩”联系用热汤反复浇烫的吃法，和干夹肉的火烧形成不同质地；同样是饼与肉，组合工序改变了成菜风味。",
+      "sources": [
+        "six-d92892fffa433f"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-1a7011c355",
+      "province": "hebei",
+      "city": "保定",
+      "name": "高碑店豆腐丝",
+      "type": "dishes",
+      "kind": "五香豆腐细丝",
+      "description": "高碑店豆腐丝是保定高碑店具名豆食，豆皮切成细条，成品色泽乳黄、质地柔韧，带豆香和五香味。",
+      "detail": "制皮、切丝与调味分别影响薄厚、口感和香气，既可凉拌佐餐，也可与蔬菜同食，是地方豆制品加工的一条线索。",
+      "sources": [
+        "six-ce97b2688dbe07"
+      ]
+    },
+    {
+      "id": "flavor-hebei-42aef53664",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "蔚县八大碗",
+      "type": "dishes",
+      "kind": "地方蒸碗宴席",
+      "description": "蔚县八大碗是张家口蔚县成组待客菜，常有杂烩、蒸肉、丸子等，荤素搭配，分别以蒸、炒等方式成熟。",
+      "detail": "名称指一桌主要菜的组合，具体搭配可随席面变化；不同肉菜与配料形成层次，作为宴席形式整体记录。",
+      "sources": [
+        "six-5e57ba2c45454d"
+      ]
+    },
+    {
+      "id": "flavor-hebei-64c383836b",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "宣化油面窝窝",
+      "type": "staples",
+      "kind": "莜面卷窝蒸食",
+      "description": "宣化油面窝窝的面料实际是莜面，热水和面后推片卷窝、蒸熟，可蘸蘑菇卤等，是张家口宣化的地方面食。",
+      "detail": "“油面”是来源沿用写法，做法与原料对应莜面；窝形让面片立起，薄片与卤汁结合，保留杂粮香与筋韧口感。",
+      "sources": [
+        "six-d035103a987ab8"
+      ]
+    },
+    {
+      "id": "flavor-hebei-1f66ab76b3",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "柴沟堡熏肉",
+      "type": "dishes",
+      "kind": "怀安柏木熏肉",
+      "description": "柴沟堡熏肉关联张家口怀安柴沟堡，以猪肉等熟制后熏香，成品色泽较深，肉质香烂，带明显熏制气味。",
+      "detail": "地方加工介绍记录柏木熏制的工艺特点，肉料先煮入味，再形成外层熏香；不同部位的肥瘦与软硬各有区别。",
+      "sources": [
+        "six-0a57a7a1a0069a"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-342d65276b",
+      "province": "hebei",
+      "city": "张家口",
+      "name": "烧南北",
+      "type": "dishes",
+      "kind": "口蘑竹笋合烧",
+      "description": "张家口烧南北以塞北口蘑与竹笋片同炒、配鲜汤烧制，菌菇鲜味与笋片清香结合，成品带薄芡汁。",
+      "detail": "“南北”联系两种食材的地域意象，菜名并不表示全部原料都产自张家口；薄切后快炒烧制保留两种不同咀嚼感。",
+      "sources": [
+        "six-8f7a4830370876"
+      ]
+    },
+    {
+      "id": "flavor-hebei-0ae3061dda",
+      "province": "hebei",
+      "city": "承德",
+      "name": "都山水豆腐",
+      "type": "dishes",
+      "kind": "宽城嫩豆腐",
+      "description": "都山水豆腐来自承德宽城都山一带，成品近似豆腐脑，洁白细嫩，可配辣椒、香菜、小葱等调味食用。",
+      "detail": "嫩豆腐去掉部分浆水后盛装，豆香与咸鲜小料相合；它以柔滑质地为特点，与晾干后的豆干另有不同口感。",
+      "sources": [
+        "six-ae4b3facf3d831"
+      ]
+    },
+    {
+      "id": "flavor-hebei-0eceae1e72",
+      "province": "hebei",
+      "city": "承德",
+      "name": "八沟羊汤",
+      "type": "dishes",
+      "kind": "平泉羊杂汤",
+      "description": "八沟羊汤与承德平泉相连，八沟是平泉旧称，羊杂配香料熬煮成汤，带羊肉脂香与清醇汤味。",
+      "detail": "不同羊杂提供脆、软等多种咀嚼感，汤与香料共同衬托肉味；名称记录地名变迁，现按平泉市归入承德。",
+      "sources": [
+        "six-9d98b402ad7eaf"
+      ],
+      "proteins": [
+        "羊"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c98b10befb",
+      "province": "hebei",
+      "city": "承德",
+      "name": "改刀肉",
+      "type": "dishes",
+      "kind": "平泉肉笋丝菜",
+      "description": "承德平泉改刀肉以猪肉和竹笋切丝同炒，配鲜汤、酱油等烧入味，肉丝与笋丝交织，咸鲜而有嚼劲。",
+      "detail": "细切刀工让两种食材形态相近，持续炒制与添汤使香味结合；菜名重在原料改切，成菜可堆成较高的盘形。",
+      "sources": [
+        "six-2b778af79fc2b0"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-fdc8258618",
+      "province": "hebei",
+      "city": "承德",
+      "name": "拨御面",
+      "type": "staples",
+      "kind": "隆化荞麦拨面",
+      "description": "拨御面关联承德隆化张三营，以荞麦面等制成面条，手工拨切后煮熟，带杂粮香与筋韧口感。",
+      "detail": "当地也简写为拨面，具体面条粗细与配卤随店家变化；地方面名与荞麦种植、过往交通中的餐食需求相联系。",
+      "sources": [
+        "six-fa5e62f270d6d1"
+      ]
+    },
+    {
+      "id": "flavor-hebei-842e150f02",
+      "province": "hebei",
+      "city": "沧州",
+      "name": "河间驴肉火烧",
+      "type": "staples",
+      "kind": "长形火烧夹肉",
+      "description": "河间驴肉火烧是沧州河间代表面食，烤制火烧夹入熟驴肉，饼皮酥香、肉馅咸鲜，呈现当地不同的火烧风格。",
+      "detail": "饼的烘烤与肉的卤煮先分别完成，再组合成便于手持的主食；同属驴肉火烧，河间与保定分别保留地方归属。",
+      "sources": [
+        "six-b1e394bd10d1a5"
+      ]
+    },
+    {
+      "id": "flavor-hebei-d0791f6d65",
+      "province": "hebei",
+      "city": "沧州",
+      "name": "沧州火锅鸡",
+      "type": "dishes",
+      "kind": "香辣锅煮鸡",
+      "description": "沧州火锅鸡以鸡块、辣椒、香料等炒烧后入锅，浓汤包裹鸡肉，还可继续涮配菜，是当地代表锅食。",
+      "detail": "先炒制形成底味，再让鸡块在汤中入味，吃完肉后续加配菜；鸡肉和锅底共同构成食品，而不是只有通用火锅蘸料。",
+      "sources": [
+        "six-8012a4865289df"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hebei-ba3b166e69",
+      "province": "hebei",
+      "city": "沧州",
+      "name": "金丝杂面丝",
+      "type": "staples",
+      "kind": "杂粮细面",
+      "description": "沧州金丝杂面丝以杂粮粉等制成细条，面丝较细，煮后带谷豆香气，可配汤食用，是当地传统面食品类。",
+      "detail": "原料组合与制面拉切形成细丝结构，干燥后便于分束保存；杂面强调粮豆混合，不能仅凭颜色推断某一种配方。",
+      "sources": [
+        "six-c843154c7f0e71"
+      ]
+    },
+    {
+      "id": "flavor-hebei-d9290b4d66",
+      "province": "hebei",
+      "city": "沧州",
+      "name": "沧州冬菜",
+      "type": "seasoning",
+      "kind": "白菜腌制调味菜",
+      "description": "沧州冬菜以白菜切小块加工，经过腌制形成咸鲜、微甜的浓缩滋味，常作佐餐小菜或为汤面添味。",
+      "detail": "菜坯脱去部分水分后香味集中，颗粒状冬菜既保留蔬菜质地，也能进入汤汁，连接地方菜蔬加工与家庭调味。",
+      "sources": [
+        "six-a7f363637b2fcc"
+      ]
+    },
+    {
+      "id": "flavor-hebei-f6f25a42aa",
+      "province": "hebei",
+      "city": "廊坊",
+      "name": "香河肉饼",
+      "type": "staples",
+      "kind": "薄皮厚馅肉饼",
+      "description": "香河肉饼来自廊坊香河，薄面皮包入较多肉馅，再经烙制成熟，面皮柔软、肉馅多汁，是当地代表面食。",
+      "detail": "擀皮与收口决定皮馅比例，烙制使表面带油香；肉饼既可作主食也可分享成块，与干燥酥脆的烧饼形式不同。",
+      "sources": [
+        "six-82ddf178ed0d20"
+      ]
+    },
+    {
+      "id": "flavor-hebei-fc04746717",
+      "province": "hebei",
+      "city": "廊坊",
+      "name": "文安熬鱼",
+      "type": "dishes",
+      "kind": "水乡鲜鱼慢熬",
+      "description": "文安熬鱼关联廊坊文安大洼的淡水鱼食，以地方鱼料配调味熬熟，汤汁与鱼肉鲜味相合，突出水乡家常做法。",
+      "detail": "不同鱼种与配料会影响鱼汤浓淡，慢熬让汤味进入鱼肉；作为具体地方鱼菜收录，不采用来源中的医疗功效描述。",
+      "sources": [
+        "six-32172c46a3b677"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hebei-c237f6352f",
+      "province": "hebei",
+      "city": "廊坊",
+      "name": "永清胡记烧鸡",
+      "type": "dishes",
+      "kind": "老汤焖煮整鸡",
+      "description": "永清胡记烧鸡以整鸡着色油炸，再配白芷、八角、丁香等香料老汤焖煮，成品金黄，肉质松嫩。",
+      "detail": "炸制先形成鸡皮色香，慢煮再让香料进入肉内；店号保留地方食品传承线索，归入廊坊永清的熟食。",
+      "sources": [
+        "six-04dc81c6a0c032"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hebei-01f331a540",
+      "province": "hebei",
+      "city": "廊坊",
+      "name": "三河豆腐丝",
+      "type": "dishes",
+      "kind": "五香豆皮细丝",
+      "description": "三河豆腐丝关联廊坊三河，以豆皮切成细条并配五香调味，成品柔韧、豆香清楚，是当地常见佐餐豆食。",
+      "detail": "豆皮薄厚与切丝粗细影响咀嚼感，凉拌时调味进入细丝表面；品牌可以不同，此处记录地方食品本身而非门店排名。",
+      "sources": [
+        "six-511d3554f3184d"
+      ]
+    },
+    {
+      "id": "flavor-hebei-fe24e7ee0a",
+      "province": "hebei",
+      "city": "衡水",
+      "name": "武邑扣碗",
+      "type": "dishes",
+      "kind": "成组蒸碗宴席",
+      "description": "武邑扣碗是衡水武邑成组待客蒸菜，传统席面包含肉、丸子、排骨等不同碗菜，质地软烂、汤味浓。",
+      "detail": "“扣碗”联系碗中加工与上桌形式，名称指一桌组合而非一道菜；不同肉料的蒸制与配汤形成席面层次。",
+      "sources": [
+        "six-5061d8dab59878"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-10be1fd562",
+      "province": "hebei",
+      "city": "衡水",
+      "name": "鞋底儿烧饼",
+      "type": "staples",
+      "kind": "长扁形地方烧饼",
+      "description": "鞋底儿烧饼关联衡水枣强，面饼外形长扁、类似鞋底，烙烤形成表层焦香，名字直接记录其造型特征。",
+      "detail": "面团整形与火候决定厚薄和脆软度，地方旧店号留下这种长形面食的制作线索；它和普通圆烧饼分别辨认。",
+      "sources": [
+        "six-bbe8d1e7d3a1ef"
+      ]
+    },
+    {
+      "id": "flavor-hebei-06f122a5d3",
+      "province": "hebei",
+      "city": "衡水",
+      "name": "饶阳豆腐脑",
+      "type": "dishes",
+      "kind": "肉汤浇卤豆腐脑",
+      "description": "饶阳豆腐脑以嫩豆腐脑配鸡、猪肉等熬成的卤汤，辅以香料与黑酱，软嫩豆香和浓汤咸鲜结合。",
+      "detail": "辣椒油、香油、香菜等在上桌时添味，卤汤中的肉料与调味构成地方辨识；它与单纯清豆花的滋味不同。",
+      "sources": [
+        "six-49f32412c5bc6b"
+      ],
+      "proteins": [
+        "鸡",
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hebei-207f89460a",
+      "province": "hebei",
+      "city": "衡水",
+      "name": "衡水老白干",
+      "type": "alcohol",
+      "kind": "地方白酒品牌",
+      "description": "衡水老白干以地名与酒类风格形成品牌辨识，酒液清亮，地方介绍突出清香、甜香与较净的回味。",
+      "detail": "品牌有多种系列和酒精度，不能把早期某一高度酒的度数套用全部产品；此处保留地方归属和感官风格。",
+      "sources": [
+        "six-5ffff541dc8078"
+      ]
+    },
+    {
+      "id": "flavor-hunan-9d52bdac1d",
+      "province": "hunan",
+      "city": "长沙",
+      "name": "辣椒炒肉",
+      "type": "dishes",
+      "kind": "青椒鲜炒猪肉",
+      "description": "长沙辣椒炒肉以青辣椒与猪肉同炒，辣椒香气、肉片油香和酱料咸鲜相合，是当地家常下饭菜。",
+      "detail": "青椒先炒出香味，再与肉片混合，火候影响辣椒脆软和肉片嫩度；看似简单的两种主料，形成鲜辣与油润的组合。",
+      "sources": [
+        "six-e4f95c42ae4b8e"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hunan-f47c03fbe5",
+      "province": "hunan",
+      "city": "长沙",
+      "name": "剁椒鱼头",
+      "type": "dishes",
+      "kind": "剁椒覆蒸鱼头",
+      "description": "剁椒鱼头把剁碎腌椒覆在鱼头上蒸制，椒香与鱼肉鲜味相合，鱼头的胶质与嫩肉形成不同口感。",
+      "detail": "姜蒜、葱和豆豉等可添香，蒸出的汁水与椒料连成咸鲜汤汁；这是一道湘菜，在长沙地方饮食中记录其关联。",
+      "sources": [
+        "six-6edbe21012e453"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hunan-1b96f0e428",
+      "province": "hunan",
+      "city": "长沙",
+      "name": "口味虾",
+      "type": "dishes",
+      "kind": "香辣小龙虾",
+      "description": "长沙口味虾以小龙虾配辣椒、香料等炒烧，虾壳红亮，汁水香辣，肉质与浓味汤汁形成地方宵夜风味。",
+      "detail": "先炒香调味再让虾浸入汤汁，香气附着在外壳与虾肉之间；口味虾也有麻辣小龙虾等称呼，相关名称合并记录。",
+      "sources": [
+        "six-5231b845b2e5c5"
+      ]
+    },
+    {
+      "id": "flavor-hunan-b733f23267",
+      "province": "hunan",
+      "city": "长沙",
+      "name": "臭豆腐",
+      "type": "dishes",
+      "kind": "炸制发酵豆腐",
+      "description": "长沙臭豆腐以发酵豆腐加工，油炸后外层微脆，内部柔软，再配蒜汁、辣椒等调味，浓香与豆味相合。",
+      "detail": "卤水处理形成特殊气味，炸制改变豆腐表层质地；这张卡记录地方食品，不把某一家商业店号视作唯一正宗。",
+      "sources": [
+        "six-b3f7169e105cd0"
+      ]
+    },
+    {
+      "id": "flavor-hunan-4f2dccb7b2",
+      "province": "hunan",
+      "city": "长沙",
+      "name": "高桥银峰茶",
+      "type": "tea",
+      "kind": "长沙县地方绿茶",
+      "description": "高桥银峰茶关联长沙县高桥茶区，嫩芽叶制成绿茶，干茶显毫，冲泡后茶汤清亮，带清鲜香气。",
+      "detail": "采摘嫩度与杀青、整形等工序共同影响茶形和滋味；它属于茶树鲜叶加工茶，与含糖现制奶茶分别记录。",
+      "sources": [
+        "six-062ba9b5af3bcf"
+      ]
+    },
+    {
+      "id": "flavor-hunan-343e0e31ec",
+      "province": "hunan",
+      "city": "株洲",
+      "name": "艾叶米果",
+      "type": "staples",
+      "kind": "艾香糯米蒸食",
+      "description": "株洲艾叶米果以嫩艾叶配糯米粉揉成团，制成圆饼或包馅蒸熟，艾香与米香结合，口感柔软中带韧性。",
+      "detail": "艾叶先处理去除部分苦味，再与米粉充分揉合；包馅版本可配肉、笋、蒜等，属于形态有变化的地方米食。",
+      "sources": [
+        "six-997d19b9d64c49"
+      ]
+    },
+    {
+      "id": "flavor-hunan-74b27b0bc8",
+      "province": "hunan",
+      "city": "株洲",
+      "name": "唐人神香肠",
+      "type": "dishes",
+      "kind": "地方品牌香肠",
+      "description": "唐人神香肠与株洲食品加工品牌相连，肉香与调味结合，切片后可蒸食，也能与蔬菜、米饭等共同烹调。",
+      "detail": "不同系列的肉料比例、甜咸和干湿程度有别，整根香肠与炒菜后的风味也不同，具体单品应看实物配料表。",
+      "sources": [
+        "six-664d982aff3a19"
+      ]
+    },
+    {
+      "id": "flavor-hunan-855a6fbbe2",
+      "province": "hunan",
+      "city": "株洲",
+      "name": "攸县米粉",
+      "type": "staples",
+      "kind": "攸县地方米粉",
+      "description": "攸县米粉与株洲攸县的大米加工相连，米料制成条状后配汤或炒食，口感柔韧，能够吸收肉汤与菜汁。",
+      "detail": "米粉粗细、干湿与加工方式会改变煮制时间和嚼劲，地方名称保留产地线索；作为广义米面主食归入面食。",
+      "sources": [
+        "six-5a4f75c39be05c"
+      ]
+    },
+    {
+      "id": "flavor-hunan-e5aa01b73e",
+      "province": "hunan",
+      "city": "株洲",
+      "name": "攸县豆腐",
+      "type": "ingredients",
+      "kind": "地方豆制食材",
+      "description": "攸县豆腐关联株洲攸县，以黄豆制浆、凝固和成形，豆香较清楚，可煎、烧或与肉类、蔬菜同锅加工。",
+      "detail": "新鲜豆腐的含水与压制程度影响软硬，烹调后能吸收汤汁；此处记录食材本身，不将所有用它做的菜重复收录。",
+      "sources": [
+        "six-39b2dc725b3a9b"
+      ]
+    },
+    {
+      "id": "flavor-hunan-242a595181",
+      "province": "hunan",
+      "city": "湘潭",
+      "name": "湘潭灯芯糕",
+      "type": "staples",
+      "kind": "细条糯米糖糕",
+      "description": "湘潭灯芯糕以糯米粉和糖料等加工，制成长而细的条形，形似灯芯，糕体柔软细腻，带甜香。",
+      "detail": "名称与细条外观相连，米粉细度和糖料配合影响成品质地；它作为地方米制糕点收录，不转述来源中的神奇传说。",
+      "sources": [
+        "six-27e1ddcd5e735c"
+      ]
+    },
+    {
+      "id": "flavor-hunan-383b6419e6",
+      "province": "hunan",
+      "city": "湘潭",
+      "name": "龙牌酱油",
+      "type": "seasoning",
+      "kind": "地方豆类酿造酱油",
+      "description": "龙牌酱油与湘潭地方制酱相连，以豆类、盐等经过发酵与晒露取汁，形成咸鲜酱香，可用于家常烹调。",
+      "detail": "浸豆、蒸煮、发酵与晒制让原料风味变化，酱油承担调味和着色用途；不同产品的配料与等级需看具体标签。",
+      "sources": [
+        "six-9ab6e6e0269cb9"
+      ]
+    },
+    {
+      "id": "flavor-hunan-4de4dd48b5",
+      "province": "hunan",
+      "city": "湘潭",
+      "name": "油粑粑",
+      "type": "staples",
+      "kind": "糯米煎炸甜食",
+      "description": "湘潭油粑粑将糯米粉揉成饼坯后煎炸，外层焦香、内里柔软，再裹上糖汁，米香与焦糖甜味相合。",
+      "detail": "油温与翻面影响外皮颜色，加入糖汁后继续翻拌，让每个粑粑均匀着色，形成油润外观和软糯口感。",
+      "sources": [
+        "six-9d7bb8f0387f2d"
+      ]
+    },
+    {
+      "id": "flavor-hunan-50b29aaed3",
+      "province": "hunan",
+      "city": "湘潭",
+      "name": "湘乡烘糕",
+      "type": "staples",
+      "kind": "白米糖料烘糕",
+      "description": "湘乡烘糕以白米、白糖等制成，米料浸泡磨粉后筛细，拌糖、装匣、划片再烘焙，入口疏松、带烘香。",
+      "detail": "不同于蒸制糯米糕，烘焙让水分逐步减少，糕片呈较干爽质地；名称保留湘潭湘乡的地方归属与加工方式。",
+      "sources": [
+        "six-8c90f4cc4ac697"
+      ]
+    },
+    {
+      "id": "flavor-hunan-947f3db3ce",
+      "province": "hunan",
+      "city": "衡阳",
+      "name": "酥薄饼",
+      "type": "staples",
+      "kind": "分层甜馅酥饼",
+      "description": "衡阳酥薄饼以麦面、糖和油脂等加工，饼体圆鼓，酥皮层次分明，甜味与果仁香气结合，是当地地方糕饼。",
+      "detail": "油酥面层在烘制中分开，表面形成金黄光泽，内部馅料又提供不同质地；同名地方面点按实际配方辨认。",
+      "sources": [
+        "six-7c368ff1038c46"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hunan-4fe2869485",
+      "province": "hunan",
+      "city": "衡阳",
+      "name": "耒阳盐藠头",
+      "type": "seasoning",
+      "kind": "发酵腌制藠头",
+      "description": "耒阳盐藠头以新鲜藠头洗净腌渍、发酵制成，成品偏白、微透明，质地细脆，常少量配粥饭食用。",
+      "detail": "盐渍使部分水分离开菜坯，发酵又改变辛辣和酸香，保留藠头本身层片结构，是衡阳耒阳的佐餐加工品。",
+      "sources": [
+        "six-bfb088b2b80838"
+      ]
+    },
+    {
+      "id": "flavor-hunan-64f8875774",
+      "province": "hunan",
+      "city": "衡阳",
+      "name": "耒阳油茶",
+      "type": "drinks",
+      "kind": "米料冲煮油茶",
+      "description": "耒阳油茶是衡阳耒阳地方汤饮，茶与谷物、油料等共同加工，形成可以配小食的浓香饮食组合。",
+      "detail": "“油茶”在这里指冲煮后的地方食品，而不是山茶油原料；具体配料随家庭和做法变化，归入饮品而非茶叶干货。",
+      "sources": [
+        "six-5100410b6444c9"
+      ]
+    },
+    {
+      "id": "flavor-hunan-955293dd6a",
+      "province": "hunan",
+      "city": "衡阳",
+      "name": "西渡湖之酒",
+      "type": "alcohol",
+      "kind": "地方糯米酿酒",
+      "description": "西渡湖之酒关联衡阳西渡，以糯米等发酵酿制，酒味与米香相合，成品风格区别于蒸馏白酒。",
+      "detail": "米料糖化发酵形成甜味与酒香，陈放又影响醇厚程度；传统名称保留地方关联，度数和含糖量依具体产品辨认。",
+      "sources": [
+        "six-fe7ec6bc307962"
+      ]
+    },
+    {
+      "id": "flavor-hunan-d85964c626",
+      "province": "hunan",
+      "city": "邵阳",
+      "name": "武冈猪血饼",
+      "type": "dishes",
+      "kind": "猪血豆腐腊味",
+      "description": "武冈猪血饼以猪血、豆腐和猪肉等混合成形，部分做法加入整蛋，切开后呈现深色豆血与肉蛋的层次。",
+      "detail": "原料揉合后加工成较紧实的饼体，食前熟制，既有豆香也有腊味；属于邵阳武冈地方肉豆食品。",
+      "sources": [
+        "six-667b5c52d65814"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hunan-e2c572e524",
+      "province": "hunan",
+      "city": "邵阳",
+      "name": "武冈卤豆腐",
+      "type": "dishes",
+      "kind": "香料卤煮豆干",
+      "description": "武冈卤豆腐以香干入卤水反复煮制，成品表面颜色较深，内部紧实，豆香与香料卤香结合。",
+      "detail": "豆干先具备较低含水和稳定形态，卤煮再让味道进入内部；它与嫩豆腐直接烧煮的口感不同，适合切片佐餐。",
+      "sources": [
+        "six-cb51407ffab394"
+      ]
+    },
+    {
+      "id": "flavor-hunan-67ea7eb304",
+      "province": "hunan",
+      "city": "邵阳",
+      "name": "武冈卤铜鹅",
+      "type": "dishes",
+      "kind": "浸卤地方鹅肉",
+      "description": "武冈卤铜鹅以铜鹅肉配香料卤汁反复浸煮、晾干，成品肉香与卤香融合，是邵阳武冈具名地方熟食。",
+      "detail": "浸卤和晾干分别影响入味与紧实程度，食用可再蒸或配调料；鹅肉部位不同，咀嚼和肥瘦口感也会有别。",
+      "sources": [
+        "six-c31accd1d4aebf"
+      ]
+    },
+    {
+      "id": "flavor-hunan-006e561d39",
+      "province": "hunan",
+      "city": "邵阳",
+      "name": "武冈空饼",
+      "type": "staples",
+      "kind": "中空芝麻甜饼",
+      "description": "武冈空饼饼皮薄、内部中空，表面和底部带芝麻，内壁附糖层，刚出炉时焦黄酥脆，带麦芽糖与面香。",
+      "detail": "烘烤时饼体膨起形成空腔，薄皮与糖衣共同带来脆甜口感；它以结构得名，不是漏放馅料的普通实心烧饼。",
+      "sources": [
+        "six-f425f6c0c4f090"
+      ]
+    },
+    {
+      "id": "flavor-hunan-58b484b9da",
+      "province": "hunan",
+      "city": "岳阳",
+      "name": "张谷英油豆腐",
+      "type": "ingredients",
+      "kind": "地方油炸豆食",
+      "description": "张谷英油豆腐以黄豆制豆腐后油炸，成品金黄、内部疏松，可填肉馅蒸食，也可切块入汤、炖肉。",
+      "detail": "油炸形成空隙，让豆腐更容易吸收汤汁；地方有干湿等形态，归入岳阳张谷英的豆制食材，具体成菜另辨。",
+      "sources": [
+        "six-9b263db8eba2a7"
+      ]
+    },
+    {
+      "id": "flavor-hunan-2bc947844d",
+      "province": "hunan",
+      "city": "岳阳",
+      "name": "长乐甜酒",
+      "type": "alcohol",
+      "kind": "汨罗糯米酒食",
+      "description": "长乐甜酒来自岳阳汨罗长乐，以糯米等配曲发酵，米粒与甜润酒汁相合，是当地有明确地名的酒食。",
+      "detail": "糖化把米中淀粉转成甜味，发酵又产生酒香；甜口不代表完全没有酒精，实际含量随产品与加工状态有别。",
+      "sources": [
+        "six-7ecc98d3b47e75"
+      ]
+    },
+    {
+      "id": "flavor-hunan-b52d9e72d4",
+      "province": "hunan",
+      "city": "岳阳",
+      "name": "临湘黑茶",
+      "type": "tea",
+      "kind": "地方后发酵茶",
+      "description": "临湘黑茶关联岳阳临湘茶区与制茶加工，茶叶经发酵等工序形成较深色泽，冲泡后滋味醇和，带陈香风格。",
+      "detail": "黑茶工艺和当地茶叶交易、加工传统相连，不同形制与陈放年限口味有别，具体原料与生产资料应分别辨认。",
+      "sources": [
+        "six-a8739bf8586db5"
+      ]
+    },
+    {
+      "id": "flavor-hunan-5f7d47eef2",
+      "province": "hunan",
+      "city": "常德",
+      "name": "常德酱板鸭",
+      "type": "dishes",
+      "kind": "酱卤烘制鸭食",
+      "description": "常德酱板鸭以鸭腌制、撑形、烘烤和卤制等加工，成品肉紧皮香，酱香浓，常带香辣味与较强嚼劲。",
+      "detail": "干燥、烘烤和卤汁共同改变鸭肉质地，冷食和加热后口感又不同；地方名称记录风味类型，不代表所有产品辣度相同。",
+      "sources": [
+        "six-4c74ffb13d7776"
+      ]
+    },
+    {
+      "id": "flavor-hunan-5ca42eb9b7",
+      "province": "hunan",
+      "city": "常德",
+      "name": "武陵酒",
+      "type": "alcohol",
+      "kind": "常德地方白酒",
+      "description": "武陵酒与常德地方酿酒品牌相连，以粮谷和曲参与发酵蒸馏，形成醇厚酒香，是当地具名酒品。",
+      "detail": "品牌中的武陵名称带有地方文化辨识，具体系列的原料、香型和酒精度有别，不用一个旧款参数概括全部产品。",
+      "sources": [
+        "six-e89cdaac51026e"
+      ]
+    },
+    {
+      "id": "flavor-hunan-12bc4967cd",
+      "province": "hunan",
+      "city": "常德",
+      "name": "石门银峰",
+      "type": "tea",
+      "kind": "石门地方绿茶",
+      "description": "石门银峰关联常德石门茶区，嫩芽叶制成细嫩茶形，色泽翠绿显毫，冲泡后茶汤清亮、滋味鲜醇。",
+      "detail": "采摘芽叶与加工整形共同决定外观，茶毫与嫩度是观察线索；同属湖南绿茶，它仍保留石门的具体产区名称。",
+      "sources": [
+        "six-87746ba470fc01"
+      ]
+    },
+    {
+      "id": "flavor-hunan-09a34b50ea",
+      "province": "hunan",
+      "city": "张家界",
+      "name": "土家三下锅",
+      "type": "dishes",
+      "kind": "多料合煮锅菜",
+      "description": "张家界土家三下锅以肉类、内脏或豆腐、蔬菜等组合加工，既有干锅也有汤锅，形成浓香或香辣的合煮风味。",
+      "detail": "“三下锅”的具体三料并非处处一样，腊肉、肚类等组合随做法变化；记录这种地方锅食，不把单一配方当统一标准。",
+      "sources": [
+        "six-bd0007aa95d729"
+      ]
+    },
+    {
+      "id": "flavor-hunan-7b0d57316e",
+      "province": "hunan",
+      "city": "张家界",
+      "name": "葛根粉炒肉",
+      "type": "dishes",
+      "kind": "葛粉片炒腊肉",
+      "description": "张家界葛根粉炒肉先把葛粉调成糊并熟制定形，再切成片条与腊肉等炒制，粉片吸收油香，质地柔韧。",
+      "detail": "淀粉糊受热凝成可切的形态，之后与肉丝、辣椒同炒，形成软滑粉片与咸香肉料的对照，不转述保健宣传。",
+      "sources": [
+        "six-7d15ce304a2d16"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hunan-fa1a3871e9",
+      "province": "hunan",
+      "city": "张家界",
+      "name": "茅岩莓茶",
+      "type": "tea",
+      "kind": "藤本植物代用茶",
+      "description": "茅岩莓茶关联张家界，以藤本植物嫩叶加工为冲泡饮用的代用茶，带独特草木气味，与茶树绿茶原料不同。",
+      "detail": "“莓茶”名称容易被误认为水果茶或奶茶，实际应按代用茶辨认；只记录原料类别、地域与饮用形态，不附会药效。",
+      "sources": [
+        "six-bdefa83c1eea74"
+      ]
+    },
+    {
+      "id": "flavor-hunan-67d9ad0585",
+      "province": "hunan",
+      "city": "张家界",
+      "name": "青岩茗翠",
+      "type": "tea",
+      "kind": "武陵源地方绿茶",
+      "description": "青岩茗翠关联张家界武陵源茶区，以嫩芽叶制绿茶，茶形紧秀，冲泡后清香、滋味鲜爽，是当地茶叶风物。",
+      "detail": "山区茶园与芽叶加工共同构成地方产品，干茶外形、汤色和叶底可分别观察；具体采期与等级应看产品说明。",
+      "sources": [
+        "six-0a2ce29f1fd2af"
+      ]
+    },
+    {
+      "id": "flavor-hunan-ceaac51d44",
+      "province": "hunan",
+      "city": "益阳",
+      "name": "益阳排糖",
+      "type": "dishes",
+      "kind": "疏松多孔糖食",
+      "description": "益阳排糖外表布满芝麻，内部多孔，质地疏松、入口脆甜，芝麻烘香与糖料香气相合，是洞庭湖区地方糖食。",
+      "detail": "拉制、整形等加工使糖体形成细密空隙，轻咬即可分散；它与实心坚果糖块相比，主要区别在疏松的内部结构。",
+      "sources": [
+        "six-344956074a4dea"
+      ]
+    },
+    {
+      "id": "flavor-hunan-14c2694350",
+      "province": "hunan",
+      "city": "益阳",
+      "name": "金花腐乳",
+      "type": "seasoning",
+      "kind": "地方发酵豆腐乳",
+      "description": "金花腐乳是益阳地方豆制调味品，豆腐坯经发酵和调味形成柔软酱香，可少量配饭，也能用于烧肉、蒸菜。",
+      "detail": "发酵改变豆腐质地和滋味，咸香集中在小块腐乳及其汁液中；它属于调味佐餐食品，不与鲜奶或乳制品混淆。",
+      "sources": [
+        "six-6fd44be6fcb64f"
+      ]
+    },
+    {
+      "id": "flavor-hunan-bb9e9cf3c5",
+      "province": "hunan",
+      "city": "益阳",
+      "name": "安化黑茶",
+      "type": "tea",
+      "kind": "安化后发酵茶",
+      "description": "安化黑茶关联益阳安化，以茶树鲜叶经杀青、揉捻、渥堆和干燥等加工，茶汤醇和，具有后发酵茶风格。",
+      "detail": "黑毛茶可再加工为不同紧压形制，茯砖、花砖等属于具体产品路线；同一产区不等于只有一种外形和滋味。",
+      "sources": [
+        "six-153abfc3a80c74"
+      ]
+    },
+    {
+      "id": "flavor-hunan-c4a8800e7b",
+      "province": "hunan",
+      "city": "益阳",
+      "name": "安化红茶",
+      "type": "tea",
+      "kind": "安化地方红茶",
+      "description": "安化红茶与益阳安化茶区相连，芽叶经萎凋、揉捻、发酵和干燥形成红茶，带甜醇茶味与较明亮汤色。",
+      "detail": "它和安化黑茶属于不同工艺，不因同一产地合并；红茶发酵形成风味的路线与黑茶的渥堆加工应分别辨认。",
+      "sources": [
+        "six-e18b0d20566e71"
+      ]
+    },
+    {
+      "id": "flavor-hunan-a771069ce9",
+      "province": "hunan",
+      "city": "郴州",
+      "name": "临武鸭",
+      "type": "ingredients",
+      "kind": "地方鸭种食材",
+      "description": "临武鸭来自郴州临武，是当地具名鸭种食材，肉质细嫩、皮下脂肪较丰富，可用于多种地方鸭肉菜和加工食品。",
+      "detail": "食材名与袋装熟食品牌并非同一层级，活鸭、鲜肉和卤制产品应分别辨认；这里记录鸭种和产区，不采用排名或疗效。",
+      "sources": [
+        "six-1ec811bda7ad92"
+      ]
+    },
+    {
+      "id": "flavor-hunan-87f757368b",
+      "province": "hunan",
+      "city": "郴州",
+      "name": "桂东板鸭",
+      "type": "dishes",
+      "kind": "腌晒地方鸭食",
+      "description": "桂东板鸭以当地鸭料清理后配砂姜、八角和盐等腌制，再经晾晒干燥，形成较浓腊香，是郴州地方鸭食。",
+      "detail": "盐与香料进入鸭体，去水又收紧肉质，食前可蒸、煎或炒；板鸭作为加工食品，与临武鸭这样的食材名称分别记录。",
+      "sources": [
+        "six-08e3f4bc75adc8"
+      ]
+    },
+    {
+      "id": "flavor-hunan-c1feaebd38",
+      "province": "hunan",
+      "city": "郴州",
+      "name": "桂东玲珑茶",
+      "type": "tea",
+      "kind": "桂东地方绿茶",
+      "description": "桂东玲珑茶关联郴州桂东山区茶园，以嫩芽叶加工成绿茶，茶形细嫩，冲泡后清香，茶汤滋味鲜醇。",
+      "detail": "山区气候与采制工艺共同影响风味，干茶、汤色和叶底能呈现不同特点；产区名称不等于某一个独占的商业品牌。",
+      "sources": [
+        "six-3bc677881d3b7b"
+      ]
+    },
+    {
+      "id": "flavor-hunan-1e59bfa641",
+      "province": "hunan",
+      "city": "郴州",
+      "name": "东江鱼",
+      "type": "ingredients",
+      "kind": "资兴水域鱼食材",
+      "description": "东江鱼关联郴州资兴东江湖等水域鱼类资源，是地方鲜鱼与加工鱼品的产区线索，可清蒸、炖汤或制成鱼干。",
+      "detail": "这个名称覆盖多种鱼与加工形式，不能把一款零食的配方套用于全部东江鱼；具体鱼种、产地和配料需要分别辨认。",
+      "sources": [
+        "six-13b73fc66d967c"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hunan-c24cf1013a",
+      "province": "hunan",
+      "city": "永州",
+      "name": "东安鸡",
+      "type": "dishes",
+      "kind": "酸辣姜椒鸡",
+      "description": "东安鸡来自永州东安，以鸡肉预煮后切条，配姜、辣椒、醋等炒制，酸辣、鲜嫩与鸡肉香气相合。",
+      "detail": "先煮后炒控制肉质与入味，姜丝和醋形成醒目的香气；菜汁收拢后附在鸡条表面，是地方湘菜代表。",
+      "sources": [
+        "six-9e7f515f18c36f"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hunan-2bc1587016",
+      "province": "hunan",
+      "city": "永州",
+      "name": "零陵板鸭",
+      "type": "dishes",
+      "kind": "腌晾干制鸭食",
+      "description": "零陵板鸭关联永州零陵，以盐、酒、酱油和香料等腌鸭，再撑开晾晒通风，形成浓香、紧实的地方腊味。",
+      "detail": "腌制让调味进入鸭体，压平和干燥形成板状外观，食前可烧炒等熟制；风味和保存方式依具体产品状态辨认。",
+      "sources": [
+        "six-fa5cb4af76da07"
+      ]
+    },
+    {
+      "id": "flavor-hunan-fe10e0d9d8",
+      "province": "hunan",
+      "city": "永州",
+      "name": "江华茶油腐乳",
+      "type": "seasoning",
+      "kind": "茶油浸泡腐乳",
+      "description": "江华茶油腐乳以黄豆制豆腐坯，配辣椒、盐和香辛料加工，再以山茶油浸泡，口感细软、酱香与油香相合。",
+      "detail": "这里的茶油来自油茶籽，并非泡茶用的茶汤；腐乳作为佐餐小菜和烹调调料，保留永州江华的地方名称。",
+      "sources": [
+        "six-2d7c180216dc38"
+      ]
+    },
+    {
+      "id": "flavor-hunan-04fd30e2cd",
+      "province": "hunan",
+      "city": "永州",
+      "name": "蓝山黑糊酒",
+      "type": "alcohol",
+      "kind": "地方糯米酿酒",
+      "description": "蓝山黑糊酒来自永州蓝山，以米粮配曲发酵加工，成品颜色较深，带米香与酒香，是当地具名酒品。",
+      "detail": "制米、糖化、发酵与后续陈放共同影响酒味，地方名称保留外观特征；具体含糖量和酒精度应看所选产品标签。",
+      "sources": [
+        "six-e945c0a0c3e271"
+      ]
+    },
+    {
+      "id": "flavor-hunan-882aa30a92",
+      "province": "hunan",
+      "city": "怀化",
+      "name": "芷江鸭",
+      "type": "dishes",
+      "kind": "香料老汤鸭食",
+      "description": "芷江鸭以麻鸭加工，抹蜜、油炸后配地方香料和老汤烹制，成品黄亮、鸭肉酥软，是怀化芷江地方鸭食。",
+      "detail": "表皮着色与后续汤中入味构成两段风味，鸭肉油脂和香料气味相合；这张卡记录具体食品工艺，不附会保健说法。",
+      "sources": [
+        "six-85a7c2efbfc53e"
+      ]
+    },
+    {
+      "id": "flavor-hunan-f6b5883734",
+      "province": "hunan",
+      "city": "怀化",
+      "name": "溆浦糍粑",
+      "type": "staples",
+      "kind": "包馅叶裹米食",
+      "description": "溆浦糍粑以糯米磨浆、去水后揉团，可包豆粉、芝麻糖等馅，再用鲜叶包裹蒸熟，米香与叶香相合。",
+      "detail": "米浆先压去多余水分才方便整形，蒸后外皮软糯，内部甜馅形成层次，是怀化溆浦的一种地方米食。",
+      "sources": [
+        "six-bf054dd5710393"
+      ]
+    },
+    {
+      "id": "flavor-hunan-82f25a7122",
+      "province": "hunan",
+      "city": "怀化",
+      "name": "新晃锅巴粉",
+      "type": "staples",
+      "kind": "薄片米粉汤食",
+      "description": "新晃锅巴粉以大米配绿豆、蔬菜等加工成薄片，切成长条后煮食，粉片带米豆香，能配鸡、牛肉等汤料。",
+      "detail": "名称虽有锅巴，成品主要以柔韧条片进入汤碗，并非只吃焦脆米锅巴；具体配料组合形成不同地方口味。",
+      "sources": [
+        "six-f8a71f0abf14b7"
+      ]
+    },
+    {
+      "id": "flavor-hunan-ae9ae9d455",
+      "province": "hunan",
+      "city": "怀化",
+      "name": "碣滩茶",
+      "type": "tea",
+      "kind": "沅陵地方绿茶",
+      "description": "碣滩茶关联怀化沅陵茶区，嫩芽叶经绿茶工艺加工，茶汤清亮，带清香与鲜醇滋味，是当地茶叶风物。",
+      "detail": "地方茶名保留碣滩产区线索，采期、芽叶等级与加工火候影响口感；它与其他湖南绿茶分别记录具体地理关联。",
+      "sources": [
+        "six-986f21339c934a"
+      ]
+    },
+    {
+      "id": "flavor-hunan-5cf86f5d85",
+      "province": "hunan",
+      "city": "娄底",
+      "name": "富田桥豆腐",
+      "type": "ingredients",
+      "kind": "地方鲜豆腐",
+      "description": "富田桥豆腐来自娄底地方豆食传统，以大豆制浆成形，入口细腻、带豆香，可作鲜食菜肴或配汤烹调。",
+      "detail": "磨浆、过滤和成形影响豆腐细度与含水，后续烹调又能吸收配菜香味；此处记录食品本身，不转述“无任何添加”的泛化宣传。",
+      "sources": [
+        "six-feffc8ea24a0ec"
+      ]
+    },
+    {
+      "id": "flavor-hunan-cab769f29b",
+      "province": "hunan",
+      "city": "娄底",
+      "name": "新化水酒",
+      "type": "alcohol",
+      "kind": "糯米发酵地方酒",
+      "description": "新化水酒以糯米等煮熟配曲发酵成糟酒，再依地方做法加水调整，米香与酒香结合，是娄底新化酒食。",
+      "detail": "这种工艺重在米料发酵，不以蒸馏为主要步骤；糟酒与兑水后的成品浓淡有别，酒精度随实际制作与产品而异。",
+      "sources": [
+        "six-28f3b75c2e2f5a"
+      ]
+    },
+    {
+      "id": "flavor-hunan-7a11b008c1",
+      "province": "hunan",
+      "city": "娄底",
+      "name": "枫木贡茶",
+      "type": "tea",
+      "kind": "地方绿茶",
+      "description": "枫木贡茶关联娄底地方茶区，鲜叶经过摊放、杀青、揉捻和多段烘干制成，冲泡后汤色清亮、带栗香。",
+      "detail": "反复烘干与摊凉使水分逐步降低，提香工序又影响气味；名称中的“贡”保留传统称呼，不据此推定未经核实的贡茶史。",
+      "sources": [
+        "six-5e5190ac622a35"
+      ]
+    },
+    {
+      "id": "flavor-hunan-550de0cfcd",
+      "province": "hunan",
+      "city": "娄底",
+      "name": "永丰辣酱",
+      "type": "seasoning",
+      "kind": "双峰发酵辣酱",
+      "description": "永丰辣酱关联娄底双峰永丰，以辣椒等配料发酵、晒制形成浓厚辣酱，兼有椒香、酱香，可佐餐或入菜。",
+      "detail": "不同配方在豆、麦等辅料比例上有所变化，晒制与发酵让原料风味融合；地方辣酱与仅将鲜椒剁碎的做法分别辨认。",
+      "sources": [
+        "six-3dc9c14d075799"
+      ]
+    },
+    {
+      "id": "flavor-hunan-19cc876e16",
+      "province": "hunan",
+      "city": "湘西州",
+      "name": "古丈毛尖",
+      "type": "tea",
+      "kind": "武陵山绿茶",
+      "description": "古丈毛尖来自湘西州古丈，干茶条索紧结、色泽翠绿显毫，冲泡后黄绿明亮，滋味醇爽，茶香较持久。",
+      "detail": "武陵山茶区的芽叶与精细采制相连，曲直条索随加工呈现不同外观；名称保留具体县域，不泛写为全省同一种茶。",
+      "sources": [
+        "six-e205ae7cae7e3f"
+      ]
+    },
+    {
+      "id": "flavor-hunan-2838d31104",
+      "province": "hunan",
+      "city": "湘西州",
+      "name": "保靖黄金茶",
+      "type": "tea",
+      "kind": "保靖地方绿茶",
+      "description": "保靖黄金茶关联湘西州保靖的地方茶树资源与加工，成茶强调清香、鲜爽与浓醇，属于茶树叶加工的绿茶。",
+      "detail": "“黄金”是地方茶名，并不代表加入金箔或全部干茶呈黄色；具体品种、采摘级别与制作方式仍需结合产品资料。",
+      "sources": [
+        "six-8b7b53ae6780ab"
+      ]
+    },
+    {
+      "id": "flavor-hunan-d8635521ca",
+      "province": "hunan",
+      "city": "湘西州",
+      "name": "茶峒碗儿糕",
+      "type": "staples",
+      "kind": "米浆发酵蒸糕",
+      "description": "茶峒碗儿糕以大米磨浆，配白糖或红糖发酵后用碗蒸成，糕体蓬松糯软，米香、甜味与微酸相合。",
+      "detail": "米浆部分先煮成熟芡，再与生浆结合帮助定形；白糖和红糖可形成白、黄两类糕色，合并记录同一地方食品。",
+      "sources": [
+        "six-e8175f18a914fb"
+      ]
+    },
+    {
+      "id": "flavor-hunan-987884a1d6",
+      "province": "hunan",
+      "city": "湘西州",
+      "name": "洗车河霉豆腐",
+      "type": "seasoning",
+      "kind": "龙山发酵腐乳",
+      "description": "洗车河霉豆腐关联湘西州龙山地方豆食，以豆腐发酵、调味成熟，口感柔软、滋味浓，可作佐餐调味。",
+      "detail": "“霉豆腐”是地方腐乳名称，重在受控发酵后形成的酱香；具体辣椒、盐和香料配比影响咸辣与回味。",
+      "sources": [
+        "six-30c5895f660811"
+      ]
+    },
+    {
+      "id": "flavor-hubei-c44e87fd11",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "热干面",
+      "type": "staples",
+      "kind": "芝麻酱拌面",
+      "description": "武汉热干面把预熟面条烫热沥水，再拌芝麻酱、香油和其他小料，面条爽滑有筋道，是当地“过早”代表。",
+      "detail": "它以拌食为主，酱汁附着面条表面而非泡在整碗汤中；不同门店在芝麻酱、酸豆角等小料搭配上各有变化。",
+      "sources": [
+        "six-2cf632bd4fe90e"
+      ]
+    },
+    {
+      "id": "flavor-hubei-55c4385d89",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "三鲜豆皮",
+      "type": "staples",
+      "kind": "煎皮包糯米饭",
+      "description": "武汉三鲜豆皮以米豆浆等摊皮，包裹糯米饭及肉、笋、菌菇等馅料，煎后切块，外层微脆、内部软糯。",
+      "detail": "名称中的豆皮指这一米豆皮饭组合，不是普通豆腐皮；米饭与三鲜配料共同构成早餐主食的饱满层次。",
+      "sources": [
+        "six-ae2a65d316d18d"
+      ]
+    },
+    {
+      "id": "flavor-hubei-06ab98393e",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "四季美汤包",
+      "type": "staples",
+      "kind": "薄皮灌汤包",
+      "description": "四季美汤包关联武汉地方店号，包体小巧、面皮较薄，肉馅与汤汁包在内部，蒸后皮软、汁鲜。",
+      "detail": "面皮延展与收褶影响包体完整，肉馅和汤汁共同形成入口感受；同一店号下不同馅口归作一类地方面食。",
+      "sources": [
+        "six-d2d9e36ca9d10d"
+      ]
+    },
+    {
+      "id": "flavor-hubei-b1afd0a5db",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "面窝",
+      "type": "staples",
+      "kind": "中孔米豆炸食",
+      "description": "武汉面窝以米豆浆等入特制勺形模具炸成，中间薄脆、周围较厚松软，葱香与油炸香形成早餐风味。",
+      "detail": "浆料在热油中定形，中央凹孔与边圈的厚薄差留下两种口感；名称记录外形，主要不是小麦面团制成的窝头。",
+      "sources": [
+        "six-fdfa18e9750e2d"
+      ]
+    },
+    {
+      "id": "flavor-hubei-436dd60ef7",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "排骨莲藕汤",
+      "type": "dishes",
+      "kind": "排骨粉藕煨汤",
+      "description": "武汉排骨莲藕汤以猪排骨和莲藕慢煨，肉汤鲜味与藕的清甜相合，煮透的藕块呈粉糯或绵软质地。",
+      "detail": "藕的品种与煨煮时长影响口感，排骨慢煮后肉质变软，汤中同时保留肉香与藕香，是湖北家庭常见汤菜。",
+      "sources": [
+        "six-6c5163334da706"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hubei-1081eaf364",
+      "province": "hubei",
+      "city": "武汉",
+      "name": "糊米酒",
+      "type": "drinks",
+      "kind": "米酒糊羹饮",
+      "description": "武汉糊米酒把米酒与粉料等煮成稠润羹饮，米粒、酒香和甜味结合，可与地方早餐小吃搭配。",
+      "detail": "加热与糊化使原本流动的米酒汤变得较稠，成品同时有米粒咀嚼感；具体配方与残留酒精情况依产品或做法辨认。",
+      "sources": [
+        "six-983e29c674dca9"
+      ]
+    },
+    {
+      "id": "flavor-hubei-2b369e4135",
+      "province": "hubei",
+      "city": "黄石",
+      "name": "黄石港饼",
+      "type": "staples",
+      "kind": "芝麻甜馅面饼",
+      "description": "黄石港饼是黄石地方糕饼，表面芝麻色泽黄亮，外沿有较清楚的饼形，入口松酥、甜润，带浓芝麻香。",
+      "detail": "烘烤使面皮与芝麻形成不同香气，内部甜馅让口感更润；作为地方糕饼收录，不将来源中的开胃宣传当作事实。",
+      "sources": [
+        "six-b7157bf9f79afb"
+      ]
+    },
+    {
+      "id": "flavor-hubei-8b0d6e73de",
+      "province": "hubei",
+      "city": "黄石",
+      "name": "黄石炸糍粑",
+      "type": "staples",
+      "kind": "捶米油炸食品",
+      "description": "黄石炸糍粑以糯米浸泡蒸熟，再舂成黏团、整成小饼后油炸，外层焦香，内部柔软、米香较浓。",
+      "detail": "舂打让米粒结合成连续糯团，油炸又形成外脆内软的对照；它属于地方米食，与面粉和成的炸糕原料不同。",
+      "sources": [
+        "six-388c533530ee4f"
+      ]
+    },
+    {
+      "id": "flavor-hubei-d2b9e78acd",
+      "province": "hubei",
+      "city": "黄石",
+      "name": "西塞山中国劲酒",
+      "type": "alcohol",
+      "kind": "地方配制酒",
+      "description": "中国劲酒与黄石地方酒品生产相连，以酒基配植物原料加工，形成带草本气味的配制酒，归入含酒精酒品。",
+      "detail": "产品类别与普通粮谷白酒有别，植物配料和酒基共同影响风味；只记录地方关联及产品形态，不采用保健疗效说法。",
+      "sources": [
+        "six-0a66074b474d28"
+      ]
+    },
+    {
+      "id": "flavor-hubei-d0b1f19356",
+      "province": "hubei",
+      "city": "十堰",
+      "name": "茅箭浆耙儿馍",
+      "type": "staples",
+      "kind": "玉米浆叶裹蒸食",
+      "description": "茅箭浆耙儿馍以嫩玉米磨浆，经过发酵后装入叶片折成的包裹蒸熟，带玉米甜香与叶香，是十堰地方米面食品。",
+      "detail": "嫩玉米的浆汁形成柔软糕体，叶片既帮助定形也带来气味；这里的馍指蒸制谷物食品，不限于小麦馒头。",
+      "sources": [
+        "six-dac5588d65e237"
+      ]
+    },
+    {
+      "id": "flavor-hubei-4e3bdb9b8f",
+      "province": "hubei",
+      "city": "十堰",
+      "name": "武当道茶",
+      "type": "tea",
+      "kind": "武当山茶区茶品",
+      "description": "武当道茶关联十堰武当山区茶叶资源与加工，茶形、清香和醇和滋味形成地方辨识，是当地茶叶风物线索。",
+      "detail": "产区内具体产品在茶类、芽叶等级和加工上有差别，不能将所有武当道茶都当作同一款；记录产区而不转述养生功效。",
+      "sources": [
+        "six-0ae01db9df64d8"
+      ]
+    },
+    {
+      "id": "flavor-hubei-5c8be81682",
+      "province": "hubei",
+      "city": "十堰",
+      "name": "房县黄酒",
+      "type": "alcohol",
+      "kind": "房县米粮酿酒",
+      "description": "房县黄酒关联十堰房县，以米粮等配曲发酵形成米香、甜味与酒香，是当地具名的发酵酒品。",
+      "detail": "米料糖化与发酵共同形成风味，过滤和陈放会改变酒液浓淡；黄酒并非无酒精米汤，具体度数依实际产品标示。",
+      "sources": [
+        "six-4f6018232a71e6"
+      ]
+    },
+    {
+      "id": "flavor-hubei-f8b0256ae7",
+      "province": "hubei",
+      "city": "宜昌",
+      "name": "三游神仙鸡",
+      "type": "dishes",
+      "kind": "香料慢烧整鸡",
+      "description": "宜昌三游神仙鸡以整鸡配葱姜、桂皮、八角等慢烧，成品酱红、肉质软嫩，浓缩鸡汁与香料味相合。",
+      "detail": "糖色、黄酒和酱油等形成色香基础，后续温火让鸡肉入味；菜名与三游洞地方文化相连，传说不作为确定史实。",
+      "sources": [
+        "six-a09fbd3fc99d15"
+      ],
+      "proteins": [
+        "鸡"
+      ]
+    },
+    {
+      "id": "flavor-hubei-f981480aae",
+      "province": "hubei",
+      "city": "宜昌",
+      "name": "炕洋芋",
+      "type": "dishes",
+      "kind": "焦香小土豆",
+      "description": "宜昌炕洋芋将土豆预熟后在锅里慢炕，外层焦黄、内部绵软，再配蒜末、辣椒等调味，形成地方街头风味。",
+      "detail": "“炕”是地方做法用语，受热使土豆表面产生薄壳，香料附在外层；整颗或切块、配料多寡随具体做法变化。",
+      "sources": [
+        "six-640b4b68c3a7a2"
+      ]
+    },
+    {
+      "id": "flavor-hubei-64ca59e51a",
+      "province": "hubei",
+      "city": "宜昌",
+      "name": "宜红茶",
+      "type": "tea",
+      "kind": "宜昌地方红茶",
+      "description": "宜红茶关联宜昌及周边茶区，以鲜叶经萎凋、揉捻、发酵和干燥加工，形成红茶甜醇风格与较深汤色。",
+      "detail": "宜红是产区与茶类传统的名称，不等同某一家商业品牌；芽叶等级和工艺差异会改变条索、香气及口感。",
+      "sources": [
+        "six-7d93e1331c7d26"
+      ]
+    },
+    {
+      "id": "flavor-hubei-c8848d5ac1",
+      "province": "hubei",
+      "city": "宜昌",
+      "name": "邓村绿茶",
+      "type": "tea",
+      "kind": "夷陵山区绿茶",
+      "description": "邓村绿茶关联宜昌夷陵邓村茶区，芽叶经绿茶工艺加工，冲泡后清香、滋味鲜醇，保留山区茶园的产地名称。",
+      "detail": "杀青、揉制和干燥形成绿茶外观与茶味，采期与嫩度影响浓淡；作为茶树叶制品收录，不与地方奶茶品牌混淆。",
+      "sources": [
+        "six-adef1b136fbf24"
+      ]
+    },
+    {
+      "id": "flavor-hubei-2f84734fab",
+      "province": "hubei",
+      "city": "宜昌",
+      "name": "枝江大曲",
+      "type": "alcohol",
+      "kind": "枝江粮谷白酒",
+      "description": "枝江大曲关联宜昌枝江地方酿酒，以粮谷、曲参与发酵与蒸馏，成品带粮香和醇厚酒味，是当地具名酒品。",
+      "detail": "大曲参与糖化发酵，后续蒸馏与陈放共同影响香味；品牌和系列可能不同，酒精度与具体香型应看所选产品。",
+      "sources": [
+        "six-3cdf3edba6a735"
+      ]
+    },
+    {
+      "id": "flavor-hubei-1ae2d03da1",
+      "province": "hubei",
+      "city": "襄阳",
+      "name": "金刚酥",
+      "type": "staples",
+      "kind": "马蹄形烘焙甜饼",
+      "description": "襄阳金刚酥以面粉、糖、香油等和面，发酵后整成马蹄形，再入烘炉焖烤，成品酥香、入口易散。",
+      "detail": "面团与油糖结合形成松酥结构，炉内较长受热让内部也干爽；名称记录地方面点，不据名称推断坚硬难咬。",
+      "sources": [
+        "six-1f4835c4fd1aca"
+      ]
+    },
+    {
+      "id": "flavor-hubei-cd88abd4a3",
+      "province": "hubei",
+      "city": "襄阳",
+      "name": "襄樊大头菜",
+      "type": "seasoning",
+      "kind": "晒腌根菜",
+      "description": "襄樊大头菜关联今襄阳地方腌菜，把根菜反复晾晒、拌料和密封腌制，成品黄褐，脆嫩、咸中微酸。",
+      "detail": "去水让菜坯收紧，调味与腌制再形成香味，常切丝佐餐或配肉同炒；旧称襄樊保留在食品名中，城市筛选按襄阳。",
+      "sources": [
+        "six-da93b9f8b49763"
+      ]
+    },
+    {
+      "id": "flavor-hubei-1764f69479",
+      "province": "hubei",
+      "city": "襄阳",
+      "name": "石花大曲",
+      "type": "alcohol",
+      "kind": "谷城地方白酒",
+      "description": "石花大曲关联襄阳谷城石花地方酿酒，以粮谷发酵、蒸馏形成酒香，是当地具有具体地名的白酒产品线索。",
+      "detail": "曲料、发酵和陈放共同决定酒体，地方品牌下不同系列规格有别；此处保留地方归属，不套用所有产品的统一度数。",
+      "sources": [
+        "six-13f8160c1fa5aa"
+      ]
+    },
+    {
+      "id": "flavor-hubei-a5b44b8c59",
+      "province": "hubei",
+      "city": "鄂州",
+      "name": "鄂州武昌鱼",
+      "type": "dishes",
+      "kind": "清蒸地方鱼菜",
+      "description": "鄂州武昌鱼以当地具名鱼类加工，清蒸是常见做法，鱼肉细嫩，姜葱等调味衬托鱼鲜，是鄂州代表鱼食。",
+      "detail": "武昌鱼也可红烧或油焖，这里把鱼食与鄂州的地方关联保留，具体做法另辨；不按今日武汉武昌区名直接归城。",
+      "sources": [
+        "six-f2583ffde52a6b"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hubei-87afdc72ce",
+      "province": "hubei",
+      "city": "鄂州",
+      "name": "周屴板鸭",
+      "type": "dishes",
+      "kind": "地方腌制板鸭",
+      "description": "周屴板鸭关联鄂州周屴村一带鸭食，鸭体加工成较平板状，肉质紧密、鸭香浓，地方有腊板鸭和春板鸭等做法。",
+      "detail": "腌制、整形和去水构成外观与滋味，食前可切块蒸、煮或炖；同一地方食品的时令做法合并记录，避免重复计数。",
+      "sources": [
+        "six-aa9276db646b15"
+      ]
+    },
+    {
+      "id": "flavor-hubei-7045d1113b",
+      "province": "hubei",
+      "city": "鄂州",
+      "name": "小磨香麻油",
+      "type": "seasoning",
+      "kind": "地方芝麻调味油",
+      "description": "鄂州小磨香麻油关联长港等地芝麻种植与加工，以芝麻磨制取油，色泽透亮、香气浓，可为凉菜和蒸蛋添香。",
+      "detail": "焙炒让芝麻产生烘香，磨制和取油则把香气带入油脂；它作为调味油收录，区别于整粒芝麻的地方食材。",
+      "sources": [
+        "six-f85aff85e5d317"
+      ]
+    },
+    {
+      "id": "flavor-hubei-343330fb68",
+      "province": "hubei",
+      "city": "荆门",
+      "name": "茶花点心太师饼",
+      "type": "staples",
+      "kind": "油酥包馅点心",
+      "description": "荆门茶花点心太师饼以油酥面皮包入糖腿、豆沙或肉馅等，成形后炸熟，外皮松酥，馅料有咸甜不同风味。",
+      "detail": "面皮包酥、擀卷形成层次，炸制让面层分开；“茶花点心”是地方称呼，不表示主要原料一定是茶树花。",
+      "sources": [
+        "six-f38d1b60058373"
+      ]
+    },
+    {
+      "id": "flavor-hubei-240733fd7c",
+      "province": "hubei",
+      "city": "荆门",
+      "name": "八角雪枣",
+      "type": "staples",
+      "kind": "糯米膨化糖食",
+      "description": "荆门八角雪枣以糯米等制坯，经发酵、干燥和油炸形成疏松内瓤，再裹糖衣，外白、入口酥脆甜润。",
+      "detail": "枣形来自整形而非红枣原料，膨化结构使内部呈细丝与孔隙；米料加工和表面糖衣共同组成口感。",
+      "sources": [
+        "six-7407c354c86579"
+      ]
+    },
+    {
+      "id": "flavor-hubei-8ba725b6b2",
+      "province": "hubei",
+      "city": "荆门",
+      "name": "长湖鱼糕",
+      "type": "dishes",
+      "kind": "鱼肉蒸制糕食",
+      "description": "长湖鱼糕关联荆门长湖一带，以鱼肉剔骨剁细，配肉料、蛋等加工蒸熟，切片后细嫩，鱼鲜与肉香相合。",
+      "detail": "鱼糜与辅料结合成稳定糕体，蒸制后可切片配汤或再烹调；虽然叫糕，主要是鱼肉食品，归入特色菜。",
+      "sources": [
+        "six-806054ca603741"
+      ],
+      "proteins": [
+        "鱼",
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hubei-0771c451be",
+      "province": "hubei",
+      "city": "孝感",
+      "name": "孝感麻糖",
+      "type": "dishes",
+      "kind": "芝麻米糖食品",
+      "description": "孝感麻糖以糯米糖料、芝麻等加工，外形薄片状，颜色较浅，入口甜脆，带明显芝麻烘香，是当地代表糖食。",
+      "detail": "糖料与炒香芝麻在加工中结合，整形切片形成便于分食的薄块；食品名保留孝感归属，不采用来源里的医疗功效。",
+      "sources": [
+        "six-924270b89f7cdc"
+      ]
+    },
+    {
+      "id": "flavor-hubei-83645840a0",
+      "province": "hubei",
+      "city": "孝感",
+      "name": "孝感米酒",
+      "type": "alcohol",
+      "kind": "糯米酒曲发酵食品",
+      "description": "孝感米酒以糯米配地方酒曲发酵，米粒柔软、汁液甜润，米香与酒香结合，是当地具有代表性的米粮酒食。",
+      "detail": "糖化和发酵形成甜味与酒味，鲜制、冷藏和包装产品状态各有差异；甜口不等于无酒精，具体依产品标示辨认。",
+      "sources": [
+        "six-1562b50ae27228"
+      ]
+    },
+    {
+      "id": "flavor-hubei-f2a4a4ee88",
+      "province": "hubei",
+      "city": "孝感",
+      "name": "应城豆皮",
+      "type": "staples",
+      "kind": "米豆浆薄皮食",
+      "description": "应城豆皮是孝感应城地方米面食品，米豆料加工成薄片，可鲜食或切丝干燥，煮后柔韧，带谷豆香。",
+      "detail": "薄片晾干后变得较硬，复水煮食又恢复柔软；它与武汉裹糯米饭的三鲜豆皮形式不同，同名食品按具体工艺分别记录。",
+      "sources": [
+        "six-4655b9a4e59c4e"
+      ]
+    },
+    {
+      "id": "flavor-hubei-d120a12b90",
+      "province": "hubei",
+      "city": "荆州",
+      "name": "荆州小胡鸭",
+      "type": "dishes",
+      "kind": "品牌卤制鸭食",
+      "description": "小胡鸭与荆州食品品牌相连，以鸭料配香料卤制加工，产品有香辣、五香等风味，是当地具名地方熟食系列。",
+      "detail": "鸭肉原料与卤汤形成咸香，后续包装加工关系到保存条件；同品牌系列归为一项，不按礼盒或包装尺寸重复计数。",
+      "sources": [
+        "six-df5cbe9023e95b"
+      ]
+    },
+    {
+      "id": "flavor-hubei-bb50fe6df2",
+      "province": "hubei",
+      "city": "荆州",
+      "name": "沙市豆瓣酱",
+      "type": "seasoning",
+      "kind": "蚕豆辣椒发酵酱",
+      "description": "沙市豆瓣酱关联荆州沙市，以蚕豆、辣椒和盐等加工，酱香与椒香相合，可为炒菜、烧豆腐和汤食添味。",
+      "detail": "豆瓣与椒料形成浓缩咸鲜，入锅炒香后能与油脂结合；调味用途与原料组合是识别重点，具体辣度随产品不同。",
+      "sources": [
+        "six-643072685b8c2c"
+      ]
+    },
+    {
+      "id": "flavor-hubei-7f41f907b9",
+      "province": "hubei",
+      "city": "荆州",
+      "name": "洪湖莲藕",
+      "type": "ingredients",
+      "kind": "湖区藕类食材",
+      "description": "洪湖莲藕来自荆州洪湖水域种植，以藕节鲜食或加工，既可清炒、凉拌，也可与排骨等煨汤，口感有脆有粉。",
+      "detail": "采收时令、品种和烹法共同影响质地，藕带、成熟莲藕和藕粉属于不同产品形态；此处收录成熟莲藕食材。",
+      "sources": [
+        "six-3a19475b68eb22"
+      ]
+    },
+    {
+      "id": "flavor-hubei-f5f090ba08",
+      "province": "hubei",
+      "city": "黄冈",
+      "name": "软萩粑",
+      "type": "staples",
+      "kind": "草香芝麻馅米饼",
+      "description": "黄冈软萩粑以鼠曲草等配糯米粉、粘米粉揉团，包芝麻糖馅后烙制，草木清香与米香、甜馅相合。",
+      "detail": "叶料先切碎融入米团，包馅整成圆饼后微火熟制，外层与内部馅料形成不同质地，是地方节令米食。",
+      "sources": [
+        "six-d4079eb1be9aaa"
+      ]
+    },
+    {
+      "id": "flavor-hubei-33647d49a5",
+      "province": "hubei",
+      "city": "黄冈",
+      "name": "黄州东坡饼",
+      "type": "staples",
+      "kind": "盘丝油炸甜饼",
+      "description": "黄州东坡饼以细面粉加工成盘旋多层形态，用麻油煎炸后撒糖，成品酥、香、脆、甜，是黄冈黄州地方点心。",
+      "detail": "细面层在油炸中分开，表面糖粒又补充甜味；东坡关联作为地方文化线索保留，不将民间创制传说写作确定史实。",
+      "sources": [
+        "six-bca3161cecb84d"
+      ]
+    },
+    {
+      "id": "flavor-hubei-c5b65a6278",
+      "province": "hubei",
+      "city": "黄冈",
+      "name": "黄梅鱼面",
+      "type": "staples",
+      "kind": "鱼肉麦面制品",
+      "description": "黄梅鱼面将鱼肉与面粉等结合制成面类食品，煮食后兼有鱼鲜和面食柔韧，是黄冈黄梅具名地方食品。",
+      "detail": "鱼肉细加工后参与成团与制条，和只在面上加鱼块的汤面有所区别；具体鱼种、粉料比例及形态按产品分别辨认。",
+      "sources": [
+        "six-a46410fcc0c626"
+      ],
+      "proteins": [
+        "鱼"
+      ]
+    },
+    {
+      "id": "flavor-hubei-193cbebe4f",
+      "province": "hubei",
+      "city": "咸宁",
+      "name": "咸安桂花酥糖",
+      "type": "dishes",
+      "kind": "桂花芝麻疏松糖食",
+      "description": "咸安桂花酥糖以糖料、熟芝麻、桂花与粉料等加工，糕糖结构细松，桂花香、芝麻香和甜味结合。",
+      "detail": "熬糖、拉糖、压糖与屑料组合形成疏松内部，切成长条或小块；名称保留咸宁桂花加工的地方线索。",
+      "sources": [
+        "six-ee55a232a5451a"
+      ]
+    },
+    {
+      "id": "flavor-hubei-a296744e83",
+      "province": "hubei",
+      "city": "咸宁",
+      "name": "通山粑砣",
+      "type": "staples",
+      "kind": "薯粉包馅食品",
+      "description": "通山粑砣以红薯淀粉或芋头配薯粉制皮，包入肉、笋、萝卜等馅料，熟制后外皮柔韧，内部咸鲜。",
+      "detail": "包坨、粑砣是相关地方叫法，皮料和荤素馅各有变化；同一食品合并记录，作为薯粉与米面类主食归入面食。",
+      "sources": [
+        "six-a201f9b8bca3a1"
+      ]
+    },
+    {
+      "id": "flavor-hubei-921267b15e",
+      "province": "hubei",
+      "city": "咸宁",
+      "name": "羊楼洞砖茶",
+      "type": "tea",
+      "kind": "赤壁地方紧压茶",
+      "description": "羊楼洞砖茶关联咸宁赤壁羊楼洞的茶叶加工和贸易传统，茶料蒸压成砖，冲泡或煮饮后滋味醇厚。",
+      "detail": "紧压便于成形与运输，陈放和原料等级会影响茶汤；它保留地方制茶与商路记忆，不等同现代奶茶店的一杯茶饮。",
+      "sources": [
+        "six-5a3c19ae7d4239"
+      ]
+    },
+    {
+      "id": "flavor-hubei-56245beb7e",
+      "province": "hubei",
+      "city": "随州",
+      "name": "广水酸白菜",
+      "type": "seasoning",
+      "kind": "盐渍发酵白菜",
+      "description": "广水酸白菜将白菜晾晒后与盐分层装缸压实，再经发酵形成酸香，可炒食或为汤锅增味，是随州地方腌菜。",
+      "detail": "揉压让菜汁渗出，菜坯在腌渍中变软而仍有纤维口感；酸味与咸鲜成为后续烹调的底味，属于佐餐调味食品。",
+      "sources": [
+        "six-777fab34b6161a"
+      ]
+    },
+    {
+      "id": "flavor-hubei-6713351e46",
+      "province": "hubei",
+      "city": "随州",
+      "name": "广水奎面",
+      "type": "staples",
+      "kind": "手工反复拉伸挂面",
+      "description": "广水奎面以麦面经和面、盘条、醒发、上筷拉伸和晾干等加工，面条细长，煮后柔韧，是随州地方干面。",
+      "detail": "多次醒面与搓盘使面筋充分延展，逐步拉细形成最终结构；手工程序与地方地名共同组成食品辨识。",
+      "sources": [
+        "six-6a4005f5ee9b45"
+      ]
+    },
+    {
+      "id": "flavor-hubei-f4f5561078",
+      "province": "hubei",
+      "city": "随州",
+      "name": "随州泡泡青",
+      "type": "ingredients",
+      "kind": "地方青菜食材",
+      "description": "随州泡泡青是随州具名地方青菜，叶片与植株形态形成辨识，食用可清炒或配汤，突出蔬菜本身的清香。",
+      "detail": "地方叶菜的鲜嫩与季节相关，烹调时间改变脆软程度；它作为食材记录，与酸白菜等腌制加工食品分别归类。",
+      "sources": [
+        "six-1cb6af0f54a5a3"
+      ]
+    },
+    {
+      "id": "flavor-hubei-7ba1c0fd78",
+      "province": "hubei",
+      "city": "恩施州",
+      "name": "张关合渣",
+      "type": "dishes",
+      "kind": "豆浆菜叶合煮",
+      "description": "张关合渣关联恩施州宣恩张关，把泡豆磨成浆并与菜叶等煮熟，豆香、菜香融合，也可搭配肉、蛋做合渣锅。",
+      "detail": "豆渣与豆浆不完全分离，形成浓厚而柔软的食物结构；不同店家可再加工成不同锅食，不把一份配方当唯一标准。",
+      "sources": [
+        "six-a5bbe46760d7a8"
+      ]
+    },
+    {
+      "id": "flavor-hubei-6f81d38468",
+      "province": "hubei",
+      "city": "恩施州",
+      "name": "榨广椒",
+      "type": "seasoning",
+      "kind": "玉米面椒料发酵食",
+      "description": "榨广椒又作鲊广椒，以红辣椒与玉米面等拌匀入坛发酵，成品酸香，可熟炒、蒸食，也常配腊肉烹调。",
+      "detail": "椒料和粉料共同形成碎粒质地，发酵后再熟制呈现独特酸香；它与鲜剁椒不是同一食品，保留恩施州地方做法。",
+      "sources": [
+        "six-63bd1e26425902"
+      ]
+    },
+    {
+      "id": "flavor-hubei-0c5c08866a",
+      "province": "hubei",
+      "city": "恩施州",
+      "name": "柏杨豆干",
+      "type": "dishes",
+      "kind": "利川地方卤豆干",
+      "description": "柏杨豆干来自恩施州利川柏杨，以大豆制坯，经历压榨、烘烤和卤制等工序，成品紧实，豆香与卤香相合。",
+      "detail": "制坯去水形成豆干骨架，烘烤和卤汁又补充香味；店号与具体包装可以不同，此处保留柏杨这一地方食品名称。",
+      "sources": [
+        "six-f5eebe65062c22"
+      ]
+    },
+    {
+      "id": "flavor-hubei-defecec7b9",
+      "province": "hubei",
+      "city": "恩施州",
+      "name": "利川红",
+      "type": "tea",
+      "kind": "利川地方红茶",
+      "description": "利川红关联恩施州利川茶区，芽叶经红茶工艺加工形成红汤与甜醇茶味，是当地绿茶之外的一条地方制茶路线。",
+      "detail": "萎凋、揉捻、发酵和干燥使茶叶形成不同于绿茶的风格；茶名保留县域产区，具体等级和产品配料分别辨认。",
+      "sources": [
+        "six-ccb8477bfccb8d"
+      ]
+    },
+    {
+      "id": "flavor-hubei-1a92ce0695",
+      "province": "hubei",
+      "city": "仙桃",
+      "name": "仙桃红庙酥饼",
+      "type": "staples",
+      "kind": "麻油甜馅酥饼",
+      "description": "仙桃红庙酥饼以面粉、糖、麻油等制皮包心，捏成小圆饼温烤，成品香甜酥软，带芝麻油香。",
+      "detail": "熟面与糖组成馅料，面皮和油料配合形成酥感；小圆饼形态与地方街镇相连，是仙桃具名面点。",
+      "sources": [
+        "six-3853464c05d9ad"
+      ]
+    },
+    {
+      "id": "flavor-hubei-9fc6d05d7a",
+      "province": "hubei",
+      "city": "仙桃",
+      "name": "仙桃塌豆饼",
+      "type": "staples",
+      "kind": "米豆浆摊饼",
+      "description": "仙桃塌豆饼将谷豆原料泡发磨浆，再在锅中摊成薄饼，鲜食柔软，切丝干燥后又可像面条一样配汤煮食。",
+      "detail": "薄饼可撕块配蒜苗炕炒，干丝则经复水恢复柔韧；不同吃法保留同一原料工艺，不按鲜干状态重复计数。",
+      "sources": [
+        "six-37f5c6f9559905"
+      ]
+    },
+    {
+      "id": "flavor-hubei-847c913268",
+      "province": "hubei",
+      "city": "潜江",
+      "name": "潜江福寿饼",
+      "type": "staples",
+      "kind": "米粉包馅印模饼",
+      "description": "潜江福寿饼以米粉调熟成黏团，包入馅料后用福寿字样模具压形，再在锅中炕至两面金黄。",
+      "detail": "熟米团帮助饼坯定形，木模留下字纹，炕制则形成外香内软口感；名字联系造型与吉祥字样，不表示药食功能。",
+      "sources": [
+        "six-c494aece641228"
+      ]
+    },
+    {
+      "id": "flavor-hubei-da3567a9b9",
+      "province": "hubei",
+      "city": "潜江",
+      "name": "潜江米茶",
+      "type": "drinks",
+      "kind": "炒米煮制汤饮",
+      "description": "潜江米茶先把大米干炒至微黄，再加水煮至米粒开花，米汤颜色浅黄，带烘炒谷物香，是当地地方饮食。",
+      "detail": "炒米改变香气，煮制又让淀粉进入汤中；名称虽有茶，主体仍是大米与水，归为饮品而不是茶树叶加工茶。",
+      "sources": [
+        "six-00e1f62faa6b56"
+      ]
+    },
+    {
+      "id": "flavor-hubei-fe899ae9e5",
+      "province": "hubei",
+      "city": "天门",
+      "name": "天门锅盔",
+      "type": "staples",
+      "kind": "葱油芝麻烙饼",
+      "description": "天门锅盔以发酵麦面包抹油脂、葱花等，表面刷糖料撒芝麻再烘炕，成品两面金黄，面香与葱油香相合。",
+      "detail": "发酵使内部组织较松，油层与葱花增加咸香，外层芝麻形成烘香；同为锅盔，各地产地和制作形式分别保留。",
+      "sources": [
+        "six-1d502684cb1568"
+      ],
+      "proteins": [
+        "猪"
+      ]
+    },
+    {
+      "id": "flavor-hubei-408ccbdbb3",
+      "province": "hubei",
+      "city": "神农架",
+      "name": "木鱼绿茶",
+      "type": "tea",
+      "kind": "木鱼地方绿茶",
+      "description": "木鱼绿茶关联神农架木鱼茶区，干茶翠绿带毫，冲泡后汤色黄绿，带栗香与较醇和回甜，是当地茶叶风物。",
+      "detail": "芽叶嫩度、杀青与干燥影响茶形和香气；它以具体地方茶名记录，来源中的无污染或保健宣传不作产品保证。",
+      "sources": [
+        "six-9da50f6982f923"
+      ]
+    },
+    {
+      "id": "flavor-hubei-dde1e1fc1c",
+      "province": "hubei",
+      "city": "神农架",
+      "name": "神农架腊肉",
+      "type": "dishes",
+      "kind": "山地腌熏猪肉",
+      "description": "神农架腊肉以猪肉腌制后晾晒或熏干，肉色较深，脂香与烟香相合，可熟制切片，配当地蔬菜同炒。",
+      "detail": "盐渍与干燥让肉质逐渐紧实，食前加热又使脂肪香气释放；同一山地腊味的不同部位与做法不作为重复食品计数。",
+      "sources": [
+        "six-908f0acc79021a"
+      ],
+      "proteins": [
+        "猪"
       ]
     }
   ]
