@@ -21,8 +21,8 @@
     {
       "province": "henan",
       "city": "许昌",
-      "count": 3,
-      "remainingToTarget": 8
+      "count": 4,
+      "remainingToTarget": 7
     },
     {
       "province": "henan",
@@ -1123,11 +1123,11 @@
     {
       "province": "zhejiang",
       "city": "宁波",
-      "count": 12,
+      "count": 13,
       "types": {
         "dishes": 6,
         "ingredients": 1,
-        "staples": 3,
+        "staples": 4,
         "tea": 1,
         "dairy": 1
       }
@@ -1135,12 +1135,13 @@
     {
       "province": "zhejiang",
       "city": "温州",
-      "count": 12,
+      "count": 13,
       "types": {
         "dairy": 2,
         "staples": 6,
         "dishes": 3,
-        "tea": 1
+        "tea": 1,
+        "ingredients": 1
       }
     },
     {
@@ -1181,11 +1182,11 @@
     {
       "province": "zhejiang",
       "city": "金华",
-      "count": 12,
+      "count": 17,
       "types": {
         "drinks": 2,
         "dishes": 4,
-        "staples": 4,
+        "staples": 9,
         "tea": 1,
         "ingredients": 1
       }
@@ -1193,11 +1194,11 @@
     {
       "province": "zhejiang",
       "city": "衢州",
-      "count": 11,
+      "count": 16,
       "types": {
         "seasoning": 1,
-        "staples": 5,
-        "dishes": 2,
+        "staples": 9,
+        "dishes": 3,
         "tea": 2,
         "ingredients": 1
       }
@@ -1216,12 +1217,12 @@
     {
       "province": "zhejiang",
       "city": "台州",
-      "count": 12,
+      "count": 13,
       "types": {
         "drinks": 1,
         "staples": 8,
         "ingredients": 1,
-        "dishes": 1,
+        "dishes": 2,
         "tea": 1
       }
     },
@@ -1469,11 +1470,12 @@
     {
       "province": "henan",
       "city": "许昌",
-      "count": 3,
+      "count": 4,
       "types": {
         "ingredients": 1,
         "staples": 1,
-        "drinks": 1
+        "drinks": 1,
+        "dishes": 1
       }
     },
     {
@@ -2405,5 +2407,8 @@
         "dishes": 1
       }
     }
-  ]
+  ],
+  "totalItems": 1321,
+  "targetItems": 2000,
+  "remainingItems": 679
 }

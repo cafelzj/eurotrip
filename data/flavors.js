@@ -8641,6 +8641,111 @@ window.flavorCatalog={
       "publisher": "中国日报网",
       "kind": "reference",
       "checked": "2026-11-14"
+    },
+    "county-6c4bb3718b1e93": {
+      "name": "中秋夜宴，月明赏海：开元旅业集团名厨工作坊实力钜献新派台州菜（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E4%B8%AD%E7%A7%8B%E5%A4%9C%E5%AE%B4%EF%BC%8C%E6%9C%88%E6%98%8E%E8%B5%8F%E6%B5%B7%EF%BC%9A%E5%BC%80%E5%85%83%E6%97%85%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%90%8D%E5%8E%A8%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%AE%9E%E5%8A%9B%E9%92%9C%E7%8C%AE%E6%96%B0%E6%B4%BE%E5%8F%B0%E5%B7%9E%E8%8F%9C",
+      "publisher": "中国日报网转载／公开检索",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-61c72aee56fea1": {
+      "name": "兰溪鸡子馃-快懂百科",
+      "url": "https://www.baike.com/wikiid/981169333219698949",
+      "publisher": "快懂百科",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-8145c1d9a7405c": {
+      "name": "“兰溪日子·有戏有味”2023兰溪文旅嘉年华开市仪式在杭州举行 - 中国日报网",
+      "url": "https://cn.chinadaily.com.cn/a/202311/13/WS6551ea1ea310d5acd876ea8b.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-ec1d41210ba3a0": {
+      "name": "浙江这处“慵懒”的古镇，藏着渔樵耕读的旧时光 - 中国日报网",
+      "url": "https://cnews.chinadaily.com.cn/a/202007/28/WS5f211787a310a859d09dad59.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-d6adbfe305a0b4": {
+      "name": "梁弄大糕-快懂百科",
+      "url": "https://www.baike.com/wikiid/6422131865266743304",
+      "publisher": "快懂百科",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-e9cb67da8e37d7": {
+      "name": "《魅力中国城》寇乃馨高博花式磨稻谷 余姚延边上演“延甬一家亲” - 中国日报网",
+      "url": "https://ent.chinadaily.com.cn/a/201912/30/WS5e09a8e2a31099ab995f45ed.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-f2adf26226f6e9": {
+      "name": "“衢州味道”品牌系列活动圆满收官，品牌官方logo正式揭晓！ - 中国日报网",
+      "url": "https://cn.chinadaily.com.cn/a/202312/07/WS65718700a310d5acd8772131.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-bb018d7826eb52": {
+      "name": "一城巷陌，千年南门——衢州学院“专业团队”参加浙江省第十六届会展策划创意大赛专项赛纪实 - 中国日报网",
+      "url": "https://caijing.chinadaily.com.cn/a/202610/29/WS6ae2b508e4b09a165c7923ce.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-9f43418f96a94f": {
+      "name": "赞麦源选寻味兰溪 发掘多种特色美味小吃（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E8%B5%9E%E9%BA%A6%E6%BA%90%E9%80%89%E5%AF%BB%E5%91%B3%E5%85%B0%E6%BA%AA+%E5%8F%91%E6%8E%98%E5%A4%9A%E7%A7%8D%E7%89%B9%E8%89%B2%E7%BE%8E%E5%91%B3%E5%B0%8F%E5%90%83",
+      "publisher": "中国日报网转载／公开检索",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-1bed01ca99360c": {
+      "name": "名享浙江的龙游小吃，带来游子心心念念的龙游风味（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E5%90%8D%E4%BA%AB%E6%B5%99%E6%B1%9F%E7%9A%84%E9%BE%99%E6%B8%B8%E5%B0%8F%E5%90%83%EF%BC%8C%E5%B8%A6%E6%9D%A5%E6%B8%B8%E5%AD%90%E5%BF%83%E5%BF%83%E5%BF%B5%E5%BF%B5%E7%9A%84%E9%BE%99%E6%B8%B8%E9%A3%8E%E5%91%B3",
+      "publisher": "中国日报网转载／公开检索",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-5f9636ad61d1ab": {
+      "name": "苍南向全国人民发出邀约：乘着高铁畅游浙江沿海最南端（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E8%8B%8D%E5%8D%97%E5%90%91%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%8F%91%E5%87%BA%E9%82%80%E7%BA%A6%EF%BC%9A%E4%B9%98%E7%9D%80%E9%AB%98%E9%93%81%E7%95%85%E6%B8%B8%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7%E6%9C%80%E5%8D%97%E7%AB%AF",
+      "publisher": "中国日报网转载／公开检索",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-0350d76effe786": {
+      "name": "沙蚕-快懂百科",
+      "url": "https://www.baike.com/wikiid/7249941599403966516",
+      "publisher": "快懂百科",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-1830a7f561961c": {
+      "name": "运动美学与中原文化联姻 打造近郊休闲旅游度假示范区 - 中国日报网",
+      "url": "https://hen.chinadaily.com.cn/a/201901/23/WS5c48233ea31010568bdc6200.html",
+      "publisher": "中国日报网",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-d7f6d28c316139": {
+      "name": "杂炣-快懂百科",
+      "url": "https://www.baike.com/wikiid/4331952225989265204",
+      "publisher": "快懂百科",
+      "kind": "reference",
+      "checked": "2026-11-14"
+    },
+    "county-0bb92131ddf075": {
+      "name": "德清县“诗画浙江·百县千碗”工作 及打造游子文化宴侧记（公开检索正文）",
+      "url": "https://newssearch.chinadaily.com.cn/search?query=%E5%BE%B7%E6%B8%85%E5%8E%BF%E2%80%9C%E8%AF%97%E7%94%BB%E6%B5%99%E6%B1%9F%C2%B7%E7%99%BE%E5%8E%BF%E5%8D%83%E7%A2%97%E2%80%9D%E5%B7%A5%E4%BD%9C+%E5%8F%8A%E6%89%93%E9%80%A0%E6%B8%B8%E5%AD%90%E6%96%87%E5%8C%96%E5%AE%B4%E4%BE%A7%E8%AE%B0",
+      "publisher": "中国日报网转载／公开检索",
+      "kind": "reference",
+      "checked": "2026-11-14"
     }
   },
   "items": [
@@ -16065,13 +16170,14 @@ window.flavorCatalog={
     {
       "province": "zhejiang",
       "city": "湖州",
-      "name": "新市羊肉",
+      "name": "新市酱羊肉",
       "type": "dishes",
       "kind": "古镇炖羊肉",
       "description": "德清新市的地方羊肉，常选湖羊配姜、枣、酒和香料炖焖，肉与汤汁充分成味，入口酥软而带咸甜。",
       "detail": "地方做法经过大火煮开、小火烧煮和余温焖制，时间使羊肉逐渐软化。古镇羊肉与当地湖羊养殖、秋冬餐桌联系紧密。",
       "sources": [
-        "city-de2fb302a88945"
+        "city-de2fb302a88945",
+        "county-0bb92131ddf075"
       ],
       "proteins": [
         "羊"
@@ -16469,14 +16575,15 @@ window.flavorCatalog={
       "type": "staples",
       "kind": "高家包馅馒头",
       "description": "衢州高家的葱花馒头，在酒糟馒头中填入炒好的肉丁、笋干、豆干、葱和椒等，再蒸热，面香与馅汁结合。",
-      "detail": "当地做法先把馒头内部撑出空间再装馅，蒸汽让主食与配菜重新融合。不是只在面团里撒葱，而是有完整馅心的地方吃法。",
+      "detail": "高家做法先把配料炒香，再装入馒头中蒸热，让馅味进入面里。龙游地方小吃报道也记录同名葱花馒头；此卡保留高家具体做法，不把不同地方配方写成完全相同。",
       "sources": [
-        "city-00f9dde734bb95"
+        "city-00f9dde734bb95",
+        "county-1bed01ca99360c"
       ],
       "proteins": [
         "猪"
       ],
-      "locality": "衢江区高家镇",
+      "locality": "衢江区高家镇、龙游县",
       "id": "flavor-zhejiang-cfbb32e120"
     },
     {
@@ -27321,6 +27428,229 @@ window.flavorCatalog={
       "sources": [
         "six-0ba7a05ff4ffb2"
       ]
+    },
+    {
+      "province": "zhejiang",
+      "city": "台州",
+      "locality": "临海市",
+      "name": "蛋清羊尾",
+      "type": "dishes",
+      "kind": "蛋清裹豆沙炸食",
+      "description": "临海蛋清羊尾用打发蛋清包裹豆沙丸子，入油炸成蓬松外层，表面略撒糖，外轻软、内馅甜润，名字里的羊尾并不是羊肉。",
+      "detail": "蛋清要打成能支撑形状的雪花状，再包住豆沙下锅，炸后的轮廓像羊尾，因形得名。蛋清泡沫与豆沙形成不同口感，是台州府城具名甜食。",
+      "sources": [
+        "county-6c4bb3718b1e93"
+      ],
+      "id": "county-zhejiang-2256d7eaaa"
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "兰溪市",
+      "name": "兰溪鸡子馃",
+      "type": "staples",
+      "kind": "灌蛋肉葱煎饼",
+      "description": "兰溪鸡子馃又写鸡子粿，以薄皮包猪油、瘦肉和葱馅，煎制时灌入打散调味的鸡蛋，熟后蛋、肉、葱与饼皮连成一体。",
+      "detail": "这里的鸡子就是鸡蛋，蛋液进入饼内后逐渐凝固，外皮煎成金黄，内层较润。它既是街头点心，也与兰溪夜宵、游埠早茶等地方餐食相连。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-61c72aee56fea1",
+        "county-8145c1d9a7405c",
+        "county-ec1d41210ba3a0"
+      ],
+      "id": "county-zhejiang-ca51060314"
+    },
+    {
+      "province": "zhejiang",
+      "city": "宁波",
+      "locality": "余姚市梁弄镇",
+      "name": "梁弄大糕",
+      "type": "staples",
+      "kind": "地方礼俗米糕",
+      "description": "梁弄大糕是宁波余姚梁弄镇的地方米糕，糕面可印吉祥文字或图案，糕点与礼俗结合，常在婚亲、上梁等喜庆场合分送亲友。",
+      "detail": "当地将糕点的造型、文字与祝愿结合，相关报道记录把活字印制运用在糕面上。端午等节令的互赠习俗也让这份米食成为联络亲友的礼物。",
+      "sources": [
+        "county-d6adbfe305a0b4",
+        "county-e9cb67da8e37d7"
+      ],
+      "id": "county-zhejiang-baa28e5ea1"
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "name": "衢州烤饼",
+      "type": "staples",
+      "kind": "地方炉烤面食",
+      "description": "衢州烤饼是当地具名的烘烤面食，外层酥香，内层较软，在衢州小吃征集和地方餐食报道中均有记录，也常被口头称作烧饼。",
+      "detail": "在二〇二三年的“衢州味道”小吃征集中，烤饼与葱花馒头、油炸粿等一同入围。地方街巷餐食报道也把它与豆腐丸汤并列，保留现烤面食的日常场景。",
+      "sources": [
+        "county-f2adf26226f6e9",
+        "county-bb018d7826eb52"
+      ],
+      "id": "county-zhejiang-3920091c36"
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "兰溪市",
+      "name": "兰溪手擀面",
+      "type": "staples",
+      "kind": "反复擀压麦面",
+      "description": "兰溪手擀面以高筋面粉加水反复揉搓、擀压，面皮从不同方向擀匀后制条，煮熟筋韧爽滑，是当地牛肉面等汤面的主食基础。",
+      "detail": "擀面不只前后推压，还要不断转动面皮，让整片厚薄尽量一致。揉制与反复擀压共同影响弹性，面条与不同汤料组合，保留麦面咀嚼感。",
+      "sources": [
+        "county-9f43418f96a94f"
+      ],
+      "id": "county-zhejiang-5a43422574"
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "兰溪市",
+      "name": "兰溪咸汤圆",
+      "type": "staples",
+      "kind": "带尾糯米咸汤团",
+      "description": "兰溪咸汤圆以薄糯米皮包萝卜、笋丁、香菇、豆腐、肉和葱等咸馅，圆身常拖一小尾巴，米皮软糯，内部咸鲜。",
+      "detail": "汤中可配酱油、猪油和葱花，汤汁、糯米皮与蔬菜肉馅形成三层口感。它与芝麻、豆沙等甜馅汤圆口味不同，保留兰溪地方叫法与造型。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-9f43418f96a94f"
+      ],
+      "id": "county-zhejiang-1d48f9a41c"
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "兰溪市",
+      "name": "兰溪烧麦",
+      "type": "staples",
+      "kind": "薄皮肉汁蒸点",
+      "description": "兰溪烧麦面皮较薄，蒸后淡黄柔韧、近半透明，内部肉馅带汤汁和葱香，是当地早茶、点心餐食中的一种包馅面食。",
+      "detail": "面皮上口保留散开的褶边，蒸汽让皮馅熟透，薄皮与肉汤结合。地方介绍突出肉香与葱香，这一做法与内包糯米饭的烧卖有所区别。",
+      "sources": [
+        "county-9f43418f96a94f"
+      ],
+      "id": "county-zhejiang-51f21c1e29"
+    },
+    {
+      "province": "zhejiang",
+      "city": "金华",
+      "locality": "兰溪市",
+      "name": "兰溪清明粿",
+      "type": "staples",
+      "kind": "时令包馅米食",
+      "description": "兰溪清明粿包入冬笋、雪里红、香菇丁和肉丁等时令馅料，熟后外皮糯韧、内部咸鲜，是当地有明确名称的节令食品。",
+      "detail": "笋丁、腌菜与菌菇为馅料带来脆、软等不同质地，肉料又补充脂香。包皮与馅料一同熟制，把春季食材组合进小份米食中。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-9f43418f96a94f"
+      ],
+      "id": "county-zhejiang-3f026c8ab0"
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "龙游县北乡",
+      "name": "龙游北乡汤团",
+      "type": "staples",
+      "kind": "尖顶笋肉糯米汤团",
+      "description": "龙游北乡汤团又称北乡汤圆，外形上尖下圆，以糯米皮包笋肉咸馅，煮后皮糯、馅鲜，保留龙游北乡的地方餐食特点。",
+      "detail": "尖顶造型把它与一般圆球汤圆区分开，笋的清香和咀嚼感进入肉馅，咸鲜汤料又与米皮相合。同一食品的汤团、汤圆两种写法合并记录。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-1bed01ca99360c"
+      ],
+      "id": "county-zhejiang-10d77fb660"
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "龙游县",
+      "name": "龙游粉干",
+      "type": "staples",
+      "kind": "米制干粉条",
+      "description": "龙游粉干以米料加工成粗细较均匀的干粉条，复水熟制后可炒、拌或配汤，不同配菜与调味让同一米食呈现多种日常吃法。",
+      "detail": "干燥便于分束保存，浸煮又让粉条恢复柔韧，炒食时裹附油香，汤食时吸收汤味。原料以大米为主，与麦面擀切面条分别辨认。",
+      "sources": [
+        "county-1bed01ca99360c"
+      ],
+      "id": "county-zhejiang-a6723e92b5"
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "龙游县",
+      "name": "龙游米糊",
+      "type": "staples",
+      "kind": "肉丝榨菜米粉糊食",
+      "description": "龙游米糊将米粉煮成稠润糊食，加入瘦肉和榨菜等，入口酸辣咸鲜，米糊的柔滑与肉丝、腌菜的质地形成对照。",
+      "detail": "米粉在加热中糊化，汤汁因此变稠，肉料与榨菜共同补充鲜味和咀嚼感。当地常把它作为早餐，是可饱腹的米食而非单纯冲泡饮料。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-1bed01ca99360c"
+      ],
+      "id": "county-zhejiang-6f5645b85e"
+    },
+    {
+      "province": "zhejiang",
+      "city": "衢州",
+      "locality": "龙游县",
+      "name": "龙游豆腐丸子",
+      "type": "dishes",
+      "kind": "豆腐肉糜汤丸",
+      "description": "龙游豆腐丸子把豆腐泥与鲜肉糜拌合，再加入糯米粉帮助黏合成形，入汤熟制后口感柔滑，豆香与肉鲜相合。",
+      "detail": "糯米粉让较散的豆腐泥和肉糜成为完整丸体，汤煮后外形较稳定。它虽然含米粉，主要仍是豆腐肉料汤菜，与包馅汤团的结构不同。",
+      "proteins": [
+        "猪"
+      ],
+      "sources": [
+        "county-1bed01ca99360c"
+      ],
+      "id": "county-zhejiang-73e46a304b"
+    },
+    {
+      "province": "zhejiang",
+      "city": "温州",
+      "locality": "苍南县",
+      "name": "苍南海蜈蚣（沙蚕）",
+      "type": "ingredients",
+      "kind": "滩涂海产食材",
+      "description": "苍南海蜈蚣是当地滩涂海产清单中的食材，名称对应沙蚕类海洋环节动物，身体细长分节，与陆地蜈蚣属于不同动物。",
+      "detail": "苍南山海餐食报道将它与文蛤、蛏子等一同介绍，反映滩涂资源进入地方饮食的方式。这里记录食材与县域关联，具体品种和菜式需分别辨认。",
+      "sources": [
+        "county-5f9636ad61d1ab",
+        "county-0350d76effe786"
+      ],
+      "id": "county-zhejiang-6551e72666"
+    },
+    {
+      "province": "henan",
+      "city": "许昌",
+      "locality": "禹州市顺店镇",
+      "name": "禹州杂炣",
+      "type": "dishes",
+      "kind": "牛杂粉条烩菜",
+      "description": "禹州杂炣（zá kě）关联许昌禹州顺店镇，以牛肝、牛肠等牛杂配禹州粉条、炸豆腐条等现烩，肉汤、粉条与豆香结合。",
+      "detail": "当地有小锅与大锅等做法，熟牛杂在汤中与配料合煮，粉条吸收汤味，豆腐条保留不同咀嚼感。牛肝较绵密、牛肠较有韧性，多种质地在一锅热烩菜里结合。",
+      "proteins": [
+        "牛"
+      ],
+      "sources": [
+        "county-1830a7f561961c",
+        "county-d7f6d28c316139"
+      ],
+      "id": "county-henan-a17b524e73"
     }
-  ]
+  ],
+  "targetItems": 2000
 };
