@@ -1,0 +1,2502 @@
+{
+  "checked": "2026-11-14",
+  "records": {
+    "en": {
+      "apple": {
+        "lookup": [
+          "apple"
+        ],
+        "ipa": "/ˈæpəl/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pear": {
+        "lookup": [
+          "pear"
+        ],
+        "ipa": "/pˈeə/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "banana": {
+        "lookup": [
+          "banana"
+        ],
+        "ipa": "/bɐnˈɑːnɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "orange": {
+        "lookup": [
+          "orange"
+        ],
+        "ipa": "/ˈɒɹɪndʒ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "lemon": {
+        "lookup": [
+          "lemon"
+        ],
+        "ipa": "/lˈɛmən/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "strawberry": {
+        "lookup": [
+          "strawberry"
+        ],
+        "ipa": "/stɹˈɔːbəɹi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "grape": {
+        "lookup": [
+          "grape"
+        ],
+        "ipa": "/ɡɹˈeɪp/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "watermelon": {
+        "lookup": [
+          "watermelon"
+        ],
+        "ipa": "/wˈɔːtəmˌɛlən/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "peach": {
+        "lookup": [
+          "peach"
+        ],
+        "ipa": "/pˈiːtʃ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cherry": {
+        "lookup": [
+          "cherry"
+        ],
+        "ipa": "/tʃˈɛɹi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "tomato": {
+        "lookup": [
+          "tomato"
+        ],
+        "ipa": "/təmˈɑːtəʊ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "potato": {
+        "lookup": [
+          "potato"
+        ],
+        "ipa": "/pətˈeɪtəʊ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "carrot": {
+        "lookup": [
+          "carrot"
+        ],
+        "ipa": "/kˈæɹət/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "onion": {
+        "lookup": [
+          "onion"
+        ],
+        "ipa": "/ˈʌniən/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "garlic": {
+        "lookup": [
+          "garlic"
+        ],
+        "ipa": "/ɡˈɑːlɪk/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cucumber": {
+        "lookup": [
+          "cucumber"
+        ],
+        "ipa": "/kjˈuːkʌmbɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bell pepper": {
+        "lookup": [
+          "bell",
+          "pepper"
+        ],
+        "ipa": "/bˈɛl/ · /pˈɛpɐ/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "mushroom": {
+        "lookup": [
+          "mushroom"
+        ],
+        "ipa": "/mˈʌʃɹuːm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "lettuce": {
+        "lookup": [
+          "lettuce"
+        ],
+        "ipa": "/lˈɛtɪs/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "beef": {
+        "lookup": [
+          "beef"
+        ],
+        "ipa": "/bˈiːf/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pork": {
+        "lookup": [
+          "pork"
+        ],
+        "ipa": "/pˈɔːk/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "chicken": {
+        "lookup": [
+          "chicken"
+        ],
+        "ipa": "/tʃˈɪkɪn/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "fish": {
+        "lookup": [
+          "fish"
+        ],
+        "ipa": "/fˈɪʃ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sausage": {
+        "lookup": [
+          "sausage"
+        ],
+        "ipa": "/sˈɒsɪdʒ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "frankfurter": {
+        "lookup": [
+          "frankfurter"
+        ],
+        "ipa": "/fɹˈæŋkfɜːtɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ham": {
+        "lookup": [
+          "ham"
+        ],
+        "ipa": "/hˈæm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bacon": {
+        "lookup": [
+          "bacon"
+        ],
+        "ipa": "/bˈeɪkən/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "grilled sausage": {
+        "lookup": [
+          "grilled",
+          "sausage"
+        ],
+        "ipa": "/ɡɹˈɪld/ · /sˈɒsɪdʒ/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "milk": {
+        "lookup": [
+          "milk"
+        ],
+        "ipa": "/mˈɪlk/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cheese": {
+        "lookup": [
+          "cheese"
+        ],
+        "ipa": "/tʃˈiːz/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "butter": {
+        "lookup": [
+          "butter"
+        ],
+        "ipa": "/bˈʌtɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "yogurt": {
+        "lookup": [
+          "yogurt"
+        ],
+        "ipa": "/jˈɒɡɜːt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cream": {
+        "lookup": [
+          "cream"
+        ],
+        "ipa": "/kɹˈiːm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sour cream": {
+        "lookup": [
+          "sour",
+          "cream"
+        ],
+        "ipa": "/sˈaʊə/ · /kɹˈiːm/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "oat milk": {
+        "lookup": [
+          "oat",
+          "milk"
+        ],
+        "ipa": "/ˈəʊt/ · /mˈɪlk/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "bread": {
+        "lookup": [
+          "bread"
+        ],
+        "ipa": "/bɹˈɛd/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bread roll": {
+        "lookup": [
+          "bread",
+          "roll"
+        ],
+        "ipa": "/bɹˈɛd/ · /ɹˈəʊl/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "croissant": {
+        "lookup": [
+          "croissant"
+        ],
+        "ipa": "/kwˈɑːsɑ̃/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pretzel": {
+        "lookup": [
+          "pretzel"
+        ],
+        "ipa": "/pɹˈɛtsəl/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "wholemeal bread": {
+        "lookup": [
+          "wholemeal",
+          "bread"
+        ],
+        "ipa": "/hˈəʊlmiəl/ · /bɹˈɛd/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "flour": {
+        "lookup": [
+          "flour"
+        ],
+        "ipa": "/flˈaʊə/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bakery": {
+        "lookup": [
+          "bakery"
+        ],
+        "ipa": "/bˈeɪkəɹi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ice cream": {
+        "lookup": [
+          "ice",
+          "cream"
+        ],
+        "ipa": "/ˈaɪs/ · /kɹˈiːm/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "one scoop": {
+        "lookup": [
+          "one",
+          "scoop"
+        ],
+        "ipa": "/wˈɒn/ · /skˈuːp/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "vanilla": {
+        "lookup": [
+          "vanilla"
+        ],
+        "ipa": "/vɐnˈɪlɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "chocolate": {
+        "lookup": [
+          "chocolate"
+        ],
+        "ipa": "/tʃˈɒklət/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cake": {
+        "lookup": [
+          "cake"
+        ],
+        "ipa": "/kˈeɪk/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "apple strudel": {
+        "lookup": [
+          "apple",
+          "strudel"
+        ],
+        "ipa": "/ˈæpəl/ · /stɹˈuːdəl/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "sugar": {
+        "lookup": [
+          "sugar"
+        ],
+        "ipa": "/ʃˈʊɡɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "confectionery": {
+        "lookup": [
+          "confectionery"
+        ],
+        "ipa": "/kənfˈɛkʃənəɹi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "coffee": {
+        "lookup": [
+          "coffee"
+        ],
+        "ipa": "/kˈɒfi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "supermarket": {
+        "lookup": [
+          "supermarket"
+        ],
+        "ipa": "/sˈuːpəmˌɑːkɪt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "checkout": {
+        "lookup": [
+          "checkout"
+        ],
+        "ipa": "/tʃˈɛkaʊt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "price": {
+        "lookup": [
+          "price"
+        ],
+        "ipa": "/pɹˈaɪs/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "special offer": {
+        "lookup": [
+          "special",
+          "offer"
+        ],
+        "ipa": "/spˈɛʃəl/ · /ˈɒfɐ/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "bag": {
+        "lookup": [
+          "bag"
+        ],
+        "ipa": "/bˈæɡ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cash": {
+        "lookup": [
+          "cash"
+        ],
+        "ipa": "/kˈæʃ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bank card": {
+        "lookup": [
+          "bank",
+          "card"
+        ],
+        "ipa": "/bˈæŋk/ · /kˈɑːd/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "water": {
+        "lookup": [
+          "water"
+        ],
+        "ipa": "/wˈɔːtɐ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "mineral water with gas": {
+        "lookup": [
+          "mineral",
+          "water",
+          "with",
+          "gas"
+        ],
+        "ipa": "/mˈɪnəɹəl/ · /wˈɔːtɐ/ · /wˈɪð/ · /ɡˈæs/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "still water": {
+        "lookup": [
+          "still",
+          "water"
+        ],
+        "ipa": "/stˈɪl/ · /wˈɔːtɐ/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "egg": {
+        "lookup": [
+          "egg"
+        ],
+        "ipa": "/ˈɛɡ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "exit": {
+        "lookup": [
+          "exit"
+        ],
+        "ipa": "/ˈɛɡzɪt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "railway station": {
+        "lookup": [
+          "railway",
+          "station"
+        ],
+        "ipa": "/ɹˈeɪlweɪ/ · /stˈeɪʃən/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "airport": {
+        "lookup": [
+          "airport"
+        ],
+        "ipa": "/ˈeəpɔːt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ticket": {
+        "lookup": [
+          "ticket"
+        ],
+        "ipa": "/tˈɪkɪt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "platform": {
+        "lookup": [
+          "platform"
+        ],
+        "ipa": "/plˈætfɔːm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bus": {
+        "lookup": [
+          "bus"
+        ],
+        "ipa": "/bˈʌs/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "tram": {
+        "lookup": [
+          "tram"
+        ],
+        "ipa": "/tɹˈæm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "metro": {
+        "lookup": [
+          "metro"
+        ],
+        "ipa": "/mˈɛtɹəʊ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "toilet": {
+        "lookup": [
+          "toilet"
+        ],
+        "ipa": "/tˈɔɪlət/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "open": {
+        "lookup": [
+          "open"
+        ],
+        "ipa": "/ˈəʊpən/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "closed": {
+        "lookup": [
+          "closed"
+        ],
+        "ipa": "/klˈəʊzd/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "street": {
+        "lookup": [
+          "street"
+        ],
+        "ipa": "/stɹˈiːt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "apricot": {
+        "lookup": [
+          "apricot"
+        ],
+        "ipa": "/ˈeɪpɹɪkˌɒt/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "spinach": {
+        "lookup": [
+          "spinach"
+        ],
+        "ipa": "/spˈɪnɪtʃ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cabbage": {
+        "lookup": [
+          "cabbage"
+        ],
+        "ipa": "/kˈæbɪdʒ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "salami": {
+        "lookup": [
+          "salami"
+        ],
+        "ipa": "/sɐlˈɑːmi/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "lamb": {
+        "lookup": [
+          "lamb"
+        ],
+        "ipa": "/lˈæm/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "quark": {
+        "lookup": [
+          "quark"
+        ],
+        "ipa": "/kwˈɑːk/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "rye bread": {
+        "lookup": [
+          "rye",
+          "bread"
+        ],
+        "ipa": "/ɹˈaɪ/ · /bɹˈɛd/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "pistachio": {
+        "lookup": [
+          "pistachio"
+        ],
+        "ipa": "/pɪstˈæʃɪˌəʊ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ice cream cone": {
+        "lookup": [
+          "ice",
+          "cream",
+          "cone"
+        ],
+        "ipa": "/ˈaɪs/ · /kɹˈiːm/ · /kˈəʊn/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "restaurant": {
+        "lookup": [
+          "restaurant"
+        ],
+        "ipa": "/ɹˈɛstɹɒnt/",
+        "segmented": false,
+        "articleOmitted": false
+      }
+    },
+    "de": {
+      "der Apfel": {
+        "lookup": [
+          "Apfel"
+        ],
+        "ipa": "/ˈap͡fl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Birne": {
+        "lookup": [
+          "Birne"
+        ],
+        "ipa": "/ˈbɪʁnə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Banane": {
+        "lookup": [
+          "Banane"
+        ],
+        "ipa": "/baˈnaːnə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Orange": {
+        "lookup": [
+          "Orange"
+        ],
+        "ipa": "/oˈʁɑ̃ːʃ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Zitrone": {
+        "lookup": [
+          "Zitrone"
+        ],
+        "ipa": "/t͡siˈtʁoːnə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Erdbeere": {
+        "lookup": [
+          "Erdbeere"
+        ],
+        "ipa": "/ˈeːɐ̯tbeːʁə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Traube": {
+        "lookup": [
+          "Traube"
+        ],
+        "ipa": "/ˈtʁaʊ̯bə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Wassermelone": {
+        "lookup": [
+          "Wassermelone"
+        ],
+        "ipa": "/ˈvasɐmeˌloːnə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Pfirsich": {
+        "lookup": [
+          "Pfirsich"
+        ],
+        "ipa": "/ˈp͡fɪʁzɪç/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Kirsche": {
+        "lookup": [
+          "Kirsche"
+        ],
+        "ipa": "/ˈkɪʁʃə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Tomate": {
+        "lookup": [
+          "Tomate"
+        ],
+        "ipa": "/toˈmaːtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Kartoffel": {
+        "lookup": [
+          "Kartoffel"
+        ],
+        "ipa": "/kaʁˈtɔfl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Karotte": {
+        "lookup": [
+          "Karotte"
+        ],
+        "ipa": "/kaˈʁɔtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Zwiebel": {
+        "lookup": [
+          "Zwiebel"
+        ],
+        "ipa": "/ˈt͡sviːbl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Knoblauch": {
+        "lookup": [
+          "Knoblauch"
+        ],
+        "ipa": "/ˈknoːpˌlaʊ̯x/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Gurke": {
+        "lookup": [
+          "Gurke"
+        ],
+        "ipa": "/ˈɡʊʁkə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Paprika": {
+        "lookup": [
+          "Paprika"
+        ],
+        "ipa": "/ˈpapʁika/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Pilz": {
+        "lookup": [
+          "Pilz"
+        ],
+        "ipa": "/pɪlt͡s/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Kopfsalat": {
+        "lookup": [
+          "Kopfsalat"
+        ],
+        "ipa": "/ˈkɔp͡fzaˌlaːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Rindfleisch": {
+        "lookup": [
+          "Rindfleisch"
+        ],
+        "ipa": "/ˈʁɪntˌflaɪ̯ʃ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Schweinefleisch": {
+        "lookup": [
+          "Schweinefleisch"
+        ],
+        "ipa": "/ˈʃvaɪ̯nəˌflaɪ̯ʃ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Fisch": {
+        "lookup": [
+          "Fisch"
+        ],
+        "ipa": "/fɪʃ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Wurst": {
+        "lookup": [
+          "Wurst"
+        ],
+        "ipa": "/vʊʁst/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Würstchen": {
+        "lookup": [
+          "Würstchen"
+        ],
+        "ipa": "/ˈvʏʁstçən/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Schinken": {
+        "lookup": [
+          "Schinken"
+        ],
+        "ipa": "/ˈʃɪŋkn̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Speck": {
+        "lookup": [
+          "Speck"
+        ],
+        "ipa": "/ʃpɛk/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Bratwurst": {
+        "lookup": [
+          "Bratwurst"
+        ],
+        "ipa": "/ˈbʁaːtˌvʊʁst/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Milch": {
+        "lookup": [
+          "Milch"
+        ],
+        "ipa": "/mɪlç/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Käse": {
+        "lookup": [
+          "Käse"
+        ],
+        "ipa": "/ˈkeːzə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Butter": {
+        "lookup": [
+          "Butter"
+        ],
+        "ipa": "/ˈbʊtɐ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Sahne": {
+        "lookup": [
+          "Sahne"
+        ],
+        "ipa": "/ˈzaːnə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Sauerrahm": {
+        "lookup": [
+          "Sauerrahm"
+        ],
+        "ipa": "/ˈzaʊ̯ɐˌʁaːm/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "laktosefrei": {
+        "lookup": [
+          "laktosefrei"
+        ],
+        "ipa": "/lakˈtoːzəˌfʁaɪ̯/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "die Hafermilch": {
+        "lookup": [
+          "Hafermilch"
+        ],
+        "ipa": "/ˈhaːfɐˌmɪlç/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Brot": {
+        "lookup": [
+          "Brot"
+        ],
+        "ipa": "/bʁoːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Brötchen": {
+        "lookup": [
+          "Brötchen"
+        ],
+        "ipa": "/ˈbʁøːtçən/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Croissant": {
+        "lookup": [
+          "Croissant"
+        ],
+        "ipa": "/kʁo̯aˈsɑ̃ː/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Brezel": {
+        "lookup": [
+          "Brezel"
+        ],
+        "ipa": "/ˈbʁeːt͡sl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Vollkornbrot": {
+        "lookup": [
+          "Vollkornbrot"
+        ],
+        "ipa": "/ˈfɔlkɔʁnˌbʁoːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Mehl": {
+        "lookup": [
+          "Mehl"
+        ],
+        "ipa": "/meːl/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Bäckerei": {
+        "lookup": [
+          "Bäckerei"
+        ],
+        "ipa": "/ˌbɛkəˈʁaɪ̯/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Eis": {
+        "lookup": [
+          "Eis"
+        ],
+        "ipa": "/aɪ̯s/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "eine Kugel": {
+        "lookup": [
+          "Kugel"
+        ],
+        "ipa": "/ˈkuːɡl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Vanille": {
+        "lookup": [
+          "Vanille"
+        ],
+        "ipa": "/vaˈnɪljə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Schokolade": {
+        "lookup": [
+          "Schokolade"
+        ],
+        "ipa": "/ʃokoˈlaːdə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Torte": {
+        "lookup": [
+          "Torte"
+        ],
+        "ipa": "/ˈtɔʁtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Apfelstrudel": {
+        "lookup": [
+          "Apfelstrudel"
+        ],
+        "ipa": "/ˈap͡fl̩ˌʃtʁuːdl̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Zucker": {
+        "lookup": [
+          "Zucker"
+        ],
+        "ipa": "/ˈt͡sʊkɐ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Konditorei": {
+        "lookup": [
+          "Konditorei"
+        ],
+        "ipa": "/ˌkɔnditoˈʁaɪ̯/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Kaffee": {
+        "lookup": [
+          "Kaffee"
+        ],
+        "ipa": "/kaˈfeː/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Supermarkt": {
+        "lookup": [
+          "Supermarkt"
+        ],
+        "ipa": "/ˈzuːpɐˌmaʁkt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Kasse": {
+        "lookup": [
+          "Kasse"
+        ],
+        "ipa": "/ˈkasə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Preis": {
+        "lookup": [
+          "Preis"
+        ],
+        "ipa": "/pʁaɪ̯s/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Angebot": {
+        "lookup": [
+          "Angebot"
+        ],
+        "ipa": "/ˈanɡəˌboːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Tüte": {
+        "lookup": [
+          "Tüte"
+        ],
+        "ipa": "/ˈtyːtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Bargeld": {
+        "lookup": [
+          "Bargeld"
+        ],
+        "ipa": "/ˈbaːɐ̯ˌɡɛlt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Bankkarte": {
+        "lookup": [
+          "Bankkarte"
+        ],
+        "ipa": "/ˈbaŋkˌkaʁtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Wasser": {
+        "lookup": [
+          "Wasser"
+        ],
+        "ipa": "/ˈvasɐ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Sprudelwasser": {
+        "lookup": [
+          "Sprudelwasser"
+        ],
+        "ipa": "/ˈʃpʁuːdl̩ˌvasɐ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das stille Wasser": {
+        "lookup": [
+          "stille Wasser"
+        ],
+        "ipa": "/ˈʃtɪlə ˈvasɐ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Ei": {
+        "lookup": [
+          "Ei"
+        ],
+        "ipa": "/aɪ̯/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Eingang": {
+        "lookup": [
+          "Eingang"
+        ],
+        "ipa": "/ˈaɪ̯nˌɡaŋ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Ausgang": {
+        "lookup": [
+          "Ausgang"
+        ],
+        "ipa": "/ˈaʊ̯sˌɡaŋ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Bahnhof": {
+        "lookup": [
+          "Bahnhof"
+        ],
+        "ipa": "/ˈbaːnˌhoːf/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Flughafen": {
+        "lookup": [
+          "Flughafen"
+        ],
+        "ipa": "/ˈfluːkˌhaːfn̩/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Fahrkarte": {
+        "lookup": [
+          "Fahrkarte"
+        ],
+        "ipa": "/ˈfaːɐ̯ˌkaʁtə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Bahnsteig": {
+        "lookup": [
+          "Bahnsteig"
+        ],
+        "ipa": "/ˈbaːnˌʃtaɪ̯k/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Bus": {
+        "lookup": [
+          "Bus"
+        ],
+        "ipa": "/buːs/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Straßenbahn": {
+        "lookup": [
+          "Straßenbahn"
+        ],
+        "ipa": "/ˈʃtʁaːsn̩ˌbaːn/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die U-Bahn": {
+        "lookup": [
+          "U-Bahn"
+        ],
+        "ipa": "/ˈuːˌbaːn/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "Zutritt verboten": {
+        "lookup": [
+          "Zutritt",
+          "verboten"
+        ],
+        "ipa": "/ˈt͡suːtʁɪt/ · /fɛɐ̯ˈboːtn̩/",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "geöffnet": {
+        "lookup": [
+          "geöffnet"
+        ],
+        "ipa": "/ɡəˈʔœfnət/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "geschlossen": {
+        "lookup": [
+          "geschlossen"
+        ],
+        "ipa": "/ɡəˈʃlɔsn̩/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "die Straße": {
+        "lookup": [
+          "Straße"
+        ],
+        "ipa": "/ˈʃtʁaːsə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Aprikose": {
+        "lookup": [
+          "Aprikose"
+        ],
+        "ipa": "/ˌapʁiˈkoːzə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Spinat": {
+        "lookup": [
+          "Spinat"
+        ],
+        "ipa": "/ʃpiˈnaːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Kohl": {
+        "lookup": [
+          "Kohl"
+        ],
+        "ipa": "/koːl/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Salami": {
+        "lookup": [
+          "Salami"
+        ],
+        "ipa": "/zaˈlaːmi/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Lammfleisch": {
+        "lookup": [
+          "Lammfleisch"
+        ],
+        "ipa": "/ˈlamˌflaɪ̯ʃ/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "der Quark": {
+        "lookup": [
+          "Quark"
+        ],
+        "ipa": "/kvaʁk/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Roggenbrot": {
+        "lookup": [
+          "Roggenbrot"
+        ],
+        "ipa": "/ˈʁɔɡn̩ˌbʁoːt/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "die Pistazie": {
+        "lookup": [
+          "Pistazie"
+        ],
+        "ipa": "/pɪsˈtaːt͡si̯ə/",
+        "segmented": false,
+        "articleOmitted": true
+      },
+      "das Restaurant": {
+        "lookup": [
+          "Restaurant"
+        ],
+        "ipa": "/ʁɛstoˈʁɑ̃ː/",
+        "segmented": false,
+        "articleOmitted": true
+      }
+    },
+    "hu": {
+      "alma": {
+        "lookup": [
+          "alma"
+        ],
+        "ipa": "[ˈɒlmɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "körte": {
+        "lookup": [
+          "körte"
+        ],
+        "ipa": "[ˈkørtɛ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "banán": {
+        "lookup": [
+          "banán"
+        ],
+        "ipa": "[ˈbɒnaːn]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "narancs": {
+        "lookup": [
+          "narancs"
+        ],
+        "ipa": "[ˈnɒrɒnt͡ʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "citrom": {
+        "lookup": [
+          "citrom"
+        ],
+        "ipa": "[ˈt͡sitrom]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "eper": {
+        "lookup": [
+          "eper"
+        ],
+        "ipa": "[ˈɛpɛr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "szőlő": {
+        "lookup": [
+          "szőlő"
+        ],
+        "ipa": "[ˈsøːløː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "görögdinnye": {
+        "lookup": [
+          "görögdinnye"
+        ],
+        "ipa": "[ˈɡørøɡdiɲːɛ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "őszibarack": {
+        "lookup": [
+          "őszibarack"
+        ],
+        "ipa": "[ˈøːsibɒrɒt͡sk]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cseresznye": {
+        "lookup": [
+          "cseresznye"
+        ],
+        "ipa": "[ˈt͡ʃɛrɛsɲɛ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "paradicsom": {
+        "lookup": [
+          "paradicsom"
+        ],
+        "ipa": "[ˈpɒrɒdit͡ʃom]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "burgonya": {
+        "lookup": [
+          "burgonya"
+        ],
+        "ipa": "[ˈburɡoɲɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sárgarépa": {
+        "lookup": [
+          "sárgarépa"
+        ],
+        "ipa": "[ˈʃaːrɡɒreːpɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "hagyma": {
+        "lookup": [
+          "hagyma"
+        ],
+        "ipa": "[ˈhɒɟmɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "fokhagyma": {
+        "lookup": [
+          "fokhagyma"
+        ],
+        "ipa": "[ˈfokhɒɟmɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "uborka": {
+        "lookup": [
+          "uborka"
+        ],
+        "ipa": "[ˈuborkɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "paprika": {
+        "lookup": [
+          "paprika"
+        ],
+        "ipa": "[ˈpɒprikɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "gomba": {
+        "lookup": [
+          "gomba"
+        ],
+        "ipa": "[ˈɡombɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "fejes saláta": {
+        "lookup": [
+          "fejes saláta"
+        ],
+        "ipa": "[ˈfɛjɛʃːɒlaːtɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "marhahús": {
+        "lookup": [
+          "marhahús"
+        ],
+        "ipa": "[ˈmɒrɦɒhuːʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "csirkehús": {
+        "lookup": [
+          "csirkehús"
+        ],
+        "ipa": "[ˈt͡ʃirkɛɦuːʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "hal": {
+        "lookup": [
+          "hal"
+        ],
+        "ipa": "[ˈhɒl]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kolbász": {
+        "lookup": [
+          "kolbász"
+        ],
+        "ipa": "[ˈkolbaːs]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "virsli": {
+        "lookup": [
+          "virsli"
+        ],
+        "ipa": "[ˈvirʃli]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sonka": {
+        "lookup": [
+          "sonka"
+        ],
+        "ipa": "[ˈʃoŋkɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "szalonna": {
+        "lookup": [
+          "szalonna"
+        ],
+        "ipa": "[ˈsɒlonːɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sült kolbász": {
+        "lookup": [
+          "sült",
+          "kolbász"
+        ],
+        "ipa": "[ˈʃylt] · [ˈkolbaːs]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "tej": {
+        "lookup": [
+          "tej"
+        ],
+        "ipa": "[ˈtɛj]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sajt": {
+        "lookup": [
+          "sajt"
+        ],
+        "ipa": "[ˈʃɒjt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "vaj": {
+        "lookup": [
+          "vaj"
+        ],
+        "ipa": "[ˈvɒj]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "joghurt": {
+        "lookup": [
+          "joghurt"
+        ],
+        "ipa": "[ˈjokhurt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "tejszín": {
+        "lookup": [
+          "tejszín"
+        ],
+        "ipa": "[ˈtɛjsiːn]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "tejföl": {
+        "lookup": [
+          "tejföl"
+        ],
+        "ipa": "[ˈtɛjføl]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "laktózmentes": {
+        "lookup": [
+          "laktózmentes"
+        ],
+        "ipa": "[ˈlɒktoːzmɛntɛʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kenyér": {
+        "lookup": [
+          "kenyér"
+        ],
+        "ipa": "[ˈkɛɲeːr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "zsemle": {
+        "lookup": [
+          "zsemle"
+        ],
+        "ipa": "[ˈʒɛmlɛ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "perec": {
+        "lookup": [
+          "perec"
+        ],
+        "ipa": "[ˈpɛrɛt͡s]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "teljes kiőrlésű kenyér": {
+        "lookup": [
+          "teljes",
+          "kiőrlésű",
+          "kenyér"
+        ],
+        "ipa": "[ˈtɛjːɛʃ] · [ˈkijøːrleːʃyː] · [ˈkɛɲeːr]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "liszt": {
+        "lookup": [
+          "liszt"
+        ],
+        "ipa": "[ˈlist]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pékség": {
+        "lookup": [
+          "pékség"
+        ],
+        "ipa": "[ˈpeːkʃeːɡ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "fagylalt": {
+        "lookup": [
+          "fagylalt"
+        ],
+        "ipa": "[ˈfɒɟlɒlt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "egy gombóc": {
+        "lookup": [
+          "egy",
+          "gombóc"
+        ],
+        "ipa": "[ˈɛɟː] · [ˈɡomboːt͡s]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "vanília": {
+        "lookup": [
+          "vanília"
+        ],
+        "ipa": "[ˈvɒniːlijɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "csokoládé": {
+        "lookup": [
+          "csokoládé"
+        ],
+        "ipa": "[ˈt͡ʃokolaːdeː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "torta": {
+        "lookup": [
+          "torta"
+        ],
+        "ipa": "[ˈtortɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "almás rétes": {
+        "lookup": [
+          "almás",
+          "rétes"
+        ],
+        "ipa": "[ˈɒlmaːʃ] · [ˈreːtɛʃ]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "cukor": {
+        "lookup": [
+          "cukor"
+        ],
+        "ipa": "[ˈt͡sukor]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cukrászda": {
+        "lookup": [
+          "cukrászda"
+        ],
+        "ipa": "[ˈt͡sukraːzdɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kávé": {
+        "lookup": [
+          "kávé"
+        ],
+        "ipa": "[ˈkaːveː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "szupermarket": {
+        "lookup": [
+          "szupermarket"
+        ],
+        "ipa": "[ˈsupɛrmɒrkɛt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pénztár": {
+        "lookup": [
+          "pénztár"
+        ],
+        "ipa": "[ˈpeːnstaːr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ár": {
+        "lookup": [
+          "ár"
+        ],
+        "ipa": "[ˈaːr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "akció": {
+        "lookup": [
+          "akció"
+        ],
+        "ipa": "[ˈɒkt͡sijoː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "zacskó": {
+        "lookup": [
+          "zacskó"
+        ],
+        "ipa": "[ˈzɒt͡ʃkoː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "készpénz": {
+        "lookup": [
+          "készpénz"
+        ],
+        "ipa": "[ˈkeːspeːnz]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bankkártya": {
+        "lookup": [
+          "bankkártya"
+        ],
+        "ipa": "[ˈbɒŋkaːrcɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "víz": {
+        "lookup": [
+          "víz"
+        ],
+        "ipa": "[ˈviːz]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "szénsavas víz": {
+        "lookup": [
+          "szénsavas",
+          "víz"
+        ],
+        "ipa": "[ˈseːnʃɒvɒʃ] · [ˈviːz]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "szénsavmentes víz": {
+        "lookup": [
+          "szénsavmentes",
+          "víz"
+        ],
+        "ipa": "[ˈseːnʃɒvmɛntɛʃ] · [ˈviːz]",
+        "segmented": true,
+        "articleOmitted": false
+      },
+      "tojás": {
+        "lookup": [
+          "tojás"
+        ],
+        "ipa": "[ˈtojaːʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bejárat": {
+        "lookup": [
+          "bejárat"
+        ],
+        "ipa": "[ˈbɛjaːrɒt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kijárat": {
+        "lookup": [
+          "kijárat"
+        ],
+        "ipa": "[ˈkijaːrɒt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "vasútállomás": {
+        "lookup": [
+          "vasútállomás"
+        ],
+        "ipa": "[ˈvɒʃuːtaːlːomaːʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "repülőtér": {
+        "lookup": [
+          "repülőtér"
+        ],
+        "ipa": "[ˈrɛpyløːteːr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "jegy": {
+        "lookup": [
+          "jegy"
+        ],
+        "ipa": "[ˈjɛɟ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "peron": {
+        "lookup": [
+          "peron"
+        ],
+        "ipa": "[ˈpɛron]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "busz": {
+        "lookup": [
+          "busz"
+        ],
+        "ipa": "[ˈbus]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "villamos": {
+        "lookup": [
+          "villamos"
+        ],
+        "ipa": "[ˈvilːɒmoʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "metró": {
+        "lookup": [
+          "metró"
+        ],
+        "ipa": "[ˈmɛtroː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "mosdó": {
+        "lookup": [
+          "mosdó"
+        ],
+        "ipa": "[ˈmoʒdoː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "belépni tilos": {
+        "lookup": [
+          "belépni tilos"
+        ],
+        "ipa": "[ˈbɛleːpnitiloʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "nyitva": {
+        "lookup": [
+          "nyitva"
+        ],
+        "ipa": "[ˈɲitvɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "zárva": {
+        "lookup": [
+          "zárva"
+        ],
+        "ipa": "[ˈzaːrvɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "utca": {
+        "lookup": [
+          "utca"
+        ],
+        "ipa": "[ˈut͡sːɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sárgabarack": {
+        "lookup": [
+          "sárgabarack"
+        ],
+        "ipa": "[ˈʃaːrɡɒbɒrɒt͡sk]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "spenót": {
+        "lookup": [
+          "spenót"
+        ],
+        "ipa": "[ˈʃpɛnoːt]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "káposzta": {
+        "lookup": [
+          "káposzta"
+        ],
+        "ipa": "[ˈkaːpostɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "szalámi": {
+        "lookup": [
+          "szalámi"
+        ],
+        "ipa": "[ˈsɒlaːmi]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "bárányhús": {
+        "lookup": [
+          "bárányhús"
+        ],
+        "ipa": "[ˈbaːraːɲɦuːʃ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "túró": {
+        "lookup": [
+          "túró"
+        ],
+        "ipa": "[ˈtuːroː]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "rozskenyér": {
+        "lookup": [
+          "rozskenyér"
+        ],
+        "ipa": "[ˈroʃkɛɲeːr]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pisztácia": {
+        "lookup": [
+          "pisztácia"
+        ],
+        "ipa": "[ˈpistaːt͡sijɒ]",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "étterem": {
+        "lookup": [
+          "étterem"
+        ],
+        "ipa": "[ˈeːtːɛrɛm]",
+        "segmented": false,
+        "articleOmitted": false
+      }
+    },
+    "sr": {
+      "jabuka": {
+        "lookup": [
+          "jabuka"
+        ],
+        "ipa": "/jâbuka/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kruška": {
+        "lookup": [
+          "kruška"
+        ],
+        "ipa": "/krûʃka/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "banana": {
+        "lookup": [
+          "banana"
+        ],
+        "ipa": "/banǎːna/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pomorandža": {
+        "lookup": [
+          "pomorandža"
+        ],
+        "ipa": "/pomǒraːnd͡ʒa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "limun": {
+        "lookup": [
+          "limun"
+        ],
+        "ipa": "/lîmuːn/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "jagoda": {
+        "lookup": [
+          "jagoda"
+        ],
+        "ipa": "/jâɡoda/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "grožđe": {
+        "lookup": [
+          "grožđe"
+        ],
+        "ipa": "/ɡrôːʒd͡ʑe/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "lubenica": {
+        "lookup": [
+          "lubenica"
+        ],
+        "ipa": "/luběnit͡sa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "breskva": {
+        "lookup": [
+          "breskva"
+        ],
+        "ipa": "/brêskʋa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "trešnja": {
+        "lookup": [
+          "trešnja"
+        ],
+        "ipa": "/trêʃɲa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "paradajz": {
+        "lookup": [
+          "paradajz"
+        ],
+        "ipa": "/parǎdajz/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "krompir": {
+        "lookup": [
+          "krompir"
+        ],
+        "ipa": "/krǒmpiːr/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "šargarepa": {
+        "lookup": [
+          "šargarepa"
+        ],
+        "ipa": "/ʃarɡarěːpa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "krastavac": {
+        "lookup": [
+          "krastavac"
+        ],
+        "ipa": "/krâstaʋat͡s/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pečurka": {
+        "lookup": [
+          "pečurka"
+        ],
+        "ipa": "/pět͡ʃuːrka/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "govedina": {
+        "lookup": [
+          "govedina"
+        ],
+        "ipa": "/ɡǒʋedina/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "svinjetina": {
+        "lookup": [
+          "svinjetina"
+        ],
+        "ipa": "/sʋǐɲetina/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "piletina": {
+        "lookup": [
+          "piletina"
+        ],
+        "ipa": "/pǐletina/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "riba": {
+        "lookup": [
+          "riba"
+        ],
+        "ipa": "/rîba/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kobasica": {
+        "lookup": [
+          "kobasica"
+        ],
+        "ipa": "/kobǎsit͡sa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "viršla": {
+        "lookup": [
+          "viršla"
+        ],
+        "ipa": "/ʋǐrʃla/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "slanina": {
+        "lookup": [
+          "slanina"
+        ],
+        "ipa": "/slǎnina/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "mleko": {
+        "lookup": [
+          "mleko"
+        ],
+        "ipa": "/mlěːko/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sir": {
+        "lookup": [
+          "sir"
+        ],
+        "ipa": "/sîr/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "hleb": {
+        "lookup": [
+          "hleb"
+        ],
+        "ipa": "/xlêb/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kroasan": {
+        "lookup": [
+          "kroasan"
+        ],
+        "ipa": "/kroǎsaːn/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "brašno": {
+        "lookup": [
+          "brašno"
+        ],
+        "ipa": "/brâʃno/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pekara": {
+        "lookup": [
+          "pekara"
+        ],
+        "ipa": "/pěkara/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "sladoled": {
+        "lookup": [
+          "sladoled"
+        ],
+        "ipa": "/slâdoleːd/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "čokolada": {
+        "lookup": [
+          "čokolada"
+        ],
+        "ipa": "/t͡ʃokolǎːda/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "torta": {
+        "lookup": [
+          "torta"
+        ],
+        "ipa": "/tôːrta/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "šećer": {
+        "lookup": [
+          "šećer"
+        ],
+        "ipa": "/ʃět͡ɕer/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kafa": {
+        "lookup": [
+          "kafa"
+        ],
+        "ipa": "/kǎfa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kasa": {
+        "lookup": [
+          "kasa"
+        ],
+        "ipa": "/kǎsa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "cena": {
+        "lookup": [
+          "cena"
+        ],
+        "ipa": "/t͡sěːna/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "akcija": {
+        "lookup": [
+          "akcija"
+        ],
+        "ipa": "/ǎkt͡sija/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kesa": {
+        "lookup": [
+          "kesa"
+        ],
+        "ipa": "/kêsa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "gotovina": {
+        "lookup": [
+          "gotovina"
+        ],
+        "ipa": "/ɡotoʋǐna/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "voda": {
+        "lookup": [
+          "voda"
+        ],
+        "ipa": "/ʋǒda/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "jaje": {
+        "lookup": [
+          "jaje"
+        ],
+        "ipa": "/jǎːje/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ulaz": {
+        "lookup": [
+          "ulaz"
+        ],
+        "ipa": "/ǔlaz/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "izlaz": {
+        "lookup": [
+          "izlaz"
+        ],
+        "ipa": "/îzlaːz/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "aerodrom": {
+        "lookup": [
+          "aerodrom"
+        ],
+        "ipa": "/aerǒdrom/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "karta": {
+        "lookup": [
+          "karta"
+        ],
+        "ipa": "/kâːrta/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "autobus": {
+        "lookup": [
+          "autobus"
+        ],
+        "ipa": "/autǒːbus/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "tramvaj": {
+        "lookup": [
+          "tramvaj"
+        ],
+        "ipa": "/trâmʋaːj/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "toalet": {
+        "lookup": [
+          "toalet"
+        ],
+        "ipa": "/toǎlet/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "otvoreno": {
+        "lookup": [
+          "otvoreno"
+        ],
+        "ipa": "/ǒtʋoreno/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "ulica": {
+        "lookup": [
+          "ulica"
+        ],
+        "ipa": "/ûlit͡sa/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kajsija": {
+        "lookup": [
+          "kajsija"
+        ],
+        "ipa": "/kǎjsija/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "spanać": {
+        "lookup": [
+          "spanać"
+        ],
+        "ipa": "/spănaːt͡ɕ/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "kupus": {
+        "lookup": [
+          "kupus"
+        ],
+        "ipa": "/kǔpus/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "salama": {
+        "lookup": [
+          "salama"
+        ],
+        "ipa": "/salǎːma/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "jagnjetina": {
+        "lookup": [
+          "jagnjetina"
+        ],
+        "ipa": "/jǎɡɲetina/",
+        "segmented": false,
+        "articleOmitted": false
+      },
+      "pistać": {
+        "lookup": [
+          "pistać"
+        ],
+        "ipa": "/pǐstaːt͡ɕ/",
+        "segmented": false,
+        "articleOmitted": false
+      }
+    }
+  },
+  "licenses": {
+    "en": {
+      "license": "GPL-3.0",
+      "attribution": "open-dict-data/ipa-dict contributors; leoboiko/ipacards",
+      "source": "https://github.com/open-dict-data/ipa-dict/blob/master/data/en_UK.txt"
+    },
+    "de": {
+      "license": "CC BY-SA 4.0",
+      "attribution": "Wiktionary contributors; devio-at/german-ipa-dict; open-dict-data/ipa-dict",
+      "source": "https://github.com/open-dict-data/ipa-dict/blob/master/data/de.txt"
+    },
+    "hu": {
+      "license": "CC BY-SA 4.0",
+      "attribution": "English Wiktionary contributors; Kaikki / Tatu Ylonen / wiktextract",
+      "source": "https://kaikki.org/dictionary/Hungarian/index.html"
+    },
+    "sr": {
+      "license": "CC BY-SA 4.0",
+      "attribution": "English Wiktionary contributors; Kaikki / Tatu Ylonen / wiktextract",
+      "source": "https://kaikki.org/dictionary/Serbo-Croatian/index.html"
+    }
+  }
+}

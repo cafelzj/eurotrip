@@ -10,7 +10,7 @@
  H.finalize();
  function setMode(mode){
   const travel=mode!=='words';guide.hidden=!travel;document.querySelector('#vocabulary').hidden=travel;
-  for(const [id,selected]of [['travelMode',mode==='europe'],['wordsMode',mode==='words'],['chinaMode',mode==='china'],['produceMode',mode==='produce'],['planMode',mode==='plan']]){const button=document.getElementById(id);button.classList.toggle('selected',selected);button.setAttribute('aria-pressed',selected);}
+  for(const [id,selected]of [['travelMode',mode==='europe'],['wordsMode',mode==='words'],['chinaMode',mode==='china'],['flavorsMode',mode==='flavors'],['produceMode',mode==='produce'],['planMode',mode==='plan']]){const button=document.getElementById(id);button.classList.toggle('selected',selected);button.setAttribute('aria-pressed',selected);}
  }
  function navigate(hash){if(location.hash===hash)route();else location.hash=hash;}
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
@@ -54,9 +54,10 @@
   requestAnimationFrame(()=>map?.invalidateSize());
  }
  function renderRoute(){
-  H.dispose();disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
+  H.dispose();FlavorPage.dispose();disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
   if(parts[0]==='words'){setMode('words');guide.replaceChildren();return;}
   if(parts[0]==='plan'){setMode('plan');guide.innerHTML=PlanPage.render(params);PlanPage.bind(guide,params);return;}
+  if(parts[0]==='flavors'){setMode('flavors');guide.innerHTML=FlavorPage.render(parts[1],params);FlavorPage.bind(guide);return;}
   if(parts[0]==='produce'){
    const country=parts[1]==='budapest'?'hu':produceCountries[parts[1]]?parts[1]:ProducePage.lastCountry();
    if(parts[1]!==country||parts.length!==2){navigate('#produce/'+country+(query?'?'+query:''));return;}
@@ -113,6 +114,7 @@
  function route(){closeMenus();renderRoute();syncMenus();window.FloatingMap?.sync();}
  for(const event of ['click','focusin'])document.addEventListener(event,e=>{if(!e.target.closest('.country-mode-control'))closeMenus();});
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
+ document.querySelector('#flavorsMode').onclick=()=>navigate('#flavors');
  document.querySelector('#produceMode').onclick=()=>navigate('#produce/'+ProducePage.lastCountry());
  document.querySelector('#planMode').onclick=()=>navigate('#plan');
  window.addEventListener('hashchange',()=>{

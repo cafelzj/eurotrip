@@ -1,0 +1,508 @@
+{
+  "reviewed": "2026-11-14",
+  "sources": [
+    {
+      "id": "wiki-北京菜",
+      "url": "https://zh.wikipedia.org/wiki/%E4%BA%AC%E8%8F%9C",
+      "title": "京菜",
+      "read": true,
+      "evidenceSha256": "1bc2c8fdac2a3ecc84125d185299051a9ff27f252c27d70e31091b53e0fc9377"
+    },
+    {
+      "id": "wiki-鲁菜",
+      "url": "https://zh.wikipedia.org/wiki/%E9%B2%81%E8%8F%9C",
+      "title": "鲁菜",
+      "read": true,
+      "evidenceSha256": "e16dc053cb398dbe5919c9478cabbc72e853a22efd414f60d1a59a42335c6892"
+    },
+    {
+      "id": "wiki-徽菜",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BE%BD%E8%8F%9C",
+      "title": "徽菜",
+      "read": true,
+      "evidenceSha256": "42ade4498f9974335c26ce9e2dae2fe01ae4fe0d26a0df8d5b13d9aad3a4f5ac"
+    },
+    {
+      "id": "wiki-苏菜",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%8F%9C",
+      "title": "苏菜",
+      "read": true,
+      "evidenceSha256": "05b4861e71daf4b10bc29dea62929ce86ff4665d4d99c0f105137c349f873c50"
+    },
+    {
+      "id": "wiki-浙菜",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B5%99%E8%8F%9C",
+      "title": "浙菜",
+      "read": true,
+      "evidenceSha256": "73701c2fb06085b389b61543a717ff495e9a265e9a410c55d575e05e41b78eb5"
+    },
+    {
+      "id": "wiki-上海菜",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E8%8F%9C",
+      "title": "上海菜",
+      "read": true,
+      "evidenceSha256": "51a56c4eb9f7f4749eeaec6a346646d8772f07779fd94d1d728ee69005315737"
+    },
+    {
+      "id": "wiki-三元食品",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%83%E9%A3%9F%E5%93%81",
+      "title": "三元食品",
+      "read": true,
+      "evidenceSha256": "40995b2dc59df09626545499c66ce20b5ae6d9c931c0022b867862401ebe4553"
+    },
+    {
+      "id": "wiki-光明乳业",
+      "url": "https://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A",
+      "title": "光明乳业",
+      "read": true,
+      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266"
+    },
+    {
+      "id": "wuyutai",
+      "url": "https://www.wuyutai.com/",
+      "title": "吴裕泰 · 企业与茶类",
+      "read": true,
+      "evidenceSha256": "936114bdc1ad8b1b2b8322d3b5b80c22a34ea076c79a6f26a142bdc82fb45bab"
+    },
+    {
+      "id": "hongxing",
+      "url": "https://www.redstarwine.com/",
+      "title": "红星二锅头 · 品牌与产品",
+      "read": true,
+      "evidenceSha256": "8364937d411b1928aa348c9d7591a26828ac11e9dae1640aa73489f7bb9d8c8e"
+    },
+    {
+      "id": "laoshan",
+      "url": "https://www.laoshan.com.cn/",
+      "title": "崂山矿泉 · 饮料系列",
+      "read": true,
+      "evidenceSha256": "740c0befa1f5657085f6eeaebf567cddfe3baaa0a46698e252f8ad9101c5a474"
+    },
+    {
+      "id": "yanghe",
+      "url": "https://www.chinayanghe.com/",
+      "title": "洋河股份 · 洋河与双沟",
+      "read": true,
+      "evidenceSha256": "a3a7374fee2c07efa322a6cbf303d7fd689dc7183c4c45028e205bd0db740774"
+    },
+    {
+      "id": "yingjia",
+      "url": "https://www.yingjia.cn/",
+      "title": "迎驾贡酒 · 生态酿造",
+      "read": true,
+      "evidenceSha256": "748c4c5bbe6b2c1967326ca34299fc5542b9398320c12ce32a590f0f25c2f643"
+    },
+    {
+      "id": "fenjiu",
+      "url": "https://www.fenjiu.com.cn/",
+      "title": "汾酒集团 · 汾酒与竹叶青",
+      "read": true,
+      "evidenceSha256": "d7311edef4ae424744bb768a8dcee1d7d5c276c8891b83ecc5d54a28d7169984"
+    },
+    {
+      "id": "shuita",
+      "url": "https://www.shuita.com/",
+      "title": "水塔醋业 · 酿造工艺",
+      "read": true,
+      "evidenceSha256": "bf19f367e670a9299f7c063357f8a7cb4e796823818028352eba3cda3dc1acba"
+    },
+    {
+      "id": "vv",
+      "url": "https://www.vvfood.cn/",
+      "title": "维维股份 · 豆奶与产品家族",
+      "read": true,
+      "evidenceSha256": "d31a41eb7c89b3876268276727e7440f387250f826607e635fa217d65d9af7f4"
+    },
+    {
+      "id": "bby",
+      "url": "https://s.visitbeijing.com.cn/gallery/16057",
+      "title": "北京旅游网 · 老字号北冰洋",
+      "read": true,
+      "evidenceSha256": "7db7bfc98d1731638e40d53d51d1b56f1bdc7f592221aa4d889378b3157f47ff"
+    },
+    {
+      "id": "bj-cheese",
+      "url": "https://s.visitbeijing.com.cn/food/106",
+      "title": "北京旅游网 · 老北京奶酪",
+      "read": true,
+      "evidenceSha256": "6829c3aa02bfd84003d4c9643732fcef09b406f65a160a610b485c192f0428c3"
+    },
+    {
+      "id": "liubiju",
+      "url": "https://s.visitbeijing.com.cn/food/223",
+      "title": "北京旅游网 · 六必居酱菜",
+      "read": true,
+      "evidenceSha256": "d6af530f118bec7be22c92d2d71604f7d402ae9d4c9c801c6a66959ea54ad2c1"
+    },
+    {
+      "id": "baike-三元梅园",
+      "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%B8%89%E5%85%83%E6%A2%85%E5%9B%AD%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/20037998?fromtitle=%E4%B8%89%E5%85%83%E6%A2%85%E5%9B%AD&fromid=6813247",
+      "title": "北京三元梅园食品有限公司",
+      "read": true,
+      "evidenceSha256": "516809d55b332a7550b7c953cb4632c830444b499906a3253be38c39838fc693"
+    },
+    {
+      "id": "baike-张一元",
+      "url": "https://baike.baidu.com/item/%E5%BC%A0%E4%B8%80%E5%85%83",
+      "title": "张一元",
+      "read": true,
+      "evidenceSha256": "b22bf33780c9dbe2708fbb9cb8e12df6541e7ee4a96667d0f9daf2e0bd8eba89"
+    },
+    {
+      "id": "baike-得益乳业",
+      "url": "https://baike.baidu.com/item/%E5%BE%97%E7%9B%8A%E4%B9%B3%E4%B8%9A",
+      "title": "得益乳业",
+      "read": true,
+      "evidenceSha256": "d1e8ced5082ed45e921e6712e3d887719e8d6a8cff46a84d90cb2a69544d231b"
+    },
+    {
+      "id": "baike-佳宝乳业",
+      "url": "https://baike.baidu.com/item/%E6%B5%8E%E5%8D%97%E4%BD%B3%E5%AE%9D%E4%B9%B3%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/2776530?fromtitle=%E4%BD%B3%E5%AE%9D%E4%B9%B3%E4%B8%9A&fromid=5360195",
+      "title": "济南佳宝乳业有限公司",
+      "read": true,
+      "evidenceSha256": "a4785b6695c2820b20e86ae56704e4ef6902cdbe75d8338fface8af993e69a03"
+    },
+    {
+      "id": "baike-日照绿茶",
+      "url": "https://baike.baidu.com/item/%E6%97%A5%E7%85%A7%E7%BB%BF%E8%8C%B6",
+      "title": "日照绿茶",
+      "read": true,
+      "evidenceSha256": "d5700821524f07cd392bf2542b27e1eae4fd2609b67795a265ae7cba1f004b1c"
+    },
+    {
+      "id": "baike-崂山绿茶",
+      "url": "https://baike.baidu.com/item/%E5%B4%82%E5%B1%B1%E7%BB%BF%E8%8C%B6",
+      "title": "崂山绿茶",
+      "read": true,
+      "evidenceSha256": "d8984a04f33bf4d1b47f4bc10e79465d38b3822ca2ed7474720ee4a1cf844d16"
+    },
+    {
+      "id": "baike-益益乳业",
+      "url": "https://baike.baidu.com/item/%E5%AE%89%E5%BE%BD%E7%9B%8A%E7%9B%8A%E4%B9%B3%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/8848940?fromtitle=%E7%9B%8A%E7%9B%8A%E4%B9%B3%E4%B8%9A&fromid=236817",
+      "title": "安徽益益乳业有限公司",
+      "read": true,
+      "evidenceSha256": "3ce7e9c104cd88b191cf39c3aad786a4049bb4cafaed99918f075022f506b732"
+    },
+    {
+      "id": "baike-黄山毛峰",
+      "url": "https://baike.baidu.com/item/%E9%BB%84%E5%B1%B1%E6%AF%9B%E5%B3%B0/3761",
+      "title": "黄山毛峰",
+      "read": true,
+      "evidenceSha256": "44331baf57859b9ee93c9252de94be12b40c76b19ad052f9928a482b9e11c9ff"
+    },
+    {
+      "id": "baike-太平猴魁",
+      "url": "https://baike.baidu.com/item/%E5%A4%AA%E5%B9%B3%E7%8C%B4%E9%AD%81/2705",
+      "title": "太平猴魁",
+      "read": true,
+      "evidenceSha256": "96b6ae501cc0bd6b54bf1b098a2c2b1fdc3d72597b5f1c421ad2171f6b7ef62d"
+    },
+    {
+      "id": "baike-六安瓜片",
+      "url": "https://baike.baidu.com/item/%E5%85%AD%E5%AE%89%E7%93%9C%E7%89%87/645421",
+      "title": "六安瓜片",
+      "read": true,
+      "evidenceSha256": "bc49607d3926d96ac76f5617ce33e8b5af53e4cab3cc820bb66d8d5eb5c2edcb"
+    },
+    {
+      "id": "baike-祁门红茶",
+      "url": "https://baike.baidu.com/item/%E7%A5%81%E9%97%A8%E7%BA%A2%E8%8C%B6/411266",
+      "title": "祁门红茶",
+      "read": true,
+      "evidenceSha256": "af0b6b691d3164f7baae1b42752b9236d3ba79d882197bfaf53beff6e60825e3"
+    },
+    {
+      "id": "baike-碧螺春",
+      "url": "https://baike.baidu.com/item/%E7%A2%A7%E8%9E%BA%E6%98%A5/2682",
+      "title": "碧螺春",
+      "read": true,
+      "evidenceSha256": "f005b13948c16b3161b1de3fb560aba54bd679e8b7da1db2fd24c872614e3dfd"
+    },
+    {
+      "id": "baike-雨花茶",
+      "url": "https://baike.baidu.com/item/%E9%9B%A8%E8%8A%B1%E8%8C%B6",
+      "title": "雨花茶",
+      "read": true,
+      "evidenceSha256": "bbb343c51c7d3f8c92e0cf84d3c83faec9677db1edc64e2e06f74c9781e54719"
+    },
+    {
+      "id": "baike-龙井茶",
+      "url": "https://baike.baidu.com/item/%E9%BE%99%E4%BA%95%E8%8C%B6/794",
+      "title": "龙井茶",
+      "read": true,
+      "evidenceSha256": "dcb894614fd7fe6502231f5897ef8252f0a3e584bd0ee13a3ee8bac96c613314"
+    },
+    {
+      "id": "baike-安吉白茶",
+      "url": "https://baike.baidu.com/item/%E5%AE%89%E5%90%89%E7%99%BD%E8%8C%B6",
+      "title": "安吉白茶",
+      "read": true,
+      "evidenceSha256": "39e1b94f3b77abf90fd4687a0553e1d878037e75ffb0ff9d4e613d37f8f16d7e"
+    },
+    {
+      "id": "baike-九曲红梅",
+      "url": "https://baike.baidu.com/item/%E4%B9%9D%E6%9B%B2%E7%BA%A2%E6%A2%85",
+      "title": "九曲红梅",
+      "read": true,
+      "evidenceSha256": "97acb9b25fe317d29607bc012fc86515b018f4b9428ca96ae1c830a9f53fcacc"
+    },
+    {
+      "id": "baike-光明乳业",
+      "url": "https://baike.baidu.com/item/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/11005699?fromtitle=%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A&fromid=1646840",
+      "title": "光明乳业股份有限公司",
+      "read": true,
+      "evidenceSha256": "c83b864bea6a5387a60014ed822ae4b44f9d7ed2586ce0ae847ee8f039658e79"
+    },
+    {
+      "id": "baike-大寨核桃露",
+      "url": "https://baike.baidu.com/item/%E5%A4%A7%E5%AF%A8%E7%89%8C%E6%A0%B8%E6%A1%83%E9%9C%B2/16948837?fromtitle=%E5%A4%A7%E5%AF%A8%E6%A0%B8%E6%A1%83%E9%9C%B2&fromid=2437088",
+      "title": "大寨牌核桃露",
+      "read": true,
+      "evidenceSha256": "74b0572e1df26a62b79022797ed46b8a682793be628e175d14c5979c0e5d9bcc"
+    },
+    {
+      "id": "baike-山西药茶",
+      "url": "https://baike.baidu.com/item/%E5%B1%B1%E8%A5%BF%E8%8D%AF%E8%8C%B6",
+      "title": "山西药茶",
+      "read": true,
+      "evidenceSha256": "37a3379e8ed39d0b3dba241469940193c71bb6504e33da293b20c2ce798b02da"
+    },
+    {
+      "id": "company-tsingtao",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh600600",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600600",
+      "title": "青岛啤酒股份有限公司",
+      "read": true,
+      "evidenceSha256": "7f80cc3a43d65f97b0429c71fd7f3e46fb5290de2f7968699ae1aee9411b4c34"
+    },
+    {
+      "id": "company-changyu",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sz000869",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sz000869",
+      "title": "烟台张裕葡萄酿酒股份有限公司",
+      "read": true,
+      "evidenceSha256": "b371be4aa6d17f6c64d8642c869a24c2fce837d2b6ca0bea9b06042b01ef53c0"
+    },
+    {
+      "id": "company-gujing",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sz000596",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sz000596",
+      "title": "安徽古井贡酒股份有限公司",
+      "read": true,
+      "evidenceSha256": "524b658da3222d94284b6e347ddaa12c50ef8b82f73d54b970c9bf34457afc97"
+    },
+    {
+      "id": "company-kouzi",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh603589",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh603589",
+      "title": "安徽口子酒业股份有限公司",
+      "read": true,
+      "evidenceSha256": "f6316b9b48e2ec864c76acc5ee230ebd2881859f16fbb5b1f1c954f2db1e1a05"
+    },
+    {
+      "id": "company-yiming",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh605179",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh605179",
+      "title": "浙江一鸣食品股份有限公司",
+      "read": true,
+      "evidenceSha256": "32028e0112270dc88269c920f0275b7dabdf478b1794eedd49b86d2db5074abf"
+    },
+    {
+      "id": "company-lizy",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh605337",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh605337",
+      "title": "浙江李子园食品股份有限公司",
+      "read": true,
+      "evidenceSha256": "0181a29351c9c32b3ce67c50c49e04a1b4de973db040fc3d775625119dc7e342"
+    },
+    {
+      "id": "company-jinfeng",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh600616",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600616",
+      "title": "上海金枫酒业股份有限公司",
+      "read": true,
+      "evidenceSha256": "61b423f8969ffdb167634d5fe29674b8fc713d9f3afc74dacdaacee9f78b5358"
+    },
+    {
+      "id": "company-hengshun",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh600305",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600305",
+      "title": "江苏恒顺醋业股份有限公司",
+      "read": true,
+      "evidenceSha256": "cf8219d7c09cfb2e5767340d4efaf9953999710134b068888dab0e163c837e83"
+    },
+    {
+      "id": "company-guyue",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh600059",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600059",
+      "title": "浙江古越龙山绍兴酒股份有限公司",
+      "read": true,
+      "evidenceSha256": "45359a335913d822763d584e016b5a72021966e8c4f2b9fac2403b58a12eeead"
+    },
+    {
+      "id": "company-kuaiji",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh601579",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh601579",
+      "title": "会稽山绍兴酒股份有限公司",
+      "read": true,
+      "evidenceSha256": "511f019fffc869806c3fbe4e28dfbbebbe7d7d3249aa11c0a7bb0efe40f8e276"
+    },
+    {
+      "id": "company-maling",
+      "url": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/Index?code=sh600073",
+      "evidenceUrl": "https://emweb.securities.eastmoney.com/PC_HSF10/CompanySurvey/CompanySurveyAjax?code=sh600073",
+      "title": "上海光明肉业集团股份有限公司",
+      "read": true,
+      "evidenceSha256": "855e4b467871c8307a40f514d945acd181db0b0c2baa75cfb2b83ba78eba83ac"
+    },
+    {
+      "id": "tcg-jiangsu",
+      "url": "https://www.travelchinaguide.com/jiangsu-cuisine.htm",
+      "title": "TravelChinaGuide · Jiangsu cuisine",
+      "read": true,
+      "evidenceSha256": "97d8b25a511430e53069944940829aae15f1af35d0d87acfe025f8d6eed593cd"
+    },
+    {
+      "id": "sx-winter",
+      "url": "https://shanxi.chinadaily.com.cn/2026-02/12/c_1160740.htm",
+      "title": "山西英文网 · 冬季地方美食",
+      "read": true,
+      "evidenceSha256": "870de70220d44e948909d917ee6692b3f1dfee966bbb5c0160f683e94d16136c"
+    },
+    {
+      "id": "sx-routes",
+      "url": "https://shanxi.chinadaily.com.cn/2025-09/05/c_1125702.htm",
+      "title": "山西英文网 · 三条一号公路地方美食",
+      "read": true,
+      "evidenceSha256": "bfcd479b3f18a03f784502f85bd35e24c84a14c7a02db5d72239e35707bfb4f6"
+    },
+    {
+      "id": "tcg-anhui",
+      "url": "https://www.travelchinaguide.com/anhui-cuisine.htm",
+      "title": "TravelChinaGuide · anhui cuisine",
+      "read": true,
+      "evidenceSha256": "02c1894031ab67b4724959bf5965f7f540b59fb3caa073ca1e42d7495c5dd487"
+    },
+    {
+      "id": "tcg-shandong",
+      "url": "https://www.travelchinaguide.com/shandong-cuisine.htm",
+      "title": "TravelChinaGuide · shandong cuisine",
+      "read": true,
+      "evidenceSha256": "dcdeba3df0e6619f7eaf864bc3e9c15ae9f7233a1e90dc709f44b31f26345482"
+    },
+    {
+      "id": "shanghai-old-brands",
+      "url": "https://zh.wikipedia.org/wiki/Template:%E4%B8%8A%E6%B5%B7%E7%9A%84%E8%80%81%E5%AD%97%E5%8F%B7",
+      "readVia": "https://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E4%B9%B3%E4%B8%9A",
+      "title": "上海的老字号（展开名录）",
+      "read": true,
+      "evidenceSha256": "d630ab7ee1f8e0809dac56afe6251568e4b76003f58cdeb8e6c9e59ae9368266"
+    }
+  ],
+  "candidatesNotPublished": [
+    {
+      "id": "sd-mutton-soup",
+      "name": "单县羊肉汤",
+      "province": "shandong",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sd-shinho",
+      "name": "欣和酱油",
+      "province": "shandong",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sd-yutang",
+      "name": "玉堂酱菜",
+      "province": "shandong",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "ah-wuwei",
+      "name": "无为板鸭",
+      "province": "anhui",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "ah-xiaoxian-lamb",
+      "name": "萧县羊肉汤",
+      "province": "anhui",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "ah-huyumei",
+      "name": "胡玉美蚕豆酱",
+      "province": "anhui",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "js-danyang",
+      "name": "丹阳黄酒",
+      "province": "jiangsu",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "js-cangshu-lamb",
+      "name": "藏书羊肉",
+      "province": "jiangsu",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "js-sanhesimei",
+      "name": "三和四美酱菜",
+      "province": "jiangsu",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "zj-wahaha",
+      "name": "娃哈哈 AD 钙奶",
+      "province": "zhejiang",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "zj-huyang",
+      "name": "湖羊酱油",
+      "province": "zhejiang",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "zj-xianheng",
+      "name": "咸亨腐乳",
+      "province": "zhejiang",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sh-dingfeng",
+      "name": "鼎丰腐乳",
+      "province": "shanghai",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sh-baoding",
+      "name": "宝鼎天鱼糟卤",
+      "province": "shanghai",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sx-gucheng",
+      "name": "古城牛奶",
+      "province": "shanxi",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    },
+    {
+      "id": "sx-ninghuafu",
+      "name": "宁化府益源庆醋",
+      "province": "shanxi",
+      "reason": "来源正文尚未成功读取或主题不符，未发布"
+    }
+  ],
+  "map": {
+    "source": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "retrieved": "2026-11-14",
+    "provinceFeatures": 34,
+    "boundaryFeatures": 1,
+    "sourceSHA256": "99adfeded5223848bbe37a0a12f8023e11ee12161c7800521c27db42fdeac275",
+    "svgSHA256": "c50ce919f13321e48b4d9d1c5975b5534538a79abc663cc2b430a1adafaa9fcb"
+  }
+}

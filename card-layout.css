@@ -54,7 +54,7 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 @media(max-width:700px){body>.site-header{min-height:0;padding:10px 14px 9px;gap:7px}.site-header .brand{font-size:20px}.site-header .brand-icon{font-size:29px}.site-header .brand small{display:inline;font-size:10px}.site-header .mode-tabs{display:flex;flex-wrap:nowrap;gap:2px;justify-content:space-between}.site-header .mode-tabs .country-mode-control{display:block;flex:0 1 auto;max-width:none;min-width:0}.site-header .mode-tabs>button{flex:0 1 auto;min-width:0}.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{width:auto;padding:8px 5px;font-size:12px;min-height:40px}.site-header .mode-tabs .mode-beta{font-size:9px}.site-header .mode-tabs .country-menu>button{width:100%;font-size:14px;text-align:left}.site-header .mode-tabs .country-menu{max-width:calc(100vw - 30px)}}
 @media(max-width:360px){.site-header .brand small{font-size:9px}.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{font-size:11px;padding:8px 3px}}
 .site-header .mode-tabs{min-width:0}
-@media(max-width:700px){.site-header .mode-tabs{display:grid;grid-template-columns:1.2fr 1.1fr 1.1fr 1fr .65fr;flex:1 1 100%;width:100%;min-width:0;gap:2px}.site-header .mode-tabs>.country-mode-control,.site-header .mode-tabs>button{grid-column:auto;min-width:0;width:auto}.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{width:100%;min-width:0;padding:8px 2px;font-size:12px}.site-header .mode-tabs .country-mode-control>button{overflow:hidden;text-overflow:ellipsis}.site-header .mode-tabs .country-menu>button{overflow:visible;white-space:normal;text-overflow:clip}}
+@media(max-width:700px){.site-header .mode-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));flex:1 1 100%;width:100%;min-width:0;gap:2px}.site-header .mode-tabs>.country-mode-control,.site-header .mode-tabs>button{grid-column:auto;min-width:0;width:auto}.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{width:100%;min-width:0;padding:8px 2px;font-size:12px}.site-header .mode-tabs .country-mode-control>button{overflow:hidden;text-overflow:ellipsis}.site-header .mode-tabs .country-menu>button{overflow:visible;white-space:normal;text-overflow:clip}}
 @media(max-width:360px){.site-header .mode-tabs>button,.site-header .mode-tabs .country-mode-control>button{font-size:11px;padding:8px 1px}.site-header .mode-tabs .mode-beta{font-size:8px;padding:1px}}
 /* Keep the familiar card surfaces; reduce only their radius and spacing. */
 .hub-card[data-card-theme],.card-feed .hub-card[data-card-theme]{border-radius:8px;padding:17px}
@@ -84,12 +84,12 @@ body>.site-header{height:auto;min-height:86px;padding:12px 5.5%;gap:28px;align-i
 @media(max-width:700px){.card-feed .hub-card>p{font-size:15px}.card-feed .hub-card .hub-card-title h4{font-size:17px}}
 
 /* Titles and subtitles on the left; category and destination on the right. */
-.hub-card-header{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px}
-.hub-card-heading{flex:1;min-width:0}
-.hub-card .hub-card-header .hub-card-title h4{margin:0;line-height:1.6;overflow-wrap:anywhere}
+.hub-card-header{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:14px}
+.hub-card-heading{flex:1 1 auto;min-width:0;max-width:100%}
+.hub-card .hub-card-header .hub-card-title h4{margin:0;line-height:1.6;overflow-wrap:anywhere;text-wrap:balance}
 .hub-card-header .hub-local{margin-top:4px}
-.hub-card .hub-card-header .hub-card-meta{display:flex;flex-direction:column;align-items:flex-end;flex:0 1 auto;flex-wrap:nowrap;gap:7px;max-width:42%;min-width:60px;margin:0;text-align:right}
-.hub-card .hub-card-header .hub-card-meta>span{flex:none;max-width:100%;margin:0;text-align:right;line-height:1.5}
+.hub-card .hub-card-header .hub-card-meta{display:flex;flex-direction:column;align-items:flex-end;flex:0 0 auto;flex-wrap:nowrap;gap:7px;max-width:100%;min-width:0;margin:0 0 0 auto;text-align:right}
+.hub-card .hub-card-header .hub-card-meta>span{flex:none;max-width:100%;margin:0;text-align:right;line-height:1.5;white-space:nowrap}
 .hub-card .hub-card-header .hub-card-meta>small{flex:none;min-width:0;max-width:100%;text-align:right;overflow-wrap:anywhere;font-size:12px;line-height:1.6}
 @media(max-width:700px){.hub-card-header{gap:10px;margin-bottom:12px}.hub-card .hub-card-header .hub-card-title h4{font-size:17px}.hub-card .hub-card-header .hub-card-meta{gap:6px}.hub-card .hub-card-header .hub-card-meta>span{font-size:12px;padding:4px 6px}}
 @media(max-width:600px){.card-feed-grid{--feed-columns:1}}
