@@ -14,3 +14,5 @@
 | [working-notes/](working-notes/README.md) | 整理前编辑候选和来源抓取元数据，保存当时状态 |
 
 当前目录见 `data/flavors.js`，当前核对状态见 [sources.json](../../sources.json)；原始网页及完整工具响应的本地保存情况见 [归档说明](../../../archives/README.md)。
+
+所有阶段与当前地图、配图资料统一从 [风物研究总入口](../../README.md) 查找。

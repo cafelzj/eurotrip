@@ -17,7 +17,7 @@
 | [Open Props](https://github.com/argyleink/open-props) | README 的色彩、阴影、尺寸、圆角和 easing 变量组织 | 少量可复用 token 足以建立整体质感，不需要把依赖库带进网站 |
 | [shadcn/ui](https://github.com/shadcn-ui/ui) | README 的可组合、自有组件理念 | 卡片与工具栏的表面保持一致，复杂度来自内容而非额外装饰 |
 | [Liquid Glass React](https://github.com/rdev/liquid-glass-react) | README、卡片与按钮截图；Safari / Firefox 位移效果限制 | 借鉴边缘高光、玻璃厚度和轻阴影。它是第三方演示，不是 Apple 官方实现；不引入 React、折射位移或色散 |
-| [liquidGL](https://github.com/naughtyduk/liquidGL) | README 的 WebGPU → WebGL → CSS 回退、离屏渲染和镜片效果 | 动态折射需要额外渲染管线。本网站已有地图，不额外增加 GPU 画布；当前使用固定纯色反馈，不增加鼠标跟随效果 |
+| [liquidGL](https://github.com/naughtyduk/liquidGL) | README 的 WebGPU → WebGL → CSS 回退、离屏渲染和镜片效果 | 动态折射需要额外渲染管线。本网站已有地图，不额外增加 GPU 画布；导航保持固定颜色；卡片追光使用CSS与事件委托，不采用该库的GPU折射 |
 | [ericwu.me](https://github.com/itsEricWu/ericwu.me) | README 与仓库中的浅色桌面截图 | 借鉴 Bento 模块的层级、留白、浮动导航和浅色背景；不增加卡片拖拽或改变既有分组顺序 |
 | [dashdot](https://github.com/MauriceNino/dashdot) | README 的玻璃风格仪表盘定位；截图链接本次未成功读取 | 作为数据密集产品的辅助参考，不声称已检查其运行页面或图表实机表现 |
 
@@ -38,9 +38,9 @@
 - 浏览器验证覆盖 Chromium 桌面 / 手机尺寸、键盘焦点、导航菜单、词典对话框、地图操作、卡片管理与物产图表，并检查减少动效、减少透明度、强制颜色及无滤镜回退。
 - 兼容性说明来自规范与公开数据；未将 Chromium 的模拟验证表述为 Safari、Firefox 或真机全覆盖测试。透明面板上的实际对比度受下方内容影响，因此使用高不透明度表面，并抽查关键文字的对比度。
 
-## 固定颜色反馈
+## 固定导航与卡片高光（2026-11-15更新）
 
-按用户要求，已移除鼠标跟随高光、相关脚本和渐变伪元素。导航选中状态使用固定纯色，悬停使用固定浅色，键盘保留焦点框。
+此前按要求移除过鼠标跟随高光；2026-11-15再次按用户明确选择，仅恢复卡片高光。`card-highlight.js` 为 `.ui-card` 提供一套事件委托实现，欧洲、中国和风物食单共同使用；导航仍为固定纯色，键盘保留焦点框。触屏、减少动效／透明度、高对比、强制颜色及打印不显示高光。详见 [CSS审计与公共组件](css-audit.md)。
 
 ## 分类浏览与瀑布流
 

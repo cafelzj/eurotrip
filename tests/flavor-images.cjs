@@ -1,0 +1,18 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto'),{chromium}=require('playwright');
+const ctx={window:{}};vm.createContext(ctx);for(const file of ['data/flavors.js','data/flavor-images.js'])vm.runInContext(fs.readFileSync(file,'utf8'),ctx);vm.runInContext(fs.readFileSync('data/card-images.js','utf8')+'\nwindow.sharedPhotos=cardImages;',ctx);
+const catalog=ctx.window.flavorCatalog,photos=ctx.window.flavorImages,assets={...ctx.window.sharedPhotos.assets,...photos.assets},review=JSON.parse(fs.readFileSync('research/flavors/images/review.json','utf8')),coverage=JSON.parse(fs.readFileSync('research/flavors/images/coverage.json','utf8'));
+assert.equal(Object.keys(photos.cards).length,review.illustratedCards);assert.equal(coverage.pendingCards.length+coverage.illustratedCards,catalog.items.length);
+for(const [id,key]of Object.entries(photos.cards)){assert(catalog.items.some(i=>i.id===id));const media=assets[key];assert(media&&media.visualReview.status==='approved');assert(media.source&&media.author&&media.license&&media.licenseUrl);assert(fs.existsSync(media.src));}
+for(const row of review.records.filter(r=>r.status==='adopted'))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(photos.assets[row.assetId].src)).digest('hex'),row.derivativeSha256);
+(async()=>{const b=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});try{
+ const p=await b.newPage({viewport:{width:390,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));const base=process.env.SITE_URL||'http://127.0.0.1:4180';
+ await p.route('**/*',r=>new URL(r.request().url()).hostname==='127.0.0.1'?r.continue():r.abort());
+ for(const [id,key]of Object.entries(photos.cards)){
+  const item=catalog.items.find(i=>i.id===id),media=assets[key];await p.goto(base+'/#flavors/'+item.province+'?q='+encodeURIComponent(item.name));const card=p.locator('[data-flavor-id="'+id+'"]');await card.waitFor();const img=card.locator('.card-image img');await img.scrollIntoViewIfNeeded();await img.evaluate(im=>im.decode());assert.equal(await img.getAttribute('alt'),media.alt);
+  assert.equal(await card.locator('.card-image img').evaluate(im=>im.naturalWidth),media.width);assert((await card.locator('figcaption').innerText()).includes(media.license));assert.equal(await card.locator('figcaption a').last().getAttribute('href'),media.source);
+  const url=p.url();await card.locator('summary').click();assert.equal(p.url(),url);assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+ }
+ await p.goto(base+'/#flavors/beijing?q='+encodeURIComponent('三元鲜牛奶'));await p.waitForSelector('.flavor-card');assert.equal(await p.locator('.flavor-card .card-image').count(),0,'unmatched items do not get fabricated placeholders');
+ const broken=await b.newPage({viewport:{width:320,height:900}});await broken.route('**/assets/photos/flavors/**',r=>r.abort());await broken.goto(base+'/#flavors/beijing?q='+encodeURIComponent('北京烤鸭'));await broken.locator('.card-image').scrollIntoViewIfNeeded();await broken.locator('.card-image-fallback:visible').waitFor();assert(await broken.locator('.flavor-card summary').isVisible());assert(await broken.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await broken.close();
+ assert.deepEqual(errors,[]);console.log('PASS '+Object.keys(photos.cards).length+' real-photo cards, licensing and hashes, local image decoding, inline reading, honest gaps and unavailable-image fallback');
+}finally{await b.close();}})().catch(e=>{console.error(e);process.exit(1)});

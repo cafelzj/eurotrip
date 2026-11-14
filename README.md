@@ -6,7 +6,7 @@
 
 ## 风物食单
 
-`#flavors` 按现有15省市及县镇浏览地方食品与物品；现有4255项，其中4208项有来源记录、47项待核实，已超过4000项。先保存2046条自身知识候选，再对15个省级、174个市级和1484个县级单元执行3346次组合查询，交叉审阅后新增2143项、合并或补来源363次。1500项说明达到300–500字，直接在卡片内展开；2755项仍待扩写，不另建说明页。研究进度见 [风物食单说明](docs/flavors.md)，记忆稿、外搜、交叉审阅及采用记录集中在 [4000项研究底稿](research/flavors/program-4000/README.md)。数量和已检索不表示逐地逐品类穷尽或所有事实均已验证。
+`#flavors` 按现有15省市及县镇浏览地方食品与物品；现有4255项，其中4208项有来源记录、47项待核实，已超过4000项。先保存2046条自身知识候选，再对15个省级、174个市级和1484个县级单元执行3346次组合查询，交叉审阅后新增2143项、合并或补来源363次。1500项说明达到300–500字，直接在卡片内展开；2755项仍待扩写，不另建说明页。支持省、市、县区逐级筛选，167份县区地图按需从本站加载；首批9张卡片有已审阅的真实配图。研究进度见 [风物食单说明](docs/flavors.md)，所有批次、知识稿、外搜、采用、地图及配图资料统一从 [风物研究总入口](research/flavors/README.md) 查找。数量和已检索不表示逐地逐品类穷尽或所有事实均已验证。
 
 ## 本地运行
 
@@ -152,7 +152,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 
 ## 鼠标追光与瀑布流
 
-导航和短卡片支持柔和的鼠标跟随高光，分类卡片沿用原分类色。`spotlight.js` 使用文档级事件委托，移动事件按帧合并，只在当前目标更新两个局部坐标；离开、滚动、页面切换或失焦即清理。效果层位于文字下方并忽略指针事件。触屏、减少动效、减少透明度、高对比与强制颜色偏好禁用追光，地图、表格、图表、表单和长文不参与。详细规则见 [设计记录](docs/design-refresh.md#鼠标跟随高光)。
+欧洲、中国和风物食单的卡片、标题区、搜索框、筛选按钮及下拉框共用 `components.css`。导航维持固定颜色，卡片通过 `card-highlight.js` 恢复鼠标跟随高光；使用事件委托和帧合并，触屏、减少动效／透明度、高对比及强制颜色下停用。照片和文字不施加滤镜。CSS清理范围与保留理由见 [样式审计](docs/css-audit.md)。
 
 欧洲国家和中国城市的卡片集合可在“分类浏览”和“瀑布流”间切换；新用户默认分类浏览，主动切换后记住偏好，`view=groups` / `view=waterfall` 可覆盖偏好。瀑布流共享全部筛选与卡片模板，每批 24 张，接近底部时继续追加；缺少 IntersectionObserver 时使用手动按钮。末尾明确显示已看完，不复制卡片。`shown` 保存已显示数量，`at` 保存最后进入的卡片，详情返回和刷新时恢复附近位置。地图的来源仍是全部匹配卡片，不随浏览批次截断。
 
@@ -245,7 +245,9 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 node tests/data-integrity.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-images.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/design-system.cjs
-SITE_URL=http://127.0.0.1:3014 node tests/spotlight.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/shared-components.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/flavor-counties.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/flavor-images.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-feed.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/plan.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager.cjs

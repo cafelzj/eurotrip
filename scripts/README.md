@@ -10,6 +10,10 @@
 | `refresh-flavor-coverage.py` | 正式风物目录 → 覆盖数量与队列条目引用 | Python标准库；保留检索记录与主题核对状态 |
 | `index-flavor-program-searches.py` | 4000项研究的完整查询响应 → 公开索引与逐地搜索证据 | Python标准库；不把搜索完成写成事实核实完成 |
 | `flavor-program/` | 已保存本地输入 → 单次采用、产品边界复核、交叉审阅索引 | 见 [研究索引](../research/flavors/program-4000/README.md)；单次导入拒绝重复运行，初始知识稿保持不变 |
+| `index-flavor-research.py` | 所有风物底稿 → 统一用途、历史批次及指纹索引 | Python标准库；保留原稿，见 [总入口](../research/flavors/README.md) |
+| `build-flavor-county-maps.py` | 已存行政边界与明确县名 → 县图、归属注册表及来源审阅 | Python标准库；`--fetch-missing` 保存缺失原件，不由地图推断食物归属 |
+| `build-flavor-images.py` | 已审阅照片、元数据与明确采用表 → 本地配图和审阅／待配图队列 | Pillow；不把搜索命中自动作为图片采用 |
+| `audit-css.cjs` | 当前入口与浏览器路由 → CSS候选和匹配报告 | Playwright、Chromium；只读，不自动删除，详见 [CSS审计](../docs/css-audit.md) |
 | `build-flavor-research-queue.py` | 已读取的市级行政边界目录 → 市县检索目录 | Python标准库；保留旧证据；行政边界不作食品归属证明 |
 | `build-flavor-province-maps.py` | 行政边界目录 → 省图及 `data/flavor-map-regions.js` | Python标准库；会更新正式地图文件 |
 | `build-china-province-map.py` | 边界输入 → 中国省图 | Python标准库；先查看 `--help` 确认输入与输出 |

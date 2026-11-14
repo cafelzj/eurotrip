@@ -1,0 +1,2634 @@
+{
+  "date": "2026-11-15",
+  "baselineCommit": "9d588d5",
+  "beforeCssBytes": 183526,
+  "afterCssBytes": 160817,
+  "removedSelectorBranches": 359,
+  "removed": [
+    {
+      "file": "card-layout.css",
+      "selector": ".entity-actions .entity-ai-note",
+      "missingClasses": [
+        "entity-ai-note"
+      ]
+    },
+    {
+      "file": "card-layout.css",
+      "selector": ".destination-gallery>a.destination-city-card",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "card-layout.css",
+      "selector": ".destination-gallery .destination-city-copy",
+      "missingClasses": [
+        "destination-city-copy",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "card-layout.css",
+      "selector": ".destination-picker:has(.destination-gallery)",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "card-layout.css",
+      "selector": ".destination-gallery .destination-city-copy",
+      "missingClasses": [
+        "destination-city-copy",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-reference",
+      "missingClasses": [
+        "entity-reference"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-reference",
+      "missingClasses": [
+        "entity-reference"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-inline-actions",
+      "missingClasses": [
+        "entity-inline-actions"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-context-links",
+      "missingClasses": [
+        "entity-context-links"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-inline-actions",
+      "missingClasses": [
+        "entity-inline-actions"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-context-links",
+      "missingClasses": [
+        "entity-context-links"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory>h1",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory>p",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory button",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory button.active",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory button>span",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory b",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory small",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools>label",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools input",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools>button",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools>span",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-grid",
+      "missingClasses": [
+        "directory-grid"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card:hover",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card>small",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card h3",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card p",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card>span",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-empty",
+      "missingClasses": [
+        "directory-empty"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-breadcrumb",
+      "missingClasses": [
+        "entity-breadcrumb"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations>div",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations small",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations b",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations button",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context h2",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context p",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context>div:last-child",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context button",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .city-facts",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .travel-tips",
+      "missingClasses": [
+        "travel-tips"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .food-guide",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .transit-panel",
+      "missingClasses": [
+        "transit-panel"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .country-tabs",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused:not(.map-layers-expanded) #cityExplorer .explorer-columns",
+      "missingClasses": [
+        "explorer-columns"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused #cityExplorer .explorer-heading",
+      "missingClasses": [
+        "explorer-heading"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .map-context",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .city-map-layout #travelMap",
+      "missingClasses": [
+        "city-map-layout"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .city-hero-icon",
+      "missingClasses": [
+        "city-hero-icon"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-routes",
+      "missingClasses": [
+        "featured-card-routes"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-route",
+      "missingClasses": [
+        "featured-card-route"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-route h3",
+      "missingClasses": [
+        "featured-card-route"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-route>div",
+      "missingClasses": [
+        "featured-card-route"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-route a",
+      "missingClasses": [
+        "featured-card-route"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-route>p",
+      "missingClasses": [
+        "featured-card-route"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-grid",
+      "missingClasses": [
+        "directory-grid"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory button",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory small",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".featured-card-routes",
+      "missingClasses": [
+        "featured-card-routes"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory>h1",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory>p",
+      "missingClasses": [
+        "card-directory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory button",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory b",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-type-inventory small",
+      "missingClasses": [
+        "card-type-inventory"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools>label",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".card-directory-tools>span",
+      "missingClasses": [
+        "card-directory-tools"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-grid",
+      "missingClasses": [
+        "directory-grid"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-card",
+      "missingClasses": [
+        "directory-card"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-breadcrumb",
+      "missingClasses": [
+        "entity-breadcrumb"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context h2",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-context>div:last-child",
+      "missingClasses": [
+        "map-context"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".map-focused .city-map-layout #travelMap",
+      "missingClasses": [
+        "city-map-layout"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-word-translations>div",
+      "missingClasses": [
+        "entity-word-translations"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-inline-actions",
+      "missingClasses": [
+        "entity-inline-actions"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters label",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters select",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filter-note",
+      "missingClasses": [
+        "directory-filter-note"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters button",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters select:focus-visible",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters label",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".directory-filters button",
+      "missingClasses": [
+        "directory-filters"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-ai-note",
+      "missingClasses": [
+        "entity-ai-note"
+      ]
+    },
+    {
+      "file": "cards.css",
+      "selector": ".entity-ai-note",
+      "missingClasses": [
+        "entity-ai-note"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading p",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".entity-breadcrumb",
+      "missingClasses": [
+        "entity-breadcrumb"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities small",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities a > span",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a.active",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities b",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading h2",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a:hover",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading .guide-kicker",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities small",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities a > span",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading h2",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading p",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".hub-heading > a",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": ".destination-cities > a:hover",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "design-system.css",
+      "selector": "[data-pointer-glow]::before",
+      "missingClasses": []
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-cities.destination-gallery",
+      "missingClasses": [
+        "destination-cities",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview>small",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview>b",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview>span",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-city-card",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-city-card.active",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-visual",
+      "missingClasses": [
+        "destination-city-visual"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-visual .landmark-art",
+      "missingClasses": [
+        "destination-city-visual"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-visual .landmark-art-frame",
+      "missingClasses": [
+        "destination-city-visual"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-visual .landmark-art figcaption",
+      "missingClasses": [
+        "destination-city-visual"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-copy",
+      "missingClasses": [
+        "destination-city-copy"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery .destination-city-copy>small",
+      "missingClasses": [
+        "destination-city-copy",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery .destination-city-copy>b",
+      "missingClasses": [
+        "destination-city-copy",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-copy>b>span",
+      "missingClasses": [
+        "destination-city-copy"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-copy>span",
+      "missingClasses": [
+        "destination-city-copy"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-copy>em",
+      "missingClasses": [
+        "destination-city-copy"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-city-card:hover",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-cities.destination-gallery",
+      "missingClasses": [
+        "destination-cities",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-overview>span",
+      "missingClasses": [
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-city-copy",
+      "missingClasses": [
+        "destination-city-copy"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery .destination-city-copy>small",
+      "missingClasses": [
+        "destination-city-copy",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-city-card",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "destination-gallery.css",
+      "selector": ".destination-gallery>a.destination-city-card:hover",
+      "missingClasses": [
+        "destination-city-card",
+        "destination-gallery"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading h1",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading p",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs>button",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs>button.selected",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs>button>span:first-child",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs b",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs small",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tab-arrow",
+      "missingClasses": [
+        "tab-arrow"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-layout",
+      "missingClasses": [
+        "guide-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-layout>div",
+      "missingClasses": [
+        "guide-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-panel-heading",
+      "missingClasses": [
+        "map-panel-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-panel-heading h3",
+      "missingClasses": [
+        "map-panel-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-panel-heading p",
+      "missingClasses": [
+        "map-panel-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-status",
+      "missingClasses": [
+        "map-status"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-marker-wrap",
+      "missingClasses": [
+        "guide-marker-wrap"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-marker",
+      "missingClasses": [
+        "guide-marker"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-marker-wrap .guide-marker",
+      "missingClasses": [
+        "guide-marker",
+        "guide-marker-wrap"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-tooltip",
+      "missingClasses": [
+        "guide-tooltip"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes article",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes article>span",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes h3",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes p",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card",
+      "missingClasses": [
+        "city-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card:hover",
+      "missingClasses": [
+        "city-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card-top",
+      "missingClasses": [
+        "city-card-top"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card-top>b",
+      "missingClasses": [
+        "city-card-top"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".number-label",
+      "missingClasses": [
+        "number-label"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card h3",
+      "missingClasses": [
+        "city-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-card p",
+      "missingClasses": [
+        "city-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".card-bottom",
+      "missingClasses": [
+        "card-bottom"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-footnote",
+      "missingClasses": [
+        "guide-footnote"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-hero-icon",
+      "missingClasses": [
+        "city-hero-icon"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts article",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts article>span",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts h3",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts p",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-panel",
+      "missingClasses": [
+        "transit-panel"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-title",
+      "missingClasses": [
+        "transit-title"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-title>span",
+      "missingClasses": [
+        "transit-title"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-title h3",
+      "missingClasses": [
+        "transit-title"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-title p",
+      "missingClasses": [
+        "transit-title"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-links",
+      "missingClasses": [
+        "transit-links"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-links>div",
+      "missingClasses": [
+        "transit-links"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-links small",
+      "missingClasses": [
+        "transit-links"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-links a",
+      "missingClasses": [
+        "transit-links"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-note",
+      "missingClasses": [
+        "transit-note"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-map-layout #travelMap",
+      "missingClasses": [
+        "city-map-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-card",
+      "missingClasses": [
+        "sight-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-card.focused",
+      "missingClasses": [
+        "sight-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-focus",
+      "missingClasses": [
+        "sight-focus"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-focus>b",
+      "missingClasses": [
+        "sight-focus"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-focus>span:last-child",
+      "missingClasses": [
+        "sight-focus"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-focus small",
+      "missingClasses": [
+        "sight-focus"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-focus b",
+      "missingClasses": [
+        "sight-focus"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-card p",
+      "missingClasses": [
+        "sight-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-help",
+      "missingClasses": [
+        "map-help"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-help>span",
+      "missingClasses": [
+        "map-help"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-help p",
+      "missingClasses": [
+        "map-help"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-layout",
+      "missingClasses": [
+        "guide-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-panel-heading",
+      "missingClasses": [
+        "map-panel-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-status",
+      "missingClasses": [
+        "map-status"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts article",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-hero-icon",
+      "missingClasses": [
+        "city-hero-icon"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading h1",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-heading p",
+      "missingClasses": [
+        "guide-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs>button",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs>button>span:first-child",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs b",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-tabs small",
+      "missingClasses": [
+        "country-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tab-arrow",
+      "missingClasses": [
+        "tab-arrow"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-layout",
+      "missingClasses": [
+        "guide-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-notes article",
+      "missingClasses": [
+        "country-notes"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".guide-footnote",
+      "missingClasses": [
+        "guide-footnote"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-hero-icon",
+      "missingClasses": [
+        "city-hero-icon"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-facts article",
+      "missingClasses": [
+        "city-facts"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-panel",
+      "missingClasses": [
+        "transit-panel"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".transit-links",
+      "missingClasses": [
+        "transit-links"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".city-map-layout #travelMap",
+      "missingClasses": [
+        "city-map-layout"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".map-panel-heading",
+      "missingClasses": [
+        "map-panel-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-card",
+      "missingClasses": [
+        "sight-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide summary",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide summary>span",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide summary small",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide-body",
+      "missingClasses": [
+        "food-guide-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide-body>p",
+      "missingClasses": [
+        "food-guide-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-type-tabs",
+      "missingClasses": [
+        "food-type-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-type-tabs button",
+      "missingClasses": [
+        "food-type-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-type-tabs button.active",
+      "missingClasses": [
+        "food-type-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-grid",
+      "missingClasses": [
+        "food-comparison-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-card",
+      "missingClasses": [
+        "food-comparison-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-card>span",
+      "missingClasses": [
+        "food-comparison-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-card h3",
+      "missingClasses": [
+        "food-comparison-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-card p",
+      "missingClasses": [
+        "food-comparison-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-compare",
+      "missingClasses": [
+        "food-compare"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-compare>b",
+      "missingClasses": [
+        "food-compare"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-card a",
+      "missingClasses": [
+        "food-comparison-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".sight-category",
+      "missingClasses": [
+        "sight-category"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide summary",
+      "missingClasses": [
+        "food-guide"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-guide-body",
+      "missingClasses": [
+        "food-guide-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-comparison-grid",
+      "missingClasses": [
+        "food-comparison-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".food-type-tabs button",
+      "missingClasses": [
+        "food-type-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".travel-tips",
+      "missingClasses": [
+        "travel-tips"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading h2",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading p",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading>span",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-tabs",
+      "missingClasses": [
+        "tips-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-tabs button",
+      "missingClasses": [
+        "tips-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-tabs button.active",
+      "missingClasses": [
+        "tips-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-grid",
+      "missingClasses": [
+        "tips-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card",
+      "missingClasses": [
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card.city-tip",
+      "missingClasses": [
+        "city-tip",
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card summary",
+      "missingClasses": [
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card summary::-webkit-details-marker",
+      "missingClasses": [
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-meta",
+      "missingClasses": [
+        "tip-meta"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card h3",
+      "missingClasses": [
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-expand",
+      "missingClasses": [
+        "tip-expand"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card[open] .tip-expand",
+      "missingClasses": [
+        "tip-card",
+        "tip-expand"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-body",
+      "missingClasses": [
+        "tip-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-body>p",
+      "missingClasses": [
+        "tip-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-action p",
+      "missingClasses": [
+        "tip-action"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-action",
+      "missingClasses": [
+        "tip-action"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-action b",
+      "missingClasses": [
+        "tip-action"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-action p",
+      "missingClasses": [
+        "tip-action"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-body a",
+      "missingClasses": [
+        "tip-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-note",
+      "missingClasses": [
+        "tips-note"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".travel-tips",
+      "missingClasses": [
+        "travel-tips"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-grid",
+      "missingClasses": [
+        "tips-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading h2",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-heading p",
+      "missingClasses": [
+        "tips-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-tabs",
+      "missingClasses": [
+        "tips-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tips-tabs button",
+      "missingClasses": [
+        "tips-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-card summary",
+      "missingClasses": [
+        "tip-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".tip-body",
+      "missingClasses": [
+        "tip-body"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button[aria-selected=true]",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button>span",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs b",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs small",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading h2",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading p",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-grid",
+      "missingClasses": [
+        "knowledge-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card>span",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card h3",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card>p",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-person p",
+      "missingClasses": [
+        "knowledge-person"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-prompt",
+      "missingClasses": [
+        "knowledge-prompt"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-prompt>b",
+      "missingClasses": [
+        "knowledge-prompt"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-prompt p",
+      "missingClasses": [
+        "knowledge-prompt"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-person",
+      "missingClasses": [
+        "knowledge-person"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-person h3",
+      "missingClasses": [
+        "knowledge-person"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-food-grid",
+      "missingClasses": [
+        "country-food-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-food-card",
+      "missingClasses": [
+        "country-food-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-actions",
+      "missingClasses": [
+        "knowledge-actions"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-actions button",
+      "missingClasses": [
+        "knowledge-actions"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-note",
+      "missingClasses": [
+        "zone-note"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".specialty-card a",
+      "missingClasses": [
+        "specialty-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs b",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs small",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-food-grid",
+      "missingClasses": [
+        "country-food-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs button>span",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs b",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-zone-tabs small",
+      "missingClasses": [
+        "country-zone-tabs"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading h2",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".zone-heading p",
+      "missingClasses": [
+        "zone-heading"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-grid",
+      "missingClasses": [
+        "knowledge-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".country-food-grid",
+      "missingClasses": [
+        "country-food-grid"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "guide.css",
+      "selector": ".knowledge-card h3",
+      "missingClasses": [
+        "knowledge-card"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities>a",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities>a.active",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities small",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities b",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities a>span",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading h2",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading p",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading>a",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".knowledge-country-map",
+      "missingClasses": [
+        "knowledge-country-map"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".knowledge-country-map>summary",
+      "missingClasses": [
+        "knowledge-country-map"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".knowledge-country-map>summary span",
+      "missingClasses": [
+        "knowledge-country-map"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities a:focus-visible",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities>a",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".destination-cities b",
+      "missingClasses": [
+        "destination-cities"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading h2",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading>a",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".knowledge-country-map>summary",
+      "missingClasses": [
+        "knowledge-country-map"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".knowledge-country-map>summary span",
+      "missingClasses": [
+        "knowledge-country-map"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".guide-marker",
+      "missingClasses": [
+        "guide-marker"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".entity-breadcrumb",
+      "missingClasses": [
+        "entity-breadcrumb"
+      ]
+    },
+    {
+      "file": "knowledge-hub.css",
+      "selector": ".hub-heading p",
+      "missingClasses": [
+        "hub-heading"
+      ]
+    },
+    {
+      "file": "flavors.css",
+      "selector": ".flavor-map a:hover .province-covered",
+      "missingClasses": [
+        "province-covered"
+      ]
+    },
+    {
+      "file": "flavors.css",
+      "selector": ".flavor-map a:focus .province-covered",
+      "missingClasses": [
+        "province-covered"
+      ]
+    },
+    {
+      "file": "flavors.css",
+      "selector": ".flavor-map a[aria-current] .province-covered",
+      "missingClasses": [
+        "province-covered"
+      ]
+    }
+  ],
+  "removedLegacyClasses": [
+    "card-bottom",
+    "card-directory",
+    "card-directory-tools",
+    "card-type-inventory",
+    "city-card",
+    "city-card-top",
+    "city-facts",
+    "city-hero-icon",
+    "city-map-layout",
+    "city-tip",
+    "country-food-card",
+    "country-food-grid",
+    "country-notes",
+    "country-tabs",
+    "country-zone-tabs",
+    "destination-cities",
+    "destination-city-card",
+    "destination-city-copy",
+    "destination-city-visual",
+    "destination-gallery",
+    "directory-card",
+    "directory-empty",
+    "directory-filter-note",
+    "directory-filters",
+    "directory-grid",
+    "entity-ai-note",
+    "entity-breadcrumb",
+    "entity-context-links",
+    "entity-inline-actions",
+    "entity-reference",
+    "entity-word-translations",
+    "explorer-columns",
+    "explorer-heading",
+    "featured-card-route",
+    "featured-card-routes",
+    "food-compare",
+    "food-comparison-card",
+    "food-comparison-grid",
+    "food-guide",
+    "food-guide-body",
+    "food-type-tabs",
+    "guide-footnote",
+    "guide-heading",
+    "guide-layout",
+    "guide-marker",
+    "guide-marker-wrap",
+    "guide-tooltip",
+    "hub-heading",
+    "knowledge-actions",
+    "knowledge-card",
+    "knowledge-country-map",
+    "knowledge-grid",
+    "knowledge-person",
+    "knowledge-prompt",
+    "map-context",
+    "map-help",
+    "map-layers-expanded",
+    "map-panel-heading",
+    "map-status",
+    "number-label",
+    "province-covered",
+    "sight-card",
+    "sight-category",
+    "sight-focus",
+    "specialty-card",
+    "tab-arrow",
+    "tip-action",
+    "tip-body",
+    "tip-card",
+    "tip-expand",
+    "tip-meta",
+    "tips-grid",
+    "tips-heading",
+    "tips-note",
+    "tips-tabs",
+    "transit-links",
+    "transit-note",
+    "transit-panel",
+    "transit-title",
+    "travel-tips",
+    "zone-heading",
+    "zone-note"
+  ],
+  "runtimeAudit": {
+    "routeViewportSamples": 44,
+    "styleRules": 1801,
+    "unmatchedRuleCount": 148,
+    "staticCandidates": [],
+    "dynamicRetained": {
+      "leaflet-": "Leaflet constructs popup and control classes dynamically",
+      "card-image-": "CardImages uses media.kind",
+      "produce-chart-": "chart SVG classes depend on metric",
+      "produce-feature-": "feature.kind",
+      "plan-priority-": "roadmap priority enum"
+    }
+  },
+  "scope": "确认失效才删除；浏览器未匹配不自动等于无用。模块保留业务布局，components.css拥有公共组件。"
+}

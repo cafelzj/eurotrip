@@ -72,4 +72,14 @@ for record in primary:
     assert record['sectionText'].count('一、地理标志产品名称') <= 1
     assert hashlib.sha256(record['sectionText'].encode()).hexdigest() == record['sectionSha256']
 assert not any(p.name.endswith('.html') for p in PUBLIC.rglob('*'))
+# All historical drafts and current evidence have a single indexed home.
+index = read(ROOT / 'research/flavors/index.json')
+assert len(index['records']) == len({r['path'] for r in index['records']})
+expected = {p.relative_to(ROOT).as_posix() for p in (ROOT/'research/flavors').rglob('*') if p.is_file() and p.suffix in ('.json','.md','.txt') and p.name != 'index.json'}
+assert expected == {r['path'] for r in index['records']}
+for record in index['records']:
+    assert hashlib.sha256((ROOT/record['path']).read_bytes()).hexdigest() == record['sha256'], record['path']
+assert not set(index['runtimeFiles']) & expected
+assert all((ROOT/p).is_file() for p in index['runtimeFiles'])
+assert all(x['path'] in expected for x in index['history'])
 print(f"PASS {len(items)} items, all initial IDs retained, 2046 immutable knowledge candidates, 1673 units / 3346 queries, {len(new_sources)} source originals and inline explanation counts")

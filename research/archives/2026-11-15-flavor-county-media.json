@@ -1,0 +1,931 @@
+{
+  "batch": "2026-11-15-flavor-county-media",
+  "createdAt": "2026-11-14T23:38:41.776338+00:00",
+  "archive": "research/.local/archives/2026-11-15-flavor-county-media.tar.gz",
+  "archiveSha256": "3cbee2e22da0b6c7913b591e430695b546f546bd2a7730d8fb6ac2113b2c7eca",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/flavor-county-boundaries",
+    "/workspace/eurotrip/research/.local/flavor-images"
+  ],
+  "fileCount": 183,
+  "totalUncompressedBytes": 30507174,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "flavor-county-boundaries/130100.json",
+      "bytes": 142974,
+      "sha256": "556b51cd1f2b058e6e0b3f62939f68891f6f45c6284e6d3bb5fbf87ca4212e7b"
+    },
+    {
+      "member": "flavor-county-boundaries/130200.json",
+      "bytes": 70380,
+      "sha256": "f2daf09abac73ea65c502e645d3571354ef10753d3d3493a99d82ed581489686"
+    },
+    {
+      "member": "flavor-county-boundaries/130300.json",
+      "bytes": 62474,
+      "sha256": "9d735cfb18f580e7322574882fd80ec8c90fd80f1ab6a345b4d7f06d596d5028"
+    },
+    {
+      "member": "flavor-county-boundaries/130400.json",
+      "bytes": 114092,
+      "sha256": "08d516a709c49656f085c88562b5adffdf5bcc9d1617c26abd81e70dd86d725f"
+    },
+    {
+      "member": "flavor-county-boundaries/130500.json",
+      "bytes": 111714,
+      "sha256": "93910c6d3b8b2a5ce359862ae6de81b929916630430a24d0ab27adeea3b803a7"
+    },
+    {
+      "member": "flavor-county-boundaries/130600.json",
+      "bytes": 118488,
+      "sha256": "2a3b23b39ca2691064f88f3cb5c2aa8c3c97d157dae4cf6725900703132aeac9"
+    },
+    {
+      "member": "flavor-county-boundaries/130700.json",
+      "bytes": 108432,
+      "sha256": "757ca6fa935733f9f397dedf5ac9b58ebf4dded6cb3741c524c00916b090a12b"
+    },
+    {
+      "member": "flavor-county-boundaries/130800.json",
+      "bytes": 89214,
+      "sha256": "7a3b61fdadf81c5d318280ddd7dc684b58c6f790e198fe219efa5be99cb67f66"
+    },
+    {
+      "member": "flavor-county-boundaries/130900.json",
+      "bytes": 133734,
+      "sha256": "7a641ec8328bc40df33a4487033757e71c3157a0706bb723675e5c2a846767b5"
+    },
+    {
+      "member": "flavor-county-boundaries/131000.json",
+      "bytes": 50953,
+      "sha256": "7d2f6a083b44c98e4b3834f2ea3e08588a48cdf38b3158f91055f584376588bc"
+    },
+    {
+      "member": "flavor-county-boundaries/131100.json",
+      "bytes": 89121,
+      "sha256": "3582aa5b7385db9988610adbdc9f83637c42ec834d65e783cc11154a232c012f"
+    },
+    {
+      "member": "flavor-county-boundaries/140100.json",
+      "bytes": 63198,
+      "sha256": "805882eee96aa527a2b6e18af2ea6050d6625dc4615e3a8ff84aa60d06ad936e"
+    },
+    {
+      "member": "flavor-county-boundaries/140200.json",
+      "bytes": 46564,
+      "sha256": "cf8e9cd2dc9f42c00779df700a0fb97577af4975637ff8dc805c1b6eae02814c"
+    },
+    {
+      "member": "flavor-county-boundaries/140300.json",
+      "bytes": 29036,
+      "sha256": "4da833f8187ff96c105adba8e6be321376a5edb7a8fd5a6cb77957eb6ac69ab2"
+    },
+    {
+      "member": "flavor-county-boundaries/140400.json",
+      "bytes": 67464,
+      "sha256": "8e83ab9976bd85aeee37b828ca2b1149517bb87cd0b1009f003e8335dbf4149e"
+    },
+    {
+      "member": "flavor-county-boundaries/140500.json",
+      "bytes": 43418,
+      "sha256": "124c7e950979f76e390999b8259cddbea51fd8a738fb166aad13bf7ddd9a41a8"
+    },
+    {
+      "member": "flavor-county-boundaries/140600.json",
+      "bytes": 44130,
+      "sha256": "0c4dce9d473594cfb9c22428faf19e43f7de088c99aaf22cbe365e57c4b51f44"
+    },
+    {
+      "member": "flavor-county-boundaries/140700.json",
+      "bytes": 72158,
+      "sha256": "3c35cd60fff8723fab73335ce757b21073c5774791186cd18c7e3ef262605a49"
+    },
+    {
+      "member": "flavor-county-boundaries/140800.json",
+      "bytes": 94336,
+      "sha256": "7d751564ce9c6263c9e4417fb031150867d8b74a07fb4fc457fad8b7dc68c520"
+    },
+    {
+      "member": "flavor-county-boundaries/140900.json",
+      "bytes": 69906,
+      "sha256": "89703a4890b0a7d14438cb818648128eeac35be2309f060f0e2103abef7e7965"
+    },
+    {
+      "member": "flavor-county-boundaries/141000.json",
+      "bytes": 91031,
+      "sha256": "eab420a3764f876ddcd5023b08ff317e13a13fe8e3b19ad5bf68932379d3a19d"
+    },
+    {
+      "member": "flavor-county-boundaries/141100.json",
+      "bytes": 69701,
+      "sha256": "ab99967d4b45088afbe6de0ce60621afa32a7d4dbe6510bdaa8f83730e1a3574"
+    },
+    {
+      "member": "flavor-county-boundaries/210100.json",
+      "bytes": 71243,
+      "sha256": "bc80ff7db3fa6c1032ac3a7d267a3c71c8f3ea77514f8306b22f0af2a508cc9a"
+    },
+    {
+      "member": "flavor-county-boundaries/210200.json",
+      "bytes": 107962,
+      "sha256": "25c543cdd88366d2d7df19fe4b067f5d1aac93b6a4baab5284caa7dc4df4a1e2"
+    },
+    {
+      "member": "flavor-county-boundaries/210300.json",
+      "bytes": 33703,
+      "sha256": "f2a1d795365daa0c40c0be122456f4650b6b870cb38db2d296394be2feaaee4e"
+    },
+    {
+      "member": "flavor-county-boundaries/210400.json",
+      "bytes": 74996,
+      "sha256": "033924ae0a06a74f64bb821a420917a15048962c04bc9fdb9aa0e8d8242af5b0"
+    },
+    {
+      "member": "flavor-county-boundaries/210500.json",
+      "bytes": 58972,
+      "sha256": "48a50c3a825969bfebd8d5d977dc1ca11ec6345a9fa00d9d177c74e532adbcec"
+    },
+    {
+      "member": "flavor-county-boundaries/210600.json",
+      "bytes": 78121,
+      "sha256": "a9b6b256978c58752b542b8ba0409e5bc562905d84b326f29eb60932ed5f1714"
+    },
+    {
+      "member": "flavor-county-boundaries/210700.json",
+      "bytes": 68526,
+      "sha256": "2ab1c3de0cfbb8e77946717f0cdb267786299dc3416b5ed9641420b6e6f4842f"
+    },
+    {
+      "member": "flavor-county-boundaries/210800.json",
+      "bytes": 46702,
+      "sha256": "c104040aeb71c159cf5fc9d92b153bc4e537b8af4664cc5cf927102d1fffbd31"
+    },
+    {
+      "member": "flavor-county-boundaries/210900.json",
+      "bytes": 64968,
+      "sha256": "6b9fc855add175d4bb0eefc4eed3aaa4e0167ab6d24afb5282259f4242da7eff"
+    },
+    {
+      "member": "flavor-county-boundaries/211000.json",
+      "bytes": 58557,
+      "sha256": "e5bad656d7e4b8958c68ae5d326db23e6f5b197844df8ca64ea86e5b0289d103"
+    },
+    {
+      "member": "flavor-county-boundaries/211100.json",
+      "bytes": 41229,
+      "sha256": "c0007b2578f2d7b9471b2e77c25c2a07fbba85305922c0b69d657a117d07642c"
+    },
+    {
+      "member": "flavor-county-boundaries/211200.json",
+      "bytes": 63727,
+      "sha256": "26ba45fef6ea457b8f7e15c3eeec610e5f5b0c841bb9ee018da6bded98215e0c"
+    },
+    {
+      "member": "flavor-county-boundaries/211300.json",
+      "bytes": 59413,
+      "sha256": "5840c8567fcee8cf20d1b55a987b30eb145dd2e8c9839463c623aca7feb6bc6e"
+    },
+    {
+      "member": "flavor-county-boundaries/211400.json",
+      "bytes": 61911,
+      "sha256": "bf63cc5760c989eb5c79886feb99ea0aeeafe8a098dd9c62ed282e97aa6aa8e7"
+    },
+    {
+      "member": "flavor-county-boundaries/220100.json",
+      "bytes": 104626,
+      "sha256": "686a6acd71a215ac4a3cbd08147f79e07f7cbad424a16bddc0b5476a1325f290"
+    },
+    {
+      "member": "flavor-county-boundaries/220200.json",
+      "bytes": 98114,
+      "sha256": "9901ee7d96a7f434d0b47f61bbfbc5329edc5afa0b786898736184b9f743955b"
+    },
+    {
+      "member": "flavor-county-boundaries/220300.json",
+      "bytes": 69591,
+      "sha256": "13a77abb9f6924b2328a4385920a6134bd5732d75e6b99b3290818f1a3acf85d"
+    },
+    {
+      "member": "flavor-county-boundaries/220400.json",
+      "bytes": 52673,
+      "sha256": "b11325f73fe71236c1c12d5e75b705845bfc0a0a53538f7f03ed1c16e28b2e27"
+    },
+    {
+      "member": "flavor-county-boundaries/220500.json",
+      "bytes": 71883,
+      "sha256": "0a3171ff7445f26b2ade73f9fb9eb9fddbda94ef7d75bbbcde99649b5e52b9c3"
+    },
+    {
+      "member": "flavor-county-boundaries/220600.json",
+      "bytes": 64452,
+      "sha256": "e822d22a9054986e29d33e48103db4dd3b4408b7ffe95d81cda70b4b29deb90c"
+    },
+    {
+      "member": "flavor-county-boundaries/220700.json",
+      "bytes": 44815,
+      "sha256": "962156e941d3c17f5a8b8ec93043b0393555a9aba1150ac2d3797a5901c60f44"
+    },
+    {
+      "member": "flavor-county-boundaries/220800.json",
+      "bytes": 48374,
+      "sha256": "2182ee8a7f6b5d6020c2389f36b0adb3952a054213f7e80c7013dbaf3aaa637e"
+    },
+    {
+      "member": "flavor-county-boundaries/222400.json",
+      "bytes": 117157,
+      "sha256": "3c8faadf85ff555be960f86077dfd411fa9da494dc57d564d3429cc44b2e33a7"
+    },
+    {
+      "member": "flavor-county-boundaries/230100.json",
+      "bytes": 177590,
+      "sha256": "c2df24cde9176569814ce9f0d890b6a6d062fdae90ed3b7c1ce7052658748d60"
+    },
+    {
+      "member": "flavor-county-boundaries/230200.json",
+      "bytes": 60276,
+      "sha256": "b4192712fa3309e013d18be36abd9fa59f22de326ee7e73ebb1cbc2815d3abe4"
+    },
+    {
+      "member": "flavor-county-boundaries/230300.json",
+      "bytes": 69678,
+      "sha256": "67be3ae4326c292b2529510ebe97418f2ca2453be9231104e74a8120f112d693"
+    },
+    {
+      "member": "flavor-county-boundaries/230400.json",
+      "bytes": 51731,
+      "sha256": "f143b67a036ff634f0c73ff65de4193cafcddc68a9f8d88fdbfc0a1620f7c1ab"
+    },
+    {
+      "member": "flavor-county-boundaries/230500.json",
+      "bytes": 67641,
+      "sha256": "113e3a24efb2c4118144a1fb7e412f09e93d7c3512b037560c5850f4caa412a8"
+    },
+    {
+      "member": "flavor-county-boundaries/230600.json",
+      "bytes": 46683,
+      "sha256": "b2a6411e0759d370ba089a8770735014044d62959fcd9043e09ce4abeb881ef5"
+    },
+    {
+      "member": "flavor-county-boundaries/230700.json",
+      "bytes": 46676,
+      "sha256": "039909225ec103a6bdaee0ce739418bbc777dcc2bfa9f22ac6e03295fc6afd8e"
+    },
+    {
+      "member": "flavor-county-boundaries/230800.json",
+      "bytes": 94174,
+      "sha256": "32100b64a697662e91d3bac459b7ceb51f1f088dc6dc4ec52faa762ad8acb17d"
+    },
+    {
+      "member": "flavor-county-boundaries/230900.json",
+      "bytes": 68083,
+      "sha256": "7707e87210cf7a0da0a60ae26150932c100702096e312769b782b922e9bac620"
+    },
+    {
+      "member": "flavor-county-boundaries/231000.json",
+      "bytes": 107023,
+      "sha256": "e325f71828446a3659cadd82af31fff56116dfa41bb7d986ca84b9384b3dc0f0"
+    },
+    {
+      "member": "flavor-county-boundaries/231100.json",
+      "bytes": 63307,
+      "sha256": "085edcdf23d66e2a49b91f3d464cde32101235396960b20be5acf8a59e3137f1"
+    },
+    {
+      "member": "flavor-county-boundaries/231200.json",
+      "bytes": 107396,
+      "sha256": "51cf7ab8da17003731b7d903fc118a76085601734fe0f2e520f18174e19c2c98"
+    },
+    {
+      "member": "flavor-county-boundaries/232700.json",
+      "bytes": 46080,
+      "sha256": "ab979113def3d93225ef3ab39a621598bdcf6ff8318ee01e9d68fdf409e7f87f"
+    },
+    {
+      "member": "flavor-county-boundaries/320100.json",
+      "bytes": 60834,
+      "sha256": "14871d1526fb14cc967a33aa06df20f157ad7b0759b7d9281be377f2e1adac6d"
+    },
+    {
+      "member": "flavor-county-boundaries/320200.json",
+      "bytes": 35937,
+      "sha256": "e80d4da545916413c6a71a2bf3a24fcacddf13738bddc99403e2c52a6d8c90e7"
+    },
+    {
+      "member": "flavor-county-boundaries/320300.json",
+      "bytes": 82054,
+      "sha256": "f1c696a1fed93c883a31dc60c6c608ffad6f6c99d1def14667983e8c47356f05"
+    },
+    {
+      "member": "flavor-county-boundaries/320400.json",
+      "bytes": 39052,
+      "sha256": "2a5952c2469f1cdf93e8b075a822146f771f56cc9a3312a673fcfbff00ed0215"
+    },
+    {
+      "member": "flavor-county-boundaries/320500.json",
+      "bytes": 57252,
+      "sha256": "37dddced21487e8983b1f3e8ce2ad6fe116dbe4cd938952b4aec02d355939955"
+    },
+    {
+      "member": "flavor-county-boundaries/320600.json",
+      "bytes": 41072,
+      "sha256": "c2d3d9fc1628d431cb4d0d9d3f36f3677427c93def1d049a7c618e7ddec83920"
+    },
+    {
+      "member": "flavor-county-boundaries/320700.json",
+      "bytes": 41716,
+      "sha256": "b2943831f48b4e0e17f94b7613499cabf4c56b26a5ffb695c7e067182ed8a1c8"
+    },
+    {
+      "member": "flavor-county-boundaries/320800.json",
+      "bytes": 44909,
+      "sha256": "586767bb407260bc075530f6a077af5faa653e865b446e73d8cb24d5c2243115"
+    },
+    {
+      "member": "flavor-county-boundaries/320900.json",
+      "bytes": 43557,
+      "sha256": "088725cb2df16ed12c36a6d340621675e95edee73a9ae5d999ba841edc1f9514"
+    },
+    {
+      "member": "flavor-county-boundaries/321000.json",
+      "bytes": 35118,
+      "sha256": "9c53022297baf0ff41560aede394b0d37e738ea81c696b40a73574567d431c67"
+    },
+    {
+      "member": "flavor-county-boundaries/321100.json",
+      "bytes": 63788,
+      "sha256": "49584acec7e40ed576f05e4df32613ce34c6f929ba112cba997a4b0ff703db6d"
+    },
+    {
+      "member": "flavor-county-boundaries/321200.json",
+      "bytes": 39297,
+      "sha256": "4977e0b19712d91c4d461700c99c920ad7d18345b99fea049cfa31d666c45a3b"
+    },
+    {
+      "member": "flavor-county-boundaries/321300.json",
+      "bytes": 37402,
+      "sha256": "e12baf5500b9dcd3716b6cb1b97c65d396c9c3227bfcf0f393cae92362c8b639"
+    },
+    {
+      "member": "flavor-county-boundaries/330100.json",
+      "bytes": 108019,
+      "sha256": "1bfa48db925fb3e91450e860331151e85b49e3113822b5cabc60a799bb04c903"
+    },
+    {
+      "member": "flavor-county-boundaries/330200.json",
+      "bytes": 85005,
+      "sha256": "c6358c107be40715aac44a681258d49c8dad9698c9504c7c970a6b96e1cf2169"
+    },
+    {
+      "member": "flavor-county-boundaries/330300.json",
+      "bytes": 104921,
+      "sha256": "665c78ff06cfeed19f8caca879388d66746e0d4d5631eebeb9aa8a7e3b15a6e3"
+    },
+    {
+      "member": "flavor-county-boundaries/330400.json",
+      "bytes": 70142,
+      "sha256": "013ae0513f66db8132b6e38dfbfac9427541ca5effe3a11b7f7e491a80695587"
+    },
+    {
+      "member": "flavor-county-boundaries/330500.json",
+      "bytes": 65604,
+      "sha256": "e9e47004725a3674b967f7d97703b6e1caff3a7c94071d20e2dc0f5f84e965dc"
+    },
+    {
+      "member": "flavor-county-boundaries/330600.json",
+      "bytes": 61433,
+      "sha256": "dfe21c45375180ce10d88e22621ff089f1eb0d604cc89f624ead12ceeaa462ee"
+    },
+    {
+      "member": "flavor-county-boundaries/330700.json",
+      "bytes": 80418,
+      "sha256": "8ec1c3c1b5425644e82c9b41e65bff72fccd7929eb0e850b483e6150ba30cb3e"
+    },
+    {
+      "member": "flavor-county-boundaries/330800.json",
+      "bytes": 65301,
+      "sha256": "2feb7747d799f7097f51017a6e69f40b67a0fbf2cbcb2c0c5a4c257fa3e9c246"
+    },
+    {
+      "member": "flavor-county-boundaries/330900.json",
+      "bytes": 84710,
+      "sha256": "b63b02ea6af4ef49606be19ce18750be6c6cbaf53e172648c839c74098b3545a"
+    },
+    {
+      "member": "flavor-county-boundaries/331000.json",
+      "bytes": 90561,
+      "sha256": "546ebf6f0dc8575fffb00e8c47826d0d75c78feba5634fcd34f552bf6bd72d06"
+    },
+    {
+      "member": "flavor-county-boundaries/331100.json",
+      "bytes": 90572,
+      "sha256": "63d5278bf9fd1fd2701b4191ff884b02aa59bc81c61b64b2c8e6faa31fa3bf89"
+    },
+    {
+      "member": "flavor-county-boundaries/340100.json",
+      "bytes": 65729,
+      "sha256": "fde3f8762510ada0ee00366d9bb162543db1c1f8951aa44c01e27c97e4117b72"
+    },
+    {
+      "member": "flavor-county-boundaries/340200.json",
+      "bytes": 45358,
+      "sha256": "e9b76a3e6ba85b07d2ff0d04a8475a35e567bdafc2e7d632de86853416a537dc"
+    },
+    {
+      "member": "flavor-county-boundaries/340300.json",
+      "bytes": 51106,
+      "sha256": "48c150191e626069afb6c58a1a360ebf63ef2ecfca877442784be1530f7bde27"
+    },
+    {
+      "member": "flavor-county-boundaries/340400.json",
+      "bytes": 33529,
+      "sha256": "77717987f7578b96e0df52f649fed5d18ac5879e367a8ce3cb7d625736b8bccf"
+    },
+    {
+      "member": "flavor-county-boundaries/340500.json",
+      "bytes": 48517,
+      "sha256": "3bdff6561c3b52aa1b2d37321deeee01993b17f83a099d221892a99220c42b5f"
+    },
+    {
+      "member": "flavor-county-boundaries/340600.json",
+      "bytes": 23955,
+      "sha256": "1096c580a27ac973119f8c59ad64ad3f9e2a766349e50588f52c1979814c751f"
+    },
+    {
+      "member": "flavor-county-boundaries/340700.json",
+      "bytes": 42099,
+      "sha256": "47864627e4a4fa9970f5ac21a2f34b89cb7355586089d2e89927972c8639d839"
+    },
+    {
+      "member": "flavor-county-boundaries/340800.json",
+      "bytes": 63445,
+      "sha256": "14ce449f3b757d6824cbadd08ca2628179c29faf47cd4fa1b02a92f08c1c8368"
+    },
+    {
+      "member": "flavor-county-boundaries/341000.json",
+      "bytes": 62058,
+      "sha256": "675efd65e70d2709f1922f9b90bf847258a0e9fa8d272f83ed5b5f85fe0b7efc"
+    },
+    {
+      "member": "flavor-county-boundaries/341100.json",
+      "bytes": 72555,
+      "sha256": "863377ccda2a0e880b3ba0921bc6ddd46f2b1bd5b4b9fc016e4f17a094dd2d13"
+    },
+    {
+      "member": "flavor-county-boundaries/341200.json",
+      "bytes": 70955,
+      "sha256": "7ede922f279fe8ff95a955b03beb31338135d3f0eada2e8949fd000c07ad966f"
+    },
+    {
+      "member": "flavor-county-boundaries/341300.json",
+      "bytes": 45088,
+      "sha256": "f2f531a2cbc03f703a73bf36db182013cc4f0ab7daaac69a16eede1b7841eaec"
+    },
+    {
+      "member": "flavor-county-boundaries/341500.json",
+      "bytes": 73677,
+      "sha256": "a483a0f3103600986b4d2c2e066c00c6a1e5f46b81387d007cb3a97f53840259"
+    },
+    {
+      "member": "flavor-county-boundaries/341600.json",
+      "bytes": 38420,
+      "sha256": "ec9a8ef1277dc6ed0d915e797730b677e14526810ca9105aeea2dd2c17917466"
+    },
+    {
+      "member": "flavor-county-boundaries/341700.json",
+      "bytes": 40667,
+      "sha256": "4020c3d6d3f107fef00a9f955caac1388ba00fdcd13ca6eb1970c7685e7016a6"
+    },
+    {
+      "member": "flavor-county-boundaries/341800.json",
+      "bytes": 62344,
+      "sha256": "3e8452d1990cadbf72863a416b1a66d95e51325c05bf697f198bfdc78c309ca4"
+    },
+    {
+      "member": "flavor-county-boundaries/350100.json",
+      "bytes": 120428,
+      "sha256": "35da7612b7436c54ffce8745bcbb9850b980f23041698680985a78dbb6d2b7a1"
+    },
+    {
+      "member": "flavor-county-boundaries/350200.json",
+      "bytes": 27769,
+      "sha256": "18ffd9136117c80f3ecb7d45aa199298ba02199ee2c9fb353bfc2f07ec7bac32"
+    },
+    {
+      "member": "flavor-county-boundaries/350300.json",
+      "bytes": 69494,
+      "sha256": "d9aae6ffd736add9b9f0df6cde5e5cd481bfe4c59d6e4a6c50a438c26b8ee9d1"
+    },
+    {
+      "member": "flavor-county-boundaries/350400.json",
+      "bytes": 130419,
+      "sha256": "8eecca2e42d4718ad09b0e102071ff95cff8a40e4dba92da4c27493dc3a41929"
+    },
+    {
+      "member": "flavor-county-boundaries/350500.json",
+      "bytes": 91227,
+      "sha256": "60671d99f346c67541042d410a5d645b115d3bb78c1102b110d5fe87d37c71ba"
+    },
+    {
+      "member": "flavor-county-boundaries/350600.json",
+      "bytes": 75677,
+      "sha256": "429c229dd68838413e6c58e3a03c3c42858a1b241f4c0906a12cc51b980523fa"
+    },
+    {
+      "member": "flavor-county-boundaries/350700.json",
+      "bytes": 85908,
+      "sha256": "9595bcd0e4007388c668e0a7351e0d0ecdbac0540eb7d79cb97fa78b65ebc2ab"
+    },
+    {
+      "member": "flavor-county-boundaries/350800.json",
+      "bytes": 81103,
+      "sha256": "65adce7f2718a9771b5001a35b615fa17354f53d26eba3f314d477e051ca7ad9"
+    },
+    {
+      "member": "flavor-county-boundaries/350900.json",
+      "bytes": 98790,
+      "sha256": "7bee392496cd4b6282020aa9a518981e1050a2213e1063348bd2fa8b2b677212"
+    },
+    {
+      "member": "flavor-county-boundaries/370100.json",
+      "bytes": 86290,
+      "sha256": "4c6c88c50fae09eca5c376a4c1aea313694a908f844e4817d7cf69b83c67fbc5"
+    },
+    {
+      "member": "flavor-county-boundaries/370200.json",
+      "bytes": 59987,
+      "sha256": "006e71f5ec468279c9ff039e2bfe67a8c9eb804e8589425b1a49dee90d3585ff"
+    },
+    {
+      "member": "flavor-county-boundaries/370300.json",
+      "bytes": 73674,
+      "sha256": "9f90a62f6c8502b2019a0a6a24b8a58ef8112052adbdc8d9d97589119333f4b8"
+    },
+    {
+      "member": "flavor-county-boundaries/370400.json",
+      "bytes": 35283,
+      "sha256": "116c2c407e295846f97e7197e8a1db5cfb56d8cb5185cf7df873f97a86e62de1"
+    },
+    {
+      "member": "flavor-county-boundaries/370500.json",
+      "bytes": 45873,
+      "sha256": "b8335f3214928f15b2191931c9e2bcba335a916479a053c210d2d5179c9ed8fa"
+    },
+    {
+      "member": "flavor-county-boundaries/370600.json",
+      "bytes": 61256,
+      "sha256": "263bd82c991adac7bd75678db6a71e506f39f5dc6dfa3918ce5cf684f230eb3b"
+    },
+    {
+      "member": "flavor-county-boundaries/370700.json",
+      "bytes": 80091,
+      "sha256": "8a5a569f41b0ffb564a30da40d5fd5491f24b27a1999cc8b28d904b3273acbd0"
+    },
+    {
+      "member": "flavor-county-boundaries/370800.json",
+      "bytes": 79594,
+      "sha256": "475ed4e90eb1abcf24a57fb94e22aa5cffc0b6a84097091342e3068716f28752"
+    },
+    {
+      "member": "flavor-county-boundaries/370900.json",
+      "bytes": 53869,
+      "sha256": "8359a3f0fb0c3fa5b3bbebdf1c24eac67f6a00b21e64f8a498f8ef63dd2834db"
+    },
+    {
+      "member": "flavor-county-boundaries/371000.json",
+      "bytes": 47413,
+      "sha256": "3e28da9e44fa47f72f95cfae030d788ad4dc33742620e732c2cbde345ab5acf6"
+    },
+    {
+      "member": "flavor-county-boundaries/371100.json",
+      "bytes": 40902,
+      "sha256": "aa17d2b40ebd5aeebad8c9c393114edd0023bb1a346375904a3ae049c7a39d76"
+    },
+    {
+      "member": "flavor-county-boundaries/371300.json",
+      "bytes": 61847,
+      "sha256": "ebccc7e1d86a781d33ba2cb5a0de0589c6265a4d382f021a6e14c4e06b157c5d"
+    },
+    {
+      "member": "flavor-county-boundaries/371400.json",
+      "bytes": 50249,
+      "sha256": "20683dff367694ff24f40ae9fa5134af321e9b8600789996e8ce500ae3e8751f"
+    },
+    {
+      "member": "flavor-county-boundaries/371500.json",
+      "bytes": 64985,
+      "sha256": "7b06897be339ac6465f18ed624c6689e8bd6bc3a4867f9540df8138324ff10f6"
+    },
+    {
+      "member": "flavor-county-boundaries/371600.json",
+      "bytes": 44569,
+      "sha256": "5ff51f4259a223972fe6edff2e877047af0b46768943b28e8e2a15347e6467de"
+    },
+    {
+      "member": "flavor-county-boundaries/371700.json",
+      "bytes": 64832,
+      "sha256": "65a017f4eefc79fdf0e165986afc8cec5d490e09c092de4802fdd759027c8cb5"
+    },
+    {
+      "member": "flavor-county-boundaries/410100.json",
+      "bytes": 105472,
+      "sha256": "2a3f630fb63d4bb465610919d31b3bd2f0bebf83f03a21707ab1caaa2e2ceb2f"
+    },
+    {
+      "member": "flavor-county-boundaries/410200.json",
+      "bytes": 47709,
+      "sha256": "62f6793030f3682b85f0b8408a6434e9b3736a6a92cffe6caa234f109d504822"
+    },
+    {
+      "member": "flavor-county-boundaries/410300.json",
+      "bytes": 84223,
+      "sha256": "8fd2a44d4f43595e543ca9d0ae6c187386080b6b2d733d38d8944cc3665bc635"
+    },
+    {
+      "member": "flavor-county-boundaries/410400.json",
+      "bytes": 54854,
+      "sha256": "150bda432dfe422ddb6987d11c9daf929408ae4018d0db1dd1b1f495c45f17a3"
+    },
+    {
+      "member": "flavor-county-boundaries/410500.json",
+      "bytes": 62825,
+      "sha256": "79b0df6f2a4c08e8637a7ceb63ae16b0dbf0acdafce0d9f38a6493e3209fcfda"
+    },
+    {
+      "member": "flavor-county-boundaries/410600.json",
+      "bytes": 35065,
+      "sha256": "847b577fc3ff1a7f86056fa880bf3236e626574ba3a845e4c9135fbb0ca5969e"
+    },
+    {
+      "member": "flavor-county-boundaries/410700.json",
+      "bytes": 61144,
+      "sha256": "2808bffb328a94c4c39055989b11f6318073135d9ee5fad4feb71d8708492f6b"
+    },
+    {
+      "member": "flavor-county-boundaries/410800.json",
+      "bytes": 66699,
+      "sha256": "583277a6b83121e877b8cc79273ed388007702c9bd3e10a1e7e45efb59cc96b8"
+    },
+    {
+      "member": "flavor-county-boundaries/410900.json",
+      "bytes": 33418,
+      "sha256": "462a148707ec12d275debfca8751d7547e74fe7210143f1ad263a64fce415b80"
+    },
+    {
+      "member": "flavor-county-boundaries/411000.json",
+      "bytes": 61790,
+      "sha256": "61cf4f2f77614734046969aceb07012067e72eb4a8b66740afd14fc80cbba1ac"
+    },
+    {
+      "member": "flavor-county-boundaries/411100.json",
+      "bytes": 44291,
+      "sha256": "73e5da53e5ab10413c63c03bccc760cc37c77bdc8c48c86c7bb0c6f0bb9158af"
+    },
+    {
+      "member": "flavor-county-boundaries/411200.json",
+      "bytes": 50834,
+      "sha256": "8d2a883a54e0838bf044bd7c85ab1888ab7e6fe69e5c15efa30f497df04c85a5"
+    },
+    {
+      "member": "flavor-county-boundaries/411300.json",
+      "bytes": 131107,
+      "sha256": "eebb624a11d6fca61a1fc47041be56d76ccdf08b4a34e0c75263fe723462f661"
+    },
+    {
+      "member": "flavor-county-boundaries/411400.json",
+      "bytes": 74167,
+      "sha256": "8805e34231099ccf9c8a69247eb8014b2aae61030027894ca8a66b39e5ffcf39"
+    },
+    {
+      "member": "flavor-county-boundaries/411500.json",
+      "bytes": 106924,
+      "sha256": "35f0a08ad2c2d908af1364348d5f45eb4c17bb73918d46c376001ec617efe8f5"
+    },
+    {
+      "member": "flavor-county-boundaries/411600.json",
+      "bytes": 74379,
+      "sha256": "c266d9147f7e219e48c567e7e67612c6432f7eab3817492916847a64a5c1de31"
+    },
+    {
+      "member": "flavor-county-boundaries/411700.json",
+      "bytes": 93069,
+      "sha256": "3c95701a0cb72e5feff6274ad55a7652b999772abe8d2f8601105991e3f2bd33"
+    },
+    {
+      "member": "flavor-county-boundaries/420100.json",
+      "bytes": 80099,
+      "sha256": "f03865cc55cf8d4e3b6cb581fdb199ef0405bbad817c8a652e2b72414dcc5aeb"
+    },
+    {
+      "member": "flavor-county-boundaries/420200.json",
+      "bytes": 46627,
+      "sha256": "3cfed569e337294b8999152bfc7012768f17ec51ef483bc43d33733cdfd79c4a"
+    },
+    {
+      "member": "flavor-county-boundaries/420300.json",
+      "bytes": 71155,
+      "sha256": "d330d91790da5a6c0422ae34794118994d806836c2c9d1ab814e1400d6c01631"
+    },
+    {
+      "member": "flavor-county-boundaries/420500.json",
+      "bytes": 123066,
+      "sha256": "9a93b662424ca54b59bc909896a6b2e8b379b3c43057f0eaead10840ed82b404"
+    },
+    {
+      "member": "flavor-county-boundaries/420600.json",
+      "bytes": 103609,
+      "sha256": "a29ce069390a080a8e21f4e1744d8cd64d6d4df2eb0e9aa1f37621d62ea4e042"
+    },
+    {
+      "member": "flavor-county-boundaries/420700.json",
+      "bytes": 20708,
+      "sha256": "73498e2f0e11b99dd4879d25d38dbe6f027edd4b8a5257e25d7b1bcc41b85363"
+    },
+    {
+      "member": "flavor-county-boundaries/420800.json",
+      "bytes": 66801,
+      "sha256": "9d8f414f41b5c17e35a4398c9d1c56e1a554e8f05520fd5adb2b0cb2a3a67102"
+    },
+    {
+      "member": "flavor-county-boundaries/420900.json",
+      "bytes": 61939,
+      "sha256": "1392461a476a47071a4241fc34773caeb08bd3d71bc397126083090e82ae7e56"
+    },
+    {
+      "member": "flavor-county-boundaries/421000.json",
+      "bytes": 67091,
+      "sha256": "1a256dd43d7d38c9eb27d3f2ebcc9a134f460cafc6148b4a0a706cce00e87100"
+    },
+    {
+      "member": "flavor-county-boundaries/421100.json",
+      "bytes": 50746,
+      "sha256": "48714a53487b81869474a30ef20ecd68bde7095472711c56ad63d6a190d4bdb7"
+    },
+    {
+      "member": "flavor-county-boundaries/421200.json",
+      "bytes": 52165,
+      "sha256": "0b62e51956a5fa08946e754bb20a05a8b51acf1c59ff6a2cc737c4b010a4d560"
+    },
+    {
+      "member": "flavor-county-boundaries/421300.json",
+      "bytes": 35101,
+      "sha256": "a79f1ea0535ce9e69f19757b710245a2d8e959f3d652e0acb3e7d75488d198cd"
+    },
+    {
+      "member": "flavor-county-boundaries/422800.json",
+      "bytes": 65315,
+      "sha256": "e9591ca33847852f7e69809be7ba9d6da020dbc9432098f6a911c030183a1eda"
+    },
+    {
+      "member": "flavor-county-boundaries/430100.json",
+      "bytes": 126818,
+      "sha256": "f47f8934db64c5d1c8c8a9eaa8635ba07bd1d4dce67a7beda7306d653954b38c"
+    },
+    {
+      "member": "flavor-county-boundaries/430200.json",
+      "bytes": 37127,
+      "sha256": "c5c986ea9e3c9957888201de6afeb2aafac850ca1302860d09cad48fd7fba900"
+    },
+    {
+      "member": "flavor-county-boundaries/430300.json",
+      "bytes": 60941,
+      "sha256": "6807c3348e70ace86004b27abb419004ad35e7ac88a3720e0098e397c61896d3"
+    },
+    {
+      "member": "flavor-county-boundaries/430400.json",
+      "bytes": 107015,
+      "sha256": "344ce6d9c1cb8cfdbeebeb1b39e3b5168e4ac657ed7ff8c7e6147bdb7e83be8d"
+    },
+    {
+      "member": "flavor-county-boundaries/430500.json",
+      "bytes": 121187,
+      "sha256": "692e9f127fd15e066672ec464868b073d60b1ad9cd0927350ad637e851e553e0"
+    },
+    {
+      "member": "flavor-county-boundaries/430600.json",
+      "bytes": 86165,
+      "sha256": "c718f00f47f5c46bbe4455148d9b993e88a56ac635192615ae450878e4c2094b"
+    },
+    {
+      "member": "flavor-county-boundaries/430700.json",
+      "bytes": 68040,
+      "sha256": "6a2b12ede8a1070b9dd43e3ce6dd061c0b045f9d7c053fe013f07fd7db47d578"
+    },
+    {
+      "member": "flavor-county-boundaries/430800.json",
+      "bytes": 35451,
+      "sha256": "190c56d49eaa8bb3ac473f0e69c3d3916f30a09b72bf56fa72964382f8e9e4c2"
+    },
+    {
+      "member": "flavor-county-boundaries/430900.json",
+      "bytes": 63359,
+      "sha256": "6104e83fddffeae3f01c49214d7268763bdf0765e45cc97da42b88f7a9abb946"
+    },
+    {
+      "member": "flavor-county-boundaries/431000.json",
+      "bytes": 74481,
+      "sha256": "ea3759114a01e9192ec7609f370b4d898258e580e3ace8652cedfadced600026"
+    },
+    {
+      "member": "flavor-county-boundaries/431100.json",
+      "bytes": 76975,
+      "sha256": "97a274b79a5e5f8c15b4cadb3856edc3109879b4611acf3da6f8e33ffc91fb66"
+    },
+    {
+      "member": "flavor-county-boundaries/431200.json",
+      "bytes": 91610,
+      "sha256": "8988c0e3b10693b63562145b9180b94dfef297d1efec12b251a32cb03650c669"
+    },
+    {
+      "member": "flavor-county-boundaries/431300.json",
+      "bytes": 56669,
+      "sha256": "b8272a4ae361e2b85f4cd4fe295e6c6b4b83c48230fb637c680dcc63d538cd67"
+    },
+    {
+      "member": "flavor-county-boundaries/433100.json",
+      "bytes": 49493,
+      "sha256": "819ce507557c989df8586b53932996f285ff82afb08bc6be3bbac26594802a87"
+    },
+    {
+      "member": "flavor-images/0049ead6e0a4ce.original",
+      "bytes": 1714366,
+      "sha256": "4d1d9cbb5d1c6a0dcfdab43790dc5ec966c8901488de95ec79266a1a76bf70d5"
+    },
+    {
+      "member": "flavor-images/0bb5bcc2c4fcbb.original",
+      "bytes": 1441565,
+      "sha256": "943ccd5f239c06040ce1fff64a4dcd40f44fdd9ddcc5566aed6a395fd9f4862e"
+    },
+    {
+      "member": "flavor-images/21259c096db609.original",
+      "bytes": 2908995,
+      "sha256": "679e1c88c830269d2df15238e5991920baee3f6f983a048d1d4873883fc0e3ea"
+    },
+    {
+      "member": "flavor-images/455fbd28c5db86.original",
+      "bytes": 3205803,
+      "sha256": "dce0e574b89a415dcc1e0f050fa67d7a03867cc165eeb0fc71386fbe32e83010"
+    },
+    {
+      "member": "flavor-images/5ab23ebeba3fd2.original",
+      "bytes": 2440502,
+      "sha256": "8051375ba5b77da70ba6b1626cee58c10d0a0163dea3906a8023dd3201370521"
+    },
+    {
+      "member": "flavor-images/7f0d147b729a16.original",
+      "bytes": 611045,
+      "sha256": "187e0598265c674580b396d659eb2a9abd7afcc816bbf87a544c3f6e63036b1b"
+    },
+    {
+      "member": "flavor-images/8a2a0d53d25aa7.original",
+      "bytes": 4054353,
+      "sha256": "1aa4a2828c440b4897af461599637744e89726f16389a2d5a5838a7bc3d6924e"
+    },
+    {
+      "member": "flavor-images/a1fe8fe47402f1.original",
+      "bytes": 1900493,
+      "sha256": "7610ca87581b5c9803b95f443de3dca2bad7f7b0e7153f87726a78044e9ba8f8"
+    },
+    {
+      "member": "flavor-images/c49987bbff6f9b.original",
+      "bytes": 331568,
+      "sha256": "fdd6e839149befbfd855531b4fa54e878f0f44edc7d624846b7164ef40324071"
+    },
+    {
+      "member": "flavor-images/commons-metadata-2.json",
+      "bytes": 18980,
+      "sha256": "fb25bc711aeb2888fa8c089e5b4598b46ac5cbd7c95b3f9727b974ed73ad59dc"
+    },
+    {
+      "member": "flavor-images/commons-metadata.json",
+      "bytes": 8838,
+      "sha256": "bad3276ee3991f15b0886991840eec658f76417ab3bec42d6fe8c66eae0dc2a2"
+    },
+    {
+      "member": "flavor-images/download-index.json",
+      "bytes": 44285,
+      "sha256": "f57b247acad061533ea2d00e70d3d1b66e25d3fa928a48aea131f92f0367d983"
+    },
+    {
+      "member": "flavor-images/download-work-script.py",
+      "bytes": 2479,
+      "sha256": "2871118a8c337c58096df7cef800ad7a485285d5a3d32a1cd92ba8e7a0fe377f"
+    },
+    {
+      "member": "flavor-images/e9eddf535a4158.original",
+      "bytes": 223543,
+      "sha256": "24e8803eb2736dab8d63cdd50dc5d5baf1b563f9ed7daa6a0514919a0d9a53b4"
+    },
+    {
+      "member": "flavor-images/photo-search-1.json",
+      "bytes": 31589,
+      "sha256": "93abc258f140ba31185ffe7d508e502ecea22e7069cf5dd5d30c05e26dcca40e"
+    },
+    {
+      "member": "flavor-images/photo-search-2.json",
+      "bytes": 30771,
+      "sha256": "a739084cf228ac72bf126aa61b67b3a5304d648c25898ecfac9a323df01b624c"
+    }
+  ]
+}
