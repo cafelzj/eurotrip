@@ -35,3 +35,5 @@
 按根目录 `AGENTS.md` 执行知识候选、外搜原件、交叉核对、采用和发布。区分正式数据、候选、已读来源、未读线索及历史记录。新的非美食中国卡片研究也从这里组织，不挪入风物候选表冒充已有证据。
 
 执行 `python scripts/index-china-research.py` 更新总索引及专题索引；执行 `node scripts/audit-china-flavor-migration.cjs` 与 `python scripts/check-research.py --local-archives` 核对现有卡片、阅读指纹及原件归档。
+
+最新补充状态：[1000条待编辑底稿与12张采用实拍](enrichment/2026-11-15-national-02-1000/README.md)。文字未通过逐项编辑前不更新正式阅读层，也不计作已完成。

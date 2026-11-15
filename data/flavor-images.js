@@ -1122,6 +1122,258 @@ window.flavorImages={
       },
       "listDisplay": true,
       "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-ec5a44afb4ba6a": {
+      "file": "乌江 涪陵榨菜.jpg",
+      "src": "assets/photos/flavors/national02-ec5a44afb4ba6a.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "涪陵榨菜实拍",
+      "caption": "涪陵榨菜实拍",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B9%8C%E6%B1%9F_%E6%B6%AA%E9%99%B5%E6%A6%A8%E8%8F%9C.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-f76f111c6f9879": {
+      "file": "老庙牛肉.jpg",
+      "src": "assets/photos/flavors/national02-f76f111c6f9879.jpg",
+      "width": 750,
+      "height": 750,
+      "kind": "food",
+      "alt": "老庙牛肉实拍",
+      "caption": "老庙牛肉实拍",
+      "author": "Sgb2y",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%80%81%E5%BA%99%E7%89%9B%E8%82%89.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-9489a6ce843f73": {
+      "file": "无锡毫茶.jpg",
+      "src": "assets/photos/flavors/national02-9489a6ce843f73.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "无锡毫茶实拍",
+      "caption": "无锡毫茶实拍",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A0%E9%94%A1%E6%AF%AB%E8%8C%B6.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-1bebfab33eb435": {
+      "file": "Lu'an Melon Seed tea.jpg",
+      "src": "assets/photos/flavors/national02-1bebfab33eb435.jpg",
+      "width": 600,
+      "height": 399,
+      "kind": "food",
+      "alt": "六安瓜片实拍",
+      "caption": "六安瓜片实拍",
+      "author": "PanShiBo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lu%27an_Melon_Seed_tea.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-429951dbeb1674": {
+      "file": "Jin Jun Mei.jpg",
+      "src": "assets/photos/flavors/national02-429951dbeb1674.jpg",
+      "width": 960,
+      "height": 960,
+      "kind": "food",
+      "alt": "武夷桐木金骏眉实拍",
+      "caption": "武夷桐木金骏眉实拍",
+      "author": "Difference engine",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-451b916d002e12": {
+      "file": "Anji bai cha leaves.jpg",
+      "src": "assets/photos/flavors/national02-451b916d002e12.jpg",
+      "width": 960,
+      "height": 960,
+      "kind": "food",
+      "alt": "安吉白茶实拍",
+      "caption": "安吉白茶实拍",
+      "author": "LinusBG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Anji_bai_cha_leaves.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-f8e2d8da6ce372": {
+      "file": "Brewed Anhua Fuzhuan Fermented Tea.jpg",
+      "src": "assets/photos/flavors/national02-f8e2d8da6ce372.jpg",
+      "width": 960,
+      "height": 960,
+      "kind": "food",
+      "alt": "安化茯砖茶汤实拍",
+      "caption": "安化茯砖茶汤实拍",
+      "author": "Kasuga",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brewed_Anhua_Fuzhuan_Fermented_Tea.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-0204acb5c54f1d": {
+      "file": "Duck shit aroma tea 4.jpg",
+      "src": "assets/photos/flavors/national02-0204acb5c54f1d.jpg",
+      "width": 960,
+      "height": 832,
+      "kind": "food",
+      "alt": "凤凰单丛鸭屎香茶叶实拍",
+      "caption": "凤凰单丛鸭屎香茶叶实拍",
+      "author": "Mx. Granger",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Duck_shit_aroma_tea_4.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-039b867f33a471": {
+      "file": "Листовой желтый чай Хошань Хуан Я.jpg",
+      "src": "assets/photos/flavors/national02-039b867f33a471.jpg",
+      "width": 960,
+      "height": 760,
+      "kind": "food",
+      "alt": "霍山黄芽实拍",
+      "caption": "霍山黄芽实拍",
+      "author": "Pannet",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9_%D1%87%D0%B0%D0%B9_%D0%A5%D0%BE%D1%88%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD_%D0%AF.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-1e73b5dda87e96": {
+      "file": "Da Hong Pao Oolong tea leaf.jpg",
+      "src": "assets/photos/flavors/national02-1e73b5dda87e96.jpg",
+      "width": 640,
+      "height": 429,
+      "kind": "food",
+      "alt": "武夷岩茶大红袍茶叶实拍",
+      "caption": "武夷岩茶大红袍茶叶实拍",
+      "author": "Iateasquirrel at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-c092fccce0aed2": {
+      "file": "陕西富平柿饼.jpg",
+      "src": "assets/photos/flavors/national02-c092fccce0aed2.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "富平柿饼实拍",
+      "caption": "富平柿饼实拍",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%99%95%E8%A5%BF%E5%AF%8C%E5%B9%B3%E6%9F%BF%E9%A5%BC.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "配图独立核对：来源明确对应实物，画面可辨识。该卡文字本轮暂缓，单独采用对应实拍。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national02-photo-98f6b0783ea159": {
+      "file": "安徽涡阳苔干 贡菜.jpg",
+      "src": "assets/photos/flavors/national02-98f6b0783ea159.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "涡阳苔干实拍",
+      "caption": "涡阳苔干实拍",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%AE%89%E5%BE%BD%E6%B6%A1%E9%98%B3%E8%8B%94%E5%B9%B2_%E8%B4%A1%E8%8F%9C.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "配图独立核对：来源明确对应实物，画面可辨识。该卡文字本轮暂缓，单独采用对应实拍。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
     }
   },
   "cards": {
@@ -1179,6 +1431,18 @@ window.flavorImages={
     "threeprov-d87117df1f16fef9f4": "national01-photo-0dc87af0f70851",
     "threeprov-26468061fb6cd8be2f": "national01-photo-59dae0e1d76c74",
     "flavor-hunan-f47c03fbe5": "national01-photo-277239fd55fe62",
-    "sg-b02a9dc7f4a7cd1b0a": "national01-photo-6013447b16a598"
+    "sg-b02a9dc7f4a7cd1b0a": "national01-photo-6013447b16a598",
+    "sw-951c36f8606efd75c7": "national02-photo-ec5a44afb4ba6a",
+    "program-33ebb0997c3e217c8e": "national02-photo-f76f111c6f9879",
+    "flavor-jiangsu-2880a536ec": "national02-photo-9489a6ce843f73",
+    "ah-guapian": "national02-photo-1bebfab33eb435",
+    "program-98427171c7bb8ea8d3": "national02-photo-429951dbeb1674",
+    "zj-anji": "national02-photo-451b916d002e12",
+    "flavor-hunan-bb9e9cf3c5": "national02-photo-f8e2d8da6ce372",
+    "threeprov-6409b8d0adf11f1502": "national02-photo-0204acb5c54f1d",
+    "flavor-anhui-f84b9ec5ec": "national02-photo-039b867f33a471",
+    "flavor-fujian-0ee4533492": "national02-photo-1e73b5dda87e96",
+    "sg-7a9e1455ca491a7fed": "national02-photo-c092fccce0aed2",
+    "flavor-anhui-2b39f7478b": "national02-photo-98f6b0783ea159"
   }
 };

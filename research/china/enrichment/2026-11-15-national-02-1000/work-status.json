@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-15",
+  "status": "partially-complete",
+  "requestedTarget": 1000,
+  "draftedCards": 1000,
+  "publishedReadingCards": 0,
+  "publishedNewPhotoCards": 12,
+  "goalReached": false,
+  "remaining": "尚未完成1000张卡片的文字与图片补齐；程序匹配底稿全部待逐项编辑，缺图保留待补。",
+  "runtimeReadingUnchanged": true,
+  "originalCatalogUnchanged": true
+}

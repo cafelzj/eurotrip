@@ -69,7 +69,9 @@ for n in read(B/'image-review.json')['records']:
  assert n['itemId']in coverage['illustratedItemIds'];asset=photos['assets'][n['assetId']]
  assert asset['source']and asset['license']and asset['author']and asset['visualReview']['status']=='approved'
  assert sha(R/n['originalResponseFile'])==n['originalSha256'];assert sha(R/n['metadataFile'])==n['metadataSha256'];assert sha(R/asset['src'])==n['derivativeSha256']
-assert not ({p['itemId']for p in coverage['missingCards']} & set(photos['cards']))
+# Historical gaps may only be filled by an explicit later photo-adoption receipt.
+later={r['itemId']for p in (R/'research/china/enrichment').glob('*/photo-adoption.json')for r in read(p)['records']if r['status']=='adopted'}
+assert ({p['itemId']for p in coverage['missingCards']} & set(photos['cards']))<=later
 exact=read(B/'image-exact-search.json');assert set(exact['coverage'])=={i['id']for i in new}
 assert len(exact['queries'])==71 and all(q['status']=='search-only-awaiting-visual-review'for q in exact['queries'])
 for q in exact['queries']:assert sha(R/q['responseFile'])==q['responseSha256']

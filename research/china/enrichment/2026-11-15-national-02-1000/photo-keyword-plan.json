@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-15",
+  "note": "补查译名/别名仅作检索线索；需逐图核对主体，不把英文命中视为对应实物已确认。",
+  "jobs": [
+    {
+      "itemId": "flavor-henan-4d83ee5060",
+      "name": "仰韶酒",
+      "province": "henan",
+      "city": "三门峡",
+      "type": "alcohol",
+      "oldCharacters": 47,
+      "query": "Yangshao liquor"
+    },
+    {
+      "itemId": "flavor-hunan-5f7d47eef2",
+      "name": "常德酱板鸭",
+      "province": "hunan",
+      "city": "常德",
+      "type": "dishes",
+      "oldCharacters": 52,
+      "query": "Changde sauce duck"
+    },
+    {
+      "itemId": "flavor-heilongjiang-fe3d016f97",
+      "name": "北大仓酒",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "type": "alcohol",
+      "oldCharacters": 50,
+      "query": "Beidacang liquor"
+    },
+    {
+      "itemId": "flavor-shandong-6ef68e0b51",
+      "name": "景阳冈酒",
+      "province": "shandong",
+      "city": "聊城",
+      "type": "alcohol",
+      "oldCharacters": 56,
+      "query": "Jingyanggang liquor"
+    },
+    {
+      "itemId": "program-5d258ae7d0a9ed8ce4",
+      "name": "唐山骨质瓷",
+      "province": "hebei",
+      "city": "唐山",
+      "type": "crafts",
+      "oldCharacters": 165,
+      "query": "Tangshan bone china"
+    },
+    {
+      "itemId": "regional-1231d2f2dd807d",
+      "name": "万安罗盘",
+      "province": "anhui",
+      "city": "黄山",
+      "type": "crafts",
+      "oldCharacters": 78,
+      "query": "Wanan compass"
+    },
+    {
+      "itemId": "sg-4c3026e9896c71117b",
+      "name": "环县皮影",
+      "province": "gansu",
+      "city": "庆阳",
+      "type": "crafts",
+      "oldCharacters": 275,
+      "query": "Huanxian shadow puppetry"
+    },
+    {
+      "itemId": "sw-951c36f8606efd75c7",
+      "name": "涪陵榨菜",
+      "province": "chongqing",
+      "city": "重庆",
+      "type": "seasoning",
+      "oldCharacters": 277,
+      "query": "Fuling zhacai"
+    },
+    {
+      "itemId": "ah-huainan-tofu",
+      "name": "八公山豆腐",
+      "province": "anhui",
+      "city": "淮南",
+      "type": "dishes",
+      "oldCharacters": 58,
+      "query": "Bagongshan tofu"
+    },
+    {
+      "itemId": "sw-9f78db084f2f5f4b97",
+      "name": "东坡肘子(眉山产区)",
+      "province": "sichuan",
+      "city": "眉山",
+      "type": "dishes",
+      "oldCharacters": 175,
+      "query": "Dongpo pork elbow"
+    },
+    {
+      "itemId": "threeprov-111703f26ace9e3829",
+      "name": "梧州腊肠",
+      "province": "guangxi",
+      "city": "梧州",
+      "type": "dishes",
+      "oldCharacters": 242,
+      "query": "Wuzhou sausage"
+    },
+    {
+      "itemId": "ah-guapian",
+      "name": "六安瓜片",
+      "province": "anhui",
+      "city": "六安",
+      "type": "tea",
+      "oldCharacters": 45,
+      "query": "Lu'an Melon Seed Tea"
+    },
+    {
+      "itemId": "sg-f525d39f124f9a3290",
+      "name": "泾阳茯砖茶",
+      "province": "shaanxi",
+      "city": "咸阳",
+      "type": "tea",
+      "oldCharacters": 269,
+      "query": "Jingyang Fuzhuan tea"
+    },
+    {
+      "itemId": "regional-9650e686ca9d8e",
+      "name": "大兴西瓜",
+      "province": "beijing",
+      "city": "北京",
+      "type": "ingredients",
+      "oldCharacters": 370,
+      "query": "Daxing watermelon"
+    },
+    {
+      "itemId": "sw-24e0c2451e482caea3",
+      "name": "自贡冷吃兔",
+      "province": "sichuan",
+      "city": "自贡",
+      "type": "dishes",
+      "oldCharacters": 150,
+      "query": "Zigong cold rabbit"
+    },
+    {
+      "itemId": "threeprov-1c5b7341adafa3e1b1",
+      "name": "香云纱",
+      "province": "guangdong",
+      "city": "佛山",
+      "type": "crafts",
+      "oldCharacters": 128,
+      "query": "gambiered Guangdong silk"
+    },
+    {
+      "itemId": "threeprov-3403cada12750a26a0",
+      "name": "六堡茶",
+      "province": "guangxi",
+      "city": "梧州",
+      "type": "tea",
+      "oldCharacters": 430,
+      "query": "Liubao tea"
+    },
+    {
+      "itemId": "flavor-fujian-dceb317e49",
+      "name": "政和白茶",
+      "province": "fujian",
+      "city": "南平",
+      "type": "tea",
+      "oldCharacters": 374,
+      "query": "Zhenghe white tea"
+    },
+    {
+      "itemId": "threeprov-483059b66209190284",
+      "name": "狗牯脑茶",
+      "province": "jiangxi",
+      "city": "吉安",
+      "type": "tea",
+      "oldCharacters": 393,
+      "query": "Gugunao tea"
+    },
+    {
+      "itemId": "program-98427171c7bb8ea8d3",
+      "name": "武夷红茶",
+      "province": "fujian",
+      "city": "南平",
+      "type": "tea",
+      "oldCharacters": 388,
+      "query": "Wuyi black tea"
+    },
+    {
+      "itemId": "flavor-jiangsu-a11e87e6b5",
+      "name": "阳羡雪芽",
+      "province": "jiangsu",
+      "city": "无锡",
+      "type": "tea",
+      "oldCharacters": 436,
+      "query": "Yangxian Xueya"
+    },
+    {
+      "itemId": "zj-anji",
+      "name": "安吉白茶",
+      "province": "zhejiang",
+      "city": "湖州",
+      "type": "tea",
+      "oldCharacters": 457,
+      "query": "Anji white tea"
+    },
+    {
+      "itemId": "threeprov-c610ba09f20b2c23e9",
+      "name": "黄圃腊味",
+      "province": "guangdong",
+      "city": "中山",
+      "type": "dishes",
+      "oldCharacters": 278,
+      "query": "Huangpu preserved meat"
+    },
+    {
+      "itemId": "program-abbb99b8214f377a2d",
+      "name": "福鼎白茶",
+      "province": "fujian",
+      "city": "宁德",
+      "type": "tea",
+      "oldCharacters": 460,
+      "query": "Fuding white tea"
+    },
+    {
+      "itemId": "program-99e5df23952ac77c15",
+      "name": "松萝茶",
+      "province": "anhui",
+      "city": "黄山",
+      "type": "tea",
+      "oldCharacters": 354,
+      "query": "Songluo tea"
+    },
+    {
+      "itemId": "flavor-hunan-bb9e9cf3c5",
+      "name": "安化黑茶",
+      "province": "hunan",
+      "city": "益阳",
+      "type": "tea",
+      "oldCharacters": 367,
+      "query": "Anhua dark tea"
+    },
+    {
+      "itemId": "threeprov-39a4dc597f39b37a0f",
+      "name": "伦教糕",
+      "province": "guangdong",
+      "city": "佛山",
+      "type": "staples",
+      "oldCharacters": 224,
+      "query": "Lunjiao cake"
+    },
+    {
+      "itemId": "sw-1522cf53cedd524f55",
+      "name": "合川桃片",
+      "province": "chongqing",
+      "city": "重庆",
+      "type": "staples",
+      "oldCharacters": 489,
+      "query": "Hechuan peach slices"
+    },
+    {
+      "itemId": "threeprov-6409b8d0adf11f1502",
+      "name": "凤凰单丛(枞)茶",
+      "province": "guangdong",
+      "city": "潮州",
+      "type": "tea",
+      "oldCharacters": 331,
+      "query": "Phoenix Dancong tea"
+    },
+    {
+      "itemId": "threeprov-07c6aeb33053b41eb9",
+      "name": "岭头单丛茶",
+      "province": "guangdong",
+      "city": "潮州",
+      "type": "tea",
+      "oldCharacters": 363,
+      "query": "Lingtou Dancong"
+    },
+    {
+      "itemId": "threeprov-d56a961c2cac1e5cb9",
+      "name": "修水宁红茶",
+      "province": "jiangxi",
+      "city": "九江",
+      "type": "tea",
+      "oldCharacters": 332,
+      "query": "Ninghong tea"
+    },
+    {
+      "itemId": "threeprov-7728e3d3cfefa9d4a1",
+      "name": "潮州手拉朱泥壶",
+      "province": "guangdong",
+      "city": "潮州",
+      "type": "crafts",
+      "oldCharacters": 333,
+      "query": "Chaozhou Zhuni teapot"
+    },
+    {
+      "itemId": "regional-ad39dcae425592",
+      "name": "沾化冬枣",
+      "province": "shandong",
+      "city": "滨州",
+      "type": "ingredients",
+      "oldCharacters": 338,
+      "query": "Zhanhua winter jujube"
+    },
+    {
+      "itemId": "regional-141a37b5a5b054",
+      "name": "海伦大豆",
+      "province": "heilongjiang",
+      "city": "绥化",
+      "type": "ingredients",
+      "oldCharacters": 355,
+      "query": "Hailun soybeans"
+    },
+    {
+      "itemId": "sg-069533e55712f9c0c9",
+      "name": "金徽酒",
+      "province": "gansu",
+      "city": "陇南",
+      "type": "alcohol",
+      "oldCharacters": 368,
+      "query": "Jinhui liquor"
+    },
+    {
+      "itemId": "flavor-anhui-f84b9ec5ec",
+      "name": "霍山黄芽",
+      "province": "anhui",
+      "city": "六安",
+      "type": "tea",
+      "oldCharacters": 413,
+      "query": "Huoshan Huangya"
+    },
+    {
+      "itemId": "flavor-fujian-0ee4533492",
+      "name": "武夷岩茶",
+      "province": "fujian",
+      "city": "南平",
+      "type": "tea",
+      "oldCharacters": 410,
+      "query": "Wuyi Rock Tea"
+    }
+  ]
+}

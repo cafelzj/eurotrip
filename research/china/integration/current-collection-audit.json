@@ -7,7 +7,7 @@
   "expectedFlavors": 6497,
   "verifiedFlavors": 6497,
   "unifiedChinaCards": 6627,
-  "retainedPhotoCards": 55,
+  "retainedPhotoCards": 67,
   "enrichedChineseCards": 24,
   "reviewedReadingUpdates": [
     {
@@ -179,7 +179,7 @@
     },
     {
       "path": "data/flavor-images.js",
-      "sha256": "de324752c182598748624cc5f153375e413aee694b17d2b939ae7193b891f854"
+      "sha256": "caf67d9f2818f7fef1e8e1ab7a49d847dbf08fb43c06ffd2f28457fb5678eb84"
     },
     {
       "path": "data/china-cards.js",

@@ -1,0 +1,4331 @@
+{
+  "date": "2026-11-15",
+  "originalTargets": 1000,
+  "held": 359,
+  "retainedOriginalTargets": 641,
+  "sourceLedReplacements": 359,
+  "finalTargets": 1000,
+  "noveltyMethod": "将来源语句与原简记作规范化连续片段比较，统计长度至少8字的新片段；每条正文至少40字这类新增连续信息，不将同义改写或重新排序当新增事实。",
+  "records": [
+    {
+      "itemId": "program-c9eddd92693cdb430f",
+      "name": "坦洋工夫",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-shandong-6ef68e0b51",
+      "name": "景阳冈酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-389c4b237aff83",
+      "name": "京西稻",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5b960aed3ef610da28",
+      "name": "嘉定梅山猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-shanxi-468ea651d5",
+      "name": "太谷饼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-ef7b3a8d5e63eaea20",
+      "name": "合浦大月饼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-6c4ae24f6bc8ad9290",
+      "name": "崇义南酸枣糕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ae4302fab9aa455e6d",
+      "name": "富裕老窖酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-36027fffb88eac9f1d",
+      "name": "丁马甲鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-c54a39b795b05adc69",
+      "name": "迁安桑皮纸(迁纸)",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ab38b54d8c20c02af0",
+      "name": "襄垣手工挂面",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2420fa60194e34c079",
+      "name": "法库牛肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-4372c77ac9a10c5607",
+      "name": "潼南萝卜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-3648dfb11173174a59",
+      "name": "普洱茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-1ad75b1045d2aedb9a",
+      "name": "清镇黄粑",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-521f17cb96477200b3",
+      "name": "大埔青花瓷",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d3c59d7db78ce0fc29",
+      "name": "仰韶柿饼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-864677f5ea5d328886",
+      "name": "石洞彩苹果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-250f6b849fe5eb9409",
+      "name": "周礼粉条",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-549ff4a8451701c149",
+      "name": "杉荷园莲藕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-8a328b6883fb57043c",
+      "name": "北京鸭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e5235698373adb4c6b",
+      "name": "云和黑木耳",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7ab50c47e5166c4570",
+      "name": "张北莜麦",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-bd45324b6640d99277",
+      "name": "铜梁莲藕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-76bf786779de075042",
+      "name": "富顺豆花蘸水",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-ddbb783925d765220c",
+      "name": "泗纶蒸笼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-16a167fde999889a64",
+      "name": "弶港文蛤",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-e2fe84602192f7",
+      "name": "舒兰大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-3bc7a5ecb9dd5ed394",
+      "name": "围场胡萝卜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7596cbd4047e6d7c5d",
+      "name": "神池胡油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-e6bec1f97815a25ad7",
+      "name": "迭部羊肚菌",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-68cb46629035d00163",
+      "name": "建昌板鸭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c5fa1a5ee2c0ddb7f4",
+      "name": "昌宁红茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-4cbdd1c525f97b4582",
+      "name": "玉林牛巴",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-d5702069dd6cfa0dc9",
+      "name": "占圩红薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-8d959abf825c7ec9bf",
+      "name": "讷河甜菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5ccfcf8703f51c27ac",
+      "name": "漳平青仁乌豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-14f844489ddb0fe019",
+      "name": "白庙芋头",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-3ae9804b63845fed35",
+      "name": "海门大红袍赤豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-a8c445eebfacd3",
+      "name": "庞各庄金把黄鸭梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-620e2bd7bf174e9f40",
+      "name": "延边大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d9d742b94249c80008",
+      "name": "庄河大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-5c5f6f67d6a33d8dc3",
+      "name": "秦安蜜桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-7f33c74943d7d11797",
+      "name": "秀山茶叶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-0f3c5c93c6e8960818",
+      "name": "英德红茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-4b690f0b39e8ce35de",
+      "name": "湖口豆豉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-9008a29641b616c5b8",
+      "name": "辉县山楂",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7498fd9545d6a2ef7b",
+      "name": "醴陵瓷器",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fbe21ab0bf207ecdfc",
+      "name": "讷河马铃薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-bc6ee081f3047b9fc2",
+      "name": "金湖乌凤鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-72e648cf37307dbf30",
+      "name": "沂水大樱桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d684543f159626b154",
+      "name": "仰化荷藕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5b9e7a9b06dd9db141",
+      "name": "延庆葡萄",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e5817f23de420cd670",
+      "name": "闻喜莲藕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-a14dd4987ccebe40a2",
+      "name": "安康猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-d8468bb9e789660b2d",
+      "name": "顺德红米酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-3751459c370c291026",
+      "name": "王桥花果芋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-91e9842dbbf3497226",
+      "name": "五里岭酥梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-702d8d8549025e0edd",
+      "name": "龙坪油面",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a9427eba6178807d2e",
+      "name": "清流溪鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b653b57f92f4ec3b11",
+      "name": "鱼台毛木耳",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-dbd607e2ea53bf4ddc",
+      "name": "东台西瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7d92c5916d8e9dd59b",
+      "name": "千岛银珍",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-c6c03e7bc4c459b53f",
+      "name": "桦甸黄牛肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-75210e0c46cfb98823",
+      "name": "仙人红薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-73a5fa6a5d14c41790",
+      "name": "横山羊肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-1a9cefcf31b7b4c79c",
+      "name": "万州罗田大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-8fe363a030349d5d62",
+      "name": "坡柳娘娘茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-c481f36213562703aa",
+      "name": "铅山红芽芋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-4a6c0e9f31054e9e77",
+      "name": "会同竹笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a9eaa234109cd3cd70",
+      "name": "鹤岗白酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-88aef3a06c7f3289c4",
+      "name": "如皋火腿",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7f7da84bb8bb09dedb",
+      "name": "大安香瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-78f7e2c3c0bb95ca8b",
+      "name": "大厂肥牛",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-c8d472d1a22ec2",
+      "name": "彭镇青扁豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-84e91dac4e0945095b",
+      "name": "梧桐山药",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-55a888a77ad5f56643",
+      "name": "淳化荞麦",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-d60810c01d22abffb6",
+      "name": "南川方竹笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-5fc150009929057cae",
+      "name": "七舍茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7b2f133fb635ea0845",
+      "name": "延津黑豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-12bca5279636523ac3",
+      "name": "东宁黑木耳",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f35ae13367b43aee79",
+      "name": "吉林高粱酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a2aa9552198a0970f4",
+      "name": "应县胡萝卜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-6e3ae81fcd83a8d7e1",
+      "name": "榆林豆腐",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-4e5a00c029291fcfb4",
+      "name": "南涧无量山乌骨鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-3e9da507a6ec04a653",
+      "name": "九层山茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-c610ba09f20b2c23e9",
+      "name": "黄圃腊味",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5f6e3d85912ccc42cb",
+      "name": "茶亭沟红薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fd1350535b9d2d27bf",
+      "name": "平水日铸茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-ec4fec9850755c",
+      "name": "乾安黄小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-376acc28cfaf9a81aa",
+      "name": "阳原鹦哥绿豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-5ae51ae140f92b",
+      "name": "亭林雪瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f52b29120c5dc9ec0c",
+      "name": "广灵苦荞",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-8e77b171b50c3735cf",
+      "name": "武隆高山马铃薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-e197be090b88e4dbb4",
+      "name": "普安红茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-04935ae2bcac332fa7",
+      "name": "靖安白茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fe851d7994704219c6",
+      "name": "河横大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a9bca5b2b53842d77f",
+      "name": "乾安羊肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-264f2621d14e5d",
+      "name": "三林崩瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-9d1475d07c73a3f889",
+      "name": "吴起荞麦香醋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-decb6c3c5978d1e2e7",
+      "name": "晴隆绿茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-d3f8daaa6db32ce9bd",
+      "name": "三湖红桔",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b0b7f73b3a19255fff",
+      "name": "诏安八仙茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-3cb1b42b807f3f8828",
+      "name": "盟台宴酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-jiangsu-d82b6671a6",
+      "name": "阜宁大糕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b84cad3edee68ef62b",
+      "name": "白城油葵",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-18111cab427d53d5c3",
+      "name": "石门核桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-8146bbd27c2ad3d3b0",
+      "name": "神池胡麻",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c800f00fc9905b6b8c",
+      "name": "仪陇大山香米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c8df4ce82a4cecc9c0",
+      "name": "文山牛",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-bdb1f18a65b6228dd9",
+      "name": "兴国灰鹅",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7beba680bc0a21feab",
+      "name": "泰兴花生",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d7cc4a3a3bb4747641",
+      "name": "白山蓝莓",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-354feb75d54c972dbe",
+      "name": "崇礼蚕豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-d35aa0a346",
+      "name": "舒城小兰花",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2a2437bd931b62e66b",
+      "name": "隰县梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-474ba0817c403835e2",
+      "name": "清池茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-0542c736a927e1ff71",
+      "name": "东莞腊肠",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7834810d23f72c5ad2",
+      "name": "上杭乌梅",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-11b8679a3b95cf",
+      "name": "柳河山葡萄",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0e0d549d73a754dcf3",
+      "name": "隆化大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-55cc5c4d6ba8635def",
+      "name": "七里坡山楂",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-4360a0135d0f5f388b",
+      "name": "庆阳白瓜子",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-47cc3f2e555ba69d1f",
+      "name": "大荔黄花菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-590c61081235890527",
+      "name": "武隆高山甘蓝",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-863daaffbda222eddd",
+      "name": "巴山土鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-aaeb4ed6230cf0b0a0",
+      "name": "湄潭翠芽",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-c1cfa3facb6e8bb229",
+      "name": "孟津梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-9c3b8d35b8130df564",
+      "name": "兰西民猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-3523d28c453f158b29",
+      "name": "来凤漆筷",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5eac2136ceceac1f57",
+      "name": "鸠坑茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b82539afd678c2eb61",
+      "name": "芮城花椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2d771aafb1f98ac802",
+      "name": "庄河牡蛎",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-7a9e1455ca491a7fed",
+      "name": "富平柿饼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-9848bf2f42e5c6ba2b",
+      "name": "遵义红茶(遵义红)",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-24d3f7b1057b5e46de",
+      "name": "灵山绿茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-66bbfa8dcd0a3aa635",
+      "name": "桃源红茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-6d1311de2ee61fef83",
+      "name": "坂里龙柚",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-9812e976551bc89a66",
+      "name": "剑门关豆腐",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f387021943a236f9a9",
+      "name": "宁化薏米(宁化糯薏米)",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-32164e9f8ebd6c1c35",
+      "name": "夏津椹果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-dfa1263512f23f52a1",
+      "name": "南宫黄韭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-45e1ece8f0c6812b18",
+      "name": "稻城藏香猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-f9b8f1e02cd1a2691d",
+      "name": "回龙藠头",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-b957a53163462b34f0",
+      "name": "覃塘毛尖茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ccdcf805f371011911",
+      "name": "嵩县银杏",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f6d431eb9bf05882d7",
+      "name": "延寿粘玉米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-624c221213618bc072",
+      "name": "洪湖界牌黄豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-8d4c26fbf320c0b064",
+      "name": "鸡泽辣椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-92feef0fe8a3746190",
+      "name": "大伙房水库鳙鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-8539ba6de3aed94d43",
+      "name": "宜宾酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-23a7b7b7659de4f504",
+      "name": "安顺山药",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-cc67a7702778bcf329",
+      "name": "郧西黄姜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-650bd4d772e5f10978",
+      "name": "威海海参",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-948d1083bcebf97adc",
+      "name": "海门大白皮蚕豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-db9cf1c2b5f3372baf",
+      "name": "漫河西瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-0838a475ed352aa249",
+      "name": "永昌肉羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-be20ca7e4ea85165d7",
+      "name": "开县锦橙",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-108c159fb0cc71170c",
+      "name": "东乡甘蔗",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-6f3e213f366add9b65",
+      "name": "沙洋长湖河蟹",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5d63311a3739bad52f",
+      "name": "永安黄椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d8b59154cbff934dfe",
+      "name": "威海海带",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-62a38527a859e0df67",
+      "name": "祁山药",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-309fc1c656e61078ab",
+      "name": "湾沚山芋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f78b207b1190677c45",
+      "name": "海洋岛海参",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-d56a961c2cac1e5cb9",
+      "name": "修水宁红茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-85d16fcda57c003acf",
+      "name": "云梦鱼面",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f368225b9c134b0072",
+      "name": "大伙房水库鲤鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-1a46b988ee30d22396",
+      "name": "宣汉牛肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-b6b049199d57136a62",
+      "name": "宜春夏布",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-be622badcb3ee967d4",
+      "name": "酒鬼酒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-5cbdae369fea2e",
+      "name": "海伦大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-48a36b8bbedc9ad996",
+      "name": "莆田桂圆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0dade0ce5dffab0872",
+      "name": "无棣驴",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ce9f5a15e11315e505",
+      "name": "陵川黑山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-liaoning-75946e9f23",
+      "name": "庄河杂色蛤",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-7ed68a362959bcba30",
+      "name": "洱源梅子",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-4710f0a7b42ee01df6",
+      "name": "资溪白茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fa83817c46aac0c467",
+      "name": "肇州大瓜子",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-31571761879a0f2b80",
+      "name": "诏安红星青梅",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-c8ea6b66551333c7d0",
+      "name": "启东绿皮蚕豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-83769f11bb",
+      "name": "铜陵白姜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c54a3d5b078e9cf216",
+      "name": "空山马铃薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-0a89d8f8c480ef9614",
+      "name": "紫云春茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-ce6964fa566c74d911",
+      "name": "黎川黎米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-912a7cbc3df0e47e9f",
+      "name": "富锦大豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f129042c62e3c10a4b",
+      "name": "潼阳西瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f4053785385f549eb0",
+      "name": "溪口雷笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f87616f74db10e131f",
+      "name": "化石戈小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-86d8226d147cf5ef6c",
+      "name": "平利女娲茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-88d174314f716bcb8b",
+      "name": "马湖莼菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-a6c8796dc14220764b",
+      "name": "楚雄撒坝猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-4f0fd77c034f654615",
+      "name": "罗甸玉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7bd47927ca74b7e0af",
+      "name": "恩施玉露",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d9706e4395c48f3292",
+      "name": "启东沙地山药",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-20f9141d030318c491",
+      "name": "五合茶叶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7c1421a24fd2e245c3",
+      "name": "泗交黑木耳",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-fb62f1746b6740",
+      "name": "东港梭子蟹",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-50e7d3f49061d0b92e",
+      "name": "巴南接龙蜜柚",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-d45b558663a3293d6f",
+      "name": "双流冬草莓",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-360ee4cd6830b42341",
+      "name": "盘州红米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d65e95d599b378b91f",
+      "name": "烟台海参",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b0f9818f7ab8d4ebf4",
+      "name": "金山翠芽",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-237960ffcf3165f4fe",
+      "name": "皋兰红砂洋芋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-dfacd12ecbb77d9a4d",
+      "name": "万源富硒茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d9dea3f8d05b39f74b",
+      "name": "泌阳夏南牛",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-edda824f8e6e8c0dac",
+      "name": "百丈潭茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fb9c79c5fa74cb3489",
+      "name": "长兴吊瓜籽",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-dd41be8deb",
+      "name": "涌溪火青",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-03cf9c71ef2c604238",
+      "name": "西回小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-2548b41fe102f1351d",
+      "name": "合阳九眼莲",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-64215bae8806521b39",
+      "name": "宝清红小豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a2405fe1c36264a1c5",
+      "name": "平和白芽奇兰",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f9b3b1a9f178aa874a",
+      "name": "烟台鲍鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-91d7897a5ccd047f9b",
+      "name": "平陆苹果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-9d249487004b835903",
+      "name": "汉中大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-fae62a22c37508d7eb",
+      "name": "关岭牛",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-deccac0545abf38958",
+      "name": "高州桂圆肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-806cfc4ef0339afcf0",
+      "name": "玉林香蒜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-e857efd8a74a1fbe5c",
+      "name": "南康甜柚",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-eef020f8c276fd30b9",
+      "name": "永州山苍子油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-141a37b5a5b054",
+      "name": "海伦大豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0c30096d68901311dc",
+      "name": "析城山小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-2cf09aa81d619f008b",
+      "name": "柞水核桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c4f34e0626dd2a1a39",
+      "name": "贞丰四月李",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-88ab501cacf082ecbf",
+      "name": "顺德鳗鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fac835789a3bbd2d2d",
+      "name": "龙游麻鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-63d8fdf3556763893d",
+      "name": "黄岗柳编",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-336efb8f5afaa23b81",
+      "name": "西牛麻竹笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-4022ab260453a4b7f3",
+      "name": "西山茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-92bd0c079f480d25b1",
+      "name": "太青双上绿芽茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-facf5dc3601f55f83d",
+      "name": "龙池砚",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ecbbbef1513e80a433",
+      "name": "潼阳花生",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e4e69697c644e7d956",
+      "name": "耿庄大蒜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-038d9750f5d66a060a",
+      "name": "靖远旱砂西瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-630dd0b08bfa06595a",
+      "name": "安康花鲢",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c468952dfbc7e384d8",
+      "name": "保基茶叶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "county-4ce399fd5267c3",
+      "name": "汉寿玉臂藕",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-4fc6bbefeaee40de1b",
+      "name": "棠张桑果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-2b39f7478b",
+      "name": "涡阳苔干",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-107574c5173ebf0e72",
+      "name": "虾子辣椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-10cc414dbbdcf7b37b",
+      "name": "抚远“黑龙江大马哈鱼”鱼子",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b6082df6c102d0f163",
+      "name": "南乡萝卜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b4a94d047dfb6494fe",
+      "name": "贾汪大洞山石榴",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-bbb7dd90488ef03b3d",
+      "name": "沁水黄小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-b2214126551bc0112f",
+      "name": "崇庆枇杷茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-6291a5242dd8a51b67",
+      "name": "恭城月柿",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-1d3108a93e7c3273e9",
+      "name": "浮梁茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-09477c32acd8d8c317",
+      "name": "瓦儿岗七星椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-73108871cf4acbf9eb",
+      "name": "抚远鳌花鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-12df552abb24a2fd2b",
+      "name": "永宁青虾",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-90d1c1fefadb63a539",
+      "name": "泗县金丝绞瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-9fc3de882d446610fc",
+      "name": "繁峙黄米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-aa0265304c4d86b2d2",
+      "name": "合川湖皱丝瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-d8442db36dca585a91",
+      "name": "德阳酱油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c20df696820e3a9644",
+      "name": "锦屏茶油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-a9891b5737ed2a0426",
+      "name": "兴国红鲤",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-65846d2a836ae795fc",
+      "name": "樟树港黄瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7f01e4e3459627311d",
+      "name": "佳木斯大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2c9aa2e2e7379d8eea",
+      "name": "泰兴江沙蟹",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-6ec276f848",
+      "name": "滁菊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-883a97d532efb1101d",
+      "name": "洪雅绿茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-504fb1244a50c69cfe",
+      "name": "威宁苹果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-679d21c0e132c1eb98",
+      "name": "贺街淮山",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-c2769f5baf16a938ff",
+      "name": "弋阳大禾谷",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a7e4ccc94649b4bf20",
+      "name": "刁翎甜瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e1c0fcd2e2ea10f9a5",
+      "name": "海门山羊肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0a438d372aa86fa521",
+      "name": "沁水黑木耳",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-cfb8ef7b676d691f1f",
+      "name": "赵屯小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-2d5c78183f7fdb1928",
+      "name": "宁陕香菇",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-a5229b9e251fc70f1f",
+      "name": "赫章红花山茶油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-7437404de7a1f8804a",
+      "name": "梅江区清凉山茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a82caa6e0d73b9228e",
+      "name": "麻城福白菊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-455df1827077737c1e",
+      "name": "如东蘘荷",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-4ee955149588c3dac0",
+      "name": "肃北雪山羊肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-5ff4608e9f26643d3a",
+      "name": "宜君玉米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-0196bd19e4a7441bf8",
+      "name": "兴仁牛干巴",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-81a32b750a820cfa8f",
+      "name": "南雄板鸭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-c99b88de1f6335ff0c",
+      "name": "余干辣椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-300d493bcb1166e774",
+      "name": "遂平香椿",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-6f186d436e041d5c71",
+      "name": "古龙小米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-8dcf7f240fe9c3d30e",
+      "name": "沁州核桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-337103c6366adf6392",
+      "name": "沿溪山白毛尖",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-47cd1bd200a2d773a4",
+      "name": "隆林板栗",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-c168334dc08d721c9d",
+      "name": "丰城麻鸭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-74a11bc814b88aaaf5",
+      "name": "沁水黑山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2cad961f44f5afee4f",
+      "name": "大连虾夷扇贝",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-0bc0ec405c2d430edc",
+      "name": "兰州冬果梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-54a6996580b572189b",
+      "name": "墨江紫米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-b05bf4d7c5ffe5b799",
+      "name": "徐闻山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-666d134804e897ad7b",
+      "name": "靖西大香糯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-40fbaf808c3b94ab44",
+      "name": "乐平花猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-21a88e796a17f6e418",
+      "name": "淮阳黄花菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a7765e10f4f2dda717",
+      "name": "望奎大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a8a2f9a0aeb0195f7f",
+      "name": "枣树行玉铃铛枣",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-7ca763cee5a47ac4d4",
+      "name": "洋县槐树关红薯",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-e7735c1b52e578b33b",
+      "name": "高良苡仁米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-1ba6efc2cf2e5c3473",
+      "name": "大桥石鲤",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-dc44b6a097f7a2ac4d",
+      "name": "南城淮山",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-bacb7481b248b03467",
+      "name": "勃利蓝靛果",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-ed466a2f585c3fe581",
+      "name": "桂林腐竹",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-0ccac0a2570e5aaecc",
+      "name": "玉山香榧",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f76977ac19e3b4cbfb",
+      "name": "新野大白菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-5c7e01d3e7b3d2f271",
+      "name": "红星水库鲢鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-255e453f9cb1d7028f",
+      "name": "朱口小籽花生",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-df64a2bd30ff7ef59c",
+      "name": "高庄芹菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e2776e1553a3fc732a",
+      "name": "杨庙雪菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b475b3ec36ee02e552",
+      "name": "长丰草莓",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-cea57a0dd9158192ba",
+      "name": "涑川茼蒿",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "regional-ca90d4d9218b1f",
+      "name": "彰武黑豆",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-601fa0e6fa73fe7e8e",
+      "name": "资中冬尖",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-c3ce801ae40bc31982",
+      "name": "保山小粒咖啡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-f6bc805abb75ab2463",
+      "name": "蕉岭冬笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-1e82ef168226093841",
+      "name": "瑞昌山药",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7b7b4c67137b34f259",
+      "name": "浏阳黑山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-dc18d49b8c2d2205e0",
+      "name": "鹤峰茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-ccb4f44a2758b70dc9",
+      "name": "德化黑羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-21f13fdc8bf9cf2dfc",
+      "name": "林苗圃早酥梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-fe856436127f05d12c",
+      "name": "灵丘大青背山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-6e53acfd663376e60d",
+      "name": "都江堰茶叶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-1df5d67689efbc15b0",
+      "name": "火红黑山羊",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-b26f456e6c0cfd4e16",
+      "name": "天峨六画山鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0dc0f60b0736516657",
+      "name": "金甲岭萝卜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-a483eee4d3bf311cab",
+      "name": "林口滑子蘑",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-2085ff032ee1f83af6",
+      "name": "来凤凤头姜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-d77809b55e0bd1e073",
+      "name": "仪征紫菜薹",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-7165760f9c51e71fff",
+      "name": "义乌红糖",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-001de257644b036514",
+      "name": "枞阳媒鸭",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-30069a43ac542997dc",
+      "name": "绛县山楂",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-8194fb7c0502011be6",
+      "name": "永昌啤酒大麦",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-613a066bde4200c754",
+      "name": "云龙矮脚鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-4e57cb39f632c74348",
+      "name": "矮陂梅菜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-81b5c0485316bb5e0f",
+      "name": "曹镇大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-090af8e998921b7e33",
+      "name": "七台河大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-e3116314b1eaf26c08",
+      "name": "高官寨甜瓜",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0a75a7a0b2487bf477",
+      "name": "云和雪梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-4b1fcdfde2b20cb59e",
+      "name": "旌德天山真香茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-78b61921efc14bcaea",
+      "name": "张家川乌龙头",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sw-65f1c6a86106bc069a",
+      "name": "砚山小粒花生",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-2ba39041c64506cf02",
+      "name": "凤山核桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-35755df6a675d3d824",
+      "name": "峡江水牛",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-1db1605d297379aaab",
+      "name": "内黄尖椒",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-f6431fad850454e53e",
+      "name": "洪江雪峰乌骨鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-6d5eabfb1c8890cffe",
+      "name": "兴凯湖大米",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-0e2bac8df23b1a27fa",
+      "name": "惠安余甘",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-6dc13fbf5376370792",
+      "name": "东赵小白梨",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-fb945b43cd33f8df99",
+      "name": "榆中菜花",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-5e1225f5b48741ef04",
+      "name": "镇巴花魔芋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-807d5b8085a2e45728",
+      "name": "灵山香鸡",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-365e84e5ec6282f6f3",
+      "name": "上饶山茶油",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-544841ebe22d4bb489",
+      "name": "抚远鳇鱼",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-fddd6c44aa",
+      "name": "霍山黄大茶",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-283aeddf174b6d1541",
+      "name": "汉中白猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "threeprov-1e3d64d7f0a98805da",
+      "name": "乐安竹笋",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-678d183dfcf4800347",
+      "name": "莱芜猪",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-b08ddbf5ceae160e58",
+      "name": "凤凰水蜜桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "flavor-anhui-5c61c7c1cf",
+      "name": "宁国山核桃",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-30aeed1b713bb428b9",
+      "name": "右玉羊肉",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "sg-294847ac6a7c990b25",
+      "name": "大荔冬枣",
+      "action": "hold-original-target",
+      "reason": "表格语境、原文残缺、数值提取歧义、生产用药语句或新增信息不足，保留待补。"
+    },
+    {
+      "itemId": "program-940d0626340f6e911e",
+      "name": "三河米酒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-e7313020fc26eefaf8",
+      "name": "东柳醪糟",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-3575975f75da345f16",
+      "name": "中国白酒金三角(川酒)",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-38075090f2d7749a51",
+      "name": "中江挂面(中江手工挂面)",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-54b4271bc35244b013",
+      "name": "云盖寺挂面",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-661969c49cda7f3676",
+      "name": "五通桥豆腐乳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sd-shanxian-soup",
+      "name": "单县羊肉汤",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-shanxi-6b496ed9b7",
+      "name": "寿阳豆腐干",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-f7cf27bec31d9ad5f9",
+      "name": "尧头黑瓷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-bccb36e6c91f367461",
+      "name": "崇阳麻花",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7ffc0994b6e597f255",
+      "name": "建水紫陶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-093741329c5b944851",
+      "name": "桓仁冰酒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-ba74a0b47862689db9",
+      "name": "梓潼酥饼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-3498d80537b8a64a3f",
+      "name": "汤池老酱",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-2872c47395879ab4d3",
+      "name": "泸州酒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-9d5147c66278e3e379",
+      "name": "潼关酱笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-1f38a9264ad5fc08af",
+      "name": "芝溪玉液",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2f00db446e2a62596a",
+      "name": "蕲春酸米粉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-c0864b3259e50e93e9",
+      "name": "路南卤腐(路南腐乳)",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-94ba6067c8b5c5628a",
+      "name": "酒泉夜光杯",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-bfd8956009b0611ea9",
+      "name": "黄梅荷叶茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-84695e38397193a584",
+      "name": "莞香",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-86c63836b1354ad5ee",
+      "name": "康平地瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-e40bd12ddc35ba6db2",
+      "name": "延安酸枣",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-cf828eea9b00e69c9a",
+      "name": "楚雄牛肝菌",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-40e838dcb09aab6149",
+      "name": "白城燕麦",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-7630c74aadcf5ac8ad",
+      "name": "郁南无核沙糖桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-3c12f3dce22872b10f",
+      "name": "陆河木瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-092c9443d8e8e201ac",
+      "name": "龙门年桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-f62920963f7d566e5f",
+      "name": "巴马香猪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-6bb0eed6e81eb8e559",
+      "name": "牛滩生姜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-d8097c2386630ac0d5",
+      "name": "柏塘山茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e75880a2d8bc4cc11c",
+      "name": "温州早茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-024b2f0f078ae9d07d",
+      "name": "南江大叶茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-adc1a3f3a6dca3de1c",
+      "name": "凉山苦荞茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-a846b774c356b3275c",
+      "name": "隆昌土陶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-99583fa1baf2be2f41",
+      "name": "万源老腊肉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c02e1e240476b1c372",
+      "name": "宁陵白蜡杆",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-e2b12c86e7bd7fdd94",
+      "name": "北川苔子茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sd-rizhao",
+      "name": "日照绿茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-3a9388ee0679b50b4a",
+      "name": "习水红茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-f17e025990d5961cc5",
+      "name": "沂水绿茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-14eccb41fe27a09e77",
+      "name": "广汉缠丝兔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-356f972cd9de39fdc8",
+      "name": "郧西山葡萄酒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3ad3a5b42c738033e0",
+      "name": "泰山玉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7d3cf7bc356a824e61",
+      "name": "任市板鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-df14f48bcbe3bff8e4",
+      "name": "盐边桑蚕茧",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4434225406cfcaf2a0",
+      "name": "漳平水仙茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-6d2e3a2b154a3d5ee7",
+      "name": "海青茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "county-185e4941dd99ce",
+      "name": "长沙绿茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-425cabc9e3a689f5d0",
+      "name": "大竹苎麻",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-zhejiang-af02039c34",
+      "name": "磐安云峰",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-8e24d32c0442a798e1",
+      "name": "筠连红茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-10eb69412e9fd53677",
+      "name": "东江湖茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-98b4f2bfe7e58fdcb6",
+      "name": "李渡酒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-shandong-cc4443cab2",
+      "name": "山亭花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-af45feefd2ef7de5a1",
+      "name": "富宁八角",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "js-guanyun-doudan",
+      "name": "灌云豆丹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-5dfe1893cab2597690",
+      "name": "绩溪火腿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-2aa96a6e9e44f341ad",
+      "name": "老姆登茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-anhui-95f57a31f4",
+      "name": "敬亭绿雪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-shandong-33e0c71f20",
+      "name": "乳山绿茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-ed36b8aaf75edd6874",
+      "name": "箬阳龙珍",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-de5af22edce4d9f6c7",
+      "name": "遂昌龙谷茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-58a696b7b9487f2b0b",
+      "name": "陇南绿茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-462096a3201b503979",
+      "name": "诺邓火腿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-jilin-d1096218b3",
+      "name": "三青山粉条",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-hunan-a771069ce9",
+      "name": "临武鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "regional-d63de9b97585fc",
+      "name": "会同魔芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-dad1d1ab00a724e78f",
+      "name": "兰江蟹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c9cf9e8aabef12de63",
+      "name": "永康舜芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-ca431177957c6ebc55",
+      "name": "充国香桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-a4f4e0c5bdc172ec8c",
+      "name": "喜德阉鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-596be77436b3ea9409",
+      "name": "瓜州枸杞",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-51095f8deac2f8ec87",
+      "name": "黄金黑木耳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-188d14fef3a1e74db0",
+      "name": "兴凯湖梅花鹿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b0db46e33b4e8c1fb5",
+      "name": "湖州太湖鹅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-6242e59c41834cf0b8",
+      "name": "中牟西瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-d43ed03c7887ee933b",
+      "name": "小金酿酒葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8db471151c45bb78ef",
+      "name": "武乡小米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-422afcaceae986ee4f",
+      "name": "金阳青花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-04ac2169e7d7701648",
+      "name": "花海甜瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-bba826a6f0266d26bd",
+      "name": "开江麻鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a2b265158b3df2abca",
+      "name": "泰顺猕猴桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-47c10ccd96b7dbaa0d",
+      "name": "永康方山柿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-456b033fcf888856e8",
+      "name": "沂源苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-55b4c3d443a16612da",
+      "name": "沙河辛西瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7ec36db4a07bc009bb",
+      "name": "达州脆李",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-53fd4db3d44a8c8e5a",
+      "name": "金堂姬菇",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3ba21729038823a0a6",
+      "name": "南县草龟",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-05dfc9de3965bf71be",
+      "name": "胶河土豆",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e7ae65abdcf8c87fa1",
+      "name": "岳家蜜桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c0d2ee3aa076aa4713",
+      "name": "永康五指岩生姜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3019bfb470e0decdfe",
+      "name": "佳木斯木耳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-14a38df3adf07ee044",
+      "name": "舟山晚稻杨梅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8563b697015ccc9e04",
+      "name": "东宁大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9740a8c8eea36076fb",
+      "name": "桐柏香椿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-609ecea81978c4ba3f",
+      "name": "柞水(黑)木耳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-a17ff684d1c936a127",
+      "name": "西凤脐橙",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-ec1937658226142209",
+      "name": "钦北荔枝",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c066416cd2e78a4ad3",
+      "name": "桑岛刺参",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-483c3db4f96731c528",
+      "name": "昭通苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "county-2a9c1976283c43",
+      "name": "郴州高山禾花鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-cc666aea87174927f8",
+      "name": "吴王渡黄河鳖",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-337d027e5a7a8ddaeb",
+      "name": "泸西高原梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "county-2bfba780b605ae",
+      "name": "白关丝瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9c26981662b6a46cd6",
+      "name": "顺昌竹荪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7f016f6f9af6917f6a",
+      "name": "遂昌菊米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-af64c0cb1caa9dd0c8",
+      "name": "钦州青蟹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-a8e25465662fc6d18b",
+      "name": "眉县猕猴桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e116836bca142d2ad8",
+      "name": "将乐竹荪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-28ac6aab9b286b75d2",
+      "name": "永福生姜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-2b1148e47e8f6dc14f",
+      "name": "凉亭鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-668b851a6aead3587b",
+      "name": "汉源樱桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-5b5d4c77ff768957a0",
+      "name": "四会沙糖桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-37868228c01b47026c",
+      "name": "松柏大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-fa46dcce04b8e91987",
+      "name": "官垌草鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-2d2c0b0f0a7f497cff",
+      "name": "大新龙眼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-63991acb79c335bcc4",
+      "name": "唐家河蜂蜜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-38c9e4d57bc28e6da3",
+      "name": "新城细毛山药",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9f5eb026975dcd6027",
+      "name": "宣城铁皮石斛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-1bb83b224e58c27119",
+      "name": "小金苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-84b00701c44811e208",
+      "name": "海昌蜜梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-4207ad4ada28a71a41",
+      "name": "达川安仁柚",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-5d3b82c06aafdea557",
+      "name": "金堂脐橙",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-6fc470be2b8f0035d0",
+      "name": "夕阳葵花子",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-8a5327df788371251e",
+      "name": "大新腊月柑",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-98c5d556d95e7b7e1b",
+      "name": "水云峰黄桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-6396d58e94949b6abe",
+      "name": "广西肉桂",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-0ae44a86f7c6aef373",
+      "name": "黄香沟鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a2911fde28c625f889",
+      "name": "丽水枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-40745a7f1e10f2a868",
+      "name": "灌阳雪梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-bfc1cd5e7177c00860",
+      "name": "缙云麻鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-f31484d45bb6e83558",
+      "name": "大悟泥鳅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2977892d3498a74ff4",
+      "name": "安陆白花菜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c1de57bb5b049ff740",
+      "name": "贺家庄鲜桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-b3d2e655718f56eb47",
+      "name": "余干芡实",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a9fb5a5bc60b9931e3",
+      "name": "城头山大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7a25eeebeb9a8cbf25",
+      "name": "汉源雪梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-d82040fafdae993a1b",
+      "name": "灵山韭菜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-4361e513245b3789b8",
+      "name": "陇南苦荞",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-6b7397f2634dafddf6",
+      "name": "利州红栗",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-733c5d256b3dd67f0e",
+      "name": "浦北香蕉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-fe3bc8016c2033498b",
+      "name": "苏岭山药",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a17732aa216347038f",
+      "name": "都里大红袍花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-ea30ba13f81dc0fbee",
+      "name": "盐水石榴",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b325f8ac475b18a339",
+      "name": "兰溪枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-bbd09cc1913d46f337",
+      "name": "安和香芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7afd03ff0f47e10d33",
+      "name": "黑水凤尾鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7a71da8e2ef67ca440",
+      "name": "溪洛渡花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4a5687cff057ff072e",
+      "name": "华容稻",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-96017849ca817b928a",
+      "name": "蒲江樱桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-b219f686a139aeb299",
+      "name": "隆兴大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3257235b24f423db30",
+      "name": "历城核桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-62fd38f0b0bc2b1209",
+      "name": "巨淀湖泥鳅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7a65d0b8ea503e4db4",
+      "name": "开江白鹅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-829e557f487cf2f28e",
+      "name": "双流枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-26720ff81dbef80593",
+      "name": "蒙自石榴",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-82a7045ce07260d384",
+      "name": "长街蛏子",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-e29ff9d00658fa1328",
+      "name": "新会陈皮",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3d5209280a0c5906e0",
+      "name": "罗洲冬瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a5d44fabe3efc0b85b",
+      "name": "董市甜瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-65a60a44ca026e3d38",
+      "name": "淮南麻黄鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9a8ec10599ca319213",
+      "name": "福鼎槟榔芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-eed647adc3ffc0f375",
+      "name": "景泰枸杞",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7019aac8b88e04d969",
+      "name": "王官屯京杏",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-231e14e813e9507f6e",
+      "name": "蓬莱加吉鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-90a8f5438346ed75e4",
+      "name": "哈尔腾哈萨克羊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2f4fc0006506bdb07b",
+      "name": "明光甜叶菊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c06b1a39eaf73b1ec5",
+      "name": "胶南蓝莓",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-6fc8791afa61ade4ee",
+      "name": "董家茭白",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2f8826d42da1fafb0c",
+      "name": "蓬莱海参",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-38929d3a6378eb0155",
+      "name": "陕州苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-d5dd31eed54dd99657",
+      "name": "明月雷竹笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4449def58d160d3176",
+      "name": "海盐葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-223d3f5a2e56f1646f",
+      "name": "邛崃猕猴桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-a5bad5517423809d74",
+      "name": "钦州石斑鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e1b81ac8bd93203a41",
+      "name": "微山湖乌鳢",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-708de6007a18a90739",
+      "name": "蓼兰小麦",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-d66b572ddef3eadca4",
+      "name": "枝江蜂蜜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-510c0c4d8c71bd6220",
+      "name": "南丰甲鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-7d0ec4108c7fc5e04c",
+      "name": "全州文桥鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3e340d8391f1f0c139",
+      "name": "黄陂黄牛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-bcb89726430a0981fe",
+      "name": "册亨糯米蕉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-23425888b0f53d40d4",
+      "name": "平度牛肉",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8c69c20f6ab92c3a54",
+      "name": "莆田枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-83ec8a5bdc18f341d5",
+      "name": "寿光鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-21745895222f943cc9",
+      "name": "伊川平菇",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-40eabd7fb9bb27cbbc",
+      "name": "宝山苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-d7b7f3d2ccde19734e",
+      "name": "乐业辣椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8f1179c0aad374bed5",
+      "name": "云霄蕹菜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7bc17f7aeeb6f2a7a0",
+      "name": "九寨沟蜂蜜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-13825f1fab4b8ff68a",
+      "name": "日照东方对虾",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e64f27bc44718604fc",
+      "name": "仁风西瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-57f3b24f306880c5f6",
+      "name": "垛庄板栗",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-92699bddc46d72051d",
+      "name": "洪湖野鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-43b7811bd51ed4068d",
+      "name": "德源大蒜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8380c29861ef908817",
+      "name": "东宁椴树蜜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-923b2a3bfcfb13a194",
+      "name": "越西甜樱桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-be289718f1963efea3",
+      "name": "三江稻田鲤鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9138efecb45206de19",
+      "name": "夏县西瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-4001961ecf21ee27b8",
+      "name": "涪城芦笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-83ba852b62222fd816",
+      "name": "烟台海肠",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-d628d6d310e7689726",
+      "name": "都江堰猕猴桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e825ff732556e79005",
+      "name": "德化黑鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-42cf475047d2dc9a0b",
+      "name": "福州茉莉花",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-99b2a2daa4baa7370b",
+      "name": "人荣小西红柿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-a66dd68f9c26b6f270",
+      "name": "奉节脐橙",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-f288980bfa50e0cf4d",
+      "name": "肥城桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7c725713b3600cf263",
+      "name": "万荣三白瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-0ab2603d3f57129615",
+      "name": "宜丰竹笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-acacb7afbe36678481",
+      "name": "东兰乌鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-696470d35849ef1a37",
+      "name": "大化白玉薯",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-06d0071d858e3e20d9",
+      "name": "黄湖大闸蟹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4446be136559639d15",
+      "name": "莒南板栗",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9e37e185216a86f5ef",
+      "name": "安丘大葱",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-83c28fabf520e9cb36",
+      "name": "随州香菇",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-d22f7e792c72e0f17d",
+      "name": "桂平黄沙鳖",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-ea818ba4c8b6156e0e",
+      "name": "孝感糯米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e0ffebf27f5e9ca1a1",
+      "name": "浦市铁骨猪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-fddd0f64fe473b13f3",
+      "name": "东江湖蜜桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-26eb747ced014e6822",
+      "name": "米易枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-6e33ac438d96ca65ca",
+      "name": "南部脆香甜柚",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-0440e83f7a6be6ee98",
+      "name": "嵊州香榧",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-d14d774ab77cfa3311",
+      "name": "余姚樱桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-1ccee34bd2c4d4e09d",
+      "name": "平泉香菇",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-1dde64e7155fc62a55",
+      "name": "黔阳金秋梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-1693bb6aedce3ec0df",
+      "name": "宜都蜜柑",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-8ef87056b30c9fe338",
+      "name": "大理独头大蒜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b99f1419e2ecc4dd6d",
+      "name": "陶辛青虾",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-952281248ae11293a5",
+      "name": "余姚甲鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-6baf20a520bce1a32f",
+      "name": "殷家坪蜂蜜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-ef02f52d9f86c2d9a3",
+      "name": "曹家梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-7ea7973eaee65429c9",
+      "name": "台山蚝",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-a4e07588cd7084472e",
+      "name": "大新酸梅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e88e1239b9b01c199e",
+      "name": "松滋鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-ed23da0265e975a742",
+      "name": "敦煌葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-98624a8fedb728d82c",
+      "name": "东山芦笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-fdcb2daad0950aa84a",
+      "name": "罗江鳜鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-f81f3872858f62aef1",
+      "name": "南丹黄牛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-ffb1d03617ca92a025",
+      "name": "条山梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-38363f7457423cb134",
+      "name": "天全竹笋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4fcb31dfccae013ddb",
+      "name": "姜家店大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-70a1e7741fd2b778da",
+      "name": "桓仁京租大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-f6fbdd142425ea2930",
+      "name": "攀枝花枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-5d1f32e76191f5b88e",
+      "name": "茂汶苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-6f6390e49ede5c8912",
+      "name": "覃塘莲藕",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9e83062652dbc1e988",
+      "name": "连江海带",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-78648b45eb34686d42",
+      "name": "蒙阴蜜桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2c4b768eb73ad33562",
+      "name": "沂源花生",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-0efc29f74fd6787a44",
+      "name": "蓬莱地生子",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-12191c7c3707355126",
+      "name": "洪兰菠菜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-ea533116c2e9ad704e",
+      "name": "大庙香水梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-385adfb64a4e801558",
+      "name": "阳山鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-199add18206a0ec51a",
+      "name": "兴安葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-019cb406263b7d55f5",
+      "name": "平阴鲜食地瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "county-143270dfed3273",
+      "name": "南县中华鳖",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-65fbdd4ef497fae6cb",
+      "name": "屏南李",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-3345aacfe749aa3169",
+      "name": "八步三华李",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-3b7d045210c7e257f9",
+      "name": "来宾甘蔗",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "regional-a5d4603aa8fe54",
+      "name": "江永香芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-979cb6b72243b34331",
+      "name": "攀枝花芒果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-dcc2a788f477752f59",
+      "name": "鱼台甲鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a9c05b0284172fe489",
+      "name": "松滋柑桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-f20e94bc1ab69b1b1d",
+      "name": "张坝桂圆",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-6b50d2842de2c20b80",
+      "name": "七百弄鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "regional-d858632b585ba1",
+      "name": "抚顺单片黑木耳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-aa2dac6dd663140050",
+      "name": "莱西大花生",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-bcc77dfdf6261bf59c",
+      "name": "蓬莱赤甲红",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4349f009389ee87ee2",
+      "name": "石铭芋",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-19f981461992baf517",
+      "name": "金堂黄金果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-0749872316131f5854",
+      "name": "浦北妃子笑荔枝",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-7d2f847cbedc7ee809",
+      "name": "老君香菇",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-474e0548c8674fc861",
+      "name": "清新桂花鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-b49d33a1db5e056f34",
+      "name": "柳州螺蛳",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9a5ff93646ca6610d9",
+      "name": "嘉鱼莲藕",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-shanxi-94ec5c0ee3",
+      "name": "晋祠大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-f18e9ef9c239320ae6",
+      "name": "广灵大尾羊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-f2e2fbfe6b0f4d5917",
+      "name": "如皋黄鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-c0f598b978cfd1b3ab",
+      "name": "三门血蚶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-fd6aabf460afb29337",
+      "name": "金田淮山",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-aa82af223f75b719c6",
+      "name": "融水田鲤",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8f2cc230319112b409",
+      "name": "珊珀湖草鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7c45bf523c8136340a",
+      "name": "鲁西黄牛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-ae90de4296a26f0499",
+      "name": "贡水白柚",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-5a2be058e6fa68375c",
+      "name": "灵岩御菊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-c4c96a026aa1cad721",
+      "name": "双流二荆条辣椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-1734c6a29c61f229ee",
+      "name": "灵山奶水牛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-28c1539ad6365a4f2d",
+      "name": "珊珀湖黑鲫",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b27c4245bea1c36680",
+      "name": "绛县大樱桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b3397846e03ea5aa72",
+      "name": "路桥枇杷",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9d10cc6309e11a49b0",
+      "name": "清泉沟小米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-cdce13df1ae30d1faf",
+      "name": "禹州金银花",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-50273b2f29fe52a625",
+      "name": "香磨山鲢鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-332381b4464d32815b",
+      "name": "吕墅萝卜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-1d472f512332cd9302",
+      "name": "上虞野藤葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-b0e921840efe653749",
+      "name": "攀枝花块菌",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-c16115aa888203a9e9",
+      "name": "蓬溪青花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4ecd90c6e5039c3e9b",
+      "name": "陕州石榴",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-57441d7acf808af081",
+      "name": "华容大湖胖头鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-99d89b95555aec1ca3",
+      "name": "金塔肉羊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-205690374d21272b79",
+      "name": "凌云牛心李",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-d289f7f680f9736b12",
+      "name": "东阿黄河鲤鱼",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-2490b970a64d4dfc2c",
+      "name": "单县青山羊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-18637858b7225568a3",
+      "name": "陈村年桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7653edf6535c65f81d",
+      "name": "珊珀湖花鲢",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-3c5168c9a5fd7e3260",
+      "name": "麻湾西瓜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-5893bd71098cebcc3d",
+      "name": "五莲国光苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-10ab370cfd4acff971",
+      "name": "洪门葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-52711a15f598a28c2e",
+      "name": "嘉祥白菊花",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-32c3b4a4635e935696",
+      "name": "赫山兰溪大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4989c85c7e0e0e82a1",
+      "name": "宜昌蜜桔",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-b08c54610f1a6cd54e",
+      "name": "九寨沟柿子",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-f39539a82065a1f3af",
+      "name": "平乐石崖茶",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-51f5b39a0a6ba3e630",
+      "name": "湘西椪柑",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-3b30b989d3d94326c3",
+      "name": "德庆贡柑",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-999df582a0e16a14f1",
+      "name": "鱼台大米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a2ac9f7abf1618d390",
+      "name": "黄岩东魁杨梅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7e5eb0cb810aa6c56c",
+      "name": "红山荞麦",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-6edebd0a438d2b18c5",
+      "name": "峪里花椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8bd839c0b3a259fb73",
+      "name": "芍药山核桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e0ac5f3e4a149fd2ba",
+      "name": "孟津葡萄",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-5ef88070c9faef8ee1",
+      "name": "徽县紫皮大蒜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-a12c68e4a5017ad800",
+      "name": "洪山菜薹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-9a285ac41def19d9cf",
+      "name": "雷州青枣",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-1b2c6d16cdab525ecc",
+      "name": "店子秋桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-4668dde9b832f46351",
+      "name": "蓼坞小米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-77be2a41d5accacda2",
+      "name": "唐河红薯",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "flavor-anhui-03dd7c99f6",
+      "name": "砀山酥梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-ec681330c3a3a52676",
+      "name": "杨林沟芋头",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sg-f81bb8cd3c91349dec",
+      "name": "灵台苹果",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-0eb1915b7bdc461725",
+      "name": "兴文山地乌骨鸡",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "regional-d0fa6a9910c847",
+      "name": "湘莲",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-032acaec25a8eaa555",
+      "name": "枣庄黑盖猪",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-9d742bfaf3202ae401",
+      "name": "水东蜜枣",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-7bdb1bb34d2b3b1608",
+      "name": "小南海莲藕",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-924ed6f1abf8044bab",
+      "name": "紫鹊界贡米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-5c6858385aba8a4f81",
+      "name": "惠来荔枝",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-e62368d423340958c3",
+      "name": "连州水晶梨",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-48ddee65f4c097e39f",
+      "name": "沾化白山羊",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-5fda2cd7174a8790b0",
+      "name": "万源马铃薯",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-6409492b386e05d936",
+      "name": "忻城糯玉米",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-d9331e874c7f812677",
+      "name": "湖口螃蟹",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-bbe1d0a3c646ff8364",
+      "name": "钦州辣椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-0415dc343dba2f7b31",
+      "name": "合浦鹅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-862340524f64cff8e1",
+      "name": "苍山辣椒",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-548b6b7d9865a13d80",
+      "name": "兰溪杨梅",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-85452a7cef6efa85a9",
+      "name": "湘西黄牛",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e069b0509488e82971",
+      "name": "雷家店薄皮核桃",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-27c290cabc50ebb7d8",
+      "name": "明水香稻",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-b99146eeb40e69d629",
+      "name": "荣成大花生",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-e76e329aa640f5f4ee",
+      "name": "太和香椿",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-0da3cd9ded28cab27b",
+      "name": "江山黄精",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-24401920d15c72527e",
+      "name": "云梦白花菜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "program-8e827b559d4caa6820",
+      "name": "张家界菊花芯柚",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-1b84afdca21fc5885a",
+      "name": "泸州桂圆",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "sw-748070ed61785c011a",
+      "name": "黑水大蒜",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-03864084ffa7287874",
+      "name": "连南瑶山茶油",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    },
+    {
+      "itemId": "threeprov-38dbcc9cc1afad2286",
+      "name": "西林麻鸭",
+      "action": "source-led-replacement",
+      "reason": "使用既有保存原文中的明确段落补充，不冒充搜索前记忆。"
+    }
+  ],
+  "specificRejectedExamples": [
+    {
+      "itemId": "sw-4f0fd77c034f654615",
+      "name": "罗甸玉",
+      "reason": "上标与数字位置错乱，数值不能可靠还原，拒绝猜测。"
+    },
+    {
+      "itemId": "threeprov-c168334dc08d721c9d",
+      "name": "丰城麻鸭",
+      "reason": "上标与数字位置错乱，数值不能可靠还原，拒绝猜测。"
+    }
+  ]
+}

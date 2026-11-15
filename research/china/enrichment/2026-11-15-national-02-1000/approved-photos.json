@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "searchFile": "photo-search.json",
+      "candidateId": "ec5a44afb4ba6a",
+      "itemId": "sw-951c36f8606efd75c7",
+      "itemName": "涪陵榨菜",
+      "caption": "涪陵榨菜实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-search.json",
+      "candidateId": "f76f111c6f9879",
+      "itemId": "program-33ebb0997c3e217c8e",
+      "itemName": "老庙牛肉",
+      "caption": "老庙牛肉实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-search.json",
+      "candidateId": "9489a6ce843f73",
+      "itemId": "flavor-jiangsu-2880a536ec",
+      "itemName": "无锡毫茶",
+      "caption": "无锡毫茶实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "1bebfab33eb435",
+      "itemId": "ah-guapian",
+      "itemName": "六安瓜片",
+      "caption": "六安瓜片实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "429951dbeb1674",
+      "itemId": "program-98427171c7bb8ea8d3",
+      "itemName": "武夷红茶",
+      "caption": "武夷桐木金骏眉实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "451b916d002e12",
+      "itemId": "zj-anji",
+      "itemName": "安吉白茶",
+      "caption": "安吉白茶实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "f8e2d8da6ce372",
+      "itemId": "flavor-hunan-bb9e9cf3c5",
+      "itemName": "安化黑茶",
+      "caption": "安化茯砖茶汤实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "0204acb5c54f1d",
+      "itemId": "threeprov-6409b8d0adf11f1502",
+      "itemName": "凤凰单丛(枞)茶",
+      "caption": "凤凰单丛鸭屎香茶叶实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "039b867f33a471",
+      "itemId": "flavor-anhui-f84b9ec5ec",
+      "itemName": "霍山黄芽",
+      "caption": "霍山黄芽实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-keyword-search.json",
+      "candidateId": "1e73b5dda87e96",
+      "itemId": "flavor-fujian-0ee4533492",
+      "itemName": "武夷岩茶",
+      "caption": "武夷岩茶大红袍茶叶实拍",
+      "reason": "已检查实拍、来源说明、作者和许可；主体与卡片对应，画面可辨识。细分茶类在图片说明中明确，不代表该类别所有产品。"
+    },
+    {
+      "searchFile": "photo-search.json",
+      "candidateId": "c092fccce0aed2",
+      "itemId": "sg-7a9e1455ca491a7fed",
+      "itemName": "富平柿饼",
+      "caption": "富平柿饼实拍",
+      "reason": "配图独立核对：来源明确对应实物，画面可辨识。该卡文字本轮暂缓，单独采用对应实拍。"
+    },
+    {
+      "searchFile": "photo-search.json",
+      "candidateId": "98f6b0783ea159",
+      "itemId": "flavor-anhui-2b39f7478b",
+      "itemName": "涡阳苔干",
+      "caption": "涡阳苔干实拍",
+      "reason": "配图独立核对：来源明确对应实物，画面可辨识。该卡文字本轮暂缓，单独采用对应实拍。"
+    }
+  ]
+}

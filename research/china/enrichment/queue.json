@@ -9,23 +9,23 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 73,
-    "withListPhoto": 60,
-    "missingRealPhoto": 6554,
-    "needsListPhoto": 6567
+    "withDetailPhoto": 85,
+    "withListPhoto": 72,
+    "missingRealPhoto": 6542,
+    "needsListPhoto": 6555
   },
   "byProvince": {
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 482,
-      "needsListPhoto": 482
+      "missingRealPhoto": 481,
+      "needsListPhoto": 481
     },
     "henan": {
       "cards": 332,
       "shortReadings": 222,
-      "missingRealPhoto": 331,
-      "needsListPhoto": 331
+      "missingRealPhoto": 330,
+      "needsListPhoto": 330
     },
     "hebei": {
       "cards": 197,
@@ -42,8 +42,8 @@
     "hunan": {
       "cards": 351,
       "shortReadings": 215,
-      "missingRealPhoto": 350,
-      "needsListPhoto": 350
+      "missingRealPhoto": 349,
+      "needsListPhoto": 349
     },
     "liaoning": {
       "cards": 306,
@@ -54,20 +54,20 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 422,
-      "needsListPhoto": 422
+      "missingRealPhoto": 421,
+      "needsListPhoto": 421
     },
     "anhui": {
       "cards": 330,
       "shortReadings": 212,
-      "missingRealPhoto": 330,
-      "needsListPhoto": 330
+      "missingRealPhoto": 327,
+      "needsListPhoto": 327
     },
     "fujian": {
       "cards": 253,
       "shortReadings": 142,
-      "missingRealPhoto": 252,
-      "needsListPhoto": 252
+      "missingRealPhoto": 250,
+      "needsListPhoto": 250
     },
     "heilongjiang": {
       "cards": 212,
@@ -114,14 +114,14 @@
     "guangdong": {
       "cards": 272,
       "shortReadings": 160,
-      "missingRealPhoto": 272,
-      "needsListPhoto": 272
+      "missingRealPhoto": 271,
+      "needsListPhoto": 271
     },
     "shaanxi": {
       "cards": 147,
       "shortReadings": 68,
-      "missingRealPhoto": 147,
-      "needsListPhoto": 147
+      "missingRealPhoto": 146,
+      "needsListPhoto": 146
     },
     "jiangxi": {
       "cards": 222,
@@ -156,8 +156,8 @@
     "chongqing": {
       "cards": 94,
       "shortReadings": 47,
-      "missingRealPhoto": 91,
-      "needsListPhoto": 91
+      "missingRealPhoto": 90,
+      "needsListPhoto": 90
     }
   },
   "items": [
@@ -897,19 +897,6 @@
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 44,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "ah-guapian",
-      "name": "六安瓜片",
-      "province": "anhui",
-      "city": "六安",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 45,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "missing-real-photo",
@@ -47664,19 +47651,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-33ebb0997c3e217c8e",
-      "name": "老庙牛肉",
-      "province": "henan",
-      "city": "安阳",
-      "category": "food",
-      "subcategory": "ingredients",
-      "readingCharacters": 251,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-7a730f5eed3b72b745",
       "name": "华容道鸡蛋",
       "province": "hunan",
@@ -50203,19 +50177,6 @@
       "name": "汉源花椒油",
       "province": "sichuan",
       "city": "雅安",
-      "category": "food",
-      "subcategory": "seasoning",
-      "readingCharacters": 277,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sw-951c36f8606efd75c7",
-      "name": "涪陵榨菜",
-      "province": "chongqing",
-      "city": "重庆",
       "category": "food",
       "subcategory": "seasoning",
       "readingCharacters": 277,
@@ -56998,19 +56959,6 @@
       "priority": 1
     },
     {
-      "itemId": "sg-7a9e1455ca491a7fed",
-      "name": "富平柿饼",
-      "province": "shaanxi",
-      "city": "渭南",
-      "category": "food",
-      "subcategory": "ingredients",
-      "readingCharacters": 313,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sg-8194fb7c0502011be6",
       "name": "永昌啤酒大麦",
       "province": "gansu",
@@ -62698,19 +62646,6 @@
       "city": "百色",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 331,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "threeprov-6409b8d0adf11f1502",
-      "name": "凤凰单丛(枞)茶",
-      "province": "guangdong",
-      "city": "潮州",
-      "category": "food",
-      "subcategory": "tea",
       "readingCharacters": 331,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
@@ -71948,19 +71883,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-anhui-2b39f7478b",
-      "name": "涡阳苔干",
-      "province": "anhui",
-      "city": "亳州",
-      "category": "food",
-      "subcategory": "ingredients",
-      "readingCharacters": 364,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-1e429dc02226716d16",
       "name": "无为螃蟹",
       "province": "anhui",
@@ -72696,19 +72618,6 @@
       "category": "food",
       "subcategory": "tea",
       "readingCharacters": 366,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-hunan-bb9e9cf3c5",
-      "name": "安化黑茶",
-      "province": "hunan",
-      "city": "益阳",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 367,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "missing-real-photo",
@@ -74308,19 +74217,6 @@
       "category": "food",
       "subcategory": "ingredients",
       "readingCharacters": 374,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-2880a536ec",
-      "name": "无锡毫茶",
-      "province": "jiangsu",
-      "city": "无锡",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 375,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "missing-real-photo",
@@ -77089,19 +76985,6 @@
       "city": "岳阳",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 388,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-98427171c7bb8ea8d3",
-      "name": "武夷红茶",
-      "province": "fujian",
-      "city": "南平",
-      "category": "food",
-      "subcategory": "tea",
       "readingCharacters": 388,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
@@ -80385,19 +80268,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-fujian-0ee4533492",
-      "name": "武夷岩茶",
-      "province": "fujian",
-      "city": "南平",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 410,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-028e7fe35b32704743",
       "name": "寺郎腰大葱",
       "province": "henan",
@@ -80859,19 +80729,6 @@
       "city": "岳阳",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 413,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-anhui-f84b9ec5ec",
-      "name": "霍山黄芽",
-      "province": "anhui",
-      "city": "六安",
-      "category": "food",
-      "subcategory": "tea",
       "readingCharacters": 413,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
@@ -84558,19 +84415,6 @@
       "priority": 1
     },
     {
-      "itemId": "zj-anji",
-      "name": "安吉白茶",
-      "province": "zhejiang",
-      "city": "湖州",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 457,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-1998f1fb3f5ab00be6",
       "name": "金口芹菜",
       "province": "shandong",
@@ -85546,6 +85390,19 @@
       "priority": 3
     },
     {
+      "itemId": "ah-guapian",
+      "name": "六安瓜片",
+      "province": "anhui",
+      "city": "六安",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 45,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-squirrel-fish",
       "name": "松鼠鳜鱼",
       "province": "jiangsu",
@@ -85975,6 +85832,19 @@
       "priority": 3
     },
     {
+      "itemId": "program-33ebb0997c3e217c8e",
+      "name": "老庙牛肉",
+      "province": "henan",
+      "city": "安阳",
+      "category": "food",
+      "subcategory": "ingredients",
+      "readingCharacters": 251,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "venue-suzhou-station",
       "name": "苏州站",
       "province": "jiangsu",
@@ -86014,6 +85884,19 @@
       "priority": 3
     },
     {
+      "itemId": "sw-951c36f8606efd75c7",
+      "name": "涪陵榨菜",
+      "province": "chongqing",
+      "city": "重庆",
+      "category": "food",
+      "subcategory": "seasoning",
+      "readingCharacters": 277,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sw-c1042a8111823bc309",
       "name": "修文猕猴桃",
       "province": "guizhou",
@@ -86021,6 +85904,32 @@
       "category": "food",
       "subcategory": "ingredients",
       "readingCharacters": 312,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sg-7a9e1455ca491a7fed",
+      "name": "富平柿饼",
+      "province": "shaanxi",
+      "city": "渭南",
+      "category": "food",
+      "subcategory": "ingredients",
+      "readingCharacters": 313,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-6409b8d0adf11f1502",
+      "name": "凤凰单丛(枞)茶",
+      "province": "guangdong",
+      "city": "潮州",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 331,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -86079,6 +85988,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-anhui-2b39f7478b",
+      "name": "涡阳苔干",
+      "province": "anhui",
+      "city": "亳州",
+      "category": "food",
+      "subcategory": "ingredients",
+      "readingCharacters": 364,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "person-wuxi-xuxiake",
       "name": "徐霞客 · 游记怎样变成观察地理的材料？",
       "province": "jiangsu",
@@ -86086,6 +86008,19 @@
       "category": "facts",
       "subcategory": "people",
       "readingCharacters": 364,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-hunan-bb9e9cf3c5",
+      "name": "安化黑茶",
+      "province": "hunan",
+      "city": "益阳",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 367,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -86127,6 +86062,19 @@
       "readingCharacters": 374,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": "2026-11-15-national-01",
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-jiangsu-2880a536ec",
+      "name": "无锡毫茶",
+      "province": "jiangsu",
+      "city": "无锡",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 375,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
       "priority": 3
     },
@@ -86235,6 +86183,19 @@
       "priority": 3
     },
     {
+      "itemId": "program-98427171c7bb8ea8d3",
+      "name": "武夷红茶",
+      "province": "fujian",
+      "city": "南平",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 388,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-salted-duck",
       "name": "南京盐水鸭",
       "province": "jiangsu",
@@ -86244,6 +86205,32 @@
       "readingCharacters": 399,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": "2026-11-15-national-01",
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-fujian-0ee4533492",
+      "name": "武夷岩茶",
+      "province": "fujian",
+      "city": "南平",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 410,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-anhui-f84b9ec5ec",
+      "name": "霍山黄芽",
+      "province": "anhui",
+      "city": "六安",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 413,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
       "priority": 3
     },
@@ -86307,6 +86294,19 @@
       "category": "facts",
       "subcategory": "people",
       "readingCharacters": 437,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "zj-anji",
+      "name": "安吉白茶",
+      "province": "zhejiang",
+      "city": "湖州",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 457,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

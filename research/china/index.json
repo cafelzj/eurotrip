@@ -24,8 +24,8 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 75,
-    "adoption": 6,
+    "research-support": 90,
+    "adoption": 7,
     "preserved-source-reading": 1451,
     "cross-review": 4,
     "current-integration": 4,
@@ -38,8 +38,8 @@
     {
       "path": "research/china/README.md",
       "role": "research-support",
-      "bytes": 4618,
-      "sha256": "17bb58f8cdf2698af28f7b9eedb97624874dd1d0c7010c2d52666023c6e6cf93"
+      "bytes": 4819,
+      "sha256": "799eb8ffe0c94bf719e055ca511b5d6856212ddc7058df102bbc5f83caad38ab"
     },
     {
       "path": "research/china/enrichment/2026-11-15-national-01/README.md",
@@ -300,16 +300,112 @@
       "sha256": "cb561d0a176d44130b454f7959cf16616f3ab34e3d6b5b9a135c2818b2f71cba"
     },
     {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/README.md",
+      "role": "research-support",
+      "bytes": 4334,
+      "sha256": "6bc54d7f18c835007c5c489a8c04217880d20b61ec6b9ad8202988936f3e848f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/approved-photos.json",
+      "role": "research-support",
+      "bytes": 4736,
+      "sha256": "4c5a36bf3e07ebaba4bc21b7330f57a8513db5f37ab79d28865c7e88a69e0eae"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/baseline.json",
+      "role": "research-support",
+      "bytes": 372,
+      "sha256": "ce1491a3e28babd4adb622c5152e7d8622e942812cade78d97aeab4540598c0b"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/editorial-review.json",
+      "role": "research-support",
+      "bytes": 893,
+      "sha256": "ba5c4faa5fbe4abc704efb9fc2b542a732c368baf920e839549a61d16d08a284"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/initial-knowledge.json",
+      "role": "research-support",
+      "bytes": 373991,
+      "sha256": "7cbf80bc3ab9e1e39c7675964968bd482987925415a6a9659dff81fe4af5e3ac"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/initial-targets.json",
+      "role": "research-support",
+      "bytes": 197670,
+      "sha256": "a19a3734df7962999062a045c6920cfd2abef96702ff116cff9eea7c3ac72e9f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/knowledge-seal.json",
+      "role": "research-support",
+      "bytes": 131,
+      "sha256": "afd2fe20182981d0c0ddb237df8f176b46b64c570ee8b10104793538f397608a"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/photo-adoption.json",
+      "role": "adoption",
+      "bytes": 55001,
+      "sha256": "6969e590d2a9d8df457826d606e86dac3c9a11acc947a2126512a3f446b80350"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/photo-keyword-plan.json",
+      "role": "research-support",
+      "bytes": 8543,
+      "sha256": "e14bc2d6b5ec05310d449c111d97e1594ddb7bd47aa720f35aa10dce2f469c46"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/photo-keyword-search.json",
+      "role": "research-support",
+      "bytes": 220058,
+      "sha256": "fb2484193b9850d138151c5f3ec5a4b197fea0462dec4700f44e59b03af3eb47"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/photo-search.json",
+      "role": "research-support",
+      "bytes": 1380043,
+      "sha256": "9269780320f5c52274ecc4656dc53faac0f770b10fbd37e82cbef647d31984c1"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/reused-primary-sources.json",
+      "role": "research-support",
+      "bytes": 213747,
+      "sha256": "380557bb8aff554ab828b7e2b6156b6f71bc40bd01b438b4a59dd4aaec7b2e0e"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/selection-review.json",
+      "role": "research-support",
+      "bytes": 174802,
+      "sha256": "577fed54a8d1cf6307b37232cad659eda26e346a7242e0861e0e7b8909248253"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/source-trace-review.json",
+      "role": "research-support",
+      "bytes": 2611131,
+      "sha256": "e2211e1d8c880c879d6e1295ba4ea312a60f3af6aa9011639edb6c0ea8e5df13"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/targets.json",
+      "role": "research-support",
+      "bytes": 197468,
+      "sha256": "cb70b51b2b14245eec757b96796954ebd289e6ec1f6dd637aab06070a6d69611"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-15-national-02-1000/work-status.json",
+      "role": "research-support",
+      "bytes": 403,
+      "sha256": "f5e815f3d32585ba6111eb25857f62680ffe7f49bbb69189623de5d9e9a41857"
+    },
+    {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
-      "bytes": 2271,
-      "sha256": "11bca9c587e78a5d8c9c3b488ecd912b6d4e74ae868b7fe04dd6b87c5103f94c"
+      "bytes": 2534,
+      "sha256": "0ba41669d94d8b3b1904ce76476eac6d52ed569dd00fc03d1ae9aa5189ae0699"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2507990,
-      "sha256": "fcab0adb4ebb25726c72fc1f83fe63e1140e89ca65e1370adcc4d31a597728df"
+      "bytes": 2508002,
+      "sha256": "173138ea2d4c5bed166a45ec1160f02162ba748afe240062b4137d03dce17334"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -4077,7 +4173,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6482,
-      "sha256": "cb73fd53e852461e620b68b0d5ab68c666a87c39eb82f0c1f9ba8c2db54d868e"
+      "sha256": "06bf8cd9865658dc6759a07c72913495fd7a7d9a7afd9fc08eeb3a0ff8ab774b"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
@@ -4196,14 +4292,14 @@
     {
       "path": "research/flavors/images/coverage.json",
       "role": "research-support",
-      "bytes": 206291,
-      "sha256": "9da2ce2d862227a777970025aa6dd7f47db461bec0885ed8eda31f19644cebcd"
+      "bytes": 205938,
+      "sha256": "2d6395a0986a56561318e90b4d85d0a7a8658c5ad71e5f4fce668fd194159126"
     },
     {
       "path": "research/flavors/images/review.json",
       "role": "research-support",
-      "bytes": 138423,
-      "sha256": "e2ad2264d2a9c5a08012e3f132cd642f0481fcbae7c6b6997844e46395142774"
+      "bytes": 193392,
+      "sha256": "f0ac3742da20228e33dd25124f1bdd02c2a779c081c5cad7f68bb2332c77c580"
     },
     {
       "path": "research/flavors/integration/china-collection.json",

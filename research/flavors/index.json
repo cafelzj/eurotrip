@@ -46,6 +46,7 @@
     "research/archives/2026-11-15-china-collection.json",
     "research/archives/2026-11-15-flavor-county-media.json",
     "research/archives/2026-11-15-national-enrichment-01.json",
+    "research/archives/2026-11-15-national-enrichment-02-1000.json",
     "research/archives/2026-11-15-shaanxi-gansu.json",
     "research/archives/2026-11-15-southwest.json",
     "research/archives/2026-11-15-three-provinces.json",
@@ -156,14 +157,14 @@
     {
       "path": "research/flavors/images/coverage.json",
       "role": "image-review-or-backlog",
-      "bytes": 206291,
-      "sha256": "9da2ce2d862227a777970025aa6dd7f47db461bec0885ed8eda31f19644cebcd"
+      "bytes": 205938,
+      "sha256": "2d6395a0986a56561318e90b4d85d0a7a8658c5ad71e5f4fce668fd194159126"
     },
     {
       "path": "research/flavors/images/review.json",
       "role": "image-review-or-backlog",
-      "bytes": 138423,
-      "sha256": "e2ad2264d2a9c5a08012e3f132cd642f0481fcbae7c6b6997844e46395142774"
+      "bytes": 193392,
+      "sha256": "f0ac3742da20228e33dd25124f1bdd02c2a779c081c5cad7f68bb2332c77c580"
     },
     {
       "path": "research/flavors/integration/china-collection.json",

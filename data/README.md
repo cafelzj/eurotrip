@@ -23,3 +23,5 @@
 重新生成前先核对版本和输入，不以重新运行成功代替资料核实。不要手改生成文件后又无意重跑脚本覆盖；需保留的人工修订应进入来源、生成逻辑或明确的编辑配置。
 
 研究阅读摘记已迁至 `research/flavors/reading-notes/`；`snapshots/` 不再混放该类底稿。研究索引见 [research/README.md](../research/README.md)，路径与工作流程见 [维护说明](../docs/repository-layout.md)。
+
+中国已有卡片配图第二批增加12张对应实拍，详情保留作者与许可，列表不显示来源小字。1000条待编辑文字底稿仍在 [研究目录](../research/china/enrichment/2026-11-15-national-02-1000/README.md)，尚未纳入正式阅读层。
