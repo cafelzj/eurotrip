@@ -1,0 +1,73 @@
+{
+  "id": "sw-gi-8656c8aba8ceac68",
+  "title": "地理标志产品公告 · 2011年第177号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC177%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "8656c8aba8ceac687a09cbe3ace339d2ac6d39b2",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第177号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC177%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "8a6277db6e672c81f468b7ad8d65000f560eb51487add81db5a45ca13bb716d7",
+    "textSha256": "8f30d3d9172ab38875288bfef41af93c13ce98c14c20859eb3bd0b77d0c3d9f0",
+    "textLength": 5890,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/8656c8aba8ceac687a09cbe3ace339d2ac6d39b2.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/8656c8aba8ceac687a09cbe3ace339d2ac6d39b2.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-70a9ed6c41d3bc130b",
+      "name": "东兴椒",
+      "scope": "东兴椒产地范围为四川省内江市东兴区东兴街道办事处、白合镇、高粱镇、大治乡、永福乡、石子镇、苏家乡、杨家镇、新店乡、太安乡、平坦乡、顺河镇、田家镇、柳桥乡、富溪乡、双桥乡、同福乡、郭北镇、椑南乡、中山乡、小河口镇、永东乡、双才镇、椑木镇、三烈乡25个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "本地传统朝天椒品种",
+      "sensory": "(1)鲜辣椒:果实鲜红色,果实纵径5cm至6cm,横径1cm至1.5cm,尾尖略弯,辣味适中。(2)干辣椒:形状一致,果面洁净,色泽一致,有光泽",
+      "process": "",
+      "sectionSha256": "db46f6aeeb0038b361d7ddda6575d78d94627732e70a82689737d396a301fa3c"
+    },
+    {
+      "itemId": "sw-8e24d32c0442a798e1",
+      "name": "筠连红茶",
+      "scope": "筠连红茶产地范围为四川省筠连县现辖行政区域。",
+      "type": "tea",
+      "variety": "当地群体种及适宜加工筠连红茶的其它茶树品种",
+      "sensory": "茶叶条索紧细,多锋苗,多金毫。香气鲜嫩香甜,带有焦糖香;滋味醇厚甘爽;汤色红明浓亮,叶底细嫩多芽,色泽红匀,明亮",
+      "process": "1.工艺流程:鲜叶→萎凋→揉捻→发酵→干燥→精制。2.加工要求:(1)萎凋:采用日光萎凋或加温萎凋。萎凋叶含水量控制在60%至64%。(2)揉捻:通过初揉、复揉,成条率达80%至90%,并发出较浓烈的茶香。(3)发酵:温度控制在22至24度,相对湿度保持在95%至98%。时间4至6小时。(4)干燥:毛火干燥温度为120度,时间5分钟,足火干燥温度为100度。足火干燥至茶叶含水量4%至6%",
+      "sectionSha256": "8d2a9dbefdafbcfcae51cb1f4f1367109c9f9b49c65b502a327ae3aeb59e3843"
+    },
+    {
+      "itemId": "sw-3859c7e75a1f3705b3",
+      "name": "南充冬菜",
+      "scope": "南充冬菜产地范围为四川省南充市顺庆区、高坪区、嘉陵区、西充县4个区县现辖行政区域。",
+      "type": "seasoning",
+      "variety": "生产。1.品种:当地地方品种“箭杆种”(十字花科芸薹属芥菜种)。2.立地条件:土壤类型为灰紫色、红棕紫色土壤,质地为壤土、沙壤土及轻粘土,土壤pH值6.8至7.5,有机质含量≥1.5%。3.育苗:8月下旬至10月播种,每平方米苗数≤200株。幼苗5至6片真叶时定植。4.定植:于10月初定植,定植密度≤5000株/667m2(亩)。5.轮作:2年以上轮作。6.",
+      "sensory": "特性项目原菜型碎粒型色泽褐黑色、油润、有光泽褐黑色、油润、有光泽气味具有酱香或清香味具有酱香或清香味滋味味鲜、脆嫩、咸淡适口味鲜、脆嫩、咸淡适口形态菜型均匀、完整颗粒状、大小均匀",
+      "process": "",
+      "sectionSha256": "710a5716c8d30647c7fdb16fa92e36c37800bd44c89ebee02a4274ffce763616"
+    },
+    {
+      "itemId": "sw-f82c944db6b2679c3c",
+      "name": "田家紫皮大蒜",
+      "scope": "田家紫皮大蒜产地范围为四川省内江市东兴区田家镇、太安乡、高粱镇、高桥镇、东兴街道办事处、柳桥乡、同福乡、新店乡8个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "本地传统紫皮大蒜品种",
+      "sensory": "表面光滑,表皮呈紫红色,蒜瓣7至9瓣,大小均匀,蒜头重40g以上,蒜味浓郁",
+      "process": "",
+      "sectionSha256": "9ea91f38f24d93f32d23852fc1d6b18413b9e8fe05d2e8c4bc58c9a632991d93"
+    },
+    {
+      "itemId": "sw-e7313020fc26eefaf8",
+      "name": "东柳醪糟",
+      "scope": "东柳醪糟产地范围为四川省大竹县现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "色泽乳白或淡黄,晶莹剔透,呈絮状或粥状,无硬粒、汁水清澈,醇甜酒香,口感滑润",
+      "process": "流程。原料→浸泡→蒸煮→冷却→拌粬→罐装搭窝→发酵→成品",
+      "sectionSha256": "dadb82570d48bf0048baa2eb6f78aae679399384a782de483f96cd2e48a8bd07"
+    }
+  ]
+}

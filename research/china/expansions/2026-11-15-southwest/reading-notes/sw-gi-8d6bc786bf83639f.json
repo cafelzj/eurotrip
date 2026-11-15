@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-8d6bc786bf83639f",
+  "title": "地理标志产品公告 · 2020年第390号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2020%E5%B9%B4%E7%AC%AC390%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "8d6bc786bf83639fbafdde184c10b2df321732e5",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2020年第390号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2020%E5%B9%B4%E7%AC%AC390%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c4ea412117a7c3868c80f1700fc303eb28ea739e9c202eae86e80d8cdaffc8f7",
+    "textSha256": "e6de0082bfc6b53ad1e913aa2b698e579de91d130919744bacc5b748820b5d4e",
+    "textLength": 5150,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/8d6bc786bf83639fbafdde184c10b2df321732e5.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/8d6bc786bf83639fbafdde184c10b2df321732e5.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-0fc6ac527780eeb27f",
+      "name": "水城红香蒜",
+      "scope": "贵州省六盘水市水城区双水街道、尖山街道、董地街道、老鹰山街道、杨梅彝族苗族回族乡、新街彝族苗族布依族乡、野钟苗族彝族布依族乡、果布戛彝族苗族布依族乡、发耳镇、鸡场镇、都格镇、玉舍镇、勺米镇、坪寨彝族乡、陡箐镇、营盘苗族彝族白族乡、比德镇、化乐镇、米箩镇、花戛苗族布依族彝族乡、阿戛镇、蟠龙镇、顺场苗族彝族布依族乡、猴场苗族布依族乡、龙场苗族白族彝族乡共25个乡、镇、街道现辖行政区域",
+      "type": "ingredients",
+      "variety": "产地范围内的红皮蒜品种",
+      "sensory": "蒜头外皮呈淡红色至紫红色,蒜肉呈乳白色,辛香味浓郁,肉质细腻、脆嫩,蒜瓣6~9瓣,坚实饱满",
+      "process": "",
+      "sectionSha256": "b951a56535e57ca29ee5b49e2f9b27c4e83dc2a5c276c915ef7ab69b5c32bf06"
+    }
+  ]
+}

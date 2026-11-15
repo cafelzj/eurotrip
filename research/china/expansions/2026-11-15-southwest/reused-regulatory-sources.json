@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "repository": "https://github.com/JinQiangShi/Chinese-Nationnal-Geographic-Products",
+  "commit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+  "discoveryMethod": "复查先前按固定GitHub提交保留的全国性候选目录；本批只选四川、重庆、云南、贵州。结构化目录不是采用证据，逐产品另比对原始公告章节。",
+  "originalArchive": "research/archives/2026-11-14-flavor-program-4000.json",
+  "files": [
+    {
+      "path": "research/.local/program-4000/github-gi/products.json",
+      "sha256": "71a80535b24bddbbf8e26c5627a17333399742635f25a639872d3aaacd2795e0"
+    },
+    {
+      "path": "research/.local/program-4000/github-gi/extract-国家知识产权局地理标志保护产品批准公告.json",
+      "sha256": "5cec95aba134280399a55bd98c0d45035d08ac96c41a7dd957b41e55a0475133"
+    },
+    {
+      "path": "research/.local/program-4000/github-gi/extract-原质监总局地理标志保护产品批准公告.json",
+      "sha256": "538dfdef8a29e32da05a06a4cb0e3328afa1978e151311bd1fff92ddd366ea15"
+    },
+    {
+      "path": "research/.local/program-4000/github-gi/tree.json",
+      "sha256": "47f53795ce4992e1ff0a0649861daaad6d84413fba9e6defa526473f37435972"
+    },
+    {
+      "path": "research/.local/program-4000/github-gi/pdf-index.json",
+      "sha256": "933a993391d009600b02b7b978f301618085c68bce2fb1fa5f24d09ecf2e3799"
+    }
+  ],
+  "adoptedProducts": 602,
+  "readingNotes": "reading-notes/"
+}

@@ -1,0 +1,1861 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "candidateIndex": 0,
+      "candidateId": "memory-02c04dca568050",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "成都担担面",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-3adbd00e05431bbe"
+      ],
+      "description": "成都担担面被列入四川地方标准的天府旅游美食名录，属于成都地方小吃。",
+      "detail": "成都担担面被列入四川地方标准的天府旅游美食名录，属于成都地方小吃。现有已读范围确认名称与地方面食身份，具体面型、臊子和调味组合继续据专题补充。",
+      "locality": "",
+      "aliases": [
+        "担担面"
+      ],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 1,
+      "candidateId": "memory-e7c8d79df966c9",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "龙抄手",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "description": "龙抄手与成都地方饮食相连，公开老字号名录记录了成都市饮食公司龙抄手店。",
+      "detail": "龙抄手与成都地方饮食相连，公开老字号名录记录了成都市饮食公司龙抄手店。这里按食品品类记录，与店铺品牌和门店定位分开，具体馅料与汤底继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 2,
+      "candidateId": "memory-c8986977e17e0c",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "钟水饺",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "description": "钟水饺与成都地方小吃传统相连，公开老字号名录记录了成都的钟水饺店。",
+      "detail": "钟水饺与成都地方小吃传统相连，公开老字号名录记录了成都的钟水饺店。食品名称与老字号经营主体分别整理，不把某一家门店的做法自动视为所有同名食品的标准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 3,
+      "candidateId": "memory-be7368434b1979",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "赖汤圆",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "description": "赖汤圆是与成都地方饮食相连的汤圆名称，公开老字号名录记录了成都赖汤圆店。",
+      "detail": "赖汤圆是与成都地方饮食相连的汤圆名称，公开老字号名录记录了成都赖汤圆店。当前采用范围为名称、地方关联和米面点心类别，馅料、口味与历史细节继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 4,
+      "candidateId": "memory-bceaa6b7959613",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蛋烘糕",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-532dbca303e56c73"
+      ],
+      "description": "蛋烘糕是成都地方小吃。",
+      "detail": "蛋烘糕是成都地方小吃。四川文化旅游资料将其归为面食，记录烘烤的制作方式，以及酥泡、咸鲜与香甜的特点；不同馅料和现售门店另作区分。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 5,
+      "candidateId": "memory-4c7303612caf20",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "麻婆豆腐",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-3adbd00e05431bbe",
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "description": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。",
+      "detail": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。四川地方标准的陈麻婆豆腐章节记录了豆腐入盐水、炒香调料、加入鲜汤烧制和收汁等环节，成菜以豆腐与复合调味的结合为辨识线索。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 6,
+      "candidateId": "memory-c310e6b77a00cd",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "夫妻肺片",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-3adbd00e05431bbe",
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "description": "夫妻肺片是成都相关的川味凉菜。",
+      "detail": "夫妻肺片是成都相关的川味凉菜。四川地方标准记录以牛肉和牛杂卤熟、晾凉、切片，再配红油、花椒粉、芝麻粉、花生碎和芹菜等调成味汁。名称不意味着原料必定包含牛肺，具体组成应以相应制作资料为准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 8,
+      "candidateId": "memory-fbf3c4f1a4a446",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "菊乐乳业",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-0633132c4d3cdc4b",
+        "sw-source-873d8b7683884ce8"
+      ],
+      "description": "菊乐与成都地方乳业相连，官网产品目录列有常温、低温和冷饮类别，页脚标明成都市武侯区地址。",
+      "detail": "菊乐与成都地方乳业相连，官网产品目录列有常温、低温和冷饮类别，页脚标明成都市武侯区地址。旗下酸乐奶、牛奶和其他饮品分别看待，不将含乳饮料与纯牛奶混为同一种产品。",
+      "locality": "武侯区",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 9,
+      "candidateId": "memory-2c9856fd1bf863",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新希望乳业",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-f2fbf9c1bbaef640"
+      ],
+      "description": "新希望乳业与成都相连，2025年年度报告记载公司注册及办公地址位于成都市锦江区。",
+      "detail": "新希望乳业与成都相连，2025年年度报告记载公司注册及办公地址位于成都市锦江区。集团包含多地乳品企业与品牌，卡片记录公司与地方乳业的联系，奶源、工厂和具体产品分别保留。",
+      "locality": "锦江区",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 10,
+      "candidateId": "memory-e6ba096930f151",
+      "province": "sichuan",
+      "city": "成都",
+      "name": "郫县豆瓣",
+      "type": "seasoning",
+      "sourceIds": [
+        "sw-source-5b3a11dbacd1c5db"
+      ],
+      "description": "郫县豆瓣与成都地方调味传统相连。",
+      "detail": "郫县豆瓣与成都地方调味传统相连。知识产权资料将其列为成都的地理标志产品代表，与本地烹饪和特色食品产业共同发展；不把同名豆瓣与任意品牌、不同等级和配方视为完全相同。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 13,
+      "candidateId": "memory-b1e53b3b62978e",
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "富顺豆花",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-be1df755040d425d"
+      ],
+      "description": "富顺豆花是自贡地方饮食的代表之一。",
+      "detail": "富顺豆花是自贡地方饮食的代表之一。文化和旅游部盐帮美食线路明确推荐这一食品，与冷吃兔、水煮牛肉等一同呈现自贡风味；豆花本体与蘸水、餐馆品牌分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 15,
+      "candidateId": "memory-3c2600a09a3276",
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "自贡扎染",
+      "type": "crafts",
+      "sourceIds": [
+        "sw-source-b7704ae3a67fb230"
+      ],
+      "description": "自贡扎染被列入当地乡村旅游线路的传统工艺产品。",
+      "detail": "自贡扎染被列入当地乡村旅游线路的传统工艺产品。它属于染织与民间手工艺，与盐帮菜等食品分开归类；当前确认地方工艺身份，具体纹样与染制过程继续按专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 19,
+      "candidateId": "memory-a243488c2dd0c3",
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边羊肉米线",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-356540a7da97312a"
+      ],
+      "description": "盐边羊肉米线与攀枝花盐边的地方饮食相连。",
+      "detail": "盐边羊肉米线与攀枝花盐边的地方饮食相连。地方非遗介绍把它与国胜茶、盐边油底肉等共同列为当地特色，米线餐食与羊肉原料、经营门店分别记录。",
+      "locality": "盐边县",
+      "aliases": [
+        "羊肉米线"
+      ],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 20,
+      "candidateId": "memory-064c99c6c2a16f",
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸州老窖",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-352f9962b4cf7027"
+      ],
+      "description": "泸州老窖是与泸州酿酒传统相连的酒类品牌。",
+      "detail": "泸州老窖是与泸州酿酒传统相连的酒类品牌。官方文旅交流报道明确记载泸州老窖和郎酒产自泸州；不同酒款、度数和企业主体分别看待，不由品牌名称推断所有系列的原料配比。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 21,
+      "candidateId": "memory-18528b7fa0aba0",
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "郎酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-352f9962b4cf7027"
+      ],
+      "description": "郎酒与泸州地方酿酒产业相连，官方文旅报道明确记录其泸州地域关联。",
+      "detail": "郎酒与泸州地方酿酒产业相连，官方文旅报道明确记录其泸州地域关联。本条区分地方酒类品牌和不同产品系列，具体厂区、香型和工艺要求继续按对应产品资料补充。",
+      "locality": "",
+      "aliases": [
+        "古蔺郎酒"
+      ],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 22,
+      "candidateId": "memory-0db9d340db3ad8",
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "古蔺麻辣鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-eb83073753c444fa"
+      ],
+      "description": "古蔺麻辣鸡被文化和旅游部泸州相关线路列为特色美食。",
+      "detail": "古蔺麻辣鸡被文化和旅游部泸州相关线路列为特色美食。它属于地方鸡肉菜肴，与同名餐馆及预包装品牌分开，具体卤制和调味方法不由菜名独自推断。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 26,
+      "candidateId": "memory-c0140bb912bb36",
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江豆鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-9ad6a74f785541da"
+      ],
+      "description": "罗江豆鸡与德阳地方豆制食品传统相连。",
+      "detail": "罗江豆鸡与德阳地方豆制食品传统相连。德阳食品企业的地方交流报道记录了该产品，其身份属于加工豆制餐食，而不是因名称含鸡就判断为禽肉食品。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 28,
+      "candidateId": "memory-fb2e322cf9657b",
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "绵阳米粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-0532c72ad3dc0a31"
+      ],
+      "description": "绵阳米粉是当地有代表性的米粉餐食，供销合作交流报道明确将其列为绵阳特色产品。",
+      "detail": "绵阳米粉是当地有代表性的米粉餐食，供销合作交流报道明确将其列为绵阳特色产品。现做米粉、方便包装产品和具体餐馆分别整理，汤底与浇头按后续专题继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 30,
+      "candidateId": "memory-29feff497607b1",
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "江油肥肠",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-b2bbfd71ea1ac839"
+      ],
+      "description": "江油肥肠是与绵阳江油相关的地方菜肴。",
+      "detail": "江油肥肠是与绵阳江油相关的地方菜肴。地方年鉴工作报道记录了其饮食名片身份，食品本身与店铺、品牌分别看待，具体处理方式与配料继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 32,
+      "candidateId": "memory-79e75588ff8ade",
+      "province": "sichuan",
+      "city": "广元",
+      "name": "广元蒸凉面",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-07a87f3bd75162d6"
+      ],
+      "description": "广元蒸凉面被市级旅游介绍列为特色小吃。",
+      "detail": "广元蒸凉面被市级旅游介绍列为特色小吃。它属于当地米面餐食，与广元烩馍等共同呈现川北饮食风味；当前资料支持名称和地方关联，具体主料与蒸制方式继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 40,
+      "candidateId": "memory-1a7fee78afcbc3",
+      "province": "sichuan",
+      "city": "内江",
+      "name": "黄老五花生酥",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "description": "黄老五花生酥在四川天府旅游美食报道中作为内江地方食品出现。",
+      "detail": "黄老五花生酥在四川天府旅游美食报道中作为内江地方食品出现。它属于花生糖点与加工食品，食品品类、品牌和不同包装口味分开保留，不推断所有系列都采用相同配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 44,
+      "candidateId": "memory-65a828b15858a3",
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "乐山钵钵鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-5752270c2d10ae24"
+      ],
+      "description": "乐山钵钵鸡是当地地方饮食的代表之一，乐山市官方介绍有明确记录。",
+      "detail": "乐山钵钵鸡是当地地方饮食的代表之一，乐山市官方介绍有明确记录。这里按地方菜肴记录，不把食品名称等同于某一家连锁品牌，具体汤料、食材组合与制作技艺继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 45,
+      "candidateId": "memory-834713b32bafe2",
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "跷脚牛肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-0aa1464165357012"
+      ],
+      "description": "跷脚牛肉与乐山地方餐饮和食品加工产业相连，地方产业报道明确提及其作为乐山风味的发展。",
+      "detail": "跷脚牛肉与乐山地方餐饮和食品加工产业相连，地方产业报道明确提及其作为乐山风味的发展。当前保留食品名称和地方身份，具体牛肉部位、汤底与烹制方式继续专题核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 47,
+      "candidateId": "memory-6a18100a00a2a6",
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "乐山甜皮鸭",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-5752270c2d10ae24"
+      ],
+      "description": "乐山甜皮鸭是当地官方介绍中列出的特色食品，属于加工鸭肉菜肴。",
+      "detail": "乐山甜皮鸭是当地官方介绍中列出的特色食品，属于加工鸭肉菜肴。食品名称与不同经营品牌分别整理，糖皮和卤烤等工艺细节继续核对。",
+      "locality": "",
+      "aliases": [
+        "甜皮鸭"
+      ],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 49,
+      "candidateId": "memory-02905d7619941c",
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉竹叶青",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-532dbca303e56c73"
+      ],
+      "description": "峨眉竹叶青是与乐山峨眉山地方茶相连的名称，四川文化旅游资料列有相应特产条目。",
+      "detail": "峨眉竹叶青是与乐山峨眉山地方茶相连的名称，四川文化旅游资料列有相应特产条目。当前采用茶品与地方关联，茶叶品种、等级、品牌和具体制作标准仍需分别核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 50,
+      "candidateId": "memory-53e220c0077b31",
+      "province": "sichuan",
+      "city": "南充",
+      "name": "川北凉粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-1fa635eef1f9c7c2"
+      ],
+      "description": "川北凉粉在南充市政府的地方美食介绍中有明确记录。",
+      "detail": "川北凉粉在南充市政府的地方美食介绍中有明确记录。它是与川北饮食相连的风味小吃，城市收录不表示南充独占这种食品，具体原料与调味另按专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 51,
+      "candidateId": "memory-5036d84fd7641a",
+      "province": "sichuan",
+      "city": "南充",
+      "name": "南充锅盔",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-f4effca114de50f0"
+      ],
+      "description": "南充锅盔是文化和旅游部川北线路推荐的地方小吃。",
+      "detail": "南充锅盔是文化和旅游部川北线路推荐的地方小吃。它与川北凉粉等一同呈现当地面食风味，不将各地同名锅盔自动套成统一的配方和烙制方式。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 58,
+      "candidateId": "memory-04e4c717d299f8",
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "五粮液",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-284441be77e4994c"
+      ],
+      "description": "五粮液与宜宾地方酿酒产业相连。",
+      "detail": "五粮液与宜宾地方酿酒产业相连。文化和旅游部宜宾线路将其列为当地代表性产品，卡片区分品牌、酒款和地方酿酒文化，具体度数和产品标准分别按对应资料记录。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 59,
+      "candidateId": "memory-4a07da52fb7243",
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾燃面",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-340becf2130499cf"
+      ],
+      "description": "宜宾燃面被文化和旅游部宜宾线路明确推荐，是当地有代表性的地方面食。",
+      "detail": "宜宾燃面被文化和旅游部宜宾线路明确推荐，是当地有代表性的地方面食。现有读取支持食品名称与市域关联，面条、芽菜及调味的具体组合继续据专门制作资料补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 60,
+      "candidateId": "memory-19b4c0202e19d2",
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "李庄白肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-3adbd00e05431bbe"
+      ],
+      "description": "李庄白肉与宜宾李庄地方饮食相连。",
+      "detail": "李庄白肉与宜宾李庄地方饮食相连。四川地方标准记载用带皮猪肉煮熟后切成宽长薄片，配蒜泥、酱油、辣椒油、白糖和芝麻油等调味；认识这道菜可以从薄片刀工与蒜香味汁入手，餐馆的具体配比另行核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 61,
+      "candidateId": "memory-a796ef5d971787",
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾芽菜",
+      "type": "seasoning",
+      "sourceIds": [
+        "sw-source-340becf2130499cf"
+      ],
+      "description": "宜宾芽菜是当地旅游线路推荐的地方产品，按调味品记录。",
+      "detail": "宜宾芽菜是当地旅游线路推荐的地方产品，按调味品记录。它与宜宾燃面等食品分别保留，当前不将不同加工形态、品牌和配料一概视为相同。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 65,
+      "candidateId": "memory-61478fa8f33167",
+      "province": "sichuan",
+      "city": "广安",
+      "name": "岳池米粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-341acbaad0d14997"
+      ],
+      "description": "岳池米粉是广安地方美食，市政府地方产品交流报道将其列入特色食品展示。",
+      "detail": "岳池米粉是广安地方美食，市政府地方产品交流报道将其列入特色食品展示。米粉餐食与产业品牌、包装产品和具体门店分别整理，汤底和配菜继续按专题核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 71,
+      "candidateId": "memory-ffd6cb6a0387a5",
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "蒙顶甘露",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-f41e49d5193e7f4d"
+      ],
+      "description": "蒙顶甘露被文化和旅游部雅安茶源线路列为地方特产。",
+      "detail": "蒙顶甘露被文化和旅游部雅安茶源线路列为地方特产。它与蒙顶黄芽、雅安藏茶等分别呈现当地茶品的多样性，茶名、茶类、品牌和等级不互相替代。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 72,
+      "candidateId": "memory-8f428434a35985",
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "蒙顶黄芽",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-d910eeb61cc1146c"
+      ],
+      "description": "蒙顶黄芽是雅安地方茶品，文化和旅游部雅安线路有明确推荐。",
+      "detail": "蒙顶黄芽是雅安地方茶品，文化和旅游部雅安线路有明确推荐。当前确认名称与地方茶文化关联，具体品种、等级与制茶过程继续按专题资料扩写。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 73,
+      "candidateId": "memory-765a39bd2319cc",
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "雅安藏茶",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-f41e49d5193e7f4d"
+      ],
+      "description": "雅安藏茶是与雅安地方茶文化相连的茶品，文旅线路将其与蒙顶甘露等并列。",
+      "detail": "雅安藏茶是与雅安地方茶文化相连的茶品，文旅线路将其与蒙顶甘露等并列。这里区分地方茶品、历史贸易与不同企业品牌，不把某一种包装或营销说法视为全部藏茶的属性。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 76,
+      "candidateId": "memory-7a2b9dfb52628d",
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "荥经砂器",
+      "type": "crafts",
+      "sourceIds": [
+        "sw-source-bce6887fb48accd5"
+      ],
+      "description": "荥经砂器是雅安地方传统器物，文化和旅游部线路明确记录荥经砂器烧制技艺。",
+      "detail": "荥经砂器是雅安地方传统器物，文化和旅游部线路明确记录荥经砂器烧制技艺。当地将砂器与茶、砂锅雅鱼等饮食体验联系起来，器物本身归物品与工艺，具体泥料和烧制过程另行补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 84,
+      "candidateId": "memory-ef3ef9abebbc9d",
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "临江寺豆瓣",
+      "type": "seasoning",
+      "sourceIds": [
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "description": "临江寺豆瓣在四川天府旅游美食的资阳介绍中有明确记录。",
+      "detail": "临江寺豆瓣在四川天府旅游美食的资阳介绍中有明确记录。它属于地方调味品，产品名称、品牌和具体豆瓣配方分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 87,
+      "candidateId": "memory-ca9c6aeafc0f7b",
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "金川雪梨",
+      "type": "ingredients",
+      "sourceIds": [
+        "sw-source-61a6921c6ee0bfb9"
+      ],
+      "description": "金川雪梨在阿坝州官方参展产品名单中有明确记录，是当地果品的一类。",
+      "detail": "金川雪梨在阿坝州官方参展产品名单中有明确记录，是当地果品的一类。这里记录果品与地域的联系，鲜果、加工品和地方宴席不混为同一产品。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 91,
+      "candidateId": "memory-bf78c1937c9141",
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "酥油",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "description": "酥油是与阿坝藏族饮食相连的乳食原料。",
+      "detail": "酥油是与阿坝藏族饮食相连的乳食原料。阿坝地方志的小吃介绍记录了酥油茶、人参果饭和糌粑等食用场景，与牦牛奶和其他乳食形态分别记录。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。地域范围与初稿不同，按明确的来源范围整理；共享食品不因此认定其他地区不存在。"
+    },
+    {
+      "candidateIndex": 92,
+      "candidateId": "memory-12c0a0a114cb9a",
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "糌粑",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "description": "糌粑在阿坝地方饮食资料中有明确介绍，可由青稞、豌豆或燕麦等制成炒熟的粮粉，食用时配茶水和少量酥油。",
+      "detail": "糌粑在阿坝地方饮食资料中有明确介绍，可由青稞、豌豆或燕麦等制成炒熟的粮粉，食用时配茶水和少量酥油。它属于主食，与甘孜水淘糌粑等具体形态按资料范围分别记录。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。地域范围与初稿不同，按明确的来源范围整理；共享食品不因此认定其他地区不存在。"
+    },
+    {
+      "candidateIndex": 93,
+      "candidateId": "memory-3e26edcd53eb1a",
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "酥油茶",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "description": "酥油茶是阿坝地方志记录的藏族茶饮，与酥油和茶的饮食传统相连。",
+      "detail": "酥油茶是阿坝地方志记录的藏族茶饮，与酥油和茶的饮食传统相连。这里按饮茶方式记录，茶叶原料、酥油和成品茶饮分别整理，不沿用资料中的营养替代或健康效果宣传。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。地域范围与初稿不同，按明确的来源范围整理；共享食品不因此认定其他地区不存在。"
+    },
+    {
+      "candidateIndex": 100,
+      "candidateId": "memory-e0cbdd4e9dcb2a",
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "彝族坨坨肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-7ac142ae29e65fdd"
+      ],
+      "description": "彝族坨坨肉被文化和旅游部四川民族风情线路列为凉山相关地方美食。",
+      "detail": "彝族坨坨肉被文化和旅游部四川民族风情线路列为凉山相关地方美食。它属于肉食菜肴，具体肉类、部位和制作过程继续核对，民族食品与具体城市店铺分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 102,
+      "candidateId": "memory-08ed926458d035",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "重庆火锅",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "description": "重庆火锅是当地有代表性的饮食形式，以锅中加热食材和复合调味展现地方风味。",
+      "detail": "重庆火锅是当地有代表性的饮食形式，以锅中加热食材和复合调味展现地方风味。地方非遗介绍以麻辣鲜香描述其特点；汤底、蘸料、食材和品牌分别看待，不以某一门店的菜单定义全部重庆火锅。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 103,
+      "candidateId": "memory-56938a579a53f0",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "毛血旺",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "description": "毛血旺被文化和旅游部的重庆旅游美食报道列为地方菜肴。",
+      "detail": "毛血旺被文化和旅游部的重庆旅游美食报道列为地方菜肴。当前采用食品名称与地方关联，具体血制品、肉类和蔬菜组成继续据专题核对，不把菜名当成固定配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 104,
+      "candidateId": "memory-4a771b335f8f8a",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江鸡杂",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "description": "黔江鸡杂进入重庆旅游美食推荐，文化和旅游部报道明确记载其黔江地域关联。",
+      "detail": "黔江鸡杂进入重庆旅游美食推荐，文化和旅游部报道明确记载其黔江地域关联。它属于鸡杂菜肴，餐馆与预包装品牌另行区分，不由名称推定统一配菜和调味比例。",
+      "locality": "黔江区",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 105,
+      "candidateId": "memory-f70aeb2feea5ad",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "歌乐山辣子鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "description": "歌乐山辣子鸡是重庆地方民间菜。",
+      "detail": "歌乐山辣子鸡是重庆地方民间菜。地方非遗介绍描述鸡肉丁与干红辣椒结合、干香醇厚和麻辣的风味，食品名称与具体品牌分开，制作年代和起源传说不作为本条已核实内容。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 106,
+      "candidateId": "memory-a1b9ecf20921a5",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "万州烤鱼",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "description": "万州烤鱼被列入重庆旅游美食“渝味360碗”头碗菜，反映了万州地方餐饮特色。",
+      "detail": "万州烤鱼被列入重庆旅游美食“渝味360碗”头碗菜，反映了万州地方餐饮特色。鱼种、汤汁、配菜和不同烤鱼品牌继续分别记录，不将一种做法套用到所有门店。",
+      "locality": "万州区",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 107,
+      "candidateId": "memory-f5c7027fb4df5d",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "梁平张鸭子",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "description": "梁平张鸭子在重庆旅游美食推荐中有明确记录。",
+      "detail": "梁平张鸭子在重庆旅游美食推荐中有明确记录。它属于与梁平相关的加工鸭肉食品，食品名称、品牌与经营门店分开，具体卤制、熏烤和调味继续按专题资料补充。",
+      "locality": "梁平区",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 108,
+      "candidateId": "memory-0fc0d2fe6bff4d",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "重庆小面",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "description": "重庆小面以面条和地方调味组合形成日常风味。",
+      "detail": "重庆小面以面条和地方调味组合形成日常风味。地方非遗介绍记载面粉制成面条、配时令蔬菜，并使用酱油、榨菜、姜蒜水、花生和红油等调味，浇头与辣味可以因做法而异。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 111,
+      "candidateId": "memory-8218a89cae4cbb",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "磁器口陈麻花",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-7e0e2bca3b634b6a"
+      ],
+      "description": "磁器口陈麻花在地方旅游整理资料中被列为重庆小吃，具有酥脆和多种口味的特点。",
+      "detail": "磁器口陈麻花在地方旅游整理资料中被列为重庆小吃，具有酥脆和多种口味的特点。当前作为民间资料与独立知识相符的地方食品线索采用，品牌、门店及配方仍待进一步核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。本条依据民间旅游或企业目录与独立知识相符的信息合理采用，尚待更强的一手材料。",
+      "evidenceAssessment": "reasonable-with-limits"
+    },
+    {
+      "candidateIndex": 114,
+      "candidateId": "memory-3f5abd9dd69f59",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "永川豆豉",
+      "type": "seasoning",
+      "sourceIds": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "description": "永川豆豉是以黄豆发酵形成的地方调味品。",
+      "detail": "永川豆豉是以黄豆发酵形成的地方调味品。地方非遗介绍描述其油黑、酱香和回甜的特点，并记录用来炒回锅肉等食用场景；不同品牌与成品含盐量等属性另按产品资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 115,
+      "candidateId": "memory-ebf80549f3b946",
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "天友乳业",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-1a555c7197520019"
+      ],
+      "description": "天友乳业与重庆地方乳品产业相连。",
+      "detail": "天友乳业与重庆地方乳品产业相连。企业介绍目录记录了液体乳、发酵乳和饮料等经营类别，当前作为企业目录与独立知识吻合的信息采用；品牌、具体工厂和各类乳品分别记录，尚未核对部分不作完整经营状态保证。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。本条依据民间旅游或企业目录与独立知识相符的信息合理采用，尚待更强的一手材料。",
+      "evidenceAssessment": "reasonable-with-limits"
+    },
+    {
+      "candidateIndex": 128,
+      "candidateId": "memory-d6c748708ed451",
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "小锅米线",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-07aaa3e9dc19d664"
+      ],
+      "description": "小锅米线是昆明地方餐食，云南商务部门的州市美食介绍有明确推荐。",
+      "detail": "小锅米线是昆明地方餐食，云南商务部门的州市美食介绍有明确推荐。它与破酥包等共同呈现昆明日常饮食，具体汤底、配菜和门店品牌继续分别核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 131,
+      "candidateId": "memory-8a50057f48ef96",
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "雪兰牛奶",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-b6948cd594c53d09"
+      ],
+      "description": "雪兰牛奶与昆明地方乳业相连，昆明信息港的企业介绍记载其乳品生产及地方企业身份。",
+      "detail": "雪兰牛奶与昆明地方乳业相连，昆明信息港的企业介绍记载其乳品生产及地方企业身份。不同奶源、生产基地和具体系列分别记录，历史文章中的经营规模不作为当前状态直接沿用。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 132,
+      "candidateId": "memory-a27abb54556193",
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "汽锅鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-21b3561769cb0c1b"
+      ],
+      "description": "汽锅鸡在昆明商务部门的地方滇菜介绍中有明确记录。",
+      "detail": "汽锅鸡在昆明商务部门的地方滇菜介绍中有明确记录。它属于地方鸡肉菜肴，食品与具体餐馆分开，器具、主料和烹制方式继续按专门资料补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 134,
+      "candidateId": "memory-6a19f9f5854a20",
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "宣威火腿",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-866bc365853ed04f"
+      ],
+      "description": "宣威火腿在曲靖市地方文旅介绍中有明确记录，属于地方加工肉制品。",
+      "detail": "宣威火腿在曲靖市地方文旅介绍中有明确记录，属于地方加工肉制品。它与火腿品牌、不同部位及加工方式分别看待，具体腌制和成熟要求继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 135,
+      "candidateId": "memory-78334c14d80beb",
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "沾益辣子鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-866bc365853ed04f"
+      ],
+      "description": "沾益辣子鸡是曲靖地方美食，市级文旅新闻发布资料有明确介绍。",
+      "detail": "沾益辣子鸡是曲靖地方美食，市级文旅新闻发布资料有明确介绍。这里记录食品名称与地域身份，鸡肉部位、辣椒品种和配方不由菜名独自推断。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 136,
+      "candidateId": "memory-5750650ff84a06",
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "蒸饵丝",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-4aa33ec376ff3ddf"
+      ],
+      "description": "蒸饵丝被文化和旅游部曲靖麒麟乡村线路列为地方食品。",
+      "detail": "蒸饵丝被文化和旅游部曲靖麒麟乡村线路列为地方食品。它属于米制餐食，与饵块、米线及具体门店分别整理，蒸制和调味细节继续按专题核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 139,
+      "candidateId": "memory-56944a44e2faf0",
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "通海豆末糖",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-dd713fa62c194243"
+      ],
+      "description": "通海豆末糖被玉溪地方名小吃推介明确列出，属于地方糖点。",
+      "detail": "通海豆末糖被玉溪地方名小吃推介明确列出，属于地方糖点。食品名称与通海地域关联保留，原料比例和具体品牌继续按产品及技艺资料分别核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 141,
+      "candidateId": "memory-e8206fc913d420",
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "玉溪凉米线",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-22292650369bdda3"
+      ],
+      "description": "玉溪凉米线进入当地名小吃推荐，是玉溪米线饮食的一种形态。",
+      "detail": "玉溪凉米线进入当地名小吃推荐，是玉溪米线饮食的一种形态。它与鳝鱼米线、小锅米线等分别记录，冷食名称不代表固定配料和统一酸辣程度。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 143,
+      "candidateId": "memory-9fe71dc88c59f8",
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "华宁柑橘",
+      "type": "ingredients",
+      "sourceIds": [
+        "sw-source-72286b4d67beed46"
+      ],
+      "description": "华宁柑橘是玉溪地方果品，市政府相关介绍有明确记录。",
+      "detail": "华宁柑橘是玉溪地方果品，市政府相关介绍有明确记录。鲜果、果汁和其他加工产品分别看待，具体品种、成熟季节及产地范围继续按对应资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 144,
+      "candidateId": "memory-faac7f8a11e037",
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "元江芒果",
+      "type": "ingredients",
+      "sourceIds": [
+        "sw-source-22292650369bdda3"
+      ],
+      "description": "元江芒果在玉溪地方名品介绍中有明确记录，是当地热区果品之一。",
+      "detail": "元江芒果在玉溪地方名品介绍中有明确记录，是当地热区果品之一。产品名称与产区关联保留，不把同一地区不同芒果品种和加工形态当作完全一致。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 146,
+      "candidateId": "memory-8a169930fa7a34",
+      "province": "yunnan",
+      "city": "保山",
+      "name": "腾冲大救驾",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-07283892f5d74696"
+      ],
+      "description": "腾冲大救驾是保山文旅部门资料记录的地方美食。",
+      "detail": "腾冲大救驾是保山文旅部门资料记录的地方美食。它与腾冲饵丝等分别整理，当前采用名称和地方食品身份，具体配料与炒制过程继续按专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 149,
+      "candidateId": "memory-9bbd40bf6501f4",
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "昭通小肉串",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-6aba83ff2e398915"
+      ],
+      "description": "昭通小肉串被列入昭阳地方特色食品展示，是当地餐饮风味的一种。",
+      "detail": "昭通小肉串被列入昭阳地方特色食品展示，是当地餐饮风味的一种。肉类、串制方式、调料和门店分别核对，食品类别归地方菜肴与熟食。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 154,
+      "candidateId": "memory-88724ee365a935",
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "丽江腊排骨",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-4ffc7b499480488f"
+      ],
+      "description": "丽江腊排骨是云南商务部门地方食品报道记录的丽江风味。",
+      "detail": "丽江腊排骨是云南商务部门地方食品报道记录的丽江风味。它与腊排骨火锅、包装产品和不同品牌分别认识，肉类部位、腌制与煮食方法继续按专题资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 156,
+      "candidateId": "memory-1bf836fcb5114d",
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "鸡豆凉粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-1c69deabf2b522b7"
+      ],
+      "description": "鸡豆凉粉被文化和旅游部丽江线路列为地方美食。",
+      "detail": "鸡豆凉粉被文化和旅游部丽江线路列为地方美食。它是当地有代表性的粉类小吃，冷热食用及调味方式继续分别核对，不把所有同名凉粉视为同一种原料。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 157,
+      "candidateId": "memory-18a6d27f5ac328",
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "丽江粑粑",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-7724ff26b01d01eb"
+      ],
+      "description": "丽江粑粑在文化和旅游部丽江乡村线路中有明确推荐。",
+      "detail": "丽江粑粑在文化和旅游部丽江乡村线路中有明确推荐。它属于地方米面小吃，甜咸口味、烘烤方式及经营门店继续分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 158,
+      "candidateId": "memory-3ab418efba7b68",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "鹤庆乾酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-7ad72628b506186b"
+      ],
+      "description": "鹤庆乾酒属于大理鹤庆地方酒，云南商务部门的南博会大理展区介绍有明确记录。",
+      "detail": "鹤庆乾酒属于大理鹤庆地方酒，云南商务部门的南博会大理展区介绍有明确记录。这里以大理作为地域归属，酒品、品牌与不同酒款分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。地域范围与初稿不同，按明确的来源范围整理；共享食品不因此认定其他地区不存在。"
+    },
+    {
+      "candidateIndex": 159,
+      "candidateId": "memory-eb0bd7cd374e95",
+      "province": "yunnan",
+      "city": "全省",
+      "name": "普洱茶",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-4fa6c747227675c6"
+      ],
+      "description": "普洱茶与云南多个地方的制茶传统相连。",
+      "detail": "普洱茶与云南多个地方的制茶传统相连。云南官方普洱专题记录普洱市作为重要原产地的联系，产品公告的保护范围则更广；本条按已有保护范围保留全省关联，不把一种茶自动限定为一个城市。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。地域范围与初稿不同，按明确的来源范围整理；共享食品不因此认定其他地区不存在。"
+    },
+    {
+      "candidateIndex": 161,
+      "candidateId": "memory-6c523f8fe65ef4",
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "普洱咖啡",
+      "type": "drinks",
+      "sourceIds": [
+        "sw-source-7ad72628b506186b"
+      ],
+      "description": "普洱咖啡在云南商务部门的普洱展区介绍中有明确记录，体现当地咖啡种植与加工产业的地方身份。",
+      "detail": "普洱咖啡在云南商务部门的普洱展区介绍中有明确记录，体现当地咖啡种植与加工产业的地方身份。咖啡豆、烘焙品和成品饮料分别整理，风味与品牌按具体产品补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 170,
+      "candidateId": "memory-fcca30d8db1fca",
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "南华野生菌",
+      "type": "ingredients",
+      "sourceIds": [
+        "sw-source-0eb98df43e925bb3"
+      ],
+      "description": "南华野生菌与楚雄南华的地方饮食产业相连，文化和旅游部线路记录了当地野生菌美食文化活动。",
+      "detail": "南华野生菌与楚雄南华的地方饮食产业相连，文化和旅游部线路记录了当地野生菌美食文化活动。这里是食用菌专题概览，不把泛称当作某一个菌种，具体产品需另核名称与用途。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 173,
+      "candidateId": "memory-39a37affdc1a45",
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "蒙自过桥米线",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-60bf0b341c461e70"
+      ],
+      "description": "蒙自过桥米线是红河地方餐食，州政府非遗保护规划明确记录相关制作技艺。",
+      "detail": "蒙自过桥米线是红河地方餐食，州政府非遗保护规划明确记录相关制作技艺。食品本身、技艺项目与餐馆品牌分别整理，汤料、配菜和制作步骤继续按专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 175,
+      "candidateId": "memory-86a8eca58e90c5",
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "建水烧豆腐",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-da2de5fa51ae93be"
+      ],
+      "description": "建水烧豆腐又称临安豆腐，是红河建水地方小吃。",
+      "detail": "建水烧豆腐又称临安豆腐，是红河建水地方小吃。地方美食介绍描述其小块豆腐烤成鼓起、表面金黄、内里细嫩的形态，食用时的蘸水与不同店家做法另行核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 185,
+      "candidateId": "memory-69dafdef9e22ca",
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "香茅草烤鱼",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-cfaaf39617d9a60a"
+      ],
+      "description": "香茅草烤鱼在西双版纳星光夜市的地方报道中有明确记录，成品以外焦里嫩和香茅风味为特点。",
+      "detail": "香茅草烤鱼在西双版纳星光夜市的地方报道中有明确记录，成品以外焦里嫩和香茅风味为特点。鱼种、香料配比和具体制作方法仍按对应资料分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 186,
+      "candidateId": "memory-87fa89896bf8a7",
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "菠萝紫米饭",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-31abd16109a41353"
+      ],
+      "description": "菠萝紫米饭被云南官方地方旅游介绍列入西双版纳特色美食，属于米饭与水果结合的地方餐食。",
+      "detail": "菠萝紫米饭被云南官方地方旅游介绍列入西双版纳特色美食，属于米饭与水果结合的地方餐食。现有采用范围为名称、地域及主食身份，具体米种和蒸制方式继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 187,
+      "candidateId": "memory-a2c586161c080b",
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "竹筒饭",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-31abd16109a41353"
+      ],
+      "description": "竹筒饭被云南地方旅游介绍列为西双版纳美食。",
+      "detail": "竹筒饭被云南地方旅游介绍列为西双版纳美食。它与当地傣族饮食相连，竹筒作为食物器具的形式与具体粮食、馅料和烤蒸做法分别核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 188,
+      "candidateId": "memory-faf0e510329535",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "大理乳扇",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-da2de5fa51ae93be"
+      ],
+      "description": "大理乳扇是与白族饮食相连的乳制品，地方介绍明确记载主产于大理洱源。",
+      "detail": "大理乳扇是与白族饮食相连的乳制品，地方介绍明确记载主产于大理洱源。它由牛奶与酸水处理后形成乳白或淡黄的薄片，含水较少，烤食、炸食与其他食用方式分别整理。",
+      "locality": "洱源县",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 190,
+      "candidateId": "memory-711a2bf5e0c04d",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "蝶泉牛奶",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-f2fbf9c1bbaef640"
+      ],
+      "description": "蝶泉牛奶与大理地方乳业相连。",
+      "detail": "蝶泉牛奶与大理地方乳业相连。新希望乳业2025年年度报告列有云南新希望邓川蝶泉乳业有限公司，并记载在大理的乳品生产和销售业务。品牌、公司主体、具体奶源和生产厂分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 191,
+      "candidateId": "memory-832edb77ad303d",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "永平黄焖鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-7ad72628b506186b"
+      ],
+      "description": "永平黄焖鸡在云南商务部门的大理展区介绍中有明确记录，属于地方鸡肉餐食。",
+      "detail": "永平黄焖鸡在云南商务部门的大理展区介绍中有明确记录，属于地方鸡肉餐食。食品与餐馆品牌分别保留，具体调味和焖制过程继续据专题核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 192,
+      "candidateId": "memory-b44fbb96904ae1",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "大理砂锅鱼",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-f9d5ac4279040e51"
+      ],
+      "description": "大理砂锅鱼是地方介绍记录的白族筵席菜，以鱼为主要原料，在砂锅中与荤素配料同煮。",
+      "detail": "大理砂锅鱼是地方介绍记录的白族筵席菜，以鱼为主要原料，在砂锅中与荤素配料同煮。文中还记载只用鱼头入砂锅的形态，鲜鱼、器具与具体配料分别认识，不把一种做法视为固定标准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 193,
+      "candidateId": "memory-b384d4bb868a66",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "白族三道茶",
+      "type": "tea",
+      "sourceIds": [
+        "sw-source-040102b6146412f0"
+      ],
+      "description": "白族三道茶与大理地方饮茶习俗相连，文化和旅游部非遗线路明确记录相关制作技艺。",
+      "detail": "白族三道茶与大理地方饮茶习俗相连，文化和旅游部非遗线路明确记录相关制作技艺。这里按茶饮与饮茶方式整理，具体茶叶、配料和礼俗环节继续据专题扩写。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 194,
+      "candidateId": "memory-3d6040837561ee",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "喜洲粑粑",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-88a7f7a3d64625bf"
+      ],
+      "description": "喜洲粑粑是文化和旅游部大理线路推荐的地方小吃，与喜洲和白族饮食文化相连。",
+      "detail": "喜洲粑粑是文化和旅游部大理线路推荐的地方小吃，与喜洲和白族饮食文化相连。当前采用名称与面点身份，不将不同口味和经营门店自动合并为统一配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 195,
+      "candidateId": "memory-8635faa40b6e56",
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "烧饵块",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-88a7f7a3d64625bf"
+      ],
+      "description": "烧饵块是文化和旅游部大理线路列出的米制小吃。",
+      "detail": "烧饵块是文化和旅游部大理线路列出的米制小吃。饵块本体、烧制食用方式与不同酱料、夹馅分别整理，具体主料和制作环节继续按专题资料核对。",
+      "locality": "",
+      "aliases": [
+        "饵块"
+      ],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 196,
+      "candidateId": "memory-b675b966bc8cd6",
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "德宏撒撇",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-07aaa3e9dc19d664"
+      ],
+      "description": "德宏撒撇是当地有代表性的民族地方餐食。",
+      "detail": "德宏撒撇是当地有代表性的民族地方餐食。云南商务部门的州市美食介绍有明确记录，食品品类、不同撒撇做法与具体门店分别看待，配料与调味过程继续按专题资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 198,
+      "candidateId": "memory-3c0aef730dc9bd",
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "泼水粑粑",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-4a6525533b8cebd8"
+      ],
+      "description": "泼水粑粑在德宏地方民族饮食介绍中有明确记录，并与回龙茶、撒撇等一同列入相关非遗食品。",
+      "detail": "泼水粑粑在德宏地方民族饮食介绍中有明确记录，并与回龙茶、撒撇等一同列入相关非遗食品。它属于地方米面小吃，具体米种与制法继续按专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 199,
+      "candidateId": "memory-35981a85ec4afe",
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "过手米线",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-87b52769719d2ab7"
+      ],
+      "description": "过手米线在德宏地方旅游介绍中被明确列为阿昌族特色美食。",
+      "detail": "过手米线在德宏地方旅游介绍中被明确列为阿昌族特色美食。食品本身、民族饮食方式和具体经营门店分开，米线配料与食用过程继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 202,
+      "candidateId": "memory-bca1a9d4b6d194",
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "漆油鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-25af7572ea4115a6"
+      ],
+      "description": "漆油鸡是文化和旅游部怒江线路推荐的地方鸡肉菜肴。",
+      "detail": "漆油鸡是文化和旅游部怒江线路推荐的地方鸡肉菜肴。当前确认食品名称与地方关联，漆油原料、处理及具体做法需继续据专门食品资料核对，不只凭名称推断制作方法。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 203,
+      "candidateId": "memory-10df2cfa841fd9",
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "老窝火腿",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-25af7572ea4115a6"
+      ],
+      "description": "老窝火腿在文化和旅游部怒江线路中有明确推荐，是当地加工肉食的一类。",
+      "detail": "老窝火腿在文化和旅游部怒江线路中有明确推荐，是当地加工肉食的一类。食品名称与地方关联保留，具体肉类、腌制方法与成熟过程继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 210,
+      "candidateId": "memory-84cce3dafb5a62",
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "维西糯山药",
+      "type": "ingredients",
+      "sourceIds": [
+        "sw-source-90c1233b56699149"
+      ],
+      "description": "维西糯山药在云南官方迪庆地方饮食介绍中被列为农副产品。",
+      "detail": "维西糯山药在云南官方迪庆地方饮食介绍中被列为农副产品。它与维西地方物产相连，鲜品、加工食品和餐饮用途分别认识，品种与具体生产范围继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 211,
+      "candidateId": "memory-cfce34c132ad01",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "肠旺面",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-59661d2cb68c1130"
+      ],
+      "description": "肠旺面与贵阳地方小吃传统相连，贵阳知识产权保护报道明确列有相关食品品牌。",
+      "detail": "肠旺面与贵阳地方小吃传统相连，贵阳知识产权保护报道明确列有相关食品品牌。食品品类与具体品牌、门店分别整理，面条、肠和血旺等配料细节继续按制作资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 212,
+      "candidateId": "memory-62cfa349677f00",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "丝娃娃",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-fa6fddb1cc02670f"
+      ],
+      "description": "丝娃娃在贵阳南明区青云路地方餐饮报道中有明确记录。",
+      "detail": "丝娃娃在贵阳南明区青云路地方餐饮报道中有明确记录。它属于当地风味小吃，食品与店铺品牌分开，面皮、配菜和蘸水继续据专题资料补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 213,
+      "candidateId": "memory-a47dcc44ec4c45",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "花溪牛肉粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-59661d2cb68c1130"
+      ],
+      "description": "花溪牛肉粉与贵阳花溪地方饮食相连，地方知识产权资料将其列为特色小吃品牌。",
+      "detail": "花溪牛肉粉与贵阳花溪地方饮食相连，地方知识产权资料将其列为特色小吃品牌。食品品类与具体商标分别认识，米粉、肉汤和配菜按对应制作资料继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 216,
+      "candidateId": "memory-724db400cb24d2",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "好一多牛奶",
+      "type": "dairy",
+      "sourceIds": [
+        "sw-source-a3f2a3e84a388b02"
+      ],
+      "description": "好一多牛奶与贵阳地方乳业相连，企业官网记载鲜牛奶、酸牛奶及鲜奶冰淇淋等产品，并列明贵阳市修文县地址。",
+      "detail": "好一多牛奶与贵阳地方乳业相连，企业官网记载鲜牛奶、酸牛奶及鲜奶冰淇淋等产品，并列明贵阳市修文县地址。公司、牧场、具体产品与奶源分别看待，不沿用营销中的健康效果或绝对质量评价。",
+      "locality": "修文县",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 217,
+      "candidateId": "memory-ed2c3a9f77b66f",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "青岩卤猪脚",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-736745a382900346"
+      ],
+      "description": "青岩卤猪脚在贵州地方美食介绍中有明确推荐，属于贵阳青岩相关的熟制猪肉食品。",
+      "detail": "青岩卤猪脚在贵州地方美食介绍中有明确推荐，属于贵阳青岩相关的熟制猪肉食品。地方菜肴、餐馆品牌与不同卤制配方分别保留。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 219,
+      "candidateId": "memory-de0552157eb5b0",
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "恋爱豆腐果",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-3efa8a30d68f73e5"
+      ],
+      "description": "恋爱豆腐果是文化和旅游部贵阳花溪线路推荐的地方小吃。",
+      "detail": "恋爱豆腐果是文化和旅游部贵阳花溪线路推荐的地方小吃。它属于地方豆制餐食，名称与食品本身分开解释，具体烤制、配料和命名故事仍需进一步核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 221,
+      "candidateId": "memory-f06f3d17d5a101",
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城羊肉粉",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "description": "水城羊肉粉是文化和旅游部六盘水线路推荐的地方餐食。",
+      "detail": "水城羊肉粉是文化和旅游部六盘水线路推荐的地方餐食。它与本地米粉饮食相连，羊肉部位、汤底和配料继续按专题核对，不套用其他城市同名羊肉粉的做法。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 222,
+      "candidateId": "memory-53970eb75375f7",
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "盘州火腿",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "description": "盘州火腿在六盘水地方线路中以盘县火腿之名出现，属于地方加工肉制品。",
+      "detail": "盘州火腿在六盘水地方线路中以盘县火腿之名出现，属于地方加工肉制品。旧县名与现行盘州市名称分别保留，具体腌制和储存要求继续据产品资料核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 223,
+      "candidateId": "memory-5868395ed44475",
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城烙锅",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "description": "水城烙锅是六盘水地方线路推荐的特色餐食。",
+      "detail": "水城烙锅是六盘水地方线路推荐的特色餐食。它属于地方烹食方式与菜肴组合，具体肉类、蔬菜、器具和蘸料分别看待，不把所有烙锅推定为固定菜单。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 228,
+      "candidateId": "memory-3c24ffc8d79394",
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "遵义羊肉粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-521260f3ae7e2ebd"
+      ],
+      "description": "遵义羊肉粉在贵州地方米粉专题中有明确介绍，是当地米粉饮食的重要一类。",
+      "detail": "遵义羊肉粉在贵州地方米粉专题中有明确介绍，是当地米粉饮食的重要一类。不同汤底、羊肉处理与调味方式继续分别核对，食品名称不等同于单一餐馆品牌。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 229,
+      "candidateId": "memory-a958b0b19886da",
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "鸭溪凉粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-0e5b05a82be71be6"
+      ],
+      "description": "鸭溪凉粉被文化和旅游部遵义线路列为地方小吃。",
+      "detail": "鸭溪凉粉被文化和旅游部遵义线路列为地方小吃。它与鸭溪豆豉火锅等一同呈现当地饮食差异，具体粉类原料与调味按专题资料继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 233,
+      "candidateId": "memory-66dcd53e6bdeb8",
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺裹卷",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-4e4a23a7022cf48b"
+      ],
+      "description": "安顺裹卷在文化和旅游部安顺地方线路中有明确推荐，属于当地卷制米面小吃。",
+      "detail": "安顺裹卷在文化和旅游部安顺地方线路中有明确推荐，属于当地卷制米面小吃。面皮、馅料、蘸汁与不同门店做法分别整理，具体制法继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 235,
+      "candidateId": "memory-bdd408efadc672",
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺夺夺粉",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-b7f49d1ce984912b"
+      ],
+      "description": "安顺夺夺粉被文化和旅游部安顺屯堡线路列为特色美食。",
+      "detail": "安顺夺夺粉被文化和旅游部安顺屯堡线路列为特色美食。它属于地方餐食，具体粉类、汤底与同锅搭配食材继续专题核对，不把名称当作单一食材。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 237,
+      "candidateId": "memory-c1365e7322714f",
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁火腿",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "description": "威宁火腿在贵州地方媒体的毕节美食介绍中有明确记录，属于加工肉食。",
+      "detail": "威宁火腿在贵州地方媒体的毕节美食介绍中有明确记录，属于加工肉食。火腿品类、企业品牌及不同部位分别看待，具体腌制工艺继续补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 238,
+      "candidateId": "memory-4f05dd0bf91d86",
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "大方手撕豆腐",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "description": "大方手撕豆腐是毕节大方地方小吃。",
+      "detail": "大方手撕豆腐是毕节大方地方小吃。地方介绍描述烤好后呈嫩黄色，配辣椒、花椒和食盐等调味食用，口感鲜香、辣爽而有劲道；食品与具体门店分别记录。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 239,
+      "candidateId": "memory-1f4388008be540",
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "毕节汤圆",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "description": "毕节汤圆在地方美食介绍中有明确记录，是当地米面点心的一种。",
+      "detail": "毕节汤圆在地方美食介绍中有明确记录，是当地米面点心的一种。它与威宁荞酥等分别呈现毕节饮食风味，具体馅料、甜咸和制作方式继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 240,
+      "candidateId": "memory-bcdc1f6bffc19e",
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁荞酥",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "description": "威宁荞酥是毕节地方媒体介绍的特色食品，文化和旅游部相关线路亦记载其制作技艺。",
+      "detail": "威宁荞酥是毕节地方媒体介绍的特色食品，文化和旅游部相关线路亦记载其制作技艺。它属于地方荞麦糖点，与荞麦原料、品牌和不同产品口味分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 243,
+      "candidateId": "memory-8007f555714657",
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "江口米豆腐",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-045563175eb6d62a"
+      ],
+      "description": "江口米豆腐在铜仁地方文旅介绍中有明确推荐，是当地粉类与米制小吃之一。",
+      "detail": "江口米豆腐在铜仁地方文旅介绍中有明确推荐，是当地粉类与米制小吃之一。米制食品与豆制豆腐分别认识，具体原料比例、凝制和调味过程继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 244,
+      "candidateId": "memory-a4a86b075b03fc",
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "铜仁社饭",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-6a50898b785c2e6a"
+      ],
+      "description": "铜仁社饭是当地地方饮食与民俗相连的米饭餐食。",
+      "detail": "铜仁社饭是当地地方饮食与民俗相连的米饭餐食。报道记载其中有青蒿嫩叶、腊肉等辅料，焖制后带有清香与咸香；不同家庭的配料和节俗方式继续分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 248,
+      "candidateId": "memory-33d6e7941e7969",
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴义鸡肉汤圆",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "description": "兴义鸡肉汤圆以咸鲜风味区别于常见甜汤圆。",
+      "detail": "兴义鸡肉汤圆以咸鲜风味区别于常见甜汤圆。地方介绍记载以鸡肉作馅、配鸡汤和芝麻酱，呈现糯米与鸡肉香味的结合，具体比例与不同店家做法分别核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 249,
+      "candidateId": "memory-5d1492fd27753f",
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "刷把头",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-231c9dc396215dc4"
+      ],
+      "description": "刷把头被贵州地方美食介绍列为兴义代表餐食之一。",
+      "detail": "刷把头被贵州地方美食介绍列为兴义代表餐食之一。它属于地方米面食品，当前采用名称和地域身份，具体外形、馅料与蒸制工艺继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 250,
+      "candidateId": "memory-6ed6b88eeb5aa1",
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "贞丰糯米饭",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "description": "贞丰糯米饭是黔西南地方小吃，介绍记载以糯米和瘦肉为主要原料，呈现米香与肉酥的结合。",
+      "detail": "贞丰糯米饭是黔西南地方小吃，介绍记载以糯米和瘦肉为主要原料，呈现米香与肉酥的结合。当前不沿用未经史料核对的起源年代，具体配料与制作方式另行补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 253,
+      "candidateId": "memory-feeeb86892e544",
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "凯里酸汤鱼",
+      "type": "dishes",
+      "sourceIds": [
+        "sw-source-736745a382900346"
+      ],
+      "description": "凯里酸汤鱼与黔东南地方饮食相连。",
+      "detail": "凯里酸汤鱼与黔东南地方饮食相连。地方介绍区分白酸、红酸和毛辣果酸等酸汤，并记录以红酸或毛辣果酸配鲜鱼煮制的吃法，汤底类型和具体鱼种分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 254,
+      "candidateId": "memory-8ddd82a73925af",
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "榕江卷粉",
+      "type": "staples",
+      "sourceIds": [
+        "sw-source-c3b23265906b1730"
+      ],
+      "description": "榕江卷粉在文化和旅游部黔东南村超线路中被明确列为地方食品。",
+      "detail": "榕江卷粉在文化和旅游部黔东南村超线路中被明确列为地方食品。它属于地方米面餐食，卷制面皮、馅料和汤汁继续按专题资料核对，食品与经营门店分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 225,
+      "candidateId": "memory-b0cbed145cf03f",
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "贵州茅台酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-942618fc48d4a17b",
+        "sw-source-9df45bfdb06b28b7"
+      ],
+      "description": "贵州茅台酒与遵义仁怀茅台镇的酿酒产业相连。",
+      "detail": "贵州茅台酒与遵义仁怀茅台镇的酿酒产业相连。国家标准平台的酱香型白酒技术组织资料记录贵州茅台酒股份有限公司及茅台镇地址，遵义白酒报道亦明确列有茅台品牌。公司、酒类品牌和具体酒款分别记录。",
+      "locality": "仁怀市",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    },
+    {
+      "candidateIndex": 227,
+      "candidateId": "memory-3c1906e5dc6759",
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "董酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sw-source-9df45bfdb06b28b7"
+      ],
+      "description": "董酒在贵州地方白酒产业报道中被明确列为遵义知名品牌之一。",
+      "detail": "董酒在贵州地方白酒产业报道中被明确列为遵义知名品牌之一。它属于地方酒类品牌，具体产品系列、香型、度数和酿造工艺继续分别核对，不沿用宣传中的绝对评价。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "依据已读正文限定名称、地域与识别特征；只读名单或栏目时不扩写原料、历史与工艺。"
+    }
+  ]
+}

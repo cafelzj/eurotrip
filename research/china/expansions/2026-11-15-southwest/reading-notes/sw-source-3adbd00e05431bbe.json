@@ -1,0 +1,42 @@
+{
+  "id": "sw-source-3adbd00e05431bbe",
+  "title": "地方标准",
+  "url": "https://qxb-img-osscache.qixin.com/standards/5f6d88fe20ff6c5bd7a1fd021e670400.pdf",
+  "read": true,
+  "readMethod": "pdftotext-original-response",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/3adbd00e05431bbe.raw",
+  "originalResponseSha256": "402649306dd14f8e130f35ce8034547f37d570f8ce91799df03978b197fdd018",
+  "readableFile": "research/.local/southwest-20261115/articles/3adbd00e05431bbe.txt",
+  "readableSha256": "90bb9c36023dcae33e6ec942858f96038fe57a36541566af86e01065889688f7",
+  "items": [
+    {
+      "itemId": "sw-4ebfc1c4d00ed8b24e",
+      "name": "成都担担面",
+      "initialCandidateId": "memory-02c04dca568050",
+      "adoptedFacts": "成都担担面被列入四川地方标准的天府旅游美食名录，属于成都地方小吃。现有已读范围确认名称与地方面食身份，具体面型、臊子和调味组合继续据专题补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "name": "麻婆豆腐",
+      "initialCandidateId": "memory-4c7303612caf20",
+      "adoptedFacts": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。四川地方标准的陈麻婆豆腐章节记录了豆腐入盐水、炒香调料、加入鲜汤烧制和收汁等环节，成菜以豆腐与复合调味的结合为辨识线索。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-179b29d11ef791a354",
+      "name": "夫妻肺片",
+      "initialCandidateId": "memory-c310e6b77a00cd",
+      "adoptedFacts": "夫妻肺片是成都相关的川味凉菜。四川地方标准记录以牛肉和牛杂卤熟、晾凉、切片，再配红油、花椒粉、芝麻粉、花生碎和芹菜等调成味汁。名称不意味着原料必定包含牛肺，具体组成应以相应制作资料为准。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-c48446af3d936be4d0",
+      "name": "李庄白肉",
+      "initialCandidateId": "memory-19b4c0202e19d2",
+      "adoptedFacts": "李庄白肉与宜宾李庄地方饮食相连。四川地方标准记载用带皮猪肉煮熟后切成宽长薄片，配蒜泥、酱油、辣椒油、白糖和芝麻油等调味；认识这道菜可以从薄片刀工与蒜香味汁入手，餐馆的具体配比另行核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

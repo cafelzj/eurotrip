@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-d1cf2af1908977c1",
+  "title": "地理标志产品公告 · 2010年第96号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "d1cf2af1908977c16563b441b70ef5c6f965d59a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第96号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6abbcd40e8bc18832a8de8d5562db72e477d42b6b12e2e54ecbb855b893776b6",
+    "textSha256": "dabac15663b0336ad87a5376fbc6480289e2306dc93e8ed921907df4e14ba96a",
+    "textLength": 7558,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/d1cf2af1908977c16563b441b70ef5c6f965d59a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/d1cf2af1908977c16563b441b70ef5c6f965d59a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-4024900ff82cfa2fea",
+      "name": "蜀锦",
+      "scope": "蜀锦地理标志产品保护范围为四川省成都市青羊区、金牛区、双流县等3个区县现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "蜀锦织品经纬比例恰当,图案清晰,色彩丰富,花型饱满,工艺精美。蜀锦分为经锦和纬锦两大类。以多重彩经起花的蜀锦为经锦,以多重彩纬起花的蜀锦为纬锦。经锦工艺是蜀锦独有的。蜀锦成品颜色至少5种",
+      "process": "",
+      "sectionSha256": "cd92b0d73171ae97ffe7c27277db208decdb9437fe8c1e9d1d7a7f0b5ae1d93d"
+    }
+  ]
+}

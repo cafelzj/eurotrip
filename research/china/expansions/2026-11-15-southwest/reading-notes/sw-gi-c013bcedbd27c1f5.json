@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-c013bcedbd27c1f5",
+  "title": "地理标志产品公告 · 2012年第125号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC125%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c013bcedbd27c1f5f9978a3d8029d533432bfd1e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第125号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC125%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6ac2d937869b68614977af8bba4a843905780781bc68ddea5ceaaa97952512f8",
+    "textSha256": "485b20645a057109954da150c939a2f5ba0babbd773b2768f47134e970c944c4",
+    "textLength": 6627,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c013bcedbd27c1f5f9978a3d8029d533432bfd1e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c013bcedbd27c1f5f9978a3d8029d533432bfd1e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-549e7b0189f1b6404d",
+      "name": "惠水黑糯米酒",
+      "scope": "惠水黑糯米酒产地范围为贵州省惠水县和平镇、高镇镇、三都镇、摆金镇、雅水镇、断杉镇、芦山镇、王佑镇、长田乡、斗底乡、甲烈乡、岗度乡、宁旺乡、鸭绒乡、太阳乡、羡塘乡、甲戎乡、抵季乡、大龙乡、大坝乡、摆榜乡、抵麻乡、长安乡、打引乡、好花红乡25个乡镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "黑糯米酒(15%vol至25%vol),色泽和外观:无悬浮物,酒体醇厚;香气:空杯留香,无异香;口味:无杂味;",
+      "process": "",
+      "sectionSha256": "7644f0d44b9a375a39b021a6031d2c66f4b58f6b961e8ef91b01631e811e0858"
+    },
+    {
+      "itemId": "sw-27e99550435e224500",
+      "name": "铜仁红薯粉丝",
+      "scope": "铜仁红薯粉丝产地范围为贵州省铜仁市河西街道办事处、环北街道办事处、市中街道办事处、灯塔街道办事处、云场坪镇、川硐镇、坝黄镇、茶店镇、桐木坪乡、鱼塘侗族苗族乡、和平土家族乡、滑石侗族苗族乡、漾头镇、大平侗族乡、瓦屋侗族乡、六龙山土家族乡16个乡镇、街道办事处现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "丝条匀细、纯净光亮,整齐柔韧,透明;久煮不断,韧性好,爽滑耐嚼",
+      "process": "",
+      "sectionSha256": "24bb7ff7dd0431116577e446bdbdd6dd2c60a94be5ae98f47f6285ecc65b4f2f"
+    }
+  ]
+}

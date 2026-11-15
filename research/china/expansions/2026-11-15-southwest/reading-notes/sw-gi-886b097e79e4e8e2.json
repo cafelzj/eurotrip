@@ -1,0 +1,103 @@
+{
+  "id": "sw-gi-886b097e79e4e8e2",
+  "title": "地理标志产品公告 · 2015年第24号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "886b097e79e4e8e2f32d6fffd8b85a670e6d1df5",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第24号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "21101f85101d7acbff214c47cde5022a60a5275ae38b9efacfb00c1175da1e4c",
+    "textSha256": "bed54347803f45168e6558c41d70d0ee0540e4b324ae8ed4b0aef17cea4e2081",
+    "textLength": 28225,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/886b097e79e4e8e2f32d6fffd8b85a670e6d1df5.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/886b097e79e4e8e2f32d6fffd8b85a670e6d1df5.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-1ef84c3987fb4e8bd2",
+      "name": "苏稽米花糖(苏稽香油米花糖)",
+      "scope": "苏稽米花糖(苏稽香油米花糖)产地范围为四川省乐山市市中区苏稽镇、水口镇、杨湾乡共3个乡镇现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "块形完整,不松散,色泽米黄,有光泽,口感酥脆,香甜可口",
+      "process": "",
+      "sectionSha256": "c3f80b3746f8deb4819e4c0ae3d9bf3527b0adc36acc2af0f50b30f8bb825819"
+    },
+    {
+      "itemId": "sw-24b33223db87648911",
+      "name": "通川灯影牛肉",
+      "scope": "通川灯影牛肉产地范围为四川省达州市通川区东城街道办事处、西城街道办事处、朝阳街道办事处、莲花湖管委会、西外镇、北外镇、复兴镇、双龙镇、罗江镇、蒲家镇、魏兴镇、碑庙镇、磐石乡、东岳乡、新村乡、梓桐乡共16个乡镇街道办事处管委会现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "色泽呈棕褐色或棕黄色,片薄,灯照透影,酥脆化渣",
+      "process": "",
+      "sectionSha256": "67d1d13353cd5551e9d17e724125c3cf0f3052cd65f937edfe62642cde6b948e"
+    },
+    {
+      "itemId": "sw-40345ac00af671108f",
+      "name": "德昌桑椹",
+      "scope": "德昌桑椹产地范围为四川省德昌县永郎镇、锦川乡、老碾乡、乐跃镇、小高乡、麻栗镇、阿月乡、德州镇、六所乡、茨达乡、宽裕乡、巴洞乡、王所乡共13个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)鲜果:果实饱满,果粒大而紧;颜色为紫黑色,有光泽,味甜汁满。(2)干果:颜色紫黑,颗粒均匀,口感浓甜,质构紧密,有韧性",
+      "process": "",
+      "sectionSha256": "ae53039d899824e5094429cb85fcfe00520de9a151891cdd51563eb11486320f"
+    },
+    {
+      "itemId": "sw-ec8f06f7f4bd8aa58e",
+      "name": "大邑金蜜李",
+      "scope": "大邑金蜜李产地范围为四川省大邑县雾山乡、鹤鸣乡、悦来镇、金星乡、青霞镇、晋原街道办事处、斜源镇、出江镇、花水湾镇、西岭镇、王泗镇、三岔镇共12个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果皮黄色、果粉浓厚;肉厚核小,柔软多汁,酸甜适口,肉细化渣",
+      "process": "",
+      "sectionSha256": "95853d9cd700c9128c781e16af92a605ca53f7153b66cbb3f2c4558e74ab6ba4"
+    },
+    {
+      "itemId": "sw-304b0d2c0207f0a032",
+      "name": "安仁蓝莓",
+      "scope": "安仁蓝莓产地范围为四川省大邑县安仁镇、蔡场镇、韩场镇、新场镇、鹤鸣乡、悦来镇、晋原街道办事处、金星乡、青霞镇共9个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实呈深蓝色,果粉厚。果粒大而饱满,果肉细腻,胶质感强,甜酸适口",
+      "process": "",
+      "sectionSha256": "6a8c39ba54095dd1c44b98f17e8bd57469ca63233384434c1271b6ca4f068869"
+    },
+    {
+      "itemId": "sw-a3cc613d0d4a1b30d4",
+      "name": "邛崃黑猪",
+      "scope": "邛崃黑猪产地范围为四川省邛崃市临济镇、卧龙镇、孔明乡、宝林镇、临邛镇、前进镇、固驿镇、高埂镇、羊安镇、冉义镇、牟礼镇、回龙镇、天台山镇、夹关镇、茶园乡、桑园镇共16个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "毛桩黑色,皮厚,肉色鲜红,肉质紧密细嫩,脂肪白色,大理石花纹明显,熟肉肥而不腻",
+      "process": "",
+      "sectionSha256": "df43bea7fa86b21fd29e1edac1354df6e1005431c7a633f113fc016fe0a6c6eb"
+    },
+    {
+      "itemId": "sw-83332e940031d7007f",
+      "name": "邛崃黑茶",
+      "scope": "邛崃黑茶产地范围为四川省邛崃市临济镇、夹关镇、平乐镇、道佐乡、卧龙镇、孔明乡、水口镇、油榨乡、火井镇、南宝乡、高何镇、天台山镇、大同乡、宝林镇、临邛镇、茶园乡共16个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "干茶色泽黄褐至黑褐色,有光泽;茶汤清澈明亮;香气纯正;滋味醇和甘甜。2.",
+      "process": "",
+      "sectionSha256": "603be60bc6fa069deb224670877462a36920a0a82e9856de058c0aeb03b99f7e"
+    },
+    {
+      "itemId": "sw-e7249b5e74534d9c5a",
+      "name": "彭山葡萄",
+      "scope": "彭山葡萄产地范围为四川省眉山市彭山区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)夏黑:色泽蓝黑,果穗圆锥形,穗重500g至600g,果粒均匀,果粉完整,果肉硬脆。(2)巨峰:色泽紫黑,果穗圆锥形,穗重400g至500g,果粒均匀,果粉完整,口感浓甜。(3)美人指:色泽艳丽,尖部紫红,中后部呈玉色,果穗长圆锥形,穗重800g至1000g,果粒长椭圆形,口感爽脆。(4)红地球:色泽鲜紫红,果穗圆锥形,穗重800g至1000g,口感脆甜",
+      "process": "",
+      "sectionSha256": "76c6a907753e2eaa93775412ecad412374f1eae4c2fada3667a54129ef524225"
+    }
+  ]
+}

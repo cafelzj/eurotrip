@@ -1,0 +1,4755 @@
+{
+  "date": "2026-11-15",
+  "approved": 463,
+  "held": 174,
+  "decisions": [
+    {
+      "inputId": "agri-row-3b3217ead3ae7800",
+      "name": "涪陵黑猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-30c2100c1533e628",
+      "name": "綦江金水梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ab9b7b0533eccbd6",
+      "name": "黑山谷猕猴桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-12304cdf4c3e1b14",
+      "name": "黔江桑枝木耳",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-057f7ae4893affda",
+      "name": "忠县西瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-63f88bdc4765f8fa",
+      "name": "忠县竹笋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ded3df37cae3e53c",
+      "name": "云阳乌天麻",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ac55e2bdce4baf0d",
+      "name": "奉节黄桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-058754323fe24b2a",
+      "name": "巫山川牛膝",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-e2c8d7edadc5972b",
+      "name": "巫山淫羊藿",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-2a50e11df0819240",
+      "name": "巫溪晚李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-647ec8e0c4fb4d37",
+      "name": "巫溪洋芋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-728b34703d3bc5ce",
+      "name": "中益黄精",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-7770f651ceef6047",
+      "name": "酉阳青蒿",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-d7884b4d54facc20",
+      "name": "酉阳苦荞",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-50bccb950bc2b09c",
+      "name": "酉阳蜂蜜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fbab681a3227d196",
+      "name": "合川湖皱丝瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8179c6c8153cb7c0",
+      "name": "龙泉驿枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2176aee35022ab4e",
+      "name": "三元油桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e5c4c6ddd778c84a",
+      "name": "青白江福洪杏",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-45ca36aa62140791",
+      "name": "温江大蒜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-321ccc3e638680ac",
+      "name": "郫都圆根萝卜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-08ac7af0f4e2288d",
+      "name": "大邑枇杷茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8b33039dd09d381d",
+      "name": "邛崃文君茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ea06ba3cfa0e992e",
+      "name": "邛崃黑猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-57ebed36ec4088b1",
+      "name": "简阳晚白桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b0aa5ae513557fb3",
+      "name": "新桥枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e8fa70afc9ef44ea",
+      "name": "荣县番茄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c1c02d1c80fd3d5c",
+      "name": "攀枝花噹噹鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6217cdad714603a3",
+      "name": "盐边芒果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-32d0ff951a40810e",
+      "name": "叙永甜橙",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1c0051bca7194df6",
+      "name": "叙永凤凰李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2f926844604e4786",
+      "name": "古蔺丫杈猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-18f035e916079752",
+      "name": "旌阳油菜籽",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-078ffcd216cb308a",
+      "name": "旌阳小麦",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-419f59370e52befb",
+      "name": "旌阳鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9a7c582763d61ec9",
+      "name": "旌阳鲤鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1031bdde6b961e1c",
+      "name": "中江丹参",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-18d555f3f99b8977",
+      "name": "中江白芍",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-cf878c1e09601bd1",
+      "name": "中江土黑猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d273aa001c2032ec",
+      "name": "中江黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2dae7e839fa293b0",
+      "name": "广汉草莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-63c829e9007759fa",
+      "name": "什邡杨村茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-28ff6269a2140990",
+      "name": "绵竹高山茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-048664f605fa1e47",
+      "name": "绵竹高山竹笋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-63cf12def2bff015",
+      "name": "游仙葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4f66d61dcdd2d989",
+      "name": "三台涪城麦冬",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8c96d161ffb1b02b",
+      "name": "盐亭桑椹干",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-633118a8b296998e",
+      "name": "盐亭桑叶茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-13f3e289b2d73bce",
+      "name": "梓潼菜籽油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "seasoning",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fd1b252e2d2710e8",
+      "name": "北川蓝莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-995cd39655a94605",
+      "name": "平武绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f0a47f7b4010b784",
+      "name": "平武红鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b480352e98bf0707",
+      "name": "江油老鹰茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-62ed3f1d377183b8",
+      "name": "江油甲鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-639bc317953b09d5",
+      "name": "剑门关土鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4411c6dcc2b13510",
+      "name": "朝天扯兜子花生",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-226c86b3a3af6771",
+      "name": "旺苍乌天麻",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-bae1e6c81ac3581f",
+      "name": "剑阁翠玉梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2f476a7c9bf5749e",
+      "name": "船山萝卜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e5c7219e25226e26",
+      "name": "船山小龙虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bab55a341dd2bd02",
+      "name": "船山黄颡鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0cfd302a0bcd0cd2",
+      "name": "蓬溪红薯粉条",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "staples",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-68cc80d491b767e3",
+      "name": "蓬溪佛手柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-52974cc11540f575",
+      "name": "蓬溪仙桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8c59fb9c8fd48a0d",
+      "name": "蓬溪虫草花",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d825eedf25018feb",
+      "name": "大英青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f4cb09a5beab3e7d",
+      "name": "大英黑玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-19c0ee9e4cdbc0ea",
+      "name": "大英刺梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d5fb383b59bd97ac",
+      "name": "大英芦花鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-51b711aa4c0ff789",
+      "name": "内江青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e9e839f9b21b9030",
+      "name": "内江鲜食玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d036375d65931da2",
+      "name": "内江甜桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b18bcda3a81d9c77",
+      "name": "资中花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c387378b012db150",
+      "name": "夹江石斛",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-f4073c5b483babce",
+      "name": "高坪甜橙",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-538d61b5a9aa7fa6",
+      "name": "营山橄榄油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "seasoning",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b1234b092a92361f",
+      "name": "营山黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-13c44c3af9d7c81d",
+      "name": "蓬安大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-93fc2c428db002f7",
+      "name": "仪陇车厘子",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f26df847cefaaa50",
+      "name": "仪陇蜂糖李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-14e2dcdbbd170e71",
+      "name": "仪陇明日见",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-12f64d9623316cc9",
+      "name": "西充玫瑰花茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e232616fbfc05d5c",
+      "name": "彭山葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-49ac234d0bc28cf5",
+      "name": "仁寿文宫枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8f4f7446a89f00f9",
+      "name": "仁寿曹家梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-590fef1ae1d864ee",
+      "name": "宜宾早虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-50c1a9a2f83e60c9",
+      "name": "叙州绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c9be536fc2f44f3d",
+      "name": "长宁甜梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-99a41098b392b58a",
+      "name": "长宁竹荪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b3ac1daa8e82ea10",
+      "name": "高县黄金芽",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5827b9be3825a6a6",
+      "name": "珙县茉莉花茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-80c61f1f5d0abe32",
+      "name": "筠连红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d2cac541635e5f04",
+      "name": "兴文山地乌骨鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e0c952639cffc234",
+      "name": "屏山炒青",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3faf3c34d3bfe0d4",
+      "name": "武胜猪肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5a6a49280cac040b",
+      "name": "武胜鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1f90f49a06fc339d",
+      "name": "大罗黄花",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0317a2d4c70e8c1b",
+      "name": "恩阳葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2274852a065d0260",
+      "name": "南江大叶茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-cd048b1d77c61890",
+      "name": "南江黄羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bcf3d27cffc385db",
+      "name": "平昌镇龙山瓦灰鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0230980b0f41df13",
+      "name": "乐至黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c982c3996bbc504f",
+      "name": "万源岩豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-89388e1790aaff58",
+      "name": "大竹醪糟",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-45ad5107c4fa5276",
+      "name": "大竹糯米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c8921cdbbf114c0b",
+      "name": "雨城石蛙",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-3ef7dd0e249e7663",
+      "name": "雨城大鲵",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-0c83f1b15154bc10",
+      "name": "天全冷水鲟鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5a7b26bfb5d9d4b9",
+      "name": "宝兴红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3b0327c708087176",
+      "name": "宝兴平菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-97b4c96186b57b03",
+      "name": "茂县花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-939550d16b0b3c0b",
+      "name": "松潘瓦布贝母",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-56ece05fd336105e",
+      "name": "松潘藏红花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-309fb892a1fdcb8b",
+      "name": "阿坝白青稞",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f4c5624ebc20d6cd",
+      "name": "红原牦牛奶粉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dairy",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fb53129b0552e9b6",
+      "name": "雅江花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3e9faeee5f3a5500",
+      "name": "雅江青稞",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5b09514f9c83ac84",
+      "name": "雅江马铃薯",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4bab43f18ba1c2bf",
+      "name": "雅江香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0c81b3b72d7f4ec2",
+      "name": "越西苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4efc09e8735c052a",
+      "name": "美姑红梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0ca55945099a9da5",
+      "name": "南明永乐桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b0cc20cc785b024e",
+      "name": "息烽刺梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-400626ed39c6f9c1",
+      "name": "息烽西山贡米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-de77ee382f94ae40",
+      "name": "息烽岭南黄鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-90f6d1dd03e29103",
+      "name": "钟山皇菊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8654ab78845c434f",
+      "name": "汇川高粱",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-655796ad124800f7",
+      "name": "洛龙苕粉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "staples",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-db8ce32453c19619",
+      "name": "务川红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-353a790aa94075eb",
+      "name": "平坝绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9cd56809f43d307d",
+      "name": "务川香榧",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3550a290e5a1f861",
+      "name": "印江青脆李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e49f326612159f8b",
+      "name": "印江黑木耳",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-20072ca028bc51b9",
+      "name": "贞丰火龙果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-33ed53d02e94089c",
+      "name": "昂武艾纳香",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-c363e7ad40138b47",
+      "name": "望谟油茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-492855a63c4cb125",
+      "name": "中坪茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9279374a854bf90e",
+      "name": "金沙菜籽油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "seasoning",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-364b81a8b6cba1b8",
+      "name": "平坝大葱",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-10cc7b4e6149e741",
+      "name": "平坝麻叶菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-53a94fc206ae3962",
+      "name": "关岭蜂糖李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-20e7653e38ef8c12",
+      "name": "瓮安黄金芽",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a28c0d6a68800ab1",
+      "name": "瓮安老白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-73963e65d9c27242",
+      "name": "瓮安红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f1920325bb69c112",
+      "name": "平塘蜂糖李",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ad90821c12676eb5",
+      "name": "罗甸刺梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6b0a514f101aab24",
+      "name": "长顺茭白",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ad43e690ccb11cb6",
+      "name": "三都水晶葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9920846347598143",
+      "name": "三都古树红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ceee397234bc4e90",
+      "name": "三都绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b48427aafa6c7d26",
+      "name": "三都香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a634e86064db79f2",
+      "name": "麒麟大蒜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2f8bd0c3ad794d1b",
+      "name": "谷律花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8b4f9cf981cc42ce",
+      "name": "西山苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4be017163e8ec08e",
+      "name": "呈贡宝珠梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7652d2763668cf0f",
+      "name": "嵩明鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9e05bbeffb644b40",
+      "name": "寻甸续断",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-3fea6ae8f56b2bee",
+      "name": "寻甸白萝卜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b45101844b4d392a",
+      "name": "张安屯大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a8b3ecf15f7c99bb",
+      "name": "陆良蜜香梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0e776134afd850ed",
+      "name": "陆良朝鲜蓟",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-adca12652de1ad75",
+      "name": "陆良杏鲍菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-443ea13b69680609",
+      "name": "富源摩山鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3eb53324e293a4d8",
+      "name": "潞江芒果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-af549d5c5afd1827",
+      "name": "景谷甜笋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-cc0476572818e9bf",
+      "name": "孟连花花生",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9290def71ac158a9",
+      "name": "孟连香软米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4f8393af57a36a9d",
+      "name": "凤庆沃柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b407a463efe111ae",
+      "name": "永德忙肺茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8ea0bae3c62549c8",
+      "name": "镇康南瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9e439ae1b26c9e42",
+      "name": "镇康长毛山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a54f2b3ab40b5e06",
+      "name": "耿马土司茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8cccbb6afcb99cd0",
+      "name": "沧源怕拍茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-674189469ddd990b",
+      "name": "武定芥蓝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-480d987f1bad449e",
+      "name": "屏边砂仁",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f0ee55e885d203d6",
+      "name": "屏边荔枝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f3243590291345b2",
+      "name": "屏边猕猴桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4191f984b34016fe",
+      "name": "屏边菠萝蜜",
+      "status": "hold",
+      "reason": "hold-withdrawn-registration"
+    },
+    {
+      "inputId": "agri-row-be1b42ce86e2d51f",
+      "name": "砚山黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f8b2a821bce7a041",
+      "name": "丘北芒果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7948a91741ec20ba",
+      "name": "丘北辣椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7a0e2c432e014371",
+      "name": "丘北黄牛",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bbbf5a483501b7a1",
+      "name": "丘北黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e2dcfe52e737961c",
+      "name": "丘北龙虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2be08b5f7164a4c4",
+      "name": "勐海热情果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a1d9bc04925f58b1",
+      "name": "勐海那卡茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-27b08f8bab2e2dad",
+      "name": "勐海小耳朵猪",
+      "status": "hold",
+      "reason": "hold-withdrawn-registration"
+    },
+    {
+      "inputId": "agri-row-e337bf2daf19a059",
+      "name": "勐海茶花鸡",
+      "status": "hold",
+      "reason": "hold-withdrawn-registration"
+    },
+    {
+      "inputId": "agri-row-9202de0dea1e0d88",
+      "name": "宾川红提葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d7122ed0e2776c8d",
+      "name": "宾川阳光玫瑰葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-cc894dc55d3ca010",
+      "name": "南涧红花",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ea13fa2971518059",
+      "name": "南涧无量山高山白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-721383f6be7f211b",
+      "name": "贡山独龙鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3a843ed47bd484fb",
+      "name": "德钦葡萄酒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "alcohol",
+      "sourceId": "sw-agri-3e54d9fbba55c048",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f073022bb33ae36a",
+      "name": "万州陈皮",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-19204f93727f1399",
+      "name": "两江新区番茄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-da6f1d6706a4e8ca",
+      "name": "巴南秀珍菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-36617e5a83368052",
+      "name": "黔江珍珠兰茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b0dadac485646a5a",
+      "name": "城口香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-52ddabe1cab0da0d",
+      "name": "开州龙珠茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ff144cebc402d2ed",
+      "name": "云阳陈皮",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5feac0f4ec832bfc",
+      "name": "秀山山茶油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4ff5a22ab4c2a1d6",
+      "name": "彭水蒲公英茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a8fca575ad2a31ff",
+      "name": "合川稻虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-dd9a5707820df4d6",
+      "name": "新都梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-198ef2eafd9609d0",
+      "name": "金堂甘蓝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c2f60255cd66e6ae",
+      "name": "金堂榆黄菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e9602fc500157bf9",
+      "name": "新津二荆条辣椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d7af99c7de699d28",
+      "name": "大安油菜籽",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b0a7e25019e64795",
+      "name": "富顺金秋砂糖桔",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-08db2bbba982f7f0",
+      "name": "旌阳樱桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c615a0e54daaa9b2",
+      "name": "罗江青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7e972c523fabde95",
+      "name": "罗江鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7df4bd7bc64f6185",
+      "name": "广汉豌豆尖",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0d14a916e83c9171",
+      "name": "广汉小龙虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6b6054795264110b",
+      "name": "什邡千禧果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-856431b702007e91",
+      "name": "三台柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c736cc7fea028398",
+      "name": "安州大蒜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-824b51b52157ab33",
+      "name": "梓潼耙耙柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-81befeebf4086b7c",
+      "name": "平武天麻",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-c3674c3efde819a2",
+      "name": "安居明日见柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8affdcca73007c45",
+      "name": "安居大豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-081f9d167f542442",
+      "name": "船山耙耙柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-78c17ec916346916",
+      "name": "船山巨峰葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-163ec06d3f2b959f",
+      "name": "蓬溪绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b24e820a9a243640",
+      "name": "大英挂面",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "staples",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d24bb96946c3b169",
+      "name": "大英糯玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ab03b9b6c68406d7",
+      "name": "大英韭菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5fa9376373b7f71c",
+      "name": "大英鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-558aa8705dd61b4c",
+      "name": "大英黄颡鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ae8ca52a3641b501",
+      "name": "东兴香椿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-aed32327e87777b4",
+      "name": "顺河牛肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f77304b211729f07",
+      "name": "威远丝瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4f218f3bbd5e0f64",
+      "name": "威远苦瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-efffffc699eaed71",
+      "name": "资中稻田虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1a778b09b7146cf8",
+      "name": "隆昌雷竹",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-693f94a70d49351e",
+      "name": "隆昌白鲢",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c2d37157224f604a",
+      "name": "嘉州麻鸭",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9ab83d9a16aacdb3",
+      "name": "井研玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b33eebfca51baf80",
+      "name": "井研鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1f9ce1b8890f901d",
+      "name": "峨边花牛",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2a93faa3bc327fab",
+      "name": "东坡黄颡鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a6905721c4ece804",
+      "name": "彭山泽泻",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-3d2e4117c492efa3",
+      "name": "仁寿不知火柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-197529c0d283d7a2",
+      "name": "仁寿柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-306ca2c4d0ebe815",
+      "name": "长宁香椿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1bd007f1d7f191f7",
+      "name": "巴州大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3722a33516c7a0b6",
+      "name": "巴州黑猪腊肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3abbd94a6a4c2a28",
+      "name": "开江小龙虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9860e0cf66e00df2",
+      "name": "石棉黄桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f2705ea5edf3c277",
+      "name": "马尔康牦牛肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9e868f353b70d310",
+      "name": "白玉雪菊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4768c6965dd96ac7",
+      "name": "稻城酸奶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dairy",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-87933b4fd8b81bf2",
+      "name": "甘洛绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3ef94d30f9f27482",
+      "name": "钟山虹鳟鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9568b058d5eab086",
+      "name": "桐梓黄牛",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bd9f480a21a479ce",
+      "name": "道真虫草花",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d65f5c74908de4dc",
+      "name": "习水红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f2c0152ea02dad74",
+      "name": "安龙绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d3f6ea5f19800c45",
+      "name": "安龙菜心",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9827e7e20e09ae3e",
+      "name": "安龙香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-56a2c4ac8a731216",
+      "name": "关岭红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2471a9737e90b2d7",
+      "name": "关岭绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-152e5c856617004e",
+      "name": "关岭黄牛",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d1ba12f838d898d2",
+      "name": "凯里云雾茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-efad937b1e3b47fd",
+      "name": "锦屏山核桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-632eba875072e733",
+      "name": "锦屏锥栗",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ba591712f2cc6407",
+      "name": "黎平天麻",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-c6cf56e2842fbb94",
+      "name": "黎平白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-30d4e96544bda82b",
+      "name": "黎平香茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-752d33c2b69d95cb",
+      "name": "龙里绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-90596ffafe856728",
+      "name": "嵩明金耳",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-dc7752b7f05d2815",
+      "name": "禄劝西洋参",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ba4af42921b91b94",
+      "name": "禄劝木香",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-a555f16e8d16bdbd",
+      "name": "禄劝续断",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ffe2f159afbe40ce",
+      "name": "禄劝黄精",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-48b1a548c47a195d",
+      "name": "富源香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a4a9074ad6085cf1",
+      "name": "宣威蓝莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2edb73fea84a410e",
+      "name": "玉溪酸角",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7df95f5c67785964",
+      "name": "红塔香肠",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-73e15344a59bd60d",
+      "name": "江川红糖",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-656a0e88f92154a6",
+      "name": "江川鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bab9336a9bdbad8f",
+      "name": "峨山豌豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-13152a1ed156340c",
+      "name": "龙陵石斛",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-546cb940e368f4be",
+      "name": "大关红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-06b36ae907f8dbf2",
+      "name": "大关绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2758530a0681a0f9",
+      "name": "威信山葵",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-285af946699a942c",
+      "name": "墨江黄精",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ea1eafa3e3448a47",
+      "name": "墨江咖啡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "drinks",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f7c093e2e2c464f6",
+      "name": "墨江凤凰山茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-141822fc3a4b718d",
+      "name": "景谷重楼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8196da18efbc7a0e",
+      "name": "勐班香米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b8cbd6ea77356c8b",
+      "name": "镇沅人参果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-675a7e967808b3f9",
+      "name": "镇沅腊肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0aee9b72052ad0aa",
+      "name": "江城白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-52a6a1b46e6d23a5",
+      "name": "西盟咖啡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "drinks",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-30cfaa4f07c0dfa5",
+      "name": "西盟米荞",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5edfd8dcad24d51c",
+      "name": "西盟澳洲坚果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8e2cab08cd323bc4",
+      "name": "临翔牛油果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a324fad6838a4806",
+      "name": "临翔菜籽油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "seasoning",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c524ea10d8382aa7",
+      "name": "凤庆芒果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3930b767a4942b81",
+      "name": "凤庆热情果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-940408c944304534",
+      "name": "凤庆树头菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-52daf57f4f717c35",
+      "name": "凤庆贡菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-be5e3ef4bdb09915",
+      "name": "凤庆羊肚菌",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-39bfbe176ca09b27",
+      "name": "凤庆火腿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-24a07825bcd4e381",
+      "name": "耿马石斛",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-edf497b6c83f7fae",
+      "name": "耿马澳洲坚果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-59721719c8a277ac",
+      "name": "耿马沃柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2df3044aa18685d3",
+      "name": "耿马核桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8e163709ad188c6e",
+      "name": "耿马金丝凤梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b5d7fc1d2f50e9b2",
+      "name": "耿马菠萝蜜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b14e190efa0790d2",
+      "name": "耿马茶花鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4facff7bbcb301b6",
+      "name": "绿春八角",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6509dc168a40095b",
+      "name": "绿春澳洲坚果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e87af1e0dbe2ae6b",
+      "name": "绿春红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8afc18e0ca6a2030",
+      "name": "马关辣椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e9f1d2c0b31398ce",
+      "name": "马关腊肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2aa336c33a303b8a",
+      "name": "马关大种鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a5b4e10c30d7c93e",
+      "name": "福贡云黄连",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-461080035b96434e",
+      "name": "福贡草果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-81cdbfc8055b75ff",
+      "name": "福贡咖啡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "drinks",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3f8808927bccd1ce",
+      "name": "福贡老姆登茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c7cf5407e100d6c1",
+      "name": "福贡亚朵茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-61a9d6246c6882f7",
+      "name": "福贡甜龙竹笋干",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ba0779c65c92d605",
+      "name": "兰坪芸豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-ade367ba321c2835",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f9f88a5d0343ac71",
+      "name": "潼南枳壳",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ed186a6a6f97746f",
+      "name": "宝龙蜜柚",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7983757f724ba91a",
+      "name": "垫江白芍",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-dc3be5649050db74",
+      "name": "武隆冷水鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-00bc60718c04dfb7",
+      "name": "忠州橙汁",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "drinks",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-920a9c304b11b284",
+      "name": "忠州大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f601f5de1d8aa0b0",
+      "name": "云阳古红桔",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a04af0e26f676527",
+      "name": "彭水白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7344903c75000758",
+      "name": "江津鲜鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-66b01b1932b3bb3c",
+      "name": "龙泉驿巨峰葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5b1df3e3ecb44aa6",
+      "name": "郫都大蒜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c012648bb685974a",
+      "name": "大邑青梅",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f6286275221c64c0",
+      "name": "大邑大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8354755e31a03e97",
+      "name": "蒲江耙耙柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2de37d9795e656fa",
+      "name": "宝墩大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9ce41ea174c6be2e",
+      "name": "彭州莴笋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e05b0ede4eda408c",
+      "name": "邛崃中蜂蜜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4318d0007858c732",
+      "name": "贾家水蜜桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c49bf3750b4316c0",
+      "name": "简阳元宝萝卜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3a8043dee533b3dc",
+      "name": "简阳贝贝南瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-630449d2d43fac8d",
+      "name": "董家埂鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f93f7777102104df",
+      "name": "自流井黄桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-557257ba3a41bbba",
+      "name": "大安花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8d49b5142b5bf631",
+      "name": "西区山药",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-734b04c80893419f",
+      "name": "仁和芒果干",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f158b24ec0ae14a0",
+      "name": "同德豌豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ee1016648636c47b",
+      "name": "啊喇火腿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4b81c5ebbfda99c5",
+      "name": "米易枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-aa20dc6149039cd0",
+      "name": "泸县再生稻米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-092bf223a35d0e4a",
+      "name": "合江荔枝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-87f9fcb286696419",
+      "name": "旌阳青菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c0e0bca97c84f42b",
+      "name": "旌阳叉尾鮰",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-404e5640ca2d5524",
+      "name": "中江莲藕",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8b090cb2055890f9",
+      "name": "中江秀珍菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fcc81f79780e6e97",
+      "name": "中江黄牛肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-924c7be8bd097ec1",
+      "name": "中江鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-58454aeee703be1e",
+      "name": "中江鳙鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2be891359700f926",
+      "name": "什邡豌豆尖",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d708de2f9f7273a7",
+      "name": "什邡鲜鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b2627f23f5b0e661",
+      "name": "游仙蜂蜜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5dbe2d76d6e66405",
+      "name": "梓潼水蜜桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c97c0b965e80adac",
+      "name": "昭化猕猴桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-814cd52d26f408a3",
+      "name": "安居青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7956ad08e9069d44",
+      "name": "安居柠檬",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-08568593168138c7",
+      "name": "蓬溪大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d7635b15dbc77033",
+      "name": "蓬溪鹿茸菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-373df79d8ce904b2",
+      "name": "蓬溪杏鲍菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-64195b84a005f3c0",
+      "name": "蓬溪鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ed6e611bf4aea2ea",
+      "name": "射洪青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c339f8d0d5164ea3",
+      "name": "射洪鲜食玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-48784b5ab82058b9",
+      "name": "射洪大闸蟹",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8fb008ccf96df73e",
+      "name": "东兴莲白",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d46c1379a5a2c70e",
+      "name": "威远五星枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-db27be35aa829ebc",
+      "name": "威远耙耙柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0644075e28bdaea5",
+      "name": "威远黄茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8b9787229abebb16",
+      "name": "资中栀子",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-e35d6063197e36b6",
+      "name": "井研大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-132347172e8bf204",
+      "name": "峨边鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ce0600ea53bd335b",
+      "name": "峨眉黄连",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-30da1b5e24e5ed1f",
+      "name": "南部脆香甜柚",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2ca65f5fac17920f",
+      "name": "营山菜籽油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "seasoning",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fa1672006cfa8b04",
+      "name": "仪陇川津1号柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e390b680fb4d1057",
+      "name": "西充黄心苕",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e0f75ae415ad2017",
+      "name": "仁寿爱媛柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-72fcfd79669c58c5",
+      "name": "仁寿春见柑橘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-11ce0032d61d95a1",
+      "name": "青神南瓜柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-832398d725a1a705",
+      "name": "青神柠檬柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-12684197f9acc33e",
+      "name": "汉阳花生",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9321076a14fdaff8",
+      "name": "江安大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1358ee65c4b5eabb",
+      "name": "长宁乌鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-648176c9e58d7add",
+      "name": "高县柠檬",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2cb73b5555655f1d",
+      "name": "兴文姜黄",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-3f6455d13669ab9f",
+      "name": "屏山椪柑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f838c2550d72551d",
+      "name": "广安大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ea17aca5248a206c",
+      "name": "岳池芥菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-43e7d837857547b0",
+      "name": "邻水白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-11286903e9f1a69a",
+      "name": "前锋青花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-b3f3cad948208d03",
+      "name": "前锋玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-feb8ebc3a5a0227d",
+      "name": "前锋大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-df1a8b8a5a170dec",
+      "name": "前锋猪肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9d0697502bdd962c",
+      "name": "华蓥葡萄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-31378abe729351d3",
+      "name": "华蓥肉兔",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c418e7f73f4db88b",
+      "name": "南江翡翠米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-966368d29fbc0a7d",
+      "name": "南江金银花",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-5564b01ef655026f",
+      "name": "平昌黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-96dd7c92b08ab509",
+      "name": "安岳柠檬",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6c7e31e9805623b2",
+      "name": "芦山大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a58f7ce009b88405",
+      "name": "芦山抹竹",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-147264bf7d0263cb",
+      "name": "茂县枇杷",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-dcd25d3f637c5fdc",
+      "name": "茂汶瑞雪苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ffeb5ca9a1d759e3",
+      "name": "茂汶瑞香红苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-bcebaebcfad158d6",
+      "name": "松潘梨",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-596c87feffa366de",
+      "name": "松潘绿茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1071ed7c223ab8a5",
+      "name": "黑水当归",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-0147c3d35e04f20c",
+      "name": "黑水瑞雪苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-8cd16c782c3165c7",
+      "name": "黑水豌豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2d8a31027231ea3a",
+      "name": "黑水马铃薯",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-af93d12f01174867",
+      "name": "黑水色湾藏香猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7ae0ea77123cc35d",
+      "name": "壤塘香菇",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-167856446e1d58f2",
+      "name": "贾洛绵羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c4628f7f4b873a23",
+      "name": "康定黑青稞",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ba3846745a51d994",
+      "name": "康定苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-06ea071d08c34420",
+      "name": "海螺沟萝卜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6c3f7402d0abf1d4",
+      "name": "丹巴苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c5123b7314f9dd4f",
+      "name": "炉霍沙棘",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2b5d85f11bc0b9d9",
+      "name": "甘孜糌粑",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "staples",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c48d0548cd53dbb6",
+      "name": "德昌芒果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2056279d5c798d00",
+      "name": "会东蓝莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4f63d2c3294d4b4b",
+      "name": "喜德金沙鲈鲤",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-22509666046678b9",
+      "name": "甘洛当归",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-49b42c8f6d1e50bc",
+      "name": "甘洛金荞麦",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-e7012860a63cdf9b",
+      "name": "六枝黑猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7ee9a4b8a16db80e",
+      "name": "播州生猪",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a471e095ba2242f6",
+      "name": "兴义冬瓜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f3c3a14fe192c7cb",
+      "name": "兴义小黄姜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e64352e2e204f0a6",
+      "name": "天柱石洞大米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-56275fb639e750df",
+      "name": "都匀红鲤",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1a2f266fe9760454",
+      "name": "佳荣牛肉",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7db1120f20c75df2",
+      "name": "平塘鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e637450ed57d82f4",
+      "name": "三都鸡蛋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c36f766aca37c894",
+      "name": "东川无花果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5a913f906a63863b",
+      "name": "石林苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ba653d92ddf671ea",
+      "name": "张安屯黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e6f3b202f54c3c48",
+      "name": "富源小叶芥菜酸菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2594774d53d0548e",
+      "name": "富源萝卜丝酸菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-60c702bf50568de2",
+      "name": "沾益西归",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-44e5ec7e1024db90",
+      "name": "通海鲜食玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f073a8eaad6adf69",
+      "name": "新平橙",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-37533d343980fca9",
+      "name": "新平笋丝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-5c422084756d188c",
+      "name": "潞江青枣",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-45de44d904beea25",
+      "name": "腾冲红花油茶油",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-acfa4711416f480d",
+      "name": "腾冲饵丝",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7ebe5415a4d78b79",
+      "name": "腾冲雪鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-945b2f542b5820c0",
+      "name": "鲁甸花椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-fccbe58df1f67d13",
+      "name": "墨江鳙鱼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-31986d69e6694a41",
+      "name": "景东乌骨鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6188370cb62de591",
+      "name": "景谷魔芋",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3941bc0868a1ee4f",
+      "name": "临翔咖啡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "drinks",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-71263aa0473b84b3",
+      "name": "临翔鲜食玉米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a5407299c4e8b058",
+      "name": "临翔热情果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a91755149d76ace4",
+      "name": "临翔核桃",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d240f617b9fe6b35",
+      "name": "临翔澳洲坚果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-216b63972c1d9cb4",
+      "name": "临翔红花生",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-ba7ad566e79c919d",
+      "name": "临翔昔归茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-1e5542a655175e8c",
+      "name": "马台芽茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-9a95cd79633b6899",
+      "name": "临翔小番茄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2464a8e808eb8ecb",
+      "name": "临翔豌豆",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-886205f8a927ab87",
+      "name": "临翔火腿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-643b468ac1e89a82",
+      "name": "临翔黑肉鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-030dcb3eae02e1ec",
+      "name": "临翔红尾副鳅",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3e081f44262f3f16",
+      "name": "云县黑肉鸡",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-71bfe776091a97ca",
+      "name": "双江火龙果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-42605bc221a2af6f",
+      "name": "耿马猴耳环",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-63903b6b4b3e7be9",
+      "name": "孟定稻虾米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-dcf52bc15ef47568",
+      "name": "孟定茄子",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-191a3b7986d48ad6",
+      "name": "孟定辣椒",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-dab3c32fe0ba7a5e",
+      "name": "孟定小青龙虾",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-6046f3580e50a048",
+      "name": "沧源旱谷米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3f54a6c2671da840",
+      "name": "沧源单甲岛里茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-4f5ec51ea877d55a",
+      "name": "大姚百合",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c20db06db7797786",
+      "name": "大姚黑山羊",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-3d4f6fd1adfd3723",
+      "name": "元阳韭菜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-2e36b8e60647b249",
+      "name": "文山仙人掌",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-b0618589959743c8",
+      "name": "砚山小黄姜",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-a2ad75064d0609e3",
+      "name": "马关滇黄精",
+      "status": "hold",
+      "reason": "药材、生物或加工用途边界尚未明确，不因进入农产品名单就直接归为食材"
+    },
+    {
+      "inputId": "agri-row-ac6b611fbe4e263a",
+      "name": "马关草果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-d6f1c424c2956e3f",
+      "name": "马关红茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-531d922bac97dfc9",
+      "name": "马关白茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e3b663c6313ac40c",
+      "name": "广南八宝米",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7d9818c7b4db5aac",
+      "name": "广南底圩茶",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "tea",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-c4765791cf56137a",
+      "name": "广南高峰牛",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-78afec976962b6e8",
+      "name": "宾川滇橄榄",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-f4bcb851a445127e",
+      "name": "永平脆皮香橼",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-db61a2f51b00d300",
+      "name": "洱源苹果",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e3b8dacbe7ebcd2d",
+      "name": "泸水火腿",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "dishes",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-e04ac62649d84b38",
+      "name": "兰坪蓝莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-7984259db7e82c86",
+      "name": "香格里拉蓝莓",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-b1b5347a0c33e950",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0cd0b391f8908d81",
+      "name": "万州陈皮",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-d26f82accc4d2d1a",
+      "name": "两江新区番茄",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-81c3e89711ff2230",
+      "name": "巴南秀珍菇",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ff602518a788a856",
+      "name": "黔江珍珠兰茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-65d6ab9306596027",
+      "name": "城口香菇",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-00d48b42467d2b6f",
+      "name": "开州龙珠茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-273a9c486d838bc2",
+      "name": "云阳陈皮",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-d07a699321c97ff3",
+      "name": "秀山山茶油",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-9afea94d6f43f1d0",
+      "name": "彭水蒲公英茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-078556089aca9819",
+      "name": "合川稻虾",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-1f3ed053d8f276ed",
+      "name": "新都梨",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-91c98c706e4715c1",
+      "name": "金堂甘蓝",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-60c9bef5edadd094",
+      "name": "金堂榆黄菇",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-597746f8b95c1bed",
+      "name": "新津二荆条辣椒",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-4f0b4b2efc21a5a6",
+      "name": "大安油菜籽",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ded6870fa2282bb2",
+      "name": "富顺金秋砂糖桔",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-b3341707e084e718",
+      "name": "旌阳樱桃",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-7db82de7740ddc74",
+      "name": "罗江青花椒",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-213793b60a87a70a",
+      "name": "罗江鸡蛋",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ae76ac79518c79f4",
+      "name": "广汉豌豆尖",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-fa1b68e45ec071a9",
+      "name": "广汉小龙虾",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-4c1ff322cdf363d2",
+      "name": "什邡千禧果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f2b61775381a68bc",
+      "name": "三台柑橘",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2e50cf287493bcf1",
+      "name": "安州大蒜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-1e53bcf111c2a084",
+      "name": "梓潼耙耙柑",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-61a60a2963d32d5b",
+      "name": "平武天麻",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-39aa0fbce58bfa9a",
+      "name": "安居明日见柑橘",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-9196ab78e467345a",
+      "name": "安居大豆",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-b5c422e6ba7ecda9",
+      "name": "船山耙耙柑",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f2af5ec6e5c07606",
+      "name": "船山巨峰葡萄",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-75d0e5298ab5e7e7",
+      "name": "蓬溪绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-32c60fa95adf4c4c",
+      "name": "大英挂面",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-c1a6d35ce3451c6f",
+      "name": "大英糯玉米",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-3eb93154a4149e8f",
+      "name": "大英韭菜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f65ab55645ec3d8e",
+      "name": "大英鸡蛋",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-069eeabf7ab3c97a",
+      "name": "大英黄颡鱼",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-73b59ad6c12ba68a",
+      "name": "东兴香椿",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-3d79b5fc6ab068d3",
+      "name": "顺河牛肉",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-905d7a703ffeb5aa",
+      "name": "威远丝瓜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-c92bce7a8adb66de",
+      "name": "威远苦瓜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-7a6620e1141e6916",
+      "name": "资中稻田虾",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-84cbb675741c1ca6",
+      "name": "隆昌雷竹",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2d9902fbd5d250df",
+      "name": "隆昌白鲢",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-898037ca55d9eecf",
+      "name": "嘉州麻鸭",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-5c03179cddaaa8a8",
+      "name": "井研玉米",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-8ba24a696fee6594",
+      "name": "井研鸡蛋",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-1809def4fd7bd7ce",
+      "name": "峨边花牛",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2597843ef58a66e5",
+      "name": "东坡黄颡鱼",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-54da590975418c5a",
+      "name": "彭山泽泻",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-313fb0f09fd2bfeb",
+      "name": "仁寿不知火柑橘",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-b5ae717d95a0680d",
+      "name": "仁寿柑橘",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-8185c7445394da96",
+      "name": "长宁香椿",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f9d44a288b79c3c8",
+      "name": "巴州大米",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-adac733d43cec57b",
+      "name": "巴州黑猪腊肉",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-34db34d89e0c2c98",
+      "name": "开江小龙虾",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-1ff82d73108ba53e",
+      "name": "石棉黄桃",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-e4b675e4df9719a8",
+      "name": "马尔康牦牛肉",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-8e83942d5c45d1d6",
+      "name": "白玉雪菊",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-9341d8a10674899f",
+      "name": "稻城酸奶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-96a9a54de5521861",
+      "name": "甘洛绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2ec2a183cc5b654a",
+      "name": "钟山虹鳟鱼",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-84d46c4010820fb8",
+      "name": "桐梓黄牛",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-6b26d93c8b468f90",
+      "name": "道真虫草花",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-cf42b8e8bf6f1cf2",
+      "name": "习水红茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-0f25d060b74b65a2",
+      "name": "安龙绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ab84e10d0916ae0a",
+      "name": "安龙菜心",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-10019310dbde3ca2",
+      "name": "安龙香菇",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2fdf932e7b1e5d60",
+      "name": "关岭红茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-86b1cdaecc6f1d4e",
+      "name": "关岭绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-7b4a84979bcb49da",
+      "name": "关岭黄牛",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f7f4bdb99f42c61b",
+      "name": "凯里云雾茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2ce4448a373abf96",
+      "name": "锦屏山核桃",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-2b6b28de6c89bdb8",
+      "name": "锦屏锥栗",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-47cdcdce1edb2c7a",
+      "name": "黎平天麻",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-165f99945b5b3263",
+      "name": "黎平白茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-4d8d40b42caa16d2",
+      "name": "黎平香茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-d9f5f6df75314276",
+      "name": "龙里绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-b3593202ec57d839",
+      "name": "嵩明金耳",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ab90a6513909a1bd",
+      "name": "禄劝西洋参",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-243a88a54fd49051",
+      "name": "禄劝木香",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-6cb97e856d36572d",
+      "name": "禄劝续断",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f15d2d58e7805751",
+      "name": "禄劝黄精",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-f24748eef71f399c",
+      "name": "富源薏苡仁",
+      "status": "adopt-name-region-and-food-identity",
+      "type": "ingredients",
+      "sourceId": "sw-agri-69d2fb8f80e127d1",
+      "reason": "已读原始官方表格，逐条核对名称、食品身份、地域与公示／公布／注销状态；未添加无依据的配方与疗效"
+    },
+    {
+      "inputId": "agri-row-0dc18316ea3b6b41",
+      "name": "富源香菇",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-19a57f55587c2e18",
+      "name": "宣威蓝莓",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-5015d2bef302848c",
+      "name": "玉溪酸角",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-701df7ecf4f2a837",
+      "name": "红塔香肠",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-5da7efbc7cb62b09",
+      "name": "江川红糖",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-5005f7fa968d6aa9",
+      "name": "江川鸡蛋",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-4d91d3e31e2b6d8f",
+      "name": "峨山豌豆",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-3502725976a99108",
+      "name": "龙陵石斛",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-14214a2e43918a74",
+      "name": "大关红茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-6634f1363cc2e163",
+      "name": "大关绿茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-9c300b84097e3acd",
+      "name": "威信山葵",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-56d66a5a721be7cb",
+      "name": "墨江黄精",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-1cc6ccb0408cbf9f",
+      "name": "墨江咖啡",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-a2dae22f40475ae4",
+      "name": "墨江凤凰山茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-05a780189f37d632",
+      "name": "景谷重楼",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-0503cafeb03110cc",
+      "name": "勐班香米",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-356f855695d6dfcf",
+      "name": "镇沅人参果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-979c136b5462f151",
+      "name": "镇沅腊肉",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-a93e1542034fe99f",
+      "name": "江城白茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-32fa622de8be5b8d",
+      "name": "西盟咖啡",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-feca9746c244bc33",
+      "name": "西盟米荞",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-15030483cc3ce854",
+      "name": "西盟澳洲坚果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-31651505743fd54c",
+      "name": "临翔牛油果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ec3eb0cc4b7e227a",
+      "name": "临翔菜籽油",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-3cadfe3c070b7174",
+      "name": "凤庆芒果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-bde426c099fb0ab3",
+      "name": "凤庆热情果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-85c239040ed2e5cb",
+      "name": "凤庆树头菜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-cf4ac495d5b0dfed",
+      "name": "凤庆贡菜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-60fcbe170b9e276c",
+      "name": "凤庆羊肚菌",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-c0dbcb75808de01e",
+      "name": "凤庆火腿",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ca17eb796163c3f6",
+      "name": "耿马石斛",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-a06a134c187c7dfc",
+      "name": "耿马澳洲坚果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-c6554cafa72832b9",
+      "name": "耿马沃柑",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-437f9ccb2ccf3370",
+      "name": "耿马核桃",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-7166fe26ed53f4c1",
+      "name": "耿马金丝凤梨",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-d4a9eb77251e23ab",
+      "name": "耿马菠萝蜜",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-6fad4526e4b807fc",
+      "name": "耿马茶花鸡",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-120bfef5a6c6c156",
+      "name": "绿春八角",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-26626a2e9a0c18e5",
+      "name": "绿春澳洲坚果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-32dee8f15815fd46",
+      "name": "绿春红茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-30c1ca6f4c039ef1",
+      "name": "马关辣椒",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-382a15b9d3872886",
+      "name": "马关腊肉",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-8c17c3adc8c59d5c",
+      "name": "马关大种鸡",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-c426e4a3351f13ec",
+      "name": "福贡云黄连",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-32138c159c533023",
+      "name": "福贡草果",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-6b56c4c03f5599f1",
+      "name": "福贡咖啡",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-ac83a270e67b8ba1",
+      "name": "福贡老姆登茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-b2c793e782fef770",
+      "name": "福贡亚朵茶",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-980801f22f4d6526",
+      "name": "福贡甜龙竹笋干",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    },
+    {
+      "inputId": "agri-row-722249e8fc8fc0b1",
+      "name": "兰坪芸豆",
+      "status": "hold",
+      "reason": "superseded-proposal"
+    }
+  ]
+}

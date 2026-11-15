@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-c7fdf478eebd2450",
+  "title": "地理标志产品公告 · 2011年第69号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC69%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c7fdf478eebd2450b54dc4cfab8f3f23d882836d",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第69号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC69%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "9b9cd19c23dfca548b8f5c670c1420444183d0488c030a5d2841180eed090e17",
+    "textSha256": "b187a3d69bbc901c8d3ddcc4c833b5208bce2f8999cae531232796129b2c1960",
+    "textLength": 7243,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c7fdf478eebd2450b54dc4cfab8f3f23d882836d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c7fdf478eebd2450b54dc4cfab8f3f23d882836d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-caa9da7e9dcedda79c",
+      "name": "正安白茶",
+      "scope": "正安白茶产地范围为贵州省正安县凤仪镇、安场镇、瑞溪镇、新州镇、小雅镇、庙塘镇、和溪镇、土坪镇、流渡镇、格林镇、中观镇、乐俭乡、谢坝乡、市坪乡、班竹乡、桴焉乡、碧峰乡、杨兴乡、俭坪乡19个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "白叶一号",
+      "sensory": "级别品质特级一级条索肥壮,挺直尚肥壮、挺直外形色泽嫩白,雪亮嫩白香气高香、浓郁高香滋味甘醇,清爽甘醇内质汤色绿润鲜绿叶底柔软、明亮柔软、匀亮",
+      "process": "",
+      "sectionSha256": "069473bd1f3956d735ae573ba768ddc6105aef4336049f8826a65af243c3f834"
+    }
+  ]
+}

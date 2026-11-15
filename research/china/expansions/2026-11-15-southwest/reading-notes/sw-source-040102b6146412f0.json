@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-040102b6146412f0",
+  "title": "云南省丨寻味非遗美食，领略大理风情",
+  "url": "https://zhuanti.mct.gov.cn/fymstslvxlzs/xl_detail/9701.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/040102b6146412f0.raw",
+  "originalResponseSha256": "cbcb9761b58ff6df40d80bedb313a55a6e117e16a3d68ecd8680b76e92ecf636",
+  "readableFile": "research/.local/southwest-20261115/articles/040102b6146412f0.txt",
+  "readableSha256": "010a844f34ec681e711f1a40cc44c8870cc3988556f36cb58bb35de489cf0cb6",
+  "items": [
+    {
+      "itemId": "sw-a3f341d73cdaed7555",
+      "name": "白族三道茶",
+      "initialCandidateId": "memory-b384d4bb868a66",
+      "adoptedFacts": "白族三道茶与大理地方饮茶习俗相连，文化和旅游部非遗线路明确记录相关制作技艺。这里按茶饮与饮茶方式整理，具体茶叶、配料和礼俗环节继续据专题扩写。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

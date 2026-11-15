@@ -28,6 +28,12 @@ reasons = {
     '8a2a0d53d25aa7': '包装纸和背景杂乱，主体呈现不适合卡片。',
     'e9eddf535a4158': '菜品可辨认；本轮已有更完整清晰的锅包肉照片，保留为备选。',
 }
+# Refuse to discard later explicitly reviewed image batches.
+media_path=ROOT/'data/flavor-images.js'
+if media_path.exists():
+    current=media_path.read_text();current=json.loads(current[current.index('{'):current.rfind(';')])
+    original_ids={v[0] for v in approved.values()}|{'program-c8e15ee4f1bf5df8ad','js-squirrel-fish','program-e634bc45a2b277cec0','js-diguo-chicken'}
+    if set(current['cards'])-original_ids:raise RuntimeError('Later photo batches exist; refusing to reset the image registry.')
 assets, cards, decisions = {}, {}, []
 for record in records:
     row = dict(id=record['id'], file=record['file'], downloaded=record['read'],

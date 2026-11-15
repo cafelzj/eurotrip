@@ -1211,5 +1211,361 @@ window.flavorMapRegions={
         "adcode": 623000
       }
     ]
+  },
+  "sichuan": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "成都",
+        "adcode": 510100
+      },
+      {
+        "name": "自贡",
+        "adcode": 510300
+      },
+      {
+        "name": "攀枝花",
+        "adcode": 510400
+      },
+      {
+        "name": "泸州",
+        "adcode": 510500
+      },
+      {
+        "name": "德阳",
+        "adcode": 510600
+      },
+      {
+        "name": "绵阳",
+        "adcode": 510700
+      },
+      {
+        "name": "广元",
+        "adcode": 510800
+      },
+      {
+        "name": "遂宁",
+        "adcode": 510900
+      },
+      {
+        "name": "内江",
+        "adcode": 511000
+      },
+      {
+        "name": "乐山",
+        "adcode": 511100
+      },
+      {
+        "name": "南充",
+        "adcode": 511300
+      },
+      {
+        "name": "眉山",
+        "adcode": 511400
+      },
+      {
+        "name": "宜宾",
+        "adcode": 511500
+      },
+      {
+        "name": "广安",
+        "adcode": 511600
+      },
+      {
+        "name": "达州",
+        "adcode": 511700
+      },
+      {
+        "name": "雅安",
+        "adcode": 511800
+      },
+      {
+        "name": "巴中",
+        "adcode": 511900
+      },
+      {
+        "name": "资阳",
+        "adcode": 512000
+      },
+      {
+        "name": "阿坝州",
+        "adcode": 513200
+      },
+      {
+        "name": "甘孜州",
+        "adcode": 513300
+      },
+      {
+        "name": "凉山州",
+        "adcode": 513400
+      }
+    ]
+  },
+  "chongqing": {
+    "level": "district",
+    "regions": [
+      {
+        "name": "万州区",
+        "adcode": 500101
+      },
+      {
+        "name": "涪陵区",
+        "adcode": 500102
+      },
+      {
+        "name": "渝中区",
+        "adcode": 500103
+      },
+      {
+        "name": "大渡口区",
+        "adcode": 500104
+      },
+      {
+        "name": "江北区",
+        "adcode": 500105
+      },
+      {
+        "name": "沙坪坝区",
+        "adcode": 500106
+      },
+      {
+        "name": "九龙坡区",
+        "adcode": 500107
+      },
+      {
+        "name": "南岸区",
+        "adcode": 500108
+      },
+      {
+        "name": "北碚区",
+        "adcode": 500109
+      },
+      {
+        "name": "綦江区",
+        "adcode": 500110
+      },
+      {
+        "name": "大足区",
+        "adcode": 500111
+      },
+      {
+        "name": "渝北区",
+        "adcode": 500112
+      },
+      {
+        "name": "巴南区",
+        "adcode": 500113
+      },
+      {
+        "name": "黔江区",
+        "adcode": 500114
+      },
+      {
+        "name": "长寿区",
+        "adcode": 500115
+      },
+      {
+        "name": "江津区",
+        "adcode": 500116
+      },
+      {
+        "name": "合川区",
+        "adcode": 500117
+      },
+      {
+        "name": "永川区",
+        "adcode": 500118
+      },
+      {
+        "name": "南川区",
+        "adcode": 500119
+      },
+      {
+        "name": "璧山区",
+        "adcode": 500120
+      },
+      {
+        "name": "铜梁区",
+        "adcode": 500151
+      },
+      {
+        "name": "潼南区",
+        "adcode": 500152
+      },
+      {
+        "name": "荣昌区",
+        "adcode": 500153
+      },
+      {
+        "name": "开州区",
+        "adcode": 500154
+      },
+      {
+        "name": "梁平区",
+        "adcode": 500155
+      },
+      {
+        "name": "武隆区",
+        "adcode": 500156
+      },
+      {
+        "name": "城口县",
+        "adcode": 500229
+      },
+      {
+        "name": "丰都县",
+        "adcode": 500230
+      },
+      {
+        "name": "垫江县",
+        "adcode": 500231
+      },
+      {
+        "name": "忠县",
+        "adcode": 500233
+      },
+      {
+        "name": "云阳县",
+        "adcode": 500235
+      },
+      {
+        "name": "奉节县",
+        "adcode": 500236
+      },
+      {
+        "name": "巫山县",
+        "adcode": 500237
+      },
+      {
+        "name": "巫溪县",
+        "adcode": 500238
+      },
+      {
+        "name": "石柱土家族自治县",
+        "adcode": 500240
+      },
+      {
+        "name": "秀山土家族苗族自治县",
+        "adcode": 500241
+      },
+      {
+        "name": "酉阳土家族苗族自治县",
+        "adcode": 500242
+      },
+      {
+        "name": "彭水苗族土家族自治县",
+        "adcode": 500243
+      }
+    ]
+  },
+  "yunnan": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "昆明",
+        "adcode": 530100
+      },
+      {
+        "name": "曲靖",
+        "adcode": 530300
+      },
+      {
+        "name": "玉溪",
+        "adcode": 530400
+      },
+      {
+        "name": "保山",
+        "adcode": 530500
+      },
+      {
+        "name": "昭通",
+        "adcode": 530600
+      },
+      {
+        "name": "丽江",
+        "adcode": 530700
+      },
+      {
+        "name": "普洱",
+        "adcode": 530800
+      },
+      {
+        "name": "临沧",
+        "adcode": 530900
+      },
+      {
+        "name": "楚雄州",
+        "adcode": 532300
+      },
+      {
+        "name": "红河州",
+        "adcode": 532500
+      },
+      {
+        "name": "文山州",
+        "adcode": 532600
+      },
+      {
+        "name": "西双版纳州",
+        "adcode": 532800
+      },
+      {
+        "name": "大理州",
+        "adcode": 532900
+      },
+      {
+        "name": "德宏州",
+        "adcode": 533100
+      },
+      {
+        "name": "怒江州",
+        "adcode": 533300
+      },
+      {
+        "name": "迪庆州",
+        "adcode": 533400
+      }
+    ]
+  },
+  "guizhou": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "贵阳",
+        "adcode": 520100
+      },
+      {
+        "name": "六盘水",
+        "adcode": 520200
+      },
+      {
+        "name": "遵义",
+        "adcode": 520300
+      },
+      {
+        "name": "安顺",
+        "adcode": 520400
+      },
+      {
+        "name": "毕节",
+        "adcode": 520500
+      },
+      {
+        "name": "铜仁",
+        "adcode": 520600
+      },
+      {
+        "name": "黔西南州",
+        "adcode": 522300
+      },
+      {
+        "name": "黔东南州",
+        "adcode": 522600
+      },
+      {
+        "name": "黔南州",
+        "adcode": 522700
+      }
+    ]
   }
 };

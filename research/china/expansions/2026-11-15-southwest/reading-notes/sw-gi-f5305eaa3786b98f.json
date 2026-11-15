@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-f5305eaa3786b98f",
+  "title": "地理标志产品公告 · 2011年第137号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "f5305eaa3786b98fb365de955ec8af41de537bfe",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第137号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c083385f8f49757f5bec9464632dafa2951d8ef8160eecfe3b19836ce3b67c9c",
+    "textSha256": "bd1f8b7a74002b922ba9f4da75383940731a073808c0ec7e6518d0f35820b966",
+    "textLength": 5873,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/f5305eaa3786b98fb365de955ec8af41de537bfe.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/f5305eaa3786b98fb365de955ec8af41de537bfe.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-1cde116100e1219c7b",
+      "name": "旧院黑鸡蛋",
+      "scope": "旧院黑鸡蛋产地范围为四川省万源市旧院镇、白沙镇、沙滩镇、青花镇、草坝镇、大竹镇、黄钟镇、井溪乡、白羊乡、固军乡、堰塘乡、蜂桶乡、铁矿乡、八台乡、石塘乡、曹家乡、花萼乡、茶垭乡、花楼乡、丝罗乡20个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地黑鸡",
+      "sensory": "蛋壳颜色为青色或浅褐色,坚韧厚实,表面光滑富有光泽;蛋白清澈粘稠,蛋黄呈橘黄色或橙红色",
+      "process": "",
+      "sectionSha256": "b38eb996a7114a302a35f455d964f4a499bc68f0e722fb9cb079b5018e598aa4"
+    },
+    {
+      "itemId": "sw-97d9b5e64cb24d6503",
+      "name": "溪芝鹅",
+      "scope": "溪芝鹅产地范围为四川省蓬溪县赤城镇、新会镇、下东乡、文井镇、罗戈乡、新胜乡、新星乡、明月镇、回水乡、板桥乡、槐花乡、天福镇、常乐镇、红江镇、大石镇、宝梵镇、吉祥镇、群力乡、鸣凤镇、吉星乡、任隆镇、高升乡、黄泥乡、三凤镇、金龙乡、荷叶乡、高坪镇、金桥乡、蓬南镇、群利镇、农兴乡31个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "四川白鹅",
+      "sensory": "宰后皮肤紧凑有弹性,呈白色,喙、蹠、蹼部呈橘黄色。肉质鲜美,不油腻、无腥味、肌肉结实、有嚼劲",
+      "process": "",
+      "sectionSha256": "71e2c7dfbd3681da8539ece946e616fe1f5846a2edab297c353981a9ea5d44dc"
+    }
+  ]
+}

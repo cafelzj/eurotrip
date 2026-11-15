@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-8270dce2af9a9a79",
+  "title": "地理标志产品公告 · 2012年第219号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC219%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "8270dce2af9a9a79f3585f9f95033eef900e5538",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第219号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC219%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c03999a74b976745bec40b95ba656b82d01a1539000cfa9fe269f5495e157f84",
+    "textSha256": "bc3fb1c8f89ebb1fd26b305e197594dd3be1a8a9241017f9053fad2893e926fb",
+    "textLength": 8067,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/8270dce2af9a9a79f3585f9f95033eef900e5538.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/8270dce2af9a9a79f3585f9f95033eef900e5538.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-281ebfac247db04fe1",
+      "name": "盐边油底肉",
+      "scope": "盐边油底肉产地范围为四川省盐边县桐子林镇、渔门镇、永兴镇、红果彝族乡、共和乡、箐河傈僳乡、温泉彝族乡、国胜乡、惠民乡、鱤鱼彝族乡、红宝苗族彝族乡、格萨拉彝族乡12个乡镇现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "皮与肉不脱离,呈微黄或金黄色,色泽鲜亮、均匀一致,口味咸淡适中,醇香浓郁、皮耙肉糯",
+      "process": "",
+      "sectionSha256": "06c53dd000d76c47ba7f22dbca211aee5a58367b654c8e198ee3c61161b02215"
+    },
+    {
+      "itemId": "sw-a40b47b3ddcdf46831",
+      "name": "保宁压酒",
+      "scope": "保宁压酒产地范围为四川省阆中市保宁街道办事处、沙溪街道办事处、七里街道办事处3个街道办事处现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "(1)颜色:呈琥珀色,半透明,无悬浮物;(2)气味:具有特殊的蜜醇香,无异味;(3)口感:酸甜适度,口感醇和,酒质爽口",
+      "process": "",
+      "sectionSha256": "878039e3192ab1dd4ec77bc2d0ccea11763d6ff9a8d56fadb43004fff6cefd2a"
+    },
+    {
+      "itemId": "sw-a23facba50a164083e",
+      "name": "汤麻饼",
+      "scope": "汤麻饼产地范围为四川省崇州市街子镇现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "色泽均匀,表面有芝麻,底面无焦斑,香甜、酥脆、不粘牙、酥脆可口、入口化渣,回香",
+      "process": "",
+      "sectionSha256": "49a15070382ef66d190b242ebc815aa3c4c4a34bb09cb069c4c5881dba262fb3"
+    }
+  ]
+}

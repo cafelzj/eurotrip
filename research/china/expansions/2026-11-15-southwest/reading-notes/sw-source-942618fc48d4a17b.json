@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-942618fc48d4a17b",
+  "title": "机构检索 - 全国标准信息公共服务平台",
+  "url": "https://std.samr.gov.cn/search/orgDetailView?data_id=E8B3F666CD7CF112E05397BE0A0A5815",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/942618fc48d4a17b.raw",
+  "originalResponseSha256": "ae84054c7670bab1eea626da489fbbe5fa9cc0abf59dd7e042396b2ea2578a05",
+  "readableFile": "research/.local/southwest-20261115/articles/942618fc48d4a17b.txt",
+  "readableSha256": "3fb157cbe1251216faaa0a0bb85525af9cfcb02d5c9d49196e33db108c99695d",
+  "items": [
+    {
+      "itemId": "sw-457a62b7e55698bf1a",
+      "name": "贵州茅台酒",
+      "initialCandidateId": "memory-b0cbed145cf03f",
+      "adoptedFacts": "贵州茅台酒与遵义仁怀茅台镇的酿酒产业相连。国家标准平台的酱香型白酒技术组织资料记录贵州茅台酒股份有限公司及茅台镇地址，遵义白酒报道亦明确列有茅台品牌。公司、酒类品牌和具体酒款分别记录。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

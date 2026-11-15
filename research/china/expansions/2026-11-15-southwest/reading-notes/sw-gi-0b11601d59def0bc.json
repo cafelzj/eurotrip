@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-0b11601d59def0bc",
+  "title": "地理标志产品公告 · 2012年第208号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0b11601d59def0bc59e67eaea0f72a6799c2325a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第208号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "0d36753ed41fb608b685f9e623924da959084d420ccecf7d5af511176929ed84",
+    "textSha256": "52226db6af9255b263edb976745c321eed655566e59928b676cbc4e46009f327",
+    "textLength": 7520,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0b11601d59def0bc59e67eaea0f72a6799c2325a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0b11601d59def0bc59e67eaea0f72a6799c2325a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-79372cb6d7537cd29e",
+      "name": "夹江书画纸",
+      "scope": "夹江书画纸产地范围为四川省夹江县马村乡、中兴镇、漹城镇、迎江乡、南安乡、木城镇、黄土镇、界牌镇、龙沱乡、华头镇、麻柳乡、歇马乡12个乡镇现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "纸质绵韧、手感润柔,纸面平整,有隐约竹帘纹,切边整齐洁净,纸面没有折子、裂口、洞眼、沙粒和附着物等影响使用的瑕疵",
+      "process": "",
+      "sectionSha256": "29c28ee945e9bb747cef0fff123503b629c5f90b26d04cafd4c06a49bc8ee14b"
+    }
+  ]
+}

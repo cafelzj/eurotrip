@@ -24,7 +24,7 @@ window.ChinaFlavorUI=(()=>{
   return (state.city==='all'||foodCity(item)===state.city)&&(state.district==='all'||inDistrict(item,state.district))&&countyMatches(item,state.county||'all');
  }
  function atlas(state,p){
-  const district=districtMode(state),unit=district?'区':'城市';
+  const district=districtMode(state),unit=district?(p?.id==='chongqing'?'区县':'区'):'城市';
   const picker=p?`<div class="flavor-city-picker"><div class="flavor-city-list"><h2>${unit}清单</h2><nav aria-label="选择${h(p.name)}${unit}">${['all',...cityOptions(state)].map(city=>`<a class="ui-choice" data-flavor-city="${h(city)}" href="${h(url({...state,city:district?'all':city,district:district?city:'all',county:'all'}))}">${city==='all'?'全部'+unit:h(city)}<small></small></a>`).join('')}</nav></div><figure><h2>${h(p.name)} · ${unit}地图</h2><div class="flavor-map flavor-province-map" id="flavorProvinceMap" data-province="${p.id}" aria-busy="true"><p>正在加载${h(p.name)}地图…</p></div></figure></div>`:'';
   return `<section class="flavor-atlas" aria-label="按省份和城市选择风物"><div class="flavor-provinces"><h2>省份清单</h2><nav aria-label="选择风物省市">${[{id:'all',name:'全部已收录省市'},...data.provinces].map(region=>{const count=data.items.filter(i=>region.id==='all'||i.province===region.id).length;return `<a class="ui-choice" href="${h(url({...state,province:region.id,city:'all',district:'all',county:'all'}))}" ${state.province===region.id?'aria-current="page"':''}>${h(region.name)}<small>${count}</small></a>`;}).join('')}</nav></div><div class="flavor-location-pickers">${picker}${p&&!district?'<section id="flavorCountyPicker" class="flavor-county-picker" aria-label="选择县区"></section>':''}</div></section>`;
  }
@@ -90,7 +90,7 @@ window.ChinaFlavorUI=(()=>{
  async function loadNationalMap(root){
   const host=root.querySelector('[data-china-national-map]'),request=new AbortController();nationalRequest=request;
   try{
-   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=shaanxi-gansu-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
+   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=southwest-1000-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
    if(request.signal.aborted||!host.isConnected)return;host.innerHTML=nationalMarkup;
    for(const link of host.querySelectorAll('[data-map-province]')){const id=link.dataset.mapProvince;link.setAttribute('href',url({...active,province:id,city:'all',county:'all',district:'all'}));link.classList.toggle('is-current',active.province===id);}
    for(const label of host.querySelectorAll('.province-labels text')){

@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-ce1e0e37af9beb86",
+  "title": "地理标志产品公告 · 2012年第217号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC217%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ce1e0e37af9beb86dfd865663f6721ea3055268a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第217号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC217%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "8ae85703a706e9483cadec4667d656a89c9828f3d13f99c1ba5ecbfc78dc35b8",
+    "textSha256": "5d10e0e4dbdc8be82014d9b5bcbd36aa4264af0074dfbb2fb07ff6b27ce29c44",
+    "textLength": 7848,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ce1e0e37af9beb86dfd865663f6721ea3055268a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ce1e0e37af9beb86dfd865663f6721ea3055268a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-0554b80a04f00990bf",
+      "name": "自贡火边子牛肉",
+      "scope": "自贡火边子牛肉产地范围为四川省自贡市大安区现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "薄而透明,肉质坚实,无筋膜、无筋腱,鲜香化渣,绵软可口,回味悠长,咸度适中,其味厚重,其香特异",
+      "process": "",
+      "sectionSha256": "9810d4b6a5c40a83fec578dc405cf249e45715570666a39904e3311e647b370c"
+    },
+    {
+      "itemId": "sw-c7b7a45cbd591b1fb1",
+      "name": "崇州牛尾笋",
+      "scope": "崇州牛尾笋产地范围为四川省崇州市文井江镇、三郎镇、街子镇、鸡冠山乡4个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "笋肉黄色或黄白色,新鲜清洁、笋肉丰腴、肉质脆嫩,笋箨有光泽不萎篶,具有“鲜、香、嫩、脆”的特点",
+      "process": "",
+      "sectionSha256": "772ca33b15dd4a4bbc7ec386264170b287f1c6ad47a3a18dd0a096b045330f7f"
+    },
+    {
+      "itemId": "sw-d7ade63dc66ba03dc0",
+      "name": "仪陇酱瓜",
+      "scope": "仪陇酱瓜产地范围为四川省仪陇县新政镇、张公镇、观紫镇、三蛟镇、金城镇、双胜镇、立山镇7个镇现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "(1)色泽:呈金红、深红色或褐红色,有透明感,通体一色,无黑斑暗块。(2)香气:有酯香气和浓郁的酱香气。(3)滋味:咸甜适口,酱味鲜美厚长。(4)质地:脆、嫩",
+      "process": "",
+      "sectionSha256": "c70bee3542bffbbed629dcfd24255fca506bf506972f8c039bca41972c25e6ba"
+    }
+  ]
+}

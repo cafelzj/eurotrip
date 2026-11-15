@@ -251,6 +251,42 @@
       "city": "咸阳",
       "count": 9,
       "remainingToTarget": 2
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "count": 10,
+      "remainingToTarget": 1
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "count": 5,
+      "remainingToTarget": 6
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "count": 8,
+      "remainingToTarget": 3
     }
   ],
   "cities": [
@@ -3596,6 +3632,655 @@
       },
       "sourceBackedCount": 13,
       "pendingCount": 0
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "count": 94,
+      "types": {
+        "ingredients": 70,
+        "staples": 3,
+        "seasoning": 3,
+        "tea": 8,
+        "crafts": 2,
+        "dishes": 6,
+        "dairy": 1,
+        "drinks": 1
+      },
+      "sourceBackedCount": 94,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "count": 16,
+      "types": {
+        "staples": 4,
+        "ingredients": 8,
+        "tea": 1,
+        "dairy": 1,
+        "dishes": 2
+      },
+      "sourceBackedCount": 16,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "count": 26,
+      "types": {
+        "tea": 5,
+        "ingredients": 17,
+        "drinks": 1,
+        "dishes": 3
+      },
+      "sourceBackedCount": 26,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "count": 34,
+      "types": {
+        "tea": 8,
+        "ingredients": 18,
+        "alcohol": 4,
+        "seasoning": 1,
+        "staples": 3
+      },
+      "sourceBackedCount": 34,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "count": 21,
+      "types": {
+        "tea": 6,
+        "alcohol": 1,
+        "drinks": 1,
+        "ingredients": 10,
+        "crafts": 1,
+        "staples": 1,
+        "dishes": 1
+      },
+      "sourceBackedCount": 21,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "count": 16,
+      "types": {
+        "ingredients": 6,
+        "crafts": 1,
+        "seasoning": 2,
+        "alcohol": 1,
+        "tea": 2,
+        "dishes": 2,
+        "staples": 2
+      },
+      "sourceBackedCount": 16,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "count": 10,
+      "types": {
+        "tea": 2,
+        "ingredients": 5,
+        "staples": 3
+      },
+      "sourceBackedCount": 10,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "count": 27,
+      "types": {
+        "ingredients": 16,
+        "staples": 4,
+        "tea": 6,
+        "dishes": 1
+      },
+      "sourceBackedCount": 27,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "count": 21,
+      "types": {
+        "ingredients": 13,
+        "seasoning": 1,
+        "tea": 4,
+        "dishes": 2,
+        "staples": 1
+      },
+      "sourceBackedCount": 21,
+      "pendingCount": 0
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "count": 32,
+      "types": {
+        "tea": 8,
+        "ingredients": 19,
+        "alcohol": 1,
+        "seasoning": 1,
+        "drinks": 1,
+        "crafts": 2
+      },
+      "sourceBackedCount": 32,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "count": 87,
+      "types": {
+        "ingredients": 61,
+        "tea": 6,
+        "crafts": 2,
+        "alcohol": 4,
+        "seasoning": 3,
+        "staples": 7,
+        "dishes": 2,
+        "dairy": 2
+      },
+      "sourceBackedCount": 87,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "count": 14,
+      "types": {
+        "seasoning": 3,
+        "dishes": 3,
+        "ingredients": 7,
+        "crafts": 1
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "count": 23,
+      "types": {
+        "tea": 1,
+        "crafts": 2,
+        "dishes": 2,
+        "ingredients": 17,
+        "staples": 1
+      },
+      "sourceBackedCount": 23,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "count": 17,
+      "types": {
+        "alcohol": 3,
+        "ingredients": 10,
+        "seasoning": 1,
+        "crafts": 1,
+        "tea": 1,
+        "dishes": 1
+      },
+      "sourceBackedCount": 17,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "count": 34,
+      "types": {
+        "staples": 1,
+        "seasoning": 1,
+        "ingredients": 27,
+        "dishes": 3,
+        "tea": 2
+      },
+      "sourceBackedCount": 34,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "count": 28,
+      "types": {
+        "tea": 4,
+        "ingredients": 18,
+        "staples": 2,
+        "crafts": 2,
+        "dishes": 1,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 28,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "count": 22,
+      "types": {
+        "ingredients": 17,
+        "tea": 2,
+        "dishes": 1,
+        "crafts": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 22,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "count": 41,
+      "types": {
+        "ingredients": 34,
+        "dishes": 1,
+        "seasoning": 1,
+        "crafts": 1,
+        "alcohol": 1,
+        "staples": 2,
+        "tea": 1
+      },
+      "sourceBackedCount": 41,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "count": 33,
+      "types": {
+        "ingredients": 24,
+        "seasoning": 2,
+        "dishes": 2,
+        "crafts": 2,
+        "tea": 2,
+        "staples": 1
+      },
+      "sourceBackedCount": 33,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "count": 27,
+      "types": {
+        "tea": 3,
+        "ingredients": 16,
+        "seasoning": 1,
+        "crafts": 1,
+        "staples": 2,
+        "drinks": 1,
+        "dishes": 3
+      },
+      "sourceBackedCount": 27,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "count": 28,
+      "types": {
+        "ingredients": 18,
+        "seasoning": 4,
+        "alcohol": 1,
+        "crafts": 1,
+        "dishes": 1,
+        "staples": 2,
+        "tea": 1
+      },
+      "sourceBackedCount": 28,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "count": 20,
+      "types": {
+        "seasoning": 2,
+        "staples": 2,
+        "crafts": 1,
+        "dishes": 1,
+        "ingredients": 13,
+        "tea": 1
+      },
+      "sourceBackedCount": 20,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "count": 31,
+      "types": {
+        "dishes": 3,
+        "alcohol": 3,
+        "tea": 7,
+        "ingredients": 15,
+        "staples": 2,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 31,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "count": 17,
+      "types": {
+        "ingredients": 15,
+        "staples": 1,
+        "tea": 1
+      },
+      "sourceBackedCount": 17,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "count": 29,
+      "types": {
+        "ingredients": 18,
+        "dishes": 7,
+        "tea": 3,
+        "crafts": 1
+      },
+      "sourceBackedCount": 29,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "count": 18,
+      "types": {
+        "ingredients": 10,
+        "tea": 5,
+        "dishes": 1,
+        "seasoning": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 18,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "count": 17,
+      "types": {
+        "ingredients": 14,
+        "tea": 2,
+        "dishes": 1
+      },
+      "sourceBackedCount": 17,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "count": 7,
+      "types": {
+        "ingredients": 5,
+        "staples": 1,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 7,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "count": 32,
+      "types": {
+        "crafts": 1,
+        "ingredients": 25,
+        "dairy": 3,
+        "staples": 1,
+        "tea": 2
+      },
+      "sourceBackedCount": 32,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "count": 21,
+      "types": {
+        "ingredients": 16,
+        "tea": 2,
+        "staples": 2,
+        "dairy": 1
+      },
+      "sourceBackedCount": 21,
+      "pendingCount": 0
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "count": 26,
+      "types": {
+        "ingredients": 22,
+        "tea": 2,
+        "dishes": 2
+      },
+      "sourceBackedCount": 26,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "count": 19,
+      "types": {
+        "ingredients": 10,
+        "dishes": 3,
+        "staples": 2,
+        "seasoning": 2,
+        "dairy": 2
+      },
+      "sourceBackedCount": 19,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "count": 27,
+      "types": {
+        "ingredients": 24,
+        "dishes": 2,
+        "staples": 1
+      },
+      "sourceBackedCount": 27,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "count": 12,
+      "types": {
+        "staples": 2,
+        "ingredients": 9,
+        "dishes": 1
+      },
+      "sourceBackedCount": 12,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "count": 13,
+      "types": {
+        "drinks": 1,
+        "ingredients": 10,
+        "tea": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 13,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "count": 12,
+      "types": {
+        "alcohol": 1,
+        "ingredients": 8,
+        "dishes": 1,
+        "tea": 2
+      },
+      "sourceBackedCount": 12,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "count": 6,
+      "types": {
+        "ingredients": 3,
+        "dishes": 1,
+        "staples": 2
+      },
+      "sourceBackedCount": 6,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "count": 19,
+      "types": {
+        "ingredients": 13,
+        "drinks": 3,
+        "tea": 2,
+        "dishes": 1
+      },
+      "sourceBackedCount": 19,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "count": 44,
+      "types": {
+        "ingredients": 33,
+        "tea": 7,
+        "seasoning": 1,
+        "dishes": 2,
+        "drinks": 1
+      },
+      "sourceBackedCount": 44,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "count": 13,
+      "types": {
+        "seasoning": 2,
+        "ingredients": 10,
+        "tea": 1
+      },
+      "sourceBackedCount": 13,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "count": 22,
+      "types": {
+        "dishes": 3,
+        "crafts": 2,
+        "ingredients": 15,
+        "staples": 1,
+        "tea": 1
+      },
+      "sourceBackedCount": 22,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "count": 19,
+      "types": {
+        "ingredients": 14,
+        "seasoning": 1,
+        "dishes": 1,
+        "tea": 3
+      },
+      "sourceBackedCount": 19,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "count": 5,
+      "types": {
+        "dishes": 1,
+        "staples": 2,
+        "ingredients": 1,
+        "tea": 1
+      },
+      "sourceBackedCount": 5,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "count": 28,
+      "types": {
+        "ingredients": 16,
+        "alcohol": 1,
+        "drinks": 1,
+        "dishes": 3,
+        "tea": 3,
+        "dairy": 2,
+        "staples": 2
+      },
+      "sourceBackedCount": 28,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "count": 6,
+      "types": {
+        "ingredients": 2,
+        "crafts": 1,
+        "dishes": 1,
+        "staples": 2
+      },
+      "sourceBackedCount": 6,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "count": 11,
+      "types": {
+        "tea": 2,
+        "dishes": 3,
+        "ingredients": 5,
+        "drinks": 1
+      },
+      "sourceBackedCount": 11,
+      "pendingCount": 0
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "count": 8,
+      "types": {
+        "ingredients": 7,
+        "alcohol": 1
+      },
+      "sourceBackedCount": 8,
+      "pendingCount": 0
     }
   ],
   "countyAreas": [
@@ -3660,9 +4345,9 @@
       "pendingCount": 0
     }
   ],
-  "totalItems": 5362,
+  "totalItems": 6497,
   "targetItems": 2000,
   "remainingItems": 0,
-  "sourceBackedItems": 5315,
+  "sourceBackedItems": 6450,
   "pendingItems": 47
 }

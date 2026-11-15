@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-367f40d6adc82710",
+  "title": "地理标志产品公告 · 2008年第97号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "367f40d6adc827102077b29728907d5ec87baee4",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第97号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "688f71c385b3d1a71d6a1a4b92a391bd86edd1f9f2288868e9e8527f6f586b26",
+    "textSha256": "054d00051cf4d4cd597c8e13ead08a1beda3639368c055ff423fcb642d6cd9ff",
+    "textLength": 7453,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/367f40d6adc827102077b29728907d5ec87baee4.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/367f40d6adc827102077b29728907d5ec87baee4.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-9a7eb46bb411711a14",
+      "name": "南溪豆腐干",
+      "scope": "南溪豆腐干地理标志产品保护范围以四川省南溪县人民政府《关于划定南溪豆腐干地理标志产品保护范围的通知》(南府发〔2007〕34号)提出的范围为准,为四川省南溪县现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "项目指标色泽呈枣红色、微黄色或黑褐色等,并带油亮光泽滋味咸淡适口、入口醇香、回味悠长质地细腻柔软、富有弹性",
+      "process": "",
+      "sectionSha256": "3aae6bc60fe7189b1d7623b9fcd2f393ae26c8f45eb628c55d071a4501cade6e"
+    }
+  ]
+}

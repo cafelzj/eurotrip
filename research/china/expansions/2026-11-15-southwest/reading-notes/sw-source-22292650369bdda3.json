@@ -1,0 +1,28 @@
+{
+  "id": "sw-source-22292650369bdda3",
+  "title": "玉溪市政府信息公开",
+  "url": "https://www.yuxi.gov.cn/yxszfxxgk/tz/20250618/1607762.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/22292650369bdda3.raw",
+  "originalResponseSha256": "4c0fa80951db7f7163543c591df42a493fa7e402effe3f605d75f625ba4610d7",
+  "readableFile": "research/.local/southwest-20261115/articles/22292650369bdda3.txt",
+  "readableSha256": "a3ad6019ff28505931d953039dc1f2cade3438ee2e87e90dfbc9f199af2170fa",
+  "items": [
+    {
+      "itemId": "sw-d94e5cce5827323a44",
+      "name": "玉溪凉米线",
+      "initialCandidateId": "memory-e8206fc913d420",
+      "adoptedFacts": "玉溪凉米线进入当地名小吃推荐，是玉溪米线饮食的一种形态。它与鳝鱼米线、小锅米线等分别记录，冷食名称不代表固定配料和统一酸辣程度。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-02b3e245ac719fc570",
+      "name": "元江芒果",
+      "initialCandidateId": "memory-faac7f8a11e037",
+      "adoptedFacts": "元江芒果在玉溪地方名品介绍中有明确记录，是当地热区果品之一。产品名称与产区关联保留，不把同一地区不同芒果品种和加工形态当作完全一致。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

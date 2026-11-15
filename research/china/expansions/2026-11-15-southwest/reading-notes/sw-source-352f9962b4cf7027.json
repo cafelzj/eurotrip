@@ -1,0 +1,28 @@
+{
+  "id": "sw-source-352f9962b4cf7027",
+  "title": "宁夏文旅四川（泸州）推介会成功举办",
+  "url": "https://whhlyt.nx.gov.cn/xxfb/wlyw/202001/t20200108_3651664.html",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/352f9962b4cf7027.raw",
+  "originalResponseSha256": "a80dcdb9fd3874d4c783668ec1100a26346d386d012d8d124238940fd21bbf00",
+  "readableFile": "research/.local/southwest-20261115/articles/352f9962b4cf7027.txt",
+  "readableSha256": "8e3ac1d7e46dff75a3654671fe13eeb0c16a8a5245834a8b074b2a0859074503",
+  "items": [
+    {
+      "itemId": "sw-68d75154d69f2accfe",
+      "name": "泸州老窖",
+      "initialCandidateId": "memory-064c99c6c2a16f",
+      "adoptedFacts": "泸州老窖是与泸州酿酒传统相连的酒类品牌。官方文旅交流报道明确记载泸州老窖和郎酒产自泸州；不同酒款、度数和企业主体分别看待，不由品牌名称推断所有系列的原料配比。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-911ae27f73fe4e9743",
+      "name": "郎酒",
+      "initialCandidateId": "memory-18528b7fa0aba0",
+      "adoptedFacts": "郎酒与泸州地方酿酒产业相连，官方文旅报道明确记录其泸州地域关联。本条区分地方酒类品牌和不同产品系列，具体厂区、香型和工艺要求继续按对应产品资料补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

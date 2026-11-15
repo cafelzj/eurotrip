@@ -1,0 +1,63 @@
+{
+  "id": "sw-gi-a87dce438f099302",
+  "title": "地理标志产品公告 · 2010年第134号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a87dce438f099302c7cd2b83158333f9eab8ad4c",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第134号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "875a7db069513aa6863c64874974166d255036b32c302b32d77f51953da0d17e",
+    "textSha256": "f41c6250c4cfcbe22f467da34f3757b08678367b0bfa63f2e93090b6e0bbdfd8",
+    "textLength": 6563,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a87dce438f099302c7cd2b83158333f9eab8ad4c.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a87dce438f099302c7cd2b83158333f9eab8ad4c.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-9827da24b21cfcd7b8",
+      "name": "西昌洋葱",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "紫皮类型品种",
+      "sensory": "鳞茎形状呈扁圆形至圆球形、颜色紫红、表皮光滑、光泽度好、结构紧密、辛辣味浓",
+      "process": "",
+      "sectionSha256": "5920f8321a1a735e29ade649bf715e856e191ad1a3e55546bfd07a6e22d09dc6"
+    },
+    {
+      "itemId": "sw-d1a4dbead7300cae5f",
+      "name": "大竹香椿",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "当地地方品种“红香椿”",
+      "sensory": "叶面光滑、大小均匀一致、有主芽,嫩芽及叶柄粗壮、色泽鲜亮、呈棕红色。脆嫩多汁、少渣、爽口、味甜、无苦涩味、香味浓郁",
+      "process": "",
+      "sectionSha256": "25d401319a097574f475639dd7d5e4ed8e3a4661a86546cd652d71623e699db3"
+    },
+    {
+      "itemId": "sw-ccc2bfc269ef7c64c6",
+      "name": "雷波脐橙",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "纽荷尔、奈维林娜",
+      "sensory": "果实特大、果形美观、皮薄光滑、糖酸比高、鲜甜可口、汁液丰富、具有浓郁蜂蜜味的独特品质",
+      "process": "",
+      "sectionSha256": "956f4da5a19b1fb0b94575eb3bafaef61d851aef50e636752585bb8d077822da"
+    },
+    {
+      "itemId": "sw-45e1ece8f0c6812b18",
+      "name": "稻城藏香猪",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "藏猪",
+      "sensory": "(1)色泽:鲜肉肌肉有光泽、肉色鲜红、均匀,脂肪乳白色,且有透明状;冻肉肌肉有光泽、肉色鲜红或稍暗,脂肪白色。(2)组织状态:鲜肉肉皮厚,脂肪层薄,肉质纤维清晰,有坚韧性,指压后凹陷立即恢复;冻肉肉质紧密,有坚韧性,解冻后指压凹陷恢复缓慢。(3)粘度:鲜肉外表湿润,不粘手;冻肉外表湿润,切面有渗出液,不粘手。(4)气味:鲜肉具有鲜稻城藏香猪肉固有的气味,无异味;冻肉解冻后具有稻城藏香猪肉固有的气味,无异味",
+      "process": "",
+      "sectionSha256": "4dfb3f056a90e76b0c06a7bbae0d8291817628c459a14a72c828f6cd9d147b68"
+    }
+  ]
+}

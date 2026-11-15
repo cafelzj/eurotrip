@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-4db854fbad2902e5",
+  "title": "地理标志产品公告 · 2021年第459号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC459%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "4db854fbad2902e50f38c7f6bf350d22dca3a0a1",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2021年第459号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC459%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "20596d3c4699211287c18f166fe1600650c74480112cb61514222557425d0f8d",
+    "textSha256": "80df2e89d0092d3593f8b1a3bd5b6692ffb1dc8f51bb5115bf4d4f0f54250028",
+    "textLength": 3393,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/4db854fbad2902e50f38c7f6bf350d22dca3a0a1.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/4db854fbad2902e50f38c7f6bf350d22dca3a0a1.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-3623abd232ace1492d",
+      "name": "比德大米",
+      "scope": "贵州省六盘水市水城区比德镇大寨村和水库村当前所在区域",
+      "type": "ingredients",
+      "variety": "五里香",
+      "sensory": "米粒短,颗粒饱满圆润,横断面近于圆形,颜色蜡白,透明或半透明,稻香味浓,蒸后质地软糯有韧性,柔软可口有粘性",
+      "process": "稻谷→筛选→去石→磁选→砻谷→谷糙分离→碾米→去碎米→色选→抛光",
+      "sectionSha256": "4d36bfeb97de1e0b1e80e58e8c4fad4bf6e42f94b9372b7f1a99a0b3ad094d83"
+    }
+  ]
+}

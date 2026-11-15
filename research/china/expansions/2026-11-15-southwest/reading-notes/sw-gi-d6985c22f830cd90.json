@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-d6985c22f830cd90",
+  "title": "地理标志产品公告 · 2010年第112号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "d6985c22f830cd907dbee1caf29a8855d3c2732e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第112号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "ebfbf0c85ac1d7eb9aa00a9695f3b12dbc5fa3e64b9acebd0fa7494490b6dd9e",
+    "textSha256": "e1e50a4cde7d1a87ae4fd691bc7500561652f2e1e121e7fedc736a07bafc8029",
+    "textLength": 6355,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/d6985c22f830cd907dbee1caf29a8855d3c2732e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/d6985c22f830cd907dbee1caf29a8855d3c2732e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-523c9d01ecbeaf5e40",
+      "name": "富顺香辣酱",
+      "scope": "",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "呈红褐色、油润光亮、馥郁芳香、香气悦人、质地粘糍、口感细腻、爽辣可口,回味悠长",
+      "process": "技术要求。1.工艺流程:(1)辣椒酱(糍粑海椒):辣椒→清洗整理→预煮→捣制醒发(2)酱油:小黄豆→特殊酿造→多种香辛料萃取→煮沸→冷却(3)富顺香辣酱:辣椒酱+酱油+熟菜油等→调配→搅拌醒发→灭菌→灌装2.工艺要点:(1)预煮:采用保护区内的地下水,温度90°C至100°C,时间20至30分钟。(2)捣制醒发:采用本地生产专用捣具,温度50°C至60°C,时间30至50分钟。(3)调配搅拌:温度30°C至40°C,时间15至20分钟",
+      "sectionSha256": "ef2abceae9c5e3dd8e552c83af1e868c480c84b95d73e5ceee5eb9c4e4b72b0a"
+    },
+    {
+      "itemId": "sw-ec418dfc14567cfe9c",
+      "name": "炉霍雪域俄色茶",
+      "scope": "",
+      "type": "tea",
+      "variety": "变叶海棠〔Malustoringoides(Rehd.)Hughes)〕",
+      "sensory": "形似针松,其味清香甘洌,回味悠长,色泽淡雅宜人。外形芽叶细嫩弯曲,色泽嫩绿光润,整碎匀整。内质清香持久,汤色嫩绿、清澈明亮,滋味鲜爽甘醇,叶底嫩绿匀整、有光泽",
+      "process": "鲜叶→摊青→杀青→初揉→烘(炒)二青→复揉、解决→炒三青→烘干(足火)",
+      "sectionSha256": "10124f547a99201133a6ddf248586879d49261c8c6e22bcb22a651b0c155fb97"
+    }
+  ]
+}

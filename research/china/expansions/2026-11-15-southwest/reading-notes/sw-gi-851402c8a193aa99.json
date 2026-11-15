@@ -1,0 +1,143 @@
+{
+  "id": "sw-gi-851402c8a193aa99",
+  "title": "地理标志产品公告 · 2016年第63号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC63%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "851402c8a193aa99ece0e8270c862522cb2b3725",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2016年第63号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC63%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "83fda544e9e1197648ec10e39f97e64708a131e65d7cbbd468bead5baa8dd97c",
+    "textSha256": "4fe37fa9d24030f1215dd916775c5a4cd29dee7a068c25bf69995101a739d7fe",
+    "textLength": 43150,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/851402c8a193aa99ece0e8270c862522cb2b3725.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/851402c8a193aa99ece0e8270c862522cb2b3725.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-d855406cd77f6773c2",
+      "name": "麻江蓝莓",
+      "scope": "麻江蓝莓产地范围为贵州省黔东南州麻江县、凯里市、黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、锦屏县、剑河县、台江县、黎平县、榕江县、从江县、雷山县、丹寨县等16个县市现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "项目要求色泽果实呈深蓝色,有或无果粉口感味清香,酸甜适中,肉汁细腻,有胶质感",
+      "process": "",
+      "sectionSha256": "cb924f382386c85be45a07412b6fc15a1dff11e659a19e1bffefd46b3665c0e2"
+    },
+    {
+      "itemId": "sw-8f17f369ef2c440922",
+      "name": "普安四球茶",
+      "scope": "普安四球茶产地范围为贵州省普安县楼下镇、青山镇、新店镇、罗汉镇、地瓜镇、江西坡镇、高棉乡、龙吟镇、兴中镇、白沙乡、南湖街道、盘水街道等12个乡镇街道现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形重实,绿润,无毫;汤色淡绿明亮,耐泡;香气浓香得馥郁高长;滋味鲜醇、爽口,回味悠长;叶底芽叶嫩匀,绿亮、鲜活",
+      "process": "",
+      "sectionSha256": "7639064312bc9dcd4f2707824d88bd4da8c31d841f29991c21cf8682aec3fb2f"
+    },
+    {
+      "itemId": "sw-e197be090b88e4dbb4",
+      "name": "普安红茶",
+      "scope": "普安红茶产地范围为贵州省普安县楼下镇、青山镇、新店镇、罗汉镇、地瓜镇、江西坡镇、高棉乡、龙吟镇、兴中镇、白沙乡、南湖街道、盘水街道等12个乡镇街道现辖行政区域。",
+      "type": "tea",
+      "variety": "当地群体种及适宜加工为普安红茶的其他茶树品种",
+      "sensory": "(1)工夫红茶外形条索细紧多峰苗,匀齐、净,色泽红匀,明亮;香气鲜嫩持久;汤色红艳浓亮;滋味醇滑;叶底嫩匀红亮。(2)红碎茶外形颗粒紧实、金毫显露、匀齐、色润;香气嫩香、强烈持久;滋味浓强鲜爽;汤色红艳明亮;叶底嫩匀红亮",
+      "process": "1.工夫红茶加工(1)工艺流程:鲜叶→萎凋→揉捻→发酵→干燥。(2)工艺要求:萎调时间14~16h,摊叶厚度3~8cm,含水率(62±1)%,以叶色暗淡,手摸柔软,折而不断,不产生刺手叶尖为准;揉捻以茶条圆紧,黄绿,茶汁外溢,但手握紧不流汁,为揉捻合适,收汁;发酵4~6h,温度28~35°C,厚度8~12cm,以发酵均匀,叶色铜红,散发花香为发酵适度;干燥温度125~145°C,投叶均匀不叠层,12~15min,足火提香,90~110°C,30min。2.红碎茶加工(1)工艺流程:鲜叶→萎凋→揉切→发酵→干燥。(2)工艺要求:萎调时间14~16h,摊叶厚",
+      "sectionSha256": "17f7c1f1fc98f65deb1030d355c421ef5a2fb4165b6656657cd6eb6dd7d21ee5"
+    },
+    {
+      "itemId": "sw-360ee4cd6830b42341",
+      "name": "盘州红米",
+      "scope": "盘州红米产地范围为贵州省盘县淤泥乡、普吉乡、保基乡、水塘镇、刘官镇、新民镇、旧营乡、保田镇等8个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "米粒呈细长椭圆形,表皮为深粉红至浅粉红色。蒸熟时谷香味浓郁,米饭不粘不渣。口感绵软稍带粗糙感,冷后不回生,饭粒稍硬,有弹性",
+      "process": "",
+      "sectionSha256": "80399d4f161056fcde2791d95df28b14b52facaf14d919b07345fe075ad4e453"
+    },
+    {
+      "itemId": "sw-c468952dfbc7e384d8",
+      "name": "保基茶叶",
+      "scope": "保基茶叶产地范围为贵州省盘县保基乡、羊场乡、淤泥乡、鸡场坪乡、旧营乡、盘江镇、板桥镇、水塘镇、民主镇、老厂镇、玛依镇、大山镇、滑石镇、坪地乡、平关镇、忠义乡、保田镇、普田乡、新民镇、响水镇、乐民镇、火铺镇等22个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "扁形茶:外形扁平挺直,绿润整齐,露毫,嫩香持久;卷曲形茶:外形条索紧实、匀整,色泽灰绿光润,香气清香,浓郁;风味独特、栗香高长,汤色黄绿明亮,滋味鲜醇,回味甘长,叶底嫩绿明亮",
+      "process": "",
+      "sectionSha256": "3d301fe31dd40d0a58d8eeadc0249dc97986fddba669e1b0c1c6d93ba027e96e"
+    },
+    {
+      "itemId": "sw-d134f78f0293cf4297",
+      "name": "思州柚",
+      "scope": "思州柚产地范围为贵州省岑巩县现辖的思旸镇、水尾镇、天马镇、龙田镇、凯本镇、大有镇、注溪乡、天星乡、羊桥土家族乡、平庄乡、客楼乡、新兴开发区共12个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果形为扁圆形或高扁圆形,果皮淡黄色,果肉肥厚呈米黄色,脆嫩多汁,清甜中带微酸,香味浓郁;无籽或少籽;果肉易剥脱不沾皮",
+      "process": "",
+      "sectionSha256": "101591a2d36215df600eb6ad08e5a16a6b5122e5363783673b9cb477394ec87d"
+    },
+    {
+      "itemId": "sw-2e2eaf4707ff5cefe4",
+      "name": "李庄白酒",
+      "scope": "李庄白酒产地范围为四川省宜宾市翠屏区李庄镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "清澈透明、清香纯正、糟香舒适、醇厚甘甜、回味悠长。(2)",
+      "process": "",
+      "sectionSha256": "eed1a0ad0a9c13a04216896ad5a118f74faea1ec9952f80a820afb31085183d7"
+    },
+    {
+      "itemId": "sw-2207d89aa1912536f6",
+      "name": "南溪白鹅",
+      "scope": "南溪白鹅产地范围为四川省宜宾市南溪区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "活体鹅:符合四川白鹅品种特征。白条鹅:皮肤有光泽,肉色为淡红色,纹理清晰;肉味鲜香,肉质细腻。2.鹅肉",
+      "process": "",
+      "sectionSha256": "fdbb967b1bcbcedb64215cd0d7e01952193ae8d94ab9cebab1dcd9b9fe31eca2"
+    },
+    {
+      "itemId": "sw-89ba4abf799a932607",
+      "name": "屏山白魔芋",
+      "scope": "屏山白魔芋产地范围为四川省屏山县锦屏镇、富荣镇、新市镇、中都镇、龙华镇、书楼镇、新安镇、屏边彝族乡、清平彝族乡、夏溪乡、龙溪乡、太平乡12个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "色白、有极轻微鱼腥味(魔芋固有)",
+      "process": "",
+      "sectionSha256": "057c39f1d9f9ab662b4506aefb730dc7f86a020beb6719d76350c965bf220a18"
+    },
+    {
+      "itemId": "sw-8c5f99761a9440f29e",
+      "name": "沙河豆腐",
+      "scope": "沙河豆腐产地范围为四川省高县沙河镇现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "呈白玉色,富有光泽;质地细腻,软硬适度,晃而不散,久煮不碎;具有浓郁的天然豆香味,鲜嫩细腻,绵滑爽口,回味清爽",
+      "process": "",
+      "sectionSha256": "a2927ee900657ca16c3f96287a18418ed2eb593828ca3bcb79c972a5d1ddb101"
+    },
+    {
+      "itemId": "sw-dab5c1d310b03c414d",
+      "name": "兴文方竹笋",
+      "scope": "兴文方竹笋产地范围为四川省兴文县仙峰苗族乡、僰王山镇、毓秀苗族乡、大坝苗族乡、麒麟苗族乡、大河苗族乡、九丝城镇、周家镇、石海镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "结构致密,肉质脆嫩,鲜味浓郁。笋干色泽透亮,水发复原性好",
+      "process": "",
+      "sectionSha256": "a978d740355dfdfaf731b76fd63f9633e3f5217d3968016bd5ab3a3d8bd8a5f2"
+    },
+    {
+      "itemId": "sw-7ffc0994b6e597f255",
+      "name": "建水紫陶",
+      "scope": "建水紫陶产地范围为云南省建水县临安镇、曲江镇、南庄镇、西庄镇、官厅镇、面甸镇、青龙镇、岔科镇、普雄乡、坡头乡、李浩寨乡、盘江乡、利民乡、甸尾乡共14个乡镇现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "",
+      "process": "泥料制备→拉坯造型→湿坯装饰→雕刻填泥→高温烧制→无釉磨光",
+      "sectionSha256": "c431ea6a4edeac6f1e91dc58337d44def0c831cf6aab60111269be79ab7313cf"
+    }
+  ]
+}

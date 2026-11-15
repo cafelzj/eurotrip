@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-0b16dd82d9c49e22",
+  "title": "地理标志产品公告 · 2012年第221号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC221%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0b16dd82d9c49e22445719c2436cb6046859cf9a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第221号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC221%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6964407ab16c2272f18b5638e3bbf61bd4d45ae667e9cfba1ba8e4e4fefbef10",
+    "textSha256": "b2c8fe85addbd5deb7819d8344489e85f722a4d3132d5389161a670d57c5fa2f",
+    "textLength": 8864,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0b16dd82d9c49e22445719c2436cb6046859cf9a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0b16dd82d9c49e22445719c2436cb6046859cf9a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-a846b774c356b3275c",
+      "name": "隆昌土陶",
+      "scope": "隆昌土陶产地范围为四川省隆昌县现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "(1)古朴典雅、陶质细腻、泛青、色泽浑厚、釉色莹润。(2)敲击声音响亮、清脆,余音悦耳。(3)透气性好而长期使用不渗漏,支撑力大",
+      "process": "",
+      "sectionSha256": "83938f2e7b07b9d0b0ccfc4c23856feeea8a851956394b84b3bf1a51abcff6f7"
+    },
+    {
+      "itemId": "sw-c3c5b2152873c05858",
+      "name": "青川竹荪",
+      "scope": "青川竹荪产地范围为四川省青川县姚渡镇、营盘乡、沙州镇、木鱼镇、骑马乡、观音店乡、板桥乡、孔溪乡、大坝乡、黄坪乡、瓦砾乡、茶坝乡、青溪镇、桥楼乡、三锅乡、蒿溪回族乡、乐安寺乡、凉水镇、茅坝乡19个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "项目指标色泽微黄色或米黄色。气味竹荪特有香味,无异味。形状菌裙呈网状,菌柄、菌盖完整。肉质肥厚中空,入沸汤即膨大,久煮不失脆嫩,气质地口感息清香而无异味,入口鲜嫩、脆滑",
+      "process": "",
+      "sectionSha256": "6aaae14ae9fdb60d6d2cc3eeed3c1d5388acd4a235a9e0319f052f54366f410e"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-781211ae8f6219ec",
+  "title": "地理标志产品公告 · 2010年第170号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC170%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "781211ae8f6219ec556a619396338c12cf437d56",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第170号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC170%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "1c4627673432ddd1257bedbca7fb117e28020028014f7facc3a7b0ead332f804",
+    "textSha256": "77949df7ff9919b535eee5b766c1058d9fbdc891cb6839c0edd2b05d72fb1fe5",
+    "textLength": 5005,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/781211ae8f6219ec556a619396338c12cf437d56.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/781211ae8f6219ec556a619396338c12cf437d56.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-9e217c1c8782564076",
+      "name": "西充二荆条辣椒",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "二荆条",
+      "sensory": "鲜红椒椒果细长,果长15cm至18cm,横茎1.0cm至1.2cm,单果重5g至10g,肉质脆嫩,辣味适中;干椒红亮,皮薄籽少,味香醇",
+      "process": "",
+      "sectionSha256": "7569a73f220a05b8761b8ba330a4b88571d745ce108dcd28327994929600090c"
+    },
+    {
+      "itemId": "sw-8c855d8e6d7080cc9b",
+      "name": "筠连苦丁茶",
+      "scope": "",
+      "type": "tea",
+      "variety": "木樨科紫荆女贞和序梗女贞",
+      "sensory": "外形条索紧细,色泽翠绿,汤色翠绿明亮,滋味微苦回甘,叶底嫩绿明亮,冲泡后,茶叶鲜活完整",
+      "process": "鲜叶→摊青→杀青→揉捻→毛火烘焙→二次揉捻→足火烘焙→包装→成品",
+      "sectionSha256": "a2732b4bebfbe363698efb39b6aac00baf6f7ea602ab53c531582f05407d679d"
+    }
+  ]
+}

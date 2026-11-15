@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-0c71f66be86181c0",
+  "title": "地理标志产品公告 · 2011年第98号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0c71f66be86181c0600b66dd442d70cc89662b70",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第98号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "896d63c8aace3cf982b8bb4a9e6a08a2469cd4d8fd55a8a1323ac4cceeef241f",
+    "textSha256": "63e877a03962330c2c3d407abfe219c805b4c649ab98640a190f5e6d2ed39445",
+    "textLength": 7813,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0c71f66be86181c0600b66dd442d70cc89662b70.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0c71f66be86181c0600b66dd442d70cc89662b70.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f6f4561a77ac748170",
+      "name": "白市柚",
+      "scope": "白市柚产地范围为四川省广安市广安区白市镇、协兴镇、广兴镇、肖溪镇、观阁镇、大龙乡、苏溪乡、石笋镇8个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "文旦柚类",
+      "sensory": "果实扁圆形,果基部平,果皮薄,金黄色,光滑,香气浓郁;果肉黄白色,细嫩化渣,风味较浓,少核;口感酸甜适度,微有苦麻味",
+      "process": "",
+      "sectionSha256": "58060b90a03896ab4a7ed7e5d42c22fb109c5d4a0e025337364586faf30a03eb"
+    },
+    {
+      "itemId": "sw-4a15c487b2135b062c",
+      "name": "苴却砚",
+      "scope": "苴却砚产地范围为四川省攀枝花市仁和区现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "颗粒度小,石质致密细腻,石品花纹丰富。砚上有“石眼”或“膘”或同时存在",
+      "process": "",
+      "sectionSha256": "e284fbc08fb80f0d3d90fe56c72f26809635bd30be25732c941514310e419600"
+    }
+  ]
+}

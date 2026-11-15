@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-19b8e0f45e9c46de",
+  "title": "地理标志产品公告 · 2009年第128号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "19b8e0f45e9c46de4c526bd4a8841db871be3312",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第128号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b7cd70b87ae10a37aa8f72e10cfeea91d91a9d92c813b964ee587f990a03d63a",
+    "textSha256": "00c7e02164f578354d680d79f9223b6befed3835667b6b1b66e56ae70c2c499b",
+    "textLength": 9847,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/19b8e0f45e9c46de4c526bd4a8841db871be3312.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/19b8e0f45e9c46de4c526bd4a8841db871be3312.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-1ad75b1045d2aedb9a",
+      "name": "清镇黄粑",
+      "scope": "清镇黄粑地理标志产品保护范围为贵州省清镇市青龙街道办事处、红枫湖镇、站街镇、卫城镇、新店镇、流长乡、犁倭乡、王庄乡、暗流乡、麦格乡、百花湖乡等11个乡镇街道办事处现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "项目要求外形粑角端正,捆扎松紧适当,黄粑无外露色泽剥去黄粑叶,黄粑表面黄亮油润,有光泽气味及滋味甜味适中,具有糯米、大豆固有的香味及包裹叶的清香。糯而不烂,去除包裹叶后,不沾手、不稀皮;外形完整、光滑、无裂组织形态纹;切片后组织紧密、细腻,晶莹闪光的糯米粒夹在其中;黄粑内外无杂质,无霉变",
+      "process": "要求。1.主要工艺流程:淘洗、浸泡→黄豆、粳米混合磨浆→加入蒸熟的糯米、白砂糖混合发汗→搓揉制坯→包叶捆扎→蒸制→保温汗焖→出锅冷却2.生产操作要点:(1)淘洗、浸泡:将除杂后的糯米、黄豆、粳米用清水淘洗干净,再用35°C左右的温水浸泡24小时待用(黄豆浸泡的时间稍长)。(2)磨浆:把浸泡好的黄豆和粳米混合起来在石磨或打浆机上磨成稀稠适中的清浆备用。(3)混合发汗:将蒸熟的糯米饭就直接倒入已磨好的米浆、豆浆内,加入适量的白砂糖调匀,加盖静置发汗约2小时。(4)蒸制:将捆扎好的黄粑层层堆叠放在甑子内,用大火蒸6小时,将黄粑蒸熟透。(5)保温旱焖:大火过后,",
+      "sectionSha256": "9bea1dfef60c44f5a4e90061491ffc82e7668d9e784c22551b4caed3fce163ef"
+    },
+    {
+      "itemId": "sw-bf93c7ae8ad5eafd5a",
+      "name": "黎平香禾糯",
+      "scope": "黎平香禾糯地理标志产品保护范围为贵州省黎平县岩洞镇、双江乡、口江乡、水口镇、雷洞乡、龙额乡、地坪乡、肇兴乡、永从乡、九潮镇、茅贡乡、坝寨乡、尚重镇、大稼乡、德化乡、平寨乡、罗里乡、孟彦镇等18个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "榕禾(侗语ouxyongc),笾须禾(侗语ouxbeens),王禾(侗语ouxweenh),蛙禾(侗语ouxyeel),雷株禾(侗语ouxlixjus),冷水禾(侗语ouxnaemlliagp)等",
+      "sensory": "项目要求色泽色泽洁白不透明,有光泽气味具有自然的清香味口感蒸煮时浓香四溢,口感绵软香甜、细腻,粘而不腻,回味甘纯。组织形态米粒椭圆形,圆润饱满;饭粒完整、洁白,弹性好,表面有油光,冷凉后仍保持良好口感和柔软度",
+      "process": "技术流程。稻谷→筛选→除杂→去石→磁选→打芒→砻谷→谷糙分离→碾米→白米分级→抛光→凉米→色选→检验→包装→贮存销售",
+      "sectionSha256": "3b6ee035279ebcad8e3169a12f53234209d36c98a138c5b1f5cce7513a320d78"
+    }
+  ]
+}

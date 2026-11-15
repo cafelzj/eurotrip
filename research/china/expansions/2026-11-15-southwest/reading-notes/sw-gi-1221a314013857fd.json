@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-1221a314013857fd",
+  "title": "地理标志产品公告 · 2006年第8号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC8%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "1221a314013857fd959b0628e17f4b65086a0456",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第8号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC8%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "8139b6f9f009c7f9504912e5404fa4cead9b14bbf4692fb13171ef899f300f60",
+    "textSha256": "2b727853bd4ec4f8978b1b2c5084300075b209853aaad0d898edf42d0308937d",
+    "textLength": 2431,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/1221a314013857fd959b0628e17f4b65086a0456.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/1221a314013857fd959b0628e17f4b65086a0456.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-2872c47395879ab4d3",
+      "name": "泸州酒",
+      "scope": "泸州酒地理标志产品保护范围以四川省泸州市人民政府《关于界定泸州酒地理标志产品保护范围的函》(泸市府函〔2005〕31号)提出的范围为准,为四川省泸州市江阳区、龙马潭区、纳溪区、泸县、合江县、叙永县、古蔺县等7个区县现辖行政区域",
+      "type": "alcohol",
+      "variety": "1.高粱:按GB8231-1987的规定执行,主要产于泸州本地的糯红高粱,部分来自川南地区的糯红高粱,要求颗粒饱满、糯性强。支链淀粉含量大于70%(绝干样计),占总淀粉量的95%以上;单宁含量介于0.8%至1.2%。2.小麦:按GB1351-1999的规定执行,主要产于泸州本地软质小麦,要求颗粒饱满,无霉烂,无虫蛀,杂质少。粗蛋白含量介于7%至10%;粗脂肪",
+      "sensory": "色泽无色或微黄、清亮透明,无悬浮物,无沉淀;香气具有浓郁的己酸乙酯为主体的复合香气;口味窖香浓郁、绵甜爽净、香味协调、酒体醇厚、后味长,具有泸型酒的突出风格。(2)",
+      "process": "",
+      "sectionSha256": "814245eeac6a169ca61fb5284c7238e29cc2330f309a5c348d9881e4a5f90750"
+    }
+  ]
+}

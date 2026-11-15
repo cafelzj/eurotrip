@@ -1,0 +1,103 @@
+{
+  "id": "sw-gi-86aeec967b3d9a09",
+  "title": "地理标志产品公告 · 2017年第98号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "86aeec967b3d9a09f6fdfe7481ef3dd09dbe1737",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2017年第98号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "535b50aba300578dac58cd3986dbdfa9792c38de3081a4d767022489acdbdd48",
+    "textSha256": "3068993561ded95073f7027858d1e145c1583e98a5ad33e34994860cecd71814",
+    "textLength": 55569,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/86aeec967b3d9a09f6fdfe7481ef3dd09dbe1737.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/86aeec967b3d9a09f6fdfe7481ef3dd09dbe1737.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-26eb747ced014e6822",
+      "name": "米易枇杷",
+      "scope": "米易枇杷产地范围为四川省攀枝花市米易县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实呈圆形或卵圆形,果皮表面及果肉呈金黄色或橙红色,果实肉质细腻、甜味浓厚、汁多鲜美。2.质量等级:一级:单果重在40g以上,果形端正丰满、大小均匀,着色良好、鲜艳,无锈斑、无病虫害、无损伤,且具有该品种最佳肉色。二级:单果重在30g~40g,果形着色较好,锈斑面积不超过10%,无畸形果、无损伤,且基本具有该品种肉色",
+      "process": "",
+      "sectionSha256": "b0d1fe5a32f9a7e39916fc892dd02722739f034c85c87969c56348f8d5701278"
+    },
+    {
+      "itemId": "sw-0822966934b0ce46a0",
+      "name": "金堂羊肚菌",
+      "scope": "金堂羊肚菌产地范围为四川省成都市金堂县赵家镇、福兴镇、淮口镇、三溪镇、金龙镇、高板镇、清江镇、官仓镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "表1感官特色鲜品干品形态完整,大小均匀。形态完整,大小均匀。感官特色菌盖长、菌肉厚,顶稍尖;菌菌盖长、菌香浓,顶稍尖;菌盖淡黄褐色,表面凹坑纵向排列,由盖褐色,表面凹坑纵向排列,由横横脉相连。脉相连。菌柄粗短、中空,近白色。菌柄粗短、中空,黄白色",
+      "process": "",
+      "sectionSha256": "8a9f2fbc16c6ff6a87c0d6c49efcf83e8eca1828ddb64cc1e2514446027181db"
+    },
+    {
+      "itemId": "sw-28c1ea924819502e46",
+      "name": "平昌青花椒",
+      "scope": "平昌青花椒产地范围为四川省巴中市平昌县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "鲜花椒果实颗粒圆大,无叶、无粗梗,呈鲜绿或黄绿色,表面油胞大而密,气味芳香,浓郁而持久。干花椒呈绿褐色,气味清香,麻味纯正。一级:颜色青绿、均匀、有光泽;含籽率≤7%,杂质≤1%,粒大、均匀、油腺密而突出。二级:颜色青绿、均匀、有光泽;含籽率≤12%,杂质≤2%,粒较大、均匀、油腺突出。三级:颜色青褐、较均匀;含籽率≤17%,杂质≤2.5%,果粒较大、油腺突出",
+      "process": "",
+      "sectionSha256": "d3dc5cb60c96bde0dd268c42a9f1463bd620e3cf3b22406e0b27a1ec869b9355"
+    },
+    {
+      "itemId": "sw-4378532730d7516ec1",
+      "name": "博尚菜籽油",
+      "scope": "博尚菜籽油产地范围为云南省临沧市临翔区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "油质清新、色泽浅黄明亮,气味清香,香味独特,澄净透明",
+      "process": "",
+      "sectionSha256": "fe8bdaa67fc10cbda88a7b34e2362652753ac1cf448ca316be55eefac75f387b"
+    },
+    {
+      "itemId": "sw-c0864b3259e50e93e9",
+      "name": "路南卤腐(路南腐乳)",
+      "scope": "路南卤腐(路南腐乳)产地范围为云南省昆明市石林彝族自治县现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "(1)油腐乳:块状完整、厚薄均匀、质地细腻、油香适口,具有油腐乳独特的芳香味。表面油润呈鲜艳红色,断面呈杏黄色或酱褐色。(2)酒腐乳:块状完整、厚薄均匀、质地细腻、醇香可口、咸淡适口,具有酒腐乳独特的滋味与气味。表面呈鲜红色,断面呈杏黄色或青黄色",
+      "process": "",
+      "sectionSha256": "64a1314eb176279241fc8d4734959f62b417baff6f280983a5f6630a5586c36d"
+    },
+    {
+      "itemId": "sw-db23a785bd153867dd",
+      "name": "庙坝白酒",
+      "scope": "庙坝白酒产地范围为云南省昭通市盐津县现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "要求项目高度酒低度酒色泽和外观清澈透明或微黄透明、无悬浮物、无沉淀。清香纯正,具有玉米香和香气清香突出、较纯正。曲香复合体的淡雅香气。酒体清香纯正、净爽甘酒体清香纯正、较净爽甘口味洌、回味怡畅。洌、回味怡畅。具有玉米小曲清香型白酒具有玉米小曲清香型白酒风格风格。风格",
+      "process": "",
+      "sectionSha256": "b0e710fe30ea1b2451c2c8d5207a6307381b0e147818c21944fe78e25fb274cd"
+    },
+    {
+      "itemId": "sw-3498d80537b8a64a3f",
+      "name": "汤池老酱",
+      "scope": "汤池老酱产地范围为云南省昆明阳宗海风景名胜区管理委员会汤池街道办事处现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "应符合表1的规定。表1感官特色项目要求色泽褐红至黯红色,有光泽。香气具有该产品独有的酱香味。滋味香辣适口、回甘,无异味。组织形态具有该产品特有的形态,粘稠适度,呈膏状。杂质无肉眼可见外来杂质",
+      "process": "",
+      "sectionSha256": "b0fce6e44687995b006aec20fec401c9f20d6da1b61cac22e1b3a4be33fc808f"
+    },
+    {
+      "itemId": "sw-3b082bdbf86d39f2b3",
+      "name": "河口香蕉",
+      "scope": "河口香蕉产地范围为云南省红河哈尼族彝族自治州河口瑶族自治县河口镇、南溪镇、瑶山乡、莲花滩乡、老范寨乡、桥头乡。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "植株高大,梳形整齐、果指数较多、果形较短而弯曲,果实新鲜、饱满;肉质细腻、滑口、甜度适中、带有清香;皮色青绿黄绿,有光泽,清洁",
+      "process": "",
+      "sectionSha256": "c0210e4a8e9e2b8b824e2ecff0c22d39a1afd2be3a3b3c0522cd417438311d08"
+    }
+  ]
+}

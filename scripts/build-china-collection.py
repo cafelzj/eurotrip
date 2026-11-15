@@ -33,11 +33,11 @@ for city in regions['cities'].values():
         centers = [p.get('centroid') or p['center'] for p in properties.values()]
         center = [sum(p[i] for p in centers) / len(centers) for i in (0, 1)]
     destinations.append(dict(id=ident(code), country='cn', provinceId=city['province'], adcode=str(code),
-        name=city['city'], adminName=city['city']+'市' if code in (110000,310000) else properties.get(code, {}).get('name', city['city']),
-        local=city['city'], level='municipality' if code in (110000,310000) else 'prefecture' if city['regions'] or properties.get(code,{}).get('level')=='city' else 'county-city',
+        name=city['city'], adminName=city['city']+'市' if code in (110000,310000,500000) else properties.get(code, {}).get('name', city['city']),
+        local=city['city'], level='municipality' if code in (110000,310000,500000) else 'prefecture' if city['regions'] or properties.get(code,{}).get('level')=='city' else 'county-city',
         lon=center[0], lat=center[1], intro='查看本地区已收录的城市卡片、地方食品与特产。'))
     if city['regions']:
-        if str(code) in ('110000', '310000'):
+        if str(code) in ('110000', '310000', '500000'):
             county_properties = properties
         else:
             body = json.loads((ROOT / 'research/.local/flavor-county-boundaries' / f'{code}.json').read_text())

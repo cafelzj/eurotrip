@@ -4,13 +4,14 @@
 
 ## 正式数据和研究资料分开
 
-正式展示读取 `data/` 和 `CardStore.nodes`，不直接读取研究候选。现有5492张中国卡片，包括5362项地方风物（5315项有来源记录、47项原有待核线索）。本批新增陕西147、甘肃164项；此前江西、广西、广东796项及原4255项原样保留。行政目录为20省市、244个城市范围、2010个县级单位；这不表示每县每品类均已补齐，其他14省区仍标注待收录。
+正式展示读取 `data/` 和 `CardStore.nodes`，不直接读取研究候选。现有6627张中国卡片，包括6497项地方风物（6450项有来源记录、47项原有待核线索）。本批新增四川573、重庆94、云南265、贵州203项，合计1135项；此前陕西147、甘肃164项；此前江西、广西、广东796项及原4255项原样保留。行政目录为24省市、291个城市范围、2448个县级单位；这不表示每县每品类均已补齐，其他10省区仍标注待收录。
 
 | 用途 | 唯一维护位置 |
 | --- | --- |
 | 正式卡片编辑输入与结构 | `data/flavors.js`、`data/china-cards.js`、`data/card-reading.js`；分类、地区和合并配置见 [实现说明](../../docs/china-collection.md) |
 | 中国卡片合并、12组旧ID和来源 | [统一登记](integration/china-collection.json) |
-| 本批陕西、甘肃311项扩充 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-shaanxi-gansu/README.md) |
+| 本批四地1135项扩充 | [知识、外搜、交叉核对、配图与采用](expansions/2026-11-15-southwest/README.md) |
+| 陕西、甘肃311项扩充 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-shaanxi-gansu/README.md) |
 | 上批796项扩充与超过5000的核对 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)；[当前卡片验收](integration/current-collection-audit.json) |
 | 原风物4255项完整迁入后的验收 | [逐项核对记录](integration/standalone-retirement.json)；[数据与原件保留目录](../../docs/flavor-migration.md) |
 | 全国／省／市／县统一界面及地图变更 | [采用记录](integration/unified-overviews.json)；原地图几何保持不变 |

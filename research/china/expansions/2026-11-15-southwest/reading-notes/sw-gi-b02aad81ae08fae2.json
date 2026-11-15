@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-b02aad81ae08fae2",
+  "title": "地理标志产品公告 · 2009年第141号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "b02aad81ae08fae243e847b09d5cf3903c9dbf5b",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第141号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "cf70d8439f6cdcf7084b08d510ffd3f9c701b0a09234f9beea3035b3eab23888",
+    "textSha256": "c02985851fcb77e2933ea11a8d6087c0ff5531f2431871a71e47015b27690a6e",
+    "textLength": 9282,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/b02aad81ae08fae243e847b09d5cf3903c9dbf5b.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/b02aad81ae08fae243e847b09d5cf3903c9dbf5b.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-6f3c27daaf5b1c902f",
+      "name": "东坡泡菜",
+      "scope": "东坡泡菜地理标志产品保护范围为四川省眉山市东坡区现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "东坡泡菜具有色泽红润光亮,麻、辣、酸、鲜、甜、香,质地脆嫩,咸淡适口,细韧耐嚼、入口香脆、回味悠长",
+      "process": "及关键质量控制工序。1.即食类泡菜:(1)工艺流程:原辅料验收→原料清整→泡渍发酵→清整切分→脱盐(脱水→脱盐)→真空封袋(盖)→1包装→即食类产品冷链贮存销售2杀菌→包装→即食类产品常温贮存(2)关键质量控制工序:1泡渍发酵:原料在地域保护范围内泡渍发酵,泡渍用水来自地域保护范围内的水源,泡渍容器为池、坛、缸等,泡渍车间周边地面应硬化,无粉尘污染,无蚊蝇滋生。通过严格控制泡渍容器内食盐浓度(1%至15%)和水封、沙封等隔离措施,在泡渍容器内自然形成了适应东坡泡菜天然乳酸菌发酵的隔氧、适度渗透压环境,蔬菜在缺氧条件下借助于天然附着在蔬菜表面的有益微生物(",
+      "sectionSha256": "a03f3bf9f358bb8ed670a1d0beda134c74ec14d18f31911b4c2c4fba22297967"
+    },
+    {
+      "itemId": "sw-418ad65b00657035d3",
+      "name": "峨眉山茶",
+      "scope": "峨眉山茶地理标志产品保护范围为四川省乐山市市中区、五通桥区、沙湾区、金口河区、峨眉山市、犍为县、井研县、夹江县、沐川县、峨边彝族自治县、马边彝族自治县等11个县(市、区)现辖行政区域。",
+      "type": "tea",
+      "variety": "要求。品种应适应当地的土壤和气候条件,具良好抗性,并经省级以上品种审定委员会审定或经区域试验适宜的四川中小叶种、福鼎大白茶、名山白毫131等品种",
+      "sensory": "扁平直滑、嫩绿油润、清香高长、鲜醇甘爽。要求级别外形内质条索整碎净度色泽香气滋味汤色叶底芽头重实饱满、扁嫩绿清香鲜醇嫩绿嫩绿特级完整匀净平光油润高长甘爽明亮匀亮滑、挺直扁平光一级清香鲜醇黄绿黄绿滑、挺较完整匀净黄绿润高长回甘明亮明亮直扁平黄绿清香较黄绿黄绿二级尚完整较匀净醇回甘较直较润高长较亮较亮2.",
+      "process": "鲜叶→摊青→杀青→摊凉→理条→做形→提香→定量装箱入库。(1)摊青:摊青厚度5cm至15cm,摊青时间4h至8h,期间间隙式鼓风。(2)杀青:采用滚筒杀青、蒸热杀青及手工杀青等方式:1滚筒机杀青待筒内温度升至120°C投叶,杀青时间1min至1.5min,含水量55%至60%;2蒸热杀青:蒸热温度达到130°C至150°C投叶,时间为1min至1.5min,含水量60%至65%;3手工杀青:当锅温达到130°C投叶,投叶量200g至300g,杀青时间4min至6min,含水量55%至60%(3)理条:达到条索紧结挺直。(4)做形:含水量40%至50%时进",
+      "sectionSha256": "0e818f7bd10780f53abbc1cf1399ad9ed48c82ceef6b1f5b3fa70787d0bd0601"
+    }
+  ]
+}

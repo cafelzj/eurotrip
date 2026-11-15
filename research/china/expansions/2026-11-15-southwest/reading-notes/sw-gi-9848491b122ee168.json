@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-9848491b122ee168",
+  "title": "地理标志产品公告 · 2010年第145号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC145%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "9848491b122ee16861e002545ca463d48cf4dc67",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第145号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC145%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6e8f595720b42a00dc00ef6e6c78ba190613e5f2abed0690d16c6fbede17c170",
+    "textSha256": "8d6d2e001e931dcd1120404d9a787ac0e5df0bf3c1304ea2e5125d67ec13d54a",
+    "textLength": 9174,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/9848491b122ee16861e002545ca463d48cf4dc67.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/9848491b122ee16861e002545ca463d48cf4dc67.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f9322af3db88de5bbb",
+      "name": "犍为茉莉花茶",
+      "scope": "",
+      "type": "tea",
+      "variety": "",
+      "sensory": "级别条索整碎净度色泽香气滋味汤色叶底芽形完整熟香鲜灵鲜浓醇清澈黄银芽匀整匀净嫩黄绿芽形饱满紧实韵味幽长厚亮熟香味紧细披毫淡黄明银毫匀整净黄绿润浓,鲜醇嫩匀显峰苗亮韵味显露浓尚鲜,紧细有峰黄绿尚淡黄尚特级较匀较净有熟香韵尚鲜醇绿黄明亮苗润亮味",
+      "process": "1.工艺流程:茶坯处理→鲜花维护→窨花→通花→收堆续窨→起花→复火→转窨→择花、炒花→匀堆装箱。2.工艺要求:(1)茶坯处理:窨花前的茶坯经复火处理使含水率达到≤4.5%。待茶坯自然冷却至不高于室温3°C时即可进行窨花,配以≤1%的白玉兰花鲜花打底。(2)鲜花维护:茉莉鲜花进厂后应及时薄摊散热,摊放厚度≤10cm,待花温上升至38°C散热,经3至5次摊晾、收堆,待≥90%花蕾开放至虎爪状即可窨制。(3)窨花:将待窨的茶坯平铺,厚度≤25cm,按照花茶比例,将维护好的鲜花均匀地撒放于茶坯上,将鲜花和茶坯均匀混合,高度≤35cm。(4)通花:当堆温达到48°",
+      "sectionSha256": "c2537ebacd643b26a8c957ef7817e38eb9855005aaa00125523f0ba447218366"
+    },
+    {
+      "itemId": "sw-8414d465478aa0f59a",
+      "name": "会理黑山羊",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "商品羊毛色纯黑,体型健壮、体质结实、结构匀称。羊肉肉质细嫩、膻味轻,肌肉呈红色,有光泽,脂肪白色或淡黄色,肌纤维致密。煮沸后肉汤汤清透明,脂肪团聚于表面",
+      "process": "",
+      "sectionSha256": "4e3d2308ca9b7aa76e7e92c7ab18b65986436cf60658416506d096df25ae5216"
+    },
+    {
+      "itemId": "sw-403e5d3b3a11ea04fe",
+      "name": "资中血橙",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "塔罗科(Tarocco)",
+      "sensory": "果皮鲜亮,呈浅紫红色,皮脆、薄、光滑;果肉脆嫩、化渣,有紫红色血丝,有玫瑰香味",
+      "process": "",
+      "sectionSha256": "ecf661d5cfa973ac940fc5026d4ec05e599b3d5015a7cee1c008f33790465beb"
+    }
+  ]
+}

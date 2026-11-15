@@ -121,6 +121,30 @@ window.flavorCatalog={
       "name": "甘肃",
       "adcode": 620000,
       "summary": "从陇原面食、牛羊肉与乳食，延伸到河西果蔬、陇南茶叶和民间工艺。"
+    },
+    {
+      "id": "sichuan",
+      "name": "四川",
+      "adcode": 510000,
+      "summary": "从成都与川南川北到高原，认识米面、盐帮风味、酒茶乳品、果蔬与民间工艺。"
+    },
+    {
+      "id": "chongqing",
+      "name": "重庆",
+      "adcode": 500000,
+      "summary": "沿山城街巷与三峡江岸，探索小面火锅、榨菜豆豉、地方果品与传统器物。"
+    },
+    {
+      "id": "yunnan",
+      "name": "云南",
+      "adcode": 530000,
+      "summary": "从滇中米线到各州乳食、茶与咖啡，认识高原山地的物产与地方工艺。"
+    },
+    {
+      "id": "guizhou",
+      "name": "贵州",
+      "adcode": 520000,
+      "summary": "从酸汤米粉到酒茶与乳品，沿黔中、黔北和各州认识地方食物和手工艺。"
     }
   ],
   "categories": [
@@ -17353,6 +17377,1476 @@ window.flavorCatalog={
       "name": "第一次去甘南须知",
       "url": "https://gansu.tianditu.gov.cn/gannan/start/index3.html",
       "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c9530d54917aa678": {
+      "name": "地理标志产品公告 · 2005年第120号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC120%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-46a71cd9995b49b3": {
+      "name": "地理标志产品公告 · 2025年第640号_附件2.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2025%E5%B9%B4%E7%AC%AC640%E5%8F%B7/2025%E5%B9%B4%E7%AC%AC640%E5%8F%B7_%E9%99%84%E4%BB%B62.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-73abca76641ae2fc": {
+      "name": "地理标志产品公告 · 2005年第175号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-47a18fa5c055c875": {
+      "name": "地理标志产品公告 · 2005年第194号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2419921097c398b0": {
+      "name": "地理标志产品公告 · 2006年第104号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-450e6f4acf116231": {
+      "name": "地理标志产品公告 · 2006年第10号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC10%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-675de448cd730eac": {
+      "name": "地理标志产品公告 · 2006年第142号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC142%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-d9e0da43543f0aaa": {
+      "name": "地理标志产品公告 · 2006年第218号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC218%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-5f01dabc31dff780": {
+      "name": "地理标志产品公告 · 2006年第40号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC40%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-6e633e803a28eb1d": {
+      "name": "地理标志产品公告 · 2006年第61号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC61%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-1221a314013857fd": {
+      "name": "地理标志产品公告 · 2006年第8号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC8%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-5b14cd7821bfdb34": {
+      "name": "地理标志产品公告 · 2006年第94号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-fd3be8eff4a56c98": {
+      "name": "地理标志产品公告 · 2006年第95号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC95%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-92d72d5cf2777923": {
+      "name": "地理标志产品公告 · 2007年第111号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-df5124137b3f3a97": {
+      "name": "地理标志产品公告 · 2007年第192号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC192%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-85863f266260db4b": {
+      "name": "地理标志产品公告 · 2007年第199号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC199%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-6fd103cbcc13354f": {
+      "name": "地理标志产品公告 · 2007年第203号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC203%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0e95ba9cea5672c5": {
+      "name": "地理标志产品公告 · 2007年第212号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC212%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-cc82cdd382c99ff3": {
+      "name": "地理标志产品公告 · 2007年第216号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC216%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2383ba9000fbf81c": {
+      "name": "地理标志产品公告 · 2007年第97号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-bdac309008a8644a": {
+      "name": "地理标志产品公告 · 2008年第119号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-567266d8c36f46f3": {
+      "name": "地理标志产品公告 · 2008年第136号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-53c38dd973d7be06": {
+      "name": "地理标志产品公告 · 2008年第141号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-37e1d92595b1373a": {
+      "name": "地理标志产品公告 · 2008年第145号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC145%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-6b0da5e7a3c1afb1": {
+      "name": "地理标志产品公告 · 2008年第51号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-a6b7729279fba41d": {
+      "name": "地理标志产品公告 · 2008年第52号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f412787e23c5377e": {
+      "name": "地理标志产品公告 · 2008年第60号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c97a7ca6cd1a8a96": {
+      "name": "地理标志产品公告 · 2008年第64号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC64%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-367f40d6adc82710": {
+      "name": "地理标志产品公告 · 2008年第97号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-b47d3b782e35fd26": {
+      "name": "地理标志产品公告 · 2009年第107号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC107%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-4f6af4de24330905": {
+      "name": "地理标志产品公告 · 2009年第108号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-19b8e0f45e9c46de": {
+      "name": "地理标志产品公告 · 2009年第128号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-fa7a0c4d6dc8f1b2": {
+      "name": "地理标志产品公告 · 2009年第131号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC131%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-b02aad81ae08fae2": {
+      "name": "地理标志产品公告 · 2009年第141号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-7716411314219ea2": {
+      "name": "地理标志产品公告 · 2009年第32号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC32%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-cc837dac2c1da6a6": {
+      "name": "地理标志产品公告 · 2009年第51号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-190126a494e0139d": {
+      "name": "地理标志产品公告 · 2009年第66号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC66%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-aa74738092a30a6a": {
+      "name": "地理标志产品公告 · 2009年第81号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-8b9f556b0bd8236c": {
+      "name": "地理标志产品公告 · 2009年第88号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-7279fca9075ca3bd": {
+      "name": "地理标志产品公告 · 2025年第464号_附件2.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2025%E5%B9%B4464%E5%8F%B7/2025%E5%B9%B4%E7%AC%AC464%E5%8F%B7_%E9%99%84%E4%BB%B62.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-420344d07c7026b5": {
+      "name": "地理标志产品公告 · 2009年第89号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-38ae2aabc6be0d33": {
+      "name": "地理标志产品公告 · 2010年第108号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-a4adaf5629a69a33": {
+      "name": "地理标志产品公告 · 2010年第109号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC109%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f08d0fcdd5ba7678": {
+      "name": "地理标志产品公告 · 2010年第110号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC110%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-8bebb3b89632b228": {
+      "name": "地理标志产品公告 · 2010年第111号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-d6985c22f830cd90": {
+      "name": "地理标志产品公告 · 2010年第112号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-a87dce438f099302": {
+      "name": "地理标志产品公告 · 2010年第134号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-1e4d54df69b35a1f": {
+      "name": "地理标志产品公告 · 2010年第144号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC144%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-9848491b122ee168": {
+      "name": "地理标志产品公告 · 2010年第145号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC145%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-ecc3e9f7541b0699": {
+      "name": "地理标志产品公告 · 2010年第14号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-120efcfcc1e34611": {
+      "name": "地理标志产品公告 · 2010年第155号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC155%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-285f512616b642fa": {
+      "name": "地理标志产品公告 · 2010年第162号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-781211ae8f6219ec": {
+      "name": "地理标志产品公告 · 2010年第170号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC170%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-3de6096e41ff2c18": {
+      "name": "地理标志产品公告 · 2010年第70号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC70%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f966a0966594fe57": {
+      "name": "地理标志产品公告 · 2010年第93号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC93%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-6c90bd73c66243a8": {
+      "name": "地理标志产品公告 · 2010年第94号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-d1cf2af1908977c1": {
+      "name": "地理标志产品公告 · 2010年第96号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-90f901c5c2375fb2": {
+      "name": "地理标志产品公告 · 2011年第136号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f5305eaa3786b98f": {
+      "name": "地理标志产品公告 · 2011年第137号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-74f99767ed140e1f": {
+      "name": "地理标志产品公告 · 2011年第14号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2e80b21d10fc6587": {
+      "name": "地理标志产品公告 · 2011年第172号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC172%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-53394f483925223b": {
+      "name": "地理标志产品公告 · 2011年第173号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC173%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c1c397f40c7f87b6": {
+      "name": "地理标志产品公告 · 2011年第175号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-8656c8aba8ceac68": {
+      "name": "地理标志产品公告 · 2011年第177号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC177%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-037f3e92019ad6f6": {
+      "name": "地理标志产品公告 · 2011年第194号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC194%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-5b1be8f557542123": {
+      "name": "地理标志产品公告 · 2011年第196号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC196%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-86a294b7ebe800a5": {
+      "name": "地理标志产品公告 · 2011年第197号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC197%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c7fdf478eebd2450": {
+      "name": "地理标志产品公告 · 2011年第69号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC69%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0a144c1a280c8bdb": {
+      "name": "地理标志产品公告 · 2011年第94号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-43a463774cc8969c": {
+      "name": "地理标志产品公告 · 2011年第97号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0c71f66be86181c0": {
+      "name": "地理标志产品公告 · 2011年第98号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-241166b070ae278e": {
+      "name": "地理标志产品公告 · 2012年第101号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC101%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-9c669e4a0a21c671": {
+      "name": "地理标志产品公告 · 2012年第102号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC102%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-a6929b203fa30c9f": {
+      "name": "地理标志产品公告 · 2012年第111号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c013bcedbd27c1f5": {
+      "name": "地理标志产品公告 · 2012年第125号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC125%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-1fc43bdd432b8d60": {
+      "name": "地理标志产品公告 · 2012年第192号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC192%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0b11601d59def0bc": {
+      "name": "地理标志产品公告 · 2012年第208号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-ce1e0e37af9beb86": {
+      "name": "地理标志产品公告 · 2012年第217号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC217%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-26142b98d673ddbd": {
+      "name": "地理标志产品公告 · 2012年第218号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC218%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-8270dce2af9a9a79": {
+      "name": "地理标志产品公告 · 2012年第219号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC219%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0b16dd82d9c49e22": {
+      "name": "地理标志产品公告 · 2012年第221号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC221%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-d27d5ac472fd6a6d": {
+      "name": "地理标志产品公告 · 2012年第223号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC223%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-24e67fe53fab8660": {
+      "name": "地理标志产品公告 · 2012年第37号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC37%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-86c29b9f3162a314": {
+      "name": "地理标志产品公告 · 2012年第51号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2c6ef02b0c0ece1b": {
+      "name": "地理标志产品公告 · 2012年第97号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-a356c738276bb38e": {
+      "name": "地理标志产品公告 · 2013年第128号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC128%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-9b85d830f8c4d59b": {
+      "name": "地理标志产品公告 · 2013年第134号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f21f5dbfd01bca12": {
+      "name": "地理标志产品公告 · 2013年第135号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC135%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-65654714b5c2af31": {
+      "name": "地理标志产品公告 · 2013年第136号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-b8878192ed4e725c": {
+      "name": "地理标志产品公告 · 2013年第153号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC153%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2bc354ff437ded04": {
+      "name": "地理标志产品公告 · 2013年第15号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC15%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-ae2887337cef981b": {
+      "name": "地理标志产品公告 · 2013年第167号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC167%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-de56f7884205d0ed": {
+      "name": "地理标志产品公告 · 2013年第175号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-cb70ae8792d352c6": {
+      "name": "地理标志产品公告 · 2013年第184号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC184%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-12deb68cafdd6b27": {
+      "name": "地理标志产品公告 · 2013年第190号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC190%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-b1e72d8271473ca8": {
+      "name": "地理标志产品公告 · 2013年第26号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC26%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-808ed8aa152d1cf5": {
+      "name": "地理标志产品公告 · 2013年第55号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-ca7e45b138d5a9b4": {
+      "name": "地理标志产品公告 · 2014年第129号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC129%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-b6d60c115c643ad6": {
+      "name": "地理标志产品公告 · 2014年第139号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC139%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c73cba5ce06136b2": {
+      "name": "地理标志产品公告 · 2014年第13号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-efc628dc6a827357": {
+      "name": "地理标志产品公告 · 2014年第39号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0ae5e4d3c7c048c6": {
+      "name": "地理标志产品公告 · 2014年第96号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-96ed1bd077701c09": {
+      "name": "地理标志产品公告 · 2015年第143号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC143%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-772d97693f273eb8": {
+      "name": "地理标志产品公告 · 2015年第162号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-886b097e79e4e8e2": {
+      "name": "地理标志产品公告 · 2015年第24号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-367fdf28bbb538c8": {
+      "name": "地理标志产品公告 · 2015年第44号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC44%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-69ca291062d41a08": {
+      "name": "地理标志产品公告 · 2015年第74号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-e011caf3c10cbd67": {
+      "name": "地理标志产品公告 · 2015年第96号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-aa5609cf365398f2": {
+      "name": "地理标志产品公告 · 2016年第112号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-3757ed6c71f53dec": {
+      "name": "地理标志产品公告 · 2016年第128号_附件.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-851402c8a193aa99": {
+      "name": "地理标志产品公告 · 2016年第63号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC63%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c4f697444b9b2b8a": {
+      "name": "地理标志产品公告 · 2016年第9号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC9%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-0248d8859368599b": {
+      "name": "地理标志产品公告 · 2017年第108号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC108%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-2fa1b4b1fde13522": {
+      "name": "地理标志产品公告 · 2017年第117号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-4b1ddf14c8c955b1": {
+      "name": "地理标志产品公告 · 2017年第39号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-86aeec967b3d9a09": {
+      "name": "地理标志产品公告 · 2017年第98号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC98%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-25a7112b8491d64a": {
+      "name": "地理标志产品公告 · 2018年第33号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-c646d2d97a419308": {
+      "name": "地理标志产品公告 · 2018年第277号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-8d6bc786bf83639f": {
+      "name": "地理标志产品公告 · 2020年第390号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2020%E5%B9%B4%E7%AC%AC390%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-4ae503e94cce3eb1": {
+      "name": "地理标志产品公告 · 2021年第401号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC401%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-78cc31aa767dc222": {
+      "name": "地理标志产品公告 · 2021年第414号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC414%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-47fbe21eb90bdc71": {
+      "name": "地理标志产品公告 · 2021年第424号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC424%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-37f8b24dfbe3e85c": {
+      "name": "地理标志产品公告 · 2021年第444号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC444%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-4db854fbad2902e5": {
+      "name": "地理标志产品公告 · 2021年第459号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC459%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-4995513812af60ab": {
+      "name": "地理标志产品公告 · 2022年第473号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2022%E5%B9%B4%E7%AC%AC473%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-f98bda6611a37dde": {
+      "name": "地理标志产品公告 · 2023年第512号.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC512%E5%8F%B7.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-gi-9074e0d97bc98560": {
+      "name": "地理标志产品公告 · 2025年第625号_附件2.pdf",
+      "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2025%E5%B9%B4%E7%AC%AC625%E5%8F%B7/2025%E5%B9%B4%E7%AC%AC625%E5%8F%B7_%E9%99%84%E4%BB%B62.pdf",
+      "publisher": "公告发布机构（固定GitHub镜像）",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-3adbd00e05431bbe": {
+      "name": "地方标准",
+      "url": "https://qxb-img-osscache.qixin.com/standards/5f6d88fe20ff6c5bd7a1fd021e670400.pdf",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-c7d66827109512e1": {
+      "name": "<table id=\"e1\">",
+      "url": "https://www.hunan.gov.cn/zqt/zcsd/202602/33916107/files/f6edabd3031843818895f8affc194e74.pdf",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-532dbca303e56c73": {
+      "name": "四川文化旅游网—四川文旅门户网站",
+      "url": "https://www.sclyxw.com/index.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-15494d614f1e1ecf": {
+      "name": "四川21市州809道美食大PK，这份天府旅游美食名录必须收藏！_四川在线",
+      "url": "https://sichuan.scol.com.cn/ggxw/202107/58219239.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0633132c4d3cdc4b": {
+      "name": "产品中心",
+      "url": "https://www.julefoods.com/product.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-873d8b7683884ce8": {
+      "name": "关于菊乐",
+      "url": "https://www.julefoods.com/about.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-f2fbf9c1bbaef640": {
+      "name": "新希望乳业股份有限公司2025年年度报告全文",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-23/f036ff8f-5983-4449-ae47-ddb5e4abccbf.PDF",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-5b3a11dbacd1c5db": {
+      "name": "中国保护知识产权网",
+      "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202602/1995107.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-be1df755040d425d": {
+      "name": "四川·访盐运水道 品盐帮美食",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/sichuan/detail/7521.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-b7704ae3a67fb230": {
+      "name": "四川·自贡“品味古镇悠悠 体验非遗魅力”之旅",
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5016.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-356540a7da97312a": {
+      "name": "〖攀枝花〗滋味盐边 多彩非遗好韵味_四川统一战线_各地统战工作_攀枝花",
+      "url": "https://www.sctyzx.gov.cn/pzh/202507/54316814.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-352f9962b4cf7027": {
+      "name": "宁夏文旅四川（泸州）推介会成功举办",
+      "url": "https://whhlyt.nx.gov.cn/xxfb/wlyw/202001/t20200108_3651664.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-eb83073753c444fa": {
+      "name": "四川·暖冬年味 民俗盛宴",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/sichuan/detail/8188.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-9ad6a74f785541da": {
+      "name": "德阳市乐明食品有限公司深入阿坝县对接特色农副产品渠道销售事宜_阿坝县人民政府",
+      "url": "https://www.abaxian.gov.cn/abxrmzf/c100051/202303/9afaa253ea20410ea4dd64b25e2ff2a0.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0532c72ad3dc0a31": {
+      "name": "绵壤供销双向互通落地高原好物与绵阳特产实现“双向奔赴”_阿坝藏族羌族自治州人民政府",
+      "url": "https://www.abazhou.gov.cn/abazhou/c101955/202609/d471c3a947ce43e497c6f11262e4a398.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-b2bbfd71ea1ac839": {
+      "name": "《绵阳年鉴》三十载 守正创新 记录绵阳发展华章-安康市地方志办公室",
+      "url": "https://fzb.ankang.gov.cn/Content-2871947.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-07a87f3bd75162d6": {
+      "name": "直击发布会 | 吃个够！美景美食“喂饱”你眼睛味蕾-广元市商务局",
+      "url": "https://swj.cngy.gov.cn/new/show/20240809154029871.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-5752270c2d10ae24": {
+      "name": "走进乐山 - 中共乐山市委乐山市人民政府",
+      "url": "https://www.leshan.gov.cn/lsswszf/zjls/index.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0aa1464165357012": {
+      "name": "投资1亿余元！四川嘉联食品落户乐山味道・食品饮料产业园-部门信息-乐山市市中区人民政府",
+      "url": "https://www.lsszq.gov.cn/szq/bmdt/831416176123973.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-1fa635eef1f9c7c2": {
+      "name": "南充美食-南充市人民政府",
+      "url": "https://www.nanchong.gov.cn/xwdt/ztzl/ncfzfznc/mlnc/ncms_23431/",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-f4effca114de50f0": {
+      "name": "四川·乡村风貌 年节风情",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/sichuan/detail/8186.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-284441be77e4994c": {
+      "name": "四川·古韵原乡之旅",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcygj/sichuan/detail/7179.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-340becf2130499cf": {
+      "name": "四川·春色满宜宾",
+      "url": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/beijing/detail_g7yU_506/3471.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-341acbaad0d14997": {
+      "name": "百款广安“珍宝”齐汇山城 渝广交流再谱新篇 - 广安市人民政府",
+      "url": "https://www.guang-an.gov.cn/zfxxgk/zdmsxx/pc/content/content_1872567254020972544.html?gkfwjg=%E5%B9%BF%E5%AE%89%E5%B8%82%E5%95%86%E5%8A%A1%E5%B1%80",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-f41e49d5193e7f4d": {
+      "name": "四川·雅安“世界茶源寻根”之旅",
+      "url": "https://zhuanti.mct.gov.cn/xczgshsh2023/cxyh/detail_cha/3865.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-d910eeb61cc1146c": {
+      "name": "四川·雅安“采摘品秋果 红叶映雅味”之旅",
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/sichuan/detail_g7yU_726/4420.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-bce6887fb48accd5": {
+      "name": "四川省丨茶香雅安——茶马古道非遗美食之旅",
+      "url": "https://zhuanti.mct.gov.cn/fymstslvxlzs/xl_detail/9699.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-61a6921c6ee0bfb9": {
+      "name": "阿坝州积极组织企业参加中国品牌日四川活动_阿坝藏族羌族自治州人民政府",
+      "url": "https://abazhou.gov.cn/abazhou/c109371/202605/f21480f1351d48cb8b492de7fcf337fe.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0d5e410d956c6ff7": {
+      "name": "阿坝州特色小吃_阿坝州地方志办公室",
+      "url": "https://dfzb.abazhou.gov.cn/abzdfsbgs/c104049/201803/95058d485d21443aa7b091a330df2518.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-7ac142ae29e65fdd": {
+      "name": "四川·山水阳光 多彩民俗",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/sichuan/detail/8187.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-f8772898c36ee27d": {
+      "name": "跟着非博会游重庆｜一口非遗，尝尽山城烟火-华龙网-重庆市委市政府官方新闻门户",
+      "url": "https://www.cqnews.net/web/content_1566248920118743040.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-c4c283c2f0b9cb72": {
+      "name": "中华人民共和国文化和旅游部",
+      "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/zq/202405/t20240516_952897.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-7e0e2bca3b634b6a": {
+      "name": "重庆十大特产，暑假购买选十八梯非遗店 - 去哪儿",
+      "url": "https://travelnews.qunar.com/ugc/chongqing-top10-souvenirs-summer",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-1a555c7197520019": {
+      "name": "公司介绍_重庆市天友乳业股份公司",
+      "url": "https://www.xnbl.net/com/tianyou/introduce/",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-07aaa3e9dc19d664": {
+      "name": "我在云南过大年｜商务局长出镜，带您解锁州市美食（四）",
+      "url": "https://swt.yn.gov.cn/gzdt/gzdt/202602/t20260224_3217890.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-b6948cd594c53d09": {
+      "name": "昆明雪兰牛奶有限责任公司_昆明信息港",
+      "url": "https://m.kunming.cn/zhuanti/c/2022-06-12/13560226.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-21b3561769cb0c1b": {
+      "name": "〖商务信息〗人均十元到精品滇菜：昆明“必吃榜”商户的“不变”与“变”",
+      "url": "https://swt.yn.gov.cn/swxx/202607/t20260706_3218189.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-866bc365853ed04f": {
+      "name": "“有一种叫云南的生活”·清凉曲靖专场新闻发布会 - 最新发布 - 曲靖市人民政府门户网",
+      "url": "https://www.qj.gov.cn/html/2023/zxfb_0517/261665.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-4aa33ec376ff3ddf": {
+      "name": "云南·曲靖“麒麟乡村康养”之旅",
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/yunnan/detail_g7yU_728/4436.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-dd713fa62c194243": {
+      "name": "玉溪市发布十大名品名菜名小吃 撬动文旅产业深度融合发展",
+      "url": "https://www.ynxc.gov.cn/html/2025/wenwuhewenhuayichanbaohuzuoyong_0623/3025559.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-22292650369bdda3": {
+      "name": "玉溪市政府信息公开",
+      "url": "https://www.yuxi.gov.cn/yxszfxxgk/tz/20250618/1607762.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-72286b4d67beed46": {
+      "name": "玉溪市人民政府",
+      "url": "https://m.yuxi.gov.cn/yxs/ywdtsy/20251121/1635544.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-07283892f5d74696": {
+      "name": "保山市文化和旅游局关于政协保山市五届一次会议第0152号提案答复的函-保山市人民政府门户网站",
+      "url": "https://www.baoshan.gov.cn/info/4837/4039604.htm",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-6aba83ff2e398915": {
+      "name": "昭通苹果领衔，昭阳高原好物即将亮相松江",
+      "url": "https://www.songjiang.gov.cn/xwzx/001001/20261012/e50e74b9-c718-46e4-893b-406327c9505e.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-4ffc7b499480488f": {
+      "name": "〖商务信息〗流量变销量 云南丽江“丽系”农特产品借势出圈",
+      "url": "https://swt.yn.gov.cn/swxx/202608/t20260805_3732775.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-1c69deabf2b522b7": {
+      "name": "丽江市“柔软时光•亲近纳西”之旅",
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/yunnan/detail/1589.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-7724ff26b01d01eb": {
+      "name": "云南·“如梦之梦 万彩丽江”乡愁之旅",
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/yunnan/detail_g7yU_728/4432.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-7ad72628b506186b": {
+      "name": "〖商务信息〗来南博会，一次性领略各州市的风采！",
+      "url": "https://swt.yn.gov.cn/swxx/202308/t20230819_1975541.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-4fa6c747227675c6": {
+      "name": "走进云南-普洱篇 EXPLORE YUNNAN: PUER_云南省人民政府外事办公室",
+      "url": "https://yfao.yn.gov.cn/wswy/202208/t20220820_1519521.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0eb98df43e925bb3": {
+      "name": "云南•火舞狂欢 乐游楚雄",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/yunnan/detail/6862.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-60bf0b341c461e70": {
+      "name": "红河州人民政府办公室关于印发红河州“十四五”文化和旅游发展规划的通知-红河哈尼族彝族自治州人民政府",
+      "url": "https://www.hh.gov.cn/info/11061/578392.htm",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-da2de5fa51ae93be": {
+      "name": "云食 | 16州市美食代表 你最爱吃哪一个？_澎湃号·媒体_澎湃新闻-The Paper",
+      "url": "https://www.thepaper.cn/newsDetail_forward_18166436",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-cfaaf39617d9a60a": {
+      "name": "在西双版纳星光夜市 把吃喝玩乐一起装进口袋",
+      "url": "https://www.ynxc.gov.cn/html/2025/jjlb_0827/3029326.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-31abd16109a41353": {
+      "name": "定了！2025年西双版纳、德宏泼水节时间公布！",
+      "url": "https://www.ynxc.gov.cn/html/2024/focus_1212/3017983.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-f9d5ac4279040e51": {
+      "name": "游云南 • 品美食：文献名邦——大理 - 山东文旅网",
+      "url": "https://www.sdwhlyw.com/renwen/549.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-040102b6146412f0": {
+      "name": "云南省丨寻味非遗美食，领略大理风情",
+      "url": "https://zhuanti.mct.gov.cn/fymstslvxlzs/xl_detail/9701.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-88a7f7a3d64625bf": {
+      "name": "大理州“南诏古国·体验文博”之旅",
+      "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1996.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-4a6525533b8cebd8": {
+      "name": "德宏：打造美食品牌 促进各民族交往交流交融 - 民族宗教 - 中国共产党云南省委员会统一战线工作部",
+      "url": "https://ynswtzb.gov.cn/info/11691",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-87b52769719d2ab7": {
+      "name": "云南德宏州旅居展魅力 自在添活力",
+      "url": "https://www.neac.gov.cn/seac/xwzx/202505/1180041.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-25af7572ea4115a6": {
+      "name": "怒江州“天境怒江·峡谷探秘”之旅",
+      "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1984.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-90c1233b56699149": {
+      "name": "旅居云南 吃在迪庆",
+      "url": "https://www.ynxc.gov.cn/html/2025/whxdfocus_0402/3022216.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-59661d2cb68c1130": {
+      "name": "中国保护知识产权网",
+      "url": "https://ipr.mofcom.gov.cn/article/gnxw/fwzwhyc/202606/1996547.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-fa6fddb1cc02670f": {
+      "name": "〖喜迎二十大〗〖欢度国庆·近处游玩小吃香〗贵阳市青云路周记留一手烤鱼：一口鱼香慰人心_铜仁网",
+      "url": "https://www.tongren.gov.cn/2022/1004/287183.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-a3f2a3e84a388b02": {
+      "name": "关于我们_贵州好一多乳业股份有限公司",
+      "url": "https://www.hao1duo.com/about.html",
+      "publisher": "原网页发布机构",
+      "kind": "reference",
+      "checked": "2026-11-15"
+    },
+    "sw-source-736745a382900346": {
+      "name": "中国生态旅行推荐榜｜来贵州美食原产地体验一场舌尖上的旅行~-玉屏网",
+      "url": "https://www.yp.gov.cn/contents/2023/07/20/receive-3a1ab5b9-fb5b-4d02-8c33-c4c6f103c082.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-3efa8a30d68f73e5": {
+      "name": "贵州·贵阳“秀美花溪 欢聚过节”",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/guizhou/detail/8185.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-b38ee0aa7944abf1": {
+      "name": "贵州·六盘水“热‘雪’沸腾 彝族风情”之旅",
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5018.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-521260f3ae7e2ebd": {
+      "name": "贵州向你发出“嗦粉”邀请！_铜仁网",
+      "url": "https://www.tongren.gov.cn/2022/0304/265501.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-0e5b05a82be71be6": {
+      "name": "贵州·遵义“乡愁花茂 乐购播州”",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/guizhou/detail/8183.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-4e4a23a7022cf48b": {
+      "name": "贵州·安顺“欢聚屯堡 穿越大明遗风 ”之旅",
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/dcxc/detail/5028.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-b7f49d1ce984912b": {
+      "name": "贵州·安顺“大明屯堡 古风遗韵”",
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcygj/guizhou/detail/7183.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-29eb962d47b5633c": {
+      "name": "你如果写毕节，就不能只写毕节！-玉屏网",
+      "url": "https://www.yp.gov.cn/contents/2025/07/08/receive-bbceb457-5ca2-47fc-b953-c737c18ca870.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-89c846a740e9e377": {
+      "name": "国庆特别策划丨文化贵州：美食天堂，味蕾的盛宴-玉屏网",
+      "url": "https://www.yp.gov.cn/contents/2024/10/08/receive-d810007d-a4b9-4257-9ac4-fc07cb062d09.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-045563175eb6d62a": {
+      "name": "铜仁:“六心行动”推动旅游产业提档升级_铜仁网",
+      "url": "https://www.tongren.gov.cn/2024/0831/323594.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-6a50898b785c2e6a": {
+      "name": "云出发！跟着铜吉高铁嗨起来……_铜仁网",
+      "url": "https://www.tongren.gov.cn/2024/0509/317729.shtml",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-231c9dc396215dc4": {
+      "name": "贵州山味丨好吃到“起飞”！这条高端游路线带你体验舌尖上的贵州风味！-玉屏网",
+      "url": "https://www.yp.gov.cn/contents/2024/11/29/receive-70fcfd16-9958-4a51-bd3f-6cb66b27b7b5.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-c3b23265906b1730": {
+      "name": "贵州·黔东南“看村超 游苗乡侗寨”休闲之旅",
+      "url": "https://zhuanti.mct.gov.cn/xczgshsh2023/syxj/detail_shi/3823.html",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-942618fc48d4a17b": {
+      "name": "机构检索 - 全国标准信息公共服务平台",
+      "url": "https://std.samr.gov.cn/search/orgDetailView?data_id=E8B3F666CD7CF112E05397BE0A0A5815",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-source-9df45bfdb06b28b7": {
+      "name": "中共贵州省委党校 贵州行政学院 中共贵州省委讲师团",
+      "url": "https://www.gzdx.gov.cn/dwjl/17425",
+      "publisher": "原网页发布机构",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-agri-3e54d9fbba55c048": {
+      "name": "2024年第三批全国名特优新农产品公示",
+      "url": "http://www.aqsc.agri.cn/tzgg/202412/t20241204_450615.htm",
+      "publisher": "农业农村部农产品质量安全中心",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-agri-ade367ba321c2835": {
+      "name": "农业农村部农产品质量安全中心公告（第44号）：2026年第二批全国名特优新农产品名录",
+      "url": "http://www.aqsc.agri.cn/mtyx/tzgg/202609/t20260920_474564.htm",
+      "publisher": "农业农村部农产品质量安全中心",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-agri-b1b5347a0c33e950": {
+      "name": "农业农村部农产品质量安全中心公告（第42号）：2026年第一批全国名特优新农产品名录",
+      "url": "http://www.aqsc.agri.cn/mtyx/tzgg/202606/t20260603_472562.htm",
+      "publisher": "农业农村部农产品质量安全中心",
+      "kind": "primary",
+      "checked": "2026-11-15"
+    },
+    "sw-agri-69d2fb8f80e127d1": {
+      "name": "2026年第二批全国名特优新农产品公示",
+      "url": "http://www.aqsc.agri.cn/mtyx/tzgg/202609/t20260901_474171.htm",
+      "publisher": "农业农村部农产品质量安全中心",
       "kind": "primary",
       "checked": "2026-11-15"
     }
@@ -108198,6 +109692,18265 @@ window.flavorCatalog={
       "id": "sg-04279ba2a22fac2807",
       "explanationStatus": "needs-expansion",
       "researchBatch": "2026-11-15-shaanxi-gansu"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "余庆苦丁茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "余庆苦丁茶是与贵州·遵义·余庆县相联系的地方茶或代用茶。与原料形成有关的生产记录还包括修剪:控制顶端优势,扩大立体采摘面。",
+      "detail": "余庆苦丁茶是与贵州·遵义·余庆县相联系的地方茶或代用茶。\n\n与原料形成有关的生产记录还包括修剪:控制顶端优势,扩大立体采摘面。",
+      "sources": [
+        "sw-gi-c9530d54917aa678"
+      ],
+      "locality": "余庆县",
+      "id": "sw-eb9ee0180d4a51dc9a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "江津花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "江津花椒是与重庆·江津区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为九叶青。",
+      "detail": "江津花椒是与重庆·江津区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为九叶青。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：花椒呈鲜绿色或黄绿色;具有鲜花椒固有的滋味和气味,无异味;保持鲜花椒原型,无破碎粒、霉粒、腐烂粒;无粗枝大叶,无花椒刺,允许有少量细枝叶和细蒂柄,无其它外来杂质。\n\n产地条件方面，资料写到花椒种植区海拔在200~800m区域,以中壤、轻壤为宜,土壤酸碱度在6.0~7.5;属中亚热带湿润季风气候区,年均气温13~20°C,年日照时数不少于1000h,年降水量不少于1000mm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是制作干花椒,宜在6月上旬采摘;制作花椒酱和保鲜花椒,采摘日期适当提前。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "江津区",
+      "id": "sw-259871132fba8d27ca",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "梵净山翠峰茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "梵净山翠峰茶是与贵州·铜仁·印江土家族苗族自治县相联系的地方茶或代用茶。",
+      "detail": "梵净山翠峰茶是与贵州·铜仁·印江土家族苗族自治县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为福鼎大白茶群体品系。\n\n生产方式也是认识它的一条线索。\n\n产地条件方面，资料写到800~1300米海拔高度,境内受梵净山自然小气候的影响,年降雨量达800~1300毫米,年平均气温16~18°C,年日照时间长达1200~1300小时,无霜期近300天。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括扦插育苗:选择当地茶树的优良枝条进行扦插育苗。栽培规格:采取双行双株或单株,单行双株,双行双株或单株。茶树修剪:适时合理修剪。鲜叶采摘:按标准适时分批进行采摘。",
+      "sources": [
+        "sw-gi-73abca76641ae2fc"
+      ],
+      "locality": "印江土家族苗族自治县",
+      "id": "sw-2f649e486c29b06f91",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "双流冬草莓",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "双流冬草莓是与四川·成都·双流区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为丰香、日本96。",
+      "detail": "双流冬草莓是与四川·成都·双流区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为丰香、日本96。\n\n产地条件方面，资料写到紫色砂壤土、pH值6.5至7.5、土壤有机质含量1至1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与贮藏。1.采摘时间:从10月中旬至次年4月上旬。2.贮藏:应置通风、凉爽、洁净处存放,时间不超过2天,或在0°C-2°C下冷藏,贮藏时间不超过5天。\n\n与原料形成有关的生产记录还包括苗木繁育:采用专用苗圃来繁育种苗。栽培时间:8月中旬水稻收获后即定植于大田。栽培密度:亩栽9000至11000株。",
+      "sources": [
+        "sw-gi-47a18fa5c055c875"
+      ],
+      "locality": "双流区",
+      "id": "sw-d45b558663a3293d6f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "金阳白魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金阳白魔芋是与四川·凉山州·金阳县相联系的地方食材。原料或品种方面，保护要求记载为白魔芋(AmorphophallusalbusP.Y.LiuetJ.F.Chen)种中的金阳紫红杆、昭枝山青麻杆和菁口大青杆。",
+      "detail": "金阳白魔芋是与四川·凉山州·金阳县相联系的地方食材。原料或品种方面，保护要求记载为白魔芋(AmorphophallusalbusP.Y.LiuetJ.F.Chen)种中的金阳紫红杆、昭枝山青麻杆和菁口大青杆。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：白魔芋条(片、角),具有色白、表皮手感较细腻、切面较平、质地致密等特点。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜芋→清洗去皮→切片(条、角)→烘烤→挑选→复火→分级→包装。\n\n产地条件方面，资料写到保护范围内海拔高度700米至1700米,栽培土壤为红色石灰土和石灰岩土,土层厚度大于25厘米,土质肥沃,有机质含量大于2.0%,pH值在6.5至8.0之间。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-2419921097c398b0"
+      ],
+      "locality": "金阳县",
+      "id": "sw-fb6955e222138a5d2c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "凤冈富锌富硒茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "凤冈富锌富硒茶是与贵州·遵义·凤冈县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "凤冈富锌富硒茶是与贵州·遵义·凤冈县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：芽叶完整、条索匀整、色泽嫩绿、香高味浓、浓而不苦、青而不涩、鲜而不淡、醇厚回甜、耐冲泡。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括工艺流程:鲜叶摊放→杀青→做形→烘(炒)坯→造形→足干(提)香→精选→成品。\n\n产地条件方面，资料写到选择海拔800米至1200米,pH值4.5至6.5微酸性土壤。土壤含锌量80mg/kg以上,含硒量1.0mg/kg以上。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括修剪:控制顶端长势,扩大立体采摘面。",
+      "sources": [
+        "sw-gi-450e6f4acf116231",
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "凤冈县",
+      "id": "sw-2b433f2234609f73d9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "凤冈富锌富硒茶"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇大山香米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "仪陇大山香米是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为中籼迟熟香型优质稻。",
+      "detail": "仪陇大山香米是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为中籼迟熟香型优质稻。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒油润晶莹,呈半透明状;米粒大小均匀,坚实丰满,粒面光滑、完整;米饭馨香浓郁,口感细腻醇正,粘柔粘唇。\n\n产地条件方面，资料写到海拔在400米至750米之间,土壤以侏罗系蓬莱镇组紫色土壤为主,有机质含量不少于1%,土壤pH值在6.5至7.5之间。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括收割:收割时间为:8月下旬至9月上旬,稻谷成熟度达到85%至90%。",
+      "sources": [
+        "sw-gi-675de448cd730eac"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-c800f00fc9905b6b8c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "温江大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "温江大蒜是与四川·成都·温江区相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "温江大蒜是与四川·成都·温江区相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：成熟蒜头蒜香味浓,辛辣味烈,瓣肥脂重,汁液粘稠,形状扁圆,横径3至4cm,纵径2.5至3.5cm,质地硬实,皮紫红色,由外向内紫红渐深,单头重11至15g。单头平均蒜瓣数7瓣(±1),单轮排列。蒜瓣大小均匀,平均单瓣重1.5至2g,瓣肉白色。\n\n产地条件方面，资料写到灰色冲积潮土,耕层厚度不少于30cm,pH值6.5至7.5,土壤有机质不少于2.0%,海拔517至645m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏:当上部叶片褪色,假茎不易折断时及时将拔起的蒜头连同假茎捆系成捆,至通风避雨处晾贮、后熟。",
+      "sources": [
+        "sw-gi-d9e0da43543f0aaa",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "温江区",
+      "id": "sw-0f38671287af878c49",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "温江大蒜"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "南江山核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "南江山核桃是与四川·巴中·南江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为胡桃科核桃属,核桃(JuglansregiaL.)种,当地优良核桃实生群体种或优选材料。",
+      "detail": "南江山核桃是与四川·巴中·南江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为胡桃科核桃属,核桃(JuglansregiaL.)种,当地优良核桃实生群体种或优选材料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果果面光滑、缝合线低平、果大壳薄而不露仁、仁色黄白至淡黄、核仁饱满、风味好、味香或稍涩、取仁容易。\n\n产地条件方面，资料写到海拔600米至1600米,土壤质地沙壤或壤土,pH值6.0至7.5,有机质含量1.2%至3%,向阳地带。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-5f01dabc31dff780"
+      ],
+      "locality": "南江县",
+      "id": "sw-df7aa2326e2c55ef8c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "得荣树椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "得荣树椒是与四川·甘孜州·得荣县相联系的地方食材。原料或品种方面，保护要求记载为树椒地方品种。",
+      "detail": "得荣树椒是与四川·甘孜州·得荣县相联系的地方食材。原料或品种方面，保护要求记载为树椒地方品种。\n\n产地条件方面，资料写到海拔1900米至2500米,坡度为10度以下,土层深厚、肥沃,通透性好,pH值8.0至8.4,有机质含量不少于2%,排灌良好的砂质壤土耕地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.鲜食树椒:可采收果皮变硬,色泽发亮,果实饱满的绿色青椒,也可采收黄椒。2.干树椒:采收金黄色果实。\n\n与原料形成有关的生产记录还包括待幼苗长到5片真叶以上,苗高7至10厘米时定植。定植:3月下旬当气温稳定上升到12°C以上,即可栽植。植3300至3500窝,每窝定植2株。",
+      "sources": [
+        "sw-gi-6e633e803a28eb1d"
+      ],
+      "locality": "得荣县",
+      "id": "sw-2c516c850615337d09",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸州酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "泸州酒是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县、古蔺县相联系的地方酒。",
+      "detail": "泸州酒是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县、古蔺县相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:按GB8231-1987的规定执行,主要产于泸州本地的糯红高粱,部分来自川南地区的糯红高粱,要求颗粒饱满、糯性强。支链淀粉含量大于70%(绝干样计),占总淀粉量的95%以上。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽无色或微黄、清亮透明,无悬浮物,无沉淀;香气具有浓郁的己酸乙酯为主体的复合香气;口味窖香浓郁、绵甜爽净、香味协调、酒体醇厚、后味长,具有泸型酒的突出风格。(2)。",
+      "sources": [
+        "sw-gi-1221a314013857fd"
+      ],
+      "locality": "江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县、古蔺县",
+      "id": "sw-2872c47395879ab4d3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "金阳青花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "金阳青花椒是与四川·凉山州·金阳县相联系的地方食材或食品原料。",
+      "detail": "金阳青花椒是与四川·凉山州·金阳县相联系的地方食材或食品原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实颗粒圆大,色泽绿色、油润,表面油胞鼓实且大而密。气味清香柔和,麻味纯正浓郁。\n\n产地条件方面，资料写到海拔800至1800米的沙壤、红壤、燥红土、棕壤土、紫红土;成土母质为玄武岩、沙页岩、河流冲积物、洪积物形成的土壤更好。土壤pH值在7至7.5。有机质含量2%以上。(二)栽培技术。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采收:由于海拔高差大,在“大暑”到“白露”之间即7月下旬至8月上旬采摘。要求色泽绿色,出皮率高,香味和麻味浓郁,芳香油含量高。育苗采种推迟15天至30天待种子充分成熟后采摘。",
+      "sources": [
+        "sw-gi-5b14cd7821bfdb34"
+      ],
+      "locality": "金阳县",
+      "id": "sw-422afcaceae986ee4f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "沙子空心李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "沙子空心李是与贵州·铜仁·沿河土家族自治县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "沙子空心李是与贵州·铜仁·沿河土家族自治县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈圆形,果实平均单果重35克,果实表面具有一层特有的银灰色腊质保护层;离核,果肉黄白色,硬度适中、脆嫩、汁多爽口、清香浓甜。\n\n产地条件方面，资料写到在保护区范围内海拔500米至700米的石灰土、沙壤土,有机质含量不少于1.5%,坡度不超过35°建园。(二)栽培管理。1.苗木培育:选用毛桃作为砧木,从优株母树系采穗条进行嫁接繁殖。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是从盛花期到果实成熟135天,可进行采收。\n\n与原料形成有关的生产记录还包括苗木培育:选用毛桃作为砧木,从优株母树系采穗条进行嫁接繁殖。栽培技术:(1)栽植时间:最适宜的栽植时间为11月中下旬至12月上旬。整形修剪:按自然开心形进行合理修剪,冬剪和夏剪相结合,改善通风透光条件,改善品质。从盛花期到果实成熟135天,可进行采收。",
+      "sources": [
+        "sw-gi-fd3be8eff4a56c98"
+      ],
+      "locality": "沿河土家族自治县",
+      "id": "sw-2a502bb7e484ecf8a4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "朝天核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "朝天核桃是与四川·广元·朝天区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为沙河核桃、硕星核桃。",
+      "detail": "朝天核桃是与四川·广元·朝天区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为沙河核桃、硕星核桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：仁重不少于7克,壳厚不超过1mm,极易不少于9克,壳厚不超过1.4mm,取仁容易,取仁,出仁率不少于55%。出仁率不少于52%。粗蛋白质不少于12%,粗脂肪粗蛋白质不少于12%,粗脂肪不少于65%,水。\n\n产地条件方面，资料写到海拔500至1500米,土壤类型为壤土或砂壤土,有机质含量1.2%至3%,pH值7.0至7.5,背风向阳的缓坡地,地下水位在地表2米以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采收时期:8月下旬开始采收。2.脱青:彻底清洗以保持果面光洁,颜色基本一致。",
+      "sources": [
+        "sw-gi-92d72d5cf2777923"
+      ],
+      "locality": "朝天区",
+      "id": "sw-8ad4361d124d95e964",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "新店七星椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新店七星椒是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为地方七星椒优良品种。",
+      "detail": "新店七星椒是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为地方七星椒优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：干椒果实弯曲细长、个小尾尖,外表呈红色、光洁,干湿适度,手捏有弹性而不破碎,摇动有响声,形状色泽均匀、果面清洁。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括加工方式有两种,一种是自然晾干,一种是烘干。烘干是在50°C至68°C的烘房内进行人工干燥,至含水量不超过14%,分级包装贮藏。\n\n采收或收获环节的记录是6月下旬至11下旬,在果实九成红熟时进行采摘。采后鲜椒应置于通风干燥处。长途运输的应用竹编箱装载,并加大通风。用于加工的要及时进行加工处理。",
+      "sources": [
+        "sw-gi-df5124137b3f3a97"
+      ],
+      "locality": "威远县",
+      "id": "sw-ae47e3b28775790f00",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "程海螺旋藻",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "程海螺旋藻是与云南·丽江·永胜县相联系的地方食材。原料或品种方面，保护要求记载为钝顶螺旋藻(S.platensis)。",
+      "detail": "程海螺旋藻是与云南·丽江·永胜县相联系的地方食材。原料或品种方面，保护要求记载为钝顶螺旋藻(S.platensis)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：符合表2要求。表2程海螺旋藻感官指标项目要求色泽蓝绿色至墨绿色滋味和气味无异味,略带海藻腥鲜味杂质无肉眼可见杂质。\n\n采收或收获环节的记录是加工。1.采收:采用重力斜筛滤布过滤方式采收,采收过程严格漂洗。2.干燥:采用喷雾干燥,干燥过程严格控制干燥温度,干燥塔进风温度不超过180°C,出风温度不超过80°C。\n\n与原料形成有关的生产记录还包括配制培养基:采用混泥土结构的跑道式培养池为培养系统,以程海湖水为生产养殖用水,以Zarrouk螺旋藻培养基为基础,添加碳酸氢钠(2.8g/l)、食盐(1.0g/l)等配制生产用培养基。",
+      "sources": [
+        "sw-gi-85863f266260db4b"
+      ],
+      "locality": "永胜县",
+      "id": "sw-bb372c1c75e3946f33",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "双流枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "双流枇杷是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号。",
+      "detail": "双流枇杷是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮果肉项目基本特征果形果实大小颜色颜色果实萼孔开张,呈特大型果不少于60克/个,大五角星形,果实整齐端正、具有本大型果50~60克/个,大五星橙红色橙红色个大,果形圆形或品种特征,无畸形中型果40~50克/个,卵圆形。小型果30~40克/个。\n\n产地条件方面，资料写到土壤类型为紫色砂壤土,pH值6.5至7.5,有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括建园改良土壤:拟建果园,不论田、地都必须先进行土壤改良后,才能定植苗木。栽培规格:每公顷栽植密度不超过825株。育苗:砧木采用枇杷实生苗,嫁接繁殖,一年生苗木高度不少于40cm,嫁接口上1cm粗度不少于0.8cm。幼树生产管理技术:含定植、定植后管理。采收前1个月内禁止施用肥料。",
+      "sources": [
+        "sw-gi-6fd103cbcc13354f"
+      ],
+      "locality": "双流区",
+      "id": "sw-829e557f487cf2f28e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "都江堰猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "都江堰猕猴桃是与四川·成都·都江堰市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为海沃特(Hayward)、红阳(Hongyang)。",
+      "detail": "都江堰猕猴桃是与四川·成都·都江堰市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为海沃特(Hayward)、红阳(Hongyang)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：品种海沃特红阳项目果形果实长圆柱形果实短圆柱形果皮绿褐色或淡绿色,颜色均匀,外观色泽果皮无毛光滑、淡绿色,颜色均匀密生褐色硬毛果肉黄色,沿果心有紫红色条呈放果肉颜色果肉翠绿色射状分布,似太阳光芒四射果实大小不少于80不少于70鲜果横剖面沿果心有紫红色条呈果心果心小放射状分布,果心小。\n\n产地条件方面，资料写到土壤为紫色、棕黄色砂壤土,pH值5.5至6.8,土壤有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是标准。红阳鲜果可溶性固形物含量不少于7%,海沃特鲜果可溶性固形物含量不少于6.2%时方可采收。",
+      "sources": [
+        "sw-gi-0e95ba9cea5672c5"
+      ],
+      "locality": "都江堰市",
+      "id": "sw-d628d6d310e7689726",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "洱源梅子",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "洱源梅子是与云南·大理州·洱源县相联系的地方食材。原料或品种方面，保护要求记载为品种。",
+      "detail": "洱源梅子是与云南·大理州·洱源县相联系的地方食材。原料或品种方面，保护要求记载为品种。盐梅、苦梅、照水梅、双套梅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：符合表1的要求。表1洱源梅子感官指标产品名称指标雕梅形如菊花状,色泽褐黄,口感甜酸脆炖梅色泽乌黑,口感酸咸苏裹梅色泽褐红,口感甜酸脆脆梅色泽淡黄、口感清脆话梅形如荔枝状,色泽褐红,有白色果露,酸甜可口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括雕梅加工:(1)原料要求:原料为盐梅鲜果,要求果形端正、单果重不少于20g、可食率不少于85%。(2)加工工艺:1鲜梅果用3%至5%的食盐和1%至2%石灰水浸泡12h至青梅转淡黄为止。\n\n产地条件方面，资料写到海拔1800m至2550m,坡度25°以下区域。土壤为砂质红壤、棕壤、紫色土和冲积土,土壤有机质含量不少于1.5%、pH值5.5至7.5。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cc82cdd382c99ff3"
+      ],
+      "locality": "洱源县",
+      "id": "sw-7ed68a362959bcba30",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "会理石榴",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "会理石榴是与四川·凉山州·会理市相联系的地方食材。原料或品种方面，保护要求记载为青皮软籽石榴。",
+      "detail": "会理石榴是与四川·凉山州·会理市相联系的地方食材。原料或品种方面，保护要求记载为青皮软籽石榴。\n\n产地条件方面，资料写到海拔1000至1800米的河谷及缓坡,土壤主要为紫色土、褐红壤、水稻土,pH值为6.5至7.5,土壤有机质含量不少于1.5。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括整形修剪:树形采用开心形,保证树冠通风透光,干高30厘米至50厘米。果品采收:当果实底色由深绿色变为绿黄色,果实有明显的果棱出现,向阳面淡红色带红彩霞。籽粒呈粉红色,出现针芒状,用果剪采摘。",
+      "sources": [
+        "sw-gi-2383ba9000fbf81c"
+      ],
+      "locality": "会理市",
+      "id": "sw-a19514f478bb9cd901",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南川方竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南川方竹笋是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为金佛山方竹。",
+      "detail": "南川方竹笋是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为金佛山方竹。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括均匀、柔软。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括按加工工艺不同分为笋干和清水笋。将当天采收的带壳鲜笋集中去壳,不得破坏笋体。使用不锈钢夹层锅,放入干净卫生清水,通入蒸汽至水沸腾,投入去壳竹笋,并加入笋重量3%的食盐搅拌均匀,煮至呈现半透明并散出香气为止。\n\n产地条件方面，资料写到海拔1000~2200米的中山,土壤pH值4.5~7,有机质含量不少于2.5%,土层厚度不少于30cm,壤质土和山地黄壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月上旬至10月下旬,出笋2-3天后采收,高径比为10~15∶1。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "南川区",
+      "id": "sw-d60810c01d22abffb6",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "苍溪雪梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "苍溪雪梨是与四川·广元·苍溪县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为施家梨及其优系。",
+      "detail": "苍溪雪梨是与四川·广元·苍溪县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为施家梨及其优系。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈粗颈葫芦形,果面褐或黄褐色,梗洼中缓无锈,萼洼深广而陡;果心特小,肉质细脆、石细胞少。\n\n产地条件方面，资料写到海拔450m至850m,土壤类型为壤土或砂壤上,pH值6至6.5,有机质含量不少于1%,地下水位在地表2m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在9月上中旬且可溶性固形物含量不少于9%时方可采收。\n\n与原料形成有关的生产记录还包括育苗:以野生砂梨或棠梨实生苗作砧木,在优良母本树上采集接穗进行嫁接繁殖。修剪:采用开心形或疏散分层形树形,实行夏季修剪与冬季修剪相结合,保证树冠通风透光。",
+      "sources": [
+        "sw-gi-bdac309008a8644a"
+      ],
+      "locality": "苍溪县",
+      "id": "sw-be7807c3baf6e4a45e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "雁江蜜柑",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "雁江蜜柑是与四川·资阳·雁江区相联系的地方食材。原料或品种方面，保护要求记载为兴津、日楠、宫本。",
+      "detail": "雁江蜜柑是与四川·资阳·雁江区相联系的地方食材。原料或品种方面，保护要求记载为兴津、日楠、宫本。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目果形果色果皮口感品种风味浓、细嫩化渣、果汁丰兴津扁园、端正橙色或橙黄色光滑富宫本扁园、端正橙色光滑风味浓、化渣、果汁丰富日楠扁园、端正橙色光滑风味浓、化渣、果汁丰富。\n\n产地条件方面，资料写到土壤为紫色土,土壤pH5.5至7.8,有机质含量不少于1.5%,土层厚度不少于40厘米,地下水位深度>80厘米。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当果面2/3以上着色,或兴津、宫本、日楠的可溶性固形物分别不少于11%、不少于8%、不少于9%时,方可进行采收。贮藏果比鲜销果早7天至10天采收。采收使用“两剪法”,雨天和高温禁止采收。",
+      "sources": [
+        "sw-gi-bdac309008a8644a"
+      ],
+      "locality": "雁江区",
+      "id": "sw-ba2e4084c44ea9d36b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江雀舌",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "蒲江雀舌是与四川·成都·蒲江县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "蒲江雀舌是与四川·成都·蒲江县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：芽头匀整,外形扁平挺直,形似鸟雀之舌,色泽绿润;香气清香高长,汤色黄绿明亮,滋味醇厚鲜爽,叶底嫩绿匀整。\n\n产地条件方面，资料写到保护区范围内海拔550m至630m,土壤pH在4.5至6.5之间,有效土层大于60cm,在0cm至45cm土层的有机质含量不少于1.0%,地下水位100cm以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是要求。1.采摘时间:每年早春,当茶园中有5%左右的芽头鳞片展开时,即可开园采摘。采摘到谷雨时结束。2.采摘标准:鲜嫩单芽。3.采摘方法:手工提采。",
+      "sources": [
+        "sw-gi-bdac309008a8644a"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-72e433bd955a9028de",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "国胜茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "国胜茶是与四川·攀枝花·盐边县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "国胜茶是与四川·攀枝花·盐边县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：整芽略显白毫、形如银针、紧圆、挺秀、重实、匀整;色泽嫩绿油润、均匀;香气栗香、纯正;汤色黄绿明亮,滋味醇厚鲜爽,叶底肥嫩匀整。\n\n产地条件方面，资料写到保护区范围内海拔1400m至2200m,土壤pH值在4.5至5.5之间,有效土层>100cm,相对含水量25%至28%,石灰质含量不超过0.2%,地下水位在地表100cm以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采摘时间:每年2月下旬至五月上旬为采摘期。2.采摘标准:鲜嫩单芽。3.采摘方法:手工提采。4.摘要求:不采雨水露水芽叶、紫色芽叶、病虫芽叶,不带鱼叶、鳞片。",
+      "sources": [
+        "sw-gi-567266d8c36f46f3"
+      ],
+      "locality": "盐边县",
+      "id": "sw-99cc73fc6ad7457753",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "顶坛花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "顶坛花椒是与贵州·黔西南州·贞丰县相联系的地方食材或食品原料。",
+      "detail": "顶坛花椒是与贵州·黔西南州·贞丰县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为地方品种:大青椒、小青椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：绿色、有光泽、睁眼、果粒较大、均匀、油腺密而突出,果径在2mm至3mm,果皮上有明显凸起的圆点状油腺,长有油苞,富含挥发油,麻味浓烈持久,香味纯正。\n\n产地条件方面，资料写到保护区范围内海拔不高于900m,土壤为碳酸岩发育的石灰土和砂页岩发育的黄壤,土壤pH值5.5至7.5,土壤有机质含量大于等于1.8%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及晾晒。1.采收:当花椒外果皮呈现油绿色,腺点突出透亮,即可采摘,根据成熟度分批采摘。2.晾晒:果实采摘后当天必须晾晒,晾晒至含水量不超过10%,严禁曝晒。",
+      "sources": [
+        "sw-gi-53c38dd973d7be06"
+      ],
+      "locality": "贞丰县",
+      "id": "sw-f4e6cde2b3b5b7d02c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "龙安柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "龙安柚是与四川·广安·广安区相联系的地方食材。原料或品种方面，保护要求记载为文旦柚类地方品种。",
+      "detail": "龙安柚是与四川·广安·广安区相联系的地方食材。原料或品种方面，保护要求记载为文旦柚类地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形圆锥形或倒卵形,果顶凹陷、晕环较明显,果皮黄色或橙黄色。果肉脆嫩化渣多汁、色泽粉红,口感酸甜适度,微有苦、麻味,无核或少核。\n\n产地条件方面，资料写到保护区范围内海拔不超过450m,土壤类型为紫色土,质地沙壤土至壤土,土壤pH值5.5至7.0,有机质含量不少于1.5%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月中、下旬果皮80%变为橙黄色时方可采收。贮藏果提前7天至10天采收。要求一果两剪。",
+      "sources": [
+        "sw-gi-37e1d92595b1373a"
+      ],
+      "locality": "广安区",
+      "id": "sw-0e8414cfda8c52720f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中冬尖",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "资中冬尖是与四川·内江·资中县相联系的地方调味品。原料或品种方面，保护要求记载为生产。",
+      "detail": "资中冬尖是与四川·内江·资中县相联系的地方调味品。原料或品种方面，保护要求记载为生产。1.品种:枇杷叶、齐头黄(属十字花科)。2.立地条件:土壤为沙壤土或中壤土。土壤pH值6.5至7.5,有机质含量大于2%,速效钾100ppm至150ppm。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求色泽黄褐色或褐色,有光泽。体态长条、碎粒或块片。滋味冬尖质地脆、嫩,不得有发软、变质、老筋。气味有冬尖特有的鲜香气,不得有不正常气味。\n\n产地条件方面，资料写到土壤为沙壤土或中壤土。土壤pH值6.5至7.5,有机质含量大于2%,速效钾100ppm至150ppm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期为立冬至小雪,采收前5天禁止浇水,选择晴天及时采收。播种晚的,最迟应在立春前采收完毕。",
+      "sources": [
+        "sw-gi-6b0da5e7a3c1afb1"
+      ],
+      "locality": "资中县",
+      "id": "sw-601fa0e6fa73fe7e8e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "七佛贡茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "七佛贡茶是与四川·广元·青川县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "七佛贡茶是与四川·广元·青川县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形状扁、平、直、光,色泽油绿、绿润。香气高香而持久且有春兰花香之味,滋味鲜醇回甘,汤色黄绿明亮,叶底匀整明亮。\n\n产地条件方面，资料写到海拔600m至1500m,土壤值4.5至6.5,坡度在15°至25°之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是分级。1.采摘时间:每年3月上旬至9月底为采摘期,根据鲜叶等级要求,分期分批留叶采摘。2.采摘要求:(1)特级鲜叶:一芽一叶初展>90%,一芽二叶初展<10%以下,芽长于叶或芽叶等长。",
+      "sources": [
+        "sw-gi-a6b7729279fba41d"
+      ],
+      "locality": "青川县",
+      "id": "sw-f1ff1374030a857f8a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "全省",
+      "name": "普洱茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "普洱茶是与云南相联系的地方茶或代用茶。原料或品种方面，保护要求记载为加工:(1)加工工序:鲜叶摊放→杀青→揉捻→解块→日光干燥成晒青茶。",
+      "detail": "普洱茶是与云南相联系的地方茶或代用茶。原料或品种方面，保护要求记载为加工:(1)加工工序:鲜叶摊放→杀青→揉捻→解块→日光干燥成晒青茶。(2)加工工艺:鲜叶摊放:鲜叶分级摊放至含水量70%左右进行杀青。杀青:杀青要杀透、杀匀,无青草气味和烟气味。\n\n产地条件方面，资料写到海拔1000m至2100m、坡度不超过25°的山地;土壤为砖红壤、砖红性红壤、山地红壤和山地黄壤等;土壤有机质含量不少于1%,pH值4.5至6.0。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-f412787e23c5377e",
+        "sw-source-4fa6c747227675c6"
+      ],
+      "locality": "全省相关产区",
+      "id": "sw-3648dfb11173174a59",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "普洱茶"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "彭州大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "彭州大蒜是与四川·成都·彭州市相联系的地方食材。原料或品种方面，保护要求记载为二水早。",
+      "detail": "彭州大蒜是与四川·成都·彭州市相联系的地方食材。原料或品种方面，保护要求记载为二水早。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蒜头外皮淡紫红色,形状扁圆,整齐,横径3cm至4cm,质地硬实,每个蒜头有8至9瓣。蒜香味浓,辛辣味重。\n\n产地条件方面，资料写到海拔500m至900m,地势平坦,土质疏松,排灌条件良好,pH值6.5至7.5,土壤肥沃,有机质含量不少于2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是蒜苔采收后约20天左右,假茎松软已不易折断时采收,采后至通风避雨处晾贮、后熟。\n\n与原料形成有关的生产记录还包括采收:蒜苔采收后约20天左右,假茎松软已不易折断时采收,采后至通风避雨处晾贮、后熟。",
+      "sources": [
+        "sw-gi-c97a7ca6cd1a8a96"
+      ],
+      "locality": "彭州市",
+      "id": "sw-f888ee390035783850",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "南溪豆腐干",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "南溪豆腐干是与四川·宜宾·南溪区相联系的地方加工食品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "南溪豆腐干是与四川·宜宾·南溪区相联系的地方加工食品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括细腻、柔软、有弹性。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选豆→浸泡、清洗→磨浆→煮浆→过滤→点浆、蹲脑→加压成型→开坯、切料→氽碱→卤制→摆条、烘烤→冷藏→拌料→装袋抽空→杀菌→检验→包装→入库。",
+      "sources": [
+        "sw-gi-367f40d6adc82710"
+      ],
+      "locality": "南溪区",
+      "id": "sw-9a7eb46bb411711a14",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "北川苔子茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "北川苔子茶是与四川·绵阳相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜的当地群体种、鸠坑群体种和名山213、福选9号等中小叶无性系良种。",
+      "detail": "北川苔子茶是与四川·绵阳相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜的当地群体种、鸠坑群体种和名山213、福选9号等中小叶无性系良种。\n\n产地条件方面，资料写到保护区范围内海拔650m至1500m,土壤pH在4.5至6.5之间,黄壤土土层厚度不低于50cm,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是(1)采摘时间:每年2月下旬至6月底。(2)采摘标准:按照各等级茶的要求,手工采摘鲜叶。\n\n与原料形成有关的生产记录还包括无性繁殖的茶园采用扦插育苗,在9月中、下旬进行扦插育苗。每年10月上、中旬选用种苗选用1足龄茶苗进行移栽,采用双行条植,每667m2(亩)不超过7000株。采摘:(1)采摘时间:每年2月下旬至6月底。(2)采摘标准:按照各等级茶的要求,手工采摘鲜叶。",
+      "sources": [
+        "sw-gi-b47d3b782e35fd26"
+      ],
+      "locality": "绵阳相关产区",
+      "id": "sw-e2b12c86e7bd7fdd94",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "双流二荆条辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "双流二荆条辣椒是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为二荆条。",
+      "detail": "双流二荆条辣椒是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为二荆条。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形细长,果顶渐细尖,多数果顶呈J型钩状;纵径15cm至18cm,横径1.0cm至1.2cm,单果重7g至9g;青熟果绿色,老熟果鲜红色,果面较光滑,皮薄,质地细,辣微适中、香味浓。\n\n产地条件方面，资料写到海拔高度445米至550米;地势高燥,排灌方便,土层深厚疏松的微酸黄壤土,pH值6.1至6.8;有机质含量不少于1.5%以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月5日至8月15日,果实变为深红色时,分批及时采收。",
+      "sources": [
+        "sw-gi-4f6af4de24330905"
+      ],
+      "locality": "双流区",
+      "id": "sw-c4c96a026aa1cad721",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "清镇黄粑",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "清镇黄粑是与贵州·贵阳·清镇市相联系的地方米面与糖点。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "清镇黄粑是与贵州·贵阳·清镇市相联系的地方米面与糖点。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求外形粑角端正,捆扎松紧适当,黄粑无外露色泽剥去黄粑叶,黄粑表面黄亮油润,有光泽气味及滋味甜味适中,具有糯米、大豆固有的香味及包裹叶的清香。糯而不烂,去除包裹叶后,不沾手、不稀皮;外形完整、光滑、无裂组织形态纹;切片后组织紧密、细腻,晶莹闪光的糯米粒夹在其中;黄粑内外无杂质,无霉变。",
+      "sources": [
+        "sw-gi-19b8e0f45e9c46de"
+      ],
+      "locality": "清镇市",
+      "id": "sw-1ad75b1045d2aedb9a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "黎平香禾糯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黎平香禾糯是与贵州·黔东南州·黎平县相联系的地方食材。原料或品种方面，保护要求记载为榕禾(侗语ouxyongc),笾须禾(侗语ouxbeens),王禾(侗语ouxweenh),蛙禾(侗语ouxyeel),雷株禾(侗语ouxlixjus)。",
+      "detail": "黎平香禾糯是与贵州·黔东南州·黎平县相联系的地方食材。原料或品种方面，保护要求记载为榕禾(侗语ouxyongc),笾须禾(侗语ouxbeens),王禾(侗语ouxweenh),蛙禾(侗语ouxyeel),雷株禾(侗语ouxlixjus)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求色泽色泽洁白不透明,有光泽气味具有自然的清香味口感蒸煮时浓香四溢,口感绵软香甜、细腻,粘而不腻,回味甘纯。组织形态米粒椭圆形,圆润饱满;饭粒完整、洁白,弹性好,表面有油光,冷凉后仍保持良好口感和柔软度。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括稻谷→筛选→除杂→去石→磁选→打芒→砻谷→谷糙分离→碾米→白米分级→抛光→凉米→色选→检验→包装→贮存销售。\n\n产地条件方面，资料写到选择保护区范围内海拔300m至800m,水源条件好,排灌方便的冷、阴、烂、锈稻田和坡榜梯田种植,土壤主要为黄泥土、石灰土、潮土等。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在10至11月适时收获,将摘下的禾捆成禾把晾晒在禾晾上1个月左右,使水分含量不超过14.5%。",
+      "sources": [
+        "sw-gi-19b8e0f45e9c46de"
+      ],
+      "locality": "黎平县",
+      "id": "sw-bf93c7ae8ad5eafd5a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "虾子辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "虾子辣椒是与贵州·遵义相联系的地方食材。原料或品种方面，保护要求记载为遵椒一、二、三号。",
+      "detail": "虾子辣椒是与贵州·遵义相联系的地方食材。原料或品种方面，保护要求记载为遵椒一、二、三号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)遵椒一号:果为园锥型,果顶尖、钝,果面光滑、果长3至4cm,果宽2cm。青果绿色,老熟果深红色。辣椒干平均单果重1.2g。形状均匀,肉厚质细,果实味中等偏辣。(2)遵椒二号:果为指型,果顶尖,果面光滑、果长5至7cm,果宽1.7cm。青果绿色,老熟果深红色。辣椒干平均单果重1.1g。\n\n产地条件方面，资料写到土壤类型为轻粘土、壤土、砂壤土等,pH值6.5至7.5,要求土层深厚、质地疏松、通透性强,排灌方便,0至20cm耕层有机质含量不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是辣椒果实全红分期采收。",
+      "sources": [
+        "sw-gi-fa7a0c4d6dc8f1b2"
+      ],
+      "locality": "遵义相关产区",
+      "id": "sw-107574c5173ebf0e72",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "东坡泡菜",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "东坡泡菜是与四川·眉山·东坡区相联系的地方调味品。原料或品种方面，保护要求记载为蔬菜等应无腐烂、变质,组织紧密,除叶类蔬菜晒(晾)焉、生产工艺上需进行预处理的原料外,应在采收48h内入容器泡渍,夏季采收的原料应24h内入容器泡渍。",
+      "detail": "东坡泡菜是与四川·眉山·东坡区相联系的地方调味品。原料或品种方面，保护要求记载为蔬菜等应无腐烂、变质,组织紧密,除叶类蔬菜晒(晾)焉、生产工艺上需进行预处理的原料外,应在采收48h内入容器泡渍,夏季采收的原料应24h内入容器泡渍。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：东坡泡菜具有色泽红润光亮,麻、辣、酸、鲜、甜、香,质地脆嫩,咸淡适口,细韧耐嚼、入口香脆、回味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括.即食类泡菜:(1)工艺流程:原辅料验收→原料清整→泡渍发酵→清整切分→脱盐(脱水→脱盐)→真空封袋(盖)→1包装→即食类产品冷链贮存销售2杀菌→包装→即食类产品常温贮存(2)关键质量控制工序:1泡渍发酵:原料在地域保护范围内泡渍发酵。",
+      "sources": [
+        "sw-gi-b02aad81ae08fae2"
+      ],
+      "locality": "东坡区",
+      "id": "sw-6f3c27daaf5b1c902f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉山茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "峨眉山茶是与四川·乐山·市中区、沙湾区、五通桥区、金口河区、犍为县、井研县、夹江县、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市相联系的地方茶或代用茶。",
+      "detail": "峨眉山茶是与四川·乐山·市中区、沙湾区、五通桥区、金口河区、犍为县、井研县、夹江县、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为要求。品种应适应当地的土壤和气候条件,具良好抗性,并经省级以上品种审定委员会审定或经区域试验适宜的四川中小叶种、福鼎大白茶、名山白毫131等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括饱满、明亮、油润、挺直、清香、鲜醇、回甘。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊青→杀青→摊凉→理条→做形→提香→定量装箱入库。\n\n产地条件方面，资料写到海拔高度500m至1500m,土壤类型为黄壤、黄棕壤、紫色土,土壤pH值4.5至6.5,有效土层不低于50cm,有机质含量大于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:每年2月上旬至5月底为采摘期。",
+      "sources": [
+        "sw-gi-b02aad81ae08fae2"
+      ],
+      "locality": "市中区、沙湾区、五通桥区、金口河区、犍为县、井研县、夹江县、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市",
+      "id": "sw-418ad65b00657035d3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "米仓山茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "米仓山茶是与四川·广元·旺苍县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地的中小叶群体种以及从群体种中选育出来的新品种。",
+      "detail": "米仓山茶是与四川·广元·旺苍县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地的中小叶群体种以及从群体种中选育出来的新品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形扁直,色泽翠绿,香气浓郁高长持久、栗香突出、带兰花香,滋味鲜爽醇厚,汤色嫩绿明亮,叶底嫩匀肥厚成朵,耐冲泡。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊青→杀青→摊凉→分筛→做形→初烘→摊凉→滚炒→摊凉→提香→精拣→分级→检验→恒温冷藏→包装。\n\n产地条件方面，资料写到保护区范围内海拔600至1300米,土壤pH值4.5至6.5,坡度在25°以下的山坡地段。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:分春秋两季,分批留叶采摘。",
+      "sources": [
+        "sw-gi-7716411314219ea2"
+      ],
+      "locality": "旺苍县",
+      "id": "sw-cdaaa81441827f1386",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "合川桃片",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "合川桃片是与重庆·合川区相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求。",
+      "detail": "合川桃片是与重庆·合川区相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求。1.糯米:选取保护区生产的,按照无公害食品稻米加工技术规范生产的大粒糯米,其支链淀粉含量占总淀粉含量的百分率不少于99%,可溶性糖含量不少于3%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)软片:色泽洁白,粉质细,组织紧密均匀,有明显的桃仁块;条形完整,片厚不超过1.5mm,大小厚薄均匀,片无粘连。桃片散如展卷,卷裹不断,细腻化渣,香甜爽口,有核桃仁和玫瑰的清香味,有韧性,不粘牙。(2)脆片:色泽微黄,粉质细,组织紧密均匀,肉眼可见桃仁粒。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括生产工艺流程:2.生产操作要点:(1)捂料:精选保护区生产的优质大粒糯米,用热水(50°C至60°C)淘洗约10分钟,捞起沥去水分,加盖捂20分钟后,摊开待用。\n\n产地条件方面，资料写到1.糯米:选取保护区生产的,按照无公害食品稻米加工技术规范生产的大粒糯米,其支链淀粉含量占总淀粉含量的百分率不少于99%,可溶性糖含量不少于3%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cc837dac2c1da6a6"
+      ],
+      "locality": "合川区",
+      "id": "sw-1522cf53cedd524f55",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "奉节脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "奉节脐橙是与重庆·开州区、云阳县、奉节县、巫山县相联系的地方果蔬或干果。",
+      "detail": "奉节脐橙是与重庆·开州区、云阳县、奉节县、巫山县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为早熟系列:凤早脐橙、福本脐橙、纽荷尔脐橙;中熟系列:凤园脐橙;晚熟系列:凤晚脐橙、伦晚脐橙等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：奉节脐橙果实圆球形或半椭圆形,果形大,果皮橙色或深橙色,果皮中厚、油胞细腻光洁,果肉脆嫩化渣、橙香味浓、酸甜爽口。\n\n产地条件方面，资料写到奉节脐橙建园选择区域内长江及其支流流域两岸台阶地,海拔600m以下。巫山、云阳、开州选择在海拔500m以下,要求地势向阳,坡度不超过25°。土壤质地良好,土层深厚、疏松、不渍水。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与存贮奉节脐橙以留树保鲜为主,现采现卖,每年11月开始采收鲜销,直至次年6月初基本采收完毕,采收时采用“一果两剪”法:第一剪离果蒂约1cm处下剪,再齐果蒂剪第二剪,不要伤及果蒂。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "开州区、云阳县、奉节县、巫山县",
+      "id": "sw-a66dd68f9c26b6f270",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "唐元韭黄",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "唐元韭黄是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为西浦韭。",
+      "detail": "唐元韭黄是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为西浦韭。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：假茎呈白色,叶片淡黄色,有光泽。\n\n产地条件方面，资料写到土壤类型为水稻土,土种为油沙田和二油沙田,土壤质地为中壤和重壤,pH值6.5至7.0,有机质含量不少于2.5%,耕作层厚度不少于25cm。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括播种方法采用露地栽培,分直播和育苗移栽。软化:扣棚软化前进行多次培土,每生长6cm至10cm培土一次,最后一次培土要露出韭白6.6cm左右。经过2至3次追肥培土后,当假茎生长到20cm以上,割下韭叶,整理韭菜桩,清除残留枯黄叶片后放置稻草特制的遮光棚,春秋两季遮光软化15天至20天。",
+      "sources": [
+        "sw-gi-190126a494e0139d"
+      ],
+      "locality": "成都相关产区",
+      "id": "sw-2ce3daa1ae1d2ba5cc",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中鲶鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "资中鲶鱼是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为南方大口鲶(SilurussoldatovimeridionalisChen)。",
+      "detail": "资中鲶鱼是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为南方大口鲶(SilurussoldatovimeridionalisChen)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体表浅黄色,有花斑,体表多黏液,头扁口阔,上下颔长有四须,眼球透明饱满,鳃丝颜色鲜艳、清晰,无异味,肌肉紧密有弹性。\n\n产地条件方面，资料写到养殖池塘要求水质清新,溶氧丰富,水体透明度应控制在30cm以上。池塘水深前期宜控制在0.8m至1.2m,中、后期宜达到1.0m至2.0m,高温季节要保持较高的水位。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-aa74738092a30a6a"
+      ],
+      "locality": "资中县",
+      "id": "sw-aee18e5ed17b6028b6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "合江荔枝",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "合江荔枝是与四川·泸州·合江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为大红袍、带绿、陀缇。",
+      "detail": "合江荔枝是与四川·泸州·合江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为大红袍、带绿、陀缇。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大,色鲜红或绿里透红,皮薄核小,果肉晶莹透明,脆嫩化渣、汁多,清香可口,成熟后的果实呈卵型或心脏型,具有独特的果酸味。品种外观口感熟期大红袍果实较大,心形或长心形,果果肉酸甜爽口,微香,尾味微7月下旬皮呈鲜红色涩,质地较细果实较大,为不整齐圆锥形,坨缇果肉浓甜清香,质地脆嫩化渣8月上旬果皮呈红色果实较小。\n\n产地条件方面，资料写到保护区范围内海拔高度210m至450m,土壤类型为冲集沙壤、粘壤,pH值5.5至6.5,表层土壤深度20cm至100cm,机质含量不少于1%以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和运输。1.采收:7月下旬至8月上旬采收,果皮鲜红或淡红时采收。2.运输:工具清洁、无毒、无异味、无污染,通达冷藏包装处理。",
+      "sources": [
+        "sw-gi-8b9f556b0bd8236c",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "合江县",
+      "id": "sw-7d815ca2ff0795214a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "合江荔枝"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "石阡苔茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "石阡苔茶是与贵州·铜仁·石阡县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为主栽品种为石阡苔茶、福鼎、名山、龙井系列等。",
+      "detail": "石阡苔茶是与贵州·铜仁·石阡县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为主栽品种为石阡苔茶、福鼎、名山、龙井系列等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：扁形绿茶,外形自然芽状、稍扁、有毫,绿润,匀整,汤色黄绿、明亮,清香,滋味鲜爽,叶底完整、嫩匀。\n\n产地条件方面，资料写到石阡苔茶栽种区域通常选择,排灌方便,地势较高,土壤酸性、粘砂适度、结构良好,通透性好,表土有机质含量大于1%,土层厚度80cm以上,无污染,集中连片,便于规模化生产的地块。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工或机械采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "石阡县",
+      "id": "sw-99210f856b02eb147e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "乡城松茸",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乡城松茸是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为Tricholomamatsutack(S.ItoetImai)Sing。",
+      "detail": "乡城松茸是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为Tricholomamatsutack(S.ItoetImai)Sing。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：长度不少于3厘米,颜色为白色或浅黄或浅棕或浅褐,菌体粗壮,完整,饱满有弹性。\n\n产地条件方面，资料写到保护区范围内海拔在3200m至4500m的青冈林下的青冈林落叶腐殖质土壤,土壤无污染,pH值5.0至6.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采收时间:为每年8月1日以后。2.采收标准:3厘米以下的童茸不得采收。不采收全开伞以保证种茸预留。",
+      "sources": [
+        "sw-gi-420344d07c7026b5"
+      ],
+      "locality": "乡城县",
+      "id": "sw-cbef4b53ee895574d9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "盐源苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "盐源苹果是与四川·凉山州·盐源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红富士系列、金冠系列。",
+      "detail": "盐源苹果是与四川·凉山州·盐源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红富士系列、金冠系列。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)富士系列:果实长圆形,果面浓红或鲜红,色相片红或条红色。早熟富士系品种(红将军等),果实着色不少于80%;红富士,果实着色不少于80%。果肉黄白色,肉质细,致密,松脆,汁液多,风味独特。(2)金冠系列:果实圆锥形,果面黄色、绿黄色(部分阳面带红晕),果肉黄白色,肉质细,致密,松脆,汁液多,酸甜适中。\n\n产地条件方面，资料写到产地范围内海拔2300至2600米,土壤类型为冲积红壤、山地红壤及紫色土,土壤质地为沙壤、壤土,pH值为6.4至7.2,有机质含量不少于2.1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.富士系列:早熟富士系品种(红将军等)在8月下旬至9月上中旬采收;红富士系品种在9月下旬至10下旬采收。2.金冠系列:8月上旬至9月下旬采收。",
+      "sources": [
+        "sw-gi-38ae2aabc6be0d33"
+      ],
+      "locality": "盐源县",
+      "id": "sw-63ee63860c1b3d4e58",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "蒲江猕猴桃是与四川·成都·蒲江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金艳、红阳。",
+      "detail": "蒲江猕猴桃是与四川·成都·蒲江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金艳、红阳。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大而均匀、果形美观、香甜爽口、硬度大、耐贮藏等特征。指标项目金艳红阳果形美观整齐,呈长圆柱形,果形美观整齐,呈椭圆形或短圆柱形,外观果皮黄褐色,果面有极短的茸果皮绿色或绿褐色,果面无茸毛。毛。果重75-140g60-120g果肉黄色或黄绿色,果心部位有放射状果肉色泽果肉金黄色。鲜红色。\n\n产地条件方面，资料写到产地范围内海拔500至800米,土壤为轻壤土、中壤土、砂壤土,土层厚度在60cm以上,地下水位在1m以下,土壤有机质含量不少于1.0%,pH值为5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是金艳猕猴桃可溶性固形物达9%以上,红阳猕猴桃可溶性固形物达7%以上,即可采收。",
+      "sources": [
+        "sw-gi-a4adaf5629a69a33"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-9b690ffb7ce50c286f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新津黄辣丁",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新津黄辣丁是与四川·成都·新津区相联系的地方食材。原料或品种方面，保护要求记载为黄颡鱼(PelteobagrusfulvidracoRichardson)。",
+      "detail": "新津黄辣丁是与四川·成都·新津区相联系的地方食材。原料或品种方面，保护要求记载为黄颡鱼(PelteobagrusfulvidracoRichardson)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：新津黄辣丁应为活鱼,商品鱼规格不少于75g/尾。项目天然捕捞人工养殖体形匀称、柔软,腹部较平,体色腹部可稍凸,体色黄褐可稍暗淡,个黄褐较鲜亮,个体间大小不一致体间大小基本一致外形特征体长,头大且扁平,吻圆钝;眼小,眼径稍大、侧位。\n\n产地条件方面，资料写到条件。流动水体,水质清新,空气清洁,无污染,其中水体溶氧不少于5mg/l,适宜透明度不少于30cm,pH值7.2至8.5,水源水指标符合国家关于渔业水质的标准。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-a4adaf5629a69a33"
+      ],
+      "locality": "新津区",
+      "id": "sw-5a2fac3f1fbd6398e7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "织金竹荪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "织金竹荪是与贵州·毕节·织金县相联系的地方食材。原料或品种方面，保护要求记载为红托竹荪种(Dictyphorarubrovalvatazang,jietLiou)。",
+      "detail": "织金竹荪是与贵州·毕节·织金县相联系的地方食材。原料或品种方面，保护要求记载为红托竹荪种(Dictyphorarubrovalvatazang,jietLiou)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括肥厚、清香。\n\n采收或收获环节的记录是和加工。1.采收:当竹荪菌裙已经完全张开,孢子胶体开始自溶下淌滴前及时采收。2.干制:竹荪子实体采收清洗干净后应及时在10小时内进行干制加工。采用人工干制法。\n\n与原料形成有关的生产记录还包括栽培材料的准备和加工:(1)栽培材料可以采用阔叶树枝条、竹枝竹叶以及农作物秸杆的混合料进行栽培,不能用含油脂的(针叶树)材料。(2)覆土准备和加工:覆土选用透气性良好的腐质土和偏酸性的土壤。",
+      "sources": [
+        "sw-gi-f08d0fcdd5ba7678"
+      ],
+      "locality": "织金县",
+      "id": "sw-b3d67f4dca704ec784",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "大方漆器",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "大方漆器是与贵州·毕节·大方县相联系的地方工艺物品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "大方漆器是与贵州·毕节·大方县相联系的地方工艺物品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：质地轻巧、纻漆牢固、漆面温润、含蓄内敛、装饰精美,时尚大方。布胎、皮胎准许在适当压力下发生3至5毫米变形。",
+      "sources": [
+        "sw-gi-8bebb3b89632b228"
+      ],
+      "locality": "大方县",
+      "id": "sw-cdd71794b3301640d2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "富顺香辣酱",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "富顺香辣酱是与四川·自贡·富顺县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "富顺香辣酱是与四川·自贡·富顺县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈红褐色、油润光亮、馥郁芳香、香气悦人、质地粘糍、口感细腻、爽辣可口,回味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括工艺流程:(1)辣椒酱(糍粑海椒):辣椒→清洗整理→预煮→捣制醒发(2)酱油:小黄豆→特殊酿造→多种香辛料萃取→煮沸→冷却(3)富顺香辣酱:辣椒酱+酱油+熟菜油等→调配→搅拌醒发→灭菌→灌装。\n\n采后处理的资料记载为工艺流程:(1)辣椒酱(糍粑海椒):辣椒→清洗整理→预煮→捣制醒发(2)酱油:小黄豆→特殊酿造→多种香辛料萃取→煮沸→冷却(3)富顺香辣酱:辣椒酱+酱油+熟菜油等→调配→搅拌醒发→灭菌→灌装2.工艺要点:(1)预煮:采用保护区内的地下水,温度90°C至100°C。",
+      "sources": [
+        "sw-gi-d6985c22f830cd90"
+      ],
+      "locality": "富顺县",
+      "id": "sw-523c9d01ecbeaf5e40",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "炉霍雪域俄色茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "炉霍雪域俄色茶是与四川·甘孜州·炉霍县相联系的地方茶或代用茶。",
+      "detail": "炉霍雪域俄色茶是与四川·甘孜州·炉霍县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为变叶海棠〔Malustoringoides(Rehd.)Hughes)〕。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：形似针松,其味清香甘洌,回味悠长,色泽淡雅宜人。外形芽叶细嫩弯曲,色泽嫩绿光润,整碎匀整。内质清香持久,汤色嫩绿、清澈明亮,滋味鲜爽甘醇,叶底嫩绿匀整、有光泽。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊青→杀青→初揉→烘(炒)二青→复揉、解决→炒三青→烘干(足火)。\n\n产地条件方面，资料写到保护区范围内海拔3000m至3500m,土壤类型为山地褐色土,土壤pH值4.5至6.0,有效土层不少于50cm,土壤有机质不少于15%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:每年4月中旬至6月底。",
+      "sources": [
+        "sw-gi-d6985c22f830cd90"
+      ],
+      "locality": "炉霍县",
+      "id": "sw-ec418dfc14567cfe9c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "都匀毛尖茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "都匀毛尖茶是与贵州·黔南州·都匀市、福泉市、荔波县、贵定县、瓮安县、独山县、平塘县、罗甸县、长顺县、龙里县、惠水县相联系的地方茶或代用茶。",
+      "detail": "都匀毛尖茶是与贵州·黔南州·都匀市、福泉市、荔波县、贵定县、瓮安县、独山县、平塘县、罗甸县、长顺县、龙里县、惠水县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为黔南州地方茶树群体种或其他适宜茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：条索紧细卷曲、白毫显露,汤色黄绿明亮,香气以嫩香、栗香、清香为主,滋味鲜醇、叶底黄绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括手工加工工艺:茶青分级→摊青→杀青→揉捻→做形→提毫→烘焙足干。\n\n产地条件方面，资料写到产地范围内海拔600~1500m为宜,土壤有机质含量不少于1.5%,土壤pH值4.0~6.5。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "都匀市、福泉市、荔波县、贵定县、瓮安县、独山县、平塘县、罗甸县、长顺县、龙里县、惠水县",
+      "id": "sw-185decd5a299f84971",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "西昌洋葱",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西昌洋葱是与四川·凉山州·西昌市相联系的地方食材。原料或品种方面，保护要求记载为紫皮类型品种。",
+      "detail": "西昌洋葱是与四川·凉山州·西昌市相联系的地方食材。原料或品种方面，保护要求记载为紫皮类型品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鳞茎形状呈扁圆形至圆球形、颜色紫红、表皮光滑、光泽度好、结构紧密、辛辣味浓。\n\n产地条件方面，资料写到土壤类型为紫色冲积土,质地沙壤,土壤有机质不少于1.8%,土壤pH值6.5至6.9。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在3月下旬至5月下旬收获。假茎倒伏,叶片开始枯萎,外层鳞片呈革质状时即可采收。收获前10天揭膜,选晴天采收,在田间自然晾晒1天。\n\n与原料形成有关的生产记录还包括定植:苗龄为50天,葱苗3至5片叶移栽。定植时间为10月1日至10月30日。定植密度不超过30万株/hm2,定植深度为3cm,采用黑色地膜覆盖。收获前7天停止灌水。",
+      "sources": [
+        "sw-gi-a87dce438f099302"
+      ],
+      "locality": "西昌市",
+      "id": "sw-9827da24b21cfcd7b8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹香椿",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大竹香椿是与四川·达州·大竹县相联系的地方食材。原料或品种方面，保护要求记载为当地地方品种“红香椿”。",
+      "detail": "大竹香椿是与四川·达州·大竹县相联系的地方食材。原料或品种方面，保护要求记载为当地地方品种“红香椿”。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：叶面光滑、大小均匀一致、有主芽,嫩芽及叶柄粗壮、色泽鲜亮、呈棕红色。脆嫩多汁、少渣、爽口、味甜、无苦涩味、香味浓郁。\n\n产地条件方面，资料写到土壤种类为紫色土、土壤质地为沙壤,土层厚度不少于50cm,土壤有机质含量不少于1.5%,土壤pH值5.5至8.0。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括定植:苗高不少于80cm、基干粗不少于0.8cm时定植。密度为每公顷不超过3330株,2月上旬定植。香椿矮化措施:控制树势,抑制顶芽,促进侧芽生长。",
+      "sources": [
+        "sw-gi-a87dce438f099302"
+      ],
+      "locality": "大竹县",
+      "id": "sw-d1a4dbead7300cae5f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "雷波脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "雷波脐橙是与四川·凉山州·雷波县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、奈维林娜。",
+      "detail": "雷波脐橙是与四川·凉山州·雷波县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、奈维林娜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实特大、果形美观、皮薄光滑、糖酸比高、鲜甜可口、汁液丰富、具有浓郁蜂蜜味的独特品质。\n\n产地条件方面，资料写到保护区范围内海拔381m至900m,土壤类型为红壤、紫色土、新冲积土;土壤质地为砂土,土质疏松,通透性好;土层厚度40cm以上,土壤pH值6至8.2,土壤有机质含量不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收时间为每年11月20日后,以果面全面着色为标准。\n\n与原料形成有关的生产记录还包括种苗繁育:以枳、红桔、香橙等为砧木嫁接繁殖。栽植:春季定植:1月下旬至2月下旬萌芽前进行。秋季定植:9月下旬至10月上旬进行。营养袋苗可四季定植。定植密度:每公顷栽植株数不超过1200株。",
+      "sources": [
+        "sw-gi-a87dce438f099302"
+      ],
+      "locality": "雷波县",
+      "id": "sw-ccc2bfc269ef7c64c6",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "稻城藏香猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "稻城藏香猪是与四川·甘孜州·稻城县相联系的地方食材。原料或品种方面，保护要求记载为藏猪。",
+      "detail": "稻城藏香猪是与四川·甘孜州·稻城县相联系的地方食材。原料或品种方面，保护要求记载为藏猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色泽:鲜肉肌肉有光泽、肉色鲜红、均匀,脂肪乳白色,且有透明状;冻肉肌肉有光泽、肉色鲜红或稍暗,脂肪白色。(2)组织状态:鲜肉肉皮厚,脂肪层薄,肉质纤维清晰,有坚韧性,指压后凹陷立即恢复;冻肉肉质紧密,有坚韧性,解冻后指压凹陷恢复缓慢。(3)粘度:鲜肉外表湿润,不粘手;冻肉外表湿润,切面有渗出液,不粘手。",
+      "sources": [
+        "sw-gi-a87dce438f099302"
+      ],
+      "locality": "稻城县",
+      "id": "sw-45e1ece8f0c6812b18",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "宜宾酒是与四川·宜宾相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:质量符合国家高粱标准要求。",
+      "detail": "宜宾酒是与四川·宜宾相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:质量符合国家高粱标准要求。2.大米:质量符合国家大米标准要求。3.糯米:质量符合国家糯米标准要求。4.小麦:质量符合国家小麦标准要求。5.玉米:质量符合国家玉米标准要求。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色泽和外观:无色或微黄,清亮透明,无悬浮物,无沉淀。当酒温低于10°C时,允许出现白色絮状沉淀物质或失光。(2)香气:具有以己酸乙酯为主体的多粮复合香气。(3)口味:酒体醇厚丰满,绵甜柔顺,余味爽净,酒味全面。(4)风格:具有本品典型的风格。",
+      "sources": [
+        "sw-gi-1e4d54df69b35a1f"
+      ],
+      "locality": "宜宾相关产区",
+      "id": "sw-8539ba6de3aed94d43",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "犍为茉莉花茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "犍为茉莉花茶是与四川·乐山·犍为县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为双瓣茉花清溪种。",
+      "detail": "犍为茉莉花茶是与四川·乐山·犍为县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为双瓣茉花清溪种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：级别条索整碎净度色泽香气滋味汤色叶底芽形完整熟香鲜灵鲜浓醇清澈黄银芽匀整匀净嫩黄绿芽形饱满紧实韵味幽长厚亮熟香味紧细披毫淡黄明银毫匀整净黄绿润浓,鲜醇嫩匀显峰苗亮韵味显露浓尚鲜,紧细有峰黄绿尚淡黄尚特级较匀较净有熟香韵尚鲜醇绿黄明亮苗润亮味。\n\n产地条件方面，资料写到岷江、马边河冲积(洪积)形成的平坝和台地。土层厚度不少于40cm,pH值6.0至7.5,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年6月至9月,每日午后采摘。",
+      "sources": [
+        "sw-gi-9848491b122ee168"
+      ],
+      "locality": "犍为县",
+      "id": "sw-f9322af3db88de5bbb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "会理黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "会理黑山羊是与四川·凉山州·会理市相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "会理黑山羊是与四川·凉山州·会理市相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：商品羊毛色纯黑,体型健壮、体质结实、结构匀称。羊肉肉质细嫩、膻味轻,肌肉呈红色,有光泽,脂肪白色或淡黄色,肌纤维致密。煮沸后肉汤汤清透明,脂肪团聚于表面。\n\n与原料形成有关的生产记录还包括高床养殖:所有羊只实施高床养殖,高床上设置翻转式食槽和饮水槽。分群饲养:按种公羊、产仔母羊、后备羊、育肥羊实行分群分栏饲养,分类管理。商品羊12至18月龄,体重达30千克以上经检疫合格方可出栏销售。",
+      "sources": [
+        "sw-gi-9848491b122ee168"
+      ],
+      "locality": "会理市",
+      "id": "sw-8414d465478aa0f59a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中血橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "资中血橙是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为塔罗科(Tarocco)。",
+      "detail": "资中血橙是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为塔罗科(Tarocco)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮鲜亮,呈浅紫红色,皮脆、薄、光滑;果肉脆嫩、化渣,有紫红色血丝,有玫瑰香味。\n\n产地条件方面，资料写到土壤类型属紫色土类,土壤质地为壤土或沙质壤土,土层深度60cm以上,土壤pH值5.5至7,有机质含量不少于1.2%。地下水位低于100cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时期。12月下旬至次年3月。\n\n与原料形成有关的生产记录还包括苗木:采用香橙为砧木,在优良母本树上采集接穗进行嫁接繁殖。定植:(1)时间:春季在2月中下旬至秋季10月中旬,容器育苗和带土移栽不受季节限制。修剪:实行冬季修剪与夏、秋季修剪相结合,保证树冠通风透光。",
+      "sources": [
+        "sw-gi-9848491b122ee168"
+      ],
+      "locality": "资中县",
+      "id": "sw-403e5d3b3a11ea04fe",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴义饵块粑",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "兴义饵块粑是与贵州·黔西南州·兴义市相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求。",
+      "detail": "兴义饵块粑是与贵州·黔西南州·兴义市相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求。大米选取保护区生产的老红香晚粳米。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形端正,呈椭圆形枕头状;色泽白亮,呈半透明状;口感略粘,滑腻爽口、清香微甜,软硬适中,筋道有弹性;组织紧密,细腻光滑、柔韧不易断,久煮不烂。\n\n产地条件方面，资料写到大米选取保护区生产的老红香晚粳米。(二)生产工艺要求。1.主要工艺流程:原料米→除杂→淘洗浸泡→蒸制→摊凉→蒸制→舂打→搓揉成型→冷却→真空包装→灭菌→包装。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-ecc3e9f7541b0699"
+      ],
+      "locality": "兴义市",
+      "id": "sw-124d4099add7f62f11",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "万州红桔(万县红桔)",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "万州红桔(万县红桔)是与重庆·万州区相联系的地方食材。原料或品种方面，保护要求记载为大红袍。",
+      "detail": "万州红桔(万县红桔)是与重庆·万州区相联系的地方食材。原料或品种方面，保护要求记载为大红袍。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实扁圆形、果皮鲜橙红色、果肉橙红色、细嫩化渣、汁多味浓。\n\n产地条件方面，资料写到保护区范围内海拔不超过400m,土壤类型为灰棕紫泥土,土壤质地为沙壤,土壤有机质含量不少于1.0%,土壤pH值5.5至6.5,土层深厚不少于1m,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实固形物含量达到11%以上时开始采收。\n\n与原料形成有关的生产记录还包括苗木繁育:以红桔或枳为砧木进行嫁接繁殖。定植:春季定植时间为2月下旬至3月底,秋季为9月中旬至11月中旬,每公顷定植株数不超过750株。水分管理:成熟前一个月内不得灌水。",
+      "sources": [
+        "sw-gi-120efcfcc1e34611"
+      ],
+      "locality": "万州区",
+      "id": "sw-85455a5abe88b49601",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "保山小粒咖啡",
+      "type": "drinks",
+      "kind": "地方咖啡",
+      "description": "保山小粒咖啡是与云南·保山相联系的地方咖啡。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "保山小粒咖啡是与云南·保山相联系的地方咖啡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求颗粒均匀饱满有光泽,无破损、干瘪;颜色为浅蓝色或浅绿色,气味清新无外观异味。感官香气浓郁,口感醇厚,具有浓而不烈,略带果酸味的特性。粒径不少于5.5mm。\n\n产地条件方面，资料写到保护区范围内海拔1000米至1500米;土壤为砖红壤、燥红壤、砂壤和黄壤等;土层厚度不少于60cm,地下水位1米以下;土壤pH值5.5至6.5。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗与定植:保山小粒咖啡于3月至7月播种育苗,当苗高不少于30厘米时定植,定植密度每公顷5000至6000株。鲜果采摘:4月中旬前采摘,人工采摘植株上正常成熟的鲜红果实。",
+      "sources": [
+        "sw-gi-285f512616b642fa"
+      ],
+      "locality": "保山相关产区",
+      "id": "sw-c3ce801ae40bc31982",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "西充二荆条辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西充二荆条辣椒是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为二荆条。",
+      "detail": "西充二荆条辣椒是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为二荆条。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲜红椒椒果细长,果长15cm至18cm,横茎1.0cm至1.2cm,单果重5g至10g,肉质脆嫩,辣味适中;干椒红亮,皮薄籽少,味香醇。\n\n产地条件方面，资料写到土壤类型为紫色土,土壤质地为壤土或者砂壤土,土壤pH值6.5至7.5;有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月中旬至9月下旬,果实全红完全达到生理成熟时采收;干椒为鲜红椒自然或人工干制至含水量不超过14%。\n\n与原料形成有关的生产记录还包括定植:(1)轮作。3月下旬至4月中旬定植,(3)密度。",
+      "sources": [
+        "sw-gi-781211ae8f6219ec"
+      ],
+      "locality": "西充县",
+      "id": "sw-9e217c1c8782564076",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "筠连苦丁茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "筠连苦丁茶是与四川·宜宾·筠连县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为木樨科紫荆女贞和序梗女贞。",
+      "detail": "筠连苦丁茶是与四川·宜宾·筠连县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为木樨科紫荆女贞和序梗女贞。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形条索紧细,色泽翠绿,汤色翠绿明亮,滋味微苦回甘,叶底嫩绿明亮,冲泡后,茶叶鲜活完整。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊青→杀青→揉捻→毛火烘焙→二次揉捻→足火烘焙→包装→成品。\n\n产地条件方面，资料写到保护范围内海拔500m至1200m的山地。黄壤类、黄棕壤类土壤,pH值4.5至6.5,土层厚度不少于55cm,有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年二月至四月,上午露水干后摘茶,嫩度要求在一芽二叶以内或初展。",
+      "sources": [
+        "sw-gi-781211ae8f6219ec"
+      ],
+      "locality": "筠连县",
+      "id": "sw-8c855d8e6d7080cc9b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "丹寨硒锌米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "丹寨硒锌米是与贵州·黔东南州·丹寨县相联系的地方食材。原料或品种方面，保护要求记载为以滇屯502系列为代表的软香型籼稻品种。",
+      "detail": "丹寨硒锌米是与贵州·黔东南州·丹寨县相联系的地方食材。原料或品种方面，保护要求记载为以滇屯502系列为代表的软香型籼稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒细长,蒸煮时,饭粒完整,饭味清香,油润软滑,冷后不回生。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括稻谷→筛选→去石→磁选→砻谷→谷糙分离→碾米→去碎米→色选→抛光→检验→包装。\n\n产地条件方面，资料写到保护区范围内海拔800至1200米之间,土壤有机质含量不少于3%,土壤pH值5.5至7.5,土壤中硒的克拉克值为0.40×10-6至。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是收获期为9月中旬,实粒充分黄熟后及时收获,分品种单收单脱,脱粒扬净后晒干贮存。",
+      "sources": [
+        "sw-gi-3de6096e41ff2c18"
+      ],
+      "locality": "丹寨县",
+      "id": "sw-f8688ca83b4fa836bb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "清镇酥李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "清镇酥李是与贵州·贵阳·清镇市相联系的地方食材。原料或品种方面，保护要求记载为五月鲜、香蕉李、金蜜李、秋李等。",
+      "detail": "清镇酥李是与贵州·贵阳·清镇市相联系的地方食材。原料或品种方面，保护要求记载为五月鲜、香蕉李、金蜜李、秋李等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮淡黄色,皮薄肉厚,味甜汁多、酥脆离核;有芳香味、微带苦涩味,单果重不少于25g。\n\n产地条件方面，资料写到选择壤土、砂壤土,土壤pH值5.5至6.5,土层厚度不少于60cm,土壤有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是开始采收时间:早熟品种6月上旬,中熟品种7月中旬,晚熟品种8月下旬,分批采收。\n\n与原料形成有关的生产记录还包括育苗:以毛桃为砧木嫁接繁育苗。定植:(1)时间:12月20日至翌年2月5日。(2)密度:每公顷园地种植不超过900株。整形修剪:冬季修剪与夏季修剪相结合,保证树冠通风。",
+      "sources": [
+        "sw-gi-f966a0966594fe57"
+      ],
+      "locality": "清镇市",
+      "id": "sw-f4ab7aad6dc70eedcb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "达州橄榄油",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "达州橄榄油是与四川·达州·通川区、宣汉县、开江县、大竹县、万源市相联系的地方食材。",
+      "detail": "达州橄榄油是与四川·达州·通川区、宣汉县、开江县、大竹县、万源市相联系的地方食材。原料或品种方面，保护要求记载为豆果、软阿斯、贝拉、截风龙、科拉蒂、佛奥、贺吉、卡林、莱星、小苹果、配多灵、皮削利、皮瓜尔13个适生优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：黄绿、清澈透明,具有橄榄油固有的气味和滋味。\n\n产地条件方面，资料写到保护区内海拔不超过800米,以紫色土褐红壤为主,土壤pH值6.3至7.5,土壤中矿物质营养丰富。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年的10至11月进行人工采摘,按先熟先摘,不熟不摘的原则进行采收。\n\n与原料形成有关的生产记录还包括苗木繁育:采用温床扦插育苗,穗条选用硬枝穗条和嫩枝穗条扦插,以硬枝穗条扦插为主。定植:在每年的11至12月进行扦插,次年的3至4月进行移栽(营养钵),来年的1至2月进行山地栽植,每亩定植数40株。",
+      "sources": [
+        "sw-gi-6c90bd73c66243a8"
+      ],
+      "locality": "通川区、宣汉县、开江县、大竹县、万源市",
+      "id": "sw-85d5650f56ae5c49df",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蜀锦",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "蜀锦是与四川·成都·青羊区、金牛区、双流区相联系的地方器物与工艺原料。",
+      "detail": "蜀锦是与四川·成都·青羊区、金牛区、双流区相联系的地方器物与工艺原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蜀锦织品经纬比例恰当,图案清晰,色彩丰富,花型饱满,工艺精美。蜀锦分为经锦和纬锦两大类。以多重彩经起花的蜀锦为经锦,以多重彩纬起花的蜀锦为纬锦。经锦工艺是蜀锦独有的。蜀锦成品颜色至少5种。",
+      "sources": [
+        "sw-gi-d1cf2af1908977c1"
+      ],
+      "locality": "青羊区、金牛区、双流区",
+      "id": "sw-4024900ff82cfa2fea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "平武核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "平武核桃是与四川·绵阳·平武县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地地方品种乌米子及适生的中晚熟品种。",
+      "detail": "平武核桃是与四川·绵阳·平武县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地地方品种乌米子及适生的中晚熟品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果近圆形,缝合线平,壳纹较浅,内褶壁不发达,易剥壳,能取整仁或半仁,种仁乳白或淡黄白色,饱满,出仁率高,风味香浓,涩味淡。\n\n产地条件方面，资料写到保护区范围内海拔600m至1500m,土壤类型为黄壤、黄棕壤,土壤质地为沙壤土、壤土。土壤pH值6.5至7.5,土壤有机质含量不少于1%,土层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是、加工及贮藏。1.采收时期:青果皮由绿变黄,部分果皮顶部开裂,内褶壁变黑后分批采收。2.加工:(1)脱除青果皮:采用堆沤脱皮法或机械脱皮法脱除青果皮,不得使用药剂脱皮法。",
+      "sources": [
+        "sw-gi-90f901c5c2375fb2"
+      ],
+      "locality": "平武县",
+      "id": "sw-eda0677281985f1085",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "丹棱冻粑",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "丹棱冻粑是与四川·眉山·丹棱县相联系的地方米面与糖点。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "丹棱冻粑是与四川·眉山·丹棱县相联系的地方米面与糖点。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形整齐,无破损,粑体表面细润,气孔均匀,粉质细腻,组织松软,味糯滋润、清香爽滑、入口化渣。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括浸泡→磨浆→发酵→配料→成型→蒸制→凉粑→成品。",
+      "sources": [
+        "sw-gi-90f901c5c2375fb2"
+      ],
+      "locality": "丹棱县",
+      "id": "sw-beaaf8a445d4728cd2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉山雪魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "峨眉山雪魔芋是与四川·乐山·峨眉山市相联系的地方食材。原料或品种方面，保护要求记载为花魔芋。",
+      "detail": "峨眉山雪魔芋是与四川·乐山·峨眉山市相联系的地方食材。原料或品种方面，保护要求记载为花魔芋。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：方块形,呈蜂窝状,表面平整,富有弹性,气泡大小基本均匀;经水浸泡后,口感细腻,富有弹性,味道鲜美。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括清洗去皮→切片→干制→粉碎分离。\n\n产地条件方面，资料写到保护区内海拔500m至1500m,土壤质地为壤土或砂壤土,土壤有机质含量不少于1.5%,土壤pH值6.0至6.8。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是植株枯黄倒苗后15d至30d开始采收,采收应在晴天进行。(二)魔芋粉加工。",
+      "sources": [
+        "sw-gi-90f901c5c2375fb2"
+      ],
+      "locality": "峨眉山市",
+      "id": "sw-c46eb6a69888ebd8d7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "福洪杏",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "福洪杏是与四川·成都·青白江区相联系的地方食材。原料或品种方面，保护要求记载为当地原生黄杏品种。",
+      "detail": "福洪杏是与四川·成都·青白江区相联系的地方食材。原料或品种方面，保护要求记载为当地原生黄杏品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果面金黄或橙红色,阳面有红晕;果肉金黄,肉质细嫩多汁,酸甜爽口。\n\n产地条件方面，资料写到土壤类型为棕紫泥土、红紫泥土,土层厚度不少于50cm,土壤质地为砂壤或壤土,土壤有机质含量不少于2.0%,地下水位1.5m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是5月中旬至6月上旬采收。\n\n与原料形成有关的生产记录还包括育苗:以毛桃、杏本砧为砧木嫁接繁殖。定植:定植时间10月中旬至11月下旬和次年2月。",
+      "sources": [
+        "sw-gi-90f901c5c2375fb2",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "青白江区",
+      "id": "sw-06b7083107d245663b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "青白江福洪杏"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "会东松籽",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "会东松籽是与四川·凉山州·会东县相联系的地方食材。原料或品种方面，保护要求记载为华山松。",
+      "detail": "会东松籽是与四川·凉山州·会东县相联系的地方食材。原料或品种方面，保护要求记载为华山松。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外种皮黑褐色,有光泽;内种皮浅黄褐色;果仁白色,颗粒均匀光滑饱满无皱痕,洁净、粒大。\n\n产地条件方面，资料写到保护区范围内海拔高度为2000m至2800m,土层厚度大于60cm,土壤质地沙壤、壤土,土壤pH值6至6.5,土壤有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是最佳成熟时间为每年农历八月十五后,一个月内采摘完毕。",
+      "sources": [
+        "sw-gi-90f901c5c2375fb2"
+      ],
+      "locality": "会东县",
+      "id": "sw-136964e96c3f407642",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "旧院黑鸡蛋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "旧院黑鸡蛋是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为当地黑鸡。",
+      "detail": "旧院黑鸡蛋是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为当地黑鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蛋壳颜色为青色或浅褐色,坚韧厚实,表面光滑富有光泽;蛋白清澈粘稠,蛋黄呈橘黄色或橙红色。\n\n与原料形成有关的生产记录还包括饲养方式:白天放养,夜晚入舍,早晚补饲。饲养密度:产蛋期散养区100只至200只/667m2(亩),舍内5只/m2。",
+      "sources": [
+        "sw-gi-f5305eaa3786b98f"
+      ],
+      "locality": "万源市",
+      "id": "sw-1cde116100e1219c7b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "溪芝鹅",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "溪芝鹅是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为四川白鹅。",
+      "detail": "溪芝鹅是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为四川白鹅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：宰后皮肤紧凑有弹性,呈白色,喙、蹠、蹼部呈橘黄色。肉质鲜美,不油腻、无腥味、肌肉结实、有嚼劲。",
+      "sources": [
+        "sw-gi-f5305eaa3786b98f"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-97d9b5e64cb24d6503",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "简阳羊肉",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "简阳羊肉是与四川·成都·简阳市相联系的地方食材。原料或品种方面，保护要求记载为保护区域内的地方品种山羊。",
+      "detail": "简阳羊肉是与四川·成都·简阳市相联系的地方食材。原料或品种方面，保护要求记载为保护区域内的地方品种山羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉质鲜嫩、肥瘦相间、膻味小,熟肉具有清香之味。\n\n采收或收获环节的记录是加工。1.屠宰环境要求:在符合国家相关要求的屠宰厂屠宰。2.胴体要求:8月龄羔羊胴体重不小于10kg,成年羊胴体重不小于15kg。\n\n与原料形成有关的生产记录还包括舍饲饲养:哺乳阶段羔羊随母羊舍饲饲养,每只母羊的占栏面积不小于3m2。羔羊从15日龄开始补饲优质青干草和混合精饲料。放牧饲养:羔羊2至3月龄断奶后,采用放牧方式。",
+      "sources": [
+        "sw-gi-74f99767ed140e1f"
+      ],
+      "locality": "简阳市",
+      "id": "sw-050cafbafb3d52a5ee",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江挂面(中江手工挂面)",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "中江挂面(中江手工挂面)是与四川·德阳·中江县相联系的地方面食与米制点心。",
+      "detail": "中江挂面(中江手工挂面)是与四川·德阳·中江县相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：洁白、细如银丝,均匀光滑,体内有微孔。煮熟后柔软、久煮不糊,不粘牙。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括加工时间限定为每年10月初到次年4月底。",
+      "sources": [
+        "sw-gi-2e80b21d10fc6587"
+      ],
+      "locality": "中江县",
+      "id": "sw-38075090f2d7749a51",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "道明竹编",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "道明竹编是与四川·成都·崇州市相联系的地方工艺物品。原料或品种方面，保护要求记载为种源。",
+      "detail": "道明竹编是与四川·成都·崇州市相联系的地方工艺物品。原料或品种方面，保护要求记载为种源。慈竹[Sinocalmusaffinis(Rendle)Mcclure]。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽柔和,编织紧密、均匀;平面光滑、手感无毛刺;图案完整、清楚;无脱落、无断丝、无缺丝、无锯齿、无破裂;首尾衔接紧密、修边光平。(1)平面竹编、立体竹编:经纬比例恰当、图案清晰、层次分明,色彩丰富。(2)瓷胎竹编:竹篾细、紧贴胎、密藏头。\n\n产地条件方面，资料写到保护区范围内海拔1000m以下,土地类型砂壤土和壤质土,土壤pH值5.4至7.5,土壤有机质含量不少于2.7%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-2e80b21d10fc6587"
+      ],
+      "locality": "崇州市",
+      "id": "sw-a5adb5245c83df1e9b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "白龙湖银鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "白龙湖银鱼是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为大银鱼(HemisalanxprognathusRegan)。",
+      "detail": "白龙湖银鱼是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为大银鱼(HemisalanxprognathusRegan)。太湖短吻银鱼(俗称小银鱼)(Neosalanxtaihuensis)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)冷冻银鱼:颜色洁白,个体饱满,肉质细嫩。(2)银鱼干:呈半透明银白色,肉质细嫩,味道鲜美。\n\n采收或收获环节的记录是1.时间:9月中旬至11月初。2.网具:拉网、刺网。3.规格:大银鱼不少于14cm;太湖短吻银鱼不少于6cm。",
+      "sources": [
+        "sw-gi-2e80b21d10fc6587"
+      ],
+      "locality": "青川县",
+      "id": "sw-9c211ac73b4f78ad40",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "广元橄榄油",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "广元橄榄油是与四川·广元·利州区、朝天区、旺苍县、青川县、剑阁县、苍溪县相联系的地方食材。",
+      "detail": "广元橄榄油是与四川·广元·利州区、朝天区、旺苍县、青川县、剑阁县、苍溪县相联系的地方食材。原料或品种方面，保护要求记载为佛奥(Frantoio)、科拉蒂(Cortina)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目初榨橄榄油指标色泽淡黄微绿气味滋味有明显的果香味,口感爽滑,有淡淡的苦味或辛辣味透明度澄清透明。\n\n产地条件方面，资料写到保护区范围内海拔500m至800m,土壤类型为淋溶性褐土、砾质砂土和石渣子土,土壤pH值7至8.8,有机质含量不少于2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是10至11月人工分品种采收,要求果皮完好,果色为黄绿到紫黑色。",
+      "sources": [
+        "sw-gi-2e80b21d10fc6587"
+      ],
+      "locality": "利州区、朝天区、旺苍县、青川县、剑阁县、苍溪县",
+      "id": "sw-52009479f51b12e9fc",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂紫薯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂紫薯是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为川紫薯4号等紫甘薯类型品种。",
+      "detail": "金堂紫薯是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为川紫薯4号等紫甘薯类型品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薯块纺锤形,薯皮光滑;质地细腻,薯肉紫色,色泽均匀;生食香脆可口,熟食松软柔滑。\n\n产地条件方面，资料写到保护区范围内海拔410m至500m。土壤类型为棕紫泥沙土,质地为沙壤,土壤有机质含量不少于1.2%,钾含量不少于126mg/kg,耕作层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是于9月上旬至10月上旬,鲜薯淀粉含量不少于20%时,选择晴天收获。\n\n与原料形成有关的生产记录还包括收获:于9月上旬至10月上旬,鲜薯淀粉含量不少于20%时,选择晴天收获。",
+      "sources": [
+        "sw-gi-53394f483925223b"
+      ],
+      "locality": "金堂县",
+      "id": "sw-ef6a010e968de557f3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "昭化韭黄",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "昭化韭黄是与四川·广元相联系的地方食材。原料或品种方面，保护要求记载为宽叶韭。",
+      "detail": "昭化韭黄是与四川·广元相联系的地方食材。原料或品种方面，保护要求记载为宽叶韭。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：假茎长不少于20cm,呈白色,叶片淡黄色,有光泽,总株长不少于45cm。味浓,质脆。\n\n产地条件方面，资料写到土壤类型为棕紫土壤,土壤质地为砂壤土,有机质含量不少于1.5%。土壤pH值5.0至7.0。耕层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括定植:苗高18cm至20cm时定植。每公顷定植株数不超过390000株。采用沟栽,定植16cm至20cm。",
+      "sources": [
+        "sw-gi-53394f483925223b"
+      ],
+      "locality": "广元相关产区",
+      "id": "sw-701061bb84580a1be0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "德阳酱油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "德阳酱油是与四川·德阳·旌阳区相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:蛋白质含量42%至50%。",
+      "detail": "德阳酱油是与四川·德阳·旌阳区相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:蛋白质含量42%至50%。2.小麦:采用保护范围内生产的优质小麦。3.水:保护范围内的饮用水。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体态清亮,色泽鲜亮,挂壁,深红棕色,无沉淀,酱、酯香气浓郁、口感鲜美醇厚,余味绵长,咸甜适口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料蒸煮:用加压蒸煮工艺。经蒸煮的大豆,组织变柔软,色呈淡褐,有熟豆香气,手感绵软。(3)固稀发酵:发酵池加入18波美度盐水,加入成曲进行翻拌,管理过程中日晒夜露,前10天每天翻一次,以后可隔天一次,发酵时间6个月。",
+      "sources": [
+        "sw-gi-53394f483925223b"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-d8442db36dca585a91",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "崇阳酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "崇阳酒是与四川·成都·崇州市相联系的地方酒。原料或品种方面，保护要求记载为要求。",
+      "detail": "崇阳酒是与四川·成都·崇州市相联系的地方酒。原料或品种方面，保护要求记载为要求。1.酿酒原料:(1)高粱:淀粉含量大于60%的糯红高粱,质量符合国家标准要求。(2)水:保护区域范围内,深度大于50m的地下水,质量符合国家生活饮用水标准要求。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目优级色泽和外观无色(或微黄),清澈透明,无悬浮物,无沉淀香气浓、清、药香气馥郁、典雅口味醇厚绵甜、香味谐调、余味舒爽风格具有本品独特的风格当酒的温度低于10°C时,允许出现白色絮状沉淀物质或失光。10°C以上时应逐渐恢复正常。\n\n产地条件方面，资料写到1.酿酒原料:(1)高粱:淀粉含量大于60%的糯红高粱,质量符合国家标准要求。(2)水:保护区域范围内,深度大于50m的地下水,质量符合国家生活饮用水标准要求。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-c1c397f40c7f87b6"
+      ],
+      "locality": "崇州市",
+      "id": "sw-f42e51180f869ed65a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "东兴椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "东兴椒是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地传统朝天椒品种。",
+      "detail": "东兴椒是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地传统朝天椒品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜辣椒:果实鲜红色,果实纵径5cm至6cm,横径1cm至1.5cm,尾尖略弯,辣味适中。(2)干辣椒:形状一致,果面洁净,色泽一致,有光泽。\n\n产地条件方面，资料写到保护区范围内海拔300m至500m,土壤类型为红棕色土壤、紫色土壤、灰棕色土壤,土壤质地为壤土、沙壤土,有机质含量不少于1.0%,土壤pH值6.5至7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7至9月采收。鲜辣椒在果实90%以上变红后采收;做干辣椒的在果实全红后采摘。鲜椒在采收后常温7天内销售完成;干椒在采收后干燥至含水量不超过12%。",
+      "sources": [
+        "sw-gi-8656c8aba8ceac68"
+      ],
+      "locality": "东兴区",
+      "id": "sw-70a9ed6c41d3bc130b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "筠连红茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "筠连红茶是与四川·宜宾·筠连县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工筠连红茶的其它茶树品种。",
+      "detail": "筠连红茶是与四川·宜宾·筠连县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工筠连红茶的其它茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茶叶条索紧细,多锋苗,多金毫。香气鲜嫩香甜,带有焦糖香;滋味醇厚甘爽;汤色红明浓亮,叶底细嫩多芽,色泽红匀,明亮。\n\n产地条件方面，资料写到保护范围内海拔400mm以上的山地;土壤质地为黄壤类、黄棕壤类壤土,土壤pH值4.5至6.5,土层厚度不少于55cm,有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年二月初至4月下旬,采摘单芽至一芽二叶的芽叶。\n\n与原料形成有关的生产记录还包括育苗:每年9月至11月采用扦插育苗。种植:春季2月中下旬至3月下旬,秋季10月中旬至11月下旬。",
+      "sources": [
+        "sw-gi-8656c8aba8ceac68",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "筠连县",
+      "id": "sw-8e24d32c0442a798e1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "筠连红茶"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "南充冬菜",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "南充冬菜是与四川·南充·顺庆区、高坪区、嘉陵区、西充县相联系的地方调味品。",
+      "detail": "南充冬菜是与四川·南充·顺庆区、高坪区、嘉陵区、西充县相联系的地方调味品。原料或品种方面，保护要求记载为生产。1.品种:当地地方品种“箭杆种”(十字花科芸薹属芥菜种)。2.立地条件:土壤类型为灰紫色、红棕紫色土壤,质地为壤土、沙壤土及轻粘土,土壤pH值6.8至7.5,有机质含量不少于1.5%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：特性项目原菜型碎粒型色泽褐黑色、油润、有光泽褐黑色、油润、有光泽气味具有酱香或清香味具有酱香或清香味滋味味鲜、脆嫩、咸淡适口味鲜、脆嫩、咸淡适口形态菜型均匀、完整颗粒状、大小均匀。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→晾晒→整理→揉制→腌制→装缸发酵→成品。\n\n产地条件方面，资料写到土壤类型为灰紫色、红棕紫色土壤,质地为壤土、沙壤土及轻粘土,土壤pH值6.8至7.5,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在12月中旬到次年2月上旬,植株长成10至15叶时采摘。",
+      "sources": [
+        "sw-gi-8656c8aba8ceac68"
+      ],
+      "locality": "顺庆区、高坪区、嘉陵区、西充县",
+      "id": "sw-3859c7e75a1f3705b3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "田家紫皮大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "田家紫皮大蒜是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地传统紫皮大蒜品种。",
+      "detail": "田家紫皮大蒜是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地传统紫皮大蒜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表面光滑,表皮呈紫红色,蒜瓣7至9瓣,大小均匀,蒜头重40g以上,蒜味浓郁。\n\n产地条件方面，资料写到保护区范围内海拔300m至450m,土壤类型为红棕色土壤、紫色土壤、灰棕色土壤,土壤质地为壤土、沙壤土,土壤pH值6.5至7.5,有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是次年4至5月植株基部叶片大部干枯,假茎松软时采收。\n\n与原料形成有关的生产记录还包括选种:选择不少于4g的蒜瓣做栽培用种。播种:8至9月播种,每公顷种植株数不超过75万株,播种深度为2cm至3cm。",
+      "sources": [
+        "sw-gi-8656c8aba8ceac68"
+      ],
+      "locality": "东兴区",
+      "id": "sw-f82c944db6b2679c3c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "东柳醪糟",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "东柳醪糟是与四川·达州·大竹县相联系的地方加工食品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "东柳醪糟是与四川·达州·大竹县相联系的地方加工食品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽乳白或淡黄,晶莹剔透,呈絮状或粥状,无硬粒、汁水清澈,醇甜酒香,口感滑润。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→浸泡→蒸煮→冷却→拌粬→罐装搭窝→发酵→成品。",
+      "sources": [
+        "sw-gi-8656c8aba8ceac68"
+      ],
+      "locality": "大竹县",
+      "id": "sw-e7313020fc26eefaf8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "五通桥豆腐乳",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "五通桥豆腐乳是与四川·乐山·五通桥区相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "五通桥豆腐乳是与四川·乐山·五通桥区相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：乳黄润亮,色泽均匀;酱香醇厚,入口即化;质地酥软,具有杉木香味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括泡豆→煮浆→点脑→压榨→蒸坯→摆坯→接种→培菌→后发酵→成品。",
+      "sources": [
+        "sw-gi-037f3e92019ad6f6"
+      ],
+      "locality": "五通桥区",
+      "id": "sw-661969c49cda7f3676",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "周礼粉条",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "周礼粉条是与四川·资阳·安岳县相联系的地方面食与米制点心。原料或品种方面，保护要求记载为徐薯18号。",
+      "detail": "周礼粉条是与四川·资阳·安岳县相联系的地方面食与米制点心。原料或品种方面，保护要求记载为徐薯18号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：有光泽、复水后半透明,丝条粗细均匀,有弹性,口感柔软、滑爽、有韧性。\n\n产地条件方面，资料写到土壤质地为壤土或砂质壤土,土层厚度不少于60cm,土壤pH值7至8,有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月10日前后十天收获,出干率不少于30%,出粉率不少于20%。",
+      "sources": [
+        "sw-gi-037f3e92019ad6f6"
+      ],
+      "locality": "安岳县",
+      "id": "sw-250f6b849fe5eb9409",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "汶川羌绣",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "汶川羌绣是与四川·阿坝州·汶川县相联系的地方器物与工艺原料。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "汶川羌绣是与四川·阿坝州·汶川县相联系的地方器物与工艺原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色彩艳丽明快:绣品用色艳丽大胆,对比强烈。(2)富有羌族文化气息。(3)构图严谨、整齐匀称、装饰性强;不拘小节,大胆想象创造。构图有正花、编花、角花、补点花等等,正花为主图案,编花、角花是制品四周的点缀,纹样多为两边连续图案或三角形图案,刺绣时按正花主题,挑缀刺绣,补点花按照正花、角花空间大小挑刺点缀。",
+      "sources": [
+        "sw-gi-5b1be8f557542123"
+      ],
+      "locality": "汶川县",
+      "id": "sw-4fd8b09fbd40d1c6cb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "青神竹编",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "青神竹编是与四川·眉山·青神县相联系的地方工艺物品。原料或品种方面，保护要求记载为要求。",
+      "detail": "青神竹编是与四川·眉山·青神县相联系的地方工艺物品。原料或品种方面，保护要求记载为要求。1.种源:慈竹[Sinocalmusaffinis(Rendle)Mcclure]。2.立地条件:保护区范围内海拔不超过1000m,土壤类型为水稻土和壤土,有机质含量不少于1.1%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：几何图形完整,无霉变,编织图案清晰逼真、色泽协调、不易褪色、立体感强,整幅产品厚薄一致,篾路通顺,编织紧密,不抛挤、不现接头,手感光滑,无毛刺,沿边整齐圆润、无虚针、漏针和脱针,展开后幅面平整、不曲翘、边角曲直自然,卷曲后能恢复原状,符合规定外形。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括关键技术要求:(1)刮青:将采伐后的原料竹在两天内刮掉竹表面的青色胶质层,使其外观色层一致。\n\n产地条件方面，资料写到1.种源:慈竹[Sinocalmusaffinis(Rendle)Mcclure]。2.立地条件:保护区范围内海拔不超过1000m,土壤类型为水稻土和壤土,有机质含量不少于1.1%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-5b1be8f557542123"
+      ],
+      "locality": "青神县",
+      "id": "sw-c976d621c7169e50d8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "通贤柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "通贤柚是与四川·资阳·安岳县相联系的地方食材。原料或品种方面，保护要求记载为当地文旦类。",
+      "detail": "通贤柚是与四川·资阳·安岳县相联系的地方食材。原料或品种方面，保护要求记载为当地文旦类。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮淡黄色、果肉米黄色、肉质脆嫩化渣、酸甜适中略偏酸、少核或无核、耐储存。\n\n产地条件方面，资料写到土壤类型为紫色土、水稻土,土层厚度不少于1m,有机质含量不少于2%,土壤pH值6.0至8.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是10月下旬至11月中旬。\n\n与原料形成有关的生产记录还包括定植:(1)定植时间:裸根苗定植时间为春栽每年2月至3月,秋栽9月至10月,带土苗四季均可定植。(2)定植密度:每公顷栽植株数不超过840株。",
+      "sources": [
+        "sw-gi-5b1be8f557542123"
+      ],
+      "locality": "安岳县",
+      "id": "sw-b9e3a7a45627056940",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "屏山炒青茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "屏山炒青茶是与四川·宜宾·屏山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体中及适宜加工屏山炒青茶的茶树品种。",
+      "detail": "屏山炒青茶是与四川·宜宾·屏山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体中及适宜加工屏山炒青茶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)条形茶:外形紧实,显锋苗,色泽绿润,冲泡后栗香持久,汤色清澈明亮,滋味醇爽,叶底嫩匀成朵,绿亮。(2)扁形茶:外形扁平挺直,色泽绿润,冲泡后栗香持久,汤色清澈明亮,滋味醇爽,叶底嫩匀成朵,嫩黄明亮。\n\n产地条件方面，资料写到保护区范围内海拔不少于500m的山地。土壤质地为黄壤土,土壤pH值4.5至6.5。有机质含量不少于2%。土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年二月初至四月下旬。条形茶采摘单芽至一芽二叶的芽叶,扁形茶采摘单芽至一芽一叶初展。",
+      "sources": [
+        "sw-gi-5b1be8f557542123",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "屏山县",
+      "id": "sw-cabcad0e590f17c981",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "屏山炒青"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "梓潼酥饼",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "梓潼酥饼是与四川·绵阳·梓潼县相联系的地方面食与米制点心。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "梓潼酥饼是与四川·绵阳·梓潼县相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽金黄,酥纹清晰,回旋有致,表面中部有芝麻,断面层次多而分明,香酥松脆,入口化渣,回香。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→调配→制作水起面→制酥坯→制皮面→制面皮→包酥→成形→烘烤→成品。",
+      "sources": [
+        "sw-gi-5b1be8f557542123"
+      ],
+      "locality": "梓潼县",
+      "id": "sw-ba74a0b47862689db9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "雅鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "雅鱼是与四川·雅安·雨城区相联系的地方食材。原料或品种方面，保护要求记载为齐口裂腹鱼[Schizothorax(schizothorax.)prenanti]、重口裂腹鱼[Schizothorax(Racoma)davidi]。",
+      "detail": "雅鱼是与四川·雅安·雨城区相联系的地方食材。原料或品种方面，保护要求记载为齐口裂腹鱼[Schizothorax(schizothorax.)prenanti]、重口裂腹鱼[Schizothorax(Racoma)davidi]。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体形似鲤,鳞细如鳟;肉质细嫩,口感爽滑。",
+      "sources": [
+        "sw-gi-86a294b7ebe800a5"
+      ],
+      "locality": "雨城区",
+      "id": "sw-f85b16fef7813b9fa8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "剑门关豆腐",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "剑门关豆腐是与四川·广元·剑阁县相联系的地方加工食品。原料或品种方面，保护要求记载为1.大豆:选用保护区生产的蛋白质含量不少于42%的大豆。",
+      "detail": "剑门关豆腐是与四川·广元·剑阁县相联系的地方加工食品。原料或品种方面，保护要求记载为1.大豆:选用保护区生产的蛋白质含量不少于42%的大豆。2.生产用水:采用保护区内山泉水,pH值7.3至7.6。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜豆腐:颜色雪白,质地细嫩,软硬适宜,表面不粘,弹性、韧性好。口感细腻,温柔滋润,爽口无渣,味道清香,含大豆的原汁醇香。(2)豆腐干:呈白色或淡黄色,块形整齐均匀,质地密实,韧性柔软,醇香可口。",
+      "sources": [
+        "sw-gi-86a294b7ebe800a5"
+      ],
+      "locality": "剑阁县",
+      "id": "sw-9812e976551bc89a66",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "西昌小香葱(琅环小香葱)",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西昌小香葱(琅环小香葱)是与四川·凉山州·西昌市相联系的地方食材。",
+      "detail": "西昌小香葱(琅环小香葱)是与四川·凉山州·西昌市相联系的地方食材。原料或品种方面，保护要求记载为当地传统品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：叶片深绿色细筒状,葱白长、白嫩,光泽度好,香味浓略带甜味。\n\n产地条件方面，资料写到土壤类型为紫色冲积土,质地为沙壤、粘壤,有机质含量不少于2%,土壤pH值6.5至7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是收获时间为11月下旬至4月下旬;收获标准为:鳞茎直径0.8cm至1cm,葱白长5cm至8cm,葱叶长30cm至40cm。",
+      "sources": [
+        "sw-gi-86a294b7ebe800a5"
+      ],
+      "locality": "西昌市",
+      "id": "sw-bac8c3f009d79fc448",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "正安白茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "正安白茶是与贵州·遵义·正安县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为白叶一号。",
+      "detail": "正安白茶是与贵州·遵义·正安县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为白叶一号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括明亮、柔软、挺直。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊青→杀青→初烘→焙干。\n\n产地条件方面，资料写到海拔高度500m至1100m,土壤类型为红壤或黄壤,土壤pH值5.0至6.5,土层厚度不少于50cm,有机质含量大于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工。1.鲜叶采摘:(1)采摘时间:3月上旬至5月上旬。(2)采摘标准:一芽一叶初展至一芽二叶。\n\n与原料形成有关的生产记录还包括育苗:采用扦插育苗。定植:定植时间为2月中旬至3月上旬或10月下旬至11月下旬。",
+      "sources": [
+        "sw-gi-c7fdf478eebd2450"
+      ],
+      "locality": "正安县",
+      "id": "sw-caa9da7e9dcedda79c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "黄龙贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黄龙贡米是与四川·广安·岳池县相联系的地方食材。原料或品种方面，保护要求记载为选择适应当地生态条件的经国、省审定的中熟籼稻品种。",
+      "detail": "黄龙贡米是与四川·广安·岳池县相联系的地方食材。原料或品种方面，保护要求记载为选择适应当地生态条件的经国、省审定的中熟籼稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒椭圆,表面光滑,呈半透明,色泽晶莹,细腻油亮。米饭膨胀性强,米不断腰,香气浓郁,粘度适中,油性适度,滑润爽口。\n\n产地条件方面，资料写到土壤类型为紫色土,耕作层厚度不少于18cm,有机质含量不少于3%,pH值为5.0至7.3。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及加工。完熟期收割、脱粒,自然晾晒,按品种单收、单脱、单贮。\n\n与原料形成有关的生产记录还包括水肥管理:每公顷每季施有机肥不少于30000kg,收获前7天断水。(五)收获及加工。",
+      "sources": [
+        "sw-gi-0a144c1a280c8bdb"
+      ],
+      "locality": "岳池县",
+      "id": "sw-dc4c4a78479556f82d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "巴山土鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "巴山土鸡是与四川·巴中·巴州区、通江县、南江县、平昌县相联系的地方食材。",
+      "detail": "巴山土鸡是与四川·巴中·巴州区、通江县、南江县、平昌县相联系的地方食材。原料或品种方面，保护要求记载为选用当地土鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活鸡:青灰脚。(2)白条鸡:青灰脚,皮肤呈灰白或灰黄。\n\n与原料形成有关的生产记录还包括(5)饲料:配合饲料代谢能12兆焦/kg,粗蛋白20%,钙0.9%,磷0.65%,食盐0.3%。(7)饲养方式:平养。育成期(7周龄后)(1)饲养方式:平养与放养相结合。10周龄以后白天放养,密度10至15只/100m2,夜间平养。(3)饲料:天然饲料与配合饲料相结合。",
+      "sources": [
+        "sw-gi-0a144c1a280c8bdb"
+      ],
+      "locality": "巴州区、通江县、南江县、平昌县",
+      "id": "sw-863daaffbda222eddd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "旧院黑鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "旧院黑鸡是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为当地黑鸡品种。",
+      "detail": "旧院黑鸡是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为当地黑鸡品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：全身羽毛为黑色,略带绿色光泽,无胫羽;成年公鸡体形高大,成年母鸡体型中等;冠、髯呈紫黑色或红色,冠形有单冠或豆冠;全身皮肤呈乌黑色,喙、胫呈乌黑色或黄白色。\n\n采收或收获环节的记录是宰前3小时停水停料。\n\n与原料形成有关的生产记录还包括饲养方式:白天放养,夜晚入舍,早晚补饲。出栏:150日龄以上,公鸡体重不少于1.5kg,母鸡体重不少于1.3kg。",
+      "sources": [
+        "sw-gi-43a463774cc8969c"
+      ],
+      "locality": "万源市",
+      "id": "sw-aaf9ab1644c9aa4406",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "白市柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "白市柚是与四川·广安·广安区相联系的地方食材。原料或品种方面，保护要求记载为文旦柚类。",
+      "detail": "白市柚是与四川·广安·广安区相联系的地方食材。原料或品种方面，保护要求记载为文旦柚类。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实扁圆形,果基部平,果皮薄,金黄色,光滑,香气浓郁;果肉黄白色,细嫩化渣,风味较浓,少核;口感酸甜适度,微有苦麻味。\n\n产地条件方面，资料写到土壤类型为紫色土,土壤质地为沙壤至壤土,土壤pH值5.5至7.0,有机质含量不少于1.5%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在10月下旬至11月中旬,果皮80%变为橙黄色后采收。\n\n与原料形成有关的生产记录还包括栽培技术:(1)定植:9月至10月秋梢老熟后或2月至3月春梢萌芽前栽植,容器苗或带土移栽苗不受季节限制。",
+      "sources": [
+        "sw-gi-0c71f66be86181c0"
+      ],
+      "locality": "广安区",
+      "id": "sw-f6f4561a77ac748170",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "苴却砚",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "苴却砚是与四川·攀枝花·仁和区相联系的地方工艺物品。原料或品种方面，保护要求记载为要求。",
+      "detail": "苴却砚是与四川·攀枝花·仁和区相联系的地方工艺物品。原料或品种方面，保护要求记载为要求。1.矿石类型:含钙泥质板岩。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颗粒度小,石质致密细腻,石品花纹丰富。砚上有“石眼”或“膘”或同时存在。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选料(切割)→设计→雕刻→后处理。\n\n产地条件方面，资料写到1.矿石类型:含钙泥质板岩。2.原料特点:原料中必须有石眼、膘或两者同时存在。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0c71f66be86181c0"
+      ],
+      "locality": "仁和区",
+      "id": "sw-4a15c487b2135b062c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "南江黄羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南江黄羊是与四川·巴中·南江县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "南江黄羊是与四川·巴中·南江县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目鲜羊肉冻羊肉(解冻后)肌肉有光泽,色鲜红或深红;脂肪色泽肌肉色鲜红,有光泽;脂肪呈白色。呈乳白色。肌肉外表微干或有风干膜,外表湿黏度外表微干或有风干膜,不粘手。润,不粘手。肌肉结构紧密,有坚实感,肌肉纤弹性(组织状态)指压后的凹陷立即恢复。维细嫩。气味具有鲜羊肉正常的气味。具有羊肉正常的气味。\n\n与原料形成有关的生产记录还包括(2)冷季饲养管理:11月至3月期间,每天放牧4至6小时。(3)暖季饲养管理:4月至10月期间,每天放牧10小时以上。出栏年龄:8至10月龄。三、屠宰加工1.羊源标准:来自保护区内的健康羊只,体重25至35千克。",
+      "sources": [
+        "sw-gi-241166b070ae278e",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "南江县",
+      "id": "sw-a9a0793c0f95dc6b2d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "南江黄羊"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "洪雅藤椒油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "洪雅藤椒油是与四川·眉山·洪雅县相联系的地方调味品。原料或品种方面，保护要求记载为藤椒。",
+      "detail": "洪雅藤椒油是与四川·眉山·洪雅县相联系的地方调味品。原料或品种方面，保护要求记载为藤椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括绵长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括果实→清选→淋油→分离→过滤→储存→灌装→成品。\n\n产地条件方面，资料写到产地范围内海拔500m至1300m,土壤厚度不少于40cm,土壤类型为水稻土、紫色土,pH值5.5至6.5,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月至7月人工采收,要求采摘藤椒果皮完好,色泽脆绿,油胞饱满。\n\n与原料形成有关的生产记录还包括定植时间和密度:定植时间在秋季9月下旬至11月下旬,定植密度不超过1500株/公顷。收获:6月至7月人工采收,要求采摘藤椒果皮完好,色泽脆绿,油胞饱满。",
+      "sources": [
+        "sw-gi-241166b070ae278e"
+      ],
+      "locality": "洪雅县",
+      "id": "sw-4d161d0bfbdeec446e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "罗村茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "罗村茶是与四川·巴中·通江县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为地方群体品种及其它适合制作罗村茶的优良品种。",
+      "detail": "罗村茶是与四川·巴中·通江县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为地方群体品种及其它适合制作罗村茶的优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)扁形茶:外观扁、平、直、匀整、色泽翠绿,清香持久,汤色嫩绿明亮,滋味鲜醇回甘,叶底黄绿匀亮。(2)条形茶:外观紧、直、显毫、匀整、色泽翠绿,清香持久,汤色嫩绿明亮,滋味鲜醇回甘,叶底黄绿匀亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(4)回潮:罗村茶在加工过程中必须充分摊凉回潮。(4)回潮:罗村茶在加工过程中必须充分摊凉回潮。(6)提毫:将整形锅温度控制在80°C至90°C,将茶叶放在两手掌心之中反复轻搓,当茸毛显露,条形固定,含水量达8%即起锅摊凉。\n\n产地条件方面，资料写到产地范围内海拔600米至1500米,土壤类型为紫色土,土壤质地为沙壤土,pH值5至6.5,土壤有机质含量不少于1%,土层厚度不少于1米。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-241166b070ae278e"
+      ],
+      "locality": "通江县",
+      "id": "sw-67f14f4303faa4ba86",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "罗泉豆腐",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "罗泉豆腐是与四川·内江·资中县相联系的地方加工食品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "罗泉豆腐是与四川·内江·资中县相联系的地方加工食品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜豆腐:鲜豆腐呈乳白色或淡黄色,有光泽;具有盐卤豆腐特有的豆香味,口感细腻鲜嫩;有弹性,块型完整,久煮不散。(2)豆腐干:色泽乳黄或淡黄,形状均匀一致,质地密实而细腻,富有弹性,细韧耐嚼,咸淡适口,入口醇香。",
+      "sources": [
+        "sw-gi-9c669e4a0a21c671"
+      ],
+      "locality": "资中县",
+      "id": "sw-b4b7c83039cb8c82e6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "龙里刺梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "龙里刺梨是与贵州·黔南州·龙里县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地野生刺梨及贵龙5号、贵龙7号。",
+      "detail": "龙里刺梨是与贵州·黔南州·龙里县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地野生刺梨及贵龙5号、贵龙7号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实扁圆球形,果皮为鲜黄或深黄,密生小肉刺,刺尖带钩状,果肉脆,口感酸甜,略带涩味,芳香味浓。\n\n产地条件方面，资料写到产地范围内海拔900米至1500米,土壤类型黄红壤,质地为砂质壤土。有机值含量不少于2.0%,pH值5.0至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年8月至10月,果面颜色转为鲜黄或深黄后分批采收。\n\n与原料形成有关的生产记录还包括定植:(1)栽种时间:每年2月至3月。(2)密度:每公顷园地种植不超过2500株。",
+      "sources": [
+        "sw-gi-9c669e4a0a21c671"
+      ],
+      "locality": "龙里县",
+      "id": "sw-16c113c007be4f97a3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "鸭溪窖酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "鸭溪窖酒是与贵州·遵义相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:容重不少于720g/L的糯红高粱,应符合国家相关规定。",
+      "detail": "鸭溪窖酒是与贵州·遵义相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:容重不少于720g/L的糯红高粱,应符合国家相关规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：要求项目酒精度(%vol、20°C)45~68酒精度(%vol、20°C)38色泽无色或微黄,清亮透明,无悬浮物,无沉淀杂质香气窖香幽雅、陈香馥郁、空杯留香窖香较幽雅、陈香舒适、有空杯留香绵柔醇厚、甘爽细腻、尾净悠长、有酱绵甜柔顺、醇和细腻、尾净味长、有口味味感酱味感风格具有本品独特的风格。",
+      "sources": [
+        "sw-gi-9c669e4a0a21c671"
+      ],
+      "locality": "遵义相关产区",
+      "id": "sw-8f2649eb625e213034",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "资中枇杷是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟6号。",
+      "detail": "资中枇杷是与四川·内江·资中县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟6号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大五星果实为圆形、早钟六号果实为倒卵圆形。果实表面光滑,色泽鲜艳,果皮表面及果肉色泽均为深黄色或橙红色,果实肉质细腻,果肉肥厚多汁,味甜美,可食率高。\n\n产地条件方面，资料写到土壤类型为紫色土,有机质含量不少于1.3%,pH值6.7至7.8,土层厚度不少于40厘米。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括整形修剪:春季修剪与夏季修剪相结合,春季修剪在2月至3月结合疏果进行,夏季修剪在5月至6月采果后进行。六、采收早钟六号在4月上旬至5月上旬、大五星在4月下旬至5月下旬分批采收。",
+      "sources": [
+        "sw-gi-a6929b203fa30c9f"
+      ],
+      "locality": "资中县",
+      "id": "sw-8d1b81329111220b39",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "老鹰茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "老鹰茶是与四川·雅安·石棉县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "老鹰茶是与四川·雅安·石棉县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)芽茶:全芽披毫,干茶色泽棕红,形似玉笋、圆浑肥大、壮实;汤色黄亮,滋味醇和爽口、回甜、樟香浓郁。(2)叶茶(一芽一叶至一芽三叶干茶):干茶色泽棕红,叶均整;汤色黄绿,滋味醇和爽口、回甜、樟香浓郁。\n\n产地条件方面，资料写到产地范围内海拨1500m至3000m,土壤pH值5.0至7.5,土壤有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括野生:在天然环境中自然生长。半野生:人工移栽定植。",
+      "sources": [
+        "sw-gi-a6929b203fa30c9f"
+      ],
+      "locality": "石棉县",
+      "id": "sw-0117a65762772cb3e8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "惠水黑糯米酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "惠水黑糯米酒是与贵州·黔南州·惠水县相联系的地方酒。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "惠水黑糯米酒是与贵州·黔南州·惠水县相联系的地方酒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：黑糯米酒(15%vol至25%vol),色泽和外观:无悬浮物,酒体醇厚;香气:空杯留香,无异香;口味:无杂味。",
+      "sources": [
+        "sw-gi-c013bcedbd27c1f5"
+      ],
+      "locality": "惠水县",
+      "id": "sw-549e7b0189f1b6404d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "铜仁红薯粉丝",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "铜仁红薯粉丝是与贵州·铜仁相联系的地方面食与米制点心。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "铜仁红薯粉丝是与贵州·铜仁相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：丝条匀细、纯净光亮,整齐柔韧,透明;久煮不断,韧性好,爽滑耐嚼。",
+      "sources": [
+        "sw-gi-c013bcedbd27c1f5"
+      ],
+      "locality": "铜仁相关产区",
+      "id": "sw-27e99550435e224500",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "王泗白酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "王泗白酒是与四川·成都·大邑县相联系的地方酒。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "王泗白酒是与四川·成都·大邑县相联系的地方酒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：无色或微黄,清亮透明,无悬浮物,无沉淀。具有浓郁的己酸乙酯为主体的复合香气,酒体醇和谐调,绵甜淡雅,余味悠长,具有本品典型的风格。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→粉碎→配料→拌和→装甑→蒸馏→量质取酒→分级贮存→勾兑调味→鉴评→产品。",
+      "sources": [
+        "sw-gi-1fc43bdd432b8d60"
+      ],
+      "locality": "大邑县",
+      "id": "sw-036184ea533d7eca70",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "九龙花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "九龙花椒是与四川·甘孜州·九龙县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为大红袍、团状油椒、伞状油椒。",
+      "detail": "九龙花椒是与四川·甘孜州·九龙县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为大红袍、团状油椒、伞状油椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：九龙花椒紫红色,颗粒硕大饱满、具有麻香浓郁,味道纯正的特点,果皮千粒重10g至13g。\n\n产地条件方面，资料写到产地范围内海拔1800m至2900m,土壤类型褐土、棕壤,土质为砂壤土或中壤土,土壤pH值6.5至8,土壤有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及晾干花椒成熟季节在七至八月,当花椒果皮全部变红,果皮油腺突起,光泽明显,果实呈艳红色、油饱满时即可采摘。将采收的鲜花椒先放在阴凉、通风处摊晾2至3天,然后摊放于簸箕或晒垫上,暴晒干燥。",
+      "sources": [
+        "sw-gi-1fc43bdd432b8d60"
+      ],
+      "locality": "九龙县",
+      "id": "sw-a38fdd56b6bcb3b8b2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "邛酒是与四川·成都·邛崃市相联系的地方酒。原料或品种方面，保护要求记载为配比:高粱36%、大米22%、糯米18%、小麦16%、玉米8%;辅料使用当年产新鲜的粳米谷壳。",
+      "detail": "邛酒是与四川·成都·邛崃市相联系的地方酒。原料或品种方面，保护要求记载为配比:高粱36%、大米22%、糯米18%、小麦16%、玉米8%;辅料使用当年产新鲜的粳米谷壳。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目高度酒41%vol~68%vol低度酒38%vol~40%vol色泽和外无色或微黄,清澈透明,无悬浮物,无沉淀观具有幽雅的以己酸乙酯为主体具有幽雅的以己酸乙酯为主体香气的复合香气的复合香气酒体醇厚饱满,绵甜柔和,酒酒体醇和丰满,绵甜柔顺,酒口味味全面,余味爽净味全面。",
+      "sources": [
+        "sw-gi-1fc43bdd432b8d60"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-88c44dfaece909e3d0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "唐场豆腐乳",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "唐场豆腐乳是与四川·成都·大邑县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "唐场豆腐乳是与四川·成都·大邑县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：质地细腻、块型整齐、厚薄均匀,表面呈鲜红色或枣红色,断面呈杏黄色或酱褐色。香辣适口、滋味鲜美、余味绵长、具有特有的酱香。",
+      "sources": [
+        "sw-gi-1fc43bdd432b8d60"
+      ],
+      "locality": "大邑县",
+      "id": "sw-85662d594cbd2e7b57",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "夹江书画纸",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "夹江书画纸是与四川·乐山·夹江县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为要求1.嫩竹:当地生长期在6至9个月内的慈竹、水竹、白夹竹。",
+      "detail": "夹江书画纸是与四川·乐山·夹江县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为要求1.嫩竹:当地生长期在6至9个月内的慈竹、水竹、白夹竹。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：纸质绵韧、手感润柔,纸面平整,有隐约竹帘纹,切边整齐洁净,纸面没有折子、裂口、洞眼、沙粒和附着物等影响使用的瑕疵。\n\n产地条件方面，资料写到1.嫩竹:当地生长期在6至9个月内的慈竹、水竹、白夹竹。2.蓑草和枸皮:当年收割并晒干的当地蓑草、枸皮。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0b11601d59def0bc"
+      ],
+      "locality": "夹江县",
+      "id": "sw-79372cb6d7537cd29e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "自贡火边子牛肉",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "自贡火边子牛肉是与四川·自贡·大安区相联系的地方菜肴与加工食品。",
+      "detail": "自贡火边子牛肉是与四川·自贡·大安区相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为本地水牛与湘西黄牛的杂交后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薄而透明,肉质坚实,无筋膜、无筋腱,鲜香化渣,绵软可口,回味悠长,咸度适中,其味厚重,其香特异。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料解冻→制胚(走水醒肉)→切片→烘烤→回味卤制→晾干→装袋→蒸煮→冷却→包装。\n\n与原料形成有关的生产记录还包括养殖方式:放牧、圈养相结合。幼畜繁育:犊牛出生后2小时要吃到初乳,2月后放牧,哺乳期不低于3个月。放牧:18月龄前以放牧为主,适量补饲人工种植的牧草、农作物秸秆以及玉米、麦类、豆类、薯类等农产品,并加以2%左右的盐。(4)出栏标准:体重不低于300kg。",
+      "sources": [
+        "sw-gi-ce1e0e37af9beb86"
+      ],
+      "locality": "大安区",
+      "id": "sw-0554b80a04f00990bf",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "崇州牛尾笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "崇州牛尾笋是与四川·成都·崇州市相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "崇州牛尾笋是与四川·成都·崇州市相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：笋肉黄色或黄白色,新鲜清洁、笋肉丰腴、肉质脆嫩,笋箨有光泽不萎篶,具有“鲜、香、嫩、脆”的特点。\n\n产地条件方面，资料写到产地范围内海拔800米至1500米,土层深厚、疏松肥沃的微酸性壤质土和山地黄壤,pH值4.5至7。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗:产地范围内成熟竹林就地采挖。栽植:移栽造林一般在9月下旬至翌年2月下旬,此期间冰雪未解冻时不得整地或造林。栽植密度小于等于1600株/公顷,种植点配置可依山势而定,一般是“梅花”形配置,造林技术要点为“穴大、鞭舒、浅栽、紧围”。",
+      "sources": [
+        "sw-gi-ce1e0e37af9beb86"
+      ],
+      "locality": "崇州市",
+      "id": "sw-c7b7a45cbd591b1fb1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇酱瓜",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "仪陇酱瓜是与四川·南充·仪陇县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "仪陇酱瓜是与四川·南充·仪陇县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色泽:呈金红、深红色或褐红色,有透明感,通体一色,无黑斑暗块。(2)香气:有酯香气和浓郁的酱香气。(3)滋味:咸甜适口,酱味鲜美厚长。(4)质地:脆、嫩。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(1)制作面酱:优质面粉→和水→蒸熟→降温(至40°C)→拌曲混匀→发酵(34°C发酵24小时)→粉碎入缸→加料稀释(面粉、纯净水、食盐)→搓揉搅拌(每天搅拌)→晾晒(一年)。",
+      "sources": [
+        "sw-gi-ce1e0e37af9beb86"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-d7ade63dc66ba03dc0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "石屏豆腐",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "石屏豆腐是与云南·红河州·石屏县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。",
+      "detail": "石屏豆腐是与云南·红河州·石屏县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈白色至淡黄色;长条形,手感绵软,有弹性;质地细腻、韧性高,口感清香,味道鲜美。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括大豆→筛选→淘洗→浸泡→磨浆→滤浆→煮浆→点浆→成型→腾包→切块。\n\n产地条件方面，资料写到1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。2.水:产地范围内山泉水,水质符合国家生活饮用水标准规定,钙离子不超过50mg/L,镁离子不超过5mg/L。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-26142b98d673ddbd"
+      ],
+      "locality": "石屏县",
+      "id": "sw-d1301050908b632805",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "石屏豆腐皮",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "石屏豆腐皮是与云南·红河州·石屏县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。",
+      "detail": "石屏豆腐皮是与云南·红河州·石屏县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈淡黄色至金色,外表油亮光泽;质地细密、柔韧性好、久煮不化;味道鲜香滑嫩、柔嫩爽口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括大豆→筛选→淘洗→浸泡→磨浆→煮浆→滤浆→揭皮→晾晒→成型→干燥→包装。\n\n产地条件方面，资料写到1.大豆:收获期一年内的大豆,蛋白质含量不少于40%。2.水:产地范围内山泉水,水质符合国家生活饮用水标准规定,且钙离子不超过50mg/L,镁离子不超过5mg/L。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-26142b98d673ddbd"
+      ],
+      "locality": "石屏县",
+      "id": "sw-3596c1a7d2be6564d0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边油底肉",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "盐边油底肉是与四川·攀枝花·盐边县相联系的地方菜肴与加工食品。",
+      "detail": "盐边油底肉是与四川·攀枝花·盐边县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为本地土猪与长白猪杂交的黑毛猪及其本交后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：皮与肉不脱离,呈微黄或金黄色,色泽鲜亮、均匀一致,口味咸淡适中,醇香浓郁、皮耙肉糯。",
+      "sources": [
+        "sw-gi-8270dce2af9a9a79"
+      ],
+      "locality": "盐边县",
+      "id": "sw-281ebfac247db04fe1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "保宁压酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "保宁压酒是与四川·南充·阆中市相联系的地方酒。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "保宁压酒是与四川·南充·阆中市相联系的地方酒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)颜色:呈琥珀色,半透明,无悬浮物;(2)气味:具有特殊的蜜醇香,无异味;(3)口感:酸甜适度,口感醇和,酒质爽口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(1)生产小曲白酒:原料→初蒸→煮粮→复蒸→降温下曲→入箱→出箱→发酵→蒸馏(2)生产压酒:原料→入锅蒸煮→降温拌入压酒曲→发酵→入桶加小曲白酒、泉水混合→密封发酵→窖藏发酵→精滤→包装→成品。",
+      "sources": [
+        "sw-gi-8270dce2af9a9a79"
+      ],
+      "locality": "阆中市",
+      "id": "sw-a40b47b3ddcdf46831",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "汤麻饼",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "汤麻饼是与四川·成都·崇州市相联系的地方面食与米制点心。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "汤麻饼是与四川·成都·崇州市相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽均匀,表面有芝麻,底面无焦斑,香甜、酥脆、不粘牙、酥脆可口、入口化渣,回香。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选料→配料→制作起面水→(制酥、制皮面、制心)→包酥→制坯→成型→粘芝麻→摆盘→烘烤→成品。",
+      "sources": [
+        "sw-gi-8270dce2af9a9a79"
+      ],
+      "locality": "崇州市",
+      "id": "sw-a23facba50a164083e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌土陶",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "隆昌土陶是与四川·内江·隆昌市相联系的地方工艺物品。原料或品种方面，保护要求记载为当地传统胡萝卜品种。",
+      "detail": "隆昌土陶是与四川·内江·隆昌市相联系的地方工艺物品。原料或品种方面，保护要求记载为当地传统胡萝卜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)古朴典雅、陶质细腻、泛青、色泽浑厚、釉色莹润。(2)敲击声音响亮、清脆,余音悦耳。(3)透气性好而长期使用不渗漏,支撑力大。\n\n产地条件方面，资料写到产地范围内海拔高度450m至550m,土壤类型为紫色土,土壤质地为沙壤土,土壤有机质不少于1%,pH值5.5至8.0,土壤耕作层深厚不少于25cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是栽种后于翌年一月上旬至四月中旬,当肉质根已充分长大,心叶呈绿色,外叶稍枯黄,味甜且质地柔软时采收。",
+      "sources": [
+        "sw-gi-0b16dd82d9c49e22"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-a846b774c356b3275c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "青川竹荪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "青川竹荪是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为名竹荪(Dictyophoraspp)。",
+      "detail": "青川竹荪是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为名竹荪(Dictyophoraspp)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括肥厚、清香。\n\n产地条件方面，资料写到产地范围内海拔500m至1200m,背风向阳、地形相对平缓、土层厚、腐殖质含量高,土壤pH值5.5至6.5,遮荫度大于70%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和加工。\n\n与原料形成有关的生产记录还包括栽培材料的准备和加工:(1)栽培材料:采用产地范围内阔叶树枝条木屑、竹枝竹叶以及农作物秸秆的混合料进行栽培,不能用含油脂的(针叶树)材料。(2)覆土准备和加工:覆土选用透气性良好的腐质土和偏酸性的土壤。栽培方法:搭建遮荫棚→开厢做畦床→土壤处理→第一层铺料→播种→第二层铺料→播种→覆土→加盖遮荫物。",
+      "sources": [
+        "sw-gi-0b16dd82d9c49e22"
+      ],
+      "locality": "青川县",
+      "id": "sw-c3c5b2152873c05858",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹秦王桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大竹秦王桃是与四川·达州·大竹县相联系的地方食材。原料或品种方面，保护要求记载为秦王桃。",
+      "detail": "大竹秦王桃是与四川·达州·大竹县相联系的地方食材。原料或品种方面，保护要求记载为秦王桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽艳丽,果大又圆,单果250至500克,表面光滑、均整洁净、呈棕红粉色。\n\n产地条件方面，资料写到土壤类型为黄壤、紫色土壤,保水、保肥,有利于排水。有机质含量不少于1.5%,土壤pH值5至8,有效土层不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年中秋前为最佳采收时间,宜在日出前或傍晚采摘。\n\n与原料形成有关的生产记录还包括苗木繁育:每年3月至4月砧木播种,温度不低于10°C。选择8至20年生的健壮的秦王桃做母株,在每年2月至3月采用嫁接方法繁殖苗木。",
+      "sources": [
+        "sw-gi-d27d5ac472fd6a6d"
+      ],
+      "locality": "大竹县",
+      "id": "sw-314b493632a42d5ef2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "南充丝绸",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "南充丝绸是与四川·南充·顺庆区、高坪区、嘉陵区、南部县、营山县、蓬安县、仪陇县、西充县、阆中市相联系的地方工艺物品。",
+      "detail": "南充丝绸是与四川·南充·顺庆区、高坪区、嘉陵区、南部县、营山县、蓬安县、仪陇县、西充县、阆中市相联系的地方工艺物品。原料或品种方面，保护要求记载为871×87。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色绸:颣节少、光泽一致性好;织物表面光洁、散射少、色泽均匀、手感柔软、弹性好,平纹织物不易起皱。1纺类:平纹组织、经纬无捻或弱捻,采用生丝或半色织工艺,织纹缜密、绸面平挺、光泽均匀、手感滑润;2绸类:平纹或平纹变化组织、经纬织点紧密、绸面平滑、色泽匀称。3缎类:缎纹组织、纹路清晰、色光柔和、平滑光亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括为:确定浴比→坯绸预处理(pH值。",
+      "sources": [
+        "sw-gi-24e67fe53fab8660"
+      ],
+      "locality": "顺庆区、高坪区、嘉陵区、南部县、营山县、蓬安县、仪陇县、西充县、阆中市",
+      "id": "sw-f350b298b979865e7e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "黄果树毛峰",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "黄果树毛峰是与贵州·安顺·西秀区、平坝区、普定县相联系的地方茶或代用茶。",
+      "detail": "黄果树毛峰是与贵州·安顺·西秀区、平坝区、普定县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为安顺竹叶青(C.Sinensiscv.Anshun-zhuyecha),及适宜制作黄果树毛峰的茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：条索卷曲,紧细,显毫。色泽绿润。茶汤黄绿,明亮。带有板栗香。滋味浓醇。叶底嫩匀成朵,黄绿,明亮。\n\n产地条件方面，资料写到产地范围内海拔800m至1400m的山地,土壤质地为黄色壤土,土壤pH值4.5至5.5,土层厚度不少于50cm,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗:采用扦插育苗。定植:定植时间为10月至12月。",
+      "sources": [
+        "sw-gi-24e67fe53fab8660"
+      ],
+      "locality": "西秀区、平坝区、普定县",
+      "id": "sw-485fdf208571b81e6e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "忠州豆腐乳(忠县豆腐乳)",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "忠州豆腐乳(忠县豆腐乳)是与重庆·忠县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "忠州豆腐乳(忠县豆腐乳)是与重庆·忠县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：忠州豆腐乳呈乳黄色或灰黄色;香气浓郁,具有忠州豆腐乳特有香气;质纯细腻,咸淡适口,入口化渣,滋味鲜美,余味绵长;块型均匀。",
+      "sources": [
+        "sw-gi-86c29b9f3162a314"
+      ],
+      "locality": "忠县",
+      "id": "sw-ac82b6a528d4687e4c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "昌宁核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "昌宁核桃是与云南·保山·昌宁县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为细香核桃和大泡核桃。",
+      "detail": "昌宁核桃是与云南·保山·昌宁县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为细香核桃和大泡核桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：品种果形壳面特征外壳颜色种仁色泽口感缝合线紧密,刻大泡核桃扁圆球形浅黄褐色黄白色味香、涩味轻纹细、浅缝合线紧密,刻细香核桃近圆球形浅黄褐色浅黄白色味香、细糯纹粗、深。\n\n产地条件方面，资料写到产地范围内海拔1500m至2200m,土壤为黄壤、黄红壤、黄棕壤,土壤pH值5.5至7.5,土壤有机质含量不少于2.0%,土层厚度不少于60cm。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括苗木:以铁核桃实生苗为砧木进行嫁接繁殖。定植:定植时间12月至次年1月,定植密度为120至150株/公顷。整形修剪:树冠内枝条分布均匀,保证通风透光。鲜果采收:当全株1/3以上青果自然开裂适时采收。",
+      "sources": [
+        "sw-gi-86c29b9f3162a314"
+      ],
+      "locality": "昌宁县",
+      "id": "sw-0e91f07c5541cc8e78",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "龙泉驿枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "龙泉驿枇杷是与四川·成都·龙泉驿区相联系的地方食材。原料或品种方面，保护要求记载为大五星。",
+      "detail": "龙泉驿枇杷是与四川·成都·龙泉驿区相联系的地方食材。原料或品种方面，保护要求记载为大五星。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈圆形或卵圆形;果面金黄或橙红色,表面光滑,色泽靓丽;果肉橙红色,质地细嫩,酸甜爽口,口感浓郁。\n\n产地条件方面，资料写到土壤类型为黄色土或紫色土,土壤质地为砂壤或壤土,土层厚度不少于50厘米,土壤有机质含量不少于1.5%,地下水位1.5米以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是4月下旬至6月分批采收。\n\n与原料形成有关的生产记录还包括育苗:以枇杷实生苗为砧木嫁接繁殖。定植:定植时间9月至11月或次年2月至3月。",
+      "sources": [
+        "sw-gi-2c6ef02b0c0ece1b",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "龙泉驿区",
+      "id": "sw-0a11d4f024c1fbe1be",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "龙泉驿枇杷"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "全省",
+      "name": "中国白酒金三角(川酒)",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "中国白酒金三角(川酒)是与四川·广安区相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:产自四川、东北三省,淀粉含量不低于6。",
+      "detail": "中国白酒金三角(川酒)是与四川·广安区相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:产自四川、东北三省,淀粉含量不低于6。",
+      "sources": [
+        "sw-gi-2c6ef02b0c0ece1b"
+      ],
+      "locality": "广安区",
+      "id": "sw-3575975f75da345f16",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "乐至白乌鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乐至白乌鱼是与四川·资阳·乐至县相联系的地方食材。原料或品种方面，保护要求记载为乌鳢(Ophicephalusargus)。",
+      "detail": "乐至白乌鱼是与四川·资阳·乐至县相联系的地方食材。原料或品种方面，保护要求记载为乌鳢(Ophicephalusargus)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体色灰白色,体型呈长筒状,头颈部有斑点,口感鲜滑。",
+      "sources": [
+        "sw-gi-2c6ef02b0c0ece1b"
+      ],
+      "locality": "乐至县",
+      "id": "sw-d13d357f4582a20dcb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "利州红栗",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "利州红栗是与四川·广元·利州区相联系的地方食材。原料或品种方面，保护要求记载为浅刺大板栗。",
+      "detail": "利州红栗是与四川·广元·利州区相联系的地方食材。原料或品种方面，保护要求记载为浅刺大板栗。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形整齐,长椭圆形,果壳红褐色,色泽明亮,茸毛稀少,果肉糯性强,香甜可口。\n\n产地条件方面，资料写到海拔700至900m的平缓坡地,土壤质地为黄砂壤,pH值6.0至6.5,土层厚度不少于60cm,土壤有机质含量不少于1.5%,地势背风向阳,光照充足。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是栗苞由绿转黄,自动开裂达30%,栗实呈红褐色开始采收。全面成熟时择晴日一次打净栗苞。采收后进行挑选,剔除霉变、虫蛀、风干和开裂的果实,及时进行处理,地窖沙藏,沙含水率控制在8%至10%。",
+      "sources": [
+        "sw-gi-a356c738276bb38e"
+      ],
+      "locality": "利州区",
+      "id": "sw-6b7397f2634dafddf6",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "利州香菇",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "利州香菇是与四川·广元·利州区相联系的地方食材。原料或品种方面，保护要求记载为要求段木栽培香菇选择产区范围内树龄7至8年的壳斗科青冈属木材,段木直径8至10cm。",
+      "detail": "利州香菇是与四川·广元·利州区相联系的地方食材。原料或品种方面，保护要求记载为要求段木栽培香菇选择产区范围内树龄7至8年的壳斗科青冈属木材,段木直径8至10cm。四、栽培管理1.段木制备:冬至后至次年立春前砍伐原木,干燥20至30天,截成0.8至1m长的段木。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：柄短,菌盖圆整肥厚,卷边大,裂纹深,花纹自然,菌褶整齐,开伞度不超过7,灰白色。\n\n产地条件方面，资料写到产地范围内海拔800至1000m,背风向阳,靠近水源,相对平坦的半山腰,年日照时数1500小时以上,昼夜温差不少于8°C,空气相对湿度不少于60%,空气清新,水质洁净。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-a356c738276bb38e"
+      ],
+      "locality": "利州区",
+      "id": "sw-3b4be2730a2712f89c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "先市酱油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "先市酱油是与四川·泸州·合江县相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:蛋白质含量40%至52%,符合国家关于大豆的标准规定。",
+      "detail": "先市酱油是与四川·泸州·合江县相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:蛋白质含量40%至52%,符合国家关于大豆的标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽棕红,体态澄清,浓郁清香,醇和爽口,咸甜适度,味道鲜美。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括浸泡→蒸煮→冷却→拌粉→制曲→发酵→淋油→暴晒浓缩→调配→灭菌→灌装。",
+      "sources": [
+        "sw-gi-a356c738276bb38e"
+      ],
+      "locality": "合江县",
+      "id": "sw-54044992d849a06f14",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "邻水脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "邻水脐橙是与四川·广安·邻水县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、清家。",
+      "detail": "邻水脐橙是与四川·广安·邻水县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、清家。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实扁圆形或椭圆形,果皮薄,橙黄色或橙红色,光洁度高,香气浓郁;果肉黄色,细嫩化渣,风味较浓;口感酸甜适度。\n\n产地条件方面，资料写到产地范围内海拔不超过500m,年均温17.1°C至17.5°C,年降雨量1000mm至1200mm,年日照1100小时至1250小时,土壤类型为紫色土,土壤质地为沙壤至壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在12月上旬开始采摘,果皮95%变为橙黄色或者橙红色后采收。",
+      "sources": [
+        "sw-gi-9b85d830f8c4d59b"
+      ],
+      "locality": "邻水县",
+      "id": "sw-390e9fde79a3c20896",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "攀枝花块菌",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "攀枝花块菌是与四川·攀枝花相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "攀枝花块菌是与四川·攀枝花相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜品:外形奇特,直径3cm至8cm,子囊果呈不规则球形,椭圆形,表面有明显的如桑椹状的突疣,有明显大理石纹理,并带有块菌特殊浓郁芳香。(2)干片:呈棕褐色,切面质地细腻,有光泽,有明显大理石纹理。\n\n产地条件方面，资料写到产地范围内海拔1100米至2800米,年平均气温16°C至20.3°C,旱季、雨季分明。土壤类型以砂岩、玄武岩、石灰岩成土母岩为主,土层厚度不少于50厘米,pH值6.0至8.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期为每年10月至翌年2月,使用块菌犬(块菌狗一般选择耐力好,温驯、易受训的狗种)搜寻,确定块菌位置后,用齿耙自上而下轻翻菌塘土壤至块菌出现。",
+      "sources": [
+        "sw-gi-9b85d830f8c4d59b"
+      ],
+      "locality": "攀枝花相关产区",
+      "id": "sw-b0e921840efe653749",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪青花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "蓬溪青花椒是与四川·遂宁·蓬溪县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为当地地方品种“竹叶青”。",
+      "detail": "蓬溪青花椒是与四川·遂宁·蓬溪县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为当地地方品种“竹叶青”。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实颜色碧绿,果粒圆大均匀,果皮肉厚表面油囊密生,油腔多而密,内果皮光滑,薄革质,多数与果肉分离而卷曲;香气浓郁持久,麻味纯正。自然脱籽率不少于85%。\n\n产地条件方面，资料写到产地范围内海拔300m至500m,土壤为紫色壤土或沙壤土,透气性好,土壤有机质含量不少于1%,pH值6.5至8.5。年均降雨量800至900mm,年均日照时数1400小时至1500小时。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及晾晒。",
+      "sources": [
+        "sw-gi-9b85d830f8c4d59b"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-c16115aa888203a9e9",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "射洪野香猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "射洪野香猪是与四川·遂宁·射洪市相联系的地方食材。原料或品种方面，保护要求记载为野香猪。",
+      "detail": "射洪野香猪是与四川·遂宁·射洪市相联系的地方食材。原料或品种方面，保护要求记载为野香猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体猪:个体矮、小、短、圆,两头黑、中间白,嘴长略尖,具有发达的犬齿,四肢结实紧凑,部分个体背腰部稍带黑斑,额头有白线或倒三角型白斑。母猪每胎产仔10至15头,平均初生重0.75千克,成猪体重70千克以上。(2)猪肉:皮薄肉厚,脂肪层薄,肉质纤维清晰,有韧性,肌肉大理石纹分布均匀。\n\n与原料形成有关的生产记录还包括饲养方式:全年放养,适当补饲。饲养条件:(1)饲养密度:饲养密度不超过75头/公顷。(2)饲养期:从仔猪出生到商品猪出栏大于450日龄。(3)出栏体重:出栏体重不少于70千克。",
+      "sources": [
+        "sw-gi-f21f5dbfd01bca12"
+      ],
+      "locality": "射洪市",
+      "id": "sw-1a33465513383d4318",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "漆碑茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "漆碑茶是与四川·达州·宣汉县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为福鼎大白茶、名山131茶等经审(认)定的适制漆碑茶的茶树良种。",
+      "detail": "漆碑茶是与四川·达州·宣汉县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为福鼎大白茶、名山131茶等经审(认)定的适制漆碑茶的茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括明亮、油润、清香、栗香。\n\n产地条件方面，资料写到产地范围内海拔600m以上,土壤pH值4.5至6.5,土层厚度不少于80cm,土壤有机质含量不少于1.5%,硒含量0.25mg/kg至0.38mg/kg。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括定植:时间为11月上旬至翌年3月下旬。采用单行或双行条栽方式种植,每公顷栽植60000至65000株。",
+      "sources": [
+        "sw-gi-f21f5dbfd01bca12"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-64e635f47d924e87fc",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "乡城藏鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乡城藏鸡是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为当地藏鸡。",
+      "detail": "乡城藏鸡是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为当地藏鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸡:具有体型小,匀称紧凑,头昂尾翘,尾羽发达的特征。体型呈船型,头部清秀,公鸡冠大直立,冠齿4至6个,冠为红色单冠,少数有毛冠,毛冠约占1%至3%。母鸡冠小,稍有扭曲。肉垂红色,喙多呈黑色、少数呈肉色或黄色。(2)白条鸡:皮肤浅黄,光滑滋润,肌肉丰满有弹性,背部和尾部脂肪分布均匀。\n\n与原料形成有关的生产记录还包括饲养方式:放养为主、补饲为辅的饲养管理模式。育雏期的饲养要求:0至3天舍温为37°C,4至6天为34°C,之后每周降低3°C直至21°C。育成期的饲养要求:以放牧和舍饲相结合方式饲养。5周龄时每天早晚饲喂过渡性饲料十天,其余时间放牧。",
+      "sources": [
+        "sw-gi-f21f5dbfd01bca12"
+      ],
+      "locality": "乡城县",
+      "id": "sw-b95e0d3f6f41f58252",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "乡城藏鸡蛋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乡城藏鸡蛋是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为本地藏鸡。",
+      "detail": "乡城藏鸡蛋是与四川·甘孜州·乡城县相联系的地方食材。原料或品种方面，保护要求记载为本地藏鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蛋壳颜色以黄色和白色为主,蛋壳较厚;蛋形较小,呈椭圆形;鸡蛋蛋白清澈粘稠、有弹性。蛋黄较大,呈橘黄色或橙红色。\n\n与原料形成有关的生产记录还包括饲养方式:白天放牧散养,晚上入舍,早晚补饲。饲养密度:产蛋散养区每667m2(亩)饲养100至200只,舍内饲养密度不超过5只/m2。",
+      "sources": [
+        "sw-gi-f21f5dbfd01bca12"
+      ],
+      "locality": "乡城县",
+      "id": "sw-b3206571b7edb0379f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "阿坝蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "阿坝蜂蜜是与四川·阿坝州·马尔康市相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "阿坝蜂蜜是与四川·阿坝州·马尔康市相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽呈琥珀色或深琥珀色,半透明,口感绵甜、润不刺喉,回味悠长,有自然的花香味。",
+      "sources": [
+        "sw-gi-65654714b5c2af31"
+      ],
+      "locality": "马尔康市",
+      "id": "sw-b321f14435c7232e45",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居红苕",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "安居红苕是与四川·遂宁·安居区相联系的地方食材。原料或品种方面，保护要求记载为安居本地524号红苕品种。",
+      "detail": "安居红苕是与四川·遂宁·安居区相联系的地方食材。原料或品种方面，保护要求记载为安居本地524号红苕品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：苕块纺锤形,苕皮光滑;质地细腻,苕肉淡红色,色泽均匀;单块重80g至120g;生食香脆可口,熟食松软柔滑。\n\n产地条件方面，资料写到产地范围内海拔410m至500m。土壤类型为沙壤土,有机质含量不少于1.2%,pH值7.5至8.0,耕作层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是于9月上旬至10月上旬选择晴天收获。",
+      "sources": [
+        "sw-gi-65654714b5c2af31"
+      ],
+      "locality": "安居区",
+      "id": "sw-ca5e800132fc844bd4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山豆腐皮",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "船山豆腐皮是与四川·遂宁·船山区相联系的地方加工食品。原料或品种方面，保护要求记载为选用产地范围内的优质大豆,籽粒饱满,蛋白质含量不少于45%。",
+      "detail": "船山豆腐皮是与四川·遂宁·船山区相联系的地方加工食品。原料或品种方面，保护要求记载为选用产地范围内的优质大豆,籽粒饱满,蛋白质含量不少于45%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：油亮光泽,纹面细致,松软滑腻,柔绵有弹性,味香质软。五香味色泽金黄,小磨麻油香气浓郁;麻辣味色泽红亮,麻辣爽口,回味悠长。",
+      "sources": [
+        "sw-gi-65654714b5c2af31"
+      ],
+      "locality": "船山区",
+      "id": "sw-8fdef8fc03163fd44b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "富顺豆花蘸水",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "富顺豆花蘸水是与四川·自贡·富顺县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "富顺豆花蘸水是与四川·自贡·富顺县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈红褐色、油润光亮、表面有芝麻粒,馥郁芳香、香气悦人,质地粘糍、口感细腻、爽辣可口、鲜味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(1)辣椒酱:辣椒→清洗整理→预煮→捣制醒发。",
+      "sources": [
+        "sw-gi-65654714b5c2af31"
+      ],
+      "locality": "富顺县",
+      "id": "sw-76bf786779de075042",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "汉源坛子肉",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "汉源坛子肉是与四川·雅安·汉源县相联系的地方加工食品。原料或品种方面，保护要求记载为本地黑猪及其与长白、大约克、杜洛克等杂交后代。",
+      "detail": "汉源坛子肉是与四川·雅安·汉源县相联系的地方加工食品。原料或品种方面，保护要求记载为本地黑猪及其与长白、大约克、杜洛克等杂交后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：皮与肉不脱离,外观呈微黄或金黄色,色泽鲜亮,口味咸淡适中,醇香浓郁、皮耙肉糯,有独特浓郁而原始的肉香。",
+      "sources": [
+        "sw-gi-b8878192ed4e725c"
+      ],
+      "locality": "汉源县",
+      "id": "sw-e6c0cf519a39a96dd9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "兴文山地乌骨鸡",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "兴文山地乌骨鸡是与四川·宜宾·兴文县相联系的地方食材或食品原料。",
+      "detail": "兴文山地乌骨鸡是与四川·宜宾·兴文县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为四川山地乌骨鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸡:全身羽色以纯黑羽为主,允许纯白羽、麻黄羽等多种羽色,带光泽,无胫羽;体型中等偏大,略呈船形;冠形呈锯齿状乌色,公鸡单冠直立,冠齿多为7个,母鸡冠齿较少,有时冠齿不清。髯为两翼,公鸡略大。冠及肉髯母鸡乌黑,公鸡乌红。耳叶为乌黑色或翠绿色。喙乌黑色,形状平略带钩。\n\n与原料形成有关的生产记录还包括育成期:舍饲与室外分片轮牧放养相结合,舍内网上平养每m210只至12只,地面平养每m28只至10只。每年4月至10月放养。出栏:16周龄以上,公鸡体重不少于1.8kg,母鸡体重不少于1.5kg。",
+      "sources": [
+        "sw-gi-b8878192ed4e725c",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "兴文县",
+      "id": "sw-0eb1915b7bdc461725",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "兴文山地乌骨鸡"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "凉山苦荞茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "凉山苦荞茶是与四川·凉山州相联系的地方茶或代用茶。原料或品种方面，保护要求记载为川荞一号、西荞1号、西荞2号。",
+      "detail": "凉山苦荞茶是与四川·凉山州相联系的地方茶或代用茶。原料或品种方面，保护要求记载为川荞一号、西荞1号、西荞2号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：造粒型茶色泽呈现黄褐、黄绿或黑褐色;全麦(胚)苦荞茶形状为圆形麦粒或破碎麦粒。开水冲泡后茶汤清亮,呈浅黄色或黄绿色;品尝有苦荞麦特有的香味。无异味,无肉眼可见杂质。\n\n产地条件方面，资料写到砂壤土或壤土,土层厚度不少于65cm,耕作层不少于20cm,土壤pH值为6至7,土壤有机质含量不少于1.8%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和储藏:全株有2/3籽粒成熟时是最佳收获期。收获后,种子晾晒至含水量为10%至14%时,入库储藏。",
+      "sources": [
+        "sw-gi-2bc354ff437ded04"
+      ],
+      "locality": "凉山州相关产区",
+      "id": "sw-adc1a3f3a6dca3de1c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "罗甸火龙果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗甸火龙果是与贵州·黔南州·罗甸县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "罗甸火龙果是与贵州·黔南州·罗甸县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大小适中,颜色鲜红,汁多味浓不粘手。\n\n产地条件方面，资料写到产地范围内海拔600m至900m的山原山地和丘陵地带,土壤类型为土质疏松、湿润的砂质土,有机质含量2%至4%,土壤pH值6.0至8.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏。\n\n与原料形成有关的生产记录还包括繁殖方法:种子繁殖或硬枝扦插繁殖。定植:2月或10月定植。",
+      "sources": [
+        "sw-gi-ae2887337cef981b"
+      ],
+      "locality": "罗甸县",
+      "id": "sw-ee1bd396ed83eb69bb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴仁薏仁米(兴仁苡仁米)",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "兴仁薏仁米(兴仁苡仁米)是与贵州·黔西南州·兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、册亨县、安龙县相联系的地方食材。",
+      "detail": "兴仁薏仁米(兴仁苡仁米)是与贵州·黔西南州·兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、册亨县、安龙县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观饱满,颗粒匀称,表面光滑,色灰白,腹沟适中。\n\n产地条件方面，资料写到产地范围内海拔800m至2100m的山地,土壤类型为黄棕壤、黄壤,土壤pH值5.0至8.0;土层厚度不少于50cm;有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏。\n\n与原料形成有关的生产记录还包括选种:选用饱满粒大且有光泽的种子。",
+      "sources": [
+        "sw-gi-ae2887337cef981b"
+      ],
+      "locality": "兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、册亨县、安龙县",
+      "id": "sw-42cad26575eec26e98",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "开阳富硒茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "开阳富硒茶是与贵州·贵阳·开阳县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜制作富硒茶的中、小叶茶树良种。",
+      "detail": "开阳富硒茶是与贵州·贵阳·开阳县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜制作富硒茶的中、小叶茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形匀齐,色泽绿润,香气纯正,滋味鲜醇,汤色绿亮,叶底匀整。\n\n产地条件方面，资料写到产地范围内海拔900m至1300m;土壤质地黄壤土,土壤硒含量不少于0.46mg/kg,土壤pH值4.5至6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春茶为3月上旬至5月中旬,秋茶为9月上旬至10月中旬。\n\n与原料形成有关的生产记录还包括定植:定植时间为11月上旬至翌年3月下旬,每公顷栽植密度不超过55000株。",
+      "sources": [
+        "sw-gi-ae2887337cef981b"
+      ],
+      "locality": "开阳县",
+      "id": "sw-1dadc610d717b2dd3a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "凯里红酸汤",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "凯里红酸汤是与贵州·黔东南州·凯里市相联系的地方调味品。原料或品种方面，保护要求记载为及其要求1.辣椒:新鲜红辣椒。",
+      "detail": "凯里红酸汤是与贵州·黔东南州·凯里市相联系的地方调味品。原料或品种方面，保护要求记载为及其要求1.辣椒:新鲜红辣椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求色泽产品呈鲜红或有白、黄色颗粒组织形态产品呈半固态状,酱体均匀、细腻,粘稠适度气味无异味、无哈刺味滋味具本品固有的鲜香和辛辣味,酸咸适中杂质无肉眼可见外来杂质。",
+      "sources": [
+        "sw-gi-ae2887337cef981b"
+      ],
+      "locality": "凯里市",
+      "id": "sw-c5db9458be3396142e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "独山盐酸菜",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "独山盐酸菜是与贵州·黔南州·独山县相联系的地方调味品。原料或品种方面，保护要求记载为要求1.青菜:产地范围内叶大厚实、叶柄脆嫩的十字花科属芥菜(当地俗称青菜)。",
+      "detail": "独山盐酸菜是与贵州·黔南州·独山县相联系的地方调味品。原料或品种方面，保护要求记载为要求1.青菜:产地范围内叶大厚实、叶柄脆嫩的十字花科属芥菜(当地俗称青菜)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求色泽具有产品固有色泽酸甜爽口,咸辣适中,具有独山盐酸菜独特香气和滋味,滋味气味无不良气味组织形态块型大小适中,无杂质质地脆、嫩。\n\n产地条件方面，资料写到1.青菜:产地范围内叶大厚实、叶柄脆嫩的十字花科属芥菜(当地俗称青菜)。2.辣椒粉:产地范围的优质皱皮辣椒加工而成的辣椒粉,并符合国家关于辣椒粉的标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-ae2887337cef981b"
+      ],
+      "locality": "独山县",
+      "id": "sw-9ff25e5f1f371a2c77",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "新桥枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新桥枇杷是与四川·自贡·荣县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号等。",
+      "detail": "新桥枇杷是与四川·自贡·荣县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实圆形,表面光滑,色泽鲜艳,果皮、果肉深黄色或橙红色,肉质细腻,肥厚多汁。\n\n产地条件方面，资料写到土壤类型为紫色土,有机质含量不少于1.3%,pH值6.0至7.8,土层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是4月中旬至5月下旬采收。\n\n与原料形成有关的生产记录还包括苗木培育:以本地枇杷实生苗为砧木的嫁接苗。定植:2月上旬至4月下旬或9月上旬至10月下旬。定植密度每667m2(亩)不超过55株。整形修剪:春季修剪2月上旬至3月下旬,夏季修剪5月上旬至6月下旬进行。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "荣县",
+      "id": "sw-ace672ab13831ccc27",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "新桥枇杷"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "大兴蒜薹",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大兴蒜薹是与四川·凉山州·西昌市相联系的地方食材。原料或品种方面，保护要求记载为紫皮早蒜、新早蒜等。",
+      "detail": "大兴蒜薹是与四川·凉山州·西昌市相联系的地方食材。原料或品种方面，保护要求记载为紫皮早蒜、新早蒜等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：直径0.2cm至0.6cm,长度35cm至50cm。基部嫩白、上部浓绿、尾端不萎蔫糠心,色泽鲜绿、质地脆嫩,辛辣浓香略带甜味。\n\n产地条件方面，资料写到产地范围内海拔1750m以下,土壤类型为紫色冲积土,土壤有机质不少于2%,pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是2月下旬至4月下旬收获。总苞变白时采收。\n\n与原料形成有关的生产记录还包括采收:2月下旬至4月下旬收获。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "西昌市",
+      "id": "sw-163e14c4c39ef9daa5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "东坡肘子(眉山产区)",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "东坡肘子(眉山产区)是与四川·眉山·东坡区相联系的地方菜肴与加工食品。",
+      "detail": "东坡肘子(眉山产区)是与四川·眉山·东坡区相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为雅南黑猪及其与长白猪、大约克猪、杜洛克猪等杂交的后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：酱红色、黄褐色或乳白色,色泽均匀,表面有光泽,汤汁呈棕褐色或油红色。皮不脱落,肉软硬适度。具有固有的滋味和气味,无肉眼可见外来杂质。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "东坡区",
+      "id": "sw-9f78db084f2f5f4b97",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "河舒豆腐",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "河舒豆腐是与四川·南充·蓬安县相联系的地方加工食品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "河舒豆腐是与四川·南充·蓬安县相联系的地方加工食品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)豆腐:乳白色或淡黄色,断面有光泽;有豆腐特有的豆香味,口感细腻鲜嫩;有弹性,块型完整。(2)豆腐干:淡黄至深褐色,密实细腻,富有弹性,咸淡适口,具有卤(熏)豆腐特有的香味。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "蓬安县",
+      "id": "sw-561b8591d1f80e0ae9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "太源井晒醋",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "太源井晒醋是与四川·自贡·沿滩区相联系的地方调味品。原料或品种方面，保护要求记载为要求1.大米:产地范围内的再生稻,符合国家相关规定。",
+      "detail": "太源井晒醋是与四川·自贡·沿滩区相联系的地方调味品。原料或品种方面，保护要求记载为要求1.大米:产地范围内的再生稻,符合国家相关规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：指标项目自然陈酿恒温陈酿色泽深棕红褐色红综色香气醇香和脂香,弥久留香醇香和脂香滋味酸味柔和、醇厚回甜酸味协调体态汁澄清,浓稠挂壁汁澄清。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括乌梅、肉桂、木瓜、甘草→粉碎→加入麸皮→浸润搅拌→包药→发酵→风干↓大米、水→蒸煮→冷却→母液培养—加入麸皮→拌醅→陈酿→淋醋→晒制熟化→成品灌装。\n\n产地条件方面，资料写到1.大米:产地范围内的再生稻,符合国家相关规定。2.麸皮:符合国家相关规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "沿滩区",
+      "id": "sw-dc42b7fc87fcf2942f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "五宝花生",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "五宝花生是与四川·自贡·贡井区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内天府系列、鲁花系列和豫花系列花生品种。",
+      "detail": "五宝花生是与四川·自贡·贡井区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内天府系列、鲁花系列和豫花系列花生品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鹰嘴形,果壳薄,表面麻眼浅光滑,网纹清晰,荚果大小中等,均匀,果壳白色略带浅黄。果粒细长、条直、匀称,腰脐明显。籽仁珍珠豆形或中间形,种皮粉红色或浅粉红色。花生仁象牙色,饱满,口感细腻,口味甘甜。\n\n产地条件方面，资料写到产地范围内海拔300m至400m,土壤类型为红紫泥土,土层厚度不少于15cm,土壤有机质含量不少于1.0%,土壤pH值6.0至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "贡井区",
+      "id": "sw-4e5c34f5ed632398b4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "温江酱油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "温江酱油是与四川·成都·温江区相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:符合国家标准相关规定。",
+      "detail": "温江酱油是与四川·成都·温江区相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:符合国家标准相关规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽鲜亮,挂壁,深红棕色,酱酯香气浓郁,口感鲜美醇厚,余味绵长,咸甜适口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括大豆清洗→浸泡→蒸煮→冷却→拌生麦粉→制曲→露晒发酵→翻醅→成熟→压榨提取→灭菌→成品灌装。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "温江区",
+      "id": "sw-0364d98992702b9663",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "仁寿芝麻糕",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "仁寿芝麻糕是与四川·眉山·仁寿县相联系的地方面食与米制点心。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "仁寿芝麻糕是与四川·眉山·仁寿县相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观呈乳白色,无斑点,无杂质,糕质细嫩,入口化渣,回香。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括制芝麻粉→搅糖→制糕粉→制熟面粉→拌合→上模成型→包装→检验→成品。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-5f2732957fdbf0b5d1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "空山核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "空山核桃是与四川·巴中·通江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为通核0035、通核0147等核桃品种。",
+      "detail": "空山核桃是与四川·巴中·通江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为通核0035、通核0147等核桃品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实外形呈椭圆形、圆形。果面较光滑,缝合线低平。仁色白,饱满。\n\n产地条件方面，资料写到产地范围内海拔500m至1600m,土壤类型为紫色土,土壤质地为沙壤土,pH值5.5至7.5,土壤有机质含量不少于1%。年均气温12°C至17°C,年均降雨量1100mm至1800mm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年9月中旬至下旬,青果皮由绿变黄,部分果皮顶部开裂,内褶壁变黑后开始采收。\n\n与原料形成有关的生产记录还包括育苗:以当地核桃实生苗为砧木进行嫁接繁殖。整形:采用主干分层形。浇水:在萌芽前、果实发育期、果实成熟前、土壤封冻前各浇水1次。",
+      "sources": [
+        "sw-gi-de56f7884205d0ed"
+      ],
+      "locality": "通江县",
+      "id": "sw-8d6fc90b4e8f2bc778",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "曾家山甘蓝",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "曾家山甘蓝是与四川·广元·朝天区相联系的地方食材。原料或品种方面，保护要求记载为京丰一号、寒将军等甘蓝品种。",
+      "detail": "曾家山甘蓝是与四川·广元·朝天区相联系的地方食材。原料或品种方面，保护要求记载为京丰一号、寒将军等甘蓝品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽蓝绿,叶球紧实,叶片肉厚,口感清脆,略带甜味。\n\n产地条件方面，资料写到产地范围内海拔高度1200m至1500m,土壤类型为山地黄棕壤,暗棕色团粒结构,质地为中壤,有机质含量不少于1.5%,pH值6.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是夏甘蓝7月至8月采收,秋甘蓝9月到11月采收。在叶球大小定型,紧实度达到八成以上时采收。\n\n与原料形成有关的生产记录还包括定植:夏甘蓝5月至6月移栽,秋甘蓝6月下旬至7月上旬移栽,株行距40cm×50cm,每667m2(亩)定植不超过3300株。采收:夏甘蓝7月至8月采收,秋甘蓝9月到11月采收。在叶球大小定型,紧实度达到八成以上时采收。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "朝天区",
+      "id": "sw-ce7466fe49ca4b00d2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌豆杆",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "隆昌豆杆是与四川·内江·隆昌市相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:选用产地范围内的冬大豆,蛋白质干基含量不少于40%、脂肪干基含量不少于20%。",
+      "detail": "隆昌豆杆是与四川·内江·隆昌市相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:选用产地范围内的冬大豆,蛋白质干基含量不少于40%、脂肪干基含量不少于20%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：油润光亮,颜色淡黄,色泽一致,杆条均匀,组织紧密。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括大豆→浸泡清洗→磨浆→滤浆→煮浆→放浆过滤→起皮成型→裹棒烘干→成型烘干→包装。\n\n产地条件方面，资料写到1.大豆:选用产地范围内的冬大豆,蛋白质干基含量不少于40%、脂肪干基含量不少于20%。2.生产用水:产地范围内山泉水或地下水,水质符合国家生活饮用水标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-60249f47525add7b15",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "广安蜜梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "广安蜜梨是与四川·广安·华蓥市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为砂梨。",
+      "detail": "广安蜜梨是与四川·广安·华蓥市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为砂梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果型较大,果实近球形,表面浅褐色或棕褐色,有浅色斑点,皮薄、肉质脆嫩、多汁无渣、酸甜适口。\n\n产地条件方面，资料写到产地范围内海拔500m至700m,土壤类型为山地黄壤、暗黄壤和黄棕壤,pH值6.0至7.0,土层厚度不少于50cm,有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏。\n\n与原料形成有关的生产记录还包括苗木:采用以川梨为砧木的嫁接苗。定植:(1)定植时间:春植1月下旬至3月中旬、秋植11月中旬至12月上旬。(2)定植密度:行距3.5m至4.0m,株距1.0m至1.5m,每667m2(亩)栽127株至190株。整形修剪:采用纺锤型或开心型。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "华蓥市",
+      "id": "sw-c69a88394d59a809f2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江米花糖",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "蒲江米花糖是与四川·成都·蒲江县相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求1.糯米:产自产地范围内椭圆粳糯米,符合国家相关规定。",
+      "detail": "蒲江米花糖是与四川·成都·蒲江县相联系的地方米面与糖点。原料或品种方面，保护要求记载为要求1.糯米:产自产地范围内椭圆粳糯米,符合国家相关规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：产品块形完整、不松散、大小均匀、洁白晶亮、香味纯正、香甜松脆,入口化渣,食后不粘牙。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括粳糯米→清洗浸泡→蒸煮→摊凉搓散→晾晒(阴干)→分选→烘炒醒发→膨化筛选→配料拌和→成型→包装→检验→入库。\n\n产地条件方面，资料写到1.糯米:产自产地范围内椭圆粳糯米,符合国家相关规定。2.植物油:食用菜籽油或棕榈油,符合国家相关规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-6adaff2f38dc80bb11",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "会东块菌",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "会东块菌是与四川·凉山州·会东县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "会东块菌是与四川·凉山州·会东县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜品:子实体表皮黑色、暗褐色或白色,直径不少于3cm,内部产孢组织黑褐色、白色或棕色,有明显大理石纹理,有块菌特殊的清香味。(2)干品:棕褐色,切面质地细腻,有光泽,有明显大理石纹理。\n\n产地条件方面，资料写到产地范围内海拔高度在1300m至2600m,年平均气温14°C至23°C,土壤质地沙壤、壤土,土层厚度不少于50cm,有机质含量不少于1.5%,pH值6.5至7.2。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "会东县",
+      "id": "sw-10b4d11e0ff650af38",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨边竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "峨边竹笋是与四川·乐山·峨边彝族自治县相联系的地方食材。原料或品种方面，保护要求记载为适于本地生长的三月竹、八月竹等。",
+      "detail": "峨边竹笋是与四川·乐山·峨边彝族自治县相联系的地方食材。原料或品种方面，保护要求记载为适于本地生长的三月竹、八月竹等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：头尖底粗,笋长度在10cm至30cm,单笋重30g至100g,笋肉呈淡黄色、有光泽,粗细均匀;质柔,清脆,表面光滑呈层状;清香气味。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "峨边彝族自治县",
+      "id": "sw-7150c024d67cf690f2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑榨菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大邑榨菜是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为要求1.青菜头:选用产地范围内种植的青菜头。",
+      "detail": "大邑榨菜是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为要求1.青菜头:选用产地范围内种植的青菜头。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：具有榨菜产品固有的色泽;条状或颗粒状,无异味;味道鲜、香、脆、嫩,咸淡适口。\n\n产地条件方面，资料写到1.青菜头:选用产地范围内种植的青菜头。2.配料:食用盐、白砂糖,符合国家标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "大邑县",
+      "id": "sw-f06822403be6fa7932",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "䢺江青梅酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "䢺江青梅酒是与四川·成都·大邑县相联系的地方酒。原料或品种方面，保护要求记载为要求1.青梅:选用䢺江本地种植的新鲜青梅。",
+      "detail": "䢺江青梅酒是与四川·成都·大邑县相联系的地方酒。原料或品种方面，保护要求记载为要求1.青梅:选用䢺江本地种植的新鲜青梅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求澄清、透明、无悬浮物、无沉淀(装瓶外观一年以上的产品允许有少量沉淀)色泽半甜、甜酒黄色、金黄色香气具有青梅清新的果香和谐调的酒香滋味半甜、甜酒纯净爽口、醇厚、酸甜协调、无异味风格具有本产品类型的固有风格。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜青梅→清洗→入池→盐渍→脱盐→糖渍发酵→果液分离→接种发酵→过滤陈酿→调配→杀菌→冷藏→除菌澄清过滤→灌装。\n\n产地条件方面，资料写到1.青梅:选用䢺江本地种植的新鲜青梅。2.配料:白砂糖、食用盐,符合国家相关规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "大邑县",
+      "id": "sw-effadb4aaa1dc69fca",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "安仁葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "安仁葡萄是与四川·成都·大邑县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为夏黑、摩尔多瓦、金手指、美人指、红地球、紫地球等。",
+      "detail": "安仁葡萄是与四川·成都·大邑县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为夏黑、摩尔多瓦、金手指、美人指、红地球、紫地球等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果穗完整,果粒大小、形状、颜色整齐,果粉完整,果实外观呈现本品种特色;果肉细腻,糖酸比合理,适口性好。\n\n产地条件方面，资料写到土壤类型为黄泥水稻土,土壤pH值为6.5至7.5,有机质含量不少于1.2%,地下水位0.75m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月下旬至9月下旬,依据品种特性,当可溶性固形物含量不少于16%,或有核品种种子变褐时,开始采收。\n\n与原料形成有关的生产记录还包括苗木繁育:采用扦插或嫁接育苗方法。栽培方式:避雨栽培。定植:11月下旬至12月上旬定植,棚架定植密度不超过3000株/公顷,篱架定植密度不超过6000株/公顷。采收前10天停止灌水。禁止使用人工合成的植物生长调节剂。",
+      "sources": [
+        "sw-gi-cb70ae8792d352c6"
+      ],
+      "locality": "大邑县",
+      "id": "sw-49a42b24492255d609",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "华坪芒果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "华坪芒果是与云南·丽江·华坪县相联系的地方食材。原料或品种方面，保护要求记载为凯特、圣心、红象牙、热农一号等。",
+      "detail": "华坪芒果是与云南·丽江·华坪县相联系的地方食材。原料或品种方面，保护要求记载为凯特、圣心、红象牙、热农一号等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：皮色新鲜,着色良好有光泽,外观亮丽,果粉较厚。肉色橙黄嫩滑,核小肉厚,纤维少。香味浓郁,风味独特,口感清甜爽口。\n\n产地条件方面，资料写到产地范围内海拔1000m至1600m,土壤类型为红壤、砂质土、紫色土,土壤pH值5.5至7.0,土壤有机质含量不少于1.0%。土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括苗木培育:采用本地三年芒或扁桃芒实生苗为砧木的嫁接苗。定植:6月上旬到7下旬。",
+      "sources": [
+        "sw-gi-12deb68cafdd6b27"
+      ],
+      "locality": "华坪县",
+      "id": "sw-1aee8c3ae47342b82d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "遮放贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "遮放贡米是与云南·德宏州·芒市相联系的地方食材。原料或品种方面，保护要求记载为籼稻“滇屯502”、“毫木西”、“毫秕”、“德优系列品种”等。",
+      "detail": "遮放贡米是与云南·德宏州·芒市相联系的地方食材。原料或品种方面，保护要求记载为籼稻“滇屯502”、“毫木西”、“毫秕”、“德优系列品种”等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：谷粒金黄色,米为长粒型,色泽晶莹如玉,米饭滋润香软爽口、油亮、粘而不腻、冷不回生。\n\n产地条件方面，资料写到土壤类型为紫色土、沙壤土、沼泽土、冲积土、水稻土,土壤有机质含量不少于3%,pH值5.5至5.7。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及加工。\n\n与原料形成有关的生产记录还包括移栽:5月上旬到6月上旬,每667m2(亩)栽植1.6万至1.8万穴,每穴2株至3株。",
+      "sources": [
+        "sw-gi-12deb68cafdd6b27"
+      ],
+      "locality": "芒市",
+      "id": "sw-7a7b86bf4e04bf587c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "呈贡宝珠梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "呈贡宝珠梨是与云南·昆明·呈贡区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为宝珠梨。",
+      "detail": "呈贡宝珠梨是与云南·昆明·呈贡区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为宝珠梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实近圆形,果梗短粗,皮色青翠,采后果实表面出现蜡质,具光泽。果点明显。单果重200g至500g。果肉雪白,肉质脆、细嫩、多汁无渣、酸甜适口。\n\n产地条件方面，资料写到产地范围内海拔1950m至2200m的丘陵缓坡地带,土壤类型为红壤,有机质含量不少于2.0%,土壤pH值5.5至6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏。\n\n与原料形成有关的生产记录还包括苗木:采用以棠梨为砧木的嫁接苗。定植:(1)定植时间:11月下旬至次年1月。(2)定植密度:每667m2(亩)栽植40株至45株。",
+      "sources": [
+        "sw-gi-12deb68cafdd6b27",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "呈贡区",
+      "id": "sw-c83cc8b496a7fd8491",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "呈贡宝珠梨"
+      ]
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "梁河葫芦丝",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "梁河葫芦丝是与云南·德宏州·梁河县相联系的地方器物与工艺原料。",
+      "detail": "梁河葫芦丝是与云南·德宏州·梁河县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为“铁葫芦”等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：音色柔美圆润。环境温度20°C至25°C,相对湿度40%至75%条件下,在440.00Hz至443.83Hz范围内确定小字一组a音的频率,各音音准允许误差不超过±15音分。2.。\n\n产地条件方面，资料写到土壤类型为河流冲积土、沙壤土和壤土,pH值5.7至6.6,土壤有机质含量不少于1.3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工(1)采收:10月至11月,果实呈金黄色时开始采摘。(2)选材:颜色黄、皮厚结实,底脐小而正中,外形周正。(3)制备:采收后2天内刮皮,在室外阳光下自然晾干,清理内部杂物。二、紫竹。",
+      "sources": [
+        "sw-gi-12deb68cafdd6b27"
+      ],
+      "locality": "梁河县",
+      "id": "sw-56879cf5d3dc99c6c4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "腾冲红花油茶油",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "腾冲红花油茶油是与云南·保山·腾冲市相联系的地方食材或食品原料。",
+      "detail": "腾冲红花油茶油是与云南·保山·腾冲市相联系的地方食材或食品原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：清亮透明,具有本品固有的气味和滋味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括油茶籽→压榨→碱炼→脱水→脱色→脱臭→过滤→成品。\n\n产地条件方面，资料写到海拔1500m至2600m,坡度不超过30°。土壤为疏松的棕壤、黄棕壤、黄壤、火山灰土等,有机质含量不少于1.0%,土壤pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月上旬,果实自然开裂后采收,7天内完成。\n\n与原料形成有关的生产记录还包括种苗繁育:无性繁殖。合理修剪,采用皮下枝接、嵌合枝接等方法改造劣株。",
+      "sources": [
+        "sw-gi-12deb68cafdd6b27",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "腾冲市",
+      "id": "sw-b5b39715e8ec879299",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "腾冲红花油茶油"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "三穗鸭",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "三穗鸭是与贵州·黔东南州·黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、剑河县、台江县相联系的地方食材。",
+      "detail": "三穗鸭是与贵州·黔东南州·黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、剑河县、台江县相联系的地方食材。原料或品种方面，保护要求记载为当地麻鸭。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸭:眼高颈细形似船,嘴黄脚橙翘尾扇,公鸭头绿身棕褐,母鸭麻羽体背宽。(2)白条鸭:皮肤青白色,皮薄骨细软,皮下脂肪少,肌肉鲜红,切面有光泽,富有弹性;煮沸烹饪后肉汤乳白色,香味浓郁。\n\n与原料形成有关的生产记录还包括(3)饲养密度:每平方米<20只,随着日龄的增大,降低饲养密度。(4)给料:开食至二日龄可喂雏鸭饲料或半生熟的米饭。三日龄以后补给小鱼、小虾和蚌、螺、青饲料,日喂量逐渐增加。15至20日龄,采取饥饿强制方法迫使雏鸭采食谷粒,然后转入中鸭的放牧饲养。",
+      "sources": [
+        "sw-gi-b1e72d8271473ca8"
+      ],
+      "locality": "黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、剑河县、台江县",
+      "id": "sw-98b4e0eb7eb58cc795",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "锡利贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "锡利贡米是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为当地适宜产地范围内生长的系列油粘稻品种。",
+      "detail": "锡利贡米是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为当地适宜产地范围内生长的系列油粘稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括油润、有弹性、清香。\n\n产地条件方面，资料写到产地范围内海拔400至800m,土层厚度30至50cm,土壤有机质含量不少于3%,土壤pH值5.5至7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是收获期为9月中下旬至10月上旬,籽粒充分黄熟后及时收获,分品种单收单脱,脱粒扬净后晒干贮存。\n\n与原料形成有关的生产记录还包括移栽:移栽时间为5月中旬,每667m2(亩)植苗1.6至1.8万穴,每穴2至3基本苗。",
+      "sources": [
+        "sw-gi-b1e72d8271473ca8"
+      ],
+      "locality": "榕江县",
+      "id": "sw-0c108350d721496148",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "赫章核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "赫章核桃是与贵州·毕节·赫章县相联系的地方果蔬或干果。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "赫章核桃是与贵州·毕节·赫章县相联系的地方果蔬或干果。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果近圆形或椭圆形,果基圆,果顶尖,壳面略麻,黄白色或浅琥珀色;缝合线窄而凸起,结合紧密;仁饱满、色浅白色或浅黄色、易取整仁、味香纯。\n\n产地条件方面，资料写到产地范围内海拔1700至1900米,土壤类型主要为山地灌丛草甸土,山地黄棕壤、黄壤紫色土、石灰土。土壤pH值6.2至7.5,土壤有机质含量不少于3%,土层厚度不少于1m。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-b1e72d8271473ca8"
+      ],
+      "locality": "赫章县",
+      "id": "sw-e988b54033a56b2356",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "朵贝茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "朵贝茶是与贵州·安顺·普定县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为安顺竹叶青(C.Sinensiscv.Anshun-zhuyecha)及适宜制作朵贝茶的中、小叶茶树良种。",
+      "detail": "朵贝茶是与贵州·安顺·普定县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为安顺竹叶青(C.Sinensiscv.Anshun-zhuyecha)及适宜制作朵贝茶的中、小叶茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)扁形茶:外形扁直、光滑、匀整;色泽绿润;嫩香持久;汤色嫩绿明亮;滋味醇厚鲜爽。(2)卷曲形茶:外形条索紧实、匀整;色泽灰绿光润;香气高长;汤色黄绿清澈;滋味醇厚鲜爽。\n\n产地条件方面，资料写到产地范围内海拔1200m至1600m,土壤质地黄壤土,土壤pH值4.5至6.0,土层厚度不少于50cm,土壤有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-b1e72d8271473ca8"
+      ],
+      "locality": "普定县",
+      "id": "sw-a4efdbe7e37bfd467e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌夏布",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "隆昌夏布是与四川·内江·隆昌市相联系的地方工艺物品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "隆昌夏布是与四川·内江·隆昌市相联系的地方工艺物品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：光滑平整、配纱适宜、梭数均匀。成品色泽为黄褐色或黄色,经纬匀称;布细而平,莹洁润泽,坚韧耐用。允许限度项目优等品合格品经向疵点连续长度5cm~10cm不超过2处连续长度5cm~10cm不超过4处纬向疵点连续长度5cm~10cm不超过2处连续长度5cm~10cm不超过4处。\n\n产地条件方面，资料写到海拔高度200米至500m范围内,栽培土壤为疏松肥沃的砂壤土,pH值为5.5至7.0。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-808ed8aa152d1cf5"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-14952812b25b73ce6b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "江口青鳙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "江口青鳙是与四川·巴中·平昌县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "江口青鳙是与四川·巴中·平昌县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体呈棒状,身呈青黑色;背部鳞片带紫绿色光泽;肉质洁白,紧实细滑。\n\n产地条件方面，资料写到产地范围内水质符合国家渔业水质标准,底质符合有关国家水产品产地环境要求。水深不少于1.5m,pH值7.0至7.8,溶解氧不少于8.0mg/L,透明度不少于50cm。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "平昌县",
+      "id": "sw-7f2828095cf2bbee18",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉糕",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "峨眉糕是与四川·乐山·峨眉山市相联系的地方面食与米制点心。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "峨眉糕是与四川·乐山·峨眉山市相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形整齐,呈条方形,色泽洁白,粉料细腻,滋润细软,入口即化,回味蜜甜。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原材料挑选→淘米→晾放(俗称收汗)→制油砂→炒米→磨粉→露粉→过筛→制提糖→搅糖→配料拌合→成型→切割→杀菌→包装→检验→入库。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "峨眉山市",
+      "id": "sw-2135468b138ea3ab25",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "卓筒井盐",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "卓筒井盐是与四川·遂宁·大英县相联系的地方调味品。原料或品种方面，保护要求记载为要求1.盐卤:选用地下1500m至3000m深层黄卤和石膏型岩卤。",
+      "detail": "卓筒井盐是与四川·遂宁·大英县相联系的地方调味品。原料或品种方面，保护要求记载为要求1.盐卤:选用地下1500m至3000m深层黄卤和石膏型岩卤。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观白色,颗粒较大,色泽均匀。腌制咸菜风味咸鲜、色泽鲜亮、清脆爽口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括天然卤水+岩卤水→搅拌反应→一次澄清→二次澄清→加碱调值→原料卤水→真空制盐→检验→计量包装→成品。\n\n产地条件方面，资料写到1.盐卤:选用地下1500m至3000m深层黄卤和石膏型岩卤。2.水源:加工用水,采取浅层地下水,水质符合国家规定的生活饮用水标准。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "大英县",
+      "id": "sw-20338162fe859ec302",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "道孚大葱",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "道孚大葱是与四川·甘孜州·道孚县相联系的地方食材。原料或品种方面，保护要求记载为当地传统品种。",
+      "detail": "道孚大葱是与四川·甘孜州·道孚县相联系的地方食材。原料或品种方面，保护要求记载为当地传统品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形粗壮挺拔,葱白长;质地细嫩,食之汁多质脆,辣中带甜。\n\n产地条件方面，资料写到产地范围内海拔2900m至3500m,土壤类型为砂壤土,土壤pH值6.6至7.5,有机质含量不少于1.2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是夏播:翌年3至4月收获;秋播:翌年8至9月收获。\n\n与原料形成有关的生产记录还包括定植:(1)定植时间:夏播:9月初定植。秋播:翌年3月至4月定植。(2)定植密度:每公顷不超过30万株。(3)定植苗要求:高35cm至45cm,茎粗不少于1cm。培土:生长期培土不少于三次,培土总高度不少于35cm。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "道孚县",
+      "id": "sw-043fc0e4272f02e4df",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "黄果树窖酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "黄果树窖酒是与贵州·安顺相联系的地方酒。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "黄果树窖酒是与贵州·安顺相联系的地方酒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目41%vol~60%vol33%vol~40%vol色泽无色(或微黄),清亮透明,无悬浮物,无沉淀外观a香气具有浓郁的乙酸乙酯为主体的复合香气,窖香优雅,略带清香口味酒体醇合协调,绵甜爽净,回味悠长酒体协调,绵甜爽净,余味较长风格具有本品典型风格a当酒液温度低于10°C以下时。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "安顺相关产区",
+      "id": "sw-1cdd92406f576c7c3c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "黄果树矿泉水",
+      "type": "drinks",
+      "kind": "地方饮品",
+      "description": "黄果树矿泉水是与贵州·安顺相联系的地方饮品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "黄果树矿泉水是与贵州·安顺相联系的地方饮品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：无色、无臭、无味、无沉淀,清冽甘甜,水质、口感上佳。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "安顺相关产区",
+      "id": "sw-076ac91710242c2329",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "册亨茶油",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "册亨茶油是与贵州·黔西南州·册亨县相联系的地方食材或食品原料。",
+      "detail": "册亨茶油是与贵州·黔西南州·册亨县相联系的地方食材或食品原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：油色浅茶色,清亮透明,滋味香醇,久置无分层。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→储存→预处理→蒸炒→压榨→过滤→成品油。\n\n产地条件方面，资料写到产地范围内海拔500m至1000m,土壤类型为红壤或黄棕壤,有机质含量不少于1.0%,土壤pH值4.5至5.4,土层厚度40cm至80cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月中旬至12月下旬分批采收。四、加工。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "册亨县",
+      "id": "sw-83710b36cdd8173a19",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "六盘水苦荞茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "六盘水苦荞茶是与贵州·六盘水·钟山区、六枝特区、水城区相联系的地方茶或代用茶。",
+      "detail": "六盘水苦荞茶是与贵州·六盘水·钟山区、六枝特区、水城区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为产自产地范围内海拔不少于1700m的细白苦荞。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)原味茶:汤色黄至深棕色,麦香浓烈,夹带焦香;(2)风味茶:汤色黄至深棕色,麦香浓烈,略带茶香。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括要点。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "钟山区、六枝特区、水城区",
+      "id": "sw-46cd690ce793698d2a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "六盘水苦荞米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "六盘水苦荞米是与贵州·六盘水相联系的地方食材。原料或品种方面，保护要求记载为适宜当地种植的六苦2号、六苦3号等类型的品种。",
+      "detail": "六盘水苦荞米是与贵州·六盘水相联系的地方食材。原料或品种方面，保护要求记载为适宜当地种植的六苦2号、六苦3号等类型的品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：不规则颗粒状,大小均匀,淡黄色至黄绿色,麦清味浓郁,微苦。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括及操作要点。\n\n产地条件方面，资料写到产地范围内海拔1700m以上,土壤类型为红壤或黄棕壤,土壤pH值5.5至7.5,耕作层不少于20cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和储藏:当植株籽粒2/3成熟时采收,脱粒后自然晾晒,含水量不超过。",
+      "sources": [
+        "sw-gi-ca7e45b138d5a9b4"
+      ],
+      "locality": "六盘水相关产区",
+      "id": "sw-86d85de6739508fff6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "雨城猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "雨城猕猴桃是与四川·雅安·雨城区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、金艳。",
+      "detail": "雨城猕猴桃是与四川·雅安·雨城区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、金艳。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)红阳:果实呈短圆柱形、果皮光滑呈淡绿色、果肉翠绿色,果心紫红色。酸甜适度,细嫩多汁,具清香。(2)金艳:果实呈长圆柱形、果皮深褐色、茸毛少、果肉金黄色、细嫩多汁、风味香甜可口。\n\n产地条件方面，资料写到产地范围内海拔520m至1200m,土壤质地为砂壤土,土壤pH值5.5至7.0,土层厚度不少于60cm,有机质含量不少于2%,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗:以野生猕猴桃实生苗作砧木,采用嫁接方法育苗。定植:(1)栽植时期:秋栽在9月下旬至10月上旬进行。",
+      "sources": [
+        "sw-gi-b6d60c115c643ad6"
+      ],
+      "locality": "雨城区",
+      "id": "sw-b153e8e7d4ffaec0ca",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江花生",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗江花生是与四川·德阳·罗江区相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "罗江花生是与四川·德阳·罗江区相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形整齐均匀,咸淡适中,酥脆适口,不油不腻,回味香甜。",
+      "sources": [
+        "sw-gi-b6d60c115c643ad6"
+      ],
+      "locality": "罗江区",
+      "id": "sw-faa2778b1da58135a1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "修文猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "修文猕猴桃是与贵州·贵阳·修文县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为贵长。",
+      "detail": "修文猕猴桃是与贵州·贵阳·修文县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为贵长。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形长圆柱形,表皮棕褐色,色泽均匀,果肉细嫩,呈翠绿色,色泽均匀,肉质多浆,酸甜适度,清甜爽口。\n\n产地条件方面，资料写到产地范围内海拔高度940m至1360m,土壤以酸性或微酸性黄壤、砂壤土为主,土层深厚、疏松,土壤较为肥沃,有机质含量不少于1%,pH值5.5至6.5,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和贮藏鲜果的可溶性固性物达6%至7%时采收,选择晴天的早晚天气凉爽时或多云天气时进行。采摘后应于24小时内入库预冷。",
+      "sources": [
+        "sw-gi-b6d60c115c643ad6"
+      ],
+      "locality": "修文县",
+      "id": "sw-c1042a8111823bc309",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "牟定腐乳",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "牟定腐乳是与云南·楚雄州·牟定县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "牟定腐乳是与云南·楚雄州·牟定县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)油腐乳:块状完整、厚薄均匀、质地细腻、油香适口,具有独特的芳香味。表面呈鲜艳红色或枣红色,断面呈杏黄色,(2)素腐乳:块状完整、厚薄均匀、质地细腻、醇香可口、咸淡适口。表面呈乳黄色,断面呈杏黄色。",
+      "sources": [
+        "sw-gi-b6d60c115c643ad6"
+      ],
+      "locality": "牟定县",
+      "id": "sw-93f0cc7b8981dec11e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "寻甸牛干巴",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "寻甸牛干巴是与云南·昆明·寻甸回族彝族自治县相联系的地方菜肴与加工食品。",
+      "detail": "寻甸牛干巴是与云南·昆明·寻甸回族彝族自治县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为及辅料要求1.牛肉:产地范围内养殖符合品种要求的牛后腿肉,出栏年龄为24月龄至36月龄。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肌肉切片呈紫红色、脂肪呈乳白色或金黄色,具有牛干巴特有的香气,无异味,形态为紧密的片状或块状,大小、厚薄均匀一致,无肉眼可见杂质,允许有香辛配料颗粒存在。\n\n与原料形成有关的生产记录还包括饲料:以青贮饲料、鲜青草为主要粗料,适当补充精饲料。管理:按体重、性别、年龄分群饲养。三、原料及辅料要求1.牛肉:产地范围内养殖符合品种要求的牛后腿肉,出栏年龄为24月龄至36月龄。",
+      "sources": [
+        "sw-gi-b6d60c115c643ad6"
+      ],
+      "locality": "寻甸回族彝族自治县",
+      "id": "sw-cd5bd3eb40565f9945",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "自贡冷吃兔",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "自贡冷吃兔是与四川·自贡·自流井区相联系的地方菜肴与加工食品。",
+      "detail": "自贡冷吃兔是与四川·自贡·自流井区相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为以中国白兔为母本,与新西兰兔杂交的后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽鲜亮,肉质坚实、有嚼劲,味浓鲜、爽口不绵,具有麻、辣、鲜、香、甜,“五味调和、互不压味”的独特品质。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2"
+      ],
+      "locality": "自流井区",
+      "id": "sw-24e0c2451e482caea3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "汉源花椒油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "汉源花椒油是与四川·雅安·汉源县相联系的地方调味品。原料或品种方面，保护要求记载为1.鲜花椒:(1)品种:贡椒。",
+      "detail": "汉源花椒油是与四川·雅安·汉源县相联系的地方调味品。原料或品种方面，保护要求记载为1.鲜花椒:(1)品种:贡椒。(2)立地条件:产地范围内海拔1100米至1800m,水稻土、黄棕壤、冲积土、紫色土,有机质含量不少于1.0%,pH值6.8至8.0。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：浅黄色至棕黄色,清澈透明,具有花椒固有的香气,麻味绵长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括将加热到160°C至200°C的菜籽油和24小时以内采摘的鲜花椒按2:1的比例进行淋喷混合,搅拌浸泡,油椒分离,静置油体到澄清透明。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2"
+      ],
+      "locality": "汉源县",
+      "id": "sw-75c399f6f72a78e14a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "马湖莼菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "马湖莼菜是与四川·凉山州·雷波县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "马湖莼菜是与四川·凉山州·雷波县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：地下茎白、叶子椭圆形、叶面十分光滑被透明胶质状的黏液包裹、上面亮绿色,下面绿中带紫,叶柄有绒毛。形态均匀,茎叶长短一致,叶片卷曲。\n\n采收或收获环节的记录是4月中旬至9月中旬。\n\n与原料形成有关的生产记录还包括定植:(1)种茎选择:以地下匍匐茎作种茎的,选用白色粗壮的茎段,每段2至5节。(2)定植时间:春季3月20日至4月10日、冬季11月15日至12月5日。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2"
+      ],
+      "locality": "雷波县",
+      "id": "sw-88d174314f716bcb8b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "分水油纸伞",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "分水油纸伞是与四川·泸州·江阳区相联系的地方工艺物品。原料或品种方面，保护要求记载为1.竹材:产地范围内三年以上楠竹和两年以上无水槽水竹。",
+      "detail": "分水油纸伞是与四川·泸州·江阳区相联系的地方工艺物品。原料或品种方面，保护要求记载为1.竹材:产地范围内三年以上楠竹和两年以上无水槽水竹。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：凹陷式裱褙伞面,图案古典,色彩鲜艳油亮,透光好。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选料→伞件制作→组装→穿绞、网伞→扶伞、烤伞→上油。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2"
+      ],
+      "locality": "江阳区",
+      "id": "sw-7f4542b3349b46c86d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "麻柳刺绣",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "麻柳刺绣是与四川·广元·朝天区相联系的地方工艺物品。原料或品种方面，保护要求记载为要求1.绣线:产地范围内所产的麻线和棉线。",
+      "detail": "麻柳刺绣是与四川·广元·朝天区相联系的地方工艺物品。原料或品种方面，保护要求记载为要求1.绣线:产地范围内所产的麻线和棉线。使用红刺藤、板蓝根等产地区域范围内植物压成的汁染色。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：绣品线条简洁明快、造型生动别致,富有装饰意味和实用美观特色。2.内在质量:画面通幅完整,排针紧密,不露底、不补针,绣面隐藏绣线接头和线头,无错绣、漏绣,底布无疵点、无污渍;配色纯正、典雅,绣面肌理平齐柔和,有较强韵律感、节奏感。3.。\n\n产地条件方面，资料写到1.绣线:产地范围内所产的麻线和棉线。使用红刺藤、板蓝根等产地区域范围内植物压成的汁染色。2.底布:产地范围内手工制成的经纬质地的纯色棉、麻布料。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2"
+      ],
+      "locality": "朝天区",
+      "id": "sw-e80e1978825b52ef7a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "鹤庆乾酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "鹤庆乾酒是与云南·大理州·鹤庆县相联系的地方酒。原料或品种方面，保护要求记载为要求1.酿造用水:来自产地范围内的西龙潭泉水,水质符合国家生活饮用水相关规定。",
+      "detail": "鹤庆乾酒是与云南·大理州·鹤庆县相联系的地方酒。原料或品种方面，保护要求记载为要求1.酿造用水:来自产地范围内的西龙潭泉水,水质符合国家生活饮用水相关规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：无色或微黄、清澈透明、无悬浮物、无沉淀(注:当酒温低于10°C时,允许出现白色絮状沉淀或失光。10°C以上应逐渐恢复正常),清香纯正、具有酒曲和麦香谐调的优雅香气。\n\n产地条件方面，资料写到1.酿造用水:来自产地范围内的西龙潭泉水,水质符合国家生活饮用水相关规定。2.大麦、大米、麦麸:质量符合国家相关规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-c73cba5ce06136b2",
+        "sw-source-7ad72628b506186b"
+      ],
+      "locality": "鹤庆县",
+      "id": "sw-1896e50472ba20e916",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "鹤庆乾酒"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "红岩葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "红岩葡萄是与贵州·贵阳·息烽县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地传统品种水晶葡萄。",
+      "detail": "红岩葡萄是与贵州·贵阳·息烽县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地传统品种水晶葡萄。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：穗型完整,圆柱形。果粒饱满,皮薄透亮,圆形或椭圆形。果面淡黄绿色,果粉明显。果实具有浓郁的蜜香味,肉厚,汁多,甜酸适口。\n\n产地条件方面，资料写到产地范围内海拔1000m至1200m。土壤类型为红壤、砂质壤土,pH值5.5至7.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月中下旬。\n\n与原料形成有关的生产记录还包括苗木繁育:干径不少于0.5cm,芽健壮、饱满,根系发达的一年生扦插苗或嫁接苗。栽植密度:棚架式栽培每667m2(亩)不超过110株,篱架式栽培每667m2(亩)不超过120株。采收前10天停止灌水。整形修剪:12月下旬冬季修剪,篱架架面每m2结果母枝剪留量为8个至10个,棚架架面为6个至8个。",
+      "sources": [
+        "sw-gi-efc628dc6a827357"
+      ],
+      "locality": "息烽县",
+      "id": "sw-3c66bd042845e3c112",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "习酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "习酒是与贵州·遵义·习水县相联系的地方酒。原料或品种方面，保护要求记载为1.高梁:符合国家关于高粱的标准规定。",
+      "detail": "习酒是与贵州·遵义·习水县相联系的地方酒。原料或品种方面，保护要求记载为1.高梁:符合国家关于高粱的标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：酒体无色或微黄,清亮透明,酱香突出,醇厚丰满,细腻体净,回味悠长,空杯留香持久。",
+      "sources": [
+        "sw-gi-efc628dc6a827357"
+      ],
+      "locality": "习水县",
+      "id": "sw-e5f2b87576206ed7fe",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "盘县刺梨果脯",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "盘县刺梨果脯是与贵州·六盘水相联系的地方果蔬或干果。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "盘县刺梨果脯是与贵州·六盘水相联系的地方果蔬或干果。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颜色呈深黄色,颜色均匀,直径2cm至3cm的片状果肉,有刺梨天然凹凸纹路,质地软硬适中,不粘手,不“流糖”,不“返砂”。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→清洗→脱刺→切半、去籽→预煮→第1次糖渍→再次煮制→第2次糖渍→烘干→成品。\n\n产地条件方面，资料写到产地范围内海拔高度1400m至1700m,土壤类型为黄壤土,土壤pH值4.5至6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:8月初至10月底。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "六盘水相关产区",
+      "id": "sw-50492df139770bc990",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "四格乌洋芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "四格乌洋芋是与贵州·六盘水相联系的地方食材。原料或品种方面，保护要求记载为当地传统乌洋芋品种。",
+      "detail": "四格乌洋芋是与贵州·六盘水相联系的地方食材。原料或品种方面，保护要求记载为当地传统乌洋芋品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：近椭圆形,直径5cm至8cm,皮薄而光滑,表皮为乌紫色,内呈深紫色或浅紫交替转心样,入口滑糯而不干,有浓郁的回甜味。\n\n产地条件方面，资料写到产地范围内海拔1700m至2700m;土壤类型为黄棕壤、质地砂壤土;土壤pH值5.5至7.5,土层厚度不少于30cm,土壤有机质不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月中旬至8月下旬大部分茎叶变黄时收获。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "六盘水相关产区",
+      "id": "sw-4b599c80a4e4b86f9b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "开阳枇杷(开阳富硒枇杷)",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "开阳枇杷(开阳富硒枇杷)是与贵州·贵阳·开阳县相联系的地方食材。",
+      "detail": "开阳枇杷(开阳富硒枇杷)是与贵州·贵阳·开阳县相联系的地方食材。原料或品种方面，保护要求记载为大五星。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果型近圆形,色泽金黄,近橙红色,果肉鲜嫩多汁,酸甜适口。\n\n产地条件方面，资料写到土壤为砂质土或改良后的红黄壤土,有机质含量不少于1.0%,pH值5.5至7.5,坡度低于25度。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是5月中旬至6月果皮转成黄色后分批采收。\n\n与原料形成有关的生产记录还包括育苗:以枇杷实生苗为砧木,采用嫁接育苗。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "开阳县",
+      "id": "sw-ab3d85903fd2c3962c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "白旗韭黄",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "白旗韭黄是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为当地小叶韭菜品种。",
+      "detail": "白旗韭黄是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为当地小叶韭菜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颜色呈金黄色,产品长不少于40cm,假茎长不少于20cm,假茎粗不少于0.3cm,鲜嫩化渣。\n\n产地条件方面，资料写到产地范围内海拔1100m至1400m,土壤类型为黄壤土,土壤质地为砂壤土,有机质含量不少于1.0%,土壤pH值4.5至7.0,坡地坡度不超过20度。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗移栽:春播3月中旬,夏播4月下旬,秋播8月下旬至9月中旬。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "普定县",
+      "id": "sw-78420d9ece7c6403f3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "桐梓方竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "桐梓方竹笋是与贵州·遵义·桐梓县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "桐梓方竹笋是与贵州·遵义·桐梓县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜笋:结构致密,质地脆嫩,不软绵,鲜嫩爽口,入口烂。(2)保鲜笋:结构致密,质地脆嫩,鲜味浓郁。(3)烘干笋、盐干笋:质地硬,表面干爽,韧性大,有嚼劲,鲜味浓郁。\n\n产地条件方面，资料写到产地范围内海拔1000m至2200m,壤质土和山地黄壤,土壤pH值5.0至7.0,土层厚度不少于40cm,有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:9月上旬至10月上中旬。\n\n与原料形成有关的生产记录还包括竹林建设:采用种子繁殖和分株繁殖。10月或次年4月移栽。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "桐梓县",
+      "id": "sw-ae52c2af72c137dd41",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "长顺绿壳鸡蛋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "长顺绿壳鸡蛋是与贵州·黔南州·长顺县相联系的地方食材。原料或品种方面，保护要求记载为长顺绿壳鸡蛋。",
+      "detail": "长顺绿壳鸡蛋是与贵州·黔南州·长顺县相联系的地方食材。原料或品种方面，保护要求记载为长顺绿壳鸡蛋。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蛋壳颜色浅绿色或青绿色;蛋形呈椭圆形;蛋白浓厚;蛋黄呈橘红或橘黄色。\n\n与原料形成有关的生产记录还包括生态散养、集约化饲养。(1)生态散养放养密度为1200~1500只/hm2。(2)集约化饲养可采用传统平养、阶梯笼养、立体养殖等方式进行饲养,阶梯笼养单位饲养量12~18只/m2,立体养殖饲养量30~90只/m2。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "长顺县",
+      "id": "sw-73f16fe809a277f4df",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "榕江小香鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "榕江小香鸡是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为黔东南小香鸡。",
+      "detail": "榕江小香鸡是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为黔东南小香鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸡:1母鸡:体型方形,矮小紧凑,头细、脚细,背羽呈黄麻、黑麻、棕麻三种颜色,黑喙黑脚。2公鸡:身红尾绿,冠、肉髯乌紫色或红色,黑喙黑脚。(2)白条鸡:皮薄骨细,皮下脂肪少,皮色呈白色或黑色。\n\n与原料形成有关的生产记录还包括饲养要求:(1)育雏期(1日龄至28日龄):育雏密度:0日龄至7日龄30羽/m2至35羽/m2。(2)育成鸡(29日龄至150日龄):放牧饲养,放养密度30只/667m2(亩)至50只/667m2(亩),鸡舍饲养密度不超过20只/m2。出栏:120日龄至150日龄,体重0.9kg至1.25kg。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "榕江县",
+      "id": "sw-cb36c480751e49405b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "水城猕猴桃是与贵州·六盘水·水城区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳。",
+      "detail": "水城猕猴桃是与贵州·六盘水·水城区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实成熟后黄绿色,果面无毛,果皮薄、果肉黄绿色、果心红色、呈放射状图案;果肉细嫩、口感香甜清爽、酸度低。\n\n产地条件方面，资料写到产地范围内海拔不超过1300m,土壤质地为砂质壤土,地下水位在1m以下,有机质含量不少于1%,pH值6.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和贮藏果实可溶性固形物不少于。\n\n与原料形成有关的生产记录还包括种苗繁育:以猕猴桃种子繁殖的实生苗为砧木,从纯正无检疫对象的健壮结果母株上采集接穗进行嫁接育苗。定植:(1)栽植时期:落叶以后至翌年早春萌芽前(10月下旬至次年2月中旬)。整形:采用水平棚架或“T”型架整形。禁止使用刺激果实膨大的各种生长调节剂。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "水城区",
+      "id": "sw-5dd1acc797fa21559a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "玉屏茶油",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "玉屏茶油是与贵州·铜仁·玉屏侗族自治县相联系的地方食材或食品原料。",
+      "detail": "玉屏茶油是与贵州·铜仁·玉屏侗族自治县相联系的地方食材或食品原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽黄红,无颗粒,澄清、透明,光泽度好,无折射物,无肉眼可见外来杂质,口感具有玉屏茶油固有的气味和滋味,无异味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括油茶籽→压榨→原油→过滤→脱胶脱酸→玉屏茶油。\n\n采收或收获环节的记录是时间:9月下旬至11月上旬。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "玉屏侗族自治县",
+      "id": "sw-4f208a2288fe4301f5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "江口萝卜猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "江口萝卜猪是与贵州·铜仁·江口县相联系的地方食材。原料或品种方面，保护要求记载为江口萝卜猪。",
+      "detail": "江口萝卜猪是与贵州·铜仁·江口县相联系的地方食材。原料或品种方面，保护要求记载为江口萝卜猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体猪:全身毛色灰黑色,皮肤白色,四肢短细结实,后肢高于前肢,育肥猪体躯侧视形似萝卜。(2)猪肉:肉色鲜红、有光泽。肌肉有大理石纹,背膘3cm至4cm,水煮后肉汤澄清透明,味香浓、多汁,口感细嫩。\n\n与原料形成有关的生产记录还包括饲养方式:圈养与放牧相合的方式。补饲:放牧归牧后补饲玉米、豆类精料以及萝卜、白菜、红薯藤等青绿饲料。阶段饲养管理要点:(1)生长猪:60日龄后放牧饲养。(2)育肥猪:150日龄后,舍饲育肥,饲喂当地产玉米、碎米、豆类等精料以及萝卜、白菜、红薯藤等青绿饲料。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "江口县",
+      "id": "sw-d20990f72b28936a4b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "雷山银球茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "雷山银球茶是与贵州·黔东南州·雷山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种以及适宜加工雷山银球茶的茶树品种。",
+      "detail": "雷山银球茶是与贵州·黔东南州·雷山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种以及适宜加工雷山银球茶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：球形,18mm至20mm,色泽绿润,光亮露毫,显银灰色,香气清香,浓醇回甜,耐冲泡。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊凉→杀青→回潮→揉捻→拣块→筛末→回炒→称量→造型→烘烤。\n\n产地条件方面，资料写到产地范围内海拔1000m至1500m,黄壤土,pH值4.5至6.7,有机质含量不少于2%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月下旬到5月中旬,采。",
+      "sources": [
+        "sw-gi-0ae5e4d3c7c048c6"
+      ],
+      "locality": "雷山县",
+      "id": "sw-70dafbb86477a7d8f8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英长绒棉",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "大英长绒棉是与四川·遂宁·大英县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为金陆长1号等长绒棉品种。",
+      "detail": "大英长绒棉是与四川·遂宁·大英县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为金陆长1号等长绒棉品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：棉絮洁白,富有光泽。棉瓣肥大而有弹性和丝光。纤维长、强度高、细度好。\n\n产地条件方面，资料写到海拔不超过500m,土壤质地为黏壤土,pH值7.8至8.2,土层厚度不少于25cm,有机质含量不少于1.2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期在9月初,棉铃吐絮5至7天进行,采收应在晴好天气进行。\n\n与原料形成有关的生产记录还包括定植:4月下旬至5月上旬定植,定植密度不超过48000株/公顷。",
+      "sources": [
+        "sw-gi-96ed1bd077701c09"
+      ],
+      "locality": "大英县",
+      "id": "sw-5d84bb7c076fe6803f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "王家贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "王家贡米是与四川·广元·昭化区相联系的地方食材。原料或品种方面，保护要求记载为当地中晚籼稻地方品种,品种名称:刷巴谷。",
+      "detail": "王家贡米是与四川·广元·昭化区相联系的地方食材。原料或品种方面，保护要求记载为当地中晚籼稻地方品种,品种名称:刷巴谷。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒细小,形态纤细匀称,垩白小。米质半透明,油滑光亮,具有大米固有的自然清香味。煮时清香四溢,浓郁持久,入口软糯,冷后不返生。2.特色。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括初清→风选→磁选→去石→砻谷→选糙→碾米→抛光→色选→分级包装。\n\n产地条件方面，资料写到海拔600至900m区间盆地丘陵向山区过渡地带,昼夜温差9至12°C,土壤为黄红紫泥土,pH值5至7,土壤有机质含量不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月上旬,当95%以上的稻穗谷粒黄熟时收割。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "昭化区",
+      "id": "sw-590447b8ce9c8a8b1f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "红原牦牛奶",
+      "type": "dairy",
+      "kind": "地方乳制品",
+      "description": "红原牦牛奶是与四川·阿坝州·红原县相联系的地方乳制品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "红原牦牛奶是与四川·阿坝州·红原县相联系的地方乳制品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括乳白色、均匀。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "红原县",
+      "id": "sw-33ef347cae9770e16c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "红原牦牛奶粉",
+      "type": "dairy",
+      "kind": "地方乳制品",
+      "description": "红原牦牛奶粉是与四川·阿坝州·红原县相联系的地方乳制品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "红原牦牛奶粉是与四川·阿坝州·红原县相联系的地方乳制品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括乳白色、均匀。",
+      "sources": [
+        "sw-gi-772d97693f273eb8",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "红原县",
+      "id": "sw-90d1f8a9ae847369c4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "红原牦牛奶粉"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "黄甲麻羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黄甲麻羊是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为以成都麻羊为父本、黄甲本地羊为母本,在成都市双流县区域内牧马山地区自繁自养的麻羊。",
+      "detail": "黄甲麻羊是与四川·成都·双流区相联系的地方食材。原料或品种方面，保护要求记载为以成都麻羊为父本、黄甲本地羊为母本,在成都市双流县区域内牧马山地区自繁自养的麻羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体羊:活体全身被毛短,有光泽,呈赤铜色或麻褐色,并有十字架和画眉眼特征,腹部被毛颜色较浅,呈浅褐色或淡黄色。羊肉:鲜肉切面呈大理石样花纹,肉质细嫩,膻味低,肉汤味鲜香微白。\n\n与原料形成有关的生产记录还包括饲养方式与分类管理:实行种公羊、种母羊、羔羊、育肥羊分阶段分栏饲养管理,全群半舍饲,半放牧方式结合。羔羊15至20日龄诱食,60日龄完全断奶,归牧后羊群可适当补充添加精饲料。出栏要求:饲养时间,羔羊60至70日龄,育肥羊:240至280日龄、公羊体重:27.5至40kg,母羊:25至35kg。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "双流区",
+      "id": "sw-55ec8c3231beb9e9bd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江丑柑",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蒲江丑柑是与四川·成都·蒲江县相联系的地方食材。原料或品种方面，保护要求记载为类型不知火。",
+      "detail": "蒲江丑柑是与四川·成都·蒲江县相联系的地方食材。原料或品种方面，保护要求记载为类型不知火。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈倒卵形,果皮橙黄色,果肉色泽呈金黄色,囊壁薄软,无核,肉质脆嫩多汁,入口化渣,味香甜。\n\n产地条件方面，资料写到海拔500至800米,土壤类型为紫色土,土壤质地为中壤土,土壤pH值6.0至7.5,土壤有机质含量不少于15g/kg。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3至5月采收。\n\n与原料形成有关的生产记录还包括育苗:以红桔或香橙为砧木,采用嫁接方法育苗。定植时间:3至5月,9至11月。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-d648cedb3f02c9763e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远无花果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "威远无花果是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为金四方一号。",
+      "detail": "威远无花果是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为金四方一号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括均匀、柔软。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料检验→清洗→切片→烘干→检验→包装→入库。\n\n产地条件方面，资料写到产地范围内丘陵区为紫色土,土壤质地为壤土,土层厚度不少于30cm,pH为7.2至7.8,土壤有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7至10月,分批采收。\n\n与原料形成有关的生产记录还包括育苗:采用扦插育苗。定植:定植时间:秋季10月上旬至11月下旬,春季2月上旬至3月下旬。定植密度:每公顷栽植株数不超过1700株。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "威远县",
+      "id": "sw-a6389d73e6b3de2eb5",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "米易红糖",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "米易红糖是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为川蔗6#、川蔗13#等。",
+      "detail": "米易红糖是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为川蔗6#、川蔗13#等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颜色呈红褐色或深褐色,口味甘甜纯正,有浓郁的蜂蜜香气。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括甘蔗→榨汁→开泡→过滤→浓缩→煎糖→打砂→成型(固态)→入库↓灌装→杀菌(液态)→入库。\n\n产地条件方面，资料写到土壤类型为黄壤、红壤、赤红壤、黄棕壤、南方水稻土,有机质含量不少于1%,pH值6至7.2,土层厚度50cm以上,海拔1000至1800m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年12月上旬至次年3月下旬,以蔗稍第三节大于16BX,甘蔗稍部与头部的锤度比值大于。",
+      "sources": [
+        "sw-gi-772d97693f273eb8"
+      ],
+      "locality": "米易县",
+      "id": "sw-b8cd2d09cee4e5f802",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "苏稽米花糖(苏稽香油米花糖)",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "苏稽米花糖(苏稽香油米花糖)是与四川·乐山·市中区相联系的地方米面与糖点。",
+      "detail": "苏稽米花糖(苏稽香油米花糖)是与四川·乐山·市中区相联系的地方米面与糖点。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：块形完整,不松散,色泽米黄,有光泽,口感酥脆,香甜可口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括糯米→清洗→浸泡→蒸煮→晾晒→炒制膨化→熬糖→拌和搅拌→成型。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "市中区",
+      "id": "sw-1ef84c3987fb4e8bd2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "通川灯影牛肉",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "通川灯影牛肉是与四川·达州·通川区相联系的地方菜肴与加工食品。",
+      "detail": "通川灯影牛肉是与四川·达州·通川区相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为预处理:牛肉在0°C至4°C解冻至中心温度达到1°C至2°C。3.切片:切片厚度为0.9mm至1.2mm。4.腌制:采用常温腌制,腌制时间:10分钟至40分钟。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽呈棕褐色或棕黄色,片薄,灯照透影,酥脆化渣。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括分割选料→原料预处理→切片腌制→铺片→烘烤→淋油封装→成品。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "通川区",
+      "id": "sw-24b33223db87648911",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "德昌桑椹",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "德昌桑椹是与四川·凉山州·德昌县相联系的地方食材。原料或品种方面，保护要求记载为德果一号。",
+      "detail": "德昌桑椹是与四川·凉山州·德昌县相联系的地方食材。原料或品种方面，保护要求记载为德果一号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜果:果实饱满,果粒大而紧;颜色为紫黑色,有光泽,味甜汁满。(2)干果:颜色紫黑,颗粒均匀,口感浓甜,质构紧密,有韧性。\n\n产地条件方面，资料写到产地范围内海拔1100m至1800m,土壤为山地红壤,pH值4.6至8.0,有机质含量不少于2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月上旬至5月上旬,果实颜色完全变为紫黑色时采收。\n\n与原料形成有关的生产记录还包括育苗:种籽繁殖杂交桑苗、实生桑苗。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "德昌县",
+      "id": "sw-40345ac00af671108f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑金蜜李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大邑金蜜李是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为金蜜李。",
+      "detail": "大邑金蜜李是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为金蜜李。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮黄色、果粉浓厚;肉厚核小,柔软多汁,酸甜适口,肉细化渣。\n\n产地条件方面，资料写到产地范围内海拔500m至1700m,土壤质地为壤土,pH值5.4至7.4,有机质含量不少于2%。土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月中旬至8月上旬,果面转黄后分批采收。\n\n与原料形成有关的生产记录还包括苗木培育:选用本地金蜜李或毛桃作为砧木,进行嫁接繁殖。定植:(1)时间:秋季落叶后(9月下旬至11月下旬)或春季发芽前(2月中旬至3月下旬)。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "大邑县",
+      "id": "sw-ec8f06f7f4bd8aa58e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "安仁蓝莓",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "安仁蓝莓是与四川·成都·大邑县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为北高丛蓝莓、南高丛蓝莓、兔眼类蓝莓。",
+      "detail": "安仁蓝莓是与四川·成都·大邑县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为北高丛蓝莓、南高丛蓝莓、兔眼类蓝莓。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈深蓝色,果粉厚。果粒大而饱满,果肉细腻,胶质感强,甜酸适口。\n\n产地条件方面，资料写到产地范围内海拔平均450m至650m,土壤质地为沙壤土,土壤pH值4.3至5.5,土壤有机质含量不少于5%,地下水位低于60cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是4月中旬至8月上旬,果面完全变蓝后分批采收。\n\n与原料形成有关的生产记录还包括育苗:组培和扦插繁殖。定植时间:10月下旬至次年2月下旬。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "大邑县",
+      "id": "sw-304b0d2c0207f0a032",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛崃黑猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "邛崃黑猪是与四川·成都·邛崃市相联系的地方食材。原料或品种方面，保护要求记载为雅南黑猪及其杂交猪。",
+      "detail": "邛崃黑猪是与四川·成都·邛崃市相联系的地方食材。原料或品种方面，保护要求记载为雅南黑猪及其杂交猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：毛桩黑色,皮厚,肉色鲜红,肉质紧密细嫩,脂肪白色,大理石花纹明显,熟肉肥而不腻。\n\n与原料形成有关的生产记录还包括饲养方式:集中饲养与农户散养相结合。饲料条件:以本地产杂粮为主,辅以青绿饲料。饲养管理要点:(1)育肥后期:日喂青绿饲料不少于1kg,饲养密度不少于1.5m2/头。出栏标准:8月龄至12月龄,活体重75kg至120kg。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-a3cc613d0d4a1b30d4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "邛崃黑猪"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛崃黑茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "邛崃黑茶是与四川·成都·邛崃市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为花秋1号及适宜制作邛崃黑茶的其它茶树品种。",
+      "detail": "邛崃黑茶是与四川·成都·邛崃市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为花秋1号及适宜制作邛崃黑茶的其它茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：干茶色泽黄褐至黑褐色,有光泽;茶汤清澈明亮;香气纯正;滋味醇和甘甜。2.。\n\n产地条件方面，资料写到产地范围内海拔600m至1000m,土壤类型为黄、红壤土,pH值4.5至6.4,有机质含量不少于1%。土层厚度不少于1m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是标准一芽一叶至六叶内绿苔新梢。\n\n与原料形成有关的生产记录还包括育苗:短穗扦插育苗。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-83332e940031d7007f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "彭山葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "彭山葡萄是与四川·眉山·彭山区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为夏黑、美人指、巨峰、红地球。",
+      "detail": "彭山葡萄是与四川·眉山·彭山区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为夏黑、美人指、巨峰、红地球。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)夏黑:色泽蓝黑,果穗圆锥形,穗重500g至600g,果粒均匀,果粉完整,果肉硬脆。(2)巨峰:色泽紫黑,果穗圆锥形,穗重400g至500g,果粒均匀,果粉完整,口感浓甜。(3)美人指:色泽艳丽,尖部紫红,中后部呈玉色,果穗长圆锥形,穗重800g至1000g,果粒长椭圆形,口感爽脆。\n\n产地条件方面，资料写到土壤类型为水稻土、潮土、紫色土和黄壤土,土壤pH值6.5至7.5,土壤厚度不少于60cm,有机质含量不少于2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是(1)夏黑:7月上旬,可溶性固形物含量不少于18%时开始采收。(2)巨峰:7月下旬,可溶性固形物含量不少于17%时开始采收。(3)美人指:8月上旬,可溶性固形物含量不少于17%时开始采收。",
+      "sources": [
+        "sw-gi-886b097e79e4e8e2",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "彭山区",
+      "id": "sw-e7249b5e74534d9c5a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "彭山葡萄"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "朝天核桃(扩大产地范围)",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "朝天核桃(扩大产地范围)是与四川·广元·利州区、昭化区、朝天区、旺苍县、青川县、剑阁县、苍溪县相联系的地方果蔬或干果。",
+      "detail": "朝天核桃(扩大产地范围)是与四川·广元·利州区、昭化区、朝天区、旺苍县、青川县、剑阁县、苍溪县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为沙河核桃、硕星核桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：壳薄、取仁易,出仁率高,粗蛋白质含量和粗脂肪含量高。\n\n产地条件方面，资料写到海拔500至1500米,土壤类型为壤土或砂壤土,有机质含量1.2%至3%,pH值7.0至7.5,背风向阳的缓坡地,地下水位在地表2米以下。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "利州区、昭化区、朝天区、旺苍县、青川县、剑阁县、苍溪县",
+      "id": "sw-102ff65ab63db750a7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "道真灰豆腐果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "道真灰豆腐果是与贵州·遵义·道真仡佬族苗族自治县相联系的地方食材。",
+      "detail": "道真灰豆腐果是与贵州·遵义·道真仡佬族苗族自治县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外皮呈灰黄色,光滑带皱褶,内为蜂窝状结构,有浓郁的豆香味和草木灰的清香味,韧性好,有嚼劲。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "道真仡佬族苗族自治县",
+      "id": "sw-3a85228b6ee40f8396",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺蜡染",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "安顺蜡染是与贵州·安顺相联系的地方器物与工艺原料。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "安顺蜡染是与贵州·安顺相联系的地方器物与工艺原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：冰纹明显,颜色鲜艳,过渡自然,着色牢固。2.。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "安顺相关产区",
+      "id": "sw-9987dbdf41c8d1ef17",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城春茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "水城春茶是与贵州·六盘水·水城区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工水城春茶的茶树品种。",
+      "detail": "水城春茶是与贵州·六盘水·水城区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工水城春茶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：扁形茶外形扁平光滑、匀整,隐毫,形似雀舌;色泽绿翠;汤色嫩绿明亮;滋味鲜爽,嫩香持久。卷曲形茶外形条索紧实;色泽灰绿光润;汤色黄绿明亮;栗香高长,滋味醇厚。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括摊青→杀青→做形→干燥。\n\n产地条件方面，资料写到产地范围内海拔高度1300m至2200m,土壤类型为黄壤或黄棕壤,有机质含量不少于1.0%,土壤pH值4.5至6.5。土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "水城区",
+      "id": "sw-aa9181f55c27e30280",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城小黄姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "水城小黄姜是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为当地传统小黄姜品种。",
+      "detail": "水城小黄姜是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为当地传统小黄姜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：姜块表皮淡黄,辣味浓香。\n\n产地条件方面，资料写到产地范围内海拔800至1500m,土壤类型为黄壤、黄棕壤或棕壤,有机质含量不少于1.0%,土壤pH值5.0至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月中下旬收获。\n\n与原料形成有关的生产记录还包括播种:3月份播种,种植密度为每公顷不超过9万株,将姜种的芽一律向上,播种深度4至5cm。培土:栽培过程中培土厚度不少于10cm。采收:11月中下旬收获。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "水城区",
+      "id": "sw-7e1b2159b66db6b368",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "务川白山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "务川白山羊是与贵州·遵义·务川仡佬族苗族自治县相联系的地方食材。",
+      "detail": "务川白山羊是与贵州·遵义·务川仡佬族苗族自治县相联系的地方食材。原料或品种方面，保护要求记载为贵州白山羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉色鲜红,肉质细而紧密,有弹性,肉质鲜嫩,肌间脂肪明显;熟肉膻味轻,汤汁鲜淳清亮。\n\n与原料形成有关的生产记录还包括饲养方式:放牧与舍饲结合。育肥阶段舍饲饲养,其它阶段放牧饲养。饲草饲料:放牧饲养以天然牧草为主,补饲少量精料和农作物秸秆。舍饲饲养饲喂刈割青草、农作物秸秆和精补料。五、出栏12至18月龄,体重不少于25kg。六、屠宰加工1.羊原标准:来自产地范围内,符合年龄、体重要求的健康羊只。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "务川仡佬族苗族自治县",
+      "id": "sw-17622f4075ba064ff8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "惠水黑糯米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "惠水黑糯米是与贵州·黔南州·惠水县相联系的地方食材。原料或品种方面，保护要求记载为黑糯72等适宜种植的粳糯稻品种。",
+      "detail": "惠水黑糯米是与贵州·黔南州·惠水县相联系的地方食材。原料或品种方面，保护要求记载为黑糯72等适宜种植的粳糯稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米皮紫黑、内质洁白、煮后黝黑晶莹、色泽鲜艳、食味浓郁芳香、绵软有弹性,糯性好。\n\n产地条件方面，资料写到产地范围内海拔高度800至1400m,土壤类型为黄壤或黄棕壤,有机质含量不少于1.0%,土壤pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月上旬收获,晴天自然晒干,稻谷含水量不超过。\n\n与原料形成有关的生产记录还包括移栽:移栽时间为5月中下旬至6月上旬。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "惠水县",
+      "id": "sw-523f67528c4df286e2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "道真绿茶(道真硒锶茶)",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "道真绿茶(道真硒锶茶)是与贵州·遵义·道真仡佬族苗族自治县相联系的地方茶或代用茶。",
+      "detail": "道真绿茶(道真硒锶茶)是与贵州·遵义·道真仡佬族苗族自治县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜制作道真绿茶(道真硒锶茶)的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：香气清香,浓郁,滋味醇厚,耐泡。\n\n产地条件方面，资料写到产地范围内海拔600至1200m,土壤类型为黄壤或沙壤,土壤pH值4.5至6.5,土壤有机质含量不少于1.0%。土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "道真仡佬族苗族自治县",
+      "id": "sw-75be07a11c4738d4b6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "墨江紫米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "墨江紫米是与云南·普洱·墨江哈尼族自治县相联系的地方食材。原料或品种方面，保护要求记载为墨江县传统种植的籼型紫糯水稻。",
+      "detail": "墨江紫米是与云南·普洱·墨江哈尼族自治县相联系的地方食材。原料或品种方面，保护要求记载为墨江县传统种植的籼型紫糯水稻。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：墨江紫米米粒大而饱满,呈长粒状,糙米呈紫黑色,米粒断面内呈乳白色,蒸制后呈紫黑色;具体项目要求如下表所示:项目要求全糙米呈深紫色(紫黑色),半糙米紫白色夹小紫色块,刮除紫色果皮后米粒色泽呈白色;胚乳呈乳白色;用手抓米后易在手指中留有紫黑色小块。气味具有紫米固有的自然清香味,无其他异味。\n\n产地条件方面，资料写到产地范围内海拔1000米至1600米,生产基地布局应在自然条件较好,山间梯田较多。土壤类型为红壤性水稻土,质地为粘壤土或壤土,有机质含量不少于2%,pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是八月上旬到九月上旬,当90%稻粒达到灰褐色时,即可收获。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "墨江哈尼族自治县",
+      "id": "sw-54a6996580b572189b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "维西百花蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "维西百花蜜是与云南·迪庆州·维西傈僳族自治县相联系的地方食材。",
+      "detail": "维西百花蜜是与云南·迪庆州·维西傈僳族自治县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽呈琥珀色或深琥珀色,常温下呈粘稠流体状,或结晶状。有典型、显著的自然花香气息,口感浓厚孕柔、余味清香悠久。",
+      "sources": [
+        "sw-gi-367fdf28bbb538c8"
+      ],
+      "locality": "维西傈僳族自治县",
+      "id": "sw-ab3556ab165b694cdb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "天宝蜜柚",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "天宝蜜柚是与四川·绵阳·梓潼县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为蜜柚。",
+      "detail": "天宝蜜柚是与四川·绵阳·梓潼县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为蜜柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实为椭圆形,皮色呈黄色,表面油胞细腻、平滑亮净、气味芳香。果肉白色或红色,无核或少核,味浓,酸甜适度,耐贮藏。\n\n产地条件方面，资料写到土壤类型为紫色土,pH值6.0至6.8,有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月中旬至12月下旬采收。\n\n与原料形成有关的生产记录还包括育苗:以酸柚为砧木进行嫁接繁殖。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "梓潼县",
+      "id": "sw-cbec0b71329050b133",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "宣汉牛肉",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "宣汉牛肉是与四川·达州·宣汉县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为宣汉黄牛。",
+      "detail": "宣汉牛肉是与四川·达州·宣汉县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为宣汉黄牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：脂肪含量少,有嚼劲,香味醇厚。\n\n与原料形成有关的生产记录还包括饲料条件:以天然牧草为主,补饲适量青贮料和稻草。饲养方式:放牧为主,舍饲为辅。饲养管理要点:(1)去势:公牛在10月龄前去势。出栏:2至3岁,体重280至350kg。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-1a46b988ee30d22396",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "镇龙山瓦灰鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "镇龙山瓦灰鸡是与四川·巴中·平昌县相联系的地方食材。原料或品种方面，保护要求记载为瓦灰鸡。",
+      "detail": "镇龙山瓦灰鸡是与四川·巴中·平昌县相联系的地方食材。原料或品种方面，保护要求记载为瓦灰鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体鸡体型外貌符合品种特征,胴体皮微灰,肌肉结实,肉质细嫩,脂肪含量少,骨骼细小。\n\n与原料形成有关的生产记录还包括饲养密度:30至50只/667m。饲料:以青草和昆虫为主,补饲少量当地玉米、稻谷、小麦等精料。出栏标准:日龄不少于180天。",
+      "sources": [
+        "sw-gi-69ca291062d41a08",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平昌县",
+      "id": "sw-55bd6fbefaaec658d8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "平昌镇龙山瓦灰鸡"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉山矿泉水",
+      "type": "drinks",
+      "kind": "地方饮品",
+      "description": "峨眉山矿泉水是与四川·乐山·峨眉山市相联系的地方饮品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "峨眉山矿泉水是与四川·乐山·峨眉山市相联系的地方饮品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：无色、无臭、无味、无沉淀,清凉爽口、回口甘甜、口感上佳。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括源水→粗滤→精滤→杀菌→灌装封盖→检验→成品。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "峨眉山市",
+      "id": "sw-7536e4c2e9e2dbf08d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "建昌板鸭",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "建昌板鸭是与四川·凉山州·德昌县相联系的地方加工食品。原料或品种方面，保护要求记载为建昌鸭。",
+      "detail": "建昌板鸭是与四川·凉山州·德昌县相联系的地方加工食品。原料或品种方面，保护要求记载为建昌鸭。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形饱满、体干皮亮、切开呈玫瑰红色。肉质细嫩、紧实,有嚼劲。\n\n与原料形成有关的生产记录还包括饲养方式:以放牧为主适当补饲。饲料:填肥前以稻谷、虫、草、田螺、鱼虾等为主要饲料,补饲少量精饲料。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "德昌县",
+      "id": "sw-68cb46629035d00163",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "文宫枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "文宫枇杷是与四川·眉山·仁寿县相联系的地方食材。原料或品种方面，保护要求记载为大五星。",
+      "detail": "文宫枇杷是与四川·眉山·仁寿县相联系的地方食材。原料或品种方面，保护要求记载为大五星。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果面色泽呈橙黄色,果大、色艳、多汁、味甜,皮薄易剥离。\n\n产地条件方面，资料写到土壤类型为紫色土,土壤质地为砂壤土或壤土。土壤pH值5.7至7.8,土壤有机质含量不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是5月上旬至5月下旬果实全面呈橙黄色时开始采收。\n\n与原料形成有关的生产记录还包括育苗:采用本砧嫁接育苗。",
+      "sources": [
+        "sw-gi-69ca291062d41a08",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-ca0184362d97bd7a41",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "仁寿文宫枇杷"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居黄金梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "安居黄金梨是与四川·遂宁·安居区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为黄金梨。",
+      "detail": "安居黄金梨是与四川·遂宁·安居区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为黄金梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形端正近圆形,皮薄,表皮呈金黄色;果肉细嫩,汁多、味甜,果核小。\n\n产地条件方面，资料写到海拔不超过500m,土壤类型为遂宁组土、蓬莱组土、沙溪组土,土壤pH为6.5至7.5,土层厚度不少于50cm,有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月上旬至8月上旬,可溶性固形物含量不少于。\n\n与原料形成有关的生产记录还包括育苗:以川梨为砧木嫁接繁殖。定植:(1)定植时间:11月中旬至12月上旬。(2)定植密度:种植株数不超过1665株/公顷。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "安居区",
+      "id": "sw-3d82d6138d3e50c6ce",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "昌宁红茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "昌宁红茶是与云南·保山·昌宁县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为云南大叶群体种及从中选育出的适制昌宁红茶的系列品种。",
+      "detail": "昌宁红茶是与云南·保山·昌宁县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为云南大叶群体种及从中选育出的适制昌宁红茶的系列品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形油润显金毫,条索肥硕紧结多锋苗,香气蜜香浓郁,滋味醇和回甘,汤色红艳明亮,叶底肥嫩多芽,红匀明亮。\n\n产地条件方面，资料写到产地范围内海拔1600m至2200m,土壤为红壤、黄红壤,土壤PH值4.5至6.5,土壤有机质含量不少于1.5%,土层厚度不少于100cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年3月,采摘一芽或一芽一叶、一芽二叶的鲜叶。\n\n与原料形成有关的生产记录还包括育苗:采用无性繁殖。种植:夏季6月至8月下旬,栽植密度为不超过25000株/公顷。",
+      "sources": [
+        "sw-gi-69ca291062d41a08"
+      ],
+      "locality": "昌宁县",
+      "id": "sw-c5fa1a5ee2c0ddb7f4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇胭脂萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "仪陇胭脂萝卜是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为当地地方品种“胭脂萝卜”。",
+      "detail": "仪陇胭脂萝卜是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为当地地方品种“胭脂萝卜”。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：新鲜肉质根:肉质根80g至150g,表皮和肉色均为鲜艳一致的胭脂红色,肉质脆嫩,回甜。加工品:肉质致密脆爽、有回甘。\n\n采收或收获环节的记录是贮藏期:于12月中旬到翌年1月下旬收获。收获贮藏期或到加工的时间不超过30天。\n\n与原料形成有关的生产记录还包括整地、播种:采用高畦栽培,播种期为9月中下旬,直播,播种深度1.5cm至2cm。收获贮藏期:于12月中旬到翌年1月下旬收获。收获贮藏期或到加工的时间不超过30天。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-d0c7396734c188b232",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "麦洼牦牛",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "麦洼牦牛是与四川·阿坝州·红原县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "麦洼牦牛是与四川·阿坝州·红原县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉色深红有光泽,肌内脂肪分布均匀,肌纤维清晰坚韧。肉质紧实、肉味香醇。\n\n与原料形成有关的生产记录还包括饲料条件:天然草地生长的饲草为主,补饲适量多汁饲料和精饲料。饲养方式:放牧饲养。饲养管理要点:(1)犊牛放牧管理:春季产犊要防冻。六月龄断奶并与母牛分群饲养。断奶后补喂干青料、青贮料、多汁饲料和精饲料。(2)冷季补饲:补饲青干料、青贮料、多汁饲料和精饲料。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "红原县",
+      "id": "sw-9700e4d4775937ad8e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌酱油",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "隆昌酱油是与四川·内江·隆昌市相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:产地范围内在11月中下旬收获的大豆,蛋白质含量不少于40%。",
+      "detail": "隆昌酱油是与四川·内江·隆昌市相联系的地方调味品。原料或品种方面，保护要求记载为1.大豆:产地范围内在11月中下旬收获的大豆,蛋白质含量不少于40%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：液体清亮,呈红褐色;酱香浓郁、酯香突出,口感鲜美、醇厚,鲜、咸、甜适口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料清洗、浸泡——蒸煮——摊晾——拌粉接种——制曲——发酵——压榨——加热灭菌——沉淀——灌装。(2)蒸煮:将浸泡后的大豆沥干后常压蒸煮,上甑大火蒸4小时,焖约10小时。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-ea27321981e5f0a8d1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "赤水晒醋",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "赤水晒醋是与贵州·遵义·赤水市相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "赤水晒醋是与贵州·遵义·赤水市相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：琥珀色或红棕色;醋香浓郁;酸味柔和,酸甜适度有回甘。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括及操作要点1.加工工艺流程制曲↓原料处理——加热制粥——第一次发酵——加麸皮——第二次发酵——装缸密封(进晒场)——第三次发酵——淋醋——灭菌——成品。操作要点(1)原料处理:将大米、糯米粉碎为40目,用水浸润8至12小时。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "赤水市",
+      "id": "sw-c0306072a5bb68c030",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "梭筛桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "梭筛桃是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为红花桃。",
+      "detail": "梭筛桃是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为红花桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形端正近圆形,皮色青绿,阳面带红霞,果肉白或青绿,肉质紧密,皮薄肉脆,爽口鲜甜。\n\n产地条件方面，资料写到海拔1100至1300m,土壤类型为红壤或黄壤,土壤质地为砂壤土,土壤pH值5.5至6.5;土层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是5月中下旬至6月中旬采收。\n\n与原料形成有关的生产记录还包括育苗:以当地野生毛桃实生苗为砧木嫁接育苗。定植:定植时间为11月上旬至翌年3月上旬,栽植密度为每667m(亩)不超过50株。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "普定县",
+      "id": "sw-f8c3f1c7b5963e07a7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "落别樱桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "落别樱桃是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "落别樱桃是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽红艳、亮丽、通透,着色全面,果肉细嫩、皮薄肉厚多汁、酸甜爽口。\n\n产地条件方面，资料写到海拔1000至1500m,土壤质地为沙壤土,土层厚度不少于50厘米,土壤pH值为5.5至7.5,有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括育苗:采用嫁接或扦插苗。定植:(1)栽植密度:每公顷栽植株不超过3300株。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-56d3fb85b3bbed8672",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "贵定益肝草凉茶",
+      "type": "drinks",
+      "kind": "地方草本饮料",
+      "description": "贵定益肝草凉茶是与贵州·黔南州·贵定县相联系的地方草本饮料。原料或品种方面，保护要求记载为1.鱼腥草:选用产地范围内种植的新鲜鱼腥草,浸出物不少于13%。",
+      "detail": "贵定益肝草凉茶是与贵州·黔南州·贵定县相联系的地方草本饮料。原料或品种方面，保护要求记载为1.鱼腥草:选用产地范围内种植的新鲜鱼腥草,浸出物不少于13%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽呈淡黄色至褐色,清澈透明。味微苦,有回甘。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料拣选——配料——提取——过滤——均质——封装——灭菌——冷却——包装——成品——贮藏。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "贵定县",
+      "id": "sw-72b1ab1dee61f652a7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "罗甸玉",
+      "type": "crafts",
+      "kind": "地方工艺物品",
+      "description": "罗甸玉是与贵州·黔南州·罗甸县相联系的地方工艺物品。原料或品种方面，保护要求记载为要求1.原料开采:取得探采资质的企业,在产地范围内,根据矿山岩层构造,以人工方式,有计划的采掘;并按照原石形态、颜色、块度大小,确定合理用途。",
+      "detail": "罗甸玉是与贵州·黔南州·罗甸县相联系的地方工艺物品。原料或品种方面，保护要求记载为要求1.原料开采:取得探采资质的企业,在产地范围内,根据矿山岩层构造,以人工方式,有计划的采掘;并按照原石形态、颜色、块度大小,确定合理用途。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：加工后的罗甸玉呈:结构致密,质地细腻,玉质温润,朴实较沉重;不透明至半透明,蜡状光泽至油状光泽,按其颜色分为五类。分类指征颜色白色,略泛灰、青、黄、褐等杂色或不泛色,颜色均匀,半透明,具白玉瓷感,蜡状—油状光泽。灰白玉颜色呈烟灰色—白色—灰白色的变化,半透明,蜡状—油状光泽。\n\n产地条件方面，资料写到1.原料开采:取得探采资质的企业,在产地范围内,根据矿山岩层构造,以人工方式,有计划的采掘;并按照原石形态、颜色、块度大小,确定合理用途。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "罗甸县",
+      "id": "sw-4f0fd77c034f654615",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "富民杨梅",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "富民杨梅是与云南·昆明·富民县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为东魁、荸荠梅。",
+      "detail": "富民杨梅是与云南·昆明·富民县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为东魁、荸荠梅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表1富民杨梅的感官特色品种级别果形色泽基本要求肉柱肉柱顶端呈圆特紫红色富果形端正钝形,无肉级有光泽果形端正,果面洁刺。净,无病斑、无虫肉柱顶端呈圆一紫红色有粪、无灰尘、无霉钝形或少量尖东魁种果形正常级光泽变、无伤口,成熟锐形,无肉度一致,口感甜中刺。带微酸、无异味。\n\n产地条件方面，资料写到选择土壤疏松、土层较深厚、排水良好、含有石砾的沙质红、黄土壤,pH值5.5至6,坡度在30°以下,海拔在1650m至2000m的山坡地,采用水平梯地或等高鱼鳞坑等方式建园。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在五月中下旬开始采摘。采收要在晴天进行,尽量避免雨天采收。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "富民县",
+      "id": "sw-0fd7573815d5b91875",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "大姚核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "大姚核桃是与云南·楚雄州·大姚县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地“三台核桃”优良无性系品种。",
+      "detail": "大姚核桃是与云南·楚雄州·大姚县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地“三台核桃”优良无性系品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果呈倒卵圆形,缝合线隆起紧密,仁白、核仁饱满。口感好,食味香甜,涩味淡。\n\n产地条件方面，资料写到海拔1600至2400m。土壤类型为棕壤、紫色土,土壤有机质含量不少于2%,土壤pH值5.5至7。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年白露节令前后,青果皮颜色由浅变深,开裂果实达到七成后采收。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "大姚县",
+      "id": "sw-4b91550ab6e2ab5a0e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "撒坝火腿",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "撒坝火腿是与云南·昆明·禄劝彝族苗族自治县相联系的地方加工食品。",
+      "detail": "撒坝火腿是与云南·昆明·禄劝彝族苗族自治县相联系的地方加工食品。原料或品种方面，保护要求记载为及辅料要求1.猪种:撒坝猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)形状:整腿:形似琵琶、脚直伸、腿心肌肉凸现饱满,跨边小,肥膘薄,无损伤。分割腿:呈整体条形、方形或梯形,形状整齐美观。(2)色泽、气味:皮面乳白色或淡黄色,肉面有绿霉,肌肉切面玫瑰色或桃红色;脂肪切面乳白色或微红色,有光泽。骨髓桃红色或微黄色,有光泽。气味鲜香、滋味浓郁。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选腿——修割——冷凉——排血——上头道盐——堆码——上第二道盐——再堆码——上第三道盐——最后堆码——上挂熟化——成熟火腿的检验。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "禄劝彝族苗族自治县",
+      "id": "sw-f2f3ad55c7eca965ec",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "禄丰香醋",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "禄丰香醋是与云南·楚雄州·禄丰市相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "禄丰香醋是与云南·楚雄州·禄丰市相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：醋体色泽呈棕红色,体态澄清,醋香纯正,酸味柔和、回味甘甜。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "禄丰市",
+      "id": "sw-b1a0d956b893def4f7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "广南八宝米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "广南八宝米是与云南·文山州·广南县相联系的地方食材。原料或品种方面，保护要求记载为广稻系列、文稻系列等优质籼稻品种。",
+      "detail": "广南八宝米是与云南·文山州·广南县相联系的地方食材。原料或品种方面，保护要求记载为广稻系列、文稻系列等优质籼稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒呈长椭圆型,蒸煮时有浓郁的清香味,米饭口感柔软、粘性适中、适口性好,米饭表面油光润泽,凉后不回生。\n\n产地条件方面，资料写到淹育型、潴育型、潜育型水稻土,土壤质地砂壤、中壤、黏壤,有机质含量不少于2.0%,耕作层厚度不少于20cm,pH值5.8至7.8。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "广南县",
+      "id": "sw-dd43b871388deb45bd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "广南八宝米"
+      ]
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "东川面条(东川挂面)",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "东川面条(东川挂面)是与云南·昆明·东川区相联系的地方面食与米制点心。",
+      "detail": "东川面条(东川挂面)是与云南·昆明·东川区相联系的地方面食与米制点心。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观:均匀条状或圆状,表面光滑细腻。色泽:色泽正常均匀一致。烹调性:煮熟后口感不粘,不牙渗,柔软爽口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料——和面——醒发——压片切条——盘条醒发——打小架——上大架——晾晒——切割。",
+      "sources": [
+        "sw-gi-e011caf3c10cbd67"
+      ],
+      "locality": "东川区",
+      "id": "sw-3e548e6fb863aa697b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "金阳丝毛鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金阳丝毛鸡是与四川·凉山州·金阳县相联系的地方食材。原料或品种方面，保护要求记载为当地土种鸡。",
+      "detail": "金阳丝毛鸡是与四川·凉山州·金阳县相联系的地方食材。原料或品种方面，保护要求记载为当地土种鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体鸡:体型小巧匀称,丝状羽毛,有杂色、白色和黑色三种羽色,喙黑黄色,胫和趾黑色。白条鸡:皮肤白色、浅黄或黑色,光滑滋润,肌肉色泽淡玫瑰色或黑色,肉质鲜美,有弹性。\n\n与原料形成有关的生产记录还包括饲养方式:雏鸡舍饲饲养,其它阶段在牧草生长季节放养饲养,枯草季节放养与补饲结合饲养。饲料:育雏期饲喂全价配合饲料,其它阶段以天然牧草为主,补饲当地产小麦、大麦、玉米、大豆等谷物精料。出栏:210—270日龄,公鸡体重2.2—3.0kg,母鸡体重1.3—1.8kg。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "金阳县",
+      "id": "sw-284868821507334ffd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "红白豆腐干",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "红白豆腐干是与四川·德阳·什邡市相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:采用保护区域范围内生产的优质大豆,蛋白质含量不少于40%、脂肪含量不少于20%。",
+      "detail": "红白豆腐干是与四川·德阳·什邡市相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.大豆:采用保护区域范围内生产的优质大豆,蛋白质含量不少于40%、脂肪含量不少于20%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈块状,四角方正,表皮深褐色,内呈乳白色,质地细腻、坚实,入口有嚼劲,香味回味绵长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括大豆→筛选→浸泡→磨浆→煮浆→点浆、蹲脑→加压成型→开坯、切料→烘烤→卤制→摊晾→成品。\n\n产地条件方面，资料写到1.大豆:采用保护区域范围内生产的优质大豆,蛋白质含量不少于40%、脂肪含量不少于20%。2.生产用水:保护区域范围内的天然泉水,水质符合国家生活饮用水标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "什邡市",
+      "id": "sw-98bc76ad95a20769a7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "江油百合",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "江油百合是与四川·绵阳·江油市相联系的地方食材。原料或品种方面，保护要求记载为川百合及大花卷丹。",
+      "detail": "江油百合是与四川·绵阳·江油市相联系的地方食材。原料或品种方面，保护要求记载为川百合及大花卷丹。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲜百合:鲜百合鳞茎肥大、整齐度一致、色泽洁白;形状为特有的独头,且鳞片形状呈桃心形,片状宽、短、厚;肉质脆嫩,多汁味甜。百合干片:百合干片为乳白色、微棕黄色,肉质略带韧性;口味微甜,回苦。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜百合:除去母根、须根及泥土-剥片(不剥片)-清洗-沥干-分级包装-成品百合干片:鲜百合-剥片-清洗-漂烫-冷却-护色-沥干-干燥-分级包装-成品。\n\n产地条件方面，资料写到海拔500m~1000m内的平坝地区,质地为砂壤土,有机质含量不少于2.33%,pH值5.5~6.5,土层厚度不少于20cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是定植后第2年的8月上旬收获,选晴天或土壤干燥时收挖。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "江油市",
+      "id": "sw-c991162a9688b21878",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "长宁竹荪(长宁长裙竹荪)",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "长宁竹荪(长宁长裙竹荪)是与四川·宜宾·长宁县相联系的地方食材。",
+      "detail": "长宁竹荪(长宁长裙竹荪)是与四川·宜宾·长宁县相联系的地方食材。原料或品种方面，保护要求记载为长裙竹荪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽为米黄色或微黄;菌裙呈扇形自然张开,菌裙长度达菌柄长度的85%以上;有长裙竹荪特有香味。\n\n产地条件方面，资料写到土壤类型为红壤,质地为砂壤土,土壤pH值4.5~6.0,有机质含量不少于2%,栽培田不连作。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "长宁县",
+      "id": "sw-66b3e7996c43362c83",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "长宁竹荪"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都水族马尾绣",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "三都水族马尾绣是与贵州·黔南州·三都水族自治县相联系的地方器物与工艺原料。",
+      "detail": "三都水族马尾绣是与贵州·黔南州·三都水族自治县相联系的地方器物与工艺原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色彩艳丽、饱和度高,对比和谐,光泽柔和,绣纹致密,浮雕立体感强,极具水族文化特色,耐磨、耐牵拉,长时间不褪色。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括马尾线制作→定图→填芯→镶边→订金钱(选择)→合成→成品。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-dda1104984f60f3334",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "禹谟醋",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "禹谟醋是与贵州·毕节·金沙县相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "禹谟醋是与贵州·毕节·金沙县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：指标项目头醋二醋色泽棕褐色红棕色香气酯香浓郁酯香较浓滋味酸味柔和纯厚,回味绵长酸味柔和纯正,回味较长体态澄清,无浑浊澄清,无浑浊。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料——粉碎——水解——加药曲发酵——制成醋母——加入麸皮扩大培养——醋醅——装坛陈酿——成熟醋醅——淋醋——灭菌——半成品检验——灌装——成品检验——入库。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "金沙县",
+      "id": "sw-4929b0004157a11eef",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁荞麦",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "威宁荞麦是与贵州·毕节相联系的地方食材。原料或品种方面，保护要求记载为类型及名称黔苦3号、黔苦7号等适生的苦荞类型品种。",
+      "detail": "威宁荞麦是与贵州·毕节相联系的地方食材。原料或品种方面，保护要求记载为类型及名称黔苦3号、黔苦7号等适生的苦荞类型品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：荞麦米:颗粒均匀、饱满,呈黑褐色或黄褐色,色泽光亮。荞麦面:色泽均匀,呈淡黄色至黄褐色,栗香味浓郁。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括米加工流程初清除杂→浸泡→熟化→烘干→脱壳→筛分→包装面加工流程初清除杂→研磨→筛分→熟化→做形→烘干→包装。\n\n产地条件方面，资料写到海拔1800至2800米。土壤类型为黄棕壤,质地为壤土。土壤pH值为4.5至6.5,土壤有机质不少于1.0%,土层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是2/3以上的籽粒变成种子色后收获。四、加工。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "毕节相关产区",
+      "id": "sw-abfed57d05f4e45364",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "大方冬荪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大方冬荪是与贵州·毕节·大方县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "大方冬荪是与贵州·毕节·大方县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：无裙,无臭味,口感脆嫩,久煮不糊。\n\n产地条件方面，资料写到产地范围内海拔1000m至1900m,背风向阳,土壤有机质不少于1.0%,土层厚度不少于20cm,土壤pH值5.0至7.0,空气湿度不少于70%,遮荫度不少于50%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工。\n\n与原料形成有关的生产记录还包括栽培材料准备和加工(1)栽培主要材料选用阔叶树树干或发酵去脂后的松杉树,主要材料不得低于50%,枝条、农作物秸杆及其他配料不得高于50%。栽培管理(1)整地和播种开厢作畦床→土壤处理→第一层铺料→播种→第二层铺料→覆土→加盖遮荫物(2)水分管理:土壤湿度保持在50%以上,空气湿度保持在65%以上。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "大方县",
+      "id": "sw-95a696a19190ed096c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "妥乐白果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "妥乐白果是与贵州·六盘水相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "妥乐白果是与贵州·六盘水相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外壳具两棱,呈汉白玉或鱼肚白色,壳薄光滑具光泽。果仁呈翠绿色,煮熟后香味浓郁,口感质地细腻,有韧性,糯性好。\n\n产地条件方面，资料写到产地范围内海拔1500m至2500m,土壤类型为黄棕壤,土壤质地为沙壤土,土层厚度不少于40cm,土壤有机质含量不少于1.0%,pH值5.5至7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月至10月,果实外种皮由青转黄或橙黄,并开始少量自然脱落时采收。\n\n与原料形成有关的生产记录还包括种苗繁育:选用产地范围内壮年结果母树采集接穗,3年至5年银杏实生苗为砧木嫁接育苗。定植:定植时间为12月上旬至4月上旬。定植密度为每公顷栽植株数不超过700株,雌雄株比例不少于50:1。",
+      "sources": [
+        "sw-gi-aa5609cf365398f2"
+      ],
+      "locality": "六盘水相关产区",
+      "id": "sw-d811ab8182160aad68",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "南华松茸",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南华松茸是与云南·楚雄州·南华县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "南华松茸是与云南·楚雄州·南华县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观色泽鲜明、体态壮硕、菌肉肥厚、肉质细嫩紧密,香味醇厚浓郁,生食脆、嫩、香、甜,熟食有韧劲、润滑爽口回甘。\n\n产地条件方面，资料写到海拔1300m~2600m的云南松纯林或云南松、华山松、滇油杉、栎类、杜鹃等针阔混交林。土壤类型以紫色土为主,伴有红壤和黄壤,PH值4.3~6.5。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-3757ed6c71f53dec"
+      ],
+      "locality": "南华县",
+      "id": "sw-9c81febe9fb21d4e3a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "楚雄牛肝菌",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "楚雄牛肝菌是与云南·楚雄州·楚雄市相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "楚雄牛肝菌是与云南·楚雄州·楚雄市相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观色泽分明、菌盖厚实,肉质细嫩紧密,菌味浓香鲜甜,口感糯滑滋润。\n\n产地条件方面，资料写到产地范围内的云南松纯林或云南松、华山松、滇油杉、栎类、杜鹃等针阔混交林,土壤类型以紫色土为主,伴有红壤、黄壤。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-3757ed6c71f53dec"
+      ],
+      "locality": "楚雄市",
+      "id": "sw-cf828eea9b00e69c9a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "麻江蓝莓",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "麻江蓝莓是与贵州·黔东南州·凯里市、黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、锦屏县、剑河县、台江县、黎平县、榕江县、从江县、雷山县、麻江县、丹寨县相联系的地方果蔬或干果。",
+      "detail": "麻江蓝莓是与贵州·黔东南州·凯里市、黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、锦屏县、剑河县、台江县、黎平县、榕江县、从江县、雷山县、麻江县、丹寨县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为园蓝、灿烂、粉蓝、蓝雨等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：项目要求色泽果实呈深蓝色,有或无果粉口感味清香,酸甜适中,肉汁细腻,有胶质感。\n\n产地条件方面，资料写到产地范围内海拔高度350m~850m,土壤pH4.5-5.6,有机质含量不少于5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是分品种采收。品种采收时间灿烂6月中旬-7月下旬粉蓝、园蓝7月上旬-8月中旬蓝雨6月上旬-6月下旬。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "凯里市、黄平县、施秉县、三穗县、镇远县、岑巩县、天柱县、锦屏县、剑河县、台江县、黎平县、榕江县、从江县、雷山县、麻江县、丹寨县",
+      "id": "sw-d855406cd77f6773c2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "普安四球茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "普安四球茶是与贵州·黔西南州·普安县相联系的地方茶或代用茶。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "普安四球茶是与贵州·黔西南州·普安县相联系的地方茶或代用茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形重实,绿润,无毫;汤色淡绿明亮,耐泡;香气浓香得馥郁高长;滋味鲜醇、爽口,回味悠长;叶底芽叶嫩匀,绿亮、鲜活。\n\n产地条件方面，资料写到产地范围内海拔1000m至2000m,土壤类型为黄壤或黄棕壤,土壤pH值5.0~7.0,土壤有机质含量不少于1.0%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘一芽二叶、一芽三叶;每年3月下旬至5月上旬。\n\n与原料形成有关的生产记录还包括育苗:采用无性繁殖方法育苗(古茶树除外)。种植:每年9月至次年2月种植。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "普安县",
+      "id": "sw-8f17f369ef2c440922",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "普安红茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "普安红茶是与贵州·黔西南州·普安县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工为普安红茶的其他茶树品种。",
+      "detail": "普安红茶是与贵州·黔西南州·普安县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜加工为普安红茶的其他茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)工夫红茶外形条索细紧多峰苗,匀齐、净,色泽红匀,明亮;香气鲜嫩持久;汤色红艳浓亮;滋味醇滑;叶底嫩匀红亮。(2)红碎茶外形颗粒紧实、金毫显露、匀齐、色润;香气嫩香、强烈持久;滋味浓强鲜爽;汤色红艳明亮;叶底嫩匀红亮。\n\n产地条件方面，资料写到产地范围内海拔1000m~2000m,土壤类型为黄壤或黄棕壤,土壤pH值5.0~7.0,土壤有机质含量不少于1.0%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘单芽或一芽一叶初展、一芽二叶初展、一芽二、三叶及同等嫩度对夹叶;每年2月下旬至5月上旬,6月中旬至8月下旬。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "普安县",
+      "id": "sw-e197be090b88e4dbb4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "盘州红米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "盘州红米是与贵州·六盘水·盘州市相联系的地方食材。原料或品种方面，保护要求记载为当地红米、地方粳稻品种。",
+      "detail": "盘州红米是与贵州·六盘水·盘州市相联系的地方食材。原料或品种方面，保护要求记载为当地红米、地方粳稻品种。四、立地条件保护区范围内海拔1100m~1800m,土壤有机质含量不少于2%,土壤pH值5.5至7.5,水稻土、黄壤土、沙壤土。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒呈细长椭圆形,表皮为深粉红至浅粉红色。蒸熟时谷香味浓郁,米饭不粘不渣。口感绵软稍带粗糙感,冷后不回生,饭粒稍硬,有弹性。\n\n产地条件方面，资料写到保护区范围内海拔1100m~1800m,土壤有机质含量不少于2%,土壤pH值5.5至7.5,水稻土、黄壤土、沙壤土。五、栽培管理1.催芽与播种期催芽5-7天,待种子露白即可播种。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月中旬采收,籽粒充分黄熟后及时收获,脱粒扬净后晒干贮存。六、加工稻谷→筛选→去石→磁选→砻谷→谷糙分离→碾米→去碎米→检验→包装。七、质量要求。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "盘州市",
+      "id": "sw-360ee4cd6830b42341",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭火龙果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "关岭火龙果是与贵州·安顺相联系的地方食材。原料或品种方面，保护要求记载为适应当地自然条件的红肉品种。",
+      "detail": "关岭火龙果是与贵州·安顺相联系的地方食材。原料或品种方面，保护要求记载为适应当地自然条件的红肉品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实圆形,果皮呈鲜红色至淡红色;果肉紫红色,汁多味甜。\n\n产地条件方面，资料写到海拔不超过650m,土壤质地砂质土,pH5.5~7.5,土壤有机质含量不少于1.5%,土层厚度不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实变红5-7天即可采收。\n\n与原料形成有关的生产记录还包括3月至11月定植。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "安顺相关产区",
+      "id": "sw-bce6fc8ebaa0144afc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "保基茶叶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "保基茶叶是与贵州·六盘水相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种以及适宜加工保基茶叶的茶树品种。",
+      "detail": "保基茶叶是与贵州·六盘水相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种以及适宜加工保基茶叶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：扁形茶:外形扁平挺直,绿润整齐,露毫,嫩香持久;卷曲形茶:外形条索紧实、匀整,色泽灰绿光润,香气清香,浓郁;风味独特、栗香高长,汤色黄绿明亮,滋味鲜醇,回味甘长,叶底嫩绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括1、加工工艺流程:摊青→杀青→做形→干燥。\n\n产地条件方面，资料写到产地范围内海拔1200m至2000m,土壤类型为黄棕壤,质地壤土、沙壤土,pH值4.5至6.5,土壤有机质含量不少于1%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月上旬至5月中旬采摘,采摘单芽至一芽二叶的茶叶。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "六盘水相关产区",
+      "id": "sw-c468952dfbc7e384d8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "思州柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "思州柚是与贵州·黔东南州·岑巩县相联系的地方食材。原料或品种方面，保护要求记载为文旦柚。",
+      "detail": "思州柚是与贵州·黔东南州·岑巩县相联系的地方食材。原料或品种方面，保护要求记载为文旦柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形为扁圆形或高扁圆形,果皮淡黄色,果肉肥厚呈米黄色,脆嫩多汁,清甜中带微酸,香味浓郁;无籽或少籽;果肉易剥脱不沾皮。\n\n产地条件方面，资料写到土壤类型红壤,土层厚度不少于1m,有机质含量>2%,pH值5.0至6.5,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是10月下旬果皮转色面积不少于3/4后分期采收。\n\n与原料形成有关的生产记录还包括苗木培育:以本地两年生苦柚或酸柚实生苗做砧木进行嫁接繁殖。定植:定植时间秋植在9月至11月,春植在2月至3月。定植密度为每公顷栽植株数不超过600株。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "岑巩县",
+      "id": "sw-d134f78f0293cf4297",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "李庄白酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "李庄白酒是与四川·宜宾·翠屏区相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:采用宜宾地区当年生产的新鲜糯红高粱,支链淀粉占总淀粉含量不少于92%,高粱品质符合国家有关标准。",
+      "detail": "李庄白酒是与四川·宜宾·翠屏区相联系的地方酒。原料或品种方面，保护要求记载为1.高粱:采用宜宾地区当年生产的新鲜糯红高粱,支链淀粉占总淀粉含量不少于92%,高粱品质符合国家有关标准。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：清澈透明、清香纯正、糟香舒适、醇厚甘甜、回味悠长。(2)。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括粮食→泡粮→初蒸→闷水→复蒸→摊晾→撒曲→收箱→培菌糖化→配糟→发酵→蒸馏→产品。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "翠屏区",
+      "id": "sw-2e2eaf4707ff5cefe4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "南溪白鹅",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南溪白鹅是与四川·宜宾·南溪区相联系的地方食材。原料或品种方面，保护要求记载为四川白鹅。",
+      "detail": "南溪白鹅是与四川·宜宾·南溪区相联系的地方食材。原料或品种方面，保护要求记载为四川白鹅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体鹅:符合四川白鹅品种特征。白条鹅:皮肤有光泽,肉色为淡红色,纹理清晰;肉味鲜香,肉质细腻。2.鹅肉。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括屠宰→脱毛→蜡处理→剖腹→整理内脏→清洗胴体→分割胴体→急冻。\n\n与原料形成有关的生产记录还包括饲养方式:采用“陆放+水养”、“放牧+补饲”的饲养方式。水养密度:每亩水面饲养量不超过60只。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "南溪区",
+      "id": "sw-2207d89aa1912536f6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "屏山白魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "屏山白魔芋是与四川·宜宾·屏山县相联系的地方食材。原料或品种方面，保护要求记载为当地适宜加工的白魔芋地方品种。",
+      "detail": "屏山白魔芋是与四川·宜宾·屏山县相联系的地方食材。原料或品种方面，保护要求记载为当地适宜加工的白魔芋地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色白、有极轻微鱼腥味(魔芋固有)。\n\n产地条件方面，资料写到海拔不超过800m。半阴半阳的小环境。pH值5.5~7.5。土层厚度40~60cm。有机质含量不少于1.3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与干制收获时间10月中旬至次年1月底。收获后24h内进行干制至含水量不超过10%。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "屏山县",
+      "id": "sw-89ba4abf799a932607",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "沙河豆腐",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "沙河豆腐是与四川·宜宾·高县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.黄豆:保护区范围内种植的,收获期一年内的优质黄豆,蛋白质含量不少于40%。",
+      "detail": "沙河豆腐是与四川·宜宾·高县相联系的地方加工食品。原料或品种方面，保护要求记载为要求1.黄豆:保护区范围内种植的,收获期一年内的优质黄豆,蛋白质含量不少于40%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈白玉色,富有光泽;质地细腻,软硬适度,晃而不散,久煮不碎;具有浓郁的天然豆香味,鲜嫩细腻,绵滑爽口,回味清爽。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括黄豆精选→洗豆→浸泡→磨浆→煮浆→滤浆→点浆→压制成型。\n\n产地条件方面，资料写到1.黄豆:保护区范围内种植的,收获期一年内的优质黄豆,蛋白质含量不少于40%。2.生产用水:产自上龙山山泉水,水质符合国家饮用水相关规定,pH值7.0~8.5。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "高县",
+      "id": "sw-8c5f99761a9440f29e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "兴文方竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "兴文方竹笋是与四川·宜宾·兴文县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "兴文方竹笋是与四川·宜宾·兴文县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：结构致密,肉质脆嫩,鲜味浓郁。笋干色泽透亮,水发复原性好。\n\n产地条件方面，资料写到海拔800m—1795m,紫色土、黄壤和黄棕壤,土壤pH值5.0-7.0,土层厚度不少于30cm,有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月上旬至10月中下旬,出土后笋长不超过40cm采收。\n\n与原料形成有关的生产记录还包括繁殖:分株繁殖,选用2-3年母竹,竹鞭不少于30cm,不少于4个芽。定植时间:10月中旬至次年3月下旬。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "兴文县",
+      "id": "sw-dab5c1d310b03c414d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "建水紫陶",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "建水紫陶是与云南·红河州·建水县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为要求以建水境内天然呈色为紫、白、青、黄、五花等五种陶土为原料,五种陶土均有质地细腻、柔滑、可塑性强、饱水易软化等特点,含SiO。",
+      "detail": "建水紫陶是与云南·红河州·建水县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为要求以建水境内天然呈色为紫、白、青、黄、五花等五种陶土为原料,五种陶土均有质地细腻、柔滑、可塑性强、饱水易软化等特点,含SiO。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括泥料制备→拉坯造型→湿坯装饰→雕刻填泥→高温烧制→无釉磨光。\n\n产地条件方面，资料写到以建水境内天然呈色为紫、白、青、黄、五花等五种陶土为原料,五种陶土均有质地细腻、柔滑、可塑性强、饱水易软化等特点,含SiO2、Al2O。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-851402c8a193aa99"
+      ],
+      "locality": "建水县",
+      "id": "sw-7ffc0994b6e597f255",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "金沙回沙酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "金沙回沙酒是与贵州·毕节·金沙县相联系的地方酒。原料或品种方面，保护要求记载为要求1.高粱:质量符合国家高粱相关标准规定。",
+      "detail": "金沙回沙酒是与贵州·毕节·金沙县相联系的地方酒。原料或品种方面，保护要求记载为要求1.高粱:质量符合国家高粱相关标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽无色或微黄,清亮透明。香气酱香突出,香气优雅,饮后空杯留香。口味酒体醇厚、丰满、诸味协调。风格具有本品典型风格。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括及操作要点。\n\n产地条件方面，资料写到1.高粱:质量符合国家高粱相关标准规定。2.小麦:质量符合国家小麦相关标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "金沙县",
+      "id": "sw-4de056007c62fb0feb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "南盘江黄牛",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南盘江黄牛是与贵州·黔西南州·兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、安龙县相联系的地方食材。",
+      "detail": "南盘江黄牛是与贵州·黔西南州·兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、安龙县相联系的地方食材。原料或品种方面，保护要求记载为盘江牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉色鲜红,有光泽,脂肪呈乳白色至淡黄色,切面呈大理石花,熟肉有香味浓厚,口感弹性足,生食入口鲜嫩。\n\n与原料形成有关的生产记录还包括饲养方式:12月龄前舍饲饲养,13月龄至出栏放牧饲养。饲料要求:放牧期间以天然植被为主要饲料,补饲适量青贮料和青干草。圈舍条件:地势高、背风向阳、噪音小、远离污染之处,舍内应干燥,冬暖夏凉,地面应保温、不透水、不打滑,粪尿易于排出舍外,舍内卫生保持清洁,空气流通性好、且新鲜,饮用水供给充足。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "兴义市、兴仁市、普安县、晴隆县、贞丰县、望谟县、安龙县",
+      "id": "sw-aa8210a1b3c0a7e673",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "水城黑山羊是与贵州·六盘水·钟山区、六枝特区、水城区相联系的地方食材。",
+      "detail": "水城黑山羊是与贵州·六盘水·钟山区、六枝特区、水城区相联系的地方食材。原料或品种方面，保护要求记载为贵州黑山羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体羊:被毛黑色,体格中等,体质结实,结构匀称,蹄质坚实、蹄部蜡黄。(2)羊肉:肉色鲜红,有光泽,脂肪白色,肉细而紧密,有弹性,肉质鲜嫩,膻味轻。\n\n与原料形成有关的生产记录还包括饲养方式:放牧与舍饲结合,育肥阶段舍饲饲养,育成阶段放牧饲养。饲料与饮水:放牧饲养以天然牧草为主,补饲少量精料、农作物秸秆和食盐。舍饲期间饲喂青绿饲料、农作物秸秆和精饲料。育肥阶段舍饲饲养,其它阶段放牧饲养。羊只按性别和不同生理阶段进行分群分圈饲养。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "钟山区、六枝特区、水城区",
+      "id": "sw-acdb33abe1f4ad3dc1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "习水红稗",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "习水红稗是与贵州·遵义·习水县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "习水红稗是与贵州·遵义·习水县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：习水红稗原料颗粒细小、饱满,大小均匀,颜色呈棕红色至深红色,去壳后的红稗粉呈灰白色,具有红稗特有的香气及滋味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括及操作要点。\n\n产地条件方面，资料写到产地范围内海拔800m至1600m,土壤类型主要为山地黄棕壤、黄壤紫色土、沙质壤土。土壤pH值5.0至7.0,土壤有机质含量不少于1%,土层厚度不少于0.6m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月中旬,收割变黄的红稗粒,红稗粒分三次依次变黄,每隔5天可收割一次,15天左右收割完毕。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "习水县",
+      "id": "sw-77d3901f556026ac8c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "龙里刺梨干",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "龙里刺梨干是与贵州·黔南州·龙里县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为龙里刺梨。",
+      "detail": "龙里刺梨干是与贵州·黔南州·龙里县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为龙里刺梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颜色呈棕黄色或黄褐色,片形完整,不流糖、不定糖,气味清香,质地柔软,有韧性。甜、酸适口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→脱刺、切分→漂烫→熬煮、蜜制→烘干→冷却、修整→成品。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "龙里县",
+      "id": "sw-e6ca8942187b37c376",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "白果贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "白果贡米是与贵州·遵义相联系的地方食材。原料或品种方面，保护要求记载为宜香2215、Y两优585等当地优良品种。",
+      "detail": "白果贡米是与贵州·遵义相联系的地方食材。原料或品种方面，保护要求记载为宜香2215、Y两优585等当地优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒呈长椭圆形,外表晶莹饱满,呈半透明状,油润淡雅,米色稍褐而透明;米饭棉软有弹性,天然清香,米香四溢,香滑油亮,粘性适中、适口度好。\n\n产地条件方面，资料写到产地范围内海拔800m至1300m的耕地。土壤类型为黑土、水稻土、草甸土,土层厚度不少于30cm,土壤有机质含量不少于1.5%,土壤pH值5.0至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是收获期为9月中旬至10月中旬,干燥至含水量不超过。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "遵义相关产区",
+      "id": "sw-afe9897178fe6892cc",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "榕江葛根",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "榕江葛根是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为适宜当地栽培的细叶粉葛。",
+      "detail": "榕江葛根是与贵州·黔东南州·榕江县相联系的地方食材。原料或品种方面，保护要求记载为适宜当地栽培的细叶粉葛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观呈圆柱形或类纺锤形,须根、分叉少,表皮薄而有轻微皱褶,呈黄褐色;肉质乳白色,烹熟后口感绵软细嫩,带糯(粘)性,味道清香、微甜,葛味浓,无渣。\n\n产地条件方面，资料写到土壤属沙质红壤、黄红壤,土壤有机质含量不少于。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及贮藏。每年的11月至翌年2月采收。采收时选择晴天,挖开葛根周围土壤,取出块根。\n\n与原料形成有关的生产记录还包括育苗:采用扦插育苗。扦插密度不超过15000株/公顷。定植:定植时间为3月中旬至4月中旬,定植密度为不超过8250株/公顷。种植管理:7月底至8月初,挖开根部土壤,露出根基部10至15天。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "榕江县",
+      "id": "sw-ac95ff0d5992cce9fb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "朱苦拉咖啡",
+      "type": "drinks",
+      "kind": "地方咖啡",
+      "description": "朱苦拉咖啡是与云南·大理州·宾川县相联系的地方咖啡。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "朱苦拉咖啡是与云南·大理州·宾川县相联系的地方咖啡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：朱苦拉咖啡豆颗粒均匀饱满,油脂光泽,浅蓝色或浅绿色,气味清新,香气浓郁,口感醇厚,浓而不烈,略带果酸味。\n\n产地条件方面，资料写到海拔1100m至1700m。土壤类型为燥红土及褐红土,质地为沙壤土,土层厚不少于60cm,地下水位不超过1m,有机质含量不少于2%,pH值5.5至6.5。排水良好的土壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及加工。\n\n与原料形成有关的生产记录还包括育苗与定植:3月至7月播种育苗,当苗高15cm至30cm时定植,定植密度每公顷不超过6000株。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "宾川县",
+      "id": "sw-f0c1b70574d9657a55",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "宾川柑橘(宾川柑桔)",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "宾川柑橘(宾川柑桔)是与云南·大理州·宾川县相联系的地方果蔬或干果。",
+      "detail": "宾川柑橘(宾川柑桔)是与云南·大理州·宾川县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为岩溪晚芦、韦尔金桔。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：品种岩溪晚芦柑桔韦尔金柑桔果型长圆扁圆果品色泽橙黄,有光泽橙红或橙黄,有光泽口感酸甜适口、脆嫩化渣、风味浓酸甜适口、脆嫩化渣、风味浓郁郁。\n\n产地条件方面，资料写到土壤质地疏松肥沃,有机质含量不少于1.5%,耕作层在60cm以上,地下水位在1m以下。土壤为弱酸性,质地为沙壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3至4月成熟采收上市。\n\n与原料形成有关的生产记录还包括育苗:以枳、红桔和香橙为砧木,嫁接育苗。定植:定植时间:夏梢或秋梢老熟后,或在2月份春梢萌芽前定植。定植密度:栽植密度为不超过2000株/公顷。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "宾川县",
+      "id": "sw-60a2a33bcad402fdb1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "瑞丽柠檬",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "瑞丽柠檬是与云南·德宏州·瑞丽市相联系的地方食材。原料或品种方面，保护要求记载为云柠1号、尤力克、塔西提。",
+      "detail": "瑞丽柠檬是与云南·德宏州·瑞丽市相联系的地方食材。原料或品种方面，保护要求记载为云柠1号、尤力克、塔西提。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：品种云柠1号尤力克塔西提果型椭圆椭圆圆形果品色泽黄色、有光泽黄色、有光泽青绿色、有光泽口感酸、芳香味浓郁酸、芳香味浓郁酸、芳香味浓郁。\n\n产地条件方面，资料写到海拔600至1300m。土壤质地为红壤或赤红壤,土层厚度不少于100cm,有机质含量不少于1.5%,土壤pH值5.5至6.8,地下水位100cm以下。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括种苗繁育:以枳壳为砧木,采用嫁接育苗。定植:定植时间:每年5月到11月上旬。定植密度为不超过1665株/公顷。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a"
+      ],
+      "locality": "瑞丽市",
+      "id": "sw-e318a2c5f5090b5372",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "屏边荔枝",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "屏边荔枝是与云南·红河州·屏边苗族自治县相联系的地方果蔬或干果。",
+      "detail": "屏边荔枝是与云南·红河州·屏边苗族自治县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为妃子笑。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形近圆形或卵圆形,果皮青绿带淡红。肉厚核小,肉质细嫩,多汁,酸甜适中,甜而不腻,回味厚重,清香爽口。\n\n产地条件方面，资料写到海拔高度不超过800米,土壤pH值为5.5至6.5。土壤类型为红壤土、黄壤土、紫色土,质地为沙壤土。有机质含量不少于2%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是外果皮1/3至1/2变红,可溶性固形物不少于18%时分批采收。\n\n与原料形成有关的生产记录还包括育苗以褐毛荔枝作砧木嫁接育苗。定植定植时间:5月至7月。",
+      "sources": [
+        "sw-gi-c4f697444b9b2b8a",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "屏边苗族自治县",
+      "id": "sw-ad72de76919cda6e84",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "屏边荔枝"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "张坝桂圆",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "张坝桂圆是与四川·泸州相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "张坝桂圆是与四川·泸州相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈圆形,果皮金黄,色泽均匀;果肉绵、软,呈乳白色;离核,汁多味浓,有香气。\n\n产地条件方面，资料写到产地海拔400m以下,土质新冲积土、紫色土,土层深厚,疏松、肥沃,有机质不少于1.5%,pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月中旬至10月中旬,从“葫芦节”处采摘。\n\n与原料形成有关的生产记录还包括苗木培育:以本地良种作砧木进行嫁接繁育。定植时间:秋梢9—10月,春梢3—4月。浇水:定植后浇透定根水一次。整形:幼树采用自然开心形整形。修剪:幼树采用摘心提高分枝节次,采用撑、拉、吊等法调节枝条生长角度。成年树采用简易修剪法,以疏剪、回缩为主,改善树体通风透光条件。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "泸州相关产区",
+      "id": "sw-f20e94bc1ab69b1b1d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "西岭佛手瓜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西岭佛手瓜是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为应选择产量高、质量好、抗病性强的优质品种,以绿皮佛手瓜品种为宜。",
+      "detail": "西岭佛手瓜是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为应选择产量高、质量好、抗病性强的优质品种,以绿皮佛手瓜品种为宜。三、立地条件年平均气温16°C~30°C,年最低气温不少于3°C,花期平均气温20°C~30°C。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮较同类产品更加翠绿、光滑,单瓜个头大;瓜形端正如双手合十,果实梨形,有明显的5条纵沟,瓜顶有一条缝合线,瓜顶中心内凹,线性均匀。2.口感特征:清脆多汁,鲜嫩可口。\n\n产地条件方面，资料写到年平均气温16°C~30°C,年最低气温不少于3°C,花期平均气温20°C~30°C;土壤厚度0.5m以上,地下水位1.5m以下;土壤以沙土为宜。四、生产环境条件(1)园地选择与规划。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "大邑县",
+      "id": "sw-2f02cbbf01bb5bd943",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑麻羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大邑麻羊是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为成都麻羊。",
+      "detail": "大邑麻羊是与四川·成都·大邑县相联系的地方食材。原料或品种方面，保护要求记载为成都麻羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大邑麻羊体型清秀,四肢粗壮,毛色光亮。2.肉品质特征:(1)感官特色:色泽:肌肉有光泽,呈微暗红色,红色均匀;脂肪呈乳白色。纹理:纹理细腻,外面有白色的脂肪膜,瘦肉中混杂脂肪,丝丝分明;切面湿润,不粘手。组织状态:肌纤维致密,有韧性,富有弹性,指压后凹陷立即恢复。(2)。\n\n与原料形成有关的生产记录还包括饲养方式:舍饲与半放牧相结合。饲料条件:工业加工饲料原料及成品具有该品种应有的色、嗅、味和形态特征,色泽一致,无发霉、变质、结块及异嗅、异味,青绿饲料、干粗饲料不应发霉、变质,不含杂质、泥土等。禁止在饲料中使用肉骨粉、骨粉、血粉、羽毛粉、骨胶、鱼粉等动物源性饲料。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "大邑县",
+      "id": "sw-f4d5d64bc2b71f4ef5",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "曹家梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "曹家梨是与四川·眉山·仁寿县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金花梨、黄金梨、丰水梨等。",
+      "detail": "曹家梨是与四川·眉山·仁寿县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金花梨、黄金梨、丰水梨等。三、立地条件坡度6°—15°,土壤深厚疏松,有机质含量不少于1%,土壤pH值6.5-7.5,含盐量不得超过0.2%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果面色泽鲜亮,果点小而均匀,皮薄而光滑,果大、核小、多汁、味甜、质细、化渣。\n\n产地条件方面，资料写到坡度6°—15°,土壤深厚疏松,有机质含量不少于1%,土壤pH值6.5-7.5,含盐量不得超过0.2%。四、栽培管理1.育苗:选择优良品种及砧木,实行适地适栽,金花梨砧木以杜梨、秋子梨为主。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及晾晒7月中旬-8月上旬,选择晴天或不下雨无露水天气手工采摘为宜。鲜椒晾晒是关键。摘回的花椒,在夜间摊开散温,次日摊在晒席或簸箕上摊晒。",
+      "sources": [
+        "sw-gi-0248d8859368599b",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-ef02f52d9f86c2d9a3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "仁寿曹家梨"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "牛滩生姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "牛滩生姜是与四川·泸州·泸县相联系的地方食材。原料或品种方面，保护要求记载为牛滩生姜地方品种。",
+      "detail": "牛滩生姜是与四川·泸州·泸县相联系的地方食材。原料或品种方面，保护要求记载为牛滩生姜地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外皮光滑,呈现乳白色至淡黄色,嫩茎芽尖有3-5个鳞片,嫩芽粉红色,比较粗壮,姜块呈佛手状形态。\n\n产地条件方面，资料写到产地范围内海拔220-700m;土壤有机质含量1%-2%,土壤pH值6.5-7,土壤类型包括水稻土、紫色土、潮土、黄壤四个类型。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月下旬至8月上旬采收,可采到10月底,用高压水将表面泥土洗净,忌伤表皮,避免人工洗刷导致姜块变色。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "泸县",
+      "id": "sw-6bb0eed6e81eb8e559",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "煎茶竹丝茄",
+      "type": "ingredients",
+      "kind": "地方蔬菜",
+      "description": "煎茶竹丝茄是与四川·成都相联系的地方蔬菜。原料或品种方面，保护要求记载为煎茶竹丝茄。",
+      "detail": "煎茶竹丝茄是与四川·成都相联系的地方蔬菜。原料或品种方面，保护要求记载为煎茶竹丝茄。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形为细长条形或略弯曲,单果重400—600g,果实花纹如竹丝,肉质细嫩,生吃入口化渣,香甜爽口。\n\n产地条件方面，资料写到海拔500米以下,年平均气温17.1°C,无霜期280天左右,年均相对湿度82%,土壤为水稻土、黄壤土,pH值在6.8-7.3之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据商品果要求适时采收。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "成都相关产区",
+      "id": "sw-74bbe1abc03b78e0b9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "芝溪玉液",
+      "type": "alcohol",
+      "kind": "地方白酒",
+      "description": "芝溪玉液是与四川·遂宁·蓬溪县相联系的地方白酒。原料或品种方面，保护要求记载为要求1.高粱:采用蓬溪县当地出产的符合GB/T8321规定的优质高粱。",
+      "detail": "芝溪玉液是与四川·遂宁·蓬溪县相联系的地方白酒。原料或品种方面，保护要求记载为要求1.高粱:采用蓬溪县当地出产的符合GB/T8321规定的优质高粱。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括清香。\n\n产地条件方面，资料写到1.高粱:采用蓬溪县当地出产的符合GB/T8321规定的优质高粱。2.大米、糯米:采用蓬溪县当地出产的符合GB1354规定的优质大米、糯米。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-1f38a9264ad5fc08af",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "色湾藏香猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "色湾藏香猪是与四川·阿坝州相联系的地方食材。原料或品种方面，保护要求记载为藏香猪。",
+      "detail": "色湾藏香猪是与四川·阿坝州相联系的地方食材。原料或品种方面，保护要求记载为藏香猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鲜肌肉有光泽、肉色呈红色均匀,脂肪乳白色,呈透明状。肉皮薄,脂肪层薄,肉质纤维清晰紧密。(2)气味:无膻味,无异味。",
+      "sources": [
+        "sw-gi-0248d8859368599b",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "阿坝州相关产区、黑水县",
+      "id": "sw-d74ee061d479e3b6d2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "黑水色湾藏香猪"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾大头菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "宜宾大头菜是与四川·宜宾·翠屏区相联系的地方食材。原料或品种方面，保护要求记载为宜宾小叶大头菜。",
+      "detail": "宜宾大头菜是与四川·宜宾·翠屏区相联系的地方食材。原料或品种方面，保护要求记载为宜宾小叶大头菜。三、立地条件土层厚度不少于39cm,土壤质地疏松、含沙砾多,有机质含量不少于1.5%,pH值5.0至7.5之间,排灌条件良好。四、栽培管理1.播种育苗:采用移栽法。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表皮呈青绿色或黄褐色,切面呈浅黄色,芥香独特浓郁,口感脆嫩,无酸味、苦味等异味,肉质细腻。\n\n产地条件方面，资料写到土层厚度不少于39cm,土壤质地疏松、含沙砾多,有机质含量不少于1.5%,pH值5.0至7.5之间,排灌条件良好。四、栽培管理1.播种育苗:采用移栽法。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:11月下旬至1月下旬。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "翠屏区",
+      "id": "sw-66f8fd2dad181dc438",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "江安黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "江安黑山羊是与四川·宜宾·江安县相联系的地方食材。原料或品种方面，保护要求记载为选择川南黑山羊。",
+      "detail": "江安黑山羊是与四川·宜宾·江安县相联系的地方食材。原料或品种方面，保护要求记载为选择川南黑山羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体羊:全身被毛呈黑色,毛细匀短浅,有光泽,体型中等大,体质结实,各部位结构匀称、紧凑。羊肉:切面呈大理石样花纹,细嫩,有光泽,膻味轻;肉汤味鲜香微白;烤羊外焦里嫩,油而不腻,几乎无膻腥味。\n\n与原料形成有关的生产记录还包括养殖方式:舍饲与放牧相结合,放牧为主。饲料要求:放牧饲养期间采食天然饲草,归牧后夜间补充精饲料,舍饲期间在饲喂当地产青绿饲料、干草的基础上补饲精饲料。圈舍要求:圈舍以漏缝地板吊脚楼式羊舍为主,保持地势干燥、排水通畅、通风透气。出栏:两月龄以上,体重10kg—30kg。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "江安县",
+      "id": "sw-4f04d5e394ff48c645",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "观音豆干",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "观音豆干是与四川·达州·大竹县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为要求1.原料:选用低油高蛋白优良品种的冬季大豆,收获期为一年内的新鲜大豆,符合国家相关标准要求,蛋白质含量不少于40%。",
+      "detail": "观音豆干是与四川·达州·大竹县相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为要求1.原料:选用低油高蛋白优良品种的冬季大豆,收获期为一年内的新鲜大豆,符合国家相关标准要求,蛋白质含量不少于40%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：描述中可辨认的品质要点包括均匀、细腻。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(2)磨浆:按原料和水1:8,反复3次磨成豆糊。\n\n产地条件方面，资料写到1.原料:选用低油高蛋白优良品种的冬季大豆,收获期为一年内的新鲜大豆,符合国家相关标准要求,蛋白质含量不少于40%。2.辅料:特制发酵水为凝固剂,食用香料进行染色卤制。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "大竹县",
+      "id": "sw-76cf7b0f9f61cc8665",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新民场生菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新民场生菜是与四川·成都相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "新民场生菜是与四川·成都相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：心叶半包,外叶舒展,叶缘全缘,株高20~25cm,外观整齐,叶色嫩绿;膳食纤维含量低,生食口感脆嫩化渣、微苦回甜、清爽解腻。\n\n产地条件方面，资料写到土壤质地为壤土,土壤类型为水稻土,pH值5.5~6.8,有机质含量不少于1.5%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是夏季定植后27d~35d可采收,春、秋季定植后40d~50d可采收,冬季定植后60d~80d可采收。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "成都相关产区",
+      "id": "sw-0e80dd444c24810e27",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "兴文猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "兴文猕猴桃是与四川·宜宾·兴文县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红肉型“红阳”猕猴桃、黄肉型“黄金果”猕猴桃。",
+      "detail": "兴文猕猴桃是与四川·宜宾·兴文县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红肉型“红阳”猕猴桃、黄肉型“黄金果”猕猴桃。三、立地条件海拔270m至1800m,土壤质地为黄壤、黄棕壤和砂壤土,土壤pH值为5.5至6.5,土层厚度不少于70cm,有机质含量不少于。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形一致,黄绿色,色泽均匀,果面洁净,果肉细嫩,黄色或黄绿色,果心淡黄色或红色呈放射状,肉质细嫩、香味浓郁、酸甜可口。\n\n产地条件方面，资料写到海拔270m至1800m,土壤质地为黄壤、黄棕壤和砂壤土,土壤pH值为5.5至6.5,土层厚度不少于70cm,有机质含量不少于2.5%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "兴文县",
+      "id": "sw-2e78ddb8f9b2d55aa7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "钟山葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "钟山葡萄是与贵州·六盘水·钟山区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为雨水红(蜜莉)、巨峰等适宜当地种植的葡萄品种。",
+      "detail": "钟山葡萄是与贵州·六盘水·钟山区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为雨水红(蜜莉)、巨峰等适宜当地种植的葡萄品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果穗整齐,呈圆锥形或圆柱形;颗粒果粉厚、大小均匀;果皮较厚,呈深红或紫红色;果肉细嫩软滑,汁多,酸甜适口,果香味浓。\n\n产地条件方面，资料写到产地范围内海拔1500m~2100m,土壤类型以砂壤土为主,土壤pH值5.5~7.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm,年总积温不少于4000°C的向阳地区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:每年8月中旬至10月上旬。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "钟山区",
+      "id": "sw-28e6fd5c8d771d79bb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "岱瓮杨梅",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "岱瓮杨梅是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为火炭杨梅及适宜当地生长的杨梅品种。",
+      "detail": "岱瓮杨梅是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为火炭杨梅及适宜当地生长的杨梅品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大汁多,肉柱圆钝饱满,果色深红或紫红,光泽度好,果肉质地细嫩,酸甜适口,风味浓郁。\n\n产地条件方面，资料写到海拔1000m~1800m,土壤肥沃疏松、排水良好,pH值5.0~7.0,坡度<30°,土层深厚不少于40cm,有机质含量不少于1.0%。土壤类型为砂质壤土、砂质红壤或黄壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是5月下旬至7月中旬,分期分批适熟采收。\n\n与原料形成有关的生产记录还包括苗木选择根系发达,植株健壮,苗龄为1年至2年生嫁接苗。定植:定植时间2月中旬至3月下旬,定植密度为5m×5m。整形修剪:春季修剪与采果后修剪相结合,保证树冠通风透光。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-a2c17bb7d2f2a6ef60",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "锦屏腌鱼",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "锦屏腌鱼是与贵州·黔东南州·锦屏县相联系的地方菜肴与加工食品。",
+      "detail": "锦屏腌鱼是与贵州·黔东南州·锦屏县相联系的地方菜肴与加工食品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鱼体完整,无内脏,体内填充腌料,体外也有少量腌料附着。表面鱼鳞呈淡黄色,肉体呈暗红色。滋味、风味具有锦屏腌鱼特有的鲜香、适酸,微甜或香辣。\n\n产地条件方面，资料写到1.土壤PH值4.8~6.8,水质无污染,水中PH值6.0-6.8。2.当秧苗移栽大田返清后,投放鱼苗,让鱼苗在稻田里自然采食,整个鱼的生长期不投喂饲料,保证鱼苗自然生长。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "锦屏县",
+      "id": "sw-313aec726e2bb44b2a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "七舍茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "七舍茶是与贵州·黔西南州·兴义市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内适宜加工制作七舍茶的当地中小叶群体种及梅占、白叶1号、黔茶1号、黔茶8号、福鼎大白茶、龙井43等优良茶树品种。",
+      "detail": "七舍茶是与贵州·黔西南州·兴义市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内适宜加工制作七舍茶的当地中小叶群体种及梅占、白叶1号、黔茶1号、黔茶8号、福鼎大白茶、龙井43等优良茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：条索紧实、匀整,显毫;色泽褐绿;香气持久;汤色清澈明亮;滋味甘怡鲜爽,口感清香;叶底黄绿匀整。\n\n产地条件方面，资料写到产地范围内海拔1500m~2100m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.0%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春茶采摘时间:每年3月中旬至5月上旬,采摘单芽、一芽一叶初展、一芽二叶初展;夏茶采摘时间:每年5月下旬至8月上旬,采摘单芽、一芽一叶初展、一芽二叶初展及一芽三叶初展。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "兴义市",
+      "id": "sw-5fc150009929057cae",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "九层山茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "九层山茶是与贵州·六盘水·六枝特区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内群体种及适宜加工为九层山茶的茶树品种。",
+      "detail": "九层山茶是与贵州·六盘水·六枝特区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内群体种及适宜加工为九层山茶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：扁形茶:外形扁平翠绿、匀整;汤色嫩绿明亮;滋味鲜爽,嫩香持久;叶底绿润明亮。卷曲形茶:外形条索紧实、匀整;色泽绿润;汤色黄绿明亮;香高持久,滋味醇厚。\n\n产地条件方面，资料写到产地范围内海拔1000m~1500m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘单芽、一芽一叶初展、一芽二叶初展。每年2月下旬至5月上旬,8月下旬至10月上旬。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-3e9da507a6ec04a653",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "晴隆绿茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "晴隆绿茶是与贵州·黔西南州·晴隆县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为福鼎大白、龙井43及当地传统茶树品种。",
+      "detail": "晴隆绿茶是与贵州·黔西南州·晴隆县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为福鼎大白、龙井43及当地传统茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：卷曲形茶外形紧细卷曲;色泽匀整润绿;香气浓郁、持久;汤色黄绿明亮;滋味醇厚、鲜浓。扁平茶外形扁平光滑,显毫、匀整;色泽润绿;香气纯正;汤色黄亮透明;滋味鲜醇、味甘、浓厚。\n\n产地条件方面，资料写到产地范围内海拔1100m~1700m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.5%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘单芽、一芽一叶初展、一芽二叶初展。每年2月上旬至4月下旬,7月上旬至9月下旬。",
+      "sources": [
+        "sw-gi-0248d8859368599b"
+      ],
+      "locality": "晴隆县",
+      "id": "sw-decb6c3c5978d1e2e7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "清池茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "清池茶是与贵州·毕节·金沙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内适宜加工制作清池茶的当地群体种。",
+      "detail": "清池茶是与贵州·毕节·金沙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为保护范围内适宜加工制作清池茶的当地群体种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：扁形茶:外形扁、平、直、光滑匀整;色泽翠绿油润;香气高爽持久;汤色黄绿、明亮;滋味鲜爽;叶底嫩绿、鲜明、匀齐完整。卷曲形茶:外形紧结、绿润、显毫卷曲;汤色黄绿明亮;香气纯正;滋味醇和;叶底黄绿。颗粒形茶:外形颗粒匀整重实、绿润、露毫;香气馥郁高长;汤色碧绿明亮;滋味鲜醇、爽口;叶底嫩匀、明亮、鲜活。\n\n产地条件方面，资料写到产地范围内海拔800m至1500m,土壤类型为黄壤或黄棕壤,土壤pH值4.5至6.5,土壤有机质含量不少于1.0%,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春茶采摘时间:每年3月中旬至5月中旬,采摘单芽、一芽一叶初展、一芽二叶初展;秋茶采摘时间:每年9月上旬至10月中旬,采摘一芽一叶初展、一芽二叶初展。",
+      "sources": [
+        "sw-gi-2fa1b4b1fde13522"
+      ],
+      "locality": "金沙县",
+      "id": "sw-474ba0817c403835e2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "威宁苹果是与贵州·毕节相联系的地方果蔬或干果。原料或品种方面，保护要求记载为富士系列、黔选系列。",
+      "detail": "威宁苹果是与贵州·毕节相联系的地方果蔬或干果。原料或品种方面，保护要求记载为富士系列、黔选系列。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：黔选系:果实近圆形,果面深红,果肩部位密布暗红色条纹,果点稀疏,果肉黄白色,肉质松脆,汁液丰富,香味浓郁,甜酸适口。富士系:果实近圆形,色泽鲜艳,果肩部位有暗红条纹,果点稀,果肉黄白色,肉质细脆,汁液多,有果香,酸甜适口。\n\n产地条件方面，资料写到产地范围内海拔1600m至2300m,土壤质地以黄棕壤土为主,土壤有机质不少于1%,土壤pH值为5.0至7.0,土层厚度不少于150cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月中旬至11月下旬。",
+      "sources": [
+        "sw-gi-2fa1b4b1fde13522"
+      ],
+      "locality": "毕节相关产区",
+      "id": "sw-504fb1244a50c69cfe",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "锦屏茶油",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "锦屏茶油是与贵州·黔东南州·锦屏县相联系的地方食材或食品原料。",
+      "detail": "锦屏茶油是与贵州·黔东南州·锦屏县相联系的地方食材或食品原料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：清亮透明、久置无层。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料→剥壳→烘干→压榨→过滤→精炼→灌装→成品茶油。\n\n产地条件方面，资料写到选择海拔300m至1000m之间,结构疏松、肥力较好的弱酸性黄壤或红壤,pH值4.5~6.5之间,光照充足的阳坡或半阳坡。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是锦屏油茶一般10月成熟,寒露籽于10月上中旬寒露节采收,霜降籽于10月下旬霜降节前后进行收摘。\n\n与原料形成有关的生产记录还包括育苗:传统上多采用实生繁殖育苗,也可将芽苗砧嫁接育苗。整地:在造林前3-4个月的秋冬季节进行,有利于土壤熟化。定植:每亩栽植90~110株左右,以春季2月上旬至3月上旬,将苗木放入栽植穴,舒展根系,主干直立,加土分层压实。",
+      "sources": [
+        "sw-gi-2fa1b4b1fde13522"
+      ],
+      "locality": "锦屏县",
+      "id": "sw-c20df696820e3a9644",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "遵义红茶(遵义红)",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "遵义红茶(遵义红)是与贵州·遵义·正安县、凤冈县、湄潭县、余庆县、习水县相联系的地方茶或代用茶。",
+      "detail": "遵义红茶(遵义红)是与贵州·遵义·正安县、凤冈县、湄潭县、余庆县、习水县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜加工制作遵义红茶(遵义红)的中、小叶茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：汤色红亮透明;香气馥郁,甜香高,持久;滋味鲜爽醇厚。\n\n产地条件方面，资料写到海拔700m~1600m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是2月下旬至5月上旬,6月中旬至9月上旬,采摘单芽至一芽二叶的嫩梢。\n\n与原料形成有关的生产记录还包括育苗:采用短穗扦插繁育技术。定植:栽植密度不超过55000株/公顷。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "正安县、凤冈县、湄潭县、余庆县、习水县",
+      "id": "sw-9848bf2f42e5c6ba2b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "湄潭翠芽",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "湄潭翠芽是与贵州·遵义·正安县、凤冈县、湄潭县、余庆县相联系的地方茶或代用茶。",
+      "detail": "湄潭翠芽是与贵州·遵义·正安县、凤冈县、湄潭县、余庆县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜加工湄潭翠芽的中小叶茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形扁平、匀整,色泽黄绿;汤色黄绿明亮;香气栗香持久;滋味鲜醇;叶底黄绿明亮。\n\n产地条件方面，资料写到产地范围内海拔700m~1600m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年2月下旬至4月下旬采摘单芽至一芽一叶的嫩梢。\n\n与原料形成有关的生产记录还包括育苗:采用短穗扦插繁育技术。定植:栽植密度不超过55000株/公顷。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "正安县、凤冈县、湄潭县、余庆县",
+      "id": "sw-aaeb4ed6230cf0b0a0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "桐梓蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "桐梓蜂蜜是与贵州·遵义·桐梓县相联系的地方食材。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "桐梓蜂蜜是与贵州·遵义·桐梓县相联系的地方食材。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈琥珀色至深琥珀色,质地黏稠,气清香,味甜润,无齁感。\n\n采收或收获环节的记录是要求蜜蜂采完花蜜,经蜜蜂自然酿全封盖成熟后进行摇蜜。四、蜂蜜加工原蜂蜜→过滤→灭菌→包装。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "桐梓县",
+      "id": "sw-002d02462dda1f6205",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "花秋土鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "花秋土鸡是与贵州·遵义·桐梓县相联系的地方食材。原料或品种方面，保护要求记载为当地土种鸡。",
+      "detail": "花秋土鸡是与贵州·遵义·桐梓县相联系的地方食材。原料或品种方面，保护要求记载为当地土种鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸡:体型小,头昂尾翘体貌特征突出。全身羽色以黑羽、红羽为主。(2)白条鸡:皮肤白色至浅黄,光滑滋润,肌肉丰满有弹性,背部和尾部脂肪分布均匀,肉质细腻鲜香。\n\n与原料形成有关的生产记录还包括饲养方式:放养和舍饲相结合。冬季45日龄、夏季30日龄前舍饲饲养,之后至出栏放养。饲养密度:放养密度为800只/公顷-1500只/公顷,舍饲期间饲养密度5-8只/2m。饲料:育雏期饲喂全价配合饲料,放养期间自由采食天然饲草、昆虫等,补饲当地产玉米、大豆、稻谷等谷物精料。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "桐梓县",
+      "id": "sw-4ee5239ae75560259e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "习水红茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "习水红茶是与贵州·遵义·习水县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜加工为红茶的当地群体种。",
+      "detail": "习水红茶是与贵州·遵义·习水县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为适宜加工为红茶的当地群体种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形细紧、微卷、有锋苗,色泽乌黑油润;汤色红亮;香气浓郁,带花果香或花蜜香;滋味醇厚回甘耐泡;叶底红匀、明亮、完整。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→萎凋→揉捻→发酵→干燥。\n\n产地条件方面，资料写到产地范围内海拔900m~1800m,土壤类型为黄壤或黄棕壤,土壤pH值4.5~6.5,土壤有机质含量不少于1.0%,土层厚度不少于50cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年2月上旬至5月上旬,6月上旬至7月上旬采摘单芽至一芽二叶初展的嫩梢。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1",
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "习水县",
+      "id": "sw-3a9388ee0679b50b4a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "习水红茶"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "习水麻羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "习水麻羊是与贵州·遵义·习水县相联系的地方食材。原料或品种方面，保护要求记载为黔北麻羊。",
+      "detail": "习水麻羊是与贵州·遵义·习水县相联系的地方食材。原料或品种方面，保护要求记载为黔北麻羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体羊:被毛褐麻色或灰麻色,毛短。体质结实,四肢粗壮,肌肉丰满。肤色为白色或粉红色。(2)羊肉:肉色鲜红,肌肉细而紧密,有弹性,肉质鲜嫩、膻味轻。\n\n与原料形成有关的生产记录还包括要求1.养殖方式:舍饲与放牧相结合。饲料要求:放牧饲养期间采食草地饲草,归牧后补饲精饲料,舍饲期间在饲喂当地产青绿饲料、干草的基础上补饲精饲料。圈舍要求:圈舍以漏缝地板圈楼式羊舍为主,少数坑圈饲养。饲养密度1~2m/只。出栏:12月龄至18月龄,体重25~35kg。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "习水县",
+      "id": "sw-b450de61d3e3e845c0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "核桃箐核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "核桃箐核桃是与贵州·遵义·播州区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜产地范围内栽培的大泡核桃、香玲核桃等优良品种。",
+      "detail": "核桃箐核桃是与贵州·遵义·播州区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜产地范围内栽培的大泡核桃、香玲核桃等优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果外壳呈近圆形或椭圆形,缝合线紧密,窄而凸起,黄白色或浅琥珀色;果仁饱满,浅白色或浅黄色,口感香纯,易取整仁。\n\n产地条件方面，资料写到产地范围内海拔800m至1600m,土壤类型为山地黄棕壤、黄壤紫色土、石灰土,有机质含量不少于1.0%,pH值5.5至7.5,土层厚度不少于40cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是青果由绿色变成黄绿色,2/3以上的果实青皮自然开裂或脱落后开始采收。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "播州区",
+      "id": "sw-1132961892b3c27200",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "普定高脚鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "普定高脚鸡是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为高脚鸡。",
+      "detail": "普定高脚鸡是与贵州·安顺·普定县相联系的地方食材。原料或品种方面，保护要求记载为高脚鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：活体鸡:公鸡主羽红色,母鸡以深鹧鸪色为主。喙、胫黑色,腿粗胫长,有胫羽。白条鸡:皮肤白色或淡黄色,肌肉色泽红亮、富弹性,熟肉有嚼劲,口感鲜香。\n\n与原料形成有关的生产记录还包括饲养方式:雏鸡舍饲饲养,其它阶段在牧草生长季节放养饲养,枯草季节放养与补饲结合饲养。饲料:育雏期饲喂全价配合饲料,其它阶段以天然牧草为主,补饲少量当地产谷物(玉米、大豆、稻谷等)。出栏:200至300日龄,公鸡体重2.0至2.5kg,母鸡体重1.5至2.0kg。",
+      "sources": [
+        "sw-gi-4b1ddf14c8c955b1"
+      ],
+      "locality": "普定县",
+      "id": "sw-1a9a76016df436f1b3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "米易枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "米易枇杷是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号。",
+      "detail": "米易枇杷是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为大五星、早钟六号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈圆形或卵圆形,果皮表面及果肉呈金黄色或橙红色,果实肉质细腻、甜味浓厚、汁多鲜美。2.质量等级:一级:单果重在40g以上,果形端正丰满、大小均匀,着色良好、鲜艳,无锈斑、无病虫害、无损伤,且具有该品种最佳肉色。\n\n产地条件方面，资料写到土壤类型为砂壤土或砾质壤土。有机质含量不少于1.0%,pH值6.0~7.0,在保护区内海拔1200~1700m,年均降雨量1000毫米以上,光照时数2000小时以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是早钟六号在12月上旬至3月上旬左右、大五星在1月下旬至4月下旬左右采用二次剪果法分批采收。采收时间宜在上午或阴天为好,避免在雨天或高温烈日下采收。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "米易县",
+      "id": "sw-26eb747ced014e6822",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "米易枇杷"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂羊肚菌",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂羊肚菌是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为“川羊肚菌”系列。",
+      "detail": "金堂羊肚菌是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为“川羊肚菌”系列。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表1感官特色鲜品干品形态完整,大小均匀。形态完整,大小均匀。感官特色菌盖长、菌肉厚,顶稍尖;菌菌盖长、菌香浓,顶稍尖;菌盖淡黄褐色,表面凹坑纵向排列,由盖褐色,表面凹坑纵向排列,由横横脉相连。脉相连。菌柄粗短、中空,近白色。菌柄粗短、中空,黄白色。\n\n产地条件方面，资料写到海拔400m~800m,地势平坦,土壤pH值宜为6.5~7.5,土层深厚,排水良好,疏松、肥沃的田地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当子实体出土7~10天,在子囊果的蜂窝状凹陷部分基本展开,顶部开始变黄时及时采收。采摘时用刀具从菌柄基部与土壤的交接处整齐切断。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "金堂县",
+      "id": "sw-0822966934b0ce46a0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "平昌青花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "平昌青花椒是与四川·巴中·平昌县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为本地竹叶花椒。",
+      "detail": "平昌青花椒是与四川·巴中·平昌县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为本地竹叶花椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲜花椒果实颗粒圆大,无叶、无粗梗,呈鲜绿或黄绿色,表面油胞大而密,气味芳香,浓郁而持久。干花椒呈绿褐色,气味清香,麻味纯正。一级:颜色青绿、均匀、有光泽;含籽率不超过7%,杂质不超过1%,粒大、均匀、油腺密而突出。二级:颜色青绿、均匀、有光泽;含籽率不超过12%,杂质不超过2%,粒较大、均匀、油腺突出。\n\n产地条件方面，资料写到海拔300m~1000m米的坡耕地,土壤为紫色土或沙壤土,土壤pH6.0~7.5;年均降雨量900mm~1300mm,年均日照时数1200h~1400h。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是时间:商品果采摘时间为每年的6月下旬至7月中旬,当果实鲜绿或黄绿色,果皮油囊凸起呈半透明状时选择晴朗天气进行连果带枝采摘。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "平昌县",
+      "id": "sw-28c1ea924819502e46",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "博尚菜籽油",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "博尚菜籽油是与云南·临沧·临翔区相联系的地方食材。原料或品种方面，保护要求记载为“云油杂10号”、“云油杂12号”、“云油杂15号”等品种。",
+      "detail": "博尚菜籽油是与云南·临沧·临翔区相联系的地方食材。原料或品种方面，保护要求记载为“云油杂10号”、“云油杂12号”、“云油杂15号”等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：油质清新、色泽浅黄明亮,气味清香,香味独特,澄净透明。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料(油菜籽)→清理(去杂)→软化→轧胚→蒸炒→压榨→过滤→博尚菜籽原油→水化脱胶→脱色→脱酸→真空脱臭→成品博尚菜籽油。\n\n产地条件方面，资料写到土壤类型为红壤,土壤耕作层20cm—25cm,土壤有机质含量不少于1.0%,土壤pH值5.0—6.99。种植区域内土壤、大气、水质优良。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年4月至5月,角果八成黄达到本品种成熟特征时收获,打堆后熟,防止混杂,提高净度和品级。油菜籽质量指标:项目指标含油量(标准水计)/(%)不少于。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "临翔区",
+      "id": "sw-4378532730d7516ec1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "路南卤腐(路南腐乳)",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "路南卤腐(路南腐乳)是与云南·昆明·石林彝族自治县相联系的地方调味品。",
+      "detail": "路南卤腐(路南腐乳)是与云南·昆明·石林彝族自治县相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)油腐乳:块状完整、厚薄均匀、质地细腻、油香适口,具有油腐乳独特的芳香味。表面油润呈鲜艳红色,断面呈杏黄色或酱褐色。(2)酒腐乳:块状完整、厚薄均匀、质地细腻、醇香可口、咸淡适口,具有酒腐乳独特的滋味与气味。表面呈鲜红色,断面呈杏黄色或青黄色。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选豆→浸泡→磨浆→滤浆→煮浆→点浆→蹲脑→压榨成坯→切块→浸酒裹料→前期发酵(自然接种、菌丝生长培养、腌制)→后期发酵(灌料、贮藏)→成品。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "石林彝族自治县",
+      "id": "sw-c0864b3259e50e93e9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "庙坝白酒",
+      "type": "alcohol",
+      "kind": "地方酒",
+      "description": "庙坝白酒是与云南·昭通·盐津县相联系的地方酒。原料或品种方面，保护要求记载为1.玉米:选用产地范围内淀粉含量大于或等于65%的优质玉米,其品质应符合国家相关标准规定。",
+      "detail": "庙坝白酒是与云南·昭通·盐津县相联系的地方酒。原料或品种方面，保护要求记载为1.玉米:选用产地范围内淀粉含量大于或等于65%的优质玉米,其品质应符合国家相关标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：要求项目高度酒低度酒色泽和外观清澈透明或微黄透明、无悬浮物、无沉淀。清香纯正,具有玉米香和香气清香突出、较纯正。曲香复合体的淡雅香气。酒体清香纯正、净爽甘酒体清香纯正、较净爽甘口味洌、回味怡畅。洌、回味怡畅。具有玉米小曲清香型白酒具有玉米小曲清香型白酒风格风格。风格。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "盐津县",
+      "id": "sw-db23a785bd153867dd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "汤池老酱",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "汤池老酱是与云南·昆明相联系的地方调味品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "汤池老酱是与云南·昆明相联系的地方调味品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：应符合表1的规定。表1感官特色项目要求色泽褐红至黯红色,有光泽。香气具有该产品独有的酱香味。滋味香辣适口、回甘,无异味。组织形态具有该产品特有的形态,粘稠适度,呈膏状。杂质无肉眼可见外来杂质。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括精选原料→和面→蒸煮→一次窝堆发酵→研磨→腌制→二次窝堆发酵→成品。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "昆明相关产区",
+      "id": "sw-3498d80537b8a64a3f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "河口香蕉",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "河口香蕉是与云南·红河州·河口瑶族自治县相联系的地方食材。原料或品种方面，保护要求记载为巴西蕉(Brazilianbanana)、威廉斯8818(Williams(Vll)Dcccxvlll)、威廉斯B6(WilliamsB6)、桂蕉6号、红研一号、红研二号、河口龙牙蕉等。",
+      "detail": "河口香蕉是与云南·红河州·河口瑶族自治县相联系的地方食材。原料或品种方面，保护要求记载为巴西蕉(Brazilianbanana)、威廉斯8818(Williams(Vll)Dcccxvlll)、威廉斯B6(WilliamsB6)、桂蕉6号、红研一号、红研二号、河口龙牙蕉等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：植株高大,梳形整齐、果指数较多、果形较短而弯曲,果实新鲜、饱满;肉质细腻、滑口、甜度适中、带有清香;皮色青绿黄绿,有光泽,清洁。\n\n产地条件方面，资料写到产地范围内海拔200-800m区域,地下水位低。土壤类型为砖红壤、赤红壤,土层深厚,土壤有机质含量3%~5%,pH值4.5至6.7。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-86aeec967b3d9a09"
+      ],
+      "locality": "河口瑶族自治县",
+      "id": "sw-3b082bdbf86d39f2b3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "甘孜水淘糌粑",
+      "type": "staples",
+      "kind": "地方米面与糖点",
+      "description": "甘孜水淘糌粑是与四川·甘孜州·甘孜县相联系的地方米面与糖点。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "甘孜水淘糌粑是与四川·甘孜州·甘孜县相联系的地方米面与糖点。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)色泽:呈浅黄色、浅棕色或乳白色,色泽均匀一致。(2)滋味、气味:拥有甘甜、浓郁的炒面滋味和香味,且有独特的清醇发酵香气。(3)状态:均匀粉末状,无结块,无霉变,无异物。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "甘孜县",
+      "id": "sw-b94a012e6166f141c6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "鹿鸣贡茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "鹿鸣贡茶是与四川·宜宾·珙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为茶叶品种:福鼎大白茶、福选9号、名选131、乌牛早。",
+      "detail": "鹿鸣贡茶是与四川·宜宾·珙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为茶叶品种:福鼎大白茶、福选9号、名选131、乌牛早。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)鹿鸣贡茶干品感官要求,应符合表1的规定。表1鹿鸣贡茶干品感官要求项目要求色泽翠绿油润,稍有光泽。组织形态全芽翠绿匀齐完整。滋味香气清雅悠长。杂质无肉眼可见杂质。(2)鹿鸣贡茶湿茶感官要求,应符合表2的规定。表2鹿鸣贡茶湿茶感官要求项目要求色泽色泽翠绿油润。组织形态全芽匀齐完整,叶底嫩绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊晾→杀青→摊凉→烘二青→摊凉回潮→做形→摊凉回潮→二次做形→摊凉→打磨提香→摊凉→毛火→摊凉→足火→摊凉→成品→包装。\n\n产地条件方面，资料写到地形条件:保护范围茶园海拔800至1200m。土壤条件:土壤呈弱酸性或微酸性,pH值4.5至6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是要求。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "珙县",
+      "id": "sw-5ea1f41d1920b90c87",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "羊田粉条",
+      "type": "staples",
+      "kind": "地方面食与米制点心",
+      "description": "羊田粉条是与四川·宜宾·高县相联系的地方面食与米制点心。原料或品种方面，保护要求记载为要求1.红薯淀粉:采用保护区内种植的品种为徐薯18、南薯88生产的红薯淀粉,淀粉含量为大于等于15%。",
+      "detail": "羊田粉条是与四川·宜宾·高县相联系的地方面食与米制点心。原料或品种方面，保护要求记载为要求1.红薯淀粉:采用保护区内种植的品种为徐薯18、南薯88生产的红薯淀粉,淀粉含量为大于等于15%。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)干粉条:形态:条直均匀,粗细适度,无并丝,弹性良好,圆粉丝径为1.50至2.00mm,宽粉丝径为宽6.0至8.0mm、厚0.80至2.0mm。色泽:色泽均匀,呈半透明的浅灰色。气味:具有产品固有香味。(2)煮后:不易断条、不糊汤、不粘连,口感爽滑、富有弹性,具有产品固有香味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括精选红薯→清洗→粉碎→过滤→沉淀→淀粉脱水→红薯淀粉红薯淀粉→打糊(打芡)搅拌→漏粉煮熟→冷却定型→干燥→成品→包装。\n\n产地条件方面，资料写到1.红薯淀粉:采用保护区内种植的品种为徐薯18、南薯88生产的红薯淀粉,淀粉含量为大于等于15%。2.生产用水:采用保护区内优质的地下水,水质应符合国家饮用水相关标准要求。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "高县",
+      "id": "sw-f8014a8363f5b513e2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "望谟板栗",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "望谟板栗是与贵州·黔西南州·望谟县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为本地野生板栗及嫁接的红光油栗。",
+      "detail": "望谟板栗是与贵州·黔西南州·望谟县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为本地野生板栗及嫁接的红光油栗。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：坚果呈深褐色或红褐色,果实成熟饱满,肉质香糯、微甜。本地野生板栗单粒重4至9克,嫁接新品种单粒重7至16克。\n\n产地条件方面，资料写到产地应选海拔400米至1300米的丘陵山地,土质为沙质红壤土、黄壤土和石灰土为主,pH值在4.5至8之间,土层厚度不少于50cm,土壤有机质含量不少于1%,速效钾含量不少于60mg/kg。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括种苗繁育:利用产地范围内种子培育苗或以高产的板栗为砧木的嫁接苗。修剪:采用短截、疏枝等方法修剪,培育开心形和主干疏层形的树冠,保证通风透光。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "望谟县",
+      "id": "sw-da845b5d64f16f0607",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "荔波蜜柚",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "荔波蜜柚是与贵州·黔南州·荔波县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜当地种植地方品种。",
+      "detail": "荔波蜜柚是与贵州·黔南州·荔波县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜当地种植地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形呈倒卵圆形,果肩圆尖,果皮淡黄色,皮薄,易剥,囊瓣大,果肉颜色有白、黄、红,果肉饱满、柔嫩多汁、化渣、酸甜适度、香气浓郁。2.产品品质特色:单果重1000g至2500g,可食率不少于65%,可溶性固形物含量不少于10%。\n\n产地条件方面，资料写到产地范围内海拔350m至800m,年均温18°C以上,不少于10°C年积温5400°C以上,土壤质地以壤土、砂土壤为主,疏松肥沃,土壤有机质不少于1.5%,土壤pH值为5.0至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬果皮转色面积不少于3/4后分期采收,贮藏果比鲜销果早7d至10d采收。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "荔波县",
+      "id": "sw-9fd74674a6580bfd5d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "郎岱猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "郎岱猕猴桃是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、东红。",
+      "detail": "郎岱猕猴桃是与贵州·六盘水·六枝特区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、东红。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：红阳:呈圆柱形,果脐下凹,果皮绿褐色,果面无茸毛,果皮薄,果肉黄绿色,软化后淡黄色,果心横截面呈放射状红色条纹。肉质细嫩,味甜多汁,香气浓。东红:呈圆柱形,果脐一条直线,果皮绿褐色,果面无茸毛,果皮薄,果肉淡黄色,横截面果心小,有放射状红色条纹。肉质细嫩,味甜多汁,香气浓。\n\n产地条件方面，资料写到产地范围内海拔不超过1500m,土壤质地为砂质壤土,土壤厚度不少于50cm,有机质含不少于1.0%,pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月下旬至10月上旬,果实可溶性固形物含量在6%至7%时采收。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-d15c4e698a95879ee8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "六枝魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "六枝魔芋是与贵州·六盘水·六枝特区相联系的地方食材。原料或品种方面，保护要求记载为花魔芋。",
+      "detail": "六枝魔芋是与贵州·六盘水·六枝特区相联系的地方食材。原料或品种方面，保护要求记载为花魔芋。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲜芋:呈近球形,顶端稍凹陷,叶柄深红色,表皮呈深褐色,皮薄,肉质呈乳白色,微泛红,质地脆嫩细腻,切开后有粘液,有轻微魔芋固有的鱼腥气味。干粉:颗粒均匀,呈白色或微黄色,有魔芋固有鱼腥味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜魔芋→凹坑清理→清洗去皮→切片(块)→干燥研磨(打粉)→包装。\n\n产地条件方面，资料写到海拔900m至1600m,土壤为黄壤类、山地黄棕壤类、红砂土类土壤类。土层厚度不少于30cm,有机质含量不少于1.0%,pH值5.5至7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是植株枯黄倒苗够15d后,土壤干燥时收挖。",
+      "sources": [
+        "sw-gi-25a7112b8491d64a"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-61093d9cc40b7c1afb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "回龙藠头",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "回龙藠头是与贵州·黔西南州·兴仁市相联系的地方食材。原料或品种方面，保护要求记载为大叶藠。",
+      "detail": "回龙藠头是与贵州·黔西南州·兴仁市相联系的地方食材。原料或品种方面，保护要求记载为大叶藠。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鳞茎呈圆头形,肉质肥厚稚嫩,剥皮后洁白晶莹,鳞片包裹紧密,鳞片上具有多条平行筋脉;甜酸味:甜、酸味适中,无异味;汤汁清亮、无杂质;香辣味:油质清澈透明,具有固有的香辣气味和滋味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括.加工工艺:(1)藠头(甜酸味):鲜藠头→清洗→腌制发酵→修剪切片→去皮→脱盐清洗→加辅料二次发酵→杀菌→包装。\n\n产地条件方面，资料写到在保护区范围内海拔700至1300m的壤土、砂壤土,土层厚度不少于15cm,pH值5.0至7.0,有机质含量不少于1.0%,坡度不超过25°。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月上旬至9月中旬,采收藠头先拆蔸刈删枯叶和修剪适量残根,按无须不伤肉,柄长2至3cm,无青头烂个,无机械损伤。(四)加工。",
+      "sources": [
+        "sw-gi-c646d2d97a419308"
+      ],
+      "locality": "兴仁市",
+      "id": "sw-f9b8f1e02cd1a2691d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "阿藏李子",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "阿藏李子是与贵州·黔西南州·兴仁市相联系的地方食材或食品原料。",
+      "detail": "阿藏李子是与贵州·黔西南州·兴仁市相联系的地方食材或食品原料。原料或品种方面，保护要求记载为当地原产冰脆李品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈卵圆形,大小适中,果尖突出,缝合线较明显;成熟时色泽青黄或金黄,内腹空心,空腔内有结晶状的油脂,核肉分离;皮薄肉脆,果香味浓、多汁、酥脆甘甜。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括(1)原味:选料→浸泡→磨浆分离→煮浆→点浆(酸水)→做型→压榨→加食用碱→晾干→成品。\n\n产地条件方面，资料写到在保护区范围内海拔700至1200m的壤土、砂壤土,土层厚度不少于30cm,pH值5.0至7.0,有机质含量不少于1.0%,坡度不超过25°。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月上旬至7月下旬,果面着色不少于1/3时分批采收。",
+      "sources": [
+        "sw-gi-c646d2d97a419308"
+      ],
+      "locality": "兴仁市",
+      "id": "sw-0c696e22a3e365a88b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城红香蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "水城红香蒜是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的红皮蒜品种。",
+      "detail": "水城红香蒜是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的红皮蒜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蒜头外皮呈淡红色至紫红色,蒜肉呈乳白色,辛香味浓郁,肉质细腻、脆嫩,蒜瓣6~9瓣,坚实饱满。\n\n产地条件方面，资料写到产地范围内海拔1100~2000m,土壤类型为黄壤、黄棕壤或棕壤,耕层厚度不少于20cm,有机质含量不少于1%,土壤pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是4月下旬-5月下旬采收。收蒜苔后15-20天,叶片干枯、假茎处于柔软状态即可收蒜头。\n\n与原料形成有关的生产记录还包括株行距16~17×20cm,穴深为3~4cm,每公顷种植株数不超过55万株。生长期保持土壤湿润,注意排水,及时拔除田间杂草。",
+      "sources": [
+        "sw-gi-8d6bc786bf83639f"
+      ],
+      "locality": "水城区",
+      "id": "sw-0fc6ac527780eeb27f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "德源大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "德源大蒜是与四川·成都·郫都区相联系的地方食材。原料或品种方面，保护要求记载为红七星。",
+      "detail": "德源大蒜是与四川·成都·郫都区相联系的地方食材。原料或品种方面，保护要求记载为红七星。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：以独头蒜为主、大瓣蒜为辅,蒜味浓郁。独头蒜紫皮圆润,直径2—3.5cm。大瓣蒜蒜头外形规整,外包灰白色或淡棕色干膜质鳞被,实心、扁平、线状披针形,宽约2.5cm左右,基部呈鞘状。\n\n产地条件方面，资料写到海拔520—600m,土壤为冲积灰色水稻土,质地属中壤和重壤土,底层为黄泥层或黄泥夹沙层,耕层厚度不少于20cm,有机质含量不少于2.5%,土壤pH值6.2—6.7。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是蒜薹采收后约20天左右开始收获大蒜,将30—40株大蒜为一单位捆在一起,运至晾晒棚,挂在楠竹上晾贮、后熟。",
+      "sources": [
+        "sw-gi-4ae503e94cce3eb1"
+      ],
+      "locality": "郫都区",
+      "id": "sw-43b7811bd51ed4068d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "赫章红花山茶油",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "赫章红花山茶油是与贵州·毕节·赫章县相联系的地方食材或食品原料。",
+      "detail": "赫章红花山茶油是与贵州·毕节·赫章县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为西南红山茶(C.pitardiiCoh.St.)和怒江山茶(C.saluenensisStapf)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：油色亮黄,纯净透明;气味清香;口感纯正,无涩味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料筛选→清理→剥壳→粉碎→轧胚→蒸炒→压榨→精炼→过滤→检验→成品→入库。\n\n产地条件方面，资料写到海拔1200~2800m,土壤类型为红壤、黄壤,土层厚度不少于50cm,有机质含量不少于3%,土壤pH值4.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与处理1.采收时间。9月中下旬-10月上旬,单株5%果实开裂时开始采果。2.采后处理。果实进行后熟处理,堆沤5—7天,堆放高度不超过100cm。",
+      "sources": [
+        "sw-gi-78cc31aa767dc222"
+      ],
+      "locality": "赫章县",
+      "id": "sw-a5229b9e251fc70f1f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关草果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "马关草果是与云南·文山州·马关县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内自然生长的姜科豆蔻属草果品种。",
+      "detail": "马关草果是与云南·文山州·马关县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内自然生长的姜科豆蔻属草果品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：干果呈纺锤形,果皮棕褐色,果皮坚韧,有明显的竖形皱纹,基部有果柄,内含有多粒多面形种子,种子集结成团,气芳香,味辛、辣。\n\n产地条件方面，资料写到海拔1200~1800m,土壤类型为沙质红壤或黄壤,有机质含量不少于7%,土壤pH值4.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与加工。每年10月份,采收由鲜红转为紫红色、种仁表面棕褐色、嚼之有浓烈的辛辣味的成熟果实。采收后可自然晾晒或烘烤,烘烤温度保持50~60°C。(四)特色质量。",
+      "sources": [
+        "sw-gi-47fbe21eb90bdc71",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "马关县",
+      "id": "sw-a12ec3891e82637f31",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "马关草果"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "老厂竹根水",
+      "type": "drinks",
+      "kind": "地方饮品",
+      "description": "老厂竹根水是与贵州·六盘水·盘州市相联系的地方饮品。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "老厂竹根水是与贵州·六盘水·盘州市相联系的地方饮品。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：透亮,无色,煮沸后无异味,入口清爽甘甜。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括水源地→储水罐→粗滤→精滤→杀菌→超滤→纯水→灌装→封盖→灯检→包装→入库→化验合格→出厂。",
+      "sources": [
+        "sw-gi-37f8b24dfbe3e85c"
+      ],
+      "locality": "盘州市",
+      "id": "sw-ca255155843288d0b9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "普洱咖啡",
+      "type": "drinks",
+      "kind": "地方咖啡",
+      "description": "普洱咖啡是与云南·普洱相联系的地方咖啡。辨识成品时，可以留意其外观、香气与质地。",
+      "detail": "普洱咖啡是与云南·普洱相联系的地方咖啡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：生咖啡颗粒均匀饱满有光泽,呈圆形或椭圆形。自然光下颜色呈浅蓝色或浅绿色。清新无异味。杯品香气浓郁而不烈,口感醇厚,带有果酸风味特性。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜果分级→鲜果脱皮→脱胶→清洗分级→干燥→脱壳→分级包装→入库。\n\n产地条件方面，资料写到海拔不少于800m,坡度不超过25°的缓坡丘陵,土壤类型为砖红壤、燥红壤、砂壤和黄壤,土层厚度不少于80cm,地下水位不超过1m,有机质含量不少于1%,土壤pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是随熟随采,从里向外采摘,只采红色或黄色成熟果,分批、分级采摘、分级盛装、分别加工。咖啡鲜果分三级,各级界定标准为:(1)一级果,正常成熟的无疤痕成熟果。",
+      "sources": [
+        "sw-gi-37f8b24dfbe3e85c",
+        "sw-source-7ad72628b506186b"
+      ],
+      "locality": "普洱相关产区",
+      "id": "sw-d1665e12fd7feb92d3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "普洱咖啡"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "比德大米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "比德大米是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为五里香。",
+      "detail": "比德大米是与贵州·六盘水·水城区相联系的地方食材。原料或品种方面，保护要求记载为五里香。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒短,颗粒饱满圆润,横断面近于圆形,颜色蜡白,透明或半透明,稻香味浓,蒸后质地软糯有韧性,柔软可口有粘性。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括稻谷→筛选→去石→磁选→砻谷→谷糙分离→碾米→去碎米→色选→抛光。\n\n产地条件方面，资料写到海拔高度1300~1600m,土壤类型为黄壤土或黄棕壤土、沙壤土,有机质含量不少于1.0%,土壤pH值5.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月中下旬采收,籽粒充分黄熟后及时收割,脱粒扬尘后自然晒干或烘干至水分不超过15.5%。",
+      "sources": [
+        "sw-gi-4db854fbad2902e5"
+      ],
+      "locality": "水城区",
+      "id": "sw-3623abd232ace1492d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "祥云红梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "祥云红梨是与云南·大理州·祥云县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红梨32号、红梨35号。",
+      "detail": "祥云红梨是与云南·大理州·祥云县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红梨32号、红梨35号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)红梨32号:果实卵圆形,部分果柄基部肉质化,果面光亮,底色黄白上覆红晕。果皮薄,肉嫩色白,香气浓郁,酥脆多汁,无石细胞,酸甜适口。(2)红梨35号:果实近圆形或扁圆形,果点大且多。果面底色黄白上覆红晕至全红。果心极小,肉嫩色白,香气浓郁,酥脆多汁,无石细胞,酸甜可口、以甜为主。\n\n产地条件方面，资料写到海拔高度1800~2300m,坡度不超过15°,土壤类型为砂壤土,土壤厚度不少于80cm,有机质含量不少于1.0%,土壤pH值5.0~8.0,地下水位不超过1.0m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月中旬至9月中下旬,梨果着色面不少于40%时采收。",
+      "sources": [
+        "sw-gi-4995513812af60ab"
+      ],
+      "locality": "祥云县",
+      "id": "sw-6f0cb8ebbdd9368e00",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "紫云春茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "紫云春茶是与贵州·安顺·紫云苗族布依族自治县相联系的地方茶或代用茶。",
+      "detail": "紫云春茶是与贵州·安顺·紫云苗族布依族自治县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地群体种及适宜当地种植的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)扁形茶:外形扁直、光滑,大小均匀,挺秀尖削,色泽嫩绿,嫩香持久,汤色嫩绿明亮,滋味清香鲜爽,入口有淡淡的清香爽朗之感,叶底幼嫩肥壮、成朵。(2)卷曲形茶:外形卷曲紧结,细秀卷曲如螺,细嫩显芽,色泽绿润,带栗香,香高持久,汤色黄绿明亮,滋味鲜醇,回味甘爽,叶底绿黄明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括摊放→杀青→摊凉回潮→理条→压扁→脱毫、提香→干燥→成品。\n\n产地条件方面，资料写到产地范围内海拔900~1600m,土壤为黄壤、黄棕壤,土壤pH值4.5~6.5,土层厚度不少于40cm,土壤有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是2月上旬至4月下旬,采摘单芽至一芽二叶。同时期,按采摘批次及时加工。(四)加工工艺。",
+      "sources": [
+        "sw-gi-f98bda6611a37dde"
+      ],
+      "locality": "紫云苗族布依族自治县",
+      "id": "sw-0a89d8f8c480ef9614",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "南部脆香甜柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南部脆香甜柚是与四川·南充·南部县相联系的地方食材。原料或品种方面，保护要求记载为脆香甜柚。",
+      "detail": "南部脆香甜柚是与四川·南充·南部县相联系的地方食材。原料或品种方面，保护要求记载为脆香甜柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中等大小,倒卵圆形,果顶广平,柱点微凹,蒂部窄。果皮薄,黄色,具光泽,油胞密,凸起,香气浓。果心空、中大,囊瓣数13~18,较整齐。果肉绿黄色,汁胞粗短、易剥离。果肉嫩脆、化渣,果汁中等,酸甜适中。种子中等大小,较多(酸柚授粉)。\n\n产地条件方面，资料写到海拔在300~450m之间,选择土壤疏松、肥沃,有机质含量在1%以上,土层厚度40cm以上,土壤透气性好,地下水位在1m以下,pH值在6.8~7.8之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实在10月下旬开始分期分批采收,先采摘色泽好,成熟度高的果实。果实采摘实行“两剪法”无桩保留果蒂采果。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "南部县",
+      "id": "sw-6e33ac438d96ca65ca",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "南部脆香甜柚"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "崇庆枇杷茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "崇庆枇杷茶是与四川·成都·崇州市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为崇庆枇杷茶。",
+      "detail": "崇庆枇杷茶是与四川·成都·崇州市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为崇庆枇杷茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：芽头肥壮,外形扁平较匀直,色泽黄绿油润,香气栗香浓郁,汤色黄绿明亮,滋味鲜醇爽口,叶底黄绿匀亮。\n\n产地条件方面，资料写到基地海拔高度1000m左右、地势平坦或宽大的台地、微坡地,坡地坡度小于25°,基地排水良好,地势背风,土壤类型为中、砂壤土(茶末土、小土、豆面土),有机质丰富,土层大于70cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及时地采摘名茶、春、夏、秋的大宗茶。\n\n与原料形成有关的生产记录还包括10月初移栽崇庆枇杷茶苗,通过三年的定型修剪形成采摘面。春茶结束对茶园进行修剪。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "崇州市",
+      "id": "sw-b2214126551bc0112f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "万源马铃薯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "万源马铃薯是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为中薯3号、费乌瑞它、秦芋30、鄂薯5号、大西洋、早大白、壩薯10号等。",
+      "detail": "万源马铃薯是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为中薯3号、费乌瑞它、秦芋30、鄂薯5号、大西洋、早大白、壩薯10号等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薯型圆形或椭圆形,表皮麻纹、黄皮黄肉或白皮白肉,芽眼较浅,适宜鲜食菜用。煮食时,香味四溢,口感香而滑润,风味独特,烹菜时香味散于屋内,口感较好,不易断裂,马铃薯营养齐全,富含微量元素硒,品质极佳。\n\n产地条件方面，资料写到种植于土壤肥沃、耕性良好、耕层良好的土壤,耕层土壤细碎、疏松、地面平整、排水良好的地块适宜的pH值5.0~7,前作大豆、菠菜较为适宜,禁忌与茄科作物连作。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是待地上部茎叶全部由绿变黄、块茎停止膨大后,根据鲜薯上市或交售、贮藏时间适期收获。收获前一周杀秧,收获的鲜薯先要充分摊晾,待薯皮木栓化后方可运输、贮藏。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "万源市",
+      "id": "sw-5fda2cd7174a8790b0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "龙王贡韭",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "龙王贡韭是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为二五叶韭菜、犀浦韭菜等本地品种为主,并引进平韭4号、平丰6号、平丰8号及赛松4个新品种。",
+      "detail": "龙王贡韭是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为二五叶韭菜、犀浦韭菜等本地品种为主,并引进平韭4号、平丰6号、平丰8号及赛松4个新品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茎部雪白,韭叶鹅黄,体长近3尺,干爽鲜嫩,外形饱满丰润,表面润泽光亮,富有弹性呈现坚挺脆嫩状态,口感脆甜、香味浓郁、细嫩化渣。\n\n产地条件方面，资料写到土壤的pH值在6.5~7.5之间,能排能灌,土壤90%为壤土或粘壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工用割刀从叶鞘茎部收割。\n\n与原料形成有关的生产记录还包括定植前一般不收割,以促进壮苗养根。将长稻草的尾端交织在一起,缚扎在2~3m的小竹杆上,再用4根与小竹杆长度相同的竹杆或者竹片,分两边将稻草的另一端夹起来,形成合页,A字形稻草棚不透光、不透雨、能透风,使韭菜在避光环境下黄化而成。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "成都相关产区",
+      "id": "sw-b6f4ec986a5c636a33",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹苎麻",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "大竹苎麻是与四川·达州·大竹县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为选择中根型和深根型丛生杂交苎麻白叶品种,主要为川苎系列的地方品种。",
+      "detail": "大竹苎麻是与四川·达州·大竹县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为选择中根型和深根型丛生杂交苎麻白叶品种,主要为川苎系列的地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：原麻呈青白或黄白色,手感柔软,无红根、焦梢、胎皮,无附壳粘住,整齐通顺,色泽鲜明光亮。\n\n产地条件方面，资料写到产地温度8~35°C,年降雨量在800~1000mm之间,且分布均匀,大气相对湿度80%以上,土壤最适宜含水量为20%~24%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当苎麻植株黑杆达到1/3~2/3时收获比较适宜,即头麻6月上旬,二麻7月底8月初,三麻10月下旬。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "大竹县",
+      "id": "sw-425cabc9e3a689f5d0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "南江大叶茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "南江大叶茶是与四川·巴中·南江县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为南江大叶茶。",
+      "detail": "南江大叶茶是与四川·巴中·南江县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为南江大叶茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：嫩绿有毫,扁形茶扁平匀齐,针形茶紧细挺直,汤色嫩绿亮,滋味醇厚爽口,栗香浓郁带毫香,叶底黄绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊晾→杀青→做形→毛火烘培→摊晾→足火→拣剔→成品。\n\n产地条件方面，资料写到海拔800~1200m,土壤以壤土为宜,土层深厚不少于50cm,矿质养分丰富,pH值4.0~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是开采期宜早不宜迟,按标准分批及时留叶采摘。鲜叶采下后,须从嫩度、匀净度、鲜度等方面进行分级归堆。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "南江县",
+      "id": "sw-024b2f0f078ae9d07d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "南江大叶茶"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "万源富硒茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "万源富硒茶是与四川·达州·万源市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为选择适合本地环境条件的福鼎大白、福选九号、名选131、平阳特早等良种。",
+      "detail": "万源富硒茶是与四川·达州·万源市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为选择适合本地环境条件的福鼎大白、福选九号、名选131、平阳特早等良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：形状扁平匀直,色泽绿润带毫,香气嫩香馥郁,滋味鲜爽回甘,汤色杏绿明亮,叶底黄绿尚亮。\n\n产地条件方面，资料写到土壤pH值5.0~6.5之间,土层深厚,有效土层超过50cm,养分丰富而且平衡,在0~45cm土层的有机质含量不少于15g/kg,有效钾含量不少于100mg/kg。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工茶叶进行人工采摘,要选择在天气晴朗的早上,鲜叶要用竹制器具盛装,使用专用车辆及时运输到符合绿色食品加工条件的加工厂加工,加工人员要经过生产技术培训,持证上岗。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "万源市",
+      "id": "sw-dfacd12ecbb77d9a4d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "简阳晚白桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "简阳晚白桃是与四川·成都·简阳市相联系的地方食材。原料或品种方面，保护要求记载为简阳晚白桃。",
+      "detail": "简阳晚白桃是与四川·成都·简阳市相联系的地方食材。原料或品种方面，保护要求记载为简阳晚白桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：以“早结、丰产、晚熟、果大、质优”著称。其果实近圆形,果状整齐,缝合线明显,果实两半部对称,果顶微凹,梗洼较深,平均果重250g以上,果皮底色黄绿,果表带片状红晕,完熟后易剥皮,果肉黄白色,近核处紫红色、粘核。\n\n产地条件方面，资料写到种植基地选择在海拔高度900m左右、地势平坦的地方,或在宽大的台地、微坡地,坡地要求坡度小于15°,且基地必须排水良好,地势背风,土壤选择肥沃、有机质丰富、排蓄水、保肥性良好的砂壤土或壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实采收。8月上中旬,根据成熟度分批采收。如需贮运可适当早采。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "简阳市",
+      "id": "sw-409d23f52e2514d3ed",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "简阳晚白桃"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "越西甜樱桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "越西甜樱桃是与四川·凉山州·越西县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为突出适宜越西县栽培的红灯、莫莉等大果型、红色甜樱桃品种。",
+      "detail": "越西甜樱桃是与四川·凉山州·越西县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为突出适宜越西县栽培的红灯、莫莉等大果型、红色甜樱桃品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形肾形或心脏形,缝合线明显。果柄中短,果大,果皮红至紫红色,皮色艳丽有光泽。果肉粉红至玫瑰红,肥厚多汁,质脆离核。风味酸甜适度,品质佳。\n\n产地条件方面，资料写到海拔1600~2100m。土壤有机质含量平均为1.8%,pH值6~7.5,酸碱适中。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是越西甜樱桃在每年的4月下旬开始采收,当地市场销售,果实应充分成熟;长途运输或贮藏保鲜应在八、九成成熟时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "越西县",
+      "id": "sw-923b2a3bfcfb13a194",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江贵妃枣",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗江贵妃枣是与四川·德阳·罗江区相联系的地方食材。原料或品种方面，保护要求记载为罗江贵妃枣。",
+      "detail": "罗江贵妃枣是与四川·德阳·罗江区相联系的地方食材。原料或品种方面，保护要求记载为罗江贵妃枣。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大,果形长卵圆形、稍扁,果顶端偏大,具明显浅沟,果皮黄绿色,皮薄光滑、覆片状红褐色,果肉浅绿色,肉质松脆、化渣,味甜,品质佳,核纺锤形、红褐色。\n\n产地条件方面，资料写到贵妃枣适应性强,易早结、丰产,对土壤要求不严,适宜于二台土地以上种植。贵妃枣保护区属龙泉山脉尾端浅丘地带,海拔550m以上。属紫色页岩风化土质,地势平坦,坡度为5~200之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月底至9月上旬人工单果采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "罗江区",
+      "id": "sw-94fc6ecd8e02bf8715",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉山藤椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "峨眉山藤椒是与四川·乐山·峨眉山市相联系的地方食材。原料或品种方面，保护要求记载为峨椒1号(坨坨椒)。",
+      "detail": "峨眉山藤椒是与四川·乐山·峨眉山市相联系的地方食材。原料或品种方面，保护要求记载为峨椒1号(坨坨椒)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：藤椒果为青绿色,成熟后为暗红色,果香味独特,麻味绵长,果穗长,果实较大,蓇葖果,表面疣状腺点大而突出,有光泽。\n\n产地条件方面，资料写到海拔400~1200m的地段,土壤主要为黄壤、紫壤、红壤、棕壤、石灰石土、冲洪潮土,土壤pH值5.5~7.5,土壤有机质含量7%~13%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是夏季入伏时节采摘,宜选择晴天采摘。采摘时应避免果皮油腔破损。\n\n与原料形成有关的生产记录还包括移栽前,对土壤进行深翻旋耕50cm以上,再根据定植行距每两行挖一个排水沟,沟宽60cm,沟深60cm,有坡度的地块沟可以适当浅些。行株距在3m×3m,地势高土壤贫瘠的山地,2.5m×2.5m为宜,即每亩栽培70~110株。整形修枝管理,定干、定枝、剪枝、疏枝、曲枝、坐果中期管理、采果剪枝后管理。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "峨眉山市",
+      "id": "sw-3c2b6604bb000fe474",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸州桂圆",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "泸州桂圆是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县相联系的地方食材。",
+      "detail": "泸州桂圆是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县相联系的地方食材。原料或品种方面，保护要求记载为除本地实生种外,主要有蜀冠、泸早1号、泸丰1号、宝石1号、翠香、秋香、高宝、醇香等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果穗大,果粒分布均匀紧凑。果实圆形、中大,大小均匀,果顶浑圆,果肩平,果基平,龟裂纹明显,果肩具放射纹,果肉厚、乳白色、半透明,离核,肉质细脆、化渣,味浓甜,有香气,种子小黑褐色或棕褐色,有光泽。\n\n产地条件方面，资料写到海拔400m以下。年平均气温18~22°C,最冷月均温>7°C,极端最低气温>~1°C,不少于10°C的年积温>5800°C,年日照时数不少于1200小时,年降雨量不少于1000mm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是龙眼果实达到成熟适时采收,即龙眼果皮已由厚变薄,由粗糙变平滑,指压有弹性,果核黑红褐、味甜浓,肉质细嫩等内外观都达到较高点。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "江阳区、纳溪区、龙马潭区、泸县、合江县、叙永县",
+      "id": "sw-1b84afdca21fc5885a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "金堂脐橙是与四川·成都·金堂县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为罗伯逊脐橙或纽荷尔脐橙等。",
+      "detail": "金堂脐橙是与四川·成都·金堂县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为罗伯逊脐橙或纽荷尔脐橙等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：圆形或短椭圆形,外形端正、美观,果实中大,果皮光滑、橙色、有光泽,果蒂、果顶圆,果脐小或闭脐,果皮厚薄均匀适中,香气浓。风味酸甜适中,味浓,肉质细嫩化渣,汁多,无核。\n\n产地条件方面，资料写到年平均温度17~21°C,绝对最低温度不少于-3°C,不少于10°C的年积温5000°C以上,年日照1000小时以上,降雨量不少于900mm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.留树保鲜的脐橙。于第二年3月至4月份脐橙平均果重200g以上,果皮厚度0.4~0.5cm以下,可食部分70%以上,果汁率50%以上,可溶性固形物可达到11%以上。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "金堂县",
+      "id": "sw-5d3b82c06aafdea557",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "沐川猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "沐川猕猴桃是与四川·乐山·沙湾区、沐川县相联系的地方果蔬或干果。",
+      "detail": "沐川猕猴桃是与四川·乐山·沙湾区、沐川县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红肉型“红阳”品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：沐川猕猴桃果形中大、近圆柱形,果形较端正,萼洼圆而深,果皮薄、绿色,光滑无毛,果点小而细。果实横切面呈放射状红色条纹,中心柱黄白色,周围果肉呈红色,果肉红绿黄相间,果肉细嫩,浓甜清香,种子小、黑褐色,品质佳。\n\n产地条件方面，资料写到种植区域年平均温度17.1°C,光照充足,年平均降雨量1246mm以上,年平均相对湿度85%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据不同的品种,不同的海拔高度,按先低后高的顺序进行人工采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "沙湾区、沐川县",
+      "id": "sw-a79c8ca901526b9271",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸州糯红高粱",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "泸州糯红高粱是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县相联系的地方食材。",
+      "detail": "泸州糯红高粱是与四川·泸州·江阳区、纳溪区、龙马潭区、泸县、合江县相联系的地方食材。原料或品种方面，保护要求记载为泸州青壳洋高粱、国窖红一号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：穗型中散,穗大而籽粒饱满,每穗3000~4000粒;粒卵圆形,千粒重16g左右,皮薄红润,籽粒具有角质率小,支链淀粉易糊化,糊化后粘性好、不轻易老化的特点。\n\n产地条件方面，资料写到环境要求以长江、沱江两岸良好生态环境为主,空气清新、水质纯净;土壤类型以高肥力紫色土壤为主,土壤矿物质含量丰富,胶质好,胶粘韧率2%~3%最佳。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括定植时间:4月中下旬。定值管理:选择5片叶左右的育苗高粱按每窝2株,亩定植5000~6000株进行净作或间作,待移栽返青成活后及时进行查苗补缺,翻挖、除草。灌溉:定植浇水每亩用1000~1500kg,生长周期适时浇灌多次。待高粱完全成熟时,进行人工收割,收割后进行脱粒晾晒至含水量13%以下。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "江阳区、纳溪区、龙马潭区、泸县、合江县",
+      "id": "sw-df3662a22d13e6ebe3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "红格脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "红格脐橙是与四川·攀枝花·盐边县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、眉山九号、朋娜等优良品种。",
+      "detail": "红格脐橙是与四川·攀枝花·盐边县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为纽荷尔、眉山九号、朋娜等优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实椭圆形至长椭圆形,果大美观、皮薄、无籽、油胞细、果面光滑、果形指数大于0.9。\n\n产地条件方面，资料写到种植基地选择在海拔1300m左右的地方,坡度小于25°的台地,土壤微酸性,pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是脐橙多数品种果实在9月下旬至10月中旬达九成熟可以上市,11月后达到成熟全面上市。\n\n与原料形成有关的生产记录还包括红格脐橙幼苗定植时间为2月至8月,通过三年的整形修剪,形成结果树冠。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐边县",
+      "id": "sw-b7ae37b2aa4a3052c6",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "攀枝花枇杷",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "攀枝花枇杷是与四川·攀枝花·东区、西区、仁和区、米易县、盐边县相联系的地方食材。",
+      "detail": "攀枝花枇杷是与四川·攀枝花·东区、西区、仁和区、米易县、盐边县相联系的地方食材。原料或品种方面，保护要求记载为早钟六号、大五星等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大,卵圆形或长卵圆形,果皮橙黄色,果点密、细、光滑,有果粉,果锈极少,皮薄。果肉厚、橙黄色,肉质细,汁多,味浓甜略带酸,风味浓郁,种子3~5粒。\n\n产地条件方面，资料写到适宜选择海拔1300~1700m的地区,海拔偏高的地方选择阳坡地,坡度最好不超过25°。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在果实充分成熟,达到品种固有色泽和最佳品质时采收,贮运及加工的果实可在八九成熟时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "东区、西区、仁和区、米易县、盐边县",
+      "id": "sw-f6fbdd142425ea2930",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "复立茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "复立茶是与四川·内江·威远县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为选择适合本地环境条件的福鼎大白、名山131、福选9号等优质、抗病虫害强、丰产的优良茶苗。",
+      "detail": "复立茶是与四川·内江·威远县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为选择适合本地环境条件的福鼎大白、名山131、福选9号等优质、抗病虫害强、丰产的优良茶苗。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：采用高山无公害茶园早春优质独芽制作而成,其外形扁直匀齐,色泽绿润、香气栗香浓郁持久,汤色淡绿清流、滋味鲜醇味甘,耐冲泡、口感好,叶底嫩绿明亮。\n\n产地条件方面，资料写到复立茶叶种植区域属水域上游无工业污染区,河流及地下水检测表明,水质感观良好,无色、无臭、无味、透明,pH值5.5~7.5之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是茶树蓬面每平方米达到10~15个标准芽时为开采时期。茶叶采摘要选择在天气晴朗的早上,鲜叶要用竹制器具盛装。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "威远县",
+      "id": "sw-a7c9395f78724a543d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "镇西白萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "镇西白萝卜是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、抗寒、生长力强、外观和内在品质好的春不老白萝卜。",
+      "detail": "镇西白萝卜是与四川·内江·威远县相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、抗寒、生长力强、外观和内在品质好的春不老白萝卜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈扁圆型,形似鹅蛋,外形饱满丰润,皮色雪白,润泽光亮,肉质白色,口感脆甜细嫩、无辣味或辣味淡。\n\n产地条件方面，资料写到白萝卜适宜种植于能排能灌的砂壤土或粘壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是休药期到时,准备采收,按先种先收顺序,抽样送检,采收时用割刀从叶鞘茎部割下萝卜樱,清洗装筐。\n\n与原料形成有关的生产记录还包括萝卜苗定植后要浇一次清粪水,土壤保持见干见湿状态,进入雨季应及时排涝,当气温在16°C以下时,减少浇水,土壤表面不干即可。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "威远县",
+      "id": "sw-02314a3c64bc302c1c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "喜德阉鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "喜德阉鸡是与四川·凉山州·喜德县相联系的地方食材。原料或品种方面，保护要求记载为喜德阉鸡选择饲养具有体形丰满、结构匀称等特征的喜德土鸡进行自繁自养,其中以乌骨、乌肉的为最好。",
+      "detail": "喜德阉鸡是与四川·凉山州·喜德县相联系的地方食材。原料或品种方面，保护要求记载为喜德阉鸡选择饲养具有体形丰满、结构匀称等特征的喜德土鸡进行自繁自养,其中以乌骨、乌肉的为最好。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鸡冠、肉垂、脸和耳叶的色泽红里透黑,喙、皮肤、脚趾和骨均为黑色;阉鸡的头部清秀、眼大而明、鸡冠、耳叶、肉垂细小,不鸣叫,性情温顺,胆怯。颈羽为红黄色,较细长,色泽光亮;腹部及两侧的羽色为红黑色,背羽以红褐色居多。主尾羽较长,并向后下方自然弯曲,羽色为紫蓝色。\n\n产地条件方面，资料写到要求生产场地要建在地势高燥、光线充足、排水良好和隔离条件好、易于组织防疫的区域;周围无化工厂、矿山、皮革厂、肉品加工厂、屠宰场等污染源:远离干线公路、铁路、城镇和公共场所。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "喜德县",
+      "id": "sw-a4f4e0c5bdc172ec8c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "内江猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "内江猪是与四川·内江·市中区、东兴区相联系的地方食材。原料或品种方面，保护要求记载为内江猪。",
+      "detail": "内江猪是与四川·内江·市中区、东兴区相联系的地方食材。原料或品种方面，保护要求记载为内江猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型较大,头较短,额宽有较深的横行皱纹,有狮子头和二方头之分;耳中等大,下垂。鬃毛粗长、全黑,皮较厚。背腰较平或微凹,腹大稍下垂,不拖地,乳头6~7对,排列整齐。肋骨13~14对。\n\n产地条件方面，资料写到属四川盆地线丘地区,小山丘相对高度在30~80°之间。土地属侏罗系紫色沙质岩和泥岩覆盖,由此风化发育而成的紫色土壤pH值大多在65~75之间,属中性土壤。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括(1)后备猪的饲养。通常采用限饲饲养,以保证后备母猪配种时体重达到120kg,背膘厚为20~25mm。(2)妊娠母猪的饲养。(3)泌乳母猪的饲养。日粮水平3.2~3.4兆卡消化能/kg,蛋白质15%~16%,钙0.6%~0.7%,磷0.5%~0.6%,同时保证足够的微量元素和维生素。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "市中区、东兴区",
+      "id": "sw-64c3cd5f1138865cab",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "越西贡椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "越西贡椒是与四川·凉山州·越西县相联系的地方食材。原料或品种方面，保护要求记载为越西贡椒。",
+      "detail": "越西贡椒是与四川·凉山州·越西县相联系的地方食材。原料或品种方面，保护要求记载为越西贡椒。正路花椒和大红袍两个地方良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：越西贡椒食用部位为干燥果皮,其鲜果为球形,缝合线明显,果皮鲜红色,皮色艳丽有光泽,油胞较大。椒粒基部常骈生一至二粒未受精发育的小红椒。干果颜色紫红至暗红色,香味浓郁、麻味纯正。\n\n产地条件方面，资料写到土壤类型以山地黄壤、山地黄棕壤、沙壤土等排水良好的土壤为主,土壤厚度20cm以上,产地土壤质地疏松,轻壤至沙壤,土壤有机质含量平均为1.8%,pH值6~7.5,酸碱适中,适应花椒生长。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工带枝采摘。贡椒采收在7月中旬至8月上旬开始,9月底至10初基本完成,鲜果呈鲜红色,果皮缝合线突起,少量果皮开裂,表现出品种特有的色泽,种子呈黑色光亮,种仁变硬时,即可采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "越西县",
+      "id": "sw-03d78738ccff593cec",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "剑门关土鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "剑门关土鸡是与四川·广元相联系的地方食材。原料或品种方面，保护要求记载为选用广元地方鸡品种以及其杂交后代。",
+      "detail": "剑门关土鸡是与四川·广元相联系的地方食材。原料或品种方面，保护要求记载为选用广元地方鸡品种以及其杂交后代。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)草白鸡。头清秀,毛紧密。颈较短,单冠。喙粗短,稍微弯曲,黑色。白羽黑花,高脚,胫长、黑灰色,脸皮红色。公鸡单冠、直立、红色,翼、背部表面被毛有少量红羽,粗壮高大,鸡冠、肉垂均为红色。母鸡脸毛细小,白羽黑花,胫长、黑灰色。(2)黄羽白脚鸡(小黄麻鸡)。单冠,红脸,红肉垂。喙粗短,微弯曲。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括检疫→静养2小时→屠宰→脱毛→剖腹→整理内脏→清洗胴体→杀菌→沥干→包装→速冻→冷冻。\n\n采收或收获环节的记录是加工1.鸡源。来自产地范围内符合出栏标准的健康鸡只。2.工艺流程。检疫→静养2小时→屠宰→脱毛→剖腹→整理内脏→清洗胴体→杀菌→沥干→包装→速冻→冷冻。3.工艺流程要点。(1)时间要求。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "广元相关产区",
+      "id": "sw-53d5e2868771568e46",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "剑门关土鸡"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂姬菇",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂姬菇是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为以西德33、闵31等品种为主。",
+      "detail": "金堂姬菇是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为以西德33、闵31等品种为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：菇体丛生,菌柄中实,洁白色,直径0.5~2cm,长3~7cm,菌盖呈深灰色,直径2~3cm,子实体韧性强,菌褶白色延生,口感脆嫩鲜滑,耐运输。\n\n产地条件方面，资料写到产地环境:应选择年平均气温16.8°C,最冷月(1月)平均气温6°C,年积温6000°C,无霜期年均285天,年均降雨量920.5mm,年均日照1295.2小时,相对湿度80%的区域。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当一丛菇中大部分子实体菌幕即将裂开时即可采收。采收时握住菇体菌柄基部,扭下整丛菇体,放入框内,避免机械损伤。去除菌柄处料脚,按菌盖大小分级,装框上市或加工。盛装器具应清洁卫生,避免二次污染。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "金堂县",
+      "id": "sw-53fd4db3d44a8c8e5a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "西充黄心苕",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西充黄心苕是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为选择适应性强、抗病性好的西充黄心苕生产用种。",
+      "detail": "西充黄心苕是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为选择适应性强、抗病性好的西充黄心苕生产用种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薯块圆形,薯皮光滑,薯形好,外皮红色,肉红黄色,熟食肉质柔和,味甜,食味好。\n\n产地条件方面，资料写到土壤类型以土层深厚、宜耕性好的紫色壤土为主,pH值7.5~8.4,有机质含量约为1.1%,矿质养分含量丰富,富含钙、镁等微量物质。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在立冬后开始收获,选晴天收挖,收挖时做到“三轻”“四防”,即:轻挖、轻运、轻放;防霜冻、防雨淋、防碰伤、防病虫。\n\n与原料形成有关的生产记录还包括追肥:根据甘薯各生长时期和营养需求不同,在甘薯营养需求的关键时期进行追肥。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "西充县",
+      "id": "sw-781358c7dace49275e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "西充黄心苕"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "蓬安锦橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蓬安锦橙是与四川·南充·蓬安县相联系的地方食材。原料或品种方面，保护要求记载为蓬安锦橙。",
+      "detail": "蓬安锦橙是与四川·南充·蓬安县相联系的地方食材。原料或品种方面，保护要求记载为蓬安锦橙。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实大、椭圆形、端正,果皮橙红色、中等厚度,果肉橙色,肉细嫩化渣,汁多,酸甜适中,风味浓。无核。\n\n产地条件方面，资料写到土壤类型以土层深厚,有效土层不小于80cm,中性或微酸性,土质疏松,有机质含量1%以上,达不到要求的对土壤进行改良熟化,提高土壤肥力。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是两剪剪果法,采果顺序从上到下,从外向内,采果轻拿轻放。\n\n与原料形成有关的生产记录还包括修剪以生长期抹芽放梢为主,冬季修剪为辅,造就紧凑、饱满、牢固的树冠骨架。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "蓬安县",
+      "id": "sw-12bc3ab930a70ebd1a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "大田石榴",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大田石榴是与四川·攀枝花·仁和区相联系的地方食材。原料或品种方面，保护要求记载为青皮软籽石榴。",
+      "detail": "大田石榴是与四川·攀枝花·仁和区相联系的地方食材。原料或品种方面，保护要求记载为青皮软籽石榴。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形完整,果萼完好,端正,无裂果;新鲜,着色良好,有光泽;清洁,基本不含可见异物;无明显的机械伤;基本无虫害、病害;发育充分,有适当的成熟度;果柄切口平滑,其长度不超过8mm。\n\n产地条件方面，资料写到海拔不超过1600m,土壤类型为燥红壤、红壤、砂质土、紫色土,土壤pH值6.3~7.3,大于25°的坡地不宜种植。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月至10月,籽粒有较好放射状针芒,即可采收,一果两剪。\n\n与原料形成有关的生产记录还包括采用“青皮软籽石榴”优选母株上的枝条进行无性繁殖(短枝扦插)。一月份(大寒节)前后定植。定植扦插苗穗桩露出地表3~5cm,用细土覆盖,灌透水一次。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "仁和区",
+      "id": "sw-9cfff128f7b930a1eb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "金川多肋牦牛",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金川多肋牦牛是与四川·阿坝州·金川县相联系的地方食材。原料或品种方面，保护要求记载为多肋牦牛。",
+      "detail": "金川多肋牦牛是与四川·阿坝州·金川县相联系的地方食材。原料或品种方面，保护要求记载为多肋牦牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)外貌特征:被毛多为头白、胸、尾部白色,身躯黑色。头部狭长,额宽,公、母牛有角,耆甲较高,肩颈结合良好,胸宽而深、背腰平直,体躯呈矩形,后腿粗壮,肌肉发达、四肢较长而粗壮,蹄质结实。公牦牛头部粗重,体型高大,雄壮彪悍。母牦牛头部清秀、后躯发达、骨盆较宽,乳房丰满,性情温和。\n\n产地条件方面，资料写到高原季风气候,四季分明,高原草场广阔,夏暖秋凉,水草丰盛,土壤、空气、水质等自然环境未受任何污染。年平均气温12.8°C,昼夜温差大,年温差较小,雨热同季。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "金川县",
+      "id": "sw-be8111d668b77b90a8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "芭蕉木瓜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "芭蕉木瓜是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为皱皮木瓜。",
+      "detail": "芭蕉木瓜是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为皱皮木瓜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈月牙形薄片,外表紫红色,有不规则的深皱纹,切面棕红色,剖面边缘向内卷曲,果肉棕红色,中心部分凹陷,棕黄色,种子扁长三角形,多脱落,质坚硬,气微清香,味酸。\n\n产地条件方面，资料写到土壤以壤土或沙壤土为主,pH值6.5~7.5,有机质含量丰富,雨热同季,丘陵起伏,地形地貌要求冬暖夏热、秋润春早、雨量充沛。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月至9月。\n\n与原料形成有关的生产记录还包括第二年春季按行株距50cm×25cm移栽,再培育1-2年即可出圃培育壮苗。定植坑大小根据具体情况而定,一般宜宽(口径1m),深浅适当(0.6~0.8m)。株行距3.6×6.4m,每亩定植40株。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-f36ab9f565b282d5a9",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "黄金黑木耳",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黄金黑木耳是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为新科5号、916等。",
+      "detail": "黄金黑木耳是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为新科5号、916等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：以境内优质青杠木和玉米芯作为栽培材料,其产品耳单片、舒展,一面灰白一面深黑,肉质肥厚,嫩脆,口感好,味道鲜美。\n\n产地条件方面，资料写到气温16.8°C,平均年降雨121。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收时根据耳片的成熟度分期收获,采大留小,采收后的黑木耳必须及时晾晒或烘干机烘干进行保藏、销售。\n\n与原料形成有关的生产记录还包括根据当地生产季节,统一由县内食用菌菌种龙头企业生产母种、原种和栽培种,保证菌种质量。(2)灭菌:采用高压蒸汽灭菌或常压蒸汽灭菌。(2)培养:培养室使用前要消毒,菌袋立式摆放层架上,室温初期控制在25~27°C,十天后降至20~22°C,空气相对湿度65%左右,避光,每天两次通风换气,每次半小时。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-51095f8deac2f8ec87",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "老君香菇",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "老君香菇是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为选择适应性广、抗逆性强、产量高、品质优的袋料栽培品种为老君香菇生产菌种。",
+      "detail": "老君香菇是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为选择适应性广、抗逆性强、产量高、品质优的袋料栽培品种为老君香菇生产菌种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：菇型大、圆正,菌肉厚,柄短,肉质嫩脆,香味浓郁。\n\n产地条件方面，资料写到气温16.8°C,年均日照1596.8小时,年均降雨量121。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是和加工待菇盖展开六、七分,菇盖边缘仍然内卷,内菌幕刚破裂及时采收;遵循先熟先采,后熟后采原则。采收方法:一手按住菌袋,一手捏菇柄基部,轻轻旋转再连柄拔起。\n\n与原料形成有关的生产记录还包括利用宣汉境内特有的青杠木和玉米为老君香菇生产的两大主要原料。把玉米粉、石膏粉充分拌匀后,撒入木屑料中拌和3次,随即将糖水倒入适量清水中,均匀倾泻于原料中充分搅拌2~3次,力求原料水分均匀一致。箱内每立方米用气雾消毒剂点燃熏蒸消毒,然后进行操作。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-7d2f847cbedc7ee809",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "达州脆李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "达州脆李是与四川·达州·通川区、宣汉县、开江县、大竹县、渠县、万源市相联系的地方食材。",
+      "detail": "达州脆李是与四川·达州·通川区、宣汉县、开江县、大竹县、渠县、万源市相联系的地方食材。原料或品种方面，保护要求记载为巴山脆李、本地青皮脆李。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：成熟时果皮呈黄绿色或淡黄绿色,果肉呈淡黄色,果型端正,圆形或扁圆形,果粉均匀,果皮光洁,无病虫果、无裂果,成熟度适宜于贮藏和市场要求,单果重早熟品种25g左右、中晚熟品种35g左右,特晚熟品种30g左右,整齐度高。\n\n产地条件方面，资料写到沙壤土,海拔不超过1000m,坡度<20°的丘陵和山地,土层较深厚,pH值6~6.5,土层深厚,保水性好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月初至10月初,巴山脆李呈果皮淡黄绿色,果肉淡黄绿色,肉质松脆时采收,不同成熟期的达州脆李分批上市。晴好天气采收,禁止阴雨天、露水天、大雾天采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "通川区、宣汉县、开江县、大竹县、渠县、万源市",
+      "id": "sw-7ec36db4a07bc009bb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "洪雅绿茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "洪雅绿茶是与四川·眉山·洪雅县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为名山131、福选9号、福鼎大白等。",
+      "detail": "洪雅绿茶是与四川·眉山·洪雅县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为名山131、福选9号、福鼎大白等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形芽头秀雅匀整、扁平光直、色泽润绿;汤色黄绿明亮,香气清香持久,滋味鲜醇爽口,叶底嫩绿匀亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶采收后,立即摊晾,使茶叶内含物质发生转化,失掉部分水分并软化便于加工。摊晾时间视温度而定,一般春季温度低时间长,6-8小时。\n\n产地条件方面，资料写到基地土壤应土层深厚,土壤耕层50cm以上,土质疏松,结构和理化性状好,pH值应在4~6.5之间,海拔1800m以下的山地黄壤、台地小土黄泥、黄紫色冲积土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鲜叶采摘应根据茶树生长特性和成品茶对加工原料的要求,遵循采留结合、量质兼顾和因树制宜的原则,按标准适时采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "洪雅县",
+      "id": "sw-883a97d532efb1101d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "蜂桶蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蜂桶蜂蜜是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为适宜于山区生态环境的中蜂。",
+      "detail": "蜂桶蜂蜜是与四川·达州·万源市相联系的地方食材。原料或品种方面，保护要求记载为适宜于山区生态环境的中蜂。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈浅黄色半凝固状,稠如凝脂,无杂质,开盖花香四溢,气息芳香馥郁,入口香甜,甜而不腻,具有纯正的清香味和各种蜜源植物花香味。\n\n产地条件方面，资料写到蜂场选择在地势高燥、背风向阳、排水良好、小气候适宜,蜜源优良丰富,附近有良好水源。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是一年只取蜜一次,时间在寒露节前后,蜂王浆不单独提取,以确保蜂桶蜂蜜优质的品质、独特的风味。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "万源市",
+      "id": "sw-bedb8ec683bf474c5f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂黑山羊是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为川中黑山羊。",
+      "detail": "金堂黑山羊是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为川中黑山羊。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：全身被毛黑色,毛短富有光泽。体型大,头中等大体质结实,结构匀称。颈长短适中,背腰宽平,四肢粗壮,蹄质坚实。成年公羊颌下有毛鬓。成年公羊体重平均70.64kg,成年母羊体重平均49.62kg。羊肉肉质细嫩,味美多汁,无膻味,食用时味香而不腻口。\n\n采收或收获环节的记录是加工屠宰放血要完全,剥皮,去头、蹄、内脏(肾脏除外)、大血管、乳房、生殖器;去三腺;修割整齐,冲洗干净,无病变组织、无伤斑、无残留小片皮、无浮行、无粪污、无胆污、泥污和血凝块。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "金堂县",
+      "id": "sw-59ff1b928aa8485609",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "唐家河蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "唐家河蜂蜜是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为蜂种选择适宜于山区、半山区生态环境饲养的中华蜜蜂,体躯较小,头胸部黑色,腹部黄黑色,全身被黄褐色绒毛。",
+      "detail": "唐家河蜂蜜是与四川·广元·青川县相联系的地方食材。原料或品种方面，保护要求记载为蜂种选择适宜于山区、半山区生态环境饲养的中华蜜蜂,体躯较小,头胸部黑色,腹部黄黑色,全身被黄褐色绒毛。嗅觉灵敏,善于采集种类多而零星分散的蜜粉源。耐寒性较强。飞行敏捷,善于逃避敌害。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈半流体状,色浅浓稠,无杂质,开盖蜜源花香四溢,气息芳香馥郁,入口香甜,甜而不腻,具有纯正的清香味和各种本类蜜源植物花香味。\n\n产地条件方面，资料写到1.蜂蜜生产地选择地势高燥、背风向阳、排水良好、小气候适宜的场所,附近应有便于蜜蜂采集的良好水源。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是唐家河蜂蜜生产。根据中蜂封盖蜜脾的习性,生产符合规格的成熟蜜,并进行摇蜜过滤,形成唐家河蜂蜜优等的品质、独特的风味。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "青川县",
+      "id": "sw-63991acb79c335bcc4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "充国香桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "充国香桃是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为砧木以毛桃为主,列玛格能抗根结线虫,表现更佳,宜推广。",
+      "detail": "充国香桃是与四川·南充·西充县相联系的地方食材。原料或品种方面，保护要求记载为砧木以毛桃为主,列玛格能抗根结线虫,表现更佳,宜推广。充国香桃自花结实率较高,但配授粉品种表现更佳,按8∶1(充国香桃:授粉品种)即可,可选用皮球桃、大久保、北京27号等作为授粉树。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形大,近圆形,缝合线明显,近梗洼处深,两半部较对称。果顶微突,梗洼深。果面底色乳白色,阳面着片状红色。果肉乳白色,随着成熟度的增加,果肉呈浅红至深红色,近核处浅红色。肉质细脆,纤维少,汁液中等,味甜,有香气。离核,核红色。\n\n产地条件方面，资料写到土壤以蓬莱镇组母质发育而成的紫色土为主,pH值6.8~7.5,有机质含量18.6g/kg,土层深厚,宜耕性好,土质肥沃,特别适宜于桃树生长发育的磷、钾等养分含量较高。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是轻摘轻放,防止碰伤、捏伤、刺伤。采果和盛果容器要内衬柔软垫。采果以晴天上午10时至下午6时为宜,采后应尽快存放到阴凉通风处,以降低果温和果实呼吸强度。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "西充县",
+      "id": "sw-ca431177957c6ebc55",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "真龙柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "真龙柚是与四川·泸州·合江县相联系的地方食材。原料或品种方面，保护要求记载为真龙柚。",
+      "detail": "真龙柚是与四川·泸州·合江县相联系的地方食材。原料或品种方面，保护要求记载为真龙柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中大,倒卵圆形,果顶广平,果颈短;果皮厚,黄色,具光泽,有凹点,油胞密、凸起,有香气;果心充实,囊瓣数13~16,较整齐;果肉蜜黄色,易剥离,汁胞较短、较细;果肉脆嫩、化渣,果汁较多,风味浓,纯甜。\n\n产地条件方面，资料写到海拔高度250~600m,土壤为紫色土、水稻土或冲积土,酸柚砧适宜的pH值为6.0~7.5,枳砧的pH值为5.5~6.5,土层厚度在100cm以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是11月上旬至12月上旬,根据果实成熟度适时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "合江县",
+      "id": "sw-11d2ae88049ee06f76",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇元帅柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "仪陇元帅柚是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为文旦柚。",
+      "detail": "仪陇元帅柚是与四川·南充·仪陇县相联系的地方食材。原料或品种方面，保护要求记载为文旦柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实倒卵圆形,顶部平广,中心微凹,果皮成熟时黄色,较光滑,果肉白色,汁脆饱满、细长、致密、脆嫩化渣,香气浓郁。\n\n产地条件方面，资料写到土壤以侏罗纪蓬莱镇组紫色土壤为主,pH值6.5~7.5,有机质含量丰富,雨热同季,丘陵起伏,地形地貌要求冬暖夏热、秋润春早、雨量充沛。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是10月下旬至11月中旬。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-0d5e88ee00c4184766",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪仙桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蓬溪仙桃是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为蓬溪仙桃本地品种。",
+      "detail": "蓬溪仙桃是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为蓬溪仙桃本地品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中大、短椭圆形。缝合线明显,两半不对称,果顶平,果尖微凹,果洼深。果底乳黄色,阳面着片状红晕,绒毛中等。果肉白色,肉质细、脆,味纯甜。离核、核中大,褐色带少许桃红色。品质上等。\n\n产地条件方面，资料写到远离县(区)工业园区的地域,生态环境良好,空气清新,土质肥沃,降水均匀,光照充足,具有适宜桃生长的条件。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当仙桃出现该品种固有特征时适时采摘,杜绝生桃上市。成熟期不一致的品种,分期采收。采果以晴天上午6时至11时,下午17点以后为宜。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-0f32db37b1cef3ee00",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "蓬溪仙桃"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "九寨沟柿子",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "九寨沟柿子是与四川·阿坝州·九寨沟县相联系的地方食材。原料或品种方面，保护要求记载为磨盘柿。",
+      "detail": "九寨沟柿子是与四川·阿坝州·九寨沟县相联系的地方食材。原料或品种方面，保护要求记载为磨盘柿。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实大,扁圆形,橙红色。果顶平圆,有放射状短纵沟,果肩平。果蒂较小,蒂洼浅,萼片直角反卷。果肉深橙红色、细腻,纤维长、较少,味甜。种子小、少。\n\n产地条件方面，资料写到产区海拔1160~1938m,土壤主要为山地褐色土,pH值7.0~7.8,有机质含量高,质地疏松、深厚、通透性好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是产品收获及产后处理采收时间为9月上旬至10月中下旬,采摘以不折断2-3年枝为原则,采摘时不带露水及雨水,采摘柿果远销时,均需剪去果柄,摘除萼片。充分成熟后的柿果,经过去皮、生霜后就成为柿饼。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "九寨沟县",
+      "id": "sw-b08c54610f1a6cd54e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "永福生姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "永福生姜是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地永福生姜优良株系。",
+      "detail": "永福生姜是与四川·内江·东兴区相联系的地方食材。原料或品种方面，保护要求记载为本地永福生姜优良株系。要求姜块肥大、丰满、健壮,色泽正常,无虫害,不带姜瘟病菌,无机械损伤,地下茎长、粗、分枝多的作种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽嫩白无异斑,姜茎细长、分枝多,主茎长20~30cm,宽2cm左右,单株鲜重0.5kg以上。肉质细嫩,纤维少,风味浓香适口,商品性好。\n\n产地条件方面，资料写到土壤类型为中性至微碱性的中壤至重壤,土层深厚,有机质含量高,保水保肥性强,排灌方便,土壤pH值5.7~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据市场需求和生姜成熟度分批及时采收,采收过程用来盛装和运输生姜的器具要清洁、卫生、无污染。采后剔除病、虫、伤茎、在清水中将泥沙洗干净,达到感官洁净。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "东兴区",
+      "id": "sw-28ac6aab9b286b75d2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "开江白鹅",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "开江白鹅是与四川·达州·开江县相联系的地方食材。原料或品种方面，保护要求记载为选择开江地区生产的白鹅为父母本,进行纯繁饲养。",
+      "detail": "开江白鹅是与四川·达州·开江县相联系的地方食材。原料或品种方面，保护要求记载为选择开江地区生产的白鹅为父母本,进行纯繁饲养。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肥育性好、饲料报酬率高、屠宰率高。宰杀后,肌肉丰满紧密、有坚实感、光泽润滑、水嫩多汁。用手触摸湿润不粘手、肌纤维韧性强、有弹性。鹅肉肌纤维较粗,入口稍显粗糙。因鹅肉的脂肪含量少、氨基酸多,营养丰富,咀嚼后味道鲜美。肉汤清淡,风味独特、鲜美无比、营养丰富、可口怡人。\n\n产地条件方面，资料写到水源充足,水质清洁、无污染物和有害物质;周边无交通要道、工厂、居民区等嘈杂和污染区域;鹅舍内应具有良好的通风和保温功能。鹅舍外应配备有陆地和水面运动场,供鹅群运动和游泳。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "开江县",
+      "id": "sw-7a65d0b8ea503e4db4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨边马铃薯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "峨边马铃薯是与四川·乐山·峨边彝族自治县相联系的地方食材。原料或品种方面，保护要求记载为峨边马铃薯主要为菜用薯,根据产区自然条件,结合周边种薯需求,低山区选用中早熟、休眠期短、薯型好的中薯、坝薯、和川芋系列,高山区选用凉薯系列、会-2等品种。",
+      "detail": "峨边马铃薯是与四川·乐山·峨边彝族自治县相联系的地方食材。原料或品种方面，保护要求记载为峨边马铃薯主要为菜用薯,根据产区自然条件,结合周边种薯需求,低山区选用中早熟、休眠期短、薯型好的中薯、坝薯、和川芋系列,高山区选用凉薯系列、会-2等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薯型圆形或椭圆形,表皮光滑、黄皮黄肉或白皮白肉,光泽度好,芽眼较浅,适宜鲜食菜用,香味四溢,口感香甜滑润,风味独特,不易断裂。\n\n产地条件方面，资料写到以黄壤、紫壤为主,pH值5.5~7.5,耕作层深厚,土壤疏松(尽量选择沙田为好),光照好,排灌方便、中等或中上等肥力田块。种植前深耕细耙,精细培土,使土壤疏松。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是冬薯成熟后,应及时收获,收获时尽量避免机械损伤,剔除病、烂、伤、畸形薯,防止薯块被雨淋或长时间日晒,及时分级包装出售。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "峨边彝族自治县",
+      "id": "sw-48e854ce48f28afe3f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "松林桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "松林桃是与四川·德阳·广汉市相联系的地方食材。原料或品种方面，保护要求记载为松林桃系列品种,主要有脆皮桃、晚白桃、皮球桃和油桃系列等。",
+      "detail": "松林桃是与四川·德阳·广汉市相联系的地方食材。原料或品种方面，保护要求记载为松林桃系列品种,主要有脆皮桃、晚白桃、皮球桃和油桃系列等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形大,近圆形,果洼深,果顶凹,缝合线明显,较对称,梗洼深。果肉底色乳黄色,果面着片状红色。果肉乳白色、果顶近皮处微红色。肉质细脆,纤维少,汁液中等,味甜,有香气。核中大、半离核、浅棕黄色。\n\n产地条件方面，资料写到远离工业园区,生态环境良好,空气清新,光照充足,排灌方便,土层深厚,土质疏松肥沃,适宜桃生长的壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当松林桃出现该品种固有特征时适时采收,杜绝生桃上市。成熟期不一致的品种,分期采收。采果以晴天上午6时至11时,下午17点以后为宜,应轻摘轻放,防止碰伤、捏伤、刺伤和摔伤。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "广汉市",
+      "id": "sw-b7c451877ff3699120",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "茂汶苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "茂汶苹果是与四川·阿坝州·茂县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为优先选择瑞雪、瑞香红、秦脆、维纳斯黄金等优良主栽品种。",
+      "detail": "茂汶苹果是与四川·阿坝州·茂县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为优先选择瑞雪、瑞香红、秦脆、维纳斯黄金等优良主栽品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中大,短圆柱形,果面底色黄色,着片状或条状粉红晕,果点小而稀。果顶萼洼窄,较深、有浅的棱状突起,萼片宿存,果柄细。果心较大、种子小、五心室,每室着生1~2粒种子。果肉黄白色,质地脆、味浓,纯甜、有香味,汁液中等。\n\n产地条件方面，资料写到沿岷江河谷地势平坦或背风向阳缓坡地,土层深厚,土壤肥沃,海拔1400~2100m。土壤以暗棕壤、褐土、棕壤为主。土壤有机质含量0.89%~1.73%,平均为1.31%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月下旬开始采收直至11月中旬。根据果实成熟度、用途和市场需求综合确定采收适期。成熟期不一致的品种,应分期采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "茂县",
+      "id": "sw-5d1f32e76191f5b88e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边桑椹",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "盐边桑椹是与四川·攀枝花·盐边县相联系的地方食材。原料或品种方面，保护要求记载为云桑2号、无核大十、长果桑等果桑品种。",
+      "detail": "盐边桑椹是与四川·攀枝花·盐边县相联系的地方食材。原料或品种方面，保护要求记载为云桑2号、无核大十、长果桑等果桑品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实较大,椭圆形;果长1~3cm,果径1cm左右;表面不光滑,黑紫色,色泽稳定,干品仍呈黑紫色;果汁多,甜而带有微酸味。\n\n产地条件方面，资料写到海拔高度1200~1800m。土壤以红黄壤土为主,pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收时间在晴天上午采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐边县",
+      "id": "sw-5c43352cbbb14ba7f5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "丹棱桔橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "丹棱桔橙是与四川·眉山·丹棱县相联系的地方食材。原料或品种方面，保护要求记载为不知火、春见、爱媛、大雅柑等。",
+      "detail": "丹棱桔橙是与四川·眉山·丹棱县相联系的地方食材。原料或品种方面，保护要求记载为不知火、春见、爱媛、大雅柑等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：和。\n\n产地条件方面，资料写到基地土壤应土层深厚,土壤微酸性或中性,pH值5.6~6.8,砂壤土或壤土,质地良好,疏松肥沃,有机质含量不少于1.5%,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鲜销果应根据外在感官特色和理化指标适时采收。\n\n与原料形成有关的生产记录还包括1年生苗高50cm以上,嫁接口以上2cm处主干粗度不少于0.6cm,根系完整,主干直立(倾斜度不超过15°)。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "丹棱县",
+      "id": "sw-53924c297584a7a99c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "射洪金华清见",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "射洪金华清见是与四川·遂宁·射洪市相联系的地方食材。原料或品种方面，保护要求记载为主要栽培品种系特洛维塔甜橙与宫川温州蜜柑的杂交嫁接。",
+      "detail": "射洪金华清见是与四川·遂宁·射洪市相联系的地方食材。原料或品种方面，保护要求记载为主要栽培品种系特洛维塔甜橙与宫川温州蜜柑的杂交嫁接。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实扁球形,果面黄橙色。该品种一般无核,平均单果重200g左右。果皮薄,较易剥离。果肉橙色,囊壁薄,果肉柔软多汁,果汁糖度11~12°左右。成熟期为次年4月上中旬。\n\n产地条件方面，资料写到土壤类型以能排能灌、保水保肥能力强的紫壤土为主;地块选择坡度小于25°,地下水位大于1m的浅丘地台。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工带枝采摘。在7月上中旬至8月下旬选用柑桔专用单层纸袋进行果实套袋,贮藏果可比鲜果采收时间提前7-15天采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "射洪市",
+      "id": "sw-95f133b8c10f07e71a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边西瓜",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "盐边西瓜是与四川·攀枝花·盐边县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以京欣系列为主要品种。",
+      "detail": "盐边西瓜是与四川·攀枝花·盐边县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以京欣系列为主要品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形近圆形,果皮绿色,上覆墨绿色条带或齿带;果整齐均匀;果面光亮,皮薄,瓜瓤鲜红色,果肉松紧适度,无空心,籽粒小,汁多,爽脆,味甜,纤维少。\n\n产地条件方面，资料写到海拔高度1300m左右,产区土壤以沙壤土为主,pH值5.0~6.5,微酸性,有机质含量高。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当西瓜出现该品种固有特征时适时采摘。\n\n与原料形成有关的生产记录还包括当气温稳定在10°C以上,棚内10cm地温稳定在13°C以上时进行移栽,幼苗定植时间为2月上旬,选用嫁接苗,移栽时浇足底水定植株行距为0.7m×1.8~2m,800~1000株/亩。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐边县",
+      "id": "sw-ef7fd0ac74958000d9",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "空山马铃薯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "空山马铃薯是与四川·巴中·巴州区、通江县、南江县、平昌县相联系的地方食材。",
+      "detail": "空山马铃薯是与四川·巴中·巴州区、通江县、南江县、平昌县相联系的地方食材。原料或品种方面，保护要求记载为川芋117号、川芋56号、中薯2号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：空山马铃薯薯型圆形或椭圆形,芽眼中等分布均匀,表皮光滑、光泽度好。适宜鲜食菜用和种薯。口感香甜,不易断裂。\n\n产地条件方面，资料写到海拔高度268~2507m,产区土壤疏松透气、耕作层深厚、富含有机质、肥力水平高、排水良好,土壤pH值6.5~7.8。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "巴州区、通江县、南江县、平昌县",
+      "id": "sw-c54a3d5b078e9cf216",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "黑竹沟藤椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黑竹沟藤椒是与四川·乐山·沙湾区、金口河区、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市相联系的地方食材。",
+      "detail": "黑竹沟藤椒是与四川·乐山·沙湾区、金口河区、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市相联系的地方食材。原料或品种方面，保护要求记载为四川省林木品种委员会认定的本地藤椒品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实油腔多且有光泽,其味芬芳易挥发,口感香麻。要求花椒成熟度达到八成熟左右;鲜绿色或黄绿色;具有鲜花椒固有的滋味和气味,无异味。\n\n产地条件方面，资料写到海拔400~1000m左右,土壤pH值5.5~7.5的黄壤、紫色土均适宜种植。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期为6月至9月,果实生长期为绿色,成熟转黄。采摘期从6月开始,7月中旬至8月上旬为盛收期,终期9月上旬。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "沙湾区、金口河区、沐川县、峨边彝族自治县、马边彝族自治县、峨眉山市",
+      "id": "sw-4ef8356aad6fc28607",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "开江麻鸭",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "开江麻鸭是与四川·达州·开江县相联系的地方食材。原料或品种方面，保护要求记载为选择开江地区生产的麻鸭为父母本,进行纯繁饲养。",
+      "detail": "开江麻鸭是与四川·达州·开江县相联系的地方食材。原料或品种方面，保护要求记载为选择开江地区生产的麻鸭为父母本,进行纯繁饲养。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型较小,体型修长,体质坚实紧凑,羽毛紧密,颈部细长,喙呈橙黄色,喙豆多为黑色;胸部突出,胫蹼桔红色。母鸭羽毛较杂,以麻褐色居多,麻褐色母鸭的体躯,臀部的羽毛均以浅褐色为底,上具黑色点斑,黑色点斑由头向体躯后部逐渐增大,颜色加深。\n\n产地条件方面，资料写到水源充足,水质清洁、无污染物和有害物质;周边无交通要道、工厂、居民区等嘈杂和污染区域;鸭舍内应具有良好的通风和保温功能,屋顶应有隔热层,地面需硬化。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "开江县",
+      "id": "sw-bba826a6f0266d26bd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "万源老腊肉",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "万源老腊肉是与四川·达州·万源市相联系的地方加工食品。原料或品种方面，保护要求记载为要求在农历小雪至大雪末期,选用保护区内养殖时间8-10个月,屠宰体重90~120kg的肉猪(品种主要为二元或内三元杂交),全猪膘厚1.5~2.5cm,瘦肉率在50%~60%左右。",
+      "detail": "万源老腊肉是与四川·达州·万源市相联系的地方加工食品。原料或品种方面，保护要求记载为要求在农历小雪至大雪末期,选用保护区内养殖时间8-10个月,屠宰体重90~120kg的肉猪(品种主要为二元或内三元杂交),全猪膘厚1.5~2.5cm,瘦肉率在50%~60%左右。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：成品呈黄褐色或酱红色,有光泽;清洗后皮色金黄,脂肪表面为高黄色;切面为透亮色,肉面光滑油润,肌肉切面呈深玫瑰色,肉身干爽、结实。煮(蒸)熟后,入口即化,咸淡适中,香味醇浓、回味悠长、韧而脆,具有特有的重香味和腊香味,回味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料选择→屠宰分割→配料选择→腌制→晾挂→烟熏烘烤与干燥→清理→包装入库。\n\n产地条件方面，资料写到在农历小雪至大雪末期,选用保护区内养殖时间8-10个月,屠宰体重90~120kg的肉猪(品种主要为二元或内三元杂交),全猪膘厚1.5~2.5cm,瘦肉率在50%~60%左右。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "万源市",
+      "id": "sw-99583fa1baf2be2f41",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "汉源雪梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "汉源雪梨是与四川·雅安·汉源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为汉源雪梨。",
+      "detail": "汉源雪梨是与四川·雅安·汉源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为汉源雪梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形大,倒卵圆形;果皮绿黄色、光滑、有蜡质,果点褐色、小、较密;果梗长,梗洼狭小、周围有褐色锈斑;萼片脱落或宿存,萼洼浅;果肉白色,果心较小,肉质较细、松脆,石细胞少,汁多、味甜、具香味。品质上等。\n\n产地条件方面，资料写到选择海拔高度900~1200m范围内,土壤肥沃、有机质丰富、空气清新、水源充足、水质洁净、排灌方便。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当套袋果果皮颜色达到亮黄褐色至金黄褐色、未套袋果达到黄褐色、种子变为黑褐色至黑色时方能采收,人工采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "汉源县",
+      "id": "sw-7a25eeebeb9a8cbf25",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "西凤脐橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "西凤脐橙是与四川·南充相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择早熟丰产、商品性好、适宜当地环境的优良品种。",
+      "detail": "西凤脐橙是与四川·南充相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择早熟丰产、商品性好、适宜当地环境的优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中大,倒卵圆或椭圆形,端正整齐。果皮橙红色、中厚,多闭脐,较易剥皮。果肉橙色,脆嫩化渣,多汁,富香气,酸甜适中,风味浓,无核。\n\n产地条件方面，资料写到土壤以红棕紫泥土为主,pH值6.8~7.3,中性至微碱性,土壤肥力较高,磷、钾等矿物质含量丰富。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在12月中下旬果实充分成熟后实行采收。采后处理包括采收、运输、浸药、打蜡、预贮、分级分组、贮藏、包装、粘贴内外标签、销售等环节。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "南充相关产区",
+      "id": "sw-a17ff684d1c936a127",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "米易苦瓜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "米易苦瓜是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为绿秀、长白等品种。",
+      "detail": "米易苦瓜是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为绿秀、长白等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：长35~50cm,最长可达70cm,横径5.5~6.6cm,瓜果长圆筒型,表面瓜瘤突起明显,瓜瘤呈条状,商品瓜乳白色,富有光泽,肉质脆嫩,苦味适中,口感好。\n\n产地条件方面，资料写到海拔988~1300m。土壤主要为潮沙泥,pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括一般在10月中下旬至12月上旬采用大棚保护栽培。定植前6-7天逐步揭开育苗拱棚炼苗,4片真叶时带土定植,每亩2000~2400株。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "米易县",
+      "id": "sw-8818dbb97b98a79cdb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "米易山药",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "米易山药是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为花籽山药、米易紫山药等品种。",
+      "detail": "米易山药是与四川·攀枝花·米易县相联系的地方食材。原料或品种方面，保护要求记载为花籽山药、米易紫山药等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：个大硕长,表皮光滑,呈黄褐色或淡黄色,上深下浅;长纺锤形,毛少而短,须根中等;长1m左右,最大直径6cm;断层白色,有淀粉粒;无气味;质地脆嫩,味甜而不带麻味,无涩味,有黏性,单株块茎重2~2.5kg,大者可达8~10kg。\n\n产地条件方面，资料写到海拔不超过1600m,土壤以赤红壤、山地红壤、山地黄壤为主,pH在5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与贮运11月下旬至次年3月,选晴天采收山药。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "米易县",
+      "id": "sw-98c96c5ac587e58032",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新都柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新都柚是与四川·成都·新都区相联系的地方食材。原料或品种方面，保护要求记载为新都柚。",
+      "detail": "新都柚是与四川·成都·新都区相联系的地方食材。原料或品种方面，保护要求记载为新都柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实小,卵圆形;果顶平,柱点微凹,有印圈;果基部较圆;果皮淡黄色,皮薄、光滑,油胞密生、微凸;海绵层白色,中心柱中大、半充实;囊瓣肾形,较整齐,囊衣白色、易剥离;汁胞较细,果肉白色、细脆、果汁中等,酸甜适口,风味浓,品质上等。\n\n产地条件方面，资料写到海拔472~584m,土壤以油砂土为主,pH值6.0~7.0,物理性能良好,土层深厚肥沃、排水、透气及保水力良好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采果时采用“一果两剪法”,即先剪留果柄1~3cm,然后在果柄齐果肩处剪平。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "新都区",
+      "id": "sw-73768c0e826d1f5ce1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "云桥圆根萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "云桥圆根萝卜是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为选择外观美、品质好、抗病虫、商品性好的本地品种,种子选用上年原种地单株的种子播种。",
+      "detail": "云桥圆根萝卜是与四川·成都相联系的地方食材。原料或品种方面，保护要求记载为选择外观美、品质好、抗病虫、商品性好的本地品种,种子选用上年原种地单株的种子播种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉质根大小均匀、扁圆形、无分叉,表皮白色、肩部微绿、底部乳白、细腻光滑,无皱缩、凹凸等;肉质致密、脆嫩、多汁、回甜、无辣味,无糠心。品质上等。\n\n产地条件方面，资料写到选择耕层深厚、富含有机质、肥力较高、能防旱防渍、排灌方便的基地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工1.11月下旬肉质根膨大时即可采收(每窝留2苗的,11月上旬可先收一棵),多数个体0.4~1.0kg,到12月至翌年1月,大型个体可达2kg以上。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "成都相关产区",
+      "id": "sw-aba3de76248768ecd6",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "大罗黄花",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大罗黄花是与四川·巴中·巴州区相联系的地方食材。原料或品种方面，保护要求记载为大罗七根须黄花。",
+      "detail": "大罗黄花是与四川·巴中·巴州区相联系的地方食材。原料或品种方面，保护要求记载为大罗七根须黄花。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大罗黄花色泽黄润,条形均匀一致,肉质滋润、肥硕,弹性强,油分大,香气纯正、浓郁,味道微甜、鲜脆,无异味。\n\n产地条件方面，资料写到海拔300~1460m,土壤以水稻土和紫色土为主,pH值6.5~8.0,中性和微酸性,土壤发育较浅,肥力较好,有机质含量高。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月上旬至7月中旬,黄花菜发育到5cm以上,花蕾顶部呈黄褐色,中部呈青褐色时采摘。\n\n与原料形成有关的生产记录还包括(1)切茎繁殖:将种植三年以上的植株整株挖出,割去叶片,切根保留1~2cm,将短缩茎切成6~10块集中良繁。(2)分株繁殖:将种植五年以上的植株整株挖出,按分蘖分株,切除肉质根和老根,集中良繁。加强栽培管理,培育健壮植株。放养七星瓢虫,有效控制蚜虫、红蜘蛛危害。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "巴州区",
+      "id": "sw-4e6729aeff9771d243",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "大罗黄花"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "九寨沟蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "九寨沟蜂蜜是与四川·阿坝州·九寨沟县相联系的地方食材。原料或品种方面，保护要求记载为阿坝蜜蜂(中蜂)亚种下的一个特殊生态型—九寨沟中蜂(民间俗称“土蜂”)所产天然成熟蜂蜜。",
+      "detail": "九寨沟蜂蜜是与四川·阿坝州·九寨沟县相联系的地方食材。原料或品种方面，保护要求记载为阿坝蜜蜂(中蜂)亚种下的一个特殊生态型—九寨沟中蜂(民间俗称“土蜂”)所产天然成熟蜂蜜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蜂蜜粘稠如凝脂状,无杂质,金黄或琥珀色,气味清香,味道鲜美,甜润不腻,具有党参、椴树、益母草等蜜源植物特有的花香味。\n\n采收或收获环节的记录是一年只取蜜一次,在中秋节前后,所产蜂蜜含水低,浓度高,色彩金黄或琥珀色,气味芳香,味道甜润,在原木蜂巢内经过蜜蜂长期酿造成熟并封盖保存。\n\n与原料形成有关的生产记录还包括采用原木蜂巢饲养技术,蜂巢置放于天然岩洞、野外山坡、房前屋后等处,不轻易移动。根据蜂场所在地气候特点进行蜂巢内外保温,适时用蜂蜜进行奖饲,促进蜂群繁殖。夏季管理:定期检查蜂群,加强通风。采用遮荫为蜂群生产和繁殖创造适宜温度、湿度条件。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "九寨沟县",
+      "id": "sw-7bc17f7aeeb6f2a7a0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "中坝草莓",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "中坝草莓是与四川·攀枝花·仁和区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为本地品种。",
+      "detail": "中坝草莓是与四川·攀枝花·仁和区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为本地品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形大、纺锤形;萼片大、反卷;果面鲜红色、有光泽,种子黄色、微凹;髓心白色、中空;果肉粉红色、肉质细、致密;味浓、酸甜适口,有香气,汁液较多。\n\n产地条件方面，资料写到海拔不超过1600m,土壤以水稻土、赤红壤、黄棕壤为主,土质粘壤到砂壤,有机质含量高,矿质元素含量丰富,土壤pH值6.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与贮藏1.采收时间。从11月至次年3月底。2.贮藏。应置通风、凉爽、洁净处存放,冷库贮藏。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "仁和区",
+      "id": "sw-4a779b8173b5cfd31a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "汉源樱桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "汉源樱桃是与四川·雅安·汉源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为汉源樱桃。",
+      "detail": "汉源樱桃是与四川·雅安·汉源县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为汉源樱桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大,单果重3~6g。果实近圆形,果个整齐,梗洼较浅,果梗短,果顶较平,缝合线不明显。果实鲜艳,有“玛瑙”之称,果面光滑,色泽鲜艳,果皮细薄、光滑,果肉密黄色,细嫩柔软。果核处颜色近红。果汁浓多,味甜,品质佳,被誉为“果中珍品”。\n\n产地条件方面，资料写到选择海拔高度900~1200m范围内,土壤肥沃、有机质丰富、空气清新、水源充足、水质洁净、排灌方便。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是汉源樱桃成熟期早,每年4月中旬开始采收,采收根据果实成熟度、用途和市场需求综合确定采收适期。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "汉源县",
+      "id": "sw-668b851a6aead3587b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "任市板鸭",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "任市板鸭是与四川·达州·开江县相联系的地方加工食品。原料或品种方面，保护要求记载为要求选择产地范围内当年10月至次年3月养殖的饲养周期60天以上、体重在1.25~1.5kg之间的健康无病本地麻鸭为原料,应符合相关标准规定。",
+      "detail": "任市板鸭是与四川·达州·开江县相联系的地方加工食品。原料或品种方面，保护要求记载为要求选择产地范围内当年10月至次年3月养殖的饲养周期60天以上、体重在1.25~1.5kg之间的健康无病本地麻鸭为原料,应符合相关标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：色泽黄亮;切面为红褐色,质地结实,肉质纹路清晰。蒸熟后,入口即化,咸淡适中,肉质有韧劲,香味醇浓、回味悠长、具有特有的熏香味,回味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料选择→屠宰放血→拔毛去杂→拔血整形→配料选择→腌制→排坯→烟熏烘烤与干燥→清理→包装入库。\n\n产地条件方面，资料写到选择产地范围内当年10月至次年3月养殖的饲养周期60天以上、体重在1.25~1.5kg之间的健康无病本地麻鸭为原料,应符合相关标准规定。(二)辅料要求食用盐、白酒。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "开江县",
+      "id": "sw-7d3cf7bc356a824e61",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "西坝生姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "西坝生姜是与四川·乐山·五通桥区相联系的地方食材。原料或品种方面，保护要求记载为竹根姜。",
+      "detail": "西坝生姜是与四川·乐山·五通桥区相联系的地方食材。原料或品种方面，保护要求记载为竹根姜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：西坝生姜其外观晶莹如玉,形如美女“纤纤玉手”,姜上有节,嫩芽和茎节部鳞片呈紫红色,有如玲珑雕塑,娇艳可爱。叶片象竹叶,肉质细嫩,纤维少,独具肉厚、味浓、脆爽、无筋的特点。\n\n产地条件方面，资料写到排灌方便,土层深厚、疏松、富含有机质;土壤类型为砂土、壤土或黏土;土壤pH值5.0~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是白露前后开始采收,设施条件下栽培可在5月底至6月初采收。\n\n与原料形成有关的生产记录还包括3月下旬至4月上中旬,设施保护地条件下可提早到2月下旬至3月上旬定植。苗高13~16cm时,在畦面搭1~1.2m高荫棚。出苗时结合浇水浅中耕1~2次,定植3-4天后间隔30-40天除草3次。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "五通桥区",
+      "id": "sw-6d6fb854d590a96a3c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "黑水凤尾鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黑水凤尾鸡是与四川·阿坝州·黑水县相联系的地方食材。原料或品种方面，保护要求记载为当地的独特品系。",
+      "detail": "黑水凤尾鸡是与四川·阿坝州·黑水县相联系的地方食材。原料或品种方面，保护要求记载为当地的独特品系。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)活体鸡:具有体型小,匀称紧凑,头昂尾翘,尾羽和翼羽发达的特征。体型呈船型,头部清秀,公鸡冠长直立,冠齿4~6个,冠为红色单冠,母鸡冠平整直立。肉垂红色,喙多呈黑色、颈部长,腿细长呈黑色,公鸡飞趾长、尖(40周约为2cm)。\n\n产地条件方面，资料写到放养场地选择在海拔2300m以上的草场与森林过渡地带,在背风向阳、地势高燥、排水良好,环境安静的草场和森林边缘搭建鸡舍。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括放养在海拔2300m以上半农半牧区的草场与森林过渡地带。通常情况下放养时间不少于150天,饲养周期不少于200天。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "黑水县",
+      "id": "sw-7afd03ff0f47e10d33",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "平武果梅",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "平武果梅是与四川·绵阳·平武县相联系的地方食材。原料或品种方面，保护要求记载为抗病性、抗逆性较强、符合加工要求的本地优良品种。",
+      "detail": "平武果梅是与四川·绵阳·平武县相联系的地方食材。原料或品种方面，保护要求记载为抗病性、抗逆性较强、符合加工要求的本地优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：平武果梅果实中等大小,圆形或短椭圆形;果面黄绿色,有绒毛,阳面略带红晕,缝合线浅,两半对称;果顶平,梗洼中等深度;果肉绿黄色、脆、粘核;种子中等大小,风味酸,有香气。\n\n产地条件方面，资料写到坡向向南或向东南,缓坡或坡度25°以下的山坡地,土层深厚,土质疏松,土壤pH值5.5~7.5,有机质含量1.5%以上,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工加工青梅干、糖青梅等宜绿熟期采收;加工乌梅干、梅酒、梅酱及留种,在果实充分成熟时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "平武县",
+      "id": "sw-ce4156e17bf0d39ca8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "嘉州荔枝",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "嘉州荔枝是与四川·乐山·市中区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为大红袍、糯米糍、妃子笑、带绿、绛沙兰、楠木叶、大红梨、青州红、仙进奉等。",
+      "detail": "嘉州荔枝是与四川·乐山·市中区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为大红袍、糯米糍、妃子笑、带绿、绛沙兰、楠木叶、大红梨、青州红、仙进奉等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：嘉州荔枝果实中等大小、心形,果肩平;龟裂片明显,峰突起;果皮薄、鲜红色;果肉蜡白,肉质厚、脆嫩,有透明感;味浓甜,有微香,果汁中等;果核中等大小,长椭圆形。\n\n产地条件方面，资料写到土壤为微酸性紫色土,有机含量丰富,pH值6.0,呈微酸性。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采收,果皮基本转红,龟裂纹带嫩绿色或黄绿色,内果皮仍白色时即可采收。\n\n与原料形成有关的生产记录还包括灌水:秋梢抽生期、花芽分化期、花穗抽生期、盛花期、果实生长发育期时如遇干旱宜及时灌水,灌水量达到田间最大持水量的60%~70%。幼树整形修剪:定干高度40~60cm,选留主枝3~4条。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "市中区",
+      "id": "sw-bc13f907e28b0afe66",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "峰城玉米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "峰城玉米是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为高产良种:成单3601、成单716、正红325等产量高、抗性好,品质优的玉米新品种。",
+      "detail": "峰城玉米是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为高产良种:成单3601、成单716、正红325等产量高、抗性好,品质优的玉米新品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：具有玉米固有的颜色光泽和气味,籽粒饱满,千粒重高(含水28%时不少于425g,含水14%时不少于350g)。\n\n产地条件方面，资料写到选择大气清新、灌排方便、土壤肥沃的地块。按167cm半开规范留行,80cm内播种马铃薯等小春作物,88cm作为来年玉米种植预留行。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当玉米苞叶全黄,籽粒水分含量在20%以内时,抢时收获,及时脱粒晾晒,归仓贮藏。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-26807e9c3c8052b64f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪矮晚柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蓬溪矮晚柚是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为选用适应性广、抗逆性强、抗病能力强、优质丰产、特晚熟错季节的品种—蓬溪矮晚柚。",
+      "detail": "蓬溪矮晚柚是与四川·遂宁·蓬溪县相联系的地方食材。原料或品种方面，保护要求记载为选用适应性广、抗逆性强、抗病能力强、优质丰产、特晚熟错季节的品种—蓬溪矮晚柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮薄,果子大,不开裂,肉质细嫩,多汁化渣,酸甜适度,香气浓郁。\n\n产地条件方面，资料写到选择光照充足,排灌方便,远离工业污染源,具有良好生态环境的地区。土质肥沃、深厚疏松的地块。pH值6.5~8.5,土壤颗粒较大,粘性较小,结构松散,保水性差,透气性好,矿质养分较为丰富。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据果实成熟度和市场需求,按照采摘计划,掌握好采摘技术,适时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-6baa06f3a7e2510c97",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "小金苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "小金苹果是与四川·阿坝州·小金县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金冠、红星。",
+      "detail": "小金苹果是与四川·阿坝州·小金县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为金冠、红星。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中大,近圆锥形,高桩,果面具6~6棱起;果皮绿黄色、较薄,阳面着红晕,果点稀、较明显,果面光洁无锈,具蜡质;果洼较深,有果锈,呈放射状分布,梗洼较深;萼洼中深,萼片宿存;果肉淡黄色,果心小,肉质脆,果汁较多,酸甜适中,风味浓,具香气。品质上等。\n\n产地条件方面，资料写到最高海拔6250m,最低海拔1750m,高差4000余气候、土壤、植被立体特征明显。土壤以山地灰化土和山地褐色土为主,质地为砂土和轻壤土,pH值7.3~8.6,水层深厚,排水良好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据果实成熟度、用途和市场需求综合确定采收适期。成熟期不一致的品种,应分期采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "小金县",
+      "id": "sw-1bb83b224e58c27119",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "小金酿酒葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "小金酿酒葡萄是与四川·阿坝州·小金县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为梅鹿辄、赤霞珠。",
+      "detail": "小金酿酒葡萄是与四川·阿坝州·小金县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为梅鹿辄、赤霞珠。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果穗圆锥形,中等大,穗梗较短,果粒紧密、均匀,果柄短,果粒圆形、小,果粉厚,果皮紫黑色、中厚、韧、微涩,果肉浅黄色,肉质软,风味浓甜,汁多,有香气,种子1~2粒。\n\n产地条件方面，资料写到海拔2300~3000m、排灌方便、土层深厚、砾质丰富疏松的地块。气候四季分明,日温差大,冬长夏短,冬暖夏凉。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是应根据不同品种的成熟时间及酿酒对葡萄质量的要求,进行测糖测酸,充分成熟时分批采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "小金县",
+      "id": "sw-d43ed03c7887ee933b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边桑蚕茧",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "盐边桑蚕茧是与四川·攀枝花·盐边县相联系的地方器物与工艺原料。",
+      "detail": "盐边桑蚕茧是与四川·攀枝花·盐边县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为桑蚕品春季和晚秋季选用箐松×皓月、871×872,晚春及夏秋季选用夏芳×秋白、7532。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茧形大且匀整,茧层厚实、茧色洁白、茧衣蓬松、外观无污物,以质量好,品质优而闻名国内外。\n\n产地条件方面，资料写到1.盐边桑蚕茧要求海拔高度1200~1600m之间。2.每年3月至10月份根据气候环境条件和饲养技术分季选适宜的蚕品种进行出库饲养。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据当地气候和环境条件,春夏季蚕茧在上蔟后5-6天左右,秋蚕在上蔟后6-7天,检查化蛹后采茧,并进行分级后用箩筐或竹篓盛放进行销售。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐边县",
+      "id": "sw-df14f48bcbe3bff8e4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "达川安仁柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "达川安仁柚是与四川·达州·达川区相联系的地方食材。原料或品种方面，保护要求记载为本地选育品种达川安仁柚。",
+      "detail": "达川安仁柚是与四川·达州·达川区相联系的地方食材。原料或品种方面，保护要求记载为本地选育品种达川安仁柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中型,扁圆形;果顶广平,柱点凹;果基部稍窄,有放射状浅沟;果皮较薄、黄色、光滑,油胞中大、微凸,香气浓郁。海绵层白色,中心柱中大、充实;囊瓣肾形,不整齐,囊衣白色;果肉蜜黄色,汁胞较短、紧密、细嫩多汁,味甜较浓,尾味略带轻微苦麻味。品质优良。\n\n产地条件方面，资料写到交通水利条件方便的平地或缓坡地建园,园地土质疏松、肥沃、微酸性,生态环境良好,空气清新,不受工业污染。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收时间必须为11月中下旬至12月上旬,不宜过早采收。采收采用两剪法,讲究精细采果,轻拿轻放,防止机械损伤。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "达川区",
+      "id": "sw-4207ad4ada28a71a41",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "千佛竹根姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "千佛竹根姜是与四川·南充·阆中市相联系的地方食材。原料或品种方面，保护要求记载为选择具有很强的适应性和抗逆性、生育期适中、分蘖能力强、产量高、品质好的地方优良品种——千佛竹根姜。",
+      "detail": "千佛竹根姜是与四川·南充·阆中市相联系的地方食材。原料或品种方面，保护要求记载为选择具有很强的适应性和抗逆性、生育期适中、分蘖能力强、产量高、品质好的地方优良品种——千佛竹根姜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：嫩姜分枝较多,呈不规则掌状,相互交错,形如竹根;表皮黄白色,麟片浅紫红色;平均茎长20cm以上,节间较长;嫩姜肉质细嫩,纤维较少,脆而不辣。商品性好,加工适应性强。\n\n产地条件方面，资料写到土壤深厚肥沃的沙壤土,pH6.5~7.8。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采收。采收嫩姜在8月下旬至9月中旬、老姜和种姜在10月下旬霜降节气前后采收。选择晴天、土壤湿度较小时仔细收挖,轻运装,无机械损伤。2.储存。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "阆中市",
+      "id": "sw-f0e429902b4f82220d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "恩阳芦笋",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "恩阳芦笋是与四川·巴中·恩阳区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为格兰德、丰岛二号、特利龙、翡翠明珠。",
+      "detail": "恩阳芦笋是与四川·巴中·恩阳区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为格兰德、丰岛二号、特利龙、翡翠明珠。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：嫩茎顺直,呈浅绿色,平均长约22cm,基部粗1~2cm,平均单茎重约15g;鳞芽群长约2.5cm,青绿色;肉绿白色,无空心,组织细腻,脆嫩回甜,气味清香。\n\n产地条件方面，资料写到海拔500m以上,土壤类型为褐色壤土,土层厚度不少于20cm,土壤有机质含量不少于2%,土壤pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每天上午9-11时前采收。工具主要是采笋刀和采笋箱。采收方法是用采笋刀将长约20~30cm的嫩茎沿地面割下,直径5mm以下的细茎和生长弯曲的畸形茎也要及时割除。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "恩阳区",
+      "id": "sw-c10f14844fa0e5bea2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "双流永安葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "双流永安葡萄是与四川·成都·双流区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜的高产、优质、抗病性强的葡萄品种。",
+      "detail": "双流永安葡萄是与四川·成都·双流区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为适宜的高产、优质、抗病性强的葡萄品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果穗大,长圆锥形,穗形松散,穗梗长。果粒长圆形、较大,果皮深红色、较厚,与果肉不易分离,果粉均匀,果柄较短。果肉微透明、白色,肉质脆硬,风味浓甜、无香味,汁液少,种籽3~5粒。晚熟,耐贮运,品质上等。\n\n产地条件方面，资料写到择地势平坦或坡度适宜、排水良好、土壤疏松肥沃、富含有机质且无污染的地块作为葡萄园。确保园地具备便捷的交通和充足的水源,便于日常管理和果实运输。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是选择晴朗天气的早晚进行采收,避免高温和雨水对果实造成损伤。采收时轻拿轻放,避免机械损伤和擦掉果粉。成熟度一致的果实应分批采收,确保果实品质和口感。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "双流区",
+      "id": "sw-b8654ea0a015ebaaf9",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "黑水大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黑水大蒜是与四川·阿坝州·黑水县相联系的地方食材。原料或品种方面，保护要求记载为紫皮大蒜。",
+      "detail": "黑水大蒜是与四川·阿坝州·黑水县相联系的地方食材。原料或品种方面，保护要求记载为紫皮大蒜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蒜头外皮紫色、扁球形,纵径4cm左右,横径6cm左右,平均单头重70g;蒜瓣8~13瓣,饱满,多单轮排列,抱握中心轴紧密度中等;肉质白色、油润细腻、致密,蒜香味浓、辛辣。\n\n产地条件方面，资料写到产区属高半山,海拔2400~3000m。产区土壤以沙壤土为主,pH值6.5~7,有机质含量高,富含硅、锌、铁、硒等微量元素,土壤肥沃,土质疏松。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是一般在7月中旬至8月初收获蒜苔,要在早晨趁有露水时进行。收苔期间停止灌水。收获后,一般每隔5-7天浇一次水,底肥不足的地块,可结合浇水,每亩再追施硫铵15kg,以促进蒜瓣迅速膨大。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "黑水县",
+      "id": "sw-748070ed61785c011a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "乐至黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乐至黑山羊是与四川·资阳·乐至县相联系的地方食材。原料或品种方面，保护要求记载为川中黑山羊(乐至型)。",
+      "detail": "乐至黑山羊是与四川·资阳·乐至县相联系的地方食材。原料或品种方面，保护要求记载为川中黑山羊(乐至型)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：全身毛被黑色,富有油亮光泽。体型大,背腰平直,鬐甲高于十字部。头呈三角形,耳较大,四肢粗壮,蹄质坚实呈黑色。鲜皮面积大,板皮结构致密,富有弹性,厚薄均匀。肉色红润,肌纤维致密,肉质细嫩,具有山羊肉特有的香味。煮熟后,口感细嫩,鲜香不腻,无膻味。\n\n产地条件方面，资料写到气候温和,雨量充沛,林木茂密,饲草丰富。海拔高度297~596m,年均气温16.6°C,年均无霜期297天,年均日照1330小时,年均降雨量890mm,年均相对湿度80%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "乐至县",
+      "id": "sw-1723e3638b8f10eb88",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "乐至黑山羊"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "隆兴大米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "隆兴大米是与四川·成都·崇州市相联系的地方食材。原料或品种方面，保护要求记载为优质、高产、抗病、抗倒伏、适宜性广的水稻新品种,如宜香优2115、川优6203等。",
+      "detail": "隆兴大米是与四川·成都·崇州市相联系的地方食材。原料或品种方面，保护要求记载为优质、高产、抗病、抗倒伏、适宜性广的水稻新品种,如宜香优2115、川优6203等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：垩白粒少,垩白度低,米饭气味正常,口感软硬适中,可咀嚼性好,米粒完整性较好,有光泽,饭香味浓郁。\n\n产地条件方面，资料写到产地生态环境良好、无污染、远离工矿区,土壤保水力强、水源条件好、田块平整、向阳、进排水方便的田块。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年9月初至10月底,水稻成熟后应及时收割、烘干。烘干后水份不高于13.5%,稻田综合种养区的稻谷与其他稻谷分类存放。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "崇州市",
+      "id": "sw-b219f686a139aeb299",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂黄金果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂黄金果是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为黄金果柑橘。",
+      "detail": "金堂黄金果是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为黄金果柑橘。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实中等大小,卵圆形至椭圆形,果皮黄色。蒂部有放射沟纹,部分果顶有印圈。果皮较薄,油胞细密,有柚香,易剥皮。果肉黄色,囊瓣梳形,中心柱空,果肉细嫩,汁多化渣,无核,风味微酸、略带苦味,具清香味。\n\n产地条件方面，资料写到土壤类型为砂质壤土,土壤pH值6.5~7.5,有机质含量平均为15.2g/kg。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鲜果销售,11月中旬至12月中旬采收,当植株上的大多数浆果果皮变为金黄色时,方可采收。采果时轻拿轻放,防止机械损伤。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "金堂县",
+      "id": "sw-19f981461992baf517",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "三元油桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "三元油桃是与四川·成都·青白江区相联系的地方食材。原料或品种方面，保护要求记载为锦春、玫瑰红。",
+      "detail": "三元油桃是与四川·成都·青白江区相联系的地方食材。原料或品种方面，保护要求记载为锦春、玫瑰红。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：早熟品种(锦春):果皮底色黄,着红色,果肉橙黄色,硬溶质,果肉脆,味浓;中熟品种(玫瑰红):果皮紫红色,果肉白色,果肉脆,风味酸甜,品质上等。\n\n产地条件方面，资料写到产地土壤的pH值在6.5~7.5之间,能排能灌,土壤有机质不少于1%,土壤多为页岩土。土层深厚(60cm),地下水位低于100cm,土壤疏松肥沃,排水透气良好,以砂质土和壤质土为主。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。\n\n与原料形成有关的生产记录还包括根据品种特性、树龄、生育时期、土壤、气候条件、栽植方式和密度而异,树形采用“Y”字形或三主枝自然开心形整形。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "青白江区",
+      "id": "sw-e04434ee2d446768f4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "三元油桃"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛崃猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "邛崃猕猴桃是与四川·成都·邛崃市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳。",
+      "detail": "邛崃猕猴桃是与四川·成都·邛崃市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形美观整齐,为短圆柱形,果皮绿褐色,果面清秀光滑;横剖面沿果心部位有放射状鲜红色,果心小,果汁香甜清爽,味甜,细嫩多汁、香气浓郁,风味纯正。\n\n产地条件方面，资料写到海拔600~1200m之间,土壤类型为紫色土或黄壤,土壤有机质含量不少于1.5%;pH值5.5~6.8;耕作层不少于30cm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月下旬至9月下旬适合采收。\n\n与原料形成有关的生产记录还包括选用当地野生猕猴桃作砧木,嫁接繁育。定植密度每亩不超过111株。二是疏除枝背上直立生长的花蕾。生长健壮的长果枝留4~5个果,中庸的结果枝留2~3个果,短结果枝留1~2个果,叶果比(5~8)∶1,成龄园每平方米30~50个果。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-223d3f5a2e56f1646f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "天全竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "天全竹笋是与四川·雅安·天全县相联系的地方食材。原料或品种方面，保护要求记载为以方竹为主,还有少部分的罗汉竹。",
+      "detail": "天全竹笋是与四川·雅安·天全县相联系的地方食材。原料或品种方面，保护要求记载为以方竹为主,还有少部分的罗汉竹。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：以方竹笋为主,有少量罗汉竹笋。罗汉竹笋:带箨长25~35cm,基部横径1.5~2.5cm,去萚后笋长15~25cm,横隔较稀,肉质黄绿色,笋箨基部褐色带花纹,顶部深绿色,表皮有少量绒毛,口感脆嫩、清香。\n\n产地条件方面，资料写到选择水质、土壤无污染、自然环境优良、交通便利地区。以海拔1500~2400m之间,坡度平缓不易积水的地形为主。土壤选择结构较好、土层深厚肥沃、疏松透气的黄壤土,pH值在4.0~7.0之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与加工竹笋的采收期比较长,从8月中旬至11月。土壤深厚的,竹笋出土20cm后,即可采收。采用特制竹笋采收工具进行采收,不要伤害竹鞭和笋芽。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "天全县",
+      "id": "sw-38363f7457423cb134",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "涪城芦笋",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "涪城芦笋是与四川·绵阳·涪城区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为2000~3F1、丰岛2号、T4等。",
+      "detail": "涪城芦笋是与四川·绵阳·涪城区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为2000~3F1、丰岛2号、T4等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：涪城芦笋长度25~32cm,横径1.0cm以上。春笋较长,秋笋稍短,笋皮绿色,薄,蜡质层薄,基部浅紫色,鳞芽头紧密。肉质绿白色、清香、脆嫩,粗纤维含量少。\n\n产地条件方面，资料写到地势平坦、土壤肥沃、有机质含量高,排灌方便,相对地势较高,通风向阳,空气新鲜,周边无工厂、重金属等污染源。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是芦笋长度25~40cm时采收,每日一次。采收后统一运至仓库进行分级、清洁、包装。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "涪城区",
+      "id": "sw-4001961ecf21ee27b8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新都大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "新都大蒜是与四川·成都·新都区相联系的地方食材。原料或品种方面，保护要求记载为新都大蒜。",
+      "detail": "新都大蒜是与四川·成都·新都区相联系的地方食材。原料或品种方面，保护要求记载为新都大蒜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蒜头呈短圆锥形,外皮淡紫色,单头重25g左右。每头13瓣左右,多为3~4层排列,蒜瓣多为弯曲形,瓣衣两层,紫色,紧包蒜瓣,不易剥离。辛辣味浓烈。\n\n产地条件方面，资料写到一般选择地势平坦、通气性好、排灌方便、土地宜疏松、土壤肥沃、光照充足、温度适宜且集中连片的土地。同时选择生态条件好,产区内无工矿企业和医院等污染单位对农业环境造成污染的地区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。\n\n与原料形成有关的生产记录还包括新都区当地农民自留种,选种要求是纯白无红筋、无伤痕、无糖化、无光皮,原则要求每粒重量5g左右。作青蒜苗栽培时,苗期一般连续追肥2~3次。作蒜头栽培时,在苗高4cm左右时,进行第一次追肥,在11月进行第二次追肥,到第二年的2月上旬中旬进行第三次追肥,以视植株生长情况再进行追肥。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "新都区",
+      "id": "sw-9925a66fed1cf3e98e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "盐亭桑叶",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "盐亭桑叶是与四川·绵阳·盐亭县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为隔夜桑及现行主推桑树品种。",
+      "detail": "盐亭桑叶是与四川·绵阳·盐亭县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为隔夜桑及现行主推桑树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：盐亭桑叶叶形心脏型或卵圆形,节间较密,芽型饱满,叶片肥厚,叶色深,叶面蜡质层较厚。\n\n产地条件方面，资料写到土壤以紫泥土和水稻土为主,pH值6~8,有机质含量高,含钙质(碳酸钙)和磷、钾等营养元素,土壤肥沃,土质疏松。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春、夏、秋、晚秋分四次进行采收,枝条上部留6片叶,下部叶全采完。(四)质量特色。\n\n与原料形成有关的生产记录还包括春季和秋冬季密植种植,使用沟栽或穴栽,采用冬季芽接的方式进行嫁接。春、夏、秋、晚秋分四次进行采收,枝条上部留6片叶,下部叶全采完。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐亭县",
+      "id": "sw-f6415f9a3260b243ec",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "涪城蚕茧",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "涪城蚕茧是与四川·绵阳·涪城区相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为桐乡青、强桑一号、川桑98~1、秋华×平30雄蚕品种、川山×蜀水等。",
+      "detail": "涪城蚕茧是与四川·绵阳·涪城区相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为桐乡青、强桑一号、川桑98~1、秋华×平30雄蚕品种、川山×蜀水等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：涪城蚕茧茧色洁白,茧形匀整,缩皱适中,浅束腰,呈长椭圆形。蚕茧长3~4cm,直径1.7~2.1cm,茧层厚实。\n\n采收或收获环节的记录是加工上蔟后6-7天采茧,温度高时可早采,温度低时迟采。使用专用塑料周转筐装运茧,防止日晒雨淋。鲜茧采收后用烘茧机烘干,自然冷却。\n\n采后处理的资料记载为使用专用塑料周转筐装运茧,防止日晒雨淋。鲜茧采收后用烘茧机烘干,自然冷却。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "涪城区",
+      "id": "sw-5c36dd17267c8109ab",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "井研柑橘",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "井研柑橘是与四川·乐山·井研县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以爱媛38号、春见为主。",
+      "detail": "井研柑橘是与四川·乐山·井研县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以爱媛38号、春见为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：爱媛38号:果形圆,深橙色,油胞稀,光滑,外形美观,易剥皮,无核,肉质较紧实,口感细嫩化渣,清香爽口;春见:果实扁圆形或阔卵形,果中等至大;果皮橙色,中等粗细,易剥皮或较易剥皮;果肉橙色,脆嫩或细嫩化渣,多汁,酸甜适中,风味浓郁,无核或少核。\n\n产地条件方面，资料写到土壤质地为砂壤土,疏松肥沃,排灌方便,有机质含量不少于1.5%,耕作层不少于50cm,地下水位在1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是爱媛38号:11月上旬,春见:1月中旬。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "井研县",
+      "id": "sw-49ce95cb281d6f7707",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "梓江鳜鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "梓江鳜鱼是与四川·绵阳·盐亭县相联系的地方食材。原料或品种方面，保护要求记载为翘嘴鳜鱼。",
+      "detail": "梓江鳜鱼是与四川·绵阳·盐亭县相联系的地方食材。原料或品种方面，保护要求记载为翘嘴鳜鱼。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体色明亮、体表光滑、斑点清晰;汤色浅白、清爽;香气淡雅、持久;肉质细嫩、紧实;滋味鲜美可口、回味微甜、无腥味。\n\n产地条件方面，资料写到水源充足,水质pH值6.5~8.5。养殖水体保持水深在1.5~2.5m为适宜,养殖池拥有完善的进、排水系统,进、排水方便,配备完善的增氧设备。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鳜鱼达到400g/尾规格以上,网具捕捞或者放水一次性捕捞。\n\n与原料形成有关的生产记录还包括放养前对苗种用食盐水浸浴消毒。每天监测并记录梓江鳜鱼摄食情况,定期捕捞观察鳜鱼生长情况并做好记录,及时增减饵料量。使用人工配合饲料。投喂经消毒处理后小鱼、小虾等鲜活动物性饲料,投饲要实行定质、定量、定时、定位投饵法。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐亭县",
+      "id": "sw-9bdc537594cee57d2e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹白茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "大竹白茶是与四川·达州·大竹县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为大竹白茶地方茶树做母本源,培育无性系苗木为栽培品种,适应性强,抗病能力强的优良品种。",
+      "detail": "大竹白茶是与四川·达州·大竹县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为大竹白茶地方茶树做母本源,培育无性系苗木为栽培品种,适应性强,抗病能力强的优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形条索紧直成朵,色泽绿黄鲜润带毫,香气浓郁持久,滋味鲜醇爽口回甘,汤色嫩绿明亮,叶底绿黄匀整。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶摊放→杀青→理条→初烘→摊凉回潮→复烘→整理入库。\n\n产地条件方面，资料写到海拔300~1000m,土壤pH值4.5~6.5,土层肥厚,生态环境良好,有机质含量丰富的坡地或平地土壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月下旬至4月初,芽叶转白,采一芽一叶初展至一芽三叶,保持芽叶完整、新鲜、匀净,不采老叶烂叶、雨水叶、虫伤叶和空心芽叶。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "大竹县",
+      "id": "sw-6d808046b8be309212",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "丹棱脆红李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "丹棱脆红李是与四川·眉山·丹棱县相联系的地方食材。原料或品种方面，保护要求记载为脆红李、五月脆、七月脆。",
+      "detail": "丹棱脆红李是与四川·眉山·丹棱县相联系的地方食材。原料或品种方面，保护要求记载为脆红李、五月脆、七月脆。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实近圆形,单果重15~33g;果皮底色绿黄色,着片状紫红色,果粉厚;果顶浅凹,缝合线浅,较对称;果肉绿黄色,肉质脆,离核;果汁中等;果实酸甜适度,风味浓,品质上等。\n\n产地条件方面，资料写到土壤中性偏酸或弱碱性,土壤pH5.5~7.5,结构疏松、排水性好的沙壤或油石骨子土壤,土层深厚不少于60cm,有机质含量不少于1.0%,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是达到丹棱脆红李固有品质特征时适时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "丹棱县",
+      "id": "sw-a01a40c37dc4cae03d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛崃中蜂蜜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "邛崃中蜂蜜是与四川·成都·邛崃市相联系的地方食材。原料或品种方面，保护要求记载为百花蜜、枇杷蜜和五味子蜜。",
+      "detail": "邛崃中蜂蜜是与四川·成都·邛崃市相联系的地方食材。原料或品种方面，保护要求记载为百花蜜、枇杷蜜和五味子蜜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：蜜质呈粘稠液体,易结晶,结晶颗粒略粗,呈琥珀色,气味清香,口感醇厚、甜润。\n\n产地条件方面，资料写到选择地势高燥、背风向阳、排水良好、小气候适宜的场所。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是生产成熟蜂蜜需在蜜脾成熟封盖后才可摇蜜,摇蜜后立即进行过滤去杂,然后用食品级塑料容器或食品级不锈钢容器密封低温保存,保存温度控制在20°C以下。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-1024a9b10d296f156a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "邛崃中蜂蜜"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "邛崃文君茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "邛崃文君茶是与四川·成都·邛崃市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为花茶。",
+      "detail": "邛崃文君茶是与四川·成都·邛崃市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为花茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形条索紧细微曲,色泽黄绿,白毫显露,匀整。汤色黄绿明亮,香气浓郁持久,滋味醇厚、鲜爽,叶底嫩绿明亮,芽叶完整。\n\n产地条件方面，资料写到海拔800m左右,土壤厚度1m以上,质地为壤土,属酸性或微酸性紫色土,pH值4.5~6.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是要求手工采摘,保持芽叶完整、新鲜、匀净,不夹带鳞片、鱼叶、茶果与老叶,不宜捋采和抓采。\n\n与原料形成有关的生产记录还包括茶苗种植前应按相关要求进行质量检验和植物检疫。平地茶园直线种植,坡地茶园横坡等高种植。采用单行条植或双行条植方式种植,单行条植行距1.5~1.8m、丛距0.33m,双行条植行距1.5~1.8m、列距0.3m、丛距0.33m,每丛1~2株。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "邛崃市",
+      "id": "sw-e304cf09b070c5d08f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "邛崃文君茶"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "明月雷竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "明月雷竹笋是与四川·成都·蒲江县相联系的地方食材。原料或品种方面，保护要求记载为以细叶乌头为主。",
+      "detail": "明月雷竹笋是与四川·成都·蒲江县相联系的地方食材。原料或品种方面，保护要求记载为以细叶乌头为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈宝塔形、粗壮;笋箨青褐色至紫褐色,少茸毛,有斑点,壳薄;笋肉厚,呈黄白色,色泽鲜亮,口感脆爽,甘甜鲜嫩,味美可口。\n\n产地条件方面，资料写到应选择交通便利,坡度小于5°的低丘、平原、冲积溪河沿岸、滩涂地和房前屋后空地,土层深厚疏松、肥沃湿润、微酸性或中性沙质壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在出笋期应合理留养母竹,不能挖除全部竹笋。一般于3月开始采收,应在雷竹出土不超过15cm时进行采收,采收时不能伤到竹鞭,严禁斩断竹鞭。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-d5dd31eed54dd99657",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江鳜鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗江鳜鱼是与四川·德阳·罗江区相联系的地方食材。原料或品种方面，保护要求记载为罗江鳜鱼。",
+      "detail": "罗江鳜鱼是与四川·德阳·罗江区相联系的地方食材。原料或品种方面，保护要求记载为罗江鳜鱼。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈柳叶形,侧扁,背部隆起,口裂大,头尖长,下颌较上颌前突;体长25~27cm,单尾重503~765;背部和体侧呈青灰色,布满不规则褐色斑块或斑点;背鳍和尾鳍黄色,不黑色斑点;煮熟后肉质细嫩、紧实,滋味鲜美,回味微甜、无腥味。\n\n产地条件方面，资料写到场地应选择水源丰富、无污染源、水质清新、排灌方便的区域。水源水质溶解氧5mg/L以上,水体中氨氮含量应低于0.025mg/L,氯离子浓度不超过0.002mg/L,pH值为6.5~8.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是罗江鳜鱼捕捞采用大网眼网具,捕捞生长周期2-3年以上、个体在3~5斤以上的成品鱼。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "罗江区",
+      "id": "sw-fdcb2daad0950aa84a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江樱桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "蒲江樱桃是与四川·成都·蒲江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择适应当地环境条件的优质、丰产、抗逆性强、商品形状好的中国樱桃品种。",
+      "detail": "蒲江樱桃是与四川·成都·蒲江县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择适应当地环境条件的优质、丰产、抗逆性强、商品形状好的中国樱桃品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实圆形,果顶平或微凹,果实较大,果面橙红至深红,富光泽,果皮较薄,果柄较短粗,果肉淡黄色、细嫩柔软多汁,味甜或甜酸,品质优。\n\n产地条件方面，资料写到选择地势高,坡度较缓,排灌通畅,不易积水的地块,土壤pH值6.0~7.5,土层深厚、疏松、肥沃,透气性好的地块。光照充足,年平均气温15°C以上。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括生长季摘心一般在5月下旬至7月中旬进行。对背上枝、内向枝进行扭梢,有效的削弱生长势,增加小枝数量。用于调整树体结构,改善树冠通风状况。对生长过旺的春、夏树梢进行拉枝摘心,开张枝条角度以缓和长势。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-96017849ca817b928a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "犍为再生稻米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "犍为再生稻米是与四川·乐山·犍为县相联系的地方食材。原料或品种方面，保护要求记载为川优系列、宜香优系列优质稻。",
+      "detail": "犍为再生稻米是与四川·乐山·犍为县相联系的地方食材。原料或品种方面，保护要求记载为川优系列、宜香优系列优质稻。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒光泽润滑、晶莹透亮、细长、均匀、腹白少;米饭纵向长度好、不开裂,煮熟后松软可口,不粘结,入口绵甜,清香可口,口感好。\n\n产地条件方面，资料写到地势平坦,排水良好,水源方便,田块较大,土质肥沃,生态环境良好,空气清新,不受工业污染的土地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是成熟度达90%以上或部分稻株上倒二、倒三节腋芽伸出叶鞘1~3cm时收割头季稻。留稻桩35~40cm,再生稻成熟度达90%以上时收割。单收单运,贮存在通风、温湿度适宜环境。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "犍为县",
+      "id": "sw-0ee30cc8315fa4e6ce",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "赤水龙眼",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "赤水龙眼是与贵州·遵义·赤水市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为赤水龙眼。",
+      "detail": "赤水龙眼是与贵州·遵义·赤水市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为赤水龙眼。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：赤水龙眼果实大小中等,果形为近圆形或扁圆形,果皮黄褐色、青褐色或棕褐色,果肉表面稍流汁、透明或半透明、蜡白色或乳白色,肉质韧脆、细嫩化渣、汁多、浓甜清香,果核红褐色或赤褐色,离核。\n\n产地条件方面，资料写到1.气候。赤水龙眼生长环境年均气温18.5~21.5°C,年均降雨量722~1460mm,年均相对湿度83%。2.地形地貌。赤水龙眼适宜生长在海拔21~1730m。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括秋季定植应在9月至10月。在花穗生长发育期若出现小红叶,及时用人工摘除或用100~150ppm乙烯利脱小叶。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "赤水市",
+      "id": "sw-dd37edf4c963155d57",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭牛",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "关岭牛是与贵州·安顺·关岭布依族苗族自治县相联系的地方食材。原料或品种方面，保护要求记载为关岭牛。",
+      "detail": "关岭牛是与贵州·安顺·关岭布依族苗族自治县相联系的地方食材。原料或品种方面，保护要求记载为关岭牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：“关岭牛”外貌特征:毛色以黄色居多,深黄有近于红毛者,浅黄中最淡者为草黄;次为褐色与黑色。头中等大小,额宽平,鼻镜宽大,口方平齐,峰型分为高峰型和肉峰型,一般胸较深而略显窄,背腰平直,荐部较宽,尻部多倾斜。四肢肌腱明显,系部强壮,蹄质坚实,前肢正直,后肢略呈外弧。\n\n产地条件方面，资料写到关岭牛优质的品质特点与当地气候环境相关,关岭县是云贵高原向广西丘陵过渡的斜坡地带,海拔大多在1000~2000m之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是农户或养殖场饲养的关岭牛,达到屠宰标准后,即可屠宰上市销售。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "关岭布依族苗族自治县",
+      "id": "sw-fae62a22c37508d7eb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "播州乌江鱼",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "播州乌江鱼是与贵州·遵义·播州区相联系的地方食材。原料或品种方面，保护要求记载为大口鲶、长吻鮠。",
+      "detail": "播州乌江鱼是与贵州·遵义·播州区相联系的地方食材。原料或品种方面，保护要求记载为大口鲶、长吻鮠。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：播州乌江鱼(大口鲶):体长,后部侧扁,头宽扁;颌有绒状齿,须4对,口角须超过鳃孔;背、臀鳍不与尾鳍相连,胸鳍具硬刺,尾鳍圆形。肉色呈浅鲜红色、肉质紧实、细腻、鲜嫩,无肌间刺。播州乌江鱼(长吻鮠):体呈纺锤形,头较小,吻尖而长,体表光滑无鳞,背部呈灰黑色,腹部呈灰白色,体侧无黑色斑点,有脂鳍。\n\n采收或收获环节的记录是采取捕大留小原则,采捕网目不小于5cm。\n\n与原料形成有关的生产记录还包括每亩鱼苗3万~5万尾,鱼苗投放7-10天后,鱼苗全长达到3~5cm时,及时进入成鱼饲养阶段。成鱼饲养,应注意合理控制密度,根据鲶鱼及长吻鮠的生长情况,合理控制密度,保持同区域养殖的鱼体大小规格一致,便于生产管理和提高养殖效率。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "播州区",
+      "id": "sw-cc6908e3bec8d1ee1e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "册亨糯米蕉",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "册亨糯米蕉是与贵州·黔西南州·册亨县相联系的地方食材。原料或品种方面，保护要求记载为粉蕉和黄帝蕉系列为主栽品种,包括西贡蕉、广粉、桂粉、金粉等。",
+      "detail": "册亨糯米蕉是与贵州·黔西南州·册亨县相联系的地方食材。原料或品种方面，保护要求记载为粉蕉和黄帝蕉系列为主栽品种,包括西贡蕉、广粉、桂粉、金粉等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：册亨糯米蕉果穗每穗8~12梳,每梳两排、10~18个果指,果指长10~15cm、中部周长10~15cm,单果重90~150g,果形长筒、微弯、棱不明显、果顶渐尖,果柄细短,果实大小中等,果皮青绿披少量白粉、后熟皮黄色或淡黄色,皮薄,果肉白色或黄白色,肉质细腻、软、糯、甜、微香。\n\n产地条件方面，资料写到以红黄壤、黄壤为主,pH值4.5~6.5,土层深厚,达60cm以上,质地疏松。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是成熟度达到70%以上才可以采收,根据果实用途、市场需求、贮运条件、成熟季节等综合确定适收期。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "册亨县",
+      "id": "sw-bcb89726430a0981fe",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "赤水楠竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "赤水楠竹笋是与贵州·遵义·赤水市相联系的地方食材。原料或品种方面，保护要求记载为赤水楠竹笋。",
+      "detail": "赤水楠竹笋是与贵州·遵义·赤水市相联系的地方食材。原料或品种方面，保护要求记载为赤水楠竹笋。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：冬笋:圆锥形,顶端微弯,长15~30cm,粗5~15cm,单笋重150~2000g;笋箨黄色、被细绒毛,笋肉乳白;脆嫩爽口、清香微甜。春笋:宝塔形,笋箨黑褐、间有斑块,密被绒毛、箨耳绿色;长20~50cm,粗6~20cm,单笋重300~4000g;笋肉黄白色,节间明显。\n\n产地条件方面，资料写到适宜选择海拔600~1200m,背风向阳、光照充足的丘岗地、山麓缓坡地或平地。土层50cm以上,pH值4.5~7,土层深厚,排水良好的土壤环境。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是冬笋采收:每年11月至12月,当竹笋即将或略微出露时,及时采收。春笋采收:每年2月至4月当竹笋露出地面20~50cm,达最佳食用期。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "赤水市",
+      "id": "sw-ba5f150f84d081a57c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "坡柳娘娘茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "坡柳娘娘茶是与贵州·黔西南州·贞丰县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地多年生茶树扦插苗及龙井43等适宜加工坡柳娘娘茶的茶树品种。",
+      "detail": "坡柳娘娘茶是与贵州·黔西南州·贞丰县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为当地多年生茶树扦插苗及龙井43等适宜加工坡柳娘娘茶的茶树品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈毛笔形状,茶韵深远;茶汤金黄透亮,入口淡雅回甘,微香生津,口爽心舒、回味悠远。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→摊放→杀青→揉捻→发酵→造型→干燥。\n\n产地条件方面，资料写到土壤多为黄壤,土质疏松,土层深厚,有机质含量丰富。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "贞丰县",
+      "id": "sw-8fe363a030349d5d62",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "独山大米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "独山大米是与贵州·黔南州·独山县相联系的地方食材。原料或品种方面，保护要求记载为独山大米。",
+      "detail": "独山大米是与贵州·黔南州·独山县相联系的地方食材。原料或品种方面，保护要求记载为独山大米。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒长粒形,晶莹透亮;蒸煮后,饭粒完整。有清香味,食味滋润柔软,有嚼劲,冷饭不回生。\n\n采收或收获环节的记录是方式。人工或者机械收获。当90%以上的谷粒黄熟后,选晴天适时收获,收获后及时晾晒防止受潮霉变。(四)质量特色。\n\n与原料形成有关的生产记录还包括人工或者机械收获。当90%以上的谷粒黄熟后,选晴天适时收获,收获后及时晾晒防止受潮霉变。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "独山县",
+      "id": "sw-e5617925f050d01049",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "独山高寨茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "独山高寨茶是与贵州·黔南州·独山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为独山高寨茶。",
+      "detail": "独山高寨茶是与贵州·黔南州·独山县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为独山高寨茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：条索紧结纤细卷曲、显毫,甜香浓郁持久;汤色橙红,明亮;滋味醇厚;叶底匀亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→萎调→机揉→发酵→干燥。\n\n产地条件方面，资料写到海拔高度850m以上,土壤类型为黄壤或黄棕壤,土壤pH值5.0~7.0,有机质含量不少于1.0%,土层厚度不少于40cm。2.移栽方式。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是方式。每年2月至9月底采摘;采摘一芽一叶初展、一芽二叶初展、一芽二、三叶、四叶及同等嫩度对夹叶。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "独山县",
+      "id": "sw-6ef5e37b995dafb891",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "贞丰四月李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "贞丰四月李是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为四月李。",
+      "detail": "贞丰四月李是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为四月李。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形近圆形,果顶微凹,缝合线浅,单果重不少于25g,果皮黄绿色、光滑,外披果粉,果皮薄,果肉酥脆,多汁,味甜酸,微带苦涩味,果肉化渣,有轻微清香味,离核。\n\n产地条件方面，资料写到产区土壤多为沙质黄壤,土质疏松,土层深厚,有机质含量丰富,土质pH值4.8~5.6,为弱酸性土壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。\n\n与原料形成有关的生产记录还包括干旱时应及时灌水,特别是果实膨大期和果实成熟期。采用摘心、扭梢、抹芽、定枝、拉枝、环割、使用植物生长调节剂等措施,控制李树新梢旺长。修剪树阶,使营养生长与生殖生长达到平衡,促进花芽分化。通过花序整形、疏花序、疏果粒等办法调节产量。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "贞丰县",
+      "id": "sw-c4f34e0626dd2a1a39",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "平塘乌骨鸡",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "平塘乌骨鸡是与贵州·黔南州·平塘县相联系的地方食材或食品原料。",
+      "detail": "平塘乌骨鸡是与贵州·黔南州·平塘县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为具有觅食力强、耐粗饲、适应性广、抗病性强的本地乌骨鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型匀称紧凑,头昂尾翘;全身羽色以黑羽为主,色泽光亮;皮、骨肉为黑色,成年公鸡重量2kg左右,成年母鸡重量1.5kg左右;肉质细嫩、味美鲜香、营养丰富,炖煮后汤色清亮透明不浑浊,汤鲜味美。\n\n与原料形成有关的生产记录还包括舍养结合林下放养,在1-45日龄舍内精细饲养,45日龄后将其投放林下进行粗放放养,自由采食,林下放养每667m230~50只。饲料(原料)要求具有该品种正常组织形态和色、嗅、味等特征,质地良好、无发霉、变质现象,不使用人工合成色素,不喂动物性饲料。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "平塘县",
+      "id": "sw-f1ab149ba5fb927aa5",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴仁牛干巴",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "兴仁牛干巴是与贵州·黔西南州·兴仁市相联系的地方加工食品。原料或品种方面，保护要求记载为当地养殖的盘江黄牛。",
+      "detail": "兴仁牛干巴是与贵州·黔西南州·兴仁市相联系的地方加工食品。原料或品种方面，保护要求记载为当地养殖的盘江黄牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：呈自然条块状;切面呈褐红色或黑红色,光泽油亮,肉质紧实,具有天然发酵的牛肉香;风味浓郁,夹杂黄色或白色的脂肪层,入口鲜香,口味醇厚。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括流程鲜牛肉切割→喷酒→配置揉料→揉搓→入坛发酵→晾晒→成品。\n\n产地条件方面，资料写到产地范围内海拔800~2100m的山地,土壤类型为黄棕壤、黄壤,土壤pH值5.0~8.0;土层厚度不少于50cm;有机质含量不少于1.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是贮藏1.采收。9月至10月,植株中下部叶片转黄,籽粒80%以上变色成熟时收割。2.贮藏。种子脱粒后晴天晾晒至含水量不超过12%后贮藏。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "兴仁市",
+      "id": "sw-0196bd19e4a7441bf8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "平塘皱皮线椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "平塘皱皮线椒是与贵州·黔南州·平塘县相联系的地方食材。原料或品种方面，保护要求记载为选择经提纯复壮的平塘皱皮线椒,种子要饱满、色泽正常。",
+      "detail": "平塘皱皮线椒是与贵州·黔南州·平塘县相联系的地方食材。原料或品种方面，保护要求记载为选择经提纯复壮的平塘皱皮线椒,种子要饱满、色泽正常。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲜椒果柄长不少于6cm,果长18~23cm,果宽1.2~1.5cm,果面微皱,颜色暗红,有光泽,皮薄肉厚,微辣回甜,籽多。干椒果面皱缩,香味浓,辣味适中。\n\n采收或收获环节的记录是分批分次采收,红一批采一批。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "平塘县",
+      "id": "sw-8c770465807e5d8e93",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "贞丰火龙果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "贞丰火龙果是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为红心火龙果。",
+      "detail": "贞丰火龙果是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为红心火龙果。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：贞丰火龙果果实圆形或卵圆形,大小适中,果皮较薄,玫红色,鳞片三角形,基部反卷;种子小而多,黑色;果肉紫红色,细腻,汁多味甜,清香。\n\n产地条件方面，资料写到产地范围内海拔高度不超过600m,变质页岩或砂页岩发育的酸性黄壤,土壤有机质含量不少于1%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。\n\n与原料形成有关的生产记录还包括干冬季节应多浇水,使其根系保持旺盛生长状态。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "贞丰县",
+      "id": "sw-2f3e478105235f1c65",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "贞丰火龙果"
+      ]
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "鲁容百香果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "鲁容百香果是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为种植台农一号(百香果)等紫色和紫红色百香果品系。",
+      "detail": "鲁容百香果是与贵州·黔西南州·贞丰县相联系的地方食材。原料或品种方面，保护要求记载为种植台农一号(百香果)等紫色和紫红色百香果品系。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：鲁容百香果果形大小适中,椭圆形或卵圆形,果皮紫红色或紫色,着色均匀,斑点密布,厚度适中;囊皮薄,果肉橙黄色或黄色,果粒间充满黄色果浆,酸甜适中,多汁,香气浓郁。\n\n产地条件方面，资料写到选择海拔600m以下、土壤肥沃疏松,排水良好的地区搭架。架式有棚架式和篱架式,以水平棚架较为常用,架材可用钢管管、水泥柱、竹木等材料。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是及贮藏。鲜食果提倡完熟采收,果皮紫红占整果的80%为适宜采收时期。果实采收后单果包膜结合冷藏以延长果实保鲜期和外观品质。(四)质量特色。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "贞丰县",
+      "id": "sw-c34c4d9968243dce3d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "平塘百香果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "平塘百香果是与贵州·黔南州·平塘县相联系的地方食材。原料或品种方面，保护要求记载为“平塘1号”及适宜当地种植的百香果品种。",
+      "detail": "平塘百香果是与贵州·黔南州·平塘县相联系的地方食材。原料或品种方面，保护要求记载为“平塘1号”及适宜当地种植的百香果品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：平均单果重65g左右,果形为卵圆形;成熟时果皮深紫或紫红色,果皮革质坚韧、光滑;果肉饱满橙黄色,果汁丰富,酸甜可口;芳香浓郁。\n\n产地条件方面，资料写到海拔400~1100m,土壤pH值5.5~6.5,土质肥沃区域。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收时应选在晴天早晨或傍晚为宜,采收搬运过程中轻拿轻放,避免平塘百香果果实碰撞损伤。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "平塘县",
+      "id": "sw-2e28ac08f47f00aaa0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "开远蜜桃",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "开远蜜桃是与云南·红河州·开远市相联系的地方食材。原料或品种方面，保护要求记载为选择适合本地区的抗病虫害、抗逆性优良品种,砧木应以毛桃实生砧为主。",
+      "detail": "开远蜜桃是与云南·红河州·开远市相联系的地方食材。原料或品种方面，保护要求记载为选择适合本地区的抗病虫害、抗逆性优良品种,砧木应以毛桃实生砧为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：新鲜度:新鲜、清洁,自然状态。果形:开远蜜桃具有鹰嘴形象,故又叫鹰嘴蜜桃。色泽:具有本品种成熟时呈青绿色,当阳面呈紫红色,着色面在25%以上。风味:具有甜脆,肉质细腻,口感好,无酸涩异味。果面缺陷:无缺陷和机械磨损伤痕无病虫危害、腐烂。\n\n产地条件方面，资料写到园地选择以海拔1000~1600m,年平均温度14~19.8°C,年降雨量800~1000mm,年日照时数1500-2230小时,土壤pH值4.5~6.5(微酸性)的红壤、砂壤和冲积土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是适时采收、分级包装。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "开远市",
+      "id": "sw-c820b2c2c372a9e757",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "建水酸石榴",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "建水酸石榴是与云南·红河州·建水县相联系的地方食材。原料或品种方面，保护要求记载为大籽酸石榴、细籽酸石榴(俗称圆籽石榴)。",
+      "detail": "建水酸石榴是与云南·红河州·建水县相联系的地方食材。原料或品种方面，保护要求记载为大籽酸石榴、细籽酸石榴(俗称圆籽石榴)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：新鲜度:新鲜、清洁,无不正常外来水分;果形:具有本品种的基本特性,果形正常、果面光洁;色泽:表皮、籽粒具该品种的正常色泽;风味:具有本品种特有的风味,无异常气味;果面缺陷:无裂果,无明显病虫害;腐烂:无;果肉褐变:无。\n\n产地条件方面，资料写到土壤质地良好,疏松肥沃,中性、微酸或微碱性土层深厚的砂壤土最适宜。地下水位0.8m以下。土壤pH值一般在5~6之间,土壤肥力状况中等。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是石榴成熟后应分批适时采收,分级包装后上市或冷库预冷后上市。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "建水县",
+      "id": "sw-b380530507e3cdfc6d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "蒙自石榴",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "蒙自石榴是与云南·红河州·蒙自市相联系的地方食材。原料或品种方面，保护要求记载为选择优质、丰产、抗逆性强的甜绿籽、甜光颜、厚皮甜砂籽等品种。",
+      "detail": "蒙自石榴是与云南·红河州·蒙自市相联系的地方食材。原料或品种方面，保护要求记载为选择优质、丰产、抗逆性强的甜绿籽、甜光颜、厚皮甜砂籽等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实近圆球形。纵径6.85cm,横径7.87cm,平均单果重226~420g,萼筒低,萼片5~7枚直立或反卷。果皮黄绿底着红霞或鲜红色,色泽鲜艳,有光泽,较光滑,果皮薄,其厚0.23~0.58cm。果面洁净,无病虫害、果面干瘪和机械伤。\n\n产地条件方面，资料写到以红壤居多,砖红壤性红壤次之,微酸至微碱的壤土和砂壤土。土壤pH值一般在4.5~8.2之间,土壤肥力状况中等。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实采收宜在8月上旬至11月中下旬进行。采摘原则:石榴果皮颜色变为浅黄绿色、黄白色,有色品种充分着色,果面着红色,果粒由白色变为粉红色或红色,红粒品种色彩达到固有的程度,籽粒饱满时可采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "蒙自市",
+      "id": "sw-26720ff81dbef80593",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "大理独头大蒜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大理独头大蒜是与云南·大理州·大理市、祥云县、宾川县、弥渡县、永平县、洱源县、鹤庆县相联系的地方食材。",
+      "detail": "大理独头大蒜是与云南·大理州·大理市、祥云县、宾川县、弥渡县、永平县、洱源县、鹤庆县相联系的地方食材。原料或品种方面，保护要求记载为选用中早熟、丰产、抗逆力强、适应性广、商品性好的紫皮大蒜品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大理独头大蒜为紫皮蒜,外皮紫红色或浅紫白色,商品蒜需去除根须和大蒜蒂。蒜头扁圆形或圆形,不分瓣,构造与普通紫皮大蒜中的一个蒜瓣相似,仅形状和大小不同,除去外皮后果形依然如此。肉质乳白色,质地清脆,色泽一致,蒜味辛辣(比白皮大蒜辛辣)回甘,香味较浓。\n\n产地条件方面，资料写到选择地势平坦,排灌方便,土壤耕层深厚、结构适宜、肥力较高,理化性状良好的水稻壤土、燥红轻粘土、沙壤土为宜。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当蒜薹总苞呈水平状态时即可采收蒜薹。收获时应尽量避免机械损伤,收获后剪去须根、假茎,置于通风处晾晒、分级,达到商品标准时根据客商要求上市销售。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "大理市、祥云县、宾川县、弥渡县、永平县、洱源县、鹤庆县",
+      "id": "sw-8ef87056b30c9fe338",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "昭通苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "昭通苹果是与云南·昭通·昭阳区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红富士、昭锦(108)为主打品种。",
+      "detail": "昭通苹果是与云南·昭通·昭阳区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红富士、昭锦(108)为主打品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大(最大横断面直径)65mm以上。果形扁圆或圆形,基本端正,具有品种形状特征。带果梗,果面光洁,不粗糙,无干枯虫伤,水锈层和不明显的垢斑面积不超过1.5cm2,香味浓,具有本品种的色泽及气味。红色品种颜色鲜红,果肩周围除允许有果台副梢遮盖线2条外,其余部分70%着色。\n\n产地条件方面，资料写到在土壤方面,苹果适于土层深厚、排水良好和富含有机质的砂质壤土。土壤酸碱度(pH值)以微酸性到中性为宜。土壤通气不良时,根系生长受阻。pH值7.8以上时,易发生缺素失绿现象。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是适时分批采收先采冠上、冠外果,相隔8-10天再采冠下,冠内果。要求做到:边采收,边分级,最大限度地提高果实商品价值和经济效益。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "昭阳区",
+      "id": "sw-483c3db4f96731c528",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "深沟鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "深沟鸡是与云南·曲靖·马龙区相联系的地方食材。原料或品种方面，保护要求记载为深沟鸡。",
+      "detail": "深沟鸡是与云南·曲靖·马龙区相联系的地方食材。原料或品种方面，保护要求记载为深沟鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：成年公鸡体重2.5~3kg,母鸡2~2.5kg,阁鸡3~3.5kg。(1)体型:体格高大、背腰长直、颈长、胸深微向前突出,胸骨长而微弯、腿粗长、脚外侧到趾部着生羽毛,俗称“飞毛腿”。胸肌、腿部肌肉发达、丰满。(2)喙:粗短微弯曲有力、喙色多为乌黑色,尖端略带白色。(3)蹠部:多数为灰黑色,少数为黄色。\n\n产地条件方面，资料写到生态环境良好,优良的灌木林山坡,周围无直接污染源和间接污染源的生产区域。土质优良,地势干燥,背风向阳、冬暖夏凉、空气流畅、宽敞明亮,便于保暖的地方。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "马龙区",
+      "id": "sw-1705db33f90e83e6f7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "石屏杨梅",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "石屏杨梅是与云南·红河州·石屏县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择适应当地环境条件,并表现出良好经济性状和抗性的东魁、荸荠梅等优良品种。",
+      "detail": "石屏杨梅是与云南·红河州·石屏县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择适应当地环境条件,并表现出良好经济性状和抗性的东魁、荸荠梅等优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：石屏杨梅果实中等大,成熟时呈不正圆形或扁圆球形,平均单果重10g,最大单重16g,果面为鸟紫红色,果顶稍凸,果底平,缝合线较明显,果蒂小;果肉肉质细软、酸甜适度、内部红色或淡红色,汁液多、具香气、核较小。基地及其周围不得有大气污染源,特别是上风口不得有污染源,基地灌溉用水不能含有污染物。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "石屏县",
+      "id": "sw-d228b654035f14de14",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "溪洛渡花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "溪洛渡花椒是与云南·昭通·永善县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为选用抗逆性强、优质丰产、粒大肉厚、内果皮薄、商品性好、产量高的九叶青、贡椒等品种。",
+      "detail": "溪洛渡花椒是与云南·昭通·永善县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为选用抗逆性强、优质丰产、粒大肉厚、内果皮薄、商品性好、产量高的九叶青、贡椒等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：溪洛渡花椒树干适中(树高3~5m)、叶为奇数羽状复叶、叶子小而有短柄并且生有小刺、颗粒饱满均匀、鲜果为绿色、干后呈青绿色、鲜花椒具青香味、油分充足、麻味纯正、芳香浓郁,圆形,果面密生突起腺点,干果开裂成两半球连生,种子黑色。成熟花椒外果皮红色、鲜红色或紫红色,内果皮黄白色。\n\n产地条件方面，资料写到永善县土壤分为四类(黄壤、红壤、棕壤、黄棕色壤),全县划分为7个土类11个亚类25种土壤,土壤垂直地带性分布特点明显,海拔由低到高大致分为红壤-黄壤-黄棕壤-棕壤,紫色土镶嵌分布。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "永善县",
+      "id": "sw-7a71da8e2ef67ca440",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "会泽宝珠梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "会泽宝珠梨是与云南·曲靖·会泽县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为会泽宝珠梨是会泽县传统种植的主导品种。",
+      "detail": "会泽宝珠梨是与云南·曲靖·会泽县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为会泽宝珠梨是会泽县传统种植的主导品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实卵圆形,平均单果重250g,最大单果重400g;梨皮薄,绿黄色,果点密,果梗短粗;果肉乳白色,肉质细嫩,多汁化渣,味甜回香,石细胞少,核小,果实耐贮运。\n\n产地条件方面，资料写到生态环境良好,优良的平地和山坡,周围无直接污染源和间接污染源的生产区域。土壤以红壤、棕壤土、紫色土为主。土壤pH值在6~8之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年10月中旬以后开始采收。\n\n与原料形成有关的生产记录还包括7月至8月份树冠外围垂直投影内侧30cm处向外开沟,沟宽30~40cm,深50~60cm,呈半环形,在沟内施足粪肥后填回表土,每年要调换挖沟方向,并逐渐向外扩展,为根系生长创造良好条件。二是施追肥,在生长期要适时追肥,一般每年追肥3次。每年在梨树萌芽前、开花、座果、新稍迅速生长期分别各灌一次水。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "会泽县",
+      "id": "sw-388188ad3ae7cc3e53",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "会泽大洋芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "会泽大洋芋是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为以丰产性、抗病性和抗逆性好的主栽当家品种会-2号、合作88号为主,会薯系列、云薯系列为辅。",
+      "detail": "会泽大洋芋是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为以丰产性、抗病性和抗逆性好的主栽当家品种会-2号、合作88号为主,会薯系列、云薯系列为辅。选择表皮光滑、薯形较好、芽眼浅、无病菌、无虫卵的具有本品种特征的30~100g薯块做种薯。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：薯块大,椭圆或卵圆形,芽眼浅,表皮光滑,有白皮白肉和红皮黄肉两种类型。\n\n产地条件方面，资料写到产地一般选择在中高海拔地区,平均海拔2100m,土壤以红壤、灰汤土为宜,主要分布在坡地和丘陵地带,且产地周围3km内无污染源及污染物、生态环境良好。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "会泽县",
+      "id": "sw-adcccca2ec800bcd47",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "盐水石榴",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "盐水石榴是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为盐水石榴品种主要选择适宜当地的优良品,以花红皮、火袍、绿皮、突尼斯软籽石榴、红如意软籽石榴为主。",
+      "detail": "盐水石榴是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为盐水石榴品种主要选择适宜当地的优良品,以花红皮、火袍、绿皮、突尼斯软籽石榴、红如意软籽石榴为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：盐水石榴果个大,平均单果重450g,最大果重1100g;果实近圆球形,纵径6.85cm,横径7.87cm,成熟后果皮光洁明亮,果面有片壮红晕,阳面鲜红至浓红,萼筒较短、闭合;籽粒大,百粒重50~56g,汁液多,味纯甜,果实成熟后,籽粒中的簇壮放针明显,核软,耐贮运。\n\n产地条件方面，资料写到1.光照强,排水性能好、土层深厚,保肥力强,土壤为微酸性至微碱性的沙壤土或壤土。基地选离公路、铁路主要交通干线及工矿区,避开工业及城市污染源影响。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "会泽县",
+      "id": "sw-ea30ba13f81dc0fbee",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "乐业辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "乐业辣椒是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为主要选用本地的传统优良地方品种,如乐业羊角椒、二角椒,乐业辣椒因种植在乐业槽子且辣椒果实形状似羊角而得名。",
+      "detail": "乐业辣椒是与云南·曲靖·会泽县相联系的地方食材。原料或品种方面，保护要求记载为主要选用本地的传统优良地方品种,如乐业羊角椒、二角椒,乐业辣椒因种植在乐业槽子且辣椒果实形状似羊角而得名。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形:果长10~19cm,果肉厚0.1~0.2cm,平均单果质量5~12g,果实长羊角形,果面光滑,先端渐尖、微弯,色泽鲜艳,油亮红润、透明,外表光滑、成熟果鲜红或深红色。\n\n产地条件方面，资料写到选择周围不存在坏境环境污染,地势平坦,排灌方便,土层深厚、疏松、肥沃的壤土地块,周围附近无工业“三废”排放,远离交通干道。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实采收的标准是整果变为红色,全株90%以上的果实红熟时连株带果一次性采收,8~10株扎成一把,悬挂晾干,再采摘上市。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "会泽县",
+      "id": "sw-d7b7f3d2ccde19734e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "武定鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武定鸡是与云南·楚雄州·武定县相联系的地方食材。原料或品种方面，保护要求记载为武定鸡。",
+      "detail": "武定鸡是与云南·楚雄州·武定县相联系的地方食材。原料或品种方面，保护要求记载为武定鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体形:体大健壮,羽毛亮丽,外观优美,善于奔跑,行动敏捷。头型:多为平头、凤头、单冠,前大后小,冠色呈红色,极少数鸡为玫瑰冠,大种鸡冠多数有踞齿7~9个、小种公母鸡冠踞齿多而大小不一。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括检疫→静养2小时→屠宰→脱毛→剖腹→整理内脏→清洗胴体→杀菌→沥干→包装→速冻→冷冻。\n\n采收或收获环节的记录是加工1.鸡源。来自产地范围内符合出栏标准的健康鸡只。2.工艺流程。检疫→静养2小时→屠宰→脱毛→剖腹→整理内脏→清洗胴体→杀菌→沥干→包装→速冻→冷冻。3.工艺流程要点。(1)时间要求。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "武定县",
+      "id": "sw-ab53154b126aaacc50",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "火红黑山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "火红黑山羊是与云南·曲靖相联系的地方食材。原料或品种方面，保护要求记载为坚持选育以本品种为主,坚持自繁自养,不进行近亲杂交,确保了本品种特有遗传性能的稳定。",
+      "detail": "火红黑山羊是与云南·曲靖相联系的地方食材。原料或品种方面，保护要求记载为坚持选育以本品种为主,坚持自繁自养,不进行近亲杂交,确保了本品种特有遗传性能的稳定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉色为鲜红色或暗红色,肉质鲜美细嫩,膻味轻,无异味,板皮厚软,细腻,俗称“棉花皮”。\n\n产地条件方面，资料写到选择通风条件好,空气清新、大气未受污染、环境质量符合国家相关标准,选离公路、铁路主要交通干线及工矿区,避开工业及城市污染源影响,距离要大于1km。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是屠宰加工,放血要完全;剥皮、去头、蹄、内脏(肾脏除外)、大血管、乳房、生殖器,去三腺;修割整齐,冲洗干净,无病变组织、无伤斑、无残留小片皮、无浮行、无粪污、无胆污、泥污和血凝块。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "曲靖相关产区",
+      "id": "sw-1df5d67689efbc15b0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "谷律花椒",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "谷律花椒是与云南·昆明·西山区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为谷律花椒属品质较好的大红袍花椒。",
+      "detail": "谷律花椒是与云南·昆明·西山区相联系的地方食材或食品原料。原料或品种方面，保护要求记载为谷律花椒属品质较好的大红袍花椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：谷律花椒树为落叶小乔木或灌木,树高3m左右,树形开心形为主,树干带刺,叶片小,锯齿明显。谷律花椒具有粒大、色泽艳红、味浓、有光泽,油腺密而突出,肉厚、胫部有“双耳”,清香味浓,有麻味。干果呈紫红色,果粒大小均匀,睁眼,麻香味浓烈、悠长等特点。\n\n产地条件方面，资料写到花椒是温带阳性喜光树种。花椒园选择山坡下部的阳坡、半阳坡,土壤以疏松、肥沃、排水良好的沙质壤土为最佳。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是选择生长旺盛,树势健壮,品种纯正,无病虫害,结实性能良好的壮龄盛果植株作为采种母树,待果实完全成熟(外皮紫红色内种皮蓝黑色)后采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "西山区",
+      "id": "sw-0263264fd05d1408a0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "谷律花椒"
+      ]
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "砚山小粒花生",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "砚山小粒花生是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县相联系的地方食材。",
+      "detail": "砚山小粒花生是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县相联系的地方食材。原料或品种方面，保护要求记载为应选用较早熟、抗旱性较强、抗叶斑病较强、株型紧凑、结荚集中、易收获、丰产稳产性好的品种。主要品种有百仁重在35~50g之间。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：带壳干果:砚山小粒花生属珍珠豆型或中间型花生,荚果形状为茧形、串珠型、曲棍形,荚果含2~4粒种子,果嘴较明显、荚果网纹平滑或较细、脉纹浅或较浅,具有荚果小、果壳薄、易去壳、出仁率较高的产品外在感官特征。\n\n产地条件方面，资料写到选择保护区域内产地符合无公害蔬菜生产相关规定,海拔在1100~1600m之间的坝区、半山区、山区,土壤pH值在5~7.5之间,耕作层深厚、疏松易碎。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是花生成熟后,即花生植株中下部叶片正常枯黄脱落,90%以上荚果皮网纹清晰,花生仁饱满,种皮见老时即可收获。收获期一般为8月至9月之间。晴天人工拔收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县",
+      "id": "sw-65f1c6a86106bc069a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "石屏青绵羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "石屏青绵羊是与云南·红河州·石屏县相联系的地方食材。原料或品种方面，保护要求记载为石屏青绵羊。",
+      "detail": "石屏青绵羊是与云南·红河州·石屏县相联系的地方食材。原料或品种方面，保护要求记载为石屏青绵羊。长期自然选择和饲养驯化形成的肉毛兼用型地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)体型:体格中等,结构匀称,体质结实,近于长方形。具有行动灵活、善爬坡攀岩的独特性能。(2)毛色:以体躯被毛青色为特征,被毛覆盖良好,颈、背、体侧被毛以青色为主,占85%,棕褐色占15%。头部、腹下、前肢腕关节以下、后肢飞节以下毛短而粗,为黑色刺毛。被毛油汗适中,平均毛长7.41cm,肤色为白色。\n\n产地条件方面，资料写到亚热带高原山地季风气候条件下,适宜石屏青绵羊饲养,最适宜在平均海拔2000m,年平均气温1。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "石屏县",
+      "id": "sw-54752f60c500b1e84c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "高良苡仁米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "高良苡仁米是与云南·曲靖·师宗县相联系的地方食材。原料或品种方面，保护要求记载为本地老品种。",
+      "detail": "高良苡仁米是与云南·曲靖·师宗县相联系的地方食材。原料或品种方面，保护要求记载为本地老品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：株高1.5~1.9m,约有10~11节。叶鞘光滑,节间由下至上逐步变短;叶舌质硬,长约0.6~0.7mm;叶片线状披针形,长达30cm,宽1.5~3cm。果实成熟时,总苞坚硬具珐琅质,卵形或卵状球形,内包颖果;颖果长约4~5mm,种仁宽卵形或长椭圆形,长4~8mm,宽3~6mm。\n\n产地条件方面，资料写到苡仁生长习性喜温和潮湿气候,耐高温忌潮热,不耐寒、忌干旱选用新开垦的荒地和轮作地,其土壤疏松、耕层大(20~30)cm,排水良好,土壤通透性好的红壤、黄壤,海拔在900~1100m的坡地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年10月下旬至11月上旬进行采收,采收时用草席或其他在种植地周围展开5~7m2的脱粒场地,用人工脱粒后,凉晒,用干净的布袋或编织袋装袋、运输、入库。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "师宗县",
+      "id": "sw-e7735c1b52e578b33b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "夕阳葵花子",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "夕阳葵花子是与云南·昆明·晋宁区相联系的地方食材。原料或品种方面，保护要求记载为本地白瓜子、红瓜子、黑瓜子。",
+      "detail": "夕阳葵花子是与云南·昆明·晋宁区相联系的地方食材。原料或品种方面，保护要求记载为本地白瓜子、红瓜子、黑瓜子。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：植株高2~2.5m,花盘直径17~25cm,花为黄色。籽粒有红色、白色和黑色三种,籽粒饱满仁大,表面色泽晶莹圆滑,空秕粒少。\n\n产地条件方面，资料写到土壤类型为水稻土,以红壤、砂壤为主,pH值5~7,富含N、P、K等多种营养元素;种植地块多为坡地和台地。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年8月下旬至9月中旬进行采收。为了保证品质不受影响,当向日葵茎秆发黄,花盘背面发黄,大部分叶片枯黄脱落,托叶变褐,舌状花脱落,籽粒壳变硬,水分变少,就是成熟了,成熟后要及时收获。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "晋宁区",
+      "id": "sw-6fc470be2b8f0035d0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "龙陵黄山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "龙陵黄山羊是与云南·保山·龙陵县相联系的地方食材。原料或品种方面，保护要求记载为龙陵黄山羊是适应当地生态环境、经当地群众长期选育形成的地方品种。",
+      "detail": "龙陵黄山羊是与云南·保山·龙陵县相联系的地方食材。原料或品种方面，保护要求记载为龙陵黄山羊是适应当地生态环境、经当地群众长期选育形成的地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：毛色:龙陵黄山羊毛色呈黄褐色或褐色。公羊额上有黑色长毛,颌下有髯,从枕部至尾部有一黑色背线,肩胛至胸前有一圈黑色项带与背线相交呈“十”字型(俗称“领褂”),母羊无“领褂”。体型:龙陵黄山羊结构匀称,紧凑,体质结实,体躯较长,后躯发育良好,整个体型呈圆桶状,有雄性悍威。头:大小适中,额短宽,鼻直,眼大而有神。\n\n产地条件方面，资料写到选择海拔在900~2500m,平均气温14.9°C,无霜期在237天左右,降雨量1000~2200mm,日照时数1800-2200小时的山区或半山区养殖。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "龙陵县",
+      "id": "sw-4e19aa2ee6d080dc8b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "保山透心绿蚕豆",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "保山透心绿蚕豆是与云南·保山·隆阳区相联系的地方食材。原料或品种方面，保护要求记载为选择传统、历史上就有种植的“保山透心绿蚕豆”地方品种,该品种比一般的蚕豆小,属蚕豆品种中一个变异品种。",
+      "detail": "保山透心绿蚕豆是与云南·保山·隆阳区相联系的地方食材。原料或品种方面，保护要求记载为选择传统、历史上就有种植的“保山透心绿蚕豆”地方品种,该品种比一般的蚕豆小,属蚕豆品种中一个变异品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：株高100~130cm,24~28节,果实多为2~3粒/荚,果实属中粒种,长1.5~1.7cm,宽1.0~1.2cm,厚0.4~0.6cm,长宽比1.2~1.6∶1,百粒重在80~100g,种皮绿白色,子叶呈嫩绿色,种脐色浅,豆壳洁白光亮、豆瓣通体翠绿,直透于心形象透心绿。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括保山透心绿蚕豆(烘炒)生产工艺流程:原料→清选→漂洗→发水→炒制→冷却→筛拣→包装;保山透心绿豆(油炸)生产工艺流程:原料→清选→漂洗→浸泡→划口→油炸→调味→包装;民间传统的加工方法:原料→清选→漂洗→发水→炒制→筛拣→冷却→包装。\n\n产地条件方面，资料写到保山透心绿蚕豆喜温不耐霜冻,喜湿不耐涝渍,喜光喜钾不耐荫蔽。产地一般选择年平均气温15.5°C左右,光照充足,无霜期长。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "隆阳区",
+      "id": "sw-97f48ac505d11f18cb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "马龙苹果",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "马龙苹果是与云南·曲靖·马龙区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择引进经训化栽培育出的适宜马龙当地气候条件,成熟期早,果大,光泽好,甜脆可口,抗逆性强,丰产性好的马龙苹果。",
+      "detail": "马龙苹果是与云南·曲靖·马龙区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择引进经训化栽培育出的适宜马龙当地气候条件,成熟期早,果大,光泽好,甜脆可口,抗逆性强,丰产性好的马龙苹果。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：马龙苹果“早熟型”果实圆台、端正,“晚熟型”果实扁圆、不够端正,果皮颜色鲜红有光泽,含糖量高、香味浓,果肉细腻、甘甜味厚,质脆无渣、汁多,营养丰富。\n\n产地条件方面，资料写到产地一般选择年平均气温1。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据果实成熟度、用途和市场需求适时采收。早熟马龙苹果7月上旬开始采收,晚熟马龙苹果9月中旬开始采收。采摘时轻拿轻放,免碰伤、刺伤。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "马龙区",
+      "id": "sw-996a8564b981b02c65",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "巍山红雪梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "巍山红雪梨是与云南·大理州·巍山彝族回族自治县相联系的地方果蔬或干果。",
+      "detail": "巍山红雪梨是与云南·大理州·巍山彝族回族自治县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为巍山红雪梨选择种植历史悠久,属于优质晚熟耐储藏且抗逆性、抗病性强的优良地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：巍山红雪梨成年果树树高1.5m以上,整形修剪多为主干疏散分层形和自然开心形,叶翠绿;是一种晚熟优质水果,每年2月底3月初开花,10月至12月成熟;耐贮藏,可贮藏到翌年梨花盛开时节。\n\n产地条件方面，资料写到一般选择海拔1700~2400m,土壤主要类型以紫色土和红壤土为主,pH值5.6~7.2,年平均气温15.8°C,无霜期246天。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期一般在10月至12月,采收方法人工采收,根据果实成熟度和市场需求适时采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "巍山彝族回族自治县",
+      "id": "sw-9e8c942bf3b5826d33",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "泸西苦荞",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "泸西苦荞是与云南·红河州·泸西县相联系的地方食材。原料或品种方面，保护要求记载为当地自留种。",
+      "detail": "泸西苦荞是与云南·红河州·泸西县相联系的地方食材。原料或品种方面，保护要求记载为当地自留种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：苦荞果实为三棱形瘦果,表面有三条深沟,先端渐尖,基部有5裂宿萼,由革质的皮壳(果皮)所包裹。果皮的色泽不同有黑色、黑褐色、褐色、灰色等。果实的千粒重在12~24g之间,通常为17.5~20.5g。果皮内部含有像果实形状一样的种子,主要由种皮、胚和胚乳三部分组成。\n\n产地条件方面，资料写到土壤有机质丰富,土层深厚,结构良好,养分充足,保水保肥力强,排水良好的土壤中种植最宜。一般选用前作没种植荞麦的土地,实现年与年或季与季之间的轮换,达到减轻生理病害,提高产量的目的。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与贮藏最适宜的收获时期是当苦荞全株2/3籽粒成熟,即籽粒变为褐、浅灰色,呈现本品种固有颜色时收获。过早收获,大部分籽粒尚未成熟,过晚收获,籽粒将大量脱落而影响产量。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "泸西县",
+      "id": "sw-1d0585966e89d698cd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "富宁八角",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "富宁八角是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方调味品。",
+      "detail": "富宁八角是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方调味品。原料或品种方面，保护要求记载为选用抗逆性强、品质优良、丰产性好的普通红花八角和普通淡红花八角品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：富宁八角的果、枝、叶都具有特殊的香味。富宁八角多数由八蓇葖果组成的聚合果,放射状排列于中轴上。蓇葖果长1~2cm,宽0.3~0.5cm,高0.6~1cm;外表面红棕色,有不规则皱纹,顶端呈鸟喙状,上侧多开裂;内表面淡棕色,平滑,有光泽;质硬而脆。果梗长3~4cm,连于果实基部中央,弯曲,常脱落。\n\n产地条件方面，资料写到气候温暖、湿润、较阴蔽的环境,适宜区海拔在600~1600m之间,最适宜区海拔在800~1200m之间。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是八角树1年结2次果,春造果3月至4月成熟,秋造果9月至10月成熟。八角果实由青变黄,即可采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县",
+      "id": "sw-af45feefd2ef7de5a1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "南涧无量山乌骨鸡",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "南涧无量山乌骨鸡是与云南·大理州·南涧彝族自治县相联系的地方食材或食品原料。",
+      "detail": "南涧无量山乌骨鸡是与云南·大理州·南涧彝族自治县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为无量山乌骨鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型大小适中、健壮、行动敏捷、羽毛亮丽、适应性强。成年公鸡眼大有神,冠大直立,单冠为主,冠齿5~6个,冠和肉髯呈紫红色,毛色多为紫红色、黄色,主翼羽、颈羽、背羽、鞍羽多为黄色,尾羽黑色镶边。成年母鸡眼大有神,冠髯较小,少部分有凤头;毛色主要有黄色、麻花、白色、黑色;多数麻花鸡体驱毛色为新月形条纹。\n\n产地条件方面，资料写到海拔1300~2500m之间,土壤类型主要以棕壤为主,光照充足,昼夜温差小,干燥、通风的山区、半山区、台地、坡地、丘陵地等。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.出栏。公鸡饲养150天以上,体重2.15~2.95kg;母鸡饲养160天以上,体重1.65~2.00kg;阉鸡饲养200天以上,体重2.45~3.25kg时可以出栏销售。2.屠宰。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "南涧彝族自治县",
+      "id": "sw-4e5a00c029291fcfb4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "香格里拉青稞",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "香格里拉青稞是与云南·迪庆州·香格里拉市、德钦县相联系的地方食材。",
+      "detail": "香格里拉青稞是与云南·迪庆州·香格里拉市、德钦县相联系的地方食材。原料或品种方面，保护要求记载为选择优质高产、适应性广、抗病性强、水平性好、耐储运、便加工、适合本地栽培,适应市场需求的本地青稞品种。以云青-1号、云青-2号、长黑、短白等品种为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：青稞籽粒长6~9mm,宽2~3mm,形状有纺锤形、椭圆形、菱形、锥形等,青稞籽粒比皮大麦表面更光滑,颜色多种多样,有白色、褐色、紫色及黑色等。\n\n产地条件方面，资料写到土壤类型以赤红壤、棕壤、褐土、砂土为主,土层深厚,土壤结构好,土质疏松,透气性好,pH值6.1~7.0之间,有机质含量1.25%,碱解氮和速效钾含量丰富,速效磷中等,土壤质地疏松,通透性好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春青稞9月中旬至10月下旬收割,冬青稞4月中旬至5月中旬收割。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "香格里拉市、德钦县",
+      "id": "sw-f1dd16efcde4064f66",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "泸西高原梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "泸西高原梨是与云南·红河州·泸西县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以雪花、早酥、早白蜜、美人酥四个品种为主。",
+      "detail": "泸西高原梨是与云南·红河州·泸西县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以雪花、早酥、早白蜜、美人酥四个品种为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：雪花品种果实椭圆形,果皮绿黄色,贮后变黄色,蜡质薄有光泽,果点大而明显。早酥品种果实椭圆形,果皮绿黄色,果面平滑,有光泽,果点小或不明显。早白蜜品种果实倒卵形,果皮黄白色,阳面间具红色晕,蜡质薄有光泽。美人酥品种果实近倒卵园形,果肉淡白色,果皮黄绿色,果面覆红色彩晕。\n\n产地条件方面，资料写到海拔在1650~2150m,土壤类型为红壤、黄壤、黄棕壤,pH值6~8;年平均降雨量800~1100mm之间,年日照时数2000小时以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年6月底至10月中旬采收,一般于晴天进行人工采摘,采后置于通风、阴凉、干燥处2-3天待分级包装。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "泸西县",
+      "id": "sw-337d027e5a7a8ddaeb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "保山甜柿",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "保山甜柿是与云南·保山·隆阳区、施甸县、龙陵县、昌宁县、腾冲市相联系的地方食材。",
+      "detail": "保山甜柿是与云南·保山·隆阳区、施甸县、龙陵县、昌宁县、腾冲市相联系的地方食材。原料或品种方面，保护要求记载为选择引进经驯化栽培育出的适宜保山当地气候条件,不需配置授粉树,成熟期早,果大,光泽好,甜脆可口,抗逆性强,丰产性好的保山甜柿。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形方扁,果顶微凹,果皮光滑,果粉多,有光泽,纵沟清晰,萼片4枚,果子横断面呈“同圆八心”形,成熟果子树上自然脱涩,果皮橙黄色,软化后橙红色,摘下即可食,鲜食甜脆可口,平均单果重200g。\n\n采收或收获环节的记录是时间,8月至11月采收,一般要求着色面在80%(八成熟),用一果两剪法人工采收,用箩筐盛装,采摘时轻拿轻放,盛装器具要垫衬软物,逐果剪下果梗,避免刺伤果面。采摘后及时运往干净阴凉处存放。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "隆阳区、施甸县、龙陵县、昌宁县、腾冲市",
+      "id": "sw-319ba670fd88f49a1a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "麦地湾梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "麦地湾梨是与云南·大理州·云龙县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择种植历史悠久,地域特征明显的特晚熟(成熟期在11月至12月)优良地方品种麦地湾梨。",
+      "detail": "麦地湾梨是与云南·大理州·云龙县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择种植历史悠久,地域特征明显的特晚熟(成熟期在11月至12月)优良地方品种麦地湾梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：麦地湾梨成年果树树高1.5m以上,整形修剪多为小冠疏层形和自然开心形,叶翠绿;是一种特晚熟优质水果,每年2月底3月初开花,11月份成熟。耐贮藏,可贮藏到次年梨花盛开时节。\n\n产地条件方面，资料写到选择在海拔1800~2400m之间,土壤类型以紫色土、黄棕壤为主,部份红壤和黄壤。pH值5~8.5之间,年平均气温16.2°C,无霜期258天。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收期一般在10月底至12月初,此时果实已成熟,品质最佳,果皮青翠,采收方法人工采收,根据果实成熟度和市场需求适时采收。要求采摘时轻拿轻放,免碰伤、刺伤。果实下树后要用专用竹篮或果框盛放。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "云龙县",
+      "id": "sw-981dd3409fcf982c12",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "保山猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "保山猪是与云南·保山·隆阳区、施甸县、龙陵县、昌宁县、腾冲市相联系的地方食材。",
+      "detail": "保山猪是与云南·保山·隆阳区、施甸县、龙陵县、昌宁县、腾冲市相联系的地方食材。原料或品种方面，保护要求记载为保山猪(Baoshanpig)曾用名保山大耳猪,因该猪主产于云南省保山市而得名。解放后对保山大耳猪进行了几次猪种资源调查,最后定名为保山猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)体形:根据体型大小把保山猪分为大骨型、细骨型及二浪子型,品种外貌特征明显,体质结实,结构匀称。(2)毛色:被毛稀疏全黑。(3)头部:头较大,额宽,额面皱纹形如“八卦”;嘴筒粗长,少数微凹且向上翘,俗称“瓢把嘴”,耳大而下垂。\n\n产地条件方面，资料写到产地选择产地选择在海拔750~2500m,年平均气温15.5°C,年无霜期293-333天,年降雨量700~2100mm的山区半山区。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "隆阳区、施甸县、龙陵县、昌宁县、腾冲市",
+      "id": "sw-d627d5220082bc844e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源大河乌猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "富源大河乌猪是与云南·曲靖·富源县相联系的地方食材。原料或品种方面，保护要求记载为富源大河乌猪是在乌金猪(大河猪)基础上培育成的国家级新品种。",
+      "detail": "富源大河乌猪是与云南·曲靖·富源县相联系的地方食材。原料或品种方面，保护要求记载为富源大河乌猪是在乌金猪(大河猪)基础上培育成的国家级新品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：被毛黑色,毛尖略带褐色,在阳光照射下显金黄色,俗称“黑火毛”。体质结实,体型匀称,各部位结合良好;头大小适中,嘴直长,端部有三道浅皱纹,俗称“三道箍”,额部有菱形浅皱纹,俗称“八卦”,耳中等大小,耳尖下垂;体躯较长,背腰平直,胸部宽深,后躯丰满。腹部紧凑,乳房发育良好,乳头6~7对。\n\n产地条件方面，资料写到一般选择海拔为1200~2400m,年平均气温16°C,无霜区不少于242天;土壤以红壤、黄棕壤和黄壤为主,pH值5.5~7.0;年平均日照时数177。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "富源县",
+      "id": "sw-9c5e1ed587f9edaa49",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "云龙矮脚鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "云龙矮脚鸡是与云南·大理州·云龙县相联系的地方食材。原料或品种方面，保护要求记载为云龙矮脚鸡。",
+      "detail": "云龙矮脚鸡是与云南·大理州·云龙县相联系的地方食材。原料或品种方面，保护要求记载为云龙矮脚鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体形:体型中等,近似金元宝形,以胫短为主要特征。头型:头圆大。喙粗短,呈圆锥形,具有一定的弯度,颜色淡黑色和黑色。单冠,公鸡冠较大,颜色为鲜红,冠齿单数,肉髯和耳叶较大,眼圆大,瞳孔边缘整齐,黑中带亮,虹彩黄红色;母鸡冠较小,颜色暗红,到产蛋期变成鲜红。脚:脚短,胫长5~8cm,颜色为黑色、灰色。趾黑色。\n\n产地条件方面，资料写到海拔高度为1200~2800m;年平均气温为16.2°C;无霜期为258天,平均年日照2077.3小时;土壤类型为黄壤、棕壤、紫色土、黄红壤的坝区、山区、半山区及河谷地带。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "云龙县",
+      "id": "sw-613a066bde4200c754",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "红河棕榈",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "红河棕榈是与云南·红河州·红河县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为马尾棕、密棕、细棕、山棕。",
+      "detail": "红河棕榈是与云南·红河州·红河县相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为马尾棕、密棕、细棕、山棕。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：属常绿乔木,高3~10m或更高,树干圆柱形,裸露树干直径10~40cm。直立无分枝,树干上具环状叶痕呈节状。叶圆扇形,叶柄两侧有锯齿,叶基的苞片扩大成黄褐色或黑褐色的纤维鞘包被树干,称为棕片。花单性,花期2月至3月,果实阔肾形,11月至12月成熟,淡蓝或黑褐色,甚坚硬。\n\n产地条件方面，资料写到红河棕榈应选择海拔为1000~2500m,年平均气温为20.6,土壤为黄棕壤、红壤、黄壤、紫色土、赤红壤、燥红壤和水稻土,年均降雨量1340mm。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是定植5年后,每年割二次棕(棕片和棕板),间隔6个月左右;采用人工割棕,其方法为剥棕时用棕刀沿棕夹板两侧各竖割一刀,使棕片与棕夹板脱离,然后沿棕片着生的干节处环割一刀,使棕片与树体脱离。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "红河县",
+      "id": "sw-a9cd86a1ab4495645f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "文山牛",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "文山牛是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方食材。",
+      "detail": "文山牛是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方食材。原料或品种方面，保护要求记载为地方优良品种文山牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：头大而长,额宽平,鼻镜粉红色、黑色或粉红色有黑斑。有角,呈倒八字型、龙门型、铃玲角、大圆环、小圆环等形状,颈粗短发达,垂皮较长,自下颌延至胸前部,宽约15~20cm,有弹性,邹折不明显。\n\n产地条件方面，资料写到养殖区一般选择海拔800~2000m,年平均气温12~2。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括饲草饲料的储存和加工区应在生产区的上风向和地势较高处。冬春枯草季适当补饲干稻草、黄豆秆、花生秧等农副产品及青贮、氨化秸秆,并适当补充精料。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县",
+      "id": "sw-c8df4ce82a4cecc9c0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "普洱瓢鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "普洱瓢鸡是与云南·普洱相联系的地方食材。原料或品种方面，保护要求记载为长期的自然选择和当地人民的选择形成的一个地方优良鸡种。",
+      "detail": "普洱瓢鸡是与云南·普洱相联系的地方食材。原料或品种方面，保护要求记载为长期的自然选择和当地人民的选择形成的一个地方优良鸡种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：(1)体形:瓢鸡体型中等健壮,羽毛光滑紧凑,无镰羽,尾部羽毛下垂,臀部肌肉发达,腹脂厚,臀部丰腴圆滑,外观优美,善于奔跑,行动敏捷。(2)头型:头昂扬,大小适中,多为平头,单冠,冠齿6~8个,少数有复冠,红色,少数为紫黑色;眼大有神,反应灵敏。公鸡冠大直立,母鸡冠较小细致,部分母鸡有胡须、有凤头。\n\n产地条件方面，资料写到鸡舍选址应在地势高燥、采光充足和排水良好,周边天然植被良好,隔离条件好的区域,同时还应符合以下条件:鸡场周围3km内无大型化工厂、矿厂等污染源,距其他畜牧场至少1km以上。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "普洱相关产区",
+      "id": "sw-7c8ce741d57fe8292a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "滇陆猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "滇陆猪是与云南·曲靖·陆良县相联系的地方食材。原料或品种方面，保护要求记载为滇陆猪。",
+      "detail": "滇陆猪是与云南·曲靖·陆良县相联系的地方食材。原料或品种方面，保护要求记载为滇陆猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：全身被毛白色,头大小适中,额面清秀,颜面微凹,嘴筒平直而稍短,耳中等大小前倾稍下垂,背腰平直,腹部紧凑不下垂,四肢粗壮,肢蹄结实,体型中等,结构匀称,各部位结合良好。\n\n产地条件方面，资料写到滇陆猪适宜在海拔1000m以上,4000m以下的区内养殖。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括建立滇陆猪核心群、扩繁群、生产群较完整的良种繁育体系,再配合以标准化规范化的生猪科学养殖模式及合理的营养水平,使其达到整体养殖效益最大化的目的。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "陆良县",
+      "id": "sw-47954cabfd1ba5618f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "罗平黄山羊",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗平黄山羊是与云南·曲靖·罗平县相联系的地方食材。原料或品种方面，保护要求记载为“罗平黄山羊”,肉用品种。",
+      "detail": "罗平黄山羊是与云南·曲靖·罗平县相联系的地方食材。原料或品种方面，保护要求记载为“罗平黄山羊”,肉用品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：罗平黄山羊体质结实,结构匀称,体形较大。毛色主体为浅黄色,头顶、鼻梁两侧、背线、腹线、尾尖、四肢下部为黑色。头中等大小,额宽平,眼大有神,鼻梁平直,耳中等大小稍向前向上外倾,角粗呈倒八字微向外旋,劲粗长适中,背腰平直,胸部宽深,肌肉丰满,尻稍斜,腹部紧凑,四肢粗壮结实,蹄质坚实呈黑色,尾短上举。\n\n产地条件方面，资料写到适宜海拔1200~2000m山区养殖,常年放牧在灌丛林丰富的丘陵或山坡地带,饮用水选择环境污染少,水质含钙高,偏酸性的山泉水、河水、坝塘水等。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "罗平县",
+      "id": "sw-b902b1d1e4e8a04b9a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "诺邓火腿",
+      "type": "dishes",
+      "kind": "地方加工食品",
+      "description": "诺邓火腿是与云南·大理州·云龙县相联系的地方加工食品。原料或品种方面，保护要求记载为要求原料选取养殖周期在12-18个月的诺邓黑猪的生鲜猪后腿。",
+      "detail": "诺邓火腿是与云南·大理州·云龙县相联系的地方加工食品。原料或品种方面，保护要求记载为要求原料选取养殖周期在12-18个月的诺邓黑猪的生鲜猪后腿。其肌肉、脂肪完整不分离,无淤血;表皮白色无伤痕,无粗细毛;油头、跨边小,刀路平整;荐椎骨、尾椎骨、坐骨完好;形似琵琶或柳叶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：诺邓火腿外观形似琵琶状或柳叶状,原腿腿心肌肉饱满;肉面无裂缝,皮与肉不脱离;皮面蜡黄或淡黄,肉面棕黄色或褐红色;肌肉切面玫瑰色或桃红色,脂肪切面乳白色或微红色,有光泽;通过三签测定,香气浓郁,具有火腿特殊香味;滋味品鉴口感鲜美,咸淡适中,香而回甜,回味悠长。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜腿修割定形→低温排酸→上盐腌制→堆码翻压→清理整形→上挂风干→发酵成熟→加工→包装。\n\n产地条件方面，资料写到原料选取养殖周期在12-18个月的诺邓黑猪的生鲜猪后腿。其肌肉、脂肪完整不分离,无淤血;表皮白色无伤痕,无粗细毛;油头、跨边小,刀路平整;荐椎骨、尾椎骨、坐骨完好;形似琵琶或柳叶。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "云龙县",
+      "id": "sw-462096a3201b503979",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "昭通苦荞",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "昭通苦荞是与云南·昭通·昭阳区、鲁甸县、巧家县、盐津县、大关县、永善县、镇雄县、彝良县、威信县相联系的地方食材。",
+      "detail": "昭通苦荞是与云南·昭通·昭阳区、鲁甸县、巧家县、盐津县、大关县、永善县、镇雄县、彝良县、威信县相联系的地方食材。原料或品种方面，保护要求记载为昭苦1号、昭苦2号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：株形紧凑,株高85~124cm,茎杆绿色、红色,花黄绿色。单株粒重一般为3.5~5.8g,千粒重18~26g。籽粒为锥形卵状瘦果,果上有三棱三沟,棱圆钝,棱上有波状凸起,5裂宿萼,果皮较粗糙,皮壳厚,果皮的色泽因品种不同呈现黑色、褐色、灰色等。\n\n产地条件方面，资料写到苦荞适合种植在海拔1600~3500m的高山地区,且种植时要选择保水能力强、通气性好、有机质丰富、pH值6.0~7.0的土壤。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是适时收割,以植70%籽粒呈现本品种固有色泽时收获。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "昭阳区、鲁甸县、巧家县、盐津县、大关县、永善县、镇雄县、彝良县、威信县",
+      "id": "sw-aa22809a1abb80dd8c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "富源魔芋是与云南·曲靖·富源县相联系的地方食材。原料或品种方面，保护要求记载为选择当地种植历史悠久的花魔芋品种。",
+      "detail": "富源魔芋是与云南·曲靖·富源县相联系的地方食材。原料或品种方面，保护要求记载为选择当地种植历史悠久的花魔芋品种。种芋要求表面光滑、表皮有光泽、表面光滑、圆形或椭圆形、芽窝小、顶芽粗壮、无疤无病无伤,球茎充分成熟。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：耐病性较强,种芋萌芽出苗能力强,块茎膨大系数高。块茎表皮光滑,易于机械削皮、加工,肉质白色,干片质量好。叶柄长30~60cm,基部直径2.5~6.0cm,圆柱状,表面光滑,颜色肉色,表面有不规则的墨绿色斑块。\n\n产地条件方面，资料写到产地一般选择海拔为1600~2100m,土壤主要类型为红壤、黄壤、紫色土。土壤pH值5.5~7.0,年平均气温为1。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是魔芋成熟后,自然倒苗即可采收。采收方法:选择晴朗天气人工采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "富源县",
+      "id": "sw-0ed4db2c9c4fdfca57",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "迪庆藏猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "迪庆藏猪是与云南·迪庆州·香格里拉市、德钦县、维西傈僳族自治县相联系的地方食材。",
+      "detail": "迪庆藏猪是与云南·迪庆州·香格里拉市、德钦县、维西傈僳族自治县相联系的地方食材。原料或品种方面，保护要求记载为青藏高原地区的高原型猪种之一,系“藏猪”的一个重要类型。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：被毛黑色,黑褐色,少量棕色,偶见“六白”,鬃毛发达且粗长,长毛下有密生汗毛;体质结实,体型匀称,各部位结合良好:头大小适中,嘴直长,端部有1~3道箍,额较窄有浅皱纹:耳小,平伸或稍向前倾。\n\n产地条件方面，资料写到适应养殖海拔2400~3400m;土壤以褐壤、棕壤、灰棕壤为主。土壤肥沃有机质丰富,pH值6.7~6.9;养殖区地形以是高原坝区和半山区为主。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "香格里拉市、德钦县、维西傈僳族自治县",
+      "id": "sw-5c44131558e33b6ac4",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "盐津乌骨鸡",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "盐津乌骨鸡是与云南·昭通·盐津县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为盐津乌骨鸡。",
+      "detail": "盐津乌骨鸡是与云南·昭通·盐津县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为盐津乌骨鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体形:体型较大,近方形,头尾翘立,腿较高,体格坚实,躯体结构匀称,羽毛紧凑,肌肉发育良好。头型:平头,单冠直立,冠峰5~7个,冠齿清晰。喙长适当,微弯曲,呈黑色或紫黑色。肉垂:黑羽乌骨鸡为乌黑色,白羽乌骨鸡为黑红色。羽色:为黑色居多、占80%以上,呈孔雀蓝;其余为白色、灰色和黄色。\n\n产地条件方面，资料写到海拔高度为500~2000m;气温为12~25°C;无霜期大于328天,平均年日照小于965.7小时;土壤类型为黄壤土、紫色土、水稻土的二半山区和山区;森林覆盖率大于41.8%。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "盐津县",
+      "id": "sw-2c4d8834534b62f592",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "勐库大叶种茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "勐库大叶种茶是与云南·临沧·双江拉祜族佤族布朗族傣族自治县相联系的地方茶或代用茶。",
+      "detail": "勐库大叶种茶是与云南·临沧·双江拉祜族佤族布朗族傣族自治县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为勐库大叶种茶。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：勐库大叶种茶叶长椭圆,叶片大小约17cm×6cm,叶面显著隆起,叶肉肥厚较软,叶表富革质,叶色浓绿,叶缘向叶背翻卷,主脉明显,锯齿大而浅;芽叶粗壮,色黄绿,茸毛多,持嫩性强,发芽早。制晒青毛茶:条索肥壮,显白毫,油润,汤色黄绿明亮,滋味鲜爽、浓烈、回甘,香气清香持久,叶底嫩匀完整,耐冲泡。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→杀青→摊凉→揉捻→晒干→包装。\n\n产地条件方面，资料写到海拔1000~2000m之间,土壤为红壤、紫色土、黄壤土,偏酸性,土壤疏松,排水良好,日照充足的山区、半山区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月至5月采摘春茶,7月至8月采摘夏茶,9月至10月采摘秋茶。(四)加工工艺。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "双江拉祜族佤族布朗族傣族自治县",
+      "id": "sw-b92fa0edfaf234517d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "永平白鹅",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "永平白鹅是与云南·大理州·永平县相联系的地方食材。原料或品种方面，保护要求记载为永平白鹅属永平鹅品种,品种选用当地已有760多年养殖历史的白鹅。",
+      "detail": "永平白鹅是与云南·大理州·永平县相联系的地方食材。原料或品种方面，保护要求记载为永平白鹅属永平鹅品种,品种选用当地已有760多年养殖历史的白鹅。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：永平白鹅成年鹅羽毛为纯白色,雏鹅为淡黄色,成年体重为3.5~5.5kg,呈椭圆形,属肉脂兼用中小型鹅种;公鹅颈稍长,母鹅颈偏短,鹅的喙、肉瘤、趾、蹼为桔黄色,胫为桔红色,且短而粗壮有力,耐粗饲,抗逆性强、就巢性强。18月龄以上的种公鹅肉瘤大而圆稍往前突,视觉、味觉、触觉灵敏,嗅觉发达,叫声宏亮。\n\n产地条件方面，资料写到养殖区域最高海拔2979.1m,最低海拔1120m,平均海拔1670m,适宜养殖区域海拔为1200~1800m的坝区、半山区、低热河谷地带。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "永平县",
+      "id": "sw-6d66a40a83bf51e604",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "云龙茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "云龙茶是与云南·大理州·云龙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为云龙茶选用云南大叶种茶群体种,从中选育的无性系茶树良种,主要是云抗系列和佛香系列的无性系茶树良种。",
+      "detail": "云龙茶是与云南·大理州·云龙县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为云龙茶选用云南大叶种茶群体种,从中选育的无性系茶树良种,主要是云抗系列和佛香系列的无性系茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：云龙茶汤色和叶底黄绿明亮,芽叶嫩匀完整,其形状为螺形和条形,螺形茶紧结重实,卷曲成螺显亮,光滑匀整,色泽绿润;条形茶紧实匀整,灰绿上霜。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶→杀青→摊凉→揉捻→烘干→包装。\n\n产地条件方面，资料写到土壤类型以黄棕壤为主。pH值4.5~6之间的澜沧江河谷高海拔群山之南坡(阴坡),土壤有机质含量高,疏松、透气、排水良好。选择在海拔1800~2600m之间的地区种植。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是投产茶园茶叶采摘一般分为春、夏、秋三季,春茶在4月至5月采收,夏茶在6月下旬至7月下旬采收,秋茶在8月下旬至9月底采收,茶叶采摘应根据茶叶生长情况和加工要求的鲜叶标准适时、及时采摘。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "云龙县",
+      "id": "sw-931a6af93825366b99",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "诺邓黑猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "诺邓黑猪是与云南·大理州·云龙县相联系的地方食材。原料或品种方面，保护要求记载为选择当地少数民族养殖历史悠久的地方良种猪—诺邓黑猪,及以诺邓黑猪作为母本,引进巴克夏、杜洛克公猪作为父本,通过二元、三元杂交形成的黑毛商品猪。",
+      "detail": "诺邓黑猪是与云南·大理州·云龙县相联系的地方食材。原料或品种方面，保护要求记载为选择当地少数民族养殖历史悠久的地方良种猪—诺邓黑猪,及以诺邓黑猪作为母本,引进巴克夏、杜洛克公猪作为父本,通过二元、三元杂交形成的黑毛商品猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型外貌:被毛全黑,头大平直,耳中等大小,背腰微凹,腹部下垂;胸紧面窄,臀部稍斜,四肢坚实有力;尾根粗且下垂到飞节,乳头5~6对以上,排列整齐。体型有大、中、小三种类型:大型体质粗壮结实,被毛稀软,体驱长而扁,耳大下行垂,额部有菱形皱纹。中型猪个体中等,前驱稍矮,嘴鼻粗直。\n\n产地条件方面，资料写到选择海拔为1500~3000m,年平均气温12°C以上,年平均日照时数1800小时以上,年平均降雨量为780.3mm,森林覆盖率65%以上的山区、半山区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工屠宰加工场所、设施设备等应符合相关标准和要求;屠宰前检疫合格,屠宰加工放血要完全,修割整齐,冲洗干净,胴体无病变组织、粪污、胆污、泥污和血凝块;冷冻加工产品,应符合以下要求。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "云龙县",
+      "id": "sw-63b521c12744f538b3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "楚雄撒坝猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "楚雄撒坝猪是与云南·楚雄州·楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市相联系的地方食材。",
+      "detail": "楚雄撒坝猪是与云南·楚雄州·楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市相联系的地方食材。原料或品种方面，保护要求记载为楚雄撒坝猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：全身黑毛,极少数为火毛。体型中等,体躯狭长,腹部下垂,臀部稍尖斜,头中等大;额窄有八卦皱褶,耳中等大,耳根软而下垂。嘴筒长,少数中等。四肢坚实有力,尾粗长,尾根低,有效乳头5对以上,对称且排列整齐。性成熟早,公猪初情期3-4月龄,母猪5月龄开始发情;公猪配种年龄约6月龄,母猪约7月龄。\n\n产地条件方面，资料写到适宜养殖区域一般选择在海拔3000~650m,年平均气温17.8°C,年平均日照时数2450小时,年平均降雨量920mm的山区、半山区和坝区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工屠宰加工实行定点屠宰。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市",
+      "id": "sw-a6c8796dc14220764b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "楚雄滇撒猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "楚雄滇撒猪是与云南·楚雄州·楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市相联系的地方食材。",
+      "detail": "楚雄滇撒猪是与云南·楚雄州·楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市相联系的地方食材。原料或品种方面，保护要求记载为楚雄滇撒猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：滇撒母猪:被毛白色,头、颈、眼圈或臀部偶有黑斑,头较小,嘴筒长直,耳大下垂,身躯长而笮,腹圆大,臀丰圆,四肢细致坚实,有效乳头6对以上。滇撒商品猪:被毛白色,头部教短,额宽,耳中等而半垂立,颈垂肉适中,身躯长、背平宽,腰圆收缩有力,四肢粗细适中而坚实。\n\n产地条件方面，资料写到适宜养殖区域一般选择在海拔3000~650m,年平均气温17.8°C,年平均日照时数2450小时,年平均降雨量920mm的山区、半山区和坝区。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工屠宰加工实行定点屠宰。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "楚雄市、双柏县、牟定县、南华县、姚安县、大姚县、永仁县、元谋县、武定县、禄丰市",
+      "id": "sw-095ddd7d96aa13009d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "尼西鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "尼西鸡是与云南·迪庆州·香格里拉市、德钦县、维西傈僳族自治县相联系的地方食材。",
+      "detail": "尼西鸡是与云南·迪庆州·香格里拉市、德钦县、维西傈僳族自治县相联系的地方食材。原料或品种方面，保护要求记载为尼西鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型小,结构紧凑,头尾翘立,平头居多,偶有凤头;单冠直立。冠、肉髯、耳叶多呈红色,偶有冠髯为紫色;喙长适中,多呈黑色,少数呈灰黄色,微曲平直无钩;虹彩呈金黄色或橘红色。胫有黑、青、黄、石板等色。皮肤多呈白色,少数呈黑色。翅紧贴不下垂,尾羽发达。\n\n产地条件方面，资料写到海拔2200~3200m;土壤以褐壤、棕壤、灰棕壤为主。土壤肥沃有机质丰富,pH值6.7~6.9。选择地势高燥背风向阳、地下水位较低的地方。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "香格里拉市、德钦县、维西傈僳族自治县",
+      "id": "sw-105a906eb5f01b38f3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "溪洛渡白魔芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "溪洛渡白魔芋是与云南·昭通·永善县相联系的地方食材。原料或品种方面，保护要求记载为选择当地种植历史悠久的白魔芋品种。",
+      "detail": "溪洛渡白魔芋是与云南·昭通·永善县相联系的地方食材。原料或品种方面，保护要求记载为选择当地种植历史悠久的白魔芋品种。种芋质量:薯型端正、皮色嫩黄、光滑、圆形或鸡蛋形、无损伤、无病虫害的一、二龄球茎为种芋,种芋的顶芽应粗壮饱满、芽窝小而浅,充分成熟。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：植株矮小(株高30~60cm),叶片为绿色,茎秆色有紫红色、黑绿相间的麻秆、黑色斑点之分,叶裂有深有浅、地下块茎扁圆形,直径可达25cm以上,球茎皮色多为棕黑色或随土壤肥料有所不同,球茎上的芋鞭3~14条,鲜芋平滑饱满,皮薄肉厚,质嫩呈乳白色,自然析出晶体液。\n\n产地条件方面，资料写到产地选择在适宜区,地势要求山峦相互遮荫或树木遮荫或人工种植高杆作物遮荫。以土层深厚,富含有机质,通透性好,保肥保水能力强,排灌方便,pH值6.0~7.5的砂壤土、黄壤土为宜。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是魔芋挖收的时间一般在10月中、下旬后进行,即倒苗10-15天后待离层老化,球茎充分成熟,择选晴天进行。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "永善县",
+      "id": "sw-6c29fa54d52b60843b",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "绥江半边红李子",
+      "type": "ingredients",
+      "kind": "地方食材或食品原料",
+      "description": "绥江半边红李子是与云南·昭通·绥江县相联系的地方食材或食品原料。",
+      "detail": "绥江半边红李子是与云南·昭通·绥江县相联系的地方食材或食品原料。原料或品种方面，保护要求记载为当地绥江半边红李品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：绥江半边红李子果形近扁圆形,果面光滑,颜色以半边暗红晕为主,缝合线浅,果点明显,分布均匀,果皮薄,具蜡质、离核,核小,果肉呈黄绿色,质脆细腻,酸甜适中,耐贮藏。\n\n产地条件方面，资料写到海拔400~1000m,土壤类型为土质疏松、土壤透气和排水良好的壤土和轻粘土,pH值5.5~6.5,有机质含量不少于2.0%,土层厚度不少于60.0cm,地下水位与地表距离不少于1.0m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是7月初至8月底采收。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "绥江县",
+      "id": "sw-6d9f4890a3842055b8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "老姆登茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "老姆登茶是与云南·怒江州·泸水市、福贡县相联系的地方茶或代用茶。",
+      "detail": "老姆登茶是与云南·怒江州·泸水市、福贡县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为经过国家或省级审(认、鉴)定的茶树品种(系),如勐库大叶种、凤庆大叶种、云抗系列等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：干茶外形美观,条索紧实,紧卷多毫,整碎匀齐纯净,芽叶纯整,有锋苗,色泽嫩绿匀润,光泽油润,芳香浓郁。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括老姆登晒青茶加工工艺:摊青→杀青→揉捻→解块(或理条)→日光干燥→包装;老姆登烘青绿茶加工工艺:摊青→杀青→揉捻→解块→初烘、理条或做形(毛火)→毛茶摊凉→烘干(足火)→包装。\n\n产地条件方面，资料写到选择海拔1100~2300m,土壤类型主要为红壤、黄壤,质地疏松,土层深厚,通透性良好,有机质含量高,周边无“三废”污染排放源,水源充足,坡度15~35°的山区、半山区和坝区。年平均气温1。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd",
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "泸水市、福贡县",
+      "id": "sw-2aa96a6e9e44f341ad",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "福贡老姆登茶"
+      ]
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "宁蒗高原红米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "宁蒗高原红米是与云南·丽江相联系的地方食材。原料或品种方面，保护要求记载为群选2号、丽粳13~1。",
+      "detail": "宁蒗高原红米是与云南·丽江相联系的地方食材。原料或品种方面，保护要求记载为群选2号、丽粳13~1。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：谷粒饱满,米粒短圆,米粒表皮棕红。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括原料验收入库→振动清理→比重去石→砻谷→谷糙分离→砂辊轻碾→铁辊轻碾→分级→色选→内包装→外包装→成品。\n\n产地条件方面，资料写到海拔高度1800~2750m,土壤类型为壤土、砂壤土,土壤pH值6.0~7.5。有机质含量不少于2.0%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是与贮藏水稻成熟后于10月下旬采用机械化收获,及时晾晒,测量稻谷含水量达标(14.5%)后入库保存。",
+      "sources": [
+        "sw-gi-7279fca9075ca3bd"
+      ],
+      "locality": "丽江相关产区",
+      "id": "sw-b4a318b661650d958d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "宣汉桃花米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "宣汉桃花米是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为川优6203、丰优香占、宜香优2115等品种。",
+      "detail": "宣汉桃花米是与四川·达州·宣汉县相联系的地方食材。原料或品种方面，保护要求记载为川优6203、丰优香占、宜香优2115等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表面光滑,米粒长,晶莹剔透,细腻油亮。煮出的米饭粘度适度,胀性好,饭不爆腰,香气横溢,入口芳香滋润,滑润爽口,口感佳。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括筛选去杂→比重去石→磁选→砻谷→谷糙分离→糙米精选→碾米→米糠分离→抛光→色选→二次抛光→二次分离。\n\n产地条件方面，资料写到海拔高度670~1140m,土壤类型以水稻土、紫色土为主,兼有冲积土和黄壤,土壤厚度不少于80cm,有机质含量不少于1.5%,土壤pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工1.采收。8月底至10月初,稻谷含水量19%~22%时收割。2.加工工艺。筛选去杂→比重去石→磁选→砻谷→谷糙分离→糙米精选→碾米→米糠分离→抛光→色选→二次抛光→二次分离。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "宣汉县",
+      "id": "sw-03caae297e0d46e313",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "攀枝花芒果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "攀枝花芒果是与四川·攀枝花·东区、西区、仁和区、米易县、盐边县相联系的地方食材。",
+      "detail": "攀枝花芒果是与四川·攀枝花·东区、西区、仁和区、米易县、盐边县相联系的地方食材。原料或品种方面，保护要求记载为凯特、金煌、红贵妃、热农、攀育、椰香等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：具有纤维少、味甜芳香、质地腻滑、营养丰富的独特品质。攀枝花芒果在9月-10月成熟,比国内其他芒果产区晚熟1-2个月。(1)攀枝花芒果(凯特)果大,卵圆形,果鼻明显,果顶圆,果肩较平,果蒂直,果皮薄光滑,果粉厚,果点密、小、白色。青果黄绿色,向阳面有红晕,熟果底色黄绿色、盖色紫红色,套袋果实熟果绿黄色。\n\n产地条件方面，资料写到海拔高度不超过1700m,土壤类型为燥红壤、红壤、砂质土、紫色土,土层厚度不少于60cm,有机质含量不少于1%,土壤pH值6.0~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月-12月,果实成熟度达七成熟以上采收,一果两剪。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "东区、西区、仁和区、米易县、盐边县",
+      "id": "sw-979cb6b72243b34331",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "石棉黄果柑",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "石棉黄果柑是与四川·雅安·石棉县相联系的地方食材。原料或品种方面，保护要求记载为大果平顶黄果柑、大果凸顶黄果柑、小果型黄果柑。",
+      "detail": "石棉黄果柑是与四川·雅安·石棉县相联系的地方食材。原料或品种方面，保护要求记载为大果平顶黄果柑、大果凸顶黄果柑、小果型黄果柑。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实有卵圆形,单果重140~180g,多平蒂,有沟纹,果面橙色或橙黄色,有光泽,油胞凸起,呈油浸状,果皮薄,易剥离,中心柱空大,果实基本无核,肉质脆嫩化渣,多汁,酸甜爽口,微具香气。\n\n产地条件方面，资料写到海拔高度不超过1200m,土壤类型为沙壤土,土层厚度不少于70cm,有机质含量不少于1.5%,土壤pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是3月下旬,根据成熟度及海拔分批采摘。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "石棉县",
+      "id": "sw-eae379f6ce7ad8054d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "崭山米枣",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "崭山米枣是与四川·绵阳·三台县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的传统米枣品种。",
+      "detail": "崭山米枣是与四川·绵阳·三台县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的传统米枣品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果小呈圆柱形,果形端庄,果顶平,皮薄光滑,果皮呈浅黄色。果肉绿黄色,肉质酥脆、化渣,味酸甜,品质佳,核小、梭形、红褐色。\n\n产地条件方面，资料写到土壤类型为沙质或沙壤土,土壤厚度不少于80.0cm,土壤有机质土质含量1.1%~2.5%,土壤pH值6.8~8.2。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是8月上旬至9月上旬,鲜食果宜在果面初红至半红时的脆熟期采收,外运果在白熟期末或脆熟期的前期采收。\n\n与原料形成有关的生产记录还包括使用根蘖苗,修根剪枝,按根茎粗度分级。采用畦灌、沟灌,在发芽期、开花前、果实膨大期和果实成熟期各浇水1次,保持枣园60cm以上土层的含水量不少于14%。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "三台县",
+      "id": "sw-080fb744feb20d309f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "纳溪特早茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "纳溪特早茶是与四川·泸州·江阳区、纳溪区、合江县、叙永县相联系的地方茶或代用茶。",
+      "detail": "纳溪特早茶是与四川·泸州·江阳区、纳溪区、合江县、叙永县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为乌牛早、福选9号、福鼎大白、中黄2号、黄金芽等特早品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形扁平挺直,黄绿隐毫、匀净,汤色黄绿明亮,香气栗香浓郁持久,滋味鲜醇爽口,叶底黄绿匀亮。\n\n产地条件方面，资料写到海拔高度230~960m,土壤类型为黄壤、黄棕壤,土层厚度>60cm,有机质含量不少于1.5%,土壤pH值4.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1月下旬至4月上旬,采摘单芽至一芽二叶。提采,保持芽叶完整、新鲜、匀净。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "江阳区、纳溪区、合江县、叙永县",
+      "id": "sw-15dfa41651506b0a46",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "广汉缠丝兔",
+      "type": "dishes",
+      "kind": "地方菜肴与加工食品",
+      "description": "广汉缠丝兔是与四川·德阳·广汉市相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为要求1.肉兔。",
+      "detail": "广汉缠丝兔是与四川·德阳·广汉市相联系的地方菜肴与加工食品。原料或品种方面，保护要求记载为要求1.肉兔。产地范围内养殖的肉兔,应符合国家相关标准规定。2.白酒。用广汉天然涌泉水酿制的白酒,应符合国家相关标准规定。3.其他辅料。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：形态完整,体表因细绳从颈部缠至后腿,呈螺旋形缠绕,腹部缠紧不露料,体表呈棕褐红色或红棕色,无黏液,无霉点;肌肉丰满,肌肉切面紧密,呈淡红色或玫瑰色,略有弹性;味香浓郁,咸香适宜,具有缠丝兔所特有的腌腊风味。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括修整→配料→腌制→缠绕成型→熏烤→卤制(熟制)→杀菌(熟制)→包装入库。\n\n产地条件方面，资料写到1.肉兔。产地范围内养殖的肉兔,应符合国家相关标准规定。2.白酒。用广汉天然涌泉水酿制的白酒,应符合国家相关标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "广汉市",
+      "id": "sw-14eccb41fe27a09e77",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "彭州莴笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "彭州莴笋是与四川·成都·彭州市相联系的地方食材。原料或品种方面，保护要求记载为青挂丝、竹筒青。",
+      "detail": "彭州莴笋是与四川·成都·彭州市相联系的地方食材。原料或品种方面，保护要求记载为青挂丝、竹筒青。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：长35~40cm,茎干笔直、基部无裂口、无明显纤维木质化状、呈鲜绿或略带紫红;叶色鲜绿,紧裹茎干,顶端无抽薹;皮薄肉厚,肉色鲜绿、质脆、清香味浓。\n\n产地条件方面，资料写到海拔高度500~530m,土壤类型为黑色、褐色壤土,土层厚度不少于20cm,有机质含量不少于2.0%,土壤pH值6.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当主茎顶端与最高叶片的叶尖相平时采收。\n\n与原料形成有关的生产记录还包括苗龄30-40天,有5~6片真叶时定植。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560",
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "彭州市",
+      "id": "sw-f679db3f3111f73123",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "彭州莴笋"
+      ]
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "都江堰方竹笋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "都江堰方竹笋是与四川·成都·都江堰市相联系的地方食材。原料或品种方面，保护要求记载为方竹属(ChimonobambusaMakino)刺黑竹(ChimonobambusaneopurpureaYi)。",
+      "detail": "都江堰方竹笋是与四川·成都·都江堰市相联系的地方食材。原料或品种方面，保护要求记载为方竹属(ChimonobambusaMakino)刺黑竹(ChimonobambusaneopurpureaYi)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：毛笋呈长圆锥形,长35~54cm,外壳紫褐色,有褐黄色斑点分布,基部被有少量黄褐色刺毛,地径3.0~4.5cm;去壳长25~35cm,乳黄色,有光泽,笋香味浓郁;剖开后笋肉肥厚,笋壁0.7~1.2cm,口感脆嫩,略带香甜味。\n\n产地条件方面，资料写到海拔不超过1500m的低山、丘陵缓坡地,坡度不超过25°,土壤类型为沙质壤土或红、黄壤土,土层厚度不少于50cm,土壤pH值4.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是储存1.采收。8月上旬至10月底,竹笋出土15~20cm时采收。2.储存。采收后应及时鲜销或进行杀青处理或进行冷藏保鲜。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "都江堰市",
+      "id": "sw-bbc8c6cb1553d4e679",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "都江堰茶叶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "都江堰茶叶是与四川·成都·都江堰市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为黔眉502、特早213、名选131、福鼎大白茶、福选9号等优良品种。",
+      "detail": "都江堰茶叶是与四川·成都·都江堰市相联系的地方茶或代用茶。原料或品种方面，保护要求记载为黔眉502、特早213、名选131、福鼎大白茶、福选9号等优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形条索自然微卷,黄绿带毫。清香带栗香,持久;滋味鲜爽醇和;叶底匀齐,黄绿明亮;汤色黄绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶摊放→杀青→摊凉→揉捻→杀二青(烘二青)→摊凉→二揉→烘干→贮藏。\n\n产地条件方面，资料写到平地或坡度3~15°的缓坡地,园地土质疏松、肥沃,土壤pH值4.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘单芽、一芽一叶初展、一芽二叶。采用掐采、提手采、双手采。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "都江堰市",
+      "id": "sw-6e53acfd663376e60d",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "苍溪鳖",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "苍溪鳖是与四川·广元·苍溪县相联系的地方食材。原料或品种方面，保护要求记载为选择从插江国家级水产种质资源保护区及其本地江河中捕捞的野生中华鳖、鳖卵等进行人工养殖和孵化的种鳖。",
+      "detail": "苍溪鳖是与四川·广元·苍溪县相联系的地方食材。原料或品种方面，保护要求记载为选择从插江国家级水产种质资源保护区及其本地江河中捕捞的野生中华鳖、鳖卵等进行人工养殖和孵化的种鳖。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形呈椭圆形,背际呈棕褐色或淡黄色,部分有桂花样斑点,背面光滑,腹面白里透红,板薄、裙宽、色靓、性猛。裙边嫩滑爽口,肉质粘糯有嚼劲,汤鲜味美无油腻感,咽之唇齿留香。\n\n采收或收获环节的记录是养殖3年以上,体重不少于1000g,即可手工捕捉或网捕。\n\n与原料形成有关的生产记录还包括采用塘库堰仿生态养殖和池塘仿生态养殖。选择人工繁殖,体重50~100g的幼鳖放养,塘库堰仿生态养殖的每平方米水面放养0.5~0.8只,池塘仿生态养殖,每平方米水面放养0.8~1只。池塘仿生态养殖,需按时投饲鲜活螺蛳、野杂鱼、鲢鱼、南瓜等。在高温高湿季节的7月-8月间,要特别注意保持水质新鲜。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "苍溪县",
+      "id": "sw-b43e11127c8c517e1a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂油橄榄",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "金堂油橄榄是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为皮瓜儿(Picual)、阿贝基娜(Arbequina)。",
+      "detail": "金堂油橄榄是与四川·成都·金堂县相联系的地方食材。原料或品种方面，保护要求记载为皮瓜儿(Picual)、阿贝基娜(Arbequina)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果皮由青到深紫,蜡质层薄,果色均匀;果肉厚;青苹果味淡雅,涩味适中。(1)阿贝基娜。果实较小,近圆形,0.8~1.2cm,果核椭圆形。(2)皮瓜儿。果实较大,椭圆形,横径1.5~2.2cm,纵径2.6~3.2cm,果核橄榄形。\n\n产地条件方面，资料写到海拔高度400~800m,土质疏松肥沃的粘壤土或壤土,土壤pH值6.5~8.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实70%~80%进入成熟期时采收。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "金堂县",
+      "id": "sw-b5d2035506de6b120e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺山药",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "安顺山药是与贵州·安顺·西秀区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的传统山药品种。",
+      "detail": "安顺山药是与贵州·安顺·西秀区相联系的地方食材。原料或品种方面，保护要求记载为产地范围内的传统山药品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：山药又名薯蓣、白苕、山薯、大薯或薯药,属薯蓣科、山药属,包括许多种,为一年生或多年生草本(藤本)植物,有棍棒状、掌状和块状等,外表呈赤褐、黄褐和黑褐等色,肉带丝状白色,叶互生和对生、叶柄长、侧枝多、多数为单叶,叶腋生出气生块茎,称为零余子或山药豆,俗称山药果,可供繁殖和食用,花小、雌雄异株、蔟生、呈穗状。\n\n产地条件方面，资料写到土壤类型为水稻土、黄壤、石灰土,土层厚度不少于40cm,有机质含量不少于0.6%,土壤pH值。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是10月中下旬至11月上旬,当地上部分发黄枯死时采收。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "西秀区",
+      "id": "sw-23a7b7b7659de4f504",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "从江香禾糯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "从江香禾糯是与贵州·黔东南州·从江县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内自产自育经提纯、复壮过的具抗逆性强、抗病虫害、优质高产稳产的优质香禾糯稻品种。",
+      "detail": "从江香禾糯是与贵州·黔东南州·从江县相联系的地方食材。原料或品种方面，保护要求记载为产地范围内自产自育经提纯、复壮过的具抗逆性强、抗病虫害、优质高产稳产的优质香禾糯稻品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：品质好,按芒的长短分为长芒、短芒和无芒,穗大,粒谷色彩多,米粒大饱满,呈卵圆形,色泽洁白,其米饭软而黏、油质多、不粘手、喷香可口,食而不腻。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括稻谷→筛选→除杂→打芒→砻谷→谷糙分离→碾米→白米分级→抛光→凉米→色选。\n\n产地条件方面，资料写到土壤类型为黄泥田、红泥田、潮泥田以及潜育性水稻土,土壤pH值4.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工1.采收。10月-11月适时收获,捆成禾把晾晒在禾晾上1个月左右,至水分含量不超过14.5%。2.加工工艺。稻谷→筛选→除杂→打芒→砻谷→谷糙分离→碾米→白米分级→抛光→凉米→色选。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "从江县",
+      "id": "sw-0641d8d3856df0edf3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "香格里拉牦牛肉",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "香格里拉牦牛肉是与云南·迪庆州·香格里拉市、德钦县相联系的地方食材。",
+      "detail": "香格里拉牦牛肉是与云南·迪庆州·香格里拉市、德钦县相联系的地方食材。原料或品种方面，保护要求记载为香格里拉牦牛。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：平均体高,成年公牦牛为119.05cm,成年母牦牛为105.23cm,平均活重分别在234.55kg和192.47kg左右为最佳屠宰期。屠宰后的鲜牦牛肉颜色深红,色泽均匀,有光泽,脂肪颜色为淡黄色,肉质细嫩有弹性,指压后凹陷恢复较快,外表湿润,不粘手,切面湿润,具有新鲜牦牛肉正常气味,无异味、无霉斑等污染。\n\n采收或收获环节的记录是喷水淋浴→致昏→刺杀放血→剥皮→去头蹄→开膛解体→检验→称重→入库冷藏。\n\n与原料形成有关的生产记录还包括以天然饲草加人工优质牧草为主,冬、春季节以青贮饲料为主,夏、秋季节以自由放牧为主。5-8周岁,成年公牦牛平均体高为119.05cm,成年母牦牛平均体高为105.23cm,平均活重分别为234.55kg和192.47kg左右为最佳出栏期。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "香格里拉市、德钦县",
+      "id": "sw-99432ef9a8b27a6365",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "弥勒葡萄",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "弥勒葡萄是与云南·红河州·弥勒市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为水晶葡萄、玫瑰蜜等品种。",
+      "detail": "弥勒葡萄是与云南·红河州·弥勒市相联系的地方果蔬或干果。原料或品种方面，保护要求记载为水晶葡萄、玫瑰蜜等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果为圆形,颗粒大、果实大小匀称,果穗长10~13cm,穗重150~200g,百粒重200~300g,果面洁净,果粉完整,无病虫害,果面无干瘪和机械伤。水晶葡萄果皮色泽金黄色,形态如玉如珠,晶莹闪耀,似玛瑙、赛珍珠;玫瑰蜜葡萄果皮色泽紫红色至紫黑色,形态如蓝宝石。\n\n产地条件方面，资料写到海拔高度1200~1500m,土壤类型为红壤,土层厚度不少于30cm,有机质含量不少于2.9%,土壤pH值6.0~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月-9月上旬,水晶葡萄果粒呈青黄色,果皮透明状时采摘;玫瑰蜜果粒呈紫黑色,带一层薄薄的果粉时采摘。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "弥勒市",
+      "id": "sw-45fa4bd50b84ffa669",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "石林乳饼",
+      "type": "dairy",
+      "kind": "地方乳制品",
+      "description": "石林乳饼是与云南·昆明相联系的地方乳制品。原料或品种方面，保护要求记载为要求1.羊乳。",
+      "detail": "石林乳饼是与云南·昆明相联系的地方乳制品。原料或品种方面，保护要求记载为要求1.羊乳。选用产地范围内养殖的圭山山羊、杂交改良奶山羊的羊奶,应符合国家相关标准规定。2.凝乳剂。羊奶自然发酵后的上清液或白醋精,应符合国家相关标准规定。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：乳饼呈方形状,色乳黄,表面光滑细腻,其滋味表现为气味良好,香味较淡,没有明显的异常味。乳饼从外表观察,其质地均匀,软硬适度,组织较细腻,可塑性较好。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括净乳→杀菌→凝乳→成型压榨→包装冷藏。\n\n产地条件方面，资料写到1.羊乳。选用产地范围内养殖的圭山山羊、杂交改良奶山羊的羊奶,应符合国家相关标准规定。2.凝乳剂。羊奶自然发酵后的上清液或白醋精,应符合国家相关标准规定。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "昆明相关产区",
+      "id": "sw-4f5f6110d3e1bad43a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "丘北辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "丘北辣椒是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方食材。",
+      "detail": "丘北辣椒是与云南·文山州·文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县相联系的地方食材。原料或品种方面，保护要求记载为选择抗逆性、抗病性的优质线形辣椒。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：干椒果实细长,呈线形,果皮鲜红色或暗红色,果长5~13cm,果径0.4~1.2cm,果形微弯,向上微尖,果面油亮光滑,有凹凸,品质香辣,辣而不烈,营养丰富。\n\n产地条件方面，资料写到土壤类型主要为红壤、黄壤,土壤肥沃、疏松、透气排水性良好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是70%以上的果实成熟时连株拔除,每6~10株扎成一把晾干。\n\n与原料形成有关的生产记录还包括5月下旬至6月上旬单株定植,株行距约30cm×40cm,每667m2栽4500~5000株。定植前要做到透雨定植,若遇干旱要浇足定根水。定植后注意清沟排水。在定植缓苗后2-3周内,结合第一次追肥,锄松土壤并做到墙面无杂草。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "文山市、砚山县、西畴县、麻栗坡县、马关县、丘北县、广南县、富宁县",
+      "id": "sw-9afa0d8ee85d7d60c0",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "丘北辣椒"
+      ]
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "白竹山茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "白竹山茶是与云南·楚雄州·双柏县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为以优质的云南大叶种茶为母本,培育出适宜当地种植的地方群体种。",
+      "detail": "白竹山茶是与云南·楚雄州·双柏县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为以优质的云南大叶种茶为母本,培育出适宜当地种植的地方群体种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茶蓬平均高0.8~1m,树冠1.5~2m,呈水平状或弧型;茶叶成品条索紧实、匀整、有嫩茎、色泽微灰绿润;开汤香气清高、滋味浓醇、汤色黄绿明亮、叶底黄绿嫩匀。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶摊凉→杀青→揉捻→解块→烘干→毛火→足火→筛选→拣剔。\n\n产地条件方面，资料写到海拔高度1800~2600m,土壤类型为腐殖土、紫色土、黄壤土,有机质含量不少于。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是春茶采摘时间为3月-4月,夏季采摘时间为6月,秋季采摘时间在8月-9月。分批多次留叶采摘,采摘方法以提手采为宜。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "双柏县",
+      "id": "sw-b3abe1cf2c4c98798e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临沧坚果",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "临沧坚果是与云南·临沧·临翔区、凤庆县、云县、永德县、镇康县、双江拉祜族佤族布朗族傣族自治县、耿马傣族佤族自治县、沧源佤族自治县相联系的地方食材。",
+      "detail": "临沧坚果是与云南·临沧·临翔区、凤庆县、云县、永德县、镇康县、双江拉祜族佤族布朗族傣族自治县、耿马傣族佤族自治县、沧源佤族自治县相联系的地方食材。原料或品种方面，保护要求记载为OC、A4、344、788、临坚47号。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形呈圆球形或椭圆球形,种皮呈绿色韧质状而表面光亮;果仁壳坚硬光亮而呈棕色或褐色。果仁呈白色或乳白色,可生吃,经烤制后质细而脆,香酥可口,风味极佳。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括储青→杀青→摊凉→揉捻→干燥。\n\n产地条件方面，资料写到海拔高度800~1200m,坡度<25°的阳坡、半阳坡,土壤类型为砖红壤、赤红壤,土层厚度>80cm,有机质含量不少于1.5%,土壤pH值4.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工1.采收。9月初至11月中旬采收。2.加工。(1)脱果皮。采摘24小时内脱果皮。(2)破壳去壳。壳果烘干至果仁含水量不超过3%,将果实与果仁分离,去除果仁表面硬壳。(3)包装贮存。",
+      "sources": [
+        "sw-gi-9074e0d97bc98560"
+      ],
+      "locality": "临翔区、凤庆县、云县、永德县、镇康县、双江拉祜族佤族布朗族傣族自治县、耿马傣族佤族自治县、沧源佤族自治县",
+      "id": "sw-9402ee574eb0cfb073",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆高山辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆高山辣椒是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为渝椒系列、苏椒系列、韩国辣椒系列等。",
+      "detail": "武隆高山辣椒是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为渝椒系列、苏椒系列、韩国辣椒系列等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实为酱果,形状以灯笼、长灯笼、牛羊角、圆锥形居多;果大肉厚,果形匀称,菜椒果色草绿色至深绿色,加工形辣椒深褐色或鲜红色,菜体无萎蔫、无污染物、无腐烂、无异味、无灼伤、无裂果、无冻害、无病虫害、无机械损伤。口感微甜,清香,辣度适中、商品性佳。\n\n产地条件方面，资料写到海拔高度900~1300m,土壤为黄壤,多为岩成土,pH值5.5~6.5,有机质含量平均为2.6%~3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是武隆高山辣椒果实,及时采收,避免伤害根茎,并留其种子次年种植。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-d30118be138ccc6ddb",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "梁平柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "梁平柚是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为龙滩405、福禄64号、园77~1。",
+      "detail": "梁平柚是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为龙滩405、福禄64号、园77~1。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：梁平柚果高肩平顶,高扁圆形,果形美观,色泽橙黄,皮薄光滑,油胞较细,果皮芳香浓郁。\n\n产地条件方面，资料写到土壤以红棕紫泥土,水稻土和山地黄壤土为主。土壤pH值6.0~7.5,土壤中N、P、K含量丰富,肥力中等偏上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工带枝采摘。\n\n与原料形成有关的生产记录还包括果实成熟期保持土壤适度干旱,叶片中午微卷而傍晚能恢复可不灌溉。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "梁平区",
+      "id": "sw-bc48248152ca623031",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆高山白菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆高山白菜是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、外观和内在品质好且符合市场需求的白菜优良品种。",
+      "detail": "武隆高山白菜是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、外观和内在品质好且符合市场需求的白菜优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实为长角果圆筒形,较粗短,叶片明亮,水分适宜而没枯萎,表面无泥土、灰尘及其他污染物,无烧心、无裂球、无腐烂、无异味、无冻害、无病虫害、无机械伤。产品脆、嫩、甜,口感好。2.。\n\n产地条件方面，资料写到土壤为黄壤,多为岩成土,pH值5.5~6.5,有机质含量平均为2.6%~3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年夏秋季节进行采收。采收时轻拿轻放,避免机械损伤。同时,去除黄叶、老叶等不可食部分。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-97562df4fa443813d9",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆高山萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆高山萝卜是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为韩国幕田春、白玉大根等品种。",
+      "detail": "武隆高山萝卜是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为韩国幕田春、白玉大根等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：以肥大的肉质根供食用。肉质根的形状、大小、色泽等因品种不同而异,有长圆筒形、长圆锥形、扁圆形等。外皮一般白色,肉质颜色大多为白色,肉质根的大小差异也大。在肉质根生长盛期,大量的同化物质输送到肉质根内贮藏,肉质根膨大,生长速度快。2.。\n\n产地条件方面，资料写到土壤为黄壤,多为岩成土,pH值5.5~6.5,有机质含量平均为2.6%~3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是锄挖犁翻的方式进行采收,采收后就地码成小堆,并用菜叶覆盖,以散发田间热并防止风吹日晒和夜间受冻。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-7609fefcdcf9a9ef55",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆高山马铃薯",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆高山马铃薯是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、外观和内在品质好且符合市场需求的马铃薯优良品种,如鄂薯三号等品种。",
+      "detail": "武隆高山马铃薯是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选用抗病虫、外观和内在品质好且符合市场需求的马铃薯优良品种,如鄂薯三号等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茎块扁圆形,皮黄白,口感好、有特殊香味,无腐烂、无异味、无病虫害、无机械损伤。\n\n产地条件方面，资料写到海拔1200m以上的高山地带,地层为石灰岩,土壤为黄壤,pH值5.5~6.5,有机质含量平均为2.6%~3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是于收获期选择晴朗天气及时收获,收获时确保土壤持水量较低,薯块粘土少,易于与土壤分离。收获后的薯块放在阴凉地方晾干表面水分,严格避免烈日直晒。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-8e77b171b50c3735cf",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆高山甘蓝",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆高山甘蓝是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选择秋实1号、丰园913、西园系列等品种。",
+      "detail": "武隆高山甘蓝是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为选择秋实1号、丰园913、西园系列等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实为扁平圆形,叶片明亮,水分适宜而没枯萎,表面无泥土、灰尘及其他污染物,无烧心、无裂球、无腐烂、无异味、无冻害、无病虫害、无机械伤。2.。\n\n产地条件方面，资料写到土壤为黄壤,多为岩成土,pH值5.5~6.5,有机质含量平均为2.6%~3%。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是甘蓝生长约70-100天左右即可采收,采收甘蓝时,需要使用锋利的刀具,将其离地割断。采收后,需要将甘蓝放在透气性好的容器中保存。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-590c61081235890527",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "梁平肉鸭",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "梁平肉鸭是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为花边鸭。",
+      "detail": "梁平肉鸭是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为花边鸭。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：出栏的肉鸭应腹部丰满,蹼实厚,羽毛光滑,无疾病。加工后的卤烤鸭,肉质细嫩、味香不腻、色泽鲜美。\n\n产地条件方面，资料写到土质多为透气性、渗水性良好的沙土或壤土质。育雏舍内其温度保持在20~30°C之间,出栏舍内其温度保持在10~20°C之间。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括第三是要掌握好育雏期的温度、湿度、光照、通风换气、饲养密度等。首先是合理分群,其次是更换中鸭饲料,第三是抓好强次育肥。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "梁平区",
+      "id": "sw-c119662039e248a307",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南川米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南川米是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为杂交优质稻品种:丰优香占、Q优1号、2号等;常规高档优质稻品种:小粒粘、胜泰1号等。",
+      "detail": "南川米是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为杂交优质稻品种:丰优香占、Q优1号、2号等;常规高档优质稻品种:小粒粘、胜泰1号等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒油浸,心腹白较少,经蒸煮后米饭滋润,清香味浓。\n\n产地条件方面，资料写到选择由沙溪庙组、蓬莱镇组及绥家河组等成土母质发育而成的紫色土和矿质黄泥土,土壤pH值4.5~6.5,富含N、P、K等多种营养元素和微量元素,灌溉方便,水源无污染。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是稻谷黄熟期时选晴天气收割。提倡采用机械收割,减少落粒损失。采用晒席阴干,或采用机械化低温烘干,防止在水泥地上暴晒。入仓三个月后加工上市。贮藏期间应翻晒1~2次。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "南川区",
+      "id": "sw-ad1eef593cdce20976",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "江津广柑",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "江津广柑是与重庆·江津区相联系的地方食材。原料或品种方面，保护要求记载为锦橙;先锋橙;晚熟甜橙;蜜奈夏橙、塔罗科血橙等品种。",
+      "detail": "江津广柑是与重庆·江津区相联系的地方食材。原料或品种方面，保护要求记载为锦橙;先锋橙;晚熟甜橙;蜜奈夏橙、塔罗科血橙等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实圆形或卵圆形,色泽均匀,果肉细嫩化渣,味酸甜适度,果汁丰富,微具香气。\n\n产地条件方面，资料写到海拔在400m以下,土壤肥沃,有机质含量高。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是果实达到其本身固有的色泽、香味、风味和口感等品质特征时采摘,采摘初期允许有绿色面积不超过1/3。\n\n与原料形成有关的生产记录还包括顺应分枝习性,因势利导,修剪树形常见的有自然开心形、自然圆头形。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "江津区",
+      "id": "sw-40ad5a98689827945f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "开县锦橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "开县锦橙是与重庆相联系的地方食材。原料或品种方面，保护要求记载为开县春橙、开陈72-1、开盛76-8、北碚447锦橙等。",
+      "detail": "开县锦橙是与重庆相联系的地方食材。原料或品种方面，保护要求记载为开县春橙、开陈72-1、开盛76-8、北碚447锦橙等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形长椭圆形,平均单果重不少于180g,果实色泽橙红,皮薄、光滑细腻,果肉细嫩化渣,果汁丰富,甜酸适度,风味浓郁。\n\n产地条件方面，资料写到海拔高度175~550m,土壤有机质含量高,土层深厚肥沃,pH值6.5左右,保水保肥能力强。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鲜销果在果实正常成熟、表现出本品种固有的品质特征(色泽、香味、风味和口感等)时采收。贮藏果比鲜销果早7-10天采收。用圆头果剪采果,要求一果两剪,果蒂平齐。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "重庆相关产区",
+      "id": "sw-be20ca7e4ea85165d7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南川鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "南川鸡是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为南川鸡(渝09新品种字第03号)。",
+      "detail": "南川鸡是与重庆·南川区相联系的地方食材。原料或品种方面，保护要求记载为南川鸡(渝09新品种字第03号)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体格较小、肌肉强健、肉香味美、蛋肉兼用。从外观上看,头较小、体型紧凑、胸腿肌健壮、鸡爪细;冠大直立、色泽鲜艳。成年公鸡屠宰体重约2.2kg,成年母鸡的屠宰体重约2.0kg。\n\n产地条件方面，资料写到远离污染、通风良好、饮水方便、圈舍氨气浓度低于2×10E-7。30日龄前圈养为主,后转至林下或山地放养。这些条件构成了该地方产品的生产背景。\n\n与原料形成有关的生产记录还包括种鸡群应健康无病,科学饲养,配偶比例适当。雏鸡应保证适宜的温度、湿度、光照,保证鸡舍通风、饮水方便、饲料营养健康。1-30日龄雏鸡地面或网上平养,每平方米30只左右,多层笼养(配负压通风系统)为每平方米46~60只,饲养至30日龄后放养。饲料以玉米、稻谷等粮食为主,定时、定量饲喂,饮水应方便干净。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "南川区",
+      "id": "sw-be08bab4c9eb17eb8e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巫溪洋芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "巫溪洋芋是与重庆·巫溪县相联系的地方食材。原料或品种方面，保护要求记载为以米拉、鄂薯系列为主推品种的脱毒良繁体系。",
+      "detail": "巫溪洋芋是与重庆·巫溪县相联系的地方食材。原料或品种方面，保护要求记载为以米拉、鄂薯系列为主推品种的脱毒良繁体系。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表皮光滑,淡黄带灰,略有光泽。切面平滑,色泽淡黄。蒸煮后口感酥软,细腻,微糯,淡香。\n\n产地条件方面，资料写到海拔高度400~1600m,土壤类型为黄壤、紫色土、石灰土、水稻土和潮土,土层厚度不少于40cm,有机质含量不少于1.5%,土壤pH值5.0~9.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是待地上部茎叶50%落黄、块茎停止膨大后,适期收获。收获前一周,用割秧、拉秧等方法杀秧。成熟后抢晴天收获,尽量减少薯块损伤,收获期防雨、防暴晒。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "巫溪县",
+      "id": "sw-5b33a2ee1fbe83bc50",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "巫溪洋芋"
+      ]
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "璧山儿菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "璧山儿菜是与重庆·璧山区相联系的地方食材。原料或品种方面，保护要求记载为璧山翠玉儿菜。",
+      "detail": "璧山儿菜是与重庆·璧山区相联系的地方食材。原料或品种方面，保护要求记载为璧山翠玉儿菜。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表皮浅绿,肉质紧密、洁白,清香甘甜、无苦味,煮熟后香味浓郁、细嫩化渣、滋润回甜。\n\n产地条件方面，资料写到微酸性壤土、粘壤土和沙壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在当年12月上旬至次年3月间,连叶齐泥削平,削去根、叶,并去泥、去杂、去病株菜头。\n\n与原料形成有关的生产记录还包括幼苗真叶5~6片,苗高18~20cm时定植,苗龄一般在30-40天。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "璧山区",
+      "id": "sw-14546d9c952755a1ae",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "罗盘山生姜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "罗盘山生姜是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为重庆白姜、乐山竹根姜等优良品种。",
+      "detail": "罗盘山生姜是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为重庆白姜、乐山竹根姜等优良品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：形如手掌、姜指长,皮白肉淡黄,表面光洁晶莹,脆嫩微辣,香鲜味浓。\n\n产地条件方面，资料写到选择土层深厚、排灌方便、有机质丰富、保水保肥、微酸性的肥沃的壤土或粘壤土,土壤pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是露地栽培一般在10月中下旬收获。收货时如果土壤过硬,可在收姜前3-4天先浇一小水,使土壤湿润,便于收刨。采收后随即将带有少量潮湿泥土的根茎入窖贮藏,不需晾晒。\n\n与原料形成有关的生产记录还包括在5月以后应及时进行姜田遮荫,促进姜苗健壮生长,用遮阳网覆盖遮阴,早盖晚揭,晴盖阴揭。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "潼南区",
+      "id": "sw-1eb9b06873cafb18a2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "渝北歪嘴李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "渝北歪嘴李是与重庆·渝北区相联系的地方食材。原料或品种方面，保护要求记载为歪嘴李。",
+      "detail": "渝北歪嘴李是与重庆·渝北区相联系的地方食材。原料或品种方面，保护要求记载为歪嘴李。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实较大,果顶尖圆且不正,果面光滑,果皮黄绿色,果霜浓,顶部突起且近核处内空离核,肉质脆嫩化渣,汁多,酸甜可口。\n\n产地条件方面，资料写到歪嘴李适宜在海拔200~700m、年平均气温12~18°C,最好是平地,或坡度为<25°的山坡地、丘陵地栽植,以砂壤土为好,pH值4.5~7.5可以种植,地下水位在1.0m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据果实成熟度、用途和市场需求综合确定采收期,并分批采收。用于鲜食或罐藏的果实应在接近九成熟时采收;用于制干或远销的果实,应在七八分成熟时采收。雨天及果面水珠时不宜采收。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "渝北区",
+      "id": "sw-9c7538948be6037b80",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "潼南萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "潼南萝卜是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为迎冬二号、百慕田等。",
+      "detail": "潼南萝卜是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为迎冬二号、百慕田等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表皮光滑、肉质紧密、脆嫩、微甜、无苦味、无糠心、无黑心,煮熟后香味浓郁、细嫩化渣、滋润回甜。\n\n产地条件方面，资料写到土层深厚、土质疏松、富含矿物质养分和有机质、保水、保肥性好砂壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是根据市场行情及时采收,一般在肉质根充分膨大,肉质根的基部“已圆根”,叶色开始变为黄绿时及时采收。若采收过迟,会引起肉质根空心起布等现象。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "潼南区",
+      "id": "sw-4372c77ac9a10c5607",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "潼南罗盘山猪",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "潼南罗盘山猪是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为体格健壮、具有典型特征的潼南罗盘山猪。",
+      "detail": "潼南罗盘山猪是与重庆·潼南区相联系的地方食材。原料或品种方面，保护要求记载为体格健壮、具有典型特征的潼南罗盘山猪。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：体型中等偏大,体质健壮,被毛全黑,鬃毛粗长刚韧。头中等大,额部横行皱纹较浅,嘴长而稍尖,耳中等偏小。猪肉肉色鲜红,肌肉间脂肪纹路明显,肉质细嫩,煲之则醇、烹之则甘,口感好。\n\n产地条件方面，资料写到海拔高度300~450m,相对高度多数在50~100m之间,土壤主要有紫色土、黄壤、石质土、砂土和潮土。土壤pH值4.5~6.5,偏酸性。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是当地农村饲养条件下,猪只生长8-12个月,体重100~120kg时出栏。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "潼南区",
+      "id": "sw-e6c2ca1a783fba98b8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "云阳红橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "云阳红橙是与重庆·云阳县相联系的地方食材。原料或品种方面，保护要求记载为红肉脐橙(卡拉卡拉脐橙)。",
+      "detail": "云阳红橙是与重庆·云阳县相联系的地方食材。原料或品种方面，保护要求记载为红肉脐橙(卡拉卡拉脐橙)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实圆球形,中等大小,果皮深橙色,皮薄、光滑,果肉呈均匀红色,肉质致密脆嫩,多汁,风味甜酸爽口,有玫瑰香味。\n\n产地条件方面，资料写到选择海拔<400m,坡度不超过20°的山地建园。土壤质地良好,土壤深厚、肥沃、疏松、湿润而不渍水。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年12月底至1月成熟后开始采收,采用“一果两剪”法,即:第一剪离果蒂约1cm处下剪,再齐果蒂剪第二剪,不要伤及果蒂。\n\n与原料形成有关的生产记录还包括因树因品种修剪,达到通风透光、立体结果、省力增效的目的。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "云阳县",
+      "id": "sw-47fb81ca4c35c224cd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南川大树茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "南川大树茶是与重庆·南川区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为重庆市南川区金佛山区特有的乔木型野生茶树地方品种。",
+      "detail": "南川大树茶是与重庆·南川区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为重庆市南川区金佛山区特有的乔木型野生茶树地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形肥壮,色泽深绿,品种香浓郁,汤色黄绿明亮,滋味鲜醇回甘,叶底黄绿匀亮。\n\n产地条件方面，资料写到土壤要求母质为二迭纪发育而成的扁沙土,pH值4.5~6.5,中等以上肥力,产地海拔高度在800~1600m范围。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘,优质茶鲜叶要求一芽二叶和一芽三叶初展,名茶鲜叶要求单芽至一芽一叶开展。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "南川区",
+      "id": "sw-09816a328840bceb9b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南川金佛玉翠茶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "南川金佛玉翠茶是与重庆·南川区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为以福鼎大白茶、巴渝特早、蒙山9号、名山131、早白尖5号等国家级或省级茶树中、小叶优良品种和当地中、小叶群体品种为主。",
+      "detail": "南川金佛玉翠茶是与重庆·南川区相联系的地方茶或代用茶。原料或品种方面，保护要求记载为以福鼎大白茶、巴渝特早、蒙山9号、名山131、早白尖5号等国家级或省级茶树中、小叶优良品种和当地中、小叶群体品种为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形紧直绿润,汤色嫩绿明亮,栗香持久,滋味浓醇爽口,叶底黄绿明亮。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括鲜叶摊放→杀青→初揉→理条→做形提毫→足干→整理去杂。\n\n产地条件方面，资料写到海拔高度600~1200m,土壤pH值4.5~6.5,土壤类型为砂、粘适中的紫色土和黄泥土,土层深度35cm以上。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘,当茶树蓬面每平方米有10~15个茶芽符合采摘标准时为开采适期,以清明前后为最宜采摘期。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "南川区",
+      "id": "sw-6ae039ca0099b4a10e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "永川莲藕",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "永川莲藕是与重庆·永川区相联系的地方食材。原料或品种方面，保护要求记载为渝莲系列,应选优良品种纯种的主藕和较大的子藕作种,种藕的顶芽、侧芽、叶芽完整。",
+      "detail": "永川莲藕是与重庆·永川区相联系的地方食材。原料或品种方面，保护要求记载为渝莲系列,应选优良品种纯种的主藕和较大的子藕作种,种藕的顶芽、侧芽、叶芽完整。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：表面光滑、黄白色,色泽均匀;藕体呈圆筒形,藕身粗壮硬实;藕肉洁白,孔小肉厚。生食质脆、富甜味;炒食粉脆,回甜;炖汤易粑、易粉、不浑汤、清香味美。\n\n产地条件方面，资料写到莲藕对土质要求不严格,在较大范围内都能生长,适宜pH值5.5~7.5。耐肥,适宜在有机质丰富,耕作层较深(30~50cm)且保水能力强的粘质土壤中生长。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采收。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "永川区",
+      "id": "sw-d3c9ac633be94ddfd3",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "城口核桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "城口核桃是与重庆·城口县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为的选择栽培本地区的优良品种—薄壳纸皮核桃、乌米核桃。",
+      "detail": "城口核桃是与重庆·城口县相联系的地方果蔬或干果。原料或品种方面，保护要求记载为的选择栽培本地区的优良品种—薄壳纸皮核桃、乌米核桃。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：大小均匀,壳面洁净,缝合线紧密,壳薄易剥;核仁饱满,肉质细腻,口感香酥。\n\n产地条件方面，资料写到海拔高度为481.5~2686m。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是核桃收获期为9月下旬至10月上旬。当青果皮颜色逐渐由深绿变淡黄,全树果实青皮有1/3开裂,即可采收。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "城口县",
+      "id": "sw-712f1899cb7190dfeb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "渝北梨橙",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "渝北梨橙是与重庆·渝北区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为梨橙。",
+      "detail": "渝北梨橙是与重庆·渝北区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为梨橙。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大,果形呈梨形或倒卵形,果皮色泽鲜艳,呈橙红色或深橙色、少核或无核,果肉细嫩化渣,汁多味浓,甜酸适度,微有香气。\n\n产地条件方面，资料写到建园选择坡度<25°,海拔高度<400m,土壤质地良好,疏松肥沃,pH值5.2~7.2;土层厚度不少于0.8m,排水良好,地下水位在1.0m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是鲜销果在果实正常成熟、表现出本品种固有的品质特征时采收。贮藏果比鲜销果宜早7-10天采收。采收应在晴天露水干后进行。采收人员应剪平指甲或戴手套。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "渝北区",
+      "id": "sw-fd80a3718b0c311c45",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "城口洋芋",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "城口洋芋是与重庆·城口县相联系的地方食材。原料或品种方面，保护要求记载为选择具有代表性的品种,质量符合国标要求的“鄂薯5号”、“棒棒洋芋”种薯。",
+      "detail": "城口洋芋是与重庆·城口县相联系的地方食材。原料或品种方面，保护要求记载为选择具有代表性的品种,质量符合国标要求的“鄂薯5号”、“棒棒洋芋”种薯。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：长椭圆形,薯形规整、大中薯率高,芽眼浅且少,表皮光滑;食用口感软、细腻,淡香、微甜。\n\n产地条件方面，资料写到地域范围最低海拔481.5m、最高海拔2686m。选择排灌条件好、土质较轻、土层深厚、疏松肥沃、通透性好的地块。实行三茬以上轮作,以豆类、玉米、大葱等为前茬,禁忌与茄科作物连作、对茬。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是6月-7月即可收获上市,根据鲜薯上市或交售、贮藏时间适期收获。收获时轻拿轻放,避免滑皮。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "城口县",
+      "id": "sw-484a02d76e201c423f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "万州罗田大米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "万州罗田大米是与重庆·万州区相联系的地方食材。原料或品种方面，保护要求记载为选用品质好,耐肥抗倒,分蘖中等,穗大粒多,千粒重较高,抗病性较强,耐寒性好、收割期弹性较大的优质杂交稻品种,坚持常年同步引进区内外品质好抗性强的品种进行筛选试验。",
+      "detail": "万州罗田大米是与重庆·万州区相联系的地方食材。原料或品种方面，保护要求记载为选用品质好,耐肥抗倒,分蘖中等,穗大粒多,千粒重较高,抗病性较强,耐寒性好、收割期弹性较大的优质杂交稻品种,坚持常年同步引进区内外品质好抗性强的品种进行筛选试验。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：米粒饱满、外观颜色透明、心腹白较少,有清香味;蒸煮后米饭油亮、米粒膨胀均匀,味浓郁香,口感柔软有弹性。\n\n产地条件方面，资料写到海拔800m以上,土壤全部为紫色土,土壤肥力养分含量较高,有机质含量为。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是9月下旬至10月中旬,采用机械收割,减少落粒损失。采用慢晒干或晒席阴干,或机械化低温烘干,禁止在公路、沥青路面及粉尘污染严重的地方脱粒、扬晒稻谷。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "万州区",
+      "id": "sw-1a9cefcf31b7b4c79c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "南山腊梅",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "南山腊梅是与重庆相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为采用花朵密大,花瓣厚,腊色鲜亮,香味浓,瓶插期长,鲜切花产量高,经济性好的优良品种,且合理搭配早、中、晚花品种,注重选择早花或晚花腊梅优新品种。",
+      "detail": "南山腊梅是与重庆相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为采用花朵密大,花瓣厚,腊色鲜亮,香味浓,瓶插期长,鲜切花产量高,经济性好的优良品种,且合理搭配早、中、晚花品种,注重选择早花或晚花腊梅优新品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：香气清馨,腊色鲜亮,花密朵大,花形优美,富有光泽,花枝优美,质地强健,花期早,瓶插期长。2.。\n\n产地条件方面，资料写到海拔高度180~681m。选择背风向阳、地势高燥,土壤疏松、深厚、排水良好的中性或微酸性砂质壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是腊梅鲜切花在花蕾初开时采收,采后放入冷凉处,0~2°C冷藏条件下可保鲜30-50天。切枝时切枝下剪口应斜长为45°,上剪口平齐,剪口平滑。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "重庆相关产区",
+      "id": "sw-f0a7283519abb3db8f",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "垫江白柚",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "垫江白柚是与重庆·垫江县相联系的地方食材。原料或品种方面，保护要求记载为垫江白柚。",
+      "detail": "垫江白柚是与重庆·垫江县相联系的地方食材。原料或品种方面，保护要求记载为垫江白柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：阔卵圆形,果皮金黄、果基有放射沟纹,果大,果皮柔软,果肉白色,细嫩化渣、酸甜汁多、有蜂蜜味、清香可口。\n\n产地条件方面，资料写到海拔高度320~600m,土壤类型为沙壤土、壤土,土壤深厚、肥沃,土壤有机质含量高,pH值5.5~7.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是一般在10月下旬至11月上旬果实成熟时采收。贮藏用果一般提前在“霜降”前一周或果面上色三分之二时采摘,鲜食果在完熟期采收,严禁恶性早采。\n\n与原料形成有关的生产记录还包括在秋9月至春3月均可定植,以9月-10月栽植较好,定植时应选阴天或晴天傍晚进行。在定位树盘上挖定植小穴,酸柚砧35~40株/亩,香橙砧40~45株/亩。整形宜在苗期和幼树期进行,以自然开心树形为主。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "垫江县",
+      "id": "sw-c52b139deb70f43755",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "太和胡萝卜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "太和胡萝卜是与重庆·合川区相联系的地方食材。原料或品种方面，保护要求记载为重庆市合川区当地特产地方品种。",
+      "detail": "太和胡萝卜是与重庆·合川区相联系的地方食材。原料或品种方面，保护要求记载为重庆市合川区当地特产地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：肉质根长圆柱形,长25~30cm,横径2.5~3.5cm,单根重150~200g;表皮呈红色、较光滑,须根较少;肉红色,心柱黄色、较小;味道香甜,风味浓郁,生食脆嫩,熟食化渣。\n\n产地条件方面，资料写到地势平坦、排灌方便、土层深厚、土质疏松肥沃、富含矿物质养分和排灌条件优越的沙壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是一般适宜采收期为11月下旬至次年2月下旬。太和胡萝卜自播种至采收100-120天,肉质根充分膨大成熟方可采收。成熟时表现为叶片不再生长,不见新叶,下部叶片变黄。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "合川区",
+      "id": "sw-ef57b02cb75df16664",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "合川湖皱丝瓜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "合川湖皱丝瓜是与重庆·合川区相联系的地方食材。原料或品种方面，保护要求记载为当地特产的合川湖皱丝瓜地方品种。",
+      "detail": "合川湖皱丝瓜是与重庆·合川区相联系的地方食材。原料或品种方面，保护要求记载为当地特产的合川湖皱丝瓜地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实长圆筒形,浅绿色,表皮有深绿色条纹,密生白色短茸毛并有皱褶。单嫩瓜重300~500g,长25~30cm,横径4~5cm,横截面近圆形。果肉白色,种子少,易去皮,质地致密、嫩脆,口感细腻化渣,清香、微甜。\n\n产地条件方面，资料写到排灌方便、土层深厚、肥沃、疏松的有机质含量丰富的保水保肥能力强的沙壤土、壤土、粘壤土,避免与瓜类连作。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是合川湖皱丝瓜从雌花开放到采收嫩瓜需8-12天,当瓜身饱满、皮色呈现品种特性、瓜重500~1000g、花蒂尚未凋落时及时采收。盛果期每隔1-2天采收1次。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3",
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "合川区",
+      "id": "sw-aa0265304c4d86b2d2",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest",
+      "aliases": [
+        "合川湖皱丝瓜"
+      ]
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "故陵椪柑",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "故陵椪柑是与重庆相联系的地方食材。原料或品种方面，保护要求记载为新生系3号和岩溪晚芦等椪柑品种。",
+      "detail": "故陵椪柑是与重庆相联系的地方食材。原料或品种方面，保护要求记载为新生系3号和岩溪晚芦等椪柑品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈扁圆或高腰扁圆形;果皮颜色鲜艳,橙黄色,蜡质层厚,有光泽,易剥;果基平,有放射状沟纹;果顶广凹,部分有小脐;单果重130~180g。果肉橙黄色,脆嫩汁多,爽口化渣,风味浓郁,品质极佳。\n\n产地条件方面，资料写到土壤肥沃,有机质含量不少于1.5%;种植基地水质洁净,排灌便利,水源充足,沟渠及排灌配套;附近5公里内无大型工矿企业、垃圾处理场等可能的污染源。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在果实正常成熟、表现出本品种固有的品质特征(色泽、香味、风味和口感等)时采收。贮藏果比鲜销果宜早7-10天采收。用圆头果剪采果,要求一果两剪,果蒂平齐。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "重庆相关产区",
+      "id": "sw-53d7bc629383d9b693",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "石柱莼菜",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "石柱莼菜是与重庆·石柱土家族自治县相联系的地方食材。原料或品种方面，保护要求记载为选择无病、无伤、健壮,果胶和多糖性状突出的本地莼菜地下茎进行移栽。",
+      "detail": "石柱莼菜是与重庆·石柱土家族自治县相联系的地方食材。原料或品种方面，保护要求记载为选择无病、无伤、健壮,果胶和多糖性状突出的本地莼菜地下茎进行移栽。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：叶表绿色,叶背淡暗红色,漂浮于水面;晶莹剔透的果胶包裹新芽、新叶、花蕾,果胶厚实,果胶与所包裹植物体的体积比大于1∶1;口感细嫩、清香爽口。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选莼菜→清洗→高温杀青→冷却→分级→保鲜→成品检测→产品包装→入库。\n\n产地条件方面，资料写到土壤紫色或腐质沙壤土,土层厚度30cm以上,肥沃疏松透气,有机质含量3%以上,呈微酸性,pH值5.5~6.5。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工下水采摘。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "石柱土家族自治县",
+      "id": "sw-02eb0f8a6f5243ee37",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "秀山茶叶",
+      "type": "tea",
+      "kind": "地方茶或代用茶",
+      "description": "秀山茶叶是与重庆·秀山土家族苗族自治县相联系的地方茶或代用茶。",
+      "detail": "秀山茶叶是与重庆·秀山土家族苗族自治县相联系的地方茶或代用茶。原料或品种方面，保护要求记载为选择福鼎大毫和蜀永1号茶树良种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外形条索紧细、有锋苗,色泽黄绿润。内质清香持久,滋味鲜爽,汤色黄绿明亮,叶底黄绿亮、嫩匀。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括按照分级标准进行分级摊青、杀青、揉捻、烘干等。加工要点:1.摊青。雨水叶先通风吹去叶表水分。\n\n产地条件方面，资料写到海拔在700m以上,远离污染源,选择土层深厚、土壤肥沃,呈微酸性的黄壤土、红壤土。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工及时、分批、多次采摘,秀山茶叶70%以上原料为春季1芽2叶,30%以下为1芽1叶及1芽3叶。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "秀山土家族苗族自治县",
+      "id": "sw-7f33c74943d7d11797",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "石柱辣椒",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "石柱辣椒是与重庆·石柱土家族自治县相联系的地方食材。原料或品种方面，保护要求记载为石辣1号、艳椒425等。",
+      "detail": "石柱辣椒是与重庆·石柱土家族自治县相联系的地方食材。原料或品种方面，保护要求记载为石辣1号、艳椒425等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：颜色鲜艳,光泽好,辣味重,油份含量高,香味浓,果实皮薄肉厚,硬度高,籽粒少。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括选椒→烘干→分级→产品检测→产品包装→入库。\n\n产地条件方面，资料写到海拔高度175~1934m,土壤类型为水稻土类、潮土类、紫色土类、黄壤土类,土壤肥力养份含量较高,有机质含量为2.4%~。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是睛天人工采摘红熟果,采后用剪刀割断果柄。鲜销和酱制、盐渍等加工的辣椒必须充分红熟时采收。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "石柱土家族自治县",
+      "id": "sw-e34a6ee5fd4bf7fe68",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巴南接龙蜜柚",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "巴南接龙蜜柚是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为巴南接龙蜜柚。",
+      "detail": "巴南接龙蜜柚是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为巴南接龙蜜柚。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果大皮薄,平均单果重1.5kg,果型端正、果皮光滑,油包细腻,呈淡黄色,香味浓郁;果瓣均匀,肉质细嫩化渣,多汁,酸甜适口。\n\n产地条件方面，资料写到选择避风向阳、水源丰富、交通方便、海拨高度275~500米、坡度20°C以下、土层深厚、肥沃的沙壤土、壤土地带建园。土壤有机质含量高,土壤pH值5.5~7,土壤理化性状好。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是从果实转色开始,定期对果园进行清园,清除落果、裂果、烂果及异常着色的果实,并作无害化处理;采收前15天内果园停止灌水。完熟采果,贮藏果比鲜果宜早7-10天采收,轻放、轻装、轻运,随采随分级。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "巴南区",
+      "id": "sw-50e7d3f49061d0b92e",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "大路黄花",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "大路黄花是与重庆·璧山区相联系的地方食材。原料或品种方面，保护要求记载为大路黄花是璧山区当地特产的地方品种。",
+      "detail": "大路黄花是与重庆·璧山区相联系的地方食材。原料或品种方面，保护要求记载为大路黄花是璧山区当地特产的地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：花蕾长,花蕊七根,鲜品肉质肥厚、嫩黄、清香;干品长条形、浅黄色,香味浓郁、口感回甜。\n\n生产方式也是认识它的一条线索。文中列出的加工环节包括蒸制:将鲜黄花放在筛里,通过锅里的水产生热气,提高蒸房的温度,蒸房温度达到70~75°C时,维持3-5分钟即熟。干燥:蒸好的花蕾,最好保持原状,在阴凉通风处1-2小时,利用余热进一步熟透熟匀,摊在苇席上晒干,封装。\n\n产地条件方面，资料写到海拔高度600~800m,土壤类型为沙壤土、壤土或粘壤土,土层深厚、疏松、有机质含量丰富且保水保肥能力强。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采摘在上午5时-10时为宜,每隔2-3天采收1次。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "璧山区",
+      "id": "sw-703c898c6568a94edd",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "梁平红羽土鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "梁平红羽土鸡是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为品种为重庆市梁平区本地土鸡—梁平红羽土鸡。",
+      "detail": "梁平红羽土鸡是与重庆·梁平区相联系的地方食材。原料或品种方面，保护要求记载为品种为重庆市梁平区本地土鸡—梁平红羽土鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：公鸡上市体重1.9~2.2kg,单冠红羽,喙呈青色或褐色,颈羽和鞍羽金黄色,皮肤白色或乌色,胫呈青色、胫和趾有红色条纹;乌皮公鸡耳垂呈紫色。母鸡上市体重1.4~1.6kg,单冠,喙呈青色或褐色,羽毛黄色或淡黄色,皮肤呈白色或乌色,胫呈青色。\n\n产地条件方面，资料写到梁平红羽土鸡养殖选择在距离城市比较偏远的地方(远离居民区和水源源头1000m)。场地宜在高朗、干爽、排水良好的地方。场地内要有遮荫,要有水源和电源。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "梁平区",
+      "id": "sw-f702bcc656c5600f07",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "云阳泥溪黑木耳",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "云阳泥溪黑木耳是与重庆·云阳县相联系的地方食材。原料或品种方面，保护要求记载为选料。",
+      "detail": "云阳泥溪黑木耳是与重庆·云阳县相联系的地方食材。原料或品种方面，保护要求记载为选料。以树龄7-8年直径7~12cm的小径大叶青杠树为最佳,一般耳木锯成1.2m的树段,两头断面涂上石灰水,以防杂菌入侵,起架晾晒1月-1.5月至失去3~4成水分后备用接种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：耳片小,正面黑褐色、有光泽,背面暗灰色、有细绒毛。干耳泡发率高,泡发后耳片小而整齐,棕褐色、有光泽,舒展有弹性、肉厚胶质多,有清香,口感爽脆。\n\n产地条件方面，资料写到选择产地范围内海拔800m以下,植被良好,空气清新,水质洁净,排灌便利,水源充足,沟渠及排灌配套;基地附近5km内没有大型工矿企业、垃圾处理场等可能的污染源,土壤肥沃区域。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是1.采摘。收前2天停止喷水,当耳片晒至八成干时,趁早晨耳片潮软之时用手指捏住耳根,稍加揪动采摘,采时不留残根,以防溃烂,保留小耳芽。2.晾晒。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "云阳县",
+      "id": "sw-cdbac796dd12b90cf7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江猕猴桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "黔江猕猴桃是与重庆·黔江区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、翠香、金艳等。",
+      "detail": "黔江猕猴桃是与重庆·黔江区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为红阳、翠香、金艳等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形端正、果面清洁无损伤,色泽艳丽美观,整齐度高,所有指标符合该品种的特征特性。(1)翠香:果实微扁卵圆形;果皮淡绿色,果面茸毛较硬、黄褐色;果肉翠绿色;果实大小(g)不少于80%;果心白色细柱状,柔软,纤维少。(2)金艳:果实长圆柱形;果皮黄褐色,果面密生短茸毛,皮厚;果肉黄色;果实大小(g)不少于90%。\n\n产地条件方面，资料写到选择排灌条件好、土层深厚、疏松肥沃,海拔高度400~900m的背风向阳地块。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工严格要求采收人员的卫生,做到不留长指甲,戴手套,用专用采果布袋,并做到轻拿轻放。用专用运输工具及时运往储藏地进行分拣预储,避免机械损伤和二次污染,确保果品品质。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "黔江区",
+      "id": "sw-fec58edc3292ca82db",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "马喇湖贡米",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "马喇湖贡米是与重庆·黔江区相联系的地方食材。原料或品种方面，保护要求记载为选择稻米品质国标二级以上的渝香203、宜香2115作为推广种植品种。",
+      "detail": "马喇湖贡米是与重庆·黔江区相联系的地方食材。原料或品种方面，保护要求记载为选择稻米品质国标二级以上的渝香203、宜香2115作为推广种植品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观饱满均匀、长粒形、米粒油浸,米饭松软有弹性、清香回甜,冷饭不回生。\n\n产地条件方面，资料写到选择海拔高度700~1000m,光照充足地块。生态环境优良,沙壤土质,土壤肥沃。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工在米粒失水硬化、90%稻谷黄熟时用小型收割机收获或人工收获,收获机械、器具应保持洁净、无污染。\n\n与原料形成有关的生产记录还包括旱育秧、润湿育秧秧龄35-40天,叶龄5叶左右时即可人工移栽,栽插密度窝行距30cm×15cm和个别大肥田30cm×20cm的规格,每窝2粒谷秧,做到亩植1.1万~1.5万窝。浅水勤灌促分蘖,够苗(预期有效穗的80%~90%)晒(晾)田,拔节前复水,后期间歇灌溉,干湿交替,收获前7-10天断水。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "黔江区",
+      "id": "sw-6ef4d90f47646eec6c",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "涪陵青菜头",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "涪陵青菜头是与重庆·涪陵区、长寿区、南川区、武隆区、丰都县、垫江县相联系的地方食材。",
+      "detail": "涪陵青菜头是与重庆·涪陵区、长寿区、南川区、武隆区、丰都县、垫江县相联系的地方食材。原料或品种方面，保护要求记载为涪杂2号、涪杂5号、涪杂8号、青晚1号和永安小叶等。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：单个青菜头质量达250g以上,青菜头呈近圆球形、扁圆球形或纺锤形,无长形和畸形,不带短缩茎、苔茎及叶柄。表皮浅绿,肉质白而肥厚,质地嫩脆。\n\n产地条件方面，资料写到“涪杂2号”主作早市鲜食青菜头栽培,宜在海拔600~800m的区域种植;“涪杂2号”、“涪杂5号”、“青晚1号”和“永安小叶”,作榨菜加工原料青菜头栽培,一般宜在海拔1000m内区域种植。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是在肉质茎膨大达到一定大小后进行采收。榨菜加工用青菜头宜在植株现蕾(冒顶)时收获为最适宜。作早市鲜食蔬菜用青菜头,在单个青菜头达150g以上时,就应择株收获。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "涪陵区、长寿区、南川区、武隆区、丰都县、垫江县",
+      "id": "sw-1aab70a6a9fc3d1af8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巫山脆李",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "巫山脆李是与重庆·万州区、开州区、云阳县、奉节县、巫山县、巫溪县相联系的地方食材。",
+      "detail": "巫山脆李是与重庆·万州区、开州区、云阳县、奉节县、巫山县、巫溪县相联系的地方食材。原料或品种方面，保护要求记载为经重庆市农作物品种鉴定委员会鉴定的青脆李系列品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果形端正,近圆形,缝合线明显,离核,果面特有的白色粉层明显,平均单果重35g,整齐度好。果皮绿色或黄绿色,果肉浅黄色。肉质脆嫩,汁多味香,酸甜适度。\n\n产地条件方面，资料写到海拔高度180~1000m,土壤类型为砂壤土、黄壤土、紫色土,土壤质地疏松,pH值6~7.5,有机质含量不少于1.0%,土层深厚80cm左右,活土层在50cm以上,地下水位1m以下。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是每年6月下旬至8月下旬,成熟度在8~9成时采收。轻采轻放,确保果粉完好。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "万州区、开州区、云阳县、奉节县、巫山县、巫溪县",
+      "id": "sw-8eb35d004793fe68e7",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "丰都锦橙",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "丰都锦橙是与重庆·丰都县相联系的地方食材。原料或品种方面，保护要求记载为以北碚447、梨橙为主。",
+      "detail": "丰都锦橙是与重庆·丰都县相联系的地方食材。原料或品种方面，保护要求记载为以北碚447、梨橙为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实呈长椭圆形,形似腰鼓或梨,果大,无核,果皮橙红或橙色,果肉橙黄色,细嫩化渣,汁多,酸甜适宜。\n\n产地条件方面，资料写到海拔高度在300m左右,土壤质地多为红棕壤、沙壤土,土壤疏松、深厚、肥沃,土壤pH值6~7.5,土壤有机质含量每公斤35g。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工带枝采摘。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "丰都县",
+      "id": "sw-d57541fc319f584a0f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "二圣梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "二圣梨是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择丰产性能好、抗逆性强、品质佳地方优良品种翠冠梨为主,圆黄、清香等作为授粉品种。",
+      "detail": "二圣梨是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为选择丰产性能好、抗逆性强、品质佳地方优良品种翠冠梨为主,圆黄、清香等作为授粉品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：外观近圆形,果皮呈黄绿色,果面洁净、光滑,果肉为白色,果心小,肉质细脆多汁,味道香甜。\n\n产地条件方面，资料写到选择排灌条件好、土层深厚、疏松肥沃,海拔在450~800m的背风向阳地块。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是采收应在果实达到适宜成熟度时进行。严格要求采收人员的卫生,戴手套,轻拿轻放。\n\n与原料形成有关的生产记录还包括春秋定植,栽培密度一般为3~4m×4~5m,即每公顷种植500~833株。定植坑按长、宽、深度为0.8m开挖,回填时将熟土与腐熟的有机肥充分混合后填下层,生土填上层。根系周围填熟土,定植深度以苗木根颈浇水沉实后与地面相平。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "巴南区",
+      "id": "sw-a5c2f9f53a116e0924",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "铜梁莲藕",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "铜梁莲藕是与重庆·铜梁区相联系的地方食材。原料或品种方面，保护要求记载为选择珍珠藕、鄂莲九号、鄂莲六号等品种。",
+      "detail": "铜梁莲藕是与重庆·铜梁区相联系的地方食材。原料或品种方面，保护要求记载为选择珍珠藕、鄂莲九号、鄂莲六号等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：藕体粗圆,表面光滑、黄白、无锈斑,肉质紧实、洁白,藕断少丝;生食脆甜,炒食脆嫩,炖食汤清鲜香。\n\n产地条件方面，资料写到选择遂宁组岩层形成的残积母质土壤,主要由棕红、紫红色钙质泥岩、粉砂质泥岩组成。土壤富含碳酸盐,速效钾含量高,有效铁含量极低,pH值中性至微碱,土层深厚肥沃,质地偏粘,保水保肥能力强。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工与机器配合采收、清洗干净,装框上市。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "铜梁区",
+      "id": "sw-bd45324b6640d99277",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黄瓜山梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "黄瓜山梨是与重庆·永川区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为黄花梨、皇冠梨。",
+      "detail": "黄瓜山梨是与重庆·永川区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为黄花梨、皇冠梨。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：黄花梨:果实形状较大、外观圆球形,果皮较薄、黄褐色。果肉白色、石细胞少、汁多、酥脆、味浓。果心小。黄冠梨:果实形状较大、外观椭圆形,果皮光滑、浅绿色。果肉白色、细嫩、松脆、汁多、味甜。果心小。\n\n产地条件方面，资料写到土壤类型以沙壤土为主,有机质含量较高,土壤呈微酸性,土壤微量元素丰富,黄瓜山利用得天独厚的地貌和土壤条件造就了黄瓜山梨果型美观、果型较大的特定品质。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是人工采摘。\n\n与原料形成有关的生产记录还包括保护和利用天敌,采取以虫治虫:利用有益微生物或其代谢物,利用性诱剂(悬挂诱芯)诱杀害虫,果园周边种植陈艾和苦蒿等驱离害虫。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "永川区",
+      "id": "sw-ce51bbe68cced33ab1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巴南乌皮樱桃",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "巴南乌皮樱桃是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地特产的巴南乌皮樱桃地方品种。",
+      "detail": "巴南乌皮樱桃是与重庆·巴南区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为当地特产的巴南乌皮樱桃地方品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实近圆球形,中等大小,平均单果重3.5g,最大6g。果皮紫红色,果肉淡黄色,离核,细嫩爽口,甜度高,有香气。\n\n产地条件方面，资料写到海拔高度200~500m,坡度20°C以下,土壤类型以紫色页岩或沙壤土为主,土壤通透性良好,土层较厚,肥力较高,活土层厚40~60cm,土壤有机质含量在1.5%以上,土壤pH值6.5~7.0。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是从开花至果实成熟约50天左右,一般在4月中下旬至5月初成熟。当果实呈浅紫红色,选择无露水的晴天采收。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "巴南区",
+      "id": "sw-f0aca37b3003fb323a",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "涪陵榨菜",
+      "type": "seasoning",
+      "kind": "地方调味品",
+      "description": "涪陵榨菜是与重庆·涪陵区相联系的地方调味品。原料或品种方面，保护要求记载为要求涪陵榨菜是以茎瘤芥的瘤茎为原料,经特定工艺腌制而成的酱腌菜料坯。",
+      "detail": "涪陵榨菜是与重庆·涪陵区相联系的地方调味品。原料或品种方面，保护要求记载为要求涪陵榨菜是以茎瘤芥的瘤茎为原料,经特定工艺腌制而成的酱腌菜料坯。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：涪陵榨菜有全形、丝、片、丁、粒、酱状等;金黄色,表面发亮有光泽;香气浓郁无异味;口感适中、咸味较淡;质地脆嫩。\n\n产地条件方面，资料写到涪陵榨菜是以茎瘤芥的瘤茎为原料,经特定工艺腌制而成的酱腌菜料坯。(二)加工工艺1.原料加工工艺流程:茎瘤芥的瘤茎→风脱水或盐脱水→一次腌制→二次腌制→看筋→三次腌制→榨菜原料。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "涪陵区",
+      "id": "sw-951c36f8606efd75c7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆土鸡",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "武隆土鸡是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为凤头黑鸡,也称为凤羽黑土鸡或耷耷鸡。",
+      "detail": "武隆土鸡是与重庆·武隆区相联系的地方食材。原料或品种方面，保护要求记载为凤头黑鸡,也称为凤羽黑土鸡或耷耷鸡。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：武隆土鸡中小体型,羽毛黑色,颈羽、翅羽、尾羽泛孔雀绿色,凤头,红色单冠,青脚,尾羽上翘;皮肤、肌肉白色。成年公鸡喙黑色,冠大下垂,凤头小,冠尖7~9枚,耳叶、肉垂红色。成年母鸡喙多为蜡青色,冠小,凤头大,冠尖5~7枚,耳叶多数个体呈红色、少数个体呈白色,无肉垂。肉蛋兼用型,蛋壳粉色,蛋重40~52g。\n\n产地条件方面，资料写到选择距离城市比较偏远可放牧的场地,远离居民区和水源源头1000m以上。场地应空气流畅、宽敞,便于武隆土鸡觅食和运动。地势要求高燥、水源足、排水方便、环境幽静的草地、林地或果园等。这些条件构成了该地方产品的生产背景。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "武隆区",
+      "id": "sw-a8573cd2d04d5a6291",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江羊肚菌",
+      "type": "ingredients",
+      "kind": "地方食材",
+      "description": "黔江羊肚菌是与重庆·黔江区相联系的地方食材。原料或品种方面，保护要求记载为黔羊一号(黑脉系列)。",
+      "detail": "黔江羊肚菌是与重庆·黔江区相联系的地方食材。原料或品种方面，保护要求记载为黔羊一号(黑脉系列)。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：菌盖呈圆锥形,顶端稍尖,原基及幼菇期呈紫色、成熟前黄褐色、成熟后灰褐色,子囊壁厚,菌盖呈蜂窝状,长3~12cm,菌柄乳白色,柄长3~5cm,棱纹排列整齐,层次分明。鲜菇鲜香,干菇香味浓郁。\n\n产地条件方面，资料写到选择海拔400~1600m排灌条件好、地势平坦、疏松肥沃,有水源的地块种植,大力推广菌—稻轮作种植模式。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工菌盖顶开始变黄达到8成熟时及时采收。用小刀或剪刀至土面割下或剪下,菌柄不带泥土,用食品级的专用塑料筐或竹篓装运,保持干净卫生。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "黔江区",
+      "id": "sw-9046776eab2e4f17b8",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江桑蚕茧",
+      "type": "crafts",
+      "kind": "地方器物与工艺原料",
+      "description": "黔江桑蚕茧是与重庆·黔江区相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为桑树品种以适宜黔江气候的强桑1号、农桑14号等优质高产品种为主,蚕品种春季、晚秋季以川山×蜀水、芳锈×白春及秋华×平30(雄蚕)品种为主。",
+      "detail": "黔江桑蚕茧是与重庆·黔江区相联系的地方器物与工艺原料。原料或品种方面，保护要求记载为桑树品种以适宜黔江气候的强桑1号、农桑14号等优质高产品种为主,蚕品种春季、晚秋季以川山×蜀水、芳锈×白春及秋华×平30(雄蚕)品种为主。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：茧色洁白,色泽均匀,茧形匀整,缩皱匀浅,茧衣蓬松,茧层厚实。\n\n产地条件方面，资料写到黔江桑蚕茧选择在生态环境优、通风条件好,海拔400~1000m的区域生产。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是加工1.采茧。熟蚕上簇后,春季和晚秋季7-8天采茧,夏秋季5-6天采茧。采茧时先拾去簇中死蚕和烂茧,清除杂物,双宫茧、黄斑茧等选出单独分装。按上簇先后,先上先采,后上后采。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "黔江区",
+      "id": "sw-ed6af957ec6c5cf760",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "放牛坪梨",
+      "type": "ingredients",
+      "kind": "地方果蔬或干果",
+      "description": "放牛坪梨是与重庆·渝北区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以黄花梨为主,配套翠冠、黄金等品种。",
+      "detail": "放牛坪梨是与重庆·渝北区相联系的地方果蔬或干果。原料或品种方面，保护要求记载为以黄花梨为主,配套翠冠、黄金等品种。\n\n辨识成品时，可以留意其外观、香气与质地。该产品的感官描述是：果实近圆形或圆锥形,果形端正,果皮黄褐色或黄绿色,果心小,果肉白色,肉质脆嫩化渣,石细胞少,汁多味浓,酸甜爽口,微具香气。\n\n产地条件方面，资料写到放牛坪梨适宜在海拔510~1080m,坡度为6~20°的山坡地、丘陵地栽植。这些条件构成了该地方产品的生产背景。\n\n采收或收获环节的记录是轻摘轻放,防止碰伤、捏伤、刺伤和摔伤。采果和盛果容器内衬柔软垫。采果以晴天上午为宜,采后应尽快存放到阴凉通风处。\n\n与原料形成有关的生产记录还包括每年秋季果实采收后,深翻改土。(1)定植:秋季落叶后至春季梨树萌芽前定植,定植穴在9月底前挖好,穴深60~80cm,直径1~1.2m,穴内分层压入稿秆等有机肥,然后回填。填土时要高出地面10~20cm,以防定植穴下陷或成坑。(2)定干:定植后要及时对苗木定干,定干高度以60~70cm为宜。",
+      "sources": [
+        "sw-gi-46a71cd9995b49b3"
+      ],
+      "locality": "渝北区",
+      "id": "sw-79604e33e6dea281e1",
+      "explanationStatus": "300-500-characters",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "成都担担面",
+      "type": "staples",
+      "description": "成都担担面被列入四川地方标准的天府旅游美食名录，属于成都地方小吃。",
+      "detail": "成都担担面被列入四川地方标准的天府旅游美食名录，属于成都地方小吃。现有已读范围确认名称与地方面食身份，具体面型、臊子和调味组合继续据专题补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-3adbd00e05431bbe"
+      ],
+      "aliases": [
+        "担担面"
+      ],
+      "id": "sw-4ebfc1c4d00ed8b24e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "龙抄手",
+      "type": "staples",
+      "description": "龙抄手与成都地方饮食相连，公开老字号名录记录了成都市饮食公司龙抄手店。",
+      "detail": "龙抄手与成都地方饮食相连，公开老字号名录记录了成都市饮食公司龙抄手店。这里按食品品类记录，与店铺品牌和门店定位分开，具体馅料与汤底继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "id": "sw-bae9fd9ecd8a7152c8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "钟水饺",
+      "type": "staples",
+      "description": "钟水饺与成都地方小吃传统相连，公开老字号名录记录了成都的钟水饺店。",
+      "detail": "钟水饺与成都地方小吃传统相连，公开老字号名录记录了成都的钟水饺店。食品名称与老字号经营主体分别整理，不把某一家门店的做法自动视为所有同名食品的标准。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "id": "sw-f488502bc68c95379a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "赖汤圆",
+      "type": "staples",
+      "description": "赖汤圆是与成都地方饮食相连的汤圆名称，公开老字号名录记录了成都赖汤圆店。",
+      "detail": "赖汤圆是与成都地方饮食相连的汤圆名称，公开老字号名录记录了成都赖汤圆店。当前采用范围为名称、地方关联和米面点心类别，馅料、口味与历史细节继续补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-c7d66827109512e1"
+      ],
+      "id": "sw-5e508de86e6962be80",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蛋烘糕",
+      "type": "staples",
+      "description": "蛋烘糕是成都地方小吃。四川文化旅游资料将其归为面食，记录烘烤的制作方式，以及酥泡、咸鲜与香甜的特点；不同馅料和现售门店另作区分。",
+      "detail": "蛋烘糕是成都地方小吃。四川文化旅游资料将其归为面食，记录烘烤的制作方式，以及酥泡、咸鲜与香甜的特点；不同馅料和现售门店另作区分。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-532dbca303e56c73"
+      ],
+      "id": "sw-492891b7b966cf5870",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "麻婆豆腐",
+      "type": "dishes",
+      "description": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。",
+      "detail": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。四川地方标准的陈麻婆豆腐章节记录了豆腐入盐水、炒香调料、加入鲜汤烧制和收汁等环节，成菜以豆腐与复合调味的结合为辨识线索。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-3adbd00e05431bbe",
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "id": "sw-c5c830f7cf5084abd1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "夫妻肺片",
+      "type": "dishes",
+      "description": "夫妻肺片是成都相关的川味凉菜。四川地方标准记录以牛肉和牛杂卤熟、晾凉、切片，再配红油、花椒粉、芝麻粉、花生碎和芹菜等调成味汁。",
+      "detail": "夫妻肺片是成都相关的川味凉菜。四川地方标准记录以牛肉和牛杂卤熟、晾凉、切片，再配红油、花椒粉、芝麻粉、花生碎和芹菜等调成味汁。名称不意味着原料必定包含牛肺，具体组成应以相应制作资料为准。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-3adbd00e05431bbe",
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "id": "sw-179b29d11ef791a354",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "菊乐乳业",
+      "type": "dairy",
+      "description": "菊乐与成都地方乳业相连，官网产品目录列有常温、低温和冷饮类别，页脚标明成都市武侯区地址。",
+      "detail": "菊乐与成都地方乳业相连，官网产品目录列有常温、低温和冷饮类别，页脚标明成都市武侯区地址。旗下酸乐奶、牛奶和其他饮品分别看待，不将含乳饮料与纯牛奶混为同一种产品。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-0633132c4d3cdc4b",
+        "sw-source-873d8b7683884ce8"
+      ],
+      "locality": "武侯区",
+      "id": "sw-24dd6b1c110ad876f7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新希望乳业",
+      "type": "dairy",
+      "description": "新希望乳业与成都相连，2025年年度报告记载公司注册及办公地址位于成都市锦江区。",
+      "detail": "新希望乳业与成都相连，2025年年度报告记载公司注册及办公地址位于成都市锦江区。集团包含多地乳品企业与品牌，卡片记录公司与地方乳业的联系，奶源、工厂和具体产品分别保留。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-f2fbf9c1bbaef640"
+      ],
+      "locality": "锦江区",
+      "id": "sw-498888922fd3379787",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "郫县豆瓣",
+      "type": "seasoning",
+      "description": "郫县豆瓣与成都地方调味传统相连。知识产权资料将其列为成都的地理标志产品代表，与本地烹饪和特色食品产业共同发展；不把同名豆瓣与任意品牌、不同等级和配方视为完全相同。",
+      "detail": "郫县豆瓣与成都地方调味传统相连。知识产权资料将其列为成都的地理标志产品代表，与本地烹饪和特色食品产业共同发展；不把同名豆瓣与任意品牌、不同等级和配方视为完全相同。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-source-5b3a11dbacd1c5db"
+      ],
+      "id": "sw-0d6da9a7de9070ecb3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "富顺豆花",
+      "type": "dishes",
+      "description": "富顺豆花是自贡地方饮食的代表之一。文化和旅游部盐帮美食线路明确推荐这一食品，与冷吃兔、水煮牛肉等一同呈现自贡风味；豆花本体与蘸水、餐馆品牌分别整理。",
+      "detail": "富顺豆花是自贡地方饮食的代表之一。文化和旅游部盐帮美食线路明确推荐这一食品，与冷吃兔、水煮牛肉等一同呈现自贡风味；豆花本体与蘸水、餐馆品牌分别整理。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-be1df755040d425d"
+      ],
+      "id": "sw-72db586f8548d2e09c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "自贡扎染",
+      "type": "crafts",
+      "description": "自贡扎染被列入当地乡村旅游线路的传统工艺产品。它属于染织与民间手工艺，与盐帮菜等食品分开归类；当前确认地方工艺身份，具体纹样与染制过程继续按专题补充。",
+      "detail": "自贡扎染被列入当地乡村旅游线路的传统工艺产品。它属于染织与民间手工艺，与盐帮菜等食品分开归类；当前确认地方工艺身份，具体纹样与染制过程继续按专题补充。",
+      "kind": "地方物品与工艺",
+      "sources": [
+        "sw-source-b7704ae3a67fb230"
+      ],
+      "id": "sw-7521971af997824cd5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边羊肉米线",
+      "type": "staples",
+      "description": "盐边羊肉米线与攀枝花盐边的地方饮食相连。地方非遗介绍把它与国胜茶、盐边油底肉等共同列为当地特色，米线餐食与羊肉原料、经营门店分别记录。",
+      "detail": "盐边羊肉米线与攀枝花盐边的地方饮食相连。地方非遗介绍把它与国胜茶、盐边油底肉等共同列为当地特色，米线餐食与羊肉原料、经营门店分别记录。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-356540a7da97312a"
+      ],
+      "locality": "盐边县",
+      "aliases": [
+        "羊肉米线"
+      ],
+      "id": "sw-736adf896c4fc3febb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸州老窖",
+      "type": "alcohol",
+      "description": "泸州老窖是与泸州酿酒传统相连的酒类品牌。官方文旅交流报道明确记载泸州老窖和郎酒产自泸州；不同酒款、度数和企业主体分别看待，不由品牌名称推断所有系列的原料配比。",
+      "detail": "泸州老窖是与泸州酿酒传统相连的酒类品牌。官方文旅交流报道明确记载泸州老窖和郎酒产自泸州；不同酒款、度数和企业主体分别看待，不由品牌名称推断所有系列的原料配比。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-source-352f9962b4cf7027"
+      ],
+      "id": "sw-68d75154d69f2accfe",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "郎酒",
+      "type": "alcohol",
+      "description": "郎酒与泸州地方酿酒产业相连，官方文旅报道明确记录其泸州地域关联。",
+      "detail": "郎酒与泸州地方酿酒产业相连，官方文旅报道明确记录其泸州地域关联。本条区分地方酒类品牌和不同产品系列，具体厂区、香型和工艺要求继续按对应产品资料补充。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-source-352f9962b4cf7027"
+      ],
+      "aliases": [
+        "古蔺郎酒"
+      ],
+      "id": "sw-911ae27f73fe4e9743",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "古蔺麻辣鸡",
+      "type": "dishes",
+      "description": "古蔺麻辣鸡被文化和旅游部泸州相关线路列为特色美食。它属于地方鸡肉菜肴，与同名餐馆及预包装品牌分开，具体卤制和调味方法不由菜名独自推断。",
+      "detail": "古蔺麻辣鸡被文化和旅游部泸州相关线路列为特色美食。它属于地方鸡肉菜肴，与同名餐馆及预包装品牌分开，具体卤制和调味方法不由菜名独自推断。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-eb83073753c444fa"
+      ],
+      "id": "sw-31526fcf23089b1f83",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江豆鸡",
+      "type": "dishes",
+      "description": "罗江豆鸡与德阳地方豆制食品传统相连。德阳食品企业的地方交流报道记录了该产品，其身份属于加工豆制餐食，而不是因名称含鸡就判断为禽肉食品。",
+      "detail": "罗江豆鸡与德阳地方豆制食品传统相连。德阳食品企业的地方交流报道记录了该产品，其身份属于加工豆制餐食，而不是因名称含鸡就判断为禽肉食品。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-9ad6a74f785541da"
+      ],
+      "id": "sw-301186e73e8958c368",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "绵阳米粉",
+      "type": "staples",
+      "description": "绵阳米粉是当地有代表性的米粉餐食，供销合作交流报道明确将其列为绵阳特色产品。",
+      "detail": "绵阳米粉是当地有代表性的米粉餐食，供销合作交流报道明确将其列为绵阳特色产品。现做米粉、方便包装产品和具体餐馆分别整理，汤底与浇头按后续专题继续补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-0532c72ad3dc0a31"
+      ],
+      "id": "sw-48cfd80fda2bc4e506",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "江油肥肠",
+      "type": "dishes",
+      "description": "江油肥肠是与绵阳江油相关的地方菜肴。地方年鉴工作报道记录了其饮食名片身份，食品本身与店铺、品牌分别看待，具体处理方式与配料继续核对。",
+      "detail": "江油肥肠是与绵阳江油相关的地方菜肴。地方年鉴工作报道记录了其饮食名片身份，食品本身与店铺、品牌分别看待，具体处理方式与配料继续核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-b2bbfd71ea1ac839"
+      ],
+      "id": "sw-7e80c0443eb4747766",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "广元蒸凉面",
+      "type": "staples",
+      "description": "广元蒸凉面被市级旅游介绍列为特色小吃。它属于当地米面餐食，与广元烩馍等共同呈现川北饮食风味；当前资料支持名称和地方关联，具体主料与蒸制方式继续补充。",
+      "detail": "广元蒸凉面被市级旅游介绍列为特色小吃。它属于当地米面餐食，与广元烩馍等共同呈现川北饮食风味；当前资料支持名称和地方关联，具体主料与蒸制方式继续补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-07a87f3bd75162d6"
+      ],
+      "id": "sw-da62ddba5fdeb486fe",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "黄老五花生酥",
+      "type": "staples",
+      "description": "黄老五花生酥在四川天府旅游美食报道中作为内江地方食品出现。它属于花生糖点与加工食品，食品品类、品牌和不同包装口味分开保留，不推断所有系列都采用相同配方。",
+      "detail": "黄老五花生酥在四川天府旅游美食报道中作为内江地方食品出现。它属于花生糖点与加工食品，食品品类、品牌和不同包装口味分开保留，不推断所有系列都采用相同配方。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "id": "sw-2a0d9d98ce3b35636b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "乐山钵钵鸡",
+      "type": "dishes",
+      "description": "乐山钵钵鸡是当地地方饮食的代表之一，乐山市官方介绍有明确记录。",
+      "detail": "乐山钵钵鸡是当地地方饮食的代表之一，乐山市官方介绍有明确记录。这里按地方菜肴记录，不把食品名称等同于某一家连锁品牌，具体汤料、食材组合与制作技艺继续补充。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-5752270c2d10ae24"
+      ],
+      "id": "sw-5b9a3319cf1aac3467",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "跷脚牛肉",
+      "type": "dishes",
+      "description": "跷脚牛肉与乐山地方餐饮和食品加工产业相连，地方产业报道明确提及其作为乐山风味的发展。",
+      "detail": "跷脚牛肉与乐山地方餐饮和食品加工产业相连，地方产业报道明确提及其作为乐山风味的发展。当前保留食品名称和地方身份，具体牛肉部位、汤底与烹制方式继续专题核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-0aa1464165357012"
+      ],
+      "id": "sw-5816841f03da664228",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "乐山甜皮鸭",
+      "type": "dishes",
+      "description": "乐山甜皮鸭是当地官方介绍中列出的特色食品，属于加工鸭肉菜肴。食品名称与不同经营品牌分别整理，糖皮和卤烤等工艺细节继续核对。",
+      "detail": "乐山甜皮鸭是当地官方介绍中列出的特色食品，属于加工鸭肉菜肴。食品名称与不同经营品牌分别整理，糖皮和卤烤等工艺细节继续核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-5752270c2d10ae24"
+      ],
+      "aliases": [
+        "甜皮鸭"
+      ],
+      "id": "sw-03721f273ae6e68b63",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨眉竹叶青",
+      "type": "tea",
+      "description": "峨眉竹叶青是与乐山峨眉山地方茶相连的名称，四川文化旅游资料列有相应特产条目。",
+      "detail": "峨眉竹叶青是与乐山峨眉山地方茶相连的名称，四川文化旅游资料列有相应特产条目。当前采用茶品与地方关联，茶叶品种、等级、品牌和具体制作标准仍需分别核对。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-532dbca303e56c73"
+      ],
+      "id": "sw-101cc33c86ff837841",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "川北凉粉",
+      "type": "staples",
+      "description": "川北凉粉在南充市政府的地方美食介绍中有明确记录。它是与川北饮食相连的风味小吃，城市收录不表示南充独占这种食品，具体原料与调味另按专题补充。",
+      "detail": "川北凉粉在南充市政府的地方美食介绍中有明确记录。它是与川北饮食相连的风味小吃，城市收录不表示南充独占这种食品，具体原料与调味另按专题补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-1fa635eef1f9c7c2"
+      ],
+      "id": "sw-e4625bc6ff85b3d267",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "南充锅盔",
+      "type": "staples",
+      "description": "南充锅盔是文化和旅游部川北线路推荐的地方小吃。它与川北凉粉等一同呈现当地面食风味，不将各地同名锅盔自动套成统一的配方和烙制方式。",
+      "detail": "南充锅盔是文化和旅游部川北线路推荐的地方小吃。它与川北凉粉等一同呈现当地面食风味，不将各地同名锅盔自动套成统一的配方和烙制方式。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-f4effca114de50f0"
+      ],
+      "id": "sw-9097b0fd208ca88aea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "五粮液",
+      "type": "alcohol",
+      "description": "五粮液与宜宾地方酿酒产业相连。文化和旅游部宜宾线路将其列为当地代表性产品，卡片区分品牌、酒款和地方酿酒文化，具体度数和产品标准分别按对应资料记录。",
+      "detail": "五粮液与宜宾地方酿酒产业相连。文化和旅游部宜宾线路将其列为当地代表性产品，卡片区分品牌、酒款和地方酿酒文化，具体度数和产品标准分别按对应资料记录。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-source-284441be77e4994c"
+      ],
+      "id": "sw-704e7e23aebff5904c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾燃面",
+      "type": "staples",
+      "description": "宜宾燃面被文化和旅游部宜宾线路明确推荐，是当地有代表性的地方面食。",
+      "detail": "宜宾燃面被文化和旅游部宜宾线路明确推荐，是当地有代表性的地方面食。现有读取支持食品名称与市域关联，面条、芽菜及调味的具体组合继续据专门制作资料补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-340becf2130499cf"
+      ],
+      "id": "sw-511803876782791394",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "李庄白肉",
+      "type": "dishes",
+      "description": "李庄白肉与宜宾李庄地方饮食相连。四川地方标准记载用带皮猪肉煮熟后切成宽长薄片，配蒜泥、酱油、辣椒油、白糖和芝麻油等调味；认识这道菜可以从薄片刀工与蒜香味汁入手，餐馆的具体配比另行核对。",
+      "detail": "李庄白肉与宜宾李庄地方饮食相连。四川地方标准记载用带皮猪肉煮熟后切成宽长薄片，配蒜泥、酱油、辣椒油、白糖和芝麻油等调味；认识这道菜可以从薄片刀工与蒜香味汁入手，餐馆的具体配比另行核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-3adbd00e05431bbe"
+      ],
+      "id": "sw-c48446af3d936be4d0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾芽菜",
+      "type": "seasoning",
+      "description": "宜宾芽菜是当地旅游线路推荐的地方产品，按调味品记录。它与宜宾燃面等食品分别保留，当前不将不同加工形态、品牌和配料一概视为相同。",
+      "detail": "宜宾芽菜是当地旅游线路推荐的地方产品，按调味品记录。它与宜宾燃面等食品分别保留，当前不将不同加工形态、品牌和配料一概视为相同。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-source-340becf2130499cf"
+      ],
+      "id": "sw-abc983b0db07ce8367",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "岳池米粉",
+      "type": "staples",
+      "description": "岳池米粉是广安地方美食，市政府地方产品交流报道将其列入特色食品展示。",
+      "detail": "岳池米粉是广安地方美食，市政府地方产品交流报道将其列入特色食品展示。米粉餐食与产业品牌、包装产品和具体门店分别整理，汤底和配菜继续按专题核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-341acbaad0d14997"
+      ],
+      "id": "sw-587d9ff230822be83e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "蒙顶甘露",
+      "type": "tea",
+      "description": "蒙顶甘露被文化和旅游部雅安茶源线路列为地方特产。它与蒙顶黄芽、雅安藏茶等分别呈现当地茶品的多样性，茶名、茶类、品牌和等级不互相替代。",
+      "detail": "蒙顶甘露被文化和旅游部雅安茶源线路列为地方特产。它与蒙顶黄芽、雅安藏茶等分别呈现当地茶品的多样性，茶名、茶类、品牌和等级不互相替代。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-f41e49d5193e7f4d"
+      ],
+      "id": "sw-872386abb52ea7e43d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "蒙顶黄芽",
+      "type": "tea",
+      "description": "蒙顶黄芽是雅安地方茶品，文化和旅游部雅安线路有明确推荐。当前确认名称与地方茶文化关联，具体品种、等级与制茶过程继续按专题资料扩写。",
+      "detail": "蒙顶黄芽是雅安地方茶品，文化和旅游部雅安线路有明确推荐。当前确认名称与地方茶文化关联，具体品种、等级与制茶过程继续按专题资料扩写。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-d910eeb61cc1146c"
+      ],
+      "id": "sw-2b8633e89d0a0cd12b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "雅安藏茶",
+      "type": "tea",
+      "description": "雅安藏茶是与雅安地方茶文化相连的茶品，文旅线路将其与蒙顶甘露等并列。",
+      "detail": "雅安藏茶是与雅安地方茶文化相连的茶品，文旅线路将其与蒙顶甘露等并列。这里区分地方茶品、历史贸易与不同企业品牌，不把某一种包装或营销说法视为全部藏茶的属性。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-f41e49d5193e7f4d"
+      ],
+      "id": "sw-bad099c474b010ff41",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "荥经砂器",
+      "type": "crafts",
+      "description": "荥经砂器是雅安地方传统器物，文化和旅游部线路明确记录荥经砂器烧制技艺。",
+      "detail": "荥经砂器是雅安地方传统器物，文化和旅游部线路明确记录荥经砂器烧制技艺。当地将砂器与茶、砂锅雅鱼等饮食体验联系起来，器物本身归物品与工艺，具体泥料和烧制过程另行补充。",
+      "kind": "地方物品与工艺",
+      "sources": [
+        "sw-source-bce6887fb48accd5"
+      ],
+      "id": "sw-4eb611a39ab8b7f8ed",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "临江寺豆瓣",
+      "type": "seasoning",
+      "description": "临江寺豆瓣在四川天府旅游美食的资阳介绍中有明确记录。它属于地方调味品，产品名称、品牌和具体豆瓣配方分别整理。",
+      "detail": "临江寺豆瓣在四川天府旅游美食的资阳介绍中有明确记录。它属于地方调味品，产品名称、品牌和具体豆瓣配方分别整理。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-source-15494d614f1e1ecf"
+      ],
+      "id": "sw-8d98a6ea76f0a6c360",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "金川雪梨",
+      "type": "ingredients",
+      "description": "金川雪梨在阿坝州官方参展产品名单中有明确记录，是当地果品的一类。",
+      "detail": "金川雪梨在阿坝州官方参展产品名单中有明确记录，是当地果品的一类。这里记录果品与地域的联系，鲜果、加工品和地方宴席不混为同一产品。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-source-61a6921c6ee0bfb9"
+      ],
+      "id": "sw-0d9f68b155e78e4e80",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "酥油",
+      "type": "dairy",
+      "description": "酥油是与阿坝藏族饮食相连的乳食原料。阿坝地方志的小吃介绍记录了酥油茶、人参果饭和糌粑等食用场景，与牦牛奶和其他乳食形态分别记录。",
+      "detail": "酥油是与阿坝藏族饮食相连的乳食原料。阿坝地方志的小吃介绍记录了酥油茶、人参果饭和糌粑等食用场景，与牦牛奶和其他乳食形态分别记录。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "id": "sw-ba135ebe5560e1483c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "糌粑",
+      "type": "staples",
+      "description": "糌粑在阿坝地方饮食资料中有明确介绍，可由青稞、豌豆或燕麦等制成炒熟的粮粉，食用时配茶水和少量酥油。",
+      "detail": "糌粑在阿坝地方饮食资料中有明确介绍，可由青稞、豌豆或燕麦等制成炒熟的粮粉，食用时配茶水和少量酥油。它属于主食，与甘孜水淘糌粑等具体形态按资料范围分别记录。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "id": "sw-1fbe8629d0d846252d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "酥油茶",
+      "type": "tea",
+      "description": "酥油茶是阿坝地方志记录的藏族茶饮，与酥油和茶的饮食传统相连。这里按饮茶方式记录，茶叶原料、酥油和成品茶饮分别整理，不沿用资料中的营养替代或健康效果宣传。",
+      "detail": "酥油茶是阿坝地方志记录的藏族茶饮，与酥油和茶的饮食传统相连。这里按饮茶方式记录，茶叶原料、酥油和成品茶饮分别整理，不沿用资料中的营养替代或健康效果宣传。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-0d5e410d956c6ff7"
+      ],
+      "id": "sw-4de0111462f3e154ff",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "彝族坨坨肉",
+      "type": "dishes",
+      "description": "彝族坨坨肉被文化和旅游部四川民族风情线路列为凉山相关地方美食。",
+      "detail": "彝族坨坨肉被文化和旅游部四川民族风情线路列为凉山相关地方美食。它属于肉食菜肴，具体肉类、部位和制作过程继续核对，民族食品与具体城市店铺分别看待。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-7ac142ae29e65fdd"
+      ],
+      "id": "sw-a5866008a146940436",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "重庆火锅",
+      "type": "dishes",
+      "description": "重庆火锅是当地有代表性的饮食形式，以锅中加热食材和复合调味展现地方风味。",
+      "detail": "重庆火锅是当地有代表性的饮食形式，以锅中加热食材和复合调味展现地方风味。地方非遗介绍以麻辣鲜香描述其特点；汤底、蘸料、食材和品牌分别看待，不以某一门店的菜单定义全部重庆火锅。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "id": "sw-7859652a9e92798d86",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "毛血旺",
+      "type": "dishes",
+      "description": "毛血旺被文化和旅游部的重庆旅游美食报道列为地方菜肴。当前采用食品名称与地方关联，具体血制品、肉类和蔬菜组成继续据专题核对，不把菜名当成固定配方。",
+      "detail": "毛血旺被文化和旅游部的重庆旅游美食报道列为地方菜肴。当前采用食品名称与地方关联，具体血制品、肉类和蔬菜组成继续据专题核对，不把菜名当成固定配方。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "id": "sw-dd904ecf8f23f3fcad",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江鸡杂",
+      "type": "dishes",
+      "description": "黔江鸡杂进入重庆旅游美食推荐，文化和旅游部报道明确记载其黔江地域关联。",
+      "detail": "黔江鸡杂进入重庆旅游美食推荐，文化和旅游部报道明确记载其黔江地域关联。它属于鸡杂菜肴，餐馆与预包装品牌另行区分，不由名称推定统一配菜和调味比例。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "locality": "黔江区",
+      "id": "sw-cb0153dca54e6ddc49",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "歌乐山辣子鸡",
+      "type": "dishes",
+      "description": "歌乐山辣子鸡是重庆地方民间菜。地方非遗介绍描述鸡肉丁与干红辣椒结合、干香醇厚和麻辣的风味，食品名称与具体品牌分开，制作年代和起源传说不作为本条已核实内容。",
+      "detail": "歌乐山辣子鸡是重庆地方民间菜。地方非遗介绍描述鸡肉丁与干红辣椒结合、干香醇厚和麻辣的风味，食品名称与具体品牌分开，制作年代和起源传说不作为本条已核实内容。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "id": "sw-80672ae38b6775c1b0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "万州烤鱼",
+      "type": "dishes",
+      "description": "万州烤鱼被列入重庆旅游美食“渝味360碗”头碗菜，反映了万州地方餐饮特色。",
+      "detail": "万州烤鱼被列入重庆旅游美食“渝味360碗”头碗菜，反映了万州地方餐饮特色。鱼种、汤汁、配菜和不同烤鱼品牌继续分别记录，不将一种做法套用到所有门店。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "locality": "万州区",
+      "id": "sw-2b5b454b405406c985",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "梁平张鸭子",
+      "type": "dishes",
+      "description": "梁平张鸭子在重庆旅游美食推荐中有明确记录。它属于与梁平相关的加工鸭肉食品，食品名称、品牌与经营门店分开，具体卤制、熏烤和调味继续按专题资料补充。",
+      "detail": "梁平张鸭子在重庆旅游美食推荐中有明确记录。它属于与梁平相关的加工鸭肉食品，食品名称、品牌与经营门店分开，具体卤制、熏烤和调味继续按专题资料补充。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-c4c283c2f0b9cb72"
+      ],
+      "locality": "梁平区",
+      "id": "sw-8a97f0686087d8d912",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "重庆小面",
+      "type": "staples",
+      "description": "重庆小面以面条和地方调味组合形成日常风味。地方非遗介绍记载面粉制成面条、配时令蔬菜，并使用酱油、榨菜、姜蒜水、花生和红油等调味，浇头与辣味可以因做法而异。",
+      "detail": "重庆小面以面条和地方调味组合形成日常风味。地方非遗介绍记载面粉制成面条、配时令蔬菜，并使用酱油、榨菜、姜蒜水、花生和红油等调味，浇头与辣味可以因做法而异。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "id": "sw-cb3fb902cc7328ea03",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "磁器口陈麻花",
+      "type": "staples",
+      "description": "磁器口陈麻花在地方旅游整理资料中被列为重庆小吃，具有酥脆和多种口味的特点。",
+      "detail": "磁器口陈麻花在地方旅游整理资料中被列为重庆小吃，具有酥脆和多种口味的特点。当前作为民间资料与独立知识相符的地方食品线索采用，品牌、门店及配方仍待进一步核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-7e0e2bca3b634b6a"
+      ],
+      "evidenceAssessment": "reasonable-with-limits",
+      "id": "sw-73def91bd80000d282",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "永川豆豉",
+      "type": "seasoning",
+      "description": "永川豆豉是以黄豆发酵形成的地方调味品。地方非遗介绍描述其油黑、酱香和回甜的特点，并记录用来炒回锅肉等食用场景；不同品牌与成品含盐量等属性另按产品资料核对。",
+      "detail": "永川豆豉是以黄豆发酵形成的地方调味品。地方非遗介绍描述其油黑、酱香和回甜的特点，并记录用来炒回锅肉等食用场景；不同品牌与成品含盐量等属性另按产品资料核对。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-source-f8772898c36ee27d"
+      ],
+      "id": "sw-3bae91d6ee534f4a9e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "天友乳业",
+      "type": "dairy",
+      "description": "天友乳业与重庆地方乳品产业相连。企业介绍目录记录了液体乳、发酵乳和饮料等经营类别，当前作为企业目录与独立知识吻合的信息采用；品牌、具体工厂和各类乳品分别记录，尚未核对部分不作完整经营状态保证。",
+      "detail": "天友乳业与重庆地方乳品产业相连。企业介绍目录记录了液体乳、发酵乳和饮料等经营类别，当前作为企业目录与独立知识吻合的信息采用；品牌、具体工厂和各类乳品分别记录，尚未核对部分不作完整经营状态保证。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-1a555c7197520019"
+      ],
+      "evidenceAssessment": "reasonable-with-limits",
+      "id": "sw-3ac43034cf5e4dcc7d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "小锅米线",
+      "type": "staples",
+      "description": "小锅米线是昆明地方餐食，云南商务部门的州市美食介绍有明确推荐。",
+      "detail": "小锅米线是昆明地方餐食，云南商务部门的州市美食介绍有明确推荐。它与破酥包等共同呈现昆明日常饮食，具体汤底、配菜和门店品牌继续分别核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-07aaa3e9dc19d664"
+      ],
+      "id": "sw-ba4accee3eb9320f15",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "雪兰牛奶",
+      "type": "dairy",
+      "description": "雪兰牛奶与昆明地方乳业相连，昆明信息港的企业介绍记载其乳品生产及地方企业身份。",
+      "detail": "雪兰牛奶与昆明地方乳业相连，昆明信息港的企业介绍记载其乳品生产及地方企业身份。不同奶源、生产基地和具体系列分别记录，历史文章中的经营规模不作为当前状态直接沿用。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-b6948cd594c53d09"
+      ],
+      "id": "sw-d4e5a802c6d508d3d1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "汽锅鸡",
+      "type": "dishes",
+      "description": "汽锅鸡在昆明商务部门的地方滇菜介绍中有明确记录。它属于地方鸡肉菜肴，食品与具体餐馆分开，器具、主料和烹制方式继续按专门资料补充。",
+      "detail": "汽锅鸡在昆明商务部门的地方滇菜介绍中有明确记录。它属于地方鸡肉菜肴，食品与具体餐馆分开，器具、主料和烹制方式继续按专门资料补充。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-21b3561769cb0c1b"
+      ],
+      "id": "sw-c1bfb97ed78b3f3eba",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "宣威火腿",
+      "type": "dishes",
+      "description": "宣威火腿在曲靖市地方文旅介绍中有明确记录，属于地方加工肉制品。",
+      "detail": "宣威火腿在曲靖市地方文旅介绍中有明确记录，属于地方加工肉制品。它与火腿品牌、不同部位及加工方式分别看待，具体腌制和成熟要求继续核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-866bc365853ed04f"
+      ],
+      "id": "sw-a74b815823a4318e34",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "沾益辣子鸡",
+      "type": "dishes",
+      "description": "沾益辣子鸡是曲靖地方美食，市级文旅新闻发布资料有明确介绍。这里记录食品名称与地域身份，鸡肉部位、辣椒品种和配方不由菜名独自推断。",
+      "detail": "沾益辣子鸡是曲靖地方美食，市级文旅新闻发布资料有明确介绍。这里记录食品名称与地域身份，鸡肉部位、辣椒品种和配方不由菜名独自推断。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-866bc365853ed04f"
+      ],
+      "id": "sw-f7b1e95da1d7bae920",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "蒸饵丝",
+      "type": "staples",
+      "description": "蒸饵丝被文化和旅游部曲靖麒麟乡村线路列为地方食品。它属于米制餐食，与饵块、米线及具体门店分别整理，蒸制和调味细节继续按专题核对。",
+      "detail": "蒸饵丝被文化和旅游部曲靖麒麟乡村线路列为地方食品。它属于米制餐食，与饵块、米线及具体门店分别整理，蒸制和调味细节继续按专题核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-4aa33ec376ff3ddf"
+      ],
+      "id": "sw-2818454e6e6259793f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "通海豆末糖",
+      "type": "staples",
+      "description": "通海豆末糖被玉溪地方名小吃推介明确列出，属于地方糖点。食品名称与通海地域关联保留，原料比例和具体品牌继续按产品及技艺资料分别核对。",
+      "detail": "通海豆末糖被玉溪地方名小吃推介明确列出，属于地方糖点。食品名称与通海地域关联保留，原料比例和具体品牌继续按产品及技艺资料分别核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-dd713fa62c194243"
+      ],
+      "id": "sw-e6789d36072ad4fd1c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "玉溪凉米线",
+      "type": "staples",
+      "description": "玉溪凉米线进入当地名小吃推荐，是玉溪米线饮食的一种形态。它与鳝鱼米线、小锅米线等分别记录，冷食名称不代表固定配料和统一酸辣程度。",
+      "detail": "玉溪凉米线进入当地名小吃推荐，是玉溪米线饮食的一种形态。它与鳝鱼米线、小锅米线等分别记录，冷食名称不代表固定配料和统一酸辣程度。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-22292650369bdda3"
+      ],
+      "id": "sw-d94e5cce5827323a44",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "华宁柑橘",
+      "type": "ingredients",
+      "description": "华宁柑橘是玉溪地方果品，市政府相关介绍有明确记录。鲜果、果汁和其他加工产品分别看待，具体品种、成熟季节及产地范围继续按对应资料核对。",
+      "detail": "华宁柑橘是玉溪地方果品，市政府相关介绍有明确记录。鲜果、果汁和其他加工产品分别看待，具体品种、成熟季节及产地范围继续按对应资料核对。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-source-72286b4d67beed46"
+      ],
+      "id": "sw-c7febd110a495d80e4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "元江芒果",
+      "type": "ingredients",
+      "description": "元江芒果在玉溪地方名品介绍中有明确记录，是当地热区果品之一。产品名称与产区关联保留，不把同一地区不同芒果品种和加工形态当作完全一致。",
+      "detail": "元江芒果在玉溪地方名品介绍中有明确记录，是当地热区果品之一。产品名称与产区关联保留，不把同一地区不同芒果品种和加工形态当作完全一致。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-source-22292650369bdda3"
+      ],
+      "id": "sw-02b3e245ac719fc570",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "腾冲大救驾",
+      "type": "staples",
+      "description": "腾冲大救驾是保山文旅部门资料记录的地方美食。它与腾冲饵丝等分别整理，当前采用名称和地方食品身份，具体配料与炒制过程继续按专题补充。",
+      "detail": "腾冲大救驾是保山文旅部门资料记录的地方美食。它与腾冲饵丝等分别整理，当前采用名称和地方食品身份，具体配料与炒制过程继续按专题补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-07283892f5d74696"
+      ],
+      "id": "sw-acd0aec8616bc41ca6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "昭通小肉串",
+      "type": "dishes",
+      "description": "昭通小肉串被列入昭阳地方特色食品展示，是当地餐饮风味的一种。肉类、串制方式、调料和门店分别核对，食品类别归地方菜肴与熟食。",
+      "detail": "昭通小肉串被列入昭阳地方特色食品展示，是当地餐饮风味的一种。肉类、串制方式、调料和门店分别核对，食品类别归地方菜肴与熟食。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-6aba83ff2e398915"
+      ],
+      "id": "sw-60e37d7aba335db93b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "丽江腊排骨",
+      "type": "dishes",
+      "description": "丽江腊排骨是云南商务部门地方食品报道记录的丽江风味。它与腊排骨火锅、包装产品和不同品牌分别认识，肉类部位、腌制与煮食方法继续按专题资料核对。",
+      "detail": "丽江腊排骨是云南商务部门地方食品报道记录的丽江风味。它与腊排骨火锅、包装产品和不同品牌分别认识，肉类部位、腌制与煮食方法继续按专题资料核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-4ffc7b499480488f"
+      ],
+      "id": "sw-4b6ea66e2186334ccb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "鸡豆凉粉",
+      "type": "staples",
+      "description": "鸡豆凉粉被文化和旅游部丽江线路列为地方美食。它是当地有代表性的粉类小吃，冷热食用及调味方式继续分别核对，不把所有同名凉粉视为同一种原料。",
+      "detail": "鸡豆凉粉被文化和旅游部丽江线路列为地方美食。它是当地有代表性的粉类小吃，冷热食用及调味方式继续分别核对，不把所有同名凉粉视为同一种原料。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-1c69deabf2b522b7"
+      ],
+      "id": "sw-6fc347d5dd177ca39f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "丽江",
+      "name": "丽江粑粑",
+      "type": "staples",
+      "description": "丽江粑粑在文化和旅游部丽江乡村线路中有明确推荐。它属于地方米面小吃，甜咸口味、烘烤方式及经营门店继续分别整理。",
+      "detail": "丽江粑粑在文化和旅游部丽江乡村线路中有明确推荐。它属于地方米面小吃，甜咸口味、烘烤方式及经营门店继续分别整理。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-7724ff26b01d01eb"
+      ],
+      "id": "sw-2dadb1dbbb8f0b58c4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "南华野生菌",
+      "type": "ingredients",
+      "description": "南华野生菌与楚雄南华的地方饮食产业相连，文化和旅游部线路记录了当地野生菌美食文化活动。",
+      "detail": "南华野生菌与楚雄南华的地方饮食产业相连，文化和旅游部线路记录了当地野生菌美食文化活动。这里是食用菌专题概览，不把泛称当作某一个菌种，具体产品需另核名称与用途。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-source-0eb98df43e925bb3"
+      ],
+      "id": "sw-653f63b6ae08eeefdf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "蒙自过桥米线",
+      "type": "staples",
+      "description": "蒙自过桥米线是红河地方餐食，州政府非遗保护规划明确记录相关制作技艺。",
+      "detail": "蒙自过桥米线是红河地方餐食，州政府非遗保护规划明确记录相关制作技艺。食品本身、技艺项目与餐馆品牌分别整理，汤料、配菜和制作步骤继续按专题补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-60bf0b341c461e70"
+      ],
+      "id": "sw-938074ef580bc4bde6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "建水烧豆腐",
+      "type": "dishes",
+      "description": "建水烧豆腐又称临安豆腐，是红河建水地方小吃。地方美食介绍描述其小块豆腐烤成鼓起、表面金黄、内里细嫩的形态，食用时的蘸水与不同店家做法另行核对。",
+      "detail": "建水烧豆腐又称临安豆腐，是红河建水地方小吃。地方美食介绍描述其小块豆腐烤成鼓起、表面金黄、内里细嫩的形态，食用时的蘸水与不同店家做法另行核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-da2de5fa51ae93be"
+      ],
+      "id": "sw-c79e596ebb6dbbc8b9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "香茅草烤鱼",
+      "type": "dishes",
+      "description": "香茅草烤鱼在西双版纳星光夜市的地方报道中有明确记录，成品以外焦里嫩和香茅风味为特点。",
+      "detail": "香茅草烤鱼在西双版纳星光夜市的地方报道中有明确记录，成品以外焦里嫩和香茅风味为特点。鱼种、香料配比和具体制作方法仍按对应资料分别整理。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-cfaaf39617d9a60a"
+      ],
+      "id": "sw-17b67bdfa1e1aafe8f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "菠萝紫米饭",
+      "type": "staples",
+      "description": "菠萝紫米饭被云南官方地方旅游介绍列入西双版纳特色美食，属于米饭与水果结合的地方餐食。",
+      "detail": "菠萝紫米饭被云南官方地方旅游介绍列入西双版纳特色美食，属于米饭与水果结合的地方餐食。现有采用范围为名称、地域及主食身份，具体米种和蒸制方式继续补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-31abd16109a41353"
+      ],
+      "id": "sw-eaa64d2861b3ff4eed",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "竹筒饭",
+      "type": "staples",
+      "description": "竹筒饭被云南地方旅游介绍列为西双版纳美食。它与当地傣族饮食相连，竹筒作为食物器具的形式与具体粮食、馅料和烤蒸做法分别核对。",
+      "detail": "竹筒饭被云南地方旅游介绍列为西双版纳美食。它与当地傣族饮食相连，竹筒作为食物器具的形式与具体粮食、馅料和烤蒸做法分别核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-31abd16109a41353"
+      ],
+      "id": "sw-c871e7599bf94830a6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "大理乳扇",
+      "type": "dairy",
+      "description": "大理乳扇是与白族饮食相连的乳制品，地方介绍明确记载主产于大理洱源。",
+      "detail": "大理乳扇是与白族饮食相连的乳制品，地方介绍明确记载主产于大理洱源。它由牛奶与酸水处理后形成乳白或淡黄的薄片，含水较少，烤食、炸食与其他食用方式分别整理。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-da2de5fa51ae93be"
+      ],
+      "locality": "洱源县",
+      "id": "sw-25f5dd5b14e508a033",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "蝶泉牛奶",
+      "type": "dairy",
+      "description": "蝶泉牛奶与大理地方乳业相连。新希望乳业2025年年度报告列有云南新希望邓川蝶泉乳业有限公司，并记载在大理的乳品生产和销售业务。",
+      "detail": "蝶泉牛奶与大理地方乳业相连。新希望乳业2025年年度报告列有云南新希望邓川蝶泉乳业有限公司，并记载在大理的乳品生产和销售业务。品牌、公司主体、具体奶源和生产厂分别看待。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-f2fbf9c1bbaef640"
+      ],
+      "id": "sw-e5b929d595fb636f3d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "永平黄焖鸡",
+      "type": "dishes",
+      "description": "永平黄焖鸡在云南商务部门的大理展区介绍中有明确记录，属于地方鸡肉餐食。",
+      "detail": "永平黄焖鸡在云南商务部门的大理展区介绍中有明确记录，属于地方鸡肉餐食。食品与餐馆品牌分别保留，具体调味和焖制过程继续据专题核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-7ad72628b506186b"
+      ],
+      "id": "sw-b384ddac0cb9c36d3b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "大理砂锅鱼",
+      "type": "dishes",
+      "description": "大理砂锅鱼是地方介绍记录的白族筵席菜，以鱼为主要原料，在砂锅中与荤素配料同煮。",
+      "detail": "大理砂锅鱼是地方介绍记录的白族筵席菜，以鱼为主要原料，在砂锅中与荤素配料同煮。文中还记载只用鱼头入砂锅的形态，鲜鱼、器具与具体配料分别认识，不把一种做法视为固定标准。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-f9d5ac4279040e51"
+      ],
+      "id": "sw-4d3ab0e59a8ca2a697",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "白族三道茶",
+      "type": "tea",
+      "description": "白族三道茶与大理地方饮茶习俗相连，文化和旅游部非遗线路明确记录相关制作技艺。",
+      "detail": "白族三道茶与大理地方饮茶习俗相连，文化和旅游部非遗线路明确记录相关制作技艺。这里按茶饮与饮茶方式整理，具体茶叶、配料和礼俗环节继续据专题扩写。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-source-040102b6146412f0"
+      ],
+      "id": "sw-a3f341d73cdaed7555",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "喜洲粑粑",
+      "type": "staples",
+      "description": "喜洲粑粑是文化和旅游部大理线路推荐的地方小吃，与喜洲和白族饮食文化相连。",
+      "detail": "喜洲粑粑是文化和旅游部大理线路推荐的地方小吃，与喜洲和白族饮食文化相连。当前采用名称与面点身份，不将不同口味和经营门店自动合并为统一配方。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-88a7f7a3d64625bf"
+      ],
+      "id": "sw-efcdd041ce66e8dd47",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "烧饵块",
+      "type": "staples",
+      "description": "烧饵块是文化和旅游部大理线路列出的米制小吃。饵块本体、烧制食用方式与不同酱料、夹馅分别整理，具体主料和制作环节继续按专题资料核对。",
+      "detail": "烧饵块是文化和旅游部大理线路列出的米制小吃。饵块本体、烧制食用方式与不同酱料、夹馅分别整理，具体主料和制作环节继续按专题资料核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-88a7f7a3d64625bf"
+      ],
+      "aliases": [
+        "饵块"
+      ],
+      "id": "sw-8862ea4865172edb40",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "德宏撒撇",
+      "type": "dishes",
+      "description": "德宏撒撇是当地有代表性的民族地方餐食。云南商务部门的州市美食介绍有明确记录，食品品类、不同撒撇做法与具体门店分别看待，配料与调味过程继续按专题资料核对。",
+      "detail": "德宏撒撇是当地有代表性的民族地方餐食。云南商务部门的州市美食介绍有明确记录，食品品类、不同撒撇做法与具体门店分别看待，配料与调味过程继续按专题资料核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-07aaa3e9dc19d664"
+      ],
+      "id": "sw-0d0c8e1cf3d3dc23e4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "泼水粑粑",
+      "type": "staples",
+      "description": "泼水粑粑在德宏地方民族饮食介绍中有明确记录，并与回龙茶、撒撇等一同列入相关非遗食品。",
+      "detail": "泼水粑粑在德宏地方民族饮食介绍中有明确记录，并与回龙茶、撒撇等一同列入相关非遗食品。它属于地方米面小吃，具体米种与制法继续按专题补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-4a6525533b8cebd8"
+      ],
+      "id": "sw-f540bf566ed40c2206",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "德宏州",
+      "name": "过手米线",
+      "type": "staples",
+      "description": "过手米线在德宏地方旅游介绍中被明确列为阿昌族特色美食。食品本身、民族饮食方式和具体经营门店分开，米线配料与食用过程继续核对。",
+      "detail": "过手米线在德宏地方旅游介绍中被明确列为阿昌族特色美食。食品本身、民族饮食方式和具体经营门店分开，米线配料与食用过程继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-87b52769719d2ab7"
+      ],
+      "id": "sw-f7b3e223462dc28303",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "漆油鸡",
+      "type": "dishes",
+      "description": "漆油鸡是文化和旅游部怒江线路推荐的地方鸡肉菜肴。当前确认食品名称与地方关联，漆油原料、处理及具体做法需继续据专门食品资料核对，不只凭名称推断制作方法。",
+      "detail": "漆油鸡是文化和旅游部怒江线路推荐的地方鸡肉菜肴。当前确认食品名称与地方关联，漆油原料、处理及具体做法需继续据专门食品资料核对，不只凭名称推断制作方法。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-25af7572ea4115a6"
+      ],
+      "id": "sw-74c132d38a6d26cef9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "老窝火腿",
+      "type": "dishes",
+      "description": "老窝火腿在文化和旅游部怒江线路中有明确推荐，是当地加工肉食的一类。",
+      "detail": "老窝火腿在文化和旅游部怒江线路中有明确推荐，是当地加工肉食的一类。食品名称与地方关联保留，具体肉类、腌制方法与成熟过程继续补充。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-25af7572ea4115a6"
+      ],
+      "id": "sw-3d58e7a1b5ca93bdcb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "维西糯山药",
+      "type": "ingredients",
+      "description": "维西糯山药在云南官方迪庆地方饮食介绍中被列为农副产品。它与维西地方物产相连，鲜品、加工食品和餐饮用途分别认识，品种与具体生产范围继续核对。",
+      "detail": "维西糯山药在云南官方迪庆地方饮食介绍中被列为农副产品。它与维西地方物产相连，鲜品、加工食品和餐饮用途分别认识，品种与具体生产范围继续核对。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-source-90c1233b56699149"
+      ],
+      "id": "sw-fe9b6f33e6ce8567da",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "肠旺面",
+      "type": "staples",
+      "description": "肠旺面与贵阳地方小吃传统相连，贵阳知识产权保护报道明确列有相关食品品牌。",
+      "detail": "肠旺面与贵阳地方小吃传统相连，贵阳知识产权保护报道明确列有相关食品品牌。食品品类与具体品牌、门店分别整理，面条、肠和血旺等配料细节继续按制作资料核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-59661d2cb68c1130"
+      ],
+      "id": "sw-abcd472ebf45901c14",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "丝娃娃",
+      "type": "staples",
+      "description": "丝娃娃在贵阳南明区青云路地方餐饮报道中有明确记录。它属于当地风味小吃，食品与店铺品牌分开，面皮、配菜和蘸水继续据专题资料补充。",
+      "detail": "丝娃娃在贵阳南明区青云路地方餐饮报道中有明确记录。它属于当地风味小吃，食品与店铺品牌分开，面皮、配菜和蘸水继续据专题资料补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-fa6fddb1cc02670f"
+      ],
+      "id": "sw-f890e3abd057cef097",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "花溪牛肉粉",
+      "type": "staples",
+      "description": "花溪牛肉粉与贵阳花溪地方饮食相连，地方知识产权资料将其列为特色小吃品牌。",
+      "detail": "花溪牛肉粉与贵阳花溪地方饮食相连，地方知识产权资料将其列为特色小吃品牌。食品品类与具体商标分别认识，米粉、肉汤和配菜按对应制作资料继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-59661d2cb68c1130"
+      ],
+      "id": "sw-e984d08054f9d4be54",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "好一多牛奶",
+      "type": "dairy",
+      "description": "好一多牛奶与贵阳地方乳业相连，企业官网记载鲜牛奶、酸牛奶及鲜奶冰淇淋等产品，并列明贵阳市修文县地址。",
+      "detail": "好一多牛奶与贵阳地方乳业相连，企业官网记载鲜牛奶、酸牛奶及鲜奶冰淇淋等产品，并列明贵阳市修文县地址。公司、牧场、具体产品与奶源分别看待，不沿用营销中的健康效果或绝对质量评价。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-source-a3f2a3e84a388b02"
+      ],
+      "locality": "修文县",
+      "id": "sw-fd8cdddfc76f44040c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "青岩卤猪脚",
+      "type": "dishes",
+      "description": "青岩卤猪脚在贵州地方美食介绍中有明确推荐，属于贵阳青岩相关的熟制猪肉食品。",
+      "detail": "青岩卤猪脚在贵州地方美食介绍中有明确推荐，属于贵阳青岩相关的熟制猪肉食品。地方菜肴、餐馆品牌与不同卤制配方分别保留。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-736745a382900346"
+      ],
+      "id": "sw-8ca2db9eea4c3fffa6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "恋爱豆腐果",
+      "type": "dishes",
+      "description": "恋爱豆腐果是文化和旅游部贵阳花溪线路推荐的地方小吃。它属于地方豆制餐食，名称与食品本身分开解释，具体烤制、配料和命名故事仍需进一步核对。",
+      "detail": "恋爱豆腐果是文化和旅游部贵阳花溪线路推荐的地方小吃。它属于地方豆制餐食，名称与食品本身分开解释，具体烤制、配料和命名故事仍需进一步核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-3efa8a30d68f73e5"
+      ],
+      "id": "sw-e73ccdb5af2d74876f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城羊肉粉",
+      "type": "dishes",
+      "description": "水城羊肉粉是文化和旅游部六盘水线路推荐的地方餐食。它与本地米粉饮食相连，羊肉部位、汤底和配料继续按专题核对，不套用其他城市同名羊肉粉的做法。",
+      "detail": "水城羊肉粉是文化和旅游部六盘水线路推荐的地方餐食。它与本地米粉饮食相连，羊肉部位、汤底和配料继续按专题核对，不套用其他城市同名羊肉粉的做法。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "id": "sw-8876c552bbe1e474c7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "盘州火腿",
+      "type": "dishes",
+      "description": "盘州火腿在六盘水地方线路中以盘县火腿之名出现，属于地方加工肉制品。",
+      "detail": "盘州火腿在六盘水地方线路中以盘县火腿之名出现，属于地方加工肉制品。旧县名与现行盘州市名称分别保留，具体腌制和储存要求继续据产品资料核对。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "id": "sw-86bb4947876e67da17",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "水城烙锅",
+      "type": "dishes",
+      "description": "水城烙锅是六盘水地方线路推荐的特色餐食。它属于地方烹食方式与菜肴组合，具体肉类、蔬菜、器具和蘸料分别看待，不把所有烙锅推定为固定菜单。",
+      "detail": "水城烙锅是六盘水地方线路推荐的特色餐食。它属于地方烹食方式与菜肴组合，具体肉类、蔬菜、器具和蘸料分别看待，不把所有烙锅推定为固定菜单。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-b38ee0aa7944abf1"
+      ],
+      "id": "sw-2b44274c6e64bcd4cc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "遵义羊肉粉",
+      "type": "staples",
+      "description": "遵义羊肉粉在贵州地方米粉专题中有明确介绍，是当地米粉饮食的重要一类。",
+      "detail": "遵义羊肉粉在贵州地方米粉专题中有明确介绍，是当地米粉饮食的重要一类。不同汤底、羊肉处理与调味方式继续分别核对，食品名称不等同于单一餐馆品牌。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-521260f3ae7e2ebd"
+      ],
+      "id": "sw-11d4cc4620ea24335b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "鸭溪凉粉",
+      "type": "staples",
+      "description": "鸭溪凉粉被文化和旅游部遵义线路列为地方小吃。它与鸭溪豆豉火锅等一同呈现当地饮食差异，具体粉类原料与调味按专题资料继续补充。",
+      "detail": "鸭溪凉粉被文化和旅游部遵义线路列为地方小吃。它与鸭溪豆豉火锅等一同呈现当地饮食差异，具体粉类原料与调味按专题资料继续补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-0e5b05a82be71be6"
+      ],
+      "id": "sw-045135dd88f351c1b5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺裹卷",
+      "type": "staples",
+      "description": "安顺裹卷在文化和旅游部安顺地方线路中有明确推荐，属于当地卷制米面小吃。",
+      "detail": "安顺裹卷在文化和旅游部安顺地方线路中有明确推荐，属于当地卷制米面小吃。面皮、馅料、蘸汁与不同门店做法分别整理，具体制法继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-4e4a23a7022cf48b"
+      ],
+      "id": "sw-aadff8a6627e51bc03",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "安顺夺夺粉",
+      "type": "dishes",
+      "description": "安顺夺夺粉被文化和旅游部安顺屯堡线路列为特色美食。它属于地方餐食，具体粉类、汤底与同锅搭配食材继续专题核对，不把名称当作单一食材。",
+      "detail": "安顺夺夺粉被文化和旅游部安顺屯堡线路列为特色美食。它属于地方餐食，具体粉类、汤底与同锅搭配食材继续专题核对，不把名称当作单一食材。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-b7f49d1ce984912b"
+      ],
+      "id": "sw-7792cad1e9f8d530c0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁火腿",
+      "type": "dishes",
+      "description": "威宁火腿在贵州地方媒体的毕节美食介绍中有明确记录，属于加工肉食。",
+      "detail": "威宁火腿在贵州地方媒体的毕节美食介绍中有明确记录，属于加工肉食。火腿品类、企业品牌及不同部位分别看待，具体腌制工艺继续补充。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "id": "sw-e699c54cf572daa0c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "大方手撕豆腐",
+      "type": "dishes",
+      "description": "大方手撕豆腐是毕节大方地方小吃。地方介绍描述烤好后呈嫩黄色，配辣椒、花椒和食盐等调味食用，口感鲜香、辣爽而有劲道；食品与具体门店分别记录。",
+      "detail": "大方手撕豆腐是毕节大方地方小吃。地方介绍描述烤好后呈嫩黄色，配辣椒、花椒和食盐等调味食用，口感鲜香、辣爽而有劲道；食品与具体门店分别记录。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "id": "sw-af5ffd7c38e8ac74db",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "毕节汤圆",
+      "type": "staples",
+      "description": "毕节汤圆在地方美食介绍中有明确记录，是当地米面点心的一种。它与威宁荞酥等分别呈现毕节饮食风味，具体馅料、甜咸和制作方式继续核对。",
+      "detail": "毕节汤圆在地方美食介绍中有明确记录，是当地米面点心的一种。它与威宁荞酥等分别呈现毕节饮食风味，具体馅料、甜咸和制作方式继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "id": "sw-b77aea8f7bf920f786",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "威宁荞酥",
+      "type": "staples",
+      "description": "威宁荞酥是毕节地方媒体介绍的特色食品，文化和旅游部相关线路亦记载其制作技艺。",
+      "detail": "威宁荞酥是毕节地方媒体介绍的特色食品，文化和旅游部相关线路亦记载其制作技艺。它属于地方荞麦糖点，与荞麦原料、品牌和不同产品口味分别整理。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-29eb962d47b5633c"
+      ],
+      "id": "sw-c9594fd949b9ba9310",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "江口米豆腐",
+      "type": "staples",
+      "description": "江口米豆腐在铜仁地方文旅介绍中有明确推荐，是当地粉类与米制小吃之一。",
+      "detail": "江口米豆腐在铜仁地方文旅介绍中有明确推荐，是当地粉类与米制小吃之一。米制食品与豆制豆腐分别认识，具体原料比例、凝制和调味过程继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-045563175eb6d62a"
+      ],
+      "id": "sw-72537b3514b036c6b0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "铜仁社饭",
+      "type": "staples",
+      "description": "铜仁社饭是当地地方饮食与民俗相连的米饭餐食。报道记载其中有青蒿嫩叶、腊肉等辅料，焖制后带有清香与咸香；不同家庭的配料和节俗方式继续分别整理。",
+      "detail": "铜仁社饭是当地地方饮食与民俗相连的米饭餐食。报道记载其中有青蒿嫩叶、腊肉等辅料，焖制后带有清香与咸香；不同家庭的配料和节俗方式继续分别整理。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-6a50898b785c2e6a"
+      ],
+      "id": "sw-a1f32a74e14645a066",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴义鸡肉汤圆",
+      "type": "staples",
+      "description": "兴义鸡肉汤圆以咸鲜风味区别于常见甜汤圆。地方介绍记载以鸡肉作馅、配鸡汤和芝麻酱，呈现糯米与鸡肉香味的结合，具体比例与不同店家做法分别核对。",
+      "detail": "兴义鸡肉汤圆以咸鲜风味区别于常见甜汤圆。地方介绍记载以鸡肉作馅、配鸡汤和芝麻酱，呈现糯米与鸡肉香味的结合，具体比例与不同店家做法分别核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "id": "sw-9b618d83c788835c08",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "刷把头",
+      "type": "staples",
+      "description": "刷把头被贵州地方美食介绍列为兴义代表餐食之一。它属于地方米面食品，当前采用名称和地域身份，具体外形、馅料与蒸制工艺继续核对。",
+      "detail": "刷把头被贵州地方美食介绍列为兴义代表餐食之一。它属于地方米面食品，当前采用名称和地域身份，具体外形、馅料与蒸制工艺继续核对。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-231c9dc396215dc4"
+      ],
+      "id": "sw-4b362a3a8e6fb4156c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "贞丰糯米饭",
+      "type": "staples",
+      "description": "贞丰糯米饭是黔西南地方小吃，介绍记载以糯米和瘦肉为主要原料，呈现米香与肉酥的结合。",
+      "detail": "贞丰糯米饭是黔西南地方小吃，介绍记载以糯米和瘦肉为主要原料，呈现米香与肉酥的结合。当前不沿用未经史料核对的起源年代，具体配料与制作方式另行补充。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-89c846a740e9e377"
+      ],
+      "id": "sw-1b132a27e456df03e0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "凯里酸汤鱼",
+      "type": "dishes",
+      "description": "凯里酸汤鱼与黔东南地方饮食相连。地方介绍区分白酸、红酸和毛辣果酸等酸汤，并记录以红酸或毛辣果酸配鲜鱼煮制的吃法，汤底类型和具体鱼种分别看待。",
+      "detail": "凯里酸汤鱼与黔东南地方饮食相连。地方介绍区分白酸、红酸和毛辣果酸等酸汤，并记录以红酸或毛辣果酸配鲜鱼煮制的吃法，汤底类型和具体鱼种分别看待。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-source-736745a382900346"
+      ],
+      "id": "sw-a5a02f62349265cd3c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "榕江卷粉",
+      "type": "staples",
+      "description": "榕江卷粉在文化和旅游部黔东南村超线路中被明确列为地方食品。它属于地方米面餐食，卷制面皮、馅料和汤汁继续按专题资料核对，食品与经营门店分别整理。",
+      "detail": "榕江卷粉在文化和旅游部黔东南村超线路中被明确列为地方食品。它属于地方米面餐食，卷制面皮、馅料和汤汁继续按专题资料核对，食品与经营门店分别整理。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-source-c3b23265906b1730"
+      ],
+      "id": "sw-feda23f7ef209abc2a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "贵州茅台酒",
+      "type": "alcohol",
+      "description": "贵州茅台酒与遵义仁怀茅台镇的酿酒产业相连。国家标准平台的酱香型白酒技术组织资料记录贵州茅台酒股份有限公司及茅台镇地址，遵义白酒报道亦明确列有茅台品牌。",
+      "detail": "贵州茅台酒与遵义仁怀茅台镇的酿酒产业相连。国家标准平台的酱香型白酒技术组织资料记录贵州茅台酒股份有限公司及茅台镇地址，遵义白酒报道亦明确列有茅台品牌。公司、酒类品牌和具体酒款分别记录。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-source-942618fc48d4a17b",
+        "sw-source-9df45bfdb06b28b7"
+      ],
+      "locality": "仁怀市",
+      "id": "sw-457a62b7e55698bf1a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "董酒",
+      "type": "alcohol",
+      "description": "董酒在贵州地方白酒产业报道中被明确列为遵义知名品牌之一。它属于地方酒类品牌，具体产品系列、香型、度数和酿造工艺继续分别核对，不沿用宣传中的绝对评价。",
+      "detail": "董酒在贵州地方白酒产业报道中被明确列为遵义知名品牌之一。它属于地方酒类品牌，具体产品系列、香型、度数和酿造工艺继续分别核对，不沿用宣传中的绝对评价。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-source-9df45bfdb06b28b7"
+      ],
+      "id": "sw-717127cb06deefa1d2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "涪陵黑猪",
+      "type": "ingredients",
+      "description": "涪陵黑猪是与重庆·涪陵区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "涪陵黑猪是与重庆·涪陵区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市涪陵区农业农村委员会。该批名单记载的生产规模为6.5万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "涪陵区",
+      "id": "sw-2182af538da43779de",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "綦江金水梨",
+      "type": "ingredients",
+      "description": "綦江金水梨是与重庆·綦江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "綦江金水梨是与重庆·綦江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市綦江区农业农村委员会。该批名单记载的生产规模为666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "綦江区",
+      "id": "sw-289cc78a078b773b0e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黑山谷猕猴桃",
+      "type": "ingredients",
+      "description": "黑山谷猕猴桃是与重庆·綦江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "黑山谷猕猴桃是与重庆·綦江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市万盛经济技术开发区农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "綦江区",
+      "id": "sw-f68c7d24c9c492074c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江桑枝木耳",
+      "type": "ingredients",
+      "description": "黔江桑枝木耳是与重庆·黔江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "黔江桑枝木耳是与重庆·黔江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市黔江区农业技术服务中心。该批名单记载的生产规模为1000万棒，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "黔江区",
+      "id": "sw-c9b6cad257d1c6664a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "忠县西瓜",
+      "type": "ingredients",
+      "description": "忠县西瓜是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "忠县西瓜是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为忠县农业农村委员会。该批名单记载的生产规模为205公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "忠县",
+      "id": "sw-5bae357a4a88563779",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "忠县竹笋",
+      "type": "ingredients",
+      "description": "忠县竹笋是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "忠县竹笋是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为忠县农业农村委员会。该批名单记载的生产规模为7666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "忠县",
+      "id": "sw-34b016d3d71d54602b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "奉节黄桃",
+      "type": "ingredients",
+      "description": "奉节黄桃是与重庆·奉节县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "奉节黄桃是与重庆·奉节县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为奉节县农产品市场服务中心。该批名单记载的生产规模为666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "奉节县",
+      "id": "sw-43dda59a50b562966c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巫溪晚李",
+      "type": "ingredients",
+      "description": "巫溪晚李是与重庆·巫溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "巫溪晚李是与重庆·巫溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为巫溪县种植业发展服务中心。该批名单记载的生产规模为14000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "巫溪县",
+      "id": "sw-26ad4f6d29cbb3ff9f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "酉阳苦荞",
+      "type": "ingredients",
+      "description": "酉阳苦荞是与重庆·酉阳土家族苗族自治县相联系的地方农产品与食材。",
+      "detail": "酉阳苦荞是与重庆·酉阳土家族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为酉阳土家族苗族自治县农业农村委员会。该批名单记载的生产规模为3893公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "酉阳土家族苗族自治县",
+      "id": "sw-a610bac6bc91da5ada",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "酉阳蜂蜜",
+      "type": "ingredients",
+      "description": "酉阳蜂蜜是与重庆·酉阳土家族苗族自治县相联系的地方农产品与食材。",
+      "detail": "酉阳蜂蜜是与重庆·酉阳土家族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为酉阳土家族苗族自治县农业农村委员会。该批名单记载的生产规模为9.5万群，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "酉阳土家族苗族自治县",
+      "id": "sw-df41df1422fce9b6c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "郫都圆根萝卜",
+      "type": "ingredients",
+      "description": "郫都圆根萝卜是与四川·成都·郫都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "郫都圆根萝卜是与四川·成都·郫都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市郫都区农业农村和林业局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "郫都区",
+      "id": "sw-932c9f411581d9158f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑枇杷茶",
+      "type": "tea",
+      "description": "大邑枇杷茶是与四川·成都·大邑县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大邑枇杷茶是与四川·成都·大邑县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大邑县农业农村局。该批名单记载的生产规模为220公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大邑县",
+      "id": "sw-47abaa02a1932194e8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "荣县番茄",
+      "type": "ingredients",
+      "description": "荣县番茄是与四川·自贡·荣县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "荣县番茄是与四川·自贡·荣县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为荣县农业农村局。该批名单记载的生产规模为80公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "荣县",
+      "id": "sw-dfa4b56ae45d447600",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "攀枝花噹噹鸡",
+      "type": "ingredients",
+      "description": "攀枝花噹噹鸡是与四川·攀枝花·西区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "攀枝花噹噹鸡是与四川·攀枝花·西区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为攀枝花市西区农业农村和交通运输局。该批名单记载的生产规模为11万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "西区",
+      "id": "sw-6b798a5ada1c23709b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "盐边芒果",
+      "type": "ingredients",
+      "description": "盐边芒果是与四川·攀枝花·盐边县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "盐边芒果是与四川·攀枝花·盐边县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为盐边县农产品质量安全中心。该批名单记载的生产规模为7810公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "盐边县",
+      "id": "sw-f68c97002958365763",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "叙永甜橙",
+      "type": "ingredients",
+      "description": "叙永甜橙是与四川·泸州·叙永县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "叙永甜橙是与四川·泸州·叙永县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为叙永县农业农村局。该批名单记载的生产规模为368.83公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "叙永县",
+      "id": "sw-2e6e7ec64d7fbe8631",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "叙永凤凰李",
+      "type": "ingredients",
+      "description": "叙永凤凰李是与四川·泸州·叙永县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "叙永凤凰李是与四川·泸州·叙永县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为叙永县农业农村局。该批名单记载的生产规模为203公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "叙永县",
+      "id": "sw-e07fac2a6f601c5889",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "古蔺丫杈猪",
+      "type": "ingredients",
+      "description": "古蔺丫杈猪是与四川·泸州·古蔺县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "古蔺丫杈猪是与四川·泸州·古蔺县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为古蔺县农业农村局。该批名单记载的生产规模为1.6万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "古蔺县",
+      "id": "sw-1c5091ed0894d37b6d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳油菜籽",
+      "type": "ingredients",
+      "description": "旌阳油菜籽是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "旌阳油菜籽是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为6666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-5eda3c672a6e43c059",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳小麦",
+      "type": "ingredients",
+      "description": "旌阳小麦是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "旌阳小麦是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为760公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-8c84121caa9e8651c6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳鸡蛋",
+      "type": "ingredients",
+      "description": "旌阳鸡蛋是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "旌阳鸡蛋是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为23万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-b59a91c32c11318e29",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳鲤鱼",
+      "type": "ingredients",
+      "description": "旌阳鲤鱼是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "旌阳鲤鱼是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为25公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-66ea878a7f3b62e197",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江土黑猪",
+      "type": "ingredients",
+      "description": "中江土黑猪是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "中江土黑猪是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为2万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "中江县",
+      "id": "sw-993746c41e4b3c675c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江黑山羊",
+      "type": "ingredients",
+      "description": "中江黑山羊是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "中江黑山羊是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为1.2万只，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "中江县",
+      "id": "sw-800bce572aff24d4c6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "广汉草莓",
+      "type": "ingredients",
+      "description": "广汉草莓是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "广汉草莓是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广汉市农业农村局。该批名单记载的生产规模为52公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "广汉市",
+      "id": "sw-d7e9ced3c3424df49c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "什邡杨村茶",
+      "type": "tea",
+      "description": "什邡杨村茶是与四川·德阳·什邡市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "什邡杨村茶是与四川·德阳·什邡市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为什邡市农业农村局。该批名单记载的生产规模为600公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "什邡市",
+      "id": "sw-c0c68845a491078365",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "绵竹高山茶",
+      "type": "tea",
+      "description": "绵竹高山茶是与四川·德阳·绵竹市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "绵竹高山茶是与四川·德阳·绵竹市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绵竹市农业农村局。该批名单记载的生产规模为500.33公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "绵竹市",
+      "id": "sw-feae60be8c75cb84cc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "绵竹高山竹笋",
+      "type": "ingredients",
+      "description": "绵竹高山竹笋是与四川·德阳·绵竹市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "绵竹高山竹笋是与四川·德阳·绵竹市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绵竹市农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "绵竹市",
+      "id": "sw-643545a4e631044786",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "游仙葡萄",
+      "type": "ingredients",
+      "description": "游仙葡萄是与四川·绵阳·游仙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "游仙葡萄是与四川·绵阳·游仙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绵阳市游仙区农业农村局。该批名单记载的生产规模为725.6公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "游仙区",
+      "id": "sw-85d680e1626f8814d7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "三台涪城麦冬",
+      "type": "ingredients",
+      "description": "三台涪城麦冬是与四川·绵阳·三台县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "三台涪城麦冬是与四川·绵阳·三台县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三台县农业农村局。该批名单记载的生产规模为750公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "三台县",
+      "id": "sw-befb7eaf0741b1a9c2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "盐亭桑椹干",
+      "type": "ingredients",
+      "description": "盐亭桑椹干是与四川·绵阳·盐亭县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "盐亭桑椹干是与四川·绵阳·盐亭县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为盐亭县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "盐亭县",
+      "id": "sw-70cb8d3fb0a743e962",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "盐亭桑叶茶",
+      "type": "tea",
+      "description": "盐亭桑叶茶是与四川·绵阳·盐亭县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "盐亭桑叶茶是与四川·绵阳·盐亭县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为盐亭县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "盐亭县",
+      "id": "sw-5f47e931acdaf983b1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "梓潼菜籽油",
+      "type": "seasoning",
+      "description": "梓潼菜籽油是与四川·绵阳·梓潼县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "梓潼菜籽油是与四川·绵阳·梓潼县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为梓潼县农业农村局。该批名单记载的生产规模为2100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "梓潼县",
+      "id": "sw-99a5b1f10663aa679d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "北川蓝莓",
+      "type": "ingredients",
+      "description": "北川蓝莓是与四川·绵阳·北川羌族自治县相联系的地方农产品与食材。",
+      "detail": "北川蓝莓是与四川·绵阳·北川羌族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为北川羌族自治县经作站。该批名单记载的生产规模为232公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "北川羌族自治县",
+      "id": "sw-601ed3cf2f294e0065",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "平武绿茶",
+      "type": "tea",
+      "description": "平武绿茶是与四川·绵阳·平武县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平武绿茶是与四川·绵阳·平武县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为平武县农业农村局。该批名单记载的生产规模为2300公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平武县",
+      "id": "sw-bc81f6997ac75895fc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "平武红鸡",
+      "type": "ingredients",
+      "description": "平武红鸡是与四川·绵阳·平武县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平武红鸡是与四川·绵阳·平武县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为平武县农业农村局。该批名单记载的生产规模为23万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平武县",
+      "id": "sw-9467867b329cc12d9f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "江油老鹰茶",
+      "type": "tea",
+      "description": "江油老鹰茶是与四川·绵阳·江油市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "江油老鹰茶是与四川·绵阳·江油市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为江油市农业农村局。该批名单记载的生产规模为450公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "江油市",
+      "id": "sw-1f73f49714d65e0df8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "江油甲鱼",
+      "type": "ingredients",
+      "description": "江油甲鱼是与四川·绵阳·江油市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "江油甲鱼是与四川·绵阳·江油市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为江油市农业农村局。该批名单记载的生产规模为47万只，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "江油市",
+      "id": "sw-9d9661fb6c0dcb3f5f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "朝天扯兜子花生",
+      "type": "ingredients",
+      "description": "朝天扯兜子花生是与四川·广元·朝天区相联系的地方农产品与食材。",
+      "detail": "朝天扯兜子花生是与四川·广元·朝天区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广元市朝天区蔬菜产业发展中心。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "朝天区",
+      "id": "sw-6ba7b7993b750edf34",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "剑阁翠玉梨",
+      "type": "ingredients",
+      "description": "剑阁翠玉梨是与四川·广元·剑阁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "剑阁翠玉梨是与四川·广元·剑阁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为剑阁县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "剑阁县",
+      "id": "sw-46861812bf38808179",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山萝卜",
+      "type": "ingredients",
+      "description": "船山萝卜是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "船山萝卜是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为四川省遂宁市船山区农业农村局。该批名单记载的生产规模为105公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "船山区",
+      "id": "sw-20f04f3898192369f8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山小龙虾",
+      "type": "ingredients",
+      "description": "船山小龙虾是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "船山小龙虾是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市船山区农业农村局。该批名单记载的生产规模为3360万尾，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "船山区",
+      "id": "sw-cb3d1c491f56eca35e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山黄颡鱼",
+      "type": "ingredients",
+      "description": "船山黄颡鱼是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "船山黄颡鱼是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市船山区农业农村局。该批名单记载的生产规模为465万尾，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "船山区",
+      "id": "sw-d06f172a9317468067",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪红薯粉条",
+      "type": "staples",
+      "description": "蓬溪红薯粉条是与四川·遂宁·蓬溪县相联系的地方米面食品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "蓬溪红薯粉条是与四川·遂宁·蓬溪县相联系的地方米面食品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为1200公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-bc38d2edff255695fb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪佛手柑",
+      "type": "ingredients",
+      "description": "蓬溪佛手柑是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "蓬溪佛手柑是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为300公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-41f5859926f9ba2e60",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪虫草花",
+      "type": "ingredients",
+      "description": "蓬溪虫草花是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "蓬溪虫草花是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为1200万袋，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-e4f602a8e4564f9b15",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英青花椒",
+      "type": "ingredients",
+      "description": "大英青花椒是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大英青花椒是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为240公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大英县",
+      "id": "sw-95ff2f51c28743e425",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英黑玉米",
+      "type": "ingredients",
+      "description": "大英黑玉米是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大英黑玉米是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为235公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大英县",
+      "id": "sw-a4fc1a5dcb2abf866f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英刺梨",
+      "type": "ingredients",
+      "description": "大英刺梨是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大英刺梨是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为533公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大英县",
+      "id": "sw-34465197a39adef246",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英芦花鸡",
+      "type": "ingredients",
+      "description": "大英芦花鸡是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大英芦花鸡是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为10万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大英县",
+      "id": "sw-eec558a14cf1f27a7a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "内江青花椒",
+      "type": "ingredients",
+      "description": "内江青花椒是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "内江青花椒是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为61公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "东兴区",
+      "id": "sw-b0017e19b866a42d49",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "内江鲜食玉米",
+      "type": "ingredients",
+      "description": "内江鲜食玉米是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "内江鲜食玉米是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为120公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "东兴区",
+      "id": "sw-78983c6d96d9754a9c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "内江甜桃",
+      "type": "ingredients",
+      "description": "内江甜桃是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "内江甜桃是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为54公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "东兴区",
+      "id": "sw-48b95c48776776b6e7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中花椒",
+      "type": "ingredients",
+      "description": "资中花椒是与四川·内江·资中县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "资中花椒是与四川·内江·资中县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为资中县农产品质量安全检验检测站。该批名单记载的生产规模为1216.5公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "资中县",
+      "id": "sw-77250a3a6996b90e7a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "高坪甜橙",
+      "type": "ingredients",
+      "description": "高坪甜橙是与四川·南充·高坪区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "高坪甜橙是与四川·南充·高坪区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为南充市高坪区果树技术指导站。该批名单记载的生产规模为1100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "高坪区",
+      "id": "sw-c3431a5765da8562e1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "营山橄榄油",
+      "type": "seasoning",
+      "description": "营山橄榄油是与四川·南充·营山县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "营山橄榄油是与四川·南充·营山县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为营山县农业农村局。该批名单记载的生产规模为733.3公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "营山县",
+      "id": "sw-722305337a81508354",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "营山黑山羊",
+      "type": "ingredients",
+      "description": "营山黑山羊是与四川·南充·营山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "营山黑山羊是与四川·南充·营山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为营山县农业农村局。该批名单记载的生产规模为30万只，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "营山县",
+      "id": "sw-443e7d6e3bc29e3acc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "蓬安大米",
+      "type": "ingredients",
+      "description": "蓬安大米是与四川·南充·蓬安县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "蓬安大米是与四川·南充·蓬安县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬安县农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "蓬安县",
+      "id": "sw-b6f1fb4147213d5474",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇车厘子",
+      "type": "ingredients",
+      "description": "仪陇车厘子是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "仪陇车厘子是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仪陇县农业农村局。该批名单记载的生产规模为90公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-08b14663304eb978d5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇蜂糖李",
+      "type": "ingredients",
+      "description": "仪陇蜂糖李是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "仪陇蜂糖李是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仪陇县农业农村局。该批名单记载的生产规模为90公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-d0f342585506d2c3c8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇明日见",
+      "type": "ingredients",
+      "description": "仪陇明日见是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "仪陇明日见是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仪陇县农业农村局。该批名单记载的生产规模为288公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-de2554e8af50ab6437",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "西充玫瑰花茶",
+      "type": "tea",
+      "description": "西充玫瑰花茶是与四川·南充·西充县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "西充玫瑰花茶是与四川·南充·西充县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为西充县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "西充县",
+      "id": "sw-4d747bdc175960daa3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "宜宾早虾",
+      "type": "ingredients",
+      "description": "宜宾早虾是与四川·宜宾相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "宜宾早虾是与四川·宜宾相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宜宾市农业农村局。该批名单记载的生产规模为155公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "id": "sw-175fefddcd1b4e0633",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "叙州绿茶",
+      "type": "tea",
+      "description": "叙州绿茶是与四川·宜宾·叙州区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "叙州绿茶是与四川·宜宾·叙州区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宜宾市叙州区农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。来源沿用“宜宾县”地名，当前地区索引对应叙州区。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "叙州区",
+      "id": "sw-d6972789fff3bea74e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "长宁甜梨",
+      "type": "ingredients",
+      "description": "长宁甜梨是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "长宁甜梨是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为长宁县农业农村局。该批名单记载的生产规模为666公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "长宁县",
+      "id": "sw-2c2af7dc20bab699da",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "高县黄金芽",
+      "type": "tea",
+      "description": "高县黄金芽是与四川·宜宾·高县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "高县黄金芽是与四川·宜宾·高县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为高县农业农村局。该批名单记载的生产规模为750公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "高县",
+      "id": "sw-4ff01c7ae68aad3652",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "珙县茉莉花茶",
+      "type": "tea",
+      "description": "珙县茉莉花茶是与四川·宜宾·珙县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "珙县茉莉花茶是与四川·宜宾·珙县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为珙县农业农村局。该批名单记载的生产规模为56吨，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "珙县",
+      "id": "sw-8dcba3be34ad9b8952",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "武胜猪肉",
+      "type": "ingredients",
+      "description": "武胜猪肉是与四川·广安·武胜县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "武胜猪肉是与四川·广安·武胜县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为武胜县农业农村局。该批名单记载的生产规模为1.37万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "武胜县",
+      "id": "sw-b712024b047997bfb9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "武胜鸡蛋",
+      "type": "ingredients",
+      "description": "武胜鸡蛋是与四川·广安·武胜县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "武胜鸡蛋是与四川·广安·武胜县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为武胜县农业农村局。该批名单记载的生产规模为22.5万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "武胜县",
+      "id": "sw-bf93c7beb091bda2d5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "恩阳葡萄",
+      "type": "ingredients",
+      "description": "恩阳葡萄是与四川·巴中·恩阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "恩阳葡萄是与四川·巴中·恩阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为巴中市恩阳区农畜产品质量安全检验检测监督管理站。该批名单记载的生产规模为425公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "恩阳区",
+      "id": "sw-0c8de3fffc867a961d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "万源岩豆",
+      "type": "ingredients",
+      "description": "万源岩豆是与四川·达州·万源市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "万源岩豆是与四川·达州·万源市相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为万源市农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "万源市",
+      "id": "sw-4cc4ec944c5a53e3f9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹醪糟",
+      "type": "dishes",
+      "description": "大竹醪糟是与四川·达州·大竹县相联系的地方加工食品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大竹醪糟是与四川·达州·大竹县相联系的地方加工食品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大竹县水稻原种场。该批名单记载的生产规模为8500吨，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大竹县",
+      "id": "sw-33e5111403a4f3a199",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "大竹糯米",
+      "type": "ingredients",
+      "description": "大竹糯米是与四川·达州·大竹县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "大竹糯米是与四川·达州·大竹县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大竹县水稻原种场。该批名单记载的生产规模为3333公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "大竹县",
+      "id": "sw-5032e1a648fc763ad6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "天全冷水鲟鱼",
+      "type": "ingredients",
+      "description": "天全冷水鲟鱼是与四川·雅安·天全县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "天全冷水鲟鱼是与四川·雅安·天全县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为天全县农业农村局。该批名单记载的生产规模为3350吨，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "天全县",
+      "id": "sw-132ef9bab5dc6c32d6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "宝兴红茶",
+      "type": "tea",
+      "description": "宝兴红茶是与四川·雅安·宝兴县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "宝兴红茶是与四川·雅安·宝兴县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宝兴县农业农村局。该批名单记载的生产规模为900公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "宝兴县",
+      "id": "sw-fdbf4f9b3162c4d8a5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "宝兴平菇",
+      "type": "ingredients",
+      "description": "宝兴平菇是与四川·雅安·宝兴县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "宝兴平菇是与四川·雅安·宝兴县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宝兴县农业农村局。该批名单记载的生产规模为85万袋，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "宝兴县",
+      "id": "sw-b3ab67dcbd9aa8f537",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "茂县花椒",
+      "type": "ingredients",
+      "description": "茂县花椒是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "茂县花椒是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为茂县科学技术和农业畜牧局。该批名单记载的生产规模为300公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "茂县",
+      "id": "sw-69660d1bc2185f00f0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "松潘藏红花椒",
+      "type": "ingredients",
+      "description": "松潘藏红花椒是与四川·阿坝州·松潘县相联系的地方农产品与食材。",
+      "detail": "松潘藏红花椒是与四川·阿坝州·松潘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为松潘县科学技术和农业畜牧局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "松潘县",
+      "id": "sw-1d8cb3f2fcb38b54bd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "阿坝白青稞",
+      "type": "ingredients",
+      "description": "阿坝白青稞是与四川·阿坝州·阿坝县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "阿坝白青稞是与四川·阿坝州·阿坝县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为阿坝县科学技术和农业畜牧水务局。该批名单记载的生产规模为667公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "阿坝县",
+      "id": "sw-ff24180863781ff852",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "雅江花椒",
+      "type": "ingredients",
+      "description": "雅江花椒是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "雅江花椒是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为雅江县农牧农村和科技局。该批名单记载的生产规模为175.4公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "雅江县",
+      "id": "sw-3ac78cab7553cd6bba",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "雅江青稞",
+      "type": "ingredients",
+      "description": "雅江青稞是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "雅江青稞是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为雅江县农牧农村和科技局。该批名单记载的生产规模为660公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "雅江县",
+      "id": "sw-862f8e3e2f8b4a24c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "雅江马铃薯",
+      "type": "ingredients",
+      "description": "雅江马铃薯是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "雅江马铃薯是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为雅江县农牧农村和科技局。该批名单记载的生产规模为572.3公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "雅江县",
+      "id": "sw-c571b9a74bfcb7fdc7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "雅江香菇",
+      "type": "ingredients",
+      "description": "雅江香菇是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "雅江香菇是与四川·甘孜州·雅江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为雅江县农牧农村和科技局。该批名单记载的生产规模为24万袋，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "雅江县",
+      "id": "sw-8838c54849722a6b10",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "越西苹果",
+      "type": "ingredients",
+      "description": "越西苹果是与四川·凉山州·越西县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "越西苹果是与四川·凉山州·越西县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为越西县农业农村局。该批名单记载的生产规模为560公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "越西县",
+      "id": "sw-3d6da13e3f45ede2b6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "美姑红梨",
+      "type": "ingredients",
+      "description": "美姑红梨是与四川·凉山州·美姑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "美姑红梨是与四川·凉山州·美姑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为美姑县农业农村局。该批名单记载的生产规模为1333.33公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "美姑县",
+      "id": "sw-ff64d5e23739b2e025",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "南明永乐桃",
+      "type": "ingredients",
+      "description": "南明永乐桃是与贵州·贵阳·南明区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "南明永乐桃是与贵州·贵阳·南明区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为贵阳市南明区农业农村局。该批名单记载的生产规模为720公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "南明区",
+      "id": "sw-9fc69ed50530b7e9b2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "息烽刺梨",
+      "type": "ingredients",
+      "description": "息烽刺梨是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "息烽刺梨是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为息烽县农业农村局。该批名单记载的生产规模为280公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "息烽县",
+      "id": "sw-6b347efea55393317f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "息烽西山贡米",
+      "type": "ingredients",
+      "description": "息烽西山贡米是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "息烽西山贡米是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为息烽县农业农村局。该批名单记载的生产规模为1940公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "息烽县",
+      "id": "sw-63c4a067add0d8d9c3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "贵阳",
+      "name": "息烽岭南黄鸡",
+      "type": "ingredients",
+      "description": "息烽岭南黄鸡是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "息烽岭南黄鸡是与贵州·贵阳·息烽县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为息烽县农业农村局。该批名单记载的生产规模为200万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "息烽县",
+      "id": "sw-ab23f63234fdde031c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "钟山皇菊",
+      "type": "tea",
+      "description": "钟山皇菊是与贵州·六盘水·钟山区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "钟山皇菊是与贵州·六盘水·钟山区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为六盘水市钟山区农业农村局。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "钟山区",
+      "id": "sw-ff2b2e5a97c6b6a121",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "汇川高粱",
+      "type": "ingredients",
+      "description": "汇川高粱是与贵州·遵义·汇川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "汇川高粱是与贵州·遵义·汇川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遵义市汇川区农业农村局。该批名单记载的生产规模为7623公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "汇川区",
+      "id": "sw-fc93c7d7d7f841060e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "洛龙苕粉",
+      "type": "staples",
+      "description": "洛龙苕粉是与贵州·遵义·道真仡佬族苗族自治县相联系的地方米面食品。",
+      "detail": "洛龙苕粉是与贵州·遵义·道真仡佬族苗族自治县相联系的地方米面食品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为道真仡佬族苗族自治县农业农村局。该批名单记载的生产规模为250公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "道真仡佬族苗族自治县",
+      "id": "sw-8020b90d1c232e3949",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "务川红茶",
+      "type": "tea",
+      "description": "务川红茶是与贵州·遵义·务川仡佬族苗族自治县相联系的地方茶品。",
+      "detail": "务川红茶是与贵州·遵义·务川仡佬族苗族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为务川仡佬族苗族自治县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "务川仡佬族苗族自治县",
+      "id": "sw-42db63ac643229e4dd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "平坝绿茶",
+      "type": "tea",
+      "description": "平坝绿茶是与贵州·安顺·平坝区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平坝绿茶是与贵州·安顺·平坝区相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安顺市平坝区农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。来源沿用“平坝县”地名，当前地区索引对应平坝区。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平坝区",
+      "id": "sw-2249d65d8f313d9adb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "务川香榧",
+      "type": "ingredients",
+      "description": "务川香榧是与贵州·遵义·务川仡佬族苗族自治县相联系的地方农产品与食材。",
+      "detail": "务川香榧是与贵州·遵义·务川仡佬族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为务川仡佬族苗族自治县农业农村局。该批名单记载的生产规模为3400公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "务川仡佬族苗族自治县",
+      "id": "sw-1e8378bff417561dba",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "印江青脆李",
+      "type": "ingredients",
+      "description": "印江青脆李是与贵州·铜仁·印江土家族苗族自治县相联系的地方农产品与食材。",
+      "detail": "印江青脆李是与贵州·铜仁·印江土家族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为印江土家族苗族自治县农业农村局。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "印江土家族苗族自治县",
+      "id": "sw-0faae253b0e0c5183a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "铜仁",
+      "name": "印江黑木耳",
+      "type": "ingredients",
+      "description": "印江黑木耳是与贵州·铜仁·印江土家族苗族自治县相联系的地方农产品与食材。",
+      "detail": "印江黑木耳是与贵州·铜仁·印江土家族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为印江土家族苗族自治县农业农村局。该批名单记载的生产规模为460公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "印江土家族苗族自治县",
+      "id": "sw-5b44c11f256b28b546",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "望谟油茶",
+      "type": "ingredients",
+      "description": "望谟油茶是与贵州·黔西南州·望谟县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "望谟油茶是与贵州·黔西南州·望谟县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为望谟县农业农村局。该批名单记载的生产规模为666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。此处记录油茶类农产品，不能仅因名称含“茶”就等同于冲泡茶饮。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "望谟县",
+      "id": "sw-f810acb6e50d134c2d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "中坪茶",
+      "type": "tea",
+      "description": "中坪茶是与贵州·毕节·黔西市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "中坪茶是与贵州·毕节·黔西市相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黔西市农业农村局。该批名单记载的生产规模为153公顷，对应原文公布或公示时点的登记范围。来源沿用“黔西县”地名，当前地区索引对应黔西市。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "黔西市",
+      "id": "sw-8d5484c8af7e8a45b4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "毕节",
+      "name": "金沙菜籽油",
+      "type": "seasoning",
+      "description": "金沙菜籽油是与贵州·毕节·金沙县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "金沙菜籽油是与贵州·毕节·金沙县相联系的地方食用油。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为金沙县农业农村局。该批名单记载的生产规模为15800公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "金沙县",
+      "id": "sw-056f5807208797d48d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "平坝大葱",
+      "type": "ingredients",
+      "description": "平坝大葱是与贵州·安顺·平坝区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平坝大葱是与贵州·安顺·平坝区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安顺市平坝区农业农村局。该批名单记载的生产规模为1333.3公顷，对应原文公布或公示时点的登记范围。来源沿用“平坝县”地名，当前地区索引对应平坝区。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平坝区",
+      "id": "sw-80727cee69321e417f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "平坝麻叶菜",
+      "type": "ingredients",
+      "description": "平坝麻叶菜是与贵州·安顺·平坝区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平坝麻叶菜是与贵州·安顺·平坝区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安顺市平坝区农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。来源沿用“平坝县”地名，当前地区索引对应平坝区。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平坝区",
+      "id": "sw-4ef23ceb394491e990",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭蜂糖李",
+      "type": "ingredients",
+      "description": "关岭蜂糖李是与贵州·安顺·关岭布依族苗族自治县相联系的地方农产品与食材。",
+      "detail": "关岭蜂糖李是与贵州·安顺·关岭布依族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为关岭布依族苗族自治县农产品质量安全检验检测站。该批名单记载的生产规模为2667公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "关岭布依族苗族自治县",
+      "id": "sw-8ec0e5fd433a252e2b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "瓮安黄金芽",
+      "type": "tea",
+      "description": "瓮安黄金芽是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "瓮安黄金芽是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为瓮安县农业农村局。该批名单记载的生产规模为520公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "瓮安县",
+      "id": "sw-f0f5878de03af4aa2b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "瓮安老白茶",
+      "type": "tea",
+      "description": "瓮安老白茶是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "瓮安老白茶是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为瓮安县农业农村局。该批名单记载的生产规模为680公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "瓮安县",
+      "id": "sw-ce104cdfa85302d5d6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "瓮安红茶",
+      "type": "tea",
+      "description": "瓮安红茶是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "瓮安红茶是与贵州·黔南州·瓮安县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为瓮安县农业农村局。该批名单记载的生产规模为520公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "瓮安县",
+      "id": "sw-05c46ece8bf7f1c3ff",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "平塘蜂糖李",
+      "type": "ingredients",
+      "description": "平塘蜂糖李是与贵州·黔南州·平塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "平塘蜂糖李是与贵州·黔南州·平塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为平塘县农业农村局。该批名单记载的生产规模为300公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "平塘县",
+      "id": "sw-9cb8106509cebd6a0f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "罗甸刺梨",
+      "type": "ingredients",
+      "description": "罗甸刺梨是与贵州·黔南州·罗甸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "罗甸刺梨是与贵州·黔南州·罗甸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为罗甸县农业农村局。该批名单记载的生产规模为345公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "罗甸县",
+      "id": "sw-9b924598c7501e80bc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "长顺茭白",
+      "type": "ingredients",
+      "description": "长顺茭白是与贵州·黔南州·长顺县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "长顺茭白是与贵州·黔南州·长顺县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为长顺县农业农村局。该批名单记载的生产规模为666.67公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "长顺县",
+      "id": "sw-a3436acd8c210ba6e2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都水晶葡萄",
+      "type": "ingredients",
+      "description": "三都水晶葡萄是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。",
+      "detail": "三都水晶葡萄是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三都水族自治县种植业发展中心。该批名单记载的生产规模为6424公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-bd5d3845bb73ec144b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都古树红茶",
+      "type": "tea",
+      "description": "三都古树红茶是与贵州·黔南州·三都水族自治县相联系的地方茶品。",
+      "detail": "三都古树红茶是与贵州·黔南州·三都水族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三都水族自治县茶叶产业发展中心。该批名单记载的生产规模为667公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-35daada72a8153bb78",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都绿茶",
+      "type": "tea",
+      "description": "三都绿茶是与贵州·黔南州·三都水族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "三都绿茶是与贵州·黔南州·三都水族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三都水族自治县茶叶产业发展中心。该批名单记载的生产规模为5000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-f1b3c838f5d5e891d8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都香菇",
+      "type": "ingredients",
+      "description": "三都香菇是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。",
+      "detail": "三都香菇是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三都水族自治县种植业发展中心。该批名单记载的生产规模为500万棒，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-1c5d0a9324aefa7fb7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "麒麟大蒜",
+      "type": "ingredients",
+      "description": "麒麟大蒜是与云南·曲靖·麒麟区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "麒麟大蒜是与云南·曲靖·麒麟区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为曲靖市麒麟区农业农村局。该批名单记载的生产规模为600公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "麒麟区",
+      "id": "sw-cd71dd4911d9b1ad05",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "西山苹果",
+      "type": "ingredients",
+      "description": "西山苹果是与云南·昆明·西山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "西山苹果是与云南·昆明·西山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为昆明市西山区农业农村局。该批名单记载的生产规模为242公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "西山区",
+      "id": "sw-ee8c5fd25660d1a354",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "嵩明鸡蛋",
+      "type": "ingredients",
+      "description": "嵩明鸡蛋是与云南·昆明·嵩明县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "嵩明鸡蛋是与云南·昆明·嵩明县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为嵩明县农业农村局。该批名单记载的生产规模为16.6万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "嵩明县",
+      "id": "sw-e1f5872a2d636a4b0a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "寻甸白萝卜",
+      "type": "ingredients",
+      "description": "寻甸白萝卜是与云南·昆明·寻甸回族彝族自治县相联系的地方农产品与食材。",
+      "detail": "寻甸白萝卜是与云南·昆明·寻甸回族彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为寻甸回族彝族自治县农业农村局。该批名单记载的生产规模为168公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "寻甸回族彝族自治县",
+      "id": "sw-ab253e41794ba6eb3d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "张安屯大米",
+      "type": "ingredients",
+      "description": "张安屯大米是与云南·曲靖·马龙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "张安屯大米是与云南·曲靖·马龙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为曲靖市马龙区农业农村局。该批名单记载的生产规模为666.7公顷，对应原文公布或公示时点的登记范围。来源沿用“马龙县”地名，当前地区索引对应马龙区。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "马龙区",
+      "id": "sw-912cff1610f28f4170",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "陆良蜜香梨",
+      "type": "ingredients",
+      "description": "陆良蜜香梨是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "陆良蜜香梨是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为陆良县农业农村局。该批名单记载的生产规模为150公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "陆良县",
+      "id": "sw-15420a49771a8aad08",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "陆良朝鲜蓟",
+      "type": "ingredients",
+      "description": "陆良朝鲜蓟是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "陆良朝鲜蓟是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为陆良县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "陆良县",
+      "id": "sw-1fab4de681c63ff95c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "陆良杏鲍菇",
+      "type": "ingredients",
+      "description": "陆良杏鲍菇是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "陆良杏鲍菇是与云南·曲靖·陆良县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为陆良县农业农村局。该批名单记载的生产规模为2000万袋，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "陆良县",
+      "id": "sw-feaa1ee5f1f519e399",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源摩山鸡",
+      "type": "ingredients",
+      "description": "富源摩山鸡是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "富源摩山鸡是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为14万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "富源县",
+      "id": "sw-2a1bb0c9d22ab06ea6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "潞江芒果",
+      "type": "ingredients",
+      "description": "潞江芒果是与云南·保山·隆阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "潞江芒果是与云南·保山·隆阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为保山市隆阳区农业农村局。该批名单记载的生产规模为405.66公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "隆阳区",
+      "id": "sw-396007978ad0611b58",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "景谷甜笋",
+      "type": "ingredients",
+      "description": "景谷甜笋是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。",
+      "detail": "景谷甜笋是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为景谷傣族彝族自治县林业和草原推广技术中心。该批名单记载的生产规模为3000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "景谷傣族彝族自治县",
+      "id": "sw-256789114e86e9701f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "孟连花花生",
+      "type": "ingredients",
+      "description": "孟连花花生是与云南·普洱·孟连傣族拉祜族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟连花花生是与云南·普洱·孟连傣族拉祜族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为孟连傣族拉祜族佤族自治县农业农村和科学技术局。该批名单记载的生产规模为1288公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "孟连傣族拉祜族佤族自治县",
+      "id": "sw-7739a2772aa65d203c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "孟连香软米",
+      "type": "ingredients",
+      "description": "孟连香软米是与云南·普洱·孟连傣族拉祜族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟连香软米是与云南·普洱·孟连傣族拉祜族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为孟连傣族拉祜族佤族自治县农业农村和科学技术局。该批名单记载的生产规模为720公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "孟连傣族拉祜族佤族自治县",
+      "id": "sw-c199615e9139204b90",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆沃柑",
+      "type": "ingredients",
+      "description": "凤庆沃柑是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "凤庆沃柑是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为510公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-339a3a90a512dd85f4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "永德忙肺茶",
+      "type": "tea",
+      "description": "永德忙肺茶是与云南·临沧·永德县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "永德忙肺茶是与云南·临沧·永德县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为永德县农业农村局。该批名单记载的生产规模为999.99公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "永德县",
+      "id": "sw-d209b2b6acfaaf778a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "镇康南瓜",
+      "type": "ingredients",
+      "description": "镇康南瓜是与云南·临沧·镇康县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "镇康南瓜是与云南·临沧·镇康县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为镇康县农业农村局。该批名单记载的生产规模为102公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "镇康县",
+      "id": "sw-e54b436e3ad50402d5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "镇康长毛山羊",
+      "type": "ingredients",
+      "description": "镇康长毛山羊是与云南·临沧·镇康县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "镇康长毛山羊是与云南·临沧·镇康县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为镇康县农业农村局。该批名单记载的生产规模为1.1万只，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "镇康县",
+      "id": "sw-cd5f7577370bb620c2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马土司茶",
+      "type": "tea",
+      "description": "耿马土司茶是与云南·临沧·耿马傣族佤族自治县相联系的地方茶品。",
+      "detail": "耿马土司茶是与云南·临沧·耿马傣族佤族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县地方产业发展服务中心。该批名单记载的生产规模为1195公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-01f4bbebe507609150",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "沧源怕拍茶",
+      "type": "tea",
+      "description": "沧源怕拍茶是与云南·临沧·沧源佤族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "沧源怕拍茶是与云南·临沧·沧源佤族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为沧源佤族自治县地方产业发展服务中心。该批名单记载的生产规模为553.33公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "沧源佤族自治县",
+      "id": "sw-bee1768a7405a987be",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "武定芥蓝",
+      "type": "ingredients",
+      "description": "武定芥蓝是与云南·楚雄州·武定县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "武定芥蓝是与云南·楚雄州·武定县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为武定县农业农村局。该批名单记载的生产规模为120公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "武定县",
+      "id": "sw-81caa7afb9fe04c312",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "屏边砂仁",
+      "type": "ingredients",
+      "description": "屏边砂仁是与云南·红河州·屏边苗族自治县相联系的地方农产品与食材。",
+      "detail": "屏边砂仁是与云南·红河州·屏边苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为屏边苗族自治县农业农村和科学技术局。该批名单记载的生产规模为2770公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "屏边苗族自治县",
+      "id": "sw-ba676292e6599d89c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "屏边猕猴桃",
+      "type": "ingredients",
+      "description": "屏边猕猴桃是与云南·红河州·屏边苗族自治县相联系的地方农产品与食材。",
+      "detail": "屏边猕猴桃是与云南·红河州·屏边苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为屏边苗族自治县经济作物技术推广站。该批名单记载的生产规模为640公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "屏边苗族自治县",
+      "id": "sw-bd2cd4b6e03b479f93",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "砚山黑山羊",
+      "type": "ingredients",
+      "description": "砚山黑山羊是与云南·文山州·砚山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "砚山黑山羊是与云南·文山州·砚山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为砚山县绿色食品发展中心。该批名单记载的生产规模为1.06万只，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "砚山县",
+      "id": "sw-ecf6254c3ae94eb9b5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "丘北芒果",
+      "type": "ingredients",
+      "description": "丘北芒果是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "丘北芒果是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为丘北县农业绿色发展服务中心。该批名单记载的生产规模为309.99公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "丘北县",
+      "id": "sw-bc2311b95a9a306434",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "丘北黄牛",
+      "type": "ingredients",
+      "description": "丘北黄牛是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "丘北黄牛是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为丘北县畜牧技术推广工作站。该批名单记载的生产规模为20万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "丘北县",
+      "id": "sw-670f69f8e75861c51f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "丘北黑山羊",
+      "type": "ingredients",
+      "description": "丘北黑山羊是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "丘北黑山羊是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为丘北县畜牧技术推广工作站。该批名单记载的生产规模为16万头，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "丘北县",
+      "id": "sw-9bfb954af8b0925b9e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "丘北龙虾",
+      "type": "ingredients",
+      "description": "丘北龙虾是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "丘北龙虾是与云南·文山州·丘北县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为丘北县农业绿色发展服务中心。该批名单记载的生产规模为85吨，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "丘北县",
+      "id": "sw-c115228d9e16af8f4a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "勐海热情果",
+      "type": "ingredients",
+      "description": "勐海热情果是与云南·西双版纳州·勐海县相联系的地方农产品与食材。",
+      "detail": "勐海热情果是与云南·西双版纳州·勐海县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为勐海县茶叶与绿色食品产业发展中心。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "勐海县",
+      "id": "sw-69cebf5fbc4ec067c3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "西双版纳州",
+      "name": "勐海那卡茶",
+      "type": "tea",
+      "description": "勐海那卡茶是与云南·西双版纳州·勐海县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "勐海那卡茶是与云南·西双版纳州·勐海县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为勐海县茶叶与绿色食品产业发展中心。该批名单记载的生产规模为578.1公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "勐海县",
+      "id": "sw-49b9ee0881617584f1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "宾川红提葡萄",
+      "type": "ingredients",
+      "description": "宾川红提葡萄是与云南·大理州·宾川县相联系的地方农产品与食材。",
+      "detail": "宾川红提葡萄是与云南·大理州·宾川县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宾川县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "宾川县",
+      "id": "sw-7ef2653e244f3b2709",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "宾川阳光玫瑰葡萄",
+      "type": "ingredients",
+      "description": "宾川阳光玫瑰葡萄是与云南·大理州·宾川县相联系的地方农产品与食材。",
+      "detail": "宾川阳光玫瑰葡萄是与云南·大理州·宾川县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宾川县农业农村局。该批名单记载的生产规模为220公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "宾川县",
+      "id": "sw-721171188410d6ba80",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "南涧红花",
+      "type": "ingredients",
+      "description": "南涧红花是与云南·大理州·南涧彝族自治县相联系的地方农产品与食材。",
+      "detail": "南涧红花是与云南·大理州·南涧彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为南涧彝族自治县农业技术推广中心。该批名单记载的生产规模为3000公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "南涧彝族自治县",
+      "id": "sw-ccd237a38e58873ce2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "南涧无量山高山白茶",
+      "type": "tea",
+      "description": "南涧无量山高山白茶是与云南·大理州·南涧彝族自治县相联系的地方茶品。",
+      "detail": "南涧无量山高山白茶是与云南·大理州·南涧彝族自治县相联系的地方茶品。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为南涧县检验检测所。该批名单记载的生产规模为190公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "南涧彝族自治县",
+      "id": "sw-3a5b0ca6f22f63ce09",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "贡山独龙鸡",
+      "type": "ingredients",
+      "description": "贡山独龙鸡是与云南·怒江州·贡山独龙族怒族自治县相联系的地方农产品与食材。",
+      "detail": "贡山独龙鸡是与云南·怒江州·贡山独龙族怒族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为贡山独龙族怒族自治县供销合作联社。该批名单记载的生产规模为10.5万羽，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "贡山独龙族怒族自治县",
+      "id": "sw-d1fda0c644996dd6c1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "德钦葡萄酒",
+      "type": "alcohol",
+      "description": "德钦葡萄酒是与云南·迪庆州·德钦县相联系的地方葡萄酒。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "德钦葡萄酒是与云南·迪庆州·德钦县相联系的地方葡萄酒。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德钦县农业农村局。该批名单记载的生产规模为340公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方酒",
+      "sources": [
+        "sw-agri-3e54d9fbba55c048"
+      ],
+      "locality": "德钦县",
+      "id": "sw-c4d190a6e3c106098e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "万州陈皮",
+      "type": "ingredients",
+      "description": "万州陈皮是与重庆·万州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "万州陈皮是与重庆·万州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市万州区农产品质量安全中心。该批名单记载的生产规模为210公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "万州区",
+      "id": "sw-90c1a0e384b6a0e809",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "两江新区番茄",
+      "type": "ingredients",
+      "description": "两江新区番茄是与重庆相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "两江新区番茄是与重庆相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市两江新区农产品质量安全中心。该批名单记载的生产规模为80公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。来源所列两江新区暂未与当前地图版本的县级目录对应，保留全市范围。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "id": "sw-2d603e2b442863b161",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "巴南秀珍菇",
+      "type": "ingredients",
+      "description": "巴南秀珍菇是与重庆·巴南区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "巴南秀珍菇是与重庆·巴南区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市巴南区农业农村委员会。该批名单记载的生产规模为1500万袋，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "巴南区",
+      "id": "sw-40fc2169c3b6b3fd8b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "黔江珍珠兰茶",
+      "type": "tea",
+      "description": "黔江珍珠兰茶是与重庆·黔江区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "黔江珍珠兰茶是与重庆·黔江区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市黔江区茶叶协会。该批名单记载的生产规模为896公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "黔江区",
+      "id": "sw-892147096f8d5948ae",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "城口香菇",
+      "type": "ingredients",
+      "description": "城口香菇是与重庆·城口县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "城口香菇是与重庆·城口县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为城口县农业农村委员会。该批名单记载的生产规模为700万袋，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "城口县",
+      "id": "sw-40568c825e8bd9eca1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "开州龙珠茶",
+      "type": "tea",
+      "description": "开州龙珠茶是与重庆·开州区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "开州龙珠茶是与重庆·开州区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市开州区农业发展服务中心。该批名单记载的生产规模为1800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "开州区",
+      "id": "sw-5453ee98977f2679f2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "云阳陈皮",
+      "type": "ingredients",
+      "description": "云阳陈皮是与重庆·云阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "云阳陈皮是与重庆·云阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市云阳县农业农村委员会。该批名单记载的生产规模为460公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "云阳县",
+      "id": "sw-0847ad597e57dabbf0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "秀山山茶油",
+      "type": "tea",
+      "description": "秀山山茶油是与重庆·秀山土家族苗族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "秀山山茶油是与重庆·秀山土家族苗族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为秀山土家族苗族自治县农业农村委员会。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "秀山土家族苗族自治县",
+      "id": "sw-60570754a61d2cd694",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "彭水蒲公英茶",
+      "type": "tea",
+      "description": "彭水蒲公英茶是与重庆·彭水苗族土家族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "彭水蒲公英茶是与重庆·彭水苗族土家族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为彭水苗族土家族自治县农业农村委员会。该批名单记载的生产规模为50公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "彭水苗族土家族自治县",
+      "id": "sw-ce94590bf3890b3daf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "合川稻虾",
+      "type": "ingredients",
+      "description": "合川稻虾是与重庆·合川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "合川稻虾是与重庆·合川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市合川区农产品检测站。该批名单记载的生产规模为330公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "合川区",
+      "id": "sw-722373422f74621baa",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新都梨",
+      "type": "ingredients",
+      "description": "新都梨是与四川·成都·新都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "新都梨是与四川·成都·新都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市新都区农业农村局。该批名单记载的生产规模为204公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "新都区",
+      "id": "sw-647cfcb7445aa2162a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂甘蓝",
+      "type": "ingredients",
+      "description": "金堂甘蓝是与四川·成都·金堂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "金堂甘蓝是与四川·成都·金堂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为金堂县农业产业发展服务中心。该批名单记载的生产规模为170公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "金堂县",
+      "id": "sw-112c67bfc7da846d21",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "金堂榆黄菇",
+      "type": "ingredients",
+      "description": "金堂榆黄菇是与四川·成都·金堂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "金堂榆黄菇是与四川·成都·金堂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为金堂县农业产业发展服务中心。该批名单记载的生产规模为100万袋，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "金堂县",
+      "id": "sw-1a34a3e40b21a95734",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "新津二荆条辣椒",
+      "type": "ingredients",
+      "description": "新津二荆条辣椒是与四川·成都·新津区相联系的地方农产品与食材。",
+      "detail": "新津二荆条辣椒是与四川·成都·新津区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市新津区农业农村局。该批名单记载的生产规模为333.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "新津区",
+      "id": "sw-0d605e9c0714806754",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "大安油菜籽",
+      "type": "ingredients",
+      "description": "大安油菜籽是与四川·自贡·大安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大安油菜籽是与四川·自贡·大安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为自贡市大安区农业农村局。该批名单记载的生产规模为678公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大安区",
+      "id": "sw-5ef65374468944b1ac",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "富顺金秋砂糖桔",
+      "type": "ingredients",
+      "description": "富顺金秋砂糖桔是与四川·自贡·富顺县相联系的地方农产品与食材。",
+      "detail": "富顺金秋砂糖桔是与四川·自贡·富顺县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富顺县农产品质量安全监管中心。该批名单记载的生产规模为1400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "富顺县",
+      "id": "sw-db59c856587acaf14a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳樱桃",
+      "type": "ingredients",
+      "description": "旌阳樱桃是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "旌阳樱桃是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为130公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-392e2cb5f2617e052e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江青花椒",
+      "type": "ingredients",
+      "description": "罗江青花椒是与四川·德阳·罗江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "罗江青花椒是与四川·德阳·罗江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市罗江区农业农村局。该批名单记载的生产规模为1500公顷，对应原文公布或公示时点的登记范围。来源沿用“罗江县”地名，当前地区索引对应罗江区。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "罗江区",
+      "id": "sw-05b6c9134da89fe1df",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "罗江鸡蛋",
+      "type": "ingredients",
+      "description": "罗江鸡蛋是与四川·德阳·罗江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "罗江鸡蛋是与四川·德阳·罗江区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市罗江区农业农村局。该批名单记载的生产规模为14万羽，对应原文公布或公示时点的登记范围。来源沿用“罗江县”地名，当前地区索引对应罗江区。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "罗江区",
+      "id": "sw-facc9190c550fc1f77",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "广汉豌豆尖",
+      "type": "ingredients",
+      "description": "广汉豌豆尖是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "广汉豌豆尖是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广汉市农业农村局。该批名单记载的生产规模为72公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "广汉市",
+      "id": "sw-6ebc43dd935679e7f4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "广汉小龙虾",
+      "type": "ingredients",
+      "description": "广汉小龙虾是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "广汉小龙虾是与四川·德阳·广汉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广汉市农业农村局。该批名单记载的生产规模为110吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "广汉市",
+      "id": "sw-641ad7db0329906e26",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "什邡千禧果",
+      "type": "ingredients",
+      "description": "什邡千禧果是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "什邡千禧果是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为什邡市农业农村局。该批名单记载的生产规模为50公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "什邡市",
+      "id": "sw-434f9737d79c63d552",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "三台柑橘",
+      "type": "ingredients",
+      "description": "三台柑橘是与四川·绵阳·三台县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "三台柑橘是与四川·绵阳·三台县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三台县农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "三台县",
+      "id": "sw-b2efc92f9c280ff7fb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "安州大蒜",
+      "type": "ingredients",
+      "description": "安州大蒜是与四川·绵阳·安州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安州大蒜是与四川·绵阳·安州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绵阳市安州区农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安州区",
+      "id": "sw-905cf002e8a9947e34",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "梓潼耙耙柑",
+      "type": "ingredients",
+      "description": "梓潼耙耙柑是与四川·绵阳·梓潼县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "梓潼耙耙柑是与四川·绵阳·梓潼县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为梓潼县农业农村局。该批名单记载的生产规模为1200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "梓潼县",
+      "id": "sw-4b9fe8fabc6a178aa2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居明日见柑橘",
+      "type": "ingredients",
+      "description": "安居明日见柑橘是与四川·遂宁·安居区相联系的地方农产品与食材。",
+      "detail": "安居明日见柑橘是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市安居区农业农村局。该批名单记载的生产规模为220公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安居区",
+      "id": "sw-04ed346ee8c3c4658c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居大豆",
+      "type": "ingredients",
+      "description": "安居大豆是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安居大豆是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市安居区农业农村局。该批名单记载的生产规模为1200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安居区",
+      "id": "sw-832291cfa6fefef9ed",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山耙耙柑",
+      "type": "ingredients",
+      "description": "船山耙耙柑是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "船山耙耙柑是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市船山区农业农村局。该批名单记载的生产规模为201.5公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "船山区",
+      "id": "sw-edeccfacf46545baae",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "船山巨峰葡萄",
+      "type": "ingredients",
+      "description": "船山巨峰葡萄是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "船山巨峰葡萄是与四川·遂宁·船山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市船山区农业农村局。该批名单记载的生产规模为215公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "船山区",
+      "id": "sw-22a1c1208acc674193",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪绿茶",
+      "type": "tea",
+      "description": "蓬溪绿茶是与四川·遂宁·蓬溪县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蓬溪绿茶是与四川·遂宁·蓬溪县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为510公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-9e4eba31e2020d142e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英挂面",
+      "type": "staples",
+      "description": "大英挂面是与四川·遂宁·大英县相联系的地方米面食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大英挂面是与四川·遂宁·大英县相联系的地方米面食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大英县",
+      "id": "sw-4f4e601a6fd9a9dbf9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英糯玉米",
+      "type": "ingredients",
+      "description": "大英糯玉米是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大英糯玉米是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大英县",
+      "id": "sw-9ab5a8319b06476ccb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英韭菜",
+      "type": "ingredients",
+      "description": "大英韭菜是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大英韭菜是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为106公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大英县",
+      "id": "sw-b9f4a042a439cca18c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英鸡蛋",
+      "type": "ingredients",
+      "description": "大英鸡蛋是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大英鸡蛋是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为30万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大英县",
+      "id": "sw-03eef71d0db9d66f5a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "大英黄颡鱼",
+      "type": "ingredients",
+      "description": "大英黄颡鱼是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大英黄颡鱼是与四川·遂宁·大英县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大英县农业农村局。该批名单记载的生产规模为250万尾，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大英县",
+      "id": "sw-a4d875db639a50ea39",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "东兴香椿",
+      "type": "ingredients",
+      "description": "东兴香椿是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "东兴香椿是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为280公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "东兴区",
+      "id": "sw-e559d8bc592d5d952b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "顺河牛肉",
+      "type": "ingredients",
+      "description": "顺河牛肉是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "顺河牛肉是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为0.23万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "东兴区",
+      "id": "sw-6de85677676e8a28be",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远丝瓜",
+      "type": "ingredients",
+      "description": "威远丝瓜是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威远丝瓜是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威远县农业农村局。该批名单记载的生产规模为102公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "威远县",
+      "id": "sw-1610ea92313efb16af",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远苦瓜",
+      "type": "ingredients",
+      "description": "威远苦瓜是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威远苦瓜是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威远县农业农村局。该批名单记载的生产规模为108公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "威远县",
+      "id": "sw-45d98bac6ec0c2eb73",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "资中稻田虾",
+      "type": "ingredients",
+      "description": "资中稻田虾是与四川·内江·资中县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "资中稻田虾是与四川·内江·资中县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为资中县农产品质量安全检验检测站。该批名单记载的生产规模为42吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "资中县",
+      "id": "sw-9a0e37733553bbade6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌雷竹",
+      "type": "ingredients",
+      "description": "隆昌雷竹是与四川·内江·隆昌市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "隆昌雷竹是与四川·内江·隆昌市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为隆昌市农业技术推广服务中心（四川省农业广播电视学校隆昌市分校）。该批名单记载的生产规模为666.67公顷，对应原文公布或公示时点的登记范围。来源沿用“隆昌县”地名，当前地区索引对应隆昌市。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-87e12bbd30fbe33fad",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "隆昌白鲢",
+      "type": "ingredients",
+      "description": "隆昌白鲢是与四川·内江·隆昌市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "隆昌白鲢是与四川·内江·隆昌市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为隆昌市渔业发展中心。该批名单记载的生产规模为224.4吨，对应原文公布或公示时点的登记范围。来源沿用“隆昌县”地名，当前地区索引对应隆昌市。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "隆昌市",
+      "id": "sw-5112bc46bbf891c68c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "嘉州麻鸭",
+      "type": "ingredients",
+      "description": "嘉州麻鸭是与四川·乐山·市中区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "嘉州麻鸭是与四川·乐山·市中区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为乐山市市中区农业技术推广中心。该批名单记载的生产规模为350万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "市中区",
+      "id": "sw-cca67f22cbb72993cc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "井研玉米",
+      "type": "ingredients",
+      "description": "井研玉米是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "井研玉米是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为井研县农业农村局农技站。该批名单记载的生产规模为656.02公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "井研县",
+      "id": "sw-81156fd821ec67a119",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "井研鸡蛋",
+      "type": "ingredients",
+      "description": "井研鸡蛋是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "井研鸡蛋是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为井研县动物卫生监督所。该批名单记载的生产规模为100万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "井研县",
+      "id": "sw-ddf53d6236376a7edc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨边花牛",
+      "type": "ingredients",
+      "description": "峨边花牛是与四川·乐山·峨边彝族自治县相联系的地方农产品与食材。",
+      "detail": "峨边花牛是与四川·乐山·峨边彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为峨边彝族自治县农业农村局。该批名单记载的生产规模为0.4216万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "峨边彝族自治县",
+      "id": "sw-5e43a142f60cda739f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "东坡黄颡鱼",
+      "type": "ingredients",
+      "description": "东坡黄颡鱼是与四川·眉山·东坡区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "东坡黄颡鱼是与四川·眉山·东坡区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为眉山市东坡区农业农村局。该批名单记载的生产规模为10000万尾，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "东坡区",
+      "id": "sw-6dfe07b3de36ba8c44",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "仁寿不知火柑橘",
+      "type": "ingredients",
+      "description": "仁寿不知火柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。",
+      "detail": "仁寿不知火柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为四川省眉山市仁寿县农业农村局。该批名单记载的生产规模为1333.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-3caaf839c30714b43b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "仁寿柑橘",
+      "type": "ingredients",
+      "description": "仁寿柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "仁寿柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为四川省眉山市仁寿县农业农村局。该批名单记载的生产规模为1600公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-fc77c403b7b83f92bc",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "长宁香椿",
+      "type": "ingredients",
+      "description": "长宁香椿是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "长宁香椿是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为长宁县农业农村局。该批名单记载的生产规模为333公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "长宁县",
+      "id": "sw-08fa290e0ce50a2a11",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "巴州大米",
+      "type": "ingredients",
+      "description": "巴州大米是与四川·巴中·巴州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "巴州大米是与四川·巴中·巴州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为巴中市巴州区农产品质量安全管理与检测中心。该批名单记载的生产规模为950公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "巴州区",
+      "id": "sw-d9cba69b93a9efa17b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "巴州黑猪腊肉",
+      "type": "dishes",
+      "description": "巴州黑猪腊肉是与四川·巴中·巴州区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "巴州黑猪腊肉是与四川·巴中·巴州区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为巴中市巴州区农产品质量安全管理与检测中心。该批名单记载的生产规模为1.3万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "巴州区",
+      "id": "sw-eb169e866241ab31c1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "达州",
+      "name": "开江小龙虾",
+      "type": "ingredients",
+      "description": "开江小龙虾是与四川·达州·开江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "开江小龙虾是与四川·达州·开江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为开江县农业农村局。该批名单记载的生产规模为4000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "开江县",
+      "id": "sw-7026ab5fdee535fc3a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "石棉黄桃",
+      "type": "ingredients",
+      "description": "石棉黄桃是与四川·雅安·石棉县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "石棉黄桃是与四川·雅安·石棉县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为石棉县农业农村局。该批名单记载的生产规模为266.7公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "石棉县",
+      "id": "sw-4eb5ce715626c738ad",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "马尔康牦牛肉",
+      "type": "ingredients",
+      "description": "马尔康牦牛肉是与四川·阿坝州·马尔康市相联系的地方农产品与食材。",
+      "detail": "马尔康牦牛肉是与四川·阿坝州·马尔康市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马尔康市农业农村局。该批名单记载的生产规模为2万头，对应原文公布或公示时点的登记范围。来源沿用“马尔康县”地名，当前地区索引对应马尔康市。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "马尔康市",
+      "id": "sw-b0a49fbab45e747c7b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "白玉雪菊",
+      "type": "tea",
+      "description": "白玉雪菊是与四川·甘孜州·白玉县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "白玉雪菊是与四川·甘孜州·白玉县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为白玉县农牧农村和科技局。该批名单记载的生产规模为53.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "白玉县",
+      "id": "sw-7910fa4437b659d766",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "稻城酸奶",
+      "type": "dairy",
+      "description": "稻城酸奶是与四川·甘孜州·稻城县相联系的地方乳制品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "稻城酸奶是与四川·甘孜州·稻城县相联系的地方乳制品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为稻城县农牧农村和科技局。该批名单记载的生产规模为0.6万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方乳制品",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "稻城县",
+      "id": "sw-1f91966a9fe7a24b94",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "甘洛绿茶",
+      "type": "tea",
+      "description": "甘洛绿茶是与四川·凉山州·甘洛县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "甘洛绿茶是与四川·凉山州·甘洛县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为甘洛县农业农村局。该批名单记载的生产规模为630公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "甘洛县",
+      "id": "sw-3af156f85f9abf4a39",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "钟山虹鳟鱼",
+      "type": "ingredients",
+      "description": "钟山虹鳟鱼是与贵州·六盘水·钟山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "钟山虹鳟鱼是与贵州·六盘水·钟山区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为六盘水市钟山区农业农村局。该批名单记载的生产规模为1500吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "钟山区",
+      "id": "sw-9abcaff6d40f707c0c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "桐梓黄牛",
+      "type": "ingredients",
+      "description": "桐梓黄牛是与贵州·遵义·桐梓县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "桐梓黄牛是与贵州·遵义·桐梓县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为桐梓县农业农村局。该批名单记载的生产规模为0.35万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "桐梓县",
+      "id": "sw-4bb2a1e1627d37b2b0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "道真虫草花",
+      "type": "ingredients",
+      "description": "道真虫草花是与贵州·遵义·道真仡佬族苗族自治县相联系的地方农产品与食材。",
+      "detail": "道真虫草花是与贵州·遵义·道真仡佬族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为道真仡佬族苗族自治县农业农村局。该批名单记载的生产规模为5000万棒，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "道真仡佬族苗族自治县",
+      "id": "sw-2cdac1600532d8d6f9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "安龙绿茶",
+      "type": "tea",
+      "description": "安龙绿茶是与贵州·黔西南州·安龙县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安龙绿茶是与贵州·黔西南州·安龙县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安龙县农业农村局。该批名单记载的生产规模为5333.4公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安龙县",
+      "id": "sw-ed346fbf89d622491e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "安龙菜心",
+      "type": "ingredients",
+      "description": "安龙菜心是与贵州·黔西南州·安龙县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安龙菜心是与贵州·黔西南州·安龙县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安龙县农业农村局。该批名单记载的生产规模为1266公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安龙县",
+      "id": "sw-3884589c33492b0c09",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "安龙香菇",
+      "type": "ingredients",
+      "description": "安龙香菇是与贵州·黔西南州·安龙县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安龙香菇是与贵州·黔西南州·安龙县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安龙县农业农村局。该批名单记载的生产规模为3000万棒，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "安龙县",
+      "id": "sw-787309b34853ba09a3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭红茶",
+      "type": "tea",
+      "description": "关岭红茶是与贵州·安顺·关岭布依族苗族自治县相联系的地方茶品。",
+      "detail": "关岭红茶是与贵州·安顺·关岭布依族苗族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为关岭布依族苗族自治县农业农村局。该批名单记载的生产规模为1300公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "关岭布依族苗族自治县",
+      "id": "sw-e6fb00b376dda21275",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭绿茶",
+      "type": "tea",
+      "description": "关岭绿茶是与贵州·安顺·关岭布依族苗族自治县相联系的地方茶品。",
+      "detail": "关岭绿茶是与贵州·安顺·关岭布依族苗族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为关岭布依族苗族自治县农业农村局。该批名单记载的生产规模为1300公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "关岭布依族苗族自治县",
+      "id": "sw-7497379292ca23493b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "安顺",
+      "name": "关岭黄牛",
+      "type": "ingredients",
+      "description": "关岭黄牛是与贵州·安顺·关岭布依族苗族自治县相联系的地方农产品与食材。",
+      "detail": "关岭黄牛是与贵州·安顺·关岭布依族苗族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为关岭布依族苗族自治县农业农村局。该批名单记载的生产规模为10万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "关岭布依族苗族自治县",
+      "id": "sw-1ef703737ec69dca37",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "凯里云雾茶",
+      "type": "tea",
+      "description": "凯里云雾茶是与贵州·黔东南州·凯里市相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凯里云雾茶是与贵州·黔东南州·凯里市相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凯里市农产品绿色发展中心。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凯里市",
+      "id": "sw-2c00cacfd865846bdf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "锦屏山核桃",
+      "type": "ingredients",
+      "description": "锦屏山核桃是与贵州·黔东南州·锦屏县相联系的地方农产品与食材。",
+      "detail": "锦屏山核桃是与贵州·黔东南州·锦屏县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为锦屏县农业农村局。该批名单记载的生产规模为600公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "锦屏县",
+      "id": "sw-62cc324d371ee8f4e7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "锦屏锥栗",
+      "type": "ingredients",
+      "description": "锦屏锥栗是与贵州·黔东南州·锦屏县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "锦屏锥栗是与贵州·黔东南州·锦屏县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为锦屏县农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "锦屏县",
+      "id": "sw-ff5f6f0024f5cd1415",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "黎平白茶",
+      "type": "tea",
+      "description": "黎平白茶是与贵州·黔东南州·黎平县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "黎平白茶是与贵州·黔东南州·黎平县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黎平县农业农村局。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "黎平县",
+      "id": "sw-0c656821c64ab8a0e0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "黎平香茶",
+      "type": "tea",
+      "description": "黎平香茶是与贵州·黔东南州·黎平县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "黎平香茶是与贵州·黔东南州·黎平县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黎平县农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "黎平县",
+      "id": "sw-911236293282a4b354",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "龙里绿茶",
+      "type": "tea",
+      "description": "龙里绿茶是与贵州·黔南州·龙里县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "龙里绿茶是与贵州·黔南州·龙里县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为龙里县农业农村局。该批名单记载的生产规模为533.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "龙里县",
+      "id": "sw-eee08090fbb5cde82e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "嵩明金耳",
+      "type": "ingredients",
+      "description": "嵩明金耳是与云南·昆明·嵩明县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "嵩明金耳是与云南·昆明·嵩明县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为嵩明县农业农村局。该批名单记载的生产规模为810万袋，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "嵩明县",
+      "id": "sw-952f6a580dd6a48a14",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源香菇",
+      "type": "ingredients",
+      "description": "富源香菇是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "富源香菇是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "富源县",
+      "id": "sw-45f88c2ea22e624f2e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "宣威蓝莓",
+      "type": "ingredients",
+      "description": "宣威蓝莓是与云南·曲靖·宣威市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "宣威蓝莓是与云南·曲靖·宣威市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宣威市农业农村局。该批名单记载的生产规模为210公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "宣威市",
+      "id": "sw-364b60c2f403160854",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "玉溪酸角",
+      "type": "ingredients",
+      "description": "玉溪酸角是与云南·玉溪相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "玉溪酸角是与云南·玉溪相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为玉溪市农村能源与农业环境保护中心（玉溪市绿色食品发展中心）。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "id": "sw-26e211bd93d27932b5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "红塔香肠",
+      "type": "dishes",
+      "description": "红塔香肠是与云南·玉溪·红塔区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "红塔香肠是与云南·玉溪·红塔区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为玉溪市红塔区农业农村综合开发服务中心。该批名单记载的生产规模为289吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "红塔区",
+      "id": "sw-cce5c6c2fc4db30a13",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "江川红糖",
+      "type": "ingredients",
+      "description": "江川红糖是与云南·玉溪·江川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "江川红糖是与云南·玉溪·江川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为玉溪市江川区农村社会事业发展中心。该批名单记载的生产规模为280公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "江川区",
+      "id": "sw-609521f067c8544a19",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "江川鸡蛋",
+      "type": "ingredients",
+      "description": "江川鸡蛋是与云南·玉溪·江川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "江川鸡蛋是与云南·玉溪·江川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为玉溪市江川区农村社会事业发展中心。该批名单记载的生产规模为70万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "江川区",
+      "id": "sw-5c98a47c07ef6bb863",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "峨山豌豆",
+      "type": "ingredients",
+      "description": "峨山豌豆是与云南·玉溪·峨山彝族自治县相联系的地方农产品与食材。",
+      "detail": "峨山豌豆是与云南·玉溪·峨山彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为峨山彝族自治县农村社会事业发展中心。该批名单记载的生产规模为213.6公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "峨山彝族自治县",
+      "id": "sw-0223297942ab45c79f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "大关红茶",
+      "type": "tea",
+      "description": "大关红茶是与云南·昭通·大关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大关红茶是与云南·昭通·大关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大关县农业农村局。该批名单记载的生产规模为630公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大关县",
+      "id": "sw-2444997ae28db0a513",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "大关绿茶",
+      "type": "tea",
+      "description": "大关绿茶是与云南·昭通·大关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大关绿茶是与云南·昭通·大关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大关县农业农村局。该批名单记载的生产规模为612公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "大关县",
+      "id": "sw-210822db77014fc777",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "威信山葵",
+      "type": "ingredients",
+      "description": "威信山葵是与云南·昭通·威信县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威信山葵是与云南·昭通·威信县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威信县农业特色产业发展中心。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "威信县",
+      "id": "sw-fcf9ef3e0547c3a530",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "墨江咖啡",
+      "type": "drinks",
+      "description": "墨江咖啡是与云南·普洱·墨江哈尼族自治县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "墨江咖啡是与云南·普洱·墨江哈尼族自治县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为墨江哈尼族自治县农业农村和科学技术局。该批名单记载的生产规模为640公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方饮品",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "墨江哈尼族自治县",
+      "id": "sw-754f276bcb83614ffd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "墨江凤凰山茶",
+      "type": "tea",
+      "description": "墨江凤凰山茶是与云南·普洱·墨江哈尼族自治县相联系的地方茶品。",
+      "detail": "墨江凤凰山茶是与云南·普洱·墨江哈尼族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为墨江哈尼族自治县农业农村和科学技术局。该批名单记载的生产规模为670公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "墨江哈尼族自治县",
+      "id": "sw-21c04f7d08c1ad1186",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "景谷重楼",
+      "type": "ingredients",
+      "description": "景谷重楼是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。",
+      "detail": "景谷重楼是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为景谷傣族彝族自治县农业农村和科学技术局。该批名单记载的生产规模为300公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "景谷傣族彝族自治县",
+      "id": "sw-ed7b8c68242bea2d77",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "勐班香米",
+      "type": "ingredients",
+      "description": "勐班香米是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。",
+      "detail": "勐班香米是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为景谷傣族彝族自治县农业农村和科学技术局。该批名单记载的生产规模为656.66公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "景谷傣族彝族自治县",
+      "id": "sw-b543b2fbf84dc95132",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "镇沅人参果",
+      "type": "ingredients",
+      "description": "镇沅人参果是与云南·普洱·镇沅彝族哈尼族拉祜族自治县相联系的地方农产品与食材。",
+      "detail": "镇沅人参果是与云南·普洱·镇沅彝族哈尼族拉祜族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为镇沅彝族哈尼族拉祜族自治县农业农村和科学技术局。该批名单记载的生产规模为340公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "镇沅彝族哈尼族拉祜族自治县",
+      "id": "sw-b13824ba79b5f69b17",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "镇沅腊肉",
+      "type": "dishes",
+      "description": "镇沅腊肉是与云南·普洱·镇沅彝族哈尼族拉祜族自治县相联系的地方加工食品。",
+      "detail": "镇沅腊肉是与云南·普洱·镇沅彝族哈尼族拉祜族自治县相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为镇沅彝族哈尼族拉祜族自治县畜牧工作站。该批名单记载的生产规模为1000吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "镇沅彝族哈尼族拉祜族自治县",
+      "id": "sw-02559f8638d8b7aa68",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "江城白茶",
+      "type": "tea",
+      "description": "江城白茶是与云南·普洱·江城哈尼族彝族自治县相联系的地方茶品。",
+      "detail": "江城白茶是与云南·普洱·江城哈尼族彝族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为江城哈尼族彝族自治县茶叶和特色生物产业发展中心。该批名单记载的生产规模为776公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "江城哈尼族彝族自治县",
+      "id": "sw-c91e17fd870c5f650b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "西盟咖啡",
+      "type": "drinks",
+      "description": "西盟咖啡是与云南·普洱·西盟佤族自治县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "西盟咖啡是与云南·普洱·西盟佤族自治县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为西盟佤族自治县农业农村和科学技术局。该批名单记载的生产规模为386公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方饮品",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "西盟佤族自治县",
+      "id": "sw-ce0c2eb8fd6cf4b40e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "西盟米荞",
+      "type": "ingredients",
+      "description": "西盟米荞是与云南·普洱·西盟佤族自治县相联系的地方农产品与食材。",
+      "detail": "西盟米荞是与云南·普洱·西盟佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为西盟佤族自治县农业农村和科学技术局。该批名单记载的生产规模为728.66公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "西盟佤族自治县",
+      "id": "sw-444acc11a977f50b26",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "西盟澳洲坚果",
+      "type": "ingredients",
+      "description": "西盟澳洲坚果是与云南·普洱·西盟佤族自治县相联系的地方农产品与食材。",
+      "detail": "西盟澳洲坚果是与云南·普洱·西盟佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为西盟佤族自治县农业农村和科学技术局。该批名单记载的生产规模为1066公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "西盟佤族自治县",
+      "id": "sw-baf761d417edc08400",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔牛油果",
+      "type": "ingredients",
+      "description": "临翔牛油果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔牛油果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为290公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "临翔区",
+      "id": "sw-f3a5d5cff0dd3c7b5d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔菜籽油",
+      "type": "seasoning",
+      "description": "临翔菜籽油是与云南·临沧·临翔区相联系的地方食用油。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔菜籽油是与云南·临沧·临翔区相联系的地方食用油。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为2600公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "临翔区",
+      "id": "sw-c8b8c3431882630d74",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆芒果",
+      "type": "ingredients",
+      "description": "凤庆芒果是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆芒果是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为300公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-a360f85769308eea45",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆热情果",
+      "type": "ingredients",
+      "description": "凤庆热情果是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆热情果是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为312公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-05724d4456f3dba218",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆树头菜",
+      "type": "ingredients",
+      "description": "凤庆树头菜是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆树头菜是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-2cf5dedb7e33befea6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆贡菜",
+      "type": "ingredients",
+      "description": "凤庆贡菜是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆贡菜是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为180公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-856e5329d1b6d449a9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆羊肚菌",
+      "type": "ingredients",
+      "description": "凤庆羊肚菌是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆羊肚菌是与云南·临沧·凤庆县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为120公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-c0c710081a0991068e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "凤庆火腿",
+      "type": "dishes",
+      "description": "凤庆火腿是与云南·临沧·凤庆县相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "凤庆火腿是与云南·临沧·凤庆县相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为凤庆县农业农村局。该批名单记载的生产规模为345吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "凤庆县",
+      "id": "sw-c7dc97d4ffe8c99d9d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马澳洲坚果",
+      "type": "ingredients",
+      "description": "耿马澳洲坚果是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马澳洲坚果是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-98e2462d1aa5a10c8f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马沃柑",
+      "type": "ingredients",
+      "description": "耿马沃柑是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马沃柑是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为480公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-b85ca30e54d631dff4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马核桃",
+      "type": "ingredients",
+      "description": "耿马核桃是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马核桃是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为2100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-b2e095ee7994c059d6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马金丝凤梨",
+      "type": "ingredients",
+      "description": "耿马金丝凤梨是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马金丝凤梨是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为320公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-c18ec7da184b365ba2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马菠萝蜜",
+      "type": "ingredients",
+      "description": "耿马菠萝蜜是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马菠萝蜜是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为240公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-f4ad0e378c942075c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "耿马茶花鸡",
+      "type": "ingredients",
+      "description": "耿马茶花鸡是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "耿马茶花鸡是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为15万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-75c0fdec6e8ef71e41",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "绿春八角",
+      "type": "ingredients",
+      "description": "绿春八角是与云南·红河州·绿春县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "绿春八角是与云南·红河州·绿春县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绿春县林业和草原局。该批名单记载的生产规模为520公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "绿春县",
+      "id": "sw-0e24f2926e753f7f4c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "绿春澳洲坚果",
+      "type": "ingredients",
+      "description": "绿春澳洲坚果是与云南·红河州·绿春县相联系的地方农产品与食材。",
+      "detail": "绿春澳洲坚果是与云南·红河州·绿春县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绿春县林业和草原局。该批名单记载的生产规模为490公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "绿春县",
+      "id": "sw-194ba8060a3670adf9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "绿春红茶",
+      "type": "tea",
+      "description": "绿春红茶是与云南·红河州·绿春县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "绿春红茶是与云南·红河州·绿春县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绿春县农业农村和科学技术局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "绿春县",
+      "id": "sw-86ef0651c6e58cbe4e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关辣椒",
+      "type": "ingredients",
+      "description": "马关辣椒是与云南·文山州·马关县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马关辣椒是与云南·文山州·马关县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马关县农业农村和科学技术局。该批名单记载的生产规模为680公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "马关县",
+      "id": "sw-beaf4158871e043cab",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关腊肉",
+      "type": "dishes",
+      "description": "马关腊肉是与云南·文山州·马关县相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马关腊肉是与云南·文山州·马关县相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马关县农业农村和科学技术局。该批名单记载的生产规模为400吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "马关县",
+      "id": "sw-7cda448b8dd2fafdb2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关大种鸡",
+      "type": "ingredients",
+      "description": "马关大种鸡是与云南·文山州·马关县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马关大种鸡是与云南·文山州·马关县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马关县农业农村和科学技术局。该批名单记载的生产规模为12万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "马关县",
+      "id": "sw-8dbdc0f9f14e2a6e2b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "福贡草果",
+      "type": "ingredients",
+      "description": "福贡草果是与云南·怒江州·福贡县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "福贡草果是与云南·怒江州·福贡县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为福贡县农业农村局。该批名单记载的生产规模为1000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "福贡县",
+      "id": "sw-05a850e473c55deacb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "福贡咖啡",
+      "type": "drinks",
+      "description": "福贡咖啡是与云南·怒江州·福贡县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "福贡咖啡是与云南·怒江州·福贡县相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为福贡县农业农村局。该批名单记载的生产规模为326公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方饮品",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "福贡县",
+      "id": "sw-f9cd413fafe8ff7bdb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "福贡亚朵茶",
+      "type": "tea",
+      "description": "福贡亚朵茶是与云南·怒江州·福贡县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "福贡亚朵茶是与云南·怒江州·福贡县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为福贡县农业农村局。该批名单记载的生产规模为540公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "福贡县",
+      "id": "sw-1182b1cd7110249647",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "福贡甜龙竹笋干",
+      "type": "ingredients",
+      "description": "福贡甜龙竹笋干是与云南·怒江州·福贡县相联系的地方农产品与食材。",
+      "detail": "福贡甜龙竹笋干是与云南·怒江州·福贡县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为福贡县农业农村局。该批名单记载的生产规模为720公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "福贡县",
+      "id": "sw-9406c58f81d7e5a786",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "兰坪芸豆",
+      "type": "ingredients",
+      "description": "兰坪芸豆是与云南·怒江州·兰坪白族普米族自治县相联系的地方农产品与食材。",
+      "detail": "兰坪芸豆是与云南·怒江州·兰坪白族普米族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为兰坪白族普米族自治县农业农村局。该批名单记载的生产规模为2567公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-ade367ba321c2835"
+      ],
+      "locality": "兰坪白族普米族自治县",
+      "id": "sw-9d216bdd69d82209cd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "宝龙蜜柚",
+      "type": "ingredients",
+      "description": "宝龙蜜柚是与重庆·潼南区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "宝龙蜜柚是与重庆·潼南区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市潼南区农业农村委员会。该批名单记载的生产规模为213公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "潼南区",
+      "id": "sw-898e003caf88b7d534",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "武隆冷水鱼",
+      "type": "ingredients",
+      "description": "武隆冷水鱼是与重庆·武隆区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "武隆冷水鱼是与重庆·武隆区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市武隆区农业农村委员会。该批名单记载的生产规模为6公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "武隆区",
+      "id": "sw-e8b0387703715148e4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "忠州橙汁",
+      "type": "drinks",
+      "description": "忠州橙汁是与重庆·忠县相联系的地方果汁。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "忠州橙汁是与重庆·忠县相联系的地方果汁。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为忠县农业农村委员会。该批名单记载的生产规模为7000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方饮品",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "忠县",
+      "id": "sw-c20d869c752107ff69",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "忠州大米",
+      "type": "ingredients",
+      "description": "忠州大米是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "忠州大米是与重庆·忠县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为忠县农业农村委员会。该批名单记载的生产规模为1700公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "忠县",
+      "id": "sw-ffcba7cddf4d5d92b1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "云阳古红桔",
+      "type": "ingredients",
+      "description": "云阳古红桔是与重庆·云阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "云阳古红桔是与重庆·云阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为云阳县农业农村委员会。该批名单记载的生产规模为333.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "云阳县",
+      "id": "sw-c2e878ded3d5f7a83e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "彭水白茶",
+      "type": "tea",
+      "description": "彭水白茶是与重庆·彭水苗族土家族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "彭水白茶是与重庆·彭水苗族土家族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为彭水苗族土家族自治县农业农村委员会。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "彭水苗族土家族自治县",
+      "id": "sw-55bce1837b47f86b5a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "chongqing",
+      "city": "重庆",
+      "name": "江津鲜鸡蛋",
+      "type": "ingredients",
+      "description": "江津鲜鸡蛋是与重庆·江津区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "江津鲜鸡蛋是与重庆·江津区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为重庆市江津区农产品质量安全中心。该批名单记载的生产规模为500万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "江津区",
+      "id": "sw-fd930fddc04b5d897b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "龙泉驿巨峰葡萄",
+      "type": "ingredients",
+      "description": "龙泉驿巨峰葡萄是与四川·成都·龙泉驿区相联系的地方农产品与食材。",
+      "detail": "龙泉驿巨峰葡萄是与四川·成都·龙泉驿区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市龙泉驿区农业农村局。该批名单记载的生产规模为210公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "龙泉驿区",
+      "id": "sw-e2c0b3c79697e6376e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "郫都大蒜",
+      "type": "ingredients",
+      "description": "郫都大蒜是与四川·成都·郫都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "郫都大蒜是与四川·成都·郫都区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市郫都区农业农村和林业局。该批名单记载的生产规模为470公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "郫都区",
+      "id": "sw-1b03fd2d425531cefd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑青梅",
+      "type": "ingredients",
+      "description": "大邑青梅是与四川·成都·大邑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大邑青梅是与四川·成都·大邑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大邑县农业农村局。该批名单记载的生产规模为1580公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "大邑县",
+      "id": "sw-81c8fb9f0421630439",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "大邑大米",
+      "type": "ingredients",
+      "description": "大邑大米是与四川·成都·大邑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大邑大米是与四川·成都·大邑县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大邑县农业农村局。该批名单记载的生产规模为1400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "大邑县",
+      "id": "sw-8795fca2861d2a2486",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "蒲江耙耙柑",
+      "type": "ingredients",
+      "description": "蒲江耙耙柑是与四川·成都·蒲江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蒲江耙耙柑是与四川·成都·蒲江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蒲江县农业农村局。该批名单记载的生产规模为20000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "蒲江县",
+      "id": "sw-16ff1b63b777bb6c6f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "宝墩大米",
+      "type": "ingredients",
+      "description": "宝墩大米是与四川·成都·新津区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "宝墩大米是与四川·成都·新津区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市新津区农业农村局。该批名单记载的生产规模为5933.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "新津区",
+      "id": "sw-6736dce9ae10e594ed",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "贾家水蜜桃",
+      "type": "ingredients",
+      "description": "贾家水蜜桃是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "贾家水蜜桃是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市东部新区管理委员会农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "简阳市",
+      "id": "sw-12681c9a99533eb151",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "简阳元宝萝卜",
+      "type": "ingredients",
+      "description": "简阳元宝萝卜是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "简阳元宝萝卜是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为简阳市农业农村局。该批名单记载的生产规模为667公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "简阳市",
+      "id": "sw-f18354fa69b2b72893",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "简阳贝贝南瓜",
+      "type": "ingredients",
+      "description": "简阳贝贝南瓜是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "简阳贝贝南瓜是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为简阳市农业农村局。该批名单记载的生产规模为533公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "简阳市",
+      "id": "sw-904fabe4fd53f3b7e1",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "成都",
+      "name": "董家埂鸡蛋",
+      "type": "ingredients",
+      "description": "董家埂鸡蛋是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "董家埂鸡蛋是与四川·成都·简阳市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为成都市东部新区管理委员会农业农村局。该批名单记载的生产规模为5万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "简阳市",
+      "id": "sw-cbb8f474d48ed30d0d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "自流井黄桃",
+      "type": "ingredients",
+      "description": "自流井黄桃是与四川·自贡·自流井区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "自流井黄桃是与四川·自贡·自流井区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为自贡市自流井区农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "自流井区",
+      "id": "sw-f63cd528f061b1fc77",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "自贡",
+      "name": "大安花椒",
+      "type": "ingredients",
+      "description": "大安花椒是与四川·自贡·大安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大安花椒是与四川·自贡·大安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为自贡市大安区农业农村局。该批名单记载的生产规模为18公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "大安区",
+      "id": "sw-fb696303bba34f68c4",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "西区山药",
+      "type": "ingredients",
+      "description": "西区山药是与四川·攀枝花·西区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "西区山药是与四川·攀枝花·西区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为攀枝花市西区农业农村和交通运输局。该批名单记载的生产规模为50公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "西区",
+      "id": "sw-b848ebca1b2c3cc03a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "仁和芒果干",
+      "type": "ingredients",
+      "description": "仁和芒果干是与四川·攀枝花·仁和区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "仁和芒果干是与四川·攀枝花·仁和区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为攀枝花市仁和区农产品质量安全中心。该批名单记载的生产规模为27000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仁和区",
+      "id": "sw-6e58b3bff9f9acd7a0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "同德豌豆",
+      "type": "ingredients",
+      "description": "同德豌豆是与四川·攀枝花·仁和区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "同德豌豆是与四川·攀枝花·仁和区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为攀枝花市仁和区同德镇人民政府。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仁和区",
+      "id": "sw-9808c38b69588b855e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "攀枝花",
+      "name": "啊喇火腿",
+      "type": "dishes",
+      "description": "啊喇火腿是与四川·攀枝花·仁和区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "啊喇火腿是与四川·攀枝花·仁和区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为攀枝花市仁和区啊喇彝族乡农业农村综合事务中心。该批名单记载的生产规模为1.6万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仁和区",
+      "id": "sw-9551e10d061747b91e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "泸州",
+      "name": "泸县再生稻米",
+      "type": "ingredients",
+      "description": "泸县再生稻米是与四川·泸州·泸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "泸县再生稻米是与四川·泸州·泸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为泸县乡村振兴发展促进中心。该批名单记载的生产规模为8000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "泸县",
+      "id": "sw-f16fc424019b802c79",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳青菜",
+      "type": "ingredients",
+      "description": "旌阳青菜是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "旌阳青菜是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为2133公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-202ecbeef88923f2f7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "旌阳叉尾鮰",
+      "type": "ingredients",
+      "description": "旌阳叉尾鮰是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "旌阳叉尾鮰是与四川·德阳·旌阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德阳市旌阳区农业农村局。该批名单记载的生产规模为360吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "旌阳区",
+      "id": "sw-1d72976075d67220c6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江莲藕",
+      "type": "ingredients",
+      "description": "中江莲藕是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "中江莲藕是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "中江县",
+      "id": "sw-fc7f36c87e038d8657",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江秀珍菇",
+      "type": "ingredients",
+      "description": "中江秀珍菇是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "中江秀珍菇是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为50公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "中江县",
+      "id": "sw-aa9be737e33bc2ff08",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江黄牛肉",
+      "type": "ingredients",
+      "description": "中江黄牛肉是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "中江黄牛肉是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为0.8万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "中江县",
+      "id": "sw-5988d50b4c1f501064",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江鸡蛋",
+      "type": "ingredients",
+      "description": "中江鸡蛋是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "中江鸡蛋是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为30万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "中江县",
+      "id": "sw-0ea27ac18690c5f4c8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "中江鳙鱼",
+      "type": "ingredients",
+      "description": "中江鳙鱼是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "中江鳙鱼是与四川·德阳·中江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为中江县农业农村局。该批名单记载的生产规模为1000吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "中江县",
+      "id": "sw-dfb1d546765e53e1b5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "什邡豌豆尖",
+      "type": "ingredients",
+      "description": "什邡豌豆尖是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "什邡豌豆尖是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为什邡市农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "什邡市",
+      "id": "sw-5837a10a6de1c9ccea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "德阳",
+      "name": "什邡鲜鸡",
+      "type": "ingredients",
+      "description": "什邡鲜鸡是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "什邡鲜鸡是与四川·德阳·什邡市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为什邡市农业农村局。该批名单记载的生产规模为60万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "什邡市",
+      "id": "sw-09ac76339139c6ca98",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "游仙蜂蜜",
+      "type": "ingredients",
+      "description": "游仙蜂蜜是与四川·绵阳·游仙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "游仙蜂蜜是与四川·绵阳·游仙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为绵阳市游仙区农业农村局。该批名单记载的生产规模为1.4万群，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "游仙区",
+      "id": "sw-ca89f1dcd4f08d9c65",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "绵阳",
+      "name": "梓潼水蜜桃",
+      "type": "ingredients",
+      "description": "梓潼水蜜桃是与四川·绵阳·梓潼县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "梓潼水蜜桃是与四川·绵阳·梓潼县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为梓潼县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "梓潼县",
+      "id": "sw-6aed2dd63294007b00",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广元",
+      "name": "昭化猕猴桃",
+      "type": "ingredients",
+      "description": "昭化猕猴桃是与四川·广元·昭化区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "昭化猕猴桃是与四川·广元·昭化区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广元市昭化区农业农村局。该批名单记载的生产规模为5300公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "昭化区",
+      "id": "sw-8161e66e1538485cc8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居青花椒",
+      "type": "ingredients",
+      "description": "安居青花椒是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安居青花椒是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市安居区农业农村局。该批名单记载的生产规模为620公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "安居区",
+      "id": "sw-14996904034b6adf00",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "安居柠檬",
+      "type": "ingredients",
+      "description": "安居柠檬是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安居柠檬是与四川·遂宁·安居区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遂宁市安居区农业农村局。该批名单记载的生产规模为1000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "安居区",
+      "id": "sw-475ca3db5fc7af81c6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪大米",
+      "type": "ingredients",
+      "description": "蓬溪大米是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蓬溪大米是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为317.73公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-052dd79c8d51ca6e4b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪鹿茸菇",
+      "type": "ingredients",
+      "description": "蓬溪鹿茸菇是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蓬溪鹿茸菇是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为72.67公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-8289059e85d5246c73",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪杏鲍菇",
+      "type": "ingredients",
+      "description": "蓬溪杏鲍菇是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蓬溪杏鲍菇是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为51公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-08992dde1895ce04a0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "蓬溪鸡蛋",
+      "type": "ingredients",
+      "description": "蓬溪鸡蛋是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "蓬溪鸡蛋是与四川·遂宁·蓬溪县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为蓬溪县农业农村局。该批名单记载的生产规模为21万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "蓬溪县",
+      "id": "sw-3ca0f1ba8d7d17be3b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "射洪青花椒",
+      "type": "ingredients",
+      "description": "射洪青花椒是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "射洪青花椒是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为射洪市农业农村局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "射洪市",
+      "id": "sw-779fba271103390696",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "射洪鲜食玉米",
+      "type": "ingredients",
+      "description": "射洪鲜食玉米是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "射洪鲜食玉米是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为射洪市农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "射洪市",
+      "id": "sw-43f54a9bb4bddebf84",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "遂宁",
+      "name": "射洪大闸蟹",
+      "type": "ingredients",
+      "description": "射洪大闸蟹是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "射洪大闸蟹是与四川·遂宁·射洪市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为射洪市农业农村局。该批名单记载的生产规模为14.4吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "射洪市",
+      "id": "sw-63f935ca45641eb6d0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "东兴莲白",
+      "type": "ingredients",
+      "description": "东兴莲白是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "东兴莲白是与四川·内江·东兴区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为内江市东兴区农业农村局。该批名单记载的生产规模为110公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "东兴区",
+      "id": "sw-d4ef2cd63f627a6f8c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远五星枇杷",
+      "type": "ingredients",
+      "description": "威远五星枇杷是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威远五星枇杷是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威远县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "威远县",
+      "id": "sw-38cb0c6b4cb8ffd255",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远耙耙柑",
+      "type": "ingredients",
+      "description": "威远耙耙柑是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威远耙耙柑是与四川·内江·威远县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威远县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "威远县",
+      "id": "sw-8e8b0b5e0e2c6f3ed6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "内江",
+      "name": "威远黄茶",
+      "type": "tea",
+      "description": "威远黄茶是与四川·内江·威远县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "威远黄茶是与四川·内江·威远县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为威远县农业农村局。该批名单记载的生产规模为510公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "威远县",
+      "id": "sw-87d7849142909ffe4e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "井研大米",
+      "type": "ingredients",
+      "description": "井研大米是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "井研大米是与四川·乐山·井研县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为井研县农业农村局农技站。该批名单记载的生产规模为1689公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "井研县",
+      "id": "sw-b1de480c04cd586f10",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "乐山",
+      "name": "峨边鸡蛋",
+      "type": "ingredients",
+      "description": "峨边鸡蛋是与四川·乐山·峨边彝族自治县相联系的地方农产品与食材。",
+      "detail": "峨边鸡蛋是与四川·乐山·峨边彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为峨边彝族自治县农业农村局。该批名单记载的生产规模为46万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "峨边彝族自治县",
+      "id": "sw-449c69493a27e1b9bd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "营山菜籽油",
+      "type": "seasoning",
+      "description": "营山菜籽油是与四川·南充·营山县相联系的地方食用油。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "营山菜籽油是与四川·南充·营山县相联系的地方食用油。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为营山县农业农村局。该批名单记载的生产规模为1484.4公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方调味品",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "营山县",
+      "id": "sw-928923630e83bdb778",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "南充",
+      "name": "仪陇川津1号柑橘",
+      "type": "ingredients",
+      "description": "仪陇川津1号柑橘是与四川·南充·仪陇县相联系的地方农产品与食材。",
+      "detail": "仪陇川津1号柑橘是与四川·南充·仪陇县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仪陇县农业农村局。该批名单记载的生产规模为3200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仪陇县",
+      "id": "sw-4038007f50961d9fed",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "仁寿爱媛柑橘",
+      "type": "ingredients",
+      "description": "仁寿爱媛柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "仁寿爱媛柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仁寿县农业农村局。该批名单记载的生产规模为4000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-b5b54039d4ed010c42",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "仁寿春见柑橘",
+      "type": "ingredients",
+      "description": "仁寿春见柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "仁寿春见柑橘是与四川·眉山·仁寿县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为仁寿县农业农村局。该批名单记载的生产规模为10000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "仁寿县",
+      "id": "sw-1158a6bb79039ec14b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "青神南瓜柑",
+      "type": "ingredients",
+      "description": "青神南瓜柑是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "青神南瓜柑是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为青神县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "青神县",
+      "id": "sw-7c5532f58a4ceb0849",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "青神柠檬柑",
+      "type": "ingredients",
+      "description": "青神柠檬柑是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "青神柠檬柑是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为青神县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "青神县",
+      "id": "sw-4f3a65a1dab8e20b18",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "眉山",
+      "name": "汉阳花生",
+      "type": "ingredients",
+      "description": "汉阳花生是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "汉阳花生是与四川·眉山·青神县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为青神县农业农村局。该批名单记载的生产规模为650公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "青神县",
+      "id": "sw-e8dfb3e8e827c441e9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "江安大米",
+      "type": "ingredients",
+      "description": "江安大米是与四川·宜宾·江安县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "江安大米是与四川·宜宾·江安县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为江安县农业农村局。该批名单记载的生产规模为4000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "江安县",
+      "id": "sw-711cf3713273fb2fc0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "长宁乌鸡",
+      "type": "ingredients",
+      "description": "长宁乌鸡是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "长宁乌鸡是与四川·宜宾·长宁县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为长宁县农业农村局。该批名单记载的生产规模为10万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "长宁县",
+      "id": "sw-0ed42535facde99e39",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "高县柠檬",
+      "type": "ingredients",
+      "description": "高县柠檬是与四川·宜宾·高县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "高县柠檬是与四川·宜宾·高县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为高县农业农村局。该批名单记载的生产规模为377.12公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "高县",
+      "id": "sw-0f3fa044f54979dda3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "宜宾",
+      "name": "屏山椪柑",
+      "type": "ingredients",
+      "description": "屏山椪柑是与四川·宜宾·屏山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "屏山椪柑是与四川·宜宾·屏山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为屏山县农业农村局。该批名单记载的生产规模为415公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "屏山县",
+      "id": "sw-55b66f089e512e0a12",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "广安大米",
+      "type": "ingredients",
+      "description": "广安大米是与四川·广安·广安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "广安大米是与四川·广安·广安区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广安市广安区农业农村局。该批名单记载的生产规模为20000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "广安区",
+      "id": "sw-0d9140b38e6017c869",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "岳池芥菜",
+      "type": "ingredients",
+      "description": "岳池芥菜是与四川·广安·岳池县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "岳池芥菜是与四川·广安·岳池县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为岳池县农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "岳池县",
+      "id": "sw-1bbddb9dfb83c8b2a3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "邻水白茶",
+      "type": "tea",
+      "description": "邻水白茶是与四川·广安·邻水县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "邻水白茶是与四川·广安·邻水县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为邻水县农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "邻水县",
+      "id": "sw-3870e474fba2ead09b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "前锋青花椒",
+      "type": "ingredients",
+      "description": "前锋青花椒是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "前锋青花椒是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广安市前锋区农业农村局。该批名单记载的生产规模为3400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "前锋区",
+      "id": "sw-6d155bae582182a314",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "前锋玉米",
+      "type": "ingredients",
+      "description": "前锋玉米是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "前锋玉米是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广安市前锋区农业农村局。该批名单记载的生产规模为1500公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "前锋区",
+      "id": "sw-ab053b11e758cdee31",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "前锋大米",
+      "type": "ingredients",
+      "description": "前锋大米是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "前锋大米是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广安市前锋区农业农村局。该批名单记载的生产规模为2800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "前锋区",
+      "id": "sw-a1179574a5133dc5fd",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "前锋猪肉",
+      "type": "ingredients",
+      "description": "前锋猪肉是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "前锋猪肉是与四川·广安·前锋区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广安市前锋区农业农村局。该批名单记载的生产规模为5万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "前锋区",
+      "id": "sw-c0a0e3376327c2814e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "华蓥葡萄",
+      "type": "ingredients",
+      "description": "华蓥葡萄是与四川·广安·华蓥市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "华蓥葡萄是与四川·广安·华蓥市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为华蓥市农业农村局。该批名单记载的生产规模为230公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "华蓥市",
+      "id": "sw-ec65bdc73065e5425c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "广安",
+      "name": "华蓥肉兔",
+      "type": "ingredients",
+      "description": "华蓥肉兔是与四川·广安·华蓥市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "华蓥肉兔是与四川·广安·华蓥市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为华蓥市农业农村局。该批名单记载的生产规模为60万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "华蓥市",
+      "id": "sw-caddaba2768e3e9f7d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "南江翡翠米",
+      "type": "ingredients",
+      "description": "南江翡翠米是与四川·巴中·南江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "南江翡翠米是与四川·巴中·南江县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为南江县农产品质量监督检测站。该批名单记载的生产规模为6666.67公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "南江县",
+      "id": "sw-e6706ce79c416360f8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "巴中",
+      "name": "平昌黑山羊",
+      "type": "ingredients",
+      "description": "平昌黑山羊是与四川·巴中·平昌县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "平昌黑山羊是与四川·巴中·平昌县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为平昌县农业农村局。该批名单记载的生产规模为3万只，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "平昌县",
+      "id": "sw-b7d2934c07df01d86b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "资阳",
+      "name": "安岳柠檬",
+      "type": "ingredients",
+      "description": "安岳柠檬是与四川·资阳·安岳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "安岳柠檬是与四川·资阳·安岳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为安岳县柠檬产业发展中心。该批名单记载的生产规模为32000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "安岳县",
+      "id": "sw-2403e9173f88fb9f1f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "雅安",
+      "name": "芦山大米",
+      "type": "ingredients",
+      "description": "芦山大米是与四川·雅安·芦山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "芦山大米是与四川·雅安·芦山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为芦山县农业农村局。该批名单记载的生产规模为650公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "芦山县",
+      "id": "sw-d0e8ff67d9ecb1c6f8",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "茂县枇杷",
+      "type": "ingredients",
+      "description": "茂县枇杷是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "茂县枇杷是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为茂县科学技术和农业畜牧局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "茂县",
+      "id": "sw-8615e412c51f18bbc9",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "茂汶瑞雪苹果",
+      "type": "ingredients",
+      "description": "茂汶瑞雪苹果是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "茂汶瑞雪苹果是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为茂县科学技术和农业畜牧局。该批名单记载的生产规模为255公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "茂县",
+      "id": "sw-8e8abedfe4c93bd50c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "茂汶瑞香红苹果",
+      "type": "ingredients",
+      "description": "茂汶瑞香红苹果是与四川·阿坝州·茂县相联系的地方农产品与食材。",
+      "detail": "茂汶瑞香红苹果是与四川·阿坝州·茂县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为茂县科学技术和农业畜牧局。该批名单记载的生产规模为225公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "茂县",
+      "id": "sw-1041b4d84dcdc16905",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "松潘梨",
+      "type": "ingredients",
+      "description": "松潘梨是与四川·阿坝州·松潘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "松潘梨是与四川·阿坝州·松潘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为松潘县科学技术和农业畜牧局。该批名单记载的生产规模为315公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "松潘县",
+      "id": "sw-8951ec67b2f0380995",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "松潘绿茶",
+      "type": "tea",
+      "description": "松潘绿茶是与四川·阿坝州·松潘县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "松潘绿茶是与四川·阿坝州·松潘县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为松潘县科学技术和农业畜牧局。该批名单记载的生产规模为520公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "松潘县",
+      "id": "sw-8579559cf90d005171",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "黑水瑞雪苹果",
+      "type": "ingredients",
+      "description": "黑水瑞雪苹果是与四川·阿坝州·黑水县相联系的地方农产品与食材。",
+      "detail": "黑水瑞雪苹果是与四川·阿坝州·黑水县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黑水县农业农村水利和科技局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "黑水县",
+      "id": "sw-bd16dd78882bcf12a0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "黑水豌豆",
+      "type": "ingredients",
+      "description": "黑水豌豆是与四川·阿坝州·黑水县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "黑水豌豆是与四川·阿坝州·黑水县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黑水县农业农村水利和科技局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "黑水县",
+      "id": "sw-4c8ad4969c701e0665",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "黑水马铃薯",
+      "type": "ingredients",
+      "description": "黑水马铃薯是与四川·阿坝州·黑水县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "黑水马铃薯是与四川·阿坝州·黑水县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黑水县农业农村水利和科技局。该批名单记载的生产规模为100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "黑水县",
+      "id": "sw-08c3660240280e935a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "壤塘香菇",
+      "type": "ingredients",
+      "description": "壤塘香菇是与四川·阿坝州·壤塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "壤塘香菇是与四川·阿坝州·壤塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为壤塘县科学技术和农业畜牧局。该批名单记载的生产规模为450万袋，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "壤塘县",
+      "id": "sw-152d2f5ff1af73e915",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "阿坝州",
+      "name": "贾洛绵羊",
+      "type": "ingredients",
+      "description": "贾洛绵羊是与四川·阿坝州·阿坝县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "贾洛绵羊是与四川·阿坝州·阿坝县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为阿坝县科学技术和农业畜牧水务局。该批名单记载的生产规模为2.5万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "阿坝县",
+      "id": "sw-25e5c151d99f156769",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "康定黑青稞",
+      "type": "ingredients",
+      "description": "康定黑青稞是与四川·甘孜州·康定市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "康定黑青稞是与四川·甘孜州·康定市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为康定市农牧农村和科技局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。来源沿用“康定县”地名，当前地区索引对应康定市。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "康定市",
+      "id": "sw-3f5053c859d5b5a431",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "康定苹果",
+      "type": "ingredients",
+      "description": "康定苹果是与四川·甘孜州·康定市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "康定苹果是与四川·甘孜州·康定市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为康定市农牧农村和科技局。该批名单记载的生产规模为1000公顷，对应原文公布或公示时点的登记范围。来源沿用“康定县”地名，当前地区索引对应康定市。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "康定市",
+      "id": "sw-105eab7ead9e7727de",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "海螺沟萝卜",
+      "type": "ingredients",
+      "description": "海螺沟萝卜是与四川·甘孜州·泸定县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "海螺沟萝卜是与四川·甘孜州·泸定县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为海螺沟景区管委会城乡生态局。该批名单记载的生产规模为102公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "泸定县",
+      "id": "sw-40662df6cc6ea937ec",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "丹巴苹果",
+      "type": "ingredients",
+      "description": "丹巴苹果是与四川·甘孜州·丹巴县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "丹巴苹果是与四川·甘孜州·丹巴县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为丹巴县农牧农村和科技局。该批名单记载的生产规模为530公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "丹巴县",
+      "id": "sw-f6f019a419d6da8866",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "炉霍沙棘",
+      "type": "ingredients",
+      "description": "炉霍沙棘是与四川·甘孜州·炉霍县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "炉霍沙棘是与四川·甘孜州·炉霍县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为炉霍县农牧农村和科技局。该批名单记载的生产规模为666.7公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "炉霍县",
+      "id": "sw-a73dfa2e202f374645",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "甘孜州",
+      "name": "甘孜糌粑",
+      "type": "staples",
+      "description": "甘孜糌粑是与四川·甘孜州·甘孜县相联系的地方米面食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "甘孜糌粑是与四川·甘孜州·甘孜县相联系的地方米面食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为甘孜县农牧农村和科技局。该批名单记载的生产规模为3333公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方面食",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "甘孜县",
+      "id": "sw-93a73174f3cb976fea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "德昌芒果",
+      "type": "ingredients",
+      "description": "德昌芒果是与四川·凉山州·德昌县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "德昌芒果是与四川·凉山州·德昌县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为德昌县农业农村局。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "德昌县",
+      "id": "sw-a6ff8feb51a98296a3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "会东蓝莓",
+      "type": "ingredients",
+      "description": "会东蓝莓是与四川·凉山州·会东县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "会东蓝莓是与四川·凉山州·会东县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为会东县农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "会东县",
+      "id": "sw-c3f992693c49ff9a58",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "sichuan",
+      "city": "凉山州",
+      "name": "喜德金沙鲈鲤",
+      "type": "ingredients",
+      "description": "喜德金沙鲈鲤是与四川·凉山州·喜德县相联系的地方农产品与食材。",
+      "detail": "喜德金沙鲈鲤是与四川·凉山州·喜德县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为喜德县农业农村局。该批名单记载的生产规模为410万尾，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "喜德县",
+      "id": "sw-baa8288ce5830c3d26",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "六盘水",
+      "name": "六枝黑猪",
+      "type": "ingredients",
+      "description": "六枝黑猪是与贵州·六盘水·六枝特区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "六枝黑猪是与贵州·六盘水·六枝特区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为六枝特区农业农村局。该批名单记载的生产规模为4.15万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "六枝特区",
+      "id": "sw-519654e9c34c34a8a2",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "遵义",
+      "name": "播州生猪",
+      "type": "ingredients",
+      "description": "播州生猪是与贵州·遵义·播州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "播州生猪是与贵州·遵义·播州区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为遵义市播州区农业农村局。该批名单记载的生产规模为1.42万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "播州区",
+      "id": "sw-b9e3f9c062c7186bdf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴义冬瓜",
+      "type": "ingredients",
+      "description": "兴义冬瓜是与贵州·黔西南州·兴义市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "兴义冬瓜是与贵州·黔西南州·兴义市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为兴义市农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "兴义市",
+      "id": "sw-64a370988830c626c5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔西南州",
+      "name": "兴义小黄姜",
+      "type": "ingredients",
+      "description": "兴义小黄姜是与贵州·黔西南州·兴义市相联系的地方农产品与食材。",
+      "detail": "兴义小黄姜是与贵州·黔西南州·兴义市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为兴义市农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "兴义市",
+      "id": "sw-2902297242246b1d69",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔东南州",
+      "name": "天柱石洞大米",
+      "type": "ingredients",
+      "description": "天柱石洞大米是与贵州·黔东南州·天柱县相联系的地方农产品与食材。",
+      "detail": "天柱石洞大米是与贵州·黔东南州·天柱县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为天柱县农业农村局。该批名单记载的生产规模为1066.7公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "天柱县",
+      "id": "sw-9ab03a8b2891932144",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "都匀红鲤",
+      "type": "ingredients",
+      "description": "都匀红鲤是与贵州·黔南州·都匀市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "都匀红鲤是与贵州·黔南州·都匀市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为黔南布依族苗族自治州农业科学研究院（都匀毛尖茶研究院）。该批名单记载的生产规模为70吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "都匀市",
+      "id": "sw-e2f47d62227ff92297",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "佳荣牛肉",
+      "type": "ingredients",
+      "description": "佳荣牛肉是与贵州·黔南州·荔波县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "佳荣牛肉是与贵州·黔南州·荔波县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为荔波县农业农村局。该批名单记载的生产规模为1.42万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "荔波县",
+      "id": "sw-7d5108a6cd6866f71c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "平塘鸡蛋",
+      "type": "ingredients",
+      "description": "平塘鸡蛋是与贵州·黔南州·平塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "平塘鸡蛋是与贵州·黔南州·平塘县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为平塘县农业农村局。该批名单记载的生产规模为40万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "平塘县",
+      "id": "sw-9c0310b3c1f6edb16d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "guizhou",
+      "city": "黔南州",
+      "name": "三都鸡蛋",
+      "type": "ingredients",
+      "description": "三都鸡蛋是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。",
+      "detail": "三都鸡蛋是与贵州·黔南州·三都水族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为三都水族自治县养殖业发展中心。该批名单记载的生产规模为46万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "三都水族自治县",
+      "id": "sw-e3e72211866334c82d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "东川无花果",
+      "type": "ingredients",
+      "description": "东川无花果是与云南·昆明·东川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "东川无花果是与云南·昆明·东川区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为昆明市东川区经济作物技术推广站。该批名单记载的生产规模为153公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "东川区",
+      "id": "sw-061895104aeb8b8e2c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昆明",
+      "name": "石林苹果",
+      "type": "ingredients",
+      "description": "石林苹果是与云南·昆明·石林彝族自治县相联系的地方农产品与食材。",
+      "detail": "石林苹果是与云南·昆明·石林彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为石林彝族自治县农业农村局。该批名单记载的生产规模为413.83公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "石林彝族自治县",
+      "id": "sw-0ad29c9f31ea208eaf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "张安屯黑山羊",
+      "type": "ingredients",
+      "description": "张安屯黑山羊是与云南·曲靖·马龙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "张安屯黑山羊是与云南·曲靖·马龙区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为曲靖市马龙区农业农村局。该批名单记载的生产规模为1.2万只，对应原文公布或公示时点的登记范围。来源沿用“马龙县”地名，当前地区索引对应马龙区。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "马龙区",
+      "id": "sw-48fb5cbb47ac53ebc7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源小叶芥菜酸菜",
+      "type": "ingredients",
+      "description": "富源小叶芥菜酸菜是与云南·曲靖·富源县相联系的地方农产品与食材。",
+      "detail": "富源小叶芥菜酸菜是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为286公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "富源县",
+      "id": "sw-3385db69bae4db736b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源萝卜丝酸菜",
+      "type": "ingredients",
+      "description": "富源萝卜丝酸菜是与云南·曲靖·富源县相联系的地方农产品与食材。",
+      "detail": "富源萝卜丝酸菜是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为273公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "富源县",
+      "id": "sw-922b4c42072b126ead",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "通海鲜食玉米",
+      "type": "ingredients",
+      "description": "通海鲜食玉米是与云南·玉溪·通海县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "通海鲜食玉米是与云南·玉溪·通海县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为通海县农业农村局。该批名单记载的生产规模为800公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "通海县",
+      "id": "sw-6a7d8a86dce89d85ee",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "新平橙",
+      "type": "ingredients",
+      "description": "新平橙是与云南·玉溪·新平彝族傣族自治县相联系的地方农产品与食材。",
+      "detail": "新平橙是与云南·玉溪·新平彝族傣族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为新平彝族傣族自治县农业农村局。该批名单记载的生产规模为718.65公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "新平彝族傣族自治县",
+      "id": "sw-a17742ae2d45ab0123",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "玉溪",
+      "name": "新平笋丝",
+      "type": "ingredients",
+      "description": "新平笋丝是与云南·玉溪·新平彝族傣族自治县相联系的地方农产品与食材。",
+      "detail": "新平笋丝是与云南·玉溪·新平彝族傣族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为新平彝族傣族自治县林产工业管理站。该批名单记载的生产规模为2414公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "新平彝族傣族自治县",
+      "id": "sw-a90357d16996b4c871",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "潞江青枣",
+      "type": "ingredients",
+      "description": "潞江青枣是与云南·保山·隆阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "潞江青枣是与云南·保山·隆阳区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为保山市隆阳区农业农村局。该批名单记载的生产规模为333.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "隆阳区",
+      "id": "sw-8c7f15d31c80e85c15",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "腾冲饵丝",
+      "type": "ingredients",
+      "description": "腾冲饵丝是与云南·保山·腾冲市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "腾冲饵丝是与云南·保山·腾冲市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为腾冲市农业农村局。该批名单记载的生产规模为6000吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "腾冲市",
+      "id": "sw-23d3575fd32e1f29c0",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "保山",
+      "name": "腾冲雪鸡",
+      "type": "ingredients",
+      "description": "腾冲雪鸡是与云南·保山·腾冲市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "腾冲雪鸡是与云南·保山·腾冲市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为腾冲市农业农村局。该批名单记载的生产规模为4万只，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "腾冲市",
+      "id": "sw-b774e0b00bd9691221",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "昭通",
+      "name": "鲁甸花椒",
+      "type": "ingredients",
+      "description": "鲁甸花椒是与云南·昭通·鲁甸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "鲁甸花椒是与云南·昭通·鲁甸县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为鲁甸县农业技术推广中心。该批名单记载的生产规模为21333公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "鲁甸县",
+      "id": "sw-abf1479409d4667bea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "墨江鳙鱼",
+      "type": "ingredients",
+      "description": "墨江鳙鱼是与云南·普洱·墨江哈尼族自治县相联系的地方农产品与食材。",
+      "detail": "墨江鳙鱼是与云南·普洱·墨江哈尼族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为墨江哈尼族自治县农业农村和科学技术局。该批名单记载的生产规模为18吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "墨江哈尼族自治县",
+      "id": "sw-240c7eefbb55f81855",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "景东乌骨鸡",
+      "type": "ingredients",
+      "description": "景东乌骨鸡是与云南·普洱·景东彝族自治县相联系的地方农产品与食材。",
+      "detail": "景东乌骨鸡是与云南·普洱·景东彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为景东彝族自治县农业农村和科学技术局。该批名单记载的生产规模为16万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "景东彝族自治县",
+      "id": "sw-5536bb0175a6edf502",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "普洱",
+      "name": "景谷魔芋",
+      "type": "ingredients",
+      "description": "景谷魔芋是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。",
+      "detail": "景谷魔芋是与云南·普洱·景谷傣族彝族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为景谷傣族彝族自治县农业农村和科学技术局。该批名单记载的生产规模为1200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "景谷傣族彝族自治县",
+      "id": "sw-36683f118ef7e6205e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔咖啡",
+      "type": "drinks",
+      "description": "临翔咖啡是与云南·临沧·临翔区相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔咖啡是与云南·临沧·临翔区相联系的地方咖啡。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为614公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方饮品",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-837c3040ccb3b292cf",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔鲜食玉米",
+      "type": "ingredients",
+      "description": "临翔鲜食玉米是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔鲜食玉米是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为721公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-fe4daed5539bf93cbb",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔热情果",
+      "type": "ingredients",
+      "description": "临翔热情果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔热情果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为233.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-5c928f35f44fdc0339",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔核桃",
+      "type": "ingredients",
+      "description": "临翔核桃是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔核桃是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为2000公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-cc65e84aefb9393526",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔澳洲坚果",
+      "type": "ingredients",
+      "description": "临翔澳洲坚果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔澳洲坚果是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为750公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-bce76fb3a77287bfb5",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔红花生",
+      "type": "ingredients",
+      "description": "临翔红花生是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔红花生是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为665公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-d81268c738f315c74a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔昔归茶",
+      "type": "tea",
+      "description": "临翔昔归茶是与云南·临沧·临翔区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔昔归茶是与云南·临沧·临翔区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为700公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-b148730a7c397d9343",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "马台芽茶",
+      "type": "tea",
+      "description": "马台芽茶是与云南·临沧·临翔区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马台芽茶是与云南·临沧·临翔区相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为650公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-b6ac96c73db797bba3",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔小番茄",
+      "type": "ingredients",
+      "description": "临翔小番茄是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔小番茄是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为110公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-1ff6dd827f06483c69",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔豌豆",
+      "type": "ingredients",
+      "description": "临翔豌豆是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔豌豆是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为400公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-abd0d83030f91d5bc6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔火腿",
+      "type": "dishes",
+      "description": "临翔火腿是与云南·临沧·临翔区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔火腿是与云南·临沧·临翔区相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为300吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-2a878c07fe895454ea",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔黑肉鸡",
+      "type": "ingredients",
+      "description": "临翔黑肉鸡是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔黑肉鸡是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为5.6万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-ef5de67109bdf37aef",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "临翔红尾副鳅",
+      "type": "ingredients",
+      "description": "临翔红尾副鳅是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "临翔红尾副鳅是与云南·临沧·临翔区相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为临沧市临翔区农业农村局。该批名单记载的生产规模为27吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "临翔区",
+      "id": "sw-78d78c3c0f6206af32",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "云县黑肉鸡",
+      "type": "ingredients",
+      "description": "云县黑肉鸡是与云南·临沧·云县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "云县黑肉鸡是与云南·临沧·云县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为云县农业农村局。该批名单记载的生产规模为18万羽，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "云县",
+      "id": "sw-f5ed6d7c8cb1f92c81",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "双江火龙果",
+      "type": "ingredients",
+      "description": "双江火龙果是与云南·临沧·双江拉祜族佤族布朗族傣族自治县相联系的地方农产品与食材。",
+      "detail": "双江火龙果是与云南·临沧·双江拉祜族佤族布朗族傣族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为双江拉祜族佤族布朗族傣族自治县农业农村局。该批名单记载的生产规模为230公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "双江拉祜族佤族布朗族傣族自治县",
+      "id": "sw-f17eccfe164bd1e339",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "孟定稻虾米",
+      "type": "ingredients",
+      "description": "孟定稻虾米是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟定稻虾米是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为721公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-846e2c43bc4faf3a8c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "孟定茄子",
+      "type": "ingredients",
+      "description": "孟定茄子是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟定茄子是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为260公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-c99babde0e355eff0e",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "孟定辣椒",
+      "type": "ingredients",
+      "description": "孟定辣椒是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟定辣椒是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为500公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-80c760b67b64ba6647",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "孟定小青龙虾",
+      "type": "ingredients",
+      "description": "孟定小青龙虾是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。",
+      "detail": "孟定小青龙虾是与云南·临沧·耿马傣族佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为耿马傣族佤族自治县农业农村局。该批名单记载的生产规模为400吨，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "耿马傣族佤族自治县",
+      "id": "sw-1f96ad97c874aef929",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "沧源旱谷米",
+      "type": "ingredients",
+      "description": "沧源旱谷米是与云南·临沧·沧源佤族自治县相联系的地方农产品与食材。",
+      "detail": "沧源旱谷米是与云南·临沧·沧源佤族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为沧源佤族自治县检验检测所。该批名单记载的生产规模为1450公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "沧源佤族自治县",
+      "id": "sw-ca8bd3d296839985f6",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "临沧",
+      "name": "沧源单甲岛里茶",
+      "type": "tea",
+      "description": "沧源单甲岛里茶是与云南·临沧·沧源佤族自治县相联系的地方茶品。",
+      "detail": "沧源单甲岛里茶是与云南·临沧·沧源佤族自治县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为沧源佤族自治县检验检测所。该批名单记载的生产规模为510公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "沧源佤族自治县",
+      "id": "sw-7decc781f05bd17f68",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "大姚百合",
+      "type": "ingredients",
+      "description": "大姚百合是与云南·楚雄州·大姚县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大姚百合是与云南·楚雄州·大姚县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大姚县农业技术机械推广中心。该批名单记载的生产规模为465公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "大姚县",
+      "id": "sw-f535842569d632cc4b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "楚雄州",
+      "name": "大姚黑山羊",
+      "type": "ingredients",
+      "description": "大姚黑山羊是与云南·楚雄州·大姚县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "大姚黑山羊是与云南·楚雄州·大姚县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为大姚县动物疫病预防控制中心。该批名单记载的生产规模为39.58万只，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "大姚县",
+      "id": "sw-1c5873ddd1afe6984b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "红河州",
+      "name": "元阳韭菜",
+      "type": "ingredients",
+      "description": "元阳韭菜是与云南·红河州·元阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "元阳韭菜是与云南·红河州·元阳县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为元阳县农业农村和科学技术局。该批名单记载的生产规模为247.2公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "元阳县",
+      "id": "sw-33c0643bd814734d6d",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "砚山小黄姜",
+      "type": "ingredients",
+      "description": "砚山小黄姜是与云南·文山州·砚山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "砚山小黄姜是与云南·文山州·砚山县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为砚山县绿色食品发展中心。该批名单记载的生产规模为235.4公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "砚山县",
+      "id": "sw-ccf209198c77b24452",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关红茶",
+      "type": "tea",
+      "description": "马关红茶是与云南·文山州·马关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马关红茶是与云南·文山州·马关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马关县农业农村和科学技术局。该批名单记载的生产规模为1666.66公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "马关县",
+      "id": "sw-aa490c990ab3762f8c",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "马关白茶",
+      "type": "tea",
+      "description": "马关白茶是与云南·文山州·马关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "马关白茶是与云南·文山州·马关县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为马关县农业农村和科学技术局。该批名单记载的生产规模为1666.66公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "马关县",
+      "id": "sw-d0f031f3ff28c3a20b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "广南底圩茶",
+      "type": "tea",
+      "description": "广南底圩茶是与云南·文山州·广南县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "广南底圩茶是与云南·文山州·广南县相联系的地方茶品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广南县农业农村绿色发展中心。该批名单记载的生产规模为1100公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方茶",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "广南县",
+      "id": "sw-91d3d39415cf129a15",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "文山州",
+      "name": "广南高峰牛",
+      "type": "ingredients",
+      "description": "广南高峰牛是与云南·文山州·广南县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "广南高峰牛是与云南·文山州·广南县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为广南县农业农村绿色发展中心。该批名单记载的生产规模为1.68万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "广南县",
+      "id": "sw-3a4449ae1c11d5db2a",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "宾川滇橄榄",
+      "type": "ingredients",
+      "description": "宾川滇橄榄是与云南·大理州·宾川县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "宾川滇橄榄是与云南·大理州·宾川县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为宾川县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "宾川县",
+      "id": "sw-559d397f6c9532a93f",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "永平脆皮香橼",
+      "type": "ingredients",
+      "description": "永平脆皮香橼是与云南·大理州·永平县相联系的地方农产品与食材。",
+      "detail": "永平脆皮香橼是与云南·大理州·永平县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为永平县农产品质量安全监督管理站。该批名单记载的生产规模为68公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "永平县",
+      "id": "sw-931461e5ac897ae235",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "大理州",
+      "name": "洱源苹果",
+      "type": "ingredients",
+      "description": "洱源苹果是与云南·大理州·洱源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "洱源苹果是与云南·大理州·洱源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为洱源县农业农村局。该批名单记载的生产规模为200公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "洱源县",
+      "id": "sw-cac370d5bfabdb775b",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "泸水火腿",
+      "type": "dishes",
+      "description": "泸水火腿是与云南·怒江州·泸水市相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。",
+      "detail": "泸水火腿是与云南·怒江州·泸水市相联系的地方加工食品。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为泸水市供销合作社联合社。该批名单记载的生产规模为1.15万头，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方特色菜",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "泸水市",
+      "id": "sw-8314cff02dc6266125",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "怒江州",
+      "name": "兰坪蓝莓",
+      "type": "ingredients",
+      "description": "兰坪蓝莓是与云南·怒江州·兰坪白族普米族自治县相联系的地方农产品与食材。",
+      "detail": "兰坪蓝莓是与云南·怒江州·兰坪白族普米族自治县相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为兰坪白族普米族自治县农业农村局。该批名单记载的生产规模为413.33公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "兰坪白族普米族自治县",
+      "id": "sw-1ae91fec4ccda4c8d7",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "迪庆州",
+      "name": "香格里拉蓝莓",
+      "type": "ingredients",
+      "description": "香格里拉蓝莓是与云南·迪庆州·香格里拉市相联系的地方农产品与食材。",
+      "detail": "香格里拉蓝莓是与云南·迪庆州·香格里拉市相联系的地方农产品与食材。农业农村部农产品质量安全中心的正式公布名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为香格里拉市农业农村局。该批名单记载的生产规模为310公顷，对应原文公布或公示时点的登记范围。卡片记录公布时点的名称与地域；品牌、生产主体和具体产品属性分别核对，不据此推断所有在售产品均具相同资质。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-b1b5347a0c33e950"
+      ],
+      "locality": "香格里拉市",
+      "id": "sw-5cbe6c3f03dea4d163",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
+    },
+    {
+      "province": "yunnan",
+      "city": "曲靖",
+      "name": "富源薏苡仁",
+      "type": "ingredients",
+      "description": "富源薏苡仁是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。",
+      "detail": "富源薏苡仁是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为120公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "kind": "地方地方食材",
+      "sources": [
+        "sw-agri-69d2fb8f80e127d1"
+      ],
+      "locality": "富源县",
+      "id": "sw-ef2ad98b9ed3127d59",
+      "explanationStatus": "needs-expansion",
+      "researchBatch": "2026-11-15-southwest"
     }
   ],
   "targetItems": 5001

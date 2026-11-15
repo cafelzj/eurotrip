@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-fa7a0c4d6dc8f1b2",
+  "title": "地理标志产品公告 · 2009年第131号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC131%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "fa7a0c4d6dc8f1b2565d973efe4bbc4b419db65f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第131号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC131%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "001fe8a20db4fa3df92a434ae0669fa055175f0530b6e633e4a3b107dc833d83",
+    "textSha256": "78c2acb26bdd06875cd4ade6657d21a641c7cb80cb95344bf77de1ab311888f2",
+    "textLength": 8163,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/fa7a0c4d6dc8f1b2565d973efe4bbc4b419db65f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/fa7a0c4d6dc8f1b2565d973efe4bbc4b419db65f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-107574c5173ebf0e72",
+      "name": "虾子辣椒",
+      "scope": "虾子辣椒地理标志产品保护范围为贵州省遵义县南白镇、龙坑镇、三岔镇、苟江镇、三合镇、乌江镇、虾子镇、三渡镇、新舟镇、永乐镇、龙坪镇、喇叭镇、团溪镇、铁广镇、西坪镇、尚嵇镇、茅栗镇、新民镇、鸭溪镇、石板镇、乐山镇、枫香镇、泮水镇、马蹄镇、沙湾镇、松林镇、毛石镇、山盆镇、芝麻镇、平正仡佬族乡、洪关苗族乡等31个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "遵椒一、二、三号",
+      "sensory": "(1)遵椒一号:果为园锥型,果顶尖、钝,果面光滑、果长3至4cm,果宽2cm。青果绿色,老熟果深红色。辣椒干平均单果重1.2g。形状均匀,肉厚质细,果实味中等偏辣。(2)遵椒二号:果为指型,果顶尖,果面光滑、果长5至7cm,果宽1.7cm。青果绿色,老熟果深红色。辣椒干平均单果重1.1g。形状均匀,肉厚质细,果实味辣。(3)遵椒三号:果为樱桃型,果顶尖,果面光滑、果长2.3至3cm,果宽1.5cm。青果绿色,老熟果深红色。辣椒干平均单果重1g。形状均匀,肉厚质细,果实辣味适中",
+      "process": "",
+      "sectionSha256": "f4f8c620350ecf6d6fa4ad0069f2701af5d8a57d1750efee71a1c284baa2ea77"
+    }
+  ]
+}

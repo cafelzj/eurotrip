@@ -100,6 +100,706 @@ window.flavorImages={
         "notes": "金黄肉片和整盘主体清楚，黑色背景干净；不以照片证明地方配方。"
       },
       "changes": "原图按EXIF方向校正、等比例缩小并转为JPEG；网页列表按框裁切预览。"
+    },
+    "southwest-photo-3f6dc94a52fd9e": {
+      "file": "Dandan Noodles.jpg",
+      "src": "assets/photos/flavors/southwest-3f6dc94a52fd9e.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "担担面实拍",
+      "caption": "担担面实拍",
+      "author": "ZhengZhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dandan%20Noodles.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "面碗、肉臊与红油主体清楚，与原图担担面说明一致。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-6455047737ca87": {
+      "file": "Fuqi Fei Pian.jpg",
+      "src": "assets/photos/flavors/southwest-6455047737ca87.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "夫妻肺片实拍",
+      "caption": "夫妻肺片实拍",
+      "author": "No machine-readable author provided. Dice~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Fuqi%20Fei%20Pian.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "切片牛肉和牛杂的凉拌成品清楚，原图标明夫妻肺片。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-3a91c84ccff940": {
+      "file": "Red Oil Bobo-Chicken.jpg",
+      "src": "assets/photos/flavors/southwest-3a91c84ccff940.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "红油钵钵鸡实拍",
+      "caption": "红油钵钵鸡实拍",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Red%20Oil%20Bobo-Chicken.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "红油钵与串制食材清楚，属于钵钵鸡成品场景。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-70ebe1346373f9": {
+      "file": "5651760935285 .pic.jpg",
+      "src": "assets/photos/flavors/southwest-70ebe1346373f9.jpg",
+      "width": 720,
+      "height": 1280,
+      "kind": "food",
+      "alt": "宜宾燃面实拍",
+      "caption": "宜宾燃面实拍",
+      "author": "ZixuanHE",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:5651760935285%20.pic.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图说明明确标为宜宾燃面，保留其真实面碗外观；原图清晰度一般。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-29bddb746d02de": {
+      "file": "3x3 hot pot in Chongqing (20180217161707).jpg",
+      "src": "assets/photos/flavors/southwest-29bddb746d02de.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "重庆九宫格火锅实拍",
+      "caption": "重庆九宫格火锅实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:3x3%20hot%20pot%20in%20Chongqing%20%2820180217161707%29.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "九宫格锅与沸腾汤料清楚，原图说明拍摄于重庆。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-c5548dc8f63405": {
+      "file": "The Crimson Chongqing Noodles at Detective Conan Café Chongqing (20191224121602).jpg",
+      "src": "assets/photos/flavors/southwest-c5548dc8f63405.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "重庆小面实拍",
+      "caption": "重庆小面实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The%20Crimson%20Chongqing%20Noodles%20at%20Detective%20Conan%20Caf%C3%A9%20Chongqing%20%2820191224121602%29.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图说明为重庆餐厅的小面，面碗主体清楚；不由照片定义全部小面配方。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-363db1709fd691": {
+      "file": "Mao Xuewang 1.jpg",
+      "src": "assets/photos/flavors/southwest-363db1709fd691.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "毛血旺实拍",
+      "caption": "毛血旺实拍",
+      "author": "Alpha",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mao%20Xuewang%201.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "血旺与复合配菜在红汤中清楚可辨，原图题名明确。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-546181c3dd4ca6": {
+      "file": "Crossing the Bridge Rice Noodles at Jian Xin Yuan, Tangzixiang (20210321135908).jpg",
+      "src": "assets/photos/flavors/southwest-546181c3dd4ca6.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "过桥米线实拍",
+      "caption": "过桥米线实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Crossing%20the%20Bridge%20Rice%20Noodles%20at%20Jian%20Xin%20Yuan%2C%20Tangzixiang%20%2820210321135908%29.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "汤碗、米线与分碟配料清楚；照片拍摄地按原图记录，不宣称某家蒙自门店。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-08a8377842a9dc": {
+      "file": "Qi Guoji.jpg",
+      "src": "assets/photos/flavors/southwest-08a8377842a9dc.jpg",
+      "width": 960,
+      "height": 843,
+      "kind": "food",
+      "alt": "汽锅鸡实拍",
+      "caption": "汽锅鸡实拍",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Qi%20Guoji.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "汽锅中央汽柱、鸡块和汤汁清楚，主题为汽锅鸡。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-54e31df0dee154": {
+      "file": "丽江粑粑 Lijiang Ba Ba Bread with spring onion and egg - street vendor CNY4.jpg",
+      "src": "assets/photos/flavors/southwest-54e31df0dee154.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "丽江粑粑实拍",
+      "caption": "丽江粑粑实拍",
+      "author": "Alpha",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E7%B2%91%E7%B2%91%20Lijiang%20Ba%20Ba%20Bread%20with%20spring%20onion%20and%20egg%20-%20street%20vendor%20CNY4.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确为丽江粑粑；纠正搜索将它与喜洲粑粑混配的候选结果。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-098fb49e015975": {
+      "file": "丝娃娃 (28664736712).jpg",
+      "src": "assets/photos/flavors/southwest-098fb49e015975.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "丝娃娃配菜实拍",
+      "caption": "丝娃娃配菜实拍",
+      "author": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%9D%E5%A8%83%E5%A8%83%20%2828664736712%29.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图主题明确为丝娃娃，多种切丝配菜可见，按备餐场景采用。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-938aa4253f7aab": {
+      "file": "HK SKD TKO Tseung Kwan O 日出康城 the Lohas Park mall Foodville Store Luzhou Laojiao Chinese wine August 2022 Px3.jpg",
+      "src": "assets/photos/flavors/southwest-938aa4253f7aab.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "泸州老窖瓶装产品实拍",
+      "caption": "泸州老窖瓶装产品实拍",
+      "author": "LINAMWYZNAM Wangrim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HK%20SKD%20TKO%20Tseung%20Kwan%20O%20%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%20the%20Lohas%20Park%20mall%20Foodville%20Store%20Luzhou%20Laojiao%20Chinese%20wine%20August%202022%20Px3.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "瓶身及包装标识清楚，作为该品牌实物记录。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-3d171c1db5ea89": {
+      "file": "HK Wan Chai North 灣仔北 Grand Hyatt Hotel 保利集團 Poly Auction preview exhibits 拍賣 Moutai 貴州茅台酒 Maotai 大麯白酒 Sept 2017 IX1 07 label.jpg",
+      "src": "assets/photos/flavors/southwest-3d171c1db5ea89.jpg",
+      "width": 960,
+      "height": 641,
+      "kind": "food",
+      "alt": "贵州茅台酒瓶装产品实拍",
+      "caption": "贵州茅台酒瓶装产品实拍",
+      "author": "HunagnTwuai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:HK%20Wan%20Chai%20North%20%E7%81%A3%E4%BB%94%E5%8C%97%20Grand%20Hyatt%20Hotel%20%E4%BF%9D%E5%88%A9%E9%9B%86%E5%9C%98%20Poly%20Auction%20preview%20exhibits%20%E6%8B%8D%E8%B3%A3%20Moutai%20%E8%B2%B4%E5%B7%9E%E8%8C%85%E5%8F%B0%E9%85%92%20Maotai%20%E5%A4%A7%E9%BA%AF%E7%99%BD%E9%85%92%20Sept%202017%20IX1%2007%20label.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "瓶身茅台酒标识清楚，照片不作为酒龄或真伪鉴定依据。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-956fc8f57c2115": {
+      "file": "(24473506755)Xuanwei ham.jpg",
+      "src": "assets/photos/flavors/southwest-956fc8f57c2115.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "宣威火腿实拍",
+      "caption": "宣威火腿实拍",
+      "author": "Yun Huang Yong from Harbord, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%2824473506755%29Xuanwei%20ham.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "挂售的火腿主体清楚，原图说明明确为宣威火腿。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-6b0d36c79ca51c": {
+      "file": "Jianshui purple pottery - 45981422681.jpg",
+      "src": "assets/photos/flavors/southwest-6b0d36c79ca51c.jpg",
+      "width": 960,
+      "height": 540,
+      "kind": "craft",
+      "alt": "建水紫陶器物实拍",
+      "caption": "建水紫陶器物实拍",
+      "author": "Matthieu Lelievre",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jianshui%20purple%20pottery%20-%2045981422681.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "陶壶、陶瓶等器物形态清楚，来源明确为建水紫陶。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-698fc6561854bb": {
+      "file": "Shu brocade, Chengdu Museum.png",
+      "src": "assets/photos/flavors/southwest-698fc6561854bb.jpg",
+      "width": 500,
+      "height": 624,
+      "kind": "craft",
+      "alt": "蜀锦纹样实拍",
+      "caption": "蜀锦纹样实拍",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Shu%20brocade%2C%20Chengdu%20Museum.png",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图记录成都博物馆蜀锦展品，采用实际织物纹样影像，不生成或重绘纹样。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-986c4b1103c62c": {
+      "file": "Xizhou baba.jpg",
+      "src": "assets/photos/flavors/southwest-986c4b1103c62c.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "喜洲粑粑实拍",
+      "caption": "喜洲粑粑实拍",
+      "author": "Mx. Granger",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Xizhou%20baba.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "成品饼体与馅料清楚；原图说明及坐标明确为大理喜洲。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-1b7e243e8bab87": {
+      "file": "Monk churning butter tea.JPG",
+      "src": "assets/photos/flavors/southwest-1b7e243e8bab87.jpg",
+      "width": 573,
+      "height": 892,
+      "kind": "food",
+      "alt": "酥油茶制作实拍",
+      "caption": "酥油茶制作实拍",
+      "author": "John Hill (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Monk%20churning%20butter%20tea.JPG",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确为搅打酥油茶，采用真实制作场景，不冒充成品杯图。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-a3e116756c2b08": {
+      "file": "Tsampa cakes at Makye Ame Restaurant, Xining (20230925145812).jpg",
+      "src": "assets/photos/flavors/southwest-a3e116756c2b08.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "糌粑团实拍",
+      "caption": "糌粑团实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tsampa%20cakes%20at%20Makye%20Ame%20Restaurant%2C%20Xining%20%2820230925145812%29.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确为糌粑团，实体粮粉团主体清楚。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-957b1680c3e300": {
+      "file": "Juan-cheng Doubanjiang.jpg",
+      "src": "assets/photos/flavors/southwest-957b1680c3e300.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "郫县豆瓣瓶装产品实拍",
+      "caption": "郫县豆瓣瓶装产品实拍",
+      "author": "Zzzzzjessica",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Juan-cheng%20Doubanjiang.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "瓶装豆瓣和郫县豆瓣标签清楚，具体品牌与食品品类分开理解。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-3145c4655e1e85": {
+      "file": "普洱茶 - Pu-erh tea 八中茶.jpg",
+      "src": "assets/photos/flavors/southwest-3145c4655e1e85.jpg",
+      "width": 960,
+      "height": 595,
+      "kind": "food",
+      "alt": "普洱茶饼实拍",
+      "caption": "普洱茶饼实拍",
+      "author": "Ignat Gorazd",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%99%AE%E6%B4%B1%E8%8C%B6%20-%20Pu-erh%20tea%20%E5%85%AB%E4%B8%AD%E8%8C%B6.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "茶饼、压制形态与茶叶表面清楚，原图明确标为普洱茶。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-5d5367a9b7319b": {
+      "file": "先市酱油酿造作坊群.jpg",
+      "src": "assets/photos/flavors/southwest-5d5367a9b7319b.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "先市酱油酿造现场实拍",
+      "caption": "先市酱油酿造现场实拍",
+      "author": "Nekitarc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%85%88%E5%B8%82%E9%85%B1%E6%B2%B9%E9%85%BF%E9%80%A0%E4%BD%9C%E5%9D%8A%E7%BE%A4.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "酿造作坊与晒缸场景清楚，采用原图明确对应的生产场景。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-8e1a06f4f266ed": {
+      "file": "贵州修文猕猴桃.jpg",
+      "src": "assets/photos/flavors/southwest-8e1a06f4f266ed.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "贵州修文猕猴桃实拍",
+      "caption": "贵州修文猕猴桃实拍",
+      "author": "Walter Grassroot",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%B4%B5%E5%B7%9E%E4%BF%AE%E6%96%87%E7%8C%95%E7%8C%B4%E6%A1%83.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "果品主体清楚，原图题名明确记录修文产地。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-349808af964456": {
+      "file": "一款习酒.jpg",
+      "src": "assets/photos/flavors/southwest-349808af964456.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "习酒包装产品实拍",
+      "caption": "习酒包装产品实拍",
+      "author": "Lhzss8",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E6%AC%BE%E4%B9%A0%E9%85%92.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "产品包装与习酒标识清楚，按该品牌实物采用。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-d3365505e128f7": {
+      "file": "Mapo doufu by Chen Mapo Restaurant in Chengdu Sichuan（陳麻婆豆腐店の麻婆豆腐）.JPG",
+      "src": "assets/photos/flavors/southwest-d3365505e128f7.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "成都陈麻婆豆腐店的麻婆豆腐实拍",
+      "caption": "成都陈麻婆豆腐店的麻婆豆腐实拍",
+      "author": "Kos88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mapo%20doufu%20by%20Chen%20Mapo%20Restaurant%20in%20Chengdu%20Sichuan%EF%BC%88%E9%99%B3%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%E5%BA%97%E3%81%AE%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%EF%BC%89.JPG",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确记录成都店铺及菜品，豆腐与红油成品清楚；卡片仍为食品品类。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-013d1865433c64": {
+      "file": "成都小吃蛋烘糕.jpg",
+      "src": "assets/photos/flavors/southwest-013d1865433c64.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "成都蛋烘糕实拍",
+      "caption": "成都蛋烘糕实拍",
+      "author": "Sandykkzk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%88%90%E9%83%BD%E5%B0%8F%E5%90%83%E8%9B%8B%E7%83%98%E7%B3%95.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "烘糕表皮与内馅可见，原图记录成都小吃蛋烘糕。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-1d4c4a4a746709": {
+      "file": "Classic Wuliangye 20240504 002.jpg",
+      "src": "assets/photos/flavors/southwest-1d4c4a4a746709.jpg",
+      "width": 590,
+      "height": 1280,
+      "kind": "food",
+      "alt": "五粮液瓶装产品实拍",
+      "caption": "五粮液瓶装产品实拍",
+      "author": "毕明明",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Classic%20Wuliangye%2020240504%20002.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "瓶身五粮液标识清楚，不采用广告涂装飞机照片替代产品。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-7aad54095973c9": {
+      "file": "昆明青和小锅米线.jpg",
+      "src": "assets/photos/flavors/southwest-7aad54095973c9.jpg",
+      "width": 960,
+      "height": 683,
+      "kind": "food",
+      "alt": "昆明小锅米线实拍",
+      "caption": "昆明小锅米线实拍",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%98%86%E6%98%8E%E9%9D%92%E5%92%8C%E5%B0%8F%E9%94%85%E7%B1%B3%E7%BA%BF.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "面碗与汤料清楚，原图明确记录昆明小锅米线。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-2ba92822cef742": {
+      "file": "腾冲大救驾 - 2023-08-02.jpg",
+      "src": "assets/photos/flavors/southwest-2ba92822cef742.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "腾冲大救驾实拍",
+      "caption": "腾冲大救驾实拍",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%85%BE%E5%86%B2%E5%A4%A7%E6%95%91%E9%A9%BE%20-%202023-08-02.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "炒饵块成品主体清楚，原图题名直接对应腾冲大救驾。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-b54960ca2e9395": {
+      "file": "大理古城烧饵块.jpg",
+      "src": "assets/photos/flavors/southwest-b54960ca2e9395.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "大理烧饵块制作实拍",
+      "caption": "大理烧饵块制作实拍",
+      "author": "David Hall",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确为大理古城烧饵块，烘烤和加料场景可见。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-ad04d64f701fa7": {
+      "file": "大理古城烧饵块、烤乳扇.jpg",
+      "src": "assets/photos/flavors/southwest-ad04d64f701fa7.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "大理烤乳扇实拍",
+      "caption": "大理烤乳扇实拍",
+      "author": "David Hall",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图题名明确包含大理烤乳扇，照片可见摊位上的乳扇卷。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-2b9a1ffe5f7e50": {
+      "file": "德宏撒撇 - 2024-05-27.jpg",
+      "src": "assets/photos/flavors/southwest-2b9a1ffe5f7e50.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "德宏撒撇实拍",
+      "caption": "德宏撒撇实拍",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%BE%B7%E5%AE%8F%E6%92%92%E6%92%87%20-%202024-05-27.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "蘸料与米线等配食场景清楚，原图主题明确为德宏撒撇。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-5cd5d43ae48115": {
+      "file": "南明 水城羊肉粉.jpg",
+      "src": "assets/photos/flavors/southwest-5cd5d43ae48115.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "水城羊肉粉实拍",
+      "caption": "水城羊肉粉实拍",
+      "author": "Liuxingy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%98%8E%20%E6%B0%B4%E5%9F%8E%E7%BE%8A%E8%82%89%E7%B2%89.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确为水城羊肉粉，粉碗与肉食主体清楚；不宣称拍摄于六盘水指定门店。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-64aad36eeb0e9e": {
+      "file": "一瓶经典装董酒.jpg",
+      "src": "assets/photos/flavors/southwest-64aad36eeb0e9e.jpg",
+      "width": 525,
+      "height": 1280,
+      "kind": "food",
+      "alt": "董酒瓶装产品实拍",
+      "caption": "董酒瓶装产品实拍",
+      "author": "Lhzss8",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E7%93%B6%E7%BB%8F%E5%85%B8%E8%A3%85%E8%91%A3%E9%85%92.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "瓶身董酒标识清楚，排除同名生物等错误命中。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+    },
+    "southwest-photo-5d7f03d4e264d7": {
+      "file": "芒市腾冲饵丝 - 2025-05-13.jpg",
+      "src": "assets/photos/flavors/southwest-5d7f03d4e264d7.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "腾冲饵丝实拍",
+      "caption": "腾冲饵丝实拍",
+      "author": "瑞丽江的河水",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%8A%92%E5%B8%82%E8%85%BE%E5%86%B2%E9%A5%B5%E4%B8%9D%20-%202025-05-13.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图明确记录芒市的腾冲饵丝，食品身份与拍摄门店所在地分别保留。"
+      },
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
     }
   },
   "cards": {
@@ -111,6 +811,41 @@ window.flavorImages={
     "program-c8e15ee4f1bf5df8ad": "img-7715efa061dc",
     "js-squirrel-fish": "img-b959e2fa3b10",
     "program-e634bc45a2b277cec0": "img-53485896af6d",
-    "js-diguo-chicken": "img-8a86bd25d6a1"
+    "js-diguo-chicken": "img-8a86bd25d6a1",
+    "sw-4ebfc1c4d00ed8b24e": "southwest-photo-3f6dc94a52fd9e",
+    "sw-179b29d11ef791a354": "southwest-photo-6455047737ca87",
+    "sw-5b9a3319cf1aac3467": "southwest-photo-3a91c84ccff940",
+    "sw-511803876782791394": "southwest-photo-70ebe1346373f9",
+    "sw-7859652a9e92798d86": "southwest-photo-29bddb746d02de",
+    "sw-cb3fb902cc7328ea03": "southwest-photo-c5548dc8f63405",
+    "sw-dd904ecf8f23f3fcad": "southwest-photo-363db1709fd691",
+    "sw-938074ef580bc4bde6": "southwest-photo-546181c3dd4ca6",
+    "sw-c1bfb97ed78b3f3eba": "southwest-photo-08a8377842a9dc",
+    "sw-2dadb1dbbb8f0b58c4": "southwest-photo-54e31df0dee154",
+    "sw-f890e3abd057cef097": "southwest-photo-098fb49e015975",
+    "sw-68d75154d69f2accfe": "southwest-photo-938aa4253f7aab",
+    "sw-457a62b7e55698bf1a": "southwest-photo-3d171c1db5ea89",
+    "sw-a74b815823a4318e34": "southwest-photo-956fc8f57c2115",
+    "sw-7ffc0994b6e597f255": "southwest-photo-6b0d36c79ca51c",
+    "sw-4024900ff82cfa2fea": "southwest-photo-698fc6561854bb",
+    "sw-efcdd041ce66e8dd47": "southwest-photo-986c4b1103c62c",
+    "sw-4de0111462f3e154ff": "southwest-photo-1b7e243e8bab87",
+    "sw-1fbe8629d0d846252d": "southwest-photo-a3e116756c2b08",
+    "sw-0d6da9a7de9070ecb3": "southwest-photo-957b1680c3e300",
+    "sw-3648dfb11173174a59": "southwest-photo-3145c4655e1e85",
+    "sw-54044992d849a06f14": "southwest-photo-5d5367a9b7319b",
+    "sw-c1042a8111823bc309": "southwest-photo-8e1a06f4f266ed",
+    "sw-e5f2b87576206ed7fe": "southwest-photo-349808af964456",
+    "sw-c5c830f7cf5084abd1": "southwest-photo-d3365505e128f7",
+    "sw-492891b7b966cf5870": "southwest-photo-013d1865433c64",
+    "sw-704e7e23aebff5904c": "southwest-photo-1d4c4a4a746709",
+    "sw-ba4accee3eb9320f15": "southwest-photo-7aad54095973c9",
+    "sw-acd0aec8616bc41ca6": "southwest-photo-2ba92822cef742",
+    "sw-8862ea4865172edb40": "southwest-photo-b54960ca2e9395",
+    "sw-25f5dd5b14e508a033": "southwest-photo-ad04d64f701fa7",
+    "sw-0d0c8e1cf3d3dc23e4": "southwest-photo-2b9a1ffe5f7e50",
+    "sw-8876c552bbe1e474c7": "southwest-photo-5cd5d43ae48115",
+    "sw-717127cb06deefa1d2": "southwest-photo-64aad36eeb0e9e",
+    "sw-23d3575fd32e1f29c0": "southwest-photo-5d7f03d4e264d7"
   }
 };

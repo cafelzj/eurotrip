@@ -1,0 +1,28 @@
+{
+  "id": "sw-source-f2fbf9c1bbaef640",
+  "title": "新希望乳业股份有限公司2025年年度报告全文",
+  "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-23/f036ff8f-5983-4449-ae47-ddb5e4abccbf.PDF",
+  "read": true,
+  "readMethod": "pdftotext-original-response",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/f2fbf9c1bbaef640.raw",
+  "originalResponseSha256": "5b1a27b2bc5297f992e0197209ad8ceeb1ad7623cd22f372dc2d594cfd968a97",
+  "readableFile": "research/.local/southwest-20261115/articles/f2fbf9c1bbaef640.txt",
+  "readableSha256": "4eeba819f9a7c567a312b27febb8dcf276fd00ba7d8497fdd175aeaf1464cd3a",
+  "items": [
+    {
+      "itemId": "sw-498888922fd3379787",
+      "name": "新希望乳业",
+      "initialCandidateId": "memory-2c9856fd1bf863",
+      "adoptedFacts": "新希望乳业与成都相连，2025年年度报告记载公司注册及办公地址位于成都市锦江区。集团包含多地乳品企业与品牌，卡片记录公司与地方乳业的联系，奶源、工厂和具体产品分别保留。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-e5b929d595fb636f3d",
+      "name": "蝶泉牛奶",
+      "initialCandidateId": "memory-711a2bf5e0c04d",
+      "adoptedFacts": "蝶泉牛奶与大理地方乳业相连。新希望乳业2025年年度报告列有云南新希望邓川蝶泉乳业有限公司，并记载在大理的乳品生产和销售业务。品牌、公司主体、具体奶源和生产厂分别看待。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

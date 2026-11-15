@@ -1,0 +1,63 @@
+{
+  "id": "sw-gi-1fc43bdd432b8d60",
+  "title": "地理标志产品公告 · 2012年第192号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC192%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "1fc43bdd432b8d60c8aaa50f2c130bf2417d4dd4",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第192号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC192%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5ac449e831d6b96fb04cc029002fe0f54f9c76882d37bbba45b77aa1bfcde880",
+    "textSha256": "56bfc89f367d1be59a8d3cac7cfdb477d5588bc3d8a17497dab2fd61569b5f47",
+    "textLength": 9497,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/1fc43bdd432b8d60c8aaa50f2c130bf2417d4dd4.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/1fc43bdd432b8d60c8aaa50f2c130bf2417d4dd4.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-036184ea533d7eca70",
+      "name": "王泗白酒",
+      "scope": "王泗白酒产地范围为四川省大邑县王泗镇、晋原镇、安仁镇、悦来镇、董场镇、苏场镇、韩场镇、沙渠镇、三岔镇、上安镇、蔡场镇、青霞镇、新场镇13个乡镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "无色或微黄,清亮透明,无悬浮物,无沉淀。具有浓郁的己酸乙酯为主体的复合香气,酒体醇和谐调,绵甜淡雅,余味悠长,具有本品典型的风格",
+      "process": "",
+      "sectionSha256": "2485490184a3aae124adb2014bc05edf771be155fa3a79557381230ada650a0b"
+    },
+    {
+      "itemId": "sw-a38fdd56b6bcb3b8b2",
+      "name": "九龙花椒",
+      "scope": "九龙花椒产地范围为四川省九龙县呷尔镇、汤古乡、乃渠乡、乌拉溪乡、踏卡乡、斜卡乡、烟袋乡、子耳乡、三垭乡、俄尔乡、三岩龙乡、八窝龙乡、上团乡、小金乡、朵洛乡、魁多乡、湾坝乡、洪坝乡18个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "九龙花椒紫红色,颗粒硕大饱满、具有麻香浓郁,味道纯正的特点,果皮千粒重10g至13g",
+      "process": "",
+      "sectionSha256": "0d7af4374ad3f729b8f6782c492cf4b1326e0b3885bb31bba4053eb0de919ac7"
+    },
+    {
+      "itemId": "sw-88c44dfaece909e3d0",
+      "name": "邛酒",
+      "scope": "邛酒产地范围为四川省邛崃市临邛镇、卧龙镇、宝林镇、桑园镇、固驿镇、前进镇、高埂镇、平乐镇8个乡镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "项目高度酒41%vol~68%vol低度酒38%vol~40%vol色泽和外无色或微黄,清澈透明,无悬浮物,无沉淀观具有幽雅的以己酸乙酯为主体具有幽雅的以己酸乙酯为主体香气的复合香气的复合香气酒体醇厚饱满,绵甜柔和,酒酒体醇和丰满,绵甜柔顺,酒口味味全面,余味爽净味全面,余味爽净风格具有本品典型的风格具有本品典型的风格",
+      "process": "",
+      "sectionSha256": "9cfa80f5b3ba1fdda2efafb5f349968865f70ca53590f97927eff7baa0e40784"
+    },
+    {
+      "itemId": "sw-85662d594cbd2e7b57",
+      "name": "唐场豆腐乳",
+      "scope": "唐场豆腐乳产地范围为四川省大邑县安仁镇、王泗镇、晋原镇、悦来镇、董场镇、苏场镇、韩场镇、沙渠镇、上安镇、新场镇、三岔镇、蔡场镇12个乡镇现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "质地细腻、块型整齐、厚薄均匀,表面呈鲜红色或枣红色,断面呈杏黄色或酱褐色。香辣适口、滋味鲜美、余味绵长、具有特有的酱香",
+      "process": "",
+      "sectionSha256": "c8ad9ebd97b3e3e5e5246b498cb3b5470b340bfa05cbd19c8dd075bbbcacde4a"
+    }
+  ]
+}

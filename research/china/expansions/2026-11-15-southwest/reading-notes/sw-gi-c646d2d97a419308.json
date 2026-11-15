@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-c646d2d97a419308",
+  "title": "地理标志产品公告 · 2018年第277号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c646d2d97a419308aef1fede011a207319a1b9f8",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2018年第277号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5fe90f57ed12b0d062ab02f531571e38f567c23b2839eb5e582ec0f86a5c624d",
+    "textSha256": "fd4509f923cdb5f334ec0fbd5513b90342b96006d28763b14d98afe18992f6ae",
+    "textLength": 24607,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c646d2d97a419308aef1fede011a207319a1b9f8.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c646d2d97a419308aef1fede011a207319a1b9f8.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f9b8f1e02cd1a2691d",
+      "name": "回龙藠头",
+      "scope": "回龙藠头产地范围为贵州省兴仁县回龙镇、马马崖镇、波阳镇、大山镇、巴铃镇、屯脚镇、百德镇共7个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "大叶藠",
+      "sensory": "鳞茎呈圆头形,肉质肥厚稚嫩,剥皮后洁白晶莹,鳞片包裹紧密,鳞片上具有多条平行筋脉;甜酸味:甜、酸味适中,无异味;汤汁清亮、无杂质;香辣味:油质清澈透明,具有固有的香辣气味和滋味",
+      "process": "1.主要辅料:当地青花椒、小黄姜、线椒,清洗后无异味。2.生产用水:产地范围地下水与山泉水,水质符合国家生活饮用水相关规定。3.加工工艺:(1)藠头(甜酸味):鲜藠头→清洗→腌制发酵→修剪切片→去皮→脱盐清洗→加辅料二次发酵→杀菌→包装。(2)藠头(香辣味):鲜藠头→清洗→腌制发酵→修剪切片→去皮→脱盐清洗→加辅料炒制→杀菌→包装。4.加工要点:(1)鲜藠头:选用肉质肥嫩的本地大叶藠。(2)清洗:采收的鲜藠头须在8h内筛选清洗,剪掉须根,切头去尾,然后用清水清洗,清洗凉干后即时装坛腌制。(3)腌制发酵:腌制用水为当地岩溶洞水(软水),腌制盐度至15.0%",
+      "sectionSha256": "3f3c72eab6e68c97d0e43706792d48bb74f45e36689fbe9649baa90bec8633e5"
+    },
+    {
+      "itemId": "sw-0c696e22a3e365a88b",
+      "name": "阿藏李子",
+      "scope": "阿藏李子产地范围为贵州省兴仁县城北街道、真武山街道、城南街道、东湖街道、巴铃镇、大山镇、百德镇、马马崖镇、波阳镇、鲁础营乡共10个乡镇街道现辖行政区域",
+      "type": "ingredients",
+      "variety": "当地原产冰脆李品种",
+      "sensory": "果实呈卵圆形,大小适中,果尖突出,缝合线较明显;成熟时色泽青黄或金黄,内腹空心,空腔内有结晶状的油脂,核肉分离;皮薄肉脆,果香味浓、多汁、酥脆甘甜",
+      "process": "",
+      "sectionSha256": "b37ed766a0e47b601218956ece462766b9027007ee7dc17031449f7d07aec907"
+    }
+  ]
+}

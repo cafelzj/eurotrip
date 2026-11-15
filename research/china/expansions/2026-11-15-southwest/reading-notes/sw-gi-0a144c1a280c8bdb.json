@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-0a144c1a280c8bdb",
+  "title": "地理标志产品公告 · 2011年第94号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0a144c1a280c8bdb6b0914e687f68a90d452203e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第94号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC94%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "4188fc0af812aadd7341b70a567bf797ef57b53020b03d8d1e422ed1d3c9a74a",
+    "textSha256": "21120b55bc3f653663761b511d210c22e2f28cba2b567a6d4310b1f1a0a27f51",
+    "textLength": 6352,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0a144c1a280c8bdb6b0914e687f68a90d452203e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0a144c1a280c8bdb6b0914e687f68a90d452203e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-dc4c4a78479556f82d",
+      "name": "黄龙贡米",
+      "scope": "黄龙贡米产地范围为四川省岳池县黄龙乡现辖行政区域。",
+      "type": "ingredients",
+      "variety": "选择适应当地生态条件的经国、省审定的中熟籼稻品种",
+      "sensory": "米粒椭圆,表面光滑,呈半透明,色泽晶莹,细腻油亮。米饭膨胀性强,米不断腰,香气浓郁,粘度适中,油性适度,滑润爽口",
+      "process": "",
+      "sectionSha256": "cceb2a8f57fa3673057717ecd92fba29a152c155026437823662895175f21c9d"
+    },
+    {
+      "itemId": "sw-863daaffbda222eddd",
+      "name": "巴山土鸡",
+      "scope": "巴山土鸡产地范围为四川省巴中市巴州区、南江县、通江县、平昌县等4个区县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "选用当地土鸡",
+      "sensory": "(1)活鸡:青灰脚。(2)白条鸡:青灰脚,皮肤呈灰白或灰黄",
+      "process": "",
+      "sectionSha256": "698f74c58097d6ac423199acb42dabe71ebd86331ec39474ce29d2b85ffa12bd"
+    }
+  ]
+}

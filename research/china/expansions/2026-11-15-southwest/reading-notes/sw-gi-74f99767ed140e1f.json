@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-74f99767ed140e1f",
+  "title": "地理标志产品公告 · 2011年第14号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "74f99767ed140e1f77c488b3fbcfa2ecc0a31b5a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第14号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b46cd7fc85f7b781e043aed36b87a985949a366a1c99876e0b8340bb740ea0d6",
+    "textSha256": "804db2defc3879578e96cdb30abd63d7e79ff4987a53722e3c4272615dc31f07",
+    "textLength": 7239,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/74f99767ed140e1f77c488b3fbcfa2ecc0a31b5a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/74f99767ed140e1f77c488b3fbcfa2ecc0a31b5a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-050cafbafb3d52a5ee",
+      "name": "简阳羊肉",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "保护区域内的地方品种山羊",
+      "sensory": "肉质鲜嫩、肥瘦相间、膻味小,熟肉具有清香之味",
+      "process": "",
+      "sectionSha256": "40a1ceadfb17b4abeffb150eba1c397c189856e0b343199ffc5c4abb18ee5e35"
+    }
+  ]
+}

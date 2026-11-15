@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-15",
+  "provinceIds": [
+    "sichuan",
+    "chongqing",
+    "yunnan",
+    "guizhou"
+  ],
+  "minimumNewItems": 1001,
+  "sourceWorkflow": "sealed-independent-knowledge_then_external-search-and-originals_then_cross-review-and-adoption",
+  "imageGoal": "near-100-percent-of-this-batch",
+  "imageRule": "only-corresponding-real-photographs",
+  "missingImagePolicy": "retain-pending-no-generic-or-generated-illustrations",
+  "scopeConfirmedByUser": "本轮四地卡片；只使用对应实拍，缺图待补"
+}

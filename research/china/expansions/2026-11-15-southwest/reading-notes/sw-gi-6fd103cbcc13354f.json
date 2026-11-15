@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-6fd103cbcc13354f",
+  "title": "地理标志产品公告 · 2007年第203号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC203%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "6fd103cbcc13354f77ad80f89dc11e368aecae70",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2007年第203号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC203%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "ef12be83dc1cabb397feb5d61f47c2699c02f0cb5cb8d4b117619da5f4189df5",
+    "textSha256": "1f5aeac4573dc3c4e9737f4d4c66aeb8ec28d628134a0d844782336bdf8eba8c",
+    "textLength": 2393,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/6fd103cbcc13354f77ad80f89dc11e368aecae70.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/6fd103cbcc13354f77ad80f89dc11e368aecae70.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-829e557f487cf2f28e",
+      "name": "双流枇杷",
+      "scope": "双流枇杷地理标志产品保护范围以四川省双流县人民政府《关于双流枇杷地理标志产品保护区域图的报告》(双府函[2007]110号)提出的范围为准,为四川省成都市双流县合江镇、永兴镇、兴隆镇、三星镇、太平镇、白沙镇、新兴镇、万安镇、正兴镇、煎茶镇、籍田镇、大林镇、永安镇、黄龙溪镇等14个镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "大五星、早钟六号",
+      "sensory": "果皮果肉项目基本特征果形果实大小颜色颜色果实萼孔开张,呈特大型果≥60克/个,大五角星形,果实整齐端正、具有本大型果50~60克/个,大五星橙红色橙红色个大,果形圆形或品种特征,无畸形中型果40~50克/个,卵圆形。小型果30~40克/个。果实萼孔闭合,果特大型果≥60克/个,整齐端正、具有本早钟六号实个大,果形倒卵橙红色橙红色大型果50~60克/个,品种特征,无畸形圆形或者纺锤形。中型果40~50克/个,小型果30~40克/个",
+      "process": "",
+      "sectionSha256": "7ff8c072e6a57e6651a47c14ecb0ce6a5b7e6b1b177cba101e092f54a57914ac"
+    }
+  ]
+}

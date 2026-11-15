@@ -1,0 +1,73 @@
+{
+  "id": "sw-gi-ae2887337cef981b",
+  "title": "地理标志产品公告 · 2013年第167号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC167%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ae2887337cef981b0e4fd6ff65a325757365cd54",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第167号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC167%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "02039fde08af7004ec132272607798976f23b67108b3ccd029b33dd6894ca31c",
+    "textSha256": "a7af3d318f71e4a8798efdee2ae1f5f2ce54d9df72a745d98d5a2e82e7be30ab",
+    "textLength": 13079,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ae2887337cef981b0e4fd6ff65a325757365cd54.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ae2887337cef981b0e4fd6ff65a325757365cd54.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-ee1bd396ed83eb69bb",
+      "name": "罗甸火龙果",
+      "scope": "罗甸火龙果产地范围为贵州省罗甸县龙坪镇、逢亭镇、沫阳镇、茂井镇、罗悃镇、红水河镇、板庚乡、八总乡、董当乡、凤亭乡、大亭乡、班仁乡、罗苏乡、罗幕乡、沟亭乡、罗妥乡共16个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "大小适中,颜色鲜红,汁多味浓不粘手",
+      "process": "",
+      "sectionSha256": "bdb097bd158566a5077cefaca5c12753db87783eed415655cd0bebd7db0ed971"
+    },
+    {
+      "itemId": "sw-42cad26575eec26e98",
+      "name": "兴仁薏仁米(兴仁苡仁米)",
+      "scope": "兴仁薏仁米(兴仁苡仁米)产地范围为贵州省黔西南州兴义市、兴仁县、安龙县、贞丰县、普安县、晴隆县、册亨县、望谟县8个县市现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "外观饱满,颗粒匀称,表面光滑,色灰白,腹沟适中",
+      "process": "",
+      "sectionSha256": "d4aff72aaa33f766917116d2d9274dd88efb32dfb72be3fb2d1fe377461a733c"
+    },
+    {
+      "itemId": "sw-1dadc610d717b2dd3a",
+      "name": "开阳富硒茶",
+      "scope": "开阳富硒茶产地范围为贵州省开阳县现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形匀齐,色泽绿润,香气纯正,滋味鲜醇,汤色绿亮,叶底匀整",
+      "process": "",
+      "sectionSha256": "d9550cb8b57b407fa9db52b8b628cfde6f7241e8160b0858559d3062ba090b61"
+    },
+    {
+      "itemId": "sw-c5db9458be3396142e",
+      "name": "凯里红酸汤",
+      "scope": "凯里红酸汤产地范围为贵州省凯里市炉山镇、万潮镇、龙场镇、湾水镇、旁海镇、三棵树镇、舟溪镇、大风洞乡、凯棠乡、大十字街道、洗马河街道、城西街道、西门街道、湾溪街道、鸭塘街道、开怀街道、凯里经济开发区(东区)和凯里经济开发区共18个乡镇街道开发区现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "项目要求色泽产品呈鲜红或有白、黄色颗粒组织形态产品呈半固态状,酱体均匀、细腻,粘稠适度气味无异味、无哈刺味滋味具本品固有的鲜香和辛辣味,酸咸适中杂质无肉眼可见外来杂质",
+      "process": "",
+      "sectionSha256": "842c90f99842d691907d8067c648ba94defb41db70255552f221b382e51fc00e"
+    },
+    {
+      "itemId": "sw-9ff25e5f1f371a2c77",
+      "name": "独山盐酸菜",
+      "scope": "独山盐酸菜产地范围为贵州省独山县城关镇、麻万镇、兔场镇、基长镇、上司镇、下司镇、麻尾镇、甲里镇、尧梭乡、羊凤乡、打羊乡、本寨乡、水岩乡、黄后乡、董领乡、甲定乡、翁台乡、尧棒乡共18个乡镇现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "项目要求色泽具有产品固有色泽酸甜爽口,咸辣适中,具有独山盐酸菜独特香气和滋味,滋味气味无不良气味组织形态块型大小适中,无杂质质地脆、嫩",
+      "process": "",
+      "sectionSha256": "578af695b04bb6a220542af926df9b3b0a4c017dad4f001a1d80f97a4e763010"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-9b85d830f8c4d59b",
+  "title": "地理标志产品公告 · 2013年第134号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "9b85d830f8c4d59b3bf28b902088f3b2c2c7955d",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第134号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC134%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c953cd4e8eb9212898c1004a0392872669a6fa5fc0fa3d5b3f40c5eb6bbc5486",
+    "textSha256": "898d9b7578e8bb802fb299d2f26ea42cca3f30c28f2b8ed0b964c41f1fba17e3",
+    "textLength": 7446,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/9b85d830f8c4d59b3bf28b902088f3b2c2c7955d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/9b85d830f8c4d59b3bf28b902088f3b2c2c7955d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-390e9fde79a3c20896",
+      "name": "邻水脐橙",
+      "scope": "邻水脐橙产地范围为四川省邻水县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实扁圆形或椭圆形,果皮薄,橙黄色或橙红色,光洁度高,香气浓郁;果肉黄色,细嫩化渣,风味较浓;口感酸甜适度",
+      "process": "",
+      "sectionSha256": "004cf2390aeb463c48e7cb51914b1b6adf5ef4a32d748e0f2489854c1174e51f"
+    },
+    {
+      "itemId": "sw-b0e921840efe653749",
+      "name": "攀枝花块菌",
+      "scope": "攀枝花块菌产地范围为四川省攀枝花市现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)鲜品:外形奇特,直径3cm至8cm,子囊果呈不规则球形,椭圆形,表面有明显的如桑椹状的突疣,有明显大理石纹理,并带有块菌特殊浓郁芳香。(2)干片:呈棕褐色,切面质地细腻,有光泽,有明显大理石纹理",
+      "process": "",
+      "sectionSha256": "4fce5bbe475310f99bd71564464af4585223e2abb6c9414122b296e2b78ed3e4"
+    },
+    {
+      "itemId": "sw-c16115aa888203a9e9",
+      "name": "蓬溪青花椒",
+      "scope": "蓬溪青花椒产地范围为四川省蓬溪县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实颜色碧绿,果粒圆大均匀,果皮肉厚表面油囊密生,油腔多而密,内果皮光滑,薄革质,多数与果肉分离而卷曲;香气浓郁持久,麻味纯正。自然脱籽率≥85%",
+      "process": "",
+      "sectionSha256": "9f4fdde95b9647b3d504cb31d0606dc39c6d13524f5b41ff7fdf39e4d8b41a36"
+    }
+  ]
+}

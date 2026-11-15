@@ -1,0 +1,103 @@
+{
+  "id": "sw-gi-69ca291062d41a08",
+  "title": "地理标志产品公告 · 2015年第74号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "69ca291062d41a082faba36b0b9cbc13fded31ab",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第74号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2a9ef9a717a6499ed30aecb541307e08d7c81b24c2cdd4a91047e899a7a72760",
+    "textSha256": "e4c7762cc24cb576f8291949f101cb5670445d8e30eb8f48c526116d07b9c0aa",
+    "textLength": 26683,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/69ca291062d41a082faba36b0b9cbc13fded31ab.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/69ca291062d41a082faba36b0b9cbc13fded31ab.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-cbec0b71329050b133",
+      "name": "天宝蜜柚",
+      "scope": "天宝蜜柚产地范围为四川省梓潼县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实为椭圆形,皮色呈黄色,表面油胞细腻、平滑亮净、气味芳香。果肉白色或红色,无核或少核,味浓,酸甜适度,耐贮藏",
+      "process": "",
+      "sectionSha256": "40239a78fa9ecefc35a1e712aa7a29787a7ea19b89d83500a4b542283c1c6e65"
+    },
+    {
+      "itemId": "sw-1a46b988ee30d22396",
+      "name": "宣汉牛肉",
+      "scope": "宣汉牛肉产地范围为四川省宣汉县现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "脂肪含量少,有嚼劲,香味醇厚",
+      "process": "",
+      "sectionSha256": "a706af7823857165a16c428ce36c10b3e4a29445df8858a4ad508e8a3d5ee507"
+    },
+    {
+      "itemId": "sw-55bd6fbefaaec658d8",
+      "name": "镇龙山瓦灰鸡",
+      "scope": "镇龙山瓦灰鸡产地范围为四川省平昌县镇龙镇、元山镇、灵山乡、笔山镇、泥龙乡、岩口乡、驷马镇、双鹿乡、土兴乡共9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "活体鸡体型外貌符合品种特征,胴体皮微灰,肌肉结实,肉质细嫩,脂肪含量少,骨骼细小",
+      "process": "",
+      "sectionSha256": "1eb88c304501a4080099adbcd29ba141e46bb6d907a0d342e94c3f6a419cfc43"
+    },
+    {
+      "itemId": "sw-7536e4c2e9e2dbf08d",
+      "name": "峨眉山矿泉水",
+      "scope": "峨眉山矿泉水产地范围为四川省峨眉山市绥山镇、符溪镇、胜利镇、双福镇、桂花桥镇、九里镇、罗目镇、乐都镇、高桥镇、峨山镇、龙池镇、大为镇、沙溪乡、川主乡、龙门乡、普兴乡、新平乡、黄湾乡共18个乡镇现辖行政区域。",
+      "type": "drinks",
+      "variety": "",
+      "sensory": "无色、无臭、无味、无沉淀,清凉爽口、回口甘甜、口感上佳",
+      "process": "",
+      "sectionSha256": "4fe86884018eef7d826ed643a2cf81788009445ef493f545ab55437d56f63a44"
+    },
+    {
+      "itemId": "sw-68cb46629035d00163",
+      "name": "建昌板鸭",
+      "scope": "建昌板鸭产地范围为四川省德昌县德州镇、永郎镇、乐跃镇、麻栗镇、阿月乡、小高乡、锦川乡、老碾乡、王所乡、六所乡、巴洞乡、宽裕乡、茨达乡共13个乡镇现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "外形饱满、体干皮亮、切开呈玫瑰红色。肉质细嫩、紧实,有嚼劲",
+      "process": "",
+      "sectionSha256": "241b9e59c514e56bd0a9ccee0d0ae7a71cf2ff309a97ab8c120bbdc2da587c19"
+    },
+    {
+      "itemId": "sw-ca0184362d97bd7a41",
+      "name": "文宫枇杷",
+      "scope": "文宫枇杷产地范围为四川省仁寿县文宫镇、高家镇、大化镇、黑龙滩镇、宝马镇、观寺镇、板燕乡、鳌陵乡、古佛乡共9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果面色泽呈橙黄色,果大、色艳、多汁、味甜,皮薄易剥离",
+      "process": "",
+      "sectionSha256": "86a92fb9228fab0a381cbeb1c63dba7eaaf0706ab3e51a0ea909705876f40a16"
+    },
+    {
+      "itemId": "sw-3d82d6138d3e50c6ce",
+      "name": "安居黄金梨",
+      "scope": "安居黄金梨产地范围为四川省遂宁市安居区常理镇、观音镇、横山镇、白马镇、步云乡、莲花乡、拦江镇、中兴镇、保石镇、分水镇、东禅镇、石洞镇、安居镇、会龙镇、聚贤镇、玉丰镇、三家镇、西眉镇、马家乡、大安乡、磨溪镇共21个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果形端正近圆形,皮薄,表皮呈金黄色;果肉细嫩,汁多、味甜,果核小",
+      "process": "",
+      "sectionSha256": "2773e718a5ff11a85d771fd222451bfc7af0fa7b38cb3da3a91800626c0729ed"
+    },
+    {
+      "itemId": "sw-c5fa1a5ee2c0ddb7f4",
+      "name": "昌宁红茶",
+      "scope": "昌宁红茶产地范围为云南省昌宁县田园镇、漭水镇、大田坝乡、柯街镇、更戛乡、勐统镇、温泉乡、鸡飞乡、翁堵乡、耈街乡共10个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形油润显金毫,条索肥硕紧结多锋苗,香气蜜香浓郁,滋味醇和回甘,汤色红艳明亮,叶底肥嫩多芽,红匀明亮",
+      "process": "",
+      "sectionSha256": "65b7dfdbae5a3db68603c514fd90abddf0fc91820fefe3cc818691310a5b98cf"
+    }
+  ]
+}

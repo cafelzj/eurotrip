@@ -1,0 +1,35 @@
+{
+  "id": "sw-source-7ad72628b506186b",
+  "title": "〖商务信息〗来南博会，一次性领略各州市的风采！",
+  "url": "https://swt.yn.gov.cn/swxx/202308/t20230819_1975541.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/7ad72628b506186b.raw",
+  "originalResponseSha256": "e7a91bed9da20b247c83e042edd37f856d0610f47500ee89be04ba2038d36d17",
+  "readableFile": "research/.local/southwest-20261115/articles/7ad72628b506186b.txt",
+  "readableSha256": "225080fc3249054bf0ab5aa5d5d7bca898e4c2030777ca3523c40c88d2737aad",
+  "items": [
+    {
+      "itemId": "sw-1896e50472ba20e916",
+      "name": "鹤庆乾酒",
+      "initialCandidateId": "memory-3ab418efba7b68",
+      "adoptedFacts": "鹤庆乾酒属于大理鹤庆地方酒，云南商务部门的南博会大理展区介绍有明确记录。这里以大理作为地域归属，酒品、品牌与不同酒款分别看待。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-d1665e12fd7feb92d3",
+      "name": "普洱咖啡",
+      "initialCandidateId": "memory-6c523f8fe65ef4",
+      "adoptedFacts": "普洱咖啡在云南商务部门的普洱展区介绍中有明确记录，体现当地咖啡种植与加工产业的地方身份。咖啡豆、烘焙品和成品饮料分别整理，风味与品牌按具体产品补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-b384ddac0cb9c36d3b",
+      "name": "永平黄焖鸡",
+      "initialCandidateId": "memory-832edb77ad303d",
+      "adoptedFacts": "永平黄焖鸡在云南商务部门的大理展区介绍中有明确记录，属于地方鸡肉餐食。食品与餐馆品牌分别保留，具体调味和焖制过程继续据专题核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-356540a7da97312a",
+  "title": "〖攀枝花〗滋味盐边 多彩非遗好韵味_四川统一战线_各地统战工作_攀枝花",
+  "url": "https://www.sctyzx.gov.cn/pzh/202507/54316814.html",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/356540a7da97312a.raw",
+  "originalResponseSha256": "7e7d306577fd2c466fd299c3e852f02c8f96a6e35f4fc72adb7b32fe09466516",
+  "readableFile": "research/.local/southwest-20261115/articles/356540a7da97312a.txt",
+  "readableSha256": "badd88dd3e0a7b246b34ba8c67dfa4fc8b7cd7f1ea1cbc495ac165dda22e04c0",
+  "items": [
+    {
+      "itemId": "sw-736adf896c4fc3febb",
+      "name": "盐边羊肉米线",
+      "initialCandidateId": "memory-a243488c2dd0c3",
+      "adoptedFacts": "盐边羊肉米线与攀枝花盐边的地方饮食相连。地方非遗介绍把它与国胜茶、盐边油底肉等共同列为当地特色，米线餐食与羊肉原料、经营门店分别记录。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

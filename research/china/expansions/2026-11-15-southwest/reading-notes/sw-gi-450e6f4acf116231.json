@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-450e6f4acf116231",
+  "title": "地理标志产品公告 · 2006年第10号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC10%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "450e6f4acf11623163d5d1a43139dc5e1a3354bd",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第10号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC10%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "19e40ec9e4a680427a1ba3ceee24a983effb03f479a5ded1ff5aac6dd815453b",
+    "textSha256": "2e720b6387f3d621aa212b8c9c2b6379486ace54b7af39a4f447e2ffac58d929",
+    "textLength": 1054,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/450e6f4acf11623163d5d1a43139dc5e1a3354bd.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/450e6f4acf11623163d5d1a43139dc5e1a3354bd.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-2b433f2234609f73d9",
+      "name": "凤冈富锌富硒茶",
+      "scope": "凤冈富锌富硒茶产品地理标志产地保护范围以贵州省凤冈县人民政府《关于界定凤冈富锌富硒茶地理标志产品保护范围的函》(凤府函[2005]366号)提出的地域范围为准,为贵州省凤冈县现辖行政区域",
+      "type": "tea",
+      "variety": "",
+      "sensory": "芽叶完整、条索匀整、色泽嫩绿、香高味浓、浓而不苦、青而不涩、鲜而不淡、醇厚回甜、耐冲泡",
+      "process": "工艺流程:鲜叶摊放→杀青→做形→烘(炒)坯→造形→足干(提)香→精选→成品",
+      "sectionSha256": "e3a683a13cb9b564c2fca221da9332b15f82bf976cb43a70652b5d7ada47abd3"
+    }
+  ]
+}

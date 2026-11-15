@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-2fa1b4b1fde13522",
+  "title": "地理标志产品公告 · 2017年第117号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "2fa1b4b1fde13522b7539d09335293d43f5858ec",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2017年第117号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6f5887093bce90214637fb8bf2cec14f44acdcd64dece408d1d9b15d54135767",
+    "textSha256": "e0d6f150928be5ef4ea63b66f4df4f4c0e6db91b3d05948d2ca41cb5ec852e98",
+    "textLength": 44734,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/2fa1b4b1fde13522b7539d09335293d43f5858ec.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/2fa1b4b1fde13522b7539d09335293d43f5858ec.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-474ba0817c403835e2",
+      "name": "清池茶",
+      "scope": "清池茶产地范围为贵州省毕节市金沙县清池镇行政区域。",
+      "type": "tea",
+      "variety": "保护范围内适宜加工制作清池茶的当地群体种",
+      "sensory": "扁形茶:外形扁、平、直、光滑匀整;色泽翠绿油润;香气高爽持久;汤色黄绿、明亮;滋味鲜爽;叶底嫩绿、鲜明、匀齐完整。卷曲形茶:外形紧结、绿润、显毫卷曲;汤色黄绿明亮;香气纯正;滋味醇和;叶底黄绿。颗粒形茶:外形颗粒匀整重实、绿润、露毫;香气馥郁高长;汤色碧绿明亮;滋味鲜醇、爽口;叶底嫩匀、明亮、鲜活",
+      "process": "1.扁形茶(1)工艺流程:摊青→杀青→整形→脱毫→提香。(2)摊青:摊叶厚度1cm至4cm,摊放时间4h至6h。(3)杀青:温度控制140°C至160°C,时间2min至5min。(4)整形:温度控制80°C至85°C,时间2min至5min,至茶叶扁平直,香气显露为适宜。(5)脱毫:温度控制65°C至75°C,时间10min至15min,至茶叶外形扁平至较光滑即可。(6)提香:温度控制80°C至100°C,时间15min至20min,至手捏茶条成粉末状,茶叶含水量达4%至6%时即可。2.卷曲形茶(1)工艺流程:摊青→杀青→揉捻→初烘→整形→提毫→足干→",
+      "sectionSha256": "056bce5d48a222ebc04ca573e1b3f4609920d76df592e177c09d2942f022a20c"
+    },
+    {
+      "itemId": "sw-504fb1244a50c69cfe",
+      "name": "威宁苹果",
+      "scope": "威宁苹果产地范围为贵州省威宁自治县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "黔选系:果实近圆形,果面深红,果肩部位密布暗红色条纹,果点稀疏,果肉黄白色,肉质松脆,汁液丰富,香味浓郁,甜酸适口。富士系:果实近圆形,色泽鲜艳,果肩部位有暗红条纹,果点稀,果肉黄白色,肉质细脆,汁液多,有果香,酸甜适口",
+      "process": "",
+      "sectionSha256": "38de3e9b78d7d12c985f14dca3f60777b09dffef74d784d930d3096e93dbf365"
+    },
+    {
+      "itemId": "sw-c20df696820e3a9644",
+      "name": "锦屏茶油",
+      "scope": "锦屏茶油产地范围为贵州省黔东南苗族侗族自治州锦屏县三江镇、茅坪镇、大同乡、铜鼓镇、敦寨镇、新化乡、隆里乡、钟灵乡、偶里乡、平略镇、启蒙镇、河口乡、固本乡、平秋镇、彦洞乡行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "清亮透明、久置无层",
+      "process": "",
+      "sectionSha256": "7d650e7e18a1a03f4fe8cc8dfc73907ff830e52d8b139724c653926d50a34051"
+    }
+  ]
+}

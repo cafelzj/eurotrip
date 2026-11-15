@@ -1,0 +1,73 @@
+{
+  "id": "sw-gi-5b1be8f557542123",
+  "title": "地理标志产品公告 · 2011年第196号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC196%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "5b1be8f557542123932ed709c47ca8bb3b804560",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第196号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC196%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6d2d54b8a2fb37a4efad00db9d75b8d98d4efd5ddfe40a3f4fd10da6a49919c4",
+    "textSha256": "85b9dfab2de484ded3a5e2c21c5849bdf3efe4a48ef98ec676f251bbb8331bcc",
+    "textLength": 6286,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/5b1be8f557542123932ed709c47ca8bb3b804560.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/5b1be8f557542123932ed709c47ca8bb3b804560.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-4fd8b09fbd40d1c6cb",
+      "name": "汶川羌绣",
+      "scope": "汶川羌绣产地范围为四川省汶川县现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "(1)色彩艳丽明快:绣品用色艳丽大胆,对比强烈。(2)富有羌族文化气息。(3)构图严谨、整齐匀称、装饰性强;不拘小节,大胆想象创造。构图有正花、编花、角花、补点花等等,正花为主图案,编花、角花是制品四周的点缀,纹样多为两边连续图案或三角形图案,刺绣时按正花主题,挑缀刺绣,补点花按照正花、角花空间大小挑刺点缀。2.",
+      "process": "",
+      "sectionSha256": "985e6aaa0b4804608fd56059c80c41eac6df429b175a4878b6d2d203a1087594"
+    },
+    {
+      "itemId": "sw-c976d621c7169e50d8",
+      "name": "青神竹编",
+      "scope": "青神竹编产地范围为四川省青神县现辖行政区域。",
+      "type": "crafts",
+      "variety": "要求。1.种源:慈竹[Sinocalmusaffinis(Rendle)Mcclure]。2.立地条件:保护区范围内海拔≤1000m,土壤类型为水稻土和壤土,有机质含量≥1.1%,土壤pH值5.8至8.6。3.竹材:保护区范围内生长的一年生优质慈竹,选取整根竹子颜色基本一致、无伤痕、无斑点、竹质细腻、节长在45cm至80cm的中间竹节",
+      "sensory": "几何图形完整,无霉变,编织图案清晰逼真、色泽协调、不易褪色、立体感强,整幅产品厚薄一致,篾路通顺,编织紧密,不抛挤、不现接头,手感光滑,无毛刺,沿边整齐圆润、无虚针、漏针和脱针,展开后幅面平整、不曲翘、边角曲直自然,卷曲后能恢复原状,符合规定外形。2.分级要求:指标产品等级丝数(根/cm)允差(根)二级12~14±1一级16~22±13.",
+      "process": "1.工艺流程:工艺按选竹、砍竹、剔丫、去节、刮青、削平、分块、分层、启篾、三防处理、染色、分丝、编织等流程进行。2.关键技术要求:(1)刮青:将采伐后的原料竹在两天内刮掉竹表面的青色胶质层,使其外观色层一致。(2)分块:以竹筒外圆基本平面为准,按竹筒大小不同,分出不同宽度的竹块。(3)启篾:根据编织对象的不同,将分出的竹块沿竹材的径向剖启成薄篾层。(4)三防处理:将竹篾放入30%的双氧水按1:2配制的溶液中煮沸(时间依色层而定),达到防虫、防麻斑、防霉变,脱脂增白的效果,使色层颜色更加接近。(5)染色:将染料用白酒溶成糊状,倒入煮开的沸水中,充分搅匀。要",
+      "sectionSha256": "391a44d6f904388f6ca12e694cf2974c0983972c36e829b0176d90b6645559cf"
+    },
+    {
+      "itemId": "sw-b9e3a7a45627056940",
+      "name": "通贤柚",
+      "scope": "通贤柚产地范围为四川省资阳市安岳县通贤镇、石鼓乡、人和乡、长河源乡、团结乡、天马乡6个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地文旦类",
+      "sensory": "果皮淡黄色、果肉米黄色、肉质脆嫩化渣、酸甜适中略偏酸、少核或无核、耐储存",
+      "process": "",
+      "sectionSha256": "2af014a9e86ec95dff90a6b28dbd500428ddccbe63f3f6dc4b9ff4eb54f421e3"
+    },
+    {
+      "itemId": "sw-cabcad0e590f17c981",
+      "name": "屏山炒青茶",
+      "scope": "屏山炒青茶产地范围为四川省屏山县现辖行政区域。",
+      "type": "tea",
+      "variety": "当地群体中及适宜加工屏山炒青茶的茶树品种",
+      "sensory": "(1)条形茶:外形紧实,显锋苗,色泽绿润,冲泡后栗香持久,汤色清澈明亮,滋味醇爽,叶底嫩匀成朵,绿亮。(2)扁形茶:外形扁平挺直,色泽绿润,冲泡后栗香持久,汤色清澈明亮,滋味醇爽,叶底嫩匀成朵,嫩黄明亮",
+      "process": "1.条形茶工艺流程:鲜叶→摊晾→杀青→摊晾→揉捻→解块→毛火烘培→第摊晾→足火烘培→摊晾→辉锅→摊晾→成品。2.扁形茶工艺流程:鲜叶→摊晾→杀青→摊晾→第一次做形→摊晾→第二次做形→摊晾→辉锅→摊晾→成品。3.技术要点:(1)杀青:锅温240°C至260°C,时间4至5分钟。条形茶炒至“叶子叶色呈暗绿色,叶梗折不断,手捏略粘手”时出锅。扁型茶炒至青草气丧失而呈现芳香时出锅。(2)揉捻:揉捻15分钟至20分钟。当茶叶初卷成条,手触有滑腻感时下桶,立即解块。(3)毛火烘培:温度为120°C至150°C。当茶条转为墨绿色,手捏有刺手感时即进行摊凉回潮。(4)足",
+      "sectionSha256": "9be541e0f0a4748cc32a91f171fff8cbe98440d7e77a07985ca52a69ab400934"
+    },
+    {
+      "itemId": "sw-ba74a0b47862689db9",
+      "name": "梓潼酥饼",
+      "scope": "梓潼酥饼产地范围为四川省梓潼县现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "色泽金黄,酥纹清晰,回旋有致,表面中部有芝麻,断面层次多而分明,香酥松脆,入口化渣,回香",
+      "process": "原料→调配→制作水起面→制酥坯→制皮面→制面皮→包酥→成形→烘烤→成品",
+      "sectionSha256": "7309c32350bf542710db26b610936708c469da1bb3d6722a569d7957e4e1a06e"
+    }
+  ]
+}

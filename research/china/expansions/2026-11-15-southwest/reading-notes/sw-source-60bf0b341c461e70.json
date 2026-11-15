@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-60bf0b341c461e70",
+  "title": "红河州人民政府办公室关于印发红河州“十四五”文化和旅游发展规划的通知-红河哈尼族彝族自治州人民政府",
+  "url": "https://www.hh.gov.cn/info/11061/578392.htm",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/60bf0b341c461e70.raw",
+  "originalResponseSha256": "3b6a6be4aedd232a819199fd082f31d8b48ac5ad1848f0eca34d1800ddead622",
+  "readableFile": "research/.local/southwest-20261115/articles/60bf0b341c461e70.txt",
+  "readableSha256": "ea7812185d1d70337c7dac6d57f5605f6ada35e68cc6a8879714220365d390cc",
+  "items": [
+    {
+      "itemId": "sw-938074ef580bc4bde6",
+      "name": "蒙自过桥米线",
+      "initialCandidateId": "memory-39a37affdc1a45",
+      "adoptedFacts": "蒙自过桥米线是红河地方餐食，州政府非遗保护规划明确记录相关制作技艺。食品本身、技艺项目与餐馆品牌分别整理，汤料、配菜和制作步骤继续按专题补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

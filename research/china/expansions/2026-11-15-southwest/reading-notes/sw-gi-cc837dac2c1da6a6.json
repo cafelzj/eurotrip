@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-cc837dac2c1da6a6",
+  "title": "地理标志产品公告 · 2009年第51号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "cc837dac2c1da6a6f5223d6c5e9c9b20e94aac42",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第51号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC51%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "965100f63920bfea39a6211ee2ef3f811f6c5df7b8229fd7e7dcf0006631782c",
+    "textSha256": "9a4b65d16d82057c0cd518bd72f318827ea5f1835d81dc24f9823fcd71f9bd65",
+    "textLength": 9279,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/cc837dac2c1da6a6f5223d6c5e9c9b20e94aac42.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/cc837dac2c1da6a6f5223d6c5e9c9b20e94aac42.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-1522cf53cedd524f55",
+      "name": "合川桃片",
+      "scope": "合川桃片地理标志产品保护范围为重庆市合川区现辖行政区域。",
+      "type": "staples",
+      "variety": "要求。1.糯米:选取保护区生产的,按照无公害食品稻米加工技术规范生产的大粒糯米,其支链淀粉含量占总淀粉含量的百分率≥99%,可溶性糖含量≥3%。2.水:选取合川桃片地域保护范围内的泉水和地下水,总硬度(以CaO计)为180至300mg/L,pH值7.2至8.5。卫生指标符合国家关于生活饮用水的标准",
+      "sensory": "(1)软片:色泽洁白,粉质细,组织紧密均匀,有明显的桃仁块;条形完整,片厚≤1.5mm,大小厚薄均匀,片无粘连。桃片散如展卷,卷裹不断,细腻化渣,香甜爽口,有核桃仁和玫瑰的清香味,有韧性,不粘牙。(2)脆片:色泽微黄,粉质细,组织紧密均匀,肉眼可见桃仁粒;条形完整,片厚≤2.5mm,大小厚薄均匀,片无粘连。香甜酥脆,微有甜咸麻味,不粘牙",
+      "process": "要求。1.生产工艺流程:2.生产操作要点:(1)捂料:精选保护区生产的优质大粒糯米,用热水(50°C至60°C)淘洗约10分钟,捞起沥去水分,加盖捂20分钟后,摊开待用。(2)炒米:将捂好的糯米,以油制过的保护区嘉陵江、涪江、渠江河道所产的河砂旺火拌炒,炒至糯米熟透时,快铲起锅,用箩筛筛去砂子即可。(3)磨粉与回粉:将炒制好的糯米磨成细粉,以120目过筛(软片)或90至100目过筛(脆片)。筛出的细粉置于晾席上摊开自然吸水回潮发酵(气温在10°C至20°C,相对湿度在75%至85%),时间在3天以上,直到手捏粉子成团,不散垮即为回粉。(4)制搅糖:白砂糖",
+      "sectionSha256": "acc9027a2b31614101542493175ec6b48f4522ac09ce7dc022ea0f0f1a1ede7f"
+    }
+  ]
+}

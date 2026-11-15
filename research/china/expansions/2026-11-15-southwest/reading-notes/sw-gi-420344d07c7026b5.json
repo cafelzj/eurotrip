@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-420344d07c7026b5",
+  "title": "地理标志产品公告 · 2009年第89号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "420344d07c7026b54e0e3f2d25f49713a5b050a4",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第89号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC89%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6535b57a923b3596fe267caf9ba8c4f22a5c52373852f6fd2137cdd4feab8217",
+    "textSha256": "dc73f74f4233fabc57b3cabe4507431d460464f55dfdbb99717b6e898c413b92",
+    "textLength": 7274,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/420344d07c7026b54e0e3f2d25f49713a5b050a4.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/420344d07c7026b54e0e3f2d25f49713a5b050a4.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-cbef4b53ee895574d9",
+      "name": "乡城松茸",
+      "scope": "乡城松茸地理标志产品保护范围为四川省乡城县香巴拉镇、沙贡乡、水洼乡、尼斯乡、青德乡、青麦乡、洞松乡、热乌乡、白依乡、热达乡、正斗乡、定波乡等12个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "Tricholomamatsutack(S.ItoetImai)Sing",
+      "sensory": "长度≥3厘米,颜色为白色或浅黄或浅棕或浅褐,菌体粗壮,完整,饱满有弹性",
+      "process": "1.鲜松茸加工工艺流程:鲜松茸→刮泥脚→漂洗杀菌→成品2.速冻松茸加工工艺流程:鲜松茸→刮泥脚→漂洗→漂洗杀菌→速冻→分级包装→冻藏→成品3.关键环节的加工工艺条件:速冻:其工艺要求条件为-35°C速冻,使产品中心温度达到-18°C",
+      "sectionSha256": "51054c0884c343de75c5fb498ccf4d201bba7255a43e2c99659371d18c97c883"
+    }
+  ]
+}

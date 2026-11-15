@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-4fa6c747227675c6",
+  "title": "走进云南-普洱篇 EXPLORE YUNNAN: PUER_云南省人民政府外事办公室",
+  "url": "https://yfao.yn.gov.cn/wswy/202208/t20220820_1519521.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/4fa6c747227675c6.raw",
+  "originalResponseSha256": "cef8fd25009a8060a3cb9c0f9df515879cf6c341602c98bec5eae3c6b50bfaa0",
+  "readableFile": "research/.local/southwest-20261115/articles/4fa6c747227675c6.txt",
+  "readableSha256": "23a081f7654e7c114636f092c15d6638952b4285f560dc6eeb55fc178ff063e2",
+  "items": [
+    {
+      "itemId": "sw-3648dfb11173174a59",
+      "name": "普洱茶",
+      "initialCandidateId": "memory-eb0bd7cd374e95",
+      "adoptedFacts": "普洱茶与云南多个地方的制茶传统相连。云南官方普洱专题记录普洱市作为重要原产地的联系，产品公告的保护范围则更广；本条按已有保护范围保留全省关联，不把一种茶自动限定为一个城市。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

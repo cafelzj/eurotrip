@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-15",
+  "rule": "只采用对应实物或明确生产场景的真实照片，不用通用示意或生成图片；未采用候选及缺图另记。",
+  "items": [
+    {
+      "recordId": "3f6dc94a52fd9e",
+      "itemName": "成都担担面",
+      "caption": "担担面实拍",
+      "reviewNotes": "面碗、肉臊与红油主体清楚，与原图担担面说明一致。"
+    },
+    {
+      "recordId": "6455047737ca87",
+      "itemName": "夫妻肺片",
+      "caption": "夫妻肺片实拍",
+      "reviewNotes": "切片牛肉和牛杂的凉拌成品清楚，原图标明夫妻肺片。"
+    },
+    {
+      "recordId": "3a91c84ccff940",
+      "itemName": "乐山钵钵鸡",
+      "caption": "红油钵钵鸡实拍",
+      "reviewNotes": "红油钵与串制食材清楚，属于钵钵鸡成品场景。"
+    },
+    {
+      "recordId": "70ebe1346373f9",
+      "itemName": "宜宾燃面",
+      "caption": "宜宾燃面实拍",
+      "reviewNotes": "原图说明明确标为宜宾燃面，保留其真实面碗外观；原图清晰度一般。"
+    },
+    {
+      "recordId": "29bddb746d02de",
+      "itemName": "重庆火锅",
+      "caption": "重庆九宫格火锅实拍",
+      "reviewNotes": "九宫格锅与沸腾汤料清楚，原图说明拍摄于重庆。"
+    },
+    {
+      "recordId": "c5548dc8f63405",
+      "itemName": "重庆小面",
+      "caption": "重庆小面实拍",
+      "reviewNotes": "原图说明为重庆餐厅的小面，面碗主体清楚；不由照片定义全部小面配方。"
+    },
+    {
+      "recordId": "363db1709fd691",
+      "itemName": "毛血旺",
+      "caption": "毛血旺实拍",
+      "reviewNotes": "血旺与复合配菜在红汤中清楚可辨，原图题名明确。"
+    },
+    {
+      "recordId": "546181c3dd4ca6",
+      "itemName": "蒙自过桥米线",
+      "caption": "过桥米线实拍",
+      "reviewNotes": "汤碗、米线与分碟配料清楚；照片拍摄地按原图记录，不宣称某家蒙自门店。"
+    },
+    {
+      "recordId": "08a8377842a9dc",
+      "itemName": "汽锅鸡",
+      "caption": "汽锅鸡实拍",
+      "reviewNotes": "汽锅中央汽柱、鸡块和汤汁清楚，主题为汽锅鸡。"
+    },
+    {
+      "recordId": "54e31df0dee154",
+      "itemName": "丽江粑粑",
+      "caption": "丽江粑粑实拍",
+      "reviewNotes": "原图明确为丽江粑粑；纠正搜索将它与喜洲粑粑混配的候选结果。"
+    },
+    {
+      "recordId": "098fb49e015975",
+      "itemName": "丝娃娃",
+      "caption": "丝娃娃配菜实拍",
+      "reviewNotes": "原图主题明确为丝娃娃，多种切丝配菜可见，按备餐场景采用。"
+    },
+    {
+      "recordId": "938aa4253f7aab",
+      "itemName": "泸州老窖",
+      "caption": "泸州老窖瓶装产品实拍",
+      "reviewNotes": "瓶身及包装标识清楚，作为该品牌实物记录。"
+    },
+    {
+      "recordId": "3d171c1db5ea89",
+      "itemName": "贵州茅台酒",
+      "caption": "贵州茅台酒瓶装产品实拍",
+      "reviewNotes": "瓶身茅台酒标识清楚，照片不作为酒龄或真伪鉴定依据。"
+    },
+    {
+      "recordId": "956fc8f57c2115",
+      "itemName": "宣威火腿",
+      "caption": "宣威火腿实拍",
+      "reviewNotes": "挂售的火腿主体清楚，原图说明明确为宣威火腿。"
+    },
+    {
+      "recordId": "6b0d36c79ca51c",
+      "itemName": "建水紫陶",
+      "caption": "建水紫陶器物实拍",
+      "reviewNotes": "陶壶、陶瓶等器物形态清楚，来源明确为建水紫陶。"
+    },
+    {
+      "recordId": "698fc6561854bb",
+      "itemName": "蜀锦",
+      "caption": "蜀锦纹样实拍",
+      "reviewNotes": "原图记录成都博物馆蜀锦展品，采用实际织物纹样影像，不生成或重绘纹样。"
+    },
+    {
+      "recordId": "986c4b1103c62c",
+      "itemName": "喜洲粑粑",
+      "caption": "喜洲粑粑实拍",
+      "reviewNotes": "成品饼体与馅料清楚；原图说明及坐标明确为大理喜洲。"
+    },
+    {
+      "recordId": "1b7e243e8bab87",
+      "itemName": "酥油茶",
+      "caption": "酥油茶制作实拍",
+      "reviewNotes": "原图明确为搅打酥油茶，采用真实制作场景，不冒充成品杯图。"
+    },
+    {
+      "recordId": "a3e116756c2b08",
+      "itemName": "糌粑",
+      "caption": "糌粑团实拍",
+      "reviewNotes": "原图明确为糌粑团，实体粮粉团主体清楚。"
+    },
+    {
+      "recordId": "957b1680c3e300",
+      "itemName": "郫县豆瓣",
+      "caption": "郫县豆瓣瓶装产品实拍",
+      "reviewNotes": "瓶装豆瓣和郫县豆瓣标签清楚，具体品牌与食品品类分开理解。"
+    },
+    {
+      "recordId": "3145c4655e1e85",
+      "itemName": "普洱茶",
+      "caption": "普洱茶饼实拍",
+      "reviewNotes": "茶饼、压制形态与茶叶表面清楚，原图明确标为普洱茶。"
+    },
+    {
+      "recordId": "5d5367a9b7319b",
+      "itemName": "先市酱油",
+      "caption": "先市酱油酿造现场实拍",
+      "reviewNotes": "酿造作坊与晒缸场景清楚，采用原图明确对应的生产场景。"
+    },
+    {
+      "recordId": "8e1a06f4f266ed",
+      "itemName": "修文猕猴桃",
+      "caption": "贵州修文猕猴桃实拍",
+      "reviewNotes": "果品主体清楚，原图题名明确记录修文产地。"
+    },
+    {
+      "recordId": "349808af964456",
+      "itemName": "习酒",
+      "caption": "习酒包装产品实拍",
+      "reviewNotes": "产品包装与习酒标识清楚，按该品牌实物采用。"
+    },
+    {
+      "recordId": "d3365505e128f7",
+      "itemName": "麻婆豆腐",
+      "caption": "成都陈麻婆豆腐店的麻婆豆腐实拍",
+      "reviewNotes": "原图明确记录成都店铺及菜品，豆腐与红油成品清楚；卡片仍为食品品类。"
+    },
+    {
+      "recordId": "013d1865433c64",
+      "itemName": "蛋烘糕",
+      "caption": "成都蛋烘糕实拍",
+      "reviewNotes": "烘糕表皮与内馅可见，原图记录成都小吃蛋烘糕。"
+    },
+    {
+      "recordId": "1d4c4a4a746709",
+      "itemName": "五粮液",
+      "caption": "五粮液瓶装产品实拍",
+      "reviewNotes": "瓶身五粮液标识清楚，不采用广告涂装飞机照片替代产品。"
+    },
+    {
+      "recordId": "7aad54095973c9",
+      "itemName": "小锅米线",
+      "caption": "昆明小锅米线实拍",
+      "reviewNotes": "面碗与汤料清楚，原图明确记录昆明小锅米线。"
+    },
+    {
+      "recordId": "2ba92822cef742",
+      "itemName": "腾冲大救驾",
+      "caption": "腾冲大救驾实拍",
+      "reviewNotes": "炒饵块成品主体清楚，原图题名直接对应腾冲大救驾。"
+    },
+    {
+      "recordId": "b54960ca2e9395",
+      "itemName": "烧饵块",
+      "caption": "大理烧饵块制作实拍",
+      "reviewNotes": "原图明确为大理古城烧饵块，烘烤和加料场景可见。"
+    },
+    {
+      "recordId": "ad04d64f701fa7",
+      "itemName": "大理乳扇",
+      "caption": "大理烤乳扇实拍",
+      "reviewNotes": "原图题名明确包含大理烤乳扇，照片可见摊位上的乳扇卷。"
+    },
+    {
+      "recordId": "2b9a1ffe5f7e50",
+      "itemName": "德宏撒撇",
+      "caption": "德宏撒撇实拍",
+      "reviewNotes": "蘸料与米线等配食场景清楚，原图主题明确为德宏撒撇。"
+    },
+    {
+      "recordId": "5cd5d43ae48115",
+      "itemName": "水城羊肉粉",
+      "caption": "水城羊肉粉实拍",
+      "reviewNotes": "原图明确为水城羊肉粉，粉碗与肉食主体清楚；不宣称拍摄于六盘水指定门店。"
+    },
+    {
+      "recordId": "64aad36eeb0e9e",
+      "itemName": "董酒",
+      "caption": "董酒瓶装产品实拍",
+      "reviewNotes": "瓶身董酒标识清楚，排除同名生物等错误命中。"
+    },
+    {
+      "recordId": "5d7f03d4e264d7",
+      "itemName": "腾冲饵丝",
+      "caption": "腾冲饵丝实拍",
+      "reviewNotes": "原图明确记录芒市的腾冲饵丝，食品身份与拍摄门店所在地分别保留。"
+    }
+  ]
+}

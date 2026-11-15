@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-ecc3e9f7541b0699",
+  "title": "地理标志产品公告 · 2010年第14号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ecc3e9f7541b069991a5316d52c419ed89c4fc08",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第14号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "f80639b04c4e2bb83ff3095d81fb49ff445c4308d69af7cb9feef6848206f061",
+    "textSha256": "c0552aae346252c164a1e74d5cc1d4822bdc1119080793904711a907bf960b3b",
+    "textLength": 7130,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ecc3e9f7541b069991a5316d52c419ed89c4fc08.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ecc3e9f7541b069991a5316d52c419ed89c4fc08.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-124d4099add7f62f11",
+      "name": "兴义饵块粑",
+      "scope": "兴义饵块粑地理标志产品保护范围为贵州省黔西南布依族苗族自治州现辖行政区域。",
+      "type": "staples",
+      "variety": "要求。大米选取保护区生产的老红香晚粳米",
+      "sensory": "外形端正,呈椭圆形枕头状;色泽白亮,呈半透明状;口感略粘,滑腻爽口、清香微甜,软硬适中,筋道有弹性;组织紧密,细腻光滑、柔韧不易断,久煮不烂",
+      "process": "要求。1.主要工艺流程:原料米→除杂→淘洗浸泡→蒸制→摊凉→蒸制→舂打→搓揉成型→冷却→真空包装→灭菌→包装。2.生产操作要点:(1)大米除杂:米都要重新筛簸除尽残留的米糠、石子等杂质。(2)淘洗浸泡:将除杂后的粳米用清水淘洗干净,再用流水浸泡2小时。(3)蒸制:将浸泡后的大米放入蒸锅中蒸至九成熟。(4)米饭摊凉:煮好的大米饭应进行搓散晾冷,再用冷水淘过,俗称洗澡。(5)米饭的熟化:摊凉洗澡后的大米饭再一次放入蒸煮锅中进行蒸制。(6)舂打成型:将经过蒸熟的米饭通过人工舂打或机器舂打至均匀一至无饭粒为止。(7)搓揉成型:舂打好的粑粑乘热人工搓揉或用挤压成型",
+      "sectionSha256": "be854c4c2578504560fc7b6914fce2331ed5f5d1574d57a91e7bd67e8068cd56"
+    }
+  ]
+}

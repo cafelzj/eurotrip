@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-2c6ef02b0c0ece1b",
+  "title": "地理标志产品公告 · 2012年第97号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "2c6ef02b0c0ece1ba71f49a5009c7fec3da98737",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第97号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c72d7d69630780605698b95eccc04bb89c015efe04b9270c89c9bd47f38823c2",
+    "textSha256": "6238cbae68c90eba0265cbcba6fe6dd41d41467cd601a2396e6375c85c58a4d5",
+    "textLength": 8822,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/2c6ef02b0c0ece1ba71f49a5009c7fec3da98737.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/2c6ef02b0c0ece1ba71f49a5009c7fec3da98737.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-0a11d4f024c1fbe1be",
+      "name": "龙泉驿枇杷",
+      "scope": "龙泉驿枇杷产地范围为四川省成都市龙泉驿区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实呈圆形或卵圆形;果面金黄或橙红色,表面光滑,色泽靓丽;果肉橙红色,质地细嫩,酸甜爽口,口感浓郁",
+      "process": "",
+      "sectionSha256": "cef11854b11c47652041ad459e2a52d65743aee4acaecbcbe2291e19df9eefd0"
+    },
+    {
+      "itemId": "sw-3575975f75da345f16",
+      "name": "中国白酒金三角(川酒)",
+      "scope": "中国白酒金三角(川酒)产地范围为四川省宜宾市、泸州市、成都市、德阳市、遂宁市、绵阳市、自贡市、乐山市、南充市、广安市、达州市、巴中市、眉山市、资阳市、内江市、雅安市、广元市、凉山州等18个市(州)现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "(1)浓香型白酒:项目高度酒41%vol~68%vol低度酒38%vol~40%vol无色或微黄,清亮透明,色泽和外观无悬浮物,无沉淀香气窖香幽雅、具有以己酸乙酯为主窖香优雅、具有以己酸乙酯为主体的自体的自然复合香气然复合香气醇厚绵甜、丰满圆润、香味谐调、柔和绵甜、香味谐调、余味爽净口味尾净绵长具有窖香幽雅、丰满圆润的典型具有窖香优雅、柔和绵甜的典型风格风格风格(2)酱香型白酒:项目高度酒41%vol~58%vol低度酒38%vol~40%vol色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气酱香突出、幽雅舒适、空杯留香持久酱香显著、纯正幽雅、空杯留香长口味醇厚丰满、细腻谐调、回味悠长醇和绵柔、香味协调、回味长具有酱香突出、幽雅细腻、醇厚丰满、具有醇和绵柔、回味长的典型风格风格回味悠长的",
+      "process": "",
+      "sectionSha256": "60af750081fabeb84fa527705fc003c58e042305d23452f4693d69e095260302"
+    },
+    {
+      "itemId": "sw-d13d357f4582a20dcb",
+      "name": "乐至白乌鱼",
+      "scope": "乐至白乌鱼产地范围为四川省乐至县天池镇、石佛镇、回澜镇、石湍镇、童家镇、宝林镇、大佛镇、良安镇、中和场镇、劳动镇、中天镇、佛星镇、蟠龙镇、东山镇、通旅镇、高寺镇、龙溪乡、全胜乡、孔雀乡、双河场乡、龙门乡、放生乡等22个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "体色灰白色,体型呈长筒状,头颈部有斑点,口感鲜滑",
+      "process": "",
+      "sectionSha256": "330a4d29ce144a8ab9282f0ad81eb147d710a26c7861cbb2341d5fdb4a4f7089"
+    }
+  ]
+}

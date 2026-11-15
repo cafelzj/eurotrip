@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-53c38dd973d7be06",
+  "title": "地理标志产品公告 · 2008年第141号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "53c38dd973d7be06adb92b047de3a4da8dde5465",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第141号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b5d62e8e1b303c6ee4df6430dd76afa6072d47d843615e9819d293bdd8e64b4b",
+    "textSha256": "6b8a5213881b8a987511300854b7d490b3cfffdef6587faa70b9961c598f0d37",
+    "textLength": 7439,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/53c38dd973d7be06adb92b047de3a4da8dde5465.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/53c38dd973d7be06adb92b047de3a4da8dde5465.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f4e6cde2b3b5b7d02c",
+      "name": "顶坛花椒",
+      "scope": "顶坛花椒地理标志产品保护范围为贵州省贞丰县北盘江镇、平街乡、者相镇、白层镇等4个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "地方品种:大青椒、小青椒",
+      "sensory": "绿色、有光泽、睁眼、果粒较大、均匀、油腺密而突出,果径在2mm至3mm,果皮上有明显凸起的圆点状油腺,长有油苞,富含挥发油,麻味浓烈持久,香味纯正",
+      "process": "",
+      "sectionSha256": "a4297c62b5ddff5e26f015e3d15e484c6d1b0b17b00529129d091c00f9a544e6"
+    }
+  ]
+}

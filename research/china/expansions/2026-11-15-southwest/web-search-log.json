@@ -1,0 +1,365 @@
+{
+  "date": "2026-11-15",
+  "note": "完整响应本地保留；搜索结果不等于已读正文。",
+  "records": [
+    {
+      "id": 0,
+      "queries": [
+        "四川 各市 美食 特产 乳业 文化和旅游",
+        "重庆 特色美食 非遗 榨菜 小面 牛奶",
+        "云南 各州市 特色美食 特产 乳扇 茶",
+        "贵州 各市州 美食 特产 牛奶 非遗"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-000.json",
+      "status": "search-only-not-article-review",
+      "sha256": "84c787086e3d0d771dbdac589b16b49a43fa30374237d069c75a6857458e0de1",
+      "responseSavedAt": "2026-11-15T10:02:45.051317+00:00"
+    },
+    {
+      "id": 1,
+      "queries": [
+        "四川 成都 特色美食 特产 site:gov.cn",
+        "四川 自贡 特色美食 特产 site:gov.cn",
+        "四川 攀枝花 特色美食 特产 site:gov.cn",
+        "四川 泸州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-001.json",
+      "status": "search-only-not-article-review",
+      "sha256": "890ff555eb88f10ef22827d2a6e29861f9516f6f5e82673aa0ef70770d737dc4",
+      "responseSavedAt": "2026-11-15T10:03:00.343577+00:00"
+    },
+    {
+      "id": 2,
+      "queries": [
+        "四川 德阳 特色美食 特产 site:gov.cn",
+        "四川 绵阳 特色美食 特产 site:gov.cn",
+        "四川 广元 特色美食 特产 site:gov.cn",
+        "四川 遂宁 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-002.json",
+      "status": "search-only-not-article-review",
+      "sha256": "6cbd3c2b9b3fb75bc1a113f2d00e74ae94c23160a3c305e1da59ecce9e3e7739",
+      "responseSavedAt": "2026-11-15T10:03:01.955604+00:00"
+    },
+    {
+      "id": 3,
+      "queries": [
+        "四川 内江 特色美食 特产 site:gov.cn",
+        "四川 乐山 特色美食 特产 site:gov.cn",
+        "四川 南充 特色美食 特产 site:gov.cn",
+        "四川 眉山 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-003.json",
+      "status": "search-only-not-article-review",
+      "sha256": "ad653bc5b9f4192acf3946be9d0a948816cbb07bd07f208a11bc7bac96a4559c",
+      "responseSavedAt": "2026-11-15T10:03:03.455629+00:00"
+    },
+    {
+      "id": 4,
+      "queries": [
+        "四川 宜宾 特色美食 特产 site:gov.cn",
+        "四川 广安 特色美食 特产 site:gov.cn",
+        "四川 达州 特色美食 特产 site:gov.cn",
+        "四川 雅安 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-004.json",
+      "status": "search-only-not-article-review",
+      "sha256": "2689e7f8e448663d56f81d479f9dbf2e1fb7f7c4368a9710c0c5c8cd21fa16f6",
+      "responseSavedAt": "2026-11-15T10:03:04.915654+00:00"
+    },
+    {
+      "id": 5,
+      "queries": [
+        "四川 巴中 特色美食 特产 site:gov.cn",
+        "四川 资阳 特色美食 特产 site:gov.cn",
+        "四川 阿坝州 特色美食 特产 site:gov.cn",
+        "四川 甘孜州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-005.json",
+      "status": "search-only-not-article-review",
+      "sha256": "fbb20a7f8d1ae5963ef6abfa9718f9d485a69f75c409964ab8443c5e8388d0ec",
+      "responseSavedAt": "2026-11-15T10:03:18.599887+00:00"
+    },
+    {
+      "id": 6,
+      "queries": [
+        "四川 凉山州 特色美食 特产 site:gov.cn",
+        "云南 昆明 特色美食 特产 site:gov.cn",
+        "云南 曲靖 特色美食 特产 site:gov.cn",
+        "云南 玉溪 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-006.json",
+      "status": "search-only-not-article-review",
+      "sha256": "ce3ec9131eae30ad304f2a9445b9029f284fbe81a88b0ec284ddb48fddfedc20",
+      "responseSavedAt": "2026-11-15T10:03:20.259915+00:00"
+    },
+    {
+      "id": 7,
+      "queries": [
+        "云南 保山 特色美食 特产 site:gov.cn",
+        "云南 昭通 特色美食 特产 site:gov.cn",
+        "云南 丽江 特色美食 特产 site:gov.cn",
+        "云南 普洱 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-007.json",
+      "status": "search-only-not-article-review",
+      "sha256": "52e3ca3170b91b18a0bee78245cdfd0c79e5d54ed5c0685b3b207712f535840e",
+      "responseSavedAt": "2026-11-15T10:03:21.823941+00:00"
+    },
+    {
+      "id": 8,
+      "queries": [
+        "云南 临沧 特色美食 特产 site:gov.cn",
+        "云南 楚雄州 特色美食 特产 site:gov.cn",
+        "云南 红河州 特色美食 特产 site:gov.cn",
+        "云南 文山州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-008.json",
+      "status": "search-only-not-article-review",
+      "sha256": "1094cb3562a4ed38bcee1754bcd7cb36c338a5c13ed04ceca3cc020a25d27188",
+      "responseSavedAt": "2026-11-15T10:03:23.291966+00:00"
+    },
+    {
+      "id": 9,
+      "queries": [
+        "云南 西双版纳州 特色美食 特产 site:gov.cn",
+        "云南 大理州 特色美食 特产 site:gov.cn",
+        "云南 德宏州 特色美食 特产 site:gov.cn",
+        "云南 怒江州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-009.json",
+      "status": "search-only-not-article-review",
+      "sha256": "c3f6a5de1918e4ab7131da1550f87dbd61738a10973c87e0ae966983b7763892",
+      "responseSavedAt": "2026-11-15T10:03:35.684177+00:00"
+    },
+    {
+      "id": 10,
+      "queries": [
+        "云南 迪庆州 特色美食 特产 site:gov.cn",
+        "贵州 贵阳 特色美食 特产 site:gov.cn",
+        "贵州 六盘水 特色美食 特产 site:gov.cn",
+        "贵州 遵义 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-010.json",
+      "status": "search-only-not-article-review",
+      "sha256": "27c7183758fa95569f4f50a8b1e2e5e16c406a1ac22e14b8c2b83bed80e9123d",
+      "responseSavedAt": "2026-11-15T10:03:37.132201+00:00"
+    },
+    {
+      "id": 11,
+      "queries": [
+        "贵州 安顺 特色美食 特产 site:gov.cn",
+        "贵州 毕节 特色美食 特产 site:gov.cn",
+        "贵州 铜仁 特色美食 特产 site:gov.cn",
+        "贵州 黔西南州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-011.json",
+      "status": "search-only-not-article-review",
+      "sha256": "4232624810452314ff3f2fe0e33f381ac220618e809483da81382005157aa0e9",
+      "responseSavedAt": "2026-11-15T10:03:38.588226+00:00"
+    },
+    {
+      "id": 12,
+      "queries": [
+        "贵州 黔东南州 特色美食 特产 site:gov.cn",
+        "贵州 黔南州 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-012.json",
+      "status": "search-only-not-article-review",
+      "sha256": "c67752010287ad880eaa05503d5d616af8639b10b74f07f8e9a315cc7782db4e",
+      "responseSavedAt": "2026-11-15T10:03:40.232254+00:00"
+    },
+    {
+      "id": 13,
+      "queries": [
+        "成都 菊乐乳业 新希望乳业 产品 官网",
+        "重庆 天友乳业 企业 官网",
+        "昆明 雪兰牛奶 大理 蝶泉牛奶 官方",
+        "贵阳 山花乳业 好一多 牛奶 官网"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-013.json",
+      "status": "search-only-not-article-review",
+      "sha256": "36d43f4a5a8c0b367393eb66bf72e2d03a33d9e2b9cab026f7c3d9774bc84ec1",
+      "responseSavedAt": "2026-11-15T10:04:09.964760+00:00"
+    },
+    {
+      "id": 14,
+      "queries": [
+        "重庆 非遗 火锅 小面 酸辣粉 合川桃片 永川豆豉 site:gov.cn",
+        "四川 红原 牦牛奶 郫县豆瓣 自贡扎染 非遗 site:gov.cn",
+        "云南 乳扇 乳饼 大理 石林 非遗 site:gov.cn",
+        "贵州 茅台 都匀毛尖 苗族银饰 蜡染 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-014.json",
+      "status": "search-only-not-article-review",
+      "sha256": "84b0212cb13d02df61e0dac7568d807c075046708be2d8b63bc5e99a2d5a5f40",
+      "responseSavedAt": "2026-11-15T10:04:11.544787+00:00"
+    },
+    {
+      "id": 15,
+      "queries": [
+        "云南 德宏 过手米线 撒撇 鬼鸡 site:gov.cn",
+        "云南 西双版纳 香茅草烤鱼 菠萝饭 竹筒饭 site:gov.cn",
+        "四川 阿坝 甘孜 凉山 牦牛奶 坨坨肉 糌粑 site:gov.cn",
+        "四川 成都 担担面 龙抄手 钟水饺 麻婆豆腐 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-015.json",
+      "status": "search-only-not-article-review",
+      "sha256": "759fe232f7132fefad3fafd4fa4975a391e68e22f99e8c5a32896e303b8c990d",
+      "responseSavedAt": "2026-11-15T10:04:13.212815+00:00"
+    },
+    {
+      "id": 16,
+      "queries": [
+        "成都 菊乐食品 官网 产品",
+        "成都 新希望乳业 官网 企业简介",
+        "重庆 天友乳业 官网 公司简介",
+        "昆明 雪兰牛奶 企业 官网"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-016.json",
+      "status": "search-only-not-article-review",
+      "sha256": "a6dcb6c73d72190d0184698bba7ccfca0748d093434bdab9ba6a58d87f242d54",
+      "responseSavedAt": "2026-11-15T10:06:04.830589+00:00"
+    },
+    {
+      "id": 17,
+      "queries": [
+        "大理 蝶泉乳业 牛奶 企业",
+        "贵阳 山花牛奶 南方乳业 官网",
+        "贵阳 好一多乳业 官网 产品",
+        "唯怡 豆奶 德阳 什邡 公司"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-017.json",
+      "status": "search-only-not-article-review",
+      "sha256": "c2b639d14f6acb5978d1cff9e647c041733b08bb547d4dec7f93a7f8ecdc6454",
+      "responseSavedAt": "2026-11-15T10:06:06.210611+00:00"
+    },
+    {
+      "id": 18,
+      "queries": [
+        "成都 担担面 龙抄手 钟水饺 赖汤圆 site:gov.cn",
+        "重庆 天府可乐 天友 牛奶 site:gov.cn",
+        "西双版纳 香茅草烤鱼 竹筒饭 site:gov.cn",
+        "玉溪 通海豆末糖 凉米线 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-018.json",
+      "status": "search-only-not-article-review",
+      "sha256": "77192b6709bc4fda831d979888197acc2eab6913b967db73dff7ce5896a57934",
+      "responseSavedAt": "2026-11-15T10:07:55.052377+00:00"
+    },
+    {
+      "id": 19,
+      "queries": [
+        "菊乐 成都 新希望乳业 成都 官方 企业 乳品",
+        "昆明 雪兰牛奶 site:gov.cn",
+        "大理 蝶泉牛奶 site:gov.cn",
+        "好一多乳业 贵阳 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-019.json",
+      "status": "search-only-not-article-review",
+      "sha256": "26c4eb4e577496e204de30112545e6fad265aff3f8df83aaf88d5c3454dabb51",
+      "responseSavedAt": "2026-11-15T10:07:56.612403+00:00"
+    },
+    {
+      "id": 20,
+      "queries": [
+        "天友乳业 低温奶 常温奶 重庆 site:gov.cn",
+        "山花牛奶 贵阳 乳业 site:gov.cn",
+        "蝶泉乳业 大理 洱源 site:gov.cn",
+        "好一多乳业 贵阳 修文 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-020.json",
+      "status": "search-only-not-article-review",
+      "sha256": "d6393283268755dea6d4abe66a9a70b188a981c36054137a75aae5450dc9551d",
+      "responseSavedAt": "2026-11-15T10:08:53.373352+00:00"
+    },
+    {
+      "id": 21,
+      "queries": [
+        "贵州茅台酒 仁怀 董酒 site:gov.cn",
+        "山花牛奶 贵阳 南方乳业 site:gov.cn"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-021.json",
+      "status": "search-only-not-article-review",
+      "sha256": "68561227b50c6d38a3617f26499ee12aaedeed2d33a5d005e97a08326694bc08",
+      "responseSavedAt": "2026-11-15T10:12:45.789268+00:00"
+    },
+    {
+      "id": 22,
+      "queries": [
+        "䢺江青梅酒 大邑 地理标志",
+        "出江青梅酒 大邑 质量要求"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-022.json",
+      "status": "search-only-not-article-review",
+      "sha256": "1e394264c1da683d7f3faf05d2f622e188f437e41258e536183a94c919d276d6",
+      "responseSavedAt": "2026-11-15T10:20:42.093377+00:00"
+    },
+    {
+      "id": 23,
+      "queries": [
+        "重庆 渝味360碗 完整 名单 各区县 官方",
+        "四川 天府旅游美食 809 名录 附件 excel",
+        "贵州 省级 非遗 传统技艺 食品 名录",
+        "云南 美食 名菜 100道 名录"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-023.json",
+      "status": "search-only-not-article-review",
+      "sha256": "c175d43599392148162911470386cfc5c4fe0b02d0e71c704ded43548191eaa9",
+      "responseSavedAt": "2026-11-15T10:22:42.871420+00:00"
+    },
+    {
+      "id": 24,
+      "queries": [
+        "重庆 渝味360碗 菜品完整名单 360道",
+        "天府旅游美食809道名录 附件 下载",
+        "云南 非遗 美食 名录 制作技艺 省级",
+        "贵州 第六批 非物质文化遗产 名录 传统技艺 附件"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-024.json",
+      "status": "search-only-not-article-review",
+      "sha256": "3e18755606eaf27853cd0db7f5b68836f7aa575e342f41f57a5adb7fe7960503",
+      "responseSavedAt": "2026-11-15T10:25:28.718169+00:00"
+    },
+    {
+      "id": 25,
+      "queries": [
+        "2025 全国名特优新农产品 名录 四川 重庆 云南 贵州 附件",
+        "2024 全国名特优新农产品 名录 四川 云南 贵州 pdf",
+        "渝味360碗 桂花红烧肉 武陵土扣碗 完整",
+        "云南 非遗 第五批 名录 传统技艺 附件"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-025.json",
+      "status": "search-only-not-article-review",
+      "sha256": "58e2f4f00e48d4a068cf6a569d545f44e16e7683cbc16d8babcac069846ebc90",
+      "responseSavedAt": "2026-11-15T10:26:24.859115+00:00"
+    },
+    {
+      "id": 26,
+      "queries": [
+        "\"2025年第三批全国名特优新农产品名录\" 附件 pdf",
+        "\"2025年第一批全国名特优新农产品名录\" pdf",
+        "\"2024年第三批全国名特优新农产品名录\" pdf",
+        "\"四川省\" \"名特优新农产品\" \"2025\" \"附件\""
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-026.json",
+      "status": "search-only-not-article-review",
+      "sha256": "7dc4e02d22f1c6e1c05964abff0f0f2da22836712aa1f2af615f4c89b1023d10",
+      "responseSavedAt": "2026-11-15T10:26:56.171645+00:00"
+    },
+    {
+      "id": 27,
+      "queries": [
+        "site:aqsc.agri.cn \"2025年第三批\"",
+        "site:aqsc.agri.cn \"2025年第一批\"",
+        "site:aqsc.agri.cn \"2024年第三批\"",
+        "全国名特优新农产品名录 2025 附件 xlsx"
+      ],
+      "responseFile": "research/.local/southwest-20261115/web-search-027.json",
+      "status": "search-only-not-article-review",
+      "sha256": "52df4e8b9e65702f10af67c701cf4d37f7a43e7efb8eb7842c287a9cf877ba97",
+      "responseSavedAt": "2026-11-15T10:27:30.692234+00:00"
+    }
+  ],
+  "queryCount": 106
+}

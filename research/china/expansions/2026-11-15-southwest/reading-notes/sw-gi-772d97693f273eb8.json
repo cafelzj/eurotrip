@@ -1,0 +1,93 @@
+{
+  "id": "sw-gi-772d97693f273eb8",
+  "title": "地理标志产品公告 · 2015年第162号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "772d97693f273eb88010ae154fc158b9e4149a3d",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第162号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "d5f8c8f8c78572b62ea50dd4b9ff113b9a6408e8ff59e174bd2f14f545a8eace",
+    "textSha256": "c8224e3b67567dc40a12277b476d088cc5df1693a929cb8544cfe687fd57af3c",
+    "textLength": 63289,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/772d97693f273eb88010ae154fc158b9e4149a3d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/772d97693f273eb88010ae154fc158b9e4149a3d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-590447b8ce9c8a8b1f",
+      "name": "王家贡米",
+      "scope": "王家贡米产地范围为四川省广元市昭化区王家镇、磨滩镇、柏林沟镇、晋贤乡、文村乡、清水乡、卫子镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "米粒细小,形态纤细匀称,垩白小。米质半透明,油滑光亮,具有大米固有的自然清香味。煮时清香四溢,浓郁持久,入口软糯,冷后不返生。2.特色",
+      "process": "",
+      "sectionSha256": "a5a81a1c844b956a3cd42f279c908a0a7915cc1144c2b82b3e10d497d1bbbc45"
+    },
+    {
+      "itemId": "sw-33ef347cae9770e16c",
+      "name": "红原牦牛奶",
+      "scope": "红原牦牛奶产地范围为四川省阿坝藏族羌族自治州红原县现辖邛溪镇、刷经寺镇、瓦切镇、安曲镇、色地镇、壤口乡、江茸乡、查尔玛乡、龙日乡、阿木乡、麦洼乡共11个乡镇现辖行政区域。",
+      "type": "dairy",
+      "variety": "",
+      "sensory": "项目指标色泽呈乳白色或微黄色滋味、气味奶香浓郁,不腥不膻,无异味。组织状态呈均匀一致的液体,无凝块、无沉淀、无正常视力可见异物。(二)",
+      "process": "流程图",
+      "sectionSha256": "5bfcb12a6024fbf1feb3883205a3243132220b234187c71dc98bfc90f87f81ee"
+    },
+    {
+      "itemId": "sw-90d1f8a9ae847369c4",
+      "name": "红原牦牛奶粉",
+      "scope": "红原牦牛奶粉产地范围为四川省阿坝藏族羌族自治州红原县邛溪镇、刷经寺镇、瓦切镇、安曲镇、色地镇、壤口乡、江茸乡、查尔玛乡、龙日乡、阿木乡、麦洼乡共11个乡镇现辖行政区域。",
+      "type": "dairy",
+      "variety": "",
+      "sensory": "项目指标色泽呈均匀一致的乳黄或乳白色滋味、气味具有纯正的乳香味(二)",
+      "process": "",
+      "sectionSha256": "f5076c8ec29ed00889d8349544ee6a16927e2bdd0814ab9408a581ab1663aa70"
+    },
+    {
+      "itemId": "sw-55ec8c3231beb9e9bd",
+      "name": "黄甲麻羊",
+      "scope": "黄甲麻羊产地范围为四川省双流县黄甲街道、协和街道、公兴街道、胜利镇、永安镇、黄龙溪镇。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "活体羊:活体全身被毛短,有光泽,呈赤铜色或麻褐色,并有十字架和画眉眼特征,腹部被毛颜色较浅,呈浅褐色或淡黄色。羊肉:鲜肉切面呈大理石样花纹,肉质细嫩,膻味低,肉汤味鲜香微白",
+      "process": "",
+      "sectionSha256": "59f958576bc76375317061d18ec746b1c0bf6632ac1204bd48d35490066534e7"
+    },
+    {
+      "itemId": "sw-d648cedb3f02c9763e",
+      "name": "蒲江丑柑",
+      "scope": "蒲江丑柑产地范围为四川省成都市蒲江县所辖7镇4乡1街道(鹤山街道、寿安镇、西来镇、朝阳湖镇、大塘镇、大兴镇、甘溪镇、成佳镇、白云乡、光明乡、长秋乡、复兴乡)。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实呈倒卵形,果皮橙黄色,果肉色泽呈金黄色,囊壁薄软,无核,肉质脆嫩多汁,入口化渣,味香甜",
+      "process": "",
+      "sectionSha256": "f7925a1016e0a6b9b8756dccc250470da179b57e48fe7c01b34890925794be7e"
+    },
+    {
+      "itemId": "sw-a6389d73e6b3de2eb5",
+      "name": "威远无花果",
+      "scope": "威远无花果产地范围为四川省威远县以向义镇为核心,覆盖新店、严陵、界牌、镇西、高石、龙会、铺子湾、东联、靖和、山王、小河、连界、两河、越溪、碗厂、观英滩、黄荆沟、庆卫、新场等20个镇。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "项目指标色泽表皮呈不均匀的乳黄色,果肉呈金黄色。组织状态皮质致密,肉体柔软适中(2)",
+      "process": "",
+      "sectionSha256": "c55d8cc7087394e943ca34d4f871971c927f3172f31af110a0bb3b67eeef8f10"
+    },
+    {
+      "itemId": "sw-b8cd2d09cee4e5f802",
+      "name": "米易红糖",
+      "scope": "米易红糖产地范围为四川省米易县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "颜色呈红褐色或深褐色,口味甘甜纯正,有浓郁的蜂蜜香气",
+      "process": "流程。甘蔗→榨汁→开泡→过滤→浓缩→煎糖→打砂→成型(固态)→入库↓灌装→杀菌(液态)→入库",
+      "sectionSha256": "06050c5eb9df39c038a3c1ea3a4a48154e3f11bdbc5ff17dcf0bd677992b6229"
+    }
+  ]
+}

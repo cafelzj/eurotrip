@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-567266d8c36f46f3",
+  "title": "地理标志产品公告 · 2008年第136号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "567266d8c36f46f375d38629326a74c0cd268361",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第136号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "7c012c9a5569e67883abe75878added13f3b8c59a10bdf76a85d254f2de8fd25",
+    "textSha256": "0c4efc33046bc04c9b22f1ed881a4dd4c042971323230e81ba4c712479b77873",
+    "textLength": 8054,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/567266d8c36f46f375d38629326a74c0cd268361.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/567266d8c36f46f375d38629326a74c0cd268361.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-99cc73fc6ad7457753",
+      "name": "国胜茶",
+      "scope": "国胜茶地理标志产品保护范围以四川省盐边县人民政府《关于划定国胜茶地理标志产品保护区域有关情况的函》(盐边府函〔2007〕57号)提出的范围为准,为四川省攀枝花市盐边县永兴镇、国胜乡、红宝乡、箐河乡、温泉乡等5个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "整芽略显白毫、形如银针、紧圆、挺秀、重实、匀整;色泽嫩绿油润、均匀;香气栗香、纯正;汤色黄绿明亮,滋味醇厚鲜爽,叶底肥嫩匀整",
+      "process": "1.工艺流程:摊放→杀青→摊凉→揉捻→理条→干燥→分筛→拣梗→风选→人工精选→提香→整形→包装入库。2.工艺要求:(1)摊放:摊放厚度为30mm至40mm,摊放时间6至8小时。(2)杀青:杀青温度220°C至280°C,杀青时间2至3分钟。(3)摊凉:薄摊自然冷却或鼓风摊凉。(4)理条:理条机温度控制在90°C至100°C,理条时间5分钟,摊凉30分钟;再进入理条机,温度控制在75°C至85°C,理条时间5至15分钟,摊凉30分钟至60分钟。(5)干燥:进入烘干机,厚度在20mm左右,温度控制在120°C至140°C,理条时间5至8分钟,摊凉30分钟后,",
+      "sectionSha256": "ac30ccd5d3b27ce473a4f6b37578b1d1467605b7c2d88de8b4de6ac2ade2b677"
+    }
+  ]
+}

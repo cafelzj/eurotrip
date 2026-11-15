@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-53394f483925223b",
+  "title": "地理标志产品公告 · 2011年第173号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC173%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "53394f483925223b42bc58e2482fd7c8de01d698",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第173号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC173%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "391ffaee50dec58b18386b3317ddb585909c6844d88388a9ebe434ec940b4629",
+    "textSha256": "be1da8b4da0332663f8669f3d084b75b1ca09629147d39623bde8ceb6d9ad04f",
+    "textLength": 5968,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/53394f483925223b42bc58e2482fd7c8de01d698.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/53394f483925223b42bc58e2482fd7c8de01d698.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-ef6a010e968de557f3",
+      "name": "金堂紫薯",
+      "scope": "金堂紫薯产地范围为四川省金堂县白果镇、五凤镇、高板镇、平桥乡、竹篙镇、隆盛镇、转龙镇、广兴镇、土桥镇、又新镇、云合镇11个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "川紫薯4号等紫甘薯类型品种",
+      "sensory": "薯块纺锤形,薯皮光滑;质地细腻,薯肉紫色,色泽均匀;生食香脆可口,熟食松软柔滑",
+      "process": "",
+      "sectionSha256": "3ac0c6a3e3b3e2dfd54ca0d15f0b173bcff27f594a1ee69d0e54077a99851b5c"
+    },
+    {
+      "itemId": "sw-701061bb84580a1be0",
+      "name": "昭化韭黄",
+      "scope": "昭化韭黄产地范围为四川省广元市元坝区昭化镇城关村、天雄村、石盘村、摆宴村、战胜村、凤凰村、鸭浮村、坪雾村8个村现辖行政区域。",
+      "type": "ingredients",
+      "variety": "宽叶韭",
+      "sensory": "假茎长≥20cm,呈白色,叶片淡黄色,有光泽,总株长≥45cm。味浓,质脆",
+      "process": "",
+      "sectionSha256": "0e902f889e278fda19ef7f2c9a4c4997f76e4858eadb8ccd4e04f41e38a236e7"
+    },
+    {
+      "itemId": "sw-d8442db36dca585a91",
+      "name": "德阳酱油",
+      "scope": "德阳酱油产地范围为四川省德阳市旌阳区现辖行政区域。",
+      "type": "seasoning",
+      "variety": "1.大豆:蛋白质含量42%至50%。2.小麦:采用保护范围内生产的优质小麦。3.水:保护范围内的饮用水",
+      "sensory": "体态清亮,色泽鲜亮,挂壁,深红棕色,无沉淀,酱、酯香气浓郁、口感鲜美醇厚,余味绵长,咸甜适口",
+      "process": "1.原料蒸煮:用加压蒸煮工艺。蒸煮所用蒸气压力为1.5kg/cm2至1.8kg/cm2,经保压8至10分钟后立即排气脱压,并要求迅速出罐降温至38°C至40°C。经蒸煮的大豆,组织变柔软,色呈淡褐,有熟豆香气,手感绵软。2.制曲:(1)曲室、曲池及用具必须清洁,并经消毒灭菌。(2)熟料接种温度应控制在38°C至40°C,种曲用量按千分之三计算,接种后应迅速进入曲池,厚度均匀、疏松程度一致。料层厚度控制在30cm(竹匾制曲厚度应控制在3cm以内),初进池的曲料含水量控制在42%至45%左右。(3)曲料进曲床后品温调整为30°C至32°C,当品温上升,应启动",
+      "sectionSha256": "63fbc3591bf3b1bb536a6f4a871d52d0ff885c6c3b281c5c280652b46c86ddd9"
+    }
+  ]
+}

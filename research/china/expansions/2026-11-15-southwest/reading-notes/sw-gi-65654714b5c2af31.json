@@ -1,0 +1,63 @@
+{
+  "id": "sw-gi-65654714b5c2af31",
+  "title": "地理标志产品公告 · 2013年第136号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "65654714b5c2af3189f5db71bd55b9d453eb6a05",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第136号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC136%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "31645c9b05431368749c53c85e9c1cb6ec518488c3c0e38c71ce8da0be8d6f4d",
+    "textSha256": "3122599cac3c994df0ef559b1ca593587bad1a86f77f7364e815820b35108e65",
+    "textLength": 7019,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/65654714b5c2af3189f5db71bd55b9d453eb6a05.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/65654714b5c2af3189f5db71bd55b9d453eb6a05.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-b321f14435c7232e45",
+      "name": "阿坝蜂蜜",
+      "scope": "阿坝蜂蜜产地范围为四川省马尔康县马尔康镇、梭磨乡、卓克基镇、松岗镇、沙尔宗乡、大藏乡、龙尔甲乡、白湾乡、党坝乡、木尔宗乡、脚木足乡、草登乡、康山乡、日部乡共14个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "色泽呈琥珀色或深琥珀色,半透明,口感绵甜、润不刺喉,回味悠长,有自然的花香味",
+      "process": "",
+      "sectionSha256": "d2e83c71d13efd235727996a20dc0a77655ac966eee6f3b34b61b69c9c1e6526"
+    },
+    {
+      "itemId": "sw-ca5e800132fc844bd4",
+      "name": "安居红苕",
+      "scope": "安居红苕产地范围为四川省遂宁市安居区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "苕块纺锤形,苕皮光滑;质地细腻,苕肉淡红色,色泽均匀;单块重80g至120g;生食香脆可口,熟食松软柔滑",
+      "process": "",
+      "sectionSha256": "b9795c34c72065bf645c8b905da2bfbe7e1fe48f4e5f1614f8cea35f95df0c53"
+    },
+    {
+      "itemId": "sw-8fdef8fc03163fd44b",
+      "name": "船山豆腐皮",
+      "scope": "船山豆腐皮产地范围为四川省遂宁市船山区现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "油亮光泽,纹面细致,松软滑腻,柔绵有弹性,味香质软。五香味色泽金黄,小磨麻油香气浓郁;麻辣味色泽红亮,麻辣爽口,回味悠长",
+      "process": "",
+      "sectionSha256": "cf24f1001549eddf7e3537adc72e216d717b705f8d2802ac3a60398653fe99a0"
+    },
+    {
+      "itemId": "sw-76bf786779de075042",
+      "name": "富顺豆花蘸水",
+      "scope": "富顺豆花蘸水产地范围为四川省富顺县现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "呈红褐色、油润光亮、表面有芝麻粒,馥郁芳香、香气悦人,质地粘糍、口感细腻、爽辣可口、鲜味悠长",
+      "process": "",
+      "sectionSha256": "16bcc2dfed86e3fd1d761f7c736a70e0d5a8f7cae0847f94bb259e6c067dda3a"
+    }
+  ]
+}

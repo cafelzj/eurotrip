@@ -44,3 +44,5 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 
 - `scripts/shaanxi-gansu-20261115/`：陕西、甘肃批次的封存知识、行政登记、检索与原文取得、公告章节和固定编辑稿采用。见 [本批底稿](../research/china/expansions/2026-11-15-shaanxi-gansu/README.md)。两批采用程序均会拒绝覆盖后续批次。
 - `python tests/china-shaanxi-gansu.py` 与 `node tests/china-shaanxi-gansu.cjs`：核对旧5051项及来源、知识封存、逐地查询与原文指纹、地域／分类纠错，以及新两省的地图、视图、详情与嘉峪关全市范围。
+
+- `southwest-20261115/`：四川、重庆、云南、贵州专用批次工具，从封存知识、外搜与原文、公告/农业名录审阅，到采用、配图与缺口。采用脚本拒绝覆盖后续批次，旧配图生成器也拒绝覆盖新图片。复跑前先读 [批次说明](../research/china/expansions/2026-11-15-southwest/README.md)。`python tests/china-southwest.py` 检查基线、知识封存、来源字节、采用、行政与实拍覆盖；`node tests/china-southwest.cjs` 检查四地页面。

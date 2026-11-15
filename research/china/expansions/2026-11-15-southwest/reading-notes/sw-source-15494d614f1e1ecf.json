@@ -1,0 +1,42 @@
+{
+  "id": "sw-source-15494d614f1e1ecf",
+  "title": "四川21市州809道美食大PK，这份天府旅游美食名录必须收藏！_四川在线",
+  "url": "https://sichuan.scol.com.cn/ggxw/202107/58219239.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/15494d614f1e1ecf.raw",
+  "originalResponseSha256": "cf336e3ab60a06386c2fbcaa6c5ea199ba77acb256839133fd223806df7aaa76",
+  "readableFile": "research/.local/southwest-20261115/articles/15494d614f1e1ecf.txt",
+  "readableSha256": "e40df5e9bff42111e0c2646074c0f1f752daec485c9bc69bf7c7b7c8608d802e",
+  "items": [
+    {
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "name": "麻婆豆腐",
+      "initialCandidateId": "memory-4c7303612caf20",
+      "adoptedFacts": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。四川地方标准的陈麻婆豆腐章节记录了豆腐入盐水、炒香调料、加入鲜汤烧制和收汁等环节，成菜以豆腐与复合调味的结合为辨识线索。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-179b29d11ef791a354",
+      "name": "夫妻肺片",
+      "initialCandidateId": "memory-c310e6b77a00cd",
+      "adoptedFacts": "夫妻肺片是成都相关的川味凉菜。四川地方标准记录以牛肉和牛杂卤熟、晾凉、切片，再配红油、花椒粉、芝麻粉、花生碎和芹菜等调成味汁。名称不意味着原料必定包含牛肺，具体组成应以相应制作资料为准。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-2a0d9d98ce3b35636b",
+      "name": "黄老五花生酥",
+      "initialCandidateId": "memory-1a7fee78afcbc3",
+      "adoptedFacts": "黄老五花生酥在四川天府旅游美食报道中作为内江地方食品出现。它属于花生糖点与加工食品，食品品类、品牌和不同包装口味分开保留，不推断所有系列都采用相同配方。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-8d98a6ea76f0a6c360",
+      "name": "临江寺豆瓣",
+      "initialCandidateId": "memory-ef3ef9abebbc9d",
+      "adoptedFacts": "临江寺豆瓣在四川天府旅游美食的资阳介绍中有明确记录。它属于地方调味品，产品名称、品牌和具体豆瓣配方分别整理。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

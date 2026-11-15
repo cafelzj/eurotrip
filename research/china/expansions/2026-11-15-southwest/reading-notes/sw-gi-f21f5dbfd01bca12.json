@@ -1,0 +1,63 @@
+{
+  "id": "sw-gi-f21f5dbfd01bca12",
+  "title": "地理标志产品公告 · 2013年第135号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC135%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "f21f5dbfd01bca12404a93b0099175a4dc9df0d6",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第135号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC135%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "4243757ca144ef4c7bdf23e47cf9bc3fb37d5ad52dfedcc21c20a464d3259388",
+    "textSha256": "053f4f600dbbe6240554940bf335999b5eee4c7513d12dac7cc1d9cbfdd99cfc",
+    "textLength": 8181,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/f21f5dbfd01bca12404a93b0099175a4dc9df0d6.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/f21f5dbfd01bca12404a93b0099175a4dc9df0d6.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-1a33465513383d4318",
+      "name": "射洪野香猪",
+      "scope": "射洪野香猪产地范围为四川省射洪县大榆镇、太兴乡、伏河乡、瞿河乡、青堤乡、金鹤乡、万林乡、文升乡、玉太乡、双溪乡、东岳乡、香山镇、洋溪镇、仁和镇、官升镇、金华镇、陈古镇、天仙镇、曹碑镇、明星镇、复兴镇、凤来镇、潼射镇、涪西镇、广兴镇、太和镇、太乙镇、青岗镇、金家镇、沱牌镇共30个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)活体猪:个体矮、小、短、圆,两头黑、中间白,嘴长略尖,具有发达的犬齿,四肢结实紧凑,部分个体背腰部稍带黑斑,额头有白线或倒三角型白斑。母猪每胎产仔10至15头,平均初生重0.75千克,成猪体重70千克以上。(2)猪肉:皮薄肉厚,脂肪层薄,肉质纤维清晰,有韧性,肌肉大理石纹分布均匀。肌肉有光泽,肉色鲜红、均匀",
+      "process": "",
+      "sectionSha256": "12cc3075e3015a244f8321c67f276579dc4b61ae2da146aaa1c92855baf247f0"
+    },
+    {
+      "itemId": "sw-64e635f47d924e87fc",
+      "name": "漆碑茶",
+      "scope": "漆碑茶产地范围为四川省宣汉县土黄镇、樊哙镇、漆碑乡、石铁乡、渡口土家族乡、三墩土家族乡、漆树土家族乡、龙泉土家族乡共8个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "(1)烘青茶:外形内质级别形状色泽匀度净度香气汤色滋味叶底特级细嫩有毫墨绿油润匀整净清高黄绿明亮醇爽黄绿细嫩有芽一级细紧带毫墨绿油润匀整净清香黄绿明亮尚醇爽黄绿细嫩带芽二级紧细尚直墨绿匀整尚净清正黄绿尚亮尚醇爽黄绿尚嫩(2)炒青茶:外形内质级别形状色泽匀度净度香气汤色滋味叶底特级紧细显峰灰绿油润匀整净带栗香黄绿明亮浓爽黄绿细嫩有芽一级紧细浑实灰绿尚润匀整净香高黄绿尚亮尚浓爽黄绿细嫩带芽二级紧实灰绿稍润匀整尚净尚高黄绿尚明浓尚爽黄绿嫩匀",
+      "process": "",
+      "sectionSha256": "623b8fc58a6576a1d013b17e1d0fec214343a2a53a0a298c886fd7387ab3b565"
+    },
+    {
+      "itemId": "sw-b95e0d3f6f41f58252",
+      "name": "乡城藏鸡",
+      "scope": "乡城藏鸡产地范围为四川省乡城县沙贡乡、水洼乡、尼斯乡、青德乡、青麦乡、然乌乡、洞松乡、正斗乡、定波乡、香巴拉镇共10个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)活体鸡:具有体型小,匀称紧凑,头昂尾翘,尾羽发达的特征。体型呈船型,头部清秀,公鸡冠大直立,冠齿4至6个,冠为红色单冠,少数有毛冠,毛冠约占1%至3%。母鸡冠小,稍有扭曲。肉垂红色,喙多呈黑色、少数呈肉色或黄色。(2)白条鸡:皮肤浅黄,光滑滋润,肌肉丰满有弹性,背部和尾部脂肪分布均匀。表皮和肌肉切面有光泽,肉质鲜美,无异味",
+      "process": "",
+      "sectionSha256": "5f2a606f3c8ffaadfd0003e4456f63245cc365439ed39b57f2b8f41ad923561b"
+    },
+    {
+      "itemId": "sw-b3206571b7edb0379f",
+      "name": "乡城藏鸡蛋",
+      "scope": "乡城藏鸡蛋产地范围为四川省乡城县沙贡乡、水洼乡、尼斯乡、青德乡、青麦乡、然乌乡、洞松乡、正斗乡、定波乡、香巴拉镇共10个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "蛋壳颜色以黄色和白色为主,蛋壳较厚;蛋形较小,呈椭圆形;鸡蛋蛋白清澈粘稠、有弹性。蛋黄较大,呈橘黄色或橙红色",
+      "process": "",
+      "sectionSha256": "9250c8826de8365f153a257fad8dbf399c4c239fa6de38b886b0a2429c2323d0"
+    }
+  ]
+}

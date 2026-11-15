@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-a6b7729279fba41d",
+  "title": "地理标志产品公告 · 2008年第52号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a6b7729279fba41d4df1f50d76f20b7681a95d36",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第52号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC52%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "7bda03c274cc683e792ed6fce5a2ecc7de6f8ed8d4fedebb5c51051ca3d08b0e",
+    "textSha256": "29766ebdc50c203171a587f7b9391e34ae0b46e55391c27263328e0dce39bf8c",
+    "textLength": 1724,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a6b7729279fba41d4df1f50d76f20b7681a95d36.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a6b7729279fba41d4df1f50d76f20b7681a95d36.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f1ff1374030a857f8a",
+      "name": "七佛贡茶",
+      "scope": "七佛贡茶地理标志产品保护范围以四川省青川县人民政府《关于界定“七佛贡茶”地理标志产品保护地域范围的请示》(青川府〔2007〕43号)提出的范围为准,为四川省广元市青川县青溪镇、桥楼乡、三锅乡、蒿溪回族乡、房石镇、曲河乡、前进乡、乐安寺乡、乔庄镇、孔溪乡、板桥乡、瓦砾乡、茶坝乡、黄坪乡、大坝乡、关庄镇、苏河乡、红光乡、石坝乡、马公乡、茅坝乡、凉水镇、大院回族乡、竹园镇、马鹿乡、七佛乡、楼子乡、木鱼镇、骑马乡、观音店乡、沙州镇、营盘乡等32个乡镇现辖行政区域",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形状扁、平、直、光,色泽油绿、绿润。香气高香而持久且有春兰花香之味,滋味鲜醇回甘,汤色黄绿明亮,叶底匀整明亮",
+      "process": "1.工艺流程:(1)机制:摊青→杀青→理条→做形(压扁)→烘干→包装→入库。(2)手工:摊青→青锅→摊凉→分筛→辉锅→分筛→再辉锅→包装→入库。2.工艺要求:鲜茶叶必须进行摊凉,摊放厚度一般在4cm至6cm左右,鲜叶失水率应控制在15%至20%之间",
+      "sectionSha256": "9651f4add4a50c6dbcd5af42d81361c771e518a57cd11077edfe24080dfb8ed7"
+    }
+  ]
+}

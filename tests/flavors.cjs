@@ -2,7 +2,7 @@ const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/st
 const ctx={window:{}};vm.createContext(ctx);for(const file of['data/flavors.js','data/flavor-map-regions.js','data/flavor-counties.js'])vm.runInContext(fs.readFileSync(file,'utf8'),ctx);
 const data=ctx.window.flavorCatalog,regions=ctx.window.flavorMapRegions,review=JSON.parse(fs.readFileSync('research/flavors/sources.json','utf8'));
 for(const source of review.sources.filter(r=>r.evidenceFile))assert.equal(require('node:crypto').createHash('sha256').update(fs.readFileSync(source.evidenceFile)).digest('hex'),source.readingNotesSha256,'saved source evidence agrees with '+source.id);
-assert.deepEqual(Array.from(data.provinces,p=>p.name),['北京','山东','安徽','江苏','浙江','上海','山西','河南','河北','湖南','湖北','福建','辽宁','吉林','黑龙江','江西','广西','广东','陕西','甘肃']);
+assert.deepEqual(Array.from(data.provinces,p=>p.name),['北京','山东','安徽','江苏','浙江','上海','山西','河南','河北','湖南','湖北','福建','辽宁','吉林','黑龙江','江西','广西','广东','陕西','甘肃','四川','重庆','云南','贵州']);
 assert.equal(new Set(data.items.map(i=>i.id)).size,data.items.length);
 assert.equal(new Set(data.items.map(i=>i.province+'|'+i.city+'|'+i.name)).size,data.items.length);
 for(const item of data.items){
@@ -19,7 +19,7 @@ for(const province of data.provinces){
  for(const city of cities){cityCount++;const count=data.items.filter(i=>i.province===province.id&&i.city===city).length;assert(count>0,province.name+' '+city+' has a first sourced batch');if(['beijing','shandong','anhui','jiangsu','zhejiang','shanghai','shanxi'].includes(province.id))assert(count>=11,province.name+' '+city+' retains completed coverage');}
  const svg=fs.readFileSync('assets/maps/flavors/'+province.id+'.svg','utf8');assert.equal((svg.match(/data-flavor-region=/g)||[]).length,regions[province.id].regions.length);assert(!/(?:href|src)="https?:|<script|onload=|onclick=/.test(svg));assert(review.provinceMaps.some(r=>r.province===province.id&&r.features===regions[province.id].regions.length));
 }
-assert.equal(cityCount,244);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),274);
+assert.equal(cityCount,291);assert.equal(Object.values(regions).reduce((n,p)=>n+p.regions.length,0),358);
 const coverage=JSON.parse(fs.readFileSync('research/flavors/coverage.json','utf8'));
 assert.equal(coverage.cities.length+coverage.countyAreas.length,cityCount);
 assert.equal(coverage.minimumPerCity,11);assert.equal(coverage.status,'in-progress');for(const row of coverage.cities.filter(r=>r.count<11))assert(coverage.pendingCities.some(r=>r.province===row.province&&r.city===row.city&&r.remainingToTarget===11-(row.sourceBackedCount??row.count)),'unfinished targets remain explicit');

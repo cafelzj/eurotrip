@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-37f8b24dfbe3e85c",
+  "title": "地理标志产品公告 · 2021年第444号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC444%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "37f8b24dfbe3e85c2adde82b352d8272fea0e409",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2021年第444号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC444%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "9bd88934268a90366f8b7fc6a6b6539113cd38870f64e6cf09ef1c48cf2ec3b2",
+    "textSha256": "257085b6278b0a6c9095ec5e64ecf4421cf3e828baef0d1636570c2370ad0e4d",
+    "textLength": 5114,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/37f8b24dfbe3e85c2adde82b352d8272fea0e409.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/37f8b24dfbe3e85c2adde82b352d8272fea0e409.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-ca255155843288d0b9",
+      "name": "老厂竹根水",
+      "scope": "贵州省六盘水市盘州市竹海镇现辖行政区域",
+      "type": "drinks",
+      "variety": "",
+      "sensory": "透亮,无色,煮沸后无异味,入口清爽甘甜",
+      "process": "水源地→储水罐→粗滤→精滤→杀菌→超滤→纯水→灌装→封盖→灯检→包装→入库→化验合格→出厂",
+      "sectionSha256": "8d25c0ca02bbc9a1f98edd1658cf4f795c3b35f10a7f0a40c7ba3e390b4e4c97"
+    },
+    {
+      "itemId": "sw-d1665e12fd7feb92d3",
+      "name": "普洱咖啡",
+      "scope": "云南省普洱市现辖行政区域",
+      "type": "drinks",
+      "variety": "卡蒂莫(Catimor)、铁毕卡变种(Coffeaarabicavar.typicaCramer)、波邦变种(Coffeaarabicavar.bourbonChoussy)、卡杜拉变种(Coffeaarabicavar.caturraKMG)",
+      "sensory": "生咖啡颗粒均匀饱满有光泽,呈圆形或椭圆形。自然光下颜色呈浅蓝色或浅绿色。清新无异味。杯品香气浓郁而不烈,口感醇厚,带有果酸风味特性",
+      "process": "1.湿法加工。鲜果分级→鲜果脱皮→脱胶→清洗分级→干燥→脱壳→分级包装→入库。2.干法加工。鲜果分级→日晒→脱果皮、种壳→分级包装→入库。3.半干法加工(蜜处理)。根据日晒时间与果胶量不同又分为黑蜜、红蜜、黄蜜三种加工工艺,具体工序如下:(1)黑蜜。鲜果分级→鲜果脱皮(保留80~100%果胶)→日晒→脱壳→分级包装→入库;—10—(2)红蜜。鲜果分级→鲜果脱皮→脱胶(保留50~80%果胶)→日晒→脱壳→分级包装→入库;(3)黄蜜。鲜果分级→鲜果脱皮→脱胶(保留20~50%果胶)→日晒→脱壳→分级包装→入库",
+      "sectionSha256": "96ad8f0b0e02884d9ed2c61789ef56ed93a9675382eea7c48448b96e238c99ef"
+    }
+  ]
+}

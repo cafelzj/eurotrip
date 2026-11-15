@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-43a463774cc8969c",
+  "title": "地理标志产品公告 · 2011年第97号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "43a463774cc8969cc6f63e348a12e6f9a89d3d06",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第97号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC97%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5f22e5e3e17a0e75ac8c485d20b1874f063109a2c84202bd2bf9bbc39531afd7",
+    "textSha256": "7d5ccc744f175c4e491a084148789e02e1d2395431d31a9836e63ef18ff15bff",
+    "textLength": 7004,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/43a463774cc8969cc6f63e348a12e6f9a89d3d06.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/43a463774cc8969cc6f63e348a12e6f9a89d3d06.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-aaf9ab1644c9aa4406",
+      "name": "旧院黑鸡",
+      "scope": "旧院黑鸡产地范围为四川省万源市旧院镇、白沙镇、沙滩镇、青花镇、草坝镇、大竹镇、黄钟镇、井溪乡、白羊乡、固军乡、堰塘乡、蜂桶乡、铁矿乡、八台乡、石塘乡、曹家乡、花萼乡、茶垭乡、花楼乡、丝罗乡20个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地黑鸡品种",
+      "sensory": "全身羽毛为黑色,略带绿色光泽,无胫羽;成年公鸡体形高大,成年母鸡体型中等;冠、髯呈紫黑色或红色,冠形有单冠或豆冠;全身皮肤呈乌黑色,喙、胫呈乌黑色或黄白色",
+      "process": "",
+      "sectionSha256": "cf160ed7ef8e6efac4cc0af7ca5c7c8a53b9e5753f085af0d437a4c0c65b5fe7"
+    }
+  ]
+}

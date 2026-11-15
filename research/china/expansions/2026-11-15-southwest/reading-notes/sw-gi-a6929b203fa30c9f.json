@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-a6929b203fa30c9f",
+  "title": "地理标志产品公告 · 2012年第111号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a6929b203fa30c9ff82177dc8371d10f04f0275f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第111号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC111%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "46ad0a077546a5ffb6169b8a31833eebea2ecdf342702b63c70adf6373f25e07",
+    "textSha256": "1fd1538af3a1aec12b7ad0d4edf33b76012af84c85fa03c7f7a944b1fd3016eb",
+    "textLength": 7143,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a6929b203fa30c9ff82177dc8371d10f04f0275f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a6929b203fa30c9ff82177dc8371d10f04f0275f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-8d1b81329111220b39",
+      "name": "资中枇杷",
+      "scope": "资中枇杷产地范围为四川省资中县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "大五星果实为圆形、早钟六号果实为倒卵圆形。果实表面光滑,色泽鲜艳,果皮表面及果肉色泽均为深黄色或橙红色,果实肉质细腻,果肉肥厚多汁,味甜美,可食率高",
+      "process": "",
+      "sectionSha256": "93412de65d5256532e5aa189f78dc90fe35fab9968c3def9efac3d86fc75f4d7"
+    },
+    {
+      "itemId": "sw-0117a65762772cb3e8",
+      "name": "老鹰茶",
+      "scope": "老鹰茶产地范围为四川省石棉县美罗乡、丰乐乡、挖角乡、草科乡、栗子坪乡、新棉镇6个乡镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "(1)芽茶:全芽披毫,干茶色泽棕红,形似玉笋、圆浑肥大、壮实;汤色黄亮,滋味醇和爽口、回甜、樟香浓郁。(2)叶茶(一芽一叶至一芽三叶干茶):干茶色泽棕红,叶均整;汤色黄绿,滋味醇和爽口、回甜、樟香浓郁",
+      "process": "",
+      "sectionSha256": "8b9f8ec087c539746ee83b2cded158c688872943dcb4c098d7b212a22398ff32"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "sw-gi-cb70ae8792d352c6",
+  "title": "地理标志产品公告 · 2013年第184号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC184%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "cb70ae8792d352c65cdb1b69e5a4b05f26f5b883",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第184号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC184%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "f41a8f4fc77cb0b1d4018bf2b9b759c191827b8f92755459c681cd3a34b14b40",
+    "textSha256": "cc68e6efa4259a211ada17540ec02f31e94263b60142848212cd2d656c7337dd",
+    "textLength": 25396,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/cb70ae8792d352c65cdb1b69e5a4b05f26f5b883.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/cb70ae8792d352c65cdb1b69e5a4b05f26f5b883.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-ce7466fe49ca4b00d2",
+      "name": "曾家山甘蓝",
+      "scope": "曾家山甘蓝产地范围为四川省广元市朝天区曾家镇、两河口乡、李家乡、汪家乡、麻柳乡、平溪乡、临溪乡、中子镇尧坪村、小安乡余垭村、白泉村、全胜村现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "色泽蓝绿,叶球紧实,叶片肉厚,口感清脆,略带甜味",
+      "process": "",
+      "sectionSha256": "8a555753da12600d4e34bbbd9d99cd606a7d6739e503e62ed5254c090ef493ee"
+    },
+    {
+      "itemId": "sw-60249f47525add7b15",
+      "name": "隆昌豆杆",
+      "scope": "隆昌豆杆产地范围为四川省隆昌县现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "油润光亮,颜色淡黄,色泽一致,杆条均匀,组织紧密",
+      "process": "",
+      "sectionSha256": "f860dcb3be3d29c6efb3845ee64df1576995502e93b4bd7be4357e3274467c84"
+    },
+    {
+      "itemId": "sw-c69a88394d59a809f2",
+      "name": "广安蜜梨",
+      "scope": "广安蜜梨产地范围为四川省华蓥市禄市镇、天池镇、永兴镇、华龙街道办事处、双河街道办事处共5个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果型较大,果实近球形,表面浅褐色或棕褐色,有浅色斑点,皮薄、肉质脆嫩、多汁无渣、酸甜适口",
+      "process": "",
+      "sectionSha256": "e70c0bee5fe02311967c160f93697e84f6e071f45f66dd27af5e83066da7f9cb"
+    },
+    {
+      "itemId": "sw-6adaff2f38dc80bb11",
+      "name": "蒲江米花糖",
+      "scope": "蒲江米花糖产地范围为四川省蒲江县现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "产品块形完整、不松散、大小均匀、洁白晶亮、香味纯正、香甜松脆,入口化渣,食后不粘牙",
+      "process": "",
+      "sectionSha256": "ff84ac201efe36656fc13a5905cdd0c94a698139ec1856d67546aa4097836f61"
+    },
+    {
+      "itemId": "sw-10b4d11e0ff650af38",
+      "name": "会东块菌",
+      "scope": "会东块菌产地范围为四川省会东县会东镇、小岔河乡、新云乡、撒者邑乡、堵格乡、火山乡、坪塘乡、长新乡、姜州乡、火石乡、铁柳乡、龙树乡、洛佐乡、嘎吉乡、柏岩乡、海坝乡、淌塘乡、岩坝乡、普咩乡、鹿鹤村乡、新田乡、铅锌镇、双堰乡、岔河乡、文箐乡、铁厂沟乡、江西街乡、新街乡、马龙乡、红果乡、新龙乡、红岩乡、松坪乡、新山乡、小街乡、老口乡、干海子乡、黄坪乡、鲁吉乡、溜姑乡、发箐乡、黑嘎乡、野租乡、雪山乡、拉马乡、鲁南乡、柏杉乡共47个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)鲜品:子实体表皮黑色、暗褐色或白色,直径≥3cm,内部产孢组织黑褐色、白色或棕色,有明显大理石纹理,有块菌特殊的清香味。(2)干品:棕褐色,切面质地细腻,有光泽,有明显大理石纹理",
+      "process": "",
+      "sectionSha256": "c9027fc1911a2542482dc8b89c331558b45fb402d6dedee98a2b2685f4306eae"
+    },
+    {
+      "itemId": "sw-7150c024d67cf690f2",
+      "name": "峨边竹笋",
+      "scope": "峨边竹笋产地范围为四川省峨边彝族自治县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "头尖底粗,笋长度在10cm至30cm,单笋重30g至100g,笋肉呈淡黄色、有光泽,粗细均匀;质柔,清脆,表面光滑呈层状;清香气味",
+      "process": "",
+      "sectionSha256": "c12f46d9178249b98341ffd120b05ab65c002e72a8a454ef26049d1e25d9d5fb"
+    },
+    {
+      "itemId": "sw-f06822403be6fa7932",
+      "name": "大邑榨菜",
+      "scope": "大邑榨菜产地范围为四川省大邑县安仁镇、王泗镇、晋原镇、悦来镇、苏家镇、青霞镇、上安镇共7个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "具有榨菜产品固有的色泽;条状或颗粒状,无异味;味道鲜、香、脆、嫩,咸淡适口",
+      "process": "",
+      "sectionSha256": "6372d10d347bb8fda2520570f34bf4dbdaf1872e1810ae46eae7a50224b78577"
+    },
+    {
+      "itemId": "sw-effadb4aaa1dc69fca",
+      "name": "出阝江青梅酒",
+      "scope": "出阝江青梅酒产地范围为四川省大邑县出阝江镇、晋原镇、悦来镇、苏家镇、斜源镇、西岭镇、花水湾镇、鹤鸣乡共8个乡镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "项目要求澄清、透明、无悬浮物、无沉淀(装瓶外观一年以上的产品允许有少量沉淀)色泽半甜、甜酒黄色、金黄色香气具有青梅清新的果香和谐调的酒香滋味半甜、甜酒纯净爽口、醇厚、酸甜协调、无异味风格具有本产品类型的固有风格",
+      "process": "",
+      "sectionSha256": "bb0cf0d06e9bc3f4e9cd8d4e7a2cf5a1c1a8d2e4b22dece90c4e0383f54c3660"
+    },
+    {
+      "itemId": "sw-49a42b24492255d609",
+      "name": "安仁葡萄",
+      "scope": "安仁葡萄产地范围为四川省大邑县安仁镇、韩场镇、董场镇、蔡场镇、苏家镇、上安镇、三岔镇、王泗镇、新场镇共9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果穗完整,果粒大小、形状、颜色整齐,果粉完整,果实外观呈现本品种特色;果肉细腻,糖酸比合理,适口性好",
+      "process": "",
+      "sectionSha256": "5d81475ea55dccb29e96e2d662ec226a29275b12dfe2174633bd7c1c515ed6fd"
+    }
+  ]
+}

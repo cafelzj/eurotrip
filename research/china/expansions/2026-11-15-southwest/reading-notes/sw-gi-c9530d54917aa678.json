@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-c9530d54917aa678",
+  "title": "地理标志产品公告 · 2005年第120号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC120%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c9530d54917aa678293c97e63bd5c4589b007cb8",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2005年第120号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC120%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5a8640c6e286772c5e252cd7537ff11ad09a0b81745c5eb22dee2e6e2276e554",
+    "textSha256": "0d297a36c57f88bf6fea49b937976894558fe92b51e4fa8e6e66478606d007ec",
+    "textLength": 1045,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c9530d54917aa678293c97e63bd5c4589b007cb8.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c9530d54917aa678293c97e63bd5c4589b007cb8.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-eb9ee0180d4a51dc9a",
+      "name": "余庆苦丁茶",
+      "scope": "余庆苦丁茶地理标志产品保护范围以贵州省余庆县人民政府《关于界定余庆苦丁茶地理标志产品保护范围的请示》(余政发[2004]42号)提出的范围为准,为贵州省余庆县现辖行政区域",
+      "type": "tea",
+      "variety": "",
+      "sensory": "",
+      "process": "1.初制工艺:初制工艺分为鲜叶摊放→杀青→脱水→揉捻→二炒→做形→三炒→起锅等工序",
+      "sectionSha256": "d092eda54f934d6ef38080326db9a47513c4abd0b2e3421cd6ff25f0b82071cb"
+    }
+  ]
+}

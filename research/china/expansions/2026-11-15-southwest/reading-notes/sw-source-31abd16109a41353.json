@@ -1,0 +1,28 @@
+{
+  "id": "sw-source-31abd16109a41353",
+  "title": "定了！2025年西双版纳、德宏泼水节时间公布！",
+  "url": "https://www.ynxc.gov.cn/html/2024/focus_1212/3017983.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/31abd16109a41353.raw",
+  "originalResponseSha256": "8b619bc3bbb342a7a01679e70c2e1ddf5e4b131a855e0041d112935014aa6ecc",
+  "readableFile": "research/.local/southwest-20261115/articles/31abd16109a41353.txt",
+  "readableSha256": "a4a67a3071e8a9cee00469f3143324dd33298594ccdd608f2dbd547c5a2b3857",
+  "items": [
+    {
+      "itemId": "sw-eaa64d2861b3ff4eed",
+      "name": "菠萝紫米饭",
+      "initialCandidateId": "memory-87fa89896bf8a7",
+      "adoptedFacts": "菠萝紫米饭被云南官方地方旅游介绍列入西双版纳特色美食，属于米饭与水果结合的地方餐食。现有采用范围为名称、地域及主食身份，具体米种和蒸制方式继续补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-c871e7599bf94830a6",
+      "name": "竹筒饭",
+      "initialCandidateId": "memory-a2c586161c080b",
+      "adoptedFacts": "竹筒饭被云南地方旅游介绍列为西双版纳美食。它与当地傣族饮食相连，竹筒作为食物器具的形式与具体粮食、馅料和烤蒸做法分别核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

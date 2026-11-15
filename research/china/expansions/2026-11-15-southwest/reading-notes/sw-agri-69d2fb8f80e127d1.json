@@ -1,0 +1,23 @@
+{
+  "id": "sw-agri-69d2fb8f80e127d1",
+  "title": "2026年第二批全国名特优新农产品公示",
+  "url": "http://www.aqsc.agri.cn/mtyx/tzgg/202609/t20260901_474171.htm",
+  "read": true,
+  "readMethod": "html-body-with-original-tables",
+  "originalResponseFile": "research/.local/southwest-20261115/agri/69d2fb8f80e127d1.raw",
+  "originalResponseSha256": "9701f67c3ce314529c0b4b481aee213dab87822f1fc321c84d0f843a1a126d40",
+  "readableFile": "research/.local/southwest-20261115/agri/69d2fb8f80e127d1.txt",
+  "readableSha256": "a814488f61a27774ddefe2624f623a1963e609933114f394aa4fb3e51726ab60",
+  "items": [
+    {
+      "itemId": "sw-ef2ad98b9ed3127d59",
+      "name": "富源薏苡仁",
+      "adoptedFacts": "富源薏苡仁是与云南·曲靖·富源县相联系的地方农产品与食材。农业农村部农产品质量安全中心的公示名单记录了这一名称及申报地域。该批资料所列地方申报或获证单位为富源县农业农村局。该批名单记载的生产规模为120公顷，对应原文公布或公示时点的登记范围。这里采用名单直接支持的地方产品身份，不将公示视为最终认定或当前证书有效性的证明。",
+      "sourceRowNumber": "429",
+      "sourceRowSha256": "f2379008b999176c38e1a265c93795e81735259870a6ab30c8c8c39598ca5d91",
+      "sourceStage": "proposed-list",
+      "scope": "官方名单或正文直接记录的地方产品与分类，原料与制法仅采用正文支持部分。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

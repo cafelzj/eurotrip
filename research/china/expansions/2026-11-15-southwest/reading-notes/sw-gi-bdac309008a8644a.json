@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-bdac309008a8644a",
+  "title": "地理标志产品公告 · 2008年第119号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "bdac309008a8644a4d59e3eaee7db90697cae8e9",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第119号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC119%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "ca82297cc43ad30645ecbfcc85ea7328637db4503f548086b19e81edbe49ce17",
+    "textSha256": "6d49f4d2fd4c9b25b1215aa149f76efa358bad13da6926113bb0624b3c4924d4",
+    "textLength": 7165,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/bdac309008a8644a4d59e3eaee7db90697cae8e9.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/bdac309008a8644a4d59e3eaee7db90697cae8e9.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-be7807c3baf6e4a45e",
+      "name": "苍溪雪梨",
+      "scope": "苍溪雪梨地理标志产品保护范围以四川省苍溪县人民政府《关于苍溪雪梨地理标志产品保护区域的报告》(苍府〔2007〕171号)提出的范围为准,为四川省苍溪县陵江镇、元坝镇、龙山镇、运山镇、云峰镇、岳东镇、月山乡、东青镇、文昌镇、河地乡、双河乡、岐坪镇、白驿镇、石马镇、白山乡、中土乡、亭子乡、彭店乡、白桥镇、白鹤乡、浙水乡等21个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "施家梨及其优系",
+      "sensory": "果实呈粗颈葫芦形,果面褐或黄褐色,梗洼中缓无锈,萼洼深广而陡;果心特小,肉质细脆、石细胞少",
+      "process": "",
+      "sectionSha256": "b07942cab2563195ccd74f12b062e7a4ccfff897df7799dd0a7403a4bf79cb86"
+    },
+    {
+      "itemId": "sw-ba2e4084c44ea9d36b",
+      "name": "雁江蜜柑",
+      "scope": "雁江蜜柑地理标志产品保护范围以四川省资阳市雁江区人民政府《关于确定雁江蜜柑地理标志产品保护范围的函》(资雁府函〔2006〕79号)提出的范围为准,为四川省资阳市雁江区雁江镇、松涛镇、宝台镇、临江镇、丰裕镇、祥符镇、迎接镇、忠义镇、碑记镇、小院镇、堪嘉镇、东峰镇、伍隍镇、石岭镇、南津镇、清水乡、丹山镇、中和镇、保和镇、老君镇、回龙乡、新场乡等22个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "兴津、日楠、宫本",
+      "sensory": "项目果形果色果皮口感品种风味浓、细嫩化渣、果汁丰兴津扁园、端正橙色或橙黄色光滑富宫本扁园、端正橙色光滑风味浓、化渣、果汁丰富日楠扁园、端正橙色光滑风味浓、化渣、果汁丰富",
+      "process": "",
+      "sectionSha256": "e06e7334999eb9058a2ba2c1314bfc52e8e04dc9e18b50f4b913e9669f0298f8"
+    },
+    {
+      "itemId": "sw-72e433bd955a9028de",
+      "name": "蒲江雀舌",
+      "scope": "蒲江雀舌地理标志产品保护范围以四川省蒲江县人民政府《关于蒲江雀舌地理标志产品保护区域情况的函》(蒲府函〔2008〕42号)提出的范围为准,为四川省蒲江县现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "芽头匀整,外形扁平挺直,形似鸟雀之舌,色泽绿润;香气清香高长,汤色黄绿明亮,滋味醇厚鲜爽,叶底嫩绿匀整",
+      "process": "1.工艺流程:摊放→杀青→摊凉→理条→摊凉→人工辉锅→摊凉→人工提香→摊凉→精制整形→包装入库。2.工艺要求:(1)摊放:摊放厚度为3至5cm,摊放时间4至8小时。(2)杀青:杀青温度100°C至120°C,杀青时间1至2分钟,杀青叶含水分60%至65%为宜。(3)摊凉:薄摊自然冷却或鼓风摊凉。(4)理条造形:锅温90°C至110°C,理条造形至茶叶含水12%至15%时出锅摊凉。(5)人工辉锅:锅温80°C至90°C,以抓、磨、挥、带、抖等手法相结合,待茶叶水分降至7%至8%时出锅摊凉。(6)人工提香:锅温100°C至110°C,手工炒至茶叶成翠绿色,手",
+      "sectionSha256": "c8568e57cb1781a0c333700649152607f22d5935d0904a594cd57f464a7545c8"
+    }
+  ]
+}

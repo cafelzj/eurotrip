@@ -1,0 +1,43 @@
+{
+  "id": "sw-gi-a4adaf5629a69a33",
+  "title": "地理标志产品公告 · 2010年第109号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC109%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a4adaf5629a69a33c26002679e825782cd21241d",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第109号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC109%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "3c6d59fb8ad4fda381d1f28b103df7846acce1247ffa10d79a518b2eb27e309d",
+    "textSha256": "4bb2a98fb764dc57743da4af797270ea6a336e9400724befb8c65706844af769",
+    "textLength": 7464,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a4adaf5629a69a33c26002679e825782cd21241d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a4adaf5629a69a33c26002679e825782cd21241d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-9b690ffb7ce50c286f",
+      "name": "蒲江猕猴桃",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "金艳、红阳",
+      "sensory": "果大而均匀、果形美观、香甜爽口、硬度大、耐贮藏等特征。指标项目金艳红阳果形美观整齐,呈长圆柱形,果形美观整齐,呈椭圆形或短圆柱形,外观果皮黄褐色,果面有极短的茸果皮绿色或绿褐色,果面无茸毛。毛。果重75-140g60-120g果肉黄色或黄绿色,果心部位有放射状果肉色泽果肉金黄色。鲜红色。细嫩多汁,味香甜,风味纯肉质细嫩,味甜如蜜,香气浓郁,风味口感正。纯正",
+      "process": "",
+      "sectionSha256": "75349b9f133d998441b4de0ca4a8a74f87c9f3bdf544439a611821022c6260b4"
+    },
+    {
+      "itemId": "sw-5a2fac3f1fbd6398e7",
+      "name": "新津黄辣丁",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "黄颡鱼(PelteobagrusfulvidracoRichardson)",
+      "sensory": "新津黄辣丁应为活鱼,商品鱼规格≥75g/尾。项目天然捕捞人工养殖体形匀称、柔软,腹部较平,体色腹部可稍凸,体色黄褐可稍暗淡,个黄褐较鲜亮,个体间大小不一致体间大小基本一致外形特征体长,头大且扁平,吻圆钝;眼小,眼径稍大、侧位;侧线以上体色灰黑,侧线以下体色淡黄,侧线上方有灰黑色不规则斑纹,鳍色灰黑色,鳍基部微红;须4对,有三对须末端为青黑色,鼻须末端超过眼后缘,上颌须末端超过胸鳍基部",
+      "process": "",
+      "sectionSha256": "05d57af03de97cf8ef0b05c5af037837e77be5e021fee4973b2e7e096bf04512"
+    }
+  ]
+}

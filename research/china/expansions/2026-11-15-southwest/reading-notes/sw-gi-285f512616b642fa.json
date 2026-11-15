@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-285f512616b642fa",
+  "title": "地理标志产品公告 · 2010年第162号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "285f512616b642fa3f4f077061ca4fb4c2fc31c1",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第162号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC162%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "43c278bd05cefb9709cf2aebda031d630da7adfae1d5899d8d05090fda94de30",
+    "textSha256": "46e2582bdd00a1de8c601f517c57354fe423bf49d11ad4b8f3e33d8e2706f2a3",
+    "textLength": 6418,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/285f512616b642fa3f4f077061ca4fb4c2fc31c1.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/285f512616b642fa3f4f077061ca4fb4c2fc31c1.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-c3ce801ae40bc31982",
+      "name": "保山小粒咖啡",
+      "scope": "",
+      "type": "drinks",
+      "variety": "卡蒂莫(Catimor)、铁毕卡变种(Coffeaarabicavar.typicacramer)、波邦变种(Cofeaarabicavar.bourbonchoussy)、卡杜拉变种(Cofeaarabicavar.caturraKMG)、蒙多诺沃(Mundonovocultivar)",
+      "sensory": "项目要求颗粒均匀饱满有光泽,无破损、干瘪;颜色为浅蓝色或浅绿色,气味清新无外观异味。感官香气浓郁,口感醇厚,具有浓而不烈,略带果酸味的特性。粒径≥5.5mm",
+      "process": "1.加工工序:采用湿法加工,工序为:鲜果→脱皮→发酵→清洗→干燥→脱壳→分级包装→入库。2.加工工艺:(1)鲜果:鲜果应为完全成熟的鲜红果实。(2)脱皮:在采摘的当天若不能及时脱皮,鲜果必须浸泡在水中保存。(3)发酵:将脱皮后的咖啡豆放入发酵池中进行发酵,温度20°C左右,发酵20至24小时即可,温度低时可适当延长时间,但发酵时间不得超过72小时。(4)干燥:晒干或烘干,在24小时内应使水分含量降到45%以下,最终咖啡豆水分降到12%",
+      "sectionSha256": "2421a27c1c4c8f38af526a2a8e69982a6d30c7910a96e4217f69a1ee71b318d1"
+    }
+  ]
+}

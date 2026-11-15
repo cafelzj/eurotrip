@@ -1,0 +1,93 @@
+{
+  "id": "sw-gi-25a7112b8491d64a",
+  "title": "地理标志产品公告 · 2018年第33号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "25a7112b8491d64a175bec960eaa96040a85f28e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2018年第33号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2e34139cf98b90256f267a7a6cb57a583d421b0ab523a712b3154e3fafa19ecf",
+    "textSha256": "caae40bc724cbce051fdf3dea451c0e050046c152de4972fd9d750111eaa9200",
+    "textLength": 37950,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-b94a012e6166f141c6",
+      "name": "甘孜水淘糌粑",
+      "scope": "甘孜水淘糌粑产地范围为四川省甘孜县甘孜镇、呷拉乡、色西底乡、卡攻乡、仁果乡、拖坝乡、斯俄乡、南多乡、生康乡、贡隆乡、庭卡乡、四通达乡、夺多乡、扎科乡、来马镇、昔色乡、泥柯乡现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "(1)色泽:呈浅黄色、浅棕色或乳白色,色泽均匀一致。(2)滋味、气味:拥有甘甜、浓郁的炒面滋味和香味,且有独特的清醇发酵香气。(3)状态:均匀粉末状,无结块,无霉变,无异物",
+      "process": "",
+      "sectionSha256": "7bd09f3bc9c9fc345e9987d2213b8deed1715883ab3fcb443bcf6b272cfc7bdd"
+    },
+    {
+      "itemId": "sw-5ea1f41d1920b90c87",
+      "name": "鹿鸣贡茶",
+      "scope": "鹿鸣贡茶产地范围为四川省宜宾市珙县现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "(1)鹿鸣贡茶干品感官要求,应符合表1的规定。表1鹿鸣贡茶干品感官要求项目要求色泽翠绿油润,稍有光泽。组织形态全芽翠绿匀齐完整。滋味香气清雅悠长。杂质无肉眼可见杂质。(2)鹿鸣贡茶湿茶感官要求,应符合表2的规定。表2鹿鸣贡茶湿茶感官要求项目要求色泽色泽翠绿油润。组织形态全芽匀齐完整,叶底嫩绿明亮。滋味香气清雅高长,汤色绿艳明亮,滋味鲜爽醇厚。杂质无外来杂质",
+      "process": "",
+      "sectionSha256": "fa00abb7833b860b0fab0388843b1224741f9215d5fc9be3254a4bc63812e2f2"
+    },
+    {
+      "itemId": "sw-f8014a8363f5b513e2",
+      "name": "羊田粉条",
+      "scope": "羊田粉条产地范围为四川省宜宾市高县羊田乡现辖行政区域及罗场镇南华社区、光荣村、红旗村、解放村、马店村、民新村、三台村、顺江村、天堂村、田村、桐林村、团结村、新集村、新塘村、兴场村、永新村、走马村和蕉村镇凤凰社区、裕丰村、巩固村、石盘村、文治村、龙潭村、万古村、仁和村、龙政村现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "(1)干粉条:形态:条直均匀,粗细适度,无并丝,弹性良好,圆粉丝径为1.50至2.00mm,宽粉丝径为宽6.0至8.0mm、厚0.80至2.0mm。色泽:色泽均匀,呈半透明的浅灰色。气味:具有产品固有香味。(2)煮后:不易断条、不糊汤、不粘连,口感爽滑、富有弹性,具有产品固有香味",
+      "process": "",
+      "sectionSha256": "f2b0a90eb10dddaf352ca2fab81cb3bebef5b185f663d1a89449362633f6405b"
+    },
+    {
+      "itemId": "sw-da845b5d64f16f0607",
+      "name": "望谟板栗",
+      "scope": "望谟板栗产地范围为贵州省望谟县王母街道办、平洞街道办、新屯街道办、蔗香镇、油迈瑶族乡、乐元镇、石屯镇、边饶镇、打易镇、郊纳镇、乐旺镇、大观镇、麻山镇、昂武镇、桑郎镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "坚果呈深褐色或红褐色,果实成熟饱满,肉质香糯、微甜。本地野生板栗单粒重4至9克,嫁接新品种单粒重7至16克",
+      "process": "",
+      "sectionSha256": "de025c72598c519cea36918efa06a2881dddee8581afb8356d027fe1277d9d19"
+    },
+    {
+      "itemId": "sw-9fd74674a6580bfd5d",
+      "name": "荔波蜜柚",
+      "scope": "荔波蜜柚产地范围为贵州省荔波县玉屏街道、朝阳镇、佳荣镇、茂兰镇、瑶山乡现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果形呈倒卵圆形,果肩圆尖,果皮淡黄色,皮薄,易剥,囊瓣大,果肉颜色有白、黄、红,果肉饱满、柔嫩多汁、化渣、酸甜适度、香气浓郁。2.产品品质特色:单果重1000g至2500g,可食率≥65%,可溶性固形物含量≥10%;总酸(以柠檬酸计)≤10g/kg,固酸比≥11,总糖(还原糖计)≥2.5g/100g。3.",
+      "process": "",
+      "sectionSha256": "31731a15eda78f5dd09b95b8ea1302f7c08480ea8b4ede03ec4926ad2a21e85e"
+    },
+    {
+      "itemId": "sw-d15c4e698a95879ee8",
+      "name": "郎岱猕猴桃",
+      "scope": "郎岱猕猴桃产地范围为贵州省六盘水市六枝特区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "红阳:呈圆柱形,果脐下凹,果皮绿褐色,果面无茸毛,果皮薄,果肉黄绿色,软化后淡黄色,果心横截面呈放射状红色条纹。肉质细嫩,味甜多汁,香气浓。东红:呈圆柱形,果脐一条直线,果皮绿褐色,果面无茸毛,果皮薄,果肉淡黄色,横截面果心小,有放射状红色条纹。肉质细嫩,味甜多汁,香气浓",
+      "process": "",
+      "sectionSha256": "087257f857c08a8a7cec52df7e01ddbff5a47d3fd96df30a3520c4a53b41aae4"
+    },
+    {
+      "itemId": "sw-61093d9cc40b7c1afb",
+      "name": "六枝魔芋",
+      "scope": "六枝魔芋产地范围为贵州省六盘水市六枝特区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "鲜芋:呈近球形,顶端稍凹陷,叶柄深红色,表皮呈深褐色,皮薄,肉质呈乳白色,微泛红,质地脆嫩细腻,切开后有粘液,有轻微魔芋固有的鱼腥气味。干粉:颗粒均匀,呈白色或微黄色,有魔芋固有鱼腥味",
+      "process": "",
+      "sectionSha256": "938393cc272cf72c98a84dec3ef2f2a045cc29bc356b3d4858cac6af43844df3"
+    }
+  ]
+}

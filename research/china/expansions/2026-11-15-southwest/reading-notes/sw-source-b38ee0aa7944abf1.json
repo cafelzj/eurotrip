@@ -1,0 +1,35 @@
+{
+  "id": "sw-source-b38ee0aa7944abf1",
+  "title": "贵州·六盘水“热‘雪’沸腾 彝族风情”之旅",
+  "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5018.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/b38ee0aa7944abf1.raw",
+  "originalResponseSha256": "32834cef175e394e69d7fa392c1cee9c01ca966da2406c426a734bbf9cc06d8d",
+  "readableFile": "research/.local/southwest-20261115/articles/b38ee0aa7944abf1.txt",
+  "readableSha256": "5b910fe82b33c11ba57ee91b0fa5c28c5e719c7d229ca5b0602032a9c3e3fd08",
+  "items": [
+    {
+      "itemId": "sw-8876c552bbe1e474c7",
+      "name": "水城羊肉粉",
+      "initialCandidateId": "memory-f06f3d17d5a101",
+      "adoptedFacts": "水城羊肉粉是文化和旅游部六盘水线路推荐的地方餐食。它与本地米粉饮食相连，羊肉部位、汤底和配料继续按专题核对，不套用其他城市同名羊肉粉的做法。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-86bb4947876e67da17",
+      "name": "盘州火腿",
+      "initialCandidateId": "memory-53970eb75375f7",
+      "adoptedFacts": "盘州火腿在六盘水地方线路中以盘县火腿之名出现，属于地方加工肉制品。旧县名与现行盘州市名称分别保留，具体腌制和储存要求继续据产品资料核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sw-2b44274c6e64bcd4cc",
+      "name": "水城烙锅",
+      "initialCandidateId": "memory-5868395ed44475",
+      "adoptedFacts": "水城烙锅是六盘水地方线路推荐的特色餐食。它属于地方烹食方式与菜肴组合，具体肉类、蔬菜、器具和蘸料分别看待，不把所有烙锅推定为固定菜单。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

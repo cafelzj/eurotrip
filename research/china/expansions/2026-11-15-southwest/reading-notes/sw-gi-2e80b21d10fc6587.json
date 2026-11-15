@@ -1,0 +1,63 @@
+{
+  "id": "sw-gi-2e80b21d10fc6587",
+  "title": "地理标志产品公告 · 2011年第172号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC172%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "2e80b21d10fc65878afc623845f3b15af3defe80",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第172号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC172%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c070cefad439f843dbf55ad9de31f2f1fdcebe1677ec8bfd7c4419400847d2c8",
+    "textSha256": "f0944229d4f0b5bb1dbc4c48894fee2547758e498054d5497b5d4737e88a88f8",
+    "textLength": 7233,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/2e80b21d10fc65878afc623845f3b15af3defe80.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/2e80b21d10fc65878afc623845f3b15af3defe80.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-38075090f2d7749a51",
+      "name": "中江挂面(中江手工挂面)",
+      "scope": "中江挂面(中江手工挂面)产地范围为四川省中江县南华镇、杰兴镇、永太镇、通济镇、南山镇、集凤镇、双龙镇7个镇现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "洁白、细如银丝,均匀光滑,体内有微孔。煮熟后柔软、久煮不糊,不粘牙",
+      "process": "时间。加工时间限定为每年10月初到次年4月底",
+      "sectionSha256": "56e2d733a6de462f55035313771661fce3015d302b99d21862a1402f3d4f813f"
+    },
+    {
+      "itemId": "sw-a5adb5245c83df1e9b",
+      "name": "道明竹编",
+      "scope": "道明竹编产地范围为四川省崇州市道明镇、公议乡、王场镇、济协乡、白头镇5个乡镇现辖行政区域。",
+      "type": "crafts",
+      "variety": "种源。慈竹[Sinocalmusaffinis(Rendle)Mcclure]",
+      "sensory": "色泽柔和,编织紧密、均匀;平面光滑、手感无毛刺;图案完整、清楚;无脱落、无断丝、无缺丝、无锯齿、无破裂;首尾衔接紧密、修边光平。(1)平面竹编、立体竹编:经纬比例恰当、图案清晰、层次分明,色彩丰富。(2)瓷胎竹编:竹篾细、紧贴胎、密藏头",
+      "process": "",
+      "sectionSha256": "5e56d6c58cc1c212971317ab4d67d6389c74413c5e435e184c3d945a692b4f69"
+    },
+    {
+      "itemId": "sw-9c211ac73b4f78ad40",
+      "name": "白龙湖银鱼",
+      "scope": "白龙湖银鱼产地范围为四川省广元市青川县沙州镇、营盘乡、姚渡镇、木鱼镇、骑马乡5个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "大银鱼(HemisalanxprognathusRegan)。太湖短吻银鱼(俗称小银鱼)(Neosalanxtaihuensis)",
+      "sensory": "(1)冷冻银鱼:颜色洁白,个体饱满,肉质细嫩。(2)银鱼干:呈半透明银白色,肉质细嫩,味道鲜美",
+      "process": "",
+      "sectionSha256": "de2a72fd15a71242aae9437bab584a73fbb2477ef77469f164cec75fed84c9fa"
+    },
+    {
+      "itemId": "sw-52009479f51b12e9fc",
+      "name": "广元橄榄油",
+      "scope": "广元橄榄油产地范围为四川省广元市青川县、剑阁县、旺苍县、苍溪县、利州区、元坝区、朝天区、广元经济开发区8个区县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "佛奥(Frantoio)、科拉蒂(Cortina)",
+      "sensory": "项目初榨橄榄油指标色泽淡黄微绿气味滋味有明显的果香味,口感爽滑,有淡淡的苦味或辛辣味透明度澄清透明",
+      "process": "1.工艺流程:果实→清洗→粉碎→融和→离心分离→油水分离→过滤→储存→灌装→成品。2.加工要点:(1)果皮完好,果实从采摘到加工不得超过24小时,不得使用落地果。(2)分品种用粉碎机粉碎,粉碎筛网孔径4mm至6mm。(3)搅拌融和,搅拌时间30min至50min,搅拌速度为18r/min至20r/min,料品温度≤28°C。(4)用碟片式离心机进行油水分离,油品温度≤28°C。(5)用板框式过滤机,滤孔孔径≤0.2μm",
+      "sectionSha256": "3bc915e5e2b12d22ad999b2478ee4be8e645d84450a06d3f744ad1db1cb241c6"
+    }
+  ]
+}

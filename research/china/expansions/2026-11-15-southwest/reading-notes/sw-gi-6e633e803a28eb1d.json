@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-6e633e803a28eb1d",
+  "title": "地理标志产品公告 · 2006年第61号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC61%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "6e633e803a28eb1d8b2c50e5555c48d594e981c1",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第61号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC61%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "4f94516797f952e470e1faf8f067332a1aa5215a38700c216af7393a58a71226",
+    "textSha256": "100c6136f99f5e5caf3ffd1374bac6f02e69c6e233089564c5954df1e11bcc75",
+    "textLength": 1086,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/6e633e803a28eb1d8b2c50e5555c48d594e981c1.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/6e633e803a28eb1d8b2c50e5555c48d594e981c1.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-2c516c850615337d09",
+      "name": "得荣树椒",
+      "scope": "得荣树椒地理标志产品保护范围以四川省得荣县人民政府《关于得荣树椒地理标志产品保护种植区域的说明》(得府[2005]104号)提出的范围为准,为四川省得荣县子庚乡、古学乡、曲雅贡乡、日龙乡、徐龙乡、贡波乡、八日乡、奔都乡及松麦镇等9个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "树椒地方品种",
+      "sensory": "",
+      "process": "",
+      "sectionSha256": "b78095ce3b7a91b317386ada93ab1e956fe2ba51af770f463841ac2195cca94f"
+    }
+  ]
+}

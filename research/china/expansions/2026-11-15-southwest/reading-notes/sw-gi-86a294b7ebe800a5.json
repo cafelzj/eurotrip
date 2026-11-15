@@ -1,0 +1,53 @@
+{
+  "id": "sw-gi-86a294b7ebe800a5",
+  "title": "地理标志产品公告 · 2011年第197号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC197%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "86a294b7ebe800a54a8fc6ab3ae3389634eac49b",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第197号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC197%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "35f14df78ff33dd18d777bdaa5839814e24eb2403ceb67711b6de36d1ad01c61",
+    "textSha256": "3c5c14e7e42bcdfa08098b96f6cebfa2a514564ab22291a9ba07edeed5e28fc4",
+    "textLength": 5372,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/86a294b7ebe800a54a8fc6ab3ae3389634eac49b.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/86a294b7ebe800a54a8fc6ab3ae3389634eac49b.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-f85b16fef7813b9fa8",
+      "name": "雅鱼",
+      "scope": "雅鱼产地范围为四川省雅安市雨城区望鱼乡、沙坪镇、孔坪乡、南郊乡、北郊乡、多营镇、草坝镇、大兴镇、晏场镇、严桥镇、合江镇11个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "齐口裂腹鱼[Schizothorax(schizothorax.)prenanti]、重口裂腹鱼[Schizothorax(Racoma)davidi]",
+      "sensory": "体形似鲤,鳞细如鳟;肉质细嫩,口感爽滑",
+      "process": "",
+      "sectionSha256": "4fd94d78607f1b3be3318cfd4cffa80c88e0dc3377323d0256dc3e00d5babab6"
+    },
+    {
+      "itemId": "sw-9812e976551bc89a66",
+      "name": "剑门关豆腐",
+      "scope": "剑门关豆腐产地范围为四川省剑阁县现辖行政区域。",
+      "type": "dishes",
+      "variety": "1.大豆:选用保护区生产的蛋白质含量≥42%的大豆。2.生产用水:采用保护区内山泉水,pH值7.3至7.6",
+      "sensory": "(1)鲜豆腐:颜色雪白,质地细嫩,软硬适宜,表面不粘,弹性、韧性好。口感细腻,温柔滋润,爽口无渣,味道清香,含大豆的原汁醇香。(2)豆腐干:呈白色或淡黄色,块形整齐均匀,质地密实,韧性柔软,醇香可口",
+      "process": "1.酸水制作:(1)工艺流程:新鲜蔬菜→清洗→切段→杀青→装坛发酵→取汁。(2)加工要点:1新鲜蔬菜:保护范围内生产的叶类蔬菜。2杀青:温度95°C至100°C,时间3min至5min。3装坛发酵:常温下发酵时间24h。2.鲜豆腐加工:(1)工艺流程:选料→浸泡→磨浆分离→煮浆→凝浆→压榨。(2)加工要点:1浸泡:冬季浸泡时间18h至24h;春季和秋季浸泡时间12h至18h;夏季浸泡时间4h至8h。浸泡至大豆有弹性、无硬感、搓开豆瓣稍凸,皮瓣发脆不发糠。2磨浆分离:使用石磨磨浆,豆浆浓度控制在12%至13%。3煮浆:煮浆温度95°C至100°C,维持时间",
+      "sectionSha256": "02befb55b1651f2cb44e0179f7bd9d2e5231d0bc82371ac0d7dca2d47b96aafe"
+    },
+    {
+      "itemId": "sw-bac8c3f009d79fc448",
+      "name": "西昌小香葱(琅环小香葱)",
+      "scope": "西昌小香葱(琅环小香葱)产地范围为四川省西昌市琅环乡、安宁镇、礼州镇、月华乡、兴胜乡、樟木箐乡、西乡乡、小庙乡8个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地传统品种",
+      "sensory": "叶片深绿色细筒状,葱白长、白嫩,光泽度好,香味浓略带甜味",
+      "process": "",
+      "sectionSha256": "4832f92cac1c13ed97179d441aa38e6d7f8e77883cb304db2e32d1d89e31d5ea"
+    }
+  ]
+}

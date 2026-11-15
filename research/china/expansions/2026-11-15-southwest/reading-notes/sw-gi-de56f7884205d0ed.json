@@ -1,0 +1,113 @@
+{
+  "id": "sw-gi-de56f7884205d0ed",
+  "title": "地理标志产品公告 · 2013年第175号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "de56f7884205d0edb92376a78260be9eabd73229",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第175号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "842938445c6a91581fea7764d59bc02f3cebc4bb57b6366e3cf99337bccb973c",
+    "textSha256": "6582a143dcfed47fc3973dafd4d717cdda122b5f18b02f8780344da51242ed97",
+    "textLength": 29294,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/de56f7884205d0edb92376a78260be9eabd73229.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/de56f7884205d0edb92376a78260be9eabd73229.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-ace672ab13831ccc27",
+      "name": "新桥枇杷",
+      "scope": "新桥枇杷产地范围为四川省荣县新桥镇、旭阳镇、正紫镇、东兴镇、留佳镇、双石镇、乐德镇、长山镇、高山镇、双古镇、度佳镇、来牟镇、保华镇、过水镇、鼎新镇、东佳镇、河口镇、望佳镇、观山镇、古文镇、铁厂镇、古佳乡、复兴乡、墨林乡、雷音乡、于佳乡、金花乡共27个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实圆形,表面光滑,色泽鲜艳,果皮、果肉深黄色或橙红色,肉质细腻,肥厚多汁",
+      "process": "",
+      "sectionSha256": "a1f2fa3b800be2344c61eed3d6e2095af8705d901208585cba634355c24d4bb1"
+    },
+    {
+      "itemId": "sw-163e14c4c39ef9daa5",
+      "name": "大兴蒜薹",
+      "scope": "大兴蒜薹产地范围为四川省西昌市大兴乡、川兴镇、高枧乡、海南乡、黄水乡、黄联关镇、高草乡、裕隆乡、佑君镇、阿七乡共10个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "直径0.2cm至0.6cm,长度35cm至50cm。基部嫩白、上部浓绿、尾端不萎蔫糠心,色泽鲜绿、质地脆嫩,辛辣浓香略带甜味",
+      "process": "",
+      "sectionSha256": "42cb6fec2a298aeb793f362d0af57ca6e5b0b2e11f955d96e53be452f299d2d0"
+    },
+    {
+      "itemId": "sw-9f78db084f2f5f4b97",
+      "name": "东坡肘子(眉山产区)",
+      "scope": "东坡肘子(眉山产区)产地范围为四川省眉山市东坡区现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "酱红色、黄褐色或乳白色,色泽均匀,表面有光泽,汤汁呈棕褐色或油红色。皮不脱落,肉软硬适度。具有固有的滋味和气味,无肉眼可见外来杂质",
+      "process": "",
+      "sectionSha256": "3845311e18ffc5f2091667706a83e0bd3572f6258f91f5285e516eff32e82228"
+    },
+    {
+      "itemId": "sw-561b8591d1f80e0ae9",
+      "name": "河舒豆腐",
+      "scope": "河舒豆腐产地范围为四川省蓬安县河舒镇、相如镇、锦屏镇共3个乡镇现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "(1)豆腐:乳白色或淡黄色,断面有光泽;有豆腐特有的豆香味,口感细腻鲜嫩;有弹性,块型完整。(2)豆腐干:淡黄至深褐色,密实细腻,富有弹性,咸淡适口,具有卤(熏)豆腐特有的香味",
+      "process": "",
+      "sectionSha256": "698d3cc7d58e238e9aabc9a1b95c9902bb41af4fc901c894d5339a678509fa66"
+    },
+    {
+      "itemId": "sw-dc42b7fc87fcf2942f",
+      "name": "太源井晒醋",
+      "scope": "太源井晒醋产地范围为四川省自贡市沿滩区王井镇、邓关镇、沿滩镇、仙市镇、瓦市镇、黄市镇、永安镇、联络镇、富全镇、兴隆镇、卫坪镇、九洪乡、刘山乡共13个乡镇现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "指标项目自然陈酿恒温陈酿色泽深棕红褐色红综色香气醇香和脂香,弥久留香醇香和脂香滋味酸味柔和、醇厚回甜酸味协调体态汁澄清,浓稠挂壁汁澄清",
+      "process": "",
+      "sectionSha256": "b8e685ab8e1b1c82dd969ee944481f384dbbff2eba2dba5dac23a8bd88e85596"
+    },
+    {
+      "itemId": "sw-4e5c34f5ed632398b4",
+      "name": "五宝花生",
+      "scope": "五宝花生产地范围为四川省自贡市贡井区五宝镇、莲花镇、牛尾乡、龙潭乡、桥头镇、成佳镇、白庙镇、章佳乡、长土镇、建设镇、艾叶镇、筱溪街道办事处、贡井街道办事处共13个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "鹰嘴形,果壳薄,表面麻眼浅光滑,网纹清晰,荚果大小中等,均匀,果壳白色略带浅黄。果粒细长、条直、匀称,腰脐明显。籽仁珍珠豆形或中间形,种皮粉红色或浅粉红色。花生仁象牙色,饱满,口感细腻,口味甘甜",
+      "process": "",
+      "sectionSha256": "8c34d8c224c9feed3a133429cd1ecda13bce8692c3eaf49dc1b57f8dd4a97e07"
+    },
+    {
+      "itemId": "sw-0364d98992702b9663",
+      "name": "温江酱油",
+      "scope": "温江酱油产地范围为四川省成都市温江区现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "色泽鲜亮,挂壁,深红棕色,酱酯香气浓郁,口感鲜美醇厚,余味绵长,咸甜适口",
+      "process": "",
+      "sectionSha256": "ad7672cd37802d068c79cd6bbd89ec87f2e98e75897b26e9d2dd1e443b87d70d"
+    },
+    {
+      "itemId": "sw-5f2732957fdbf0b5d1",
+      "name": "仁寿芝麻糕",
+      "scope": "仁寿芝麻糕产地范围为四川省仁寿县文林镇、大化镇、汪洋镇共3个乡镇现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "外观呈乳白色,无斑点,无杂质,糕质细嫩,入口化渣,回香",
+      "process": "",
+      "sectionSha256": "841cb3c1f17b539319041ed77b90095ec1024b422322c816d36073aad3652eea"
+    },
+    {
+      "itemId": "sw-8d6fc90b4e8f2bc778",
+      "name": "空山核桃",
+      "scope": "空山核桃产地范围为四川省通江县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实外形呈椭圆形、圆形。果面较光滑,缝合线低平。仁色白,饱满",
+      "process": "",
+      "sectionSha256": "4e793248f44a0fc2b04c34e43d019c96d745e5bebfb7fcf03dc4448a030ee8e1"
+    }
+  ]
+}

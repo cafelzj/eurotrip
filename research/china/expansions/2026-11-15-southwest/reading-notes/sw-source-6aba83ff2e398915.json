@@ -1,0 +1,21 @@
+{
+  "id": "sw-source-6aba83ff2e398915",
+  "title": "昭通苹果领衔，昭阳高原好物即将亮相松江",
+  "url": "https://www.songjiang.gov.cn/xwzx/001001/20261012/e50e74b9-c718-46e4-893b-406327c9505e.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/southwest-20261115/articles/6aba83ff2e398915.raw",
+  "originalResponseSha256": "c758fb9e306a5c52057e7b457449d9286497b6bb683df9a01ece9c219fdf9138",
+  "readableFile": "research/.local/southwest-20261115/articles/6aba83ff2e398915.txt",
+  "readableSha256": "6053475c9edff86934d5fc9dca6afad4fd9cff5466cbd972f8329816d80a7327",
+  "items": [
+    {
+      "itemId": "sw-60e37d7aba335db93b",
+      "name": "昭通小肉串",
+      "initialCandidateId": "memory-9bbd40bf6501f4",
+      "adoptedFacts": "昭通小肉串被列入昭阳地方特色食品展示，是当地餐饮风味的一种。肉类、串制方式、调料和门店分别核对，食品类别归地方菜肴与熟食。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "sw-gi-c73cba5ce06136b2",
+  "title": "地理标志产品公告 · 2014年第13号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c73cba5ce06136b2f78edb664187bf69d7de1d38",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2014年第13号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b1d026a9e9bd4b84f047f02a9a1f9aca6a3ac48c8ef83b7f5e162cc718f0bc8d",
+    "textSha256": "2dbe006217a4ef23648bd787c4fac64c8c5b0d044313dba58d2e5ee61ef1b7c9",
+    "textLength": 22620,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c73cba5ce06136b2f78edb664187bf69d7de1d38.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c73cba5ce06136b2f78edb664187bf69d7de1d38.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-24e0c2451e482caea3",
+      "name": "自贡冷吃兔",
+      "scope": "自贡冷吃兔产地范围为四川省自贡市自流井区现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "色泽鲜亮,肉质坚实、有嚼劲,味浓鲜、爽口不绵,具有麻、辣、鲜、香、甜,“五味调和、互不压味”的独特品质",
+      "process": "",
+      "sectionSha256": "f515935f764d5757188f9559cc3f23ba19a4f84d58ef9ed2121118b9d704ebeb"
+    },
+    {
+      "itemId": "sw-75c399f6f72a78e14a",
+      "name": "汉源花椒油",
+      "scope": "汉源花椒油产地范围为四川省汉源县现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "浅黄色至棕黄色,清澈透明,具有花椒固有的香气,麻味绵长",
+      "process": "",
+      "sectionSha256": "e3ddb5a0189ec232789d029d0cb91756f09e92e429b850e3c76e06f12514374c"
+    },
+    {
+      "itemId": "sw-88d174314f716bcb8b",
+      "name": "马湖莼菜",
+      "scope": "马湖莼菜产地范围为四川省雷波县马湖乡、黄琅镇、中田乡共3个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "地下茎白、叶子椭圆形、叶面十分光滑被透明胶质状的黏液包裹、上面亮绿色,下面绿中带紫,叶柄有绒毛。形态均匀,茎叶长短一致,叶片卷曲",
+      "process": "",
+      "sectionSha256": "bed46d9810ffb505ac65c06767aa74085140402854e0248e7df1cfba040c7cf3"
+    },
+    {
+      "itemId": "sw-7f4542b3349b46c86d",
+      "name": "分水油纸伞",
+      "scope": "分水油纸伞产地范围为四川省泸州市江阳区分水岭镇现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "凹陷式裱褙伞面,图案古典,色彩鲜艳油亮,透光好",
+      "process": "",
+      "sectionSha256": "0e983f8fe303cb9e74ef0131086055d91322576f3c78845ff24f05813143b60a"
+    },
+    {
+      "itemId": "sw-e80e1978825b52ef7a",
+      "name": "麻柳刺绣",
+      "scope": "麻柳刺绣产地范围为四川省广元市朝天区现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "绣品线条简洁明快、造型生动别致,富有装饰意味和实用美观特色。2.内在质量:画面通幅完整,排针紧密,不露底、不补针,绣面隐藏绣线接头和线头,无错绣、漏绣,底布无疵点、无污渍;配色纯正、典雅,绣面肌理平齐柔和,有较强韵律感、节奏感。3.",
+      "process": "",
+      "sectionSha256": "ca1ea087fee2414bed5d7802a19cf141047678f44b7e8fb925ebd7c579d0bce4"
+    },
+    {
+      "itemId": "sw-1896e50472ba20e916",
+      "name": "鹤庆乾酒",
+      "scope": "鹤庆乾酒产地范围为云南省鹤庆县云鹤镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "无色或微黄、清澈透明、无悬浮物、无沉淀(注:当酒温低于10°C时,允许出现白色絮状沉淀或失光。10°C以上应逐渐恢复正常),清香纯正、具有酒曲和麦香谐调的优雅香气",
+      "process": "",
+      "sectionSha256": "1da4251fb820b4b0eac37565687622be1a513b2e8ee3730b270baae7ebe07d7e"
+    }
+  ]
+}

@@ -8,7 +8,9 @@ def js(name):
  s=(R/name).read_text();return json.loads(s[s.index('{'):s.rfind(';')])
 def digest(x,**kw):return hashlib.sha256(json.dumps(x,ensure_ascii=False,separators=(',',':'),**kw).encode()).hexdigest()
 cat=js('data/flavors.js');items={i['id']:i for i in cat['items']};ad=read(B/'adoption.json');proof=read(B/'preservation-audit.json')
-assert len(items)==len(cat['items'])==ad['totalFlavorItems']==5362
+cohort_ids=set(ad['retainedBaselineIds'])|{x['itemId']for x in ad['decisions']}
+assert len(cohort_ids)==ad['totalFlavorItems']==5362
+assert len(items)==len(cat['items'])>=len(cohort_ids)
 assert len(proof['originalIds'])==ad['baselineItems']==5051
 assert digest([items[i]for i in proof['originalIds']])==proof['baselineEditorialSha256']
 original_source_ids={s for i in proof['originalIds']for s in items[i]['sources']}
@@ -52,7 +54,10 @@ for p in notes:
 assert len(read(B/'cross-review.json')['knowledge'])==153
 assert len(read(B/'cross-review.json')['primaryHeld'])==46
 geo=js('data/flavor-counties.js');city=geo['cities']['620200'];assert city['hasCountyDivisions']is False and city['regions']==[] and not city.get('map')
-assert len(geo['cities'])==244 and sum(len(c['regions'])for c in geo['cities'].values())==2010
-reg=js('data/china-region-catalog.js');assert len(reg['provinces'])==20 and len(reg['destinations'])==2254
-assert read(R/'research/china/integration/china-collection.json')['expectedChinaRecords']==5492
+historical_provinces={items[i]['province']for i in cohort_ids}
+old_cities=[c for c in geo['cities'].values()if c['province']in historical_provinces]
+assert len(old_cities)==244 and sum(len(c['regions'])for c in old_cities)==2010
+reg=js('data/china-region-catalog.js');assert len([p for p in reg['provinces']if p['id']in historical_provinces])==20
+assert len([d for d in reg['destinations']if d['provinceId']in historical_provinces])==2254
+assert read(R/'research/china/integration/china-collection.json')['expectedChinaRecords']==len(items)+130
 print('PASS Shaanxi 147 / Gansu 164; 5051 unchanged baseline, 153 sealed memory candidates, 438 unit searches, 101 original-source notes, county and category corrections')

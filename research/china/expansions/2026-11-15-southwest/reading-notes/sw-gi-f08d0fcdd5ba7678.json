@@ -1,0 +1,33 @@
+{
+  "id": "sw-gi-f08d0fcdd5ba7678",
+  "title": "地理标志产品公告 · 2010年第110号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC110%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "f08d0fcdd5ba7678017ec116aa4e7546948563bc",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第110号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC110%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2e22b7d8cd49a525d5b25c960fc39a4a8b559421fdaa4115f5c9bc2dd6d3eab9",
+    "textSha256": "8a2f2819c3ab80cfc013f6c13c399e70841e47b065435203531f7ad77aaafa89",
+    "textLength": 7637,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/f08d0fcdd5ba7678017ec116aa4e7546948563bc.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/f08d0fcdd5ba7678017ec116aa4e7546948563bc.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sw-b3d67f4dca704ec784",
+      "name": "织金竹荪",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "红托竹荪种(Dictyphorarubrovalvatazang,jietLiou)",
+      "sensory": "项目指标色泽微黄色或米黄色。形状菌裙呈网状,菌柄、菌盖完整气味竹荪特有香味,无异味肉质肥厚中空,入沸汤即膨大如鲜品,且久煮仍不失其脆嫩,气质地或口感息清香而无异杂臭味",
+      "process": "",
+      "sectionSha256": "c4de59710c1919e1a321f504341959344d4ad78a82cea8a41e21122b2fd7ca60"
+    }
+  ]
+}
