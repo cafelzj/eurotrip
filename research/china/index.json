@@ -23,7 +23,7 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 63,
+    "research-support": 64,
     "adoption": 4,
     "cross-review": 4,
     "preserved-source-reading": 1419,
@@ -2389,8 +2389,8 @@
     {
       "path": "research/china/expansions/2026-11-15-southwest/README.md",
       "role": "research-support",
-      "bytes": 4643,
-      "sha256": "8740d80c1870173bda9c9e9ff326850a2d9a5c941b6df263c8087712025e6397"
+      "bytes": 5046,
+      "sha256": "9b20dff83cc9cf2a2158575a674805a718a3fe225adf45f5439c61abda3e9163"
     },
     {
       "path": "research/china/expansions/2026-11-15-southwest/administrative-sources.json",
@@ -2481,6 +2481,12 @@
       "role": "research-support",
       "bytes": 249,
       "sha256": "4f91bd7e10cf722927f23febfb152199c3fe5c11a04bb86d635afc58f3db283a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-southwest/list-media-review.json",
+      "role": "research-support",
+      "bytes": 667,
+      "sha256": "49aa216912426f284d2ffb3886936179300df7332752be394b2de2536766b492"
     },
     {
       "path": "research/china/expansions/2026-11-15-southwest/place-register.json",
@@ -3800,7 +3806,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 2571,
-      "sha256": "c5394f62914465bca561c5f955e86afac2ebdc2dd47cf4cb0efef6a64c84b533"
+      "sha256": "3db1db3331e13f229eaaa383c64ddd24f233376c882d309d7b5c42f640d117c0"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

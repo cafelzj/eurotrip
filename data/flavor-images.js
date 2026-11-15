@@ -699,7 +699,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确为大理古城烧饵块，烘烤和加料场景可见。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "同类复核：街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
     },
     "southwest-photo-ad04d64f701fa7": {
       "file": "大理古城烧饵块、烤乳扇.jpg",
@@ -719,7 +721,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图题名明确包含大理烤乳扇，照片可见摊位上的乳扇卷。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "用户反馈：摊位背景杂乱、暗部较多、主体不突出，不宜作为列表主图。"
     },
     "southwest-photo-2b9a1ffe5f7e50": {
       "file": "德宏撒撇 - 2024-05-27.jpg",

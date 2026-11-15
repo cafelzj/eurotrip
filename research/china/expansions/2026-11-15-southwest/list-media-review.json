@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-15",
+  "purpose": "列表展示质量复核；不是来源或真实性否决",
+  "policy": "不合适的列表图撤出列表，原图、许可与来源仍在详情和底稿保留，等待更合适的对应实拍。",
+  "records": [
+    {
+      "assetId": "southwest-photo-ad04d64f701fa7",
+      "listDisplay": false,
+      "reason": "用户反馈：摊位背景杂乱、暗部较多、主体不突出，不宜作为列表主图。"
+    },
+    {
+      "assetId": "southwest-photo-b54960ca2e9395",
+      "listDisplay": false,
+      "reason": "同类复核：街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
+    }
+  ]
+}

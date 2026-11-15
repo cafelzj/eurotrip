@@ -18,6 +18,10 @@ for a in approvals:
  meta=row['info']['extmetadata'];text=lambda k:html.unescape(re.sub('<[^>]*>','',str(meta.get(k,{}).get('value','')))).strip();license=text('LicenseShortName');author=text('Artist');license_url=text('LicenseUrl');author=author or ('原图未列明作者'if license=='Public domain'else '');license_url=license_url or ('https://commons.wikimedia.org/wiki/Commons:Public_domain'if license=='Public domain'else '');assert author and license_url and re.search(r'CC(?: ?0| BY)|Public domain',license,re.I),(row['file'],license)
  picture=ImageOps.exif_transpose(Image.open(R/row['rawFile'])).convert('RGB');picture.thumbnail((960,1280));path=TARGET/('southwest-'+row['id']+'.jpg');picture.save(path,quality=86,optimize=True);key='southwest-photo-'+row['id'];source='https://commons.wikimedia.org/wiki/File:'+quote(row['file'])
  asset=dict(file=row['file'],src=path.relative_to(R).as_posix(),width=picture.width,height=picture.height,kind='food'if item['type']!='crafts'else 'craft',alt=a['caption'],caption=a['caption'],author=author,license=license,licenseUrl=license_url,source=source,checked='2026-11-15',visualReview=dict(status='approved',date='2026-11-15',notes=a['reviewNotes']),changes='取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。')
+ review_path=B/'list-media-review.json'
+ if review_path.exists():
+  presentation=next((r for r in read(review_path)['records']if r['assetId']==key),None)
+  if presentation:asset['listDisplay']=presentation['listDisplay'];asset['listReviewNote']=presentation['reason']
  media['assets'][key]=asset;media['cards'][item['id']]=key
  record=dict(id=row['id'],file=row['file'],status='adopted',itemId=item['id'],itemName=item['name'],assetId=key,source=source,metadataFile=row['metadataFile'],metadataSha256=row['metadataSha256'],originalResponseFile=row['rawFile'],originalSha256=row['sha256'],downloadKind=row.get('downloadKind','original'),derivativeSha256=sha(path),reason=a['reviewNotes'],author=author,license=license,licenseUrl=license_url);decisions.append(record);adopted.append(record)
 for row in records:

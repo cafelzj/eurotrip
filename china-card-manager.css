@@ -1,4 +1,18 @@
 .china-manager .manager-heading p{max-width:75ch}
+/* Quiet collection cards: a single heading, compact ownership, then content. */
+.china-manager .hub-card.ui-card{padding:16px;border:1px solid #dce4df;border-radius:12px;background:#fff;box-shadow:0 2px 8px rgb(31 59 44 / 3%)}
+.china-manager .ui-card-header{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:5px 12px;margin-bottom:12px}
+.china-manager .ui-card-heading{grid-column:1;grid-row:1}
+.china-manager .ui-card .ui-card-title{font-size:18px;line-height:1.45;color:#263e35;text-wrap:pretty}
+.china-manager .ui-card .ui-card-meta{display:contents}
+.china-manager .ui-card .ui-card-meta>span{grid-column:2;grid-row:1;padding:3px 7px;font-size:11px;background:#f1f5f2;color:#62766a;font-weight:400}
+.china-manager .ui-card .ui-card-meta>small{grid-column:1/-1;grid-row:2;text-align:left;font-size:12px;line-height:1.5;color:#7b877f}
+.china-manager .ui-card .card-image{margin:0 0 12px}
+.china-manager .ui-card .card-image-frame{aspect-ratio:16/10;border:0;border-radius:8px}
+.china-manager .ui-card>p{margin:0;font-size:15px;line-height:1.75;color:#53655b;-webkit-line-clamp:3}
+.china-manager .ui-card .hub-card-bottom{margin:10px 0 0;padding:0;border:0;justify-content:flex-end;gap:14px}
+.china-manager .ui-card .hub-detail-action{display:inline-flex;align-items:center;min-height:32px;font-size:13px;line-height:1.4;color:#466c56;font-weight:500}
+@media(max-width:700px){.china-manager .hub-card.ui-card{padding:15px}.china-manager .ui-card .ui-card-title{font-size:18px}.china-manager .ui-card-header{gap:5px 8px}.china-manager .ui-card .ui-card-meta>span{max-width:112px;white-space:normal;text-align:right}.china-manager .ui-card .hub-card-bottom{margin-top:8px}}
 .mode-tabs #chinaMenu{width:300px;max-width:calc(100vw - 30px)}
 .mode-tabs #chinaMenu .country-menu-manager{border-top:0;border-bottom:1px solid var(--line);margin:0 0 4px;padding:12px}
 .mode-tabs #chinaMenu .china-menu-back{font-size:14px;min-height:40px;padding:9px 12px}
