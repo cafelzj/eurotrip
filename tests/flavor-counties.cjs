@@ -7,7 +7,7 @@ for(const source of audit.sources){const city=geo.cities[source.adcode],raw=fs.r
 for(const [id,codes]of Object.entries(geo.itemCounties)){const item=data.items.find(i=>i.id===id);assert(item);for(const code of codes){const parent=Object.values(geo.cities).find(c=>c.regions.some(r=>r.adcode===code)),county=parent.regions.find(r=>r.adcode===code);assert.equal(parent.province,item.province);assert.equal(parent.city,item.city);assert(item.locality?.includes(county.name)||item.district===county.name||item.districts?.includes(county.name));}}
 (async()=>{const b=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});try{
  const p=await b.newPage({viewport:{width:1440,height:1100}}),errors=[];p.on('pageerror',e=>errors.push(e.message));await p.route('**/*',r=>new URL(r.request().url()).hostname==='127.0.0.1'?r.continue():r.abort());
- const base=process.env.SITE_URL||'http://127.0.0.1:4180',go=async query=>{await p.goto(base+'/#flavors/shandong?'+query);await p.waitForSelector('#flavorResults');};
+ const base=process.env.SITE_URL||'http://127.0.0.1:4180',go=async query=>{await p.goto(base+'/#flavors/shandong?'+query);await p.waitForSelector('[data-manager-count]');};
  await go('city='+encodeURIComponent('济南'));await p.waitForSelector('#flavorCountyMap svg');
  assert.equal(await p.locator('#flavorCountyPicker [data-flavor-county-choice]').count(),geo.cities['370100'].regions.length+2);
  await p.locator('[data-flavor-county-choice="370124"]').click();await p.waitForFunction(()=>location.hash.includes('county=370124')&&document.querySelector('[data-flavor-county-choice="370124"][aria-current]'));

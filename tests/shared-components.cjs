@@ -1,7 +1,7 @@
 const {chromium}=require('playwright'),assert=require('node:assert/strict'),settle=require('./wait-for-route.cjs');
 (async()=>{const b=await chromium.launch({executablePath:'/usr/bin/chromium',args:['--no-sandbox']});try{
  const p=await b.newPage({viewport:{width:1440,height:1000}}),errors=[];p.on('pageerror',e=>errors.push(e.message));await p.route('**/*',r=>new URL(r.request().url()).hostname==='127.0.0.1'?r.continue():r.abort());
- const base=process.env.SITE_URL||'http://127.0.0.1:4180',routes=['#guide/hu/budapest?view=waterfall','#china/jiangsu/suzhou?view=waterfall','#flavors/jiangsu?city='+encodeURIComponent('苏州')];
+ const base=process.env.SITE_URL||'http://127.0.0.1:4180',routes=['#guide/hu/budapest?view=waterfall','#china/jiangsu/suzhou?view=waterfall','#card-manager/china?province=jiangsu&primary=food&city='+encodeURIComponent('苏州')];
  for(const width of [1440,390]){
   await p.setViewportSize({width,height:1000});let reference;
   for(const hash of routes){

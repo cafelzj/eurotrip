@@ -109,72 +109,23 @@ window.chinaCardCategories={
     {
       "id": "tickets",
       "category": "transport",
-      "name": "乘车指南",
+      "name": "交通指南",
       "icon": "🎫",
-      "description": "把买票、乘车规则、交通 App 和官方线路图放在一起：核对单次票、多日票、月票、票区、验证、换乘与机场接驳；实时班次和服务调整以运营商最新说明为准。"
-    },
-    {
-      "id": "metro",
-      "category": "transport",
-      "name": "地铁",
-      "icon": "🚇",
-      "description": "认识城市地铁的标识、换乘与线路图，留意与市郊铁路、轻轨的区别；运营调整以官方公告为准。"
-    },
-    {
-      "id": "shared-mobility",
-      "category": "transport",
-      "name": "共享单车 / 滑板车",
-      "icon": "🚲",
-      "description": "先在运营商 App 中确认服务范围、费用与停车区，再解锁骑行；公共交通票通常不默认包含共享骑行。"
-    },
-    {
-      "id": "airport",
-      "category": "transport",
-      "name": "机场",
-      "icon": "✈️",
-      "description": "进出城市的重要机场；参考坐标用于辨认位置，航站楼和接驳另查官方。"
-    },
-    {
-      "id": "station",
-      "category": "transport",
-      "name": "火车站",
-      "icon": "🚉",
-      "description": "重要铁路车站，车次、站台与换乘安排以运营商为准。"
-    },
-    {
-      "id": "ferry",
-      "category": "transport",
-      "name": "轮渡码头",
-      "icon": "⛴️",
-      "description": "水上交通的出发地点，登船桥、线路与季节班次请分别确认。"
+      "description": "合并乘车、地铁及共享骑行指南，保留交通规则、线路与查询来源。"
     },
     {
       "id": "hub",
       "category": "transport",
-      "name": "交通枢纽",
+      "name": "机场、车站与码头",
       "icon": "🚏",
-      "description": "了解城市内外交通衔接的位置与查询入口。"
+      "description": "机场、铁路车站、轮渡码头及交通枢纽；班次与接驳以官方信息为准。"
     },
     {
       "id": "restaurants",
       "category": "food",
-      "name": "著名餐馆 / 咖啡馆",
+      "name": "餐馆与食品品牌",
       "icon": "🥘",
-      "description": "具体餐饮场所的探索线索，每张卡片只定位一个场所。"
-    },
-    {
-      "id": "chain-dining",
-      "category": "food",
-      "name": "连锁餐饮",
-      "icon": "🍔",
-      "description": "一起认识连锁品牌与具体门店：品牌卡片按地图范围动态搜索，门店卡片定位一个具体位置。"
-    },
-    {
-      "id": "dining-tips",
-      "category": "food",
-      "name": "点餐 / 结账提醒",
-      "icon": "🍽️",
-      "description": "点单、结账与小费习惯，有饮食限制时向店员确认。"
+      "description": "具体餐馆、咖啡馆、连锁餐饮与食品品牌；区分门店定位和品牌探索。"
     },
     {
       "id": "payments",
@@ -233,13 +184,6 @@ window.chinaCardCategories={
       "description": "从企业起源与产业认识当地；总部与生产地不自动视为游览场所。"
     },
     {
-      "id": "consumer-brands",
-      "category": "brands",
-      "name": "食品 / 消费品牌",
-      "icon": "🏷️",
-      "description": "认识常见品牌、起源与产品，再沿关联卡片了解日常消费。"
-    },
-    {
       "id": "shopping-districts",
       "category": "brands",
       "name": "商圈 / 购物",
@@ -270,9 +214,9 @@ window.chinaCardCategories={
     {
       "id": "facts",
       "category": "facts",
-      "name": "历史与地理",
+      "name": "历史地理与方言",
       "icon": "📜",
-      "description": "把有趣的线索放回历史和地理背景中，沿关联继续阅读。"
+      "description": "从地方历史、地理、方言与文字认识当地，保留资料出处。"
     },
     {
       "id": "world-heritage",
@@ -345,13 +289,6 @@ window.chinaCardCategories={
       "description": "从建筑、信仰与地方文化认识寺观，参观时尊重宗教活动及拍摄规定。"
     },
     {
-      "id": "language-fun",
-      "category": "facts",
-      "name": "语言趣闻",
-      "icon": "💬",
-      "description": "从有趣的词语、方言、文字和称呼方式认识当地生活；区分通行表达与地区差异。"
-    },
-    {
       "id": "arrival",
       "category": "facts",
       "name": "入境与落地",
@@ -360,7 +297,31 @@ window.chinaCardCategories={
     }
   ],
   "subcategoryAliases": {
-    "wine": "alcohol"
+    "wine": "alcohol",
+    "consumer-brands": "restaurants",
+    "chain-dining": "restaurants",
+    "dining-tips": "daily",
+    "metro": "tickets",
+    "shared-mobility": "tickets",
+    "airport": "hub",
+    "station": "hub",
+    "ferry": "hub",
+    "language-fun": "facts"
+  },
+  "subcategoryNameAliases": {
+    "乘车指南": "tickets",
+    "地铁": "tickets",
+    "共享单车 / 滑板车": "tickets",
+    "机场": "hub",
+    "火车站": "hub",
+    "轮渡码头": "hub",
+    "交通枢纽": "hub",
+    "著名餐馆 / 咖啡馆": "restaurants",
+    "连锁餐饮": "restaurants",
+    "点餐 / 结账提醒": "daily",
+    "食品 / 消费品牌": "restaurants",
+    "历史与地理": "facts",
+    "语言趣闻": "facts"
   },
   "typeDefaults": {
     "food": "dishes",

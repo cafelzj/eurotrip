@@ -4,10 +4,11 @@
 
 ## 正式展示数据与研究底稿
 
-风物的编辑输入与地区、图片配置包括：`data/flavors.js` 是4255项正式卡片，`data/flavor-map-regions.js` 是省内城市目录，`data/flavor-counties.js` 是县区目录与明确归属，`data/flavor-images.js` 是已采用的配图。卡片、地图和照片分别引用其来源记录；候选、搜索响应和历史稿不直接作为卡片发布。运行时已与原中国城市卡片统一到 `CardStore.nodes`，A与新版中国管理页共用同一批风物对象。中欧分类独立，原始输入及ID继续保留。
+风物的编辑输入与地区、图片配置包括：`data/flavors.js` 是4255项正式卡片，`data/flavor-map-regions.js` 是省内城市目录，`data/flavor-counties.js` 是县区目录与明确归属，`data/flavor-images.js` 是已采用的配图。卡片、地图和照片分别引用其来源记录；候选、搜索响应和历史稿不直接作为卡片发布。运行时已与原中国城市卡片统一到 `CardStore.nodes`，4255项已逐项确认全部纳入中国总览，独立风物食单入口已撤下，编辑输入与研究底稿继续保留。中欧分类独立，原始输入及ID继续保留。
 
 | 用途 | 统一入口 |
 | --- | --- |
+| 独立入口撤下与完整性验收 | [4255条逐项核对记录](integration/standalone-retirement.json)、[数据与底稿保留目录](../../docs/flavor-migration.md) |
 | 中国城市与风物统一登记 | [4385张统一卡片及12组旧ID](integration/china-collection.json)，架构见 [统一说明](../../docs/china-collection.md) |
 | 当前来源、覆盖与待核队列 | [来源审阅](sources.json)、[城市覆盖](coverage.json)、[市县队列](queue.json) |
 | 自身知识 → 外搜 → 交叉审阅 → 采用 | [4000项研究索引](program-4000/README.md)，其中初始知识稿独立保留 |

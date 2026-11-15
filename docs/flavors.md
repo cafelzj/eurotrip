@@ -1,6 +1,6 @@
 # 风物食单：地方食品、物产与工艺
 
-核对日期：2026-11-14。栏目入口 `#flavors`，面食入口 `#flavors?type=staples`。
+更新：2026-11-15。4255项风物已全部迁入中国城市，独立功能已撤下。入口 `#card-manager/china?primary=food`，面食入口 `#card-manager/china?primary=food&secondary=staples`。旧链接继续转入。完整保留目录、验收记录与维护顺序见 [迁移说明](flavor-migration.md)。下文保留资料核对过程与研究边界。
 
 目录现有 **4255 项**，含 **702 项面食**、**144 项物品与工艺**、**2106 个来源记录**。其中4208项有来源、47项待核实，已超过4000项目标。本轮新增2143项，另作363次别名合并或来源补充；原2112项及ID均保留。数量不表示全部地域或品类查证完成。
 
@@ -94,7 +94,7 @@ GitHub地理标志项目的模型提取与润色文本只作线索，不直接�
 ## 实现与验证
 
 - `data/flavors.js`：省市、分类、具体食品与引用；`data/flavor-map-regions.js`：行政区域。
-- `flavors.js`、`flavors.css`：省份清单、城市清单、省内地图、食材与搜索筛选、分页及来源展开。
+- `flavors.js`、`flavors.css`：中国栏目复用的风物卡片与省市县地图组件；独立列表页面的渲染、筛选和分页代码已移除。
 - `tests/flavors.cjs`：条目与来源完整性、原69市已完成覆盖保留、新城市缺口显式记录、面食归类与原料筛选、15图204区域、键盘、空城市、加载失败、网址恢复，以及1440／1024／768／390／320像素布局。
 - `tests/data-integrity.cjs`、`tests/plan.cjs`、`tests/dictionary-ipa.cjs`、`tests/card-layout.cjs`：相关数据、方案、词典与原有紧凑布局回归检查。
 

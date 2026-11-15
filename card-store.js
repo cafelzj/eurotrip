@@ -10,14 +10,16 @@ window.CardStore=(()=>{
  const cityIds=n=>unique([n.city,...(n.cities||[])]);
  const countryIds=n=>unique([n.country,...(n.countries||[]),...cityIds(n).map(id=>city(id)?.country)]);
  const normalize=value=>String(value??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
- function searchText(n){return normalize([n.id,n.name,n.subtitle,n.local,n.description,n.note,n.details,n.reading?.map(s=>s.title+' '+s.text).join(' '),n.aliases?.join(' '),...countryIds(n).map(id=>{const c=country(id);return c?c.name+' '+c.local:id;}),...cityIds(n).map(id=>{const c=city(id);return c?[c.name,c.local,c.adminName].join(' '):id;}),cardCategories.primary.find(p=>p.id===n.category)?.name,definition(n).secondary.find(s=>s.id===n.subcategory)?.name,...(n.sources||[]).flat()].join(' '));}
+ function searchText(n){return normalize([n.id,n.name,n.subtitle,n.local,n.description,n.note,n.details,n.verificationNote,n.locality,n.brand,n.company,n.kind,n.productTypes?.join(' '),n.proteins?.join(' '),n.province,window.flavorCatalog?.provinces.find(p=>p.id===n.province)?.name,n.cityName,n.reading?.map(s=>s.title+' '+s.text).join(' '),n.aliases?.join(' '),...countryIds(n).map(id=>{const c=country(id);return c?c.name+' '+c.local:id;}),...cityIds(n).map(id=>{const c=city(id);return c?[c.name,c.local,c.adminName].join(' '):id;}),cardCategories.primary.find(p=>p.id===n.category)?.name,definition(n).secondary.find(s=>s.id===n.subcategory)?.name,...(n.sources||[]).flat()].join(' '));}
  const foodKey=(id,i)=>`food-${id}-${i}`,sightKey=(id,i)=>`place-${id}-${i}`;
  const poiKey=(id,p)=>p.knowledgeId||`poi-${id}-${p.id}`;
  const coords=p=>`https://www.openstreetmap.org/?mlat=${p.lat}&mlon=${p.lon}#map=16/${p.lat}/${p.lon}`;
  function add(card){const editorial=!card.live&&typeof cardReading!=='undefined'?cardReading[card.id]:null;const node={...card,...(editorial||{})};
   if(window.CardTaxonomy?.isChina(node)&&window.chinaCardMerges){const target=window.chinaCardMerges.aliases[node.id],kind=window.chinaCardMerges.legacyKinds[node.id]||(target?window.flavorCatalog.items.find(i=>i.id===target)?.type:null);if(kind){node.legacySubcategory=node.subcategory;node.subcategory=kind;}}
   if(node.point)node.point={...node.point,knowledgeId:node.id};
-  if(!node.subcategory){const p=node.point;node.subcategory=node.live&&node.parentCard&&p?.group==='food'?'chain-dining':cardCategories.pointKinds[p?.category]||cardCategories.pointKinds[p?.sub]||cardCategories.pointGroups[p?.group]||definition(node).typeDefaults[node.type];}
+  if(!node.subcategory){const p=node.point,defs=definition(node);node.subcategory=node.live&&node.parentCard&&p?.group==='food'?'chain-dining':defs.pointKinds[p?.category]||defs.pointKinds[p?.sub]||defs.pointGroups[p?.group]||defs.typeDefaults[node.type];}
+  const mapped=definition(node).subcategoryAliases[node.subcategory];
+  if(window.CardTaxonomy?.isChina(node)&&mapped){node.legacySubcategory??=node.subcategory;node.subcategory=mapped;node.category=definition(node).secondary.find(s=>s.id===mapped)?.category;}
   const sub=definition(node).secondary.find(s=>s.id===node.subcategory);if(!sub||!types[node.type]||node.category&&node.category!==sub.category)throw Error('卡片分类无效：'+node.id);
   node.category=sub.category;nodes.set(node.id,node);if(!edges.has(node.id))edges.set(node.id,[]);return node;
  }

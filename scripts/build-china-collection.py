@@ -74,7 +74,22 @@ next(p for p in primary if p['id']=='food')['description'] = '地方乳品、饮
 icons = dict(dairy='🥛', drinks='🥤', alcohol='🍶', tea='🍵', dishes='🍽️', staples='🍜', ingredients='🌾', seasoning='🧂', crafts='🎁')
 secondary = [dict(id=c['id'], category='food', name=c['name'], icon=icons[c['id']], description='查看已收录的地方'+c['name']+'，保留来源、地域与待核说明。') for c in flavors['categories']]
 secondary += [dict(c) for c in baseline['cat']['secondary'] if c['category']!='food' or c['id'] in ('restaurants','chain-dining','dining-tips')]
-taxonomy = dict(primary=primary, secondary=secondary, subcategoryAliases={'wine':'alcohol'},
+# Keep original editorial classifications intact; normalize at registration and in old URLs.
+category_merges = {'consumer-brands':'restaurants', 'chain-dining':'restaurants', 'dining-tips':'daily',
+                   'metro':'tickets', 'shared-mobility':'tickets', 'airport':'hub', 'station':'hub', 'ferry':'hub',
+                   'language-fun':'facts'}
+category_updates = {
+ 'restaurants': dict(name='餐馆与食品品牌', description='具体餐馆、咖啡馆、连锁餐饮与食品品牌；区分门店定位和品牌探索。'),
+ 'tickets': dict(name='交通指南', description='合并乘车、地铁及共享骑行指南，保留交通规则、线路与查询来源。'),
+ 'hub': dict(name='机场、车站与码头', description='机场、铁路车站、轮渡码头及交通枢纽；班次与接驳以官方信息为准。'),
+ 'facts': dict(name='历史地理与方言', description='从地方历史、地理、方言与文字认识当地，保留资料出处。')}
+for c in secondary:
+    c.update(category_updates.get(c['id'], {}))
+secondary = [c for c in secondary if c['id'] not in category_merges]
+name_aliases = {c['name']: category_merges.get(c['id'], c['id']) for c in baseline['cat']['secondary']
+                if c['id'] in category_merges or c['id'] in category_updates}
+taxonomy = dict(primary=primary, secondary=secondary, subcategoryAliases={'wine':'alcohol', **category_merges},
+                subcategoryNameAliases=name_aliases,
                 typeDefaults={**baseline['cat']['typeDefaults'], 'food':'dishes','specialty':'crafts'},
                 pointKinds=baseline['cat']['pointKinds'], pointGroups=baseline['cat']['pointGroups'])
 def js(name, variable, value):

@@ -9,7 +9,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await go('#guide/hu');await p.locator('#miniMapToggle').click();await p.locator('#miniMapCanvas .leaflet-pane').first().waitFor({state:'attached'});
   await p.locator('#planMode').click();await settle(p);await p.locator('.plan-page').waitFor();
   assert.equal(await p.locator('.mode-tabs .selected').count(),1);assert.equal(await p.locator('#planMode').getAttribute('aria-pressed'),'true');assert(await p.locator('#vocabulary').isHidden());assert(await p.locator('.floating-map').isHidden());assert.equal(await p.locator('#miniMapCanvas .leaflet-pane').count(),0);
-  assert.equal(await p.locator('[data-plan-id]').count(),19);assert.equal(await p.locator('.plan-tabs a').count(),3);assert.equal(await p.locator('[data-plan-id="regional-flavors"] a[href="#flavors"]').count(),1);assert.equal(await p.locator('[data-plan-id="dictionary-ipa"] a[href="#words"]').count(),1);
+  assert.equal(await p.locator('[data-plan-id]').count(),19);assert.equal(await p.locator('.plan-tabs a').count(),3);assert.equal(await p.locator('[data-plan-id="regional-flavors"] a[href="#card-manager/china?primary=food"]').count(),1);assert.equal(await p.locator('[data-plan-id="dictionary-ipa"] a[href="#words"]').count(),1);
   const totals=await p.evaluate(()=>({roadmap:projectPlan.roadmap.length,benchmarks:projectPlan.benchmarks.length}));
   const audit=await p.evaluate(()=>{
    const areas=new Set(projectPlan.areas.map(a=>a.id)),ids=new Map(Object.entries(projectPlan).filter(([key])=>['features','roadmap','benchmarks'].includes(key)).map(([key,items])=>[key,new Set(items.map(x=>x.id))]));

@@ -46,7 +46,7 @@
     "research/archives/2026-11-15-flavor-county-media.json"
   ],
   "roles": {
-    "current-index-or-audit": 9,
+    "current-index-or-audit": 10,
     "historical-batch": 8,
     "historical-working-draft": 4,
     "image-review-or-backlog": 2,
@@ -60,8 +60,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "current-index-or-audit",
-      "bytes": 3340,
-      "sha256": "8ce92acc0a2ab4ee09a82ad39062beae4de183dc9e3dc730a441515af6de12ce"
+      "bytes": 3587,
+      "sha256": "8f669875dc191dbaed7c510010a6b8b9450ccafcf860fddb7712ace9662dfd49"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -164,6 +164,12 @@
       "role": "current-index-or-audit",
       "bytes": 7552,
       "sha256": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f"
+    },
+    {
+      "path": "research/flavors/integration/standalone-retirement.json",
+      "role": "current-index-or-audit",
+      "bytes": 2570,
+      "sha256": "bde7a2b3dd19b87d7af8922a4f95cccd75b7eb6b22af3db7c5b0e331dd75c18c"
     },
     {
       "path": "research/flavors/program-4000/README.md",

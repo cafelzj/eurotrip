@@ -49,6 +49,11 @@ window.KnowledgeHub=(()=>{
  if(location.hash.startsWith('#map/'))return '';
  const params=new URLSearchParams(location.hash.split('?')[1]||'');
  let kind=cardCategories.subcategoryAliases[params.get('kind')]||params.get('kind')||'all';
+ if(isChina(country)&&kind!=='all'){
+  const defs=taxonomy(country),old=defs.subcategoryNameAliases[kind]||kind,id=defs.subcategoryAliases[old]||old;
+  const sub=defs.secondary.find(s=>s.id===id||s.name===id);
+  if(sub){kind=sub.name;zone=sub.category;}
+ }
  // Keep bookmarks to the removed category usable after cards have moved.
  if(zone==='essential'){if(kind==='all')kind='日常 / 应急';zone=subcategoriesByName.get(kind)?.category||'facts';}
  zone=zone==='specialties'?'food':zone==='map'?'transport':zone==='shopping'?'brands':zone;

@@ -1,4 +1,10 @@
 .china-manager .manager-heading p{max-width:75ch}
+.mode-tabs #chinaMenu{width:300px;max-width:calc(100vw - 30px)}
+.mode-tabs #chinaMenu .country-menu-manager{border-top:0;border-bottom:1px solid var(--line);margin:0 0 4px;padding:12px}
+.china-menu-path{font-size:13px;color:var(--muted);padding:9px 12px;line-height:1.7;overflow-wrap:anywhere}
+.mode-tabs #chinaMenu .china-menu-back{font-size:14px;min-height:40px;padding:9px 12px}
+.mode-tabs #chinaMenu .is-selected{background:var(--component-soft,#edf2e5)}
+.mode-tabs #chinaMenu button>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
 .china-taxonomy{margin:22px 0}.china-taxonomy h2{font-size:17px;margin:0 0 12px}
 .china-primary-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
 .china-secondary-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:9px}
@@ -14,5 +20,5 @@
 .china-manager .manager-table-scroll td:nth-child(2),.china-manager .manager-table-scroll td:nth-child(3){min-width:100px;max-width:150px}.china-manager .manager-table-scroll td:nth-child(4){min-width:150px;max-width:210px}
 .china-manager button.manager-card-link{border:0;background:none;padding:0;text-align:left;cursor:pointer;line-height:1.8}
 @media(max-width:1000px){.china-primary-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.china-manager-tools{grid-template-columns:minmax(0,1fr) auto auto}.china-manager-tools .ui-search{grid-column:1/-1}}
-@media(max-width:700px){.china-primary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.china-secondary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.china-manager .china-category-card{min-height:68px;padding:10px;font-size:13px;gap:4px 7px}.china-category-icon{font-size:20px}.china-manager-tools{grid-template-columns:minmax(0,1fr) auto;gap:9px}.china-manager-tools .ui-search{grid-column:1/-1}.china-manager-tools>[data-manager-export]{grid-column:1/-1;justify-self:end}.china-review-label{font-size:12px}.china-review-label .ui-select{font-size:13px;flex:1}.china-browser-bar{align-items:flex-start;flex-direction:column;gap:10px}.china-manager .hub-view-switch{max-width:100%}.china-manager .hub-view-switch button{font-size:13px;padding:6px 9px}.china-taxonomy{margin:18px 0}.china-manager .manager-heading>a{white-space:normal}}
+@media(max-width:700px){.china-primary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.china-secondary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.china-manager .china-category-card{min-height:68px;padding:10px;font-size:13px;gap:4px 7px}.china-category-icon{font-size:20px}.china-manager-tools{grid-template-columns:minmax(0,1fr) auto;gap:9px}.china-manager-tools .ui-search{grid-column:1/-1}.china-manager-tools>[data-manager-export]{grid-column:1/-1;justify-self:end}.china-review-label{font-size:12px}.china-review-label .ui-select{flex:1}.china-browser-bar{align-items:flex-start;flex-direction:column;gap:10px}.china-manager .hub-view-switch{max-width:100%}.china-manager .hub-view-switch button{font-size:13px;padding:6px 9px}.china-taxonomy{margin:18px 0}.china-manager .manager-heading>a{white-space:normal}}
 @media(forced-colors:active){.china-manager .china-category-card[aria-pressed=true]{background:Highlight;color:HighlightText;border-color:Highlight}}

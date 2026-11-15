@@ -34,3 +34,5 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 最后一条会实际联网并追加记录。默认队列在 `research/flavors/queue.json`，逐次日志在 `research/flavors/search-runs/`，完整响应在Git忽略的 `research/.local/search-responses/`；不再依靠 `/tmp` 保存新检索原件。参数可指定隔离的队列和输出目录，供测试或独立研究使用。
 
 浏览器测试见 `tests/*.cjs`，沿用现有Playwright与Chromium环境及各文件的 `SITE_URL`；完整命令见 [主说明](../README.md#验证)。一次性批次工作脚本保存在本地研究归档内，不能当作通用生成器直接重跑。
+
+- `node scripts/audit-china-flavor-migration.cjs`：逐项核对4255项风物的全部编辑字段、来源、县区和中国栏目登记；审阅正式变化后用 `--write` 更新迁移验收记录。

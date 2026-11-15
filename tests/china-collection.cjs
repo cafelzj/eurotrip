@@ -4,6 +4,9 @@ const scripts=[...fs.readFileSync('index.html','utf8').matchAll(/<script src="([
 for(const file of scripts){if(file==='card-graph.js')break;if(file.startsWith('data/')||['china-data.js','card-taxonomy.js','china-collection.js','card-store.js'].includes(file))vm.runInContext(fs.readFileSync(file,'utf8'),c,{filename:file});}
 const store=c.CardStore,china=c.ChinaCollection.records(),flavors=c.ChinaCollection.flavors();
 assert.equal(china.length,4385);assert.equal(flavors.length,4255);assert.equal(store.aliases.size,12);assert.equal(new Set(china.map(n=>n.id)).size,china.length);
+for(const [id,count]of Object.entries({restaurants:5,tickets:26,hub:9,facts:21}))assert.equal(china.filter(n=>n.subcategory===id).length,count,id+' merged without losing cards');
+assert.equal(china.filter(n=>n.category==='food').length,4268);assert.equal(china.filter(n=>n.category==='brands').length,16);
+for(const id of ['consumer-brands','chain-dining','dining-tips','metro','shared-mobility','airport','station','ferry','language-fun'])assert(!china.some(n=>n.subcategory===id),'retired Chinese category '+id);
 assert.equal(c.chinaRegionCatalog.destinations.length,1658);assert.equal(c.chinaRegionCatalog.provinces.length,15);
 for(const source of c.flavorCatalog.items){const n=store.nodes.get(source.id);assert(n&&n===flavors.find(n=>n.id===source.id));assert.equal(n.description,source.description);assert.equal(n.detail,source.detail);assert.equal(n.flavorType,source.type);assert.equal(n.province,source.province);assert.equal(n.cityName,source.city);assert.equal(n.verificationStatus,source.verificationStatus);assert(!n.point&&!n.searchKind,'regional food has no invented POI: '+n.name);assert(n.sourceIds.every(id=>source.sources.includes(id)));}
 for(const [oldId,id]of store.aliases){const n=store.nodes.get(id);assert.equal(store.nodes.get(oldId),n);assert(n.legacyRecords.some(old=>old.id===oldId));assert(n.legacyIds.includes(oldId));assert(![...store.nodes.keys()].includes(oldId));}
@@ -17,9 +20,15 @@ store.add({id:'merge-edge-test',type:'fact',country:'cn',category:'facts',subcat
  const go=async query=>{await p.goto(base+'/#card-manager/china'+(query?'?'+query:''));await p.waitForSelector('[data-manager-count]');};
  await go('');assert((await p.locator('[data-manager-count]').innerText()).includes('4385'));assert.equal(await p.locator('[data-manager-primary],[data-manager-secondary],[data-manager-country],[data-manager-city]').count(),0);
  assert.equal(await p.locator('[data-china-primary]').count(),6);assert.equal(await p.locator('.card-feed').count(),1);
- assert(await p.evaluate(()=>FlavorPage.records().every(n=>CardStore.nodes.get(n.id)===n)),'A and B read identical canonical objects');
+ assert(await p.evaluate(()=>ChinaCollection.flavors().every(n=>CardStore.nodes.get(n.id)===n)),'all flavors read canonical objects');
  await p.locator('[data-china-primary="food"]').click();for(const id of ['dairy','drinks','alcohol','tea','dishes','staples','ingredients','seasoning','crafts'])assert.equal(await p.locator('[data-china-secondary="'+id+'"]').count(),1,id+' is a Chinese food secondary card');
  await p.locator('[data-china-secondary="dairy"]').click();assert((await p.locator('[data-manager-count]').innerText()).startsWith('68 张'));
+ assert.equal(await p.locator('[data-china-secondary="chain-dining"],[data-china-secondary="dining-tips"]').count(),0);
+ for(const [primary,secondary,target,count]of [['brands','consumer-brands','restaurants',5],['food','chain-dining','restaurants',5],['transport','metro','tickets',26],['transport','station','hub',9],['facts','language-fun','facts',21],['food','dining-tips','daily',3]]){
+  await go('primary='+primary+'&secondary='+secondary+'&view=table');assert(p.url().includes('secondary='+target));assert((await p.locator('[data-manager-count]').innerText()).startsWith(count+' 张'));assert.equal(await p.locator('[data-china-secondary="'+target+'"]').getAttribute('aria-pressed'),'true');
+ }
+ await go('primary=brands');assert.equal(await p.locator('[data-china-secondary="payments"]').count(),0);assert.equal(await p.locator('[data-china-secondary="consumer-brands"]').count(),0);
+ await p.goto(base+'/#china/jiangsu/suzhou?zone=brands&kind='+encodeURIComponent('食品 / 消费品牌'));await p.waitForSelector('#hubKind');assert.equal(await p.locator('#hubKind').inputValue(),'餐馆与食品品牌');assert.equal(await p.locator('[data-hub-topic="food"]').getAttribute('aria-pressed'),'true');
  // Every mode keeps geographic and category filters, including URLs and map state.
  await go('province=shandong&city='+encodeURIComponent('济南')+'&county=370124&primary=food&view=waterfall');await p.waitForSelector('#flavorCountyMap svg');
  const expected=flavors.filter(n=>n.countyCodes.includes(370124));assert.equal(await p.locator('.flavor-card').count(),expected.length);
