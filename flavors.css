@@ -4,8 +4,6 @@
 .flavor-map{max-width:590px;margin:auto;aspect-ratio:860/585;display:grid;align-items:center}
 .flavor-map>p{font-size:14px;text-align:center;color:#5d7365}
 .flavor-map svg{width:100%;height:auto;display:block}
-.flavor-atlas figcaption{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:7px;font-size:11px;color:#657969;margin-top:5px;line-height:1.7}
-#travelGuide .flavor-atlas figcaption a{font-size:11px;text-decoration:underline;text-underline-offset:3px}
 .flavor-provinces h2{font-size:15px;line-height:1.6;margin:0 0 9px}
 .flavor-provinces nav,.flavor-city-list nav,.flavor-county-list nav{display:flex;flex-direction:row;flex-wrap:wrap;gap:8px}
 .flavor-city-list .ui-choice,.flavor-county-list .ui-choice{flex:0 0 auto;white-space:nowrap;font-size:14px}
@@ -19,7 +17,6 @@
 
 .flavor-city-list small{font-size:11px;opacity:.8}
 .flavor-city-note{font-size:11px;line-height:1.8;color:#657969;margin:11px 0 0}
-.flavor-city-picker figcaption{justify-content:flex-end}
 .flavor-province-intro{display:flex;align-items:baseline;gap:10px 15px;margin-top:13px;padding-top:12px;flex-wrap:wrap}
 .flavor-province-intro h2{font-size:16px;margin:0;flex-shrink:0}
 .flavor-province-intro p{font-size:13px;margin:0}
@@ -35,7 +32,7 @@
 @media(max-width:700px){.flavor-city-picker h2{font-size:14px}.flavor-province-intro{gap:5px}.flavor-province-intro p{font-size:13px}}
 
 @media(max-width:1100px){.flavor-atlas{gap:19px;padding:16px}.flavor-provinces nav{gap:6px}}
-@media(max-width:700px){.flavor-atlas{grid-template-columns:minmax(0,1fr);gap:17px;padding:13px}.flavor-map{max-width:430px;width:100%}.flavor-atlas figcaption,.flavor-atlas figcaption a{font-size:10px}.flavor-provinces h2{font-size:17px;margin-bottom:9px}.flavor-province-intro{margin-top:13px;padding-top:12px}.flavor-province-intro h2{font-size:16px}}
+@media(max-width:700px){.flavor-atlas{grid-template-columns:minmax(0,1fr);gap:17px;padding:13px}.flavor-map{max-width:430px;width:100%}.flavor-provinces h2{font-size:17px;margin-bottom:9px}.flavor-province-intro{margin-top:13px;padding-top:12px}.flavor-province-intro h2{font-size:16px}}
 
 .flavor-verification-note{font-size:13px!important;line-height:1.6;background:#fff4df;border-left:3px solid #a16b35;padding:6px 9px;color:#76502b}
 .flavor-location-pickers{display:grid;grid-template-columns:minmax(0,1.2fr) repeat(2,minmax(0,1fr));grid-template-areas:"city-list city-map county-map" "county-list city-map county-map";gap:20px 24px;align-items:start;border-top:1px solid var(--flavor-line);margin-top:20px;padding-top:20px}
@@ -51,7 +48,6 @@
 
 
 .flavor-county-map .flavor-region-name{font-size:20px}
-.flavor-county-picker figcaption{justify-content:flex-end}
 .flavor-county-prompt{padding:18px;border:1px dashed var(--flavor-line);border-radius:var(--component-radius);font-size:14px;line-height:1.8;color:var(--muted)}
 
 @media(min-width:701px) and (max-width:1099px){.flavor-location-pickers{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-areas:"city-list city-map" "county-list county-map"}}

@@ -14,6 +14,6 @@ window.CardImages=(()=>{
  // Capture image errors because they do not bubble. Keep the reserved frame so
  // a failed remote image never changes the feed's measured card heights.
  document.addEventListener('error',e=>{const img=e.target;if(!img.matches?.('.card-image img'))return;const frame=img.closest('.card-image-frame');img.hidden=true;if(!frame){img.closest('[data-photo-index]')?.classList.add('is-unavailable');return;}frame.classList.add('is-unavailable');frame.querySelector('.card-image-fallback').hidden=false;},true);
- function inline(n){const media=get(n);return media?`<figure class="card-image card-image-inline card-image-${media.kind}">${frame(media,false)}<figcaption>${credit(media)}</figcaption></figure>`:'';}
+ function inline(n,{showCredit=true}={}){const media=get(n);return media?`<figure class="card-image card-image-inline card-image-${media.kind}">${frame(media,false)}${showCredit?`<figcaption>${credit(media)}</figcaption>`:''}</figure>`:'';}
  return {get,getAll,card,detail,inline};
 })();
