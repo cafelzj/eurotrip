@@ -103,16 +103,16 @@
  window.addEventListener('resize',positionChinaMenu);
  function drawChinaMenu(focusSelector){
   const {selected,managing,overview}=chinaMenuContext,province=ChinaRegions.provinces.find(p=>p.id===chinaMenuPath.province),city=ChinaRegions.get(chinaMenuPath.city);
-  const option=(attribute,id,name,caption,icon='🏯',branch=false)=>`<button type="button" role="menuitem" tabindex="-1" ${attribute}="${h(id)}" ${branch?'aria-haspopup="menu"':''} ${!branch&&selected?.id===id&&!managing?'aria-current="page"':''} class="${!managing&&selected&&(id===selected.id||id===selected.provinceId||id===selected.parentCity)?'is-selected':''}">${icon?`<span>${icon}</span>`:''}<span><b>${h(name)}</b>${caption?`<small>${h(caption)}</small>`:''}</span><i>${branch?'›':selected?.id===id&&!managing?'✓':'↗'}</i></button>`;
+  const option=(attribute,id,name,branch=false)=>`<button type="button" role="menuitem" tabindex="-1" ${attribute}="${h(id)}" ${branch?'aria-haspopup="menu"':''} ${!branch&&selected?.id===id&&!managing?'aria-current="page"':''} class="${!managing&&selected&&(id===selected.id||id===selected.provinceId||id===selected.parentCity)?'is-selected':''}"><span><b>${h(name)}</b></span><i>${branch?'›':selected?.id===id&&!managing?'✓':'↗'}</i></button>`;
   let content='';
   if(!province){
-   content=ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name,'','',true)).join('');
+   content=ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name,true)).join('');
   }else if(!city){
-   content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="provinces">← 返回省份</button><div class="china-menu-path" role="presentation">${h(province.name)} · 城市 / 地区</div>`+option('data-nav-province-overview',province.id,province.name+'总览','查看本省全部已收录卡片','▦')+ChinaRegions.prefectures(province.id).map(c=>{
-    const children=ChinaRegions.counties(c);return option(children.length?'data-nav-city-branch':'data-nav-city',c.id,c.adminName,children.length?'选择县区 · '+children.length+' 个县级单位':'县级城市 · 查看卡片','🏯',!!children.length);
+   content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="provinces">← 返回省份</button>`+option('data-nav-province-overview',province.id,province.name+'总览')+ChinaRegions.prefectures(province.id).map(c=>{
+    const children=ChinaRegions.counties(c);return option(children.length?'data-nav-city-branch':'data-nav-city',c.id,c.adminName,!!children.length);
    }).join('');
   }else{
-   content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="cities">← 返回${h(province.name)}城市清单</button><div class="china-menu-path" role="presentation">${h(province.name)} · ${h(city.adminName)} · 县区</div>`+option('data-nav-city',city.id,city.adminName+'总览','查看全市及下辖县区卡片','▦')+ChinaRegions.counties(city).map(c=>option('data-nav-city',c.id,c.adminName,c.level==='county-city'?'县级市':'县 / 区')).join('');
+   content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="cities">← 返回${h(province.name)}城市清单</button>`+option('data-nav-city',city.id,city.adminName+'总览')+ChinaRegions.counties(city).map(c=>option('data-nav-city',c.id,c.adminName)).join('');
   }
   chinaMenu.innerHTML=overview+content;chinaMenu.setAttribute('aria-label',city?city.adminName+'县区菜单':province?province.name+'城市菜单':'中国省市县菜单');chinaMenu.scrollTop=0;
   if(focusSelector)(chinaMenu.querySelector(focusSelector)||chinaMenu.querySelector('button'))?.focus();

@@ -1,7 +1,6 @@
 .china-manager .manager-heading p{max-width:75ch}
 .mode-tabs #chinaMenu{width:300px;max-width:calc(100vw - 30px)}
 .mode-tabs #chinaMenu .country-menu-manager{border-top:0;border-bottom:1px solid var(--line);margin:0 0 4px;padding:12px}
-.china-menu-path{font-size:13px;color:var(--muted);padding:9px 12px;line-height:1.7;overflow-wrap:anywhere}
 .mode-tabs #chinaMenu .china-menu-back{font-size:14px;min-height:40px;padding:9px 12px}
 .mode-tabs #chinaMenu .is-selected{background:var(--component-soft,#edf2e5)}
 .mode-tabs #chinaMenu button>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
@@ -27,4 +26,4 @@
 .china-region-picker+.knowledge-hub{padding-top:6px}
 @media(max-width:700px){.china-region-picker .china-region-fields{grid-template-columns:repeat(3,minmax(0,1fr));padding:8px;gap:8px}.china-region-picker .china-region-fields label:last-child{grid-column:auto}.china-region-picker .china-region-fields label{gap:4px;font-size:12px}.china-region-picker .china-region-fields select{min-height:44px;padding:8px 3px;font-size:13px}}
 
-.mode-tabs #chinaMenu [data-nav-province]>span{font-size:inherit}
+.mode-tabs #chinaMenu button:not(.country-menu-manager)>span{font-size:inherit}
