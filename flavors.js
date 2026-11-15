@@ -2,14 +2,13 @@
 window.ChinaFlavorUI=(()=>{
  let regionRecords=null,regionUrl=null;
  const data={...window.flavorCatalog,get items(){return regionRecords||(window.ChinaCollection?ChinaCollection.flavors():window.flavorCatalog.items);}};
- const flavorType=item=>item.flavorType||item.type,foodCity=item=>item.cityName||item.city,sourceIds=item=>item.sourceIds||item.sources;
+ const foodCity=item=>item.cityName||item.city;
  const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const provinces=new Map(data.provinces.map(p=>[p.id,p]));
- const types=new Map(data.categories.map(c=>[c.id,c]));
  const regions=window.flavorMapRegions||{};
  const counties=window.flavorCounties||{cities:{},itemCounties:{}};
  const countyCodes=new Map(Object.values(counties.cities).flatMap(city=>city.regions.map(county=>[String(county.adcode),{...county,city:city.city,province:city.province}])));
- let countyRequest=null;
+ let countyRequest=null,nationalRequest=null,nationalMarkup=null;
  const assigned=item=>item.countyCodes||counties.itemCounties[item.id]||[];
  const inDistrict=(item,name)=>item.district===name||item.districts?.includes(name)||assigned(item).some(code=>countyCodes.get(String(code))?.name===name);
  const countyCity=state=>Object.values(counties.cities).find(city=>city.province===state.province&&city.city===state.city);
@@ -24,21 +23,15 @@ window.ChinaFlavorUI=(()=>{
  function matches(item,state){
   return (state.city==='all'||foodCity(item)===state.city)&&(state.district==='all'||inDistrict(item,state.district))&&countyMatches(item,state.county||'all');
  }
- function card(item){
-  const type=types.get(flavorType(item)),province=provinces.get(item.province);
-  return `<article class="flavor-card ui-card" data-flavor-id="${h(item.id)}" data-knowledge-card="${h(item.id)}" style="--flavor-accent:${type.color}"><div class="flavor-card-header ui-card-header"><h3 class="ui-card-heading ui-card-title">${h(item.name)}</h3><div class="ui-card-meta"><span>${h(type.name)}</span><small>${h(locationLabel(item))}</small></div></div><div class="flavor-card-tags"><span>${h(item.kind)}</span>${item.locality?`<span class="flavor-locality">${h(item.locality)}</span>`:''}${(item.proteins||[]).map(p=>`<span>${h(p)}</span>`).join('')}</div>${window.CardImages?.inline?.(item)||''}${item.verificationStatus==='pending'?`<p class="flavor-verification-note"><strong>待核实</strong> · ${h(item.verificationNote)}</p>`:''}<p>${h(item.description)}</p><details><summary>${flavorType(item)==='crafts'?'特色与来源':'风味与来源'}</summary><div class="flavor-card-reading">${item.detail.split(/\n\s*\n/).filter(Boolean).map(paragraph=>`<p>${h(paragraph)}</p>`).join('')}${item.originNote?`<p class="flavor-origin-note">${h(item.originNote)}</p>`:''}${item.legacyRecords?.length?`<details class="flavor-legacy-reading"><summary>原城市卡片补充资料</summary>${item.legacyRecords.map(old=>`<h4>${h(old.name)}</h4><p>${h(old.description)}</p>${(old.reading?.length?old.reading:[{title:old.name,text:[old.description,old.note,old.details].filter(Boolean).join('\n\n')}]).map(section=>`<h4>${h(section.title)}</h4><p>${h(section.text).replace(/\n/g,'<br>')}</p>`).join('')}<div class="manager-source-links">${old.sources.map(([url,title])=>`<a href="${h(url)}" target="_blank" rel="noopener noreferrer">${h(title)} ↗</a>`).join('')}</div>`).join('')}</details>`:''}<div class="flavor-sources"><span>${item.verificationStatus==='pending'&&!sourceIds(item).length?(item.leadOrigin==='web-search'?'来源：网络检索线索，尚未完成正文核实':'来源：用户提供线索，尚未独立核实'):'资料来源'}</span>${sourceIds(item).map(id=>{const s=data.sources[id];return `<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`;}).join('')}${(item.candidateSources||[]).map(s=>`<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`).join('')}</div></div></details></article>`;
- }
  function atlas(state,p){
   const district=districtMode(state),unit=district?'区':'城市';
-  const picker=p?`<div class="flavor-city-picker"><div class="flavor-city-list"><h2>${unit}清单</h2><nav aria-label="选择${h(p.name)}${unit}">${['all',...cityOptions(state)].map(city=>`<a class="ui-choice" data-flavor-city="${h(city)}" href="${h(url({...state,city:district?'all':city,district:district?city:'all',county:'all'}))}">${city==='all'?'全部'+unit:h(city)}<small></small></a>`).join('')}</nav><p class="flavor-city-note">清单和地图都可选择${unit}，数字随卡片类别和搜索更新。<span id="flavorMapScope"></span></p></div><figure><h2>${h(p.name)} · ${unit}地图</h2><div class="flavor-map flavor-province-map" id="flavorProvinceMap" data-province="${p.id}" aria-busy="true"><p>正在加载${h(p.name)}地图…</p></div><figcaption><a href="https://datav.aliyun.com/portal/school/atlas/area_selector" target="_blank" rel="noopener noreferrer">地图来源：DataV 地理小工具 ↗</a></figcaption></figure></div>`:'';
-  return `<section class="flavor-atlas" aria-label="按省份和城市选择风物"><div class="flavor-provinces"><h2>省份清单</h2><nav aria-label="选择风物省市">${[{id:'all',name:'全部已收录省市'},...data.provinces].map(region=>{const count=data.items.filter(i=>region.id==='all'||i.province===region.id).length;return `<a class="ui-choice" href="${h(url({...state,province:region.id,city:'all',district:'all',county:'all'}))}" ${state.province===region.id?'aria-current="page"':''}>${h(region.name)}<small>${count}</small></a>`;}).join('')}</nav></div><div class="flavor-location-pickers">${picker}${p&&!district?'<section id="flavorCountyPicker" class="flavor-county-picker" aria-label="选择县区"></section>':''}</div><div class="flavor-province-intro"><h2>${h(p?.name||'各地风物')}</h2><p>${h(p?.summary||'从上方清单选择省市，再通过城市清单或省内地图筛选。')}</p></div></section>`;
+  const picker=p?`<div class="flavor-city-picker"><div class="flavor-city-list"><h2>${unit}清单</h2><nav aria-label="选择${h(p.name)}${unit}">${['all',...cityOptions(state)].map(city=>`<a class="ui-choice" data-flavor-city="${h(city)}" href="${h(url({...state,city:district?'all':city,district:district?city:'all',county:'all'}))}">${city==='all'?'全部'+unit:h(city)}<small></small></a>`).join('')}</nav></div><figure><h2>${h(p.name)} · ${unit}地图</h2><div class="flavor-map flavor-province-map" id="flavorProvinceMap" data-province="${p.id}" aria-busy="true"><p>正在加载${h(p.name)}地图…</p></div><figcaption><a href="https://datav.aliyun.com/portal/school/atlas/area_selector" target="_blank" rel="noopener noreferrer">地图来源：DataV 地理小工具 ↗</a></figcaption></figure></div>`:'';
+  return `<section class="flavor-atlas" aria-label="按省份和城市选择风物"><div class="flavor-provinces"><h2>省份清单</h2><nav aria-label="选择风物省市">${[{id:'all',name:'全部已收录省市'},...data.provinces].map(region=>{const count=data.items.filter(i=>region.id==='all'||i.province===region.id).length;return `<a class="ui-choice" href="${h(url({...state,province:region.id,city:'all',district:'all',county:'all'}))}" ${state.province===region.id?'aria-current="page"':''}>${h(region.name)}<small>${count}</small></a>`;}).join('')}</nav></div><div class="flavor-location-pickers">${picker}${p&&!district?'<section id="flavorCountyPicker" class="flavor-county-picker" aria-label="选择县区"></section>':''}</div></section>`;
  }
  function syncProvinceMap(root){
   const host=root.querySelector('#flavorProvinceMap');if(!active||!host)return;
   const province=host.dataset.province,district=regions[province]?.level==='district';
   const list=data.items.filter(i=>i.province===province&&matches(i,{...active,city:'all',district:'all',county:'all'}));
-  const unmapped=list.filter(i=>district?(!i.district&&!i.districts?.length&&!assigned(i).length):foodCity(i)==='全省').length;
-  root.querySelector('#flavorMapScope').textContent=unmapped?' 另有 '+unmapped+' 项按'+(district?'全市':'全省')+'收录，未指定'+(district?'区':'城市')+'。':'';
   root.querySelectorAll('[data-flavor-city]').forEach(a=>{
    const city=a.dataset.flavorCity,current=(district?active.district:active.city)===city,count=city==='all'?list.length:list.filter(i=>district?inDistrict(i,city):foodCity(i)===city).length;
    a.setAttribute('href',url({...active,city:district?'all':city,district:district?city:'all',county:'all'}));if(current)a.setAttribute('aria-current','true');else a.removeAttribute('aria-current');a.querySelector('small').textContent=count;
@@ -62,12 +55,11 @@ window.ChinaFlavorUI=(()=>{
    countyRequest?.abort();panel.dataset.city=String(key);
    if(!city){panel.replaceChildren();return;}
    if(!city.regions.length){panel.innerHTML='<div class="flavor-county-prompt"><h2>'+h(city.city)+' · 县级范围</h2><p>这里已是省直管县级单位，可直接查看本地食单。</p></div>';return;}
-   panel.innerHTML='<div class="flavor-county-list"><h2>'+h(city.city)+' · 县区清单</h2><nav aria-label="选择'+h(city.city)+'县区">'+[{adcode:'all',name:'全部县区'},...city.regions,{adcode:'unspecified',name:'县区待明确'}].map(county=>'<a class="ui-choice" data-flavor-county-choice="'+county.adcode+'" href="'+h(url({...active,county:String(county.adcode)}))+'">'+h(county.name)+'<small></small></a>').join('')+'</nav><p class="flavor-city-note" id="flavorCountyScope"></p></div><figure><h2>'+h(city.city)+' · 县区地图</h2><div class="flavor-map flavor-province-map flavor-county-map" id="flavorCountyMap" aria-busy="true"><p>正在加载县区地图…</p></div><figcaption><a href="https://datav.aliyun.com/portal/school/atlas/area_selector" target="_blank" rel="noopener noreferrer">地图来源：DataV 地理小工具 ↗</a></figcaption></figure>';
+   panel.innerHTML='<div class="flavor-county-list"><h2>'+h(city.city)+' · 县区清单</h2><nav aria-label="选择'+h(city.city)+'县区">'+[{adcode:'all',name:'全部县区'},...city.regions,{adcode:'unspecified',name:'县区待明确'}].map(county=>'<a class="ui-choice" data-flavor-county-choice="'+county.adcode+'" href="'+h(url({...active,county:String(county.adcode)}))+'">'+h(county.name)+'<small></small></a>').join('')+'</nav></div><figure><h2>'+h(city.city)+' · 县区地图</h2><div class="flavor-map flavor-province-map flavor-county-map" id="flavorCountyMap" aria-busy="true"><p>正在加载县区地图…</p></div><figcaption><a href="https://datav.aliyun.com/portal/school/atlas/area_selector" target="_blank" rel="noopener noreferrer">地图来源：DataV 地理小工具 ↗</a></figcaption></figure>';
    loadCountyMap(root,city);
   }
   if(!city?.regions.length)return;
   const list=scope(active).filter(item=>matches(item,{...active,county:'all'}));
-  panel.querySelector('#flavorCountyScope').textContent='数字随类别和搜索更新。跨县区条目会在相关县区显示；未明确县区 '+list.filter(i=>!assigned(i).length).length+' 项，不自动分配到各县。';
   panel.querySelectorAll('[data-flavor-county-choice]').forEach(link=>{
    const code=link.dataset.flavorCountyChoice;link.href=url({...active,county:code});
    if(active.county===code)link.setAttribute('aria-current','true');else link.removeAttribute('aria-current');
@@ -82,23 +74,45 @@ window.ChinaFlavorUI=(()=>{
  }
  async function loadCountyMap(root,city){
   const host=root.querySelector('#flavorCountyMap'),request=new AbortController();countyRequest=request;
-  try{let markup=provinceMarkup.get('county:'+city.adcode);if(!markup){const response=await fetch(city.map,{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');markup=await response.text();provinceMarkup.set('county:'+city.adcode,markup);}if(request.signal.aborted||!host.isConnected)return;host.innerHTML=markup;syncCountyPicker(root);}
+  try{let markup=provinceMarkup.get('county:'+city.adcode);if(!markup){const response=await fetch(city.map,{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');markup=await response.text();provinceMarkup.set('county:'+city.adcode,markup);}if(request.signal.aborted||!host.isConnected)return;host.innerHTML=markup;fitMap(host);syncCountyPicker(root);}
   catch(error){if(error.name!=='AbortError'&&host.isConnected)host.innerHTML='<p>县区地图暂未加载，仍可用县区清单筛选。</p>';}
   finally{if(host.isConnected)host.setAttribute('aria-busy','false');}
  }
  async function loadMap(root){
   mapRequest?.abort();const host=root.querySelector('#flavorProvinceMap');if(!host)return;
   const request=new AbortController();mapRequest=request;const province=host.dataset.province;
-  try{let markup=provinceMarkup.get(province);if(!markup){const response=await fetch('assets/maps/flavors/'+province+'.svg',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');markup=await response.text();provinceMarkup.set(province,markup);}if(request.signal.aborted||!host.isConnected)return;host.innerHTML=markup;syncProvinceMap(root);}
+  try{let markup=provinceMarkup.get(province);if(!markup){const response=await fetch('assets/maps/flavors/'+province+'.svg',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');markup=await response.text();provinceMarkup.set(province,markup);}if(request.signal.aborted||!host.isConnected)return;host.innerHTML=markup;fitMap(host);syncProvinceMap(root);}
   catch(error){if(error.name!=='AbortError'&&host.isConnected)host.innerHTML='<p>地图暂未加载，仍可用城市清单筛选。</p>';}
   finally{if(host.isConnected)host.setAttribute('aria-busy','false');}
  }
- function dispose(){regionRecords=null;regionUrl=null;countyRequest?.abort();countyRequest=null;mapRequest?.abort();mapRequest=null;active=null;}
+ function dispose(){nationalRequest?.abort();nationalRequest=null;regionRecords=null;regionUrl=null;countyRequest?.abort();countyRequest=null;mapRequest?.abort();mapRequest=null;active=null;}
+ function fitMap(host){const svg=host.querySelector('svg');if(!svg)return;const box=svg.getBBox();if(box.width&&box.height)svg.setAttribute('viewBox',`${box.x-18} ${box.y-18} ${box.width+36} ${box.height+36}`);}
+ async function loadNationalMap(root){
+  const host=root.querySelector('[data-china-national-map]'),request=new AbortController();nationalRequest=request;
+  try{
+   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=unified-overviews-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
+   if(request.signal.aborted||!host.isConnected)return;host.innerHTML=nationalMarkup;
+   for(const link of host.querySelectorAll('[data-map-province]')){const id=link.dataset.mapProvince;link.setAttribute('href',url({...active,province:id,city:'all',county:'all',district:'all'}));link.classList.toggle('is-current',active.province===id);}
+   for(const label of host.querySelectorAll('.province-labels text')){
+    const province=data.provinces.find(p=>p.name===label.textContent);if(!province)continue;
+    const link=document.createElementNS('http://www.w3.org/2000/svg','a');link.setAttribute('href',url({...active,province:province.id,city:'all',county:'all',district:'all'}));link.setAttribute('data-map-province-label',province.id);link.setAttribute('tabindex','-1');label.replaceWith(link);link.append(label);
+   }
+   const pending=[...host.querySelectorAll('[data-pending-province]')].map(n=>n.dataset.pendingProvince);
+   root.querySelector('[data-china-pending-provinces]').innerHTML=pending.map(name=>`<span class="china-pending-province">${h(name)} <small>待收录</small></span>`).join('');
+  }catch(error){if(error.name!=='AbortError'&&host.isConnected){host.innerHTML='<p>全国地图暂未加载，可使用省份按钮筛选。</p>';root.querySelector('[data-china-province-fallback]').hidden=false;}}
+ }
  function regionPicker(root,state,items,href){
-  mapRequest?.abort();countyRequest?.abort();regionRecords=items;regionUrl=href;
-  active={...state};
-  root.innerHTML=atlas(active,provinces.get(active.province));syncProvinceMap(root);syncCountyPicker(root);loadMap(root);
+  dispose();regionRecords=items;regionUrl=href;active={...state};
+  root.innerHTML=`<details class="china-national-atlas" ${state.province==='all'?'open':''}><summary>全国地图${provinces.get(state.province)?' · '+h(provinces.get(state.province).name):''}</summary><div data-china-national-map class="china-national-map" aria-label="全国省份地图"><p>正在加载全国地图…</p></div><div data-china-pending-provinces class="china-pending-provinces"></div><div data-china-province-fallback hidden></div></details>`+atlas(active,provinces.get(active.province));
+  root.querySelector('[data-china-province-fallback]').append(root.querySelector('.flavor-provinces'));
+  if(state.province==='all')root.querySelector('.flavor-atlas').hidden=true;
+  root.querySelectorAll('.flavor-atlas figcaption').forEach(n=>n.remove());
+  if(state.province!=='all'){
+   const link=document.createElement('a');link.className='china-region-overview-link';link.href=ChinaRegions.selectionUrl(state);link.textContent=(state.county!=='all'&&state.county!=='unspecified'?'县区':state.city!=='all'||state.district!=='all'?'本市':'本省')+'总览 →';root.querySelector('.flavor-atlas').prepend(link);
+  }
+  const credit=document.createElement('a');credit.className='china-map-credit';credit.href='https://datav.aliyun.com/portal/school/atlas/area_selector';credit.target='_blank';credit.rel='noopener noreferrer';credit.textContent='地图来源：DataV ↗';root.append(credit);
+  syncProvinceMap(root);syncCountyPicker(root);loadMap(root);loadNationalMap(root);
   return {destroy:dispose};
  }
- return {dispose,card,regionPicker};
+ return {dispose,regionPicker};
 })();

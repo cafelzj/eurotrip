@@ -94,7 +94,7 @@ GitHub地理标志项目的模型提取与润色文本只作线索，不直接�
 ## 实现与验证
 
 - `data/flavors.js`：省市、分类、具体食品与引用；`data/flavor-map-regions.js`：行政区域。
-- `flavors.js`、`flavors.css`：中国栏目复用的风物卡片与省市县地图组件；独立列表页面的渲染、筛选和分页代码已移除。
+- `flavors.js`、`flavors.css`：中国栏目复用的省市县地图组件；卡片使用统一中国浏览组件并跳转共享详情页；独立列表页面的渲染、筛选和分页代码已移除。
 - `tests/flavors.cjs`：条目与来源完整性、覆盖缺口保留、旧入口转入中国总览、分类／县区／待核／食材条件兼容；`tests/china-collection.cjs`、`tests/flavor-counties.cjs` 和 `tests/china-navigation.cjs` 验证三种视图、地图、分级菜单及手机布局。
 - `tests/data-integrity.cjs`、`tests/plan.cjs`、`tests/dictionary-ipa.cjs`、`tests/card-layout.cjs`：相关数据、方案、词典与原有紧凑布局回归检查。
 
@@ -148,4 +148,4 @@ GitHub的地图项目用于线索与数据结构参考，HowToCook用于菜名�
 
 ## 纳入中国城市卡片（2026-11-15）
 
-风物与原中国城市内容统一注册到 `CardStore.nodes`，现通过中国城市总览 `#card-manager/china` 浏览。独立风物食单功能已撤下，旧链接转入总览；省市县选择、卡片说明及来源组件继续在中国栏目使用，支持独立的中国分类和瀑布流／分类浏览／表格。全部4255项风物均保留；12组旧城市卡片合并为别名，旧文字、关系和来源保留，合计4385张中国卡片。详见 [统一说明](china-collection.md) 和 [整合登记](../research/flavors/integration/china-collection.json)。
+风物与原中国城市内容统一注册到 `CardStore.nodes`，现通过中国城市总览 `#card-manager/china` 浏览。独立风物食单功能已撤下，旧链接转入总览；省市县选择、卡片说明及来源组件继续在中国栏目使用，支持独立的中国分类和瀑布流／分类浏览／表格。全部4255项风物均保留；12组旧城市卡片合并为别名，旧文字、关系和来源保留，合计4385张中国卡片。详见 [统一说明](china-collection.md) 和 [整合登记](../research/china/integration/china-collection.json)。

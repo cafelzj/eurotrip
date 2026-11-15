@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-15",
+  "purpose": "全国、省、市、县区统一卡片界面；不增加或改写食品事实",
+  "routes": {
+    "national": "#card-manager/china",
+    "province": "#china/<province>",
+    "city": "#china/<province>/<city>",
+    "county": "#china/<province>/<city>/<county>"
+  },
+  "canonicalRegistry": "CardStore.nodes",
+  "flavorRecords": 4255,
+  "unifiedChinaCards": 4385,
+  "sourceInputsUnchanged": [
+    "data/flavors.js",
+    "data/flavor-counties.js",
+    "data/flavor-images.js",
+    "data/china-cards.js"
+  ],
+  "nationalMap": {
+    "source": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "sourceSHA256": "99adfeded5223848bbe37a0a12f8023e11ee12161c7800521c27db42fdeac275",
+    "retainedPreviousSvg": "research/.local/overview-unification/china-provinces-before.svg",
+    "previousSvgSHA256": "c50ce919f13321e48b4d9d1c5975b5534538a79abc663cc2b430a1adafaa9fcb",
+    "currentSvg": "assets/maps/china-provinces.svg",
+    "currentSvgSHA256": "765721dded9f789688ad656c9cb015173018a6a94681eb3f83356abb572cff56",
+    "geometryUnchanged": true,
+    "coveredProvinces": 15,
+    "pendingProvinces": 19,
+    "generator": "scripts/update-china-province-map.py"
+  },
+  "regionalDirectory": {
+    "provinceScopes": 15,
+    "cityScopes": 174,
+    "countyScopes": 1484,
+    "note": "目录和卡片覆盖沿用现有范围；未收录省份显示待收录，不因界面改名宣称已完成全国内容。"
+  },
+  "presentation": {
+    "regionalControls": "省市县三个选择框",
+    "nationalControls": "全国地图及市县地图",
+    "listReading": "查看详情跳转统一卡片详情页；列表不再折叠风味与来源",
+    "tableColumns": [
+      "卡片名称（含详情及地图操作）",
+      "地区",
+      "分类",
+      "内容与资料状态"
+    ],
+    "menuSearch": "现有省、市、县区目录，显示所属省市以区分同名地区"
+  }
+}

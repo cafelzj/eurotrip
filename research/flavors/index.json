@@ -14,7 +14,7 @@
   "currentItems": 4255,
   "canonicalRegistry": "CardStore.nodes",
   "unifiedChinaCards": 4385,
-  "integrationFile": "research/flavors/integration/china-collection.json",
+  "integrationFile": "research/china/integration/china-collection.json",
   "currentSources": "research/flavors/sources.json",
   "workflow": [
     "initial-knowledge-draft",
@@ -43,7 +43,8 @@
     "research/archives/2026-11-14-flavor-program-4000.json",
     "research/archives/2026-11-14-pre-organization.json",
     "research/archives/2026-11-15-china-collection.json",
-    "research/archives/2026-11-15-flavor-county-media.json"
+    "research/archives/2026-11-15-flavor-county-media.json",
+    "research/archives/2026-11-15-unified-overviews.json"
   ],
   "roles": {
     "current-index-or-audit": 10,
@@ -60,8 +61,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "current-index-or-audit",
-      "bytes": 3587,
-      "sha256": "8f669875dc191dbaed7c510010a6b8b9450ccafcf860fddb7712ace9662dfd49"
+      "bytes": 3833,
+      "sha256": "70a2e6b340f5b8fe3becfd20928ef22ada903731004843914eb464b1bf1ca80d"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -162,14 +163,14 @@
     {
       "path": "research/flavors/integration/china-collection.json",
       "role": "current-index-or-audit",
-      "bytes": 7552,
-      "sha256": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f"
+      "bytes": 220,
+      "sha256": "51d91bcc035042d1c24638385d281a0cc1873415a7bc0683ab24fa25ad254637"
     },
     {
       "path": "research/flavors/integration/standalone-retirement.json",
       "role": "current-index-or-audit",
-      "bytes": 2570,
-      "sha256": "bde7a2b3dd19b87d7af8922a4f95cccd75b7eb6b22af3db7c5b0e331dd75c18c"
+      "bytes": 225,
+      "sha256": "62a4334e208c6250b77e86b1e38ee78382f2b551cfd1b026ab63859ee9762d4b"
     },
     {
       "path": "research/flavors/program-4000/README.md",

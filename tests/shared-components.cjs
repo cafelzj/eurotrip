@@ -21,6 +21,6 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
  }
  await p.emulateMedia({reducedMotion:'reduce'});await p.locator('.ui-card').first().hover();assert.equal(await p.locator('.is-pointer-active').count(),0);assert.equal(await p.locator('.ui-card').first().evaluate(e=>getComputedStyle(e,'::before').display),'none');
  await p.emulateMedia({reducedMotion:'no-preference',forcedColors:'active'});assert.equal(await p.locator('.ui-card').first().evaluate(e=>getComputedStyle(e,'::before').display),'none');
- const touch=await b.newPage({viewport:{width:390,height:844},isMobile:true,hasTouch:true});await touch.goto(base+'/'+routes[2]);await touch.waitForSelector('.ui-card');await touch.locator('.ui-card summary').first().tap();assert.equal(await touch.locator('.is-pointer-active').count(),0);await touch.close();
+ const touch=await b.newPage({viewport:{width:390,height:844},isMobile:true,hasTouch:true});await touch.goto(base+'/'+routes[2]);await touch.waitForSelector('.ui-card');await touch.locator('.ui-card .hub-detail-action').first().tap();await touch.waitForSelector('.entity-detail');assert.equal(await touch.locator('.is-pointer-active').count(),0);await touch.close();
  assert.deepEqual(errors,[]);console.log('PASS shared card/header/search/button/select styles across Europe, China and flavors, moving card highlights, fixed navigation, focus, reduced motion, forced colors and touch');
 }finally{await b.close();}})().catch(e=>{console.error(e);process.exit(1)});

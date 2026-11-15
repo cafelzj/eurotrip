@@ -6,7 +6,8 @@
 
 | 主题 | 当前记录 | 历史与原始材料 |
 | --- | --- | --- |
-| 地方风物 | [底稿总入口](flavors/README.md)、[统一索引](flavors/index.json)、[来源审阅](flavors/sources.json)、[市级覆盖](flavors/coverage.json)、[市县检索队列](flavors/queue.json) | [2026-11-14批次](flavors/batches/2026-11-14/README.md)、`flavors/reading-notes/` 的逐源阅读摘记 |
+| 中国卡片统一研究 | [总入口](china/README.md)、[总索引](china/index.json)、[整合采用](china/integration/china-collection.json)、[未来来源候选](china/sources/resource-candidates-2026-11-15.json) | 原风物专题和历史资料保持原路径，见下方；本次迁移见 [映射](china/path-migrations.json) |
+| 中国地方风物专题 | [底稿总入口](flavors/README.md)、[统一索引](flavors/index.json)、[来源审阅](flavors/sources.json)、[市级覆盖](flavors/coverage.json)、[市县检索队列](flavors/queue.json) | [2026-11-14批次](flavors/batches/2026-11-14/README.md)、`flavors/reading-notes/` 的逐源阅读摘记 |
 | 4000项风物研究 | [三步研究索引](flavors/program-4000/README.md)、[逐地进度](flavors/program-4000/progress.json) | 初始知识稿、外搜索引、交叉审阅、采用ID与独立来源笔记；完整原件在 `.local/program-4000/` |
 | 食物配图 | [审核与否决](media/food/review.json)、[候选](media/food/candidates.json)、[覆盖](media/food/coverage.json) | [2026-11-09批次](media/food/batches/2026-11-09.json) |
 | 交通配图 | [审核记录](media/transport/review.json) | 作者、许可、拍摄与审核说明随记录保留 |

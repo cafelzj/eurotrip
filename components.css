@@ -6,7 +6,6 @@
   --component-selected: #285744;
 }
 .hub-card { --ui-card-accent: var(--card-accent, #365131); --ui-card-line: var(--card-line, var(--line)); --ui-card-paper: var(--card-paper, var(--surface)); }
-.flavor-card { --ui-card-accent: var(--flavor-accent); --ui-card-line: var(--flavor-line); --ui-card-paper: var(--surface); }
 .ui-card {
   position: relative;
   isolation: isolate;

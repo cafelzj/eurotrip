@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-15",
+  "flavorRecords": 4255,
+  "legacyChinaRecords": 142,
+  "mergedAliases": [
+    {
+      "oldId": "food-suzhou-noodles",
+      "canonicalId": "program-c8e15ee4f1bf5df8ad",
+      "oldName": "苏式汤面 · 先选汤，再选浇头",
+      "name": "苏式汤面",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-suzhou-mandarin-fish",
+      "canonicalId": "js-squirrel-fish",
+      "oldName": "松鼠鳜鱼 · 造型与酸甜口",
+      "name": "松鼠鳜鱼",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-suzhou-eel",
+      "canonicalId": "program-e634bc45a2b277cec0",
+      "oldName": "响油鳝糊 · 鲜香的一道热菜",
+      "name": "响油鳝糊",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "specialty-suzhou-tea",
+      "canonicalId": "js-biluochun",
+      "oldName": "洞庭碧螺春 · 苏州的茶礼",
+      "name": "碧螺春",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-xuzhou-diguoji",
+      "canonicalId": "js-diguo-chicken",
+      "oldName": "徐州地锅鸡",
+      "name": "地锅鸡",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-xuzhou-mijian",
+      "canonicalId": "flavor-jiangsu-6f05e5bdfc",
+      "oldName": "蜜三刀",
+      "name": "蜜三刀",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-wuxi-xiaolong",
+      "canonicalId": "flavor-jiangsu-e9fc4e4cb6",
+      "oldName": "无锡小笼包",
+      "name": "无锡小笼包",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "food-wuxi-ribs",
+      "canonicalId": "js-wuxi-ribs",
+      "oldName": "无锡酱排骨",
+      "name": "无锡酱排骨",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "local-kunshan-culture",
+      "canonicalId": "program-9719a554b1ba99a3b4",
+      "oldName": "奥灶面",
+      "name": "奥灶面",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "local-changshu-culture",
+      "canonicalId": "program-781bce8ec1eb5f1436",
+      "oldName": "常熟蕈油面",
+      "name": "蕈油面",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "local-taicang-culture",
+      "canonicalId": "flavor-jiangsu-e59d104932",
+      "oldName": "太仓肉松",
+      "name": "太仓肉松",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    },
+    {
+      "oldId": "local-jiangyin-culture",
+      "canonicalId": "flavor-jiangsu-b987dd1904",
+      "oldName": "江阴马蹄酥",
+      "name": "江阴马蹄酥",
+      "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
+    }
+  ],
+  "expectedChinaRecords": 4385,
+  "provinces": 15,
+  "cityScopes": 174,
+  "countyScopes": 1484,
+  "administrativeSources": [
+    {
+      "province": "beijing",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/110000_full.json",
+      "sha256": "7a333e5737d1e69a7e90400874ec908d5cb5c6a8d8efead24c0f137345054d95"
+    },
+    {
+      "province": "shandong",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/370000_full.json",
+      "sha256": "04d600e257db17869aa7fabcfcd6a87a7236791a7f02dd891636f5f58da0133f"
+    },
+    {
+      "province": "anhui",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/340000_full.json",
+      "sha256": "7ca3290e0458f34086df4d61fa9804e2c624d55dfe5f8f6a841844b5dcd43207"
+    },
+    {
+      "province": "jiangsu",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/320000_full.json",
+      "sha256": "6af17f07a3c83bad7d4d552efdd7f59ba8f7574363d1a686f59bc1d0f91733e7"
+    },
+    {
+      "province": "zhejiang",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/330000_full.json",
+      "sha256": "f87241d47687264861aa619b8dc37ffeb61a2be5d6018a8c01ec0ce0acb5cb38"
+    },
+    {
+      "province": "shanghai",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/310000_full.json",
+      "sha256": "f699513d5eb63d56350018d90db92345aeefc88c9e4f76197ea405178b6c31ae"
+    },
+    {
+      "province": "shanxi",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/140000_full.json",
+      "sha256": "5da8144cc2d3a6ab6be40a63fd2ed099a33f1deae8e727214542e73f410ff607"
+    },
+    {
+      "province": "henan",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/410000_full.json",
+      "sha256": "34119256db754324763c8484122d71524818c9cec974207bd27a9aafe2d8ad63"
+    },
+    {
+      "province": "hebei",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/130000_full.json",
+      "sha256": "c7e8f6d81bf815b309e081b17325f73134bfa6929332e1c135398e82216f70f7"
+    },
+    {
+      "province": "hunan",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/430000_full.json",
+      "sha256": "091cb4e77e2bc73fb37c8a9b3b174db9b2008db5f544a7156f5a8ad34e77dd66"
+    },
+    {
+      "province": "hubei",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/420000_full.json",
+      "sha256": "0acb559fcfe2ab2c5d2707c2477e60facdf4328ad89b8ab7d9126c5166675502"
+    },
+    {
+      "province": "fujian",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/350000_full.json",
+      "sha256": "0c749acd0048a5042a5ee701ddd5a87c17ff91afb9b728d23b7253799135b58f"
+    },
+    {
+      "province": "liaoning",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/210000_full.json",
+      "sha256": "679ec739045413f4de0898a9d6a7957f6ffc551809f3f52c786a30d6242b02c5"
+    },
+    {
+      "province": "jilin",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/220000_full.json",
+      "sha256": "828be8771e676322a81f560611821230d66e1e1dca87308efd7865b27423e605"
+    },
+    {
+      "province": "heilongjiang",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/230000_full.json",
+      "sha256": "f8d3bdbee4068811237efd23fe349a4c6e3bc99334079f9746f19e7df5ea4854"
+    }
+  ],
+  "sourceRules": "行政中心仅用于地区地图视角，不给地方食品虚构店铺或POI；县域只沿用已有明确归属。",
+  "authoringInputs": [
+    "data/flavors.js",
+    "data/china-cards.js",
+    "data/card-reading.js"
+  ],
+  "canonicalRegistry": "CardStore.nodes",
+  "retainedDistinctGuides": {
+    "food-suzhou-mooncake": "staples",
+    "food-suzhou-cakes": "staples",
+    "venue-suzhou-songhelou": "restaurants",
+    "venue-suzhou-noodle-shop": "restaurants",
+    "food-xuzhou-lomo": "staples",
+    "food-xuzhou-satang": "dishes",
+    "food-xuzhou-sha-tang": "dishes",
+    "food-wuxi-gluten": "dishes",
+    "food-wuxi-haitang": "staples",
+    "local-fengxian-culture": "ingredients"
+  }
+}

@@ -27,6 +27,17 @@ def check(local_archives=False):
         assert (ROOT / item['path']).is_file(), item['path']
         if item['path'].startswith('research/flavors/reading-notes/'):
             assert digest((ROOT / item['path']).read_bytes()) == item['previousSha256'], item['path']
+    for name in ['research/flavors/index.json', 'research/china/index.json']:
+        if not (ROOT / name).is_file():
+            continue
+        for record in read(name)['records']:
+            assert (ROOT / record['path']).is_file(), name + ' -> ' + record['path']
+            assert digest((ROOT / record['path']).read_bytes()) == record['sha256'], 'Stale research inventory: ' + record['path']
+    china_migrations = ROOT / 'research/china/path-migrations.json'
+    if china_migrations.is_file():
+        for item in json.loads(china_migrations.read_text())['files']:
+            assert (ROOT / item['path']).is_file(), item['path']
+            assert read(item['previousPath'])['movedTo'] == item['path'], item['previousPath']
     paths = subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z'], cwd=ROOT).decode().split('\0')
     paths = sorted({p for p in paths if p and (ROOT / p).is_file()})
     for name in paths:

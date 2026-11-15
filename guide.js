@@ -76,13 +76,15 @@
   if(parts[0]==='cards'){navigate('#guide/'+H.lastCountry());return;}
   if(parts[0]==='card'){
    let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{id='';}
-   const canonical=CardStore.resolveId(id);if(canonical!==id){id=canonical;history.replaceState(null,'','#card/'+encodeURIComponent(id)+(query?'?'+query:''));}const n=CardGraph.nodes.get(id),destination=n?H.destinationFor(n):null;setMode(H.isChina(destination?.country)?'china':'europe');guide.innerHTML=CardGraph.renderDetail(id);return;
+   const canonical=CardStore.resolveId(id);if(canonical!==id){id=canonical;history.replaceState(null,'','#card/'+encodeURIComponent(id)+(query?'?'+query:''));}const n=CardGraph.nodes.get(id),destination=n?H.destinationFor(n):null;setMode(H.isChina(destination?.country)?'china':'europe');guide.innerHTML=(H.isChina(destination?.country)?`<a class="china-detail-back" href="${h(H.returnUrl(n))}">← 返回卡片列表</a>`:'')+CardGraph.renderDetail(id);return;
   }
   if(parts[0]==='china'){
-   const city=ChinaRegions.resolve(parts.slice(1));if(!city){navigate(ChinaRegions.url(ChinaRegions.get(lastChina)));return;}
+   const province=ChinaRegions.provinces.find(p=>p.id===parts[1]);
+   if(parts.length===2&&province){setMode('china');const scope={provinceId:province.id,city:null};guide.innerHTML=ChinaCardManager.render(scope);ChinaCardManager.bind(guide,params,scope);return;}
+   const city=ChinaRegions.resolve(parts.slice(1));if(!city){navigate('#card-manager/china');return;}
    const canonical=ChinaRegions.url(city);if('#'+path!==canonical){navigate(canonical+(query?'?'+query:''));return;}
    lastChina=city.id;try{sessionStorage.setItem('eurotrip-china-city',lastChina);}catch{}
-   setMode('china');destinationPage(countries.find(c=>c.id===city.country),city,params.get('zone')||'all');return;
+   setMode('china');const scope={provinceId:city.provinceId,city};guide.innerHTML=ChinaCardManager.render(scope);ChinaCardManager.bind(guide,params,scope);return;
   }
   if(parts[0]==='map'){
    const city=cities.find(c=>c.id===parts[1]),country=countries.find(c=>c.id===(city?.country||parts[1]));
@@ -95,7 +97,14 @@
   if(parts[2]&&!city){navigate(H.guideUrl(country));return;}
   setMode('europe');destinationPage(country,city,params.get('zone')||'all');
  }
- let chinaMenuPath={province:null,city:null},chinaMenuContext=null;
+ let chinaMenuPath={province:null,city:null},chinaMenuContext=null,chinaMenuQuery='';
+ const regionSearchIndex=[...ChinaRegions.provinces.map(p=>({name:ChinaRegions.provinceName(p),context:'省份总览',url:ChinaRegions.provinceUrl(p.id),key:[ChinaRegions.provinceName(p),p.name,p.id,p.adcode].join(' ')})),...ChinaRegions.destinations.map(c=>{const parent=ChinaRegions.parent(c),province=ChinaRegions.province(c);const context=[ChinaRegions.provinceName(province),parent?.adminName].filter(Boolean).join(' · ');return{name:c.adminName,context,url:ChinaRegions.url(c),key:[c.adminName,c.name,c.local,c.adcode,context].join(' ')};})].map(n=>({...n,key:CardGraph.normalize(n.key)}));
+ function drawRegionSearch(){
+  const host=chinaMenu.querySelector('[data-region-search-results]'),tree=chinaMenu.querySelector('[data-region-menu-tree]'),query=CardGraph.normalize(chinaMenuQuery.trim());
+  tree.hidden=!!query;host.hidden=!query;if(!query){host.replaceChildren();return;}
+  const terms=query.split(/\s+/),found=regionSearchIndex.filter(n=>terms.every(term=>n.key.includes(term))).sort((a,b)=>Number(b.name===chinaMenuQuery)-Number(a.name===chinaMenuQuery));
+  host.innerHTML=found.length?found.slice(0,30).map(n=>`<button type="button" role="menuitem" tabindex="-1" data-nav-region-result="${h(n.url)}"><span><b>${h(n.name)}</b><small>${h(n.context)}</small></span><i>↗</i></button>`).join('')+(found.length>30?'<p class="china-menu-no-results">结果较多，请补充省、市或县名。</p>':''):'<p class="china-menu-no-results" role="status">未找到已收录地区，可尝试其他地名。</p>';
+ }
  function positionChinaMenu(){
   if(chinaMenu.hidden)return;chinaMenu.style.translate='0px';const box=chinaMenu.getBoundingClientRect();
   chinaMenu.style.translate=(Math.max(12,Math.min(box.x,innerWidth-box.width-12))-box.x)+'px';
@@ -114,7 +123,8 @@
   }else{
    content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="cities">← 返回${h(province.name)}城市清单</button>`+option('data-nav-city',city.id,city.adminName+'总览')+ChinaRegions.counties(city).map(c=>option('data-nav-city',c.id,c.adminName)).join('');
   }
-  chinaMenu.innerHTML=overview+content;chinaMenu.setAttribute('aria-label',city?city.adminName+'县区菜单':province?province.name+'城市菜单':'中国省市县菜单');chinaMenu.scrollTop=0;
+  chinaMenu.innerHTML=overview+`<label class="china-region-search"><span aria-hidden="true">⌕</span><input type="search" data-region-search maxlength="100" placeholder="搜索省、市、县区…" aria-label="搜索省市县" value="${h(chinaMenuQuery)}"></label><div class="china-menu-results" data-region-search-results role="group" aria-label="地区搜索结果" hidden></div><div data-region-menu-tree role="group">${content}</div>`;
+  drawRegionSearch();chinaMenu.setAttribute('aria-label',city?city.adminName+'县区菜单':province?province.name+'城市菜单':'中国省市县菜单');chinaMenu.scrollTop=0;
   if(focusSelector)(chinaMenu.querySelector(focusSelector)||chinaMenu.querySelector('button'))?.focus();
   positionChinaMenu();
  }
@@ -124,36 +134,40 @@
   if(parts[0]==='guide'){country=countries.find(c=>c.id===parts[1]);city=cities.find(c=>c.id===parts[2]);}
   if(parts[0]==='map'){city=cities.find(c=>c.id===parts[1]);country=countries.find(c=>c.id===parts[1]);}
   if(parts[0]==='card')try{const n=CardGraph.nodes.get(decodeURIComponent(parts[1]));if(n)({country,city}=H.destinationFor(n));}catch{}
-  country=country||countries.find(c=>c.id===city?.country);
+  country=country||countries.find(c=>c.id===(parts[0]==='china'?'cn':city?.country));
   const selected=europe.find(c=>c.id===country?.id)||europe.find(c=>c.id===H.lastCountry())||europe[0];
   const currentChina=chinaCities.find(c=>c.id===city?.id)||chinaCities.find(c=>c.id===lastChina);
   countryButton.innerHTML='◎ 欧洲国家'+(managingEurope?'<span class="mode-location"> · 卡片管理</span>':country&&!H.isChina(country)?`<span class="mode-location"> · ${h(selected.name)}</span>`:'')+' ▾';
-  chinaButton.innerHTML='⌂ 中国城市'+(managingChina?'<span class="mode-location"> · 总览</span>':H.isChina(country)?`<span class="mode-location"> · ${h(currentChina.name)}</span>`:'')+' ▾';
-  const managerOption=region=>{const active=region==='china'?managingChina:managingEurope;return `<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager="${region}" ${active?'aria-current="page"':''}><span>▦</span><span><b>${region==='china'?'总览':'卡片管理'}</b>${region==='china'?'':'<small>表格 · 搜索与筛选</small>'}</span><i>${active?'✓':'↗'}</i></button>`;};
+  chinaButton.innerHTML='⌂ 中国城市'+(managingChina?'<span class="mode-location"> · 全国总览</span>':H.isChina(country)?`<span class="mode-location"> · ${h(parts[0]==='china'&&parts.length===2?ChinaRegions.provinceName(ChinaRegions.provinces.find(p=>p.id===parts[1])):currentChina.name)}</span>`:'')+' ▾';
+  const managerOption=region=>{const active=region==='china'?managingChina:managingEurope;return `<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager="${region}" ${active?'aria-current="page"':''}><span>▦</span><span><b>${region==='china'?'全国总览':'卡片管理'}</b>${region==='china'?'':'<small>表格 · 搜索与筛选</small>'}</span><i>${active?'✓':'↗'}</i></button>`;};
   countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managingEurope&&c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${!managingEurope&&c.id===selected.id?'✓':''}</i></button>`).join('')+managerOption('europe');
-  chinaMenuContext={selected:currentChina,managing:managingChina,overview:managerOption('china')};chinaMenuPath={province:null,city:null};drawChinaMenu();
+  chinaMenuContext={selected:parts[0]==='china'&&parts.length===2?{id:parts[1],provinceId:parts[1]}:currentChina,managing:managingChina,overview:managerOption('china')};chinaMenuPath={province:null,city:null};drawChinaMenu();
  }
  const menus=[[countryButton,countryMenu,'data-nav-country',id=>'#guide/'+id],[chinaButton,chinaMenu,'data-nav-city',id=>ChinaRegions.url(ChinaRegions.get(id))]];
  function closeMenus(focusButton){for(const [button,menu]of menus){menu.hidden=true;button.setAttribute('aria-expanded','false');}focusButton?.focus();}
- function openMenu(button,menu){closeMenus();if(menu===chinaMenu){chinaMenuPath={province:null,city:null};drawChinaMenu();}menu.hidden=false;positionChinaMenu();button.setAttribute('aria-expanded','true');(menu.querySelector('[aria-current=page]')||menu.querySelector('[aria-checked=true]')||menu.querySelector('.is-selected')||menu.querySelector('button'))?.focus();}
+ function openMenu(button,menu){closeMenus();if(menu===chinaMenu){chinaMenuPath={province:null,city:null};chinaMenuQuery='';drawChinaMenu();}menu.hidden=false;positionChinaMenu();button.setAttribute('aria-expanded','true');(menu.querySelector('[aria-current=page]')||menu.querySelector('[aria-checked=true]')||menu.querySelector('.is-selected')||menu.querySelector('button'))?.focus();}
  for(const [button,menu,attribute,url]of menus){
   button.onclick=()=>menu.hidden?openMenu(button,menu):closeMenus(button);
   button.addEventListener('keydown',e=>{if(['ArrowDown','ArrowUp'].includes(e.key)){e.preventDefault();openMenu(button,menu);}});
   menu.onclick=e=>{
-   if(menu===chinaMenu){
+   if(menu===chinaMenu){const result=e.target.closest('[data-nav-region-result]');if(result){closeMenus(button);navigate(result.dataset.navRegionResult);return;}
     const province=e.target.closest('[data-nav-province]'),city=e.target.closest('[data-nav-city-branch]'),back=e.target.closest('[data-nav-back]'),overview=e.target.closest('[data-nav-province-overview]');
     if(province){chinaMenuPath={province:province.dataset.navProvince,city:null};drawChinaMenu('[data-nav-back]');return;}
     if(city){chinaMenuPath.city=city.dataset.navCityBranch;drawChinaMenu('[data-nav-back]');return;}
     if(back){const old={...chinaMenuPath};chinaMenuPath=back.dataset.navBack==='provinces'?{province:null,city:null}:{province:old.province,city:null};drawChinaMenu(old.city?'[data-nav-city-branch="'+old.city+'"]':'[data-nav-province="'+old.province+'"]');return;}
-    if(overview){closeMenus(button);navigate('#card-manager/china?province='+encodeURIComponent(overview.dataset.navProvinceOverview));return;}
+    if(overview){closeMenus(button);navigate(ChinaRegions.provinceUrl(overview.dataset.navProvinceOverview));return;}
    }
-   const manager=e.target.closest('[data-nav-manager]');if(manager){closeMenus(button);navigate(CardManager.returnUrl(manager.dataset.navManager==='china'?'card-manager-china':'card-manager'));return;}const option=e.target.closest('['+attribute+']');if(option){closeMenus(button);navigate(url(option.getAttribute(attribute)));}};
+   const manager=e.target.closest('[data-nav-manager]');if(manager){closeMenus(button);navigate(manager.dataset.navManager==='china'?'#card-manager/china':CardManager.returnUrl('card-manager'));return;}const option=e.target.closest('['+attribute+']');if(option){closeMenus(button);navigate(url(option.getAttribute(attribute)));}};
   menu.addEventListener('keydown',e=>{
+   if(menu===chinaMenu&&e.target.matches('[data-region-search]')&&['ArrowDown','ArrowUp','Enter'].includes(e.key)){
+    const results=[...menu.querySelectorAll('[data-nav-region-result]')];if(results.length){e.preventDefault();if(e.key==='Enter')results[0].click();else results[e.key==='ArrowUp'?results.length-1:0].focus();return;}
+   }
    if(menu===chinaMenu&&e.key==='ArrowRight'&&document.activeElement.matches('[data-nav-province],[data-nav-city-branch]')){e.preventDefault();document.activeElement.click();return;}
    if(menu===chinaMenu&&e.key==='ArrowLeft'&&chinaMenuPath.province){e.preventDefault();menu.querySelector('[data-nav-back]')?.click();return;}
-   if(e.key==='Escape'){e.preventDefault();closeMenus(button);return;}if(!['ArrowDown','ArrowUp','Home','End'].includes(e.key))return;e.preventDefault();const options=[...menu.querySelectorAll('button')],at=options.indexOf(document.activeElement),next=e.key==='Home'?0:e.key==='End'?options.length-1:(at+(e.key==='ArrowDown'?1:-1)+options.length)%options.length;options[next].focus();});
+   if(e.key==='Escape'){e.preventDefault();closeMenus(button);return;}if(e.target.matches('input')&&!['ArrowDown','ArrowUp'].includes(e.key))return;if(!['ArrowDown','ArrowUp','Home','End'].includes(e.key))return;e.preventDefault();const options=[...menu.querySelectorAll('button')].filter(option=>!option.closest('[hidden]')),at=options.indexOf(document.activeElement),next=e.key==='Home'?0:e.key==='End'?options.length-1:(at+(e.key==='ArrowDown'?1:-1)+options.length)%options.length;options[next].focus();});
  }
  function route(){closeMenus();renderRoute();syncMenus();window.FloatingMap?.sync();}
+ chinaMenu.addEventListener('input',event=>{if(!event.target.matches('[data-region-search]'))return;chinaMenuQuery=event.target.value;drawRegionSearch();positionChinaMenu();});
  for(const event of ['click','focusin'])document.addEventListener(event,e=>{if(!e.composedPath().some(node=>node.classList?.contains('country-mode-control')))closeMenus();});
  document.querySelector('#wordsMode').onclick=()=>navigate('#words');
  document.querySelector('#produceMode').onclick=()=>navigate('#produce/'+ProducePage.lastCountry());

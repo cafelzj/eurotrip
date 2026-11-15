@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 LOCAL = ROOT / 'research/.local/china-integration'
-PUBLIC = ROOT / 'research/flavors/integration'
+PUBLIC = ROOT / 'research/china/integration'
 PUBLIC.mkdir(exist_ok=True)
 baseline = json.loads((LOCAL / 'baseline.json').read_text())
 raw = (ROOT / 'data/flavors.js').read_text()

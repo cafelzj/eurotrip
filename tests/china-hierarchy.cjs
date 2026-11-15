@@ -9,18 +9,18 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   const base=process.env.SITE_URL||'http://127.0.0.1:3014';
   await p.goto(base+'/#china/jiangsu/xuzhou');
   assert.equal(await p.locator('#chinaProvince').inputValue(),'jiangsu');assert.equal(await p.locator('#chinaPrefecture').inputValue(),'xuzhou');
-  assert.equal(await p.locator('#chinaCounty option').count(),await p.evaluate(()=>ChinaRegions.counties(ChinaRegions.get('xuzhou')).length+1));assert((await p.locator('#travelGuide > h1').innerText()).includes('徐州'));
-  assert.equal(await p.locator('.hub-section').count(),5);assert.equal(await p.locator('[data-knowledge-card="food-suzhou-noodles"]').count(),0);
-  assert(await p.evaluate(()=>KnowledgeHub.mapContext().mapUniverse.some(n=>n.id==='venue-xuzhou-airport'&&n.city==='suining')));
+  assert.equal(await p.locator('#chinaCounty option').count(),await p.evaluate(()=>ChinaRegions.counties(ChinaRegions.get('xuzhou')).length+1));assert((await p.locator('[data-china-page-title]').innerText()).includes('徐州'));
+  assert.equal(await p.locator('[data-china-primary]').count(),6);assert.equal(await p.locator('[data-knowledge-card="food-suzhou-noodles"]').count(),0);
+  assert(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='cn'),ChinaRegions.get('xuzhou')).some(n=>n.id==='venue-xuzhou-airport'&&n.city==='suining')));
   await p.selectOption('#chinaPrefecture','wuxi');await settle(p);
   assert.equal(await p.locator('#chinaCounty option').count(),await p.evaluate(()=>ChinaRegions.counties(ChinaRegions.get('wuxi')).length+1));assert.equal(await p.locator('#chinaCounty').inputValue(),'wuxi');
-  assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi');
-  assert(await p.evaluate(()=>KnowledgeHub.mapContext().mapUniverse.some(n=>n.id==='venue-yixing-highlight')));
+  assert((await p.evaluate(()=>location.hash)).startsWith('#china/jiangsu/wuxi'));
+  assert(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='cn'),ChinaRegions.get('wuxi')).some(n=>n.id==='venue-yixing-highlight')));
   await p.selectOption('#chinaCounty','yixing');await settle(p);
-  assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),'yixing');assert.equal(await p.locator('#chinaPrefecture').inputValue(),'wuxi');
-  assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi/yixing');
-  assert((await p.locator('#travelGuide > h1').innerText()).includes('无锡市'));assert((await p.locator('#travelGuide > h1').innerText()).includes('宜兴市'));
-  assert(await p.evaluate(()=>KnowledgeHub.mapContext().mapUniverse.every(n=>CardGraph.cityIds(n).includes('yixing'))));
+  assert.equal(await p.locator('.china-manager').getAttribute('data-china-level'),'county');assert.equal(await p.locator('#chinaPrefecture').inputValue(),'wuxi');
+  assert((await p.evaluate(()=>location.hash)).startsWith('#china/jiangsu/wuxi/yixing'));
+  assert.equal(await p.locator('#chinaPrefecture').inputValue(),'wuxi');assert((await p.locator('[data-china-page-title]').innerText()).includes('宜兴市'));
+  assert(await p.evaluate(()=>KnowledgeHub.scoped(travelCountries.find(c=>c.id==='cn'),ChinaRegions.get('yixing')).every(n=>CardGraph.cityIds(n).includes('yixing'))));
   await p.goto(base+'/#map/yixing?focus=venue-yixing-highlight');
   assert((await p.locator('.poi-popup').innerText()).includes('宜兴竹海'));
   assert(await p.evaluate(()=>[...document.querySelectorAll('[data-map-leaf]')].every(e=>CardGraph.nodes.get(e.dataset.mapLeaf).city==='yixing')));
@@ -32,16 +32,16 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
    await p.goto(base+'/#china/jiangsu/'+city);
    for(const county of counties){
     await p.selectOption('#chinaCounty',county);await settle(p);
-    assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),county);
-    assert(await p.evaluate(id=>{const nodes=KnowledgeHub.mapContext().mapUniverse;return nodes.length>=3&&nodes.every(n=>CardGraph.cityIds(n).includes(id));},county));
+    assert.equal(await p.locator('#chinaCounty').inputValue(),county);
+    assert(await p.evaluate(id=>{const nodes=KnowledgeHub.scoped(travelCountries.find(c=>c.id==='cn'),ChinaRegions.get(id));return nodes.length>=3&&nodes.every(n=>CardGraph.cityIds(n).includes(id));},county));
     await p.reload();assert.equal(await p.locator('#chinaCounty').inputValue(),county);
    }
-   await p.selectOption('#chinaCounty',city);await settle(p);assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),city);
+   await p.selectOption('#chinaCounty',city);await settle(p);assert.equal(await p.locator('#chinaPrefecture').inputValue(),city);
   }
   await p.goto(base+'/#china/jiangsu/wuxi');await p.goto(base+'/#card/venue-suzhou-museum');
   assert((await p.evaluate(()=>KnowledgeHub.returnUrl(CardGraph.nodes.get('venue-suzhou-museum')))).startsWith('#china/jiangsu/suzhou'));
-  await p.goto(base+'/#china/wuxi');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi');
-  await p.goto(base+'/#china/yixing');await settle(p);assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi/yixing');
+  await p.goto(base+'/#china/wuxi');await settle(p);assert((await p.evaluate(()=>location.hash)).startsWith('#china/jiangsu/wuxi'));
+  await p.goto(base+'/#china/yixing');await settle(p);assert((await p.evaluate(()=>location.hash)).startsWith('#china/jiangsu/wuxi/yixing'));
   await p.selectOption('#chinaPrefecture','xuzhou');await settle(p);assert.equal(await p.locator('#chinaCounty').inputValue(),'xuzhou');
   await p.goto(base+'/#map/xuzhou');await openMapBranch(p,'[data-layer-focus="venue-xuzhou-airport"]');await p.locator('[data-layer-focus="venue-xuzhou-airport"]').click();assert((await p.locator('.poi-popup').innerText()).includes('徐州观音国际机场'));
   await p.goto(base+'/#china/jiangsu/wuxi/yixing');await p.screenshot({path:'/tmp/jiangsu-hierarchy-desktop.png'});

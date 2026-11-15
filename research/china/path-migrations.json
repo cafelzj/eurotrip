@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-15",
+  "scope": "中国卡片整合记录迁入统一目录；风物知识稿、阅读摘记、原件及历史批次保持原路径和原字节。",
+  "files": [
+    {
+      "previousPath": "research/flavors/integration/china-collection.json",
+      "path": "research/china/integration/china-collection.json",
+      "previousSha256": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f",
+      "sha256AtMigration": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f",
+      "bytesPreserved": true
+    },
+    {
+      "previousPath": "research/flavors/integration/standalone-retirement.json",
+      "path": "research/china/integration/standalone-retirement.json",
+      "previousSha256": "bde7a2b3dd19b87d7af8922a4f95cccd75b7eb6b22af3db7c5b0e331dd75c18c",
+      "sha256AtMigration": "bde7a2b3dd19b87d7af8922a4f95cccd75b7eb6b22af3db7c5b0e331dd75c18c",
+      "bytesPreserved": true
+    }
+  ],
+  "createdDirectly": [
+    "research/china/integration/unified-overviews.json",
+    "research/china/sources/resource-candidates-2026-11-15.json"
+  ]
+}

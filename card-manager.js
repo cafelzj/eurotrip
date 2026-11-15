@@ -7,7 +7,7 @@ window.CardManager=(()=>{
   china:{path:'#card-manager/china',source:'card-manager-china',storage:'eurotrip-card-manager-china-url',label:'中国城市'}
  };
  const scope=region=>scopes[region==='china'?'china':'europe'];
- function returnUrl(source){const config=Object.values(scopes).find(s=>s.source===source);if(!config)return null;try{const saved=sessionStorage.getItem(config.storage);if(saved?.split('?')[0]===config.path)return saved;}catch{}return config.path;}
+ function returnUrl(source){if(source==='china-collection'){try{const saved=sessionStorage.getItem('eurotrip-china-collection-return');if(saved?.startsWith('#china/'))return saved;}catch{}return '#card-manager/china';}const config=Object.values(scopes).find(s=>s.source===source);if(!config)return null;try{const saved=sessionStorage.getItem(config.storage);if(saved?.split('?')[0]===config.path)return saved;}catch{}return config.path;}
  function collectionUrl(region){if(region!=='china')return '#guide/'+H.lastCountry();let city;try{city=ChinaRegions.get(sessionStorage.getItem('eurotrip-china-city'));}catch{}return ChinaRegions.url(city||ChinaRegions.destinations[0]);}
  const countries=n=>G.countryIds(n).map(id=>travelCountries.find(c=>c.id===id)).filter(Boolean);
  const cities=n=>G.cityIds(n).map(id=>travelCities.find(c=>c.id===id)).filter(Boolean);

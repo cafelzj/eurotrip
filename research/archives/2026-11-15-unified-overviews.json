@@ -1,0 +1,20 @@
+{
+  "batch": "2026-11-15-unified-overviews",
+  "createdAt": "2026-11-15T02:33:35.852492+00:00",
+  "archive": "research/.local/archives/2026-11-15-unified-overviews.tar.gz",
+  "archiveSha256": "04dee0256a05519c2644ae7555462052a030325922b39a1a55f3cee45cd7984c",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/overview-unification"
+  ],
+  "fileCount": 1,
+  "totalUncompressedBytes": 323509,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "overview-unification/china-provinces-before.svg",
+      "bytes": 323509,
+      "sha256": "c50ce919f13321e48b4d9d1c5975b5534538a79abc663cc2b430a1adafaa9fcb"
+    }
+  ]
+}
