@@ -1,0 +1,100 @@
+{
+  "batch": "2026-11-15-china-collection",
+  "createdAt": "2026-11-15T01:01:57.823941+00:00",
+  "archive": "research/.local/archives/2026-11-15-china-collection.tar.gz",
+  "archiveSha256": "09421c2f89eee5d9c269143802323dd087a5bd6eb1e4f28f858d58619ca2dd5f",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/china-integration"
+  ],
+  "fileCount": 17,
+  "totalUncompressedBytes": 2663370,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "china-integration/110000.json",
+      "bytes": 101117,
+      "sha256": "7a333e5737d1e69a7e90400874ec908d5cb5c6a8d8efead24c0f137345054d95"
+    },
+    {
+      "member": "china-integration/130000.json",
+      "bytes": 73454,
+      "sha256": "c7e8f6d81bf815b309e081b17325f73134bfa6929332e1c135398e82216f70f7"
+    },
+    {
+      "member": "china-integration/140000.json",
+      "bytes": 60906,
+      "sha256": "5da8144cc2d3a6ab6be40a63fd2ed099a33f1deae8e727214542e73f410ff607"
+    },
+    {
+      "member": "china-integration/210000.json",
+      "bytes": 161469,
+      "sha256": "679ec739045413f4de0898a9d6a7957f6ffc551809f3f52c786a30d6242b02c5"
+    },
+    {
+      "member": "china-integration/220000.json",
+      "bytes": 147299,
+      "sha256": "828be8771e676322a81f560611821230d66e1e1dca87308efd7865b27423e605"
+    },
+    {
+      "member": "china-integration/230000.json",
+      "bytes": 146797,
+      "sha256": "f8d3bdbee4068811237efd23fe349a4c6e3bc99334079f9746f19e7df5ea4854"
+    },
+    {
+      "member": "china-integration/310000.json",
+      "bytes": 83280,
+      "sha256": "f699513d5eb63d56350018d90db92345aeefc88c9e4f76197ea405178b6c31ae"
+    },
+    {
+      "member": "china-integration/320000.json",
+      "bytes": 97545,
+      "sha256": "6af17f07a3c83bad7d4d552efdd7f59ba8f7574363d1a686f59bc1d0f91733e7"
+    },
+    {
+      "member": "china-integration/330000.json",
+      "bytes": 120401,
+      "sha256": "f87241d47687264861aa619b8dc37ffeb61a2be5d6018a8c01ec0ce0acb5cb38"
+    },
+    {
+      "member": "china-integration/340000.json",
+      "bytes": 127323,
+      "sha256": "7ca3290e0458f34086df4d61fa9804e2c624d55dfe5f8f6a841844b5dcd43207"
+    },
+    {
+      "member": "china-integration/350000.json",
+      "bytes": 114243,
+      "sha256": "0c749acd0048a5042a5ee701ddd5a87c17ff91afb9b728d23b7253799135b58f"
+    },
+    {
+      "member": "china-integration/370000.json",
+      "bytes": 167872,
+      "sha256": "04d600e257db17869aa7fabcfcd6a87a7236791a7f02dd891636f5f58da0133f"
+    },
+    {
+      "member": "china-integration/410000.json",
+      "bytes": 153774,
+      "sha256": "34119256db754324763c8484122d71524818c9cec974207bd27a9aafe2d8ad63"
+    },
+    {
+      "member": "china-integration/420000.json",
+      "bytes": 155792,
+      "sha256": "0acb559fcfe2ab2c5d2707c2477e60facdf4328ad89b8ab7d9126c5166675502"
+    },
+    {
+      "member": "china-integration/430000.json",
+      "bytes": 175676,
+      "sha256": "091cb4e77e2bc73fb37c8a9b3b174db9b2008db5f544a7156f5a8ad34e77dd66"
+    },
+    {
+      "member": "china-integration/baseline.json",
+      "bytes": 773544,
+      "sha256": "21b0384cc737263aec7adcf46f7fc5143c3edd22b18a4116a2e00ec21fd35875"
+    },
+    {
+      "member": "china-integration/sources.json",
+      "bytes": 2878,
+      "sha256": "757673c1bec788cc2071d1d9e620d97ca569720e2f2a920e1a756abdd760caf9"
+    }
+  ]
+}

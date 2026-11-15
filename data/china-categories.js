@@ -1,0 +1,394 @@
+/* Independent Chinese collection configuration. */
+window.chinaCardCategories={
+  "primary": [
+    {
+      "id": "food",
+      "icon": "🍽️",
+      "name": "美食与特产",
+      "description": "地方乳品、饮品、酒茶、菜肴、面食、食材、调味品及地方物品与工艺",
+      "prefix": "食",
+      "color": "#925533"
+    },
+    {
+      "id": "transport",
+      "icon": "🚆",
+      "name": "交通出行",
+      "description": "地铁、共享骑行、交通 App、线路图、票务与交通枢纽",
+      "prefix": "交",
+      "color": "#3d7775"
+    },
+    {
+      "id": "brands",
+      "icon": "🛍️",
+      "name": "购物",
+      "description": "支付、货币、超市、商圈、银行、医药与企业品牌",
+      "prefix": "购",
+      "color": "#486b84"
+    },
+    {
+      "id": "places",
+      "icon": "🏛️",
+      "name": "景点与建筑",
+      "description": "教堂、博物馆、展览空间、剧院与公园",
+      "prefix": "景",
+      "color": "#826b3e"
+    },
+    {
+      "id": "facts",
+      "icon": "💡",
+      "name": "当地生活与文化",
+      "description": "落地实用信息、语言趣闻，以及历史、地理与当地人物",
+      "prefix": "知",
+      "color": "#73608b"
+    }
+  ],
+  "secondary": [
+    {
+      "id": "dairy",
+      "category": "food",
+      "name": "乳制品",
+      "icon": "🥛",
+      "description": "查看已收录的地方乳制品，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "drinks",
+      "category": "food",
+      "name": "饮品",
+      "icon": "🥤",
+      "description": "查看已收录的地方饮品，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "alcohol",
+      "category": "food",
+      "name": "酒",
+      "icon": "🍶",
+      "description": "查看已收录的地方酒，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "tea",
+      "category": "food",
+      "name": "茶",
+      "icon": "🍵",
+      "description": "查看已收录的地方茶，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "dishes",
+      "category": "food",
+      "name": "特色菜",
+      "icon": "🍽️",
+      "description": "查看已收录的地方特色菜，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "staples",
+      "category": "food",
+      "name": "面食",
+      "icon": "🍜",
+      "description": "查看已收录的地方面食，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "ingredients",
+      "category": "food",
+      "name": "地方食材",
+      "icon": "🌾",
+      "description": "查看已收录的地方地方食材，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "seasoning",
+      "category": "food",
+      "name": "调味品",
+      "icon": "🧂",
+      "description": "查看已收录的地方调味品，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "crafts",
+      "category": "food",
+      "name": "物品与工艺",
+      "icon": "🎁",
+      "description": "查看已收录的地方物品与工艺，保留来源、地域与待核说明。"
+    },
+    {
+      "id": "tickets",
+      "category": "transport",
+      "name": "乘车指南",
+      "icon": "🎫",
+      "description": "把买票、乘车规则、交通 App 和官方线路图放在一起：核对单次票、多日票、月票、票区、验证、换乘与机场接驳；实时班次和服务调整以运营商最新说明为准。"
+    },
+    {
+      "id": "metro",
+      "category": "transport",
+      "name": "地铁",
+      "icon": "🚇",
+      "description": "认识城市地铁的标识、换乘与线路图，留意与市郊铁路、轻轨的区别；运营调整以官方公告为准。"
+    },
+    {
+      "id": "shared-mobility",
+      "category": "transport",
+      "name": "共享单车 / 滑板车",
+      "icon": "🚲",
+      "description": "先在运营商 App 中确认服务范围、费用与停车区，再解锁骑行；公共交通票通常不默认包含共享骑行。"
+    },
+    {
+      "id": "airport",
+      "category": "transport",
+      "name": "机场",
+      "icon": "✈️",
+      "description": "进出城市的重要机场；参考坐标用于辨认位置，航站楼和接驳另查官方。"
+    },
+    {
+      "id": "station",
+      "category": "transport",
+      "name": "火车站",
+      "icon": "🚉",
+      "description": "重要铁路车站，车次、站台与换乘安排以运营商为准。"
+    },
+    {
+      "id": "ferry",
+      "category": "transport",
+      "name": "轮渡码头",
+      "icon": "⛴️",
+      "description": "水上交通的出发地点，登船桥、线路与季节班次请分别确认。"
+    },
+    {
+      "id": "hub",
+      "category": "transport",
+      "name": "交通枢纽",
+      "icon": "🚏",
+      "description": "了解城市内外交通衔接的位置与查询入口。"
+    },
+    {
+      "id": "restaurants",
+      "category": "food",
+      "name": "著名餐馆 / 咖啡馆",
+      "icon": "🥘",
+      "description": "具体餐饮场所的探索线索，每张卡片只定位一个场所。"
+    },
+    {
+      "id": "chain-dining",
+      "category": "food",
+      "name": "连锁餐饮",
+      "icon": "🍔",
+      "description": "一起认识连锁品牌与具体门店：品牌卡片按地图范围动态搜索，门店卡片定位一个具体位置。"
+    },
+    {
+      "id": "dining-tips",
+      "category": "food",
+      "name": "点餐 / 结账提醒",
+      "icon": "🍽️",
+      "description": "点单、结账与小费习惯，有饮食限制时向店员确认。"
+    },
+    {
+      "id": "payments",
+      "category": "brands",
+      "name": "支付 / 货币",
+      "icon": "💳",
+      "description": "了解币种、刷卡与取现习惯，现场核对汇率和手续费。"
+    },
+    {
+      "id": "shopping-tips",
+      "category": "brands",
+      "name": "购物提醒",
+      "icon": "🛒",
+      "description": "营业时间、押金与退税等日常采购中容易忽略的事项。"
+    },
+    {
+      "id": "supermarkets",
+      "category": "brands",
+      "name": "超市",
+      "icon": "🛒",
+      "description": "认识当地常见连锁；在地图中动态搜索当前范围的具体门店。"
+    },
+    {
+      "id": "supermarket-locations",
+      "category": "brands",
+      "name": "超市地点",
+      "icon": "🛒",
+      "description": "已经收录的具体门店；一张地点卡片对应一个位置。"
+    },
+    {
+      "id": "bank",
+      "category": "brands",
+      "name": "银行",
+      "icon": "🏦",
+      "description": "银行与 ATM 查询线索，品牌不代表免手续费。"
+    },
+    {
+      "id": "pharmacy",
+      "category": "brands",
+      "name": "医药服务",
+      "icon": "💊",
+      "description": "分清药房与药妆店，从官方渠道寻找药品与值班服务。"
+    },
+    {
+      "id": "drugstore",
+      "category": "brands",
+      "name": "药妆 / 日用",
+      "icon": "🧴",
+      "description": "洗护、防晒与生活用品的常见购物选择。"
+    },
+    {
+      "id": "industry",
+      "category": "brands",
+      "name": "大型企业 / 产业",
+      "icon": "🏢",
+      "description": "从企业起源与产业认识当地；总部与生产地不自动视为游览场所。"
+    },
+    {
+      "id": "consumer-brands",
+      "category": "brands",
+      "name": "食品 / 消费品牌",
+      "icon": "🏷️",
+      "description": "认识常见品牌、起源与产品，再沿关联卡片了解日常消费。"
+    },
+    {
+      "id": "shopping-districts",
+      "category": "brands",
+      "name": "商圈 / 购物",
+      "icon": "🛍️",
+      "description": "适合步行逛街的商圈与购物地点，营业安排以各店为准。"
+    },
+    {
+      "id": "living-costs",
+      "category": "facts",
+      "name": "物价与开销",
+      "icon": "🧾",
+      "description": "从基本食品、外食、通勤、住房与居民家庭账本认识日常负担；每张卡保留统计年份、币种和人均／每户／税前口径。全国平均不代替城市报价。"
+    },
+    {
+      "id": "daily",
+      "category": "facts",
+      "name": "日常 / 应急",
+      "icon": "🧳",
+      "description": "紧急求助与旅行中的日常准备，提前保存重要联系方式。"
+    },
+    {
+      "id": "people",
+      "category": "facts",
+      "name": "当地人物",
+      "icon": "👤",
+      "description": "通过生平、作品与城市联系认识人物，再访问相关地点卡片。"
+    },
+    {
+      "id": "facts",
+      "category": "facts",
+      "name": "历史与地理",
+      "icon": "📜",
+      "description": "把有趣的线索放回历史和地理背景中，沿关联继续阅读。"
+    },
+    {
+      "id": "world-heritage",
+      "category": "places",
+      "name": "世界遗产",
+      "icon": "🌍",
+      "description": "按 UNESCO 正式列名认识世界文化与自然遗产。历史城区、建筑群与跨国文化景观的范围各不相同；城市关联不代表整座城市都在遗产范围内，图钉只作参考位置。"
+    },
+    {
+      "id": "church",
+      "category": "places",
+      "name": "教堂",
+      "icon": "⛪",
+      "description": "从建筑、宗教与城市历史理解教堂，注意礼拜时间和参观礼仪。"
+    },
+    {
+      "id": "museum",
+      "category": "places",
+      "name": "博物馆 / 美术馆 / 展览馆",
+      "icon": "🏛️",
+      "description": "按藏品、艺术与展览主题挑选；文化园区内各机构的展期、预约与票务请分别查官网。"
+    },
+    {
+      "id": "theatre",
+      "category": "places",
+      "name": "剧院 / 演出场馆",
+      "icon": "🎭",
+      "description": "演出、建筑导览和观景平台可能需要分别订票。"
+    },
+    {
+      "id": "university",
+      "category": "places",
+      "name": "著名大学",
+      "icon": "🎓",
+      "description": "认识当地的学术与校园历史，公众可进入范围请现场确认。"
+    },
+    {
+      "id": "landmark",
+      "category": "places",
+      "name": "地标建筑",
+      "icon": "🏰",
+      "description": "城市最有辨识度的建筑与历史地点，坐标为参考位置。"
+    },
+    {
+      "id": "park",
+      "category": "places",
+      "name": "公园 / 游乐园",
+      "icon": "🌳",
+      "description": "从城市绿地到游乐设施，按步行、休闲或游玩兴趣安排；园区开放与设施票务请分别确认。"
+    },
+    {
+      "id": "other-places",
+      "category": "places",
+      "name": "其他景点",
+      "icon": "📍",
+      "description": "温泉、山地观景起点等其他值得停留的城市体验。"
+    },
+    {
+      "id": "gardens",
+      "category": "places",
+      "name": "古典园林",
+      "icon": "🪴",
+      "description": "借景、框景与曲折游线是读懂园林的线索；热门园林的预约、门票与开放时间分别查官方。"
+    },
+    {
+      "id": "temples",
+      "category": "places",
+      "name": "寺庙 / 道观",
+      "icon": "🏯",
+      "description": "从建筑、信仰与地方文化认识寺观，参观时尊重宗教活动及拍摄规定。"
+    },
+    {
+      "id": "language-fun",
+      "category": "facts",
+      "name": "语言趣闻",
+      "icon": "💬",
+      "description": "从有趣的词语、方言、文字和称呼方式认识当地生活；区分通行表达与地区差异。"
+    },
+    {
+      "id": "arrival",
+      "category": "facts",
+      "name": "入境与落地",
+      "icon": "🧳",
+      "description": "出发前和落地后的实用清单：入境、网络、插座、寄存、厕所、饮水、紧急求助及机场进城。政策、营业时间与服务状态请核对官方信息。"
+    }
+  ],
+  "subcategoryAliases": {
+    "wine": "alcohol"
+  },
+  "typeDefaults": {
+    "food": "dishes",
+    "specialty": "crafts",
+    "brand": "consumer-brands",
+    "person": "people",
+    "fact": "facts",
+    "tip": "daily",
+    "place": "other-places"
+  },
+  "pointKinds": {
+    "church": "church",
+    "museum": "museum",
+    "exhibition": "museum",
+    "theatre": "theatre",
+    "university": "university",
+    "landmark": "landmark",
+    "park": "park",
+    "other": "other-places",
+    "airport": "airport",
+    "station": "station",
+    "ferry": "ferry"
+  },
+  "pointGroups": {
+    "transport": "hub",
+    "shopping": "shopping-districts",
+    "supermarkets": "supermarket-locations",
+    "food": "restaurants",
+    "landmarks": "other-places"
+  }
+};

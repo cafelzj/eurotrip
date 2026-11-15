@@ -5,9 +5,16 @@
     "data/flavors.js",
     "data/flavor-map-regions.js",
     "data/flavor-counties.js",
-    "data/flavor-images.js"
+    "data/flavor-images.js",
+    "data/china-categories.js",
+    "data/china-region-catalog.js",
+    "data/china-card-merges.js",
+    "data/china-cards.js"
   ],
   "currentItems": 4255,
+  "canonicalRegistry": "CardStore.nodes",
+  "unifiedChinaCards": 4385,
+  "integrationFile": "research/flavors/integration/china-collection.json",
   "currentSources": "research/flavors/sources.json",
   "workflow": [
     "initial-knowledge-draft",
@@ -35,10 +42,11 @@
   "archiveIndexes": [
     "research/archives/2026-11-14-flavor-program-4000.json",
     "research/archives/2026-11-14-pre-organization.json",
+    "research/archives/2026-11-15-china-collection.json",
     "research/archives/2026-11-15-flavor-county-media.json"
   ],
   "roles": {
-    "current-index-or-audit": 8,
+    "current-index-or-audit": 9,
     "historical-batch": 8,
     "historical-working-draft": 4,
     "image-review-or-backlog": 2,
@@ -52,8 +60,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "current-index-or-audit",
-      "bytes": 2976,
-      "sha256": "156e4cd95e9590e9c2c2fb934308d8ed6c81c772dcb2c29091975a23e6ce8f23"
+      "bytes": 3340,
+      "sha256": "8ce92acc0a2ab4ee09a82ad39062beae4de183dc9e3dc730a441515af6de12ce"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -150,6 +158,12 @@
       "role": "image-review-or-backlog",
       "bytes": 9826,
       "sha256": "224d8c6acd0b1b7eb1ea3941564667da1cdc8afa1c43bbd7b15de694947505ab"
+    },
+    {
+      "path": "research/flavors/integration/china-collection.json",
+      "role": "current-index-or-audit",
+      "bytes": 7552,
+      "sha256": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f"
     },
     {
       "path": "research/flavors/program-4000/README.md",

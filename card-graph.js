@@ -2,7 +2,7 @@
 window.CardGraph=(()=>{
  const {nodes,edges,types,linkLive,saveLive}=CardStore;
  const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
- const url=id=>'#card/'+encodeURIComponent(id);
+ const url=id=>'#card/'+encodeURIComponent(CardStore.resolveId(id));
  const link=(id,label,cls='card-link')=>nodes.has(id)?`<a class="${cls}" href="${url(id)}">${h(label||nodes.get(id).name)} <span>↗</span></a>`:'';
  let recent=[];try{recent=JSON.parse(sessionStorage.getItem('eurotrip-card-trail')||'[]').filter(id=>typeof id==='string');}catch{}
  function sourceLinks(n){return (n.sources||[]).filter(([u])=>/^https?:\/\//i.test(u)).map(([u,label])=>`<a href="${h(u)}" target="_blank" rel="noopener noreferrer">${h(label)} ↗</a>`).join('');}
@@ -14,7 +14,7 @@ window.CardGraph=(()=>{
   const countries=CardStore.countryIds(n).map(id=>travelCountries.find(c=>c.id===id)).filter(Boolean),cities=CardStore.cityIds(n).map(id=>travelCities.find(c=>c.id===id)).filter(Boolean);
   return `<div class="entity-ownership"><div><span>所属国家</span>${countries.map(c=>`<a href="${KnowledgeHub.guideUrl(c)}">${c.flag} ${h(c.name)}</a>`).join('')}</div>${cities.length?`<div><span>关联城市</span>${cities.map(c=>`<a href="${KnowledgeHub.guideUrl(travelCountries.find(n=>n.id===c.country),c)}">${h(c.name)}</a>`).join('')}</div>`:''}</div>`;
  }
- function renderDetail(id){const n=nodes.get(id);if(!n)return `<section class="entity-missing"><h1>这张卡片暂未收录</h1><p>该卡片已合并到目的地卡片，或不在当前收录范围。动态地点可回到地图重新搜索。</p><a href="#guide/hu">回到欧洲国家 →</a></section>`;
+ function renderDetail(id){id=CardStore.resolveId(id);const n=nodes.get(id);if(!n)return `<section class="entity-missing"><h1>这张卡片暂未收录</h1><p>该卡片已合并到目的地卡片，或不在当前收录范围。动态地点可回到地图重新搜索。</p><a href="#guide/hu">回到欧洲国家 →</a></section>`;
   if(n.live)linkLive(n);
   const trail=recent.filter(x=>x!==id&&nodes.has(x)).slice(-6).reverse();recent=[...recent.filter(x=>x!==id),id].slice(-12);try{sessionStorage.setItem('eurotrip-card-trail',JSON.stringify(recent));if(n.live)saveLive(n);}catch{}
   const related=edges.get(id)||[],groups=Object.keys(types).map(type=>[type,related.filter(e=>nodes.get(e.to)?.type===type)]).filter(([,es])=>es.length);

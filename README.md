@@ -27,7 +27,7 @@ python3 -m http.server 3014 --bind 0.0.0.0
 
 塞尔维亚收录贝尔格莱德、诺维萨德、尼什三座城市，新增73张卡片，沿用五类主题与单点 / 动态搜索 / 无坐标规则。共同出现的Lidl与dm复用原品牌卡片，城市关联不代表起源或总部；本地零食、食品及品牌与购物、人物、场所建立双向链接。票务、入境、住宿登记与运行安排提供官方查询入口，页面不保证票价、签证政策或门店库存实时有效。塞尔维亚参考轮廓沿用Natural Earth 1:110m数据，仅用于浏览。
 
-欧洲国家菜单和中国城市菜单末尾分别提供「卡片管理」（`#card-manager`、`#card-manager/china`）。两个管理表分别查看对应范围的静态卡片，国家与城市筛选、搜索、分页、CSV 导出及筛选记忆互相独立；每张卡片在同一管理表只出现一行，多归属卡片按明确归属进入相应范围；支持国家、城市、一级分类、二级分类组合筛选，按名称、副标题 / 当地名称、归属、分类、简介、完整详情与来源全文搜索，多个关键词可跨字段匹配。支持分页、URL恢复筛选、展开原文和来源、返回详情、地图入口及导出全部筛选结果CSV；动态搜索产生的临时门店不混入静态管理表。
+欧洲国家菜单和中国城市菜单末尾分别提供「卡片管理」（`#card-manager`、`#card-manager/china`）。中国入口现有4385张统一卡片，包含全部4255项风物；12组同名条目合并，旧链接与补充资料保留。中国与欧洲采用独立分类：中国“美食与特产”包含全部9类风物二级分类，一级、二级均用分类卡片选择。中国入口复用风物的省市县清单及地图，提供瀑布流、分类浏览、表格三种模式；欧洲保留原管理表。搜索、CSV、来源、资料状态与URL恢复继续支持，两边的筛选记忆独立。详见 [统一中国卡片说明](docs/china-collection.md)。
 
 「景点与建筑」新增「世界遗产」二级分类，独立数据文件收录14个UNESCO正式列名条目及官方入口。历史城区和跨国区域的范围分别说明，图钉仅为单个参考锚点；未明确属于已收录城市的遗产保持国家归属，不按邻近关系分配城市。费尔特湖／新锡德尔湖文化景观使用同一张卡片关联匈牙利、奥地利。
 
@@ -229,7 +229,7 @@ PYTHONPATH=/tmp/eurotrip-research-py python3 scripts/build-produce-countries.py 
 - `plan.js`、`plan.css`：方案、实现清单、路线图与产品对标。
 - `guide.js`：欧洲国家、中国城市、物产、方案与地图页面路由，共用目的地布局。
 - `floating-map.js`、`poi.js`：随身地图、三层图层树和动态门店搜索；`map-pins.css` 统一两种地图的标记、编号与聚合样式。
-- `card-manager.js`、`card-manager.css`：管理表、归属与内容搜索、筛选、分页、CSV和详情返回。
+- `card-manager.js`、`china-card-manager.js`：欧洲管理表与中国三模式卡片管理；`card-store.js`、`china-collection.js` 提供统一注册库，`card-taxonomy.js` 分离中欧分类。
 - `app.js`：可配置语言的词典搜索、收藏、详情与设备朗读。
 - 对应 CSS 负责布局和分类配色；`vendor/` 保留 Leaflet 1.9.4（BSD-2-Clause）、MarkerCluster 1.5.3（MIT）及许可证。
 
@@ -252,6 +252,7 @@ SITE_URL=http://127.0.0.1:3014 node tests/card-feed.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/plan.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/card-manager-regions.cjs
+SITE_URL=http://127.0.0.1:3014 node tests/china-collection.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/dictionary-languages.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/serbia.cjs
 SITE_URL=http://127.0.0.1:3014 node tests/slovenia-poland.cjs

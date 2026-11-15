@@ -1,6 +1,8 @@
 /* A local, sourced provincial food catalog. No external map or search requests. */
 window.FlavorPage=(()=>{
- const data=window.flavorCatalog;
+ let regionRecords=null,regionUrl=null;
+ const data={...window.flavorCatalog,get items(){return regionRecords||(window.ChinaCollection?ChinaCollection.flavors():window.flavorCatalog.items);}};
+ const flavorType=item=>item.flavorType||item.type,foodCity=item=>item.cityName||item.city,sourceIds=item=>item.sourceIds||item.sources;
  const h=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const provinces=new Map(data.provinces.map(p=>[p.id,p]));
  const types=new Map(data.categories.map(c=>[c.id,c]));
@@ -8,14 +10,14 @@ window.FlavorPage=(()=>{
  const counties=window.flavorCounties||{cities:{},itemCounties:{}};
  const countyCodes=new Map(Object.values(counties.cities).flatMap(city=>city.regions.map(county=>[String(county.adcode),{...county,city:city.city,province:city.province}])));
  let countyRequest=null;
- const assigned=item=>counties.itemCounties[item.id]||[];
+ const assigned=item=>item.countyCodes||counties.itemCounties[item.id]||[];
  const inDistrict=(item,name)=>item.district===name||item.districts?.includes(name)||assigned(item).some(code=>countyCodes.get(String(code))?.name===name);
  const countyCity=state=>Object.values(counties.cities).find(city=>city.province===state.province&&city.city===state.city);
  const countyMatches=(item,code)=>code==='all'||(code==='unspecified'?!assigned(item).length:assigned(item).includes(Number(code)));
- function locationLabel(item){const direct=Object.values(counties.cities).find(city=>city.province===item.province&&city.city===item.city&&!city.regions.length);if(direct)return provinces.get(item.province).name+' · '+item.city+'（县级）';const names=assigned(item).map(code=>countyCodes.get(String(code))?.name).filter(Boolean);return [provinces.get(item.province).name,...(item.city===provinces.get(item.province).name?[]:[item.city]),names.length>2?names.length+'个县区':names.join('、')||'县区待明确'].join(' · ');}
+ function locationLabel(item){const direct=Object.values(counties.cities).find(city=>city.province===item.province&&city.city===foodCity(item)&&!city.regions.length);if(direct)return provinces.get(item.province).name+' · '+foodCity(item)+'（县级）';const names=assigned(item).map(code=>countyCodes.get(String(code))?.name).filter(Boolean);return [provinces.get(item.province).name,...(foodCity(item)===provinces.get(item.province).name?[]:[foodCity(item)]),names.length>2?names.length+'个县区':names.join('、')||'县区待明确'].join(' · ');}
  let active=null,mapRequest=null;const provinceMarkup=new Map();
  const scope=state=>data.items.filter(item=>state.province==='all'||item.province===state.province);
- const cities=state=>[...new Set(scope(state).map(item=>item.city))].sort((a,b)=>a.localeCompare(b,'zh-CN'));
+ const cities=state=>[...new Set(scope(state).map(item=>foodCity(item)))].sort((a,b)=>a.localeCompare(b,'zh-CN'));
  const districtMode=state=>regions[state.province]?.level==='district';
  const hasIngredientFilter=state=>['dishes','staples','ingredients'].includes(state.type);
  const cityOptions=state=>regions[state.province]?.regions.map(r=>r.name)||cities(state);
@@ -30,6 +32,7 @@ window.FlavorPage=(()=>{
   return state;
  }
  function url(state){
+  if(regionUrl)return regionUrl(state);
   const params=new URLSearchParams();
   for(const key of ['type','city','district','county','protein','review'])if(state[key]&&state[key]!=='all')params.set(key,state[key]);
   if(state.q.trim())params.set('q',state.q.trim());
@@ -37,11 +40,11 @@ window.FlavorPage=(()=>{
  }
  function matches(item,state,ignoreType=false){
   const q=state.q.trim().toLocaleLowerCase();
-  return (state.review==='all'||(item.verificationStatus==='pending'?'pending':'sourced')===state.review)&&(state.city==='all'||item.city===state.city)&&(state.district==='all'||inDistrict(item,state.district))&&countyMatches(item,state.county||'all')&&(ignoreType||state.type==='all'||item.type===state.type)&&(ignoreType||state.protein==='all'||item.proteins?.includes(state.protein))&&(!q||[item.name,item.city,item.district,item.locality,provinces.get(item.province).name,item.description,item.detail,item.kind,item.brand,item.company,item.verificationNote,...(item.aliases||[]),...(item.productTypes||[]),...(item.proteins||[])].join(' ').toLocaleLowerCase().includes(q));
+  return (state.review==='all'||(item.verificationStatus==='pending'?'pending':'sourced')===state.review)&&(state.city==='all'||foodCity(item)===state.city)&&(state.district==='all'||inDistrict(item,state.district))&&countyMatches(item,state.county||'all')&&(ignoreType||state.type==='all'||flavorType(item)===state.type)&&(ignoreType||state.protein==='all'||item.proteins?.includes(state.protein))&&(!q||[item.name,foodCity(item),item.district,item.locality,provinces.get(item.province).name,item.description,item.detail,item.kind,item.brand,item.company,item.verificationNote,...(item.aliases||[]),...(item.productTypes||[]),...(item.proteins||[])].join(' ').toLocaleLowerCase().includes(q));
  }
  function card(item){
-  const type=types.get(item.type),province=provinces.get(item.province);
-  return `<article class="flavor-card ui-card" data-flavor-id="${h(item.id)}" style="--flavor-accent:${type.color}"><div class="flavor-card-header ui-card-header"><h3 class="ui-card-heading ui-card-title">${h(item.name)}</h3><div class="ui-card-meta"><span>${h(type.name)}</span><small>${h(locationLabel(item))}</small></div></div><div class="flavor-card-tags"><span>${h(item.kind)}</span>${item.locality?`<span class="flavor-locality">${h(item.locality)}</span>`:''}${(item.proteins||[]).map(p=>`<span>${h(p)}</span>`).join('')}</div>${window.CardImages?.inline?.(item)||''}${item.verificationStatus==='pending'?`<p class="flavor-verification-note"><strong>待核实</strong> · ${h(item.verificationNote)}</p>`:''}<p>${h(item.description)}</p><details><summary>${item.type==='crafts'?'特色与来源':'风味与来源'}</summary><div class="flavor-card-reading">${item.detail.split(/\n\s*\n/).filter(Boolean).map(paragraph=>`<p>${h(paragraph)}</p>`).join('')}${item.originNote?`<p class="flavor-origin-note">${h(item.originNote)}</p>`:''}<div class="flavor-sources"><span>${item.verificationStatus==='pending'&&!item.sources.length?(item.leadOrigin==='web-search'?'来源：网络检索线索，尚未完成正文核实':'来源：用户提供线索，尚未独立核实'):'资料来源'}</span>${item.sources.map(id=>{const s=data.sources[id];return `<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`;}).join('')}${(item.candidateSources||[]).map(s=>`<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`).join('')}</div></div></details></article>`;
+  const type=types.get(flavorType(item)),province=provinces.get(item.province);
+  return `<article class="flavor-card ui-card" data-flavor-id="${h(item.id)}" data-knowledge-card="${h(item.id)}" style="--flavor-accent:${type.color}"><div class="flavor-card-header ui-card-header"><h3 class="ui-card-heading ui-card-title">${h(item.name)}</h3><div class="ui-card-meta"><span>${h(type.name)}</span><small>${h(locationLabel(item))}</small></div></div><div class="flavor-card-tags"><span>${h(item.kind)}</span>${item.locality?`<span class="flavor-locality">${h(item.locality)}</span>`:''}${(item.proteins||[]).map(p=>`<span>${h(p)}</span>`).join('')}</div>${window.CardImages?.inline?.(item)||''}${item.verificationStatus==='pending'?`<p class="flavor-verification-note"><strong>待核实</strong> · ${h(item.verificationNote)}</p>`:''}<p>${h(item.description)}</p><details><summary>${flavorType(item)==='crafts'?'特色与来源':'风味与来源'}</summary><div class="flavor-card-reading">${item.detail.split(/\n\s*\n/).filter(Boolean).map(paragraph=>`<p>${h(paragraph)}</p>`).join('')}${item.originNote?`<p class="flavor-origin-note">${h(item.originNote)}</p>`:''}${item.legacyRecords?.length?`<details class="flavor-legacy-reading"><summary>原城市卡片补充资料</summary>${item.legacyRecords.map(old=>`<h4>${h(old.name)}</h4><p>${h(old.description)}</p>${(old.reading?.length?old.reading:[{title:old.name,text:[old.description,old.note,old.details].filter(Boolean).join('\n\n')}]).map(section=>`<h4>${h(section.title)}</h4><p>${h(section.text).replace(/\n/g,'<br>')}</p>`).join('')}<div class="manager-source-links">${old.sources.map(([url,title])=>`<a href="${h(url)}" target="_blank" rel="noopener noreferrer">${h(title)} ↗</a>`).join('')}</div>`).join('')}</details>`:''}<div class="flavor-sources"><span>${item.verificationStatus==='pending'&&!sourceIds(item).length?(item.leadOrigin==='web-search'?'来源：网络检索线索，尚未完成正文核实':'来源：用户提供线索，尚未独立核实'):'资料来源'}</span>${sourceIds(item).map(id=>{const s=data.sources[id];return `<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`;}).join('')}${(item.candidateSources||[]).map(s=>`<a href="${h(s.url)}" target="_blank" rel="noopener noreferrer">${h(s.name)} ↗</a>`).join('')}</div></div></details></article>`;
  }
  function atlas(state,p){
   const district=districtMode(state),unit=district?'区':'城市';
@@ -49,13 +52,14 @@ window.FlavorPage=(()=>{
   return `<section class="flavor-atlas" aria-label="按省份和城市选择风物"><div class="flavor-provinces"><h2>省份清单</h2><nav aria-label="选择风物省市">${[{id:'all',name:'全部已收录省市'},...data.provinces].map(region=>{const count=data.items.filter(i=>region.id==='all'||i.province===region.id).length;return `<a class="ui-choice" href="${h(url({...state,province:region.id,city:'all',district:'all',county:'all'}))}" ${state.province===region.id?'aria-current="page"':''}>${h(region.name)}<small>${count}</small></a>`;}).join('')}</nav></div><div class="flavor-location-pickers">${picker}${p&&!district?'<section id="flavorCountyPicker" class="flavor-county-picker" aria-label="选择县区"></section>':''}</div><div class="flavor-province-intro"><h2>${h(p?.name||'各地风物')}</h2><p>${h(p?.summary||'从上方清单选择省市，再通过城市清单或省内地图筛选。')}</p></div></section>`;
  }
  function render(province,params=new URLSearchParams()){
+  regionRecords=null;regionUrl=null;
   active=parse(province,params);const state=active,p=provinces.get(state.province);
   return `<section class="flavor-page" aria-labelledby="flavorTitle"><header class="flavor-heading"><div><h1 id="flavorTitle">风物食单</h1><p>从地方美食到物产手作，沿着地图认识一方水土。</p></div><span>${data.provinces.length} 省市 · ${data.items.length} 项风物 · ${data.items.filter(i=>i.verificationStatus==='pending').length} 项待核实</span></header>${atlas(state,p)}<section class="flavor-browser" aria-label="查找地方风物"><div class="flavor-categories ui-tabs" role="group" aria-label="风物类别">${[{id:'all',name:'全部',color:'#285744'},...data.categories].map(c=>`<button type="button" data-flavor-type="${c.id}" aria-pressed="${state.type===c.id}">${h(c.name)} <small></small></button>`).join('')}</div><p id="flavorTypeNote" class="flavor-type-note" hidden>面条、包饺、饼馍，以及用米粉、杂粮、淀粉成形的地方主食和点心。</p><div class="flavor-filter-row"><label class="flavor-search ui-search"><span aria-hidden="true">⌕</span><input id="flavorSearch" type="search" maxlength="160" value="${h(state.q)}" aria-label="搜索风物名称、品牌或城市" placeholder="搜索名称、品牌、城市或食材…"></label><label class="flavor-review">资料状态<select class="ui-select" id="flavorReview"><option value="all">全部资料</option><option value="sourced" ${state.review==='sourced'?'selected':''}>有来源资料</option><option value="pending" ${state.review==='pending'?'selected':''}>待核实线索</option></select></label><button class="ui-button" type="button" data-flavor-reset>重置筛选</button></div><fieldset class="flavor-proteins" ${hasIngredientFilter(state)?'':'hidden'}><legend>按主要食材</legend>${['all',...data.proteins].map(p=>`<label><input type="radio" name="flavorProtein" value="${h(p)}" ${state.protein===p?'checked':''}>${p==='all'?'全部食材':h(p)}</label>`).join('')}</fieldset><div class="flavor-results-heading"><h2>${h(p?.name||'已收录地区')} · 地方食单</h2><span id="flavorResultCount" role="status" aria-live="polite"></span></div><div id="flavorResults" class="flavor-grid"></div><div class="flavor-load"><button type="button" id="flavorMore" hidden>再看 24 项</button></div></section><p class="flavor-editorial-note">资料整理：${h(data.reviewed)} · 待核实条目仅为线索；其名称、分类与归属可能需要修正。每项可展开查看说明与来源。饮料和乳制品分列，代用茶单独注明；菜名相同也可能有地方做法之别。</p></section>`;
  }
  function draw(root){
   if(!active)return;
   const list=scope(active),found=list.filter(item=>matches(item,active)),counts=list.filter(item=>matches(item,active,true));
-  const pending=active.type!=='all'&&!list.some(item=>item.type===active.type);
+  const pending=active.type!=='all'&&!list.some(item=>flavorType(item)===active.type);
   root.querySelector('#flavorResults').innerHTML=found.length?found.slice(0,active.limit).map(card).join(''):`<div class="flavor-empty"><p>${pending?'本省市这一品类的资料还在核对，暂未收录。':'没有符合筛选条件的条目。'}</p><button class="ui-button" type="button" data-flavor-reset>清除筛选，查看地方食单</button></div>`;
   root.querySelector('#flavorResultCount').textContent=`${found.length} 项${found.length>active.limit?' · 已显示 '+active.limit+' 项':''}`;
   root.querySelector('#flavorMore').hidden=found.length<=active.limit;
@@ -64,7 +68,7 @@ window.FlavorPage=(()=>{
   root.querySelectorAll('[data-flavor-type]').forEach(button=>{
    button.setAttribute('aria-pressed',String(button.dataset.flavorType===active.type));
    const type=button.dataset.flavorType;
-   button.querySelector('small').textContent=type!=='all'&&!list.some(i=>i.type===type)?'待补充':counts.filter(i=>type==='all'||i.type===type).length;
+   button.querySelector('small').textContent=type!=='all'&&!list.some(i=>flavorType(i)===type)?'待补充':counts.filter(i=>type==='all'||flavorType(i)===type).length;
   });
   root.querySelectorAll('[name="flavorProtein"]').forEach(radio=>radio.checked=radio.value===active.protein);
   syncProvinceMap(root);syncCountyPicker(root);
@@ -77,14 +81,14 @@ window.FlavorPage=(()=>{
   const host=root.querySelector('#flavorProvinceMap');if(!active||!host)return;
   const province=host.dataset.province,district=regions[province]?.level==='district';
   const list=data.items.filter(i=>i.province===province&&matches(i,{...active,city:'all',district:'all',county:'all'}));
-  const unmapped=list.filter(i=>district?(!i.district&&!i.districts?.length&&!assigned(i).length):i.city==='全省').length;
+  const unmapped=list.filter(i=>district?(!i.district&&!i.districts?.length&&!assigned(i).length):foodCity(i)==='全省').length;
   root.querySelector('#flavorMapScope').textContent=unmapped?' 另有 '+unmapped+' 项按'+(district?'全市':'全省')+'收录，未指定'+(district?'区':'城市')+'。':'';
   root.querySelectorAll('[data-flavor-city]').forEach(a=>{
-   const city=a.dataset.flavorCity,current=(district?active.district:active.city)===city,count=city==='all'?list.length:list.filter(i=>district?inDistrict(i,city):i.city===city).length;
+   const city=a.dataset.flavorCity,current=(district?active.district:active.city)===city,count=city==='all'?list.length:list.filter(i=>district?inDistrict(i,city):foodCity(i)===city).length;
    a.setAttribute('href',url({...active,city:district?'all':city,district:district?city:'all',county:'all'}));if(current)a.setAttribute('aria-current','true');else a.removeAttribute('aria-current');a.querySelector('small').textContent=count;
   });
   host.querySelectorAll('[data-flavor-region]').forEach(a=>{
-   const region=a.dataset.flavorRegion,count=list.filter(i=>district?inDistrict(i,region):i.city===region).length;
+   const region=a.dataset.flavorRegion,count=list.filter(i=>district?inDistrict(i,region):foodCity(i)===region).length;
    const labelLink=host.querySelector('[data-flavor-label="'+CSS.escape(region)+'"]'),current=province===active.province&&(district?active.district:active.city)===region;
    for(const link of [a,labelLink]){
     link.setAttribute('href',url({...active,province,city:district?'all':region,district:district?region:'all',county:'all'}));
@@ -144,6 +148,12 @@ window.FlavorPage=(()=>{
    if(event.target.closest('#flavorMore')){active.limit+=24;draw(root);}
   };
  }
- function dispose(){countyRequest?.abort();countyRequest=null;mapRequest?.abort();mapRequest=null;active=null;}
- return {render,bind,dispose};
+ function dispose(){regionRecords=null;regionUrl=null;countyRequest?.abort();countyRequest=null;mapRequest?.abort();mapRequest=null;active=null;}
+ function regionPicker(root,state,items,href){
+  mapRequest?.abort();countyRequest?.abort();regionRecords=items;regionUrl=href;
+  active={...state,type:'all',protein:'all',review:'all',q:''};
+  root.innerHTML=atlas(active,provinces.get(active.province));syncProvinceMap(root);syncCountyPicker(root);loadMap(root);
+  return {destroy:dispose};
+ }
+ return {render,bind,dispose,card,regionPicker,records:()=>window.ChinaCollection?ChinaCollection.flavors():data.items};
 })();

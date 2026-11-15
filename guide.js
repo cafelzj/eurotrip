@@ -16,7 +16,7 @@
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
  function destinationHeader(country,city){
   const n=city||country,chinese=H.isChina(country);
-  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':'欧洲国家 · '+h(country.name)}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${chinese?'':'destination-intro-merged '}${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}<small>${h(n.local)}</small></h1><p>${h(n.intro)}</p><div class="destination-header-actions">${link(n.tourism,'官方旅行指南')}${chinese?'':`<a class="destination-overview ${city?'':'active'}" href="${H.guideUrl(country)}" ${city?'':'aria-current="page"'}>国家概览${city?' →':' · 当前'}</a><span>选择下方城市，查看本城关联内容</span>`}</div></div></div>`;
+  return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':'欧洲国家 · '+h(country.name)}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${chinese?'':'destination-intro-merged '}${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}${n.local!==n.name?`<small>${h(n.local)}</small>`:''}</h1><p>${h(n.intro)}</p><div class="destination-header-actions">${n.tourism?link(n.tourism,'官方旅行指南'):''}${chinese?'':`<a class="destination-overview ${city?'':'active'}" href="${H.guideUrl(country)}" ${city?'':'aria-current="page"'}>国家概览${city?' →':' · 当前'}</a><span>选择下方城市，查看本城关联内容</span>`}</div></div></div>`;
  }
  function destinationPage(country,city,zone){const header=destinationHeader(country,city);guide.innerHTML=(H.isChina(country)?header:header.slice(0,header.indexOf('<div class="destination-hero')))+H.cityPicker(country,city)+H.render(country,city,zone);H.bind(guide);}
  function switchDestination(country,city,zone){
@@ -54,7 +54,7 @@
   requestAnimationFrame(()=>map?.invalidateSize());
  }
  function renderRoute(){
-  H.dispose();FlavorPage.dispose();disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
+  H.dispose();FlavorPage.dispose();CardManager.dispose?.();disposeMap();guide.classList.remove('map-focused');const [path,query='']=location.hash.slice(1).split('?'),parts=path.split('/'),params=new URLSearchParams(query);
   if(parts[0]==='words'){setMode('words');guide.replaceChildren();return;}
   if(parts[0]==='plan'){setMode('plan');guide.innerHTML=PlanPage.render(params);PlanPage.bind(guide,params);return;}
   if(parts[0]==='flavors'){setMode('flavors');guide.innerHTML=FlavorPage.render(parts[1],params);FlavorPage.bind(guide);return;}
@@ -67,7 +67,7 @@
   if(parts[0]==='cards'){navigate('#guide/'+H.lastCountry());return;}
   if(parts[0]==='card'){
    let id;try{id=decodeURIComponent(parts.slice(1).join('/'));}catch{id='';}
-   const n=CardGraph.nodes.get(id),destination=n?H.destinationFor(n):null;setMode(H.isChina(destination?.country)?'china':'europe');guide.innerHTML=CardGraph.renderDetail(id);return;
+   const canonical=CardStore.resolveId(id);if(canonical!==id){id=canonical;history.replaceState(null,'','#card/'+encodeURIComponent(id)+(query?'?'+query:''));}const n=CardGraph.nodes.get(id),destination=n?H.destinationFor(n):null;setMode(H.isChina(destination?.country)?'china':'europe');guide.innerHTML=CardGraph.renderDetail(id);return;
   }
   if(parts[0]==='china'){
    const city=ChinaRegions.resolve(parts.slice(1));if(!city){navigate(ChinaRegions.url(ChinaRegions.get(lastChina)));return;}
@@ -100,7 +100,7 @@
   const managerOption=region=>{const active=region==='china'?managingChina:managingEurope;return `<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager="${region}" ${active?'aria-current="page"':''}><span>▦</span><span><b>卡片管理</b><small>表格 · 搜索与筛选</small></span><i>${active?'✓':'↗'}</i></button>`;};
   countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managingEurope&&c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${!managingEurope&&c.id===selected.id?'✓':''}</i></button>`).join('')+managerOption('europe');
   const selectedRoot=ChinaRegions.parent(currentChina)||currentChina;
-  chinaMenu.innerHTML=ChinaRegions.provinces.map(province=>`<div class="china-province-label" role="presentation">${h(province.name)}</div>`+ChinaRegions.prefectures(province.id).map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managingChina&&c.id===selectedRoot.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.adminName)}</b><small>${h(c.local)} · 地级市</small></span><i>${!managingChina&&c.id===selectedRoot.id?'✓':''}</i></button>`).join('')).join('')+managerOption('china');
+  chinaMenu.innerHTML=ChinaRegions.provinces.map(province=>`<div class="china-province-label" role="presentation">${h(province.name)}</div>`+ChinaRegions.prefectures(province.id).map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managingChina&&c.id===selectedRoot.id}" data-nav-city="${c.id}"><span>🏯</span><span><b>${h(c.adminName)}</b><small>${h(c.local)} · ${c.level==='municipality'?'直辖市':c.level==='county-city'?'县级城市':'城市 / 地区'}</small></span><i>${!managingChina&&c.id===selectedRoot.id?'✓':''}</i></button>`).join('')).join('')+managerOption('china');
  }
  const menus=[[countryButton,countryMenu,'data-nav-country',id=>'#guide/'+id],[chinaButton,chinaMenu,'data-nav-city',id=>ChinaRegions.url(ChinaRegions.get(id))]];
  function closeMenus(focusButton){for(const [button,menu]of menus){menu.hidden=true;button.setAttribute('aria-expanded','false');}focusButton?.focus();}

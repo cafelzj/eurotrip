@@ -4,8 +4,9 @@ window.KnowledgeHub=(()=>{
  const norm=G.normalize;
  const isChina=country=>country?.section==='china';
  const sectionName=country=>isChina(country)?'中国城市':'欧洲国家';
- const guideUrl=(country,city)=>isChina(country)?ChinaRegions.url(city||ChinaRegions.prefectures()[0]):'#guide/'+country.id+(city?'/'+city.id:'');
- const topics=cardCategories.primary.map(t=>[t.id,t.icon,t.name,t.description]);
+ const guideUrl=(country,city)=>isChina(country)?(city?ChinaRegions.url(city):'#card-manager/china'):'#guide/'+country.id+(city?'/'+city.id:'');
+ const taxonomy=country=>window.CardTaxonomy?.forRegion(country)||cardCategories;
+ const topicsFor=country=>taxonomy(country).primary.map(t=>[t.id,t.icon,t.name,t.description]);
  const subcategories=new Map(cardCategories.secondary.map(s=>[s.id,s])),subcategoriesByName=new Map(cardCategories.secondary.map(s=>[s.name,s]));
  const countryIds=G.countryIds,cityIds=G.cityIds;
  function category(n){return n.category;}
@@ -14,7 +15,7 @@ window.KnowledgeHub=(()=>{
  function destinationFor(n){
   const fallback=active?.country||travelCountries.find(c=>c.id===last()),ids=countryIds(n),owners=cityIds(n);
   const ownCity=travelCities.find(c=>c.id===n.city),sharedCity=active?.city&&owners.includes(active.city.id)?active.city:null;
-  const city=(n.point&&ownCity)||sharedCity||(owners.length===1?travelCities.find(c=>c.id===owners[0]):null);
+  const city=(n.point&&ownCity)||sharedCity||(n.flavorId&&ownCity)||(owners.length===1?travelCities.find(c=>c.id===owners[0]):null);
   const country=travelCountries.find(c=>c.id===(city?.country||(ids.includes(fallback.id)?fallback.id:ids[0]||fallback.id)));
   return {country,city};
  }
@@ -23,10 +24,10 @@ window.KnowledgeHub=(()=>{
  function nationalReference(n){return n.type==='tip'||n.subcategory==='living-costs';}
  function scoped(country,city){return [...G.nodes.values()].filter(n=>!n.collectionHidden&&category(n)&&(city?cityIds(n).some(id=>isChina(country)?ChinaRegions.contains(city,id):id===city.id)||nationalReference(n)&&!cityIds(n).length&&(countryIds(n).includes(country.id)):countryIds(n).includes(country.id)));}
  function finalize(){const reachable=new Set(travelCountries.flatMap(c=>scoped(c,null).map(n=>n.id)));G.prune(n=>reachable.has(n.id));for(const n of G.nodes.values())if(n.live)G.linkLive(n);}
- function subtype(n){return subcategories.get(n.subcategory)?.name||'其他地点';}
- function subtypeDescription(name){return subcategoriesByName.get(name)?.description||'';}
- function iconForSub(name){return subcategoriesByName.get(name)?.icon||'📍';}
- function iconForNode(n){return subcategories.get(n?.subcategory)?.icon||'📍';}
+ function subtype(n){return (window.CardTaxonomy?.secondary(n)||subcategories.get(n.subcategory))?.name||'其他地点';}
+ function subtypeDescription(name){return taxonomy(active?.country).secondary.find(s=>s.name===name)?.description||'';}
+ function iconForSub(name){return taxonomy(active?.country).secondary.find(s=>s.name===name)?.icon||'📍';}
+ function iconForNode(n){return (window.CardTaxonomy?.secondary(n)||subcategories.get(n?.subcategory))?.icon||'📍';}
  let active,feedController,preferredView='groups',lastCountry='hu';
  try{lastCountry=sessionStorage.getItem('eurotrip-country')||'hu';}catch{}
  try{if(localStorage.getItem('eurotrip-card-view')==='waterfall')preferredView='waterfall';}catch{}
@@ -44,6 +45,7 @@ window.KnowledgeHub=(()=>{
  }
 
  function render(country,city,zone){
+ const topics=topicsFor(country);
  if(location.hash.startsWith('#map/'))return '';
  const params=new URLSearchParams(location.hash.split('?')[1]||'');
  let kind=cardCategories.subcategoryAliases[params.get('kind')]||params.get('kind')||'all';
@@ -67,7 +69,7 @@ window.KnowledgeHub=(()=>{
   else if(right>tabs.scrollLeft+tabs.clientWidth)tabs.scrollLeft=right-tabs.clientWidth;
  }
  window.addEventListener('resize',()=>alignTopicStrip(document));
- function draw(root){const all=scoped(active.country,active.city),query=norm(active.q.trim());const searched=all.filter(n=>!query||G.searchText(n).includes(query));const inTopic=searched.filter(n=>active.zone==='all'||category(n)===active.zone);const kinds=[...new Set(inTopic.map(subtype))];if(!kinds.includes(active.kind))active.kind='all';const select=root.querySelector('#hubKind');select.innerHTML='<option value="all">全部二级分类</option>'+kinds.map(k=>`<option value="${h(k)}">${h(k)}</option>`).join('');select.value=active.kind;
+ function draw(root){const topics=topicsFor(active.country);const all=scoped(active.country,active.city),query=norm(active.q.trim());const searched=all.filter(n=>!query||G.searchText(n).includes(query));const inTopic=searched.filter(n=>active.zone==='all'||category(n)===active.zone);const kinds=[...new Set(inTopic.map(subtype))];if(!kinds.includes(active.kind))active.kind='all';const select=root.querySelector('#hubKind');select.innerHTML='<option value="all">全部二级分类</option>'+kinds.map(k=>`<option value="${h(k)}">${h(k)}</option>`).join('');select.value=active.kind;
  const filtered=inTopic.filter(n=>active.kind==='all'||subtype(n)===active.kind);root.querySelector('#hubCount').textContent=filtered.length+' 张关联卡片';root.querySelectorAll('[data-hub-topic]').forEach(b=>{const selected=b.dataset.hubTopic===active.zone;b.classList.toggle('active',selected);b.setAttribute('aria-pressed',selected);const count=b.querySelector('small');if(count)count.textContent=b.dataset.hubTopic==='all'?searched.length:searched.filter(n=>category(n)===b.dataset.hubTopic).length;});
  alignTopicStrip(root);
  dispose();
@@ -115,5 +117,5 @@ window.KnowledgeHub=(()=>{
   };
  }
  function reveal(id){if(!active)return false;const n=G.nodes.get(id);if(!n||!scoped(active.country,active.city).some(x=>x.id===id))return false;active.zone=category(n);active.q='';active.kind='all';const key=active.zone+'|'+subtype(n),peers=scoped(active.country,active.city).filter(x=>category(x)===active.zone&&subtype(x)===subtype(n));active.openGroups[key]=true;active.limits[key]=Math.max(3,peers.findIndex(x=>x.id===id)+1);if(active.view==='waterfall')active.at=id;const root=document.querySelector('#travelGuide');root.querySelector('#hubSearch').value='';draw(root);const el=feedController?.reveal(id)||root.querySelector('[data-knowledge-card="'+CSS.escape(id)+'"]');el?.scrollIntoView({block:'center',behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});el?.classList.add('map-card-highlight');return !!el;}
- return {render,bind,dispose,cityPicker,countryIds,cityIds,isChina,sectionName,guideUrl,lastCountry:last,returnUrl,scoped,category,subtype,mappedPoints,mapBinding,mapUrl,destinationFor,rememberDestination,finalize,topics,iconForSub,iconForNode,mapContext:()=>active,reveal};
+ return {render,bind,dispose,cityPicker,countryIds,cityIds,isChina,sectionName,guideUrl,lastCountry:last,returnUrl,scoped,category,subtype,mappedPoints,mapBinding,mapUrl,destinationFor,rememberDestination,finalize,get topics(){return topicsFor(active?.country);},iconForSub,iconForNode,mapContext:()=>active,reveal};
 })();

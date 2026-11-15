@@ -15,3 +15,5 @@ python scripts/archive-research.py --batch YYYY-MM-DD-topic --source /path/to/so
 [4000项风物研究归档清单](2026-11-14-flavor-program-4000.json) 记录4370个保留文件，包含3346次查询的837批响应、公告PDF及提取文本、正文读取与失败记录、候选和批次脚本。归档包已逐成员核对，原件继续保留；存储层次同上。
 
 [县图与配图归档清单](2026-11-15-flavor-county-media.json) 记录183个文件，包含167份市辖县区边界原件，以及照片原图、搜索响应、元数据、下载失败与工作脚本。采用、备选、否决和未配图队列统一从 [风物研究总入口](../flavors/README.md) 查找。
+
+[中国卡片统一归档](2026-11-15-china-collection.json) 保存17个输入文件：15份省级行政边界原件、来源指纹与整合前中国卡片快照。整合后的分类、旧ID和数量关系见 [整合登记](../flavors/integration/china-collection.json)。
