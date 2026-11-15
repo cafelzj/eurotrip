@@ -16,7 +16,7 @@
   "inputs": [
     {
       "path": "data/flavors.js",
-      "sha256": "6b02cc84b5fd8f3b846e675b2f332aa6bf46810e25e6fa5d7d2b6267a171c9e8"
+      "sha256": "dc92a80dce160ae71c6b97bf2c9e00770f0e0bdd102741a7c2b6f5978fcbc2c7"
     },
     {
       "path": "data/flavor-counties.js",

@@ -33,7 +33,7 @@ for r in primary['items']:
  if len(detail)>500:detail=mod.clip(detail,495)+'。'
  first=next((s for s in detail.split('。') if s.strip()),'')+'。'
  x=dict(province=r['province'],city=r['city'],name=r['name'],type=r['type'],kind=r['kind'],description=first,detail=detail,sources=[sid],locality=r['locality'])
- if r['name']=='上栗花炮':x.update(description='上栗地方传统烟花工艺物品。',detail='地方产品公告将上栗花炮与当地工艺生产联系起来。这里作为地方物品收录，不将烟花归为食材，也不提供制造配方或操作指导。')
+ if r['name']=='上栗花炮':x.update(description='上栗地方传统烟花工艺物品。',detail='上栗花炮是江西萍乡上栗的传统烟花物品。产品公告以当地行政范围界定产区，可从地方工艺与节庆用品的关系认识。')
  n=add(x,'original-pdf',r['id']);source_used[sid].append(dict(itemId=n['id'],name=r['name'],scope=r['scope'],type=r['type'],variety=r['variety'][:180],sensory=r['sensory'][:350],process=r['process'][:280],sectionSha256=r['sectionSha256']))
 allmemory=read(B/'initial-knowledge.json')['candidates'];memory_review={x['candidateIndex']:x for x in read(B/'reviewed-memory.json')['items']};notes={idx:x['detail'] for idx,x in memory_review.items()}
 for idx,text in notes.items():

@@ -1700,7 +1700,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 2570,
-      "sha256": "523cc6ae59d344c03b0584a0bb588083024fa5d9c0a968c4933d9e135033b1da"
+      "sha256": "dd1c845e3a07b29fcf2960eb58bf71e64a146b796400e86b04b30f32b60ff744"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
