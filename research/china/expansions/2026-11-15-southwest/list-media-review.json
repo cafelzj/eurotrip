@@ -1,17 +1,272 @@
 {
   "date": "2026-11-15",
-  "purpose": "列表展示质量复核；不是来源或真实性否决",
-  "policy": "不合适的列表图撤出列表，原图、许可与来源仍在详情和底稿保留，等待更合适的对应实拍。",
+  "purpose": "本轮35张已采用实拍的完整列表质量复查；真实性和展示质量分别判断",
+  "policy": "列表只展示清楚的对应实物照；店铺/摊位全景、人物制作现场、杂乱背景、昏暗或清晰度不足的照片仅保留在详情与底稿。",
+  "reviewedPhotos": 35,
+  "listPhotos": 22,
+  "detailOnlyPhotos": 13,
+  "previousReview": {
+    "date": "2026-11-15",
+    "purpose": "列表展示质量复核；不是来源或真实性否决",
+    "policy": "不合适的列表图撤出列表，原图、许可与来源仍在详情和底稿保留，等待更合适的对应实拍。",
+    "records": [
+      {
+        "assetId": "southwest-photo-ad04d64f701fa7",
+        "listDisplay": false,
+        "reason": "用户反馈：摊位背景杂乱、暗部较多、主体不突出，不宜作为列表主图。"
+      },
+      {
+        "assetId": "southwest-photo-b54960ca2e9395",
+        "listDisplay": false,
+        "reason": "同类复核：街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
+      }
+    ]
+  },
   "records": [
     {
+      "assetId": "southwest-photo-3f6dc94a52fd9e",
+      "itemId": "sw-4ebfc1c4d00ed8b24e",
+      "itemName": "成都担担面",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-6455047737ca87",
+      "itemId": "sw-179b29d11ef791a354",
+      "itemName": "夫妻肺片",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-3a91c84ccff940",
+      "itemId": "sw-5b9a3319cf1aac3467",
+      "itemName": "乐山钵钵鸡",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-70ebe1346373f9",
+      "itemId": "sw-511803876782791394",
+      "itemName": "宜宾燃面",
+      "listDisplay": false,
+      "reason": "竖幅随拍、食品占幅小，背景粗糙，放大裁切后不适合主图。"
+    },
+    {
+      "assetId": "southwest-photo-29bddb746d02de",
+      "itemId": "sw-7859652a9e92798d86",
+      "itemName": "重庆火锅",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-c5548dc8f63405",
+      "itemId": "sw-cb3fb902cc7328ea03",
+      "itemName": "重庆小面",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-363db1709fd691",
+      "itemId": "sw-dd904ecf8f23f3fcad",
+      "itemName": "毛血旺",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-546181c3dd4ca6",
+      "itemId": "sw-938074ef580bc4bde6",
+      "itemName": "蒙自过桥米线",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-08a8377842a9dc",
+      "itemId": "sw-c1bfb97ed78b3f3eba",
+      "itemName": "汽锅鸡",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-54e31df0dee154",
+      "itemId": "sw-2dadb1dbbb8f0b58c4",
+      "itemName": "丽江粑粑",
+      "listDisplay": false,
+      "reason": "食物形态不完整、碗盘与背景杂乱，主图观感不佳。"
+    },
+    {
+      "assetId": "southwest-photo-098fb49e015975",
+      "itemId": "sw-f890e3abd057cef097",
+      "itemName": "丝娃娃",
+      "listDisplay": false,
+      "reason": "画面偏暗、竖幅食材阵列，不足以清楚展示丝娃娃成品。"
+    },
+    {
+      "assetId": "southwest-photo-938aa4253f7aab",
+      "itemId": "sw-68d75154d69f2accfe",
+      "itemName": "泸州老窖",
+      "listDisplay": false,
+      "reason": "展柜随拍带价签与反光，非干净的产品展示。"
+    },
+    {
+      "assetId": "southwest-photo-3d171c1db5ea89",
+      "itemId": "sw-457a62b7e55698bf1a",
+      "itemName": "贵州茅台酒",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-956fc8f57c2115",
+      "itemId": "sw-a74b815823a4318e34",
+      "itemName": "宣威火腿",
+      "listDisplay": false,
+      "reason": "用户反馈：店铺全景、人物和悬挂火腿混杂，不适合产品主图。"
+    },
+    {
+      "assetId": "southwest-photo-6b0d36c79ca51c",
+      "itemId": "sw-7ffc0994b6e597f255",
+      "itemName": "建水紫陶",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-698fc6561854bb",
+      "itemId": "sw-4024900ff82cfa2fea",
+      "itemName": "蜀锦",
+      "listDisplay": false,
+      "reason": "织物照片整体昏暗，纹样不够清楚，适合作为详情资料而非主图。"
+    },
+    {
+      "assetId": "southwest-photo-986c4b1103c62c",
+      "itemId": "sw-efcdd041ce66e8dd47",
+      "itemName": "喜洲粑粑",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-1b7e243e8bab87",
+      "itemId": "sw-4de0111462f3e154ff",
+      "itemName": "酥油茶",
+      "listDisplay": false,
+      "reason": "人物制作场景，食品主体不突出，移至详情作为背景资料。"
+    },
+    {
+      "assetId": "southwest-photo-a3e116756c2b08",
+      "itemId": "sw-1fbe8629d0d846252d",
+      "itemName": "糌粑",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-957b1680c3e300",
+      "itemId": "sw-0d6da9a7de9070ecb3",
+      "itemName": "郫县豆瓣",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-3145c4655e1e85",
+      "itemId": "sw-3648dfb11173174a59",
+      "itemName": "普洱茶",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-5d5367a9b7319b",
+      "itemId": "sw-54044992d849a06f14",
+      "itemName": "先市酱油",
+      "listDisplay": false,
+      "reason": "酿造场地全景，不是酱油成品实物主图。"
+    },
+    {
+      "assetId": "southwest-photo-8e1a06f4f266ed",
+      "itemId": "sw-c1042a8111823bc309",
+      "itemName": "修文猕猴桃",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-349808af964456",
+      "itemId": "sw-e5f2b87576206ed7fe",
+      "itemName": "习酒",
+      "listDisplay": false,
+      "reason": "货架与包装盒随拍、背景杂乱，产品主体不突出。"
+    },
+    {
+      "assetId": "southwest-photo-d3365505e128f7",
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "itemName": "麻婆豆腐",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-013d1865433c64",
+      "itemId": "sw-492891b7b966cf5870",
+      "itemName": "蛋烘糕",
+      "listDisplay": false,
+      "reason": "街头随拍带价牌，画面杂乱、对焦欠佳。"
+    },
+    {
+      "assetId": "southwest-photo-1d4c4a4a746709",
+      "itemId": "sw-704e7e23aebff5904c",
+      "itemName": "五粮液",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-7aad54095973c9",
+      "itemId": "sw-ba4accee3eb9320f15",
+      "itemName": "小锅米线",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-2ba92822cef742",
+      "itemId": "sw-acd0aec8616bc41ca6",
+      "itemName": "腾冲大救驾",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-b54960ca2e9395",
+      "itemId": "sw-8862ea4865172edb40",
+      "itemName": "烧饵块",
+      "listDisplay": false,
+      "reason": "街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
+    },
+    {
       "assetId": "southwest-photo-ad04d64f701fa7",
+      "itemId": "sw-25f5dd5b14e508a033",
+      "itemName": "大理乳扇",
       "listDisplay": false,
       "reason": "用户反馈：摊位背景杂乱、暗部较多、主体不突出，不宜作为列表主图。"
     },
     {
-      "assetId": "southwest-photo-b54960ca2e9395",
+      "assetId": "southwest-photo-2b9a1ffe5f7e50",
+      "itemId": "sw-0d0c8e1cf3d3dc23e4",
+      "itemName": "德宏撒撇",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-5cd5d43ae48115",
+      "itemId": "sw-8876c552bbe1e474c7",
+      "itemName": "水城羊肉粉",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    {
+      "assetId": "southwest-photo-64aad36eeb0e9e",
+      "itemId": "sw-717127cb06deefa1d2",
+      "itemName": "董酒",
       "listDisplay": false,
-      "reason": "同类复核：街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
+      "reason": "瓶身和背景偏暗、清晰度不足，主图质量不佳。"
+    },
+    {
+      "assetId": "southwest-photo-5d7f03d4e264d7",
+      "itemId": "sw-23d3575fd32e1f29c0",
+      "itemName": "腾冲饵丝",
+      "listDisplay": true,
+      "reason": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     }
   ]
 }

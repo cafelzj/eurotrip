@@ -119,7 +119,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "面碗、肉臊与红油主体清楚，与原图担担面说明一致。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-6455047737ca87": {
       "file": "Fuqi Fei Pian.jpg",
@@ -139,7 +141,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "切片牛肉和牛杂的凉拌成品清楚，原图标明夫妻肺片。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-3a91c84ccff940": {
       "file": "Red Oil Bobo-Chicken.jpg",
@@ -159,7 +163,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "红油钵与串制食材清楚，属于钵钵鸡成品场景。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-70ebe1346373f9": {
       "file": "5651760935285 .pic.jpg",
@@ -179,7 +185,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图说明明确标为宜宾燃面，保留其真实面碗外观；原图清晰度一般。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "竖幅随拍、食品占幅小，背景粗糙，放大裁切后不适合主图。"
     },
     "southwest-photo-29bddb746d02de": {
       "file": "3x3 hot pot in Chongqing (20180217161707).jpg",
@@ -199,7 +207,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "九宫格锅与沸腾汤料清楚，原图说明拍摄于重庆。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-c5548dc8f63405": {
       "file": "The Crimson Chongqing Noodles at Detective Conan Café Chongqing (20191224121602).jpg",
@@ -219,7 +229,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图说明为重庆餐厅的小面，面碗主体清楚；不由照片定义全部小面配方。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-363db1709fd691": {
       "file": "Mao Xuewang 1.jpg",
@@ -239,7 +251,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "血旺与复合配菜在红汤中清楚可辨，原图题名明确。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-546181c3dd4ca6": {
       "file": "Crossing the Bridge Rice Noodles at Jian Xin Yuan, Tangzixiang (20210321135908).jpg",
@@ -259,7 +273,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "汤碗、米线与分碟配料清楚；照片拍摄地按原图记录，不宣称某家蒙自门店。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-08a8377842a9dc": {
       "file": "Qi Guoji.jpg",
@@ -279,7 +295,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "汽锅中央汽柱、鸡块和汤汁清楚，主题为汽锅鸡。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-54e31df0dee154": {
       "file": "丽江粑粑 Lijiang Ba Ba Bread with spring onion and egg - street vendor CNY4.jpg",
@@ -299,7 +317,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确为丽江粑粑；纠正搜索将它与喜洲粑粑混配的候选结果。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "食物形态不完整、碗盘与背景杂乱，主图观感不佳。"
     },
     "southwest-photo-098fb49e015975": {
       "file": "丝娃娃 (28664736712).jpg",
@@ -319,7 +339,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图主题明确为丝娃娃，多种切丝配菜可见，按备餐场景采用。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "画面偏暗、竖幅食材阵列，不足以清楚展示丝娃娃成品。"
     },
     "southwest-photo-938aa4253f7aab": {
       "file": "HK SKD TKO Tseung Kwan O 日出康城 the Lohas Park mall Foodville Store Luzhou Laojiao Chinese wine August 2022 Px3.jpg",
@@ -339,7 +361,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "瓶身及包装标识清楚，作为该品牌实物记录。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "展柜随拍带价签与反光，非干净的产品展示。"
     },
     "southwest-photo-3d171c1db5ea89": {
       "file": "HK Wan Chai North 灣仔北 Grand Hyatt Hotel 保利集團 Poly Auction preview exhibits 拍賣 Moutai 貴州茅台酒 Maotai 大麯白酒 Sept 2017 IX1 07 label.jpg",
@@ -359,7 +383,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "瓶身茅台酒标识清楚，照片不作为酒龄或真伪鉴定依据。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-956fc8f57c2115": {
       "file": "(24473506755)Xuanwei ham.jpg",
@@ -379,7 +405,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "挂售的火腿主体清楚，原图说明明确为宣威火腿。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "用户反馈：店铺全景、人物和悬挂火腿混杂，不适合产品主图。"
     },
     "southwest-photo-6b0d36c79ca51c": {
       "file": "Jianshui purple pottery - 45981422681.jpg",
@@ -399,7 +427,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "陶壶、陶瓶等器物形态清楚，来源明确为建水紫陶。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-698fc6561854bb": {
       "file": "Shu brocade, Chengdu Museum.png",
@@ -419,7 +449,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图记录成都博物馆蜀锦展品，采用实际织物纹样影像，不生成或重绘纹样。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "织物照片整体昏暗，纹样不够清楚，适合作为详情资料而非主图。"
     },
     "southwest-photo-986c4b1103c62c": {
       "file": "Xizhou baba.jpg",
@@ -439,7 +471,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "成品饼体与馅料清楚；原图说明及坐标明确为大理喜洲。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-1b7e243e8bab87": {
       "file": "Monk churning butter tea.JPG",
@@ -459,7 +493,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确为搅打酥油茶，采用真实制作场景，不冒充成品杯图。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "人物制作场景，食品主体不突出，移至详情作为背景资料。"
     },
     "southwest-photo-a3e116756c2b08": {
       "file": "Tsampa cakes at Makye Ame Restaurant, Xining (20230925145812).jpg",
@@ -479,7 +515,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确为糌粑团，实体粮粉团主体清楚。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-957b1680c3e300": {
       "file": "Juan-cheng Doubanjiang.jpg",
@@ -499,7 +537,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "瓶装豆瓣和郫县豆瓣标签清楚，具体品牌与食品品类分开理解。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-3145c4655e1e85": {
       "file": "普洱茶 - Pu-erh tea 八中茶.jpg",
@@ -519,7 +559,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "茶饼、压制形态与茶叶表面清楚，原图明确标为普洱茶。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-5d5367a9b7319b": {
       "file": "先市酱油酿造作坊群.jpg",
@@ -539,7 +581,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "酿造作坊与晒缸场景清楚，采用原图明确对应的生产场景。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "酿造场地全景，不是酱油成品实物主图。"
     },
     "southwest-photo-8e1a06f4f266ed": {
       "file": "贵州修文猕猴桃.jpg",
@@ -559,7 +603,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "果品主体清楚，原图题名明确记录修文产地。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-349808af964456": {
       "file": "一款习酒.jpg",
@@ -579,7 +625,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "产品包装与习酒标识清楚，按该品牌实物采用。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "货架与包装盒随拍、背景杂乱，产品主体不突出。"
     },
     "southwest-photo-d3365505e128f7": {
       "file": "Mapo doufu by Chen Mapo Restaurant in Chengdu Sichuan（陳麻婆豆腐店の麻婆豆腐）.JPG",
@@ -599,7 +647,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确记录成都店铺及菜品，豆腐与红油成品清楚；卡片仍为食品品类。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-013d1865433c64": {
       "file": "成都小吃蛋烘糕.jpg",
@@ -619,7 +669,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "烘糕表皮与内馅可见，原图记录成都小吃蛋烘糕。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "街头随拍带价牌，画面杂乱、对焦欠佳。"
     },
     "southwest-photo-1d4c4a4a746709": {
       "file": "Classic Wuliangye 20240504 002.jpg",
@@ -639,7 +691,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "瓶身五粮液标识清楚，不采用广告涂装飞机照片替代产品。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-7aad54095973c9": {
       "file": "昆明青和小锅米线.jpg",
@@ -659,7 +713,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "面碗与汤料清楚，原图明确记录昆明小锅米线。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-2ba92822cef742": {
       "file": "腾冲大救驾 - 2023-08-02.jpg",
@@ -679,7 +735,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "炒饵块成品主体清楚，原图题名直接对应腾冲大救驾。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-b54960ca2e9395": {
       "file": "大理古城烧饵块.jpg",
@@ -701,7 +759,7 @@ window.flavorImages={
       },
       "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
       "listDisplay": false,
-      "listReviewNote": "同类复核：街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
+      "listReviewNote": "街头制作场景杂乱且食品主体偏小，不宜作为列表主图。"
     },
     "southwest-photo-ad04d64f701fa7": {
       "file": "大理古城烧饵块、烤乳扇.jpg",
@@ -743,7 +801,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "蘸料与米线等配食场景清楚，原图主题明确为德宏撒撇。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-5cd5d43ae48115": {
       "file": "南明 水城羊肉粉.jpg",
@@ -763,7 +823,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确为水城羊肉粉，粉碗与肉食主体清楚；不宣称拍摄于六盘水指定门店。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     },
     "southwest-photo-64aad36eeb0e9e": {
       "file": "一瓶经典装董酒.jpg",
@@ -783,7 +845,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "瓶身董酒标识清楚，排除同名生物等错误命中。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": false,
+      "listReviewNote": "瓶身和背景偏暗、清晰度不足，主图质量不佳。"
     },
     "southwest-photo-5d7f03d4e264d7": {
       "file": "芒市腾冲饵丝 - 2025-05-13.jpg",
@@ -803,7 +867,9 @@ window.flavorImages={
         "date": "2026-11-15",
         "notes": "原图明确记录芒市的腾冲饵丝，食品身份与拍摄门店所在地分别保留。"
       },
-      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。"
+      "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
+      "listDisplay": true,
+      "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
     }
   },
   "cards": {

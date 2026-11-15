@@ -2389,8 +2389,8 @@
     {
       "path": "research/china/expansions/2026-11-15-southwest/README.md",
       "role": "research-support",
-      "bytes": 5046,
-      "sha256": "9b20dff83cc9cf2a2158575a674805a718a3fe225adf45f5439c61abda3e9163"
+      "bytes": 5533,
+      "sha256": "757356aca2bf6e1cd929a692b38b09c291b55a4f888b1b688c2ad4f76077bcfc"
     },
     {
       "path": "research/china/expansions/2026-11-15-southwest/administrative-sources.json",
@@ -2485,8 +2485,8 @@
     {
       "path": "research/china/expansions/2026-11-15-southwest/list-media-review.json",
       "role": "research-support",
-      "bytes": 667,
-      "sha256": "49aa216912426f284d2ffb3886936179300df7332752be394b2de2536766b492"
+      "bytes": 10312,
+      "sha256": "52f25482d6a22bf148fd958dc28f8ede5ca665f03cd1592fee8c8418f9a7fa76"
     },
     {
       "path": "research/china/expansions/2026-11-15-southwest/place-register.json",
@@ -3806,7 +3806,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 2571,
-      "sha256": "3db1db3331e13f229eaaa383c64ddd24f233376c882d309d7b5c42f640d117c0"
+      "sha256": "ea1e64dbe9790cea37e4d3dc161e990ef319369077040ba3879261c317dd2910"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
