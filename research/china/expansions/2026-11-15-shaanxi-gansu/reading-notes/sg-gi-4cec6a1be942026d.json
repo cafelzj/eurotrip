@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-4cec6a1be942026d",
+  "title": "地理标志产品公告 · 2007年第168号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC168%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "4cec6a1be942026d9b9498fb2e973c152d31422e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2007年第168号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC168%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "25b3ff11eae450cfb049376211aa613460a3586cec46090c59d945597899bb1a",
+    "textSha256": "7a40c650b0c3b8d75ed91b0e12cc23890555792a9fcb793278133f10d501ec89",
+    "textLength": 1979,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/4cec6a1be942026d9b9498fb2e973c152d31422e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/4cec6a1be942026d9b9498fb2e973c152d31422e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-e505e677ce57060f2b",
+      "name": "花牛苹果",
+      "scope": "花牛苹果地理标志产品保护范围以甘肃省天水市人民政府《关于确定花牛苹果地理标志产品保护范围建议的函》(天政函[2005]15号)提出的范围为准,为甘肃省天水市秦州区玉泉镇、太京镇、关子镇、西口镇、皂角镇、平南镇、天水镇、汪川镇、中梁乡、华岐乡、大门乡11个乡镇;麦积区花牛镇、伯阳镇、元龙镇、社棠镇、马跑泉镇、甘泉镇、渭南镇、中滩镇、新阳镇、石佛乡、琥珀乡11个乡镇;秦安县兴国镇、陇城镇、莲花镇、郭加镇、西川镇、刘坪乡、魏店乡、五营乡、叶堡乡、安伏乡、王窑乡、云山乡、王尹乡、兴丰乡14个乡镇;清水县永清镇、红堡镇、金集镇、远门乡、土门乡、郭川乡、贾川乡、丰望乡8个乡镇;甘谷县白家湾乡、磐安镇、安远镇、八里湾乡、新兴镇、西坪乡、大石乡、谢家湾乡、礼辛乡、大像山镇10个乡镇;武山县洛门镇、鸳鸯镇、四门镇、马力镇、咀头乡5个乡镇;张家川回族自治县张川镇、刘堡乡、大阳乡、连五乡4个乡镇共63个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "元帅系优良品种",
+      "sensory": "项目要求果形端正、高桩、果顶五棱突起。果形指数≥0.85色泽浓红或鲜红,果实着色度95%以上。成熟度充分发育,达到市场或贮存要求的成熟度果梗完整或统一剪除果实大小≥70(按果实横径划分)mm果面无缺陷(包括刺伤、碰压、磨伤、雹伤、裂伤、虫伤、病伤)",
+      "process": "",
+      "sectionSha256": "804690b66073a4f2f5707406750cb674c0f16e7d2c3e96af41ced46ed507dc16"
+    }
+  ]
+}

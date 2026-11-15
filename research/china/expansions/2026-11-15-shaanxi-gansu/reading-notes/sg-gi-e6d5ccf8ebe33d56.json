@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-e6d5ccf8ebe33d56",
+  "title": "地理标志产品公告 · 2010年第53号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC53%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "e6d5ccf8ebe33d5640d304808feb704c295910b2",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第53号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC53%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5b5fcb8c168c1385b9daa1be6847ce8e5bd1863b6e40155d0f9ffe701f896fd3",
+    "textSha256": "fbdc4a08b34d7fecd27600fc2110aa35202f001d5ecc3c09fb0b46bd3a699be6",
+    "textLength": 4722,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/e6d5ccf8ebe33d5640d304808feb704c295910b2.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/e6d5ccf8ebe33d5640d304808feb704c295910b2.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-eeeafb7a1daad8cf9f",
+      "name": "小口大枣",
+      "scope": "小口大枣地理标志产品保护范围为甘肃省靖远县石门乡、双龙乡、北湾镇、高湾乡、糜滩乡、三滩乡、平堡乡等7个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "传统本地大枣",
+      "sensory": "果形为椭圆形,外观紫红色油亮,表皮不褶皱。果实个大肉厚、皮薄核小、味浓,久放不干,耐贮存",
+      "process": "",
+      "sectionSha256": "ae2000c464dbb1278b4114a10995c58edb563aa13f4427d6b7a8c12153cd715e"
+    }
+  ]
+}

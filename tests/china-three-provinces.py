@@ -25,9 +25,12 @@ seal = read(BATCH/'knowledge-seal.json')
 assert file_sha(BATCH/'initial-knowledge.json') == seal['sha256'] == adoption['knowledgeDraftSha256']
 knowledge = read(BATCH/'initial-knowledge.json')
 assert len(knowledge['candidates']) == 394 and knowledge['externalSearchPerformed'] is False
-assert len(catalog['items']) == len(items) == adoption['totalFlavorItems'] == 5051
-assert sum(i.get('verificationStatus') != 'pending' for i in items.values()) == 5004 > 5000
-assert sum(i.get('verificationStatus') == 'pending' for i in items.values()) == 47
+cohort_ids = set(adoption['retainedBaselineIds']) | {d['itemId'] for d in adoption['decisions']}
+cohort = [items[i] for i in cohort_ids]
+assert len(cohort) == adoption['totalFlavorItems'] == 5051
+assert len(catalog['items']) == len(items) >= len(cohort)
+assert sum(i.get('verificationStatus') != 'pending' for i in cohort) == 5004 > 5000
+assert sum(i.get('verificationStatus') == 'pending' for i in cohort) == 47
 new = [i for i in items.values() if i.get('researchBatch') == BATCH.name]
 assert len(new) == adoption['newItems'] == 796
 assert dict(collections.Counter(i['province'] for i in new)) == {'jiangxi':222,'guangxi':302,'guangdong':272}
@@ -63,14 +66,17 @@ for path in notes:
         assert file_sha(ROOT/note['readableFile'])==note['readableSha256']
     assert all(e['itemId'] in items for e in note['items'])
 geo=js('data/flavor-counties.js')
-assert len(geo['cities'])==220
-assert sum(len(c['regions']) for c in geo['cities'].values())==1817
+historical_provinces={i['province'] for i in cohort}
+old_cities=[c for c in geo['cities'].values() if c['province'] in historical_provinces]
+assert len(old_cities)==220
+assert sum(len(c['regions']) for c in old_cities)==1817
 regions=js('data/china-region-catalog.js')
-assert len(regions['destinations'])==2037 and len(regions['provinces'])==18
+assert len([d for d in regions['destinations'] if d['provinceId'] in historical_provinces])==2037
+assert len([p for p in regions['provinces'] if p['id'] in historical_provinces])==18
 for code in [441900,442000]:
     city=geo['cities'][str(code)]
     assert city['hasCountyDivisions'] is False and city['regions']==[] and not city.get('map')
     assert next(d for d in regions['destinations'] if d['adcode']==str(code))['level']=='prefecture'
 assert all(len(str(c['adcode']))==6 for city in geo['cities'].values() for c in city['regions'])
-assert read(ROOT/'research/china/integration/china-collection.json')['expectedChinaRecords']==5181
+assert read(ROOT/'research/china/integration/china-collection.json')['expectedChinaRecords']==len(items)+130
 print('PASS 796 adopted / 5051 flavors / 5004 source-backed; 4255 unchanged originals; sealed knowledge, searches, source bytes, classifications, county boundaries and honest gaps')

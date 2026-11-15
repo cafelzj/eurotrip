@@ -1,0 +1,49 @@
+{
+  "id": "sg-source-0755fbb7abf057ae",
+  "title": "这些兰州专属“落地签”等你来打卡！ - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+  "url": "https://www.gswbj.gov.cn/a/2026/06/10/28550.html",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/shaanxi-gansu-20261115/articles/0755fbb7abf057ae.raw",
+  "originalResponseSha256": "591bd83dede8b6f507c8990185bbff737318ac4ba2f5b29ae87edb2c836e300b",
+  "readableFile": "research/.local/shaanxi-gansu-20261115/articles/0755fbb7abf057ae.txt",
+  "readableSha256": "5f9044b34d6a50cd83cf5823957478ec7f5f0e0f2544a07c80a1353ddb4a21b3",
+  "items": [
+    {
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "name": "兰州牛肉面",
+      "initialCandidateId": "memory-f4d19bfb56d231",
+      "adoptedFacts": "兰州牛肉面以清汤、萝卜、辣油、香菜蒜苗和面条的组合呈现地方风味。官方文旅介绍记录了“一清二白三红四绿五黄”和毛细、二细、韭叶子等面型，反映一碗面里的制作与选择差异。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sg-18e4e546cbe842b751",
+      "name": "酿皮子",
+      "initialCandidateId": "memory-d7b610cf50eacd",
+      "adoptedFacts": "酿皮子是兰州地方小吃之一。官方文旅介绍将其与甜醅子、灰豆子等并列推荐，卡片记录地方食品类别，具体原料与调味按专题继续核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sg-b2fd72857291bdb59d",
+      "name": "灰豆子",
+      "initialCandidateId": "memory-f8537e2e293b71",
+      "adoptedFacts": "灰豆子被列入兰州地方食品推荐。它是与当地小吃文化相连的甜食线索，现有已读介绍未给出完整制作过程，保留名称和地方关联，说明继续扩写。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sg-282042de220e091298",
+      "name": "甜醅子",
+      "initialCandidateId": "memory-8bf9416b4f25b2",
+      "adoptedFacts": "甜醅子与兰州及西北地区的饮食传统相连。官方文旅介绍将其列为兰州特色食品，具体谷物原料、发酵与饮用形式仍须分别核对，不把它自动等同于某一款奶茶。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sg-0c2d54c1b941f60760",
+      "name": "三泡台",
+      "initialCandidateId": "memory-c497c563dcef51",
+      "adoptedFacts": "三泡台是兰州文旅介绍中出现的地方茶饮。原文记录了黄河沿岸饮茶的日常场景，茶饮类别与具体茶叶、配料组合分开整理。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

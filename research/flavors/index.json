@@ -11,9 +11,9 @@
     "data/china-card-merges.js",
     "data/china-cards.js"
   ],
-  "currentItems": 5051,
+  "currentItems": 5362,
   "canonicalRegistry": "CardStore.nodes",
-  "unifiedChinaCards": 5181,
+  "unifiedChinaCards": 5492,
   "integrationFile": "research/china/integration/china-collection.json",
   "currentSources": "research/flavors/sources.json",
   "workflow": [
@@ -44,6 +44,7 @@
     "research/archives/2026-11-14-pre-organization.json",
     "research/archives/2026-11-15-china-collection.json",
     "research/archives/2026-11-15-flavor-county-media.json",
+    "research/archives/2026-11-15-shaanxi-gansu.json",
     "research/archives/2026-11-15-three-provinces.json",
     "research/archives/2026-11-15-unified-overviews.json"
   ],
@@ -62,8 +63,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "current-index-or-audit",
-      "bytes": 4181,
-      "sha256": "b2067fac620efa9868ed76b257c54f31fa3bd1aa9ddd1d5f6cdd03ffe969e25d"
+      "bytes": 4524,
+      "sha256": "52da050176d712d6ce8297bd748edf1e220727f7b4842475936b7f248c9461db"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -140,20 +141,20 @@
     {
       "path": "research/flavors/county-maps.json",
       "role": "current-index-or-audit",
-      "bytes": 98533,
-      "sha256": "fefae401383d818fa36d232368530fbda6a1ffa05ee0ed1353f1a4efd7ab80b8"
+      "bytes": 109242,
+      "sha256": "7a7b1cd7629576157e8a323955b857ad79925c477c383b522bdc15cdfdcc16b8"
     },
     {
       "path": "research/flavors/coverage.json",
       "role": "current-index-or-audit",
-      "bytes": 65275,
-      "sha256": "7725bf5b6bf14d29d112960ee7154ec74b6b8fc06494b21a9c078b6cff59482d"
+      "bytes": 72081,
+      "sha256": "631eaabb134e4ff395ab6d70b59a40d9e7c1b9d6865fafd2443b9658822dd34f"
     },
     {
       "path": "research/flavors/images/coverage.json",
       "role": "image-review-or-backlog",
-      "bytes": 165694,
-      "sha256": "ac00da739a75a1db26c854a8318d74d0815e9764392103d8f137398baa4bdb56"
+      "bytes": 174713,
+      "sha256": "9cc7d21779c7ca5837d761aaebdf32439be81eae025c852120b0774409de5f92"
     },
     {
       "path": "research/flavors/images/review.json",
@@ -5036,8 +5037,8 @@
     {
       "path": "research/flavors/queue.json",
       "role": "current-index-or-audit",
-      "bytes": 2696782,
-      "sha256": "1cec9fae05ac78bf6fa8a1911e4036f089f073187de569fbc544ecb04c9c56a4"
+      "bytes": 2975449,
+      "sha256": "629581ff66e42ab7a64905295d877169e2bc765a2d4719b16d68db4dd7bff6a2"
     },
     {
       "path": "research/flavors/reading-notes/2026-11-14/ah-pomegranate.json",
@@ -5330,8 +5331,8 @@
     {
       "path": "research/flavors/sources.json",
       "role": "current-index-or-audit",
-      "bytes": 1674026,
-      "sha256": "6bd3a9d0f7cdd0d4e82c04196b7d243785e7d833c57be8668f91004ad477b91b"
+      "bytes": 1777289,
+      "sha256": "b1036b800589e7f5297d45d2b647e6788751f300e084bf2f779bcaabcced17c0"
     }
   ]
 }

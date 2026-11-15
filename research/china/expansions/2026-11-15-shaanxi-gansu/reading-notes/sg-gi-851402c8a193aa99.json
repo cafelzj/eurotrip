@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-851402c8a193aa99",
+  "title": "地理标志产品公告 · 2016年第63号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC63%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "851402c8a193aa99ece0e8270c862522cb2b3725",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2016年第63号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC63%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "83fda544e9e1197648ec10e39f97e64708a131e65d7cbbd468bead5baa8dd97c",
+    "textSha256": "4fe37fa9d24030f1215dd916775c5a4cd29dee7a068c25bf69995101a739d7fe",
+    "textLength": 43150,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/851402c8a193aa99ece0e8270c862522cb2b3725.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/851402c8a193aa99ece0e8270c862522cb2b3725.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-640a6652e9e29cef06",
+      "name": "靖边荞麦",
+      "scope": "靖边荞麦产地范围为陕西省靖边县张家畔镇、红墩界镇、宁条梁镇、东坑镇、王渠则镇、中山涧镇、杨米涧镇、周河镇、杨桥畔镇、天赐湾镇、青阳岔镇、黄蒿界乡、海则滩乡、镇靖乡、席麻湾乡、龙洲乡、小河乡共17个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "米粒饱满均匀呈粉白色;面粉呈灰白色,做成熟食后口感滑香。(二)",
+      "process": "",
+      "sectionSha256": "12df5c1fea0276ef1000284c5a5ff3924695744fc5f9e3fa09fb175f37a192f8"
+    }
+  ]
+}

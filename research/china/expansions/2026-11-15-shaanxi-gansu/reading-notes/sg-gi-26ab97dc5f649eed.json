@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-26ab97dc5f649eed",
+  "title": "地理标志产品公告 · 2011年第138号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "26ab97dc5f649eed600ea1404de8b4667d16c2c2",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第138号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC138%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "206d715cf006f21a34c1f14012c73e530a1ab4bb664ba6d7e6ed6a358cb1c5af",
+    "textSha256": "137373abf3ab9c2c9c30cfd8f8839b034962dd99d747e4b03510ed58cdb96a92",
+    "textLength": 9960,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/26ab97dc5f649eed600ea1404de8b4667d16c2c2.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/26ab97dc5f649eed600ea1404de8b4667d16c2c2.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-2f69f3c9c492a014ba",
+      "name": "定边荞麦",
+      "scope": "定边荞麦产地范围为陕西省定边县贺圈镇、砖井镇、安边镇、白湾子镇、姬塬镇、堆子梁镇、杨井镇、红柳沟镇、新安边镇、纪畔乡、石洞沟乡、郝滩乡、黄湾乡、学庄乡、张崾先乡、樊学乡、武峁子乡、王盘山乡、油房庄乡、冯地坑乡、白马崾先乡、白泥井镇、周台子乡、盐场堡乡、定边镇25个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "红花系列品种",
+      "sensory": "籽粒黑色,表皮光滑,棱小明显,粒大,皮薄、面白、出粉率高",
+      "process": "",
+      "sectionSha256": "ea3ea28221a79010a935cd31d910882addaf43607b0ed7d4b19931fbf3efa2fd"
+    }
+  ]
+}

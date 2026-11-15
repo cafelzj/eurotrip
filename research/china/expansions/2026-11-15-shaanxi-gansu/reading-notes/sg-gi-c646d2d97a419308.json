@@ -1,0 +1,43 @@
+{
+  "id": "sg-gi-c646d2d97a419308",
+  "title": "地理标志产品公告 · 2018年第277号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c646d2d97a419308aef1fede011a207319a1b9f8",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2018年第277号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC277%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5fe90f57ed12b0d062ab02f531571e38f567c23b2839eb5e582ec0f86a5c624d",
+    "textSha256": "fd4509f923cdb5f334ec0fbd5513b90342b96006d28763b14d98afe18992f6ae",
+    "textLength": 24607,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c646d2d97a419308aef1fede011a207319a1b9f8.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c646d2d97a419308aef1fede011a207319a1b9f8.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-44b579b8c1b86e5ff6",
+      "name": "永寿槐花蜜",
+      "scope": "永寿槐花蜜产地范围为陕西省永寿县监军街道办、店头镇、甘井镇、马坊镇、永平镇、渠子镇、常宁镇共7个乡镇街道现辖行政区域",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "水白色、白色及微黄色,清香甜润,有槐花香味,蜜质粘稠,不易结晶,偶有结晶乳白细腻,不得含有蜜蜂肢体、幼虫、腊屑及正常视力可见杂质",
+      "process": "1.工艺过程:(1)原蜜出售:过滤→灌装。—52—(2)蜂蜜加工:原料蜜验收→融蜜→粗滤→预热→低温自然浓缩→精滤→灌装→封口→装箱→入库贮存。2.工艺要求:(1)融蜜:将原蜜桶放置在热水池中,用保护区范围内符合国家要求的50°C生产用水逐渐将结晶蜜化开。(2)粗滤:100目。(3)低温自然浓缩:在保护区范围内用非密封容器,与空气接触进行低温自然浓缩。(4)精滤:200目",
+      "sectionSha256": "a3fdc0a5b71818ce1511d8522f9d2f75ee642fbad586f1a110bf7f621bf5f873"
+    },
+    {
+      "itemId": "sg-97630b9e16e489175c",
+      "name": "石泉蚕丝",
+      "scope": "石泉蚕丝产地范围为陕西省安康市石泉县城关镇、云雾山镇、曾溪镇、中池镇、后柳镇、喜河镇、熨斗镇、两河镇、饶峰镇、池河镇、迎丰镇共11个镇现辖行政区域",
+      "type": "crafts",
+      "variety": "1.桑树品种:(1)品种:农桑14号、强桑一号。(2)土壤条件:土壤pH值5.5至7.5。2(3)栽植密度:800至1000株每667m(亩),低杆树形。2.蚕品种:(1)品种:菁松皓月、华康2号。(2)饲养时间:春蚕4月30日至5月30日,夏蚕7月10日至8月15日,秋蚕8月25日至9月25日。(3)蚕室管理:养蚕前7天进行蚕室蚕具消毒,养蚕期间—54—进",
+      "sensory": "生丝色泽均匀,呈乳白色或淡黄色,呈现“细、圆、匀、坚、净、柔、韧”特性",
+      "process": "1.工艺流程:混茧→剥茧→选茧→煮茧→缫丝→复摇→整理→检验→成品出厂。2.工艺要点:制丝水质pH值8至9",
+      "sectionSha256": "a43ed581d28d89195b4d8005f0c4a054ce47ffe05891854b1dc12029f38676fd"
+    }
+  ]
+}

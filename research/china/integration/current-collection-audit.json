@@ -4,27 +4,27 @@
   "standaloneFeature": "retired",
   "destination": "#card-manager/china?primary=food",
   "canonicalRegistry": "CardStore.nodes",
-  "expectedFlavors": 5051,
-  "verifiedFlavors": 5051,
-  "unifiedChinaCards": 5181,
+  "expectedFlavors": 5362,
+  "verifiedFlavors": 5362,
+  "unifiedChinaCards": 5492,
   "retainedPhotoCards": 9,
   "missingIds": [],
   "changedEditorialFields": [],
   "pending": 47,
-  "countyUnspecified": 1620,
+  "countyUnspecified": 1698,
   "fieldsChecked": "All original item fields; type→flavorType, city→cityName, sources→sourceIds; original aliases preserved (legacy aliases may be added), detail/readings, source URLs, county codes and absence of invented POIs.",
   "inputs": [
     {
       "path": "data/flavors.js",
-      "sha256": "dc92a80dce160ae71c6b97bf2c9e00770f0e0bdd102741a7c2b6f5978fcbc2c7"
+      "sha256": "3a9dba0588cb49d55810990a6dcf92885ec68fb72665899857233e383bae4deb"
     },
     {
       "path": "data/flavor-counties.js",
-      "sha256": "ae182258ccbb95b59c04d265d9c38daac83641615f0b70a6ba68a62a3af2f739"
+      "sha256": "de1f8b6918f679ddaebea5459eb7c172f9d26f0a7c3bd687e401ccfebd28c24b"
     },
     {
       "path": "data/flavor-map-regions.js",
-      "sha256": "8439438ac087dbb9ce87adf8fad2c4c90f3466e423a6b93a106ac4948e37215a"
+      "sha256": "9365aeb2c43c45ed2f3066bdbb3b885e8d1358ac9777fe00515b6b089ab069b6"
     },
     {
       "path": "data/flavor-images.js",
@@ -46,22 +46,22 @@
   "retainedResearch": "research/flavors/README.md",
   "retainedArchives": "research/archives/README.md",
   "categoryCounts": {
-    "food": 5064,
+    "food": 5375,
     "transport": 35,
     "brands": 16,
     "places": 36,
     "facts": 30
   },
   "secondaryCounts": {
-    "dairy": 79,
-    "drinks": 83,
-    "alcohol": 157,
-    "tea": 331,
-    "dishes": 879,
-    "staples": 829,
-    "ingredients": 2399,
-    "seasoning": 128,
-    "crafts": 174,
+    "dairy": 85,
+    "drinks": 87,
+    "alcohol": 166,
+    "tea": 341,
+    "dishes": 895,
+    "staples": 866,
+    "ingredients": 2614,
+    "seasoning": 132,
+    "crafts": 184,
     "tickets": 26,
     "hub": 9,
     "restaurants": 5,

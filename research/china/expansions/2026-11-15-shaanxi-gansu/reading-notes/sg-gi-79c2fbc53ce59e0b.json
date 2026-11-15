@@ -1,0 +1,43 @@
+{
+  "id": "sg-gi-79c2fbc53ce59e0b",
+  "title": "地理标志产品公告 · 2009年第41号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "79c2fbc53ce59e0b7ccf6f51d656dc2c8d6b163e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第41号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC41%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "3fcf5bcd09755f006dd6ad7c5c80eb21ceea8f8fb8071f7d7ce660a67df53907",
+    "textSha256": "db5f445266f04b1eac05b0848048b985caf2b219f572dd62e413a61b5207d365",
+    "textLength": 7218,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/79c2fbc53ce59e0b7ccf6f51d656dc2c8d6b163e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/79c2fbc53ce59e0b7ccf6f51d656dc2c8d6b163e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-93fdbbddbd167a532d",
+      "name": "黄龙核桃",
+      "scope": "黄龙核桃地理标志产品保护范围为陕西省延安市黄龙县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "薄壳1号、5号、圣龙1号",
+      "sensory": "坚果内皱壁薄,取仁方便,种皮色浅,缝合线较平,壳面洁净,核仁饱满、色浅。(2)",
+      "process": "",
+      "sectionSha256": "3e56c6e23c7cb204481903c24bdaabaf6ba8debd701cdb1093cbc63fbf3963af"
+    },
+    {
+      "itemId": "sg-8a94933f584bcf679c",
+      "name": "秦安花椒",
+      "scope": "秦安花椒地理标志产品保护范围为甘肃省秦安县兴国镇、西川镇、莲花镇、陇城镇、郭嘉镇、云山乡、刘坪乡、叶堡乡、安伏乡、魏店乡、王铺乡、王窑乡、千户乡、王尹乡、兴丰乡、中山乡、五营乡等17个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "大红袍",
+      "sensory": "色泽鲜红;大小均匀,睁眼,表面油腺突起明显,颗粒大,果肉厚;麻香味浓烈、悠长",
+      "process": "",
+      "sectionSha256": "eb5267d2fbd6ef49cb966d8052fcc39d5266876cf0093e6a8adcd54bb2cbd93d"
+    }
+  ]
+}

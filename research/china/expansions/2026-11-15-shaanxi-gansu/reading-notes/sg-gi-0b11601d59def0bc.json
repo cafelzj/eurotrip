@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-0b11601d59def0bc",
+  "title": "地理标志产品公告 · 2012年第208号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0b11601d59def0bc59e67eaea0f72a6799c2325a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第208号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC208%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "0d36753ed41fb608b685f9e623924da959084d420ccecf7d5af511176929ed84",
+    "textSha256": "52226db6af9255b263edb976745c321eed655566e59928b676cbc4e46009f327",
+    "textLength": 7520,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0b11601d59def0bc59e67eaea0f72a6799c2325a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0b11601d59def0bc59e67eaea0f72a6799c2325a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-962377af71d8fd6e18",
+      "name": "蒲城酥梨",
+      "scope": "蒲城酥梨产地范围为陕西省蒲城县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果型端正,近圆柱形,果皮绿黄色(套袋果为黄白色),果面光洁鲜亮,果点小而密,果皮薄,果肉白色,肉质酥脆,具香气,果汁多,果味甜,果大核小",
+      "process": "",
+      "sectionSha256": "005a3b558c883302aefe12815c4ec51e0b8dfcf41b20fc30f8e94a60120c7d8f"
+    }
+  ]
+}

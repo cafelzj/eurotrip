@@ -1,0 +1,53 @@
+{
+  "id": "sg-gi-886b097e79e4e8e2",
+  "title": "地理标志产品公告 · 2015年第24号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "886b097e79e4e8e2f32d6fffd8b85a670e6d1df5",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第24号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC24%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "21101f85101d7acbff214c47cde5022a60a5275ae38b9efacfb00c1175da1e4c",
+    "textSha256": "bed54347803f45168e6558c41d70d0ee0540e4b324ae8ed4b0aef17cea4e2081",
+    "textLength": 28225,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/886b097e79e4e8e2f32d6fffd8b85a670e6d1df5.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/886b097e79e4e8e2f32d6fffd8b85a670e6d1df5.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-3994c167cd399e9898",
+      "name": "靖边土豆",
+      "scope": "靖边土豆产地范围为陕西省靖边县张家畔镇、红墩界镇、宁条梁镇、东坑镇、王渠则镇、中山涧镇、杨米涧镇、周河镇、杨桥畔镇、天赐湾镇、青阳岔镇、黄蒿界镇、海则滩乡、镇靖乡、席麻湾乡、龙州乡、小河乡共17个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "椭圆形,个头均匀;皮薄光滑,芽眼浅,呈淡黄色、肉质鲜亮",
+      "process": "",
+      "sectionSha256": "3fb2741915b7d3cfd661e68a8fcfa4ef1f177fc21d96d3cb0467cb7126a75a16"
+    },
+    {
+      "itemId": "sg-9c371213fb8da151cc",
+      "name": "华胥大银杏(华胥大杏)",
+      "scope": "华胥大银杏(华胥大杏)产地范围为陕西省蓝田县华胥镇、洩湖镇、三里镇、三官庙镇、金山镇、厚镇、普化镇、玉山镇、九间房镇、安村镇、前卫镇、孟村镇、蓝关镇共13个镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实圆形、果皮金黄色、果肉橘黄色、肉质柔软、汁液多、味甜",
+      "process": "",
+      "sectionSha256": "95acc97406cac66922065c8fddc53df39a0d55f62f8895904e4a6a01c214dbd6"
+    },
+    {
+      "itemId": "sg-046ffefb908455944e",
+      "name": "甘加藏羊",
+      "scope": "甘加藏羊产地范围为甘肃省夏河县甘加乡、科才乡、桑科乡、达麦乡、麻当乡、曲奥乡、唐尕昂乡、博拉乡、吉仓乡、牙利吉街道办事处、扎油乡共11个乡镇街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)羔羊肉:色泽浅红色,有光泽,脂肪呈乳白色,肌纤维清晰,有韧性,肌间脂肪明显。煮熟后,肉汤透明澄清,脂肪团聚于液面,无膻味,肉质鲜嫩多汁,味道醇厚。(2)竭羊:色泽鲜红色或暗红色,有光泽,脂肪呈白色或微黄色,肌纤维清晰,有韧性,肌间脂肪明显。煮熟后,肉汤透明澄清,脂肪团聚于液面,肉质鲜嫩多汁,味道醇厚",
+      "process": "",
+      "sectionSha256": "ba07ca49756f2f21d2abe0580f3822bc388ba6100482b38b1b3f989164f1b42f"
+    }
+  ]
+}

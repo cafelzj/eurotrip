@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-6a5b69f2438b4002",
+  "title": "地理标志产品公告 · 2005年第209号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC209%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "6a5b69f2438b4002043f8f4e836a253f54d66a1f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2005年第209号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC209%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "1592167f3df6df98fd3cfe71aedb9378524d4c86e83f7e7aa07599568d1cd781",
+    "textSha256": "6c7a3b95cd52737e31b866d4c03e77bbea7e76e5ef1a0fa874dd4408349221d7",
+    "textLength": 1389,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/6a5b69f2438b4002043f8f4e836a253f54d66a1f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/6a5b69f2438b4002043f8f4e836a253f54d66a1f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-e40bd12ddc35ba6db2",
+      "name": "延安酸枣",
+      "scope": "延安酸枣地理标志产品保护范围以陕西省延安市人民政府《关于申请界定延安酸枣地理标志产品保护范围的函》(延政函[2005]13号)提出的范围为准,为延安市宝塔区、吴旗、志丹、安塞、子长、延川、延长、宜川、甘泉、富县、洛川、黄陵等12个县区现辖行政区域及黄龙县石堡镇、范家卓子、界头庙、红石崖、白马滩、柏峪、三岔、崾?等8个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "",
+      "process": "1.晾晒:酸枣采收后,应及时摊晾在干净、卫生、通风性好、阳光充足的地方进行晾晒。2.清洗:用饮用水冲洗。3.果肉果核分离:用专用酸枣脱肉机械进行。4.果核、果仁分离:用专用脱壳机械进行。5.干燥:将果仁、核壳分别摊在专用场地进行。6.包装:用专用包装袋对果肉、果仁、核壳按质量等级分别进行包装",
+      "sectionSha256": "6387568681f91887b91977b30f63149e32794afc7e9c54b685d0ebedffe13e21"
+    }
+  ]
+}

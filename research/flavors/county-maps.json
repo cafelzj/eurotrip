@@ -2110,9 +2110,239 @@
       "previousQueueSha256": "a4fb0a141da2fadadfde02d243941b6de854661f477d82b3c71936cee682955d",
       "features": 5,
       "svgSha256": "fb56ebd8aae5956de8e1fd73fa84004c2bf5ec94f3cb7dcb70314e5b0700d316"
+    },
+    {
+      "adcode": 610100,
+      "city": "西安",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610100_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "17b60bf21415fc8ff30a4b4aa63edbc1ea8de1dc149fc0ddbf330517a6ebe317",
+      "previousQueueSha256": "17b60bf21415fc8ff30a4b4aa63edbc1ea8de1dc149fc0ddbf330517a6ebe317",
+      "features": 13,
+      "svgSha256": "52f718e6557b101cc451b5da62c73ea99462f2a6c4fb63861fc0c6cb2e5a9f71"
+    },
+    {
+      "adcode": 610200,
+      "city": "铜川",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610200_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "3fd39041e7b3a2a0c076992d1154484c9c21bcd7f4295783ab804daf38171536",
+      "previousQueueSha256": "3fd39041e7b3a2a0c076992d1154484c9c21bcd7f4295783ab804daf38171536",
+      "features": 4,
+      "svgSha256": "8570b16339241e6440b5a48408bc67fbfc9ecb49521ca477d9348c8e63ab65f0"
+    },
+    {
+      "adcode": 610300,
+      "city": "宝鸡",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610300_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "c49c4f21cbb9beef7298123b892172f59ef6cb14b23903a8fa117771c3e7fcae",
+      "previousQueueSha256": "c49c4f21cbb9beef7298123b892172f59ef6cb14b23903a8fa117771c3e7fcae",
+      "features": 12,
+      "svgSha256": "3e062f0e21a1e0e332605a0cd0eb17453cc9b6d7e616fc710a9b306d4dc258d9"
+    },
+    {
+      "adcode": 610400,
+      "city": "咸阳",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610400_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "afad0f302a2e4fff6309582729121899ebeab7b9da725032faf4d77be9622a3b",
+      "previousQueueSha256": "afad0f302a2e4fff6309582729121899ebeab7b9da725032faf4d77be9622a3b",
+      "features": 14,
+      "svgSha256": "f9c50087f489153f3c1bb4f5fb446c9c9a11c167c0b3aeceb1fc5afc47c89d70"
+    },
+    {
+      "adcode": 610500,
+      "city": "渭南",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610500_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "2f51d995b8e31643a933e76741d5f7e6d060ed20c36db3f25fda3f625f3f57d2",
+      "previousQueueSha256": "2f51d995b8e31643a933e76741d5f7e6d060ed20c36db3f25fda3f625f3f57d2",
+      "features": 11,
+      "svgSha256": "08aff5809595ec5cafcfa316b7ea240a203515e56e5f64e62278838c2239d366"
+    },
+    {
+      "adcode": 610600,
+      "city": "延安",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610600_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "75dc00682a5537400af33f1f843a0acae5dc16eeebfd2aa8bdfb5d6d1e30ef71",
+      "previousQueueSha256": "75dc00682a5537400af33f1f843a0acae5dc16eeebfd2aa8bdfb5d6d1e30ef71",
+      "features": 13,
+      "svgSha256": "ba3b8c493e09abb8301fb39ced275ea9cbdf9a8c6c5aa860407135a4f991985c"
+    },
+    {
+      "adcode": 610700,
+      "city": "汉中",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610700_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "78f9a1a3f7419e268ecd3207247ffd77f17672a61dccc1f806d148ce663a260f",
+      "previousQueueSha256": "78f9a1a3f7419e268ecd3207247ffd77f17672a61dccc1f806d148ce663a260f",
+      "features": 11,
+      "svgSha256": "0dccdcfd42deb74f6c101319dd294586245971c2740a2bb9fcc12dd9f2964d76"
+    },
+    {
+      "adcode": 610800,
+      "city": "榆林",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610800_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "accded40abe1d14594001ea4f5aba012f22e1753eeb64d19a157a6cf1131a5ae",
+      "previousQueueSha256": "accded40abe1d14594001ea4f5aba012f22e1753eeb64d19a157a6cf1131a5ae",
+      "features": 12,
+      "svgSha256": "eb043fccaaefc9273104df60fa12ce35732ce799d52e618db9326a7e643768dd"
+    },
+    {
+      "adcode": 610900,
+      "city": "安康",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/610900_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "cccf3fd3bce3859819522c517f46a29d31877c06b8f9281b37970a3e2ad15ab2",
+      "previousQueueSha256": "cccf3fd3bce3859819522c517f46a29d31877c06b8f9281b37970a3e2ad15ab2",
+      "features": 10,
+      "svgSha256": "501d818b29b1050813f45058ab4c6baa3ed168300e6a51f7688917d495a03bd8"
+    },
+    {
+      "adcode": 611000,
+      "city": "商洛",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/611000_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "cab0a43501cec6f556c39b9c9d0a6f6ae4789a518a72a7201997610b5d48d35d",
+      "previousQueueSha256": "cab0a43501cec6f556c39b9c9d0a6f6ae4789a518a72a7201997610b5d48d35d",
+      "features": 7,
+      "svgSha256": "c07045961b7307f647e7fa7332a7d1d4ca1eb21700392b6d35598815137b8201"
+    },
+    {
+      "adcode": 620100,
+      "city": "兰州",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620100_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "07ebb282943e632d051f6666abb06f348ba3144a154e5f9c72fd8f6fbd2ac069",
+      "previousQueueSha256": "07ebb282943e632d051f6666abb06f348ba3144a154e5f9c72fd8f6fbd2ac069",
+      "features": 8,
+      "svgSha256": "cd24b345296fc798f3c0537dfa2729066e90738b033199117d899d0c0465fec1"
+    },
+    {
+      "adcode": 620300,
+      "city": "金昌",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620300_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "c698c63d4e8d99328f7e4b68acc8352c4017b1b6d43ae124bedd5a81e2330cba",
+      "previousQueueSha256": "c698c63d4e8d99328f7e4b68acc8352c4017b1b6d43ae124bedd5a81e2330cba",
+      "features": 2,
+      "svgSha256": "47b422c16d9f56dbc6e1279d2dd84048ee0d74ca132e03cbd788c12d1b36b1be"
+    },
+    {
+      "adcode": 620400,
+      "city": "白银",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620400_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "69e4c984fa30d15795605fe33ff960ab10bda8a7e6decc8c8531ddb0458c88d5",
+      "previousQueueSha256": "69e4c984fa30d15795605fe33ff960ab10bda8a7e6decc8c8531ddb0458c88d5",
+      "features": 5,
+      "svgSha256": "70f75d90f8f67773b655da773620430ecfaa1e6fba80b805a13dbe658e1e1513"
+    },
+    {
+      "adcode": 620500,
+      "city": "天水",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620500_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "80e979c1b3f1a01ddddb2eeea13f302d086214e0e0cdc49a607c00aaaa3801fa",
+      "previousQueueSha256": "80e979c1b3f1a01ddddb2eeea13f302d086214e0e0cdc49a607c00aaaa3801fa",
+      "features": 7,
+      "svgSha256": "ef47d60334c1412f0f6a20bd1afb210107979fc5a65b6f48fb9ab81694af9527"
+    },
+    {
+      "adcode": 620600,
+      "city": "武威",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620600_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "81e7201fcd998cccd4f79f90a478a91d3bf82d38740ce38b68eba849ad52d6a8",
+      "previousQueueSha256": "81e7201fcd998cccd4f79f90a478a91d3bf82d38740ce38b68eba849ad52d6a8",
+      "features": 4,
+      "svgSha256": "fbf734db39d668823ff51c2f65484bc8da03441eeecd6d35e86dc077709a0bd5"
+    },
+    {
+      "adcode": 620700,
+      "city": "张掖",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620700_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "c8ba7ff1203b01584079825a016235e64f01aeca622402fead3b0fb557144e60",
+      "previousQueueSha256": "c8ba7ff1203b01584079825a016235e64f01aeca622402fead3b0fb557144e60",
+      "features": 6,
+      "svgSha256": "02f871803685ad18feba7724da233c59f4c3c919b126e9d9dd51e46766ace1a3"
+    },
+    {
+      "adcode": 620800,
+      "city": "平凉",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620800_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "c1fe55255bb2ab753aa699952a9d84ad987a2de459f9ccb09061633d1f413158",
+      "previousQueueSha256": "c1fe55255bb2ab753aa699952a9d84ad987a2de459f9ccb09061633d1f413158",
+      "features": 7,
+      "svgSha256": "65f53d7bd5a4775c2e5afaa29d0b8246beff579aae9f266c622921f413b29a04"
+    },
+    {
+      "adcode": 620900,
+      "city": "酒泉",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/620900_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "494d34fdd16d22da7cbb13bbd26eaa44df0f2e396668faecfb027313cca37754",
+      "previousQueueSha256": "494d34fdd16d22da7cbb13bbd26eaa44df0f2e396668faecfb027313cca37754",
+      "features": 7,
+      "svgSha256": "268e527a8d477a9b2c6a45c822864fa189d56723550c32dc1b18ac12ce6138bd"
+    },
+    {
+      "adcode": 621000,
+      "city": "庆阳",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/621000_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "2b14454ce5d0602e697467ca0d7068d79bed8a69918d3d0a89f34642380bda36",
+      "previousQueueSha256": "2b14454ce5d0602e697467ca0d7068d79bed8a69918d3d0a89f34642380bda36",
+      "features": 8,
+      "svgSha256": "438c92768ce5ce00b5df275d6c6538420b85e195318936c28acd91a92befad40"
+    },
+    {
+      "adcode": 621100,
+      "city": "定西",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/621100_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "76db9d4cdfec2d3f7b1f4cd2144c06486a8f1a8e5843f2bf63af058d342fd98e",
+      "previousQueueSha256": "76db9d4cdfec2d3f7b1f4cd2144c06486a8f1a8e5843f2bf63af058d342fd98e",
+      "features": 7,
+      "svgSha256": "e046b71bfc237da7d731dbcc3c0f12862f3621d077ca5608a99954085d856f5d"
+    },
+    {
+      "adcode": 621200,
+      "city": "陇南",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/621200_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "5b95eb3b6891bc5dacc1556adb848346ffd714689afc481b42cfb2b8ee0ff7dc",
+      "previousQueueSha256": "5b95eb3b6891bc5dacc1556adb848346ffd714689afc481b42cfb2b8ee0ff7dc",
+      "features": 9,
+      "svgSha256": "97be272dd05d6d7353ccedbebdbcc7da2efd365ee33e7df732c49e211cb172ea"
+    },
+    {
+      "adcode": 622900,
+      "city": "临夏州",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/622900_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "c48f95c30237ccdedbb301bd52d41b564d5617f23975c148d8f98c39e6368a2f",
+      "previousQueueSha256": "c48f95c30237ccdedbb301bd52d41b564d5617f23975c148d8f98c39e6368a2f",
+      "features": 8,
+      "svgSha256": "05793998794dbae6f3042389bf7f64dc24ac02b65a3f5fca225ba7fcf2bc8258"
+    },
+    {
+      "adcode": 623000,
+      "city": "甘南州",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/623000_full.json",
+      "checked": "2026-11-15",
+      "evidenceSha256": "719281047d6f617c97f6c17308779c0414fc5cac85038738062af31fdbfda1b7",
+      "previousQueueSha256": "719281047d6f617c97f6c17308779c0414fc5cac85038738062af31fdbfda1b7",
+      "features": 8,
+      "svgSha256": "7bb82ff551c3b2d0c05a3ed1065785a08ee9e871c3e68998d29ef20cab7f02cd"
     }
   ],
   "attributionMethod": "仅匹配同省同市卡片中明确出现的现有县名、district、districts；不由菜名、地图形状或父级产品推定县域。",
-  "attributedItems": 3431,
-  "unspecifiedItems": 1620
+  "attributedItems": 3664,
+  "unspecifiedItems": 1698
 }

@@ -21,3 +21,5 @@ python scripts/archive-research.py --batch YYYY-MM-DD-topic --source /path/to/so
 - [2026-11-15统一总览地图](2026-11-15-unified-overviews.json)：保留更新前的全国SVG原件；本次只更新可选省份与交互标记，路径几何逐项比对保持不变。原件仍在 `.local/overview-unification/`。
 
 - [江西、广西、广东扩充归档](2026-11-15-three-provinces.json)：3533个文件，包含独立知识、检索完整响应、行政原件、原网页响应、可读文本、基线和中间核对材料。引用的公告PDF原件继续由4000项历史归档保留；本地副本不等于异地备份。
+
+- [陕西、甘肃扩充归档](2026-11-15-shaanxi-gansu.json)：1111个文件，包含外搜前知识、438次逐地检索完整响应、定向搜索响应、行政原件、原文与提取文本、失败材料、5051项基线及中间核对稿。复用的原公告PDF继续保留在4000项历史归档。

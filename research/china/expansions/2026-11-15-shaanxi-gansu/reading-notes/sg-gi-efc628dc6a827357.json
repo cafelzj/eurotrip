@@ -1,0 +1,43 @@
+{
+  "id": "sg-gi-efc628dc6a827357",
+  "title": "地理标志产品公告 · 2014年第39号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "efc628dc6a8273578d1688b5cb740d760b8d27ad",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2014年第39号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC39%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "7a6edf387f3143512034e7a2651a51f0ccf04afa76f9d213610145b701434a05",
+    "textSha256": "e058417d5fd1f7099ede3fd8295d73c8aae09d5a50798e1db62f566c1630f775",
+    "textLength": 23271,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/efc628dc6a8273578d1688b5cb740d760b8d27ad.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/efc628dc6a8273578d1688b5cb740d760b8d27ad.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-02b8f425f051faec32",
+      "name": "庆阳苹果",
+      "scope": "庆阳苹果产地范围为甘肃省庆阳市西峰区董志镇、肖金镇、什社乡、显胜乡、温泉乡、后官寨乡,庆城县南庄乡、三十里铺镇、马岭镇、玄马乡、庆城镇、蔡庙乡、驿马镇、赤城乡、白马铺乡、桐川乡、高楼乡,宁县湘乐镇、新宁镇、平子镇、早胜镇、和盛镇、新庄镇、米桥乡、良平乡、中村乡、太昌乡、焦村乡、南义乡、瓦斜乡、盘克乡、春荣乡,正宁县三嘉乡、山河镇、榆林子镇、宫河镇、永和镇、西坡乡、五顷塬回族乡、永正乡、湫头乡、周家乡,合水县太莪乡、板桥乡、老城镇、西华池镇、吉岘乡、何家畔乡、店子乡、段家集乡、肖咀乡,镇原县城关镇、南川乡、郭原乡、庙渠乡、开边乡、屯字镇、上肖乡、新集乡、太平镇、临泾乡、孟坝镇、中原乡、平泉镇、新城乡,华池县怀安乡、五蛟乡、上里塬乡、王咀乡、柔远镇、悦乐镇、城壕乡,环县环城镇、木钵乡、曲子镇、合道乡、天池乡、樊家川乡、八蛛乡现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果肉致密、果形高桩、果色鲜红、蜡质层厚、酸甜适度、耐贮藏",
+      "process": "",
+      "sectionSha256": "27989af9fa5da1cb6c534e2b1f3af61e9f186d1beb1e6dd1b679b81545939d40"
+    },
+    {
+      "itemId": "sg-9749fd391efe2281d3",
+      "name": "庆阳香包",
+      "scope": "庆阳香包产地范围为甘肃省庆阳市西峰区董志镇、肖金镇、彭原乡、什社乡、显胜乡、温泉乡、后官寨乡,庆城县驿马镇、庆城镇、玄马镇、熊家庙乡、赤城乡、白马铺乡、桐川乡、太白粱乡、土桥乡、蔡口集乡、高楼乡,宁县新宁镇、平子镇、早胜镇、长庆桥镇、和盛镇、新庄镇、米桥乡、良平乡、中村乡、太昌乡、焦村乡、南义乡、瓦斜乡、金村乡、春荣乡,正宁县山河镇、榆林子镇、宫河镇、永和镇、月明乡、西坡乡、永正乡、周家乡、罗川乡、湫头乡、五顷塬回族乡、三嘉乡,合水县西华池镇、老城镇、吉岘乡、何家畔乡、定祥乡、板桥乡、柳沟乡、杨坪乡、蒿嘴铺乡、太白乡、店子乡,环县环城镇、曲子镇、甜水镇、天池乡、演武乡、合道乡、樊家川乡、四合原旅游办、秦团庄乡,华池县悦乐镇、柔远镇、元城镇、温台乡、城壕乡、定汉乡,镇原县城关镇、屯字镇、孟坝镇、三岔镇、平泉镇、开边镇、太平镇、临泾镇、南川乡、上肖乡现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "构思巧妙淳朴,造型丰富,刺绣精美,色彩艳丽,香味浓郁。2.",
+      "process": "",
+      "sectionSha256": "a2e9187b99746a57b76928e10b0da068141027f735492f42377c51f6681b8a1d"
+    }
+  ]
+}

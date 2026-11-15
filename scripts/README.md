@@ -41,3 +41,6 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 - `python scripts/update-china-province-map.py`：按现有风物省份配置更新全国SVG的可选地区，保留原行政路径几何。
 
 - `scripts/china-expansion-20261115/`：江西、广西、广东批次的采集、公告章节提取、类别审阅与固定采用稿重建。顺序及本地原件依赖见 [批次说明](../research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)。采用程序仅读取已审阅稿，不把实时搜索结果自动导入。
+
+- `scripts/shaanxi-gansu-20261115/`：陕西、甘肃批次的封存知识、行政登记、检索与原文取得、公告章节和固定编辑稿采用。见 [本批底稿](../research/china/expansions/2026-11-15-shaanxi-gansu/README.md)。两批采用程序均会拒绝覆盖后续批次。
+- `python tests/china-shaanxi-gansu.py` 与 `node tests/china-shaanxi-gansu.cjs`：核对旧5051项及来源、知识封存、逐地查询与原文指纹、地域／分类纠错，以及新两省的地图、视图、详情与嘉峪关全市范围。

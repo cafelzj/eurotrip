@@ -1,0 +1,43 @@
+{
+  "id": "sg-gi-66a8b5d9cbea8d32",
+  "title": "地理标志产品公告 · 2010年第95号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC95%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "66a8b5d9cbea8d32af7876f6cf9742b86a03af65",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第95号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC95%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "cb259c516abcbe140d2b21e989d45e2dbe7af719500fbe3ca59051e24ca8daac",
+    "textSha256": "3ae7fffbd2136c2a60cfcea876dc70dc71e70c47f96bfb63dfaf1316159a857e",
+    "textLength": 7476,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/66a8b5d9cbea8d32af7876f6cf9742b86a03af65.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/66a8b5d9cbea8d32af7876f6cf9742b86a03af65.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-73a5fa6a5d14c41790",
+      "name": "横山羊肉",
+      "scope": "横山羊肉地理标志产品保护范围为陕西省横山县横山镇、高镇镇、党岔镇、波罗镇、塔湾镇、石湾镇、武镇镇、响水镇、殿市镇、赵石畔镇、魏家楼乡、石窑沟乡、韩岔乡、艾好峁乡、双城乡、南塔乡、白界乡、雷龙湾乡、石马洼农场等19个乡镇、农场现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "肉质鲜嫩、肥瘦相间、无膻味,具有清香之味。(1)色泽:鲜羊肉:肌肉色泽鲜红或深红,有光泽;脂肪呈乳白色。冻羊肉:肌肉有光泽,色鲜艳;脂肪呈乳白色。(2)弹性(组织状态):鲜羊肉:肌纤维致密、坚实、有弹性、指压后的凹陷立即恢复。冻羊肉:肉质紧密,有坚实感,肌纤维韧性强。(3)粘度:鲜羊肉:外表微干或有风干膜、不粘手。冻羊肉:外表微干或有风干膜、或湿润,不粘手。(4)气味:鲜羊肉、冻羊肉:具有新鲜羊肉正常气味,无膻味。煮沸后肉汤透明澄清,脂肪团聚于液面,具有清香味",
+      "process": "",
+      "sectionSha256": "fedba44796ecd9ab0f3001ee3956951a0b15d28fbf11b7de75d7fc393c6f6917"
+    },
+    {
+      "itemId": "sg-27b289a5b1425e641c",
+      "name": "耀州瓷",
+      "scope": "耀州瓷地理标志产品保护范围为陕西省铜川市印台区陈炉镇,王益区黄堡镇,耀州区董家河镇、坡头镇、寺沟镇,铜川新区现辖行政区域。",
+      "type": "crafts",
+      "variety": "1.坯料:保护范围内瓷土资源配制,用量80%以上,选用原料执行国家标准的规定,特殊艺术瓷品种不做特别要求。2.釉料:保护范围内原生态黄土,Fe2O3含量要求在3.5%至4.6%之间,K2O、Na2O、CaO、MgO总含量18.5%以上,经水簸后使用",
+      "sensory": "采天之青,釉呈橄榄,青中泛绿,绿中闪黄,通体刻花,线条流畅,图案清晰",
+      "process": "技术。1.工艺流程:原料加工→成型→素烧→装饰→烧成2.原料加工:(1)坯泥:球磨或耙泥法,细度要求过180目筛。(2)釉料:球磨法,细度要求过250目筛。3.成型:(1)手拉坯成型:手工揉泥,泥料含水量要求20%至25%之间。(2)注浆成型手工装饰:泥浆含水量控制在30%左右,比重(密度)为1.4至1.5。4.素烧:强氧化焰焙烧,温度850°C至900°C。5.装饰:采用刻、划、剔、印、镂等。6.烧成:烧成温度1290°C至1310°C",
+      "sectionSha256": "6670b8c4eb023873e0f08fe14fa2dc40c0fd32b185926ce4512937251e828892"
+    }
+  ]
+}

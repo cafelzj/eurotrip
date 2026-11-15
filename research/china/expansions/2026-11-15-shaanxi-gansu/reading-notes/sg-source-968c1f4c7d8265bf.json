@@ -1,0 +1,21 @@
+{
+  "id": "sg-source-968c1f4c7d8265bf",
+  "title": "甘肃·庆阳非遗文化探寻游",
+  "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5031.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/shaanxi-gansu-20261115/articles/968c1f4c7d8265bf.raw",
+  "originalResponseSha256": "ad968388fc76c6b4dc994a1495698de2b9db3e5e40c7e27a97416e7686b26f21",
+  "readableFile": "research/.local/shaanxi-gansu-20261115/articles/968c1f4c7d8265bf.txt",
+  "readableSha256": "2454955dda3869151b76fdbcc40111e55f65b2b9050693df09d3a1f5f1a8e660",
+  "items": [
+    {
+      "itemId": "sg-3db58664c2997ead44",
+      "name": "庆阳饸饹面",
+      "initialCandidateId": "memory-96e81e6acf4795",
+      "adoptedFacts": "庆阳饸饹面属于当地米面风味。文化和旅游部线路将饸饹、手工面、鸡肉荞剁面等并列，体现陇东面食的多样性；不把同名面食套成统一配方。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

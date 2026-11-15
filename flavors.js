@@ -90,7 +90,7 @@ window.ChinaFlavorUI=(()=>{
  async function loadNationalMap(root){
   const host=root.querySelector('[data-china-national-map]'),request=new AbortController();nationalRequest=request;
   try{
-   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=three-provinces-5000-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
+   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=shaanxi-gansu-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
    if(request.signal.aborted||!host.isConnected)return;host.innerHTML=nationalMarkup;
    for(const link of host.querySelectorAll('[data-map-province]')){const id=link.dataset.mapProvince;link.setAttribute('href',url({...active,province:id,city:'all',county:'all',district:'all'}));link.classList.toggle('is-current',active.province===id);}
    for(const label of host.querySelectorAll('.province-labels text')){

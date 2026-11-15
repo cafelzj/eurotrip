@@ -5,7 +5,10 @@ def read(p):return json.loads(p.read_text())
 def save(p,v):p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def loadjs(p):s=p.read_text();return s[:s.index('{')],json.loads(s[s.index('{'):s.rfind(';')])
-prefix,cat=loadjs(R/'data/flavors.js');baseprefix,baseline=loadjs(L/'baseline-flavors.js');cat['items']=json.loads(json.dumps(baseline['items']));cat['sources']=json.loads(json.dumps(baseline['sources']))
+prefix,cat=loadjs(R/'data/flavors.js');baseprefix,baseline=loadjs(L/'baseline-flavors.js')
+allowed={x['id']for x in baseline['items']}|{d['itemId']for d in read(B/'adoption.json')['decisions']} if (B/'adoption.json').exists() else {x['id']for x in baseline['items']}
+assert not ({x['id']for x in cat['items']}-allowed),'Later batches are present; refusing to reset the live catalog.'
+cat['items']=json.loads(json.dumps(baseline['items']));cat['sources']=json.loads(json.dumps(baseline['sources']))
 source_audit=read(R/'research/flavors/sources.json');source_audit['sources']=[s for s in source_audit['sources'] if not s['id'].startswith('threeprov-')]
 provinces={p['id']:p['name'] for p in cat['provinces']};pn={v:k for k,v in provinces.items()};primary=read(L/'approved-primary.json');pdfs={p['id']:p for p in read(R/'research/.local/program-4000/github-gi/pdf-index.json')['results']};fetch=read(B/'source-fetch-index.json');sources={s['id']:s for s in fetch['sources']};source_used=collections.defaultdict(list);records=[];decisions=[];lookup={}
 sp=importlib.util.spec_from_file_location('explain',R/'scripts/china-expansion-20261115/render-regulatory-detail.py');mod=importlib.util.module_from_spec(sp);sp.loader.exec_module(mod)

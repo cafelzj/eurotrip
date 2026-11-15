@@ -1,0 +1,28 @@
+{
+  "id": "sg-source-0989cda033440248",
+  "title": "平凉沃土 农耕硕果寻访之旅",
+  "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/gansu/detail/2489.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/shaanxi-gansu-20261115/articles/0989cda033440248.raw",
+  "originalResponseSha256": "d6fc2f3cdf620b34c1d8af247f9184831ad631f499b30f81900a0989f834c39a",
+  "readableFile": "research/.local/shaanxi-gansu-20261115/articles/0989cda033440248.txt",
+  "readableSha256": "1218a2e99eb18a4a18fa7840c39b0fe9f36bf8d9d57f7bad98772f4f4d3080d3",
+  "items": [
+    {
+      "itemId": "sg-fdfaf97131124421ed",
+      "name": "静宁烧鸡",
+      "initialCandidateId": "memory-ac913af564c419",
+      "adoptedFacts": "静宁烧鸡是文化和旅游部平凉线路推荐的地方熟食。食品名称与地方归属有明确记录，不将同名烧鸡视为某一家店铺的专属产品。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    },
+    {
+      "itemId": "sg-15c3989d07f05f93b0",
+      "name": "泾川罐罐蒸馍",
+      "initialCandidateId": "memory-94bd4a11dcf904",
+      "adoptedFacts": "泾川罐罐蒸馍被列入平凉地方美食线路。它属于地方蒸制面食，初稿的菜肴分类予以纠正，具体器具与工艺继续据专题资料扩写。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

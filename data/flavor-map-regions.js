@@ -1103,5 +1103,113 @@ window.flavorMapRegions={
         "adcode": 445300
       }
     ]
+  },
+  "shaanxi": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "西安",
+        "adcode": 610100
+      },
+      {
+        "name": "铜川",
+        "adcode": 610200
+      },
+      {
+        "name": "宝鸡",
+        "adcode": 610300
+      },
+      {
+        "name": "咸阳",
+        "adcode": 610400
+      },
+      {
+        "name": "渭南",
+        "adcode": 610500
+      },
+      {
+        "name": "延安",
+        "adcode": 610600
+      },
+      {
+        "name": "汉中",
+        "adcode": 610700
+      },
+      {
+        "name": "榆林",
+        "adcode": 610800
+      },
+      {
+        "name": "安康",
+        "adcode": 610900
+      },
+      {
+        "name": "商洛",
+        "adcode": 611000
+      }
+    ]
+  },
+  "gansu": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "兰州",
+        "adcode": 620100
+      },
+      {
+        "name": "嘉峪关",
+        "adcode": 620200,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
+      },
+      {
+        "name": "金昌",
+        "adcode": 620300
+      },
+      {
+        "name": "白银",
+        "adcode": 620400
+      },
+      {
+        "name": "天水",
+        "adcode": 620500
+      },
+      {
+        "name": "武威",
+        "adcode": 620600
+      },
+      {
+        "name": "张掖",
+        "adcode": 620700
+      },
+      {
+        "name": "平凉",
+        "adcode": 620800
+      },
+      {
+        "name": "酒泉",
+        "adcode": 620900
+      },
+      {
+        "name": "庆阳",
+        "adcode": 621000
+      },
+      {
+        "name": "定西",
+        "adcode": 621100
+      },
+      {
+        "name": "陇南",
+        "adcode": 621200
+      },
+      {
+        "name": "临夏州",
+        "adcode": 622900
+      },
+      {
+        "name": "甘南州",
+        "adcode": 623000
+      }
+    ]
   }
 };

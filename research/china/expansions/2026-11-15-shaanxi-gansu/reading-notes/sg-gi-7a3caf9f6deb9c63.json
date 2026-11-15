@@ -1,0 +1,53 @@
+{
+  "id": "sg-gi-7a3caf9f6deb9c63",
+  "title": "地理标志产品公告 · 2013年第137号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "7a3caf9f6deb9c63395caa7d9ea3b7cca9636b5f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第137号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC137%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2ac5e0d802892fc06587b060aad672be7cb226d04c10ffc391139a10b53abeaf",
+    "textSha256": "c00a9dedcf28e41ae5d9ae5c13266e5ef5abe4729117360c0e2415e5de91ee1a",
+    "textLength": 7253,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/7a3caf9f6deb9c63395caa7d9ea3b7cca9636b5f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/7a3caf9f6deb9c63395caa7d9ea3b7cca9636b5f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-f525d39f124f9a3290",
+      "name": "泾阳茯砖茶",
+      "scope": "泾阳茯砖茶产地范围为陕西省泾阳县泾干镇、中张镇、三渠镇、永乐镇、桥底镇、云阳镇、崇文镇、王桥镇8个镇和安吴镇高村、甘泽堡村、姚家村、马甲村、西李庄村、东李庄村、中山村、茹家村、竹园张村、王家村、徐岩村11个行政村现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形规格整齐、匀整,色泽褐黄,金花显露,菌落饱满,分布均匀;香气纯正持久,陈香显露;汤色清澈,红浓明亮;滋味醇厚回甘,略显绵滑;叶底暗褐,较匀齐",
+      "process": "",
+      "sectionSha256": "df554bd2c4d15bde9293484b55c97db856c257a459e496949e3c122fcbe5de52"
+    },
+    {
+      "itemId": "sg-f08f3cd915fa8a21d9",
+      "name": "宜君核桃",
+      "scope": "宜君核桃产地范围为陕西省宜君县棋盘镇、云梦乡、哭泉乡、太安镇、城关镇、彭镇、五里镇、西村乡、尧生镇共9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "坚果充分成熟,壳面洁净,缝合线紧密,无露仁",
+      "process": "",
+      "sectionSha256": "8d4cf2d8ae18d5a7e7cf2d13485a81f090919b3b5a15a0d77bfd4e7279bd27a8"
+    },
+    {
+      "itemId": "sg-4080413265593f170e",
+      "name": "红川酒",
+      "scope": "红川酒产地范围为甘肃省成县红川镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "表面呈灰白色细丝且分布均称,皮薄,断面茬口齐整,有黄红心,菌丝分布均匀,繁殖生长旺盛,曲香味浓。三、酿造工艺1.窖池:用当地的红粘土筑成,窖龄全部在40年以上。2.大曲:采用符合本质量技术要求规定的制曲工艺所生产的大曲。3.发酵期:入池发酵≥75天,双轮底发酵≥150天。4.窖泥培养:以原始老窖泥为基础,传统窖泥培养。5.蒸粮发酵:采用采用续糟发酵,混蒸混烧,老六甑工艺,原料配比为高粱不少于50%,大米不超过20%,糯米、小麦、玉米分别不超过10%。6.断花摘酒,掐头去尾,分段(头、中、尾)量质摘取,按质并坛。7.基础原酒和调味原酒储存:基础原酒在陶坛中储存不少于一年,调味原酒在陶坛、酒海分别储存期不少于三年。8.禁止性要求:生产过程中不得添加食用酒精及非白酒发酵产生的呈香呈味物质。四、质量",
+      "process": "",
+      "sectionSha256": "953f92e8e0fa8da8a60d6e8e12f3d7ad28ebf2cc7405d8a33fe13e8de927b096"
+    }
+  ]
+}

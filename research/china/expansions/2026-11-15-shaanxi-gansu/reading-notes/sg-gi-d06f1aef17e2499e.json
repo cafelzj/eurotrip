@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-d06f1aef17e2499e",
+  "title": "地理标志产品公告 · 2008年第77号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "d06f1aef17e2499e3b45025b93d05ca5dd525e39",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第77号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "911e4d42d150900ff7a3de945c7bd324fe66db1dd72ca9f75ccff39ee7ceef9d",
+    "textSha256": "b20e40646357f61fa849015d21766b96351b1c5f45ec546f629a8ee8591df8f6",
+    "textLength": 11368,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/d06f1aef17e2499e3b45025b93d05ca5dd525e39.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/d06f1aef17e2499e3b45025b93d05ca5dd525e39.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-5c5f6f67d6a33d8dc3",
+      "name": "秦安蜜桃",
+      "scope": "秦安蜜桃地理标志产品保护范围以甘肃省秦安县人民政府《关于确定秦安蜜桃地理标志产品保护范围的建议函》(秦政函〔2007〕35号)提出的范围为准,为甘肃省秦安县兴国镇、西川镇、莲花镇、陇城镇、郭嘉镇、云山乡、刘坪乡、叶堡乡、安伏乡、魏店乡、王铺乡、王窑乡、千户乡、王尹乡、兴丰乡、中山乡、五营乡等17个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "春艳、麦香、仓方早生、沙红桃、北京七号、大久保、八月脆、红雪桃",
+      "sensory": "项目果形大小着色面积品种春艳果实圆形或近圆形单果重≥125g50%以上麦香果实近圆形单果重≥140g55%以上仓方早生果实圆形单果重≥200g60%以上沙红桃果实圆形或近圆形单果重≥200g60%以上北京七号果实卵圆形单果重≥200g60%以上大久保果实圆形或近圆形单果重≥200g60%以上八月脆果实近圆形或扁圆形单果重≥220g60%以上红雪桃果实近圆形单果重≥250g40%以上",
+      "process": "",
+      "sectionSha256": "f931bae34c4bb187e04684a8b7d35521f5a622b12986ff94449a89e357147d4d"
+    }
+  ]
+}

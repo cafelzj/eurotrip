@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-15",
+  "note": "搜索命中不是正文阅读；完整响应保留于本地。",
+  "batches": [
+    {
+      "id": 0,
+      "queries": [
+        "陕西 西安 铜川 宝鸡 咸阳 地方美食 特产 乳业",
+        "陕西 渭南 延安 汉中 榆林 特色美食 茶叶 特产",
+        "陕西 安康 商洛 特色食品 特产 茶叶",
+        "甘肃 兰州 嘉峪关 金昌 白银 地方美食 特产"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-000.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 1,
+      "queries": [
+        "甘肃 天水 武威 张掖 平凉 地方美食 特产",
+        "甘肃 酒泉 庆阳 定西 陇南 美食 特产",
+        "甘肃 临夏 甘南 酸奶 奶酪 特色美食",
+        "陕西 甘肃 地方乳业 银桥 庄园牧场 企业"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-001.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 2,
+      "queries": [
+        "西安 特色美食 特产 site:gov.cn",
+        "铜川 特色美食 特产 site:gov.cn",
+        "宝鸡 特色美食 特产 site:gov.cn",
+        "咸阳 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-002.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 3,
+      "queries": [
+        "渭南 特色美食 特产 site:gov.cn",
+        "延安 特色美食 特产 site:gov.cn",
+        "汉中 特色美食 特产 site:gov.cn",
+        "榆林 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-003.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 4,
+      "queries": [
+        "安康 特色美食 特产 site:gov.cn",
+        "商洛 特色美食 特产 site:gov.cn",
+        "兰州 特色美食 特产 site:gov.cn",
+        "嘉峪关 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-004.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 5,
+      "queries": [
+        "金昌 特色美食 特产 site:gov.cn",
+        "白银 特色美食 特产 site:gov.cn",
+        "天水 特色美食 特产 site:gov.cn",
+        "武威 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-005.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 6,
+      "queries": [
+        "张掖 特色美食 特产 site:gov.cn",
+        "平凉 特色美食 特产 site:gov.cn",
+        "酒泉 特色美食 特产 site:gov.cn",
+        "庆阳 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-006.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 7,
+      "queries": [
+        "定西 特色美食 特产 site:gov.cn",
+        "陇南 特色美食 特产 site:gov.cn",
+        "临夏 特色美食 特产 site:gov.cn",
+        "甘南 特色美食 特产 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-007.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 8,
+      "queries": [
+        "西安 银桥乳业 企业简介 地址",
+        "咸阳 百跃羊乳 御宝羊乳 企业 地址",
+        "甘肃 甘南 燎原乳业 酸奶 奶粉",
+        "陕西 西凤酒 岐山香醋 泾阳茯茶 官方"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-008.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 9,
+      "queries": [
+        "甘肃 庆阳香包 洮砚 铜川耀州瓷 天水雕漆 非遗",
+        "甘肃 金昌 羊肉垫卷子 卜拉子 美食",
+        "甘肃 嘉峪关 糊锅 烤肉 特色美食",
+        "甘肃 兰州 三泡台 甜醅子 灰豆子 非遗"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-009.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 10,
+      "queries": [
+        "冰峰 汽水 site:gov.cn",
+        "乾州锅盔 乾县 site:gov.cn",
+        "biangbiang 面 西安 site:gov.cn",
+        "西安 百跃 羊乳 阎良 site:gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-010.json",
+      "status": "searched-not-article-review"
+    },
+    {
+      "id": 11,
+      "queries": [
+        "西安 冰峰 三秦套餐 site:gov.cn",
+        "冰峰 老字号 西安 site:mofcom.gov.cn"
+      ],
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-011.json",
+      "status": "searched-not-article-review"
+    }
+  ]
+}

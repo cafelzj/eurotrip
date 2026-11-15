@@ -1,0 +1,1540 @@
+{
+  "date": "2026-11-15",
+  "sealedAt": "2026-11-15T08:53:13.265760+00:00",
+  "stage": "before-external-food-search",
+  "externalSearchPerformed": false,
+  "candidates": [
+    {
+      "id": "memory-6fa9592ccf2f5c",
+      "province": "陕西",
+      "city": "西安",
+      "name": "肉夹馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-c0b3df6a6c0959",
+      "province": "陕西",
+      "city": "西安",
+      "name": "羊肉泡馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-dc73791d3ea1db",
+      "province": "陕西",
+      "city": "西安",
+      "name": "凉皮",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4041a847127955",
+      "province": "陕西",
+      "city": "西安",
+      "name": "biangbiang面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-9de1af12996ca7",
+      "province": "陕西",
+      "city": "西安",
+      "name": "甑糕",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-32aa08c9543ed5",
+      "province": "陕西",
+      "city": "西安",
+      "name": "葫芦头泡馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-7ff6c56e1041a5",
+      "province": "陕西",
+      "city": "西安",
+      "name": "葫芦鸡",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-148e37aff7759b",
+      "province": "陕西",
+      "city": "西安",
+      "name": "冰峰汽水",
+      "type": "drinks",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4127071787116a",
+      "province": "陕西",
+      "city": "西安",
+      "name": "银桥乳业",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d2d01502bda29e",
+      "province": "陕西",
+      "city": "西安",
+      "name": "临潼石榴",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-a13d28b84f4e26",
+      "province": "陕西",
+      "city": "铜川",
+      "name": "耀州花椒",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-bc6712859e6ec8",
+      "province": "陕西",
+      "city": "铜川",
+      "name": "铜川大樱桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-2bfefb2289e06e",
+      "province": "陕西",
+      "city": "铜川",
+      "name": "宜君核桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d7df554260bea8",
+      "province": "陕西",
+      "city": "铜川",
+      "name": "耀州瓷",
+      "type": "crafts",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-ac44a4464e61e9",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "岐山臊子面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-3a7329601e5602",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "擀面皮",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-83f51a94c964af",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "豆花泡馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4b89f669575f20",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "岐山香醋",
+      "type": "seasoning",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d05c2c121ce7b3",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "西凤酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-be4eb716483632",
+      "province": "陕西",
+      "city": "宝鸡",
+      "name": "腊驴肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-6cef6b1931fe53",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "乾州锅盔",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-646d954b8d3bf0",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "三原蓼花糖",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-da900c308c0281",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "礼泉烙面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d44ab73b1d2ccf",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "泾阳茯砖茶",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-0cab73bf272369",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "御宝羊乳",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-3e748ab9891507",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "百跃羊乳",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-de352227cb333b",
+      "province": "陕西",
+      "city": "咸阳",
+      "name": "礼泉苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-8f561ba93cc612",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "大荔带把肘子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-cada35faa626eb",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "富平琼锅糖",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-23964f7ae9336e",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "蒲城椽头馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-284bc9aa245408",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "富平柿饼",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-645db960884514",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "韩城大红袍花椒",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-478f3fed2a54f0",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "大荔冬枣",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-83511dd5c89ccc",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "白水苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-8394b4e0e892e0",
+      "province": "陕西",
+      "city": "渭南",
+      "name": "潼关酱笋",
+      "type": "crafts",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-9f49bf7b43ea41",
+      "province": "陕西",
+      "city": "延安",
+      "name": "洛川苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-562c17290d2673",
+      "province": "陕西",
+      "city": "延安",
+      "name": "延安小米",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-9e119df88c56a4",
+      "province": "陕西",
+      "city": "延安",
+      "name": "延川红枣",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-51640bdd086b72",
+      "province": "陕西",
+      "city": "延安",
+      "name": "子长煎饼",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1c0df3948e16b4",
+      "province": "陕西",
+      "city": "延安",
+      "name": "黄馍馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-c96ea318ddbf0b",
+      "province": "陕西",
+      "city": "延安",
+      "name": "延安酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-5d3bb245b82e33",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "汉中热米皮",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-7243c90e908f96",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "菜豆腐",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f08c675c0a7975",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "核桃馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-c8397416a0b88f",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "汉中仙毫",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-2c9c2fb7b968bf",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "午子仙毫",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-053a4b7ed1938e",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "城固柑橘",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-dc80dd403675b4",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "西乡樱桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-e63ed75837a374",
+      "province": "陕西",
+      "city": "汉中",
+      "name": "洋县黑米酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-be48775c540093",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "绥德油旋",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-16c9c840db6aae",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "拼三鲜",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-5ce4fc0dc7e980",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "米脂驴板肠",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-8a8a99aeb3b8c2",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "定边羊羔肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4065b643f95bd8",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "米脂小米",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-02c3dfbc48dd59",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "横山羊肉",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-53d6166d0bc306",
+      "province": "陕西",
+      "city": "榆林",
+      "name": "佳县红枣",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-168b5a30a106b8",
+      "province": "陕西",
+      "city": "安康",
+      "name": "紫阳富硒茶",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-31208c19755f68",
+      "province": "陕西",
+      "city": "安康",
+      "name": "平利绞股蓝",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-73149382e7ae15",
+      "province": "陕西",
+      "city": "安康",
+      "name": "蒸面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-151992f0d42677",
+      "province": "陕西",
+      "city": "安康",
+      "name": "炕炕馍",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-57089496917469",
+      "province": "陕西",
+      "city": "安康",
+      "name": "石泉鬼谷子腊肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-3585ab10fe21f0",
+      "province": "陕西",
+      "city": "安康",
+      "name": "安康蒟蒻",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1484a9e128ec1e",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "商洛核桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-147703d84fe654",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "镇安板栗",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-08393608c45a3f",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "柞水木耳",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-a540c3511257ea",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "丹凤葡萄",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-0b9bd61edff48e",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "丹凤葡萄酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-755949ca132da1",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "洋芋糍粑",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-169f2489882519",
+      "province": "陕西",
+      "city": "商洛",
+      "name": "商芝肉",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f4d19bfb56d231",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "兰州牛肉面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d7b610cf50eacd",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "酿皮子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f8537e2e293b71",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "灰豆子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-8bf9416b4f25b2",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "甜醅子",
+      "type": "drinks",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-c497c563dcef51",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "三泡台",
+      "type": "drinks",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-55fe0c690637c8",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "百合炒肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-b149ffa9b529c7",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "兰州百合",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-a387402b0a611e",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "兰州白兰瓜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-37efc581545855",
+      "province": "甘肃",
+      "city": "兰州",
+      "name": "庄园牧场",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-37a3e772a0d72b",
+      "province": "甘肃",
+      "city": "嘉峪关",
+      "name": "嘉峪关烤肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-646953aa3aed28",
+      "province": "甘肃",
+      "city": "嘉峪关",
+      "name": "搓鱼面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-9229f382f4af89",
+      "province": "甘肃",
+      "city": "嘉峪关",
+      "name": "糊锅",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-ec0ed29c24c0c0",
+      "province": "甘肃",
+      "city": "嘉峪关",
+      "name": "嘉峪关洋葱",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-178124febfd4e0",
+      "province": "甘肃",
+      "city": "金昌",
+      "name": "永昌卜拉子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-e6b3969843659f",
+      "province": "甘肃",
+      "city": "金昌",
+      "name": "羊肉垫卷子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-e5094239a8cef9",
+      "province": "甘肃",
+      "city": "金昌",
+      "name": "永昌胡萝卜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-c7c4d330d93c9f",
+      "province": "甘肃",
+      "city": "金昌",
+      "name": "永昌三角城羊肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-0c7f883ca61514",
+      "province": "甘肃",
+      "city": "白银",
+      "name": "靖远羊羔肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-209d0e9828a214",
+      "province": "甘肃",
+      "city": "白银",
+      "name": "景泰枸杞",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4f0d24a5d65ba5",
+      "province": "甘肃",
+      "city": "白银",
+      "name": "会宁小杂粮",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-3b53ec5c79b097",
+      "province": "甘肃",
+      "city": "白银",
+      "name": "靖远旱砂西瓜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-815bd9d36457e7",
+      "province": "甘肃",
+      "city": "白银",
+      "name": "会宁扁食",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-ddd8144948b66d",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "天水呱呱",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-7e804cda4f3efb",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "天水浆水面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-2c28984a105975",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "天水杂烩",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-b048b8f52562c7",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "秦安肚丝汤",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-413c9f2ede58df",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "秦安蜜桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-431c0ad253da0f",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "花牛苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f69e8a180f18b6",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "甘谷辣椒",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-57279d2d2cc24a",
+      "province": "甘肃",
+      "city": "天水",
+      "name": "天水雕漆",
+      "type": "crafts",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-eb75f3636d8496",
+      "province": "甘肃",
+      "city": "武威",
+      "name": "凉州三套车",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-7858d7d945ef46",
+      "province": "甘肃",
+      "city": "武威",
+      "name": "民勤沙米凉粉",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-96178f9743220d",
+      "province": "甘肃",
+      "city": "武威",
+      "name": "武威葡萄酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1a8f1f0adfb3d2",
+      "province": "甘肃",
+      "city": "武威",
+      "name": "民勤蜜瓜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-a6b1de5c9f66f2",
+      "province": "甘肃",
+      "city": "武威",
+      "name": "天祝白牦牛乳",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-a8fdd04e653583",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "搓鱼面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-5c38a9ef6f5969",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "炒炮",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-15f1c5069b90aa",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "臊面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-683ece97e62271",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "高台黑番茄",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-bd3c2df31a0b57",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "民乐紫皮大蒜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-bc60c5fa65a055",
+      "province": "甘肃",
+      "city": "张掖",
+      "name": "山丹羊肉",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-ac913af564c419",
+      "province": "甘肃",
+      "city": "平凉",
+      "name": "静宁烧鸡",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-94bd4a11dcf904",
+      "province": "甘肃",
+      "city": "平凉",
+      "name": "罐罐蒸馍",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4d15ea36ec238e",
+      "province": "甘肃",
+      "city": "平凉",
+      "name": "静宁苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-022fdd18aa5088",
+      "province": "甘肃",
+      "city": "平凉",
+      "name": "华亭核桃",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-3d2d4464082a63",
+      "province": "甘肃",
+      "city": "平凉",
+      "name": "平凉饸饹面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f48470f5da7a43",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "敦煌驴肉黄面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-329931c702861c",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "敦煌酿皮",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-ac52b16d271683",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "金塔羊肉粉汤",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-015e8258aa9117",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "敦煌李广杏",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-f00dd812c993a9",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "瓜州蜜瓜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-646f6e01226b51",
+      "province": "甘肃",
+      "city": "酒泉",
+      "name": "酒泉酒",
+      "type": "alcohol",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-59830e8ff9f1c0",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "庆阳苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-16f27dd8b2cc73",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "庆阳黄花菜",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-94e45f8e3d117e",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "环县羊肉",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-96e81e6acf4795",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "庆阳饸饹面",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-0c51c5e4c05b6a",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "环县荞面油圈圈",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-232a4c3220b4aa",
+      "province": "甘肃",
+      "city": "庆阳",
+      "name": "庆阳香包",
+      "type": "crafts",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-e0de6a88b46d27",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "定西马铃薯",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-2906c14a71de98",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "临洮百合",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-46fcf0d9142f1d",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "陇西钱肉",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-03c472b4d48651",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "陇西腊肉",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-4acdd395bd4c38",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "洋芋搅团",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-b142c005e96e7b",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "通渭荞圈圈",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-6a313ca65e06cc",
+      "province": "甘肃",
+      "city": "定西",
+      "name": "岷县洮砚",
+      "type": "crafts",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-10a7ef0a66b20f",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "武都花椒",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-177dc56f6f2b31",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "武都油橄榄",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-38e7a17180b412",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "康县黑木耳",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1159c73085978a",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "徽县银杏",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-d04e399c489313",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "礼县苹果",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-da0b55ca975d4f",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "文县绿茶",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1977fd208e1962",
+      "province": "甘肃",
+      "city": "陇南",
+      "name": "康县龙神茶",
+      "type": "tea",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-726305025299f2",
+      "province": "甘肃",
+      "city": "临夏",
+      "name": "河州手抓羊肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-0dcec5d00a6a19",
+      "province": "甘肃",
+      "city": "临夏",
+      "name": "东乡手抓羊肉",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-017636dd13d618",
+      "province": "甘肃",
+      "city": "临夏",
+      "name": "河州包子",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-6be1e6e68e1828",
+      "province": "甘肃",
+      "city": "临夏",
+      "name": "油炸馃馃",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-e9ef329d441923",
+      "province": "甘肃",
+      "city": "临夏",
+      "name": "临夏牛羊肉",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-20577a7f3d64b2",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "牦牛酸奶",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-9cc91b46a9793e",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "牦牛奶酪",
+      "type": "dairy",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-21b731a86f122d",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "酥油茶",
+      "type": "drinks",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-b3c380c2d5507b",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "糌粑",
+      "type": "staples",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-6e5e92506727b2",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "甘加羊",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-1586703b979049",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "蕨麻",
+      "type": "ingredients",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    },
+    {
+      "id": "memory-52bf8490dace90",
+      "province": "甘肃",
+      "city": "甘南",
+      "name": "藏包",
+      "type": "dishes",
+      "county": null,
+      "status": "unverified-memory-candidate",
+      "note": "独立回忆候选，地名、类别、原料与食品用途均须外部核对；不自动分配给下辖县区。"
+    }
+  ],
+  "cities": 24,
+  "gaps": "未能可靠回忆的县区与品类在行政目录形成后逐项登记缺口；不从父级条目填充。"
+}

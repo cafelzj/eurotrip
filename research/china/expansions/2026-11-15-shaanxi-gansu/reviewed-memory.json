@@ -1,0 +1,983 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "candidateIndex": 0,
+      "candidateId": "memory-6fa9592ccf2f5c",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "肉夹馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-7d6dc849d3fc01b6"
+      ],
+      "description": "肉夹馍是西安有代表性的地方餐食。",
+      "detail": "肉夹馍是西安有代表性的地方餐食。市级非遗名录记录腊汁肉夹馍等相关制作技艺，反映了馍与肉食结合的饮食传统；具体品牌、肉类和馍的形态仍分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 1,
+      "candidateId": "memory-c0b3df6a6c0959",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "羊肉泡馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-7d6dc849d3fc01b6"
+      ],
+      "description": "羊肉泡馍属于西安泡馍类食品。",
+      "detail": "羊肉泡馍属于西安泡馍类食品。当地非遗名录记录了牛羊肉泡馍制作技艺，认识时可以从馍与肉汤结合的形式入手，门店的汤底和配料并非统一不变。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 2,
+      "candidateId": "memory-dc73791d3ea1db",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "凉皮",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-6150279a356b0ca4"
+      ],
+      "description": "陕西凉皮是关中地方米面风味。",
+      "detail": "陕西凉皮是关中地方米面风味。文化和旅游部将其列入西安、咸阳相关的寻味线路，与泡馍、肉夹馍等并列，体现同一地区多样的面皮和凉食传统。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 3,
+      "candidateId": "memory-4041a847127955",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "biangbiang面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-9a5ac5e7ceeb4bbe"
+      ],
+      "description": "Biangbiang面是西安地方特色面食。",
+      "detail": "Biangbiang面是西安地方特色面食。西安有关丝路食品贸易的报道明确记录当地制作这种面食，国家地方标准平台也有对应的制作规程，名称不是一个餐馆商标。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 5,
+      "candidateId": "memory-32aa08c9543ed5",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "葫芦头泡馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-7d6dc849d3fc01b6"
+      ],
+      "description": "葫芦头泡馍是西安地方泡馍风味。",
+      "detail": "葫芦头泡馍是西安地方泡馍风味。市级非遗资料列有春发生葫芦头泡馍系列制作技艺，食品类别与老字号品牌分开记录，具体工艺继续据专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 6,
+      "candidateId": "memory-7ff6c56e1041a5",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "葫芦鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-6150279a356b0ca4"
+      ],
+      "description": "葫芦鸡出现在关中寻味线路的特色食品推荐中。",
+      "detail": "葫芦鸡出现在关中寻味线路的特色食品推荐中。这里按西安相关的关中地方菜记录，与其他地区共享的菜类一样，市域收录不代表起源或制作方式独占。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 7,
+      "candidateId": "memory-148e37aff7759b",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "冰峰汽水",
+      "type": "drinks",
+      "sourceIds": [
+        "sg-source-4fea0b20dc879d45",
+        "sg-source-2ea0431d70c7f00e"
+      ],
+      "description": "冰峰汽水与西安地方饮食相连。",
+      "detail": "冰峰汽水与西安地方饮食相连。证监会陕西监管局公开的辅导备案报告记载公司主营瓶装、罐装橙味汽水及酸梅汤，地方饮食报道也将冰峰与凉皮、肉夹馍并称“三秦套餐”。品牌与具体产品分别记录，历史披露不作为当前经营状态的保证。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 8,
+      "candidateId": "memory-4127071787116a",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "银桥乳业",
+      "type": "dairy",
+      "sourceIds": [
+        "sg-source-08e78e42872e614a"
+      ],
+      "description": "银桥乳业官网列有牛奶粉、羊奶粉、常温乳品和低温乳品等产品，并列明西安市临潼区地址。",
+      "detail": "银桥乳业官网列有牛奶粉、羊奶粉、常温乳品和低温乳品等产品，并列明西安市临潼区地址。卡片记录地方乳业与品牌，不把不同乳品的奶源、加工厂和配料混为一个概念。",
+      "locality": "临潼区",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 14,
+      "candidateId": "memory-ac44a4464e61e9",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "name": "岐山臊子面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-05982341d3c1affc"
+      ],
+      "description": "岐山臊子面是宝鸡地方面食的代表之一。",
+      "detail": "岐山臊子面是宝鸡地方面食的代表之一。宝鸡商务部门把它与擀面皮作为传统美食品牌共同培育，具体餐馆品牌与面食品类分别保留。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 15,
+      "candidateId": "memory-3a7329601e5602",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "name": "擀面皮",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-05982341d3c1affc"
+      ],
+      "description": "宝鸡擀面皮与西府地方饮食相连。",
+      "detail": "宝鸡擀面皮与西府地方饮食相连。商务部门资料记录了围绕这类传统美食形成的生产与门店品牌，预包装产品和现做小吃仍应分别认识。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 16,
+      "candidateId": "memory-83f51a94c964af",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "name": "凤翔豆花泡馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-41393bda3aab4805"
+      ],
+      "description": "凤翔豆花泡馍在宝鸡官方地方食品展销报道中有明确记录。",
+      "detail": "凤翔豆花泡馍在宝鸡官方地方食品展销报道中有明确记录。它属于豆花与馍食相关的地方餐食，与羊肉泡馍等不同食物不因同含“泡馍”就合并为一类。",
+      "locality": "",
+      "aliases": [
+        "豆花泡馍"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 17,
+      "candidateId": "memory-4b89f669575f20",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "name": "岐山香醋",
+      "type": "seasoning",
+      "sourceIds": [
+        "sg-source-a757b319ffeb3502"
+      ],
+      "description": "岐山香醋在宝鸡美食介绍中与臊子肉等搭配出现，报道以酸中回甘描述其调味特点。",
+      "detail": "岐山香醋在宝鸡美食介绍中与臊子肉等搭配出现，报道以酸中回甘描述其调味特点。作为地方调味品记录，具体品牌、酿造要求及酸度以对应产品资料为准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 18,
+      "candidateId": "memory-d05c2c121ce7b3",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "name": "西凤酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sg-source-41393bda3aab4805"
+      ],
+      "description": "西凤酒是与宝鸡地方酿酒传统相连的酒类品牌。",
+      "detail": "西凤酒是与宝鸡地方酿酒传统相连的酒类品牌。官方展销报道记录了其凤香特点，卡片区分品牌与不同系列、度数，不沿用宣传中的绝对评价。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 20,
+      "candidateId": "memory-6cef6b1931fe53",
+      "province": "shaanxi",
+      "city": "咸阳",
+      "name": "乾县锅盔",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-6150279a356b0ca4"
+      ],
+      "description": "乾县锅盔被文化和旅游部列入关中地方美食。",
+      "detail": "乾县锅盔被文化和旅游部列入关中地方美食。初稿使用“乾州锅盔”的名称，本条以已读取来源的“乾县锅盔”登记；具体烙制工艺和地方称谓继续补充。",
+      "locality": "",
+      "aliases": [
+        "乾州锅盔"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 22,
+      "candidateId": "memory-da900c308c0281",
+      "province": "shaanxi",
+      "city": "咸阳",
+      "name": "礼泉烙面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-72f1957b646fc98a"
+      ],
+      "description": "礼泉烙面是咸阳乡村旅游线路推荐的地方面食。",
+      "detail": "礼泉烙面是咸阳乡村旅游线路推荐的地方面食。原文将其与泾阳让饸、兴平醪糟等并列，记录市域中不同县区的餐食差异。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 25,
+      "candidateId": "memory-3e748ab9891507",
+      "province": "shaanxi",
+      "city": "西安",
+      "name": "百跃羊乳",
+      "type": "dairy",
+      "sourceIds": [
+        "sg-source-58766f560bc082ce"
+      ],
+      "description": "百跃羊乳与西安阎良地方乳业相连。",
+      "detail": "百跃羊乳与西安阎良地方乳业相连。西安市农业农村局报道明确记载阎良区百跃羊乳集团将羊奶加工为奶粉，本次据原文纠正初稿中的咸阳归属；乳品企业与具体配方乳粉产品分别记录。",
+      "locality": "阎良区",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 38,
+      "candidateId": "memory-51640bdd086b72",
+      "province": "shaanxi",
+      "city": "延安",
+      "name": "子长煎饼",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-466cd94a31134a29"
+      ],
+      "description": "子长煎饼是延安地方小吃，已有相应地方标准条目。",
+      "detail": "子长煎饼是延安地方小吃，已有相应地方标准条目。卡片保留食品名称与地方技艺的联系，不仅依据标准题名推断具体原料比例。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 39,
+      "candidateId": "memory-1c0df3948e16b4",
+      "province": "shaanxi",
+      "city": "延安",
+      "name": "黄馍馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-a032bc197aa0da84"
+      ],
+      "description": "黄馍馍在文化和旅游部延安线路中被明确列为当地风味。",
+      "detail": "黄馍馍在文化和旅游部延安线路中被明确列为当地风味。它与子长煎饼、荞面饸饹等一起，呈现陕北多样的米面食品。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 41,
+      "candidateId": "memory-5d3bb245b82e33",
+      "province": "shaanxi",
+      "city": "汉中",
+      "name": "汉中热面皮",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-a990d5483892c907"
+      ],
+      "description": "汉中面皮是地方早餐与餐食的重要组成。",
+      "detail": "汉中面皮是地方早餐与餐食的重要组成。地方报道记录了从手工制皮到包装销售的发展过程，文旅线路也列有热面皮；新鲜热食与预包装产品分开认识。",
+      "locality": "",
+      "aliases": [
+        "汉中热米皮"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 42,
+      "candidateId": "memory-7243c90e908f96",
+      "province": "shaanxi",
+      "city": "汉中",
+      "name": "菜豆腐",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-0353ff988684257f"
+      ],
+      "description": "菜豆腐被文化和旅游部汉中线路列为地方美食。",
+      "detail": "菜豆腐被文化和旅游部汉中线路列为地方美食。它属于豆制餐食，初稿的面食分类予以纠正；与热面皮、核桃馍一起构成当地日常饮食线索。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 43,
+      "candidateId": "memory-f08c675c0a7975",
+      "province": "shaanxi",
+      "city": "汉中",
+      "name": "核桃馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-0353ff988684257f"
+      ],
+      "description": "核桃馍是汉中旅游线路推荐的地方馍食。",
+      "detail": "核桃馍是汉中旅游线路推荐的地方馍食。原文将其与菜豆腐、热面皮等并列，卡片确认地方食品身份，具体用料与烙制方式仍待专题补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 49,
+      "candidateId": "memory-be48775c540093",
+      "province": "shaanxi",
+      "city": "榆林",
+      "name": "绥德油旋",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-7d8014be399fc928"
+      ],
+      "description": "绥德油旋是榆林年俗非遗线路推荐的地方面点。",
+      "detail": "绥德油旋是榆林年俗非遗线路推荐的地方面点。它与空心挂面、炉馍等一起，反映陕北面食的不同形态，品牌和现售门店不作为食品本身的身份。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 50,
+      "candidateId": "memory-16c9c840db6aae",
+      "province": "shaanxi",
+      "city": "榆林",
+      "name": "拼三鲜",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-7d8014be399fc928"
+      ],
+      "description": "拼三鲜是榆林地方餐食，文旅线路把它与羊杂碎、陕北八碗等并列。",
+      "detail": "拼三鲜是榆林地方餐食，文旅线路把它与羊杂碎、陕北八碗等并列。它应归入菜肴类，纠正初稿的面食分类；具体“三鲜”组成继续按专题核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 58,
+      "candidateId": "memory-73149382e7ae15",
+      "province": "shaanxi",
+      "city": "安康",
+      "name": "蒸面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-66201855358d60e0"
+      ],
+      "description": "安康蒸面是米浆蒸成薄皮的地方餐食。",
+      "detail": "安康蒸面是米浆蒸成薄皮的地方餐食。市政府介绍其筋道、爽滑的质地，以及豆芽、芹菜、醋汤、芝麻酱和油泼辣子等搭配，体现当地早餐风味。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 59,
+      "candidateId": "memory-151992f0d42677",
+      "province": "shaanxi",
+      "city": "安康",
+      "name": "汉阴炕炕馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-66201855358d60e0"
+      ],
+      "description": "汉阴炕炕馍与安康地方烙烤米面传统相连。",
+      "detail": "汉阴炕炕馍与安康地方烙烤米面传统相连。官方美食介绍记载其两面铺芝麻、带椒盐香气，质地酥脆，食品地域与具体经营门店分开保留。",
+      "locality": "",
+      "aliases": [
+        "炕炕馍"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 66,
+      "candidateId": "memory-0b9bd61edff48e",
+      "province": "shaanxi",
+      "city": "商洛",
+      "name": "丹凤葡萄酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sg-source-25cfde46dc985bd2"
+      ],
+      "description": "丹凤葡萄酒被文化和旅游部商洛线路列入地方食品系列。",
+      "detail": "丹凤葡萄酒被文化和旅游部商洛线路列入地方食品系列。葡萄酒与丹凤鲜葡萄食材分开归类，具体酒庄、葡萄品种和酒精度以产品及工艺资料为准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 67,
+      "candidateId": "memory-755949ca132da1",
+      "province": "shaanxi",
+      "city": "商洛",
+      "name": "洋芋糍粑",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-25cfde46dc985bd2"
+      ],
+      "description": "洋芋糍粑是商洛地方线路推荐的薯类餐食。",
+      "detail": "洋芋糍粑是商洛地方线路推荐的薯类餐食。原文将其列在柞水相关食品中，与板栗炖土鸡等一起展现秦岭山地风味，具体舂制与配料方式仍待补充。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 68,
+      "candidateId": "memory-169f2489882519",
+      "province": "shaanxi",
+      "city": "商洛",
+      "name": "商芝肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-25cfde46dc985bd2"
+      ],
+      "description": "商芝肉是商洛文旅线路推荐的丹凤地方菜。",
+      "detail": "商芝肉是商洛文旅线路推荐的丹凤地方菜。它属于菜肴而不是面食，本次纠正初稿类别；不由菜名单独推断植物品种和固定配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 69,
+      "candidateId": "memory-f4d19bfb56d231",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "兰州牛肉面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-0755fbb7abf057ae"
+      ],
+      "description": "兰州牛肉面以清汤、萝卜、辣油、香菜蒜苗和面条的组合呈现地方风味。",
+      "detail": "兰州牛肉面以清汤、萝卜、辣油、香菜蒜苗和面条的组合呈现地方风味。官方文旅介绍记录了“一清二白三红四绿五黄”和毛细、二细、韭叶子等面型，反映一碗面里的制作与选择差异。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 70,
+      "candidateId": "memory-d7b610cf50eacd",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "酿皮子",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-0755fbb7abf057ae"
+      ],
+      "description": "酿皮子是兰州地方小吃之一。",
+      "detail": "酿皮子是兰州地方小吃之一。官方文旅介绍将其与甜醅子、灰豆子等并列推荐，卡片记录地方食品类别，具体原料与调味按专题继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 71,
+      "candidateId": "memory-f8537e2e293b71",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "灰豆子",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-0755fbb7abf057ae"
+      ],
+      "description": "灰豆子被列入兰州地方食品推荐。",
+      "detail": "灰豆子被列入兰州地方食品推荐。它是与当地小吃文化相连的甜食线索，现有已读介绍未给出完整制作过程，保留名称和地方关联，说明继续扩写。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 72,
+      "candidateId": "memory-8bf9416b4f25b2",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "甜醅子",
+      "type": "drinks",
+      "sourceIds": [
+        "sg-source-0755fbb7abf057ae"
+      ],
+      "description": "甜醅子与兰州及西北地区的饮食传统相连。",
+      "detail": "甜醅子与兰州及西北地区的饮食传统相连。官方文旅介绍将其列为兰州特色食品，具体谷物原料、发酵与饮用形式仍须分别核对，不把它自动等同于某一款奶茶。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 73,
+      "candidateId": "memory-c497c563dcef51",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "三泡台",
+      "type": "drinks",
+      "sourceIds": [
+        "sg-source-0755fbb7abf057ae"
+      ],
+      "description": "三泡台是兰州文旅介绍中出现的地方茶饮。",
+      "detail": "三泡台是兰州文旅介绍中出现的地方茶饮。原文记录了黄河沿岸饮茶的日常场景，茶饮类别与具体茶叶、配料组合分开整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 77,
+      "candidateId": "memory-37efc581545855",
+      "province": "gansu",
+      "city": "兰州",
+      "name": "庄园牧场",
+      "type": "dairy",
+      "sourceIds": [
+        "sg-source-d631bb4e8f98325d"
+      ],
+      "description": "庄园牧场与兰州地方乳业相连。",
+      "detail": "庄园牧场与兰州地方乳业相连。2025年年度报告列有兰州注册地址，记载奶牛养殖、乳品生产、低温与常温产品等业务。品牌、公司主体、具体奶源和加工厂分别看待，经营信息以相应披露时点为准。",
+      "locality": "榆中县",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 78,
+      "candidateId": "memory-37a3e772a0d72b",
+      "province": "gansu",
+      "city": "嘉峪关",
+      "name": "嘉峪关烤肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-407900ebf68aa7d9"
+      ],
+      "description": "嘉峪关烤肉是当地有代表性的餐饮风味。",
+      "detail": "嘉峪关烤肉是当地有代表性的餐饮风味。央广报道记录了烤肉文化活动、地方美食街与非遗关联，卡片保留食品与地域的联系，不把活动期间消费数据写成长期事实。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 80,
+      "candidateId": "memory-9229f382f4af89",
+      "province": "gansu",
+      "city": "嘉峪关",
+      "name": "糊锅",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-3d857ec78b17b59b"
+      ],
+      "description": "嘉峪关糊锅制作技艺已被当地政府列入市级非遗名录。",
+      "detail": "嘉峪关糊锅制作技艺已被当地政府列入市级非遗名录。原文支持名称和传统技艺身份，具体主料与制作方式继续查阅专题资料，功能区不作为县区加入。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 83,
+      "candidateId": "memory-e6b3969843659f",
+      "province": "gansu",
+      "city": "金昌",
+      "name": "羊肉垫卷子",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-38232e0d202c271e"
+      ],
+      "description": "羊肉垫卷子是金昌地方肉食与面食结合的餐食。",
+      "detail": "羊肉垫卷子是金昌地方肉食与面食结合的餐食。地方介绍以羊羔肉为主料，加入面卷共同烹调，肉汤与面卷相互融合，分类归入地方餐食而非单一粮食品种。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 91,
+      "candidateId": "memory-ddd8144948b66d",
+      "province": "gansu",
+      "city": "天水",
+      "name": "天水呱呱",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-7eb5d6f610615ac6"
+      ],
+      "description": "天水呱呱是以荞麦制作的地方小吃。",
+      "detail": "天水呱呱是以荞麦制作的地方小吃。甘肃官方非遗美食报道描述其配调料后香辣、绵软的特点，并记录与天水麻辣烫等共同展示的地方风味。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 92,
+      "candidateId": "memory-7e804cda4f3efb",
+      "province": "gansu",
+      "city": "天水",
+      "name": "天水浆水面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-1c0894d76950a8db"
+      ],
+      "description": "浆水面是天水文旅报道中明确提及的特色食品。",
+      "detail": "浆水面是天水文旅报道中明确提及的特色食品。它属于地方面食，食品本身与旅游活动、具体餐馆分开记录，浆水原料与制作细节继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 93,
+      "candidateId": "memory-2c28984a105975",
+      "province": "gansu",
+      "city": "天水",
+      "name": "天水杂烩",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-bb9ac4c88d7579d1"
+      ],
+      "description": "天水杂烩以夹板肉、响皮条、丸子等配鸡汤形成地方汤菜。",
+      "detail": "天水杂烩以夹板肉、响皮条、丸子等配鸡汤形成地方汤菜。文化和旅游部线路具体介绍了蛋饼夹肉、蒸熟切条的夹板肉处理方式，以及葱花、香菜、木耳等搭配。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 98,
+      "candidateId": "memory-57279d2d2cc24a",
+      "province": "gansu",
+      "city": "天水",
+      "name": "天水雕漆",
+      "type": "crafts",
+      "sourceIds": [
+        "sg-source-7eb5d6f610615ac6"
+      ],
+      "description": "天水雕漆是当地工艺物品的代表。",
+      "detail": "天水雕漆是当地工艺物品的代表。甘肃官方非遗美食文旅报道记录其与大地湾彩陶、夜光杯等共同展示，器物工艺与食物类别分开整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 99,
+      "candidateId": "memory-eb75f3636d8496",
+      "province": "gansu",
+      "city": "武威",
+      "name": "凉州三套车",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-98a5b8a80f609611"
+      ],
+      "description": "凉州三套车被武威政府旅游专区列为特色美食。",
+      "detail": "凉州三套车被武威政府旅游专区列为特色美食。它是地方组合餐食的名称，具体组成和制作要求需进一步读取专题资料，不能按字面理解为交通工具。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 101,
+      "candidateId": "memory-96178f9743220d",
+      "province": "gansu",
+      "city": "武威",
+      "name": "武威葡萄酒",
+      "type": "alcohol",
+      "sourceIds": [
+        "sg-source-98a5b8a80f609611"
+      ],
+      "description": "武威的地方旅游资料以葡萄酒作为城市特色之一，保护产品资料也记录当地酿酒葡萄。",
+      "detail": "武威的地方旅游资料以葡萄酒作为城市特色之一，保护产品资料也记录当地酿酒葡萄。卡片将葡萄酒餐饮风味、原料产区与具体酒庄分别看待。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 104,
+      "candidateId": "memory-a8fdd04e653583",
+      "province": "gansu",
+      "city": "张掖",
+      "name": "搓鱼面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-a708bcd6cf3a7fb0"
+      ],
+      "description": "张掖搓鱼面又称搓鱼子。",
+      "detail": "张掖搓鱼面又称搓鱼子。市政府介绍以小麦面粉和面，搓成中间鼓、两头尖的梭形面段，名字来自外形；质地筋道，体现河西手工面食传统。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 105,
+      "candidateId": "memory-5c38a9ef6f5969",
+      "province": "gansu",
+      "city": "张掖",
+      "name": "炒炮",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-2bd6dca81d18fffa"
+      ],
+      "description": "张掖炒炮被地方美食整理资料列为当地面食。",
+      "detail": "张掖炒炮被地方美食整理资料列为当地面食。它与烹炒肉类的“炒拨拉”不是同一名称，现有采用范围为食品身份和地方关联，具体制法继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 106,
+      "candidateId": "memory-15f1c5069b90aa",
+      "province": "gansu",
+      "city": "张掖",
+      "name": "甘州臊面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-3bf6fef5e184e250"
+      ],
+      "description": "甘州臊面在张掖市政府美食栏目中有专门条目。",
+      "detail": "甘州臊面在张掖市政府美食栏目中有专门条目。这里记录张掖地方臊面餐食，具体汤底和浇头仍待阅读专题全文后进一步补充。",
+      "locality": "",
+      "aliases": [
+        "臊面"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 110,
+      "candidateId": "memory-ac913af564c419",
+      "province": "gansu",
+      "city": "平凉",
+      "name": "静宁烧鸡",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-0989cda033440248"
+      ],
+      "description": "静宁烧鸡是文化和旅游部平凉线路推荐的地方熟食。",
+      "detail": "静宁烧鸡是文化和旅游部平凉线路推荐的地方熟食。食品名称与地方归属有明确记录，不将同名烧鸡视为某一家店铺的专属产品。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 111,
+      "candidateId": "memory-94bd4a11dcf904",
+      "province": "gansu",
+      "city": "平凉",
+      "name": "泾川罐罐蒸馍",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-0989cda033440248"
+      ],
+      "description": "泾川罐罐蒸馍被列入平凉地方美食线路。",
+      "detail": "泾川罐罐蒸馍被列入平凉地方美食线路。它属于地方蒸制面食，初稿的菜肴分类予以纠正，具体器具与工艺继续据专题资料扩写。",
+      "locality": "",
+      "aliases": [
+        "罐罐蒸馍"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 114,
+      "candidateId": "memory-3d2d4464082a63",
+      "province": "gansu",
+      "city": "平凉",
+      "name": "平凉饸饹面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-0f888f697f8bbc07"
+      ],
+      "description": "平凉饸饹面在市级文旅介绍中与酸汤面、罐罐蒸馍等并列。",
+      "detail": "平凉饸饹面在市级文旅介绍中与酸汤面、罐罐蒸馍等并列。它是当地面食的一类，地域风味与具体餐馆品牌、不同粮食品种分别整理。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 115,
+      "candidateId": "memory-f48470f5da7a43",
+      "province": "gansu",
+      "city": "酒泉",
+      "name": "敦煌驴肉黄面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-c36d15940ae2e325"
+      ],
+      "description": "敦煌驴肉黄面是甘肃地方饮食介绍中的特色面食。",
+      "detail": "敦煌驴肉黄面是甘肃地方饮食介绍中的特色面食。中国文化中心的甘肃专题有明确记录，食品名称和敦煌地方关联保留，肉类与面条的具体处理继续核对。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 124,
+      "candidateId": "memory-96e81e6acf4795",
+      "province": "gansu",
+      "city": "庆阳",
+      "name": "庆阳饸饹面",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-968c1f4c7d8265bf"
+      ],
+      "description": "庆阳饸饹面属于当地米面风味。",
+      "detail": "庆阳饸饹面属于当地米面风味。文化和旅游部线路将饸饹、手工面、鸡肉荞剁面等并列，体现陇东面食的多样性；不把同名面食套成统一配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 129,
+      "candidateId": "memory-46fcf0d9142f1d",
+      "province": "gansu",
+      "city": "定西",
+      "name": "陇西钱肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-2bd6dca81d18fffa"
+      ],
+      "description": "陇西钱肉被地方美食资料列为定西陇西相关食品。",
+      "detail": "陇西钱肉被地方美食资料列为定西陇西相关食品。它属于加工肉食而非面食，原料部位和制作工艺尚需专题核对，不按名称臆造配方。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 133,
+      "candidateId": "memory-6a313ca65e06cc",
+      "province": "gansu",
+      "city": "定西",
+      "name": "岷县洮砚",
+      "type": "crafts",
+      "sourceIds": [
+        "sg-source-21624fda1e648c77",
+        "sg-source-7b126cf439517cf7"
+      ],
+      "description": "洮砚是甘肃传统文房工艺。",
+      "detail": "洮砚是甘肃传统文房工艺。文化和旅游部资料记录洮砚的生产性保护，甘肃特产栏目亦有岷县洮砚的地方文章索引，当前采用范围限于器物和地方关联。",
+      "locality": "",
+      "aliases": [
+        "岷县洮砚"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 142,
+      "candidateId": "memory-0dcec5d00a6a19",
+      "province": "gansu",
+      "city": "临夏州",
+      "name": "东乡手抓羊肉",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-79ba45217fdbf2e8"
+      ],
+      "description": "东乡手抓羊肉是临夏地方饮食的重要代表。",
+      "detail": "东乡手抓羊肉是临夏地方饮食的重要代表。临夏官方美食栏目记录了相关食品和地方名录信息，肉食类别与清真餐饮习俗分别理解，具体店铺与经营状态不作为本条身份。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 143,
+      "candidateId": "memory-017636dd13d618",
+      "province": "gansu",
+      "city": "临夏州",
+      "name": "河州包子",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-1229977c51185a1f"
+      ],
+      "description": "河州包子在临夏官方地方美食介绍中有记录。",
+      "detail": "河州包子在临夏官方地方美食介绍中有记录。它是当地包馅面食的一种，具体馅料与制法尚需分专题补充，不把所有包子推定为同一做法。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 144,
+      "candidateId": "memory-6be1e6e68e1828",
+      "province": "gansu",
+      "city": "临夏州",
+      "name": "油炸馃馃",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-1229977c51185a1f"
+      ],
+      "description": "油炸馃馃是临夏官方地方美食栏目列出的传统食品。",
+      "detail": "油炸馃馃是临夏官方地方美食栏目列出的传统食品。它属于油炸面点，与糖油糕、甜麦子等一起体现河州饮食的多样性。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 146,
+      "candidateId": "memory-20577a7f3d64b2",
+      "province": "gansu",
+      "city": "甘南州",
+      "name": "牦牛酸奶",
+      "type": "dairy",
+      "sourceIds": [
+        "sg-source-bff346db7dfd4a2d"
+      ],
+      "description": "牦牛酸奶是甘南地方饮食的重要乳食。",
+      "detail": "牦牛酸奶是甘南地方饮食的重要乳食。当地旅游资料与省级媒体介绍均有记录，作为发酵乳食品收录，不把普通牛奶酸奶与不同奶源制品一概等同。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 148,
+      "candidateId": "memory-21b731a86f122d",
+      "province": "gansu",
+      "city": "甘南州",
+      "name": "酥油茶",
+      "type": "drinks",
+      "sourceIds": [
+        "sg-source-2f21f91bcd47bcf3"
+      ],
+      "description": "酥油茶在甘南地方旅游资料中被明确介绍为日常饮料。",
+      "detail": "酥油茶在甘南地方旅游资料中被明确介绍为日常饮料。卡片保留其与藏族饮食的关联，具体茶叶、酥油与其他配料以对应地区和制作资料为准。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 149,
+      "candidateId": "memory-b3c380c2d5507b",
+      "province": "gansu",
+      "city": "甘南州",
+      "name": "糌粑",
+      "type": "staples",
+      "sourceIds": [
+        "sg-source-2f21f91bcd47bcf3"
+      ],
+      "description": "糌粑是甘南地方饮食资料中记载的主食，以炒熟的青稞粉为基础，可配茶水、酥油和乳渣等食用。",
+      "detail": "糌粑是甘南地方饮食资料中记载的主食，以炒熟的青稞粉为基础，可配茶水、酥油和乳渣等食用。它与藏包、面条等食品共同构成高原地方饮食。",
+      "locality": "",
+      "aliases": [],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    },
+    {
+      "candidateIndex": 152,
+      "candidateId": "memory-52bf8490dace90",
+      "province": "gansu",
+      "city": "甘南州",
+      "name": "甘南藏包子",
+      "type": "dishes",
+      "sourceIds": [
+        "sg-source-2f21f91bcd47bcf3"
+      ],
+      "description": "甘南藏包子又称卓华包子，地方资料还记录了“牛眼睛包子”的形象称谓。",
+      "detail": "甘南藏包子又称卓华包子，地方资料还记录了“牛眼睛包子”的形象称谓。卡片确认地方包馅食品的身份，具体馅料与蒸制工艺继续核对。",
+      "locality": "",
+      "aliases": [
+        "藏包"
+      ],
+      "reviewNote": "名称、地方关联与已读范围核对；未确认的原料、配方、年代和经营情况不作事实扩写。"
+    }
+  ]
+}

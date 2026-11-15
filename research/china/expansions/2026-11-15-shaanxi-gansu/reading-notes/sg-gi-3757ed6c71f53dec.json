@@ -1,0 +1,83 @@
+{
+  "id": "sg-gi-3757ed6c71f53dec",
+  "title": "地理标志产品公告 · 2016年第128号_附件.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "3757ed6c71f53dec4a849a9df2dfa50e497b1b5e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2016年第128号/2016年第128号_附件.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5b382af13507243a958742ce59a28dc8102a80c69af90195c1e880c20f615c73",
+    "textSha256": "845f302bfb63095d09df6275424b9fc3cdafda31688ab845e17b45286537c91e",
+    "textLength": 68722,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/3757ed6c71f53dec4a849a9df2dfa50e497b1b5e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/3757ed6c71f53dec4a849a9df2dfa50e497b1b5e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-9d1475d07c73a3f889",
+      "name": "吴起荞麦香醋",
+      "scope": "",
+      "type": "seasoning",
+      "variety": "、辅料1.原料吴起产优质荞麦,产品质量符合国家相关规定。2.辅料玉米、谷糠、麸皮,及野生“百里香”草,均产于保护范围内,质量符合国家相关规定",
+      "sensory": "琥珀色泽,清纯透亮,有光泽,醋香浓郁,酸味爽口,回味绵长",
+      "process": "1.工艺流程原料精选—粉碎—润水—蒸料—加曲酒精发酵—醋酸发酵—陈醅—淋醋—添加百里香—灭菌—封装—成品。2.工艺控制环节(1)配料荞麦、玉米、麸皮、谷糠比例为1:0.2:2:2(2)粉碎原料粉碎通过40目滤筛。(3)润水—153—原料的30%.(4)蒸料气压0.4兆帕,时间30分钟。(5)制曲前缓:时间4—6小时,室温32-33°C,品温30-32°C,干湿度65—85%。中控:时间16—24小时,室温30-32°C,品温36—38°C,干湿度65—95%。后提:制曲30—48小时,室温35—40°C,曲的水份控制在24-26%,干湿度50—75%。(",
+      "sectionSha256": "f70dd05d98cab0420400cb5925217acb85df5b7d36d41d6c6175c8b2621ba173"
+    },
+    {
+      "itemId": "sg-a2f902b70358e21759",
+      "name": "黄龙蜂蜜",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "与",
+      "process": "",
+      "sectionSha256": "230546d3f71799a861c9667e276f2899659a39ab149f9d7dbe6a656b67f351c2"
+    },
+    {
+      "itemId": "sg-c8138a0b74f210f0de",
+      "name": "甘泉豆腐",
+      "scope": "",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "甘泉豆腐色泽淡绿,柔韧细腻,久煮不烂,豆香浓郁,味美爽口。—158—",
+      "process": "",
+      "sectionSha256": "714c871efe97f2473fb3e0eff113d813b8c4b2bf86e3da98d2eda6b9de851ae9"
+    },
+    {
+      "itemId": "sg-4af8b2b59f36e9f49e",
+      "name": "甘泉黄酒",
+      "scope": "",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "色泽金黄、香气浓郁、入口甘美香醇,和谐丰满,口余芬芳,后味微酸而爽口,回味悠长。(二)",
+      "process": "",
+      "sectionSha256": "9c6a0b2adf465807206c9be46517a0a74e440c1a15912c4a2eede60c0add40fc"
+    },
+    {
+      "itemId": "sg-e3885fc4107236894e",
+      "name": "正宁大葱",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "葱白粗长,肉质鲜紧,辛辣味浓",
+      "process": "",
+      "sectionSha256": "746e6f7d950fa5e7baa5cd5e8b5bf3c97a747bd44a0efc0cf7a7cd192f1e6ebf"
+    },
+    {
+      "itemId": "sg-94ba6067c8b5c5628a",
+      "name": "酒泉夜光杯",
+      "scope": "",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "1.膛肚要求串匀,薄厚一致、平展,杯口圆滑,边线规矩平整,深浅一致。2.色泽纯净,呈墨绿或翠绿,花纹自然。3.光洁度强,无加工痕迹,滋润平展,抛光后表面呈柔和的玉感亮度,手感光滑。(二)",
+      "process": "钻棒料→定尺→开坯→头钻→二钻→定底→扎杯→冲杯→碾杯→头砣→二砣→三砣→清底→拉帮→溜槽→粗磨→拓杯→细磨→抛光→烫蜡",
+      "sectionSha256": "a4d7ba40a5dd0da8116dde35898c420c1978bad74b8cf9384187d192004739f2"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "sg-gi-2fa1b4b1fde13522",
+  "title": "地理标志产品公告 · 2017年第117号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "2fa1b4b1fde13522b7539d09335293d43f5858ec",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2017年第117号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2017%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6f5887093bce90214637fb8bf2cec14f44acdcd64dece408d1d9b15d54135767",
+    "textSha256": "e0d6f150928be5ef4ea63b66f4df4f4c0e6db91b3d05948d2ca41cb5ec852e98",
+    "textLength": 44734,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/2fa1b4b1fde13522b7539d09335293d43f5858ec.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/2fa1b4b1fde13522b7539d09335293d43f5858ec.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-f7c0fe302b6cf6788e",
+      "name": "富平九眼莲",
+      "scope": "富平九眼莲产地范围为陕西省渭南市富平县现辖行政区。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "表皮浅黄或黄白,藕体色泽均匀一致,表面光滑,切开莲藕,九孔环状排列,生吃熟食,无丝无渣,清脆爽口,全藕长≥100cm,≥4节",
+      "process": "",
+      "sectionSha256": "2c54d959fd008ea6520941e2ffe80c94ab72794eda345e8d1a4760f13976447f"
+    },
+    {
+      "itemId": "sg-79772ca68bb3e8ed4a",
+      "name": "西乡牛肉干",
+      "scope": "西乡牛肉干产地范围为陕西省汉中市西乡县:杨河镇、柳树镇、桑园镇、峡口镇、沙河镇、私渡镇、骆家坝镇、大河镇、堰口镇、白龙塘镇、白勉峡镇、子午镇、茶镇、高川镇、两河口镇、城北街道和城南街道。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "表面为红褐色,内部淡红色,切面有光泽;有酱卤制品特有的浓郁香味;具有相应品种应有的咸、麻、辛、辣、甜味;呈条、块、片、丝状,肉质紧致,略带弹性",
+      "process": "",
+      "sectionSha256": "2ded0493cc191da2d9ec4c8b7f58dd4d053cf582c8a055bdc9bc69d14172e7aa"
+    },
+    {
+      "itemId": "sg-4982d47b5a5874d743",
+      "name": "靖边胡萝卜",
+      "scope": "靖边胡萝卜产地范围为陕西省榆林市靖边县辖区:张家畔街道办事处、红墩界镇、宁条梁镇、东坑镇、王渠则镇、中山涧镇、杨米涧镇、周河镇、杨桥畔镇、天赐湾镇、青阳岔镇、黄蒿界镇、海则滩镇、镇靖镇、席麻湾镇、龙洲镇、小河镇。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "外观整齐均匀,色泽橙红艳丽,芯柱细,肉头厚。(二)",
+      "process": "",
+      "sectionSha256": "52c265cd248c5e3c188181d637888344738deeafb6684824490dd094056103bb"
+    },
+    {
+      "itemId": "sg-0decda6e23aff5dffc",
+      "name": "洛南核桃",
+      "scope": "洛南核桃产地范围为陕西省商洛市洛南县行政区内的城关街道办、四皓街道办、永丰镇、保安镇、洛源镇、石门镇、麻坪镇、石坡镇、巡检镇、寺耳镇、柏峪寺镇、景村镇、古城镇、三要镇、灵口镇、高耀镇。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "项目指标要求果形果实长圆形,缝合线紧密色泽呈黄棕色,果仁色白风味口感口感油香,无涩味果实外观果大、皮薄、大小均匀(二)",
+      "process": "",
+      "sectionSha256": "b31040274becd2dd3fdfb5b40b4a76240335a252b4bbaab7e048d8dd4aa935c6"
+    },
+    {
+      "itemId": "sg-54b4271bc35244b013",
+      "name": "云盖寺挂面",
+      "scope": "云盖寺挂面产地范围为陕西省商洛市镇安县云盖寺镇、月河镇、木王镇、回龙镇、庙沟镇、永乐街道办等6镇办所辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "外观光滑、色泽自然、细长匀称、面条中空、细如发丝;煮熟后口感爽滑柔软,久煮不烂、不粘锅、不黏牙",
+      "process": "时间加工时间限定为每年10月初到次年4月底",
+      "sectionSha256": "0af399fd6d0405778a3f99ab56ba13dddff7ee9f9fe6668914ff6897dd9a679e"
+    },
+    {
+      "itemId": "sg-78767128902a671338",
+      "name": "靖远文冠果油",
+      "scope": "靖远文冠果油产地范围为甘肃省白银市靖远县乌兰镇、东湾镇、北湾镇、北滩镇、刘川镇、东升镇、五合镇、双龙镇、麋滩镇、平堡镇、三滩镇、高湾镇、大芦镇、若笠乡、兴隆乡、永新乡、靖安乡、石门乡。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "色泽淡黄色至金黄色,口感爽滑无涩味,香味浓郁绵长。2.特征指标:项目指标油酸含量,%27.0~40.0亚油酸含量,%37.0~55.0神经酸,%≥1.63.",
+      "process": "籽粒筛选水煮降解温火炒制壳仁分离粉碎种壳壳仁混合成油胚压榨过滤沉淀",
+      "sectionSha256": "8812a01ce86182a0ffb6f85723b1549fd43bc5366adc5ef16a6bcc62703546cb"
+    },
+    {
+      "itemId": "sg-f56a57b165f3610d4c",
+      "name": "会宁胡麻油",
+      "scope": "会宁胡麻油产地范围为甘肃省白银市会宁县会师镇、郭城驿镇、河畔镇、头寨子镇、甘沟驿镇、太平店镇、平头川镇、侯家川镇、中川镇、老君坡镇、柴家门镇、汉家岔镇、四方吴镇、大沟镇、白草塬镇、刘家寨子镇、丁家沟乡、新添堡回族自治乡、党家岘乡、杨崖集乡、翟家所乡、八里湾乡、韩家集乡、新塬乡、草滩乡、新庄塬乡、土门岘乡、土高山乡。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "清澈透亮,黄褐色,具有胡麻油特有的香气和滋味,味柔和、无苦涩",
+      "process": "原料筛选蒸炒压榨水化脱胶过滤沉淀",
+      "sectionSha256": "ef81419449dc49355875f46d322b680fd17edcd9866396232378bdd6381715c3"
+    }
+  ]
+}

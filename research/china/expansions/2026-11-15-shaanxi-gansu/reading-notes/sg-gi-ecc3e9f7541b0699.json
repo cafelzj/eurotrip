@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-ecc3e9f7541b0699",
+  "title": "地理标志产品公告 · 2010年第14号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ecc3e9f7541b069991a5316d52c419ed89c4fc08",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第14号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC14%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "f80639b04c4e2bb83ff3095d81fb49ff445c4308d69af7cb9feef6848206f061",
+    "textSha256": "c0552aae346252c164a1e74d5cc1d4822bdc1119080793904711a907bf960b3b",
+    "textLength": 7130,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ecc3e9f7541b069991a5316d52c419ed89c4fc08.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ecc3e9f7541b069991a5316d52c419ed89c4fc08.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-279502d30a9a9442ae",
+      "name": "玉门酒花",
+      "scope": "玉门酒花地理标志产品保护范围为甘肃省玉门市玉门镇、下西号乡、黄闸湾乡、柳河乡、赤金镇、花海镇、清泉乡、小金湾乡、柳湖乡等9个乡镇和饮马实业公司、黄花农场、裕盛实业公司、农垦建筑公司等4个农垦团场现辖行政区域。",
+      "type": "ingredients",
+      "variety": "苦香兼型品种青岛大花、高甲酸酒花、香花型酒花",
+      "sensory": "色泽黄绿新鲜,花香浓郁,口感新鲜,苦感愉快,香气突出。(1)压缩酒花:呈片状较完整的酒花花球,浅黄绿色有光泽,具有明显的新鲜酒花香气,无异杂气味。(2)颗粒酒花:长6mm至8mm,直径6mm左右的圆柱状,黄绿色或绿色有光泽,具有明显的新鲜酒花香气,无异杂气味",
+      "process": "1.压缩酒花:(1)工艺流程:新鲜酒花→晾花→干燥→回潮→压榨→包装。(2)主要工艺环节:1晾花:新鲜酒花收获后,6小时内送至烤房晾花棚集中。晾花棚堆花厚度50cm至60cm,每1小时翻花一次,确保酒花不发热变质。晾花棚内鲜花在6小时内送上烤炉进行烘烤。2烘烤:摊花厚度45cm至50cm,以温度45°C至65°C,风量每平方米为1000至1300m3,烘烤至花体含水量为3%至4%,花体干燥均匀时下花。总烘烤时间为4.5至5小时。3回潮:采用机械自动回潮或人工弥雾回潮,回水量掌握在6%至9%,回水要均匀。2.颗粒酒花:(1)工艺流程:压缩酒花→粉碎→筛分→",
+      "sectionSha256": "b0324dd9976ffad0bea9f4bddf1357eb9d2bcf53ae573b0354d6e57ea73a4df4"
+    }
+  ]
+}

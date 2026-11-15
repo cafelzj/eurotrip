@@ -2,8 +2,8 @@
   "updated": "2026-11-15",
   "scope": "中国卡片当前研究与保留的风物专题历史",
   "canonicalRegistry": "CardStore.nodes",
-  "chinaCards": 5181,
-  "flavorCards": 5051,
+  "chinaCards": 5492,
+  "flavorCards": 5362,
   "canonicalEntry": "research/china/README.md",
   "topicEntry": "research/flavors/README.md",
   "runtimeInputs": [
@@ -23,10 +23,10 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 28,
-    "adoption": 2,
-    "cross-review": 2,
-    "preserved-source-reading": 1108,
+    "research-support": 41,
+    "adoption": 3,
+    "cross-review": 3,
+    "preserved-source-reading": 1209,
     "current-integration": 4,
     "future-source-candidate": 1,
     "historical-batch": 12,
@@ -37,8 +37,8 @@
     {
       "path": "research/china/README.md",
       "role": "research-support",
-      "bytes": 4075,
-      "sha256": "35a6054c25bd324431494e45d09fdcb5ed96af52d4045d7242f3bc07648ce504"
+      "bytes": 4231,
+      "sha256": "79e092e31b806f2306a1f58fe764330a137732b0cd6ef33b70746ccbd39539c9"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -1691,16 +1691,712 @@
       "sha256": "18024729b5c13099b1aa5261bbb7ba8c77c4edaa6a6f2e306409acc80aedbb50"
     },
     {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/README.md",
+      "role": "research-support",
+      "bytes": 4446,
+      "sha256": "5b3e15a1e07e55c611e3a5f92a98f52cdf879992e9fa7b8c4203fb1b5fe1008c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/administrative-sources.json",
+      "role": "research-support",
+      "bytes": 13734,
+      "sha256": "ed376dcc0d57038385f102481ce995c1c069e204e183cc9c410300ba530be2cf"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/adoption.json",
+      "role": "adoption",
+      "bytes": 292501,
+      "sha256": "53d0ca82c23c39b136eea91fd7a40a24848a9ef0277b1a838e0f32dead6ab3e7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/baseline.json",
+      "role": "research-support",
+      "bytes": 166036,
+      "sha256": "219659ae804e2d5c9379197004bdd98f813ed7bc034aa22836177f654f784ca2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/cross-review.json",
+      "role": "cross-review",
+      "bytes": 51794,
+      "sha256": "d4d8237b3d7bbf163ad285d95f493bd00c84efd9e41e001434f657012a9c56c6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/initial-knowledge.json",
+      "role": "research-support",
+      "bytes": 55181,
+      "sha256": "3f54e3987cfa6677c02c5d4e0363c2d4d51a2e72526799d6b98462b36e240f3d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/knowledge-seal.json",
+      "role": "research-support",
+      "bytes": 256,
+      "sha256": "e9c33c3b429772a27f574fc4926dc67663d659911689fd9dddf8b3eed10c92d7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/place-register.json",
+      "role": "research-support",
+      "bytes": 346758,
+      "sha256": "047c21f791c4a88baa28462ff44460f3614688e0f202c25055a3cfbb0d7b8435"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/preservation-audit.json",
+      "role": "research-support",
+      "bytes": 384081,
+      "sha256": "034b29417461e8433fe2b956427d022d330762f1d68bb8f83a4d6e5b0ed7e637"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-0870dcb96fff3848.json",
+      "role": "preserved-source-reading",
+      "bytes": 2840,
+      "sha256": "eff89cdb34c949a586c7e23aad51d69cbb08a0c8ada8af0b7733ddebd75f0249"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-0b11601d59def0bc.json",
+      "role": "preserved-source-reading",
+      "bytes": 2418,
+      "sha256": "f4da5422ba94f8d7c9355878552080a87e79d2af4482073e1349e2ff133b2372"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-190126a494e0139d.json",
+      "role": "preserved-source-reading",
+      "bytes": 2598,
+      "sha256": "3b92b615478add9e173820e783a809a77bea4b74397f4caf3f3d319502f9dc26"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-25a7112b8491d64a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2368,
+      "sha256": "350bf3ade0cd2ba1cb920a191cdfc63690f71128d1fc2296b99d33c29718a7fb"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-26ab97dc5f649eed.json",
+      "role": "preserved-source-reading",
+      "bytes": 2687,
+      "sha256": "9926b4522cd0ea1c790e19304d6e650385a11f2f85ac6d92934219684b7f159b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-27168ff2261f5d05.json",
+      "role": "preserved-source-reading",
+      "bytes": 3384,
+      "sha256": "6ca25ccbf7c427ed8fe425fda0415b6ff481042a92971d38f1cbe44ae1bcdd59"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-2fa1b4b1fde13522.json",
+      "role": "preserved-source-reading",
+      "bytes": 6935,
+      "sha256": "851feb2a74622a7aec2bb094009f478a0fe538e21d1369abf60b6dd0bdc4b1e4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-311e4ad1a9fa6893.json",
+      "role": "preserved-source-reading",
+      "bytes": 4354,
+      "sha256": "d21232fac16aefeedc584e2edd0b6a841ab28b27c70b51529fc9a24c769c6163"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-3757ed6c71f53dec.json",
+      "role": "preserved-source-reading",
+      "bytes": 5274,
+      "sha256": "cad97c4bb8415f432899dbe6d512ce83501ea3eafad682acdf5e291909d7a394"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-3b08b615488d57e3.json",
+      "role": "preserved-source-reading",
+      "bytes": 3106,
+      "sha256": "22a8f3d60f426849304ea7c0ada99240dbf079662a13ad08d1784a331fc99976"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-4403a45733f603c6.json",
+      "role": "preserved-source-reading",
+      "bytes": 2528,
+      "sha256": "b6a2df86d024648d69019f295f576f58cc7cf7c00e30467ba2bb2dc594615fe2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-4546b3e210dfae67.json",
+      "role": "preserved-source-reading",
+      "bytes": 2390,
+      "sha256": "13bbb6364d94f5cd10af6e3ef39fec893024601e30944233df22e84caefa0c19"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-46a71cd9995b49b3.json",
+      "role": "preserved-source-reading",
+      "bytes": 89735,
+      "sha256": "72585e01d3d525067444665d0b73d0c27a6ddc606dcb005be40b901a74e72948"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-4cec6a1be942026d.json",
+      "role": "preserved-source-reading",
+      "bytes": 3685,
+      "sha256": "c00215eeb20c83bc2a4b8fad4b01fc62a0a826afe36cd36d479a7535d28c47a1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-53c38dd973d7be06.json",
+      "role": "preserved-source-reading",
+      "bytes": 2421,
+      "sha256": "33e36a031de3af6e994876c7632162e7074424b95bfbf55ea5cb5e77e8c93239"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-5f4250b287785975.json",
+      "role": "preserved-source-reading",
+      "bytes": 2587,
+      "sha256": "b8ed203e7ea0077f9ab32d89fd51977d8a69f4fbb103686a163722011ea75fd9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-66a8b5d9cbea8d32.json",
+      "role": "preserved-source-reading",
+      "bytes": 4470,
+      "sha256": "c46c45635d0d0713fbad96dc2d9fb6d4decdb7dddca526c0260e728e7c37a15b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-69ca291062d41a08.json",
+      "role": "preserved-source-reading",
+      "bytes": 3474,
+      "sha256": "b044c4037a87a52b34c371d43415c4f60a9bb41f71a6504d7dca3e793c935e13"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-6a5b69f2438b4002.json",
+      "role": "preserved-source-reading",
+      "bytes": 3045,
+      "sha256": "7855fa7b2d3fa09ac3ab5217e10948c29aefd55eb736700ce720d154f2bc9eff"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-6cf838da11187ac1.json",
+      "role": "preserved-source-reading",
+      "bytes": 3213,
+      "sha256": "4079b2eaa74464a85efca012083d244ff9773835be708d2979e9df1b03fe8c49"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-6e0f265ffff4dc85.json",
+      "role": "preserved-source-reading",
+      "bytes": 2543,
+      "sha256": "565e325297e80c8e26a6bb93c02f59500c43f1c7f37f3694cd524f62c2afd57d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-7279fca9075ca3bd.json",
+      "role": "preserved-source-reading",
+      "bytes": 49015,
+      "sha256": "837bf6f1d1148d724e778cd641cdc01c5a20cfc50ebabaf0f3ae2c76bddcc2c5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-772d97693f273eb8.json",
+      "role": "preserved-source-reading",
+      "bytes": 2502,
+      "sha256": "42a51cef24c5900dd64a008617204963d0c6edc23d2b13e86d68f26801c729b0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-79c2fbc53ce59e0b.json",
+      "role": "preserved-source-reading",
+      "bytes": 3089,
+      "sha256": "b26bb1b759754a19a354fc2b18289fac6bee6a7874bec1772b34c3419425a185"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-7a3caf9f6deb9c63.json",
+      "role": "preserved-source-reading",
+      "bytes": 4496,
+      "sha256": "8c2b8cea26c14a5fe5bde8742ec41dcc3315a966676dee248c8aca92212033e8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-851402c8a193aa99.json",
+      "role": "preserved-source-reading",
+      "bytes": 2573,
+      "sha256": "c47b67bf727c0e2898ff6359753a8dbd04af522a1ef3a22cc3bf9b360eff461d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-86aeec967b3d9a09.json",
+      "role": "preserved-source-reading",
+      "bytes": 4399,
+      "sha256": "3ed52c1e76f4c71cd3c3d7dcc113b1062086bad07821c8144f27a0d58c262ae1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-86c29b9f3162a314.json",
+      "role": "preserved-source-reading",
+      "bytes": 2865,
+      "sha256": "9bdd65b130efc853eac545eebab78d91de708dd3099da78f7bf2ffbe13f15e3b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-886b097e79e4e8e2.json",
+      "role": "preserved-source-reading",
+      "bytes": 4129,
+      "sha256": "93d411bd5f48dd2070bdd124e3709919714f41aedb6983d163b802c518d176c1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-9074e0d97bc98560.json",
+      "role": "preserved-source-reading",
+      "bytes": 10653,
+      "sha256": "70538e88568e88a563c2fc2198e99d926e57f168217ab11930ed30a2e119ee79"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-93e5dd19a20ea39f.json",
+      "role": "preserved-source-reading",
+      "bytes": 2876,
+      "sha256": "e0124133174bfe4e917b900c24b9862dce3be6d5cf4d1d916a4cfa4f3421d998"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-98ee916c0aeabfd2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2514,
+      "sha256": "0c06b6f73d88de3ebdc2707d56e8e1857eb5af007496ec9959801957fa065155"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-9a4a92ac219ab29d.json",
+      "role": "preserved-source-reading",
+      "bytes": 2905,
+      "sha256": "38b9d26439039aa3dc62db7cc33bbe467155ed15741f54a424777872ea0ce9b3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-a0e1e84170c9ba36.json",
+      "role": "preserved-source-reading",
+      "bytes": 4943,
+      "sha256": "e608021842e77d93eaa87fd12cd63c8010e62f9fe1d3d173c0e8d0a3bea91239"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-a356c738276bb38e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2610,
+      "sha256": "83f2969bd80cf0b2a8c3c8ea01656dccb258a480d4bb6500b7fc4b1019d60604"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-aa5609cf365398f2.json",
+      "role": "preserved-source-reading",
+      "bytes": 4801,
+      "sha256": "bffdcfa2c0af5866be813c94a9765ccada7074e06fafb5b10b3c239a38d61b65"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-aa58e786e52070a0.json",
+      "role": "preserved-source-reading",
+      "bytes": 2452,
+      "sha256": "3a83f45dced5259c2dbae23c8f26e89ef12b899c12ea788b05f769c0a3dfbe3d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-b3522c2b2fe2a468.json",
+      "role": "preserved-source-reading",
+      "bytes": 2730,
+      "sha256": "98133b2e1f11512195b2d41856bb3a5c908a1080f2f03c0b320c701019d35b8c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-b45b0e1a5da9e34b.json",
+      "role": "preserved-source-reading",
+      "bytes": 3224,
+      "sha256": "d1d815c039591692a9d58c78ccda7c9a6186dd616a25e67a61f1e09fc08ee20a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-bfe69960c9d89dfb.json",
+      "role": "preserved-source-reading",
+      "bytes": 2459,
+      "sha256": "942fdf8eca6fc09ebb0dbfce9467df0240b6e28cae39c3ee301205baf770c261"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-c3d152a48258ffbb.json",
+      "role": "preserved-source-reading",
+      "bytes": 2640,
+      "sha256": "d9c8c4a5f27e984a9f069c181dca8d94d7ee7b3b431906fc71abee2f61c3fa46"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-c4f697444b9b2b8a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2649,
+      "sha256": "96e5d7e27e7270c44dbaab18031611a799a04eff0f51169804fe1d1a3b5a7965"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-c646d2d97a419308.json",
+      "role": "preserved-source-reading",
+      "bytes": 4161,
+      "sha256": "35e5ba94546dd8868269ece0a722cafaac821f2df71f5e3e06e6911e3afd40e9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-c73cba5ce06136b2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2461,
+      "sha256": "16d0ef9ed1506601b6dc7766ab3db009c65b9e2f6f74024071a2b612059e5904"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-c97a7ca6cd1a8a96.json",
+      "role": "preserved-source-reading",
+      "bytes": 2808,
+      "sha256": "2d875e899982d5f75e648fb0260c3296e14a231f2d5f9f193af9b86e53aec290"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-cb70ae8792d352c6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3829,
+      "sha256": "ce4913e841dae0d3c451a95a8a8bf5f4cfca6ae958e0fefec8e7075d9d93c068"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-cd257939cff7e6fd.json",
+      "role": "preserved-source-reading",
+      "bytes": 2973,
+      "sha256": "c9333d6bda34c972682627745575441dc6366d4fbecfd43e782dfc551ad85a62"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-cd5f1a155c84b56a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2432,
+      "sha256": "9d8a8e760fed4f7f68949699236a889f02483e27b1803e39e094ff524d1fd1fc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-d06f1aef17e2499e.json",
+      "role": "preserved-source-reading",
+      "bytes": 3180,
+      "sha256": "2e4bec41c04b932be145edafe97eaf0fd82c2ff71c57b2d1f21dc53575083679"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-de83bfa028b12a08.json",
+      "role": "preserved-source-reading",
+      "bytes": 4284,
+      "sha256": "50b343a3d5cabb0a61c7bcd83ea34aeb5ab84c45431ff59864819986ce12a1f7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-e011caf3c10cbd67.json",
+      "role": "preserved-source-reading",
+      "bytes": 4005,
+      "sha256": "e1819ed464cc9259db06deab5425015b60256aa289e4ef87f3524bfdaea0d41f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-e2e936c4ec7e7ce8.json",
+      "role": "preserved-source-reading",
+      "bytes": 2516,
+      "sha256": "d4bc66de3cc7ccf08f2b60a17f74bba1198584043c5d39e94ca0f9403fb03ea1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-e6d5ccf8ebe33d56.json",
+      "role": "preserved-source-reading",
+      "bytes": 2490,
+      "sha256": "e43bc24a4065fc012ec746b1c92a0e68b23a0806a02528c7e84bdb2d3e19a988"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-e7242e0775ff95d2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2777,
+      "sha256": "4ca7240de1512a1c6d414884917fa64b2868bdc00d52321938fe334184ac02a1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-e92b3b384db2a139.json",
+      "role": "preserved-source-reading",
+      "bytes": 2554,
+      "sha256": "5c56ea1e7eb452db8a98ab96098689d4fc7749a27305cd0d7444b5c7ca2b7187"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-ecc3e9f7541b0699.json",
+      "role": "preserved-source-reading",
+      "bytes": 3553,
+      "sha256": "3202377644d21e9601b66367f6399e720c6011f6e54489acf977a5f3d0e86a69"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-efc628dc6a827357.json",
+      "role": "preserved-source-reading",
+      "bytes": 4853,
+      "sha256": "3630110c3f6b3688b7ad50a2b26007a16ba37f8d8ee15c8c8485ec8edd9cfd63"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-f81b5cfa559e1c13.json",
+      "role": "preserved-source-reading",
+      "bytes": 3214,
+      "sha256": "8395abee5c451b17ee93191ba0f57b51564a4c8ca7ae1ecfe9adf71c6c1f5cc0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-f966a0966594fe57.json",
+      "role": "preserved-source-reading",
+      "bytes": 3847,
+      "sha256": "da52b0a12bd6409b37325111ad281ee0602ac5aa35b89a287a30b4787b7a7af5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-fa7a0c4d6dc8f1b2.json",
+      "role": "preserved-source-reading",
+      "bytes": 3397,
+      "sha256": "320ab1a643ce11dee44547055f461527e1bb12048c84fa1fcebbc93b6321343c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-gi-fdc18366046ff24c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2698,
+      "sha256": "5bf143dda83c3fa54ba3b254c48eee7052acddc63db73d66bf3b7620be2ade0f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-0353ff988684257f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1876,
+      "sha256": "3c12ea0ebb328a2371024af92632bb43338521930c2fde46424f18bcf1dd4cfb"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-05982341d3c1affc.json",
+      "role": "preserved-source-reading",
+      "bytes": 1865,
+      "sha256": "89f26962d3d835eeebe8c88286c375f57bb4b5f9f4639e3e1a8ba062af113261"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-0755fbb7abf057ae.json",
+      "role": "preserved-source-reading",
+      "bytes": 3570,
+      "sha256": "64e477f93c2f55ca28d3b3c5229854a5f51bd086280eb904d85d2e642a896df5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-08e78e42872e614a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1382,
+      "sha256": "e5a0753cb9edd4e2aab03b6b8e16ff7c8f08762a4f0f21b3592522644b6dca51"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-0989cda033440248.json",
+      "role": "preserved-source-reading",
+      "bytes": 1836,
+      "sha256": "41876ecb4e28d3ee025f891dfce939b480e721fc3781e2b67ffdebd3473735da"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-0f888f697f8bbc07.json",
+      "role": "preserved-source-reading",
+      "bytes": 1423,
+      "sha256": "2a94b60c79af4ff4b9aed9f4ed3a65faa747bb7bc6bbe862ac150d04f1c7f2dd"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-1229977c51185a1f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1786,
+      "sha256": "b3ff821393a52e9ebc14baa6f4abf248513180a2097d55c9a1ef80366cba8279"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-1c0894d76950a8db.json",
+      "role": "preserved-source-reading",
+      "bytes": 1406,
+      "sha256": "31ca22fb9c9192ad63c1216a0f2f539889511826e6381059127f7d4f88e12334"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-21624fda1e648c77.json",
+      "role": "preserved-source-reading",
+      "bytes": 1311,
+      "sha256": "671b610f1f84fdfe8031f90ec963cf3334ff7ba8dc1475a6c8152393a92088ae"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-25cfde46dc985bd2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2419,
+      "sha256": "e51bbe5d9f970a6f738a0015a8933889152f4124e6b02e91961a2dbe7aaa82c3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-2bd6dca81d18fffa.json",
+      "role": "preserved-source-reading",
+      "bytes": 1901,
+      "sha256": "e8709c290705d071c6f73f6a76b60c81f5270ccdf806d25a150fe96e6e79a8c6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-2ea0431d70c7f00e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1516,
+      "sha256": "eb50921e6fdb8533a84d113272b9bce5ea7ecc110baeba989600ba521b5c4a1d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-2f21f91bcd47bcf3.json",
+      "role": "preserved-source-reading",
+      "bytes": 2366,
+      "sha256": "12b827207a90c8c08553ce4e6108351eaed9af5ae20812ca3f1fa8b977eba7dc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-38232e0d202c271e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1377,
+      "sha256": "9c7d48fc1627ff0da748d76219fb5c414ab03c4bf01c9e6a9753e43fe9e97386"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-3bf6fef5e184e250.json",
+      "role": "preserved-source-reading",
+      "bytes": 1310,
+      "sha256": "d4871163d118b5fa46db8aab2aab2824464919b9a97269945b9e1520231246ae"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-3d857ec78b17b59b.json",
+      "role": "preserved-source-reading",
+      "bytes": 1460,
+      "sha256": "96b3a4ca0c777c6d0b49972ccb0ad8679205257a0037e55941e51ad573c8214a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-407900ebf68aa7d9.json",
+      "role": "preserved-source-reading",
+      "bytes": 1466,
+      "sha256": "0dc5dd92f7d2abb4aa10cd7a4ac8b79ed1f6c8dfa1f07e3479911d62f568f92e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-41393bda3aab4805.json",
+      "role": "preserved-source-reading",
+      "bytes": 1954,
+      "sha256": "1d4703aaad6c2d88ff7b76e0a4d6ed0ea4458f875fa104bad285064a8237696a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-466cd94a31134a29.json",
+      "role": "preserved-source-reading",
+      "bytes": 1358,
+      "sha256": "7ebea95ef16df8cae82f19eb8fd58cd97899e31e23b21e56306f12581e8fc006"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-4fea0b20dc879d45.json",
+      "role": "preserved-source-reading",
+      "bytes": 1529,
+      "sha256": "bf9826c758510eafeb93036e2f2ca2fd2f92a4d8529f3501302ad86fed7d952e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-58766f560bc082ce.json",
+      "role": "preserved-source-reading",
+      "bytes": 1491,
+      "sha256": "461d00b3a8fa05b2374a7207fb2a686c034885bb7fa219d8de79daca1b4e693c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-6150279a356b0ca4.json",
+      "role": "preserved-source-reading",
+      "bytes": 2438,
+      "sha256": "d82423912c560f9fff8de13f7dafdabd5e5453287839aa9d753fd154266b2699"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-66201855358d60e0.json",
+      "role": "preserved-source-reading",
+      "bytes": 1876,
+      "sha256": "536d613a0e0037db0860c6c9c7e595b3d0fd2ee10bfe2c1496713059109f864d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-72f1957b646fc98a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1332,
+      "sha256": "3a12f3481957bdecb7e4c2118e827175658f835e355482a597075f50e0971daf"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-79ba45217fdbf2e8.json",
+      "role": "preserved-source-reading",
+      "bytes": 1339,
+      "sha256": "7f745fb45339f81ac5a97ebe4f7f1316c5b1282de200ebc669e136de697e0c81"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-7b126cf439517cf7.json",
+      "role": "preserved-source-reading",
+      "bytes": 1405,
+      "sha256": "5cfbc4ccb51a6c8de1bba824465ecb78b9f88504c21f6603a1536bdb8eaac7b9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-7d6dc849d3fc01b6.json",
+      "role": "preserved-source-reading",
+      "bytes": 2468,
+      "sha256": "7e660cce5b1e3120e1a756a3784108ebe3207a88d7c5b7cc4055a09bd3863ccc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-7d8014be399fc928.json",
+      "role": "preserved-source-reading",
+      "bytes": 1878,
+      "sha256": "35e67545364e89b142d67612418821c152fc1857717586b3c1dd62619ee08bd0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-7eb5d6f610615ac6.json",
+      "role": "preserved-source-reading",
+      "bytes": 1951,
+      "sha256": "1eb5bd9fb1205202c1b0eeca96a84636fb3a16700a5d7db066fdbd51f6e8c2ee"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-968c1f4c7d8265bf.json",
+      "role": "preserved-source-reading",
+      "bytes": 1338,
+      "sha256": "56bde5e6ced94875dae50fd9f78ffbe5e6edeb0b41e2f6cc0a9c1fc0dd6c3208"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-98a5b8a80f609611.json",
+      "role": "preserved-source-reading",
+      "bytes": 1858,
+      "sha256": "9b7f05b6f7bea53322c2edce2bfd808b2554c0299c2e2f8c2468838f0fc3de61"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-9a5ac5e7ceeb4bbe.json",
+      "role": "preserved-source-reading",
+      "bytes": 1405,
+      "sha256": "dc648143755325ccbd85c5b9337bf43d3d148c32d44b93d88ce25cf6102366c6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-a032bc197aa0da84.json",
+      "role": "preserved-source-reading",
+      "bytes": 1302,
+      "sha256": "73173356934302389931c19d0dc55c295a5276122cb821aafd606a0076cdd1fe"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-a708bcd6cf3a7fb0.json",
+      "role": "preserved-source-reading",
+      "bytes": 1398,
+      "sha256": "0d8566b045a4f1496fb5c9ddc53c7e47d6cc523f78108164545305d014df449a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-a757b319ffeb3502.json",
+      "role": "preserved-source-reading",
+      "bytes": 1426,
+      "sha256": "52a8df09edc7f66325aff773722f6f875b3a36c5c48704ca98d0628d457283ed"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-a990d5483892c907.json",
+      "role": "preserved-source-reading",
+      "bytes": 1419,
+      "sha256": "eea55826ab02fce852e17f976b0ef25723907c94f16b7ec4f08dc2840691bbe6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-bb9ac4c88d7579d1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1361,
+      "sha256": "fefbfd766358137755c8e5d0a3036059a77d8cfebae73e5356263e34201634ee"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-bff346db7dfd4a2d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1319,
+      "sha256": "f5e00dcaf33a33ffc5a254b392d0e8e842016003bfd88a1b6f3146bf09151edc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-c36d15940ae2e325.json",
+      "role": "preserved-source-reading",
+      "bytes": 1444,
+      "sha256": "c81642fcc468bf3a39ade2bf7fd150514cf581334bf67b71cbf8cb546ed408d1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reading-notes/sg-source-d631bb4e8f98325d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1522,
+      "sha256": "5b379eb8f806a9add13a0600b2dc89c7ab464ba63d83f16bec845b1e24396599"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reused-regulatory-sources.json",
+      "role": "research-support",
+      "bytes": 1459,
+      "sha256": "27fa7e549aec417a911ace42572b3e562bcf075b64c74b3995592f51bb2f4bc0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/reviewed-memory.json",
+      "role": "research-support",
+      "bytes": 45235,
+      "sha256": "e52bb777e1a7235859475cb8db477f00c5ea166423482c85a17bf290afa99d9d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/search-response-index.json",
+      "role": "research-support",
+      "bytes": 92547,
+      "sha256": "cb5bde3c58963723208bcf40a60933784fd4a3038d2d99673059a839349fab52"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/source-fetch-index.json",
+      "role": "research-support",
+      "bytes": 352197,
+      "sha256": "057f76ad7539b944b37f1a334f2b9e3ec9dbd3bea75ab22f5237d9770bec58e2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/unit-search-log.json",
+      "role": "research-support",
+      "bytes": 438954,
+      "sha256": "24524efa7bb04be30fff449cc89b6bfd442e47fbaaabef58cff463c0739b1f9a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-shaanxi-gansu/web-search-log.json",
+      "role": "research-support",
+      "bytes": 4823,
+      "sha256": "eddbdf9ba7ef4b0373039b5d7e461dd390cb5bbb3cf9863936def7acbe487fff"
+    },
+    {
       "path": "research/china/integration/china-collection.json",
       "role": "current-integration",
-      "bytes": 8160,
-      "sha256": "6d79384fff9ffd2d843ab3f557430270645c6b34f1a8c22157b16c1fafd55e08"
+      "bytes": 8562,
+      "sha256": "d571adc2c24b36ed63cedd498b10011cc3080ed0f819880a7babcd09cf780207"
     },
     {
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 2570,
-      "sha256": "dd1c845e3a07b29fcf2960eb58bf71e64a146b796400e86b04b30f32b60ff744"
+      "sha256": "b577d5f6a9f07618084e41f86f7c316f2558cd9183b27c5383a7570e8a7187b6"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
@@ -1729,8 +2425,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "research-support",
-      "bytes": 4181,
-      "sha256": "b2067fac620efa9868ed76b257c54f31fa3bd1aa9ddd1d5f6cdd03ffe969e25d"
+      "bytes": 4524,
+      "sha256": "52da050176d712d6ce8297bd748edf1e220727f7b4842475936b7f248c9461db"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -1807,20 +2503,20 @@
     {
       "path": "research/flavors/county-maps.json",
       "role": "research-support",
-      "bytes": 98533,
-      "sha256": "fefae401383d818fa36d232368530fbda6a1ffa05ee0ed1353f1a4efd7ab80b8"
+      "bytes": 109242,
+      "sha256": "7a7b1cd7629576157e8a323955b857ad79925c477c383b522bdc15cdfdcc16b8"
     },
     {
       "path": "research/flavors/coverage.json",
       "role": "research-support",
-      "bytes": 65275,
-      "sha256": "7725bf5b6bf14d29d112960ee7154ec74b6b8fc06494b21a9c078b6cff59482d"
+      "bytes": 72081,
+      "sha256": "631eaabb134e4ff395ab6d70b59a40d9e7c1b9d6865fafd2443b9658822dd34f"
     },
     {
       "path": "research/flavors/images/coverage.json",
       "role": "research-support",
-      "bytes": 165694,
-      "sha256": "ac00da739a75a1db26c854a8318d74d0815e9764392103d8f137398baa4bdb56"
+      "bytes": 174713,
+      "sha256": "9cc7d21779c7ca5837d761aaebdf32439be81eae025c852120b0774409de5f92"
     },
     {
       "path": "research/flavors/images/review.json",
@@ -6703,8 +7399,8 @@
     {
       "path": "research/flavors/queue.json",
       "role": "research-support",
-      "bytes": 2696782,
-      "sha256": "1cec9fae05ac78bf6fa8a1911e4036f089f073187de569fbc544ecb04c9c56a4"
+      "bytes": 2975449,
+      "sha256": "629581ff66e42ab7a64905295d877169e2bc765a2d4719b16d68db4dd7bff6a2"
     },
     {
       "path": "research/flavors/reading-notes/2026-11-14/ah-pomegranate.json",
@@ -6997,8 +7693,8 @@
     {
       "path": "research/flavors/sources.json",
       "role": "research-support",
-      "bytes": 1674026,
-      "sha256": "6bd3a9d0f7cdd0d4e82c04196b7d243785e7d833c57be8668f91004ad477b91b"
+      "bytes": 1777289,
+      "sha256": "b1036b800589e7f5297d45d2b647e6788751f300e084bf2f779bcaabcced17c0"
     }
   ]
 }

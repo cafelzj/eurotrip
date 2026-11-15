@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-cd5f1a155c84b56a",
+  "title": "地理标志产品公告 · 2009年第68号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC68%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "cd5f1a155c84b56ab3d5198cf91da70aece9eb2c",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第68号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC68%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "e3cee013fda0b1020e94aa6ca810f93190f9fc2940a7d951496ccf181844ff6a",
+    "textSha256": "ea1b7ba9b53fbbfc792a9b010c6585f5427c9e3b7647b637fc85f952d93a05a6",
+    "textLength": 5100,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/cd5f1a155c84b56ab3d5198cf91da70aece9eb2c.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/cd5f1a155c84b56ab3d5198cf91da70aece9eb2c.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-646eb3e6ef1dc1d672",
+      "name": "定边马铃薯",
+      "scope": "定边马铃薯地理标志产品保护范围为陕西省定边县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "紫花白(克新1号)",
+      "sensory": "薯形椭圆形,规整匀称,单薯重100克至400克,芽眼浅、少,表皮干爽白净、光滑,白皮白肉,熟食口感绵、香、甜,无麻辣感",
+      "process": "",
+      "sectionSha256": "2d7e42de5f40c010a3a5173fb5a9668a5d283e89f3c32e264ddd936fac2f4feb"
+    }
+  ]
+}

@@ -1,0 +1,2577 @@
+{
+  "date": "2026-11-15",
+  "responses": [
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-000.json",
+      "sha256": "7f693675c81ee01a47c735e73c354b595dc3185e5e747e7d0acad751947a0988",
+      "urls": 29,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-001.json",
+      "sha256": "a50c87f9e9483f8cc8c0592933af0086d75573bbe0ae00003ff9b727a1b438df",
+      "urls": 27,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-002.json",
+      "sha256": "28efebb36180bed9b3e4ce2b88d6783d7fe7dba041462c6430edaa754a12f294",
+      "urls": 31,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-003.json",
+      "sha256": "fa203714eb7260e120d88090912178e596cbe96f18e0048775ab81752ea7098b",
+      "urls": 33,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-004.json",
+      "sha256": "dffa6f407a49176906d1d643543e95147b58d8af7a99ea66249c4770ad579d53",
+      "urls": 30,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-005.json",
+      "sha256": "17fb5ddca597f02406a69aee9ba735ed14df3d4aa871b461ca9b004e3a9bc839",
+      "urls": 26,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-006.json",
+      "sha256": "acf1800a3ecbd1fa280554a9c7d98b177b649f6262a64369cd50acbe532257af",
+      "urls": 35,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-007.json",
+      "sha256": "7f947b6cc5165bdc8174cc4e07b12413d30a8cb6a769eb94e2aa66fa526a298e",
+      "urls": 30,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-008.json",
+      "sha256": "6834814e7761bdc38bd9f565d771d1b59ae8fe34c0f8947c1a49f195e1485745",
+      "urls": 29,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-009.json",
+      "sha256": "3b41300c10697992fac437645158c7f729f963e621f19c30dc0b3d7bd2493c3b",
+      "urls": 32,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-010.json",
+      "sha256": "e15e1d76c38a3b7e5f0cf775641f60ce03027ee9f959a786e7e8b8e80e39d144",
+      "urls": 38,
+      "status": "search-results-not-article-review"
+    },
+    {
+      "responseFile": "research/.local/shaanxi-gansu-20261115/web-search-011.json",
+      "sha256": "ead5ef7a78a7288e2457fa1935c05275cb9bd78ae5432c8db78ba4840979d861",
+      "urls": 28,
+      "status": "search-results-not-article-review"
+    }
+  ],
+  "results": [
+    {
+      "url": "https://www.gscn.com.cn/specialties/tcda/",
+      "title": "特产档案_中国甘肃网",
+      "searchResponses": [
+        "web-search-000.json",
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.maigoo.com/goomai/194959.html",
+      "title": "〖甘肃美食攻略〗甘肃著名陇菜 特产 小吃 美食街 老字号餐厅一览→榜中榜知识",
+      "searchResponses": [
+        "web-search-000.json",
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://nynct.shaanxi.gov.cn/xxgk/gknr/zc/qtwj/202101/P020241224638954619944.PDF",
+      "title": "关于印发我省入",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/spgs/tctj/202504/t20250407_26618.html",
+      "title": "陇原特产 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://new.tzxm.gov.cn/zckd/fzgh/202112/t20211220_1308722.shtml",
+      "title": "陕西省人民政府办公厅关于印发“十四五”制造业高质量发展规划的通知_发展规划_投资项目在线审批监管平台",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.ca.sn.cn/famous",
+      "title": "地方名品|长安风物——陕西地理标志·名优名录",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://m.maigoo.com/goomai/194959.html",
+      "title": "〖甘肃美食攻略〗甘肃著名陇菜 特产 小吃 美食街 老字号餐厅一览→榜中榜知识",
+      "searchResponses": [
+        "web-search-000.json",
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.zgfxld.com/nd.jsp?id=1713",
+      "title": "陕西省乡村旅游精品线路 - 扶携领地",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://fzb.ankang.gov.cn/Node-96023_1.html",
+      "title": "安康方志馆",
+      "searchResponses": [
+        "web-search-000.json",
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://news.cri.cn/n/20250407/a0bf4c3b-c9e2-5507-ac34-70bfd4a9d7ea.html",
+      "title": "甘肃省“陇原美食荟”活动开启-国际在线",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/col9816/col9817/col9843/202609/t20260922_1303893.html",
+      "title": "宝鸡市国民经济和社会发展第十五个五年规划纲要 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-000.json",
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://gs.ctrip.com/html5/you/travels/100060/4097094.html",
+      "title": "〖甘肃〗驶向绚烂西北 ，领略自然神迹与人类文明的风云际会！-甘肃游记攻略〖携程攻略〗",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.tesegu.com/techan/shangluo/",
+      "title": "商洛特产有哪些？正宗商洛特产图文介绍 -陕西商洛特产大全 - 特色谷",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://wap.acfic.org.cn/zcsd_14048/df/202112/t20211230_231813.html",
+      "title": "陕西省人民政府办公厅关于印发“十四五”制造业高质量发展规划的通知",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.slrbs.com/news/shms/2026-09-23/1954290.html",
+      "title": "青山藏好物，一脉连双城 - 商洛之窗",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/spgs/tctj/202504/t20250408_26656.html",
+      "title": "陇原特产 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.xn--btrs6f400a.com/index.php/wap/jyxw/2074.html",
+      "title": "陕西省特色农产品（更新版）",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://snipa.shaanxi.gov.cn/ztzl/sxszdcyzldhcgfbpt/202307/P020241231629507761318.pdf",
+      "title": "二〇二",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.abeedata.com/home/article/detail/id/31208",
+      "title": "小蜂观察：2025年陕西省商洛市茶产业简析-农小蜂",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://6d65-member-5gxnjq7a9336dfff-1301875770.tcb.qcloud.la/cloudbase-cms/upload/2025-10-16/s3q9qdqnqh7maa3a2i2fpdpfql0yj70m_.pdf?sign=127ea9f9d712487fa2c43570473c9781&t=1760599571",
+      "title": "中国茶叶品牌发展报告（2024） 131",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.ankang.gov.cn/Content-2100292.html",
+      "title": "秦巴汉水韵　安康富硒茶-安康市人民政府",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://gjcr.moa.gov.cn/cxf/202205/t20220519_6399716.htm",
+      "title": "2022“国际茶日”云推介|茶故事·安康富硒茶",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsxz/sxdelpdf/daks_16206/202109/P020240923626883258491.pdf",
+      "title": "陕西新华出版传",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.gscn.com.cn/gsnews/system/2017/02/13/011605150.shtml",
+      "title": "甘肃14市州特产大全 你的家乡都有啥？_小陇_中国甘肃网",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://www.sxtrade.com.cn/special_pavilion/index/12",
+      "title": "陕西对外贸易交易平台 - Powered by 陕西省贸促会",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://bkso.baidu.com/item/%E5%95%86%E5%8D%97%E8%8C%B6/3546696?fromModule=lemma_inlink",
+      "title": "商南茶_百度百科",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://xcb.ankang.gov.cn/Content-2777989.html",
+      "title": "《陕西日报》| “一杯茶”的花式打开方式 - 中共安康市委宣传部",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsxz/xbsxz/sls_16207/201405/P020240923607766472411.pdf",
+      "title": "编方志出版社",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://stzg.china.com.cn/2023-07/14/content_42446537.htm",
+      "title": "茶产业 绿水青山就是金山银山的商洛实践-中国网生态中国",
+      "searchResponses": [
+        "web-search-000.json"
+      ]
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12543873&stockid=002910",
+      "title": "庄园牧场(002910)_公司公告_庄园牧场：2026年半年度报告新浪财经_新浪网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.gscn.com.cn/specialties/system/more/1005000000000000/0000/1005000000000000_00000009.shtml",
+      "title": "特产档案_中国甘肃网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://paper.cnstock.com/html/2024-07/27/content_1947849.htm",
+      "title": "兰州庄园牧场股份有限公司关于投资设立全资子公司并完成工商注册登记的公告|上海证券报",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://finance.sina.com.cn/jjxw/2024-11-18/doc-incwmvkv0544755.shtml",
+      "title": "西安东方乳业再迎股权变化 在乳业并购浪潮下陕西本土公司纷纷被行业头部企业“相中”|陕西省_新浪财经_新浪网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?CompanyCode=80300635&gather=1&id=12268256",
+      "title": "庄园牧场(002910)_公司公告_庄园牧场：2025年年度报告新浪财经_新浪网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2025/04/15/013310949.shtml",
+      "title": "〖甘快看〗酸奶界的“天花板”，一口就“沦陷”！ _甘肃美食_中国甘肃网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://manage.gsei.com.cn/html/1660/2024-03-29/content-494305.html",
+      "title": "吃完天水麻辣烫，下一站，武威宠你！_文化旅游_甘肃经济信息网欢迎您！",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://zymc.gansufarm.com/dfry1/qyje1/",
+      "title": "企业介绍 - 兰州庄园牧场股份有限公司",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202012161440558361_1.pdf?1608140146000.pdf=",
+      "title": "西部担保-《一周金融动态》第44期，总第285期-201214.pdf",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.moa.gov.cn/nybgb/2023/202306/202307/P020230719348171286633.pdf",
+      "title": "中华人民共和国农业农村部公报",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/%E7%94%98%E8%82%83%E7%9C%81",
+      "title": "甘肃省",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://basic.10jqka.com.cn/002910/company.html",
+      "title": "庄园牧场(002910) 公司资料_F10_同花顺金融服务网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=10440424&stockid=002910",
+      "title": "庄园牧场(002910)_公司公告_庄园牧场：2024年半年度报告新浪财经_新浪网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/gjjl/szsl/202411/t20241115_23529.html",
+      "title": "数字丝路 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://szb.gansudaily.com.cn/gsrb/pc/con/202607/14/c286521.html",
+      "title": "甘肃日报数字报平台",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.chinaculturalcentre.my/%E4%BA%91%E4%BA%AB%E7%94%98%E8%82%83%E3%80%80%E9%99%87%E5%8E%9F%E9%A3%9F%E9%9F%B5/",
+      "title": "云享甘肃　陇原食韵 - 中国文化中心（吉隆坡）",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905ijuq.html",
+      "title": "甘南非遗特色美食旅游线路入选全国榜单甘肃|甘南藏族自治州|甘肃省|酸奶|技艺|临潭_新浪新闻",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://gswhly.com.cn/h-col-128.html",
+      "title": "甘肃文化旅游网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://www.15386.cn/post/165553.html",
+      "title": "甘肃旅游攻略 - 旅荐网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://app.dahecube.com/nweb/news/20250529/236471n710b089cd57.htm",
+      "title": "农业产业化国家重点龙头企业名单公布",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gansudaily.com.cn/system/2025/07/23/031219933.shtml",
+      "title": "〖陇上非遗〗走“簪花之路” 品草原美味",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://financialfilings.com/filings/lanzhou-zhuangyuan-pasture-co-ltd/annual-report/2024/37551467/",
+      "title": "Lanzhou Zhuangyuan Pasture CO., LTD. - Annual Report 2023 | FinancialFilings",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://gscn.com.cn/specialties/",
+      "title": "甘肃特产_中国甘肃网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2025/05/15/013325371.shtml",
+      "title": "地域风味酸奶热销 “多多好特产”助力“甘味”乳品走向全国_甘肃特产_中国甘肃网",
+      "searchResponses": [
+        "web-search-001.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col784/gzwhbjstbhq/gzdt/202602/t20260210_1246878.html",
+      "title": "宝鸡市商务局 工作动态 《2026宝鸡年味地图》重磅发布",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col11668/col11671/col11683/202508/t20250806_1177362.html",
+      "title": "宝鸡市商务局 提案建议办理",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/col9816/col9817/col9845/col9848/2024nbmzhjsgkdwml/202509/P020250925370965778436.pdf",
+      "title": "中共宝鸡市委宝鸡市人民政府接待办公室",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/shanxi1/detail/8174.html",
+      "title": "陕西·咸阳“关中印象 乡村记忆”之旅",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.tcdj.gov.cn/info_49841.aspx",
+      "title": "2026铜川特色产品专场推介会在盐城举办-铜川党建网",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/bmpd/bjsswj/gzdt/yzdt/202607/t20260720_1286191.html",
+      "title": "“主角登台陕味浓” 宝鸡好物精彩亮相全省暑期消费季 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col788/col795/swdtt/202605/t20260527_1272954.html",
+      "title": "宝鸡市商务局 商务动态 宝鸡美食圈粉丝博会 参展成效创新高",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail_g7yU_730/4450.html",
+      "title": "陕西·咸阳“山南水北 趣享农耕”之旅",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/bmpd/bjsswj/gzdt/gzdt/202505/t20250506_1145945.html",
+      "title": "“醉宝鸡”特色美食体验店开业运营 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/col46/col52/202607/t20260715_1285066.html",
+      "title": "宝鸡“票根经济”数字平台全省首发 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://ipr.mofcom.gov.cn/article/gnxw/dlbz/202303/1976903.html",
+      "title": "中国保护知识产权网",
+      "searchResponses": [
+        "web-search-002.json",
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/bmpd/bjsswj/gzdt/gzdt/202510/t20251028_1221786.html",
+      "title": "丝路美酒醇享世界·非遗美食香漫金秋——市商务局成功举办酒展会美食品鉴和美食展销活动 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/bmpd/bjsswj/gzdt/gzdt/202610/t20261030_1313538.html",
+      "title": "丝路聚好物！宝鸡12家企业亮相西北特产展销对接活动 宝鸡市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col11668/col11671/col11683/202508/t20250806_1177361.html",
+      "title": "宝鸡市商务局 提案建议办理",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/zzzb/swdt/202605/t20260522_1272129.html",
+      "title": "一口西府味，醉美宝鸡城——第十届丝博会宝鸡美食展惊艳亮相 宝鸡市商务局",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/gk/wtly/ssml/6261100af8fd1c0bdc90f772.html",
+      "title": "西安市非物质文化遗产项目名录--西安市人民政府",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.tcdj.gov.cn/info_48300.aspx",
+      "title": "全市春节期间消费市场持续回暖-铜川党建网",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col784/gzwhbjstbhq/gzdt/202510/t20251028_1221818.html",
+      "title": "宝鸡市商务局 工作动态 跟着美食游宝鸡——《2025宝鸡马拉松美食地图》发布！",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/shanxi1/detail/7532.html",
+      "title": "陕西·“人间烟火 关中记忆”寻味之旅",
+      "searchResponses": [
+        "web-search-002.json",
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.spp.gov.cn/spp/dfjcdt/202311/t20231125_634815.shtml",
+      "title": "陕西咸阳：打好知识产权检察保护“组合拳”_中华人民共和国最高人民检察院",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.tcdj.gov.cn/phone/info_48865.aspx",
+      "title": "铜川文旅在2026西安丝路旅博会斩获两项大奖-铜川党建网",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailedCNF?id=FFA1C95DB0F7228DE05397BE0A0AE1E4",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/sy/gzdt/sxdt/202304/t20230411_2600971.html",
+      "title": "咸阳：培育打造地理标志品牌 助力营商环境-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://swj.baoji.gov.cn/col788/col795/swdtt/202607/t20260713_1284626.html",
+      "title": "宝鸡市商务局 商务动态 三秦百味聚宝鸡 陕味飘香促消费——2026 宝鸡（青岛）啤酒音乐美食季“三秦百味・陕味地市美食荟”盛大启幕",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://wlj.xa.gov.cn/wbdw/fwzwhyc/6261100af8fd1c0bdc90f772.html",
+      "title": "西安市非物质文化遗产项目名录--西安市文化和旅游局",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/shanxi1/detail/7538.html",
+      "title": "陕西·陕北味道 文化盛宴",
+      "searchResponses": [
+        "web-search-002.json",
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://gxhzw.yancheng.gov.cn/art/2026/8/6/art_3276_4445098.html",
+      "title": "盐城市供销合作总社 社情要闻 “相约苏超 菌香传情”2026年铜川特色产品推介系列活动在盐举行",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202603/P020260306319732722044.pdf",
+      "title": "05B20260306C",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.baoji.gov.cn/col9816/col9817/col9832/202401/P020241228470288414207.pdf",
+      "title": "Untitiled",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sx_9787/202501/t20250102_957558.html",
+      "title": "中华人民共和国文化和旅游部",
+      "searchResponses": [
+        "web-search-002.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/zsxw/202606/abb6b8a5dcf9457d88b50190fbc037f8.shtml",
+      "title": "〖丝博快讯〗汉中特色美食精彩亮相第十届丝博会陕菜美食文化交流活动_汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xczgshsh2023/ngfp/detail_xl/3791.html",
+      "title": "陕西·延安红色农耕探寻之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/hzms/202501/c946d8fe17964d94ab2210540683075e.shtml",
+      "title": "汉中这些非遗美食，看到第一个就饿了~_汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/shanxi1/detail/6856.html",
+      "title": "陕西·榆林年俗非遗体验之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/shanxi1/detail/6857.html",
+      "title": "陕西·清明谷雨民俗探源之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail_g7yU_730/4449.html",
+      "title": "陕西·圣地延安“红”色之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5030.html",
+      "title": "陕西·延安过大年年俗体验之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcygj/shanxi1/detail/7193.html",
+      "title": "陕西·渭南“黄河岸边 古镇古村”之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/zsxw/202607/e7e36b5c81cb4d3fa3bd60001881206e.shtml",
+      "title": "汉中优质文旅资源亮相西安，160多项活动解锁夏日惊喜_汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/dcxc/detail/5008.html",
+      "title": "陕西·“汉江之源 羌族故里 ”体验之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/zwdt/202210/cc5ab7b946334f918b8786b126c62260.shtml",
+      "title": "汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/shanxi1/detail/8175.html",
+      "title": "陕西·回圣地延安 过红火新年",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/hzms/202606/f03d80b513ba4cd9a28f4e7b4cc2de44.shtml",
+      "title": "汉中人夏日必备清凉美食！看完整个人都凉爽了→_汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5029.html",
+      "title": "陕西·欢聚陕北 年年有“榆”",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/fymstslvxlzs/xl_detail/9702.html",
+      "title": "陕西省丨寻味关中 食在渭南——寻访舌尖上的渭南非遗之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail_g7yU_730/4448.html",
+      "title": "陕西·渭南“丰”景这边独好之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailed?id=290F2AAC5F869F89E06397BE0A0A9A38",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022shanxi2/detail/2499.html",
+      "title": "“走进革命圣地 感悟初心使命”红色之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcygj/shanxi1/detail/7191.html",
+      "title": "陕西·榆林“黄土高原边塞探秘”之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.zb.gov.cn/zbxzf/mswh/202210/0c58aa315829460d8e64981f302f049d.shtml",
+      "title": "镇巴6大美食，彰显地方特色 - 民俗文化 - 镇巴县人民政府",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/sy/gzdt/sxdt/202111/t20211101_2599880.html",
+      "title": "延安特色小吃地方标准发布-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailedCNF?id=0018BB266E022FCEE06397BE0A0A285B",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail/1595.html",
+      "title": "汉中“赏油菜花海•品三国文化”田园养心之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.hanzhong.gov.cn/hzszf/xwzx/shxw/202606/0595e215a8384bfc8b47dc6196074ad8.shtml",
+      "title": "传统守根脉 创新焕新颜 - 社会新闻 - 汉中市人民政府",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail_g7yU_730/4446.html",
+      "title": "陕西·汉中“品三国文化 赏秋日橘韵”体验之旅",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailedCNF?id=0018BB266E032FCEE06397BE0A0A285B",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailed?id=290F2AAC5F879F89E06397BE0A0A9A38",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://jhj.hanzhong.gov.cn/hzjhjwz/zsxw/202606/a1cbfe021d9a4760b87bf7fb5f849394.shtml",
+      "title": "新突破！汉中8家单位入选→_汉中市经济合作局",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.samr.gov.cn/xw/df/art/2023/art_9bab997f32514df3b2d80d2f8f1467dd.html",
+      "title": "光芒在这里闪耀——走进陕西延安探寻红色记忆纪实",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.ccgp-shaanxi.gov.cn/gpx-bid-file/ZF_JGBM_000003/610801/2024/9/27/8a69c9998c649bfd018c66211b420d76/gpx-template/8a69c2509211dc7a0192b39118ed333a.pdf?accessCode=e01a8e5456af492810d2bbd250bcb165",
+      "title": "项目编号：YLJKZC-榆林市-2024-24",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.hanzhong.gov.cn/hzszf/xwzx/shxw/202308/b878b95f009747ab95293c7443591205.shtml",
+      "title": "一碗汉中面皮 蒸出幸福味道 - 社会新闻 - 汉中市人民政府",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://www.hljlanxi.gov.cn/lx/xqxz/202501/c12_201147.shtml",
+      "title": "兰西县人民政府—辖区乡镇",
+      "searchResponses": [
+        "web-search-003.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/shanxi1/detail/1594.html",
+      "title": "商洛“22℃商洛•中国康养之都”秦岭康养清凉之旅",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/shanxi1/detail/8176.html",
+      "title": "陕西·秦风楚韵 年味商洛",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/06/10/28550.html",
+      "title": "这些兰州专属“落地签”等你来打卡！ - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-004.json",
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/shanxi2/detail/2018.html",
+      "title": "商於古道文化体验研学之旅",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.ankang.gov.cn/Content-2893145.html",
+      "title": "本地人推荐→在安康这样贴秋膘！-安康市人民政府",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/sxnj/202508/P020250822375845378471.pdf",
+      "title": "S H A A N X I",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/shanxi1/detail/7534.html",
+      "title": "陕西·“山水秦岭 秘境风味”之旅",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2025/04/18/24585.html",
+      "title": "文旅惠民场景创新 畅游兰州提质升级 兰州文旅全域发力促消费 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/gansu/detail/2484.html",
+      "title": "梨园诗画 耕读传家研学之旅",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.jyg.gov.cn/wlj/ztzl/zdgz/ghfz/art/2023/art_4d20a60a02604c1daea2f77796ee84df.html",
+      "title": "嘉峪关市推动文化旅游产业高质量发展实施方案",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.ankang.gov.cn/Content-2722303.html",
+      "title": "关于打造地方特色美食品牌的建议-安康市人民政府",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/csxz2022/gansu/detail_g7yU_731/4454.html",
+      "title": "甘肃·西部新城 创意景观探访游",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xczgshsh2023/cxyh/detail_cha/3872.html",
+      "title": "陕西·“富硒茶乡·幸福安康”秦巴茶香探寻之旅",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://rd.ankang.gov.cn/Content-2722304.html",
+      "title": "关于打造地方特色美食品牌的建议-安康市人大常委会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://wh.ankang.gov.cn/UploadFiles/akjyhfj30/file/20220906/20220906153608_4866.pdf",
+      "title": "安康市文化和旅游广",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.jyg.gov.cn/zfxxgk/fdzdgknr/zfgb/2025nzfgb/d6qzd82q/art/2025/art_be7d487c9a8d4a0b9c64d8356a4cd26f.html",
+      "title": "嘉峪关市人民政府关于公布第九批市级非物质文化遗产代表性项目名录的通知",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://ipr.mofcom.gov.cn/article/gnxw/sb/202604/1995812.html",
+      "title": "中国保护知识产权网",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://lx.baojidj.gov.cn/info/1159/3707.htm",
+      "title": "秦岭深处的幸福“三重奏”——商洛推进乡村振兴观察-陇县党建网",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://rd.ankang.gov.cn/Content-2874799.html",
+      "title": "关于加强安康城区标识文化建设的建议-安康市人大常委会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://rd.ankang.gov.cn/Content-2928485.html",
+      "title": "关于特色新资源食品申报国家新食品原料助推富硒产业高质量发展的建议-安康市人大常委会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://xcb.ankang.gov.cn/Content-2851356.html",
+      "title": "《陕西日报》| “名特优新进香港”产品对接会安康专场举办 - 中共安康市委宣传部",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.ndrc.gov.cn/xwdt/ztzl/qgxclydxal/jqmsfzx/202011/t20201125_1251221.html",
+      "title": "〖党政包抓的乡村旅游发展模式——陕西省商洛市〗-国家发展和改革委员会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/08/30/21855.html",
+      "title": "“黄河之滨也很美”2024兰州文旅（西安）招商推介会成功举办 - 行业交流 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.lzxq.gov.cn/system/2026/07/12/031399614.shtml",
+      "title": "兰洽会期间我省推出系列文旅惠民大礼包",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://rd.ankang.gov.cn/Content-2938739.html",
+      "title": "关于支持安康地方餐饮业发展的建议-安康市人大常委会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.ankang.gov.cn/Content-2908299.html",
+      "title": "清明来安康，用舌尖收藏整个春天-安康市人民政府",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.jyg.gov.cn/wlj/xwdt/tzgg/art/2026/art_16bd460ac49441f18202aaefcb1fbc17.html",
+      "title": "关于拟推荐嘉峪关市8个非遗项目申报2026年度甘肃省（第三批）省级非遗工坊名单的公示",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/12/20/23649.html",
+      "title": "〖祁连山下是我家〗让长城文化在嘉峪关市可感可及可消费 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2025/12/19/27019.html",
+      "title": "“冬春游兰州·乐享新生活”——十条主题线路，带您畅游兰州 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-004.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/10/27/29948.html",
+      "title": "激活文旅全要素 赋能消费新业态——武威文旅消费体验全链条升级 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://mail.bypc.gov.cn/zwgk/zcwjk/aztfl/smhgly/art/2022/art_4abb7c7f4f1247a3964e538731d8de08.html",
+      "title": "白银市人民政府办公室关于印发《白银市“十四五”文化广电和旅游发展规划》的通知",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/wuwei/wwtslyzq/index.html",
+      "title": "武威特色旅游专区",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/gansu/detail/6852.html",
+      "title": "甘肃·畅游天水 乐享自然",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/09/29/29672.html",
+      "title": "“甘肃人游甘肃”天水“双节”精品旅游线路推荐（一） - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyinqu.gov.cn/XZJDBMDW/bmdw/byqwhtyhlyj/fdzdgknr/ghjh/art/2024/art_2c4fffc7653f4afb9180e6eb1443ac50.html",
+      "title": "白银美食地图小程序即将上线",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyinqu.gov.cn/XZJDBMDW/bmdw/byqscjdglj/fdzdgknr/spyp/spypaqbz/art/2026/art_9b70764ce482452892c3efeba3daf2fe.html",
+      "title": "白银区市场监督管理局2026年7月份特色食品抽检信息公告",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://mail.bypc.gov.cn/sswj0120/fdzdgknr/jytabl/zxta/art/2022/art_eb3a1e390d2840efa921a6fd4b09edfc.html",
+      "title": "关于对市政协七届三次会议第81号提案的办理意见",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyinqu.gov.cn/zjby/YZBY/index.html",
+      "title": "游在白银",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/05/08/20368.html",
+      "title": "甘肃3条线路入选“岁时节令 自在乡村”全国乡村旅游精品线路 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/gansu/detail/2030.html",
+      "title": "天水之间 畅享青鹃亲子之旅",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/03/24/27796.html",
+      "title": "武威非遗展演走进北关市场 解锁“三套车”的烟火美味 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2025/11/06/26600.html",
+      "title": "层林尽染秋色醉——精品线路游天水（三） - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/10/14/22743.html",
+      "title": "武威：加快培育壮大文旅领域新质生产力 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/jinchang/ztfw/hzxx/art/2026/art_b813ad8b570941c4beb601ec885bd04a.html",
+      "title": "一场京华相逢 金昌遇见世界目光——“让世界看见河西走廊”北京专场推介活动见闻",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://plsw.pingliang.gov.cn/xwdt/bmdt/art/2024/art_c7db99c2c2ef4db48f9f457d0a1a3667.html",
+      "title": "平凉市商务局组织企业搭上热辣滚烫的快车 亮相“天水麻辣烫‘吃货节’”",
+      "searchResponses": [
+        "web-search-005.json",
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_nlhwzzxc/gansu/detail/8171.html",
+      "title": "甘肃·武威“沙海绿洲 大漠风情”之旅",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/04/14/27980.html",
+      "title": "热辣滚烫 寻味天水——第三届非遗美食文旅嘉年华活动侧记 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/wuwei/ztfw/zsyzfwzq/hzxx/art/2026/art_6e7d0aa075a044fdaee2c5756ca5d182.html",
+      "title": "天马行空 乐在武威——“让世界看见河西走廊”北京专场推介活动侧记",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/01/12/27221.html",
+      "title": "天水市“冬春之约 尽在天水”精品旅游线路 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/gansu/detail/2890.html",
+      "title": "撒欢沙漠 玩转温泉家庭游",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/05/29/28423.html",
+      "title": "你好，来武威这些「落地签」拍了吗？ - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/06/08/28510.html",
+      "title": "寻根拜祖逛龙城 夜游天水烟火浓 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/wuwei/ztfw/xmtzfwzq/xwdt/art/2026/art_7fbfe422f0d84dceb870e8cad6f11a6f.html",
+      "title": "招商引资 | 2026年武威市投资机会清单（特色农产品及食品加工产业链项目）",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/10/31/23042.html",
+      "title": "“维娜丝路中国行”走进羲皇故里天水 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/gjjl/jksl/202609/t20260927_40044.html",
+      "title": "健康丝路 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-005.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/ghb.html",
+      "title": "张掖市人民政府>>张掖美食",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/",
+      "title": "张掖市人民政府>>张掖美食",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/202512/t20251215_1487705.html",
+      "title": "张掖市人民政府>> 张掖美食之“甘州排骨”",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/202512/t20251215_1487705_ghb.html",
+      "title": "张掖市人民政府张掖美食之“甘州排骨”",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/sswj/dzdt/gzdt/202609/t20260928_1591036.html",
+      "title": "张掖市商务局-以食为媒兴文旅 百味飘香金张掖",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/202608/t20260824_1577737_ghb.html",
+      "title": "张掖市人民政府张掖美食之一碗搓鱼子，品味河西农家烟火",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/mzj/dzdt/gzdt/202512/t20251218_1489594_ghb.html",
+      "title": "张掖市民政局-“小切口” 激活乡土味： “高台地名+面筋” 的特色美食突围",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/szb/dzdt/gjzy/202110/t20211012_723060.html",
+      "title": "张掖市史志办-张掖风味小吃",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/202609/t20260930_1591825.html",
+      "title": "张掖市人民政府>> 张掖美食之一枚张掖花馍，品味河西走廊麦香",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/xbzyms/202606/t20260604_1550222_ghb.html",
+      "title": "张掖市人民政府张掖美食之一碗牛肉小饭，熨帖甘州烟火日常",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/chzy/zyly/mstc/ghb.html",
+      "title": "张掖市人民政府>>美食特产",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/dzdt/xqdt/gzq_2543/202609/t20260929_1591181.html",
+      "title": "张掖市人民政府>> 金张掖特色美食嘉年华启幕 烟火古韵交融激活文旅消费新活力",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://scjg.pingliang.gov.cn/gzdt/sjxw/art/2023/art_d301458463794ce898195856332165bc.html",
+      "title": "喜讯｜平凉市首批地方特色美食团体标准发布",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://gs.spb.gov.cn/gssyzglj/c100057/c100061/202609/1c5787509ba64757be2ad5d3e8af0bfd.shtml",
+      "title": "速递烟火美味 寄递丝路乡愁——酒泉邮政快递行业全力护航本地特色烤馍锅盔香飘全国",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://wlj.pingliang.gov.cn/xwdt/plwlxx/art/2023/art_e2bb217dd55d44b0a533c5e837b270ff.html",
+      "title": "平凉市首批地方文旅康养产业团体标准发布",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.pingliang.gov.cn/xwzx/tpxw/art/2026/art_1e4aa163191248b4a46b3ad13b944f5d.html",
+      "title": "山河纪·崆峒卷 | 暑期 21℃ 的平凉，一碗清凉慰风尘——陇东避暑胜地的消暑美食走笔",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/hjgn/detail/5031.html",
+      "title": "甘肃·庆阳非遗文化探寻游",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://wlj.pingliang.gov.cn/ztzl/yzpl/c/art/2024/art_8f1a682aabc04352b6caebe9eef55b4e.html",
+      "title": "寻味平凉(一) | 五香牛肉",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://nync.gansu.gov.cn/nync/c117878/202302/123429726/files/f3b9dfcd4cfa4c41af6a7241750a914b.pdf",
+      "title": "1.",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://plsw.pingliang.gov.cn/xwdt/bmdt/art/2024/art_1df063b869dc4d6e8c45447fa626a761.html",
+      "title": "平凉市第二届“品美食·游平凉”特色美食文化节暨“甘味”农产品促销活动盛大开幕",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2025/07/22/25405.html",
+      "title": "酒泉非遗美食精彩亮相“游甘肃　品甘味”甘肃文旅（湖南）宣传推介会 - 行业交流 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://wlj.pingliang.gov.cn/ztzl/wwbh/art/2022/art_3b5c67fc70e3459a98e83c916ebe1326.html",
+      "title": "平凉市文化旅游五大平台联合吹响战“疫”集结号：线上博物馆（十六）",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://wlj.pingliang.gov.cn/xwdt/sytt/art/2024/art_482a01f584c344529a0db73cd8b3d305.html",
+      "title": "“又见炊烟·团圆美满”平凉春季节气美食之旅",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://plsw.pingliang.gov.cn/xwdt/bmdt/art/2024/art_d164ef3b9a45417e879f8defb0c1a63e.html",
+      "title": "平凉市第二届“品美食·游平凉”特色美食文化节暨“甘味”农产品促销活动圆满落幕",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zgqingyang.gov.cn/upload/main/contentmanage/share/file/2026/04/19/f94e1c1bee0a47729190ee4a260d67d0.pdf",
+      "title": "庆政发〔2021〕17 号",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/02/13/27528.html",
+      "title": "来酒泉 一起过大年｜酒泉文创美食年货必买清单 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/xcss2024_xcygj/gansu/detail_g7yU_1061/7543.html",
+      "title": "甘肃·观肃州美景 品田园风味",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/gansu/detail/2489.html",
+      "title": "平凉沃土 农耕硕果寻访之旅",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.gsjn.gov.cn/xwzx/jryw/art/2026/art_986c862bc4dc480db2841b867785f5ff.html",
+      "title": "静宁：全链发力 平凉红牛走出富民新路子",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/09/22/29607.html",
+      "title": "这个秋天，来庆阳给自己慢慢“充电” - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://fgw.pingliang.gov.cn/fgsc/art/2024/art_d224878c4bf74dd799cefa5c26096d9b.html",
+      "title": "吸引游客近10万人次 拉动消费超600万元 平凉市第二届特色美食文化节暨“甘味”农产品促销活动圆满落幕",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/gjjl/jksl/202609/t20260929_40100.html",
+      "title": "健康丝路 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://www.zhangye.gov.cn/zyszfxxgk/fdzdgknr_5657/sgjfjysxx/sjczyjsjsgjf/202411/W020241106589954838366.pdf",
+      "title": "一、区域情况.........................................",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/qingcheng/sbqd/gzdt/art/2026/art_06633e984a294754850c17fdd70bb39f.html",
+      "title": "庆阳民俗文化园变身全龄共享“城市会客厅”",
+      "searchResponses": [
+        "web-search-006.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/gannan/tsfw/ygn/wxts/art/2022/art_42fbddbdf5ba45fa9154863a7749a2ae.html",
+      "title": "甘南有哪些特产值得买的？",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://gansu.tianditu.gov.cn/gannan/start/meishi.html",
+      "title": "甘南当地美食",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://linxia.gov.cn/lxz/yxlx/lxgk/art/2022/art_0de97d45ef5c4e38b4b4464ec68273b5.html",
+      "title": "临夏州州情概况",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.lxs.gov.cn/lxs/zwgk/zjdbmxx/bm/lxswtgdhlyj/ggwhfw/art/2026/art_dac4469f9778452bbe98246a26b20779.html",
+      "title": "临夏舌尖三绝：酿皮、甜醅与粽香",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.linxiaxian.gov.cn/lxx/lxxly/LXXGK/art/2022/art_2312cb42183b4e88998afeb9235512ec.html",
+      "title": "临夏县基本情况",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.lxs.gov.cn/lxs/zwgk/zjdbmxx/bm/lxswtgdhlyj/ggwhfw/art/2023/art_f45bc635a8954561aef17b7a3ecc2cdb.html",
+      "title": "吃临夏美食，到这条街就够了，正宗河州味道",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://gansu.tianditu.gov.cn/gannan/start/index3.html",
+      "title": "第一次去甘南须知",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://gansu.tianditu.gov.cn/gannan/start/index2.html",
+      "title": "去甘南须看23问",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/01/30/27407.html",
+      "title": "甘南非遗特色美食旅游线路入选全国榜单 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.linxia.gov.cn/lxz/lxms/tscp/art/2022/art_b4e9a1ad92e3497e88424cd1f0125211.html",
+      "title": "〖云品美食〗临夏美食（下）",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.hezuo.gov.cn/info/1189/65067.htm",
+      "title": "舌尖上的羚城之藏餐-合作市人民政府",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.hezuo.gov.cn/info/1189/59921.htm",
+      "title": "“甘”味之甘南篇-合作市人民政府",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.linxia.gov.cn/lxz/lxms/tscp/art/2023/art_d3832c3b5d244f3d9220c3c7b0304362.html",
+      "title": "“十有临夏”之特色美食 ​“河州味道” 有味更有为",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://linxia.gov.cn/lxz/ywdt/bmdt/art/2026/art_6f9d713a694a4bcc8fec90812b5833bc.html",
+      "title": "临夏美食“五个十”推介及饮食文化交流品鉴会举办",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/linxia/tsfw/qyrzyqzq/index.html",
+      "title": "企业入驻园区专区",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.lxs.gov.cn/lxs/zwgk/zjdbmxx/bm/lxswtgdhlyj/ggwhfw/art/2025/art_a94e6e70b32c4a1698ebe7340bc2090b.html",
+      "title": "第一次来临夏，吃什么美食？",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.lxs.gov.cn/lxs/mllx/index.html",
+      "title": "魅力临夏",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.lxs.gov.cn/lxs/mllx/mstc/mstg/art/2023/art_1647705e29294a41bc1c9e0480934626.html",
+      "title": "这些藏在巷子里的美食，分分钟把你带进临夏人的胃！",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://linxia.gov.cn/lxz/lxms/index.html",
+      "title": "临夏美食",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/longnan/tsfw/qyrzyqzq/zczx/xw/art/2025/art_e499a73c21654ce5a1d50f6d912e386d.html",
+      "title": "陇南：多元产业兴沃土，特色经济绘新颜",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://zhuanti.mct.gov.cn/fymstslvxlzs/xl_detail/9703.html",
+      "title": "甘肃省丨探甘南风情 品非遗烟火——多彩甘南非遗之旅",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.hezuo.gov.cn/info/1189/63580.htm",
+      "title": "锦绣陇原·食尚味道丨九色甘南四原味——一口吃懂雪域高原的「肉奶面菜」-合作市人民政府",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/05/31/20667.html",
+      "title": "陇上乡遇｜走进陇上江南秀美乡村，颠覆你对甘肃的印象 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://jtys.gansu.gov.cn/jtys/c106510/202307/169878065/files/070b031c70be44e6a5a9fd7d30e1eddc.pdf",
+      "title": "思",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.hezuo.gov.cn/info/3329/60187.htm",
+      "title": "甘南特色产品“亮相”国家海洋博物馆-合作市人民政府",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2024/04/19/20194.html",
+      "title": "陇南文旅资源二十四宝｜民俗四秘 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/jmhz/kfpt/202607/t20260713_38105.html",
+      "title": "开放平台 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://gansu.tianditu.gov.cn/gannan/start/index1.html",
+      "title": "甘南州旅游信息系统",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://ydyl.gansu.gov.cn/gsydyl/news/gsdt/202608/t20260820_39086.html",
+      "title": "甘肃动态 - 甘肃一带一路网",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://www.forestry.gov.cn/c/www/dfdt/538769.jhtml",
+      "title": "甘肃陇南特色产业念好“五字经”_国家林业和草原局政府网",
+      "searchResponses": [
+        "web-search-007.json"
+      ]
+    },
+    {
+      "url": "https://baiyuedairygroup.com/connect.php",
+      "title": "联系我们 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.xianyinqiao.com/",
+      "title": "西安银桥乳业科技有限公司-中国学生饮用奶定点生产企业",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyuedairygroup.com/",
+      "title": "百跃 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.gnlyry.com.cn/about.html",
+      "title": "企业简介-燎原乳业股份有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.maigoo.com/brand/9119.html",
+      "title": "银桥乳业品牌介绍-银桥牛奶_鲜奶_酸奶_奶粉-买购APP",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://baiyuedairygroup.com/",
+      "title": "百跃 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://m.foodsc.net/sc/27403.html",
+      "title": "SC10562300100026|燎原乳业股份有限公司-sc认证查询网|食品生产许可证查询网-手机版",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/bccf93a9c73542b19411504b25d44c44",
+      "title": "银桥-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://top.qcc.com/tc/a69e01897d5e.html",
+      "title": "银桥乳业 - 企查查",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/linxia/tsfw/zsyzfwzq/sztsqy/art/2023/art_5f7283ac9e184e669b26d935a36cd251.html",
+      "title": "临夏州燎原乳业有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://ww.wffood.org/home/enterprise/view.html?id=6141",
+      "title": "食品农产品跨境服务统采平台",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://qingzhenrupin.cn.b2b168.com/home.aspx",
+      "title": "关于我们_甘肃燎原乳业集团",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyueyangru.com/about2.asp?cs3=13",
+      "title": "联系我们-百跃中国-百跃纽贝能素-百跃-百跃羊乳集团-百跃经典纽贝能素-百跃羊乳集团合水古象工厂-百跃|百跃羊乳集团|百跃纽贝能素|百跃羊乳-百跃羊乳集团合水古象工厂〖官网〗",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyuedairygroup.com/base.php",
+      "title": "六大生产基地 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://bkso.baidu.com/item/%E8%A5%BF%E5%AE%89%E9%93%B6%E6%A1%A5%E4%B9%B3%E4%B8%9A%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/65754978?fromModule=lemma_inlink",
+      "title": "西安银桥乳业科技有限公司_百度百科",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://gs.singlewindow.cn/enterprise_directory/details?id=2065",
+      "title": "中国（甘肃）国际贸易单一窗口",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.maigoo.com/company/2116.html",
+      "title": "西安银桥乳业(集团)有限公司企业介绍-买购APP",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://m.maigoo.com/company/2116.html",
+      "title": "西安银桥乳业(集团)有限公司企业介绍-买购APP",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyuedairygroup.com/honor.php",
+      "title": "关于羊乳 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://pitchhub.36kr.com/project/2011453327443207",
+      "title": "银桥乳业 | 项目信息-36氪",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.maigoo.com/maigoocms/special/qinzi/010yubao.html",
+      "title": "御宝羊奶品牌介绍-御宝羊奶粉_奶粉-买购APP",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://baiyuedairygroup.com/base.php",
+      "title": "六大生产基地 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.baiyuedairygroup.com/index.php",
+      "title": "百跃 - 西安百跃羊乳集团有限公司",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.gnlyry.com.cn/",
+      "title": "燎原乳业股份有限公司-集产品研发、乳品生产、奶牛养殖与繁育为一体的综合性乳制品生产企业",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.yuexiaoyang.com/",
+      "title": "百跃跃小羊官网 - 百跃跃小羊官网",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://zwfw.gansu.gov.cn/gannan/tsfw/qyrzyqzq/zczx/xw/art/2023/art_17835bebb2574bdfb0bd1040c9122c46.html",
+      "title": "滨城记者看援甘丨一盒牦牛酸奶的山海“旅行”",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/zfxxgk/zfxxgkzl/zc/tzgg/202505/P020250506383679723515.pdf",
+      "title": "# 附件2：西安百跃羊乳集团有限公司婴幼儿配方食品产品标签信息",
+      "searchResponses": [
+        "web-search-008.json",
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.xbmu.edu.cn/sky/info/1231/3541.htm",
+      "title": "甘南藏族自治州燎原乳业有限责任公司-生命科学与工程学院",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://cspa-bs.com/pd.jsp?id=154",
+      "title": "银  桥 - 中国老教授协会学校文化研究委员会",
+      "searchResponses": [
+        "web-search-008.json"
+      ]
+    },
+    {
+      "url": "https://www.mct.gov.cn/preview/special/3415/3421/201202/t20120206_228876.html",
+      "title": "甘肃省非物质文化遗产生产性保护概述、措施及成果",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.jygly.com/lvyougonglue/lvyoudongtai/2025-11-11/117.html",
+      "title": "嘉峪关有哪些特色美食？本地人常去的餐馆在哪里？ --嘉峪关旅行社官网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_27024634",
+      "title": "探寻味蕾盛宴尽在永昌“十八子 ”",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_20224747",
+      "title": "“羊了个羊”金昌美食PICK来了，你心水哪款美食～_澎湃号·政务_澎湃新闻-The Paper",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_21702627",
+      "title": "甘肃硬核年味：大漠戈壁烤肉香，人间烟火嘉峪关！",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_20186367",
+      "title": "“羊了个羊”金昌美食PICK来了，你心水哪款美食～",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_29993755",
+      "title": "澎湃新闻",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.asqxzs.com/eportal/ui?articleKey=766189&columnId=765303&pageId=663068",
+      "title": "甘肃省第一批省级非物质文化遗产名录",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.gsei.com.cn/html/1669/2024-07-01/content-518987.html",
+      "title": "寻味永昌“十八子”_大美丝路_甘肃经济信息网欢迎您！",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.gsei.com.cn/html/1669/2026-06-11/content-677145.html",
+      "title": "这些兰州专属“落地签”等你来打卡！_大美丝路_甘肃经济信息网欢迎您！",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.sohu.com/a/771446967_121062169",
+      "title": "探寻味蕾盛宴尽在永昌“十八子 ”_金昌_美食_丸子",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_28465429",
+      "title": "寻味永昌“十八子”",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://touch.travel.qunar.com/smartlist/7407546",
+      "title": "嘉峪关必吃美食及餐厅推荐,2026嘉峪关榜单,景点/住宿/美食/购物/游玩排行榜〖去哪儿攻略〗",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://jcs-site.gansujsl.com/index/news/detail.html?id=50021",
+      "title": "〖原创〗金昌美食大赏，味蕾狂欢不停歇！-金昌新闻网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2024/03/26/013118580.shtml",
+      "title": "〖甘快看〗“小烤肉”喊话天水麻辣烫~来啊~嘉峪关这里也“攒劲得歹”呢！_甘肃旅游_中国甘肃网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_23048209",
+      "title": "这些金昌独有的美食，你都吃过吗？",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.sina.cn/gc/article/nishzsq8002662.html",
+      "title": "甘肃美食推荐",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2020/11/18/012495474.shtml",
+      "title": "陇原“寻羊记”，是田园也是牧歌_甘肃美食_中国甘肃网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2018/05/30/011960196.shtml",
+      "title": "甘肃省15个非遗代表项目入选国家首批传统工艺振兴目录_甘肃文化_中国甘肃网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_21062546?commTag=true",
+      "title": "击败冬日严寒，甘肃美食申请出战~_澎湃号·政务_澎湃新闻-The Paper",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.sohu.com/a/590610125_121055224",
+      "title": "“羊了个羊”金昌美食PICK来了，你心水哪款美食～_手抓羊肉_揪片_香菜",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://jygs-site.gansujsl.com/index/news/detail_news.html?id=248455",
+      "title": "“小烤肉”喊话天水麻辣烫🤤~来啊~嘉峪关这里也“攒劲得歹”呢！",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_21702627",
+      "title": "甘肃硬核年味：大漠戈壁烤肉香，人间烟火嘉峪关！_澎湃号·政务_澎湃新闻-The Paper",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.chinaheritagequarterly.org/007/features/501_firstlist.pdf",
+      "title": "FIRST LIST OF INTANGIBLE CULTURAL HERITAG",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://you.ctrip.com/travels/gansu100060/4131058.html",
+      "title": "嘉峪关必吃十大美食 - 嘉峪关游记攻略〖携程攻略〗",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2026/05/18/28295.html",
+      "title": "从虎头包到陇原文创：甘肃非遗的文化传承与创新融合 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://gansu.gscn.com.cn/system/2026/06/20/013513282.shtml",
+      "title": "〖甘快看〗文化中国行｜记录甘肃庆阳香包：一针一线藏雅韵、青春传承绽新彩的故事_甘肃文化_中国甘肃网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.sohu.com/a/986546154_121893286",
+      "title": "甘肃嘉峪关特色美食有哪些，2026年2月甘肃嘉峪关，被低估的西北硬核美食，这十道菜不吃等于白来，推荐收藏品尝_拉条子_酿皮_灰豆",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://ks.rst.gansu.gov.cn/ncms/article_0c558acc308bac71d2321cf9225ecaaf.shtml",
+      "title": "甘肃人事考试网",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://www.gswbj.gov.cn/a/2025/03/27/24408.html",
+      "title": "〖非遗里的庆阳〗庆阳香包绣制 - 甘肃文旅 - 丝绸之路（敦煌）国际文化博览会",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://m.thepaper.cn/newsDetail_forward_21062546",
+      "title": "击败冬日严寒，甘肃美食申请出战~_澎湃号·政务_澎湃新闻-The Paper",
+      "searchResponses": [
+        "web-search-009.json"
+      ]
+    },
+    {
+      "url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/2024/202404/P020241107379107470669.pdf",
+      "title": "序号  | 单位详细名称  | 统一社会信用代码  | 属地",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://sndrc.shaanxi.gov.cn/zjww/jgcs/csxx/hzc/202304/P020241106339400478474.pdf",
+      "title": "陕西省重点用能单位名单（2022 年版）",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://std.samr.gov.cn/db/search/stdDBDetailedCNF?id=0DA2AA7B7EC733EEE06397BE0A0A8797",
+      "title": "地方标准 - 全国标准信息公共服务平台",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/ztzl/ztzl/lzledc/ywdc/1824366329290301442.html",
+      "title": "西安市A级旅游景区信息表--西安市人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://wlj.xa.gov.cn/wlml/lyjq/1.html",
+      "title": "旅游景区--西安市文化和旅游局",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://dgamr.dg.gov.cn/attachment/0/75/75660/3675315.pdf",
+      "title": "（以下产",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.wei.gov.cn/xxgk/show.php?cid=33&id=26424",
+      "title": "魏县2026年二季度合格信息政府公示916批-金标 - 食品药品安全 - 魏县政府信息公开",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://yangling.gov.cn/xwzx/bdyw/2104510704971984897.html",
+      "title": "杨凌示范区助力陕西特色产品亮相中国驻俄大使馆2026年国庆招待会--杨凌示范区管委会",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://xcaib.xa.gov.cn/xwdt/jdxw/2102572917011902466.html",
+      "title": "2026年西安市“我们的节日·中秋”暨“礼润长安·文明畅行”主题实践活动在长安举办-西安国家民用航天产业基地管理委员会",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/zfxxgk/zfxxgkzl/zc/qtwj/202308/t20230828_3457321.html",
+      "title": "关于同意《商场能源消耗限额》等市级地方标准制修订项目的批复-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://nyncj.xa.gov.cn/xwdt/bdxw/1998661031090044929.html",
+      "title": "西安：以“农”为笔绘新卷 都市现代农业创新发展基地一线观察--西安市农业农村局(西安市乡村振兴局)",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/gk/spypaq/zxcx/2093160541917876225.html",
+      "title": "西安市阎良区数据和行政审批服务局<br/>关于生鲜乳收购许可审批结果的公示--西安市人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/zfxxgk/zfxxgkzl/zc/tzgg/202606/t20260618_3648790.html",
+      "title": "陕西省市场监督管理局关于西安百跃羊乳集团有限公司婴幼儿配方食品产品标签备案信息的公示-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://daj.shaanxi.gov.cn/Article/View?id=2514",
+      "title": "陕西档案信息网",
+      "searchResponses": [
+        "web-search-010.json",
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://m.longlin.gov.cn/index.php?c=show&id=82711",
+      "title": "中老年羊奶粉：原生羊乳营养、矿物质配比、零添加核查与不同体质适配多品牌横向测评",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://shw.ankang.gov.cn/UploadFiles/akjyhfj4/file/20250115/20250115151250_9361.pdf",
+      "title": "参与商家（餐饮）白名单汇总表",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/gk/spypaq/zxzz/2075511774150414338.html",
+      "title": "阎良区市场监管局统筹部署+一线排查双管齐下筑牢羊乳安全屏障--西安市人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://nyncj.xa.gov.cn/nyfw/xxcx/ltqyxxcx/1.html",
+      "title": "龙头企业信息查询--西安市农业农村局(西安市乡村振兴局)",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/sy/gzdt/csdt/202204/t20220408_2600967.html",
+      "title": "省市场监管局特食处赴西安、临潼、阎良三地开展婴粉生产企业“守底线、查隐患、保安全”风险排查专项行动-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/gk/spypaq/zxcx/2089641268919418882.html",
+      "title": "西安市阎良区数据和行政审批服务局关于生鲜乳收购许可审批结果的公示--西安市人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://m.longlin.gov.cn/index.php?c=show&id=85401",
+      "title": "优选低敏羊乳粉，减轻肠胃胀气感｜中老年肠胃不适羊奶粉深度攻略",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://xadrc.xa.gov.cn/xxgk/kdyxtz/2099705460489777154.html",
+      "title": "年产8万吨液态羊奶项目投产、新型独立储能电站建设提速-西安市发展和改革委员会",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://shw.ankang.gov.cn/UploadFiles/akjyhfj4/file/20250115/20250115151327_5219.pdf",
+      "title": "<table id=\"e1\">",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.kbs.gov.cn/zjkbs/jqjd/czxylg/202009/t20200921_2758250.html",
+      "title": "钻胡同走小巷才能品尝到的地道美食，这里都有！鄂尔多斯吃货们，康镇约起来~_ 吃住行娱乐购_康巴什区人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://cbip.xa.gov.cn/xwzx/zyxw/2043624978848444418.html",
+      "title": "中欧班列（西安）稳定畅通 丝路美味直达百姓餐桌-西安浐灞国际港",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://de.china-embassy.gov.cn/chn/zggs/202608/t20260811_12002096.htm",
+      "title": "China Cool盛夏出圈丨做陶俑、品美食、见生活，老外在烟火气中感受中国“Cool” - 中华人民共和国驻德意志联邦共和国大使馆",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://snamr.shaanxi.gov.cn/sy/dtyw/202405/t20240519_2600895.html",
+      "title": "同心共济 携手共赢—中国—中亚合作在高水平开放中稳步向前-陕西省市场监督管理局",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.neixiang.gov.cn/rwnx/jtwx/2015-03-16/7153.html",
+      "title": "biang biang 面的由来 | 内乡亲民网",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.ningshan.gov.cn/Content-665129.html",
+      "title": "乡音不改楚韵浓（档案史志局 秦素月）-宁陕县人民政府",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://daj.shaanxi.gov.cn/Article/View?id=1396",
+      "title": "陕西档案信息网",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.gqb.gov.cn/news/2021/0525/51395.shtml",
+      "title": "中华美食冲出国门 成为海外消费者的网红新宠",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/410b4cc26ca34fa5accb493d54204087",
+      "title": "北冰洋-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202407/t20240705_2424861.shtml",
+      "title": "冰杯悄然登上冰柜“C位” 有人追求个性化DIY 有人认为性价比不高",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://daj.shaanxi.gov.cn/Article/View?id=4474",
+      "title": "陕西档案信息网",
+      "searchResponses": [
+        "web-search-010.json",
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://wjw.baoji.gov.cn/col2223/col2271/202607/t20260728_1288564.html",
+      "title": "宝鸡市卫生健康委员会 健康知识",
+      "searchResponses": [
+        "web-search-010.json"
+      ]
+    },
+    {
+      "url": "https://www.mofcom.gov.cn/cms_files/oldfile/ltfzs/202402/20240201082842917.pdf",
+      "title": "序号 | 按地区排序，地区内排名不分先后 企业",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://xasswj.xa.gov.cn/xwzx/tzgg/2064973584469602305.html",
+      "title": "公 告--西安市商务局",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://sxwjw.shaanxi.gov.cn/hdjl/dczj/202511/P020251103589745415792.pdf",
+      "title": "陕西省《食品安全地方标准 凉皮》",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/4a59e8e826704bb988eeb82306766837",
+      "title": "同盛生-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://zhlzh.mofcom.gov.cn/",
+      "title": "商务部业务系统统一平台-中华老字号信息管理",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/articledeail/1983",
+      "title": "老字号国潮焕新 陕西22家企业山东参展-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://xasswj.xa.gov.cn/xwzx/swdt/2105210261828890625.html",
+      "title": "“长安有戏·乐购金秋”2026西安秦腔-商业联动暨金秋购物季9月30日盛大启幕--西安市商务局",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.gjbmj.gov.cn/n1/2025/0603/c409080-40492551.html",
+      "title": "陕西在扩大开放中打开发展新天地<br />（奋勇争先，决战决胜“十四五”）--国家保密局互联网门户网站",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/qg/202509/t20250909_962096.html",
+      "title": "中华人民共和国文化和旅游部",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/xw/zwzx/msyw/1959810008315105282.html",
+      "title": "千年古都的盛世回响与文旅新篇--西安市人民政府",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/articledeail/3029",
+      "title": "“老字号”创新唤醒古都清凉记忆-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://xatyj.xa.gov.cn/xwzx/gzdt/1787375134750363650.html",
+      "title": "西安冰雪中心正式投运--西安市体育局",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.xa.gov.cn/gk/wtly/ssml/5f508781f99d650300177eb3.html",
+      "title": "西安市旅行社名册--西安市人民政府",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://sw.wuhan.gov.cn/xwdt/gzdt/202607/t20260702_2815780.shtml",
+      "title": "武汉⇋西安最快2小时41分！两大“碳水之都”终于“面对面”了",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/articledeail/516",
+      "title": "西安：老街区焕新颜 创意“解锁”古城“新玩法”-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.mct.gov.cn/gtb/index.jsp?url=https%3A%2F%2Fwww.mct.gov.cn%2Fwhzx%2Fqgwhxxlb%2Fsx_7740%2F202509%2Ft20250909_962096.htm",
+      "title": "你好 歡迎來西安解鎖非遺新體驗",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://zhlzh.mofcom.gov.cn/index",
+      "title": "商务部业务系统统一平台-中华老字号信息管理",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://zhlzh.mofcom.gov.cn/news/getNews/49780",
+      "title": "商务部业务系统统一平台-中华老字号信息管理",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://zhlzh.mofcom.gov.cn/news/getNews/751",
+      "title": "商务部业务系统统一平台-中华老字号信息管理",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://cbip.xa.gov.cn/web_files/itl/file/2025/09/30/202509301033350087710.pdf",
+      "title": "     本次抽检的食品是餐饮食品、茶叶及相关制品、蛋制品、淀粉及淀粉制品、调",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/articledeail/2336",
+      "title": "守正创新，擦亮“老字号”金字招牌-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba",
+      "title": "樊记-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/3a767e8436ea47cc9003e19de0ecffc9",
+      "title": "中街冰点城-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/5d983c9bfe2248a38d9fbf5cb8c6a4ce",
+      "title": "西安饭庄-老字号数字博物馆",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://www.csrc.gov.cn/shaanxi/c101329/c1404267/1404267/files/1614654320026_15014.pdf",
+      "title": "《国民经济和社会发展第十三五规划纲要》指出：“十三",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    },
+    {
+      "url": "https://lzhbwgresources.mofcom.gov.cn/uploadfile/attach/202601/08/20260108100629121.pdf",
+      "title": "类别 老字号 创意市集 | 序号 1 | 名称 大湾区年味消费季",
+      "searchResponses": [
+        "web-search-011.json"
+      ]
+    }
+  ]
+}

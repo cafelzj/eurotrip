@@ -58,7 +58,7 @@ for city in [p for p in places if p['level'] == 'city']:
     entry = dict(province=city['province'], city=city['city'], adcode=city['adcode'],
                  regions=[dict(name=c['name'], adcode=c['adcode']) for c in counties])
     registry[str(city['adcode'])] = entry
-    if city['adcode'] in (441900,442000):
+    if city.get('hasCountyDivisions') is False or city['adcode'] in (441900,442000):
         entry['hasCountyDivisions'] = False
     if city['adcode'] not in boundaries:
         continue  # Municipal districts already have a province-level selector; direct counties have no invented children.

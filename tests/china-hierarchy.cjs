@@ -46,7 +46,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await p.goto(base+'/#map/xuzhou');await openMapBranch(p,'[data-layer-focus="venue-xuzhou-airport"]');await p.locator('[data-layer-focus="venue-xuzhou-airport"]').click();assert((await p.locator('.poi-popup').innerText()).includes('徐州观音国际机场'));
   await p.goto(base+'/#china/jiangsu/wuxi/yixing');await p.screenshot({path:'/tmp/jiangsu-hierarchy-desktop.png'});
   await p.setViewportSize({width:390,height:844});assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
-  await p.locator('#chinaMode').click();assert.equal(await p.locator('[data-nav-province]').count(),18);assert.equal(await p.locator('#chinaMenu button').first().getAttribute('data-nav-manager'),'china');const menu=await p.locator('#chinaMenu').boundingBox();assert(menu.x>=0&&menu.x+menu.width<=390);await p.keyboard.press('Escape');
+  await p.locator('#chinaMode').click();assert.equal(await p.locator('[data-nav-province]').count(),20);assert.equal(await p.locator('#chinaMenu button').first().getAttribute('data-nav-manager'),'china');const menu=await p.locator('#chinaMenu').boundingBox();assert(menu.x>=0&&menu.x+menu.width<=390);await p.keyboard.press('Escape');
   await p.screenshot({path:'/tmp/jiangsu-hierarchy-mobile.png'});
   assert.equal(queries,0);assert.deepEqual(errors,[]);
   console.log('PASS Jiangsu prefectures, all eleven counties, parent aggregation and county isolation, canonical/legacy URLs, scoped maps, cross-city return links, native selectors and mobile');

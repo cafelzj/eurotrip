@@ -1,0 +1,43 @@
+{
+  "id": "sg-gi-3b08b615488d57e3",
+  "title": "地理标志产品公告 · 2012年第222号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC222%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "3b08b615488d57e3006afecda50c595c243c626e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第222号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC222%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "f5313c138267f79f4c5e8e32ac9eb80247de9f24ca1a51b6ffc5b41f913cf784",
+    "textSha256": "68f7202165789f2db01ac66e3dfd62b7bc878b8f2e7cbbc4d6141b0e38402d47",
+    "textLength": 8311,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/3b08b615488d57e3006afecda50c595c243c626e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/3b08b615488d57e3006afecda50c595c243c626e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-55b0375bcdc5cb9f38",
+      "name": "大河家鸡蛋皮核桃",
+      "scope": "大河家鸡蛋皮核桃产地范围为甘肃省积石山县大河家镇、刘集乡、石塬乡、柳沟乡、关家川乡、胡林家乡、安集乡、银川乡、铺川乡9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果形壳面特征外壳颜色种仁色泽口感卵圆缝合线紧密,果面光滑浅黄色黄白色香甜形",
+      "process": "",
+      "sectionSha256": "39d01bae0169724c9a75a3fa6e8c37ff3ec259c146aa4d4431ca7274814fa3d4"
+    },
+    {
+      "itemId": "sg-d065650101d94d97f0",
+      "name": "靖远枸杞",
+      "scope": "靖远枸杞产地范围为甘肃省靖远县靖安乡、五合乡、东升乡、北滩乡、永新乡、双龙乡、石门乡、刘川乡、大芦乡9个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果形扁纺锤形或长扁卵形,果皮呈橘红色或红色,基部具有明显的白色果梗痕,果皮薄而皱缩,籽小而少,味甘甜",
+      "process": "",
+      "sectionSha256": "bcbc2812e97735b12cd4cbc75c1de2ad37f00056650e85b8477f673871fe201e"
+    }
+  ]
+}

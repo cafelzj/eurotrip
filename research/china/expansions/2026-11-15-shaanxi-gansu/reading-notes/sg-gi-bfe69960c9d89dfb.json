@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-bfe69960c9d89dfb",
+  "title": "地理标志产品公告 · 2023年第539号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC539%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "bfe69960c9d89dfb03d715bada349f53142e500d",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2023年第539号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2023%E5%B9%B4%E7%AC%AC539%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6a6e42ca405f6d9866ab76e7188f89e10096eb76090ad872ed834ab92e82b2ab",
+    "textSha256": "89f4ad5315a99e68afe7cf94d611b87d4edc1ee3801470fcec538af1a2849383",
+    "textLength": 2858,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/bfe69960c9d89dfb03d715bada349f53142e500d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/bfe69960c9d89dfb03d715bada349f53142e500d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-609ecea81978c4ba3f",
+      "name": "柞水(黑)木耳",
+      "scope": "陕西省商洛市柞水县现辖行政区域",
+      "type": "ingredients",
+      "variety": "以产地范围内野生木耳为主作为母种培育的木耳菌种",
+      "sensory": "耳片完整均匀,耳瓣舒展或自然卷曲,耳面深黑褐色、耳背灰色,耳基小、肉厚质软,口感软糯鲜嫩",
+      "process": "",
+      "sectionSha256": "f74fd2ce9ffdc109d0fbaf43cc1f49b44c535a439df0fcfc13753de37b2d5a17"
+    }
+  ]
+}

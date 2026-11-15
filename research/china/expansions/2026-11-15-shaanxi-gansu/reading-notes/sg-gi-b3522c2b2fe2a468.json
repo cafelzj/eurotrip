@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-b3522c2b2fe2a468",
+  "title": "地理标志产品公告 · 2006年第67号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC67%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "b3522c2b2fe2a4685d2945787ce458b282766a4f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第67号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC67%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "634dd55b3472187774aeefbf0ac952c2b71e6af8b31dbcbb0153549afc4e0b01",
+    "textSha256": "45bfaa6feef64bf3c4845b565393c7bf14f69a00053c6776eec82055c32291d4",
+    "textLength": 1254,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/b3522c2b2fe2a4685d2945787ce458b282766a4f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/b3522c2b2fe2a4685d2945787ce458b282766a4f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-df43f958f12104d4da",
+      "name": "临潼石榴",
+      "scope": "临潼石榴地理标志产品保护范围以陕西省西安市临潼区人民政府《关于界定临潼石榴地理标志产品保护范围的函》(临政函[2005]23号)提出的范围为准,为陕西省西安市临潼区骊山街道办事处、斜口街道办事处、代王街道办事处、秦陵街道办事处、行者街道办事处、土桥乡以及新丰街道办事处的刘寨村、鸿门村、坡张村、湾李村、严上村、长条村和零口镇三府村、大寨村、零口村现辖行政区域",
+      "type": "ingredients",
+      "variety": "大红甜、净皮甜、三白甜及其优系",
+      "sensory": "",
+      "process": "",
+      "sectionSha256": "6ae7519b66682cf6fb8e586fdac76768139d97425ff0b2ea16ec940794b3ee29"
+    }
+  ]
+}

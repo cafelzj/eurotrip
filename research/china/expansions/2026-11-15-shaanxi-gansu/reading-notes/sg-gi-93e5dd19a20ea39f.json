@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-93e5dd19a20ea39f",
+  "title": "地理标志产品公告 · 2006年第189号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC189%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "93e5dd19a20ea39fd24a45536a517955b34ca8d9",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第189号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC189%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "22d7965be4ed20fe5c09dc93b5865a42b2ede89d2dc73afd2da68064b4208166",
+    "textSha256": "3750f04dedfbfeb450519d25f934c545c05363b8e3535fb411f7bc7ef0d9a0d1",
+    "textLength": 1960,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/93e5dd19a20ea39fd24a45536a517955b34ca8d9.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/93e5dd19a20ea39fd24a45536a517955b34ca8d9.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-438ee8bece3c9aa5a3",
+      "name": "庆阳黄花菜",
+      "scope": "庆阳黄花菜地理标志产品保护范围以甘肃省庆阳市人民政府《关于“庆阳黄花菜”地理范围界定的函》(平政函[2004]24号)提出的范围为准,为甘肃省庆阳市现辖行政区域",
+      "type": "ingredients",
+      "variety": "马莲黄花菜",
+      "sensory": "(1)干制黄花菜:项目要求色泽浅黄或淡黄色,允许菜头呈浅褐色。风味具有黄花菜应有的清香味,无异味。条形条身紧凑,粗细长短基本一致。感官缺陷菜(油条菜、青条菜、开花菜和带梗)总质量≤2.5%。杂质杂质质量≤0.5%。(2)速冻黄花菜:项目要求色泽呈黄绿色。风味具有黄花菜应有的清香味,无异味。口感柔韧爽口冻结状况产品中心温度达-18°C以下。杂质无",
+      "process": "",
+      "sectionSha256": "cb82f275f03b40b42fc6d8219b563266d60e6e0b379b7c729015b1601ab85eb7"
+    }
+  ]
+}

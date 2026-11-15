@@ -24,7 +24,10 @@ for province in data['provinces']:
   continue
  for city in g['regions']:
   code=city['adcode'];add(province,city['name'],city['name'],code,'city')
-  if city['name']in ['济源','仙桃','潜江','天门','神农架'] or city.get('hasCountyDivisions') is False:continue
+  if city.get('hasCountyDivisions') is False:
+   places[-1]['hasCountyDivisions']=False
+   continue
+  if city['name']in ['济源','仙桃','潜江','天门','神农架']:continue
   f=args.source_dir/(str(code)+'.json')
   if not f.exists():missing.append({'adcode':code,'city':city['name']});continue
   b=f.read_bytes();bound=json.loads(b);sources.append({'adcode':code,'url':f'https://geo.datav.aliyun.com/areas_v3/bound/{code}_full.json','evidenceSha256':hashlib.sha256(b).hexdigest()})

@@ -1,0 +1,21 @@
+{
+  "id": "sg-source-a757b319ffeb3502",
+  "title": "一口西府味，醉美宝鸡城——第十届丝博会宝鸡美食展惊艳亮相 宝鸡市商务局",
+  "url": "https://swj.baoji.gov.cn/zzzb/swdt/202605/t20260522_1272129.html",
+  "read": true,
+  "readMethod": "html-container:#zoom",
+  "originalResponseFile": "research/.local/shaanxi-gansu-20261115/articles/a757b319ffeb3502.raw",
+  "originalResponseSha256": "7163cff5becd13c709edfbf2a2a372766d5a271f1111f2f5ca9c02c34fde5b37",
+  "readableFile": "research/.local/shaanxi-gansu-20261115/articles/a757b319ffeb3502.txt",
+  "readableSha256": "25830298703e38aa8a5b502882a25eab38f29d602abda535d85033d66c71b064",
+  "items": [
+    {
+      "itemId": "sg-7fce916162b1913e04",
+      "name": "岐山香醋",
+      "initialCandidateId": "memory-4b89f669575f20",
+      "adoptedFacts": "岐山香醋在宝鸡美食介绍中与臊子肉等搭配出现，报道以酸中回甘描述其调味特点。作为地方调味品记录，具体品牌、酿造要求及酸度以对应产品资料为准。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；有些条目只读取官方栏目索引，未声称已读链接全文，未核对部分不扩写。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

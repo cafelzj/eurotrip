@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-6cf838da11187ac1",
+  "title": "地理标志产品公告 · 2012年第13号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "6cf838da11187ac1c31ae5e48cf1f0b005637b90",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第13号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC13%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "bd446e5bae3185e22a4c32349c3ab3807042a8d5227afb5ee8fd7d920f7970e0",
+    "textSha256": "ccf3b719f8aaef0a3f5d1d6d11119222c71f8a6f0b23dca01e589a3701b7008f",
+    "textLength": 7053,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/6cf838da11187ac1c31ae5e48cf1f0b005637b90.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/6cf838da11187ac1c31ae5e48cf1f0b005637b90.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-4e72eec52b3b9ed325",
+      "name": "宝鸡辣椒",
+      "scope": "宝鸡辣椒产地范围为陕西省宝鸡市凤翔县城关镇、横水镇、彪角镇、郭店镇、糜杆桥乡、唐村乡、柳林镇、董家河乡、南指挥镇、田家庄镇、范家寨乡、陈村镇、汉封乡、尹家务乡、虢王镇15个乡镇,岐山县凤鸣镇、大营乡、故郡乡、益店镇、青化镇、京当乡、蒲村镇、祝家庄乡、枣林乡、雍川乡、蔡家坡镇、五丈原镇、曹家乡、安乐乡14个乡镇,眉县青化乡、横渠镇、槐芽镇、金渠镇、汤峪镇、营头镇、首善镇、齐镇、常兴镇、马家镇10个乡镇,扶风县召公镇、法门镇、天度镇、南阳镇、城关镇、降帐镇6个乡镇,千阳县崔家头镇、柿沟乡、水沟镇、草碧镇、寇家和乡、城关镇6个乡镇,陇县东凤镇、杜阳镇、牙科乡、东南镇、八渡乡、城关镇6个乡镇,陈仓区天王镇、蟠溪镇、千河乡3个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "8212、8819、陕椒2001、陕研168",
+      "sensory": "辣椒长度14cm至20cm,果面皱纹均匀、色泽鲜红,油泼香味浓郁",
+      "process": "",
+      "sectionSha256": "62a27f5e7441a08b9794720bf6e3818862e36860427501550844d731220c7df8"
+    }
+  ]
+}

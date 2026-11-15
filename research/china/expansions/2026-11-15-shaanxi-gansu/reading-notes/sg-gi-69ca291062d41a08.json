@@ -1,0 +1,53 @@
+{
+  "id": "sg-gi-69ca291062d41a08",
+  "title": "地理标志产品公告 · 2015年第74号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "69ca291062d41a082faba36b0b9cbc13fded31ab",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第74号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC74%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2a9ef9a717a6499ed30aecb541307e08d7c81b24c2cdd4a91047e899a7a72760",
+    "textSha256": "e4c7762cc24cb576f8291949f101cb5670445d8e30eb8f48c526116d07b9c0aa",
+    "textLength": 26683,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/69ca291062d41a082faba36b0b9cbc13fded31ab.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/69ca291062d41a082faba36b0b9cbc13fded31ab.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-e90624e65679b7a5d1",
+      "name": "富平甜瓜",
+      "scope": "富平甜瓜产地范围为陕西省富平县张桥镇、留古镇、刘集镇、王寮镇、城关镇、淡村镇、流曲镇、到贤镇共8个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "外观圆形,表皮乳白色,果肉白色或黄色,口感清香脆甜",
+      "process": "",
+      "sectionSha256": "dbe0ad7c29a7505aac20886444ad2608e9b3dd3225be4c5927861581acaa0460"
+    },
+    {
+      "itemId": "sg-f7cf27bec31d9ad5f9",
+      "name": "尧头黑瓷",
+      "scope": "尧头黑瓷产地范围为陕西省澄城县尧头镇尧头村现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "釉面乌黑发亮,釉色光润、釉质饱满",
+      "process": "",
+      "sectionSha256": "920cb28b978f24f2e6b650bf5ea8d98b3fe0e65053691748a8062cff9137c4c3"
+    },
+    {
+      "itemId": "sg-3662d1ef870b558923",
+      "name": "靖边羊肉",
+      "scope": "靖边羊肉产地范围为陕西省靖边县张家畔镇、红墩界镇、宁条梁镇、东坑镇、王渠则镇、中山涧镇、杨米涧镇、周河镇、杨桥畔镇、天赐湾镇、青阳岔镇、黄蒿界乡、海则滩乡、镇靖乡、席麻湾乡、龙州乡、小河乡共17个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "肉色鲜红、肉质细嫩,肥瘦相间,无膻味",
+      "process": "",
+      "sectionSha256": "ec997612747670e5e7ed97091896a9b561a6a0ae4ced864c3b9957cd663cdbaf"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sg-gi-25a7112b8491d64a",
+  "title": "地理标志产品公告 · 2018年第33号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "25a7112b8491d64a175bec960eaa96040a85f28e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2018年第33号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2e34139cf98b90256f267a7a6cb57a583d421b0ab523a712b3154e3fafa19ecf",
+    "textSha256": "caae40bc724cbce051fdf3dea451c0e050046c152de4972fd9d750111eaa9200",
+    "textLength": 37950,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "sg-c5591bc01b70185945",
+      "name": "麟游核桃",
+      "scope": "麟游核桃产地范围为陕西省宝鸡市麟游县九成官、酒房、两亭、招贤、丈八、崔本、常丰等镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "坚果椭圆形、圆形;缝合线紧密,种仁饱满",
+      "process": "",
+      "sectionSha256": "98e56201332b26eec85c35db4ad50092a4016b76b6a4f24f789ea5b3e111fa65"
+    }
+  ]
+}
