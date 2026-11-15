@@ -20,9 +20,9 @@
 .flavor-categories{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:13px}
 .flavor-type-note{font-size:13px;line-height:1.8;margin:-3px 0 12px;color:#5c7363}
 .flavor-type-note[hidden]{display:none}
-.flavor-filter-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(160px,210px) minmax(165px,190px) max-content;gap:13px;align-items:center}
+.flavor-filter-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(210px,260px) max-content;gap:13px;align-items:center}
 .flavor-search>span{font-size:23px;line-height:1;color:#678067}
-.flavor-city{display:flex;gap:8px;align-items:center;font-size:13px;color:#5c7363}.flavor-city select{min-width:0;flex:1}.flavor-filter-row>button{justify-self:end;white-space:nowrap}
+.flavor-review{min-width:0;display:flex;gap:8px;align-items:center;font-size:13px;color:#5c7363}.flavor-review select{min-width:0;flex:1}.flavor-filter-row>button{justify-self:end;white-space:nowrap}
 .flavor-proteins{margin:15px 0 0;display:flex;gap:7px 15px;flex-wrap:wrap;border:1px solid #d3dfd4;border-radius:6px;padding:10px 12px;font-size:13px;min-width:0}
 .flavor-proteins[hidden]{display:none}
 .flavor-proteins legend{padding:0 6px;color:#657969;font-size:12px}
@@ -85,6 +85,3 @@
 .flavor-county-prompt{padding:18px;border:1px dashed var(--flavor-line);border-radius:var(--component-radius);font-size:14px;line-height:1.8;color:var(--muted)}
 @media(min-width:1300px){.flavor-location-pickers{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}.flavor-location-pickers .flavor-city-picker,.flavor-county-picker{display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr) auto;gap:14px;border-top:0;padding-top:0}.flavor-city-list nav{grid-template-columns:repeat(3,minmax(0,1fr))}.flavor-city-picker .flavor-map,.flavor-city-picker svg{height:300px;max-height:300px}}
 @media(max-width:700px){.flavor-county-picker{grid-template-columns:minmax(0,1fr);gap:16px}.flavor-county-list nav{grid-template-columns:repeat(2,minmax(0,1fr))}.flavor-county-map,.flavor-county-map svg{height:260px;max-height:260px}.flavor-county-prompt{padding:13px}}
-@media(min-width:701px) and (max-width:1100px){.flavor-filter-row{grid-template-columns:minmax(0,1fr) minmax(0,1fr) max-content}}
-@media(min-width:701px) and (max-width:1100px){.flavor-filter-row .ui-search{grid-column:1/-1}}
-@media(max-width:700px){.flavor-filter-row{grid-template-columns:repeat(2,minmax(0,1fr))}.flavor-filter-row>.flavor-city{min-width:0;flex-direction:column;align-items:stretch;gap:5px}.flavor-filter-row>button{grid-column:1/-1;justify-self:end}}

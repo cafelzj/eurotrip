@@ -18,7 +18,7 @@ for(const [id,codes]of Object.entries(geo.itemCounties)){const item=data.items.f
  await p.locator('#flavorCountyMap [data-flavor-county="370126"]').focus();await p.keyboard.press('Enter');await p.waitForFunction(()=>location.hash.includes('county=370126'));
  await p.locator('[data-flavor-county-choice="unspecified"]').click();await p.waitForSelector('[data-flavor-county-choice="unspecified"][aria-current]');
  assert(await p.locator('.flavor-card').evaluateAll(es=>es.every(e=>e.querySelector('.ui-card-meta small').textContent.includes('县区待明确'))));
- await p.selectOption('#flavorCity','青岛');await p.waitForSelector('#flavorCountyMap [data-flavor-county="370211"]');assert(!p.url().includes('county='));
+ await p.locator('[data-flavor-city="青岛"]').click();await p.waitForSelector('#flavorCountyMap [data-flavor-county="370211"]');assert(!p.url().includes('county='));
  await p.goBack();await p.waitForSelector('[data-flavor-county-choice="unspecified"][aria-current]');
  for(const width of [1440,1024,768,390,320]){await p.setViewportSize({width,height:1100});await go('city='+encodeURIComponent('济南'));await p.waitForSelector('#flavorCountyMap svg');assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'county picker fits '+width);if(width===1440||width===390)await p.screenshot({path:'/tmp/flavor-counties-'+width+'.png',fullPage:false});}
  await go('city='+encodeURIComponent('济南')+'&county=999999');assert.equal(await p.locator('[data-flavor-county-choice="all"]').getAttribute('aria-current'),'true');

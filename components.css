@@ -36,7 +36,7 @@
 .ui-search input:focus, .ui-search input:focus-visible { outline: none; box-shadow: none; }
 .ui-select, .ui-button, .ui-choice, .ui-tabs > button { box-sizing: border-box; min-width: 0; min-height: 40px; border: 1px solid var(--component-border); border-radius: var(--component-control-radius); background: var(--surface); color: #3f624b; font: inherit; font-size: 14px; padding: 8px 12px; line-height: 1.5; }
 .ui-select { max-width: 100%; }
-.flavor-city .ui-select { flex: 1; }
+.flavor-review .ui-select { flex: 1; }
 .ui-button, .ui-choice, .ui-tabs > button { cursor: pointer; text-decoration: none; }
 .ui-tabs { display: flex; gap: 8px; }
 .ui-tabs > button { flex-shrink: 0; white-space: nowrap; }
