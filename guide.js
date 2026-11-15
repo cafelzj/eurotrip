@@ -102,11 +102,11 @@
  }
  window.addEventListener('resize',positionChinaMenu);
  function drawChinaMenu(focusSelector){
-  const {selected,managing,overview}=chinaMenuContext,province=ChinaRegions.provinces.find(p=>p.id===chinaMenuPath.province),city=ChinaRegions.get(chinaMenuPath.city);
+  const {selected,managing,overview}=chinaMenuContext,province=ChinaRegions.provinces.map(p=>({...p,name:p.name.replace(/省$/,'')})).find(p=>p.id===chinaMenuPath.province),city=ChinaRegions.get(chinaMenuPath.city);
   const option=(attribute,id,name,branch=false)=>`<button type="button" role="menuitem" tabindex="-1" ${attribute}="${h(id)}" ${branch?'aria-haspopup="menu"':''} ${!branch&&selected?.id===id&&!managing?'aria-current="page"':''} class="${!managing&&selected&&(id===selected.id||id===selected.provinceId||id===selected.parentCity)?'is-selected':''}"><span><b>${h(name)}</b></span><i>${branch?'›':selected?.id===id&&!managing?'✓':'↗'}</i></button>`;
   let content='';
   if(!province){
-   content=ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name,true)).join('');
+   content=ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name.replace(/省$/,''),true)).join('');
   }else if(!city){
    content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="provinces">← 返回省份</button>`+option('data-nav-province-overview',province.id,province.name+'总览')+ChinaRegions.prefectures(province.id).map(c=>{
     const children=ChinaRegions.counties(c);return option(children.length?'data-nav-city-branch':'data-nav-city',c.id,c.adminName,!!children.length);
