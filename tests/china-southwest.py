@@ -59,7 +59,10 @@ assert len(geo['cities']['500000']['regions'])==38
 assert next(d for d in reg['destinations']if d['adcode']=='500000')['level']=='municipality'
 assert len(reg['provinces'])==24 and len(reg['destinations'])==2739
 photos=js('data/flavor-images.js');old=js('research/.local/southwest-20261115/baseline-flavor-images.js')
-assert all(photos['cards'][k]==v for k,v in old['cards'].items());assert all(photos['assets'][k]==v for k,v in old['assets'].items())
+replacements=[r for p in (R/'research/china/enrichment').glob('*/photo-adoption.json')for r in read(p)['records']if r.get('status')=='adopted'and r.get('action')=='replace-list-photo']
+for k,v in old['cards'].items():
+ assert photos['cards'][k]==v or any(r['itemId']==k and r['previousAssetId']==v and r['assetId']==photos['cards'][k]for r in replacements)
+assert all(photos['assets'][k]==v for k,v in old['assets'].items())
 coverage=read(B/'image-coverage.json');assert coverage['totalCards']==1135 and coverage['illustratedCards']==35 and len(coverage['missingCards'])==1100
 assert coverage['goalReached']is False and coverage['coveragePercent']==3.08
 assert len(photos['cards'])>=44  # Later reviewed enrichment batches may add images.

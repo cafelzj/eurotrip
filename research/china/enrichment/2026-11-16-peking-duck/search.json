@@ -1,0 +1,1666 @@
+{
+  "date": "2026-11-16",
+  "queries": [
+    {
+      "query": "\"Peking duck\"",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Peking+duck%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "read-response-candidates-only",
+      "responseFile": "research/.local/peking-duck-20261116/search-0.json",
+      "responseSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "results": 15
+    },
+    {
+      "query": "\"北京烤鸭\"",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "read-response-candidates-only",
+      "responseFile": "research/.local/peking-duck-20261116/search-1.json",
+      "responseSha256": "5ac42102b71097e7256a6c7ce7c4a6accbcd780507cbfbb13a21b2b809cb53de",
+      "results": 15
+    },
+    {
+      "query": "\"Beijing roast duck\"",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Beijing+roast+duck%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "read-response-candidates-only",
+      "responseFile": "research/.local/peking-duck-20261116/search-2.json",
+      "responseSha256": "1fb88233e8dc51ae1dc1cd4175cf22dab5117ee2300891d95b5f2118ca082e11",
+      "results": 15
+    }
+  ],
+  "candidates": [
+    {
+      "id": "d76357382c59f5",
+      "file": "Bebek Peking.jpg",
+      "info": {
+        "size": 3465723,
+        "width": 3036,
+        "height": 2024,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bebek_Peking.jpg/960px-Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bebek_Peking.jpg/1920px-Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bebek_Peking.jpg/960px-Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bebek_Peking.jpg/1920px-Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bebek_Peking.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=139895386",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-10-31 15:59:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Bebek Peking",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Nature of South Kalimantan|Images from WikiKaleidoskop 2.0|Images from WikiKaleidoskop 2.0-September and October|Uploaded via Campaign:wmid-wikikaleidoskop",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peternakan bebek peking di Kalimantan",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-05-01 07:32:34",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hendry_Hamim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hendry Hamim (page does not exist)\">Hendry Hamim</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/d76357382c59f5.original",
+      "rawSha256": "171932f81c430c9eb35a0db69b4ec4bf25412a4cc469194a2b4547e8a10de52e",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "bdbcd5b28cb9cc",
+      "file": "Canard laqué spécialité de Pékin (Beijin).jpg",
+      "info": {
+        "size": 1264329,
+        "width": 3024,
+        "height": 3309,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg/960px-Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1050,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg/1920px-Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg/960px-Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1050,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg/1920px-Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_%28Beijin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canard_laqu%C3%A9_sp%C3%A9cialit%C3%A9_de_P%C3%A9kin_(Beijin).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145348512",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-02-14 20:13:02",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Canard laqué spécialité de Pékin (Beijin)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Peking duck|Self-published work|Images from Wiki Loves Folklore 2024|Files with coordinates missing SDC location of creation|Images from Wiki Loves Folklore 2024 in China|Images from Wiki Loves Folklore 2024 to check|Uploaded via Campaign:wlf 2024",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "31.321258",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "120.673997",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Photo d'un canard laqué, plat traditionnel chinois.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-10-31 12:37:29",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Feuille_d-Acacias\" title=\"User:Feuille d-Acacias\">Feuille d-Acacias</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/bdbcd5b28cb9cc.original",
+      "rawSha256": "0f6a17a4de6ced58ce094a9e2e3a4110038a7b463245601e27761ab7b54dad24",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "37f8729654e89c",
+      "file": "Carving of a roast duck at Cui Hua Lou, Dongzhimen (20220718125323).jpg",
+      "info": {
+        "size": 7552667,
+        "width": 3827,
+        "height": 2551,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg/960px-Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg/1920px-Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg/960px-Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg/1920px-Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Carving_of_a_roast_duck_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718125323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carving_of_a_roast_duck_at_Cui_Hua_Lou,_Dongzhimen_(20220718125323).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121549789",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-08-09 17:44:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Carving of a roast duck at Cui Hua Lou, Dongzhimen (20220718125323)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2022-07-18|Self-published work|Files with coordinates missing SDC location of creation|July 2022 in Beijing|Carving of Peking duck",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.938719",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.428725",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A group ordered a duck...",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2022-07-18 12:53:23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/37f8729654e89c.original",
+      "rawSha256": "f48ec0b6982d5bf115feb739e39398df6312a302b4cee61a985e33c5fc319c61",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "2cf9a34cecf65f",
+      "file": "Dim Tu Tac half-portion Peking duck.jpg",
+      "info": {
+        "size": 4095498,
+        "width": 4284,
+        "height": 5712,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dim_Tu_Tac_half-portion_Peking_duck.jpg/960px-Dim_Tu_Tac_half-portion_Peking_duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dim_Tu_Tac_half-portion_Peking_duck.jpg/1920px-Dim_Tu_Tac_half-portion_Peking_duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dim_Tu_Tac_half-portion_Peking_duck.jpg/960px-Dim_Tu_Tac_half-portion_Peking_duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Dim_Tu_Tac_half-portion_Peking_duck.jpg/1920px-Dim_Tu_Tac_half-portion_Peking_duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Dim_Tu_Tac_half-portion_Peking_duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dim_Tu_Tac_half-portion_Peking_duck.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179772262",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2025-12-12 15:57:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dim Tu Tac half-portion Peking duck",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Peking duck|License migration redundant|Self-published work|Files with coordinates missing SDC location of creation|Dim Tu Tac",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "10.775628",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "106.704278",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A half portion of <a href=\"https://en.wikipedia.org/wiki/Peking_duck\" class=\"extiw\" title=\"en:Peking duck\">Peking duck</a> at <a href=\"https://en.wikipedia.org/wiki/Dim_Tu_Tac\" class=\"extiw\" title=\"en:Dim Tu Tac\">Dim Tu Tac</a>, a Cantonese restaurant in Ho Chi Minh City, Vietnam",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2025-11-10 11:19:00",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Josh Lim (<a href=\"//commons.wikimedia.org/wiki/User:Sky_Harbor\" title=\"User:Sky Harbor\">Sky Harbor</a>)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/2cf9a34cecf65f.original",
+      "rawSha256": "224c5d581293b221960ccd4001005bfe8dd2060c092b91b0fa663e9b7d55965c",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "9a13ff0458aa9b",
+      "file": "Dry for 5 hours cropped.jpg",
+      "info": {
+        "size": 1013053,
+        "width": 950,
+        "height": 1425,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dry_for_5_hours_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 960,
+        "thumbheight": 1440,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dry_for_5_hours_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1440
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dry_for_5_hours_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dry_for_5_hours_cropped.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9394446",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-10-18 15:52:22",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dry for 5 hours cropped",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Peking duck|DYK images|Flickr images reviewed by FlickreviewR|Files with derivative versions|Roast duck of China",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peking Duck, being dried for 5 hours.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2006-12-16",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/fotoosvanrobin/324209168/\">https://www.flickr.com/photos/fotoosvanrobin/324209168/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/fotoosvanrobin/\">FotoosVanRobin</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/9a13ff0458aa9b.original",
+      "rawSha256": "a1028704d32de08637d15c6b8a57e4e3175d4fe7eaf40ae3ae4c5fdaac2c34a6",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "712c40a1b87a4b",
+      "file": "Hendry Hamim Beternak Bebek Peking.jpg",
+      "info": {
+        "size": 1921794,
+        "width": 3000,
+        "height": 2000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hendry_Hamim_Beternak_Bebek_Peking.jpg/960px-Hendry_Hamim_Beternak_Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hendry_Hamim_Beternak_Bebek_Peking.jpg/1920px-Hendry_Hamim_Beternak_Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hendry_Hamim_Beternak_Bebek_Peking.jpg/960px-Hendry_Hamim_Beternak_Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hendry_Hamim_Beternak_Bebek_Peking.jpg/1920px-Hendry_Hamim_Beternak_Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hendry_Hamim_Beternak_Bebek_Peking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hendry_Hamim_Beternak_Bebek_Peking.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137811135",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-09-19 05:13:31",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Hendry Hamim Beternak Bebek Peking",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Nature of South Kalimantan|Images from WikiKaleidoskop 2.0|Images from WikiKaleidoskop 2.0-September and October|Uploaded via Campaign:wmid-wikikaleidoskop",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peternakan bebek peking di amuntai kalimantan selatan",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-04-23",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hendry_Hamim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hendry Hamim (page does not exist)\">Hendry Hamim</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/712c40a1b87a4b.original",
+      "rawSha256": "51356d5d83aa8825e0380a806fbd8635dd3b3f87dc90e325ce241dcdc37c05d3",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "edb4df56e224a8",
+      "file": "Kuirado de pekina anaso en restoracio (Pekino).jpg",
+      "info": {
+        "size": 1075766,
+        "width": 2304,
+        "height": 3072,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg/960px-Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg/1920px-Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg/960px-Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg/1920px-Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Kuirado_de_pekina_anaso_en_restoracio_%28Pekino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kuirado_de_pekina_anaso_en_restoracio_(Pekino).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104844706",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-05-03 05:50:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kuirado de pekina anaso en restoracio (Pekino)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2012-10-29|Restaurants in Beijing|Self-published work|October 2012 in Beijing|Men at work in Beijing|Carving of Peking duck",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kuirado de pekina anaso en restoracio. Pekino, Ĉinio.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-10-29 17:00:38",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:RG72\" title=\"User:RG72\">RG72</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/edb4df56e224a8.original",
+      "rawSha256": "2c3871cb805d99267342fb7741c8389e54b99a720f6128198009d4f3bae69488",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "5e94a4a7c4c814",
+      "file": "Kuirado de pekina anaso en restoracio en Pekino.jpg",
+      "info": {
+        "size": 734025,
+        "width": 1600,
+        "height": 1200,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg/960px-Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg/960px-Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kuirado_de_pekina_anaso_en_restoracio_en_Pekino.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104843711",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-05-03 05:26:57",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kuirado de pekina anaso en restoracio en Pekino",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "November 2012 in China|2012 in Beijing|Restaurants in Beijing|Self-published work|Carving of Peking duck",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kuirado de pekina anaso en restoracio. Pekino, Ĉinio.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-10-29 14:01:26",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:RG72\" title=\"User:RG72\">RG72</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/5e94a4a7c4c814.original",
+      "rawSha256": "5d43a0f2fe2fc75462321d39934947e1b0c95813b2d3a8d1c4e88142e3d4c421",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "0d2e432eb9404d",
+      "file": "Peking duck by Mr Wabu in Beijing.jpg",
+      "info": {
+        "size": 1248124,
+        "width": 2832,
+        "height": 2128,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Peking_duck_by_Mr_Wabu_in_Beijing.jpg/960px-Peking_duck_by_Mr_Wabu_in_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 721,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Peking_duck_by_Mr_Wabu_in_Beijing.jpg/1920px-Peking_duck_by_Mr_Wabu_in_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Peking_duck_by_Mr_Wabu_in_Beijing.jpg/960px-Peking_duck_by_Mr_Wabu_in_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 721,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Peking_duck_by_Mr_Wabu_in_Beijing.jpg/1920px-Peking_duck_by_Mr_Wabu_in_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Peking_duck_by_Mr_Wabu_in_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peking_duck_by_Mr_Wabu_in_Beijing.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4960871",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2008-10-10 02:59:52",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Peking duck by Mr Wabu in Beijing",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Fujifilm FinePix F700|Peking duck|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<a href=\"https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E3%83%80%E3%83%83%E3%82%AF\" class=\"extiw\" title=\"ja:北京ダック\">北京ダック</a>（<a href=\"https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82\" class=\"extiw\" title=\"ja:北京市\">北京市</a>）",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2006-06-02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/oxborrow/164291271/\">Real Peking Duck</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/oxborrow/\">Mr Wabu</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/0d2e432eb9404d.original",
+      "rawSha256": "23461845a992fbb74580eea0c2641cd913129566e419d089998e5e109326ed81",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "c05182a7e5b44c",
+      "file": "Peking duck with sugar scallion.jpg",
+      "info": {
+        "size": 208250,
+        "width": 1620,
+        "height": 1080,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Peking_duck_with_sugar_scallion.jpg/960px-Peking_duck_with_sugar_scallion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Peking_duck_with_sugar_scallion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Peking_duck_with_sugar_scallion.jpg/960px-Peking_duck_with_sugar_scallion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Peking_duck_with_sugar_scallion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Peking_duck_with_sugar_scallion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peking_duck_with_sugar_scallion.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=184967333",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-02-25 06:38:43",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Peking duck with sugar scallion",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Food products of China|Peking duck|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peking duck served with sugar scallion",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-02-25",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mcyjerry\" title=\"User:Mcyjerry\">Mcyjerry</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/c05182a7e5b44c.original",
+      "rawSha256": "b1cf2556d5fda3c29c2d7b49879e801da71b5eb1ce0e545e6a8c8a5ec7931ede",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "e45c80d291c6c7",
+      "file": "Peking duck wrap 1.jpg",
+      "info": {
+        "size": 130899,
+        "width": 800,
+        "height": 600,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Peking_duck_wrap_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Peking_duck_wrap_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Peking_duck_wrap_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Peking_duck_wrap_1.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12070074",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2010-11-16 17:15:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Peking duck wrap 1",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon Digital IXUS 50|Peking duck|Flickr images reviewed by FlickreviewR",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Making the Peking duck wrap",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-03-05",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/joyosity/3331860056/\">https://www.flickr.com/photos/joyosity/3331860056/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joyosity/\">joyosity</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/e45c80d291c6c7.original",
+      "rawSha256": "df74f504440af9ff1c07acb6b7f41deb20056941e308d54cd8f8b673791b5990",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "8625801a90bcee",
+      "file": "Traditional Peking Duck Restaurant.jpg",
+      "info": {
+        "size": 207803,
+        "width": 1292,
+        "height": 969,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Traditional_Peking_Duck_Restaurant.jpg/960px-Traditional_Peking_Duck_Restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/d/df/Traditional_Peking_Duck_Restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Traditional_Peking_Duck_Restaurant.jpg/960px-Traditional_Peking_Duck_Restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/df/Traditional_Peking_Duck_Restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Traditional_Peking_Duck_Restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Traditional_Peking_Duck_Restaurant.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108169710",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-08-05 10:14:57",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Traditional Peking Duck Restaurant",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Peking duck|Self-published work|Carving of Peking duck",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Traditional Peking Duck Restaurant",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-09-04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Luca_Gamberini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Luca Gamberini (page does not exist)\">Luca Gamberini</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/8625801a90bcee.original",
+      "rawSha256": "25cd43c0561c1f1b317929753f65e5b9bbe6a093b75c51adba51abb4d9375d6b",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "958f00f90ef331",
+      "file": "Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg",
+      "info": {
+        "size": 77161,
+        "width": 500,
+        "height": 333,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 960,
+        "thumbheight": 639,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 639
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69904706",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-06-13 02:38:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Vit-quay-bac-kinh-by-vit-quay-to-thi",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Peking duck|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peking duck by Peking Vitquaytothi",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2011-06-30 18:55:38",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vitquaytothi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vitquaytothi (page does not exist)\">Vitquaytothi</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/958f00f90ef331.original",
+      "rawSha256": "0b656b0acdbafdd30700e97f268966444e529060dcf887a61b4d43aeef2b3f2e",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "053cb291dd2b26",
+      "file": "XUEYUAN BOULEVARD, SHENZHEN (13).jpg",
+      "info": {
+        "size": 8005740,
+        "width": 7600,
+        "height": 3353,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg/960px-XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 424,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg/1920px-XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg/960px-XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 424,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg/1920px-XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/XUEYUAN_BOULEVARD%2C_SHENZHEN_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:XUEYUAN_BOULEVARD,_SHENZHEN_(13).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194140379",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-06-19 13:27:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "XUEYUAN BOULEVARD, SHENZHEN (13)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS R5|Peking duck|Self-published work|Files with coordinates missing SDC location of creation|Taken with Canon RF 24-70mm F2.8L IS USM|China photographs taken on 2026-06-19",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "22.595743",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "113.995880",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "XUEYUAN BOULEVARD, SHENZHEN",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-06-19 12:42:22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Dinkun_Chen\" title=\"User:Dinkun Chen\">Dinkun Chen</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/053cb291dd2b26.original",
+      "rawSha256": "8b2dbe8edb98bf8b64b70e22fe21d3984dd77af39f18b49802102143764e12bc",
+      "status": "downloaded-awaiting-review"
+    },
+    {
+      "id": "0e8b139903bd8a",
+      "file": "片皮鴨.jpg",
+      "info": {
+        "size": 1071459,
+        "width": 1536,
+        "height": 2560,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%E7%89%87%E7%9A%AE%E9%B4%A8.jpg/960px-%E7%89%87%E7%9A%AE%E9%B4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1600,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E7%89%87%E7%9A%AE%E9%B4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%E7%89%87%E7%9A%AE%E9%B4%A8.jpg/960px-%E7%89%87%E7%9A%AE%E9%B4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1600,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E7%89%87%E7%9A%AE%E9%B4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E7%89%87%E7%9A%AE%E9%B4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E7%89%87%E7%9A%AE%E9%B4%A8.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86899281",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-02-11 05:22:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "片皮鴨",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Images from Wiki Loves Folklore 2020 in China|Self-published work|Images from Wiki Loves Folklore 2020|Uploaded via Campaign:wllove|Peking Duck - Pancakes, spring onions & sweet bean sauce",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Peking duck",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-01-30 20:22:50",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pauloleong2002\" title=\"User:Pauloleong2002\">Pauloleong2002</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c",
+      "rawFile": "research/.local/peking-duck-20261116/0e8b139903bd8a.original",
+      "rawSha256": "b28f2509a3f630149eed0872cf9bce74309ead7c40e6a97a3fd8f1ab6e6ee3ec",
+      "status": "downloaded-awaiting-review"
+    }
+  ]
+}

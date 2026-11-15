@@ -1,0 +1,375 @@
+{
+  "batch": "2026-11-16-peking-duck",
+  "createdAt": "2026-11-15T23:19:48.247261+00:00",
+  "archive": "research/.local/archives/2026-11-16-peking-duck.tar.gz",
+  "archiveSha256": "4cb9e7b79d54f9efcee3c04eff694a46651f1915b8c4604aadbf558f964f0924",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/peking-duck-20261116"
+  ],
+  "fileCount": 72,
+  "totalUncompressedBytes": 13736956,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "peking-duck-20261116/053cb291dd2b26.original",
+      "bytes": 113340,
+      "sha256": "8b2dbe8edb98bf8b64b70e22fe21d3984dd77af39f18b49802102143764e12bc"
+    },
+    {
+      "member": "peking-duck-20261116/0a176769ad7eea.original",
+      "bytes": 358295,
+      "sha256": "b3e1f08c1353a1b5e44f0ee41ac0531cc9f56e26964ef931e84f20df43a2b00e"
+    },
+    {
+      "member": "peking-duck-20261116/0b5b451bff6fec.original",
+      "bytes": 115499,
+      "sha256": "71c4a46d64878af382f324a7960444c6bbff21c1ae515bcbdcb0ba1a28840634"
+    },
+    {
+      "member": "peking-duck-20261116/0d2e432eb9404d.original",
+      "bytes": 150960,
+      "sha256": "23461845a992fbb74580eea0c2641cd913129566e419d089998e5e109326ed81"
+    },
+    {
+      "member": "peking-duck-20261116/0e8b139903bd8a.original",
+      "bytes": 261014,
+      "sha256": "b28f2509a3f630149eed0872cf9bce74309ead7c40e6a97a3fd8f1ab6e6ee3ec"
+    },
+    {
+      "member": "peking-duck-20261116/165a3e3c482d6a.original",
+      "bytes": 160581,
+      "sha256": "7d50e5a46c967183ed7796c26a9279c738c7939fbe81337a6f4716223dd2345e"
+    },
+    {
+      "member": "peking-duck-20261116/227c1ae9ccb238.original",
+      "bytes": 304741,
+      "sha256": "b8b81d2add236d4c749e55bc2890e2776f970669a999ea2abeff07f293c74d18"
+    },
+    {
+      "member": "peking-duck-20261116/246fbf4430a84f.original",
+      "bytes": 253499,
+      "sha256": "4e1574267f8a122ac229fa0332f93c8e6b128e7c9e06e3dd5b5a7cf415003d68"
+    },
+    {
+      "member": "peking-duck-20261116/247027e84809ff.original",
+      "bytes": 230450,
+      "sha256": "df1bad6ca67a547f423e1141476ef16dbf242c727ee1d0cf1c1bd95f945f1ac1"
+    },
+    {
+      "member": "peking-duck-20261116/292815155ad30d.original",
+      "bytes": 494918,
+      "sha256": "5d20aec0cd70037c2ef59d401bc7f05d104a08c158f3a220ab76426adf97659d"
+    },
+    {
+      "member": "peking-duck-20261116/2b7fb7e7a48978.original",
+      "bytes": 130994,
+      "sha256": "4cacded636615adda962b468effc68176b7fe3d0e16eeea6d3abac514009862e"
+    },
+    {
+      "member": "peking-duck-20261116/2cf9a34cecf65f.original",
+      "bytes": 277680,
+      "sha256": "224c5d581293b221960ccd4001005bfe8dd2060c092b91b0fa663e9b7d55965c"
+    },
+    {
+      "member": "peking-duck-20261116/2e4194506b20fd.original",
+      "bytes": 158805,
+      "sha256": "4c65190cd0ea82c7cc4106fab7321401e47a0a8f277a2c0ba342474a293e6225"
+    },
+    {
+      "member": "peking-duck-20261116/2f2aef9b1053a5.original",
+      "bytes": 177620,
+      "sha256": "c575fdbcdcc29910545c0ad313b4490872e57540f625fdd66984d5c4986f0ce1"
+    },
+    {
+      "member": "peking-duck-20261116/36dffe6ad461ef.original",
+      "bytes": 137929,
+      "sha256": "66f1b75586b53fd65f167c7328d98c5b19dfd13e0df96afe1a283a8856f8d901"
+    },
+    {
+      "member": "peking-duck-20261116/37f8729654e89c.original",
+      "bytes": 161492,
+      "sha256": "f48ec0b6982d5bf115feb739e39398df6312a302b4cee61a985e33c5fc319c61"
+    },
+    {
+      "member": "peking-duck-20261116/3cd1ec93589157.original",
+      "bytes": 577566,
+      "sha256": "c3a0c05fff5b9ba5b6027d67b55443d23e46bb3d695d60a7020a97fae278d1a7"
+    },
+    {
+      "member": "peking-duck-20261116/3e4e595ea3be32.original",
+      "bytes": 233600,
+      "sha256": "c9a8fbb0978e8adf287566f3b77eb5fe38de19528985ee34b800fb84ee502935"
+    },
+    {
+      "member": "peking-duck-20261116/46dde51264d9d2.original",
+      "bytes": 184755,
+      "sha256": "ec2692a3bc1700699ec1873f0d06c1ee681c220979ed7e485c5f08d4f77e9ddf"
+    },
+    {
+      "member": "peking-duck-20261116/4ec9c34a5cb1a0.original",
+      "bytes": 162977,
+      "sha256": "bbca9d484d077f929ed34d8c709e40a4de31844a19a0f9863ad2497c2dc308db"
+    },
+    {
+      "member": "peking-duck-20261116/5066f644503796.original",
+      "bytes": 99378,
+      "sha256": "86e283e9547e525bf22ece761dfa24e9913dc2e7fc9c5ce8bf8e9c7bc6673929"
+    },
+    {
+      "member": "peking-duck-20261116/5081edabe70d69.original",
+      "bytes": 113238,
+      "sha256": "50b2d2b0ecbbc89274a3ef84a10066175daae7f8356e75f6acd32f77a8d309ec"
+    },
+    {
+      "member": "peking-duck-20261116/524465c6562cc3.original",
+      "bytes": 131249,
+      "sha256": "77406a303642e183963b4fda97569045bf652b251954f04d19c9ffef2f4042ec"
+    },
+    {
+      "member": "peking-duck-20261116/5e94a4a7c4c814.original",
+      "bytes": 114658,
+      "sha256": "5d43a0f2fe2fc75462321d39934947e1b0c95813b2d3a8d1c4e88142e3d4c421"
+    },
+    {
+      "member": "peking-duck-20261116/5f892fe020df24.original",
+      "bytes": 97194,
+      "sha256": "9cc727b87b3423412b37156498a8654253e06a232117ca8ffb10a742168cac84"
+    },
+    {
+      "member": "peking-duck-20261116/6cc5a6116b3145.original",
+      "bytes": 136750,
+      "sha256": "1740f810171b92c3aa66fec50d40e14b093245f98336c3f9fb8f1757b7f47cc3"
+    },
+    {
+      "member": "peking-duck-20261116/6d0fcea7cda63a.original",
+      "bytes": 167177,
+      "sha256": "f49afe2d5381cd24e4272156b514cb74630b8b53235ae357e6012d7c1c4ffcc4"
+    },
+    {
+      "member": "peking-duck-20261116/6f309a3effc3e3.original",
+      "bytes": 181975,
+      "sha256": "b147cff2387b522941638eff4470a68083a9adb068e41ddee4ec45b1960ce889"
+    },
+    {
+      "member": "peking-duck-20261116/712c40a1b87a4b.original",
+      "bytes": 118588,
+      "sha256": "51356d5d83aa8825e0380a806fbd8635dd3b3f87dc90e325ce241dcdc37c05d3"
+    },
+    {
+      "member": "peking-duck-20261116/806148c0f1f103.original",
+      "bytes": 306089,
+      "sha256": "7310f8c2acdd5b65c0c22ba1d68d4b9deeba11620739b5967a51f9770bdb20da"
+    },
+    {
+      "member": "peking-duck-20261116/8625801a90bcee.original",
+      "bytes": 160011,
+      "sha256": "25cd43c0561c1f1b317929753f65e5b9bbe6a093b75c51adba51abb4d9375d6b"
+    },
+    {
+      "member": "peking-duck-20261116/8719fbd6e37801.original",
+      "bytes": 395850,
+      "sha256": "8d086457382854a7197a11c00ddab6c12fe8548ca3e0c9d27b0c45a67a494cfa"
+    },
+    {
+      "member": "peking-duck-20261116/9384eb78d49c9f.original",
+      "bytes": 118306,
+      "sha256": "1a90bd2d83f302e6cf94b890ee156e1845c1aef888f5469e7db564555165dcf7"
+    },
+    {
+      "member": "peking-duck-20261116/958f00f90ef331.original",
+      "bytes": 77161,
+      "sha256": "0b656b0acdbafdd30700e97f268966444e529060dcf887a61b4d43aeef2b3f2e"
+    },
+    {
+      "member": "peking-duck-20261116/9a13ff0458aa9b.original",
+      "bytes": 1013053,
+      "sha256": "a1028704d32de08637d15c6b8a57e4e3175d4fe7eaf40ae3ae4c5fdaac2c34a6"
+    },
+    {
+      "member": "peking-duck-20261116/9ada4a7791507e.original",
+      "bytes": 154711,
+      "sha256": "1b1fb2b6588c95df45dedc36b845f12b1c1c7dbf22193470f5d32949ce11153e"
+    },
+    {
+      "member": "peking-duck-20261116/9cd417b39d50f9.original",
+      "bytes": 200469,
+      "sha256": "cc36e7d6caa4305c6c8411cdd6d278bad63f227c438b62c4f9a8a68b6a1ef5d3"
+    },
+    {
+      "member": "peking-duck-20261116/9e3357582a0b93.original",
+      "bytes": 451208,
+      "sha256": "d17f695ee1a0068a74a293efff2f9400b782f56cedb4bc477bfbc5d9b27ffdfa"
+    },
+    {
+      "member": "peking-duck-20261116/a4e663b1272aaa.original",
+      "bytes": 182124,
+      "sha256": "fa393d94ac03b461768ffbe64997b65290c1e9f07be8faf3c923482a6a30bb60"
+    },
+    {
+      "member": "peking-duck-20261116/aa229aa1a37ad1.original",
+      "bytes": 1111936,
+      "sha256": "b896f7b75d2a6c74da511cd08b5dc049c1454ed5add1b57a19b7aa3ed376953d"
+    },
+    {
+      "member": "peking-duck-20261116/aaf40ca44dee57.original",
+      "bytes": 102122,
+      "sha256": "2dc2b7459a922ad70905d4c396ecce7077a3d2b6221e066811273f0aba10e9f4"
+    },
+    {
+      "member": "peking-duck-20261116/b0d5d7c30e6e86.original",
+      "bytes": 113409,
+      "sha256": "a393c3e128bb52cdee0e247d438f4f00cfe471b9eed14a054fb18e3f144394d8"
+    },
+    {
+      "member": "peking-duck-20261116/baseline-images.js",
+      "bytes": 71404,
+      "sha256": "caf67d9f2818f7fef1e8e1ab7a49d847dbf08fb43c06ffd2f28457fb5678eb84"
+    },
+    {
+      "member": "peking-duck-20261116/bdbcd5b28cb9cc.original",
+      "bytes": 169720,
+      "sha256": "0f6a17a4de6ced58ce094a9e2e3a4110038a7b463245601e27761ab7b54dad24"
+    },
+    {
+      "member": "peking-duck-20261116/c05182a7e5b44c.original",
+      "bytes": 89838,
+      "sha256": "b1cf2556d5fda3c29c2d7b49879e801da71b5eb1ce0e545e6a8c8a5ec7931ede"
+    },
+    {
+      "member": "peking-duck-20261116/c2b5541c3840e5.original",
+      "bytes": 50140,
+      "sha256": "5ed55a0832bc2e861f7fd660dedbd5bafd9d20f2b5df8de755ca43dec59d51a1"
+    },
+    {
+      "member": "peking-duck-20261116/c9cbcad71e186c.original",
+      "bytes": 102925,
+      "sha256": "c05bbeb5ef8d0545f8d236ad9d837c03a3455f1d5fc7b1ea5a1c9089b73c31e5"
+    },
+    {
+      "member": "peking-duck-20261116/caea200376dabe.original",
+      "bytes": 163466,
+      "sha256": "adc2d827cc3b717e6db21f3f9462d4b2197a9ae97a8725d8d7e9227da0debe4f"
+    },
+    {
+      "member": "peking-duck-20261116/check-peking-duck.cjs",
+      "bytes": 1628,
+      "sha256": "1d9a57ab67024940bacadd4900903c2fe5e7aec6128814655211175ec6808709"
+    },
+    {
+      "member": "peking-duck-20261116/contact-next.jpg",
+      "bytes": 425386,
+      "sha256": "48d45598c1850f7316ef9efa7953c9e206cfdfb3d6a6464bd53317635f22cead"
+    },
+    {
+      "member": "peking-duck-20261116/contact.jpg",
+      "bytes": 150997,
+      "sha256": "b35a62d581998b74c0f2457491cf59b21aa7b671e5203205e0b25913b184e1d3"
+    },
+    {
+      "member": "peking-duck-20261116/d3ff0398e02c42.original",
+      "bytes": 168654,
+      "sha256": "2d2fc1162223e2f03dfbf4e4a51866ae68bfe0026e2a7c360dbb231aafbfeea9"
+    },
+    {
+      "member": "peking-duck-20261116/d4c90a9826f21f.original",
+      "bytes": 230626,
+      "sha256": "90542ea4e1155c854ef12999c036f1245bae9604a7bbfad8ae50c45fff35c810"
+    },
+    {
+      "member": "peking-duck-20261116/d76357382c59f5.original",
+      "bytes": 150163,
+      "sha256": "171932f81c430c9eb35a0db69b4ec4bf25412a4cc469194a2b4547e8a10de52e"
+    },
+    {
+      "member": "peking-duck-20261116/dec69b5b75bf1c.original",
+      "bytes": 124574,
+      "sha256": "5ac93fb0e1e004cee6d2528001dfdecd08c3d1ad45024d1321ae35af2209e22d"
+    },
+    {
+      "member": "peking-duck-20261116/df54c6ea37c0ab.original",
+      "bytes": 117302,
+      "sha256": "dc7250534632b1a37df1e75d085a04ed4b2d321b3d72cf240e583b61f943bc5d"
+    },
+    {
+      "member": "peking-duck-20261116/e1ed666f6e9cd8.original",
+      "bytes": 213076,
+      "sha256": "7c191960a08973bf2a08c7ce1ac0e775599a3c03d00dc2c1a302e318000dd71d"
+    },
+    {
+      "member": "peking-duck-20261116/e45c80d291c6c7.original",
+      "bytes": 130899,
+      "sha256": "df74f504440af9ff1c07acb6b7f41deb20056941e308d54cd8f8b673791b5990"
+    },
+    {
+      "member": "peking-duck-20261116/edb4df56e224a8.original",
+      "bytes": 242275,
+      "sha256": "2c3871cb805d99267342fb7741c8389e54b99a720f6128198009d4f3bae69488"
+    },
+    {
+      "member": "peking-duck-20261116/f710f371a176c9.original",
+      "bytes": 183022,
+      "sha256": "ab076787e34f4da325af105d48d2f92b73dc8af19d5ae7b9b8d56a7d3b025992"
+    },
+    {
+      "member": "peking-duck-20261116/f86c4112d015b9.original",
+      "bytes": 190673,
+      "sha256": "46f240cfdf65ac43ab03ccffd9a3d3afe2d7a41e981f0d862d6559eeac239c00"
+    },
+    {
+      "member": "peking-duck-20261116/ffad0d0030b46a.original",
+      "bytes": 110077,
+      "sha256": "69759481f721f8bbc00da636b533e1cce3d3297701b99688f26f430270480d28"
+    },
+    {
+      "member": "peking-duck-20261116/find-peking-duck-next.py",
+      "bytes": 2729,
+      "sha256": "9f9938661da0015bdcb871c2882fd1a70234e4e98e2ec32358d77e3b202c5e6c"
+    },
+    {
+      "member": "peking-duck-20261116/find-peking-duck.py",
+      "bytes": 2703,
+      "sha256": "69422a04b1eb1e6973377344d7b00621655b292b319013b3a5dcdc66efd06c3e"
+    },
+    {
+      "member": "peking-duck-20261116/mobile-after.png",
+      "bytes": 118317,
+      "sha256": "3efabcf0773a2791a7b5b90506d985513d50ec786cbbdc9d31181d7bdec5932f"
+    },
+    {
+      "member": "peking-duck-20261116/replace-peking-duck.py",
+      "bytes": 4231,
+      "sha256": "3b08f5059a5604b90d7cd46cea47fc1df044d0a9f2dbfd99ce5dac1426e09dcb"
+    },
+    {
+      "member": "peking-duck-20261116/search-0.json",
+      "bytes": 51792,
+      "sha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "member": "peking-duck-20261116/search-1.json",
+      "bytes": 51792,
+      "sha256": "5ac42102b71097e7256a6c7ce7c4a6accbcd780507cbfbb13a21b2b809cb53de"
+    },
+    {
+      "member": "peking-duck-20261116/search-2.json",
+      "bytes": 51792,
+      "sha256": "1fb88233e8dc51ae1dc1cd4175cf22dab5117ee2300891d95b5f2118ca082e11"
+    },
+    {
+      "member": "peking-duck-20261116/search-next-0.json",
+      "bytes": 60427,
+      "sha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "member": "peking-duck-20261116/search-next-1.json",
+      "bytes": 57086,
+      "sha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "member": "peking-duck-20261116/search-next-2.json",
+      "bytes": 55871,
+      "sha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    }
+  ]
+}

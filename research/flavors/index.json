@@ -50,7 +50,8 @@
     "research/archives/2026-11-15-shaanxi-gansu.json",
     "research/archives/2026-11-15-southwest.json",
     "research/archives/2026-11-15-three-provinces.json",
-    "research/archives/2026-11-15-unified-overviews.json"
+    "research/archives/2026-11-15-unified-overviews.json",
+    "research/archives/2026-11-16-peking-duck.json"
   ],
   "roles": {
     "current-index-or-audit": 10,
@@ -163,8 +164,8 @@
     {
       "path": "research/flavors/images/review.json",
       "role": "image-review-or-backlog",
-      "bytes": 193392,
-      "sha256": "f0ac3742da20228e33dd25124f1bdd02c2a779c081c5cad7f68bb2332c77c580"
+      "bytes": 225143,
+      "sha256": "ad6b52242519b00d4800160d4419335d648aff08a13a977f32b2a1b889ba5165"
     },
     {
       "path": "research/flavors/integration/china-collection.json",

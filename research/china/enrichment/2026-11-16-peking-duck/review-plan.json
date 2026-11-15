@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-16",
+  "itemId": "bj-roast-duck",
+  "reason": "用户指出现有烤鸭照片不好看、没有食欲。",
+  "beforeExternalSearch": true,
+  "knowledge": "北京烤鸭成品应以鸭皮和肉片为明确主体；仅凭照片不能认定具体店铺或烤制流派。",
+  "criteria": [
+    "对应北京烤鸭的真实照片",
+    "光线明亮，鸭皮呈金红或枣红色，肉片与皮分层可辨",
+    "构图和摆盘整洁，适合手机列表",
+    "核对作者与许可，不以通用烧鸭照片替代"
+  ],
+  "previousAsset": "flavor-photo-a1fe8fe47402f1",
+  "baselineSha256": "caf67d9f2818f7fef1e8e1ab7a49d847dbf08fb43c06ffd2f28457fb5678eb84"
+}

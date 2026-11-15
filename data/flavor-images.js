@@ -1374,12 +1374,33 @@ window.flavorImages={
       },
       "listDisplay": true,
       "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "peking-duck-20261116-b0d5d7c30e6e86": {
+      "file": "BeijingFood.jpg",
+      "src": "assets/photos/flavors/peking-duck-20261116-b0d5d7c30e6e86.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "白盘中排列整齐的金红色北京烤鸭片，配葱段、黄瓜与蘸酱",
+      "caption": "北京烤鸭成品摆盘实拍",
+      "author": "IMNanNan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:BeijingFood.jpg",
+      "checked": "2026-11-16",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-16",
+        "notes": "人工查看候选与单张大图。鸭皮金红、有光泽、层次清楚；白盘整洁，食物主体明确，未以灰暗堆叠肉片或制作现场作为主图。"
+      },
+      "listDisplay": true,
+      "changes": "使用Commons提供的实拍缩略响应，按EXIF方向与等比例限宽导出JPEG；列表按现有画框裁切，未改变食物、摆盘或色彩。"
     }
   },
   "cards": {
     "program-bbacc44a49d5314e2f": "flavor-photo-7f0d147b729a16",
     "zj-dongpo": "flavor-photo-5ab23ebeba3fd2",
-    "bj-roast-duck": "flavor-photo-a1fe8fe47402f1",
+    "bj-roast-duck": "peking-duck-20261116-b0d5d7c30e6e86",
     "zj-westlake-fish": "flavor-photo-21259c096db609",
     "flavor-heilongjiang-cc5d9b1f4e": "flavor-photo-0049ead6e0a4ce",
     "program-c8e15ee4f1bf5df8ad": "img-7715efa061dc",

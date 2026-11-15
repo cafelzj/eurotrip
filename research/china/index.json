@@ -24,8 +24,8 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 90,
-    "adoption": 7,
+    "research-support": 94,
+    "adoption": 8,
     "preserved-source-reading": 1451,
     "cross-review": 4,
     "current-integration": 4,
@@ -396,10 +396,40 @@
       "sha256": "f5e815f3d32585ba6111eb25857f62680ffe7f49bbb69189623de5d9e9a41857"
     },
     {
+      "path": "research/china/enrichment/2026-11-16-peking-duck/README.md",
+      "role": "research-support",
+      "bytes": 1849,
+      "sha256": "05e7436a129ad18b50c941c970548cda096af46f670941753921488841682db4"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-peking-duck/photo-adoption.json",
+      "role": "adoption",
+      "bytes": 31739,
+      "sha256": "f57472b8830d57b2ab740943a0835e11fd5316ff19b8b3c5b997a72fb7af5b2d"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-peking-duck/review-plan.json",
+      "role": "research-support",
+      "bytes": 679,
+      "sha256": "9384e565cf2bf3214f3c40a2686bae3362f14a9b078e0384aae14da1112a8d7f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-peking-duck/search-next.json",
+      "role": "research-support",
+      "bytes": 228001,
+      "sha256": "b1b081dad4791c98999ff6c70f16332229c4fa88871830928b370ede6d8f11b3"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-peking-duck/search.json",
+      "role": "research-support",
+      "bytes": 76753,
+      "sha256": "9beb31eed4ec3a5219a414f7684498d10690e57f9df0ac14fc244d434b9a0d93"
+    },
+    {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
-      "bytes": 2534,
-      "sha256": "0ba41669d94d8b3b1904ce76476eac6d52ed569dd00fc03d1ae9aa5189ae0699"
+      "bytes": 2734,
+      "sha256": "cf25e02e1d10c0e92fc79939d7fbb8d49999c9745533ba868da262db7c9eb7d2"
     },
     {
       "path": "research/china/enrichment/queue.json",
@@ -4173,7 +4203,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6482,
-      "sha256": "06bf8cd9865658dc6759a07c72913495fd7a7d9a7afd9fc08eeb3a0ff8ab774b"
+      "sha256": "6d674b988237229a45dfed65b3c1da912d05acafab1e2d7cbdf620ece648b5ae"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
@@ -4298,8 +4328,8 @@
     {
       "path": "research/flavors/images/review.json",
       "role": "research-support",
-      "bytes": 193392,
-      "sha256": "f0ac3742da20228e33dd25124f1bdd02c2a779c081c5cad7f68bb2332c77c580"
+      "bytes": 225143,
+      "sha256": "ad6b52242519b00d4800160d4419335d648aff08a13a977f32b2a1b889ba5165"
     },
     {
       "path": "research/flavors/integration/china-collection.json",

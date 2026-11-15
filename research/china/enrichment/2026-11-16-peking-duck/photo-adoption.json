@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-16",
+  "publishedPhotos": 1,
+  "newPhotoCards": 0,
+  "replacedPhotos": 1,
+  "baselineImagesSha256": "caf67d9f2818f7fef1e8e1ab7a49d847dbf08fb43c06ffd2f28457fb5678eb84",
+  "records": [
+    {
+      "id": "b0d5d7c30e6e86",
+      "status": "adopted",
+      "itemId": "bj-roast-duck",
+      "itemName": "北京烤鸭",
+      "assetId": "peking-duck-20261116-b0d5d7c30e6e86",
+      "previousAssetId": "flavor-photo-a1fe8fe47402f1",
+      "action": "replace-list-photo",
+      "source": "https://commons.wikimedia.org/wiki/File:BeijingFood.jpg",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5",
+      "originalResponseFile": "research/.local/peking-duck-20261116/b0d5d7c30e6e86.original",
+      "originalSha256": "a393c3e128bb52cdee0e247d438f4f00cfe471b9eed14a054fb18e3f144394d8",
+      "derivativeSha256": "18174aa4510348873c324c94fcaf61167a38af63f3176bae896ab6742257401e",
+      "author": "IMNanNan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reason": "用户否决原图缺乏食欲感；改用金红片皮、白盘整洁、食物层次清楚的对应实拍。未据照片推断餐厅地址或烤制流派。"
+    },
+    {
+      "status": "superseded-user-rejection",
+      "itemId": "bj-roast-duck",
+      "assetId": "flavor-photo-a1fe8fe47402f1",
+      "reason": "用户指出原图不好看、没有食欲。保留旧文件和历史采用记录，但解除网页卡片绑定。",
+      "replacementAssetId": "peking-duck-20261116-b0d5d7c30e6e86"
+    },
+    {
+      "id": "d76357382c59f5",
+      "file": "Bebek Peking.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "bdbcd5b28cb9cc",
+      "file": "Canard laqué spécialité de Pékin (Beijin).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "37f8729654e89c",
+      "file": "Carving of a roast duck at Cui Hua Lou, Dongzhimen (20220718125323).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "2cf9a34cecf65f",
+      "file": "Dim Tu Tac half-portion Peking duck.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "9a13ff0458aa9b",
+      "file": "Dry for 5 hours cropped.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "712c40a1b87a4b",
+      "file": "Hendry Hamim Beternak Bebek Peking.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "edb4df56e224a8",
+      "file": "Kuirado de pekina anaso en restoracio (Pekino).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "5e94a4a7c4c814",
+      "file": "Kuirado de pekina anaso en restoracio en Pekino.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "0d2e432eb9404d",
+      "file": "Peking duck by Mr Wabu in Beijing.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "c05182a7e5b44c",
+      "file": "Peking duck with sugar scallion.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "e45c80d291c6c7",
+      "file": "Peking duck wrap 1.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "8625801a90bcee",
+      "file": "Traditional Peking Duck Restaurant.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "958f00f90ef331",
+      "file": "Vit-quay-bac-kinh-by-vit-quay-to-thi.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "053cb291dd2b26",
+      "file": "XUEYUAN BOULEVARD, SHENZHEN (13).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "0e8b139903bd8a",
+      "file": "片皮鴨.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-0.json",
+      "metadataSha256": "5a8d59b0f8ef20123743b9c739a770a7f03690168ec9bac29515d4f8b0db539c"
+    },
+    {
+      "id": "46dde51264d9d2",
+      "file": "Beijing Duck set.jpeg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "36dffe6ad461ef",
+      "file": "Beijing duck (11513422233).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "6f309a3effc3e3",
+      "file": "Bianyifang.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "165a3e3c482d6a",
+      "file": "Carving of a roast duck at Cui Hua Lou, Dongzhimen (20220718125317).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "292815155ad30d",
+      "file": "Dry for 5 hours.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "a4e663b1272aaa",
+      "file": "Peking Duck 1.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "0b5b451bff6fec",
+      "file": "Peking Duck 3.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "6d0fcea7cda63a",
+      "file": "Peking duck 1.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "3cd1ec93589157",
+      "file": "Peking duck ingredients.png",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "aa229aa1a37ad1",
+      "file": "Peternakan Bebek.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "806148c0f1f103",
+      "file": "Quanjude Oven.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "9ada4a7791507e",
+      "file": "Roasted Beijing Duck sliced.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "ffad0d0030b46a",
+      "file": "Shinraku 20200112-04.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "df54c6ea37c0ab",
+      "file": "XUEYUAN BOULEVARD, SHENZHEN (14).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-0.json",
+      "metadataSha256": "f8a37dcf7d72ea9f9b44cc438c3ced28b84e91c39380c22ab66898c47b5e6b9f"
+    },
+    {
+      "id": "227c1ae9ccb238",
+      "file": "HK TST 尖東 East 香港富豪九龍酒店 Regal Kowloon Hotel 雅廊咖啡室 Cafe Allegro buffet Restaurant food March 2023 Px3 02.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "524465c6562cc3",
+      "file": "HK 尖沙咀東 TST East 麼地道 69 Mody Road 帝苑酒店 Royal Garden Hotel 雅苑座 The Greenery Restaurant buffet diner food 北京烤鴨 Peking roasted duck 腿 leg November 2022 Px3 01.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "9384eb78d49c9f",
+      "file": "Hoisin sauce.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "c2b5541c3840e5",
+      "file": "MC 澳門 Macau 路氹 Cotai 萬豪酒店 JW Marriott Hotel Macao 名廚都匯 Urban Kitchen Restaurant 自助午餐 lunch buffet 北京填鴨 Peking duck rolls November 2024 R12S 02.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "caea200376dabe",
+      "file": "Metro Manila Landmarks and Heritage Lunar Year 06.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "f86c4112d015b9",
+      "file": "Peking Duck, in a restaurant in Peking.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "5f892fe020df24",
+      "file": "Peking Roast duck with bread.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "2b7fb7e7a48978",
+      "file": "Peking duck - Stuffing the duck with scallions.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "f710f371a176c9",
+      "file": "Peking duck - day 1 of drying in the fridge.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "2f2aef9b1053a5",
+      "file": "Peking duck by N.ALTHANI in Washington DC.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "dec69b5b75bf1c",
+      "file": "Peking duck pancake.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "5066f644503796",
+      "file": "Roasted duck with pan cake in clipper lounge.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "246fbf4430a84f",
+      "file": "烤鸭的炉子.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-1.json",
+      "metadataSha256": "0d8d8621939299b9f0bcd64f4c14b1e13229130ac6da579a139894e544a649e5"
+    },
+    {
+      "id": "3e4e595ea3be32",
+      "file": "1996 -251-12A Beijing Peking Duck (5069079030).jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "5081edabe70d69",
+      "file": "2016-08-27 Peking Duck at Great Wall Restaurant Beijing anagoria.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "2e4194506b20fd",
+      "file": "A dish of Peking Duck from Fu Dong Kwok Restaurant in Sha Tin.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "d4c90a9826f21f",
+      "file": "HK TST 尖東 East 香港富豪九龍酒店 Regal Kowloon Hotel 雅廊咖啡室 Cafe Allegro buffet Restaurant food hot meat 北京片皮鴨 Peking duck March 2023 Px3.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "8719fbd6e37801",
+      "file": "HK 尖沙咀東 TST East 麼地道 69 Mody Road 帝苑酒店 Royal Garden Hotel 雅苑座 The Greenery Restaurant buffet diner food 北京烤鴨 Peking roasted duck November 2022 Px3 03.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "0a176769ad7eea",
+      "file": "HK 尖沙咀東 TST East 麼地道 69 Mody Road 帝苑酒店 Royal Garden Hotel 雅苑座 The Greenery Restaurant buffet diner food 北京烤鴨 Peking roasted duck 蒸籠 steamer 粉皮 Chinese pancake November 2022 Px3.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "6cc5a6116b3145",
+      "file": "Peking Duck from Duck Victoria.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "d3ff0398e02c42",
+      "file": "Peking Duck with side dishes and bread from China House Tai Po.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "c9cbcad71e186c",
+      "file": "Peking duck.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "e1ed666f6e9cd8",
+      "file": "Peking duck - 2nd glazing.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "247027e84809ff",
+      "file": "Peking duck - Finished!.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "4ec9c34a5cb1a0",
+      "file": "Peking duck eaten in Macau.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "9cd417b39d50f9",
+      "file": "Peking duck wrap.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "aaf40ca44dee57",
+      "file": "Peking duck wrap 2.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    },
+    {
+      "id": "9e3357582a0b93",
+      "file": "Quanjude 1.jpg",
+      "status": "held-not-adopted",
+      "reason": "候选已查看：可能为活鸭、未完成制作、人物/门店或附属配料；其他成品照在光线、主体和摆盘比较中未优先采用。未将未选中一概判作错图。",
+      "metadataFile": "research/.local/peking-duck-20261116/search-next-2.json",
+      "metadataSha256": "8cda941bbb050072d0a2dc974470229e52354aa3e4fa9697783a5a04a875be88"
+    }
+  ]
+}
