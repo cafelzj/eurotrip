@@ -19,3 +19,5 @@ python scripts/archive-research.py --batch YYYY-MM-DD-topic --source /path/to/so
 [中国卡片统一归档](2026-11-15-china-collection.json) 保存17个输入文件：15份省级行政边界原件、来源指纹与整合前中国卡片快照。整合后的分类、旧ID和数量关系见 [整合登记](../flavors/integration/china-collection.json)。
 
 - [2026-11-15统一总览地图](2026-11-15-unified-overviews.json)：保留更新前的全国SVG原件；本次只更新可选省份与交互标记，路径几何逐项比对保持不变。原件仍在 `.local/overview-unification/`。
+
+- [江西、广西、广东扩充归档](2026-11-15-three-provinces.json)：3533个文件，包含独立知识、检索完整响应、行政原件、原网页响应、可读文本、基线和中间核对材料。引用的公告PDF原件继续由4000项历史归档保留；本地副本不等于异地备份。

@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-b5e7491d0295dd55",
+  "title": "乡村美食月 | 宽的、扁的、炒的……看它们如何“粉”墨登场！_南方plus_南方+",
+  "url": "https://static.nfnews.com/content/202110/19/c5849271.html?enterColumnId=87",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/b5e7491d0295dd55.raw",
+  "originalResponseSha256": "e53b1926ee74dbc245bf8c23da93d1b28efac1271da4daa8a46556cc0ef5d87f",
+  "readableFile": "research/.local/three-provinces-20261115/articles/b5e7491d0295dd55.txt",
+  "readableSha256": "306a97995f63326991d14e47599f17bcb2a1c6f0caa559f92027b9389941ce2e",
+  "items": [
+    {
+      "itemId": "threeprov-2654bf95617c1d5816",
+      "name": "沙河粉",
+      "initialCandidateId": "memory-a7e77d882ec9",
+      "adoptedFacts": "沙河粉因广州沙河一带得名。南方媒体地方米食介绍描述其洁白、薄而柔韧、爽滑，可炒可煮，既是街头小食原料，也能作为正餐主食。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-0b1b80c78363458718",
+      "name": "厚街濑粉",
+      "initialCandidateId": "memory-e4979c53c6c0",
+      "adoptedFacts": "厚街濑粉是东莞厚街的地方米食。南方媒体记录其制作技艺被纳入非遗名录，镇街信息作为地方说明保留，不把厚街镇误设为县级辖区。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

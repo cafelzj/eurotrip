@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-18dbc34d74d6482c",
+  "title": "江门美食真的太全面了！“揾食宝典”→_寻味江门_江门市文化广电旅游体育局",
+  "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/ztzl/xwjm/content/post_3150810.html",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/18dbc34d74d6482c.raw",
+  "originalResponseSha256": "2f2963d86cdfcebbb177f8c1e2a6ea5c89a9bc06eb719d290f59077b5759218b",
+  "readableFile": "research/.local/three-provinces-20261115/articles/18dbc34d74d6482c.txt",
+  "readableSha256": "940a05ba4909c9d4601c88884e39c38f030ca0fe31655e27c3158e9de8c15889",
+  "items": [
+    {
+      "itemId": "threeprov-1d5b50dc8a72b752b2",
+      "name": "古井烧鹅",
+      "initialCandidateId": "memory-f1ece4d82b44",
+      "adoptedFacts": "古井烧鹅是江门新会相关的地方烧味。地方文旅资料介绍选用马冈鹅并以烧制形成鲜香、多汁的风味，不采用缺少史料核实的宫廷起源故事。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-820ec153e5370b3921",
+      "name": "开平马冈鹅",
+      "initialCandidateId": "memory-8123521abec2",
+      "adoptedFacts": "马冈鹅与江门开平地方禽类物产相连。地方文旅介绍将其作为古井烧鹅等菜肴的原料线索，畜禽品种与烹调菜品分别归类。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

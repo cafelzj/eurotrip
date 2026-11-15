@@ -1,0 +1,53 @@
+{
+  "id": "threeprov-gi-087713d73002f2a1",
+  "title": "地理标志产品公告 · 2013年第81号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "087713d73002f2a1a81b91a933f45f110e491efb",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第81号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC81%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "34473c65cdf366763908cbe8781ec79fc748b52ddeef805e8a2a3bc0593b30b7",
+    "textSha256": "f3a28e190710b469ff1257352d9a21ea545d3d12ecd7e5e14f144b80e25a4c85",
+    "textLength": 8469,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/087713d73002f2a1a81b91a933f45f110e491efb.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/087713d73002f2a1a81b91a933f45f110e491efb.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-2bc41b0c34162aaaa0",
+      "name": "封开油栗",
+      "scope": "封开油栗产地范围为广东省封开县长岗镇、平凤镇、江川镇、江口镇、大洲镇、罗董镇、杏花镇、渔涝镇、河儿口镇、白垢镇、莲都镇共11个镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "坚果呈深褐色或红褐色,皮薄油亮光滑,极少茸毛,肉色蛋黄,肉质细糯,风味香甜;生食脆甜,熟食芳香。单粒重11至15克",
+      "process": "",
+      "sectionSha256": "32b7400eae6ffe6f124ef60e2a852b6bf614d6f826ddf9cee83c5414e95baed7"
+    },
+    {
+      "itemId": "threeprov-8bb2c761bac471cebe",
+      "name": "西岩乌龙茶",
+      "scope": "西岩乌龙茶产地范围为广东省梅州市大埔县枫朗镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "项目特征外形条索肥壮紧结,饱满光滑匀整、色泽黄褐油润香气花蜜香味,清香天然,香浓持久汤色橙黄明亮、略显金黄滋味醇厚甘润、浓醇鲜爽、回甘性好叶底嫩绿,匀齐柔亮",
+      "process": "",
+      "sectionSha256": "902edfb09f4b9341a80da178f9b221d45709010bad845cd1fcc5f0b4fc650c29"
+    },
+    {
+      "itemId": "threeprov-ec9da3796d11a6fb4e",
+      "name": "吴川月饼",
+      "scope": "吴川月饼产地范围为广东省吴川市现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "个体饱满,色泽油润棕黄,皮薄且厚度均匀,饼皮松软,香甜可口,馅料丰富,味道香醇,食后颊齿留香",
+      "process": "",
+      "sectionSha256": "1394341dcc03c4e941b352b752fb33bb3390548bdb3e8e2514962d663dd3a3e2"
+    }
+  ]
+}

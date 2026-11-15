@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-d3a246ab370c9164",
+  "title": "涨知识！这些肇庆味道受国家保护！你家乡有几个？_澎湃号·媒体_澎湃新闻-The Paper",
+  "url": "https://m.thepaper.cn/newsDetail_forward_7164775",
+  "read": true,
+  "readMethod": "html-container:main",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/d3a246ab370c9164.raw",
+  "originalResponseSha256": "4f7e865ff32280d0bee71e81a80e3e149a40d353f884868fd6b4cebe48cbd1ca",
+  "readableFile": "research/.local/three-provinces-20261115/articles/d3a246ab370c9164.txt",
+  "readableSha256": "a96b1f4b4a9924978b4221adbdcb6e5f6eaa4ba1aac33433fadaf861de667a0b",
+  "items": [
+    {
+      "itemId": "threeprov-f527ceee478274facc",
+      "name": "端砚",
+      "initialCandidateId": "memory-c5b1edb12eef",
+      "adoptedFacts": "端砚是肇庆地方制砚工艺的重要代表。地方资料描述砚石细腻、致密等特点，记录文房器物与石材工艺，不以商业宣传中的排名替代实际品质判断。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

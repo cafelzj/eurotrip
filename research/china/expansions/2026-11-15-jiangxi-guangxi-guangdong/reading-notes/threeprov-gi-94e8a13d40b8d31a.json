@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-94e8a13d40b8d31a",
+  "title": "地理标志产品公告 · 2024年第566号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2024%E5%B9%B4%E7%AC%AC566%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "94e8a13d40b8d31ad48a91ba4a642f9bc6ea1b0f",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2024年第566号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2024%E5%B9%B4%E7%AC%AC566%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "48a6726cff74f32de07fb412c17361e7f06fb271ddd506edd82f8c701e2c9ffa",
+    "textSha256": "979dd68c1d773ef0dc89f0cc5305e08f459efd664f84d8e6533a8b7494ceaa7d",
+    "textLength": 2486,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/94e8a13d40b8d31ad48a91ba4a642f9bc6ea1b0f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/94e8a13d40b8d31ad48a91ba4a642f9bc6ea1b0f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-0542c736a927e1ff71",
+      "name": "东莞腊肠",
+      "scope": "广东省东莞市现辖行政区域",
+      "type": "dishes",
+      "variety": "要求1.猪肉。产地范围内屠宰的新鲜或冷鲜的猪后腿瘦肉,新鲜或冷冻的猪脊膘肥肉,应符合国家相关标准要求。2.猪肠衣。天然猪肠衣,应符合国家相关标准要求。3.高度白酒。浓度≥50°的清香型白酒,应符合国家相关标准要求。4.辅料。酱油、白砂糖、食用盐等,应符合国家相关标准要求",
+      "sensory": "瘦肉呈鲜红、玫瑰红、暗红色,肥肉呈乳白色,有光泽。肠身短且粗,结实有弹性,表面干爽不油腻。口感咸甜适中,松弹,皮脆肉爽,具有浓郁的甜香和酒香,甘香醇厚",
+      "process": "原料处理→配料→灌肠→生晒/烘烤→修整、包装。加工要点:—5—1.原料处理。(1)肥肉处理。将肥肉切成规格为4mm×4mm×4mm至10mm×10mm×10mm的肉粒,用45~55°C的热水多次泡洗,直至触摸无油脂沾手,洗净沥干水分备用。(2)瘦肉处理。将肉筋、碎骨剔除后切成小块,用25~45°C的温水泡洗至水无血色。清洗沥干水分后,切成规格为4mm×4mm×4mm至8mm×8mm×8mm的肉粒。2.配料。按肥肉≤30%的比例,将处理好的猪肉与白酒、酱油、白砂糖、食用盐等辅料充分搅拌融合。3.灌肠。将与辅料充分搅拌融合后的猪肉均匀灌入猪肠衣中,打孔排气排",
+      "sectionSha256": "8bcf35eed092ac41e8ad32a5510caca69f4a11f11de7576a2c3480f2b96b9f99"
+    }
+  ]
+}

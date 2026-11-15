@@ -1,0 +1,42 @@
+{
+  "id": "threeprov-source-125b5790bc365af1",
+  "title": "中山市民众街道政务网",
+  "url": "https://www.zs.gov.cn/mzz/zcgw/sjzcjd/content/post_2451956.html",
+  "read": true,
+  "readMethod": "html-container:#content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/125b5790bc365af1.raw",
+  "originalResponseSha256": "7bf91b468d0093a225a4fd9c22ff833e87f4adf0ab51fcc7d56cc0b47c21c2b9",
+  "readableFile": "research/.local/three-provinces-20261115/articles/125b5790bc365af1.txt",
+  "readableSha256": "81cbb72e3d43597479ae3bcf823a5004cfb1a0ef4421b8972093ed9f57fc526f",
+  "items": [
+    {
+      "itemId": "threeprov-9bdcc4587a262b3b62",
+      "name": "石岐乳鸽",
+      "initialCandidateId": "memory-f29a4519bf51",
+      "adoptedFacts": "石岐乳鸽被中山市政府列为地方名菜。它与中山脆肉鲩、小榄炸鱼球等共同构成本地饮食谱系，熟食菜肴与“石岐鸽”畜禽品种分开归类。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-3bd2f4c973637b949d",
+      "name": "小榄炸鱼球",
+      "initialCandidateId": "memory-1e1045bbb8ab",
+      "adoptedFacts": "小榄炸鱼球是中山地方鱼制名菜。市政府美食产业资料有明确记录，小榄为镇街层面的地域说明，不作为虚构县区加入筛选。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-aa12f1144aed8343e2",
+      "name": "沙溪扣肉",
+      "initialCandidateId": "memory-dc6fee127547",
+      "adoptedFacts": "沙溪扣肉被中山市政府列为地方名菜。它属于当地肉食与宴席文化，食品类别、镇街地名和具体餐馆分开保留。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-2048474ff4354517a4",
+      "name": "三乡濑粉",
+      "initialCandidateId": "memory-1b3050e5485d",
+      "adoptedFacts": "三乡濑粉是中山地方米食。官方资料与地方米食报道均有记录，体现圆长米粉与本地饮食习俗的关系，三乡镇不是县级市或县区。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

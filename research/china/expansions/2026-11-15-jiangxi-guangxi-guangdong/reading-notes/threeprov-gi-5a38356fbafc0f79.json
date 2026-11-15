@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-5a38356fbafc0f79",
+  "title": "地理标志产品公告 · 2008年第122号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "5a38356fbafc0f79e6b72d7265674cc33505a1d0",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第122号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC122%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "8825741e4381ccf82eee4d623ad9a15662960d9875e7d0bbf3c31f609ce6634e",
+    "textSha256": "bba61c742444a137c143466cf0fdaf84d3c3f04e0c0b1150ced8a1aa2258dc76",
+    "textLength": 7548,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/5a38356fbafc0f79e6b72d7265674cc33505a1d0.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/5a38356fbafc0f79e6b72d7265674cc33505a1d0.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-4b70dd2e541cefa8f6",
+      "name": "连南无核柠檬",
+      "scope": "连南无核柠檬产地范围的函》(南府函〔2007〕16号)提出的范围为准,为广东省连南瑶族自治县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "里斯本柠檬及其优系",
+      "sensory": "果实呈长椭圆形,乳突较小;果皮新鲜光洁;香气较浓,无异味;无核率达95以上",
+      "process": "",
+      "sectionSha256": "7173c380fbf2faf1a126979f69ed665e8e608a6fbfc3ff9fdcdcb6f6bf48f857"
+    },
+    {
+      "itemId": "threeprov-52be0209da2964e776",
+      "name": "张溪香芋",
+      "scope": "张溪香芋产地范围有关建议的函》(乐府函〔2007〕50号)提出的范围为准,为广东省乐昌市乐城镇、廊田镇、长来镇、北乡镇等4个镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地槟榔芋种",
+      "sensory": "球茎重量≥2.5kg,长度≥30cm;芋形端正,呈纺锤形或圆柱形,表皮黄褐色,皮薄,光滑,肉质结构紧密,质粉,酥松无渣、芋香浓郁",
+      "process": "",
+      "sectionSha256": "f4fae280dd1f77ee428f1b483b42b9f843984dc5f0b4bfea1ba027f9d1fa2a5e"
+    }
+  ]
+}

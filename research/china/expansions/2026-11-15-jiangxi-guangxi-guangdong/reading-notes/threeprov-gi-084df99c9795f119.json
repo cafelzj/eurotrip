@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-084df99c9795f119",
+  "title": "地理标志产品公告 · 2007年第165号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC165%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "084df99c9795f119a71a1644e6a6124c872e4289",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2007年第165号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC165%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "69e57f91eeb88b78c31987f166a239e7643967a78f49a2cc35a9316321a0fc4e",
+    "textSha256": "dc2a01a2a126f4f32e07b9abe2be8ff914ffdf6b580e6d034bee1704c5f5a39b",
+    "textLength": 1478,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/084df99c9795f119a71a1644e6a6124c872e4289.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/084df99c9795f119a71a1644e6a6124c872e4289.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-b05bf4d7c5ffe5b799",
+      "name": "徐闻山羊",
+      "scope": "徐闻山羊地理标志产品保护范围以广东省徐闻县人民政府《关于划定徐闻山羊产地范围的函》(徐府函[2007]29号)提出的范围为准,为广东省徐闻县南山镇、龙塘镇、海安镇、迈陈镇、西连镇等5个镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "雷州山羊",
+      "sensory": "",
+      "process": "",
+      "sectionSha256": "b86a714d2ed74c8a3929d7fc5ca88178af1eaf5596296c9c497583bf77591560"
+    }
+  ]
+}

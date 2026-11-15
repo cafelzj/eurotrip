@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "flavorRecords": 4255,
+  "flavorRecords": 5051,
   "legacyChinaRecords": 142,
   "mergedAliases": [
     {
@@ -88,10 +88,10 @@
       "reason": "同一地方食物的旧卡片与风物条目，保留旧ID别名、正文、来源、关系和图片引用。"
     }
   ],
-  "expectedChinaRecords": 4385,
-  "provinces": 15,
-  "cityScopes": 174,
-  "countyScopes": 1484,
+  "expectedChinaRecords": 5181,
+  "provinces": 18,
+  "cityScopes": 220,
+  "countyScopes": 1817,
   "administrativeSources": [
     {
       "province": "beijing",
@@ -167,6 +167,21 @@
       "province": "heilongjiang",
       "url": "https://geo.datav.aliyun.com/areas_v3/bound/230000_full.json",
       "sha256": "f8d3bdbee4068811237efd23fe349a4c6e3bc99334079f9746f19e7df5ea4854"
+    },
+    {
+      "province": "jiangxi",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/360000_full.json",
+      "sha256": "ee9696faaca6e644fb0f1aebfc0bd800beb938dd2eb1737fcb8b244072405d9e"
+    },
+    {
+      "province": "guangxi",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/450000_full.json",
+      "sha256": "5bdcaa8808d78065be4a496718b449c5b97d1ef27900bbfcd2407f69c5f6c041"
+    },
+    {
+      "province": "guangdong",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/440000_full.json",
+      "sha256": "209ad617a296b154c4fd0828180b2a9ab2b270044990ab34e72a344ce913c8c7"
     }
   ],
   "sourceRules": "行政中心仅用于地区地图视角，不给地方食品虚构店铺或POI；县域只沿用已有明确归属。",

@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-de83bfa028b12a08",
+  "title": "地理标志产品公告 · 2008年第92号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC92%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "de83bfa028b12a08258b4cd5e716d59e7241017b",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第92号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC92%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "ddc1178eb756d8782289ee2240c1ead8b57b1416f97c13b02bda531c2c8d1c5b",
+    "textSha256": "c68d6976fce908c0f0b4aa2e46b8090b207430614bd13a9e78dfed669debd528",
+    "textLength": 8864,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/de83bfa028b12a08258b4cd5e716d59e7241017b.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/de83bfa028b12a08258b4cd5e716d59e7241017b.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-111703f26ace9e3829",
+      "name": "梧州腊肠",
+      "scope": "梧州腊肠地理标志产品保护范围以广西梧州市人民政府《关于划定梧州腊肠地理标志产品保护范围的函》(梧政函〔2007〕94号)提出的范围为准,为广西壮族自治区梧州市现辖行政区域。",
+      "type": "dishes",
+      "variety": "及辅料要求。1.猪肉:经来源地动物检疫部门检验检疫合格。2.瘦肉含量≥40%。3.白砂糖:符合GB317-1998规定。4.食盐:符合GB2721-2003规定。5.酱油:符合GB2717-2003规定。6.酒:符合GB2757、GB2758规定。7.肠衣:符合GB14967-1994规定的梧州胶原蛋白肠衣。8.亚硝酸钠:符合GB1907-2003规定",
+      "sensory": "外形细长,有大坑皱纹,红白分明,腊香味明显,味微咸不太甜,甘香不腻",
+      "process": "三次选料→切丁→糖腌→配料→灌制→[晾晒→风干]→包装。1.选料:选取猪背脊部皮下脂肪及腿部硬脂肪和无软骨及结缔组织的猪腿部瘦肉。2.切丁:规格:3mm×3mm×3mm至5mm×5mm×5mm,比例≤60%(以湿料重量计)。3.糖腌:时间≤60分钟。4.配料:(1)蛋白肉加入量≤10%(以湿料重量计)。(2)清香型白酒。(3)发酵法生产的酱油。5.三晒三凉:灌制后的腊肠半成品在白天经太阳生晒后,经傍晚雾气或露雨再次吸湿,再经晚风吹爽,使腊肠经历油润→湿润→吹爽过程,如此经过三晒三凉,直至形成独特的腊香味",
+      "sectionSha256": "31c60a1eef9333da4408bdafc5e9adedaa461fa9f5d1480b9b2d55274c66f8f3"
+    },
+    {
+      "itemId": "threeprov-82723adf21f0c762b5",
+      "name": "融水糯米柚",
+      "scope": "融水糯米柚地理标志产品保护范围以广西壮族自治区融水苗族自治县人民政府《关于划定融水糯米柚地理标志产品保护范围的函》(融政函〔2007〕369号)提出的范围为准,为广西壮族自治区融水苗族自治县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地沙田柚类品种",
+      "sensory": "(1)外观及风味:项目规格质量果形呈近梨形,端正。色泽淡黄色。果肉及风味果肉汁胞呈米黄色,柔嫩化渣,蜜甜清香。(2)单果重:900g至1300g",
+      "process": "",
+      "sectionSha256": "6c6debd54fa5ba9c30765393199bf14940b9649102a245721e4908fd27a754e2"
+    }
+  ]
+}

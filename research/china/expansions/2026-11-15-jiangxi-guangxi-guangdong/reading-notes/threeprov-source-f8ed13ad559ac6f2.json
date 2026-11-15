@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-f8ed13ad559ac6f2",
+  "title": "柚乡名产乡村游",
+  "url": "https://zhuanti.mct.gov.cn/dhxlsfn2022/guangxi/detail/2392.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/f8ed13ad559ac6f2.raw",
+  "originalResponseSha256": "506f163e6dd7704557235de9f7e25793dfb786c2d1556b032863a3ce7c0b6bf1",
+  "readableFile": "research/.local/three-provinces-20261115/articles/f8ed13ad559ac6f2.txt",
+  "readableSha256": "fe677566f40e75bad4aa334b1a5c7b92da2e2a40b1b94ae18c5e5bf75b760462",
+  "items": [
+    {
+      "itemId": "threeprov-38ec29512feb26ec28",
+      "name": "容县沙田柚",
+      "initialCandidateId": "memory-5a143b21d8c8",
+      "adoptedFacts": "容县沙田柚与玉林容县的地方果品文化相连。文化和旅游部柚乡线路记录了采摘、品尝与村落游览，果品产区和旅游景点不是同一地理概念。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

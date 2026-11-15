@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-aed2380f53245fda",
+  "title": "地理标志产品公告 · 2008年第58号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC58%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "aed2380f53245fdaba658c513eaffac185130194",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第58号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC58%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "9a4345e8850d5e4b0f31510c175d1b9d1c8ef8342a1d7122ebb7938a35bb82f8",
+    "textSha256": "8bf45035345e77d2498a61ce541ea1638d335f532c21b50423a4862d8887cc9d",
+    "textLength": 1671,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/aed2380f53245fdaba658c513eaffac185130194.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/aed2380f53245fdaba658c513eaffac185130194.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-84f8dfa1cab1bc951e",
+      "name": "罗定肉桂",
+      "scope": "罗定肉桂地理标志产品保护范围以广东省罗定市人民政府《关于划定罗定肉桂产地范围的函》(罗府发〔2007〕27号)提出的范围为准,为广东省罗定市现辖行政区域",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "项目桂皮槽状或卷筒状,外表面有不规则的细皱纹、小裂纹及横向突起的皮孔;外观内表面略光滑,有细纵纹。色泽外表面灰棕色,内表面红棕色或暗红棕色。香气具有罗定肉桂的特征香气味觉味甘甜、辣味适中",
+      "process": "",
+      "sectionSha256": "8d8cf5d8153a71c9dae7965a3f0ecb71a5c8a0f2e8473870960f04a76a3df7e6"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "threeprov-gi-9ad8ba4fd86d60a9",
+  "title": "地理标志产品公告 · 2018年第31号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC31%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "9ad8ba4fd86d60a9627f8cf936eba054c2a9bf2a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2018年第31号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC31%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "8ed0f81f10993005eeb7552297018d1591505b5266178aebae42588aa07cd1ae",
+    "textSha256": "11c22e80bdda19d47ce4a9d8801855d762d929bb83300895b692e901030a1291",
+    "textLength": 32625,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/9ad8ba4fd86d60a9627f8cf936eba054c2a9bf2a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/9ad8ba4fd86d60a9627f8cf936eba054c2a9bf2a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-70bf03dffd7e99c019",
+      "name": "罗定豆豉",
+      "scope": "罗定豆豉产地范围为广东省云浮市罗定市现辖行政区域。",
+      "type": "seasoning",
+      "variety": "",
+      "sensory": "黑豆豉黄豆豉色泽黑褐色黄褐色气味豉香浓郁滋味味鲜咸而回甘口感入口松化无渣",
+      "process": "",
+      "sectionSha256": "63908f8246862e1ecd640b930b040dc2818f6fbc8a01b36f874c3222a4139b32"
+    },
+    {
+      "itemId": "threeprov-6805e469a9a8b89c99",
+      "name": "新岗红茶",
+      "scope": "新岗红茶产地范围为广东省怀集县洽水镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "条索紧结,色泽乌润油亮,带花果香,茶汤棕红明亮,滋味鲜爽嫩甜,入口柔顺,回甘持久,叶底红而软亮,可耐多次冲泡",
+      "process": "",
+      "sectionSha256": "5e31e125ab9730ab9a2ca3d15e6eddeecda65fbc3d851af842ef5e2e11c1c0d7"
+    },
+    {
+      "itemId": "threeprov-27092db4d8e97dfce5",
+      "name": "三圳淮山",
+      "scope": "三圳淮山产地范围为广东省梅州市蕉岭县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "成熟的三圳淮山外观呈黄褐色圆柱状,直径≥45mm,长度≥250mm。密生细须根,颁断后,断口呈乳白色,粘稠汁液多。烹煮时具有久煮不散的特点,煮熟后口感为酥、糯",
+      "process": "",
+      "sectionSha256": "e7b44097024e448f3776b1b306971df7ba78fdb8d8df65fbf2fd8cc0f4453e91"
+    },
+    {
+      "itemId": "threeprov-69b394ab8e6bf384e3",
+      "name": "连山大肉姜",
+      "scope": "连山大肉姜产地范围为连山壮族瑶族自治县现辖行政区域(吉田镇、永和镇、福堂镇、小三江、太保镇、禾洞镇、上帅镇七个镇的低丘陵坡地)。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "姜表皮浅黄,肉黄白色或浅蓝色,收获初期姜芽鳞片呈紫红色;姜块肥大,皮薄肉厚,肉质脆嫩,纤维细少",
+      "process": "",
+      "sectionSha256": "5e4ebdd053068e72689b1763bfb92cebbbd8e2251bb01f139bcab8c9779c6d54"
+    },
+    {
+      "itemId": "threeprov-ac8154bb888eeafb61",
+      "name": "观音阁红糖(观音阁黑糖)",
+      "scope": "观音阁红糖(观音阁黑糖)产地范围为广东省博罗县观音阁镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "项目指标色泽呈赤褐色或黑褐色滋味、气味具有浓郁的蔗香组织形态呈粉状,干爽疏松,可有少量糖粒杂质应无明显黑渣或外来杂质",
+      "process": "",
+      "sectionSha256": "1dbe225fcddfaa85fffcae2b5dc7677df12335f36a4d715a86b086d8755502d8"
+    },
+    {
+      "itemId": "threeprov-08e375346c4947b0b5",
+      "name": "封开杏花鸡",
+      "scope": "封开杏花鸡产地范围为广东省肇庆市封开县长岗镇、平凤镇、江川镇、江口镇、大洲镇、罗董镇、杏花镇、渔涝镇、河儿口镇、白垢镇、莲都镇、都平镇、大玉口镇、南丰镇、金装镇、长安镇等16个封开县辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)活体鸡:体质结实匀称,头细、脚细、羽黄、脚黄、喙黄、颈短、体短、脚短。(2)白条鸡:皮肤浅黄,光滑滋润,肌肉丰满有弹性。表皮和肌肉切面有光泽",
+      "process": "",
+      "sectionSha256": "95f7acfaaac02eadbed913614e069689f06206031d36521ac5ce67cfdc2a80f1"
+    },
+    {
+      "itemId": "threeprov-566e440fce8399d4bc",
+      "name": "岗坪切粉",
+      "scope": "岗坪切粉产地范围为广东省怀集县岗坪镇、梁村镇、大岗镇、闸岗镇现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "项目要求色泽具有本品种正常自然的色泽气味具有岗坪切粉的固有气味和风味,无异味形态呈细条状,粗细大小均匀,表面光滑口感柔韧、不粘牙、不夹生、无牙碜杂质不得有正常视力可见外来杂质",
+      "process": "",
+      "sectionSha256": "4c825dd0d48aeb5580846adcf1d44ca533d21db6453ececc1250531b67f9b018"
+    },
+    {
+      "itemId": "threeprov-f6bc805abb75ab2463",
+      "name": "蕉岭冬笋",
+      "scope": "蕉岭冬笋产地范围为广东省梅州市蕉岭县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "鲜冬笋感官要求见表1。表1鲜冬笋感官要求项目要求色泽、形态笋壳呈淡黄色,笋肉白色或乳白色,笋体饱满,壳薄肉厚,外形呈马蹄状,有沉实感。滋味、气味笋香味浓郁,笋肉口感细腻爽脆,清甜鲜美2.鲜冬笋",
+      "process": "",
+      "sectionSha256": "83e04607ad89e1cad8050500742fbc5c953a5d6e7fd2e32364f19de0245a5360"
+    },
+    {
+      "itemId": "threeprov-ece2929713ebf0f5fd",
+      "name": "罗浮山荔枝",
+      "scope": "罗浮山荔枝产地范围为广东省博罗县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果皮鲜红或带墨绿色斑块,果皮刺小,果肉乳白色,核小肉厚,质厚实,爽脆清甜,有桂花香味",
+      "process": "",
+      "sectionSha256": "cefac719c1b46c9a2885057ceb4cc4ace1111d10ee2c3a7013e4928be5f0037f"
+    }
+  ]
+}

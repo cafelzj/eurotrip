@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-a152140e318f635b",
+  "title": "地理标志产品公告 · 2010年第163号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC163%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a152140e318f635beb40ccfd390d0e98ee2eca4f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第163号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC163%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "d1cf880492269c53ed0761446ddafd062e83db55124b2d4641e81197602e245d",
+    "textSha256": "6757418884052d7d646b8aa874bb3df3a1981b61b101f86fdc553a3a97040268",
+    "textLength": 4203,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a152140e318f635beb40ccfd390d0e98ee2eca4f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a152140e318f635beb40ccfd390d0e98ee2eca4f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-ed466a2f585c3fe581",
+      "name": "桂林腐竹",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "1.大豆:选用贮存期不超过12个月东北大豆。符合GB1352的标准规定。2.水:来自桂林行政区域没有其它河流交叉的桂林漓江水,符合国家饮用水标准",
+      "sensory": "表面油润光亮,颜色淡黄或黄色,枝条均匀,色泽一致,空心松化。烹饪后,味道酥脆香甜,鲜嫩软滑,质地细腻,韧性好,口感劲道有嚼头。入汤不化,久煮不糊",
+      "process": "1.工艺流程:大豆选料浸泡磨浆浆渣分离过滤煮浆上浆保温扯竹烘干缓苏包装2.技术要求:(1)浸泡:大豆在水温0°C至10°C时,泡20至24小时;在10°C至20°C时,泡14至20小时;在20°C至30°C时,泡7至14小时。(2)磨浆:大豆磨浆后豆糊的粗细度小于1.0mm。(3)浆渣分离和过滤:豆浆100目筛网过滤,浓度8°至11°。(4)煮浆:温度≥95°C,时间3min至10min。(5)上浆和保温扯竹:把熟浆放入保温槽内,控制豆浆温度在85°C±5°C,当豆浆结膜厚度在0.2mm至0.5mm时进行扯竹,每根湿腐竹重量控制在52g至57g。(6)烘",
+      "sectionSha256": "5997aae7a34ba96bbccdba25f1d974824c0b5a30c69e4c04d76de434bb567f5c"
+    }
+  ]
+}

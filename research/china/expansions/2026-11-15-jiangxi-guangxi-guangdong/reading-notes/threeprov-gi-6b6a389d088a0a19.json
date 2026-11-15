@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-6b6a389d088a0a19",
+  "title": "地理标志产品公告 · 2013年第99号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC99%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "6b6a389d088a0a196ef45d9eed5ceefa0f855969",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第99号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC99%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "062cab1db8579e16fb2b0bb00c3d13085306a78c1df61ec247e2ef99738b61e1",
+    "textSha256": "cc5392f7b874d35c2a20ee8a0b38e1b3db5274808aafded4db2bab13f787d982",
+    "textLength": 6584,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/6b6a389d088a0a196ef45d9eed5ceefa0f855969.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/6b6a389d088a0a196ef45d9eed5ceefa0f855969.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-cf73fb7743df541330",
+      "name": "竹山粉葛",
+      "scope": "竹山粉葛产地范围为广东省佛冈县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "竹山粉葛外观呈橄榄形,块茎须根少,无分叉,表皮有轻微皱褶,呈黄白色,葛味浓;葛肉乳白色,皮薄、肉香、质嫩、入口无渣",
+      "process": "",
+      "sectionSha256": "825d20e432c3d890c9b17d36cea5526d175401eb352d440ec30676048549d0ff"
+    },
+    {
+      "itemId": "threeprov-213f618bd48d31d31b",
+      "name": "信宜怀乡鸡",
+      "scope": "信宜怀乡鸡产地范围为广东省信宜市现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)活体鸡:具有两细(头细、脚细)、三黄(喙黄、毛黄、趾黄)特征。体型呈元宝形,胫短而细。鸡头中等大小,单冠直立,色泽鲜红,有5至7个冠齿。公鸡羽毛鲜艳,头颈羽毛金黄色,肩背羽色深黄光亮,胸腹部羽毛浅黄,主翼羽和尾羽黑翠色有光泽。母鸡羽毛黄色,主翼羽和尾羽呈黑色或不完全黑色。(2)白条鸡:皮肤浅黄,光滑滋润,肌肉丰满有弹性,背部和尾部脂肪分布均匀。表皮和肌肉切面有光泽,肉质鲜美,无异味",
+      "process": "",
+      "sectionSha256": "1f99e9ca1b9c169895e80e9d7abeeb5ac50591ea20e4aac295dcebd82bfdbc3e"
+    }
+  ]
+}

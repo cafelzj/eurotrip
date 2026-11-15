@@ -1,0 +1,4191 @@
+{
+  "date": "2026-11-15",
+  "sealedAt": "2026-11-15T06:15:14.337016+00:00",
+  "stage": "initial-knowledge-before-external-food-search",
+  "externalSearchPerformed": false,
+  "provinces": [
+    "江西",
+    "广西",
+    "广东"
+  ],
+  "cities": [
+    {
+      "province": "江西",
+      "city": "南昌",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "景德镇",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "萍乡",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "九江",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "新余",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "鹰潭",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "赣州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "吉安",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "宜春",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "抚州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "江西",
+      "city": "上饶",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "南宁",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "柳州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "桂林",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "梧州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "北海",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "防城港",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "钦州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "贵港",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "玉林",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "百色",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "贺州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "河池",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "来宾",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广西",
+      "city": "崇左",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "广州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "韶关",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "深圳",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "珠海",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "汕头",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "佛山",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "江门",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "湛江",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "茂名",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "肇庆",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "惠州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "梅州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "汕尾",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "河源",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "阳江",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "清远",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "东莞",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "中山",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "潮州",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "揭阳",
+      "status": "knowledge-draft-before-external-search"
+    },
+    {
+      "province": "广东",
+      "city": "云浮",
+      "status": "knowledge-draft-before-external-search"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "memory-6a792b197112",
+      "province": "江西",
+      "city": "南昌",
+      "name": "南昌拌粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8666aad8bbf4",
+      "province": "江西",
+      "city": "南昌",
+      "name": "瓦罐汤",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a4fff6b06d14",
+      "province": "江西",
+      "city": "南昌",
+      "name": "白糖糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3f968f590e55",
+      "province": "江西",
+      "city": "南昌",
+      "name": "藜蒿炒腊肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9d135f1e84a6",
+      "province": "江西",
+      "city": "南昌",
+      "name": "进贤李渡酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-aaaa7b561d44",
+      "province": "江西",
+      "city": "南昌",
+      "name": "军山湖大闸蟹",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b316fd912112",
+      "province": "江西",
+      "city": "南昌",
+      "name": "煌上煌酱鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-79348b86b2ee",
+      "province": "江西",
+      "city": "南昌",
+      "name": "阳光乳业",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e87743331bc5",
+      "province": "江西",
+      "city": "南昌",
+      "name": "银山乳业",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a0d442f15152",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "景德镇瓷器",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0370ba3c0725",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "景德镇冷粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1a1db0627538",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "碱水粑",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-03f4a73baa2d",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "饺子粑",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ed60adfcf907",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "乐平桃酥",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-22c72432c2cf",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "浮梁茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-cd07a40f9cbe",
+      "province": "江西",
+      "city": "景德镇",
+      "name": "瑶里嫩蕊",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-cc2fc2e47b88",
+      "province": "江西",
+      "city": "萍乡",
+      "name": "莲花血鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f471eaebccf7",
+      "province": "江西",
+      "city": "萍乡",
+      "name": "萍乡炒粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-db55dd5a4f03",
+      "province": "江西",
+      "city": "萍乡",
+      "name": "武功山紫红米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2cb46b13c215",
+      "province": "江西",
+      "city": "萍乡",
+      "name": "上栗手工麻辣",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-beec1b0a1eeb",
+      "province": "江西",
+      "city": "萍乡",
+      "name": "安源火腿",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1b6c77b8ccdf",
+      "province": "江西",
+      "city": "九江",
+      "name": "庐山云雾茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a075ff2cbbe2",
+      "province": "江西",
+      "city": "九江",
+      "name": "湖口糟鱼",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ef34ef047830",
+      "province": "江西",
+      "city": "九江",
+      "name": "都昌豆参",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-49afd97fca97",
+      "province": "江西",
+      "city": "九江",
+      "name": "修水哨子",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-68807dfe3cc4",
+      "province": "江西",
+      "city": "九江",
+      "name": "宁红茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d736a1bddf90",
+      "province": "江西",
+      "city": "九江",
+      "name": "瑞昌山药",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2e1285b6d587",
+      "province": "江西",
+      "city": "九江",
+      "name": "彭泽鲫",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e0667a841866",
+      "province": "江西",
+      "city": "九江",
+      "name": "武宁什锦汤",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-cc1289ba2f01",
+      "province": "江西",
+      "city": "九江",
+      "name": "星子豆折",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-af8c5978fdc1",
+      "province": "江西",
+      "city": "新余",
+      "name": "新余蜜桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-99b921b51b9e",
+      "province": "江西",
+      "city": "新余",
+      "name": "分宜螺蛳",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c7c25ed3fcd4",
+      "province": "江西",
+      "city": "新余",
+      "name": "仙女湖鱼头",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-44d2a2b40c5c",
+      "province": "江西",
+      "city": "新余",
+      "name": "双林夏布",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d1866ee2c6fb",
+      "province": "江西",
+      "city": "新余",
+      "name": "水北米酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9c05a721c0e4",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "贵溪捺菜",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-00ab82ef5950",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "余江茄子干",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-75ff9c983503",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "上清豆腐",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-29882e47c209",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "龙虎山天师板栗",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-982d8e7c2952",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "贵溪灯芯糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-431a2454f115",
+      "province": "江西",
+      "city": "鹰潭",
+      "name": "贵溪木雕",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-cf3c39534a4a",
+      "province": "江西",
+      "city": "赣州",
+      "name": "赣南脐橙",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e74d75e84b51",
+      "province": "江西",
+      "city": "赣州",
+      "name": "南康甜柚",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-070b7e611a26",
+      "province": "江西",
+      "city": "赣州",
+      "name": "信丰萝卜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a292605b88e8",
+      "province": "江西",
+      "city": "赣州",
+      "name": "兴国米粉鱼",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d243748a82b4",
+      "province": "江西",
+      "city": "赣州",
+      "name": "兴国灰鹅",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b569d04cc072",
+      "province": "江西",
+      "city": "赣州",
+      "name": "宁都肉丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7f5be10ee723",
+      "province": "江西",
+      "city": "赣州",
+      "name": "宁都黄鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b7fc2abb85b0",
+      "province": "江西",
+      "city": "赣州",
+      "name": "瑞金牛肉汤",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f8f1944e546e",
+      "province": "江西",
+      "city": "赣州",
+      "name": "于都烧卷子",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5a880ff5c66e",
+      "province": "江西",
+      "city": "赣州",
+      "name": "崇义南酸枣糕",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b39205d644f4",
+      "province": "江西",
+      "city": "赣州",
+      "name": "会昌米粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8ae99e1d97eb",
+      "province": "江西",
+      "city": "赣州",
+      "name": "寻乌蜜桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3e591ee0ca08",
+      "province": "江西",
+      "city": "赣州",
+      "name": "龙南捶鱼",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3bf3bc77031d",
+      "province": "江西",
+      "city": "赣州",
+      "name": "全南客家烫皮",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-58c0bf03ea8f",
+      "province": "江西",
+      "city": "赣州",
+      "name": "赣县黄元米果",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8dacc178e602",
+      "province": "江西",
+      "city": "赣州",
+      "name": "南安板鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-81853ccf79aa",
+      "province": "江西",
+      "city": "赣州",
+      "name": "安远三鲜粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1cda30ad7563",
+      "province": "江西",
+      "city": "赣州",
+      "name": "石城白莲",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-81350ba83549",
+      "province": "江西",
+      "city": "赣州",
+      "name": "定南酿豆腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2187f59c3acb",
+      "province": "江西",
+      "city": "赣州",
+      "name": "上犹绿茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e5d6907567d8",
+      "province": "江西",
+      "city": "赣州",
+      "name": "章贡酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6fd4753e6ef0",
+      "province": "江西",
+      "city": "吉安",
+      "name": "泰和乌鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-13c31c2228e0",
+      "province": "江西",
+      "city": "吉安",
+      "name": "狗牯脑茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b734e130185b",
+      "province": "江西",
+      "city": "吉安",
+      "name": "井冈山烟笋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5a767054a221",
+      "province": "江西",
+      "city": "吉安",
+      "name": "安福火腿",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ab4d6bf82a2f",
+      "province": "江西",
+      "city": "吉安",
+      "name": "吉安薄酥饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-423239ddf71f",
+      "province": "江西",
+      "city": "吉安",
+      "name": "万安鱼头",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-806df4606934",
+      "province": "江西",
+      "city": "吉安",
+      "name": "峡江米粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-aa3f2b756a18",
+      "province": "江西",
+      "city": "宜春",
+      "name": "万载剁肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-086a15aa4247",
+      "province": "江西",
+      "city": "宜春",
+      "name": "万载百合",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a11353a24a6a",
+      "province": "江西",
+      "city": "宜春",
+      "name": "丰城冻米糖",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-59c87613c35c",
+      "province": "江西",
+      "city": "宜春",
+      "name": "樟树四特酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8b991089924c",
+      "province": "江西",
+      "city": "宜春",
+      "name": "高安腐竹",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6515dcae27a9",
+      "province": "江西",
+      "city": "宜春",
+      "name": "宜丰笋干",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a5d8b8db6d93",
+      "province": "江西",
+      "city": "宜春",
+      "name": "奉新猕猴桃",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a3e372f99f60",
+      "province": "江西",
+      "city": "宜春",
+      "name": "靖安白茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-192ed081af9d",
+      "province": "江西",
+      "city": "宜春",
+      "name": "上高紫皮大蒜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d3a47624c318",
+      "province": "江西",
+      "city": "宜春",
+      "name": "宜春扎粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9b8725d0d302",
+      "province": "江西",
+      "city": "宜春",
+      "name": "铜鼓包圆",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-87d76aeeadf0",
+      "province": "江西",
+      "city": "抚州",
+      "name": "临川菜梗",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-af70ad9af6a7",
+      "province": "江西",
+      "city": "抚州",
+      "name": "临川葛粉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-058d33395d72",
+      "province": "江西",
+      "city": "抚州",
+      "name": "南丰蜜桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f355de6a3d09",
+      "province": "江西",
+      "city": "抚州",
+      "name": "崇仁麻鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6bf13d13787c",
+      "province": "江西",
+      "city": "抚州",
+      "name": "金溪藕丝糖",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-73ffdd6fbffa",
+      "province": "江西",
+      "city": "抚州",
+      "name": "乐安竹笋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-050241c3115f",
+      "province": "江西",
+      "city": "抚州",
+      "name": "黎川灌芯糖",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5880e6222769",
+      "province": "江西",
+      "city": "抚州",
+      "name": "资溪面包",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-fd912c311c27",
+      "province": "江西",
+      "city": "抚州",
+      "name": "广昌白莲",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6d2bccb859b2",
+      "province": "江西",
+      "city": "上饶",
+      "name": "婺源绿茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7d377c7ea17e",
+      "province": "江西",
+      "city": "上饶",
+      "name": "婺源荷包红鲤鱼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c728165d9d1a",
+      "province": "江西",
+      "city": "上饶",
+      "name": "婺源糊豆腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-079655f53c36",
+      "province": "江西",
+      "city": "上饶",
+      "name": "弋阳年糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7ff55e174744",
+      "province": "江西",
+      "city": "上饶",
+      "name": "铅山烫粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-10d741b4cb44",
+      "province": "江西",
+      "city": "上饶",
+      "name": "横峰葛粉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8deaf897095a",
+      "province": "江西",
+      "city": "上饶",
+      "name": "玉山罗纹砚",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-866a372edbcc",
+      "province": "江西",
+      "city": "上饶",
+      "name": "鄱阳湖银鱼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-507677a92ea9",
+      "province": "江西",
+      "city": "上饶",
+      "name": "余干辣椒",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1413bc91d29b",
+      "province": "江西",
+      "city": "上饶",
+      "name": "余干辣椒炒肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8452b3c5a21b",
+      "province": "江西",
+      "city": "上饶",
+      "name": "万年贡米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bdb1d336c4fc",
+      "province": "江西",
+      "city": "上饶",
+      "name": "婺源汽糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-380f28cb1ba7",
+      "province": "江西",
+      "city": "上饶",
+      "name": "婺源皇菊",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c10deaf03359",
+      "province": "江西",
+      "city": "上饶",
+      "name": "广丰马家柚",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-eb4179c106d3",
+      "province": "广西",
+      "city": "南宁",
+      "name": "老友粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-dc01de2a88c3",
+      "province": "广西",
+      "city": "南宁",
+      "name": "横州茉莉花茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d0d03415fc13",
+      "province": "广西",
+      "city": "南宁",
+      "name": "宾阳酸粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-346f2967e718",
+      "province": "广西",
+      "city": "南宁",
+      "name": "武鸣沃柑",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-430a9d4472a5",
+      "province": "广西",
+      "city": "南宁",
+      "name": "柠檬鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5716493bb2e5",
+      "province": "广西",
+      "city": "南宁",
+      "name": "隆安火龙果",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6ee8b5e42463",
+      "province": "广西",
+      "city": "南宁",
+      "name": "上林大米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f0203ea01fcd",
+      "province": "广西",
+      "city": "南宁",
+      "name": "马山黑山羊",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-50e15ef631fb",
+      "province": "广西",
+      "city": "南宁",
+      "name": "石埠乳业",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-46c103b7812f",
+      "province": "广西",
+      "city": "南宁",
+      "name": "皇氏乳业",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6785ce707ee5",
+      "province": "广西",
+      "city": "柳州",
+      "name": "柳州螺蛳粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-799c26635f67",
+      "province": "广西",
+      "city": "柳州",
+      "name": "三江侗茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-82f327a47f39",
+      "province": "广西",
+      "city": "柳州",
+      "name": "融水糯米饭",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7ccc37847784",
+      "province": "广西",
+      "city": "柳州",
+      "name": "融安金桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0e0279c28a90",
+      "province": "广西",
+      "city": "柳州",
+      "name": "鹿寨蜜橙",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-42b928b88b95",
+      "province": "广西",
+      "city": "柳州",
+      "name": "柳城云片糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-69b713e614f6",
+      "province": "广西",
+      "city": "柳州",
+      "name": "柳州酸笋",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e20b82226a14",
+      "province": "广西",
+      "city": "桂林",
+      "name": "桂林米粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-445667f03bfc",
+      "province": "广西",
+      "city": "桂林",
+      "name": "恭城油茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bac08de0bc61",
+      "province": "广西",
+      "city": "桂林",
+      "name": "荔浦芋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-64deb7432e5e",
+      "province": "广西",
+      "city": "桂林",
+      "name": "阳朔啤酒鱼",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-75f4189467fa",
+      "province": "广西",
+      "city": "桂林",
+      "name": "桂林三花酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f52a93d48e80",
+      "province": "广西",
+      "city": "桂林",
+      "name": "桂林豆腐乳",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4ab14bf1fa6f",
+      "province": "广西",
+      "city": "桂林",
+      "name": "桂林辣椒酱",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2d4605a6fd13",
+      "province": "广西",
+      "city": "桂林",
+      "name": "兴安葡萄",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-07ca050ed742",
+      "province": "广西",
+      "city": "桂林",
+      "name": "永福罗汉果",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ebe19bc1ffa7",
+      "province": "广西",
+      "city": "桂林",
+      "name": "龙胜红糯",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-426950db40b2",
+      "province": "广西",
+      "city": "桂林",
+      "name": "龙脊茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c9c834034921",
+      "province": "广西",
+      "city": "桂林",
+      "name": "全州醋血鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-de572f16a500",
+      "province": "广西",
+      "city": "桂林",
+      "name": "灌阳油茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a57444e22a9c",
+      "province": "广西",
+      "city": "桂林",
+      "name": "平乐十八酿",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ff27d9da0306",
+      "province": "广西",
+      "city": "梧州",
+      "name": "六堡茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c239db7267e7",
+      "province": "广西",
+      "city": "梧州",
+      "name": "梧州龟苓膏",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b94fdaef72a3",
+      "province": "广西",
+      "city": "梧州",
+      "name": "岑溪古典鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-223a87bc83fc",
+      "province": "广西",
+      "city": "梧州",
+      "name": "藤县太平米饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-99fc54344cd3",
+      "province": "广西",
+      "city": "梧州",
+      "name": "梧州纸包鸡",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3594a0c6d63a",
+      "province": "广西",
+      "city": "梧州",
+      "name": "蒙山油茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ced87d257411",
+      "province": "广西",
+      "city": "梧州",
+      "name": "冰泉豆浆",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bf6ef3888047",
+      "province": "广西",
+      "city": "梧州",
+      "name": "梧州腊肠",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-07d7460ba625",
+      "province": "广西",
+      "city": "北海",
+      "name": "合浦大月饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6083856e12fe",
+      "province": "广西",
+      "city": "北海",
+      "name": "北海沙虫干",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7695f06e9233",
+      "province": "广西",
+      "city": "北海",
+      "name": "北海虾饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d88fbfa46c84",
+      "province": "广西",
+      "city": "北海",
+      "name": "合浦文蛤",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-afad6f299946",
+      "province": "广西",
+      "city": "北海",
+      "name": "涠洲岛香蕉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5bc98892c648",
+      "province": "广西",
+      "city": "北海",
+      "name": "北海墨鱼丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b985450684b1",
+      "province": "广西",
+      "city": "北海",
+      "name": "海鸭蛋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d15bcb23fbbf",
+      "province": "广西",
+      "city": "防城港",
+      "name": "东兴京族鱼露",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-217d4835fdf4",
+      "province": "广西",
+      "city": "防城港",
+      "name": "防城金花茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f36e8212b1a9",
+      "province": "广西",
+      "city": "防城港",
+      "name": "东兴红姑娘红薯",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-853e5907376a",
+      "province": "广西",
+      "city": "防城港",
+      "name": "防城港沙虫",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1bcf16efc1bb",
+      "province": "广西",
+      "city": "防城港",
+      "name": "京族独弦琴",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ce612005e646",
+      "province": "广西",
+      "city": "钦州",
+      "name": "钦州猪脚粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-939ee2d0b396",
+      "province": "广西",
+      "city": "钦州",
+      "name": "灵山荔枝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-dd3a88828dff",
+      "province": "广西",
+      "city": "钦州",
+      "name": "浦北香蕉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-caabd63e5515",
+      "province": "广西",
+      "city": "钦州",
+      "name": "钦州坭兴陶",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-458e07d83061",
+      "province": "广西",
+      "city": "钦州",
+      "name": "钦州大蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-78c814116ac7",
+      "province": "广西",
+      "city": "贵港",
+      "name": "桂平西山茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-871bd72b2394",
+      "province": "广西",
+      "city": "贵港",
+      "name": "平南石硖龙眼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-29224d6bee28",
+      "province": "广西",
+      "city": "贵港",
+      "name": "桂平绿豆糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4b6c77161dbb",
+      "province": "广西",
+      "city": "贵港",
+      "name": "桥圩鸭肉粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-300718d55a3b",
+      "province": "广西",
+      "city": "贵港",
+      "name": "覃塘莲藕",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c0b3abf042fc",
+      "province": "广西",
+      "city": "玉林",
+      "name": "玉林牛巴",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5a143b21d8c8",
+      "province": "广西",
+      "city": "玉林",
+      "name": "容县沙田柚",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-507e2dd7634f",
+      "province": "广西",
+      "city": "玉林",
+      "name": "博白蕹菜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9530e792fecf",
+      "province": "广西",
+      "city": "玉林",
+      "name": "陆川猪",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-de395a23664a",
+      "province": "广西",
+      "city": "玉林",
+      "name": "玉林大肉云吞",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b8274eef0c7c",
+      "province": "广西",
+      "city": "玉林",
+      "name": "福绵鸭肉粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f00a82317e69",
+      "province": "广西",
+      "city": "玉林",
+      "name": "兴业米饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-30104802bfc5",
+      "province": "广西",
+      "city": "百色",
+      "name": "百色芒果",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-19f397ee211f",
+      "province": "广西",
+      "city": "百色",
+      "name": "田东香芒",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-afcc7e33e002",
+      "province": "广西",
+      "city": "百色",
+      "name": "田阳香芒",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-70b57ced3e26",
+      "province": "广西",
+      "city": "百色",
+      "name": "凌云白毫茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1c3bb0cc2c6c",
+      "province": "广西",
+      "city": "百色",
+      "name": "乐业猕猴桃",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f3ed56045a49",
+      "province": "广西",
+      "city": "百色",
+      "name": "西林麻鸭",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-296f00aa4b63",
+      "province": "广西",
+      "city": "百色",
+      "name": "那坡黑衣壮糯米饭",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-090af3ef58f6",
+      "province": "广西",
+      "city": "百色",
+      "name": "隆林板栗",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-37ca8ecddea8",
+      "province": "广西",
+      "city": "百色",
+      "name": "靖西酸嘢",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8be64a9cd843",
+      "province": "广西",
+      "city": "百色",
+      "name": "德保猪血肠",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-54c12a29d8ca",
+      "province": "广西",
+      "city": "百色",
+      "name": "平果卷筒粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-26e1acab0f93",
+      "province": "广西",
+      "city": "贺州",
+      "name": "黄田扣肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-71be11bfd1a6",
+      "province": "广西",
+      "city": "贺州",
+      "name": "黄姚豆豉",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5c9c83f79ecc",
+      "province": "广西",
+      "city": "贺州",
+      "name": "昭平茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a2b656825f4b",
+      "province": "广西",
+      "city": "贺州",
+      "name": "富川脐橙",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e05ad4c28f23",
+      "province": "广西",
+      "city": "贺州",
+      "name": "钟山油茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1b118a0d8d2a",
+      "province": "广西",
+      "city": "贺州",
+      "name": "信都三黄鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e0f4fbff90ac",
+      "province": "广西",
+      "city": "贺州",
+      "name": "贺州菜酿",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ec184b840646",
+      "province": "广西",
+      "city": "河池",
+      "name": "巴马火麻汤",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4473a0919a8a",
+      "province": "广西",
+      "city": "河池",
+      "name": "环江香猪",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f363b0407e40",
+      "province": "广西",
+      "city": "河池",
+      "name": "南丹瑶鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b0fc182076c5",
+      "province": "广西",
+      "city": "河池",
+      "name": "天峨龙滩珍珠李",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-efc839bc0947",
+      "province": "广西",
+      "city": "河池",
+      "name": "宜州酸笋",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f02f385fcb0d",
+      "province": "广西",
+      "city": "河池",
+      "name": "罗城毛葡萄酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-55934611c745",
+      "province": "广西",
+      "city": "河池",
+      "name": "东兰墨米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ad9c90b71b88",
+      "province": "广西",
+      "city": "河池",
+      "name": "都安旱藕粉丝",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f52f56bd2558",
+      "province": "广西",
+      "city": "河池",
+      "name": "大化七百弄鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c0902081457a",
+      "province": "广西",
+      "city": "河池",
+      "name": "凤山八角",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-63ef09d4b83f",
+      "province": "广西",
+      "city": "来宾",
+      "name": "武宣红糟酸",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6a6af0d3dd7b",
+      "province": "广西",
+      "city": "来宾",
+      "name": "象州红米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e82715761259",
+      "province": "广西",
+      "city": "来宾",
+      "name": "金秀甜茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b2d64f870234",
+      "province": "广西",
+      "city": "来宾",
+      "name": "金秀瑶山熏肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-252b0e02e41c",
+      "province": "广西",
+      "city": "来宾",
+      "name": "忻城乳鸽",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e3dad83ffad7",
+      "province": "广西",
+      "city": "来宾",
+      "name": "合山牛肉粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3c4fa00f3a26",
+      "province": "广西",
+      "city": "崇左",
+      "name": "天等指天椒",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ce1f108a5641",
+      "province": "广西",
+      "city": "崇左",
+      "name": "龙州桄榔粉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ef0687e46840",
+      "province": "广西",
+      "city": "崇左",
+      "name": "大新龙眼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1e4bc59ce6d8",
+      "province": "广西",
+      "city": "崇左",
+      "name": "扶绥酸粥",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-24c629d5bc05",
+      "province": "广西",
+      "city": "崇左",
+      "name": "凭祥菠萝蜜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-233b0e5236c4",
+      "province": "广西",
+      "city": "崇左",
+      "name": "宁明沙糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e07f5d8e90e6",
+      "province": "广西",
+      "city": "崇左",
+      "name": "崇左壮锦",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b5dc051850aa",
+      "province": "广东",
+      "city": "广州",
+      "name": "白切鸡",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1d586091da7c",
+      "province": "广东",
+      "city": "广州",
+      "name": "烧鹅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1694d7d24b15",
+      "province": "广东",
+      "city": "广州",
+      "name": "艇仔粥",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6e37d6e9967e",
+      "province": "广东",
+      "city": "广州",
+      "name": "肠粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a7e77d882ec9",
+      "province": "广东",
+      "city": "广州",
+      "name": "沙河粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0321b2478c5c",
+      "province": "广东",
+      "city": "广州",
+      "name": "云吞面",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2307176bd81b",
+      "province": "广东",
+      "city": "广州",
+      "name": "及第粥",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c17e2a65052b",
+      "province": "广东",
+      "city": "广州",
+      "name": "沙湾姜撞奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-07ed8cfa06d2",
+      "province": "广东",
+      "city": "广州",
+      "name": "泮塘马蹄糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2cc8f8be0292",
+      "province": "广东",
+      "city": "广州",
+      "name": "增城荔枝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e2ae96b07d82",
+      "province": "广东",
+      "city": "广州",
+      "name": "从化荔枝蜜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-403f9a94a47c",
+      "province": "广东",
+      "city": "广州",
+      "name": "萝岗糯米糍",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7822738155e6",
+      "province": "广东",
+      "city": "广州",
+      "name": "广式腊肠",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b1a63fc8ec2f",
+      "province": "广东",
+      "city": "广州",
+      "name": "鸡仔饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-fc768101e79c",
+      "province": "广东",
+      "city": "广州",
+      "name": "广彩",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3292dd5251d9",
+      "province": "广东",
+      "city": "广州",
+      "name": "广绣",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9350856ae32f",
+      "province": "广东",
+      "city": "广州",
+      "name": "风行牛奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6db63a4631a8",
+      "province": "广东",
+      "city": "广州",
+      "name": "燕塘牛奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-81bb5edc4a55",
+      "province": "广东",
+      "city": "广州",
+      "name": "香满楼牛奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-38c9463bd8c1",
+      "province": "广东",
+      "city": "韶关",
+      "name": "南雄板鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ca58dffcf96b",
+      "province": "广东",
+      "city": "韶关",
+      "name": "南雄酸笋",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-09b7518fd564",
+      "province": "广东",
+      "city": "韶关",
+      "name": "仁化白毛茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4fe73fbb3e1e",
+      "province": "广东",
+      "city": "韶关",
+      "name": "翁源三华李",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5fd3e4f0fde5",
+      "province": "广东",
+      "city": "韶关",
+      "name": "乐昌马蹄",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1d200eaa381b",
+      "province": "广东",
+      "city": "韶关",
+      "name": "罗坑茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-49a93d3ef978",
+      "province": "广东",
+      "city": "韶关",
+      "name": "瑶山苦爽茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bd9c27048662",
+      "province": "广东",
+      "city": "韶关",
+      "name": "新丰佛手瓜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b6da8dc1d526",
+      "province": "广东",
+      "city": "深圳",
+      "name": "南山荔枝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-53109273c8dd",
+      "province": "广东",
+      "city": "深圳",
+      "name": "光明乳鸽",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2d271cada262",
+      "province": "广东",
+      "city": "深圳",
+      "name": "沙井鲜蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4b029e42595e",
+      "province": "广东",
+      "city": "深圳",
+      "name": "晨光牛奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-796557e26307",
+      "province": "广东",
+      "city": "深圳",
+      "name": "卡士酸奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-27caf517430b",
+      "province": "广东",
+      "city": "深圳",
+      "name": "南澳海胆炒饭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a4f568bfd92c",
+      "province": "广东",
+      "city": "深圳",
+      "name": "松岗腊鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-08ebe34932fb",
+      "province": "广东",
+      "city": "深圳",
+      "name": "公明烧鹅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c5358d4a09aa",
+      "province": "广东",
+      "city": "珠海",
+      "name": "斗门重壳蟹",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e67ffaf90e47",
+      "province": "广东",
+      "city": "珠海",
+      "name": "白蕉海鲈",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ce4fab5e81e4",
+      "province": "广东",
+      "city": "珠海",
+      "name": "横琴蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7d652fc38215",
+      "province": "广东",
+      "city": "珠海",
+      "name": "唐家茶果",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-71df188f7ddb",
+      "province": "广东",
+      "city": "珠海",
+      "name": "金湾黄立鱼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d81ce6b3df11",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮汕牛肉丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e6451c5ff763",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮汕卤鹅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-18e6c73e12d5",
+      "province": "广东",
+      "city": "汕头",
+      "name": "达濠鱼丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-843d5bca5d05",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮阳鲎粿",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9a33ceb8f159",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮阳姜薯",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0f97e70b3894",
+      "province": "广东",
+      "city": "汕头",
+      "name": "南澳紫菜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2666d95c2eff",
+      "province": "广东",
+      "city": "汕头",
+      "name": "汕头肠粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bebf44e230a4",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮汕粿汁",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3d2e113d35b8",
+      "province": "广东",
+      "city": "汕头",
+      "name": "潮汕工夫茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-56c08835347c",
+      "province": "广东",
+      "city": "佛山",
+      "name": "大良双皮奶",
+      "type": "dairy",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6a667bf80eb8",
+      "province": "广东",
+      "city": "佛山",
+      "name": "大良蹦砂",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-99be2fe2defb",
+      "province": "广东",
+      "city": "佛山",
+      "name": "均安蒸猪",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3418e250702a",
+      "province": "广东",
+      "city": "佛山",
+      "name": "顺德鱼生",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-873f9ecbb499",
+      "province": "广东",
+      "city": "佛山",
+      "name": "陈村粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b8a92ae5fa0e",
+      "province": "广东",
+      "city": "佛山",
+      "name": "乐从鱼腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2de2a715f6d9",
+      "province": "广东",
+      "city": "佛山",
+      "name": "九江双蒸酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-88c7893fcf7e",
+      "province": "广东",
+      "city": "佛山",
+      "name": "西樵大饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e7eff0685402",
+      "province": "广东",
+      "city": "佛山",
+      "name": "盲公饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7facc8eb1afe",
+      "province": "广东",
+      "city": "佛山",
+      "name": "石湾陶塑",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0af8e77aefce",
+      "province": "广东",
+      "city": "佛山",
+      "name": "南海藤编",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-209ee311686f",
+      "province": "广东",
+      "city": "佛山",
+      "name": "三水黑皮冬瓜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-22a95a444bc1",
+      "province": "广东",
+      "city": "江门",
+      "name": "新会陈皮",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f1ece4d82b44",
+      "province": "广东",
+      "city": "江门",
+      "name": "古井烧鹅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b3457dea2050",
+      "province": "广东",
+      "city": "江门",
+      "name": "恩平濑粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c03e5d1bce5b",
+      "province": "广东",
+      "city": "江门",
+      "name": "台山黄鳝饭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1eb0c8c81b43",
+      "province": "广东",
+      "city": "江门",
+      "name": "荷塘冲菜",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8123521abec2",
+      "province": "广东",
+      "city": "江门",
+      "name": "开平马冈鹅",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e0d3fc81193c",
+      "province": "广东",
+      "city": "江门",
+      "name": "鹤山红茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e0fa6cc03954",
+      "province": "广东",
+      "city": "江门",
+      "name": "台山咸汤圆",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6186c9d7f9da",
+      "province": "广东",
+      "city": "江门",
+      "name": "礼乐腊味",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3f57a90c03b8",
+      "province": "广东",
+      "city": "江门",
+      "name": "新会葵艺",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-fc79e2a8414f",
+      "province": "广东",
+      "city": "湛江",
+      "name": "湛江生蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-91bbe7cb0c10",
+      "province": "广东",
+      "city": "湛江",
+      "name": "湛江白切鸡",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-950850543d6c",
+      "province": "广东",
+      "city": "湛江",
+      "name": "吴川月饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8f6d0ccdb11f",
+      "province": "广东",
+      "city": "湛江",
+      "name": "雷州大粽",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-be55a810fca2",
+      "province": "广东",
+      "city": "湛江",
+      "name": "徐闻菠萝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-fc4a74d167e4",
+      "province": "广东",
+      "city": "湛江",
+      "name": "廉江红橙",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-dcf351683f01",
+      "province": "广东",
+      "city": "湛江",
+      "name": "吴川烂镬炒粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-06174a49cb37",
+      "province": "广东",
+      "city": "湛江",
+      "name": "沙螺粥",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8beb4fde388e",
+      "province": "广东",
+      "city": "茂名",
+      "name": "高州荔枝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7d2981e709a1",
+      "province": "广东",
+      "city": "茂名",
+      "name": "信宜三华李",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-8bff58f41c2f",
+      "province": "广东",
+      "city": "茂名",
+      "name": "水东芥菜",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-68bfd57a4525",
+      "province": "广东",
+      "city": "茂名",
+      "name": "信宜氹仔鱼",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7ef7b2d1982f",
+      "province": "广东",
+      "city": "茂名",
+      "name": "茂名籺",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ddc7dc6b36c1",
+      "province": "广东",
+      "city": "茂名",
+      "name": "化州拖罗饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2872c9248c81",
+      "province": "广东",
+      "city": "茂名",
+      "name": "化州牛杂",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d7577e16289f",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "肇庆裹蒸",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5e07e27d2697",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "德庆贡柑",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1d0b852bffe7",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "四会沙糖桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-17571ecabda3",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "封开杏花鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-da26f408d436",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "广宁竹笋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-11a253d45b5a",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "怀集茶秆竹",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-21a86cc35e2a",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "鼎湖山坑螺",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c5b1edb12eef",
+      "province": "广东",
+      "city": "肇庆",
+      "name": "端砚",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-85e10b9b79a6",
+      "province": "广东",
+      "city": "惠州",
+      "name": "惠州梅菜",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-098809473a43",
+      "province": "广东",
+      "city": "惠州",
+      "name": "罗浮山豆腐花",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5893faf62f9a",
+      "province": "广东",
+      "city": "惠州",
+      "name": "东江盐焗鸡",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a175163551f7",
+      "province": "广东",
+      "city": "惠州",
+      "name": "龙门年桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e1d69021687b",
+      "province": "广东",
+      "city": "惠州",
+      "name": "平海糕仔",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-526d7cb418ff",
+      "province": "广东",
+      "city": "惠州",
+      "name": "罗浮山酥醪菜",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-04def6c2bcd6",
+      "province": "广东",
+      "city": "惠州",
+      "name": "龙门米饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-9fe3de167440",
+      "province": "广东",
+      "city": "梅州",
+      "name": "梅菜扣肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-592c4fae3beb",
+      "province": "广东",
+      "city": "梅州",
+      "name": "客家盐焗鸡",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a4c4fecff1d8",
+      "province": "广东",
+      "city": "梅州",
+      "name": "梅县金柚",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2784e8d916bd",
+      "province": "广东",
+      "city": "梅州",
+      "name": "百侯薄饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b494963c2149",
+      "province": "广东",
+      "city": "梅州",
+      "name": "平远脐橙",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-27ef758c5dbb",
+      "province": "广东",
+      "city": "梅州",
+      "name": "蕉岭竹笋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-057e428b3aae",
+      "province": "广东",
+      "city": "梅州",
+      "name": "丰顺捆粄",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-760518c64e3f",
+      "province": "广东",
+      "city": "梅州",
+      "name": "五华酿豆腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5c312932d434",
+      "province": "广东",
+      "city": "梅州",
+      "name": "长乐烧",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c4232b7508de",
+      "province": "广东",
+      "city": "梅州",
+      "name": "梅州客家娘酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-37bcd1def551",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "海丰小米",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ea0ba70f13b9",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "陆丰咸茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5f458b7561b7",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "汕尾菜茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-66740bc73888",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "汕尾薄饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c2d890fa5982",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "陆河青梅",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-78ca38c64fff",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "甲子鱼丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1f81103dd36e",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "碣石礼饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a16f87934161",
+      "province": "广东",
+      "city": "汕尾",
+      "name": "公平牛肉脯",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-d5b9702bf924",
+      "province": "广东",
+      "city": "河源",
+      "name": "河源客家黄酒",
+      "type": "alcohol",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-57eb337776d1",
+      "province": "广东",
+      "city": "河源",
+      "name": "东源仙湖茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bb4db1d59423",
+      "province": "广东",
+      "city": "河源",
+      "name": "连平鹰嘴蜜桃",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-6c4e09fabdac",
+      "province": "广东",
+      "city": "河源",
+      "name": "和平猕猴桃",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1e451262e6a8",
+      "province": "广东",
+      "city": "河源",
+      "name": "龙川牛筋糕",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-c82af77c6e39",
+      "province": "广东",
+      "city": "河源",
+      "name": "紫金八刀汤",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b9651471dba9",
+      "province": "广东",
+      "city": "河源",
+      "name": "霸王花米粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-0ba5f4fecaad",
+      "province": "广东",
+      "city": "阳江",
+      "name": "阳江豆豉",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-280f846f0a18",
+      "province": "广东",
+      "city": "阳江",
+      "name": "阳春春砂仁",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a7ea24833c81",
+      "province": "广东",
+      "city": "阳江",
+      "name": "程村蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-130180343159",
+      "province": "广东",
+      "city": "阳江",
+      "name": "阳江十八子刀具",
+      "type": "crafts",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b27a1313dc7f",
+      "province": "广东",
+      "city": "阳江",
+      "name": "马水桔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-87527970a626",
+      "province": "广东",
+      "city": "阳江",
+      "name": "双滘豆饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5b19cedc9784",
+      "province": "广东",
+      "city": "阳江",
+      "name": "阳东大沟赤坎蚝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-aa9492d3a5a1",
+      "province": "广东",
+      "city": "清远",
+      "name": "清远鸡",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-702a8edf6c2a",
+      "province": "广东",
+      "city": "清远",
+      "name": "英德红茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2734aa314797",
+      "province": "广东",
+      "city": "清远",
+      "name": "连州菜心",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ee78776974b0",
+      "province": "广东",
+      "city": "清远",
+      "name": "连山大米",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-de9a29be8375",
+      "province": "广东",
+      "city": "清远",
+      "name": "佛冈四九月饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5a856e9956b6",
+      "province": "广东",
+      "city": "清远",
+      "name": "阳山淮山",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-943c34872fe8",
+      "province": "广东",
+      "city": "清远",
+      "name": "连南瑶家烟熏肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1b465b430729",
+      "province": "广东",
+      "city": "清远",
+      "name": "英德九龙豆腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e4979c53c6c0",
+      "province": "广东",
+      "city": "东莞",
+      "name": "厚街濑粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-68cc60cded57",
+      "province": "广东",
+      "city": "东莞",
+      "name": "道滘裹蒸粽",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a7c6de265730",
+      "province": "广东",
+      "city": "东莞",
+      "name": "石龙麦芽糖",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-7553ffba22af",
+      "province": "广东",
+      "city": "东莞",
+      "name": "白沙油鸭",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-ecc9186e6a95",
+      "province": "广东",
+      "city": "东莞",
+      "name": "东莞腊肠",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-bc745f538c79",
+      "province": "广东",
+      "city": "东莞",
+      "name": "麻涌香蕉",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a7b55bb10375",
+      "province": "广东",
+      "city": "东莞",
+      "name": "冼沙鱼丸",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f29a4519bf51",
+      "province": "广东",
+      "city": "中山",
+      "name": "石岐乳鸽",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1e1045bbb8ab",
+      "province": "广东",
+      "city": "中山",
+      "name": "小榄炸鱼球",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e2d77df34055",
+      "province": "广东",
+      "city": "中山",
+      "name": "黄圃腊味",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-dc6fee127547",
+      "province": "广东",
+      "city": "中山",
+      "name": "沙溪扣肉",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-1b3050e5485d",
+      "province": "广东",
+      "city": "中山",
+      "name": "三乡濑粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-16dde345f81d",
+      "province": "广东",
+      "city": "中山",
+      "name": "神湾菠萝",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-17393ea27704",
+      "province": "广东",
+      "city": "中山",
+      "name": "中山杏仁饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e21c3cdd8f65",
+      "province": "广东",
+      "city": "中山",
+      "name": "崖口云吞",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5a3c15f3c05c",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮州卤鹅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5d471a2b50c2",
+      "province": "广东",
+      "city": "潮州",
+      "name": "护国菜",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-264c71ed3ab9",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮州春饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-220a3a424c1b",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮州腐乳饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-2c5411397cd4",
+      "province": "广东",
+      "city": "潮州",
+      "name": "凤凰单丛",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-be2cfff6822b",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮州工夫茶",
+      "type": "tea",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-019f0eac618f",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮安橄榄菜",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b34df409d0c1",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮州柑饼",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-07bf59de29ee",
+      "province": "广东",
+      "city": "潮州",
+      "name": "潮汕牛肉火锅",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-313ead589f4c",
+      "province": "广东",
+      "city": "潮州",
+      "name": "饶平狮头鹅",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-86c97240aff4",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "普宁豆干",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-93784ec0a8cb",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "普宁青梅",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-244c039f74cb",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "普宁蕉柑",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-5bf1758e1d23",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "惠来绿豆饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4db570096c11",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "揭西擂茶",
+      "type": "drinks",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-4e611ca654c5",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "揭阳乒乓粿",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-3ded6a1b8468",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "普宁豆酱",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-a805bf7985eb",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "揭东竹笋",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e64e3c3d9787",
+      "province": "广东",
+      "city": "揭阳",
+      "name": "潮汕肚脐饼",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-e5f638ad600b",
+      "province": "广东",
+      "city": "云浮",
+      "name": "罗定皱纱鱼腐",
+      "type": "dishes",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f39c30f34528",
+      "province": "广东",
+      "city": "云浮",
+      "name": "罗定豆豉",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-74d596faf308",
+      "province": "广东",
+      "city": "云浮",
+      "name": "郁南无核黄皮",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-954d31210582",
+      "province": "广东",
+      "city": "云浮",
+      "name": "新兴排米粉",
+      "type": "staples",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-f5a1e1673414",
+      "province": "广东",
+      "city": "云浮",
+      "name": "新兴香荔",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-b67b38529817",
+      "province": "广东",
+      "city": "云浮",
+      "name": "云安托洞腐竹",
+      "type": "ingredients",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    },
+    {
+      "id": "memory-37095f9d28d5",
+      "province": "广东",
+      "city": "云浮",
+      "name": "罗定肉桂",
+      "type": "seasoning",
+      "status": "unverified-memory-candidate",
+      "county": null,
+      "note": "独立记忆候选；名称、做法、企业及地域均须交叉核对，未知县区不猜测。"
+    }
+  ],
+  "gaps": "本稿只列有记忆把握的名称；各市县九类主题未列内容表示记忆缺口，不表示当地没有。行政县区目录获取后，按已封存候选对应或明确空白登记，再外搜。",
+  "specialCautions": [
+    "同名食品可跨地区流传，须核对本地关联；不自动分到所有县。",
+    "药材、茶代用品及原料的可食用属性另核对，不写疗效。",
+    "同企业和同一产品的别名先核对再合并。"
+  ]
+}

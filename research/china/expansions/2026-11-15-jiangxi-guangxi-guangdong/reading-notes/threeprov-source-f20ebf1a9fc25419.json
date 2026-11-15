@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-f20ebf1a9fc25419",
+  "title": "广州市委网信办-中共广州市委网络安全和信息化委员会办公室-广州网信办-正式公布！肠粉、白切鸡、云吞面……有了新身份！",
+  "url": "https://igz.gzwxb.gov.cn/context/contextId/207487",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/f20ebf1a9fc25419.raw",
+  "originalResponseSha256": "e35f7d33c81d2ebf87db43b19d40dd5a04f0baf73f0ce51593e5bee3e5f328ae",
+  "readableFile": "research/.local/three-provinces-20261115/articles/f20ebf1a9fc25419.txt",
+  "readableSha256": "9cad06df9b085a2a7f5c09c12535e8b678468dc62b9ae4a4004412b5edd59d93",
+  "items": [
+    {
+      "itemId": "threeprov-4b443a34c6439b626b",
+      "name": "云吞面",
+      "initialCandidateId": "memory-0321b2478c5c",
+      "adoptedFacts": "云吞面是广州地方餐食与传统技艺的代表之一。官方非遗资料有相关记录，可从云吞、面条、汤底的组合认识，与单独销售的云吞制品分开看待。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-717166905f7e136f27",
+      "name": "广绣",
+      "initialCandidateId": "memory-3292dd5251d9",
+      "adoptedFacts": "广绣与广州地方手工艺传统关联密切。广州文化和非遗资料展示了绣作及传承内容，卡片归入物品与工艺，具体题材、针法与作品分别了解。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

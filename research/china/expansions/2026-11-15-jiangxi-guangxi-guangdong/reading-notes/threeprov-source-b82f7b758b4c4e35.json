@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-b82f7b758b4c4e35",
+  "title": "广西崇左市又一特色产业获得“地理标志”身份-中国质量新闻网",
+  "url": "https://www.cqn.com.cn/zj/content/2022-03/18/content_8796949.htm",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/b82f7b758b4c4e35.raw",
+  "originalResponseSha256": "2af91647ff3d238210e12e543d2df584ce0adacc320b34523ae6886768edd774",
+  "readableFile": "research/.local/three-provinces-20261115/articles/b82f7b758b4c4e35.txt",
+  "readableSha256": "12002b3ccb42a580b18ddded222fc9bd1f9e02da6f4e0d4cfa05aba9dcceaa82",
+  "items": [
+    {
+      "itemId": "threeprov-681308778801fed96a",
+      "name": "龙州桄榔粉",
+      "initialCandidateId": "memory-ce1f108a5641",
+      "adoptedFacts": "龙州桄榔粉与崇左龙州地方物产关联明确。相关报道记录其地方产业和地理标志信息，分类为加工粉类原料，冲调食品与原植物分开介绍。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

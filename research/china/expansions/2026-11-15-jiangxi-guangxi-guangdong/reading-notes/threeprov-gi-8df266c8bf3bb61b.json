@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-8df266c8bf3bb61b",
+  "title": "地理标志产品公告 · 2006年第117号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "8df266c8bf3bb61bfcc634148720ce557589c044",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第117号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "d47d001fd8fbc685eea2c872546d7b2ab67240c0c100a6f904272e4f16875055",
+    "textSha256": "65281a695a3c6566b391883f098fb0e555b63b527a2e3d64c9e275325bf1e208",
+    "textLength": 1686,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/8df266c8bf3bb61bfcc634148720ce557589c044.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/8df266c8bf3bb61bfcc634148720ce557589c044.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-0b06b1232c1a984729",
+      "name": "徐闻良姜",
+      "scope": "徐闻良姜地理标志产品保护范围以广东省徐闻县人民政府《关于申请徐闻良姜进行地理标志保护的函》(徐府函[2005]1号)提出的范围为准,为广东省徐闻县龙塘镇、曲界镇、城北乡、南山镇、海安镇、锦和镇、下洋镇、前山镇等8个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "外观为圆柱形,粗壮结实,质地坚硬,纤维性明显,断面姜肉凸出,表此呈棕红色,气味芳香浓烈。一等干品表面棕红色,质地坚硬,断面纤维性,中心有环纹,长度2.5cm至4.0cm,直径1.0cm以上,气味芳香;二等干品表面灰棕色,质地坚硬,断面纤维性,中心有环纹,长度2.5cm至4.0cm,直径0.5cm以上1.0cm以下,气味芳香",
+      "process": "",
+      "sectionSha256": "f4a72998f836a632c29a148197b1ab938117ece8a4e3ffe7ec2be87161afef79"
+    }
+  ]
+}

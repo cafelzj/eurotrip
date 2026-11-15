@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-b09468295480018f",
+  "title": "广西贵港市特产介绍 - 惠农网",
+  "url": "https://news.cnhnb.com/zxsd/detail/433193/",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/b09468295480018f.raw",
+  "originalResponseSha256": "172ee53012d9b3eff5b5d556196ce65554174d926999db66766ee90ca6d14060",
+  "readableFile": "research/.local/three-provinces-20261115/articles/b09468295480018f.txt",
+  "readableSha256": "1d666e12cea55ff1654fa8734a582b499b15d1356b24ae357eeb9d0c7561abc0",
+  "items": [
+    {
+      "itemId": "threeprov-5b372ec08cb9ec8fa5",
+      "name": "平南石硖龙眼",
+      "initialCandidateId": "memory-871bd72b2394",
+      "adoptedFacts": "平南石硖龙眼是贵港平南的地方果品。资料记载石硖龙眼在当地的品种关联，并以肉厚、核小、甜香和爽脆描述鲜果，不采用“最好”等绝对评价。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-063991b3396e75dfdb",
+      "name": "桂平绿豆糕",
+      "initialCandidateId": "memory-29224d6bee28",
+      "adoptedFacts": "桂平绿豆糕是贵港桂平的传统糕点。地方介绍将其作为当地食品代表，具体品牌与糕点类别分开记录，甜度、配料和成品形态以实际产品为准。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

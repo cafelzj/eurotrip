@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-42ddf40e11cecc76",
+  "title": "湛江市市场监督管理局网站",
+  "url": "https://zjamr.zhanjiang.gov.cn/zwdt/xwfbt/content/post_1187997.html",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/42ddf40e11cecc76.raw",
+  "originalResponseSha256": "bb4a22c04d79695f7f4f1af4d76da5f1df4869f1fbbf3f1b32c43dfe75d5d31b",
+  "readableFile": "research/.local/three-provinces-20261115/articles/42ddf40e11cecc76.txt",
+  "readableSha256": "f557647163bba01a42f09b1fdd961c8aafd9c90e230a6509f46dc64d18311171",
+  "items": [
+    {
+      "itemId": "threeprov-c42aefefd1736aef06",
+      "name": "廉江红橙",
+      "initialCandidateId": "memory-fc4a74d167e4",
+      "adoptedFacts": "廉江红橙是湛江地方柑橘产品。当地市场监管部门介绍相关地理标志产品标准，记录正式产品名称，不把红橙与普通橙类或所有廉江产水果混为一谈。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

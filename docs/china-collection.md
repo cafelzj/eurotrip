@@ -9,11 +9,11 @@
 | 市总览 | `#china/jiangsu/suzhou` | 同样三个选择框；本市及下辖县区已有内容 |
 | 县／区 | `#china/jiangsu/suzhou/kunshan` | 同样三个选择框；只显示已有明确地域归属的内容 |
 
-全国地图深色省份已有卡片，并提供常驻的省份筛选按钮，显示名称与数量、与地图联动；收起地图后仍可使用。其他省份以灰框注明“待收录”。目前内容覆盖15省市、174个城市范围、1484个县级单位；全国总览不代表全国资料已全部补齐。行政地图只作选择地区与展示边界，不用地图推导食品产地。
+全国地图深色省份已有卡片，并提供常驻的省份筛选按钮，显示名称与数量、与地图联动；收起地图后仍可使用。其他省份以灰框注明“待收录”。目前行政目录覆盖18省市、220个城市范围、1817个县级单位；全国总览不代表全国资料已全部补齐。行政地图只作选择地区与展示边界，不用地图推导食品产地。
 
 ## 一套卡片与独立中国分类
 
-`CardStore.nodes` 为统一注册库。原4255项风物全部纳入中国栏目；与原142张中国卡片合并12组重复身份后，共4385张中国卡片。旧ID、正文、来源、关系及图片引用继续保留，食品概览、具体品种和店铺不无条件合并。
+`CardStore.nodes` 为统一注册库。原4255项风物全部纳入中国栏目；与原142张中国卡片合并12组重复身份后，在4385张基线之上补充江西222、广西302、广东272张，现共5181张中国卡片（5051项地方风物，其中5004项有来源、47项原有待核线索）。旧ID、正文、来源、关系及图片引用继续保留，食品概览、具体品种和店铺不无条件合并。
 
 中国分类在 `data/china-categories.js`，欧洲分类继续在 `data/categories.js`。中国“美食与特产”保留乳制品、饮品、酒、茶、特色菜、面食、地方食材、调味品、物品与工艺九类，另含“餐馆与食品品牌”。交通指南、机场车站与码头、历史地理与方言等采用已合并的中国分类。旧分类名称和ID映射到新类别。
 
@@ -31,8 +31,10 @@
 
 `data/flavors.js`、`data/china-cards.js`、`data/card-reading.js` 是编辑输入；`data/china-region-catalog.js` 是行政目录，县区归属在 `data/flavor-counties.js`，图片及许可配置在 `data/flavor-images.js` 和 `data/card-images.js`。运行时由 `china-collection.js` 合并，原风物独立功能已经撤下。
 
-研究资料统一从 [中国卡片研究目录](../research/china/README.md) 和 [机器可读总索引](../research/china/index.json) 查找。当前整合记录移入 `research/china/integration/`；原风物知识稿、850份阅读摘记、来源、历史批次、地图及配图底稿继续保留原路径和指纹，`research/flavors/` 作为中国卡片下的历史专题目录。
+研究资料统一从 [中国卡片研究目录](../research/china/README.md) 和 [机器可读总索引](../research/china/index.json) 查找。当前整合记录移入 `research/china/integration/`；原风物知识稿、原850份阅读摘记、来源、历史批次、地图及配图底稿继续保留原路径和指纹，`research/flavors/` 作为中国卡片下的历史专题目录。
 
+- [江西、广西、广东：796项新增、知识稿、逐地搜索与采用](../research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)
+- [当前5181张卡片验收](../research/china/integration/current-collection-audit.json)
 - [卡片合并登记](../research/china/integration/china-collection.json)
 - [4255项完整迁入验收](../research/china/integration/standalone-retirement.json)
 - [统一页面及地图采用记录](../research/china/integration/unified-overviews.json)

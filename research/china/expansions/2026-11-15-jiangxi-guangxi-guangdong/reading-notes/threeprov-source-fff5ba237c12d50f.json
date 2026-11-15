@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-fff5ba237c12d50f",
+  "title": "名优特产 - 中山市人民政府门户网站（中山市人民政府办公室）",
+  "url": "https://www.zs.gov.cn/zjzs/lygg/mytc/mindex.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/fff5ba237c12d50f.raw",
+  "originalResponseSha256": "a039587a69fd2625a4d563211b7d9b27ade4f0a0b0f25cd287181ea74c70ea85",
+  "readableFile": "research/.local/three-provinces-20261115/articles/fff5ba237c12d50f.txt",
+  "readableSha256": "e6b42c3c83950a31a265737817a4b5d514f27bc75e3e72a530370b6ca23e6f97",
+  "items": [
+    {
+      "itemId": "threeprov-f5af0a32981f99f2ff",
+      "name": "崖口云吞",
+      "initialCandidateId": "memory-e21c3cdd8f65",
+      "adoptedFacts": "崖口云吞被中山市政府名优特产栏目收录。它属于地方云吞餐食，崖口作为具体地方线索保留，不把村名升级为县区。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

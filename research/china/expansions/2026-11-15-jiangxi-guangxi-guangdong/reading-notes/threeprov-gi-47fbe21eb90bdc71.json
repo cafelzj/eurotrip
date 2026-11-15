@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-47fbe21eb90bdc71",
+  "title": "地理标志产品公告 · 2021年第424号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC424%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "47fbe21eb90bdc71f1167a6f9ff5561492285b36",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2021年第424号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2021%E5%B9%B4%E7%AC%AC424%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "9589f76b53091ce9589455d9d4b4cfb39a4851c80084d2df725c52e52d49a7f7",
+    "textSha256": "eed7e15ff1f9117b5bde021dec563fb03011e91aa0c0af7847fb6d11370e61d2",
+    "textLength": 3507,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/47fbe21eb90bdc71f1167a6f9ff5561492285b36.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/47fbe21eb90bdc71f1167a6f9ff5561492285b36.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-39a4dc597f39b37a0f",
+      "name": "伦教糕",
+      "scope": "广东省佛山市顺德区伦教街道现辖行政区域",
+      "type": "staples",
+      "variety": "",
+      "sensory": "糕体呈白色或黄色,晶莹剔透有光泽。外形整齐,厚薄基本均匀,表面细腻。质地爽软、滑润而富有韧性,折时不留折纹。糕身孔眼横竖相间,均匀有序,粉质细腻,无粉块,不松散,不掉渣。味道清甜、爽滑,有自然发酵米酸味",
+      "process": "洗米→泡米→磨米浆→调味→过滤→发酵→蒸糕→出笼→冷却→切片→包装。加工要点:1.洗米、泡米。把大米经过3次手工清洗后,按照米与水1∶0.4的比例进行浸泡,放置10小时后,重新换水待研磨。—4—2.磨米浆。把大米与水的混合物磨成浆。3.调味、过滤。把适量的糖以清水煮成糖浆,加入到米浆内搅拌均匀,并滤去杂质。4.发酵。依次加入糕种,再次搅拌均匀后,盖好盖子并放置6-8个小时。5.蒸糕、出笼、冷却。把发酵好的米浆倒入蒸笼,置入蒸炉装置蒸40分钟,出笼后放置到竹筛冷却。6.切片、包装。待糕体凉透后,切片即食或者包装后销售",
+      "sectionSha256": "ec673cf190fbbaefd40b6c807782ec8275a9541b4c285f07297f9f2b4442b05e"
+    }
+  ]
+}

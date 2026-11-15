@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-ddc522f92cf1cedc",
+  "title": "地理标志产品公告 · 2008年第104号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ddc522f92cf1cedc576c05c997afe45bb822a26e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第104号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC104%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b18ff1af44cb3f87bcea1b50d3bc11a88605fb81633701ad935f8932215c6201",
+    "textSha256": "2942bac4f15adf16bdc80434fdb50a1ba389e73516e5db69f5902ef9d2474757",
+    "textLength": 12554,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ddc522f92cf1cedc576c05c997afe45bb822a26e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ddc522f92cf1cedc576c05c997afe45bb822a26e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-6396d58e94949b6abe",
+      "name": "广西肉桂",
+      "scope": "广西肉桂地理标志产品保护范围以《广西壮族自治区人民政府关于划定广西八角肉桂地理标志产品产地范围建议的函》(桂政函〔2006〕7号)提出的范围为准,为广西壮族自治区防城港市防城区、平南县、苍梧县、岑溪市、藤县5个县(市、区)的全部乡镇及那坡县百合乡、百南乡、百都乡等3个乡;东兴市东兴镇、马路镇、江平镇等3个镇;上思县南屏乡;桂平市油麻镇、罗秀镇、麻垌镇、罗播乡、木根镇、中沙镇、中和镇、石龙镇、金田林场等9个乡镇林场;昭平县古袍镇、五将镇、富罗镇、木格乡、马江镇、富裕乡、庇江乡、走马乡等8个乡镇;梧州市蝶山区长洲镇、夏郢镇等2个镇;蒙山县陈塘镇、黄村镇等2个镇;玉林市福绵区成均镇;博白县浪平乡;容县十里乡、县底镇、自良镇、浪水乡、松山镇、罗江镇、石头镇等7个乡镇;北流市六麻镇、平政镇、六靖镇、隆盛镇等4个镇;兴业县城隍镇、北市镇等2个镇;陆川县陆川林场等44个乡镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)企边桂:成品呈长片状槽状、左右两边向内卷,卷边呈半圆筒形,槽的中部微凸起,外皮下凹,长33至45厘米。外皮灰白色或褐色,皮细有彩云纹,两端各有5毫米削去皮的斜面呈棕色。内表皮为暗红色、棕红色或棕色。足干、无霉变、无杂质。气芳香浓烈,味甜辣。(2)桂通:成品呈双圆筒或圆筒形,长约35厘米,厚0.1至0.3厘米。外皮灰棕色,有细皱纹及小裂纹,内表皮暗棕色,质硬而脆。断面紫红色或棕红色。足干、无霉变、无杂质。气香,味甜辣。(3)桂心:表面平滑,外层栓皮刮除干净,断面紫红色或棕红色,槽状或卷筒状块片。足干、无霉变、无杂质。气味同桂通",
+      "process": "(1)企边桂:桂皮→晒软→夹板成形→晒干→包装(2)桂通:桂皮→晒软→搓卷成筒→晒干→包装(3)桂心:桂皮→刮去栓皮→晾干→包装",
+      "sectionSha256": "7a2a20fe7fa88399853aae3e18afe0b97bc4452d526faf99c0aeebfaf993394f"
+    }
+  ]
+}

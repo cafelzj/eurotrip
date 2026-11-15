@@ -4,12 +4,13 @@
 
 ## 正式数据和研究资料分开
 
-正式展示读取 `data/` 和 `CardStore.nodes`，不直接读取研究候选。现有4385张中国卡片包括全部4255项原风物条目；“全国总览”表示可汇总检索全部已有卡片，不表示所有省市县的资料已经收齐。现有有内容范围为15省市、174个城市范围、1484个县级单位，其他省份标注待收录。
+正式展示读取 `data/` 和 `CardStore.nodes`，不直接读取研究候选。现有5181张中国卡片，包括5051项地方风物（5004项有来源记录、47项原有待核线索）。本批新增江西222、广西302、广东272项，原4255项原样保留。行政目录为18省市、220个城市范围、1817个县级单位；这不表示每县每品类均已补齐，其他16省区仍标注待收录。
 
 | 用途 | 唯一维护位置 |
 | --- | --- |
 | 正式卡片编辑输入与结构 | `data/flavors.js`、`data/china-cards.js`、`data/card-reading.js`；分类、地区和合并配置见 [实现说明](../../docs/china-collection.md) |
 | 中国卡片合并、12组旧ID和来源 | [统一登记](integration/china-collection.json) |
+| 本批796项扩充与超过5000的核对 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)；[当前卡片验收](integration/current-collection-audit.json) |
 | 原风物4255项完整迁入后的验收 | [逐项核对记录](integration/standalone-retirement.json)；[数据与原件保留目录](../../docs/flavor-migration.md) |
 | 全国／省／市／县统一界面及地图变更 | [采用记录](integration/unified-overviews.json)；原地图几何保持不变 |
 | 未来资料来源候选 | [用户推荐的10个资源](sources/resource-candidates-2026-11-15.json)，尚未逐页读取、核验数据或许可 |

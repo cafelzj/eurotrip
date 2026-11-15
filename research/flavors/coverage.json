@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-11-14",
+  "reviewed": "2026-11-15",
   "minimumPerCity": 11,
   "status": "in-progress",
   "completedProvinces": [
@@ -95,6 +95,114 @@
       "city": "大兴安岭",
       "count": 10,
       "remainingToTarget": 1
+    },
+    {
+      "province": "guangdong",
+      "city": "深圳",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "guangdong",
+      "city": "珠海",
+      "count": 4,
+      "remainingToTarget": 7
+    },
+    {
+      "province": "guangdong",
+      "city": "茂名",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "guangdong",
+      "city": "汕尾",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "guangdong",
+      "city": "河源",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "guangdong",
+      "city": "阳江",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "guangdong",
+      "city": "东莞",
+      "count": 8,
+      "remainingToTarget": 3
+    },
+    {
+      "province": "guangdong",
+      "city": "中山",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "guangdong",
+      "city": "潮州",
+      "count": 6,
+      "remainingToTarget": 5
+    },
+    {
+      "province": "guangdong",
+      "city": "揭阳",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "guangxi",
+      "city": "梧州",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "guangxi",
+      "city": "防城港",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "guangxi",
+      "city": "来宾",
+      "count": 10,
+      "remainingToTarget": 1
+    },
+    {
+      "province": "jiangxi",
+      "city": "南昌",
+      "count": 7,
+      "remainingToTarget": 4
+    },
+    {
+      "province": "jiangxi",
+      "city": "景德镇",
+      "count": 9,
+      "remainingToTarget": 2
+    },
+    {
+      "province": "jiangxi",
+      "city": "萍乡",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jiangxi",
+      "city": "新余",
+      "count": 3,
+      "remainingToTarget": 8
+    },
+    {
+      "province": "jiangxi",
+      "city": "鹰潭",
+      "count": 4,
+      "remainingToTarget": 7
     }
   ],
   "cities": [
@@ -2522,6 +2630,621 @@
       },
       "sourceBackedCount": 10,
       "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "广州",
+      "count": 24,
+      "types": {
+        "ingredients": 9,
+        "dishes": 3,
+        "staples": 7,
+        "dairy": 3,
+        "crafts": 2
+      },
+      "sourceBackedCount": 24,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "韶关",
+      "count": 14,
+      "types": {
+        "ingredients": 8,
+        "dishes": 1,
+        "tea": 3,
+        "crafts": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "深圳",
+      "count": 3,
+      "types": {
+        "ingredients": 2,
+        "dishes": 1
+      },
+      "sourceBackedCount": 3,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "珠海",
+      "count": 4,
+      "types": {
+        "ingredients": 3,
+        "staples": 1
+      },
+      "sourceBackedCount": 4,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "汕头",
+      "count": 11,
+      "types": {
+        "ingredients": 4,
+        "dishes": 3,
+        "staples": 3,
+        "tea": 1
+      },
+      "sourceBackedCount": 11,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "佛山",
+      "count": 34,
+      "types": {
+        "ingredients": 5,
+        "crafts": 3,
+        "alcohol": 3,
+        "staples": 14,
+        "dairy": 3,
+        "dishes": 6
+      },
+      "sourceBackedCount": 34,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "江门",
+      "count": 20,
+      "types": {
+        "ingredients": 12,
+        "tea": 2,
+        "staples": 1,
+        "dishes": 3,
+        "seasoning": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 20,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "湛江",
+      "count": 14,
+      "types": {
+        "ingredients": 9,
+        "crafts": 1,
+        "staples": 2,
+        "dishes": 2
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "茂名",
+      "count": 9,
+      "types": {
+        "ingredients": 5,
+        "tea": 1,
+        "staples": 2,
+        "dishes": 1
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "肇庆",
+      "count": 15,
+      "types": {
+        "crafts": 3,
+        "dishes": 1,
+        "ingredients": 9,
+        "tea": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 15,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "惠州",
+      "count": 16,
+      "types": {
+        "ingredients": 9,
+        "tea": 3,
+        "dishes": 3,
+        "staples": 1
+      },
+      "sourceBackedCount": 16,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "梅州",
+      "count": 24,
+      "types": {
+        "ingredients": 10,
+        "tea": 7,
+        "alcohol": 2,
+        "crafts": 1,
+        "dishes": 3,
+        "staples": 1
+      },
+      "sourceBackedCount": 24,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "汕尾",
+      "count": 9,
+      "types": {
+        "ingredients": 3,
+        "tea": 1,
+        "staples": 2,
+        "dishes": 3
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "河源",
+      "count": 7,
+      "types": {
+        "ingredients": 4,
+        "alcohol": 1,
+        "tea": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 7,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "阳江",
+      "count": 6,
+      "types": {
+        "ingredients": 4,
+        "seasoning": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 6,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "清远",
+      "count": 20,
+      "types": {
+        "dishes": 1,
+        "tea": 2,
+        "ingredients": 17
+      },
+      "sourceBackedCount": 20,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "东莞",
+      "count": 8,
+      "types": {
+        "crafts": 1,
+        "dishes": 3,
+        "ingredients": 2,
+        "staples": 2
+      },
+      "sourceBackedCount": 8,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "中山",
+      "count": 9,
+      "types": {
+        "dishes": 4,
+        "ingredients": 3,
+        "staples": 2
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "潮州",
+      "count": 6,
+      "types": {
+        "tea": 2,
+        "crafts": 1,
+        "ingredients": 1,
+        "staples": 1,
+        "dishes": 1
+      },
+      "sourceBackedCount": 6,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "揭阳",
+      "count": 7,
+      "types": {
+        "ingredients": 4,
+        "dishes": 1,
+        "drinks": 1,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 7,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangdong",
+      "city": "云浮",
+      "count": 12,
+      "types": {
+        "ingredients": 8,
+        "dishes": 1,
+        "crafts": 1,
+        "staples": 1,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 12,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "南宁",
+      "count": 19,
+      "types": {
+        "ingredients": 13,
+        "staples": 2,
+        "tea": 1,
+        "dishes": 1,
+        "dairy": 2
+      },
+      "sourceBackedCount": 19,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "柳州",
+      "count": 16,
+      "types": {
+        "ingredients": 12,
+        "tea": 2,
+        "staples": 2
+      },
+      "sourceBackedCount": 16,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "桂林",
+      "count": 62,
+      "types": {
+        "ingredients": 30,
+        "tea": 6,
+        "staples": 6,
+        "drinks": 2,
+        "dishes": 12,
+        "alcohol": 1,
+        "seasoning": 3,
+        "crafts": 2
+      },
+      "sourceBackedCount": 62,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "梧州",
+      "count": 9,
+      "types": {
+        "ingredients": 4,
+        "dishes": 2,
+        "tea": 1,
+        "staples": 1,
+        "drinks": 1
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "北海",
+      "count": 22,
+      "types": {
+        "staples": 12,
+        "ingredients": 10
+      },
+      "sourceBackedCount": 22,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "防城港",
+      "count": 9,
+      "types": {
+        "ingredients": 6,
+        "tea": 1,
+        "seasoning": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "钦州",
+      "count": 34,
+      "types": {
+        "ingredients": 19,
+        "dishes": 3,
+        "tea": 2,
+        "staples": 6,
+        "seasoning": 1,
+        "crafts": 2,
+        "dairy": 1
+      },
+      "sourceBackedCount": 34,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "贵港",
+      "count": 14,
+      "types": {
+        "tea": 3,
+        "ingredients": 9,
+        "staples": 2
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "玉林",
+      "count": 14,
+      "types": {
+        "ingredients": 10,
+        "crafts": 1,
+        "tea": 1,
+        "staples": 1,
+        "dairy": 1
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "百色",
+      "count": 28,
+      "types": {
+        "tea": 2,
+        "ingredients": 24,
+        "dishes": 2
+      },
+      "sourceBackedCount": 28,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "贺州",
+      "count": 14,
+      "types": {
+        "seasoning": 1,
+        "tea": 3,
+        "ingredients": 8,
+        "dishes": 1,
+        "drinks": 1
+      },
+      "sourceBackedCount": 14,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "河池",
+      "count": 39,
+      "types": {
+        "ingredients": 30,
+        "drinks": 1,
+        "alcohol": 2,
+        "crafts": 2,
+        "tea": 1,
+        "dishes": 1,
+        "staples": 1,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 39,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "来宾",
+      "count": 10,
+      "types": {
+        "ingredients": 6,
+        "tea": 3,
+        "seasoning": 1
+      },
+      "sourceBackedCount": 10,
+      "pendingCount": 0
+    },
+    {
+      "province": "guangxi",
+      "city": "崇左",
+      "count": 12,
+      "types": {
+        "tea": 3,
+        "ingredients": 6,
+        "drinks": 1,
+        "staples": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 12,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "南昌",
+      "count": 7,
+      "types": {
+        "ingredients": 2,
+        "alcohol": 1,
+        "staples": 1,
+        "dishes": 2,
+        "dairy": 1
+      },
+      "sourceBackedCount": 7,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "景德镇",
+      "count": 9,
+      "types": {
+        "tea": 2,
+        "ingredients": 2,
+        "crafts": 1,
+        "staples": 4
+      },
+      "sourceBackedCount": 9,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "萍乡",
+      "count": 3,
+      "types": {
+        "ingredients": 1,
+        "crafts": 1,
+        "dishes": 1
+      },
+      "sourceBackedCount": 3,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "九江",
+      "count": 15,
+      "types": {
+        "ingredients": 8,
+        "dishes": 2,
+        "tea": 3,
+        "seasoning": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 15,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "新余",
+      "count": 3,
+      "types": {
+        "ingredients": 1,
+        "dishes": 1,
+        "crafts": 1
+      },
+      "sourceBackedCount": 3,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "鹰潭",
+      "count": 4,
+      "types": {
+        "dishes": 1,
+        "ingredients": 2,
+        "staples": 1
+      },
+      "sourceBackedCount": 4,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "赣州",
+      "count": 93,
+      "types": {
+        "ingredients": 11,
+        "staples": 32,
+        "dishes": 46,
+        "tea": 1,
+        "alcohol": 3
+      },
+      "sourceBackedCount": 93,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "吉安",
+      "count": 11,
+      "types": {
+        "ingredients": 7,
+        "tea": 1,
+        "dishes": 1,
+        "staples": 2
+      },
+      "sourceBackedCount": 11,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "宜春",
+      "count": 19,
+      "types": {
+        "ingredients": 12,
+        "tea": 3,
+        "crafts": 1,
+        "dishes": 1,
+        "alcohol": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 19,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "抚州",
+      "count": 30,
+      "types": {
+        "ingredients": 22,
+        "tea": 4,
+        "seasoning": 1,
+        "staples": 3
+      },
+      "sourceBackedCount": 30,
+      "pendingCount": 0
+    },
+    {
+      "province": "jiangxi",
+      "city": "上饶",
+      "count": 28,
+      "types": {
+        "tea": 5,
+        "ingredients": 20,
+        "crafts": 1,
+        "dishes": 1,
+        "staples": 1
+      },
+      "sourceBackedCount": 28,
+      "pendingCount": 0
     }
   ],
   "countyAreas": [
@@ -2586,9 +3309,9 @@
       "pendingCount": 0
     }
   ],
-  "totalItems": 4255,
+  "totalItems": 5051,
   "targetItems": 2000,
   "remainingItems": 0,
-  "sourceBackedItems": 4208,
+  "sourceBackedItems": 5004,
   "pendingItems": 47
 }

@@ -1,0 +1,3607 @@
+{
+  "date": "2026-11-15",
+  "knowledgeDraftSha256": "992e8227cdb4a17bfebf20254ea53ff9910d0802b3bbe818bdc47b275be1503f",
+  "knowledge": [
+    {
+      "candidateId": "memory-6a792b197112",
+      "name": "南昌拌粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d87117df1f16fef9f4"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8666aad8bbf4",
+      "name": "瓦罐汤",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8d491dff10fe979eee"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a4fff6b06d14",
+      "name": "白糖糕",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-3f968f590e55",
+      "name": "藜蒿炒腊肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d801a1355cfa95f4b5"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-9d135f1e84a6",
+      "name": "进贤李渡酒",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-aaaa7b561d44",
+      "name": "军山湖大闸蟹",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f7c550f89e436f4708"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b316fd912112",
+      "name": "煌上煌酱鸭",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-79348b86b2ee",
+      "name": "阳光乳业",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-750d2001b9acc615cd"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e87743331bc5",
+      "name": "银山乳业",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a0d442f15152",
+      "name": "景德镇瓷器",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f7ae6c86d37a3c4398"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-0370ba3c0725",
+      "name": "景德镇冷粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4aa2a8041e176d8082"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1a1db0627538",
+      "name": "碱水粑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8fab5fa6d6b113d431"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-03f4a73baa2d",
+      "name": "饺子粑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-127ca7f2c567c56f03"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ed60adfcf907",
+      "name": "乐平桃酥",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0f702f34797fbc94ac"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-22c72432c2cf",
+      "name": "浮梁茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1d3108a93e7c3273e9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-cd07a40f9cbe",
+      "name": "瑶里嫩蕊",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5eefd88de06ef20878"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-cc2fc2e47b88",
+      "name": "莲花血鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8e9101ab7aba45dbd2"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f471eaebccf7",
+      "name": "萍乡炒粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-db55dd5a4f03",
+      "name": "武功山紫红米",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-2cb46b13c215",
+      "name": "上栗手工麻辣",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-beec1b0a1eeb",
+      "name": "安源火腿",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-1b6c77b8ccdf",
+      "name": "庐山云雾茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-81037673abfbd29948"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-a075ff2cbbe2",
+      "name": "湖口糟鱼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-ef34ef047830",
+      "name": "都昌豆参",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3b55aa5d9307bf761b"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-49afd97fca97",
+      "name": "修水哨子",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-315f41a8bea937d6e1"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-68807dfe3cc4",
+      "name": "宁红茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d56a961c2cac1e5cb9"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-d736a1bddf90",
+      "name": "瑞昌山药",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1e82ef168226093841"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-2e1285b6d587",
+      "name": "彭泽鲫",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5435b33a43e7b1f36a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e0667a841866",
+      "name": "武宁什锦汤",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-53cb902835069317e4"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-cc1289ba2f01",
+      "name": "星子豆折",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-af8c5978fdc1",
+      "name": "新余蜜桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a95303c29d2adfdda8"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-99b921b51b9e",
+      "name": "分宜螺蛳",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e44e3c4fe1ad1d0bc6"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-c7c25ed3fcd4",
+      "name": "仙女湖鱼头",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-44d2a2b40c5c",
+      "name": "双林夏布",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-909a36138484add4f7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d1866ee2c6fb",
+      "name": "水北米酒",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-9c05a721c0e4",
+      "name": "贵溪捺菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-00ab82ef5950",
+      "name": "余江茄子干",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2f7dcde54bc099c3a7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-75ff9c983503",
+      "name": "上清豆腐",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ff3568a5f2dac9ceeb"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-29882e47c209",
+      "name": "龙虎山天师板栗",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e6bf1f7e4d53b79972"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-982d8e7c2952",
+      "name": "贵溪灯芯糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-918c95426ba7978d70"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-431a2454f115",
+      "name": "贵溪木雕",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-cf3c39534a4a",
+      "name": "赣南脐橙",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1074cbf8033f681296"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e74d75e84b51",
+      "name": "南康甜柚",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e857efd8a74a1fbe5c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-070b7e611a26",
+      "name": "信丰萝卜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2f2425fd7b2dd778f9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-a292605b88e8",
+      "name": "兴国米粉鱼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-55399e2f341856190e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d243748a82b4",
+      "name": "兴国灰鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bdb1f18a65b6228dd9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b569d04cc072",
+      "name": "宁都肉丸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0d2628c6d160191f80"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-7f5be10ee723",
+      "name": "宁都黄鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f4f7630b203493ab46"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b7fc2abb85b0",
+      "name": "瑞金牛肉汤",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1770f938dcd0631887"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f8f1944e546e",
+      "name": "于都烧卷子",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5a880ff5c66e",
+      "name": "崇义南酸枣糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6c4ae24f6bc8ad9290"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b39205d644f4",
+      "name": "会昌米粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-db2645c9e30b0ae850"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-8ae99e1d97eb",
+      "name": "寻乌蜜桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-25ad9161aa0ddfb35c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-3e591ee0ca08",
+      "name": "龙南捶鱼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7882333dfdc055dae7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3bf3bc77031d",
+      "name": "全南客家烫皮",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-58c0bf03ea8f",
+      "name": "赣县黄元米果",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-99e953599e630681d9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8dacc178e602",
+      "name": "南安板鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a5eb237ec200a091f3"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-81853ccf79aa",
+      "name": "安远三鲜粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7bdeb974dfdec0e785"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1cda30ad7563",
+      "name": "石城白莲",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ea465b6114c1d4859d"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-81350ba83549",
+      "name": "定南酿豆腐",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-2187f59c3acb",
+      "name": "上犹绿茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a81757a347e51b7343"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e5d6907567d8",
+      "name": "章贡酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-399c9fd71fe514934f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6fd4753e6ef0",
+      "name": "泰和乌鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8e52fb74411ddd4c00"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-13c31c2228e0",
+      "name": "狗牯脑茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-483059b66209190284"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b734e130185b",
+      "name": "井冈山烟笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5a767054a221",
+      "name": "安福火腿",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-316d240244c4e0945b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ab4d6bf82a2f",
+      "name": "吉安薄酥饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5821d5e8b13851496e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-423239ddf71f",
+      "name": "万安鱼头",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-806df4606934",
+      "name": "峡江米粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-749dd93d259de12c05"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-aa3f2b756a18",
+      "name": "万载剁肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-846e3672001e532d00"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-086a15aa4247",
+      "name": "万载百合",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a11353a24a6a",
+      "name": "丰城冻米糖",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-722429cf986d3b7b75"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-59c87613c35c",
+      "name": "樟树四特酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8b004a434691a2a31a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8b991089924c",
+      "name": "高安腐竹",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c931a6ad5c424fedf5"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-6515dcae27a9",
+      "name": "宜丰笋干",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a5d8b8db6d93",
+      "name": "奉新猕猴桃",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-45a8de499e968eea44"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-a3e372f99f60",
+      "name": "靖安白茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-04935ae2bcac332fa7"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-192ed081af9d",
+      "name": "上高紫皮大蒜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4695999f89277a20aa"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d3a47624c318",
+      "name": "宜春扎粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-9b8725d0d302",
+      "name": "铜鼓包圆",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c437ef4fd2ba8dd372"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-87d76aeeadf0",
+      "name": "临川菜梗",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6c25601d9201961c26"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-af70ad9af6a7",
+      "name": "临川葛粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-058d33395d72",
+      "name": "南丰蜜桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-31f5cf5deb410a42b2"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f355de6a3d09",
+      "name": "崇仁麻鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c30399ff71b50b4602"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-6bf13d13787c",
+      "name": "金溪藕丝糖",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-304de8c39209931caf"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-73ffdd6fbffa",
+      "name": "乐安竹笋",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1e3d64d7f0a98805da"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-050241c3115f",
+      "name": "黎川灌芯糖",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-48fac022d75c259606"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-5880e6222769",
+      "name": "资溪面包",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-399034e15db20af1a7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-fd912c311c27",
+      "name": "广昌白莲",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-752165f0e19d800405"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-6d2bccb859b2",
+      "name": "婺源绿茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-dbe159b66bbeaf8857"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-7d377c7ea17e",
+      "name": "婺源荷包红鲤鱼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-c728165d9d1a",
+      "name": "婺源糊豆腐",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-079655f53c36",
+      "name": "弋阳年糕",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7ff55e174744",
+      "name": "铅山烫粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-10d741b4cb44",
+      "name": "横峰葛粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-8deaf897095a",
+      "name": "玉山罗纹砚",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-866a372edbcc",
+      "name": "鄱阳湖银鱼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-555e616025e0853516"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-507677a92ea9",
+      "name": "余干辣椒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c99b88de1f6335ff0c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-1413bc91d29b",
+      "name": "余干辣椒炒肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0bf3d2a4763d732fd8"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8452b3c5a21b",
+      "name": "万年贡米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-674fad09c4d3b0ff28"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-bdb1d336c4fc",
+      "name": "婺源汽糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2432d21083949f7bdd"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-380f28cb1ba7",
+      "name": "婺源皇菊",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-c10deaf03359",
+      "name": "广丰马家柚",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4a4b46dd19aff5db33"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-eb4179c106d3",
+      "name": "老友粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a6597ace05e39fc299"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-dc01de2a88c3",
+      "name": "横州茉莉花茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3e0418732f32fb4e67"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d0d03415fc13",
+      "name": "宾阳酸粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-32f5b519ce985dd0a8"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-346f2967e718",
+      "name": "武鸣沃柑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bdd8e652e58eea67f9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-430a9d4472a5",
+      "name": "柠檬鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-467a159446570aaa7b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-5716493bb2e5",
+      "name": "隆安火龙果",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-db0f2e994cdeddfdba"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6ee8b5e42463",
+      "name": "上林大米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7ee7b377a70e0110cb"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f0203ea01fcd",
+      "name": "马山黑山羊",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c3d84d6b0feba0a30d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-50e15ef631fb",
+      "name": "石埠乳业",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4e661d7cda159750de"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-46c103b7812f",
+      "name": "皇氏乳业",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7e4df24ef621452d14"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6785ce707ee5",
+      "name": "柳州螺蛳粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-26468061fb6cd8be2f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-799c26635f67",
+      "name": "三江侗茶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-82f327a47f39",
+      "name": "融水糯米饭",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7ccc37847784",
+      "name": "融安金桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-76fb25f9c49bda224c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-0e0279c28a90",
+      "name": "鹿寨蜜橙",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3b7d0011975c0d9b8b"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-42b928b88b95",
+      "name": "柳城云片糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-56f803a88158816412"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-69b713e614f6",
+      "name": "柳州酸笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e20b82226a14",
+      "name": "桂林米粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-eb5a67458ee245dfc5"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-445667f03bfc",
+      "name": "恭城油茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bf620dbfae7ee0c065"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-bac08de0bc61",
+      "name": "荔浦芋",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2075728bf68569ed6a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-64deb7432e5e",
+      "name": "阳朔啤酒鱼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-753687d31f6b9775f0"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-75f4189467fa",
+      "name": "桂林三花酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4ace23591fa83b4875"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f52a93d48e80",
+      "name": "桂林豆腐乳",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-588c651a7f39071fc1"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-4ab14bf1fa6f",
+      "name": "桂林辣椒酱",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ee26d3976e81cb7ac8"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2d4605a6fd13",
+      "name": "兴安葡萄",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-199add18206a0ec51a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-07ca050ed742",
+      "name": "永福罗汉果",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-882e9fb7117251f886"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ebe19bc1ffa7",
+      "name": "龙胜红糯",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1d2b91a83d8eadd18a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-426950db40b2",
+      "name": "龙脊茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-32892010e42595b97d"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-c9c834034921",
+      "name": "全州醋血鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6d5c7b969eb5af9cb0"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-de572f16a500",
+      "name": "灌阳油茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d7a2eed3083bca87b0"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a57444e22a9c",
+      "name": "平乐十八酿",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-fe5d555b44b034c0af"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ff27d9da0306",
+      "name": "六堡茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3403cada12750a26a0"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-c239db7267e7",
+      "name": "梧州龟苓膏",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1acd791c61904fe08f"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b94fdaef72a3",
+      "name": "岑溪古典鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e6719966b172ca8265"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-223a87bc83fc",
+      "name": "藤县太平米饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c56d73960bb675379f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-99fc54344cd3",
+      "name": "梧州纸包鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a7ae3813e85b976ec9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3594a0c6d63a",
+      "name": "蒙山油茶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-ced87d257411",
+      "name": "冰泉豆浆",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d92fee6f8c1cd56177"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-bf6ef3888047",
+      "name": "梧州腊肠",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-111703f26ace9e3829"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-07d7460ba625",
+      "name": "合浦大月饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ef7b3a8d5e63eaea20"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-6083856e12fe",
+      "name": "北海沙虫干",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6000cd8c9834316572"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-7695f06e9233",
+      "name": "北海虾饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-46da028a07656a9f53"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d88fbfa46c84",
+      "name": "合浦文蛤",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f5c7b0f6f9f86a8c86"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-afad6f299946",
+      "name": "涠洲岛香蕉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a7f1c1345de071be63"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-5bc98892c648",
+      "name": "北海墨鱼丸",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-b985450684b1",
+      "name": "海鸭蛋",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-68119622ebdaf042e5"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d15bcb23fbbf",
+      "name": "东兴京族鱼露",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5431414e1f17662ea7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-217d4835fdf4",
+      "name": "防城金花茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-fc18f14176a0e23e00"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f36e8212b1a9",
+      "name": "东兴红姑娘红薯",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c2d7ed8b640ca7f680"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-853e5907376a",
+      "name": "防城港沙虫",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-fcf7e4d9b2694d7765"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1bcf16efc1bb",
+      "name": "京族独弦琴",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d02fe3778b0450fe8d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ce612005e646",
+      "name": "钦州猪脚粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3c8b83648233f58f3f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-939ee2d0b396",
+      "name": "灵山荔枝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b8e756219841a87ba6"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-dd3a88828dff",
+      "name": "浦北香蕉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-733c5d256b3dd67f0e"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-caabd63e5515",
+      "name": "钦州坭兴陶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-798d145b46e1343d33"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-458e07d83061",
+      "name": "钦州大蚝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6299408652b60a710c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-78c814116ac7",
+      "name": "桂平西山茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4022ab260453a4b7f3"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-871bd72b2394",
+      "name": "平南石硖龙眼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5b372ec08cb9ec8fa5"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-29224d6bee28",
+      "name": "桂平绿豆糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-063991b3396e75dfdb"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-4b6c77161dbb",
+      "name": "桥圩鸭肉粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-cb4a8bd4384a7c72c1"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-300718d55a3b",
+      "name": "覃塘莲藕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6f6390e49ede5c8912"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-c0b3abf042fc",
+      "name": "玉林牛巴",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4cbdd1c525f97b4582"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-5a143b21d8c8",
+      "name": "容县沙田柚",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-38ec29512feb26ec28"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-507e2dd7634f",
+      "name": "博白蕹菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-9530e792fecf",
+      "name": "陆川猪",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-9ec62b0d3af73afea1"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-de395a23664a",
+      "name": "玉林大肉云吞",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-25e4dca97877a4d37f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b8274eef0c7c",
+      "name": "福绵鸭肉粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-f00a82317e69",
+      "name": "兴业米饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-30104802bfc5",
+      "name": "百色芒果",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-cf183f45d222468644"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-19f397ee211f",
+      "name": "田东香芒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-30e7905ce64bcb172a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-afcc7e33e002",
+      "name": "田阳香芒",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-70b57ced3e26",
+      "name": "凌云白毫茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b9ee331648735dd4ab"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-1c3bb0cc2c6c",
+      "name": "乐业猕猴桃",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0731d71fe228dfe16a"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f3ed56045a49",
+      "name": "西林麻鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-38dbcc9cc1afad2286"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-296f00aa4b63",
+      "name": "那坡黑衣壮糯米饭",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-090af3ef58f6",
+      "name": "隆林板栗",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-47cd1bd200a2d773a4"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-37ca8ecddea8",
+      "name": "靖西酸嘢",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e3cb57a2e64ffb5cef"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8be64a9cd843",
+      "name": "德保猪血肠",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-55a6ce1f0059e8c70d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-54c12a29d8ca",
+      "name": "平果卷筒粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-26e1acab0f93",
+      "name": "黄田扣肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-cb9606fd227deb384e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-71be11bfd1a6",
+      "name": "黄姚豆豉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c00e5665789eecb901"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-5c9c83f79ecc",
+      "name": "昭平茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-770755d169b8c74c2c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-a2b656825f4b",
+      "name": "富川脐橙",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a758f4549a607e5505"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e05ad4c28f23",
+      "name": "钟山油茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5d146be521d60eec0c"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1b118a0d8d2a",
+      "name": "信都三黄鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-fe5694dd4c83b6eaf7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e0f4fbff90ac",
+      "name": "贺州菜酿",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-ec184b840646",
+      "name": "巴马火麻汤",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-033a1c9c0615b1626e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-4473a0919a8a",
+      "name": "环江香猪",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0a8338b521d5b185fb"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f363b0407e40",
+      "name": "南丹瑶鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-70c209e7cfe548b35e"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b0fc182076c5",
+      "name": "天峨龙滩珍珠李",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-efc839bc0947",
+      "name": "宜州酸笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-f02f385fcb0d",
+      "name": "罗城毛葡萄酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7cbef7aca5330aa89d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-55934611c745",
+      "name": "东兰墨米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c71fde6bd0abc9e9e3"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-ad9c90b71b88",
+      "name": "都安旱藕粉丝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-62873693921e505747"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f52f56bd2558",
+      "name": "大化七百弄鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6b50d2842de2c20b80"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-c0902081457a",
+      "name": "凤山八角",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4c68ffcb429cfeb404"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-63ef09d4b83f",
+      "name": "武宣红糟酸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bc947791f43ed1f536"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6a6af0d3dd7b",
+      "name": "象州红米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-188021b4eba85939c5"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e82715761259",
+      "name": "金秀甜茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-09d51d1e30b3fc2796"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b2d64f870234",
+      "name": "金秀瑶山熏肉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-252b0e02e41c",
+      "name": "忻城乳鸽",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e3dad83ffad7",
+      "name": "合山牛肉粉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-3c4fa00f3a26",
+      "name": "天等指天椒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-cf6e2fa15140f20cc9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-ce1f108a5641",
+      "name": "龙州桄榔粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-681308778801fed96a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ef0687e46840",
+      "name": "大新龙眼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2d2c0b0f0a7f497cff"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-1e4bc59ce6d8",
+      "name": "扶绥酸粥",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-040dfd0b9bf1ab5b52"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-24c629d5bc05",
+      "name": "凭祥菠萝蜜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-83e60eaa94fb1251ed"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-233b0e5236c4",
+      "name": "宁明沙糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-650e272261cab0d107"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e07f5d8e90e6",
+      "name": "崇左壮锦",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-000d788de5201f2707"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b5dc051850aa",
+      "name": "白切鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-9c9d866b2444f68f34"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1d586091da7c",
+      "name": "烧鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5ed939f7d1b7e0969b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1694d7d24b15",
+      "name": "艇仔粥",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-11f6f84fb0b1cd8671"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6e37d6e9967e",
+      "name": "肠粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a7e77d882ec9",
+      "name": "沙河粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2654bf95617c1d5816"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-0321b2478c5c",
+      "name": "云吞面",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4b443a34c6439b626b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2307176bd81b",
+      "name": "及第粥",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0f354f18c1f17db121"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-c17e2a65052b",
+      "name": "沙湾姜撞奶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-af54725a59a71e1d08"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-07ed8cfa06d2",
+      "name": "泮塘马蹄糕",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-455abbbc89eb623329"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2cc8f8be0292",
+      "name": "增城荔枝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-78de5fe63c0401dcbf"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e2ae96b07d82",
+      "name": "从化荔枝蜜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3919edd9bd99e157e9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-403f9a94a47c",
+      "name": "萝岗糯米糍",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0d59b26d96fec03e6d"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-7822738155e6",
+      "name": "广式腊肠",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7c6da91a81bd4ae4cc"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b1a63fc8ec2f",
+      "name": "鸡仔饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-01d707220781b35264"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-fc768101e79c",
+      "name": "广彩",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-243ba64bebf56edefa"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3292dd5251d9",
+      "name": "广绣",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-717166905f7e136f27"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-9350856ae32f",
+      "name": "风行牛奶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5f2dcb47003d0146d0"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6db63a4631a8",
+      "name": "燕塘牛奶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2678c33e9cfc9408f3"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-81bb5edc4a55",
+      "name": "香满楼牛奶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-38c9463bd8c1",
+      "name": "南雄板鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-81a32b750a820cfa8f"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-ca58dffcf96b",
+      "name": "南雄酸笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-09b7518fd564",
+      "name": "仁化白毛茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-214748ecb39abc9cbf"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-4fe73fbb3e1e",
+      "name": "翁源三华李",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-88738bdb2914400a73"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-5fd3e4f0fde5",
+      "name": "乐昌马蹄",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-97e1e6e0722b3aa252"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-1d200eaa381b",
+      "name": "罗坑茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-118c9dce7ad7233607"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-49a93d3ef978",
+      "name": "瑶山苦爽茶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-bd9c27048662",
+      "name": "新丰佛手瓜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e0dd821ef82bf222eb"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b6da8dc1d526",
+      "name": "南山荔枝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b753eea08a16cb1a24"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-53109273c8dd",
+      "name": "光明乳鸽",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e94f5329cd0ad08d79"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2d271cada262",
+      "name": "沙井鲜蚝",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-4b029e42595e",
+      "name": "晨光牛奶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-796557e26307",
+      "name": "卡士酸奶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-27caf517430b",
+      "name": "南澳海胆炒饭",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a4f568bfd92c",
+      "name": "松岗腊鸭",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-08ebe34932fb",
+      "name": "公明烧鹅",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-c5358d4a09aa",
+      "name": "斗门重壳蟹",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5137963bcb2116654b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e67ffaf90e47",
+      "name": "白蕉海鲈",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-49e546e18388e2676e"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-ce4fab5e81e4",
+      "name": "横琴蚝",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7d652fc38215",
+      "name": "唐家茶果",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b69bb59b8559e05d14"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-71df188f7ddb",
+      "name": "金湾黄立鱼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0651e1fd393efe812a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d81ce6b3df11",
+      "name": "潮汕牛肉丸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ac53b7a276dacf20b7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e6451c5ff763",
+      "name": "潮汕卤鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-81a05dcbd15a45458b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-18e6c73e12d5",
+      "name": "达濠鱼丸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-49e3b2d4191b30081a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-843d5bca5d05",
+      "name": "潮阳鲎粿",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-563c4fa411cc17b426"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-9a33ceb8f159",
+      "name": "潮阳姜薯",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5ffc38dd0e3f5541f4"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-0f97e70b3894",
+      "name": "南澳紫菜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8a252d0b8fb63e4f34"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2666d95c2eff",
+      "name": "汕头肠粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-04f66ef6be5edb8998"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-bebf44e230a4",
+      "name": "潮汕粿汁",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-21739a8ad1489ac781"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3d2e113d35b8",
+      "name": "潮汕工夫茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3d07326ccd87533a1a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-56c08835347c",
+      "name": "大良双皮奶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-984ff114967161ee6b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-6a667bf80eb8",
+      "name": "大良蹦砂",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-99be2fe2defb",
+      "name": "均安蒸猪",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d228123653566f843a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3418e250702a",
+      "name": "顺德鱼生",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-296830b8c8b0f14846"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-873f9ecbb499",
+      "name": "陈村粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7ad0307c23bbdf0297"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b8a92ae5fa0e",
+      "name": "乐从鱼腐",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f7bc51929f7ece207e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2de2a715f6d9",
+      "name": "九江双蒸酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d6628639e5e6a750cf"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-88c7893fcf7e",
+      "name": "西樵大饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-46def9ec3a4d2d5c03"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e7eff0685402",
+      "name": "盲公饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bce6af2620f9d58c1d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-7facc8eb1afe",
+      "name": "石湾陶塑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-cb828a0f70ff4b5cba"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-0af8e77aefce",
+      "name": "南海藤编",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-516b7a3a6762c4497d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-209ee311686f",
+      "name": "三水黑皮冬瓜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f66422f5544c51be93"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-22a95a444bc1",
+      "name": "新会陈皮",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e29ff9d00658fa1328"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f1ece4d82b44",
+      "name": "古井烧鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1d5b50dc8a72b752b2"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b3457dea2050",
+      "name": "恩平濑粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-fe0212090133db1079"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-c03e5d1bce5b",
+      "name": "台山黄鳝饭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1afd2ed765b2e73eac"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1eb0c8c81b43",
+      "name": "荷塘冲菜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e393a289bdd501121e"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8123521abec2",
+      "name": "开平马冈鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-820ec153e5370b3921"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e0d3fc81193c",
+      "name": "鹤山红茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d447a6363d36cc4c28"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e0fa6cc03954",
+      "name": "台山咸汤圆",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-6186c9d7f9da",
+      "name": "礼乐腊味",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-509718b1a78c139320"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-3f57a90c03b8",
+      "name": "新会葵艺",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6b7a114d10097371f6"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-fc79e2a8414f",
+      "name": "湛江生蚝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-35b495ec2ea9bb684a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-91bbe7cb0c10",
+      "name": "湛江白切鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5f036e272ee1071f6c"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-950850543d6c",
+      "name": "吴川月饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ec9da3796d11a6fb4e"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-8f6d0ccdb11f",
+      "name": "雷州大粽",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-be55a810fca2",
+      "name": "徐闻菠萝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a39842c8ca97167e33"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-fc4a74d167e4",
+      "name": "廉江红橙",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c42aefefd1736aef06"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-dcf351683f01",
+      "name": "吴川烂镬炒粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4538d9542ccce89bb9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-06174a49cb37",
+      "name": "沙螺粥",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d1a672a1c06473abb9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-8beb4fde388e",
+      "name": "高州荔枝",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7d2981e709a1",
+      "name": "信宜三华李",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-8bff58f41c2f",
+      "name": "水东芥菜",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5b3aacac43c26b4fef"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-68bfd57a4525",
+      "name": "信宜氹仔鱼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7ef7b2d1982f",
+      "name": "茂名籺",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-63f80f710cd0f3913a"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ddc7dc6b36c1",
+      "name": "化州拖罗饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-39d7f8f0980aa000d9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2872c9248c81",
+      "name": "化州牛杂",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5bb6fd962f4b967557"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d7577e16289f",
+      "name": "肇庆裹蒸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-bc9df31e69c3818400"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-5e07e27d2697",
+      "name": "德庆贡柑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3b30b989d3d94326c3"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-1d0b852bffe7",
+      "name": "四会沙糖桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5b5d4c77ff768957a0"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-17571ecabda3",
+      "name": "封开杏花鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-08e375346c4947b0b5"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-da26f408d436",
+      "name": "广宁竹笋",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-77f53a8a61c8f98c4d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-11a253d45b5a",
+      "name": "怀集茶秆竹",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-67fbf519ab17b82501"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-21a86cc35e2a",
+      "name": "鼎湖山坑螺",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-c5b1edb12eef",
+      "name": "端砚",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f527ceee478274facc"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-85e10b9b79a6",
+      "name": "惠州梅菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-098809473a43",
+      "name": "罗浮山豆腐花",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c2748f57a5b28da7b1"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-5893faf62f9a",
+      "name": "东江盐焗鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7ed52a277161de82cf"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a175163551f7",
+      "name": "龙门年桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-092c9443d8e8e201ac"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-e1d69021687b",
+      "name": "平海糕仔",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-526d7cb418ff",
+      "name": "罗浮山酥醪菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-04def6c2bcd6",
+      "name": "龙门米饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-68f97d19fce808da5f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-9fe3de167440",
+      "name": "梅菜扣肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b0741f8e30dcc3ddf9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-592c4fae3beb",
+      "name": "客家盐焗鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-74fe943851dd2fa5c7"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a4c4fecff1d8",
+      "name": "梅县金柚",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-114f1eaac932753296"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-2784e8d916bd",
+      "name": "百侯薄饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5d260f3bc968cbd570"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b494963c2149",
+      "name": "平远脐橙",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ac31f4d20e9f98d964"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-27ef758c5dbb",
+      "name": "蕉岭竹笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-057e428b3aae",
+      "name": "丰顺捆粄",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-760518c64e3f",
+      "name": "五华酿豆腐",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-596594cccb6c9841d1"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-5c312932d434",
+      "name": "长乐烧",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-d0aeb88cc1e2ba0f04"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-c4232b7508de",
+      "name": "梅州客家娘酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-99c49563bc83a32d8b"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-37bcd1def551",
+      "name": "海丰小米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-25e3f2510d944eae01"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ea0ba70f13b9",
+      "name": "陆丰咸茶",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5f458b7561b7",
+      "name": "汕尾菜茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-9fbe66a5a1ed094d75"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-66740bc73888",
+      "name": "汕尾薄饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2d9f21771cf2d4175d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-c2d890fa5982",
+      "name": "陆河青梅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ca3a3ff5622bfa4966"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-78ca38c64fff",
+      "name": "甲子鱼丸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-28ff37ba186ffcefe9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1f81103dd36e",
+      "name": "碣石礼饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a16f87934161",
+      "name": "公平牛肉脯",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-261f1b1f14b3f82939"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-d5b9702bf924",
+      "name": "河源客家黄酒",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-7d397aa6bfc2f6621f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-57eb337776d1",
+      "name": "东源仙湖茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-40b80f5cbe9a082bd3"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-bb4db1d59423",
+      "name": "连平鹰嘴蜜桃",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-27fb4ffd8f2dd330d6"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-6c4e09fabdac",
+      "name": "和平猕猴桃",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-8dcc28814191a0ade9"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1e451262e6a8",
+      "name": "龙川牛筋糕",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-c82af77c6e39",
+      "name": "紫金八刀汤",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-b9651471dba9",
+      "name": "霸王花米粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-61af832ee3696cd585"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-0ba5f4fecaad",
+      "name": "阳江豆豉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-31902f46b17c0e1fbb"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-280f846f0a18",
+      "name": "阳春春砂仁",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-a7ea24833c81",
+      "name": "程村蚝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4980614ee13f849e39"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-130180343159",
+      "name": "阳江十八子刀具",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-90a0e54642a591fcbf"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-b27a1313dc7f",
+      "name": "马水桔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6cb4c4976c9239da28"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-87527970a626",
+      "name": "双滘豆饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5b19cedc9784",
+      "name": "阳东大沟赤坎蚝",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-aa9492d3a5a1",
+      "name": "清远鸡",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-1b5be12f481e5242a8"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-702a8edf6c2a",
+      "name": "英德红茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0f3c5c93c6e8960818"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-2734aa314797",
+      "name": "连州菜心",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-74a4c3c43c05ac2492"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-ee78776974b0",
+      "name": "连山大米",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-ba590d334615a151b9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-de9a29be8375",
+      "name": "佛冈四九月饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5a856e9956b6",
+      "name": "阳山淮山",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-4703043b13f5dc2575"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-943c34872fe8",
+      "name": "连南瑶家烟熏肉",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-1b465b430729",
+      "name": "英德九龙豆腐",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e4979c53c6c0",
+      "name": "厚街濑粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0b1b80c78363458718"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-68cc60cded57",
+      "name": "道滘裹蒸粽",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-98c0f5052b6ca5f0e3"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a7c6de265730",
+      "name": "石龙麦芽糖",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-7553ffba22af",
+      "name": "白沙油鸭",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f23b8fd7c821fdc86f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-ecc9186e6a95",
+      "name": "东莞腊肠",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0542c736a927e1ff71"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-bc745f538c79",
+      "name": "麻涌香蕉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-087ced01583b3113e5"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-a7b55bb10375",
+      "name": "冼沙鱼丸",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b3aee04855377693b2"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-f29a4519bf51",
+      "name": "石岐乳鸽",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-9bdcc4587a262b3b62"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1e1045bbb8ab",
+      "name": "小榄炸鱼球",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3bd2f4c973637b949d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-e2d77df34055",
+      "name": "黄圃腊味",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-c610ba09f20b2c23e9"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-dc6fee127547",
+      "name": "沙溪扣肉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-aa12f1144aed8343e2"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-1b3050e5485d",
+      "name": "三乡濑粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2048474ff4354517a4"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-16dde345f81d",
+      "name": "神湾菠萝",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3fdc350b4d78c453db"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-17393ea27704",
+      "name": "中山杏仁饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e21c3cdd8f65",
+      "name": "崖口云吞",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-f5af0a32981f99f2ff"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-5a3c15f3c05c",
+      "name": "潮州卤鹅",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-5d471a2b50c2",
+      "name": "护国菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-264c71ed3ab9",
+      "name": "潮州春饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-220a3a424c1b",
+      "name": "潮州腐乳饼",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3f597387ddb180f8ad"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-2c5411397cd4",
+      "name": "凤凰单丛",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6409b8d0adf11f1502"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-be2cfff6822b",
+      "name": "潮州工夫茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-3d07326ccd87533a1a"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-019f0eac618f",
+      "name": "潮安橄榄菜",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-b34df409d0c1",
+      "name": "潮州柑饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-07bf59de29ee",
+      "name": "潮汕牛肉火锅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-07785a6d10c8f0a068"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-313ead589f4c",
+      "name": "饶平狮头鹅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-5d6be12b484e618c6c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-86c97240aff4",
+      "name": "普宁豆干",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-6f194d1fb854f3db0c"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-93784ec0a8cb",
+      "name": "普宁青梅",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-72e1cffe610ba61cb3"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-244c039f74cb",
+      "name": "普宁蕉柑",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-a7ac9da7d170d42cc7"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-5bf1758e1d23",
+      "name": "惠来绿豆饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-4db570096c11",
+      "name": "揭西擂茶",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e74836e9944367bf99"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-4e611ca654c5",
+      "name": "揭阳乒乓粿",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-3ded6a1b8468",
+      "name": "普宁豆酱",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-0b3f6ef5acd07d965d"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-a805bf7985eb",
+      "name": "揭东竹笋",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e64e3c3d9787",
+      "name": "潮汕肚脐饼",
+      "status": "retained-pending-review",
+      "itemIds": [],
+      "reason": "未完成可靠正文、地域或名称核对；保留记忆候选，不直接导入网页"
+    },
+    {
+      "candidateId": "memory-e5f638ad600b",
+      "name": "罗定皱纱鱼腐",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-090e0e5197a9a2609c"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f39c30f34528",
+      "name": "罗定豆豉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-70bf03dffd7e99c019"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-74d596faf308",
+      "name": "郁南无核黄皮",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-41e501aeb9761ee56f"
+      ],
+      "reason": "来源直接支持名称与地方关联；编辑分类和未确认范围分开记录"
+    },
+    {
+      "candidateId": "memory-954d31210582",
+      "name": "新兴排米粉",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-e3cdee6278fb7d4cfe"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-f5a1e1673414",
+      "name": "新兴香荔",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-2461501f8e899ee659"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    },
+    {
+      "candidateId": "memory-b67b38529817",
+      "name": "云安托洞腐竹",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-b458de9322ef14e31a"
+      ],
+      "reason": "同省同市的规范名称或已审阅别名；合并来源，不重复计数"
+    },
+    {
+      "candidateId": "memory-37095f9d28d5",
+      "name": "罗定肉桂",
+      "status": "adopted-or-merged",
+      "itemIds": [
+        "threeprov-84f8dfa1cab1bc951e"
+      ],
+      "reason": "已由原始公告核对到同一名称与地区"
+    }
+  ],
+  "primaryHeld": [
+    {
+      "inputId": "primary-e58bfca8986fcc",
+      "name": "金溪黄栀子",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-c540e2c0ce93de",
+      "name": "商州枳壳",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-9108be49c926b4",
+      "name": "西牛麻竹叶",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-036834bbb1ff53",
+      "name": "连州溪黄草",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-298c0d202eae8c",
+      "name": "忻城金银花",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-3c15a77f7ba653",
+      "name": "横峰葛",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-87dbb3170ed112",
+      "name": "余江夏天无",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-edf2c855958d79",
+      "name": "大余金边瑞香",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-9fa644f4f09f01",
+      "name": "樟树吴茱萸",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-146b5cda3e407b",
+      "name": "东坝蚕茧",
+      "reason": "药材、非食品用途或原料边界未能明确；不自动导入食物目录。"
+    },
+    {
+      "inputId": "primary-c2fc7d7d868f51",
+      "name": "陈山红心杉",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-cac3aeaf784207",
+      "name": "雅长铁皮石斛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-b634dc0284bfda",
+      "name": "上林八角",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-e1c2f99a3af41e",
+      "name": "樟树黄栀子",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-50fa6bd84a43b8",
+      "name": "文鲤",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-d5695b4420727d",
+      "name": "文鲩",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-e45e3cb5ce780e",
+      "name": "云安蚕茧",
+      "reason": "药材、非食品用途或原料边界未能明确；不自动导入食物目录。"
+    },
+    {
+      "inputId": "primary-87cbe377d20122",
+      "name": "始兴石斛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-e3722ef6f4ab11",
+      "name": "高要巴戟天",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-27e53709ab3406",
+      "name": "十万山牛大力",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-7f9229a73b8384",
+      "name": "广昌泽泻",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-137c2d9ee53b64",
+      "name": "顺德国兰",
+      "reason": "药材、非食品用途或原料边界未能明确；不自动导入食物目录。"
+    },
+    {
+      "inputId": "primary-81ce4e10db0f17",
+      "name": "德庆何首乌",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-4a5455f9263f99",
+      "name": "江门牛大力",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-25d038669727eb",
+      "name": "陈村蝴蝶兰",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-c57d0c924b2998",
+      "name": "德兴覆盆子",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-5d96a2796e6d2c",
+      "name": "临川金银花",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-6328a2307f9afa",
+      "name": "东乡白花蛇舌草",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-1247aaed61307b",
+      "name": "宜春苎麻",
+      "reason": "非食品物品或用途不明，暂不自动收录。"
+    },
+    {
+      "inputId": "primary-ff77d55c3a0384",
+      "name": "德兴铁皮石斛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-168b1f0223cc98",
+      "name": "怀玉山三叶青",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-a3be1587c66027",
+      "name": "铜鼓黄精",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-2a0c058c1c76d4",
+      "name": "东乡葛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-d985af5014dc92",
+      "name": "德兴葛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-3369d00776b4e9",
+      "name": "钦州石金钱龟",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-6273ab3384b9ef",
+      "name": "白石山铁皮石斛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-fb231db5efab0e",
+      "name": "都峤山铁皮石斛",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-47a505bc7527ba",
+      "name": "恭城竹鼠",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-23ef51d104b90a",
+      "name": "恭城娃娃鱼",
+      "reason": "药材、非食品用途或原料边界未能明确；不自动导入食物目录。"
+    },
+    {
+      "inputId": "primary-2d251534f1c20b",
+      "name": "凭祥石龟",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-a7b2ce5e5891c1",
+      "name": "田林灵芝",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    },
+    {
+      "inputId": "primary-7bfb6a9aa8da7f",
+      "name": "德保矮马",
+      "reason": "用途、食用边界或原文名称尚需专门核实；不纳入本轮正式卡片。"
+    },
+    {
+      "inputId": "primary-779711f17442f7",
+      "name": "宜州桑蚕茧",
+      "reason": "药材、非食品用途或原料边界未能明确；不自动导入食物目录。"
+    },
+    {
+      "inputId": "primary-8d556144698372",
+      "name": "融水灵芝",
+      "reason": "二级索引提示药材用途；缺少明确食品用途，保留待核。"
+    }
+  ],
+  "primaryMerges": [
+    {
+      "inputId": "primary-956d1e63e0aeaf",
+      "canonicalInputId": "primary-faebbf77876eba",
+      "reason": "同产区金柚别名合并，原始公告和名称仍保留"
+    }
+  ],
+  "rules": [
+    "第三方目录及README只作线索，公告原件独立核对",
+    "先按原文章节限定产品边界，再核对地域和食品用途",
+    "别名和共享地域食品合并；镇街不虚构为县区",
+    "说明不足300字保留needs-expansion，不重复套话补齐长度"
+  ]
+}

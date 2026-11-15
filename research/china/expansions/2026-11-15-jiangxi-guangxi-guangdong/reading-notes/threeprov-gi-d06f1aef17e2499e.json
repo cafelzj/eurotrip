@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-d06f1aef17e2499e",
+  "title": "地理标志产品公告 · 2008年第77号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "d06f1aef17e2499e3b45025b93d05ca5dd525e39",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第77号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC77%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "911e4d42d150900ff7a3de945c7bd324fe66db1dd72ca9f75ccff39ee7ceef9d",
+    "textSha256": "b20e40646357f61fa849015d21766b96351b1c5f45ec546f629a8ee8591df8f6",
+    "textLength": 11368,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/d06f1aef17e2499e3b45025b93d05ca5dd525e39.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/d06f1aef17e2499e3b45025b93d05ca5dd525e39.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-5eefd88de06ef20878",
+      "name": "瑶里嫩蕊",
+      "scope": "瑶里嫩蕊地理标志产品保护范围以江西省浮梁县人民政府《关于瑶里嫩蕊申请地理标志产品保护范围的请示》(浮府文〔2008〕25号)提出的范围为准,为江西省浮梁县瑶里镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形条索紧直匀绿;色泽嫩绿显毫,在阳光下通透似玉,汤色清澈透亮,香气高长持久,呈兰花香,滋味鲜醇回甜,叶底嫩绿匀齐",
+      "process": "工艺流程:鲜叶摊放→挑选→杀青→揉捻→理条→烘干→包装入库。1.鲜叶摊放:厚度1.5cm至3cm。2.杀青:锅温180摄氏度至150摄氏度,直至杀匀杀透。3.揉捻:按轻→重→轻的原则揉捻。4.理条:理条至茶叶银毫显露,达到七成干。5.烘干:炉温80至60度使其含水量6%以下出笼。6.包装入库:按产品等级进行包装,入库冷藏保鲜",
+      "sectionSha256": "7a79594eb2f59c2125c6ebb240319232645a47f15fdf09715dd605fc2bc70947"
+    }
+  ]
+}

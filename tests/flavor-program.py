@@ -16,11 +16,14 @@ def read(path):
 
 raw = (ROOT / 'data/flavors.js').read_text()
 catalog = json.loads(raw[raw.index('{'):raw.rfind(';')])
-items = {x['id']: x for x in catalog['items']}
+all_items = {x['id']: x for x in catalog['items']}
 batch = read(PUBLIC / 'adoption.json')
+# This is an immutable historical cohort, not the total of subsequent expansions.
+cohort = set(batch['baselineItemIds']) | {d['itemId'] for d in batch['decisions']}
+items = {key: value for key, value in all_items.items() if key in cohort}
 progress = read(PUBLIC / 'progress.json')
 review = read(PUBLIC / 'cross-review.json')
-assert len(items) == len(catalog['items']) == batch['totalItems'] >= 4001
+assert len(items) == batch['totalItems'] >= 4001
 assert set(batch['baselineItemIds']).issubset(items)
 assert batch['newItems'] == len(items) - batch['baselineItems']
 assert len({x['itemId'] for x in batch['decisions'] if x['action'] == 'new'}) == batch['newItems']

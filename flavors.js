@@ -13,7 +13,7 @@ window.ChinaFlavorUI=(()=>{
  const inDistrict=(item,name)=>item.district===name||item.districts?.includes(name)||assigned(item).some(code=>countyCodes.get(String(code))?.name===name);
  const countyCity=state=>Object.values(counties.cities).find(city=>city.province===state.province&&city.city===state.city);
  const countyMatches=(item,code)=>code==='all'||(code==='unspecified'?!assigned(item).length:assigned(item).includes(Number(code)));
- function locationLabel(item){const direct=Object.values(counties.cities).find(city=>city.province===item.province&&city.city===foodCity(item)&&!city.regions.length);if(direct)return provinces.get(item.province).name+' · '+foodCity(item)+'（县级）';const names=assigned(item).map(code=>countyCodes.get(String(code))?.name).filter(Boolean);return [provinces.get(item.province).name,...(foodCity(item)===provinces.get(item.province).name?[]:[foodCity(item)]),names.length>2?names.length+'个县区':names.join('、')||'县区待明确'].join(' · ');}
+ function locationLabel(item){const direct=Object.values(counties.cities).find(city=>city.province===item.province&&city.city===foodCity(item)&&!city.regions.length);if(direct)return provinces.get(item.province).name+' · '+foodCity(item)+(direct.hasCountyDivisions===false?'（全市）':'（县级）');const names=assigned(item).map(code=>countyCodes.get(String(code))?.name).filter(Boolean);return [provinces.get(item.province).name,...(foodCity(item)===provinces.get(item.province).name?[]:[foodCity(item)]),names.length>2?names.length+'个县区':names.join('、')||'县区待明确'].join(' · ');}
  let active=null,mapRequest=null;const provinceMarkup=new Map();
  const scope=state=>data.items.filter(item=>state.province==='all'||item.province===state.province);
  const cities=state=>[...new Set(scope(state).map(item=>foodCity(item)))].sort((a,b)=>a.localeCompare(b,'zh-CN'));
@@ -54,7 +54,7 @@ window.ChinaFlavorUI=(()=>{
   if(panel.dataset.city!==String(key)){
    countyRequest?.abort();panel.dataset.city=String(key);
    if(!city){panel.replaceChildren();return;}
-   if(!city.regions.length){panel.innerHTML='<div class="flavor-county-prompt"><h2>'+h(city.city)+' · 县级范围</h2><p>这里已是省直管县级单位，可直接查看本地食单。</p></div>';return;}
+   if(!city.regions.length){panel.innerHTML='<div class="flavor-county-prompt"><h2>'+h(city.city)+(city.hasCountyDivisions===false?' · 全市范围':' · 县级范围')+'</h2></div>';return;}
    panel.innerHTML='<div class="flavor-county-list"><h2>'+h(city.city)+' · 县区清单</h2><nav aria-label="选择'+h(city.city)+'县区">'+[{adcode:'all',name:'全部县区'},...city.regions,{adcode:'unspecified',name:'县区待明确'}].map(county=>'<a class="ui-choice" data-flavor-county-choice="'+county.adcode+'" href="'+h(url({...active,county:String(county.adcode)}))+'">'+h(county.name)+'<small></small></a>').join('')+'</nav></div><figure><h2>'+h(city.city)+' · 县区地图</h2><div class="flavor-map flavor-province-map flavor-county-map" id="flavorCountyMap" aria-busy="true"><p>正在加载县区地图…</p></div></figure>';
    loadCountyMap(root,city);
   }
@@ -90,7 +90,7 @@ window.ChinaFlavorUI=(()=>{
  async function loadNationalMap(root){
   const host=root.querySelector('[data-china-national-map]'),request=new AbortController();nationalRequest=request;
   try{
-   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=unified-overviews-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
+   if(!nationalMarkup){const response=await fetch('assets/maps/china-provinces.svg?v=three-provinces-5000-20261115',{signal:request.signal});if(!response.ok)throw new Error('Map unavailable');nationalMarkup=await response.text();}
    if(request.signal.aborted||!host.isConnected)return;host.innerHTML=nationalMarkup;
    for(const link of host.querySelectorAll('[data-map-province]')){const id=link.dataset.mapProvince;link.setAttribute('href',url({...active,province:id,city:'all',county:'all',district:'all'}));link.classList.toggle('is-current',active.province===id);}
    for(const label of host.querySelectorAll('.province-labels text')){

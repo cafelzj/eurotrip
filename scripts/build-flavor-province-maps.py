@@ -3,6 +3,7 @@ import argparse,json,math,pathlib,html
 p=argparse.ArgumentParser();p.add_argument('source_dir',type=pathlib.Path);p.add_argument('--output',type=pathlib.Path,default=pathlib.Path(__file__).resolve().parents[1]/'assets/maps/flavors');args=p.parse_args();args.output.mkdir(parents=True,exist_ok=True)
 provinces={110000:('beijing','北京'),370000:('shandong','山东'),340000:('anhui','安徽'),320000:('jiangsu','江苏'),330000:('zhejiang','浙江'),310000:('shanghai','上海'),140000:('shanxi','山西'),410000:('henan','河南'),130000:('hebei','河北'),430000:('hunan','湖南'),420000:('hubei','湖北'),350000:('fujian','福建'),210000:('liaoning','辽宁'),220000:('jilin','吉林'),230000:('heilongjiang','黑龙江')}
 # Dense central districts need leader labels; their true boundaries stay in place.
+provinces.update({360000:('jiangxi','江西'),450000:('guangxi','广西'),440000:('guangdong','广东')})
 label_positions={'beijing':{'东城区':(450,350),'西城区':(105,385),'石景山区':(95,330)},'shanghai':{'杨浦区':(490,180),'虹口区':(490,220),'黄浦区':(490,260),'徐汇区':(490,300),'普陀区':(80,170),'静安区':(80,210),'长宁区':(80,250)}}
 registry={}
 for code,(slug,name)in provinces.items():
@@ -32,5 +33,7 @@ for code,(slug,name)in provinces.items():
   out.append(f'<a href="#flavors/{slug}" data-flavor-region="{html.escape(region)}" data-flavor-adcode="{prop["adcode"]}" aria-label="{raw}"><title>{raw}</title><path class="flavor-region-shape" d="{path(f["geometry"])}"/></a>')
   labels.append(f'<a href="#flavors/{slug}" data-flavor-label="{html.escape(region)}" tabindex="-1"><title>{raw}</title>{leader}<text class="flavor-region-name" x="{lx:.1f}" y="{ly:.1f}">{label}</text></a>')
   registry[slug]['regions'].append({'name':region,'adcode':prop['adcode']})
+  if prop.get('level') == 'city' and prop.get('childrenNum') == 0:
+   registry[slug]['regions'][-1].update(adminLevel='city',hasCountyDivisions=False)
  out.append('<g class="flavor-map-labels" aria-hidden="true">'+''.join(labels)+'</g></svg>');target=args.output/(slug+'.svg');target.write_text(''.join(out));print(name,len(features),target.stat().st_size)
 (pathlib.Path(__file__).resolve().parents[1]/'data/flavor-map-regions.js').write_text('/* City/district names from the same DataV boundaries as the local SVG maps. */\nwindow.flavorMapRegions='+json.dumps(registry,ensure_ascii=False,indent=2)+';\n')

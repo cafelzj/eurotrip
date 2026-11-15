@@ -1,0 +1,93 @@
+{
+  "id": "threeprov-gi-96ed1bd077701c09",
+  "title": "地理标志产品公告 · 2015年第143号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC143%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "96ed1bd077701c0915d1fb856b565068d9d5f971",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第143号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC143%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "0ec392e1a92ab9b804c40ece18fff60d4e32d1a4bc3e598e1a02784f69693b77",
+    "textSha256": "c030e6b17f33ef7a76900f15f43cd9d640b621a4d01f6c1107553ef67e44ca7a",
+    "textLength": 28311,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/96ed1bd077701c0915d1fb856b565068d9d5f971.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/96ed1bd077701c0915d1fb856b565068d9d5f971.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-1a44f8b813a82709b5",
+      "name": "石湾玉冰烧酒",
+      "scope": "石湾玉冰烧酒产地范围为广东省佛山市禅城区石湾镇街道西江东平河畔部分区域,北纬22°58′47.652′′至23°0′52.212′′,东经113°4′10.092′′至113°6′6.8′′。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "感官要求项目高度酒(41%vol~60%vol)低度酒(29%vol~40%vol)色泽和外观无色或微黄,清亮透明,无悬浮物,无沉淀香气豉香纯正、幽雅豉香纯正、清雅醇和甘滑,酒体丰满,豉味协醇和甘滑、酒体较丰满,豉味协口味调,米酒味和脂香味悠长调、米酒味和脂香味较悠长",
+      "process": "",
+      "sectionSha256": "aca0efa31cacacf4b2ffc66e26b2b1300c1ed4bc85f41a0262c4db7da23cf34d"
+    },
+    {
+      "itemId": "threeprov-d90d722535d75597fb",
+      "name": "罗浮山大米",
+      "scope": "罗浮山大米产地范围为广东省博罗县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "米粒整齐匀称、色泽洁白鲜亮,米饭油亮、香润粘滑,冷却后不回生",
+      "process": "",
+      "sectionSha256": "a99e7733adc4ac1598145cfb988f66f439b1c22e55e7ea166f52a71bf13f1652"
+    },
+    {
+      "itemId": "threeprov-d8097c2386630ac0d5",
+      "name": "柏塘山茶",
+      "scope": "柏塘山茶产地范围为广东省博罗县柏塘镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "柏塘山茶外形卷曲紧结;色泽乌绿油润;香气浓郁高长,呈“炒米香”或“花蜜香”;滋味浓厚回甘;汤色黄绿明亮;叶底肥厚柔软;耐冲泡",
+      "process": "",
+      "sectionSha256": "b04af9856ba9e2b1ee511e082586164d3bda3f72ebf871208f6b5ef282fdf05c"
+    },
+    {
+      "itemId": "threeprov-81aa59dda5f25108fd",
+      "name": "观音阁花生",
+      "scope": "观音阁花生产地范围为广东省博罗县观音阁镇现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "荚果小、果嘴长带钩、籽粒饱满、口感酥脆、香中带甜",
+      "process": "",
+      "sectionSha256": "3bae681d4d652586503f0e99634f934b4443ec3ae03649ab287e7cee8d5e400c"
+    },
+    {
+      "itemId": "threeprov-21d6f5a262408c4faa",
+      "name": "汶朗蜜柚",
+      "scope": "汶朗蜜柚产地范围为广东省怀集县汶朗镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果皮黄绿色至金黄色,果形呈葫芦或近梨形,果顶平坦或微凹;果肉清甜无酸味,汁胞白色或乳黄色,汁多无渣,具蜜香味",
+      "process": "",
+      "sectionSha256": "a995e15c1c32a70c293571ac4376c95a6df87d03ecd63599cbf20e565b6ecdbc"
+    },
+    {
+      "itemId": "threeprov-7172abd15f41aa404c",
+      "name": "黎塘莲藕",
+      "scope": "黎塘莲藕产地范围为广西壮族自治区宾阳县黎塘镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "表皮浅黄或黄白,藕体色泽均匀一致,表面光滑。生食甜中略带涩,熟食口感粉糯",
+      "process": "",
+      "sectionSha256": "659bc9cd2a2f534bfcb2a0e40b47c72640a2999604e1343acc50f22dc413253b"
+    },
+    {
+      "itemId": "threeprov-3a8db179fef6082d9e",
+      "name": "西林姜晶",
+      "scope": "西林姜晶产地范围为广西壮族自治区西林县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "黄棕色至棕褐色,味甜、辛辣",
+      "process": "",
+      "sectionSha256": "1931778d3dcda7d4dff2b21e2adf77106934b2258dd40d5a45ce7519bf160f95"
+    }
+  ]
+}

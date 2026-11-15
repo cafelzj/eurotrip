@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-4403a45733f603c6",
+  "title": "地理标志产品公告 · 2011年第103号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "4403a45733f603c69cf226d620c8a5682d5b40a5",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第103号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC103%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "80b46725352143085f489ced4d053023b57af98d6c523b3c487a96dd10194649",
+    "textSha256": "43fa20ad194c7dc1bddb7568f61a612e0cf808232a65c2666a24383b77d7f460",
+    "textLength": 4358,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/4403a45733f603c69cf226d620c8a5682d5b40a5.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/4403a45733f603c69cf226d620c8a5682d5b40a5.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-4cbdd1c525f97b4582",
+      "name": "玉林牛巴",
+      "scope": "玉林牛巴产地范围为广西壮族自治区玉林市玉州区、福绵管理区、玉东新区3个区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "呈咖啡色或棕红色,鲜明油亮。长条片状,厚薄大致均匀,气味醇香,肉质细而耐嚼,咀嚼时软硬适中,甘香回味;2.",
+      "process": "1.选料:(1)主料:牛后臀部肉,脂肪含量低于3.0(g/100g)。(2)辅料:酱油-当地生产的酿造酱油,蒜蓉-玉林香蒜生产加工的蒜蓉,八角-当地生产的大红八角,桂皮-广西肉桂。2.生产加工:(1)生产工艺流程:原料肉→清洗整理→挑选→晾干→切片→烘干→水蒸→油炸→煮焖→沥干→整形→包装→杀菌(2)加工要求:1整理:将鲜牛肉用水清洗干净,剔除筋络、粘膜、软骨后将牛肉按横纹切片,厚度在1.5mm至2.5mm。2烘干:将牛肉片均匀铺在烤篮上,用木炭或木柴烘烤20分钟,至手感变硬、变棕褐色。3蒸制:隔水蒸10分钟。4油炸:用油温180°C至200°C的花生油",
+      "sectionSha256": "09e6ac66beed231c514da0030b6ffa67966570f26b0d5d8bb3b172017c138dc4"
+    }
+  ]
+}

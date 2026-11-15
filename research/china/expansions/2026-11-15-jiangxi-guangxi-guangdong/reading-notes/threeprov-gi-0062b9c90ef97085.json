@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-0062b9c90ef97085",
+  "title": "地理标志产品公告 · 2005年第117号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "0062b9c90ef970855030b9ddd09e238f032e1693",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2005年第117号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2005%E5%B9%B4%E7%AC%AC117%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "b671a3e89bc5b0b51772a9ab66eff8a9947994330745a419a9d4dfb7145e34e3",
+    "textSha256": "d810d7fee105dc37f9b16e5418f7ed7e72e65506ea86518823b22cb2e665298d",
+    "textLength": 1045,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/0062b9c90ef970855030b9ddd09e238f032e1693.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/0062b9c90ef970855030b9ddd09e238f032e1693.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-36d6458787741affff",
+      "name": "愚公楼菠萝",
+      "scope": "愚公楼菠萝地理标志产品保护范围以广东省徐闻县人民政府《关于界定愚公楼菠萝地理标志保护范围的建议的函》(徐府文〔2004〕85号)提出的范围为准,为广东省徐闻县曲界、前山、锦和、下洋、下桥、和安、龙塘等7个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "巴厘、卡因等优良适生品种",
+      "sensory": "",
+      "process": "",
+      "sectionSha256": "9daad49d8070c4a2d40067b89eb595e22069b542473c7f94b913fa1ebbce6748"
+    }
+  ]
+}

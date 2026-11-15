@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-0903e5b0744a5568",
+  "title": "广西三江：茶旅融合促振兴",
+  "url": "https://gx.people.com.cn/n2/2025/0307/c179464-41156264.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/0903e5b0744a5568.raw",
+  "originalResponseSha256": "071cab21b69c9e34a8b1fcf52f0cf2d5ab795a05e4aef813f4d3bd6b22240370",
+  "readableFile": "research/.local/three-provinces-20261115/articles/0903e5b0744a5568.txt",
+  "readableSha256": "8c04d90ce1a241f366ff2b4389bddb3259537c7ed09a6204c9a6dc3536db9a44",
+  "items": [
+    {
+      "itemId": "threeprov-3e0418732f32fb4e67",
+      "name": "横州茉莉花茶",
+      "initialCandidateId": "memory-dc01de2a88c3",
+      "adoptedFacts": "横州茉莉花茶是广西地方茶类的重要代表。广西媒体在茶文旅与消费活动报道中有明确记录；茉莉花茶属于以茶与花窨制形成的茶类，不与茉莉鲜花原料混为一类。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

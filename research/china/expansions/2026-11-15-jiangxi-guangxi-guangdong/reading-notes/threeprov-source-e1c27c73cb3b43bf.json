@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-e1c27c73cb3b43bf",
+  "title": "《这里是汕头》(45)：南澳紫菜出头水",
+  "url": "https://gdxk.southcn.com/st/ztp/content/post_541153.html",
+  "read": true,
+  "readMethod": "html-container:#content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/e1c27c73cb3b43bf.raw",
+  "originalResponseSha256": "4ca08432ce74fa52bce7b655aaba9b1a25d518e40a1efafc436584475834fbe0",
+  "readableFile": "research/.local/three-provinces-20261115/articles/e1c27c73cb3b43bf.txt",
+  "readableSha256": "a7a9effd67998c22c4f44bddf8524938a87a8c1afdecd5a78a9c4520d348625d",
+  "items": [
+    {
+      "itemId": "threeprov-8a252d0b8fb63e4f34",
+      "name": "南澳紫菜",
+      "initialCandidateId": "memory-0f97e70b3894",
+      "adoptedFacts": "南澳紫菜与汕头南澳岛的海上养殖和采收相连。广东媒体报道了头水紫菜采收，海产原料与冲调紫菜汤等加工食品分开记录。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

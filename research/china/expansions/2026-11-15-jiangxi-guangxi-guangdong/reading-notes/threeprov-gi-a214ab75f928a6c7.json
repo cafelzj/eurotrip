@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-a214ab75f928a6c7",
+  "title": "地理标志产品公告 · 2007年第169号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "a214ab75f928a6c7128af9cb23a2fc729b222625",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2007年第169号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "37028849a652ccf70b171fec3ea41a9dc347cda25fdff97d512d6979aff3107c",
+    "textSha256": "701384c9156d5be69f0d33953dc6199615265db5f013eb43607317baf537c862",
+    "textLength": 2276,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/a214ab75f928a6c7128af9cb23a2fc729b222625.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/a214ab75f928a6c7128af9cb23a2fc729b222625.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-092c9443d8e8e201ac",
+      "name": "龙门年桔",
+      "scope": "龙门年桔地理标志产品保护范围以广东省龙门县人民政府《关于划定龙门年桔产地范围的函》(龙府函[2007]95号)提出的范围为准,为广东省龙门县现辖行政区域",
+      "type": "ingredients",
+      "variety": "地派一号年桔、地派二号年桔",
+      "sensory": "果实扁圆型,果实横径≥40mm。皮薄而光滑,橙黄色,光泽明亮,油胞小而平生,皮易剥离。果肉橙黄色,汁胞柔软多汁化渣,果肉甜酸可口,桔味浓郁。龙门年桔分为特级、一级、二级,具体指标应符合表1规定:表1龙门年桔感官特色要求项目特级一级二级果形端正,呈扁圆形较端正,呈扁圆形。允许有轻微偏斜,呈扁圆形果皮轻度粗糙,,匀整度较好,洁果皮光滑,匀整度好,洁净度果皮较光滑,匀整度好,洁净度较果面净度一般,允许有少量缺陷果,无好,无病虫,无缺陷果好,无病虫,无缺陷果严重缺陷果色泽橙黄,着色好橙黄、黄色,着色较好黄色、淡黄色,着色一般果肉清爽,肉嫩,酸甜适中,果肉清爽,肉嫩,酸甜适中,化渣果肉清爽,肉嫩,酸甜适中,化渣口感化渣性好较性好性较好横径≥50mm≥45mm≥40mm",
+      "process": "",
+      "sectionSha256": "cf581dbc854d16948a11208b7a69e26aef7ec9a9587ad36184f46712aa930c42"
+    }
+  ]
+}

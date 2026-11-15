@@ -1,0 +1,35 @@
+{
+  "id": "threeprov-source-384a671185ccd4ee",
+  "title": "坐上高铁游梅州！这个国庆，共享“梅”好时光_南方+_南方plus",
+  "url": "https://static.nfnews.com/content/202409/30/c10133738.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/384a671185ccd4ee.raw",
+  "originalResponseSha256": "8430b204c2f30b5be286fbde8e1a016d47f31465ed9ce395756b777c7286e775",
+  "readableFile": "research/.local/three-provinces-20261115/articles/384a671185ccd4ee.txt",
+  "readableSha256": "f7e7552fcc21b77992a6812c7d4ec6f6664ceba5c1030a198f575051d5eea48e",
+  "items": [
+    {
+      "itemId": "threeprov-74fe943851dd2fa5c7",
+      "name": "客家盐焗鸡",
+      "initialCandidateId": "memory-592c4fae3beb",
+      "adoptedFacts": "客家盐焗鸡在梅州文旅资料中有具体工艺介绍。鸡肉经调味、包裹后用盐传热焗制，以金黄外观和咸香风味见长，不把它与普通水煮鸡混同。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-5d260f3bc968cbd570",
+      "name": "百侯薄饼",
+      "initialCandidateId": "memory-2784e8d916bd",
+      "adoptedFacts": "百侯薄饼是梅州大埔的地方食品。报道记载以瘦肉丝、豆腐干、虾仁等为馅，皮韧馅香、柔软滑润，并与地方传统技艺传承相连。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-596594cccb6c9841d1",
+      "name": "五华酿豆腐",
+      "initialCandidateId": "memory-760518c64e3f",
+      "adoptedFacts": "五华酿豆腐与梅州五华华城等地的客家饮食相连。报道记录其地方技艺身份，酿馅与豆腐结合的成菜和鲜豆腐食材分开整理。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

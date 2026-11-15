@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-15",
+  "queries": [
+    "光明乳鸽 深圳 site:gov.cn",
+    "沙湾 姜撞奶 site:gov.cn",
+    "晨光 乳业 深圳 site:gov.cn"
+  ],
+  "responseFile": "research/.local/three-provinces-20261115/web-search-200.json",
+  "responseSha256": "f95dfc45967229a604dad1b2421f51a69f9cc951eda711d6b0f83353092a1f4e",
+  "articleResponseFile": "research/.local/three-provinces-20261115/web-open-200.json",
+  "articleReadScope": [
+    "光明三宝",
+    "番禺区沙湾北村",
+    "中南街姜撞奶活动"
+  ],
+  "failures": [
+    {
+      "url": "https://www.szgm.gov.cn/zjgm/lsgm_118488/cygm_118492/ctwc/content/post_8760477.html",
+      "status": "article-read-timeout-not-adopted-as-source"
+    }
+  ]
+}

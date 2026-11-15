@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-59b798fa9007a96d",
+  "title": "古井烧鹅、鱼皮角、黄油蟹……一起吃遍江门！_侨乡美食_江门市人民政府门户网站",
+  "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/qxms/content/post_3112301.html",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/59b798fa9007a96d.raw",
+  "originalResponseSha256": "b8e27c9695bf500ddc014f4d54e3d0edbf2146800abdaaa9169b5203e840b816",
+  "readableFile": "research/.local/three-provinces-20261115/articles/59b798fa9007a96d.txt",
+  "readableSha256": "d1f144df13405c45bfdb8058742815c7094cc4027ca419b9f424c5e6f67e5ae6",
+  "items": [
+    {
+      "itemId": "threeprov-e393a289bdd501121e",
+      "name": "荷塘冲菜",
+      "initialCandidateId": "memory-1eb0c8c81b43",
+      "adoptedFacts": "荷塘冲菜在江门地方物产介绍中有记录。它属于当地蔬菜加工和调味风味，具体品种、腌制方法及食用场景仍须按专题补充。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-509718b1a78c139320",
+      "name": "礼乐腊味",
+      "initialCandidateId": "memory-6186c9d7f9da",
+      "adoptedFacts": "礼乐腊味被列入江门地方食品推荐。它是当地腌腊肉食风味的一部分，名称对应地域传统，不等同于某个统一规格或唯一品牌。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

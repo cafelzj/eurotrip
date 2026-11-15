@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-e40be2b18d214481",
+  "title": "从平乐到恭城，5G护航非遗美食“出圈” 桂林移动以数智力量激活乡土文化新活力 -2026年06月04日-桂林日报",
+  "url": "https://epaper.guilinlife.com/glrbh5/glrb/20260604/Articel02011NR.htm",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/e40be2b18d214481.raw",
+  "originalResponseSha256": "324d388a9ba860fc1999a47fc826ba6334375bde9323ac7ae2c908f574b24745",
+  "readableFile": "research/.local/three-provinces-20261115/articles/e40be2b18d214481.txt",
+  "readableSha256": "08b6d8e49a4fe10be5f85af0b74caa080c68b7dfe7029bee2d2ac78e8258caae",
+  "items": [
+    {
+      "itemId": "threeprov-fe5d555b44b034c0af",
+      "name": "平乐十八酿",
+      "initialCandidateId": "memory-a57444e22a9c",
+      "adoptedFacts": "平乐十八酿把当地多样食材与包馅、填馅的做法联系起来。地方报道列举田螺酿、豆腐酿等变化，重点是“酿”的工艺体系，而不必理解为固定不变的十八道菜。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

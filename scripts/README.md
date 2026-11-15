@@ -35,7 +35,9 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 
 浏览器测试见 `tests/*.cjs`，沿用现有Playwright与Chromium环境及各文件的 `SITE_URL`；完整命令见 [主说明](../README.md#验证)。一次性批次工作脚本保存在本地研究归档内，不能当作通用生成器直接重跑。
 
-- `node scripts/audit-china-flavor-migration.cjs`：逐项核对4255项风物的全部编辑字段、来源、县区和中国栏目登记；审阅正式变化后用 `--write` 更新迁移验收记录。
+- `node scripts/audit-china-flavor-migration.cjs`：逐项核对当前地方风物的全部编辑字段、来源、县区和中国栏目登记；审阅正式变化后用 `--write` 更新 `current-collection-audit.json`，原4255项 `standalone-retirement.json` 作为历史收据保持不变。
 
 - `python scripts/index-china-research.py`：更新中国卡片总索引，并更新保留的风物专题索引；新底稿统一从 `research/china/README.md` 查找。
 - `python scripts/update-china-province-map.py`：按现有风物省份配置更新全国SVG的可选地区，保留原行政路径几何。
+
+- `scripts/china-expansion-20261115/`：江西、广西、广东批次的采集、公告章节提取、类别审阅与固定采用稿重建。顺序及本地原件依赖见 [批次说明](../research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)。采用程序仅读取已审阅稿，不把实时搜索结果自动导入。

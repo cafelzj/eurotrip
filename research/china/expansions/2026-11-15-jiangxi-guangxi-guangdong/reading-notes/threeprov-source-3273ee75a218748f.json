@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-3273ee75a218748f",
+  "title": "一刻钟便民生活圈放大梧州“幸福圈” _ 城市商业 _ 福建省商务厅",
+  "url": "https://swt.fujian.gov.cn/xxgk/jgzn/jgcs/ltyfzc/cssy/202503/t20250314_6779418.htm",
+  "read": true,
+  "readMethod": "html-container:.TRS_Editor",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/3273ee75a218748f.raw",
+  "originalResponseSha256": "a579954deca2a1c9858b118c38e086e9d2165d7fc8e92465fa56d48de71ac387",
+  "readableFile": "research/.local/three-provinces-20261115/articles/3273ee75a218748f.txt",
+  "readableSha256": "47bd293819abdea74c64709723fa4778c31f66e5c9bc4e880fb2b3d927de316d",
+  "items": [
+    {
+      "itemId": "threeprov-d92fee6f8c1cd56177",
+      "name": "冰泉豆浆",
+      "initialCandidateId": "memory-ced87d257411",
+      "adoptedFacts": "冰泉豆浆与梧州的传统早餐和老字号饮食相连。政府转载资料记录冰泉豆浆馆等地方消费场景，食品卡片关注豆浆风味及地方关联，不替代实时门店营业信息。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

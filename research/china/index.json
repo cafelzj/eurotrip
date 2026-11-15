@@ -2,8 +2,8 @@
   "updated": "2026-11-15",
   "scope": "中国卡片当前研究与保留的风物专题历史",
   "canonicalRegistry": "CardStore.nodes",
-  "chinaCards": 4385,
-  "flavorCards": 4255,
+  "chinaCards": 5181,
+  "flavorCards": 5051,
   "canonicalEntry": "research/china/README.md",
   "topicEntry": "research/flavors/README.md",
   "runtimeInputs": [
@@ -23,28 +23,1684 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 13,
-    "current-integration": 3,
+    "research-support": 28,
+    "adoption": 2,
+    "cross-review": 2,
+    "preserved-source-reading": 1108,
+    "current-integration": 4,
     "future-source-candidate": 1,
     "historical-batch": 12,
     "legacy-path-pointer": 2,
-    "adoption": 1,
-    "cross-review": 1,
-    "initial-knowledge": 2,
-    "preserved-source-reading": 850
+    "initial-knowledge": 2
   },
   "records": [
     {
       "path": "research/china/README.md",
       "role": "research-support",
-      "bytes": 3807,
-      "sha256": "0f40f68e0bdc2ae71da8541ed181fad6d898a7463241793661a061cc804991fe"
+      "bytes": 4075,
+      "sha256": "35a6054c25bd324431494e45d09fdcb5ed96af52d4045d7242f3bc07648ce504"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
+      "role": "research-support",
+      "bytes": 5062,
+      "sha256": "1f1eaaa7fb6b6f8b0da06db1011ce7993328c903aa691489e52e5d5f58fdde3f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/administrative-sources.json",
+      "role": "research-support",
+      "bytes": 26004,
+      "sha256": "72097bbcc24f845be546883c540be2b2f735eb99ebafbcb15972cedd24412aa8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/adoption.json",
+      "role": "adoption",
+      "bytes": 478879,
+      "sha256": "5f47edbcc6997817bba1df4adc956b6352951edeb08f9fbb4d05f66ce02f842a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/baseline.json",
+      "role": "research-support",
+      "bytes": 137313,
+      "sha256": "0d43b1f71152dc9d3f1aaf6c004a3175e052caf351fb0d9a84173d20562aa0ce"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/cross-review.json",
+      "role": "cross-review",
+      "bytes": 118080,
+      "sha256": "2eb37378cda3bca4a385e8cd29775c49d67aced6101bb02eac8e7f9c87ea9e6d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/external-only-editorial.json",
+      "role": "research-support",
+      "bytes": 91430,
+      "sha256": "bafc1ae6718e5dd3a921a02e269769f3368ac1adfcc4bb036a244c79b9674952"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/initial-knowledge.json",
+      "role": "research-support",
+      "bytes": 141163,
+      "sha256": "992e8227cdb4a17bfebf20254ea53ff9910d0802b3bbe818bdc47b275be1503f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/knowledge-seal.json",
+      "role": "research-support",
+      "bytes": 268,
+      "sha256": "f129cfad7487311632177d9cbc545798bfe1d5471add02442726c74a1df01d9e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/place-register.json",
+      "role": "research-support",
+      "bytes": 642420,
+      "sha256": "c7aeacd91759cbfc51478fc6ab73e2c18e8c2e80a5c446d9eb808b82ab30513f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/preservation-audit.json",
+      "role": "research-support",
+      "bytes": 137847,
+      "sha256": "31222ca708eb1d4d0188e880ff04b9e076eb477b3c97003e87a2e42065c1525d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/publication-followup-search.json",
+      "role": "research-support",
+      "bytes": 721,
+      "sha256": "2ca50197e287bb3da74cd96d164463771483fa85dc9e60ecba82edd66118dac3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-0062b9c90ef97085.json",
+      "role": "preserved-source-reading",
+      "bytes": 2537,
+      "sha256": "c52ec1faa57282bbd93d36abba4ba872eb90aaf09870400d60d4ce4f2d988a00"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-037f3e92019ad6f6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3358,
+      "sha256": "a13928aadc4810f426c2298eb8fa37fd4cf8c38e6d0077b0e67d0e293bfed466"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-084df99c9795f119.json",
+      "role": "preserved-source-reading",
+      "bytes": 2473,
+      "sha256": "5cb4ae0cd7ce48c084217acbed1851c8e07012efbe9ed56bf303cc3e1b27bb2b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-087713d73002f2a1.json",
+      "role": "preserved-source-reading",
+      "bytes": 3620,
+      "sha256": "67ebdc631adadcb4e033d06bf972f1962d5f196d863fada12ce15c378b835d28"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-089ca14133835eb0.json",
+      "role": "preserved-source-reading",
+      "bytes": 2266,
+      "sha256": "ea9b282e5a8f1f3ce4d8261102554569bad30e5c27d32e6e5d9962a6417291bd"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-0ae5e4d3c7c048c6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3633,
+      "sha256": "d966a703fc2f110e2fca64f4dbfac2104ddb73210c83a42e84dc99be702c78d8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-0c71f66be86181c0.json",
+      "role": "preserved-source-reading",
+      "bytes": 3271,
+      "sha256": "01794908f6a9608709063302ac97ca2f9a06088b045130b4f337920873188690"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-11362558e362dd79.json",
+      "role": "preserved-source-reading",
+      "bytes": 3865,
+      "sha256": "425e569e667a63ef6a21f371791148594e1d641498b672de73b4bca2daaca747"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-16bde72563af1ca8.json",
+      "role": "preserved-source-reading",
+      "bytes": 2850,
+      "sha256": "4c80f81e3154c9a12cc44b9d27827732eeb9cdf89456760e13d0e78b5828a261"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-18aaebc9832fa9f3.json",
+      "role": "preserved-source-reading",
+      "bytes": 3420,
+      "sha256": "6324fbaad4839252f4c74b72ee97c6fbb6754db3aeabb1ea14f9ca1ab1844dc8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-190126a494e0139d.json",
+      "role": "preserved-source-reading",
+      "bytes": 2487,
+      "sha256": "e1dfe86b720bf0e30c91fcbd99dbf5f9e07af3bd91549ea3fbd1114e30c19e48"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-191182ce75f1fba0.json",
+      "role": "preserved-source-reading",
+      "bytes": 3542,
+      "sha256": "3bf42951078db7b816758a8cc41488f7f445567d6c95402a7d2eff748d67b399"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-1e8eff9352cd145f.json",
+      "role": "preserved-source-reading",
+      "bytes": 3213,
+      "sha256": "23e21ed7ad56aea658c9ec79b73b4199e5c3c1738d3e9298502e08c18e7e2c27"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-22673e72d8bfd75d.json",
+      "role": "preserved-source-reading",
+      "bytes": 4424,
+      "sha256": "335209265b32135dcf1786f91d92f6aaf015c9144320abb9f56f840db15d6e4a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-241166b070ae278e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2436,
+      "sha256": "e0d3e9e497b9c64d3cd22070e9f329238ad60402720a9f08817a9a3e26c216b2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-25a7112b8491d64a.json",
+      "role": "preserved-source-reading",
+      "bytes": 4542,
+      "sha256": "816f5104223eea5e300083667c8f9ee210ca3e63e8e5a37bf2b7dcfc502b79fc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-26ab97dc5f649eed.json",
+      "role": "preserved-source-reading",
+      "bytes": 3058,
+      "sha256": "6405a958dd35a0809f260b0dcb15bb2b4c446cc2400782556fd2abf1ea2ad29f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-2764b1db357fd78b.json",
+      "role": "preserved-source-reading",
+      "bytes": 3106,
+      "sha256": "255961d09c390be9d4f4be88650d7be3c2b0394eaecea297f31f2d851ca4f79f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-29c57eb3dcddc2ac.json",
+      "role": "preserved-source-reading",
+      "bytes": 4254,
+      "sha256": "41a6b7328eccfc6989f779484922ad15dd9e20481bba3860ba3c53d1837d1899"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-2fa1b4b1fde13522.json",
+      "role": "preserved-source-reading",
+      "bytes": 9195,
+      "sha256": "8cf427d0a2d206c0cb27f99a9faf5f8a18cae644f8e763a5880e74bb706042a0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-31fa493255773ee1.json",
+      "role": "preserved-source-reading",
+      "bytes": 2699,
+      "sha256": "b35d271d3c98c7f2b61267f3a51f7c531c7435e7f6588bcfebd3ab6a2e5b96b9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-367fdf28bbb538c8.json",
+      "role": "preserved-source-reading",
+      "bytes": 2474,
+      "sha256": "c0ab519b20d612d3393f87b26f34e774bd5e1d29e982472c4bd7e3c4d0cd9c36"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-3757ed6c71f53dec.json",
+      "role": "preserved-source-reading",
+      "bytes": 4097,
+      "sha256": "d9149aec58e7174b006a4e188084dc1e129dde3334b1366b03632c2df6cee250"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-37e1d92595b1373a.json",
+      "role": "preserved-source-reading",
+      "bytes": 3121,
+      "sha256": "cd071fe97212e0ba9b159e97836466e50be406bde671a8491bad19bd0bb96102"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-37f8b24dfbe3e85c.json",
+      "role": "preserved-source-reading",
+      "bytes": 4771,
+      "sha256": "2352c6af5f36474c792190bacd0276b0bacda6531ff1c1aa9f0223d92c57d340"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-3967ccbcef9efc6e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2649,
+      "sha256": "7cc8d35933ec3c5d371dbc5059a89fe24a41eca2978f898f8cf589a3de972eba"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-3b08b615488d57e3.json",
+      "role": "preserved-source-reading",
+      "bytes": 2638,
+      "sha256": "1169ab042c41c317b9f6458d97e3b287ef7371840b599860c91e3c2f575ca3c8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-401a9095c4e8e31e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2381,
+      "sha256": "7541100ca95acb2265e735687e5938ced6d109a16273213bb5e01edcb9f54068"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-410fbcf655e3f09f.json",
+      "role": "preserved-source-reading",
+      "bytes": 2664,
+      "sha256": "144c74d0a8a7d498934d41cbe635635d627f71fcc36d9495678f462cd541a9db"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-420344d07c7026b5.json",
+      "role": "preserved-source-reading",
+      "bytes": 3348,
+      "sha256": "204bc9f6e2a82d68fa114165ecea849786ff600512396ff280ec1713b6226f04"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-431c8f81d550072d.json",
+      "role": "preserved-source-reading",
+      "bytes": 2298,
+      "sha256": "5d692c4ada6755cb07f3418a155d02b54a968a810d0901aeefd9cfa31f7f737f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-4403a45733f603c6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3144,
+      "sha256": "2e5156fc73e18d06442b5afdbdc114625e640510931d7e50065c9448bd9b2376"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-44a898a622ecf5da.json",
+      "role": "preserved-source-reading",
+      "bytes": 3228,
+      "sha256": "ff6b498f71439eb5c676427510ff0df5f3f04937301e8131254fc460ce7cce8e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-45302d4569ce99ec.json",
+      "role": "preserved-source-reading",
+      "bytes": 3700,
+      "sha256": "83b4c47f593c639234c9df1893058cb09532772aaada5c25d1bf1f9ca49b7105"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-4546b3e210dfae67.json",
+      "role": "preserved-source-reading",
+      "bytes": 3821,
+      "sha256": "1ec290bf014a1859024f5635829f9042ce938c6109876a557a418d24d230ca5d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-46a71cd9995b49b3.json",
+      "role": "preserved-source-reading",
+      "bytes": 214988,
+      "sha256": "4cf64ca1d45ffa61e29c7a444d45b43fc8003b2555cdfbff0b35d02c6b468261"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-46bed8d2f4378f6c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2642,
+      "sha256": "a32c6b813ae2475937001b7bcb05a624437f246aee678e11590693af0f99f25d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-47fbe21eb90bdc71.json",
+      "role": "preserved-source-reading",
+      "bytes": 3271,
+      "sha256": "305701fe3b875ee93535e8217350577bcac632a9d50a38dad4b6bea5ea0bb941"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-4b1ddf14c8c955b1.json",
+      "role": "preserved-source-reading",
+      "bytes": 2860,
+      "sha256": "2cdcf5efc4140044dadca4c9d24be5f5047015a7d18b1dd4b3bc8cde075d3d8d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-4c4ef49147839248.json",
+      "role": "preserved-source-reading",
+      "bytes": 2685,
+      "sha256": "47a40ba02bea84f4c668190d0991397203eeb5cb90dbcdedd56b7b16f7f9a653"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-555a64ea70c84504.json",
+      "role": "preserved-source-reading",
+      "bytes": 2697,
+      "sha256": "d922bcdce9b9682c5df3e814da73f5d3dc6a79c565f9b1879102bdd8a60fef12"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-569cd5f1975e8071.json",
+      "role": "preserved-source-reading",
+      "bytes": 2553,
+      "sha256": "81b01cdb7f1af6e1024a884f3c5c2548ea3de8cf17f84f0d09fd629e3485aa62"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-5a38356fbafc0f79.json",
+      "role": "preserved-source-reading",
+      "bytes": 3115,
+      "sha256": "fabbbf8dfb15cea0dfc09e66b5976f4999a24ed568b3441d1a529e15e80aed90"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-631c849706ee0f65.json",
+      "role": "preserved-source-reading",
+      "bytes": 2862,
+      "sha256": "3117b881b8b6da8b4497a1944957ad773a809e40aec2b27da90bba093ee56988"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-66a8b5d9cbea8d32.json",
+      "role": "preserved-source-reading",
+      "bytes": 3674,
+      "sha256": "7c72be5574210a6a00f1a16458eb8d8084b397c9000d578dece22ae132149e8d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-68b18efc18f2d16a.json",
+      "role": "preserved-source-reading",
+      "bytes": 4372,
+      "sha256": "db2cb40defea83eaba76c51ab391c50d3d271d212e4c6128d6d0933f48ec2684"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-6b6a389d088a0a19.json",
+      "role": "preserved-source-reading",
+      "bytes": 3300,
+      "sha256": "f0fec64a5961b5df66506ee9b7c6283e751e0a49be55e8e92e7ddbd7d487adc9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-71c65e7e5f69d0a2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2790,
+      "sha256": "624a9a519ce280a18ab2f5ef24ec7c5d72d6f036d3f0a903de15f9f7e52a760c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-73c8b73e30d519a0.json",
+      "role": "preserved-source-reading",
+      "bytes": 2863,
+      "sha256": "32d8eba27a5aa1cbcfdcee78423b5aad1c8dff5ab3c1cd0c8be67224edd6203b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-764f234e17833be4.json",
+      "role": "preserved-source-reading",
+      "bytes": 2816,
+      "sha256": "96399e1e90ba776f783e8d54444746ab6040694aeef925e0d2eee55d7d92a58a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-76dddab3b7c40a53.json",
+      "role": "preserved-source-reading",
+      "bytes": 4414,
+      "sha256": "e894cdaffb87cac66a3f5faaa37e724c4a9d75bb1eb1005ede9f49f673c7862e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-772d97693f273eb8.json",
+      "role": "preserved-source-reading",
+      "bytes": 2609,
+      "sha256": "a0e30fdb87954e6b1bbb870f949948dd3648ebc1df92aadd174fd4f442cbc5ff"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-79c2fbc53ce59e0b.json",
+      "role": "preserved-source-reading",
+      "bytes": 2842,
+      "sha256": "35b6d93a03c4c9cc9a9fcf18bc6fe77dc64953102484d93799daaa8564dafb47"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-86a294b7ebe800a5.json",
+      "role": "preserved-source-reading",
+      "bytes": 2457,
+      "sha256": "aeb9c8c3ed0cc7e5c78114821c851a1a955b38f473841d279270521b54937e38"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-86aeec967b3d9a09.json",
+      "role": "preserved-source-reading",
+      "bytes": 3366,
+      "sha256": "e6926e957e15a135359e30b927c32b6125cdc348921e4aa38c22485648d09b96"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-886b097e79e4e8e2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2600,
+      "sha256": "e6488f8d97dd575d86286143c011cc2a7f5442659999bbaa3fea9ed6ead6e32d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-8d6bc786bf83639f.json",
+      "role": "preserved-source-reading",
+      "bytes": 2514,
+      "sha256": "16bfff4ecb2871d26a5aacc2126474ed8fe33539c6c72319733b4b5d3d7e2ceb"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-8df266c8bf3bb61b.json",
+      "role": "preserved-source-reading",
+      "bytes": 2889,
+      "sha256": "125bf5657c28c674cf45c440ff9f90b634e3216b5a96440ccd1da8f2ee9d0e4c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-8f6f439a2bece8c0.json",
+      "role": "preserved-source-reading",
+      "bytes": 2401,
+      "sha256": "511a4730edac7f977ad62c4158229f861ebc1d1168f7e159860b7116df1fbb35"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-9074e0d97bc98560.json",
+      "role": "preserved-source-reading",
+      "bytes": 10292,
+      "sha256": "d02cf06434d07c2ce95dc6644a25427f738e0ed440f8ff222a13026caba8805c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-92a3a7ae1909322c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2843,
+      "sha256": "20ad826a8e06a53a7ef45b5adf20bc21eb79ed84a19dc0160f7e852fc4c47c22"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-94e8a13d40b8d31a.json",
+      "role": "preserved-source-reading",
+      "bytes": 3522,
+      "sha256": "2edc3bf657c7469e19ae06c2c6ff2c209b1cec32b6889c773e8454686eda5aec"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-950cb29c207f2feb.json",
+      "role": "preserved-source-reading",
+      "bytes": 2486,
+      "sha256": "c72ba2fc411fe23ba186558fef12590241fcf719b72effed7d1863d5f4978f6a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-96ed1bd077701c09.json",
+      "role": "preserved-source-reading",
+      "bytes": 5553,
+      "sha256": "480ff5a0bac145ab8bac436496040e613e387bf1f2489731f4a8f0c933424732"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-97b0ea498a6d96a7.json",
+      "role": "preserved-source-reading",
+      "bytes": 2562,
+      "sha256": "0f1b65ba24addd520c4280459e81c29aa7d2b188622a90da9c5bf0fc29816ff4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-9a1605a9f77f7d59.json",
+      "role": "preserved-source-reading",
+      "bytes": 2749,
+      "sha256": "ead7bd3d8e4395daca7e151e09ba5b35ab57cfa38297c4fc76c12bb68c2a1b56"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-9ab6fd3b02347d4b.json",
+      "role": "preserved-source-reading",
+      "bytes": 2587,
+      "sha256": "af20858b11f8bd611b50e552a634d9a2e5e029676ff1e60b0e08847a791abdac"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-9ad8ba4fd86d60a9.json",
+      "role": "preserved-source-reading",
+      "bytes": 7173,
+      "sha256": "9a54e8de02b16867f6113b3c8ad704cb7041ebba325e8f89c3e1bb7034294e61"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-9c669e4a0a21c671.json",
+      "role": "preserved-source-reading",
+      "bytes": 2464,
+      "sha256": "3c84c179efce6cd10437979b4967010812d65826ee993fb94a2cea91327c7d7b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-a152140e318f635b.json",
+      "role": "preserved-source-reading",
+      "bytes": 3176,
+      "sha256": "23f47bafce973996351d0e198b67382ea1941995f44288ba7559a18751632be9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-a1c7ab1194c1f396.json",
+      "role": "preserved-source-reading",
+      "bytes": 3190,
+      "sha256": "eb0003c108731193f77bcf5520e402c77b4a69e34931fbae6966357fca326d39"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-a214ab75f928a6c7.json",
+      "role": "preserved-source-reading",
+      "bytes": 3320,
+      "sha256": "6ba39ece718e26d194200c24309e40c0bf61b04a425c31fde53a8c2e1bd41a6f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-a356c738276bb38e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2404,
+      "sha256": "96fefb5a52756db32bbf1a66b686e511a50e9bb592a3807062a612bb018f5be0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-aa5609cf365398f2.json",
+      "role": "preserved-source-reading",
+      "bytes": 5257,
+      "sha256": "4ce9cb0fe240694db8bcb79d3f6d6c9adde9766a6f8b01bd3fd60df5b52976a4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ab2f1699396cd313.json",
+      "role": "preserved-source-reading",
+      "bytes": 3115,
+      "sha256": "5e3c69386ecebc2f278049b6fe4df5437dcdef2d9ad5f77e3bf917515259fc12"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ae2887337cef981b.json",
+      "role": "preserved-source-reading",
+      "bytes": 2734,
+      "sha256": "53c45ebc91b2c6d568606e8a71844be5bcc44cb8361b1df9a75ea402021a5759"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-aed2380f53245fda.json",
+      "role": "preserved-source-reading",
+      "bytes": 2665,
+      "sha256": "d568b05bd7ddb25eeac90e4401de31418ef5014c4199b617cbc0f385c254a1fc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b0386d058cdaa517.json",
+      "role": "preserved-source-reading",
+      "bytes": 5153,
+      "sha256": "15f78450e79f992b3b5c7f6078b9e1f92a3a7a7e12a63518f9cb213e6c3303b1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b2b3b869991e40d2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2521,
+      "sha256": "7c0d5d503b29090075b7a3c94ad33637695627f9450defe84cff4f2b02e39921"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b39ec474a702b3a6.json",
+      "role": "preserved-source-reading",
+      "bytes": 2354,
+      "sha256": "c38d48ec3efc00c166922e4bfe3193ec028ec2e34abd77a9d4553bf966aaa22f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b45b0e1a5da9e34b.json",
+      "role": "preserved-source-reading",
+      "bytes": 3346,
+      "sha256": "05e3578738bd4ede0a74593bd2b28e63466a5a964de6bf866e35ceaa615c4800"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b47d3b782e35fd26.json",
+      "role": "preserved-source-reading",
+      "bytes": 3076,
+      "sha256": "8c3a025954c618da6519510ee63820667ae19eb229aa828cd905bfb2a26f6793"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-b6d60c115c643ad6.json",
+      "role": "preserved-source-reading",
+      "bytes": 2402,
+      "sha256": "5bef4b37568b20b7a3ba00059f47483407b7aff94898edaa477017a6f9d7189e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-bfcb913db71f03da.json",
+      "role": "preserved-source-reading",
+      "bytes": 2664,
+      "sha256": "05d6fff7a2d903e3be360b1c34f589a8b73f333834b9d70454528c7bce2db682"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c013bcedbd27c1f5.json",
+      "role": "preserved-source-reading",
+      "bytes": 2817,
+      "sha256": "fb54315ac70936b7bfc772dfad784a13a800dd5bb300e6e9f59fad8ed523dca9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c098597ed635051a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2425,
+      "sha256": "aa074d7f287d374904276e4c513e98e8164f52b70949aacdb6af4e17c5ec498a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c180a1ae0ae67f10.json",
+      "role": "preserved-source-reading",
+      "bytes": 3230,
+      "sha256": "f8814e618a8db6361289ab2d8266cf4bb0c7e505529ec6d422b16644dfe84124"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c1c397f40c7f87b6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3194,
+      "sha256": "d5219a5f98cb0f9bfe341825179acbdb584ce46d7703d17e6d8b835586486f69"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c2459ae38393e0d6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3300,
+      "sha256": "583b3bf473a1943fc76a9867cd65bd9785692279f67bebe98b95b703eafa44e4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c4f697444b9b2b8a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2662,
+      "sha256": "cf9eeb2dc05feddd783312f2e7f30a03167e36b211994d9478c1a0115f6e6da9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c5b01adb99896ad7.json",
+      "role": "preserved-source-reading",
+      "bytes": 2425,
+      "sha256": "5b86d9ece0fe28ed3d0ad487fbeac6e9d81b397e86df6a1c24f69a335544d852"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c646d2d97a419308.json",
+      "role": "preserved-source-reading",
+      "bytes": 8290,
+      "sha256": "bbea5366a47c7e051335968b98c033d4e49333c8c49e8a5ef28569ae5e604253"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c73cba5ce06136b2.json",
+      "role": "preserved-source-reading",
+      "bytes": 3062,
+      "sha256": "6f21be34f5004897a5c702341825ad10b9dfcb7bdf14873c6cb56e6dfab1acea"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-c97a7ca6cd1a8a96.json",
+      "role": "preserved-source-reading",
+      "bytes": 4126,
+      "sha256": "dc8c67437f67113bdab19b57dd6468ba6af37999ebf1bdc013bf63685723fab6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ca7e45b138d5a9b4.json",
+      "role": "preserved-source-reading",
+      "bytes": 3178,
+      "sha256": "0a3a5f429d3477860c92ecdd86e687a9372bd5b6209701736e03d82b4746a421"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-cc837dac2c1da6a6.json",
+      "role": "preserved-source-reading",
+      "bytes": 3494,
+      "sha256": "7c40081bb57737d91adae9662f7976afc71a875fdccd1afef829c6141439b190"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-cd257939cff7e6fd.json",
+      "role": "preserved-source-reading",
+      "bytes": 3228,
+      "sha256": "32b7c667fdc6c0e07d0d8c66e3c7fb9f0e370bfa02b54d4a89f296effe21e151"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-cd5f1a155c84b56a.json",
+      "role": "preserved-source-reading",
+      "bytes": 2626,
+      "sha256": "e4a482066948da29d980b8bc854bc719b87d936da9c472e72011a57c01957ae1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d06f1aef17e2499e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2982,
+      "sha256": "219008d5fce38aafc24a78ce515713f24714d01049da2e7fefaf408b29ac4d1c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d1963aac3810f3f4.json",
+      "role": "preserved-source-reading",
+      "bytes": 2520,
+      "sha256": "69adf4cb56b70b88bd3fa1d79cc5899aaae9cfc78a7910a23b758c222dd412ad"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d1cf2af1908977c1.json",
+      "role": "preserved-source-reading",
+      "bytes": 3919,
+      "sha256": "f015743c17adb762c605ff39ca1f875c7eabed2f59ce714b685f0f9a7b2f5cdc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d4eac1dbe0b4caf6.json",
+      "role": "preserved-source-reading",
+      "bytes": 52275,
+      "sha256": "f5d6019b614767ea36f3df171ffe93868e0d2e59fee611be4cb78416ff6e338e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d75107437044e311.json",
+      "role": "preserved-source-reading",
+      "bytes": 2606,
+      "sha256": "c22d8ebc872a6abe2ebe126551118786023925ed60fde5dfe6ee7a38dd1bfe23"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-d7bae50cefb97640.json",
+      "role": "preserved-source-reading",
+      "bytes": 2491,
+      "sha256": "d2ea6884380bc0cc96dcbbdf37b5f0acf10437c0685ef7ef051b764888df1aee"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-da816f20e3d31bf3.json",
+      "role": "preserved-source-reading",
+      "bytes": 2560,
+      "sha256": "40a3e5a7308cd5c75cff977371b63a493be5fe8459fe3f29e446311506fc862a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ddc522f92cf1cedc.json",
+      "role": "preserved-source-reading",
+      "bytes": 4187,
+      "sha256": "a6a96c24c68068152bdbf5fc33736076e073f79643e034406a823105fd3339c6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-de56f7884205d0ed.json",
+      "role": "preserved-source-reading",
+      "bytes": 2366,
+      "sha256": "08be678f898a60c607c8d959a852d9798acef1b19734be63e3bdf4813cc2084a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-de83bfa028b12a08.json",
+      "role": "preserved-source-reading",
+      "bytes": 4266,
+      "sha256": "b3ae31ed469180e2ef7eebd222e8d776d1864a4a749c19d6cd96459c2400dc51"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-df4cf0a12e3c029f.json",
+      "role": "preserved-source-reading",
+      "bytes": 3051,
+      "sha256": "1fd63dafe88eb2fa21fbda543a3a585a36a50dfa1762bc2378b3b3d7a23a4e91"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-e011caf3c10cbd67.json",
+      "role": "preserved-source-reading",
+      "bytes": 3036,
+      "sha256": "7b08c431bccc4301819f818f8ad93cb1d78b8b2a5bcbf6961e52e386b358cb82"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-e65cc121bdd1a2e9.json",
+      "role": "preserved-source-reading",
+      "bytes": 2812,
+      "sha256": "389c84a4ac5a23d16bc046922284f0cccfc41a1c648051d2041a34e838b156ba"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-eae207bfdf10985e.json",
+      "role": "preserved-source-reading",
+      "bytes": 2844,
+      "sha256": "d1ddd3c938fa0a95864c5fdef33deae993b4dd19e96e80486a1330cbe5c2ba10"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ec7432a24167bbd3.json",
+      "role": "preserved-source-reading",
+      "bytes": 2628,
+      "sha256": "743ef83ca20a89528057672089b650d96daa2626315d52c18363ff2515cb71ab"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-ed4cc91a1ae6d173.json",
+      "role": "preserved-source-reading",
+      "bytes": 3214,
+      "sha256": "d00b16666fd7f52c5b62101c893f9319f45d1b722dfccef95b8ff460c899c770"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-efc628dc6a827357.json",
+      "role": "preserved-source-reading",
+      "bytes": 3042,
+      "sha256": "bf5c10684787010e4d596963354ae5aed651113062765e1426289404998f76c1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-f309ea2f9071c32f.json",
+      "role": "preserved-source-reading",
+      "bytes": 2964,
+      "sha256": "5936785879f0b225cc635975bd3db692755fb38f8daa3a9a1450f898c228d369"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-f8473701f8d01cec.json",
+      "role": "preserved-source-reading",
+      "bytes": 3002,
+      "sha256": "faec7289146a9190b30c7954c980357bcb763189ff09d389ec3358367d951c3c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-fa096c0e9b0185de.json",
+      "role": "preserved-source-reading",
+      "bytes": 3039,
+      "sha256": "83875dda6ff480cb7fb23169314e283f27f376b420b6f8f00f3b1749bda94a44"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-fa7a0c4d6dc8f1b2.json",
+      "role": "preserved-source-reading",
+      "bytes": 2555,
+      "sha256": "5ee34991240ce1d41de976c1b97aa15462501531c6f778906279642536a1b667"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-fbc8db1b13b552a8.json",
+      "role": "preserved-source-reading",
+      "bytes": 3590,
+      "sha256": "f408b203ce3eca0486b0f59e1d60fcdb8bad0a3c4806de040592aa9735ccc795"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-gi-fee405287cb7bde1.json",
+      "role": "preserved-source-reading",
+      "bytes": 3883,
+      "sha256": "39523b891e9bf692a83b3c30f43a301389452eaf1d41c1463fce0e46689b4507"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-001e6c70e464e3ff.json",
+      "role": "preserved-source-reading",
+      "bytes": 1381,
+      "sha256": "8bfcefa74a7660b838efa88bb10aa64f4dc74cb9712bd7ddcc2a2146473fff9b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-00dfed4dd10ab22b.json",
+      "role": "preserved-source-reading",
+      "bytes": 1435,
+      "sha256": "15a2dcc059157133078040a4199443774920447eba77e6a695eaa839c9111a29"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-01b416c7c64336a7.json",
+      "role": "preserved-source-reading",
+      "bytes": 1353,
+      "sha256": "661018d53212fbfd7062e02c6da3791900418f550e3632ccdd61f9a589626f89"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0272e0620b4ad1f1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1374,
+      "sha256": "a33f189879e8bfae2b2209381647006ec5968b30722c0ec6aa992e4f7d782825"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-03a6041ba68beaba.json",
+      "role": "preserved-source-reading",
+      "bytes": 1400,
+      "sha256": "d9196b814509d2e46a02c6bad61f6e03dd98b2af4a9bf848f01305760b3cc8f3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-06833dacf21ade34.json",
+      "role": "preserved-source-reading",
+      "bytes": 1423,
+      "sha256": "f77d0f4c17c0823860a60e231d3ed21a6b7eee50a137e38f79d657e6fcb996c8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0903e5b0744a5568.json",
+      "role": "preserved-source-reading",
+      "bytes": 1362,
+      "sha256": "772a158295c506190f8002d73a48a66c4d7150735e9369f8a75405ef1ab28f55"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0ad27b33066ef673.json",
+      "role": "preserved-source-reading",
+      "bytes": 1323,
+      "sha256": "23904040c40869e8d914d622225e7c3554faea595d38c6ccb88d4c367f58da9e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0be05cb058343487.json",
+      "role": "preserved-source-reading",
+      "bytes": 1980,
+      "sha256": "666ece681e6cecc32fe89f11bfab6a66162b5d7fcb981982562d406c9af3ac98"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0f7d38c866fdc30e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1379,
+      "sha256": "faddfab7aec52b25811940e22c4273d369428a26a1a9b56258c0cf77e0b99da2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-0fcc0b11c0b87b6b.json",
+      "role": "preserved-source-reading",
+      "bytes": 1350,
+      "sha256": "977f3a641ac66f2dc38070a2ce2cf034f39ccd145e8e3b4e7c551ae9e48a358a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-125b5790bc365af1.json",
+      "role": "preserved-source-reading",
+      "bytes": 2784,
+      "sha256": "cc9680113ec44b7bfe70f43b22a69d91a66ab044aa2ae019cab343e5d07b7e46"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-12f5769c7bf834ba.json",
+      "role": "preserved-source-reading",
+      "bytes": 2888,
+      "sha256": "5d6a45e174d15d63869ca2fbc49e9496e7edbe59a84cad39e3194d135a12169d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-13587af6dc17c930.json",
+      "role": "preserved-source-reading",
+      "bytes": 1326,
+      "sha256": "4bd68b135a3ad13e38ca2553465a1b20608545dd5aab053b64b4b942e943fe84"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-13c132658e1bc7b9.json",
+      "role": "preserved-source-reading",
+      "bytes": 1318,
+      "sha256": "b45667ea58cd92014867515c7e0d2f1303251fb7f2dce19b63954f454bffa72c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-170d6161b00eef79.json",
+      "role": "preserved-source-reading",
+      "bytes": 1860,
+      "sha256": "b4661f59363f71845f821c6f86f196e306322159555c699d50e0a72db7683776"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-187c57138d61447c.json",
+      "role": "preserved-source-reading",
+      "bytes": 1433,
+      "sha256": "a1b928a8127659474bd98d56716b674051973258f5db3aebf605071803db5768"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-18dbc34d74d6482c.json",
+      "role": "preserved-source-reading",
+      "bytes": 1910,
+      "sha256": "cecb316e67ad93cea1fe57eeb4d0e32b3c6dcc629d586b12cd28a965bf6434b6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-19e6bee1604221a7.json",
+      "role": "preserved-source-reading",
+      "bytes": 1360,
+      "sha256": "48feeea1cd16a35e732334615fac207018068792531215323da3386d048036dc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-1a78cf7b3422ce21.json",
+      "role": "preserved-source-reading",
+      "bytes": 3000,
+      "sha256": "b15878c919c8db7742e22f73c2be20173f5fa15763a5d2711c28829403d95ce2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-1c37770dbcaf2c97.json",
+      "role": "preserved-source-reading",
+      "bytes": 9494,
+      "sha256": "b5c4142cc34c2ef7857549dd4104e99bb63cd67cb6b12773c05b7187ed83a151"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-1ea439bcf76542e3.json",
+      "role": "preserved-source-reading",
+      "bytes": 1371,
+      "sha256": "9f53c70d8c34eab597a16a14b42b343e0c749aec710fafc3b340eab2b269dbff"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-1f52daf1751cabce.json",
+      "role": "preserved-source-reading",
+      "bytes": 1339,
+      "sha256": "e8174c74c8e633b178f0da28624a72428d0daadfac385a9aa20ee5a744028680"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-1fa9e0617517dd5a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1397,
+      "sha256": "e9a706a2261d5460c623a303db597813f71621ae6d21f8255fd5acc49d2b0aa4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-221fc1441d4b4313.json",
+      "role": "preserved-source-reading",
+      "bytes": 4505,
+      "sha256": "50d63e1ea5a89853dc19f28499e993c149343f49c73d7976896410f6cacf1eb4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-2343adc3d8482c05.json",
+      "role": "preserved-source-reading",
+      "bytes": 1408,
+      "sha256": "9d273a02d24ee5f18be6077b21ec3f95d77c232fb658021d20693fa048baf105"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-23c118b68eb8ddd3.json",
+      "role": "preserved-source-reading",
+      "bytes": 1329,
+      "sha256": "7071e78003fe918024bfd43ee6940e0d66b09cef71da31ad47440ecf99fb1e1b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-23ef5543d3c730ea.json",
+      "role": "preserved-source-reading",
+      "bytes": 1339,
+      "sha256": "49c415a4bcc6605212dd8dca3ada132bbe77463fa07acd3bb1751e600a063903"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-26169d17aa46bde4.json",
+      "role": "preserved-source-reading",
+      "bytes": 1321,
+      "sha256": "1d59207ee9219f761b009e0985d1764ef6fc9afab867a9e8673b7b4eea5c46d7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-295b3ca91d54ef8a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1400,
+      "sha256": "bf88269147df29c2972bbb4538aa2b0fd2e875fb5cd56b8c1d488f2673fc3a54"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-2b3c4c0550cd3d32.json",
+      "role": "preserved-source-reading",
+      "bytes": 1833,
+      "sha256": "f813c1b164227255162456cd46db8b2912a35d53522b2ccb080393ac453f4942"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-306ab0b0bc287fe2.json",
+      "role": "preserved-source-reading",
+      "bytes": 1422,
+      "sha256": "ebad2a05a5ca41d0fef9f59cd160a831de541d92f0eb762a7d971bbe0cda1774"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3156b71faad9191e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1355,
+      "sha256": "600e03ac9d10145d58ccbc842fc7da3719ba9e4d26c12014cb1c7205f1631202"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-320d728d4d7421fc.json",
+      "role": "preserved-source-reading",
+      "bytes": 1297,
+      "sha256": "fdeebda9f6508c05bb7c0618849552147a2994dd9ceeb21436a6e0aec2f24bb7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3273ee75a218748f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1431,
+      "sha256": "ed4e0a2b05f72027a5f5435f205a78189ed01cb951f3e7bf7977ad71ab819722"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3718c8e197359aad.json",
+      "role": "preserved-source-reading",
+      "bytes": 3457,
+      "sha256": "4f43009aac716984bef7a25faa6a1fdef8cf0c5a6b3d4685458f4afa408b867d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3796b63bd491cb67.json",
+      "role": "preserved-source-reading",
+      "bytes": 1397,
+      "sha256": "e32ae8024e444d6775c86a53c3cb55dc9d8ea1e634633ee3702655ed9fc5e2f1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-384a671185ccd4ee.json",
+      "role": "preserved-source-reading",
+      "bytes": 2361,
+      "sha256": "a0c9e687482c3843239c6f9ecf267d331c329c3b66e182d941c6df7f953f05e7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3af8d18671ebf98c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2397,
+      "sha256": "87a8982aceebb1b801cd0d3fef7810d5f2ddb5ab66c5bad1120d8e6d840e4e81"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3d5dcdcb12510185.json",
+      "role": "preserved-source-reading",
+      "bytes": 1885,
+      "sha256": "ff4a6d6aa6b156406f690893ca5d6d79b1f4f347c668dae13a59673e83c3aa3c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-3d747cda8ee17894.json",
+      "role": "preserved-source-reading",
+      "bytes": 1352,
+      "sha256": "1149eb6e40f626f594ad559a974d3057026ebb997adbd8e584b10f286635f84b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-40baca4d120d8ac9.json",
+      "role": "preserved-source-reading",
+      "bytes": 1342,
+      "sha256": "a26fea1df395d10882395190b49991efdd3f70f1e72447dd16637e46757f88ac"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-412ef550c55846bc.json",
+      "role": "preserved-source-reading",
+      "bytes": 2376,
+      "sha256": "ff7a54f74199fd775114911cbf9510ce0dd94a0921e305cf9859b1f330ab27a1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-413671467a0e7b1f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1470,
+      "sha256": "cd4c05eec04040802f34b15848e04a0daa1d420de0344d0c48046ef9a990ebbc"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-42ddf40e11cecc76.json",
+      "role": "preserved-source-reading",
+      "bytes": 1351,
+      "sha256": "4006630c901255d0a434f22d9feb45c64ce99b4df9249c158ea67d7bc8bab924"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-455b3a90933aed5e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1357,
+      "sha256": "0ddd753ba602d7f6ee87955cc39f26b5b40c53eb33941d11232bcee6ecb6a212"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-45d00b5ddfc55c30.json",
+      "role": "preserved-source-reading",
+      "bytes": 1365,
+      "sha256": "9563f4412a5c8ba3c390be4f6b85cbfb312112db32027c4cbd32e963c14351c3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-468ab093b4a1e852.json",
+      "role": "preserved-source-reading",
+      "bytes": 1886,
+      "sha256": "cc7ef4f3aa277f181df3d4e3598ea7f13e236f7db2e89ccd185271cfd153d166"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-4e299af334922a88.json",
+      "role": "preserved-source-reading",
+      "bytes": 1404,
+      "sha256": "b30ca6cf7f5307011bdc1b80345861b8c8e5788675c62eb4cd4b1eeeef4d0b78"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-4f290c2423e6e222.json",
+      "role": "preserved-source-reading",
+      "bytes": 1494,
+      "sha256": "5a4ebffc9375d6cc7ac666080fd7a930af2a9875b1eec3a1d8666bfdf2f60a48"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-52acd8d6efe7b9b6.json",
+      "role": "preserved-source-reading",
+      "bytes": 1335,
+      "sha256": "f22fc004c8fce87c90c4f4ba86ae016164307a13f797a8129682a32c9a5cef77"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-5334b78b3d150289.json",
+      "role": "preserved-source-reading",
+      "bytes": 1345,
+      "sha256": "fcf85d2f1d91ba7e16af1c710ef1189079189ab488e2f286a5e8b96437dd4f98"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-556ca75dc5c98999.json",
+      "role": "preserved-source-reading",
+      "bytes": 1318,
+      "sha256": "90504bcdb42000e93dd4446392200e523816eacdc15aafd69c2d327306d870e7"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-590ddad84b29d2ac.json",
+      "role": "preserved-source-reading",
+      "bytes": 1332,
+      "sha256": "a7c2ef1134c29b24dae79e69e07e933955ccb7e678cbd0346d6404b47a60d3da"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-59b798fa9007a96d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1888,
+      "sha256": "e545d0b4e8f14e51aa3a960248672ea4a69b1fc424e2bec40eb649e3d76e49bd"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-5b35eaf09876b0fb.json",
+      "role": "preserved-source-reading",
+      "bytes": 1324,
+      "sha256": "e62d6a5d9ffdcc051a99772568eadfab571340018a5ee2ddf55eeadeaef7fdd8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-5e8fa30758fafea5.json",
+      "role": "preserved-source-reading",
+      "bytes": 1341,
+      "sha256": "388e447a0778a10949df87378229095895fee3b64bf4357a75f97efda67c323b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-5fd6f097de821326.json",
+      "role": "preserved-source-reading",
+      "bytes": 2361,
+      "sha256": "533299d28c8376a274eec7f78c98c7af0a44ca3382d617d406852df5d6e0fb38"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-604372c0a87edd6c.json",
+      "role": "preserved-source-reading",
+      "bytes": 1372,
+      "sha256": "a49f2c5f2ee35c1ba58a2353b0b15bb6f6453a1af05ace91b26e9680b3dbcb88"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-60832c1a9eaf93fe.json",
+      "role": "preserved-source-reading",
+      "bytes": 1722,
+      "sha256": "5855b7c0cc99d98ab857b0511d168007c5a07f171ac343b6480be8032ae7c18c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-64529789a9438d46.json",
+      "role": "preserved-source-reading",
+      "bytes": 1377,
+      "sha256": "25c8225abd530d911a7adf489a1eff1e52d1623d29ff29faf876247a9c0a00fb"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-66c005b5c5b13878.json",
+      "role": "preserved-source-reading",
+      "bytes": 1359,
+      "sha256": "4e94b85efe412114c6aadde02a3790c3e7c3f4739d0edd6379e3be3762ef86a9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-683dffa9fef91a1a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1376,
+      "sha256": "53695eb5ea3e18880545e182e10e966c5eca5acdbe9ba6bf8d4998ef785f3e07"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-69cf45d7df6f48c3.json",
+      "role": "preserved-source-reading",
+      "bytes": 1446,
+      "sha256": "3d9cce06f9c1e0f1c6667d2f23e18bc3e861a7087d62cf83064d4a766dee406d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-70e3903be90dc6cc.json",
+      "role": "preserved-source-reading",
+      "bytes": 1371,
+      "sha256": "ce9627e1803c317837315f441dd92fa47eace044f12dc0ccf1c9ce4a4a060866"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-73395303616e42c1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1480,
+      "sha256": "cab858f73c9fe8772a40a1d126036dbbbef0bcaf974060f9ded835a2fda26418"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-74b2a1646ee8b49b.json",
+      "role": "preserved-source-reading",
+      "bytes": 1503,
+      "sha256": "29f15a118201a2133392d77f8cbdfaca2a810b38581f1fe51f3fd4c21ea7c0f9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-77bcca8a3141f796.json",
+      "role": "preserved-source-reading",
+      "bytes": 1423,
+      "sha256": "0d803ef66dbbee15884ae2e9d4ffcc1d54c51fb25ab939b844ed7fd1dfc1020d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-78bcd7c11b6261d9.json",
+      "role": "preserved-source-reading",
+      "bytes": 1382,
+      "sha256": "7a227d1be87be6e422650437ca34a114170b7c0bc0d96212b17a750b7bf48b22"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-7b9cfef421d4e954.json",
+      "role": "preserved-source-reading",
+      "bytes": 1442,
+      "sha256": "b344a0ccd47e1ed2ff882a3716df2564a6edbe5bcae3ca5a9d9124399f406e27"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-8007e0572da07a1d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1405,
+      "sha256": "41e4a787b9f1b19d7b3875cc7ea85015bad37c465a5e153828d2323c237ad6b9"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-81c618e3b071ef00.json",
+      "role": "preserved-source-reading",
+      "bytes": 1854,
+      "sha256": "3dbb24a9c3c94545cea131d0a629603617c1b2036a6dac2d6e72bf71780889e1"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-82b2a0a064e4cb26.json",
+      "role": "preserved-source-reading",
+      "bytes": 1326,
+      "sha256": "511e403b2c0893c9a2fb13507933bec8849eb0de1b3828b0318682df577f9bf5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-837724a3dc2ac212.json",
+      "role": "preserved-source-reading",
+      "bytes": 1312,
+      "sha256": "d82fc5083e4cefe27c4ce56fe5673f3d0dcc7517fab51fbe591a5c917d3b344d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-84c9ce5b846f0083.json",
+      "role": "preserved-source-reading",
+      "bytes": 1359,
+      "sha256": "995cfb10f65727716928180fcd4926fbba30265388fa3431f1435346c39dcc67"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-8b5b9ba54d3a479d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1373,
+      "sha256": "dfae67bd8b137995ec99185bb721c49852b32e9b67f6999dc12417303d52f0e3"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-9442a932c0f97de5.json",
+      "role": "preserved-source-reading",
+      "bytes": 1338,
+      "sha256": "3cf9f0094c89e08a66e1ddb488d270d5a2e9db939f365e95e3e2d5d4a7a66517"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-95ac0f20396588e6.json",
+      "role": "preserved-source-reading",
+      "bytes": 1315,
+      "sha256": "fae217f7fd97090b3d0b0edc013ecf3f31c3c0ecdecbf6f6438f8e6d69950c25"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-975ac5f1fd24c0c6.json",
+      "role": "preserved-source-reading",
+      "bytes": 1403,
+      "sha256": "5826a8f0e9c0b01e6d531cdd19af44a1e3dc2406306413e7edc651e2ba9c45b2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-984baebc500427cc.json",
+      "role": "preserved-source-reading",
+      "bytes": 2341,
+      "sha256": "5fcbb0865ef0e599be3efada04b6ccc330f60e3308d3aadec84424d22247b09c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-995108564aed1184.json",
+      "role": "preserved-source-reading",
+      "bytes": 1355,
+      "sha256": "8f7bae5673206780f7c0e2574c4545a1e0dfa7757d758f0e63ed42026228f7db"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-9bd493347ca132cc.json",
+      "role": "preserved-source-reading",
+      "bytes": 1374,
+      "sha256": "8fed11f598825d8c4ad3012f78135fab6d45f88465e88f47e9f3c6885efca34a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-9e9e775a56fe2a6f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1842,
+      "sha256": "56ab74b15891624232d768185d1f607a3cbc28d8c5e00faa7a170dce606d450c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a04b933c2a10af11.json",
+      "role": "preserved-source-reading",
+      "bytes": 2306,
+      "sha256": "2f2f3e53f41cd7f44fb217cee0512bd7944e637b46e84138846219f9721febc5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a0fab425aad1947b.json",
+      "role": "preserved-source-reading",
+      "bytes": 1383,
+      "sha256": "55d7eed601ae26c02cc9d5ba6d0b25dd1c3d489f19330bf73727e93843c2c4e2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a22050faa3a27ec8.json",
+      "role": "preserved-source-reading",
+      "bytes": 1836,
+      "sha256": "73d04aff01ff0cbc02f3e7b74a398385d1d589b8aba211b3ae723f1093d377b2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a4323b3ca46650db.json",
+      "role": "preserved-source-reading",
+      "bytes": 1344,
+      "sha256": "f72a3886132ea72c941155186fefce6d765f26254dd8b888186057c00cddf169"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a73ee4cdbeda8415.json",
+      "role": "preserved-source-reading",
+      "bytes": 11302,
+      "sha256": "410e863a9603f89c21074836d036044b4f16bc06d8438bbae64f51305e01d93e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-a9aff6b7fa8f6e9c.json",
+      "role": "preserved-source-reading",
+      "bytes": 1409,
+      "sha256": "1049676e75bc7f5683f7701aed64259fd6301dea6de634e7cb62c2676e4aa957"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b09468295480018f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1848,
+      "sha256": "310846432c6f8c065b265d95ed4c7ecf2e673f287373f53be9aa5e435ebac7ed"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b1926dcc4a2ceca1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1322,
+      "sha256": "cc4a260ca095c3b55ac903e472dad2244ce470b678cc46909388804551b8a339"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b312d983a0a31ca5.json",
+      "role": "preserved-source-reading",
+      "bytes": 1883,
+      "sha256": "09ffb44349fe46612d4a19ff64105a24b77a51ab1c360fdb75527973e55ff9b0"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b4abb3046bdf3b94.json",
+      "role": "preserved-source-reading",
+      "bytes": 1351,
+      "sha256": "43186e374e45c3a7c35dfebe76e873610f1581bd81bc7ba4beea57c8d4b04615"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b5e7491d0295dd55.json",
+      "role": "preserved-source-reading",
+      "bytes": 1903,
+      "sha256": "64335a7a184a6fac2d6eff6c4ffb33ab37133ce2f015870c08074d2ebc6e4f7d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b82f7b758b4c4e35.json",
+      "role": "preserved-source-reading",
+      "bytes": 1385,
+      "sha256": "074f7ca791858d45d5e56cf6cb8649a8737fccb1b932328fb8caf63e3a5ddf5b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-b8f90a132d922da3.json",
+      "role": "preserved-source-reading",
+      "bytes": 1401,
+      "sha256": "a0dbf6fa3b922d160e3fb993dbd07cac0c2258ee3cf756f0aa41d72f79a0976f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ba55bf84c75b0a52.json",
+      "role": "preserved-source-reading",
+      "bytes": 1369,
+      "sha256": "d9fe12807b15c3aa28b1f5c294771ceb1a5e3ac46a2685980a993c4e676c8b78"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-bcc0f5ae6e611f29.json",
+      "role": "preserved-source-reading",
+      "bytes": 1443,
+      "sha256": "f7a004dd7d365eb3327c688d1c77f7e8cf406711da9305f3e8f45892b85ea56f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-bce8a117607ef51c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2397,
+      "sha256": "c9843a3fd2f776408f2a4f93129b55cd0faa41b9213660573627afdaee607014"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-c040376d7d848b5d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1440,
+      "sha256": "65789f5e2e0a6702eade7c1fdcf1e4d43d657b1d5025c94b8b12d6fcbb936310"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-c4c76481cad45964.json",
+      "role": "preserved-source-reading",
+      "bytes": 1417,
+      "sha256": "ce84b65e6a059948a8708faf38cd3e616d83380933b36560105d987a48d3e59d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-c64ef2d9d023d85d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1333,
+      "sha256": "05c1a9cae194933e95e6da7a9d43b72b02ca431871d9a00aca015a4054f1b90f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-c7d724b326dde085.json",
+      "role": "preserved-source-reading",
+      "bytes": 1440,
+      "sha256": "223c273cff284a0c6b4565b5031978c2b262013ca8b5b96e34b98510190600ae"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-cade9a586fe51fbb.json",
+      "role": "preserved-source-reading",
+      "bytes": 1408,
+      "sha256": "82e418c129af06e7054fa22b7eabef41a798e58e27281be18d1e8dbf2405f3be"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-cd02d0670e4e888c.json",
+      "role": "preserved-source-reading",
+      "bytes": 2038,
+      "sha256": "3e1b54fd085c073c9ab47f6097a98a6410c3b8a9f3c5440889cdb58170b0cd4d"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-cd0da196c6ea1dcb.json",
+      "role": "preserved-source-reading",
+      "bytes": 3358,
+      "sha256": "52bdfab6904df0025326a79dd3d4fabdeba5636d732c4c4da5e5022325e0211c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-cd563888ce662d6a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1857,
+      "sha256": "c611c90c412492890e303d17daf1bf6a0e83b6850bb21e6e8519ce4c9d33e74a"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d2f65d0c4feb4829.json",
+      "role": "preserved-source-reading",
+      "bytes": 1337,
+      "sha256": "d5d6ce3447a151456d9bdec16db8330a1599a83828387b0758286aa1ac37a722"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d37d0952d4e7f3d6.json",
+      "role": "preserved-source-reading",
+      "bytes": 5109,
+      "sha256": "049dcc7c9c16b577a1f7fb7c3ca4ef4fc381e4cffc7214f1e7afe47753e84f2f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d3a246ab370c9164.json",
+      "role": "preserved-source-reading",
+      "bytes": 1393,
+      "sha256": "41634acc0f64779ad0e7f7e095d1de4941820e73729a5c23c835cf6e48f36b8f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d3c661e7e837efc1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1367,
+      "sha256": "a5df56216029dfd080b1d0446ff5492a63c157cf7b3fe20358bf28718f3667a6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d3e7273fa2439806.json",
+      "role": "preserved-source-reading",
+      "bytes": 1380,
+      "sha256": "b134cbf8cb6a7e3ed187195dfe21909d3a82ca9daa3122e80d9c2dc738ce2616"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d49b9061efe5ffd3.json",
+      "role": "preserved-source-reading",
+      "bytes": 2910,
+      "sha256": "2d696fdb4b8ad1df40462ac9a14d2695f903410f0d3ce29960d06b8a5146bc2e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d6601f68adf75940.json",
+      "role": "preserved-source-reading",
+      "bytes": 1350,
+      "sha256": "a0c97af479efe7852e00c1913a3d644a8692483f8f21c5161da5f6a9daffbbed"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-d8cf3db4b24cbe4a.json",
+      "role": "preserved-source-reading",
+      "bytes": 33230,
+      "sha256": "a82f9aa34859142deb243760d07e8822314c1feb04d0107176518cec3f807477"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-dc6eb3d328dc0969.json",
+      "role": "preserved-source-reading",
+      "bytes": 1420,
+      "sha256": "9e691eb88f5e0d20865c6a9b8891152a5d519b40d111f8ceb0c2087fbbaa07ed"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-dce855aae731264a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1348,
+      "sha256": "3826ea8a476376e31a0a4b3708315660532cb2fb8df437a3d8b4626a2798a439"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-dd899fc9bd981da0.json",
+      "role": "preserved-source-reading",
+      "bytes": 6293,
+      "sha256": "9a46a530ceab3fcd13a7a6e2b9e7f476179da905a1a7cb70df29869dc50b0fd8"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-e1c27c73cb3b43bf.json",
+      "role": "preserved-source-reading",
+      "bytes": 1320,
+      "sha256": "2d685cdf4dc5aa2eed75fbf58862edbd66c4ac569773e7303b76d47fa031b53b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-e40be2b18d214481.json",
+      "role": "preserved-source-reading",
+      "bytes": 1470,
+      "sha256": "c1155194b3626614fd6bbc35dbe7c3c612c4996adc9d64022e2841ffbc362f9b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-e4a06a89e96bb2b5.json",
+      "role": "preserved-source-reading",
+      "bytes": 1325,
+      "sha256": "2ebde635f4a1add87430ce3d9f1ec307687606b663981afa03624c7d4a7c7ca6"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-e7f8428e8d4e7cc2.json",
+      "role": "preserved-source-reading",
+      "bytes": 1347,
+      "sha256": "6e1eb3347e285aab2e2ff55c4e6a73d459d12f77e75a9d900bc56412d81ad461"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-eaa2794db153e78c.json",
+      "role": "preserved-source-reading",
+      "bytes": 1337,
+      "sha256": "4bbe210f0da8e8dcc96f44c680ec7bb96cfaeea8f2d6dd0ce1bb5de20d775e0e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ecde0ec85f41b791.json",
+      "role": "preserved-source-reading",
+      "bytes": 1404,
+      "sha256": "4942f0ff5d308032c0ed071fe2be1bb60fe3d81b38fd6aa48973a305e8b6c462"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ee5b178e4172551e.json",
+      "role": "preserved-source-reading",
+      "bytes": 1344,
+      "sha256": "fe544b799ab41b48a2daf9bb7a1f6277b09fd55cc3eaf307c20006a3291b5a02"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ef1eb2d0fad38f6f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1360,
+      "sha256": "922235807b654eb8aa5207b546f31965410b8dae1fb3c9229ed34ad42ce4f7e5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ef37c8005ccb5d67.json",
+      "role": "preserved-source-reading",
+      "bytes": 1348,
+      "sha256": "8ea486ed25f1a1cf43f2909f7950d8a91734be20a540f7f62494c55b0e22255f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-f0e8905adceddb77.json",
+      "role": "preserved-source-reading",
+      "bytes": 1290,
+      "sha256": "533a463ef46ed9d765157c02ae5149df67190c396b9bcadc9f6f53bcf5b9a711"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-f16fc1bec2036d22.json",
+      "role": "preserved-source-reading",
+      "bytes": 1386,
+      "sha256": "921c051bd25ea78d5cfaa20fc82be4015ce6765ee4559350617f1cd72f15e77b"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-f20ebf1a9fc25419.json",
+      "role": "preserved-source-reading",
+      "bytes": 1960,
+      "sha256": "0c28716a94d8d107d7c0c419f5fb6c62c2d0d80a595436b2f03b479d98b25010"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-f47b9e8217609582.json",
+      "role": "preserved-source-reading",
+      "bytes": 1430,
+      "sha256": "7f2d5277cd2df95a4e1d0fe1a7130f19e3407d157dd1da60ac8694c81a87fc4c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-f8ed13ad559ac6f2.json",
+      "role": "preserved-source-reading",
+      "bytes": 1318,
+      "sha256": "335df33b33fd68813c872beadc4d343fd4689fdcde29859e11e2847ef95ba85e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-fc0bd312dd332d3d.json",
+      "role": "preserved-source-reading",
+      "bytes": 1323,
+      "sha256": "2ee1f6896fc297b205c94e06d030469a6eb5c9e64b0e93995a7bc2c5aaf96a2e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-fd5dfcfa9408ded1.json",
+      "role": "preserved-source-reading",
+      "bytes": 1403,
+      "sha256": "9e99f36e67d6ee2a065c3fe5eb9e8e38363d5aab9c7724b031a06b28277e2a17"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-fe7a6837e9054e6a.json",
+      "role": "preserved-source-reading",
+      "bytes": 1332,
+      "sha256": "081d0f6af16849bbc4dbef3d6865ec0d72b99659fa4fd463a537862e4b957e46"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-ff4f5b66939af282.json",
+      "role": "preserved-source-reading",
+      "bytes": 1311,
+      "sha256": "e2ec59ee52c2b3a31053464f587664d0275e37e84e0fd44882c73572135fe51f"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reading-notes/threeprov-source-fff5ba237c12d50f.json",
+      "role": "preserved-source-reading",
+      "bytes": 1333,
+      "sha256": "c22c1552388ce376d21c9cd1f91f0b77136fcc4098d11356774e14b124f3eb7e"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reused-regulatory-sources.json",
+      "role": "research-support",
+      "bytes": 1468,
+      "sha256": "43cf4117fc719645060ae5f945475f9b0390cb697446d7537e248e745da934f2"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/reviewed-memory.json",
+      "role": "research-support",
+      "bytes": 67693,
+      "sha256": "39ba4272eefc5a5d2baafdf599d02e70d805f329559ab810da06600ba4b3733c"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/search-response-index.json",
+      "role": "research-support",
+      "bytes": 480422,
+      "sha256": "84ebf174010a7ae20d2d206f58cd0ae146209d93a2180545786db614a3e5d8ab"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/source-fetch-index.json",
+      "role": "research-support",
+      "bytes": 1696521,
+      "sha256": "bb319420c3d74c6d1aac6706932e3e82f11f43e1dad4f51a979135b42f6950e4"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/unit-search-log.json",
+      "role": "research-support",
+      "bytes": 731905,
+      "sha256": "bee7945f2f30e006a3ab9331cb5832bd254837c577018ad3a6a718f1004d08f5"
+    },
+    {
+      "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/web-search-log.json",
+      "role": "research-support",
+      "bytes": 40935,
+      "sha256": "18024729b5c13099b1aa5261bbb7ba8c77c4edaa6a6f2e306409acc80aedbb50"
     },
     {
       "path": "research/china/integration/china-collection.json",
       "role": "current-integration",
-      "bytes": 7552,
-      "sha256": "5d2bd3b6d5e350386bf822714d753deff2b5ebb539dd4b135c0e0a4c24a95d6f"
+      "bytes": 8160,
+      "sha256": "6d79384fff9ffd2d843ab3f557430270645c6b34f1a8c22157b16c1fafd55e08"
+    },
+    {
+      "path": "research/china/integration/current-collection-audit.json",
+      "role": "current-integration",
+      "bytes": 2570,
+      "sha256": "523cc6ae59d344c03b0584a0bb588083024fa5d9c0a968c4933d9e135033b1da"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",
@@ -73,8 +1729,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "research-support",
-      "bytes": 3833,
-      "sha256": "70a2e6b340f5b8fe3becfd20928ef22ada903731004843914eb464b1bf1ca80d"
+      "bytes": 4181,
+      "sha256": "b2067fac620efa9868ed76b257c54f31fa3bd1aa9ddd1d5f6cdd03ffe969e25d"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -151,20 +1807,20 @@
     {
       "path": "research/flavors/county-maps.json",
       "role": "research-support",
-      "bytes": 78054,
-      "sha256": "6227810d7360a395aaedd550262b7bb9bd59e91cee9e272999ef9f739b1fa4fb"
+      "bytes": 98533,
+      "sha256": "fefae401383d818fa36d232368530fbda6a1ffa05ee0ed1353f1a4efd7ab80b8"
     },
     {
       "path": "research/flavors/coverage.json",
       "role": "research-support",
-      "bytes": 51158,
-      "sha256": "f80e1e1d78881cb973a9e87f42940e676157ce60f44339ab9adb55627276f09a"
+      "bytes": 65275,
+      "sha256": "7725bf5b6bf14d29d112960ee7154ec74b6b8fc06494b21a9c078b6cff59482d"
     },
     {
       "path": "research/flavors/images/coverage.json",
       "role": "research-support",
-      "bytes": 137038,
-      "sha256": "b517d6951c923b960673335c589d51a74dc0c77bf5a2b7008931ea8d27acc7fc"
+      "bytes": 165694,
+      "sha256": "ac00da739a75a1db26c854a8318d74d0815e9764392103d8f137398baa4bdb56"
     },
     {
       "path": "research/flavors/images/review.json",
@@ -5047,8 +6703,8 @@
     {
       "path": "research/flavors/queue.json",
       "role": "research-support",
-      "bytes": 2192396,
-      "sha256": "c4cdc375b04b3491062b3389c893ed176e1552b389dd3eb24c7c0dd21c3e4ac1"
+      "bytes": 2696782,
+      "sha256": "1cec9fae05ac78bf6fa8a1911e4036f089f073187de569fbc544ecb04c9c56a4"
     },
     {
       "path": "research/flavors/reading-notes/2026-11-14/ah-pomegranate.json",
@@ -5341,8 +6997,8 @@
     {
       "path": "research/flavors/sources.json",
       "role": "research-support",
-      "bytes": 1407506,
-      "sha256": "02fcb5264a11010c6fa4497e66a0a051dd705f6a44735d33f521d607d6d1e7e6"
+      "bytes": 1674026,
+      "sha256": "6bd3a9d0f7cdd0d4e82c04196b7d243785e7d833c57be8668f91004ad477b91b"
     }
   ]
 }

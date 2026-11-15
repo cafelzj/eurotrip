@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-191182ce75f1fba0",
+  "title": "地理标志产品公告 · 2009年第60号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "191182ce75f1fba018a263ca5dec9a7c28214ee6",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第60号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC60%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "3ff1575ed50536144b545df698653461c5410a102084202e80cb6d8a6f18cb4f",
+    "textSha256": "755920974b292166b2bf5d3625fa4e1ed2f188a1dc98a0c9c5e7398ed6785d9d",
+    "textLength": 6629,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/191182ce75f1fba018a263ca5dec9a7c28214ee6.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/191182ce75f1fba018a263ca5dec9a7c28214ee6.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-337103c6366adf6392",
+      "name": "沿溪山白毛尖",
+      "scope": "沿溪山白毛尖地理标志产品保护范围为广东省乐昌市境内的九峰山脉。",
+      "type": "tea",
+      "variety": "乐昌白毛茶",
+      "sensory": "外形肥壮、色泽绿润、茸毫披露,香气清新馥郁,汤色嫩绿明亮,滋味鲜爽回甘。按产品质量要求分为特级、一级、二级。级别特级一级二级项目外形嫩绿披毫绿润显毫黄绿嫩香气清香馥郁持久栗香持久茶香纯正滋味鲜爽鲜醇醇和汤色嫩绿明亮绿明亮黄绿明亮叶底嫩绿明亮绿明亮黄绿",
+      "process": "鲜叶摊放→杀青→揉捻→毛火烘干→摊凉回潮→足火烘干→包装→成品。1.鲜叶摊放:厚度≤15cm;时间8至12小时,每3小时轻翻一次。2.杀青:采用连续滚筒式。3.揉捻:轻揉搓条。4.毛火烘干:风口温度115°C至125°C。5.足火烘干:风口温度90°C至100°C",
+      "sectionSha256": "03efcd4d584c2b8db9ebacc510905090d31a136a075d4592934e9454f7fd4ea8"
+    },
+    {
+      "itemId": "threeprov-97e1e6e0722b3aa252",
+      "name": "北乡马蹄",
+      "scope": "北乡马蹄地理标志产品保护范围为广东省乐昌市乐城街道办、北乡镇、廊田镇等3个镇、街道办现辖行政区域。",
+      "type": "ingredients",
+      "variety": "要求。广西八步种",
+      "sensory": "芽短紧凑,脐部较平整,表皮呈红褐色或深红褐色。肉质脆嫩、清甜化渣。单果重≥25g",
+      "process": "",
+      "sectionSha256": "7f200f151db5520d4585cfbc83dc3bd79c8680bd51d6bb1913c3f39ee640afc1"
+    }
+  ]
+}

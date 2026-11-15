@@ -1,0 +1,53 @@
+{
+  "id": "threeprov-gi-b0386d058cdaa517",
+  "title": "地理标志产品公告 · 2010年第30号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC30%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "b0386d058cdaa517e9cd4c2190bd2f4c4636f474",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第30号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC30%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "57a5b0d97678e28eb79598e54ce4a740d8b393539cbf2afdcd4317921dccf51d",
+    "textSha256": "f49a231d8d96e0a61f126807de985134f8de8651abe581efd15b74fb575b57e8",
+    "textLength": 7607,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/b0386d058cdaa517e9cd4c2190bd2f4c4636f474.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/b0386d058cdaa517e9cd4c2190bd2f4c4636f474.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-6409b8d0adf11f1502",
+      "name": "凤凰单丛(枞)茶",
+      "scope": "凤凰单丛(枞)茶地理标志产品保护范围为广东省潮州市潮安县凤凰镇、铁铺镇、文祠镇、磷溪镇、官塘镇、登塘镇、赤凤镇、归湖镇、古巷镇、凤塘镇、万峰林场;饶平县浮滨镇、钱东镇、樟溪镇、浮山镇、汤溪镇、三饶镇、联饶镇、新圩镇、新丰镇、饶洋镇、上饶镇、建饶镇、高堂镇、新塘镇、东山镇;湘桥区的意溪镇、桥东街道茶区;枫溪区的云步草岚武、槐山岗茶等30个镇、茶区现辖行政区域。",
+      "type": "tea",
+      "variety": "国家级茶树良种凤凰水仙品种中分离、选育出来的品种、品系",
+      "sensory": "具有天然花香、清雅;浓醇、回甘力强;汤色金黄至棕黄。项目内质外形指标香气滋味汤色叶底紧结壮直,匀天然花香,清鲜爽回甘,有金黄,清澈淡黄红边,柔特级整,褐润有光高细锐、持久鲜明花香明亮软鲜亮紧结壮直,匀清高花香,持浓醇爽口,有淡黄、柔软、一级金黄清澈整,褐润久明显花香明亮尚紧结,匀醇厚尚爽,有淡黄、尚软、二级清香尚长清黄齐,尚润花香味尚亮尚紧结,匀三级清香浓醇棕黄尚软、尚亮净,乌褐",
+      "process": "初制、精制工艺共12道工序。1.初制工艺流程:晒青→凉青→做青(浪菜)→杀青(炒茶)→揉捻→干燥6道工序。(1)晒青:晒青失水率控制在10%至15%之间。(2)凉青:萎凋的鲜叶水分得以补充,叶细胞恢复生机,呈紧张状态。(3)做青:做青是由碰青、摇青和静置3个过程往返交替数次进行,次数不低于4次。(4)杀青:高温快速,杀熟、杀透、杀匀。(5)揉捻:条索成形紧结,叶细胞破碎率50%至60%。(6)干燥:烘焙二次以上,茶胚失水率90%至94%。2.精制工艺流程:归堆→拣剔筛末→拼堆(分级)→烘焙(提香)→摊凉→包装6个环节。(1)归堆:同香型归堆,翻拌均匀。(",
+      "sectionSha256": "d16eee784df071c6f53d2d5e4b6dbb96fab9283fb463925ca91917a7fdf8ebe5"
+    },
+    {
+      "itemId": "threeprov-2239d756a7f7fc25dc",
+      "name": "火山粉葛",
+      "scope": "火山粉葛地理标志产品保护范围为广东省韶关市曲江区大塘镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "当地粉葛地方品种。选择无病、粗壮、芽眼饱满的中部茎节做种苗",
+      "sensory": "形状长条形、无分叉,肉质乳白色,口感绵软细嫩,带糯(粘)性,味道甘甜,无渣,无异味",
+      "process": "",
+      "sectionSha256": "6d7d099f80ea62ae54fb0059a133ec27c2d5c5dee4bf664cbd311771a5ef159a"
+    },
+    {
+      "itemId": "threeprov-fdbe19f45ccc028876",
+      "name": "南盛沙糖桔",
+      "scope": "南盛沙糖桔地理标志产品保护范围为广东省云安县现辖行政区域内的缓坡地。",
+      "type": "ingredients",
+      "variety": "沙糖桔",
+      "sensory": "果形扁平饱满;果色橙红鲜艳、着色均匀、有光泽;果肉风味清甜、爽脆化渣、柔嫩多汁、无核率达95%以上",
+      "process": "",
+      "sectionSha256": "8bdc1acec399a44ac18041ae96bffda3a7f4e146c6e6350f5b67138a81389b72"
+    }
+  ]
+}

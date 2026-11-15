@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-ae2887337cef981b",
+  "title": "地理标志产品公告 · 2013年第167号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC167%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "ae2887337cef981b0e4fd6ff65a325757365cd54",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第167号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC167%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "02039fde08af7004ec132272607798976f23b67108b3ccd029b33dd6894ca31c",
+    "textSha256": "a7af3d318f71e4a8798efdee2ae1f5f2ce54d9df72a745d98d5a2e82e7be30ab",
+    "textLength": 13079,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/ae2887337cef981b0e4fd6ff65a325757365cd54.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/ae2887337cef981b0e4fd6ff65a325757365cd54.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-b6791e50945db3ef19",
+      "name": "都安野生山葡萄酒",
+      "scope": "都安野生山葡萄酒产地范围为广西壮族自治区都安瑶族自治县安阳镇、高岭镇、澄江乡、地苏乡、东庙乡、保安乡、大兴乡、下坳乡、隆福乡、板岭乡、永安乡、三只羊乡、龙湾乡、菁盛乡、拉烈乡、九渡乡、拉仁乡、加贵乡、百旺乡共19个乡镇现辖行政区域。",
+      "type": "alcohol",
+      "variety": "",
+      "sensory": "(1)干山葡萄酒:具有山葡萄酒特有果香,果香与酒香和谐;果香味纯正,酸度适中。(2)甜山葡萄酒:具有山葡萄酒特有果香,口感纯正、甘甜醇厚,酸甜协调",
+      "process": "",
+      "sectionSha256": "768b1b8371a45ee32a147ff72eca53363a613763b5750b1c96535617caad984b"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "threeprov-source-3718c8e197359aad",
+  "title": "广西壮族自治区市场监督管理局食品安全监督抽检信息通告（2026年第13期）-中国质量新闻网",
+  "url": "https://www.cqn.com.cn/ms/content/2026-02/12/content_9144666.htm",
+  "read": true,
+  "readMethod": "html-container:.content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/3718c8e197359aad.raw",
+  "originalResponseSha256": "a1e072bc112f28a4dd3351fdd4a034f1d2a193a5ad7d089f67db3de2bfecd23b",
+  "readableFile": "research/.local/three-provinces-20261115/articles/3718c8e197359aad.txt",
+  "readableSha256": "3443c91603b6f898ba3baad31c948b75431e2d866b2c6cf3fffa775d52a34cab",
+  "items": [
+    {
+      "itemId": "threeprov-4e661d7cda159750de",
+      "name": "石埠乳业",
+      "initialCandidateId": "memory-50e15ef631fb",
+      "adoptedFacts": "石埠乳业是南宁相关的地方乳品企业。企业资料列有巴氏杀菌乳、灭菌乳、发酵乳等产品，监管抽检记录也列出南宁良庆区的乳品生产地址；不把销售地当作奶源地。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-7e4df24ef621452d14",
+      "name": "皇氏乳业",
+      "initialCandidateId": "memory-46c103b7812f",
+      "adoptedFacts": "广西皇氏乳业的生产主体在食品抽检资料中列有南宁地址及纯牛奶等产品。这里记录企业与地方乳品的关联，不把常温奶、酸奶和水牛奶自动视为同一种产品。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-753687d31f6b9775f0",
+      "name": "阳朔啤酒鱼",
+      "initialCandidateId": "memory-64deb7432e5e",
+      "adoptedFacts": "阳朔啤酒鱼是桂林阳朔地方风味。广西旅游线路将其列入阳朔美食，监管资料也有同名预包装水产制品；餐馆成菜与包装产品不混作统一配方。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-57dd598ee03eab7722",
+      "name": "桂牛水牛乳业",
+      "adoptedFacts": "抽检资料列出广西桂牛水牛乳业股份有限公司与博白县生产地址，并记录纯牛奶产品。 这里采用的是生产主体与玉林博白的乳品关联，不由企业名称认定每款产品都用水牛奶。",
+      "scope": "官方名单或正文直接记录的地方产品与分类，原料与制法仅采用正文支持部分。"
+    },
+    {
+      "itemId": "threeprov-54213fde2412a9935f",
+      "name": "百菲乳业",
+      "adoptedFacts": "抽检资料列出广西百菲乳业股份有限公司及灵山县生产地址，并有水牛纯牛奶产品记录。 本条将地方乳品企业与具体抽检产品区分，不把其他企业的奶源、工厂或营养指标套入。",
+      "scope": "官方名单或正文直接记录的地方产品与分类，原料与制法仅采用正文支持部分。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

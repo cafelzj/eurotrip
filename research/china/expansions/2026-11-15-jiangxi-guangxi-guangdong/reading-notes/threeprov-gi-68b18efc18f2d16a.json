@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-68b18efc18f2d16a",
+  "title": "地理标志产品公告 · 2006年第141号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "68b18efc18f2d16a0c970d12a08bf54eddc16624",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第141号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC141%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "93a970b45946cc6314aeaed126f9f2dfb87af85c5531582d1b2960ab2fafe65f",
+    "textSha256": "26b75cd2e2dd5c470cef45a8fbb17c2eb9401a96495c4d05bd916473b8b4172a",
+    "textLength": 2719,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/68b18efc18f2d16a0c970d12a08bf54eddc16624.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/68b18efc18f2d16a0c970d12a08bf54eddc16624.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-c610ba09f20b2c23e9",
+      "name": "黄圃腊味",
+      "scope": "黄圃腊味地理标志产品保护范围以广东省中山市人民政府《关于确定“黄圃腊味”地理标志产品保护范围的复函》(中府办函[2004]443号)提出的范围为准,为广东省中山市黄圃镇现辖行政区域",
+      "type": "dishes",
+      "variety": "生产原料取自按养殖规范饲养,符合质量要求的鲜活畜禽(猪、鸭、鱼、鸡等),经检疫合格后宰杀,肉质新鲜、无污染、不得混有其他杂质。1.腊肠:取150日龄至180日龄,体重达110kg至120kg的猪,宰杀后切取无软骨及结缔组织的猪腿部瘦肉,脊部皮下脂肪及腿部硬脂肪。2.腊肉:取150日龄至180日龄,体重达110kg至120kg的猪,宰杀后切取后腿肉为瘦肉原料,",
+      "sensory": "(1)腊肠:肥肉呈乳白色,瘦肉鲜红、枣红或玫瑰红色,红白分明,有光泽;肠体干爽,呈完整的圆柱形,表面有自然皱纹,断面组织紧密;咸甜适中,鲜美适口,腊香明显,醇香浓郁,食而不腻。(2)腊肉:瘦肉呈枣红色或暗红色,肥肉浅金黄色,鲜明光润,切面透明或白色;腊香味纯正、浓郁,具有糖、酒香味,无异味;肉条均匀,肉身干爽、结实,肉头不垂下,肥瘦层次分明,紧贴完整;咸甜适中,肥肉爽脆可口,瘦肉嚼后回香。(3)腊鸭:体表光洁,呈黄白色或白色,腹腔内壁干燥、有盐霜,肌肉切面呈淡玫瑰红色;肌肉切面紧密,有光泽;煮沸后肉汤及肉味芳香,液面有大片团聚的脂肪,肉嫩味鲜。(4)腊鱼:酱腊鱼呈酱褐色,表面有酱料;鱼体基本完整,体表光洁,组织紧密,软硬适度,肌肉切面有光泽,坚实不离骨,咸甜适宜,具有鱼干的特有香味",
+      "process": "经选料、配料、腌制后,利用自然条件进行风干晾晒,然后入烘房至烘干为止。不经烟熏,不添加防腐剂,生产具有季节性,为每年的立秋后至春节之前。1.腊肠:原料验收→解冻→切肉→配料→拌料→灌肠→刺孔→晾干→烘焙→包装。2.腊肉:原料验收→解冻→切条→清洗→配料→腌制→晾晒→烘焙→包装。3.腊鸭:原料验收→解冻→分割→上盐→腌制→漂洗→定形→晾晒→烘焙→包装。4.腊鱼:原料验收→洗鱼→去杂→配料→腌制→晾晒→烘焙→包装",
+      "sectionSha256": "87faa5792c5aa665a5597f0d58784bd1539213b35566d079da9349fd358e8129"
+    }
+  ]
+}

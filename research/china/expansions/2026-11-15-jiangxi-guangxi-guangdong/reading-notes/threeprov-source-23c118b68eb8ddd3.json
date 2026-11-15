@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-23c118b68eb8ddd3",
+  "title": "湛江市市场监督管理局网站",
+  "url": "https://zjamr.zhanjiang.gov.cn/zwdt/gzdt/content/post_1605587.html",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/23c118b68eb8ddd3.raw",
+  "originalResponseSha256": "a7b1d180b95485b6d805a6a7c362760eadc0d05e5effab0c97f69ba26ba148cd",
+  "readableFile": "research/.local/three-provinces-20261115/articles/23c118b68eb8ddd3.txt",
+  "readableSha256": "e659db299f303505d0de279b0ab4b6a3111ba04691cf4d962d5689a06ac45fe0",
+  "items": [
+    {
+      "itemId": "threeprov-4538d9542ccce89bb9",
+      "name": "吴川烂镬炒粉",
+      "initialCandidateId": "memory-dcf351683f01",
+      "adoptedFacts": "吴川烂镬炒粉是湛江吴川地方米食。市场监管部门报道其烹饪技艺规范审查，说明它既是地方小吃，也有工艺整理与传承的背景。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

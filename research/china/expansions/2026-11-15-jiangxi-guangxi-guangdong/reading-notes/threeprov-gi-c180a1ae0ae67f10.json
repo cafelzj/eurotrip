@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-c180a1ae0ae67f10",
+  "title": "地理标志产品公告 · 2013年第166号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC166%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c180a1ae0ae67f1063663cf89d7d547d27b0bc88",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2013年第166号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2013%E5%B9%B4%E7%AC%AC166%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "e2d94d00ee799877416c5619dff0e550ebcce4e613b7fdfa59c56326cc408f1b",
+    "textSha256": "87a823f8da75d6d3e9c9e28e42182e6a681ab7a0fea5ed20b2d8e97838b2b1a6",
+    "textLength": 21940,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c180a1ae0ae67f1063663cf89d7d547d27b0bc88.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c180a1ae0ae67f1063663cf89d7d547d27b0bc88.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-86ee2fc0aefc4998e8",
+      "name": "阳江黄鬃鹅",
+      "scope": "阳江黄鬃鹅产地范围为广东省阳江市阳西县、阳东县、阳春市、江城区、海陵试验区、阳江高新区现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)活体鹅:头顶至颈背部有一条棕黄色的羽毛带,形似马鬃。背、翼和尾羽灰色,胸羽灰黄色,腹羽白色,喙、肉瘤黑色,虹彩棕黄色,蹠、蹼为黄色、黄褐色或黑灰色。(2)白条鹅:骨细、皮薄肉厚、肉质细嫩,肉味香浓,风味独特",
+      "process": "",
+      "sectionSha256": "5ea6ebaff57ca87ff6b3039bfc7547d070bdfd8874fffc4161753e3b0d08593c"
+    },
+    {
+      "itemId": "threeprov-770755d169b8c74c2c",
+      "name": "昭平茶",
+      "scope": "昭平茶产地范围为广西壮族自治区昭平县现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "(1)绿茶:条索紧结、银绿隐翠;汤色黄绿明亮;滋味鲜爽甘醇、栗香馥郁持久;叶底匀齐鲜活。(2)红茶:条索细紧、金毫显露、苗峰均直;蜜香浓强,滋味醇厚甘爽,汤色红亮;叶底肥嫩多芽红匀明亮",
+      "process": "",
+      "sectionSha256": "7d3343b5b7c9d1b1b32c8a6ad996df1d71d60841c62091bf290255f1c67bc142"
+    }
+  ]
+}

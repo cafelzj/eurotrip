@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-18aaebc9832fa9f3",
+  "title": "地理标志产品公告 · 2012年第88号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "18aaebc9832fa9f3ca36934c5ff59e86488af6b6",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2012年第88号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2012%E5%B9%B4%E7%AC%AC88%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c2d08f580cf0181a9e78e72a3e955ac2e87ae2ac7123f5f4805304bd393958e3",
+    "textSha256": "70bd44afad44de8831ef0735a76eaa75efd91be5b133685ec54708107dbfc0e6",
+    "textLength": 7319,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/18aaebc9832fa9f3ca36934c5ff59e86488af6b6.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/18aaebc9832fa9f3ca36934c5ff59e86488af6b6.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-e3cdee6278fb7d4cfe",
+      "name": "新兴排米粉",
+      "scope": "新兴排米粉产地范围为广东省云浮市新兴县现辖行政区域。",
+      "type": "staples",
+      "variety": "",
+      "sensory": "色泽:粉丝润而透明,表面有光泽,复水后半透明;组织形态:丝条粗细均匀,有弹性;口感:煮后口感软滑、柔韧、爽口、不粘牙",
+      "process": "",
+      "sectionSha256": "677bf2362894b7cf3a2c44709374dc3366cfb2c622aced57fff16dac4384a15e"
+    },
+    {
+      "itemId": "threeprov-49223012bc3b92cac0",
+      "name": "灵山凉粉",
+      "scope": "灵山凉粉产地范围为广西壮族自治区灵山县灵城镇、新圩镇、檀圩镇、那隆镇、三隆镇、陆屋镇、旧州镇、沙坪镇、太平镇、武利镇、伯劳镇、文利镇、佛子镇、平山镇、平南镇、烟墩镇、丰塘镇、石塘镇18个镇现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "(1)粉状灵山凉粉:为固体粉末,经加热煮沸冲调即成半固体状凉粉膏体,热饮时呈现糊状,冷却至室温凝结成冻。滋味略甘醇,但食用后有回甘滋味流贯于口中,口感舒爽。(2)凝胶状灵山凉粉:色泽呈均匀的棕黄色至黑褐色,晶莹剔透,为有弹性的半固体膏状物,伴有少量糖液,味微芳香而甘醇,品质滑嫩爽口,具有凉粉草特有气味",
+      "process": "",
+      "sectionSha256": "d2434613a658c4266837077e4b4defab83ba33949c94bfb49a1cb57d0ab72e87"
+    }
+  ]
+}

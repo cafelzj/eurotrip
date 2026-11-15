@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-31fa493255773ee1",
+  "title": "地理标志产品公告 · 2006年第169号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "31fa493255773ee16422f867d1f863b840533d6f",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第169号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC169%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "67c105b1c6cdef82aa18ee7d1884abff27b381b4ee64377a2226ea26ce5a5d51",
+    "textSha256": "e54c5ea877f04152c996c9a5afbf915fde230c93806fccf036b28931ef56d0ae",
+    "textLength": 2268,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/31fa493255773ee16422f867d1f863b840533d6f.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/31fa493255773ee16422f867d1f863b840533d6f.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-25ad9161aa0ddfb35c",
+      "name": "寻乌蜜桔",
+      "scope": "寻乌蜜桔地理标志产品保护范围以江西省寻乌县人民政府《关于划定寻乌蜜桔产地范围的建议》(寻府发[2005]34号)提出的范围为准,为江西省寻乌县长宁镇、文峰乡、三标乡、桂竹帽镇、古潭镇、澄江镇、罗珊镇、水源乡、南桥镇、留车镇、晨光镇、菖蒲乡、龙廷乡、项山乡、丹溪乡等15个乡镇现辖行政区域",
+      "type": "ingredients",
+      "variety": "1.特早熟:石子头1号、宫本、市文。2.早熟:宫川、兴津。3.中熟:寻乌1-1-9、大叶尾张",
+      "sensory": "",
+      "process": "",
+      "sectionSha256": "264520730487e26ea8739262d9bb61746d9cc5a234b59dd2a489a7b72214605a"
+    }
+  ]
+}

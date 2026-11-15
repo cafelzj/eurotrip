@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-604372c0a87edd6c",
+  "title": "广西十二世居民族知识线上科普（一）_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_24440896",
+  "read": true,
+  "readMethod": "html-container:main",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/604372c0a87edd6c.raw",
+  "originalResponseSha256": "934dad2cb68aa80b3ada76ccf4d1434843dfed1c2b944d4e7ceb12b6ab88cc10",
+  "readableFile": "research/.local/three-provinces-20261115/articles/604372c0a87edd6c.txt",
+  "readableSha256": "2b5c1856d4094b73cf886c27253329e7e7060d89b8f6186718e7c3e6fe5f7700",
+  "items": [
+    {
+      "itemId": "threeprov-d02fe3778b0450fe8d",
+      "name": "京族独弦琴",
+      "initialCandidateId": "memory-1bcf16efc1bb",
+      "adoptedFacts": "独弦琴与东兴京族文化关联密切。文化报道记录当地非遗展示与传承，本条归入物品与工艺，介绍乐器身份，不将音乐表演误当作食品。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

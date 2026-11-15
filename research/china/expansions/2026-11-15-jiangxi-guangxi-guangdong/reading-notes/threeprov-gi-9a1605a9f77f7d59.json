@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-9a1605a9f77f7d59",
+  "title": "地理标志产品公告 · 2006年第118号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC118%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "9a1605a9f77f7d59ae89d776d3873a59661d82ae",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第118号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC118%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "f5dc81da9f3fc347e21770700193bd6a39e8d9fd3ce4f5136be498339c5686a3",
+    "textSha256": "f647368affe0b3c675f62dca6fcb3ddfad3cdd236387066cfdd35466d72a0b1f",
+    "textLength": 1234,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/9a1605a9f77f7d59ae89d776d3873a59661d82ae.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/9a1605a9f77f7d59ae89d776d3873a59661d82ae.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-0944b277672de9edca",
+      "name": "湛江剑麻纤维",
+      "scope": "湛江剑麻纤维地理标志产品保护范围以广东省湛江市人民政府《关于界定湛江剑麻纤维地理标志产品保护范围的复函》(湛府函[2004]174号)提出的范围为准,为广东省雷州市松竹镇、唐家镇、北和镇、企水镇、南兴镇、龙门镇、英利镇和徐闻县的城北乡、下桥镇等9个乡镇现辖行政区域",
+      "type": "crafts",
+      "variety": "“东一号”剑麻",
+      "sensory": "加工后呈淡绿色,以后逐渐变成乳白,表面平滑有光泽,粗细均匀且韧力强。2.特色指标:纤维长度≥85?,束纤维强力≥830N,含杂率≤3.5%",
+      "process": "",
+      "sectionSha256": "fecfea3eee6fbd1d9c4113c89c10223e30a0b6df5bcbe823de847b98c5e6dde9"
+    }
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "date": "2026-11-15",
+  "note": "逐条编辑采用稿；与外搜前的独立记忆候选分开，不覆盖封存稿。来源选择固定，不由后续关键词命中自动替换。",
+  "items": [
+    {
+      "candidateIndex": 0,
+      "candidateId": "memory-6a792b197112",
+      "sourceId": "threeprov-source-984baebc500427cc",
+      "detail": "米粉煮熟后拌入调味料食用，是南昌早餐的代表之一。文化和旅游部的南昌乡村旅游线路把拌粉与瓦罐汤并列推荐，适合一起认识赣鄱日常米食。"
+    },
+    {
+      "candidateIndex": 1,
+      "candidateId": "memory-8666aad8bbf4",
+      "sourceId": "threeprov-source-984baebc500427cc",
+      "detail": "以小罐盛装食材煨制的南昌汤食。文旅线路以“南昌瓦罐汤”推荐，体现了当地早餐中粉与汤相伴的习惯；不同罐汤的配料不宜视为统一配方。"
+    },
+    {
+      "candidateIndex": 3,
+      "candidateId": "memory-3f968f590e55",
+      "sourceId": "threeprov-source-984baebc500427cc",
+      "detail": "藜蒿与腊肉搭配的赣鄱菜肴。文化和旅游部线路将其与南昌拌粉、瓦罐汤一同列为地方美食，认识它可从蔬菜清香与腊味的搭配入手。"
+    },
+    {
+      "candidateIndex": 7,
+      "candidateId": "memory-79348b86b2ee",
+      "sourceId": "threeprov-source-c7d724b326dde085",
+      "detail": "阳光乳业是与南昌关联的江西地方乳品企业。上市公司年度报告记录其乳制品业务和公司信息，品牌、产品、工厂与实际奶源分别看待，不把整家公司当作单一款鲜奶。"
+    },
+    {
+      "candidateIndex": 9,
+      "candidateId": "memory-a0d442f15152",
+      "sourceId": "threeprov-source-cd563888ce662d6a",
+      "detail": "瓷器是景德镇地方工艺的重要代表。文化和旅游部茶文化线路将景德镇瓷器与浮梁茶、制瓷体验串联，既可观察日用茶器，也可认识装饰与烧造工艺。"
+    },
+    {
+      "candidateIndex": 10,
+      "candidateId": "memory-0370ba3c0725",
+      "sourceId": "threeprov-source-95ac0f20396588e6",
+      "detail": "景德镇市政府的美食栏目收录了景德镇冷粉，并与碱水粑、饺子粑等米食并列。这里记录地方食品类别，冷粉的具体拌料仍须进一步整理专题资料。"
+    },
+    {
+      "candidateIndex": 11,
+      "candidateId": "memory-1a1db0627538",
+      "sourceId": "threeprov-source-3d5dcdcb12510185",
+      "detail": "碱水粑以米浆配合植物碱水蒸制，成形后可切片烹调。珠山文旅介绍了鸡蛋、青菜与碱水粑同炒的吃法，景德镇的非遗资料也记录了浮梁县碱水粑制作技艺。"
+    },
+    {
+      "candidateIndex": 12,
+      "candidateId": "memory-03f4a73baa2d",
+      "sourceId": "threeprov-source-3d5dcdcb12510185",
+      "detail": "饺子粑用米粉和皮，包入韭菜、豆腐、虾米或萝卜等馅后蒸熟。珠山文旅介绍了韭菜馅与辣味萝卜馅两类，成品外皮薄，常见于景德镇早餐。"
+    },
+    {
+      "candidateIndex": 13,
+      "candidateId": "memory-ed60adfcf907",
+      "sourceId": "threeprov-source-413671467a0e7b1f",
+      "detail": "乐平桃酥属于景德镇地区的传统糕点。当地非物质文化遗产名录列有乐平桃酥制作技艺，可与灌芯糖、红糖等地方制糖和制饼工艺一起了解。"
+    },
+    {
+      "candidateIndex": 16,
+      "candidateId": "memory-cc2fc2e47b88",
+      "sourceId": "threeprov-source-a22050faa3a27ec8",
+      "detail": "莲花血鸭以紫红油亮的色泽和鲜辣风味见长。文化和旅游部赣西美食线路将其作为亮点介绍，并明确记录了地方非遗关联。"
+    },
+    {
+      "candidateIndex": 24,
+      "candidateId": "memory-49afd97fca97",
+      "sourceId": "threeprov-source-3af8d18671ebf98c",
+      "detail": "修水哨子是九江修水县的传统名点。地方报道记载其以山芋和红薯粉为原料，包入地方馅料制作，质地清香绵柔，体现了赣西北薯类米食的特点。"
+    },
+    {
+      "candidateIndex": 25,
+      "candidateId": "memory-68807dfe3cc4",
+      "sourceId": "threeprov-source-cd563888ce662d6a",
+      "detail": "宁红茶是江西茶文化线路中的红茶代表。修水县宁红茶文化园展示生产、品鉴与茶文化，资料用红亮、香郁、味醇等特点描述成茶。"
+    },
+    {
+      "candidateIndex": 28,
+      "candidateId": "memory-e0667a841866",
+      "sourceId": "threeprov-source-3af8d18671ebf98c",
+      "detail": "武宁什锦汤是一道带有浓厚山乡风味的菜肴。地方介绍记载其先炒香、勾芡，再以余温慢炖，使多种食材的味道融合，也常见于当地喜庆宴席。"
+    },
+    {
+      "candidateIndex": 31,
+      "candidateId": "memory-99b921b51b9e",
+      "sourceId": "threeprov-source-a22050faa3a27ec8",
+      "detail": "分宜螺蛳是新余地方风味，文化和旅游部赣西美食线路特别介绍了分宜电厂螺蛳。其辨识点在于螺肉与鲜辣调味，不将同名风味直接对应某家门店。"
+    },
+    {
+      "candidateIndex": 33,
+      "candidateId": "memory-44d2a2b40c5c",
+      "sourceId": "threeprov-source-d2f65d0c4feb4829",
+      "detail": "双林夏布属于新余相关的地方工艺物品。文化和旅游部乡村线路把它列入创意产品，适合作为地方织造材料与传统手艺的探索线索。"
+    },
+    {
+      "candidateIndex": 36,
+      "candidateId": "memory-00ab82ef5950",
+      "sourceId": "threeprov-source-412ef550c55846bc",
+      "detail": "余江茄子干是鹰潭地方土特产，文化和旅游部“武夷尝鲜”线路有明确推荐。它属于地方加工食品，不等同于单纯晒干、未经调味的新鲜茄子原料。"
+    },
+    {
+      "candidateIndex": 37,
+      "candidateId": "memory-75ff9c983503",
+      "sourceId": "threeprov-source-81c618e3b071ef00",
+      "detail": "上清豆腐出现在鹰潭、龙虎山相关的乡村美食线路中。与天师八卦宴等地方菜并列，可作为认识上清地区豆制食品的一条线索；具体制作工艺仍待补充。"
+    },
+    {
+      "candidateIndex": 38,
+      "candidateId": "memory-29882e47c209",
+      "sourceId": "threeprov-source-412ef550c55846bc",
+      "detail": "文旅资料记载，上清出产的天师板栗个大、香甜、质地软糯，并常与鸡肉搭配制作板栗烧鸡。这里将板栗食材与成菜分开归类，不把食材写成一道菜。"
+    },
+    {
+      "candidateIndex": 39,
+      "candidateId": "memory-982d8e7c2952",
+      "sourceId": "threeprov-source-0f7d38c866fdc30e",
+      "detail": "贵溪灯芯糕是鹰潭地区的地方糕点。文化和旅游部线路及当地文化遗产展报道均有记录，后者还展示了传承人带领公众制作灯芯糕的活动。"
+    },
+    {
+      "candidateIndex": 41,
+      "candidateId": "memory-cf3c39534a4a",
+      "sourceId": "threeprov-source-13c132658e1bc7b9",
+      "detail": "赣南脐橙是赣州地方水果的重要代表。赣州市政府土特产栏目有专门内容，覆盖范围按赣南市域记录，不把区域品牌任意分配到所有县区。"
+    },
+    {
+      "candidateIndex": 44,
+      "candidateId": "memory-a292605b88e8",
+      "sourceId": "threeprov-source-ff4f5b66939af282",
+      "detail": "兴国米粉鱼被赣州市政府列入地方美食。认识这道菜应留意米粉与鱼肉组合的蒸制风味，而不是把“米粉鱼”误归为一碗米粉主食。"
+    },
+    {
+      "candidateIndex": 46,
+      "candidateId": "memory-b569d04cc072",
+      "sourceId": "threeprov-source-dc6eb3d328dc0969",
+      "detail": "宁都肉丸是赣州宁都的地方食品。当地政协提案答复等资料提及其餐饮与地方产业关联，本条保留食品身份，不把相关企业或门店地址当作唯一产地。"
+    },
+    {
+      "candidateIndex": 48,
+      "candidateId": "memory-b7fc2abb85b0",
+      "sourceId": "threeprov-source-d8cf3db4b24cbe4a",
+      "detail": "瑞金牛肉汤在赣南客家菜品牌工作方案中有明确记录。它属于地方汤菜，可与赣州各地的米食、酿豆腐等一起认识客家饮食。"
+    },
+    {
+      "candidateIndex": 53,
+      "candidateId": "memory-3e591ee0ca08",
+      "sourceId": "threeprov-source-ef1eb2d0fad38f6f",
+      "detail": "龙南捶鱼是当地客家饮食的一项代表。龙南市政府的地方概况中有记录，名称所指为鱼制食品工艺，不将其与其他城市同名鱼丸自动合并。"
+    },
+    {
+      "candidateIndex": 55,
+      "candidateId": "memory-58c0bf03ea8f",
+      "sourceId": "threeprov-source-f16fc1bec2036d22",
+      "detail": "赣县黄元米果以大禾米配合黄元柴灰水，蒸煮后舂打成形。报道展示了烧灰、过滤、混合、捣团与晾晒的过程，成品金黄、清香绵韧，与当地年节习俗相连。"
+    },
+    {
+      "candidateIndex": 56,
+      "candidateId": "memory-8dacc178e602",
+      "sourceId": "threeprov-source-bcc0f5ae6e611f29",
+      "detail": "南安板鸭属于赣南地方腊味。赣州非遗生产性保护资料记录其制作技艺；本条保留传统食品与工艺关联，具体品牌、厂址和产品批次分开看待。"
+    },
+    {
+      "candidateIndex": 57,
+      "candidateId": "memory-81853ccf79aa",
+      "sourceId": "threeprov-source-cade9a586fe51fbb",
+      "detail": "安远三鲜粉是赣南地方米粉风味。赣州文旅及米粉产业资料均将其列入地方美食，作为米粉类收录，配汤和浇头细节继续按专题补充。"
+    },
+    {
+      "candidateIndex": 60,
+      "candidateId": "memory-2187f59c3acb",
+      "sourceId": "threeprov-source-69cf45d7df6f48c3",
+      "detail": "上犹绿茶与当地茶产业和乡村旅游相连。赣州有关茶文化县域及非遗生产性保护的资料有记录，不将县域茶类直接等同于某一个商标品牌。"
+    },
+    {
+      "candidateIndex": 61,
+      "candidateId": "memory-e5d6907567d8",
+      "sourceId": "threeprov-source-d3e7273fa2439806",
+      "detail": "章贡酒是赣州地方酒类品牌。商务部老字号数字博物馆和赣州非遗资料可作为了解其企业、品牌与地方酿造传统的入口，品牌所在地与每批产品生产信息分别核对。"
+    },
+    {
+      "candidateIndex": 65,
+      "candidateId": "memory-5a767054a221",
+      "sourceId": "threeprov-source-bce8a117607ef51c",
+      "detail": "安福火腿属于吉安地方腌腊食品。文化和旅游部赣派民居线路将其列为特色食品，可与当地米食、茶叶一起认识赣中饮食，不沿用未经核实的起源传说。"
+    },
+    {
+      "candidateIndex": 66,
+      "candidateId": "memory-ab4d6bf82a2f",
+      "sourceId": "threeprov-source-bce8a117607ef51c",
+      "detail": "吉安薄酥饼在文化和旅游部赣派民居线路中被列为地方食品。它是适合作为伴手礼认识的糕饼类别，具体馅料、品牌及加工方式尚需进一步逐项补充。"
+    },
+    {
+      "candidateIndex": 68,
+      "candidateId": "memory-806df4606934",
+      "sourceId": "threeprov-source-bce8a117607ef51c",
+      "detail": "峡江米粉是吉安地区的地方米食线索。地方特产资料与文旅介绍有提及，记录重点为地域和食品身份，不把成品干粉与餐馆现煮的一碗粉视为完全同一商品。"
+    },
+    {
+      "candidateIndex": 69,
+      "candidateId": "memory-aa3f2b756a18",
+      "sourceId": "threeprov-source-2b3c4c0550cd3d32",
+      "detail": "万载剁肉是宜春“十县百碗”地方美食中的一道菜。报道将其与铜鼓包圆、高安腐竹等并列，可从县域菜肴与家常肉食的关系理解其地方特点。"
+    },
+    {
+      "candidateIndex": 72,
+      "candidateId": "memory-59c87613c35c",
+      "sourceId": "threeprov-source-a4323b3ca46650db",
+      "detail": "四特酒与宜春樟树的酿酒传统相连。商务部老字号资料记载其前身为樟树酒厂，产品属特香型白酒；不同系列与度数应按实际标签辨认。"
+    },
+    {
+      "candidateIndex": 77,
+      "candidateId": "memory-192ed081af9d",
+      "sourceId": "threeprov-source-ee5b178e4172551e",
+      "detail": "上高紫皮大蒜是当地传统大蒜品种和地方物产。相关介绍将其与上高蒙山猪等并列，记录为食材，不将种植历史、保健作用等宣传说法直接采用。"
+    },
+    {
+      "candidateIndex": 79,
+      "candidateId": "memory-9b8725d0d302",
+      "sourceId": "threeprov-source-2b3c4c0550cd3d32",
+      "detail": "铜鼓包圆被列入宜春地方旅游美食。它属于地方包馅食品，适合从米薯类外皮和内馅的组合认识；来源未明确的配方比例不作补写。"
+    },
+    {
+      "candidateIndex": 80,
+      "candidateId": "memory-87d76aeeadf0",
+      "sourceId": "threeprov-source-40baca4d120d8ac9",
+      "detail": "临川菜梗在文化和旅游部抚州相关线路中列为特色食品。它是地方蔬菜加工风味，分类放在调味与腌菜语境，具体制作与发酵方式待专题核查。"
+    },
+    {
+      "candidateIndex": 84,
+      "candidateId": "memory-6bf13d13787c",
+      "sourceId": "threeprov-source-81c618e3b071ef00",
+      "detail": "金溪藕丝糖是抚州金溪的地方糖点。文旅线路将其与金溪米饺、特色炒粉并列，不因名称中的“藕丝”就直接推断原料为鲜莲藕。"
+    },
+    {
+      "candidateIndex": 86,
+      "candidateId": "memory-050241c3115f",
+      "sourceId": "threeprov-source-a9aff6b7fa8f6e9c",
+      "detail": "黎川灌芯糖是当地传统制糖技艺相关食品。黎川县政府报道了传承人在赣菜美食文化节现场展示制糖的活动，体现了糖点与地方手工工艺的联系。"
+    },
+    {
+      "candidateIndex": 87,
+      "candidateId": "memory-5880e6222769",
+      "sourceId": "threeprov-source-412ef550c55846bc",
+      "detail": "资溪面包出现在文化和旅游部地方食品推荐中。这里记录资溪与面包制作、产业文化的关联，不把所有面包品种都认定为资溪独有。"
+    },
+    {
+      "candidateIndex": 96,
+      "candidateId": "memory-866a372edbcc",
+      "sourceId": "threeprov-source-3af8d18671ebf98c",
+      "detail": "鄱阳湖银鱼在九江地方报道中明确联系到都昌县。银鱼体形细小，干制后呈银白色；本次按原文纠正归属，不沿用记忆稿中直接归到上饶的写法。"
+    },
+    {
+      "candidateIndex": 98,
+      "candidateId": "memory-1413bc91d29b",
+      "sourceId": "threeprov-source-fc0bd312dd332d3d",
+      "detail": "余干辣椒炒肉是上饶余干地方菜。报道介绍以余干辣椒和五花肉搭配炒制，辣椒的香辣与肉香相互衬托，属于菜肴而非单独的辣椒食材。"
+    },
+    {
+      "candidateIndex": 99,
+      "candidateId": "memory-8452b3c5a21b",
+      "sourceId": "threeprov-source-d3c661e7e837efc1",
+      "detail": "万年贡米是上饶万年相关的地方稻米。文化和旅游部稻作文化线路将其与万年神农源、鄱湖农渔文化串联，记录食材身份，历史年代与贡米传说不作无依据延伸。"
+    },
+    {
+      "candidateIndex": 100,
+      "candidateId": "memory-bdb1d336c4fc",
+      "sourceId": "threeprov-source-837724a3dc2ac212",
+      "detail": "婺源汽糕被文化和旅游部婺源线路列为特色美食。它属于地方蒸制米食，适合与糯米籽糕、清明果等一起认识婺源米食的多样性。"
+    },
+    {
+      "candidateIndex": 102,
+      "candidateId": "memory-c10deaf03359",
+      "sourceId": "threeprov-source-c040376d7d848b5d",
+      "detail": "马家柚与上饶广丰产区关联明确。国家邮政局报道描述其金黄外皮和玫红果肉，并介绍当地果品通过寄递网络销售；产区与品牌名称应分别看待。"
+    },
+    {
+      "candidateIndex": 103,
+      "candidateId": "memory-eb4179c106d3",
+      "sourceId": "threeprov-source-cd02d0670e4e888c",
+      "detail": "老友粉是南宁地方米粉风味。工业和信息化部有关广西米粉产业的介绍明确列出南宁老友粉，与桂林米粉、柳州螺蛳粉等形成各有特色的米食谱系。"
+    },
+    {
+      "candidateIndex": 104,
+      "candidateId": "memory-dc01de2a88c3",
+      "sourceId": "threeprov-source-0903e5b0744a5568",
+      "detail": "横州茉莉花茶是广西地方茶类的重要代表。广西媒体在茶文旅与消费活动报道中有明确记录；茉莉花茶属于以茶与花窨制形成的茶类，不与茉莉鲜花原料混为一类。"
+    },
+    {
+      "candidateIndex": 105,
+      "candidateId": "memory-d0d03415fc13",
+      "sourceId": "threeprov-source-d49b9061efe5ffd3",
+      "detail": "宾阳酸粉制作技艺被广西非遗专题列入传统技艺。它是南宁宾阳地方米粉的一种风味，可从酸味调配与米粉吃法认识，具体配方不据名录推断。"
+    },
+    {
+      "candidateIndex": 106,
+      "candidateId": "memory-346f2967e718",
+      "sourceId": "threeprov-source-170d6161b00eef79",
+      "detail": "武鸣沃柑被广西政府名优特产栏目收录。它是南宁武鸣相关的柑橘产品，名称中的地域指向不能替代具体果品批次的产地标识。"
+    },
+    {
+      "candidateIndex": 107,
+      "candidateId": "memory-430a9d4472a5",
+      "sourceId": "threeprov-source-ba55bf84c75b0a52",
+      "detail": "柠檬鸭是南宁代表菜，常以腌渍咸柠檬与鸭肉搭配。地方报道介绍了咸柠檬、酸藠头、酸姜、酸辣椒和酸黄皮等参与调味的做法，也有凉拌冷吃的变化。"
+    },
+    {
+      "candidateIndex": 108,
+      "candidateId": "memory-5716493bb2e5",
+      "sourceId": "threeprov-source-3d747cda8ee17894",
+      "detail": "隆安火龙果是南宁隆安县的地方水果产业。相关报道介绍其生产与寄递销售，正式卡片只采用地方关联，不把销量、种植面积等时效数据写成长期不变的事实。"
+    },
+    {
+      "candidateIndex": 110,
+      "candidateId": "memory-f0203ea01fcd",
+      "sourceId": "threeprov-source-b312d983a0a31ca5",
+      "detail": "马山黑山羊出现在广西乡村旅游地方美食推荐中。这里按地方畜产品线索收录，与马山榨粉等地域食品分开归类；具体养殖与品种指标待进一步整理。"
+    },
+    {
+      "candidateIndex": 111,
+      "candidateId": "memory-50e15ef631fb",
+      "sourceId": "threeprov-source-3718c8e197359aad",
+      "detail": "石埠乳业是南宁相关的地方乳品企业。企业资料列有巴氏杀菌乳、灭菌乳、发酵乳等产品，监管抽检记录也列出南宁良庆区的乳品生产地址；不把销售地当作奶源地。"
+    },
+    {
+      "candidateIndex": 112,
+      "candidateId": "memory-46c103b7812f",
+      "sourceId": "threeprov-source-3718c8e197359aad",
+      "detail": "广西皇氏乳业的生产主体在食品抽检资料中列有南宁地址及纯牛奶等产品。这里记录企业与地方乳品的关联，不把常温奶、酸奶和水牛奶自动视为同一种产品。"
+    },
+    {
+      "candidateIndex": 113,
+      "candidateId": "memory-6785ce707ee5",
+      "sourceId": "threeprov-source-cd02d0670e4e888c",
+      "detail": "柳州螺蛳粉是广西地方米粉产业的重要代表。工业和信息化部介绍了柳州螺蛳粉从地方食品走向特色产业的过程；具体汤底、配菜和预包装产品配方仍因经营者而异。"
+    },
+    {
+      "candidateIndex": 118,
+      "candidateId": "memory-42b928b88b95",
+      "sourceId": "threeprov-source-001e6c70e464e3ff",
+      "detail": "柳城云片糕是柳州地方糕点。政府转载的“柳品”展销报道将其与螺蛳粉、三江油茶、融安金桔等并列，体现了当地米制糕点与茶点文化。"
+    },
+    {
+      "candidateIndex": 120,
+      "candidateId": "memory-e20b82226a14",
+      "sourceId": "threeprov-source-a73ee4cdbeda8415",
+      "detail": "桂林米粉是桂林的地方米食代表。广西旅游与非遗年货资料均有推荐，认识时应区分现煮现拌的餐食与作为伴手礼销售的预包装产品。"
+    },
+    {
+      "candidateIndex": 121,
+      "candidateId": "memory-445667f03bfc",
+      "sourceId": "threeprov-source-78bcd7c11b6261d9",
+      "detail": "恭城油茶以茶香、生姜的辛香与回甘形成辨识度。桂林地方报道介绍其初入口微苦、随后回甘的口感，也记录了油茶与糕点、小炒相伴的日常吃法。"
+    },
+    {
+      "candidateIndex": 123,
+      "candidateId": "memory-64deb7432e5e",
+      "sourceId": "threeprov-source-3718c8e197359aad",
+      "detail": "阳朔啤酒鱼是桂林阳朔地方风味。广西旅游线路将其列入阳朔美食，监管资料也有同名预包装水产制品；餐馆成菜与包装产品不混作统一配方。"
+    },
+    {
+      "candidateIndex": 124,
+      "candidateId": "memory-75f4189467fa",
+      "sourceId": "threeprov-source-c4c76481cad45964",
+      "detail": "桂林三花酒属于小曲米香型白酒。广西非遗专题记载以大米为原料，经蒸饭、糖化、发酵、蒸酒和陈酿等工序形成，辨识重点是米香与酒体风格。"
+    },
+    {
+      "candidateIndex": 125,
+      "candidateId": "memory-f52a93d48e80",
+      "sourceId": "threeprov-source-d49b9061efe5ffd3",
+      "detail": "桂林豆腐乳是“桂林三宝”之一。地方旅游资料与非遗技艺专题均有记录，属于发酵豆制调味食品，与桂林腐竹等豆制食材分开归类。"
+    },
+    {
+      "candidateIndex": 126,
+      "candidateId": "memory-4ab14bf1fa6f",
+      "sourceId": "threeprov-source-a73ee4cdbeda8415",
+      "detail": "桂林辣椒酱与三花酒、豆腐乳并称地方“三宝”。广西旅游资料将其作为可选购特产推荐，记录为调味品，不由产品名称推断辣度、配料或保存期限。"
+    },
+    {
+      "candidateIndex": 128,
+      "candidateId": "memory-07ca050ed742",
+      "sourceId": "threeprov-source-170d6161b00eef79",
+      "detail": "永福罗汉果被广西政府名优特产栏目收录。它是桂林永福相关的地方果品与饮用原料，具体加工品应看配料，卡片不承诺治病或保健效果。"
+    },
+    {
+      "candidateIndex": 131,
+      "candidateId": "memory-c9c834034921",
+      "sourceId": "threeprov-source-d49b9061efe5ffd3",
+      "detail": "全州醋血鸭制作技艺出现在广西非遗专题中。它属于桂林全州地方鸭肴，名称强调醋与鸭血参与的风味特点，不把仅有名录的资料扩写为统一操作配方。"
+    },
+    {
+      "candidateIndex": 132,
+      "candidateId": "memory-de572f16a500",
+      "sourceId": "threeprov-source-66c005b5c5b13878",
+      "detail": "灌阳油茶是桂北油茶传统中的地方风味。桂林日报讨论了灌阳油茶与恭城、龙胜等地油茶的关系，并提及佐料搭配差异，体现同类饮食在县域间的变化。"
+    },
+    {
+      "candidateIndex": 133,
+      "candidateId": "memory-a57444e22a9c",
+      "sourceId": "threeprov-source-e40be2b18d214481",
+      "detail": "平乐十八酿把当地多样食材与包馅、填馅的做法联系起来。地方报道列举田螺酿、豆腐酿等变化，重点是“酿”的工艺体系，而不必理解为固定不变的十八道菜。"
+    },
+    {
+      "candidateIndex": 137,
+      "candidateId": "memory-223a87bc83fc",
+      "sourceId": "threeprov-source-d49b9061efe5ffd3",
+      "detail": "藤县太平米饼制作工艺被广西非遗专题收录。它属于梧州藤县地方糕饼传统，适合从米制点心与手工制饼的角度认识，不由项目名称补写年代与传说。"
+    },
+    {
+      "candidateIndex": 138,
+      "candidateId": "memory-99fc54344cd3",
+      "sourceId": "threeprov-source-e7f8428e8d4e7cc2",
+      "detail": "梧州纸包鸡是当地地方菜。文化和旅游部线路把它与骑楼、西江和茶文化串联，认识时可留意纸包烹调的形式与鸡肉风味，不把比赛荣誉当作口味保证。"
+    },
+    {
+      "candidateIndex": 140,
+      "candidateId": "memory-ced87d257411",
+      "sourceId": "threeprov-source-3273ee75a218748f",
+      "detail": "冰泉豆浆与梧州的传统早餐和老字号饮食相连。政府转载资料记录冰泉豆浆馆等地方消费场景，食品卡片关注豆浆风味及地方关联，不替代实时门店营业信息。"
+    },
+    {
+      "candidateIndex": 143,
+      "candidateId": "memory-6083856e12fe",
+      "sourceId": "threeprov-source-dce855aae731264a",
+      "detail": "北海沙虫干是沿海干制食材。地方报道展示了当地加工和销售，记录的是具体海产食品，不能把“沙虫”泛指成任何海边采集的小动物。"
+    },
+    {
+      "candidateIndex": 144,
+      "candidateId": "memory-7695f06e9233",
+      "sourceId": "threeprov-source-84c9ce5b846f0083",
+      "detail": "北海虾饼制作技艺被列入当地非物质文化遗产代表性项目名录。它是北海地方小吃的一种，具体虾料、面糊与炸制方式仍需按专题进一步整理。"
+    },
+    {
+      "candidateIndex": 148,
+      "candidateId": "memory-b985450684b1",
+      "sourceId": "threeprov-source-ef37c8005ccb5d67",
+      "detail": "北海滨海乡村线路推荐海鸭蛋，并将其列入地方土特产。它与沙虫、沙蟹汁等海边食品一起构成沿海食单，不能仅凭“海鸭蛋”名称推断所有产品都产自北海。"
+    },
+    {
+      "candidateIndex": 149,
+      "candidateId": "memory-d15bcb23fbbf",
+      "sourceId": "threeprov-source-12f5769c7bf834ba",
+      "detail": "京族鱼露是东兴相关的地方发酵调味品。广西旅游与非遗资料均有记录，可从沿海鱼类加工、调味使用与京族饮食文化的关系认识。"
+    },
+    {
+      "candidateIndex": 152,
+      "candidateId": "memory-853e5907376a",
+      "sourceId": "threeprov-source-12f5769c7bf834ba",
+      "detail": "防城港沙虫及其干制品被广西旅游线路列为地方特产。这里记录北部湾沿海的食材线索，不把不同产地的沙虫商品任意合并成单一品牌。"
+    },
+    {
+      "candidateIndex": 153,
+      "candidateId": "memory-1bcf16efc1bb",
+      "sourceId": "threeprov-source-604372c0a87edd6c",
+      "detail": "独弦琴与东兴京族文化关联密切。文化报道记录当地非遗展示与传承，本条归入物品与工艺，介绍乐器身份，不将音乐表演误当作食品。"
+    },
+    {
+      "candidateIndex": 154,
+      "candidateId": "memory-ce612005e646",
+      "sourceId": "threeprov-source-dd899fc9bd981da0",
+      "detail": "钦州猪脚粉是当地米粉风味。文化和旅游部钦州线路明确推荐，并与灵山簸箕粉、浦北云吞等并列，体现了同一市域不同县区的主食差异。"
+    },
+    {
+      "candidateIndex": 157,
+      "candidateId": "memory-caabd63e5515",
+      "sourceId": "threeprov-source-dd899fc9bd981da0",
+      "detail": "坭兴陶是钦州代表性工艺物品。文旅资料介绍了当地烧制技艺与体验场所，产品包括茶具等生活器物；器物工艺与具体食品分开归类。"
+    },
+    {
+      "candidateIndex": 159,
+      "candidateId": "memory-78c814116ac7",
+      "sourceId": "threeprov-source-19e6bee1604221a7",
+      "detail": "桂平西山茶是贵港桂平相关的地方茶。文化和旅游部桂平线路将其作为地方产品推荐，茶名、产区与具体品牌分别保留，不按旅游线路把茶分配到所有县区。"
+    },
+    {
+      "candidateIndex": 160,
+      "candidateId": "memory-871bd72b2394",
+      "sourceId": "threeprov-source-b09468295480018f",
+      "detail": "平南石硖龙眼是贵港平南的地方果品。资料记载石硖龙眼在当地的品种关联，并以肉厚、核小、甜香和爽脆描述鲜果，不采用“最好”等绝对评价。"
+    },
+    {
+      "candidateIndex": 161,
+      "candidateId": "memory-29224d6bee28",
+      "sourceId": "threeprov-source-b09468295480018f",
+      "detail": "桂平绿豆糕是贵港桂平的传统糕点。地方介绍将其作为当地食品代表，具体品牌与糕点类别分开记录，甜度、配料和成品形态以实际产品为准。"
+    },
+    {
+      "candidateIndex": 162,
+      "candidateId": "memory-4b6c77161dbb",
+      "sourceId": "threeprov-source-fe7a6837e9054e6a",
+      "detail": "桥圩鸭肉粉属于贵港地方米粉。报道将其与东龙酸粉、罗秀米粉等并列，展现当地多样的米食，不因同属鸭肉粉就与其他县市版本自动合并。"
+    },
+    {
+      "candidateIndex": 165,
+      "candidateId": "memory-5a143b21d8c8",
+      "sourceId": "threeprov-source-f8ed13ad559ac6f2",
+      "detail": "容县沙田柚与玉林容县的地方果品文化相连。文化和旅游部柚乡线路记录了采摘、品尝与村落游览，果品产区和旅游景点不是同一地理概念。"
+    },
+    {
+      "candidateIndex": 168,
+      "candidateId": "memory-de395a23664a",
+      "sourceId": "threeprov-source-77bcca8a3141f796",
+      "detail": "大肉云吞是玉林玉州地方饮食中的一种。当地介绍把它与生料粉、鱼生等并列，卡片记录云吞类米面餐食，不将“小吃名称”误写成当地特有的粮食品种。"
+    },
+    {
+      "candidateIndex": 179,
+      "candidateId": "memory-37ca8ecddea8",
+      "sourceId": "threeprov-source-8007e0572da07a1d",
+      "detail": "靖西酸嘢以酸、甜、脆的果蔬风味见长。报道记载当地会把山楂、沙梨、萝卜等浸入特色酸汁中，体现桂西街头果蔬加工和即食小吃文化。"
+    },
+    {
+      "candidateIndex": 180,
+      "candidateId": "memory-8be64a9cd843",
+      "sourceId": "threeprov-source-52acd8d6efe7b9b6",
+      "detail": "德保猪血肠是百色地方食品。文化和旅游部百色线路有明确推荐，记录其县域风味身份，具体填馅和制作方式待进一步读取专题资料。"
+    },
+    {
+      "candidateIndex": 182,
+      "candidateId": "memory-26e1acab0f93",
+      "sourceId": "threeprov-source-b4abb3046bdf3b94",
+      "detail": "黄田扣肉在贺州特色农产品与美食推介中有记录。它属于地方宴席菜，可从肉类加工与调味风格认识，不将地方菜名直接等同于某一家餐馆。"
+    },
+    {
+      "candidateIndex": 186,
+      "candidateId": "memory-e05ad4c28f23",
+      "sourceId": "threeprov-source-0ad27b33066ef673",
+      "detail": "钟山油茶以茶叶配合姜等原料制成。地方介绍将其作为日常饮食的一部分，体现了贺州民族地区茶饮与餐食结合的习惯。"
+    },
+    {
+      "candidateIndex": 187,
+      "candidateId": "memory-1b118a0d8d2a",
+      "sourceId": "threeprov-source-f47b9e8217609582",
+      "detail": "信都三黄鸡是贺州地方禽类食品线索。报道以肉厚、嫩滑等描述其食用品质，地方品种与具体预制菜产品分开记录，不把加工品销量写成品种特征。"
+    },
+    {
+      "candidateIndex": 189,
+      "candidateId": "memory-ec184b840646",
+      "sourceId": "threeprov-source-b312d983a0a31ca5",
+      "detail": "巴马火麻汤出现在广西乡村美食线路中。它属于河池巴马地方汤食，记录重点是食用传统，不采用关于长寿、疾病或特殊保健效果的延伸说法。"
+    },
+    {
+      "candidateIndex": 190,
+      "candidateId": "memory-4473a0919a8a",
+      "sourceId": "threeprov-source-b1926dcc4a2ceca1",
+      "detail": "环江香猪与河池环江地方饮食关联明确。广西地方报道介绍以小香猪为原料的烹调与烤制风味，本条区分畜产品名称和具体餐馆成菜。"
+    },
+    {
+      "candidateIndex": 194,
+      "candidateId": "memory-f02f385fcb0d",
+      "sourceId": "threeprov-source-5334b78b3d150289",
+      "detail": "罗城毛葡萄酒是河池罗城相关的地方酒。广西媒体报道了毛葡萄酒的地方产业与名录信息，果品原料、酒类产品及具体商标不混为同一条目。"
+    },
+    {
+      "candidateIndex": 196,
+      "candidateId": "memory-ad9c90b71b88",
+      "sourceId": "threeprov-source-468ab093b4a1e852",
+      "detail": "都安旱藕粉丝是河池旅游线路推荐的地方食品。它与旱藕原料分开归类，作为粉丝类主食或烹饪食材认识，不以名称推断全部市售粉丝的原料比例。"
+    },
+    {
+      "candidateIndex": 197,
+      "candidateId": "memory-f52f56bd2558",
+      "sourceId": "threeprov-source-468ab093b4a1e852",
+      "detail": "七百弄鸡是河池大化地方禽类物产。旅游线路与农产品资料有记录，正式条目保留产区线索，不将当地所有鸡肉菜都认定使用这一品种。"
+    },
+    {
+      "candidateIndex": 198,
+      "candidateId": "memory-c0902081457a",
+      "sourceId": "threeprov-source-82b2a0a064e4cb26",
+      "detail": "凤山八角是河池凤山的地方香料。介绍资料记载其地方品种及香料加工用途，本条只记录食用调味关联，不加入药用功效或提炼操作指导。"
+    },
+    {
+      "candidateIndex": 199,
+      "candidateId": "memory-63ef09d4b83f",
+      "sourceId": "threeprov-source-12f5769c7bf834ba",
+      "detail": "武宣红糟酸在广西旅游伴手礼推荐中有记录。它属于来宾武宣相关的地方酸味加工食品，可作为了解当地调味与腌渍风味的入口。"
+    },
+    {
+      "candidateIndex": 201,
+      "candidateId": "memory-e82715761259",
+      "sourceId": "threeprov-source-12f5769c7bf834ba",
+      "detail": "金秀甜茶是广西地方旅游推荐产品。这里将其作为金秀相关的茶饮线索，叶种、加工与冲泡细节仍需专门资料核实，不直接套用其他地区甜茶的植物身份。"
+    },
+    {
+      "candidateIndex": 206,
+      "candidateId": "memory-ce1f108a5641",
+      "sourceId": "threeprov-source-b82f7b758b4c4e35",
+      "detail": "龙州桄榔粉与崇左龙州地方物产关联明确。相关报道记录其地方产业和地理标志信息，分类为加工粉类原料，冲调食品与原植物分开介绍。"
+    },
+    {
+      "candidateIndex": 208,
+      "candidateId": "memory-1e4bc59ce6d8",
+      "sourceId": "threeprov-source-306ab0b0bc287fe2",
+      "detail": "扶绥酸粥与当地发酵酸味饮食传统相连。税务部门报道记录了地方餐饮对酸粥宴的传承与创新，卡片记录食物身份，不把“酸粥”只理解为一碗普通白粥。"
+    },
+    {
+      "candidateIndex": 209,
+      "candidateId": "memory-24c629d5bc05",
+      "sourceId": "threeprov-source-590ddad84b29d2ac",
+      "detail": "凭祥菠萝蜜是崇左凭祥相关的热带水果。资料介绍了干包、湿包等口感差异，记录地方果品线索，不把所有市场流通的菠萝蜜认作当地种植。"
+    },
+    {
+      "candidateIndex": 210,
+      "candidateId": "memory-233b0e5236c4",
+      "sourceId": "threeprov-source-556ca75dc5c98999",
+      "detail": "宁明沙糕被文化和旅游部崇左线路列为地方特产。它属于地方糕点类，可与龙州沙糕等周边风味比较，具体原料与制法仍分别核对。"
+    },
+    {
+      "candidateIndex": 211,
+      "candidateId": "memory-e07f5d8e90e6",
+      "sourceId": "threeprov-source-01b416c7c64336a7",
+      "detail": "崇左壮锦在民族节庆和非遗产品报道中有记录。它属于地方织造工艺物品，认识重点是织物、纹样与手工传承，不将表演活动本身写成可食用特产。"
+    },
+    {
+      "candidateIndex": 212,
+      "candidateId": "memory-b5dc051850aa",
+      "sourceId": "threeprov-source-1a78cf7b3422ce21",
+      "detail": "白切鸡是广州饮食中重视鸡肉本味的做法。广州官方介绍以皮亮、肉嫩等作为辨识线索，不同餐厅处理方式存在差异，不以同名就认定相同用料和口感。"
+    },
+    {
+      "candidateIndex": 213,
+      "candidateId": "memory-1d586091da7c",
+      "sourceId": "threeprov-source-1a78cf7b3422ce21",
+      "detail": "烧鹅属于广州街巷常见的广式烧味。官方城市美食介绍将其与叉烧、烧肉等并列，观察时可留意表皮与肉质，不把不同地方的烧鹅自动当成同一配方。"
+    },
+    {
+      "candidateIndex": 214,
+      "candidateId": "memory-1694d7d24b15",
+      "sourceId": "threeprov-source-1a78cf7b3422ce21",
+      "detail": "艇仔粥是广州有代表性的粥品。官方美食资料将其放在生滚粥谱系中介绍，体现粥底与多样配料相互融合的特点，具体配料随店家变化。"
+    },
+    {
+      "candidateIndex": 215,
+      "candidateId": "memory-6e37d6e9967e",
+      "sourceId": "threeprov-source-1a78cf7b3422ce21",
+      "detail": "肠粉是广州早餐、正餐与宵夜都常见的米食。官方介绍强调广式肠粉存在不同制法，传统布拉肠只是其中一类，不将所有肠粉按一种工艺解释。"
+    },
+    {
+      "candidateIndex": 216,
+      "candidateId": "memory-a7e77d882ec9",
+      "sourceId": "threeprov-source-b5e7491d0295dd55",
+      "detail": "沙河粉因广州沙河一带得名。南方媒体地方米食介绍描述其洁白、薄而柔韧、爽滑，可炒可煮，既是街头小食原料，也能作为正餐主食。"
+    },
+    {
+      "candidateIndex": 217,
+      "candidateId": "memory-0321b2478c5c",
+      "sourceId": "threeprov-source-f20ebf1a9fc25419",
+      "detail": "云吞面是广州地方餐食与传统技艺的代表之一。官方非遗资料有相关记录，可从云吞、面条、汤底的组合认识，与单独销售的云吞制品分开看待。"
+    },
+    {
+      "candidateIndex": 218,
+      "candidateId": "memory-2307176bd81b",
+      "sourceId": "threeprov-source-a04b933c2a10af11",
+      "detail": "及第粥属于广府粥品。相关标准资料将状元及第粥与荔湾艇仔粥、皮蛋瘦肉粥等并列，卡片保留食品类别，不把名称背后的故事当作已经证实的历史。"
+    },
+    {
+      "candidateIndex": 219,
+      "candidateId": "memory-c17e2a65052b",
+      "sourceId": "threeprov-source-fd5dfcfa9408ded1",
+      "detail": "沙湾姜撞奶以牛奶和姜汁为主要原料，凝成柔软奶品，味道甜中微辣。广州民政与荔湾社区活动资料均有记录，本条不采用治病功效和未经考证的起源传说。"
+    },
+    {
+      "candidateIndex": 220,
+      "candidateId": "memory-07ed8cfa06d2",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "泮塘马蹄糕与广州荔湾、西关饮食相连。广东地方文旅线路明确推荐，属于米面糕点分类中的地方糕类，不把马蹄糕与鲜荸荠原料混作同一条目。"
+    },
+    {
+      "candidateIndex": 224,
+      "candidateId": "memory-7822738155e6",
+      "sourceId": "threeprov-source-a04b933c2a10af11",
+      "detail": "广式腊肠是广州传统加工肉食的一种。标准资料记载其肥瘦肉处理及腌腊工艺关联，认识时应区分传统类别和具体品牌、规格或配料。"
+    },
+    {
+      "candidateIndex": 225,
+      "candidateId": "memory-b1a63fc8ec2f",
+      "sourceId": "threeprov-source-a04b933c2a10af11",
+      "detail": "鸡仔饼是广府地方糕饼。相关标准资料将其与咸煎饼、牛脷酥等并列，名称所指为糕饼食品，不依据字面把它归为鸡肉菜肴。"
+    },
+    {
+      "candidateIndex": 226,
+      "candidateId": "memory-fc768101e79c",
+      "sourceId": "threeprov-source-eaa2794db153e78c",
+      "detail": "广彩又称广州织金彩瓷，是广州地方传统手工艺。地方文化资料将其与低温釉上彩装饰联系起来，属于陶瓷装饰工艺，不与所有彩绘瓷器泛泛合并。"
+    },
+    {
+      "candidateIndex": 227,
+      "candidateId": "memory-3292dd5251d9",
+      "sourceId": "threeprov-source-f20ebf1a9fc25419",
+      "detail": "广绣与广州地方手工艺传统关联密切。广州文化和非遗资料展示了绣作及传承内容，卡片归入物品与工艺，具体题材、针法与作品分别了解。"
+    },
+    {
+      "candidateIndex": 228,
+      "candidateId": "memory-9350856ae32f",
+      "sourceId": "threeprov-source-3796b63bd491cb67",
+      "detail": "风行牛奶是广州地方乳品品牌。园林部门资料记录风行乳业与越秀公园体验店合作及五羊造型雪糕等产品，品牌文化与每款乳品的奶源、加工厂分别核对。"
+    },
+    {
+      "candidateIndex": 229,
+      "candidateId": "memory-6db63a4631a8",
+      "sourceId": "threeprov-source-a0fab425aad1947b",
+      "detail": "燕塘乳业在广州设有乳品加工基地，也在湛江布局生产。商务部老字号资料记录其牧场、工厂与乳品业务，本条保留广州品牌关联，不声称所有产品均在广州生产。"
+    },
+    {
+      "candidateIndex": 234,
+      "candidateId": "memory-4fe73fbb3e1e",
+      "sourceId": "threeprov-source-e4a06a89e96bb2b5",
+      "detail": "三华李与韶关翁源地方果品关联明确。地方文化报道将其与马坝油粘米、南雄板鸭等一起介绍，品种、产区和具体果园仍应分别核对。"
+    },
+    {
+      "candidateIndex": 235,
+      "candidateId": "memory-5fd3e4f0fde5",
+      "sourceId": "threeprov-source-9bd493347ca132cc",
+      "detail": "乐昌马蹄是韶关地方荸荠产品，地方饮食资料也介绍马蹄肉丸。这里区分鲜马蹄食材与加工菜肴，采用清甜、爽脆等日常辨识线索。"
+    },
+    {
+      "candidateIndex": 236,
+      "candidateId": "memory-1d200eaa381b",
+      "sourceId": "threeprov-source-73395303616e42c1",
+      "detail": "罗坑茶与韶关曲江地方茶产业相连。曲江政府产业资料有明确记录，卡片保留产区和茶类身份，不把地区茶名直接等同于某一家茶厂或商标。"
+    },
+    {
+      "candidateIndex": 240,
+      "candidateId": "memory-53109273c8dd",
+      "sourceId": "threeprov-source-26169d17aa46bde4",
+      "detail": "光明乳鸽与深圳光明地方饮食关联明确。当地政府将红烧乳鸽与牛初乳、甜玉米合称“光明三宝”，并以皮脆、肉嫩、骨香描述其特点。"
+    },
+    {
+      "candidateIndex": 247,
+      "candidateId": "memory-c5358d4a09aa",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "斗门重壳蟹在珠海地方旅游美食线路中被推荐。它属于海产食材与地方餐食线索，具体蟹种、季节和捕养方式需另据专题资料核实。"
+    },
+    {
+      "candidateIndex": 250,
+      "candidateId": "memory-7d652fc38215",
+      "sourceId": "threeprov-source-03a6041ba68beaba",
+      "detail": "唐家茶果属于珠海唐家湾地方小吃。当地名小吃公示及广东旅游线路有记录，“茶果”是地方食品称谓，不直接理解为茶树结出的果实。"
+    },
+    {
+      "candidateIndex": 251,
+      "candidateId": "memory-71df188f7ddb",
+      "sourceId": "threeprov-source-60832c1a9eaf93fe",
+      "detail": "金湾黄立鱼出现在地理标志产品认定公告中。这里记录珠海金湾相关的水产产品，物种学名与养殖技术等待专门资料补充，不以其他海鱼的特点替代。"
+    },
+    {
+      "candidateIndex": 252,
+      "candidateId": "memory-d81ce6b3df11",
+      "sourceId": "threeprov-source-5e8fa30758fafea5",
+      "detail": "潮汕牛肉丸与汕头地方肉食传统相连。商务部老字号资料记录当地企业参与牛肉丸相关标准，传统食品类别与企业品牌分别保留。"
+    },
+    {
+      "candidateIndex": 253,
+      "candidateId": "memory-e6451c5ff763",
+      "sourceId": "threeprov-source-5fd6f097de821326",
+      "detail": "潮汕卤鹅是汕头饮食中重要的卤味。地方官方美食介绍以鹅肉、鹅肝、鹅掌等组成卤味拼盘，展现同一原料不同部位的处理与风味。"
+    },
+    {
+      "candidateIndex": 254,
+      "candidateId": "memory-18e6c73e12d5",
+      "sourceId": "threeprov-source-5fd6f097de821326",
+      "detail": "达濠鱼丸以鱼制食品的弹性和口感见长。汕头官方介绍强调制作工艺与沿海鲜味，分类放在菜肴与加工食品，不将鱼丸名称直接等同于某个鱼种。"
+    },
+    {
+      "candidateIndex": 255,
+      "candidateId": "memory-843d5bca5d05",
+      "sourceId": "threeprov-source-70e3903be90dc6cc",
+      "detail": "潮阳鲎粿是汕头潮阳地方传统粿食。广东侨务资料记录其传承与风味创新，本条保留食品身份，具体配方是否含某种海产须另行核实。"
+    },
+    {
+      "candidateIndex": 257,
+      "candidateId": "memory-0f97e70b3894",
+      "sourceId": "threeprov-source-e1c27c73cb3b43bf",
+      "detail": "南澳紫菜与汕头南澳岛的海上养殖和采收相连。广东媒体报道了头水紫菜采收，海产原料与冲调紫菜汤等加工食品分开记录。"
+    },
+    {
+      "candidateIndex": 258,
+      "candidateId": "memory-2666d95c2eff",
+      "sourceId": "threeprov-source-2343adc3d8482c05",
+      "detail": "汕头肠粉强调薄、嫩、滑的粿皮。地方介绍记录店家对米浆与薄皮的不同处理方式，说明潮汕肠粉内部也有差异，不以地名概括成一套固定配方。"
+    },
+    {
+      "candidateIndex": 259,
+      "candidateId": "memory-bebf44e230a4",
+      "sourceId": "threeprov-source-3156b71faad9191e",
+      "detail": "粿汁是汕头街头常见的潮汕米食。广东侨务资料以街巷饮食记录其地方生活场景，名称中的“汁”不表示它是一杯饮料。"
+    },
+    {
+      "candidateIndex": 260,
+      "candidateId": "memory-3d2e113d35b8",
+      "sourceId": "threeprov-source-455b3a90933aed5e",
+      "detail": "潮汕工夫茶是汕头、潮州等地共享的饮茶传统。地方政府和文旅资料均有记录，重点在器具、冲泡与待客文化，不把它认作单一茶树品种。"
+    },
+    {
+      "candidateIndex": 261,
+      "candidateId": "memory-56c08835347c",
+      "sourceId": "threeprov-source-0272e0620b4ad1f1",
+      "detail": "大良双皮奶与佛山顺德的地方乳食相连。商务部老字号资料记载以水牛奶为主要原料，冷热食用各有奶香与质地表现；不同店家的具体做法分别了解。"
+    },
+    {
+      "candidateIndex": 263,
+      "candidateId": "memory-99be2fe2defb",
+      "sourceId": "threeprov-source-1c37770dbcaf2c97",
+      "detail": "均安蒸猪在佛山美食展销与地方饮食资料中有记录。它属于顺德地方肉食，食品名称与门店、品牌分开整理，具体制作细节另据专题资料补充。"
+    },
+    {
+      "candidateIndex": 264,
+      "candidateId": "memory-3418e250702a",
+      "sourceId": "threeprov-source-9e9e775a56fe2a6f",
+      "detail": "顺德鱼生被佛山地方传统菜保护资料列入广府菜名品。卡片记录地方饮食文化，不提供未经核实的生食处理方法，也不把地方传统当作食品安全保证。"
+    },
+    {
+      "candidateIndex": 265,
+      "candidateId": "memory-873f9ecbb499",
+      "sourceId": "threeprov-source-45d00b5ddfc55c30",
+      "detail": "陈村粉与佛山顺德陈村地方米食相连。官方地方文化介绍将其与双皮奶等并列，可从米粉的形态、柔韧度和烹调搭配认识这一地方主食。"
+    },
+    {
+      "candidateIndex": 266,
+      "candidateId": "memory-b8a92ae5fa0e",
+      "sourceId": "threeprov-source-c64ef2d9d023d85d",
+      "detail": "乐从鱼腐是佛山顺德的地方鱼制食品。央广报道介绍其工艺与乡情，名称与豆腐不同，不应仅因带“腐”字就归为普通豆制品。"
+    },
+    {
+      "candidateIndex": 268,
+      "candidateId": "memory-88c7893fcf7e",
+      "sourceId": "threeprov-source-1c37770dbcaf2c97",
+      "detail": "西樵大饼是佛山南海相关的地方糕饼。佛山美食企业展销资料有具体记录，正式卡片保留糕点与产区关联，不把参展企业认定为唯一生产者。"
+    },
+    {
+      "candidateIndex": 269,
+      "candidateId": "memory-e7eff0685402",
+      "sourceId": "threeprov-source-9e9e775a56fe2a6f",
+      "detail": "盲公饼被佛山地方传统食品保护资料列明。它属于地方糕饼，与顺德伦教糕等食品并列，配料、口味及品牌仍按具体产品核对。"
+    },
+    {
+      "candidateIndex": 270,
+      "candidateId": "memory-7facc8eb1afe",
+      "sourceId": "threeprov-source-1c37770dbcaf2c97",
+      "detail": "石湾陶塑是佛山有代表性的陶瓷工艺。地方展销和非遗资料介绍其制作与展示，既有艺术创作也有地方文化题材，不把所有石湾陶器都混作同一产品。"
+    },
+    {
+      "candidateIndex": 271,
+      "candidateId": "memory-0af8e77aefce",
+      "sourceId": "threeprov-source-1c37770dbcaf2c97",
+      "detail": "南海藤编是佛山地方手工艺。官方展销报道记录传统与当代设计元素结合的藤编作品，认识时可从编织材料、结构与日用器物形式观察。"
+    },
+    {
+      "candidateIndex": 274,
+      "candidateId": "memory-f1ece4d82b44",
+      "sourceId": "threeprov-source-18dbc34d74d6482c",
+      "detail": "古井烧鹅是江门新会相关的地方烧味。地方文旅资料介绍选用马冈鹅并以烧制形成鲜香、多汁的风味，不采用缺少史料核实的宫廷起源故事。"
+    },
+    {
+      "candidateIndex": 276,
+      "candidateId": "memory-c03e5d1bce5b",
+      "sourceId": "threeprov-source-187c57138d61447c",
+      "detail": "台山黄鳝饭是江门台山的地方米饭餐食。江门文旅资料把它与古井烧鹅、新会陈皮宴等并列，记录重点为黄鳝与米饭结合的地方饮食身份。"
+    },
+    {
+      "candidateIndex": 277,
+      "candidateId": "memory-1eb0c8c81b43",
+      "sourceId": "threeprov-source-59b798fa9007a96d",
+      "detail": "荷塘冲菜在江门地方物产介绍中有记录。它属于当地蔬菜加工和调味风味，具体品种、腌制方法及食用场景仍须按专题补充。"
+    },
+    {
+      "candidateIndex": 278,
+      "candidateId": "memory-8123521abec2",
+      "sourceId": "threeprov-source-18dbc34d74d6482c",
+      "detail": "马冈鹅与江门开平地方禽类物产相连。地方文旅介绍将其作为古井烧鹅等菜肴的原料线索，畜禽品种与烹调菜品分别归类。"
+    },
+    {
+      "candidateIndex": 281,
+      "candidateId": "memory-6186c9d7f9da",
+      "sourceId": "threeprov-source-59b798fa9007a96d",
+      "detail": "礼乐腊味被列入江门地方食品推荐。它是当地腌腊肉食风味的一部分，名称对应地域传统，不等同于某个统一规格或唯一品牌。"
+    },
+    {
+      "candidateIndex": 282,
+      "candidateId": "memory-3f57a90c03b8",
+      "sourceId": "threeprov-source-320d728d4d7421fc",
+      "detail": "新会葵艺是江门地方传统工艺。相关文化规划将其与其他非遗项目并列，可从葵叶、葵材加工与日用工艺品的关系认识。"
+    },
+    {
+      "candidateIndex": 283,
+      "candidateId": "memory-fc79e2a8414f",
+      "sourceId": "threeprov-source-74b2a1646ee8b49b",
+      "detail": "湛江生蚝是当地沿海水产风味的代表。地方美食地图有专门介绍，卡片只采用产区与食材关联，不沿用“唯一”“绝无污染”等无法普遍证明的宣传。"
+    },
+    {
+      "candidateIndex": 284,
+      "candidateId": "memory-91bbe7cb0c10",
+      "sourceId": "threeprov-source-7b9cfef421d4e954",
+      "detail": "湛江白切鸡出现在当地特色菜评选资料中。它是地方鸡肴的一种，认识时可与广州等地的白切鸡比较，但不据相同菜名判定鸡种、蘸料和做法完全一致。"
+    },
+    {
+      "candidateIndex": 288,
+      "candidateId": "memory-fc4a74d167e4",
+      "sourceId": "threeprov-source-42ddf40e11cecc76",
+      "detail": "廉江红橙是湛江地方柑橘产品。当地市场监管部门介绍相关地理标志产品标准，记录正式产品名称，不把红橙与普通橙类或所有廉江产水果混为一谈。"
+    },
+    {
+      "candidateIndex": 289,
+      "candidateId": "memory-dcf351683f01",
+      "sourceId": "threeprov-source-23c118b68eb8ddd3",
+      "detail": "吴川烂镬炒粉是湛江吴川地方米食。市场监管部门报道其烹饪技艺规范审查，说明它既是地方小吃，也有工艺整理与传承的背景。"
+    },
+    {
+      "candidateIndex": 290,
+      "candidateId": "memory-06174a49cb37",
+      "sourceId": "threeprov-source-0fcc0b11c0b87b6b",
+      "detail": "沙螺粥与吴川吴阳、芷寮一带饮食相连。地方志记载以沙螺肉和大米为主要原料，配猪骨、鱼、虾米等烹煮，成品呈清甜、软滑的地方风味。"
+    },
+    {
+      "candidateIndex": 295,
+      "candidateId": "memory-7ef7b2d1982f",
+      "sourceId": "threeprov-source-975ac5f1fd24c0c6",
+      "detail": "籺是茂名地方米食文化的重要称谓。官方文化介绍记录了围绕籺形成的地方美食体验和传承，具体籺类的外皮、馅料与节令差异需分别介绍。"
+    },
+    {
+      "candidateIndex": 296,
+      "candidateId": "memory-ddc7dc6b36c1",
+      "sourceId": "threeprov-source-295b3ca91d54ef8a",
+      "detail": "化州拖罗饼是茂名化州的地方手工糕饼。广东侨务资料有专题记录，正式条目保留地方食品与手工制作关联，不把传说年代写成已经证实的起源。"
+    },
+    {
+      "candidateIndex": 297,
+      "candidateId": "memory-2872c9248c81",
+      "sourceId": "threeprov-source-9442a932c0f97de5",
+      "detail": "化州牛杂在茂名地方美食展示报道中有记录。它属于地方熟食与街头餐食，具体牛杂部位和调味方式随经营者不同，不指定单一门店代表整个类别。"
+    },
+    {
+      "candidateIndex": 302,
+      "candidateId": "memory-da26f408d436",
+      "sourceId": "threeprov-source-683dffa9fef91a1a",
+      "detail": "广宁竹笋与肇庆广宁地方竹产业相关。供销与产业报道提到竹笋加工产品和销售渠道，鲜笋、笋干以及即食制品分别理解，不归入竹材工艺。"
+    },
+    {
+      "candidateIndex": 305,
+      "candidateId": "memory-c5b1edb12eef",
+      "sourceId": "threeprov-source-d3a246ab370c9164",
+      "detail": "端砚是肇庆地方制砚工艺的重要代表。地方资料描述砚石细腻、致密等特点，记录文房器物与石材工艺，不以商业宣传中的排名替代实际品质判断。"
+    },
+    {
+      "candidateIndex": 307,
+      "candidateId": "memory-098809473a43",
+      "sourceId": "threeprov-source-1ea439bcf76542e3",
+      "detail": "罗浮山豆腐花制作技艺列入惠州地方非物质文化遗产名录。它是地方豆制食品，正式条目采用名录支持的食品与技艺身份，具体凝固方法待补充。"
+    },
+    {
+      "candidateIndex": 308,
+      "candidateId": "memory-5893faf62f9a",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "东江盐焗鸡是惠州地方文旅线路推荐的客家风味。盐焗鸡与当地客家饮食相连，不将不同城市共享的菜类认定为只属于惠州。"
+    },
+    {
+      "candidateIndex": 312,
+      "candidateId": "memory-04def6c2bcd6",
+      "sourceId": "threeprov-source-4f290c2423e6e222",
+      "detail": "龙门米饼属于惠州龙门地方小吃。文旅介绍记录其制作技艺及地方非遗关联，与龙门腊味等食品一同呈现当地年节和伴手礼风味。"
+    },
+    {
+      "candidateIndex": 313,
+      "candidateId": "memory-9fe3de167440",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "梅菜扣肉是梅州客家饮食线路中的代表菜。地方文旅资料描述其油亮、醇厚的风味，梅菜与五花肉搭配的菜肴与单独的梅菜食材分开归类。"
+    },
+    {
+      "candidateIndex": 314,
+      "candidateId": "memory-592c4fae3beb",
+      "sourceId": "threeprov-source-384a671185ccd4ee",
+      "detail": "客家盐焗鸡在梅州文旅资料中有具体工艺介绍。鸡肉经调味、包裹后用盐传热焗制，以金黄外观和咸香风味见长，不把它与普通水煮鸡混同。"
+    },
+    {
+      "candidateIndex": 316,
+      "candidateId": "memory-2784e8d916bd",
+      "sourceId": "threeprov-source-384a671185ccd4ee",
+      "detail": "百侯薄饼是梅州大埔的地方食品。报道记载以瘦肉丝、豆腐干、虾仁等为馅，皮韧馅香、柔软滑润，并与地方传统技艺传承相连。"
+    },
+    {
+      "candidateIndex": 320,
+      "candidateId": "memory-760518c64e3f",
+      "sourceId": "threeprov-source-384a671185ccd4ee",
+      "detail": "五华酿豆腐与梅州五华华城等地的客家饮食相连。报道记录其地方技艺身份，酿馅与豆腐结合的成菜和鲜豆腐食材分开整理。"
+    },
+    {
+      "candidateIndex": 321,
+      "candidateId": "memory-5c312932d434",
+      "sourceId": "threeprov-source-f0e8905adceddb77",
+      "detail": "长乐烧属于梅州五华相关的地方酒类。地方行业与非遗活动资料有记录，酒类品牌、传统酿造技艺和具体产品度数分别核对。"
+    },
+    {
+      "candidateIndex": 322,
+      "candidateId": "memory-c4232b7508de",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "客家娘酒在梅州地方美食旅游线路中被列为代表风味。它属于地方酿造酒饮，原料和酒精度应以具体产品与工艺资料为准，不承诺滋补或特殊疗效。"
+    },
+    {
+      "candidateIndex": 323,
+      "candidateId": "memory-37bcd1def551",
+      "sourceId": "threeprov-source-1fa9e0617517dd5a",
+      "detail": "海丰小米是汕尾海丰的包馅小吃。地方文旅介绍描述其小巧、外皮薄软、肉馅弹牙，可配蚝油和辣椒酱；名称不是指小米这种粮食品种。"
+    },
+    {
+      "candidateIndex": 325,
+      "candidateId": "memory-5f458b7561b7",
+      "sourceId": "threeprov-source-1f52daf1751cabce",
+      "detail": "菜茶又称丁茶，是汕尾地方节日食品。市政府介绍其配料丰富，并加入熬制的骨头汤，名称虽含“茶”，不宜当成单一茶叶品种。"
+    },
+    {
+      "candidateIndex": 326,
+      "candidateId": "memory-66740bc73888",
+      "sourceId": "threeprov-source-23ef5543d3c730ea",
+      "detail": "汕尾薄饼与当地清明饮食习俗相连。市政府资料介绍用面团在热锅上摊出薄而韧的饼皮，再包入馅料，体现地方节令餐食的特点。"
+    },
+    {
+      "candidateIndex": 327,
+      "candidateId": "memory-c2d890fa5982",
+      "sourceId": "threeprov-source-d6601f68adf75940",
+      "detail": "陆河青梅是汕尾地方物产的一项。地方商务与展销资料有记录，鲜梅原料与青梅加工制品分别认识，不把展销商品的品牌信息当成品种名称。"
+    },
+    {
+      "candidateIndex": 328,
+      "candidateId": "memory-78ca38c64fff",
+      "sourceId": "threeprov-source-00dfed4dd10ab22b",
+      "detail": "甲子鱼丸是汕尾陆丰甲子相关的地方鱼制食品。地方粤菜文化展记录其作为本土宴席菜展示，鱼丸身份与具体鱼种、配方分别核查。"
+    },
+    {
+      "candidateIndex": 330,
+      "candidateId": "memory-a16f87934161",
+      "sourceId": "threeprov-source-b8f90a132d922da3",
+      "detail": "公平牛肉脯产于汕尾海丰公平镇。物产介绍记载选择肌肉、去除筋膜、切片等加工环节，成品属于地方肉脯，不与生鲜牛肉或其他城市肉干泛泛合并。"
+    },
+    {
+      "candidateIndex": 331,
+      "candidateId": "memory-d5b9702bf924",
+      "sourceId": "threeprov-source-13587af6dc17c930",
+      "detail": "河源客家黄酒被文化和旅游部河源线路列为地方特产。它是客家酿造与饮食文化的一条线索，具体品牌和酒精度依实际产品而定。"
+    },
+    {
+      "candidateIndex": 332,
+      "candidateId": "memory-57eb337776d1",
+      "sourceId": "threeprov-source-64529789a9438d46",
+      "detail": "东源仙湖茶是河源地方茶叶区域品牌。市政府产业资料将其与和平青州茶、龙川桂林茶等并列，展示了同一市域茶产区的多样性。"
+    },
+    {
+      "candidateIndex": 334,
+      "candidateId": "memory-6c4e09fabdac",
+      "sourceId": "threeprov-source-06833dacf21ade34",
+      "detail": "和平猕猴桃与河源和平的地方果品产业相连。农业与品牌报道有具体记录，卡片采用县域关联，不把区域品牌与某一果园或经销企业混作一体。"
+    },
+    {
+      "candidateIndex": 337,
+      "candidateId": "memory-b9651471dba9",
+      "sourceId": "threeprov-source-cd0da196c6ea1dcb",
+      "detail": "霸王花米粉是河源地方食品品牌。广东老字号年货推荐中有明确记录，这里保留品牌和米粉产品的关系，具体工厂、原料及规格看对应包装。"
+    },
+    {
+      "candidateIndex": 340,
+      "candidateId": "memory-a7ea24833c81",
+      "sourceId": "threeprov-source-8b5b9ba54d3a479d",
+      "detail": "程村蚝是阳江相关的地方海产产品。地方市场监管和新闻资料有记录，作为水产食材收录，不把同类蚝产品的销售地当作养殖产地。"
+    },
+    {
+      "candidateIndex": 341,
+      "candidateId": "memory-130180343159",
+      "sourceId": "threeprov-source-cd0da196c6ea1dcb",
+      "detail": "十八子作刀具是阳江地方生活用品与工艺品牌。广东老字号及地方文旅资料有明确记录，归入物品与工艺，不当作食品或食材。"
+    },
+    {
+      "candidateIndex": 353,
+      "candidateId": "memory-e4979c53c6c0",
+      "sourceId": "threeprov-source-b5e7491d0295dd55",
+      "detail": "厚街濑粉是东莞厚街的地方米食。南方媒体记录其制作技艺被纳入非遗名录，镇街信息作为地方说明保留，不把厚街镇误设为县级辖区。"
+    },
+    {
+      "candidateIndex": 354,
+      "candidateId": "memory-68cc60cded57",
+      "sourceId": "threeprov-source-cd0da196c6ea1dcb",
+      "detail": "道滘裹蒸粽是东莞地方食品。广东老字号介绍列有道滘裹蒸粽与其他名小食，体现米食与节庆手信文化，道滘镇不是县区筛选层级。"
+    },
+    {
+      "candidateIndex": 356,
+      "candidateId": "memory-7553ffba22af",
+      "sourceId": "threeprov-source-995108564aed1184",
+      "detail": "白沙油鸭是东莞腌腊食品的一项。文化和旅游部年俗资料记录其制作技艺，并与厚街腊肠、凤岗腊肠等并列，表现同一市域内的地方差异。"
+    },
+    {
+      "candidateIndex": 359,
+      "candidateId": "memory-a7b55bb10375",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "冼沙鱼丸在广东地方美食线路中被列为东莞风味。它属于地方鱼制食品，冼沙地名保留为地方说明，不由村落名称推断行政县区。"
+    },
+    {
+      "candidateIndex": 360,
+      "candidateId": "memory-f29a4519bf51",
+      "sourceId": "threeprov-source-125b5790bc365af1",
+      "detail": "石岐乳鸽被中山市政府列为地方名菜。它与中山脆肉鲩、小榄炸鱼球等共同构成本地饮食谱系，熟食菜肴与“石岐鸽”畜禽品种分开归类。"
+    },
+    {
+      "candidateIndex": 361,
+      "candidateId": "memory-1e1045bbb8ab",
+      "sourceId": "threeprov-source-125b5790bc365af1",
+      "detail": "小榄炸鱼球是中山地方鱼制名菜。市政府美食产业资料有明确记录，小榄为镇街层面的地域说明，不作为虚构县区加入筛选。"
+    },
+    {
+      "candidateIndex": 363,
+      "candidateId": "memory-dc6fee127547",
+      "sourceId": "threeprov-source-125b5790bc365af1",
+      "detail": "沙溪扣肉被中山市政府列为地方名菜。它属于当地肉食与宴席文化，食品类别、镇街地名和具体餐馆分开保留。"
+    },
+    {
+      "candidateIndex": 364,
+      "candidateId": "memory-1b3050e5485d",
+      "sourceId": "threeprov-source-125b5790bc365af1",
+      "detail": "三乡濑粉是中山地方米食。官方资料与地方米食报道均有记录，体现圆长米粉与本地饮食习俗的关系，三乡镇不是县级市或县区。"
+    },
+    {
+      "candidateIndex": 367,
+      "candidateId": "memory-e21c3cdd8f65",
+      "sourceId": "threeprov-source-fff5ba237c12d50f",
+      "detail": "崖口云吞被中山市政府名优特产栏目收录。它属于地方云吞餐食，崖口作为具体地方线索保留，不把村名升级为县区。"
+    },
+    {
+      "candidateIndex": 371,
+      "candidateId": "memory-220a3a424c1b",
+      "sourceId": "threeprov-source-cd0da196c6ea1dcb",
+      "detail": "潮州腐乳饼是地方糕饼，不是调味腐乳本身。广东老字号资料介绍其糕饼与腐乳风味关联，原料和加工产品分开归类。"
+    },
+    {
+      "candidateIndex": 372,
+      "candidateId": "memory-2c5411397cd4",
+      "sourceId": "threeprov-source-ecde0ec85f41b791",
+      "detail": "凤凰单丛是潮州地方茶类的重要代表。广东地方文旅与媒体介绍强调其香气特点，具体香型和批次品质需按茶品辨认，不将“单丛”泛指一种固定香味。"
+    },
+    {
+      "candidateIndex": 373,
+      "candidateId": "memory-be2cfff6822b",
+      "sourceId": "threeprov-source-221fc1441d4b4313",
+      "detail": "潮州的工夫茶与潮汕地区共享饮茶文化。广东文旅线路将品茶与潮州古城游览串联，本轮与潮汕工夫茶合并记录，避免按相似名称重复计数。"
+    },
+    {
+      "candidateIndex": 376,
+      "candidateId": "memory-07bf59de29ee",
+      "sourceId": "threeprov-source-cd0da196c6ea1dcb",
+      "detail": "潮汕牛肉火锅在潮州地方餐饮与老字号资料中有记录。它与鲜牛肉、肉丸等组合形成餐食体验，传统食品类别与具体店铺品牌分开整理。"
+    },
+    {
+      "candidateIndex": 378,
+      "candidateId": "memory-86c97240aff4",
+      "sourceId": "threeprov-source-5b35eaf09876b0fb",
+      "detail": "普宁豆干是揭阳地方豆制食品。地方官方文化介绍描述炸制后外脆内嫩的特点，作为地方加工食品收录，不把它归为一类未经加工的豆种。"
+    },
+    {
+      "candidateIndex": 382,
+      "candidateId": "memory-4db570096c11",
+      "sourceId": "threeprov-source-4e299af334922a88",
+      "detail": "揭西擂茶是揭阳地方美食线索。税务部门文旅报道有明确记录，擂茶在不同地区原料与吃法有差异，不把其他省市版本的配方自动套到揭西。"
+    },
+    {
+      "candidateIndex": 384,
+      "candidateId": "memory-3ded6a1b8468",
+      "sourceId": "threeprov-source-5fd6f097de821326",
+      "detail": "普宁豆酱在潮汕饮食介绍中作为地方调味品出现。它与鱼类等食材搭配的用法体现当地风味，食品产地与使用该调料的餐馆所在地分别看待。"
+    },
+    {
+      "candidateIndex": 389,
+      "candidateId": "memory-74d596faf308",
+      "sourceId": "threeprov-source-0be05cb058343487",
+      "detail": "郁南无核黄皮与云浮郁南地方果品及加工制品相关。市级文旅活动资料有明确记录，鲜果与黄皮加工手信分开认识，不因“无核”名称就推断所有黄皮品种无籽。"
+    },
+    {
+      "candidateIndex": 392,
+      "candidateId": "memory-b67b38529817",
+      "sourceId": "threeprov-source-0be05cb058343487",
+      "detail": "托洞腐竹是云浮地方豆制食材。官方文旅资料列有云安托洞腐竹，市情资料也将其列为地方产品，名称中的“托洞”与正式目录中的产品名保留为同一条目。"
+    }
+  ]
+}

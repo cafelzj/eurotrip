@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-cd02d0670e4e888c",
+  "title": "坚持高质量 把住高标准 推动“小米粉”做成“大产业” ——广西突出传统优势和地方特色，全力打造柳州螺蛳粉产业",
+  "url": "https://www.miit.gov.cn/gyhxxhb/jgsj/xfpgys/dfdt/art/2025/art_744cfbb6fb734cbe8c2e1eb127865bc9.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/cd02d0670e4e888c.raw",
+  "originalResponseSha256": "d7207483472d36c2158399d601e2dd86f59d43427b52a8d6e4b1ee2f6b4edf4b",
+  "readableFile": "research/.local/three-provinces-20261115/articles/cd02d0670e4e888c.txt",
+  "readableSha256": "31b333c2433b520b124a27230983e0b7f0522454ae4d2dc5376e0b1c7bcbfa6d",
+  "items": [
+    {
+      "itemId": "threeprov-a6597ace05e39fc299",
+      "name": "老友粉",
+      "initialCandidateId": "memory-eb4179c106d3",
+      "adoptedFacts": "老友粉是南宁地方米粉风味。工业和信息化部有关广西米粉产业的介绍明确列出南宁老友粉，与桂林米粉、柳州螺蛳粉等形成各有特色的米食谱系。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-26468061fb6cd8be2f",
+      "name": "柳州螺蛳粉",
+      "initialCandidateId": "memory-6785ce707ee5",
+      "adoptedFacts": "柳州螺蛳粉是广西地方米粉产业的重要代表。工业和信息化部介绍了柳州螺蛳粉从地方食品走向特色产业的过程；具体汤底、配菜和预包装产品配方仍因经营者而异。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

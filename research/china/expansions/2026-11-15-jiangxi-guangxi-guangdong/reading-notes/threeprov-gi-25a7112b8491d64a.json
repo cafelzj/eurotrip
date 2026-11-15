@@ -1,0 +1,63 @@
+{
+  "id": "threeprov-gi-25a7112b8491d64a",
+  "title": "地理标志产品公告 · 2018年第33号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "25a7112b8491d64a175bec960eaa96040a85f28e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2018年第33号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2018%E5%B9%B4%E7%AC%AC33%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "2e34139cf98b90256f267a7a6cb57a583d421b0ab523a712b3154e3fafa19ecf",
+    "textSha256": "caae40bc724cbce051fdf3dea451c0e050046c152de4972fd9d750111eaa9200",
+    "textLength": 37950,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/25a7112b8491d64a175bec960eaa96040a85f28e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-3b55aa5d9307bf761b",
+      "name": "都昌豆参",
+      "scope": "都昌豆参产地范围为江西省都昌县都昌镇、周溪镇、三汊港镇、中馆镇、大沙镇、万户镇、南峰镇、大港镇、蔡岭镇、徐埠镇、左里镇、和合乡、阳峰乡、西源乡、芗溪乡、狮山乡、鸣山乡、春桥乡、苏山乡、多宝乡、汪墩乡、北山乡、大树乡现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "外形长约三寸,体型溜圆,内芯蓬松,气孔均匀。色泽金黄,光泽度好。口感酥脆,软而不腻,具有菜油香味。质地不易碎,比较轻",
+      "process": "",
+      "sectionSha256": "7ce84381b5f56f312eb57f3c91c9e2a44085d4f09f4bf8e2c72d581b4525b94e"
+    },
+    {
+      "itemId": "threeprov-b31a1726ecdc897e8e",
+      "name": "共青城板鸭",
+      "scope": "共青城板鸭产地范围为江西省共青城市茶山街道、甘露镇、金湖乡、江益镇、苏家垱乡、泽泉乡现辖行政区域。",
+      "type": "dishes",
+      "variety": "",
+      "sensory": "扁平状呈桃圆型,肌肉紧实,皮薄肉嫩,体表光洁无小毛,表皮完整无破损,呈黄白色或乳白色,腹腔内壁干燥、肌肉切面呈玫瑰红色",
+      "process": "",
+      "sectionSha256": "6b9f46aa223cc472499e6b6ce8fcb19ca3e171cee05c1f888489a76ac4c11929"
+    },
+    {
+      "itemId": "threeprov-43554b5b7a84154ce2",
+      "name": "雷峰山茶",
+      "scope": "雷峰山茶产地范围为江西省彭泽县东升镇雷峰山(俗称:雷峰尖)为核心的自然山体及山脉延伸部分的浩山乡和东升镇(含上十岭垦殖场)现辖行政区域。",
+      "type": "tea",
+      "variety": "",
+      "sensory": "项目技术要求外形条索紧结粗实;色泽墨绿;稍有朴片香气纯正滋味尚醇汤色黄绿叶底尚嫩有单张,翠绿其他要无霉变、无劣变、无污染、无异味求产品洁净、不得着色、不得夹杂非杂类物质、不含任何添加剂",
+      "process": "",
+      "sectionSha256": "bd1fbb321419e7a5c6fe3cc3236ee784a3cb36480b7db4d063b1f6d011eb88be"
+    },
+    {
+      "itemId": "threeprov-94ba346a1f988ca675",
+      "name": "八乡山番薯",
+      "scope": "八乡山番薯产地范围为广东省梅州市丰顺县八乡山镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "生薯土黄色或紫红色,色泽鲜艳,外表光滑,块根为纺锤形。熟薯肉质细腻、口感清甜软糯香滑",
+      "process": "",
+      "sectionSha256": "c4ee796853b34a1d3fc41700325ae423ca4fe4ce9a22563432c548a5dff80453"
+    }
+  ]
+}

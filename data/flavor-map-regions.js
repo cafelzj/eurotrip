@@ -504,7 +504,9 @@ window.flavorMapRegions={
       },
       {
         "name": "济源",
-        "adcode": 419001
+        "adcode": 419001,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
       }
     ]
   },
@@ -675,19 +677,27 @@ window.flavorMapRegions={
       },
       {
         "name": "仙桃",
-        "adcode": 429004
+        "adcode": 429004,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
       },
       {
         "name": "潜江",
-        "adcode": 429005
+        "adcode": 429005,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
       },
       {
         "name": "天门",
-        "adcode": 429006
+        "adcode": 429006,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
       },
       {
         "name": "神农架",
-        "adcode": 429021
+        "adcode": 429021,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
       }
     ]
   },
@@ -888,6 +898,209 @@ window.flavorMapRegions={
       {
         "name": "大兴安岭",
         "adcode": 232700
+      }
+    ]
+  },
+  "jiangxi": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "南昌",
+        "adcode": 360100
+      },
+      {
+        "name": "景德镇",
+        "adcode": 360200
+      },
+      {
+        "name": "萍乡",
+        "adcode": 360300
+      },
+      {
+        "name": "九江",
+        "adcode": 360400
+      },
+      {
+        "name": "新余",
+        "adcode": 360500
+      },
+      {
+        "name": "鹰潭",
+        "adcode": 360600
+      },
+      {
+        "name": "赣州",
+        "adcode": 360700
+      },
+      {
+        "name": "吉安",
+        "adcode": 360800
+      },
+      {
+        "name": "宜春",
+        "adcode": 360900
+      },
+      {
+        "name": "抚州",
+        "adcode": 361000
+      },
+      {
+        "name": "上饶",
+        "adcode": 361100
+      }
+    ]
+  },
+  "guangxi": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "南宁",
+        "adcode": 450100
+      },
+      {
+        "name": "柳州",
+        "adcode": 450200
+      },
+      {
+        "name": "桂林",
+        "adcode": 450300
+      },
+      {
+        "name": "梧州",
+        "adcode": 450400
+      },
+      {
+        "name": "北海",
+        "adcode": 450500
+      },
+      {
+        "name": "防城港",
+        "adcode": 450600
+      },
+      {
+        "name": "钦州",
+        "adcode": 450700
+      },
+      {
+        "name": "贵港",
+        "adcode": 450800
+      },
+      {
+        "name": "玉林",
+        "adcode": 450900
+      },
+      {
+        "name": "百色",
+        "adcode": 451000
+      },
+      {
+        "name": "贺州",
+        "adcode": 451100
+      },
+      {
+        "name": "河池",
+        "adcode": 451200
+      },
+      {
+        "name": "来宾",
+        "adcode": 451300
+      },
+      {
+        "name": "崇左",
+        "adcode": 451400
+      }
+    ]
+  },
+  "guangdong": {
+    "level": "city",
+    "regions": [
+      {
+        "name": "广州",
+        "adcode": 440100
+      },
+      {
+        "name": "韶关",
+        "adcode": 440200
+      },
+      {
+        "name": "深圳",
+        "adcode": 440300
+      },
+      {
+        "name": "珠海",
+        "adcode": 440400
+      },
+      {
+        "name": "汕头",
+        "adcode": 440500
+      },
+      {
+        "name": "佛山",
+        "adcode": 440600
+      },
+      {
+        "name": "江门",
+        "adcode": 440700
+      },
+      {
+        "name": "湛江",
+        "adcode": 440800
+      },
+      {
+        "name": "茂名",
+        "adcode": 440900
+      },
+      {
+        "name": "肇庆",
+        "adcode": 441200
+      },
+      {
+        "name": "惠州",
+        "adcode": 441300
+      },
+      {
+        "name": "梅州",
+        "adcode": 441400
+      },
+      {
+        "name": "汕尾",
+        "adcode": 441500
+      },
+      {
+        "name": "河源",
+        "adcode": 441600
+      },
+      {
+        "name": "阳江",
+        "adcode": 441700
+      },
+      {
+        "name": "清远",
+        "adcode": 441800
+      },
+      {
+        "name": "东莞",
+        "adcode": 441900,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
+      },
+      {
+        "name": "中山",
+        "adcode": 442000,
+        "adminLevel": "city",
+        "hasCountyDivisions": false
+      },
+      {
+        "name": "潮州",
+        "adcode": 445100
+      },
+      {
+        "name": "揭阳",
+        "adcode": 445200
+      },
+      {
+        "name": "云浮",
+        "adcode": 445300
       }
     ]
   }

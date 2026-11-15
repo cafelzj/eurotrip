@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-c1c397f40c7f87b6",
+  "title": "地理标志产品公告 · 2011年第175号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c1c397f40c7f87b6fb6c6310924bd5f102d1956a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第175号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC175%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "fc1925da5fc572a29474588433932b78712b8816ca408f287143e6d0c2ab51eb",
+    "textSha256": "63c11b1d4a7c47918b43b02746954e32d1627198135eab17062cecce9364c78f",
+    "textLength": 6880,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c1c397f40c7f87b6fb6c6310924bd5f102d1956a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c1c397f40c7f87b6fb6c6310924bd5f102d1956a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-a262ea78960b86952d",
+      "name": "台山鳗鱼",
+      "scope": "台山鳗鱼产地范围为广东省台山市斗山镇、四九镇、端芬镇、海宴镇、赤溪镇、都斛镇、汶村镇、冲蒌镇、广海镇、深井镇等10个镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "日本鳗(Anguillajaponica)",
+      "sensory": "活鳗背部偏蓝色,皮薄肉嫩,肉质细腻;烤鳗呈棕黄色或棕红色,形态平整,口感细腻",
+      "process": "",
+      "sectionSha256": "1f9ff95f4412ad7949faaad3238197ca64891384fd6d6a8393263c7fb487ffc4"
+    },
+    {
+      "itemId": "threeprov-0d59b26d96fec03e6d",
+      "name": "萝岗糯米糍",
+      "scope": "萝岗糯米糍产地范围为广东省广州市萝岗区萝岗街道办事处、永和街道办事处、东区街道办事处、联和街道办事处、九龙镇5个镇、街道办事处现辖行政区域。",
+      "type": "ingredients",
+      "variety": "糯米糍",
+      "sensory": "果顶浑圆,双肩突出、对称,果皮薄、鲜红,龟裂片较大,较平,呈狭长形,缝合线较明显。果肉呈白蜡色,肉质嫩滑,多汁,无渣,酸甜可口",
+      "process": "",
+      "sectionSha256": "69d1943b91ded5bfa9f258344c5dbc4f332653eae937864804c61611942a29bf"
+    }
+  ]
+}

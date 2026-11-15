@@ -1,0 +1,73 @@
+{
+  "id": "threeprov-gi-3757ed6c71f53dec",
+  "title": "地理标志产品公告 · 2016年第128号_附件.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "3757ed6c71f53dec4a849a9df2dfa50e497b1b5e",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2016年第128号/2016年第128号_附件.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7/2016%E5%B9%B4%E7%AC%AC128%E5%8F%B7_%E9%99%84%E4%BB%B6.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "5b382af13507243a958742ce59a28dc8102a80c69af90195c1e880c20f615c73",
+    "textSha256": "845f302bfb63095d09df6275424b9fc3cdafda31688ab845e17b45286537c91e",
+    "textLength": 68722,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/3757ed6c71f53dec4a849a9df2dfa50e497b1b5e.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/3757ed6c71f53dec4a849a9df2dfa50e497b1b5e.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-9fca9209262d44e9ff",
+      "name": "铅山连四纸",
+      "scope": "",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "纸质绵韧,手感润柔,纸面平整洁净,有隐约竹帘纹。—93—附件29",
+      "process": "",
+      "sectionSha256": "e235c3e58a19e95dd8941b66c0bcad948c09653b79b97535f14fe011e896042c"
+    },
+    {
+      "itemId": "threeprov-d7a7e8e4946de22ae6",
+      "name": "会昌桔柚",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果皮金黄艳丽、色泽均匀、果面光滑、肉质细嫩化渣、无核或少核、汁多清甜",
+      "process": "",
+      "sectionSha256": "d4260809c03df5ea4ec802721f77eafb3f4b791d070e29f9cb6df4ff3313c19d"
+    },
+    {
+      "itemId": "threeprov-521f17cb96477200b3",
+      "name": "大埔青花瓷",
+      "scope": "",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "造型美观、明净素雅,釉层晶莹玉透、纯朴自然。青花纹饰图案手工彩绘,色彩着色力强,发色鲜艳,纹饰不易褪色。(二)",
+      "process": "",
+      "sectionSha256": "bc523ad31f061c7a36c731d1d373d1f35ea445c89e2dfae30b94370b006fe091"
+    },
+    {
+      "itemId": "threeprov-f6cc2610aee43da3f5",
+      "name": "蕉岭绿茶",
+      "scope": "",
+      "type": "tea",
+      "variety": "",
+      "sensory": "外形紧结,有锋苗,色泽绿润,干茶有浓郁的清香气味。汤色黄绿明亮,香气清香持久,滋味香醇甘滑,回甘持久,叶底绿亮,耐冲泡",
+      "process": "",
+      "sectionSha256": "1f58994dbf20028390a0429ec7cce1153c008e5b9b7328357ec51644356fc693"
+    },
+    {
+      "itemId": "threeprov-5ffc38dd0e3f5541f4",
+      "name": "潮阳姜薯",
+      "scope": "",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "表皮浅黄色至棕黄色,皮薄肉白,去皮后呈现乳白色;富含粘液质;口感爽脆、清甜顺滑。(2)",
+      "process": "",
+      "sectionSha256": "a6a3e6ccdce7f5110e8e40c0f4bfebc497ef14d4dd7867a1074ae7079e4b34c4"
+    }
+  ]
+}

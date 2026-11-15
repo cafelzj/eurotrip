@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-ecde0ec85f41b791",
+  "title": "“马”住这份广东“旅游特种兵”攻略，市长喊你抄作业了_南方网",
+  "url": "https://news.southcn.com/node_457bd632a7/ca719a2c1c.shtml",
+  "read": true,
+  "readMethod": "html-container:#content",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/ecde0ec85f41b791.raw",
+  "originalResponseSha256": "84a60a58df1af388d14c44db6830f31b31f4ceb7f371fbe3d9cb9ec706171fb3",
+  "readableFile": "research/.local/three-provinces-20261115/articles/ecde0ec85f41b791.txt",
+  "readableSha256": "e0e39492d9f7e32f979c045b510a8474e91648456d035c2fabaf9944aeb80729",
+  "items": [
+    {
+      "itemId": "threeprov-6409b8d0adf11f1502",
+      "name": "凤凰单丛(枞)茶",
+      "initialCandidateId": "memory-2c5411397cd4",
+      "adoptedFacts": "凤凰单丛是潮州地方茶类的重要代表。广东地方文旅与媒体介绍强调其香气特点，具体香型和批次品质需按茶品辨认，不将“单丛”泛指一种固定香味。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

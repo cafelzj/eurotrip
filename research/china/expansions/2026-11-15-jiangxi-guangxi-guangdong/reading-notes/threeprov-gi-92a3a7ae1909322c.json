@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-92a3a7ae1909322c",
+  "title": "地理标志产品公告 · 2007年第34号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC34%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "92a3a7ae1909322c5c601319235cea2279e49ee3",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2007年第34号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2007%E5%B9%B4%E7%AC%AC34%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c2c08d819dcdc91bd832e30fdc22cd8c723b4d99324f514f52a0816db64f7ef3",
+    "textSha256": "3e111cdea28028d84d1f05864856e73bf5f101a27ede6fc3b434e615ca02e9a3",
+    "textLength": 1621,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/92a3a7ae1909322c5c601319235cea2279e49ee3.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/92a3a7ae1909322c5c601319235cea2279e49ee3.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-cf6e2fa15140f20cc9",
+      "name": "天等指天椒",
+      "scope": "天等指天椒地理标志产品保护范围以广西壮族自治区天等县人民政府办公室《关于确认天等指天椒地理标志产品保护产地范围的函》(天政办发[2005]113号)提出的范围为准,为广西壮族自治区天等县现辖行政区域",
+      "type": "ingredients",
+      "variety": "地方指天椒优良品系",
+      "sensory": "成熟的天等指天椒鲜椒果颜色为鲜红色,表面油亮光泽,果形为指形,果实长3cm至6.5cm,最大果径0.8cm至1.6cm,辛辣味特强。天等指天椒干椒椒果颜色为橘红色至鲜红色,果面洁净有光泽,无异味,有强烈的刺鼻辣味。果实长2cm至5.0cm,表面有皱褶。辛辣味特强,醇香浓郁。2.天等指天椒",
+      "process": "",
+      "sectionSha256": "694d9db5329a8fb2667047e375a63d57a32cf4201e75d66745f9f80ce13fe4aa"
+    }
+  ]
+}

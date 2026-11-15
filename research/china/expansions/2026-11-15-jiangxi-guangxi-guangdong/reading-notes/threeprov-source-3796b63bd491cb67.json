@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-3796b63bd491cb67",
+  "title": "老字号进公园，越秀公园风行牛奶体验店为市民游客带来新体验",
+  "url": "https://lyylj.gz.gov.cn/zhzx/bmdt/content/post_8030181.html",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/3796b63bd491cb67.raw",
+  "originalResponseSha256": "1e37056c485d656b7c7721b494ae4c07e70d4e9fa01dd078da930b5f62fc4f1a",
+  "readableFile": "research/.local/three-provinces-20261115/articles/3796b63bd491cb67.txt",
+  "readableSha256": "be3a5705e21e30e4ab5ab15cf630c896aacea488b932c05080ee23597c1887b0",
+  "items": [
+    {
+      "itemId": "threeprov-5f2dcb47003d0146d0",
+      "name": "风行牛奶",
+      "initialCandidateId": "memory-9350856ae32f",
+      "adoptedFacts": "风行牛奶是广州地方乳品品牌。园林部门资料记录风行乳业与越秀公园体验店合作及五羊造型雪糕等产品，品牌文化与每款乳品的奶源、加工厂分别核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-089ca14133835eb0",
+  "title": "地理标志产品公告 · 2011年第121号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "089ca14133835eb033f127177573a0291f81a55d",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2011年第121号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2011%E5%B9%B4%E7%AC%AC121%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "31ecab6a70e35fc8c15002e49fe6762c4b621b0644061b6f9f71a4eae56b8262",
+    "textSha256": "da0c9c9530f8f97c33608dffa9b8532ecb618e185321836113c0fcc6040728e3",
+    "textLength": 5085,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/089ca14133835eb033f127177573a0291f81a55d.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/089ca14133835eb033f127177573a0291f81a55d.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-ff798e9592455ea403",
+      "name": "巴马矿泉水",
+      "scope": "",
+      "type": "drinks",
+      "variety": "",
+      "sensory": "无色、无味、无沉淀,清澈透亮,饮后清爽甘甜、口感温和醇厚",
+      "process": "",
+      "sectionSha256": "91a86536a08254b1c8a62bb36479e5dabc593b318a7563aa223d8a5dc81edf59"
+    }
+  ]
+}

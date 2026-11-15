@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-45d00b5ddfc55c30",
+  "title": "侨见大湾区｜佛山：最能“打”的城市_广东省人民政府侨务办公室",
+  "url": "https://www.qb.gd.gov.cn/mlgd/content/post_1057449.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/45d00b5ddfc55c30.raw",
+  "originalResponseSha256": "6265afcaa17d05259c5d03960e0a6b54b8ac0ca4dc9cea3c1ad4318616af3195",
+  "readableFile": "research/.local/three-provinces-20261115/articles/45d00b5ddfc55c30.txt",
+  "readableSha256": "1e5f2f1978eec9f060e30176f097004d3a86b9a0ab3903504a5e6352d5b3bea4",
+  "items": [
+    {
+      "itemId": "threeprov-7ad0307c23bbdf0297",
+      "name": "陈村粉",
+      "initialCandidateId": "memory-873f9ecbb499",
+      "adoptedFacts": "陈村粉与佛山顺德陈村地方米食相连。官方地方文化介绍将其与双皮奶等并列，可从米粉的形态、柔韧度和烹调搭配认识这一地方主食。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

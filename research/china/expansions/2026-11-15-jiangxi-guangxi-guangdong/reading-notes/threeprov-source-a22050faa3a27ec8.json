@@ -1,0 +1,28 @@
+{
+  "id": "threeprov-source-a22050faa3a27ec8",
+  "title": "江西·赣西“热辣鲜香”美食之旅",
+  "url": "https://zhuanti.mct.gov.cn/xcss2024_xcyfw/jiangxi/detail/7476.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/a22050faa3a27ec8.raw",
+  "originalResponseSha256": "7ef6c3766de22df3613f0baca4b1f75d8885d78634f9f3c3c581459b8c4fd8c6",
+  "readableFile": "research/.local/three-provinces-20261115/articles/a22050faa3a27ec8.txt",
+  "readableSha256": "0fb793bb58a7514594a69377aeb4fd4a86b3634922859d68a079643d40a3938d",
+  "items": [
+    {
+      "itemId": "threeprov-8e9101ab7aba45dbd2",
+      "name": "莲花血鸭",
+      "initialCandidateId": "memory-cc2fc2e47b88",
+      "adoptedFacts": "莲花血鸭以紫红油亮的色泽和鲜辣风味见长。文化和旅游部赣西美食线路将其作为亮点介绍，并明确记录了地方非遗关联。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    },
+    {
+      "itemId": "threeprov-e44e3c4fe1ad1d0bc6",
+      "name": "分宜螺蛳",
+      "initialCandidateId": "memory-99b921b51b9e",
+      "adoptedFacts": "分宜螺蛳是新余地方风味，文化和旅游部赣西美食线路特别介绍了分宜电厂螺蛳。其辨识点在于螺肉与鲜辣调味，不将同名风味直接对应某家门店。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

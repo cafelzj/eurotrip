@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-d1cf2af1908977c1",
+  "title": "地理标志产品公告 · 2010年第96号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "d1cf2af1908977c16563b441b70ef5c6f965d59a",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2010年第96号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2010%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6abbcd40e8bc18832a8de8d5562db72e477d42b6b12e2e54ecbb855b893776b6",
+    "textSha256": "dabac15663b0336ad87a5376fbc6480289e2306dc93e8ed921907df4e14ba96a",
+    "textLength": 7558,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/d1cf2af1908977c16563b441b70ef5c6f965d59a.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/d1cf2af1908977c16563b441b70ef5c6f965d59a.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-9631be98c7b4a08a3a",
+      "name": "清化粉",
+      "scope": "清化粉地理标志产品保护范围为广东省始兴县隘子镇、司前镇等2个镇现辖行政区域。",
+      "type": "staples",
+      "variety": "要求。1.大米:选用保护区内生产的籼稻米,其直链淀粉含量17%至26%。2.水:用于加工米粉的原料用水选用清化河水及清化河流域的天然山泉水。pH值为6.5至7.5,总硬度为20.0至35.0(CaO,mg/L),铁、锰含量≤0.005mg/L",
+      "sensory": "每扎粉重约125克。具有大米固有的天然清香,粉色晶莹油润;有“炒而不烂,煮而不糊”的特性,入口柔韧、软滑清爽,不粘牙、无牙碜、有咬劲",
+      "process": "要求。1.加工工艺流程:原料→精选→清洗→浸泡→磨浆→一次蒸粉→晾干→二次煮制→切粉→成型→干燥→包装→检验→成品2.加工操作要点:(1)原料精选:选用当地所产新鲜籼稻米,经簸、筛、检等工序剔除砂、稗、糠和谷粒等杂质。陈化期在3个月至9个月。(2)清洗:用水淘洗去除灰尘、泥土和漂浮杂质。(3)浸泡:将淘洗后的大米按1:2加水浸泡。春夏气温高时浸泡1至3小时;秋冬气温低时浸泡2至5小时。控制最后浸制的大米水分含量为25%至35%、手捻可碎为宜。(4)磨浆:将浸制好的大米按2:1质量比例加水磨浆。(5)一次蒸粉与晾晒:在不锈钢长方形粉盘底部和内侧均匀涂上一层",
+      "sectionSha256": "d4ceb9d3fa3dda7a7806526155f16ef4259685bf1f6fd156bbb566cc9645e58f"
+    },
+    {
+      "itemId": "threeprov-67fbf519ab17b82501",
+      "name": "怀集茶秆竹",
+      "scope": "怀集茶秆竹地理标志产品保护范围为广东省怀集县现辖行政区域。",
+      "type": "crafts",
+      "variety": "茶秆竹",
+      "sensory": "竹秆通直、节平、壁厚、光滑、不开裂",
+      "process": "",
+      "sectionSha256": "c397e84374f2a86137a47e734116568cfa14ac2e96ea22182d5e0be9bb2b3e4c"
+    }
+  ]
+}

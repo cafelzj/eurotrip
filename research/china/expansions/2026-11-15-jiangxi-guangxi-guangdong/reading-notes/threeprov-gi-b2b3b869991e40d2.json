@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-b2b3b869991e40d2",
+  "title": "地理标志产品公告 · 2006年第112号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "b2b3b869991e40d2c44f65ceda1ee0b649238a9c",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第112号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC112%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "e473f3b45a27a3975688daca1185bc08ec8d37b305ed8bf426db8f0e7baf3e37",
+    "textSha256": "1e5a8a9227f0f4d56d7928fec455941832987757b4f2c72735100f1120fca7a4",
+    "textLength": 1278,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/b2b3b869991e40d2c44f65ceda1ee0b649238a9c.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/b2b3b869991e40d2c44f65ceda1ee0b649238a9c.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-ac31f4d20e9f98d964",
+      "name": "平远脐橙",
+      "scope": "平远脐橙地理标志产品保护范围以广东省平远县人民政府《关于平远脐橙申请原产地保护种植区范围的批复》(平府函[2004]52号)提出的范围为准,为广东省平远县现辖行政区域",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实椭圆形,果形端正,果实横径61mm至95mm,开脐或闭脐,开脐宽≤10mm。橙红色或橙色",
+      "process": "",
+      "sectionSha256": "8ee7f1c561d488a9d16e523663738f32c87193b731d585f9955fbc7321d7f69d"
+    }
+  ]
+}

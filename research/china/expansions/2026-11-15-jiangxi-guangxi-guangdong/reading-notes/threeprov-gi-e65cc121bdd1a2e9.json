@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-e65cc121bdd1a2e9",
+  "title": "地理标志产品公告 · 2019年第331号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2019%E5%B9%B4%E7%AC%AC331%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "e65cc121bdd1a2e93164d9c890a2e8bbcf1cfd30",
+    "repositoryPath": "data/origin/国家知识产权局地理标志保护产品批准公告/2019年第331号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%9B%BD%E5%AE%B6%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2019%E5%B9%B4%E7%AC%AC331%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "852f84c189becc7b44723c6e5b386b38bd1e536e3110806abf3511225bc5354c",
+    "textSha256": "d8c10934083ab0a6217c880326347ae8dcc0517cf66a54fa8dd4416b458188b9",
+    "textLength": 6117,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/e65cc121bdd1a2e93164d9c890a2e8bbcf1cfd30.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/e65cc121bdd1a2e93164d9c890a2e8bbcf1cfd30.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-6409492b386e05d936",
+      "name": "忻城糯玉米",
+      "scope": "广西壮族自治区来宾市忻城县现辖行政区域",
+      "type": "ingredients",
+      "variety": "“老唐朝”或者以“老唐朝”为基础培育的糯玉米品种",
+      "sensory": "加工脱皮后籽粒为椭圆形,颗粒圆润饱满,呈乳白色。颗粒大小分为小、中、大三个等级,小颗粒千粒重10~80g,中颗粒千粒重80~200g,大颗粒千粒重200~300g。颗粒软硬适中,熬粥后香甜软糯,口感极佳",
+      "process": "碾米脱皮加工,工艺流程为:原料→清理、筛选→泡水→一次加工(碾米脱皮)→二次加工(玉米头、米糠分离)→三次加工(抛光喷风)→分级筛选→双色选→包装",
+      "sectionSha256": "9e78c0108a542f87ccacca29c779b650eed29c92f23f62aa411a2d8a41ff6d6f"
+    }
+  ]
+}

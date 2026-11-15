@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-2764b1db357fd78b",
+  "title": "地理标志产品公告 · 2006年第219号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC219%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "2764b1db357fd78b5a011f8ef95e849dadd6af38",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2006年第219号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2006%E5%B9%B4%E7%AC%AC219%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "ee8f9766a2344733860ab1cbf90c5ffe40b4680acd33ce36d53780d543f80094",
+    "textSha256": "cfd653d8411502779d32c8289df073af2825cb0ab554e6def8b17d9533500045",
+    "textLength": 1461,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/2764b1db357fd78b5a011f8ef95e849dadd6af38.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/2764b1db357fd78b5a011f8ef95e849dadd6af38.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-108242d20bb6d025ff",
+      "name": "化橘红",
+      "scope": "化橘红地理标志产品保护范围以广东省化州市人民政府《关于要求划定化橘红产地范围的函》(化府函[2006]25号)提出的范围为准,为广东省化州市河西街道、石湾街道、新安镇、官桥镇、中垌镇、丽岗镇、林尘镇、江湖镇、合江镇、那务镇、平定镇、文楼镇、播扬镇、宝圩镇14个镇、街道现辖行政区域",
+      "type": "ingredients",
+      "variety": "芸香科植物化州柚Citrusgrandis‘Tomentosa’",
+      "sensory": "果皮表面黄绿色或青褐色,密布茸毛,有小油室,气味芳香,味苦、微辛;",
+      "process": "1.化橘红珠(胎果)的加工:将化橘红鲜果(幼果)经沸水汤漂后烘干或直接高温烘干,烘干温度为80°C至90°C(下同)。2.化橘红片(皮)的加工:化橘红鲜果经沸水汤漂或高温烘断青变软,再用切刀在化橘红果顶端开刀,往下行半径切至3/4收刀,共切5刀或7刀,削去果内瓤,烘干。经加工处理的产品包装销售或贮存",
+      "sectionSha256": "54e73995799037a11e28576733350f0b096592d33746f9d878cb4762c15ae045"
+    }
+  ]
+}

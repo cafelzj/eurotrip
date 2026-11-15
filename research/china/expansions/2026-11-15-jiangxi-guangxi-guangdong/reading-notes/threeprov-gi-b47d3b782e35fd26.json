@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-b47d3b782e35fd26",
+  "title": "地理标志产品公告 · 2009年第107号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC107%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "b47d3b782e35fd26e1797cfd36b222ca783ee679",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2009年第107号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2009%E5%B9%B4%E7%AC%AC107%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "e0b6c80ae34fbee9caf8dd11743fa1272af4ecbb3bef01bc7740d11364a33338",
+    "textSha256": "3f40ce4d10d33065059f9b5d0c7f9e924d03bf598b91ef70d30e7e9f35f03d3d",
+    "textLength": 8315,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/b47d3b782e35fd26e1797cfd36b222ca783ee679.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/b47d3b782e35fd26e1797cfd36b222ca783ee679.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-722429cf986d3b7b75",
+      "name": "丰城冻米糖",
+      "scope": "丰城冻米糖地理标志产品保护范围为江西省丰城市现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "具有“香、甜、酥、脆”的特点,洁白晶亮,松脆爽口,入口消融,食后无渣无屑、不粘牙、不塞牙",
+      "process": "1.饴糖生产技术规范:(1)麦芽汁的生产:采用地板发芽,湿度控制在15至17°C,麦粒水分控制在43%至48%,发芽室的相对湿度控制在90%以上,发芽过程中适度翻麦,发芽时间为6至7天,将生长充分的麦芽切碎榨汁。(2)原料米蒸煮:用本地大米,蒸煮至淀粉完全糊化,然后自然冷却到60°C左右,加入麦芽汁,在自然条件下酶解。(3)酶解:麦芽汁加入量2%,混合原料放入糖化锅,温度维持在60°C至62°C,保温40分钟,再升温至70°C,维持5分钟,之后迅速升温至78°C,灭酶。(4)过滤:要求滤液无杂质。(5)熬制:明火熬制约15分钟,使产品最终固形物浓度达到9",
+      "sectionSha256": "79f3558ebdc8836f28f334f2c90a0b75500d2a6af724198d50ce4ca427e9f527"
+    }
+  ]
+}

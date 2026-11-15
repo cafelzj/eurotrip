@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-c97a7ca6cd1a8a96",
+  "title": "地理标志产品公告 · 2008年第64号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC64%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c97a7ca6cd1a8a9665a02c2cfdd72ca34dd104f9",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2008年第64号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2008%E5%B9%B4%E7%AC%AC64%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "3e56546a22d2c42ceb42945cdc96e3d829a9670f0fd122185c2a3cce3166a2d7",
+    "textSha256": "5bccacd69d775cf7aa788a9ee6118b22477d9ae7522359288c66577865d3acee",
+    "textLength": 8901,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c97a7ca6cd1a8a9665a02c2cfdd72ca34dd104f9.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c97a7ca6cd1a8a9665a02c2cfdd72ca34dd104f9.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-2461501f8e899ee659",
+      "name": "新兴香荔",
+      "scope": "新兴香荔地理标志产品保护范围以广东省新兴县人民政府《关于划定新兴香荔地理标志产地范围的函》(新府发〔2007〕27号)提出的范围为准,为广东省新兴县新城镇、太平镇、东成镇、簕竹镇、车岗镇、六祖镇等6个镇现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": ";项目指标果型果小,长卵形,果顶钝圆,近果顶处缝合线明显;果皮果皮深红色,龟裂片密,突尖有刺手感;肉厚,白蜡色,肉质爽脆多汁,富有弹性,味清甜而浓香,甜酸适果肉中",
+      "process": "",
+      "sectionSha256": "0d36c74ab986e918377b933ddb90bfe4c0366a07ffcf4de9de6b1454a5afbf65"
+    },
+    {
+      "itemId": "threeprov-336efb8f5afaa23b81",
+      "name": "西牛麻竹笋",
+      "scope": "西牛麻竹笋产地范围的函》(英府函〔2007〕24号)提出的范围为准,为广东省英德市内低丘陵坡地,范围在东经112°45′至113°55.1′,北纬23°50′至24°33′。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "(1)新鲜笋:项目指标表皮呈淡黄色,长筒形,身长60至100厘米(笋头露出2至3个青节)。外观笋头笋尾粗大、肉厚,有2至3个青节,节间表细嫩、笋肉洁白皮嫩绿色,笋肉洁白。爽口、笋味甘甜、香浓、渣少、粗纤维鲜嫩、笋味甘甜、香浓、品质含量高。渣少。(2)保鲜笋:项目要求色泽笋肉呈微黄色或白色,同一包装笋肉色泽均匀。香气和滋味笋味香浓,具有泡笋特有的香气和滋味,无异味。品质笋味甘甜、香浓、鲜嫩、爽口、无渣。笋肉呈丝条状或块状,同一包装的笋肉大小形态基本均匀,无形态杂质,允许有少量笋肉碎屑",
+      "process": "1.新鲜笋的加工:去除外壳、杂屑,然后清洗干净。2.保鲜笋的加工:以新鲜西牛麻竹笋为原材料,经清洗切片(丝)、杀青、去除杂质、加柠檬酸使pH值控制在4.2至4.3、称重、真空包装,然后杀菌、干燥、装箱",
+      "sectionSha256": "bd6402d240cf0b8701fe3f77b56db63189cb8c235a46d83cdfcad55388049ebe"
+    }
+  ]
+}

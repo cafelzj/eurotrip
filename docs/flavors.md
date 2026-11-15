@@ -1,6 +1,6 @@
 # 风物食单：地方食品、物产与工艺
 
-更新：2026-11-15。4255项风物已全部迁入中国城市，独立功能已撤下。入口 `#card-manager/china?primary=food`，面食入口 `#card-manager/china?primary=food&secondary=staples`。旧链接继续转入。完整保留目录、验收记录与维护顺序见 [迁移说明](flavor-migration.md)。下文保留资料核对过程与研究边界。
+更新：2026-11-15。当前5051项地方风物（5004项有来源、47项原有待核），均在中国城市统一展示；原4255项风物已全部迁入中国城市，独立功能已撤下。入口 `#card-manager/china?primary=food`，面食入口 `#card-manager/china?primary=food&secondary=staples`。旧链接继续转入。完整保留目录、验收记录与维护顺序见 [迁移说明](flavor-migration.md)。新增江西222、广西302、广东272项，见 [本批底稿与采用](../research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)。下文各历史批次保留当时数字与研究边界，当前计数以正式数据和上述批次记录为准。
 
 目录现有 **4255 项**，含 **702 项面食**、**144 项物品与工艺**、**2106 个来源记录**。其中4208项有来源、47项待核实，已超过4000项目标。本轮新增2143项，另作363次别名合并或来源补充；原2112项及ID均保留。数量不表示全部地域或品类查证完成。
 

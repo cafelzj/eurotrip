@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-a4323b3ca46650db",
+  "title": "四特-老字号数字博物馆",
+  "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/346fbf7bc567487cb3be48fabc3380f2",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/a4323b3ca46650db.raw",
+  "originalResponseSha256": "f9007fdad6ebe1ea520f4d8221e7174ce49ab1d901bc5523d24cab8661ca27f9",
+  "readableFile": "research/.local/three-provinces-20261115/articles/a4323b3ca46650db.txt",
+  "readableSha256": "188628a3f7ce0acd81872b242f261bb1bacd4175685feab093ff0d45bd754d62",
+  "items": [
+    {
+      "itemId": "threeprov-8b004a434691a2a31a",
+      "name": "四特酒",
+      "initialCandidateId": "memory-59c87613c35c",
+      "adoptedFacts": "四特酒与宜春樟树的酿酒传统相连。商务部老字号资料记载其前身为樟树酒厂，产品属特香型白酒；不同系列与度数应按实际标签辨认。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

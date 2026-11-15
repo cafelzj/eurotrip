@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-556ca75dc5c98999",
+  "title": "崇左国家边海风景道探秘之旅",
+  "url": "https://zhuanti.mct.gov.cn/csxz2022/guangxi/detail/1523.html",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/556ca75dc5c98999.raw",
+  "originalResponseSha256": "4556b77dd6913f8ee7a8fd6cb09e4d30d0e5729d69c442e8bf03c372da653a3b",
+  "readableFile": "research/.local/three-provinces-20261115/articles/556ca75dc5c98999.txt",
+  "readableSha256": "0b8155b75c661f6be8ba9b3f57e9df4d1d7527ef6c9283760643433e86f0d45a",
+  "items": [
+    {
+      "itemId": "threeprov-650e272261cab0d107",
+      "name": "宁明沙糕",
+      "initialCandidateId": "memory-233b0e5236c4",
+      "adoptedFacts": "宁明沙糕被文化和旅游部崇左线路列为地方特产。它属于地方糕点类，可与龙州沙糕等周边风味比较，具体原料与制法仍分别核对。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

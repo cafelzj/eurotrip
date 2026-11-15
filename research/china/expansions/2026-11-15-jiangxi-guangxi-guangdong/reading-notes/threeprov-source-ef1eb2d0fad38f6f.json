@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-ef1eb2d0fad38f6f",
+  "title": "龙南市情况简介 | 龙南市人民政府",
+  "url": "https://www.jxln.gov.cn/lnzf/c103680/202301/454db4479e1d41cb906b5da171d1616f.shtml",
+  "read": true,
+  "readMethod": "html-container:#zoomcon",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/ef1eb2d0fad38f6f.raw",
+  "originalResponseSha256": "4f679ba399ac4bd635cce2bdb1ad294129f2859a1bbd6751b60317e54392352a",
+  "readableFile": "research/.local/three-provinces-20261115/articles/ef1eb2d0fad38f6f.txt",
+  "readableSha256": "3239eb1e294097bc4b4866f949a9920f5e2816a06912a8ea5977b205fc1ceda5",
+  "items": [
+    {
+      "itemId": "threeprov-7882333dfdc055dae7",
+      "name": "龙南捶鱼",
+      "initialCandidateId": "memory-3e591ee0ca08",
+      "adoptedFacts": "龙南捶鱼是当地客家饮食的一项代表。龙南市政府的地方概况中有记录，名称所指为鱼制食品工艺，不将其与其他城市同名鱼丸自动合并。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

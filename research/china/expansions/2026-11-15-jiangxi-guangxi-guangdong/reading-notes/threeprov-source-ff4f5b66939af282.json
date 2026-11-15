@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-ff4f5b66939af282",
+  "title": "食在赣州 | 赣州市人民政府",
+  "url": "https://www.ganzhou.gov.cn/c100161/list_sq_ry_3.shtml",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/ff4f5b66939af282.raw",
+  "originalResponseSha256": "2e53a26e5abbcac697db4668e7c73ff351ad81d200527b22dceadbd2a3ab4d2e",
+  "readableFile": "research/.local/three-provinces-20261115/articles/ff4f5b66939af282.txt",
+  "readableSha256": "71fd0f59565681cd1f1fe05bea193ddcec6b902142a2462f4034e9f6b980f727",
+  "items": [
+    {
+      "itemId": "threeprov-55399e2f341856190e",
+      "name": "兴国米粉鱼",
+      "initialCandidateId": "memory-a292605b88e8",
+      "adoptedFacts": "兴国米粉鱼被赣州市政府列入地方美食。认识这道菜应留意米粉与鱼肉组合的蒸制风味，而不是把“米粉鱼”误归为一碗米粉主食。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

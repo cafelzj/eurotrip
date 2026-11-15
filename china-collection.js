@@ -22,7 +22,8 @@ window.ChinaCollection=(()=>{
  function inCounty(n,county){return county==='all'||(county==='unspecified'?!countyCodes(n).length:countyCodes(n).includes(Number(county)));}
  function label(n){
   const ps=provinceIds(n).map(id=>catalog.provinces.find(p=>p.id===id)?.name).filter(Boolean),cs=cityNames(n),counties=countyCodes(n).map(code=>countyNames.get(code)).filter(Boolean);
-  return [ps.join(' / ')||'中国',cs.filter(c=>!ps.includes(c)).join(' / '),counties.length>2?counties.length+'个县区':counties.join('、')||'县区待明确'].filter(Boolean).join(' · ');
+  const wholeCity=cs.length===1&&provinceIds(n).some(p=>admin.get(p+'|'+cs[0])?.hasCountyDivisions===false);
+  return [ps.join(' / ')||'中国',cs.filter(c=>!ps.includes(c)).join(' / '),counties.length>2?counties.length+'个县区':counties.join('、')||(wholeCity?'全市范围':'县区待明确')].filter(Boolean).join(' · ');
  }
  function integrate(store){
   const {nodes,edges,add,connect,aliases}=store;

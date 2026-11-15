@@ -1,0 +1,21 @@
+{
+  "id": "threeprov-source-c64ef2d9d023d85d",
+  "title": "佛山乐从鱼腐：舌尖乡情 因地制宜_央广网",
+  "url": "https://www.cnr.cn/gd/zt/wqzw/20210220/t20210220_525416976.shtml",
+  "read": true,
+  "readMethod": "html-body-fallback",
+  "originalResponseFile": "research/.local/three-provinces-20261115/articles/c64ef2d9d023d85d.raw",
+  "originalResponseSha256": "63f505fefe225b6f241c47d8de9c2c6621394e1eecd0d701de466dfe376b7656",
+  "readableFile": "research/.local/three-provinces-20261115/articles/c64ef2d9d023d85d.txt",
+  "readableSha256": "121c969e45847a0ec7bc3ada1935830462f5f1e36746d5cd79a50428f3e0ef25",
+  "items": [
+    {
+      "itemId": "threeprov-f7bc51929f7ece207e",
+      "name": "乐从鱼腐",
+      "initialCandidateId": "memory-b8a92ae5fa0e",
+      "adoptedFacts": "乐从鱼腐是佛山顺德的地方鱼制食品。央广报道介绍其工艺与乡情，名称与豆腐不同，不应仅因带“腐”字就归为普通豆制品。",
+      "scope": "名称、地方关联与正文明确支持的识别特征；未核对配方、传说、疗效和最新经营情况不作为事实采用。"
+    }
+  ],
+  "limitations": "采用事实范围见各条；搜索命中不计作正文阅读；未采用导航中的跨地域同名词、宣传疗效、无史料传说和未经核实的实时营业信息。"
+}

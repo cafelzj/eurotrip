@@ -1,0 +1,43 @@
+{
+  "id": "threeprov-gi-e011caf3c10cbd67",
+  "title": "地理标志产品公告 · 2015年第96号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "e011caf3c10cbd67338c2e3426359dec72529686",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2015年第96号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2015%E5%B9%B4%E7%AC%AC96%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "c1c557cc31846d3a928850546e5763ec55ed5f9e098d643b5d19b624f6f8b74f",
+    "textSha256": "c33d44787cd7f3a313c1e65d42a21e9109df493cffd4027cec7c7dc27a050ae7",
+    "textLength": 39063,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/e011caf3c10cbd67338c2e3426359dec72529686.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/e011caf3c10cbd67338c2e3426359dec72529686.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-27fb4ffd8f2dd330d6",
+      "name": "连平鹰嘴蜜桃",
+      "scope": "连平鹰嘴蜜桃产地范围为广东省连平县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "果实近椭圆形,果皮青色带红晕。肉质爽脆、味甜如蜜",
+      "process": "",
+      "sectionSha256": "ae1cb79609b8bbd56eba2cf3a70bc7e736658af3cadc093029e491c7dfefe677"
+    },
+    {
+      "itemId": "threeprov-84695e38397193a584",
+      "name": "莞香",
+      "scope": "莞香产地范围为广东省东莞市东城街道办事处、南城街道办事处、厚街镇、寮步镇、大岭山镇、茶山镇共6个乡镇街道办事处现辖行政区域。",
+      "type": "crafts",
+      "variety": "",
+      "sensory": "形态呈不规则块状、片状和盔状,香质表面多凹凸不平,孔洞及凹窝表面腐木状,质坚实,色泽呈黑色或褐棕色,油格呈晶体状,油色光润,富有一定香气。燃点时带有特殊的香味及凉甜感觉",
+      "process": "",
+      "sectionSha256": "9d61c227b7d4769246493d35950ba1b2fd2b22a9f73bbfbf043d3eedc8de52a9"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "threeprov-gi-c5b01adb99896ad7",
+  "title": "地理标志产品公告 · 2014年第55号.pdf",
+  "url": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+  "read": true,
+  "readMethod": "programmatic-original-pdf-sections-with-editorial-scope-and-category-review",
+  "provenance": {
+    "id": "c5b01adb99896ad7b6a03594ca486a7ffb2aa9dd",
+    "repositoryPath": "data/origin/原质监总局地理标志保护产品批准公告/2014年第55号.pdf",
+    "mirrorUrl": "https://raw.githubusercontent.com/JinQiangShi/Chinese-Nationnal-Geographic-Products/4d96ec5fbdc26244e9e4db81b073316fc6daa92b/data/origin/%E5%8E%9F%E8%B4%A8%E7%9B%91%E6%80%BB%E5%B1%80%E5%9C%B0%E7%90%86%E6%A0%87%E5%BF%97%E4%BF%9D%E6%8A%A4%E4%BA%A7%E5%93%81%E6%89%B9%E5%87%86%E5%85%AC%E5%91%8A/2014%E5%B9%B4%E7%AC%AC55%E5%8F%B7.pdf",
+    "repositoryCommit": "4d96ec5fbdc26244e9e4db81b073316fc6daa92b",
+    "scope": "官方公告的GitHub镜像；实际读取镜像PDF，不声称已比对原站PDF字节。",
+    "read": true,
+    "pdfSha256": "6f37bd97f2ece1bd98f6c06600b411cb47a5ed85c0a9396043c6054ead0a9f8a",
+    "textSha256": "3a1e0add97a05449e2e95d1a28ed16a2630e9b50e3b893726cc6ba78c4568222",
+    "textLength": 17311,
+    "pdfFile": "research/.local/program-4000/github-gi/official-pdfs/c5b01adb99896ad7b6a03594ca486a7ffb2aa9dd.pdf",
+    "textFile": "research/.local/program-4000/github-gi/official-pdfs/c5b01adb99896ad7b6a03594ca486a7ffb2aa9dd.txt"
+  },
+  "scope": "固定提交中的公告PDF镜像；已核对原始PDF字节、提取文本和各产品独立章节，未声称与官方站点PDF逐字节比对。",
+  "items": [
+    {
+      "itemId": "threeprov-ba590d334615a151b9",
+      "name": "连山大米",
+      "scope": "连山大米产地范围为广东省连山壮族瑶族自治县现辖行政区域。",
+      "type": "ingredients",
+      "variety": "",
+      "sensory": "米粒色泽晶莹玉白;形状呈细长或长圆形。米饭晶莹剔透,富有光泽,柔而不粘,质地适中,有自然清淡的香甜味,冷饭不回生",
+      "process": "",
+      "sectionSha256": "859416e481d27756577e76e8029e9981f1b0670aaffd794935118c37e3513d4a"
+    }
+  ]
+}
