@@ -1,0 +1,20 @@
+{
+  "id": "national-01-796d744fedac7be9",
+  "title": "去湘潭，在半部湘菜史写就的小城尝一回地道美食 - 湖南省文化和旅游厅",
+  "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202406/t20240626_33337326.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/796d744fedac7be9.html",
+  "originalResponseSha256": "a6b582cb6505fae2ffaa16ba08520c1aa332be15402015755490d669f79a2e56",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/796d744fedac7be9.txt",
+  "readableSha256": "9506e82e6e2f8259b47d6509e01ae997e35ab914465887b827d8c4996ab6639d",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "name": "剁椒鱼头",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

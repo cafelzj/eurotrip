@@ -1,0 +1,20 @@
+{
+  "id": "national-01-8402857f7df62131",
+  "title": "中共南京市委 南京市人民政府",
+  "url": "https://www.nanjing.gov.cn/zzb/ywdt/njxx/202607/t20260724_5882492.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/8402857f7df62131.html",
+  "originalResponseSha256": "a7fda2de2a9082657bf9a6e6726bdfb686ba8f554b2dc2d59fd28cb3fa894e3a",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/8402857f7df62131.txt",
+  "readableSha256": "1ed3cea75abef646bf7759507dfd3967d9ea53cab7c70f7af23e9886d87bd562",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "js-salted-duck",
+      "name": "南京盐水鸭",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "national-01-80df11e55497e55c",
+  "title": "乐游沈阳经典线路——老边饺子",
+  "url": "https://ln.people.com.cn/n2/2021/0725/c400028-34836339.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/80df11e55497e55c.html",
+  "originalResponseSha256": "2face2f6f60f31da64e1ed1b02747f575cc19fbfbbe1fd3a8e254ada7848cce1",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/80df11e55497e55c.txt",
+  "readableSha256": "dc0cec2d087dd9d2d82686e53ee35b4188918ab1cf034509fcdee91edfacb46e",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "name": "老边饺子",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

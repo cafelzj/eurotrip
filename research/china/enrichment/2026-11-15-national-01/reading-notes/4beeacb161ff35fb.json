@@ -1,0 +1,20 @@
+{
+  "id": "national-01-4beeacb161ff35fb",
+  "title": "小吃制作技艺（逍遥胡辣汤制作技艺） - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+  "url": "https://www.ihchina.cn/project_details/23592.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/4beeacb161ff35fb.html",
+  "originalResponseSha256": "c46e54a8d5a1deb0c5479de76309f4a00f800c3708fedd9bf41b85faad5b84ff",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/4beeacb161ff35fb.txt",
+  "readableSha256": "f64ed0ed423df97da4cd0e0346eea27775d7671dce4ba4ee78a5aa9cf6b22977",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-henan-16b2a471d7",
+      "name": "胡辣汤",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

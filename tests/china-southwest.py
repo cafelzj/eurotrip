@@ -62,7 +62,7 @@ photos=js('data/flavor-images.js');old=js('research/.local/southwest-20261115/ba
 assert all(photos['cards'][k]==v for k,v in old['cards'].items());assert all(photos['assets'][k]==v for k,v in old['assets'].items())
 coverage=read(B/'image-coverage.json');assert coverage['totalCards']==1135 and coverage['illustratedCards']==35 and len(coverage['missingCards'])==1100
 assert coverage['goalReached']is False and coverage['coveragePercent']==3.08
-assert len(photos['cards'])==44
+assert len(photos['cards'])>=44  # Later reviewed enrichment batches may add images.
 for n in read(B/'image-review.json')['records']:
  if n['status']!='adopted':continue
   # Only manually approved subjects have an image binding.

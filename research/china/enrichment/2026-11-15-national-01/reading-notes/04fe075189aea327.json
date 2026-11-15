@@ -1,0 +1,20 @@
+{
+  "id": "national-01-04fe075189aea327",
+  "title": "天上龙肉美 地下驴肉香——河间驴肉火烧的由来",
+  "url": "https://web.cmc.hebtv.com/cms/rmt0336/0/0rmhlm/mt/sh/fbt/11410541.shtml",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/04fe075189aea327.html",
+  "originalResponseSha256": "c10cbe428090369021c2f67a05229ff93803e9154a34525c5dd6375be1875eb1",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/04fe075189aea327.txt",
+  "readableSha256": "a6ac48c8eb51a633c1624109282f9f55d19a73a9d4d4ba309858765b404b3c1c",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-hebei-848d9c6f4e",
+      "name": "驴肉火烧",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

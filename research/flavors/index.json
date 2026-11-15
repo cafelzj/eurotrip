@@ -2,6 +2,7 @@
   "updated": "2026-11-15",
   "description": "研究底稿统一索引；正式网页展示读取runtimeFiles，不直接读取候选和历史稿。",
   "runtimeFiles": [
+    "data/china-card-reading.js",
     "data/flavors.js",
     "data/flavor-map-regions.js",
     "data/flavor-counties.js",
@@ -44,6 +45,7 @@
     "research/archives/2026-11-14-pre-organization.json",
     "research/archives/2026-11-15-china-collection.json",
     "research/archives/2026-11-15-flavor-county-media.json",
+    "research/archives/2026-11-15-national-enrichment-01.json",
     "research/archives/2026-11-15-shaanxi-gansu.json",
     "research/archives/2026-11-15-southwest.json",
     "research/archives/2026-11-15-three-provinces.json",
@@ -64,8 +66,8 @@
     {
       "path": "research/flavors/README.md",
       "role": "current-index-or-audit",
-      "bytes": 4889,
-      "sha256": "785bacd748ee35c4211f3d707609bd6edae6403c25e3f53ec802b9da6132650a"
+      "bytes": 5345,
+      "sha256": "048d2ab43af4542d3d26a2be679358ae107d7c4b254196dc4aa5082a3bfd22de"
     },
     {
       "path": "research/flavors/batches/2026-11-14/README.md",
@@ -154,14 +156,14 @@
     {
       "path": "research/flavors/images/coverage.json",
       "role": "image-review-or-backlog",
-      "bytes": 206617,
-      "sha256": "0fc977a996809390faca674a1e577f1ef3f5e4ddaa6222297347d273a77e015b"
+      "bytes": 206291,
+      "sha256": "9da2ce2d862227a777970025aa6dd7f47db461bec0885ed8eda31f19644cebcd"
     },
     {
       "path": "research/flavors/images/review.json",
       "role": "image-review-or-backlog",
-      "bytes": 74607,
-      "sha256": "467703f7c8d5091d36fad7b8fabea07dceaa4859caf2324463ce10df756bdb92"
+      "bytes": 138423,
+      "sha256": "e2ad2264d2a9c5a08012e3f132cd642f0481fcbae7c6b6997844e46395142774"
     },
     {
       "path": "research/flavors/integration/china-collection.json",

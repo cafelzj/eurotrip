@@ -1,0 +1,20 @@
+{
+  "id": "national-01-004ff926954f673c",
+  "title": "这个夏天，冷面国际范儿十足",
+  "url": "https://jl.people.com.cn/n2/2025/0726/c349771-41303803.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/004ff926954f673c.html",
+  "originalResponseSha256": "4e8e30a98c66d8294198eaf3603b975457c50e89e58f418db1d97307bab7e361",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/004ff926954f673c.txt",
+  "readableSha256": "a78c1ea7e53edbecc6486c59afb2047021fa815625c5a94ceda670083738b468",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-jilin-520cf91577",
+      "name": "延吉冷面",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

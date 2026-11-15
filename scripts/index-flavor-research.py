@@ -33,7 +33,7 @@ for path in sorted(BASE.rglob('*')):
         role = 'current-index-or-audit'
     body = path.read_bytes()
     records.append(dict(path=path.relative_to(ROOT).as_posix(), role=role, bytes=len(body), sha256=hashlib.sha256(body).hexdigest()))
-runtime = ['data/flavors.js','data/flavor-map-regions.js','data/flavor-counties.js','data/flavor-images.js','data/china-categories.js','data/china-region-catalog.js','data/china-card-merges.js','data/china-cards.js']
+runtime = ['data/china-card-reading.js','data/flavors.js','data/flavor-map-regions.js','data/flavor-counties.js','data/flavor-images.js','data/china-categories.js','data/china-region-catalog.js','data/china-card-merges.js','data/china-cards.js']
 index = dict(updated='2026-11-15', description='研究底稿统一索引；正式网页展示读取runtimeFiles，不直接读取候选和历史稿。',
              runtimeFiles=runtime, currentItems=len(catalog['items']),canonicalRegistry='CardStore.nodes',unifiedChinaCards=json.loads((ROOT/'research/china/integration/china-collection.json').read_text())['expectedChinaRecords'],integrationFile='research/china/integration/china-collection.json',
              currentSources='research/flavors/sources.json',

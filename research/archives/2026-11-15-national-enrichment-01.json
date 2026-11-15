@@ -1,0 +1,1685 @@
+{
+  "batch": "2026-11-15-national-enrichment-01",
+  "createdAt": "2026-11-15T13:23:24.561419+00:00",
+  "archive": "research/.local/archives/2026-11-15-national-enrichment-01.tar.gz",
+  "archiveSha256": "736184a80d4ecb1b952d2fc25643c37a375a4b81390545e85e8c78147e4bb50c",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/national-enrichment-20261115-01"
+  ],
+  "fileCount": 334,
+  "totalUncompressedBytes": 31874086,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "national-enrichment-20261115-01/baseline-flavors.js",
+      "bytes": 9097910,
+      "sha256": "0e58336ed674a9fd6cf63c74b3027406c4f13303fdf22cc885c89fafac462535"
+    },
+    {
+      "member": "national-enrichment-20261115-01/baseline-images.js",
+      "bytes": 45100,
+      "sha256": "216f409705ebe87637cc82e20a8d8c12db86dc679726340b24b26f723b37417b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/004ff926954f673c.html",
+      "bytes": 33699,
+      "sha256": "4e8e30a98c66d8294198eaf3603b975457c50e89e58f418db1d97307bab7e361"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/004ff926954f673c.txt",
+      "bytes": 5362,
+      "sha256": "a78c1ea7e53edbecc6486c59afb2047021fa815625c5a94ceda670083738b468"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/04fe075189aea327.html",
+      "bytes": 45779,
+      "sha256": "c10cbe428090369021c2f67a05229ff93803e9154a34525c5dd6375be1875eb1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/04fe075189aea327.txt",
+      "bytes": 2376,
+      "sha256": "a6ac48c8eb51a633c1624109282f9f55d19a73a9d4d4ba309858765b404b3c1c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/05ee6af89cc62d34.html",
+      "bytes": 5327,
+      "sha256": "2e1201ad86601706162bbbb70dd3ea8be89aaab40a7028d25c9a5b1491bca70c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/05ee6af89cc62d34.txt",
+      "bytes": 7909,
+      "sha256": "a17df70625381c119786a7516c5e91cbe6aa8d99b8656772d9f4523bdfe6a3dc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/07f0e3b2cab264f7.html",
+      "bytes": 62287,
+      "sha256": "c5e98ab78fd5eecb8ba8cafb2edb9804768bd416e4893f22aafaeea6164d7126"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/07f0e3b2cab264f7.txt",
+      "bytes": 6753,
+      "sha256": "552ea0bce2bb1378fbff697dc34f8b23a7b84069780fe2b87bbb6547f34a6fd7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/11b7d8611e32e48d.html",
+      "bytes": 12056,
+      "sha256": "7d0318d24d6c60538f1e94beb4ec7d081d7fa29f228b09acdac9ad2b5209bd5e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/11b7d8611e32e48d.txt",
+      "bytes": 1674,
+      "sha256": "aed2670d8c7f5bcccb2a0b156e41058904c630e7e5bcf054c5b701d841dd5c7f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/175e4be00929d928.html",
+      "bytes": 22807,
+      "sha256": "7b17834ed12c79e0e1e11e9985fd6fbddc3d65046c65661949f1232492143907"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/175e4be00929d928.txt",
+      "bytes": 5306,
+      "sha256": "8a27263c527c9a923ab2021bdae68ac500e7104217a98ee007811b07ea9b8076"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/185a9aab78036592.html",
+      "bytes": 36066,
+      "sha256": "29ce3c02b4504401437b839f53164c44109a1bef1834f79105c6984ff5828de0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/185a9aab78036592.txt",
+      "bytes": 5738,
+      "sha256": "f4a5f67a40b15b6b4fab7a1decca9f4744adb3695746427cda8ce30ab878e4eb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/18d36a03b9ec697e.html",
+      "bytes": 65089,
+      "sha256": "09aeeae1b211e45f5834e626d8e32c6ad339060cf8391c844b83222c92150471"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/18d36a03b9ec697e.txt",
+      "bytes": 8678,
+      "sha256": "937083bc301e4e094b42a6b0d8942fa550540f76efe1722348e505523bae983d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1c65099b59f34395.html",
+      "bytes": 60112,
+      "sha256": "23af7ef40f4b1676259a32e5ab2ccf9d9c6ebd45ab5c88a2154402902d2ee9ce"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1c65099b59f34395.txt",
+      "bytes": 13502,
+      "sha256": "5b5ead1ebd98142ae560e0335f1ccd830f5add668e88e6c1197b7d25ebd72e63"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1ce684ef03c4c13f.html",
+      "bytes": 34368,
+      "sha256": "18ceb573580a3864a716a5ff7831b03c370a8de25c896b5d1e11914b2febb7f2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1ce684ef03c4c13f.txt",
+      "bytes": 4816,
+      "sha256": "9db425f8e545e6451e12bc68a27778c1071379562367aa020ffb1d9ab69fd2f9"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1e014cccf6c199b9.html",
+      "bytes": 131942,
+      "sha256": "3be0b06fa0040700a297eff85bf8363c619ae5fed91e9f7e45a297433bd82581"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/1e014cccf6c199b9.txt",
+      "bytes": 11858,
+      "sha256": "1d4cb77184d02b8430eca153d4bfd6448f4266705f0aecb4dcb1c7a7fb810741"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/252e3976a31a2909.html",
+      "bytes": 31389,
+      "sha256": "451dc795de76934cf4492be6e74dcdfb72e14c6e55df261f4050f4a0ef800b20"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/252e3976a31a2909.txt",
+      "bytes": 11372,
+      "sha256": "9e815711adc74fa793179034dfa8173be0c2be97465446ae11dbff9a7784e9d0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/26c28f1a83e1365d.html",
+      "bytes": 81675,
+      "sha256": "43d8b243bc69fee58954523e6a5ce536beb41e6168aec4bb0a1620fce14a5cb0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/26c28f1a83e1365d.txt",
+      "bytes": 71068,
+      "sha256": "0942bb3054fed0bff217a3df0cf0da59207c65625cef274ee5a0f854d9a45370"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/2723e0723de22d1b.html",
+      "bytes": 18317,
+      "sha256": "9e49059712db5f6e05cb9c31436f082eb73d4fd080e33a7617b03963c0e54beb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/2723e0723de22d1b.txt",
+      "bytes": 4350,
+      "sha256": "2c441dc7f2b07b99b28c809c157f26ccfe66ed69cffb9bea3ebfcbe20377854c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/292c52695a25b1f2.html",
+      "bytes": 59719,
+      "sha256": "ea943774ef59cd9c7f94d60f819f53fb9a8441e8197f9ca9297d49045b80dc1c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/292c52695a25b1f2.txt",
+      "bytes": 8004,
+      "sha256": "141eaa952088781014cf7397227da828dbae966fc4d7ad1e7d3137e7ed3f979a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/2e1ab7b4f1101ded.html",
+      "bytes": 25735,
+      "sha256": "477d13c27aa8906d915f6e74d8d179196cf15e32a7724410aadca4ce6c88ee28"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/2e1ab7b4f1101ded.txt",
+      "bytes": 5539,
+      "sha256": "83a85160ac6bcf5a7dc61bb760f9bb376a21fb7b77785092508975b46c1ddfe6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3009c3cecad0d544.html",
+      "bytes": 25556,
+      "sha256": "f2cde10cb92d49a6a63d5db3d60591b3dbf0abad0b8d4391fb2d6ecd38be0ee1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3009c3cecad0d544.txt",
+      "bytes": 12302,
+      "sha256": "f3804f9adf34a0c5953e3b2477a976e43d0bfc39d1c9ef049344b40118a9bca9"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/304be21310ce2d7d.html",
+      "bytes": 41196,
+      "sha256": "36613f004baa50adef76570828309b3c0ccc0186c410ed638d10c295d3a29c42"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/304be21310ce2d7d.txt",
+      "bytes": 9900,
+      "sha256": "65b18819dcf239b0154c4484c574bc8cbd41ddd0457c90aa021072964cb54e1a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/33eb37c76d8cf92e.html",
+      "bytes": 33557,
+      "sha256": "d80df142d8fdd2171a5ec2c47c2affe2e2d3fca9a813e7f2187c725153b8782a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/33eb37c76d8cf92e.txt",
+      "bytes": 5307,
+      "sha256": "afc4a93b1ebfbeb032af47a975822d07a6bf3eaad4725587551989a870208675"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3452695acf764188.html",
+      "bytes": 29540,
+      "sha256": "31d11f233010d170cf18a9a555f7c25e97137116958b6f6dd8148a97ec6c620d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3452695acf764188.txt",
+      "bytes": 9345,
+      "sha256": "415e5be5a32e3b65550137fc2cb6fbadb18b1b83ff71902797edcf9e1f139ffc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/34da97af8c0c1b0f.html",
+      "bytes": 31992,
+      "sha256": "dcf7636b099fb11b31e4ceb469a89eca41dd92c3ca909f1584d12d6eef527bf3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/34da97af8c0c1b0f.txt",
+      "bytes": 4232,
+      "sha256": "514512264b9f47eb08db4c8c2760ee75a43a371f8aedc9bc36aa5ce7fdb8b61a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/359e4c554a1bec04.html",
+      "bytes": 67576,
+      "sha256": "a0cd0f11dc2401c4e452d944de535029dfdd371010fb7c0304970f2dc6545a47"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/359e4c554a1bec04.txt",
+      "bytes": 8069,
+      "sha256": "e81bfce303543a306303260d8ed4f10819b3c056a4259d1d39d5e9f88d6f4051"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/36a6094d40513f7a.html",
+      "bytes": 13676,
+      "sha256": "2160b2f1992c2f40a140fa28f860e52956c19dfd749cf5f6bdad0a0176c96e01"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/36a6094d40513f7a.txt",
+      "bytes": 2570,
+      "sha256": "9a3f581445b72aa7b6e2af93ccdf067454dc002bad4dd19a07e406471301a56c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3834dc45f6e272d3.html",
+      "bytes": 39535,
+      "sha256": "f74b518b380308ceca744357a66addecda52eb4c399ff6ba0215ceba37e6f61c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3834dc45f6e272d3.txt",
+      "bytes": 10266,
+      "sha256": "07bb4ff845152288fcafebc9df4ca95c76e2daf6dfa04f7e95ccdb53f0daf823"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3cc241fca1055bda.html",
+      "bytes": 46499,
+      "sha256": "601e1648065aa725879979b726a1eee668a7ec362234086a501594ce89364817"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/3cc241fca1055bda.txt",
+      "bytes": 9984,
+      "sha256": "3f55348120e1a047507b01dc8ca2d5cd8549af42603233add5a5f0893f373d32"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/42f41a65199711ef.html",
+      "bytes": 9040,
+      "sha256": "4691e860e44f640cf0ce9542e7172abe78a5b48d0e627a4c6f280bbeaf6db0f3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/42f41a65199711ef.txt",
+      "bytes": 1751,
+      "sha256": "4b99e18473018f922b07800e4707b12823ceecf5fb98089080ae77c85686e4e3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/44086d18942f8595.html",
+      "bytes": 31732,
+      "sha256": "5c35e8dd4bed66c560d032458ac7e39b2cc1709e3ecbb97f9e6c0c5806b288a3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/44086d18942f8595.txt",
+      "bytes": 2539,
+      "sha256": "44777110167f58982ccf941d69705935109e1b9df6eccea2843333b16a1aee09"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/46a9373ad0ec2415.html",
+      "bytes": 30583,
+      "sha256": "704350a5d0c272e5290abbd724248ad38cb2318403eb4f148e7239be951b0b1d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/46a9373ad0ec2415.txt",
+      "bytes": 5510,
+      "sha256": "e5774dd9a3512ef767bc270a0deb5d0b0cdc90e319fb71af27cd1b66a4cd8eab"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4707f5eba8f7ec36.html",
+      "bytes": 27387,
+      "sha256": "e7b20f031dfc3253d0307b57dae853a041b4202198a6f47ee7c2b4cf5db96ae0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4707f5eba8f7ec36.txt",
+      "bytes": 7596,
+      "sha256": "51339f33663eeb7ad357761c9e9eae2d29586bf12b61c7921901eea74ce81908"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/48478b8d1a818738.html",
+      "bytes": 36418,
+      "sha256": "8ede28634856ad17df9874b4dececd7ba640db13346185f7abc459ea7c002fb0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/48478b8d1a818738.txt",
+      "bytes": 6578,
+      "sha256": "f2ee08c8f4f891ac17286a2b31c4c344656684fa803bc3fe1df9ed191b268303"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4b87f844f474b531.html",
+      "bytes": 68797,
+      "sha256": "f09934755bca6ca002e47627c17fd737be711d81b095493617529a14c0e22efa"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4b87f844f474b531.txt",
+      "bytes": 12011,
+      "sha256": "9481adbb02da84b98cc2590ec08bd7eb0f3ab7ff94f11b13e42be1850002b9cc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4beeacb161ff35fb.html",
+      "bytes": 34244,
+      "sha256": "c46e54a8d5a1deb0c5479de76309f4a00f800c3708fedd9bf41b85faad5b84ff"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/4beeacb161ff35fb.txt",
+      "bytes": 4667,
+      "sha256": "f64ed0ed423df97da4cd0e0346eea27775d7671dce4ba4ee78a5aa9cf6b22977"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/51f5e8db4907604c.html",
+      "bytes": 34954,
+      "sha256": "ad7f3913b1e3cb91f34d57ff888ae98a8599c387140871d1d239507c6da97df0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/51f5e8db4907604c.txt",
+      "bytes": 7926,
+      "sha256": "3ebfafc65a65f22035cbb467c770c7f4ea38425bd5db1d8e16f357bf931adf66"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/526291d536986014.html",
+      "bytes": 34904,
+      "sha256": "40d9ae66c733af80ce05f8b3c7bdec470e5448e13ddcb872516aeaebea94cdb2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/526291d536986014.txt",
+      "bytes": 5066,
+      "sha256": "e9abdb9cafbeb86506345ec917fe51daab7c0aad2479cb406185cc023586649e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/5320148f10939880.html",
+      "bytes": 76299,
+      "sha256": "59adaf40991f3b3249a60fd1d0166094abdd8bd7c95afe984e5a5d60a15ac2f2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/5320148f10939880.txt",
+      "bytes": 14838,
+      "sha256": "fbfd8ef124371a220d31840746736b96c1b1a9802c79a19d5763a429819ae487"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/55cbe4ce8274033c.html",
+      "bytes": 30271,
+      "sha256": "65839bf06cfb124e5c202285c4fe3a9f88fe7e814718cd197ad73f7afc89a2c9"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/55cbe4ce8274033c.txt",
+      "bytes": 10581,
+      "sha256": "5c645914e779cc2160718003c2ff0528051355d09bc20c610365a7375c5e7c66"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/5838a176f0dca57a.html",
+      "bytes": 9741,
+      "sha256": "79e1399452afa8b950d969d696096d646c51a97541d5faff3e6376e607548dd0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/5838a176f0dca57a.txt",
+      "bytes": 1622,
+      "sha256": "645fe0c3fcd3b1b9b9452391ec3075f4f946646a5257c810b3617f20c630a464"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6075ceccdd4e0703.html",
+      "bytes": 20190,
+      "sha256": "6ef775929f972079df4c42d74dd0b2d34f6b205387333251ac64a236c485459d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6075ceccdd4e0703.txt",
+      "bytes": 2965,
+      "sha256": "85b0eea3cee677d3a2d5ab46cb4e7ceacebafa3338384155cf1d7bd55773032c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6252101c77ea8300.html",
+      "bytes": 63757,
+      "sha256": "11cc63a91ad8f6d862d6f81504ca0847f108bf7a56c785d5bd242edf767df036"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6252101c77ea8300.txt",
+      "bytes": 8435,
+      "sha256": "32ec58c3e9a83becb2782dfe7446d66242b40c51fb0c3f435f30bdd941426ae5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6706c5fef47bc56d.html",
+      "bytes": 24385,
+      "sha256": "f273091865084c778a083cd756775994fa5a119c2e31028553c2d54122c7d6b6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6706c5fef47bc56d.txt",
+      "bytes": 2080,
+      "sha256": "3e08a5ed15dfb9bcc29afcec543696651ce743dff1d6e212467d18b842992f0d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/673c8fc37a258239.html",
+      "bytes": 42892,
+      "sha256": "fec3c2bdcfad1fba9a2d39c9d14912556cb37a1228139822c25a0d1a95d7cb56"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/673c8fc37a258239.txt",
+      "bytes": 10152,
+      "sha256": "367b7c7b4fdb45d8fc7a77c6c4631f6028ebb9b0d84640d900323df4edeb7b26"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6b76f783ff662550.html",
+      "bytes": 28691,
+      "sha256": "e2e1640d9c442ecae9d1353aad92886805dfbc982195dca56ff6917dae84b90f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6b76f783ff662550.txt",
+      "bytes": 10250,
+      "sha256": "b92959ce6ec0beb3ce2ad92ccf0e83ae4cb791d5450a88600d74c95a0ad4a24a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6db37b3ef7f6f74d.html",
+      "bytes": 17346,
+      "sha256": "232025867fe12a478202b1969db8cb008cea6f5cdf926e753e2bb03531f908c0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/6db37b3ef7f6f74d.txt",
+      "bytes": 5779,
+      "sha256": "5ef5fd5aa9f344ef15a73000686553d0510cb1c194b3587c2285ff0e623ff330"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7599938e161124bc.html",
+      "bytes": 7917,
+      "sha256": "98beb0a7b54026c3bea164b6b151a77e56b6fc3324c5d8a339068211b311728f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7599938e161124bc.txt",
+      "bytes": 262,
+      "sha256": "a10587f6bae7e41840f0e4e787402396ab2bfab21ba1e865a62bcdec40b5cb94"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/796d744fedac7be9.html",
+      "bytes": 62061,
+      "sha256": "a6b582cb6505fae2ffaa16ba08520c1aa332be15402015755490d669f79a2e56"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/796d744fedac7be9.txt",
+      "bytes": 10307,
+      "sha256": "9506e82e6e2f8259b47d6509e01ae997e35ab914465887b827d8c4996ab6639d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7adbcfa2fbd56523.html",
+      "bytes": 20065,
+      "sha256": "158e4e892e87c0e22a73283cd991fee29907bf84ba89cb62c636f2764ccc5537"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7adbcfa2fbd56523.txt",
+      "bytes": 4582,
+      "sha256": "a41350f429b76c17de15fb956ffc014f65bd0219924f15e97d2047c5363d6555"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7b7b67221d5c5b8d.html",
+      "bytes": 81938,
+      "sha256": "011a8f51e2ca251521b859fb824a912c270b56db7f39294770fd0015228840da"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7b7b67221d5c5b8d.txt",
+      "bytes": 8920,
+      "sha256": "32669b5a0f7da97af20e0b98980684f5ef855f12179df54c2cf383ea6ed3f80c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7dd25d93ada5a5bd.html",
+      "bytes": 34035,
+      "sha256": "b19cd7007a608700fe682b66c4354b546a823a71248742cb1a6290ffd274854c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/7dd25d93ada5a5bd.txt",
+      "bytes": 5363,
+      "sha256": "4e1428f9cb527837c1171994ae8a415c62f2b0a018e51e27ad2149a004c60853"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/804520c1c8923534.html",
+      "bytes": 29540,
+      "sha256": "31d11f233010d170cf18a9a555f7c25e97137116958b6f6dd8148a97ec6c620d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/804520c1c8923534.txt",
+      "bytes": 9345,
+      "sha256": "415e5be5a32e3b65550137fc2cb6fbadb18b1b83ff71902797edcf9e1f139ffc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/80df11e55497e55c.html",
+      "bytes": 31111,
+      "sha256": "2face2f6f60f31da64e1ed1b02747f575cc19fbfbbe1fd3a8e254ada7848cce1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/80df11e55497e55c.txt",
+      "bytes": 5218,
+      "sha256": "dc0cec2d087dd9d2d82686e53ee35b4188918ab1cf034509fcdee91edfacb46e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8402857f7df62131.html",
+      "bytes": 27763,
+      "sha256": "a7fda2de2a9082657bf9a6e6726bdfb686ba8f554b2dc2d59fd28cb3fa894e3a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8402857f7df62131.txt",
+      "bytes": 9729,
+      "sha256": "1ed3cea75abef646bf7759507dfd3967d9ea53cab7c70f7af23e9886d87bd562"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/86c37dcf969db9f1.html",
+      "bytes": 34406,
+      "sha256": "41a4d716e91bcbff7840363eb4ea42c24a0509dc4b6493921fc413ec1d2e44d4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/86c37dcf969db9f1.txt",
+      "bytes": 4546,
+      "sha256": "b889dd1a5b5999dba9a9c50e8b699f1e76298c2f4520f6ae23272c3d68dd8e7a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8d523d7fcf9a4300.html",
+      "bytes": 26150,
+      "sha256": "1021cc6cf7af8ca0736877e080ff73f338a4a834af1e8edc2b03c934b96d9a71"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8d523d7fcf9a4300.txt",
+      "bytes": 11545,
+      "sha256": "6541b948698a827e261d151dfe9d99035f84f9f3751504336120141868baeafa"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8d5985933d5627b6.html",
+      "bytes": 60242,
+      "sha256": "5aa7a543977c7427d19c7de573a230d5c6b8fc6a0d5ec343d5d18dfa964bee15"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8d5985933d5627b6.txt",
+      "bytes": 13539,
+      "sha256": "9a5b22ebde5f9c8163d5472fd363fd16cff03ac785a29c700f881f9cbced0331"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8e34bedec92c44d2.html",
+      "bytes": 34969,
+      "sha256": "1dbec452bc0fbffee9298e0173720f642eab2cb39e3eb5fab7c1634d47fe663b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8e34bedec92c44d2.txt",
+      "bytes": 4711,
+      "sha256": "133d64186e930ddf4c36762e23c44b6acf24c67aeef428433085c4a921713d7b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8e7c5702c19d6ac2.html",
+      "bytes": 20187,
+      "sha256": "795a1c8e648e9dd01965e772e4f3be5a6e9d6a3680da94e9d633d7c4c5dd058d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8e7c5702c19d6ac2.txt",
+      "bytes": 2838,
+      "sha256": "ac581b03049e0d8b3dd21040bf1a2434ba583d0670242ec746e37f2b75a6f35d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8ed9b09ebea48a35.html",
+      "bytes": 34703,
+      "sha256": "3f5fdd58929c1f5bc2e3f7f6dcc56d8b9774ea4593ae013926c9111d602c0251"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/8ed9b09ebea48a35.txt",
+      "bytes": 5042,
+      "sha256": "80472dbb1e2021d6a8622a6f9e9fd3d8ed62fcba895174751093044c49707179"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9242d1c526cc6c9e.html",
+      "bytes": 35955,
+      "sha256": "0a5409556df64ae50c38b726c8c2e29265b34b616af8c003d0287bb46d3d5092"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9242d1c526cc6c9e.txt",
+      "bytes": 9499,
+      "sha256": "bbde04414d115f5ac1a6331cc6db99832f0ecba36e1a44a58b7e59411d799c92"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/93d2c93e26673966.html",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/93d2c93e26673966.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/98aa68fe3458810e.html",
+      "bytes": 87700,
+      "sha256": "fc431dd0b82e2a05eb20f75f6d54f2c57386a09d28af0d0d6c9f6dcd4b4575b5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/98aa68fe3458810e.txt",
+      "bytes": 27667,
+      "sha256": "65e6425ed91f16ed9b0c6d325c3a689ee015721582b02aa80dbae307708371bd"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9b859ba5e3670935.html",
+      "bytes": 29056,
+      "sha256": "6222e3e8faf72942415497bb41524e823e08002cb57fa315a2d93c1a9f2450b4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9b859ba5e3670935.txt",
+      "bytes": 5155,
+      "sha256": "494a261f279448c4f229f5fa8785fc3bd35c97014dee38d84cb31700f59fa3a3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9e9ee250261219e1.html",
+      "bytes": 31401,
+      "sha256": "8cf1beb3cc4be43a7869598f5fa2c6f9a17950816429594289251ccee7f583e6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9e9ee250261219e1.txt",
+      "bytes": 4353,
+      "sha256": "0e54da726f6c2006762af8d7bc70722e4a2f5f944cd31b371fa3322cf208a4bb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9fed8647ad0c286e.html",
+      "bytes": 65028,
+      "sha256": "dd932a61d3eddaaf276e097d8e8710ee4a1a54797f95344e384708b818d392d8"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/9fed8647ad0c286e.txt",
+      "bytes": 22341,
+      "sha256": "5cc2653b2503d014dc16b2e31b2931a90b102e5be1bafbfa83f1540f38d33ff6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a20915960f9266cd.html",
+      "bytes": 65743,
+      "sha256": "7a8abec05a9ef539ee5be76ce6eeb67c78f6d2aea6a1fa38826cd30b9ae6e6a3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a20915960f9266cd.txt",
+      "bytes": 10569,
+      "sha256": "a3f3a735fa284adfd1465521ed13fe2662fcc950a8f4b46d03d67b25ca5e2420"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a2b55b7dbb1a75bc.html",
+      "bytes": 5065,
+      "sha256": "2fec8381699998a020bf057d7aafb4aa4b664ae7f58ba5a0e6aceaa534e90218"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a2b55b7dbb1a75bc.txt",
+      "bytes": 1044,
+      "sha256": "4d9693082cbf02d0a50847955339b835dbd1fce4ac5afb6a746e5c538546464f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a88eba34a857e39e.html",
+      "bytes": 36215,
+      "sha256": "3dd69fc7f465c2a36634ec3e5c907b91d7e57ab60ac218efd6bebd36fc27f5a5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a88eba34a857e39e.txt",
+      "bytes": 9987,
+      "sha256": "8a8d48417eb326d4f7f8e50161804db6c5b3bf9ceb3f808dbe957efd43a3b47c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a9713bcf79b7fb57.html",
+      "bytes": 33410,
+      "sha256": "84629a10fc74dc85d93de7f38b5601794d5420a29b9fdb976157b70662bc7d22"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/a9713bcf79b7fb57.txt",
+      "bytes": 4142,
+      "sha256": "0a6c13d62c72ca19ac55a20e1c210ece66ec968180bb138c78e79f75a7e5a25a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/acdcdab6f6bdd434.html",
+      "bytes": 83091,
+      "sha256": "1e1362931653dfec223ea5002b5ee2108f37e0151cb1890fd3126ac3cdc83df5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/acdcdab6f6bdd434.txt",
+      "bytes": 9468,
+      "sha256": "a95d7e4f74713b04dfaee513ecb2b3efae70c4d5d02c9ab80042439ae6c34610"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/afee790aa28e94e0.html",
+      "bytes": 35812,
+      "sha256": "1744e257edc71b927ad7336824563169d0de9d70d110a88c3b9903c14e24bb07"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/afee790aa28e94e0.txt",
+      "bytes": 10144,
+      "sha256": "40bd60a9a083b52bd211e067f83a6f3c5b8953b8e65d19d8af9c2117db10fd42"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b18266c2402e9320.html",
+      "bytes": 17864,
+      "sha256": "b6a4ec749d8cbc5ac955e23883e0d709ddfc93bd660bc5e0a0dea36cf11129a6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b18266c2402e9320.txt",
+      "bytes": 3760,
+      "sha256": "fcc8c222d4535d6f3d19e532bfe7ed65b73313a5ddaed1c241788300f7594736"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b45ac93560785209.html",
+      "bytes": 33776,
+      "sha256": "fd908d1b6adcacd3ddef07b2be4432d239b0c5c7aebfe6bcc6a5fbd60f2483ac"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b45ac93560785209.txt",
+      "bytes": 5362,
+      "sha256": "14d5a7e0da65f29cd88756f00e2e3a4ea8cb7db9313128a55a387aecdfcd3059"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b5d190b6d1f6fb26.html",
+      "bytes": 58462,
+      "sha256": "72e3aa6b7d07520b5780bfc230f15e15f558de241a47c49f9fb71d936530dfad"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b5d190b6d1f6fb26.txt",
+      "bytes": 13708,
+      "sha256": "2e11bd5ba521e53af022154b78691587efd2394bef980bdb4a030361f9cfffa3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b67ad14430194f4c.html",
+      "bytes": 53136,
+      "sha256": "98b5f64654f97793019ac3e35adb6904270b4a5e90e1fa32b65f54d8959f3be7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b67ad14430194f4c.txt",
+      "bytes": 7443,
+      "sha256": "e850afae9b7484774c81152d71a25cb8bc20647fa3ed3eeb431c9bb3e926b3b5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b74566e9c096513d.html",
+      "bytes": 35484,
+      "sha256": "a59b4531f4c1bd159d90511dfe660f0643a3bce9b4a87dfce12212e99ae4b0bf"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b74566e9c096513d.txt",
+      "bytes": 7238,
+      "sha256": "2269c736b9eabe04d417bc155e6fbf6a99bb5b6cf4b76c8db6c0ef3fce216b1d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b7c3d32af6a6b877.html",
+      "bytes": 27890,
+      "sha256": "0ca06ef0ebc18abf87b2293452ad274669e3d939e515390ed4001957f4516051"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/b7c3d32af6a6b877.txt",
+      "bytes": 3891,
+      "sha256": "d6a561705ab7f6accc27f118c2d62c7b2b3a213528ae2764c0e2a3eb86efc3ad"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bbc055673f90000a.html",
+      "bytes": 83011,
+      "sha256": "7f0ffe8ba811ec9415aa7de71b15b9687ae23582c25244b2bad1963dab187f07"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bbc055673f90000a.txt",
+      "bytes": 18107,
+      "sha256": "b4bd2f5ad12c816f6811f27fe9c75b4b2ff32390aaafad6bed37e734f38b4d62"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bbe36baa353cd099.html",
+      "bytes": 16939,
+      "sha256": "35f15d66ef1e9c7b96d5572c1fbd2d6598aa1ebdfa9eefb3006da1adac9b087b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bbe36baa353cd099.txt",
+      "bytes": 1468,
+      "sha256": "060d74d8e7e192e50357cea5eee40d687ea373e2aba51b6dc0462ed7947cb91e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/be3dab6179669a23.html",
+      "bytes": 308779,
+      "sha256": "a00a54e11fcb7792009a3b63337abdc1785143d39d2d7b195a6927a58e80c6e8"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/be3dab6179669a23.txt",
+      "bytes": 17908,
+      "sha256": "da124fccf01398d06679e3dd193b67266e97253ad70f2e2f1ef801077600f567"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bea33e117f37a761.html",
+      "bytes": 28211,
+      "sha256": "219a6cfb9796d8dbf1fa9c4096e454203042eccf1b5a689e0112e6b8ca36c6f5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/bea33e117f37a761.txt",
+      "bytes": 10448,
+      "sha256": "31554d8bf8bdc9a9a07b45de46616998b5d84342b9f72c256e5a725892c426e1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/c3457f1adbbcc199.html",
+      "bytes": 73094,
+      "sha256": "abb758010919694e2d5528a880c32d902cc76c3efe19b5d1561898a07de8fee4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/c3457f1adbbcc199.txt",
+      "bytes": 15133,
+      "sha256": "0712534e8df5f03736c69cbd1a7f7d0c47ef9fbcf5a2d391b388ee8478e8eb65"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/c71630fc6bb51f22.html",
+      "bytes": 30514,
+      "sha256": "f504870b0d3936ba5628d7bffdb23e55e66073daa3ff546aab7e80ea0fdd7ec0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/c71630fc6bb51f22.txt",
+      "bytes": 3438,
+      "sha256": "da480074023228d453118020985be762e3e472da58c7b688ae9ae70ca167d0b8"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb32717ca874438e.html",
+      "bytes": 142536,
+      "sha256": "9d77b66f0f8f48f4e965418a545c93ad210fba28aed21581bfd62cfc15eabd6b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb32717ca874438e.txt",
+      "bytes": 8238,
+      "sha256": "6bbd767a1e17347d598bfcf1d475b97aceb1ba5c471a5f77c1343a72ada2e05f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb3d1eb0c56492a3.html",
+      "bytes": 26798,
+      "sha256": "4682d75da428b095bdae8b3edc7158af5c7cab6b96cf578e92cf41e46a4ab41a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb3d1eb0c56492a3.txt",
+      "bytes": 13985,
+      "sha256": "8de9552dca7f0b2555f9246d4b108fc3572ec27a089d1455ad8a042a37db46f7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb72fe569bb258a7.html",
+      "bytes": 61068,
+      "sha256": "ca0a60adc0adea2b4ce6bb96dc04a50ddc3c583dbde7c3a85061a6eb03e932c6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cb72fe569bb258a7.txt",
+      "bytes": 1753,
+      "sha256": "b95bdd7f0233be2f0c88fd9449a677fd1c8a19b63a31ee202e5335f155bc0a27"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cfaf58cd7cc9bb58.html",
+      "bytes": 42777,
+      "sha256": "91f245710cb4995eda0150f3711cf66fa6a54d57a137aa73e82a061308c7ef63"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cfaf58cd7cc9bb58.txt",
+      "bytes": 8259,
+      "sha256": "0d2e09b0a808c47ab10c3099e05a723b91ee70093225cbbaf3e659cfe6f0c1b4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cfe4b54779878eed.html",
+      "bytes": 39455,
+      "sha256": "80b78a1da2d31651568db26c8c4d6174d78d3dee76fddea7ffef97fbf953bb49"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/cfe4b54779878eed.txt",
+      "bytes": 9275,
+      "sha256": "7a0c250223e577e93c08cf116da1971ef2c2e25b143f6e6bc0f052e98b5f1a40"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d13199d0cc7f15cf.html",
+      "bytes": 36159,
+      "sha256": "db2ffcc8bd24be33988c818f7b7b104d176d814825087ed8e7da58227df02f21"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d13199d0cc7f15cf.txt",
+      "bytes": 9994,
+      "sha256": "3eae2ba3eeda38a8ab0c43b5c5a2d4dfd68e6c638c473e5640d46bdfff3c9772"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d206f93c1bd4eaa6.html",
+      "bytes": 30937,
+      "sha256": "15d35a5546c01fba0686b7a3cac3d179854bb9c16bc3bceca7418283ca9c74de"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d206f93c1bd4eaa6.txt",
+      "bytes": 5528,
+      "sha256": "d6c7a0d5f8417af3693aafd87ab4d70c909131aafcc4b862d0906170058cb024"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d96f09d039e56b84.html",
+      "bytes": 15019,
+      "sha256": "8ebe2ee6c5f7ca174f89da4097b7760332428a9586aa7bb42db977384d1d1b59"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/d96f09d039e56b84.txt",
+      "bytes": 1649,
+      "sha256": "0d760185b50393a92bfb058012f02acb6c76d8e6ea7f1f6e0ecfc17ff72bfe9f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/de2b94901c97a3b2.html",
+      "bytes": 47837,
+      "sha256": "8a1f470ccfb2015490506fe5e2d10f4ab753416222d0533fb76a703c443c6c0f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/de2b94901c97a3b2.txt",
+      "bytes": 8059,
+      "sha256": "04ceceb25768e89528a537c4ceda4688d4e735075622720e77ec3570dc02625d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/de8f5ff5551c2582.html",
+      "bytes": 123358,
+      "sha256": "f754277ac3721133a91f43d56ffbc7f0bbfdd8d47869b00db95e3ce4a50207f6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/de8f5ff5551c2582.txt",
+      "bytes": 5860,
+      "sha256": "ca3f7656a771e79244debe98ab3ec82343a7078eda29a99a925e69ebf0e39b24"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e112bce19bfd4cfa.html",
+      "bytes": 23545,
+      "sha256": "7e047611e703169fe121fede4284ac02e40ec1a0b5cdf5c9df08daa514bb6530"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e112bce19bfd4cfa.txt",
+      "bytes": 10559,
+      "sha256": "05db75c8593a8bb17e1a8d53f8b66d5e057515f77869c6002173fa84b1cf8d48"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e41362fd27035124.html",
+      "bytes": 95760,
+      "sha256": "eefc6068b6e7370a2324fea40911a09d7bffd00aae68e184c81a01dea1e3826a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e41362fd27035124.txt",
+      "bytes": 18401,
+      "sha256": "4dcc0d068360da1dc56a09bb4eb3e1351b6c54201655b78670da30abb520afb0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e441322357607120.html",
+      "bytes": 32297,
+      "sha256": "287d17738739219bd3ae7d87a371203ec056cbb9e8fe92e00de187b0b688a0a6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e441322357607120.txt",
+      "bytes": 3803,
+      "sha256": "b704803ca2e756dd04827c35055963114d65f16963b29d128e5c085b052ba9c7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e56a95ec065154da.html",
+      "bytes": 69326,
+      "sha256": "10bc24bbcc066e2628d300ef264f9c041d597403d5f474fa22f1bd9056487896"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e56a95ec065154da.txt",
+      "bytes": 2892,
+      "sha256": "bffb6ee9f3d8cc78fab689a3895820553a21ed7ed761d88f9bf20152404d4a47"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e8b11fe7f3491167.html",
+      "bytes": 31615,
+      "sha256": "f4873899d4c2efd69817370005ce3a710e8b02a1aebcb5b8b1f44b5a38ad38b4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/e8b11fe7f3491167.txt",
+      "bytes": 8276,
+      "sha256": "2b7446ab99a16e58812035f642d375a092aac555fa49e8a171f98efc9400e409"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/eb3891ef2d1eccd1.html",
+      "bytes": 31905,
+      "sha256": "6bcefe3ab85e79d9eaf1bf27622397daf8e00d6ccbdcd75deedd51826ddc2e59"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/eb3891ef2d1eccd1.txt",
+      "bytes": 1995,
+      "sha256": "098f68b184948fa616c3e501648084e1072884b94cee12a46e62a0f8675eaa97"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/ed7789575e78304c.html",
+      "bytes": 45905,
+      "sha256": "9c97195b57a7d77b5f36a300762deadcb6bc05d742ef90e4595a35f1a127f5e1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/ed7789575e78304c.txt",
+      "bytes": 8130,
+      "sha256": "952eb0824d2b73db77d2f396f262850229763d482c0b49780b0019f718f8a5eb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/f4f2f908a42e2286.html",
+      "bytes": 18427,
+      "sha256": "741c9c4eb224f6203f4c3d518e2ed83f5f97c2ed4145690723bb534f825300bd"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/f4f2f908a42e2286.txt",
+      "bytes": 3631,
+      "sha256": "a78e2d5380b4577cec0409fa00bb6710fbaa9aa0984d8a21299ec3fe6f986691"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/feaed1a59f6354dc.html",
+      "bytes": 49277,
+      "sha256": "2eefd3730bdda9305845bbf55568639f4807a49154afba5ae8d0b49c20d94fbd"
+    },
+    {
+      "member": "national-enrichment-20261115-01/pages/feaed1a59f6354dc.txt",
+      "bytes": 14928,
+      "sha256": "fbc5f7e7a06b761063a4a62b2d2febf05312954c1719d0218c8d9a54405c62c9"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/06629be3d5877b.original",
+      "bytes": 244880,
+      "sha256": "e41f20cd56fc1e1d594b8c97e2a0a61e5f921bd9b731c951c689457190896060"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/071542c6b16f12.original",
+      "bytes": 174309,
+      "sha256": "0decf313ce4321e289aa646bb1d753adf20b18856d3f4a59810c26dd75cefdc4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/07df88cde5c94d.original",
+      "bytes": 314318,
+      "sha256": "23bfd05b9a6c9cf4134e8cb199ef3b69bb5ee2312da1d43883aceed2ade5edca"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/0b862884b14a28.original",
+      "bytes": 160971,
+      "sha256": "ee1f6f412acd6ac81bb1791602192563214cd8d304b68702cc97923f8271a694"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/0d2e432eb9404d.original",
+      "bytes": 150960,
+      "sha256": "23461845a992fbb74580eea0c2641cd913129566e419d089998e5e109326ed81"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/0dc87af0f70851.original",
+      "bytes": 150755,
+      "sha256": "74b8ec8f15926eaab3070848d82d55d4b2768f663d3ad70658049a7a3cedd698"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/0e43de89d458bf.original",
+      "bytes": 128260,
+      "sha256": "a4f19b9584c6713242d10a123738a368f29f08607ef359390391d35fabd25e3c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/0f97ac2d12f960.original",
+      "bytes": 173618,
+      "sha256": "cb75ec13c6e8e539fccb5f34050ea9d7dd1ef56ed94872cd0ba5bd12cc8e9521"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/14470d8b874345.original",
+      "bytes": 237322,
+      "sha256": "40a9b7d192910758c71a2134e1fbf7019409477987e1e2621d8eb4b508539ea5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/146b8543e37f93.original",
+      "bytes": 72860,
+      "sha256": "b2f0871aac4a33482c4d8af31e705876a615301c5205f4aa6788f7b666d34459"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/153c61966e2dcf.original",
+      "bytes": 14165,
+      "sha256": "7076e7409114a068300ce3d22f1dee5b7b856cb30a7dc21930ea634fa34ab018"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/22f09da70c77b6.original",
+      "bytes": 184417,
+      "sha256": "9a47360b8f8f82aaba243784481406053305a97cedac82e61b415942ddad5889"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/277239fd55fe62.original",
+      "bytes": 118991,
+      "sha256": "ea2e45163a62aaac6f29bd6f767bd2f090558f47a48378d8518ed12686ae5a63"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/27fc6b746fcb0a.original",
+      "bytes": 71145,
+      "sha256": "5f39bc8a2efce007e418cc2ea551d33b14906ae322160c6e1676acb07b682bba"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/2a4581fb921c59.original",
+      "bytes": 230875,
+      "sha256": "e35ca5d6874b6b926e57f99e5eb37f436523ce1a707ebc37fcfa2336bd556c34"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/2bfa14f7c902ae.original",
+      "bytes": 363365,
+      "sha256": "94a200b0d218e610b87da35bcd9d5d235482a368c3fe2c73f4b4243b13d44ddf"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/2f0157c33c4172.original",
+      "bytes": 102453,
+      "sha256": "1943d8feeac6eeaca460352c8d49b93ee701528b8775a23eb6bb7816308279e5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/2f9a52e2665909.original",
+      "bytes": 118356,
+      "sha256": "d14f05b29626588877e6c61c9bdd9d30640b16f1403019d41ce413bb8226eba4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/30f490a954c83e.original",
+      "bytes": 258177,
+      "sha256": "ded19f7697812940cf5f9a1167a177826322814a12f0f1f00896adb80280f13e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/313a589c793587.original",
+      "bytes": 174682,
+      "sha256": "d74eef655780203e050d659aabc8cab4424726e436df22a757fb5f9149eeb065"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/31f81689894856.original",
+      "bytes": 100505,
+      "sha256": "06727d4ab22423557f7a508e2dee8aa6a23da5de7cb850ae5dd1a20f1e9a7e91"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/34b9fa73f97ded.original",
+      "bytes": 274251,
+      "sha256": "1738aacca9fb8c6bdc81edc67a786b76e6bb26f3241bbf1f9489dc9565831d48"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/367c13257e1c74.original",
+      "bytes": 93033,
+      "sha256": "4db5617f9a292c18342427bb4f01c2da491c651e6bd2a534c0b12b08ad1840bc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/388fd8cf1f82e5.original",
+      "bytes": 250238,
+      "sha256": "c123b34e17a02ad51549ff82edd689ee3f4266a9639e1dde16f1b62036559737"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/402d21be73dbd9.original",
+      "bytes": 70689,
+      "sha256": "d6db16bea0c284e62a4b970f56f8a6e0ccffb54cb3039e08f4f6e78e9eb9af31"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/455fbd28c5db86.original",
+      "bytes": 151037,
+      "sha256": "288df2785e3da90d693112df9eee47fbcdf1cbe9a85821e26c638874d1e94ecc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/461084f65aaccf.original",
+      "bytes": 238852,
+      "sha256": "911f40d66af4b02ef1d8a11933e4ebc80d9426e3cd4053b58f2f690d42d3e0ad"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/4ae2aac60488c0.original",
+      "bytes": 148135,
+      "sha256": "835970bbc2dc836fcaa079c8313b8461e14d1457c93340ae96935277a054f110"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/4badc77ac0abfd.original",
+      "bytes": 212594,
+      "sha256": "53c3fa5ea12bee25866a54a4e02c81651fc1b41224065a8889df8e9bbbbfa60b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/4d83014e518200.original",
+      "bytes": 190536,
+      "sha256": "f670ef973cd20712e68cd21cdd4e1423b58f87ab3763cb33dced95c1b2831144"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/50de9d490f3a34.original",
+      "bytes": 506126,
+      "sha256": "b2c3e094f1dd31e04d4bdf25f9b2c1094422755ebcc45ceefc84ca22a87942ea"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/51d0d95cc14e03.original",
+      "bytes": 87870,
+      "sha256": "bbd35b3830d41458629f77b4ec63c125fc311aeed78c2abf8749f9c6bd1b2f04"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/539cbe81b5de28.original",
+      "bytes": 172913,
+      "sha256": "cdf4ee857c4fcc26c8c71afef93e802533e6e4ea4c47a8e148cbd8737e4f2a0a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/540f4cea81fcc7.original",
+      "bytes": 189747,
+      "sha256": "1d6e88c25e9afa5bda177bb866d565f8c9faffcd61d8ba409ae969b0301f80d3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/580b7cf1bcbf52.original",
+      "bytes": 283700,
+      "sha256": "540b39f4f1994a9c5b663e3b29f675633d80fe0580cb435b0731276915d4ff3f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/59dae0e1d76c74.original",
+      "bytes": 225712,
+      "sha256": "af1d8692775b0c15e3b060132767e34fd11a5d1125f13d820c880ced2f4469cb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/5c3841ee7d7419.original",
+      "bytes": 149729,
+      "sha256": "91fa9df6320fa70cd1b219d2cf951a16529a8e6d16ad6baaaeb385ffe5850abb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/5e2a20a2661b3d.original",
+      "bytes": 137750,
+      "sha256": "9e60fb4db946733ad6913be95a97d7ac5f6646b73bc90e48fda7f3dce352c557"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/6013447b16a598.original",
+      "bytes": 130946,
+      "sha256": "dfe30efa5853c6f841e42f6b40786ea54f9b01f12a9be7380ea9f3a08aabcf98"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/607c4b4bdb2b09.original",
+      "bytes": 307154,
+      "sha256": "a1bc10733b8b70ea5da6b9dafc2440e6607bbbb303d2548b4a29be45c4dd2597"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/635291079ab287.original",
+      "bytes": 194881,
+      "sha256": "08029c949efd5c0bf4f0c2a41fac1c642b2a714ddcb00f7d158b1e1ef930754e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/65d0a5b16901b1.original",
+      "bytes": 161081,
+      "sha256": "8cf08f1096ab253abcfca0b707e56ba32710c44e04d78e6068e7e78ca772826f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/65ed150e41f5a2.original",
+      "bytes": 186163,
+      "sha256": "2bedb856b6a997e1bb341c055ff0429476eea06f187c09e01a9da066f5f8725a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/676d4659f7f417.original",
+      "bytes": 230079,
+      "sha256": "75451caf20bf68e4c92ffd26ac28acf2943e48da4f84fcc2c8c0653edffe2020"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/6b3698c9ae7d28.original",
+      "bytes": 202142,
+      "sha256": "2fd9b956e8575ff596bb9cf7a9d471e2657efe451ddf24ede78fb4296d9806e6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/6d75d2f1aeb7be.original",
+      "bytes": 212071,
+      "sha256": "cfefd0827c2f105348c2589f1056d7a7dc1aa535c161de57dba52a69956a1c1c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/74151bc34fd068.original",
+      "bytes": 96269,
+      "sha256": "745c6b324ffd58feb03f3f5f7a130cae2ba11640365bf7123a6a005f8bdf86ce"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/7a70117396eb11.original",
+      "bytes": 114470,
+      "sha256": "98d89224484fbc2eda146f4e17665ad8177bf78ad1b08c3bd965ac8dd57c2c77"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/811e5e8b01ec7f.original",
+      "bytes": 262185,
+      "sha256": "9df2a09d2f2c3f596f9619bd64c27c5a573fe30b37614c13f6ecf80879f0ec74"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/8625801a90bcee.original",
+      "bytes": 160011,
+      "sha256": "25cd43c0561c1f1b317929753f65e5b9bbe6a093b75c51adba51abb4d9375d6b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/87bbed9d49b141.original",
+      "bytes": 106591,
+      "sha256": "9ced73d88622d4d4ed5f1fe2930a03debfc0fa6a82bd29c3aff8eddb66f245bf"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/881d64c940b984.original",
+      "bytes": 207786,
+      "sha256": "5b35d95f9bb016e5cc0c2f11d143d4d55f710b4fd9e05ab9b6cd44bc27a59cc7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/8a2a0d53d25aa7.original",
+      "bytes": 179454,
+      "sha256": "917c95d19caeae43a43de4a1365a37da0a4e1a40d60ad4b334bbb5442b9a6840"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/8f67ba8bd9c78b.original",
+      "bytes": 278373,
+      "sha256": "6ac4c0bf291438df6c6db2f9206bff7caa5cbb59f892af6c01825ea637bcae44"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/95ad201d8c856d.original",
+      "bytes": 157510,
+      "sha256": "090a7c9342bdec26061b93264b2e0a033b3b0d140d561037b776772cddc3a3f0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/9857d35818e347.original",
+      "bytes": 194993,
+      "sha256": "d353485f924e03771ce010984325ebdece98c35558dfe85792fb45f2f0370e20"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/98cc0cee8cf0a4.original",
+      "bytes": 178646,
+      "sha256": "b73232018ef5fe4ae6570f8cef3145c4e0b9d93977dfc68e42fbc7791876c6a4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/997a0fe04ed4dc.original",
+      "bytes": 227661,
+      "sha256": "8881484944f9b6e734b038042afee46a331daf4d2e25342bb643240818630666"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/9b21fc4099835c.original",
+      "bytes": 109688,
+      "sha256": "8392487e8213ac5b3ebb2d245a32c7dc0c3bb557ed085732977346eb1f84d0e0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a14414e04c7ff0.original",
+      "bytes": 252558,
+      "sha256": "ce9ed973f3570ee9c33b441ab222748d9e5d5766cd20245b3d9bd0d4b385a8a2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a77a524273f18e.original",
+      "bytes": 264223,
+      "sha256": "64a6debad9c3fbd038c2e52a5e5ac846f5233f40849bb03ae7cb5f5596b0c9a5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a81602ef4e16ca.original",
+      "bytes": 171729,
+      "sha256": "11ac494167fd35948fa1f8c7486a710999c81c38b87caf56d5ed904e90669f81"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a821692fa36ebe.original",
+      "bytes": 187036,
+      "sha256": "1c043bb4fd234e2c803a9e6c6de30fda08e54527b2afebce046706455dc9ef0a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a8234441b450d6.original",
+      "bytes": 203676,
+      "sha256": "331790eaa08f297067bc4e13f0e569aa9861a71c14476ffd3b3d4bf82f11e01e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/a924ee6a572b4d.original",
+      "bytes": 168626,
+      "sha256": "5582c7c74cbba0a3306eab3755776e6136f3b523c9610db032057fe1910d3fbe"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/ae94e8b2075f03.original",
+      "bytes": 163672,
+      "sha256": "96feb57bdd424ed63a17e6aece43ca3b708dbadd02b7af6bebffab8b8112f496"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/b4acf49a436234.original",
+      "bytes": 90589,
+      "sha256": "520d3cd0ca54a7a6520f173f8d5a8916e96facaa344448a05203cdbe05334c68"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/bb81ce2b146c4a.original",
+      "bytes": 450171,
+      "sha256": "791f7afa855d57e99ce79968cf71d68b168cebba8b41b639c32889cbf79464c3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/bee7222ca8f841.original",
+      "bytes": 123764,
+      "sha256": "64042e6e30dc610bedc0ffe1d3ab3d3423bc034702d4496d39129c03e5048df5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/bf72abb909076b.original",
+      "bytes": 221197,
+      "sha256": "6b94dd6516e4e49dbe7dc7de5e3bb062cbb8b6797f596db2b26f07c2cea76ea4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/c05182a7e5b44c.original",
+      "bytes": 89838,
+      "sha256": "b1cf2556d5fda3c29c2d7b49879e801da71b5eb1ce0e545e6a8c8a5ec7931ede"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/c08d9904f4aac0.original",
+      "bytes": 215451,
+      "sha256": "a0c82b08640ebe41c5a0bc7ea825ab4250946da765d156e7b61ba47ea75ce959"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/c49987bbff6f9b.original",
+      "bytes": 331568,
+      "sha256": "fdd6e839149befbfd855531b4fa54e878f0f44edc7d624846b7164ef40324071"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/c5548dc8f63405.original",
+      "bytes": 166126,
+      "sha256": "9939d98c7200fa33bf4ae180dee8b0ad85794bf7196a150f0badd77be5133cb4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/ca07902ddb6f10.original",
+      "bytes": 190003,
+      "sha256": "b0ebc6aac179e3ee383c88c255b48c4f61e1cb8bba628b36a4127da443a3a953"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/cc9241f418ed77.original",
+      "bytes": 190039,
+      "sha256": "150ce4bf87b0298c540ef152af4b571d46ff40b105a8791ea0b6bb321d0bc808"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/d4462075ca53f7.original",
+      "bytes": 269747,
+      "sha256": "32dde6e7bed2f43f873633368a6842e5f24f0639a774510f53aa7d794b4b0954"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/e4635d8e88676b.original",
+      "bytes": 229261,
+      "sha256": "984f4d7bd53b39931a506376b897c95a74d2b71f0fb1fb49e2f8c4692edadad0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/ec167219c21f87.original",
+      "bytes": 107118,
+      "sha256": "5adc097e993ed5bb845176739441d0155afebaa64119c6e24c6a4481affcea6e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/f025e8cee1ac0c.original",
+      "bytes": 171051,
+      "sha256": "4609533b31323f115270bb3212e6bbdcf873079f3070be2151a1890ae07298b3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/f4dcbd323d587e.original",
+      "bytes": 109244,
+      "sha256": "49b1cbc8f0135cc24ef93d11813e6aa90c2e3ffbe0d47152dfa72dcf5671cf42"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/fb945bc94fd274.original",
+      "bytes": 288440,
+      "sha256": "8796c0a9dbfaab66ffd7c83d0a70430d30e4bb1596b42097160e10565a24b45f"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/fbdf3931f5ace8.original",
+      "bytes": 155289,
+      "sha256": "d92bd374ea5ca884aa39c2947acce78dfeb581568c0a0b4fa02d6833b0432f32"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/fda0f1809ba7a7.original",
+      "bytes": 117357,
+      "sha256": "12f24677c83a0b9941a8b69cd1143a02b73f00a1b4978db84d6da40f706230d1"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-01d9e48db2e4.json",
+      "bytes": 13560,
+      "sha256": "9fe52c775f7b3422122778d0557408ceef1be69a3a4de5a3a5897f396abcba44"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-086a41bfee05.json",
+      "bytes": 20,
+      "sha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-0d59a586997f.json",
+      "bytes": 9245,
+      "sha256": "cd854d15accd3c570350e506331fec2d168982d51f352a838004df36a6ecf19c"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-0f35db1000ed.json",
+      "bytes": 14093,
+      "sha256": "507afc18c4454e60c087f47b0e53b6dcce84ec00318a56414c7fdb9da02e157a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-0f907e5d093a.json",
+      "bytes": 8928,
+      "sha256": "791d93280876024c104ecfe8f6ccc26ee4167362aa8fe8a2d45e444fc1eb9cdc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-16df61600df9.json",
+      "bytes": 35252,
+      "sha256": "d1e085be44aa61d38edbef292d042bb58fe5fa10141cd4dbfb2c40a6cdaad5f4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-19e302d0c969.json",
+      "bytes": 9845,
+      "sha256": "f7adda73935537cc56974f5467de41ccb2c05d68f73fb0ad5d4126446b99804a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-2bc5699329f8.json",
+      "bytes": 9712,
+      "sha256": "689a14cba049eca113f52752dbad0ce7fda59e11e68db2aa9bb33671a6aad603"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-33ca353d93e5.json",
+      "bytes": 10676,
+      "sha256": "444c72c360197201b3b0a3a5d4a66fc5fc08f8f0a654fafff4d17241c8a42dff"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-3504a96196a8.json",
+      "bytes": 9871,
+      "sha256": "1f356c8235776ba542d9d48a60ee6a222aa8ad64daca96d556693169eeda8c54"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-3f75ce75967d.json",
+      "bytes": 11237,
+      "sha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-4af5c83841eb.json",
+      "bytes": 14038,
+      "sha256": "2fee323bfef3ad9640d4c1504bf18c10903e8d078e00945ffd9c9fc7fc3bb3a7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-58e8c9288531.json",
+      "bytes": 9528,
+      "sha256": "627f390256a70f297159073a5654925adcae411f3993d3fabed7b5ae3ed9bc34"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-5a421cdefd6d.json",
+      "bytes": 10562,
+      "sha256": "53b89e522ce8ffc011c6089b8f375d012643c3db4b0a42d5e6fb81be825896bb"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-620294d123b0.json",
+      "bytes": 18645,
+      "sha256": "af45eda43f1abb32cf3171f77c49b4c57fa8bd8ea2bc5ffa4a9df71d515b57bf"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-660b4af28534.json",
+      "bytes": 11162,
+      "sha256": "e8e994dd29413398928d7c1eec190c0f64c274f7585feff04f84e02f8a2af52e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-6ef4cc35e39e.json",
+      "bytes": 13208,
+      "sha256": "f2c2e9d12c2b9a6d646108288fd91549f57822b4683a0538a77a4e881beb184a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-701fdeed9cc4.json",
+      "bytes": 17906,
+      "sha256": "0757f3d6776928358067ad0d8cc57d37eadf4869fd8af50412d4eaaa1c04278a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-86a3a1e0187a.json",
+      "bytes": 10319,
+      "sha256": "66f23215a14cf2dc099b5656d4e9294629730dc41d8e6b3a234fc02ba55bf696"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-8cf85d593e02.json",
+      "bytes": 9789,
+      "sha256": "c445e049340ab975d6e1c5f021147220e0d147ea9dd87dab9299d5795d3cf899"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-93a0a4c201aa.json",
+      "bytes": 9616,
+      "sha256": "f08c29a11cca03acb054b4761116c99a703bb12a0d76b373e6283516b6fe9339"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-9feab4eb1cd3.json",
+      "bytes": 5906,
+      "sha256": "3d28f26ba84ff40df089479fde8fc7246af196f1380d40fcdbb19de3843c53cc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-a491e0c373e8.json",
+      "bytes": 14191,
+      "sha256": "cbbf7f3b771bf09bd3726bb6ee456eee30e899314d7f07ccec05312fccb6be02"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-a7df904dcf23.json",
+      "bytes": 10008,
+      "sha256": "553487d7bba35d2e8e046847bb9f2e46a06db4d913232b6e20346281c93cf897"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-a93b632d49a4.json",
+      "bytes": 11237,
+      "sha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-b87c8d76e690.json",
+      "bytes": 9148,
+      "sha256": "4ac60f3351f6f25d469800310978fe7caef0fc305525dae1da2c333721ca2214"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-b9395aa611b3.json",
+      "bytes": 9673,
+      "sha256": "356e358a48430554774002e31187d18d6aa135456b0a3a467f85e306cf00fae7"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-c4d3944e74d8.json",
+      "bytes": 17384,
+      "sha256": "ff3e8f6660499b49d3d1cf83a77762b358f838a1e786b6977a20b6993f2137a5"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-c8ec65225b63.json",
+      "bytes": 9647,
+      "sha256": "633131b84133ecb78f76b1566bbe29b57f033360e33481a553b2edfbcff68ecc"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-cbbeef933c11.json",
+      "bytes": 12143,
+      "sha256": "2888fac61dae105e0681a052a37d69b48e4e7638099f15d3963e797dbaa364ac"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-d65dd7211703.json",
+      "bytes": 15409,
+      "sha256": "0d12e2c1eba775f29564be167ad3bde5df1a85def9f454370970462ea172ec65"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-ddafbfcf217b.json",
+      "bytes": 10717,
+      "sha256": "dc2a2299afe455a55e199a471242dc0f4e74cc6f9ed3e0c8b9f58d1cf9c5391e"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-f27d925d7271.json",
+      "bytes": 11031,
+      "sha256": "57dcdf850bc4a6e491682273f70f9c4307435c0da108749a3c8e831a455b553b"
+    },
+    {
+      "member": "national-enrichment-20261115-01/photos/search-fdb7ff6d9a3b.json",
+      "bytes": 11054,
+      "sha256": "a3e35dafea4d9c76e823be2522af430ab4fa22c628e4316ccfa00379fb6c44fe"
+    },
+    {
+      "member": "national-enrichment-20261115-01/source-fetch-first-run.json",
+      "bytes": 67805,
+      "sha256": "05e1753b07ea8822fadd2d510ca7a1358ea34a61b9a758f64664ee5c7aad3698"
+    },
+    {
+      "member": "national-enrichment-20261115-01/source-fetch-run-00.json",
+      "bytes": 72778,
+      "sha256": "03c25f1c930841e8f8f1d9350f605d9f86e6fb8af9d15355c54a50ac4e595b0d"
+    },
+    {
+      "member": "national-enrichment-20261115-01/source-fetch-run-01.json",
+      "bytes": 75397,
+      "sha256": "93881d13d735d600e6c551e6f27597f03b19f0c7f70fe477360a9b752fdae427"
+    },
+    {
+      "member": "national-enrichment-20261115-01/visual-review/national-photos-review-2.jpg",
+      "bytes": 239288,
+      "sha256": "c2460e0b4fc753daa472fc4fd86004ecb94c8e8e262998f5d8777fc83d2b3485"
+    },
+    {
+      "member": "national-enrichment-20261115-01/visual-review/national-photos-review.jpg",
+      "bytes": 630635,
+      "sha256": "9231d6b67565b8ac7040265dbca378ce607e72e4752f002e841f65320e07afe0"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-0.json",
+      "bytes": 28273,
+      "sha256": "1e5323d6a24451cb2ca229553b4e49ccee6113bf86764704d6c25b6c1d50cda4"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-1.json",
+      "bytes": 28036,
+      "sha256": "c95775ff6238b5fb80e8b82259267ae0f016f3692a84f1a79a986f0798190bb3"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-2.json",
+      "bytes": 28190,
+      "sha256": "bcaf2417ab85bef206097d47141f499fa59175daf4e7f99b96443edb5af86fea"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-3.json",
+      "bytes": 27853,
+      "sha256": "4fa0796ca65fde38f2ffdad457d8134ecf0dd0720f4c4aa95b43c28b2c70c49a"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-4.json",
+      "bytes": 28099,
+      "sha256": "5756e7551f7fd126703db2cd058941c21b289bb2f057e7b583fdfceb5a5ee854"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-5.json",
+      "bytes": 27629,
+      "sha256": "4365b0538bfd64f58d427eeb892ad3b10e81e5ead2b63f3b4151be7fdf72ecf6"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-6.json",
+      "bytes": 27177,
+      "sha256": "e6b088cc4dbb49072fe0271b8ee0f6f3a6881c59b98e35b9ae12642306f4e7fd"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-7.json",
+      "bytes": 13277,
+      "sha256": "9f1a9fcbc957823c726d5e904760e7f8a0fc4a1680ee4b1d334ebd0231087865"
+    },
+    {
+      "member": "national-enrichment-20261115-01/web-search-8.json",
+      "bytes": 25746,
+      "sha256": "0670f8839790c3810d7701bc0c20c55753cbfd8e39eb1ff02121809334d7673d"
+    }
+  ]
+}

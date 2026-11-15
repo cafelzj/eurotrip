@@ -1,0 +1,20 @@
+{
+  "id": "national-01-42f41a65199711ef",
+  "title": "福州名菜：佛跳墙_美食_福建省委台港澳工作办公室",
+  "url": "https://www.fjtb.gov.cn/food/201308/t20130807_4557639.htm",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/42f41a65199711ef.html",
+  "originalResponseSha256": "4691e860e44f640cf0ce9542e7172abe78a5b48d0e627a4c6f280bbeaf6db0f3",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/42f41a65199711ef.txt",
+  "readableSha256": "4b99e18473018f922b07800e4707b12823ceecf5fb98089080ae77c85686e4e3",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "program-00b8a46c44b51a3f1d",
+      "name": "佛跳墙",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

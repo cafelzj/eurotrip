@@ -1,0 +1,20 @@
+{
+  "id": "national-01-11b7d8611e32e48d",
+  "title": "Pan-Fried Buns",
+  "url": "https://english.shanghai.gov.cn/en-Snack-travelinshanghai/20231205/1b1c394feda144c283df2abd3e8b2cec.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/11b7d8611e32e48d.html",
+  "originalResponseSha256": "7d0318d24d6c60538f1e94beb4ec7d081d7fa29f228b09acdac9ad2b5209bd5e",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/11b7d8611e32e48d.txt",
+  "readableSha256": "aed2670d8c7f5bcccb2a0b156e41058904c630e7e5bcf054c5b701d841dd5c7f",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sh-shengjian",
+      "name": "上海生煎包",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

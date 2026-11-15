@@ -1,0 +1,2940 @@
+{
+  "date": "2026-11-15",
+  "queries": [
+    {
+      "itemId": "ah-maodoufu",
+      "subject": "徽州毛豆腐",
+      "query": "毛豆腐",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E6%AF%9B%E8%B1%86%E8%85%90&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-6ef4cc35e39e.json",
+      "responseSha256": "f2c2e9d12c2b9a6d646108288fd91549f57822b4683a0538a77a4e881beb184a"
+    },
+    {
+      "itemId": "sd-dezhou-chicken",
+      "subject": "德州扒鸡",
+      "query": "德州扒鸡",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%BE%B7%E5%B7%9E%E6%89%92%E9%B8%A1&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-3f75ce75967d.json",
+      "responseSha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2"
+    },
+    {
+      "itemId": "zj-dongpo",
+      "subject": "东坡肉",
+      "query": "东坡肉",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E4%B8%9C%E5%9D%A1%E8%82%89&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-0d59a586997f.json",
+      "responseSha256": "cd854d15accd3c570350e506331fec2d168982d51f352a838004df36a6ecf19c"
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "subject": "大同刀削面",
+      "query": "大同刀削面",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%A4%A7%E5%90%8C%E5%88%80%E5%89%8A%E9%9D%A2&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-9feab4eb1cd3.json",
+      "responseSha256": "3d28f26ba84ff40df089479fde8fc7246af196f1380d40fcdbb19de3843c53cc"
+    },
+    {
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "subject": "剁椒鱼头",
+      "query": "剁椒鱼头",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-fdb7ff6d9a3b.json",
+      "responseSha256": "a3e35dafea4d9c76e823be2522af430ab4fa22c628e4316ccfa00379fb6c44fe"
+    },
+    {
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "subject": "老边饺子",
+      "query": "老边饺子",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-620294d123b0.json",
+      "responseSha256": "af45eda43f1abb32cf3171f77c49b4c57fa8bd8ea2bc5ffa4a9df71d515b57bf"
+    },
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "subject": "肠粉",
+      "query": "广式肠粉",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%B9%BF%E5%BC%8F%E8%82%A0%E7%B2%89&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-a491e0c373e8.json",
+      "responseSha256": "cbbf7f3b771bf09bd3726bb6ee456eee30e899314d7f07ccec05312fccb6be02"
+    },
+    {
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "subject": "兰州牛肉面",
+      "query": "兰州牛肉拉面",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E6%8B%89%E9%9D%A2&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-d65dd7211703.json",
+      "responseSha256": "0d12e2c1eba775f29564be167ad3bde5df1a85def9f454370970462ea172ec65"
+    },
+    {
+      "itemId": "sw-25f5dd5b14e508a033",
+      "subject": "大理乳扇",
+      "query": "乳扇",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E4%B9%B3%E6%89%87&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-33ca353d93e5.json",
+      "responseSha256": "444c72c360197201b3b0a3a5d4a66fc5fc08f8f0a654fafff4d17241c8a42dff"
+    },
+    {
+      "itemId": "sw-f890e3abd057cef097",
+      "subject": "丝娃娃",
+      "query": "丝娃娃",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E4%B8%9D%E5%A8%83%E5%A8%83&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "status": "search-only-awaiting-visual-review",
+      "responseFile": "research/.local/national-enrichment-20261115-01/photos/search-c4d3944e74d8.json",
+      "responseSha256": "ff3e8f6660499b49d3d1cf83a77762b358f838a1e786b6977a20b6993f2137a5"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "607c4b4bdb2b09",
+      "itemId": "ah-maodoufu",
+      "itemName": "徽州毛豆腐",
+      "file": "方鑫玉毛豆腐.jpg",
+      "info": {
+        "size": 4406853,
+        "width": 4000,
+        "height": 3000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg/960px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg/1920px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg/960px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg/1920px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128274969",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-01-31 13:22:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "方鑫玉毛豆腐",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Hongcun|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​方鑫玉毛豆腐",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2022-10-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:EditQ\" class=\"mw-redirect\" title=\"User:EditQ\">EditQ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-6ef4cc35e39e.json",
+      "metadataSha256": "f2c2e9d12c2b9a6d646108288fd91549f57822b4683a0538a77a4e881beb184a",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/607c4b4bdb2b09.original",
+      "rawSha256": "a1bc10733b8b70ea5da6b9dafc2440e6607bbbb303d2548b4a29be45c4dd2597"
+    },
+    {
+      "id": "d4462075ca53f7",
+      "itemId": "ah-maodoufu",
+      "itemName": "徽州毛豆腐",
+      "file": "方鑫玉毛豆腐 2.jpg",
+      "info": {
+        "size": 2946708,
+        "width": 3000,
+        "height": 4000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg/960px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg/1920px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg/960px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg/1920px-%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%96%B9%E9%91%AB%E7%8E%89%E6%AF%9B%E8%B1%86%E8%85%90_2.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128274970",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-01-31 13:22:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "方鑫玉毛豆腐 2",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Hongcun|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​方鑫玉毛豆腐",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2022-10-22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:EditQ\" class=\"mw-redirect\" title=\"User:EditQ\">EditQ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-6ef4cc35e39e.json",
+      "metadataSha256": "f2c2e9d12c2b9a6d646108288fd91549f57822b4683a0538a77a4e881beb184a",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/d4462075ca53f7.original",
+      "rawSha256": "32dde6e7bed2f43f873633368a6842e5f24f0639a774510f53aa7d794b4b0954"
+    },
+    {
+      "id": "a8234441b450d6",
+      "itemId": "sd-dezhou-chicken",
+      "itemName": "德州扒鸡",
+      "file": "Dezhou Braised Chicken shop at Pingleyuan (20210807173354).jpg",
+      "info": {
+        "size": 6074075,
+        "width": 3954,
+        "height": 2636,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg/960px-Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg/1920px-Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg/960px-Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg/1920px-Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dezhou_Braised_Chicken_shop_at_Pingleyuan_%2820210807173354%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dezhou_Braised_Chicken_shop_at_Pingleyuan_(20210807173354).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108237397",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-08-07 17:31:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dezhou Braised Chicken shop at Pingleyuan (20210807173354)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Nanmofang|Dezhou braised chicken|Self-published work|Beijing photographs taken on 2021-08-07|Files with coordinates missing SDC location of creation|August 2021 in Beijing|Xidawang Lu",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.882625",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.471397",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Pre-packaged maybe.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-08-07 17:33:54",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-3f75ce75967d.json",
+      "metadataSha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/a8234441b450d6.original",
+      "rawSha256": "331790eaa08f297067bc4e13f0e569aa9861a71c14476ffd3b3d4bf82f11e01e"
+    },
+    {
+      "id": "455fbd28c5db86",
+      "itemId": "sd-dezhou-chicken",
+      "itemName": "德州扒鸡",
+      "file": "Dezhou braised chicken (20160511210319).jpg",
+      "info": {
+        "size": 3205803,
+        "width": 3094,
+        "height": 2278,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dezhou_braised_chicken_%2820160511210319%29.jpg/960px-Dezhou_braised_chicken_%2820160511210319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 707,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dezhou_braised_chicken_%2820160511210319%29.jpg/1920px-Dezhou_braised_chicken_%2820160511210319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dezhou_braised_chicken_%2820160511210319%29.jpg/960px-Dezhou_braised_chicken_%2820160511210319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 707,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Dezhou_braised_chicken_%2820160511210319%29.jpg/1920px-Dezhou_braised_chicken_%2820160511210319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dezhou_braised_chicken_%2820160511210319%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dezhou_braised_chicken_(20160511210319).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48748475",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-05-13 03:42:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dezhou braised chicken (20160511210319)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2016-05-11|Taken with iPhone 6|Dezhou braised chicken|Self-published work|May 2016 in Beijing|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.927625",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.302308",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Sold at Beijing South Railway Station for 58 (note the remaining portion of price tag). My roommate would call it a \"Texan chicken\" just because of this famous pun: the name of Dezhou is the same as the abbreviation of the Chinese name for the U.S. state of Texas.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-05-11 21:03:19",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-3f75ce75967d.json",
+      "metadataSha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/455fbd28c5db86.original",
+      "rawSha256": "288df2785e3da90d693112df9eee47fbcdf1cbe9a85821e26c638874d1e94ecc"
+    },
+    {
+      "id": "8a2a0d53d25aa7",
+      "itemId": "sd-dezhou-chicken",
+      "itemName": "德州扒鸡",
+      "file": "Single Dezhou braised chicken wrapped in paper (20170115132902).jpg",
+      "info": {
+        "size": 4054353,
+        "width": 3264,
+        "height": 2278,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg/960px-Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 670,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg/1920px-Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg/960px-Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 670,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg/1920px-Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Single_Dezhou_braised_chicken_wrapped_in_paper_(20170115132902).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55038217",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-01-15 14:30:49",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Single Dezhou braised chicken wrapped in paper (20170115132902)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2017-01-15|Dezhou braised chicken|Self-published work|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "34.375550",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "115.758850",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Bought freshly in TX... well, Dezhou, and eaten in Shangqiu.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-01-15 13:29:02",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-3f75ce75967d.json",
+      "metadataSha256": "2876e9defcbf130ac661c30bff4e075a1e2fe580140648796b684300a0108bc2",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/8a2a0d53d25aa7.original",
+      "rawSha256": "917c95d19caeae43a43de4a1365a37da0a4e1a40d60ad4b334bbb5442b9a6840"
+    },
+    {
+      "id": "74151bc34fd068",
+      "itemId": "zj-dongpo",
+      "itemName": "东坡肉",
+      "file": "Dongpo pork (a Hangzhou dish).jpg",
+      "info": {
+        "size": 458320,
+        "width": 1573,
+        "height": 1175,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dongpo_pork_%28a_Hangzhou_dish%29.jpg/960px-Dongpo_pork_%28a_Hangzhou_dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 717,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dongpo_pork_%28a_Hangzhou_dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dongpo_pork_%28a_Hangzhou_dish%29.jpg/960px-Dongpo_pork_%28a_Hangzhou_dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 717,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dongpo_pork_%28a_Hangzhou_dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dongpo_pork_%28a_Hangzhou_dish%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dongpo_pork_(a_Hangzhou_dish).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87271476",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-02-20 08:23:27",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dongpo pork (a Hangzhou dish)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Images from Wiki Loves Folklore 2020 in China|Dongpo pork|Self-published work|Images from Wiki Loves Folklore 2020|Uploaded via Campaign:wllove",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Dongpo pork (a Hangzhou dish)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-10-18 19:04:57",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pauloleong2002\" title=\"User:Pauloleong2002\">Pauloleong2002</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-0d59a586997f.json",
+      "metadataSha256": "cd854d15accd3c570350e506331fec2d168982d51f352a838004df36a6ecf19c",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/74151bc34fd068.original",
+      "rawSha256": "745c6b324ffd58feb03f3f5f7a130cae2ba11640365bf7123a6a005f8bdf86ce"
+    },
+    {
+      "id": "87bbed9d49b141",
+      "itemId": "zj-dongpo",
+      "itemName": "东坡肉",
+      "file": "Dongpo pork by superturtle.jpg",
+      "info": {
+        "size": 305019,
+        "width": 1024,
+        "height": 576,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Dongpo_pork_by_superturtle.jpg/960px-Dongpo_pork_by_superturtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 540,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dongpo_pork_by_superturtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Dongpo_pork_by_superturtle.jpg/960px-Dongpo_pork_by_superturtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 540,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dongpo_pork_by_superturtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dongpo_pork_by_superturtle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dongpo_pork_by_superturtle.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2079392",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2007-05-09 03:17:16",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Dongpo pork by superturtle",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Dongpo pork|Flickr images reviewed by FlickreviewR|Information field template with formatting",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "東坡肉<br>Pork Belly and Egg",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-04-07",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/superturtle/461453608/\">Flickr</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/superturtle/\">superturtle</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-0d59a586997f.json",
+      "metadataSha256": "cd854d15accd3c570350e506331fec2d168982d51f352a838004df36a6ecf19c",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/87bbed9d49b141.original",
+      "rawSha256": "9ced73d88622d4d4ed5f1fe2930a03debfc0fa6a82bd29c3aff8eddb66f245bf"
+    },
+    {
+      "id": "2f9a52e2665909",
+      "itemId": "zj-dongpo",
+      "itemName": "东坡肉",
+      "file": "盐官缸肉2.jpg",
+      "info": {
+        "size": 7663606,
+        "width": 5456,
+        "height": 3632,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg/960px-%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 639,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg/1920px-%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg/960px-%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 639,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg/1920px-%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E7%9B%90%E5%AE%98%E7%BC%B8%E8%82%892.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58204308",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-04-21 13:33:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "盐官缸肉2",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Dongpo pork|Self-published work|Cuisine of Jiaxing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​盐官缸肉。与东坡肉类似。",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-04-15 12:03:33",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E4%B8%89%E7%8C%8E\" title=\"User:三猎\">三猎</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-0d59a586997f.json",
+      "metadataSha256": "cd854d15accd3c570350e506331fec2d168982d51f352a838004df36a6ecf19c",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/2f9a52e2665909.original",
+      "rawSha256": "d14f05b29626588877e6c61c9bdd9d30640b16f1403019d41ce413bb8226eba4"
+    },
+    {
+      "id": "c49987bbff6f9b",
+      "itemId": "program-83ceb06c8c4b57473b",
+      "itemName": "大同刀削面",
+      "file": "Datong Daoxiaomian.jpg",
+      "info": {
+        "size": 331568,
+        "width": 768,
+        "height": 1024,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Datong_Daoxiaomian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Datong_Daoxiaomian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Datong_Daoxiaomian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Datong_Daoxiaomian.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18493142",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2012-02-25 14:37:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Datong Daoxiaomian",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Food preparation in China|Dāoxiāo miàn|Pingcheng District|Flickr images reviewed by trusted users|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "40.088287",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "113.289642",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Datong Daoxiaomian",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2010-08-24 23:46",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/timquijano/4924897015/\">刀削面 (daoxiaomian) Knife-scraped noodles</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7527824@N04\">齐健</a> from Peking, People's Republic",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-9feab4eb1cd3.json",
+      "metadataSha256": "3d28f26ba84ff40df089479fde8fc7246af196f1380d40fcdbb19de3843c53cc",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/c49987bbff6f9b.original",
+      "rawSha256": "fdd6e839149befbfd855531b4fa54e878f0f44edc7d624846b7164ef40324071"
+    },
+    {
+      "id": "580b7cf1bcbf52",
+      "itemId": "program-83ceb06c8c4b57473b",
+      "itemName": "大同刀削面",
+      "file": "Datong Fideos.jpg",
+      "info": {
+        "size": 5021115,
+        "width": 2736,
+        "height": 3648,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Datong_Fideos.jpg/960px-Datong_Fideos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Datong_Fideos.jpg/1920px-Datong_Fideos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Datong_Fideos.jpg/960px-Datong_Fideos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Datong_Fideos.jpg/1920px-Datong_Fideos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Datong_Fideos.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23770165",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-01-11 14:03:36",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Datong Fideos",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Fujifilm FinePix S1500|Datong|Dāoxiāo miàn|Flickr images reviewed by FlickreviewR|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Fideos · Datong",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-07-16 18:07",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sebadella/8053981681/\">Fideos · Datong</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/10067086@N00\">Seba Della y Sole Bossio</a> from Cordoba, Argentina",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-9feab4eb1cd3.json",
+      "metadataSha256": "3d28f26ba84ff40df089479fde8fc7246af196f1380d40fcdbb19de3843c53cc",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/580b7cf1bcbf52.original",
+      "rawSha256": "540b39f4f1994a9c5b663e3b29f675633d80fe0580cb435b0731276915d4ff3f"
+    },
+    {
+      "id": "277239fd55fe62",
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "itemName": "剁椒鱼头",
+      "file": "Steamed Fish Head with Diced Hot Red Peppers 20210711.jpg",
+      "info": {
+        "size": 2186618,
+        "width": 3968,
+        "height": 2976,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg/960px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg/1920px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg/960px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg/1920px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107644634",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-07-18 05:19:04",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Steamed Fish Head with Diced Hot Red Peppers 20210711",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2021-07-11|Steamed fish head with diced hot red peppers|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Steamed Fish Head with Diced Hot Red Peppers is a representative dish of Hunan cuisine.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-07-11 19:02:27",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-fdb7ff6d9a3b.json",
+      "metadataSha256": "a3e35dafea4d9c76e823be2522af430ab4fa22c628e4316ccfa00379fb6c44fe",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/277239fd55fe62.original",
+      "rawSha256": "ea2e45163a62aaac6f29bd6f767bd2f090558f47a48378d8518ed12686ae5a63"
+    },
+    {
+      "id": "2a4581fb921c59",
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "itemName": "剁椒鱼头",
+      "file": "Steamed Fish Head with Diced Hot Red Peppers at Huanxiang Restaurant, GR Mall, Beijing (20210727181631).jpg",
+      "info": {
+        "size": 7190172,
+        "width": 3869,
+        "height": 2580,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg/960px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg/1920px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg/960px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg/1920px-Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820210727181631%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_at_Huanxiang_Restaurant,_GR_Mall,_Beijing_(20210727181631).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107928131",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-07-27 15:22:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Steamed Fish Head with Diced Hot Red Peppers at Huanxiang Restaurant, GR Mall, Beijing (20210727181631)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Steamed fish head with diced hot red peppers|Self-published work|Beijing photographs taken on 2021-07-27|Files with coordinates missing SDC location of creation|July 2021 in Beijing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.957267",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.279617",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "CNY118, maybe.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-07-27 18:16:31",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-fdb7ff6d9a3b.json",
+      "metadataSha256": "a3e35dafea4d9c76e823be2522af430ab4fa22c628e4316ccfa00379fb6c44fe",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/2a4581fb921c59.original",
+      "rawSha256": "e35ca5d6874b6b926e57f99e5eb37f436523ce1a707ebc37fcfa2336bd556c34"
+    },
+    {
+      "id": "e4635d8e88676b",
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "itemName": "剁椒鱼头",
+      "file": "Steamed fish head with diced hot red peppers 20211206.jpg",
+      "info": {
+        "size": 4502182,
+        "width": 4608,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg/960px-Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg/1920px-Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg/960px-Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg/1920px-Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Steamed_fish_head_with_diced_hot_red_peppers_20211206.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113169461",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-12-08 09:41:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Steamed fish head with diced hot red peppers 20211206",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Steamed fish head with diced hot red peppers|Self-published work|Taken with Honor X20 5G",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Steamed fish head with diced hot red peppers.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-12-06 12:52:19",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-fdb7ff6d9a3b.json",
+      "metadataSha256": "a3e35dafea4d9c76e823be2522af430ab4fa22c628e4316ccfa00379fb6c44fe",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/e4635d8e88676b.original",
+      "rawSha256": "984f4d7bd53b39931a506376b897c95a74d2b71f0fb1fb49e2f8c4692edadad0"
+    },
+    {
+      "id": "388fd8cf1f82e5",
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "itemName": "老边饺子",
+      "file": "Laobian Dumpling at Xiaoxiayuan (20211221155547).jpg",
+      "info": {
+        "size": 7628397,
+        "width": 4032,
+        "height": 2688,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg/960px-Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg/1920px-Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg/960px-Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg/1920px-Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Laobian_Dumpling_at_Xiaoxiayuan_%2820211221155547%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Laobian_Dumpling_at_Xiaoxiayuan_(20211221155547).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113543564",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-12-21 17:01:57",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Laobian Dumpling at Xiaoxiayuan (20211221155547)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Huayuanlu Subdistrict, Beijing|Laobian Dumpling|Self-published work|Files with coordinates missing SDC location of creation|December 2021 in Beijing|Beijing photographs taken on 2021-12-21|Restaurants in Haidian District, Beijing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.975400",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.355011",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Opened in 1990 before the Asian Games.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-12-21 15:55:47",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:N509FZ\" title=\"User:N509FZ\">N509FZ</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-620294d123b0.json",
+      "metadataSha256": "af45eda43f1abb32cf3171f77c49b4c57fa8bd8ea2bc5ffa4a9df71d515b57bf",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/388fd8cf1f82e5.original",
+      "rawSha256": "c123b34e17a02ad51549ff82edd689ee3f4266a9639e1dde16f1b62036559737"
+    },
+    {
+      "id": "a77a524273f18e",
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "itemName": "老边饺子",
+      "file": "Laobian dumpling - panoramio.jpg",
+      "info": {
+        "size": 1188124,
+        "width": 2048,
+        "height": 1536,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Laobian_dumpling_-_panoramio.jpg/960px-Laobian_dumpling_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Laobian_dumpling_-_panoramio.jpg/1920px-Laobian_dumpling_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Laobian_dumpling_-_panoramio.jpg/960px-Laobian_dumpling_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Laobian_dumpling_-_panoramio.jpg/1920px-Laobian_dumpling_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Laobian_dumpling_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Laobian_dumpling_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38292891",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-02-09 12:26:01",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Laobian dumpling - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "China photographs taken on 2007-05-11|Laobian Dumpling|Panoramio files uploaded by Panoramio upload bot|Chegongzhuang Dajie|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Restaurants in Xicheng District, Beijing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "39.931451",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "116.333606",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "laobian dumpling，西城区车公庄大街甲17号",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 11 May 2007",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.panoramio.com/photo/2222991\">https://www.panoramio.com/photo/2222991</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.panoramio.com/user/418471?with_photo_id=2222991\">edmh0715</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">edmh0715</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 9 February 2015 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "edmh0715",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-620294d123b0.json",
+      "metadataSha256": "af45eda43f1abb32cf3171f77c49b4c57fa8bd8ea2bc5ffa4a9df71d515b57bf",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/a77a524273f18e.original",
+      "rawSha256": "64a6debad9c3fbd038c2e52a5e5ac846f5233f40849bb03ae7cb5f5596b0c9a5"
+    },
+    {
+      "id": "22f09da70c77b6",
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "itemName": "老边饺子",
+      "file": "沈阳中街老边饺子馆.jpg",
+      "info": {
+        "size": 1515806,
+        "width": 2592,
+        "height": 1936,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg/960px-%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 717,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg/1920px-%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg/960px-%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 717,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg/1920px-%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E6%B2%88%E9%98%B3%E4%B8%AD%E8%A1%97%E8%80%81%E8%BE%B9%E9%A5%BA%E5%AD%90%E9%A6%86.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32031618",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2014-04-07 07:48:34",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "沈阳中街老边饺子馆",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Laobian Dumpling|Restaurants in Shenyang|2014大连春季考察团",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​沈阳中街主要商户：老边饺子馆。",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-04-06",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "作为<a href=\"https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E8%80%83%E5%AF%9F%E5%9B%A2/2014%E5%A4%A7%E8%BF%9E%E6%98%A5%E5%AD%A3%E8%80%83%E5%AF%9F%E5%9B%A2\" class=\"extiw\" title=\"zh:Wikipedia:维基考察团/2014大连春季考察团\">2014大连维基人春季考察徒步摄影活动</a>的子活动之一，照片由<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E9%98%B4%E9%98%B3%E6%9D%83%E6%94%BF&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:阴阳权政 (page does not exist)\">User:阴阳权政</a>拍摄，采用知识共享“署名-相同方式共享 3.0”协议发布，并授权<a href=\"//commons.wikimedia.org/wiki/User:DukeAnt\" title=\"User:DukeAnt\">User:DukeAnt</a>代为上传。",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%E9%98%B4%E9%98%B3%E6%9D%83%E6%94%BF&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:阴阳权政 (page does not exist)\">阴阳权政</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-620294d123b0.json",
+      "metadataSha256": "af45eda43f1abb32cf3171f77c49b4c57fa8bd8ea2bc5ffa4a9df71d515b57bf",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/22f09da70c77b6.original",
+      "rawSha256": "9a47360b8f8f82aaba243784481406053305a97cedac82e61b415942ddad5889"
+    },
+    {
+      "id": "0b862884b14a28",
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "itemName": "兰州牛肉面",
+      "file": "Lanzhou Ramen.JPG",
+      "info": {
+        "size": 1872909,
+        "width": 4000,
+        "height": 3000,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lanzhou_Ramen.JPG/960px-Lanzhou_Ramen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lanzhou_Ramen.JPG/1920px-Lanzhou_Ramen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lanzhou_Ramen.JPG/960px-Lanzhou_Ramen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lanzhou_Ramen.JPG/1920px-Lanzhou_Ramen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lanzhou_Ramen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanzhou_Ramen.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7915283",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-09-28 11:47:46",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Lanzhou Ramen",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|License migration redundant|Self-published work|Lanzhou Lamian (Qinghai)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Lanzhou Ramian.￥4.5.For sale in Nanjing",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Berthe\" title=\"User:Berthe\">Berthe</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-d65dd7211703.json",
+      "metadataSha256": "0d12e2c1eba775f29564be167ad3bde5df1a85def9f454370970462ea172ec65",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/0b862884b14a28.original",
+      "rawSha256": "ee1f6f412acd6ac81bb1791602192563214cd8d304b68702cc97923f8271a694"
+    },
+    {
+      "id": "5c3841ee7d7419",
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "itemName": "兰州牛肉面",
+      "file": "Lanzhou beef noodles soup - panoramio.jpg",
+      "info": {
+        "size": 2348879,
+        "width": 4912,
+        "height": 3264,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lanzhou_beef_noodles_soup_-_panoramio.jpg/960px-Lanzhou_beef_noodles_soup_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 638,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lanzhou_beef_noodles_soup_-_panoramio.jpg/1920px-Lanzhou_beef_noodles_soup_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lanzhou_beef_noodles_soup_-_panoramio.jpg/960px-Lanzhou_beef_noodles_soup_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 638,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Lanzhou_beef_noodles_soup_-_panoramio.jpg/1920px-Lanzhou_beef_noodles_soup_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lanzhou_beef_noodles_soup_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lanzhou_beef_noodles_soup_-_panoramio.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59085950",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-05-19 20:04:18",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Lanzhou beef noodles soup - panoramio",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Chinatown, Montreal|Noodle soups|Panoramio files uploaded by Panoramio upload bot|Soups of Canada|Panoramio images reviewed by trusted users|Photos from Panoramio|January 2015 in Montreal|Files with coordinates missing SDC location of creation|Canada photographs taken on 2015-01-15|Food in Montreal|Photos from Panoramio ID 7011720",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "45.507705",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-73.559561",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Lanzhou beef noodles soup",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Taken on 15 January 2015",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161103001556/http://www.panoramio.com/photo/115816951\">https://web.archive.org/web/20161103001556/http://www.panoramio.com/photo/115816951</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161103001558/http://www.panoramio.com/user/7011720?with_photo_id=115816951\">Jiaqian AirplaneFan</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/3.0/deed.en\">Attribution 3.0 Unported</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Jiaqian AirplaneFan</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r901585720\">.mw-parser-output .panoramioreview{width:100%;margin:0.5em 0;background-color:var(--background-color-warning-subtle,#fffff0);padding:5px;border:1px solid var(--border-color-warning,#aa8);color:inherit}.mw-parser-output .panoramioreview-failed{background-color:var(--background-color-error-subtle,#fcc);color:inherit}.mw-parser-output .panoramioreview-passed{background-color:var(--background-color-success-subtle,#efe);color:inherit}</style>\n<table class=\"panoramioreview panoramioreview-passed\" lang=\"en\" dir=\"ltr\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/60px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Checked_copyright_icon.svg/120px-Checked_copyright_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"160\" data-file-height=\"153\"></span></span>\n</td>\n<td>This image, which was originally posted to <b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Panoramio\" class=\"extiw\" title=\"en:Panoramio\">Panoramio</a></span></b>, was automatically reviewed on 19 May 2017 by <b><a href=\"//commons.wikimedia.org/wiki/User:Panoramio_upload_bot\" title=\"User:Panoramio upload bot\">Panoramio upload bot</a></b>, who confirmed that it was available on Panoramio under the above license on that date.\n</td>\n<td><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Star_and_ring.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/60px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Star_and_ring.svg/120px-Star_and_ring.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"75\" data-file-height=\"75\"></a></span>\n</td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Jiaqian AirplaneFan",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-d65dd7211703.json",
+      "metadataSha256": "0d12e2c1eba775f29564be167ad3bde5df1a85def9f454370970462ea172ec65",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/5c3841ee7d7419.original",
+      "rawSha256": "91fa9df6320fa70cd1b219d2cf951a16529a8e6d16ad6baaaeb385ffe5850abb"
+    },
+    {
+      "id": "6013447b16a598",
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "itemName": "兰州牛肉面",
+      "file": "兰州牛肉面.jpg",
+      "info": {
+        "size": 8514136,
+        "width": 5456,
+        "height": 3632,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg/960px-%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 639,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg/1920px-%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg/960px-%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 639,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg/1920px-%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=60698745",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-07-06 09:35:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "兰州牛肉面",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Lanzhou beef noodles|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​兰州安泊尔牛肉面。",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-06-10 14:54:15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E4%B8%89%E7%8C%8E\" title=\"User:三猎\">三猎</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-d65dd7211703.json",
+      "metadataSha256": "0d12e2c1eba775f29564be167ad3bde5df1a85def9f454370970462ea172ec65",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/6013447b16a598.original",
+      "rawSha256": "dfe30efa5853c6f841e42f6b40786ea54f9b01f12a9be7380ea9f3a08aabcf98"
+    },
+    {
+      "id": "fda0f1809ba7a7",
+      "itemId": "sw-25f5dd5b14e508a033",
+      "itemName": "大理乳扇",
+      "file": "Ru shan.JPG",
+      "info": {
+        "size": 1202426,
+        "width": 4074,
+        "height": 2760,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ru_shan.JPG/960px-Ru_shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 650,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ru_shan.JPG/1920px-Ru_shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ru_shan.JPG/960px-Ru_shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 650,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ru_shan.JPG/1920px-Ru_shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ru_shan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ru_shan.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18439104",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2012-02-20 09:26:22",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Ru shan",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Canon EOS 550D|Rushan cheese|Self-published work|Cuisine of Bai people|Culture of Eryuan County",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​云南大理州白族特色食品——乳扇，由羊奶制成。拍摄于洱源县茈碧湖畔。",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2012-01-25",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zhangmoon618\" title=\"User:Zhangmoon618\">Zhangmoon618</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-33ca353d93e5.json",
+      "metadataSha256": "444c72c360197201b3b0a3a5d4a66fc5fc08f8f0a654fafff4d17241c8a42dff",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/fda0f1809ba7a7.original",
+      "rawSha256": "12f24677c83a0b9941a8b69cd1143a02b73f00a1b4978db84d6da40f706230d1"
+    },
+    {
+      "id": "539cbe81b5de28",
+      "itemId": "sw-25f5dd5b14e508a033",
+      "itemName": "大理乳扇",
+      "file": "大理古城烧饵块、烤乳扇.jpg",
+      "info": {
+        "size": 6140311,
+        "width": 5184,
+        "height": 3456,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg/960px-%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg/1920px-%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg/960px-%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg/1920px-%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E7%83%A7%E9%A5%B5%E5%9D%97%E3%80%81%E7%83%A4%E4%B9%B3%E6%89%87.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118462877",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-05-30 09:36:31",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "大理古城烧饵块、烤乳扇",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Rushan cheese|Erkuai|Flickr images reviewed by FlickreviewR 2|Cuisine of Dali City",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​大理古城烧饵块、烤乳扇",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-08-01 06:22:41",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/moonhouse/20449668021/\">https://www.flickr.com/photos/moonhouse/20449668021/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "David Hall",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-33ca353d93e5.json",
+      "metadataSha256": "444c72c360197201b3b0a3a5d4a66fc5fc08f8f0a654fafff4d17241c8a42dff",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/539cbe81b5de28.original",
+      "rawSha256": "cdf4ee857c4fcc26c8c71afef93e802533e6e4ea4c47a8e148cbd8737e4f2a0a"
+    },
+    {
+      "id": "4d83014e518200",
+      "itemId": "sw-25f5dd5b14e508a033",
+      "itemName": "大理乳扇",
+      "file": "大理街边的烤乳扇.jpg",
+      "info": {
+        "size": 1360742,
+        "width": 2134,
+        "height": 1600,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg/960px-%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg/1920px-%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg/960px-%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg/1920px-%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E8%A1%97%E8%BE%B9%E7%9A%84%E7%83%A4%E4%B9%B3%E6%89%87.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118297804",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-05-24 14:24:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "大理街边的烤乳扇",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Rushan cheese|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by tak.wing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "25.716095",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "100.145187",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "​大理街边的烤乳扇",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2007-02-02 14:53:46",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/takwing/5055645599/\">https://www.flickr.com/photos/takwing/5055645599/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "tak.wing",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-33ca353d93e5.json",
+      "metadataSha256": "444c72c360197201b3b0a3a5d4a66fc5fc08f8f0a654fafff4d17241c8a42dff",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/4d83014e518200.original",
+      "rawSha256": "f670ef973cd20712e68cd21cdd4e1423b58f87ab3763cb33dced95c1b2831144"
+    },
+    {
+      "id": "ec167219c21f87",
+      "itemId": "sw-f890e3abd057cef097",
+      "itemName": "丝娃娃",
+      "file": "A Custom Blythe Doll from This Is Blythe.jpg",
+      "info": {
+        "size": 217693,
+        "width": 1052,
+        "height": 570,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg/960px-A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 520,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg/960px-A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 520,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_Custom_Blythe_Doll_from_This_Is_Blythe.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=185178460",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-02-28 02:37:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "A Custom Blythe Doll from This Is Blythe",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Blythe dolls|Items with VRTS permission confirmed|Files with PermissionTicket template but without P6305 SDC statement",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A custom handmade Blythe doll featuring purple curly hair with a ribbon bow, pointed elf ears, blue eyes, and a fairy-style lavender outfit. The doll is seated on a miniature wooden bench decorated with moss and pink roses. Photography and doll customization by This Is Blythe (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.thisisblythe.com\">https://www.thisisblythe.com</a>). Released under CC BY-SA 4.0 by the copyright holder.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-10-11",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Blytheisthis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Blytheisthis (page does not exist)\">Blytheisthis</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=PermissionTicket 1%3Dhttps%3A%2F%2Fticket.wikimedia.org%2Fotrs%2Findex.pl%3FAction%3DAgentTicketZoom%26TicketNumber%3D2026022810000798 2%3D2026022810000798\"> </span>\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r1254222110\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-notice layouttemplate\" role=\"presentation\" style=\"margin:0.3em 0;width:100%;\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span title=\"VRT Wikimedia\"><img alt=\"VRT Wikimedia\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/120px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"48\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Permission_logo_2021.svg/250px-Permission_logo_2021.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"935\" data-file-height=\"600\"></span></span></td><td class=\"mbox-text\">This work is <a href=\"https://freedomdefined.org/Definition\" class=\"extiw\" title=\"freedomdefined:Definition\">free</a> and may be used by anyone for any purpose. If you wish to <b><a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">use this content</a></b>, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.\n<p>The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been <strong style=\"color: var(--color-content-added, darkgreen);\">reviewed</strong> by a <a href=\"//commons.wikimedia.org/wiki/Template:PermissionTicket/Users\" title=\"Template:PermissionTicket/Users\">Volunteer Response Team (VRT) member</a> and stored in our <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\" title=\"Commons:Volunteer Response Team\">permission archive</a>. The correspondence is available to trusted volunteers as <b><a href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026022810000798\" class=\"extiw\" title=\"ticket:2026022810000798\">ticket #2026022810000798</a></b>.\n</p><p><small>If you have questions about the archived correspondence, please use the <a href=\"//commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\" title=\"Commons:Volunteer Response Team/Noticeboard\">VRT noticeboard</a>.</small>\n<small>Ticket link: <a class=\"external free\" href=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026022810000798\">https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026022810000798</a></small>\n<br><small>Find other files from the same ticket:</small> <span typeof=\"mw:File\"><a href=\"https://wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222026022810000798%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\" title=\"SDC query (SPARQL)\" rel=\"nofollow\"><img alt=\"SDC query (SPARQL)\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/20px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"15\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia_Commons_Query_Service_Logo.svg/40px-Wikimedia_Commons_Query_Service_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"688\"></a></span>\n</p>\n<span id=\"field-otrs\" title=\"https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&amp;TicketNumber=2026022810000798\"></span></td></tr></tbody></table>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-c4d3944e74d8.json",
+      "metadataSha256": "ff3e8f6660499b49d3d1cf83a77762b358f838a1e786b6977a20b6993f2137a5",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/ec167219c21f87.original",
+      "rawSha256": "5adc097e993ed5bb845176739441d0155afebaa64119c6e24c6a4481affcea6e"
+    },
+    {
+      "id": "146b8543e37f93",
+      "itemId": "sw-f890e3abd057cef097",
+      "itemName": "丝娃娃",
+      "file": "Coldie.jpg",
+      "info": {
+        "size": 72860,
+        "width": 615,
+        "height": 310,
+        "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coldie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "thumbwidth": 960,
+        "thumbheight": 484,
+        "thumbattribs": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coldie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 484
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coldie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Coldie.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89543605",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-04-27 20:14:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Coldie",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Blythe dolls|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "-12.070692",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-77.100355",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "I opened up my Custom Goldie (Coldie.. :P) bait to check if she really was Goldie as I was told.\n<p>See the scalp is not neatly cut, but that wasn't me. I would never do that to a dolly!\nI found some black hair remains. \nA very stretched spring.\nA little bit of orange yellow paint on the inside of the back plate. None on the face plate.\nEyeballs are BL.\nSo, my conclusion is..  it's highly likely she is Goldie... :)\nThose eyechips will go to the bin...\nCheck out the re-root :D  I'm afraid I will have to change that too.  I do like the hair though. It's got several shades mixed in: pale pink, beige and light brown.. But I just can't be happy knowing she's been re-rooted like this.. no.\n</p>\nShe is staying with me, but I still don't know what to do with her :)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2010-05-12",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/suedehead/4602690374/\">https://www.flickr.com/photos/suedehead/4602690374/</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Suedehead",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-c4d3944e74d8.json",
+      "metadataSha256": "ff3e8f6660499b49d3d1cf83a77762b358f838a1e786b6977a20b6993f2137a5",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/146b8543e37f93.original",
+      "rawSha256": "b2f0871aac4a33482c4d8af31e705876a615301c5205f4aa6788f7b666d34459"
+    },
+    {
+      "id": "8f67ba8bd9c78b",
+      "itemId": "sw-f890e3abd057cef097",
+      "itemName": "丝娃娃",
+      "file": "丝娃娃 (28664736712).jpg",
+      "info": {
+        "size": 1292952,
+        "width": 1536,
+        "height": 2048,
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg/960px-%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 960,
+        "thumbheight": 1280,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg/1280px-%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg/960px-%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 960,
+          "height": 1280,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg/1280px-%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%E4%B8%9D%E5%A8%83%E5%A8%83_%2828664736712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E4%B8%9D%E5%A8%83%E5%A8%83_(28664736712).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69181876",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2018-05-17 03:24:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "丝娃娃 (28664736712)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Samsung Galaxy Trend II|Guiyang|Cuisine of Guizhou|Files uploaded by OceanAtoll|Flickr images reviewed by FlickreviewR 2|Images by Caitriana Nicholson",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Guiyang, Guizhou",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-07-15 18:59",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/caitriana/28664736712/\">丝娃娃</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93221896@N00\">Caitriana Nicholson</a> from 北京 ~ Beijing, 中国 ~ China",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      "metadataFile": "research/.local/national-enrichment-20261115-01/photos/search-c4d3944e74d8.json",
+      "metadataSha256": "ff3e8f6660499b49d3d1cf83a77762b358f838a1e786b6977a20b6993f2137a5",
+      "status": "downloaded-awaiting-visual-review",
+      "rawFile": "research/.local/national-enrichment-20261115-01/photos/8f67ba8bd9c78b.original",
+      "rawSha256": "6ac4c0bf291438df6c6db2f9206bff7caa5cbb59f892af6c01825ea637bcae44"
+    }
+  ]
+}

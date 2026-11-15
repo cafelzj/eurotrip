@@ -10,6 +10,7 @@
 | --- | --- |
 | 正式卡片编辑输入与结构 | `data/flavors.js`、`data/china-cards.js`、`data/card-reading.js`；分类、地区和合并配置见 [实现说明](../../docs/china-collection.md) |
 | 中国卡片合并、12组旧ID和来源 | [统一登记](integration/china-collection.json) |
+| 现有卡片文字、实拍与全量缺口 | [持续补充](enrichment/README.md)、[全国首批](enrichment/2026-11-15-national-01/README.md)、[6627张全量队列](enrichment/queue.json) |
 | 本批四地1135项扩充 | [知识、外搜、交叉核对、配图与采用](expansions/2026-11-15-southwest/README.md) |
 | 陕西、甘肃311项扩充 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-shaanxi-gansu/README.md) |
 | 上批796项扩充与超过5000的核对 | [知识、外搜、交叉核对与采用](expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md)；[当前卡片验收](integration/current-collection-audit.json) |

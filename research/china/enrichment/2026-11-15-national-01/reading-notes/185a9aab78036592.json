@@ -1,0 +1,20 @@
+{
+  "id": "national-01-185a9aab78036592",
+  "title": "非遗美食名享天下",
+  "url": "https://sx.people.com.cn/n2/2024/1205/c189133-41066038.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/185a9aab78036592.html",
+  "originalResponseSha256": "29ce3c02b4504401437b839f53164c44109a1bef1834f79105c6984ff5828de0",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/185a9aab78036592.txt",
+  "readableSha256": "f4a5f67a40b15b6b4fab7a1decca9f4744adb3695746427cda8ce30ab878e4eb",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "name": "大同刀削面",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

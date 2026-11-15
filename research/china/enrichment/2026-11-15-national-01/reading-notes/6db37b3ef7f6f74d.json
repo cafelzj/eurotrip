@@ -1,0 +1,20 @@
+{
+  "id": "national-01-6db37b3ef7f6f74d",
+  "title": "Pan-fried pork buns_Local Flavors",
+  "url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260430/c012ba9f05414f3184be86244a03e950.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/6db37b3ef7f6f74d.html",
+  "originalResponseSha256": "232025867fe12a478202b1969db8cb008cea6f5cdf926e753e2bb03531f908c0",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/6db37b3ef7f6f74d.txt",
+  "readableSha256": "5ef5fd5aa9f344ef15a73000686553d0510cb1c194b3587c2285ff0e623ff330",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sh-shengjian",
+      "name": "上海生煎包",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

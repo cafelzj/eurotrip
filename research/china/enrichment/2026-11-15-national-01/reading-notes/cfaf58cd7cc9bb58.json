@@ -1,0 +1,20 @@
+{
+  "id": "national-01-cfaf58cd7cc9bb58",
+  "title": "南昌人的一碗拌粉（多味斋） --文旅·体育--人民网",
+  "url": "https://ent.people.com.cn/n1/2025/1119/c1012-40606709.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/cfaf58cd7cc9bb58.html",
+  "originalResponseSha256": "91f245710cb4995eda0150f3711cf66fa6a54d57a137aa73e82a061308c7ef63",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/cfaf58cd7cc9bb58.txt",
+  "readableSha256": "0d2e09b0a808c47ab10c3099e05a723b91ee70093225cbbaf3e659cfe6f0c1b4",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "threeprov-d87117df1f16fef9f4",
+      "name": "南昌拌粉",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

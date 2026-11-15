@@ -1,0 +1,20 @@
+{
+  "id": "national-01-44086d18942f8595",
+  "title": "武汉热干面 - 中共湖北省委外事工作委员会办公室 -",
+  "url": "https://www.fohb.gov.cn/info/2022-08/20220810162100_208.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/44086d18942f8595.html",
+  "originalResponseSha256": "5c35e8dd4bed66c560d032458ac7e39b2cc1709e3ecbb97f9e6c0c5806b288a3",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/44086d18942f8595.txt",
+  "readableSha256": "44777110167f58982ccf941d69705935109e1b9df6eccea2843333b16a1aee09",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-hubei-c44e87fd11",
+      "name": "热干面",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "national-01-6706c5fef47bc56d",
+  "title": "广式肠粉  广州市荔湾区人民政府门户网站",
+  "url": "https://www.lw.gov.cn/zjlw/lwdt/szlw/content/post_9042085.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/6706c5fef47bc56d.html",
+  "originalResponseSha256": "f273091865084c778a083cd756775994fa5a119c2e31028553c2d54122c7d6b6",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/6706c5fef47bc56d.txt",
+  "readableSha256": "3e08a5ed15dfb9bcc29afcec543696651ce743dff1d6e212467d18b842992f0d",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "name": "肠粉",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

@@ -870,6 +870,258 @@ window.flavorImages={
       "changes": "取得的原图或Commons缩略响应按EXIF方向校正、等比例限宽后导出JPEG；网页列表按框裁切。",
       "listDisplay": true,
       "listReviewNote": "复查通过：实物主体可辨、画面清楚，可用作当前列表配图。"
+    },
+    "national01-photo-b4acf49a436234": {
+      "file": "Nanjing Salted Duck.jpg",
+      "src": "assets/photos/flavors/national01-b4acf49a436234.jpg",
+      "width": 960,
+      "height": 636,
+      "kind": "food",
+      "alt": "南京盐水鸭成品实拍",
+      "caption": "南京盐水鸭成品实拍",
+      "author": "AddisWang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nanjing_Salted_Duck.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "盐水鸭切片，白色盘面简洁，主体明确，未使用包装袋照片。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-27fc6b746fcb0a": {
+      "file": "Shengjian Mantou on a Pan.jpg",
+      "src": "assets/photos/flavors/national01-27fc6b746fcb0a.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "上海生煎包成品实拍",
+      "caption": "上海生煎包成品实拍",
+      "author": "Luca Mascaro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjian_Mantou_on_a_Pan.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "生煎成品主体清晰，锅中排列与食物焦底可辨，背景克制。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-c08d9904f4aac0": {
+      "file": "20240826 Hulatang in Xiaoyao Town.jpg",
+      "src": "assets/photos/flavors/national01-c08d9904f4aac0.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "胡辣汤成品实拍",
+      "caption": "胡辣汤成品实拍",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20240826_Hulatang_in_Xiaoyao_Town.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "逍遥镇胡辣汤成品，碗内汤与配料清楚，暖色桌面不喧宾夺主。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-5e2a20a2661b3d": {
+      "file": "Donkey sandwich, Baoding style (20160310111719).jpg",
+      "src": "assets/photos/flavors/national01-5e2a20a2661b3d.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "驴肉火烧成品实拍",
+      "caption": "驴肉火烧成品实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Donkey_sandwich,_Baoding_style_(20160310111719).jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "题名明确为保定风格驴肉火烧，圆形饼与驴肉主体清楚，对应保定卡片。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-461084f65aaccf": {
+      "file": "Hot Dry Noodles.jpg",
+      "src": "assets/photos/flavors/national01-461084f65aaccf.jpg",
+      "width": 960,
+      "height": 960,
+      "kind": "food",
+      "alt": "热干面成品实拍",
+      "caption": "热干面成品实拍",
+      "author": "ZhengZhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hot_Dry_Noodles.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "热干面成品面碗主体清楚，芝麻酱拌面可辨，排除调料货架照片。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-65d0a5b16901b1": {
+      "file": "Buddha jumps over the wall at Jingrong (20161203135907).jpg",
+      "src": "assets/photos/flavors/national01-65d0a5b16901b1.jpg",
+      "width": 960,
+      "height": 691,
+      "kind": "food",
+      "alt": "佛跳墙成品实拍",
+      "caption": "佛跳墙成品实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Buddha_jumps_over_the_wall_at_Jingrong_(20161203135907).jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "佛跳墙坛装成品，菜品与容器明确，背景不杂乱；不推定所有成品配料一致。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-65ed150e41f5a2": {
+      "file": "Yanji-style mul-naengmyeon at Qiaotou (20190610190649).jpg",
+      "src": "assets/photos/flavors/national01-65ed150e41f5a2.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "延吉冷面成品实拍",
+      "caption": "延吉冷面成品实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yanji-style_mul-naengmyeon_at_Qiaotou_(20190610190649).jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "题名明确延吉风格冷面，面碗、牛肉与鸡蛋配菜清楚；不宣称拍摄于延吉。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-0dc87af0f70851": {
+      "file": "Nanchang Banfen (20251205 085026).jpg",
+      "src": "assets/photos/flavors/national01-0dc87af0f70851.jpg",
+      "width": 960,
+      "height": 432,
+      "kind": "food",
+      "alt": "南昌拌粉成品实拍",
+      "caption": "南昌拌粉成品实拍",
+      "author": "Nagae Iku",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Nanchang_Banfen_(20251205_085026).jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "题名明确南昌拌粉，俯拍面碗干净、粉条主体清晰，排除南昌炒粉错配。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-59dae0e1d76c74": {
+      "file": "Luosifen at Guangya, Liuzhou (20190420141814).jpg",
+      "src": "assets/photos/flavors/national01-59dae0e1d76c74.jpg",
+      "width": 960,
+      "height": 647,
+      "kind": "food",
+      "alt": "柳州螺蛳粉成品实拍",
+      "caption": "柳州螺蛳粉成品实拍",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Luosifen_at_Guangya,_Liuzhou_(20190420141814).jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "题名与照片明确为柳州店内螺蛳粉成品，面碗和配料清晰，非袋装配料摆拍。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-0e43de89d458bf": {
+      "file": "Authentic Mapo Tofu.jpg",
+      "src": "assets/photos/flavors/national01-0e43de89d458bf.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "麻婆豆腐成品实拍",
+      "caption": "麻婆豆腐成品实拍",
+      "author": "Sichuanfoodlover",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "麻婆豆腐成品近照，豆腐块与肉末明确、光线清楚，替换先前绿色桌面小主体照片。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-277239fd55fe62": {
+      "file": "Steamed Fish Head with Diced Hot Red Peppers 20210711.jpg",
+      "src": "assets/photos/flavors/national01-277239fd55fe62.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "剁椒鱼头成品实拍",
+      "caption": "剁椒鱼头成品实拍",
+      "author": "Huangdan2060",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Steamed_Fish_Head_with_Diced_Hot_Red_Peppers_20210711.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "剁椒鱼头成品主体清楚，照片描述直接认定为湘菜，不把背景厨师或门店作为主图。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
+    },
+    "national01-photo-6013447b16a598": {
+      "file": "兰州牛肉面.jpg",
+      "src": "assets/photos/flavors/national01-6013447b16a598.jpg",
+      "width": 960,
+      "height": 639,
+      "kind": "food",
+      "alt": "兰州牛肉面成品实拍",
+      "caption": "兰州牛肉面成品实拍",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg",
+      "checked": "2026-11-15",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-15",
+        "notes": "原图描述为兰州安泊尔牛肉面，面碗和挑面动作清晰，背景简洁；排除兰州面馆外景。"
+      },
+      "listDisplay": true,
+      "changes": "基于Commons提供的缩略响应（无缩略图时使用原图）按EXIF方向与等比例限宽导出JPEG，列表按框裁切；没有生成或替换实物。"
     }
   },
   "cards": {
@@ -906,7 +1158,7 @@ window.flavorImages={
     "sw-54044992d849a06f14": "southwest-photo-5d5367a9b7319b",
     "sw-c1042a8111823bc309": "southwest-photo-8e1a06f4f266ed",
     "sw-e5f2b87576206ed7fe": "southwest-photo-349808af964456",
-    "sw-c5c830f7cf5084abd1": "southwest-photo-d3365505e128f7",
+    "sw-c5c830f7cf5084abd1": "national01-photo-0e43de89d458bf",
     "sw-492891b7b966cf5870": "southwest-photo-013d1865433c64",
     "sw-704e7e23aebff5904c": "southwest-photo-1d4c4a4a746709",
     "sw-ba4accee3eb9320f15": "southwest-photo-7aad54095973c9",
@@ -916,6 +1168,17 @@ window.flavorImages={
     "sw-0d0c8e1cf3d3dc23e4": "southwest-photo-2b9a1ffe5f7e50",
     "sw-8876c552bbe1e474c7": "southwest-photo-5cd5d43ae48115",
     "sw-717127cb06deefa1d2": "southwest-photo-64aad36eeb0e9e",
-    "sw-23d3575fd32e1f29c0": "southwest-photo-5d7f03d4e264d7"
+    "sw-23d3575fd32e1f29c0": "southwest-photo-5d7f03d4e264d7",
+    "js-salted-duck": "national01-photo-b4acf49a436234",
+    "sh-shengjian": "national01-photo-27fc6b746fcb0a",
+    "flavor-henan-16b2a471d7": "national01-photo-c08d9904f4aac0",
+    "flavor-hebei-848d9c6f4e": "national01-photo-5e2a20a2661b3d",
+    "flavor-hubei-c44e87fd11": "national01-photo-461084f65aaccf",
+    "program-00b8a46c44b51a3f1d": "national01-photo-65d0a5b16901b1",
+    "flavor-jilin-520cf91577": "national01-photo-65ed150e41f5a2",
+    "threeprov-d87117df1f16fef9f4": "national01-photo-0dc87af0f70851",
+    "threeprov-26468061fb6cd8be2f": "national01-photo-59dae0e1d76c74",
+    "flavor-hunan-f47c03fbe5": "national01-photo-277239fd55fe62",
+    "sg-b02a9dc7f4a7cd1b0a": "national01-photo-6013447b16a598"
   }
 };

@@ -1,0 +1,20 @@
+{
+  "id": "national-01-d13199d0cc7f15cf",
+  "title": "陈麻婆-老字号数字博物馆",
+  "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f7ab3a6e7ea0426d8fd104fc7c93df79",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/d13199d0cc7f15cf.html",
+  "originalResponseSha256": "db2ffcc8bd24be33988c818f7b7b104d176d814825087ed8e7da58227df02f21",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/d13199d0cc7f15cf.txt",
+  "readableSha256": "3eae2ba3eeda38a8ab0c43b5c5a2d4dfd68e6c638c473e5640d46bdfff3c9772",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "name": "麻婆豆腐",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

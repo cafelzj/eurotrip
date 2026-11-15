@@ -1,0 +1,20 @@
+{
+  "id": "national-01-673c8fc37a258239",
+  "title": "樊记-老字号数字博物馆",
+  "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/f1b29e1774c04ec690cdab178e18f8ba",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/673c8fc37a258239.html",
+  "originalResponseSha256": "fec3c2bdcfad1fba9a2d39c9d14912556cb37a1228139822c25a0d1a95d7cb56",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/673c8fc37a258239.txt",
+  "readableSha256": "367b7c7b4fdb45d8fc7a77c6c4631f6028ebb9b0d84640d900323df4edeb7b26",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sg-62ee0a0a264be00a0a",
+      "name": "肉夹馍",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

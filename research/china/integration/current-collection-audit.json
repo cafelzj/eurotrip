@@ -7,13 +7,164 @@
   "expectedFlavors": 6497,
   "verifiedFlavors": 6497,
   "unifiedChinaCards": 6627,
-  "retainedPhotoCards": 44,
+  "retainedPhotoCards": 55,
+  "enrichedChineseCards": 24,
+  "reviewedReadingUpdates": [
+    {
+      "id": "bj-roast-duck",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 356
+    },
+    {
+      "id": "sd-dezhou-chicken",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 389
+    },
+    {
+      "id": "ah-maodoufu",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 388
+    },
+    {
+      "id": "js-salted-duck",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 399
+    },
+    {
+      "id": "zj-dongpo",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 378
+    },
+    {
+      "id": "sh-shengjian",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 351
+    },
+    {
+      "id": "program-83ceb06c8c4b57473b",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 392
+    },
+    {
+      "id": "flavor-henan-16b2a471d7",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 372
+    },
+    {
+      "id": "flavor-hebei-848d9c6f4e",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 377
+    },
+    {
+      "id": "flavor-hunan-f47c03fbe5",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 382
+    },
+    {
+      "id": "flavor-hubei-c44e87fd11",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 387
+    },
+    {
+      "id": "program-00b8a46c44b51a3f1d",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 379
+    },
+    {
+      "id": "flavor-liaoning-d8c2cf6370",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 370
+    },
+    {
+      "id": "flavor-jilin-520cf91577",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 372
+    },
+    {
+      "id": "flavor-heilongjiang-cc5d9b1f4e",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 356
+    },
+    {
+      "id": "threeprov-d87117df1f16fef9f4",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 380
+    },
+    {
+      "id": "threeprov-26468061fb6cd8be2f",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 360
+    },
+    {
+      "id": "threeprov-6d7c55e58bfd184d65",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 393
+    },
+    {
+      "id": "sg-62ee0a0a264be00a0a",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 376
+    },
+    {
+      "id": "sg-b02a9dc7f4a7cd1b0a",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 386
+    },
+    {
+      "id": "sw-c5c830f7cf5084abd1",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 374
+    },
+    {
+      "id": "sw-cb3fb902cc7328ea03",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 381
+    },
+    {
+      "id": "sw-25f5dd5b14e508a033",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 389
+    },
+    {
+      "id": "sw-f890e3abd057cef097",
+      "batch": "2026-11-15-national-01",
+      "summaryChanged": true,
+      "detailsCharacters": 384
+    }
+  ],
   "missingIds": [],
   "changedEditorialFields": [],
   "pending": 47,
   "countyUnspecified": 1844,
-  "fieldsChecked": "All original item fields; type→flavorType, city→cityName, sources→sourceIds; original aliases preserved (legacy aliases may be added), detail/readings, source URLs, county codes and absence of invented POIs.",
+  "fieldsChecked": "All original item fields (reviewed summary updates retain originalDescription); type→flavorType, city→cityName, sources→sourceIds; original aliases preserved (legacy aliases may be added), detail/readings, source URLs, county codes and absence of invented POIs.",
   "inputs": [
+    {
+      "path": "data/china-card-reading.js",
+      "sha256": "1dbb8910b3b841104e5afc8b8cc58647365f8688415aa96f0c83edfdf4f84fd0"
+    },
     {
       "path": "data/flavors.js",
       "sha256": "0e58336ed674a9fd6cf63c74b3027406c4f13303fdf22cc885c89fafac462535"
@@ -28,7 +179,7 @@
     },
     {
       "path": "data/flavor-images.js",
-      "sha256": "216f409705ebe87637cc82e20a8d8c12db86dc679726340b24b26f723b37417b"
+      "sha256": "de324752c182598748624cc5f153375e413aee694b17d2b939ae7193b891f854"
     },
     {
       "path": "data/china-cards.js",

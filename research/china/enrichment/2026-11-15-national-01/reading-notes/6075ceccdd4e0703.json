@@ -1,0 +1,20 @@
+{
+  "id": "national-01-6075ceccdd4e0703",
+  "title": "徽州第一怪：豆腐长毛上等菜",
+  "url": "https://whw.hsu.edu.cn/c6/ce/c1849a181966/page.htm",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/6075ceccdd4e0703.html",
+  "originalResponseSha256": "6ef775929f972079df4c42d74dd0b2d34f6b205387333251ac64a236c485459d",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/6075ceccdd4e0703.txt",
+  "readableSha256": "85b0eea3cee677d3a2d5ab46cb4e7ceacebafa3338384155cf1d7bd55773032c",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "ah-maodoufu",
+      "name": "徽州毛豆腐",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

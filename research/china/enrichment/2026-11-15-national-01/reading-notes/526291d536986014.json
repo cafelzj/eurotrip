@@ -1,0 +1,20 @@
+{
+  "id": "national-01-526291d536986014",
+  "title": "中国味道｜贵阳传统小吃：丝娃娃",
+  "url": "https://gz.people.com.cn/n2/2023/0613/c222152-40455079.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/526291d536986014.html",
+  "originalResponseSha256": "40d9ae66c733af80ce05f8b3c7bdec470e5448e13ddcb872516aeaebea94cdb2",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/526291d536986014.txt",
+  "readableSha256": "e9abdb9cafbeb86506345ec917fe51daab7c0aad2479cb406185cc023586649e",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sw-f890e3abd057cef097",
+      "name": "丝娃娃",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

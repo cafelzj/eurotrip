@@ -1,0 +1,20 @@
+{
+  "id": "national-01-8e34bedec92c44d2",
+  "title": "烤鸭技艺（便宜坊焖炉烤鸭技艺） - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+  "url": "https://www.ihchina.cn/project_details/14656",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/8e34bedec92c44d2.html",
+  "originalResponseSha256": "1dbec452bc0fbffee9298e0173720f642eab2cb39e3eb5fab7c1634d47fe663b",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/8e34bedec92c44d2.txt",
+  "readableSha256": "133d64186e930ddf4c36762e23c44b6acf24c67aeef428433085c4a921713d7b",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "bj-roast-duck",
+      "name": "北京烤鸭",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

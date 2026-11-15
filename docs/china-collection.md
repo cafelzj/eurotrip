@@ -29,7 +29,7 @@
 
 ## 数据与底稿位置
 
-`data/flavors.js`、`data/china-cards.js`、`data/card-reading.js` 是编辑输入；`data/china-region-catalog.js` 是行政目录，县区归属在 `data/flavor-counties.js`，图片及许可配置在 `data/flavor-images.js` 和 `data/card-images.js`。运行时由 `china-collection.js` 合并，原风物独立功能已经撤下。
+`data/flavors.js`、`data/china-cards.js`、`data/card-reading.js` 是原始编辑输入，`data/china-card-reading.js` 保存经来源核对的后续阅读补充；`data/china-region-catalog.js` 是行政目录，县区归属在 `data/flavor-counties.js`，图片及许可配置在 `data/flavor-images.js` 和 `data/card-images.js`。运行时由 `china-collection.js` 合并，原风物独立功能已经撤下。
 
 研究资料统一从 [中国卡片研究目录](../research/china/README.md) 和 [机器可读总索引](../research/china/index.json) 查找。当前整合记录移入 `research/china/integration/`；原风物知识稿、原850份阅读摘记、来源、历史批次、地图及配图底稿继续保留原路径和指纹，`research/flavors/` 作为中国卡片下的历史专题目录。
 
@@ -73,3 +73,5 @@
 本轮四地仅采用对应实拍35张（3.08%），1100张明确待补，图片目标尚未达到；不以通用图或插图补齐。重庆按直辖市与38个区县组织。行政目录沿用所存DataV边界版本；两江新区等未在此版本定位的来源地名保留原词与待明确范围，不强行赋县区代码。
 
 卡片列表采用浅色细边框、紧凑标题与左对齐地域，图片统一16:10；不重复显示“县区待明确”，完整归属仍在详情和表格保留。已审阅的照片也须满足列表展示质量，`listDisplay: false` 的场景照片只在详情显示，避免暗且杂的摊位照片占据列表。
+
+现有卡片的文字和图片持续补充统一见 [全国补充目录](../research/china/enrichment/README.md)。补充保留原始输入及来源，在运行时合并为同一张规范化卡片；原摘要和简记可追溯，已完成补充的详情不重复展示过时的待扩写说明。新摘要供列表筛选与导出，正文仍在原卡片详情阅读。

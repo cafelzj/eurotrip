@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-15",
+  "records": [
+    {
+      "queries": [
+        "北京烤鸭 制作 工艺 文化和旅游",
+        "德州扒鸡 工艺 五香 脱骨 政府",
+        "徽州毛豆腐 制作 发酵 政府",
+        "南京盐水鸭 制作 工艺 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-0.json",
+      "sha256": "1e5323d6a24451cb2ca229553b4e49ccee6113bf86764704d6c25b6c1d50cda4"
+    },
+    {
+      "queries": [
+        "东坡肉 制作 酒 焖 杭州 政府",
+        "上海生煎包 工艺 汤汁 政府",
+        "大同刀削面 制作 形状 政府",
+        "胡辣汤 原料 制作 逍遥镇 北舞渡 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-1.json",
+      "sha256": "c95775ff6238b5fb80e8b82259267ae0f016f3692a84f1a79a986f0798190bb3"
+    },
+    {
+      "queries": [
+        "驴肉火烧 河间 保定 区别 政府",
+        "剁椒鱼头 制作 蒸 政府",
+        "武汉 热干面 掸面 芝麻酱 政府",
+        "佛跳墙 原料 制作 福州 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-2.json",
+      "sha256": "bcaf2417ab85bef206097d47141f499fa59175daf4e7f99b96443edb5af86fea"
+    },
+    {
+      "queries": [
+        "老边饺子 煸馅 工艺 沈阳 政府",
+        "延吉冷面 原料 制作 延边 政府",
+        "哈尔滨 锅包肉 制作 糖醋 政府",
+        "南昌拌粉 制作 调料 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-3.json",
+      "sha256": "4fa0796ca65fde38f2ffdad457d8134ecf0dd0720f4c4aa95b43c28b2c70c49a"
+    },
+    {
+      "queries": [
+        "柳州螺蛳粉 工艺 原料 非物质文化遗产",
+        "广州 肠粉 米浆 制作 政府",
+        "肉夹馍 腊汁肉 白吉馍 非遗",
+        "兰州牛肉拉面 制作 一清二白 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-4.json",
+      "sha256": "5756e7551f7fd126703db2cd058941c21b289bb2f057e7b583fdfceb5a5ee854"
+    },
+    {
+      "queries": [
+        "麻婆豆腐 制作 技艺 非遗",
+        "重庆小面 制作 调料 工艺 政府",
+        "大理 乳扇 制作 牛乳 酸水 非遗",
+        "贵阳 丝娃娃 蔬菜 酸汤 政府"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-5.json",
+      "sha256": "4365b0538bfd64f58d427eeb892ad3b10e81e5ead2b63f3b4151be7fdf72ecf6"
+    },
+    {
+      "queries": [
+        "上海 生煎包 工艺 面皮 锅底 site:shanghai.gov.cn",
+        "南昌拌粉 工艺 调料 site:nc.gov.cn",
+        "剁椒鱼头 制作 site:gov.cn",
+        "延吉冷面 荞麦 牛肉汤 制作 site:people.com.cn"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-6.json",
+      "sha256": "e6b088cc4dbb49072fe0271b8ee0f6f3a6881c59b98e35b9ae12642306f4e7fd"
+    },
+    {
+      "queries": [
+        "大同刀削面 外薄内筋 柳叶 文化和旅游部",
+        "重庆小面 佐料 油辣子 十几种 人民网"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-7.json",
+      "sha256": "9f1a9fcbc957823c726d5e904760e7f8a0fc4a1680ee4b1d334ebd0231087865"
+    },
+    {
+      "queries": [
+        "南昌拌粉 制作 萝卜 花生 人民网",
+        "南昌拌粉 制作 辣椒 蒜 新华网",
+        "驴肉火烧 保定 河间 制作 人民网"
+      ],
+      "responseFile": "research/.local/national-enrichment-20261115-01/web-search-8.json",
+      "sha256": "0670f8839790c3810d7701bc0c20c55753cbfd8e39eb1ff02121809334d7673d"
+    }
+  ]
+}

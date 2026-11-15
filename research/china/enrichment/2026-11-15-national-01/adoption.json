@@ -1,0 +1,379 @@
+{
+  "date": "2026-11-15",
+  "kind": "existing-card-enrichment-no-new-cards",
+  "baselineCommit": "bee84ad8a32e624c9923379b8b5b4d52859967cc",
+  "originalCatalogSha256": "0e58336ed674a9fd6cf63c74b3027406c4f13303fdf22cc885c89fafac462535",
+  "knowledgeDraftSha256": "877b4fe9a0fe26115af87ea9e72ed0710013765064a1b056b0215120eae9a0b8",
+  "enrichedCards": 24,
+  "sourceNotes": 32,
+  "decisions": [
+    {
+      "itemId": "bj-roast-duck",
+      "name": "北京烤鸭",
+      "province": "beijing",
+      "originalDescription": "鸭皮经过烤制形成酥香，鸭肉切片，常配薄饼、葱和甜面酱。挂炉与焖炉是京城烤鸭传统中常见的两种做法。",
+      "originalDetailSha256": "ee3d3557067c5f39bea9096effe57a0ed77f4a34489dd359191902c2af24d059",
+      "newSummary": "北京烤鸭的看点，是一只鸭子从制坯到片鸭的整套手艺。填鸭经过清理、整理鸭坯、晾皮、上饴等处理，再进入烤炉；成品追求鸭皮香酥、鸭肉细嫩，而不是单靠浓厚酱汁取味。",
+      "readingCharacters": 356,
+      "newReadingSha256": "07a0d72a9975ddbf6e09321cf605abaf2a87a2031ab7f5cc86d90d1761d8bcad",
+      "sourceIds": [
+        "a9713bcf79b7fb57",
+        "8e34bedec92c44d2"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sd-dezhou-chicken",
+      "name": "德州扒鸡",
+      "province": "shandong",
+      "originalDescription": "整鸡经过上色和长时间卤焖，形成肉酥、骨易分离的质地。它与德州铁路交通和便携熟食的传播有紧密联系。",
+      "originalDetailSha256": "3da0da02b6cf625edd1558e97d8c3d1ecd9dfaf2c243a965982c0e8a883182b1",
+      "newSummary": "德州扒鸡又常被称作五香脱骨扒鸡，是山东德州与周边地区有代表性的熟鸡制品。它从烧鸡制作发展而来，成品保留整鸡造型，色泽金黄中带红，肉质以熟软、酥嫩为特点。",
+      "readingCharacters": 389,
+      "newReadingSha256": "5c19cab7bc52ea5a8160ec64574710e504c82dd8c6325d3b7e08c8eb638e9fa9",
+      "sourceIds": [
+        "e441322357607120"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "ah-maodoufu",
+      "name": "徽州毛豆腐",
+      "province": "anhui",
+      "originalDescription": "豆腐经发酵在表面形成细毛，再煎、烧或烤，形成外香内软的口感，是徽州地方食物。",
+      "originalDetailSha256": "1a36b4820233b88474fdf48ea36df55cfc924cc3ec92809b649adebbcad660e4",
+      "newSummary": "徽州毛豆腐是安徽徽州地区颇具辨识度的发酵豆制品，名字来自豆腐表面细密的白色茸毛。这里的“毛”与有控制的发酵过程有关，不能把普通豆腐放坏后出现的霉斑等同于毛豆腐。",
+      "readingCharacters": 388,
+      "newReadingSha256": "bc8ed50e30d5504cf10250c96c29de485b6bc41ab11e1b43a187596deebe6f48",
+      "sourceIds": [
+        "6075ceccdd4e0703"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "js-salted-duck",
+      "name": "南京盐水鸭",
+      "province": "jiangsu",
+      "originalDescription": "鸭经盐腌、复卤和煮制形成咸鲜风味，常以冷盘切件呈现。它是金陵菜与南京日常熟食中的代表。",
+      "originalDetailSha256": "a87b0d2fb6f8c79a45c33a7fdf0dfad5459e3598a5dee2944df7cde7c0079d07",
+      "newSummary": "南京盐水鸭是金陵鸭馔中很有代表性的一种，特色并不在浓重酱色，而在皮肉的清爽色泽、鸭肉的细嫩和咸鲜香气。它与以酥皮见长的烤鸭不同，主要依靠腌、卤、干燥和煮焐形成风味。",
+      "readingCharacters": 399,
+      "newReadingSha256": "51408a7ae2d9397426b5d17b24d022ddddab04b780d463ce390f86ba4a5e2876",
+      "sourceIds": [
+        "8402857f7df62131"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "zj-dongpo",
+      "name": "东坡肉",
+      "province": "zhejiang",
+      "originalDescription": "带皮五花肉切成较整齐的块，以酒、酱汁等慢焖，强调皮肉酥润与酱香。它是杭州菜中广为人知的一道。",
+      "originalDetailSha256": "d27360d0a4367408bf46d5cc0bce4219cef55376713c9dc9e50dbb02a4127bfb",
+      "newSummary": "东坡肉是与杭州饮食紧密相连的猪肉菜，常以带皮、肥瘦相间的五花肉制成方整肉块，装在小盅或器皿中上桌。它的重点不是一味追求肥厚，而是让皮、脂肪与瘦肉在缓慢烹制中形成不同层次，肉块酥软却仍能保持形状，酱汁呈现带酒香的咸甜风味。",
+      "readingCharacters": 378,
+      "newReadingSha256": "19e311cd51d2eb9001fdcaf5d289e086d7118e5c3db170763e80cbcfc409995a",
+      "sourceIds": [
+        "5320148f10939880"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sh-shengjian",
+      "name": "上海生煎包",
+      "province": "shanghai",
+      "originalDescription": "面皮包入肉馅，底部煎出脆香，上部柔软，馅内有汤汁，是上海具有代表性的街头点心。",
+      "originalDetailSha256": "d5813ef80a7f57265135b9d804850abdbf6a952e9842a7f3e6910af208244ce3",
+      "newSummary": "上海生煎包也叫生煎馒头，是把包馅面食的柔软与锅煎底部的酥脆放在一起的小吃。上面的面皮、里面的肉馅与底部的焦香，各有不同口感；葱花和芝麻常作为出锅前后的点缀。",
+      "readingCharacters": 351,
+      "newReadingSha256": "355401b96f9fb8ff0dab5615ff271ad45b166595cffcb7413ac92965545012b4",
+      "sourceIds": [
+        "11b7d8611e32e48d",
+        "6db37b3ef7f6f74d"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "name": "大同刀削面",
+      "province": "shanxi",
+      "originalDescription": "大同刀削面，收录为山西·大同相关的地方面食与点心。已核对正文中的名称与地域关联，更多做法和风味资料仍待补充。",
+      "originalDetailSha256": "1d4fd1d66c2918b3e326e7ec038f39fb551e8cfa794745cb24aaf939c8a9ac09",
+      "newSummary": "大同刀削面是山西大同富有代表性的面食，最直观的特色在于制面动作：师傅一手托住面团，一手持刀，将面片连续削入沸水锅中。它不是把面团擀成整片再切条，也不是把一根面反复拉长。",
+      "readingCharacters": 392,
+      "newReadingSha256": "3d928a6650d31e20d1fb6876213cfe03a9afa07276b5229ccbc695b807336f3e",
+      "sourceIds": [
+        "185a9aab78036592"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-henan-16b2a471d7",
+      "name": "胡辣汤",
+      "province": "henan",
+      "originalDescription": "漯河胡辣汤以牛羊肉汤、面筋、粉条等煮成，胡椒与香料带来辛香，稠汤常与油条、包子等早餐搭配。",
+      "originalDetailSha256": "605c1567d080e73e40eb4f039b4d327483bfc963a89e247c4de2234addf5da08",
+      "newSummary": "胡辣汤是河南很有代表性的早餐汤食，但不同地方的原料、稠度和香辛味并不完全相同。这里以非遗项目所记录的逍遥胡辣汤为主要说明对象：它与周口西华县逍遥镇联系密切，面筋、粉条、黄花菜和熟牛羊肉等在汤中组合，入口既有汤汁的浓度，也有配料各自的质地。",
+      "readingCharacters": 372,
+      "newReadingSha256": "a86e7719983ad8c83a17c68b22b3f2d61827726fdbf09b1cc67cad77176f8062",
+      "sourceIds": [
+        "4beeacb161ff35fb"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-hebei-848d9c6f4e",
+      "name": "驴肉火烧",
+      "province": "hebei",
+      "originalDescription": "保定驴肉火烧把熟驴肉切碎夹入火烧，热饼外酥、内层吸收肉汁，面香与驴肉咸香共同组成地方主食。",
+      "originalDetailSha256": "605bf2e0d3e973f6b4da163397e51a6b131814abc2d1604b1a18654d5cee824b",
+      "newSummary": "驴肉火烧把卤制肉与烤制面饼结合在一起，是河北很有辨识度的小吃。驴肉提供咸香与柔软口感，火烧提供麦香和外层脆感，两者夹合之后形成完整的一口。",
+      "readingCharacters": 377,
+      "newReadingSha256": "9bf08d80ffb8f7f26e249b43394cd1c973f16650e7a6dc2aa209640076c39c35",
+      "sourceIds": [
+        "292c52695a25b1f2",
+        "04fe075189aea327"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "name": "剁椒鱼头",
+      "province": "hunan",
+      "originalDescription": "剁椒鱼头把剁碎腌椒覆在鱼头上蒸制，椒香与鱼肉鲜味相合，鱼头的胶质与嫩肉形成不同口感。",
+      "originalDetailSha256": "a5d33584a5f4763d257d24a384c7b89d68850ad8b889aab54676660e8c97101a",
+      "newSummary": "剁椒鱼头是湖南有代表性的蒸鱼菜，白嫩鱼肉与铺在表面的红色剁椒形成鲜明对比。它依靠鱼头本身的鲜味和剁椒的咸辣香气相互配合，蒸制让调味逐步进入肉中。",
+      "readingCharacters": 382,
+      "newReadingSha256": "e4515afd3a9004f28b8d7759e960e3c8422018836c57c4adeac5b90da632d91d",
+      "sourceIds": [
+        "796d744fedac7be9",
+        "3452695acf764188"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-hubei-c44e87fd11",
+      "name": "热干面",
+      "province": "hubei",
+      "originalDescription": "武汉热干面把预熟面条烫热沥水，再拌芝麻酱、香油和其他小料，面条爽滑有筋道，是当地“过早”代表。",
+      "originalDetailSha256": "e33b894477d26c798ae20b6e92ce121ca35fb6a7f3686279d6e179d1ecf75024",
+      "newSummary": "热干面是武汉“过早”中极有辨识度的面食，既不是冷拌面，也不是盛着大量汤汁的汤面。面条经过预先煮制、冷却与拌油等处理，食用时再配入芝麻酱和其他调味料。",
+      "readingCharacters": 387,
+      "newReadingSha256": "9b1c872730518321ee04f8e746526d4e00bf0ca6fe43bccfbf7fc5de559af76e",
+      "sourceIds": [
+        "44086d18942f8595",
+        "2723e0723de22d1b"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "program-00b8a46c44b51a3f1d",
+      "name": "佛跳墙",
+      "province": "fujian",
+      "originalDescription": "佛跳墙，收录为福建·福州相关的地方菜肴与小吃。已核对正文中的名称与地域关联，更多做法和风味资料仍待补充。",
+      "originalDetailSha256": "ab82a034c3fd38ce3ed48b9260ac9105ef38fa5b08ed64153e187ef840e5e22e",
+      "newSummary": "佛跳墙是福州富有代表性的坛煨菜，关键不只是原料种类多，而是多种食材经过分别处理后，在同一坛汤中缓慢融合。常见介绍会列出鲍鱼、海参、干贝、火腿、猪肚、鸡鸭及菌笋等原料，但实际组合随时代、席面与制作者而变，不宜把一张历史配料表当成所有成品必须遵守的清单。",
+      "readingCharacters": 379,
+      "newReadingSha256": "612801ade67a5705451b5b7fe34e0171034d754f90af28f3223b8a51c5dace32",
+      "sourceIds": [
+        "42f41a65199711ef",
+        "de8f5ff5551c2582"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "name": "老边饺子",
+      "province": "liaoning",
+      "originalDescription": "沈阳老边饺子与地方店号相连，肉馅可先煸炒、再用鸡汤或骨汤煨制，包入面皮后熟制，入口鲜醇。",
+      "originalDetailSha256": "82aa62607c2edd338ea47e1a1e72e09307a0eb2007dc4e23db685e1fc797fa34",
+      "newSummary": "老边饺子与辽宁沈阳的老字号饮食传统紧密相连，特点集中在调馅与制皮，而不仅是把普通饺子换一个招牌。地方报道记录其使用鲜肉与时令蔬菜搭配，并形成皮薄、馅料口感鲜醇的风格。",
+      "readingCharacters": 370,
+      "newReadingSha256": "7e4e51d63f1cbade96c62bb5469659ba261bcf1247408a1c1bcd9903b02b9407",
+      "sourceIds": [
+        "80df11e55497e55c",
+        "9b859ba5e3670935"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-jilin-520cf91577",
+      "name": "延吉冷面",
+      "province": "jilin",
+      "originalDescription": "延吉冷面关联延边州延吉朝鲜族饮食，以荞麦面等配牛肉或鸡汤，加入泡菜、肉片、蛋和黄瓜等，汤凉、面韧。",
+      "originalDetailSha256": "59bd37dc7c0fd38b8dfa0f0b2128cd6184ed2b72dd1e4184c32a2910aedd8e04",
+      "newSummary": "延吉冷面与延边朝鲜族饮食紧密相连，鲜明之处在于筋道面条、冰凉汤汁和清爽配菜共同入口。人民网对延边冷面的介绍记录，以荞麦粉制作面条，经反复揉压形成爽滑而有咀嚼感的质地；汤底则可用牛肉汤打底，加入苹果、梨等水果调味，冷却后带有酸甜与果香。",
+      "readingCharacters": 372,
+      "newReadingSha256": "24ebcc1d6b15386968f8f5e307f308ffde87338124fa40cfcc2936afac21bdd9",
+      "sourceIds": [
+        "004ff926954f673c"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "flavor-heilongjiang-cc5d9b1f4e",
+      "name": "锅包肉",
+      "province": "heilongjiang",
+      "originalDescription": "哈尔滨锅包肉以猪里脊切片挂粉炸制，再快速裹酸甜汁，外层酥脆、内部肉嫩，是当地代表性菜肴。",
+      "originalDetailSha256": "81a0e955b6bdfcdad7f6fc6d04426bf2c5a2e9ae6697205eb58fed8255bda7a9",
+      "newSummary": "锅包肉是与哈尔滨、黑龙江饮食形象紧密相连的猪肉菜，特色在于薄脆外层与内部嫩肉的反差，以及附在表面的酸甜汁。它不是把炸肉长时间泡在浓汤里，而是让炸好的肉片迅速裹汁后出锅；外壳能否保持脆感，与最后的调汁、颠炒和上桌时机都有关系。",
+      "readingCharacters": 356,
+      "newReadingSha256": "cec4727ce26caa6b7e7f4927469ee41355ae7d18dc4e18f8cd97a0a69d3f1593",
+      "sourceIds": [
+        "18d36a03b9ec697e"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "threeprov-d87117df1f16fef9f4",
+      "name": "南昌拌粉",
+      "province": "jiangxi",
+      "originalDescription": "米粉煮熟后拌入调味料食用，是南昌早餐的代表之一。文化和旅游部的南昌乡村旅游线路把拌粉与瓦罐汤并列推荐，适合一起认识赣鄱日常米食。",
+      "originalDetailSha256": "c908892e4026d2820f8107b343e0accc6b2a2f76ab1b4a7b56561c1833dcf46c",
+      "newSummary": "南昌拌粉是当地街头巷尾常见的米粉吃法，经常与一盅瓦罐汤组成早餐。它突出的是米粉与调料拌合后的爽滑和鲜辣，并不靠大量汤底承载风味。",
+      "readingCharacters": 380,
+      "newReadingSha256": "313333737532fbf7c42f2b08ddcb1ba640b04fdebe56c7cda9ec8baa0a53e623",
+      "sourceIds": [
+        "cfaf58cd7cc9bb58"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "threeprov-26468061fb6cd8be2f",
+      "name": "柳州螺蛳粉",
+      "province": "guangxi",
+      "originalDescription": "柳州螺蛳粉是广西地方米粉产业的重要代表。工业和信息化部介绍了柳州螺蛳粉从地方食品走向特色产业的过程；具体汤底、配菜和预包装产品配方仍因经营者而异。",
+      "originalDetailSha256": "e8a6140be097521e88108c96b98a399e259e7dea6e8d8818861dbb2c9fe25f39",
+      "newSummary": "柳州螺蛳粉以螺蛳熬制的汤底得名，米粉、酸笋和其他配料共同构成鲜、酸、辣的味觉层次。中国非遗项目介绍把石螺汤与烫制米粉的结合列为核心，不是简单给普通汤粉添加一种气味浓烈的调料。",
+      "readingCharacters": 360,
+      "newReadingSha256": "2c83d7f8c85dd5aced777f09fb33c4b2ac2b8c067a34e4812413b0b55792b52b",
+      "sourceIds": [
+        "1ce684ef03c4c13f"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "name": "肠粉",
+      "province": "guangdong",
+      "originalDescription": "肠粉是广州早餐、正餐与宵夜都常见的米食。官方介绍强调广式肠粉存在不同制法，传统布拉肠只是其中一类，不将所有肠粉按一种工艺解释。",
+      "originalDetailSha256": "c01808a922d870acfdc37363321097bf4c3effb84fae41e83aff1b16e9c3809f",
+      "newSummary": "肠粉是以米浆蒸成薄皮、再卷折或包裹成形的广东食品，广州西关的布拉肠粉是一条很有代表性的技艺脉络。这里的“肠”形容卷成条状的外形，不表示必须含有内脏。",
+      "readingCharacters": 393,
+      "newReadingSha256": "899818fe0bd9808545d16a3a873ca04437ef868aadd889e394acee8a683ff969",
+      "sourceIds": [
+        "6706c5fef47bc56d"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sg-62ee0a0a264be00a0a",
+      "name": "肉夹馍",
+      "province": "shaanxi",
+      "originalDescription": "肉夹馍是西安有代表性的地方餐食。市级非遗名录记录腊汁肉夹馍等相关制作技艺，反映了馍与肉食结合的饮食传统；具体品牌、肉类和馍的形态仍分别看待。",
+      "originalDetailSha256": "09f9dc112d51012921e053ede7a1c81f70444422b4847aba7a5b2234a9dcbc57",
+      "newSummary": "肉夹馍把馍与肉两门手艺结合在一起，西安腊汁肉夹馍是其中广为人知的一类。腊汁肉经过汤卤与火候处理，形成柔软而有卤香的口感；白吉馍经烤烙形成外层与内部不同的质地。",
+      "readingCharacters": 376,
+      "newReadingSha256": "d9497a2db165882574f479b11da70e2f773edcdab41ef4d284840969115bf047",
+      "sourceIds": [
+        "673c8fc37a258239"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "name": "兰州牛肉面",
+      "province": "gansu",
+      "originalDescription": "兰州牛肉面以清汤、萝卜、辣油、香菜蒜苗和面条的组合呈现地方风味。",
+      "originalDetailSha256": "b01cfb1fb4c998a5eac75d0fc66a5cd4a408f41ba667559f2863728c13b5b7e4",
+      "newSummary": "兰州牛肉面以清汤、现拉面条和配料的颜色层次形成鲜明形象。常说的“一清二白三红四绿五黄”，分别指向清汤、白萝卜、辣椒红油、香菜蒜苗与黄亮面条。",
+      "readingCharacters": 386,
+      "newReadingSha256": "1c76e3c0ab99b4e549989b6e41226f210f224c454cb50b035c0f928a44221b95",
+      "sourceIds": [
+        "b7c3d32af6a6b877"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "name": "麻婆豆腐",
+      "province": "sichuan",
+      "originalDescription": "麻婆豆腐以豆腐为主体，配牛肉末、蒜苗和郫县豆瓣等调味形成川味菜肴。",
+      "originalDetailSha256": "13f5bd0cb70c291df26953388919645474858ffa488d5c4b9df593edbb69b7ed",
+      "newSummary": "麻婆豆腐是成都有代表性的豆腐菜，嫩豆腐、肉末与复合调味相互衬托，形成麻、辣、鲜、香与烫的整体感受。它并不是把花椒和辣椒越放越多便算完成：豆腐的完整与细嫩、肉末的酥香以及汤汁能否附着，都直接影响入口的层次。",
+      "readingCharacters": 374,
+      "newReadingSha256": "7faa0fd50ca7b19ddc953e213c42544bc6e3ce9c9a298d937d19cc650c2dd043",
+      "sourceIds": [
+        "d13199d0cc7f15cf"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sw-cb3fb902cc7328ea03",
+      "name": "重庆小面",
+      "province": "chongqing",
+      "originalDescription": "重庆小面以面条和地方调味组合形成日常风味。地方非遗介绍记载面粉制成面条、配时令蔬菜，并使用酱油、榨菜、姜蒜水、花生和红油等调味，浇头与辣味可以因做法而异。",
+      "originalDetailSha256": "d1361acf88944048de16822d2f4bc208fb7e01af27c6698e4c53c806bb63d39e",
+      "newSummary": "重庆小面的风味主要由面条与一碗复合调料共同形成，常见面条以面粉、食用碱和水制作，配入时令蔬菜煮熟。它可以是没有肉浇头的素小面，也可以另配豌豆、杂酱、肥肠等。",
+      "readingCharacters": 381,
+      "newReadingSha256": "cd4a23a879d35d899f89423f08ff3315ecbabdab989faed212043559ad8c40db",
+      "sourceIds": [
+        "b74566e9c096513d"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sw-25f5dd5b14e508a033",
+      "name": "大理乳扇",
+      "province": "yunnan",
+      "originalDescription": "大理乳扇是与白族饮食相连的乳制品，地方介绍明确记载主产于大理洱源。",
+      "originalDetailSha256": "a8de517165ea27a48a03ee022c636f7812817aa8eaf9e6d2faac59abd0bb63f6",
+      "newSummary": "大理乳扇是与白族饮食联系紧密的乳制品，洱源邓川一带有鲜明的制作传统。它以牛乳为基础，在酸浆和加热作用下逐渐形成凝聚的乳团，再经揉搓、拉伸而成为薄片，挂在架上。",
+      "readingCharacters": 389,
+      "newReadingSha256": "43ea93daf38582e086fc892c074fe2f4c2fbc8de058db5b3a6a1d6875970c2bf",
+      "sourceIds": [
+        "f4f2f908a42e2286",
+        "bbe36baa353cd099"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    },
+    {
+      "itemId": "sw-f890e3abd057cef097",
+      "name": "丝娃娃",
+      "province": "guizhou",
+      "originalDescription": "丝娃娃在贵阳南明区青云路地方餐饮报道中有明确记录。它属于当地风味小吃，食品与店铺品牌分开，面皮、配菜和蘸水继续据专题资料补充。",
+      "originalDetailSha256": "5d51fe7bb796e7e733fbd24bffd0cc1042d482b10880428e3da274f5d536b976",
+      "newSummary": "丝娃娃是贵阳很有代表性的包卷小吃，名字来自包好后宛如襁褓的外形，并不是指某一种肉馅。桌上先摆出小碟蔬菜，再配薄面皮和蘸水，食客自己取料、包裹、蘸食。",
+      "readingCharacters": 384,
+      "newReadingSha256": "f230a4c2dd4d9e15506e7e0e49c1dae1d8acd0d6e5d32fc36afae9d735cd3d6d",
+      "sourceIds": [
+        "526291d536986014"
+      ],
+      "memoryReview": "大体吻合；具体工艺、配料与范围以已读正文修正，记忆未作独立事实来源",
+      "reason": "有来源支持的具体补充，包含明确标示的品鉴观察与不同版本边界。"
+    }
+  ]
+}

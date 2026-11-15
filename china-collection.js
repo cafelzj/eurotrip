@@ -60,6 +60,14 @@ window.ChinaCollection=(()=>{
    }
    n.countyCodes=unique(codes);const roots=owners.map(rootCity);n.province=roots[0]?.provinceId;n.cityName=roots[0]?.name||'全省';
   }
+  // Reviewed enrichment is additive: preserve original summaries and evidence.
+  for(const [id,entry]of Object.entries(window.chinaCardReading||{})){
+   const n=nodes.get(id);if(!n||!store.countryIds(n).includes('cn'))throw Error('中国补充资料引用未知卡片：'+id);
+   n.originalDescription=n.description;n.description=entry.summary;
+   n.details=entry.text;n.enrichment={batch:entry.batch,characters:[...entry.text].length,sourceIds:entry.sourceIds};
+   n.originalReading=n.reading||[];n.reading=[{title:'地方风味与制作',text:entry.text}];
+   n.sources=[...new Map([...(n.sources||[]),...entry.sources].map(source=>[source[0],source])).values()];
+  }
   // Rewire both directions through the canonical identity; duplicate references collapse.
   for(const id of edges.keys())edges.set(id,[]);
   for(const [from,to,label]of oldEdges){const a=aliases.get(from)||from,b=aliases.get(to)||to;if(a!==b&&nodes.has(a)&&nodes.has(b)){const list=edges.get(a);if(!list.some(e=>e.to===b&&e.label===label))list.push({to:b,label});}}

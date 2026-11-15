@@ -1,0 +1,20 @@
+{
+  "id": "national-01-3452695acf764188",
+  "title": "Here Comes the“Spicy” | 上菜啦！-湖南省人民政府门户网站",
+  "url": "https://www.hunan.gov.cn/topic/ccjhl/djz/202107/t20210709_19875790.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/3452695acf764188.html",
+  "originalResponseSha256": "31d11f233010d170cf18a9a555f7c25e97137116958b6f6dd8148a97ec6c620d",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/3452695acf764188.txt",
+  "readableSha256": "415e5be5a32e3b65550137fc2cb6fbadb18b1b83ff71902797edcf9e1f139ffc",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "name": "剁椒鱼头",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

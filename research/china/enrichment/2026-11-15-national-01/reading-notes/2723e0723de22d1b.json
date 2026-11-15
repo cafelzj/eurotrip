@@ -1,0 +1,20 @@
+{
+  "id": "national-01-2723e0723de22d1b",
+  "title": "武汉发布首个热干面生产规范 细分为6种类型 半熟型市民吃得最多",
+  "url": "https://sw.wuhan.gov.cn/xwdt/mtbd/202409/t20240904_2449843.shtml",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/2723e0723de22d1b.html",
+  "originalResponseSha256": "9e49059712db5f6e05cb9c31436f082eb73d4fd080e33a7617b03963c0e54beb",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/2723e0723de22d1b.txt",
+  "readableSha256": "2c441dc7f2b07b99b28c809c157f26ccfe66ed69cffb9bea3ebfcbe20377854c",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-hubei-c44e87fd11",
+      "name": "热干面",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

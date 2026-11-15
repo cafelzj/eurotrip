@@ -1,0 +1,20 @@
+{
+  "id": "national-01-e441322357607120",
+  "title": "德州扒鸡制作技艺  - 中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+  "url": "https://www.ihchina.cn/project_details/14758.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/e441322357607120.html",
+  "originalResponseSha256": "287d17738739219bd3ae7d87a371203ec056cbb9e8fe92e00de187b0b688a0a6",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/e441322357607120.txt",
+  "readableSha256": "b704803ca2e756dd04827c35055963114d65f16963b29d128e5c085b052ba9c7",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sd-dezhou-chicken",
+      "name": "德州扒鸡",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

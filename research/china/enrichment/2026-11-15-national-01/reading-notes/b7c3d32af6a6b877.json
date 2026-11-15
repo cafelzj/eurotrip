@@ -1,0 +1,20 @@
+{
+  "id": "national-01-b7c3d32af6a6b877",
+  "title": "人民日报｜甘肃兰州——一碗牛肉面，浓缩南北精华_澎湃号·政务_澎湃新闻-The Paper",
+  "url": "https://www.thepaper.cn/newsDetail_forward_30095706",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/b7c3d32af6a6b877.html",
+  "originalResponseSha256": "0ca06ef0ebc18abf87b2293452ad274669e3d939e515390ed4001957f4516051",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/b7c3d32af6a6b877.txt",
+  "readableSha256": "d6a561705ab7f6accc27f118c2d62c7b2b3a213528ae2764c0e2a3eb86efc3ad",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "name": "兰州牛肉面",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

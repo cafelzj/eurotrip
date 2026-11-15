@@ -1,11 +1,12 @@
 # 网站正式数据
 
-本目录顶层30个JS由 `index.html` 直接加载，均参与网站运行；文件只声明数据，不负责页面或网络操作。入口脚本有顺序依赖，整理时保留声明名与稳定ID。
+本目录正式数据JS由 `index.html` 直接加载，均参与网站运行；文件只声明数据，不负责页面或网络操作。入口脚本有顺序依赖，整理时保留声明名与稳定ID。
 
 | 文件或文件组 | 维护方式与依据 |
 | --- | --- |
 | `destinations.js`、`categories.js`、`cards.js`、`relations.js`、`borders.js` | 目的地、分类、卡片、关联与边界配置；手工维护，边界记录原始来源 |
 | `capitals-cards.js`、`china-cards.js`、`heritage-cards.js`、`knowledge-cards.js`、`slovenia-cards.js`、`poland-cards.js` | 分主题及地区的卡片和关联；手工维护，不按引用关系推断坐标 |
+| `china-card-reading.js` | 中国现有卡片的来源支持补充；与原始输入分开保留，由 `ChinaCollection` 整合，生成工具与采用底稿见 [全国补充](../research/china/enrichment/README.md) |
 | `card-reading.js` | 详情阅读层；按卡片ID维护，与基本卡片及知识关联核对 |
 | `languages.js`、`vocabulary.js`、`ipa-en.js`、`ipa-de.js`、`ipa-hu-sr.js` | 词典与音标；来源许可见 [音标说明](../docs/ipa-sources.md)，核对底稿在 `research/dictionary/` |
 | `card-images.js`、`country-art.js`、`landmark-art.js` | 正式图片配置、署名与许可；审核和生成底稿在 `research/media/`。景点插画可由 `build-landmark-art.py` 更新 |

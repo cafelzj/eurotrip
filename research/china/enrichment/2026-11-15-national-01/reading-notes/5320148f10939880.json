@@ -1,0 +1,20 @@
+{
+  "id": "national-01-5320148f10939880",
+  "title": "文化中国行·长江之歌④丨要问浙菜几许味？鲜咸甜臭辣相宜",
+  "url": "https://m.voc.com.cn/xhn/news/202412/21513157.html",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/5320148f10939880.html",
+  "originalResponseSha256": "59adaf40991f3b3249a60fd1d0166094abdd8bd7c95afe984e5a5d60a15ac2f2",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/5320148f10939880.txt",
+  "readableSha256": "fbfd8ef124371a220d31840746736b96c1b1a9802c79a19d5763a429819ae487",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "zj-dongpo",
+      "name": "东坡肉",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

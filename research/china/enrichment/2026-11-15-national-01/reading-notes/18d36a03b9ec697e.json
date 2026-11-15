@@ -1,0 +1,20 @@
+{
+  "id": "national-01-18d36a03b9ec697e",
+  "title": "“锅包肉上春晚了”-黑龙江省文化和旅游厅",
+  "url": "https://wlt.hlj.gov.cn/wlt/c114253/202602/c00_31917366.shtml",
+  "date": "2026-11-15",
+  "read": true,
+  "readMethod": "programmatic-html-text-relevant-sections-and-editorial-review",
+  "originalResponseFile": "research/.local/national-enrichment-20261115-01/pages/18d36a03b9ec697e.html",
+  "originalResponseSha256": "09aeeae1b211e45f5834e626d8e32c6ad339060cf8391c844b83222c92150471",
+  "readableFile": "research/.local/national-enrichment-20261115-01/pages/18d36a03b9ec697e.txt",
+  "readableSha256": "937083bc301e4e094b42a6b0d8942fa550540f76efe1722348e505523bae983d",
+  "scope": "仅采用项目关联、食材、工艺、口感与已明确的地方饮食背景；不采用宣传疗效、经营实时保证、未证起源或抓取到的相关文章内容。",
+  "items": [
+    {
+      "itemId": "flavor-heilongjiang-cc5d9b1f4e",
+      "name": "锅包肉",
+      "adoption": "reviewed-reading-support"
+    }
+  ]
+}

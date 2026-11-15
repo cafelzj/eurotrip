@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-15",
+  "externalSearchPerformed": false,
+  "scope": "现有卡片增补，首批按24个已收录省市各选一项；不是新增物产研究。",
+  "items": [
+    {
+      "itemId": "bj-roast-duck",
+      "name": "北京烤鸭",
+      "province": "beijing",
+      "knowledge": "鸭坯烤制、片鸭、薄饼与酱料，挂炉与焖炉需分别核对。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sd-dezhou-chicken",
+      "name": "德州扒鸡",
+      "province": "shandong",
+      "knowledge": "整鸡、卤煮和脱骨口感，五香风味，不能直接照抄传奇起源。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "ah-maodoufu",
+      "name": "徽州毛豆腐",
+      "province": "anhui",
+      "knowledge": "徽州豆腐发酵后形成白色菌丝，可煎烧，具体工序需原文确认。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "js-salted-duck",
+      "name": "南京盐水鸭",
+      "province": "jiangsu",
+      "knowledge": "盐腌、卤浸与煮制的冷食鸭肉，与烤鸭不同。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "zj-dongpo",
+      "name": "东坡肉",
+      "province": "zhejiang",
+      "knowledge": "猪五花肉慢焖、酒与酱油调味，苏东坡故事需区分传说。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sh-shengjian",
+      "name": "上海生煎包",
+      "province": "shanghai",
+      "knowledge": "发酵或半发酵面皮、肉馅、煎底与汤汁，派别不强行统一。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "name": "大同刀削面",
+      "province": "shanxi",
+      "knowledge": "面团削入沸水，面叶厚薄形成口感，配臊子。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-henan-16b2a471d7",
+      "name": "胡辣汤",
+      "province": "henan",
+      "knowledge": "早餐热汤、胡椒和勾芡，逍遥镇与北舞渡等配方有别。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-hebei-848d9c6f4e",
+      "name": "驴肉火烧",
+      "province": "hebei",
+      "knowledge": "驴肉与烤制火烧，保定与河间形态有差异。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-hunan-f47c03fbe5",
+      "name": "剁椒鱼头",
+      "province": "hunan",
+      "knowledge": "鱼头铺剁椒蒸制，鲜味与发酵辣味结合。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-hubei-c44e87fd11",
+      "name": "热干面",
+      "province": "hubei",
+      "knowledge": "碱水面掸面与芝麻酱，属于武汉过早。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "program-00b8a46c44b51a3f1d",
+      "name": "佛跳墙",
+      "province": "fujian",
+      "knowledge": "福州复合汤菜，多种海味肉类入坛煨制，各店用料不完全一样。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-liaoning-d8c2cf6370",
+      "name": "老边饺子",
+      "province": "liaoning",
+      "knowledge": "沈阳饺子，熟馅或煸馅的特点需核对品牌原文。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-jilin-520cf91577",
+      "name": "延吉冷面",
+      "province": "jilin",
+      "knowledge": "朝鲜族饮食、荞麦面和冷汤，冷面汤与配菜各有差异。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "flavor-heilongjiang-cc5d9b1f4e",
+      "name": "锅包肉",
+      "province": "heilongjiang",
+      "knowledge": "猪肉片挂糊复炸与酸甜汁，哈尔滨菜，不把改良版都视为同一配方。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "threeprov-d87117df1f16fef9f4",
+      "name": "南昌拌粉",
+      "province": "jiangxi",
+      "knowledge": "米粉煮透冷却后拌调料、常配瓦罐汤。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "threeprov-26468061fb6cd8be2f",
+      "name": "柳州螺蛳粉",
+      "province": "guangxi",
+      "knowledge": "米粉、螺蛳汤、酸笋和腐竹花生等配料，酸香和鲜辣。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "name": "肠粉",
+      "province": "guangdong",
+      "knowledge": "米浆蒸成薄皮卷制，可有虾肉等馅料，广府和潮汕有差异。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sg-62ee0a0a264be00a0a",
+      "name": "肉夹馍",
+      "province": "shaanxi",
+      "knowledge": "白吉馍夹腊汁肉，不能与其他馍夹肉形态混为唯一标准。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sg-b02a9dc7f4a7cd1b0a",
+      "name": "兰州牛肉面",
+      "province": "gansu",
+      "knowledge": "清汤、拉面、牛肉、萝卜、辣油和香菜蒜苗，面形多样。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sw-c5c830f7cf5084abd1",
+      "name": "麻婆豆腐",
+      "province": "sichuan",
+      "knowledge": "豆腐与豆瓣、肉末、花椒等烧制，麻辣鲜烫，需核对原文细节。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sw-cb3fb902cc7328ea03",
+      "name": "重庆小面",
+      "province": "chongqing",
+      "knowledge": "碱水面、油辣子和多种佐料，豌杂浇头与素小面区分。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sw-25f5dd5b14e508a033",
+      "name": "大理乳扇",
+      "province": "yunnan",
+      "knowledge": "牛乳酸凝、拉伸成片、晾干，可烤制，不能用乳饼照片替代。",
+      "status": "memory-only-awaiting-external-review"
+    },
+    {
+      "itemId": "sw-f890e3abd057cef097",
+      "name": "丝娃娃",
+      "province": "guizhou",
+      "knowledge": "薄皮包蔬菜丝，蘸汤或蘸水，贵阳小吃。",
+      "status": "memory-only-awaiting-external-review"
+    }
+  ]
+}
