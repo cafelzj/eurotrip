@@ -9,7 +9,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   const base=process.env.SITE_URL||'http://127.0.0.1:3014';
   await p.goto(base+'/#china/jiangsu/xuzhou');
   assert.equal(await p.locator('#chinaProvince').inputValue(),'jiangsu');assert.equal(await p.locator('#chinaPrefecture').inputValue(),'xuzhou');
-  assert.equal(await p.locator('#chinaCounty option').count(),await p.evaluate(()=>ChinaRegions.counties(ChinaRegions.get('xuzhou')).length+1));assert((await p.locator('.destination-hero h1').innerText()).includes('徐州'));
+  assert.equal(await p.locator('#chinaCounty option').count(),await p.evaluate(()=>ChinaRegions.counties(ChinaRegions.get('xuzhou')).length+1));assert((await p.locator('#travelGuide > h1').innerText()).includes('徐州'));
   assert.equal(await p.locator('.hub-section').count(),5);assert.equal(await p.locator('[data-knowledge-card="food-suzhou-noodles"]').count(),0);
   assert(await p.evaluate(()=>KnowledgeHub.mapContext().mapUniverse.some(n=>n.id==='venue-xuzhou-airport'&&n.city==='suining')));
   await p.selectOption('#chinaPrefecture','wuxi');await settle(p);
@@ -19,7 +19,7 @@ const {chromium}=require('playwright'),assert=require('node:assert/strict'),sett
   await p.selectOption('#chinaCounty','yixing');await settle(p);
   assert.equal(await p.locator('.knowledge-hub').getAttribute('data-scope'),'yixing');assert.equal(await p.locator('#chinaPrefecture').inputValue(),'wuxi');
   assert.equal(await p.evaluate(()=>location.hash),'#china/jiangsu/wuxi/yixing');
-  assert((await p.locator('.breadcrumbs').innerText()).includes('无锡市'));assert((await p.locator('.breadcrumbs').innerText()).includes('宜兴市'));
+  assert((await p.locator('#travelGuide > h1').innerText()).includes('无锡市'));assert((await p.locator('#travelGuide > h1').innerText()).includes('宜兴市'));
   assert(await p.evaluate(()=>KnowledgeHub.mapContext().mapUniverse.every(n=>CardGraph.cityIds(n).includes('yixing'))));
   await p.goto(base+'/#map/yixing?focus=venue-yixing-highlight');
   assert((await p.locator('.poi-popup').innerText()).includes('宜兴竹海'));

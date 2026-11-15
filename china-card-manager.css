@@ -6,10 +6,7 @@
 .mode-tabs #chinaMenu .is-selected{background:var(--component-soft,#edf2e5)}
 .mode-tabs #chinaMenu button>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
 .china-taxonomy{margin:22px 0}.china-taxonomy h2{font-size:17px;margin:0 0 12px}
-.china-primary-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}
-.china-secondary-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:9px}
-.china-manager .china-category-card{display:grid;grid-template-columns:auto 1fr;align-items:center;justify-content:start;gap:5px 10px;padding:12px;white-space:normal;min-height:72px;text-align:left;overflow-wrap:anywhere}
-.china-category-icon{grid-row:span 2;font-size:23px}.china-category-card small{margin:0;font-size:12px}
+.china-category-icon{font-size:inherit}.china-category-card small{white-space:nowrap}
 .china-manager .china-category-card[aria-pressed=true]{background:var(--component-selected);border-color:var(--component-selected);color:#fff}
 .china-category-more{margin-top:10px}.china-manager-tools{display:grid;grid-template-columns:minmax(0,1fr) auto auto auto;gap:10px;align-items:center;margin-top:24px}
 .china-review-label{display:flex;align-items:center;gap:8px;font-size:13px;min-width:0}.china-review-label select{min-width:0}
@@ -19,6 +16,15 @@
 .china-manager .manager-pagination[hidden]{display:none}.china-pending{color:#79542b;background:#fff1d9;border-radius:5px;padding:3px 6px}.china-empty{padding:30px;color:var(--muted)}
 .china-manager .manager-table-scroll td:nth-child(2),.china-manager .manager-table-scroll td:nth-child(3){min-width:100px;max-width:150px}.china-manager .manager-table-scroll td:nth-child(4){min-width:150px;max-width:210px}
 .china-manager button.manager-card-link{border:0;background:none;padding:0;text-align:left;cursor:pointer;line-height:1.8}
-@media(max-width:1000px){.china-primary-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.china-manager-tools{grid-template-columns:minmax(0,1fr) auto auto}.china-manager-tools .ui-search{grid-column:1/-1}}
-@media(max-width:700px){.china-primary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.china-secondary-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.china-manager .china-category-card{min-height:68px;padding:10px;font-size:13px;gap:4px 7px}.china-category-icon{font-size:20px}.china-manager-tools{grid-template-columns:minmax(0,1fr) auto;gap:9px}.china-manager-tools .ui-search{grid-column:1/-1}.china-manager-tools>[data-manager-export]{grid-column:1/-1;justify-self:end}.china-review-label{font-size:12px}.china-review-label .ui-select{flex:1}.china-browser-bar{align-items:flex-start;flex-direction:column;gap:10px}.china-manager .hub-view-switch{max-width:100%}.china-manager .hub-view-switch button{font-size:13px;padding:6px 9px}.china-taxonomy{margin:18px 0}.china-manager .manager-heading>a{white-space:normal}}
+@media(max-width:1000px){.china-manager-tools{grid-template-columns:minmax(0,1fr) auto auto}.china-manager-tools .ui-search{grid-column:1/-1}}
+@media(max-width:700px){.china-manager-tools{grid-template-columns:minmax(0,1fr) auto;gap:9px}.china-manager-tools .ui-search{grid-column:1/-1}.china-manager-tools>[data-manager-export]{grid-column:1/-1;justify-self:end}.china-review-label{font-size:12px}.china-review-label .ui-select{flex:1}.china-browser-bar{align-items:flex-start;flex-direction:column;gap:10px}.china-manager .hub-view-switch{max-width:100%}.china-manager .hub-view-switch button{font-size:13px;padding:6px 9px}.china-taxonomy{margin:18px 0}.china-manager .manager-heading>a{white-space:normal}}
 @media(forced-colors:active){.china-manager .china-category-card[aria-pressed=true]{background:Highlight;color:HighlightText;border-color:Highlight}}
+
+.china-region-picker.destination-picker{margin:16px 0 12px}
+.china-region-picker .china-region-fields{margin:0;padding:10px 12px;gap:16px;border-radius:var(--component-radius)}
+.china-region-picker .china-region-fields label{flex-direction:row;align-items:center;gap:8px;white-space:nowrap;font-size:14px}
+.china-region-picker .china-region-fields select{flex:1;width:0;min-height:40px;padding:8px 10px;font-size:14px}
+.china-region-picker+.knowledge-hub{padding-top:6px}
+@media(max-width:700px){.china-region-picker .china-region-fields{grid-template-columns:repeat(3,minmax(0,1fr));padding:8px;gap:8px}.china-region-picker .china-region-fields label:last-child{grid-column:auto}.china-region-picker .china-region-fields label{gap:4px;font-size:12px}.china-region-picker .china-region-fields select{min-height:44px;padding:8px 3px;font-size:13px}}
+
+.mode-tabs #chinaMenu [data-nav-province]>span{font-size:inherit}

@@ -16,6 +16,7 @@
  function disposeMap(){explorer?.destroy();explorer=null;if(map){map.stop();map.remove();map=null;}}
  function destinationHeader(country,city){
   const n=city||country,chinese=H.isChina(country);
+  if(chinese)return `<h1 class="visually-hidden">${h(ChinaRegions.label(city))} · 城市卡片</h1>`;
   return `<div class="breadcrumbs"><a href="${H.guideUrl(country,chinese?city:null)}">${chinese?'中国城市':'欧洲国家 · '+h(country.name)}</a>${chinese?ChinaRegions.breadcrumbs(city):`<span>/ ${city?h(city.name):'国家概览'}</span>`}</div><div class="destination-hero ${chinese?'':'destination-intro-merged '}${city?'city-hero':'country-intro'}"><div><div class="guide-kicker">${city?'CITY':'COUNTRY'} FIELD NOTES · ${h(n.local.toUpperCase())}</div><h1>${city?'':country.flag+' '}${h(n.name)}${n.local!==n.name?`<small>${h(n.local)}</small>`:''}</h1><p>${h(n.intro)}</p><div class="destination-header-actions">${n.tourism?link(n.tourism,'官方旅行指南'):''}${chinese?'':`<a class="destination-overview ${city?'':'active'}" href="${H.guideUrl(country)}" ${city?'':'aria-current="page"'}>国家概览${city?' →':' · 当前'}</a><span>选择下方城市，查看本城关联内容</span>`}</div></div></div>`;
  }
  function destinationPage(country,city,zone){const header=destinationHeader(country,city);guide.innerHTML=(H.isChina(country)?header:header.slice(0,header.indexOf('<div class="destination-hero')))+H.cityPicker(country,city)+H.render(country,city,zone);H.bind(guide);}
@@ -102,10 +103,10 @@
  window.addEventListener('resize',positionChinaMenu);
  function drawChinaMenu(focusSelector){
   const {selected,managing,overview}=chinaMenuContext,province=ChinaRegions.provinces.find(p=>p.id===chinaMenuPath.province),city=ChinaRegions.get(chinaMenuPath.city);
-  const option=(attribute,id,name,caption,icon='🏯',branch=false)=>`<button type="button" role="menuitem" tabindex="-1" ${attribute}="${h(id)}" ${branch?'aria-haspopup="menu"':''} ${!branch&&selected?.id===id&&!managing?'aria-current="page"':''} class="${!managing&&selected&&(id===selected.id||id===selected.provinceId||id===selected.parentCity)?'is-selected':''}"><span>${icon}</span><span><b>${h(name)}</b><small>${h(caption)}</small></span><i>${branch?'›':selected?.id===id&&!managing?'✓':'↗'}</i></button>`;
+  const option=(attribute,id,name,caption,icon='🏯',branch=false)=>`<button type="button" role="menuitem" tabindex="-1" ${attribute}="${h(id)}" ${branch?'aria-haspopup="menu"':''} ${!branch&&selected?.id===id&&!managing?'aria-current="page"':''} class="${!managing&&selected&&(id===selected.id||id===selected.provinceId||id===selected.parentCity)?'is-selected':''}">${icon?`<span>${icon}</span>`:''}<span><b>${h(name)}</b>${caption?`<small>${h(caption)}</small>`:''}</span><i>${branch?'›':selected?.id===id&&!managing?'✓':'↗'}</i></button>`;
   let content='';
   if(!province){
-   content='<div class="china-menu-path" role="presentation">省份 → 城市 → 县区</div>'+ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name,'选择城市 / 地区','▧',true)).join('');
+   content=ChinaRegions.provinces.map(p=>option('data-nav-province',p.id,p.name,'','',true)).join('');
   }else if(!city){
    content=`<button type="button" role="menuitem" tabindex="-1" class="china-menu-back" data-nav-back="provinces">← 返回省份</button><div class="china-menu-path" role="presentation">${h(province.name)} · 城市 / 地区</div>`+option('data-nav-province-overview',province.id,province.name+'总览','查看本省全部已收录卡片','▦')+ChinaRegions.prefectures(province.id).map(c=>{
     const children=ChinaRegions.counties(c);return option(children.length?'data-nav-city-branch':'data-nav-city',c.id,c.adminName,children.length?'选择县区 · '+children.length+' 个县级单位':'县级城市 · 查看卡片','🏯',!!children.length);
@@ -128,7 +129,7 @@
   const currentChina=chinaCities.find(c=>c.id===city?.id)||chinaCities.find(c=>c.id===lastChina);
   countryButton.innerHTML='◎ 欧洲国家'+(managingEurope?'<span class="mode-location"> · 卡片管理</span>':country&&!H.isChina(country)?`<span class="mode-location"> · ${h(selected.name)}</span>`:'')+' ▾';
   chinaButton.innerHTML='⌂ 中国城市'+(managingChina?'<span class="mode-location"> · 总览</span>':H.isChina(country)?`<span class="mode-location"> · ${h(currentChina.name)}</span>`:'')+' ▾';
-  const managerOption=region=>{const active=region==='china'?managingChina:managingEurope;return `<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager="${region}" ${active?'aria-current="page"':''}><span>▦</span><span><b>${region==='china'?'总览':'卡片管理'}</b><small>${region==='china'?'省市县 · 三种浏览方式':'表格 · 搜索与筛选'}</small></span><i>${active?'✓':'↗'}</i></button>`;};
+  const managerOption=region=>{const active=region==='china'?managingChina:managingEurope;return `<button type="button" role="menuitem" tabindex="-1" class="country-menu-manager" data-nav-manager="${region}" ${active?'aria-current="page"':''}><span>▦</span><span><b>${region==='china'?'总览':'卡片管理'}</b>${region==='china'?'':'<small>表格 · 搜索与筛选</small>'}</span><i>${active?'✓':'↗'}</i></button>`;};
   countryMenu.innerHTML=europe.map(c=>`<button type="button" role="menuitemradio" tabindex="-1" aria-checked="${!managingEurope&&c.id===selected.id}" data-nav-country="${c.id}"><span>${c.flag}</span><span><b>${h(c.name)}</b><small>${h(c.local)}</small></span><i>${!managingEurope&&c.id===selected.id?'✓':''}</i></button>`).join('')+managerOption('europe');
   chinaMenuContext={selected:currentChina,managing:managingChina,overview:managerOption('china')};chinaMenuPath={province:null,city:null};drawChinaMenu();
  }

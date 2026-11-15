@@ -57,9 +57,10 @@ window.ChinaFlavorUI=(()=>{
  function syncCountyPicker(root){
   const panel=root.querySelector('#flavorCountyPicker');if(!panel||!active)return;
   const city=countyCity(active),key=city?.adcode||'none';
+  panel.hidden=!city;
   if(panel.dataset.city!==String(key)){
    countyRequest?.abort();panel.dataset.city=String(key);
-   if(!city){panel.innerHTML='<div class="flavor-county-prompt"><h2>县区清单与地图</h2><p>选择左侧城市，即可查看对应的县、县级市和区。</p></div>';return;}
+   if(!city){panel.replaceChildren();return;}
    if(!city.regions.length){panel.innerHTML='<div class="flavor-county-prompt"><h2>'+h(city.city)+' · 县级范围</h2><p>这里已是省直管县级单位，可直接查看本地食单。</p></div>';return;}
    panel.innerHTML='<div class="flavor-county-list"><h2>'+h(city.city)+' · 县区清单</h2><nav aria-label="选择'+h(city.city)+'县区">'+[{adcode:'all',name:'全部县区'},...city.regions,{adcode:'unspecified',name:'县区待明确'}].map(county=>'<a class="ui-choice" data-flavor-county-choice="'+county.adcode+'" href="'+h(url({...active,county:String(county.adcode)}))+'">'+h(county.name)+'<small></small></a>').join('')+'</nav><p class="flavor-city-note" id="flavorCountyScope"></p></div><figure><h2>'+h(city.city)+' · 县区地图</h2><div class="flavor-map flavor-province-map flavor-county-map" id="flavorCountyMap" aria-busy="true"><p>正在加载县区地图…</p></div><figcaption><a href="https://datav.aliyun.com/portal/school/atlas/area_selector" target="_blank" rel="noopener noreferrer">地图来源：DataV 地理小工具 ↗</a></figcaption></figure>';
    loadCountyMap(root,city);
