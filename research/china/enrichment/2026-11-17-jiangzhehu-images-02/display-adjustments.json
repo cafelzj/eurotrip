@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "itemId": "program-3da257867e4698a58a",
+      "listPosition": "50% 0%",
+      "reason": "手机端实际截图发现竖图居中裁切主要只显示肉和蛋；列表取景上移保留面条，详情仍展示完整实拍。",
+      "sourceScreenshot": "research/.local/jiangzhehu-release-20261117-02/program-3da257867e4698a58a.png"
+    }
+  ]
+}

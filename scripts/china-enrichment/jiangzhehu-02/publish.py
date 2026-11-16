@@ -43,4 +43,8 @@ for a in approved:
    media['assets'][key]=m
   record=dict(originalResponseFile=r['rawFile'],originalSha256=r['rawSha256'],metadataFile=r['metadataFile'],metadataSha256=r['metadataSha256'],action='newly-adopted-real-photo',candidateId=r['id'])
  m=media['assets'][key];media['cards'][id]=key;history.append(dict(itemId=id,itemName=a['itemName'],assetId=key,src=m['src'],derivativeSha256=sha(R/m['src']),caption=a['caption'],reason=a['reason'],source=m['source'],author=m['author'],license=m['license'],licenseUrl=m['licenseUrl'],**record))
+# Display-only framing follows an explicit review; source image bytes never change.
+if (B/'display-adjustments.json').exists():
+ for edit in read(B/'display-adjustments.json')['items']:
+  id=edit['itemId'];assert id in scope and id not in base['cards'];asset=media['assets'][media['cards'][id]];assert '-ND'not in asset['license'];assert re.fullmatch(r'(?:100|[0-9]{1,2})% (?:100|[0-9]{1,2})%',edit['listPosition']);asset['listPosition']=edit['listPosition']
 file.write_text('/* Individually reviewed real photographs for canonical Chinese cards; source evidence is retained in research/china/enrichment. */\nwindow.chinaCardImages = '+json.dumps(media,ensure_ascii=False,indent=2)+';\n');save(B/'photo-adoption.json',dict(date='2026-11-17',records=history));print('Published into runtime:',len(history),'new card bindings;',len({r['derivativeSha256']for r in history if r['action']=='newly-adopted-real-photo'}),'newly adopted independent photos;',sum(r['action'].startswith('reuse')for r in history),'same-subject reused bindings',flush=True)

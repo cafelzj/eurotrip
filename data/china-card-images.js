@@ -4019,7 +4019,8 @@ window.chinaCardImages = {
       "listDisplay": true,
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "preserved",
-      "changes": "来源实拍仅作方向处理、等比限宽和JPEG编码，保留ICC配置（如有），不调色或生成；完整来源另存底稿。"
+      "changes": "来源实拍仅作方向处理、等比限宽和JPEG编码，保留ICC配置（如有），不调色或生成；完整来源另存底稿。",
+      "listPosition": "50% 0%"
     }
   },
   "cards": {
