@@ -21,7 +21,7 @@ def fetch(r):
   s=raw.decode();objects=[]
   for block in re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',s,re.S):
    d=json.loads(block);objects+=d.get('@graph',[d])
-  obj=next(o for o in objects if o.get('@type')=='ImageObject');license=obj.get('license','');assert any(t in license for t in ['/licenses/by','/publicdomain/']),'Image page has no selected public-use license';title=html.unescape(re.search(r'<meta property="og:title" content="([^"]+)',s)[1]);r.update(title=title,licenseUrl=license,author=obj['creator']['name'],pageDescription=obj.get('description',''),metadataFile=str(p.relative_to(R)),metadataSha256=sha(p.read_bytes()))
+  obj=next(o for o in objects if o.get('@type')=='ImageObject');license=obj.get('license','');assert any(t in license for t in ['/licenses/by','/publicdomain/']),'Image page has no selected public-use license';title=html.unescape(re.search(r'<meta property="og:title" content="([^"]+)',s)[1]);r.update(title=title,licenseUrl=license,author=obj['creator']['name'],pageDescription=(obj.get('description','')[:24]+('…'if len(obj.get('description',''))>24 else'')),descriptionPreviewOnly=True,completeDescriptionIn=str(p.relative_to(R)),metadataFile=str(p.relative_to(R)),metadataSha256=sha(p.read_bytes()))
   if not image.exists():
    with urlopen(Request(r['preview'],headers={'User-Agent':'Mozilla/5.0 EurotripRegionalPhotoResearch/1.0'}),timeout=25)as f:data=f.read()
    Image.open(__import__('io').BytesIO(data)).verify();image.write_bytes(data)

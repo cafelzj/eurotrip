@@ -38,7 +38,7 @@ def fetch(j):
    sizes=v.get('sizes',{}).get('data',{});versions=[x['data']for x in sizes.values()if isinstance(x,dict)and isinstance(x.get('data'),dict)and x['data'].get('width')]
    if not versions:continue
    fitting=[x for x in versions if 640<=x['width']<=1280];image=max(fitting or versions,key=lambda x:x['width']);url=image['url'];url='https:'+url if url.startswith('//')else url
-   photos.append(dict(id=v['id'],owner=v['ownerNsid'],author=v.get('username'),description=v.get('description',''),licenseCode=v['license'],source='https://www.flickr.com/photos/'+v['ownerNsid']+'/'+v['id'],preview=url,width=image['width'],height=image['height'],itemIds=j['itemIds'],queryId=j['id']))
+   photos.append(dict(id=v['id'],owner=v['ownerNsid'],author=v.get('username'),description=(v.get('description','')[:24]+('…'if len(v.get('description',''))>24 else'')),descriptionPreviewOnly=True,completeDescriptionIn=str(p.relative_to(R)),licenseCode=v['license'],source='https://www.flickr.com/photos/'+v['ownerNsid']+'/'+v['id'],preview=url,width=image['width'],height=image['height'],itemIds=j['itemIds'],queryId=j['id']))
   row.update(status='saved-candidates-not-approved',responseFile=str(p.relative_to(R)),compressedSha256=sha(p.read_bytes()),responseSha256=sha(raw),returnedPhotos=len(photos),candidates=photos)
  except Exception as e:row.update(status='error',error=str(e),candidates=[])
  with lock:
