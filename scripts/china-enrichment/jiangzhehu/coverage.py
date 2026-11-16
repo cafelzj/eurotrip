@@ -19,6 +19,6 @@ save(B/'coverage.json',dict(date='2026-11-16',status='in-progress-not-complete',
 original={r['itemId']:r for r in read(R/'research/.local/jiangzhehu-images-20261116/runtime-scope.json')['items']}
 labels={'jiangsu':'江苏','zhejiang':'浙江','shanghai':'上海'}
 with (B/'coverage.csv').open('w',encoding='utf-8-sig',newline='') as f:
- writer=csv.writer(f);writer.writerow(['省份','城市','原记录具体地域','卡片ID','名称','图片状态','本轮新增','已执行查询数','候选数','待补说明'])
+ writer=csv.writer(f,lineterminator='\n');writer.writerow(['省份','城市','原记录具体地域','卡片ID','名称','图片状态','本轮新增','已执行查询数','候选数','待补说明'])
  for r in rows:
   writer.writerow([labels[r['province']],r['city'],original[r['itemId']].get('locality',''),r['itemId'],r['name'],'缺图待补'if r['currentImageStatus']=='missing-real-photo'else'已有实拍',r['batchAdoption'],len(r['queryIds']),len(r['candidateIds']),r['pendingReason']or''])
