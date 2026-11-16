@@ -1,0 +1,647 @@
+{
+  "date": "2026-11-17",
+  "jobs": [
+    {
+      "id": "5e3b95129f2ead206ba3",
+      "query": "\"Hengshun vinegar\"",
+      "itemIds": [
+        "js-hengshun"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "8e65191f203720f63126",
+      "query": "\"Jiu Qu Hong Mei tea\"",
+      "itemIds": [
+        "zj-jiuqu"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "fc007e5193062a2035aa",
+      "query": "\"lotus leaf steamed pork\"",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "5fbc1262965652c433e8",
+      "query": "\"fen zheng rou\"",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "051a59a4c50d97f1f810",
+      "query": "\"eight treasure duck\"",
+      "itemIds": [
+        "sh-eight-treasure-duck"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "471c7e3ba645b28e86c1",
+      "query": "\"Shanghai smoked fish\"",
+      "itemIds": [
+        "sh-smoked-fish"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "faf8ad38797c31b9d346",
+      "query": "\"Shanghai fried fish\"",
+      "itemIds": [
+        "sh-smoked-fish"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "5bf7e62ec6423225225f",
+      "query": "\"Jinhua ham\"",
+      "itemIds": [
+        "zj-jinhua-ham"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "4ef34b9e03beeffcca86",
+      "query": "\"Zhoushan hairtail\"",
+      "itemIds": [
+        "zj-zhoushan-hairtail"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "5daa4a3f7f56534430fc",
+      "query": "\"da zhu gan si\"",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "8c98b79240d29e5011c7",
+      "query": "\"duck blood vermicelli soup\"",
+      "itemIds": [
+        "js-nanjing-duckblood"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "fa59fc0e347c4d6b5814",
+      "query": "\"Chongming cake\"",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "6aed8297dc2ac5def463",
+      "query": "\"cong bao hui\"",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "5b5cf9c3e0dbf68e1c34",
+      "query": "\"Ningbo tangyuan\"",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "7efdc5f128596e3107bb",
+      "query": "\"Shaoxing stinky tofu\"",
+      "itemIds": [
+        "flavor-zhejiang-0efcd08ba8"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "72a0009c152e2f2b9ac4",
+      "query": "\"osmanthus taro soup\"",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "11b2fd65059f02a2b77f",
+      "query": "\"Wuxi xiaolongbao\"",
+      "itemIds": [
+        "flavor-jiangsu-e9fc4e4cb6"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "1e46d23db0c0e6288f38",
+      "query": "\"cong you ban mian\"",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "9b120c085911e5cf708a",
+      "query": "\"scallion oil noodles\"",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c2ceb4e9b0c0fa64eeb7",
+      "query": "\"Suzhou kesi\"",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "48cae966656cba05e464",
+      "query": "\"Dongyang wood carving\"",
+      "itemIds": [
+        "regional-68b4be8025304b"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "273b1d5b574e8a1b5bce",
+      "query": "\"Hangzhou white chrysanthemum\"",
+      "itemIds": [
+        "program-1ffbe9163a68c5c3db"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "b2d489773348347646c2",
+      "query": "\"eight treasure rice\"",
+      "itemIds": [
+        "program-24086a64618c3b2e6b"
+      ],
+      "kind": "flickr-source-led-quoted-phrase-followup"
+    },
+    {
+      "id": "38b7f4e032f78344b9e8",
+      "query": "回龙窝",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "7b98feeadf4a39dccb00",
+      "query": "Huilongwo",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "a6ca5033f2435380ec1e",
+      "query": "彭城广场",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "e429a8b7e037b69e0e09",
+      "query": "Pengcheng Square",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "8da77b153c08f408a51d",
+      "query": "江南大学",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "2654a04a5d6792f39b40",
+      "query": "Jiangnan University",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "77ebce49269903eb5544",
+      "query": "无锡大剧院",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "8fce7f06dd40b8909235",
+      "query": "Wuxi Grand Theatre",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "96e4af002eb2cdd8c10e",
+      "query": "张家港 香山",
+      "itemIds": [
+        "venue-zhangjiagang-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "b148549b515e63eab846",
+      "query": "Zhangjiagang Xiangshan",
+      "itemIds": [
+        "venue-zhangjiagang-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "7d12165770a7f19a73fd",
+      "query": "沛县汉城公园",
+      "itemIds": [
+        "venue-peixian-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c0719e75af89148f62b2",
+      "query": "Peixian Hancheng Park",
+      "itemIds": [
+        "venue-peixian-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "e7b814ddc21156fa4917",
+      "query": "邳州 艾山",
+      "itemIds": [
+        "venue-pizhou-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "9cf9a5c62e57a055d714",
+      "query": "Pizhou Aishan",
+      "itemIds": [
+        "venue-pizhou-highlight"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "72526f91a35c918db635",
+      "query": "采芝斋",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "cb072d39fe83589a09f4",
+      "query": "Cai Zhi Zhai",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "a18721803c3d9c747d67",
+      "query": "黄天源",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "cdfdf936b012f778267b",
+      "query": "Huang Tian Yuan",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "d4e960a958bf4a3b5f34",
+      "query": "三凤桥",
+      "itemIds": [
+        "brand-wuxi-sanfengqiao"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "6308d7f0f6b2a5b30489",
+      "query": "San Feng Qiao",
+      "itemIds": [
+        "brand-wuxi-sanfengqiao"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "0443115ab48384ca9fb8",
+      "query": "同得兴 嘉馀坊",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "03a0ca9165df8ba00b51",
+      "query": "Tong De Xing",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "1609361d73905c61fbbc",
+      "query": "鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "80ddd7e88dd4efe11204",
+      "query": "pork mooncake",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "599eddec2f030370aaad",
+      "query": "无锡 小笼",
+      "itemIds": [
+        "flavor-jiangsu-e9fc4e4cb6"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "a5a7cbc63db9af5baa8d",
+      "query": "Wuxi soup dumplings",
+      "itemIds": [
+        "flavor-jiangsu-e9fc4e4cb6"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "93043e7aac1a4381e0b1",
+      "query": "鸭血粉丝",
+      "itemIds": [
+        "js-nanjing-duckblood"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "80e8fe4cbef6e264d93f",
+      "query": "duck blood vermicelli",
+      "itemIds": [
+        "js-nanjing-duckblood"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "568b6a2124e9b9386dd2",
+      "query": "梅花糕 南京",
+      "itemIds": [
+        "program-ea842e5444c4fbab70"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "d9a8c1b003251f2e265f",
+      "query": "葱油拌面",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "87e4ad0c00dbd65be7c4",
+      "query": "温州 灯盏糕",
+      "itemIds": [
+        "flavor-zhejiang-6c8b86619e"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "399e6206acb716bac1fd",
+      "query": "Hangzhou steamed buns",
+      "itemIds": [
+        "zj-hangzhou-xiaolong"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "a9e74a25aa799112154a",
+      "query": "杭州 小笼",
+      "itemIds": [
+        "zj-hangzhou-xiaolong"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c9475ffaa0656d9aaccd",
+      "query": "三丁包",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "93f25ddf1375f5b73c8d",
+      "query": "Sanding Bao",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "1d3d4de3bc47284078f2",
+      "query": "Ding Sheng Gao",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "e2b924cdf1008e92a552",
+      "query": "Dingsheng cake",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "6f50c69a6a887d547c82",
+      "query": "杭州 猫耳朵",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c65a50202aa3b746e991",
+      "query": "Hangzhou cat ear noodles",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "bc54c8db545fd1e543c9",
+      "query": "金华 火腿",
+      "itemIds": [
+        "zj-jinhua-ham"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "dcb0970a3b670fecc71e",
+      "query": "Jin Hua ham",
+      "itemIds": [
+        "zj-jinhua-ham"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c45fdc1cb94370a25f2b",
+      "query": "Bright Dairy milk",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "00ec40a6ee04855b1bf6",
+      "query": "维维 豆奶",
+      "itemIds": [
+        "js-vv"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "819b8441d72f417b565c",
+      "query": "龙泉 宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "eee0b762941b053112c6",
+      "query": "Longquan sword",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "874b3bc21ddacee59958",
+      "query": "Huzhou brush",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "5430d05c77b195a1ad6d",
+      "query": "湖州 毛笔",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "c8e84df2485239694546",
+      "query": "Song brocade",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "dc39289fcdffe9ef87e1",
+      "query": "宋锦",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "56500595dd25981c80ba",
+      "query": "Nanjing gold leaf",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "2fb09ce8a5d52c07690b",
+      "query": "南京 金箔",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "9beccf45871be38a8409",
+      "query": "Nantong blue calico",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "6efa8b7e37653d68982e",
+      "query": "南通 蓝印花布",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "4ce2019c4aa969135995",
+      "query": "Yangzhou paper cutting",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "f7c20c81a75533396dd1",
+      "query": "扬州 剪纸",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "a2da53deebc4b518c608",
+      "query": "Yangzhou jade carving",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    },
+    {
+      "id": "50ef0e87ff969f9244b7",
+      "query": "扬州 玉雕",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "kind": "flickr-source-led-subject-and-place-followup"
+    }
+  ]
+}

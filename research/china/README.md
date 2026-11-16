@@ -1,6 +1,6 @@
 # 中国卡片研究资料总入口
 
-更新：2026-11-16。中国栏目统一为全国、省、市和县区卡片页面；本目录统一组织中国卡片的资料入口、整合采用记录和未来来源候选。[总索引](index.json) 自动登记相关公开底稿的用途、路径、大小与SHA-256。
+更新：2026-11-17。中国栏目统一为全国、省、市和县区卡片页面；本目录统一组织中国卡片的资料入口、整合采用记录和未来来源候选。[总索引](index.json) 自动登记相关公开底稿的用途、路径、大小与SHA-256。
 
 ## 正式数据和研究资料分开
 
@@ -36,6 +36,6 @@
 
 执行 `python scripts/index-china-research.py` 更新总索引及专题索引；执行 `node scripts/audit-china-flavor-migration.cjs` 与 `python scripts/check-research.py --local-archives` 核对现有卡片、阅读指纹及原件归档。
 
-江浙沪全部现有卡片实拍任务见 [本轮底稿](enrichment/2026-11-16-jiangzhehu-images/README.md) 与 [逐卡片覆盖](enrichment/2026-11-16-jiangzhehu-images/coverage.json)，尚未全部补齐。
+江浙沪持续实拍任务见 [最新批次](enrichment/2026-11-17-jiangzhehu-images-02/README.md) 与 [当前逐卡片覆盖](enrichment/2026-11-17-jiangzhehu-images-02/coverage.json)：191/981张有图，790张待补，尚未全部补齐。[首批底稿](enrichment/2026-11-16-jiangzhehu-images/README.md) 保留当时的采用与覆盖快照。
 
 此前补充状态：[1000条待编辑底稿与12张采用实拍](enrichment/2026-11-15-national-02-1000/README.md)。文字未通过逐项编辑前不更新正式阅读层，也不计作已完成。

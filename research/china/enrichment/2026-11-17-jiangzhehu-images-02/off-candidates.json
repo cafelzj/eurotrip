@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-17",
+  "photoLicenseReference": "docs/card-images.md",
+  "candidates": [
+    {
+      "id": "off-6902007505264",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6902007505264",
+      "itemIds": [
+        "js-hengshun",
+        "program-c17932bd63d25f0e3d"
+      ],
+      "title": "镇江香醋",
+      "description": "恒顺",
+      "preview": "https://images.openfoodfacts.org/images/products/690/200/750/5264/front_zh.51.full.jpg",
+      "width": 97,
+      "height": 350,
+      "author": "hikaricopho",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6902007505264.json",
+      "metadataSha256": "57ce3e3b332cda6554a764c94c47ef470911ed39e3169d4821213faaa32d7c42",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6902007505264.jpg",
+      "rawSha256": "91f5e69d789d143e698f973caa20e6652a82eeb15bdfdfcd37a009ee14e5df58",
+      "status": "downloaded-not-approved"
+    },
+    {
+      "id": "off-6902007505271",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6902007505271",
+      "itemIds": [
+        "js-hengshun",
+        "program-c17932bd63d25f0e3d"
+      ],
+      "title": "Vinegar",
+      "description": "heng shun 恒顺",
+      "preview": "https://images.openfoodfacts.org/images/products/690/200/750/5271/front_en.3.full.jpg",
+      "width": 1125,
+      "height": 2000,
+      "author": "wengong27514",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6902007505271.json",
+      "metadataSha256": "83bc7bbb6a2e3e1ccfdb83fae8f994244239578b5101563177c08509e6a9e3b7",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6902007505271.jpg",
+      "rawSha256": "d77e479c1a400a667e2bd7b7cd92e1336f0df5c20b916f7fb1eead2e0ccae439",
+      "status": "downloaded-not-approved"
+    },
+    {
+      "id": "off-6938888888837",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6938888888837",
+      "itemIds": [
+        "zj-xiangpiaopiao"
+      ],
+      "title": "Original flavor milk tea",
+      "description": "Xiang PiaoPiao, 香飘飘",
+      "preview": "https://images.openfoodfacts.org/images/products/693/888/888/8837/front_en.20.full.jpg",
+      "width": 2268,
+      "height": 4032,
+      "author": "smoothie-app",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6938888888837.json",
+      "metadataSha256": "dbf270cf823a8a97c3b34af8867053b80d761537739f4a36bfe8b7a7d31a51cf",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6938888888837.jpg",
+      "rawSha256": "5299767c503f342b0a74243e78929be415c37c3a69c3b6e46cb032dd09638eea",
+      "status": "downloaded-not-approved"
+    },
+    {
+      "id": "off-6938888888813",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6938888888813",
+      "itemIds": [
+        "zj-xiangpiaopiao"
+      ],
+      "title": "Xiang Piao Piao Instant Tea",
+      "description": "Xiang Piaopiao, 香飘飘",
+      "preview": "https://images.openfoodfacts.org/images/products/693/888/888/8813/front_fr.15.full.jpg",
+      "width": 900,
+      "height": 1200,
+      "author": "kiliweb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6938888888813.json",
+      "metadataSha256": "96569e2f77d63063bfa47ecca2f3cb132b4c0db92bbb528f634582ece125c35e",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6938888888813.jpg",
+      "rawSha256": "9cede380c6fe111dfb8841fa358e166d26e8b22b45d08d370662835002b0e78c",
+      "status": "downloaded-not-approved"
+    },
+    {
+      "id": "off-6938888884914",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6938888884914",
+      "itemIds": [
+        "zj-xiangpiaopiao"
+      ],
+      "title": "茉莉奶茶",
+      "description": "香飘飘",
+      "preview": "https://images.openfoodfacts.org/images/products/693/888/888/4914/front_en.3.full.jpg",
+      "width": 1742,
+      "height": 3264,
+      "author": "foodless",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6938888884914.json",
+      "metadataSha256": "e166db1dce0b2e287ad74ebb3ae6b04a0de66f7663a195f255b7aafc8ccbadf8",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6938888884914.jpg",
+      "rawSha256": "c9e1bde0e1f4f88a7325e417aead12e21104d7f13d8dfe2d4938adfa898fa668",
+      "status": "downloaded-not-approved"
+    },
+    {
+      "id": "off-6902007505271-2",
+      "provider": "Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6902007505271",
+      "itemIds": [
+        "js-hengshun",
+        "program-c17932bd63d25f0e3d"
+      ],
+      "title": "Vinegar",
+      "description": "heng shun 恒顺",
+      "preview": "https://images.openfoodfacts.org/images/products/690/200/750/5271/2.jpg",
+      "width": 1125,
+      "height": 2000,
+      "author": "wengong27514",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/off/product-6902007505271.json",
+      "metadataSha256": "83bc7bbb6a2e3e1ccfdb83fae8f994244239578b5101563177c08509e6a9e3b7",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/off-6902007505271-2.jpg",
+      "rawSha256": "bc17ec19885fbc70d774ec67c5856458442b17137df199ba1ee7badb4e2d2414",
+      "status": "downloaded-not-approved",
+      "sourceImageId": "2"
+    }
+  ]
+}

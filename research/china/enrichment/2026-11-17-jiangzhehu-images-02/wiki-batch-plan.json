@@ -1,0 +1,2484 @@
+{
+  "date": "2026-11-17",
+  "subjects": {
+    "苏州 · 共享单车与慢行": [
+      "tip-suzhou-shared-mobility"
+    ],
+    "苏州": [
+      "tip-suzhou-shared-mobility"
+    ],
+    "去苏州，机场接驳怎么选": [
+      "tip-suzhou-airport"
+    ],
+    "同得兴 · 嘉馀坊店": [
+      "venue-suzhou-noodle-shop"
+    ],
+    "同得兴": [
+      "venue-suzhou-noodle-shop"
+    ],
+    "大润发 · 在苏州找门店": [
+      "brand-suzhou-rtmart"
+    ],
+    "大润发": [
+      "brand-suzhou-rtmart",
+      "brand-xuzhou-rtmart",
+      "brand-wuxi-rtmart"
+    ],
+    "盒马 · 在苏州找门店": [
+      "brand-suzhou-hema"
+    ],
+    "盒马": [
+      "brand-suzhou-hema"
+    ],
+    "山姆会员商店 · 在苏州找门店": [
+      "brand-suzhou-samsclub"
+    ],
+    "山姆会员商店": [
+      "brand-suzhou-samsclub"
+    ],
+    "黄天源 · 糕团与时令点心": [
+      "brand-suzhou-huangtianyuan"
+    ],
+    "黄天源": [
+      "brand-suzhou-huangtianyuan"
+    ],
+    "苏州旅行 · 紧急求助与日常准备": [
+      "tip-suzhou-help"
+    ],
+    "苏州旅行": [
+      "tip-suzhou-help"
+    ],
+    "徐州 · 共享单车补齐短途": [
+      "tip-xuzhou-shared-mobility"
+    ],
+    "徐州": [
+      "tip-xuzhou-shared-mobility"
+    ],
+    "徐州旅行 · 日常与紧急准备": [
+      "tip-xuzhou-help"
+    ],
+    "徐州旅行": [
+      "tip-xuzhou-help"
+    ],
+    "大润发 · 在徐州找门店": [
+      "brand-xuzhou-rtmart"
+    ],
+    "无锡 · 共享单车补齐短途": [
+      "tip-wuxi-shared-mobility"
+    ],
+    "无锡": [
+      "tip-wuxi-shared-mobility"
+    ],
+    "无锡旅行 · 日常与紧急准备": [
+      "tip-wuxi-help"
+    ],
+    "无锡旅行": [
+      "tip-wuxi-help"
+    ],
+    "大润发 · 在无锡找门店": [
+      "brand-wuxi-rtmart"
+    ],
+    "烙馍与卷菜": [
+      "food-xuzhou-lomo"
+    ],
+    "饣它汤 · 早餐热汤": [
+      "food-xuzhou-satang"
+    ],
+    "饣它汤": [
+      "food-xuzhou-satang"
+    ],
+    "徐州辣汤与早餐搭配": [
+      "food-xuzhou-sha-tang"
+    ],
+    "徐州与彭城、汉文化": [
+      "fact-xuzhou-han"
+    ],
+    "无锡大剧院": [
+      "venue-wuxi-grand-theatre"
+    ],
+    "无锡糕团与时令点心": [
+      "food-wuxi-haitang"
+    ],
+    "无锡不只有市中心的一片太湖": [
+      "fact-wuxi-taihu"
+    ],
+    "香山景区": [
+      "venue-zhangjiagang-highlight"
+    ],
+    "香山 (张家港)": [
+      "venue-zhangjiagang-highlight"
+    ],
+    "张家港香山": [
+      "venue-zhangjiagang-highlight"
+    ],
+    "张家港 · 长江港城": [
+      "local-zhangjiagang-culture"
+    ],
+    "张家港": [
+      "local-zhangjiagang-culture"
+    ],
+    "丰县博物馆": [
+      "venue-fengxian-highlight"
+    ],
+    "丰县 · 梨与苹果的产地线索": [
+      "local-fengxian-culture"
+    ],
+    "丰县": [
+      "local-fengxian-culture",
+      "tip-fengxian-access"
+    ],
+    "丰县 · 县级目的地接驳": [
+      "tip-fengxian-access"
+    ],
+    "沛县汉城公园": [
+      "venue-peixian-highlight"
+    ],
+    "沛县 · 刘邦与汉文化记忆": [
+      "local-peixian-culture"
+    ],
+    "沛县": [
+      "local-peixian-culture",
+      "tip-peixian-access"
+    ],
+    "沛县 · 县级目的地接驳": [
+      "tip-peixian-access"
+    ],
+    "水月禅寺": [
+      "venue-suining-highlight"
+    ],
+    "睢宁 · 儿童画文化": [
+      "local-suining-culture"
+    ],
+    "睢宁": [
+      "local-suining-culture",
+      "tip-suining-access"
+    ],
+    "睢宁 · 县级目的地接驳": [
+      "tip-suining-access"
+    ],
+    "新沂 · 县级目的地接驳": [
+      "tip-xinyi-access"
+    ],
+    "新沂": [
+      "tip-xinyi-access"
+    ],
+    "艾山风景名胜区": [
+      "venue-pizhou-highlight"
+    ],
+    "邳州 · 银杏与秋季乡村": [
+      "local-pizhou-culture"
+    ],
+    "邳州": [
+      "local-pizhou-culture"
+    ],
+    "看汉墓时，怎样区分墓、俑和画像石？": [
+      "knowledge-xuzhou-han-tombs"
+    ],
+    "无锡为什么有“布码头”的城市记忆？": [
+      "knowledge-wuxi-textiles"
+    ],
+    "苏州话与无锡话：同属吴语，也并非处处一样": [
+      "language-cn-wu"
+    ],
+    "同在江苏，徐州话为什么与苏州话差很多？": [
+      "language-cn-xuzhou"
+    ],
+    "天山雪牛奶": [
+      "js-tianshanxue"
+    ],
+    "维维豆奶": [
+      "js-vv"
+    ],
+    "洋河酒": [
+      "js-yanghe"
+    ],
+    "双沟酒": [
+      "js-shuanggou"
+    ],
+    "雨花茶": [
+      "js-yuhua"
+    ],
+    "常熟叫花鸡": [
+      "js-beggar-chicken"
+    ],
+    "一鸣鲜牛奶": [
+      "zj-yiming"
+    ],
+    "李子园甜牛奶饮料": [
+      "zj-liziyuan"
+    ],
+    "会稽山绍兴酒": [
+      "zj-kuaiji"
+    ],
+    "雪菜大汤黄鱼": [
+      "zj-yellow-croaker"
+    ],
+    "梅干菜焖肉": [
+      "zj-meigan"
+    ],
+    "荷叶粉蒸肉": [
+      "zj-steamed-pork",
+      "program-9a8cdc8b6698f39550"
+    ],
+    "光明鲜牛奶": [
+      "sh-bright-milk"
+    ],
+    "光明酸奶": [
+      "sh-bright-yogurt"
+    ],
+    "正广和饮品": [
+      "sh-soda"
+    ],
+    "石库门黄酒": [
+      "sh-shikumen"
+    ],
+    "汪裕泰茶庄": [
+      "sh-wangyutai"
+    ],
+    "庄行白切羊肉": [
+      "sh-lamb"
+    ],
+    "糟卤": [
+      "sh-zaolu"
+    ],
+    "鼎丰腐乳": [
+      "sh-dingfeng-furu"
+    ],
+    "衢州缸酱": [
+      "zj-gangjiang"
+    ],
+    "龙游发糕": [
+      "zj-longyou-fagao"
+    ],
+    "衢州三头一掌": [
+      "zj-santou-yizhang"
+    ],
+    "开化番薯粉丝": [
+      "zj-kaihua-fensi"
+    ],
+    "邵永丰麻饼": [
+      "zj-shaoyongfeng"
+    ],
+    "台州姜汤面": [
+      "zj-taizhou-jiangtangmian"
+    ],
+    "台州食饼筒": [
+      "zj-taizhou-shibingtong"
+    ],
+    "缙云南乡馒头": [
+      "zj-jinyun-nanxiang"
+    ],
+    "丽水莲都薄饼": [
+      "zj-liandu-wrap"
+    ],
+    "莲都豆腐丸": [
+      "zj-liandu-tofuballs"
+    ],
+    "景宁粉皮": [
+      "zj-jingning-fenpi"
+    ],
+    "永康肉麦饼": [
+      "zj-yongkang-roumaibing"
+    ],
+    "永康熏豆腐干": [
+      "zj-yongkang-smoked-tofu"
+    ],
+    "嘉兴鲜肉烧卖": [
+      "zj-jiaxing-shaomai"
+    ],
+    "平湖糟蛋": [
+      "zj-pinghu-zaodan"
+    ],
+    "平湖糍糕": [
+      "zj-pinghu-chigao"
+    ],
+    "泰顺大安米面": [
+      "zj-taishun-rice-noodles"
+    ],
+    "舟山带鱼": [
+      "zj-zhoushan-hairtail"
+    ],
+    "舟山梭子蟹": [
+      "zj-zhoushan-swimming-crab"
+    ],
+    "大煮干丝": [
+      "js-dazhugansi"
+    ],
+    "平桥豆腐羹": [
+      "js-pingqiao-tofu"
+    ],
+    "文思豆腐": [
+      "js-wensi-tofu"
+    ],
+    "文思豆腐羹": [
+      "js-wensi-tofu"
+    ],
+    "软兜长鱼": [
+      "js-ruandou-eel"
+    ],
+    "三和四美酱菜": [
+      "js-sanhesimei"
+    ],
+    "常州银丝面": [
+      "js-changzhou-yinsimian"
+    ],
+    "天目湖砂锅鱼头": [
+      "js-tianmuhu-fishhead"
+    ],
+    "天目湖砂鍋魚頭": [
+      "js-tianmuhu-fishhead"
+    ],
+    "靖江猪肉脯": [
+      "js-jingjiang-roufu"
+    ],
+    "东台鱼汤面": [
+      "js-dongtai-fishnoodles"
+    ],
+    "灌云豆丹": [
+      "js-guanyun-doudan"
+    ],
+    "宿迁车轮饼": [
+      "js-suqian-chelunbing"
+    ],
+    "羊方藏鱼": [
+      "js-xuzhou-lambfish"
+    ],
+    "东坡回赠肉": [
+      "js-xuzhou-huizengrou"
+    ],
+    "沪上阿姨": [
+      "sh-hushangayi"
+    ],
+    "颛桥桶蒸糕": [
+      "sh-zhuanqiao-tongzhenggao"
+    ],
+    "崇明糕": [
+      "sh-chongming-gao"
+    ],
+    "扬州三丁包": [
+      "js-yangzhou-sanding"
+    ],
+    "扬州盐商五丁包": [
+      "js-yangzhou-wuding"
+    ],
+    "扬州烫干丝": [
+      "js-yangzhou-tanggansi"
+    ],
+    "杭州小笼包": [
+      "zj-hangzhou-xiaolong"
+    ],
+    "今世缘酒": [
+      "flavor-jiangsu-d4b86af742"
+    ],
+    "熊猫炼乳": [
+      "flavor-zhejiang-165174eadb"
+    ],
+    "葱包桧": [
+      "flavor-zhejiang-87b3c65e52"
+    ],
+    "新风鳗鲞": [
+      "flavor-zhejiang-ccf338cca4"
+    ],
+    "苔菜拖黄鱼": [
+      "flavor-zhejiang-2d87ba5184"
+    ],
+    "冰糖甲鱼": [
+      "flavor-zhejiang-f1166339c5"
+    ],
+    "宁波烤菜": [
+      "flavor-zhejiang-0b1a1c181d"
+    ],
+    "腐皮黄鱼": [
+      "flavor-zhejiang-b0aa6955f1"
+    ],
+    "宁波汤圆": [
+      "flavor-zhejiang-65406eee9b"
+    ],
+    "宁式鳝丝": [
+      "flavor-zhejiang-025c794ff3"
+    ],
+    "象山炒米面": [
+      "flavor-zhejiang-56c16bb7d1"
+    ],
+    "宁海望海茶": [
+      "flavor-zhejiang-14dd3618e0"
+    ],
+    "温州鱼丸": [
+      "flavor-zhejiang-b769fc8fd7"
+    ],
+    "温州瘦肉丸": [
+      "flavor-zhejiang-3dee9a6965"
+    ],
+    "长人馄饨": [
+      "flavor-zhejiang-9e9e5f67db"
+    ],
+    "矮人松糕": [
+      "flavor-zhejiang-1ab5f289c8"
+    ],
+    "双炊糕": [
+      "flavor-zhejiang-a02b2f59e1"
+    ],
+    "白象香糕": [
+      "flavor-zhejiang-f1b67ca9a0"
+    ],
+    "灯盏糕": [
+      "flavor-zhejiang-6c8b86619e"
+    ],
+    "五芳斋鲜肉粽": [
+      "flavor-zhejiang-a30e374a96"
+    ],
+    "馄饨老鸭煲": [
+      "flavor-zhejiang-267f01bf30"
+    ],
+    "西塘芡实糕": [
+      "flavor-zhejiang-287a9609ac"
+    ],
+    "荠菜包圆": [
+      "flavor-zhejiang-367013ddcf"
+    ],
+    "斜桥榨菜": [
+      "flavor-zhejiang-884212115b"
+    ],
+    "长安宴球": [
+      "flavor-zhejiang-ec6f428b48"
+    ],
+    "芽麦圆子": [
+      "flavor-zhejiang-6292166baa"
+    ],
+    "老鸭面": [
+      "flavor-zhejiang-caa99dee23"
+    ],
+    "顾渚紫笋": [
+      "flavor-zhejiang-b6fe4d08c5"
+    ],
+    "莫干黄芽": [
+      "flavor-zhejiang-72edade079"
+    ],
+    "新市酱羊肉": [
+      "flavor-zhejiang-d9f2600a61"
+    ],
+    "泗安酥糖": [
+      "flavor-zhejiang-485298591d"
+    ],
+    "南浔桔红糕": [
+      "flavor-zhejiang-d537ede1bf"
+    ],
+    "新市茶糕": [
+      "flavor-zhejiang-680b7ca8ca"
+    ],
+    "钟管老鸭煲": [
+      "flavor-zhejiang-694b3d45e9"
+    ],
+    "安吉本鸡煲": [
+      "flavor-zhejiang-e23316ec3c"
+    ],
+    "张一品酱羊肉": [
+      "flavor-zhejiang-a2406cdb0c"
+    ],
+    "霉苋菜梗": [
+      "flavor-zhejiang-96a2482fa2"
+    ],
+    "绍兴醉蟹": [
+      "flavor-zhejiang-efcb134b62"
+    ],
+    "绍兴臭豆腐": [
+      "flavor-zhejiang-0efcd08ba8"
+    ],
+    "西施豆腐": [
+      "flavor-zhejiang-75dc780016"
+    ],
+    "新昌芋饺": [
+      "flavor-zhejiang-9f39ff4631"
+    ],
+    "新昌春饼": [
+      "flavor-zhejiang-a1e8193b8b"
+    ],
+    "大佛龙井": [
+      "flavor-zhejiang-5a12ff0716"
+    ],
+    "日铸茶": [
+      "flavor-zhejiang-59aae45844"
+    ],
+    "平水珠茶": [
+      "flavor-zhejiang-966f5bb63e"
+    ],
+    "越乡龙井": [
+      "flavor-zhejiang-8ad58bbea0"
+    ],
+    "金华汤包": [
+      "flavor-zhejiang-0371787652"
+    ],
+    "浦江麦饼": [
+      "flavor-zhejiang-2944fdf741"
+    ],
+    "米筛爬": [
+      "flavor-zhejiang-a1a484e9b6"
+    ],
+    "磐安云峰": [
+      "flavor-zhejiang-af02039c34"
+    ],
+    "宣莲羹": [
+      "flavor-zhejiang-12af55825d"
+    ],
+    "木莲豆腐": [
+      "flavor-zhejiang-ffbd6ab60b"
+    ],
+    "永康豆腐皮": [
+      "flavor-zhejiang-bc36f44252"
+    ],
+    "开化汽糕": [
+      "flavor-zhejiang-0aa72b5f9a"
+    ],
+    "开化龙顶": [
+      "flavor-zhejiang-fa8d963e08"
+    ],
+    "葱花馒头": [
+      "flavor-zhejiang-cfbb32e120"
+    ],
+    "何田清水鱼": [
+      "flavor-zhejiang-a9245a8ba8"
+    ],
+    "马金豆腐干": [
+      "flavor-zhejiang-51986085ae"
+    ],
+    "江山绿牡丹": [
+      "flavor-zhejiang-9e84031bde"
+    ],
+    "舟山海鲜面": [
+      "flavor-zhejiang-b4f2f0dfc2"
+    ],
+    "梭子蟹炒年糕": [
+      "flavor-zhejiang-400930ab2f"
+    ],
+    "铁板蛏子": [
+      "flavor-zhejiang-c7fcb348bd"
+    ],
+    "虎头鱼豆腐汤": [
+      "flavor-zhejiang-d9f8431dec"
+    ],
+    "黄鱼鲞烤猪肉": [
+      "flavor-zhejiang-9f5fb71dfc"
+    ],
+    "嵊泗贻贝": [
+      "flavor-zhejiang-4c5aedc69c"
+    ],
+    "岱山蓬莱仙芝": [
+      "flavor-zhejiang-8f9837c665"
+    ],
+    "东沙香干": [
+      "flavor-zhejiang-ef91bb83b4"
+    ],
+    "糟鲳鱼": [
+      "flavor-zhejiang-8960793cfc"
+    ],
+    "临海麦虾": [
+      "flavor-zhejiang-6599354056"
+    ],
+    "台州麦饼": [
+      "flavor-zhejiang-9e20bd90ba"
+    ],
+    "三门青蟹": [
+      "flavor-zhejiang-68e1cc0e06"
+    ],
+    "三门麻糍": [
+      "flavor-zhejiang-3c655b5894"
+    ],
+    "糊拉汰": [
+      "flavor-zhejiang-756a453a99"
+    ],
+    "天台青饺": [
+      "flavor-zhejiang-568ea8450a"
+    ],
+    "仙居八大碗": [
+      "flavor-zhejiang-a23181ee18"
+    ],
+    "天台什锦糕": [
+      "flavor-zhejiang-769f8a846e"
+    ],
+    "庆元烧梅": [
+      "flavor-zhejiang-0dc6882641"
+    ],
+    "庆元笋粽": [
+      "flavor-zhejiang-70490da46b"
+    ],
+    "缙云土面": [
+      "flavor-zhejiang-642bb5b8d3"
+    ],
+    "松阳银猴": [
+      "flavor-zhejiang-145e2f75b1"
+    ],
+    "三井毛峰": [
+      "flavor-zhejiang-a2141f51ce"
+    ],
+    "景宁惠明茶": [
+      "flavor-zhejiang-60a98fb330"
+    ],
+    "惠明茶": [
+      "flavor-zhejiang-60a98fb330",
+      "program-b0f74da42fe558ec96"
+    ],
+    "湖州千张包": [
+      "flavor-zhejiang-fad70612e0"
+    ],
+    "皮肚面": [
+      "flavor-jiangsu-f3a8026ec8"
+    ],
+    "如意回卤干": [
+      "flavor-jiangsu-886c3f2c40"
+    ],
+    "状元豆": [
+      "flavor-jiangsu-d8d029b46a"
+    ],
+    "龙袍蟹黄包": [
+      "flavor-jiangsu-68b3a5aa76"
+    ],
+    "桂花糖芋苗": [
+      "flavor-jiangsu-4f3d113057"
+    ],
+    "赤豆元宵": [
+      "flavor-jiangsu-ef6b20f987"
+    ],
+    "鸭油酥烧饼": [
+      "flavor-jiangsu-dc962a8f81"
+    ],
+    "肉酿面筋": [
+      "flavor-jiangsu-f7b963320d"
+    ],
+    "无锡三鲜馄饨": [
+      "flavor-jiangsu-d13f9cbba7"
+    ],
+    "玉兰饼": [
+      "flavor-jiangsu-614a338f09"
+    ],
+    "阳羡雪芽": [
+      "flavor-jiangsu-a11e87e6b5"
+    ],
+    "和桥豆腐干": [
+      "flavor-jiangsu-8eb3c4d0ec"
+    ],
+    "江阴马蹄酥": [
+      "flavor-jiangsu-b987dd1904"
+    ],
+    "霸王别姬": [
+      "flavor-jiangsu-793b3491c0"
+    ],
+    "徐州啥汤": [
+      "flavor-jiangsu-f1fa272deb"
+    ],
+    "蛙鱼": [
+      "flavor-jiangsu-70c2f71073"
+    ],
+    "丰县烧饼": [
+      "flavor-jiangsu-cd43e8355c"
+    ],
+    "沛公酒": [
+      "flavor-jiangsu-833b9e50ec"
+    ],
+    "徐州烙馍": [
+      "flavor-jiangsu-816d7b53b6"
+    ],
+    "常州素火腿": [
+      "flavor-jiangsu-3550c9608c"
+    ],
+    "酒酿元宵": [
+      "flavor-jiangsu-fd6788d92f"
+    ],
+    "常州芝麻糖": [
+      "flavor-jiangsu-45f4286741"
+    ],
+    "加蟹小笼包": [
+      "flavor-jiangsu-d80d5b33c7"
+    ],
+    "四喜汤团": [
+      "flavor-jiangsu-80ccd93c01",
+      "program-5466f36df9b6800424"
+    ],
+    "溱潼鱼饼": [
+      "flavor-jiangsu-da6ebb6414"
+    ],
+    "枫镇大面": [
+      "flavor-jiangsu-fd4c1613d4"
+    ],
+    "藏书羊肉": [
+      "flavor-jiangsu-9b61f8355c"
+    ],
+    "桂花鸡头米": [
+      "flavor-jiangsu-222c2cf834"
+    ],
+    "苏式鲜肉月饼": [
+      "flavor-jiangsu-e01650d3e6"
+    ],
+    "太仓肉松": [
+      "flavor-jiangsu-e59d104932"
+    ],
+    "沙洲优黄": [
+      "flavor-jiangsu-c2597b8797"
+    ],
+    "太仓糟油": [
+      "flavor-jiangsu-07b613be05"
+    ],
+    "南通跳面": [
+      "flavor-jiangsu-33f596e0ee"
+    ],
+    "正场熏糕": [
+      "flavor-jiangsu-1bad85a535"
+    ],
+    "石港窨糕": [
+      "flavor-jiangsu-8c2d19ce5d"
+    ],
+    "新中乳腐": [
+      "flavor-jiangsu-f02d53d97c"
+    ],
+    "南通火饺": [
+      "flavor-jiangsu-340f3cfead"
+    ],
+    "金钱萝卜饼": [
+      "flavor-jiangsu-e1f53ea939"
+    ],
+    "文蛤丸子": [
+      "flavor-jiangsu-8a11dfb3a0"
+    ],
+    "海安糯米酒": [
+      "flavor-jiangsu-cb9521d03d"
+    ],
+    "李堡麻虾酱": [
+      "flavor-jiangsu-4bb9a92562"
+    ],
+    "汤沟酒": [
+      "flavor-jiangsu-60ae60b3d9"
+    ],
+    "花果山云雾茶": [
+      "flavor-jiangsu-b82d83ffad"
+    ],
+    "汪恕有滴醋": [
+      "flavor-jiangsu-4409362422"
+    ],
+    "桃林烧鸡": [
+      "flavor-jiangsu-26ba72f4be"
+    ],
+    "沙光鱼": [
+      "flavor-jiangsu-2755214804"
+    ],
+    "花果山风鹅": [
+      "flavor-jiangsu-bad8faba7e"
+    ],
+    "灌云大糕": [
+      "flavor-jiangsu-4c48f62974"
+    ],
+    "连云港酒醉螃蟹": [
+      "flavor-jiangsu-8a5e336eda"
+    ],
+    "奶汤鱼皮": [
+      "flavor-jiangsu-e554484beb"
+    ],
+    "奇泉酱油": [
+      "flavor-jiangsu-f8a2a2adcf"
+    ],
+    "涟水鸡糕": [
+      "flavor-jiangsu-788b2e7e50"
+    ],
+    "涟水千张": [
+      "flavor-jiangsu-9afd2574b0"
+    ],
+    "涟水萝卜干": [
+      "flavor-jiangsu-76ac4b6c7f"
+    ],
+    "金湖芡实": [
+      "flavor-jiangsu-66a66ecdec"
+    ],
+    "盱眙小龙虾": [
+      "flavor-jiangsu-d98a0ac065"
+    ],
+    "淮安茶馓": [
+      "flavor-jiangsu-664ee08377"
+    ],
+    "钦工肉圆": [
+      "flavor-jiangsu-36907426de"
+    ],
+    "文楼汤包": [
+      "flavor-jiangsu-8ae7be83a0"
+    ],
+    "洪泽小鱼锅贴": [
+      "flavor-jiangsu-7126c6ce4d"
+    ],
+    "涟水捆蹄": [
+      "flavor-jiangsu-7d6a17d006"
+    ],
+    "阜宁大糕": [
+      "flavor-jiangsu-d82b6671a6"
+    ],
+    "盐城草炉饼": [
+      "flavor-jiangsu-2920c1e69c"
+    ],
+    "大纵湖醉蟹": [
+      "flavor-jiangsu-3905af32c3"
+    ],
+    "葛武酱生姜": [
+      "flavor-jiangsu-96e38dd9a7"
+    ],
+    "滨海香肠": [
+      "flavor-jiangsu-5aba759680"
+    ],
+    "滨海牌三伏酱油": [
+      "flavor-jiangsu-e38789f0a1"
+    ],
+    "五醍浆酒": [
+      "flavor-jiangsu-04e6a5fd14"
+    ],
+    "奇园蟹黄包": [
+      "flavor-jiangsu-749a7cf0e4"
+    ],
+    "戚桥歪子茶干": [
+      "flavor-jiangsu-9c92a146f6"
+    ],
+    "千层油糕": [
+      "flavor-jiangsu-886c8438f1"
+    ],
+    "翡翠烧麦": [
+      "flavor-jiangsu-9dcc323f36"
+    ],
+    "仪征绿杨春茶": [
+      "flavor-jiangsu-3742d8c138"
+    ],
+    "镇江蟹黄汤包": [
+      "flavor-jiangsu-fdd1cc53a5"
+    ],
+    "白汁鮰鱼": [
+      "flavor-jiangsu-929e10b790"
+    ],
+    "茅山老鹅": [
+      "flavor-jiangsu-c641b31cbd"
+    ],
+    "茅山长青茶": [
+      "flavor-jiangsu-171c6947ea"
+    ],
+    "宝华玉笋茶": [
+      "flavor-jiangsu-ea5ce311cc"
+    ],
+    "丹阳封缸酒": [
+      "flavor-jiangsu-79ad60cfcc"
+    ],
+    "秧草包子": [
+      "flavor-jiangsu-04b3bfd105"
+    ],
+    "镇江糖醋萝卜干": [
+      "flavor-jiangsu-e03d26593f"
+    ],
+    "黄桥烧饼": [
+      "flavor-jiangsu-8958cecb9d"
+    ],
+    "黃橋燒餅": [
+      "flavor-jiangsu-8958cecb9d"
+    ],
+    "靖江蟹黄汤包": [
+      "flavor-jiangsu-5d1e6b48ad"
+    ],
+    "泰州鱼汤面": [
+      "flavor-jiangsu-fc483b08b9"
+    ],
+    "季市大炉饼": [
+      "flavor-jiangsu-55618e219b"
+    ],
+    "宣堡小馄饨": [
+      "flavor-jiangsu-cbe3743e53"
+    ],
+    "孔桥百叶": [
+      "flavor-jiangsu-1ba9b318ed"
+    ],
+    "桂香糖": [
+      "flavor-jiangsu-b857073fbf"
+    ],
+    "五福酱菜": [
+      "flavor-jiangsu-dfc01af87a"
+    ],
+    "靖江金波酒": [
+      "flavor-jiangsu-ebc2cbc874"
+    ],
+    "泗阳膘鸡": [
+      "flavor-jiangsu-738251d723"
+    ],
+    "钱集卤鹅": [
+      "flavor-jiangsu-38c64f990c"
+    ],
+    "穿城大饼": [
+      "flavor-jiangsu-5fa5f920a6"
+    ],
+    "王集小团饼": [
+      "flavor-jiangsu-2f5c10f5b2"
+    ],
+    "马厂馍头": [
+      "flavor-jiangsu-362d9e1953"
+    ],
+    "庙头千张": [
+      "flavor-jiangsu-46ed04d0ad"
+    ],
+    "归仁绿豆饼": [
+      "flavor-jiangsu-ab5a3c1ef6"
+    ],
+    "泗洪大闸蟹": [
+      "flavor-jiangsu-fc05c9ed72"
+    ],
+    "南通嵌桃麻糕": [
+      "flavor-jiangsu-cf85633184"
+    ],
+    "金坛雀舌": [
+      "flavor-jiangsu-952840c1a7"
+    ],
+    "建湖藕粉圆": [
+      "flavor-jiangsu-4e8ed3625f"
+    ],
+    "泰州干丝": [
+      "flavor-jiangsu-3d8c9c7faf"
+    ],
+    "双峰牛奶": [
+      "flavor-zhejiang-7398a8f0ff"
+    ],
+    "双喜牛奶": [
+      "flavor-jiangsu-7444c0c71c"
+    ],
+    "卫岗牛奶": [
+      "flavor-jiangsu-dab8ddad8b"
+    ],
+    "快鹿牛奶": [
+      "flavor-jiangsu-61a53284e1"
+    ],
+    "美丽健乳品": [
+      "flavor-zhejiang-f9932d112c"
+    ],
+    "宁波牛奶": [
+      "flavor-zhejiang-6731e08cc7"
+    ],
+    "开洋葱油拌面": [
+      "flavor-shanghai-fef9d5f9dc"
+    ],
+    "上海黄鱼面": [
+      "flavor-shanghai-eba6f92c80"
+    ],
+    "上海蟹粉面": [
+      "flavor-shanghai-b57c5af186"
+    ],
+    "平阳黄汤": [
+      "flavor-zhejiang-b9411c1995"
+    ],
+    "海盐兰丰香茗": [
+      "flavor-zhejiang-4c34b0a89a"
+    ],
+    "天台山云雾茶": [
+      "flavor-zhejiang-90583088da"
+    ],
+    "仁昌酱园酱油": [
+      "flavor-zhejiang-aa6ad12949"
+    ],
+    "绍兴酱鸭（安昌做法）": [
+      "flavor-zhejiang-2377408f11"
+    ],
+    "茉沏": [
+      "tea-jiangsu-626b4bc35c"
+    ],
+    "新时沏": [
+      "tea-zhejiang-8c1308ad41"
+    ],
+    "兰溪鸡子馃": [
+      "county-zhejiang-ca51060314"
+    ],
+    "衢州烤饼": [
+      "county-zhejiang-3920091c36"
+    ],
+    "兰溪手擀面": [
+      "county-zhejiang-5a43422574"
+    ],
+    "兰溪咸汤圆": [
+      "county-zhejiang-1d48f9a41c"
+    ],
+    "兰溪烧麦": [
+      "county-zhejiang-51f21c1e29"
+    ],
+    "兰溪清明粿": [
+      "county-zhejiang-3f026c8ab0"
+    ],
+    "龙游北乡汤团": [
+      "county-zhejiang-10d77fb660"
+    ],
+    "龙游粉干": [
+      "county-zhejiang-a6723e92b5"
+    ],
+    "龙游米糊": [
+      "county-zhejiang-6f5645b85e"
+    ],
+    "龙游豆腐丸子": [
+      "county-zhejiang-73e46a304b"
+    ],
+    "苍南海蜈蚣（沙蚕）": [
+      "county-zhejiang-6551e72666"
+    ],
+    "松阳灰汁糕": [
+      "lead-d4be9039038111"
+    ],
+    "童子尿蛋": [
+      "lead-c1dc88453067d9"
+    ],
+    "泥蒜冻": [
+      "lead-19961386eea2c5"
+    ],
+    "文成椒盐蜂蛹": [
+      "lead-b31a98b9198460"
+    ],
+    "百打糕": [
+      "lead-a0004679a47bf4"
+    ],
+    "菱毛头": [
+      "lead-5569c983399fcd"
+    ],
+    "六谷饼": [
+      "lead-95aa316c17e23e"
+    ],
+    "海盐藕粉饺": [
+      "lead-e94fb6b03f4748"
+    ],
+    "绮园大饼": [
+      "lead-f938ea5ba2e125"
+    ],
+    "天资乳品（唯得、锡山）": [
+      "lead-wuxi-tianzi"
+    ],
+    "天资牛牛鲜乳茶": [
+      "wuxi-tianzi-niuniu"
+    ],
+    "金山蟠桃": [
+      "regional-31ecbb324bb4fe"
+    ],
+    "三林崩瓜": [
+      "regional-264f2621d14e5d"
+    ],
+    "崇明金瓜": [
+      "regional-e0ff41a2b15035"
+    ],
+    "亭林雪瓜": [
+      "regional-5ae51ae140f92b"
+    ],
+    "马陆葡萄": [
+      "regional-121b3f2e1ed3be"
+    ],
+    "庄行蜜梨": [
+      "regional-be4d63ab7a02a1"
+    ],
+    "奉贤黄桃": [
+      "regional-6aa5367591926c"
+    ],
+    "彭镇青扁豆": [
+      "regional-c8d472d1a22ec2"
+    ],
+    "常山胡柚": [
+      "regional-b71b629407c335"
+    ],
+    "仙居杨梅": [
+      "regional-0f9a12585365c8"
+    ],
+    "浦江巨峰葡萄": [
+      "regional-892bbcea57b99b"
+    ],
+    "邳州板栗": [
+      "regional-a0b2f131c5d737"
+    ],
+    "如东泥螺": [
+      "regional-0a928208b0ecab"
+    ],
+    "兴化大米": [
+      "regional-27f20cfe02c449"
+    ],
+    "赣榆梭子蟹": [
+      "regional-1878f697e9d0ed"
+    ],
+    "庆元香菇": [
+      "regional-38c9295a3cac60"
+    ],
+    "开化黑木耳": [
+      "regional-fe04431310d3c6"
+    ],
+    "江山白菇": [
+      "regional-8af0d67492d045"
+    ],
+    "临海西兰花": [
+      "regional-ee4132cfe1d6d2"
+    ],
+    "平湖西瓜": [
+      "regional-e47bf666f4945d"
+    ],
+    "金塘李": [
+      "regional-971e62df8ec86b"
+    ],
+    "南京金箔": [
+      "regional-1a530d7092dcb0"
+    ],
+    "苏州缂丝": [
+      "regional-6ad4439b924d2a"
+    ],
+    "扬州玉雕": [
+      "regional-011d5679ab0c7d"
+    ],
+    "扬州漆器": [
+      "regional-6c556c676d44e0"
+    ],
+    "扬州剪纸": [
+      "regional-2d07a0a68574ea"
+    ],
+    "南通蓝印花布": [
+      "regional-7fd90cdcf86c65"
+    ],
+    "南通藍印花布": [
+      "regional-7fd90cdcf86c65"
+    ],
+    "龙泉宝剑": [
+      "regional-ef65a49943ef4d"
+    ],
+    "乐清黄杨木雕": [
+      "regional-80148cd3b298b0"
+    ],
+    "乐清细纹刻纸": [
+      "regional-c0699d3a31e35e"
+    ],
+    "湖笔": [
+      "regional-79e6536081f5e3"
+    ],
+    "仙居花灯": [
+      "regional-18095277561b47"
+    ],
+    "富阳竹纸": [
+      "regional-23a08a390a85d9"
+    ],
+    "乌泥泾手工棉纺织品": [
+      "regional-ef32c853822392"
+    ],
+    "华士冰油": [
+      "regional-0556a899e76d7d"
+    ],
+    "宝应荷藕": [
+      "lead-web-baoying-lotus"
+    ],
+    "河上桔红糕": [
+      "county-9270e3167929d6"
+    ],
+    "塘栖小桃酥": [
+      "county-6e6ac0481bb8f3"
+    ],
+    "昌南山牛蒡粿": [
+      "county-e195be034c060f"
+    ],
+    "桐庐米粿": [
+      "county-2c3de7a71bfc32"
+    ],
+    "安上粉皮": [
+      "county-e94ff2e1b68af8"
+    ],
+    "建德状元饼": [
+      "county-0af507918087c0"
+    ],
+    "建德水米糕": [
+      "county-617b37391e3d0c"
+    ],
+    "三都麻糍": [
+      "county-b621ef47566622"
+    ],
+    "塘栖粢毛肉圆": [
+      "county-934d0a3bcc0e69"
+    ],
+    "永昌臭豆腐": [
+      "county-0f717bff82f4a2"
+    ],
+    "海曙乌饭麻糍": [
+      "county-a11dbab0552600"
+    ],
+    "北仑虾刺年糕": [
+      "county-0f14d417c71776"
+    ],
+    "鄞州阿明包子": [
+      "county-2df168523dea30"
+    ],
+    "奉化千层饼": [
+      "county-1b8b20507baf90"
+    ],
+    "陆埠豆酥糖": [
+      "county-9cd08305709a26"
+    ],
+    "宁海麦饼": [
+      "county-c4761d6e18be3b"
+    ],
+    "象山米馒头": [
+      "county-f904b934f6af03"
+    ],
+    "象山鱼糍面": [
+      "county-a80af01d730b9c"
+    ],
+    "龙湾纱面汤": [
+      "county-b645178d4e274a"
+    ],
+    "乐清瓦头锦": [
+      "county-5da1babea2e2c1"
+    ],
+    "永嘉麦饼": [
+      "county-c10d7f850f8864"
+    ],
+    "平阳炒粉干": [
+      "county-18d9c51886d6da"
+    ],
+    "里光婆饼": [
+      "county-a5cbd12df14ae3"
+    ],
+    "矾山肉燕": [
+      "county-7a0969fc8211ad"
+    ],
+    "洞头墨鱼饼": [
+      "county-1418f65fc0122b"
+    ],
+    "文成农家绿豆腐": [
+      "county-f3ce7b76225025"
+    ],
+    "湖州茶食四珍": [
+      "county-2e798a84b2f07d"
+    ],
+    "湖州大馄饨": [
+      "county-959282e13289a1"
+    ],
+    "南浔红烧羊肉面": [
+      "county-76caa74a867597"
+    ],
+    "南浔桑果糕": [
+      "county-225240819615d4"
+    ],
+    "安吉吴均汤包": [
+      "county-8039c11dc6014c"
+    ],
+    "凤桥梅花糕": [
+      "county-ba0363c1697aaa"
+    ],
+    "王江泾芝麻栗酥": [
+      "county-a2f85c446eb815"
+    ],
+    "西塘八珍糕": [
+      "county-b88770603ca654"
+    ],
+    "平湖蟹壳黄": [
+      "county-27c75b1c4c6858"
+    ],
+    "乌镇姑嫂饼": [
+      "county-09ff6176cbcd30"
+    ],
+    "乌镇定胜糕": [
+      "county-8c42f2e287ed21"
+    ],
+    "嘉善西塘粉蒸肉": [
+      "county-ac3d5f0832e654"
+    ],
+    "西施团圆饼": [
+      "county-8120694dcb176f"
+    ],
+    "诸暨糖漾": [
+      "county-6f5cfe71a1e5df"
+    ],
+    "嵊州炒榨面": [
+      "county-033de905926910"
+    ],
+    "谢塘五香干": [
+      "county-bc3d34f971befd"
+    ],
+    "金华佛手饼": [
+      "county-1ea5c4acc36720"
+    ],
+    "东阳沃面": [
+      "county-8d6773813fe342"
+    ],
+    "浦江一根面": [
+      "county-b7e0867cf491cf"
+    ],
+    "武义艾糕": [
+      "county-c2fae9573e966f"
+    ],
+    "磐安大蒜饼": [
+      "county-02f749891d42a6"
+    ],
+    "方前扁食": [
+      "county-30271f64fc9b63"
+    ],
+    "杜泽灌肠": [
+      "county-1b0325affb1032"
+    ],
+    "江山米糕": [
+      "county-10452abda324b1"
+    ],
+    "常山麦香饼": [
+      "county-48d675976f47ea"
+    ],
+    "桐村碱水粽": [
+      "county-0bdee5a3bb5b3b"
+    ],
+    "普陀观音饼": [
+      "county-54f1e107445f13"
+    ],
+    "倭井潭硬糕": [
+      "county-a49acd4d929bb5"
+    ],
+    "舟山带鱼饭": [
+      "county-6f00f242ded977"
+    ],
+    "椒江姜汁核桃调蛋": [
+      "county-997eb2829a5203"
+    ],
+    "沙埠豆腐干": [
+      "county-7c5881ed0f1e83"
+    ],
+    "螺洋三宝": [
+      "county-3d3f1733b7fa22"
+    ],
+    "临海糟羹": [
+      "county-8c61f8b90934fc"
+    ],
+    "仙居泡鲞": [
+      "county-4b0aed0268cddf"
+    ],
+    "黄岩红糖烤糖": [
+      "county-e544e611fe8709"
+    ],
+    "宁溪麦鼓头": [
+      "county-a2400dd1f4bbfd"
+    ],
+    "温岭泡虾": [
+      "county-10b27f4d048962"
+    ],
+    "玉环敲鱼皮馄饨": [
+      "county-202abc83b24ced"
+    ],
+    "三门松花饼": [
+      "county-3ebcae7a657306"
+    ],
+    "龙泉金观音饼": [
+      "county-1597178be55d93"
+    ],
+    "青田国师饼": [
+      "county-33005d6867555b"
+    ],
+    "云和油筒饼": [
+      "county-91588bb765e7be"
+    ],
+    "庆元黄粿": [
+      "county-1557668417b4da"
+    ],
+    "庆元乌米饭": [
+      "county-722133bf972660"
+    ],
+    "缙云敲肉羹": [
+      "county-671f68524ee22e"
+    ],
+    "伊利苏州乳品": [
+      "county-42617c58722d32"
+    ],
+    "金力乳品": [
+      "county-6def1f7890cf4d"
+    ],
+    "南京光明乳品": [
+      "county-a3edc614b8625d"
+    ],
+    "扬大康源乳品": [
+      "county-de55d4527fc139"
+    ],
+    "梁丰乳品": [
+      "county-67c9b35707dfd6"
+    ],
+    "常州红梅乳品": [
+      "county-ce3297a751a578"
+    ],
+    "明治苏州乳品": [
+      "county-a442c88617077f"
+    ],
+    "优诺昆山乳品": [
+      "county-6c53d584694bce"
+    ],
+    "卡士苏州酸奶": [
+      "county-a6cc838be49400"
+    ],
+    "一鸣江苏乳品": [
+      "county-cc9ad8395735b8"
+    ],
+    "健桥乳品": [
+      "county-a07802cf5130dd"
+    ],
+    "绿健乳品": [
+      "county-694bd8b8fc97f6"
+    ],
+    "优格宿迁酸奶": [
+      "county-7d4abf05969ad0"
+    ],
+    "君乐宝江苏乳品": [
+      "county-569205c5897b86"
+    ],
+    "卫岗新沂乳品": [
+      "county-3bf5f6c2992616"
+    ],
+    "光明银宝乳品": [
+      "county-a6e482d867620d"
+    ],
+    "华兴乳品": [
+      "county-6ea4548df813b3"
+    ],
+    "莱益塔奶酪": [
+      "county-204c0d09f69133"
+    ],
+    "大旺南京调制乳": [
+      "county-cc2c6fe00f78dc"
+    ],
+    "练湖乳品": [
+      "county-968a4c6f16bbed"
+    ],
+    "南通红梅乳品": [
+      "county-6cbcb957983103"
+    ],
+    "维扬乳品": [
+      "county-19fed11b1a24fa"
+    ],
+    "三元双宝乳品": [
+      "county-b3ef0a8f3fc9b3"
+    ],
+    "连望乳品": [
+      "county-05564482fde9df"
+    ],
+    "蒙牛宿迁乳品": [
+      "county-b8826e8faa9b71"
+    ],
+    "养乐多无锡乳酸菌饮品": [
+      "county-3ca3ad30befffe"
+    ],
+    "志威乳品与食品配料": [
+      "county-64f43db7758a47"
+    ],
+    "河横大米": [
+      "program-fe851d7994704219c6"
+    ],
+    "宁波金柑": [
+      "program-6e0af5cb316f590bb6"
+    ],
+    "遂昌竹炭": [
+      "program-b079884931c38deae9"
+    ],
+    "兴化香葱": [
+      "program-96a573a0e406443bea"
+    ],
+    "常山山茶油": [
+      "program-17e5044b66df5ccbf0"
+    ],
+    "严东关五加皮酒": [
+      "program-9e23efcbe056ea498a"
+    ],
+    "姚庄蘑菇": [
+      "program-fe2c916396e0fb9657"
+    ],
+    "王店三园鸡": [
+      "program-50787800c20588a7fa"
+    ],
+    "东海水晶": [
+      "program-ce6673a3ba1e30dc26"
+    ],
+    "崇明老毛蟹": [
+      "program-eeac741fc9f04306ec"
+    ],
+    "固城湖螃蟹": [
+      "program-c03f6705407d673f52"
+    ],
+    "南通长江河豚(养殖)": [
+      "program-9b514e0aa22ab4f102"
+    ],
+    "德清早园笋": [
+      "program-ba036e92775d8f2535"
+    ],
+    "海盐大头菜": [
+      "program-159e4d2813c613c0f1"
+    ],
+    "丁岙杨梅": [
+      "program-031ae609f8d046cf04"
+    ],
+    "崇明老白酒": [
+      "program-0ecf8670f24a11093c"
+    ],
+    "练塘茭白": [
+      "program-232f448ba80dff3d3b"
+    ],
+    "东海大米": [
+      "program-61c1d7e42b8f8667fd"
+    ],
+    "天目山铁皮石斛": [
+      "program-c67fec224758b5610e"
+    ],
+    "射阳大米": [
+      "program-e7dc906ebe38aa1d4e"
+    ],
+    "邳州白蒜": [
+      "program-b9758472b25d7b72cd"
+    ],
+    "长兴吊瓜籽": [
+      "program-fb9c79c5fa74cb3489"
+    ],
+    "松阳茶": [
+      "program-8c1ffcd4ced60b5eb0"
+    ],
+    "建德苞茶": [
+      "program-b312efc0c588d3b42d"
+    ],
+    "盱眙龙虾": [
+      "program-edf4e769620d541dfa"
+    ],
+    "兴化红皮小麦": [
+      "program-f811957d66321a6ba8"
+    ],
+    "狼山鸡": [
+      "program-3a0cfd17846c61bca3"
+    ],
+    "临海杨梅": [
+      "program-c1623417b37b463101"
+    ],
+    "南湖菱": [
+      "program-09ac783f2e867840fb"
+    ],
+    "东海(老)淮猪肉": [
+      "program-71309850dabc44c795"
+    ],
+    "象山白鹅": [
+      "program-a0cb546fe73c2dff8e"
+    ],
+    "邳州银杏": [
+      "program-28ba2e5c8687b64360"
+    ],
+    "海门山羊肉": [
+      "program-e1c0fcd2e2ea10f9a5"
+    ],
+    "里叶白莲": [
+      "program-0302cc250d8db37d49"
+    ],
+    "衢州莹白瓷": [
+      "program-d53a44f1ea0975b220"
+    ],
+    "云和黑木耳": [
+      "program-e5235698373adb4c6b"
+    ],
+    "杭州丝绸": [
+      "program-9107a30f5e325737df"
+    ],
+    "仓桥水晶梨": [
+      "program-f37054fcc3b4e95797"
+    ],
+    "洪泽湖大闸蟹": [
+      "program-28debef04ecd5ab400"
+    ],
+    "窑湾绿豆烧": [
+      "program-e46184571d958f10c1"
+    ],
+    "灌南金针菇": [
+      "program-5293ae99d49aebb9dc"
+    ],
+    "黄川草莓": [
+      "program-85d0f8c2dea5238918"
+    ],
+    "邳州苔干": [
+      "program-d18e4daa910de249c9"
+    ],
+    "余姚皮蛋": [
+      "program-839101635175200696"
+    ],
+    "余姚咸蛋": [
+      "program-0544c680a18a8f3e96"
+    ],
+    "新沂水蜜桃": [
+      "program-ac3822bbcaf7f654cc"
+    ],
+    "盐城海盐": [
+      "program-6a317da3141c40ddb7"
+    ],
+    "松江大米": [
+      "program-e58ed7b7b025707748"
+    ],
+    "石梁河葡萄": [
+      "program-6b04be959222e58231"
+    ],
+    "大丰东沙紫菜": [
+      "program-62c49e0766b0a8f83c"
+    ],
+    "径山茶": [
+      "program-7a34f10e56f5b1045c"
+    ],
+    "大纵湖大闸蟹": [
+      "program-fbdd4b49886f73413b"
+    ],
+    "兴化大闸蟹": [
+      "program-a9daf3765a9ec8e91b"
+    ],
+    "板浦滴醋": [
+      "program-2ede64f4d8a9307072"
+    ],
+    "高邮湖大闸蟹": [
+      "program-31ee1600ede13ff27e"
+    ],
+    "如东条斑紫菜": [
+      "program-ed164f1c70afad9f5c"
+    ],
+    "东海西红柿": [
+      "program-5c1a72c29fb99ef509"
+    ],
+    "如皋黄酒": [
+      "program-311478152a091e161b"
+    ],
+    "丁庄葡萄": [
+      "program-531f4199d2d5ca10a2"
+    ],
+    "邵伯菱": [
+      "program-29ae7c2db99a1e5ee3"
+    ],
+    "如皋火腿": [
+      "program-88aef3a06c7f3289c4"
+    ],
+    "千岛银珍": [
+      "program-7d92c5916d8e9dd59b"
+    ],
+    "普陀佛茶": [
+      "program-b99ab57e6be99e02c2"
+    ],
+    "金华两头乌猪": [
+      "program-65bdd6a826ed1ff89d"
+    ],
+    "金华猪": [
+      "program-65bdd6a826ed1ff89d"
+    ],
+    "金華豬": [
+      "program-65bdd6a826ed1ff89d"
+    ],
+    "崇明白山羊": [
+      "program-f609baecc538f8d370"
+    ],
+    "枫泾猪": [
+      "program-58a6c32e81e3ba244c",
+      "program-58a6c32e81e3ba244c"
+    ],
+    "崇明沙乌头猪": [
+      "program-5b0978307a41cd75f9"
+    ],
+    "白鹤草莓": [
+      "program-e7a556e1331ae2253d"
+    ],
+    "青浦薄稻米": [
+      "program-2cfbbc5b91eeeb3ddb"
+    ],
+    "七宝黄金瓜": [
+      "program-5e965109d74007b527"
+    ],
+    "金山翠芽": [
+      "program-b0f9818f7ab8d4ebf4"
+    ],
+    "兴化大青虾": [
+      "program-6178ddf3010bb7e1b7"
+    ],
+    "吴江香青菜": [
+      "program-cb4b3c2e45373818f6"
+    ],
+    "裕华大蒜": [
+      "program-99c3abd4ae153a38fe"
+    ],
+    "焦溪二花脸猪": [
+      "program-f7bd2d4aa8906af045"
+    ],
+    "二花脸猪": [
+      "program-f7bd2d4aa8906af045"
+    ],
+    "溧阳白芹": [
+      "program-26782054cd3d5e834f"
+    ],
+    "泰兴花生": [
+      "program-7beba680bc0a21feab"
+    ],
+    "贾汪大洞山石榴": [
+      "program-b4a94d047dfb6494fe"
+    ],
+    "宝应慈姑": [
+      "program-edef7a0767b0f574da"
+    ],
+    "谢湖大樱桃": [
+      "program-bfff5b27a248ec9a39"
+    ],
+    "白马黑莓": [
+      "program-4e17595d7e6d9f89f7"
+    ],
+    "八集小花生": [
+      "program-165a6ffbbc9e40c365"
+    ],
+    "靖江香沙芋": [
+      "program-a26426fe5f6fe0fcb3"
+    ],
+    "海门黄鸡": [
+      "program-7ae583fb1597dc444b"
+    ],
+    "溧阳鸡": [
+      "program-1299e37144d203a0ee"
+    ],
+    "宝应核桃乌青菜": [
+      "program-d443ff83ab0f383de3"
+    ],
+    "如皋黄鸡": [
+      "program-f2e2fbfe6b0f4d5917"
+    ],
+    "建湖青虾": [
+      "program-7bfc678cd7d3a69648"
+    ],
+    "泰兴荞麦": [
+      "program-a3e116eea5f4e82b2d"
+    ],
+    "淮安蒲菜": [
+      "program-a1ede2b78f61b84217"
+    ],
+    "海门香芋": [
+      "program-44cde5416be75c805a"
+    ],
+    "阜宁西瓜": [
+      "program-975897972bd2f2b932"
+    ],
+    "泰兴元麦": [
+      "program-d25d1ac6eb5f2fc4ee"
+    ],
+    "启东青皮长茄": [
+      "program-4ac0992ab947170a95"
+    ],
+    "启东洋扁豆": [
+      "program-9da74153e869f54f99"
+    ],
+    "万年香沙芋艿": [
+      "program-e51a82b00084bce2fb"
+    ],
+    "泰兴香荷芋": [
+      "program-237d1e4579a1640521"
+    ],
+    "吴中鸡头米": [
+      "program-fdd6246a7f38b22e9f"
+    ],
+    "启东绿皮蚕豆": [
+      "program-c8ea6b66551333c7d0"
+    ],
+    "林苗圃早酥梨": [
+      "program-21f13fdc8bf9cf2dfc"
+    ],
+    "花园酥梨": [
+      "program-5283ba44455cc79fc5"
+    ],
+    "海门大红袍赤豆": [
+      "program-3ae9804b63845fed35"
+    ],
+    "启东沙地山药": [
+      "program-d9706e4395c48f3292"
+    ],
+    "罗圩香茄": [
+      "program-5c140fccd13a3c92e2"
+    ],
+    "杉荷园莲藕": [
+      "program-549ff4a8451701c149"
+    ],
+    "启东芦稷": [
+      "program-5ecb48106cda7954c4"
+    ],
+    "海门大白皮蚕豆": [
+      "program-948d1083bcebf97adc"
+    ],
+    "横溪西瓜": [
+      "program-bee571526a28f516ec"
+    ],
+    "泗阳鲜桃": [
+      "program-1701374b3df07ce70f"
+    ],
+    "高墟大米": [
+      "program-4b825a7c79bc3084b0"
+    ],
+    "姜堰大米": [
+      "program-c8ef2925559d6c25c5"
+    ],
+    "东台大米": [
+      "program-a0a8e3f81f4f45b70c"
+    ],
+    "沈灶青椒": [
+      "program-d0bbc6c79bf57467f8"
+    ],
+    "利民芦蒿": [
+      "program-889e79341810d25c95"
+    ],
+    "四河青萝卜": [
+      "program-367d4467c6179c4396"
+    ],
+    "东台西瓜": [
+      "program-dbd607e2ea53bf4ddc"
+    ],
+    "潼阳西瓜": [
+      "program-f129042c62e3c10a4b"
+    ],
+    "土桥大米": [
+      "program-5f3a0db350de0e878f"
+    ],
+    "宿迁籼米": [
+      "program-2e3bef459542f01c86"
+    ],
+    "董浜筒管玉丝瓜": [
+      "program-cc406941b05ae7e061"
+    ],
+    "王庄西瓜": [
+      "program-100b81fd8c50389eb6"
+    ],
+    "马山杨梅": [
+      "program-7ebecd23e2a663b7e6"
+    ],
+    "铜山金杏": [
+      "program-3f2ef34e2ff8ea2a6e"
+    ],
+    "陈集葡萄": [
+      "program-000ccb77dea239577e"
+    ],
+    "东山白沙枇杷": [
+      "program-8bce3cb68917f0dc5d"
+    ],
+    "响水西兰花": [
+      "program-d5b622a12442cdaee9"
+    ],
+    "弶港甜叶菊": [
+      "program-7283aef4bb568210fb"
+    ],
+    "仪征紫菜薹": [
+      "program-d77809b55e0bd1e073"
+    ],
+    "泗阳白酥梨": [
+      "program-efeca31dd6877ba8e6"
+    ],
+    "魏营西瓜": [
+      "program-715d869ea4206c44e7"
+    ],
+    "龙集莲子": [
+      "program-5cdadebf17cf81ee96"
+    ],
+    "下原蘘荷": [
+      "program-d19ac0413b8d4ca83d"
+    ],
+    "凤凰水蜜桃": [
+      "program-b08ddbf5ceae160e58"
+    ],
+    "溱湖簖蟹": [
+      "program-8a866f1b44508d2cb3"
+    ],
+    "董浜黄金小玉米": [
+      "program-e526c1be014db4090f"
+    ],
+    "天岗湖蜜桃": [
+      "program-4eab009f4bd733946c"
+    ],
+    "棠张桑果": [
+      "program-4fc6bbefeaee40de1b"
+    ],
+    "西山青种枇杷": [
+      "program-e3b1d9cf60609d3089"
+    ],
+    "树山杨梅": [
+      "program-3e04ae2ea27d92ebb7"
+    ],
+    "仰化荷藕": [
+      "program-d684543f159626b154"
+    ],
+    "许河冬瓜": [
+      "program-1012386b156d7f8d71"
+    ],
+    "太仓白蒜": [
+      "program-f2f13abcca21bd0860"
+    ],
+    "龙池鲫鱼": [
+      "program-e649205131e72039f0"
+    ],
+    "永宁青虾": [
+      "program-12df552abb24a2fd2b"
+    ],
+    "泰兴江沙蟹": [
+      "program-2c9aa2e2e7379d8eea"
+    ],
+    "东海老淮猪": [
+      "program-664cee6582a1a02578"
+    ],
+    "黄尖菊花": [
+      "program-8d95b2a687fcf6dd0f"
+    ],
+    "吕墅萝卜": [
+      "program-332381b4464d32815b"
+    ],
+    "盐东羊角椒": [
+      "program-141043aa3b4072c57b"
+    ],
+    "新毛芋艿": [
+      "program-9dda37c47ab7d9fe9c"
+    ],
+    "响水浅水藕": [
+      "program-96f558971915da6175"
+    ],
+    "如东蘘荷": [
+      "program-455df1827077737c1e"
+    ],
+    "弶港文蛤": [
+      "program-16a167fde999889a64"
+    ],
+    "弶港泥螺": [
+      "program-eacbf68b82b0b02af8"
+    ],
+    "龙虬罗氏沼虾": [
+      "program-4e1ec8c9d3f67c066c"
+    ],
+    "富财圩螃蟹": [
+      "program-f369a901125d87d017"
+    ],
+    "泰兴雪梨": [
+      "program-ae186a0b85daa1b795"
+    ],
+    "骑岸大方柿": [
+      "program-f11e66aac849a6a9fc"
+    ],
+    "张浦黄桃": [
+      "program-082ca87af5fc1a9a9c"
+    ],
+    "恒北早酥梨": [
+      "program-ae7404f0e29ba02198"
+    ],
+    "石桥黄桃": [
+      "program-58262a36f2ba83f732"
+    ],
+    "阳湖水蜜桃": [
+      "program-af3d6915473dd0bf5d"
+    ],
+    "潼阳花生": [
+      "program-ecbbbef1513e80a433"
+    ],
+    "新官紫桃": [
+      "program-398b3942ec9c5b0c90"
+    ],
+    "南阳辣根": [
+      "program-fe245b68347717b7b9"
+    ],
+    "岔河大米": [
+      "program-de564a601182ed1ae8"
+    ],
+    "长兴紫笋茶": [
+      "program-27b946fc353fa6a90c"
+    ],
+    "慈溪葡萄": [
+      "program-bbe5af779dc865a0a8"
+    ],
+    "余姚瀑布仙茗": [
+      "program-8bd47807cea6ea4a6d"
+    ],
+    "缙云麻鸭": [
+      "program-bfc1cd5e7177c00860"
+    ],
+    "路桥枇杷": [
+      "program-b3397846e03ea5aa72"
+    ],
+    "三杯香茶": [
+      "program-efc1d183eb491ad06e"
+    ],
+    "桐乡槜李": [
+      "program-4bac6814fcb820538c"
+    ],
+    "舟山晚稻杨梅": [
+      "program-14a38df3adf07ee044"
+    ],
+    "建德草莓": [
+      "program-ccba042c5547aa7f20"
+    ],
+    "武义铁皮石斛": [
+      "program-5243e1fa4ca641ef2e"
+    ],
+    "桐庐雪水云绿茶": [
+      "program-4711edee18b7a6e021"
+    ],
+    "天目青顶": [
+      "program-b1051fbcad5003c4af"
+    ],
+    "义乌红糖": [
+      "program-7165760f9c51e71fff"
+    ],
+    "长街蛏子": [
+      "program-82a7045ce07260d384"
+    ],
+    "浦江葡萄": [
+      "program-b81c6d5e4e9d66eb58"
+    ],
+    "湖州太湖鹅": [
+      "program-b0db46e33b4e8c1fb5"
+    ],
+    "宁波岱衢族大黄鱼": [
+      "program-d9fd3abba1e73551df"
+    ],
+    "缙云米仁": [
+      "program-e7fe9a78e57cd0b9c3"
+    ],
+    "余姚甲鱼": [
+      "program-952281248ae11293a5"
+    ],
+    "金华佛手": [
+      "program-72d93d7193018fb07d"
+    ],
+    "湖州湖羊": [
+      "program-80f65d0c7afd41031e"
+    ],
+    "湖羊": [
+      "program-80f65d0c7afd41031e"
+    ],
+    "永康方山柿": [
+      "program-47c10ccd96b7dbaa0d"
+    ],
+    "兰溪小萝卜": [
+      "program-50c04dfda3c23466c5"
+    ],
+    "云和雪梨": [
+      "program-0a75a7a0b2487bf477"
+    ],
+    "兰溪杨梅": [
+      "program-548b6b7d9865a13d80"
+    ],
+    "黄岩红糖": [
+      "program-a74f308674ff1480c4"
+    ],
+    "永康五指岩生姜": [
+      "program-c0d2ee3aa076aa4713"
+    ],
+    "雁荡山铁皮石斛": [
+      "program-2dc98a1f1786e5dd3e"
+    ],
+    "鸠坑茶": [
+      "program-5eac2136ceceac1f57"
+    ],
+    "兰溪毛峰": [
+      "program-eae36479341b28a187"
+    ],
+    "武阳春雨": [
+      "program-0469443018fbfb1456"
+    ],
+    "泰顺猕猴桃": [
+      "program-a2b265158b3df2abca"
+    ],
+    "兰溪枇杷": [
+      "program-b325f8ac475b18a339"
+    ],
+    "溪口雷笋": [
+      "program-f4053785385f549eb0"
+    ],
+    "凤桥水蜜桃": [
+      "program-fe46021a908c7f2762"
+    ],
+    "黄岩东魁杨梅": [
+      "program-a2ac9f7abf1618d390"
+    ],
+    "遂昌菊米": [
+      "program-7f016f6f9af6917f6a"
+    ],
+    "慈溪蜜梨": [
+      "program-51a55e7eb92da21471"
+    ],
+    "永康舜芋": [
+      "program-c9cf9e8aabef12de63"
+    ],
+    "嵊州香榧": [
+      "program-0440e83f7a6be6ee98"
+    ],
+    "平水日铸茶": [
+      "program-fd1350535b9d2d27bf"
+    ],
+    "杨庙雪菜": [
+      "program-e2776e1553a3fc732a"
+    ],
+    "青田杨梅": [
+      "program-914ea7b8444f2249d1"
+    ],
+    "枫桥香榧": [
+      "program-630363fe6cc55ac608"
+    ],
+    "宁海白枇杷": [
+      "program-aa31c3e002f77868c3"
+    ],
+    "余姚榨菜": [
+      "program-0e85ea4f2b67d04074"
+    ],
+    "余姚杨梅": [
+      "program-68c9d9cc74b934f29e"
+    ],
+    "临安山核桃": [
+      "program-a873f83973b70e5c08"
+    ],
+    "缙云茭白": [
+      "program-e58f4909022229efb5"
+    ],
+    "武义宣莲": [
+      "program-1c6d641fc077279e2e"
+    ],
+    "永康灰鹅": [
+      "program-343501d445efacd201"
+    ],
+    "董家茭白": [
+      "program-6fc8791afa61ade4ee"
+    ],
+    "胥仓雪藕": [
+      "program-24dd6128f6782386ee"
+    ],
+    "温州早茶": [
+      "program-e75880a2d8bc4cc11c"
+    ],
+    "丽水枇杷": [
+      "program-a2911fde28c625f889"
+    ],
+    "二都杨梅": [
+      "program-cb50d37d440c57647c"
+    ],
+    "嵊州桃形李": [
+      "program-3fda6f729a1bd76d0c"
+    ],
+    "处州白莲": [
+      "program-aa3e64dac0dfccd624"
+    ],
+    "缙云黄花菜": [
+      "program-56e1efeda0fe6deb2f"
+    ],
+    "婺州蜜梨": [
+      "program-e7d6c4d345e7e7e5fe"
+    ],
+    "桐琴蜜梨": [
+      "program-01a0bb268013422421"
+    ],
+    "江山猕猴桃": [
+      "program-dd73b6a0366f5f90d8"
+    ],
+    "青田御茶": [
+      "program-5c64588bca73328df1"
+    ],
+    "遂昌龙谷茶": [
+      "program-de5af22edce4d9f6c7"
+    ],
+    "遂昌土蜂蜜": [
+      "program-dbd690180403b7a650"
+    ],
+    "湖州桑基塘鱼": [
+      "program-5eb3e6f98840d9184e"
+    ],
+    "箬阳龙珍": [
+      "program-ed36b8aaf75edd6874"
+    ],
+    "上虞觉农翠茗茶": [
+      "program-1accf436cd18c2f6a2"
+    ],
+    "衢州玉露茶": [
+      "program-e476349206a8c52135"
+    ],
+    "海盐葡萄": [
+      "program-4449def58d160d3176"
+    ],
+    "姚庄黄桃": [
+      "program-a6ce5e1d7b0ead5814"
+    ],
+    "浦江桃形李": [
+      "program-e1e855c4a62da5a95c"
+    ],
+    "鸬鸟蜜梨": [
+      "program-31b4467821d37c5258"
+    ],
+    "丁宅水蜜桃": [
+      "program-927c1008e0133942be"
+    ],
+    "黄岩茭白": [
+      "program-b0ed8b55ea37516460"
+    ],
+    "安吉竹笋": [
+      "program-9bc0544b04198e0f8a"
+    ],
+    "七里茄子": [
+      "program-a9d33c05215d919cfa"
+    ],
+    "青田田鱼": [
+      "program-f12d26f4ebe2de3b3d"
+    ],
+    "开化清水鱼": [
+      "program-feb1b94584f52a9913"
+    ],
+    "安吉竹林鸡": [
+      "program-6d65b0f0ab38849a4b"
+    ],
+    "龙游麻鸡": [
+      "program-fac835789a3bbd2d2d"
+    ],
+    "慈溪泥螺": [
+      "program-63e02050f3848974e0"
+    ],
+    "汇潭甘蔗": [
+      "program-246e4e5079006083fd"
+    ],
+    "江山黄精": [
+      "program-0da3cd9ded28cab27b"
+    ],
+    "磐安茭白": [
+      "program-a2441e4c15edf32405"
+    ],
+    "长兴漾荡河蟹": [
+      "program-e822b96a4565ddcca4"
+    ],
+    "三门血蚶": [
+      "program-c0f598b978cfd1b3ab"
+    ],
+    "兰江蟹": [
+      "program-dad1d1ab00a724e78f"
+    ],
+    "海昌蜜梨": [
+      "program-84b00701c44811e208"
+    ],
+    "上虞野藤葡萄": [
+      "program-1d472f512332cd9302"
+    ],
+    "妙西黄桃": [
+      "program-4760ec902379f837d3"
+    ],
+    "义乌南枣": [
+      "program-4175f4b036c8702e75"
+    ],
+    "奉化曲毫(茶)": [
+      "program-a56f5e8f4db6470e5a"
+    ],
+    "余姚樱桃": [
+      "program-d14d774ab77cfa3311"
+    ],
+    "苍南四季柚": [
+      "program-26d6f62ebec0379a94"
+    ],
+    "淳安花猪": [
+      "program-37839bb9cc40c6b0d1"
+    ],
+    "南京板鸭": [
+      "program-d57a626c3ce64c6d4e"
+    ],
+    "蜜汁藕": [
+      "program-0609e430982ee84b7d"
+    ],
+    "活珠子": [
+      "program-2cd5ddaad9384d913c"
+    ],
+    "六合猪头肉": [
+      "program-d5602a522c52021577"
+    ],
+    "龙袍蟹黄汤包": [
+      "program-de65ba6e406a2f0df0"
+    ],
+    "镜箱豆腐": [
+      "program-fa0580904afa73edae"
+    ],
+    "江阴河豚": [
+      "program-95bbbd177ba96a1f19"
+    ],
+    "把子肉": [
+      "program-8da0619ace8cd0cc98"
+    ],
+    "烙馍卷馓子": [
+      "program-fa9c095a654da93482"
+    ],
+    "丰县白酥梨": [
+      "program-68e4bed3a4dc1514ce"
+    ],
+    "窑湾甜油": [
+      "program-ed8685c9610dafafeb"
+    ],
+    "横山桥百叶": [
+      "program-b7859d5704cc0647e9"
+    ],
+    "芙蓉螺蛳": [
+      "program-719d2052b40565d690"
+    ],
+    "金坛封缸酒": [
+      "program-5df5c46c94ca4e8e56"
+    ],
+    "溧阳扎肝": [
+      "program-5a664c83657dcca0a4"
+    ],
+    "焖肉面": [
+      "program-e72ebc9870137efcc5"
+    ],
+    "海棠糕": [
+      "program-9c7889e951b1eb051e"
+    ],
+    "清炒虾仁": [
+      "program-81dbb9497910dec6c4"
+    ],
+    "鸡头米": [
+      "program-86810aa25cacdad3f0"
+    ],
+    "太湖莼菜": [
+      "program-b1a4874251c754671a"
+    ],
+    "八珍糕": [
+      "program-72046fbc355a08a4ae"
+    ],
+    "蕈油面": [
+      "program-781bce8ec1eb5f1436"
+    ],
+    "袜底酥": [
+      "program-5f359c1f27e438c3fc"
+    ],
+    "白蒲黄酒": [
+      "program-ed426c197b2608c62d"
+    ],
+    "如皋萝卜干": [
+      "program-22ff153c3a02e8cadc"
+    ],
+    "林梓潮糕": [
+      "program-0cce21ab4a83aab374"
+    ],
+    "海门山羊": [
+      "program-9d2510dc5d7f4dd1e9"
+    ],
+    "赣榆煎饼": [
+      "program-e1957365058a237c41"
+    ],
+    "开洋蒲菜": [
+      "program-38ac2a37ac780abdc2"
+    ],
+    "高沟酒": [
+      "program-2ba366637d0997aee7"
+    ],
+    "拆烩鲢鱼头": [
+      "program-4d6967aac75af40133"
+    ],
+    "扬中河豚": [
+      "program-431b93a36c3c72fc61"
+    ],
+    "沙沟鱼圆": [
+      "program-3005ede8908dfe827e"
+    ],
+    "老汁鸡": [
+      "program-b194ab73f8e22a2f4e"
+    ],
+    "泗洪大米": [
+      "program-26656e09cfa02d8c81"
+    ],
+    "定胜糕": [
+      "program-a7b8193a6b06617401"
+    ],
+    "定勝糕": [
+      "program-a7b8193a6b06617401"
+    ],
+    "猫耳朵": [
+      "program-cf797a5d34ce94c299"
+    ],
+    "貓耳朵 (麵食)": [
+      "program-cf797a5d34ce94c299"
+    ],
+    "富春江鲥鱼": [
+      "program-186518ddc06524559c"
+    ],
+    "东坞山豆腐皮": [
+      "program-d04257c1ed912b1a71"
+    ],
+    "天目笋干": [
+      "program-f6c8b91b6cb8c567b6"
+    ],
+    "千岛湖鱼头": [
+      "program-c25f5a371d8e38239b"
+    ],
+    "红膏炝蟹": [
+      "program-830600722e34333438"
+    ],
+    "雪菜大黄鱼": [
+      "program-803e3524a965850747"
+    ],
+    "奉化芋艿头": [
+      "program-13e1add7f806de29e2"
+    ],
+    "前童三宝": [
+      "program-a86609ec0198f9a9cc"
+    ],
+    "温州馄饨": [
+      "program-339daedda641f600f1"
+    ],
+    "炒粉干": [
+      "program-ad14a4a1b6888ac573"
+    ],
+    "三丝敲鱼": [
+      "program-9dcb67aa763f9e9b83"
+    ],
+    "江蟹生": [
+      "program-b2f10a1359f7682f0c"
+    ],
+    "马站煎包": [
+      "program-80dda7aa3862a3263a"
+    ],
+    "湖岭牛排": [
+      "program-c8ea4c1de06ebe4052"
+    ],
+    "清江三鲜面": [
+      "program-e693335a56993e5eb9"
+    ],
+    "海宁缸肉": [
+      "program-e94a151c13ec0c3344"
+    ],
+    "海宁宴球": [
+      "program-b54f59c4470112428b"
+    ],
+    "诸老大粽子": [
+      "program-2a9624c030e3f673c7"
+    ],
+    "周生记馄饨": [
+      "program-1836d6a8da14bdfa67"
+    ],
+    "震远同茶食": [
+      "program-0863043ec9687f2fb1"
+    ],
+    "南浔双交面": [
+      "program-3929ff50fe37075ff1"
+    ],
+    "绍三鲜": [
+      "program-3e0dd03be25479e00d"
+    ],
+    "香雪酒": [
+      "program-27db8340ffb41f5cad"
+    ],
+    "豆腐年糕": [
+      "program-c1ec64e271186b66cc"
+    ],
+    "金华酥饼": [
+      "program-bb6fac915982500284"
+    ],
+    "金華酥餅": [
+      "program-bb6fac915982500284"
+    ],
+    "兰溪牛肉面": [
+      "program-3da257867e4698a58a"
+    ],
+    "佛堂白切羊肉": [
+      "program-08fd904af784a0c090"
+    ],
+    "上卢馄饨": [
+      "program-9d7ac298758697d713"
+    ],
+    "衢州鸭头": [
+      "program-3d77722d0b4c0c188b"
+    ],
+    "江山蜂蜜": [
+      "program-a386211ce8a2a89dcf"
+    ],
+    "姜汁调蛋": [
+      "program-7b0c2254598348d888"
+    ],
+    "天台饺饼筒": [
+      "program-bb737ce785e91e9f52"
+    ],
+    "仙居三黄鸡": [
+      "program-03b9fd2a8ea140fa9d"
+    ],
+    "温岭嵌糕": [
+      "program-080ccce4d789464f57"
+    ],
+    "庆元甜桔柚": [
+      "program-2854a6cc434658cb81"
+    ],
+    "枫泾丁蹄": [
+      "program-d6cae797e16775e4e8"
+    ],
+    "崇明白扁豆": [
+      "program-6993f75581cdcefca4"
+    ]
+  },
+  "notes": "目录名称与明确的繁简／同物名称作批量页面图片查询，不把页面首图或转向视为主体已核定。"
+}

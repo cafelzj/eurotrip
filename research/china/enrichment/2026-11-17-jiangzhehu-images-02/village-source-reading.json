@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-17",
+  "sources": [
+    {
+      "url": "https://www.d-cun.com/bottom/copyright-notice",
+      "status": "error",
+      "error": "HTTP Error 523: Unknown"
+    },
+    {
+      "url": "https://www.d-cun.com/",
+      "status": "error",
+      "error": "HTTP Error 523: Unknown"
+    }
+  ]
+}

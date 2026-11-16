@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-17",
+  "kind": "source-led-photo-pointer-followup-not-article-fact-adoption",
+  "jobs": [
+    {
+      "name": "江南大学 · 蠡湖校区",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "lang": "en",
+      "title": "Jiangnan University",
+      "url": "https://en.wikipedia.org/wiki/Jiangnan_University"
+    },
+    {
+      "name": "无锡大剧院",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "lang": "en",
+      "title": "Wuxi Grand Theatre",
+      "url": "https://en.wikipedia.org/wiki/Wuxi_Grand_Theatre"
+    },
+    {
+      "name": "无锡大剧院",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "lang": "zh",
+      "title": "无锡大剧院",
+      "url": "https://zh.wikipedia.org/wiki/%E6%97%A0%E9%94%A1%E5%A4%A7%E5%89%A7%E9%99%A2"
+    },
+    {
+      "name": "回龙窝历史文化街区",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "lang": "zh",
+      "title": "回龙窝历史文化街区",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9B%9E%E9%BE%99%E7%AA%9D%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E8%A1%97%E5%8C%BA"
+    },
+    {
+      "name": "彭城广场商圈",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "lang": "zh",
+      "title": "彭城广场",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%9F%8E%E5%B9%BF%E5%9C%BA"
+    },
+    {
+      "name": "采芝斋 · 糖果与苏式零食",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "lang": "zh",
+      "title": "采芝斋",
+      "url": "https://zh.wikipedia.org/wiki/%E9%87%87%E8%8A%9D%E6%96%8B"
+    },
+    {
+      "name": "黄天源 · 糕团与时令点心",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "lang": "zh",
+      "title": "黄天源",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E5%A4%A9%E6%BA%90"
+    },
+    {
+      "name": "三凤桥 · 酱排骨品牌线索",
+      "itemIds": [
+        "brand-wuxi-sanfengqiao"
+      ],
+      "lang": "zh",
+      "title": "三凤桥",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%87%A4%E6%A1%A5"
+    },
+    {
+      "name": "龙泉宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "lang": "en",
+      "title": "Longquan sword",
+      "url": "https://en.wikipedia.org/wiki/Longquan_sword"
+    },
+    {
+      "name": "龙泉宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "lang": "zh",
+      "title": "龙泉剑",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BE%99%E6%B3%89%E5%89%91"
+    },
+    {
+      "name": "南京金箔",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "lang": "zh",
+      "title": "南京金箔",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E9%87%91%E7%AE%94"
+    },
+    {
+      "name": "扬州剪纸",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "lang": "zh",
+      "title": "扬州剪纸",
+      "url": "https://zh.wikipedia.org/wiki/%E6%89%AC%E5%B7%9E%E5%89%AA%E7%BA%B8"
+    },
+    {
+      "name": "苏州宋锦",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "lang": "en",
+      "title": "Song brocade",
+      "url": "https://en.wikipedia.org/wiki/Song_brocade"
+    },
+    {
+      "name": "苏州宋锦",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "lang": "zh",
+      "title": "宋锦",
+      "url": "https://zh.wikipedia.org/wiki/%E5%AE%8B%E9%94%A6"
+    },
+    {
+      "name": "南通蓝印花布",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "lang": "zh",
+      "title": "蓝印花布",
+      "url": "https://zh.wikipedia.org/wiki/%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83"
+    },
+    {
+      "name": "湖笔",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "lang": "zh",
+      "title": "湖笔",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E7%AC%94"
+    },
+    {
+      "name": "文思豆腐",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "lang": "en",
+      "title": "Wensi tofu",
+      "url": "https://en.wikipedia.org/wiki/Wensi_tofu"
+    },
+    {
+      "name": "苏式鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "lang": "zh",
+      "title": "鲜肉月饼",
+      "url": "https://zh.wikipedia.org/wiki/%E9%B2%9C%E8%82%89%E6%9C%88%E9%A5%BC"
+    },
+    {
+      "name": "苏式鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "lang": "zh",
+      "title": "苏式月饼",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%BC%8F%E6%9C%88%E9%A5%BC"
+    },
+    {
+      "name": "南京鸭血粉丝汤",
+      "itemIds": [
+        "js-nanjing-duckblood"
+      ],
+      "lang": "en",
+      "title": "Duck blood and vermicelli soup",
+      "url": "https://en.wikipedia.org/wiki/Duck_blood_and_vermicelli_soup"
+    },
+    {
+      "name": "金华火腿",
+      "itemIds": [
+        "zj-jinhua-ham"
+      ],
+      "lang": "en",
+      "title": "Jinhua ham",
+      "url": "https://en.wikipedia.org/wiki/Jinhua_ham"
+    },
+    {
+      "name": "茴香豆",
+      "itemIds": [
+        "flavor-zhejiang-040b4c6c19"
+      ],
+      "lang": "zh",
+      "title": "茴香豆",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8C%B4%E9%A6%99%E8%B1%86"
+    },
+    {
+      "name": "定胜糕",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "lang": "en",
+      "title": "Dingsheng cake",
+      "url": "https://en.wikipedia.org/wiki/Dingsheng_cake"
+    },
+    {
+      "name": "猫耳朵",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "lang": "zh",
+      "title": "貓耳朵_(麵食)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%B2%93%E8%80%B3%E6%9C%B5_%28%E9%BA%B5%E9%A3%9F%29"
+    },
+    {
+      "name": "金华两头乌猪",
+      "itemIds": [
+        "program-65bdd6a826ed1ff89d"
+      ],
+      "lang": "en",
+      "title": "Jinhua pig",
+      "url": "https://en.wikipedia.org/wiki/Jinhua_pig"
+    },
+    {
+      "name": "嘉定梅山猪",
+      "itemIds": [
+        "program-5b960aed3ef610da28"
+      ],
+      "lang": "en",
+      "title": "Meishan pig",
+      "url": "https://en.wikipedia.org/wiki/Meishan_pig"
+    },
+    {
+      "name": "枫泾猪",
+      "itemIds": [
+        "program-58a6c32e81e3ba244c"
+      ],
+      "lang": "en",
+      "title": "Fengjing pig",
+      "url": "https://en.wikipedia.org/wiki/Fengjing_pig"
+    },
+    {
+      "name": "焦溪二花脸猪",
+      "itemIds": [
+        "program-f7bd2d4aa8906af045"
+      ],
+      "lang": "en",
+      "title": "Erhualian",
+      "url": "https://en.wikipedia.org/wiki/Erhualian"
+    },
+    {
+      "name": "湖州湖羊",
+      "itemIds": [
+        "program-80f65d0c7afd41031e"
+      ],
+      "lang": "en",
+      "title": "Hu sheep",
+      "url": "https://en.wikipedia.org/wiki/Hu_sheep"
+    },
+    {
+      "name": "常山胡柚",
+      "itemIds": [
+        "regional-b71b629407c335"
+      ],
+      "lang": "zh",
+      "title": "胡柚",
+      "url": "https://zh.wikipedia.org/wiki/%E8%83%A1%E6%9F%9A"
+    },
+    {
+      "name": "黄岩东魁杨梅",
+      "itemIds": [
+        "program-a2ac9f7abf1618d390"
+      ],
+      "lang": "zh",
+      "title": "东魁杨梅",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E9%AD%81%E6%9D%A8%E6%A2%85"
+    },
+    {
+      "name": "金华酥饼",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "lang": "zh",
+      "title": "金华酥饼",
+      "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%8D%8E%E9%85%A5%E9%A5%BC"
+    },
+    {
+      "name": "东阳木雕",
+      "itemIds": [
+        "regional-68b4be8025304b"
+      ],
+      "lang": "en",
+      "title": "Dongyang wood carving",
+      "url": "https://en.wikipedia.org/wiki/Dongyang_wood_carving"
+    }
+  ]
+}

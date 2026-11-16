@@ -7,7 +7,7 @@
 | `destinations.js`、`categories.js`、`cards.js`、`relations.js`、`borders.js` | 目的地、分类、卡片、关联与边界配置；手工维护，边界记录原始来源 |
 | `capitals-cards.js`、`china-cards.js`、`heritage-cards.js`、`knowledge-cards.js`、`slovenia-cards.js`、`poland-cards.js` | 分主题及地区的卡片和关联；手工维护，不按引用关系推断坐标 |
 | `china-card-reading.js` | 中国现有卡片的来源支持补充；与原始输入分开保留，由 `ChinaCollection` 整合，生成工具与采用底稿见 [全国补充](../research/china/enrichment/README.md) |
-| `china-card-images.js` | 后续中国规范化卡片的审阅实拍、署名及许可；原图片层保留，运行时按卡片身份合并，逐项采用见 [江浙沪底稿](../research/china/enrichment/2026-11-16-jiangzhehu-images/README.md) |
+| `china-card-images.js` | 后续中国规范化卡片的审阅实拍、署名及许可；原图片层保留，运行时按卡片身份合并，逐项采用与当前覆盖见 [实拍批次入口](../research/china/enrichment/README.md) |
 | `card-reading.js` | 详情阅读层；按卡片ID维护，与基本卡片及知识关联核对 |
 | `languages.js`、`vocabulary.js`、`ipa-en.js`、`ipa-de.js`、`ipa-hu-sr.js` | 词典与音标；来源许可见 [音标说明](../docs/ipa-sources.md)，核对底稿在 `research/dictionary/` |
 | `card-images.js`、`country-art.js`、`landmark-art.js` | 正式图片配置、署名与许可；审核和生成底稿在 `research/media/`。景点插画可由 `build-landmark-art.py` 更新 |

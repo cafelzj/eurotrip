@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-17",
+  "kind": "source-led-subject-and-place-followup-not-independent-memory",
+  "jobs": [
+    {
+      "query": "\"Jiangnan University\"",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "name": "江南大学 · 蠡湖校区"
+    },
+    {
+      "query": "江南大学 蠡湖",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "name": "江南大学 · 蠡湖校区"
+    },
+    {
+      "query": "\"Wuxi Grand Theatre\"",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "name": "无锡大剧院"
+    },
+    {
+      "query": "\"Wuxi Grand Theater\"",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "name": "无锡大剧院"
+    },
+    {
+      "query": "\"Huilongwo\"",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "name": "回龙窝历史文化街区"
+    },
+    {
+      "query": "回龙窝",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "name": "回龙窝历史文化街区"
+    },
+    {
+      "query": "\"Pengcheng Square\"",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "name": "彭城广场商圈"
+    },
+    {
+      "query": "彭城广场",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "name": "彭城广场商圈"
+    },
+    {
+      "query": "采芝斋",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "name": "采芝斋 · 糖果与苏式零食"
+    },
+    {
+      "query": "Caizhizhai",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "name": "采芝斋 · 糖果与苏式零食"
+    },
+    {
+      "query": "黄天源",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "name": "黄天源 · 糕团与时令点心"
+    },
+    {
+      "query": "三凤桥",
+      "itemIds": [
+        "brand-wuxi-sanfengqiao"
+      ],
+      "name": "三凤桥 · 酱排骨品牌线索"
+    },
+    {
+      "query": "同得兴",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "name": "同得兴 · 嘉馀坊店"
+    },
+    {
+      "query": "汉城公园 沛县",
+      "itemIds": [
+        "venue-peixian-highlight"
+      ],
+      "name": "沛县汉城公园"
+    },
+    {
+      "query": "Xiangshan Zhangjiagang",
+      "itemIds": [
+        "venue-zhangjiagang-highlight"
+      ],
+      "name": "香山景区"
+    },
+    {
+      "query": "艾山 邳州",
+      "itemIds": [
+        "venue-pizhou-highlight"
+      ],
+      "name": "艾山风景名胜区"
+    },
+    {
+      "query": "\"Nanjing gold leaf\"",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "name": "南京金箔"
+    },
+    {
+      "query": "南京 金箔",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "name": "南京金箔"
+    },
+    {
+      "query": "\"Yangzhou jade carving\"",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "name": "扬州玉雕"
+    },
+    {
+      "query": "\"Yangzhou paper cutting\"",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "name": "扬州剪纸"
+    },
+    {
+      "query": "\"Longquan sword\"",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "name": "龙泉宝剑"
+    },
+    {
+      "query": "龙泉 宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "name": "龙泉宝剑"
+    },
+    {
+      "query": "\"Nantong blue calico\"",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "name": "南通蓝印花布"
+    },
+    {
+      "query": "南通 蓝印花布",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "name": "南通蓝印花布"
+    },
+    {
+      "query": "Huzhou brush",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "name": "湖笔"
+    },
+    {
+      "query": "湖州 毛笔",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "name": "湖笔"
+    },
+    {
+      "query": "\"Dongyang wood carving\"",
+      "itemIds": [
+        "regional-68b4be8025304b"
+      ],
+      "name": "东阳木雕"
+    },
+    {
+      "query": "维维 豆奶",
+      "itemIds": [
+        "js-vv"
+      ],
+      "name": "维维豆奶"
+    },
+    {
+      "query": "香飘飘 奶茶",
+      "itemIds": [
+        "zj-xiangpiaopiao"
+      ],
+      "name": "香飘飘奶茶"
+    },
+    {
+      "query": "熊猫 炼乳",
+      "itemIds": [
+        "flavor-zhejiang-165174eadb"
+      ],
+      "name": "熊猫炼乳"
+    },
+    {
+      "query": "今世缘",
+      "itemIds": [
+        "flavor-jiangsu-d4b86af742"
+      ],
+      "name": "今世缘酒"
+    },
+    {
+      "query": "双沟",
+      "itemIds": [
+        "js-shuanggou"
+      ],
+      "name": "双沟酒"
+    },
+    {
+      "query": "洋河 酒",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "name": "洋河酒"
+    },
+    {
+      "query": "会稽山",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "name": "会稽山绍兴酒"
+    },
+    {
+      "query": "石库门 黄酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "name": "石库门黄酒"
+    },
+    {
+      "query": "鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "name": "苏式鲜肉月饼"
+    },
+    {
+      "query": "\"pork mooncake\"",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "name": "苏式鲜肉月饼"
+    },
+    {
+      "query": "\"Wensi tofu\"",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "name": "文思豆腐"
+    },
+    {
+      "query": "\"Wuxi xiaolongbao\"",
+      "itemIds": [
+        "flavor-jiangsu-e9fc4e4cb6"
+      ],
+      "name": "无锡小笼包"
+    },
+    {
+      "query": "茴香豆",
+      "itemIds": [
+        "flavor-zhejiang-040b4c6c19"
+      ],
+      "name": "茴香豆"
+    },
+    {
+      "query": "灯盏糕",
+      "itemIds": [
+        "flavor-zhejiang-6c8b86619e"
+      ],
+      "name": "灯盏糕"
+    },
+    {
+      "query": "定胜糕",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "name": "定胜糕"
+    },
+    {
+      "query": "\"Hangzhou cat ear noodles\"",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "name": "猫耳朵"
+    },
+    {
+      "query": "光明 鲜牛奶",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "name": "光明鲜牛奶"
+    },
+    {
+      "query": "李子园",
+      "itemIds": [
+        "zj-liziyuan"
+      ],
+      "name": "李子园甜牛奶饮料"
+    },
+    {
+      "query": "雨花茶",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "name": "雨花茶"
+    },
+    {
+      "query": "金坛 雀舌",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "name": "金坛雀舌"
+    },
+    {
+      "query": "九曲红梅",
+      "itemIds": [
+        "zj-jiuqu"
+      ],
+      "name": "九曲红梅"
+    },
+    {
+      "query": "奉化 千层饼",
+      "itemIds": [
+        "county-1b8b20507baf90"
+      ],
+      "name": "奉化千层饼"
+    },
+    {
+      "query": "\"stir fried river shrimp\"",
+      "itemIds": [
+        "program-81dbb9497910dec6c4"
+      ],
+      "name": "清炒虾仁"
+    },
+    {
+      "query": "金华 酥饼",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "name": "金华酥饼"
+    },
+    {
+      "query": "杭白菊",
+      "itemIds": [
+        "program-1ffbe9163a68c5c3db"
+      ],
+      "name": "杭白菊"
+    }
+  ]
+}

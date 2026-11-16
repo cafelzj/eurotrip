@@ -1,0 +1,548 @@
+{
+  "date": "2026-11-17",
+  "checks": [
+    {
+      "name": "江南大学 · 蠡湖校区",
+      "itemIds": [
+        "venue-wuxi-university"
+      ],
+      "lang": "en",
+      "title": "Jiangnan University",
+      "url": "https://en.wikipedia.org/wiki/Jiangnan_University",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/873d9600c445fc624800.html.gz",
+      "responseSha256": "3a5844172a4e9c521410ee0a68262c05567d3d400fc36d737b5236399f14c01b",
+      "photos": [
+        {
+          "file": "20151001--10-59 in Jiangnan Univ..jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20151001--10-59_in_Jiangnan_Univ..jpg/500px-20151001--10-59_in_Jiangnan_Univ..jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Lihu Campus"
+        },
+        {
+          "file": "20151001--11-00 in Jiangnan Univ..jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/88/20151001--11-00_in_Jiangnan_Univ..jpg/500px-20151001--11-00_in_Jiangnan_Univ..jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Lihu Campus"
+        },
+        {
+          "file": "20151001--1058 in Jiangnan Univ..jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/20151001--1058_in_Jiangnan_Univ..jpg/250px-20151001--1058_in_Jiangnan_Univ..jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Lihu Campus"
+        }
+      ]
+    },
+    {
+      "name": "无锡大剧院",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "lang": "en",
+      "title": "Wuxi Grand Theatre",
+      "url": "https://en.wikipedia.org/wiki/Wuxi_Grand_Theatre",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/6b7af2f2865d97e59b2a.html.gz",
+      "responseSha256": "7a2a3ffb06662b28f09225eecab9663e7a438b96976304399698d550d6a500c8",
+      "photos": []
+    },
+    {
+      "name": "无锡大剧院",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "lang": "zh",
+      "title": "无锡大剧院",
+      "url": "https://zh.wikipedia.org/wiki/%E6%97%A0%E9%94%A1%E5%A4%A7%E5%89%A7%E9%99%A2",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/5031ce2f0f0dc7ec083f.html.gz",
+      "responseSha256": "04522e49180d27b772d617137cfce4ddd879848f841a969ecf18e0ce904ee7f9",
+      "photos": [
+        {
+          "file": "Binhu, Wuxi, Jiangsu, China - panoramio (231).jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28231%29.jpg/500px-Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28231%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        },
+        {
+          "file": "Binhu, Wuxi, Jiangsu, China - panoramio (232).jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28232%29.jpg/500px-Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28232%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        },
+        {
+          "file": "Binhu, Wuxi, Jiangsu, China - panoramio (234).jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28234%29.jpg/500px-Binhu%2C_Wuxi%2C_Jiangsu%2C_China_-_panoramio_%28234%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "回龙窝历史文化街区",
+      "itemIds": [
+        "venue-xuzhou-huilongwo"
+      ],
+      "lang": "zh",
+      "title": "回龙窝历史文化街区",
+      "url": "https://zh.wikipedia.org/wiki/%E5%9B%9E%E9%BE%99%E7%AA%9D%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96%E8%A1%97%E5%8C%BA",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "彭城广场商圈",
+      "itemIds": [
+        "venue-xuzhou-pengcheng-square"
+      ],
+      "lang": "zh",
+      "title": "彭城广场",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%9F%8E%E5%B9%BF%E5%9C%BA",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "采芝斋 · 糖果与苏式零食",
+      "itemIds": [
+        "brand-suzhou-caizhizhai"
+      ],
+      "lang": "zh",
+      "title": "采芝斋",
+      "url": "https://zh.wikipedia.org/wiki/%E9%87%87%E8%8A%9D%E6%96%8B",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/dacad94586ccb9a76ac1.html.gz",
+      "responseSha256": "87a465c1a4710d8f62c4e0717a8be5fef6c973ba72aae421f6ba33dd95c8ccba",
+      "photos": [
+        {
+          "file": "Caizhizhai.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Caizhizhai.jpg/330px-Caizhizhai.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "采芝斋"
+        }
+      ]
+    },
+    {
+      "name": "黄天源 · 糕团与时令点心",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "lang": "zh",
+      "title": "黄天源",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E5%A4%A9%E6%BA%90",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/9f22f275173c5826a0c7.html.gz",
+      "responseSha256": "7b5e39ceb93c39d1e0858874862964b0e14d2787301620c1cdd86ab23939b51e",
+      "photos": []
+    },
+    {
+      "name": "三凤桥 · 酱排骨品牌线索",
+      "itemIds": [
+        "brand-wuxi-sanfengqiao"
+      ],
+      "lang": "zh",
+      "title": "三凤桥",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%89%E5%87%A4%E6%A1%A5",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/b480317afa2eafc3ae89.html.gz",
+      "responseSha256": "88be887886eb4e5317ac6f2b7c2be26869af0bc31b2600ee57e914cfcf67f943",
+      "photos": [
+        {
+          "file": "Wuxi Sanfengqiao Deli.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Wuxi_Sanfengqiao_Deli.jpg/250px-Wuxi_Sanfengqiao_Deli.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "位于 三阳广场 的三凤桥肉庄店"
+        }
+      ]
+    },
+    {
+      "name": "龙泉宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "lang": "en",
+      "title": "Longquan sword",
+      "url": "https://en.wikipedia.org/wiki/Longquan_sword",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "龙泉宝剑",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "lang": "zh",
+      "title": "龙泉剑",
+      "url": "https://zh.wikipedia.org/wiki/%E9%BE%99%E6%B3%89%E5%89%91",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/efb81da9ff1a949b4cc6.html.gz",
+      "responseSha256": "46297f6c3222c54cac445f294d1d5781d82601b1fa99666e62023abcd32e9ea8",
+      "photos": []
+    },
+    {
+      "name": "南京金箔",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "lang": "zh",
+      "title": "南京金箔",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E9%87%91%E7%AE%94",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "扬州剪纸",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "lang": "zh",
+      "title": "扬州剪纸",
+      "url": "https://zh.wikipedia.org/wiki/%E6%89%AC%E5%B7%9E%E5%89%AA%E7%BA%B8",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "苏州宋锦",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "lang": "en",
+      "title": "Song brocade",
+      "url": "https://en.wikipedia.org/wiki/Song_brocade",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "苏州宋锦",
+      "itemIds": [
+        "regional-a60c220a861563"
+      ],
+      "lang": "zh",
+      "title": "宋锦",
+      "url": "https://zh.wikipedia.org/wiki/%E5%AE%8B%E9%94%A6",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/8320c3bca450e246f632.html.gz",
+      "responseSha256": "d67746596d7edcf5809bc56249f496440600951f371979fee3566b6ea1fe28fc",
+      "photos": [
+        {
+          "file": "蘇州織錦廠的琴棋書畫錦.png",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%E8%98%87%E5%B7%9E%E7%B9%94%E9%8C%A6%E5%BB%A0%E7%9A%84%E7%90%B4%E6%A3%8B%E6%9B%B8%E7%95%AB%E9%8C%A6.png/250px-%E8%98%87%E5%B7%9E%E7%B9%94%E9%8C%A6%E5%BB%A0%E7%9A%84%E7%90%B4%E6%A3%8B%E6%9B%B8%E7%95%AB%E9%8C%A6.png?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "蘇州織錦廠的七彩重錦「 琴棋書畫 錦」，棋盤圖用 國際象棋 。"
+        }
+      ]
+    },
+    {
+      "name": "南通蓝印花布",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "lang": "zh",
+      "title": "蓝印花布",
+      "url": "https://zh.wikipedia.org/wiki/%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/d10caa8b071d48662556.html.gz",
+      "responseSha256": "bbba8b30643406876e4eaa293c22a8857b178a5f3ae213500d6d2dfc0e8c812d",
+      "photos": [
+        {
+          "file": "乌镇蓝印花布.JPG",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%E4%B9%8C%E9%95%87%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83.JPG/250px-%E4%B9%8C%E9%95%87%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83.JPG?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        },
+        {
+          "file": "蓝印花布花鸟纹布料.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83%E8%8A%B1%E9%B8%9F%E7%BA%B9%E5%B8%83%E6%96%99.jpg/330px-%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83%E8%8A%B1%E9%B8%9F%E7%BA%B9%E5%B8%83%E6%96%99.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "蓝印花布花鸟纹布料"
+        },
+        {
+          "file": "蓝印花布折枝花卉纹包头布.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83%E6%8A%98%E6%9E%9D%E8%8A%B1%E5%8D%89%E7%BA%B9%E5%8C%85%E5%A4%B4%E5%B8%83.jpg/330px-%E8%93%9D%E5%8D%B0%E8%8A%B1%E5%B8%83%E6%8A%98%E6%9E%9D%E8%8A%B1%E5%8D%89%E7%BA%B9%E5%8C%85%E5%A4%B4%E5%B8%83.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "蓝印花布折枝花卉纹包头布"
+        }
+      ]
+    },
+    {
+      "name": "湖笔",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "lang": "zh",
+      "title": "湖笔",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B9%96%E7%AC%94",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/66646e1e24e30fc8e5a1.html.gz",
+      "responseSha256": "f678d272bc10046163f42281cda3519b6d7a6682f79699283a1648627d401a88",
+      "photos": []
+    },
+    {
+      "name": "文思豆腐",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "lang": "en",
+      "title": "Wensi tofu",
+      "url": "https://en.wikipedia.org/wiki/Wensi_tofu",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "苏式鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "lang": "zh",
+      "title": "鲜肉月饼",
+      "url": "https://zh.wikipedia.org/wiki/%E9%B2%9C%E8%82%89%E6%9C%88%E9%A5%BC",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/b94640ef0e926ee316ba.html.gz",
+      "responseSha256": "6200db013acbe68fbd5167546732e7be5df6cea55aadf9a672d235105a43396e",
+      "photos": [
+        {
+          "file": "Changfa Pork Mooncake at RT-Mart Xingtang (Auchan).jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Changfa_Pork_Mooncake_at_RT-Mart_Xingtang_%28Auchan%29.jpg/250px-Changfa_Pork_Mooncake_at_RT-Mart_Xingtang_%28Auchan%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "超市售卖的鲜肉月饼"
+        }
+      ]
+    },
+    {
+      "name": "苏式鲜肉月饼",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "lang": "zh",
+      "title": "苏式月饼",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%BC%8F%E6%9C%88%E9%A5%BC",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/06f2e8208f83eb300a90.html.gz",
+      "responseSha256": "7daf8088bd36dd68978b4cf2eb5fb50d54a0a6b047069d7a2ca766869ef0629b",
+      "photos": [
+        {
+          "file": "Moon cakes1.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Moon_cakes1.jpg/250px-Moon_cakes1.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "月饼"
+        },
+        {
+          "file": "MiniSnowyMoonCakewithMungBeanPaste.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/MiniSnowyMoonCakewithMungBeanPaste.jpg/250px-MiniSnowyMoonCakewithMungBeanPaste.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "香港的冰皮月饼"
+        },
+        {
+          "file": "Mooncake with double yolk and lotus seed paste.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mooncake_with_double_yolk_and_lotus_seed_paste.jpg/250px-Mooncake_with_double_yolk_and_lotus_seed_paste.jpg?utm_source=zh.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "雙黃蓮蓉 月餅 （餡料含 鹹鴨蛋 黃及 蓮蓉 ，表皮以 小麥粉 為材料）"
+        }
+      ]
+    },
+    {
+      "name": "南京鸭血粉丝汤",
+      "itemIds": [
+        "js-nanjing-duckblood"
+      ],
+      "lang": "en",
+      "title": "Duck blood and vermicelli soup",
+      "url": "https://en.wikipedia.org/wiki/Duck_blood_and_vermicelli_soup",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/8222563ba66938d8743c.html.gz",
+      "responseSha256": "104721fa5c4c3bebb020418e6cc6888cb61cdf23a10dba486c5e17152ada19e6",
+      "photos": [
+        {
+          "file": "Xiaolongbao & Duck blood and vermicelli soup.JPG",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Xiaolongbao_%26_Duck_blood_and_vermicelli_soup.JPG/250px-Xiaolongbao_%26_Duck_blood_and_vermicelli_soup.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "name": "金华火腿",
+      "itemIds": [
+        "zj-jinhua-ham"
+      ],
+      "lang": "en",
+      "title": "Jinhua ham",
+      "url": "https://en.wikipedia.org/wiki/Jinhua_ham",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/2ff1a67ee1e190cf0eff.html.gz",
+      "responseSha256": "436e368aea7873a16c5f0aedbe81becdfa07cc5f393e6c7021c043e07c681038",
+      "photos": [
+        {
+          "file": "The Five of Jinwa Ham on the Lo Sam Yeung Chinese Food Shop.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/7/75/The_Five_of_Jinwa_Ham_on_the_Lo_Sam_Yeung_Chinese_Food_Shop.jpg/330px-The_Five_of_Jinwa_Ham_on_the_Lo_Sam_Yeung_Chinese_Food_Shop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        },
+        {
+          "file": "A Chinese Jinhua Ham on the Yue Hwa Chinese Market.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/A_Chinese_Jinhua_Ham_on_the_Yue_Hwa_Chinese_Market.jpg/250px-A_Chinese_Jinhua_Ham_on_the_Yue_Hwa_Chinese_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Jinhua ham in Hong Kong"
+        },
+        {
+          "file": "Jin wa ham in yu wa market.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Jin_wa_ham_in_yu_wa_market.jpg/250px-Jin_wa_ham_in_yu_wa_market.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Wrapped hams"
+        }
+      ]
+    },
+    {
+      "name": "茴香豆",
+      "itemIds": [
+        "flavor-zhejiang-040b4c6c19"
+      ],
+      "lang": "zh",
+      "title": "茴香豆",
+      "url": "https://zh.wikipedia.org/wiki/%E8%8C%B4%E9%A6%99%E8%B1%86",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/d6c6009fd1c0b33a60f5.html.gz",
+      "responseSha256": "ed44fdc22473ca814cee2f1d6ec9668e98de13d382c25a4e27717abf291065ac",
+      "photos": []
+    },
+    {
+      "name": "定胜糕",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "lang": "en",
+      "title": "Dingsheng cake",
+      "url": "https://en.wikipedia.org/wiki/Dingsheng_cake",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "猫耳朵",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "lang": "zh",
+      "title": "貓耳朵_(麵食)",
+      "url": "https://zh.wikipedia.org/wiki/%E8%B2%93%E8%80%B3%E6%9C%B5_%28%E9%BA%B5%E9%A3%9F%29",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "金华两头乌猪",
+      "itemIds": [
+        "program-65bdd6a826ed1ff89d"
+      ],
+      "lang": "en",
+      "title": "Jinhua pig",
+      "url": "https://en.wikipedia.org/wiki/Jinhua_pig",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "嘉定梅山猪",
+      "itemIds": [
+        "program-5b960aed3ef610da28"
+      ],
+      "lang": "en",
+      "title": "Meishan pig",
+      "url": "https://en.wikipedia.org/wiki/Meishan_pig",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/afd5a9fc91f446738c61.html.gz",
+      "responseSha256": "f10d240a95f42b22d06bbbd458101bad251855e4607498e556f32878c3c10548",
+      "photos": [
+        {
+          "file": "Meishan pig.JPG",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Meishan_pig.JPG/250px-Meishan_pig.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "a small pinkish-grey pig with thin black hair"
+        },
+        {
+          "file": "Görlitz - Tierpark - Meishan pig 03 ies.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/44/G%C3%B6rlitz_-_Tierpark_-_Meishan_pig_03_ies.jpg/250px-G%C3%B6rlitz_-_Tierpark_-_Meishan_pig_03_ies.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": "Sow in Tierpark Görlitz"
+        }
+      ]
+    },
+    {
+      "name": "枫泾猪",
+      "itemIds": [
+        "program-58a6c32e81e3ba244c"
+      ],
+      "lang": "en",
+      "title": "Fengjing pig",
+      "url": "https://en.wikipedia.org/wiki/Fengjing_pig",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/0f39e378a9a0dd3d9944.html.gz",
+      "responseSha256": "0019a37bf3b80b90806256aa8c51c26e27a55e6d6e3f8f9183107c6c0e3eedb3",
+      "photos": []
+    },
+    {
+      "name": "焦溪二花脸猪",
+      "itemIds": [
+        "program-f7bd2d4aa8906af045"
+      ],
+      "lang": "en",
+      "title": "Erhualian",
+      "url": "https://en.wikipedia.org/wiki/Erhualian",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "湖州湖羊",
+      "itemIds": [
+        "program-80f65d0c7afd41031e"
+      ],
+      "lang": "en",
+      "title": "Hu sheep",
+      "url": "https://en.wikipedia.org/wiki/Hu_sheep",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "常山胡柚",
+      "itemIds": [
+        "regional-b71b629407c335"
+      ],
+      "lang": "zh",
+      "title": "胡柚",
+      "url": "https://zh.wikipedia.org/wiki/%E8%83%A1%E6%9F%9A",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/348bf8b03ffa6e5fa876.html.gz",
+      "responseSha256": "bd830d1057a51ae2328ce33bacc91a613161351597085761a223ce868494500e",
+      "photos": []
+    },
+    {
+      "name": "黄岩东魁杨梅",
+      "itemIds": [
+        "program-a2ac9f7abf1618d390"
+      ],
+      "lang": "zh",
+      "title": "东魁杨梅",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B8%9C%E9%AD%81%E6%9D%A8%E6%A2%85",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/dd7139c5d50139a9bff2.html.gz",
+      "responseSha256": "affb74c8128e1c03ee5e5aaf92e7471922f9f5408be2244351faa8ffbf832d54",
+      "photos": []
+    },
+    {
+      "name": "金华酥饼",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "lang": "zh",
+      "title": "金华酥饼",
+      "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%8D%8E%E9%85%A5%E9%A5%BC",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found",
+      "photos": []
+    },
+    {
+      "name": "东阳木雕",
+      "itemIds": [
+        "regional-68b4be8025304b"
+      ],
+      "lang": "en",
+      "title": "Dongyang wood carving",
+      "url": "https://en.wikipedia.org/wiki/Dongyang_wood_carving",
+      "status": "article-pointer-read-not-photo-approved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-02/wiki/4141295e2b3ff878026e.html.gz",
+      "responseSha256": "30a7eb2c4047f3470575f358fa4cf58720b71ba0e0ae23a773cf32a9617f36dc",
+      "photos": [
+        {
+          "file": "Jiangning weaving government Museum 2013d2.jpg",
+          "articleImage": "//thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Jiangning_weaving_government_Museum_2013d2.jpg/250px-Jiangning_weaving_government_Museum_2013d2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}
