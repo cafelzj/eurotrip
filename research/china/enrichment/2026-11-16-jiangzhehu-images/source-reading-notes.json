@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-16",
+  "sources": [
+    {
+      "id": "ougan-paper-figure1",
+      "candidateId": "9b35371421afaf50",
+      "itemIds": [
+        "program-45aa9fd9743ed3c4a3"
+      ],
+      "url": "https://link.springer.com/article/10.1186/s12863-018-0693-9",
+      "doi": "10.1186/s12863-018-0693-9",
+      "originalResponseFile": "research/.local/jiangzhehu-images-20261116/ougan-article.html",
+      "sha256": "721ded1f07184bb6ba729c50279215533b44f92126d575dc96405e26924f24c1",
+      "reviewedScope": "仅核对图1果实a/b说明、样品采集地、作者与CC BY 4.0许可；不声称完成全文研究质量审阅，也不将生物机制写入卡片。",
+      "findings": [
+        "图1a为无籽芽变品系，b为有籽对照；Commons文件保留的是果实照片部分。",
+        "方法部分明确两个品系种植于浙江温州Jin Chao Gang农场，支持地域与品种关联。",
+        "原文Open Access声明CC BY 4.0，图中无另行排除许可标注；沿用作者、许可并保留修改说明。"
+      ]
+    }
+  ]
+}

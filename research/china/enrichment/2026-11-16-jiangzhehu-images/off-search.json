@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-16",
+  "queries": [
+    {
+      "brand": "光明",
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%85%89%E6%98%8E&search_simple=1&action=process&json=1&page_size=30",
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "brand": "卫岗",
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%8D%AB%E5%B2%97&search_simple=1&action=process&json=1&page_size=30",
+      "status": "response-saved-candidates-only",
+      "responseFile": "research/.local/jiangzhehu-images-20261116/off/bac2f0bed93356.json",
+      "responseSha256": "4dcb7fe756f1ebd0ff10635549cd8d8197284d1d66259e9ada79f625fde9e57d",
+      "count": 0,
+      "products": []
+    },
+    {
+      "brand": "一鸣",
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E4%B8%80%E9%B8%A3&search_simple=1&action=process&json=1&page_size=30",
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "brand": "扬大",
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E6%89%AC%E5%A4%A7&search_simple=1&action=process&json=1&page_size=30",
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ]
+}

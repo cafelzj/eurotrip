@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-16",
+  "engineStatus": "robots-blocked-not-zero-results",
+  "apiAttempts": [
+    {
+      "brand": "光明",
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E5%85%89%E6%98%8E&page_size=50&fields=code%2Cproduct_name%2Cbrands%2Cimages%2Cimage_front_url%2Ccountries_tags%2Cmanufacturing_places",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "brand": "momchilovtsi",
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=momchilovtsi&page_size=50&fields=code%2Cproduct_name%2Cbrands%2Cimages%2Cimage_front_url%2Ccountries_tags%2Cmanufacturing_places",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "brand": "一鸣",
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E4%B8%80%E9%B8%A3&page_size=50&fields=code%2Cproduct_name%2Cbrands%2Cimages%2Cimage_front_url%2Ccountries_tags%2Cmanufacturing_places",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "brand": "扬大",
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E6%89%AC%E5%A4%A7&page_size=50&fields=code%2Cproduct_name%2Cbrands%2Cimages%2Cimage_front_url%2Ccountries_tags%2Cmanufacturing_places",
+      "response": "research/.local/jiangzhehu-images-20261116/off/125c11a6feebd6ca1ea8.json",
+      "sha256": "4a8cd82df3345d920f80530619c1eff647efb0dfdcae4efb4cc4803684958ca0",
+      "count": 0,
+      "products": []
+    }
+  ]
+}

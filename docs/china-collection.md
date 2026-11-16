@@ -29,7 +29,7 @@
 
 ## 数据与底稿位置
 
-`data/flavors.js`、`data/china-cards.js`、`data/card-reading.js` 是原始编辑输入，`data/china-card-reading.js` 保存经来源核对的后续阅读补充；`data/china-region-catalog.js` 是行政目录，县区归属在 `data/flavor-counties.js`，图片及许可配置在 `data/flavor-images.js` 和 `data/card-images.js`。运行时由 `china-collection.js` 合并，原风物独立功能已经撤下。
+`data/flavors.js`、`data/china-cards.js`、`data/card-reading.js` 是原始编辑输入，`data/china-card-reading.js` 保存经来源核对的后续阅读补充；`data/china-region-catalog.js` 是行政目录，县区归属在 `data/flavor-counties.js`，图片及许可配置在 `data/flavor-images.js`、`data/card-images.js`，后续中国卡片实拍统一在 `data/china-card-images.js`；覆盖已审核的新图时抑制旧图回流，旧文件及历史记录保留。运行时由 `china-collection.js` 合并，原风物独立功能已经撤下。
 
 研究资料统一从 [中国卡片研究目录](../research/china/README.md) 和 [机器可读总索引](../research/china/index.json) 查找。当前整合记录移入 `research/china/integration/`；原风物知识稿、原850份阅读摘记、来源、历史批次、地图及配图底稿继续保留原路径和指纹，`research/flavors/` 作为中国卡片下的历史专题目录。
 

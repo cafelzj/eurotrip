@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "scope": "中国卡片当前研究与保留的风物专题历史",
   "canonicalRegistry": "CardStore.nodes",
   "chinaCards": 6627,
@@ -15,7 +15,9 @@
     "data/china-region-catalog.js",
     "data/china-card-merges.js",
     "data/flavor-counties.js",
-    "data/flavor-images.js"
+    "data/flavor-images.js",
+    "data/card-images.js",
+    "data/china-card-images.js"
   ],
   "sharedMediaAudits": [
     "research/media/food/review.json",
@@ -24,8 +26,8 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 94,
-    "adoption": 8,
+    "research-support": 123,
+    "adoption": 9,
     "preserved-source-reading": 1451,
     "cross-review": 4,
     "current-integration": 4,
@@ -38,8 +40,8 @@
     {
       "path": "research/china/README.md",
       "role": "research-support",
-      "bytes": 4819,
-      "sha256": "799eb8ffe0c94bf719e055ca511b5d6856212ddc7058df102bbc5f83caad38ab"
+      "bytes": 5030,
+      "sha256": "4a4e2a6cd9d8c2f1072bcb3f0a0e33ba9cf83d0d9ab630eee5eb223321801e54"
     },
     {
       "path": "research/china/enrichment/2026-11-15-national-01/README.md",
@@ -396,6 +398,186 @@
       "sha256": "f5e815f3d32585ba6111eb25857f62680ffe7f49bbb69189623de5d9e9a41857"
     },
     {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/README.md",
+      "role": "research-support",
+      "bytes": 7510,
+      "sha256": "b19056d8017932feac359222e34f93aceae1743a1eaf214294e0f8eb7566510c"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/additional-query-plan.json",
+      "role": "research-support",
+      "bytes": 238088,
+      "sha256": "3eb9e14cb2e408e9955bb67d662df832345b0dfd81bc1522586d247ee0d8b9c9"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/candidates.json",
+      "role": "research-support",
+      "bytes": 6656469,
+      "sha256": "938ed5af2ccf8c2d125db78d6fcee5088f9f6668750f40ed0549b178e1e9c6ee"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/coverage.csv",
+      "role": "research-support",
+      "bytes": 183237,
+      "sha256": "84e0c70a29055b325bf950b6bedd824778c9074c6cafa4cb0754eb3d72d77e73"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/coverage.json",
+      "role": "research-support",
+      "bytes": 759140,
+      "sha256": "08fe3c13f4384237702ebecb08a79b5f332e36151879ef3f95b095558e635449"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/dairy-followup.json",
+      "role": "research-support",
+      "bytes": 1467,
+      "sha256": "a709719037b5b3896c46da14a4ddd403b55748c72598d7dd986f43617b85a524"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/download-attempts.jsonl",
+      "role": "research-support",
+      "bytes": 71858,
+      "sha256": "be310098c3c226bf2f03baa5c634d0e78f3f7838fa9021a57b161726e39e5ebc"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/download-runs.jsonl",
+      "role": "research-support",
+      "bytes": 800,
+      "sha256": "141f91ae46230657b5d568c8bd2a619c112b3798c65ae51c881d8a44b89f7441"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/flickr-candidates.json",
+      "role": "research-support",
+      "bytes": 5185,
+      "sha256": "aea3f31a395ec6f7ccdd64eab1e8ba5b47b2401ab0ee2377fcba02a563ad954f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/knowledge-aliases.txt",
+      "role": "research-support",
+      "bytes": 5523,
+      "sha256": "cf04b9756905bf05f89fd0b1c05d4314d70bd8da17cc8f1d814912e3c2aa9737"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/knowledge-seal.json",
+      "role": "research-support",
+      "bytes": 161,
+      "sha256": "2e358f76125af635773ee86e19768fbf015c8a955349017ca27b2087ab4f8ffb"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/off-search.json",
+      "role": "research-support",
+      "bytes": 1285,
+      "sha256": "578e1f62ecef94ee29edaa82931dc12454d8f3ab25c69b81b284a02077c6892d"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/openverse-search.json",
+      "role": "research-support",
+      "bytes": 673,
+      "sha256": "a525e4930402f39b2438742d3a92ea4db3ff9611871a4404885ddce5ba52aa11"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/photo-adoption.json",
+      "role": "adoption",
+      "bytes": 283254,
+      "sha256": "39528004d4914b6ef1fd91f349b3b697d7ac49dde9dfca56fc2f3ab2b566fe37"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/query-log.jsonl",
+      "role": "research-support",
+      "bytes": 6500626,
+      "sha256": "585e7bfbc712cc6a2ff06760ea118de932b058755510453e66aada874a02b3b2"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/query-plan-before-broader-aliases.json",
+      "role": "research-support",
+      "bytes": 186856,
+      "sha256": "9f325af6cf01f62b0dc23edea77693faa6bf08f633adc11139a4fa4bab066341"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/query-plan-first-650.json",
+      "role": "research-support",
+      "bytes": 446997,
+      "sha256": "cdfbb3f7c5a4d291bb717d047e1055b2abbcb3c1819eb06680454d2206350c4f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/query-plan-initial.json",
+      "role": "research-support",
+      "bytes": 270795,
+      "sha256": "473d92982b95be9a5d63f86c6ac807d789e1fe4af8be0260e997696b23c3e13b"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/query-plan.json",
+      "role": "research-support",
+      "bytes": 457077,
+      "sha256": "4273787bafafca7b023bb6e263b38ba65a326d9ff13997d3e1a1bf79fd8919ad"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/renderer-baseline.json",
+      "role": "research-support",
+      "bytes": 216,
+      "sha256": "8ef100f67ef8d2fd91ac3bfd564dd8cb989a6af3d0a3fd3af8d940330cea79c6"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/reviewed-contact-sets.json",
+      "role": "research-support",
+      "bytes": 3019,
+      "sha256": "ddd3445a2ec6e40b509a5be9ed226466195e974da55a42e917dd8ea53b36fe60"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/scope.json",
+      "role": "research-support",
+      "bytes": 222326,
+      "sha256": "93f489fe2edb7b4eb2ff400a2f635bedca09462b458eb91f0fdd1896ff8b7d68"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/source-reading-notes.json",
+      "role": "research-support",
+      "bytes": 1054,
+      "sha256": "c30fce7708bac83d5b465f21a2f2f3cc748c61e585b10fad872529d3b1719d2d"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/video-candidates.json",
+      "role": "research-support",
+      "bytes": 24376,
+      "sha256": "51b73888e124ede17b5f199a78c1744a845606dbc215a3816fbbc8619e8222bf"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/video-source-review.json",
+      "role": "research-support",
+      "bytes": 623,
+      "sha256": "abf3844ee2df8826ecff5c4397317f1a19fdcf629db0f2877a22e7287900efa3"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/visual-decisions.json",
+      "role": "research-support",
+      "bytes": 50199,
+      "sha256": "95ea1c3257ce39412a644eec3ede261faccec749cc39a2e50d4eeeae997cdc0e"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/visual-screening.json",
+      "role": "research-support",
+      "bytes": 409618,
+      "sha256": "37ec43fe9803a5198f343ec83329d8512e700484f5f1dc62d4db10ddfd1abe45"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/wiki-media.json",
+      "role": "research-support",
+      "bytes": 387857,
+      "sha256": "008f1bb3dd1313776e48ea8ad44d9e6c60b7723077604fb2f8d7c04ef03b717f"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/wiki-pointers.json",
+      "role": "research-support",
+      "bytes": 430703,
+      "sha256": "e67936d4bf8144cab51d009f2a782714e24571e219a3441d93348408392d2213"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-16-jiangzhehu-images/withdrawn-assets.json",
+      "role": "research-support",
+      "bytes": 1722,
+      "sha256": "5c4d66cda57104beab9dac2848924aa0d37c5899ba5ad2959fcd6cd0b6be7043"
+    },
+    {
       "path": "research/china/enrichment/2026-11-16-peking-duck/README.md",
       "role": "research-support",
       "bytes": 1849,
@@ -428,14 +610,14 @@
     {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
-      "bytes": 2734,
-      "sha256": "cf25e02e1d10c0e92fc79939d7fbb8d49999c9745533ba868da262db7c9eb7d2"
+      "bytes": 2986,
+      "sha256": "014aea880719a7667a9a1638db5b6421b20072112e0694a3145c00a9bed21e30"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508002,
-      "sha256": "173138ea2d4c5bed166a45ec1160f02162ba748afe240062b4137d03dce17334"
+      "bytes": 2508133,
+      "sha256": "3294c335fd82380db6cb8204bf58b6652badd738ece01b51b9c3bd850c6026d4"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -4202,8 +4384,8 @@
     {
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
-      "bytes": 6482,
-      "sha256": "6d674b988237229a45dfed65b3c1da912d05acafab1e2d7cbdf620ece648b5ae"
+      "bytes": 6695,
+      "sha256": "270b50d7871b7a0878e00a8fee81f50c7d0b9a47f841be063ca1c2450e66a7ee"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

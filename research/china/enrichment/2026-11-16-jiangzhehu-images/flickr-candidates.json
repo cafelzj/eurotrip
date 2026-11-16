@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-16",
+  "candidates": [
+    {
+      "id": "10b836850c00ccf0",
+      "file": "三虾面 ｜ 苏州 裕兴记.jpg",
+      "provider": "Flickr",
+      "info": {
+        "url": "https://live.staticflickr.com/7289/26421726963_af4ac85660_b.jpg",
+        "descriptionurl": "https://www.flickr.com/photos/italita/26421726963",
+        "width": 1024,
+        "height": 768,
+        "extmetadata": {
+          "Artist": {
+            "value": "Talita. ʅ(‾◡◝)ʃ"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-NC-SA 2.0"
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-nc-sa/2.0/"
+          },
+          "ImageDescription": {
+            "value": "三虾面 ｜ 苏州 裕兴记"
+          }
+        }
+      },
+      "itemIds": [
+        "js-suzhou-sanxia"
+      ],
+      "queryIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/10b836850c00ccf0.html",
+      "metadataSha256": "edb9b33217ffa1dfd640e7ba0b1f8142462f4b2a0e7acba7a8b142ffd67a3c37",
+      "rawFile": "research/.local/jiangzhehu-images-20261116/photos/10b836850c00ccf0.original",
+      "rawSha256": "10dfe97e29e4960c0953d98f36a539ae626e69f98713a11bac5ba2555f79f669",
+      "status": "downloaded-awaiting-visual-review"
+    },
+    {
+      "id": "efb1d5a2f27bd48a",
+      "file": "八宝鸭 8 Treasure Duck - Easy East.jpg",
+      "provider": "Flickr",
+      "info": {
+        "url": "https://live.staticflickr.com/2278/1808411522_3a140c8a2b_b.jpg",
+        "descriptionurl": "https://www.flickr.com/photos/avlxyz/1808411522/",
+        "width": 1024,
+        "height": 768,
+        "extmetadata": {
+          "Artist": {
+            "value": "Alpha"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0"
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0/"
+          },
+          "ImageDescription": {
+            "value": "八宝鸭 8 Treasure Duck - Easy East"
+          }
+        }
+      },
+      "itemIds": [
+        "sh-eight-treasure-duck"
+      ],
+      "queryIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/efb1d5a2f27bd48a.html",
+      "metadataSha256": "b7ae1db996338f0febf7f60018e765c8bb2a27c20d0ed95323a34551bb099247",
+      "rawFile": "research/.local/jiangzhehu-images-20261116/photos/efb1d5a2f27bd48a.original",
+      "rawSha256": "0cacf0e229e1d8aace68b17bf33c47cc6141ecf4c475bf7af0504a48c8d8618c",
+      "status": "downloaded-awaiting-visual-review"
+    }
+  ],
+  "checks": [
+    {
+      "itemId": "js-suzhou-sanxia",
+      "url": "https://www.flickr.com/photos/italita/26421726963",
+      "title": "三虾面 ｜ 苏州 裕兴记",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "license": "CC BY-NC-SA 2.0",
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/10b836850c00ccf0.html",
+      "metadataSha256": "edb9b33217ffa1dfd640e7ba0b1f8142462f4b2a0e7acba7a8b142ffd67a3c37",
+      "descriptionPreservedIn": "research/.local/jiangzhehu-images-20261116/flickr/10b836850c00ccf0.html",
+      "status": "candidate-not-approved"
+    },
+    {
+      "itemId": "sh-eight-treasure-duck",
+      "url": "https://www.flickr.com/photos/avlxyz/1808411522/",
+      "title": "八宝鸭 8 Treasure Duck - Easy East",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "license": "CC BY-SA 2.0",
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/efb1d5a2f27bd48a.html",
+      "metadataSha256": "b7ae1db996338f0febf7f60018e765c8bb2a27c20d0ed95323a34551bb099247",
+      "descriptionPreservedIn": "research/.local/jiangzhehu-images-20261116/flickr/efb1d5a2f27bd48a.html",
+      "status": "candidate-not-approved"
+    },
+    {
+      "itemId": "flavor-shanghai-fef9d5f9dc",
+      "url": "https://www.flickr.com/photos/65259238%40N06/14978248807",
+      "title": "上海葱油拌面",
+      "licenseUrl": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members",
+      "license": null,
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/3fa46f4aaf300206.html",
+      "metadataSha256": "f2e3d7ae78097627b4b8ea227ff40b8b3c34afe9d365d7dd1505b0366c43f178",
+      "descriptionPreservedIn": "research/.local/jiangzhehu-images-20261116/flickr/3fa46f4aaf300206.html",
+      "status": "license-not-selected"
+    },
+    {
+      "itemId": "flavor-shanghai-fef9d5f9dc",
+      "url": "https://www.flickr.com/photos/78797573%40N00/23625390789",
+      "title": "Scallion Oil Noodle @Zhenya Beef Noodle House, Wuyi Road, Shanghai",
+      "licenseUrl": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members",
+      "license": null,
+      "metadataFile": "research/.local/jiangzhehu-images-20261116/flickr/5ca94ad6263fa552.html",
+      "metadataSha256": "8188abb8454719000f5816cb1aa3ce0561a4cd2d3b6a298fdb5714c2a6e67ebe",
+      "descriptionPreservedIn": "research/.local/jiangzhehu-images-20261116/flickr/5ca94ad6263fa552.html",
+      "status": "license-not-selected"
+    }
+  ]
+}

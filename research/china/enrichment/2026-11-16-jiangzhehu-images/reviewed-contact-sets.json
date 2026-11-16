@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-16",
+  "sets": [
+    {
+      "folder": "review-round-02",
+      "index": "contact-index.json",
+      "sheets": "contact-*.jpg"
+    },
+    {
+      "folder": "review-fresh-315",
+      "index": "fresh-index.json",
+      "sheets": "fresh-*.jpg"
+    },
+    {
+      "folder": "review-new-wave",
+      "index": "index.json",
+      "sheets": "contact-*.jpg"
+    },
+    {
+      "folder": "review-new-wave-two",
+      "index": "fresh-index.json",
+      "sheets": "fresh-*.jpg"
+    },
+    {
+      "folder": "review-final-01",
+      "index": "index.json",
+      "sheets": "contact-*.jpg"
+    },
+    {
+      "folder": "review-final-02",
+      "index": "index.json",
+      "sheets": "contact-*.jpg"
+    },
+    {
+      "folder": "review-final-03",
+      "index": "index.json",
+      "sheets": "fresh-*.jpg"
+    },
+    {
+      "folder": "review-remaining-venues",
+      "index": "index.json",
+      "sheets": "fresh-*.jpg"
+    },
+    {
+      "folder": "review-remaining-food",
+      "index": "index.json",
+      "sheets": "fresh-*.jpg"
+    },
+    {
+      "folder": "review-final-04",
+      "index": "index.json",
+      "sheets": "fresh-*.jpg"
+    }
+  ],
+  "individualImages": [
+    {
+      "candidateId": "10b836850c00ccf0",
+      "file": "research/.local/jiangzhehu-images-20261116/flickr-three-shrimp.jpg",
+      "sha256": "10dfe97e29e4960c0953d98f36a539ae626e69f98713a11bac5ba2555f79f669"
+    },
+    {
+      "candidateId": "efb1d5a2f27bd48a",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/efb1d5a2f27bd48a.original",
+      "sha256": "0cacf0e229e1d8aace68b17bf33c47cc6141ecf4c475bf7af0504a48c8d8618c"
+    },
+    {
+      "candidateId": "0a27ef3fbfed9cb7",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/0a27ef3fbfed9cb7.original",
+      "sha256": "e19e1c6d039fe87084d352a784b9de52cd119f27cfdf9e7e4d6dca4594b2a5ff"
+    },
+    {
+      "candidateId": "2418802d114fb2df",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/2418802d114fb2df.original",
+      "sha256": "99bce4c10837e411b0cfa69e168be78806396efd5d18db8eeda2ada1dcc1cd41"
+    },
+    {
+      "candidateId": "ea7588a87183cb67",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/ea7588a87183cb67.original",
+      "sha256": "62bd0789c0bfdf357652c4efbdeb5c885d010865d232d274cf69977b64881b3a"
+    },
+    {
+      "candidateId": "833c2d9802f3d08d",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/833c2d9802f3d08d.original",
+      "sha256": "b581e1b8846211b87b422b2029a757b35c0e707dab1d938c3f7c16bb19dba968"
+    },
+    {
+      "candidateId": "99b8f476d913ad07",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/99b8f476d913ad07.original",
+      "sha256": "368aabcee9ce16a742656e0c9607aa6dcb0172338f003afc45f02fac1a3a7379"
+    },
+    {
+      "candidateId": "aa134b228552154a",
+      "file": "research/.local/jiangzhehu-images-20261116/photos/aa134b228552154a.original",
+      "sha256": "1d2249b0ab9a1d463d0124e0a3ec05248a12561903c4a73b5001c8aea935e775"
+    }
+  ]
+}

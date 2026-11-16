@@ -1,0 +1,1193 @@
+{
+  "date": "2026-11-16",
+  "status": "in-progress",
+  "approved": [
+    {
+      "candidateId": "59a48e260de7d42f",
+      "itemId": "sh-luosong",
+      "itemName": "海派罗宋汤",
+      "caption": "上海德大西菜社的罗宋汤实拍",
+      "reason": "来源明确为上海餐厅海派罗宋汤；白碗汤色清晰。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "7eb4da3084461e8a",
+      "itemId": "sh-la-jiangyou",
+      "itemName": "上海辣酱油",
+      "caption": "泰康黄牌上海辣酱油产品实拍",
+      "reason": "完整正面瓶身，标签明确写上海辣酱油；比散乱桌面背景版本清楚。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "2aacf4d404e8b114",
+      "itemId": "regional-c756b98e6fcf50",
+      "itemName": "惠山泥人",
+      "caption": "惠山泥人彩塑实拍",
+      "reason": "来源明确惠山泥人，彩塑完整、色泽鲜亮，图为实物而非通用玩偶。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "7d514d6704ed054c",
+      "itemId": "venue-suzhou-humble-administrator",
+      "itemName": "拙政园",
+      "caption": "拙政园见山楼实拍",
+      "reason": "来源明确苏州拙政园见山楼，建筑与水景清楚，构图整洁。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "01bbbfc6afbfe433",
+      "itemId": "flavor-jiangsu-86665a144e",
+      "itemName": "梁溪脆鳝",
+      "caption": "梁溪脆鳝成品实拍",
+      "reason": "金黄鳝条集中摆盘，白盘与配料层次清楚；来源明确梁溪脆鳝。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "08ce578412dc9b4b",
+      "itemId": "regional-b559480be2d128",
+      "itemName": "桃花坞木版年画",
+      "caption": "桃花坞木版年画《赵公明》实物图",
+      "reason": "来源明确桃花坞木版年画、上海博物馆藏品；公有领域作品图，不称当代摄影作者已知。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "165a3e866e43f86b",
+      "itemId": "venue-suzhou-pingjiang",
+      "itemName": "平江路历史街区",
+      "caption": "苏州平江路廊桥与水巷实拍",
+      "reason": "来源明确平江路，桥、水巷和沿岸建筑清楚；不用门牌替代街区景观。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "1cc43d3f561dc032",
+      "itemId": "venue-wuxi-qingmingqiao",
+      "itemName": "清名桥历史文化街区",
+      "caption": "无锡清名桥实拍（街区地标）",
+      "reason": "原图说明明确无锡南长街清名桥，地标与题刻可辨，不称全街区全貌。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "2150f1c3b09de8bf",
+      "itemId": "regional-190bfc567074bf",
+      "itemName": "青田石雕",
+      "caption": "夏福仁青田石雕作品《明月有情邀家园》（2006）实拍",
+      "reason": "来源明确作者、作品名与青田石雕；雕刻主体完整，展陈光线清楚。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "26ee1bf455b5be50",
+      "itemId": "flavor-zhejiang-7ccd4c9f83",
+      "itemName": "片儿川",
+      "caption": "杭州奎元馆片儿川成品实拍",
+      "reason": "来源明确杭州奎元馆的片儿川，碗内面条与浇头可辨、摆盘完整。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "287f01df64279f11",
+      "itemId": "regional-2c623b2ad735f5",
+      "itemName": "奉化水蜜桃",
+      "caption": "奉化水蜜桃实拍",
+      "reason": "来源与摄影者明确标注奉化水蜜桃，果实完整、色泽自然，未用其他产地蜜桃。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "36cf3d8f18bb2629",
+      "itemId": "program-41d4eec59e6aea98b5",
+      "itemName": "慈溪杨梅",
+      "caption": "浙江慈溪杨梅实拍",
+      "reason": "来源明确浙江慈溪杨梅，果实近景清楚，不以其他地方杨梅替代。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "4e9757825bfdd1d9",
+      "itemId": "regional-8a39cbb0b87dad",
+      "itemName": "张小泉剪刀",
+      "caption": "中国刀剪剑博物馆藏张小泉剪刀实拍",
+      "reason": "来源明确张小泉剪刀及博物馆收藏，器物与品牌刻字可辨。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "56d2125df074989b",
+      "itemId": "regional-be57a8c3032fe8",
+      "itemName": "硖石灯彩",
+      "caption": "海宁博物馆硖石彩灯之龙舟灯实拍",
+      "reason": "来源明确海宁硖石龙舟灯，灯彩完整，夜色衬托造型与色彩。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "5b5654bf05f23ce2",
+      "itemId": "zj-jinyun-shaobing",
+      "itemName": "缙云烧饼",
+      "caption": "缙云烧饼成品实拍（来源注明购于服务区）",
+      "reason": "来源明确缙云烧饼，成品焦斑与芝麻可辨；不冒充摄影于缙云县内。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "5f60b7fdbd46e895",
+      "itemId": "sh-yanduxian",
+      "itemName": "腌笃鲜",
+      "caption": "腌笃鲜成品实拍",
+      "reason": "来源明确腌笃鲜与上海菜，汤、笋和肉可辨，白碗完整。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "6005f845ab5cb6cc",
+      "itemId": "flavor-zhejiang-3fbc45ee61",
+      "itemName": "龙井虾仁",
+      "caption": "杭州酒家龙井虾仁成品实拍",
+      "reason": "来源明确杭州酒家龙井虾仁，虾仁与茶叶清楚、盘面简洁。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "604c4a166a99d458",
+      "itemId": "flavor-jiangsu-0c84d4e7b1",
+      "itemName": "惠山油酥",
+      "caption": "无锡惠山油酥成品实拍",
+      "reason": "来源明确无锡惠山油酥，金黄成品与芝麻清楚，不以通用麻球名称推断。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "624b507d3c99c9d2",
+      "itemId": "regional-1388049da47a20",
+      "itemName": "龙泉青瓷",
+      "caption": "故宫博物院藏南宋龙泉窑青瓷瓶实拍",
+      "reason": "来源明确浙江龙泉窑、南宋与故宫藏品，不将通用青瓷或韩国青瓷替代。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "651b80c01f03d045",
+      "itemId": "county-zhejiang-2256d7eaaa",
+      "itemName": "蛋清羊尾",
+      "caption": "台州蛋清羊尾成品实拍",
+      "reason": "原图明确台州美食蛋清羊尾，成品与盘面可辨；后续仍可优选背景更简洁的成品照。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "79d997d8e18bb1dc",
+      "itemId": "venue-xuzhou-yunlong-hill",
+      "itemName": "云龙山",
+      "caption": "徐州云龙山山门实拍",
+      "reason": "来源明确云龙山，牌坊建筑清楚，不将山门称为整座山全貌。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "7a9bf7cba7efc599",
+      "itemId": "regional-d21561c3928cab",
+      "itemName": "嵊州竹编",
+      "caption": "浙江省博物馆藏嵊州竹编绍兴八角三格提篮实拍",
+      "reason": "来源明确嵊州竹编、器物形制与收藏地，提篮完整。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "822c504a3baf4cba",
+      "itemId": "flavor-jiangsu-4031818ed2",
+      "itemName": "7分甜",
+      "caption": "7分甜苏州园区湖东门店实拍（品牌介绍）",
+      "reason": "本卡为品牌线索，门店招牌明确SWEET7；摄影地为苏州，不冒充具体饮品成品照。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "8288b17a6bf67ad1",
+      "itemId": "venue-wuxi-yuantouzhu",
+      "itemName": "鼋头渚",
+      "caption": "鼋头渚长春桥樱花季实拍",
+      "reason": "来源明确鼋头渚、长春桥，桥、水面及樱花清晰，优于阴暗或模糊版本。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "870f62da005efd08",
+      "itemId": "venue-wuxi-henglong",
+      "itemName": "无锡恒隆广场",
+      "caption": "无锡恒隆广场建筑实拍",
+      "reason": "来源明确Center 66，无锡购物场所建筑可辨。",
+      "kind": "portrait"
+    },
+    {
+      "candidateId": "8c054bb84b8e4338",
+      "itemId": "venue-xuzhou-museum",
+      "itemName": "徐州博物馆",
+      "caption": "徐州博物馆建筑实拍",
+      "reason": "来源明确徐州博物馆，主体与入口清楚，不以藏品代替场所外观。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "8fa507a0baac2303",
+      "itemId": "js-biluochun",
+      "itemName": "碧螺春",
+      "caption": "苏州碧螺春茶叶实拍",
+      "reason": "来源明确Suzhou Biluochun，不用台湾或其他产地同名茶替代；茶叶近景清楚。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "93d1660508491dad",
+      "itemId": "regional-b64510c0ca5f8f",
+      "itemName": "苏绣",
+      "caption": "苏绣《博古图》镜片实物图",
+      "reason": "公有领域苏绣藏品图，作品类别明确；完整形制在详情保留，不将其称普通绘画或已知摄影作者作品。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "a1ae92ba1713fc32",
+      "itemId": "venue-wuxi-museum",
+      "itemName": "无锡博物院",
+      "caption": "无锡博物院建筑实拍（2018年）",
+      "reason": "来源明确无锡博物院与拍摄年份，建筑主体完整。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "a2b9acc0d8fb7b31",
+      "itemId": "regional-2979fd1e414a67",
+      "itemName": "南京云锦",
+      "caption": "南京云锦织机实拍",
+      "reason": "来源明确云锦织机，作为工艺操作器具示例，不称织物成品。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "ac3fa1242c0caa5f",
+      "itemId": "venue-suzhou-arts",
+      "itemName": "苏州文化艺术中心",
+      "caption": "苏州文化艺术中心建筑实拍",
+      "reason": "来源明确苏州工业园区文化艺术中心，不以名称相近的其他科技馆替代。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "b08f4cbe0e6cb57c",
+      "itemId": "venue-xuzhou-huaihai-memorial",
+      "itemName": "淮海战役纪念馆",
+      "caption": "淮海战役纪念馆新馆实拍",
+      "reason": "来源明确淮海战役纪念馆新馆，建筑与场地清晰。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "c0b3a5eab0cc88e4",
+      "itemId": "venue-suzhou-hanshan",
+      "itemName": "寒山寺",
+      "caption": "苏州寒山寺牌楼实拍",
+      "reason": "来源明确寒山寺，建筑色彩和牌楼清楚，优于室内昏暗或拥挤旧照。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "c4a401aeb23e4389",
+      "itemId": "venue-suzhou-museum",
+      "itemName": "苏州博物馆 · 本馆",
+      "caption": "苏州博物馆本馆庭院实拍",
+      "reason": "来源明确苏州博物馆，庭院与贝聿铭建筑语言可辨，不混入西馆。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "d536103a0d7b4360",
+      "itemId": "regional-15af4e68e0dcda",
+      "itemName": "南通板鹞风筝",
+      "caption": "南通博物苑藏南通板鹞实拍",
+      "reason": "来源明确南通板鹞及收藏地，实物完整而非通用风筝。",
+      "kind": "product"
+    },
+    {
+      "candidateId": "d913775486a594a0",
+      "itemId": "venue-suzhou-guanqian",
+      "itemName": "观前街",
+      "caption": "苏州观前街夜景实拍（2008年）",
+      "reason": "来源明确观前街，街景可辨，保留历史拍摄时间，不保证当前店铺状态。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "df1155ee491c72a0",
+      "itemId": "js-changzhou-damagao",
+      "itemName": "常州大麻糕",
+      "caption": "常州大麻糕成品实拍",
+      "reason": "来源明确常州大麻糕，金黄表皮与芝麻、层次清楚，摆盘整洁。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "e598cf4819f6de62",
+      "itemId": "sh-paigu-niangao",
+      "itemName": "排骨年糕",
+      "caption": "上海鲜得来排骨年糕成品实拍",
+      "reason": "来源明确上海鲜得来的招牌排骨年糕，炸排骨与年糕为真实成品，不以其他炸猪排替代。",
+      "kind": "food"
+    },
+    {
+      "candidateId": "ef071a00330d15df",
+      "itemId": "venue-suzhou-lingering-garden",
+      "itemName": "留园",
+      "caption": "苏州留园石林小院晚翠峰实拍",
+      "reason": "来源明确留园石林小院晚翠峰，山石与植物清楚，不混用拙政园照片。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "fa76db9f4b48befd",
+      "itemId": "venue-kunshan-highlight",
+      "itemName": "周庄古镇",
+      "caption": "周庄水巷与桥梁实拍",
+      "reason": "来源明确周庄古镇，水巷、桥梁和沿岸建筑清楚，未以西塘或乌镇替代。",
+      "kind": "landscape"
+    },
+    {
+      "candidateId": "93d1660508491dad",
+      "itemId": "tip-suzhou-silk",
+      "itemName": "苏绣与丝绸 · 看工艺，也看材质",
+      "caption": "苏绣《博古图》镜片实物图（工艺示例）",
+      "reason": "卡片主题明确包含苏绣，与同一已核对苏绣作品复用，不扩大为其他绣种。",
+      "kind": "product",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "064b496f492e2fe0",
+      "itemId": "regional-995e420e3cbc52",
+      "itemName": "顾绣",
+      "kind": "product",
+      "caption": "顾绣《十六应真图册》之韦陀实物图",
+      "reason": "采用明确题名的顾绣实物图；撤下工艺身份存疑的苏州刺绣过程照片。"
+    },
+    {
+      "candidateId": "0ae041f6589803b0",
+      "itemId": "sh-white-chicken",
+      "itemName": "白斩鸡",
+      "kind": "food",
+      "caption": "上海小绍兴酒家的白斩鸡实拍",
+      "reason": "名称与餐厅来源均明确；完整白盘、鸡皮色泽清楚。"
+    },
+    {
+      "candidateId": "12e82b98b0db7406",
+      "itemId": "venue-suzhou-university",
+      "itemName": "苏州大学 · 天赐庄校区",
+      "kind": "landscape",
+      "caption": "苏州大学天赐庄校区存菊堂实拍",
+      "reason": "确认为该校区实际建筑，不以其他校区代替。"
+    },
+    {
+      "candidateId": "14c61fbc8169f3a1",
+      "itemId": "program-be32f5bbf7a794474b",
+      "itemName": "玉环文旦",
+      "kind": "food",
+      "caption": "玉环文旦剖面实拍",
+      "reason": "来源明确玉环文旦，剖开的果肉与果皮可辨，摆放整齐。"
+    },
+    {
+      "candidateId": "1fc05422941e9f79",
+      "itemId": "program-0be2e79cfa0a6fe1c1",
+      "itemName": "花雕酒",
+      "kind": "product",
+      "caption": "绍兴花雕酒坛实拍",
+      "reason": "来源明确绍兴花雕酒；展示酒坛实物，不宣称特定品牌。"
+    },
+    {
+      "candidateId": "295d72b62f396ab9",
+      "itemId": "js-lion-head",
+      "itemName": "狮子头",
+      "kind": "food",
+      "caption": "扬州狮子楼的狮子头成品实拍",
+      "reason": "拍摄地与菜名均有来源说明；成品摆盘、色泽清楚。"
+    },
+    {
+      "candidateId": "35184ad8327588bb",
+      "itemId": "flavor-zhejiang-c91315d842",
+      "itemName": "虾爆鳝面",
+      "kind": "food",
+      "caption": "杭州奎元馆的虾爆鳝面实拍",
+      "reason": "来源明确虾爆鳝面、奎元馆；虾仁与鳝段可辨。"
+    },
+    {
+      "candidateId": "453c65b18209bd4c",
+      "itemId": "county-cc418f87577467",
+      "itemName": "新昌炒年糕",
+      "kind": "food",
+      "caption": "新昌炒年糕成品实拍",
+      "reason": "确认为新昌炒年糕，年糕与配菜清楚。"
+    },
+    {
+      "candidateId": "63c1c01f344a586a",
+      "itemId": "flavor-jiangsu-cf1acf82ba",
+      "itemName": "天目湖白茶（溧阳白茶）",
+      "kind": "product",
+      "caption": "天目湖白茶（溧阳白茶）干茶实拍",
+      "reason": "图片标题明确地方茶名称，采用清晰干茶近照。"
+    },
+    {
+      "candidateId": "9a922ec8075449b7",
+      "itemId": "program-c672e7c1600453505a",
+      "itemName": "阳山水蜜桃",
+      "kind": "food",
+      "caption": "无锡阳山水蜜桃实拍",
+      "reason": "来源明确阳山水蜜桃，整齐果实和自然颜色清楚；不是普通桃子代图。"
+    },
+    {
+      "candidateId": "9f61857790b76638",
+      "itemId": "zj-longjing",
+      "itemName": "西湖龙井",
+      "kind": "landscape",
+      "caption": "杭州西湖龙井狮峰茶园实拍",
+      "reason": "明确西湖龙井产区狮峰茶园，展示实际产地生产场景；不冒充成品干茶照片。"
+    },
+    {
+      "candidateId": "a9c9c6ee2efbedca",
+      "itemId": "program-d6f65b67a613282841",
+      "itemName": "萧山萝卜干",
+      "kind": "product",
+      "caption": "萧山文化中心展示的萧山萝卜干实物",
+      "reason": "明确展示物与地方名称，实际包装食品，不用其他地区萝卜干替代。"
+    },
+    {
+      "candidateId": "ba5f33995ffdf709",
+      "itemId": "county-zhejiang-baa28e5ea1",
+      "itemName": "梁弄大糕",
+      "kind": "food",
+      "caption": "余姚阳明古镇售卖的梁弄大糕实拍",
+      "reason": "来源记录具体地方与食品名称，实物糕点图案可辨。"
+    },
+    {
+      "candidateId": "bc5c1f40dbe4fb84",
+      "itemId": "venue-xuzhou-han-culture",
+      "itemName": "徐州汉文化景区",
+      "kind": "landscape",
+      "caption": "徐州汉文化景区刘氏宗祠实拍",
+      "reason": "对应实际景区中的建筑；不将现存建筑说成汉代原物。"
+    },
+    {
+      "candidateId": "c0c941dfeade2539",
+      "itemId": "sh-red-pork",
+      "itemName": "本帮红烧肉",
+      "kind": "food",
+      "caption": "本帮红烧肉成品实拍",
+      "reason": "来源明确上海风格红烧肉，成品完整、色泽红亮。"
+    },
+    {
+      "candidateId": "ca61d10daca23d99",
+      "itemId": "sh-foshou-msg",
+      "itemName": "佛手牌味精",
+      "kind": "product",
+      "caption": "天厨佛手牌味精实物：左为上海版，右为香港版",
+      "reason": "来源明确区分沪港版本，瓶罐商标可辨，不将香港版误写为上海产。"
+    },
+    {
+      "candidateId": "d5176f32d8eb3eba",
+      "itemId": "county-b07b32b9272620",
+      "itemName": "东河肉饼",
+      "kind": "food",
+      "caption": "义乌东河肉饼煎制实拍",
+      "reason": "来源明确东河肉饼，画面展示实际制作过程与已煎成肉饼。"
+    },
+    {
+      "candidateId": "e8dd1e21b6e975ec",
+      "itemId": "program-e8f1c331d16435031d",
+      "itemName": "宜兴紫砂",
+      "kind": "product",
+      "caption": "中国宜兴陶瓷博物馆陈鸣远虚扁壶实拍",
+      "reason": "器物与宜兴紫砂主体明确，采用完整器物近照，不推断其他陶器为紫砂。"
+    },
+    {
+      "candidateId": "ecef18a17ced52ed",
+      "itemId": "zj-guming",
+      "itemName": "古茗",
+      "kind": "product",
+      "caption": "古茗美式咖啡产品实拍（2025年）",
+      "reason": "明确品牌与实际产品，杯身标识清楚；不宣称是奶茶或特定浙江门店。"
+    },
+    {
+      "candidateId": "eea5bef3cba5e1e0",
+      "itemId": "venue-yixing-highlight",
+      "itemName": "宜兴竹海",
+      "kind": "landscape",
+      "caption": "宜兴竹海景区翠竹穹顶实拍",
+      "reason": "来源明确景区，竹林与栈道对应真实地点。"
+    },
+    {
+      "candidateId": "f534d7b361ca3e1d",
+      "itemId": "program-3d41706abd584107e7",
+      "itemName": "绍兴黄酒",
+      "kind": "product",
+      "caption": "咸亨酒店太雕绍兴酒酒坛实拍，摄于香港陆羽茶室",
+      "reason": "酒品为明确绍兴黄酒实例，说明实际拍摄地点与酒款，不混淆品牌或原产地。"
+    },
+    {
+      "candidateId": "ff03f3ff2ade66ef",
+      "itemId": "venue-taicang-highlight",
+      "itemName": "沙溪古镇",
+      "kind": "landscape",
+      "caption": "太仓沙溪古镇中市街实拍",
+      "reason": "来源明确沙溪中市街，实际街巷可辨。"
+    },
+    {
+      "candidateId": "e8dd1e21b6e975ec",
+      "itemId": "local-yixing-culture",
+      "itemName": "宜兴紫砂 · 看泥料与工艺",
+      "kind": "product",
+      "caption": "中国宜兴陶瓷博物馆陈鸣远虚扁壶实拍",
+      "reason": "卡片均明确讨论宜兴紫砂；使用同一真实紫砂壶作为具体器物例证，不视为新增独立照片。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "e8dd1e21b6e975ec",
+      "itemId": "knowledge-wuxi-zisha",
+      "itemName": "宜兴紫砂：材料、成型与喝茶习惯怎样相遇？",
+      "kind": "product",
+      "caption": "中国宜兴陶瓷博物馆陈鸣远虚扁壶实拍",
+      "reason": "卡片均明确讨论宜兴紫砂；使用同一真实紫砂壶作为具体器物例证，不视为新增独立照片。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "e8dd1e21b6e975ec",
+      "itemId": "regional-f799b47f3d57d4",
+      "itemName": "宜兴紫砂陶",
+      "kind": "product",
+      "caption": "中国宜兴陶瓷博物馆陈鸣远虚扁壶实拍",
+      "reason": "卡片均明确讨论宜兴紫砂；使用同一真实紫砂壶作为具体器物例证，不视为新增独立照片。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "6a863a4023c51ab8",
+      "itemId": "county-107c44bcda7f28",
+      "itemName": "次坞打面",
+      "kind": "food",
+      "caption": "宁波店铺售卖的次坞打面实拍",
+      "reason": "来源明确次坞打面，碗中手工面与配料完整；注明实际拍摄地宁波，不冒称产地拍摄。"
+    },
+    {
+      "candidateId": "7e66116aec7fd886",
+      "itemId": "program-7babfbb1a8426c650e",
+      "itemName": "南翔小笼",
+      "kind": "food",
+      "caption": "上海南翔馒头店本店蟹肉小笼包实拍",
+      "reason": "来源明确南翔本店蟹肉小笼，蒸笼与完整包子可辨；说明具体馅料版本。"
+    },
+    {
+      "candidateId": "7e62e8c720be72b3",
+      "itemId": "regional-450c5d3b55a0a3",
+      "itemName": "嘉定竹刻",
+      "kind": "product",
+      "caption": "嘉定流派竹根雕“坐僧与灵芝篮”实物，藏于斯普洛克博物馆",
+      "reason": "作品题名明确归于嘉定流派，完整竹根雕、光线清楚；保留归属说明，不推断拍摄地在嘉定。"
+    },
+    {
+      "candidateId": "10b836850c00ccf0",
+      "itemId": "js-suzhou-sanxia",
+      "itemName": "苏州三虾面",
+      "kind": "food",
+      "caption": "苏州裕兴记三虾面实拍（2016年）",
+      "reason": "作者明确记录在苏州西北街裕兴记拍摄三虾面，河虾、虾籽与面条清晰；成品近照明亮，青花碗与虾仁有层次。来源标注CC BY-NC-SA 2.0，按当前无广告的个人资料型GitHub Pages用途采用，衍生图片沿用该许可，不用于商业营销。",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "candidateId": "04d531c7b686f381",
+      "itemId": "tip-kunshan-access",
+      "itemName": "昆山 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "昆山站站房实拍（2016年）",
+      "reason": "具体车站与昆山接驳主题对应，来源地区与类别明确；仅说明实际铁路场所，不证明当前班次或出入口运营状态。"
+    },
+    {
+      "candidateId": "1adc805e00d01322",
+      "itemId": "tip-zhangjiagang-access",
+      "itemName": "张家港 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "张家港站4站台实拍（2023年）",
+      "reason": "具体张家港铁路场所与县级目的地接驳对应，站台清楚；不将照片作为现行班次证据。"
+    },
+    {
+      "candidateId": "4e35ecf25cbeed00",
+      "itemId": "flavor-zhejiang-07fae2bcd8",
+      "itemName": "温州糯米饭",
+      "kind": "food",
+      "caption": "温州糯米饭成品实拍",
+      "reason": "来源明确典型温州糯米饭，饭粒、肉末与油条清晰，光线与构图优于凌乱摊位全景。"
+    },
+    {
+      "candidateId": "5d33f69e7e5764ae",
+      "itemId": "tip-jiangyin-access",
+      "itemName": "江阴 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "江阴站4—5站台实拍（2024年）",
+      "reason": "确认为江阴站实景，站台与列车清楚，作为接驳地点实例，不保证当前时刻或车次。"
+    },
+    {
+      "candidateId": "764748ba2ffd1da6",
+      "itemId": "tip-yixing-access",
+      "itemName": "宜兴 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "宜兴站站房实拍（2013年）",
+      "reason": "来源与站房大字均对应宜兴；清楚保留历史拍摄年份，不宣称当前运营状态。"
+    },
+    {
+      "candidateId": "7e82498072ae7cae",
+      "itemId": "tip-changshu-access",
+      "itemName": "常熟 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "常熟站南广场夜景实拍",
+      "reason": "具体常熟站铁路接驳场所，站房标识和灯光可辨，不使用其他常熟地名场所替代。"
+    },
+    {
+      "candidateId": "8e3972fb8c9149e4",
+      "itemId": "venue-xuzhou-suning-plaza",
+      "itemName": "徐州苏宁广场",
+      "kind": "landscape",
+      "caption": "徐州苏宁广场夜景实拍（2026年1月）",
+      "reason": "来源明确徐州苏宁广场，建筑完整且城市夜景清楚。"
+    },
+    {
+      "candidateId": "99b8f476d913ad07",
+      "itemId": "flavor-zhejiang-c9b6df2ef7",
+      "itemName": "宁波年糕",
+      "kind": "food",
+      "caption": "宁波年糕的一种吃法：酒酿年糕实拍",
+      "reason": "来源题名酒酿年糕、分类明确宁波；展示具体年糕吃法，图片说明不把所有宁波年糕说成同一配方。"
+    },
+    {
+      "candidateId": "9df902c70243e6ab",
+      "itemId": "regional-a0d6c85956436f",
+      "itemName": "宁波朱金漆木雕",
+      "kind": "landscape",
+      "caption": "宁波钱业会馆戏台朱金漆木雕藻井实拍",
+      "reason": "来源明确建筑及朱金漆木雕地方工艺，实际装饰构件图案完整；不把照片称为当代桌面工艺品。"
+    },
+    {
+      "candidateId": "b7e0712b0588a008",
+      "itemId": "tip-pizhou-access",
+      "itemName": "邳州 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "邳州东站站房实拍（2026年6月）",
+      "reason": "来源与站房标识明确邳州东站，作为本地接驳场所实例；不写成邳州站或凭图保证现行班次。"
+    },
+    {
+      "candidateId": "cd8e5b76f4a39026",
+      "itemId": "tip-taicang-access",
+      "itemName": "太仓 · 县级目的地接驳",
+      "kind": "landscape",
+      "caption": "太仓南站站房实拍（2023年12月）",
+      "reason": "实际太仓南站，正确区分太仓站与太仓南站，作为卡片涉及的铁路场所实例。"
+    },
+    {
+      "candidateId": "b9427d2d8bc21201",
+      "itemId": "js-yangzhou-friedrice",
+      "itemName": "扬州炒饭",
+      "kind": "food",
+      "caption": "扬州炒饭实拍：香港餐厅版本",
+      "reason": "来源明确题名扬州炒饭；画面米饭、蛋、虾仁与细切配料对应卡片对这道饭食的描述，白盘成品清楚。本卡不指定餐馆或唯一配方，图片仅示范实际同名菜肴，明确香港拍摄版本，不以此证明扬州产地或本地现售。"
+    },
+    {
+      "candidateId": "03fb377556c6d135",
+      "itemId": "fact-suzhou-gardens",
+      "itemName": "园林里的窗，也是一幅画",
+      "kind": "landscape",
+      "caption": "苏州留园八角窗框景实拍",
+      "reason": "来源明确留园，八角窗及窗外庭院对应正文所讲框景；取真实窗景，不用普通庭院冒充窗。"
+    },
+    {
+      "candidateId": "52135caf4990491a",
+      "itemId": "knowledge-suzhou-canal",
+      "itemName": "运河怎样把江南城市连成一张网？",
+      "kind": "landscape",
+      "caption": "苏州与穿城大运河的航拍实景",
+      "reason": "来源明确苏州及大运河，作为实际城市河道例证；不由一张照片推出整个历史商贸网络。"
+    },
+    {
+      "candidateId": "7851d4c91a6652b0",
+      "itemId": "venue-jiangyin-highlight",
+      "itemName": "鹅鼻嘴公园",
+      "kind": "landscape",
+      "caption": "江阴鹅鼻嘴公园江尾海头碑与长江实拍",
+      "reason": "原始说明明确鹅鼻嘴公园，画面碑文可辨；不是仅凭长江照片猜测公园位置。"
+    },
+    {
+      "candidateId": "c1873c00eb7f7d4a",
+      "itemId": "tip-suzhou-metro",
+      "itemName": "苏州轨道交通 · 古城与新城之间",
+      "kind": "landscape",
+      "caption": "苏州轨道交通2号线列车实拍（2024年）",
+      "reason": "来源明确具体苏州轨道交通车辆与拍摄时间，外景清楚，作为实际交通场景，不据此声称实时运营安排。"
+    },
+    {
+      "candidateId": "0a27ef3fbfed9cb7",
+      "itemId": "tip-wuxi-metro",
+      "itemName": "无锡地铁 · 先查方向与末班车",
+      "kind": "landscape",
+      "caption": "无锡地铁1号线高架列车实拍",
+      "reason": "来源明确无锡地铁1号线，列车与高架轨道清楚；未采用其他城市列车代替。"
+    },
+    {
+      "candidateId": "ae6e97843bec11e7",
+      "itemId": "tip-xuzhou-metro",
+      "itemName": "徐州地铁 · 先查方向与末班车",
+      "kind": "landscape",
+      "caption": "徐州地铁1号线0112号列车实拍",
+      "reason": "来源明确徐州地铁列车驶近路窝站，实际交通场景对应地铁主题。"
+    },
+    {
+      "candidateId": "062a0107b314d200",
+      "itemId": "tip-suzhou-transit-tools",
+      "itemName": "苏州 · 出行 App 与线路查询",
+      "kind": "landscape",
+      "caption": "苏州轨道交通拙政园苏博站站台实拍（2025年）",
+      "reason": "该卡讨论确认线路、站名和方向，采用苏州真实车站场景；图片说明只称车站，不冒充App截图。"
+    },
+    {
+      "candidateId": "d4c039d2a854ffef",
+      "itemId": "tip-wuxi-transit-tools",
+      "itemName": "无锡 · 交通 App 与线路图",
+      "kind": "landscape",
+      "caption": "无锡地铁东亭站站厅与站台实拍",
+      "reason": "实际本地车站与线路、站名查询主题直接相关，不由静态照片保证实时线路或运营状态。"
+    },
+    {
+      "candidateId": "8630c1fbffe6f6cd",
+      "itemId": "tip-xuzhou-transit-tools",
+      "itemName": "徐州 · 交通 App 与线路图",
+      "kind": "landscape",
+      "caption": "徐州地铁彭城广场站1号线站台与方向显示屏实拍",
+      "reason": "来源明确车站和方向显示屏，对应先查线路、站名与行车方向的内容；不冒充实时App界面。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "405edcf3c735bfaa",
+      "itemId": "tip-suzhou-ticket-choice",
+      "itemName": "苏州 · 地铁票与铁路票分开选",
+      "kind": "landscape",
+      "caption": "苏州轨道交通花桥站服务中心实拍（2023年）",
+      "reason": "作为正文区分地铁与铁路票务的地铁场景实例，明确真实服务中心名称，不写成铁路售票厅。"
+    },
+    {
+      "candidateId": "71ae18c247fa92c0",
+      "itemId": "tip-suzhou-pharmacy",
+      "itemName": "苏州 · 药店与就医入口",
+      "kind": "landscape",
+      "caption": "苏州大学附属第一医院平江新城院区实拍（2026年）",
+      "reason": "本地实际正规医疗设施场景，来源与地区明确；不引申科室、值班、库存或就医推荐。"
+    },
+    {
+      "candidateId": "293eb5ea7cfe5b55",
+      "itemId": "tip-wuxi-pharmacy",
+      "itemName": "无锡 · 药店与就医",
+      "kind": "landscape",
+      "caption": "无锡市人民医院实拍",
+      "reason": "实际本地医院场景，名称与地区明确；不把静态外景当作营业、诊疗或药品供应证明。"
+    },
+    {
+      "candidateId": "9d29e23c7a4a3036",
+      "itemId": "tip-xuzhou-pharmacy",
+      "itemName": "徐州 · 药店与就医",
+      "kind": "landscape",
+      "caption": "徐州市中心医院实拍（2017年）",
+      "reason": "采用实际当地医疗设施外景，明确历史拍摄年；不由照片推出当前入口、值班或医疗服务状态。"
+    },
+    {
+      "candidateId": "b31835e38ba97825",
+      "itemId": "knowledge-suzhou-pingtan",
+      "itemName": "评弹是说书，还是唱曲？",
+      "kind": "landscape",
+      "caption": "苏州评弹演员在MetroTrans 2024展会的演出实拍",
+      "reason": "来源题名明确苏州评弹表演，画面两位演员与弦乐器对应说唱表演主题；不冒称在苏州剧场拍摄。"
+    },
+    {
+      "candidateId": "11298e97eecfe7aa",
+      "itemId": "knowledge-wuxi-clay",
+      "itemName": "惠山泥人：为什么“大阿福”不是全部？",
+      "kind": "product",
+      "caption": "南京博物院藏惠山泥人“手捏戏文”实物",
+      "reason": "来源明确为惠山泥人手捏戏文一组，支持正文关于大阿福之外人物、戏曲题材的内容。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "eab73b02ed1a010f",
+      "itemId": "venue-suzhou-center",
+      "itemName": "苏州中心商场",
+      "kind": "landscape",
+      "caption": "苏州中心商场中庭实拍",
+      "reason": "原始题名与说明均明确商场，建筑空间与中庭清楚，没有用不相关店铺或地铁站替代商场。"
+    },
+    {
+      "candidateId": "165a3e866e43f86b",
+      "itemId": "fact-suzhou-water",
+      "itemName": "苏州为什么叫“水城”？",
+      "kind": "landscape",
+      "caption": "苏州平江路水巷实拍",
+      "reason": "使用确认为苏州平江路的实际水巷，展示正文所讨论的城市水道场景；不把照片当作全部城市史的证明。",
+      "reuseExplicitSubject": true
+    },
+    {
+      "candidateId": "c0e5227c3d08a472",
+      "itemId": "venue-suzhou-tiger-hill",
+      "itemName": "虎丘",
+      "kind": "landscape",
+      "caption": "苏州虎丘塔实拍（2024年）",
+      "reason": "来源明确苏州虎丘塔，采用完整实景；竖幅保持全图，避免切掉塔顶。",
+      "fit": "contain"
+    },
+    {
+      "candidateId": "37c29e7ed6e5ffad",
+      "itemId": "venue-suzhou-shantang",
+      "itemName": "山塘街",
+      "kind": "landscape",
+      "caption": "苏州山塘街沿河街景实拍",
+      "reason": "来源明确山塘街及河道，实际街区与临河建筑清楚；已区分同名地铁站。"
+    },
+    {
+      "candidateId": "60da9822274582eb",
+      "itemId": "venue-wuxi-lingshan",
+      "itemName": "灵山胜境",
+      "kind": "landscape",
+      "caption": "无锡灵山大佛及寺区入口实拍",
+      "reason": "来源明确灵山景区，主体大佛和寺区入口可辨；保持完整画面，避免裁掉佛像头部。",
+      "fit": "contain"
+    },
+    {
+      "candidateId": "34aa3f71d60051dd",
+      "itemId": "venue-wuxi-lihu",
+      "itemName": "蠡湖",
+      "kind": "landscape",
+      "caption": "无锡蠡湖喷泉实拍",
+      "reason": "来源明确蠡湖喷泉，展示实际湖面景观，竖幅保留全图；不从照片保证现行喷泉开放安排。",
+      "fit": "contain"
+    },
+    {
+      "candidateId": "7343e5bcf4c75ad9",
+      "itemId": "venue-changshu-highlight",
+      "itemName": "虞山",
+      "kind": "landscape",
+      "caption": "常熟虞山北麓龙潭实拍",
+      "reason": "题名及说明明确常熟虞山北麓，清楚区分安徽雨山湖及苏州同名地铁站。"
+    },
+    {
+      "candidateId": "71d6cd43ab3b5766",
+      "itemId": "venue-xinyi-highlight",
+      "itemName": "窑湾古镇",
+      "kind": "landscape",
+      "caption": "新沂窑湾古镇街巷与酒坛实拍",
+      "reason": "来源明确窑湾古镇，采用实际街巷，不把酒坛画面称为酒品成品或当前酿造作业。"
+    },
+    {
+      "candidateId": "0b03b750f097fb3c",
+      "itemId": "county-6d83b971b28779",
+      "itemName": "嵊州小笼包",
+      "kind": "food",
+      "caption": "嵊州风味小笼包早餐实拍，摄于北京店铺",
+      "reason": "来源明确嵊州风味小笼包，蒸笼内包子为画面主体；标明实际拍摄地，不把名为杭州小笼的店招反向证明杭州菜式。"
+    },
+    {
+      "candidateId": "1b747bb92e2d89f1",
+      "itemId": "flavor-jiangsu-f6a5698ab0",
+      "itemName": "锅盖面",
+      "kind": "food",
+      "caption": "镇江西津渡李嫂锅盖面实拍，旁为肴肉",
+      "reason": "来源明确餐馆与菜名，整碗面为主体，保留真实早餐搭配，不由照片保证当前菜单或价格。"
+    },
+    {
+      "candidateId": "5db1b1d48bfd2405",
+      "itemId": "county-c815759f381465",
+      "itemName": "遂昌长粽",
+      "kind": "product",
+      "caption": "遂昌长粽粽叶包裹外观实拍",
+      "reason": "来源明确浙江丽水遂昌长粽，长条粽形完整清楚；不由未剥开的外观判断内馅配方。"
+    },
+    {
+      "candidateId": "7cd56e138aaac55a",
+      "itemId": "js-changzhou-radish",
+      "itemName": "常州萝卜干",
+      "kind": "product",
+      "caption": "常州萝卜干罐装产品实拍",
+      "reason": "题名明确常州萝卜干，包装及内容物为主体；展示产品外观，不用店铺招牌代替食品。"
+    },
+    {
+      "candidateId": "93f0220e4da22578",
+      "itemId": "js-xiting-cuibing",
+      "itemName": "西亭脆饼",
+      "kind": "food",
+      "caption": "西亭脆饼实物近照",
+      "reason": "来源明确西亭脆饼，条形饼体及芝麻表面可辨；当前为包装内近照，后续仍优先寻找完整摆盘或剖面照片。"
+    },
+    {
+      "candidateId": "aa134b228552154a",
+      "itemId": "flavor-jiangsu-fbe3664ad3",
+      "itemName": "高邮咸鸭蛋",
+      "kind": "product",
+      "caption": "高邮咸鸭蛋整蛋外观实拍",
+      "reason": "来源明确题名高邮煮咸鸭蛋，蛋体及印记清楚；图片只展示整蛋外观，不据此推断蛋黄出油率或作产地认证。"
+    },
+    {
+      "candidateId": "ab22df23c5c83d7b",
+      "itemId": "zj-beggar",
+      "itemName": "叫化童鸡",
+      "kind": "food",
+      "caption": "杭州山外山餐厅叫化鸡成品实拍",
+      "reason": "来源明确杭州山外山与菜名，整只熟鸡及金黄色表皮清楚；不共用于常熟叫花鸡等有待核对的地方版本。"
+    },
+    {
+      "candidateId": "b1f31cd90c2339d4",
+      "itemId": "zj-guyue",
+      "itemName": "古越龙山绍兴酒",
+      "kind": "product",
+      "caption": "绍兴黄酒展示馆中的古越龙山酒款包装陈列",
+      "reason": "原始说明明确鲁迅故里绍兴黄酒展示馆及古越龙山，展示实际包装与酒款外观；不称为酿造现场、酒液近照或当前在售清单。"
+    },
+    {
+      "candidateId": "da6ecac208b15fe6",
+      "itemId": "flavor-jiangsu-10f6f396d5",
+      "itemName": "虾籽饺面",
+      "kind": "food",
+      "caption": "扬州虾籽饺面成品实拍",
+      "reason": "来源明确扬州虾籽饺面，面条、饺子与汤底为画面主体；不以其他虾汤面或普通馄饨面替代。"
+    },
+    {
+      "candidateId": "e088b073a2bd8e67",
+      "itemId": "sh-eel",
+      "itemName": "响油鳝丝",
+      "kind": "food",
+      "caption": "松鹤楼芳草地店响油鳝丝实拍（2021年）",
+      "reason": "来源菜单将菜名说明为热油姜丝炒鳝丝，与卡片讨论的同名菜相符；标明实际门店，不把店名中的苏州误读为拍摄城市。"
+    },
+    {
+      "candidateId": "e213cdff326da538",
+      "itemId": "flavor-zhejiang-b6e5086b17",
+      "itemName": "宋嫂鱼羹",
+      "kind": "food",
+      "caption": "宋嫂鱼羹成品实拍",
+      "reason": "来源明确题名宋嫂鱼羹并归于浙江菜，真实羹汤、白碗与勺可辨；不把普通鱼汤冒认这道菜，也不编造具体餐厅。"
+    },
+    {
+      "candidateId": "ffb1500651316483",
+      "itemId": "program-9719a554b1ba99a3b4",
+      "itemName": "奥灶面",
+      "kind": "food",
+      "caption": "昆山奥灶馆奥灶面实拍",
+      "reason": "来源明确昆山奥灶馆与奥灶面，碗与面汤主体清楚；保留原拍摄外观，不改变汤色。"
+    },
+    {
+      "candidateId": "178a377fbf249029",
+      "itemId": "flavor-jiangsu-6ab8017700",
+      "itemName": "水晶肴肉",
+      "kind": "food",
+      "caption": "水晶肴肉成品实拍，摄于香港三六九饭店",
+      "reason": "源说明明确上海菜餐厅的水晶肴肉，画面肉片与胶冻纹理对应同名冷盘；不冒称在镇江拍摄或由照片证明产地。"
+    },
+    {
+      "candidateId": "9b35371421afaf50",
+      "itemId": "program-45aa9fd9743ed3c4a3",
+      "itemName": "瓯柑",
+      "kind": "food",
+      "fit": "contain",
+      "caption": "瓯柑果实剖面实拍：a为无籽品系，b为有籽对照",
+      "reason": "已保存并读取原论文图1说明、材料采集地及许可：果实为浙江温州种植的瓯柑及无籽芽变品系，图1a/b为实际果实剖面照片。保留原图对照标注和尺度，不把它当作全部瓯柑都无籽；不是生成图或绘制的示意图。"
+    },
+    {
+      "candidateId": "3e871b89c1c90d90",
+      "itemId": "venue-wuxi-huishan",
+      "itemName": "惠山古镇",
+      "kind": "landscape",
+      "caption": "无锡惠山古镇临河街景实拍（2020年）",
+      "reason": "来源明确惠山古镇，实际河道与两岸街巷清楚；已排除同名地铁站和历史照片翻拍。"
+    },
+    {
+      "candidateId": "6282ee5179bf4448",
+      "itemId": "venue-xuzhou-hubushan",
+      "itemName": "户部山",
+      "kind": "landscape",
+      "caption": "徐州户部山古建筑街区实拍（2026年2月）",
+      "reason": "来源明确徐州户部山古建筑街区，采用真实地面街景；不把同名地铁站当作景区。"
+    },
+    {
+      "candidateId": "f4dff98f13575020",
+      "itemId": "venue-xuzhou-yunlong-lake",
+      "itemName": "云龙湖",
+      "kind": "landscape",
+      "caption": "徐州云龙湖湖畔亭榭实拍（2026年1月）",
+      "reason": "来源明确徐州云龙湖，湖面与亭榭清楚；不以寺庙山号相同的日本寺院照片替代。"
+    },
+    {
+      "candidateId": "56038421d5b6deeb",
+      "itemId": "venue-suzhou-jinji-lake",
+      "itemName": "金鸡湖 · 湖滨步行",
+      "kind": "landscape",
+      "caption": "苏州金鸡湖湖景实拍（2020年）",
+      "reason": "来源明确苏州金鸡湖，湖面、岸线与城市天际线完整；不推断当前建筑或活动安排。"
+    },
+    {
+      "candidateId": "56231b0109c87a39",
+      "itemId": "venue-wuxi-nanchansi",
+      "itemName": "南禅寺商圈",
+      "kind": "landscape",
+      "caption": "无锡南禅寺及周边夜景实拍（2022年）",
+      "reason": "来源明确无锡南禅寺，作为寺庙商圈的实际地标场景；不把地铁入口或别城同名寺庙当成此处。"
+    },
+    {
+      "candidateId": "f87c7074f403c8f5",
+      "itemId": "venue-suzhou-songhelou",
+      "itemName": "松鹤楼 · 观前街店",
+      "kind": "landscape",
+      "caption": "苏州观前街松鹤楼门店实拍（2007年）",
+      "reason": "原始说明明确苏州松鹤楼，来源同时归入苏州观前街分类，门面实景与店名一致；注明历史拍摄时间，不保证当前装修。",
+      "fit": "contain"
+    },
+    {
+      "candidateId": "5ac6fb6db0db1004",
+      "itemId": "knowledge-suzhou-kunqu",
+      "itemName": "昆曲与昆山：一门表演艺术怎样走出地方？",
+      "kind": "landscape",
+      "caption": "北京大学《牡丹亭》昆曲演出实拍（2006年）",
+      "reason": "来源明确剧目、昆曲类型与北京大学演出场所，适配正文的艺术传播主题；不冒称在昆山拍摄或当前演出活动。",
+      "fit": "contain"
+    },
+    {
+      "candidateId": "ced86d41b270489f",
+      "itemId": "knowledge-suzhou-silk",
+      "itemName": "一匹丝绸背后，不只有“养蚕”",
+      "kind": "landscape",
+      "caption": "苏州第一丝厂丝绸加工设备实拍（2012年）",
+      "reason": "原始题名及说明明确苏州第一丝厂加工线，对应丝绸制作链条；不用越南蚕虫或甘肃肃州照片冒充本地生产场景。"
+    },
+    {
+      "candidateId": "626392e899551109",
+      "itemId": "food-suzhou-mooncake",
+      "kind": "food",
+      "caption": "苏式咸月饼自制实拍，摄于加拿大",
+      "reason": "作者明确苏式酥皮咸月饼、猪肉及葱、萝卜、香菇配料，照片可见酥皮与切开馅料；适用于泛苏式月饼卡片，不据此确认苏州本地门店或唯一传统配方。未自动复用于更窄的纯鲜肉品种条目。",
+      "photographedAt": "加拿大；作者说明为母亲自制",
+      "relevance": "source-identified-suzhou-style-mooncake-example",
+      "reuseExplicitSubject": true,
+      "itemName": "苏式月饼 · 酥皮也有咸口"
+    },
+    {
+      "candidateId": "bfb9cd82a117b567",
+      "itemId": "flavor-jiangsu-76f615dcb7",
+      "kind": "food",
+      "caption": "牛肉锅贴成品实拍，摄于墨尔本Ants Bistro",
+      "reason": "来源明确牛肉锅贴，金黄煎底与柔软上皮对应卡片对同名菜的基本描述；据此合理作为菜品实拍采用，注明海外餐厅，不当作南京当地制作、配方认证或现售证明。不是以普通饺子照片猜测牛肉馅。",
+      "photographedAt": "澳大利亚墨尔本Ants Bistro",
+      "relevance": "source-identified-dish-and-visible-method-match",
+      "itemName": "牛肉锅贴"
+    }
+  ],
+  "held": [
+    {
+      "candidateId": "034ef031bba9220f",
+      "itemIds": [
+        "county-zhejiang-6f5645b85e"
+      ],
+      "reason": "福建鼎边糊不能作为龙游米糊；百科配图错配。"
+    },
+    {
+      "candidateId": "27223b2e7c2ac836",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "reason": "福鼎肉片不能作为温州瘦肉丸。"
+    },
+    {
+      "candidateId": "2418802d114fb2df",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "reason": "博物馆食物展陈不能充当真实菜品成品主图。"
+    },
+    {
+      "candidateId": "51e11ae7ff0c811f",
+      "itemIds": [
+        "lead-c1dc88453067d9"
+      ],
+      "reason": "普通鸡蛋外观不能证明童子尿蛋。"
+    },
+    {
+      "candidateId": "a72544759fa39a9a",
+      "itemIds": [
+        "venue-wuxi-grand-theatre"
+      ],
+      "reason": "无锡地铁大剧院站出口，不是无锡大剧院建筑。"
+    },
+    {
+      "candidateId": "c87e773190fbb77e",
+      "itemIds": [
+        "flavor-zhejiang-ffbd6ab60b"
+      ],
+      "reason": "木莲植物果实不是木莲豆腐成品。"
+    },
+    {
+      "candidateId": "d16fddc6fa39c96f",
+      "itemIds": [
+        "sh-smoked-fish"
+      ],
+      "reason": "其他地区熏制食品，不是上海熏鱼。"
+    },
+    {
+      "candidateId": "5c1c07a3eb2c2cd8",
+      "itemIds": [
+        "flavor-jiangsu-8958cecb9d"
+      ],
+      "reason": "建瓯光饼不是黄桥烧饼。"
+    },
+    {
+      "candidateId": "93f0220e4da22578",
+      "itemIds": [
+        "js-xiting-cuibing"
+      ],
+      "reason": "西亭脆饼零售散堆画面灰暗，暂不用于主图。"
+    },
+    {
+      "candidateId": "6f5b173e359d6318",
+      "itemIds": [
+        "flavor-jiangsu-45f4286741"
+      ],
+      "reason": "芝麻糖散堆陈列画面平，继续找更清楚成品照。"
+    },
+    {
+      "candidateId": "e213cdff326da538",
+      "itemIds": [
+        "flavor-zhejiang-b6e5086b17"
+      ],
+      "reason": "汤色与画面偏暗，继续优选有食欲的宋嫂鱼羹成品照。"
+    },
+    {
+      "candidateId": "098bc62b13e6f84f",
+      "itemId": "regional-995e420e3cbc52",
+      "reason": "原图作者将苏州现场刺绣称为顾绣，但工艺身份与历史说法存疑，撤下绑定，改用题名明确的顾绣实物。"
+    },
+    {
+      "candidateId": "efb1d5a2f27bd48a",
+      "itemId": "sh-eight-treasure-duck",
+      "reason": "墨尔本同名八宝鸭候选，实物可辨但焦点与光线较弱，也未核实是否符合卡片所述上海做法；暂不以同名直接采用。"
+    },
+    {
+      "candidateId": "02c78ae22b028250",
+      "itemIds": [
+        "tip-fengxian-access"
+      ],
+      "reason": "日本爱知县丰桥站，绝非江苏丰县；地名分词误命中。"
+    },
+    {
+      "candidateId": "ee5862f98d825c79",
+      "itemIds": [
+        "tip-fengxian-access"
+      ],
+      "reason": "日本丰桥站鳗鱼饭，既不是丰县，也不是接驳场所照片。"
+    },
+    {
+      "candidateId": "34b05d097a6f12c0",
+      "itemIds": [
+        "flavor-zhejiang-b769fc8fd7"
+      ],
+      "reason": "东莞普通鱼蛋粉，不是温州鱼丸。"
+    },
+    {
+      "candidateId": "54ef0610d51f1a3f",
+      "itemIds": [
+        "flavor-zhejiang-b769fc8fd7"
+      ],
+      "reason": "香港式客家餐厅普通圆鱼蛋，与温州不规则鱼丸不对应。"
+    },
+    {
+      "candidateId": "cfe5db1313bf8cac",
+      "itemIds": [
+        "program-c17932bd63d25f0e3d"
+      ],
+      "reason": "标签为鼎好牌镇江香醋，未支持实际镇江原产地，且品牌不属于恒顺；不以包装菜名或Commons分类充当地域证明。"
+    },
+    {
+      "candidateId": "fd6d549949ecc8ff",
+      "itemIds": [
+        "program-c17932bd63d25f0e3d"
+      ],
+      "reason": "来源仅说天津餐厅的中国醋，不能确认镇江产地。"
+    },
+    {
+      "candidateId": "2418802d114fb2df",
+      "itemId": "js-dazhugansi",
+      "reason": "扬州淮扬菜博物馆展柜中的大煮干丝展示物，可能为仿真模型，不能确认可食用真菜；不能作为真实成品照采用。"
+    }
+  ]
+}

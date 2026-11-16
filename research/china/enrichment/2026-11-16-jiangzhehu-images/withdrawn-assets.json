@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-16",
+  "assets": [
+    {
+      "assetId": "jzy-098bc62b13e6f84f",
+      "previousRuntimeSrc": "assets/photos/china/jzy-098bc62b13e6f84f.jpg",
+      "retainedFile": "research/.local/jiangzhehu-images-20261116/withdrawn-assets/jzy-098bc62b13e6f84f.jpg",
+      "sha256": "fede7092d85946a5a7c1b2aa6a3ada265f9f65958742dd186e822d01dca13827",
+      "metadata": {
+        "file": "Gu embroidery.jpg",
+        "src": "assets/photos/china/jzy-098bc62b13e6f84f.jpg",
+        "width": 960,
+        "height": 720,
+        "kind": "landscape",
+        "alt": "顾绣刺绣操作实拍（摄影于苏州，不据此认定起源）",
+        "caption": "顾绣刺绣操作实拍（摄影于苏州，不据此认定起源）",
+        "author": "Gary Soup",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gu_embroidery.jpg",
+        "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Gu_embroidery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "provider": "Wikimedia Commons",
+        "checked": "2026-11-16",
+        "visualReview": {
+          "status": "withdrawn",
+          "date": "2026-11-16",
+          "notes": "后续主体复核未通过，取消正式绑定；保留文件与检索历史。"
+        },
+        "listDisplay": false,
+        "changes": "采用来源提供的实拍响应，作EXIF方向处理、等比例限宽和JPEG编码；列表按画框裁切，未生成或改变主体。"
+      },
+      "reason": "主体工艺身份未获确认，撤出正式配置；原件、衍生图与历史决定保留。"
+    }
+  ]
+}
