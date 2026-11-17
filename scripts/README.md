@@ -54,3 +54,5 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 江浙沪后续批次的来源收集、明确复用与不演绎图片处理见 [第二批维护](china-enrichment/jiangzhehu-02/README.md)，验收只遍历本批变化并核对旧输入。已封存批次不作为后续写入目标。
 
 江浙沪第三批实拍采集、人工采用与覆盖工具在 [jiangzhehu-03](china-enrichment/jiangzhehu-03/README.md)。历史批次封存后不要重跑覆盖原件；采用以人工决策和来源指纹为准。
+
+后续补图沿用[配图执行方法](../docs/card-images.md#中国卡片批量补图的执行方法)。共用请求入口 `china-enrichment/fetch_photo_sources.py` 从具体URL计划取得完整响应，默认最多12次网络请求，核对并复用缓存，保存错误正文，遇429暂停该来源且等待时间跨重启生效。不会预提交全量任务、自动选图或写入网页。`python tests/photo-source-fetch.py` 检查限流后不继续请求、其他来源可继续、缓存复用、请求预算与损坏缓存处理。
