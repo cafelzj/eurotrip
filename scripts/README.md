@@ -52,3 +52,5 @@ python scripts/search-flavor-counties.py --province jiangsu --city 无锡 --plac
 江浙沪已有卡片的实拍维护见 [专用脚本说明](china-enrichment/jiangzhehu/README.md)：检索、下载、主体核对、人工采用与覆盖分别记录，不以搜索命中或下载数量代替完成数量。
 
 江浙沪后续批次的来源收集、明确复用与不演绎图片处理见 [第二批维护](china-enrichment/jiangzhehu-02/README.md)，验收只遍历本批变化并核对旧输入。已封存批次不作为后续写入目标。
+
+江浙沪第三批实拍采集、人工采用与覆盖工具在 [jiangzhehu-03](china-enrichment/jiangzhehu-03/README.md)。历史批次封存后不要重跑覆盖原件；采用以人工决策和来源指纹为准。

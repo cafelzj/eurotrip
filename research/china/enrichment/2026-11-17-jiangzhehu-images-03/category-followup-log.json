@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-17",
+  "checks": [
+    {
+      "category": "Cuisine of Ningbo",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Ningbo",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+      "responseSha256": "be5e24208d63f33577406c90fadd13a5d3cc9beac13c3ae7fcc2bf956624ee20",
+      "compressedSha256": "1e1c89a7808596ec2856c4ff916704803d838fee181eb8065c8802e53362e0e6",
+      "fileTitles": [
+        "Salted crab in Nanyuan Hotel, Ningbo (20170130191038).jpg",
+        "千層餅店 - panoramio.jpg",
+        "溪口千层饼, 2019-12-17 01.jpg",
+        "溪口千层饼, 2019-12-17 02.jpg",
+        "溪口旅游街-孝顺饼坊 - panoramio.jpg",
+        "溪口镇特产芋头.jpeg",
+        "溪口镇的芋头.jpg",
+        "百年老店剡溪饼坊 - panoramio.jpg",
+        "蒋孝顺千层饼.jpg"
+      ],
+      "subcategories": [
+        "Restaurants in Ningbo",
+        "Water tower cake",
+        "Xikou thousand-layer cake"
+      ]
+    },
+    {
+      "category": "Ningbo cuisine",
+      "url": "https://commons.wikimedia.org/wiki/Category:Ningbo_cuisine",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Cuisine of Shaoxing",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Shaoxing",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Shaoxing cuisine",
+      "url": "https://commons.wikimedia.org/wiki/Category:Shaoxing_cuisine",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Cuisine of Suzhou",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Suzhou",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Cuisine of Yangzhou",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Yangzhou",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Cuisine of Nanjing",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Nanjing",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/029d13e8119df19ced63.html.gz",
+      "responseSha256": "d937ab3cf044040fdba38de0ee31ae495ce4027733ac0695192e4154744f5bb1",
+      "compressedSha256": "7873da8591b6f16390b3d112f99949735c8316582139fffd63c97093429d4dcf",
+      "fileTitles": [],
+      "subcategories": []
+    },
+    {
+      "category": "Cuisine of Huai'an",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Huai%27an",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Cuisine of Nantong",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cuisine_of_Nantong",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Wufangzhai",
+      "url": "https://commons.wikimedia.org/wiki/Category:Wufangzhai",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Tangyuan in Ningbo",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tangyuan_in_Ningbo",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Shengjian mantou",
+      "url": "https://commons.wikimedia.org/wiki/Category:Shengjian_mantou",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz",
+      "responseSha256": "fe97c860b288bf102b7060decdc349a8699d3edc3519b633f8090db31c85214e",
+      "compressedSha256": "75d9946cbdce592bfb139a17c4b1a9e9d74d315289f9f4f66658ec94a1a7ea78",
+      "fileTitles": [
+        "2009-03-21 Shengjian mantou vendor at Shilin Night Market.jpg",
+        "2022-09-03 Sheng Jian Bao - Shanghai Pan-Fried Pork Buns.jpg",
+        "2023-07-08 湖州生煎馒头.jpg",
+        "Food 上海生煎包, Pan-fried Shanghai Pork Bun, 樂天皇朝, PARADISE DYNASTY, 台北 (23590608472).jpg",
+        "Fried dumplings.jpg",
+        "HK 尖沙咀東 TST East 新文華中心 New Mandarin Plaza 酒吧街 Bar Street December 2021 SS2 02.jpg",
+        "Live streamer introducing food product at a restaurant in Suzhou-20230814.jpg",
+        "Mini fried pork buns.jpg",
+        "Sheng jian bao - Cheung Hing Kee, Hong Kong (2024).jpg",
+        "Sheng Jian Bao and rice by kina3 in Kichijoji, Tokyo.jpg",
+        "Sheng Jian Bao at Xiao Yang Sheng Jian in Shanghai China.jpg",
+        "Sheng Jian Bao by MR+G in Dalian.jpg",
+        "Sheng Jian Bao on a pan.jpg",
+        "Shengjian Mantou on a Pan.jpg",
+        "Shengjian mantou shop by ToastyKen in Shanghai.jpg",
+        "Shengjian mantou.jpg",
+        "Shengjianbao and Suanlafen at Yang's Dumpling Suzhou Center-20220709.jpg",
+        "Shengjianbao by buncheduptv in San Gabriel, CA.jpg",
+        "Shengjianbao by buncheduptv in San Mateo, CA.jpg",
+        "Shengjianbao shop by ma jump in Shilin Night Market, Taiwan.jpg",
+        "ShengJianBaoShanghaiChina.jpg",
+        "Shengjianmantou by galaxyharrylion in shanghai.jpg",
+        "Sunjingbao shop by Jim Epler in Taipei.jpg",
+        "SZ 深圳 Shenzhen Luohu District Luo Sha Road Heung Yuen Wai Shopping Mall shop food 生煎包 dumpling n drink boxes April 2023 Px3.jpg",
+        "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food March 2023 Px3 04.jpg",
+        "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant April 2024 R12S 01.jpg",
+        "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant April 2024 R12S 02.jpg",
+        "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 October 2023 R12S 01.jpg",
+        "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 October 2023 R12S 02.jpg",
+        "Xiao Yang Sheng Jian Guan 1.jpg",
+        "Xiao Yang Sheng Jian Guan 2.jpg",
+        "北投石牌商城-生煎包09 (27558770616).jpg"
+      ],
+      "subcategories": [
+        "Yang's Dumpling"
+      ]
+    },
+    {
+      "category": "Cakes of Zhejiang",
+      "url": "https://commons.wikimedia.org/wiki/Category:Cakes_of_Zhejiang",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Tea of Zhejiang",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tea_of_Zhejiang",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Tea of Jiangsu",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tea_of_Jiangsu",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Yuhua tea",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yuhua_tea",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Gunpowder tea",
+      "url": "https://commons.wikimedia.org/wiki/Category:Gunpowder_tea",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz",
+      "responseSha256": "81d3bd1ae67cf66e34858f37c8dc2a082f6f8cc3ba205174de76fb99f22ccf47",
+      "compressedSha256": "5c1f7bf764c236c43759957ce6effddc201add2473f36c1e1c54aa49a9312c64",
+      "fileTitles": [
+        "Elpitiya Gunpowder GP1.jpg",
+        "Gruener Tee China Gunpowder.jpg",
+        "Gunpowder Green Tea.jpg",
+        "Gunpowder tea construction site.jpg",
+        "Gunpowder tea in pile.jpg",
+        "Gunpowdertea.jpg",
+        "Oolong gunpowder tea size comparison.jpg",
+        "Oolong gunpowder tea sizes before after.jpg",
+        "Oolong gunpowder tea sizes.jpg",
+        "Thé vert gunpowder 01.jpg",
+        "Thé vert gunpowder entassé 01.jpg",
+        "Twinings gunpowder green tea.jpg",
+        "Twinings Gunpowder tea in pile.jpg",
+        "Twinings Gunpowder tea in tin.jpg",
+        "Twinings Gunpowder tin of tea.jpg",
+        "Twinnings gunpowder green tea.jpg",
+        "Изглед зеленог чаја Gunpowder.JPG"
+      ],
+      "subcategories": []
+    },
+    {
+      "category": "Huiming tea",
+      "url": "https://commons.wikimedia.org/wiki/Category:Huiming_tea",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Longquan swords",
+      "url": "https://commons.wikimedia.org/wiki/Category:Longquan_swords",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Longquan sword",
+      "url": "https://commons.wikimedia.org/wiki/Category:Longquan_sword",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Yangzhou lacquerware",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yangzhou_lacquerware",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Yangzhou jade carving",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yangzhou_jade_carving",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Yangzhou paper cutting",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yangzhou_paper_cutting",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Yueqing wood carving",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yueqing_wood_carving",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Huzhou brushes",
+      "url": "https://commons.wikimedia.org/wiki/Category:Huzhou_brushes",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Silk of Hangzhou",
+      "url": "https://commons.wikimedia.org/wiki/Category:Silk_of_Hangzhou",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Kesi",
+      "url": "https://commons.wikimedia.org/wiki/Category:Kesi",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/ae979dc3179637ec0174.html.gz",
+      "responseSha256": "89916dfb291a4ee7d140f714592787b678465c98b16cbaf602064186fccf8617",
+      "compressedSha256": "55f3db8b4d9fb66ede8d7baf0e27ee127c1e229ac41f390f1743ccab7c711074",
+      "fileTitles": [
+        "Kesi 1.JPG",
+        "Kesi 2.JPG",
+        "Oliver Kesi Chambuso.jpg"
+      ],
+      "subcategories": []
+    },
+    {
+      "category": "Fengjing pigs",
+      "url": "https://commons.wikimedia.org/wiki/Category:Fengjing_pigs",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Hu sheep",
+      "url": "https://commons.wikimedia.org/wiki/Category:Hu_sheep",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Langshan chickens",
+      "url": "https://commons.wikimedia.org/wiki/Category:Langshan_chickens",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Meat mooncakes",
+      "url": "https://commons.wikimedia.org/wiki/Category:Meat_mooncakes",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Shaoxing stinky tofu",
+      "url": "https://commons.wikimedia.org/wiki/Category:Shaoxing_stinky_tofu",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Tongheung",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tongheung",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Chaogan",
+      "url": "https://commons.wikimedia.org/wiki/Category:Chaogan",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz",
+      "responseSha256": "3600466dee443165c9b9644c3c128da9cd973b3b0e13fc9b367e618259872c9c",
+      "compressedSha256": "705010f17ef03f7805b0fe74b65bfa03bbd12456eb5d0f2edff603d31caaccf9",
+      "fileTitles": [
+        "Beijing traditional breakfast Chaogan Youbing.jpg",
+        "Breakfast selections at a restaurant near Wanshousi, Beijing (20230313082120).jpg",
+        "Chaogan.JPG",
+        "Chaoganr at Miaojiapo Restaurant (20201105150908).jpg",
+        "一碗炒肝.jpg",
+        "用筷子挑起一块炒肝的汤汁.jpg"
+      ],
+      "subcategories": []
+    },
+    {
+      "category": "Sandingbao",
+      "url": "https://commons.wikimedia.org/wiki/Category:Sandingbao",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Steamed pork with rice flour",
+      "url": "https://commons.wikimedia.org/wiki/Category:Steamed_pork_with_rice_flour",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Mifenrou",
+      "url": "https://commons.wikimedia.org/wiki/Category:Mifenrou",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Double-skin milk",
+      "url": "https://commons.wikimedia.org/wiki/Category:Double-skin_milk",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "category": "Water tower cake",
+      "url": "https://commons.wikimedia.org/wiki/Category:Water_tower_cake",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/4e651337150bbc4c3a9f.html.gz",
+      "responseSha256": "d93535d5750f2218c6693ec0bb6bd329ea784d7a53870f760e3b25811c12b63a",
+      "compressedSha256": "39c7bf0f4a3fee61a80be848ad47ada8f0bd2f5141c826c98d1a06c510014dbd",
+      "fileTitles": [
+        "Cherry blossom cakes.jpg",
+        "Pumpkin yellow heart cake.jpg",
+        "Water tower cake.jpg"
+      ],
+      "subcategories": []
+    },
+    {
+      "category": "Xikou thousand-layer cake",
+      "url": "https://commons.wikimedia.org/wiki/Category:Xikou_thousand-layer_cake",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz",
+      "responseSha256": "e163ce3673ec3484a3234d0090406f0971a2cae9e5abdf75e524e46f9a5be68b",
+      "compressedSha256": "742888792d5b852d122401896d10ec0f42e3fbf7e336c117eafd361c9a6fb53d",
+      "fileTitles": [
+        "千層餅店 - panoramio.jpg",
+        "溪口千层饼, 2019-12-17 01.jpg",
+        "溪口千层饼, 2019-12-17 02.jpg",
+        "溪口旅游街-孝顺饼坊 - panoramio.jpg",
+        "百年老店剡溪饼坊 - panoramio.jpg",
+        "蒋孝顺千层饼.jpg"
+      ],
+      "subcategories": []
+    },
+    {
+      "category": "Yang's Dumpling",
+      "url": "https://commons.wikimedia.org/wiki/Category:Yang%27s_Dumpling",
+      "status": "saved",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz",
+      "responseSha256": "94b6f8bd59f49644134265df2d35510aec93dd519f5d946104d1b7860e264dce",
+      "compressedSha256": "25a446d65ff8e48855b809b9a96b2d6272466eafea95e2e6b5c87355129cf1c0",
+      "fileTitles": [
+        "Shanghai (December 8, 2015) - 04.jpg",
+        "Shanghai (December 9, 2015) - 04.jpg",
+        "Shanghai (December 9, 2015) - 05.jpg",
+        "Shanghai (December 9, 2015) - 100.jpg",
+        "Shanghai, China, December 2015 - 021.JPG",
+        "Sheng Jian Bao at Xiao Yang Sheng Jian in Shanghai China.jpg",
+        "Shengjianbao and Suanlafen at Yang's Dumpling Suzhou Center-20220709.jpg",
+        "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 02.jpg",
+        "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 03.jpg",
+        "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 08.jpg",
+        "Xiao Yang Sheng Jian Guan 1.jpg",
+        "Xiao Yang Sheng Jian Guan 2.jpg",
+        "Yang's Dumping at Jingcheng Neighbor Center-20210803.jpg",
+        "Yang's Dumpling at RT-Mart Zhongyuan Road-20240130.jpg",
+        "Yang's Dumpling at Shanghai Railway Station.jpg",
+        "Yang's Dumpling at Suzhou Center-20220709.jpg",
+        "Yang's Dumpling on arrival floor of Shanghai Hongqiao Station.jpg",
+        "小楊生煎 Kwankwan.jpg",
+        "小楊生煎.jpg"
+      ],
+      "subcategories": []
+    }
+  ]
+}

@@ -1,0 +1,5536 @@
+{
+  "date": "2026-11-17",
+  "kind": "exact-existing-card-name-search-not-verification",
+  "jobs": [
+    {
+      "query": "\"苏州 · 共享单车与慢行\"",
+      "itemIds": [
+        "tip-suzhou-shared-mobility"
+      ],
+      "name": "苏州 · 共享单车与慢行"
+    },
+    {
+      "query": "\"去苏州，机场接驳怎么选\"",
+      "itemIds": [
+        "tip-suzhou-airport"
+      ],
+      "name": "去苏州，机场接驳怎么选"
+    },
+    {
+      "query": "\"同得兴 · 嘉馀坊店\"",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "name": "同得兴 · 嘉馀坊店"
+    },
+    {
+      "query": "\"大润发 · 在苏州找门店\"",
+      "itemIds": [
+        "brand-suzhou-rtmart"
+      ],
+      "name": "大润发 · 在苏州找门店"
+    },
+    {
+      "query": "\"盒马 · 在苏州找门店\"",
+      "itemIds": [
+        "brand-suzhou-hema"
+      ],
+      "name": "盒马 · 在苏州找门店"
+    },
+    {
+      "query": "\"山姆会员商店 · 在苏州找门店\"",
+      "itemIds": [
+        "brand-suzhou-samsclub"
+      ],
+      "name": "山姆会员商店 · 在苏州找门店"
+    },
+    {
+      "query": "\"黄天源 · 糕团与时令点心\"",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "name": "黄天源 · 糕团与时令点心"
+    },
+    {
+      "query": "\"苏州旅行 · 紧急求助与日常准备\"",
+      "itemIds": [
+        "tip-suzhou-help"
+      ],
+      "name": "苏州旅行 · 紧急求助与日常准备"
+    },
+    {
+      "query": "\"徐州 · 共享单车补齐短途\"",
+      "itemIds": [
+        "tip-xuzhou-shared-mobility"
+      ],
+      "name": "徐州 · 共享单车补齐短途"
+    },
+    {
+      "query": "\"徐州旅行 · 日常与紧急准备\"",
+      "itemIds": [
+        "tip-xuzhou-help"
+      ],
+      "name": "徐州旅行 · 日常与紧急准备"
+    },
+    {
+      "query": "\"大润发 · 在徐州找门店\"",
+      "itemIds": [
+        "brand-xuzhou-rtmart"
+      ],
+      "name": "大润发 · 在徐州找门店"
+    },
+    {
+      "query": "\"无锡 · 共享单车补齐短途\"",
+      "itemIds": [
+        "tip-wuxi-shared-mobility"
+      ],
+      "name": "无锡 · 共享单车补齐短途"
+    },
+    {
+      "query": "\"无锡旅行 · 日常与紧急准备\"",
+      "itemIds": [
+        "tip-wuxi-help"
+      ],
+      "name": "无锡旅行 · 日常与紧急准备"
+    },
+    {
+      "query": "\"大润发 · 在无锡找门店\"",
+      "itemIds": [
+        "brand-wuxi-rtmart"
+      ],
+      "name": "大润发 · 在无锡找门店"
+    },
+    {
+      "query": "\"烙馍与卷菜\"",
+      "itemIds": [
+        "food-xuzhou-lomo"
+      ],
+      "name": "烙馍与卷菜"
+    },
+    {
+      "query": "\"饣它汤 · 早餐热汤\"",
+      "itemIds": [
+        "food-xuzhou-satang"
+      ],
+      "name": "饣它汤 · 早餐热汤"
+    },
+    {
+      "query": "\"徐州辣汤与早餐搭配\"",
+      "itemIds": [
+        "food-xuzhou-sha-tang"
+      ],
+      "name": "徐州辣汤与早餐搭配"
+    },
+    {
+      "query": "\"徐州与彭城、汉文化\"",
+      "itemIds": [
+        "fact-xuzhou-han"
+      ],
+      "name": "徐州与彭城、汉文化"
+    },
+    {
+      "query": "\"无锡糕团与时令点心\"",
+      "itemIds": [
+        "food-wuxi-haitang"
+      ],
+      "name": "无锡糕团与时令点心"
+    },
+    {
+      "query": "\"无锡不只有市中心的一片太湖\"",
+      "itemIds": [
+        "fact-wuxi-taihu"
+      ],
+      "name": "无锡不只有市中心的一片太湖"
+    },
+    {
+      "query": "\"香山景区\"",
+      "itemIds": [
+        "venue-zhangjiagang-highlight"
+      ],
+      "name": "香山景区"
+    },
+    {
+      "query": "\"张家港 · 长江港城\"",
+      "itemIds": [
+        "local-zhangjiagang-culture"
+      ],
+      "name": "张家港 · 长江港城"
+    },
+    {
+      "query": "\"丰县博物馆\"",
+      "itemIds": [
+        "venue-fengxian-highlight"
+      ],
+      "name": "丰县博物馆"
+    },
+    {
+      "query": "\"丰县 · 梨与苹果的产地线索\"",
+      "itemIds": [
+        "local-fengxian-culture"
+      ],
+      "name": "丰县 · 梨与苹果的产地线索"
+    },
+    {
+      "query": "\"丰县 · 县级目的地接驳\"",
+      "itemIds": [
+        "tip-fengxian-access"
+      ],
+      "name": "丰县 · 县级目的地接驳"
+    },
+    {
+      "query": "\"沛县汉城公园\"",
+      "itemIds": [
+        "venue-peixian-highlight"
+      ],
+      "name": "沛县汉城公园"
+    },
+    {
+      "query": "\"沛县 · 刘邦与汉文化记忆\"",
+      "itemIds": [
+        "local-peixian-culture"
+      ],
+      "name": "沛县 · 刘邦与汉文化记忆"
+    },
+    {
+      "query": "\"沛县 · 县级目的地接驳\"",
+      "itemIds": [
+        "tip-peixian-access"
+      ],
+      "name": "沛县 · 县级目的地接驳"
+    },
+    {
+      "query": "\"水月禅寺\"",
+      "itemIds": [
+        "venue-suining-highlight"
+      ],
+      "name": "水月禅寺"
+    },
+    {
+      "query": "\"睢宁 · 儿童画文化\"",
+      "itemIds": [
+        "local-suining-culture"
+      ],
+      "name": "睢宁 · 儿童画文化"
+    },
+    {
+      "query": "\"睢宁 · 县级目的地接驳\"",
+      "itemIds": [
+        "tip-suining-access"
+      ],
+      "name": "睢宁 · 县级目的地接驳"
+    },
+    {
+      "query": "\"新沂 · 县级目的地接驳\"",
+      "itemIds": [
+        "tip-xinyi-access"
+      ],
+      "name": "新沂 · 县级目的地接驳"
+    },
+    {
+      "query": "\"艾山风景名胜区\"",
+      "itemIds": [
+        "venue-pizhou-highlight"
+      ],
+      "name": "艾山风景名胜区"
+    },
+    {
+      "query": "\"邳州 · 银杏与秋季乡村\"",
+      "itemIds": [
+        "local-pizhou-culture"
+      ],
+      "name": "邳州 · 银杏与秋季乡村"
+    },
+    {
+      "query": "\"看汉墓时，怎样区分墓、俑和画像石？\"",
+      "itemIds": [
+        "knowledge-xuzhou-han-tombs"
+      ],
+      "name": "看汉墓时，怎样区分墓、俑和画像石？"
+    },
+    {
+      "query": "\"无锡为什么有“布码头”的城市记忆？\"",
+      "itemIds": [
+        "knowledge-wuxi-textiles"
+      ],
+      "name": "无锡为什么有“布码头”的城市记忆？"
+    },
+    {
+      "query": "\"苏州话与无锡话：同属吴语，也并非处处一样\"",
+      "itemIds": [
+        "language-cn-wu"
+      ],
+      "name": "苏州话与无锡话：同属吴语，也并非处处一样"
+    },
+    {
+      "query": "\"同在江苏，徐州话为什么与苏州话差很多？\"",
+      "itemIds": [
+        "language-cn-xuzhou"
+      ],
+      "name": "同在江苏，徐州话为什么与苏州话差很多？"
+    },
+    {
+      "query": "\"天山雪牛奶\"",
+      "itemIds": [
+        "js-tianshanxue"
+      ],
+      "name": "天山雪牛奶"
+    },
+    {
+      "query": "\"维维豆奶\"",
+      "itemIds": [
+        "js-vv"
+      ],
+      "name": "维维豆奶"
+    },
+    {
+      "query": "\"洋河酒\"",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "name": "洋河酒"
+    },
+    {
+      "query": "\"双沟酒\"",
+      "itemIds": [
+        "js-shuanggou"
+      ],
+      "name": "双沟酒"
+    },
+    {
+      "query": "\"雨花茶\"",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "name": "雨花茶"
+    },
+    {
+      "query": "\"常熟叫花鸡\"",
+      "itemIds": [
+        "js-beggar-chicken"
+      ],
+      "name": "常熟叫花鸡"
+    },
+    {
+      "query": "\"一鸣鲜牛奶\"",
+      "itemIds": [
+        "zj-yiming"
+      ],
+      "name": "一鸣鲜牛奶"
+    },
+    {
+      "query": "\"李子园甜牛奶饮料\"",
+      "itemIds": [
+        "zj-liziyuan"
+      ],
+      "name": "李子园甜牛奶饮料"
+    },
+    {
+      "query": "\"会稽山绍兴酒\"",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "name": "会稽山绍兴酒"
+    },
+    {
+      "query": "\"雪菜大汤黄鱼\"",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ],
+      "name": "雪菜大汤黄鱼"
+    },
+    {
+      "query": "\"梅干菜焖肉\"",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "name": "梅干菜焖肉"
+    },
+    {
+      "query": "\"荷叶粉蒸肉\"",
+      "itemIds": [
+        "zj-steamed-pork"
+      ],
+      "name": "荷叶粉蒸肉"
+    },
+    {
+      "query": "\"光明鲜牛奶\"",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "name": "光明鲜牛奶"
+    },
+    {
+      "query": "\"光明酸奶\"",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "name": "光明酸奶"
+    },
+    {
+      "query": "\"正广和饮品\"",
+      "itemIds": [
+        "sh-soda"
+      ],
+      "name": "正广和饮品"
+    },
+    {
+      "query": "\"石库门黄酒\"",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "name": "石库门黄酒"
+    },
+    {
+      "query": "\"汪裕泰茶庄\"",
+      "itemIds": [
+        "sh-wangyutai"
+      ],
+      "name": "汪裕泰茶庄"
+    },
+    {
+      "query": "\"庄行白切羊肉\"",
+      "itemIds": [
+        "sh-lamb"
+      ],
+      "name": "庄行白切羊肉"
+    },
+    {
+      "query": "\"糟卤\"",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "name": "糟卤"
+    },
+    {
+      "query": "\"鼎丰腐乳\"",
+      "itemIds": [
+        "sh-dingfeng-furu"
+      ],
+      "name": "鼎丰腐乳"
+    },
+    {
+      "query": "\"衢州缸酱\"",
+      "itemIds": [
+        "zj-gangjiang"
+      ],
+      "name": "衢州缸酱"
+    },
+    {
+      "query": "\"龙游发糕\"",
+      "itemIds": [
+        "zj-longyou-fagao"
+      ],
+      "name": "龙游发糕"
+    },
+    {
+      "query": "\"衢州三头一掌\"",
+      "itemIds": [
+        "zj-santou-yizhang"
+      ],
+      "name": "衢州三头一掌"
+    },
+    {
+      "query": "\"开化番薯粉丝\"",
+      "itemIds": [
+        "zj-kaihua-fensi"
+      ],
+      "name": "开化番薯粉丝"
+    },
+    {
+      "query": "\"邵永丰麻饼\"",
+      "itemIds": [
+        "zj-shaoyongfeng"
+      ],
+      "name": "邵永丰麻饼"
+    },
+    {
+      "query": "\"台州姜汤面\"",
+      "itemIds": [
+        "zj-taizhou-jiangtangmian"
+      ],
+      "name": "台州姜汤面"
+    },
+    {
+      "query": "\"台州食饼筒\"",
+      "itemIds": [
+        "zj-taizhou-shibingtong"
+      ],
+      "name": "台州食饼筒"
+    },
+    {
+      "query": "\"缙云南乡馒头\"",
+      "itemIds": [
+        "zj-jinyun-nanxiang"
+      ],
+      "name": "缙云南乡馒头"
+    },
+    {
+      "query": "\"丽水莲都薄饼\"",
+      "itemIds": [
+        "zj-liandu-wrap"
+      ],
+      "name": "丽水莲都薄饼"
+    },
+    {
+      "query": "\"莲都豆腐丸\"",
+      "itemIds": [
+        "zj-liandu-tofuballs"
+      ],
+      "name": "莲都豆腐丸"
+    },
+    {
+      "query": "\"景宁粉皮\"",
+      "itemIds": [
+        "zj-jingning-fenpi"
+      ],
+      "name": "景宁粉皮"
+    },
+    {
+      "query": "\"永康肉麦饼\"",
+      "itemIds": [
+        "zj-yongkang-roumaibing"
+      ],
+      "name": "永康肉麦饼"
+    },
+    {
+      "query": "\"永康熏豆腐干\"",
+      "itemIds": [
+        "zj-yongkang-smoked-tofu"
+      ],
+      "name": "永康熏豆腐干"
+    },
+    {
+      "query": "\"嘉兴鲜肉烧卖\"",
+      "itemIds": [
+        "zj-jiaxing-shaomai"
+      ],
+      "name": "嘉兴鲜肉烧卖"
+    },
+    {
+      "query": "\"平湖糟蛋\"",
+      "itemIds": [
+        "zj-pinghu-zaodan"
+      ],
+      "name": "平湖糟蛋"
+    },
+    {
+      "query": "\"平湖糍糕\"",
+      "itemIds": [
+        "zj-pinghu-chigao"
+      ],
+      "name": "平湖糍糕"
+    },
+    {
+      "query": "\"泰顺大安米面\"",
+      "itemIds": [
+        "zj-taishun-rice-noodles"
+      ],
+      "name": "泰顺大安米面"
+    },
+    {
+      "query": "\"舟山带鱼\"",
+      "itemIds": [
+        "zj-zhoushan-hairtail"
+      ],
+      "name": "舟山带鱼"
+    },
+    {
+      "query": "\"舟山梭子蟹\"",
+      "itemIds": [
+        "zj-zhoushan-swimming-crab"
+      ],
+      "name": "舟山梭子蟹"
+    },
+    {
+      "query": "\"大煮干丝\"",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "name": "大煮干丝"
+    },
+    {
+      "query": "\"平桥豆腐羹\"",
+      "itemIds": [
+        "js-pingqiao-tofu"
+      ],
+      "name": "平桥豆腐羹"
+    },
+    {
+      "query": "\"文思豆腐\"",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "name": "文思豆腐"
+    },
+    {
+      "query": "\"软兜长鱼\"",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "name": "软兜长鱼"
+    },
+    {
+      "query": "\"三和四美酱菜\"",
+      "itemIds": [
+        "js-sanhesimei"
+      ],
+      "name": "三和四美酱菜"
+    },
+    {
+      "query": "\"常州银丝面\"",
+      "itemIds": [
+        "js-changzhou-yinsimian"
+      ],
+      "name": "常州银丝面"
+    },
+    {
+      "query": "\"天目湖砂锅鱼头\"",
+      "itemIds": [
+        "js-tianmuhu-fishhead"
+      ],
+      "name": "天目湖砂锅鱼头"
+    },
+    {
+      "query": "\"靖江猪肉脯\"",
+      "itemIds": [
+        "js-jingjiang-roufu"
+      ],
+      "name": "靖江猪肉脯"
+    },
+    {
+      "query": "\"东台鱼汤面\"",
+      "itemIds": [
+        "js-dongtai-fishnoodles"
+      ],
+      "name": "东台鱼汤面"
+    },
+    {
+      "query": "\"灌云豆丹\"",
+      "itemIds": [
+        "js-guanyun-doudan"
+      ],
+      "name": "灌云豆丹"
+    },
+    {
+      "query": "\"宿迁车轮饼\"",
+      "itemIds": [
+        "js-suqian-chelunbing"
+      ],
+      "name": "宿迁车轮饼"
+    },
+    {
+      "query": "\"羊方藏鱼\"",
+      "itemIds": [
+        "js-xuzhou-lambfish"
+      ],
+      "name": "羊方藏鱼"
+    },
+    {
+      "query": "\"东坡回赠肉\"",
+      "itemIds": [
+        "js-xuzhou-huizengrou"
+      ],
+      "name": "东坡回赠肉"
+    },
+    {
+      "query": "\"沪上阿姨\"",
+      "itemIds": [
+        "sh-hushangayi"
+      ],
+      "name": "沪上阿姨"
+    },
+    {
+      "query": "\"颛桥桶蒸糕\"",
+      "itemIds": [
+        "sh-zhuanqiao-tongzhenggao"
+      ],
+      "name": "颛桥桶蒸糕"
+    },
+    {
+      "query": "\"崇明糕\"",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "name": "崇明糕"
+    },
+    {
+      "query": "\"扬州三丁包\"",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "name": "扬州三丁包"
+    },
+    {
+      "query": "\"扬州盐商五丁包\"",
+      "itemIds": [
+        "js-yangzhou-wuding"
+      ],
+      "name": "扬州盐商五丁包"
+    },
+    {
+      "query": "\"扬州烫干丝\"",
+      "itemIds": [
+        "js-yangzhou-tanggansi"
+      ],
+      "name": "扬州烫干丝"
+    },
+    {
+      "query": "\"杭州小笼包\"",
+      "itemIds": [
+        "zj-hangzhou-xiaolong"
+      ],
+      "name": "杭州小笼包"
+    },
+    {
+      "query": "\"今世缘酒\"",
+      "itemIds": [
+        "flavor-jiangsu-d4b86af742"
+      ],
+      "name": "今世缘酒"
+    },
+    {
+      "query": "\"熊猫炼乳\"",
+      "itemIds": [
+        "flavor-zhejiang-165174eadb"
+      ],
+      "name": "熊猫炼乳"
+    },
+    {
+      "query": "\"葱包桧\"",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "name": "葱包桧"
+    },
+    {
+      "query": "\"新风鳗鲞\"",
+      "itemIds": [
+        "flavor-zhejiang-ccf338cca4"
+      ],
+      "name": "新风鳗鲞"
+    },
+    {
+      "query": "\"苔菜拖黄鱼\"",
+      "itemIds": [
+        "flavor-zhejiang-2d87ba5184"
+      ],
+      "name": "苔菜拖黄鱼"
+    },
+    {
+      "query": "\"冰糖甲鱼\"",
+      "itemIds": [
+        "flavor-zhejiang-f1166339c5"
+      ],
+      "name": "冰糖甲鱼"
+    },
+    {
+      "query": "\"宁波烤菜\"",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "name": "宁波烤菜"
+    },
+    {
+      "query": "\"腐皮黄鱼\"",
+      "itemIds": [
+        "flavor-zhejiang-b0aa6955f1"
+      ],
+      "name": "腐皮黄鱼"
+    },
+    {
+      "query": "\"宁波汤圆\"",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "name": "宁波汤圆"
+    },
+    {
+      "query": "\"宁式鳝丝\"",
+      "itemIds": [
+        "flavor-zhejiang-025c794ff3"
+      ],
+      "name": "宁式鳝丝"
+    },
+    {
+      "query": "\"象山炒米面\"",
+      "itemIds": [
+        "flavor-zhejiang-56c16bb7d1"
+      ],
+      "name": "象山炒米面"
+    },
+    {
+      "query": "\"宁海望海茶\"",
+      "itemIds": [
+        "flavor-zhejiang-14dd3618e0"
+      ],
+      "name": "宁海望海茶"
+    },
+    {
+      "query": "\"温州鱼丸\"",
+      "itemIds": [
+        "flavor-zhejiang-b769fc8fd7"
+      ],
+      "name": "温州鱼丸"
+    },
+    {
+      "query": "\"温州瘦肉丸\"",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "name": "温州瘦肉丸"
+    },
+    {
+      "query": "\"长人馄饨\"",
+      "itemIds": [
+        "flavor-zhejiang-9e9e5f67db"
+      ],
+      "name": "长人馄饨"
+    },
+    {
+      "query": "\"矮人松糕\"",
+      "itemIds": [
+        "flavor-zhejiang-1ab5f289c8"
+      ],
+      "name": "矮人松糕"
+    },
+    {
+      "query": "\"双炊糕\"",
+      "itemIds": [
+        "flavor-zhejiang-a02b2f59e1"
+      ],
+      "name": "双炊糕"
+    },
+    {
+      "query": "\"白象香糕\"",
+      "itemIds": [
+        "flavor-zhejiang-f1b67ca9a0"
+      ],
+      "name": "白象香糕"
+    },
+    {
+      "query": "\"灯盏糕\"",
+      "itemIds": [
+        "flavor-zhejiang-6c8b86619e"
+      ],
+      "name": "灯盏糕"
+    },
+    {
+      "query": "\"五芳斋鲜肉粽\"",
+      "itemIds": [
+        "flavor-zhejiang-a30e374a96"
+      ],
+      "name": "五芳斋鲜肉粽"
+    },
+    {
+      "query": "\"馄饨老鸭煲\"",
+      "itemIds": [
+        "flavor-zhejiang-267f01bf30"
+      ],
+      "name": "馄饨老鸭煲"
+    },
+    {
+      "query": "\"西塘芡实糕\"",
+      "itemIds": [
+        "flavor-zhejiang-287a9609ac"
+      ],
+      "name": "西塘芡实糕"
+    },
+    {
+      "query": "\"荠菜包圆\"",
+      "itemIds": [
+        "flavor-zhejiang-367013ddcf"
+      ],
+      "name": "荠菜包圆"
+    },
+    {
+      "query": "\"斜桥榨菜\"",
+      "itemIds": [
+        "flavor-zhejiang-884212115b"
+      ],
+      "name": "斜桥榨菜"
+    },
+    {
+      "query": "\"长安宴球\"",
+      "itemIds": [
+        "flavor-zhejiang-ec6f428b48"
+      ],
+      "name": "长安宴球"
+    },
+    {
+      "query": "\"芽麦圆子\"",
+      "itemIds": [
+        "flavor-zhejiang-6292166baa"
+      ],
+      "name": "芽麦圆子"
+    },
+    {
+      "query": "\"老鸭面\"",
+      "itemIds": [
+        "flavor-zhejiang-caa99dee23"
+      ],
+      "name": "老鸭面"
+    },
+    {
+      "query": "\"顾渚紫笋\"",
+      "itemIds": [
+        "flavor-zhejiang-b6fe4d08c5"
+      ],
+      "name": "顾渚紫笋"
+    },
+    {
+      "query": "\"莫干黄芽\"",
+      "itemIds": [
+        "flavor-zhejiang-72edade079"
+      ],
+      "name": "莫干黄芽"
+    },
+    {
+      "query": "\"新市酱羊肉\"",
+      "itemIds": [
+        "flavor-zhejiang-d9f2600a61"
+      ],
+      "name": "新市酱羊肉"
+    },
+    {
+      "query": "\"泗安酥糖\"",
+      "itemIds": [
+        "flavor-zhejiang-485298591d"
+      ],
+      "name": "泗安酥糖"
+    },
+    {
+      "query": "\"南浔桔红糕\"",
+      "itemIds": [
+        "flavor-zhejiang-d537ede1bf"
+      ],
+      "name": "南浔桔红糕"
+    },
+    {
+      "query": "\"新市茶糕\"",
+      "itemIds": [
+        "flavor-zhejiang-680b7ca8ca"
+      ],
+      "name": "新市茶糕"
+    },
+    {
+      "query": "\"钟管老鸭煲\"",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ],
+      "name": "钟管老鸭煲"
+    },
+    {
+      "query": "\"安吉本鸡煲\"",
+      "itemIds": [
+        "flavor-zhejiang-e23316ec3c"
+      ],
+      "name": "安吉本鸡煲"
+    },
+    {
+      "query": "\"张一品酱羊肉\"",
+      "itemIds": [
+        "flavor-zhejiang-a2406cdb0c"
+      ],
+      "name": "张一品酱羊肉"
+    },
+    {
+      "query": "\"霉苋菜梗\"",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "name": "霉苋菜梗"
+    },
+    {
+      "query": "\"绍兴醉蟹\"",
+      "itemIds": [
+        "flavor-zhejiang-efcb134b62"
+      ],
+      "name": "绍兴醉蟹"
+    },
+    {
+      "query": "\"绍兴臭豆腐\"",
+      "itemIds": [
+        "flavor-zhejiang-0efcd08ba8"
+      ],
+      "name": "绍兴臭豆腐"
+    },
+    {
+      "query": "\"西施豆腐\"",
+      "itemIds": [
+        "flavor-zhejiang-75dc780016"
+      ],
+      "name": "西施豆腐"
+    },
+    {
+      "query": "\"新昌芋饺\"",
+      "itemIds": [
+        "flavor-zhejiang-9f39ff4631"
+      ],
+      "name": "新昌芋饺"
+    },
+    {
+      "query": "\"新昌春饼\"",
+      "itemIds": [
+        "flavor-zhejiang-a1e8193b8b"
+      ],
+      "name": "新昌春饼"
+    },
+    {
+      "query": "\"大佛龙井\"",
+      "itemIds": [
+        "flavor-zhejiang-5a12ff0716"
+      ],
+      "name": "大佛龙井"
+    },
+    {
+      "query": "\"日铸茶\"",
+      "itemIds": [
+        "flavor-zhejiang-59aae45844"
+      ],
+      "name": "日铸茶"
+    },
+    {
+      "query": "\"平水珠茶\"",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "name": "平水珠茶"
+    },
+    {
+      "query": "\"越乡龙井\"",
+      "itemIds": [
+        "flavor-zhejiang-8ad58bbea0"
+      ],
+      "name": "越乡龙井"
+    },
+    {
+      "query": "\"金华汤包\"",
+      "itemIds": [
+        "flavor-zhejiang-0371787652"
+      ],
+      "name": "金华汤包"
+    },
+    {
+      "query": "\"浦江麦饼\"",
+      "itemIds": [
+        "flavor-zhejiang-2944fdf741"
+      ],
+      "name": "浦江麦饼"
+    },
+    {
+      "query": "\"米筛爬\"",
+      "itemIds": [
+        "flavor-zhejiang-a1a484e9b6"
+      ],
+      "name": "米筛爬"
+    },
+    {
+      "query": "\"磐安云峰\"",
+      "itemIds": [
+        "flavor-zhejiang-af02039c34"
+      ],
+      "name": "磐安云峰"
+    },
+    {
+      "query": "\"宣莲羹\"",
+      "itemIds": [
+        "flavor-zhejiang-12af55825d"
+      ],
+      "name": "宣莲羹"
+    },
+    {
+      "query": "\"木莲豆腐\"",
+      "itemIds": [
+        "flavor-zhejiang-ffbd6ab60b"
+      ],
+      "name": "木莲豆腐"
+    },
+    {
+      "query": "\"永康豆腐皮\"",
+      "itemIds": [
+        "flavor-zhejiang-bc36f44252"
+      ],
+      "name": "永康豆腐皮"
+    },
+    {
+      "query": "\"开化汽糕\"",
+      "itemIds": [
+        "flavor-zhejiang-0aa72b5f9a"
+      ],
+      "name": "开化汽糕"
+    },
+    {
+      "query": "\"开化龙顶\"",
+      "itemIds": [
+        "flavor-zhejiang-fa8d963e08"
+      ],
+      "name": "开化龙顶"
+    },
+    {
+      "query": "\"葱花馒头\"",
+      "itemIds": [
+        "flavor-zhejiang-cfbb32e120"
+      ],
+      "name": "葱花馒头"
+    },
+    {
+      "query": "\"何田清水鱼\"",
+      "itemIds": [
+        "flavor-zhejiang-a9245a8ba8"
+      ],
+      "name": "何田清水鱼"
+    },
+    {
+      "query": "\"马金豆腐干\"",
+      "itemIds": [
+        "flavor-zhejiang-51986085ae"
+      ],
+      "name": "马金豆腐干"
+    },
+    {
+      "query": "\"江山绿牡丹\"",
+      "itemIds": [
+        "flavor-zhejiang-9e84031bde"
+      ],
+      "name": "江山绿牡丹"
+    },
+    {
+      "query": "\"舟山海鲜面\"",
+      "itemIds": [
+        "flavor-zhejiang-b4f2f0dfc2"
+      ],
+      "name": "舟山海鲜面"
+    },
+    {
+      "query": "\"梭子蟹炒年糕\"",
+      "itemIds": [
+        "flavor-zhejiang-400930ab2f"
+      ],
+      "name": "梭子蟹炒年糕"
+    },
+    {
+      "query": "\"铁板蛏子\"",
+      "itemIds": [
+        "flavor-zhejiang-c7fcb348bd"
+      ],
+      "name": "铁板蛏子"
+    },
+    {
+      "query": "\"虎头鱼豆腐汤\"",
+      "itemIds": [
+        "flavor-zhejiang-d9f8431dec"
+      ],
+      "name": "虎头鱼豆腐汤"
+    },
+    {
+      "query": "\"黄鱼鲞烤猪肉\"",
+      "itemIds": [
+        "flavor-zhejiang-9f5fb71dfc"
+      ],
+      "name": "黄鱼鲞烤猪肉"
+    },
+    {
+      "query": "\"嵊泗贻贝\"",
+      "itemIds": [
+        "flavor-zhejiang-4c5aedc69c"
+      ],
+      "name": "嵊泗贻贝"
+    },
+    {
+      "query": "\"岱山蓬莱仙芝\"",
+      "itemIds": [
+        "flavor-zhejiang-8f9837c665"
+      ],
+      "name": "岱山蓬莱仙芝"
+    },
+    {
+      "query": "\"东沙香干\"",
+      "itemIds": [
+        "flavor-zhejiang-ef91bb83b4"
+      ],
+      "name": "东沙香干"
+    },
+    {
+      "query": "\"糟鲳鱼\"",
+      "itemIds": [
+        "flavor-zhejiang-8960793cfc"
+      ],
+      "name": "糟鲳鱼"
+    },
+    {
+      "query": "\"临海麦虾\"",
+      "itemIds": [
+        "flavor-zhejiang-6599354056"
+      ],
+      "name": "临海麦虾"
+    },
+    {
+      "query": "\"台州麦饼\"",
+      "itemIds": [
+        "flavor-zhejiang-9e20bd90ba"
+      ],
+      "name": "台州麦饼"
+    },
+    {
+      "query": "\"三门青蟹\"",
+      "itemIds": [
+        "flavor-zhejiang-68e1cc0e06"
+      ],
+      "name": "三门青蟹"
+    },
+    {
+      "query": "\"三门麻糍\"",
+      "itemIds": [
+        "flavor-zhejiang-3c655b5894"
+      ],
+      "name": "三门麻糍"
+    },
+    {
+      "query": "\"糊拉汰\"",
+      "itemIds": [
+        "flavor-zhejiang-756a453a99"
+      ],
+      "name": "糊拉汰"
+    },
+    {
+      "query": "\"天台青饺\"",
+      "itemIds": [
+        "flavor-zhejiang-568ea8450a"
+      ],
+      "name": "天台青饺"
+    },
+    {
+      "query": "\"仙居八大碗\"",
+      "itemIds": [
+        "flavor-zhejiang-a23181ee18"
+      ],
+      "name": "仙居八大碗"
+    },
+    {
+      "query": "\"天台什锦糕\"",
+      "itemIds": [
+        "flavor-zhejiang-769f8a846e"
+      ],
+      "name": "天台什锦糕"
+    },
+    {
+      "query": "\"庆元烧梅\"",
+      "itemIds": [
+        "flavor-zhejiang-0dc6882641"
+      ],
+      "name": "庆元烧梅"
+    },
+    {
+      "query": "\"庆元笋粽\"",
+      "itemIds": [
+        "flavor-zhejiang-70490da46b"
+      ],
+      "name": "庆元笋粽"
+    },
+    {
+      "query": "\"缙云土面\"",
+      "itemIds": [
+        "flavor-zhejiang-642bb5b8d3"
+      ],
+      "name": "缙云土面"
+    },
+    {
+      "query": "\"松阳银猴\"",
+      "itemIds": [
+        "flavor-zhejiang-145e2f75b1"
+      ],
+      "name": "松阳银猴"
+    },
+    {
+      "query": "\"三井毛峰\"",
+      "itemIds": [
+        "flavor-zhejiang-a2141f51ce"
+      ],
+      "name": "三井毛峰"
+    },
+    {
+      "query": "\"景宁惠明茶\"",
+      "itemIds": [
+        "flavor-zhejiang-60a98fb330"
+      ],
+      "name": "景宁惠明茶"
+    },
+    {
+      "query": "\"湖州千张包\"",
+      "itemIds": [
+        "flavor-zhejiang-fad70612e0"
+      ],
+      "name": "湖州千张包"
+    },
+    {
+      "query": "\"皮肚面\"",
+      "itemIds": [
+        "flavor-jiangsu-f3a8026ec8"
+      ],
+      "name": "皮肚面"
+    },
+    {
+      "query": "\"如意回卤干\"",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "name": "如意回卤干"
+    },
+    {
+      "query": "\"状元豆\"",
+      "itemIds": [
+        "flavor-jiangsu-d8d029b46a"
+      ],
+      "name": "状元豆"
+    },
+    {
+      "query": "\"龙袍蟹黄包\"",
+      "itemIds": [
+        "flavor-jiangsu-68b3a5aa76"
+      ],
+      "name": "龙袍蟹黄包"
+    },
+    {
+      "query": "\"桂花糖芋苗\"",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "name": "桂花糖芋苗"
+    },
+    {
+      "query": "\"赤豆元宵\"",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "name": "赤豆元宵"
+    },
+    {
+      "query": "\"鸭油酥烧饼\"",
+      "itemIds": [
+        "flavor-jiangsu-dc962a8f81"
+      ],
+      "name": "鸭油酥烧饼"
+    },
+    {
+      "query": "\"肉酿面筋\"",
+      "itemIds": [
+        "flavor-jiangsu-f7b963320d"
+      ],
+      "name": "肉酿面筋"
+    },
+    {
+      "query": "\"无锡三鲜馄饨\"",
+      "itemIds": [
+        "flavor-jiangsu-d13f9cbba7"
+      ],
+      "name": "无锡三鲜馄饨"
+    },
+    {
+      "query": "\"玉兰饼\"",
+      "itemIds": [
+        "flavor-jiangsu-614a338f09"
+      ],
+      "name": "玉兰饼"
+    },
+    {
+      "query": "\"阳羡雪芽\"",
+      "itemIds": [
+        "flavor-jiangsu-a11e87e6b5"
+      ],
+      "name": "阳羡雪芽"
+    },
+    {
+      "query": "\"和桥豆腐干\"",
+      "itemIds": [
+        "flavor-jiangsu-8eb3c4d0ec"
+      ],
+      "name": "和桥豆腐干"
+    },
+    {
+      "query": "\"江阴马蹄酥\"",
+      "itemIds": [
+        "flavor-jiangsu-b987dd1904"
+      ],
+      "name": "江阴马蹄酥"
+    },
+    {
+      "query": "\"霸王别姬\"",
+      "itemIds": [
+        "flavor-jiangsu-793b3491c0"
+      ],
+      "name": "霸王别姬"
+    },
+    {
+      "query": "\"徐州啥汤\"",
+      "itemIds": [
+        "flavor-jiangsu-f1fa272deb"
+      ],
+      "name": "徐州啥汤"
+    },
+    {
+      "query": "\"蛙鱼\"",
+      "itemIds": [
+        "flavor-jiangsu-70c2f71073"
+      ],
+      "name": "蛙鱼"
+    },
+    {
+      "query": "\"丰县烧饼\"",
+      "itemIds": [
+        "flavor-jiangsu-cd43e8355c"
+      ],
+      "name": "丰县烧饼"
+    },
+    {
+      "query": "\"沛公酒\"",
+      "itemIds": [
+        "flavor-jiangsu-833b9e50ec"
+      ],
+      "name": "沛公酒"
+    },
+    {
+      "query": "\"徐州烙馍\"",
+      "itemIds": [
+        "flavor-jiangsu-816d7b53b6"
+      ],
+      "name": "徐州烙馍"
+    },
+    {
+      "query": "\"常州素火腿\"",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "name": "常州素火腿"
+    },
+    {
+      "query": "\"酒酿元宵\"",
+      "itemIds": [
+        "flavor-jiangsu-fd6788d92f"
+      ],
+      "name": "酒酿元宵"
+    },
+    {
+      "query": "\"加蟹小笼包\"",
+      "itemIds": [
+        "flavor-jiangsu-d80d5b33c7"
+      ],
+      "name": "加蟹小笼包"
+    },
+    {
+      "query": "\"四喜汤团\"",
+      "itemIds": [
+        "flavor-jiangsu-80ccd93c01"
+      ],
+      "name": "四喜汤团"
+    },
+    {
+      "query": "\"溱潼鱼饼\"",
+      "itemIds": [
+        "flavor-jiangsu-da6ebb6414"
+      ],
+      "name": "溱潼鱼饼"
+    },
+    {
+      "query": "\"枫镇大面\"",
+      "itemIds": [
+        "flavor-jiangsu-fd4c1613d4"
+      ],
+      "name": "枫镇大面"
+    },
+    {
+      "query": "\"藏书羊肉\"",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "name": "藏书羊肉"
+    },
+    {
+      "query": "\"桂花鸡头米\"",
+      "itemIds": [
+        "flavor-jiangsu-222c2cf834"
+      ],
+      "name": "桂花鸡头米"
+    },
+    {
+      "query": "\"苏式鲜肉月饼\"",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "name": "苏式鲜肉月饼"
+    },
+    {
+      "query": "\"太仓肉松\"",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ],
+      "name": "太仓肉松"
+    },
+    {
+      "query": "\"沙洲优黄\"",
+      "itemIds": [
+        "flavor-jiangsu-c2597b8797"
+      ],
+      "name": "沙洲优黄"
+    },
+    {
+      "query": "\"太仓糟油\"",
+      "itemIds": [
+        "flavor-jiangsu-07b613be05"
+      ],
+      "name": "太仓糟油"
+    },
+    {
+      "query": "\"南通跳面\"",
+      "itemIds": [
+        "flavor-jiangsu-33f596e0ee"
+      ],
+      "name": "南通跳面"
+    },
+    {
+      "query": "\"正场熏糕\"",
+      "itemIds": [
+        "flavor-jiangsu-1bad85a535"
+      ],
+      "name": "正场熏糕"
+    },
+    {
+      "query": "\"石港窨糕\"",
+      "itemIds": [
+        "flavor-jiangsu-8c2d19ce5d"
+      ],
+      "name": "石港窨糕"
+    },
+    {
+      "query": "\"新中乳腐\"",
+      "itemIds": [
+        "flavor-jiangsu-f02d53d97c"
+      ],
+      "name": "新中乳腐"
+    },
+    {
+      "query": "\"南通火饺\"",
+      "itemIds": [
+        "flavor-jiangsu-340f3cfead"
+      ],
+      "name": "南通火饺"
+    },
+    {
+      "query": "\"金钱萝卜饼\"",
+      "itemIds": [
+        "flavor-jiangsu-e1f53ea939"
+      ],
+      "name": "金钱萝卜饼"
+    },
+    {
+      "query": "\"文蛤丸子\"",
+      "itemIds": [
+        "flavor-jiangsu-8a11dfb3a0"
+      ],
+      "name": "文蛤丸子"
+    },
+    {
+      "query": "\"海安糯米酒\"",
+      "itemIds": [
+        "flavor-jiangsu-cb9521d03d"
+      ],
+      "name": "海安糯米酒"
+    },
+    {
+      "query": "\"李堡麻虾酱\"",
+      "itemIds": [
+        "flavor-jiangsu-4bb9a92562"
+      ],
+      "name": "李堡麻虾酱"
+    },
+    {
+      "query": "\"汤沟酒\"",
+      "itemIds": [
+        "flavor-jiangsu-60ae60b3d9"
+      ],
+      "name": "汤沟酒"
+    },
+    {
+      "query": "\"花果山云雾茶\"",
+      "itemIds": [
+        "flavor-jiangsu-b82d83ffad"
+      ],
+      "name": "花果山云雾茶"
+    },
+    {
+      "query": "\"汪恕有滴醋\"",
+      "itemIds": [
+        "flavor-jiangsu-4409362422"
+      ],
+      "name": "汪恕有滴醋"
+    },
+    {
+      "query": "\"桃林烧鸡\"",
+      "itemIds": [
+        "flavor-jiangsu-26ba72f4be"
+      ],
+      "name": "桃林烧鸡"
+    },
+    {
+      "query": "\"沙光鱼\"",
+      "itemIds": [
+        "flavor-jiangsu-2755214804"
+      ],
+      "name": "沙光鱼"
+    },
+    {
+      "query": "\"花果山风鹅\"",
+      "itemIds": [
+        "flavor-jiangsu-bad8faba7e"
+      ],
+      "name": "花果山风鹅"
+    },
+    {
+      "query": "\"灌云大糕\"",
+      "itemIds": [
+        "flavor-jiangsu-4c48f62974"
+      ],
+      "name": "灌云大糕"
+    },
+    {
+      "query": "\"连云港酒醉螃蟹\"",
+      "itemIds": [
+        "flavor-jiangsu-8a5e336eda"
+      ],
+      "name": "连云港酒醉螃蟹"
+    },
+    {
+      "query": "\"奶汤鱼皮\"",
+      "itemIds": [
+        "flavor-jiangsu-e554484beb"
+      ],
+      "name": "奶汤鱼皮"
+    },
+    {
+      "query": "\"奇泉酱油\"",
+      "itemIds": [
+        "flavor-jiangsu-f8a2a2adcf"
+      ],
+      "name": "奇泉酱油"
+    },
+    {
+      "query": "\"涟水鸡糕\"",
+      "itemIds": [
+        "flavor-jiangsu-788b2e7e50"
+      ],
+      "name": "涟水鸡糕"
+    },
+    {
+      "query": "\"涟水千张\"",
+      "itemIds": [
+        "flavor-jiangsu-9afd2574b0"
+      ],
+      "name": "涟水千张"
+    },
+    {
+      "query": "\"涟水萝卜干\"",
+      "itemIds": [
+        "flavor-jiangsu-76ac4b6c7f"
+      ],
+      "name": "涟水萝卜干"
+    },
+    {
+      "query": "\"金湖芡实\"",
+      "itemIds": [
+        "flavor-jiangsu-66a66ecdec"
+      ],
+      "name": "金湖芡实"
+    },
+    {
+      "query": "\"盱眙小龙虾\"",
+      "itemIds": [
+        "flavor-jiangsu-d98a0ac065"
+      ],
+      "name": "盱眙小龙虾"
+    },
+    {
+      "query": "\"淮安茶馓\"",
+      "itemIds": [
+        "flavor-jiangsu-664ee08377"
+      ],
+      "name": "淮安茶馓"
+    },
+    {
+      "query": "\"钦工肉圆\"",
+      "itemIds": [
+        "flavor-jiangsu-36907426de"
+      ],
+      "name": "钦工肉圆"
+    },
+    {
+      "query": "\"文楼汤包\"",
+      "itemIds": [
+        "flavor-jiangsu-8ae7be83a0"
+      ],
+      "name": "文楼汤包"
+    },
+    {
+      "query": "\"洪泽小鱼锅贴\"",
+      "itemIds": [
+        "flavor-jiangsu-7126c6ce4d"
+      ],
+      "name": "洪泽小鱼锅贴"
+    },
+    {
+      "query": "\"涟水捆蹄\"",
+      "itemIds": [
+        "flavor-jiangsu-7d6a17d006"
+      ],
+      "name": "涟水捆蹄"
+    },
+    {
+      "query": "\"阜宁大糕\"",
+      "itemIds": [
+        "flavor-jiangsu-d82b6671a6"
+      ],
+      "name": "阜宁大糕"
+    },
+    {
+      "query": "\"盐城草炉饼\"",
+      "itemIds": [
+        "flavor-jiangsu-2920c1e69c"
+      ],
+      "name": "盐城草炉饼"
+    },
+    {
+      "query": "\"大纵湖醉蟹\"",
+      "itemIds": [
+        "flavor-jiangsu-3905af32c3"
+      ],
+      "name": "大纵湖醉蟹"
+    },
+    {
+      "query": "\"葛武酱生姜\"",
+      "itemIds": [
+        "flavor-jiangsu-96e38dd9a7"
+      ],
+      "name": "葛武酱生姜"
+    },
+    {
+      "query": "\"滨海香肠\"",
+      "itemIds": [
+        "flavor-jiangsu-5aba759680"
+      ],
+      "name": "滨海香肠"
+    },
+    {
+      "query": "\"滨海牌三伏酱油\"",
+      "itemIds": [
+        "flavor-jiangsu-e38789f0a1"
+      ],
+      "name": "滨海牌三伏酱油"
+    },
+    {
+      "query": "\"五醍浆酒\"",
+      "itemIds": [
+        "flavor-jiangsu-04e6a5fd14"
+      ],
+      "name": "五醍浆酒"
+    },
+    {
+      "query": "\"奇园蟹黄包\"",
+      "itemIds": [
+        "flavor-jiangsu-749a7cf0e4"
+      ],
+      "name": "奇园蟹黄包"
+    },
+    {
+      "query": "\"戚桥歪子茶干\"",
+      "itemIds": [
+        "flavor-jiangsu-9c92a146f6"
+      ],
+      "name": "戚桥歪子茶干"
+    },
+    {
+      "query": "\"千层油糕\"",
+      "itemIds": [
+        "flavor-jiangsu-886c8438f1"
+      ],
+      "name": "千层油糕"
+    },
+    {
+      "query": "\"翡翠烧麦\"",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "name": "翡翠烧麦"
+    },
+    {
+      "query": "\"仪征绿杨春茶\"",
+      "itemIds": [
+        "flavor-jiangsu-3742d8c138"
+      ],
+      "name": "仪征绿杨春茶"
+    },
+    {
+      "query": "\"镇江蟹黄汤包\"",
+      "itemIds": [
+        "flavor-jiangsu-fdd1cc53a5"
+      ],
+      "name": "镇江蟹黄汤包"
+    },
+    {
+      "query": "\"白汁鮰鱼\"",
+      "itemIds": [
+        "flavor-jiangsu-929e10b790"
+      ],
+      "name": "白汁鮰鱼"
+    },
+    {
+      "query": "\"茅山老鹅\"",
+      "itemIds": [
+        "flavor-jiangsu-c641b31cbd"
+      ],
+      "name": "茅山老鹅"
+    },
+    {
+      "query": "\"茅山长青茶\"",
+      "itemIds": [
+        "flavor-jiangsu-171c6947ea"
+      ],
+      "name": "茅山长青茶"
+    },
+    {
+      "query": "\"宝华玉笋茶\"",
+      "itemIds": [
+        "flavor-jiangsu-ea5ce311cc"
+      ],
+      "name": "宝华玉笋茶"
+    },
+    {
+      "query": "\"丹阳封缸酒\"",
+      "itemIds": [
+        "flavor-jiangsu-79ad60cfcc"
+      ],
+      "name": "丹阳封缸酒"
+    },
+    {
+      "query": "\"秧草包子\"",
+      "itemIds": [
+        "flavor-jiangsu-04b3bfd105"
+      ],
+      "name": "秧草包子"
+    },
+    {
+      "query": "\"镇江糖醋萝卜干\"",
+      "itemIds": [
+        "flavor-jiangsu-e03d26593f"
+      ],
+      "name": "镇江糖醋萝卜干"
+    },
+    {
+      "query": "\"黄桥烧饼\"",
+      "itemIds": [
+        "flavor-jiangsu-8958cecb9d"
+      ],
+      "name": "黄桥烧饼"
+    },
+    {
+      "query": "\"靖江蟹黄汤包\"",
+      "itemIds": [
+        "flavor-jiangsu-5d1e6b48ad"
+      ],
+      "name": "靖江蟹黄汤包"
+    },
+    {
+      "query": "\"泰州鱼汤面\"",
+      "itemIds": [
+        "flavor-jiangsu-fc483b08b9"
+      ],
+      "name": "泰州鱼汤面"
+    },
+    {
+      "query": "\"季市大炉饼\"",
+      "itemIds": [
+        "flavor-jiangsu-55618e219b"
+      ],
+      "name": "季市大炉饼"
+    },
+    {
+      "query": "\"宣堡小馄饨\"",
+      "itemIds": [
+        "flavor-jiangsu-cbe3743e53"
+      ],
+      "name": "宣堡小馄饨"
+    },
+    {
+      "query": "\"孔桥百叶\"",
+      "itemIds": [
+        "flavor-jiangsu-1ba9b318ed"
+      ],
+      "name": "孔桥百叶"
+    },
+    {
+      "query": "\"桂香糖\"",
+      "itemIds": [
+        "flavor-jiangsu-b857073fbf"
+      ],
+      "name": "桂香糖"
+    },
+    {
+      "query": "\"五福酱菜\"",
+      "itemIds": [
+        "flavor-jiangsu-dfc01af87a"
+      ],
+      "name": "五福酱菜"
+    },
+    {
+      "query": "\"靖江金波酒\"",
+      "itemIds": [
+        "flavor-jiangsu-ebc2cbc874"
+      ],
+      "name": "靖江金波酒"
+    },
+    {
+      "query": "\"泗阳膘鸡\"",
+      "itemIds": [
+        "flavor-jiangsu-738251d723"
+      ],
+      "name": "泗阳膘鸡"
+    },
+    {
+      "query": "\"钱集卤鹅\"",
+      "itemIds": [
+        "flavor-jiangsu-38c64f990c"
+      ],
+      "name": "钱集卤鹅"
+    },
+    {
+      "query": "\"穿城大饼\"",
+      "itemIds": [
+        "flavor-jiangsu-5fa5f920a6"
+      ],
+      "name": "穿城大饼"
+    },
+    {
+      "query": "\"王集小团饼\"",
+      "itemIds": [
+        "flavor-jiangsu-2f5c10f5b2"
+      ],
+      "name": "王集小团饼"
+    },
+    {
+      "query": "\"马厂馍头\"",
+      "itemIds": [
+        "flavor-jiangsu-362d9e1953"
+      ],
+      "name": "马厂馍头"
+    },
+    {
+      "query": "\"庙头千张\"",
+      "itemIds": [
+        "flavor-jiangsu-46ed04d0ad"
+      ],
+      "name": "庙头千张"
+    },
+    {
+      "query": "\"归仁绿豆饼\"",
+      "itemIds": [
+        "flavor-jiangsu-ab5a3c1ef6"
+      ],
+      "name": "归仁绿豆饼"
+    },
+    {
+      "query": "\"泗洪大闸蟹\"",
+      "itemIds": [
+        "flavor-jiangsu-fc05c9ed72"
+      ],
+      "name": "泗洪大闸蟹"
+    },
+    {
+      "query": "\"南通嵌桃麻糕\"",
+      "itemIds": [
+        "flavor-jiangsu-cf85633184"
+      ],
+      "name": "南通嵌桃麻糕"
+    },
+    {
+      "query": "\"金坛雀舌\"",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "name": "金坛雀舌"
+    },
+    {
+      "query": "\"建湖藕粉圆\"",
+      "itemIds": [
+        "flavor-jiangsu-4e8ed3625f"
+      ],
+      "name": "建湖藕粉圆"
+    },
+    {
+      "query": "\"泰州干丝\"",
+      "itemIds": [
+        "flavor-jiangsu-3d8c9c7faf"
+      ],
+      "name": "泰州干丝"
+    },
+    {
+      "query": "\"双峰牛奶\"",
+      "itemIds": [
+        "flavor-zhejiang-7398a8f0ff"
+      ],
+      "name": "双峰牛奶"
+    },
+    {
+      "query": "\"双喜牛奶\"",
+      "itemIds": [
+        "flavor-jiangsu-7444c0c71c"
+      ],
+      "name": "双喜牛奶"
+    },
+    {
+      "query": "\"卫岗牛奶\"",
+      "itemIds": [
+        "flavor-jiangsu-dab8ddad8b"
+      ],
+      "name": "卫岗牛奶"
+    },
+    {
+      "query": "\"快鹿牛奶\"",
+      "itemIds": [
+        "flavor-jiangsu-61a53284e1"
+      ],
+      "name": "快鹿牛奶"
+    },
+    {
+      "query": "\"美丽健乳品\"",
+      "itemIds": [
+        "flavor-zhejiang-f9932d112c"
+      ],
+      "name": "美丽健乳品"
+    },
+    {
+      "query": "\"宁波牛奶\"",
+      "itemIds": [
+        "flavor-zhejiang-6731e08cc7"
+      ],
+      "name": "宁波牛奶"
+    },
+    {
+      "query": "\"开洋葱油拌面\"",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "name": "开洋葱油拌面"
+    },
+    {
+      "query": "\"上海黄鱼面\"",
+      "itemIds": [
+        "flavor-shanghai-eba6f92c80"
+      ],
+      "name": "上海黄鱼面"
+    },
+    {
+      "query": "\"上海蟹粉面\"",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "name": "上海蟹粉面"
+    },
+    {
+      "query": "\"平阳黄汤\"",
+      "itemIds": [
+        "flavor-zhejiang-b9411c1995"
+      ],
+      "name": "平阳黄汤"
+    },
+    {
+      "query": "\"海盐兰丰香茗\"",
+      "itemIds": [
+        "flavor-zhejiang-4c34b0a89a"
+      ],
+      "name": "海盐兰丰香茗"
+    },
+    {
+      "query": "\"天台山云雾茶\"",
+      "itemIds": [
+        "flavor-zhejiang-90583088da"
+      ],
+      "name": "天台山云雾茶"
+    },
+    {
+      "query": "\"仁昌酱园酱油\"",
+      "itemIds": [
+        "flavor-zhejiang-aa6ad12949"
+      ],
+      "name": "仁昌酱园酱油"
+    },
+    {
+      "query": "\"绍兴酱鸭（安昌做法）\"",
+      "itemIds": [
+        "flavor-zhejiang-2377408f11"
+      ],
+      "name": "绍兴酱鸭（安昌做法）"
+    },
+    {
+      "query": "\"茉沏\"",
+      "itemIds": [
+        "tea-jiangsu-626b4bc35c"
+      ],
+      "name": "茉沏"
+    },
+    {
+      "query": "\"新时沏\"",
+      "itemIds": [
+        "tea-zhejiang-8c1308ad41"
+      ],
+      "name": "新时沏"
+    },
+    {
+      "query": "\"兰溪鸡子馃\"",
+      "itemIds": [
+        "county-zhejiang-ca51060314"
+      ],
+      "name": "兰溪鸡子馃"
+    },
+    {
+      "query": "\"衢州烤饼\"",
+      "itemIds": [
+        "county-zhejiang-3920091c36"
+      ],
+      "name": "衢州烤饼"
+    },
+    {
+      "query": "\"兰溪手擀面\"",
+      "itemIds": [
+        "county-zhejiang-5a43422574"
+      ],
+      "name": "兰溪手擀面"
+    },
+    {
+      "query": "\"兰溪咸汤圆\"",
+      "itemIds": [
+        "county-zhejiang-1d48f9a41c"
+      ],
+      "name": "兰溪咸汤圆"
+    },
+    {
+      "query": "\"兰溪烧麦\"",
+      "itemIds": [
+        "county-zhejiang-51f21c1e29"
+      ],
+      "name": "兰溪烧麦"
+    },
+    {
+      "query": "\"兰溪清明粿\"",
+      "itemIds": [
+        "county-zhejiang-3f026c8ab0"
+      ],
+      "name": "兰溪清明粿"
+    },
+    {
+      "query": "\"龙游北乡汤团\"",
+      "itemIds": [
+        "county-zhejiang-10d77fb660"
+      ],
+      "name": "龙游北乡汤团"
+    },
+    {
+      "query": "\"龙游粉干\"",
+      "itemIds": [
+        "county-zhejiang-a6723e92b5"
+      ],
+      "name": "龙游粉干"
+    },
+    {
+      "query": "\"龙游米糊\"",
+      "itemIds": [
+        "county-zhejiang-6f5645b85e"
+      ],
+      "name": "龙游米糊"
+    },
+    {
+      "query": "\"龙游豆腐丸子\"",
+      "itemIds": [
+        "county-zhejiang-73e46a304b"
+      ],
+      "name": "龙游豆腐丸子"
+    },
+    {
+      "query": "\"苍南海蜈蚣（沙蚕）\"",
+      "itemIds": [
+        "county-zhejiang-6551e72666"
+      ],
+      "name": "苍南海蜈蚣（沙蚕）"
+    },
+    {
+      "query": "\"松阳灰汁糕\"",
+      "itemIds": [
+        "lead-d4be9039038111"
+      ],
+      "name": "松阳灰汁糕"
+    },
+    {
+      "query": "\"童子尿蛋\"",
+      "itemIds": [
+        "lead-c1dc88453067d9"
+      ],
+      "name": "童子尿蛋"
+    },
+    {
+      "query": "\"泥蒜冻\"",
+      "itemIds": [
+        "lead-19961386eea2c5"
+      ],
+      "name": "泥蒜冻"
+    },
+    {
+      "query": "\"文成椒盐蜂蛹\"",
+      "itemIds": [
+        "lead-b31a98b9198460"
+      ],
+      "name": "文成椒盐蜂蛹"
+    },
+    {
+      "query": "\"百打糕\"",
+      "itemIds": [
+        "lead-a0004679a47bf4"
+      ],
+      "name": "百打糕"
+    },
+    {
+      "query": "\"菱毛头\"",
+      "itemIds": [
+        "lead-5569c983399fcd"
+      ],
+      "name": "菱毛头"
+    },
+    {
+      "query": "\"六谷饼\"",
+      "itemIds": [
+        "lead-95aa316c17e23e"
+      ],
+      "name": "六谷饼"
+    },
+    {
+      "query": "\"海盐藕粉饺\"",
+      "itemIds": [
+        "lead-e94fb6b03f4748"
+      ],
+      "name": "海盐藕粉饺"
+    },
+    {
+      "query": "\"绮园大饼\"",
+      "itemIds": [
+        "lead-f938ea5ba2e125"
+      ],
+      "name": "绮园大饼"
+    },
+    {
+      "query": "\"天资乳品（唯得、锡山）\"",
+      "itemIds": [
+        "lead-wuxi-tianzi"
+      ],
+      "name": "天资乳品（唯得、锡山）"
+    },
+    {
+      "query": "\"天资牛牛鲜乳茶\"",
+      "itemIds": [
+        "wuxi-tianzi-niuniu"
+      ],
+      "name": "天资牛牛鲜乳茶"
+    },
+    {
+      "query": "\"金山蟠桃\"",
+      "itemIds": [
+        "regional-31ecbb324bb4fe"
+      ],
+      "name": "金山蟠桃"
+    },
+    {
+      "query": "\"三林崩瓜\"",
+      "itemIds": [
+        "regional-264f2621d14e5d"
+      ],
+      "name": "三林崩瓜"
+    },
+    {
+      "query": "\"崇明金瓜\"",
+      "itemIds": [
+        "regional-e0ff41a2b15035"
+      ],
+      "name": "崇明金瓜"
+    },
+    {
+      "query": "\"亭林雪瓜\"",
+      "itemIds": [
+        "regional-5ae51ae140f92b"
+      ],
+      "name": "亭林雪瓜"
+    },
+    {
+      "query": "\"马陆葡萄\"",
+      "itemIds": [
+        "regional-121b3f2e1ed3be"
+      ],
+      "name": "马陆葡萄"
+    },
+    {
+      "query": "\"庄行蜜梨\"",
+      "itemIds": [
+        "regional-be4d63ab7a02a1"
+      ],
+      "name": "庄行蜜梨"
+    },
+    {
+      "query": "\"奉贤黄桃\"",
+      "itemIds": [
+        "regional-6aa5367591926c"
+      ],
+      "name": "奉贤黄桃"
+    },
+    {
+      "query": "\"彭镇青扁豆\"",
+      "itemIds": [
+        "regional-c8d472d1a22ec2"
+      ],
+      "name": "彭镇青扁豆"
+    },
+    {
+      "query": "\"常山胡柚\"",
+      "itemIds": [
+        "regional-b71b629407c335"
+      ],
+      "name": "常山胡柚"
+    },
+    {
+      "query": "\"仙居杨梅\"",
+      "itemIds": [
+        "regional-0f9a12585365c8"
+      ],
+      "name": "仙居杨梅"
+    },
+    {
+      "query": "\"浦江巨峰葡萄\"",
+      "itemIds": [
+        "regional-892bbcea57b99b"
+      ],
+      "name": "浦江巨峰葡萄"
+    },
+    {
+      "query": "\"邳州板栗\"",
+      "itemIds": [
+        "regional-a0b2f131c5d737"
+      ],
+      "name": "邳州板栗"
+    },
+    {
+      "query": "\"如东泥螺\"",
+      "itemIds": [
+        "regional-0a928208b0ecab"
+      ],
+      "name": "如东泥螺"
+    },
+    {
+      "query": "\"兴化大米\"",
+      "itemIds": [
+        "regional-27f20cfe02c449"
+      ],
+      "name": "兴化大米"
+    },
+    {
+      "query": "\"赣榆梭子蟹\"",
+      "itemIds": [
+        "regional-1878f697e9d0ed"
+      ],
+      "name": "赣榆梭子蟹"
+    },
+    {
+      "query": "\"庆元香菇\"",
+      "itemIds": [
+        "regional-38c9295a3cac60"
+      ],
+      "name": "庆元香菇"
+    },
+    {
+      "query": "\"开化黑木耳\"",
+      "itemIds": [
+        "regional-fe04431310d3c6"
+      ],
+      "name": "开化黑木耳"
+    },
+    {
+      "query": "\"江山白菇\"",
+      "itemIds": [
+        "regional-8af0d67492d045"
+      ],
+      "name": "江山白菇"
+    },
+    {
+      "query": "\"临海西兰花\"",
+      "itemIds": [
+        "regional-ee4132cfe1d6d2"
+      ],
+      "name": "临海西兰花"
+    },
+    {
+      "query": "\"平湖西瓜\"",
+      "itemIds": [
+        "regional-e47bf666f4945d"
+      ],
+      "name": "平湖西瓜"
+    },
+    {
+      "query": "\"金塘李\"",
+      "itemIds": [
+        "regional-971e62df8ec86b"
+      ],
+      "name": "金塘李"
+    },
+    {
+      "query": "\"南京金箔\"",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "name": "南京金箔"
+    },
+    {
+      "query": "\"苏州缂丝\"",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "name": "苏州缂丝"
+    },
+    {
+      "query": "\"扬州玉雕\"",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "name": "扬州玉雕"
+    },
+    {
+      "query": "\"扬州漆器\"",
+      "itemIds": [
+        "regional-6c556c676d44e0"
+      ],
+      "name": "扬州漆器"
+    },
+    {
+      "query": "\"扬州剪纸\"",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "name": "扬州剪纸"
+    },
+    {
+      "query": "\"南通蓝印花布\"",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "name": "南通蓝印花布"
+    },
+    {
+      "query": "\"龙泉宝剑\"",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "name": "龙泉宝剑"
+    },
+    {
+      "query": "\"乐清黄杨木雕\"",
+      "itemIds": [
+        "regional-80148cd3b298b0"
+      ],
+      "name": "乐清黄杨木雕"
+    },
+    {
+      "query": "\"乐清细纹刻纸\"",
+      "itemIds": [
+        "regional-c0699d3a31e35e"
+      ],
+      "name": "乐清细纹刻纸"
+    },
+    {
+      "query": "\"湖笔\"",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "name": "湖笔"
+    },
+    {
+      "query": "\"仙居花灯\"",
+      "itemIds": [
+        "regional-18095277561b47"
+      ],
+      "name": "仙居花灯"
+    },
+    {
+      "query": "\"富阳竹纸\"",
+      "itemIds": [
+        "regional-23a08a390a85d9"
+      ],
+      "name": "富阳竹纸"
+    },
+    {
+      "query": "\"乌泥泾手工棉纺织品\"",
+      "itemIds": [
+        "regional-ef32c853822392"
+      ],
+      "name": "乌泥泾手工棉纺织品"
+    },
+    {
+      "query": "\"华士冰油\"",
+      "itemIds": [
+        "regional-0556a899e76d7d"
+      ],
+      "name": "华士冰油"
+    },
+    {
+      "query": "\"宝应荷藕\"",
+      "itemIds": [
+        "lead-web-baoying-lotus"
+      ],
+      "name": "宝应荷藕"
+    },
+    {
+      "query": "\"河上桔红糕\"",
+      "itemIds": [
+        "county-9270e3167929d6"
+      ],
+      "name": "河上桔红糕"
+    },
+    {
+      "query": "\"塘栖小桃酥\"",
+      "itemIds": [
+        "county-6e6ac0481bb8f3"
+      ],
+      "name": "塘栖小桃酥"
+    },
+    {
+      "query": "\"昌南山牛蒡粿\"",
+      "itemIds": [
+        "county-e195be034c060f"
+      ],
+      "name": "昌南山牛蒡粿"
+    },
+    {
+      "query": "\"桐庐米粿\"",
+      "itemIds": [
+        "county-2c3de7a71bfc32"
+      ],
+      "name": "桐庐米粿"
+    },
+    {
+      "query": "\"安上粉皮\"",
+      "itemIds": [
+        "county-e94ff2e1b68af8"
+      ],
+      "name": "安上粉皮"
+    },
+    {
+      "query": "\"建德状元饼\"",
+      "itemIds": [
+        "county-0af507918087c0"
+      ],
+      "name": "建德状元饼"
+    },
+    {
+      "query": "\"建德水米糕\"",
+      "itemIds": [
+        "county-617b37391e3d0c"
+      ],
+      "name": "建德水米糕"
+    },
+    {
+      "query": "\"三都麻糍\"",
+      "itemIds": [
+        "county-b621ef47566622"
+      ],
+      "name": "三都麻糍"
+    },
+    {
+      "query": "\"塘栖粢毛肉圆\"",
+      "itemIds": [
+        "county-934d0a3bcc0e69"
+      ],
+      "name": "塘栖粢毛肉圆"
+    },
+    {
+      "query": "\"永昌臭豆腐\"",
+      "itemIds": [
+        "county-0f717bff82f4a2"
+      ],
+      "name": "永昌臭豆腐"
+    },
+    {
+      "query": "\"海曙乌饭麻糍\"",
+      "itemIds": [
+        "county-a11dbab0552600"
+      ],
+      "name": "海曙乌饭麻糍"
+    },
+    {
+      "query": "\"北仑虾刺年糕\"",
+      "itemIds": [
+        "county-0f14d417c71776"
+      ],
+      "name": "北仑虾刺年糕"
+    },
+    {
+      "query": "\"鄞州阿明包子\"",
+      "itemIds": [
+        "county-2df168523dea30"
+      ],
+      "name": "鄞州阿明包子"
+    },
+    {
+      "query": "\"奉化千层饼\"",
+      "itemIds": [
+        "county-1b8b20507baf90"
+      ],
+      "name": "奉化千层饼"
+    },
+    {
+      "query": "\"陆埠豆酥糖\"",
+      "itemIds": [
+        "county-9cd08305709a26"
+      ],
+      "name": "陆埠豆酥糖"
+    },
+    {
+      "query": "\"宁海麦饼\"",
+      "itemIds": [
+        "county-c4761d6e18be3b"
+      ],
+      "name": "宁海麦饼"
+    },
+    {
+      "query": "\"象山米馒头\"",
+      "itemIds": [
+        "county-f904b934f6af03"
+      ],
+      "name": "象山米馒头"
+    },
+    {
+      "query": "\"象山鱼糍面\"",
+      "itemIds": [
+        "county-a80af01d730b9c"
+      ],
+      "name": "象山鱼糍面"
+    },
+    {
+      "query": "\"龙湾纱面汤\"",
+      "itemIds": [
+        "county-b645178d4e274a"
+      ],
+      "name": "龙湾纱面汤"
+    },
+    {
+      "query": "\"乐清瓦头锦\"",
+      "itemIds": [
+        "county-5da1babea2e2c1"
+      ],
+      "name": "乐清瓦头锦"
+    },
+    {
+      "query": "\"永嘉麦饼\"",
+      "itemIds": [
+        "county-c10d7f850f8864"
+      ],
+      "name": "永嘉麦饼"
+    },
+    {
+      "query": "\"平阳炒粉干\"",
+      "itemIds": [
+        "county-18d9c51886d6da"
+      ],
+      "name": "平阳炒粉干"
+    },
+    {
+      "query": "\"里光婆饼\"",
+      "itemIds": [
+        "county-a5cbd12df14ae3"
+      ],
+      "name": "里光婆饼"
+    },
+    {
+      "query": "\"矾山肉燕\"",
+      "itemIds": [
+        "county-7a0969fc8211ad"
+      ],
+      "name": "矾山肉燕"
+    },
+    {
+      "query": "\"洞头墨鱼饼\"",
+      "itemIds": [
+        "county-1418f65fc0122b"
+      ],
+      "name": "洞头墨鱼饼"
+    },
+    {
+      "query": "\"文成农家绿豆腐\"",
+      "itemIds": [
+        "county-f3ce7b76225025"
+      ],
+      "name": "文成农家绿豆腐"
+    },
+    {
+      "query": "\"湖州茶食四珍\"",
+      "itemIds": [
+        "county-2e798a84b2f07d"
+      ],
+      "name": "湖州茶食四珍"
+    },
+    {
+      "query": "\"湖州大馄饨\"",
+      "itemIds": [
+        "county-959282e13289a1"
+      ],
+      "name": "湖州大馄饨"
+    },
+    {
+      "query": "\"南浔红烧羊肉面\"",
+      "itemIds": [
+        "county-76caa74a867597"
+      ],
+      "name": "南浔红烧羊肉面"
+    },
+    {
+      "query": "\"南浔桑果糕\"",
+      "itemIds": [
+        "county-225240819615d4"
+      ],
+      "name": "南浔桑果糕"
+    },
+    {
+      "query": "\"安吉吴均汤包\"",
+      "itemIds": [
+        "county-8039c11dc6014c"
+      ],
+      "name": "安吉吴均汤包"
+    },
+    {
+      "query": "\"凤桥梅花糕\"",
+      "itemIds": [
+        "county-ba0363c1697aaa"
+      ],
+      "name": "凤桥梅花糕"
+    },
+    {
+      "query": "\"王江泾芝麻栗酥\"",
+      "itemIds": [
+        "county-a2f85c446eb815"
+      ],
+      "name": "王江泾芝麻栗酥"
+    },
+    {
+      "query": "\"西塘八珍糕\"",
+      "itemIds": [
+        "county-b88770603ca654"
+      ],
+      "name": "西塘八珍糕"
+    },
+    {
+      "query": "\"平湖蟹壳黄\"",
+      "itemIds": [
+        "county-27c75b1c4c6858"
+      ],
+      "name": "平湖蟹壳黄"
+    },
+    {
+      "query": "\"乌镇姑嫂饼\"",
+      "itemIds": [
+        "county-09ff6176cbcd30"
+      ],
+      "name": "乌镇姑嫂饼"
+    },
+    {
+      "query": "\"乌镇定胜糕\"",
+      "itemIds": [
+        "county-8c42f2e287ed21"
+      ],
+      "name": "乌镇定胜糕"
+    },
+    {
+      "query": "\"嘉善西塘粉蒸肉\"",
+      "itemIds": [
+        "county-ac3d5f0832e654"
+      ],
+      "name": "嘉善西塘粉蒸肉"
+    },
+    {
+      "query": "\"西施团圆饼\"",
+      "itemIds": [
+        "county-8120694dcb176f"
+      ],
+      "name": "西施团圆饼"
+    },
+    {
+      "query": "\"诸暨糖漾\"",
+      "itemIds": [
+        "county-6f5cfe71a1e5df"
+      ],
+      "name": "诸暨糖漾"
+    },
+    {
+      "query": "\"嵊州炒榨面\"",
+      "itemIds": [
+        "county-033de905926910"
+      ],
+      "name": "嵊州炒榨面"
+    },
+    {
+      "query": "\"谢塘五香干\"",
+      "itemIds": [
+        "county-bc3d34f971befd"
+      ],
+      "name": "谢塘五香干"
+    },
+    {
+      "query": "\"金华佛手饼\"",
+      "itemIds": [
+        "county-1ea5c4acc36720"
+      ],
+      "name": "金华佛手饼"
+    },
+    {
+      "query": "\"东阳沃面\"",
+      "itemIds": [
+        "county-8d6773813fe342"
+      ],
+      "name": "东阳沃面"
+    },
+    {
+      "query": "\"浦江一根面\"",
+      "itemIds": [
+        "county-b7e0867cf491cf"
+      ],
+      "name": "浦江一根面"
+    },
+    {
+      "query": "\"武义艾糕\"",
+      "itemIds": [
+        "county-c2fae9573e966f"
+      ],
+      "name": "武义艾糕"
+    },
+    {
+      "query": "\"磐安大蒜饼\"",
+      "itemIds": [
+        "county-02f749891d42a6"
+      ],
+      "name": "磐安大蒜饼"
+    },
+    {
+      "query": "\"方前扁食\"",
+      "itemIds": [
+        "county-30271f64fc9b63"
+      ],
+      "name": "方前扁食"
+    },
+    {
+      "query": "\"杜泽灌肠\"",
+      "itemIds": [
+        "county-1b0325affb1032"
+      ],
+      "name": "杜泽灌肠"
+    },
+    {
+      "query": "\"江山米糕\"",
+      "itemIds": [
+        "county-10452abda324b1"
+      ],
+      "name": "江山米糕"
+    },
+    {
+      "query": "\"常山麦香饼\"",
+      "itemIds": [
+        "county-48d675976f47ea"
+      ],
+      "name": "常山麦香饼"
+    },
+    {
+      "query": "\"桐村碱水粽\"",
+      "itemIds": [
+        "county-0bdee5a3bb5b3b"
+      ],
+      "name": "桐村碱水粽"
+    },
+    {
+      "query": "\"普陀观音饼\"",
+      "itemIds": [
+        "county-54f1e107445f13"
+      ],
+      "name": "普陀观音饼"
+    },
+    {
+      "query": "\"倭井潭硬糕\"",
+      "itemIds": [
+        "county-a49acd4d929bb5"
+      ],
+      "name": "倭井潭硬糕"
+    },
+    {
+      "query": "\"舟山带鱼饭\"",
+      "itemIds": [
+        "county-6f00f242ded977"
+      ],
+      "name": "舟山带鱼饭"
+    },
+    {
+      "query": "\"椒江姜汁核桃调蛋\"",
+      "itemIds": [
+        "county-997eb2829a5203"
+      ],
+      "name": "椒江姜汁核桃调蛋"
+    },
+    {
+      "query": "\"沙埠豆腐干\"",
+      "itemIds": [
+        "county-7c5881ed0f1e83"
+      ],
+      "name": "沙埠豆腐干"
+    },
+    {
+      "query": "\"螺洋三宝\"",
+      "itemIds": [
+        "county-3d3f1733b7fa22"
+      ],
+      "name": "螺洋三宝"
+    },
+    {
+      "query": "\"临海糟羹\"",
+      "itemIds": [
+        "county-8c61f8b90934fc"
+      ],
+      "name": "临海糟羹"
+    },
+    {
+      "query": "\"仙居泡鲞\"",
+      "itemIds": [
+        "county-4b0aed0268cddf"
+      ],
+      "name": "仙居泡鲞"
+    },
+    {
+      "query": "\"黄岩红糖烤糖\"",
+      "itemIds": [
+        "county-e544e611fe8709"
+      ],
+      "name": "黄岩红糖烤糖"
+    },
+    {
+      "query": "\"宁溪麦鼓头\"",
+      "itemIds": [
+        "county-a2400dd1f4bbfd"
+      ],
+      "name": "宁溪麦鼓头"
+    },
+    {
+      "query": "\"温岭泡虾\"",
+      "itemIds": [
+        "county-10b27f4d048962"
+      ],
+      "name": "温岭泡虾"
+    },
+    {
+      "query": "\"玉环敲鱼皮馄饨\"",
+      "itemIds": [
+        "county-202abc83b24ced"
+      ],
+      "name": "玉环敲鱼皮馄饨"
+    },
+    {
+      "query": "\"三门松花饼\"",
+      "itemIds": [
+        "county-3ebcae7a657306"
+      ],
+      "name": "三门松花饼"
+    },
+    {
+      "query": "\"龙泉金观音饼\"",
+      "itemIds": [
+        "county-1597178be55d93"
+      ],
+      "name": "龙泉金观音饼"
+    },
+    {
+      "query": "\"青田国师饼\"",
+      "itemIds": [
+        "county-33005d6867555b"
+      ],
+      "name": "青田国师饼"
+    },
+    {
+      "query": "\"云和油筒饼\"",
+      "itemIds": [
+        "county-91588bb765e7be"
+      ],
+      "name": "云和油筒饼"
+    },
+    {
+      "query": "\"庆元黄粿\"",
+      "itemIds": [
+        "county-1557668417b4da"
+      ],
+      "name": "庆元黄粿"
+    },
+    {
+      "query": "\"庆元乌米饭\"",
+      "itemIds": [
+        "county-722133bf972660"
+      ],
+      "name": "庆元乌米饭"
+    },
+    {
+      "query": "\"缙云敲肉羹\"",
+      "itemIds": [
+        "county-671f68524ee22e"
+      ],
+      "name": "缙云敲肉羹"
+    },
+    {
+      "query": "\"伊利苏州乳品\"",
+      "itemIds": [
+        "county-42617c58722d32"
+      ],
+      "name": "伊利苏州乳品"
+    },
+    {
+      "query": "\"金力乳品\"",
+      "itemIds": [
+        "county-6def1f7890cf4d"
+      ],
+      "name": "金力乳品"
+    },
+    {
+      "query": "\"南京光明乳品\"",
+      "itemIds": [
+        "county-a3edc614b8625d"
+      ],
+      "name": "南京光明乳品"
+    },
+    {
+      "query": "\"扬大康源乳品\"",
+      "itemIds": [
+        "county-de55d4527fc139"
+      ],
+      "name": "扬大康源乳品"
+    },
+    {
+      "query": "\"梁丰乳品\"",
+      "itemIds": [
+        "county-67c9b35707dfd6"
+      ],
+      "name": "梁丰乳品"
+    },
+    {
+      "query": "\"常州红梅乳品\"",
+      "itemIds": [
+        "county-ce3297a751a578"
+      ],
+      "name": "常州红梅乳品"
+    },
+    {
+      "query": "\"明治苏州乳品\"",
+      "itemIds": [
+        "county-a442c88617077f"
+      ],
+      "name": "明治苏州乳品"
+    },
+    {
+      "query": "\"优诺昆山乳品\"",
+      "itemIds": [
+        "county-6c53d584694bce"
+      ],
+      "name": "优诺昆山乳品"
+    },
+    {
+      "query": "\"卡士苏州酸奶\"",
+      "itemIds": [
+        "county-a6cc838be49400"
+      ],
+      "name": "卡士苏州酸奶"
+    },
+    {
+      "query": "\"一鸣江苏乳品\"",
+      "itemIds": [
+        "county-cc9ad8395735b8"
+      ],
+      "name": "一鸣江苏乳品"
+    },
+    {
+      "query": "\"健桥乳品\"",
+      "itemIds": [
+        "county-a07802cf5130dd"
+      ],
+      "name": "健桥乳品"
+    },
+    {
+      "query": "\"绿健乳品\"",
+      "itemIds": [
+        "county-694bd8b8fc97f6"
+      ],
+      "name": "绿健乳品"
+    },
+    {
+      "query": "\"优格宿迁酸奶\"",
+      "itemIds": [
+        "county-7d4abf05969ad0"
+      ],
+      "name": "优格宿迁酸奶"
+    },
+    {
+      "query": "\"君乐宝江苏乳品\"",
+      "itemIds": [
+        "county-569205c5897b86"
+      ],
+      "name": "君乐宝江苏乳品"
+    },
+    {
+      "query": "\"卫岗新沂乳品\"",
+      "itemIds": [
+        "county-3bf5f6c2992616"
+      ],
+      "name": "卫岗新沂乳品"
+    },
+    {
+      "query": "\"光明银宝乳品\"",
+      "itemIds": [
+        "county-a6e482d867620d"
+      ],
+      "name": "光明银宝乳品"
+    },
+    {
+      "query": "\"华兴乳品\"",
+      "itemIds": [
+        "county-6ea4548df813b3"
+      ],
+      "name": "华兴乳品"
+    },
+    {
+      "query": "\"莱益塔奶酪\"",
+      "itemIds": [
+        "county-204c0d09f69133"
+      ],
+      "name": "莱益塔奶酪"
+    },
+    {
+      "query": "\"大旺南京调制乳\"",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ],
+      "name": "大旺南京调制乳"
+    },
+    {
+      "query": "\"练湖乳品\"",
+      "itemIds": [
+        "county-968a4c6f16bbed"
+      ],
+      "name": "练湖乳品"
+    },
+    {
+      "query": "\"南通红梅乳品\"",
+      "itemIds": [
+        "county-6cbcb957983103"
+      ],
+      "name": "南通红梅乳品"
+    },
+    {
+      "query": "\"维扬乳品\"",
+      "itemIds": [
+        "county-19fed11b1a24fa"
+      ],
+      "name": "维扬乳品"
+    },
+    {
+      "query": "\"三元双宝乳品\"",
+      "itemIds": [
+        "county-b3ef0a8f3fc9b3"
+      ],
+      "name": "三元双宝乳品"
+    },
+    {
+      "query": "\"连望乳品\"",
+      "itemIds": [
+        "county-05564482fde9df"
+      ],
+      "name": "连望乳品"
+    },
+    {
+      "query": "\"蒙牛宿迁乳品\"",
+      "itemIds": [
+        "county-b8826e8faa9b71"
+      ],
+      "name": "蒙牛宿迁乳品"
+    },
+    {
+      "query": "\"养乐多无锡乳酸菌饮品\"",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "name": "养乐多无锡乳酸菌饮品"
+    },
+    {
+      "query": "\"志威乳品与食品配料\"",
+      "itemIds": [
+        "county-64f43db7758a47"
+      ],
+      "name": "志威乳品与食品配料"
+    },
+    {
+      "query": "\"河横大米\"",
+      "itemIds": [
+        "program-fe851d7994704219c6"
+      ],
+      "name": "河横大米"
+    },
+    {
+      "query": "\"宁波金柑\"",
+      "itemIds": [
+        "program-6e0af5cb316f590bb6"
+      ],
+      "name": "宁波金柑"
+    },
+    {
+      "query": "\"遂昌竹炭\"",
+      "itemIds": [
+        "program-b079884931c38deae9"
+      ],
+      "name": "遂昌竹炭"
+    },
+    {
+      "query": "\"兴化香葱\"",
+      "itemIds": [
+        "program-96a573a0e406443bea"
+      ],
+      "name": "兴化香葱"
+    },
+    {
+      "query": "\"常山山茶油\"",
+      "itemIds": [
+        "program-17e5044b66df5ccbf0"
+      ],
+      "name": "常山山茶油"
+    },
+    {
+      "query": "\"严东关五加皮酒\"",
+      "itemIds": [
+        "program-9e23efcbe056ea498a"
+      ],
+      "name": "严东关五加皮酒"
+    },
+    {
+      "query": "\"姚庄蘑菇\"",
+      "itemIds": [
+        "program-fe2c916396e0fb9657"
+      ],
+      "name": "姚庄蘑菇"
+    },
+    {
+      "query": "\"王店三园鸡\"",
+      "itemIds": [
+        "program-50787800c20588a7fa"
+      ],
+      "name": "王店三园鸡"
+    },
+    {
+      "query": "\"东海水晶\"",
+      "itemIds": [
+        "program-ce6673a3ba1e30dc26"
+      ],
+      "name": "东海水晶"
+    },
+    {
+      "query": "\"崇明老毛蟹\"",
+      "itemIds": [
+        "program-eeac741fc9f04306ec"
+      ],
+      "name": "崇明老毛蟹"
+    },
+    {
+      "query": "\"固城湖螃蟹\"",
+      "itemIds": [
+        "program-c03f6705407d673f52"
+      ],
+      "name": "固城湖螃蟹"
+    },
+    {
+      "query": "\"南通长江河豚(养殖)\"",
+      "itemIds": [
+        "program-9b514e0aa22ab4f102"
+      ],
+      "name": "南通长江河豚(养殖)"
+    },
+    {
+      "query": "\"德清早园笋\"",
+      "itemIds": [
+        "program-ba036e92775d8f2535"
+      ],
+      "name": "德清早园笋"
+    },
+    {
+      "query": "\"海盐大头菜\"",
+      "itemIds": [
+        "program-159e4d2813c613c0f1"
+      ],
+      "name": "海盐大头菜"
+    },
+    {
+      "query": "\"丁岙杨梅\"",
+      "itemIds": [
+        "program-031ae609f8d046cf04"
+      ],
+      "name": "丁岙杨梅"
+    },
+    {
+      "query": "\"崇明老白酒\"",
+      "itemIds": [
+        "program-0ecf8670f24a11093c"
+      ],
+      "name": "崇明老白酒"
+    },
+    {
+      "query": "\"练塘茭白\"",
+      "itemIds": [
+        "program-232f448ba80dff3d3b"
+      ],
+      "name": "练塘茭白"
+    },
+    {
+      "query": "\"东海大米\"",
+      "itemIds": [
+        "program-61c1d7e42b8f8667fd"
+      ],
+      "name": "东海大米"
+    },
+    {
+      "query": "\"天目山铁皮石斛\"",
+      "itemIds": [
+        "program-c67fec224758b5610e"
+      ],
+      "name": "天目山铁皮石斛"
+    },
+    {
+      "query": "\"射阳大米\"",
+      "itemIds": [
+        "program-e7dc906ebe38aa1d4e"
+      ],
+      "name": "射阳大米"
+    },
+    {
+      "query": "\"邳州白蒜\"",
+      "itemIds": [
+        "program-b9758472b25d7b72cd"
+      ],
+      "name": "邳州白蒜"
+    },
+    {
+      "query": "\"长兴吊瓜籽\"",
+      "itemIds": [
+        "program-fb9c79c5fa74cb3489"
+      ],
+      "name": "长兴吊瓜籽"
+    },
+    {
+      "query": "\"松阳茶\"",
+      "itemIds": [
+        "program-8c1ffcd4ced60b5eb0"
+      ],
+      "name": "松阳茶"
+    },
+    {
+      "query": "\"建德苞茶\"",
+      "itemIds": [
+        "program-b312efc0c588d3b42d"
+      ],
+      "name": "建德苞茶"
+    },
+    {
+      "query": "\"盱眙龙虾\"",
+      "itemIds": [
+        "program-edf4e769620d541dfa"
+      ],
+      "name": "盱眙龙虾"
+    },
+    {
+      "query": "\"兴化红皮小麦\"",
+      "itemIds": [
+        "program-f811957d66321a6ba8"
+      ],
+      "name": "兴化红皮小麦"
+    },
+    {
+      "query": "\"狼山鸡\"",
+      "itemIds": [
+        "program-3a0cfd17846c61bca3"
+      ],
+      "name": "狼山鸡"
+    },
+    {
+      "query": "\"临海杨梅\"",
+      "itemIds": [
+        "program-c1623417b37b463101"
+      ],
+      "name": "临海杨梅"
+    },
+    {
+      "query": "\"南湖菱\"",
+      "itemIds": [
+        "program-09ac783f2e867840fb"
+      ],
+      "name": "南湖菱"
+    },
+    {
+      "query": "\"东海(老)淮猪肉\"",
+      "itemIds": [
+        "program-71309850dabc44c795"
+      ],
+      "name": "东海(老)淮猪肉"
+    },
+    {
+      "query": "\"象山白鹅\"",
+      "itemIds": [
+        "program-a0cb546fe73c2dff8e"
+      ],
+      "name": "象山白鹅"
+    },
+    {
+      "query": "\"邳州银杏\"",
+      "itemIds": [
+        "program-28ba2e5c8687b64360"
+      ],
+      "name": "邳州银杏"
+    },
+    {
+      "query": "\"海门山羊肉\"",
+      "itemIds": [
+        "program-e1c0fcd2e2ea10f9a5"
+      ],
+      "name": "海门山羊肉"
+    },
+    {
+      "query": "\"惠明茶\"",
+      "itemIds": [
+        "program-b0f74da42fe558ec96"
+      ],
+      "name": "惠明茶"
+    },
+    {
+      "query": "\"里叶白莲\"",
+      "itemIds": [
+        "program-0302cc250d8db37d49"
+      ],
+      "name": "里叶白莲"
+    },
+    {
+      "query": "\"衢州莹白瓷\"",
+      "itemIds": [
+        "program-d53a44f1ea0975b220"
+      ],
+      "name": "衢州莹白瓷"
+    },
+    {
+      "query": "\"云和黑木耳\"",
+      "itemIds": [
+        "program-e5235698373adb4c6b"
+      ],
+      "name": "云和黑木耳"
+    },
+    {
+      "query": "\"杭州丝绸\"",
+      "itemIds": [
+        "program-9107a30f5e325737df"
+      ],
+      "name": "杭州丝绸"
+    },
+    {
+      "query": "\"仓桥水晶梨\"",
+      "itemIds": [
+        "program-f37054fcc3b4e95797"
+      ],
+      "name": "仓桥水晶梨"
+    },
+    {
+      "query": "\"洪泽湖大闸蟹\"",
+      "itemIds": [
+        "program-28debef04ecd5ab400"
+      ],
+      "name": "洪泽湖大闸蟹"
+    },
+    {
+      "query": "\"窑湾绿豆烧\"",
+      "itemIds": [
+        "program-e46184571d958f10c1"
+      ],
+      "name": "窑湾绿豆烧"
+    },
+    {
+      "query": "\"灌南金针菇\"",
+      "itemIds": [
+        "program-5293ae99d49aebb9dc"
+      ],
+      "name": "灌南金针菇"
+    },
+    {
+      "query": "\"黄川草莓\"",
+      "itemIds": [
+        "program-85d0f8c2dea5238918"
+      ],
+      "name": "黄川草莓"
+    },
+    {
+      "query": "\"邳州苔干\"",
+      "itemIds": [
+        "program-d18e4daa910de249c9"
+      ],
+      "name": "邳州苔干"
+    },
+    {
+      "query": "\"余姚皮蛋\"",
+      "itemIds": [
+        "program-839101635175200696"
+      ],
+      "name": "余姚皮蛋"
+    },
+    {
+      "query": "\"余姚咸蛋\"",
+      "itemIds": [
+        "program-0544c680a18a8f3e96"
+      ],
+      "name": "余姚咸蛋"
+    },
+    {
+      "query": "\"新沂水蜜桃\"",
+      "itemIds": [
+        "program-ac3822bbcaf7f654cc"
+      ],
+      "name": "新沂水蜜桃"
+    },
+    {
+      "query": "\"盐城海盐\"",
+      "itemIds": [
+        "program-6a317da3141c40ddb7"
+      ],
+      "name": "盐城海盐"
+    },
+    {
+      "query": "\"松江大米\"",
+      "itemIds": [
+        "program-e58ed7b7b025707748"
+      ],
+      "name": "松江大米"
+    },
+    {
+      "query": "\"石梁河葡萄\"",
+      "itemIds": [
+        "program-6b04be959222e58231"
+      ],
+      "name": "石梁河葡萄"
+    },
+    {
+      "query": "\"大丰东沙紫菜\"",
+      "itemIds": [
+        "program-62c49e0766b0a8f83c"
+      ],
+      "name": "大丰东沙紫菜"
+    },
+    {
+      "query": "\"径山茶\"",
+      "itemIds": [
+        "program-7a34f10e56f5b1045c"
+      ],
+      "name": "径山茶"
+    },
+    {
+      "query": "\"大纵湖大闸蟹\"",
+      "itemIds": [
+        "program-fbdd4b49886f73413b"
+      ],
+      "name": "大纵湖大闸蟹"
+    },
+    {
+      "query": "\"兴化大闸蟹\"",
+      "itemIds": [
+        "program-a9daf3765a9ec8e91b"
+      ],
+      "name": "兴化大闸蟹"
+    },
+    {
+      "query": "\"板浦滴醋\"",
+      "itemIds": [
+        "program-2ede64f4d8a9307072"
+      ],
+      "name": "板浦滴醋"
+    },
+    {
+      "query": "\"高邮湖大闸蟹\"",
+      "itemIds": [
+        "program-31ee1600ede13ff27e"
+      ],
+      "name": "高邮湖大闸蟹"
+    },
+    {
+      "query": "\"如东条斑紫菜\"",
+      "itemIds": [
+        "program-ed164f1c70afad9f5c"
+      ],
+      "name": "如东条斑紫菜"
+    },
+    {
+      "query": "\"东海西红柿\"",
+      "itemIds": [
+        "program-5c1a72c29fb99ef509"
+      ],
+      "name": "东海西红柿"
+    },
+    {
+      "query": "\"如皋黄酒\"",
+      "itemIds": [
+        "program-311478152a091e161b"
+      ],
+      "name": "如皋黄酒"
+    },
+    {
+      "query": "\"丁庄葡萄\"",
+      "itemIds": [
+        "program-531f4199d2d5ca10a2"
+      ],
+      "name": "丁庄葡萄"
+    },
+    {
+      "query": "\"邵伯菱\"",
+      "itemIds": [
+        "program-29ae7c2db99a1e5ee3"
+      ],
+      "name": "邵伯菱"
+    },
+    {
+      "query": "\"如皋火腿\"",
+      "itemIds": [
+        "program-88aef3a06c7f3289c4"
+      ],
+      "name": "如皋火腿"
+    },
+    {
+      "query": "\"千岛银珍\"",
+      "itemIds": [
+        "program-7d92c5916d8e9dd59b"
+      ],
+      "name": "千岛银珍"
+    },
+    {
+      "query": "\"普陀佛茶\"",
+      "itemIds": [
+        "program-b99ab57e6be99e02c2"
+      ],
+      "name": "普陀佛茶"
+    },
+    {
+      "query": "\"崇明白山羊\"",
+      "itemIds": [
+        "program-f609baecc538f8d370"
+      ],
+      "name": "崇明白山羊"
+    },
+    {
+      "query": "\"枫泾猪\"",
+      "itemIds": [
+        "program-58a6c32e81e3ba244c"
+      ],
+      "name": "枫泾猪"
+    },
+    {
+      "query": "\"崇明沙乌头猪\"",
+      "itemIds": [
+        "program-5b0978307a41cd75f9"
+      ],
+      "name": "崇明沙乌头猪"
+    },
+    {
+      "query": "\"白鹤草莓\"",
+      "itemIds": [
+        "program-e7a556e1331ae2253d"
+      ],
+      "name": "白鹤草莓"
+    },
+    {
+      "query": "\"青浦薄稻米\"",
+      "itemIds": [
+        "program-2cfbbc5b91eeeb3ddb"
+      ],
+      "name": "青浦薄稻米"
+    },
+    {
+      "query": "\"七宝黄金瓜\"",
+      "itemIds": [
+        "program-5e965109d74007b527"
+      ],
+      "name": "七宝黄金瓜"
+    },
+    {
+      "query": "\"金山翠芽\"",
+      "itemIds": [
+        "program-b0f9818f7ab8d4ebf4"
+      ],
+      "name": "金山翠芽"
+    },
+    {
+      "query": "\"兴化大青虾\"",
+      "itemIds": [
+        "program-6178ddf3010bb7e1b7"
+      ],
+      "name": "兴化大青虾"
+    },
+    {
+      "query": "\"吴江香青菜\"",
+      "itemIds": [
+        "program-cb4b3c2e45373818f6"
+      ],
+      "name": "吴江香青菜"
+    },
+    {
+      "query": "\"裕华大蒜\"",
+      "itemIds": [
+        "program-99c3abd4ae153a38fe"
+      ],
+      "name": "裕华大蒜"
+    },
+    {
+      "query": "\"焦溪二花脸猪\"",
+      "itemIds": [
+        "program-f7bd2d4aa8906af045"
+      ],
+      "name": "焦溪二花脸猪"
+    },
+    {
+      "query": "\"溧阳白芹\"",
+      "itemIds": [
+        "program-26782054cd3d5e834f"
+      ],
+      "name": "溧阳白芹"
+    },
+    {
+      "query": "\"泰兴花生\"",
+      "itemIds": [
+        "program-7beba680bc0a21feab"
+      ],
+      "name": "泰兴花生"
+    },
+    {
+      "query": "\"贾汪大洞山石榴\"",
+      "itemIds": [
+        "program-b4a94d047dfb6494fe"
+      ],
+      "name": "贾汪大洞山石榴"
+    },
+    {
+      "query": "\"宝应慈姑\"",
+      "itemIds": [
+        "program-edef7a0767b0f574da"
+      ],
+      "name": "宝应慈姑"
+    },
+    {
+      "query": "\"谢湖大樱桃\"",
+      "itemIds": [
+        "program-bfff5b27a248ec9a39"
+      ],
+      "name": "谢湖大樱桃"
+    },
+    {
+      "query": "\"白马黑莓\"",
+      "itemIds": [
+        "program-4e17595d7e6d9f89f7"
+      ],
+      "name": "白马黑莓"
+    },
+    {
+      "query": "\"八集小花生\"",
+      "itemIds": [
+        "program-165a6ffbbc9e40c365"
+      ],
+      "name": "八集小花生"
+    },
+    {
+      "query": "\"靖江香沙芋\"",
+      "itemIds": [
+        "program-a26426fe5f6fe0fcb3"
+      ],
+      "name": "靖江香沙芋"
+    },
+    {
+      "query": "\"海门黄鸡\"",
+      "itemIds": [
+        "program-7ae583fb1597dc444b"
+      ],
+      "name": "海门黄鸡"
+    },
+    {
+      "query": "\"溧阳鸡\"",
+      "itemIds": [
+        "program-1299e37144d203a0ee"
+      ],
+      "name": "溧阳鸡"
+    },
+    {
+      "query": "\"宝应核桃乌青菜\"",
+      "itemIds": [
+        "program-d443ff83ab0f383de3"
+      ],
+      "name": "宝应核桃乌青菜"
+    },
+    {
+      "query": "\"如皋黄鸡\"",
+      "itemIds": [
+        "program-f2e2fbfe6b0f4d5917"
+      ],
+      "name": "如皋黄鸡"
+    },
+    {
+      "query": "\"建湖青虾\"",
+      "itemIds": [
+        "program-7bfc678cd7d3a69648"
+      ],
+      "name": "建湖青虾"
+    },
+    {
+      "query": "\"泰兴荞麦\"",
+      "itemIds": [
+        "program-a3e116eea5f4e82b2d"
+      ],
+      "name": "泰兴荞麦"
+    },
+    {
+      "query": "\"淮安蒲菜\"",
+      "itemIds": [
+        "program-a1ede2b78f61b84217"
+      ],
+      "name": "淮安蒲菜"
+    },
+    {
+      "query": "\"海门香芋\"",
+      "itemIds": [
+        "program-44cde5416be75c805a"
+      ],
+      "name": "海门香芋"
+    },
+    {
+      "query": "\"阜宁西瓜\"",
+      "itemIds": [
+        "program-975897972bd2f2b932"
+      ],
+      "name": "阜宁西瓜"
+    },
+    {
+      "query": "\"泰兴元麦\"",
+      "itemIds": [
+        "program-d25d1ac6eb5f2fc4ee"
+      ],
+      "name": "泰兴元麦"
+    },
+    {
+      "query": "\"启东青皮长茄\"",
+      "itemIds": [
+        "program-4ac0992ab947170a95"
+      ],
+      "name": "启东青皮长茄"
+    },
+    {
+      "query": "\"启东洋扁豆\"",
+      "itemIds": [
+        "program-9da74153e869f54f99"
+      ],
+      "name": "启东洋扁豆"
+    },
+    {
+      "query": "\"万年香沙芋艿\"",
+      "itemIds": [
+        "program-e51a82b00084bce2fb"
+      ],
+      "name": "万年香沙芋艿"
+    },
+    {
+      "query": "\"泰兴香荷芋\"",
+      "itemIds": [
+        "program-237d1e4579a1640521"
+      ],
+      "name": "泰兴香荷芋"
+    },
+    {
+      "query": "\"吴中鸡头米\"",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f"
+      ],
+      "name": "吴中鸡头米"
+    },
+    {
+      "query": "\"启东绿皮蚕豆\"",
+      "itemIds": [
+        "program-c8ea6b66551333c7d0"
+      ],
+      "name": "启东绿皮蚕豆"
+    },
+    {
+      "query": "\"林苗圃早酥梨\"",
+      "itemIds": [
+        "program-21f13fdc8bf9cf2dfc"
+      ],
+      "name": "林苗圃早酥梨"
+    },
+    {
+      "query": "\"花园酥梨\"",
+      "itemIds": [
+        "program-5283ba44455cc79fc5"
+      ],
+      "name": "花园酥梨"
+    },
+    {
+      "query": "\"海门大红袍赤豆\"",
+      "itemIds": [
+        "program-3ae9804b63845fed35"
+      ],
+      "name": "海门大红袍赤豆"
+    },
+    {
+      "query": "\"启东沙地山药\"",
+      "itemIds": [
+        "program-d9706e4395c48f3292"
+      ],
+      "name": "启东沙地山药"
+    },
+    {
+      "query": "\"罗圩香茄\"",
+      "itemIds": [
+        "program-5c140fccd13a3c92e2"
+      ],
+      "name": "罗圩香茄"
+    },
+    {
+      "query": "\"杉荷园莲藕\"",
+      "itemIds": [
+        "program-549ff4a8451701c149"
+      ],
+      "name": "杉荷园莲藕"
+    },
+    {
+      "query": "\"启东芦稷\"",
+      "itemIds": [
+        "program-5ecb48106cda7954c4"
+      ],
+      "name": "启东芦稷"
+    },
+    {
+      "query": "\"海门大白皮蚕豆\"",
+      "itemIds": [
+        "program-948d1083bcebf97adc"
+      ],
+      "name": "海门大白皮蚕豆"
+    },
+    {
+      "query": "\"横溪西瓜\"",
+      "itemIds": [
+        "program-bee571526a28f516ec"
+      ],
+      "name": "横溪西瓜"
+    },
+    {
+      "query": "\"泗阳鲜桃\"",
+      "itemIds": [
+        "program-1701374b3df07ce70f"
+      ],
+      "name": "泗阳鲜桃"
+    },
+    {
+      "query": "\"高墟大米\"",
+      "itemIds": [
+        "program-4b825a7c79bc3084b0"
+      ],
+      "name": "高墟大米"
+    },
+    {
+      "query": "\"姜堰大米\"",
+      "itemIds": [
+        "program-c8ef2925559d6c25c5"
+      ],
+      "name": "姜堰大米"
+    },
+    {
+      "query": "\"东台大米\"",
+      "itemIds": [
+        "program-a0a8e3f81f4f45b70c"
+      ],
+      "name": "东台大米"
+    },
+    {
+      "query": "\"沈灶青椒\"",
+      "itemIds": [
+        "program-d0bbc6c79bf57467f8"
+      ],
+      "name": "沈灶青椒"
+    },
+    {
+      "query": "\"利民芦蒿\"",
+      "itemIds": [
+        "program-889e79341810d25c95"
+      ],
+      "name": "利民芦蒿"
+    },
+    {
+      "query": "\"四河青萝卜\"",
+      "itemIds": [
+        "program-367d4467c6179c4396"
+      ],
+      "name": "四河青萝卜"
+    },
+    {
+      "query": "\"东台西瓜\"",
+      "itemIds": [
+        "program-dbd607e2ea53bf4ddc"
+      ],
+      "name": "东台西瓜"
+    },
+    {
+      "query": "\"潼阳西瓜\"",
+      "itemIds": [
+        "program-f129042c62e3c10a4b"
+      ],
+      "name": "潼阳西瓜"
+    },
+    {
+      "query": "\"土桥大米\"",
+      "itemIds": [
+        "program-5f3a0db350de0e878f"
+      ],
+      "name": "土桥大米"
+    },
+    {
+      "query": "\"宿迁籼米\"",
+      "itemIds": [
+        "program-2e3bef459542f01c86"
+      ],
+      "name": "宿迁籼米"
+    },
+    {
+      "query": "\"董浜筒管玉丝瓜\"",
+      "itemIds": [
+        "program-cc406941b05ae7e061"
+      ],
+      "name": "董浜筒管玉丝瓜"
+    },
+    {
+      "query": "\"王庄西瓜\"",
+      "itemIds": [
+        "program-100b81fd8c50389eb6"
+      ],
+      "name": "王庄西瓜"
+    },
+    {
+      "query": "\"马山杨梅\"",
+      "itemIds": [
+        "program-7ebecd23e2a663b7e6"
+      ],
+      "name": "马山杨梅"
+    },
+    {
+      "query": "\"铜山金杏\"",
+      "itemIds": [
+        "program-3f2ef34e2ff8ea2a6e"
+      ],
+      "name": "铜山金杏"
+    },
+    {
+      "query": "\"陈集葡萄\"",
+      "itemIds": [
+        "program-000ccb77dea239577e"
+      ],
+      "name": "陈集葡萄"
+    },
+    {
+      "query": "\"东山白沙枇杷\"",
+      "itemIds": [
+        "program-8bce3cb68917f0dc5d"
+      ],
+      "name": "东山白沙枇杷"
+    },
+    {
+      "query": "\"响水西兰花\"",
+      "itemIds": [
+        "program-d5b622a12442cdaee9"
+      ],
+      "name": "响水西兰花"
+    },
+    {
+      "query": "\"弶港甜叶菊\"",
+      "itemIds": [
+        "program-7283aef4bb568210fb"
+      ],
+      "name": "弶港甜叶菊"
+    },
+    {
+      "query": "\"仪征紫菜薹\"",
+      "itemIds": [
+        "program-d77809b55e0bd1e073"
+      ],
+      "name": "仪征紫菜薹"
+    },
+    {
+      "query": "\"泗阳白酥梨\"",
+      "itemIds": [
+        "program-efeca31dd6877ba8e6"
+      ],
+      "name": "泗阳白酥梨"
+    },
+    {
+      "query": "\"魏营西瓜\"",
+      "itemIds": [
+        "program-715d869ea4206c44e7"
+      ],
+      "name": "魏营西瓜"
+    },
+    {
+      "query": "\"龙集莲子\"",
+      "itemIds": [
+        "program-5cdadebf17cf81ee96"
+      ],
+      "name": "龙集莲子"
+    },
+    {
+      "query": "\"下原蘘荷\"",
+      "itemIds": [
+        "program-d19ac0413b8d4ca83d"
+      ],
+      "name": "下原蘘荷"
+    },
+    {
+      "query": "\"凤凰水蜜桃\"",
+      "itemIds": [
+        "program-b08ddbf5ceae160e58"
+      ],
+      "name": "凤凰水蜜桃"
+    },
+    {
+      "query": "\"溱湖簖蟹\"",
+      "itemIds": [
+        "program-8a866f1b44508d2cb3"
+      ],
+      "name": "溱湖簖蟹"
+    },
+    {
+      "query": "\"董浜黄金小玉米\"",
+      "itemIds": [
+        "program-e526c1be014db4090f"
+      ],
+      "name": "董浜黄金小玉米"
+    },
+    {
+      "query": "\"天岗湖蜜桃\"",
+      "itemIds": [
+        "program-4eab009f4bd733946c"
+      ],
+      "name": "天岗湖蜜桃"
+    },
+    {
+      "query": "\"棠张桑果\"",
+      "itemIds": [
+        "program-4fc6bbefeaee40de1b"
+      ],
+      "name": "棠张桑果"
+    },
+    {
+      "query": "\"西山青种枇杷\"",
+      "itemIds": [
+        "program-e3b1d9cf60609d3089"
+      ],
+      "name": "西山青种枇杷"
+    },
+    {
+      "query": "\"树山杨梅\"",
+      "itemIds": [
+        "program-3e04ae2ea27d92ebb7"
+      ],
+      "name": "树山杨梅"
+    },
+    {
+      "query": "\"仰化荷藕\"",
+      "itemIds": [
+        "program-d684543f159626b154"
+      ],
+      "name": "仰化荷藕"
+    },
+    {
+      "query": "\"许河冬瓜\"",
+      "itemIds": [
+        "program-1012386b156d7f8d71"
+      ],
+      "name": "许河冬瓜"
+    },
+    {
+      "query": "\"太仓白蒜\"",
+      "itemIds": [
+        "program-f2f13abcca21bd0860"
+      ],
+      "name": "太仓白蒜"
+    },
+    {
+      "query": "\"龙池鲫鱼\"",
+      "itemIds": [
+        "program-e649205131e72039f0"
+      ],
+      "name": "龙池鲫鱼"
+    },
+    {
+      "query": "\"永宁青虾\"",
+      "itemIds": [
+        "program-12df552abb24a2fd2b"
+      ],
+      "name": "永宁青虾"
+    },
+    {
+      "query": "\"泰兴江沙蟹\"",
+      "itemIds": [
+        "program-2c9aa2e2e7379d8eea"
+      ],
+      "name": "泰兴江沙蟹"
+    },
+    {
+      "query": "\"东海老淮猪\"",
+      "itemIds": [
+        "program-664cee6582a1a02578"
+      ],
+      "name": "东海老淮猪"
+    },
+    {
+      "query": "\"黄尖菊花\"",
+      "itemIds": [
+        "program-8d95b2a687fcf6dd0f"
+      ],
+      "name": "黄尖菊花"
+    },
+    {
+      "query": "\"吕墅萝卜\"",
+      "itemIds": [
+        "program-332381b4464d32815b"
+      ],
+      "name": "吕墅萝卜"
+    },
+    {
+      "query": "\"盐东羊角椒\"",
+      "itemIds": [
+        "program-141043aa3b4072c57b"
+      ],
+      "name": "盐东羊角椒"
+    },
+    {
+      "query": "\"新毛芋艿\"",
+      "itemIds": [
+        "program-9dda37c47ab7d9fe9c"
+      ],
+      "name": "新毛芋艿"
+    },
+    {
+      "query": "\"响水浅水藕\"",
+      "itemIds": [
+        "program-96f558971915da6175"
+      ],
+      "name": "响水浅水藕"
+    },
+    {
+      "query": "\"如东蘘荷\"",
+      "itemIds": [
+        "program-455df1827077737c1e"
+      ],
+      "name": "如东蘘荷"
+    },
+    {
+      "query": "\"弶港文蛤\"",
+      "itemIds": [
+        "program-16a167fde999889a64"
+      ],
+      "name": "弶港文蛤"
+    },
+    {
+      "query": "\"弶港泥螺\"",
+      "itemIds": [
+        "program-eacbf68b82b0b02af8"
+      ],
+      "name": "弶港泥螺"
+    },
+    {
+      "query": "\"龙虬罗氏沼虾\"",
+      "itemIds": [
+        "program-4e1ec8c9d3f67c066c"
+      ],
+      "name": "龙虬罗氏沼虾"
+    },
+    {
+      "query": "\"富财圩螃蟹\"",
+      "itemIds": [
+        "program-f369a901125d87d017"
+      ],
+      "name": "富财圩螃蟹"
+    },
+    {
+      "query": "\"泰兴雪梨\"",
+      "itemIds": [
+        "program-ae186a0b85daa1b795"
+      ],
+      "name": "泰兴雪梨"
+    },
+    {
+      "query": "\"骑岸大方柿\"",
+      "itemIds": [
+        "program-f11e66aac849a6a9fc"
+      ],
+      "name": "骑岸大方柿"
+    },
+    {
+      "query": "\"张浦黄桃\"",
+      "itemIds": [
+        "program-082ca87af5fc1a9a9c"
+      ],
+      "name": "张浦黄桃"
+    },
+    {
+      "query": "\"恒北早酥梨\"",
+      "itemIds": [
+        "program-ae7404f0e29ba02198"
+      ],
+      "name": "恒北早酥梨"
+    },
+    {
+      "query": "\"石桥黄桃\"",
+      "itemIds": [
+        "program-58262a36f2ba83f732"
+      ],
+      "name": "石桥黄桃"
+    },
+    {
+      "query": "\"阳湖水蜜桃\"",
+      "itemIds": [
+        "program-af3d6915473dd0bf5d"
+      ],
+      "name": "阳湖水蜜桃"
+    },
+    {
+      "query": "\"潼阳花生\"",
+      "itemIds": [
+        "program-ecbbbef1513e80a433"
+      ],
+      "name": "潼阳花生"
+    },
+    {
+      "query": "\"新官紫桃\"",
+      "itemIds": [
+        "program-398b3942ec9c5b0c90"
+      ],
+      "name": "新官紫桃"
+    },
+    {
+      "query": "\"南阳辣根\"",
+      "itemIds": [
+        "program-fe245b68347717b7b9"
+      ],
+      "name": "南阳辣根"
+    },
+    {
+      "query": "\"岔河大米\"",
+      "itemIds": [
+        "program-de564a601182ed1ae8"
+      ],
+      "name": "岔河大米"
+    },
+    {
+      "query": "\"长兴紫笋茶\"",
+      "itemIds": [
+        "program-27b946fc353fa6a90c"
+      ],
+      "name": "长兴紫笋茶"
+    },
+    {
+      "query": "\"慈溪葡萄\"",
+      "itemIds": [
+        "program-bbe5af779dc865a0a8"
+      ],
+      "name": "慈溪葡萄"
+    },
+    {
+      "query": "\"余姚瀑布仙茗\"",
+      "itemIds": [
+        "program-8bd47807cea6ea4a6d"
+      ],
+      "name": "余姚瀑布仙茗"
+    },
+    {
+      "query": "\"缙云麻鸭\"",
+      "itemIds": [
+        "program-bfc1cd5e7177c00860"
+      ],
+      "name": "缙云麻鸭"
+    },
+    {
+      "query": "\"路桥枇杷\"",
+      "itemIds": [
+        "program-b3397846e03ea5aa72"
+      ],
+      "name": "路桥枇杷"
+    },
+    {
+      "query": "\"三杯香茶\"",
+      "itemIds": [
+        "program-efc1d183eb491ad06e"
+      ],
+      "name": "三杯香茶"
+    },
+    {
+      "query": "\"桐乡槜李\"",
+      "itemIds": [
+        "program-4bac6814fcb820538c"
+      ],
+      "name": "桐乡槜李"
+    },
+    {
+      "query": "\"舟山晚稻杨梅\"",
+      "itemIds": [
+        "program-14a38df3adf07ee044"
+      ],
+      "name": "舟山晚稻杨梅"
+    },
+    {
+      "query": "\"建德草莓\"",
+      "itemIds": [
+        "program-ccba042c5547aa7f20"
+      ],
+      "name": "建德草莓"
+    },
+    {
+      "query": "\"武义铁皮石斛\"",
+      "itemIds": [
+        "program-5243e1fa4ca641ef2e"
+      ],
+      "name": "武义铁皮石斛"
+    },
+    {
+      "query": "\"桐庐雪水云绿茶\"",
+      "itemIds": [
+        "program-4711edee18b7a6e021"
+      ],
+      "name": "桐庐雪水云绿茶"
+    },
+    {
+      "query": "\"天目青顶\"",
+      "itemIds": [
+        "program-b1051fbcad5003c4af"
+      ],
+      "name": "天目青顶"
+    },
+    {
+      "query": "\"义乌红糖\"",
+      "itemIds": [
+        "program-7165760f9c51e71fff"
+      ],
+      "name": "义乌红糖"
+    },
+    {
+      "query": "\"长街蛏子\"",
+      "itemIds": [
+        "program-82a7045ce07260d384"
+      ],
+      "name": "长街蛏子"
+    },
+    {
+      "query": "\"浦江葡萄\"",
+      "itemIds": [
+        "program-b81c6d5e4e9d66eb58"
+      ],
+      "name": "浦江葡萄"
+    },
+    {
+      "query": "\"湖州太湖鹅\"",
+      "itemIds": [
+        "program-b0db46e33b4e8c1fb5"
+      ],
+      "name": "湖州太湖鹅"
+    },
+    {
+      "query": "\"宁波岱衢族大黄鱼\"",
+      "itemIds": [
+        "program-d9fd3abba1e73551df"
+      ],
+      "name": "宁波岱衢族大黄鱼"
+    },
+    {
+      "query": "\"缙云米仁\"",
+      "itemIds": [
+        "program-e7fe9a78e57cd0b9c3"
+      ],
+      "name": "缙云米仁"
+    },
+    {
+      "query": "\"余姚甲鱼\"",
+      "itemIds": [
+        "program-952281248ae11293a5"
+      ],
+      "name": "余姚甲鱼"
+    },
+    {
+      "query": "\"金华佛手\"",
+      "itemIds": [
+        "program-72d93d7193018fb07d"
+      ],
+      "name": "金华佛手"
+    },
+    {
+      "query": "\"湖州湖羊\"",
+      "itemIds": [
+        "program-80f65d0c7afd41031e"
+      ],
+      "name": "湖州湖羊"
+    },
+    {
+      "query": "\"永康方山柿\"",
+      "itemIds": [
+        "program-47c10ccd96b7dbaa0d"
+      ],
+      "name": "永康方山柿"
+    },
+    {
+      "query": "\"兰溪小萝卜\"",
+      "itemIds": [
+        "program-50c04dfda3c23466c5"
+      ],
+      "name": "兰溪小萝卜"
+    },
+    {
+      "query": "\"云和雪梨\"",
+      "itemIds": [
+        "program-0a75a7a0b2487bf477"
+      ],
+      "name": "云和雪梨"
+    },
+    {
+      "query": "\"兰溪杨梅\"",
+      "itemIds": [
+        "program-548b6b7d9865a13d80"
+      ],
+      "name": "兰溪杨梅"
+    },
+    {
+      "query": "\"黄岩红糖\"",
+      "itemIds": [
+        "program-a74f308674ff1480c4"
+      ],
+      "name": "黄岩红糖"
+    },
+    {
+      "query": "\"永康五指岩生姜\"",
+      "itemIds": [
+        "program-c0d2ee3aa076aa4713"
+      ],
+      "name": "永康五指岩生姜"
+    },
+    {
+      "query": "\"雁荡山铁皮石斛\"",
+      "itemIds": [
+        "program-2dc98a1f1786e5dd3e"
+      ],
+      "name": "雁荡山铁皮石斛"
+    },
+    {
+      "query": "\"鸠坑茶\"",
+      "itemIds": [
+        "program-5eac2136ceceac1f57"
+      ],
+      "name": "鸠坑茶"
+    },
+    {
+      "query": "\"兰溪毛峰\"",
+      "itemIds": [
+        "program-eae36479341b28a187"
+      ],
+      "name": "兰溪毛峰"
+    },
+    {
+      "query": "\"武阳春雨\"",
+      "itemIds": [
+        "program-0469443018fbfb1456"
+      ],
+      "name": "武阳春雨"
+    },
+    {
+      "query": "\"泰顺猕猴桃\"",
+      "itemIds": [
+        "program-a2b265158b3df2abca"
+      ],
+      "name": "泰顺猕猴桃"
+    },
+    {
+      "query": "\"兰溪枇杷\"",
+      "itemIds": [
+        "program-b325f8ac475b18a339"
+      ],
+      "name": "兰溪枇杷"
+    },
+    {
+      "query": "\"溪口雷笋\"",
+      "itemIds": [
+        "program-f4053785385f549eb0"
+      ],
+      "name": "溪口雷笋"
+    },
+    {
+      "query": "\"凤桥水蜜桃\"",
+      "itemIds": [
+        "program-fe46021a908c7f2762"
+      ],
+      "name": "凤桥水蜜桃"
+    },
+    {
+      "query": "\"黄岩东魁杨梅\"",
+      "itemIds": [
+        "program-a2ac9f7abf1618d390"
+      ],
+      "name": "黄岩东魁杨梅"
+    },
+    {
+      "query": "\"遂昌菊米\"",
+      "itemIds": [
+        "program-7f016f6f9af6917f6a"
+      ],
+      "name": "遂昌菊米"
+    },
+    {
+      "query": "\"慈溪蜜梨\"",
+      "itemIds": [
+        "program-51a55e7eb92da21471"
+      ],
+      "name": "慈溪蜜梨"
+    },
+    {
+      "query": "\"永康舜芋\"",
+      "itemIds": [
+        "program-c9cf9e8aabef12de63"
+      ],
+      "name": "永康舜芋"
+    },
+    {
+      "query": "\"嵊州香榧\"",
+      "itemIds": [
+        "program-0440e83f7a6be6ee98"
+      ],
+      "name": "嵊州香榧"
+    },
+    {
+      "query": "\"平水日铸茶\"",
+      "itemIds": [
+        "program-fd1350535b9d2d27bf"
+      ],
+      "name": "平水日铸茶"
+    },
+    {
+      "query": "\"杨庙雪菜\"",
+      "itemIds": [
+        "program-e2776e1553a3fc732a"
+      ],
+      "name": "杨庙雪菜"
+    },
+    {
+      "query": "\"青田杨梅\"",
+      "itemIds": [
+        "program-914ea7b8444f2249d1"
+      ],
+      "name": "青田杨梅"
+    },
+    {
+      "query": "\"枫桥香榧\"",
+      "itemIds": [
+        "program-630363fe6cc55ac608"
+      ],
+      "name": "枫桥香榧"
+    },
+    {
+      "query": "\"宁海白枇杷\"",
+      "itemIds": [
+        "program-aa31c3e002f77868c3"
+      ],
+      "name": "宁海白枇杷"
+    },
+    {
+      "query": "\"余姚榨菜\"",
+      "itemIds": [
+        "program-0e85ea4f2b67d04074"
+      ],
+      "name": "余姚榨菜"
+    },
+    {
+      "query": "\"余姚杨梅\"",
+      "itemIds": [
+        "program-68c9d9cc74b934f29e"
+      ],
+      "name": "余姚杨梅"
+    },
+    {
+      "query": "\"临安山核桃\"",
+      "itemIds": [
+        "program-a873f83973b70e5c08"
+      ],
+      "name": "临安山核桃"
+    },
+    {
+      "query": "\"缙云茭白\"",
+      "itemIds": [
+        "program-e58f4909022229efb5"
+      ],
+      "name": "缙云茭白"
+    },
+    {
+      "query": "\"武义宣莲\"",
+      "itemIds": [
+        "program-1c6d641fc077279e2e"
+      ],
+      "name": "武义宣莲"
+    },
+    {
+      "query": "\"永康灰鹅\"",
+      "itemIds": [
+        "program-343501d445efacd201"
+      ],
+      "name": "永康灰鹅"
+    },
+    {
+      "query": "\"董家茭白\"",
+      "itemIds": [
+        "program-6fc8791afa61ade4ee"
+      ],
+      "name": "董家茭白"
+    },
+    {
+      "query": "\"胥仓雪藕\"",
+      "itemIds": [
+        "program-24dd6128f6782386ee"
+      ],
+      "name": "胥仓雪藕"
+    },
+    {
+      "query": "\"温州早茶\"",
+      "itemIds": [
+        "program-e75880a2d8bc4cc11c"
+      ],
+      "name": "温州早茶"
+    },
+    {
+      "query": "\"丽水枇杷\"",
+      "itemIds": [
+        "program-a2911fde28c625f889"
+      ],
+      "name": "丽水枇杷"
+    },
+    {
+      "query": "\"二都杨梅\"",
+      "itemIds": [
+        "program-cb50d37d440c57647c"
+      ],
+      "name": "二都杨梅"
+    },
+    {
+      "query": "\"嵊州桃形李\"",
+      "itemIds": [
+        "program-3fda6f729a1bd76d0c"
+      ],
+      "name": "嵊州桃形李"
+    },
+    {
+      "query": "\"处州白莲\"",
+      "itemIds": [
+        "program-aa3e64dac0dfccd624"
+      ],
+      "name": "处州白莲"
+    },
+    {
+      "query": "\"缙云黄花菜\"",
+      "itemIds": [
+        "program-56e1efeda0fe6deb2f"
+      ],
+      "name": "缙云黄花菜"
+    },
+    {
+      "query": "\"婺州蜜梨\"",
+      "itemIds": [
+        "program-e7d6c4d345e7e7e5fe"
+      ],
+      "name": "婺州蜜梨"
+    },
+    {
+      "query": "\"桐琴蜜梨\"",
+      "itemIds": [
+        "program-01a0bb268013422421"
+      ],
+      "name": "桐琴蜜梨"
+    },
+    {
+      "query": "\"江山猕猴桃\"",
+      "itemIds": [
+        "program-dd73b6a0366f5f90d8"
+      ],
+      "name": "江山猕猴桃"
+    },
+    {
+      "query": "\"青田御茶\"",
+      "itemIds": [
+        "program-5c64588bca73328df1"
+      ],
+      "name": "青田御茶"
+    },
+    {
+      "query": "\"遂昌龙谷茶\"",
+      "itemIds": [
+        "program-de5af22edce4d9f6c7"
+      ],
+      "name": "遂昌龙谷茶"
+    },
+    {
+      "query": "\"遂昌土蜂蜜\"",
+      "itemIds": [
+        "program-dbd690180403b7a650"
+      ],
+      "name": "遂昌土蜂蜜"
+    },
+    {
+      "query": "\"湖州桑基塘鱼\"",
+      "itemIds": [
+        "program-5eb3e6f98840d9184e"
+      ],
+      "name": "湖州桑基塘鱼"
+    },
+    {
+      "query": "\"箬阳龙珍\"",
+      "itemIds": [
+        "program-ed36b8aaf75edd6874"
+      ],
+      "name": "箬阳龙珍"
+    },
+    {
+      "query": "\"上虞觉农翠茗茶\"",
+      "itemIds": [
+        "program-1accf436cd18c2f6a2"
+      ],
+      "name": "上虞觉农翠茗茶"
+    },
+    {
+      "query": "\"衢州玉露茶\"",
+      "itemIds": [
+        "program-e476349206a8c52135"
+      ],
+      "name": "衢州玉露茶"
+    },
+    {
+      "query": "\"海盐葡萄\"",
+      "itemIds": [
+        "program-4449def58d160d3176"
+      ],
+      "name": "海盐葡萄"
+    },
+    {
+      "query": "\"姚庄黄桃\"",
+      "itemIds": [
+        "program-a6ce5e1d7b0ead5814"
+      ],
+      "name": "姚庄黄桃"
+    },
+    {
+      "query": "\"浦江桃形李\"",
+      "itemIds": [
+        "program-e1e855c4a62da5a95c"
+      ],
+      "name": "浦江桃形李"
+    },
+    {
+      "query": "\"鸬鸟蜜梨\"",
+      "itemIds": [
+        "program-31b4467821d37c5258"
+      ],
+      "name": "鸬鸟蜜梨"
+    },
+    {
+      "query": "\"丁宅水蜜桃\"",
+      "itemIds": [
+        "program-927c1008e0133942be"
+      ],
+      "name": "丁宅水蜜桃"
+    },
+    {
+      "query": "\"黄岩茭白\"",
+      "itemIds": [
+        "program-b0ed8b55ea37516460"
+      ],
+      "name": "黄岩茭白"
+    },
+    {
+      "query": "\"安吉竹笋\"",
+      "itemIds": [
+        "program-9bc0544b04198e0f8a"
+      ],
+      "name": "安吉竹笋"
+    },
+    {
+      "query": "\"七里茄子\"",
+      "itemIds": [
+        "program-a9d33c05215d919cfa"
+      ],
+      "name": "七里茄子"
+    },
+    {
+      "query": "\"青田田鱼\"",
+      "itemIds": [
+        "program-f12d26f4ebe2de3b3d"
+      ],
+      "name": "青田田鱼"
+    },
+    {
+      "query": "\"开化清水鱼\"",
+      "itemIds": [
+        "program-feb1b94584f52a9913"
+      ],
+      "name": "开化清水鱼"
+    },
+    {
+      "query": "\"安吉竹林鸡\"",
+      "itemIds": [
+        "program-6d65b0f0ab38849a4b"
+      ],
+      "name": "安吉竹林鸡"
+    },
+    {
+      "query": "\"龙游麻鸡\"",
+      "itemIds": [
+        "program-fac835789a3bbd2d2d"
+      ],
+      "name": "龙游麻鸡"
+    },
+    {
+      "query": "\"慈溪泥螺\"",
+      "itemIds": [
+        "program-63e02050f3848974e0"
+      ],
+      "name": "慈溪泥螺"
+    },
+    {
+      "query": "\"汇潭甘蔗\"",
+      "itemIds": [
+        "program-246e4e5079006083fd"
+      ],
+      "name": "汇潭甘蔗"
+    },
+    {
+      "query": "\"江山黄精\"",
+      "itemIds": [
+        "program-0da3cd9ded28cab27b"
+      ],
+      "name": "江山黄精"
+    },
+    {
+      "query": "\"磐安茭白\"",
+      "itemIds": [
+        "program-a2441e4c15edf32405"
+      ],
+      "name": "磐安茭白"
+    },
+    {
+      "query": "\"长兴漾荡河蟹\"",
+      "itemIds": [
+        "program-e822b96a4565ddcca4"
+      ],
+      "name": "长兴漾荡河蟹"
+    },
+    {
+      "query": "\"三门血蚶\"",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "name": "三门血蚶"
+    },
+    {
+      "query": "\"兰江蟹\"",
+      "itemIds": [
+        "program-dad1d1ab00a724e78f"
+      ],
+      "name": "兰江蟹"
+    },
+    {
+      "query": "\"海昌蜜梨\"",
+      "itemIds": [
+        "program-84b00701c44811e208"
+      ],
+      "name": "海昌蜜梨"
+    },
+    {
+      "query": "\"上虞野藤葡萄\"",
+      "itemIds": [
+        "program-1d472f512332cd9302"
+      ],
+      "name": "上虞野藤葡萄"
+    },
+    {
+      "query": "\"妙西黄桃\"",
+      "itemIds": [
+        "program-4760ec902379f837d3"
+      ],
+      "name": "妙西黄桃"
+    },
+    {
+      "query": "\"义乌南枣\"",
+      "itemIds": [
+        "program-4175f4b036c8702e75"
+      ],
+      "name": "义乌南枣"
+    },
+    {
+      "query": "\"奉化曲毫(茶)\"",
+      "itemIds": [
+        "program-a56f5e8f4db6470e5a"
+      ],
+      "name": "奉化曲毫(茶)"
+    },
+    {
+      "query": "\"余姚樱桃\"",
+      "itemIds": [
+        "program-d14d774ab77cfa3311"
+      ],
+      "name": "余姚樱桃"
+    },
+    {
+      "query": "\"苍南四季柚\"",
+      "itemIds": [
+        "program-26d6f62ebec0379a94"
+      ],
+      "name": "苍南四季柚"
+    },
+    {
+      "query": "\"淳安花猪\"",
+      "itemIds": [
+        "program-37839bb9cc40c6b0d1"
+      ],
+      "name": "淳安花猪"
+    },
+    {
+      "query": "\"南京板鸭\"",
+      "itemIds": [
+        "program-d57a626c3ce64c6d4e"
+      ],
+      "name": "南京板鸭"
+    },
+    {
+      "query": "\"蜜汁藕\"",
+      "itemIds": [
+        "program-0609e430982ee84b7d"
+      ],
+      "name": "蜜汁藕"
+    },
+    {
+      "query": "\"活珠子\"",
+      "itemIds": [
+        "program-2cd5ddaad9384d913c"
+      ],
+      "name": "活珠子"
+    },
+    {
+      "query": "\"六合猪头肉\"",
+      "itemIds": [
+        "program-d5602a522c52021577"
+      ],
+      "name": "六合猪头肉"
+    },
+    {
+      "query": "\"龙袍蟹黄汤包\"",
+      "itemIds": [
+        "program-de65ba6e406a2f0df0"
+      ],
+      "name": "龙袍蟹黄汤包"
+    },
+    {
+      "query": "\"镜箱豆腐\"",
+      "itemIds": [
+        "program-fa0580904afa73edae"
+      ],
+      "name": "镜箱豆腐"
+    },
+    {
+      "query": "\"江阴河豚\"",
+      "itemIds": [
+        "program-95bbbd177ba96a1f19"
+      ],
+      "name": "江阴河豚"
+    },
+    {
+      "query": "\"把子肉\"",
+      "itemIds": [
+        "program-8da0619ace8cd0cc98"
+      ],
+      "name": "把子肉"
+    },
+    {
+      "query": "\"烙馍卷馓子\"",
+      "itemIds": [
+        "program-fa9c095a654da93482"
+      ],
+      "name": "烙馍卷馓子"
+    },
+    {
+      "query": "\"丰县白酥梨\"",
+      "itemIds": [
+        "program-68e4bed3a4dc1514ce"
+      ],
+      "name": "丰县白酥梨"
+    },
+    {
+      "query": "\"窑湾甜油\"",
+      "itemIds": [
+        "program-ed8685c9610dafafeb"
+      ],
+      "name": "窑湾甜油"
+    },
+    {
+      "query": "\"横山桥百叶\"",
+      "itemIds": [
+        "program-b7859d5704cc0647e9"
+      ],
+      "name": "横山桥百叶"
+    },
+    {
+      "query": "\"芙蓉螺蛳\"",
+      "itemIds": [
+        "program-719d2052b40565d690"
+      ],
+      "name": "芙蓉螺蛳"
+    },
+    {
+      "query": "\"金坛封缸酒\"",
+      "itemIds": [
+        "program-5df5c46c94ca4e8e56"
+      ],
+      "name": "金坛封缸酒"
+    },
+    {
+      "query": "\"溧阳扎肝\"",
+      "itemIds": [
+        "program-5a664c83657dcca0a4"
+      ],
+      "name": "溧阳扎肝"
+    },
+    {
+      "query": "\"焖肉面\"",
+      "itemIds": [
+        "program-e72ebc9870137efcc5"
+      ],
+      "name": "焖肉面"
+    },
+    {
+      "query": "\"海棠糕\"",
+      "itemIds": [
+        "program-9c7889e951b1eb051e"
+      ],
+      "name": "海棠糕"
+    },
+    {
+      "query": "\"清炒虾仁\"",
+      "itemIds": [
+        "program-81dbb9497910dec6c4"
+      ],
+      "name": "清炒虾仁"
+    },
+    {
+      "query": "\"鸡头米\"",
+      "itemIds": [
+        "program-86810aa25cacdad3f0"
+      ],
+      "name": "鸡头米"
+    },
+    {
+      "query": "\"太湖莼菜\"",
+      "itemIds": [
+        "program-b1a4874251c754671a"
+      ],
+      "name": "太湖莼菜"
+    },
+    {
+      "query": "\"八珍糕\"",
+      "itemIds": [
+        "program-72046fbc355a08a4ae"
+      ],
+      "name": "八珍糕"
+    },
+    {
+      "query": "\"蕈油面\"",
+      "itemIds": [
+        "program-781bce8ec1eb5f1436"
+      ],
+      "name": "蕈油面"
+    },
+    {
+      "query": "\"袜底酥\"",
+      "itemIds": [
+        "program-5f359c1f27e438c3fc"
+      ],
+      "name": "袜底酥"
+    },
+    {
+      "query": "\"白蒲黄酒\"",
+      "itemIds": [
+        "program-ed426c197b2608c62d"
+      ],
+      "name": "白蒲黄酒"
+    },
+    {
+      "query": "\"如皋萝卜干\"",
+      "itemIds": [
+        "program-22ff153c3a02e8cadc"
+      ],
+      "name": "如皋萝卜干"
+    },
+    {
+      "query": "\"林梓潮糕\"",
+      "itemIds": [
+        "program-0cce21ab4a83aab374"
+      ],
+      "name": "林梓潮糕"
+    },
+    {
+      "query": "\"海门山羊\"",
+      "itemIds": [
+        "program-9d2510dc5d7f4dd1e9"
+      ],
+      "name": "海门山羊"
+    },
+    {
+      "query": "\"赣榆煎饼\"",
+      "itemIds": [
+        "program-e1957365058a237c41"
+      ],
+      "name": "赣榆煎饼"
+    },
+    {
+      "query": "\"开洋蒲菜\"",
+      "itemIds": [
+        "program-38ac2a37ac780abdc2"
+      ],
+      "name": "开洋蒲菜"
+    },
+    {
+      "query": "\"高沟酒\"",
+      "itemIds": [
+        "program-2ba366637d0997aee7"
+      ],
+      "name": "高沟酒"
+    },
+    {
+      "query": "\"拆烩鲢鱼头\"",
+      "itemIds": [
+        "program-4d6967aac75af40133"
+      ],
+      "name": "拆烩鲢鱼头"
+    },
+    {
+      "query": "\"四喜汤团\"",
+      "itemIds": [
+        "program-5466f36df9b6800424"
+      ],
+      "name": "四喜汤团"
+    },
+    {
+      "query": "\"扬中河豚\"",
+      "itemIds": [
+        "program-431b93a36c3c72fc61"
+      ],
+      "name": "扬中河豚"
+    },
+    {
+      "query": "\"沙沟鱼圆\"",
+      "itemIds": [
+        "program-3005ede8908dfe827e"
+      ],
+      "name": "沙沟鱼圆"
+    },
+    {
+      "query": "\"老汁鸡\"",
+      "itemIds": [
+        "program-b194ab73f8e22a2f4e"
+      ],
+      "name": "老汁鸡"
+    },
+    {
+      "query": "\"泗洪大米\"",
+      "itemIds": [
+        "program-26656e09cfa02d8c81"
+      ],
+      "name": "泗洪大米"
+    },
+    {
+      "query": "\"定胜糕\"",
+      "itemIds": [
+        "program-a7b8193a6b06617401"
+      ],
+      "name": "定胜糕"
+    },
+    {
+      "query": "\"猫耳朵\"",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "name": "猫耳朵"
+    },
+    {
+      "query": "\"富春江鲥鱼\"",
+      "itemIds": [
+        "program-186518ddc06524559c"
+      ],
+      "name": "富春江鲥鱼"
+    },
+    {
+      "query": "\"东坞山豆腐皮\"",
+      "itemIds": [
+        "program-d04257c1ed912b1a71"
+      ],
+      "name": "东坞山豆腐皮"
+    },
+    {
+      "query": "\"天目笋干\"",
+      "itemIds": [
+        "program-f6c8b91b6cb8c567b6"
+      ],
+      "name": "天目笋干"
+    },
+    {
+      "query": "\"千岛湖鱼头\"",
+      "itemIds": [
+        "program-c25f5a371d8e38239b"
+      ],
+      "name": "千岛湖鱼头"
+    },
+    {
+      "query": "\"红膏炝蟹\"",
+      "itemIds": [
+        "program-830600722e34333438"
+      ],
+      "name": "红膏炝蟹"
+    },
+    {
+      "query": "\"雪菜大黄鱼\"",
+      "itemIds": [
+        "program-803e3524a965850747"
+      ],
+      "name": "雪菜大黄鱼"
+    },
+    {
+      "query": "\"奉化芋艿头\"",
+      "itemIds": [
+        "program-13e1add7f806de29e2"
+      ],
+      "name": "奉化芋艿头"
+    },
+    {
+      "query": "\"前童三宝\"",
+      "itemIds": [
+        "program-a86609ec0198f9a9cc"
+      ],
+      "name": "前童三宝"
+    },
+    {
+      "query": "\"温州馄饨\"",
+      "itemIds": [
+        "program-339daedda641f600f1"
+      ],
+      "name": "温州馄饨"
+    },
+    {
+      "query": "\"炒粉干\"",
+      "itemIds": [
+        "program-ad14a4a1b6888ac573"
+      ],
+      "name": "炒粉干"
+    },
+    {
+      "query": "\"三丝敲鱼\"",
+      "itemIds": [
+        "program-9dcb67aa763f9e9b83"
+      ],
+      "name": "三丝敲鱼"
+    },
+    {
+      "query": "\"江蟹生\"",
+      "itemIds": [
+        "program-b2f10a1359f7682f0c"
+      ],
+      "name": "江蟹生"
+    },
+    {
+      "query": "\"马站煎包\"",
+      "itemIds": [
+        "program-80dda7aa3862a3263a"
+      ],
+      "name": "马站煎包"
+    },
+    {
+      "query": "\"湖岭牛排\"",
+      "itemIds": [
+        "program-c8ea4c1de06ebe4052"
+      ],
+      "name": "湖岭牛排"
+    },
+    {
+      "query": "\"清江三鲜面\"",
+      "itemIds": [
+        "program-e693335a56993e5eb9"
+      ],
+      "name": "清江三鲜面"
+    },
+    {
+      "query": "\"荷叶粉蒸肉\"",
+      "itemIds": [
+        "program-9a8cdc8b6698f39550"
+      ],
+      "name": "荷叶粉蒸肉"
+    },
+    {
+      "query": "\"海宁缸肉\"",
+      "itemIds": [
+        "program-e94a151c13ec0c3344"
+      ],
+      "name": "海宁缸肉"
+    },
+    {
+      "query": "\"海宁宴球\"",
+      "itemIds": [
+        "program-b54f59c4470112428b"
+      ],
+      "name": "海宁宴球"
+    },
+    {
+      "query": "\"诸老大粽子\"",
+      "itemIds": [
+        "program-2a9624c030e3f673c7"
+      ],
+      "name": "诸老大粽子"
+    },
+    {
+      "query": "\"周生记馄饨\"",
+      "itemIds": [
+        "program-1836d6a8da14bdfa67"
+      ],
+      "name": "周生记馄饨"
+    },
+    {
+      "query": "\"震远同茶食\"",
+      "itemIds": [
+        "program-0863043ec9687f2fb1"
+      ],
+      "name": "震远同茶食"
+    },
+    {
+      "query": "\"南浔双交面\"",
+      "itemIds": [
+        "program-3929ff50fe37075ff1"
+      ],
+      "name": "南浔双交面"
+    },
+    {
+      "query": "\"绍三鲜\"",
+      "itemIds": [
+        "program-3e0dd03be25479e00d"
+      ],
+      "name": "绍三鲜"
+    },
+    {
+      "query": "\"香雪酒\"",
+      "itemIds": [
+        "program-27db8340ffb41f5cad"
+      ],
+      "name": "香雪酒"
+    },
+    {
+      "query": "\"豆腐年糕\"",
+      "itemIds": [
+        "program-c1ec64e271186b66cc"
+      ],
+      "name": "豆腐年糕"
+    },
+    {
+      "query": "\"金华酥饼\"",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "name": "金华酥饼"
+    },
+    {
+      "query": "\"佛堂白切羊肉\"",
+      "itemIds": [
+        "program-08fd904af784a0c090"
+      ],
+      "name": "佛堂白切羊肉"
+    },
+    {
+      "query": "\"上卢馄饨\"",
+      "itemIds": [
+        "program-9d7ac298758697d713"
+      ],
+      "name": "上卢馄饨"
+    },
+    {
+      "query": "\"衢州鸭头\"",
+      "itemIds": [
+        "program-3d77722d0b4c0c188b"
+      ],
+      "name": "衢州鸭头"
+    },
+    {
+      "query": "\"江山蜂蜜\"",
+      "itemIds": [
+        "program-a386211ce8a2a89dcf"
+      ],
+      "name": "江山蜂蜜"
+    },
+    {
+      "query": "\"姜汁调蛋\"",
+      "itemIds": [
+        "program-7b0c2254598348d888"
+      ],
+      "name": "姜汁调蛋"
+    },
+    {
+      "query": "\"天台饺饼筒\"",
+      "itemIds": [
+        "program-bb737ce785e91e9f52"
+      ],
+      "name": "天台饺饼筒"
+    },
+    {
+      "query": "\"仙居三黄鸡\"",
+      "itemIds": [
+        "program-03b9fd2a8ea140fa9d"
+      ],
+      "name": "仙居三黄鸡"
+    },
+    {
+      "query": "\"温岭嵌糕\"",
+      "itemIds": [
+        "program-080ccce4d789464f57"
+      ],
+      "name": "温岭嵌糕"
+    },
+    {
+      "query": "\"庆元甜桔柚\"",
+      "itemIds": [
+        "program-2854a6cc434658cb81"
+      ],
+      "name": "庆元甜桔柚"
+    },
+    {
+      "query": "\"枫泾丁蹄\"",
+      "itemIds": [
+        "program-d6cae797e16775e4e8"
+      ],
+      "name": "枫泾丁蹄"
+    },
+    {
+      "query": "\"崇明白扁豆\"",
+      "itemIds": [
+        "program-6993f75581cdcefca4"
+      ],
+      "name": "崇明白扁豆"
+    }
+  ]
+}

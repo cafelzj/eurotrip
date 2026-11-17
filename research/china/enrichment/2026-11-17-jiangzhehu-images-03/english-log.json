@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-17",
+  "checks": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Yanghe%7CShuanggou%7CYuhua+tea%7CFagao%7CShibingtong%7CZhoushan+hairtail%7CDazhu+gansi%7CWensi+tofu%7CYangzhou+pickles%7CFish+head+casserole%7CKing%E2%80%99s+Luck%7CCong+bao+hui%7CTangyuan+%28food%29%7CWufangzhai%7CGuzhu+Zisun%7CMogan+Huangya%7CGunpowder+tea%7CKaihua+Longding%7CShengsi+mussels%7CSanmen+mud+crab%7CHuiming+tea%7CTaro+paste%7CYangxian+tea%7CMaoshan+Changqing%7CHuangqiao+sesame+cake%7CJintan+Que+She%7CPingyang+Huangtang%7CNanjing+gold+leaf%7CKesi+%28tapestry%29%7CYangzhou+jade+carving%7CYangzhou+lacquerware%7CNantong+blue+calico%7CLongquan+sword%7CYueqing+boxwood+carving%7CHuzhou+ink+brush&prop=images%7Cpageimages&imlimit=100&piprop=name&redirects=1",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json",
+      "responseSha256": "015a690b92e08d81dea4ac2ea0a01fa34c555a830c45dfeaebb4f4f8f3921b3a",
+      "status": "saved",
+      "subjects": [
+        "Yanghe",
+        "Shuanggou",
+        "Yuhua tea",
+        "Fagao",
+        "Shibingtong",
+        "Zhoushan hairtail",
+        "Dazhu gansi",
+        "Wensi tofu",
+        "Yangzhou pickles",
+        "Fish head casserole",
+        "King’s Luck",
+        "Cong bao hui",
+        "Tangyuan (food)",
+        "Wufangzhai",
+        "Guzhu Zisun",
+        "Mogan Huangya",
+        "Gunpowder tea",
+        "Kaihua Longding",
+        "Shengsi mussels",
+        "Sanmen mud crab",
+        "Huiming tea",
+        "Taro paste",
+        "Yangxian tea",
+        "Maoshan Changqing",
+        "Huangqiao sesame cake",
+        "Jintan Que She",
+        "Pingyang Huangtang",
+        "Nanjing gold leaf",
+        "Kesi (tapestry)",
+        "Yangzhou jade carving",
+        "Yangzhou lacquerware",
+        "Nantong blue calico",
+        "Longquan sword",
+        "Yueqing boxwood carving",
+        "Huzhou ink brush"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Qianceng+cake%7CLangshan+chicken%7CZhedong+White+goose%7CJingshan+tea%7CFengjing+pig%7CErhualian+pig%7CEuryale+ferox%7CBuddha%E2%80%99s+hand%7CHu+sheep%7CChinese+hickory%7CAnji+bamboo+shoots%7CTegillarca+granosa%7CChunan+pig%7CDingsheng+cake%7CCat+ear+noodles%7CQiandao+Lake+fish+head%7CJinhua+shortbread&prop=images%7Cpageimages&imlimit=100&piprop=name&redirects=1",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json",
+      "responseSha256": "e3cc2500e2d18577facaeff9a329601cc19d8634d5a1039e0a9058e8b0c44a88",
+      "status": "saved",
+      "subjects": [
+        "Qianceng cake",
+        "Langshan chicken",
+        "Zhedong White goose",
+        "Jingshan tea",
+        "Fengjing pig",
+        "Erhualian pig",
+        "Euryale ferox",
+        "Buddha’s hand",
+        "Hu sheep",
+        "Chinese hickory",
+        "Anji bamboo shoots",
+        "Tegillarca granosa",
+        "Chunan pig",
+        "Dingsheng cake",
+        "Cat ear noodles",
+        "Qiandao Lake fish head",
+        "Jinhua shortbread"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ABraised+Shredded+Chicken+with+Ham+and+Dried+Tofu+2011-04.JPG%7CFile%3AXiao+long+bao+closeup+in+Shanghai.jpg%7CFile%3ABraised+fish+head+casserole.jpg%7CFile%3AChinese+Tangyuan.jpeg%7CFile%3ADaifuku.JPG%7CFile%3ADaifuku+1.jpg%7CFile%3AGyeongdan.jpg%7CFile%3AHK+KTD+%E8%A7%80%E5%A1%98%E9%81%93+414+Kwun+Tong+Road+One+Pacific+Centre+shop+%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6+Victoria+Harbour+Restaurant+food+dim+sum+%E7%85%8E%E5%A0%86+sesame+ball+%E9%A3%B2%E8%8C%B6+morning+tea+April+2023+Px3+02.jpg%7CFile%3AMontLone+yeibaw.JPG%7CFile%3APumpkin+tangyuan+%28%E6%B1%A4%E5%9C%86%29+with+red+bean+baste+and+black+sesame+fillings.jpg%7CFile%3ATangyuan-small.JPG%7CFile%3ATangyuan+mandarin.png%7CFile%3ATongton.jpg%7CFile%3ATransparent+tangyuan+%28glutinous+rice+balls%2C+%E6%B1%A4%E5%9C%86%29+-+Flickr+-+GeorgeTan%5E4+-+Thanks+for+your+support.jpg%7CFile%3AYuanxiao+and+fillings+%2820210225185338%29.jpg%7CFile%3A%E3%80%90%E6%96%B0%E5%8C%97%E7%BE%8E%E9%A3%9F%E3%80%91%E5%8F%A4%E6%97%A9%E5%91%B3%E6%97%BA%E4%BE%86%E5%86%B0%E5%BA%97+%E3%80%90%E5%8F%B0%E5%8C%97%E3%80%82%E5%9C%93%E5%B1%B1%E5%B1%95%E8%A6%BD%E3%80%91Hello+Kitty%E5%98%89%E5%B9%B4%E8%8F%AF+%2831630727772%29.jpg%7CFile%3A%E6%B1%A4%E5%9C%86+Cooked+Tang+Yuan+%28329781165%29.jpg%7CFile%3AChina-Zhejiang.png%7CFile%3AGr%C3%BCner+Tee+Gunpowder.jpg%7CFile%3AGunpowder+Green+Tea.jpg%7CFile%3ATearitual.jpg%7CFile%3ATaro+pur%C3%A9e.jpg%7CFile%3AHuangqiao+Sesame+Cake.jpg%7CFile%3AAdmonitions+Scroll+Song+Embroidery+Cover.jpg%7CFile%3ACharlemagne+tapestry.JPG%7CFile%3ACascada+del+cocodrilo.+La+Mortella.+02.JPG%7CFile%3AE-ferox-20021002a.jpg%7CFile%3AEuryale+ferox+3.jpg%7CFile%3AEuryale+ferox+Salisb.+foliage.jpg%7CFile%3AEuryale+ferox+Salisb.+seedling.jpg%7CFile%3AEuryale+ferox+grains+%281%29.jpg%7CFile%3AFoxnut+Makhana+-+Nawada+District+-+Bihar+-+1.jpg%7CFile%3AGyoda+Euryale+ferox+1.JPG%7CFile%3AJunicho-Gata+lagoon+Euryale+feroxe+habitat+07.jpg%7CFile%3AKazo+Habitat+Euryale+Ferox+1.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "responseSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "saved-image-metadata"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AAnhai+Bay+-+DSCF8875.JPG%7CFile%3ABlood+Cockles.jpg%7CFile%3AKkomak-muchim.jpg%7CFile%3AKkomak+%28Tegillarca+granosa%29.jpg%7CFile%3AKkomak+%28Tegillarca+granosa%29+2.jpg%7CFile%3ATegillarca+granosa+%28MNHN-IM-2009-2370%29.jpeg%7CFile%3ATegillarca+granosa+01.jpg%7CFile%3ATegillarca+granosa+02.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "responseFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "responseSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "saved-image-metadata"
+    }
+  ]
+}

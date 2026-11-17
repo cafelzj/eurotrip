@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-17",
+  "approved": [
+    {
+      "itemId": "program-b2f10a1359f7682f0c",
+      "itemName": "江蟹生",
+      "candidateId": "107868381",
+      "caption": "温州名菜江蟹生实拍，蟹块与葱末同盘。",
+      "reason": "原作者明确命名温州名菜江蟹生；完整来源页给出CC BY-NC-SA 2.0。已看实拍，主体为切块蟹肉与调汁，无摊位环境替代菜品；采用作者的菜品识别，不据照片证明生食安全或具体配方。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-zhejiang-caa99dee23",
+      "itemName": "老鸭面",
+      "candidateId": "14012991885",
+      "caption": "老鸭面实拍：细面与鸭肉同碗，照片未注明店名和拍摄城市。",
+      "reason": "原作者明确命名老鸭面，面条与鸭肉主体清楚，完整说明讨论面汤；卡片同名菜品可作有依据的对应实拍。来源未说明嘉兴店址，不据此声称拍摄于嘉兴，也不补写地方配方。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-339daedda641f600f1",
+      "itemName": "温州馄饨",
+      "candidateId": "3211848594",
+      "caption": "温州馄饨实拍，薄皮馄饨盛于汤碗。",
+      "reason": "原作者中英文均明确温州馄饨，来源页与照片吻合；主体为实际汤碗，采用对应成品，不指定照片未说明的店铺。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-zhejiang-6c8b86619e",
+      "itemName": "灯盏糕",
+      "candidateId": "3211849178",
+      "caption": "灯盏糕实拍，展示外皮与剖面。",
+      "reason": "原作者明确灯盏糕，另有Commons同源文件确认温州传统美食；照片虽手持但主体占据画面，剖面可见，背景没有替代食物。不将可见馅料推断为固定配方。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-9c7889e951b1eb051e",
+      "itemName": "海棠糕",
+      "candidateId": "4687729268",
+      "caption": "海棠糕实拍，焦糖色糕面与深色馅心清晰可见。",
+      "reason": "原作者明确海棠糕，已看近景；可确认糕点主体、焦糖色表面和馅心。原页未说明拍摄城市，不以此宣称某苏州门店或特定配方。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-81dbb9497910dec6c4",
+      "itemName": "清炒虾仁",
+      "candidateId": "5817573275",
+      "caption": "清炒虾仁实拍，原作者标注菜根香。",
+      "reason": "作者直接命名清炒虾仁并标注菜根香，照片主体为盘中虾仁，色温偏暖但形态清楚；只作同名菜品照片，不把未核定的拍摄店址、河虾品种或配方当事实。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-4d6967aac75af40133",
+      "itemName": "拆烩鲢鱼头",
+      "candidateId": "5818141224",
+      "caption": "拆烩鲢鱼头实拍，原作者标注菜根香。",
+      "reason": "作者直接命名拆烩鲢鱼头，汤煲中鱼肉实物可见；采用真实成品照，不由图推断全部去骨步骤或餐馆地址。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-jiangsu-8958cecb9d",
+      "itemName": "黄桥烧饼",
+      "candidateId": "c-88f0cd5ae946fb84",
+      "caption": "黄桥烧饼实拍，饼面覆有芝麻。",
+      "reason": "英文具体菜品条目与文件说明均指向Huangqiao Sesame Cake，实拍为芝麻覆面的烤饼；已核对CC BY-SA 3.0许可。照片显示成品，不据此推断某店铺或完整配方。",
+      "kind": "food"
+    },
+    {
+      "itemId": "program-b54f59c4470112428b",
+      "itemName": "海宁宴球",
+      "candidateId": "c-7c46040afb1e87ef",
+      "caption": "海宁盐官宴球实拍，外层肉皮与丸子同盘。",
+      "reason": "来源明确盐官宴球及鱼肉、肉皮组成；盐官属于海宁，和既有卡片海宁宴球对应，实拍为盘中成品。只采用海宁泛称，不分配给更窄的长安宴球。",
+      "kind": "food"
+    },
+    {
+      "itemId": "program-e94a151c13ec0c3344",
+      "itemName": "海宁缸肉",
+      "candidateId": "c-2f9a52e2665909c7",
+      "caption": "盐官缸肉实拍，酱色肉块盛于白盘。",
+      "reason": "原作者明确盐官缸肉，照片肉块、皮与酱汁清楚；盐官属于海宁，与海宁缸肉卡片对应。已读来源说明其类似东坡肉，不把“类似”改成同一种菜，也不复用普通东坡肉图片。",
+      "kind": "food"
+    },
+    {
+      "itemId": "zj-taizhou-shibingtong",
+      "itemName": "台州食饼筒",
+      "candidateId": "c-eab4868eb57d7f79",
+      "caption": "自家包的食饼筒实拍，展示饼皮与卷内配菜。",
+      "reason": "来源直接标注自家包的食饼筒，归入台州食品与浙江饼类；实拍为手持饼筒与家常配菜，主体清楚。作为台州食饼筒的实际家常版本，不据此确定天台县或全套固定馅料。",
+      "kind": "food"
+    },
+    {
+      "itemId": "zj-hangzhou-xiaolong",
+      "itemName": "杭州小笼包",
+      "candidateId": "c-858476615fc0a118",
+      "caption": "杭州新丰小吃的小笼包与馄饨实拍。",
+      "reason": "原作者明确杭州新丰小吃与小笼包、馄饨，照片可见左侧笼中小笼包；与杭州小笼包卡片相符。保留整份组合餐画面，不把右侧馄饨称作小笼包。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-zhejiang-fad70612e0",
+      "itemName": "湖州千张包",
+      "candidateId": "c-c5a7f53569d5c062",
+      "caption": "湖州周生记千张包子实拍，千张卷置于汤碗。",
+      "reason": "来源直接命名周生记千张包子并归入湖州饮食；照片可见豆腐皮包卷，主体为实际成品。用于泛湖州千张包，不以照片确认全部馅料或门店现状。",
+      "kind": "food"
+    },
+    {
+      "itemId": "program-1836d6a8da14bdfa67",
+      "itemName": "周生记馄饨",
+      "candidateId": "c-c528b212e7cb1401",
+      "caption": "周生记馄饨实拍。",
+      "reason": "来源原题和说明写作“周生记混沌”，照片实际为汤碗内馄饨；结合湖州饮食分类与卡片原有周生记对象，合理判断为馄饨用字误写。按对应品牌实拍采用，明确此处是有依据的名称校正，不伪称原文无误。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-zhejiang-b769fc8fd7",
+      "itemName": "温州鱼丸",
+      "candidateId": "c-46b71fb72ad549d1",
+      "caption": "温州鱼丸面实拍，鱼丸呈不规则条块状。",
+      "reason": "作者明确Wenzhou fish-ball noodles，并说明温州鱼丸并非圆球；照片中鱼丸与面条同碗。可展示卡片具体鱼丸的食用形式，不将其他地方圆鱼丸冒充温州版本。",
+      "kind": "food"
+    },
+    {
+      "itemId": "county-zhejiang-ca51060314",
+      "itemName": "兰溪鸡子馃",
+      "candidateId": "c-6f6b4f6fc5728505",
+      "caption": "兰溪游埠鸡子馃实拍，剖面可见馅料。",
+      "reason": "文件直接命名Youbu Ji Zi Guo，原说明明确Lanxi local deli；游埠属于兰溪，实拍展示锅烙饼与切面。采用同名食品实拍，不据此补写来源未说明的配方。",
+      "kind": "food"
+    },
+    {
+      "itemId": "county-8d6773813fe342",
+      "itemName": "东阳沃面",
+      "candidateId": "c-393fa42c2958a40c",
+      "caption": "东阳沃面实拍，汤面与配菜同碗。",
+      "reason": "来源明确Dongyang Aomian，说明爊字难写而常写作沃；对应东阳沃面原卡名，照片为成品面碗。已保存该名称解释，不以首图或同类面条推断身份。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-jiangsu-d82b6671a6",
+      "itemName": "阜宁大糕",
+      "candidateId": "c-a1a7e01f92cb8ef0",
+      "caption": "阜宁大糕切片实拍。",
+      "reason": "文件与原作者说明均为Funing dagao，归入阜宁大糕分类；照片为整齐白色糕片，主体清楚。采用直接对应实物，不使用同分类的拥挤包装货架照。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-jiangsu-36907426de",
+      "itemName": "钦工肉圆",
+      "candidateId": "c-cfb36cf109a26f63",
+      "caption": "淮安餐馆的钦工肉圆汤煲实拍。",
+      "reason": "文件明确Qingong Rouyuan与淮安餐馆，实拍为完整汤煲。原作者对是否淮安独有带问号，该部分不采纳；照片只支持具体钦工肉圆成品及拍摄地点，不声称独占性。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-jiangsu-f7b963320d",
+      "itemName": "肉酿面筋",
+      "candidateId": "c-0c1af2350cab4668",
+      "caption": "油面筋塞肉实拍，酱汁包裹面筋丸。",
+      "reason": "原作者明确Oil-soaked gluten stuffed meat，照片为熟制带酱汁面筋丸；可对应同名肉酿面筋菜品，不据照片判断肉馅比例。没有采用另一张标题含stuffed但画面只显示空心油面筋的照片。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-jiangsu-fd4c1613d4",
+      "itemName": "枫镇大面",
+      "candidateId": "c-68e398851938f0da",
+      "caption": "枫镇大面白汤版本实拍。",
+      "reason": "原作者明确Feng Town Noodle（white soup），照片为白汤面、肉片与青菜，主体突出，黑色背景简洁。与枫镇大面卡片对应，未把泛苏式红汤面替代此具体品种。",
+      "kind": "food"
+    },
+    {
+      "itemId": "program-830600722e34333438",
+      "itemName": "红膏炝蟹",
+      "candidateId": "c-5ab9fe51c614e319",
+      "caption": "宁波南苑饭店盐腌生蟹实拍，红色蟹膏清晰可见。",
+      "reason": "作者明确宁波特色盐腌生蟹与南苑饭店拍摄地点，照片可见红色蟹膏；结合原卡红膏炝蟹描述，合理判断为对应成品。只说明照片中实际菜品，不把照片当作生食安全依据，也不据此更新饭店供应。",
+      "kind": "food"
+    },
+    {
+      "itemId": "county-1b8b20507baf90",
+      "itemName": "奉化千层饼",
+      "candidateId": "c-afd0bcf49aa174de",
+      "caption": "奉化溪口千层饼实拍，展示芝麻表面与薄层断面。",
+      "reason": "文件与作者说明均明确溪口千层饼；溪口属于奉化，对应奉化千层饼。盘中成品主体清楚，黑色背景简洁，不用同街门店外景代替食品。",
+      "kind": "food"
+    },
+    {
+      "itemId": "flavor-zhejiang-0efcd08ba8",
+      "itemName": "绍兴臭豆腐",
+      "candidateId": "2858925688",
+      "caption": "绍兴臭豆腐实拍；作者原页附绍兴、鲁迅相关标签及当地拍摄坐标。",
+      "reason": "前批仅核对名称而暂缓采用；本批读取完整照片原页，keywords明确shaoxing、luxun、stinkytofu、choudofu，拍摄坐标30.000881,120.566711位于绍兴老城，与照片豆腐成品吻合，补足具体地域关联。只确认作者识别、地理标注与实际菜品，不据照片推断发酵配方。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-zhejiang-efcb134b62",
+      "itemName": "绍兴醉蟹",
+      "candidateId": "4006710269",
+      "caption": "绍兴酒与糖腌制的醉蟹实拍，原作者注明摄于上海。",
+      "reason": "来源完整说明明确毛蟹以绍兴酒与糖腌制，照片可见蟹膏与腌汁；对应原卡醉蟹做法，可采用其实际菜品版本。照片摄于上海，不声称摄于绍兴，不把产地与拍摄地混为一谈。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-shanghai-eba6f92c80",
+      "itemName": "上海黄鱼面",
+      "candidateId": "5613059660",
+      "caption": "上海思南路阿娘面的黄鱼面与辣酱浇头实拍。",
+      "reason": "原页明确黄鱼面与辣酱浇头，keywords列shanghai、上海、思南路、sinanrd、阿娘麵，拍摄坐标31.219738,121.462097与该街区吻合，弥补仅中英菜名无法证明地域的不足。完整照片不演绎保存，不将2011年照片视作当前门店营业信息。",
+      "kind": "food",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "regional-7fd90cdcf86c65",
+      "itemName": "南通蓝印花布",
+      "candidateId": "4154504303",
+      "caption": "南通蓝印花布博物馆内的织布演示实拍。",
+      "reason": "照片原题Blue Calico Museum，完整照片原页keywords明确nantong；现场可见织机与演示者，匹配南通蓝印花布工艺展示。采用实际制作场景，不把乌镇或浙江博物馆未知产地的布料当作南通产品；不据此确认博物馆当前开放。",
+      "kind": "craft",
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "fact-wuxi-taihu",
+      "itemName": "无锡不只有市中心的一片太湖",
+      "reuseAssetId": "jzy-8288b17a6bf67ad1",
+      "caption": "文中太湖游览线索：无锡鼋头渚长春桥实拍。",
+      "reason": "原卡明确讨论太湖与游览，复用已核对为无锡鼋头渚长春桥的实际照片；此图展示所述太湖湖岸游览对象，不当作运河、江阴或宜兴的照片。只新增此主题的明确绑定，独立照片数不增加。"
+    },
+    {
+      "itemId": "regional-ef65a49943ef4d",
+      "itemName": "龙泉宝剑",
+      "candidateId": "c-a2e3e7af717aefe5",
+      "caption": "浙江省博物馆展出的清代龙泉剑实拍，展示剑身与剑鞘局部。",
+      "reason": "已读取完整Commons文件页，原作者明确清代龙泉剑，分类为浙江省博物馆临时展览；已看实拍，剑身、纹理与剑鞘清晰。用于真实历史器物，不当作今日厂商商品或铸剑工坊照片。",
+      "kind": "craft"
+    }
+  ],
+  "held": [
+    {
+      "candidateId": "c-2418802d114fb2df",
+      "reason": "博物馆展品／模型无法当作可食用成品实拍。"
+    },
+    {
+      "candidateId": "c-36c9272d6b796932",
+      "reason": "已咬开的近景不满足用户希望干净、诱人的画面要求。"
+    },
+    {
+      "candidateId": "6178128581",
+      "reason": "倾斜的已开启包装画面观感不足，继续找正面完整产品照。"
+    },
+    {
+      "candidateId": "c-7b49ea45a072159f",
+      "reason": "浙江博物馆藏蓝印花布未能确认南通产地，不能替代南通蓝印花布。"
+    },
+    {
+      "candidateId": "c-fbfa40d129287927",
+      "reason": "照片实际是待烹制鱼头和配料，不能当作成品鱼头汤。"
+    },
+    {
+      "candidateId": "c-a1139c519630b55e",
+      "reason": "仅支持蒜泥鳝尾，可能与炝虎尾等不同菜名关联；不足以认定为软兜长鱼。"
+    },
+    {
+      "candidateId": "c-9aefeabf85f3e385",
+      "reason": "文件名虽含塞肉，实拍只见空心油面筋，采用另一张明确熟制塞肉成品。"
+    },
+    {
+      "candidateId": "c-b44636d8f135e25c",
+      "reason": "可确认山核桃品种，但未支持临安产地，不给指定地域农产品配通用品种图。"
+    },
+    {
+      "candidateId": "c-889e68b74bc3d07d",
+      "reason": "是混合甜点货架，未辨认到对应金华酥饼成品，主体和身份都不足。"
+    },
+    {
+      "candidateId": "4007474636",
+      "reason": "原说明明确为雄蟹精巢炒豆淀粉粉丝，不是上海蟹粉面。"
+    },
+    {
+      "candidateId": "4264632649",
+      "reason": "原说明仅提上海、杭州、北京多地行程，尚不能确认织机拍摄地杭州。"
+    },
+    {
+      "candidateId": "4372400880",
+      "reason": "原说明明确是冷菜卤压豆腐，不是扬州烫干丝。"
+    },
+    {
+      "candidateId": "4943648071",
+      "reason": "明确为Bantam矮脚狼山鸡，不能直接代表原产地狼山鸡保种群。"
+    },
+    {
+      "candidateId": "53702356119",
+      "reason": "说明将南京、苏州或杭州并列为可能产地，尚不足以明确苏州；继续查具体出处。"
+    },
+    {
+      "candidateId": "c-24d013a1bf05b163",
+      "reason": "同名水月禅寺原说明明确南宁，不能给江苏睢宁水月禅寺配图。"
+    }
+  ]
+}

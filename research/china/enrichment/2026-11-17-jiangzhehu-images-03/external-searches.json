@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-17",
+  "responses": [
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-01.json",
+      "sha256": "150674ae8312ef31705eaece44ca71ac9485d88835ad1a5e343217c196b5f410",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-07-reread.json",
+      "sha256": "acfc70cdaa81df029811008cc26ebd52164ca5c6eeef8d6a1949b94a0e037cd4",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-04-reread.json",
+      "sha256": "980176def512ef59608e2367aae066dd5f9ccb2cb23c277b5b1eb248f9aa6fb3",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-02.json",
+      "sha256": "04ac7ee627f3fc53e2c04c71889538dfed772f841126fda5e3ce01476c5865b7",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-03.json",
+      "sha256": "58d58d8f89aca9baa72cf352c2a4381b64007420717a5798472db4f27a8672e4",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-06-reread.json",
+      "sha256": "6bad1f6615cdfc805a79451e0ff2a2aa3ba5f0f0a906a9b31ade5c3a3ad73ff2",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    },
+    {
+      "path": "research/.local/jiangzhehu-images-20261117-03/search-tool-05-reread.json",
+      "sha256": "32aa376f17888c11f1c9f32489d343cfbe031b3a51fce2902fb64f748fdd8f34",
+      "status": "complete-tool-response-saved",
+      "role": "search-reading-not-image-approval"
+    }
+  ],
+  "notes": "初次探索04–07响应未写入文件，已明确标记为重读的完整响应保存在-reread文件；不伪称原始工具调用字节。图片采用另依已保存的来源原页与元数据。",
+  "extraReading": {
+    "url": "https://nyncw.sh.gov.cn/ztmycpzs/20180705/0009-67360.html",
+    "responseFile": "research/.local/jiangzhehu-images-20261117-03/shanghai-agriculture.html.gz",
+    "sha256": "2bd9c005b505f349578344f01cdc707b60b175c1e732a72c9e405faba497cbe8",
+    "reading": "已读上海农产品地域名录原文；页面没有图片，未据此配图。"
+  }
+}

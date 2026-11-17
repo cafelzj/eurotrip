@@ -1,0 +1,163 @@
+{
+  "subjects": {
+    "Yanghe": [
+      "js-yanghe"
+    ],
+    "Shuanggou": [
+      "js-shuanggou"
+    ],
+    "Yuhua tea": [
+      "js-yuhua"
+    ],
+    "Fagao": [
+      "zj-longyou-fagao"
+    ],
+    "Shibingtong": [
+      "zj-taizhou-shibingtong"
+    ],
+    "Zhoushan hairtail": [
+      "zj-zhoushan-hairtail"
+    ],
+    "Dazhu gansi": [
+      "js-dazhugansi"
+    ],
+    "Wensi tofu": [
+      "js-wensi-tofu"
+    ],
+    "Yangzhou pickles": [
+      "js-sanhesimei"
+    ],
+    "Fish head casserole": [
+      "js-tianmuhu-fishhead"
+    ],
+    "King’s Luck": [
+      "flavor-jiangsu-d4b86af742"
+    ],
+    "Cong bao hui": [
+      "flavor-zhejiang-87b3c65e52"
+    ],
+    "Tangyuan (food)": [
+      "flavor-zhejiang-65406eee9b"
+    ],
+    "Wufangzhai": [
+      "flavor-zhejiang-a30e374a96"
+    ],
+    "Guzhu Zisun": [
+      "flavor-zhejiang-b6fe4d08c5"
+    ],
+    "Mogan Huangya": [
+      "flavor-zhejiang-72edade079"
+    ],
+    "Gunpowder tea": [
+      "flavor-zhejiang-966f5bb63e"
+    ],
+    "Kaihua Longding": [
+      "flavor-zhejiang-fa8d963e08"
+    ],
+    "Shengsi mussels": [
+      "flavor-zhejiang-4c5aedc69c"
+    ],
+    "Sanmen mud crab": [
+      "flavor-zhejiang-68e1cc0e06"
+    ],
+    "Huiming tea": [
+      "flavor-zhejiang-60a98fb330",
+      "program-b0f74da42fe558ec96"
+    ],
+    "Taro paste": [
+      "flavor-jiangsu-4f3d113057"
+    ],
+    "Yangxian tea": [
+      "flavor-jiangsu-a11e87e6b5"
+    ],
+    "Maoshan Changqing": [
+      "flavor-jiangsu-171c6947ea"
+    ],
+    "Huangqiao sesame cake": [
+      "flavor-jiangsu-8958cecb9d"
+    ],
+    "Jintan Que She": [
+      "flavor-jiangsu-952840c1a7"
+    ],
+    "Pingyang Huangtang": [
+      "flavor-zhejiang-b9411c1995"
+    ],
+    "Nanjing gold leaf": [
+      "regional-1a530d7092dcb0"
+    ],
+    "Kesi (tapestry)": [
+      "regional-6ad4439b924d2a"
+    ],
+    "Yangzhou jade carving": [
+      "regional-011d5679ab0c7d"
+    ],
+    "Yangzhou lacquerware": [
+      "regional-6c556c676d44e0"
+    ],
+    "Nantong blue calico": [
+      "regional-7fd90cdcf86c65"
+    ],
+    "Longquan sword": [
+      "regional-ef65a49943ef4d"
+    ],
+    "Yueqing boxwood carving": [
+      "regional-80148cd3b298b0"
+    ],
+    "Huzhou ink brush": [
+      "regional-79e6536081f5e3"
+    ],
+    "Qianceng cake": [
+      "county-1b8b20507baf90"
+    ],
+    "Langshan chicken": [
+      "program-3a0cfd17846c61bca3"
+    ],
+    "Zhedong White goose": [
+      "program-a0cb546fe73c2dff8e"
+    ],
+    "Jingshan tea": [
+      "program-7a34f10e56f5b1045c"
+    ],
+    "Fengjing pig": [
+      "program-58a6c32e81e3ba244c"
+    ],
+    "Erhualian pig": [
+      "program-f7bd2d4aa8906af045"
+    ],
+    "Euryale ferox": [
+      "program-fdd6246a7f38b22e9f",
+      "program-86810aa25cacdad3f0"
+    ],
+    "Buddha’s hand": [
+      "program-72d93d7193018fb07d"
+    ],
+    "Hu sheep": [
+      "program-80f65d0c7afd41031e"
+    ],
+    "Chinese hickory": [
+      "program-a873f83973b70e5c08"
+    ],
+    "Anji bamboo shoots": [
+      "program-9bc0544b04198e0f8a"
+    ],
+    "Tegillarca granosa": [
+      "program-c0f598b978cfd1b3ab"
+    ],
+    "Chunan pig": [
+      "program-37839bb9cc40c6b0d1"
+    ],
+    "Dingsheng cake": [
+      "program-a7b8193a6b06617401"
+    ],
+    "Cat ear noodles": [
+      "program-cf797a5d34ce94c299"
+    ],
+    "Qiandao Lake fish head": [
+      "program-c25f5a371d8e38239b"
+    ],
+    "Jinhua shortbread": [
+      "program-bb6fac915982500284"
+    ]
+  },
+  "status": "queries-prepared-not-verified"
+}

@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "id": "107868381",
+      "owner": "33366852@N00",
+      "author": "Eric & Cynthia",
+      "description": "Blogged at <a href=\"http…",
+      "licenseCode": 1,
+      "source": "https://www.flickr.com/photos/33366852@N00/107868381",
+      "preview": "https://live.staticflickr.com/53/107868381_c7a97a698a_b.jpg",
+      "width": 1024,
+      "height": 768,
+      "itemIds": [
+        "program-b2f10a1359f7682f0c"
+      ],
+      "queryId": "dc2cf1b738e2504814c8",
+      "queryIds": [
+        "dc2cf1b738e2504814c8"
+      ],
+      "rank": 0,
+      "title": "温州名菜“江蟹生”",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/107868381.html.gz",
+      "metadataSha256": "3730524567fdeb3e40bbc19ad19ac01e22ac6b5c0b71c4c385e6e9d582d4187c",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/107868381.jpg",
+      "rawSha256": "594357caa4dbc5af530b6e196dec4ced4dbfe76537e510cb7e58109ccf3c79fb",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/107868381.html.gz"
+    },
+    {
+      "id": "14012991885",
+      "owner": "91634690@N02",
+      "author": "hermeson lau",
+      "description": "一碗好面，不是说能把面条按照各自的口味煮出软粘或…",
+      "licenseCode": 1,
+      "source": "https://www.flickr.com/photos/91634690@N02/14012991885",
+      "preview": "https://live.staticflickr.com/7002/14012991885_fac8294c18_b.jpg",
+      "width": 1024,
+      "height": 683,
+      "itemIds": [
+        "flavor-zhejiang-caa99dee23"
+      ],
+      "queryId": "8c73d3ba97336bd24301",
+      "queryIds": [
+        "8c73d3ba97336bd24301"
+      ],
+      "rank": 0,
+      "title": "老鸭面",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/14012991885.html.gz",
+      "metadataSha256": "f780a6e3654b724ec7dd4056003ec34c4f1b281ca37d76eaf5da080307dcaa95",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/14012991885.jpg",
+      "rawSha256": "200ced6dc7d0d81f5e1561ad6bde6ce691c76a53bde5397d2543a8f4cc55e219",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/14012991885.html.gz"
+    },
+    {
+      "id": "3211848594",
+      "owner": "75275041@N00",
+      "author": "Chen Zhao",
+      "description": "",
+      "licenseCode": 4,
+      "source": "https://www.flickr.com/photos/75275041@N00/3211848594",
+      "preview": "https://live.staticflickr.com/3499/3211848594_607392c375_b.jpg",
+      "width": 1024,
+      "height": 768,
+      "itemIds": [
+        "program-339daedda641f600f1"
+      ],
+      "queryId": "8b373a4d7d3af39bd1e3",
+      "queryIds": [
+        "8b373a4d7d3af39bd1e3"
+      ],
+      "rank": 0,
+      "title": "温州馄饨 / Wenzhou dumplings",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/3211848594.html.gz",
+      "metadataSha256": "f7e6be5a922892f09955549d0bd82b93353d680a919b57ab185b171cd7994fff",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/3211848594.jpg",
+      "rawSha256": "753a84b4690a510de97c8d576fd945435cee3c4eb33af27f67f955341c71a080",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/3211848594.html.gz"
+    },
+    {
+      "id": "3211849178",
+      "owner": "75275041@N00",
+      "author": "Chen Zhao",
+      "description": "很好吃！ Very delicious!",
+      "licenseCode": 4,
+      "source": "https://www.flickr.com/photos/75275041@N00/3211849178",
+      "preview": "https://live.staticflickr.com/3357/3211849178_7167b55c08_b.jpg",
+      "width": 1024,
+      "height": 768,
+      "itemIds": [
+        "flavor-zhejiang-6c8b86619e"
+      ],
+      "queryId": "bb84528179482239444c",
+      "queryIds": [
+        "bb84528179482239444c"
+      ],
+      "rank": 0,
+      "title": "灯盏糕",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/3211849178.html.gz",
+      "metadataSha256": "e5e432922d131a27b934b36b491d47d460442176f3e7acade1139ab154a59757",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/3211849178.jpg",
+      "rawSha256": "34fefce61b187b69f809146733e489937c7c0e0f7c7fa90623729bf22c9aa8a0",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/3211849178.html.gz"
+    },
+    {
+      "id": "4687729268",
+      "owner": "87696087@N00",
+      "author": "museilyvm",
+      "description": "",
+      "licenseCode": 1,
+      "source": "https://www.flickr.com/photos/87696087@N00/4687729268",
+      "preview": "https://live.staticflickr.com/4027/4687729268_52ab328819_b.jpg",
+      "width": 1024,
+      "height": 768,
+      "itemIds": [
+        "program-9c7889e951b1eb051e"
+      ],
+      "queryId": "7593014095a0d43ffedc",
+      "queryIds": [
+        "7593014095a0d43ffedc"
+      ],
+      "rank": 5,
+      "title": "海棠糕",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/4687729268.html.gz",
+      "metadataSha256": "e56906783498d88c4d138446240f7ea49f5c7cdd924544f41813502ef16fb77e",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/4687729268.jpg",
+      "rawSha256": "7e5dbd2c42cd8babadd0a8d0813a27b9e4791e5bc555cff058a6fdee10b65284",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/4687729268.html.gz"
+    },
+    {
+      "id": "5817573275",
+      "owner": "61035462@N00",
+      "author": "Harvey Jiang",
+      "description": "菜根香",
+      "licenseCode": 2,
+      "source": "https://www.flickr.com/photos/61035462@N00/5817573275",
+      "preview": "https://live.staticflickr.com/3074/5817573275_0a83027a9a_b.jpg",
+      "width": 1024,
+      "height": 685,
+      "itemIds": [
+        "program-81dbb9497910dec6c4"
+      ],
+      "queryId": "b910c53f3528e3eeea7e",
+      "queryIds": [
+        "b910c53f3528e3eeea7e"
+      ],
+      "rank": 0,
+      "title": "清炒虾仁",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/5817573275.html.gz",
+      "metadataSha256": "c61c46b44a6a14204f2a00248e86fcbcc90c3ebc662a523a26461cb03700f922",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/5817573275.jpg",
+      "rawSha256": "80842b7a103163555805446fc26ef84dcf1ecf6d490d02b94c3dfe1981fa5dba",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/5817573275.html.gz"
+    },
+    {
+      "id": "5818141224",
+      "owner": "61035462@N00",
+      "author": "Harvey Jiang",
+      "description": "菜根香",
+      "licenseCode": 2,
+      "source": "https://www.flickr.com/photos/61035462@N00/5818141224",
+      "preview": "https://live.staticflickr.com/2632/5818141224_e1b0d4e541_b.jpg",
+      "width": 1024,
+      "height": 685,
+      "itemIds": [
+        "program-4d6967aac75af40133"
+      ],
+      "queryId": "fadf14833027767952c8",
+      "queryIds": [
+        "fadf14833027767952c8"
+      ],
+      "rank": 0,
+      "title": "拆烩鲢鱼头",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "pageDescription": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-02/pages/5818141224.html.gz",
+      "metadataSha256": "2f86c16d405e63c8ede5bbdd444ade1b0cb92bce5f618babb1d0cd6c124dde35",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-02/photos/5818141224.jpg",
+      "rawSha256": "eb605ecfc75ea679ffd2f776d8b89cfa01570ee3a5eb9ea5f3c338c30edb9d19",
+      "status": "downloaded-not-approved",
+      "descriptionPreviewOnly": true,
+      "completeDescriptionIn": "research/.local/jiangzhehu-images-20261117-02/pages/5818141224.html.gz"
+    },
+    {
+      "title": "Huangqiao Sesame Cake.jpg",
+      "itemIds": [
+        "flavor-jiangsu-8958cecb9d"
+      ],
+      "articleTitles": [
+        "Huangqiao sesame cake"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-88f0cd5ae946fb84",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Huangqiao_Sesame_Cake.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Huangqiao_Sesame_Cake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "NNU.10.24100113",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Huangqiao Sesame Cake",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 500,
+      "height": 375,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-88f0cd5ae946fb84.jpg",
+      "rawSha256": "2c117d19b820906ccae8a1e6a7106819ab77d73274a7c23b6388956880d46240"
+    }
+  ],
+  "notes": "只引用已保存原响应，不重写前批原件；本批重新人工核对。"
+}

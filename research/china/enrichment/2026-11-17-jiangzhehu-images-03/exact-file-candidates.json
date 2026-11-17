@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "id": "c-24d013a1bf05b163",
+      "title": "水月禅寺.jpg",
+      "itemIds": [
+        "venue-suining-highlight"
+      ],
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E6%9C%88%E7%A6%85%E5%AF%BA.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%E6%B0%B4%E6%9C%88%E7%A6%85%E5%AF%BA.jpg/960px-%E6%B0%B4%E6%9C%88%E7%A6%85%E5%AF%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "EditQ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​南宁水月禅寺",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/8fee7915197278fae13a.json",
+      "metadataSha256": "37f20bb5eb3a3c061e7fb3122dd65e780f14d0013097817441ed81f718a41eaa",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-24d013a1bf05b163.jpg",
+      "rawSha256": "b938c3bc839c35b991e9db58506b2895135de25b1473623642e9a931cab32fa1"
+    },
+    {
+      "id": "c-36c9272d6b796932",
+      "title": "葱包桧.jpg",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%91%B1%E5%8C%85%E6%A1%A7.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%E8%91%B1%E5%8C%85%E6%A1%A7.jpg/960px-%E8%91%B1%E5%8C%85%E6%A1%A7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Gu0427",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Cong Bao Gui, a snack of Hangzhou, put in a paper bag. The Cong Bao Gui in photo is partly shown and has been bitten - the normal shape is rectangular.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/026b2809c1333ab780b9.json",
+      "metadataSha256": "71a5d629d41e59062cc91ffb96c3abca5a3291a6d380d23a10e3cd8f0ab3e698",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-36c9272d6b796932.jpg",
+      "rawSha256": "34ce2ed4a8e6a71f22e5ab409cb8cf3c7b5aed21e2c3f9bbce114dad3ac2ea99"
+    }
+  ]
+}

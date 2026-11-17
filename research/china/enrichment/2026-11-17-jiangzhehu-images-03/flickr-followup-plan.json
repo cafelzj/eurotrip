@@ -1,0 +1,709 @@
+{
+  "date": "2026-11-17",
+  "jobs": [
+    {
+      "id": "06c48dcb6a659157a341",
+      "query": "Yanghe daqu",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "3c0fa7653aa6dbb23ba2",
+      "query": "Yanghe baijiu",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "100ca077643f4c4d2258",
+      "query": "Shuanggou baijiu",
+      "itemIds": [
+        "js-shuanggou"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "c238709ca5115366474d",
+      "query": "Yuhua tea",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "eb825d3c9d35fc67fac2",
+      "query": "Kuaijishan wine",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "c806b177105dab8e2fa6",
+      "query": "pork with dried mustard greens",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "b63e27d470ec69291716",
+      "query": "meigan cai pork",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "c45fdc1cb94370a25f2b",
+      "query": "Bright Dairy milk",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "17b8a6a61aa284ea7820",
+      "query": "Bright yoghurt",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "4dc9e7423858626010e5",
+      "query": "Zhengguanghe soda",
+      "itemIds": [
+        "sh-soda"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "c12060c622958b25a7e2",
+      "query": "Shikumen rice wine",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "659fa1a0644915841883",
+      "query": "Zhuanghang mutton",
+      "itemIds": [
+        "sh-lamb"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "a4cffd3713a89ab32bec",
+      "query": "zaolu",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "365e560efcfa81bc8cbe",
+      "query": "Dingfeng fermented tofu",
+      "itemIds": [
+        "sh-dingfeng-furu"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "58a3666baa1ffe258108",
+      "query": "Longyou rice cake",
+      "itemIds": [
+        "zj-longyou-fagao"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "8eac9bc99a086ba8088c",
+      "query": "Taizhou ginger noodle",
+      "itemIds": [
+        "zj-taizhou-jiangtangmian"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "5f523cce63c1ba241886",
+      "query": "Yongkang meat pie",
+      "itemIds": [
+        "zj-yongkang-roumaibing"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "097b54fc7e9b58597171",
+      "query": "Da Zhu Gan Si",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "c16ae957371f1afcee2a",
+      "query": "Pingqiao tofu soup",
+      "itemIds": [
+        "js-pingqiao-tofu"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "2f9a2fa3e01fd150c930",
+      "query": "Wensi tofu soup",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "6ceff338f65a74c60116",
+      "query": "ruandou changyu",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "0ae95411af8b50f76408",
+      "query": "Tianmuhu fish head",
+      "itemIds": [
+        "js-tianmuhu-fishhead"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "5155b9ee40d4db90d0a6",
+      "query": "Jingjiang pork jerky",
+      "itemIds": [
+        "js-jingjiang-roufu"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "06e6975cd3ea56ad8500",
+      "query": "Dongtai fish noodle",
+      "itemIds": [
+        "js-dongtai-fishnoodles"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "ebf7c4d254c67c0c5389",
+      "query": "Chongming rice cake",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "6fcb25fdd463f033f54f",
+      "query": "sanding bao",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "170ad3596dec523189c0",
+      "query": "Yangzhou three diced buns",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "92ce93ead4c5c59935be",
+      "query": "wuding bao",
+      "itemIds": [
+        "js-yangzhou-wuding"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "423fc03f8db162bc7e0b",
+      "query": "Yangzhou dried tofu",
+      "itemIds": [
+        "js-yangzhou-tanggansi"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f6279e401be2d41e4be4",
+      "query": "Guoyuan baijiu",
+      "itemIds": [
+        "flavor-jiangsu-d4b86af742"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "6f80dc8272f45111f3ad",
+      "query": "Ningbo braised vegetables",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "1f970c272a7bbee1fe30",
+      "query": "Ningbo tang yuan",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "d20e9085e2ead49bccbb",
+      "query": "Wenzhou fish ball",
+      "itemIds": [
+        "flavor-zhejiang-b769fc8fd7"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f3026d0c5cc5e544c5d8",
+      "query": "Wenzhou meat balls",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "4292ad0e4d04bf42ca7d",
+      "query": "Wenzhou sponge cake",
+      "itemIds": [
+        "flavor-zhejiang-1ab5f289c8"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "0fc7cb80a0a61a41be17",
+      "query": "Wenzhou lamp cake",
+      "itemIds": [
+        "flavor-zhejiang-6c8b86619e"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "5f6786614d56729d8501",
+      "query": "Xitang qianshi cake",
+      "itemIds": [
+        "flavor-zhejiang-287a9609ac"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f572f2159f7771aa0733",
+      "query": "fermented amaranth stalks",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "22b1fabb25e7b51b4795",
+      "query": "stinky amaranth",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "3c94c2eaed8e6d7b4163",
+      "query": "Shaoxing drunken crab",
+      "itemIds": [
+        "flavor-zhejiang-efcb134b62"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "3efe31aca67af61b791c",
+      "query": "Shaoxing stinky tofu",
+      "itemIds": [
+        "flavor-zhejiang-0efcd08ba8"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "5fbb68abfc7492a54a6c",
+      "query": "Xinchang taro dumplings",
+      "itemIds": [
+        "flavor-zhejiang-9f39ff4631"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "b98a850e8109be1bc11d",
+      "query": "Linhai maixia",
+      "itemIds": [
+        "flavor-zhejiang-6599354056"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "2e3d5ba8683b78b35f5c",
+      "query": "Sanmen green crab",
+      "itemIds": [
+        "flavor-zhejiang-68e1cc0e06"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "2f7e587dc4d0545bc478",
+      "query": "Longpao crab buns",
+      "itemIds": [
+        "flavor-jiangsu-68b3a5aa76"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "803b88b78b80e5f14322",
+      "query": "Wuxi gluten stuffed pork",
+      "itemIds": [
+        "flavor-jiangsu-f7b963320d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "583323f2be91889df030",
+      "query": "Cangshu mutton",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "e0643f957100f2131fa9",
+      "query": "Suzhou pork mooncake",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "6d9bac8ed51c0b839dd6",
+      "query": "Wenlou tangbao",
+      "itemIds": [
+        "flavor-jiangsu-8ae7be83a0"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "d3056330adbbaa430a50",
+      "query": "Yangzhou thousand layer cake",
+      "itemIds": [
+        "flavor-jiangsu-886c8438f1"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "164aa31376641c486d22",
+      "query": "jade shumai",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "153a18d90d0aff517d19",
+      "query": "Yangzhou emerald shumai",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "d02a66b9835fcc0eff45",
+      "query": "Zhenjiang crab soup dumpling",
+      "itemIds": [
+        "flavor-jiangsu-fdd1cc53a5"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "da0e0cc3f9f018e78142",
+      "query": "Jingjiang crab soup dumpling",
+      "itemIds": [
+        "flavor-jiangsu-5d1e6b48ad"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "513cd7c022848f9e30f5",
+      "query": "Jintan queshe",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f01e5fd9fcc5ad52c850",
+      "query": "Shanghai yellow croaker noodle",
+      "itemIds": [
+        "flavor-shanghai-eba6f92c80"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "a691f0860b31bc6dad78",
+      "query": "Shanghai crab roe noodle",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "62a2eda8ef31a217022a",
+      "query": "Jinshan flat peach",
+      "itemIds": [
+        "regional-31ecbb324bb4fe"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "a4137be0536d33dccd49",
+      "query": "Changshan grapefruit",
+      "itemIds": [
+        "regional-b71b629407c335"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "fc44df5c9443e9645cb3",
+      "query": "Xianju bayberry",
+      "itemIds": [
+        "regional-0f9a12585365c8"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "db7c70e830c090683c76",
+      "query": "Qingyuan shiitake",
+      "itemIds": [
+        "regional-38c9295a3cac60"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "3746498e7a8f6a7ce070",
+      "query": "Pinghu watermelon",
+      "itemIds": [
+        "regional-e47bf666f4945d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "4962955ce8953b09aa44",
+      "query": "Suzhou kesi",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "4d1170a6dbdcc2d2f358",
+      "query": "Yangzhou jade",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "d26f35eeb757f0bf89a4",
+      "query": "Yangzhou lacquer",
+      "itemIds": [
+        "regional-6c556c676d44e0"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "4ce2019c4aa969135995",
+      "query": "Yangzhou paper cutting",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "9beccf45871be38a8409",
+      "query": "Nantong blue calico",
+      "itemIds": [
+        "regional-7fd90cdcf86c65"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "eee0b762941b053112c6",
+      "query": "Longquan sword",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "5c1c60b3b72786c98351",
+      "query": "Yueqing boxwood carving",
+      "itemIds": [
+        "regional-80148cd3b298b0"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "af83d5a1d58da028ed42",
+      "query": "Huzhou calligraphy brush",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "8f65683b579530b4c86d",
+      "query": "Xikou thousand layer cake",
+      "itemIds": [
+        "county-1b8b20507baf90"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "60890c8206d96621dbfb",
+      "query": "Ninghai wheat cake",
+      "itemIds": [
+        "county-c4761d6e18be3b"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "3b841515fca7b3102c91",
+      "query": "Shengzhou rice noodles",
+      "itemIds": [
+        "county-033de905926910"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f3d131f5fd7033769871",
+      "query": "Chongming rice wine",
+      "itemIds": [
+        "program-0ecf8670f24a11093c"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "20dc36d79195ef967c30",
+      "query": "Langshan chicken",
+      "itemIds": [
+        "program-3a0cfd17846c61bca3"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "18b4b11f6715e25fcdc1",
+      "query": "Huiming tea",
+      "itemIds": [
+        "program-b0f74da42fe558ec96"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "236e606c027015eefad7",
+      "query": "Hangzhou silk fabric",
+      "itemIds": [
+        "program-9107a30f5e325737df"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "f69bc3c383ee1c68a657",
+      "query": "Chongming goat",
+      "itemIds": [
+        "program-f609baecc538f8d370"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "af5f310b1c036a7219cb",
+      "query": "Fengjing pig",
+      "itemIds": [
+        "program-58a6c32e81e3ba244c"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "0ad71ed1e729beb33595",
+      "query": "Erhualian pig",
+      "itemIds": [
+        "program-f7bd2d4aa8906af045"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "7c400266ed33e2daace1",
+      "query": "Hu sheep",
+      "itemIds": [
+        "program-80f65d0c7afd41031e"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "9e686780d39816c9b5f4",
+      "query": "Yuyao bayberry",
+      "itemIds": [
+        "program-68c9d9cc74b934f29e"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "41934021af43e561f4bb",
+      "query": "Rugao radish",
+      "itemIds": [
+        "program-22ff153c3a02e8cadc"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "907ea52349d032ac36ea",
+      "query": "Fenghua taro",
+      "itemIds": [
+        "program-13e1add7f806de29e2"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "fe94a9e995103cb74b13",
+      "query": "Wenzhou fish soup",
+      "itemIds": [
+        "program-9dcb67aa763f9e9b83"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "1f2b2773d07207720332",
+      "query": "Shaoxing three delicacies",
+      "itemIds": [
+        "program-3e0dd03be25479e00d"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "ebff55ae1b1be394fd6a",
+      "query": "Jinhua su bing",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    },
+    {
+      "id": "33648feb43b1b3c4dc94",
+      "query": "Taizhou ginger egg",
+      "itemIds": [
+        "program-7b0c2254598348d888"
+      ],
+      "kind": "additional-english-and-pinyin-search-alias-not-fact-verification"
+    }
+  ]
+}

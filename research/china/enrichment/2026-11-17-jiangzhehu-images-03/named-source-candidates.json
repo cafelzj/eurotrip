@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "id": "c-a2e3e7af717aefe5",
+      "title": "清龙泉剑.jpg",
+      "itemIds": [
+        "regional-ef65a49943ef4d"
+      ],
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E9%BE%99%E6%B3%89%E5%89%91.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E6%B8%85%E9%BE%99%E6%B3%89%E5%89%91.jpg/960px-%E6%B8%85%E9%BE%99%E6%B3%89%E5%89%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "清代龙泉剑。浙江省博物馆临时展览实物实拍。",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/a80d24276e156bc43de9.json",
+      "metadataSha256": "16babe98d6dba97372f62b12ca88ee2663fa0d1ec852b24ba21285c5fcabe366",
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a2e3e7af717aefe5.jpg",
+      "rawSha256": "ea409e427fca1427df4683a17cde8eae6831890217ea5aa7b5f2ff0904fedf35",
+      "width": 960,
+      "height": 639,
+      "status": "downloaded-not-approved"
+    }
+  ],
+  "sourcePage": {
+    "path": "research/.local/jiangzhehu-images-20261117-03/longquan-sword.html.gz",
+    "sha256": "9fc20323c510d0defb8827e667c49e6535ee47fbebde9272fdb3dd87b0650f92"
+  }
+}

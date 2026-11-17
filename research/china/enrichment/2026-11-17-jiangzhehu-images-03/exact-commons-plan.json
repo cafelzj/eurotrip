@@ -1,0 +1,4741 @@
+{
+  "date": "2026-11-17",
+  "titles": {
+    "苏州 · 共享单车与慢行.jpg": [
+      "tip-suzhou-shared-mobility"
+    ],
+    "苏州 · 共享单车与慢行.JPG": [
+      "tip-suzhou-shared-mobility"
+    ],
+    "去苏州，机场接驳怎么选.jpg": [
+      "tip-suzhou-airport"
+    ],
+    "去苏州，机场接驳怎么选.JPG": [
+      "tip-suzhou-airport"
+    ],
+    "同得兴 · 嘉馀坊店.jpg": [
+      "venue-suzhou-noodle-shop"
+    ],
+    "同得兴 · 嘉馀坊店.JPG": [
+      "venue-suzhou-noodle-shop"
+    ],
+    "大润发 · 在苏州找门店.jpg": [
+      "brand-suzhou-rtmart"
+    ],
+    "大润发 · 在苏州找门店.JPG": [
+      "brand-suzhou-rtmart"
+    ],
+    "盒马 · 在苏州找门店.jpg": [
+      "brand-suzhou-hema"
+    ],
+    "盒马 · 在苏州找门店.JPG": [
+      "brand-suzhou-hema"
+    ],
+    "山姆会员商店 · 在苏州找门店.jpg": [
+      "brand-suzhou-samsclub"
+    ],
+    "山姆会员商店 · 在苏州找门店.JPG": [
+      "brand-suzhou-samsclub"
+    ],
+    "黄天源 · 糕团与时令点心.jpg": [
+      "brand-suzhou-huangtianyuan"
+    ],
+    "黄天源 · 糕团与时令点心.JPG": [
+      "brand-suzhou-huangtianyuan"
+    ],
+    "苏州旅行 · 紧急求助与日常准备.jpg": [
+      "tip-suzhou-help"
+    ],
+    "苏州旅行 · 紧急求助与日常准备.JPG": [
+      "tip-suzhou-help"
+    ],
+    "徐州 · 共享单车补齐短途.jpg": [
+      "tip-xuzhou-shared-mobility"
+    ],
+    "徐州 · 共享单车补齐短途.JPG": [
+      "tip-xuzhou-shared-mobility"
+    ],
+    "徐州旅行 · 日常与紧急准备.jpg": [
+      "tip-xuzhou-help"
+    ],
+    "徐州旅行 · 日常与紧急准备.JPG": [
+      "tip-xuzhou-help"
+    ],
+    "大润发 · 在徐州找门店.jpg": [
+      "brand-xuzhou-rtmart"
+    ],
+    "大润发 · 在徐州找门店.JPG": [
+      "brand-xuzhou-rtmart"
+    ],
+    "无锡 · 共享单车补齐短途.jpg": [
+      "tip-wuxi-shared-mobility"
+    ],
+    "无锡 · 共享单车补齐短途.JPG": [
+      "tip-wuxi-shared-mobility"
+    ],
+    "无锡旅行 · 日常与紧急准备.jpg": [
+      "tip-wuxi-help"
+    ],
+    "无锡旅行 · 日常与紧急准备.JPG": [
+      "tip-wuxi-help"
+    ],
+    "大润发 · 在无锡找门店.jpg": [
+      "brand-wuxi-rtmart"
+    ],
+    "大润发 · 在无锡找门店.JPG": [
+      "brand-wuxi-rtmart"
+    ],
+    "烙馍与卷菜.jpg": [
+      "food-xuzhou-lomo"
+    ],
+    "烙馍与卷菜.JPG": [
+      "food-xuzhou-lomo"
+    ],
+    "饣它汤 · 早餐热汤.jpg": [
+      "food-xuzhou-satang"
+    ],
+    "饣它汤 · 早餐热汤.JPG": [
+      "food-xuzhou-satang"
+    ],
+    "徐州辣汤与早餐搭配.jpg": [
+      "food-xuzhou-sha-tang"
+    ],
+    "徐州辣汤与早餐搭配.JPG": [
+      "food-xuzhou-sha-tang"
+    ],
+    "徐州与彭城、汉文化.jpg": [
+      "fact-xuzhou-han"
+    ],
+    "徐州与彭城、汉文化.JPG": [
+      "fact-xuzhou-han"
+    ],
+    "无锡糕团与时令点心.jpg": [
+      "food-wuxi-haitang"
+    ],
+    "无锡糕团与时令点心.JPG": [
+      "food-wuxi-haitang"
+    ],
+    "无锡不只有市中心的一片太湖.jpg": [
+      "fact-wuxi-taihu"
+    ],
+    "无锡不只有市中心的一片太湖.JPG": [
+      "fact-wuxi-taihu"
+    ],
+    "香山景区.jpg": [
+      "venue-zhangjiagang-highlight"
+    ],
+    "香山景区.JPG": [
+      "venue-zhangjiagang-highlight"
+    ],
+    "张家港 · 长江港城.jpg": [
+      "local-zhangjiagang-culture"
+    ],
+    "张家港 · 长江港城.JPG": [
+      "local-zhangjiagang-culture"
+    ],
+    "丰县博物馆.jpg": [
+      "venue-fengxian-highlight"
+    ],
+    "丰县博物馆.JPG": [
+      "venue-fengxian-highlight"
+    ],
+    "丰县 · 梨与苹果的产地线索.jpg": [
+      "local-fengxian-culture"
+    ],
+    "丰县 · 梨与苹果的产地线索.JPG": [
+      "local-fengxian-culture"
+    ],
+    "丰县 · 县级目的地接驳.jpg": [
+      "tip-fengxian-access"
+    ],
+    "丰县 · 县级目的地接驳.JPG": [
+      "tip-fengxian-access"
+    ],
+    "沛县汉城公园.jpg": [
+      "venue-peixian-highlight"
+    ],
+    "沛县汉城公园.JPG": [
+      "venue-peixian-highlight"
+    ],
+    "沛县 · 刘邦与汉文化记忆.jpg": [
+      "local-peixian-culture"
+    ],
+    "沛县 · 刘邦与汉文化记忆.JPG": [
+      "local-peixian-culture"
+    ],
+    "沛县 · 县级目的地接驳.jpg": [
+      "tip-peixian-access"
+    ],
+    "沛县 · 县级目的地接驳.JPG": [
+      "tip-peixian-access"
+    ],
+    "水月禅寺.jpg": [
+      "venue-suining-highlight"
+    ],
+    "水月禅寺.JPG": [
+      "venue-suining-highlight"
+    ],
+    "睢宁 · 儿童画文化.jpg": [
+      "local-suining-culture"
+    ],
+    "睢宁 · 儿童画文化.JPG": [
+      "local-suining-culture"
+    ],
+    "睢宁 · 县级目的地接驳.jpg": [
+      "tip-suining-access"
+    ],
+    "睢宁 · 县级目的地接驳.JPG": [
+      "tip-suining-access"
+    ],
+    "新沂 · 县级目的地接驳.jpg": [
+      "tip-xinyi-access"
+    ],
+    "新沂 · 县级目的地接驳.JPG": [
+      "tip-xinyi-access"
+    ],
+    "艾山风景名胜区.jpg": [
+      "venue-pizhou-highlight"
+    ],
+    "艾山风景名胜区.JPG": [
+      "venue-pizhou-highlight"
+    ],
+    "邳州 · 银杏与秋季乡村.jpg": [
+      "local-pizhou-culture"
+    ],
+    "邳州 · 银杏与秋季乡村.JPG": [
+      "local-pizhou-culture"
+    ],
+    "看汉墓时，怎样区分墓、俑和画像石？.jpg": [
+      "knowledge-xuzhou-han-tombs"
+    ],
+    "看汉墓时，怎样区分墓、俑和画像石？.JPG": [
+      "knowledge-xuzhou-han-tombs"
+    ],
+    "无锡为什么有“布码头”的城市记忆？.jpg": [
+      "knowledge-wuxi-textiles"
+    ],
+    "无锡为什么有“布码头”的城市记忆？.JPG": [
+      "knowledge-wuxi-textiles"
+    ],
+    "苏州话与无锡话：同属吴语，也并非处处一样.jpg": [
+      "language-cn-wu"
+    ],
+    "苏州话与无锡话：同属吴语，也并非处处一样.JPG": [
+      "language-cn-wu"
+    ],
+    "同在江苏，徐州话为什么与苏州话差很多？.jpg": [
+      "language-cn-xuzhou"
+    ],
+    "同在江苏，徐州话为什么与苏州话差很多？.JPG": [
+      "language-cn-xuzhou"
+    ],
+    "天山雪牛奶.jpg": [
+      "js-tianshanxue"
+    ],
+    "天山雪牛奶.JPG": [
+      "js-tianshanxue"
+    ],
+    "维维豆奶.jpg": [
+      "js-vv"
+    ],
+    "维维豆奶.JPG": [
+      "js-vv"
+    ],
+    "洋河酒.jpg": [
+      "js-yanghe"
+    ],
+    "洋河酒.JPG": [
+      "js-yanghe"
+    ],
+    "双沟酒.jpg": [
+      "js-shuanggou"
+    ],
+    "双沟酒.JPG": [
+      "js-shuanggou"
+    ],
+    "雨花茶.jpg": [
+      "js-yuhua"
+    ],
+    "雨花茶.JPG": [
+      "js-yuhua"
+    ],
+    "常熟叫花鸡.jpg": [
+      "js-beggar-chicken"
+    ],
+    "常熟叫花鸡.JPG": [
+      "js-beggar-chicken"
+    ],
+    "一鸣鲜牛奶.jpg": [
+      "zj-yiming"
+    ],
+    "一鸣鲜牛奶.JPG": [
+      "zj-yiming"
+    ],
+    "李子园甜牛奶饮料.jpg": [
+      "zj-liziyuan"
+    ],
+    "李子园甜牛奶饮料.JPG": [
+      "zj-liziyuan"
+    ],
+    "会稽山绍兴酒.jpg": [
+      "zj-kuaiji"
+    ],
+    "会稽山绍兴酒.JPG": [
+      "zj-kuaiji"
+    ],
+    "雪菜大汤黄鱼.jpg": [
+      "zj-yellow-croaker"
+    ],
+    "雪菜大汤黄鱼.JPG": [
+      "zj-yellow-croaker"
+    ],
+    "梅干菜焖肉.jpg": [
+      "zj-meigan"
+    ],
+    "梅干菜焖肉.JPG": [
+      "zj-meigan"
+    ],
+    "荷叶粉蒸肉.jpg": [
+      "zj-steamed-pork",
+      "program-9a8cdc8b6698f39550"
+    ],
+    "荷叶粉蒸肉.JPG": [
+      "zj-steamed-pork",
+      "program-9a8cdc8b6698f39550"
+    ],
+    "光明鲜牛奶.jpg": [
+      "sh-bright-milk"
+    ],
+    "光明鲜牛奶.JPG": [
+      "sh-bright-milk"
+    ],
+    "光明酸奶.jpg": [
+      "sh-bright-yogurt"
+    ],
+    "光明酸奶.JPG": [
+      "sh-bright-yogurt"
+    ],
+    "正广和饮品.jpg": [
+      "sh-soda"
+    ],
+    "正广和饮品.JPG": [
+      "sh-soda"
+    ],
+    "石库门黄酒.jpg": [
+      "sh-shikumen"
+    ],
+    "石库门黄酒.JPG": [
+      "sh-shikumen"
+    ],
+    "汪裕泰茶庄.jpg": [
+      "sh-wangyutai"
+    ],
+    "汪裕泰茶庄.JPG": [
+      "sh-wangyutai"
+    ],
+    "庄行白切羊肉.jpg": [
+      "sh-lamb"
+    ],
+    "庄行白切羊肉.JPG": [
+      "sh-lamb"
+    ],
+    "糟卤.jpg": [
+      "sh-zaolu"
+    ],
+    "糟卤.JPG": [
+      "sh-zaolu"
+    ],
+    "鼎丰腐乳.jpg": [
+      "sh-dingfeng-furu"
+    ],
+    "鼎丰腐乳.JPG": [
+      "sh-dingfeng-furu"
+    ],
+    "衢州缸酱.jpg": [
+      "zj-gangjiang"
+    ],
+    "衢州缸酱.JPG": [
+      "zj-gangjiang"
+    ],
+    "龙游发糕.jpg": [
+      "zj-longyou-fagao"
+    ],
+    "龙游发糕.JPG": [
+      "zj-longyou-fagao"
+    ],
+    "衢州三头一掌.jpg": [
+      "zj-santou-yizhang"
+    ],
+    "衢州三头一掌.JPG": [
+      "zj-santou-yizhang"
+    ],
+    "开化番薯粉丝.jpg": [
+      "zj-kaihua-fensi"
+    ],
+    "开化番薯粉丝.JPG": [
+      "zj-kaihua-fensi"
+    ],
+    "邵永丰麻饼.jpg": [
+      "zj-shaoyongfeng"
+    ],
+    "邵永丰麻饼.JPG": [
+      "zj-shaoyongfeng"
+    ],
+    "台州姜汤面.jpg": [
+      "zj-taizhou-jiangtangmian"
+    ],
+    "台州姜汤面.JPG": [
+      "zj-taizhou-jiangtangmian"
+    ],
+    "台州食饼筒.jpg": [
+      "zj-taizhou-shibingtong"
+    ],
+    "台州食饼筒.JPG": [
+      "zj-taizhou-shibingtong"
+    ],
+    "缙云南乡馒头.jpg": [
+      "zj-jinyun-nanxiang"
+    ],
+    "缙云南乡馒头.JPG": [
+      "zj-jinyun-nanxiang"
+    ],
+    "丽水莲都薄饼.jpg": [
+      "zj-liandu-wrap"
+    ],
+    "丽水莲都薄饼.JPG": [
+      "zj-liandu-wrap"
+    ],
+    "莲都豆腐丸.jpg": [
+      "zj-liandu-tofuballs"
+    ],
+    "莲都豆腐丸.JPG": [
+      "zj-liandu-tofuballs"
+    ],
+    "景宁粉皮.jpg": [
+      "zj-jingning-fenpi"
+    ],
+    "景宁粉皮.JPG": [
+      "zj-jingning-fenpi"
+    ],
+    "永康肉麦饼.jpg": [
+      "zj-yongkang-roumaibing"
+    ],
+    "永康肉麦饼.JPG": [
+      "zj-yongkang-roumaibing"
+    ],
+    "永康熏豆腐干.jpg": [
+      "zj-yongkang-smoked-tofu"
+    ],
+    "永康熏豆腐干.JPG": [
+      "zj-yongkang-smoked-tofu"
+    ],
+    "嘉兴鲜肉烧卖.jpg": [
+      "zj-jiaxing-shaomai"
+    ],
+    "嘉兴鲜肉烧卖.JPG": [
+      "zj-jiaxing-shaomai"
+    ],
+    "平湖糟蛋.jpg": [
+      "zj-pinghu-zaodan"
+    ],
+    "平湖糟蛋.JPG": [
+      "zj-pinghu-zaodan"
+    ],
+    "平湖糍糕.jpg": [
+      "zj-pinghu-chigao"
+    ],
+    "平湖糍糕.JPG": [
+      "zj-pinghu-chigao"
+    ],
+    "泰顺大安米面.jpg": [
+      "zj-taishun-rice-noodles"
+    ],
+    "泰顺大安米面.JPG": [
+      "zj-taishun-rice-noodles"
+    ],
+    "舟山带鱼.jpg": [
+      "zj-zhoushan-hairtail"
+    ],
+    "舟山带鱼.JPG": [
+      "zj-zhoushan-hairtail"
+    ],
+    "舟山梭子蟹.jpg": [
+      "zj-zhoushan-swimming-crab"
+    ],
+    "舟山梭子蟹.JPG": [
+      "zj-zhoushan-swimming-crab"
+    ],
+    "大煮干丝.jpg": [
+      "js-dazhugansi"
+    ],
+    "大煮干丝.JPG": [
+      "js-dazhugansi"
+    ],
+    "平桥豆腐羹.jpg": [
+      "js-pingqiao-tofu"
+    ],
+    "平桥豆腐羹.JPG": [
+      "js-pingqiao-tofu"
+    ],
+    "文思豆腐.jpg": [
+      "js-wensi-tofu"
+    ],
+    "文思豆腐.JPG": [
+      "js-wensi-tofu"
+    ],
+    "软兜长鱼.jpg": [
+      "js-ruandou-eel"
+    ],
+    "软兜长鱼.JPG": [
+      "js-ruandou-eel"
+    ],
+    "三和四美酱菜.jpg": [
+      "js-sanhesimei"
+    ],
+    "三和四美酱菜.JPG": [
+      "js-sanhesimei"
+    ],
+    "常州银丝面.jpg": [
+      "js-changzhou-yinsimian"
+    ],
+    "常州银丝面.JPG": [
+      "js-changzhou-yinsimian"
+    ],
+    "天目湖砂锅鱼头.jpg": [
+      "js-tianmuhu-fishhead"
+    ],
+    "天目湖砂锅鱼头.JPG": [
+      "js-tianmuhu-fishhead"
+    ],
+    "靖江猪肉脯.jpg": [
+      "js-jingjiang-roufu"
+    ],
+    "靖江猪肉脯.JPG": [
+      "js-jingjiang-roufu"
+    ],
+    "东台鱼汤面.jpg": [
+      "js-dongtai-fishnoodles"
+    ],
+    "东台鱼汤面.JPG": [
+      "js-dongtai-fishnoodles"
+    ],
+    "灌云豆丹.jpg": [
+      "js-guanyun-doudan"
+    ],
+    "灌云豆丹.JPG": [
+      "js-guanyun-doudan"
+    ],
+    "宿迁车轮饼.jpg": [
+      "js-suqian-chelunbing"
+    ],
+    "宿迁车轮饼.JPG": [
+      "js-suqian-chelunbing"
+    ],
+    "羊方藏鱼.jpg": [
+      "js-xuzhou-lambfish"
+    ],
+    "羊方藏鱼.JPG": [
+      "js-xuzhou-lambfish"
+    ],
+    "东坡回赠肉.jpg": [
+      "js-xuzhou-huizengrou"
+    ],
+    "东坡回赠肉.JPG": [
+      "js-xuzhou-huizengrou"
+    ],
+    "沪上阿姨.jpg": [
+      "sh-hushangayi"
+    ],
+    "沪上阿姨.JPG": [
+      "sh-hushangayi"
+    ],
+    "颛桥桶蒸糕.jpg": [
+      "sh-zhuanqiao-tongzhenggao"
+    ],
+    "颛桥桶蒸糕.JPG": [
+      "sh-zhuanqiao-tongzhenggao"
+    ],
+    "崇明糕.jpg": [
+      "sh-chongming-gao"
+    ],
+    "崇明糕.JPG": [
+      "sh-chongming-gao"
+    ],
+    "扬州三丁包.jpg": [
+      "js-yangzhou-sanding"
+    ],
+    "扬州三丁包.JPG": [
+      "js-yangzhou-sanding"
+    ],
+    "扬州盐商五丁包.jpg": [
+      "js-yangzhou-wuding"
+    ],
+    "扬州盐商五丁包.JPG": [
+      "js-yangzhou-wuding"
+    ],
+    "扬州烫干丝.jpg": [
+      "js-yangzhou-tanggansi"
+    ],
+    "扬州烫干丝.JPG": [
+      "js-yangzhou-tanggansi"
+    ],
+    "杭州小笼包.jpg": [
+      "zj-hangzhou-xiaolong"
+    ],
+    "杭州小笼包.JPG": [
+      "zj-hangzhou-xiaolong"
+    ],
+    "今世缘酒.jpg": [
+      "flavor-jiangsu-d4b86af742"
+    ],
+    "今世缘酒.JPG": [
+      "flavor-jiangsu-d4b86af742"
+    ],
+    "熊猫炼乳.jpg": [
+      "flavor-zhejiang-165174eadb"
+    ],
+    "熊猫炼乳.JPG": [
+      "flavor-zhejiang-165174eadb"
+    ],
+    "葱包桧.jpg": [
+      "flavor-zhejiang-87b3c65e52"
+    ],
+    "葱包桧.JPG": [
+      "flavor-zhejiang-87b3c65e52"
+    ],
+    "新风鳗鲞.jpg": [
+      "flavor-zhejiang-ccf338cca4"
+    ],
+    "新风鳗鲞.JPG": [
+      "flavor-zhejiang-ccf338cca4"
+    ],
+    "苔菜拖黄鱼.jpg": [
+      "flavor-zhejiang-2d87ba5184"
+    ],
+    "苔菜拖黄鱼.JPG": [
+      "flavor-zhejiang-2d87ba5184"
+    ],
+    "冰糖甲鱼.jpg": [
+      "flavor-zhejiang-f1166339c5"
+    ],
+    "冰糖甲鱼.JPG": [
+      "flavor-zhejiang-f1166339c5"
+    ],
+    "宁波烤菜.jpg": [
+      "flavor-zhejiang-0b1a1c181d"
+    ],
+    "宁波烤菜.JPG": [
+      "flavor-zhejiang-0b1a1c181d"
+    ],
+    "腐皮黄鱼.jpg": [
+      "flavor-zhejiang-b0aa6955f1"
+    ],
+    "腐皮黄鱼.JPG": [
+      "flavor-zhejiang-b0aa6955f1"
+    ],
+    "宁波汤圆.jpg": [
+      "flavor-zhejiang-65406eee9b"
+    ],
+    "宁波汤圆.JPG": [
+      "flavor-zhejiang-65406eee9b"
+    ],
+    "宁式鳝丝.jpg": [
+      "flavor-zhejiang-025c794ff3"
+    ],
+    "宁式鳝丝.JPG": [
+      "flavor-zhejiang-025c794ff3"
+    ],
+    "象山炒米面.jpg": [
+      "flavor-zhejiang-56c16bb7d1"
+    ],
+    "象山炒米面.JPG": [
+      "flavor-zhejiang-56c16bb7d1"
+    ],
+    "宁海望海茶.jpg": [
+      "flavor-zhejiang-14dd3618e0"
+    ],
+    "宁海望海茶.JPG": [
+      "flavor-zhejiang-14dd3618e0"
+    ],
+    "温州鱼丸.jpg": [
+      "flavor-zhejiang-b769fc8fd7"
+    ],
+    "温州鱼丸.JPG": [
+      "flavor-zhejiang-b769fc8fd7"
+    ],
+    "温州瘦肉丸.jpg": [
+      "flavor-zhejiang-3dee9a6965"
+    ],
+    "温州瘦肉丸.JPG": [
+      "flavor-zhejiang-3dee9a6965"
+    ],
+    "长人馄饨.jpg": [
+      "flavor-zhejiang-9e9e5f67db"
+    ],
+    "长人馄饨.JPG": [
+      "flavor-zhejiang-9e9e5f67db"
+    ],
+    "矮人松糕.jpg": [
+      "flavor-zhejiang-1ab5f289c8"
+    ],
+    "矮人松糕.JPG": [
+      "flavor-zhejiang-1ab5f289c8"
+    ],
+    "双炊糕.jpg": [
+      "flavor-zhejiang-a02b2f59e1"
+    ],
+    "双炊糕.JPG": [
+      "flavor-zhejiang-a02b2f59e1"
+    ],
+    "白象香糕.jpg": [
+      "flavor-zhejiang-f1b67ca9a0"
+    ],
+    "白象香糕.JPG": [
+      "flavor-zhejiang-f1b67ca9a0"
+    ],
+    "灯盏糕.jpg": [
+      "flavor-zhejiang-6c8b86619e"
+    ],
+    "灯盏糕.JPG": [
+      "flavor-zhejiang-6c8b86619e"
+    ],
+    "五芳斋鲜肉粽.jpg": [
+      "flavor-zhejiang-a30e374a96"
+    ],
+    "五芳斋鲜肉粽.JPG": [
+      "flavor-zhejiang-a30e374a96"
+    ],
+    "馄饨老鸭煲.jpg": [
+      "flavor-zhejiang-267f01bf30"
+    ],
+    "馄饨老鸭煲.JPG": [
+      "flavor-zhejiang-267f01bf30"
+    ],
+    "西塘芡实糕.jpg": [
+      "flavor-zhejiang-287a9609ac"
+    ],
+    "西塘芡实糕.JPG": [
+      "flavor-zhejiang-287a9609ac"
+    ],
+    "荠菜包圆.jpg": [
+      "flavor-zhejiang-367013ddcf"
+    ],
+    "荠菜包圆.JPG": [
+      "flavor-zhejiang-367013ddcf"
+    ],
+    "斜桥榨菜.jpg": [
+      "flavor-zhejiang-884212115b"
+    ],
+    "斜桥榨菜.JPG": [
+      "flavor-zhejiang-884212115b"
+    ],
+    "长安宴球.jpg": [
+      "flavor-zhejiang-ec6f428b48"
+    ],
+    "长安宴球.JPG": [
+      "flavor-zhejiang-ec6f428b48"
+    ],
+    "芽麦圆子.jpg": [
+      "flavor-zhejiang-6292166baa"
+    ],
+    "芽麦圆子.JPG": [
+      "flavor-zhejiang-6292166baa"
+    ],
+    "老鸭面.jpg": [
+      "flavor-zhejiang-caa99dee23"
+    ],
+    "老鸭面.JPG": [
+      "flavor-zhejiang-caa99dee23"
+    ],
+    "顾渚紫笋.jpg": [
+      "flavor-zhejiang-b6fe4d08c5"
+    ],
+    "顾渚紫笋.JPG": [
+      "flavor-zhejiang-b6fe4d08c5"
+    ],
+    "莫干黄芽.jpg": [
+      "flavor-zhejiang-72edade079"
+    ],
+    "莫干黄芽.JPG": [
+      "flavor-zhejiang-72edade079"
+    ],
+    "新市酱羊肉.jpg": [
+      "flavor-zhejiang-d9f2600a61"
+    ],
+    "新市酱羊肉.JPG": [
+      "flavor-zhejiang-d9f2600a61"
+    ],
+    "泗安酥糖.jpg": [
+      "flavor-zhejiang-485298591d"
+    ],
+    "泗安酥糖.JPG": [
+      "flavor-zhejiang-485298591d"
+    ],
+    "南浔桔红糕.jpg": [
+      "flavor-zhejiang-d537ede1bf"
+    ],
+    "南浔桔红糕.JPG": [
+      "flavor-zhejiang-d537ede1bf"
+    ],
+    "新市茶糕.jpg": [
+      "flavor-zhejiang-680b7ca8ca"
+    ],
+    "新市茶糕.JPG": [
+      "flavor-zhejiang-680b7ca8ca"
+    ],
+    "钟管老鸭煲.jpg": [
+      "flavor-zhejiang-694b3d45e9"
+    ],
+    "钟管老鸭煲.JPG": [
+      "flavor-zhejiang-694b3d45e9"
+    ],
+    "安吉本鸡煲.jpg": [
+      "flavor-zhejiang-e23316ec3c"
+    ],
+    "安吉本鸡煲.JPG": [
+      "flavor-zhejiang-e23316ec3c"
+    ],
+    "张一品酱羊肉.jpg": [
+      "flavor-zhejiang-a2406cdb0c"
+    ],
+    "张一品酱羊肉.JPG": [
+      "flavor-zhejiang-a2406cdb0c"
+    ],
+    "霉苋菜梗.jpg": [
+      "flavor-zhejiang-96a2482fa2"
+    ],
+    "霉苋菜梗.JPG": [
+      "flavor-zhejiang-96a2482fa2"
+    ],
+    "绍兴醉蟹.jpg": [
+      "flavor-zhejiang-efcb134b62"
+    ],
+    "绍兴醉蟹.JPG": [
+      "flavor-zhejiang-efcb134b62"
+    ],
+    "绍兴臭豆腐.jpg": [
+      "flavor-zhejiang-0efcd08ba8"
+    ],
+    "绍兴臭豆腐.JPG": [
+      "flavor-zhejiang-0efcd08ba8"
+    ],
+    "西施豆腐.jpg": [
+      "flavor-zhejiang-75dc780016"
+    ],
+    "西施豆腐.JPG": [
+      "flavor-zhejiang-75dc780016"
+    ],
+    "新昌芋饺.jpg": [
+      "flavor-zhejiang-9f39ff4631"
+    ],
+    "新昌芋饺.JPG": [
+      "flavor-zhejiang-9f39ff4631"
+    ],
+    "新昌春饼.jpg": [
+      "flavor-zhejiang-a1e8193b8b"
+    ],
+    "新昌春饼.JPG": [
+      "flavor-zhejiang-a1e8193b8b"
+    ],
+    "大佛龙井.jpg": [
+      "flavor-zhejiang-5a12ff0716"
+    ],
+    "大佛龙井.JPG": [
+      "flavor-zhejiang-5a12ff0716"
+    ],
+    "日铸茶.jpg": [
+      "flavor-zhejiang-59aae45844"
+    ],
+    "日铸茶.JPG": [
+      "flavor-zhejiang-59aae45844"
+    ],
+    "平水珠茶.jpg": [
+      "flavor-zhejiang-966f5bb63e"
+    ],
+    "平水珠茶.JPG": [
+      "flavor-zhejiang-966f5bb63e"
+    ],
+    "越乡龙井.jpg": [
+      "flavor-zhejiang-8ad58bbea0"
+    ],
+    "越乡龙井.JPG": [
+      "flavor-zhejiang-8ad58bbea0"
+    ],
+    "金华汤包.jpg": [
+      "flavor-zhejiang-0371787652"
+    ],
+    "金华汤包.JPG": [
+      "flavor-zhejiang-0371787652"
+    ],
+    "浦江麦饼.jpg": [
+      "flavor-zhejiang-2944fdf741"
+    ],
+    "浦江麦饼.JPG": [
+      "flavor-zhejiang-2944fdf741"
+    ],
+    "米筛爬.jpg": [
+      "flavor-zhejiang-a1a484e9b6"
+    ],
+    "米筛爬.JPG": [
+      "flavor-zhejiang-a1a484e9b6"
+    ],
+    "磐安云峰.jpg": [
+      "flavor-zhejiang-af02039c34"
+    ],
+    "磐安云峰.JPG": [
+      "flavor-zhejiang-af02039c34"
+    ],
+    "宣莲羹.jpg": [
+      "flavor-zhejiang-12af55825d"
+    ],
+    "宣莲羹.JPG": [
+      "flavor-zhejiang-12af55825d"
+    ],
+    "木莲豆腐.jpg": [
+      "flavor-zhejiang-ffbd6ab60b"
+    ],
+    "木莲豆腐.JPG": [
+      "flavor-zhejiang-ffbd6ab60b"
+    ],
+    "永康豆腐皮.jpg": [
+      "flavor-zhejiang-bc36f44252"
+    ],
+    "永康豆腐皮.JPG": [
+      "flavor-zhejiang-bc36f44252"
+    ],
+    "开化汽糕.jpg": [
+      "flavor-zhejiang-0aa72b5f9a"
+    ],
+    "开化汽糕.JPG": [
+      "flavor-zhejiang-0aa72b5f9a"
+    ],
+    "开化龙顶.jpg": [
+      "flavor-zhejiang-fa8d963e08"
+    ],
+    "开化龙顶.JPG": [
+      "flavor-zhejiang-fa8d963e08"
+    ],
+    "葱花馒头.jpg": [
+      "flavor-zhejiang-cfbb32e120"
+    ],
+    "葱花馒头.JPG": [
+      "flavor-zhejiang-cfbb32e120"
+    ],
+    "何田清水鱼.jpg": [
+      "flavor-zhejiang-a9245a8ba8"
+    ],
+    "何田清水鱼.JPG": [
+      "flavor-zhejiang-a9245a8ba8"
+    ],
+    "马金豆腐干.jpg": [
+      "flavor-zhejiang-51986085ae"
+    ],
+    "马金豆腐干.JPG": [
+      "flavor-zhejiang-51986085ae"
+    ],
+    "江山绿牡丹.jpg": [
+      "flavor-zhejiang-9e84031bde"
+    ],
+    "江山绿牡丹.JPG": [
+      "flavor-zhejiang-9e84031bde"
+    ],
+    "舟山海鲜面.jpg": [
+      "flavor-zhejiang-b4f2f0dfc2"
+    ],
+    "舟山海鲜面.JPG": [
+      "flavor-zhejiang-b4f2f0dfc2"
+    ],
+    "梭子蟹炒年糕.jpg": [
+      "flavor-zhejiang-400930ab2f"
+    ],
+    "梭子蟹炒年糕.JPG": [
+      "flavor-zhejiang-400930ab2f"
+    ],
+    "铁板蛏子.jpg": [
+      "flavor-zhejiang-c7fcb348bd"
+    ],
+    "铁板蛏子.JPG": [
+      "flavor-zhejiang-c7fcb348bd"
+    ],
+    "虎头鱼豆腐汤.jpg": [
+      "flavor-zhejiang-d9f8431dec"
+    ],
+    "虎头鱼豆腐汤.JPG": [
+      "flavor-zhejiang-d9f8431dec"
+    ],
+    "黄鱼鲞烤猪肉.jpg": [
+      "flavor-zhejiang-9f5fb71dfc"
+    ],
+    "黄鱼鲞烤猪肉.JPG": [
+      "flavor-zhejiang-9f5fb71dfc"
+    ],
+    "嵊泗贻贝.jpg": [
+      "flavor-zhejiang-4c5aedc69c"
+    ],
+    "嵊泗贻贝.JPG": [
+      "flavor-zhejiang-4c5aedc69c"
+    ],
+    "岱山蓬莱仙芝.jpg": [
+      "flavor-zhejiang-8f9837c665"
+    ],
+    "岱山蓬莱仙芝.JPG": [
+      "flavor-zhejiang-8f9837c665"
+    ],
+    "东沙香干.jpg": [
+      "flavor-zhejiang-ef91bb83b4"
+    ],
+    "东沙香干.JPG": [
+      "flavor-zhejiang-ef91bb83b4"
+    ],
+    "糟鲳鱼.jpg": [
+      "flavor-zhejiang-8960793cfc"
+    ],
+    "糟鲳鱼.JPG": [
+      "flavor-zhejiang-8960793cfc"
+    ],
+    "临海麦虾.jpg": [
+      "flavor-zhejiang-6599354056"
+    ],
+    "临海麦虾.JPG": [
+      "flavor-zhejiang-6599354056"
+    ],
+    "台州麦饼.jpg": [
+      "flavor-zhejiang-9e20bd90ba"
+    ],
+    "台州麦饼.JPG": [
+      "flavor-zhejiang-9e20bd90ba"
+    ],
+    "三门青蟹.jpg": [
+      "flavor-zhejiang-68e1cc0e06"
+    ],
+    "三门青蟹.JPG": [
+      "flavor-zhejiang-68e1cc0e06"
+    ],
+    "三门麻糍.jpg": [
+      "flavor-zhejiang-3c655b5894"
+    ],
+    "三门麻糍.JPG": [
+      "flavor-zhejiang-3c655b5894"
+    ],
+    "糊拉汰.jpg": [
+      "flavor-zhejiang-756a453a99"
+    ],
+    "糊拉汰.JPG": [
+      "flavor-zhejiang-756a453a99"
+    ],
+    "天台青饺.jpg": [
+      "flavor-zhejiang-568ea8450a"
+    ],
+    "天台青饺.JPG": [
+      "flavor-zhejiang-568ea8450a"
+    ],
+    "仙居八大碗.jpg": [
+      "flavor-zhejiang-a23181ee18"
+    ],
+    "仙居八大碗.JPG": [
+      "flavor-zhejiang-a23181ee18"
+    ],
+    "天台什锦糕.jpg": [
+      "flavor-zhejiang-769f8a846e"
+    ],
+    "天台什锦糕.JPG": [
+      "flavor-zhejiang-769f8a846e"
+    ],
+    "庆元烧梅.jpg": [
+      "flavor-zhejiang-0dc6882641"
+    ],
+    "庆元烧梅.JPG": [
+      "flavor-zhejiang-0dc6882641"
+    ],
+    "庆元笋粽.jpg": [
+      "flavor-zhejiang-70490da46b"
+    ],
+    "庆元笋粽.JPG": [
+      "flavor-zhejiang-70490da46b"
+    ],
+    "缙云土面.jpg": [
+      "flavor-zhejiang-642bb5b8d3"
+    ],
+    "缙云土面.JPG": [
+      "flavor-zhejiang-642bb5b8d3"
+    ],
+    "松阳银猴.jpg": [
+      "flavor-zhejiang-145e2f75b1"
+    ],
+    "松阳银猴.JPG": [
+      "flavor-zhejiang-145e2f75b1"
+    ],
+    "三井毛峰.jpg": [
+      "flavor-zhejiang-a2141f51ce"
+    ],
+    "三井毛峰.JPG": [
+      "flavor-zhejiang-a2141f51ce"
+    ],
+    "景宁惠明茶.jpg": [
+      "flavor-zhejiang-60a98fb330"
+    ],
+    "景宁惠明茶.JPG": [
+      "flavor-zhejiang-60a98fb330"
+    ],
+    "湖州千张包.jpg": [
+      "flavor-zhejiang-fad70612e0"
+    ],
+    "湖州千张包.JPG": [
+      "flavor-zhejiang-fad70612e0"
+    ],
+    "皮肚面.jpg": [
+      "flavor-jiangsu-f3a8026ec8"
+    ],
+    "皮肚面.JPG": [
+      "flavor-jiangsu-f3a8026ec8"
+    ],
+    "如意回卤干.jpg": [
+      "flavor-jiangsu-886c3f2c40"
+    ],
+    "如意回卤干.JPG": [
+      "flavor-jiangsu-886c3f2c40"
+    ],
+    "状元豆.jpg": [
+      "flavor-jiangsu-d8d029b46a"
+    ],
+    "状元豆.JPG": [
+      "flavor-jiangsu-d8d029b46a"
+    ],
+    "龙袍蟹黄包.jpg": [
+      "flavor-jiangsu-68b3a5aa76"
+    ],
+    "龙袍蟹黄包.JPG": [
+      "flavor-jiangsu-68b3a5aa76"
+    ],
+    "桂花糖芋苗.jpg": [
+      "flavor-jiangsu-4f3d113057"
+    ],
+    "桂花糖芋苗.JPG": [
+      "flavor-jiangsu-4f3d113057"
+    ],
+    "赤豆元宵.jpg": [
+      "flavor-jiangsu-ef6b20f987"
+    ],
+    "赤豆元宵.JPG": [
+      "flavor-jiangsu-ef6b20f987"
+    ],
+    "鸭油酥烧饼.jpg": [
+      "flavor-jiangsu-dc962a8f81"
+    ],
+    "鸭油酥烧饼.JPG": [
+      "flavor-jiangsu-dc962a8f81"
+    ],
+    "肉酿面筋.jpg": [
+      "flavor-jiangsu-f7b963320d"
+    ],
+    "肉酿面筋.JPG": [
+      "flavor-jiangsu-f7b963320d"
+    ],
+    "无锡三鲜馄饨.jpg": [
+      "flavor-jiangsu-d13f9cbba7"
+    ],
+    "无锡三鲜馄饨.JPG": [
+      "flavor-jiangsu-d13f9cbba7"
+    ],
+    "玉兰饼.jpg": [
+      "flavor-jiangsu-614a338f09"
+    ],
+    "玉兰饼.JPG": [
+      "flavor-jiangsu-614a338f09"
+    ],
+    "阳羡雪芽.jpg": [
+      "flavor-jiangsu-a11e87e6b5"
+    ],
+    "阳羡雪芽.JPG": [
+      "flavor-jiangsu-a11e87e6b5"
+    ],
+    "和桥豆腐干.jpg": [
+      "flavor-jiangsu-8eb3c4d0ec"
+    ],
+    "和桥豆腐干.JPG": [
+      "flavor-jiangsu-8eb3c4d0ec"
+    ],
+    "江阴马蹄酥.jpg": [
+      "flavor-jiangsu-b987dd1904"
+    ],
+    "江阴马蹄酥.JPG": [
+      "flavor-jiangsu-b987dd1904"
+    ],
+    "霸王别姬.jpg": [
+      "flavor-jiangsu-793b3491c0"
+    ],
+    "霸王别姬.JPG": [
+      "flavor-jiangsu-793b3491c0"
+    ],
+    "徐州啥汤.jpg": [
+      "flavor-jiangsu-f1fa272deb"
+    ],
+    "徐州啥汤.JPG": [
+      "flavor-jiangsu-f1fa272deb"
+    ],
+    "蛙鱼.jpg": [
+      "flavor-jiangsu-70c2f71073"
+    ],
+    "蛙鱼.JPG": [
+      "flavor-jiangsu-70c2f71073"
+    ],
+    "丰县烧饼.jpg": [
+      "flavor-jiangsu-cd43e8355c"
+    ],
+    "丰县烧饼.JPG": [
+      "flavor-jiangsu-cd43e8355c"
+    ],
+    "沛公酒.jpg": [
+      "flavor-jiangsu-833b9e50ec"
+    ],
+    "沛公酒.JPG": [
+      "flavor-jiangsu-833b9e50ec"
+    ],
+    "徐州烙馍.jpg": [
+      "flavor-jiangsu-816d7b53b6"
+    ],
+    "徐州烙馍.JPG": [
+      "flavor-jiangsu-816d7b53b6"
+    ],
+    "常州素火腿.jpg": [
+      "flavor-jiangsu-3550c9608c"
+    ],
+    "常州素火腿.JPG": [
+      "flavor-jiangsu-3550c9608c"
+    ],
+    "酒酿元宵.jpg": [
+      "flavor-jiangsu-fd6788d92f"
+    ],
+    "酒酿元宵.JPG": [
+      "flavor-jiangsu-fd6788d92f"
+    ],
+    "加蟹小笼包.jpg": [
+      "flavor-jiangsu-d80d5b33c7"
+    ],
+    "加蟹小笼包.JPG": [
+      "flavor-jiangsu-d80d5b33c7"
+    ],
+    "四喜汤团.jpg": [
+      "flavor-jiangsu-80ccd93c01",
+      "program-5466f36df9b6800424"
+    ],
+    "四喜汤团.JPG": [
+      "flavor-jiangsu-80ccd93c01",
+      "program-5466f36df9b6800424"
+    ],
+    "溱潼鱼饼.jpg": [
+      "flavor-jiangsu-da6ebb6414"
+    ],
+    "溱潼鱼饼.JPG": [
+      "flavor-jiangsu-da6ebb6414"
+    ],
+    "枫镇大面.jpg": [
+      "flavor-jiangsu-fd4c1613d4"
+    ],
+    "枫镇大面.JPG": [
+      "flavor-jiangsu-fd4c1613d4"
+    ],
+    "藏书羊肉.jpg": [
+      "flavor-jiangsu-9b61f8355c"
+    ],
+    "藏书羊肉.JPG": [
+      "flavor-jiangsu-9b61f8355c"
+    ],
+    "桂花鸡头米.jpg": [
+      "flavor-jiangsu-222c2cf834"
+    ],
+    "桂花鸡头米.JPG": [
+      "flavor-jiangsu-222c2cf834"
+    ],
+    "苏式鲜肉月饼.jpg": [
+      "flavor-jiangsu-e01650d3e6"
+    ],
+    "苏式鲜肉月饼.JPG": [
+      "flavor-jiangsu-e01650d3e6"
+    ],
+    "太仓肉松.jpg": [
+      "flavor-jiangsu-e59d104932"
+    ],
+    "太仓肉松.JPG": [
+      "flavor-jiangsu-e59d104932"
+    ],
+    "沙洲优黄.jpg": [
+      "flavor-jiangsu-c2597b8797"
+    ],
+    "沙洲优黄.JPG": [
+      "flavor-jiangsu-c2597b8797"
+    ],
+    "太仓糟油.jpg": [
+      "flavor-jiangsu-07b613be05"
+    ],
+    "太仓糟油.JPG": [
+      "flavor-jiangsu-07b613be05"
+    ],
+    "南通跳面.jpg": [
+      "flavor-jiangsu-33f596e0ee"
+    ],
+    "南通跳面.JPG": [
+      "flavor-jiangsu-33f596e0ee"
+    ],
+    "正场熏糕.jpg": [
+      "flavor-jiangsu-1bad85a535"
+    ],
+    "正场熏糕.JPG": [
+      "flavor-jiangsu-1bad85a535"
+    ],
+    "石港窨糕.jpg": [
+      "flavor-jiangsu-8c2d19ce5d"
+    ],
+    "石港窨糕.JPG": [
+      "flavor-jiangsu-8c2d19ce5d"
+    ],
+    "新中乳腐.jpg": [
+      "flavor-jiangsu-f02d53d97c"
+    ],
+    "新中乳腐.JPG": [
+      "flavor-jiangsu-f02d53d97c"
+    ],
+    "南通火饺.jpg": [
+      "flavor-jiangsu-340f3cfead"
+    ],
+    "南通火饺.JPG": [
+      "flavor-jiangsu-340f3cfead"
+    ],
+    "金钱萝卜饼.jpg": [
+      "flavor-jiangsu-e1f53ea939"
+    ],
+    "金钱萝卜饼.JPG": [
+      "flavor-jiangsu-e1f53ea939"
+    ],
+    "文蛤丸子.jpg": [
+      "flavor-jiangsu-8a11dfb3a0"
+    ],
+    "文蛤丸子.JPG": [
+      "flavor-jiangsu-8a11dfb3a0"
+    ],
+    "海安糯米酒.jpg": [
+      "flavor-jiangsu-cb9521d03d"
+    ],
+    "海安糯米酒.JPG": [
+      "flavor-jiangsu-cb9521d03d"
+    ],
+    "李堡麻虾酱.jpg": [
+      "flavor-jiangsu-4bb9a92562"
+    ],
+    "李堡麻虾酱.JPG": [
+      "flavor-jiangsu-4bb9a92562"
+    ],
+    "汤沟酒.jpg": [
+      "flavor-jiangsu-60ae60b3d9"
+    ],
+    "汤沟酒.JPG": [
+      "flavor-jiangsu-60ae60b3d9"
+    ],
+    "花果山云雾茶.jpg": [
+      "flavor-jiangsu-b82d83ffad"
+    ],
+    "花果山云雾茶.JPG": [
+      "flavor-jiangsu-b82d83ffad"
+    ],
+    "汪恕有滴醋.jpg": [
+      "flavor-jiangsu-4409362422"
+    ],
+    "汪恕有滴醋.JPG": [
+      "flavor-jiangsu-4409362422"
+    ],
+    "桃林烧鸡.jpg": [
+      "flavor-jiangsu-26ba72f4be"
+    ],
+    "桃林烧鸡.JPG": [
+      "flavor-jiangsu-26ba72f4be"
+    ],
+    "沙光鱼.jpg": [
+      "flavor-jiangsu-2755214804"
+    ],
+    "沙光鱼.JPG": [
+      "flavor-jiangsu-2755214804"
+    ],
+    "花果山风鹅.jpg": [
+      "flavor-jiangsu-bad8faba7e"
+    ],
+    "花果山风鹅.JPG": [
+      "flavor-jiangsu-bad8faba7e"
+    ],
+    "灌云大糕.jpg": [
+      "flavor-jiangsu-4c48f62974"
+    ],
+    "灌云大糕.JPG": [
+      "flavor-jiangsu-4c48f62974"
+    ],
+    "连云港酒醉螃蟹.jpg": [
+      "flavor-jiangsu-8a5e336eda"
+    ],
+    "连云港酒醉螃蟹.JPG": [
+      "flavor-jiangsu-8a5e336eda"
+    ],
+    "奶汤鱼皮.jpg": [
+      "flavor-jiangsu-e554484beb"
+    ],
+    "奶汤鱼皮.JPG": [
+      "flavor-jiangsu-e554484beb"
+    ],
+    "奇泉酱油.jpg": [
+      "flavor-jiangsu-f8a2a2adcf"
+    ],
+    "奇泉酱油.JPG": [
+      "flavor-jiangsu-f8a2a2adcf"
+    ],
+    "涟水鸡糕.jpg": [
+      "flavor-jiangsu-788b2e7e50"
+    ],
+    "涟水鸡糕.JPG": [
+      "flavor-jiangsu-788b2e7e50"
+    ],
+    "涟水千张.jpg": [
+      "flavor-jiangsu-9afd2574b0"
+    ],
+    "涟水千张.JPG": [
+      "flavor-jiangsu-9afd2574b0"
+    ],
+    "涟水萝卜干.jpg": [
+      "flavor-jiangsu-76ac4b6c7f"
+    ],
+    "涟水萝卜干.JPG": [
+      "flavor-jiangsu-76ac4b6c7f"
+    ],
+    "金湖芡实.jpg": [
+      "flavor-jiangsu-66a66ecdec"
+    ],
+    "金湖芡实.JPG": [
+      "flavor-jiangsu-66a66ecdec"
+    ],
+    "盱眙小龙虾.jpg": [
+      "flavor-jiangsu-d98a0ac065"
+    ],
+    "盱眙小龙虾.JPG": [
+      "flavor-jiangsu-d98a0ac065"
+    ],
+    "淮安茶馓.jpg": [
+      "flavor-jiangsu-664ee08377"
+    ],
+    "淮安茶馓.JPG": [
+      "flavor-jiangsu-664ee08377"
+    ],
+    "钦工肉圆.jpg": [
+      "flavor-jiangsu-36907426de"
+    ],
+    "钦工肉圆.JPG": [
+      "flavor-jiangsu-36907426de"
+    ],
+    "文楼汤包.jpg": [
+      "flavor-jiangsu-8ae7be83a0"
+    ],
+    "文楼汤包.JPG": [
+      "flavor-jiangsu-8ae7be83a0"
+    ],
+    "洪泽小鱼锅贴.jpg": [
+      "flavor-jiangsu-7126c6ce4d"
+    ],
+    "洪泽小鱼锅贴.JPG": [
+      "flavor-jiangsu-7126c6ce4d"
+    ],
+    "涟水捆蹄.jpg": [
+      "flavor-jiangsu-7d6a17d006"
+    ],
+    "涟水捆蹄.JPG": [
+      "flavor-jiangsu-7d6a17d006"
+    ],
+    "阜宁大糕.jpg": [
+      "flavor-jiangsu-d82b6671a6"
+    ],
+    "阜宁大糕.JPG": [
+      "flavor-jiangsu-d82b6671a6"
+    ],
+    "盐城草炉饼.jpg": [
+      "flavor-jiangsu-2920c1e69c"
+    ],
+    "盐城草炉饼.JPG": [
+      "flavor-jiangsu-2920c1e69c"
+    ],
+    "大纵湖醉蟹.jpg": [
+      "flavor-jiangsu-3905af32c3"
+    ],
+    "大纵湖醉蟹.JPG": [
+      "flavor-jiangsu-3905af32c3"
+    ],
+    "葛武酱生姜.jpg": [
+      "flavor-jiangsu-96e38dd9a7"
+    ],
+    "葛武酱生姜.JPG": [
+      "flavor-jiangsu-96e38dd9a7"
+    ],
+    "滨海香肠.jpg": [
+      "flavor-jiangsu-5aba759680"
+    ],
+    "滨海香肠.JPG": [
+      "flavor-jiangsu-5aba759680"
+    ],
+    "滨海牌三伏酱油.jpg": [
+      "flavor-jiangsu-e38789f0a1"
+    ],
+    "滨海牌三伏酱油.JPG": [
+      "flavor-jiangsu-e38789f0a1"
+    ],
+    "五醍浆酒.jpg": [
+      "flavor-jiangsu-04e6a5fd14"
+    ],
+    "五醍浆酒.JPG": [
+      "flavor-jiangsu-04e6a5fd14"
+    ],
+    "奇园蟹黄包.jpg": [
+      "flavor-jiangsu-749a7cf0e4"
+    ],
+    "奇园蟹黄包.JPG": [
+      "flavor-jiangsu-749a7cf0e4"
+    ],
+    "戚桥歪子茶干.jpg": [
+      "flavor-jiangsu-9c92a146f6"
+    ],
+    "戚桥歪子茶干.JPG": [
+      "flavor-jiangsu-9c92a146f6"
+    ],
+    "千层油糕.jpg": [
+      "flavor-jiangsu-886c8438f1"
+    ],
+    "千层油糕.JPG": [
+      "flavor-jiangsu-886c8438f1"
+    ],
+    "翡翠烧麦.jpg": [
+      "flavor-jiangsu-9dcc323f36"
+    ],
+    "翡翠烧麦.JPG": [
+      "flavor-jiangsu-9dcc323f36"
+    ],
+    "仪征绿杨春茶.jpg": [
+      "flavor-jiangsu-3742d8c138"
+    ],
+    "仪征绿杨春茶.JPG": [
+      "flavor-jiangsu-3742d8c138"
+    ],
+    "镇江蟹黄汤包.jpg": [
+      "flavor-jiangsu-fdd1cc53a5"
+    ],
+    "镇江蟹黄汤包.JPG": [
+      "flavor-jiangsu-fdd1cc53a5"
+    ],
+    "白汁鮰鱼.jpg": [
+      "flavor-jiangsu-929e10b790"
+    ],
+    "白汁鮰鱼.JPG": [
+      "flavor-jiangsu-929e10b790"
+    ],
+    "茅山老鹅.jpg": [
+      "flavor-jiangsu-c641b31cbd"
+    ],
+    "茅山老鹅.JPG": [
+      "flavor-jiangsu-c641b31cbd"
+    ],
+    "茅山长青茶.jpg": [
+      "flavor-jiangsu-171c6947ea"
+    ],
+    "茅山长青茶.JPG": [
+      "flavor-jiangsu-171c6947ea"
+    ],
+    "宝华玉笋茶.jpg": [
+      "flavor-jiangsu-ea5ce311cc"
+    ],
+    "宝华玉笋茶.JPG": [
+      "flavor-jiangsu-ea5ce311cc"
+    ],
+    "丹阳封缸酒.jpg": [
+      "flavor-jiangsu-79ad60cfcc"
+    ],
+    "丹阳封缸酒.JPG": [
+      "flavor-jiangsu-79ad60cfcc"
+    ],
+    "秧草包子.jpg": [
+      "flavor-jiangsu-04b3bfd105"
+    ],
+    "秧草包子.JPG": [
+      "flavor-jiangsu-04b3bfd105"
+    ],
+    "镇江糖醋萝卜干.jpg": [
+      "flavor-jiangsu-e03d26593f"
+    ],
+    "镇江糖醋萝卜干.JPG": [
+      "flavor-jiangsu-e03d26593f"
+    ],
+    "黄桥烧饼.jpg": [
+      "flavor-jiangsu-8958cecb9d"
+    ],
+    "黄桥烧饼.JPG": [
+      "flavor-jiangsu-8958cecb9d"
+    ],
+    "靖江蟹黄汤包.jpg": [
+      "flavor-jiangsu-5d1e6b48ad"
+    ],
+    "靖江蟹黄汤包.JPG": [
+      "flavor-jiangsu-5d1e6b48ad"
+    ],
+    "泰州鱼汤面.jpg": [
+      "flavor-jiangsu-fc483b08b9"
+    ],
+    "泰州鱼汤面.JPG": [
+      "flavor-jiangsu-fc483b08b9"
+    ],
+    "季市大炉饼.jpg": [
+      "flavor-jiangsu-55618e219b"
+    ],
+    "季市大炉饼.JPG": [
+      "flavor-jiangsu-55618e219b"
+    ],
+    "宣堡小馄饨.jpg": [
+      "flavor-jiangsu-cbe3743e53"
+    ],
+    "宣堡小馄饨.JPG": [
+      "flavor-jiangsu-cbe3743e53"
+    ],
+    "孔桥百叶.jpg": [
+      "flavor-jiangsu-1ba9b318ed"
+    ],
+    "孔桥百叶.JPG": [
+      "flavor-jiangsu-1ba9b318ed"
+    ],
+    "桂香糖.jpg": [
+      "flavor-jiangsu-b857073fbf"
+    ],
+    "桂香糖.JPG": [
+      "flavor-jiangsu-b857073fbf"
+    ],
+    "五福酱菜.jpg": [
+      "flavor-jiangsu-dfc01af87a"
+    ],
+    "五福酱菜.JPG": [
+      "flavor-jiangsu-dfc01af87a"
+    ],
+    "靖江金波酒.jpg": [
+      "flavor-jiangsu-ebc2cbc874"
+    ],
+    "靖江金波酒.JPG": [
+      "flavor-jiangsu-ebc2cbc874"
+    ],
+    "泗阳膘鸡.jpg": [
+      "flavor-jiangsu-738251d723"
+    ],
+    "泗阳膘鸡.JPG": [
+      "flavor-jiangsu-738251d723"
+    ],
+    "钱集卤鹅.jpg": [
+      "flavor-jiangsu-38c64f990c"
+    ],
+    "钱集卤鹅.JPG": [
+      "flavor-jiangsu-38c64f990c"
+    ],
+    "穿城大饼.jpg": [
+      "flavor-jiangsu-5fa5f920a6"
+    ],
+    "穿城大饼.JPG": [
+      "flavor-jiangsu-5fa5f920a6"
+    ],
+    "王集小团饼.jpg": [
+      "flavor-jiangsu-2f5c10f5b2"
+    ],
+    "王集小团饼.JPG": [
+      "flavor-jiangsu-2f5c10f5b2"
+    ],
+    "马厂馍头.jpg": [
+      "flavor-jiangsu-362d9e1953"
+    ],
+    "马厂馍头.JPG": [
+      "flavor-jiangsu-362d9e1953"
+    ],
+    "庙头千张.jpg": [
+      "flavor-jiangsu-46ed04d0ad"
+    ],
+    "庙头千张.JPG": [
+      "flavor-jiangsu-46ed04d0ad"
+    ],
+    "归仁绿豆饼.jpg": [
+      "flavor-jiangsu-ab5a3c1ef6"
+    ],
+    "归仁绿豆饼.JPG": [
+      "flavor-jiangsu-ab5a3c1ef6"
+    ],
+    "泗洪大闸蟹.jpg": [
+      "flavor-jiangsu-fc05c9ed72"
+    ],
+    "泗洪大闸蟹.JPG": [
+      "flavor-jiangsu-fc05c9ed72"
+    ],
+    "南通嵌桃麻糕.jpg": [
+      "flavor-jiangsu-cf85633184"
+    ],
+    "南通嵌桃麻糕.JPG": [
+      "flavor-jiangsu-cf85633184"
+    ],
+    "金坛雀舌.jpg": [
+      "flavor-jiangsu-952840c1a7"
+    ],
+    "金坛雀舌.JPG": [
+      "flavor-jiangsu-952840c1a7"
+    ],
+    "建湖藕粉圆.jpg": [
+      "flavor-jiangsu-4e8ed3625f"
+    ],
+    "建湖藕粉圆.JPG": [
+      "flavor-jiangsu-4e8ed3625f"
+    ],
+    "泰州干丝.jpg": [
+      "flavor-jiangsu-3d8c9c7faf"
+    ],
+    "泰州干丝.JPG": [
+      "flavor-jiangsu-3d8c9c7faf"
+    ],
+    "双峰牛奶.jpg": [
+      "flavor-zhejiang-7398a8f0ff"
+    ],
+    "双峰牛奶.JPG": [
+      "flavor-zhejiang-7398a8f0ff"
+    ],
+    "双喜牛奶.jpg": [
+      "flavor-jiangsu-7444c0c71c"
+    ],
+    "双喜牛奶.JPG": [
+      "flavor-jiangsu-7444c0c71c"
+    ],
+    "卫岗牛奶.jpg": [
+      "flavor-jiangsu-dab8ddad8b"
+    ],
+    "卫岗牛奶.JPG": [
+      "flavor-jiangsu-dab8ddad8b"
+    ],
+    "快鹿牛奶.jpg": [
+      "flavor-jiangsu-61a53284e1"
+    ],
+    "快鹿牛奶.JPG": [
+      "flavor-jiangsu-61a53284e1"
+    ],
+    "美丽健乳品.jpg": [
+      "flavor-zhejiang-f9932d112c"
+    ],
+    "美丽健乳品.JPG": [
+      "flavor-zhejiang-f9932d112c"
+    ],
+    "宁波牛奶.jpg": [
+      "flavor-zhejiang-6731e08cc7"
+    ],
+    "宁波牛奶.JPG": [
+      "flavor-zhejiang-6731e08cc7"
+    ],
+    "开洋葱油拌面.jpg": [
+      "flavor-shanghai-fef9d5f9dc"
+    ],
+    "开洋葱油拌面.JPG": [
+      "flavor-shanghai-fef9d5f9dc"
+    ],
+    "上海黄鱼面.jpg": [
+      "flavor-shanghai-eba6f92c80"
+    ],
+    "上海黄鱼面.JPG": [
+      "flavor-shanghai-eba6f92c80"
+    ],
+    "上海蟹粉面.jpg": [
+      "flavor-shanghai-b57c5af186"
+    ],
+    "上海蟹粉面.JPG": [
+      "flavor-shanghai-b57c5af186"
+    ],
+    "平阳黄汤.jpg": [
+      "flavor-zhejiang-b9411c1995"
+    ],
+    "平阳黄汤.JPG": [
+      "flavor-zhejiang-b9411c1995"
+    ],
+    "海盐兰丰香茗.jpg": [
+      "flavor-zhejiang-4c34b0a89a"
+    ],
+    "海盐兰丰香茗.JPG": [
+      "flavor-zhejiang-4c34b0a89a"
+    ],
+    "天台山云雾茶.jpg": [
+      "flavor-zhejiang-90583088da"
+    ],
+    "天台山云雾茶.JPG": [
+      "flavor-zhejiang-90583088da"
+    ],
+    "仁昌酱园酱油.jpg": [
+      "flavor-zhejiang-aa6ad12949"
+    ],
+    "仁昌酱园酱油.JPG": [
+      "flavor-zhejiang-aa6ad12949"
+    ],
+    "绍兴酱鸭（安昌做法）.jpg": [
+      "flavor-zhejiang-2377408f11"
+    ],
+    "绍兴酱鸭（安昌做法）.JPG": [
+      "flavor-zhejiang-2377408f11"
+    ],
+    "茉沏.jpg": [
+      "tea-jiangsu-626b4bc35c"
+    ],
+    "茉沏.JPG": [
+      "tea-jiangsu-626b4bc35c"
+    ],
+    "新时沏.jpg": [
+      "tea-zhejiang-8c1308ad41"
+    ],
+    "新时沏.JPG": [
+      "tea-zhejiang-8c1308ad41"
+    ],
+    "兰溪鸡子馃.jpg": [
+      "county-zhejiang-ca51060314"
+    ],
+    "兰溪鸡子馃.JPG": [
+      "county-zhejiang-ca51060314"
+    ],
+    "衢州烤饼.jpg": [
+      "county-zhejiang-3920091c36"
+    ],
+    "衢州烤饼.JPG": [
+      "county-zhejiang-3920091c36"
+    ],
+    "兰溪手擀面.jpg": [
+      "county-zhejiang-5a43422574"
+    ],
+    "兰溪手擀面.JPG": [
+      "county-zhejiang-5a43422574"
+    ],
+    "兰溪咸汤圆.jpg": [
+      "county-zhejiang-1d48f9a41c"
+    ],
+    "兰溪咸汤圆.JPG": [
+      "county-zhejiang-1d48f9a41c"
+    ],
+    "兰溪烧麦.jpg": [
+      "county-zhejiang-51f21c1e29"
+    ],
+    "兰溪烧麦.JPG": [
+      "county-zhejiang-51f21c1e29"
+    ],
+    "兰溪清明粿.jpg": [
+      "county-zhejiang-3f026c8ab0"
+    ],
+    "兰溪清明粿.JPG": [
+      "county-zhejiang-3f026c8ab0"
+    ],
+    "龙游北乡汤团.jpg": [
+      "county-zhejiang-10d77fb660"
+    ],
+    "龙游北乡汤团.JPG": [
+      "county-zhejiang-10d77fb660"
+    ],
+    "龙游粉干.jpg": [
+      "county-zhejiang-a6723e92b5"
+    ],
+    "龙游粉干.JPG": [
+      "county-zhejiang-a6723e92b5"
+    ],
+    "龙游米糊.jpg": [
+      "county-zhejiang-6f5645b85e"
+    ],
+    "龙游米糊.JPG": [
+      "county-zhejiang-6f5645b85e"
+    ],
+    "龙游豆腐丸子.jpg": [
+      "county-zhejiang-73e46a304b"
+    ],
+    "龙游豆腐丸子.JPG": [
+      "county-zhejiang-73e46a304b"
+    ],
+    "苍南海蜈蚣（沙蚕）.jpg": [
+      "county-zhejiang-6551e72666"
+    ],
+    "苍南海蜈蚣（沙蚕）.JPG": [
+      "county-zhejiang-6551e72666"
+    ],
+    "松阳灰汁糕.jpg": [
+      "lead-d4be9039038111"
+    ],
+    "松阳灰汁糕.JPG": [
+      "lead-d4be9039038111"
+    ],
+    "童子尿蛋.jpg": [
+      "lead-c1dc88453067d9"
+    ],
+    "童子尿蛋.JPG": [
+      "lead-c1dc88453067d9"
+    ],
+    "泥蒜冻.jpg": [
+      "lead-19961386eea2c5"
+    ],
+    "泥蒜冻.JPG": [
+      "lead-19961386eea2c5"
+    ],
+    "文成椒盐蜂蛹.jpg": [
+      "lead-b31a98b9198460"
+    ],
+    "文成椒盐蜂蛹.JPG": [
+      "lead-b31a98b9198460"
+    ],
+    "百打糕.jpg": [
+      "lead-a0004679a47bf4"
+    ],
+    "百打糕.JPG": [
+      "lead-a0004679a47bf4"
+    ],
+    "菱毛头.jpg": [
+      "lead-5569c983399fcd"
+    ],
+    "菱毛头.JPG": [
+      "lead-5569c983399fcd"
+    ],
+    "六谷饼.jpg": [
+      "lead-95aa316c17e23e"
+    ],
+    "六谷饼.JPG": [
+      "lead-95aa316c17e23e"
+    ],
+    "海盐藕粉饺.jpg": [
+      "lead-e94fb6b03f4748"
+    ],
+    "海盐藕粉饺.JPG": [
+      "lead-e94fb6b03f4748"
+    ],
+    "绮园大饼.jpg": [
+      "lead-f938ea5ba2e125"
+    ],
+    "绮园大饼.JPG": [
+      "lead-f938ea5ba2e125"
+    ],
+    "天资乳品（唯得、锡山）.jpg": [
+      "lead-wuxi-tianzi"
+    ],
+    "天资乳品（唯得、锡山）.JPG": [
+      "lead-wuxi-tianzi"
+    ],
+    "天资牛牛鲜乳茶.jpg": [
+      "wuxi-tianzi-niuniu"
+    ],
+    "天资牛牛鲜乳茶.JPG": [
+      "wuxi-tianzi-niuniu"
+    ],
+    "金山蟠桃.jpg": [
+      "regional-31ecbb324bb4fe"
+    ],
+    "金山蟠桃.JPG": [
+      "regional-31ecbb324bb4fe"
+    ],
+    "三林崩瓜.jpg": [
+      "regional-264f2621d14e5d"
+    ],
+    "三林崩瓜.JPG": [
+      "regional-264f2621d14e5d"
+    ],
+    "崇明金瓜.jpg": [
+      "regional-e0ff41a2b15035"
+    ],
+    "崇明金瓜.JPG": [
+      "regional-e0ff41a2b15035"
+    ],
+    "亭林雪瓜.jpg": [
+      "regional-5ae51ae140f92b"
+    ],
+    "亭林雪瓜.JPG": [
+      "regional-5ae51ae140f92b"
+    ],
+    "马陆葡萄.jpg": [
+      "regional-121b3f2e1ed3be"
+    ],
+    "马陆葡萄.JPG": [
+      "regional-121b3f2e1ed3be"
+    ],
+    "庄行蜜梨.jpg": [
+      "regional-be4d63ab7a02a1"
+    ],
+    "庄行蜜梨.JPG": [
+      "regional-be4d63ab7a02a1"
+    ],
+    "奉贤黄桃.jpg": [
+      "regional-6aa5367591926c"
+    ],
+    "奉贤黄桃.JPG": [
+      "regional-6aa5367591926c"
+    ],
+    "彭镇青扁豆.jpg": [
+      "regional-c8d472d1a22ec2"
+    ],
+    "彭镇青扁豆.JPG": [
+      "regional-c8d472d1a22ec2"
+    ],
+    "常山胡柚.jpg": [
+      "regional-b71b629407c335"
+    ],
+    "常山胡柚.JPG": [
+      "regional-b71b629407c335"
+    ],
+    "仙居杨梅.jpg": [
+      "regional-0f9a12585365c8"
+    ],
+    "仙居杨梅.JPG": [
+      "regional-0f9a12585365c8"
+    ],
+    "浦江巨峰葡萄.jpg": [
+      "regional-892bbcea57b99b"
+    ],
+    "浦江巨峰葡萄.JPG": [
+      "regional-892bbcea57b99b"
+    ],
+    "邳州板栗.jpg": [
+      "regional-a0b2f131c5d737"
+    ],
+    "邳州板栗.JPG": [
+      "regional-a0b2f131c5d737"
+    ],
+    "如东泥螺.jpg": [
+      "regional-0a928208b0ecab"
+    ],
+    "如东泥螺.JPG": [
+      "regional-0a928208b0ecab"
+    ],
+    "兴化大米.jpg": [
+      "regional-27f20cfe02c449"
+    ],
+    "兴化大米.JPG": [
+      "regional-27f20cfe02c449"
+    ],
+    "赣榆梭子蟹.jpg": [
+      "regional-1878f697e9d0ed"
+    ],
+    "赣榆梭子蟹.JPG": [
+      "regional-1878f697e9d0ed"
+    ],
+    "庆元香菇.jpg": [
+      "regional-38c9295a3cac60"
+    ],
+    "庆元香菇.JPG": [
+      "regional-38c9295a3cac60"
+    ],
+    "开化黑木耳.jpg": [
+      "regional-fe04431310d3c6"
+    ],
+    "开化黑木耳.JPG": [
+      "regional-fe04431310d3c6"
+    ],
+    "江山白菇.jpg": [
+      "regional-8af0d67492d045"
+    ],
+    "江山白菇.JPG": [
+      "regional-8af0d67492d045"
+    ],
+    "临海西兰花.jpg": [
+      "regional-ee4132cfe1d6d2"
+    ],
+    "临海西兰花.JPG": [
+      "regional-ee4132cfe1d6d2"
+    ],
+    "平湖西瓜.jpg": [
+      "regional-e47bf666f4945d"
+    ],
+    "平湖西瓜.JPG": [
+      "regional-e47bf666f4945d"
+    ],
+    "金塘李.jpg": [
+      "regional-971e62df8ec86b"
+    ],
+    "金塘李.JPG": [
+      "regional-971e62df8ec86b"
+    ],
+    "南京金箔.jpg": [
+      "regional-1a530d7092dcb0"
+    ],
+    "南京金箔.JPG": [
+      "regional-1a530d7092dcb0"
+    ],
+    "苏州缂丝.jpg": [
+      "regional-6ad4439b924d2a"
+    ],
+    "苏州缂丝.JPG": [
+      "regional-6ad4439b924d2a"
+    ],
+    "扬州玉雕.jpg": [
+      "regional-011d5679ab0c7d"
+    ],
+    "扬州玉雕.JPG": [
+      "regional-011d5679ab0c7d"
+    ],
+    "扬州漆器.jpg": [
+      "regional-6c556c676d44e0"
+    ],
+    "扬州漆器.JPG": [
+      "regional-6c556c676d44e0"
+    ],
+    "扬州剪纸.jpg": [
+      "regional-2d07a0a68574ea"
+    ],
+    "扬州剪纸.JPG": [
+      "regional-2d07a0a68574ea"
+    ],
+    "南通蓝印花布.jpg": [
+      "regional-7fd90cdcf86c65"
+    ],
+    "南通蓝印花布.JPG": [
+      "regional-7fd90cdcf86c65"
+    ],
+    "龙泉宝剑.jpg": [
+      "regional-ef65a49943ef4d"
+    ],
+    "龙泉宝剑.JPG": [
+      "regional-ef65a49943ef4d"
+    ],
+    "乐清黄杨木雕.jpg": [
+      "regional-80148cd3b298b0"
+    ],
+    "乐清黄杨木雕.JPG": [
+      "regional-80148cd3b298b0"
+    ],
+    "乐清细纹刻纸.jpg": [
+      "regional-c0699d3a31e35e"
+    ],
+    "乐清细纹刻纸.JPG": [
+      "regional-c0699d3a31e35e"
+    ],
+    "湖笔.jpg": [
+      "regional-79e6536081f5e3"
+    ],
+    "湖笔.JPG": [
+      "regional-79e6536081f5e3"
+    ],
+    "仙居花灯.jpg": [
+      "regional-18095277561b47"
+    ],
+    "仙居花灯.JPG": [
+      "regional-18095277561b47"
+    ],
+    "富阳竹纸.jpg": [
+      "regional-23a08a390a85d9"
+    ],
+    "富阳竹纸.JPG": [
+      "regional-23a08a390a85d9"
+    ],
+    "乌泥泾手工棉纺织品.jpg": [
+      "regional-ef32c853822392"
+    ],
+    "乌泥泾手工棉纺织品.JPG": [
+      "regional-ef32c853822392"
+    ],
+    "华士冰油.jpg": [
+      "regional-0556a899e76d7d"
+    ],
+    "华士冰油.JPG": [
+      "regional-0556a899e76d7d"
+    ],
+    "宝应荷藕.jpg": [
+      "lead-web-baoying-lotus"
+    ],
+    "宝应荷藕.JPG": [
+      "lead-web-baoying-lotus"
+    ],
+    "河上桔红糕.jpg": [
+      "county-9270e3167929d6"
+    ],
+    "河上桔红糕.JPG": [
+      "county-9270e3167929d6"
+    ],
+    "塘栖小桃酥.jpg": [
+      "county-6e6ac0481bb8f3"
+    ],
+    "塘栖小桃酥.JPG": [
+      "county-6e6ac0481bb8f3"
+    ],
+    "昌南山牛蒡粿.jpg": [
+      "county-e195be034c060f"
+    ],
+    "昌南山牛蒡粿.JPG": [
+      "county-e195be034c060f"
+    ],
+    "桐庐米粿.jpg": [
+      "county-2c3de7a71bfc32"
+    ],
+    "桐庐米粿.JPG": [
+      "county-2c3de7a71bfc32"
+    ],
+    "安上粉皮.jpg": [
+      "county-e94ff2e1b68af8"
+    ],
+    "安上粉皮.JPG": [
+      "county-e94ff2e1b68af8"
+    ],
+    "建德状元饼.jpg": [
+      "county-0af507918087c0"
+    ],
+    "建德状元饼.JPG": [
+      "county-0af507918087c0"
+    ],
+    "建德水米糕.jpg": [
+      "county-617b37391e3d0c"
+    ],
+    "建德水米糕.JPG": [
+      "county-617b37391e3d0c"
+    ],
+    "三都麻糍.jpg": [
+      "county-b621ef47566622"
+    ],
+    "三都麻糍.JPG": [
+      "county-b621ef47566622"
+    ],
+    "塘栖粢毛肉圆.jpg": [
+      "county-934d0a3bcc0e69"
+    ],
+    "塘栖粢毛肉圆.JPG": [
+      "county-934d0a3bcc0e69"
+    ],
+    "永昌臭豆腐.jpg": [
+      "county-0f717bff82f4a2"
+    ],
+    "永昌臭豆腐.JPG": [
+      "county-0f717bff82f4a2"
+    ],
+    "海曙乌饭麻糍.jpg": [
+      "county-a11dbab0552600"
+    ],
+    "海曙乌饭麻糍.JPG": [
+      "county-a11dbab0552600"
+    ],
+    "北仑虾刺年糕.jpg": [
+      "county-0f14d417c71776"
+    ],
+    "北仑虾刺年糕.JPG": [
+      "county-0f14d417c71776"
+    ],
+    "鄞州阿明包子.jpg": [
+      "county-2df168523dea30"
+    ],
+    "鄞州阿明包子.JPG": [
+      "county-2df168523dea30"
+    ],
+    "奉化千层饼.jpg": [
+      "county-1b8b20507baf90"
+    ],
+    "奉化千层饼.JPG": [
+      "county-1b8b20507baf90"
+    ],
+    "陆埠豆酥糖.jpg": [
+      "county-9cd08305709a26"
+    ],
+    "陆埠豆酥糖.JPG": [
+      "county-9cd08305709a26"
+    ],
+    "宁海麦饼.jpg": [
+      "county-c4761d6e18be3b"
+    ],
+    "宁海麦饼.JPG": [
+      "county-c4761d6e18be3b"
+    ],
+    "象山米馒头.jpg": [
+      "county-f904b934f6af03"
+    ],
+    "象山米馒头.JPG": [
+      "county-f904b934f6af03"
+    ],
+    "象山鱼糍面.jpg": [
+      "county-a80af01d730b9c"
+    ],
+    "象山鱼糍面.JPG": [
+      "county-a80af01d730b9c"
+    ],
+    "龙湾纱面汤.jpg": [
+      "county-b645178d4e274a"
+    ],
+    "龙湾纱面汤.JPG": [
+      "county-b645178d4e274a"
+    ],
+    "乐清瓦头锦.jpg": [
+      "county-5da1babea2e2c1"
+    ],
+    "乐清瓦头锦.JPG": [
+      "county-5da1babea2e2c1"
+    ],
+    "永嘉麦饼.jpg": [
+      "county-c10d7f850f8864"
+    ],
+    "永嘉麦饼.JPG": [
+      "county-c10d7f850f8864"
+    ],
+    "平阳炒粉干.jpg": [
+      "county-18d9c51886d6da"
+    ],
+    "平阳炒粉干.JPG": [
+      "county-18d9c51886d6da"
+    ],
+    "里光婆饼.jpg": [
+      "county-a5cbd12df14ae3"
+    ],
+    "里光婆饼.JPG": [
+      "county-a5cbd12df14ae3"
+    ],
+    "矾山肉燕.jpg": [
+      "county-7a0969fc8211ad"
+    ],
+    "矾山肉燕.JPG": [
+      "county-7a0969fc8211ad"
+    ],
+    "洞头墨鱼饼.jpg": [
+      "county-1418f65fc0122b"
+    ],
+    "洞头墨鱼饼.JPG": [
+      "county-1418f65fc0122b"
+    ],
+    "文成农家绿豆腐.jpg": [
+      "county-f3ce7b76225025"
+    ],
+    "文成农家绿豆腐.JPG": [
+      "county-f3ce7b76225025"
+    ],
+    "湖州茶食四珍.jpg": [
+      "county-2e798a84b2f07d"
+    ],
+    "湖州茶食四珍.JPG": [
+      "county-2e798a84b2f07d"
+    ],
+    "湖州大馄饨.jpg": [
+      "county-959282e13289a1"
+    ],
+    "湖州大馄饨.JPG": [
+      "county-959282e13289a1"
+    ],
+    "南浔红烧羊肉面.jpg": [
+      "county-76caa74a867597"
+    ],
+    "南浔红烧羊肉面.JPG": [
+      "county-76caa74a867597"
+    ],
+    "南浔桑果糕.jpg": [
+      "county-225240819615d4"
+    ],
+    "南浔桑果糕.JPG": [
+      "county-225240819615d4"
+    ],
+    "安吉吴均汤包.jpg": [
+      "county-8039c11dc6014c"
+    ],
+    "安吉吴均汤包.JPG": [
+      "county-8039c11dc6014c"
+    ],
+    "凤桥梅花糕.jpg": [
+      "county-ba0363c1697aaa"
+    ],
+    "凤桥梅花糕.JPG": [
+      "county-ba0363c1697aaa"
+    ],
+    "王江泾芝麻栗酥.jpg": [
+      "county-a2f85c446eb815"
+    ],
+    "王江泾芝麻栗酥.JPG": [
+      "county-a2f85c446eb815"
+    ],
+    "西塘八珍糕.jpg": [
+      "county-b88770603ca654"
+    ],
+    "西塘八珍糕.JPG": [
+      "county-b88770603ca654"
+    ],
+    "平湖蟹壳黄.jpg": [
+      "county-27c75b1c4c6858"
+    ],
+    "平湖蟹壳黄.JPG": [
+      "county-27c75b1c4c6858"
+    ],
+    "乌镇姑嫂饼.jpg": [
+      "county-09ff6176cbcd30"
+    ],
+    "乌镇姑嫂饼.JPG": [
+      "county-09ff6176cbcd30"
+    ],
+    "乌镇定胜糕.jpg": [
+      "county-8c42f2e287ed21"
+    ],
+    "乌镇定胜糕.JPG": [
+      "county-8c42f2e287ed21"
+    ],
+    "嘉善西塘粉蒸肉.jpg": [
+      "county-ac3d5f0832e654"
+    ],
+    "嘉善西塘粉蒸肉.JPG": [
+      "county-ac3d5f0832e654"
+    ],
+    "西施团圆饼.jpg": [
+      "county-8120694dcb176f"
+    ],
+    "西施团圆饼.JPG": [
+      "county-8120694dcb176f"
+    ],
+    "诸暨糖漾.jpg": [
+      "county-6f5cfe71a1e5df"
+    ],
+    "诸暨糖漾.JPG": [
+      "county-6f5cfe71a1e5df"
+    ],
+    "嵊州炒榨面.jpg": [
+      "county-033de905926910"
+    ],
+    "嵊州炒榨面.JPG": [
+      "county-033de905926910"
+    ],
+    "谢塘五香干.jpg": [
+      "county-bc3d34f971befd"
+    ],
+    "谢塘五香干.JPG": [
+      "county-bc3d34f971befd"
+    ],
+    "金华佛手饼.jpg": [
+      "county-1ea5c4acc36720"
+    ],
+    "金华佛手饼.JPG": [
+      "county-1ea5c4acc36720"
+    ],
+    "东阳沃面.jpg": [
+      "county-8d6773813fe342"
+    ],
+    "东阳沃面.JPG": [
+      "county-8d6773813fe342"
+    ],
+    "浦江一根面.jpg": [
+      "county-b7e0867cf491cf"
+    ],
+    "浦江一根面.JPG": [
+      "county-b7e0867cf491cf"
+    ],
+    "武义艾糕.jpg": [
+      "county-c2fae9573e966f"
+    ],
+    "武义艾糕.JPG": [
+      "county-c2fae9573e966f"
+    ],
+    "磐安大蒜饼.jpg": [
+      "county-02f749891d42a6"
+    ],
+    "磐安大蒜饼.JPG": [
+      "county-02f749891d42a6"
+    ],
+    "方前扁食.jpg": [
+      "county-30271f64fc9b63"
+    ],
+    "方前扁食.JPG": [
+      "county-30271f64fc9b63"
+    ],
+    "杜泽灌肠.jpg": [
+      "county-1b0325affb1032"
+    ],
+    "杜泽灌肠.JPG": [
+      "county-1b0325affb1032"
+    ],
+    "江山米糕.jpg": [
+      "county-10452abda324b1"
+    ],
+    "江山米糕.JPG": [
+      "county-10452abda324b1"
+    ],
+    "常山麦香饼.jpg": [
+      "county-48d675976f47ea"
+    ],
+    "常山麦香饼.JPG": [
+      "county-48d675976f47ea"
+    ],
+    "桐村碱水粽.jpg": [
+      "county-0bdee5a3bb5b3b"
+    ],
+    "桐村碱水粽.JPG": [
+      "county-0bdee5a3bb5b3b"
+    ],
+    "普陀观音饼.jpg": [
+      "county-54f1e107445f13"
+    ],
+    "普陀观音饼.JPG": [
+      "county-54f1e107445f13"
+    ],
+    "倭井潭硬糕.jpg": [
+      "county-a49acd4d929bb5"
+    ],
+    "倭井潭硬糕.JPG": [
+      "county-a49acd4d929bb5"
+    ],
+    "舟山带鱼饭.jpg": [
+      "county-6f00f242ded977"
+    ],
+    "舟山带鱼饭.JPG": [
+      "county-6f00f242ded977"
+    ],
+    "椒江姜汁核桃调蛋.jpg": [
+      "county-997eb2829a5203"
+    ],
+    "椒江姜汁核桃调蛋.JPG": [
+      "county-997eb2829a5203"
+    ],
+    "沙埠豆腐干.jpg": [
+      "county-7c5881ed0f1e83"
+    ],
+    "沙埠豆腐干.JPG": [
+      "county-7c5881ed0f1e83"
+    ],
+    "螺洋三宝.jpg": [
+      "county-3d3f1733b7fa22"
+    ],
+    "螺洋三宝.JPG": [
+      "county-3d3f1733b7fa22"
+    ],
+    "临海糟羹.jpg": [
+      "county-8c61f8b90934fc"
+    ],
+    "临海糟羹.JPG": [
+      "county-8c61f8b90934fc"
+    ],
+    "仙居泡鲞.jpg": [
+      "county-4b0aed0268cddf"
+    ],
+    "仙居泡鲞.JPG": [
+      "county-4b0aed0268cddf"
+    ],
+    "黄岩红糖烤糖.jpg": [
+      "county-e544e611fe8709"
+    ],
+    "黄岩红糖烤糖.JPG": [
+      "county-e544e611fe8709"
+    ],
+    "宁溪麦鼓头.jpg": [
+      "county-a2400dd1f4bbfd"
+    ],
+    "宁溪麦鼓头.JPG": [
+      "county-a2400dd1f4bbfd"
+    ],
+    "温岭泡虾.jpg": [
+      "county-10b27f4d048962"
+    ],
+    "温岭泡虾.JPG": [
+      "county-10b27f4d048962"
+    ],
+    "玉环敲鱼皮馄饨.jpg": [
+      "county-202abc83b24ced"
+    ],
+    "玉环敲鱼皮馄饨.JPG": [
+      "county-202abc83b24ced"
+    ],
+    "三门松花饼.jpg": [
+      "county-3ebcae7a657306"
+    ],
+    "三门松花饼.JPG": [
+      "county-3ebcae7a657306"
+    ],
+    "龙泉金观音饼.jpg": [
+      "county-1597178be55d93"
+    ],
+    "龙泉金观音饼.JPG": [
+      "county-1597178be55d93"
+    ],
+    "青田国师饼.jpg": [
+      "county-33005d6867555b"
+    ],
+    "青田国师饼.JPG": [
+      "county-33005d6867555b"
+    ],
+    "云和油筒饼.jpg": [
+      "county-91588bb765e7be"
+    ],
+    "云和油筒饼.JPG": [
+      "county-91588bb765e7be"
+    ],
+    "庆元黄粿.jpg": [
+      "county-1557668417b4da"
+    ],
+    "庆元黄粿.JPG": [
+      "county-1557668417b4da"
+    ],
+    "庆元乌米饭.jpg": [
+      "county-722133bf972660"
+    ],
+    "庆元乌米饭.JPG": [
+      "county-722133bf972660"
+    ],
+    "缙云敲肉羹.jpg": [
+      "county-671f68524ee22e"
+    ],
+    "缙云敲肉羹.JPG": [
+      "county-671f68524ee22e"
+    ],
+    "伊利苏州乳品.jpg": [
+      "county-42617c58722d32"
+    ],
+    "伊利苏州乳品.JPG": [
+      "county-42617c58722d32"
+    ],
+    "金力乳品.jpg": [
+      "county-6def1f7890cf4d"
+    ],
+    "金力乳品.JPG": [
+      "county-6def1f7890cf4d"
+    ],
+    "南京光明乳品.jpg": [
+      "county-a3edc614b8625d"
+    ],
+    "南京光明乳品.JPG": [
+      "county-a3edc614b8625d"
+    ],
+    "扬大康源乳品.jpg": [
+      "county-de55d4527fc139"
+    ],
+    "扬大康源乳品.JPG": [
+      "county-de55d4527fc139"
+    ],
+    "梁丰乳品.jpg": [
+      "county-67c9b35707dfd6"
+    ],
+    "梁丰乳品.JPG": [
+      "county-67c9b35707dfd6"
+    ],
+    "常州红梅乳品.jpg": [
+      "county-ce3297a751a578"
+    ],
+    "常州红梅乳品.JPG": [
+      "county-ce3297a751a578"
+    ],
+    "明治苏州乳品.jpg": [
+      "county-a442c88617077f"
+    ],
+    "明治苏州乳品.JPG": [
+      "county-a442c88617077f"
+    ],
+    "优诺昆山乳品.jpg": [
+      "county-6c53d584694bce"
+    ],
+    "优诺昆山乳品.JPG": [
+      "county-6c53d584694bce"
+    ],
+    "卡士苏州酸奶.jpg": [
+      "county-a6cc838be49400"
+    ],
+    "卡士苏州酸奶.JPG": [
+      "county-a6cc838be49400"
+    ],
+    "一鸣江苏乳品.jpg": [
+      "county-cc9ad8395735b8"
+    ],
+    "一鸣江苏乳品.JPG": [
+      "county-cc9ad8395735b8"
+    ],
+    "健桥乳品.jpg": [
+      "county-a07802cf5130dd"
+    ],
+    "健桥乳品.JPG": [
+      "county-a07802cf5130dd"
+    ],
+    "绿健乳品.jpg": [
+      "county-694bd8b8fc97f6"
+    ],
+    "绿健乳品.JPG": [
+      "county-694bd8b8fc97f6"
+    ],
+    "优格宿迁酸奶.jpg": [
+      "county-7d4abf05969ad0"
+    ],
+    "优格宿迁酸奶.JPG": [
+      "county-7d4abf05969ad0"
+    ],
+    "君乐宝江苏乳品.jpg": [
+      "county-569205c5897b86"
+    ],
+    "君乐宝江苏乳品.JPG": [
+      "county-569205c5897b86"
+    ],
+    "卫岗新沂乳品.jpg": [
+      "county-3bf5f6c2992616"
+    ],
+    "卫岗新沂乳品.JPG": [
+      "county-3bf5f6c2992616"
+    ],
+    "光明银宝乳品.jpg": [
+      "county-a6e482d867620d"
+    ],
+    "光明银宝乳品.JPG": [
+      "county-a6e482d867620d"
+    ],
+    "华兴乳品.jpg": [
+      "county-6ea4548df813b3"
+    ],
+    "华兴乳品.JPG": [
+      "county-6ea4548df813b3"
+    ],
+    "莱益塔奶酪.jpg": [
+      "county-204c0d09f69133"
+    ],
+    "莱益塔奶酪.JPG": [
+      "county-204c0d09f69133"
+    ],
+    "大旺南京调制乳.jpg": [
+      "county-cc2c6fe00f78dc"
+    ],
+    "大旺南京调制乳.JPG": [
+      "county-cc2c6fe00f78dc"
+    ],
+    "练湖乳品.jpg": [
+      "county-968a4c6f16bbed"
+    ],
+    "练湖乳品.JPG": [
+      "county-968a4c6f16bbed"
+    ],
+    "南通红梅乳品.jpg": [
+      "county-6cbcb957983103"
+    ],
+    "南通红梅乳品.JPG": [
+      "county-6cbcb957983103"
+    ],
+    "维扬乳品.jpg": [
+      "county-19fed11b1a24fa"
+    ],
+    "维扬乳品.JPG": [
+      "county-19fed11b1a24fa"
+    ],
+    "三元双宝乳品.jpg": [
+      "county-b3ef0a8f3fc9b3"
+    ],
+    "三元双宝乳品.JPG": [
+      "county-b3ef0a8f3fc9b3"
+    ],
+    "连望乳品.jpg": [
+      "county-05564482fde9df"
+    ],
+    "连望乳品.JPG": [
+      "county-05564482fde9df"
+    ],
+    "蒙牛宿迁乳品.jpg": [
+      "county-b8826e8faa9b71"
+    ],
+    "蒙牛宿迁乳品.JPG": [
+      "county-b8826e8faa9b71"
+    ],
+    "养乐多无锡乳酸菌饮品.jpg": [
+      "county-3ca3ad30befffe"
+    ],
+    "养乐多无锡乳酸菌饮品.JPG": [
+      "county-3ca3ad30befffe"
+    ],
+    "志威乳品与食品配料.jpg": [
+      "county-64f43db7758a47"
+    ],
+    "志威乳品与食品配料.JPG": [
+      "county-64f43db7758a47"
+    ],
+    "河横大米.jpg": [
+      "program-fe851d7994704219c6"
+    ],
+    "河横大米.JPG": [
+      "program-fe851d7994704219c6"
+    ],
+    "宁波金柑.jpg": [
+      "program-6e0af5cb316f590bb6"
+    ],
+    "宁波金柑.JPG": [
+      "program-6e0af5cb316f590bb6"
+    ],
+    "遂昌竹炭.jpg": [
+      "program-b079884931c38deae9"
+    ],
+    "遂昌竹炭.JPG": [
+      "program-b079884931c38deae9"
+    ],
+    "兴化香葱.jpg": [
+      "program-96a573a0e406443bea"
+    ],
+    "兴化香葱.JPG": [
+      "program-96a573a0e406443bea"
+    ],
+    "常山山茶油.jpg": [
+      "program-17e5044b66df5ccbf0"
+    ],
+    "常山山茶油.JPG": [
+      "program-17e5044b66df5ccbf0"
+    ],
+    "严东关五加皮酒.jpg": [
+      "program-9e23efcbe056ea498a"
+    ],
+    "严东关五加皮酒.JPG": [
+      "program-9e23efcbe056ea498a"
+    ],
+    "姚庄蘑菇.jpg": [
+      "program-fe2c916396e0fb9657"
+    ],
+    "姚庄蘑菇.JPG": [
+      "program-fe2c916396e0fb9657"
+    ],
+    "王店三园鸡.jpg": [
+      "program-50787800c20588a7fa"
+    ],
+    "王店三园鸡.JPG": [
+      "program-50787800c20588a7fa"
+    ],
+    "东海水晶.jpg": [
+      "program-ce6673a3ba1e30dc26"
+    ],
+    "东海水晶.JPG": [
+      "program-ce6673a3ba1e30dc26"
+    ],
+    "崇明老毛蟹.jpg": [
+      "program-eeac741fc9f04306ec"
+    ],
+    "崇明老毛蟹.JPG": [
+      "program-eeac741fc9f04306ec"
+    ],
+    "固城湖螃蟹.jpg": [
+      "program-c03f6705407d673f52"
+    ],
+    "固城湖螃蟹.JPG": [
+      "program-c03f6705407d673f52"
+    ],
+    "南通长江河豚(养殖).jpg": [
+      "program-9b514e0aa22ab4f102"
+    ],
+    "南通长江河豚(养殖).JPG": [
+      "program-9b514e0aa22ab4f102"
+    ],
+    "德清早园笋.jpg": [
+      "program-ba036e92775d8f2535"
+    ],
+    "德清早园笋.JPG": [
+      "program-ba036e92775d8f2535"
+    ],
+    "海盐大头菜.jpg": [
+      "program-159e4d2813c613c0f1"
+    ],
+    "海盐大头菜.JPG": [
+      "program-159e4d2813c613c0f1"
+    ],
+    "丁岙杨梅.jpg": [
+      "program-031ae609f8d046cf04"
+    ],
+    "丁岙杨梅.JPG": [
+      "program-031ae609f8d046cf04"
+    ],
+    "崇明老白酒.jpg": [
+      "program-0ecf8670f24a11093c"
+    ],
+    "崇明老白酒.JPG": [
+      "program-0ecf8670f24a11093c"
+    ],
+    "练塘茭白.jpg": [
+      "program-232f448ba80dff3d3b"
+    ],
+    "练塘茭白.JPG": [
+      "program-232f448ba80dff3d3b"
+    ],
+    "东海大米.jpg": [
+      "program-61c1d7e42b8f8667fd"
+    ],
+    "东海大米.JPG": [
+      "program-61c1d7e42b8f8667fd"
+    ],
+    "天目山铁皮石斛.jpg": [
+      "program-c67fec224758b5610e"
+    ],
+    "天目山铁皮石斛.JPG": [
+      "program-c67fec224758b5610e"
+    ],
+    "射阳大米.jpg": [
+      "program-e7dc906ebe38aa1d4e"
+    ],
+    "射阳大米.JPG": [
+      "program-e7dc906ebe38aa1d4e"
+    ],
+    "邳州白蒜.jpg": [
+      "program-b9758472b25d7b72cd"
+    ],
+    "邳州白蒜.JPG": [
+      "program-b9758472b25d7b72cd"
+    ],
+    "长兴吊瓜籽.jpg": [
+      "program-fb9c79c5fa74cb3489"
+    ],
+    "长兴吊瓜籽.JPG": [
+      "program-fb9c79c5fa74cb3489"
+    ],
+    "松阳茶.jpg": [
+      "program-8c1ffcd4ced60b5eb0"
+    ],
+    "松阳茶.JPG": [
+      "program-8c1ffcd4ced60b5eb0"
+    ],
+    "建德苞茶.jpg": [
+      "program-b312efc0c588d3b42d"
+    ],
+    "建德苞茶.JPG": [
+      "program-b312efc0c588d3b42d"
+    ],
+    "盱眙龙虾.jpg": [
+      "program-edf4e769620d541dfa"
+    ],
+    "盱眙龙虾.JPG": [
+      "program-edf4e769620d541dfa"
+    ],
+    "兴化红皮小麦.jpg": [
+      "program-f811957d66321a6ba8"
+    ],
+    "兴化红皮小麦.JPG": [
+      "program-f811957d66321a6ba8"
+    ],
+    "狼山鸡.jpg": [
+      "program-3a0cfd17846c61bca3"
+    ],
+    "狼山鸡.JPG": [
+      "program-3a0cfd17846c61bca3"
+    ],
+    "临海杨梅.jpg": [
+      "program-c1623417b37b463101"
+    ],
+    "临海杨梅.JPG": [
+      "program-c1623417b37b463101"
+    ],
+    "南湖菱.jpg": [
+      "program-09ac783f2e867840fb"
+    ],
+    "南湖菱.JPG": [
+      "program-09ac783f2e867840fb"
+    ],
+    "东海(老)淮猪肉.jpg": [
+      "program-71309850dabc44c795"
+    ],
+    "东海(老)淮猪肉.JPG": [
+      "program-71309850dabc44c795"
+    ],
+    "象山白鹅.jpg": [
+      "program-a0cb546fe73c2dff8e"
+    ],
+    "象山白鹅.JPG": [
+      "program-a0cb546fe73c2dff8e"
+    ],
+    "邳州银杏.jpg": [
+      "program-28ba2e5c8687b64360"
+    ],
+    "邳州银杏.JPG": [
+      "program-28ba2e5c8687b64360"
+    ],
+    "海门山羊肉.jpg": [
+      "program-e1c0fcd2e2ea10f9a5"
+    ],
+    "海门山羊肉.JPG": [
+      "program-e1c0fcd2e2ea10f9a5"
+    ],
+    "惠明茶.jpg": [
+      "program-b0f74da42fe558ec96"
+    ],
+    "惠明茶.JPG": [
+      "program-b0f74da42fe558ec96"
+    ],
+    "里叶白莲.jpg": [
+      "program-0302cc250d8db37d49"
+    ],
+    "里叶白莲.JPG": [
+      "program-0302cc250d8db37d49"
+    ],
+    "衢州莹白瓷.jpg": [
+      "program-d53a44f1ea0975b220"
+    ],
+    "衢州莹白瓷.JPG": [
+      "program-d53a44f1ea0975b220"
+    ],
+    "云和黑木耳.jpg": [
+      "program-e5235698373adb4c6b"
+    ],
+    "云和黑木耳.JPG": [
+      "program-e5235698373adb4c6b"
+    ],
+    "杭州丝绸.jpg": [
+      "program-9107a30f5e325737df"
+    ],
+    "杭州丝绸.JPG": [
+      "program-9107a30f5e325737df"
+    ],
+    "仓桥水晶梨.jpg": [
+      "program-f37054fcc3b4e95797"
+    ],
+    "仓桥水晶梨.JPG": [
+      "program-f37054fcc3b4e95797"
+    ],
+    "洪泽湖大闸蟹.jpg": [
+      "program-28debef04ecd5ab400"
+    ],
+    "洪泽湖大闸蟹.JPG": [
+      "program-28debef04ecd5ab400"
+    ],
+    "窑湾绿豆烧.jpg": [
+      "program-e46184571d958f10c1"
+    ],
+    "窑湾绿豆烧.JPG": [
+      "program-e46184571d958f10c1"
+    ],
+    "灌南金针菇.jpg": [
+      "program-5293ae99d49aebb9dc"
+    ],
+    "灌南金针菇.JPG": [
+      "program-5293ae99d49aebb9dc"
+    ],
+    "黄川草莓.jpg": [
+      "program-85d0f8c2dea5238918"
+    ],
+    "黄川草莓.JPG": [
+      "program-85d0f8c2dea5238918"
+    ],
+    "邳州苔干.jpg": [
+      "program-d18e4daa910de249c9"
+    ],
+    "邳州苔干.JPG": [
+      "program-d18e4daa910de249c9"
+    ],
+    "余姚皮蛋.jpg": [
+      "program-839101635175200696"
+    ],
+    "余姚皮蛋.JPG": [
+      "program-839101635175200696"
+    ],
+    "余姚咸蛋.jpg": [
+      "program-0544c680a18a8f3e96"
+    ],
+    "余姚咸蛋.JPG": [
+      "program-0544c680a18a8f3e96"
+    ],
+    "新沂水蜜桃.jpg": [
+      "program-ac3822bbcaf7f654cc"
+    ],
+    "新沂水蜜桃.JPG": [
+      "program-ac3822bbcaf7f654cc"
+    ],
+    "盐城海盐.jpg": [
+      "program-6a317da3141c40ddb7"
+    ],
+    "盐城海盐.JPG": [
+      "program-6a317da3141c40ddb7"
+    ],
+    "松江大米.jpg": [
+      "program-e58ed7b7b025707748"
+    ],
+    "松江大米.JPG": [
+      "program-e58ed7b7b025707748"
+    ],
+    "石梁河葡萄.jpg": [
+      "program-6b04be959222e58231"
+    ],
+    "石梁河葡萄.JPG": [
+      "program-6b04be959222e58231"
+    ],
+    "大丰东沙紫菜.jpg": [
+      "program-62c49e0766b0a8f83c"
+    ],
+    "大丰东沙紫菜.JPG": [
+      "program-62c49e0766b0a8f83c"
+    ],
+    "径山茶.jpg": [
+      "program-7a34f10e56f5b1045c"
+    ],
+    "径山茶.JPG": [
+      "program-7a34f10e56f5b1045c"
+    ],
+    "大纵湖大闸蟹.jpg": [
+      "program-fbdd4b49886f73413b"
+    ],
+    "大纵湖大闸蟹.JPG": [
+      "program-fbdd4b49886f73413b"
+    ],
+    "兴化大闸蟹.jpg": [
+      "program-a9daf3765a9ec8e91b"
+    ],
+    "兴化大闸蟹.JPG": [
+      "program-a9daf3765a9ec8e91b"
+    ],
+    "板浦滴醋.jpg": [
+      "program-2ede64f4d8a9307072"
+    ],
+    "板浦滴醋.JPG": [
+      "program-2ede64f4d8a9307072"
+    ],
+    "高邮湖大闸蟹.jpg": [
+      "program-31ee1600ede13ff27e"
+    ],
+    "高邮湖大闸蟹.JPG": [
+      "program-31ee1600ede13ff27e"
+    ],
+    "如东条斑紫菜.jpg": [
+      "program-ed164f1c70afad9f5c"
+    ],
+    "如东条斑紫菜.JPG": [
+      "program-ed164f1c70afad9f5c"
+    ],
+    "东海西红柿.jpg": [
+      "program-5c1a72c29fb99ef509"
+    ],
+    "东海西红柿.JPG": [
+      "program-5c1a72c29fb99ef509"
+    ],
+    "如皋黄酒.jpg": [
+      "program-311478152a091e161b"
+    ],
+    "如皋黄酒.JPG": [
+      "program-311478152a091e161b"
+    ],
+    "丁庄葡萄.jpg": [
+      "program-531f4199d2d5ca10a2"
+    ],
+    "丁庄葡萄.JPG": [
+      "program-531f4199d2d5ca10a2"
+    ],
+    "邵伯菱.jpg": [
+      "program-29ae7c2db99a1e5ee3"
+    ],
+    "邵伯菱.JPG": [
+      "program-29ae7c2db99a1e5ee3"
+    ],
+    "如皋火腿.jpg": [
+      "program-88aef3a06c7f3289c4"
+    ],
+    "如皋火腿.JPG": [
+      "program-88aef3a06c7f3289c4"
+    ],
+    "千岛银珍.jpg": [
+      "program-7d92c5916d8e9dd59b"
+    ],
+    "千岛银珍.JPG": [
+      "program-7d92c5916d8e9dd59b"
+    ],
+    "普陀佛茶.jpg": [
+      "program-b99ab57e6be99e02c2"
+    ],
+    "普陀佛茶.JPG": [
+      "program-b99ab57e6be99e02c2"
+    ],
+    "崇明白山羊.jpg": [
+      "program-f609baecc538f8d370"
+    ],
+    "崇明白山羊.JPG": [
+      "program-f609baecc538f8d370"
+    ],
+    "枫泾猪.jpg": [
+      "program-58a6c32e81e3ba244c"
+    ],
+    "枫泾猪.JPG": [
+      "program-58a6c32e81e3ba244c"
+    ],
+    "崇明沙乌头猪.jpg": [
+      "program-5b0978307a41cd75f9"
+    ],
+    "崇明沙乌头猪.JPG": [
+      "program-5b0978307a41cd75f9"
+    ],
+    "白鹤草莓.jpg": [
+      "program-e7a556e1331ae2253d"
+    ],
+    "白鹤草莓.JPG": [
+      "program-e7a556e1331ae2253d"
+    ],
+    "青浦薄稻米.jpg": [
+      "program-2cfbbc5b91eeeb3ddb"
+    ],
+    "青浦薄稻米.JPG": [
+      "program-2cfbbc5b91eeeb3ddb"
+    ],
+    "七宝黄金瓜.jpg": [
+      "program-5e965109d74007b527"
+    ],
+    "七宝黄金瓜.JPG": [
+      "program-5e965109d74007b527"
+    ],
+    "金山翠芽.jpg": [
+      "program-b0f9818f7ab8d4ebf4"
+    ],
+    "金山翠芽.JPG": [
+      "program-b0f9818f7ab8d4ebf4"
+    ],
+    "兴化大青虾.jpg": [
+      "program-6178ddf3010bb7e1b7"
+    ],
+    "兴化大青虾.JPG": [
+      "program-6178ddf3010bb7e1b7"
+    ],
+    "吴江香青菜.jpg": [
+      "program-cb4b3c2e45373818f6"
+    ],
+    "吴江香青菜.JPG": [
+      "program-cb4b3c2e45373818f6"
+    ],
+    "裕华大蒜.jpg": [
+      "program-99c3abd4ae153a38fe"
+    ],
+    "裕华大蒜.JPG": [
+      "program-99c3abd4ae153a38fe"
+    ],
+    "焦溪二花脸猪.jpg": [
+      "program-f7bd2d4aa8906af045"
+    ],
+    "焦溪二花脸猪.JPG": [
+      "program-f7bd2d4aa8906af045"
+    ],
+    "溧阳白芹.jpg": [
+      "program-26782054cd3d5e834f"
+    ],
+    "溧阳白芹.JPG": [
+      "program-26782054cd3d5e834f"
+    ],
+    "泰兴花生.jpg": [
+      "program-7beba680bc0a21feab"
+    ],
+    "泰兴花生.JPG": [
+      "program-7beba680bc0a21feab"
+    ],
+    "贾汪大洞山石榴.jpg": [
+      "program-b4a94d047dfb6494fe"
+    ],
+    "贾汪大洞山石榴.JPG": [
+      "program-b4a94d047dfb6494fe"
+    ],
+    "宝应慈姑.jpg": [
+      "program-edef7a0767b0f574da"
+    ],
+    "宝应慈姑.JPG": [
+      "program-edef7a0767b0f574da"
+    ],
+    "谢湖大樱桃.jpg": [
+      "program-bfff5b27a248ec9a39"
+    ],
+    "谢湖大樱桃.JPG": [
+      "program-bfff5b27a248ec9a39"
+    ],
+    "白马黑莓.jpg": [
+      "program-4e17595d7e6d9f89f7"
+    ],
+    "白马黑莓.JPG": [
+      "program-4e17595d7e6d9f89f7"
+    ],
+    "八集小花生.jpg": [
+      "program-165a6ffbbc9e40c365"
+    ],
+    "八集小花生.JPG": [
+      "program-165a6ffbbc9e40c365"
+    ],
+    "靖江香沙芋.jpg": [
+      "program-a26426fe5f6fe0fcb3"
+    ],
+    "靖江香沙芋.JPG": [
+      "program-a26426fe5f6fe0fcb3"
+    ],
+    "海门黄鸡.jpg": [
+      "program-7ae583fb1597dc444b"
+    ],
+    "海门黄鸡.JPG": [
+      "program-7ae583fb1597dc444b"
+    ],
+    "溧阳鸡.jpg": [
+      "program-1299e37144d203a0ee"
+    ],
+    "溧阳鸡.JPG": [
+      "program-1299e37144d203a0ee"
+    ],
+    "宝应核桃乌青菜.jpg": [
+      "program-d443ff83ab0f383de3"
+    ],
+    "宝应核桃乌青菜.JPG": [
+      "program-d443ff83ab0f383de3"
+    ],
+    "如皋黄鸡.jpg": [
+      "program-f2e2fbfe6b0f4d5917"
+    ],
+    "如皋黄鸡.JPG": [
+      "program-f2e2fbfe6b0f4d5917"
+    ],
+    "建湖青虾.jpg": [
+      "program-7bfc678cd7d3a69648"
+    ],
+    "建湖青虾.JPG": [
+      "program-7bfc678cd7d3a69648"
+    ],
+    "泰兴荞麦.jpg": [
+      "program-a3e116eea5f4e82b2d"
+    ],
+    "泰兴荞麦.JPG": [
+      "program-a3e116eea5f4e82b2d"
+    ],
+    "淮安蒲菜.jpg": [
+      "program-a1ede2b78f61b84217"
+    ],
+    "淮安蒲菜.JPG": [
+      "program-a1ede2b78f61b84217"
+    ],
+    "海门香芋.jpg": [
+      "program-44cde5416be75c805a"
+    ],
+    "海门香芋.JPG": [
+      "program-44cde5416be75c805a"
+    ],
+    "阜宁西瓜.jpg": [
+      "program-975897972bd2f2b932"
+    ],
+    "阜宁西瓜.JPG": [
+      "program-975897972bd2f2b932"
+    ],
+    "泰兴元麦.jpg": [
+      "program-d25d1ac6eb5f2fc4ee"
+    ],
+    "泰兴元麦.JPG": [
+      "program-d25d1ac6eb5f2fc4ee"
+    ],
+    "启东青皮长茄.jpg": [
+      "program-4ac0992ab947170a95"
+    ],
+    "启东青皮长茄.JPG": [
+      "program-4ac0992ab947170a95"
+    ],
+    "启东洋扁豆.jpg": [
+      "program-9da74153e869f54f99"
+    ],
+    "启东洋扁豆.JPG": [
+      "program-9da74153e869f54f99"
+    ],
+    "万年香沙芋艿.jpg": [
+      "program-e51a82b00084bce2fb"
+    ],
+    "万年香沙芋艿.JPG": [
+      "program-e51a82b00084bce2fb"
+    ],
+    "泰兴香荷芋.jpg": [
+      "program-237d1e4579a1640521"
+    ],
+    "泰兴香荷芋.JPG": [
+      "program-237d1e4579a1640521"
+    ],
+    "吴中鸡头米.jpg": [
+      "program-fdd6246a7f38b22e9f"
+    ],
+    "吴中鸡头米.JPG": [
+      "program-fdd6246a7f38b22e9f"
+    ],
+    "启东绿皮蚕豆.jpg": [
+      "program-c8ea6b66551333c7d0"
+    ],
+    "启东绿皮蚕豆.JPG": [
+      "program-c8ea6b66551333c7d0"
+    ],
+    "林苗圃早酥梨.jpg": [
+      "program-21f13fdc8bf9cf2dfc"
+    ],
+    "林苗圃早酥梨.JPG": [
+      "program-21f13fdc8bf9cf2dfc"
+    ],
+    "花园酥梨.jpg": [
+      "program-5283ba44455cc79fc5"
+    ],
+    "花园酥梨.JPG": [
+      "program-5283ba44455cc79fc5"
+    ],
+    "海门大红袍赤豆.jpg": [
+      "program-3ae9804b63845fed35"
+    ],
+    "海门大红袍赤豆.JPG": [
+      "program-3ae9804b63845fed35"
+    ],
+    "启东沙地山药.jpg": [
+      "program-d9706e4395c48f3292"
+    ],
+    "启东沙地山药.JPG": [
+      "program-d9706e4395c48f3292"
+    ],
+    "罗圩香茄.jpg": [
+      "program-5c140fccd13a3c92e2"
+    ],
+    "罗圩香茄.JPG": [
+      "program-5c140fccd13a3c92e2"
+    ],
+    "杉荷园莲藕.jpg": [
+      "program-549ff4a8451701c149"
+    ],
+    "杉荷园莲藕.JPG": [
+      "program-549ff4a8451701c149"
+    ],
+    "启东芦稷.jpg": [
+      "program-5ecb48106cda7954c4"
+    ],
+    "启东芦稷.JPG": [
+      "program-5ecb48106cda7954c4"
+    ],
+    "海门大白皮蚕豆.jpg": [
+      "program-948d1083bcebf97adc"
+    ],
+    "海门大白皮蚕豆.JPG": [
+      "program-948d1083bcebf97adc"
+    ],
+    "横溪西瓜.jpg": [
+      "program-bee571526a28f516ec"
+    ],
+    "横溪西瓜.JPG": [
+      "program-bee571526a28f516ec"
+    ],
+    "泗阳鲜桃.jpg": [
+      "program-1701374b3df07ce70f"
+    ],
+    "泗阳鲜桃.JPG": [
+      "program-1701374b3df07ce70f"
+    ],
+    "高墟大米.jpg": [
+      "program-4b825a7c79bc3084b0"
+    ],
+    "高墟大米.JPG": [
+      "program-4b825a7c79bc3084b0"
+    ],
+    "姜堰大米.jpg": [
+      "program-c8ef2925559d6c25c5"
+    ],
+    "姜堰大米.JPG": [
+      "program-c8ef2925559d6c25c5"
+    ],
+    "东台大米.jpg": [
+      "program-a0a8e3f81f4f45b70c"
+    ],
+    "东台大米.JPG": [
+      "program-a0a8e3f81f4f45b70c"
+    ],
+    "沈灶青椒.jpg": [
+      "program-d0bbc6c79bf57467f8"
+    ],
+    "沈灶青椒.JPG": [
+      "program-d0bbc6c79bf57467f8"
+    ],
+    "利民芦蒿.jpg": [
+      "program-889e79341810d25c95"
+    ],
+    "利民芦蒿.JPG": [
+      "program-889e79341810d25c95"
+    ],
+    "四河青萝卜.jpg": [
+      "program-367d4467c6179c4396"
+    ],
+    "四河青萝卜.JPG": [
+      "program-367d4467c6179c4396"
+    ],
+    "东台西瓜.jpg": [
+      "program-dbd607e2ea53bf4ddc"
+    ],
+    "东台西瓜.JPG": [
+      "program-dbd607e2ea53bf4ddc"
+    ],
+    "潼阳西瓜.jpg": [
+      "program-f129042c62e3c10a4b"
+    ],
+    "潼阳西瓜.JPG": [
+      "program-f129042c62e3c10a4b"
+    ],
+    "土桥大米.jpg": [
+      "program-5f3a0db350de0e878f"
+    ],
+    "土桥大米.JPG": [
+      "program-5f3a0db350de0e878f"
+    ],
+    "宿迁籼米.jpg": [
+      "program-2e3bef459542f01c86"
+    ],
+    "宿迁籼米.JPG": [
+      "program-2e3bef459542f01c86"
+    ],
+    "董浜筒管玉丝瓜.jpg": [
+      "program-cc406941b05ae7e061"
+    ],
+    "董浜筒管玉丝瓜.JPG": [
+      "program-cc406941b05ae7e061"
+    ],
+    "王庄西瓜.jpg": [
+      "program-100b81fd8c50389eb6"
+    ],
+    "王庄西瓜.JPG": [
+      "program-100b81fd8c50389eb6"
+    ],
+    "马山杨梅.jpg": [
+      "program-7ebecd23e2a663b7e6"
+    ],
+    "马山杨梅.JPG": [
+      "program-7ebecd23e2a663b7e6"
+    ],
+    "铜山金杏.jpg": [
+      "program-3f2ef34e2ff8ea2a6e"
+    ],
+    "铜山金杏.JPG": [
+      "program-3f2ef34e2ff8ea2a6e"
+    ],
+    "陈集葡萄.jpg": [
+      "program-000ccb77dea239577e"
+    ],
+    "陈集葡萄.JPG": [
+      "program-000ccb77dea239577e"
+    ],
+    "东山白沙枇杷.jpg": [
+      "program-8bce3cb68917f0dc5d"
+    ],
+    "东山白沙枇杷.JPG": [
+      "program-8bce3cb68917f0dc5d"
+    ],
+    "响水西兰花.jpg": [
+      "program-d5b622a12442cdaee9"
+    ],
+    "响水西兰花.JPG": [
+      "program-d5b622a12442cdaee9"
+    ],
+    "弶港甜叶菊.jpg": [
+      "program-7283aef4bb568210fb"
+    ],
+    "弶港甜叶菊.JPG": [
+      "program-7283aef4bb568210fb"
+    ],
+    "仪征紫菜薹.jpg": [
+      "program-d77809b55e0bd1e073"
+    ],
+    "仪征紫菜薹.JPG": [
+      "program-d77809b55e0bd1e073"
+    ],
+    "泗阳白酥梨.jpg": [
+      "program-efeca31dd6877ba8e6"
+    ],
+    "泗阳白酥梨.JPG": [
+      "program-efeca31dd6877ba8e6"
+    ],
+    "魏营西瓜.jpg": [
+      "program-715d869ea4206c44e7"
+    ],
+    "魏营西瓜.JPG": [
+      "program-715d869ea4206c44e7"
+    ],
+    "龙集莲子.jpg": [
+      "program-5cdadebf17cf81ee96"
+    ],
+    "龙集莲子.JPG": [
+      "program-5cdadebf17cf81ee96"
+    ],
+    "下原蘘荷.jpg": [
+      "program-d19ac0413b8d4ca83d"
+    ],
+    "下原蘘荷.JPG": [
+      "program-d19ac0413b8d4ca83d"
+    ],
+    "凤凰水蜜桃.jpg": [
+      "program-b08ddbf5ceae160e58"
+    ],
+    "凤凰水蜜桃.JPG": [
+      "program-b08ddbf5ceae160e58"
+    ],
+    "溱湖簖蟹.jpg": [
+      "program-8a866f1b44508d2cb3"
+    ],
+    "溱湖簖蟹.JPG": [
+      "program-8a866f1b44508d2cb3"
+    ],
+    "董浜黄金小玉米.jpg": [
+      "program-e526c1be014db4090f"
+    ],
+    "董浜黄金小玉米.JPG": [
+      "program-e526c1be014db4090f"
+    ],
+    "天岗湖蜜桃.jpg": [
+      "program-4eab009f4bd733946c"
+    ],
+    "天岗湖蜜桃.JPG": [
+      "program-4eab009f4bd733946c"
+    ],
+    "棠张桑果.jpg": [
+      "program-4fc6bbefeaee40de1b"
+    ],
+    "棠张桑果.JPG": [
+      "program-4fc6bbefeaee40de1b"
+    ],
+    "西山青种枇杷.jpg": [
+      "program-e3b1d9cf60609d3089"
+    ],
+    "西山青种枇杷.JPG": [
+      "program-e3b1d9cf60609d3089"
+    ],
+    "树山杨梅.jpg": [
+      "program-3e04ae2ea27d92ebb7"
+    ],
+    "树山杨梅.JPG": [
+      "program-3e04ae2ea27d92ebb7"
+    ],
+    "仰化荷藕.jpg": [
+      "program-d684543f159626b154"
+    ],
+    "仰化荷藕.JPG": [
+      "program-d684543f159626b154"
+    ],
+    "许河冬瓜.jpg": [
+      "program-1012386b156d7f8d71"
+    ],
+    "许河冬瓜.JPG": [
+      "program-1012386b156d7f8d71"
+    ],
+    "太仓白蒜.jpg": [
+      "program-f2f13abcca21bd0860"
+    ],
+    "太仓白蒜.JPG": [
+      "program-f2f13abcca21bd0860"
+    ],
+    "龙池鲫鱼.jpg": [
+      "program-e649205131e72039f0"
+    ],
+    "龙池鲫鱼.JPG": [
+      "program-e649205131e72039f0"
+    ],
+    "永宁青虾.jpg": [
+      "program-12df552abb24a2fd2b"
+    ],
+    "永宁青虾.JPG": [
+      "program-12df552abb24a2fd2b"
+    ],
+    "泰兴江沙蟹.jpg": [
+      "program-2c9aa2e2e7379d8eea"
+    ],
+    "泰兴江沙蟹.JPG": [
+      "program-2c9aa2e2e7379d8eea"
+    ],
+    "东海老淮猪.jpg": [
+      "program-664cee6582a1a02578"
+    ],
+    "东海老淮猪.JPG": [
+      "program-664cee6582a1a02578"
+    ],
+    "黄尖菊花.jpg": [
+      "program-8d95b2a687fcf6dd0f"
+    ],
+    "黄尖菊花.JPG": [
+      "program-8d95b2a687fcf6dd0f"
+    ],
+    "吕墅萝卜.jpg": [
+      "program-332381b4464d32815b"
+    ],
+    "吕墅萝卜.JPG": [
+      "program-332381b4464d32815b"
+    ],
+    "盐东羊角椒.jpg": [
+      "program-141043aa3b4072c57b"
+    ],
+    "盐东羊角椒.JPG": [
+      "program-141043aa3b4072c57b"
+    ],
+    "新毛芋艿.jpg": [
+      "program-9dda37c47ab7d9fe9c"
+    ],
+    "新毛芋艿.JPG": [
+      "program-9dda37c47ab7d9fe9c"
+    ],
+    "响水浅水藕.jpg": [
+      "program-96f558971915da6175"
+    ],
+    "响水浅水藕.JPG": [
+      "program-96f558971915da6175"
+    ],
+    "如东蘘荷.jpg": [
+      "program-455df1827077737c1e"
+    ],
+    "如东蘘荷.JPG": [
+      "program-455df1827077737c1e"
+    ],
+    "弶港文蛤.jpg": [
+      "program-16a167fde999889a64"
+    ],
+    "弶港文蛤.JPG": [
+      "program-16a167fde999889a64"
+    ],
+    "弶港泥螺.jpg": [
+      "program-eacbf68b82b0b02af8"
+    ],
+    "弶港泥螺.JPG": [
+      "program-eacbf68b82b0b02af8"
+    ],
+    "龙虬罗氏沼虾.jpg": [
+      "program-4e1ec8c9d3f67c066c"
+    ],
+    "龙虬罗氏沼虾.JPG": [
+      "program-4e1ec8c9d3f67c066c"
+    ],
+    "富财圩螃蟹.jpg": [
+      "program-f369a901125d87d017"
+    ],
+    "富财圩螃蟹.JPG": [
+      "program-f369a901125d87d017"
+    ],
+    "泰兴雪梨.jpg": [
+      "program-ae186a0b85daa1b795"
+    ],
+    "泰兴雪梨.JPG": [
+      "program-ae186a0b85daa1b795"
+    ],
+    "骑岸大方柿.jpg": [
+      "program-f11e66aac849a6a9fc"
+    ],
+    "骑岸大方柿.JPG": [
+      "program-f11e66aac849a6a9fc"
+    ],
+    "张浦黄桃.jpg": [
+      "program-082ca87af5fc1a9a9c"
+    ],
+    "张浦黄桃.JPG": [
+      "program-082ca87af5fc1a9a9c"
+    ],
+    "恒北早酥梨.jpg": [
+      "program-ae7404f0e29ba02198"
+    ],
+    "恒北早酥梨.JPG": [
+      "program-ae7404f0e29ba02198"
+    ],
+    "石桥黄桃.jpg": [
+      "program-58262a36f2ba83f732"
+    ],
+    "石桥黄桃.JPG": [
+      "program-58262a36f2ba83f732"
+    ],
+    "阳湖水蜜桃.jpg": [
+      "program-af3d6915473dd0bf5d"
+    ],
+    "阳湖水蜜桃.JPG": [
+      "program-af3d6915473dd0bf5d"
+    ],
+    "潼阳花生.jpg": [
+      "program-ecbbbef1513e80a433"
+    ],
+    "潼阳花生.JPG": [
+      "program-ecbbbef1513e80a433"
+    ],
+    "新官紫桃.jpg": [
+      "program-398b3942ec9c5b0c90"
+    ],
+    "新官紫桃.JPG": [
+      "program-398b3942ec9c5b0c90"
+    ],
+    "南阳辣根.jpg": [
+      "program-fe245b68347717b7b9"
+    ],
+    "南阳辣根.JPG": [
+      "program-fe245b68347717b7b9"
+    ],
+    "岔河大米.jpg": [
+      "program-de564a601182ed1ae8"
+    ],
+    "岔河大米.JPG": [
+      "program-de564a601182ed1ae8"
+    ],
+    "长兴紫笋茶.jpg": [
+      "program-27b946fc353fa6a90c"
+    ],
+    "长兴紫笋茶.JPG": [
+      "program-27b946fc353fa6a90c"
+    ],
+    "慈溪葡萄.jpg": [
+      "program-bbe5af779dc865a0a8"
+    ],
+    "慈溪葡萄.JPG": [
+      "program-bbe5af779dc865a0a8"
+    ],
+    "余姚瀑布仙茗.jpg": [
+      "program-8bd47807cea6ea4a6d"
+    ],
+    "余姚瀑布仙茗.JPG": [
+      "program-8bd47807cea6ea4a6d"
+    ],
+    "缙云麻鸭.jpg": [
+      "program-bfc1cd5e7177c00860"
+    ],
+    "缙云麻鸭.JPG": [
+      "program-bfc1cd5e7177c00860"
+    ],
+    "路桥枇杷.jpg": [
+      "program-b3397846e03ea5aa72"
+    ],
+    "路桥枇杷.JPG": [
+      "program-b3397846e03ea5aa72"
+    ],
+    "三杯香茶.jpg": [
+      "program-efc1d183eb491ad06e"
+    ],
+    "三杯香茶.JPG": [
+      "program-efc1d183eb491ad06e"
+    ],
+    "桐乡槜李.jpg": [
+      "program-4bac6814fcb820538c"
+    ],
+    "桐乡槜李.JPG": [
+      "program-4bac6814fcb820538c"
+    ],
+    "舟山晚稻杨梅.jpg": [
+      "program-14a38df3adf07ee044"
+    ],
+    "舟山晚稻杨梅.JPG": [
+      "program-14a38df3adf07ee044"
+    ],
+    "建德草莓.jpg": [
+      "program-ccba042c5547aa7f20"
+    ],
+    "建德草莓.JPG": [
+      "program-ccba042c5547aa7f20"
+    ],
+    "武义铁皮石斛.jpg": [
+      "program-5243e1fa4ca641ef2e"
+    ],
+    "武义铁皮石斛.JPG": [
+      "program-5243e1fa4ca641ef2e"
+    ],
+    "桐庐雪水云绿茶.jpg": [
+      "program-4711edee18b7a6e021"
+    ],
+    "桐庐雪水云绿茶.JPG": [
+      "program-4711edee18b7a6e021"
+    ],
+    "天目青顶.jpg": [
+      "program-b1051fbcad5003c4af"
+    ],
+    "天目青顶.JPG": [
+      "program-b1051fbcad5003c4af"
+    ],
+    "义乌红糖.jpg": [
+      "program-7165760f9c51e71fff"
+    ],
+    "义乌红糖.JPG": [
+      "program-7165760f9c51e71fff"
+    ],
+    "长街蛏子.jpg": [
+      "program-82a7045ce07260d384"
+    ],
+    "长街蛏子.JPG": [
+      "program-82a7045ce07260d384"
+    ],
+    "浦江葡萄.jpg": [
+      "program-b81c6d5e4e9d66eb58"
+    ],
+    "浦江葡萄.JPG": [
+      "program-b81c6d5e4e9d66eb58"
+    ],
+    "湖州太湖鹅.jpg": [
+      "program-b0db46e33b4e8c1fb5"
+    ],
+    "湖州太湖鹅.JPG": [
+      "program-b0db46e33b4e8c1fb5"
+    ],
+    "宁波岱衢族大黄鱼.jpg": [
+      "program-d9fd3abba1e73551df"
+    ],
+    "宁波岱衢族大黄鱼.JPG": [
+      "program-d9fd3abba1e73551df"
+    ],
+    "缙云米仁.jpg": [
+      "program-e7fe9a78e57cd0b9c3"
+    ],
+    "缙云米仁.JPG": [
+      "program-e7fe9a78e57cd0b9c3"
+    ],
+    "余姚甲鱼.jpg": [
+      "program-952281248ae11293a5"
+    ],
+    "余姚甲鱼.JPG": [
+      "program-952281248ae11293a5"
+    ],
+    "金华佛手.jpg": [
+      "program-72d93d7193018fb07d"
+    ],
+    "金华佛手.JPG": [
+      "program-72d93d7193018fb07d"
+    ],
+    "湖州湖羊.jpg": [
+      "program-80f65d0c7afd41031e"
+    ],
+    "湖州湖羊.JPG": [
+      "program-80f65d0c7afd41031e"
+    ],
+    "永康方山柿.jpg": [
+      "program-47c10ccd96b7dbaa0d"
+    ],
+    "永康方山柿.JPG": [
+      "program-47c10ccd96b7dbaa0d"
+    ],
+    "兰溪小萝卜.jpg": [
+      "program-50c04dfda3c23466c5"
+    ],
+    "兰溪小萝卜.JPG": [
+      "program-50c04dfda3c23466c5"
+    ],
+    "云和雪梨.jpg": [
+      "program-0a75a7a0b2487bf477"
+    ],
+    "云和雪梨.JPG": [
+      "program-0a75a7a0b2487bf477"
+    ],
+    "兰溪杨梅.jpg": [
+      "program-548b6b7d9865a13d80"
+    ],
+    "兰溪杨梅.JPG": [
+      "program-548b6b7d9865a13d80"
+    ],
+    "黄岩红糖.jpg": [
+      "program-a74f308674ff1480c4"
+    ],
+    "黄岩红糖.JPG": [
+      "program-a74f308674ff1480c4"
+    ],
+    "永康五指岩生姜.jpg": [
+      "program-c0d2ee3aa076aa4713"
+    ],
+    "永康五指岩生姜.JPG": [
+      "program-c0d2ee3aa076aa4713"
+    ],
+    "雁荡山铁皮石斛.jpg": [
+      "program-2dc98a1f1786e5dd3e"
+    ],
+    "雁荡山铁皮石斛.JPG": [
+      "program-2dc98a1f1786e5dd3e"
+    ],
+    "鸠坑茶.jpg": [
+      "program-5eac2136ceceac1f57"
+    ],
+    "鸠坑茶.JPG": [
+      "program-5eac2136ceceac1f57"
+    ],
+    "兰溪毛峰.jpg": [
+      "program-eae36479341b28a187"
+    ],
+    "兰溪毛峰.JPG": [
+      "program-eae36479341b28a187"
+    ],
+    "武阳春雨.jpg": [
+      "program-0469443018fbfb1456"
+    ],
+    "武阳春雨.JPG": [
+      "program-0469443018fbfb1456"
+    ],
+    "泰顺猕猴桃.jpg": [
+      "program-a2b265158b3df2abca"
+    ],
+    "泰顺猕猴桃.JPG": [
+      "program-a2b265158b3df2abca"
+    ],
+    "兰溪枇杷.jpg": [
+      "program-b325f8ac475b18a339"
+    ],
+    "兰溪枇杷.JPG": [
+      "program-b325f8ac475b18a339"
+    ],
+    "溪口雷笋.jpg": [
+      "program-f4053785385f549eb0"
+    ],
+    "溪口雷笋.JPG": [
+      "program-f4053785385f549eb0"
+    ],
+    "凤桥水蜜桃.jpg": [
+      "program-fe46021a908c7f2762"
+    ],
+    "凤桥水蜜桃.JPG": [
+      "program-fe46021a908c7f2762"
+    ],
+    "黄岩东魁杨梅.jpg": [
+      "program-a2ac9f7abf1618d390"
+    ],
+    "黄岩东魁杨梅.JPG": [
+      "program-a2ac9f7abf1618d390"
+    ],
+    "遂昌菊米.jpg": [
+      "program-7f016f6f9af6917f6a"
+    ],
+    "遂昌菊米.JPG": [
+      "program-7f016f6f9af6917f6a"
+    ],
+    "慈溪蜜梨.jpg": [
+      "program-51a55e7eb92da21471"
+    ],
+    "慈溪蜜梨.JPG": [
+      "program-51a55e7eb92da21471"
+    ],
+    "永康舜芋.jpg": [
+      "program-c9cf9e8aabef12de63"
+    ],
+    "永康舜芋.JPG": [
+      "program-c9cf9e8aabef12de63"
+    ],
+    "嵊州香榧.jpg": [
+      "program-0440e83f7a6be6ee98"
+    ],
+    "嵊州香榧.JPG": [
+      "program-0440e83f7a6be6ee98"
+    ],
+    "平水日铸茶.jpg": [
+      "program-fd1350535b9d2d27bf"
+    ],
+    "平水日铸茶.JPG": [
+      "program-fd1350535b9d2d27bf"
+    ],
+    "杨庙雪菜.jpg": [
+      "program-e2776e1553a3fc732a"
+    ],
+    "杨庙雪菜.JPG": [
+      "program-e2776e1553a3fc732a"
+    ],
+    "青田杨梅.jpg": [
+      "program-914ea7b8444f2249d1"
+    ],
+    "青田杨梅.JPG": [
+      "program-914ea7b8444f2249d1"
+    ],
+    "枫桥香榧.jpg": [
+      "program-630363fe6cc55ac608"
+    ],
+    "枫桥香榧.JPG": [
+      "program-630363fe6cc55ac608"
+    ],
+    "宁海白枇杷.jpg": [
+      "program-aa31c3e002f77868c3"
+    ],
+    "宁海白枇杷.JPG": [
+      "program-aa31c3e002f77868c3"
+    ],
+    "余姚榨菜.jpg": [
+      "program-0e85ea4f2b67d04074"
+    ],
+    "余姚榨菜.JPG": [
+      "program-0e85ea4f2b67d04074"
+    ],
+    "余姚杨梅.jpg": [
+      "program-68c9d9cc74b934f29e"
+    ],
+    "余姚杨梅.JPG": [
+      "program-68c9d9cc74b934f29e"
+    ],
+    "临安山核桃.jpg": [
+      "program-a873f83973b70e5c08"
+    ],
+    "临安山核桃.JPG": [
+      "program-a873f83973b70e5c08"
+    ],
+    "缙云茭白.jpg": [
+      "program-e58f4909022229efb5"
+    ],
+    "缙云茭白.JPG": [
+      "program-e58f4909022229efb5"
+    ],
+    "武义宣莲.jpg": [
+      "program-1c6d641fc077279e2e"
+    ],
+    "武义宣莲.JPG": [
+      "program-1c6d641fc077279e2e"
+    ],
+    "永康灰鹅.jpg": [
+      "program-343501d445efacd201"
+    ],
+    "永康灰鹅.JPG": [
+      "program-343501d445efacd201"
+    ],
+    "董家茭白.jpg": [
+      "program-6fc8791afa61ade4ee"
+    ],
+    "董家茭白.JPG": [
+      "program-6fc8791afa61ade4ee"
+    ],
+    "胥仓雪藕.jpg": [
+      "program-24dd6128f6782386ee"
+    ],
+    "胥仓雪藕.JPG": [
+      "program-24dd6128f6782386ee"
+    ],
+    "温州早茶.jpg": [
+      "program-e75880a2d8bc4cc11c"
+    ],
+    "温州早茶.JPG": [
+      "program-e75880a2d8bc4cc11c"
+    ],
+    "丽水枇杷.jpg": [
+      "program-a2911fde28c625f889"
+    ],
+    "丽水枇杷.JPG": [
+      "program-a2911fde28c625f889"
+    ],
+    "二都杨梅.jpg": [
+      "program-cb50d37d440c57647c"
+    ],
+    "二都杨梅.JPG": [
+      "program-cb50d37d440c57647c"
+    ],
+    "嵊州桃形李.jpg": [
+      "program-3fda6f729a1bd76d0c"
+    ],
+    "嵊州桃形李.JPG": [
+      "program-3fda6f729a1bd76d0c"
+    ],
+    "处州白莲.jpg": [
+      "program-aa3e64dac0dfccd624"
+    ],
+    "处州白莲.JPG": [
+      "program-aa3e64dac0dfccd624"
+    ],
+    "缙云黄花菜.jpg": [
+      "program-56e1efeda0fe6deb2f"
+    ],
+    "缙云黄花菜.JPG": [
+      "program-56e1efeda0fe6deb2f"
+    ],
+    "婺州蜜梨.jpg": [
+      "program-e7d6c4d345e7e7e5fe"
+    ],
+    "婺州蜜梨.JPG": [
+      "program-e7d6c4d345e7e7e5fe"
+    ],
+    "桐琴蜜梨.jpg": [
+      "program-01a0bb268013422421"
+    ],
+    "桐琴蜜梨.JPG": [
+      "program-01a0bb268013422421"
+    ],
+    "江山猕猴桃.jpg": [
+      "program-dd73b6a0366f5f90d8"
+    ],
+    "江山猕猴桃.JPG": [
+      "program-dd73b6a0366f5f90d8"
+    ],
+    "青田御茶.jpg": [
+      "program-5c64588bca73328df1"
+    ],
+    "青田御茶.JPG": [
+      "program-5c64588bca73328df1"
+    ],
+    "遂昌龙谷茶.jpg": [
+      "program-de5af22edce4d9f6c7"
+    ],
+    "遂昌龙谷茶.JPG": [
+      "program-de5af22edce4d9f6c7"
+    ],
+    "遂昌土蜂蜜.jpg": [
+      "program-dbd690180403b7a650"
+    ],
+    "遂昌土蜂蜜.JPG": [
+      "program-dbd690180403b7a650"
+    ],
+    "湖州桑基塘鱼.jpg": [
+      "program-5eb3e6f98840d9184e"
+    ],
+    "湖州桑基塘鱼.JPG": [
+      "program-5eb3e6f98840d9184e"
+    ],
+    "箬阳龙珍.jpg": [
+      "program-ed36b8aaf75edd6874"
+    ],
+    "箬阳龙珍.JPG": [
+      "program-ed36b8aaf75edd6874"
+    ],
+    "上虞觉农翠茗茶.jpg": [
+      "program-1accf436cd18c2f6a2"
+    ],
+    "上虞觉农翠茗茶.JPG": [
+      "program-1accf436cd18c2f6a2"
+    ],
+    "衢州玉露茶.jpg": [
+      "program-e476349206a8c52135"
+    ],
+    "衢州玉露茶.JPG": [
+      "program-e476349206a8c52135"
+    ],
+    "海盐葡萄.jpg": [
+      "program-4449def58d160d3176"
+    ],
+    "海盐葡萄.JPG": [
+      "program-4449def58d160d3176"
+    ],
+    "姚庄黄桃.jpg": [
+      "program-a6ce5e1d7b0ead5814"
+    ],
+    "姚庄黄桃.JPG": [
+      "program-a6ce5e1d7b0ead5814"
+    ],
+    "浦江桃形李.jpg": [
+      "program-e1e855c4a62da5a95c"
+    ],
+    "浦江桃形李.JPG": [
+      "program-e1e855c4a62da5a95c"
+    ],
+    "鸬鸟蜜梨.jpg": [
+      "program-31b4467821d37c5258"
+    ],
+    "鸬鸟蜜梨.JPG": [
+      "program-31b4467821d37c5258"
+    ],
+    "丁宅水蜜桃.jpg": [
+      "program-927c1008e0133942be"
+    ],
+    "丁宅水蜜桃.JPG": [
+      "program-927c1008e0133942be"
+    ],
+    "黄岩茭白.jpg": [
+      "program-b0ed8b55ea37516460"
+    ],
+    "黄岩茭白.JPG": [
+      "program-b0ed8b55ea37516460"
+    ],
+    "安吉竹笋.jpg": [
+      "program-9bc0544b04198e0f8a"
+    ],
+    "安吉竹笋.JPG": [
+      "program-9bc0544b04198e0f8a"
+    ],
+    "七里茄子.jpg": [
+      "program-a9d33c05215d919cfa"
+    ],
+    "七里茄子.JPG": [
+      "program-a9d33c05215d919cfa"
+    ],
+    "青田田鱼.jpg": [
+      "program-f12d26f4ebe2de3b3d"
+    ],
+    "青田田鱼.JPG": [
+      "program-f12d26f4ebe2de3b3d"
+    ],
+    "开化清水鱼.jpg": [
+      "program-feb1b94584f52a9913"
+    ],
+    "开化清水鱼.JPG": [
+      "program-feb1b94584f52a9913"
+    ],
+    "安吉竹林鸡.jpg": [
+      "program-6d65b0f0ab38849a4b"
+    ],
+    "安吉竹林鸡.JPG": [
+      "program-6d65b0f0ab38849a4b"
+    ],
+    "龙游麻鸡.jpg": [
+      "program-fac835789a3bbd2d2d"
+    ],
+    "龙游麻鸡.JPG": [
+      "program-fac835789a3bbd2d2d"
+    ],
+    "慈溪泥螺.jpg": [
+      "program-63e02050f3848974e0"
+    ],
+    "慈溪泥螺.JPG": [
+      "program-63e02050f3848974e0"
+    ],
+    "汇潭甘蔗.jpg": [
+      "program-246e4e5079006083fd"
+    ],
+    "汇潭甘蔗.JPG": [
+      "program-246e4e5079006083fd"
+    ],
+    "江山黄精.jpg": [
+      "program-0da3cd9ded28cab27b"
+    ],
+    "江山黄精.JPG": [
+      "program-0da3cd9ded28cab27b"
+    ],
+    "磐安茭白.jpg": [
+      "program-a2441e4c15edf32405"
+    ],
+    "磐安茭白.JPG": [
+      "program-a2441e4c15edf32405"
+    ],
+    "长兴漾荡河蟹.jpg": [
+      "program-e822b96a4565ddcca4"
+    ],
+    "长兴漾荡河蟹.JPG": [
+      "program-e822b96a4565ddcca4"
+    ],
+    "三门血蚶.jpg": [
+      "program-c0f598b978cfd1b3ab"
+    ],
+    "三门血蚶.JPG": [
+      "program-c0f598b978cfd1b3ab"
+    ],
+    "兰江蟹.jpg": [
+      "program-dad1d1ab00a724e78f"
+    ],
+    "兰江蟹.JPG": [
+      "program-dad1d1ab00a724e78f"
+    ],
+    "海昌蜜梨.jpg": [
+      "program-84b00701c44811e208"
+    ],
+    "海昌蜜梨.JPG": [
+      "program-84b00701c44811e208"
+    ],
+    "上虞野藤葡萄.jpg": [
+      "program-1d472f512332cd9302"
+    ],
+    "上虞野藤葡萄.JPG": [
+      "program-1d472f512332cd9302"
+    ],
+    "妙西黄桃.jpg": [
+      "program-4760ec902379f837d3"
+    ],
+    "妙西黄桃.JPG": [
+      "program-4760ec902379f837d3"
+    ],
+    "义乌南枣.jpg": [
+      "program-4175f4b036c8702e75"
+    ],
+    "义乌南枣.JPG": [
+      "program-4175f4b036c8702e75"
+    ],
+    "奉化曲毫(茶).jpg": [
+      "program-a56f5e8f4db6470e5a"
+    ],
+    "奉化曲毫(茶).JPG": [
+      "program-a56f5e8f4db6470e5a"
+    ],
+    "余姚樱桃.jpg": [
+      "program-d14d774ab77cfa3311"
+    ],
+    "余姚樱桃.JPG": [
+      "program-d14d774ab77cfa3311"
+    ],
+    "苍南四季柚.jpg": [
+      "program-26d6f62ebec0379a94"
+    ],
+    "苍南四季柚.JPG": [
+      "program-26d6f62ebec0379a94"
+    ],
+    "淳安花猪.jpg": [
+      "program-37839bb9cc40c6b0d1"
+    ],
+    "淳安花猪.JPG": [
+      "program-37839bb9cc40c6b0d1"
+    ],
+    "南京板鸭.jpg": [
+      "program-d57a626c3ce64c6d4e"
+    ],
+    "南京板鸭.JPG": [
+      "program-d57a626c3ce64c6d4e"
+    ],
+    "蜜汁藕.jpg": [
+      "program-0609e430982ee84b7d"
+    ],
+    "蜜汁藕.JPG": [
+      "program-0609e430982ee84b7d"
+    ],
+    "活珠子.jpg": [
+      "program-2cd5ddaad9384d913c"
+    ],
+    "活珠子.JPG": [
+      "program-2cd5ddaad9384d913c"
+    ],
+    "六合猪头肉.jpg": [
+      "program-d5602a522c52021577"
+    ],
+    "六合猪头肉.JPG": [
+      "program-d5602a522c52021577"
+    ],
+    "龙袍蟹黄汤包.jpg": [
+      "program-de65ba6e406a2f0df0"
+    ],
+    "龙袍蟹黄汤包.JPG": [
+      "program-de65ba6e406a2f0df0"
+    ],
+    "镜箱豆腐.jpg": [
+      "program-fa0580904afa73edae"
+    ],
+    "镜箱豆腐.JPG": [
+      "program-fa0580904afa73edae"
+    ],
+    "江阴河豚.jpg": [
+      "program-95bbbd177ba96a1f19"
+    ],
+    "江阴河豚.JPG": [
+      "program-95bbbd177ba96a1f19"
+    ],
+    "把子肉.jpg": [
+      "program-8da0619ace8cd0cc98"
+    ],
+    "把子肉.JPG": [
+      "program-8da0619ace8cd0cc98"
+    ],
+    "烙馍卷馓子.jpg": [
+      "program-fa9c095a654da93482"
+    ],
+    "烙馍卷馓子.JPG": [
+      "program-fa9c095a654da93482"
+    ],
+    "丰县白酥梨.jpg": [
+      "program-68e4bed3a4dc1514ce"
+    ],
+    "丰县白酥梨.JPG": [
+      "program-68e4bed3a4dc1514ce"
+    ],
+    "窑湾甜油.jpg": [
+      "program-ed8685c9610dafafeb"
+    ],
+    "窑湾甜油.JPG": [
+      "program-ed8685c9610dafafeb"
+    ],
+    "横山桥百叶.jpg": [
+      "program-b7859d5704cc0647e9"
+    ],
+    "横山桥百叶.JPG": [
+      "program-b7859d5704cc0647e9"
+    ],
+    "芙蓉螺蛳.jpg": [
+      "program-719d2052b40565d690"
+    ],
+    "芙蓉螺蛳.JPG": [
+      "program-719d2052b40565d690"
+    ],
+    "金坛封缸酒.jpg": [
+      "program-5df5c46c94ca4e8e56"
+    ],
+    "金坛封缸酒.JPG": [
+      "program-5df5c46c94ca4e8e56"
+    ],
+    "溧阳扎肝.jpg": [
+      "program-5a664c83657dcca0a4"
+    ],
+    "溧阳扎肝.JPG": [
+      "program-5a664c83657dcca0a4"
+    ],
+    "焖肉面.jpg": [
+      "program-e72ebc9870137efcc5"
+    ],
+    "焖肉面.JPG": [
+      "program-e72ebc9870137efcc5"
+    ],
+    "海棠糕.jpg": [
+      "program-9c7889e951b1eb051e"
+    ],
+    "海棠糕.JPG": [
+      "program-9c7889e951b1eb051e"
+    ],
+    "清炒虾仁.jpg": [
+      "program-81dbb9497910dec6c4"
+    ],
+    "清炒虾仁.JPG": [
+      "program-81dbb9497910dec6c4"
+    ],
+    "鸡头米.jpg": [
+      "program-86810aa25cacdad3f0"
+    ],
+    "鸡头米.JPG": [
+      "program-86810aa25cacdad3f0"
+    ],
+    "太湖莼菜.jpg": [
+      "program-b1a4874251c754671a"
+    ],
+    "太湖莼菜.JPG": [
+      "program-b1a4874251c754671a"
+    ],
+    "八珍糕.jpg": [
+      "program-72046fbc355a08a4ae"
+    ],
+    "八珍糕.JPG": [
+      "program-72046fbc355a08a4ae"
+    ],
+    "蕈油面.jpg": [
+      "program-781bce8ec1eb5f1436"
+    ],
+    "蕈油面.JPG": [
+      "program-781bce8ec1eb5f1436"
+    ],
+    "袜底酥.jpg": [
+      "program-5f359c1f27e438c3fc"
+    ],
+    "袜底酥.JPG": [
+      "program-5f359c1f27e438c3fc"
+    ],
+    "白蒲黄酒.jpg": [
+      "program-ed426c197b2608c62d"
+    ],
+    "白蒲黄酒.JPG": [
+      "program-ed426c197b2608c62d"
+    ],
+    "如皋萝卜干.jpg": [
+      "program-22ff153c3a02e8cadc"
+    ],
+    "如皋萝卜干.JPG": [
+      "program-22ff153c3a02e8cadc"
+    ],
+    "林梓潮糕.jpg": [
+      "program-0cce21ab4a83aab374"
+    ],
+    "林梓潮糕.JPG": [
+      "program-0cce21ab4a83aab374"
+    ],
+    "海门山羊.jpg": [
+      "program-9d2510dc5d7f4dd1e9"
+    ],
+    "海门山羊.JPG": [
+      "program-9d2510dc5d7f4dd1e9"
+    ],
+    "赣榆煎饼.jpg": [
+      "program-e1957365058a237c41"
+    ],
+    "赣榆煎饼.JPG": [
+      "program-e1957365058a237c41"
+    ],
+    "开洋蒲菜.jpg": [
+      "program-38ac2a37ac780abdc2"
+    ],
+    "开洋蒲菜.JPG": [
+      "program-38ac2a37ac780abdc2"
+    ],
+    "高沟酒.jpg": [
+      "program-2ba366637d0997aee7"
+    ],
+    "高沟酒.JPG": [
+      "program-2ba366637d0997aee7"
+    ],
+    "拆烩鲢鱼头.jpg": [
+      "program-4d6967aac75af40133"
+    ],
+    "拆烩鲢鱼头.JPG": [
+      "program-4d6967aac75af40133"
+    ],
+    "扬中河豚.jpg": [
+      "program-431b93a36c3c72fc61"
+    ],
+    "扬中河豚.JPG": [
+      "program-431b93a36c3c72fc61"
+    ],
+    "沙沟鱼圆.jpg": [
+      "program-3005ede8908dfe827e"
+    ],
+    "沙沟鱼圆.JPG": [
+      "program-3005ede8908dfe827e"
+    ],
+    "老汁鸡.jpg": [
+      "program-b194ab73f8e22a2f4e"
+    ],
+    "老汁鸡.JPG": [
+      "program-b194ab73f8e22a2f4e"
+    ],
+    "泗洪大米.jpg": [
+      "program-26656e09cfa02d8c81"
+    ],
+    "泗洪大米.JPG": [
+      "program-26656e09cfa02d8c81"
+    ],
+    "定胜糕.jpg": [
+      "program-a7b8193a6b06617401"
+    ],
+    "定胜糕.JPG": [
+      "program-a7b8193a6b06617401"
+    ],
+    "猫耳朵.jpg": [
+      "program-cf797a5d34ce94c299"
+    ],
+    "猫耳朵.JPG": [
+      "program-cf797a5d34ce94c299"
+    ],
+    "富春江鲥鱼.jpg": [
+      "program-186518ddc06524559c"
+    ],
+    "富春江鲥鱼.JPG": [
+      "program-186518ddc06524559c"
+    ],
+    "东坞山豆腐皮.jpg": [
+      "program-d04257c1ed912b1a71"
+    ],
+    "东坞山豆腐皮.JPG": [
+      "program-d04257c1ed912b1a71"
+    ],
+    "天目笋干.jpg": [
+      "program-f6c8b91b6cb8c567b6"
+    ],
+    "天目笋干.JPG": [
+      "program-f6c8b91b6cb8c567b6"
+    ],
+    "千岛湖鱼头.jpg": [
+      "program-c25f5a371d8e38239b"
+    ],
+    "千岛湖鱼头.JPG": [
+      "program-c25f5a371d8e38239b"
+    ],
+    "红膏炝蟹.jpg": [
+      "program-830600722e34333438"
+    ],
+    "红膏炝蟹.JPG": [
+      "program-830600722e34333438"
+    ],
+    "雪菜大黄鱼.jpg": [
+      "program-803e3524a965850747"
+    ],
+    "雪菜大黄鱼.JPG": [
+      "program-803e3524a965850747"
+    ],
+    "奉化芋艿头.jpg": [
+      "program-13e1add7f806de29e2"
+    ],
+    "奉化芋艿头.JPG": [
+      "program-13e1add7f806de29e2"
+    ],
+    "前童三宝.jpg": [
+      "program-a86609ec0198f9a9cc"
+    ],
+    "前童三宝.JPG": [
+      "program-a86609ec0198f9a9cc"
+    ],
+    "温州馄饨.jpg": [
+      "program-339daedda641f600f1"
+    ],
+    "温州馄饨.JPG": [
+      "program-339daedda641f600f1"
+    ],
+    "炒粉干.jpg": [
+      "program-ad14a4a1b6888ac573"
+    ],
+    "炒粉干.JPG": [
+      "program-ad14a4a1b6888ac573"
+    ],
+    "三丝敲鱼.jpg": [
+      "program-9dcb67aa763f9e9b83"
+    ],
+    "三丝敲鱼.JPG": [
+      "program-9dcb67aa763f9e9b83"
+    ],
+    "江蟹生.jpg": [
+      "program-b2f10a1359f7682f0c"
+    ],
+    "江蟹生.JPG": [
+      "program-b2f10a1359f7682f0c"
+    ],
+    "马站煎包.jpg": [
+      "program-80dda7aa3862a3263a"
+    ],
+    "马站煎包.JPG": [
+      "program-80dda7aa3862a3263a"
+    ],
+    "湖岭牛排.jpg": [
+      "program-c8ea4c1de06ebe4052"
+    ],
+    "湖岭牛排.JPG": [
+      "program-c8ea4c1de06ebe4052"
+    ],
+    "清江三鲜面.jpg": [
+      "program-e693335a56993e5eb9"
+    ],
+    "清江三鲜面.JPG": [
+      "program-e693335a56993e5eb9"
+    ],
+    "海宁缸肉.jpg": [
+      "program-e94a151c13ec0c3344"
+    ],
+    "海宁缸肉.JPG": [
+      "program-e94a151c13ec0c3344"
+    ],
+    "海宁宴球.jpg": [
+      "program-b54f59c4470112428b"
+    ],
+    "海宁宴球.JPG": [
+      "program-b54f59c4470112428b"
+    ],
+    "诸老大粽子.jpg": [
+      "program-2a9624c030e3f673c7"
+    ],
+    "诸老大粽子.JPG": [
+      "program-2a9624c030e3f673c7"
+    ],
+    "周生记馄饨.jpg": [
+      "program-1836d6a8da14bdfa67"
+    ],
+    "周生记馄饨.JPG": [
+      "program-1836d6a8da14bdfa67"
+    ],
+    "震远同茶食.jpg": [
+      "program-0863043ec9687f2fb1"
+    ],
+    "震远同茶食.JPG": [
+      "program-0863043ec9687f2fb1"
+    ],
+    "南浔双交面.jpg": [
+      "program-3929ff50fe37075ff1"
+    ],
+    "南浔双交面.JPG": [
+      "program-3929ff50fe37075ff1"
+    ],
+    "绍三鲜.jpg": [
+      "program-3e0dd03be25479e00d"
+    ],
+    "绍三鲜.JPG": [
+      "program-3e0dd03be25479e00d"
+    ],
+    "香雪酒.jpg": [
+      "program-27db8340ffb41f5cad"
+    ],
+    "香雪酒.JPG": [
+      "program-27db8340ffb41f5cad"
+    ],
+    "豆腐年糕.jpg": [
+      "program-c1ec64e271186b66cc"
+    ],
+    "豆腐年糕.JPG": [
+      "program-c1ec64e271186b66cc"
+    ],
+    "金华酥饼.jpg": [
+      "program-bb6fac915982500284"
+    ],
+    "金华酥饼.JPG": [
+      "program-bb6fac915982500284"
+    ],
+    "佛堂白切羊肉.jpg": [
+      "program-08fd904af784a0c090"
+    ],
+    "佛堂白切羊肉.JPG": [
+      "program-08fd904af784a0c090"
+    ],
+    "上卢馄饨.jpg": [
+      "program-9d7ac298758697d713"
+    ],
+    "上卢馄饨.JPG": [
+      "program-9d7ac298758697d713"
+    ],
+    "衢州鸭头.jpg": [
+      "program-3d77722d0b4c0c188b"
+    ],
+    "衢州鸭头.JPG": [
+      "program-3d77722d0b4c0c188b"
+    ],
+    "江山蜂蜜.jpg": [
+      "program-a386211ce8a2a89dcf"
+    ],
+    "江山蜂蜜.JPG": [
+      "program-a386211ce8a2a89dcf"
+    ],
+    "姜汁调蛋.jpg": [
+      "program-7b0c2254598348d888"
+    ],
+    "姜汁调蛋.JPG": [
+      "program-7b0c2254598348d888"
+    ],
+    "天台饺饼筒.jpg": [
+      "program-bb737ce785e91e9f52"
+    ],
+    "天台饺饼筒.JPG": [
+      "program-bb737ce785e91e9f52"
+    ],
+    "仙居三黄鸡.jpg": [
+      "program-03b9fd2a8ea140fa9d"
+    ],
+    "仙居三黄鸡.JPG": [
+      "program-03b9fd2a8ea140fa9d"
+    ],
+    "温岭嵌糕.jpg": [
+      "program-080ccce4d789464f57"
+    ],
+    "温岭嵌糕.JPG": [
+      "program-080ccce4d789464f57"
+    ],
+    "庆元甜桔柚.jpg": [
+      "program-2854a6cc434658cb81"
+    ],
+    "庆元甜桔柚.JPG": [
+      "program-2854a6cc434658cb81"
+    ],
+    "枫泾丁蹄.jpg": [
+      "program-d6cae797e16775e4e8"
+    ],
+    "枫泾丁蹄.JPG": [
+      "program-d6cae797e16775e4e8"
+    ],
+    "崇明白扁豆.jpg": [
+      "program-6993f75581cdcefca4"
+    ],
+    "崇明白扁豆.JPG": [
+      "program-6993f75581cdcefca4"
+    ],
+    "清龙泉剑.jpg": [
+      "regional-ef65a49943ef4d"
+    ]
+  },
+  "notes": "现有卡片名称的明确文件名查询；清龙泉剑文件名另来自已保存检索。文件名吻合仍须目视复核。"
+}

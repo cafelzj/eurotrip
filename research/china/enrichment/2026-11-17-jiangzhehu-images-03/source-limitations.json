@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-17",
+  "observations": [
+    {
+      "source": "Commons generator search API",
+      "queries": 790,
+      "successfulResponses": 9,
+      "HTTP429Failures": 781,
+      "note": "批量搜索失败仍逐项保留。HTTP429不是零结果，更不是不存在图片；已改具体分类HTML与文件元数据读取。采集工具增加首次429停止保护，不重跑历史计划。"
+    },
+    {
+      "source": "First category file metadata batch",
+      "offset": 490,
+      "remainingTitles": 34,
+      "error": "HTTP Error 414: URI Too Long",
+      "note": "该次元数据请求失败，未将这些文件算作可审图片；后续批次改15文件一批。"
+    }
+  ]
+}

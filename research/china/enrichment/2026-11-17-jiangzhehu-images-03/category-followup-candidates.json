@@ -1,0 +1,2109 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "title": "Salted crab in Nanyuan Hotel, Ningbo (20170130191038).jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz"
+      ],
+      "id": "c-5ab9fe51c614e319",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Salted_crab_in_Nanyuan_Hotel,_Ningbo_(20170130191038).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Salted_crab_in_Nanyuan_Hotel%2C_Ningbo_%2820170130191038%29.jpg/960px-Salted_crab_in_Nanyuan_Hotel%2C_Ningbo_%2820170130191038%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "One of the special dishes of Ningbo - salted raw crab. Served at Nanyuan Hotel, which is less than 1km east from crab-shaped Ningbo Railway Station.",
+      "itemIds": [
+        "program-830600722e34333438"
+      ],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 670,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-5ab9fe51c614e319.jpg",
+      "rawSha256": "681508b9bb212d30010097cb362ab35ee9a0e71094d9161a3a38ad55e18f448a"
+    },
+    {
+      "title": "千層餅店 - panoramio.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-af9f7703ab5d13ae",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%83%E5%B1%A4%E9%A4%85%E5%BA%97_-_panoramio.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%E5%8D%83%E5%B1%A4%E9%A4%85%E5%BA%97_-_panoramio.jpg/960px-%E5%8D%83%E5%B1%A4%E9%A4%85%E5%BA%97_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "ping lin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "蔣孝順千層餅",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 717,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-af9f7703ab5d13ae.jpg",
+      "rawSha256": "c92d88bb48b865bba90757b4409b49c5cdecd94be74c887fbef0575033699b8f"
+    },
+    {
+      "title": "溪口千层饼, 2019-12-17 01.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-afd0bcf49aa174de",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC,_2019-12-17_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC%2C_2019-12-17_01.jpg/960px-%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC%2C_2019-12-17_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​溪口千层饼",
+      "itemIds": [
+        "county-1b8b20507baf90"
+      ],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-afd0bcf49aa174de.jpg",
+      "rawSha256": "6793e45e7cca0dbbdec4de120564673365f23b3fb7695110d78340db50bfa835"
+    },
+    {
+      "title": "溪口千层饼, 2019-12-17 02.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-68a477ef68510a18",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC,_2019-12-17_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC%2C_2019-12-17_02.jpg/960px-%E6%BA%AA%E5%8F%A3%E5%8D%83%E5%B1%82%E9%A5%BC%2C_2019-12-17_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​溪口千层饼",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-68a477ef68510a18.jpg",
+      "rawSha256": "400baa64a725bcfb95f6f0f0bdd6ab267e182530e90fc609411e7778f10cba96"
+    },
+    {
+      "title": "溪口旅游街-孝顺饼坊 - panoramio.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-7536de3d7660020f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%BA%AA%E5%8F%A3%E6%97%85%E6%B8%B8%E8%A1%97-%E5%AD%9D%E9%A1%BA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%E6%BA%AA%E5%8F%A3%E6%97%85%E6%B8%B8%E8%A1%97-%E5%AD%9D%E9%A1%BA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg/960px-%E6%BA%AA%E5%8F%A3%E6%97%85%E6%B8%B8%E8%A1%97-%E5%AD%9D%E9%A1%BA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "江上清风1961",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "溪口旅游街--孝顺饼坊",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-7536de3d7660020f.jpg",
+      "rawSha256": "500b19b699fe97d187f5c140ce623ddcbe24028178f7d7fc9cfb31365d2a3b3d"
+    },
+    {
+      "title": "溪口镇特产芋头.jpeg",
+      "categoryNames": [
+        "Cuisine of Ningbo"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz"
+      ],
+      "id": "c-c3f85102d2c64816",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%BA%AA%E5%8F%A3%E9%95%87%E7%89%B9%E4%BA%A7%E8%8A%8B%E5%A4%B4.jpeg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%E6%BA%AA%E5%8F%A3%E9%95%87%E7%89%B9%E4%BA%A7%E8%8A%8B%E5%A4%B4.jpeg/960px-%E6%BA%AA%E5%8F%A3%E9%95%87%E7%89%B9%E4%BA%A7%E8%8A%8B%E5%A4%B4.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "溪口镇特产芋头",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-c3f85102d2c64816.jpg",
+      "rawSha256": "caa75743e5c6bc656951d6223ddfddc50f60211c976c00972440a09d9e41c762"
+    },
+    {
+      "title": "溪口镇的芋头.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz"
+      ],
+      "id": "c-934e05d0ae696143",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%BA%AA%E5%8F%A3%E9%95%87%E7%9A%84%E8%8A%8B%E5%A4%B4.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%E6%BA%AA%E5%8F%A3%E9%95%87%E7%9A%84%E8%8A%8B%E5%A4%B4.jpg/960px-%E6%BA%AA%E5%8F%A3%E9%95%87%E7%9A%84%E8%8A%8B%E5%A4%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Walter Grassroot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "溪口镇的芋头",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-934e05d0ae696143.jpg",
+      "rawSha256": "d775f7409d356d3037061af7f6bd56a127bdc2044a9d9a2bc036e948b8df9063"
+    },
+    {
+      "title": "百年老店剡溪饼坊 - panoramio.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-2f45f86372b37dc7",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E5%89%A1%E6%BA%AA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E5%89%A1%E6%BA%AA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg/960px-%E7%99%BE%E5%B9%B4%E8%80%81%E5%BA%97%E5%89%A1%E6%BA%AA%E9%A5%BC%E5%9D%8A_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "江上清风1961",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "百年老店剡溪饼坊",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-2f45f86372b37dc7.jpg",
+      "rawSha256": "8c3acf892b7e4c13de44e82e094311ff05287d64f0a55846ac9e04eab67c2c60"
+    },
+    {
+      "title": "蒋孝顺千层饼.jpg",
+      "categoryNames": [
+        "Cuisine of Ningbo",
+        "Xikou thousand-layer cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/161aeb766beacd70debe.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/86b4ec3a504acc12e214.html.gz"
+      ],
+      "id": "c-2fb21309f4f93035",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%92%8B%E5%AD%9D%E9%A1%BA%E5%8D%83%E5%B1%82%E9%A5%BC.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%E8%92%8B%E5%AD%9D%E9%A1%BA%E5%8D%83%E5%B1%82%E9%A5%BC.jpg/960px-%E8%92%8B%E5%AD%9D%E9%A1%BA%E5%8D%83%E5%B1%82%E9%A5%BC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "​溪口镇建筑群：蒋孝顺千层饼",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 585,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-2fb21309f4f93035.jpg",
+      "rawSha256": "e27493bf09ec5e42cc1e5aef70a7f37218095a799fc0b8df1181501ac9cc1bfd"
+    },
+    {
+      "title": "2009-03-21 Shengjian mantou vendor at Shilin Night Market.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-5cb3f6e13246aef1",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:2009-03-21_Shengjian_mantou_vendor_at_Shilin_Night_Market.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2009-03-21_Shengjian_mantou_vendor_at_Shilin_Night_Market.jpg/960px-2009-03-21_Shengjian_mantou_vendor_at_Shilin_Night_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Banzai Hiroaki",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Shengjian mantou vendor at Shilin Night Market",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 638,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-5cb3f6e13246aef1.jpg",
+      "rawSha256": "05686cbbff3e85df0ab51d0acc2bd0b1e7853a846322ea18d7f8d3f5bd741ecf"
+    },
+    {
+      "title": "2022-09-03 Sheng Jian Bao - Shanghai Pan-Fried Pork Buns.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-ab17233d486a3262",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:2022-09-03_Sheng_Jian_Bao_-_Shanghai_Pan-Fried_Pork_Buns.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2022-09-03_Sheng_Jian_Bao_-_Shanghai_Pan-Fried_Pork_Buns.jpg/960px-2022-09-03_Sheng_Jian_Bao_-_Shanghai_Pan-Fried_Pork_Buns.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Maksym Kozlenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Sheng Jian Bao - Shanghai Pan-Fried Pork Buns",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ab17233d486a3262.jpg",
+      "rawSha256": "f0f49d449af11552f84486907535040c649b1df99e1cd4b3bb441f27e220fb49"
+    },
+    {
+      "title": "2023-07-08 湖州生煎馒头.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-e9bb188cdd2b3c44",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-07-08_%E6%B9%96%E5%B7%9E%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2023-07-08_%E6%B9%96%E5%B7%9E%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4.jpg/960px-2023-07-08_%E6%B9%96%E5%B7%9E%E7%94%9F%E7%85%8E%E9%A6%92%E5%A4%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "源義信",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​湖州生煎馒头",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e9bb188cdd2b3c44.jpg",
+      "rawSha256": "95b49fcf21ef6b61f4182d615525cf3aea661c38adb26ea6d676e7e498bfb205"
+    },
+    {
+      "title": "Food 上海生煎包, Pan-fried Shanghai Pork Bun, 樂天皇朝, PARADISE DYNASTY, 台北 (23590608472).jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-532c1943695d39c1",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Food_%E4%B8%8A%E6%B5%B7%E7%94%9F%E7%85%8E%E5%8C%85,_Pan-fried_Shanghai_Pork_Bun,_%E6%A8%82%E5%A4%A9%E7%9A%87%E6%9C%9D,_PARADISE_DYNASTY,_%E5%8F%B0%E5%8C%97_(23590608472).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Food_%E4%B8%8A%E6%B5%B7%E7%94%9F%E7%85%8E%E5%8C%85%2C_Pan-fried_Shanghai_Pork_Bun%2C_%E6%A8%82%E5%A4%A9%E7%9A%87%E6%9C%9D%2C_PARADISE_DYNASTY%2C_%E5%8F%B0%E5%8C%97_%2823590608472%29.jpg/960px-Food_%E4%B8%8A%E6%B5%B7%E7%94%9F%E7%85%8E%E5%8C%85%2C_Pan-fried_Shanghai_Pork_Bun%2C_%E6%A8%82%E5%A4%A9%E7%9A%87%E6%9C%9D%2C_PARADISE_DYNASTY%2C_%E5%8F%B0%E5%8C%97_%2823590608472%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "bryan... from Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "上海生煎包, Pan-fried Shanghai Pork Bun, 樂天皇朝, PARADISE DYNASTY, 台北",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-532c1943695d39c1.jpg",
+      "rawSha256": "6746df2a7cfd445e51c3bf0b2d8a9769348eff2f6f8404b737ddb6cb46c08564"
+    },
+    {
+      "title": "Fried dumplings.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-f94dbb208eaf345b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Fried_dumplings.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Fried_dumplings.jpg/960px-Fried_dumplings.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Popo le Chien",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "raviolis chinois frits",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f94dbb208eaf345b.jpg",
+      "rawSha256": "d8732d37d8bfc0c9c9a59ce972ecabea30c1257f9691f7ddf01e71010e50cdbf"
+    },
+    {
+      "title": "HK 尖沙咀東 TST East 新文華中心 New Mandarin Plaza 酒吧街 Bar Street December 2021 SS2 02.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-a36d20faf17957aa",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_%E5%B0%96%E6%B2%99%E5%92%80%E6%9D%B1_TST_East_%E6%96%B0%E6%96%87%E8%8F%AF%E4%B8%AD%E5%BF%83_New_Mandarin_Plaza_%E9%85%92%E5%90%A7%E8%A1%97_Bar_Street_December_2021_SS2_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/HK_%E5%B0%96%E6%B2%99%E5%92%80%E6%9D%B1_TST_East_%E6%96%B0%E6%96%87%E8%8F%AF%E4%B8%AD%E5%BF%83_New_Mandarin_Plaza_%E9%85%92%E5%90%A7%E8%A1%97_Bar_Street_December_2021_SS2_02.jpg/960px-HK_%E5%B0%96%E6%B2%99%E5%92%80%E6%9D%B1_TST_East_%E6%96%B0%E6%96%87%E8%8F%AF%E4%B8%AD%E5%BF%83_New_Mandarin_Plaza_%E9%85%92%E5%90%A7%E8%A1%97_Bar_Street_December_2021_SS2_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "WHENUSAIDHELLO001",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "HK 尖沙咀東 TST East zh:新文華中心 New Mandarin Plaza 酒吧街 Bar Street food shop in December 2021",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/9ee7ac4126d9561a548d.json",
+      "metadataSha256": "9701ead92f08d45aabe436713ddb85f90c87f30c7b944af4c2a6ba10b9a65558",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a36d20faf17957aa.jpg",
+      "rawSha256": "f291351e3eb7d4de6670a7adb31f1f9827464d4126629ab0834196a5f86c5317"
+    },
+    {
+      "title": "Live streamer introducing food product at a restaurant in Suzhou-20230814.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-aae950e0dda0d530",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Live_streamer_introducing_food_product_at_a_restaurant_in_Suzhou-20230814.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Live_streamer_introducing_food_product_at_a_restaurant_in_Suzhou-20230814.jpg/960px-Live_streamer_introducing_food_product_at_a_restaurant_in_Suzhou-20230814.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A Douyin live streamer introducing Shengjian mantou at a restaurant, and provided the link to purchase the coupon for viewers.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-aae950e0dda0d530.jpg",
+      "rawSha256": "f2b6bf3d25af674045de30e52eadb376e56adf6930507e0c3663ef0103d382f2"
+    },
+    {
+      "title": "Mini fried pork buns.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-dc7720e193f3d69e",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Mini_fried_pork_buns.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mini_fried_pork_buns.jpg/960px-Mini_fried_pork_buns.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Mini fried pork buns",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-dc7720e193f3d69e.jpg",
+      "rawSha256": "dbd091716b3b3da136aea05907c615454eb49f7cd99d8a2644f2de86ae67cc65"
+    },
+    {
+      "title": "Sheng jian bao - Cheung Hing Kee, Hong Kong (2024).jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-6049c2d640cc19a0",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheng_jian_bao_-_Cheung_Hing_Kee,_Hong_Kong_(2024).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Sheng_jian_bao_-_Cheung_Hing_Kee%2C_Hong_Kong_%282024%29.jpg/960px-Sheng_jian_bao_-_Cheung_Hing_Kee%2C_Hong_Kong_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Riblet15",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Sheng jian bao (Shanghai style fried and steamed buns) outside the Cheung Hing Kee restaurant in Tsim Sha Tsui, Hong Kong.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 540,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-6049c2d640cc19a0.jpg",
+      "rawSha256": "921994542e1fed14f5d0fe41e1e182cbfaf7991a2cc7e714d19950958897feb4"
+    },
+    {
+      "title": "Sheng Jian Bao and rice by kina3 in Kichijoji, Tokyo.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-1aced2c45a114a85",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheng_Jian_Bao_and_rice_by_kina3_in_Kichijoji,_Tokyo.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Sheng_Jian_Bao_and_rice_by_kina3_in_Kichijoji%2C_Tokyo.jpg/960px-Sheng_Jian_Bao_and_rice_by_kina3_in_Kichijoji%2C_Tokyo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "kina3 from Shanghai cuisine restaurant Shao long in Kichijoji, Tokyo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "小龍@吉祥寺焼小龍包",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 638,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-1aced2c45a114a85.jpg",
+      "rawSha256": "7d28009f114ff40936038d56c8374d44b032a19cc6eee885ccda585ca06de856"
+    },
+    {
+      "title": "Sheng Jian Bao at Xiao Yang Sheng Jian in Shanghai China.jpg",
+      "categoryNames": [
+        "Shengjian mantou",
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-1e9fc8b8bcec5686",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheng_Jian_Bao_at_Xiao_Yang_Sheng_Jian_in_Shanghai_China.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sheng_Jian_Bao_at_Xiao_Yang_Sheng_Jian_in_Shanghai_China.jpg/960px-Sheng_Jian_Bao_at_Xiao_Yang_Sheng_Jian_in_Shanghai_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Metaphox",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Sheng Jian Bao at Xiao Yang Sheng Jian in Shanghai China",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1285,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-1e9fc8b8bcec5686.jpg",
+      "rawSha256": "05a68656977233f79d94baeeeae87a55fe22b0676b1b55614b7ed08db720009d"
+    },
+    {
+      "title": "Sheng Jian Bao by MR+G in Dalian.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-ac7720f326100c47",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheng_Jian_Bao_by_MR%2BG_in_Dalian.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Sheng_Jian_Bao_by_MR%2BG_in_Dalian.jpg/960px-Sheng_Jian_Bao_by_MR%2BG_in_Dalian.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MR+G from Dalian",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "生煎饅頭（中華人民共和国大連市）",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ac7720f326100c47.jpg",
+      "rawSha256": "c3a25eaaf31935a33f724dac866ffc92c8a0ea55336dfb7d8a2ea37192144e94"
+    },
+    {
+      "title": "Sheng Jian Bao on a pan.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-6b89f98ccb5b864d",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheng_Jian_Bao_on_a_pan.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Sheng_Jian_Bao_on_a_pan.jpg/960px-Sheng_Jian_Bao_on_a_pan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Brian Harrington Spier",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Shen Jian Bao, is Shang'hai'anese Street Food. A most delicious pan fried steam ...Sheng Jian Bao",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-6b89f98ccb5b864d.jpg",
+      "rawSha256": "5d21aca48ab84494b43a45ba08d771bb79ba158503718a4d7d0ae971fbbcf541"
+    },
+    {
+      "title": "Shengjian Mantou on a Pan.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-27fc6b746fcb0a3a",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjian_Mantou_on_a_Pan.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Shengjian_Mantou_on_a_Pan.jpg/960px-Shengjian_Mantou_on_a_Pan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Luca Mascaro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Shengjian Mantou on a Pan",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-27fc6b746fcb0a3a.jpg",
+      "rawSha256": "5f39bc8a2efce007e418cc2ea551d33b14906ae322160c6e1676acb07b682bba"
+    },
+    {
+      "title": "Shengjian mantou shop by ToastyKen in Shanghai.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-4ae2aac60488c0dd",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjian_mantou_shop_by_ToastyKen_in_Shanghai.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Shengjian_mantou_shop_by_ToastyKen_in_Shanghai.jpg/960px-Shengjian_mantou_shop_by_ToastyKen_in_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "ToastyKen from Sheng jian bao shop in Shanghai",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "生煎饅頭販売店（中華人民共和国上海市",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4ae2aac60488c0dd.jpg",
+      "rawSha256": "835970bbc2dc836fcaa079c8313b8461e14d1457c93340ae96935277a054f110"
+    },
+    {
+      "title": "Shengjian mantou.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-6b3698c9ae7d28d5",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjian_mantou.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Shengjian_mantou.jpg/960px-Shengjian_mantou.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Pauloleong2002",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shengjian mantou, is a type of small, pan-fried  buns which is a specialty of Shanghai.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1600,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-6b3698c9ae7d28d5.jpg",
+      "rawSha256": "2fd9b956e8575ff596bb9cf7a9d471e2657efe451ddf24ede78fb4296d9806e6"
+    },
+    {
+      "title": "Shengjianbao and Suanlafen at Yang's Dumpling Suzhou Center-20220709.jpg",
+      "categoryNames": [
+        "Shengjian mantou",
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-9ec27011d2a89741",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjianbao_and_Suanlafen_at_Yang%27s_Dumpling_Suzhou_Center-20220709.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Shengjianbao_and_Suanlafen_at_Yang%27s_Dumpling_Suzhou_Center-20220709.jpg/960px-Shengjianbao_and_Suanlafen_at_Yang%27s_Dumpling_Suzhou_Center-20220709.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Three flavors in this meal.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9ec27011d2a89741.jpg",
+      "rawSha256": "572a6b7f3c7d5d604f97317b524fa112caff43ff4b1f917fdb81608bc19dfebe"
+    },
+    {
+      "title": "Shengjianbao by buncheduptv in San Gabriel, CA.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-61ecd99b5a1835a9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjianbao_by_buncheduptv_in_San_Gabriel,_CA.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/0/09/Shengjianbao_by_buncheduptv_in_San_Gabriel%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "buncheduptv from Dim sum restaurant J & J Restaurant in San Gabriel, California",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "生煎饅頭（米国カリフォルニア州ロサンゼルス郡サン・ガブリエルの点心専門中華料理店「J & J Restaurant」）",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Shengjianbao by buncheduptv in San Mateo, CA.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-6a060b1c08e02fe7",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjianbao_by_buncheduptv_in_San_Mateo,_CA.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shengjianbao_by_buncheduptv_in_San_Mateo%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "buncheduptv from Shanghainese restaurant Little Shanghai Restaurant in San Mateo, California",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "生煎饅頭（米国カリフォルニア州サンマテオ郡サンマテオの中華料理店「Little Shanghai Restaurant」）",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Shengjianbao shop by ma jump in Shilin Night Market, Taiwan.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-20a4a53862fe6bf3",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjianbao_shop_by_ma_jump_in_Shilin_Night_Market,_Taiwan.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Shengjianbao_shop_by_ma_jump_in_Shilin_Night_Market%2C_Taiwan.jpg/960px-Shengjianbao_shop_by_ma_jump_in_Shilin_Night_Market%2C_Taiwan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "ma jump from Shilin Night Market, Taipei, Taiwan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Making shengjianbao in the shopL1000091",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1707,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-20a4a53862fe6bf3.jpg",
+      "rawSha256": "294eb3b16056f1a360f1c97b93c9a7148a10fbe1595b98143e38e2d527795fb4"
+    },
+    {
+      "title": "ShengJianBaoShanghaiChina.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-ffef8eba829e94cf",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:ShengJianBaoShanghaiChina.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/ShengJianBaoShanghaiChina.jpg/960px-ShengJianBaoShanghaiChina.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "INABA Tomoaki",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Sheng Jian Bao Shanghai China",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/3fe53660795fd53de2ba.json",
+      "metadataSha256": "23025b45a5ac36841f511057d6a13731e2bfcf11b8eaf690511f1b8ad331e242",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 637,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ffef8eba829e94cf.jpg",
+      "rawSha256": "ea5d375e43ca6a40ab48ed5f4b89be95c689e3781756445f45b9006e461eb027"
+    },
+    {
+      "title": "Shengjianmantou by galaxyharrylion in shanghai.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-9bb320884e4e0f9f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shengjianmantou_by_galaxyharrylion_in_shanghai.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Shengjianmantou_by_galaxyharrylion_in_shanghai.jpg/960px-Shengjianmantou_by_galaxyharrylion_in_shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "galaxyharrylion",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "从丰裕生煎购买的生煎馒头",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1707,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9bb320884e4e0f9f.jpg",
+      "rawSha256": "e8745e2211c8d8d42a18ce7a29a635281438cdffe61fb5f5b1479786d9f02495"
+    },
+    {
+      "title": "Sunjingbao shop by Jim Epler in Taipei.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-29b8839801f49a17",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunjingbao_shop_by_Jim_Epler_in_Taipei.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sunjingbao_shop_by_Jim_Epler_in_Taipei.jpg/960px-Sunjingbao_shop_by_Jim_Epler_in_Taipei.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jim Epler from Taipei, Taiwan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "A view of people lined up for breakfast at a street vendor in Taipei.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-29b8839801f49a17.jpg",
+      "rawSha256": "f52459e59e04856773d82a1ba3f171eaf7aab3b7ecbd32ac6664cdcccd21071e"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen Luohu District Luo Sha Road Heung Yuen Wai Shopping Mall shop food 生煎包 dumpling n drink boxes April 2023 Px3.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-3fe8076cb8849c8c",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Luohu_District_Luo_Sha_Road_Heung_Yuen_Wai_Shopping_Mall_shop_food_%E7%94%9F%E7%85%8E%E5%8C%85_dumpling_n_drink_boxes_April_2023_Px3.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Luohu_District_Luo_Sha_Road_Heung_Yuen_Wai_Shopping_Mall_shop_food_%E7%94%9F%E7%85%8E%E5%8C%85_dumpling_n_drink_boxes_April_2023_Px3.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Luohu_District_Luo_Sha_Road_Heung_Yuen_Wai_Shopping_Mall_shop_food_%E7%94%9F%E7%85%8E%E5%8C%85_dumpling_n_drink_boxes_April_2023_Px3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "BAIZEAKITOIU Mingdym",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ zh:深圳 Shenzhen Luohu District Luo Sha Road Heung Yuen Wai Shopping Mall shop in April 2023\nzh:平底鍋\nzh:電飯煲\nzh:茶葉蛋\nzh:生煎包",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-3fe8076cb8849c8c.jpg",
+      "rawSha256": "73db3abb5bb432b6871297d6701c38bb1421dc16c503d7dd93a3c01ed78f9adf"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food March 2023 Px3 04.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-c3ef7867e54a6b8c",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_March_2023_Px3_04.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_March_2023_Px3_04.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_March_2023_Px3_04.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "DSGZodlands Wings",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ zh:深圳 Shenzhen zh:羅湖區 Luohu zh:羅沙路 Luosha Lu zh:蓮塘口岸 Liantang Port in March 2023\nzh:平底鍋\nzh:電飯煲\nzh:茶葉蛋\nzh:生煎包",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-c3ef7867e54a6b8c.jpg",
+      "rawSha256": "3a623ced9e941cc41ec186fbd79c3beac22bc9a663ee14d73c17eb60d2abe953"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant April 2024 R12S 01.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-564fdd5883673a3a",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Mingz 33 hwiyuAEM Hungom",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant in April 2024 \n生煎包",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-564fdd5883673a3a.jpg",
+      "rawSha256": "7d48bcfd7977637c38e352dd50a6bc1147bf866f556ba32bbd0c4eb808d1115e"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant April 2024 R12S 02.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-73a4e6e0d2687fd1",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_restaurant_April_2024_R12S_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Mingz 33 hwiyuAEM Hungom",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food restaurant in April 2024",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-73a4e6e0d2687fd1.jpg",
+      "rawSha256": "794f4d6bfe7532a4d8d994055a930655b842f6eaa89d6178886a4dd73cd23447"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 October 2023 R12S 01.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-a8e638369ba2df56",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_01.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "RGASAEE 6632 CASAMM",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 in October 2023",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a8e638369ba2df56.jpg",
+      "rawSha256": "4e2002d1838c627ca5fe18682262469cc62de799e9acbf37efed0f68c7d26315"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 October 2023 R12S 02.jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-59dcc78fff8e902f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_02.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Metro_%E9%A8%B0%E9%BE%8D%E8%B7%AF_Tenglong_Road_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_October_2023_R12S_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "RGASAEE 6632 CASAMM",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road shop 三津湯包 Sam Chun Tong Bao Food 生煎包 in October 2023",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-59dcc78fff8e902f.jpg",
+      "rawSha256": "c3cfd9f5a57265cda0f86cb377445ac9160d88c4c5a81fd0a20c8d0bb9a03edd"
+    },
+    {
+      "title": "Xiao Yang Sheng Jian Guan 1.jpg",
+      "categoryNames": [
+        "Shengjian mantou",
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-0d4142242fff10bb",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Xiao_Yang_Sheng_Jian_Guan_1.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Xiao_Yang_Sheng_Jian_Guan_1.jpg/960px-Xiao_Yang_Sheng_Jian_Guan_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Eason Lai from 上海",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Yang's Fry Dumpling上海之旅_0803_08",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-0d4142242fff10bb.jpg",
+      "rawSha256": "ee86c904af2b06d08137954ec15c8a7dc0127556250ca627b7ec97b76af86a88"
+    },
+    {
+      "title": "Xiao Yang Sheng Jian Guan 2.jpg",
+      "categoryNames": [
+        "Shengjian mantou",
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz",
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-fcd8bbed1ded29e8",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Xiao_Yang_Sheng_Jian_Guan_2.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/3/39/Xiao_Yang_Sheng_Jian_Guan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Eason Lai from 上海",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Yang's Fry Dumpling上海之旅_0803_09",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "北投石牌商城-生煎包09 (27558770616).jpg",
+      "categoryNames": [
+        "Shengjian mantou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/139d56558c6639c2f326.html.gz"
+      ],
+      "id": "c-4702ca8adf184297",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%8A%95%E7%9F%B3%E7%89%8C%E5%95%86%E5%9F%8E-%E7%94%9F%E7%85%8E%E5%8C%8509_(27558770616).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E5%8C%97%E6%8A%95%E7%9F%B3%E7%89%8C%E5%95%86%E5%9F%8E-%E7%94%9F%E7%85%8E%E5%8C%8509_%2827558770616%29.jpg/960px-%E5%8C%97%E6%8A%95%E7%9F%B3%E7%89%8C%E5%95%86%E5%9F%8E-%E7%94%9F%E7%85%8E%E5%8C%8509_%2827558770616%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "羽諾 諾咪",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "北投石牌商城-生煎包09",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4702ca8adf184297.jpg",
+      "rawSha256": "0b5073a770e620f6bf428c276449c2cfce5e08c76ed0773adf8976c3e899645a"
+    },
+    {
+      "title": "Elpitiya Gunpowder GP1.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-536636d4905d2eed",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Elpitiya_Gunpowder_GP1.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Elpitiya_Gunpowder_GP1.jpg/960px-Elpitiya_Gunpowder_GP1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "WJ Houtman",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Elpitiya Gunpowder GP1 - a gunpowder tea from Sri Lanka (Ceylon) rolled by hand.\ncamera: Canon EOS 300D camera",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 523,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-536636d4905d2eed.jpg",
+      "rawSha256": "aed9425f41a0b399875a106dc9b792c39b60d8a96eea87c66dffb85f05e0766d"
+    },
+    {
+      "title": "Gruener Tee China Gunpowder.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-217bd466c400c4dd",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gruener_Tee_China_Gunpowder.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gruener_Tee_China_Gunpowder.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "The original uploader was Petwoe at German Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Grüner Tee, China Gunpowder, hart gerollter Kugeltee\n PeterW",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Gunpowder Green Tea.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-97fb98fcf5993b56",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunpowder_Green_Tea.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gunpowder_Green_Tea.jpg/960px-Gunpowder_Green_Tea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Veganlover1993",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "This a picture of gunpowder green tea that is dried and ready to steep into tea. https://en.wikipedia.org/wiki/Gunpowder_tea",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 643,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-97fb98fcf5993b56.jpg",
+      "rawSha256": "56ea78fa3f32a452793e2a636158e1f8ed15345983cf8be8b2815f2a36b0a94b"
+    },
+    {
+      "title": "Gunpowder tea construction site.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-21a0b8b7590f6dd3",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunpowder_tea_construction_site.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gunpowder_tea_construction_site.jpg/960px-Gunpowder_tea_construction_site.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Ikiwaner",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Chinese Gunpowder tea is being prepared on a charcoal cooker on a construction site in The Gambia.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/00da44229f330f9326ea.json",
+      "metadataSha256": "a32931dd831da21d9c3701c0606b6207f30c24f81411db75dabcd8dc8b101271",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-21a0b8b7590f6dd3.jpg",
+      "rawSha256": "a17d2f75635a05f8765fbf77fc8f043e2b0808dc7b75a33ea26ef1cfe436b484"
+    },
+    {
+      "title": "Gunpowder tea in pile.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-c676ca0ddbd80ec2",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunpowder_tea_in_pile.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gunpowder_tea_in_pile.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Self-photographed",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "A pile of Chinese Gunpowder tea. The little pills are about half a centimetre long.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Gunpowdertea.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-c99cacd0efb744b2",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunpowdertea.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gunpowdertea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "No machine-readable author provided. SanderSpek~commonswiki assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Own picture. Some gun powder green tea.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Oolong gunpowder tea size comparison.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-7ba040df4231094d",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Oolong_gunpowder_tea_size_comparison.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/1/16/Oolong_gunpowder_tea_size_comparison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Zitalein",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Oolong gunpowder tea size comparison: before and after brewing.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Oolong gunpowder tea sizes before after.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-50440a9b1d1751ed",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Oolong_gunpowder_tea_sizes_before_after.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oolong_gunpowder_tea_sizes_before_after.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Zitalein",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Oolong gunpowder tea size comparison: before and after brewing.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Oolong gunpowder tea sizes.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-821e2c0bdb8d6b41",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Oolong_gunpowder_tea_sizes.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Oolong_gunpowder_tea_sizes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Zitalein",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Oolong gunpowder tea size comparison: before and after brewing.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Thé vert gunpowder 01.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-6d2446e4e5db93ba",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9_vert_gunpowder_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Th%C3%A9_vert_gunpowder_01.jpg/960px-Th%C3%A9_vert_gunpowder_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Zantastik",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Des feuilles de thé vert chinois roulées en gunpowder, dans leur boîte.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 701,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-6d2446e4e5db93ba.jpg",
+      "rawSha256": "101bf23c1ebb43d7cc6135a72d0837724990950ca1a2b474ae9d3d73b111194a"
+    },
+    {
+      "title": "Thé vert gunpowder entassé 01.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-a2b29970e5d50f16",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9_vert_gunpowder_entass%C3%A9_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Th%C3%A9_vert_gunpowder_entass%C3%A9_01.jpg/960px-Th%C3%A9_vert_gunpowder_entass%C3%A9_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Zantastik",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Des feuilles de thé vert chinois roulées en gunpowder.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 593,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a2b29970e5d50f16.jpg",
+      "rawSha256": "521856e9f9c9a6722664dd18d84fad53c96bae3ea50a404ebfc6015e603d5058"
+    },
+    {
+      "title": "Twinings gunpowder green tea.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-39b2b0741b910c42",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Twinings_gunpowder_green_tea.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Twinings_gunpowder_green_tea.jpg/960px-Twinings_gunpowder_green_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MikeOligny",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A small pile of Twinings gunpowder green tea.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-39b2b0741b910c42.jpg",
+      "rawSha256": "5df3072f41830eacde528f1f1b7bd033321a50115b89c486773504a15d903704"
+    },
+    {
+      "title": "Twinings Gunpowder tea in pile.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-ee9982162c1c6229",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Twinings_Gunpowder_tea_in_pile.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Twinings_Gunpowder_tea_in_pile.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Twinings Gunpowder tea in tin.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-9b0926b77a08481f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Twinings_Gunpowder_tea_in_tin.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Twinings_Gunpowder_tea_in_tin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Twinings Gunpowder tin of tea.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-1c00c9f0f1fa3f9b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Twinings_Gunpowder_tin_of_tea.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Twinings_Gunpowder_tin_of_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Twinnings gunpowder green tea.jpg",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-baeaa23c8c307e2f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Twinnings_gunpowder_green_tea.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Twinnings_gunpowder_green_tea.jpg/960px-Twinnings_gunpowder_green_tea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MikeOligny",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A small pile of Twinnings gunpowder green tea.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-baeaa23c8c307e2f.jpg",
+      "rawSha256": "eb70e14d3c7c00ca5b4b1518f528883025b0977a5bd6b1e4e5bb7a819199d97d"
+    },
+    {
+      "title": "Изглед зеленог чаја Gunpowder.JPG",
+      "categoryNames": [
+        "Gunpowder tea"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/bbc7f3fb206b39862f93.html.gz"
+      ],
+      "id": "c-e772153add34898a",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%B7%D0%B3%D0%BB%D0%B5%D0%B4_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3_%D1%87%D0%B0%D1%98%D0%B0_Gunpowder.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%D0%98%D0%B7%D0%B3%D0%BB%D0%B5%D0%B4_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3_%D1%87%D0%B0%D1%98%D0%B0_Gunpowder.JPG/330px-%D0%98%D0%B7%D0%B3%D0%BB%D0%B5%D0%B4_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3_%D1%87%D0%B0%D1%98%D0%B0_Gunpowder.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Miljanatodorovic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "изглед зеленог чаја",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 330,
+      "height": 440,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e772153add34898a.jpg",
+      "rawSha256": "e20dcc41aeb6e465e08a4d692c12258fb15631f37bb8b218c5161288150134f6"
+    },
+    {
+      "title": "Kesi 1.JPG",
+      "categoryNames": [
+        "Kesi"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/ae979dc3179637ec0174.html.gz"
+      ],
+      "id": "c-1938492dd53bedc9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kesi_1.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kesi_1.JPG/960px-Kesi_1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "BillyDK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Kesi, dansk rap musiker, Kolding kulturnat 21. august 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1382,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-1938492dd53bedc9.jpg",
+      "rawSha256": "1a1495c1e4917c11e63954055be4b005a26ffd0b22b63c353e44df3c020a1ed7"
+    },
+    {
+      "title": "Kesi 2.JPG",
+      "categoryNames": [
+        "Kesi"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/ae979dc3179637ec0174.html.gz"
+      ],
+      "id": "c-f80a5e8f7712c4c1",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kesi_2.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kesi_2.JPG/960px-Kesi_2.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "BillyDK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Kesi, dansk rap musiker, Kolding kulturnat 21. august 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/65cb4e684e7e30c7105c.json",
+      "metadataSha256": "a3a97340d205735a7dd31bc6d97084cbeda085473f75469927700ce5228b7176",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1698,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f80a5e8f7712c4c1.jpg",
+      "rawSha256": "f079a6aa684f75efbe5fb00279fea45951cbb17a83d628c2d503efdcb02feaa7"
+    },
+    {
+      "title": "Oliver Kesi Chambuso.jpg",
+      "categoryNames": [
+        "Kesi"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/ae979dc3179637ec0174.html.gz"
+      ],
+      "id": "c-f9e564df1078005d",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Oliver_Kesi_Chambuso.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Oliver_Kesi_Chambuso.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Nikolaj Lerche",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Oliver Kesi Chambuso",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Beijing traditional breakfast Chaogan Youbing.jpg",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-a3ba79df0e2fa2fc",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Beijing_traditional_breakfast_Chaogan_Youbing.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Beijing_traditional_breakfast_Chaogan_Youbing.jpg/960px-Beijing_traditional_breakfast_Chaogan_Youbing.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Lixshnew",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "\n\n\n\nThis photo has been taken in the country: China\n",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a3ba79df0e2fa2fc.jpg",
+      "rawSha256": "101593a4d606a946417eb799bc2565725e821b9e71b85428d794ad1c341ccccb"
+    },
+    {
+      "title": "Breakfast selections at a restaurant near Wanshousi, Beijing (20230313082120).jpg",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-9aa0e953a033dd42",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Breakfast_selections_at_a_restaurant_near_Wanshousi,_Beijing_(20230313082120).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Breakfast_selections_at_a_restaurant_near_Wanshousi%2C_Beijing_%2820230313082120%29.jpg/960px-Breakfast_selections_at_a_restaurant_near_Wanshousi%2C_Beijing_%2820230313082120%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Commonly-seen.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9aa0e953a033dd42.jpg",
+      "rawSha256": "35baf67224eab23b42e150baba17b1d2e521bda69e47dba9bd2346af7b30f8e0"
+    },
+    {
+      "title": "Chaogan.JPG",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-e71651294bcd31f6",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaogan.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chaogan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "The original uploader was 用心阁 at Chinese Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "​炒肝",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "title": "Chaoganr at Miaojiapo Restaurant (20201105150908).jpg",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-3afe2493ec80b589",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant_(20201105150908).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg/960px-Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "18 for this large serving, and 14 for smaller serving.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-3afe2493ec80b589.jpg",
+      "rawSha256": "c82f5e5b6e8f9c86324589b1c84320097a0a0d13a5dd81fd80a031053077e926"
+    },
+    {
+      "title": "一碗炒肝.jpg",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-4473be39a4001f53",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E7%A2%97%E7%82%92%E8%82%9D.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E4%B8%80%E7%A2%97%E7%82%92%E8%82%9D.jpg/960px-%E4%B8%80%E7%A2%97%E7%82%92%E8%82%9D.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "蓝芷怡",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "​一碗炒肝，一般老北京的炒肝在出品时是故意打满到溢出的状态，然后端上来后端着碗沿着碗口吸一圈，然后喝下去，由此也出现了说老北京炒肝叫“喝”不叫“吃”，用勺吃不正宗的说法",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4473be39a4001f53.jpg",
+      "rawSha256": "287101dcaccad69852e6ccaa3fb402f4da95eda5d1baa4fa20a6981a5e115e18"
+    },
+    {
+      "title": "用筷子挑起一块炒肝的汤汁.jpg",
+      "categoryNames": [
+        "Chaogan"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/c4569e4f5a3753829931.html.gz"
+      ],
+      "id": "c-b1bc04d483a0461f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%94%A8%E7%AD%B7%E5%AD%90%E6%8C%91%E8%B5%B7%E4%B8%80%E5%9D%97%E7%82%92%E8%82%9D%E7%9A%84%E6%B1%A4%E6%B1%81.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%E7%94%A8%E7%AD%B7%E5%AD%90%E6%8C%91%E8%B5%B7%E4%B8%80%E5%9D%97%E7%82%92%E8%82%9D%E7%9A%84%E6%B1%A4%E6%B1%81.jpg/960px-%E7%94%A8%E7%AD%B7%E5%AD%90%E6%8C%91%E8%B5%B7%E4%B8%80%E5%9D%97%E7%82%92%E8%82%9D%E7%9A%84%E6%B1%A4%E6%B1%81.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "蓝芷怡",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "​用筷子挑起一块炒肝的汤汁，可以看到汤汁是很浓稠的",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-b1bc04d483a0461f.jpg",
+      "rawSha256": "0f67c44812c2e735a50315a42c3d1ac5d63893f3de2243dad4e5af288f0db111"
+    },
+    {
+      "title": "Cherry blossom cakes.jpg",
+      "categoryNames": [
+        "Water tower cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/4e651337150bbc4c3a9f.html.gz"
+      ],
+      "id": "c-51f8b4c99c7b4d9c",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_cakes.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Cherry_blossom_cakes.jpg/960px-Cherry_blossom_cakes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Cherry blossom cakes",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-51f8b4c99c7b4d9c.jpg",
+      "rawSha256": "25d56ede8f3815dcee7a035c234581d14aa845c8753bfd4cd572d88a0ac451fc"
+    },
+    {
+      "title": "Pumpkin yellow heart cake.jpg",
+      "categoryNames": [
+        "Water tower cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/4e651337150bbc4c3a9f.html.gz"
+      ],
+      "id": "c-a59d1e340eb9a1b3",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_yellow_heart_cake.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pumpkin_yellow_heart_cake.jpg/960px-Pumpkin_yellow_heart_cake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Pumpkin yellow heart cake",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a59d1e340eb9a1b3.jpg",
+      "rawSha256": "c867178d5e33b73c854bbea0ff9f3c95bcf424c799b320d8c6e9f9323d3f46cc"
+    },
+    {
+      "title": "Water tower cake.jpg",
+      "categoryNames": [
+        "Water tower cake"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/4e651337150bbc4c3a9f.html.gz"
+      ],
+      "id": "c-abe3f0d78a309f1f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Water_tower_cake.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Water_tower_cake.jpg/960px-Water_tower_cake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Water tower cake",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-abe3f0d78a309f1f.jpg",
+      "rawSha256": "490ab976496090d2ccfb0d7272c55ac8d70eb9768060e1aaea5f2a089bf6488c"
+    },
+    {
+      "title": "Shanghai (December 8, 2015) - 04.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-e6be6de8d03710b2",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_(December_8,_2015)_-_04.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Shanghai_%28December_8%2C_2015%29_-_04.jpg/960px-Shanghai_%28December_8%2C_2015%29_-_04.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shanghai, December 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e6be6de8d03710b2.jpg",
+      "rawSha256": "94c10f91f1d3de9a22eb979d6acdba73a2ac3cff2b1e852ba33e822cc7b2b91a"
+    },
+    {
+      "title": "Shanghai (December 9, 2015) - 04.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-e6f77843022a33e0",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_(December_9,_2015)_-_04.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanghai_%28December_9%2C_2015%29_-_04.jpg/960px-Shanghai_%28December_9%2C_2015%29_-_04.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shanghai, December 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e6f77843022a33e0.jpg",
+      "rawSha256": "9a33695716b9e954dcf334fa4946218a8bcf187cd8fdb60b212f4b701c23e5f3"
+    },
+    {
+      "title": "Shanghai (December 9, 2015) - 05.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-0825ddf35ddd18c5",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_(December_9,_2015)_-_05.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Shanghai_%28December_9%2C_2015%29_-_05.jpg/960px-Shanghai_%28December_9%2C_2015%29_-_05.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shanghai, December 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-0825ddf35ddd18c5.jpg",
+      "rawSha256": "90fb3a9e17bad4e3b8d6feeff14b864bb9efa0999f92d45d3771f347ecb664d4"
+    },
+    {
+      "title": "Shanghai (December 9, 2015) - 100.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-9aa12cd069c10032",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_(December_9,_2015)_-_100.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Shanghai_%28December_9%2C_2015%29_-_100.jpg/960px-Shanghai_%28December_9%2C_2015%29_-_100.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shanghai, December 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9aa12cd069c10032.jpg",
+      "rawSha256": "3dbbed3407fea8bc47201b8e206d9ff85437f3c4c6576edc290ea0215f1b962c"
+    },
+    {
+      "title": "Shanghai, China, December 2015 - 021.JPG",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-4f86095b8c6392d8",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai,_China,_December_2015_-_021.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Shanghai%2C_China%2C_December_2015_-_021.JPG/960px-Shanghai%2C_China%2C_December_2015_-_021.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Shanghai, China, December 2015",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4f86095b8c6392d8.jpg",
+      "rawSha256": "6f4bc131e9bfddb6fe3d90443493e2f8672645a27fad78cdd972b4097f49b3a8"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 02.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-6f3b346ea9952dcb",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_02.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Zhdcuwm MEIONRUPAA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ zh:深圳 Shenzhen zh:羅湖區 Luohu zh:羅沙路 Luosha Lu zh:蓮塘口岸 Liantang Port in April 2023",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-6f3b346ea9952dcb.jpg",
+      "rawSha256": "c95ca85d6e6db7f777433d1714eb555dc782df72c3f12ccbff5e24cfb5442230"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 03.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-2ba7f7ace05a2a2f",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_03.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_03.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Zhdcuwm MEIONRUPAA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ zh:深圳 Shenzhen zh:羅湖區 Luohu zh:羅沙路 Luosha Lu zh:蓮塘口岸 Liantang Port in April 2023",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-2ba7f7ace05a2a2f.jpg",
+      "rawSha256": "d111f4c2a9324abeba5721e9fe00748bb71e9d3f02a71cad9cbd5bde387281bf"
+    },
+    {
+      "title": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall shop 三津湯包 Sam Chun Tong Bao Food 生煎包 pan fried buns April 2023 Px3 08.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-4015bdd90f5d4548",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_08.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_shop_%E4%B8%89%E6%B4%A5%E6%B9%AF%E5%8C%85_Sam_Chun_Tong_Bao_Food_%E7%94%9F%E7%85%8E%E5%8C%85_pan_fried_buns_April_2023_Px3_08.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Zhdcuwm MEIONRUPAA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "SZ zh:深圳 Shenzhen zh:羅湖區 Luohu zh:羅沙路 Luosha Lu zh:蓮塘口岸 Liantang Port in April 2023",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4015bdd90f5d4548.jpg",
+      "rawSha256": "7a9ffcb61cbd82a429b7ca2784772ea80b4304f18163aee68bd2c45f3484bd5f"
+    },
+    {
+      "title": "Yang's Dumping at Jingcheng Neighbor Center-20210803.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-4df24ed981f737f9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yang%27s_Dumping_at_Jingcheng_Neighbor_Center-20210803.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Yang%27s_Dumping_at_Jingcheng_Neighbor_Center-20210803.jpg/960px-Yang%27s_Dumping_at_Jingcheng_Neighbor_Center-20210803.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Located at B1. But this location is closed in May 2022.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4df24ed981f737f9.jpg",
+      "rawSha256": "22f9a2fbf467e3be8073cf47ff8f97f051a2379a259ed3e2178523da32eb5833"
+    },
+    {
+      "title": "Yang's Dumpling at RT-Mart Zhongyuan Road-20240130.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-8474ae2c05368fcb",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yang%27s_Dumpling_at_RT-Mart_Zhongyuan_Road-20240130.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Yang%27s_Dumpling_at_RT-Mart_Zhongyuan_Road-20240130.jpg/960px-Yang%27s_Dumpling_at_RT-Mart_Zhongyuan_Road-20240130.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Located at L1.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-8474ae2c05368fcb.jpg",
+      "rawSha256": "1201fe2c13ddf997ef858926c36e7d2f4f16d52af1bfcb4053c9ffd92dc9560a"
+    },
+    {
+      "title": "Yang's Dumpling at Shanghai Railway Station.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-24177b8a9002ec5d",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yang%27s_Dumpling_at_Shanghai_Railway_Station.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Yang%27s_Dumpling_at_Shanghai_Railway_Station.jpg/960px-Yang%27s_Dumpling_at_Shanghai_Railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Since in 1994, which the first restaurant opened at Wujiang Road.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-24177b8a9002ec5d.jpg",
+      "rawSha256": "0db0addffcb31e0146aecb8789ccc0b242ba9db6855a7afba459faf3ced04409"
+    },
+    {
+      "title": "Yang's Dumpling at Suzhou Center-20220709.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-48b86d0dbb8a5b88",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yang%27s_Dumpling_at_Suzhou_Center-20220709.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Yang%27s_Dumpling_at_Suzhou_Center-20220709.jpg/960px-Yang%27s_Dumpling_at_Suzhou_Center-20220709.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "New location here.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-48b86d0dbb8a5b88.jpg",
+      "rawSha256": "04988688fde05ae536448424cbf28e5032d84f4cebe96f3e04a4cfeecc3b18ac"
+    },
+    {
+      "title": "Yang's Dumpling on arrival floor of Shanghai Hongqiao Station.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-98c8faa1f91fc7c5",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yang%27s_Dumpling_on_arrival_floor_of_Shanghai_Hongqiao_Station.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Yang%27s_Dumpling_on_arrival_floor_of_Shanghai_Hongqiao_Station.jpg/960px-Yang%27s_Dumpling_on_arrival_floor_of_Shanghai_Hongqiao_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Just near the Exit 1.",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-98c8faa1f91fc7c5.jpg",
+      "rawSha256": "37c952f69d5e35556c0246596d2529988b47245e0bf29b7925419b8ece00d22b"
+    },
+    {
+      "title": "小楊生煎 Kwankwan.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-f433e8639a6ab807",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A5%8A%E7%94%9F%E7%85%8E_Kwankwan.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%E5%B0%8F%E6%A5%8A%E7%94%9F%E7%85%8E_Kwankwan.jpg/960px-%E5%B0%8F%E6%A5%8A%E7%94%9F%E7%85%8E_Kwankwan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "kwankwan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "小楊生煎包",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f433e8639a6ab807.jpg",
+      "rawSha256": "a4e1e6cb9960ea57f715beb160a0d067729d64fa806b48de4f6e9348aebe5934"
+    },
+    {
+      "title": "小楊生煎.jpg",
+      "categoryNames": [
+        "Yang's Dumpling"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/033145d4a6c6f67acaa7.html.gz"
+      ],
+      "id": "c-ae1f3298a7d9bbe9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%A5%8A%E7%94%9F%E7%85%8E.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%E5%B0%8F%E6%A5%8A%E7%94%9F%E7%85%8E.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "中文維基百科20021024",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "我拍的小楊生煎",
+      "itemIds": [],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/743f37cccba5ea7437e2.json",
+      "metadataSha256": "03e4885be1ee057223e0568b38442628cab28a3bd6f890e0e8b8860972ed611e",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-17",
+  "sheetsViewed": [
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy-api-0.jpg",
+      "sha256": "6cef740d7037759e848e628b8be110e1ccf7ade19640ea0088a42e6eca4ca70e"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy-flickr-selected.jpg",
+      "sha256": "8497e5e6e4e5e91424992d2d142950a435f1b769cf56cabf3150ef11b18b8bd3"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy-cached-next.jpg",
+      "sha256": "70cd6cdef00bcfbd76e5a3d700f9fafa881e258244f1df7e87ad20ab4a428881"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-english-25.jpg",
+      "sha256": "da5201684ca9ec8484fb9794bba77de27141162da2efc643363d22a01f7c2ed2"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-english-0.jpg",
+      "sha256": "aceefcd45f1927c085561672ee9f57c82feabaf72c3b8ee31eecb9f7e8c26396"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-relevant-20.jpg",
+      "sha256": "b0208253deff5034e9bb550a623370e2c5d7d406ca9814f3df2cb86bf6b34274"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-relevant-0.jpg",
+      "sha256": "76651fe6cd59b39cfb09e3c68d15e6d986c5df4c9905dca23bb4cf5c450ea411"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-followup-0.jpg",
+      "sha256": "a8f83f0bf023f70c9ac7b88d52ac7dde72be7b03d14ac15d9c30dd8769d8514b"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-more-100.jpg",
+      "sha256": "d85c54360f35ee44b0c58e22ec3840a4cf919869f02399abc3aa5a6e8fe19cbf"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-more-75.jpg",
+      "sha256": "6a8df764cf206ae7e195d4e880b3e876f06e5032f27c501cc6d62c3ff747d7f6"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-more-50.jpg",
+      "sha256": "175b24acb5234710642cb72c4a082c48f2d3a17e3f9039f63cfbd675439416ef"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-more-25.jpg",
+      "sha256": "fc1480bbed28a9cffeea8257860721f12a28d271913db1e8e1e472f1e0178979"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/reviewed-contacts/jzy3-more-0.jpg",
+      "sha256": "80295ae0420fe796e35c991b542df3185f7f2f1cc827a206a35164fd177e1a07"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/contacts/contact-03.jpg",
+      "sha256": "3b6257b1de91e97731e8599086d1df28219b045669c86334aab1cf771f70cf2e"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/contacts/contact-01.jpg",
+      "sha256": "339be979961cca193c1751163e973e8c927bba0e55f1f414d1b7e0605218231a"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/contacts/contact-00.jpg",
+      "sha256": "8c4a05e8ec4203a6a448801747a83aa18993a97452b9e6363c0975304c77f1ac"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/contacts/contact-02.jpg",
+      "sha256": "adb314d5d3e20c8811874941beaf159a0d0f77d71d3c0d3254bfee900bbc4f86"
+    },
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/contacts/contact-04.jpg",
+      "sha256": "4346ef9612bf796bcecb88c5773421755f06346015080d59c83956f6cb319d2b"
+    }
+  ],
+  "notes": [
+    "新Flickr154张候选接触表均已查看；没有把搜索返回数算作采用数。",
+    "第一组Commons分类候选只对选定标题及部分接触表进行复核，没有声称471张全部完成逐图验证。",
+    "第二组分类候选只查看0–24所在接触表；25–69没有声称已目视筛查。",
+    "批准条目及理由以visual-decisions.json为准；未批准不等于已否决所有候选。"
+  ],
+  "individuallyViewedSourceFiles": [
+    {
+      "file": "research/.local/jiangzhehu-images-20261117-03/photos/c-a2e3e7af717aefe5.jpg",
+      "sha256": "ea409e427fca1427df4683a17cde8eae6831890217ea5aa7b5f2ff0904fedf35"
+    }
+  ]
+}

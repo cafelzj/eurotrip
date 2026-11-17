@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "status": "all-records-preserved",
   "standaloneFeature": "retired",
   "destination": "#card-manager/china?primary=food",
@@ -8,8 +8,8 @@
   "verifiedFlavors": 6497,
   "unifiedChinaCards": 6627,
   "retainedPhotoCards": 67,
-  "canonicalChinaPhotoCards": 248,
-  "canonicalChinaListPhotoCards": 235,
+  "canonicalChinaPhotoCards": 277,
+  "canonicalChinaListPhotoCards": 264,
   "enrichedChineseCards": 24,
   "reviewedReadingUpdates": [
     {
@@ -165,7 +165,7 @@
   "inputs": [
     {
       "path": "data/china-card-images.js",
-      "sha256": "31c1e8a3702341e780d6ad02939e6b294b387f4ed0e8fe804d0be437ce90dc9b"
+      "sha256": "7d190a89f2980a24a907e66962b04cc1a86da6560dfabb309b6f4b65099a7c3b"
     },
     {
       "path": "data/china-card-reading.js",

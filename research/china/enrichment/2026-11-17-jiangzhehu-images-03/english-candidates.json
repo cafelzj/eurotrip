@@ -1,0 +1,1178 @@
+{
+  "date": "2026-11-17",
+  "candidates": [
+    {
+      "title": "Braised Shredded Chicken with Ham and Dried Tofu 2011-04.JPG",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "articleTitles": [
+        "Dazhu gansi"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-2418802d114fb2df",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Braised_Shredded_Chicken_with_Ham_and_Dried_Tofu_2011-04.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Braised_Shredded_Chicken_with_Ham_and_Dried_Tofu_2011-04.JPG/960px-Braised_Shredded_Chicken_with_Ham_and_Dried_Tofu_2011-04.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "猫猫的日记本",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "​大煮干丝，淮扬菜代表之一，摄于扬州淮扬菜博物馆。",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-2418802d114fb2df.jpg",
+      "rawSha256": "99bce4c10837e411b0cfa69e168be78806396efd5d18db8eeda2ada1dcc1cd41"
+    },
+    {
+      "title": "Xiao long bao closeup in Shanghai.jpg",
+      "itemIds": [
+        "js-dazhugansi",
+        "js-tianmuhu-fishhead"
+      ],
+      "articleTitles": [
+        "Dazhu gansi",
+        "Fish head casserole"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-8d2d36fa31f4bb18",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Xiao_long_bao_closeup_in_Shanghai.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Xiao_long_bao_closeup_in_Shanghai.jpg/960px-Xiao_long_bao_closeup_in_Shanghai.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "MR+G from Shanghai",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Xiaolongbao",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 858,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-8d2d36fa31f4bb18.jpg",
+      "rawSha256": "1f0e52500fcd865428498e4cbff9dd89d10fc8c044cca04fa26dc29c2bb9c84d"
+    },
+    {
+      "title": "Braised fish head casserole.jpg",
+      "itemIds": [
+        "js-tianmuhu-fishhead"
+      ],
+      "articleTitles": [
+        "Fish head casserole"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-e0f32d45502bc1c0",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Braised_fish_head_casserole.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Braised_fish_head_casserole.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Jason Lam",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "Fish head casserole (Chinese: 砂锅鱼头; pinyin: shā guō yú tóu) is a seafood dish from China. It is named for its main ingredient, fish heads, which are cooked in a casserole.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 640,
+      "height": 480,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e0f32d45502bc1c0.jpg",
+      "rawSha256": "fae0c50e8d455526a2af96c9d6b5ce8362cf6e4cfdd729d73a039b71d50b0e51"
+    },
+    {
+      "title": "Chinese Tangyuan.jpeg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-da952c1e4df9c9a8",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinese_Tangyuan.jpeg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chinese_Tangyuan.jpeg/960px-Chinese_Tangyuan.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Huihermit",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Chinese Tangyuan in a bowl. This type of Tangyuan has a black sesame filling and is quite traditional.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-da952c1e4df9c9a8.jpg",
+      "rawSha256": "32876172fafadec6465aaaeb2644b999e8deb15e06ec20d62521f0dea0f9b281"
+    },
+    {
+      "title": "Daifuku.JPG",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-a5bc079c900acb2b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Daifuku.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Daifuku.JPG/960px-Daifuku.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a5bc079c900acb2b.jpg",
+      "rawSha256": "67ec46cc0c9907663d96b2d1c11c3b97f4335039fd1bc7104c4e2440c554699a"
+    },
+    {
+      "title": "Daifuku 1.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-4e0febaf1ef84e70",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Daifuku_1.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Daifuku_1.jpg/960px-Daifuku_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "No machine-readable author provided. Lyzzy assumed (based on copyright claims).",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "description": "Beschreibung: Daifuku, japanische Küchlein aus Reismehl, gefüllt mit Anko, einer gesüßten Paste aus roten Adzukibohnen\n\nDescription: Daifuku, small japanese rice cake, filled with a sweetened paste of red azuki beans\nQuelle: selbst fotografiert, April 2006\nPhotographer: Alice Wiegand, (Lyzzy)",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 600,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4e0febaf1ef84e70.jpg",
+      "rawSha256": "06bd5adf3a1d6a1a1e2b3ccd60bb94c5e14dad38736c28099cbc7e09a68cc70f"
+    },
+    {
+      "title": "Gyeongdan.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-a6cf0589555b0789",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gyeongdan.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gyeongdan.jpg/960px-Gyeongdan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Hyeon-Jeong Suk",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Rice ball cake, made by kneading the flour of glutinous rice or millet in the shape of a ball, steaming, and coating it with honey, meshed red beans, meshed mung beans, ground sesame seeds, etc.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a6cf0589555b0789.jpg",
+      "rawSha256": "5aae40555566416e6a4ab7e5cfab575f4f6a7efd710f9031aeee28cbf862b0f4"
+    },
+    {
+      "title": "HK KTD 觀塘道 414 Kwun Tong Road One Pacific Centre shop 海港酒家 Victoria Harbour Restaurant food dim sum 煎堆 sesame ball 飲茶 morning tea April 2023 Px3 02.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-fad5a98e94524504",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_KTD_%E8%A7%80%E5%A1%98%E9%81%93_414_Kwun_Tong_Road_One_Pacific_Centre_shop_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Restaurant_food_dim_sum_%E7%85%8E%E5%A0%86_sesame_ball_%E9%A3%B2%E8%8C%B6_morning_tea_April_2023_Px3_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HK_KTD_%E8%A7%80%E5%A1%98%E9%81%93_414_Kwun_Tong_Road_One_Pacific_Centre_shop_%E6%B5%B7%E6%B8%AF%E9%85%92%E5%AE%B6_Victoria_Harbour_Restaurant_food_dim_sum_%E7%85%8E%E5%A0%86_sesame_ball_%E9%A3%B2%E8%8C%B6_morning_tea_April_2023_Px3_02.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jerryfredloawm Howoard",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "HK KTD 觀塘道 414 Kwun Tong Road One Pacific Centre shop 海港酒家 Victoria Harbour Restaurant 飲茶 morning tea in April 2023",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-fad5a98e94524504.jpg",
+      "rawSha256": "22d35fce339e8b670e127ffe2fd585892db5daf8bd8d42595f5cf7630df7af82"
+    },
+    {
+      "title": "MontLone yeibaw.JPG",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-ece636e7c3531d52",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:MontLone_yeibaw.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MontLone_yeibaw.JPG/960px-MontLone_yeibaw.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Wagaung at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Boiled glutinous rice balls with jaggery inside and covered with shredded coconut; Mandalay, Myanmar.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ece636e7c3531d52.jpg",
+      "rawSha256": "0c30cd396c207c575fcdb02851bc553559d1aae19bd7eae030763ad7da334495"
+    },
+    {
+      "title": "Pumpkin tangyuan (汤圆) with red bean baste and black sesame fillings.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-397666fa1c46917e",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_tangyuan_(%E6%B1%A4%E5%9C%86)_with_red_bean_baste_and_black_sesame_fillings.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pumpkin_tangyuan_%28%E6%B1%A4%E5%9C%86%29_with_red_bean_baste_and_black_sesame_fillings.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "cherrylet",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Pumpkin tangyuan (汤圆) with red bean paste and black sesame fillings",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 880,
+      "height": 587,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-397666fa1c46917e.jpg",
+      "rawSha256": "af231fbc0370539feee45c79579553ceeac8c5863adf04999a7fdbe229134abc"
+    },
+    {
+      "title": "Tangyuan-small.JPG",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-f6f3116ba82555ff",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tangyuan-small.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tangyuan-small.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Wu Xiao",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Home made Tangyuan, a typical Chinese food.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 720,
+      "height": 405,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f6f3116ba82555ff.jpg",
+      "rawSha256": "c13f47e32a16d967d14088c496d0f2900e51d5919cd73230a8a306ae14362cc1"
+    },
+    {
+      "title": "Tangyuan mandarin.png",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-03a8c10bd8d76af9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tangyuan_mandarin.png",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/0/05/Tangyuan_mandarin.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Foryou42686",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Tangyuan mandarin",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 257,
+      "height": 304,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-03a8c10bd8d76af9.jpg",
+      "rawSha256": "7d2ef4a834caa88a7fd464c0bc4a754d6672971cf8e382aeec1b8642777ce135"
+    },
+    {
+      "title": "Tongton.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-9a2c37b4262a0dc6",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tongton.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tongton.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Xiaotuanzi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Tangyuan often come in many colors",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 546,
+      "height": 361,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9a2c37b4262a0dc6.jpg",
+      "rawSha256": "c2c056d72ba4ed4479fc805331151ffc6dcc6d10ae67bf50d22594c32b27756a"
+    },
+    {
+      "title": "Transparent tangyuan (glutinous rice balls, 汤圆) - Flickr - GeorgeTan^4 - Thanks for your support.jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-b3f411930880166b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Transparent_tangyuan_(glutinous_rice_balls,_%E6%B1%A4%E5%9C%86)_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Transparent_tangyuan_%28glutinous_rice_balls%2C_%E6%B1%A4%E5%9C%86%29_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg/960px-Transparent_tangyuan_%28glutinous_rice_balls%2C_%E6%B1%A4%E5%9C%86%29_-_Flickr_-_GeorgeTan%5E4_-_Thanks_for_your_support.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "GT#4 - thank you for your support from Singapore",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Winter Solstice (冬至) - Celebrated in Asia, 冬至 welcomes the Winter with tangyuan (glutinous rice balls, 汤圆), which are symbols of reunion and prosperity for the family.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 540,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-b3f411930880166b.jpg",
+      "rawSha256": "c86fecb7392eae1d5622706caef8cf4402f96d599d25d3bc05e3f1c107b4b774"
+    },
+    {
+      "title": "Yuanxiao and fillings (20210225185338).jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-eae57f319b2f26a5",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Yuanxiao_and_fillings_(20210225185338).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yuanxiao_and_fillings_%2820210225185338%29.jpg/960px-Yuanxiao_and_fillings_%2820210225185338%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Raw yuanxiao (left, not to be confused with Tangyuan) is shaken in glutinous rice flour from fillings (right).",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 614,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-eae57f319b2f26a5.jpg",
+      "rawSha256": "4329e782646ff1190a22d185069d785aabb523e58b5debc8bd54f4d7fd91dfa8"
+    },
+    {
+      "title": "【新北美食】古早味旺來冰店 【台北。圓山展覽】Hello Kitty嘉年華 (31630727772).jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-1873d7eb9fec7772",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%80%90%E6%96%B0%E5%8C%97%E7%BE%8E%E9%A3%9F%E3%80%91%E5%8F%A4%E6%97%A9%E5%91%B3%E6%97%BA%E4%BE%86%E5%86%B0%E5%BA%97_%E3%80%90%E5%8F%B0%E5%8C%97%E3%80%82%E5%9C%93%E5%B1%B1%E5%B1%95%E8%A6%BD%E3%80%91Hello_Kitty%E5%98%89%E5%B9%B4%E8%8F%AF_(31630727772).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%E3%80%90%E6%96%B0%E5%8C%97%E7%BE%8E%E9%A3%9F%E3%80%91%E5%8F%A4%E6%97%A9%E5%91%B3%E6%97%BA%E4%BE%86%E5%86%B0%E5%BA%97_%E3%80%90%E5%8F%B0%E5%8C%97%E3%80%82%E5%9C%93%E5%B1%B1%E5%B1%95%E8%A6%BD%E3%80%91Hello_Kitty%E5%98%89%E5%B9%B4%E8%8F%AF_%2831630727772%29.jpg/960px-%E3%80%90%E6%96%B0%E5%8C%97%E7%BE%8E%E9%A3%9F%E3%80%91%E5%8F%A4%E6%97%A9%E5%91%B3%E6%97%BA%E4%BE%86%E5%86%B0%E5%BA%97_%E3%80%90%E5%8F%B0%E5%8C%97%E3%80%82%E5%9C%93%E5%B1%B1%E5%B1%95%E8%A6%BD%E3%80%91Hello_Kitty%E5%98%89%E5%B9%B4%E8%8F%AF_%2831630727772%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "fullfen666",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "​【新北美食】古早味旺來冰店 【台北。圓山展覽】Hello Kitty嘉年華",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-1873d7eb9fec7772.jpg",
+      "rawSha256": "abe0c94330baffe6abcc1bcd80f66eef26117e9512aebc5396ebe0b6736938c5"
+    },
+    {
+      "title": "汤圆 Cooked Tang Yuan (329781165).jpg",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "articleTitles": [
+        "Tangyuan"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-f8d66b9a3ebe27dc",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B1%A4%E5%9C%86_Cooked_Tang_Yuan_(329781165).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/8/86/%E6%B1%A4%E5%9C%86_Cooked_Tang_Yuan_%28329781165%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "Alpha from Melbourne, Australia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "description": "汤圆 Tang Yuan for 冬至 Winter Solstice\n\nThe spots are bits of ground sesame leaking from within! :P",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 800,
+      "height": 600,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f8d66b9a3ebe27dc.jpg",
+      "rawSha256": "1a89163f7df2f770a3cdf2404f8693a996ad7a4f1eca41c713d3f23125ebbb46"
+    },
+    {
+      "title": "China-Zhejiang.png",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "articleTitles": [
+        "Gunpowder tea"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-68043d8df664416b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:China-Zhejiang.png",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/d/d0/China-Zhejiang.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 268,
+      "height": 218,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-68043d8df664416b.jpg",
+      "rawSha256": "56403dca77bcc48543a195abfd67b41cde8507ddc2b0d33304a977ed34ec5e03"
+    },
+    {
+      "title": "Grüner Tee Gunpowder.jpg",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "articleTitles": [
+        "Gunpowder tea"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-5c28466ab536422b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCner_Tee_Gunpowder.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gr%C3%BCner_Tee_Gunpowder.jpg/960px-Gr%C3%BCner_Tee_Gunpowder.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "soultea.de/André Helbig",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Grüner Tee Gunpowder",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-5c28466ab536422b.jpg",
+      "rawSha256": "63a14395701d1efd205f2f99396d981a1f70b4d1e9fcab3326a8c581489bec5e"
+    },
+    {
+      "title": "Gunpowder Green Tea.jpg",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "articleTitles": [
+        "Gunpowder tea"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-97fb98fcf5993b56",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gunpowder_Green_Tea.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gunpowder_Green_Tea.jpg/960px-Gunpowder_Green_Tea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Veganlover1993",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "This a picture of gunpowder green tea that is dried and ready to steep into tea. https://en.wikipedia.org/wiki/Gunpowder_tea",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 643,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-97fb98fcf5993b56.jpg",
+      "rawSha256": "56ea78fa3f32a452793e2a636158e1f8ed15345983cf8be8b2815f2a36b0a94b"
+    },
+    {
+      "title": "Taro purée.jpg",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "articleTitles": [
+        "Taro purée"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-b5f52757453e07cc",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Taro_pur%C3%A9e.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Taro_pur%C3%A9e.jpg/960px-Taro_pur%C3%A9e.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Haha169",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "An image of taro purée, a traditional Fujianese dessert, topped with roasted sesame seeds, candied ginko, and melon seeds.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 638,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-b5f52757453e07cc.jpg",
+      "rawSha256": "50490340badf97490013b738393d1eabd671485e0fbb5632b97da45c85baf7a6"
+    },
+    {
+      "title": "Huangqiao Sesame Cake.jpg",
+      "itemIds": [
+        "flavor-jiangsu-8958cecb9d"
+      ],
+      "articleTitles": [
+        "Huangqiao sesame cake"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-88f0cd5ae946fb84",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Huangqiao_Sesame_Cake.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Huangqiao_Sesame_Cake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "NNU.10.24100113",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Huangqiao Sesame Cake",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 500,
+      "height": 375,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-88f0cd5ae946fb84.jpg",
+      "rawSha256": "2c117d19b820906ccae8a1e6a7106819ab77d73274a7c23b6388956880d46240"
+    },
+    {
+      "title": "Admonitions Scroll Song Embroidery Cover.jpg",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "articleTitles": [
+        "Kesi (tapestry)"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-c4902e0453169ec9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Song_Embroidery_Cover.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Admonitions_Scroll_Song_Embroidery_Cover.jpg/960px-Admonitions_Scroll_Song_Embroidery_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Song Dynasty silk tapestry cover for the 'Admonitions Scroll' attributed to Gu Kaizhi",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1222,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-c4902e0453169ec9.jpg",
+      "rawSha256": "f9d07e533cb304567a48d87e405a1874d041f01feb72bf4d8ca2c4b486f772e2"
+    },
+    {
+      "title": "Charlemagne tapestry.JPG",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "articleTitles": [
+        "Kesi (tapestry)"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-c4c175963fc79197",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Charlemagne_tapestry.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Charlemagne_tapestry.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "\nFlemish School",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 387,
+      "height": 600,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-c4c175963fc79197.jpg",
+      "rawSha256": "4a4756068eaa636a31bf8b200e56cef392b90d269d9b0bfedaecd4788cd1d610"
+    },
+    {
+      "title": "Cascada del cocodrilo. La Mortella. 02.JPG",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-2e9bff9184e8a766",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Cascada_del_cocodrilo._La_Mortella._02.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cascada_del_cocodrilo._La_Mortella._02.JPG/960px-Cascada_del_cocodrilo._La_Mortella._02.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Miguel Hermoso Cuesta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Cascada del cocodrilo. La Mortella.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1440,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-2e9bff9184e8a766.jpg",
+      "rawSha256": "03d86a5b70c38ef66ec253ef3006c0b0111392871d2dc54a327d09d1be6554b9"
+    },
+    {
+      "title": "E-ferox-20021002a.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-eb9f1efdfcc2b192",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:E-ferox-20021002a.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/54/E-ferox-20021002a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "The original uploader was ミュール at Japanese Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "オニバスの果実\n2002年10月2日撮影。1600*1200ピクセルの画像を1000*750に縮小、640*480にトリミングしている。\n\n元の画像は同じだけど別のトリミング版はすでに私のウェブサイトで公開中。",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 640,
+      "height": 480,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-eb9f1efdfcc2b192.jpg",
+      "rawSha256": "5d7318b9a66ff3418339b162d3847020e4ac3f18e06f56710038b2c6683be665"
+    },
+    {
+      "title": "Euryale ferox 3.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-020ea630d64deb75",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Euryale_ferox_3.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Euryale_ferox_3.jpg/960px-Euryale_ferox_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Awinch1001",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Euryale ferox at Berkeley Bortanical garden.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-020ea630d64deb75.jpg",
+      "rawSha256": "fd00ebaaac03e02144c1652f54c9a411ff0b25df0c223894044a256cdf5c679c"
+    },
+    {
+      "title": "Euryale ferox Salisb. foliage.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-ff1d6816be51e1a3",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Euryale_ferox_Salisb._foliage.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Euryale_ferox_Salisb._foliage.jpg/960px-Euryale_ferox_Salisb._foliage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Jitendraamishra",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Leaf of Prickly Waterlily in Kanjia lake in Nandankanan",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ff1d6816be51e1a3.jpg",
+      "rawSha256": "78b9072c5d89e0da3459c8578a62cbe673232caef69a0a54e168b7cd3ffa8673"
+    },
+    {
+      "title": "Euryale ferox Salisb. seedling.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-811534a213e5cdea",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Euryale_ferox_Salisb._seedling.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Euryale_ferox_Salisb._seedling.jpg/960px-Euryale_ferox_Salisb._seedling.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Conan Wolff",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Euryale ferox Salisb. seedling with scale bar (3 cm) on a white background",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-811534a213e5cdea.jpg",
+      "rawSha256": "6303f10602aee9d2283107417e552c3a1789bbc2457cb8bd892102fff0fdff79"
+    },
+    {
+      "title": "Euryale ferox grains (1).jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-fcd647698fad9b67",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Euryale_ferox_grains_(1).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Euryale_ferox_grains_%281%29.jpg/960px-Euryale_ferox_grains_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Fumikas Sagisavas",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Euryale ferox grains",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-fcd647698fad9b67.jpg",
+      "rawSha256": "69a9fc60c957133aa07f7754a6e6e6aa4fc138cb726c0c6b5b1e49136d6b65de"
+    },
+    {
+      "title": "Foxnut Makhana - Nawada District - Bihar - 1.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-5130887361640da2",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Foxnut_Makhana_-_Nawada_District_-_Bihar_-_1.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Foxnut_Makhana_-_Nawada_District_-_Bihar_-_1.jpg/960px-Foxnut_Makhana_-_Nawada_District_-_Bihar_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "FacetsOfNonStickPans",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Foxnut, locally known in Bihar as Makhana. Here they are being lightly roasted to give them a bit of crispiness. In five minutes they will be ready to eat. To give them some more flavour ghee and masala can be added during the roasting.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-5130887361640da2.jpg",
+      "rawSha256": "c8adf4c8846841f1eb67159152b0f78cbfe3e345f745193939979a90755ed0a7"
+    },
+    {
+      "title": "Gyoda Euryale ferox 1.JPG",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-58656ed8a91f7704",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Gyoda_Euryale_ferox_1.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gyoda_Euryale_ferox_1.JPG/960px-Gyoda_Euryale_ferox_1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "京浜にけ at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Prickly Waterlily Euryale ferox at the Kodai Hasu no Sato park in Gyoda City, Saitama Prefecture, Japan",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-58656ed8a91f7704.jpg",
+      "rawSha256": "78eb75fef2638f3b6caf2bea883cb9b348ee8b1f2e36da2e0f155fbb8f810b1b"
+    },
+    {
+      "title": "Junicho-Gata lagoon Euryale feroxe habitat 07.jpg",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-5c3850cef9ec94d6",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg/960px-Junicho-Gata_lagoon_Euryale_feroxe_habitat_07.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "さかおり",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "国指定天然記念物。十二町潟オニバス発生地（富山県氷見市）。",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 640,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-5c3850cef9ec94d6.jpg",
+      "rawSha256": "abc7d9c0e41357a4edec9fae4bc40e666c90e17389d95f6af995b14ffc4640e0"
+    },
+    {
+      "title": "Kazo Habitat Euryale Ferox 1.JPG",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f",
+        "program-86810aa25cacdad3f0"
+      ],
+      "articleTitles": [
+        "Euryale ferox"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-262315e44d7ff8ed",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kazo_Habitat_Euryale_Ferox_1.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kazo_Habitat_Euryale_Ferox_1.JPG/960px-Kazo_Habitat_Euryale_Ferox_1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "京浜にけ",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "オニバス自生地（埼玉県加須市）",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-262315e44d7ff8ed.jpg",
+      "rawSha256": "07033f4074733eec7fff9c54b7a74e00edda2836b7a6e98450242060b92a1d4a"
+    },
+    {
+      "title": "Tearitual.jpg",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "articleTitles": [
+        "Gunpowder tea"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/ba3089fe26ffa98121cd.json"
+      ],
+      "id": "c-4be75276d07a9991",
+      "provider": "Wikimedia Commons",
+      "source": "https://en.wikipedia.org/wiki/File:Tearitual.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/en/0/02/Tearitual.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/fa0756ee45177b12c069.json",
+      "metadataSha256": "e7b33b4a7fd5e9b38ebb336ac37efa8b284ba78ef61731fc1c66bb7b4121d58d",
+      "status": "downloaded-not-approved",
+      "width": 410,
+      "height": 324,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4be75276d07a9991.jpg",
+      "rawSha256": "889d1ad163b385b138ec58c1346e17eb0d87808b3a21d5820cd8ea635f5bcc1e"
+    },
+    {
+      "title": "Anhai Bay - DSCF8875.JPG",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-e788dcd249e84a24",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Anhai_Bay_-_DSCF8875.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Anhai_Bay_-_DSCF8875.JPG/960px-Anhai_Bay_-_DSCF8875.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "User:Vmenkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Anhai Bay is the estuary of the Shijing River. It separates Shijing Town (west side) from Dongshi town (east side). This is a tidal estuary; much of its bottom is exposed in low tide, and is used for something that looks like fishing and a form of oyster cultivation. \nThese photos were taken from the west side of the bay, between Shijing and Shuitou; Dongshi Town's skyline can be seen in the background of some photos.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e788dcd249e84a24.jpg",
+      "rawSha256": "ba1766f6d781d5283f0a71ecffbe4241fecff2b1287925b7c7dd97c0d2aabe85"
+    },
+    {
+      "title": "Blood Cockles.jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-a12cff057811a093",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Blood_Cockles.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Blood_Cockles.jpg/960px-Blood_Cockles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Taishonambu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Tegillarca granosa served as part of Ningbo cusine in Zhejiang Province, China.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a12cff057811a093.jpg",
+      "rawSha256": "89ce27120a801c328fac1d6b9520fd047175de62ac6c3e486122f04fc613e5fd"
+    },
+    {
+      "title": "Kkomak-muchim.jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-72274c925a7e756b",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kkomak-muchim.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kkomak-muchim.jpg/960px-Kkomak-muchim.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "박家상민",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "kkomak-muchim (seasoned blood cockles)",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 636,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-72274c925a7e756b.jpg",
+      "rawSha256": "34da3889da9ad302464c29ec2b0a5c5bc839acdb79181f00d28828fc5d58d1a0"
+    },
+    {
+      "title": "Kkomak (Tegillarca granosa).jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-dac64be0af159068",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kkomak_(Tegillarca_granosa).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Kkomak_%28Tegillarca_granosa%29.jpg/960px-Kkomak_%28Tegillarca_granosa%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "국립국어원",
+      "license": "CC BY-SA 2.0 kr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+      "description": "kkomak (Tegillarca granosa)",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 664,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-dac64be0af159068.jpg",
+      "rawSha256": "2051e402091431472b6a09e0b85ed7e3604297b34631dd91e376abb4b0090948"
+    },
+    {
+      "title": "Kkomak (Tegillarca granosa) 2.jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-a762146ebc5b4ce5",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Kkomak_(Tegillarca_granosa)_2.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kkomak_%28Tegillarca_granosa%29_2.jpg/960px-Kkomak_%28Tegillarca_granosa%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "국립국어원",
+      "license": "CC BY-SA 2.0 kr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en",
+      "description": "kkomak (Tegillarca granosa)",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 821,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-a762146ebc5b4ce5.jpg",
+      "rawSha256": "af6b682ddb2af086341dfb317d95caa38943ec0075983f9b313b0df170641d4d"
+    },
+    {
+      "title": "Tegillarca granosa (MNHN-IM-2009-2370).jpeg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-351b7c754cb22828",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tegillarca_granosa_(MNHN-IM-2009-2370).jpeg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Tegillarca_granosa_%28MNHN-IM-2009-2370%29.jpeg/960px-Tegillarca_granosa_%28MNHN-IM-2009-2370%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "\nLozouet Pierre",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "\nPRESERVED_SPECIMEN; Anadara granosa (Linnaeus, 1758); Type status: \tN/A; Identified by:\tLozouet P. & Plaziat J.C., 2008; Individual count:\t3; Event date: \t2004-07-02T00:00:00Z",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1516,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-351b7c754cb22828.jpg",
+      "rawSha256": "b13f10760f4ffe8543fabfb1bc3342e6285027dda3b5a52d57d09b041b99fbb1"
+    },
+    {
+      "title": "Tegillarca granosa 01.jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-9318e2ec99acf868",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tegillarca_granosa_01.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tegillarca_granosa_01.jpg/960px-Tegillarca_granosa_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Tegillarca granosa (Linnaeus, 1758), Blood cockle, right valve; length 4.0 cm; Originating from Ata'a, Malaita, Solomon Islands; Shell of own collection, therefore not geocoded.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 394,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-9318e2ec99acf868.jpg",
+      "rawSha256": "f628cbb8356da8ea9744f5728963f0a48c7229db81441b2aff8bd6b0bb548627"
+    },
+    {
+      "title": "Tegillarca granosa 02.jpg",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "articleTitles": [
+        "Tegillarca granosa"
+      ],
+      "articleSourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/responses/af0044721de1267f7aff.json"
+      ],
+      "id": "c-f73ec459e199c3f9",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Tegillarca_granosa_02.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Tegillarca_granosa_02.jpg/960px-Tegillarca_granosa_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Tegillarca granosa (Linnaeus, 1758), Blood cockle, left valve; length 4.0 cm; Originating from Ata'a, Malaita, Solomon Islands; Shell of own collection, therefore not geocoded.",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/d539ffe75e4c894c7484.json",
+      "metadataSha256": "e2e83889512274b1fa9153c60f33f19e89dcdb7feebb843e0e320c7622899235",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 389,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-f73ec459e199c3f9.jpg",
+      "rawSha256": "5d4111a6b980aed418b13ec8189076d9196bd8e3fb78d08eb8f68e8c72a20fb6"
+    }
+  ]
+}

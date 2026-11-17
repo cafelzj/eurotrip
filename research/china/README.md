@@ -36,6 +36,6 @@
 
 执行 `python scripts/index-china-research.py` 更新总索引及专题索引；执行 `node scripts/audit-china-flavor-migration.cjs` 与 `python scripts/check-research.py --local-archives` 核对现有卡片、阅读指纹及原件归档。
 
-江浙沪持续实拍任务见 [最新批次](enrichment/2026-11-17-jiangzhehu-images-02/README.md) 与 [当前逐卡片覆盖](enrichment/2026-11-17-jiangzhehu-images-02/coverage.json)：191/981张有图，790张待补，尚未全部补齐。[首批底稿](enrichment/2026-11-16-jiangzhehu-images/README.md) 保留当时的采用与覆盖快照。
+江浙沪持续实拍任务见 [最新批次](enrichment/2026-11-17-jiangzhehu-images-03/README.md) 与 [当前逐卡片覆盖](enrichment/2026-11-17-jiangzhehu-images-03/coverage.json)：220/981张有图，761张待补，尚未全部补齐。[首批底稿](enrichment/2026-11-16-jiangzhehu-images/README.md) 保留当时的采用与覆盖快照。
 
 此前补充状态：[1000条待编辑底稿与12张采用实拍](enrichment/2026-11-15-national-02-1000/README.md)。文字未通过逐项编辑前不更新正式阅读层，也不计作已完成。
