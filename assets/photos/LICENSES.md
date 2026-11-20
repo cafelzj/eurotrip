@@ -1287,3 +1287,68 @@ Source: https://commons.wikimedia.org/wiki/File:Gr%C3%B3f_Sz%C3%A9chenyi_Istv%C3
 License: [Public domain](https://creativecommons.org/publicdomain/mark/1.0/)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/c/cb/Gr%C3%B3f_Sz%C3%A9chenyi_Istv%C3%A1n.jpg
 Changes: proportional resizing, EXIF orientation and color-profile normalization where needed, local JPEG/PNG encoding; no generative processing or scene edits.
+
+## 中国卡片第四批（2026-11-20）
+
+逐图原件及目视证据：[`research/china/enrichment/2026-11-20-photos-04`](../../research/china/enrichment/2026-11-20-photos-04/README.md)。食谱作者公开许可与CC许可分别记录，不统一假标。
+
+### assets/photos/china/cn04-c-626392e899551109.jpg
+
+Author: Dllu
+Source: https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Savoury_Suzhou-style_meat_mooncake.jpg/960px-Savoury_Suzhou-style_meat_mooncake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn04-c-7d8d7b4af927d646.jpg
+
+Author: 三猎
+Source: https://commons.wikimedia.org/wiki/File:%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg/960px-%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn04-csf-black-sesame-tangyuan.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/tang-yuan-recipe-black-sesame-filling/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2015/01/black-sesame-tang-yuan-22.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。
+
+### assets/photos/china/cn04-inat-carya-540689824.jpg
+
+Author: cheavy
+Source: https://www.inaturalist.org/observations/300097155
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Original image URL: https://inaturalist-open-data.s3.amazonaws.com/photos/540689824/original.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn04-223765921.jpg
+
+Author: Janine Cheung
+Source: https://www.flickr.com/photos/10705048@N00/223765921
+License: [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+Original image URL: https://live.staticflickr.com/57/223765921_6e619dae41_z.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn04-4372400698.jpg
+
+Author: Santo Chino
+Source: https://www.flickr.com/photos/22472301@N00/4372400698
+License: [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+Original image URL: https://live.staticflickr.com/4001/4372400698_8ffc97a40a_c.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn04-3816735725.jpg
+
+Author: GIS@Sam
+Source: https://www.flickr.com/photos/8904706@N04/3816735725
+License: [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+Original image URL: https://live.staticflickr.com/2637/3816735725_10e3212644_c.jpg
+Changes: 完整保留原字节和画面。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。

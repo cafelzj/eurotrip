@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/lyan62/FoodieQA/resolve/main/README.md?download=true",
+      "query": "FoodieQA primary terms resolved file",
+      "itemIds": []
+    },
+    {
+      "url": "https://huggingface.co/datasets/lyan62/FoodieQA/resolve/main/FoodieQA.zip?download=true",
+      "query": "FoodieQA licensed original image archive",
+      "itemIds": []
+    }
+  ]
+}

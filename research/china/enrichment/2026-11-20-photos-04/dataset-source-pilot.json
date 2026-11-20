@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/lyan62/FoodieQA/raw/main/README.md",
+      "query": "FoodieQA primary dataset terms",
+      "itemIds": []
+    },
+    {
+      "url": "https://sites.google.com/view/chinesefoodnet/",
+      "query": "ChineseFoodNet original copyright scope",
+      "itemIds": []
+    },
+    {
+      "url": "https://huggingface.co/api/datasets/lyan62/FoodieQA/tree/main",
+      "query": "FoodieQA primary file index",
+      "itemIds": []
+    }
+  ]
+}

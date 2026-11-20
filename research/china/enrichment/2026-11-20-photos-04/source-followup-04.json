@@ -1,0 +1,56 @@
+{
+  "jobs": [
+    {
+      "query": "Christine 糟卤鸡翼原文",
+      "url": "https://www.christinesrecipes.com/2008/06/chicken-wings-in-pickle-sauce.html",
+      "itemIds": [
+        "sh-zaolu"
+      ]
+    },
+    {
+      "query": "Christine 主食目录",
+      "url": "https://www.christinesrecipes.com/p/chinese-recipes.html",
+      "itemIds": []
+    },
+    {
+      "query": "Christine 甜点目录",
+      "url": "https://www.christinesrecipes.com/p/dessert.html",
+      "itemIds": []
+    },
+    {
+      "query": "tang-yuan-recipe-black-sesame-filling",
+      "url": "https://www.chinasichuanfood.com/tang-yuan-recipe-black-sesame-filling/",
+      "itemIds": []
+    },
+    {
+      "query": "shumai-with-sticky-rice-and-mushrooms",
+      "url": "https://www.chinasichuanfood.com/shumai-with-sticky-rice-and-mushrooms/",
+      "itemIds": []
+    },
+    {
+      "query": "steamed-rice-cake-songgao",
+      "url": "https://www.chinasichuanfood.com/steamed-rice-cake-songgao/",
+      "itemIds": []
+    },
+    {
+      "query": "savory-tang-yuan",
+      "url": "https://www.chinasichuanfood.com/savory-tang-yuan/",
+      "itemIds": []
+    },
+    {
+      "query": "red-bean-soup-recipe",
+      "url": "https://www.chinasichuanfood.com/red-bean-soup-recipe/",
+      "itemIds": []
+    },
+    {
+      "query": "west-lake-beef-soup",
+      "url": "https://www.chinasichuanfood.com/west-lake-beef-soup/",
+      "itemIds": []
+    },
+    {
+      "query": "chinese-salted-duck",
+      "url": "https://www.chinasichuanfood.com/chinese-salted-duck/",
+      "itemIds": []
+    }
+  ]
+}

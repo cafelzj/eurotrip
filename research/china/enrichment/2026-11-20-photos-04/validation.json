@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-20",
+  "status": "passed-before-publication",
+  "adoptedPhotos": 7,
+  "tests": [
+    "china-reviewed-photos.cjs: 7 real photos, source hashes, old inputs and bindings, ND bytes, permissions, mobile list/detail and 3 modes passed",
+    "photo-source-fetch.py: 5 tests passed",
+    "china-image-files-03.py: earlier 29 files preserved",
+    "new batch pixels: 7 files, ICC and proportions preserved",
+    "6497 flavor records and 6627 canonical Chinese cards preserved",
+    "research paths and source fingerprints passed after refreshing current inventory",
+    "archive: 190 files preserved and byte-verified"
+  ],
+  "notes": [
+    "初次研究校验提示清单过期，初次迁移校验提示当前图片计数收据过期；重新生成当前清单和收据后通过，没有放宽检查条件。",
+    "内容与目视审核另见visual-decisions.json；测试通过不表示1000张目标完成。"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "jobs": [
+    {
+      "query": "Christine original terms",
+      "url": "https://en.christinesrecipes.com/p/terms-of-use-and-conditions.html",
+      "itemIds": []
+    },
+    {
+      "query": "Christine Chinese recipe titles",
+      "url": "https://www.christinesrecipes.com/p/blog-page.html",
+      "itemIds": []
+    },
+    {
+      "query": "Black sesame tangyuan",
+      "url": "https://www.chinasichuanfood.com/tang-yuan-recipe-black-sesame-filling/",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ]
+    },
+    {
+      "query": "Lotus pork rice flour",
+      "url": "https://www.chinasichuanfood.com/steamed-pork-with-rice-flour/",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ]
+    },
+    {
+      "query": "Fermented rice photo candidates",
+      "url": "https://www.chinasichuanfood.com/fermented-sticky-rice-jiu-niang/",
+      "itemIds": [
+        "flavor-jiangsu-fd6788d92f"
+      ]
+    },
+    {
+      "query": "Chinese traditional village museum primary homepage",
+      "url": "https://www.dmctv.cn/",
+      "itemIds": []
+    },
+    {
+      "query": "OFF Tianshanxue alternative original 4",
+      "url": "https://images.openfoodfacts.org/images/products/693/886/651/3607/4.jpg",
+      "itemIds": [
+        "js-tianshanxue"
+      ]
+    }
+  ]
+}

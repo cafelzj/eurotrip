@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-20",
   "status": "in-progress",
   "scope": "全部现有规范化中国卡片；不把检索或有图自动当作内容完整。",
   "readingRule": "300–500字为目标，不用模板填充；原始记录、后续补充及来源分别追溯。",
@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 277,
-    "withListPhoto": 264,
-    "missingRealPhoto": 6350,
-    "needsListPhoto": 6363
+    "withDetailPhoto": 284,
+    "withListPhoto": 271,
+    "missingRealPhoto": 6343,
+    "needsListPhoto": 6356
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 362,
-      "needsListPhoto": 362
+      "missingRealPhoto": 358,
+      "needsListPhoto": 358
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 364,
-      "needsListPhoto": 364
+      "missingRealPhoto": 361,
+      "needsListPhoto": 361
     },
     "anhui": {
       "cards": 330,
@@ -6246,19 +6246,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-jiangsu-e01650d3e6",
-      "name": "苏式鲜肉月饼",
-      "province": "jiangsu",
-      "city": "苏州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-jiangsu-e38789f0a1",
       "name": "滨海牌三伏酱油",
       "province": "jiangsu",
@@ -8118,19 +8105,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-zhejiang-65406eee9b",
-      "name": "宁波汤圆",
-      "province": "zhejiang",
-      "city": "宁波",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-zhejiang-680b7ca8ca",
       "name": "新市茶糕",
       "province": "zhejiang",
@@ -8200,19 +8174,6 @@
       "name": "虎头鱼豆腐汤",
       "province": "zhejiang",
       "city": "舟山",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "js-wensi-tofu",
-      "name": "文思豆腐",
-      "province": "jiangsu",
-      "city": "扬州",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 51,
@@ -8306,19 +8267,6 @@
       "city": "桂林",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "zj-jiaxing-shaomai",
-      "name": "嘉兴鲜肉烧卖",
-      "province": "zhejiang",
-      "city": "嘉兴",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 51,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -8798,19 +8746,6 @@
       "name": "滨海香肠",
       "province": "jiangsu",
       "city": "盐城",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 52,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-8a5e336eda",
-      "name": "连云港酒醉螃蟹",
-      "province": "jiangsu",
-      "city": "连云港",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,
@@ -13389,19 +13324,6 @@
       "city": "湖州",
       "category": "food",
       "subcategory": "dairy",
-      "readingCharacters": 56,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "js-dazhugansi",
-      "name": "大煮干丝",
-      "province": "jiangsu",
-      "city": "扬州",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 56,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -78253,19 +78175,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-a873f83973b70e5c08",
-      "name": "临安山核桃",
-      "province": "zhejiang",
-      "city": "杭州",
-      "category": "food",
-      "subcategory": "ingredients",
-      "readingCharacters": 412,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-e4e69697c644e7d956",
       "name": "耿庄大蒜",
       "province": "liaoning",
@@ -83063,6 +82972,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-jiangsu-e01650d3e6",
+      "name": "苏式鲜肉月饼",
+      "province": "jiangsu",
+      "city": "苏州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sh-smoked-fish",
       "name": "上海熏鱼",
       "province": "shanghai",
@@ -83141,6 +83063,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-zhejiang-65406eee9b",
+      "name": "宁波汤圆",
+      "province": "zhejiang",
+      "city": "宁波",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-zhejiang-c9b6df2ef7",
       "name": "宁波年糕",
       "province": "zhejiang",
@@ -83167,6 +83102,19 @@
       "priority": 3
     },
     {
+      "itemId": "js-wensi-tofu",
+      "name": "文思豆腐",
+      "province": "jiangsu",
+      "city": "扬州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sh-eight-treasure-duck",
       "name": "八宝鸭",
       "province": "shanghai",
@@ -83174,6 +83122,32 @@
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "zj-jiaxing-shaomai",
+      "name": "嘉兴鲜肉烧卖",
+      "province": "zhejiang",
+      "city": "嘉兴",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-jiangsu-8a5e336eda",
+      "name": "连云港酒醉螃蟹",
+      "province": "jiangsu",
+      "city": "连云港",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 52,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -83483,6 +83457,19 @@
       "name": "宋嫂鱼羹",
       "province": "zhejiang",
       "city": "杭州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 56,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "js-dazhugansi",
+      "name": "大煮干丝",
+      "province": "jiangsu",
+      "city": "扬州",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 56,
@@ -86060,6 +86047,19 @@
       "category": "food",
       "subcategory": "tea",
       "readingCharacters": 410,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-a873f83973b70e5c08",
+      "name": "临安山核桃",
+      "province": "zhejiang",
+      "city": "杭州",
+      "category": "food",
+      "subcategory": "ingredients",
+      "readingCharacters": 412,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

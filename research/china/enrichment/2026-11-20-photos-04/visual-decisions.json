@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-20",
+  "approved": [
+    {
+      "itemId": "flavor-jiangsu-e01650d3e6",
+      "itemName": "苏式鲜肉月饼",
+      "candidateId": "c-626392e899551109",
+      "caption": "苏式鲜肉月饼实拍，展示完整酥皮与剖面；作者家人在加拿大制作。",
+      "reason": "完整原始元数据明确苏式鲜肉月饼、猪肉馅和加拿大家庭制作；已看原图，完整月饼与整齐切面同盘，无吃过的残盘。不将家庭变体的萝卜、香菇及葱馅当成所有苏州店家的固定配方。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "zj-jiaxing-shaomai",
+      "itemName": "嘉兴鲜肉烧卖",
+      "candidateId": "c-7d8d7b4af927d646",
+      "caption": "嘉兴斜西街烧麦实拍，薄皮蒸点盛于竹屉。",
+      "reason": "完整元数据直接命名嘉兴斜西街烧麦，实拍为薄皮蒸制烧麦；与原卡片已有地方资料的嘉兴肉笋馅烧卖对应属于有依据的判断，照片未切开，不据图单独核实馅料比例；保留原作者名称。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-zhejiang-65406eee9b",
+      "itemName": "宁波汤圆",
+      "candidateId": "csf-black-sesame-tangyuan",
+      "caption": "黑芝麻馅汤圆切面，Elaine家庭制作实拍；非宁波店铺实拍。",
+      "reason": "已读作者完整食谱与公开使用许可，并查看2015原始照片；使用白色糯米皮、黑芝麻糖馅成品而非新版彩色汤圆。原文制作步骤明确加入融化猪油，同时列有黄油可选项，照片不能独立证明所选油脂；作为卡片所述黑芝麻汤圆形态的有依据对应，未宣称宁波拍摄或特定店家认证。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "program-a873f83973b70e5c08",
+      "itemName": "临安山核桃",
+      "candidateId": "inat-carya-540689824",
+      "caption": "杭州地区山核桃挂果实拍；观察坐标已模糊，照片不代表地理标志认证。",
+      "reason": "GBIF研究级观察直接识别Carya cathayensis，原记录Hangzhou，行政匹配为Lin’an。已看挂果实拍，果实与叶片清晰；观察者将坐标不确定范围扩大至29382米，故只据此支持杭州山核桃实物形态，不据模糊坐标断言具体果园或受保护产区边界。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "js-wensi-tofu",
+      "itemName": "文思豆腐",
+      "candidateId": "223765921",
+      "caption": "文思豆腐羹实拍，豆腐切作细丝；作者说明此版本配牛肝菌与鸡汤。",
+      "reason": "原作者完整说明直接命名Wen Si Tofu及traditional Yangzhou soup，描述豆腐细丝、牛肝菌和鸡汤；已看原图为真实汤碗，豆腐细丝可辨，暖色汤底干净。不把该版本的牛肝菌当成所有文思豆腐固定配料。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "js-dazhugansi",
+      "itemName": "大煮干丝",
+      "candidateId": "4372400698",
+      "caption": "扬州食为天饭店干丝实拍，鸡汤中配虾仁、木耳、笋与火腿。",
+      "reason": "原作者明确扬州、食为天饭店及2010年2月，说明豆腐干切细丝、浓鸡汤、河虾仁、木耳、竹笋和金华火腿。与原卡片大煮干丝的豆腐干丝鸡汤做法相符，属于有依据的菜品对应；已看真实熟制汤碗，不使用此前博物馆模型图。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-jiangsu-8a5e336eda",
+      "itemName": "连云港酒醉螃蟹",
+      "candidateId": "3816735725",
+      "caption": "连云港醉蟹实拍；原图完整显示，保留作者水印。",
+      "reason": "作者标题直接命名连云港醉蟹，原页许可CC BY-NC-ND 2.0。已看真实蟹块成品，主体清晰、构图集中；完整保存JPEG字节并以contain显示，不裁切、不调色、不去水印；不依据照片作生食安全承诺。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    }
+  ],
+  "held": [
+    {
+      "subject": "天山雪牛奶",
+      "reason": "原上传1画面裁去包装边缘；原上传4为背面，不采用。"
+    },
+    {
+      "subject": "维维豆奶",
+      "reason": "整袋虽可识别，但反光、倾斜和地板背景观感不足。"
+    },
+    {
+      "subject": "Christine中文站照片",
+      "reason": "英文条款允许带原文链接使用，中文菜谱页另有未先书面同意不得转载；未解决冲突前不采用。"
+    },
+    {
+      "subject": "荷叶粉蒸肉",
+      "reason": "新来源只证实一般粉蒸肉，不足以确认荷叶做法。"
+    },
+    {
+      "subject": "酒酿元宵",
+      "reason": "酒酿食谱照片只有酒酿，不能替代酒酿元宵成品。"
+    },
+    {
+      "candidateId": "8118066097",
+      "reason": "作者只说明鸭油肉松酥点，圆形带馅酥饼不足以直接确定为原卡片的鸭油酥烧饼；不按近似糕点配图。"
+    },
+    {
+      "candidateId": "293514038",
+      "reason": "已找到构图更清楚且原文列明鸡汤配料的扬州干丝，采用另一张对应熟制汤碗。"
+    }
+  ]
+}

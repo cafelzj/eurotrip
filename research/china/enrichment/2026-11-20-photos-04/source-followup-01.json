@@ -1,0 +1,35 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/sitemap_index.xml",
+      "query": "Published recipe sitemap index",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-json/wp/v2/posts?search=Shanghai&per_page=30&_fields=id%2Clink%2Ctitle%2Cexcerpt%2Cfeatured_media",
+      "query": "Shanghai recipes metadata",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Carya+cathayensis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=50",
+      "query": "Hickory actual Zhejiang observations",
+      "itemIds": [
+        "program-a873f83973b70e5c08"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/693/886/651/3607/1.jpg",
+      "query": "天山雪纯牛奶原上传1",
+      "itemIds": [
+        "js-tianshanxue"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/443/280/0372/1.jpg",
+      "query": "维维豆奶粉原上传1",
+      "itemIds": [
+        "js-vv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-20",
+  "jobs": [
+    {
+      "query": "Longyou fagao",
+      "itemIds": [
+        "zj-longyou-fagao"
+      ],
+      "url": "https://api.openverse.org/v1/images/?q=Longyou+fagao&page_size=20&mature=false"
+    },
+    {
+      "query": "Yuhua tea",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "url": "https://api.openverse.org/v1/images/?q=Yuhua+tea&page_size=20&mature=false"
+    },
+    {
+      "query": "Wensi tofu",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "url": "https://api.openverse.org/v1/images/?q=Wensi+tofu&page_size=20&mature=false"
+    },
+    {
+      "query": "Jinhua subing",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "url": "https://api.openverse.org/v1/images/?q=Jinhua+subing&page_size=20&mature=false"
+    },
+    {
+      "query": "光明 牛奶",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%85%89%E6%98%8E+%E7%89%9B%E5%A5%B6&search_simple=1&action=process&json=1&page_size=15"
+    },
+    {
+      "query": "光明 酸奶",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%85%89%E6%98%8E+%E9%85%B8%E5%A5%B6&search_simple=1&action=process&json=1&page_size=15"
+    },
+    {
+      "query": "维维",
+      "itemIds": [
+        "js-vv"
+      ],
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E7%BB%B4%E7%BB%B4&search_simple=1&action=process&json=1&page_size=15"
+    },
+    {
+      "query": "李子园",
+      "itemIds": [
+        "zj-liziyuan"
+      ],
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E6%9D%8E%E5%AD%90%E5%9B%AD&search_simple=1&action=process&json=1&page_size=15"
+    },
+    {
+      "query": "文思豆腐",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "url": "https://chinesefoodwiki.org/Wensi_Tofu"
+    },
+    {
+      "query": "雨花茶",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "url": "https://chinesefoodwiki.org/Yuhua_Tea"
+    },
+    {
+      "query": "Carya cathayensis",
+      "itemIds": [
+        "program-a873f83973b70e5c08"
+      ],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Carya+cathayensis&country=CN&mediaType=StillImage&limit=12"
+    },
+    {
+      "query": "Ovis aries",
+      "itemIds": [
+        "program-80f65d0c7afd41031e"
+      ],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Ovis+aries&country=CN&mediaType=StillImage&limit=12"
+    }
+  ]
+}

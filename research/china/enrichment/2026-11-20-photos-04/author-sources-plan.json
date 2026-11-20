@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/about/",
+      "query": "ChinaSichuanFood published permission",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.justonecookbook.com/content-permissions/",
+      "query": "JustOneCookbook photo permission",
+      "itemIds": []
+    },
+    {
+      "url": "https://woksoflove.com/your-use-of-our-content/",
+      "query": "WoksOfLove published photo terms",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/recipe-index/",
+      "query": "ChinaSichuanFood recipe index",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-20",
+  "sheetsViewed": [
+    {
+      "file": "research/.local/china-photos-20261120-04/review-short.jpg",
+      "sha256": "267169c8762f3c40ba1c3c202b6d6f52ceace0f37a9e83b912294771a75b3f26"
+    },
+    {
+      "file": "research/.local/china-photos-20261120-04/white-tangyuan-review.jpg",
+      "sha256": "4193022b78788263bbe6160b4d0625288191f4c89ee91135249541009055d41d"
+    },
+    {
+      "file": "research/.local/china-photos-20261120-04/cached-review.jpg",
+      "sha256": "a3b83bfb48771b2fdb68a79c2fbdc0fb38682ccdad13f1b14493d260bdb6cd30"
+    },
+    {
+      "file": "research/.local/china-photos-20261120-04/flickr-qualified-01-review.jpg",
+      "sha256": "69e25ebf0b9670399c75360b76665f1bb1402be960808f29a560b47633494359"
+    },
+    {
+      "file": "research/.local/china-photos-20261120-04/flickr-qualified-02-review.jpg",
+      "sha256": "ec170cd2183cd348e4f62e16385f0b677cfc51e15bd5770fe35fbc578eab35ab"
+    }
+  ],
+  "notes": [
+    "实际采用以visual-decisions.json为准；没有声称全部城市搜索候选都已经目视审核。",
+    "作者食谱全文仅用于核对照片，不复制到卡片文字。"
+  ]
+}

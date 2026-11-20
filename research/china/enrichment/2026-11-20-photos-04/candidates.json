@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-20",
+  "candidates": [
+    {
+      "title": "Savoury Suzhou-style meat mooncake.jpg",
+      "categoryNames": [
+        "Suzhou-style mooncakes"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/1356ed11c90864e5ef9e.html.gz"
+      ],
+      "id": "c-626392e899551109",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Savoury_Suzhou-style_meat_mooncake.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Savoury_Suzhou-style_meat_mooncake.jpg/960px-Savoury_Suzhou-style_meat_mooncake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Mooncakes from Suzhou are known for the flaky dough and come in both sweet and savoury types. Savoury mooncakes are typically filled with minced pork; here, green onions, Chinese radish, and shiitake mushroom are also added.\nThese particular ones were made by my mother in Canada.",
+      "itemIds": [
+        "flavor-jiangsu-e01650d3e6"
+      ],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/e7916cf3621f71fbb5a7.json",
+      "metadataSha256": "8a0c74f09fbb7d2a8b5087116abe78075b0d5bf95f417c588190ae0d61738768",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 641,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-626392e899551109.jpg",
+      "rawSha256": "5fa3c8151748cb30ca428c27e91fd326ce7ce9417475a19b6291df1e65c7aae9"
+    },
+    {
+      "title": "斜西街烧麦2.jpg",
+      "categoryNames": [
+        "Cuisine of Jiaxing"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/fa7edb5b9d780aa050d4.html.gz"
+      ],
+      "id": "c-7d8d7b4af927d646",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg/960px-%E6%96%9C%E8%A5%BF%E8%A1%97%E7%83%A7%E9%BA%A62.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "​嘉兴斜西街烧麦。",
+      "itemIds": [
+        "zj-jiaxing-shaomai"
+      ],
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/2cbb348a72d2d67c5d27.json",
+      "metadataSha256": "a33a8145442c19dd38d961c6c70222ec91e18dee808dfa48f93e770068c6c323",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 639,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-7d8d7b4af927d646.jpg",
+      "rawSha256": "4f029655120395a32355508d663dacf34e1d3e1382257ce3041a5a2cfce32819"
+    },
+    {
+      "id": "csf-black-sesame-tangyuan",
+      "title": "Black sesame tang yuan (2015 original photograph)",
+      "itemIds": [
+        "flavor-zhejiang-65406eee9b"
+      ],
+      "rawFile": "research/.local/china-photos-20261120-04/0-white-tangyuan.jpg",
+      "rawSha256": "473ba0befa312d6e6a3bf400cd19a52b06b4cf62c51c6dd2c5e208521429b00b",
+      "metadataFile": "research/.local/china-photos-20261120-04/source-followup-03/260339221a054da09f6dcb303086a1a3.response.gz",
+      "metadataSha256": "6fccf2e8faced8e747c2eff1c4aeeef880f85598d64bd95b163614447e59216e",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/tang-yuan-recipe-black-sesame-filling/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2015/01/black-sesame-tang-yuan-22.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "inat-carya-540689824",
+      "title": "Carya cathayensis fruits, observation 300097155",
+      "itemIds": [
+        "program-a873f83973b70e5c08"
+      ],
+      "rawFile": "research/.local/china-photos-20261120-04/5230698361-d76d358424ae415bbda96739e7d2bcd4.response.jpg",
+      "rawSha256": "83aeb0fc0031e8befaf5d8ba6ca9a81c83d061969b1711c8ec29ab4f7cde06de",
+      "metadataFile": "research/.local/china-photos-20261120-04/source-followup-01/9ac52e2b5bb04e60b0c1ae0f908ee64f.response.gz",
+      "metadataSha256": "c7d4ac4ac98803690638e59be6a5d1b91a7a530a88554bcbdc3c75858388e60c",
+      "author": "cheavy",
+      "source": "https://www.inaturalist.org/observations/300097155",
+      "preview": "https://inaturalist-open-data.s3.amazonaws.com/photos/540689824/original.jpg",
+      "provider": "iNaturalist / GBIF",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "id": "223765921",
+      "title": "DSC_1508",
+      "description": "'Wen Si Tofu' - traditional Yangzhou soup with finely julienned tofu &amp; porcini mushrooms in a chicken &amp; porcini stock",
+      "licenseCode": 1,
+      "source": "https://www.flickr.com/photos/10705048@N00/223765921",
+      "preview": "https://live.staticflickr.com/57/223765921_6e619dae41_z.jpg",
+      "itemIds": [
+        "js-wensi-tofu"
+      ],
+      "query": "Yangzhou food",
+      "provider": "Flickr",
+      "license": "CC BY-NC-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "author": "Janine Cheung",
+      "rawFile": "research/.local/china-photos-20261120-04/223765921.jpg",
+      "rawSha256": "4610f16bab4cab87509ded7e9037a2ae8eb4d34f0a5d89da8f6186ec998bdcac",
+      "metadataFile": "research/.local/china-photos-20261120-04/flickr-qualified-01/81b8d0d02b8348988a9c7a6b45320d2b.response.gz",
+      "metadataSha256": "73386fc6ec0ea8bb93de55e1d7c67adfb1b200370ae7338fe75be715ec94198b"
+    },
+    {
+      "id": "4372400698",
+      "title": "Yangzhou Gan Si",
+      "description": "Pressed tofu cut into fine noodle-like slivers, in rich chicken stock. Plus miniature peeled river shrimp, wood ear mushrooms, bamboo shoots, and Jinhua ham. Shi Wei Tian Holiday Hotel. February 2010. Yangzhou.",
+      "licenseCode": 2,
+      "source": "https://www.flickr.com/photos/22472301@N00/4372400698",
+      "preview": "https://live.staticflickr.com/4001/4372400698_8ffc97a40a_c.jpg",
+      "itemIds": [
+        "js-dazhugansi"
+      ],
+      "query": "Yangzhou food",
+      "provider": "Flickr",
+      "license": "CC BY-NC 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "author": "Santo Chino",
+      "rawFile": "research/.local/china-photos-20261120-04/4372400698.jpg",
+      "rawSha256": "68e1e695ef0a8f94dfffac0e62823dc9c263cad2a2da99089711d53164dbe1e1",
+      "metadataFile": "research/.local/china-photos-20261120-04/flickr-qualified-01/8cfbe1a5e0f14b418f985bf02bcaa3b6.response.gz",
+      "metadataSha256": "6da65958c90cead2147ae487424a001ee8eaab42b62b1a830a34e0655225e9d6"
+    },
+    {
+      "id": "3816735725",
+      "title": "连云港 醉蟹",
+      "description": null,
+      "licenseCode": 3,
+      "source": "https://www.flickr.com/photos/8904706@N04/3816735725",
+      "preview": "https://live.staticflickr.com/2637/3816735725_10e3212644_c.jpg",
+      "itemIds": [
+        "flavor-jiangsu-8a5e336eda"
+      ],
+      "query": "Lianyungang food",
+      "provider": "Flickr",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "author": "GIS@Sam",
+      "rawFile": "research/.local/china-photos-20261120-04/3816735725.jpg",
+      "rawSha256": "96019fd41e4f4a337afede4f157dfe04bb48bb74eb6e2dba2efefb226ef5f404",
+      "metadataFile": "research/.local/china-photos-20261120-04/flickr-qualified-02/cef84b5c0ab14db3a896d8ca6be3e7a1.response.gz",
+      "metadataSha256": "dcb6008bb5579915089b84258a8814544c397e53e8f2cb1045d13828e496aef8"
+    }
+  ]
+}

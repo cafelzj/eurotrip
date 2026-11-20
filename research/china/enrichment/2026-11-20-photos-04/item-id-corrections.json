@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-20",
+  "corrections": [
+    {
+      "originalItemId": "program-6d144900cfc25c439b",
+      "correctItemId": "program-a873f83973b70e5c08",
+      "reason": "source-followup-02计划编写时ID误录；原计划与请求日志保留，后续候选按现有目录的临安山核桃ID关联，未写入网页。"
+    }
+  ]
+}

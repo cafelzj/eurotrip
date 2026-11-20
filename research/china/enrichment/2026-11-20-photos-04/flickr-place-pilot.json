@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "query": "Jiaxing food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Jiaxing+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Ningbo food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Ningbo+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Shaoxing food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Shaoxing+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Wenzhou food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Wenzhou+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Changzhou food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Changzhou+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Huaian food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Huaian+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Taizhou food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Taizhou+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Quzhou food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Quzhou+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Lishui food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Lishui+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Yangzhou food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Yangzhou+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Jinhua food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Jinhua+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Nanjing food",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Nanjing+food&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    }
+  ]
+}

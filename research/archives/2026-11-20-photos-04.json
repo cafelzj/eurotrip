@@ -1,0 +1,965 @@
+{
+  "batch": "2026-11-20-photos-04",
+  "createdAt": "2026-11-20T00:49:38.767869+00:00",
+  "archive": "research/.local/archives/2026-11-20-photos-04.tar.gz",
+  "archiveSha256": "31a3026a4167afde1016fc6b018a166c1971a088a0d2245b83beee1fc628d9f9",
+  "originalDirectories": [
+    "/workspace/eurotrip/research/.local/china-photos-20261120-04"
+  ],
+  "fileCount": 190,
+  "totalUncompressedBytes": 55352139,
+  "storage": "local-only-not-off-machine-backup",
+  "originalsRetained": true,
+  "files": [
+    {
+      "member": "china-photos-20261120-04/0-white-tangyuan.jpg",
+      "bytes": 19868,
+      "sha256": "473ba0befa312d6e6a3bf400cd19a52b06b4cf62c51c6dd2c5e208521429b00b"
+    },
+    {
+      "member": "china-photos-20261120-04/1-white-tangyuan.jpg",
+      "bytes": 38466,
+      "sha256": "af5e111ed25f451b9df055fbe802763f4365fc244779dc07bf807da0db23f14d"
+    },
+    {
+      "member": "china-photos-20261120-04/2-white-tangyuan.jpg",
+      "bytes": 47736,
+      "sha256": "a7f9e77a42b107da520435a791fd7e2d71fd0cc932511518317101915be9dcdb"
+    },
+    {
+      "member": "china-photos-20261120-04/223765921-metadata.json",
+      "bytes": 751,
+      "sha256": "e249cdf361793f48455dc0df0c2d584b0c056763f6edb5710389c6c4cc8a4507"
+    },
+    {
+      "member": "china-photos-20261120-04/223765921.jpg",
+      "bytes": 61484,
+      "sha256": "4610f16bab4cab87509ded7e9037a2ae8eb4d34f0a5d89da8f6186ec998bdcac"
+    },
+    {
+      "member": "china-photos-20261120-04/293514038-metadata.json",
+      "bytes": 704,
+      "sha256": "460de1a6a80400bb3666eac56bb9d8ac066b7b4e6b87810af784f8632280b478"
+    },
+    {
+      "member": "china-photos-20261120-04/293514038.jpg",
+      "bytes": 159756,
+      "sha256": "e2d081472d9300d1566768a0b29003db0154f55d498a92e801a93c869c2f737d"
+    },
+    {
+      "member": "china-photos-20261120-04/3816735725-metadata.json",
+      "bytes": 716,
+      "sha256": "d118973c2efc7a0d36652c4e8026c22b65f14405cdc0a63012a110b94162d16f"
+    },
+    {
+      "member": "china-photos-20261120-04/3816735725.jpg",
+      "bytes": 115473,
+      "sha256": "96019fd41e4f4a337afede4f157dfe04bb48bb74eb6e2dba2efefb226ef5f404"
+    },
+    {
+      "member": "china-photos-20261120-04/4372400698-metadata.json",
+      "bytes": 739,
+      "sha256": "dcfca4fdd44ad08ca27032e78f50ce61028e11dc4736ef1e13abcf42fe491851"
+    },
+    {
+      "member": "china-photos-20261120-04/4372400698.jpg",
+      "bytes": 410826,
+      "sha256": "68e1e695ef0a8f94dfffac0e62823dc9c263cad2a2da99089711d53164dbe1e1"
+    },
+    {
+      "member": "china-photos-20261120-04/4436201846-f1248f92079d4779ae2ced7b4440d992.response.jpg",
+      "bytes": 3741343,
+      "sha256": "a6c556b6d9bdc6e8b8301ff7a441fc8517bf78de29703aee0faef8859e59fe9c"
+    },
+    {
+      "member": "china-photos-20261120-04/5230698361-3ee0b13d6c324a59b08c8265fe8a6696.response.jpg",
+      "bytes": 983416,
+      "sha256": "4dc78e431200586b4d78618fbe6d36e0034cd8067f4f353171abfd5f591a1a53"
+    },
+    {
+      "member": "china-photos-20261120-04/5230698361-d76d358424ae415bbda96739e7d2bcd4.response.jpg",
+      "bytes": 975042,
+      "sha256": "83aeb0fc0031e8befaf5d8ba6ca9a81c83d061969b1711c8ec29ab4f7cde06de"
+    },
+    {
+      "member": "china-photos-20261120-04/6253001582-76f697f88f034864b1028e782e519a5c.response.jpg",
+      "bytes": 999792,
+      "sha256": "6d438814026b1d834d5a586c5469db0c6e23dc73e66212f33b43fdb442de3a19"
+    },
+    {
+      "member": "china-photos-20261120-04/6253001582-7b6aade45fdc4005ac42aacae66a7f23.response.jpg",
+      "bytes": 1395731,
+      "sha256": "5f4cdc3e890617486800b80c8ee86a00b61f990afe80b7037231669f56932a15"
+    },
+    {
+      "member": "china-photos-20261120-04/6253081749-9ce6d06b543e4a49b8d5ac0b263ed212.response.jpg",
+      "bytes": 1030749,
+      "sha256": "60b053bdfe1c8a71ff1aa0eb73f328c4da6b9059b3426fe12560bdc97a90486c"
+    },
+    {
+      "member": "china-photos-20261120-04/8118066097-metadata.json",
+      "bytes": 730,
+      "sha256": "0a3c05fdb5797119f22e527e5dbc2bdb12998df0b2c75867e50987ca2d61518c"
+    },
+    {
+      "member": "china-photos-20261120-04/8118066097.jpg",
+      "bytes": 137697,
+      "sha256": "caa59d9b3fe6030d10eda96c49d5e8cec411d122b90b149865d7e95b42396332"
+    },
+    {
+      "member": "china-photos-20261120-04/8123896551-metadata.json",
+      "bytes": 730,
+      "sha256": "08abedbdc12bd64f0caa7f4990cf231d6525a629749e3ecd5cb0eb7200b65aa8"
+    },
+    {
+      "member": "china-photos-20261120-04/8123896551.jpg",
+      "bytes": 120682,
+      "sha256": "151ce220021171388f8ecc9e4575f2fa7550bbf2304f5fd9db9a50b0d3a7cbcb"
+    },
+    {
+      "member": "china-photos-20261120-04/author-sources/3c0eea0422674c4d80ee39bc04a62833.response.gz",
+      "bytes": 73667,
+      "sha256": "64704442e7137a031685dfb786f418acaea79ec2da36407f1a6796c063b46534"
+    },
+    {
+      "member": "china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+      "bytes": 68826,
+      "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602"
+    },
+    {
+      "member": "china-photos-20261120-04/author-sources/91514f81567b4dc9a3ba5461fe784e47.response.gz",
+      "bytes": 456,
+      "sha256": "c56ba9b93846bcdb269e8fb3aefd135e98b5880aa6a9fb7f0ef30a9a7b2d3ca6"
+    },
+    {
+      "member": "china-photos-20261120-04/author-sources/f913bd03567b4aae9e4f08eb951ca256.response.gz",
+      "bytes": 74176,
+      "sha256": "e08f567c211fdf926cb2c03abdfbf606a46246d3c5f96937ee41f78cfd1419b3"
+    },
+    {
+      "member": "china-photos-20261120-04/author-sources/requests.jsonl",
+      "bytes": 1726,
+      "sha256": "ac17a1d82570e44c4f4b448f6d7dcdf3515882aa3ab73bef8ac9be21d342a13a"
+    },
+    {
+      "member": "china-photos-20261120-04/baseline-card-images.js",
+      "bytes": 216655,
+      "sha256": "9a1e0371ba7c92bae6f7f4c0ff7f967a693e6f51e9c7a3be9918391f88f1049d"
+    },
+    {
+      "member": "china-photos-20261120-04/baseline-china-card-images.js",
+      "bytes": 278978,
+      "sha256": "7d190a89f2980a24a907e66962b04cc1a86da6560dfabb309b6f4b65099a7c3b"
+    },
+    {
+      "member": "china-photos-20261120-04/baseline-china-card-reading.js",
+      "bytes": 43985,
+      "sha256": "1dbb8910b3b841104e5afc8b8cc58647365f8688415aa96f0c83edfdf4f84fd0"
+    },
+    {
+      "member": "china-photos-20261120-04/baseline-flavor-images.js",
+      "bytes": 72502,
+      "sha256": "6d4ca44c6d9f5e1825a3cab9dc6cea1100bb7b32b4f2f2d76dd493413040ca34"
+    },
+    {
+      "member": "china-photos-20261120-04/baseline-flavors.js",
+      "bytes": 9097910,
+      "sha256": "0e58336ed674a9fd6cf63c74b3027406c4f13303fdf22cc885c89fafac462535"
+    },
+    {
+      "member": "china-photos-20261120-04/cached-review-candidates.json",
+      "bytes": 14482,
+      "sha256": "e4e2464421f2e2efd510311c204cf7eea3d44aefbca62cdef95355babe8382ce"
+    },
+    {
+      "member": "china-photos-20261120-04/cached-review.jpg",
+      "bytes": 183374,
+      "sha256": "a3b83bfb48771b2fdb68a79c2fbdc0fb38682ccdad13f1b14493d260bdb6cd30"
+    },
+    {
+      "member": "china-photos-20261120-04/christine-links.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-discovery-reread.json",
+      "bytes": 14094,
+      "sha256": "9c418a74c0fc16d999844839def63ea8de80b8018883a8ecfa22aaf6c521b97c"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-followup/4d54e4f4fbec441288d9946e4f9dc2c9.response.gz",
+      "bytes": 2326,
+      "sha256": "0f7b16f58c6c5673112abb346d75742aa7b97379fb91b31fee36ce9c91d671d3"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-followup/b909160ed51d44bab6f053e909cfe6e8.response.gz",
+      "bytes": 118,
+      "sha256": "695c2a9460eb09f14726b81c0ca32131f51ffdef845868f5ffc48826526fab78"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-followup/requests.jsonl",
+      "bytes": 1056,
+      "sha256": "bafe015b2409163348b165f0c912596c8bbe7b34d1346303d6ec4226ed5858a8"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-pilot/475f8066417140d6acd3769aff13df2c.response.gz",
+      "bytes": 46383,
+      "sha256": "fc68b8a1bca1cfbab5085abe7a673db8015614732f95236a5fd2638f72182802"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-pilot/8973fc756cc04234a0b936b52aba3c04.response.gz",
+      "bytes": 305,
+      "sha256": "ac552f9d70f8c746988e2599c529bc0c38441a7c6062a7b0f63bea56f2ba6d6b"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-pilot/e42b98a4d3974010ad4f375fd1a4cdf0.response.gz",
+      "bytes": 118,
+      "sha256": "695c2a9460eb09f14726b81c0ca32131f51ffdef845868f5ffc48826526fab78"
+    },
+    {
+      "member": "china-photos-20261120-04/dataset-source-pilot/requests.jsonl",
+      "bytes": 1430,
+      "sha256": "1b3fe22b1499b02b3e4a16d141f080a0b16bcd6934f5c49be5ce87df736fff22"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/1018b735ba5745f185101677eb0858e1.response.gz",
+      "bytes": 145711,
+      "sha256": "f030a9ffed1181ec2cdef9244ec531c6232e112ffc331df3a9f5d64ed9f6dc74"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/155a4124f1e34520aa237f630dc9dbfb.response.gz",
+      "bytes": 144266,
+      "sha256": "a7fedfcb18f1a3f3a010abea5eea120dc81274300ff1f358522fb981876d0bab"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/1949265ba55744998390be2f7782e0e2.response.gz",
+      "bytes": 145350,
+      "sha256": "5f1905e21f23bdb302cd98ca392444ed73b68f5c7d6e9afc702194069e6460f0"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/1c385eca5a5b44afac68b7501cbf55d8.response.gz",
+      "bytes": 142142,
+      "sha256": "f8252aa87b0269592ed6093b11d111e730c4c505c7c0072346ff5e180aeee352"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/1f5c29d20bd44d48b77f83f0ab5e1fa6.response.gz",
+      "bytes": 145329,
+      "sha256": "795031eacf780a26aae9d8bf030ec672255a2de2c98895afd968c868c3d63e5e"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/26141f9438c94eaf976734ccc22ff59a.response.gz",
+      "bytes": 149634,
+      "sha256": "53f355245e66e252d7b0454bdd7addc754fefcfa10e4baa0244b4e5d7e944898"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/312fd5f26dcb484b883b1eea0ef8dee6.response.gz",
+      "bytes": 143488,
+      "sha256": "90a8f4ba87ed731cc01b9c247ff6c457e697a8cec58dc216b545b547a413a429"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/3455a4ca01084356afd1803b47363202.response.gz",
+      "bytes": 152409,
+      "sha256": "36804c48019d5b2aef944b52f493c6f3d2b1d0c257d67b62556df14e706e6816"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/36faf496ff3e4235813bdd74b1045f33.response.gz",
+      "bytes": 135801,
+      "sha256": "ef028dd3d1ac3803f08c567410aa25f50a208bdc64a89f575eba3bef330f2fb0"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/387a83d1cd9f40cb83f2bbec5768728f.response.gz",
+      "bytes": 145321,
+      "sha256": "d1323e2a1e7a30e34eec2a1ffc217ce67eb45370f9351f22d542d866e45474fb"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/39d44edb896c42e6a49ccccdf7b62272.response.gz",
+      "bytes": 145316,
+      "sha256": "608fe4e8407bb5f05edd4b5ae49618bdb645463c532532dd6e6254157d92ad83"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/3cd3bc6d4a5145ff9329aac26188b18c.response.gz",
+      "bytes": 146182,
+      "sha256": "5099cdaf1a4e0a930b565372c130ff8b251c82778147e5d109c0fd9ec036223d"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/4781ae2163524aa1b26fdc9559856f7b.response.gz",
+      "bytes": 142366,
+      "sha256": "08e275a243def5022392f02edaea9f9f6d5e7f36f8415d0eb1f706f20e739a7f"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/54071ca8d1684ce3b61b391732781a28.response.gz",
+      "bytes": 145322,
+      "sha256": "95d6d822aeedf1739894e3c540d60a0525787356d36ee882a30100f8a80a1eff"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/59ac445536c64a03a398dd178cc2af67.response.gz",
+      "bytes": 150071,
+      "sha256": "987491a55ac51e28beadd0f08afdfa30d1533c6faf5d76b981f2c9d7d469e387"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/5e85f7b55d4e45ce83a4d87f2ae4bce4.response.gz",
+      "bytes": 149695,
+      "sha256": "a4256b49d99d011bc61bcb9f5c83302d6c595c2a0917bdba82bff39d812c59b6"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/6699811ecb8c4044942060379f8be6ac.response.gz",
+      "bytes": 149405,
+      "sha256": "0e8a4d2495fb64c53c879563d4e3db97c1571ff1835e9542e7623061efaa2993"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/67cb3120efcd4dc097efab190084c34b.response.gz",
+      "bytes": 150709,
+      "sha256": "4a5ad95456c6269c74fe8edd8002d933c87ae022cc9a95c049d732179abfd6f8"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/74ff009a59534b62a55cb562eb4086d5.response.gz",
+      "bytes": 145294,
+      "sha256": "4842adc43d7df2ff769dc80581a15254ee5f8fa397f79a08a5940e495b522679"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/7a2dcdb12e634677b480956110eeb84e.response.gz",
+      "bytes": 144312,
+      "sha256": "06fde0538d0d76cffd572d88418139dca91daaf29879d8e16d7363e4f20488b3"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/7e5c517bafb74362915f1772bed4307e.response.gz",
+      "bytes": 140317,
+      "sha256": "c5639212f271cd64eb2eec3b261552713c6f3b65fc70e96ea5c76bf1d7c14f7d"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/85df98760eca4513b7f83696bd13a177.response.gz",
+      "bytes": 141431,
+      "sha256": "c419581635cb4bc61b5e8de8780d85c75734867c23c9633936b8c9da56af8c4b"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/86ee83d991e74cb5a373199ebbb3df19.response.gz",
+      "bytes": 146663,
+      "sha256": "77283388c693b16954c59e1d7670285c31e3151ae9c5f2459f8829b62586dbcd"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/895e6e3a1be6441eb9c4f1dac9b93bca.response.gz",
+      "bytes": 146552,
+      "sha256": "99ef8e74208b1eaf351141c85fd9ec0169b175eeeec3f1e40ee6379b363865c3"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/8c57ce6aec894953a71b55934e2e9b18.response.gz",
+      "bytes": 147290,
+      "sha256": "b8db1cbc6b80e871cfe1f249b974f6fe039220c0ea3e175a92695fb4e85f77df"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/a577b0707f124f029427e9fd2c06c361.response.gz",
+      "bytes": 146222,
+      "sha256": "64020a6176de69e9423360b3a5748ef1440bb29cab621d3e59a807ec14f3bf36"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/ce1a0a136a2b406fbfa30cba20aaa833.response.gz",
+      "bytes": 142736,
+      "sha256": "f3f29d1237d1ba6018c5ea669d0c27741d7c8878bc86dbe19b622ff6d5762c0b"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/ea059fe606c34edabf1d12d2c639d86a.response.gz",
+      "bytes": 145309,
+      "sha256": "5869256672197141e549aa958eacc2740a0d759f168c86e7eb54266d31c3078d"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/f3c2cf0aad6e4b1797a2daabc8c85696.response.gz",
+      "bytes": 158533,
+      "sha256": "c01837b0020b4b6155ddd995ae70138333fb0b2a55c55040884508aadc3a3050"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/fb5d17e02d274a2b989ab22ee6adbfb1.response.gz",
+      "bytes": 159454,
+      "sha256": "1af9b6ee36a54e984f27418a1ba5102f2338c5a6bc66a8a1f4eb34b2f1c005d3"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-01/requests.jsonl",
+      "bytes": 14216,
+      "sha256": "36a97d32eb79383acbed166b5483775f2884bf35e757bf6d20612d87ef4cd564"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-expanded-discovery.json",
+      "bytes": 145265,
+      "sha256": "8e9aedcbd78330ede4b1bfddf163418c2d21c9989426e02a8696be2f550de630"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/305d38637c2d4c8097e0c76450459269.response.gz",
+      "bytes": 143180,
+      "sha256": "38ced6a230c22ff0e0f2b11cef8871c567712e6b072703f1ce5064fee2007555"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/52399cb3fc57409c99e0a60370b9344c.response.gz",
+      "bytes": 142611,
+      "sha256": "211a956c9260a91c7cd9a25409984a412bc03a4754fa8f7ae042aca4dc7167b2"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/6775617db85b4a58a55b1d22935f6aa8.response.gz",
+      "bytes": 144088,
+      "sha256": "27025f899cfb977a74d6d36e7aed9ef38a96c129cdcdc7639d92728f00010e5e"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/7103d013d9c140a895882908039ddf3f.response.gz",
+      "bytes": 141788,
+      "sha256": "a642b933c572a241b550cfca1fb00dd15ef2c8eda8dcd1223a07d1d993e4d7ed"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/73bf8e8615a4464287dc9a05d35d4c52.response.gz",
+      "bytes": 142465,
+      "sha256": "cc4fd9451044b1c5c772d933b00a1a8596feb784804c7c332a0b6de67ab521bf"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/804c958e55c54c09bd189d95afbc09c8.response.gz",
+      "bytes": 142591,
+      "sha256": "053bc0f4f90aa60f057f88fa4ba422e3df94884572eded829f42dd2bc83a1f5e"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/921cfe4a3ef94724b8efdc16148f4f9f.response.gz",
+      "bytes": 144004,
+      "sha256": "7282bfeeea7ab1d1be2cbb9e6167b015a863f8acdf6538be47a9e7d8ad0d6440"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/a44d1c81f84644baab4dd646d2678be4.response.gz",
+      "bytes": 142613,
+      "sha256": "393ffc9566f6b2e1ec0d6e8e5e9ad80476fa37947b4754c19b4d5298ac732060"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/b47025e29f854b058cfb9e1aef5ff1b4.response.gz",
+      "bytes": 142433,
+      "sha256": "6afc9bde5e851d996c8d081cbc710d2e25a99a98573e00efb417bad4b40e5751"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/c53b7903a0744cc6ba9e0a3af843953c.response.gz",
+      "bytes": 145649,
+      "sha256": "f92cbd1c73bd35a1f768e87aabf0e3061721fd6dc011f4b3a34bc95ff9800ac4"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/de905ff8289b4aa6887dec6fa25ccee4.response.gz",
+      "bytes": 145469,
+      "sha256": "09de2dfe66c1e2a51d5b8b85fb8e5156c4c19714d751fd3f6a3742b79fe377b6"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/f7f1861828fa4f42b0934a72bcf28b83.response.gz",
+      "bytes": 142946,
+      "sha256": "3d92712a5acda167221bae5c41797afe85efcce4650d1182b9c94add27718658"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot/requests.jsonl",
+      "bytes": 6176,
+      "sha256": "51cae24ad71f94ec6bfdb374e221024844c0b27633d9e8225ecc4a97e1588870"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-pilot-discovery.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-discovery.json",
+      "bytes": 94178,
+      "sha256": "ef29ae6c21bb6a794f7e21ca8cbb023ea3f8e816405f8b46b34c462b0413dd08"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/0f591bdc718f4b39bbcfcae06e9be2cc.response.gz",
+      "bytes": 148490,
+      "sha256": "be3c95dfdebf203ef0e1bb2ca546e90bf8d819eb4994e4bb496b78d70a610d3f"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/68a776351bba400bbdbee7f3f7003b9c.response.gz",
+      "bytes": 149905,
+      "sha256": "0778ca0a0063af629254ab0b47fd623996dbb7fab91082e72188717cf65c48d5"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/78f0092be5094af7bacf7b0e45172551.response.gz",
+      "bytes": 157915,
+      "sha256": "92da440cd35f598e54c4bcf0ac9700b5dcab14c06a3745868baa9fe683edc5ac"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/8c3cd77c3d59422daf20f515619b0ddd.response.gz",
+      "bytes": 152405,
+      "sha256": "02342c2883f03705f3e55e96950f735c43978edcf009e63df9c2c2f24ed30d91"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/a569d63164654b128f4f5db2b87fe3ac.response.gz",
+      "bytes": 142779,
+      "sha256": "02f9473ed69df552635337f824da21121d6ab2674db7ac5a490318139b0400b2"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/aecf5e6d7b644b15859b27cdd44d6f3e.response.gz",
+      "bytes": 148074,
+      "sha256": "12220beb79e1cdbd252d7c49963a5bdd5c7d5c4ca298949328aa8f085737924c"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/da868580be2b4d4b91e309820d32bb53.response.gz",
+      "bytes": 151083,
+      "sha256": "63903b63825a658b9b5d40b683d3e9aff9d21956cd3d5fbf6c65b51027b9a0f1"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/e46b01d57ba4436793484c845c48a202.response.gz",
+      "bytes": 152521,
+      "sha256": "5efb54043b9a7a946a21d3c7ce35b4e252ff2706c55b2965a61723fa9fa7063c"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/ed48d9bc370a4ba3a7e8f755e2716c85.response.gz",
+      "bytes": 135825,
+      "sha256": "1a9468dd2e2ea38132c71a03805b6121427a1596b22c5be2b0a9bee0ad42d614"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/f2e225e9fb5f48709c20b4c62939fef1.response.gz",
+      "bytes": 142955,
+      "sha256": "f55aea067a88cb28c19826a445250fa8f65a2c653f7e6a08329cdfdc72f5559b"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/f5fdcc1fc3504a328fcf59ef8cf505e8.response.gz",
+      "bytes": 146917,
+      "sha256": "68fbd347749561ae9c93b8d896f86a844930ab29d6fa0a7c66b299b4b9be43dc"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/f95a6cc02f244bada2d6a5d3ba7f50fb.response.gz",
+      "bytes": 149436,
+      "sha256": "d4aeed37f5fab5fafa1b438c14d15c3abfdda6c450f484f5a37d2b17e419fae3"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-place-pilot/requests.jsonl",
+      "bytes": 5626,
+      "sha256": "5233e106645be615dc895ba9ce266fdc615459e186d78a4bb5ec242d9fcb8bcd"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/2088afa6bfa34625b52c16561020c6db.response.gz",
+      "bytes": 61450,
+      "sha256": "5960124009986fe3770bcfa9e83d7c8b304711f42c8fa2b356129326581f1f46"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/40eab8b55b784d3c91290a9eddb5e83d.response.gz",
+      "bytes": 159554,
+      "sha256": "95ec9bdcf087a2c7e2ca655208ece49bb5aad57a2b7a1d3b5a276a3fd6c3fe91"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/81b8d0d02b8348988a9c7a6b45320d2b.response.gz",
+      "bytes": 130465,
+      "sha256": "73386fc6ec0ea8bb93de55e1d7c67adfb1b200370ae7338fe75be715ec94198b"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/8cfbe1a5e0f14b418f985bf02bcaa3b6.response.gz",
+      "bytes": 130934,
+      "sha256": "6da65958c90cead2147ae487424a001ee8eaab42b62b1a830a34e0655225e9d6"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/a0a13d00fe82477195199e03b7aad6aa.response.gz",
+      "bytes": 410074,
+      "sha256": "2438d5dcf9f1e3d7aa3cd2871b7248b996d6fb39f028f7078f642524371adcce"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/e2fa39d1dc1846fdac593255015c41e0.response.gz",
+      "bytes": 130312,
+      "sha256": "d6ab052f986164bda98d2fcbd1946642d7dcb595586d4041bfc0a17b3c9b594c"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01/requests.jsonl",
+      "bytes": 2575,
+      "sha256": "681658221257131b196ebc6f6459a1bfa1acf0edb9954b0ed8f384dbea070e80"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-01-review.jpg",
+      "bytes": 63659,
+      "sha256": "69e25ebf0b9670399c75360b76665f1bb1402be960808f29a560b47633494359"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/1bab4625bc6b4182a3a98a9c3e1a96de.response.gz",
+      "bytes": 130245,
+      "sha256": "34b29e6e79bd060b8f7167a8c1363f7a2a25d75f0c6b942da4ef4de8d719cf3c"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/2a67233b3bdb4b6ca9d0c7aa89a8ea2c.response.gz",
+      "bytes": 114752,
+      "sha256": "72dbbdbcaabaf7874cdf60d3a43c2f7650efefbc71678da03a8e782f3c3f6e88"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/8022fd348b344e3896c22250332fed33.response.gz",
+      "bytes": 136974,
+      "sha256": "47fb2366bfd5e2842515b0ca078f408d3da7ca1fe0d51809ccba9cc8b7265ea7"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/cef84b5c0ab14db3a896d8ca6be3e7a1.response.gz",
+      "bytes": 130626,
+      "sha256": "dcb6008bb5579915089b84258a8814544c397e53e8f2cb1045d13828e496aef8"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/e800606ff2c448e4aa49abd35d8f1ecf.response.gz",
+      "bytes": 130259,
+      "sha256": "3bb15372ff764d6b99c066d286a0710b4da67262a73633ac3cf03259f30ce3cf"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/fb0622801eeb4db89259f0e0ad77398e.response.gz",
+      "bytes": 120031,
+      "sha256": "771e0d98971f0e4e9726d1f51233f62ed3657c357d798c3571493d0366aee127"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02/requests.jsonl",
+      "bytes": 2585,
+      "sha256": "c72e1777cb572ded4aaa4d75646378349bf65ee4f679147428b171d4fda99ae8"
+    },
+    {
+      "member": "china-photos-20261120-04/flickr-qualified-02-review.jpg",
+      "bytes": 52939,
+      "sha256": "ec170cd2183cd348e4f62e16385f0b677cfc51e15bd5770fe35fbc578eab35ab"
+    },
+    {
+      "member": "china-photos-20261120-04/hickory-contact.jpg",
+      "bytes": 49671,
+      "sha256": "c415c14e3849235ee51f4d2a9a99f3aebfb295f1c1d20efd2d7251c6162251bd"
+    },
+    {
+      "member": "china-photos-20261120-04/jzy-author-recipes-search-01.json",
+      "bytes": 26992,
+      "sha256": "ec926cbcb3ff59eb659422655f1a84b9622f3f54b87ec5911d59a6034e926944"
+    },
+    {
+      "member": "china-photos-20261120-04/milk-original-4.jpg",
+      "bytes": 2899934,
+      "sha256": "d3ace23dc7b7561ffd0c99100ff7d7f0ac45041c8743bf5028e4ed7a4520103e"
+    },
+    {
+      "member": "china-photos-20261120-04/milk.jpg",
+      "bytes": 1573169,
+      "sha256": "cce06d7005049a22083bf55475825a11c155158b8de7b7c12e5a6e18022d8aa5"
+    },
+    {
+      "member": "china-photos-20261120-04/read-Christine 主食目录.txt",
+      "bytes": 677,
+      "sha256": "75b65326336e40b1fa07fa02248aa7c412db8873e18713318f1556f7afaa881f"
+    },
+    {
+      "member": "china-photos-20261120-04/read-Christine 甜点目录.txt",
+      "bytes": 659,
+      "sha256": "a5baff3d7df17eac02a2a747ab960b28b8205e1e847e7007a78ef6fcbcffdbc1"
+    },
+    {
+      "member": "china-photos-20261120-04/read-Christine 糟卤鸡翼原文.txt",
+      "bytes": 7125,
+      "sha256": "c7d2d55e6c37f02c6371911e6c5226bb3520730acb9c9062eb17077491f39a32"
+    },
+    {
+      "member": "china-photos-20261120-04/read-chinese-salted-duck.txt",
+      "bytes": 6282,
+      "sha256": "af8614180b962a9cbcffe2d522b7016012684f9118b7fb8d0cd18a38f66c07aa"
+    },
+    {
+      "member": "china-photos-20261120-04/read-red-bean-soup-recipe.txt",
+      "bytes": 10724,
+      "sha256": "96b568ca04acfe132b78b2cfc3866d19c3369b85ecb8c2aad2c75fe88627787a"
+    },
+    {
+      "member": "china-photos-20261120-04/read-savory-tang-yuan.txt",
+      "bytes": 8057,
+      "sha256": "8cd9411a5a7cd3829bf1f753561b727c6faf7c83393396142284437d07c44f35"
+    },
+    {
+      "member": "china-photos-20261120-04/read-shumai-with-sticky-rice-and-mushrooms.txt",
+      "bytes": 10193,
+      "sha256": "2cfc734e35ad501706f5ccc6e01a1a958cfb3591646211aab4eb762a5631f13c"
+    },
+    {
+      "member": "china-photos-20261120-04/read-steamed-rice-cake-songgao.txt",
+      "bytes": 5483,
+      "sha256": "54e27f62f949c05f41a2fc363129cb9af8edf81704b889e0cf30d4f20f615c23"
+    },
+    {
+      "member": "china-photos-20261120-04/read-tang-yuan-recipe-black-sesame-filling.txt",
+      "bytes": 12076,
+      "sha256": "e6cdf6d23ee9c854d00ce31a8936c2f2f4e08b27185e398bae59bca7a7e955e9"
+    },
+    {
+      "member": "china-photos-20261120-04/read-west-lake-beef-soup.txt",
+      "bytes": 6793,
+      "sha256": "4558d15d290d812cb3f61dd74b7a33ffa71f13d67fc4c229c349d3112730b284"
+    },
+    {
+      "member": "china-photos-20261120-04/recipe-photo-policies-search-02.json",
+      "bytes": 36507,
+      "sha256": "4c36fcdf46ca322fdf5533f828fc7fd99f076b9e7f2b26d67afe6d3b1700f9ca"
+    },
+    {
+      "member": "china-photos-20261120-04/recipe-photo-policies-search-03.json",
+      "bytes": 35503,
+      "sha256": "f64b02e8f162b4d992687ad863aea68e6e826b53ea7794c052b8c99e3e293808"
+    },
+    {
+      "member": "china-photos-20261120-04/recipe-photo-policies-search.json",
+      "bytes": 162,
+      "sha256": "04ac7ee627f3fc53e2c04c71889538dfed772f841126fda5e3ce01476c5865b7"
+    },
+    {
+      "member": "china-photos-20261120-04/recipe-sitemap.xml",
+      "bytes": 1129646,
+      "sha256": "75f6f50355c40e59ef3e1cf5cee1ce08d15ceb9884afa3c8cc6d94b2a4584aa7"
+    },
+    {
+      "member": "china-photos-20261120-04/review-short.jpg",
+      "bytes": 76120,
+      "sha256": "267169c8762f3c40ba1c3c202b6d6f52ceace0f37a9e83b912294771a75b3f26"
+    },
+    {
+      "member": "china-photos-20261120-04/source-discovery-01.json",
+      "bytes": 31028,
+      "sha256": "1234db4baa30d285716540a890c2726ce4e788bc876c6571773805c0dfd04fd1"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/257aa6f0e2db465ba8f3204854ed802b.response.gz",
+      "bytes": 3206,
+      "sha256": "07e52962d77ca33eda1ea1582be95b8f4c475bd9b6184ab5ead51b9db96a812c"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/26133f0662d943ef99d98ea1783448d0.response.gz",
+      "bytes": 309,
+      "sha256": "243acc72a7a27afd18d3d98c75ba1c0be018b559ee31906e5c441f735cee7b9c"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/353db35ebe284f3abe886a0b8ed745b8.response.gz",
+      "bytes": 1565879,
+      "sha256": "6c91f30ded6dfa4bacf66c64bcfc84c251274894e6e75766f7f2d1c151c9fba6"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/4143e618e757421ca4e3c40d1b9bbb33.response.gz",
+      "bytes": 2064659,
+      "sha256": "82e306fc8834304775d738090d7e7c68161ca22611da124f53e7170552ccb9a3"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/9ac52e2b5bb04e60b0c1ae0f908ee64f.response.gz",
+      "bytes": 12466,
+      "sha256": "c7d4ac4ac98803690638e59be6a5d1b91a7a530a88554bcbdc3c75858388e60c"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-01/requests.jsonl",
+      "bytes": 2443,
+      "sha256": "4db40bbee403aa5caea7e013ad073e2801ba86f9d9d3cbcfac90f5b41b56486c"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/225983d491ed4a488ae79aecd5f6c295.response.gz",
+      "bytes": 56293,
+      "sha256": "5f7ac2b3eef38197a5289fd62acdf607fc7624f4e6ccb94f3b4773f343fd031e"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/3ee0b13d6c324a59b08c8265fe8a6696.response.gz",
+      "bytes": 983079,
+      "sha256": "07503994c22cc848737a6f22494377a146a2d14b5ebdc6c5ac423f948b76487c"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/76f697f88f034864b1028e782e519a5c.response.gz",
+      "bytes": 999465,
+      "sha256": "62223e805c0c49e483fd83b69e4a9258dab7d2a1bbc773b0d87bfe1747138fda"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/7b6aade45fdc4005ac42aacae66a7f23.response.gz",
+      "bytes": 1395527,
+      "sha256": "6543c4649112c90f6f35dc9e47ef3ddebdceff07a3aab10d1a8d0190f9f33bde"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/9ce6d06b543e4a49b8d5ac0b263ed212.response.gz",
+      "bytes": 1031011,
+      "sha256": "5247254ce486607e3856f12c596a67259f963db27a26f4a30c4303bada4c45e3"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/d76d358424ae415bbda96739e7d2bcd4.response.gz",
+      "bytes": 975290,
+      "sha256": "98b248cdfaace02da68b6ce0068ec69cebbc926ca38603839b2f6e012a09a21d"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/f1248f92079d4779ae2ced7b4440d992.response.gz",
+      "bytes": 3742067,
+      "sha256": "8493990e194194fbc79017040bd6b40758f77a6f4716d9bc6ecc64275c005915"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-02/requests.jsonl",
+      "bytes": 3568,
+      "sha256": "5f0e56a403fe04c7ff55ababf1dbf7d36d5c3fbd6e46091e32875260ff424167"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/1f9fda11944c4aec8dba2747d36b5316.response.gz",
+      "bytes": 2895279,
+      "sha256": "68865c370cab151bafa4bb7aaf288cf3a57557fd4654238a1c39f5c4dfddbdd3"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/260339221a054da09f6dcb303086a1a3.response.gz",
+      "bytes": 85688,
+      "sha256": "6fccf2e8faced8e747c2eff1c4aeeef880f85598d64bd95b163614447e59216e"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/45f28f20e34c471e97c4947d187e3e5e.response.gz",
+      "bytes": 19073,
+      "sha256": "27fef9a443e5fdca61cfa1b546748af89a7f1e516a0ea7ec15558bf9ca6528fa"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/67fae816199a405ab327de788e0bdc54.response.gz",
+      "bytes": 83270,
+      "sha256": "64431f0d79e44be03c612b2fbc3a2625f5bf6641c4310bd8171c456432f0780e"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/a0704c08a4974cea8f5a84d05d2ff7e2.response.gz",
+      "bytes": 19542,
+      "sha256": "72138bb97dd14bbb7a7c6870fbdfdedf9e18ea0e00caab7d9fccf3908488cb70"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/caa311d7235747b0b1c0b5d3262af86f.response.gz",
+      "bytes": 81755,
+      "sha256": "820334bc2e4532565beea88e66b9be188dc0aa569f15d2d5efa11fec1cca33f0"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/e16b5c7fe8ed4fbc982abb9396d6aa27.response.gz",
+      "bytes": 87,
+      "sha256": "eb55f162cb03c0a8e7b5598065fc9dd98fe1fac9a560706b2bad5cc58da7d3f9"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-03/requests.jsonl",
+      "bytes": 3333,
+      "sha256": "fd50be9749860a9b75f4f39fdb94858be6d857bd9c59d1cac01b78a9f42a2614"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/08f21557a5f844e780e49944db4f9e13.response.gz",
+      "bytes": 83113,
+      "sha256": "9c0249ae0617c77dc8de52fed2ebcc270480f678c95238337dd3c0a74b2b9653"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/22fcfb17c5d24311947b7eb61b77a691.response.gz",
+      "bytes": 19122,
+      "sha256": "27a79e9182d832a4934c084998f8d1cc8d14c7eed3f2d4fbaa04258443af4bc7"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/35d76dbc94bc43cd970573802a9139c1.response.gz",
+      "bytes": 30928,
+      "sha256": "85a6f60bf6dfd22c6698eb6f5009642c4e1380d1aaa27d91618974a880f56f50"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/4bbe210d42444419aa43ceebd23a1382.response.gz",
+      "bytes": 81608,
+      "sha256": "80949a5e8aa25f18b11d13d4936c0c056e1a3c269ec545be21b59334d96b8490"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/562aaed656f44f1bbfde84082a4e7b6d.response.gz",
+      "bytes": 81169,
+      "sha256": "e35ff837731e64ea36446036c2a4a7a42b1cf794ad1846eb89092e4c37ef363d"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/82f231833663498daf54a56db8c51372.response.gz",
+      "bytes": 19113,
+      "sha256": "78bce863132beda086649f7cc9b12eec04181a36077d83165bdcc5e0232cf1fa"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/b36e233399c64d74a2c905b619835814.response.gz",
+      "bytes": 80150,
+      "sha256": "72699fbb38c9d48612573544b26002cc4e8f31d198e99437045e3c5598cde1c7"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/cc51d976aeb8435f8bd95f141182ff5d.response.gz",
+      "bytes": 82437,
+      "sha256": "e8f5628e0d24b7531946411c9f1d960d145aa082f32bec1c84b180057bf8234d"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/fd33705e0e0c41cda149b55c7ba4e064.response.gz",
+      "bytes": 79095,
+      "sha256": "a784e33fc3445ae2175a60f0db4d4719a7aecba13e8c54cb946c2bf4dc55686b"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-04/requests.jsonl",
+      "bytes": 4423,
+      "sha256": "402e690d6a44f176bf4db0506a898a5736aa60f857c1b4c760fe473712747440"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-05/40b6d7b041564faea395b2ac1e087eeb.response.gz",
+      "bytes": 44880,
+      "sha256": "f809d458d10e5ace2062eb1713e4bbd91998bfc83dde987c9782a360d5ec1ec8"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-05/requests.jsonl",
+      "bytes": 510,
+      "sha256": "78502076d8832e97526d11ae55abdb94e7d651b1aa8f5f0dfd96210be1424326"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-06/0e1e02ca6ee347b0ad04916b864ec129.response.gz",
+      "bytes": 19783,
+      "sha256": "82ffddfe3be750934d38cb986843e8014d41ca801dd85cf99cfd5110f617f069"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-06/12debbb0d4bf416293e11921dd4d9d7c.response.gz",
+      "bytes": 38448,
+      "sha256": "03344615fd708efc2269f1cd821158b1c46d21aa9443a123502ec9bf2457cd6a"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-06/bf9084d9a5734acda5203be1353f9c27.response.gz",
+      "bytes": 47649,
+      "sha256": "19570381c49d8cf5043c06788280f0251d7a5374f5d8023e977fe5104db39f60"
+    },
+    {
+      "member": "china-photos-20261120-04/source-followup-06/requests.jsonl",
+      "bytes": 1615,
+      "sha256": "f366f5aee92fa46cfae6612116f00fef6a33009d5ff2184ab37bc9c51bc78986"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/058f05c27045418c99e96e017d41cf9f.response.gz",
+      "bytes": 3678,
+      "sha256": "1b8181f3da6ebd06699722f91336d4c75d42b105d6303a4460b661353c282c6d"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/2b92756594ab4884bfef2a234d84b87a.response.gz",
+      "bytes": 7590,
+      "sha256": "f05263ddeda47f675a287fc51477e983d3d50e505bf1eb1f477ac8b63234d8ff"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/80591fe5e5664727855ab3352ac5ebe3.response.gz",
+      "bytes": 3682,
+      "sha256": "d43841ccf90654ac61d7276c8d3e95d6e242490603c76fecc8c8b0492cc27e37"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/99bfc0eb06f6449abffc76f9fe26195c.response.gz",
+      "bytes": 7788,
+      "sha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/b6df128a9ffa4cc88b36846ec12c95ac.response.gz",
+      "bytes": 3699,
+      "sha256": "0a03c94e9eccfc6fe15ca8050fa446f6615c20acb975fff599ee52babb860ddc"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/c027524446f146aa88c3cfbaa278959a.response.gz",
+      "bytes": 7788,
+      "sha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/ce1435af241e4a91890f3f56baa7954b.response.gz",
+      "bytes": 402,
+      "sha256": "afc8b285460929af3f0109e1cd16981f48dd865a8c5d7a846c51b78b7f3b2263"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/e38c5f35491e4ed4a0735e6844ba0403.response.gz",
+      "bytes": 17000,
+      "sha256": "118b59a9eedf43074954762d35e2cb7a8c29252a1175e589689d12580e8d7d2d"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/eaf7f7c5d6a647bc913e384fa863626f.response.gz",
+      "bytes": 6038,
+      "sha256": "a7639938a337cbf4fd4eccb3cb6cb0929d02fa633a28e9b6fbe5df79b06e03b7"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/eb8750add5504ad79aa38458b6b59e37.response.gz",
+      "bytes": 7788,
+      "sha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/f67c92067e5743329e69995639cb0b06.response.gz",
+      "bytes": 402,
+      "sha256": "afc8b285460929af3f0109e1cd16981f48dd865a8c5d7a846c51b78b7f3b2263"
+    },
+    {
+      "member": "china-photos-20261120-04/source-pilot/requests.jsonl",
+      "bytes": 6236,
+      "sha256": "cc8487377c72930f73089445941ba47882a6fa8278df571b7928cae416a48122"
+    },
+    {
+      "member": "china-photos-20261120-04/soymilk.jpg",
+      "bytes": 2065800,
+      "sha256": "a185daa40dd903e7b2e43390046f027254d69d313e5900773059ac5bcdd8cf78"
+    },
+    {
+      "member": "china-photos-20261120-04/white-tangyuan-review.jpg",
+      "bytes": 51446,
+      "sha256": "4193022b78788263bbe6160b4d0625288191f4c89ee91135249541009055d41d"
+    }
+  ]
+}

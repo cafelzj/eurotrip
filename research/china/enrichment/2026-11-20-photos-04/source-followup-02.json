@@ -1,0 +1,57 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/post-sitemap.xml",
+      "query": "Author-published complete recipe sitemap",
+      "itemIds": []
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540689824/original.jpg",
+      "query": "Linan hickory observation 5230698361",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 5230698361
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/540702773/original.jpg",
+      "query": "Linan hickory observation 5230698361",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 5230698361
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/555449525/original.jpg",
+      "query": "Linan hickory observation 6253081749",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 6253081749
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/301111523/original.jpg",
+      "query": "Linan hickory observation 4436201846",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 4436201846
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474538359/original.jpeg",
+      "query": "Linan hickory observation 6253001582",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 6253001582
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/474538365/original.jpeg",
+      "query": "Linan hickory observation 6253001582",
+      "itemIds": [
+        "program-6d144900cfc25c439b"
+      ],
+      "gbifKey": 6253001582
+    }
+  ]
+}
