@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=yoplait&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index yoplait actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=meiji&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index meiji actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=yakult&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index yakult actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=yili&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index yili actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=mengniu&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index mengniu actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=junlebao&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index junlebao actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=weiwei&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index weiwei actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=bright&page_size=30&fields=code%2Cproduct_name%2Cbrands%2Cquantity%2Cimages%2Cimage_front_url%2Cmanufacturing_places",
+      "query": "Structured brand index bright actual SKU/package photo pilot after recorded 503 pause; not factory attribution",
+      "itemIds": []
+    }
+  ]
+}

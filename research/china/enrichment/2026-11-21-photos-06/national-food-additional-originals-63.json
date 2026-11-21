@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Braised Guandong Sea Cucumber with Scallion in Sauce.jpg actual original to review; no automatic cover adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_%2820241109164541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Fen Jiu and Chu Yeh Ching Chiew at a supermarket in Beijing (20241109164541).jpg actual original to review; no automatic cover adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://pupswithchopsticks.com/wp-content/uploads/chinese-wonton-noodle-soup-tn.jpg",
+      "query": "One original Cantonese wonton noodle photo from Joyce Lee permission; inspect actual image and retain credit/link",
+      "itemIds": [
+        "threeprov-4b443a34c6439b626b"
+      ]
+    }
+  ]
+}

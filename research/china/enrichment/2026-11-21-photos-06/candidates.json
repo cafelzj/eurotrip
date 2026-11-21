@@ -719,6 +719,172 @@
         "responseSha256": "1eaa2d66b49bf126b29631553112b3a6f704bd75778e035d6e5d10158b30cdb8",
         "compressedSha256": "1f412ec904a15741dcabf38a7f863f3b6d096dbd988b67562794db05be93cc4d"
       }
+    },
+    {
+      "id": "borscht-beet-soup",
+      "title": "Borscht served.jpg",
+      "itemIds": [
+        "flavor-heilongjiang-6b70c45cdb"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food61-original-0",
+      "rawSha256": "c4ae56250a5f6a6afee0349f366dd583139e19108cafb70425608f950de00a80",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-article-photo-metadata-60/efdfd56677f4411ba3e03aa7e4769b16.response.gz",
+      "metadataSha256": "5fe969d9463cbc3b6dd357cb880b3de5a049f775a9b44d40b4cb541a43bf8b59",
+      "author": "liz west from Boxborough, MA",
+      "source": "https://commons.wikimedia.org/wiki/File:Borscht_served.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Borscht_served.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "beijing-douzhi-set",
+      "title": "Douzhi.JPG",
+      "itemIds": [
+        "bj-douzhir"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food61-original-1",
+      "rawSha256": "07dccb705b6aaa79bb5ea84b45847a2f7853aeb7c755d9342f61277f98c80ca7",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-article-photo-metadata-60/efdfd56677f4411ba3e03aa7e4769b16.response.gz",
+      "metadataSha256": "5fe969d9463cbc3b6dd357cb880b3de5a049f775a9b44d40b4cb541a43bf8b59",
+      "author": "Snowyowls",
+      "source": "https://commons.wikimedia.org/wiki/File:Douzhi.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Douzhi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "id": "macau-jidi-congee",
+      "title": "Macau, 狀元及第粥, 黃枝記粥麵, 新馬路, 澳門 (17123230500).jpg",
+      "itemIds": [
+        "threeprov-0f354f18c1f17db121"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food61-original-2",
+      "rawSha256": "3c7fead083df7df3be45bfac3631c2190060c7448c6fdbaa3417bc8b7f99e1cb",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-article-photo-metadata-60/efdfd56677f4411ba3e03aa7e4769b16.response.gz",
+      "metadataSha256": "5fe969d9463cbc3b6dd357cb880b3de5a049f775a9b44d40b4cb541a43bf8b59",
+      "author": "bryan... from Taipei, Taiwan",
+      "source": "https://commons.wikimedia.org/wiki/File:Macau,_%E7%8B%80%E5%85%83%E5%8F%8A%E7%AC%AC%E7%B2%A5,_%E9%BB%83%E6%9E%9D%E8%A8%98%E7%B2%A5%E9%BA%B5,_%E6%96%B0%E9%A6%AC%E8%B7%AF,_%E6%BE%B3%E9%96%80_(17123230500).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/40/Macau%2C_%E7%8B%80%E5%85%83%E5%8F%8A%E7%AC%AC%E7%B2%A5%2C_%E9%BB%83%E6%9E%9D%E8%A8%98%E7%B2%A5%E9%BA%B5%2C_%E6%96%B0%E9%A6%AC%E8%B7%AF%2C_%E6%BE%B3%E9%96%80_%2817123230500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "id": "scallion-braised-sea-cucumber",
+      "title": "Braised Guandong Sea Cucumber with Scallion in Sauce.jpg",
+      "itemIds": [
+        "flavor-shandong-a3e5991452"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food63-original-0",
+      "rawSha256": "59c2c45912f812b2c15a56a7f3c5c5247adf65d038b129e9a20413f508d28a01",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-article-photo-metadata-60/efdfd56677f4411ba3e03aa7e4769b16.response.gz",
+      "metadataSha256": "5fe969d9463cbc3b6dd357cb880b3de5a049f775a9b44d40b4cb541a43bf8b59",
+      "author": "Zheng Zhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "fenjiu-historical-packaging",
+      "title": "Fen Jiu and Chu Yeh Ching Chiew at a supermarket in Beijing (20241109164541).jpg",
+      "itemIds": [
+        "sx-fenjiu"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food63-original-1",
+      "rawSha256": "e46d7c8a8533ddebf415b66ddec886f10d599cb802ccade9a6816ab46c3513f4",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-article-photo-metadata-60/efdfd56677f4411ba3e03aa7e4769b16.response.gz",
+      "metadataSha256": "5fe969d9463cbc3b6dd357cb880b3de5a049f775a9b44d40b4cb541a43bf8b59",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_%2820241109164541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-sesame-laughing-balls",
+      "title": "开口笑家常成品",
+      "itemIds": [
+        "county-e02eeb61b2f8df"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/dessert62-original-0",
+      "rawSha256": "2bfb03ea291461f1c8bd526f36b7ec81d73c736c1c5bca23d3895113bb588901",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-exact-author-recipes-59/f7ace983605147d49c8dc0667674eed5.response.gz",
+      "metadataSha256": "13ee7cd5c9db564b1ce6b1ae9f999149c7072ba8ae31833d1df2a930b15526b3",
+      "source": "https://www.chinasichuanfood.com/chinese-laughing-balls-fried-sesame-balls/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2017/02/Chinese-laughing-balls-steps-7%E5%89%AF%E6%9C%AC.jpg"
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-baitang-steamed-cake",
+      "title": "伦教糕家常成品",
+      "itemIds": [
+        "threeprov-39a4dc597f39b37a0f"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/dessert62-original-1",
+      "rawSha256": "4d1bea789814dd2d775b01af0b60e2bacf804abd24fa9997fa0c63813ae7d08b",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-exact-author-recipes-59/abba4f41a54d4419b40b6ca2e9f63114.response.gz",
+      "metadataSha256": "2f4ebaa70807c48f903ba3d1ac9c669dffc293f7e3c8bfcac0fadf852b9a2067",
+      "source": "https://www.chinasichuanfood.com/chinese-rice-cake-bai-tang-gao/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2015/11/steamed-rice-cake-Bai-Tang-Cow-6-copyth.jpg",
+      "supportingEvidence": {
+        "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E7%83%A9%E9%9D%A2%7C%E6%9D%8F%E4%BB%81%E8%8C%B6%7C%E7%82%B8%E9%B8%A1%E6%9E%B6%7C%E8%8A%B1%E7%94%9F%E7%B3%95%7C%E6%89%81%E8%82%89%E7%87%95%7C%E9%BC%8E%E8%BE%B9%E8%B6%96%7C%E8%87%AD%E8%B1%86%E8%85%90%7C%E5%8F%A3%E5%91%B3%E8%99%BE%7C%E7%82%92%E7%84%96%E5%AD%90%7C%E9%94%85%E7%83%99%7C%E7%BA%A2%E8%8F%9C%E6%B1%A4%7C%E8%B1%86%E6%B1%81%E5%84%BF%7C%E6%B6%AE%E7%BE%8A%E8%82%89%7C%E6%B1%BE%E9%85%92%7C%E7%B3%9F%E5%8D%A4%7C%E6%B5%B7%E8%9B%8E%E7%85%8E%7C%E8%9A%B5%E4%BB%94%E7%85%8E%7C%E7%82%92%E5%87%89%E7%B2%89%7C%E7%89%9B%E8%82%89%E7%BE%B9%7C%E6%BB%A1%E7%85%8E%E7%B3%95%7C%E7%9F%B3%E8%8A%B1%E8%86%8F%7C%E5%8F%8A%E7%AC%AC%E7%B2%A5%7C%E7%83%A7%E9%B9%85%7C%E5%A7%9C%E6%B1%81%E7%B3%95%7C%E6%9F%A0%E6%AA%AC%E9%B8%AD%7C%E8%B5%96%E6%B1%A4%E5%9C%86%7C%E8%89%BE%E7%AA%9D%E7%AA%9D%7C%E7%B3%96%E8%80%B3%E6%9C%B5%7C%E7%84%A6%E5%9C%88%7C%E7%82%B8%E7%81%8C%E8%82%A0%7C%E4%BC%A6%E6%95%99%E7%B3%95%7C%E5%BC%80%E5%8F%A3%E7%AC%91%7C%E5%A5%B6%E6%B1%A4%E8%92%B2%E8%8F%9C%7C%E9%85%BF%E8%8B%A6%E7%93%9C%7C%E6%B8%85%E7%82%92%E8%99%BE%E4%BB%81%7C%E7%8E%AB%E7%91%B0%E9%85%A5%E9%A5%BC%7C%E6%B0%B4%E7%85%8E%E5%8C%85%7C%E7%83%AB%E5%B9%B2%E4%B8%9D%7C%E8%91%B1%E7%83%A7%E6%B5%B7%E5%8F%82%7C%E9%B8%A1%E4%BB%94%E9%A5%BC&prop=pageimages%7Cextracts&piprop=name%7Coriginal&exintro=1&explaintext=1&redirects=1&converttitles=1",
+        "query": "Correct simplified/traditional title lookup via documented converttitles=1; preserve previous missing-title response, inspect real photograph metadata",
+        "itemIds": [],
+        "status": "saved",
+        "responseFile": "research/.local/china-photos-20261121-06/article-title-variant-followup-66/c8384d0010e34758ab5fe32f455d28cf.response.gz",
+        "responseSha256": "facaf41ccc468a72f524a66fa7b34c9b7788155e3e3507134530a87dbd49673f",
+        "compressedSha256": "3529ef7dec33219e3488e4e0a587b968f2be254c5260120e58a08358c108db60"
+      }
+    },
+    {
+      "id": "joyce-cantonese-wonton-noodles",
+      "title": "Cantonese wonton noodle soup homemade photo",
+      "itemIds": [
+        "threeprov-4b443a34c6439b626b"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/food63-original-2",
+      "rawSha256": "da6ceb1f5cf5b80264cb73fd00f818fb9e026a4077259a43e69dbdfe57fae317",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-author-dessert-originals-62/48ff7ed126e7462986fbf6e8e0a9cb17.response.gz",
+      "metadataSha256": "a89687708a5285ce575d1524a28e960c975e9c74365ccaff1ff3e54474089e78",
+      "author": "Joyce Lee / Pups with Chopsticks",
+      "source": "https://pupswithchopsticks.com/wonton-noodle-soup/",
+      "preview": "https://pupswithchopsticks.com/wp-content/uploads/chinese-wonton-noodle-soup-tn.jpg",
+      "provider": "Pups with Chopsticks",
+      "license": "作者公开许可（每篇限一张，署名并链接原文）",
+      "licenseUrl": "https://pupswithchopsticks.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-06/author-permission-primary-pilot-52/6e7168fd51fb49ed874a745a9e5126dc.response.gz",
+        "sha256": "875be8fc1721dd71cae89642360380511038fa7c0e48e125684707062f5ae308",
+        "url": "https://pupswithchopsticks.com/about/",
+        "conditions": "作者说明照片均由本人拍摄，允许使用每篇一张照片，须署名本站并将做法链接回原文。本站仅采用本篇一张实际照片，署名并保留原文链接，不复制菜谱文字。"
+      }
     }
   ]
 }

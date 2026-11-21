@@ -216,6 +216,38 @@
     {
       "file": "research/.local/china-photos-20261121-06/craft-review-6.jpg",
       "sha256": "2acbb0edbcde56f259f0fbc62982d4cfa8bf3689d626748721bc6fdaaaf1c786"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food61-review-0.jpg",
+      "sha256": "76470a6365f208899407ab8994e82edd57c545abc78525b311053650fa82d692"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food61-review-1.jpg",
+      "sha256": "f9a1d32e2a5f102d56bbfed9db181c102301ec048c275582da4fb6bdabf3543c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food61-review-2.jpg",
+      "sha256": "941de3aff6f5163994f8e88cf478faacc24d18467356e2c87ddfeec1faf95cff"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food63-review-0.jpg",
+      "sha256": "8057805b38229bad7a1bb96193c9d9bbb5e20b56df8d769e1f7e14f290d72a08"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food63-review-1.jpg",
+      "sha256": "de6cec4ad4d05687e358f5935ca45a78b2458b8fa4a20afc7f0cf7dc94ac3c9b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/dessert62-review-0.jpg",
+      "sha256": "804c6c09c126c498d7fdcee10125ec21849190753d0183d640cffd6d2ccfe66f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/dessert62-review-1.jpg",
+      "sha256": "b5b249af772028daef5b1992b453028e2645c68c3ad711c2ffcb31c8435be8d0"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/food63-review-2.jpg",
+      "sha256": "c9123bd7c4a1319d3c676c4cb7bdc7536f51e4e678d7b5c1d795835fa3d55c77"
     }
   ],
   "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"

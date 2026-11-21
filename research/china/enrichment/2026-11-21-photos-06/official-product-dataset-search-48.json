@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://datasets-server.huggingface.co/search?dataset=openfoodfacts%2Fproduct-database&config=default&split=food&offset=0&length=30&query=%E5%85%89%E6%98%8E",
+      "query": "Indexed text search of official product dataset 光明 limited30 rows; inspect original SKU and image metadata before use",
+      "itemIds": []
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/search?dataset=openfoodfacts%2Fproduct-database&config=default&split=food&offset=0&length=30&query=%E4%BC%98%E8%AF%BA",
+      "query": "Indexed text search of official product dataset 优诺 limited30 rows; inspect original SKU and image metadata before use",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"大禹治水\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%89%AC%E5%B7%9E%E7%8E%89%E9%9B%95%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"扬州玉雕\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%9D%AD%E5%B7%9E%22+%22%E4%B8%9D%E7%BB%B8%22+-filetype%3Apdf&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"杭州\" \"丝绸\" -filetype:pdf corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "program-9107a30f5e325737df"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%A2%85%E5%B9%B2%E8%8F%9C%22+OR+%22%E6%A2%85%E4%B9%BE%E8%8F%9C%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"梅干菜\" OR \"梅乾菜\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "zj-meigan"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22yellow+croaker%22+%22soup%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"yellow croaker\" \"soup\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22four+happiness%22+%22dumplings%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"four happiness\" \"dumplings\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "flavor-jiangsu-80ccd93c01"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22joss%22+%22leaf%22+%22pork%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"joss\" \"leaf\" \"pork\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "zj-steamed-pork"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Huitou%22+%22tofu%22&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Huitou\" \"tofu\" corresponding physical object or exact dish variations; review source before download",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ]
+    }
+  ]
+}

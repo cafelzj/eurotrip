@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://pupswithchopsticks.com/chinese-recipes/",
+      "query": "Read actual Chinese recipe titles and pagination; one attributed photo per source post only",
+      "itemIds": []
+    },
+    {
+      "url": "https://pupswithchopsticks.com/robots.txt",
+      "query": "Locate published sitemap to match existing local cards before requesting individual recipes",
+      "itemIds": []
+    }
+  ]
+}

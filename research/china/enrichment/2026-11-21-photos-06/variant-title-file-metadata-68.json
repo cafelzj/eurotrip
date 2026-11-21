@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3A%E8%91%B1%E5%8C%85%E6%A1%A7.jpg%7CFile%3ASteamed_Rice_Cake.JPG%7CFile%3AGuangxi_lemon_duck_on_Z5_%2820160323175957%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full source metadata after confirmed title conversion: Congbaohui, lemon duck, steamed rice cake; native original review required",
+      "itemIds": []
+    }
+  ]
+}

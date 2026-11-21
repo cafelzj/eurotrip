@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/raw/main/README.md",
+      "query": "Read Open Food Facts own official archived dataset schema and separate image reuse licence",
+      "itemIds": []
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/splits?dataset=openfoodfacts%2Fproduct-database",
+      "query": "Discover published official dataset configurations; not bulk download or bypass provider source pause",
+      "itemIds": []
+    }
+  ]
+}

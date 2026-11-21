@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://datasets-server.huggingface.co/filter?dataset=openfoodfacts%2Fproduct-database&config=default&split=food&where=%22brands%22+LIKE+%27%25%E5%85%89%E6%98%8E%25%27&offset=0&length=30",
+      "query": "Single-brand bounded filter after broad OR pilot timed out; one request with55-second read timeout and no retry",
+      "itemIds": []
+    }
+  ]
+}

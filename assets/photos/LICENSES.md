@@ -1830,3 +1830,67 @@ Source: https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/4d/%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-borscht-beet-soup.jpg
+
+Author: liz west from Boxborough, MA
+Source: https://commons.wikimedia.org/wiki/File:Borscht_served.jpg
+License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/a7/Borscht_served.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-beijing-douzhi-set.jpg
+
+Author: Snowyowls
+Source: https://commons.wikimedia.org/wiki/File:Douzhi.JPG
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/b3/Douzhi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-macau-jidi-congee.jpg
+
+Author: bryan... from Taipei, Taiwan
+Source: https://commons.wikimedia.org/wiki/File:Macau,_%E7%8B%80%E5%85%83%E5%8F%8A%E7%AC%AC%E7%B2%A5,_%E9%BB%83%E6%9E%9D%E8%A8%98%E7%B2%A5%E9%BA%B5,_%E6%96%B0%E9%A6%AC%E8%B7%AF,_%E6%BE%B3%E9%96%80_(17123230500).jpg
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/40/Macau%2C_%E7%8B%80%E5%85%83%E5%8F%8A%E7%AC%AC%E7%B2%A5%2C_%E9%BB%83%E6%9E%9D%E8%A8%98%E7%B2%A5%E9%BA%B5%2C_%E6%96%B0%E9%A6%AC%E8%B7%AF%2C_%E6%BE%B3%E9%96%80_%2817123230500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-scallion-braised-sea-cucumber.jpg
+
+Author: Zheng Zhou
+Source: https://commons.wikimedia.org/wiki/File:Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/b8/Braised_Guandong_Sea_Cucumber_with_Scallion_in_Sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-fenjiu-historical-packaging.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_(20241109164541).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e5/Fen_Jiu_and_Chu_Yeh_Ching_Chiew_at_a_supermarket_in_Beijing_%2820241109164541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-sesame-laughing-balls.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/chinese-laughing-balls-fried-sesame-balls/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2017/02/Chinese-laughing-balls-steps-7%E5%89%AF%E6%9C%AC.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-baitang-steamed-cake.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/chinese-rice-cake-bai-tang-gao/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2015/11/steamed-rice-cake-Bai-Tang-Cow-6-copyth.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-joyce-cantonese-wonton-noodles.jpg
+
+Author: Joyce Lee / Pups with Chopsticks
+Source: https://pupswithchopsticks.com/wonton-noodle-soup/
+License: [作者公开许可（每篇限一张，署名并链接原文）](https://pupswithchopsticks.com/about/)
+Original image URL: https://pupswithchopsticks.com/wp-content/uploads/chinese-wonton-noodle-soup-tn.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

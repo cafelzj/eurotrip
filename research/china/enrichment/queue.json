@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 343,
-    "withListPhoto": 330,
-    "missingRealPhoto": 6284,
-    "needsListPhoto": 6297
+    "withDetailPhoto": 351,
+    "withListPhoto": 338,
+    "missingRealPhoto": 6276,
+    "needsListPhoto": 6289
   },
   "byProvince": {
     "henan": {
@@ -72,20 +72,20 @@
     "heilongjiang": {
       "cards": 212,
       "shortReadings": 117,
-      "missingRealPhoto": 211,
-      "needsListPhoto": 211
+      "missingRealPhoto": 210,
+      "needsListPhoto": 210
     },
     "shanxi": {
       "cards": 331,
       "shortReadings": 223,
-      "missingRealPhoto": 329,
-      "needsListPhoto": 329
+      "missingRealPhoto": 328,
+      "needsListPhoto": 328
     },
     "shandong": {
       "cards": 501,
       "shortReadings": 272,
-      "missingRealPhoto": 499,
-      "needsListPhoto": 499
+      "missingRealPhoto": 498,
+      "needsListPhoto": 498
     },
     "jilin": {
       "cards": 120,
@@ -96,8 +96,8 @@
     "beijing": {
       "cards": 76,
       "shortReadings": 62,
-      "missingRealPhoto": 70,
-      "needsListPhoto": 70
+      "missingRealPhoto": 68,
+      "needsListPhoto": 68
     },
     "guangxi": {
       "cards": 302,
@@ -108,8 +108,8 @@
     "guangdong": {
       "cards": 272,
       "shortReadings": 160,
-      "missingRealPhoto": 262,
-      "needsListPhoto": 262
+      "missingRealPhoto": 259,
+      "needsListPhoto": 259
     },
     "shanghai": {
       "cards": 52,
@@ -7195,19 +7195,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-heilongjiang-6b70c45cdb",
-      "name": "红菜汤",
-      "province": "heilongjiang",
-      "city": "哈尔滨",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-heilongjiang-bfc5c295aa",
       "name": "呼玛老醋",
       "province": "heilongjiang",
@@ -8785,19 +8772,6 @@
       "name": "赵先红豆腐皮",
       "province": "shandong",
       "city": "德州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 52,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-shandong-a3e5991452",
-      "name": "葱烧海参",
-      "province": "shandong",
-      "city": "烟台",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,
@@ -11658,19 +11632,6 @@
       "name": "益益含乳饮料",
       "province": "anhui",
       "city": "淮南",
-      "category": "food",
-      "subcategory": "drinks",
-      "readingCharacters": 55,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "bj-douzhir",
-      "name": "豆汁儿",
-      "province": "beijing",
-      "city": "北京",
       "category": "food",
       "subcategory": "drinks",
       "readingCharacters": 55,
@@ -15398,19 +15359,6 @@
       "priority": 1
     },
     {
-      "itemId": "sx-fenjiu",
-      "name": "汾酒",
-      "province": "shanxi",
-      "city": "吕梁",
-      "category": "food",
-      "subcategory": "alcohol",
-      "readingCharacters": 60,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sx-wujia-smoked",
       "name": "吴家熏肉",
       "province": "shanxi",
@@ -18102,19 +18050,6 @@
       "priority": 1
     },
     {
-      "itemId": "threeprov-4b443a34c6439b626b",
-      "name": "云吞面",
-      "province": "guangdong",
-      "city": "广州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 64,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "threeprov-555e616025e0853516",
       "name": "鄱阳湖银鱼",
       "province": "jiangxi",
@@ -19343,19 +19278,6 @@
       "city": "赣州",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 66,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "threeprov-0f354f18c1f17db121",
-      "name": "及第粥",
-      "province": "guangdong",
-      "city": "广州",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 66,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -30887,19 +30809,6 @@
       "city": "沈阳",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 104,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "county-e02eeb61b2f8df",
-      "name": "开口笑",
-      "province": "beijing",
-      "city": "北京",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 104,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -43393,19 +43302,6 @@
       "city": "内江",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 224,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "threeprov-39a4dc597f39b37a0f",
-      "name": "伦教糕",
-      "province": "guangdong",
-      "city": "佛山",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 224,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82426,6 +82322,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-heilongjiang-6b70c45cdb",
+      "name": "红菜汤",
+      "province": "heilongjiang",
+      "city": "哈尔滨",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-10f6f396d5",
       "name": "虾籽饺面",
       "province": "jiangsu",
@@ -82612,6 +82521,19 @@
       "name": "甜沫",
       "province": "shandong",
       "city": "济南",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 52,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-shandong-a3e5991452",
+      "name": "葱烧海参",
+      "province": "shandong",
+      "city": "烟台",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,
@@ -82881,6 +82803,19 @@
       "priority": 3
     },
     {
+      "itemId": "bj-douzhir",
+      "name": "豆汁儿",
+      "province": "beijing",
+      "city": "北京",
+      "category": "food",
+      "subcategory": "drinks",
+      "readingCharacters": 55,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-zhejiang-165174eadb",
       "name": "熊猫炼乳",
       "province": "zhejiang",
@@ -83141,6 +83076,19 @@
       "priority": 3
     },
     {
+      "itemId": "sx-fenjiu",
+      "name": "汾酒",
+      "province": "shanxi",
+      "city": "吕梁",
+      "category": "food",
+      "subcategory": "alcohol",
+      "readingCharacters": 60,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "threeprov-11f6f84fb0b1cd8671",
       "name": "艇仔粥",
       "province": "guangdong",
@@ -83362,6 +83310,19 @@
       "priority": 3
     },
     {
+      "itemId": "threeprov-4b443a34c6439b626b",
+      "name": "云吞面",
+      "province": "guangdong",
+      "city": "广州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 64,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sg-24b16b0494075bc0e3",
       "name": "凉皮",
       "province": "shaanxi",
@@ -83408,6 +83369,19 @@
       "category": "food",
       "subcategory": "crafts",
       "readingCharacters": 65,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-0f354f18c1f17db121",
+      "name": "及第粥",
+      "province": "guangdong",
+      "city": "广州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 66,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -84402,6 +84376,19 @@
       "priority": 3
     },
     {
+      "itemId": "county-e02eeb61b2f8df",
+      "name": "开口笑",
+      "province": "beijing",
+      "city": "北京",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 104,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "program-2e36523d9b15ada504",
       "name": "万三蹄",
       "province": "jiangsu",
@@ -85163,6 +85150,19 @@
       "category": "transport",
       "subcategory": "tickets",
       "readingCharacters": 223,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-39a4dc597f39b37a0f",
+      "name": "伦教糕",
+      "province": "guangdong",
+      "city": "佛山",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 224,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

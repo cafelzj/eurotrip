@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://thewoksoflife.com/about/",
+      "query": "Read author-owned photograph policy and actual FAQ links; do not infer permission",
+      "itemIds": []
+    },
+    {
+      "url": "https://redhousespice.com/about/",
+      "query": "Read author photograph reuse statement and specific conditions before using any recipes or photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://pupswithchopsticks.com/about/",
+      "query": "Read photographer Joyce permission for one attributed photo per recipe roundup and actual recipe index links",
+      "itemIds": []
+    },
+    {
+      "url": "https://omnivorescookbook.com/about/",
+      "query": "Read primary author copyright and photo-use FAQ, no adoption without permission",
+      "itemIds": []
+    }
+  ]
+}

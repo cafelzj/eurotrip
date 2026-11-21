@@ -1,0 +1,74 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Nanjing%22+%22gold+foil%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Nanjing\" \"gold foil\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Yueqing%22+%22paper%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Yueqing\" \"paper\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-c0699d3a31e35e"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Huzhou%22+%22brushes%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Huzhou\" \"brushes\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Yangzhou%22+%22jade%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Yangzhou\" \"jade\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Fuyang%22+%22paper%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Fuyang\" \"paper\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-23a08a390a85d9"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Xianju%22+%22lantern%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Xianju\" \"lantern\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-18095277561b47"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Quzhou%22+%22porcelain%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Quzhou\" \"porcelain\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "program-d53a44f1ea0975b220"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Donghai%22+%22crystal%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Donghai\" \"crystal\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "program-ce6673a3ba1e30dc26"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Hangzhou%22+%22silk%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Hangzhou\" \"silk\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "program-9107a30f5e325737df"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Wu+Nijing%22&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "\"Wu Nijing\" actual craft-object discovery; museum facade or unrelated craft cannot replace product",
+      "itemIds": [
+        "regional-ef32c853822392"
+      ]
+    }
+  ]
+}

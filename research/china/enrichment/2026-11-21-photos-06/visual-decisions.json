@@ -335,6 +335,81 @@
       "reason": "已读国家非遗网乐清黄杨木雕原文，明确将朱子常列入该工艺发展脉络；摄影者注明作品、作者及温州博物馆藏。全幅木雕实物清晰，木纹、衣褶和羊的造型可辨；这是馆藏作品摄影，不是模型制作场景，也不推定作者出生于乐清。",
       "kind": "product",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-heilongjiang-6b70c45cdb",
+      "itemName": "红菜汤",
+      "candidateId": "borscht-beet-soup",
+      "caption": "红菜头汤成品示例，搭配酸奶油与莳萝；非哈尔滨餐馆实拍。",
+      "reason": "现有卡片明确关联乌克兰等东欧红菜汤传统，不宣称发源哈尔滨。原作者说明为borsch，成品红菜头、汤色与酸奶油清楚，作为同菜品实拍示例；不把拍摄地或这碗实际配料虚构为哈尔滨做法。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "bj-douzhir",
+      "itemName": "豆汁儿",
+      "candidateId": "beijing-douzhi-set",
+      "caption": "豆汁儿、焦圈与咸菜丝的传统搭配实拍。",
+      "reason": "原作者直接说明一套豆汁、焦圈及咸菜丝，全幅逐张看过，餐具干净、食品清楚，灰绿色是豆汁本身外观；保留真实颜色，不增艳或冒充粥。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-0f354f18c1f17db121",
+      "itemName": "及第粥",
+      "candidateId": "macau-jidi-congee",
+      "caption": "澳门黄枝记的状元及第粥实拍，作为粤式同名粥品示例。",
+      "reason": "原始标题明确黄枝记及状元及第粥，保存澳门实际地点，不冒称广州门店；全碗粥与配料近景可辨，餐桌背景简单，未以普通白粥替代。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-shandong-a3e5991452",
+      "itemName": "葱烧海参",
+      "candidateId": "scallion-braised-sea-cucumber",
+      "caption": "葱烧海参成品实拍，可见葱段与浓亮酱汁。",
+      "reason": "原作者题名直接为葱烧关东海参；白盘中海参、葱段和棕红酱汁清楚，保留本色与完整画面，不虚构烟台拍摄地或当前餐厅供应。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sx-fenjiu",
+      "itemName": "汾酒",
+      "candidateId": "fenjiu-historical-packaging",
+      "caption": "2024年北京商店中的汾酒包装实拍，画面价格是历史价签。",
+      "reason": "原作者说明为汾酒集团产品，照片中央汾酒标签清楚，左侧竹叶青为同集团另一酒品，并未混称汾酒；保留全幅及拍摄年份，不将商店价签写成现价。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-e02eeb61b2f8df",
+      "itemName": "开口笑",
+      "candidateId": "csf-sesame-laughing-balls",
+      "caption": "开口笑家常成品实拍，芝麻外壳自然裂口。",
+      "reason": "原文直接说明开口笑并区分糯米煎堆；原图金黄色酥壳、芝麻与裂口清楚，白盘简洁，保留作者水印；不是以光滑芝麻球冒充。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-39a4dc597f39b37a0f",
+      "itemName": "伦教糕",
+      "candidateId": "csf-baitang-steamed-cake",
+      "caption": "白糖糕（伦教糕同类家常做法）实拍，展示发酵米糕的蜂窝结构。",
+      "reason": "已读中文百科繁体原题的别称及原作者白糖糕配方：米粉、白糖、水与发酵后蒸制；原图蜂窝结构清楚。以同类家常版本示例采用，不宣称使用伦教原产稻米、蚝壳井水或获得地理标志认证；没有把松软发糕当作白糖糕。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-4b443a34c6439b626b",
+      "itemName": "云吞面",
+      "candidateId": "joyce-cantonese-wonton-noodles",
+      "caption": "广式云吞面家常实拍，虾猪肉云吞配细蛋面与清汤。",
+      "reason": "已读原文为港式广府云吞面，说明虾与猪肉馅、细蛋面和清汤，实拍三者清楚。作为同菜品家常示例，不冒称广州门店或传统唯一配方；原作者公开声明每篇可使用一张署名链接照片，本项目只取本篇这一张。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
     }
   ],
   "held": [
@@ -448,6 +523,10 @@
     {
       "candidate": "article-photo-originals-37",
       "reason": "已查看旺鸡蛋摊位及芡实糕全幅：前者偏暗且台面杂景，后者有明显阴影、零碎包装且没有西塘拍摄证明，不采用。湖笔博物馆候选是门面与展厅入口，不当成湖笔产品。"
+    },
+    {
+      "candidate": "national-food-originals-61",
+      "reason": "已看过全幅：肉燕是灰暗堆放原料，艾窝窝画面含大字覆盖且清晰度低，烧鹅整只带头且光线暗，未当作新增成品封面。台湾蚵仔煎未当作福建地方变体。"
     }
   ]
 }
