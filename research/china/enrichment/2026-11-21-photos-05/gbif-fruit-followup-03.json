@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "query": "Prunus persica Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Prunus+persica&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Prunus persica Jiangsu actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Prunus+persica&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Prunus salicina Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Prunus+salicina&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Pyrus pyrifolia Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Pyrus+pyrifolia&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Pyrus pyrifolia Jiangsu actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Pyrus+pyrifolia&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Vitis vinifera Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Vitis+vinifera&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Vitis vinifera Jiangsu actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Vitis+vinifera&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Vitis vinifera Shanghai actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Vitis+vinifera&country=CN&stateProvince=Shanghai&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Castanea mollissima Jiangsu actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Castanea+mollissima&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Torreya grandis Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Torreya+grandis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Zizania latifolia Zhejiang actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Zizania+latifolia&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100"
+    },
+    {
+      "query": "Fragaria ananassa Jiangsu actual fruit or ingredient regional observations",
+      "itemIds": [],
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Fragaria+ananassa&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100"
+    }
+  ]
+}

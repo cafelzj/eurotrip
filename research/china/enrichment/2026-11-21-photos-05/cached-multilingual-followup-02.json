@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ABanchuan+with+pork+kidney%2C+tomato+sauce+and+egg+%2820191115134400%29.jpg%7CFile%3A202308+Pickled+Mustard+Green+Noodle+with+Braised+Dapai+and+Fried+Tofu+Toppings.jpg%7CFile%3ACiwu+Damian+with+pork+kidney+and+2+eggs+at+ZJ-S43+Ciwu+Service+Area+%2820250201100411%29.jpg%7CFile%3ARicewine-soaked+fish.jpg%7CFile%3AFried+Pork+Chunks+02.jpg%7CFile%3AFried+Pork+Chunks.jpg%7CFile%3ARicefield+eel+tail+with+grated+garlic.jpg%7CFile%3A%E6%89%AC%E5%B7%9E%E8%99%BE%E7%B1%BD%E9%A5%BA%E9%9D%A2.jpg%7CFile%3AChangfa+Pork+Mooncake+at+RT-Mart+Xingtang+%28Auchan%29.jpg%7CFile%3A%E9%B2%9C%E7%AC%8B%E7%85%B2%E6%B1%A4.jpg%7CFile%3ABean+products+imitated+ham+%28packaging%29.jpg%7CFile%3ABean+products+imitated+ham.jpg%7CFile%3AA+Xiao+Long+Bao+with+Crab+meats+from+KC+Chinese+Restaurant.jpg%7CFile%3ACantonese+Xiao+Long+Bao+with+crabs+seed+in+Chinese+restaurant.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual cached files Chinese descriptions and licenses; specific dishes and brands",
+      "itemIds": []
+    }
+  ]
+}

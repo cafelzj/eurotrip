@@ -26,7 +26,7 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 249,
+    "research-support": 256,
     "adoption": 13,
     "preserved-source-reading": 1451,
     "cross-review": 4,
@@ -1180,8 +1180,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/README.md",
       "role": "research-support",
-      "bytes": 2093,
-      "sha256": "860f6d0f69e7db3d109a3c219110358086792185f81329eadf60b4018fb8ff34"
+      "bytes": 2378,
+      "sha256": "8ae61913643fc23f79dfd6efbf4fff9f214dcad4f5cbd7b49b7ebebbd4b32742"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/additional-source-followup.json",
@@ -1196,6 +1196,12 @@
       "sha256": "f14f7262032c617dd3cce095299ff6f357fc3bfb7dfbe323fb6a1f87fe399176"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-05/cached-multilingual-followup-02.json",
+      "role": "research-support",
+      "bytes": 1177,
+      "sha256": "356b94235ee18bfa09c7dea6387ad8e6f245f2d06a4b6f22a0c7e67fbfc1001c"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-05/cached-multilingual-metadata.json",
       "role": "research-support",
       "bytes": 4963,
@@ -1204,8 +1210,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/candidates.json",
       "role": "research-support",
-      "bytes": 10414,
-      "sha256": "cafd8d6ececea8c5011590f35a02585a0d75cf970f56375cc5306a2f3acf5d0c"
+      "bytes": 14552,
+      "sha256": "ec8fc3a2529107b43bbff4ff8703ec056e3ded1752ab5c5ea7c04fe7d15bda3a"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/commons-html-pilot.json",
@@ -1268,10 +1274,34 @@
       "sha256": "51cce78a57abc14524b1edfd531a23b1607a9d3edc35576b87eac34ffa8f3028"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-05/flickr-qualified-02.json",
+      "role": "research-support",
+      "bytes": 2956,
+      "sha256": "3f431c068fe07b72118ab670816929f721b69ea053ce7efe99cb8fc97f6a2ca8"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-05/flickr-specific-followup-02.json",
+      "role": "research-support",
+      "bytes": 9627,
+      "sha256": "0209e4de05f4125d5610a3071c21f635024d2a9f65faeacf5087e22bdeab3dbb"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-05/flickr-specific-followup-03.json",
+      "role": "research-support",
+      "bytes": 9444,
+      "sha256": "5d9dbe4d4745ab3b021b51f2173404d4b858260db38751eabe4a0f7fb00abe3f"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-05/flickr-traditional-pilot.json",
       "role": "research-support",
       "bytes": 2430,
       "sha256": "4ec592d19b7304cee88fb913ca08fb7c2da1a9cbdde12f499bc147372ccdd99c"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-05/gbif-fruit-followup-03.json",
+      "role": "research-support",
+      "bytes": 3363,
+      "sha256": "48e7c5a7fabad93bc49c73b4975f56c7b28829ecd930973f403c27ea24896cc1"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/gbif-photos-01.json",
@@ -1324,8 +1354,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/photo-adoption.json",
       "role": "adoption",
-      "bytes": 12587,
-      "sha256": "8595fd0e6ed78551f4d692f9b892a0b655366d044e4b00b137c0874c84e75676"
+      "bytes": 16770,
+      "sha256": "1e2f1598c74678f618f6585ffe050ec320947f9d5fe72b57cfb7ec62c2de126b"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/photo-downloads-01.json",
@@ -1352,6 +1382,18 @@
       "sha256": "9af56f8aaf762756f999f3148a8a495fce2e7816826355248d227e0165c53094"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-05/recipe-source-followup-02.json",
+      "role": "research-support",
+      "bytes": 585,
+      "sha256": "8b9f71a8a67f976cd3f446cf0c160dd1f9ae8b48e0f4000fc1738e77da1444d4"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-05/recipe-source-followup-03.json",
+      "role": "research-support",
+      "bytes": 667,
+      "sha256": "37356110d8e1bfafa66e90fc3ddf720a6af6157757499d9b99d0ad9d3e209de8"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-05/scope.json",
       "role": "research-support",
       "bytes": 283848,
@@ -1360,8 +1402,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/source-responses.json",
       "role": "research-support",
-      "bytes": 162853,
-      "sha256": "d52ef375dbf4c5147417b98ad35d9496a77026a5de27aea2b0aa6f01b2b91dc3"
+      "bytes": 232564,
+      "sha256": "aecff40ac847be0eea83159f7590762851852be5eb8b5e031e26c90d4ee5d364"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/subject-primary-followup.json",
@@ -1378,26 +1420,26 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/visual-decisions.json",
       "role": "research-support",
-      "bytes": 8764,
-      "sha256": "4d60b9a4a750b75c432b81bb454f753ea42691b50800bf314a38203a6482e593"
+      "bytes": 11487,
+      "sha256": "2e6b2748b328371ca5893245b7382a34878016697067be2cec3539a9b694e0f2"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-05/visual-screening.json",
       "role": "research-support",
-      "bytes": 2025,
-      "sha256": "4c1e16fa678dfb3d1133af815091397580c4bdf45e12d11ca9e520739d2a1ab4"
+      "bytes": 2384,
+      "sha256": "0c9827f14d990f9319b3d7d3103d48b689a40ad18f532d409901960a1408275e"
     },
     {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
       "bytes": 4150,
-      "sha256": "27a539aa4541a31ba35db30d4956b4655fbc0d9038d999b90f0d9407f340580b"
+      "sha256": "87d284e596b5c7776dae8c24b83fbd4b9bea38ebeaea1b8c842ba98cf18564ce"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508212,
-      "sha256": "7dde9c21597fe684242f051ed3cede6f18d932fe8632bd6b959dd7226d1eabcb"
+      "bytes": 2508215,
+      "sha256": "f0d46844ccf601512d0e2ba279c70ec8592df629d86f607d9da944935fcb3be4"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -5165,7 +5207,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6695,
-      "sha256": "3ce171552f53ea4e1bc446259427430c135d7ecfd59b34e7e6b17d3d759cb42c"
+      "sha256": "fe59062d15511033dbac04ef28299d773e20506af920e03d20bd5f84bdba944b"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

@@ -40,6 +40,14 @@
     {
       "file": "research/.local/china-photos-20261121-05/vegetable-candidates-review.jpg",
       "sha256": "e508df8b7513215546d1bd12e21c4dd2367c86935de7460484d86580cbab779c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/cached-followup-review-02.jpg",
+      "sha256": "39ba5dffdf198580ca07c4373b0b0bc2ffeef953767794d69f1d1f801c5cc762"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/flickr-review-02.jpg",
+      "sha256": "701fb8d1985f868b86cdeeabf4280ef385b7a81b8b0cd84f9abaf12db98c9c1f"
     }
   ],
   "notes": [

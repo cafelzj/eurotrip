@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 293,
-    "withListPhoto": 280,
-    "missingRealPhoto": 6334,
-    "needsListPhoto": 6347
+    "withDetailPhoto": 296,
+    "withListPhoto": 283,
+    "missingRealPhoto": 6331,
+    "needsListPhoto": 6344
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 353,
-      "needsListPhoto": 353
+      "missingRealPhoto": 351,
+      "needsListPhoto": 351
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 357,
-      "needsListPhoto": 357
+      "missingRealPhoto": 356,
+      "needsListPhoto": 356
     },
     "anhui": {
       "cards": 330,
@@ -539,19 +539,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-jiangsu-d80d5b33c7",
-      "name": "加蟹小笼包",
-      "province": "jiangsu",
-      "city": "常州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 43,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-liaoning-1925bd3ce5",
       "name": "炸鸡架",
       "province": "liaoning",
@@ -805,19 +792,6 @@
       "city": "怀化",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 44,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-3550c9608c",
-      "name": "常州素火腿",
-      "province": "jiangsu",
-      "city": "常州",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 44,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -9203,19 +9177,6 @@
       "city": "金华",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 52,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-zhejiang-0b1a1c181d",
-      "name": "宁波烤菜",
-      "province": "zhejiang",
-      "city": "宁波",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 52,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82699,6 +82660,32 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-jiangsu-d80d5b33c7",
+      "name": "加蟹小笼包",
+      "province": "jiangsu",
+      "city": "常州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 43,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-jiangsu-3550c9608c",
+      "name": "常州素火腿",
+      "province": "jiangsu",
+      "city": "常州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 44,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-6f05e5bdfc",
       "name": "蜜三刀",
       "province": "jiangsu",
@@ -83067,6 +83054,19 @@
       "name": "连云港酒醉螃蟹",
       "province": "jiangsu",
       "city": "连云港",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 52,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-zhejiang-0b1a1c181d",
+      "name": "宁波烤菜",
+      "province": "zhejiang",
+      "city": "宁波",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,

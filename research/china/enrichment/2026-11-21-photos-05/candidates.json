@@ -192,6 +192,81 @@
       "height": 1280,
       "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-06d205bd3e34dc57.jpg",
       "rawSha256": "46fdfd789e77f45bb3f4928ae01f6f49daa18762025c0e0bdbc44ea92a99ebfb"
+    },
+    {
+      "title": "Bean products imitated ham (packaging).jpg",
+      "categoryNames": [
+        "Vegetarian ham"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/2b4d0bdbf027ef1d7504.html.gz"
+      ],
+      "id": "c-e2b01c172d85da58",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Bean_products_imitated_ham_(packaging).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bean_products_imitated_ham_%28packaging%29.jpg/960px-Bean_products_imitated_ham_%28packaging%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "François Nguyen",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Bean products imitated ham (packaging)",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "metadataFile": "research/.local/china-photos-20261121-05/cached-multilingual-followup-02/3f4a307aa22e4598b86f70a18ecc6c4e.response.gz",
+      "metadataSha256": "211e069e07b2e7371238d8177e019766575f6befb132c6bc21e9454797ad6d6a",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 960,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-e2b01c172d85da58.jpg",
+      "rawSha256": "dd10ffb9db7b0bc6307e3594f423cbd405f418d96ee1432c06016ddaa6561657"
+    },
+    {
+      "title": "A Xiao Long Bao with Crab meats from KC Chinese Restaurant.jpg",
+      "categoryNames": [
+        "Xiaolongbao"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/8d0d0644575d6d285feb.html.gz"
+      ],
+      "id": "c-95749bca58ebe8d7",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg/960px-A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "A Xiao Long Bao with Crab meats from Ka Choi Chinese Restaurant",
+      "itemIds": [
+        "flavor-jiangsu-d80d5b33c7"
+      ],
+      "metadataFile": "research/.local/china-photos-20261121-05/cached-multilingual-followup-02/3f4a307aa22e4598b86f70a18ecc6c4e.response.gz",
+      "metadataSha256": "211e069e07b2e7371238d8177e019766575f6befb132c6bc21e9454797ad6d6a",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-95749bca58ebe8d7.jpg",
+      "rawSha256": "a5056b6cacda1f9b30a1efd088e28c84fc2f5d95b650873dbfd5370871c14a48"
+    },
+    {
+      "id": "11646591484",
+      "title": "台北大安．川。譜 渝派四川美饌：寧波烤菜",
+      "description": null,
+      "licenseCode": 2,
+      "source": "https://www.flickr.com/photos/49819646@N06/11646591484",
+      "preview": "https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "query": "寧波烤菜",
+      "searchMetadataFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/ab0bcc92ad034650846be5f1dade996c.response.gz",
+      "rawFile": "research/.local/china-photos-20261121-05/11646591484.jpg",
+      "rawSha256": "a202c10e1e78f872479f18f358baf8ea25ac6144fbdd519b1d5b0ba3d1d432d0",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/c6fd87aeedc34b95a5a236347c606b9d.response.gz",
+      "metadataSha256": "a298171caeb59ec80debfd9748d3d7692c135a1aa1fb47e8acd8ccbe3d39f2e0",
+      "author": "Albert Hsieh / Alberthsieh",
+      "provider": "Flickr",
+      "license": "CC BY-NC 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/"
     }
   ]
 }

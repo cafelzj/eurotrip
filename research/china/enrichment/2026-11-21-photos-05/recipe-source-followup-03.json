@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.christinesrecipes.com/2010/08/drunken-chicken-legs.html",
+      "query": "Original English drunken-chicken-legs with ingredient bottle photographs",
+      "itemIds": [
+        "sh-zaolu"
+      ]
+    },
+    {
+      "url": "https://en.christinesrecipes.com/2010/08/drunken-chicken.html",
+      "query": "Original English drunken-chicken with ingredient bottle photographs",
+      "itemIds": [
+        "sh-zaolu"
+      ]
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=601",
+      "query": "Remaining English recipe index",
+      "itemIds": []
+    }
+  ]
+}

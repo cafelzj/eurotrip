@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=301",
+      "query": "English author-permitted recipe index 301",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=451",
+      "query": "English author-permitted recipe index 451",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.christinesrecipes.com/p/chicken.html",
+      "query": "English drunken chicken recipe original link",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.flickr.com/photos/87807876@N00/8240996365",
+      "query": "Full original title description license author 8240996365",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/60891930@N00/286714383",
+      "query": "Full original title description license author 286714383",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/49819646@N06/11646591484",
+      "query": "Full original title description license author 11646591484",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/56638827@N00/8000057368",
+      "query": "Full original title description license author 8000057368",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/56638827@N00/6834517416",
+      "query": "Full original title description license author 6834517416",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/61364812@N00/3621443964",
+      "query": "Full original title description license author 3621443964",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/46214148@N00/6178128581",
+      "query": "Full original title description license author 6178128581",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/8338/8240996365_473d9e90b4_b.jpg",
+      "query": "Candidate image 8240996365",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/108/286714383_637d0e6f26_b.jpg",
+      "query": "Candidate image 286714383",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg",
+      "query": "Candidate image 11646591484",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/8038/8000057368_e9cec0ca1e_c.jpg",
+      "query": "Candidate image 8000057368",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/7050/6834517416_5cd39cdf09_b.jpg",
+      "query": "Candidate image 6834517416",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/2476/3621443964_2857e94a71_b.jpg",
+      "query": "Candidate image 3621443964",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/6157/6178128581_0087aae2b3_b.jpg",
+      "query": "Candidate image 6178128581",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    }
+  ]
+}

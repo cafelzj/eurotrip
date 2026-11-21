@@ -1426,3 +1426,28 @@ Source: https://commons.wikimedia.org/wiki/File:2025-01-30_Stinky_Chinese_spinac
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
 Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg/960px-2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-e2b01c172d85da58.jpg
+
+Author: François Nguyen
+Source: https://commons.wikimedia.org/wiki/File:Bean_products_imitated_ham_(packaging).jpg
+License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bean_products_imitated_ham_%28packaging%29.jpg/960px-Bean_products_imitated_ham_%28packaging%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-95749bca58ebe8d7.jpg
+
+Author: Peachyeung316
+Source: https://commons.wikimedia.org/wiki/File:A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg/960px-A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-11646591484.jpg
+
+Author: Albert Hsieh / Alberthsieh
+Source: https://www.flickr.com/photos/49819646@N06/11646591484
+License: [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+Original image URL: https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。

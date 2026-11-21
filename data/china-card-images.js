@@ -5248,6 +5248,88 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "preserved",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-c-e2b01c172d85da58": {
+      "file": "Bean products imitated ham (packaging).jpg",
+      "src": "assets/photos/china/cn05-c-e2b01c172d85da58.jpg",
+      "width": 960,
+      "height": 960,
+      "kind": "product",
+      "alt": "标注“老常州味道”的香菇素火腿包装实拍。",
+      "caption": "标注“老常州味道”的香菇素火腿包装实拍。",
+      "author": "François Nguyen",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bean_products_imitated_ham_(packaging).jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Bean_products_imitated_ham_%28packaging%29.jpg/960px-Bean_products_imitated_ham_%28packaging%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已看原图，包装正面清楚写素火腿、香菇、老常州味道，与豆腐衣卷制的同名商品相符。原作者说明为素火腿包装；木桌背景整洁、标签可读，保留整件包装，不虚构厂商或认证。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
+    },
+    "cn05-c-95749bca58ebe8d7": {
+      "file": "A Xiao Long Bao with Crab meats from KC Chinese Restaurant.jpg",
+      "src": "assets/photos/china/cn05-c-95749bca58ebe8d7.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "Ka Choi餐馆的蟹肉小笼包实拍，作为同类成品示例。",
+      "caption": "Ka Choi餐馆的蟹肉小笼包实拍，作为同类成品示例。",
+      "author": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg/960px-A_Xiao_Long_Bao_with_Crab_meats_from_KC_Chinese_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确蟹肉小笼包及餐馆，已看原图，完整蒸笼、薄皮包子及蟹色馅汁可辨，背景整洁；据蟹肉小笼包这一具体同类主题对应采用，不宣称常州拍摄、常州店铺或完全相同配方。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-11646591484": {
+      "file": "台北大安．川。譜 渝派四川美饌：寧波烤菜",
+      "src": "assets/photos/china/cn05-11646591484.jpg",
+      "width": 800,
+      "height": 533,
+      "kind": "food",
+      "alt": "台北餐馆制作的宁波烤菜实拍，作为同名菜品示例。",
+      "caption": "台北餐馆制作的宁波烤菜实拍，作为同名菜品示例。",
+      "author": "Albert Hsieh / Alberthsieh",
+      "license": "CC BY-NC 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/",
+      "source": "https://www.flickr.com/photos/49819646@N06/11646591484",
+      "originalSrc": "https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者完整标题明确宁波烤菜和台北大安川谱餐馆。已看原图，成品菜叶、浓色卤汁及芝麻点缀清楚，白盘背景干净；保留原有署名水印，没有把拍摄地写成宁波，也不以此断言所有地方做法均放芝麻。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "commercialUse": false,
+      "deploymentContext": "personal-informational-github-pages-without-advertising",
+      "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
     }
   },
   "cards": {
@@ -5458,7 +5540,10 @@ window.chinaCardImages = {
     "program-a2911fde28c625f889": "cn05-g-5936383646-0",
     "regional-6c556c676d44e0": "cn05-c-e5fac6bc4ca5bef9",
     "program-0609e430982ee84b7d": "cn05-c-4f5364df5219e5b7",
-    "flavor-zhejiang-96a2482fa2": "cn05-c-06d205bd3e34dc57"
+    "flavor-zhejiang-96a2482fa2": "cn05-c-06d205bd3e34dc57",
+    "flavor-jiangsu-3550c9608c": "cn05-c-e2b01c172d85da58",
+    "flavor-jiangsu-d80d5b33c7": "cn05-c-95749bca58ebe8d7",
+    "flavor-zhejiang-0b1a1c181d": "cn05-11646591484"
   },
   "galleries": {}
 };

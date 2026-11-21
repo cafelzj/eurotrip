@@ -83,6 +83,34 @@
       "reason": "原作者完整中文说明直接命名霉苋菜梗烧臭豆腐及安吉剑山蔓塘里餐馆。已查看原图，中部粗苋菜梗清楚可辨，周围臭豆腐为同锅配料，画面干净完整；展示实际食用形态，不冒称绍兴拍摄或单独蒸制。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-3550c9608c",
+      "itemName": "常州素火腿",
+      "candidateId": "c-e2b01c172d85da58",
+      "caption": "标注“老常州味道”的香菇素火腿包装实拍。",
+      "reason": "已看原图，包装正面清楚写素火腿、香菇、老常州味道，与豆腐衣卷制的同名商品相符。原作者说明为素火腿包装；木桌背景整洁、标签可读，保留整件包装，不虚构厂商或认证。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-d80d5b33c7",
+      "itemName": "加蟹小笼包",
+      "candidateId": "c-95749bca58ebe8d7",
+      "caption": "Ka Choi餐馆的蟹肉小笼包实拍，作为同类成品示例。",
+      "reason": "原作者明确蟹肉小笼包及餐馆，已看原图，完整蒸笼、薄皮包子及蟹色馅汁可辨，背景整洁；据蟹肉小笼包这一具体同类主题对应采用，不宣称常州拍摄、常州店铺或完全相同配方。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-zhejiang-0b1a1c181d",
+      "itemName": "宁波烤菜",
+      "candidateId": "11646591484",
+      "caption": "台北餐馆制作的宁波烤菜实拍，作为同名菜品示例。",
+      "reason": "原作者完整标题明确宁波烤菜和台北大安川谱餐馆。已看原图，成品菜叶、浓色卤汁及芝麻点缀清楚，白盘背景干净；保留原有署名水印，没有把拍摄地写成宁波，也不以此断言所有地方做法均放芝麻。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
     }
   ],
   "held": [
@@ -165,6 +193,30 @@
     {
       "candidateId": "c-217c63f9e5714f23",
       "reason": "海派粉蒸肉只占高铁多格套餐的一格，主体太小且场景杂，不采用为单道菜封面。"
+    },
+    {
+      "candidateId": "8240996365",
+      "reason": "原作者为藏书羊肉，但图为红烧块肉，不能替代卡片白汤炖羊肉的描述。"
+    },
+    {
+      "candidateId": "286714383",
+      "reason": "南京老鸭煲有对应主体，但暗黄光线、酒瓶前景和杂乱餐桌影响封面观感，继续找更清楚成品。"
+    },
+    {
+      "candidateId": "6178128581",
+      "reason": "虽然作者标题写光明酸奶，实图只露出光明盒顶及小部分正文，无法确认酸奶款式，不给酸奶卡片采用。"
+    },
+    {
+      "candidateId": "8000057368",
+      "reason": "同得兴面碗照片偏糊且缺少具体门店定位，不给嘉馀坊店自动绑定。"
+    },
+    {
+      "candidateId": "6834517416",
+      "reason": "同得兴招牌清楚，但尚未核实为嘉馀坊店旧址，不冒称该分店门面。"
+    },
+    {
+      "candidateId": "3621443964",
+      "reason": "人物居中占据黄天源门店前景，不作食品成品封面。"
     }
   ]
 }

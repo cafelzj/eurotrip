@@ -1,0 +1,281 @@
+{
+  "jobs": [
+    {
+      "query": "糖芋苗",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B3%96%E8%8A%8B%E8%8B%97&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "南京皮肚麵",
+      "itemIds": [
+        "flavor-jiangsu-f3a8026ec8"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%8D%97%E4%BA%AC%E7%9A%AE%E8%82%9A%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "狀元豆",
+      "itemIds": [
+        "flavor-jiangsu-d8d029b46a"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%8B%80%E5%85%83%E8%B1%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "赤豆小圓子",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%B5%A4%E8%B1%86%E5%B0%8F%E5%9C%93%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "梅乾菜燜肉",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%A2%85%E4%B9%BE%E8%8F%9C%E7%87%9C%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "文蛤丸子",
+      "itemIds": [
+        "flavor-jiangsu-8a11dfb3a0"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%96%87%E8%9B%A4%E4%B8%B8%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "四喜湯團",
+      "itemIds": [
+        "flavor-jiangsu-80ccd93c01",
+        "program-5466f36df9b6800424"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9B%E5%96%9C%E6%B9%AF%E5%9C%98&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "太倉肉鬆",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%A4%AA%E5%80%89%E8%82%89%E9%AC%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "藏書羊肉",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%8F%E6%9B%B8%E7%BE%8A%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "軟兜長魚",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%BB%9F%E5%85%9C%E9%95%B7%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "回鹵乾",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9E%E9%B9%B5%E4%B9%BE&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "開洋蔥油拌麵",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%96%8B%E6%B4%8B%E8%94%A5%E6%B2%B9%E6%8B%8C%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "雪菜黃魚",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%9B%AA%E8%8F%9C%E9%BB%83%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "糟滷",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B3%9F%E6%BB%B7&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "常州素火腿",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B8%B8%E5%B7%9E%E7%B4%A0%E7%81%AB%E8%85%BF&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "湖筆",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B9%96%E7%AD%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "金華佛手",
+      "itemIds": [
+        "county-1ea5c4acc36720",
+        "program-72d93d7193018fb07d"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E8%8F%AF%E4%BD%9B%E6%89%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "奉化芋艿頭",
+      "itemIds": [
+        "program-13e1add7f806de29e2"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%A5%89%E5%8C%96%E8%8A%8B%E8%89%BF%E9%A0%AD&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "雞頭米",
+      "itemIds": [
+        "flavor-jiangsu-222c2cf834",
+        "program-86810aa25cacdad3f0",
+        "program-fdd6246a7f38b22e9f"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%9B%9E%E9%A0%AD%E7%B1%B3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "新市茶糕",
+      "itemIds": [
+        "flavor-zhejiang-680b7ca8ca"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%96%B0%E5%B8%82%E8%8C%B6%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "泗陽膘雞",
+      "itemIds": [
+        "flavor-jiangsu-738251d723"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B3%97%E9%99%BD%E8%86%98%E9%9B%9E&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "金華湯包",
+      "itemIds": [
+        "flavor-zhejiang-0371787652"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E8%8F%AF%E6%B9%AF%E5%8C%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "老鴨煲",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%80%81%E9%B4%A8%E7%85%B2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "白象香糕",
+      "itemIds": [
+        "flavor-zhejiang-f1b67ca9a0"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%99%BD%E8%B1%A1%E9%A6%99%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "衢州烤餅",
+      "itemIds": [
+        "county-zhejiang-3920091c36"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%A1%A2%E5%B7%9E%E7%83%A4%E9%A4%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "南通跳麵",
+      "itemIds": [
+        "flavor-jiangsu-33f596e0ee"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%8D%97%E9%80%9A%E8%B7%B3%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "藕粉圓",
+      "itemIds": [
+        "flavor-jiangsu-4e8ed3625f"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%95%E7%B2%89%E5%9C%93&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "餛飩老鴨煲",
+      "itemIds": [
+        "flavor-zhejiang-267f01bf30"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%A4%9B%E9%A3%A9%E8%80%81%E9%B4%A8%E7%85%B2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "寧波烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%AF%A7%E6%B3%A2%E7%83%A4%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "米篩爬",
+      "itemIds": [
+        "flavor-zhejiang-a1a484e9b6"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B1%B3%E7%AF%A9%E7%88%AC&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "平湖糟蛋",
+      "itemIds": [
+        "zj-pinghu-zaodan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B9%B3%E6%B9%96%E7%B3%9F%E8%9B%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "同得興",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%90%8C%E5%BE%97%E8%88%88&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "黃天源",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%BB%83%E5%A4%A9%E6%BA%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "維維豆奶",
+      "itemIds": [
+        "js-vv"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B6%AD%E7%B6%AD%E8%B1%86%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "光明酸奶",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E%E9%85%B8%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "會稽山",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%9C%83%E7%A8%BD%E5%B1%B1&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "石庫門黃酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%9F%B3%E5%BA%AB%E9%96%80%E9%BB%83%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "洋河酒",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B4%8B%E6%B2%B3%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "湯溝酒",
+      "itemIds": [
+        "flavor-jiangsu-60ae60b3d9"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B9%AF%E6%BA%9D%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    }
+  ]
+}

@@ -2566,6 +2566,1187 @@
       "responseSha256": "d17b2a6b335828f2ebac8933a7a6bc91c50551f5ff8465d8c147b3f3c588b949",
       "compressedSha256": "c2766a7a74745a3a90dda5457370fe1dd86e8f3cb7629d7d9652f8bfe4c64e46",
       "journal": "research/.local/china-photos-20261121-05/vegetable-identity-primary/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ABanchuan+with+pork+kidney%2C+tomato+sauce+and+egg+%2820191115134400%29.jpg%7CFile%3A202308+Pickled+Mustard+Green+Noodle+with+Braised+Dapai+and+Fried+Tofu+Toppings.jpg%7CFile%3ACiwu+Damian+with+pork+kidney+and+2+eggs+at+ZJ-S43+Ciwu+Service+Area+%2820250201100411%29.jpg%7CFile%3ARicewine-soaked+fish.jpg%7CFile%3AFried+Pork+Chunks+02.jpg%7CFile%3AFried+Pork+Chunks.jpg%7CFile%3ARicefield+eel+tail+with+grated+garlic.jpg%7CFile%3A%E6%89%AC%E5%B7%9E%E8%99%BE%E7%B1%BD%E9%A5%BA%E9%9D%A2.jpg%7CFile%3AChangfa+Pork+Mooncake+at+RT-Mart+Xingtang+%28Auchan%29.jpg%7CFile%3A%E9%B2%9C%E7%AC%8B%E7%85%B2%E6%B1%A4.jpg%7CFile%3ABean+products+imitated+ham+%28packaging%29.jpg%7CFile%3ABean+products+imitated+ham.jpg%7CFile%3AA+Xiao+Long+Bao+with+Crab+meats+from+KC+Chinese+Restaurant.jpg%7CFile%3ACantonese+Xiao+Long+Bao+with+crabs+seed+in+Chinese+restaurant.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual cached files Chinese descriptions and licenses; specific dishes and brands",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cached-multilingual-followup-02/3f4a307aa22e4598b86f70a18ecc6c4e.response.gz",
+      "responseSha256": "7a945310a8d2949bf4cf52d06c8a5bb19e2f804b21555e61053b55f924d17714",
+      "compressedSha256": "211e069e07b2e7371238d8177e019766575f6befb132c6bc21e9454797ad6d6a",
+      "journal": "research/.local/china-photos-20261121-05/cached-multilingual-followup-02/requests.jsonl"
+    },
+    {
+      "query": "糖芋苗",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B3%96%E8%8A%8B%E8%8B%97&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/97f86cc68997466eb6de2e64462c7941.response.gz",
+      "responseSha256": "3f2af4c756a016f740eceadda56a8c3f8a73aafa01845b46d32e95cfb03c63c7",
+      "compressedSha256": "de692ba866326e50ee5fe4b8007426c964ef0a7f69aee91bab345a4d47e84996",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "南京皮肚麵",
+      "itemIds": [
+        "flavor-jiangsu-f3a8026ec8"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%8D%97%E4%BA%AC%E7%9A%AE%E8%82%9A%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/b2584c137af244b8a81a8fd87cc325d1.response.gz",
+      "responseSha256": "9880adc6fa668bc39bc09b472e644702a7e269e3a0677a8725afcbd0b4440903",
+      "compressedSha256": "6229f5ac2a0ecc28e1e63befb069a5c1b02d8ace037f3c42da5e99447f009f73",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "狀元豆",
+      "itemIds": [
+        "flavor-jiangsu-d8d029b46a"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%8B%80%E5%85%83%E8%B1%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/d18e6b55540b4bd49c6c3dbff1ae233d.response.gz",
+      "responseSha256": "3dc1a3e1e0467639ea69242254a8bb129c4ea47d71bc6b9d621c5361ad2eea3d",
+      "compressedSha256": "3d4f47e0a6b812f4d4c53803356a913202ba3dcacd860639f15d9b1ab2626e81",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "赤豆小圓子",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%B5%A4%E8%B1%86%E5%B0%8F%E5%9C%93%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/b3ef57b3bffd49878e6854b503e530c7.response.gz",
+      "responseSha256": "bdc456668ebea9ffdad524846098607fb366b39c9cd1a4b15333157a045b498c",
+      "compressedSha256": "0e7233c3b446ff189ceaee585a0fe99a813793af72e3e12bd34cdbad8bbdedbd",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "梅乾菜燜肉",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%A2%85%E4%B9%BE%E8%8F%9C%E7%87%9C%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/2cc2757ecbbf42f9bc4a2b7dd0ac430a.response.gz",
+      "responseSha256": "442cd8ffb83d4f3d67f409d97567f855c64ced4ad44961d0d9ce36956c38a501",
+      "compressedSha256": "8a5d9758beeaf39cc68752d3624fa8b8f4b4ad65ba316a8e390522c9af182d50",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "文蛤丸子",
+      "itemIds": [
+        "flavor-jiangsu-8a11dfb3a0"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%96%87%E8%9B%A4%E4%B8%B8%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/f245d6cd1c8d41399e8d8f35f7e19d1c.response.gz",
+      "responseSha256": "942dc86805fb12323949426d41b39ba7fc55cf22084d57b692f95caebb7f2635",
+      "compressedSha256": "b17ad396479cab6f95dcdbc567b235afd959c6113f2daa0b6f78a49a10282874",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "四喜湯團",
+      "itemIds": [
+        "flavor-jiangsu-80ccd93c01",
+        "program-5466f36df9b6800424"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9B%E5%96%9C%E6%B9%AF%E5%9C%98&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/7105de22d50e4dfebb39e94404d3aa06.response.gz",
+      "responseSha256": "d1b4bbd6497f73e8d081956c15b17d1cef275c40ac836dda147d8dd5fe4f70b4",
+      "compressedSha256": "fa48c301a0617a90a707c72c5660c253c3f2f6b465ee7ccb404d8b44e3a867bb",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "太倉肉鬆",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%A4%AA%E5%80%89%E8%82%89%E9%AC%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/42d61b3f32624cfc86516e9a316babaa.response.gz",
+      "responseSha256": "8baa66f7b8c4cff98fe0b70b9f4923c421fcbfeb629833097873b5bf02373e98",
+      "compressedSha256": "03992dff8b9008d5685dcd6d5705f0bcf9ee97cfa145c15e0188ae4276d73464",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "藏書羊肉",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%8F%E6%9B%B8%E7%BE%8A%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/54bd9b3da31d481f80e9118e754b3395.response.gz",
+      "responseSha256": "c98c40e85df7fcca8edaf27d5c4a861f55c6c25bec6fc0c7670390b189934b3d",
+      "compressedSha256": "b80992ceb53b65e091289e62e680379cb9c8a44ff2fb90b3000c6ce8d5d96efa",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "軟兜長魚",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%BB%9F%E5%85%9C%E9%95%B7%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/8a4ec757f2ff4a7492d97bd0615eea78.response.gz",
+      "responseSha256": "221b5622e258000e14beb6fd0dafc3c0fdb86457fc9b974bfb0ff5f0c258d8dd",
+      "compressedSha256": "a230bd2dfb8456a7ca4cae99d4f204e267bc2b438422aad2bc928d0e2805707c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "回鹵乾",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9E%E9%B9%B5%E4%B9%BE&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/5e4e18f286754a8aa4f9b4d96e96ff46.response.gz",
+      "responseSha256": "88b5bc7dfdadfee9585b40742a5c38758de0ffda0a8ce135f83f15638f571b29",
+      "compressedSha256": "f4f7ae01190f6cc6f7fed1e1e924f410c2d42a223ae94a1c6d86e02b98c9b848",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "開洋蔥油拌麵",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%96%8B%E6%B4%8B%E8%94%A5%E6%B2%B9%E6%8B%8C%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/5d15cb05263c440089e300f4a9165c27.response.gz",
+      "responseSha256": "14df163bec9f1542a13ff4ef126fd333b00797a6f6891be37577fd26d62b8f43",
+      "compressedSha256": "ac7e8d5950fdde5d44b791ccfb7f79402344a7c734a621b937a3c316ff80328f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "雪菜黃魚",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%9B%AA%E8%8F%9C%E9%BB%83%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/20ce0080e8cc468b8bc34ad1836772d4.response.gz",
+      "responseSha256": "e369e0dbf9b50613a9748500f975184bdfaa0c25e227f362b2c6477997d6a044",
+      "compressedSha256": "3f2c7f8a6470aa5e301bbd7d4272bc0f43d9cf9e6f178d97046e8990d4a20997",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "糟滷",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B3%9F%E6%BB%B7&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/4b93fc93434743d1a0ea7330e8ff7d77.response.gz",
+      "responseSha256": "23476e802a619efa26d6d2ffd5c01bba31ad625485f040cdd8e1422bfe05d864",
+      "compressedSha256": "bdd6c0f607b4ef3e6b196838b5230ed8333eb84c4434937ff316c34487c8884d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "常州素火腿",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B8%B8%E5%B7%9E%E7%B4%A0%E7%81%AB%E8%85%BF&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/e58a70a088784a9589d08d65caad8a22.response.gz",
+      "responseSha256": "562ddae8da3da43477b6cd2d0bf0786f32745968d93c07d95b94c150f8979dfb",
+      "compressedSha256": "3467ec3cfb20f9f0d1a84081e496e83067629155d3c925a911d9827f712323e2",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "湖筆",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B9%96%E7%AD%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/78eb98a2fe7a418f8e84fa28acec5ba1.response.gz",
+      "responseSha256": "faca9ab6a93e0b34d246ef04f35a5e53f9bc8458ee7a3f4b3281c4e340f4b83c",
+      "compressedSha256": "8d781ac1bd1e60169b080a9a9fb40571944e88cd4519e09b3e4a9c492db1829e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "金華佛手",
+      "itemIds": [
+        "county-1ea5c4acc36720",
+        "program-72d93d7193018fb07d"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E8%8F%AF%E4%BD%9B%E6%89%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/764e4767535b497ab9b72cfa81d77f27.response.gz",
+      "responseSha256": "c62385161732d5d04e88e3c2adf18acd2b216208e5ace0b4eca3936e6b3cc9e3",
+      "compressedSha256": "145069e10fb982e93ae826eff276cbf4769cb8cb294b11917ffad2deca470947",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "奉化芋艿頭",
+      "itemIds": [
+        "program-13e1add7f806de29e2"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%A5%89%E5%8C%96%E8%8A%8B%E8%89%BF%E9%A0%AD&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/21bd3abd5df648089859ab70bb5a0026.response.gz",
+      "responseSha256": "c3b258d8eb2bd0ac908e441fd58beced275334584665ef038ef40b8d1f2fb130",
+      "compressedSha256": "3575ccc1a49b53d9140ec6be4cc805e38c5b3daeb4c5bb87d1b37286666c8004",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "雞頭米",
+      "itemIds": [
+        "flavor-jiangsu-222c2cf834",
+        "program-86810aa25cacdad3f0",
+        "program-fdd6246a7f38b22e9f"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%9B%9E%E9%A0%AD%E7%B1%B3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/2b5f8f276db94b839eabbe5f18dfabd9.response.gz",
+      "responseSha256": "29c4bb47866bf00473b99e9d98b750ec51a4044a99f41887944d176a23b7baf4",
+      "compressedSha256": "3136165dff9587eaca8c0b3dc4bd06f9608b5f3b9a506b252886fb365f34d401",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "新市茶糕",
+      "itemIds": [
+        "flavor-zhejiang-680b7ca8ca"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%96%B0%E5%B8%82%E8%8C%B6%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/219bfd8d2db045369bcb56e11ea7a6c8.response.gz",
+      "responseSha256": "4ab48a7573140418aaf1bc938ffe30c9cfc89c3dcb1fdda474dbfe1623277659",
+      "compressedSha256": "7e9227aa9e4b2c7b0b1da913ba91b3b1f785e9ad63c76257b0c211e5d6a409e6",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "泗陽膘雞",
+      "itemIds": [
+        "flavor-jiangsu-738251d723"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B3%97%E9%99%BD%E8%86%98%E9%9B%9E&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/a0efebfddc4b4c9cb8802490028288f3.response.gz",
+      "responseSha256": "9a70c8d853a544b1eb50704627d785f3fb460a4c8b3cff48ca8e1583444b6db9",
+      "compressedSha256": "a195aa4c4010276a0a4b52f1b39c1746a68685337aa90bb46dfe15982f1ca39d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "金華湯包",
+      "itemIds": [
+        "flavor-zhejiang-0371787652"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E8%8F%AF%E6%B9%AF%E5%8C%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/21386c811e9145ff9895d5d3825e8ebe.response.gz",
+      "responseSha256": "36f2a58e703f9439dcbdb3a593111ff950503b41335c6b97939292416c353a6a",
+      "compressedSha256": "e2cfe2c23230c6f9de32d66d1bc8d671292fc6826b0e64a2e2b527c3517cf044",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "老鴨煲",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%80%81%E9%B4%A8%E7%85%B2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/468747c757e44c8db78db2843e4d8ab4.response.gz",
+      "responseSha256": "5fe2ceb3b665e033aa960e351bef6b6c979cc34745a17a3820ab7e8a8935ba64",
+      "compressedSha256": "d55456b603c71c6b2c6a73e580925f781cae940591ba5d830e9ec5e38c89407a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "白象香糕",
+      "itemIds": [
+        "flavor-zhejiang-f1b67ca9a0"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%99%BD%E8%B1%A1%E9%A6%99%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/84ebbb20570543e48cecb9a1b4724220.response.gz",
+      "responseSha256": "c5e2b3fde107a102a751a6a28ca6c750a66d4d1c93eda79bfef683291759f804",
+      "compressedSha256": "d726a21e5ad54eb0512e5ccd20978d72b1c0c8fa6be03f24b6952bd72ab78a0a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "衢州烤餅",
+      "itemIds": [
+        "county-zhejiang-3920091c36"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%A1%A2%E5%B7%9E%E7%83%A4%E9%A4%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/77180e08cbdb45d789f91026bf7ae0f6.response.gz",
+      "responseSha256": "4b73b254b14fdc071479f290dd267197c05c93211d823de072e8ba80a111933a",
+      "compressedSha256": "ecab0a06d2faa564856992e3eeb96539ba6e599c369bbe841292f8cfe81409b8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "南通跳麵",
+      "itemIds": [
+        "flavor-jiangsu-33f596e0ee"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%8D%97%E9%80%9A%E8%B7%B3%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/b600317b97f548c39af72f0af407ac48.response.gz",
+      "responseSha256": "c3747f65c45c5e00231c87a9ca3f5ac3b13f983ca01d430a73d150667ad745fb",
+      "compressedSha256": "1476263d1b885bb2ec6ac1428536c17b93aa575f4d369f60fbd177fec676a7cd",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "藕粉圓",
+      "itemIds": [
+        "flavor-jiangsu-4e8ed3625f"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%95%E7%B2%89%E5%9C%93&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/94542bc02e89415c9f0dabb93f1ad1a7.response.gz",
+      "responseSha256": "dbab5b707eeb56cd670cff027df6ff3000a21ae4eea998eca2094f294ad4db78",
+      "compressedSha256": "b86a076d6d95a5a01702078fd7eb1908968f6054589f44a7147f5bf503473e10",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "餛飩老鴨煲",
+      "itemIds": [
+        "flavor-zhejiang-267f01bf30"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%A4%9B%E9%A3%A9%E8%80%81%E9%B4%A8%E7%85%B2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/c806c6843f184df9bfc179f0521f3147.response.gz",
+      "responseSha256": "6160f244c7e7305578f8344f3a7b6901371b38b9b898137471176189bf686fbb",
+      "compressedSha256": "c9d56e81f05d839e553663dee1976c09338af338a1ecd56a669584ff6d4fbb99",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "寧波烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%AF%A7%E6%B3%A2%E7%83%A4%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/ab0bcc92ad034650846be5f1dade996c.response.gz",
+      "responseSha256": "a0ecfe6d0ce7cb8b93972075d969daf9c63760ad68f9408f324bf53c4a22b21f",
+      "compressedSha256": "f8f04de83be7b079d22b60eeec39bbed792cf9b4af3a5f3a6f6d5c3d001608f1",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "米篩爬",
+      "itemIds": [
+        "flavor-zhejiang-a1a484e9b6"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B1%B3%E7%AF%A9%E7%88%AC&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/6685003f545741bc857ea78b76f7ac3f.response.gz",
+      "responseSha256": "d6b87fc7184dfdc5950efca61ebad75c597e9d86906db64c74658462fa8ea4ba",
+      "compressedSha256": "afa0b43cfafc8edc160ca346b66bb33188e2a59889ad080a4ce313b8dca1b510",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "平湖糟蛋",
+      "itemIds": [
+        "zj-pinghu-zaodan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B9%B3%E6%B9%96%E7%B3%9F%E8%9B%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/7576ce53bd694d978cd8c4c3665508e6.response.gz",
+      "responseSha256": "d38976a1a5045cbdfe460012d887a9930aee9df20bc4e3f45d941b1ed5be0a6e",
+      "compressedSha256": "e32de9a03de90c1841d86da8786498eadf1016af31b620fb056087626041f59f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "同得興",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%90%8C%E5%BE%97%E8%88%88&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/d9159289d75e456fa35205882bd34a55.response.gz",
+      "responseSha256": "d8da2b5cb86119b8e137fd4bd0a951a222e0f554bb4ab01d7efeabb69a7bbcf0",
+      "compressedSha256": "37e7e93b42c2227767309ad5f06abb14d51186646e779cc06ab6882ebbf9820a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "黃天源",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%BB%83%E5%A4%A9%E6%BA%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/e0eeb210a1364ec18979612abf403b28.response.gz",
+      "responseSha256": "a2abd3b5675e8b6f7f5ff2ff5d8d711e68c97494df50fe80a510eb19ba14aa17",
+      "compressedSha256": "17064573744d1d3ed4a37a515105b1795f7f92d15c0bda049f4d2c1ec0242a96",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "維維豆奶",
+      "itemIds": [
+        "js-vv"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%B6%AD%E7%B6%AD%E8%B1%86%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/cc3603b50aa445b4839198969955117f.response.gz",
+      "responseSha256": "62e388be451ed86cb6e289021cd551940708abc8c17fd72fdd5a30a92be2c60f",
+      "compressedSha256": "2fd0746bd22b92f3a827c9da1b59a421efb04e5cd035e0ca90d12caa523fa30a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "光明酸奶",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E%E9%85%B8%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/306b639cf0434081bbd94c36c66fda47.response.gz",
+      "responseSha256": "40fe974b91be965a8c06c3687b2bb7c50e85a3186a91077c3a8565bcfd86cab3",
+      "compressedSha256": "24a91388d907bf509d4544da4c651b4d788fbe3339fab8e205ced88f2cc11ffc",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "會稽山",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%9C%83%E7%A8%BD%E5%B1%B1&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/b199c4786bea427f8880b72e5e77f851.response.gz",
+      "responseSha256": "9abde7be5783297851cc0bd43641484f63ac57e53cfa4306d4cbd3f2d6427a8d",
+      "compressedSha256": "89dea63e6278976b961f812ef9f802176c6f2f1185af68f26f1255bac43a1755",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "石庫門黃酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%9F%B3%E5%BA%AB%E9%96%80%E9%BB%83%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/a23b0197b71a4b3ba4e4565b5e0da405.response.gz",
+      "responseSha256": "be5e9ebb0b473257cb85083a07bd9986eeaa4e615711f621cb3e13e1abf10a10",
+      "compressedSha256": "3590d7b8b61afea411a77f4ac888673a5285c995afb2feb1d89e2b386cd7c6e0",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "洋河酒",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B4%8B%E6%B2%B3%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/6124084944944ccf9745743cd32f207e.response.gz",
+      "responseSha256": "7455469b43e839345fbf07829dafb873226f7f9b9bc57a4665bd07141ccf76ef",
+      "compressedSha256": "80ea139350ada1dcca840f1e0b19ee22e55dc3246c80653ae9a0c509c68fffc2",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "query": "湯溝酒",
+      "itemIds": [
+        "flavor-jiangsu-60ae60b3d9"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B9%AF%E6%BA%9D%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/a36dc37f34cf4d54bb7988d18b05a95c.response.gz",
+      "responseSha256": "d55d75d3c1dee121bfc2e526bdb17b5aea46d85359fb8ce3f0455e7072cf22d3",
+      "compressedSha256": "acf5fa4904f5d68075fb9e670add299598cf50fcbda60cdfc233fa5862fbd52c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/87807876@N00/8240996365",
+      "query": "Full original title description license author 8240996365",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/255227e9b14d45e3b44162855b92bb9c.response.gz",
+      "responseSha256": "5fc453f09b676974285b203d04821ea24d43dbc05a901568d11d9c710d11dd08",
+      "compressedSha256": "901508051855d23b034bd60f0700c1e42b285d6cf13ecefbecbb7e4937dda51c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/60891930@N00/286714383",
+      "query": "Full original title description license author 286714383",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/87eba32e384f4dc285b6f0f4b6b4c5f3.response.gz",
+      "responseSha256": "378bee322afc747a584c3f9bf9628b90d41e944226f6603312d5145bb2654214",
+      "compressedSha256": "e6bbd59b5b4a052dfac65c390a6c594294cb519b03d778a3f4abc4bfee252c23",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/49819646@N06/11646591484",
+      "query": "Full original title description license author 11646591484",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/c6fd87aeedc34b95a5a236347c606b9d.response.gz",
+      "responseSha256": "ff842e67c4be5d11f81dfbf8c5a0512a9f48f958685d2d884fd04ea1e8d6a8df",
+      "compressedSha256": "a298171caeb59ec80debfd9748d3d7692c135a1aa1fb47e8acd8ccbe3d39f2e0",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/56638827@N00/8000057368",
+      "query": "Full original title description license author 8000057368",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/6717f37cb1f6417081eef2beac87f8b0.response.gz",
+      "responseSha256": "b71c9302af30e592c62f20bcf9c49a3547415d67f868fb83ce4b5bbbd9d50944",
+      "compressedSha256": "812a4db4cc2c349f82077811f2443c47c66105eddbe108b864410bfe44798cd5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/56638827@N00/6834517416",
+      "query": "Full original title description license author 6834517416",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/04ade545596c43c9805ed9998df2d7fb.response.gz",
+      "responseSha256": "cbb6c797fecd209b2b8d116af852ad38e4d05d88ab4e0064cf881938190ae11f",
+      "compressedSha256": "b70848560cec0f86089374831ca91cf1c53bf0895c9c94a0eed3d047cb1f42e6",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/61364812@N00/3621443964",
+      "query": "Full original title description license author 3621443964",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/73ca86da533f4defb773d30c7d947159.response.gz",
+      "responseSha256": "df1e3f0ca05de29aec49b203d92d2a5c30676e5b6804c3f87b6bac3245ac4d38",
+      "compressedSha256": "5a83a4c5ba52989f16de0808ffc28d5b2d3cb7cc06df573527051c07c8fa2bc9",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/46214148@N00/6178128581",
+      "query": "Full original title description license author 6178128581",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/985333df7af242a68ebd19199db16d2d.response.gz",
+      "responseSha256": "80416086bc17bfb79db754d343b2dc32d14ee133814d0d53535e9c08ad7fa827",
+      "compressedSha256": "cdf889685b28dc7a9db84bc021beaa01bd6ead99671f0cd91694d17b57eebacc",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/8338/8240996365_473d9e90b4_b.jpg",
+      "query": "Candidate image 8240996365",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/0d66e083a37b44a4a8143274265bf068.response.gz",
+      "responseSha256": "6aed783d2342e995f58ec4ec815dbe57f60e89cb3d8d942f75b4272124b259ab",
+      "compressedSha256": "fc3509e1a1ac0d576d4951e75b644c33b835474302987e43280cf6353ae89fec",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/108/286714383_637d0e6f26_b.jpg",
+      "query": "Candidate image 286714383",
+      "itemIds": [
+        "flavor-zhejiang-694b3d45e9"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/5321f3496244432c9d2930b8487261d3.response.gz",
+      "responseSha256": "0b43c44b73df95ae06617f3395366e7fe31a8db0148f6177164717a4c844c0aa",
+      "compressedSha256": "1a45d27fc88c7eea61df3500c4dbc5304a29be5ebc42e54caa0e50acd4846104",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg",
+      "query": "Candidate image 11646591484",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/f79c14835c4f4d289f2b41cac907fefa.response.gz",
+      "responseSha256": "a202c10e1e78f872479f18f358baf8ea25ac6144fbdd519b1d5b0ba3d1d432d0",
+      "compressedSha256": "b672beee59edab2dfb27964efb96ff7a08e410a4f56aced4c5a4f452513d2259",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/8038/8000057368_e9cec0ca1e_c.jpg",
+      "query": "Candidate image 8000057368",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/febc0c6da7d74b169cf2e5e19a0df6c5.response.gz",
+      "responseSha256": "bb467993dc8c33a4724f75f6b79cc033f7d38b4c6b1e7c561c2b27385eb95989",
+      "compressedSha256": "136fa7b7f9c2de849c59f7ad2f7923fa6b3868c0635d727d86ed21754deb4661",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/7050/6834517416_5cd39cdf09_b.jpg",
+      "query": "Candidate image 6834517416",
+      "itemIds": [
+        "venue-suzhou-noodle-shop"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/572d371d83c64c61a9cefaafe6858d7b.response.gz",
+      "responseSha256": "1a5e3697421e51dbc4b29e13258a8be4c9f3d5a67eee7c5982e1078cb39c93cd",
+      "compressedSha256": "07e03f8f5dbdf7d9aa81e0ae263d5cf1a83d0f3158eaa7598761e28ccdcf45fd",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2476/3621443964_2857e94a71_b.jpg",
+      "query": "Candidate image 3621443964",
+      "itemIds": [
+        "brand-suzhou-huangtianyuan"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/a35e27004ee84bdeaec292fc5142a6d8.response.gz",
+      "responseSha256": "708c92c6114b672a9def014b7d6f001c242e51e08dc6fc8ce90082a407248e9c",
+      "compressedSha256": "1a1a3330a21339eae7d79885d0d32af471d171a95e787906e884f83cc4136bb9",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/6157/6178128581_0087aae2b3_b.jpg",
+      "query": "Candidate image 6178128581",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-02/12284028116e4a8ca81a0df44e25536c.response.gz",
+      "responseSha256": "99410167276dc0f589cf4102f993f34f7756afa6f73cc041a5c3e3a582299ecb",
+      "compressedSha256": "48b65322687da8b1dd3ea3087d6c5307101025ac37956511511fe7f45f6ccf1c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=301",
+      "query": "English author-permitted recipe index 301",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-02/477b9c0f673c4a4b9cc5fdac732c969f.response.gz",
+      "responseSha256": "de5a9a52e8c6b2497ff942ac8d29117d86b380839771bbcf53ab7d716db81ba2",
+      "compressedSha256": "7467fe144151bd886e70d0dbfba2a77a685a19fe2504e8b71cce048191a18897",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=451",
+      "query": "English author-permitted recipe index 451",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-02/9eff273cb46f4ac5bb2271d0ddd81a8b.response.gz",
+      "responseSha256": "6231f178f09a22a4e58faf023cbe7061dec2f4111b1d3bc496e445c41e1f15a0",
+      "compressedSha256": "5de84df90cbf8a6fea975cba47b4533d84768aef210ce9a5d04e8af078e27fbe",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/p/chicken.html",
+      "query": "English drunken chicken recipe original link",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-02/e429755214834b0bac6aff4bc0dcf051.response.gz",
+      "responseSha256": "a192876733397dfd715b95e51b1572c9ad02a930bdc27f83c28548d08dfe02f1",
+      "compressedSha256": "767728410be5398bd3a6acc135b510e4492859ddecff651a5d341eeb774278f0",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-02/requests.jsonl"
+    },
+    {
+      "query": "光明牛奶",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E%E7%89%9B%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/4b8f2df658444845b4b7c80214ebed87.response.gz",
+      "responseSha256": "a5e2b99d8183eb1f166ddcc8efaf2e28cb7cbc91d4be583dd080e9830d241fc6",
+      "compressedSha256": "09e335ba4335681e6f37cd04a2931d12fc0a734a3b5ccd4ffb6bfaf23926076f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "光明鲜牛奶",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E%E9%B2%9C%E7%89%9B%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/c6a27f83c5014914a974d52b70f4ec9b.response.gz",
+      "responseSha256": "8421a57b686a0a173048dcca1c2c28bb326eb4c1f03da4474285945e70265ab4",
+      "compressedSha256": "3532a730c22005f24d6b738e8fc7d3b706e4132af42f3df9a7806f027e608d30",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "光明酸牛奶",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E%E9%85%B8%E7%89%9B%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/777d4f2cbb2743edb5b38079320f09a3.response.gz",
+      "responseSha256": "b57003cb08e7955cc5986c0329d6f2c18a30bb5dac07618ebde4ca02b41f1bdb",
+      "compressedSha256": "772b17ee1d5408d6fa680f6e9dffd7f9e9a07b9995c4bef13d1423fc7d3ac3ba",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "沙洲优黄",
+      "itemIds": [
+        "flavor-jiangsu-c2597b8797"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/7f00f98beb444ed1884b85f317d87370.response.gz",
+      "responseSha256": "35e7ab3c36f013f868d4ea4a4a157c41f059a6313adf849e31031fdeb715bb5c",
+      "compressedSha256": "de1b7a9da606871f693daad571396c16c3d310bcff68a8726fc2180da6697f18",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "会稽山",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E4%BC%9A%E7%A8%BD%E5%B1%B1&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/25a34f9fa7e44d6fb383250dd3c94eb2.response.gz",
+      "responseSha256": "016235401628dba22815aa8eb189cee4993bd39d7e1eece87aed01d61fff0e8d",
+      "compressedSha256": "f6ff68721baf703ea50a07c527ec3d56fb16fa9dd6fdc6ffc30bb777b6e4c6a0",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "古越龙山",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%8F%A4%E8%B6%8A%E9%BE%99%E5%B1%B1&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/0538f7ca1af74b1f88834da21e5535b7.response.gz",
+      "responseSha256": "c39bacf66f909bded3ac625f02b7ddec7eb20c0a11701885272833c2ab8060f5",
+      "compressedSha256": "deceff7a1b24cf78283ef83399351bfe0ae10668f6b6499a55b0bf6a13e9a3b5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "女儿红",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%A5%B3%E5%84%BF%E7%BA%A2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/8fb212546e524077a5856176ff604ffb.response.gz",
+      "responseSha256": "c2c88cb4a7626b1deefc8b30dd23d42ace262b1f14b42905480d676b34e647b0",
+      "compressedSha256": "74a77ae2ce75f95c0458704fe7261cecac22fd7149d19cd0de73ca3b5e9f83dc",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "石库门黄酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E7%9F%B3%E5%BA%93%E9%97%A8%E9%BB%84%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/65036ef9bf7e4f42b828858a2f4fe569.response.gz",
+      "responseSha256": "e8daadefd59857cbaec6370f09a9079b2d4b145b1ab256710bd9078c9f96385f",
+      "compressedSha256": "81bd2f05e2e1c8c92f5dab244aad7f9edeb08135bb6f355d9052a2782f389b04",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "洋河",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B4%8B%E6%B2%B3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/ba34e168d7744da7963e6a8e1971bc0b.response.gz",
+      "responseSha256": "a0bf90c16f78254ccaf8d6ee478203fa3aa2eb978696ce967407fc139b150f6d",
+      "compressedSha256": "c1ceffc3cedb9223a3b56e9db5d30f68da7023eb0ea7a33751c86e847487bc6c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "双沟",
+      "itemIds": [
+        "js-shuanggou"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%8F%8C%E6%B2%9F&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/32999a73f35a44c291449a7edc35847e.response.gz",
+      "responseSha256": "2c80d2870a7f7848651cf344ef12a215f31f79ad696e1cd20ad561cff5c78b8e",
+      "compressedSha256": "ff42c1bd2058a7f064a88ac59974ce1bfac1d2c54810dd094df991bde38b0573",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "崇明老白酒",
+      "itemIds": [
+        "program-0ecf8670f24a11093c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B4%87%E6%98%8E%E8%80%81%E7%99%BD%E9%85%92&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/15d9a71d42d141f0a87467331dc2588d.response.gz",
+      "responseSha256": "b49f63e310f5b806312fd8a3e637052d2df343da8b6369af1aa40c6c2062ac77",
+      "compressedSha256": "77a43a9d2a1ce648597114bc28666f5648bc3f32b60a9deec3d1707db5a759ba",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "金坛雀舌",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E5%9D%9B%E9%9B%80%E8%88%8C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/99f317f415cf401aaf790dff59d8bf97.response.gz",
+      "responseSha256": "bef69ff0b510a4d821ec5ec7a91d21f1cf3f469bb832285c04990541206372d3",
+      "compressedSha256": "9e0f519478791bff53a10ba5b0cf0a65ff2d3efb0b6d5501bc40e6e1f0ed13c3",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "雨花茶",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%9B%A8%E8%8A%B1%E8%8C%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/052fe2e2185c4e1597cfa4ea33e300e0.response.gz",
+      "responseSha256": "5600289d72804f68b51df7fbc588b1090bd6ac4ab72a7d80699c7a250efebbc8",
+      "compressedSha256": "f066ffafdef4a85447bf1bcf0a84569bbdee33a9ee4e06f2e5be1d2a53345c0d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "金山翠芽",
+      "itemIds": [
+        "program-b0f9818f7ab8d4ebf4"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%87%91%E5%B1%B1%E7%BF%A0%E8%8A%BD&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/06f993d7d9c144788b6ffdd1c98a3fc1.response.gz",
+      "responseSha256": "66ab146cbb04bcdceacd7d986ec8d1414f3792daabdeeea29158331a31cc1455",
+      "compressedSha256": "71fc4b2a395f10d82bc3c7dd1d56f2d159f601bc3bff93daa4b2894438ecd517",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "径山茶",
+      "itemIds": [
+        "program-7a34f10e56f5b1045c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%BE%84%E5%B1%B1%E8%8C%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/76f542262bee4398bc7541fbfa6aa6c3.response.gz",
+      "responseSha256": "4f72cf600d8ab90233ada137b454e6dca20253de31bf48947ce79df829010fca",
+      "compressedSha256": "8be625a1a20c503ae99e99513cff26749a63d384a4205b3ce202b1bddd30f3c5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "顾渚紫笋",
+      "itemIds": [
+        "flavor-zhejiang-b6fe4d08c5"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%A1%BE%E6%B8%9A%E7%B4%AB%E7%AC%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/9344586d99be4818bb284b604252e03c.response.gz",
+      "responseSha256": "152f19f52f9013c5276d518b0fee634fcd7a5be75f62540661de25250d6f9973",
+      "compressedSha256": "628f6ff820fa865194b7dbca4d5bd36db8487333442dc8e9fe73e2d9bcb47aa8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "惠明茶",
+      "itemIds": [
+        "flavor-zhejiang-60a98fb330",
+        "program-b0f74da42fe558ec96"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%83%A0%E6%98%8E%E8%8C%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/9cdef8af4b984d32b7c0d4393fa8e19b.response.gz",
+      "responseSha256": "bd2836204a7cace3ce27ea3dfb8dd5fb24039f593fef424aa5b3f7455fd1fa52",
+      "compressedSha256": "9191ddc26729c09386c5c48683c0b4161c572ae80fab692f146bb77c57f2f3c1",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "平水珠茶",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%B9%B3%E6%B0%B4%E7%8F%A0%E8%8C%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/b6a9275689e74c7cbe9645254b31aac9.response.gz",
+      "responseSha256": "8b340d4b3a4461feeaa5430ac36c16426ae681a0db2acf9b83b87315a5452c5f",
+      "compressedSha256": "e87dc7948112ea6b83e361c84fd54f95b7b23bfa3b960bddbd8453beb89cf4fa",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "安吉笋",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%AE%89%E5%90%89%E7%AC%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/76b83f2167434bf19a34174b8b3af5ff.response.gz",
+      "responseSha256": "a950d22b5612b31872c470febe6f3e4faf7b572395856490ad3553c2012830e6",
+      "compressedSha256": "b9901a686dfa7519964dfd39c25c3864d511357759a1a1ad728f276a86fc72d3",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "泰州干丝",
+      "itemIds": [
+        "flavor-jiangsu-3d8c9c7faf"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B3%B0%E5%B7%9E%E5%B9%B2%E4%B8%9D&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/c29cd84307fb4031adad1484b8e906bc.response.gz",
+      "responseSha256": "dd940e8e75ad3324584d06082ca8679a3eb40a15976e6937c03e77fe342528a7",
+      "compressedSha256": "afad0c186b2e65075dca6ae3d9708af4716e143ad48c992c0e544272ac74e5d8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "软兜长鱼",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%BD%AF%E5%85%9C%E9%95%BF%E9%B1%BC&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/5ae39c55d2414aad90c894e69348dfef.response.gz",
+      "responseSha256": "e542ce5434c2aaa6b6ba12766188ca16b261e501a155f9852dd84f939cb7b4b2",
+      "compressedSha256": "ecbf2ff4a80a3cdc7b67a2351260026e9b9c99b2c69abc82f8e88df715d669d7",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "回卤干",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9E%E5%8D%A4%E5%B9%B2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/f58ed91156304a73af25ddf6d18f6471.response.gz",
+      "responseSha256": "c1b0afc9349353f07ee52289de512adee55dfcd5c1f72fbdcf02dd2c9d65fbba",
+      "compressedSha256": "1998067747d07484e50b7605e71a3a812bb61dbacf639101fb8afb8eabaf90bb",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "梅干菜焖肉",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/f909e13b44da4295a6194bf8514daf34.response.gz",
+      "responseSha256": "4e27e989e60e14b04a485d64c774ebe7763f30ed8518db9ca0bb77f8e5ab5278",
+      "compressedSha256": "9049e4bc5071e73f95ad5b00818c41a1cc8be0fb93e0523899a51045f6fa26b3",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "藏书羊肉",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/6eb1fc9a415e4acca2140bc76502d4fd.response.gz",
+      "responseSha256": "4f1e5503014514ca4823805c60c413c2e5f620fe416cce3be044a58ee9289d67",
+      "compressedSha256": "535c4729c0dd213860f29fcd0cf017eac4e827f673f37fe77bee9cc0def42413",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "汪裕泰",
+      "itemIds": [
+        "sh-wangyutai"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B1%AA%E8%A3%95%E6%B3%B0&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/2a0b5af7a8174a6a96a024b011f7183f.response.gz",
+      "responseSha256": "52cd1e9dbb9a425f08a65ef22a17a8b09c88e2b49103d154e7a50105283ea438",
+      "compressedSha256": "3e2bfa333512e0d982ed8e842b2d6cc2bbafeff84b91aac2f35cde52989b8f64",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "汪恕有",
+      "itemIds": [
+        "flavor-jiangsu-4409362422"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%B1%AA%E6%81%95%E6%9C%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/100cfb3d4799471e84432a680dd78f05.response.gz",
+      "responseSha256": "d4cfbee4ff5554cedc9ca82c22ab2194b635d5b3d5568532bbbb6c6a1b8de428",
+      "compressedSha256": "ff462b2459c2a34c35fa851d0f56c3f25f0a76e41413a3b5eee8d6b83b588d0e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "恒顺香醋",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E6%81%92%E9%A1%BA%E9%A6%99%E9%86%8B&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/1b402904feda4922b5f0793fc1619ed8.response.gz",
+      "responseSha256": "aaf2af901da7060a4cd62c93f616b406d0ed82af5ee13a289336389acdc43958",
+      "compressedSha256": "7df6788d415de671968b4ad0f8a012cf9f7ffb6a07b1780f6d4d98a21ae0a5a4",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "邵永丰",
+      "itemIds": [
+        "zj-shaoyongfeng"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%82%B5%E6%B0%B8%E4%B8%B0&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/3cfc4235db09497ba39782a289b12d1c.response.gz",
+      "responseSha256": "47d3199fab7f8c0039287b06b51088d86cd6f4284513c7a51831f3a85355d4f3",
+      "compressedSha256": "7d700cc6fdffa700a59ee92af0841f9dd542cdb848de6590c694390d8f5861e6",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "三和四美",
+      "itemIds": [
+        "js-sanhesimei"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E4%B8%89%E5%92%8C%E5%9B%9B%E7%BE%8E&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/05d1b88c3772435487a00c377a0fb573.response.gz",
+      "responseSha256": "eb7fc6ff95fc237453fb68473ebbf77c9d2edf04ebbcf4f5018fd78f976a5e25",
+      "compressedSha256": "20a3dbcf1e496fb7bf3bceecb9cbbfdec5edbf14390b78ba7ae301fb0df5ff61",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "虾籽面",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E8%99%BE%E7%B1%BD%E9%9D%A2&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/ea631e370eb44f3ab18ce56c5e0fe960.response.gz",
+      "responseSha256": "d39eadae33ae35e0ea60fb09ea74ba733ba0f1ecf2db5f47673ad5e1ce30d872",
+      "compressedSha256": "d0814a3a957d9f500c9ea128b2b0f24e135ada596899d93b24bc6be6ab68fa90",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "藕粉圆",
+      "itemIds": [
+        "flavor-jiangsu-4e8ed3625f"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E8%97%95%E7%B2%89%E5%9C%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/2890e2b6915641c7a7dafbef7e75c8e8.response.gz",
+      "responseSha256": "3c1d3201216f2436415d727ecc1780f2cdc2e5f722df1bcb30636cca4f885d33",
+      "compressedSha256": "b1ed72f7d1b5ef6d17208cc6dc1d22fc2ec8e88d41dcd249572a7f93c07ac6e1",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "光明 莫斯利安",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%85%89%E6%98%8E+%E8%8E%AB%E6%96%AF%E5%88%A9%E5%AE%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/8b65f1a689964ed098f9e800b43d66eb.response.gz",
+      "responseSha256": "a80ae9a5d8d142a22a02b4d27372845c978d2676efa6576f4caa7b1bb3ed297c",
+      "compressedSha256": "433fa469a64a209fad761bc73c2ee01d6b4eb4823c3e38ce48a2f261e2aea14c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "李子园",
+      "itemIds": [
+        "zj-liziyuan"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%9D%8E%E5%AD%90%E5%9B%AD&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/4c0fa0b79e8f4c0e9b0b7fd624fd8193.response.gz",
+      "responseSha256": "9b6b4402338871e374eb2902c10e1b1b44797e50d3f0279226dd6990dbd7c8fa",
+      "compressedSha256": "54807607c63771f55f3ca952a0e8c531a871006b2ffddc28a073432c26978361",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "正广和",
+      "itemIds": [
+        "sh-soda"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E6%AD%A3%E5%B9%BF%E5%92%8C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/bde272936c28454580d9e333e061dec7.response.gz",
+      "responseSha256": "4d3289698f0246974e4703e97bab648f0cb655f20b56cc7d9e876596eb16c395",
+      "compressedSha256": "9b2856095bffcc10721a5feb2d5546f66485cb8ce9b94c2715e1f47d8a4961c9",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "一鸣牛奶",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E4%B8%80%E9%B8%A3%E7%89%9B%E5%A5%B6&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/2803b9ac0c144a2d96c00872065ce337.response.gz",
+      "responseSha256": "2b1c8fc29117170d7d7b1f38d270b3bff30a31eaadf965059c6e94db5520b46b",
+      "compressedSha256": "edec10f1c54c45b112d8b30956f955aee66afae1021152c5d63689d0402c494b",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "牛奶 森林 包装",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E7%89%9B%E5%A5%B6+%E6%A3%AE%E6%9E%97+%E5%8C%85%E8%A3%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/1c2e8ecb2505464e8b230c731e734a10.response.gz",
+      "responseSha256": "0ebd36b6c653a91d23690e9cd880386158ad3ce4d1974be1e0e7ce46a8da4739",
+      "compressedSha256": "49d8a48aefd6c703ff213adfef1c35fc2bfff44e473ee377fa29aff0bc5ed036",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "龙游发糕",
+      "itemIds": [
+        "zj-longyou-fagao"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E9%BE%99%E6%B8%B8%E5%8F%91%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/7ff74dc66d8943ab804e40c0de47e1a3.response.gz",
+      "responseSha256": "9ca5d68891a824878482d555a035d68eded8e731597b54464e508c0b25e46c82",
+      "compressedSha256": "3ab05e21a22856b7ab40287467804c758e71e961ddc2a69afd33994d82c5de20",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "徐州 蛙鱼",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%BE%90%E5%B7%9E+%E8%9B%99%E9%B1%BC&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/5b10d792f7974ffda2e1c1f4d8d1963c.response.gz",
+      "responseSha256": "b0d7d5401f18aa4b101835ffd8cb6e097957a0ef43b6dc911cfeffefbbf8204d",
+      "compressedSha256": "9bdef3debc876fbc388eec7212a518bc000a231f56ade77a95467c2015fd8809",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "徐州 把子肉",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%BE%90%E5%B7%9E+%E6%8A%8A%E5%AD%90%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/3718f763676e49e3b6335f8ddb7687f1.response.gz",
+      "responseSha256": "6c8eb6d5f507791a623e9e4824b445f91b96e21492d35e32b63a8b730deffb8f",
+      "compressedSha256": "df3ff702ff85b1262d6bc71e3d9d2f334bd3210545ef50d7a64b8fbbca6fc477",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "徐州 烙馍",
+      "itemIds": [
+        "flavor-jiangsu-816d7b53b6"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%BE%90%E5%B7%9E+%E7%83%99%E9%A6%8D&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/4520b5c940524357a6d1703166cb192a.response.gz",
+      "responseSha256": "29177a2955927fce6b368bedfcec702f2c38307cee7b7ac1d86ea14734c90b30",
+      "compressedSha256": "ae2bf5342556ef0831d748a290dada9019a19e86f22bdacb35b3cc5059e80f96",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "query": "宁波 烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://www.flickr.com/search/?text=%E5%AE%81%E6%B3%A2+%E7%83%A4%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "not-started-budget",
+      "reason": "Review this pilot before sending more requests.",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-followup-03/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/2010/08/drunken-chicken-legs.html",
+      "query": "Original English drunken-chicken-legs with ingredient bottle photographs",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-03/179616c8114741c98096098a6299b500.response.gz",
+      "responseSha256": "7d235124637342c1bf9373371a6193bb184fd6e9491c2bd7a65b9f12aa70a79c",
+      "compressedSha256": "61bd109579db2b0da77e53806a96ad0a08759df9cadaf1c4a1056929a868c359",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-03/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/2010/08/drunken-chicken.html",
+      "query": "Original English drunken-chicken with ingredient bottle photographs",
+      "itemIds": [
+        "sh-zaolu"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-03/dec7c730035a4ca4bbd3c151780bfb36.response.gz",
+      "responseSha256": "a79980a66f757e08b1acde0df8623119eb6a6b33c2c04f315a03f38200a0a582",
+      "compressedSha256": "efab23374c4cfdfbacd47a62994c7bc13f9080e2c486f06f76d5ad84e8097bcc",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-03/requests.jsonl"
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=601",
+      "query": "Remaining English recipe index",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-source-followup-03/568c872fafcd40bb9be73467837ac378.response.gz",
+      "responseSha256": "73de5a5cce94a752970c5dcd28cd4857ae59c130c410917f01ea9ea30adf9363",
+      "compressedSha256": "e4d427ec8b393fe46c753f91a586465c6f2cf54fa390a22d74cb003620c4e623",
+      "journal": "research/.local/china-photos-20261121-05/recipe-source-followup-03/requests.jsonl"
     }
   ]
 }
