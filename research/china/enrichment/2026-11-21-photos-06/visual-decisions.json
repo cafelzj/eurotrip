@@ -142,6 +142,69 @@
       "reason": "原题名明确南宁万国酒家牛肉老友粉，属同名食品的牛肉版本；全幅实拍汤粉、豆豉与配料可辨，不声称所有老友粉都用牛肉或由照片确认完整配方。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "sg-24b16b0494075bc0e3",
+      "itemName": "凉皮",
+      "candidateId": "liangpi-majiang",
+      "caption": "麻酱凉皮实拍，三碗成品同框。",
+      "reason": "原作者中文直接说明三碗麻酱凉皮，全幅查看前景凉皮与麻酱清楚，背景同类成品构图整洁；作为麻酱版本展示，不声称特定陕西店铺或所有凉皮均为此调味。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-9c5f532e014d619fbd",
+      "itemName": "猪脚姜",
+      "candidateId": "pig-feet-ginger",
+      "caption": "猪脚姜成品实拍，猪脚与鸡蛋同煮。",
+      "reason": "原作者直接命名一碗猪脚姜，全幅成品近景，食材、酱汁与盛器清楚，背景明亮简洁；不由图片补写产后疗效或固定药食作用。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-11f6f84fb0b1cd8671",
+      "itemName": "艇仔粥",
+      "candidateId": "sampan-congee",
+      "caption": "粤式艇仔粥实拍，粥面可见花生与葱花。",
+      "reason": "原作者命名粤式艇仔粥，整体粥面与配料可辨，明亮餐桌成品近景，不把自然白粥调色为更浓艳的颜色，不猜测具体分店。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-2c3b2734b3d0d86d0b",
+      "itemName": "胡辣汤",
+      "candidateId": "henan-hulatang",
+      "caption": "河南风味胡辣汤实拍，热汤与面筋等配料同框。",
+      "reason": "原作者题名河南风味胡辣汤，全幅查看汤品稠度与配料清楚，单碗成品近景，无人物或餐桌杂物挡住主体；不宣称特定镇店铺出品。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-beijing-e43e7bac95",
+      "itemName": "门钉肉饼",
+      "candidateId": "beijing-mending-roubing",
+      "caption": "北京护国寺街餐馆门钉肉饼实拍，摄于2017年。",
+      "reason": "原作者题名对应北京护国寺街餐馆门钉肉饼，并说明牛肉馅；已看全幅，圆柱形肉饼与焦黄表皮清楚，白盘背景简洁。保留拍摄年份，不将旧图作为店铺现营业状态证明。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-eb5a67458ee245dfc5",
+      "itemName": "桂林米粉",
+      "candidateId": "guilin-rice-noodles",
+      "caption": "桂林米粉成品实拍，米粉搭配肉片、酸菜与花生。",
+      "reason": "原文件名与说明直接为桂林米粉，实拍碗中米粉、配料与肉片可辨，近景主体明确、色彩自然。以该份搭配为例，不由图推断所有桂林米粉固定配方。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "regional-04b2f30ecf728e",
+      "itemName": "歙砚",
+      "candidateId": "she-inkstone",
+      "caption": "歙县博物馆藏程瑶田铭歙砚实拍。",
+      "reason": "原作者中文具体标注程瑶田铭歙砚与歙县博物馆收藏，全幅可见砚体、墨池与侧面铭文，按馆藏器物实拍展示，不冒称现代在售商品或当前展陈状态。",
+      "kind": "product",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -189,6 +252,36 @@
       "candidateId": "宣化牛奶葡萄.JPG",
       "reason": "已看全幅，品种主题吻合但曝光灰暗，不调色补救，暂不采用。",
       "viewedContactSheet": true
+    },
+    {
+      "candidateId": "Henan braised noodles.JPG",
+      "reason": "桌面空白多、食物偏右且主体较小，另找更适合封面的成品近景。",
+      "viewedContactSheet": true,
+      "viewedOriginal": false
+    },
+    {
+      "candidateId": "黄焖鸡米饭.jpg",
+      "reason": "已看全幅，砂锅偏暗，鸡肉主体不够清楚，暂不用于美食封面。",
+      "viewedContactSheet": true,
+      "viewedOriginal": true
+    },
+    {
+      "candidateId": "Chaoshan Beef Hot Pot at Baheli Haiji, ZGC1 (20221003132726).jpg",
+      "reason": "整桌火锅席面俯拍，其他物品较多、主体分散，另找更干净的食材或锅中成品近景。",
+      "viewedContactSheet": true,
+      "viewedOriginal": false
+    },
+    {
+      "candidateId": "Cuisine of China 0078.JPG",
+      "reason": "完整元数据实际标香港菜，不能据结构化同名索引挪用于吉林庆岭活鱼。",
+      "viewedContactSheet": false,
+      "viewedOriginal": false
+    },
+    {
+      "candidateId": "Christmas-goose-(Weihnachtsgans) 1.jpg",
+      "reason": "原文件名为德国圣诞烤鹅，不能因结构化烧鹅名称匹配而用于广东烧鹅。",
+      "viewedContactSheet": false,
+      "viewedOriginal": false
     }
   ]
 }

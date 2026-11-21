@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LIANG_PI.jpg",
+      "query": "1 File:LIANG PI.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sg-24b16b0494075bc0e3"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pig_feet_ginger.jpg",
+      "query": "2 File:Pig feet ginger.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-9c5f532e014d619fbd"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cantonese_Sampan_Congee_%28Boat_Congee%29.jpeg",
+      "query": "3 File:Cantonese Sampan Congee (Boat Congee).jpeg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-11f6f84fb0b1cd8671"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Henan_braised_noodles.JPG",
+      "query": "5 File:Henan braised noodles.JPG exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-henan-616e40800e"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/20210708_Henan-style_Hulatang.jpg",
+      "query": "6 File:20210708 Henan-style Hulatang.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "program-2c3b2734b3d0d86d0b"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mending_Roubing_at_a_restaurant_on_Huguosi_St_%2820170522185136%29.jpg",
+      "query": "7 File:Mending Roubing at a restaurant on Huguosi St (20170522185136).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-beijing-e43e7bac95"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD.jpg",
+      "query": "8 File:黄焖鸡米饭.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sd-huangmen-chicken"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin_Rice_Noodle_%29.jpg",
+      "query": "9 File:桂林米粉(Guilin Rice Noodle ).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-eb5a67458ee245dfc5"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sheyan_5313.jpg",
+      "query": "10 File:Sheyan 5313.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "regional-04b2f30ecf728e"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chaoshan_Beef_Hot_Pot_at_Baheli_Haiji%2C_ZGC1_%2820221003132726%29.jpg",
+      "query": "11 File:Chaoshan Beef Hot Pot at Baheli Haiji, ZGC1 (20221003132726).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-07785a6d10c8f0a068"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jiuqu_dachang_2009_03.jpg",
+      "query": "12 File:Jiuqu dachang 2009 03.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sd-intestines"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/20261006_Daokou_Red_Cooked_Chicken.jpg",
+      "query": "13 File:20261006 Daokou Red Cooked Chicken.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-henan-3edb5b0b46"
+      ]
+    }
+  ]
+}

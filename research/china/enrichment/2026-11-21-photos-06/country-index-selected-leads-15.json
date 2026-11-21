@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-21",
+  "source": "research/.local/china-photos-20261121-06/wikidata-exact-leads-13.json",
+  "records": [
+    {
+      "itemId": "regional-6f0ca66101f2a7",
+      "name": "宣纸",
+      "province": "anhui",
+      "city": "宣城",
+      "matchedLabel": "宣纸",
+      "wikidata": "http://www.wikidata.org/entity/Q1053790",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Making%20Xuan%20Paper%20%289974514453%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "sg-24b16b0494075bc0e3",
+      "name": "凉皮",
+      "province": "shaanxi",
+      "city": "西安",
+      "matchedLabel": "凉皮",
+      "wikidata": "http://www.wikidata.org/entity/Q6540048",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LIANG%20PI.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-9c5f532e014d619fbd",
+      "name": "猪脚姜",
+      "province": "guangdong",
+      "city": "佛山",
+      "matchedLabel": "豬腳薑",
+      "wikidata": "http://www.wikidata.org/entity/Q7210540",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pig%20feet%20ginger.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-11f6f84fb0b1cd8671",
+      "name": "艇仔粥",
+      "province": "guangdong",
+      "city": "广州",
+      "matchedLabel": "艇仔粥",
+      "wikidata": "http://www.wikidata.org/entity/Q7212637",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cantonese%20Sampan%20Congee%20%28Boat%20Congee%29.jpeg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-f527ceee478274facc",
+      "name": "端砚",
+      "province": "guangdong",
+      "city": "肇庆",
+      "matchedLabel": "端砚",
+      "wikidata": "http://www.wikidata.org/entity/Q15913668",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duanyan.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "flavor-henan-616e40800e",
+      "name": "烩面",
+      "province": "henan",
+      "city": "郑州",
+      "matchedLabel": "烩面",
+      "wikidata": "http://www.wikidata.org/entity/Q25056585",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henan%20braised%20noodles.JPG",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "program-2c3b2734b3d0d86d0b",
+      "name": "胡辣汤",
+      "province": "henan",
+      "city": "洛阳",
+      "matchedLabel": "胡辣汤",
+      "wikidata": "http://www.wikidata.org/entity/Q5935553",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20210708%20Henan-style%20Hulatang.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "flavor-beijing-e43e7bac95",
+      "name": "门钉肉饼",
+      "province": "beijing",
+      "city": "北京",
+      "matchedLabel": "门钉肉饼",
+      "wikidata": "http://www.wikidata.org/entity/Q10564738",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mending%20Roubing%20at%20a%20restaurant%20on%20Huguosi%20St%20%2820170522185136%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "sd-huangmen-chicken",
+      "name": "黄焖鸡",
+      "province": "shandong",
+      "city": "济南",
+      "matchedLabel": "黄焖鸡",
+      "wikidata": "http://www.wikidata.org/entity/Q48900437",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-eb5a67458ee245dfc5",
+      "name": "桂林米粉",
+      "province": "guangxi",
+      "city": "桂林",
+      "matchedLabel": "桂林米粉",
+      "wikidata": "http://www.wikidata.org/entity/Q11111598",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin%20Rice%20Noodle%20%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "regional-04b2f30ecf728e",
+      "name": "歙砚",
+      "province": "anhui",
+      "city": "黄山",
+      "matchedLabel": "歙砚",
+      "wikidata": "http://www.wikidata.org/entity/Q11123194",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheyan%205313.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-07785a6d10c8f0a068",
+      "name": "潮汕牛肉火锅",
+      "province": "guangdong",
+      "city": "潮州",
+      "matchedLabel": "潮汕牛肉火鍋",
+      "wikidata": "http://www.wikidata.org/entity/Q97278843",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaoshan%20Beef%20Hot%20Pot%20at%20Baheli%20Haiji%2C%20ZGC1%20%2820221003132726%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "sd-intestines",
+      "name": "九转大肠",
+      "province": "shandong",
+      "city": "济南",
+      "matchedLabel": "九转大肠",
+      "wikidata": "http://www.wikidata.org/entity/Q9384742",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiuqu%20dachang%202009%2003.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "flavor-henan-3edb5b0b46",
+      "name": "道口烧鸡",
+      "province": "henan",
+      "city": "安阳",
+      "matchedLabel": "道口烧鸡",
+      "wikidata": "http://www.wikidata.org/entity/Q10552574",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20261006%20Daokou%20Red%20Cooked%20Chicken.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-8d491dff10fe979eee",
+      "name": "瓦罐汤",
+      "province": "jiangxi",
+      "city": "南昌",
+      "matchedLabel": "瓦罐汤",
+      "wikidata": "http://www.wikidata.org/entity/Q3565067",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Waguan.Nanchang%20xiaoguan.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "program-8996116d769e97aaea",
+      "name": "庆岭活鱼",
+      "province": "jilin",
+      "city": "吉林",
+      "matchedLabel": "庆岭活鱼",
+      "wikidata": "http://www.wikidata.org/entity/Q11062733",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuisine%20of%20China%200078.JPG",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "flavor-anhui-44a26dcad2",
+      "name": "淮南牛肉汤",
+      "province": "anhui",
+      "city": "淮南",
+      "matchedLabel": "淮南牛肉汤",
+      "wikidata": "http://www.wikidata.org/entity/Q119431079",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Bowl%20of%20Huainan%20Beef%20Soup.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "flavor-shanxi-8b3df1e8eb",
+      "name": "剔尖",
+      "province": "shanxi",
+      "city": "太原",
+      "matchedLabel": "剔尖",
+      "wikidata": "http://www.wikidata.org/entity/Q10899190",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tijian%20noodles%20at%20a%20Shanxi-style%20restaurant%20in%20Beijing%20%2820251005182240%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "sx-zhuyeqing",
+      "name": "竹叶青酒",
+      "province": "shanxi",
+      "city": "吕梁",
+      "matchedLabel": "竹葉青酒",
+      "wikidata": "http://www.wikidata.org/entity/Q17031311",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chu%20Yeh%20Ching%20Chiew%20in%20glass%20bottle%20%2820191118165928%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "program-df0adb2a02995f9379",
+      "name": "驴打滚",
+      "province": "beijing",
+      "city": "北京",
+      "matchedLabel": "驴打滚",
+      "wikidata": "http://www.wikidata.org/entity/Q17034236",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyu%20Da%20Gun.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "threeprov-7ad0307c23bbdf0297",
+      "name": "陈村粉",
+      "province": "guangdong",
+      "city": "佛山",
+      "matchedLabel": "陳村粉",
+      "wikidata": "http://www.wikidata.org/entity/Q17034484",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steamed%20Chencun%20noodles%20with%20pork%20ribs%20at%20Guangzhou%20Shunde%20Restaurant%2C%20Xibalizhuang%20%2820211123172246%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz"
+    },
+    {
+      "itemId": "bj-lamb-hotpot",
+      "name": "涮羊肉",
+      "province": "beijing",
+      "city": "北京",
+      "matchedLabel": "涮羊肉",
+      "wikidata": "http://www.wikidata.org/entity/Q6038708",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Instant-boiled%20mutton%20hot%20pot%20at%20Yangfang%20Shengli%20%2820200111153612%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/6bfcab7f73f947d5ae16a3be605b5660.response.gz"
+    },
+    {
+      "itemId": "bj-zhizi",
+      "name": "炙子烤肉",
+      "province": "beijing",
+      "city": "北京",
+      "matchedLabel": "炙子烤肉",
+      "wikidata": "http://www.wikidata.org/entity/Q60992501",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhizi%20Kaorou%2C%20mutton%20after%20roasting%20%2820220219182001%29.jpg",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/6bfcab7f73f947d5ae16a3be605b5660.response.gz"
+    },
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "name": "肠粉",
+      "province": "guangdong",
+      "city": "广州",
+      "matchedLabel": "腸粉",
+      "wikidata": "http://www.wikidata.org/entity/Q3275558",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GD%20Rice%20Product%201.JPG",
+      "sourceMetadataFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/6bfcab7f73f947d5ae16a3be605b5660.response.gz"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-sausages/",
+      "query": "广式腊肠 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-7c6da91a81bd4ae4cc"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/biang-biang-mian-biang-biang-noodles/",
+      "query": "biangbiang面 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "sg-6ef828b02943f66944"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/",
+      "query": "肠粉 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ]
+    },
+    {
+      "url": "https://nyu.manifoldapp.org/read/the-recipes/section/78697e52-df45-4eaf-868b-37064b09d98a",
+      "query": "大良双皮奶 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-984ff114967161ee6b"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/198503324@N06/52969944927/",
+      "query": "淮南牛肉汤 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "flavor-anhui-44a26dcad2"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/photos/101561334@N08/9974514453/",
+      "query": "宣纸 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "regional-6f0ca66101f2a7"
+      ]
+    }
+  ]
+}

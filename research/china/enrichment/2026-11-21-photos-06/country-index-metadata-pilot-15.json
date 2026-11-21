@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AMaking+Xuan+Paper+%289974514453%29.jpg%7CFile%3ALIANG+PI.jpg%7CFile%3APig+feet+ginger.jpg%7CFile%3ACantonese+Sampan+Congee+%28Boat+Congee%29.jpeg%7CFile%3ADuanyan.jpg%7CFile%3AHenan+braised+noodles.JPG%7CFile%3A20210708+Henan-style+Hulatang.jpg%7CFile%3AMending+Roubing+at+a+restaurant+on+Huguosi+St+%2820170522185136%29.jpg%7CFile%3A%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD.jpg%7CFile%3A%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin+Rice+Noodle+%29.jpg%7CFile%3ASheyan+5313.jpg%7CFile%3AChaoshan+Beef+Hot+Pot+at+Baheli+Haiji%2C+ZGC1+%2820221003132726%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full actual file metadata for bounded selected Chinese dish and craft leads 0",
+      "itemIds": [
+        "regional-6f0ca66101f2a7",
+        "sg-24b16b0494075bc0e3",
+        "threeprov-9c5f532e014d619fbd",
+        "threeprov-11f6f84fb0b1cd8671",
+        "threeprov-f527ceee478274facc",
+        "flavor-henan-616e40800e",
+        "program-2c3b2734b3d0d86d0b",
+        "flavor-beijing-e43e7bac95",
+        "sd-huangmen-chicken",
+        "threeprov-eb5a67458ee245dfc5",
+        "regional-04b2f30ecf728e",
+        "threeprov-07785a6d10c8f0a068"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AJiuqu+dachang+2009+03.jpg%7CFile%3A20261006+Daokou+Red+Cooked+Chicken.jpg%7CFile%3AWaguan.Nanchang+xiaoguan.jpg%7CFile%3ACuisine+of+China+0078.JPG%7CFile%3AA+Bowl+of+Huainan+Beef+Soup.jpg%7CFile%3ATijian+noodles+at+a+Shanxi-style+restaurant+in+Beijing+%2820251005182240%29.jpg%7CFile%3AChu+Yeh+Ching+Chiew+in+glass+bottle+%2820191118165928%29.jpg%7CFile%3ALyu+Da+Gun.jpg%7CFile%3ASteamed+Chencun+noodles+with+pork+ribs+at+Guangzhou+Shunde+Restaurant%2C+Xibalizhuang+%2820211123172246%29.jpg%7CFile%3AInstant-boiled+mutton+hot+pot+at+Yangfang+Shengli+%2820200111153612%29.jpg%7CFile%3AZhizi+Kaorou%2C+mutton+after+roasting+%2820220219182001%29.jpg%7CFile%3AGD+Rice+Product+1.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full actual file metadata for bounded selected Chinese dish and craft leads 12",
+      "itemIds": [
+        "sd-intestines",
+        "flavor-henan-3edb5b0b46",
+        "threeprov-8d491dff10fe979eee",
+        "program-8996116d769e97aaea",
+        "flavor-anhui-44a26dcad2",
+        "flavor-shanxi-8b3df1e8eb",
+        "sx-zhuyeqing",
+        "program-df0adb2a02995f9379",
+        "threeprov-7ad0307c23bbdf0297",
+        "bj-lamb-hotpot",
+        "bj-zhizi",
+        "threeprov-6d7c55e58bfd184d65"
+      ]
+    }
+  ]
+}

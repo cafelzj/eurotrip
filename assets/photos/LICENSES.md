@@ -1662,3 +1662,59 @@ Source: https://commons.wikimedia.org/wiki/File:Laoyoufen_with_beef_at_Wanguo_Re
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-liangpi-majiang.jpg
+
+Author: Jucember
+Source: https://commons.wikimedia.org/wiki/File:LIANG_PI.jpg
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/LIANG_PI.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-pig-feet-ginger.jpg
+
+Author: Pokman817
+Source: https://commons.wikimedia.org/wiki/File:Pig_feet_ginger.jpg
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/9/93/Pig_feet_ginger.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-sampan-congee.jpg
+
+Author: ZhengZhou
+Source: https://commons.wikimedia.org/wiki/File:Cantonese_Sampan_Congee_(Boat_Congee).jpeg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/20/Cantonese_Sampan_Congee_%28Boat_Congee%29.jpeg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-henan-hulatang.jpg
+
+Author: Windmemories
+Source: https://commons.wikimedia.org/wiki/File:20210708_Henan-style_Hulatang.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f9/20210708_Henan-style_Hulatang.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-beijing-mending-roubing.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Mending_Roubing_at_a_restaurant_on_Huguosi_St_(20170522185136).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/3/35/Mending_Roubing_at_a_restaurant_on_Huguosi_St_%2820170522185136%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-guilin-rice-noodles.jpg
+
+Author: Flickr user gigijin
+Source: https://commons.wikimedia.org/wiki/File:%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89(Guilin_Rice_Noodle_).jpg
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin_Rice_Noodle_%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-she-inkstone.jpg
+
+Author: Doctoroftcm
+Source: https://commons.wikimedia.org/wiki/File:Sheyan_5313.jpg
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/1/15/Sheyan_5313.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

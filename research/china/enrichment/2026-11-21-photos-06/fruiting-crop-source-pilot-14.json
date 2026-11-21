@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Morella+rubra&term_id=12&term_value_id=14&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Morella rubra fruiting observations in Jiangzhehu bounding region; verify public actual locality and fruit before adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Prunus+persica&term_id=12&term_value_id=14&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Prunus persica fruiting observations in Jiangzhehu bounding region; verify public actual locality and fruit before adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://help.inaturalist.org/en/support/solutions/articles/151000170738-how-to-use-inaturalist-search-urls",
+      "query": "Primary explanation of photo licence, place filtering and flower/fruit annotation search parameters",
+      "itemIds": []
+    }
+  ]
+}

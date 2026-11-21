@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Duanyan.jpg",
+      "query": "Read complete original author and source statement; machine field omitted",
+      "itemIds": [
+        "threeprov-f527ceee478274facc"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:GD_Rice_Product_1.JPG",
+      "query": "Read complete original author and source statement; machine field omitted",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ]
+    }
+  ]
+}

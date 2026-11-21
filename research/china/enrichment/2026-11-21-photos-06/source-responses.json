@@ -51,6 +51,222 @@
       "journal": "research/.local/china-photos-20261121-06/community-recipe-source-pilot-04/requests.jsonl"
     },
     {
+      "url": "https://commons.wikimedia.org/wiki/File:Duanyan.jpg",
+      "query": "Read complete original author and source statement; machine field omitted",
+      "itemIds": [
+        "threeprov-f527ceee478274facc"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-author-followup-17/6181e3653eff43238147f61bc9b4c99b.response.gz",
+      "responseSha256": "afda6e3442ea2d7db88659e54fd3de3245cd6c72da393033ba0d12bd3c8d2a67",
+      "compressedSha256": "50fa1c5949b5fbc663ca379627c8b2ce48d8c58c4475160d4e1e178bf1f1d126",
+      "journal": "research/.local/china-photos-20261121-06/country-index-author-followup-17/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:GD_Rice_Product_1.JPG",
+      "query": "Read complete original author and source statement; machine field omitted",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-author-followup-17/b0933cac35e64e7aa6a11c3a1e1198c1.response.gz",
+      "responseSha256": "62cab143f945a1cdfa93b6824c465ef3f87ea878dd9f95e74a5b701f63fb265a",
+      "compressedSha256": "cf80d2568ca8177b67a082c7dd20a905ae5aeea3e7697f47ce33f531651bf887",
+      "journal": "research/.local/china-photos-20261121-06/country-index-author-followup-17/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AMaking+Xuan+Paper+%289974514453%29.jpg%7CFile%3ALIANG+PI.jpg%7CFile%3APig+feet+ginger.jpg%7CFile%3ACantonese+Sampan+Congee+%28Boat+Congee%29.jpeg%7CFile%3ADuanyan.jpg%7CFile%3AHenan+braised+noodles.JPG%7CFile%3A20210708+Henan-style+Hulatang.jpg%7CFile%3AMending+Roubing+at+a+restaurant+on+Huguosi+St+%2820170522185136%29.jpg%7CFile%3A%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD.jpg%7CFile%3A%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin+Rice+Noodle+%29.jpg%7CFile%3ASheyan+5313.jpg%7CFile%3AChaoshan+Beef+Hot+Pot+at+Baheli+Haiji%2C+ZGC1+%2820221003132726%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full actual file metadata for bounded selected Chinese dish and craft leads 0",
+      "itemIds": [
+        "regional-6f0ca66101f2a7",
+        "sg-24b16b0494075bc0e3",
+        "threeprov-9c5f532e014d619fbd",
+        "threeprov-11f6f84fb0b1cd8671",
+        "threeprov-f527ceee478274facc",
+        "flavor-henan-616e40800e",
+        "program-2c3b2734b3d0d86d0b",
+        "flavor-beijing-e43e7bac95",
+        "sd-huangmen-chicken",
+        "threeprov-eb5a67458ee245dfc5",
+        "regional-04b2f30ecf728e",
+        "threeprov-07785a6d10c8f0a068"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "responseSha256": "ffa6d32be60046c9a5da15e3740e434f19cf2b43c0d29ba3aa1fba1d25aa4b00",
+      "compressedSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "journal": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AJiuqu+dachang+2009+03.jpg%7CFile%3A20261006+Daokou+Red+Cooked+Chicken.jpg%7CFile%3AWaguan.Nanchang+xiaoguan.jpg%7CFile%3ACuisine+of+China+0078.JPG%7CFile%3AA+Bowl+of+Huainan+Beef+Soup.jpg%7CFile%3ATijian+noodles+at+a+Shanxi-style+restaurant+in+Beijing+%2820251005182240%29.jpg%7CFile%3AChu+Yeh+Ching+Chiew+in+glass+bottle+%2820191118165928%29.jpg%7CFile%3ALyu+Da+Gun.jpg%7CFile%3ASteamed+Chencun+noodles+with+pork+ribs+at+Guangzhou+Shunde+Restaurant%2C+Xibalizhuang+%2820211123172246%29.jpg%7CFile%3AInstant-boiled+mutton+hot+pot+at+Yangfang+Shengli+%2820200111153612%29.jpg%7CFile%3AZhizi+Kaorou%2C+mutton+after+roasting+%2820220219182001%29.jpg%7CFile%3AGD+Rice+Product+1.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full actual file metadata for bounded selected Chinese dish and craft leads 12",
+      "itemIds": [
+        "sd-intestines",
+        "flavor-henan-3edb5b0b46",
+        "threeprov-8d491dff10fe979eee",
+        "program-8996116d769e97aaea",
+        "flavor-anhui-44a26dcad2",
+        "flavor-shanxi-8b3df1e8eb",
+        "sx-zhuyeqing",
+        "program-df0adb2a02995f9379",
+        "threeprov-7ad0307c23bbdf0297",
+        "bj-lamb-hotpot",
+        "bj-zhizi",
+        "threeprov-6d7c55e58bfd184d65"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "responseSha256": "7e219d50a222cb357b96b16cb0e859de19e9ec3f7bcc33b55a5179170446d870",
+      "compressedSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "journal": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LIANG_PI.jpg",
+      "query": "1 File:LIANG PI.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sg-24b16b0494075bc0e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/853080d200fd4a8ba81134ab40ab94f5.response.gz",
+      "responseSha256": "d881565d1a1e51bc53afcb1f113f0f7c5eeae1c456786b02462aa74cd084b90f",
+      "compressedSha256": "2e4a8ea8909c3232171f0114b73788692d08d4860e5e94e1e195550e79e41829",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pig_feet_ginger.jpg",
+      "query": "2 File:Pig feet ginger.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-9c5f532e014d619fbd"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/ebdd55b7d58547a7ba42387f8dd04bdc.response.gz",
+      "responseSha256": "46660b53fe2947a216e4959beff134ce68016402abe5e3f49b530bab9c6774ec",
+      "compressedSha256": "36898a00e93628817f77c77a38cf53061babe5a5d9fc8f579f9ae28a79996620",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cantonese_Sampan_Congee_%28Boat_Congee%29.jpeg",
+      "query": "3 File:Cantonese Sampan Congee (Boat Congee).jpeg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-11f6f84fb0b1cd8671"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/6533ab555c004416b06db70c37db4645.response.gz",
+      "responseSha256": "55d3ed1c4502fd1e6787b0a7e3e516e6db6519647f2efcaa2d35e055d79442b4",
+      "compressedSha256": "2a0902ae42db8ae1c9b37074f0414c59e183ead42d038c748630f078386a7201",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Henan_braised_noodles.JPG",
+      "query": "5 File:Henan braised noodles.JPG exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-henan-616e40800e"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/0048ea07617942659e5b0b4da9ddd970.response.gz",
+      "responseSha256": "ed7b93f2eb788a752d81fef81fb4cd2052972d1f0aa23042d5d59a1e9d0ce1a9",
+      "compressedSha256": "256ece6dfbfe3975d1dcc83954484014e952c5c7a0fbbb8b2367670739f20bbb",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/20210708_Henan-style_Hulatang.jpg",
+      "query": "6 File:20210708 Henan-style Hulatang.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "program-2c3b2734b3d0d86d0b"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/d129371c94b64c92b4c2f64edbdc8082.response.gz",
+      "responseSha256": "d9854c2d9f180a111c973f13eb0111e22e7350f7f1473e4862cfd6b0a8912e7b",
+      "compressedSha256": "da33dd97cc25f8db450554e981c7a5498cf622619c7ff348645fa13dfe044601",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mending_Roubing_at_a_restaurant_on_Huguosi_St_%2820170522185136%29.jpg",
+      "query": "7 File:Mending Roubing at a restaurant on Huguosi St (20170522185136).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-beijing-e43e7bac95"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/a1587f20e8554f24a2caa90b6ced2e3d.response.gz",
+      "responseSha256": "b11b84625bf9a579283904d738e75a3dcbd1bf9865f5592d459cd929a493d91a",
+      "compressedSha256": "7363a5d34ac509b33ea5a011cc1d67875c722622502ae044ce80992ac49e75ca",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD.jpg",
+      "query": "8 File:黄焖鸡米饭.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sd-huangmen-chicken"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/3811f67a0b28403bb9664fb6e3e24ef9.response.gz",
+      "responseSha256": "9f5b14d4f9be15c23eed78637b13a6a5ec493dd1431e8724ba14250d35ace2c2",
+      "compressedSha256": "86898d2ab8a9f4e3eac81bcee5d3d7566e6678058f786608f6e3d0745e252b20",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin_Rice_Noodle_%29.jpg",
+      "query": "9 File:桂林米粉(Guilin Rice Noodle ).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-eb5a67458ee245dfc5"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/93ceeca2aeb147a287bcdb4da6d30f01.response.gz",
+      "responseSha256": "de070f940d533590c08fccc88aecff88b1fd3a553d37a089b7121d3e9786ff18",
+      "compressedSha256": "e01c8b0cf6709a7424f997f492d1ddce2b36ec62eef16144b8c78ea6826bbccb",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sheyan_5313.jpg",
+      "query": "10 File:Sheyan 5313.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "regional-04b2f30ecf728e"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/3826e3d1f18b445f9e47b562ea2089d1.response.gz",
+      "responseSha256": "0b546507ac5bc9e621c491418e67ccb2629457750dc3eb9bc5258f7bdcbde6b7",
+      "compressedSha256": "ac4f5cf7639f0c3b8ae60b88df35d72804986c6e6ebd6aceda772b1140160e7e",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Chaoshan_Beef_Hot_Pot_at_Baheli_Haiji%2C_ZGC1_%2820221003132726%29.jpg",
+      "query": "11 File:Chaoshan Beef Hot Pot at Baheli Haiji, ZGC1 (20221003132726).jpg exact original photo; review before adoption",
+      "itemIds": [
+        "threeprov-07785a6d10c8f0a068"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/0fe8b97d0e984782ab4d41977085bd77.response.gz",
+      "responseSha256": "e80f84f65da3d5f0482179257d76dc98f78efa8d71dcb26696a617a3ac91673d",
+      "compressedSha256": "87c62deb8f874b019517673c9393782631f7ad5cba25a7dfd94da343f112fc1f",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jiuqu_dachang_2009_03.jpg",
+      "query": "12 File:Jiuqu dachang 2009 03.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "sd-intestines"
+      ],
+      "status": "http-error",
+      "httpStatus": 429,
+      "error": "HTTP Error 429: Too Many Requests",
+      "retryAfter": "600",
+      "deferUntilEpoch": 1795240657.8555892,
+      "responseFile": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/0413e920a8ac4e779ae7ba275b600358.response.gz",
+      "responseSha256": "3eb9b0c127a101dabcb48ddef6c5866aab995b3ed4ed804a5a9ba5c1c40676b3",
+      "compressedSha256": "78dda97a536b4b4f7a7ba91cd554e19b616c067d495efeff403a7bce414dcc6d",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/20261006_Daokou_Red_Cooked_Chicken.jpg",
+      "query": "13 File:20261006 Daokou Red Cooked Chicken.jpg exact original photo; review before adoption",
+      "itemIds": [
+        "flavor-henan-3edb5b0b46"
+      ],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/country-index-originals-pilot-16/requests.jsonl"
+    },
+    {
       "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3AGaizai+crackers.jpg%7CFile%3ALitchi+Pork.jpg%7CFile%3AQuanzhou-style+Kiu%E2%81%BF-b%C3%B3-ah+%28Ginger+Duck%29+at+Yipin+Xiangqing+Restaurant%2C+Beijing+%2820240908174515%29.jpg%7CFile%3A%E7%94%9C%E6%B2%AB+202509.jpg%7CFile%3AMianwo.JPG%7CFile%3AMaofeng+%28medium+grade%2C+spring+2007%29.jpg%7CFile%3AKeemun+FTGFOP+%281%29.JPG%7CFile%3AQimen+Hao+Ya.jpg%7CFile%3APigCake.jpg%7CFile%3ATaigubing.JPG%7CFile%3A%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg%7CFile%3A%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG%7CFile%3AHofanUpClose.jpg%7CFile%3ASingle+Dezhou+braised+chicken+wrapped+in+paper+%2820170115132902%29.jpg%7CFile%3AXinyang+Maojian.jpg%7CFile%3ADatong+Fideos.jpg%7CFile%3ALaoyoufen+with+beef+at+Wanguo+Restaurant%2C+Nanning+%2820240216205412%29.jpg",
       "query": "Existing saved exact-name national food photo leads: read full actual file metadata, no automatic adoption",
       "itemIds": [
@@ -336,6 +552,36 @@
       "responseSha256": "3a6cb959860dc5e52227572391ac2fe58954d6b6f0f6e183a6500170ee6316a3",
       "compressedSha256": "e4943ae14fd877668255b12f2bbaaf2dd2db2c04783db498a999fe9ced14fb5c",
       "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Morella+rubra&term_id=12&term_value_id=14&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Morella rubra fruiting observations in Jiangzhehu bounding region; verify public actual locality and fruit before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/c83620325b4c44089bd6c4e08bcfd65f.response.gz",
+      "responseSha256": "06bc2f24157f36b3b2c4902906a6d4a727a068c51366f0f58725bba69136f7e3",
+      "compressedSha256": "e646668a673d908d3f086a4121ba76d03464e524a75252e19dc240c0cd0d4882",
+      "journal": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/requests.jsonl"
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Prunus+persica&term_id=12&term_value_id=14&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Prunus persica fruiting observations in Jiangzhehu bounding region; verify public actual locality and fruit before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/47cc9619cb784458a4ea94b068ff3d86.response.gz",
+      "responseSha256": "86ebaf94e5d8a545492b489036f1b661e36125c8f9631d979e1d3c352662d3f8",
+      "compressedSha256": "cac303e9e4ef8cd2c0e9b587d55749cf701208b26f2cfdb0b1f6856c38a6f97d",
+      "journal": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/requests.jsonl"
+    },
+    {
+      "url": "https://help.inaturalist.org/en/support/solutions/articles/151000170738-how-to-use-inaturalist-search-urls",
+      "query": "Primary explanation of photo licence, place filtering and flower/fruit annotation search parameters",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/4a74c0e3935d45a1a1bf261596735eef.response.gz",
+      "responseSha256": "009be0e7413799bc16e901483e6adf8e09706c8cf0d55f5331617dd5f2d6838f",
+      "compressedSha256": "ef7f0ed8035a75408bf95e7fcb7872553b7e402736d33b16aa66073d7c6308fa",
+      "journal": "research/.local/china-photos-20261121-06/fruiting-crop-source-pilot-14/requests.jsonl"
     },
     {
       "url": "https://www.chinasichuanfood.com/szechuan-dumplings-zhong-dumplings/",
@@ -802,6 +1048,34 @@
       "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
     },
     {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP495+wd%3AQ148%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+1500&format=json",
+      "query": "Existing-origin index, match exact actual card names before any photo adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/1044f052fa1d4f8eba4f3fe7d0fe3f19.response.gz",
+      "responseSha256": "b045f48c7c2fa29767a11ec7a83d37ea8369c8c27a003324645e89625b3c8f75",
+      "compressedSha256": "aa69a69dc69a6fa7922f2b3a20554ca948231ee7d7d66405ecf9eec379be1a54",
+      "journal": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP279%2A+wd%3AQ746549%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+1000&format=json",
+      "query": "Bounded dish-type index complementing earlier food-instance index",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/6bfcab7f73f947d5ae16a3be605b5660.response.gz",
+      "responseSha256": "fd2777faabd9b4e1eb5240e817701caeec4c7efbbfc3a46e24b23c7381185216",
+      "compressedSha256": "ef8d5f2731ca22cff4d12d5ccb328eb105385eed59bb7989a7d45163088c4ab3",
+      "journal": "research/.local/china-photos-20261121-06/wikidata-bounded-index-followup-13/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP279%2A+wd%3AQ2095%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+3000&format=json",
+      "query": "Complement existing instance index with food-type subclass image references; match current cards, no automatic photo adoption",
+      "itemIds": [],
+      "status": "request-error",
+      "error": "The read operation timed out",
+      "journal": "research/.local/china-photos-20261121-06/wikidata-food-types-pilot-12/requests.jsonl"
+    },
+    {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/YAKULT_PRODUCTS_IN_CHINA.jpg",
       "query": "File:YAKULT PRODUCTS IN CHINA.jpg inspect exact ordinary vs low sugar product label",
       "itemIds": [
@@ -824,6 +1098,78 @@
       "responseSha256": "759db333e3d1c1ac88bd34ca1dd5ef9dd305ee851bbb20d7e90ea9185bddb09f",
       "compressedSha256": "26df764f8a0c8ea2addc429db687c30321521816b91267378fcd877a9b9a8981",
       "journal": "research/.local/china-photos-20261121-06/yakult-low-sugar-photo-pilot-10/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-sausages/",
+      "query": "广式腊肠 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-7c6da91a81bd4ae4cc"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/444461ee8983463f8173551c0c14e644.response.gz",
+      "responseSha256": "fdfc5df3dd636f50ee5148a041bdc0bac8b0443f07612f7737b10a08f5dbb14c",
+      "compressedSha256": "b17e43e550efe7ab8c8a0f89b9c66c454410b748f2f1ea81142f26564e6ccdcd",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/biang-biang-mian-biang-biang-noodles/",
+      "query": "biangbiang面 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "sg-6ef828b02943f66944"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/e50228850a8045e0b6c4362ed8503906.response.gz",
+      "responseSha256": "5ba0d624a6c9d4c72bdf7227edd70e53987bc06d2b5e4df273fb92769e5763d5",
+      "compressedSha256": "a0dda868882f67a93bb6a95bf1c959f5c063926ddf7d41fa0418aaefed6d7c34",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/",
+      "query": "肠粉 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/65198f1c8b984191ae1ee051464d4e20.response.gz",
+      "responseSha256": "c3046641f614afb0c554436c357a0da2cda61bc4b97c40b6b677255f1b3fa653",
+      "compressedSha256": "2027fe8064c71fe3b3f52ba5c929ef7918a0bf14f2b1a29fe5edbe3e6b57168f",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
+    },
+    {
+      "url": "https://nyu.manifoldapp.org/read/the-recipes/section/78697e52-df45-4eaf-868b-37064b09d98a",
+      "query": "大良双皮奶 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "threeprov-984ff114967161ee6b"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/7ecb965f9d05497e97afd6a08f06f5a9.response.gz",
+      "responseSha256": "fef1a415d7aab49773c1062091f680fc918c90edf9f9cd13416219a87b497e70",
+      "compressedSha256": "2bb53c16da66a3d764d2fd160c02a6ba8d8fb2f1674e79399811be587de2e36c",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/198503324@N06/52969944927/",
+      "query": "淮南牛肉汤 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "flavor-anhui-44a26dcad2"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/4e5dda7abee74e2cae20ee0c3db5bbf3.response.gz",
+      "responseSha256": "f088e17ab809f7460b77da6f88aca93dc2cb19f54dd9322a917d44a53f1acb6d",
+      "compressedSha256": "74a94f18578beac8f4cbae7435a47b4717e67c5459df70f8b0ba8031fde64771",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/101561334@N08/9974514453/",
+      "query": "宣纸 full original source, subject and licence; no automatic adoption",
+      "itemIds": [
+        "regional-6f0ca66101f2a7"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/original-source-followup-18/1370db198afe41ff85e26eb3b30e4aee.response.gz",
+      "responseSha256": "2b0b8ba65d5d367eca8a18d2fe342c387c73b3f3ea62affa43483472f2603452",
+      "compressedSha256": "7ccd6fa75c87368ee3b38afd1847db69cb6261a7df81b66ef242c7541c1bdd92",
+      "journal": "research/.local/china-photos-20261121-06/original-source-followup-18/requests.jsonl"
     }
   ]
 }

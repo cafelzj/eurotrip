@@ -304,6 +304,125 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "liangpi-majiang",
+      "title": "LIANG PI.jpg",
+      "itemIds": [
+        "sg-24b16b0494075bc0e3"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-1.jpg",
+      "rawSha256": "d881565d1a1e51bc53afcb1f113f0f7c5eeae1c456786b02462aa74cd084b90f",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Jucember",
+      "source": "https://commons.wikimedia.org/wiki/File:LIANG_PI.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LIANG_PI.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "pig-feet-ginger",
+      "title": "Pig feet ginger.jpg",
+      "itemIds": [
+        "threeprov-9c5f532e014d619fbd"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-2.jpg",
+      "rawSha256": "46660b53fe2947a216e4959beff134ce68016402abe5e3f49b530bab9c6774ec",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Pokman817",
+      "source": "https://commons.wikimedia.org/wiki/File:Pig_feet_ginger.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pig_feet_ginger.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "sampan-congee",
+      "title": "Cantonese Sampan Congee (Boat Congee).jpeg",
+      "itemIds": [
+        "threeprov-11f6f84fb0b1cd8671"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-3.jpg",
+      "rawSha256": "55d3ed1c4502fd1e6787b0a7e3e516e6db6519647f2efcaa2d35e055d79442b4",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "ZhengZhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Cantonese_Sampan_Congee_(Boat_Congee).jpeg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cantonese_Sampan_Congee_%28Boat_Congee%29.jpeg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "henan-hulatang",
+      "title": "20210708 Henan-style Hulatang.jpg",
+      "itemIds": [
+        "program-2c3b2734b3d0d86d0b"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-6.jpg",
+      "rawSha256": "d9854c2d9f180a111c973f13eb0111e22e7350f7f1473e4862cfd6b0a8912e7b",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Windmemories",
+      "source": "https://commons.wikimedia.org/wiki/File:20210708_Henan-style_Hulatang.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/f/f9/20210708_Henan-style_Hulatang.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "beijing-mending-roubing",
+      "title": "Mending Roubing at a restaurant on Huguosi St (20170522185136).jpg",
+      "itemIds": [
+        "flavor-beijing-e43e7bac95"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-7.jpg",
+      "rawSha256": "b11b84625bf9a579283904d738e75a3dcbd1bf9865f5592d459cd929a493d91a",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Mending_Roubing_at_a_restaurant_on_Huguosi_St_(20170522185136).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mending_Roubing_at_a_restaurant_on_Huguosi_St_%2820170522185136%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "guilin-rice-noodles",
+      "title": "桂林米粉(Guilin Rice Noodle ).jpg",
+      "itemIds": [
+        "threeprov-eb5a67458ee245dfc5"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-9.jpg",
+      "rawSha256": "de070f940d533590c08fccc88aecff88b1fd3a553d37a089b7121d3e9786ff18",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Flickr user gigijin",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89(Guilin_Rice_Noodle_).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E6%A1%82%E6%9E%97%E7%B1%B3%E7%B2%89%28Guilin_Rice_Noodle_%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "id": "she-inkstone",
+      "title": "Sheyan 5313.jpg",
+      "itemIds": [
+        "regional-04b2f30ecf728e"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-10.jpg",
+      "rawSha256": "0b546507ac5bc9e621c491418e67ccb2629457750dc3eb9bc5258f7bdcbde6b7",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Doctoroftcm",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheyan_5313.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sheyan_5313.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     }
   ]
 }

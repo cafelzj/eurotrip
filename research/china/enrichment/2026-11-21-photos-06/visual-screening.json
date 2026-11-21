@@ -100,6 +100,47 @@
     {
       "file": "research/.local/china-photos-20261121-06/yakult-review-1.jpg",
       "sha256": "f420461a6fff53fe0ec131551e8814bb80e3436e107f8f7e3df287925473581a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-contact-16-1.jpg",
+      "sha256": "4640a105ae6776423d6904b144975d3b02902c6a256b486cf34ec7d27d285293"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-contact-16-2.jpg",
+      "sha256": "d613215ea415aeae95762973a6968c203ce206fee37d1624be466740182d8be9"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-1.jpg",
+      "sha256": "832d48124776979886d6167b6ef2936fd3b3d58685220499342970942d49af48"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-2.jpg",
+      "sha256": "7ae0c8aa225ea5ad5119b47075084306ebf8432bbc977dbbfd7553b675ad35d1"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-3.jpg",
+      "sha256": "44adfc3a2f0bb13d18bcffa1207369f9d89434f42935c239e4b420ce48aa53dc"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-6.jpg",
+      "sha256": "2da314db092174c49c2eea37e05045a87ff05bf3984ff6bcffb47ecc0a185084"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-7.jpg",
+      "sha256": "9d2518655a7eb5b6d87e737f628db414a44de5149f6183c988523fe6d03e0bfa"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-8.jpg",
+      "sha256": "878b27504b9c6ea106b5f6f4637abbfaae14a55913ff7d19646d565e82479ee2"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-9.jpg",
+      "sha256": "71218688c6bd4fa92764dc4c17406822004ac324195f7102ac1db6fcffd52254"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-10.jpg",
+      "sha256": "78c8a0910e66989d722f8adff8cbeb54f7e356c67a3627456fbad162d7a6cf8c"
     }
-  ]
+  ],
+  "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"
 }

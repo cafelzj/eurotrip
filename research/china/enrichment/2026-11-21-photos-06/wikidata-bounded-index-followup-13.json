@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP495+wd%3AQ148%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+1500&format=json",
+      "query": "Existing-origin index, match exact actual card names before any photo adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP279%2A+wd%3AQ746549%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+1000&format=json",
+      "query": "Bounded dish-type index complementing earlier food-instance index",
+      "itemIds": []
+    }
+  ]
+}
