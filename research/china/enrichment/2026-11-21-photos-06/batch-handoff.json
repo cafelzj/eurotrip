@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-21",
+  "lastPhotoCommit": "045b92d261fbf82b41427fcfb166585ea41338ac",
+  "adoptedPhotos": 51,
+  "jzyWithPhotoAtHandoff": 254,
+  "jzyMissingAtHandoff": 727,
+  "taskComplete": false,
+  "nextBatch": "research/china/enrichment/2026-11-21-photos-07",
+  "rawEvidencePreservedAt": "research/.local/china-photos-20261121-06",
+  "validation": "PASS51 reviewed photos, immutable baseline data, source hashes, ND bytes, author permissions, mobile lists/details and three browsing modes before text correction."
+}

@@ -55893,19 +55893,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-hunan-c24cf1013a",
-      "name": "东安鸡",
-      "province": "hunan",
-      "city": "永州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 320,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-0dc0f60b0736516657",
       "name": "金甲岭萝卜",
       "province": "hunan",
@@ -65756,6 +65743,19 @@
       "readingCharacters": 353,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
+      "imageStatus": "missing-real-photo",
+      "priority": 1
+    },
+    {
+      "itemId": "flavor-hunan-c24cf1013a",
+      "name": "东安鸡",
+      "province": "hunan",
+      "city": "永州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 353,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": "2026-11-21-photos-07",
       "imageStatus": "missing-real-photo",
       "priority": 1
     },

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-21",
+  "records": [
+    {
+      "url": "https://whhlyt.hunan.gov.cn/news/mtjj/202007/t20200714_12787115.html",
+      "query": "Read actual provincial culture/tourism department section on Dong-an chicken dish, ginger, chilli and rice vinegar; exclude legends and medical claims",
+      "itemIds": [
+        "flavor-hunan-c24cf1013a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/dongan-correction-sources/6074ee76532a4c809a3adc7e0ca50fed.response.gz",
+      "responseSha256": "e3f6818beecae6744a3e2b69b9aa9d8771b1b457cf547a406fd0ad84b6de45df",
+      "compressedSha256": "f6f41038bd4b02622908e29c698cd637efaeb785bef3d6079c8e8cebce3e7d91"
+    },
+    {
+      "url": "https://www.yzcity.gov.cn/wlgtj/ly0101/202302/b0893e5e1a0f456a8ce7d660edd697fc.shtml",
+      "query": "Read actual Yongzhou culture/tourism report distinguishing prepared Dong-an chicken dish from living GI poultry, ingredients ginger/rice vinegar",
+      "itemIds": [
+        "flavor-hunan-c24cf1013a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/dongan-correction-sources/d496a70ced7447a9a7313f5b61e9cb93.response.gz",
+      "responseSha256": "d1e11dbe2ea029f29e387ffcdabaa9fe7154feae6d0bd1f382b4dced9ea15078",
+      "compressedSha256": "ebf9c451bbba604ccd749f24d9ff42e48fd9cd4f9e9179d0c604e8c1b014ea83"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/943f90b632634ca4977388fa450fcbcb.response.gz",
+      "responseSha256": "2488f0a0b9fb3b33ebe59769be31709f6fe3baaeae78e50ca3bc38e9da08192b",
+      "compressedSha256": "d907942aae543062e9a985a0fe6a2b0ec73447ca03b07c1e173713b77cd20964"
+    }
+  ]
+}

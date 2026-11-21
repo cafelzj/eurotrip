@@ -1,5 +1,5 @@
-/* Reviewed Chinese reading enrichments; original research records remain intact. */
-window.chinaCardReading={
+/* Reviewed Chinese reading enrichment; original catalog text is retained in data/flavors.js. */
+window.chinaCardReading = {
   "bj-roast-duck": {
     "batch": "2026-11-15-national-01",
     "summary": "北京烤鸭的看点，是一只鸭子从制坯到片鸭的整套手艺。填鸭经过清理、整理鸭坯、晾皮、上饴等处理，再进入烤炉；成品追求鸭皮香酥、鸭肉细嫩，而不是单靠浓厚酱汁取味。",
@@ -373,6 +373,30 @@ window.chinaCardReading={
       [
         "https://gz.people.com.cn/n2/2023/0613/c222152-40455079.html",
         "中国味道｜贵阳传统小吃：丝娃娃"
+      ]
+    ]
+  },
+  "flavor-hunan-c24cf1013a": {
+    "batch": "2026-11-21-photos-07",
+    "summary": "东安鸡以鸡肉配姜椒和米醋，微酸微辣、鲜嫩辛香，是湖南永州东安的地方湘菜。",
+    "text": "东安鸡是与湖南永州东安相联系的湘菜，也常写作“东安子鸡”。它以鸡肉为主体，米醋带出微酸，生姜和辣椒形成辛香，入口兼有鸡肉的鲜味与酸辣层次。地方文旅介绍将仔鸡、葱姜、干椒、酒和米醋列为认识这道菜的重要线索，风味不只取决于辣椒的多少。\n\n制作时要兼顾鸡肉的嫩度与调味的融合。家常版本有先把鸡预煮、切成小块，再将姜椒等炒出香气、加入鸡块和醋继续烹制的做法；配少量鸡汤，让肉与调味相互结合。不同厨家的切块、配椒和收汁方式可以有差异，不能把一份家常食谱当作所有餐馆的统一配方。\n\n品尝时可以留意醋香是否清楚、姜椒是否突出，以及鸡肉是否仍有鲜嫩口感。当地的餐饮、养殖和预制菜产业都使用“东安鸡”这个名称，因此要分清成菜与原料：同名鸡产品的品种、放养方式和养殖密度，属于原料生产资料，不能直接当作这道酸辣鸡肴的制作说明。",
+    "sourceIds": [
+      "photos-07-dongan-hunan-culture",
+      "photos-07-dongan-yongzhou",
+      "photos-07-dongan-home-recipe"
+    ],
+    "sources": [
+      [
+        "https://whhlyt.hunan.gov.cn/news/mtjj/202007/t20200714_12787115.html",
+        "湖南省文化和旅游厅：东安子鸡原料与微酸微辣风味"
+      ],
+      [
+        "https://www.yzcity.gov.cn/wlgtj/ly0101/202302/b0893e5e1a0f456a8ce7d660edd697fc.shtml",
+        "永州市文化旅游广电体育局：东安鸡菜肴与地方产业"
+      ],
+      [
+        "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+        "Elaine：东安鸡家常做法"
       ]
     ]
   }

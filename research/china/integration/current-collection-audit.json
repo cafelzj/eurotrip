@@ -10,7 +10,7 @@
   "retainedPhotoCards": 67,
   "canonicalChinaPhotoCards": 358,
   "canonicalChinaListPhotoCards": 345,
-  "enrichedChineseCards": 24,
+  "enrichedChineseCards": 25,
   "reviewedReadingUpdates": [
     {
       "id": "bj-roast-duck",
@@ -155,6 +155,12 @@
       "batch": "2026-11-15-national-01",
       "summaryChanged": true,
       "detailsCharacters": 384
+    },
+    {
+      "id": "flavor-hunan-c24cf1013a",
+      "batch": "2026-11-21-photos-07",
+      "summaryChanged": true,
+      "detailsCharacters": 353
     }
   ],
   "missingIds": [],
@@ -169,7 +175,7 @@
     },
     {
       "path": "data/china-card-reading.js",
-      "sha256": "1dbb8910b3b841104e5afc8b8cc58647365f8688415aa96f0c83edfdf4f84fd0"
+      "sha256": "8c62120c88f7e35e861befd2eb4b536c9bd5ca40e6da0b9a8a84afcbf2bbe6e6"
     },
     {
       "path": "data/flavors.js",

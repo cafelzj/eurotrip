@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://whhlyt.hunan.gov.cn/news/mtjj/202007/t20200714_12787115.html",
+      "query": "Read actual provincial culture/tourism department section on Dong-an chicken dish, ginger, chilli and rice vinegar; exclude legends and medical claims",
+      "itemIds": [
+        "flavor-hunan-c24cf1013a"
+      ]
+    },
+    {
+      "url": "https://www.yzcity.gov.cn/wlgtj/ly0101/202302/b0893e5e1a0f456a8ce7d660edd697fc.shtml",
+      "query": "Read actual Yongzhou culture/tourism report distinguishing prepared Dong-an chicken dish from living GI poultry, ingredients ginger/rice vinegar",
+      "itemIds": [
+        "flavor-hunan-c24cf1013a"
+      ]
+    }
+  ]
+}

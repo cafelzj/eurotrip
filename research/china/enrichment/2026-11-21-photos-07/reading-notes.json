@@ -1,0 +1,62 @@
+[
+  {
+    "id": "photos-07-dongan-hunan-culture",
+    "title": "湖南省文化和旅游厅：东安子鸡原料与微酸微辣风味",
+    "url": "https://whhlyt.hunan.gov.cn/news/mtjj/202007/t20200714_12787115.html",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整原文提取后逐段核对菜肴段落；省厅与市文旅原文交叉核对，家常做法单独说明",
+    "originalResponseFile": "research/.local/china-photos-20261121-07/dongan-correction-sources/6074ee76532a4c809a3adc7e0ca50fed.response.gz",
+    "originalResponseSha256": "f6f41038bd4b02622908e29c698cd637efaeb785bef3d6079c8e8cebce3e7d91",
+    "readableFile": "research/.local/china-photos-20261121-07/dongan-readable-0.txt",
+    "readableSha256": "923ab35e764f42e0a4a1c2fc989f86d99fdf1badb16d31b0f68641434a9fb97a",
+    "scope": "仅采用菜肴身份、鸡肉、姜椒、米醋和风味，不采用传奇、排名、疗效或未经复核的市场数字。",
+    "items": [
+      {
+        "itemId": "flavor-hunan-c24cf1013a",
+        "name": "东安鸡",
+        "adoption": "correct-dish-versus-live-poultry-name-collision"
+      }
+    ]
+  },
+  {
+    "id": "photos-07-dongan-yongzhou",
+    "title": "永州市文化旅游广电体育局：东安鸡菜肴与地方产业",
+    "url": "https://www.yzcity.gov.cn/wlgtj/ly0101/202302/b0893e5e1a0f456a8ce7d660edd697fc.shtml",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整原文提取后逐段核对菜肴段落；省厅与市文旅原文交叉核对，家常做法单独说明",
+    "originalResponseFile": "research/.local/china-photos-20261121-07/dongan-correction-sources/d496a70ced7447a9a7313f5b61e9cb93.response.gz",
+    "originalResponseSha256": "ebf9c451bbba604ccd749f24d9ff42e48fd9cd4f9e9179d0c604e8c1b014ea83",
+    "readableFile": "research/.local/china-photos-20261121-07/dongan-readable-1.txt",
+    "readableSha256": "f51e4a8fb14b4d3026257c6281d455018343ca4687186bc8576539ab2bddf231",
+    "scope": "区分同名地理标志活禽与成菜；养殖密度不是菜肴制作。",
+    "items": [
+      {
+        "itemId": "flavor-hunan-c24cf1013a",
+        "name": "东安鸡",
+        "adoption": "correct-dish-versus-live-poultry-name-collision"
+      }
+    ]
+  },
+  {
+    "id": "photos-07-dongan-home-recipe",
+    "title": "Elaine：东安鸡家常做法",
+    "url": "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整原文提取后逐段核对菜肴段落；省厅与市文旅原文交叉核对，家常做法单独说明",
+    "originalResponseFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/943f90b632634ca4977388fa450fcbcb.response.gz",
+    "originalResponseSha256": "d907942aae543062e9a985a0fe6a2b0ec73447ca03b07c1e173713b77cd20964",
+    "readableFile": "research/.local/china-photos-20261121-07/dongan-readable-2.txt",
+    "readableSha256": "3dccd9285e0a4b3f54e2034c8608e5b68352ca5e13a167c276877985bab89e51",
+    "scope": "仅将家常食谱当该作者做法，非地方唯一标准。",
+    "items": [
+      {
+        "itemId": "flavor-hunan-c24cf1013a",
+        "name": "东安鸡",
+        "adoption": "correct-dish-versus-live-poultry-name-collision"
+      }
+    ]
+  }
+]
