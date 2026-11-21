@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Jiang+Qianli",
+      "query": "Jiang Qianli",
+      "itemIds": []
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Suzhou",
+      "query": "Suzhou",
+      "itemIds": []
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Du+Jinsheng",
+      "query": "Du Jinsheng",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AYangzhou+lacquer.JPG%7CFile%3AMother-of-pearl+inlay+plate+with+ladies.JPG%7CFile%3A%E6%9C%B1%E5%AE%B6%E8%A7%92%E8%8D%B7%E5%8F%B6%E8%92%B8%E8%82%89.JPG%7CFile%3AHaipai+Fenzhengrou+hot-chain+set+on+G14+%2820251029120253%29.jpg%7CFile%3A%E7%B1%B3%E7%B2%89%E8%82%89+20161008+185420.jpg%7CFile%3A%E7%B2%89%E8%92%B8%E8%82%89.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Yangzhou lacquer and explicitly named lotus-leaf/rice-flour pork metadata",
+      "itemIds": []
+    }
+  ]
+}

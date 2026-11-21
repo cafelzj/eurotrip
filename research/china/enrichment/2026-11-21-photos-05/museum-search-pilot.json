@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Jiang+Qianli&has_image=1",
+      "query": "Cleveland Jiang Qianli",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Jiang+Qianli&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Jiang Qianli",
+      "itemIds": []
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Suzhou&has_image=1",
+      "query": "Cleveland Suzhou",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Suzhou&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Suzhou",
+      "itemIds": []
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Yangzhou&has_image=1",
+      "query": "Cleveland Yangzhou",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Yangzhou&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Yangzhou",
+      "itemIds": []
+    }
+  ]
+}

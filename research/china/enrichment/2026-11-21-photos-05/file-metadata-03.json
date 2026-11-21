@@ -1,0 +1,11 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg%7CFile%3A%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86+1.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+02.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+01.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+04.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+03.jpg%7CFile%3A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%EF%BC%8C%E6%9C%AA%E5%90%8D%E6%B9%96%E7%95%94%EF%BC%8C%E5%8D%9A%E9%9B%85%E5%A1%94.jpg%7CFile%3A%E6%B0%91%E5%9B%BD+%E6%9D%8E%E5%8D%8E%E6%A2%85%E9%B9%A4%E5%9B%BE%E8%BD%B4-%E6%98%86%E6%98%8E%E5%B8%82%E6%99%8B%E5%AE%81%E5%8C%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F+2026-05-20.jpg%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F+-Zw%C3%B3j+z+ho%C5%82dem%2C+Qiu+Ying1.jpg%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F-Zw%C3%B3j+z+ho%C5%82dem%2C+Qiu+Ying.png%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Huzhou writing brush museum photo metadata",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Morella+rubra&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100",
+      "query": "Morella rubra actual Jiangsu photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Citrus+medica+var.+sarcodactylis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Citrus medica var. sarcodactylis actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Citrus+changshan-huyou&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Citrus changshan-huyou actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Phyllostachys+edulis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Phyllostachys edulis actual Zhejiang photographs",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-21",
+  "sheetsViewed": [
+    {
+      "file": "research/.local/china-photos-20261121-05/maoerduo-preview.jpg",
+      "sha256": "411fedc7389019d6b05372d939fc3afc2000b36dd75895bb6a1b4967e155fd4d"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/review-01.jpg",
+      "sha256": "5d1548d4a0fe9d425583ec56eb97a698212fbfdd80a527942872637378021bb4"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/flickr-review-01.jpg",
+      "sha256": "7594a7b222fd02468c2914e58a41ef8a6881f43109855bcf74c041a4b8fe6247"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/pork-leaf-preview.jpg",
+      "sha256": "fff35a0fbeed7a2a8d36f8e92711a52a4474f1dfdc0389519b479d6cbd62827c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/hubi-review.jpg",
+      "sha256": "ec00235ab3f8b49c85ec363175482501fec09ed6532f92339bb0ebf231378408"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/gbif-review-01.jpg",
+      "sha256": "4aebdac2d23e612a24cdf25a2d14659a27660807f885bd9c5c5ac3767102620f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/loquat-individual-review.jpg",
+      "sha256": "c838d198b4f28ea38a986c6a7868fb4d9f77cb69bd834427ca9efc043eee03d9"
+    }
+  ],
+  "notes": [
+    "只声明所列接触表和原图预览已经实际查看；全部检索命中不等于全部逐图审阅。",
+    "采用以visual-decisions.json为准；未采用的来源与图片继续保留。"
+  ]
+}

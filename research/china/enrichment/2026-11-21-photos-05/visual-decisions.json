@@ -27,6 +27,35 @@
       "reason": "补读完整文件原页，原作者文字明确知味观、杭州、2005年及署名Shizhao，解决旧机器元数据作者字段缺失。已看真实汤碗与耳形面粒，主体清晰、器皿整洁；未因该图用于山西菜百科条目而改写其实际拍摄地点。采用文件页明确提供的CC BY-SA 3.0许可。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-886c8438f1",
+      "itemName": "千层油糕",
+      "candidateId": "15330114458",
+      "caption": "鼎泰丰千层油糕实拍，蒸糕层次与表面点缀清晰。",
+      "reason": "原作者标题明确鼎泰丰千层油糕，完整原页确认CC BY-NC-SA 2.0及署名王麟麟。已看真实蒸糕近景，分层组织清楚、食物完整，没有用发糕或普通蛋糕替代；照片未注明扬州拍摄，故不冒称扬州店铺出品。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "flavor-jiangsu-fd6788d92f",
+      "itemName": "酒酿元宵",
+      "candidateId": "2357013647",
+      "caption": "迷你南瓜盅盛装的酒酿丸子实拍，采用创意装盘。",
+      "reason": "原作者完整说明明确“it is actually 酒釀丸子 in mini pumpkins”，主体不是单独酒酿或无酒酿的普通汤圆。已看实际盛装成品，南瓜盅与酒酿丸子同框；以同名酒酿小圆子的有依据对应采用，明确为创意装盘，不据此宣称常州传统装盘或固定配方包含南瓜。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-a2911fde28c625f889",
+      "itemName": "丽水枇杷",
+      "candidateId": "g-5936383646-0",
+      "caption": "丽水松阳枇杷挂果实拍，展示果实与枝叶的原料形态。",
+      "reason": "研究级观察明确识别枇杷Eriobotrya japonica，原地点文字为浙江丽水松阳，2025年5月25日。已看原图，黄色果实清楚且与枝叶同框，采用真实挂果形态，不声称商品包装或地理标志认证；坐标已模糊化，不由坐标断言具体果园。许可CC BY-NC-ND 4.0，保留完整原JPEG字节、全幅显示与原有作者信息。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
     }
   ],
   "held": [
@@ -37,6 +66,62 @@
     {
       "candidateId": "c-94396df81abc65f9",
       "reason": "原图为大块羊肉冻／羊糕，不能当作卡片所述白汤炖羊肉的成品；包装与画面观感也不足。"
+    },
+    {
+      "candidateId": "c-9d78480ba6f4c71c",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "c-401f217d2fedb9c0",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "c-ce35c1ada9cbd32a",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "c-f3c8bb252663c2b9",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "c-8d3a72c178551a1c",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "c-92298b2bbcccff6f",
+      "reason": "湖笔博物馆建筑或入口，不能代替湖笔实物或制作过程。"
+    },
+    {
+      "candidateId": "g-5154334320-0",
+      "reason": "兰溪枇杷果实偏远且上方逆光明显，继续寻找更清楚的果实主体。"
+    },
+    {
+      "candidateId": "g-5154334320-1",
+      "reason": "兰溪枇杷果实偏远且上方逆光明显，继续寻找更清楚的果实主体。"
+    },
+    {
+      "candidateId": "g-5154334320-2",
+      "reason": "兰溪枇杷果实偏远且上方逆光明显，继续寻找更清楚的果实主体。"
+    },
+    {
+      "candidateId": "g-6422394045-0",
+      "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
+    },
+    {
+      "candidateId": "g-5134083140-0",
+      "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
+    },
+    {
+      "candidateId": "g-5936388020-0",
+      "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
+    },
+    {
+      "candidateId": "g-4522534191-0",
+      "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
+    },
+    {
+      "candidateId": "g-4909226217-0",
+      "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
     }
   ]
 }

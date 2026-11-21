@@ -1376,3 +1376,29 @@ Source: https://commons.wikimedia.org/wiki/File:Maoerduo.JPG
 License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Maoerduo.JPG/960px-Maoerduo.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-15330114458.jpg
+
+Author: 王 麟麟
+Source: https://www.flickr.com/photos/106119108@N03/15330114458
+License: [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+Original image URL: https://live.staticflickr.com/3933/15330114458_7a8b382d3b_c.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-2357013647.jpg
+
+Author: ki yan so
+Source: https://www.flickr.com/photos/24952148@N04/2357013647
+License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+Original image URL: https://live.staticflickr.com/2127/2357013647_756d6efc61_b.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-g-5936383646-0.jpg
+
+Author: CC黎明
+Source: https://www.inaturalist.org/observations/331277157
+License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Original image URL: https://inaturalist-open-data.s3.amazonaws.com/photos/600929852/original.jpg
+Changes: 完整保留原字节和画面。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。

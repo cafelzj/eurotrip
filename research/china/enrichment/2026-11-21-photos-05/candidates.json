@@ -63,6 +63,63 @@
       "height": 720,
       "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-975405b23cf7ee34.jpg",
       "rawSha256": "d206e9fad181f7612ddbaaa8f60e15ade97e8df0cd45274c0e81b8fbb36502f2"
+    },
+    {
+      "id": "15330114458",
+      "title": "鼎泰豐 千層油糕",
+      "description": null,
+      "licenseCode": 1,
+      "source": "https://www.flickr.com/photos/106119108@N03/15330114458",
+      "preview": "https://live.staticflickr.com/3933/15330114458_7a8b382d3b_c.jpg",
+      "itemIds": [
+        "flavor-jiangsu-886c8438f1"
+      ],
+      "query": "千層油糕",
+      "provider": "Flickr",
+      "author": "王 麟麟",
+      "license": "CC BY-NC-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "rawFile": "research/.local/china-photos-20261121-05/15330114458.jpg",
+      "rawSha256": "53bfb2d6149df7edf3bb4da363a67d865e3449fffe58842efa3ebdd8fbb10c2a",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/55fb13bc1a214c338dcfd6095682578e.response.gz",
+      "metadataSha256": "98e13a585854a9f129137eb14a482e153351c7fd40cfe51b66ef3c944f0bd3f4"
+    },
+    {
+      "id": "2357013647",
+      "title": "this dish is called 諸葛亮舌戰群儒",
+      "description": "it's actually 酒釀丸子 in mini pumpkins",
+      "licenseCode": 4,
+      "source": "https://www.flickr.com/photos/24952148@N04/2357013647",
+      "preview": "https://live.staticflickr.com/2127/2357013647_756d6efc61_b.jpg",
+      "itemIds": [
+        "flavor-jiangsu-fd6788d92f"
+      ],
+      "query": "酒釀丸子",
+      "provider": "Flickr",
+      "author": "ki yan so",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "rawFile": "research/.local/china-photos-20261121-05/2357013647.jpg",
+      "rawSha256": "c9d3cbb64c2c569e3abd76efe6b685d720af972747eee2d2249e5b47cd0f48de",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/7e3b7f3bd73e40b3ad28a0201fbbd5ab.response.gz",
+      "metadataSha256": "5d8634d96b69e64601e956e75ad1c16912e10e0e62b68ee395a0ea6b727924b1"
+    },
+    {
+      "id": "g-5936383646-0",
+      "title": "Loquat fruits in Songyang, Lishui, observation 5936383646",
+      "itemIds": [
+        "program-a2911fde28c625f889"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/g-5936383646-0.jpg",
+      "rawSha256": "23bad63a97528d3445f12a487daeab11b6001d3cc617211893b9c67ea59f1987",
+      "metadataFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/5446ee1aff154e438893ad9e162aec73.response.gz",
+      "metadataSha256": "577b9ed040171912aa0b1a78402e499965c21872313170d254c4b6bb3d67b496",
+      "author": "CC黎明",
+      "source": "https://www.inaturalist.org/observations/331277157",
+      "preview": "https://inaturalist-open-data.s3.amazonaws.com/photos/600929852/original.jpg",
+      "provider": "iNaturalist / GBIF",
+      "license": "CC BY-NC-ND 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }

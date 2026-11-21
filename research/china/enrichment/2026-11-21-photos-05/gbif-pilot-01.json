@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Morella+rubra&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Morella rubra actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Eriobotrya+japonica&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Eriobotrya japonica actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Scylla+paramamosain&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Scylla paramamosain actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Tegillarca+granosa&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Tegillarca granosa actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Portunus+trituberculatus&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Portunus trituberculatus actual Zhejiang photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Lentinula+edodes&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Lentinula edodes actual Zhejiang photographs",
+      "itemIds": []
+    }
+  ]
+}

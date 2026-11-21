@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 287,
-    "withListPhoto": 274,
-    "missingRealPhoto": 6340,
-    "needsListPhoto": 6353
+    "withDetailPhoto": 290,
+    "withListPhoto": 277,
+    "missingRealPhoto": 6337,
+    "needsListPhoto": 6350
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 357,
-      "needsListPhoto": 357
+      "missingRealPhoto": 355,
+      "needsListPhoto": 355
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 359,
-      "needsListPhoto": 359
+      "missingRealPhoto": 358,
+      "needsListPhoto": 358
     },
     "anhui": {
       "cards": 330,
@@ -4907,19 +4907,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-jiangsu-fd6788d92f",
-      "name": "酒酿元宵",
-      "province": "jiangsu",
-      "city": "常州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 49,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-jilin-37f3ca0a24",
       "name": "万宝粉丝",
       "province": "jilin",
@@ -7565,19 +7552,6 @@
       "city": "徐州",
       "category": "food",
       "subcategory": "alcohol",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-886c8438f1",
-      "name": "千层油糕",
-      "province": "jiangsu",
-      "city": "扬州",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 51,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -71090,19 +71064,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-a2911fde28c625f889",
-      "name": "丽水枇杷",
-      "province": "zhejiang",
-      "city": "丽水",
-      "category": "food",
-      "subcategory": "ingredients",
-      "readingCharacters": 371,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-a4bbd245a66e35459c",
       "name": "邵阳茶油",
       "province": "hunan",
@@ -82907,6 +82868,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-jiangsu-fd6788d92f",
+      "name": "酒酿元宵",
+      "province": "jiangsu",
+      "city": "常州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 49,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "zj-guyue",
       "name": "古越龙山绍兴酒",
       "province": "zhejiang",
@@ -82987,6 +82961,19 @@
     {
       "itemId": "flavor-jiangsu-10f6f396d5",
       "name": "虾籽饺面",
+      "province": "jiangsu",
+      "city": "扬州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-jiangsu-886c8438f1",
+      "name": "千层油糕",
       "province": "jiangsu",
       "city": "扬州",
       "category": "food",
@@ -85826,6 +85813,19 @@
       "category": "food",
       "subcategory": "tea",
       "readingCharacters": 367,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-a2911fde28c625f889",
+      "name": "丽水枇杷",
+      "province": "zhejiang",
+      "city": "丽水",
+      "category": "food",
+      "subcategory": "ingredients",
+      "readingCharacters": 371,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

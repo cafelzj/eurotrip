@@ -5085,6 +5085,91 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-15330114458": {
+      "file": "鼎泰豐 千層油糕",
+      "src": "assets/photos/china/cn05-15330114458.jpg",
+      "width": 720,
+      "height": 480,
+      "kind": "food",
+      "alt": "鼎泰丰千层油糕实拍，蒸糕层次与表面点缀清晰。",
+      "caption": "鼎泰丰千层油糕实拍，蒸糕层次与表面点缀清晰。",
+      "author": "王 麟麟",
+      "license": "CC BY-NC-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "source": "https://www.flickr.com/photos/106119108@N03/15330114458",
+      "originalSrc": "https://live.staticflickr.com/3933/15330114458_7a8b382d3b_c.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者标题明确鼎泰丰千层油糕，完整原页确认CC BY-NC-SA 2.0及署名王麟麟。已看真实蒸糕近景，分层组织清楚、食物完整，没有用发糕或普通蛋糕替代；照片未注明扬州拍摄，故不冒称扬州店铺出品。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "commercialUse": false,
+      "deploymentContext": "personal-informational-github-pages-without-advertising",
+      "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-2357013647": {
+      "file": "this dish is called 諸葛亮舌戰群儒",
+      "src": "assets/photos/china/cn05-2357013647.jpg",
+      "width": 960,
+      "height": 643,
+      "kind": "food",
+      "alt": "迷你南瓜盅盛装的酒酿丸子实拍，采用创意装盘。",
+      "caption": "迷你南瓜盅盛装的酒酿丸子实拍，采用创意装盘。",
+      "author": "ki yan so",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/24952148@N04/2357013647",
+      "originalSrc": "https://live.staticflickr.com/2127/2357013647_756d6efc61_b.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者完整说明明确“it is actually 酒釀丸子 in mini pumpkins”，主体不是单独酒酿或无酒酿的普通汤圆。已看实际盛装成品，南瓜盅与酒酿丸子同框；以同名酒酿小圆子的有依据对应采用，明确为创意装盘，不据此宣称常州传统装盘或固定配方包含南瓜。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-g-5936383646-0": {
+      "file": "Loquat fruits in Songyang, Lishui, observation 5936383646",
+      "src": "assets/photos/china/cn05-g-5936383646-0.jpg",
+      "width": 790,
+      "height": 1024,
+      "kind": "food",
+      "alt": "丽水松阳枇杷挂果实拍，展示果实与枝叶的原料形态。",
+      "caption": "丽水松阳枇杷挂果实拍，展示果实与枝叶的原料形态。",
+      "author": "CC黎明",
+      "license": "CC BY-NC-ND 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "source": "https://www.inaturalist.org/observations/331277157",
+      "originalSrc": "https://inaturalist-open-data.s3.amazonaws.com/photos/600929852/original.jpg",
+      "provider": "iNaturalist / GBIF",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "研究级观察明确识别枇杷Eriobotrya japonica，原地点文字为浙江丽水松阳，2025年5月25日。已看原图，黄色果实清楚且与枝叶同框，采用真实挂果形态，不声称商品包装或地理标志认证；坐标已模糊化，不由坐标断言具体果园。许可CC BY-NC-ND 4.0，保留完整原JPEG字节、全幅显示与原有作者信息。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "source-bytes-nd-1",
+      "colorProfile": "source-without-profile",
+      "changes": "完整保留原字节和画面。",
+      "fit": "contain",
+      "commercialUse": false,
+      "deploymentContext": "personal-informational-github-pages-without-advertising",
+      "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
     }
   },
   "cards": {
@@ -5289,7 +5374,10 @@ window.chinaCardImages = {
     "flavor-jiangsu-8a5e336eda": "cn04-3816735725",
     "flavor-zhejiang-025c794ff3": "cn05-c-d27b5630eeead2a8",
     "js-yangzhou-sanding": "cn05-c-e6a81529c468ccf5",
-    "program-cf797a5d34ce94c299": "cn05-c-975405b23cf7ee34"
+    "program-cf797a5d34ce94c299": "cn05-c-975405b23cf7ee34",
+    "flavor-jiangsu-886c8438f1": "cn05-15330114458",
+    "flavor-jiangsu-fd6788d92f": "cn05-2357013647",
+    "program-a2911fde28c625f889": "cn05-g-5936383646-0"
   },
   "galleries": {}
 };

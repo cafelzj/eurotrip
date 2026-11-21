@@ -1,0 +1,2242 @@
+{
+  "date": "2026-11-21",
+  "status": "continuously-appended-current-batch",
+  "records": [
+    {
+      "query": "玉兰饼",
+      "itemIds": [
+        "flavor-jiangsu-614a338f09"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%8E%89%E5%85%B0%E9%A5%BC&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/44a02f54c92e499588a05a7835a6114b.response.gz",
+      "responseSha256": "cef00a7fd10cece0fb4d35a28248f5f26cf59bfa43ed6fa3ae909a5b5fbcc1a4",
+      "compressedSha256": "bb88373630499f58d826e7155085e762e8833d346e1a96bbc0d425119f3f92de",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "皮肚面",
+      "itemIds": [
+        "flavor-jiangsu-f3a8026ec8"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%9A%AE%E8%82%9A%E9%9D%A2&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/aff30a76e8f94d9c853fc72bea8259d2.response.gz",
+      "responseSha256": "3575defaf2e5e5891ccecf78a6845306a062a66d8007efc351dc0adfd1d5c40e",
+      "compressedSha256": "3822178d0ee4f74fe792cd798fb12fc316eed09c6910813d1d04280c80d9862b",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "酒酿元宵",
+      "itemIds": [
+        "flavor-jiangsu-fd6788d92f"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/13976c769a5549dc904cf83266023b4e.response.gz",
+      "responseSha256": "a718cf0776f30740b64024173bc12f9514c5c8b652cf6d51272ed518b6deecda",
+      "compressedSha256": "6ba1773256ec3b26b160b6966cd1fe4aac8f52fd243c93edc1d66f703199c52e",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "宁波烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AE%81%E6%B3%A2%E7%83%A4%E8%8F%9C&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/346874b39ad0477e8c6651577b5beddb.response.gz",
+      "responseSha256": "590df6b7df36ba809776ef81366a8e3b5959fee8066463de73119b5c9c9e24ad",
+      "compressedSha256": "acb31f25fcfea0db9f064754e7dcc0d8b8fcfd94baa234dfb47ae3134da84200",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "木莲豆腐",
+      "itemIds": [
+        "flavor-zhejiang-ffbd6ab60b"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%9C%A8%E8%8E%B2%E8%B1%86%E8%85%90&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/016299b6dfb64641b018c18995077680.response.gz",
+      "responseSha256": "2b2c3368745f58ee807b60b1e76c6772e47e6ba08991e22acb542bab1c33765c",
+      "compressedSha256": "5d5a4aa6579aa82319211b3ff50b5b6720b6e666689f0e8c7960b4374ad7411d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "桂花糖芋苗",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/c9658e103a414859a57037b334e099c0.response.gz",
+      "responseSha256": "12c69467ed4965e6ad4c79785ca5d4dc50652ae7fc8b1772a383f919e048335a",
+      "compressedSha256": "ef57099a17d0f87039fd457df6cc9e422c77711683d1bdab761fef11719b7ec9",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "猫耳朵",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%8C%AB%E8%80%B3%E6%9C%B5&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/ca4cfd9b1d1144b5b71c5e09d57bf217.response.gz",
+      "responseSha256": "a841d26b25d8059b08af9430eda8bbe3e1b3ec563a2f672217a3e93c84e2b810",
+      "compressedSha256": "3e392c54068e7dfd1a89d8b6880749768edc5d78941606142f23b6af779feac2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "金华酥饼",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%8D%8E%E9%85%A5%E9%A5%BC&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/b7bcc9ad65364ca48c425e286fe0eab5.response.gz",
+      "responseSha256": "316e72d935b4d5fc08c04c0b40759a5b46e864f2e984c488e6a300b2726fe7c0",
+      "compressedSha256": "06ff76bb68e1621005380b18f73d5031d1b45249404533888fd350b5505823e8",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "红糖糍粑",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BA%A2%E7%B3%96%E7%B3%8D%E7%B2%91&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/9c9050caccae482e82baa23f74b8f088.response.gz",
+      "responseSha256": "3d064f844fec49cb0d392fb7f6ca1324911e0a5fa06590c4905d7bbe8676630c",
+      "compressedSha256": "6eec2610c319f8eedef257f874302dbe0aa3717f1c817998a875c49b073f2e90",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "Biluochun",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Biluochun&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search/2c28b9aaee0248b987d207bf8c066b1b.response.gz",
+      "responseSha256": "fd4a236b2eaafba9d3fa32447c25527a3dd1d818019fbdd16794d801f283d050",
+      "compressedSha256": "02cdd70a74842e6107a53f5fcadf967fe71a62f80ab082552be0b9e923d8708c",
+      "journal": "research/.local/china-photos-20261121-05/commons-search/requests.jsonl"
+    },
+    {
+      "query": "桂花鸡头米",
+      "itemIds": [
+        "flavor-jiangsu-222c2cf834"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/233f068a57db4fe8ba397b7ae501c8cd.response.gz",
+      "responseSha256": "7fa3642d156a926896b9402a3502fdb551eee3360b4ed91b71cbf020f0a2b1e0",
+      "compressedSha256": "2bf2d81e8e5d2839bfdf29dae4c85942ad0df6d8b62be6a7aeca4102d469fbdc",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "宁式鳝丝",
+      "itemIds": [
+        "flavor-zhejiang-025c794ff3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AE%81%E5%BC%8F%E9%B3%9D%E4%B8%9D+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/145cbd7429714467897fba11603d4f01.response.gz",
+      "responseSha256": "f075251e11005713207e1ba3c845acc07a3f1094fdb9897fcb57c16ae06dfa0d",
+      "compressedSha256": "110d9ddef9921aef32227fdb0a14492cf5262ebd184681ffa8f07185919bb2fa",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "蛙鱼",
+      "itemIds": [
+        "flavor-jiangsu-70c2f71073"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%9B%99%E9%B1%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/38628a69c62444f496cc4a8ff09837e5.response.gz",
+      "responseSha256": "dbb5f17adc37838390ca1a41af513a92371fa74704f3074b43937c59a3d1451c",
+      "compressedSha256": "43ea82cd6d659e84327eb1c458c5fd7fa2f0758c0724fadf2114e5da564118d5",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "徐州啥汤",
+      "itemIds": [
+        "flavor-jiangsu-f1fa272deb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%BE%90%E5%B7%9E%E5%95%A5%E6%B1%A4+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/7b08df5dddb74f6fb0332920e5808f6f.response.gz",
+      "responseSha256": "3d40198738c519f22a44fb3e7ec7a39357a73c91a573cecb4a487b399e18b028",
+      "compressedSha256": "eeaeb1b9c0df275b49be53498bf6d9b29f7bb8e353c9e49378d25ad28c6816a1",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "藏书羊肉",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/44a6941231fc475698240a987949d05c.response.gz",
+      "responseSha256": "5aa25967a1f974516648cb946dec88d3e8f7e4ad1d78832fa0e6f9164128ae87",
+      "compressedSha256": "e8dc22f2a1c6a8247bbca77b72d75c1c218f42bc62460dca44f5897116a31cea",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "千层油糕",
+      "itemIds": [
+        "flavor-jiangsu-886c8438f1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8D%83%E5%B1%82%E6%B2%B9%E7%B3%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/c4c69acfd1414d988bee7a2128619f14.response.gz",
+      "responseSha256": "bc9e2423147d921242f90ad68740786a37ba1be1e70b75aa53d8ded0b1a5c330",
+      "compressedSha256": "fcacc8e6d5412ec8a327d824f5ee35ca0b7b1b2eef96addf98450b82f4c16829",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "翡翠烧麦",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/8a01ad347f8d4fb395d1894e243077cd.response.gz",
+      "responseSha256": "f10f9e36a825e9ef682e25194eaff49f83dc0b9fd8bda1cd70ef508c8677318e",
+      "compressedSha256": "5892728bd6a462061b0a8a86efed42284066c13b5e2ecaf09c377fc6b78e17ff",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "太仓肉松",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E4%BB%93%E8%82%89%E6%9D%BE+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/afc828bae9e14b9688d653a928be5246.response.gz",
+      "responseSha256": "6d5648557000f7d1694e5c7a1a8630ccb1029a3cf03a1facbd7d35e13e972a50",
+      "compressedSha256": "283698b141a29993768b6835d6ddd5a42066a6c09d96e7bb00b783ac3261f4df",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "无锡三鲜馄饨",
+      "itemIds": [
+        "flavor-jiangsu-d13f9cbba7"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%97%A0%E9%94%A1%E4%B8%89%E9%B2%9C%E9%A6%84%E9%A5%A8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/5118490b5e68411a99dabf4243fd7fb4.response.gz",
+      "responseSha256": "a8a62ca895db35871a78347d4edc52fc6b2b984290909c68978e5b86e3f9c0d5",
+      "compressedSha256": "0ddeb5408611d59435405403273bfa9c71041dc25c4d62fcf5ede0a6519d3d79",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "如意回卤干",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A6%82%E6%84%8F%E5%9B%9E%E5%8D%A4%E5%B9%B2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/792a30c3062544c6b06ff969c05a7000.response.gz",
+      "responseSha256": "8a2238d3cf96b9fffe3e132e6bd728c052a9d9c72c3c35586dd5ac2318f3feec",
+      "compressedSha256": "ff70eaf6f45954033c1b90552fabbe2fe282b0832d901faa8f117eb36575a69a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "金钱萝卜饼",
+      "itemIds": [
+        "flavor-jiangsu-e1f53ea939"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E9%92%B1%E8%90%9D%E5%8D%9C%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/365abf06d9fe4fbd967b9c8cea344038.response.gz",
+      "responseSha256": "d27d64f244f49ddcfdaefad61742b295a3b130d8b6059e6ee5f881f72b21968f",
+      "compressedSha256": "68167df022b94c1c686460bab64b4e6dbf72ec08de1ed6ba80433238b6ed1bfb",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "常州素火腿",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B8%B8%E5%B7%9E%E7%B4%A0%E7%81%AB%E8%85%BF+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/2d042bef61e04495842bf9015f3d4e00.response.gz",
+      "responseSha256": "6a9b0397c37149d14e52537f3f17e65152c81f18beea9189127335c5a3643e7e",
+      "compressedSha256": "e4dad20035d1b95231e19d6812287343e6e418d1773eca074c8a87d5223c0fd7",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "白汁鮰鱼",
+      "itemIds": [
+        "flavor-jiangsu-929e10b790"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%99%BD%E6%B1%81%E9%AE%B0%E9%B1%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/94d3083137c041eeab641ef492729bf3.response.gz",
+      "responseSha256": "8072fcc5835536a7c471a424c5b70f92d60258faf5dc90a4e9ac30bca3753a2d",
+      "compressedSha256": "5eb14e207637b87efe388a3d550e16745ed9eb50ff8fd2dd78f323c42c2e32e6",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "奶汤鱼皮",
+      "itemIds": [
+        "flavor-jiangsu-e554484beb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A5%B6%E6%B1%A4%E9%B1%BC%E7%9A%AE+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/b659b390b52d4df3bbecc01af4fd74db.response.gz",
+      "responseSha256": "f6288f8dacf56c4861bbb54ee1379fd703d158829c378ae532b1a33971461ddd",
+      "compressedSha256": "d4e54090feb1f5f3783b7aa7e67420c69af25834bf739219c5b408e748afab7c",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "荷叶粉蒸肉",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/073d12db24d64ca6b1186ba9b30b60c9.response.gz",
+      "responseSha256": "eb1a8114ebb7fd132b246e6a7e6bd8e6fff3a8940b9b6ca1f5ffc8ee3a1acf8b",
+      "compressedSha256": "228022775aa2cd7b55c7c530dc96869612000cbcf73671c027554c517a690332",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "霉苋菜梗",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%9C%89%E8%8B%8B%E8%8F%9C%E6%A2%97+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/44c9919c3bdb4f6c887c733a5884d03b.response.gz",
+      "responseSha256": "90c78ffb466ee424524f0c1d76bd1e0c56da79608e1a853f247917315d01b945",
+      "compressedSha256": "2b80b53d97691116d596a337d60f0268911ca937642f71416734db9ba071cf0a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "葱包桧",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%91%B1%E5%8C%85%E6%A1%A7+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/65085206d1a44c3784edfa1f522789a6.response.gz",
+      "responseSha256": "59cb0de94747ea164578799355c9ad80740ead02e2acc4befd6547c50c20bff1",
+      "compressedSha256": "fda8f0a7942087a5cf37b9dff5e310637047769a42cd42b6d8948ff267b45da0",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "宁波烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AE%81%E6%B3%A2%E7%83%A4%E8%8F%9C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/3c51e36a7ed34f529a3120fa383b3655.response.gz",
+      "responseSha256": "b8e294b0093e648525a3c97639da69184f47979985037e009b4eff6e430f3a05",
+      "compressedSha256": "b106ca0a8830c2bc45ec6e0287fcbd994f3fce7979e308a877c97aca13f70094",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "新风鳗鲞",
+      "itemIds": [
+        "flavor-zhejiang-ccf338cca4"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%B0%E9%A3%8E%E9%B3%97%E9%B2%9E+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/5924c8a50201499da647156b695aeba8.response.gz",
+      "responseSha256": "9a270c2f2850a815f93813e8d066daf5e8932e7eb70e185f241779d00dc10b1a",
+      "compressedSha256": "adf5c61fac04b4b198efe43a1fe5bc2f4d1636caef492c3e771f116986c32bbe",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "梅干菜焖肉",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/9ef916affa8e43b6866f95091c1ff168.response.gz",
+      "responseSha256": "70641ec4485d490db09c4767dfff3b1fed5993140214617adc6c6de3a30ae0ba",
+      "compressedSha256": "e926a32cb520776ef43712d88ae2639a143c6c59a30445953b8d2eb6ac3f41b0",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "三丝敲鱼",
+      "itemIds": [
+        "program-9dcb67aa763f9e9b83"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%89%E4%B8%9D%E6%95%B2%E9%B1%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/f81f4276597040f48aeb1217f49ecdb2.response.gz",
+      "responseSha256": "e8c50be1ac850d8ac890b257f2779e13d41f0e350229ee38c3eaad2d041123f7",
+      "compressedSha256": "1e982e5dedead7db96db4606120fdcb2bda1721f33a8f661231739bd4cf07977",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "新昌春饼",
+      "itemIds": [
+        "flavor-zhejiang-a1e8193b8b"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%B0%E6%98%8C%E6%98%A5%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/5394a0f57dea4eadae55b544f1857921.response.gz",
+      "responseSha256": "0b33696a0d8dc197f2a8f5d47d6b98645be3f57b7816d7358d5856a9a34270be",
+      "compressedSha256": "985a39fda4f6938547780ef225799b5b7b27c6e0e4c0bc0f1f7cc5a5b4478274",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "铁板蛏子",
+      "itemIds": [
+        "flavor-zhejiang-c7fcb348bd"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%93%81%E6%9D%BF%E8%9B%8F%E5%AD%90+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/17583f90cf6e434ab477e52bfdeb0b41.response.gz",
+      "responseSha256": "c0e9dcabc737ad4c44c3c69bfac2cbab04cd9466f5a9416c71c68c92d5064f60",
+      "compressedSha256": "7ab535cf9441ebe761cbc95385e6666821c1c4ef845f419ca530098746f51552",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "象山炒米面",
+      "itemIds": [
+        "flavor-zhejiang-56c16bb7d1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%B1%A1%E5%B1%B1%E7%82%92%E7%B1%B3%E9%9D%A2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/f023850275fe4d3fa5d764b716778fdc.response.gz",
+      "responseSha256": "571546378fe53e9e45ca960b534230c05e8791d8cd031c8e3f83e9f3ec44bae9",
+      "compressedSha256": "e576cb48656f0915a0df09a9290fe69bbf920e17bfae776e457a8782385ecf71",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "蟹粉面",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%9F%B9%E7%B2%89%E9%9D%A2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/067300c976d24787aec112b56dbd572d.response.gz",
+      "responseSha256": "41031a32028d8f5ccf2b77ab008861a7663b7ec92ce0615a0578be90d4256864",
+      "compressedSha256": "03083d909b8d8f0bc1de83d706322de37070d2532041021f7644bce3fbde6b3c",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "大纵湖醉蟹",
+      "itemIds": [
+        "flavor-jiangsu-3905af32c3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A7%E7%BA%B5%E6%B9%96%E9%86%89%E8%9F%B9+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/a3e0c233712f4c628af7e547ebe859c8.response.gz",
+      "responseSha256": "b3bce071f178a6c3448d36ee11f0d4e0d249f037e1b2bfb9b23545d3ff74aa75",
+      "compressedSha256": "a1d7ac773e98430974cb91bc3a83db9d7de4d35b10afdd968a857f9d4b016330",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "南通跳面",
+      "itemIds": [
+        "flavor-jiangsu-33f596e0ee"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8D%97%E9%80%9A%E8%B7%B3%E9%9D%A2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/5850cefa10c349a89c2b4a29723375c6.response.gz",
+      "responseSha256": "f867328ba1728fa56e9a55aa2b71061a9bd8f7c5e18f61f340962b6938ef024a",
+      "compressedSha256": "08d4242fadd1befc1028776ee19f17f6bf3af618781cfa955618c623ba25fd01",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "太仓糟油",
+      "itemIds": [
+        "flavor-jiangsu-07b613be05"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E4%BB%93%E7%B3%9F%E6%B2%B9+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/327293219241486f8bf0e83c50bb43a3.response.gz",
+      "responseSha256": "df265b8cb39c2560c03fcfbe6797f0fb56cfd2a51b7fa8c84d38948adecb56ab",
+      "compressedSha256": "47f829755a02c5655eaf81cc2b4fd8dbead6a4a6ddd81c0a03ea51c6312b1721",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "斜桥榨菜",
+      "itemIds": [
+        "flavor-zhejiang-884212115b"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%9C%E6%A1%A5%E6%A6%A8%E8%8F%9C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/c33e42686cf248c4bad3f58cafa603cb.response.gz",
+      "responseSha256": "1bb3c272bbc1cd5d177a1ac28503f5e304e4eb3217fb0d27c0e673cc4071063c",
+      "compressedSha256": "a5b9e9391f532c3f34536e83327e36b8d14ecabaa0bc10d29b6b15f444973bc6",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "光明鲜牛奶",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%85%89%E6%98%8E%E9%B2%9C%E7%89%9B%E5%A5%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/c68af50848b04ecc999465a058badf24.response.gz",
+      "responseSha256": "a4bb5298ef794ac79f8df4b2a1889300fa3426dce5afa03091b6c2770b2d4d59",
+      "compressedSha256": "4c167bbd3edb8bb39cdb297293a28e2f21d9edba9e4a131fad23e5463428d7a0",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "熊猫炼乳",
+      "itemIds": [
+        "flavor-zhejiang-165174eadb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%86%8A%E7%8C%AB%E7%82%BC%E4%B9%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/984fba0076134e928158c72e9d934e9e.response.gz",
+      "responseSha256": "e71e5a06117588a3f159f6a9516dcc08e0391a8ee4e4ebf4724f0bf889b929e2",
+      "compressedSha256": "488344aa1189202a11ff66f10ff66f42a417a5ac7f3026650c788edfc31493ed",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "洋河酒",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B4%8B%E6%B2%B3%E9%85%92+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/c15a4783883e40a79ea2fc1d9055857d.response.gz",
+      "responseSha256": "db4881ac8de9875f88ac2ccc582b836a2dd96b4fc927da05a10d7afffccc7d95",
+      "compressedSha256": "5017af84c8d6330dc1024a1ffc9319deb34235ed4fa6e730ab4edddc3bb2666f",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "沙洲优黄",
+      "itemIds": [
+        "flavor-jiangsu-c2597b8797"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/b3efe2ed880c48efb63867e0003d0199.response.gz",
+      "responseSha256": "b4aad7025986493e04350d1d3193c3636412811d9f05cbddad1ec7c2717f4d60",
+      "compressedSha256": "02e88989cb3b044a63a60094239bf0f159d2784181e8e7184f55fe0544be0541",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "会稽山绍兴酒",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%BC%9A%E7%A8%BD%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/3065e6387087470eb400c725029d977a.response.gz",
+      "responseSha256": "70ffed5534e21aeb4703f438e27693929cf05c627a9596e2806bd84b3b6a8889",
+      "compressedSha256": "e4383d638bb3e58cae888e4312fb3cc4bff469cc995b3477fc7c33614761554f",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "石库门黄酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%9F%B3%E5%BA%93%E9%97%A8%E9%BB%84%E9%85%92+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/8edebd26e9ef405da62c91c049794052.response.gz",
+      "responseSha256": "6af5560d8739656c66139db7307704ad73ab79c65e1b64ba8738bb662bb5041e",
+      "compressedSha256": "3d56630ddc3c06db8fdc63ee166cb82f621d1fe831c92c82229d1f3c74d3a3a8",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "丹阳封缸酒",
+      "itemIds": [
+        "flavor-jiangsu-79ad60cfcc"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%B9%E9%98%B3%E5%B0%81%E7%BC%B8%E9%85%92+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/9f60ea9c142643688302457e3720e705.response.gz",
+      "responseSha256": "e4cad3b3bfe78791376d8da37f4a53f404a73193076257be134f71afaf46e66c",
+      "compressedSha256": "4d2de01d6ee8d6ac99c5f6dec7388d0d5a02f7c058ffde1c5d83bd0166196abd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "鼎丰腐乳",
+      "itemIds": [
+        "sh-dingfeng-furu"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%BC%8E%E4%B8%B0%E8%85%90%E4%B9%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/74b8c3a90d954a3d89ba6a6d8c385691.response.gz",
+      "responseSha256": "5151677dc627c2cb05d002715df9bea0c68961792b06c8493b10d83f64030aea",
+      "compressedSha256": "f46e7fa3b2ffe7f32792e2727063dfb846c60d0143fc034bce565fd0ffe9f8a7",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "松阳银猴",
+      "itemIds": [
+        "flavor-zhejiang-145e2f75b1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%9D%BE%E9%98%B3%E9%93%B6%E7%8C%B4+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/2d33457d6ca54fea876d46edd4d08fba.response.gz",
+      "responseSha256": "80289ec4053068735d18730aa45a01ff04361c8b5dae889e79733fb1f606d6ae",
+      "compressedSha256": "228a0b21d44ba8262527600d4ca06960074d078c9a748aafa7205e48efee49d3",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "顾渚紫笋",
+      "itemIds": [
+        "flavor-zhejiang-b6fe4d08c5"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%A1%BE%E6%B8%9A%E7%B4%AB%E7%AC%8B+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/e12e6972144f41e0baa5b7bb78aea2fa.response.gz",
+      "responseSha256": "18a063059b7fb54d1e83c94cfb40767832d849f4a767bcbc3ce70994103fbbf5",
+      "compressedSha256": "031b3166bd1e7a39a7564371a26b34b63aba72c8ce345328342d1394b3f5137d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "金坛雀舌",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%9D%9B%E9%9B%80%E8%88%8C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/3ed6065034ca4822a2729525cb1f53a6.response.gz",
+      "responseSha256": "aed5327b54324338a02b35d379d4f862aa8f96d7111579881be0955ca95d9181",
+      "compressedSha256": "231c6f9a5dd94d0b8ef1a60d70d9b373c6fa2523e83c6a3773f21e65354aa802",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "雨花茶",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%9B%A8%E8%8A%B1%E8%8C%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/f48bb878a9ae46a39700126700a7c538.response.gz",
+      "responseSha256": "44555948b70b3ccabee1da85c596766b0c7daaac86b30951adf765aa4eb7cf16",
+      "compressedSha256": "a43d32846ff0c52e09471ff7c69f4d1f1296a71d7eb61fc23eb856462617c6f7",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "天目青顶",
+      "itemIds": [
+        "program-b1051fbcad5003c4af"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A9%E7%9B%AE%E9%9D%92%E9%A1%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/315cecdd2d554323946eab80ab0ac5ee.response.gz",
+      "responseSha256": "10eddf201e520feff1ca94e664006ed2026225a741c99a82faa7da8a7316959c",
+      "compressedSha256": "714242f496d22a22f217c8475478dcb9d1cafd2ad2b96cc8a0086e8ee52fd773",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "平水珠茶",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B9%B3%E6%B0%B4%E7%8F%A0%E8%8C%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/04b43eff4b5642f3bab05a628eac97b0.response.gz",
+      "responseSha256": "92712acd32afac581b614ec2f034cd35950085ecfa704783089e2a772fb133df",
+      "compressedSha256": "d0e04cd88be6ea5806ac65c122bfe5933664dc38b36e7ad261315dab5d488d56",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "金华汤包",
+      "itemIds": [
+        "flavor-zhejiang-0371787652"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%8D%8E%E6%B1%A4%E5%8C%85+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/09f246e521a947d5aad109a28eccf300.response.gz",
+      "responseSha256": "e31b89b1432dc39bc1d28e44f0baa6331b8dc18e320ab7ad3d44fa1ea2a535f2",
+      "compressedSha256": "9ad4bfc6088e479e48155463e9c289eb63f9881572aeadc4de90c59bbd41d69b",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "浦江麦饼",
+      "itemIds": [
+        "flavor-zhejiang-2944fdf741"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B5%A6%E6%B1%9F%E9%BA%A6%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/2677adebbd3d4bec872cae1d3b73189a.response.gz",
+      "responseSha256": "714865d5fceda903888f64d8502a123df2df3e595682a3dd4aff90d8029faa97",
+      "compressedSha256": "eaa954eec68cf1fe29785690e459e6ec0a5a144e950907d58dcb7d72cfc767e2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "葱花馒头",
+      "itemIds": [
+        "flavor-zhejiang-cfbb32e120"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%91%B1%E8%8A%B1%E9%A6%92%E5%A4%B4+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/0fc979daa0fc4421b399e9d4251474b1.response.gz",
+      "responseSha256": "9b235561967f7a76f8e09a527e95915877392cf80963e6801b2d0cba169b6e50",
+      "compressedSha256": "152e616fd1a3549647896574260b8571e9586f401d9d94d41eeba464db7b2297",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "台州姜汤面",
+      "itemIds": [
+        "zj-taizhou-jiangtangmian"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8F%B0%E5%B7%9E%E5%A7%9C%E6%B1%A4%E9%9D%A2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/e74e6ef5d29f4cb69d960cc226c26ebf.response.gz",
+      "responseSha256": "fc0a3274a8b980a5566b716b128b8c3bceaa4823dc277ce462a60d44ae549f37",
+      "compressedSha256": "f7acbd1c4c215a479680630be38a262b1fe3ab1890eeb80ca4d08d048527e8a8",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "崇明糕",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B4%87%E6%98%8E%E7%B3%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/a3de76bf26ce4b03a65d27138657ff1b.response.gz",
+      "responseSha256": "4130e85814fdc079f3818f2ecd9473d27ef53083efabe394025b44118e55521c",
+      "compressedSha256": "ca0789ffe6d2231817413efe9fe2eee2cd662cfb6ffb3b73b9391e6a9200c620",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "天台什锦糕",
+      "itemIds": [
+        "flavor-zhejiang-769f8a846e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A9%E5%8F%B0%E4%BB%80%E9%94%A6%E7%B3%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/9136445e4aa74712b143a347bb9ad134.response.gz",
+      "responseSha256": "964f3b5d21413e3a167c1340153a7ec77846c2c187d9e07c1e8439baa3ac47e0",
+      "compressedSha256": "cde77232ebe59cd8fb05da4f8708d11a27e9bd199e51d602a2e08cc5b4431815",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "平湖糟蛋",
+      "itemIds": [
+        "zj-pinghu-zaodan"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B9%B3%E6%B9%96%E7%B3%9F%E8%9B%8B+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/59931f51c27b4b8ca55209c447052849.response.gz",
+      "responseSha256": "a54857bc66f5316506d730a405af7e4d1df1710341dea2b7155848e16951f9ec",
+      "compressedSha256": "307c9ebabd97444fadb875f9b7331dd9a49c000cbca3163d1235fcb20279a071",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-01/requests.jsonl"
+    },
+    {
+      "query": "富阳竹纸",
+      "itemIds": [
+        "regional-23a08a390a85d9"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AF%8C%E9%98%B3%E7%AB%B9%E7%BA%B8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/959b257074524e6f9563656b9acf946a.response.gz",
+      "responseSha256": "75db30e96a2a18f4747d2593c6cfd8923a19d096b85f4cb1ed5655e7f3ddfb11",
+      "compressedSha256": "fe349d7d3a33cd4d1906dec007f0f737106af830a8e9de0f3b508c34f11eeedc",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "乐清黄杨木雕",
+      "itemIds": [
+        "regional-80148cd3b298b0"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B9%90%E6%B8%85%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/16c91c8ac9c54dc3a49947494366c6fe.response.gz",
+      "responseSha256": "a3a7a7319f0b89b86e6d1712f47848a74040fbadbfdfb1d793a7d758fe8be290",
+      "compressedSha256": "68bb937f111c801807716dd2df42a9ad8322a06f5aa032cad3fc6ab4d4fddf4a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "乌泥泾手工棉纺织品",
+      "itemIds": [
+        "regional-ef32c853822392"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B9%8C%E6%B3%A5%E6%B3%BE%E6%89%8B%E5%B7%A5%E6%A3%89%E7%BA%BA%E7%BB%87%E5%93%81+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/65e592e44b644ae99fde5510b980110f.response.gz",
+      "responseSha256": "1effa39963096b6b1ba0fef492e2ce83d71595b4f032e7a2ea5fc788e2323fea",
+      "compressedSha256": "22261843f11cecb4d7e7e0bada3a95191a8c1bb59ec098d7a24dba2324366256",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "仙居花灯",
+      "itemIds": [
+        "regional-18095277561b47"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%BB%99%E5%B1%85%E8%8A%B1%E7%81%AF+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/87889cc915224c8ca3f08dab3217e83f.response.gz",
+      "responseSha256": "361cbfb1b6dca1e22e1f0c17b70a10daa5e5b36ce2c40b79f33368713de7ffe3",
+      "compressedSha256": "d66ff2f6c8ff09b6cd19b0dbc947f1c6b74ee1518a1a55b99e9dce77230d3c2a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "扬州剪纸",
+      "itemIds": [
+        "regional-2d07a0a68574ea"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%89%AC%E5%B7%9E%E5%89%AA%E7%BA%B8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/bea05fec74434a77a3996eff2550dc6e.response.gz",
+      "responseSha256": "36696776a20d9ae6cc2aa894010a250d0f9a0afe4cc6bfe4ca638acd634de9e8",
+      "compressedSha256": "881a5232a7653e0ee8255cbeb61f1412cfc5bafcbcd68f74d7e8740fbeb6bdcd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "扬州漆器",
+      "itemIds": [
+        "regional-6c556c676d44e0"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%89%AC%E5%B7%9E%E6%BC%86%E5%99%A8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/e93d0d072a91455aa228070154bf0319.response.gz",
+      "responseSha256": "5f7b2dd79f22a99019059b4b5f55d454c3990d81776f15b5d9bf28f099482cac",
+      "compressedSha256": "673ab1babc6af1750ab84160e7b1c3cd93522c981fce1c459d0a2633cf1a6bbf",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "乐清细纹刻纸",
+      "itemIds": [
+        "regional-c0699d3a31e35e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B9%90%E6%B8%85%E7%BB%86%E7%BA%B9%E5%88%BB%E7%BA%B8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/b8f6f2ef59024f6daad686b0720c5e02.response.gz",
+      "responseSha256": "6ec30bd009b99eb9e109fb75618e6b243ecb9b57f9c77f5a255d024221963cf4",
+      "compressedSha256": "34133fecf04e85737db2ee0c1b2ef59de29b706158be41503c082329789a04ea",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "湖笔",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B9%96%E7%AC%94+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/fd5fadf43d9b43c4adf3ee6125fffd11.response.gz",
+      "responseSha256": "877ff8ffeb81f7ced1fcc00529c787e5be308aa794505347f99f3f977ffef42b",
+      "compressedSha256": "30bd58a51f7d8046d68c6d3308c96d85e39c5f1fb1565f6379bc08d5dd8c416f",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "南京金箔",
+      "itemIds": [
+        "regional-1a530d7092dcb0"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8D%97%E4%BA%AC%E9%87%91%E7%AE%94+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/503599fdc77d44cda378d2f05831a553.response.gz",
+      "responseSha256": "7697141612ed3d5494a32fd7d7b6ab80b2c8800f69ff1df49b609ff871ff7e5f",
+      "compressedSha256": "42948f6ce870c30ece3239c0a4d88159f21c5349ca33debf78fa22ff9e219c3a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "苏州缂丝",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%8B%8F%E5%B7%9E%E7%BC%82%E4%B8%9D+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/e10242b23efd46f986811612a755f870.response.gz",
+      "responseSha256": "0720bbd5cc1f976db324a5d0f51bb456f3da0b64664d725fcdaea043f818ddab",
+      "compressedSha256": "cfb393cbdcad5cd18bd943414ef87863835e807280382a1e7ec981103c234650",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "扬州玉雕",
+      "itemIds": [
+        "regional-011d5679ab0c7d"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%89%AC%E5%B7%9E%E7%8E%89%E9%9B%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/9ca71101fca04163a4d874f353857eec.response.gz",
+      "responseSha256": "eff1e57e8e387883991f851b64b75ff61d52d4b6b6a11edf01d446268afb841e",
+      "compressedSha256": "418f19e0e2c70de4061d2370144a188171ba528880432179a9feb1c320fae885",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "衢州莹白瓷",
+      "itemIds": [
+        "program-d53a44f1ea0975b220"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%A1%A2%E5%B7%9E%E8%8E%B9%E7%99%BD%E7%93%B7+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/dfac0f83594e4d718db398e89dc7b0dd.response.gz",
+      "responseSha256": "72bc2367abc86b071be642035e460b6837a08b77c44ebc367cc69d7af3ceb9b1",
+      "compressedSha256": "6dd9994e2319a60a92108427598313ea5a0636f74d017bf9e7ed26ae8776b511",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "东海水晶",
+      "itemIds": [
+        "program-ce6673a3ba1e30dc26"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%9C%E6%B5%B7%E6%B0%B4%E6%99%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/c752056d52f043e09e913ea083278c0a.response.gz",
+      "responseSha256": "3db293cd81a1cabf2a6900d326bc612c15059c093d2df1faba7fdf2045f3e57b",
+      "compressedSha256": "408edfb972a6c878a24a71649a19d704910aa498c3af74389c31e3be860c3918",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "遂昌竹炭",
+      "itemIds": [
+        "program-b079884931c38deae9"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%81%82%E6%98%8C%E7%AB%B9%E7%82%AD+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/de19847e7527468d96ad569de5cb87aa.response.gz",
+      "responseSha256": "7d516b074916bc6fcfa797283e93fd8dd9b454599dd33faffb52130c7801582e",
+      "compressedSha256": "b66d2832e4ba9b47dcd5be07672a1375ec80f16861a0dcd36886ed76bf1b79e9",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "杭州丝绸",
+      "itemIds": [
+        "program-9107a30f5e325737df"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%9D%AD%E5%B7%9E%E4%B8%9D%E7%BB%B8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/52ee32fba4c942479ffd3d1ce6f0d1fe.response.gz",
+      "responseSha256": "c2e6f5522378120a65929209c14d72f180c3b479423865ae58abab8165183dd4",
+      "compressedSha256": "959b03b1ebd2e558303a9d110d1a4d6274e1d1dd93ac46f093f33d10077fcc27",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "馄饨老鸭煲",
+      "itemIds": [
+        "flavor-zhejiang-267f01bf30"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%A6%84%E9%A5%A8%E8%80%81%E9%B8%AD%E7%85%B2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/6b0ae5f24c5b493b995deda7ac5e991d.response.gz",
+      "responseSha256": "c5dbb557f018fcce58bef3ea2af0c3d6d539c725cf4cf5d53b071d2f57e7f3ab",
+      "compressedSha256": "86229c4f6440d3c138bf61f610862befff9e0256c7dbea15de3adc618a398e96",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "温州瘦肉丸",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B8%A9%E5%B7%9E%E7%98%A6%E8%82%89%E4%B8%B8+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/3891aeab4fc64e36b777f832b766704f.response.gz",
+      "responseSha256": "11aad4df0e5aa4f5febeff55e68d2ffd98a5fd107f3530cf81aecfcb82cb65d9",
+      "compressedSha256": "d3516f69be77569446a45d465ee60a6d878d25b50f0c68774316bf800f3bfb0e",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "永康肉麦饼",
+      "itemIds": [
+        "zj-yongkang-roumaibing"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B0%B8%E5%BA%B7%E8%82%89%E9%BA%A6%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/ad58bceffd944c8e89c05da11a12ce8b.response.gz",
+      "responseSha256": "f023253fdcc337ac0eb2e2d683dc67859e6ed2222e60037493fc0fad56779c9e",
+      "compressedSha256": "e8d762a55e54eb26bfcdfa4f5c2b641c3f40346311fc3c202247ac9ceac63b3d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "温岭嵌糕",
+      "itemIds": [
+        "program-080ccce4d789464f57"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B8%A9%E5%B2%AD%E5%B5%8C%E7%B3%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/6fcb5e7f6e0f4a7895488784b194e6d0.response.gz",
+      "responseSha256": "835112e6338b803d666baa69fbde2398eeee374f6d792126de52074bde86afbc",
+      "compressedSha256": "e801a628d35734338d6be0582d6125bfba151c2173a5fda1c943121edd98adc2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "三门青蟹",
+      "itemIds": [
+        "flavor-zhejiang-68e1cc0e06"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%89%E9%97%A8%E9%9D%92%E8%9F%B9+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/7c509358cd3d4420ab2798b7f80ba5aa.response.gz",
+      "responseSha256": "13cd7d607b0403f90d129745d21bff24c33a1f14b6c39e991be7e839a7c4f595",
+      "compressedSha256": "379f688d046bc860a79a36d5d71efbc64b409139b26942a73a2d89bccae16da4",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "岱山蓬莱仙芝",
+      "itemIds": [
+        "flavor-zhejiang-8f9837c665"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B2%B1%E5%B1%B1%E8%93%AC%E8%8E%B1%E4%BB%99%E8%8A%9D+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/a83494fa3e94480192b82e8a9233ff30.response.gz",
+      "responseSha256": "080eed073650350719f429676280ccd14b68a843fa395767ece6c27cc1d77a0b",
+      "compressedSha256": "83eae51af9bcfec4cdab0e0c2ec239b0ce44ecff80a86139c1d9d9431e667500",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "开化龙顶",
+      "itemIds": [
+        "flavor-zhejiang-fa8d963e08"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%BC%80%E5%8C%96%E9%BE%99%E9%A1%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/98a62eda52714145bf736fa12cf405bb.response.gz",
+      "responseSha256": "17333db521dafc4880f75d7980d2843f29a8cbf51254b758fe8ee8bb07238ace",
+      "compressedSha256": "b841bd58b8565f125b86d6d09bd52aa04ed2a3a6a555d8941e49334bd505bd71",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "永康豆腐皮",
+      "itemIds": [
+        "flavor-zhejiang-bc36f44252"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B0%B8%E5%BA%B7%E8%B1%86%E8%85%90%E7%9A%AE+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/1cf2a61468b6429a8cd3ad07a83857da.response.gz",
+      "responseSha256": "894b0cb5623b90e06d9e62bc57a164219e9fae9e59c13fa09b335099e628926e",
+      "compressedSha256": "5ffc541865527b1c184576d58b9afb702a18272a783f1d4874a27ca6c82b399f",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "龙游发糕",
+      "itemIds": [
+        "zj-longyou-fagao"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%BE%99%E6%B8%B8%E5%8F%91%E7%B3%95+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/5f736a2605ad4e5bb57f629653141285.response.gz",
+      "responseSha256": "20a7b8e89fe04c4e23291588e0b82f0bc8b041ac8432a1b6712eed3ad3126143",
+      "compressedSha256": "ca1be85e2f7f12bd51ca30351b5b5fddebd2e17096e91d44c862e03bac663c41",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "义乌红糖",
+      "itemIds": [
+        "program-7165760f9c51e71fff"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B9%89%E4%B9%8C%E7%BA%A2%E7%B3%96+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/2a3463c75f23444e9e4f960f78e3bb47.response.gz",
+      "responseSha256": "304ba2abd3619ff253a6ec1237f85f1a7fe371dbebdd1536f88cb6126cdf3fb6",
+      "compressedSha256": "a3c3ab8336709ae62cbbfe673a9064e90bdd9cb0f79c2cf87b23e80dd6a3256d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "金华佛手",
+      "itemIds": [
+        "program-72d93d7193018fb07d"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%8D%8E%E4%BD%9B%E6%89%8B+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/caa4cee1589b42398a312abcae520397.response.gz",
+      "responseSha256": "499072e39be302ffc84234d9e90493453c167944fcd380765eff04da74bd30c8",
+      "compressedSha256": "71383de4022a8b53b0870a8cfa255c15a7eb9a4faa7a7c8c28cc42ae92623bd7",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "三门血蚶",
+      "itemIds": [
+        "program-c0f598b978cfd1b3ab"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%89%E9%97%A8%E8%A1%80%E8%9A%B6+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/1c55b5e30e4e4e598e8dd0890bc5ce13.response.gz",
+      "responseSha256": "009f003faf293fb35ba2f3a5dafe5ebb5ccad9b3da9ef1ec2616cb591c7f6a23",
+      "compressedSha256": "692916075fefc0534b2d8ca2a157c9ed1889ff10b945d654d9a38b3ab8653d59",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "乌镇姑嫂饼",
+      "itemIds": [
+        "county-09ff6176cbcd30"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B9%8C%E9%95%87%E5%A7%91%E5%AB%82%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/feeaa0a42b664fa0a5d8d7cc05e2d472.response.gz",
+      "responseSha256": "597774ba17bd152ecfd0a1a4e81db425bcb50a6f260e13c4a21ebfa86b78f81d",
+      "compressedSha256": "538af62e589857c7d34784c3a5d863ec74e45e2dc987e37989950761b54028d4",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "嘉善西塘粉蒸肉",
+      "itemIds": [
+        "county-ac3d5f0832e654"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%98%89%E5%96%84%E8%A5%BF%E5%A1%98%E7%B2%89%E8%92%B8%E8%82%89+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/16ccc6ca9ebf4ee6a37af16fa0f4fc72.response.gz",
+      "responseSha256": "bc5c0e6ac7eeb6181677849433bf14b26c041f5c16042e02687224c206387166",
+      "compressedSha256": "23bfaec86a39e8affd931eaf06efb7726ec1d89f24c7b2cdfd6b903e450d0a68",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "金华酥饼",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%8D%8E%E9%85%A5%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/64f87eff66e64d2aaf5cc1a24b65189d.response.gz",
+      "responseSha256": "b4c5b24e3d1e32e123321cbd7ecdfd6d3d3cb98c40b866ec11f8dcdca8434957",
+      "compressedSha256": "50865ff307d64faf58f559152b65dab4667710e524d531174b74f917743cfc43",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "太湖莼菜",
+      "itemIds": [
+        "program-b1a4874251c754671a"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E6%B9%96%E8%8E%BC%E8%8F%9C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/6395bc0d6ca24d95a68ac800a726e0e7.response.gz",
+      "responseSha256": "0caf564e05373ef107031b2ff353e132a175cabd0f8332d5d76b16063cd88ada",
+      "compressedSha256": "263347e3d48fdaebd4e052b83e4cbc35bc6af6546aecbeffae6fceb2cf5d7da0",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "淮安蒲菜",
+      "itemIds": [
+        "program-a1ede2b78f61b84217"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B7%AE%E5%AE%89%E8%92%B2%E8%8F%9C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/48ccbd9354c1411abc2d21f1e708e3bb.response.gz",
+      "responseSha256": "69c32bfea5119f94bbad31d984928967d73ec3f1dccb5de89f318cacf330cb99",
+      "compressedSha256": "79fb1f264954d83b9d377b5fd5da934ef75787dba17b751c58d827cc96eade11",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "金湖芡实",
+      "itemIds": [
+        "flavor-jiangsu-66a66ecdec"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E6%B9%96%E8%8A%A1%E5%AE%9E+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/b1a99bb2b5ad4299b85fe9144edc307c.response.gz",
+      "responseSha256": "0741b83dfa3270e9b85026e0cf22c3881f4924f3544de21208dc64cbe2e99c20",
+      "compressedSha256": "2ec8d4cb52097a121bd08a8cf501fbffbac9021b6468caba58483111875bb698",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "三都麻糍",
+      "itemIds": [
+        "county-b621ef47566622"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%89%E9%83%BD%E9%BA%BB%E7%B3%8D+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/4b18ee9e042e4f748f3b54b35a644402.response.gz",
+      "responseSha256": "31e8b5e2f900a864fa8bde0ab815ed95caf773820f02c48baa71355ff8ff1bef",
+      "compressedSha256": "eac4b3da306b51742e4e723c5e1614be7aa6595f54397ab89a604b16d301218d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "嘉兴鲜肉烧卖",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%98%89%E5%85%B4%E9%B2%9C%E8%82%89%E7%83%A7%E5%8D%96+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/ce1f1a951de249a0aab8a0e90847b46d.response.gz",
+      "responseSha256": "cb8107ac16c85522b820b45d71857aa429102caf544883f8079bd404786a4a3e",
+      "compressedSha256": "638efba3c1bba3b5445844e05f4c85011e19e4b28bc5187dc61907453326fffe",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "温岭泡虾",
+      "itemIds": [
+        "county-10b27f4d048962"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B8%A9%E5%B2%AD%E6%B3%A1%E8%99%BE+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/a1d7db0cc829400faf546b9bef7210da.response.gz",
+      "responseSha256": "b70089476f66e3f70f634c466d849c1b7dea3d5b6fbd5070f14ee45f702984b1",
+      "compressedSha256": "6e7d8869038c29900afab418a9dd2f272ab3e84fc001ed3ee6050c45c7848555",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "仙居杨梅",
+      "itemIds": [
+        "regional-0f9a12585365c8"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%BB%99%E5%B1%85%E6%9D%A8%E6%A2%85+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/0c6d96332c8c40cbaaa7c061f7d6dc66.response.gz",
+      "responseSha256": "2679494c356a3964d563ebe7c73f0dd297850f44cef619d8609e1e9314944908",
+      "compressedSha256": "77076cdf579bd04e313bd28632fa9966f3da3c4445aea4f9e8c12984103f7bf2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "临海杨梅",
+      "itemIds": [
+        "program-c1623417b37b463101"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%B4%E6%B5%B7%E6%9D%A8%E6%A2%85+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/ec62ddff1e0b4d6dacdbc167f5756b82.response.gz",
+      "responseSha256": "249652c502dbf784c9f0f90b9ba7f093b2db51f18016ebe57b384b63c7095338",
+      "compressedSha256": "407d0794d1f601e91d32ad794fde97c6d740b7ecacd5caa09f8b0f69a76076aa",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "奉贤黄桃",
+      "itemIds": [
+        "regional-6aa5367591926c"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A5%89%E8%B4%A4%E9%BB%84%E6%A1%83+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/163a484edade4c3aaf4eea24861bc256.response.gz",
+      "responseSha256": "fdfa465f1f92672b3a6c0b1fdef36d47d40d9588266675d145fdc1b19595749f",
+      "compressedSha256": "ba2d3c076b40f4e8bb41e00f5cf05e3f0e7c9891698824cabb95504f6733ad26",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "射阳大米",
+      "itemIds": [
+        "program-e7dc906ebe38aa1d4e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B0%84%E9%98%B3%E5%A4%A7%E7%B1%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/1384e2b330c442a3ad815db9aada31b9.response.gz",
+      "responseSha256": "9ad098def6d81abbbbd4977e9296a5391a23763273b39f3542d15918135e0c6f",
+      "compressedSha256": "5504080f02bbdf6bec9b1472f74080e6baad71756efb808f0f2ec8c504a3e79a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "崇明大米",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B4%87%E6%98%8E%E5%A4%A7%E7%B1%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/b242fc3a11b648c3b17a063d7703d13c.response.gz",
+      "responseSha256": "fec050d31804e4e53dec41d45729006404e653cc2318c0076e99af5389b2af6f",
+      "compressedSha256": "6931bc05436ebc85e3037e45dd1813ec8f5b2c068002c7ae0ee3b10c7b137d5c",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "海门山羊",
+      "itemIds": [
+        "program-9d2510dc5d7f4dd1e9"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B5%B7%E9%97%A8%E5%B1%B1%E7%BE%8A+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/7c306173ba124b88be401de30a8d94d1.response.gz",
+      "responseSha256": "a2423afadf6ece116209e5dcd278ca2032c8abf62b6a827375973c2e0230349a",
+      "compressedSha256": "08e28488fcffdf9c505edd7444d12564bc9bd5be438d34d37e96d1cb8d7adc26",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "太仓白蒜",
+      "itemIds": [
+        "program-f2f13abcca21bd0860"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E4%BB%93%E7%99%BD%E8%92%9C+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/29969f0c322d4a25be5319259ed688d1.response.gz",
+      "responseSha256": "0ca71de8bac29bd962052836a7249d31dd005c1dc098a94b618eb4c512253004",
+      "compressedSha256": "d2d76f57e6b148a3da7a2e8cf4a72df635e1749bceb44f7c057d971f0dbe13ca",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "吴中鸡头米",
+      "itemIds": [
+        "program-fdd6246a7f38b22e9f"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%90%B4%E4%B8%AD%E9%B8%A1%E5%A4%B4%E7%B1%B3+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/ab0d3ad186a94bda80708c52b7c31080.response.gz",
+      "responseSha256": "e3b7c7018d82636306dc9492583c0d6dd2243130ff07ee490a7549d35fef2737",
+      "compressedSha256": "1a500f35857dc86094e530fda3fa180dc5a3526a3a58cbbb62fca1c615db0204",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "缙云土面",
+      "itemIds": [
+        "flavor-zhejiang-642bb5b8d3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BC%99%E4%BA%91%E5%9C%9F%E9%9D%A2+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/9c5f8cb86da74456bef302591f398c5d.response.gz",
+      "responseSha256": "decd237cf07980c20076d3cd19ff7d0145b3bdde4425f32a808c48ae2b440ef4",
+      "compressedSha256": "ef034bfc870268034c5ec491cc1b0252a1ce6e7045e08c484517d10fe8b2989d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "枫泾丁蹄",
+      "itemIds": [
+        "program-d6cae797e16775e4e8"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%9E%AB%E6%B3%BE%E4%B8%81%E8%B9%84+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/7ea4f27c957842cc9a3b7af6444d1c93.response.gz",
+      "responseSha256": "b071fbd9d803af95832da972facab90356123f8c3cd488c3ca0b9885a00605e5",
+      "compressedSha256": "532e62b7307a3292f0c425d8fb300b4955a2eb489e393eabe69a9c7f2dd8045f",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "顾渚紫笋",
+      "itemIds": [
+        "flavor-zhejiang-b6fe4d08c5"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%A1%BE%E6%B8%9A%E7%B4%AB%E7%AC%8B+filetype%3Abitmap&ns6=1",
+      "status": "cache-reused",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-01/e12e6972144f41e0baa5b7bb78aea2fa.response.gz",
+      "responseSha256": "18a063059b7fb54d1e83c94cfb40767832d849f4a767bcbc3ce70994103fbbf5",
+      "compressedSha256": "031b3166bd1e7a39a7564371a26b34b63aba72c8ce345328342d1394b3f5137d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "咸汤圆",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%92%B8%E6%B1%A4%E5%9C%86+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/079eb623ab254a1d95ea15af259e352b.response.gz",
+      "responseSha256": "d48db44bfc615ad4a9652e052d47978e4a0467d9533ae36b04eed26720d3102a",
+      "compressedSha256": "c8eb65782571bd17bae4e3712e7ce3935f1ad834f40703f0e0c63336bc157beb",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "龙井虾仁",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%BE%99%E4%BA%95%E8%99%BE%E4%BB%81+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/4cbaccce943143d2a679abb0722336b4.response.gz",
+      "responseSha256": "be9d40be7934a793260528e65ff26159ffbb99606236c897f556a087fbba54b1",
+      "compressedSha256": "cb31b8ff62c72199ca30ca4e2a42b01551f34b480644e6b268b4e5866155dcad",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "缙云烧饼",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BC%99%E4%BA%91%E7%83%A7%E9%A5%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-02/bb1f68fcd84a4e3c8dfaa163117d338f.response.gz",
+      "responseSha256": "edd669c92cfd7a6daf5266ea0c6ee86b1d58c47e2167db70b6c73c367faa10bb",
+      "compressedSha256": "ab68d2e13aa06072e7f27dec9f3afd9d9af645fe56171d0f0ea6fbee69e005fd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-02/requests.jsonl"
+    },
+    {
+      "query": "Donghai quartz",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Donghai+quartz+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/f99f739ff31b481bb49accce7a6fdef0.response.gz",
+      "responseSha256": "3a1f7a81cccdb078d81b5f930fe69e401320fb52e82a74f5de74a313cb6badbf",
+      "compressedSha256": "87cf307a75c69e95eca032e6a61ab7b1028049aa431adbecffb0e42d150ee441",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Donghai crystal",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Donghai+crystal+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/1a344b7420ff4839ad9ceaf14bd3a64c.response.gz",
+      "responseSha256": "d9e16e319814d6bace008362159eaf428199255973d39570ae485a72192d26bb",
+      "compressedSha256": "ffb341208a14ea15a60dc627e0e11e3fd540d1b4c68ef5766b6682919c51bfe5",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Jiangsu quartz",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Jiangsu+quartz+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/24e9bc20f99443a6a00d28c6f13707ee.response.gz",
+      "responseSha256": "c93d951084a54ba66cf3c1a6a521cd358a5025b94c31384ca6a6641c5273e1aa",
+      "compressedSha256": "fbbd12003855fb71846ec7ae391edd16d792becb53df56c8e1b3c921e5e582fd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Yangzhou lacquer",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Yangzhou+lacquer+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/69a7c443df494e5bafcf0fe4062bf0b1.response.gz",
+      "responseSha256": "fadec0dc86c7a1bddbd0aa1b5fdf57e525cf75fc8acdcd21dd1d5be4876b0273",
+      "compressedSha256": "e9b44faaf221cffc9e4fbe3b0b23fb907a3945a2433f55b5c9fd1dd64d8f7c53",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Jiang Qianli",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Jiang+Qianli+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/4675d90492844d05b9fb0c2f6ad573f0.response.gz",
+      "responseSha256": "187e6aafcfd26a4f469091cd9f0983411693a2f04198bc42932600624e12413c",
+      "compressedSha256": "ed34a5e00aa1754f428d72ba69cdd5660cf3414985309761733b2215abd1a9bd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Lu Kuisheng",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Lu+Kuisheng+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/1a920700e0844286900f6931b7a59aaf.response.gz",
+      "responseSha256": "9f9dbaffb07537a0104d60f7bdab36b7512d7f8cd6418bb20fbe7fcbc5af6756",
+      "compressedSha256": "a013a9c2048f5cd9ff5480fbf0c5f461aa60f1bdf86f5caf5d709fa38d015478",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Suzhou kesi",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Suzhou+kesi+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/9324476ffcfc47a2afd9f3beee1cff90.response.gz",
+      "responseSha256": "0367ad61af58ee4671a3a6bcfb3f77e51ae977107553a2efbe4ad3a9b93f0f0e",
+      "compressedSha256": "72c3358bf06ede15faf87ec39db5620fff598caea2f7cdd29eba30e3c081bde2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Shen Zifan",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Shen+Zifan+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/6dbf0d3bc2864f47b76bb2e962370dbb.response.gz",
+      "responseSha256": "3b768deafd5914bdd22880993bde0369017bbfbea0b63b68678797164b10c418",
+      "compressedSha256": "1f835128fee6ae4c4ad4aa0d8c122efc335b0e360f42bd498cfdccc8c2a1dc3b",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Hangzhou silk",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Hangzhou+silk+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/c320332f83914c66bad83cb20aaf4b44.response.gz",
+      "responseSha256": "4445897e1d9119ad7c48c911eaa370a29136766421f5cebf41f4458a99ae9476",
+      "compressedSha256": "3c314f93567017f27bac654afffb8ae69fa02715e37dc6dfdb3eccacbd63bc91",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Du Jinsheng",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Du+Jinsheng+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/091ffe78fd374ab3a08c4118bafb0bdb.response.gz",
+      "responseSha256": "74a12be4fe3d8061cf922b69fcfc58beaa83bea0bbb140eda389f6f82fa6db8a",
+      "compressedSha256": "ecdb69649de5b01c7981fb4733aa6fefebe45631fdc58cfeb983fad8864e2789",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Huzhou brush",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Huzhou+brush+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/33157dae67a5467a9ce0fe23d7808e74.response.gz",
+      "responseSha256": "845d818f862a08a961680f7429c74c7e8b2e0a282d5fe7647934786578f6fad2",
+      "compressedSha256": "ef8c594414265a28578d9f7d8e07f7d2cfb4226b729044c942fb115bbc9670ec",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Nanjing gold leaf",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Nanjing+gold+leaf+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/c9a4fd2d4e844ecaaa24190534715185.response.gz",
+      "responseSha256": "990100f40bd531cbb3bc695e787576d11a47edb15ae01d37f02799d9ea258aed",
+      "compressedSha256": "afb77c1a67ccd08f70a857c488c0611a4ae835dcd06f8f50157965692245b807",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Yueqing boxwood",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Yueqing+boxwood+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/44aedf91adb14abb91d8d26a04504f7e.response.gz",
+      "responseSha256": "a46571fe92f88033d6ed3f32a71db1b1407e85bc0de0a67c2be95a8392e3ca0c",
+      "compressedSha256": "5179b640bc46141c067f99149548795211e25901310875450655c388e751d422",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Zhu Zichang",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Zhu+Zichang+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/4b06ee70f34445d8b8cfaa75abf288b6.response.gz",
+      "responseSha256": "0f967fe574c71dc78359023838f6573d0a8c3ff6dbf82add136ee8963cd65cc2",
+      "compressedSha256": "17164707f4de41f34abebc6805429750bb0405fe6330a2d94f7e76f88332a20b",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "大禹治水 玉山",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4+%E7%8E%89%E5%B1%B1+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/f1e9c3a172b646fd80c6d3a23d41fed3.response.gz",
+      "responseSha256": "009e29354260358ccd5972f4e46fb6a63a47af6994bfe21e95392579bad924c2",
+      "compressedSha256": "1ed2dd52e8883b2443005a8d6487a609454f9b6fbe7e362ddd972c8baea5edb8",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "扬州 点螺",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%89%AC%E5%B7%9E+%E7%82%B9%E8%9E%BA+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/37870c0fa3f2435b926ad88050c07114.response.gz",
+      "responseSha256": "900ee0737324578bfdb0f9056edcea6d7fa18309d9ab98b987a8e21939c68566",
+      "compressedSha256": "b1ca540d14d9ddc750c624b96c182e0ff33ed4cc369c335c2b2edc9a6127d57e",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "湖州 毛笔",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B9%96%E5%B7%9E+%E6%AF%9B%E7%AC%94+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/2a112caeaaff4e42b80b3cf9cdbe8986.response.gz",
+      "responseSha256": "fbe9588dadbed532e7e58adb9b66c7c6742ea820bb1304f9ed0b93b15ca71a59",
+      "compressedSha256": "bf412a42d3d4478da00607bb597c23088c0570e3c1a80e0e2eb212c2316002bf",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "绍兴 木莲冻",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BB%8D%E5%85%B4+%E6%9C%A8%E8%8E%B2%E5%86%BB+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/69a89b9abda54732a279cec9f2610b5d.response.gz",
+      "responseSha256": "f0c7ae4cdf37eb51cd8be0b69d196ebc8cb9708d44726062eea1bae0b0c56edf",
+      "compressedSha256": "ca005b91bfac9a0a061dc62ff10ffd42e80ad3edc05720ada34cb3670ad17700",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "白汁鮰鱼",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%99%BD%E6%B1%81%E9%AE%B0%E9%B1%BC+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/799f67404ee54e5e94e7ba2882b5917b.response.gz",
+      "responseSha256": "786bbe2d7d0552f96236dfe6619bdf0191c04c8998dde8bd5a62417acd92be16",
+      "compressedSha256": "8108bf6e36f33983e51a56bdfa30cca8d4504db69be671dac2f8ee5c756fc5cd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "snow vegetable yellow croaker",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=snow+vegetable+yellow+croaker+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/f606ccb8b41142fd816e9e6ed7b0a2dc.response.gz",
+      "responseSha256": "eda33a7558fabc2680174292b85e7ea3a307ef698689ed8631d6efa69e51e1cf",
+      "compressedSha256": "3f7b3a454566418ea78e0ba713df1633ca5971f2092aab68a6792ec9228641b2",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "yellow croaker mustard greens",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=yellow+croaker+mustard+greens+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/24a74a248471466a8eb54300ff4ccb70.response.gz",
+      "responseSha256": "4d6c3f33bbdbb3e805c92d6721d1ce5614c59d3686e66f65e890c8dc66042c9d",
+      "compressedSha256": "fc47cc39ecb9d8cc7089b8f3027e342601ed26134873e9541b00b2f34727dedd",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "lotus leaf steamed pork",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=lotus+leaf+steamed+pork+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/40214c0c368b43c7b9059a17c880328a.response.gz",
+      "responseSha256": "f59d499de9fe8dc94600c930d250b5638897b12694e2d6f91f56a4ce8a646674",
+      "compressedSha256": "f30c7cbce68f5b139e035ab9f2da92f0ea5a0a3d3ab9a8741f18a13c00824e0a",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Fenzhengrou",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Fenzhengrou+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/3377cd5a1cd14d7cb42420f14e629a8a.response.gz",
+      "responseSha256": "5df8c903aaa322bd1c28c2e125d02329a3989141742fafab8ef773433f3662f7",
+      "compressedSha256": "a9ffc13ede60e8937e94d1f581ef667f40a7ad1c78b364ab93455914d19f1d86",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Wuxi radish pastry",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Wuxi+radish+pastry+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/4ecc6cbcb35a438caa39e4451d89fc63.response.gz",
+      "responseSha256": "e0e122ca5876fbabe5d42402e38c2869c19ee89668f6b3aa3732e418859f0ca1",
+      "compressedSha256": "d3f9f652104a9f15fb65d1d61bc31884a94ff00c9bc9ef2db588eae0e7e1c6f3",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Wuxi yulan",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Wuxi+yulan+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/b10b6d22820f4302b057646dfc53b93f.response.gz",
+      "responseSha256": "f467b597c2c9c4cc422f08768338f4f9827188c123fa4116c9c0417763484232",
+      "compressedSha256": "51ecb216310dfd84d25417a687feabf8feeeb38f11bb82b5287edfac50abc98d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Xiaoxing smoked fish",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Xiaoxing+smoked+fish+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/c2026d2fc21848eea45ed01580f12ed5.response.gz",
+      "responseSha256": "dff1023d92f0344bf560c429b6d68705f9f52141c75d00eb95a85eae05d6f568",
+      "compressedSha256": "20230bc5b9e1fffc2db2b999c0a0ebdd93c8a77a3e8010dc6e8bee87faf218ff",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Fengjing pork",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Fengjing+pork+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/9260c4b388194d8583ec2b40f98d5ae3.response.gz",
+      "responseSha256": "92ac88d0ceb1b617fe5c0d4d81f70a85704afa8804dcedea6260bdff1a1ae95a",
+      "compressedSha256": "06b61a941b3d7eee337a60e1a6c14b7c247ab57dffb094dc39a6f4813534834e",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Buddha hand Jinhua",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Buddha+hand+Jinhua+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/1e0568855d8b47f4b891127f81140c10.response.gz",
+      "responseSha256": "20a6fd9d74b271d5031076dc1131b632e90c3edb00863ef3fef039add1d9a60f",
+      "compressedSha256": "1b424076eb50cc3d0fd8fb3c7094835145f8e58688b5075aaa4c03f258655552",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Jinhua Buddha hand",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Jinhua+Buddha+hand+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/35a77dcae75d4b3cb173e7d13af4d198.response.gz",
+      "responseSha256": "46b39e8dcdfb09bd778e26eca56e822212d6813e48c18303ad0ac563efc47d8e",
+      "compressedSha256": "09b24c5340039ba57dbb5a5b7f52b632fdb599658b69d869a286e64feb00f2c3",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "query": "Longyou fagao",
+      "itemIds": [],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Longyou+fagao+filetype%3Abitmap&ns6=1",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-search-03/f579fd6fcb9e4f8fa9ae3d6899905f29.response.gz",
+      "responseSha256": "e0b677c859bccc2d1448cdff2761b01eb9523423a484f0489cbc929f7af8f912",
+      "compressedSha256": "6d7188af5f363fd23511593d1de692bbd60adc778c6ad6990f4aec4d3edd0d1d",
+      "journal": "research/.local/china-photos-20261121-05/commons-search-03/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg%7CFile%3AMaoerduo.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Exact discovered file metadata: Jiuniang yuanxiao and maoerduo",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/file-metadata-01/c42feb4d511e48e889437e65749d9903.response.gz",
+      "responseSha256": "f7d94cf0e84ba7c420b8787cfa687f6dbdb9289bec73f82ae3ae754a32b7648b",
+      "compressedSha256": "b55b68f05e6a1419db2f6e024c1115385670e127fa177d21eb6dadc8d0614fc5",
+      "journal": "research/.local/china-photos-20261121-05/file-metadata-01/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ANingbo-Style+Ricefield+Eel+Slices.jpg%7CFile%3AMutton+pudding+%28C%C3%A1ng+sh%C5%AB+y%C3%A1ng+r%C3%B2u%29.jpg%7CFile%3AFu+Chun+Tea+House+buns.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Ningbo eel, Cangshu mutton, Fuchun buns exact metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/file-metadata-02/e0f7fed6e5d64803bf57f5a17f5b050d.response.gz",
+      "responseSha256": "577edcfe419fd5781a4f433e8e06c75fb4c48732266deb5bfd7ef1d441ba21f4",
+      "compressedSha256": "f03e202833ab60d379198afd9c55b2c33a67e2a314fcdd7a31d8eb0116a462a5",
+      "journal": "research/.local/china-photos-20261121-05/file-metadata-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg%7CFile%3A%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86+1.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+02.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+01.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+04.jpg%7CFile%3A2023-07-24+China+Hubi+%28Huzhou+Writing+Brush%29+Museum+%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8+03.jpg%7CFile%3A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%EF%BC%8C%E6%9C%AA%E5%90%8D%E6%B9%96%E7%95%94%EF%BC%8C%E5%8D%9A%E9%9B%85%E5%A1%94.jpg%7CFile%3A%E6%B0%91%E5%9B%BD+%E6%9D%8E%E5%8D%8E%E6%A2%85%E9%B9%A4%E5%9B%BE%E8%BD%B4-%E6%98%86%E6%98%8E%E5%B8%82%E6%99%8B%E5%AE%81%E5%8C%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E8%97%8F+2026-05-20.jpg%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F+-Zw%C3%B3j+z+ho%C5%82dem%2C+Qiu+Ying1.jpg%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F-Zw%C3%B3j+z+ho%C5%82dem%2C+Qiu+Ying.png%7CFile%3A%E8%81%8C%E8%B4%A1%E5%9B%BE%E5%8D%B7+-+%E6%98%8E%E4%BB%A3+-+%E5%8C%97%E4%BA%AC%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Huzhou writing brush museum photo metadata",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/file-metadata-03/25a5bd1577a54e76a1e37861b4e1cb03.response.gz",
+      "responseSha256": "5441282d42acbc20c2d24166ae2e79a3a5a6eace928b92c05775b15d05628fff",
+      "compressedSha256": "a74966acdd2ea0f2a5cbf1e9e0432be75bc07c59fff53b951272eda41228304a",
+      "journal": "research/.local/china-photos-20261121-05/file-metadata-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Maoerduo.JPG",
+      "query": "Maoerduo original author and restaurant context",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/file-page-01/050b72b53db14904994a8df6fa302f58.response.gz",
+      "responseSha256": "d33985035fc858feb0672d1718210a30eb8661cf5a75f5b9ee1a254b664cc700",
+      "compressedSha256": "8187b81a3f5db1123d1afd216a5ae88664390b832937612b6ec102d57cff24c0",
+      "journal": "research/.local/china-photos-20261121-05/file-page-01/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/24952148@N04/2357013647",
+      "query": "2357013647 page",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/7e3b7f3bd73e40b3ad28a0201fbbd5ab.response.gz",
+      "responseSha256": "aa8077dc48a16e89eec6577095fd205ddb7035762a120a899cb68f42b98e4a11",
+      "compressedSha256": "5d8634d96b69e64601e956e75ad1c16912e10e0e62b68ee395a0ea6b727924b1",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-01/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2127/2357013647_756d6efc61_b.jpg",
+      "query": "2357013647 photo",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/7fc26076afe84cd4af39f1707ed559e5.response.gz",
+      "responseSha256": "c9d3cbb64c2c569e3abd76efe6b685d720af972747eee2d2249e5b47cd0f48de",
+      "compressedSha256": "173045404b4f70e51c3b5d9506c9f39ab22052753ac1129d2ba37b58de9ccc9a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-01/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/106119108@N03/15330114458",
+      "query": "15330114458 page",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/55fb13bc1a214c338dcfd6095682578e.response.gz",
+      "responseSha256": "01468bb96f59b5ad717260d7dbde6afa8b2a64418ad5d15fb1e33af9ef466414",
+      "compressedSha256": "98e13a585854a9f129137eb14a482e153351c7fd40cfe51b66ef3c944f0bd3f4",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-01/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/3933/15330114458_7a8b382d3b_c.jpg",
+      "query": "15330114458 photo",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-qualified-01/ebfb7ab8f9334ee992d67efb002a1d0d.response.gz",
+      "responseSha256": "53bfb2d6149df7edf3bb4da363a67d865e3449fffe58842efa3ebdd8fbb10c2a",
+      "compressedSha256": "d4af800b1934d0a9f724c5f774d5ad9aa68580e3e741aeae28502143647463d8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-qualified-01/requests.jsonl"
+    },
+    {
+      "query": "烤菜",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E7%83%A4%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/49322b5eb43f4500835eb4782b33a076.response.gz",
+      "responseSha256": "15d5af6faeeacbca8c7d5305bf69354db5067cf686b348983669c756f53461ac",
+      "compressedSha256": "cfccb65d3d5225c631147583206ad3dfbe922eeb12597f0c0d633224cad296d5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "酒釀丸子",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E9%85%92%E9%87%80%E4%B8%B8%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/dd283e18e37949a196130774e4a2faed.response.gz",
+      "responseSha256": "247d5868814a551abbee1b5495ccdac3468a1caf2fd83bcc52521a8d169f4d68",
+      "compressedSha256": "a0572a6f2894b1fabd3a6b83422c399786c6052f24f62efa7667cb233b1063f3",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "桂花糖芋苗",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/02848c443e304fc98d7534df21eb1b75.response.gz",
+      "responseSha256": "ed9640b984e03cf1b9892e99943e8e2ea5ba359c9f0d161e539f6c82a10324a7",
+      "compressedSha256": "517b0bfc6270023ed942a276f0b601b6096abb7b3e5977a7787aaea8de8aecbd",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "荷葉粉蒸肉",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E8%8D%B7%E8%91%89%E7%B2%89%E8%92%B8%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/335af570b96a4f75a2abde7c737acd9e.response.gz",
+      "responseSha256": "7f7d095bd9fa7be02b36a3105b3714ebd7cc5227389e675463a92c4c60db955a",
+      "compressedSha256": "6b365fcedc3ac0afa78bc04d000d992fb860d1fc202d0808bbedff7737f8ecbb",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "三丁包",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E4%B8%89%E4%B8%81%E5%8C%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/944f26ea00574115afd78415be950bd4.response.gz",
+      "responseSha256": "634ae137aad4e809a03f56c217a493f06470ee5b93be0dfb7a61fd1d0b8ef964",
+      "compressedSha256": "ffe0130d1001d9b9fe7e91ffad987a7218a111e21cc141f6ae755f6fe1518f23",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "千層油糕",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%8D%83%E5%B1%A4%E6%B2%B9%E7%B3%95&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/04a871004ac248649f8f7dea5a284076.response.gz",
+      "responseSha256": "7a0b0963db62c2e15c0dbe9f09c46ba8c8bf7166116890412eabd076c298b7a2",
+      "compressedSha256": "7018d3832e54e8b76055575904a24a3885f8c8e6c88b521142716249117b14dc",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "翡翠燒賣",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E7%BF%A1%E7%BF%A0%E7%87%92%E8%B3%A3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/0e420090ac9e47518db74eb3a0551115.response.gz",
+      "responseSha256": "469f91e6364806378a821fcd5f0131a6885464df5d180592e8c40cf42dca0ef2",
+      "compressedSha256": "aa3388ea865fd8b2fbdc14812c39f6a248bfdad2ecb32a1a06154fbc146c6677",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "赤豆元宵",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/9bb380f1c4604a7ab7e141107d871dcd.response.gz",
+      "responseSha256": "6be82dbf4dfc507ee651874e3e5843e0e3488595ab844fd8f472c1f92e0fdcaf",
+      "compressedSha256": "6050c3905db87a3a254a99dbb59a397875485eacf77f6a54dcfead4d86ff7a6e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "奶湯魚皮",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E5%A5%B6%E6%B9%AF%E9%AD%9A%E7%9A%AE&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/b86589d6a9af4afebb90367d99b60b65.response.gz",
+      "responseSha256": "0a3ce4be06895f9081cc960b948690cd267127a8bc760e90e61a8c8256016075",
+      "compressedSha256": "861203e852141b1a1d0754f78614447ab7f8d1a9166963739f3d60f8fd6f2a7f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "枇杷",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E6%9E%87%E6%9D%B7&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/5de5d5f9a7c042859351aa98840a1e40.response.gz",
+      "responseSha256": "bca06cf60f1bc7fd6c677ffda3cfdf1e4b2564f60d0c19e609ce3a356b9aebf3",
+      "compressedSha256": "1d08a88d0cba5758ba80673f0ac3c42fb241f0c817b80514edbdb842cec5ca09",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "紹興醬鴨",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E7%B4%B9%E8%88%88%E9%86%AC%E9%B4%A8&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/ed22bee4f93c491990cb27afeb89f92e.response.gz",
+      "responseSha256": "3814e147e8c65772eeaf5af2d0bdea981ff32d930ea0e3f6151a539f18fc677d",
+      "compressedSha256": "3f9a67cd2e5b2d0a13a1014018d90c9915de254e001a076cb9906af9bfe1b4de",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "query": "臭莧菜",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=%E8%87%AD%E8%8E%A7%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/755e678a86e2492daa1b6dcaefc3f719.response.gz",
+      "responseSha256": "47ec3eb67c55a46f82dcdeba8f685774448b21b3da14a68eba83ce29b0b26600",
+      "compressedSha256": "0362fc961811e800ba1093792e554895463e1442606eb82705c8645a7dcc5e5e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-traditional-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499070464/original.jpg",
+      "query": "g-5154334320-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/9f66fbfad14444239ba814f7f2757136.response.gz",
+      "responseSha256": "47eb315e1ef32e81f5aa3fd2253f05378cf1945c47d615cb8265d07887b00301",
+      "compressedSha256": "5dcfd4a374f863597da1c48ac5629be5b344899648c493b0028d18b4e5f574de",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499070550/original.jpg",
+      "query": "g-5154334320-1",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/e6fef64af83145c39c332cee8e674d99.response.gz",
+      "responseSha256": "b77a63fef322a16b3eae4374e66ae13bf81c830ee202e11812d6e64492a415c4",
+      "compressedSha256": "5e117b4fe01a5bbfee8fbe90b3609540d42451d451c8311fe06b349de4c99824",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499070643/original.jpg",
+      "query": "g-5154334320-2",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/ed04f1e46ef94b79b31ea93392b3c264.response.gz",
+      "responseSha256": "176d2ee2a89079a1aebf97b6a381376b6c22303839d3961da95d50fee749382c",
+      "compressedSha256": "af6d247d2edad2f4a609d50b218f43839c0d5aaa34d167a2af7f61a4a52f471c",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600929852/original.jpg",
+      "query": "g-5936383646-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/10f5424256604264a671a0ceca598f94.response.gz",
+      "responseSha256": "23bad63a97528d3445f12a487daeab11b6001d3cc617211893b9c67ea59f1987",
+      "compressedSha256": "1baf4b70a4463ff4d7873d808d8572746e14f90da8d0dbb3895e319ca64b0dab",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/686822698/original.jpg",
+      "query": "g-6422394045-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/ccb71b118e04411fb18db9f5f8fd50c0.response.gz",
+      "responseSha256": "c735ca48cc467deb89f45e768a349226042016234301892f92c9b43f698327b2",
+      "compressedSha256": "2fd6f0f765351adceffe7e0e43da8d7f6f49bdfc2cece5e7a14ef2146877b7b1",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/482672222/original.jpeg",
+      "query": "g-5134083140-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/4ac4c25433ae47b5be378230d7ac03a7.response.gz",
+      "responseSha256": "6a09a47e79b64bd533144769b0f5cef21cc3fcfba8d4b77b603366e340bb660b",
+      "compressedSha256": "a5e0ff3ad975aacab54f746c36823e03e3dab483937b6dbcbc79aa8bb43d7236",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/600230104/original.jpg",
+      "query": "g-5936388020-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/d20f7be6f68a40f485cf64d3edf10a0c.response.gz",
+      "responseSha256": "cc93872166a7d639d390a0fc7f33aebcce882779996697a82d7a3ec089e0847d",
+      "compressedSha256": "fca6dc630bde7c5bb764d005704965d4ba3efc1194014649dee29319a65b8585",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348449895/original.jpg",
+      "query": "g-4522534191-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/a518ca7646fc4e1f9f0c3fe5b53bbe8e.response.gz",
+      "responseSha256": "98c44005ef19196ed8e08aa1416b4d004ded94037412193fd21eb5aea04f6300",
+      "compressedSha256": "9e2eb6f370068243656a721c529d9042fa46ad091c7ee270f93281fa6688eb5c",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/405613244/original.jpg",
+      "query": "g-4909226217-0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-photos-01/4b7464f16d214fe3a400dbd64297aea4.response.gz",
+      "responseSha256": "11e9968c30474f88d3883f4612674c0f6de18ed04815f83e3aae11b69ef1db43",
+      "compressedSha256": "8f2cd918734a37778b97fd666913b5a7aa6d04bdae3ecfdfa8615f77d3b05e49",
+      "journal": "research/.local/china-photos-20261121-05/gbif-photos-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Morella+rubra&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Morella rubra actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/b0f47d7968b943fcb628985b785ebab0.response.gz",
+      "responseSha256": "152dd5fcc8d22ac0e6f88cdbe9ac59a34714711079b63a5c1068a74eeabfa9cb",
+      "compressedSha256": "737e0df55329374bb77c29ffdc5933ae6a047a32fb69e8fa323abe7d1114a787",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Eriobotrya+japonica&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Eriobotrya japonica actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/5446ee1aff154e438893ad9e162aec73.response.gz",
+      "responseSha256": "90b90f7e4af47fb6c440d02578cf6ea18f5ad8a876dda02590c76783aae72618",
+      "compressedSha256": "577b9ed040171912aa0b1a78402e499965c21872313170d254c4b6bb3d67b496",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Scylla+paramamosain&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Scylla paramamosain actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/7234236664af4ff6b5ce337d8794b92e.response.gz",
+      "responseSha256": "b4b4112de7496e4cb7ba66bcfd4cf79ab08a8f83e2e81096cb4fa6768c3efa1b",
+      "compressedSha256": "3ce0a9a29b9f7ca87f5ac309280091ba1753924cbbb3b450d89ed7b5a73ae7c5",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Tegillarca+granosa&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Tegillarca granosa actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/f6db4d8e487d443988f0a891b4970b7a.response.gz",
+      "responseSha256": "3aedb103bb6a7ca9d9fec76709539c48b90f853d11312e2b5941cafa91c39c3f",
+      "compressedSha256": "791b0f3044c5a72fa579d958db5207d0130ed4d3a1320eeffd45a23baca2a975",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Portunus+trituberculatus&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Portunus trituberculatus actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/101796e7e4dc43d2b7fd7fe8ad47ddc8.response.gz",
+      "responseSha256": "32680a36fc67efd5531687ac560015bf946be11faaa55f7e5629eb524f6e1e4f",
+      "compressedSha256": "bc3db09e21756c786e995e0bdb35f27eba7aacee2cc0e0030eb5cb732d0fa448",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Lentinula+edodes&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Lentinula edodes actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-01/405ba26743a04653abb3f69a39485627.response.gz",
+      "responseSha256": "59d7483f00dce2db4f0ddd3e9fea40ee32fb24ae18eb1ac9591792cab387163e",
+      "compressedSha256": "441a18e6804428de95b51bbc5465286bc96fc3ed94eba4ef84e009c389c15404",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Morella+rubra&country=CN&stateProvince=Jiangsu&mediaType=StillImage&limit=100",
+      "query": "Morella rubra actual Jiangsu photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-02/2e98fad08a74461688ed312ece363690.response.gz",
+      "responseSha256": "8220dd7189b3b3e74b79c21ac681b5aebc062f98c316af67bd1632c6a59eb08d",
+      "compressedSha256": "7c1fee884b7616d3751e310d9b08d9c4be8b046587641c288ebc1057205fbac6",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Citrus+medica+var.+sarcodactylis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Citrus medica var. sarcodactylis actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-02/9741c07ef2dc43268a1709156f2d0124.response.gz",
+      "responseSha256": "16004ddeb6b1eb033e3665fa6082d9cdd36533ce1f36272a2a95f5664f1b9dcd",
+      "compressedSha256": "8d99f71c98bbfa81ff3fdd7fd5b8f35a3371f4b07865441c4e1c2224a799b6f3",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Citrus+changshan-huyou&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Citrus changshan-huyou actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-02/f1412bda63fc4b7c8718d5ced825572f.response.gz",
+      "responseSha256": "e0e387c11354378fd3864abc28e6edfd9fb4ec69879804c5f2a12dc320a448af",
+      "compressedSha256": "a763ab0cca6f17f51191a9f35307cfb1fde5e30bba078def3330deedc2cbf4be",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://api.gbif.org/v1/occurrence/search?scientificName=Phyllostachys+edulis&country=CN&stateProvince=Zhejiang&mediaType=StillImage&limit=100",
+      "query": "Phyllostachys edulis actual Zhejiang photographs",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/gbif-pilot-02/ba9d65be24124f14a7352b8cba4a2bf1.response.gz",
+      "responseSha256": "c725d417536c379524e9d8ff4c6553909c0f1ae2e80e2da48eedb785cd8b1f3c",
+      "compressedSha256": "6afcedd3c2a1a8daf5db2ab02723bcc2230c8bf3fdcaedb4311cbce5a76cfb2e",
+      "journal": "research/.local/china-photos-20261121-05/gbif-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg/960px-%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-9d78480ba6f4c71c",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/54d5fda70597410fa52e2bddf469ee47.response.gz",
+      "responseSha256": "2437bc942638cf8f5df2d56d28ede4e7abc5c292fbfe3d4d8f07396e1ce2af91",
+      "compressedSha256": "67ac31d6cbb2a53dab334ed402e3558d8b9b3d01c614dd3223574800e0a8b575",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86_1.jpg/960px-%E4%B8%AD%E5%9B%BD%E6%B9%96%E7%AC%94%E7%BA%AA%E5%BF%B5%E9%A6%86_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-401f217d2fedb9c0",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/bb510396b7e14e6abbd50547d62e633d.response.gz",
+      "responseSha256": "29d2e9e4ed535fca1b9af90ecacca0f57ba32e0414e9edeeb099376a285edb99",
+      "compressedSha256": "8acf162feea65dc03e350802ca8f582277e1d5c1e254740fcbee7630a14072ef",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg/960px-2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-ce35c1ada9cbd32a",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/23c63da78dae4f939a47602778981c4e.response.gz",
+      "responseSha256": "a711c6d0c69045b1573d1fa8eefafc4468810c844130420f476694c6a5b7eb60",
+      "compressedSha256": "e55a1f00d4d6380ec88ce40289326770e1e2038ca233284c27683330c71b1a67",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg/960px-2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-f3c8bb252663c2b9",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/a84e0b1d2b2248a6941bb4205931b568.response.gz",
+      "responseSha256": "6e0be0eec8fb56d23eceb36146d9034232836f4a32e38aecbee1871f4b5f0190",
+      "compressedSha256": "6ba5a502455271b4a0f62bea4aec5cf272c0bf28de588868d12a76e1678f160b",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_04.jpg/960px-2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_04.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-8d3a72c178551a1c",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/e1c69495216744bc849144e3facf1c6d.response.gz",
+      "responseSha256": "87e2776e7afb85ddf8e84b9b9c433265fed45f94003c0597f0d32272c239fffe",
+      "compressedSha256": "87615a0b5d273e358056606ba61970e425adc4da495bc422cc50b09cd453ca16",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_03.jpg/960px-2023-07-24_China_Hubi_%28Huzhou_Writing_Brush%29_Museum_%E4%B8%AD%E5%9C%8B%E6%B9%96%E7%AD%86%E5%8D%9A%E7%89%A9%E9%A4%A8_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-92298b2bbcccff6f",
+      "itemIds": [
+        "regional-79e6536081f5e3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/hubi-photos/f26705cad08e49d995f8f2e677d472b9.response.gz",
+      "responseSha256": "486bd0dc3e9e995a122a3bad2b87bdd270374d97b435a6a7f3579c0f1830ad69",
+      "compressedSha256": "8f08fafa3d06016c4d805f31c0e9d955c985dadd57b8be7af106dd1b750bb53b",
+      "journal": "research/.local/china-photos-20261121-05/hubi-photos/requests.jsonl"
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Jiang+Qianli",
+      "query": "Jiang Qianli",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 410,
+      "error": "HTTP Error 410: Gone",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/met-search-pilot/5df274905b424582805e1f183e50a6bc.response.gz",
+      "responseSha256": "2db821873cb4abdda7c21568d0268044bd2f9cbe90517ea8e491e6013d370bed",
+      "compressedSha256": "a7ce28e7b533563bb74ffe58be5c00fc66b2ed67383adc6ab074ec6a2e2aff0c",
+      "journal": "research/.local/china-photos-20261121-05/met-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Suzhou",
+      "query": "Suzhou",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 410,
+      "error": "HTTP Error 410: Gone",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/met-search-pilot/8e12b2fd83994786b31db6f2ad90d6d1.response.gz",
+      "responseSha256": "2db821873cb4abdda7c21568d0268044bd2f9cbe90517ea8e491e6013d370bed",
+      "compressedSha256": "a7ce28e7b533563bb74ffe58be5c00fc66b2ed67383adc6ab074ec6a2e2aff0c",
+      "journal": "research/.local/china-photos-20261121-05/met-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=Du+Jinsheng",
+      "query": "Du Jinsheng",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 410,
+      "error": "HTTP Error 410: Gone",
+      "retryAfter": null,
+      "deferUntilEpoch": 1795230267.300624,
+      "responseFile": "research/.local/china-photos-20261121-05/met-search-pilot/7a2630c19cd94c418eeb37472953b27d.response.gz",
+      "responseSha256": "2db821873cb4abdda7c21568d0268044bd2f9cbe90517ea8e491e6013d370bed",
+      "compressedSha256": "a7ce28e7b533563bb74ffe58be5c00fc66b2ed67383adc6ab074ec6a2e2aff0c",
+      "journal": "research/.local/china-photos-20261121-05/met-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Jiang+Qianli&has_image=1",
+      "query": "Cleveland Jiang Qianli",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/425d6b2bc8be4f98b689e3a776943e38.response.gz",
+      "responseSha256": "5f7516d023e72509099eda48dffc366c2ed9af4d8f1b4c16c3aa4584ad40f775",
+      "compressedSha256": "7310bfa3da6700472ec630ab9a714018359eb55265d0122f29293cfdb112b5d2",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Jiang+Qianli&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Jiang Qianli",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/9b295ff773794865b701340ce87dc070.response.gz",
+      "responseSha256": "d682fe74f94b837415e76ac6109a2bb66e052f5ebf49fefd1e49ae5375c96d19",
+      "compressedSha256": "99b1efb7ba00578a3e009b5c292c556d9833a16fa8a445189a9bdc5e4e1b9a38",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Suzhou&has_image=1",
+      "query": "Cleveland Suzhou",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/f3f68915547c4240b313d5d8d75ad45e.response.gz",
+      "responseSha256": "349dd2a9299877af5ec47de0f5df46ff90a52cc2cf78df5fe580a5b6bb29f82a",
+      "compressedSha256": "c4765566b3cf05979ed3451f8b4e191d9e831f8d22d20788d89fbeae4b1e6152",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Suzhou&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Suzhou",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/a8cdd0e397f44934ad3f92a24282ff47.response.gz",
+      "responseSha256": "58e5db40fed2863d517f9677041c1d0dcce73e3d40caecbc745676dadd87ef26",
+      "compressedSha256": "197cc2028267549ed57d66bdef03ee66c2e61fbf06c5886141ea15f4e10ef500",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://openaccess-api.clevelandart.org/api/artworks/?q=Yangzhou&has_image=1",
+      "query": "Cleveland Yangzhou",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/92356464db2441eb9c2f1f1770ae2701.response.gz",
+      "responseSha256": "ab1e9d5e2161c1c78162ddd88c06f3b93b103707651d3d230d00563280c7027c",
+      "compressedSha256": "bf0bf49b1a1d2ffbe597b7450eae84c7adb9c8249e0b5e851988dea266ff38ef",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://api.artic.edu/api/v1/artworks/search?q=Yangzhou&limit=20&fields=id%2Ctitle%2Cartist_display%2Cdate_display%2Cplace_of_origin%2Cimage_id%2Cis_public_domain%2Cmain_reference_number",
+      "query": "Art Institute Yangzhou",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "retryAfter": null,
+      "deferUntilEpoch": 1795230316.3605442,
+      "responseFile": "research/.local/china-photos-20261121-05/museum-search-pilot/93a7f18b306741df9507d5433ea12150.response.gz",
+      "responseSha256": "27dd4681d59e46001326824539758c1fc59ae80dc22b355f1e89a0d2f4ecad7e",
+      "compressedSha256": "f6585803cf305a5332482212c2d1c87fc3cc911ff96ac90a8fe07aca368ddb4a",
+      "journal": "research/.local/china-photos-20261121-05/museum-search-pilot/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg/960px-%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-4a4663971db01063 赤豆酒酿元宵.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/photo-downloads-01/bea1b51d4eaa4730825e32d46de39e79.response.gz",
+      "responseSha256": "187a74a816a528669b86741e21fb082a5fd3d5a876f2f4ca6babc9a688415ff5",
+      "compressedSha256": "664a49467ce00712821de928d31fc89a83a10d5269209c7356ca8d03cee30aa5",
+      "journal": "research/.local/china-photos-20261121-05/photo-downloads-01/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ningbo-Style_Ricefield_Eel_Slices.jpg/960px-Ningbo-Style_Ricefield_Eel_Slices.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-d27b5630eeead2a8 Ningbo-Style Ricefield Eel Slices.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/photo-downloads-01/19464c77dc5b4b81b6105a9c885278fd.response.gz",
+      "responseSha256": "9d8b200466975dee62904c22cc72a63d8944a02565a91bd1c7fcc4625e89b0ad",
+      "compressedSha256": "8aa08d5ac7a43fbe7e79b9910df7f6311f35279365d7cb739fb9d528fecc8cf8",
+      "journal": "research/.local/china-photos-20261121-05/photo-downloads-01/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mutton_pudding_%28C%C3%A1ng_sh%C5%AB_y%C3%A1ng_r%C3%B2u%29.jpg/960px-Mutton_pudding_%28C%C3%A1ng_sh%C5%AB_y%C3%A1ng_r%C3%B2u%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-94396df81abc65f9 Mutton pudding (Cáng shū yáng ròu).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/photo-downloads-01/0804f90eafed494ba788b76409005d02.response.gz",
+      "responseSha256": "afa395e1c7f97595c5a6b7be6b85bd2b797f7657ec4db8f9cab098758aa3c82f",
+      "compressedSha256": "a52fc7d16178d5759dcfe41d3ef9d296e36ed9c66b426e9664ba966dd5bf9a57",
+      "journal": "research/.local/china-photos-20261121-05/photo-downloads-01/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fu_Chun_Tea_House_buns.JPG/960px-Fu_Chun_Tea_House_buns.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "c-e6a81529c468ccf5 Fu Chun Tea House buns.JPG",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/photo-downloads-01/204698eda79b479ca66a723c6ce09189.response.gz",
+      "responseSha256": "8309449bbd93a226e08d532a21e76d0cab9794e1da917b7b0ab91c7b17e1b749",
+      "compressedSha256": "fe9035c37c015bd3dcb3b1abc562fd411788adaca3fad8d9a17bcbc0081920fb",
+      "journal": "research/.local/china-photos-20261121-05/photo-downloads-01/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2020/07/rice-noodle-14.webp",
+      "query": "Original rice flour pork hero leaf identification",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/photo-leaf-check/31a193ac89514418b9c40ba17b20a878.response.gz",
+      "responseSha256": "cc6b325b4777dfa71a313c2e501f7e0501ec7e2b36200b1b36b6bb722e2b3dd0",
+      "compressedSha256": "63265c79c32cd233a7c9ac97298fcf18cf2b40c7f207dfc5269b7cb5908e1df1",
+      "journal": "research/.local/china-photos-20261121-05/photo-leaf-check/requests.jsonl"
+    }
+  ]
+}

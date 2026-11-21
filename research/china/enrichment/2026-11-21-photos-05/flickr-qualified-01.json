@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.flickr.com/photos/24952148@N04/2357013647",
+      "query": "2357013647 page",
+      "itemIds": []
+    },
+    {
+      "url": "https://live.staticflickr.com/2127/2357013647_756d6efc61_b.jpg",
+      "query": "2357013647 photo",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/photos/106119108@N03/15330114458",
+      "query": "15330114458 page",
+      "itemIds": []
+    },
+    {
+      "url": "https://live.staticflickr.com/3933/15330114458_7a8b382d3b_c.jpg",
+      "query": "15330114458 photo",
+      "itemIds": []
+    }
+  ]
+}
