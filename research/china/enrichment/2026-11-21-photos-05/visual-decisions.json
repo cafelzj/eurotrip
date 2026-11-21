@@ -56,6 +56,33 @@
       "kind": "food",
       "viewedOriginal": true,
       "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "regional-6c556c676d44e0",
+      "itemName": "扬州漆器",
+      "candidateId": "c-e5fac6bc4ca5bef9",
+      "caption": "扬州贝雕漆器实物，扇形摆件表现亭台与水岸景物。",
+      "reason": "原作者直接命名Yangzhou shell lacquer，完整元数据归入扬州文化及中国螺钿漆器。已看实物照片，黑色漆面、白色贝片及扇形器物清楚完整；呈现工艺品本体，没有以店招、博物馆建筑或其他城市漆器替代。",
+      "kind": "craft",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-0609e430982ee84b7d",
+      "itemName": "蜜汁藕",
+      "candidateId": "c-4f5364df5219e5b7",
+      "caption": "蜜汁糯米藕的成品实拍，原作者记作糖藕、糯米藕。",
+      "reason": "已查看原图，糯米填藕及糖汁主体清楚，摆盘整洁。原作者中文明确糖藕、糯米藕，扬子晚报南京市场报道正文说明蜜汁藕以糯米填藕熬煮并浇桂花糖汁；据同类做法合理对应，照片为杭州餐食示例，不宣称南京拍摄或固定装盘。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-zhejiang-96a2482fa2",
+      "itemName": "霉苋菜梗",
+      "candidateId": "c-06d205bd3e34dc57",
+      "caption": "霉苋菜梗烧臭豆腐实拍，摄于浙江安吉。",
+      "reason": "原作者完整中文说明直接命名霉苋菜梗烧臭豆腐及安吉剑山蔓塘里餐馆。已查看原图，中部粗苋菜梗清楚可辨，周围臭豆腐为同锅配料，画面干净完整；展示实际食用形态，不冒称绍兴拍摄或单独蒸制。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -122,6 +149,22 @@
     {
       "candidateId": "g-4909226217-0",
       "reason": "梭子蟹候选为断肢、残骸、垃圾袋或杂乱市场画面，不作为食材商品或成品封面。"
+    },
+    {
+      "candidateId": "c-6461f6b3080dc928",
+      "reason": "只证实朱家角荷叶蒸肉，图中肉面未见清楚米粉，不能据相近名称自动判作荷叶粉蒸肉。"
+    },
+    {
+      "candidateId": "c-f63b2ae69a1516f5",
+      "reason": "来源明确赣菜米粉肉，不直接给西塘或杭州具名版本配图。"
+    },
+    {
+      "candidateId": "c-6b15e3ed9043a8fc",
+      "reason": "来源归湖北米粉蒸肉，不能因此证明西塘或荷叶做法。"
+    },
+    {
+      "candidateId": "c-217c63f9e5714f23",
+      "reason": "海派粉蒸肉只占高铁多格套餐的一格，主体太小且场景杂，不采用为单道菜封面。"
     }
   ]
 }

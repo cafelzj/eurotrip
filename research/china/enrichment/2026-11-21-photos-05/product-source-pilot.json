@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.christinesrecipes.com/2008/06/chicken-wings-in-pickle-sauce.html",
+      "query": "English publication of pickle-sauce wings, check actual licensed image",
+      "itemIds": [
+        "sh-zaolu"
+      ]
+    },
+    {
+      "url": "https://en.christinesrecipes.com/p/terms-of-use-and-conditions.html",
+      "query": "English site photo terms exact scope",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=dingfeng&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand dingfeng",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E9%BC%8E%E4%B8%B0&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand 鼎丰",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=mosilian&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand mosilian",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E5%85%89%E6%98%8E&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand 光明",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=%E6%9D%8E%E5%AD%90%E5%9B%AD&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand 李子园",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/api/v2/search?brands_tags=liziyuan&page_size=30&fields=code%2Cbrands%2Cproduct_name%2Cproduct_name_zh%2Cimages%2Cimage_front_url%2Cmanufacturing_places%2Ccountries_tags",
+      "query": "OFF brand liziyuan",
+      "itemIds": []
+    }
+  ]
+}

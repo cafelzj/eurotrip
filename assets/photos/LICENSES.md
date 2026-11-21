@@ -1402,3 +1402,27 @@ License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 Original image URL: https://inaturalist-open-data.s3.amazonaws.com/photos/600929852/original.jpg
 Changes: 完整保留原字节和画面。
 Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-c-e5fac6bc4ca5bef9.jpg
+
+Author: Gisling
+Source: https://commons.wikimedia.org/wiki/File:Yangzhou_lacquer.JPG
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Yangzhou_lacquer.JPG/960px-Yangzhou_lacquer.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-4f5364df5219e5b7.jpg
+
+Author: 三猎
+Source: https://commons.wikimedia.org/wiki/File:%E7%B3%96%E8%97%95.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/%E7%B3%96%E8%97%95.jpg/960px-%E7%B3%96%E8%97%95.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-06d205bd3e34dc57.jpg
+
+Author: 源義信
+Source: https://commons.wikimedia.org/wiki/File:2025-01-30_Stinky_Chinese_spinach_with_Tofu,_Anchi,_Chekiang.jpg
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg/960px-2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

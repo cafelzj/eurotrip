@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=500",
+      "query": "English Christine original recipe index with licensed photographs",
+      "itemIds": []
+    },
+    {
+      "url": "https://ppbc.iplant.cn/",
+      "query": "Chinese plant image library primary search and photo-use terms",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.cfh.ac.cn/",
+      "query": "Chinese Field Herbarium primary photo metadata and licenses",
+      "itemIds": []
+    }
+  ]
+}

@@ -5170,6 +5170,84 @@ window.chinaCardImages = {
       "commercialUse": false,
       "deploymentContext": "personal-informational-github-pages-without-advertising",
       "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-c-e5fac6bc4ca5bef9": {
+      "file": "Yangzhou lacquer.JPG",
+      "src": "assets/photos/china/cn05-c-e5fac6bc4ca5bef9.jpg",
+      "width": 960,
+      "height": 716,
+      "kind": "craft",
+      "alt": "扬州贝雕漆器实物，扇形摆件表现亭台与水岸景物。",
+      "caption": "扬州贝雕漆器实物，扇形摆件表现亭台与水岸景物。",
+      "author": "Gisling",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yangzhou_lacquer.JPG",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Yangzhou_lacquer.JPG/960px-Yangzhou_lacquer.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者直接命名Yangzhou shell lacquer，完整元数据归入扬州文化及中国螺钿漆器。已看实物照片，黑色漆面、白色贝片及扇形器物清楚完整；呈现工艺品本体，没有以店招、博物馆建筑或其他城市漆器替代。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-c-4f5364df5219e5b7": {
+      "file": "糖藕.jpg",
+      "src": "assets/photos/china/cn05-c-4f5364df5219e5b7.jpg",
+      "width": 960,
+      "height": 1185,
+      "kind": "food",
+      "alt": "蜜汁糯米藕的成品实拍，原作者记作糖藕、糯米藕。",
+      "caption": "蜜汁糯米藕的成品实拍，原作者记作糖藕、糯米藕。",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%B3%96%E8%97%95.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/%E7%B3%96%E8%97%95.jpg/960px-%E7%B3%96%E8%97%95.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已查看原图，糯米填藕及糖汁主体清楚，摆盘整洁。原作者中文明确糖藕、糯米藕，扬子晚报南京市场报道正文说明蜜汁藕以糯米填藕熬煮并浇桂花糖汁；据同类做法合理对应，照片为杭州餐食示例，不宣称南京拍摄或固定装盘。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-c-06d205bd3e34dc57": {
+      "file": "2025-01-30 Stinky Chinese spinach with Tofu, Anchi, Chekiang.jpg",
+      "src": "assets/photos/china/cn05-c-06d205bd3e34dc57.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "food",
+      "alt": "霉苋菜梗烧臭豆腐实拍，摄于浙江安吉。",
+      "caption": "霉苋菜梗烧臭豆腐实拍，摄于浙江安吉。",
+      "author": "源義信",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-01-30_Stinky_Chinese_spinach_with_Tofu,_Anchi,_Chekiang.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg/960px-2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者完整中文说明直接命名霉苋菜梗烧臭豆腐及安吉剑山蔓塘里餐馆。已查看原图，中部粗苋菜梗清楚可辨，周围臭豆腐为同锅配料，画面干净完整；展示实际食用形态，不冒称绍兴拍摄或单独蒸制。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -5377,7 +5455,10 @@ window.chinaCardImages = {
     "program-cf797a5d34ce94c299": "cn05-c-975405b23cf7ee34",
     "flavor-jiangsu-886c8438f1": "cn05-15330114458",
     "flavor-jiangsu-fd6788d92f": "cn05-2357013647",
-    "program-a2911fde28c625f889": "cn05-g-5936383646-0"
+    "program-a2911fde28c625f889": "cn05-g-5936383646-0",
+    "regional-6c556c676d44e0": "cn05-c-e5fac6bc4ca5bef9",
+    "program-0609e430982ee84b7d": "cn05-c-4f5364df5219e5b7",
+    "flavor-zhejiang-96a2482fa2": "cn05-c-06d205bd3e34dc57"
   },
   "galleries": {}
 };

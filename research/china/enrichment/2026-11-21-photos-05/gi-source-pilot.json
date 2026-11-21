@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.cnipa.gov.cn/",
+      "query": "CNIPA official product-information and reproduction-policy links",
+      "itemIds": []
+    },
+    {
+      "url": "https://data.chinapgi.org/",
+      "query": "Geographical indications product photo service primary homepage",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinapgi.org/",
+      "query": "GI service platform primary homepage and reuse terms",
+      "itemIds": []
+    }
+  ]
+}

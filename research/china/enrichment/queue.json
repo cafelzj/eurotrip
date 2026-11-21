@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 290,
-    "withListPhoto": 277,
-    "missingRealPhoto": 6337,
-    "needsListPhoto": 6350
+    "withDetailPhoto": 293,
+    "withListPhoto": 280,
+    "missingRealPhoto": 6334,
+    "needsListPhoto": 6347
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 355,
-      "needsListPhoto": 355
+      "missingRealPhoto": 353,
+      "needsListPhoto": 353
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 358,
-      "needsListPhoto": 358
+      "missingRealPhoto": 357,
+      "needsListPhoto": 357
     },
     "anhui": {
       "cards": 330,
@@ -12512,19 +12512,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-zhejiang-96a2482fa2",
-      "name": "霉苋菜梗",
-      "province": "zhejiang",
-      "city": "绍兴",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 55,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-zhejiang-9e9e5f67db",
       "name": "长人馄饨",
       "province": "zhejiang",
@@ -23055,19 +23042,6 @@
       "priority": 1
     },
     {
-      "itemId": "regional-6c556c676d44e0",
-      "name": "扬州漆器",
-      "province": "jiangsu",
-      "city": "扬州",
-      "category": "food",
-      "subcategory": "crafts",
-      "readingCharacters": 74,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "regional-6db6d69dcd085b",
       "name": "营口海蜇",
       "province": "liaoning",
@@ -29093,19 +29067,6 @@
       "city": "锦州",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 100,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-0609e430982ee84b7d",
-      "name": "蜜汁藕",
-      "province": "jiangsu",
-      "city": "南京",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 100,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83323,6 +83284,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-zhejiang-96a2482fa2",
+      "name": "霉苋菜梗",
+      "province": "zhejiang",
+      "city": "绍兴",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 55,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-zhejiang-caa99dee23",
       "name": "老鸭面",
       "province": "zhejiang",
@@ -83895,6 +83869,19 @@
       "priority": 3
     },
     {
+      "itemId": "regional-6c556c676d44e0",
+      "name": "扬州漆器",
+      "province": "jiangsu",
+      "city": "扬州",
+      "category": "food",
+      "subcategory": "crafts",
+      "readingCharacters": 74,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "regional-a60c220a861563",
       "name": "苏州宋锦",
       "province": "jiangsu",
@@ -84292,6 +84279,19 @@
       "category": "food",
       "subcategory": "seasoning",
       "readingCharacters": 99,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-0609e430982ee84b7d",
+      "name": "蜜汁藕",
+      "province": "jiangsu",
+      "city": "南京",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 100,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

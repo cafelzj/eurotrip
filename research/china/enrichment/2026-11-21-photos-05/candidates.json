@@ -120,6 +120,78 @@
       "provider": "iNaturalist / GBIF",
       "license": "CC BY-NC-ND 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "id": "c-e5fac6bc4ca5bef9",
+      "title": "Yangzhou lacquer.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Yangzhou_lacquer.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Yangzhou_lacquer.JPG/960px-Yangzhou_lacquer.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "author": "Gisling",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Yangzhou shell lacquer",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-metadata-04/e13c7717361e4ac3ae355cccd6bc29ff.response.gz",
+      "metadataSha256": "13976c7a3aebdddf417457a4d8d4bed9c91b00ad6e1ba31cdf11a7defa7db6b2",
+      "itemIds": [
+        "regional-6c556c676d44e0"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/c-e5fac6bc4ca5bef9.jpg",
+      "rawSha256": "f3e047b6476242532ffc4b31fba8d2cb62f5ddef48eac4ecceb4b97c39f97fed"
+    },
+    {
+      "title": "糖藕.jpg",
+      "categoryNames": [
+        "Gastronomy in Hangzhou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/9eb964a36a2aaf65af95.html.gz"
+      ],
+      "id": "c-4f5364df5219e5b7",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%B3%96%E8%97%95.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/%E7%B3%96%E8%97%95.jpg/960px-%E7%B3%96%E8%97%95.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Lotus root dishes with sticky rice.",
+      "itemIds": [
+        "program-0609e430982ee84b7d"
+      ],
+      "metadataFile": "research/.local/china-photos-20261121-05/cached-multilingual-metadata/7d006d9a8bf3462ba8802eb150139670.response.gz",
+      "metadataSha256": "600255c34a4388f1d7db6a809926bcb62ea3ad67f6e706ff1831780cc9cf68d8",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1185,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-4f5364df5219e5b7.jpg",
+      "rawSha256": "a60e6451de1e555c2e04db868bc06b46371a848ef54674c6b8860a045b5953ca"
+    },
+    {
+      "title": "2025-01-30 Stinky Chinese spinach with Tofu, Anchi, Chekiang.jpg",
+      "categoryNames": [
+        "Gastronomy in Huzhou"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/dafe401080477fa3b900.html.gz"
+      ],
+      "id": "c-06d205bd3e34dc57",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-01-30_Stinky_Chinese_spinach_with_Tofu,_Anchi,_Chekiang.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg/960px-2025-01-30_Stinky_Chinese_spinach_with_Tofu%2C_Anchi%2C_Chekiang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "源義信",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Stinky Chinese spinach with Tofu, Anchi, Chekiang (浙江安吉)",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "metadataFile": "research/.local/china-photos-20261121-05/cached-multilingual-metadata/7d006d9a8bf3462ba8802eb150139670.response.gz",
+      "metadataSha256": "600255c34a4388f1d7db6a809926bcb62ea3ad67f6e706ff1831780cc9cf68d8",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 1280,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-06d205bd3e34dc57.jpg",
+      "rawSha256": "46fdfd789e77f45bb3f4928ae01f6f49daa18762025c0e0bdbc44ea92a99ebfb"
     }
   ]
 }

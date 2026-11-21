@@ -1,0 +1,29 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.cfh.ac.cn/js/data.js",
+      "query": "CFH published data and photo-reference fields",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.cfh.ac.cn/js/common.js",
+      "query": "CFH public interface and legal links",
+      "itemIds": []
+    },
+    {
+      "url": "https://ppbc.iplant.cn/copyright",
+      "query": "PPBC exact image usage scope",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.museumschina.cn/public/copyright",
+      "query": "Museums China exact noncommercial photo reuse terms",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.christinesrecipes.com/feeds/posts/default?alt=json&max-results=150&start-index=151",
+      "query": "Christine English original recipe index page 2",
+      "itemIds": []
+    }
+  ]
+}

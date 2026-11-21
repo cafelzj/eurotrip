@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-21",
+  "corrections": [
+    {
+      "originalItemId": "program-582f1f44d9a9321eb7",
+      "correctItemId": "program-b7859d5704cc0647e9",
+      "itemName": "横山桥百叶",
+      "affectedPlan": "subject-primary-followup.json",
+      "reason": "一次核对计划误填了不存在的条目ID，尚未用于任何正式卡片绑定；保留原请求，并以本记录明确正确目标。原图中文实际为横山桥蜜汁豆腐，仍不得因此把图片改称百叶。"
+    }
+  ]
+}

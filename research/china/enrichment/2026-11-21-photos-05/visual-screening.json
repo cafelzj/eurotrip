@@ -28,6 +28,18 @@
     {
       "file": "research/.local/china-photos-20261121-05/loquat-individual-review.jpg",
       "sha256": "c838d198b4f28ea38a986c6a7868fb4d9f77cb69bd834427ca9efc043eee03d9"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/review-04.jpg",
+      "sha256": "d68aa88d9dc731dbe3bc052110773e69dec41f5fec3b2d96047352d6d3091bc4"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/cached-alias-review.jpg",
+      "sha256": "3d8562eecd22cc0c51763ad4dba3fa090f0de6fd12c31d0562e1ab8f09cd517e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/vegetable-candidates-review.jpg",
+      "sha256": "e508df8b7513215546d1bd12e21c4dd2367c86935de7460484d86580cbab779c"
     }
   ],
   "notes": [
