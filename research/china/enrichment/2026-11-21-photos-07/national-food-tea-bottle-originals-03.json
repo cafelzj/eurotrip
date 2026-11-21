@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/20240806_Tong_Zi_Chicken_for_sale_at_Pang_Ji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:20240806 Tong Zi Chicken for sale at Pang Ji.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Da_Hong_Pao_Oolong_tea_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Da Hong Pao Oolong tea leaf.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Di%C4%81ng-bi%C4%95ng-g%C3%B9_with_seafood_in_Fuzhou_%2820200927131715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Diāng-biĕng-gù with seafood in Fuzhou (20200927131715).jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jin_Jun_Mei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Jin Jun Mei.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jiugui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Jiugui.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Siguotang1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Siguotang1.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E5%B0%8F%E7%93%B6%E8%A3%85%E8%A5%BF%E5%87%A4%E9%85%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:小瓶装西凤酒.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%E7%B3%8C%E7%B2%912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:糌粑2.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%E7%BB%8F%E5%85%B8%E7%93%B6%E8%A3%85%E5%9B%9B%E7%89%B9%E6%B6%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:经典瓶装四特液.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E9%BA%BB%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:麻辣小龙虾.jpg exact subject full original visual review; reject poor photo rather than auto-adopt",
+      "itemIds": []
+    }
+  ]
+}

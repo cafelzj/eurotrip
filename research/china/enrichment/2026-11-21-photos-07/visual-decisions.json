@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-21",
+  "approved": [
+    {
+      "itemId": "flavor-hunan-c24cf1013a",
+      "itemName": "东安鸡",
+      "candidateId": "csf-dongan-chicken",
+      "caption": "东安鸡家常做法实拍，以姜椒和米醋调味。",
+      "reason": "原作者明确为Donan chicken并说明预煮后切块、姜椒与米醋烹制；全幅成品照片清楚。已用湖南省厅与永州文旅原文纠正同名活禽资料混入菜肴的问题，再采用相应菜肴实拍；这是作者家常版本，不冒称东安餐馆或当地唯一配方。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "program-5421ae96078b72e30e",
+      "itemName": "大红袍",
+      "candidateId": "dahongpao-tea-leaves",
+      "caption": "大红袍干茶叶实拍示例，保留原有条索与色泽。",
+      "reason": "原图作者自述摄影并以大红袍命名，干茶条索与焙火后的颜色清楚，白底整洁；不宣称这批茶来自母树、具备特定等级或通过地理标志认证。原件640像素不放大存储。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-f0e428b781f2d517d2",
+      "itemName": "金骏眉",
+      "candidateId": "tongmu-jinjunmei-tea",
+      "caption": "2019年采自武夷桐木村的金骏眉干茶实拍。",
+      "reason": "原作者直接记录茶名、2019年4月采收与福建武夷桐木村产地；全幅可见金色芽毫与茶条，主体清晰、背景简洁，不用其他红茶叶替代。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-be622badcb3ee967d4",
+      "itemName": "酒鬼酒",
+      "candidateId": "jiugui-2008-bottle",
+      "caption": "酒鬼酒陶瓶与酒杯实拍，摄于2008年。",
+      "reason": "品牌红签与湖南酒鬼酒股份有限公司瓶标可辨，原作者明确酒鬼酒品牌；暖光下实物包装完整，按历史包装展示，不作当前产品规格或售价证明。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sg-8c665fa48a43fecfde",
+      "itemName": "西凤酒",
+      "candidateId": "xifeng-red-label-bottles",
+      "caption": "西凤酒红标绿瓶包装实拍，摄于2026年。",
+      "reason": "已全幅查看，中心瓶标为西凤酒，原图瓶身注明500mL；作者题名“小瓶装”不作为规格事实，图注不沿用这一昵称。保留全幅商店实拍，不把旁边其他酒品牌混作西凤酒或引用价签作现价。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-hunan-1b96f0e428",
+      "itemName": "口味虾",
+      "candidateId": "mala-crayfish-dish",
+      "caption": "麻辣口味小龙虾成品实拍示例。",
+      "reason": "现有口味虾卡片以小龙虾配辣椒等调味烹炒为主题，原图明确麻辣小龙虾且成品红亮完整。作为有依据的同类麻辣做法实拍采用，不冒称长沙餐馆出品、盱眙原料或特定十三香配方；菜盘主体清楚、画面自然。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-c10d7f850f8864",
+      "itemName": "永嘉麦饼",
+      "candidateId": "tianditu-yongjia-maibing",
+      "caption": "永嘉麦饼成品实拍，切块后可见菜肉馅层。",
+      "reason": "原文永嘉县“永嘉麦饼”段落对应此图，图片带天地图温州原水印，切块饼面、煎烙色和馅层清楚；未用其他地方麦饼替代。原件516×292，保留尺寸不放大、不去水印。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "flavor-zhejiang-f1b67ca9a0",
+      "itemName": "白象香糕",
+      "candidateId": "tianditu-baixiang-xianggao",
+      "caption": "乐清白象香糕成品实拍，原图保留天地图温州水印。",
+      "reason": "原文乐清市“白象香糕”段落直接对应，盘中糕块与切面可辨，未将其他米糕冒充；原件434×280，不放大、不去水印，原文发表时间不是确切拍摄日期。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "county-7a0969fc8211ad",
+      "itemName": "矾山肉燕",
+      "candidateId": "tianditu-fanshan-rouyan",
+      "caption": "矾山肉燕汤成品实拍，薄皮包馅配清汤。",
+      "reason": "原文苍南县肉燕段落明确矾山肉燕，水印与原稿声明一致；原图一碗汤中肉燕薄皮、肉馅与配菜清楚，暖光明亮、主体占比高。未以福州生肉燕堆放图替代。原件381×360不放大、不去水印。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    }
+  ],
+  "held": [
+    {
+      "candidate": "national-originals-03",
+      "reason": "桶子鸡为整堆待售鸡且构图杂；四果汤有反光和模糊；鼎边糊画面灰暗、台面杂景；糌粑仅原料摆放；四特液未确证与现有四特酒产品身份，不采用这些封面。口子窖文章首图是公交广告、润饼是台湾版本、擀面皮跳到汉中米面皮，均未按标题自动配图。"
+    }
+  ]
+}

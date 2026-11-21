@@ -1950,3 +1950,75 @@ Source: https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B
 License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f9/%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn07-csf-dongan-chicken.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2014/05/hunan-chicken.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-dahongpao-tea-leaves.jpg
+
+Author: Iateasquirrel  at  English Wikipedia
+Source: https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg
+License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/29/Da_Hong_Pao_Oolong_tea_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-tongmu-jinjunmei-tea.jpg
+
+Author: Difference engine
+Source: https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/d/db/Jin_Jun_Mei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-jiugui-2008-bottle.jpg
+
+Author: Badagnani
+Source: https://commons.wikimedia.org/wiki/File:Jiugui.jpg
+License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/6/60/Jiugui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-xifeng-red-label-bottles.jpg
+
+Author: Lhzss8
+Source: https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%93%B6%E8%A3%85%E8%A5%BF%E5%87%A4%E9%85%92.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/4e/%E5%B0%8F%E7%93%B6%E8%A3%85%E8%A5%BF%E5%87%A4%E9%85%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-mala-crayfish-dish.jpg
+
+Author: Suginami
+Source: https://commons.wikimedia.org/wiki/File:%E9%BA%BB%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/d/d0/%E9%BA%BB%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-tianditu-yongjia-maibing.jpg
+
+Author: 天地图温州（图文发布方，未单列摄影者）
+Source: https://www.sohu.com/a/222519296_168335/
+License: [原稿公开转载声明（注明来源并保留水印）](https://www.sohu.com/a/222519296_168335/)
+Original image URL: https://5b0988e595225.cdn.sohucs.com/images/20180213/4a3fc2c1201b4da68bae1d76f41a64ce.jpeg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-tianditu-baixiang-xianggao.jpg
+
+Author: 天地图温州（图文发布方，未单列摄影者）
+Source: https://www.sohu.com/a/222519296_168335/
+License: [原稿公开转载声明（注明来源并保留水印）](https://www.sohu.com/a/222519296_168335/)
+Original image URL: https://5b0988e595225.cdn.sohucs.com/images/20180213/a82d510c2383434c81a1a272a1cb81ee.jpeg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-tianditu-fanshan-rouyan.jpg
+
+Author: 天地图温州（图文发布方，未单列摄影者）
+Source: https://www.sohu.com/a/222519296_168335/
+License: [原稿公开转载声明（注明来源并保留水印）](https://www.sohu.com/a/222519296_168335/)
+Original image URL: https://5b0988e595225.cdn.sohucs.com/images/20180213/d8c248c8229440d38830014ab571e551.jpeg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。

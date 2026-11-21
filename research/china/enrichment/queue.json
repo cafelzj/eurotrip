@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 358,
-    "withListPhoto": 345,
-    "missingRealPhoto": 6269,
-    "needsListPhoto": 6282
+    "withDetailPhoto": 367,
+    "withListPhoto": 354,
+    "missingRealPhoto": 6260,
+    "needsListPhoto": 6273
   },
   "byProvince": {
     "henan": {
@@ -36,8 +36,8 @@
     "hunan": {
       "cards": 351,
       "shortReadings": 215,
-      "missingRealPhoto": 348,
-      "needsListPhoto": 348
+      "missingRealPhoto": 345,
+      "needsListPhoto": 345
     },
     "jiangsu": {
       "cards": 505,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 353,
-      "needsListPhoto": 353
+      "missingRealPhoto": 350,
+      "needsListPhoto": 350
     },
     "anhui": {
       "cards": 330,
@@ -66,8 +66,8 @@
     "fujian": {
       "cards": 253,
       "shortReadings": 142,
-      "missingRealPhoto": 248,
-      "needsListPhoto": 248
+      "missingRealPhoto": 246,
+      "needsListPhoto": 246
     },
     "heilongjiang": {
       "cards": 212,
@@ -120,8 +120,8 @@
     "shaanxi": {
       "cards": 147,
       "shortReadings": 68,
-      "missingRealPhoto": 142,
-      "needsListPhoto": 142
+      "missingRealPhoto": 141,
+      "needsListPhoto": 141
     },
     "jiangxi": {
       "cards": 222,
@@ -4601,19 +4601,6 @@
       "city": "永州",
       "category": "food",
       "subcategory": "alcohol",
-      "readingCharacters": 49,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-hunan-1b96f0e428",
-      "name": "口味虾",
-      "province": "hunan",
-      "city": "长沙",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 49,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -12915,19 +12902,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-zhejiang-f1b67ca9a0",
-      "name": "白象香糕",
-      "province": "zhejiang",
-      "city": "温州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 56,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-zhejiang-f9932d112c",
       "name": "美丽健乳品",
       "province": "zhejiang",
@@ -17118,19 +17092,6 @@
       "name": "武威葡萄酒",
       "province": "gansu",
       "city": "武威",
-      "category": "food",
-      "subcategory": "alcohol",
-      "readingCharacters": 63,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sg-8c665fa48a43fecfde",
-      "name": "西凤酒",
-      "province": "shaanxi",
-      "city": "宝鸡",
       "category": "food",
       "subcategory": "alcohol",
       "readingCharacters": 63,
@@ -25044,19 +25005,6 @@
       "priority": 1
     },
     {
-      "itemId": "county-c10d7f850f8864",
-      "name": "永嘉麦饼",
-      "province": "zhejiang",
-      "city": "温州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 90,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "county-ed56235c8379a4",
       "name": "双牌虎爪姜",
       "province": "hunan",
@@ -27416,19 +27364,6 @@
       "city": "龙岩",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 96,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "county-7a0969fc8211ad",
-      "name": "矾山肉燕",
-      "province": "zhejiang",
-      "city": "温州",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 96,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -30517,19 +30452,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-5421ae96078b72e30e",
-      "name": "大红袍",
-      "province": "fujian",
-      "city": "南平",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 103,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-5cac3acc823a52147e",
       "name": "天宝山黄梨",
       "province": "shandong",
@@ -30679,19 +30601,6 @@
       "city": "阳泉",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 103,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-f0e428b781f2d517d2",
-      "name": "金骏眉",
-      "province": "fujian",
-      "city": "南平",
-      "category": "food",
-      "subcategory": "tea",
       "readingCharacters": 103,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -65747,19 +65656,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-hunan-c24cf1013a",
-      "name": "东安鸡",
-      "province": "hunan",
-      "city": "永州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 353,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": "2026-11-21-photos-07",
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-264492a0138451c9bf",
       "name": "莱芜鸡腿葱",
       "province": "shandong",
@@ -80034,19 +79930,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-be622badcb3ee967d4",
-      "name": "酒鬼酒",
-      "province": "hunan",
-      "city": "湘西州",
-      "category": "food",
-      "subcategory": "alcohol",
-      "readingCharacters": 439,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-fbfc3e1c0cf1648c15",
       "name": "福州福桔",
       "province": "fujian",
@@ -82062,6 +81945,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-hunan-1b96f0e428",
+      "name": "口味虾",
+      "province": "hunan",
+      "city": "长沙",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 49,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-0c84d4e7b1",
       "name": "惠山油酥",
       "province": "jiangsu",
@@ -82894,6 +82790,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-zhejiang-f1b67ca9a0",
+      "name": "白象香糕",
+      "province": "zhejiang",
+      "city": "温州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 56,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-dazhugansi",
       "name": "大煮干丝",
       "province": "jiangsu",
@@ -83199,6 +83108,19 @@
       "city": "镇江",
       "category": "food",
       "subcategory": "seasoning",
+      "readingCharacters": 63,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sg-8c665fa48a43fecfde",
+      "name": "西凤酒",
+      "province": "shaanxi",
+      "city": "宝鸡",
+      "category": "food",
+      "subcategory": "alcohol",
       "readingCharacters": 63,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83973,6 +83895,19 @@
       "priority": 3
     },
     {
+      "itemId": "county-c10d7f850f8864",
+      "name": "永嘉麦饼",
+      "province": "zhejiang",
+      "city": "温州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 90,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "county-8d6773813fe342",
       "name": "东阳沃面",
       "province": "zhejiang",
@@ -84045,6 +83980,19 @@
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 95,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "county-7a0969fc8211ad",
+      "name": "矾山肉燕",
+      "province": "zhejiang",
+      "city": "温州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 96,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -84337,12 +84285,38 @@
       "priority": 3
     },
     {
+      "itemId": "program-5421ae96078b72e30e",
+      "name": "大红袍",
+      "province": "fujian",
+      "city": "南平",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 103,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "program-c672e7c1600453505a",
       "name": "阳山水蜜桃",
       "province": "jiangsu",
       "city": "无锡",
       "category": "food",
       "subcategory": "ingredients",
+      "readingCharacters": 103,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-f0e428b781f2d517d2",
+      "name": "金骏眉",
+      "province": "fujian",
+      "city": "南平",
+      "category": "food",
+      "subcategory": "tea",
       "readingCharacters": 103,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -85689,6 +85663,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-hunan-c24cf1013a",
+      "name": "东安鸡",
+      "province": "hunan",
+      "city": "永州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 353,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": "2026-11-21-photos-07",
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "bj-roast-duck",
       "name": "北京烤鸭",
       "province": "beijing",
@@ -86164,6 +86151,19 @@
       "category": "facts",
       "subcategory": "people",
       "readingCharacters": 437,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-be622badcb3ee967d4",
+      "name": "酒鬼酒",
+      "province": "hunan",
+      "city": "湘西州",
+      "category": "food",
+      "subcategory": "alcohol",
+      "readingCharacters": 439,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-21",
+  "sheetsViewed": [
+    {
+      "file": "research/.local/china-photos-20261121-06/author74-review-0.jpg",
+      "sha256": "dde86aae3c17e8caa02bbb3fb67910ec8f1f1c98dd7b42500c2fa5e4fc92ebd3"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national03-review-1.jpg",
+      "sha256": "a659e814d37626ed071d9ed94e41f700eafdc089a9a251758bb056774746b961"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national03-review-3.jpg",
+      "sha256": "63563c310ce5d9d6c87ea20fcc3f34aea71dd624ddc6a4b767d5b275a6cf9bc1"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national03-review-4.jpg",
+      "sha256": "c2d7a1d20b9197620eef3d9ca1b95f17c82747490510237583004705a1df0611"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national03-review-6.jpg",
+      "sha256": "090613145f1ca11bdfeb744bda717c2c6cd13789c8eae283b6d5e6c52674b458"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national03-review-9.jpg",
+      "sha256": "85b89c05732e67196ed8a059a1020d81c1f353ff85a3453d0d81fac2fcaa7897"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/wenzhou07-review-0.jpg",
+      "sha256": "332b73782e80c3a1f2d2a553cc6384a25206a865c3cf8990db9c81b2b2006470"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/wenzhou07-review-1.jpg",
+      "sha256": "def2c8dfdad74ed261d599413b50a5ab247f673e96b93605b8ca9727b482c92a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/wenzhou07-review-2.jpg",
+      "sha256": "5f1aa8e6b0579af990423eb28e7038b9566001523bf9db2404e3f820df28053b"
+    }
+  ],
+  "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"
+}

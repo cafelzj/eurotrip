@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-21",
+  "candidates": [
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-dongan-chicken",
+      "title": "Dong-an chicken homemade dish photo",
+      "itemIds": [
+        "flavor-hunan-c24cf1013a"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/author74-original-0",
+      "rawSha256": "a7823d76e6256f7f4ff67e5efddc384398d1ddfcd74c107b98d83c67338b6224",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/943f90b632634ca4977388fa450fcbcb.response.gz",
+      "metadataSha256": "d907942aae543062e9a985a0fe6a2b0ec73447ca03b07c1e173713b77cd20964",
+      "source": "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2014/05/hunan-chicken.jpg"
+    },
+    {
+      "id": "dahongpao-tea-leaves",
+      "title": "Da Hong Pao Oolong tea leaf.jpg",
+      "itemIds": [
+        "program-5421ae96078b72e30e"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national03-original-1",
+      "rawSha256": "58729bb66364adb9035b4aced0328f408f30d59e3aeafee5b71c2bc0b0d673df",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Iateasquirrel  at  English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/2/29/Da_Hong_Pao_Oolong_tea_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "tongmu-jinjunmei-tea",
+      "title": "Jin Jun Mei.jpg",
+      "itemIds": [
+        "program-f0e428b781f2d517d2"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national03-original-3",
+      "rawSha256": "006a1701db3f5813b1eafa4f8f24f28008c021270cbc77478d96421a79cf4a35",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Difference engine",
+      "source": "https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jin_Jun_Mei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "jiugui-2008-bottle",
+      "title": "Jiugui.jpg",
+      "itemIds": [
+        "program-be622badcb3ee967d4"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national03-original-4",
+      "rawSha256": "f560d5c46abc1e63faf794d5c4fa6d444498065a4b8443a70f36e2b97e812765",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Badagnani",
+      "source": "https://commons.wikimedia.org/wiki/File:Jiugui.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jiugui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "id": "xifeng-red-label-bottles",
+      "title": "小瓶装西凤酒.jpg",
+      "itemIds": [
+        "sg-8c665fa48a43fecfde"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national03-original-6",
+      "rawSha256": "4fa2ebdd02d91003040f5e5c195848dae0f641d70145cdd59b8c22ba5cf6e5a5",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Lhzss8",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E7%93%B6%E8%A3%85%E8%A5%BF%E5%87%A4%E9%85%92.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E5%B0%8F%E7%93%B6%E8%A3%85%E8%A5%BF%E5%87%A4%E9%85%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "mala-crayfish-dish",
+      "title": "麻辣小龙虾.jpg",
+      "itemIds": [
+        "flavor-hunan-1b96f0e428"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national03-original-9",
+      "rawSha256": "b3fa9d5938805e28678b81ae2369d3cabf5dcde1fb40533b1b8121e45ef407e2",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Suginami",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%BA%BB%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E9%BA%BB%E8%BE%A3%E5%B0%8F%E9%BE%99%E8%99%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "tianditu-yongjia-maibing",
+      "title": "永嘉麦饼（天地图温州原稿配图）",
+      "itemIds": [
+        "county-c10d7f850f8864"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/wenzhou07-original-0",
+      "rawSha256": "426ab08bebd70bbd6730537c99df796f196a0418029ef1ddf720a5e5cfe9fda3",
+      "metadataFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+      "metadataSha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+      "author": "天地图温州（图文发布方，未单列摄影者）",
+      "source": "https://www.sohu.com/a/222519296_168335/",
+      "preview": "https://5b0988e595225.cdn.sohucs.com/images/20180213/4a3fc2c1201b4da68bae1d76f41a64ce.jpeg",
+      "provider": "天地图温州／平阳旅游转载",
+      "license": "原稿公开转载声明（注明来源并保留水印）",
+      "licenseUrl": "https://www.sohu.com/a/222519296_168335/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+        "sha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+        "url": "https://www.sohu.com/a/222519296_168335/",
+        "conditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
+      }
+    },
+    {
+      "id": "tianditu-baixiang-xianggao",
+      "title": "白象香糕（天地图温州原稿配图）",
+      "itemIds": [
+        "flavor-zhejiang-f1b67ca9a0"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/wenzhou07-original-1",
+      "rawSha256": "79eea198f0b032f9c445f4e838e5434f289087b508c3f8783f297a70ddb1dbaf",
+      "metadataFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+      "metadataSha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+      "author": "天地图温州（图文发布方，未单列摄影者）",
+      "source": "https://www.sohu.com/a/222519296_168335/",
+      "preview": "https://5b0988e595225.cdn.sohucs.com/images/20180213/a82d510c2383434c81a1a272a1cb81ee.jpeg",
+      "provider": "天地图温州／平阳旅游转载",
+      "license": "原稿公开转载声明（注明来源并保留水印）",
+      "licenseUrl": "https://www.sohu.com/a/222519296_168335/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+        "sha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+        "url": "https://www.sohu.com/a/222519296_168335/",
+        "conditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
+      }
+    },
+    {
+      "id": "tianditu-fanshan-rouyan",
+      "title": "矾山肉燕（天地图温州原稿配图）",
+      "itemIds": [
+        "county-7a0969fc8211ad"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/wenzhou07-original-2",
+      "rawSha256": "6965e692df739ec0ced15cbf0f847be9afef688ad300ba70c7a8c8c8f8485d57",
+      "metadataFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+      "metadataSha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+      "author": "天地图温州（图文发布方，未单列摄影者）",
+      "source": "https://www.sohu.com/a/222519296_168335/",
+      "preview": "https://5b0988e595225.cdn.sohucs.com/images/20180213/d8c248c8229440d38830014ab571e551.jpeg",
+      "provider": "天地图温州／平阳旅游转载",
+      "license": "原稿公开转载声明（注明来源并保留水印）",
+      "licenseUrl": "https://www.sohu.com/a/222519296_168335/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-07/regional-original-source-pilot-05/4d05fec267044971ab8266fa5588042a.response.gz",
+        "sha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
+        "url": "https://www.sohu.com/a/222519296_168335/",
+        "conditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
+      }
+    }
+  ]
+}
