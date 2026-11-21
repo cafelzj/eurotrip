@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 493: bytes=1071792423-1073907235; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 493,
+        "start": 1071792423,
+        "end": 1073907235
+      }
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 494: bytes=1073907236-1075743715; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 494,
+        "start": 1073907236,
+        "end": 1075743715
+      }
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 495: bytes=1075743716-1077853244; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 495,
+        "start": 1075743716,
+        "end": 1077853244
+      }
+    }
+  ]
+}

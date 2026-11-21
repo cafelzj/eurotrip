@@ -3134,6 +3134,336 @@
       "responseSha256": "facaf41ccc468a72f524a66fa7b34c9b7788155e3e3507134530a87dbd49673f",
       "compressedSha256": "3529ef7dec33219e3488e4e0a587b968f2be254c5260120e58a08358c108db60",
       "journal": "research/.local/china-photos-20261121-06/article-title-variant-followup-66/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E9%9D%92%E5%B2%A9%E5%8D%A4%E7%8C%AA%E8%84%9A%7C%E4%B9%90%E5%B1%B1%E7%94%9C%E7%9A%AE%E9%B8%AD%7C%E9%B8%A1%E8%B1%86%E5%87%89%E7%B2%89%7C%E7%9F%B3%E5%B1%8F%E8%B1%86%E8%85%90%7C%E8%AF%BA%E9%82%93%E7%81%AB%E8%85%BF%7C%E8%82%A0%E6%97%BA%E9%9D%A2%7C%E9%85%B8%E6%B1%A4%E9%B1%BC%7C%E9%81%B5%E4%B9%89%E7%BE%8A%E8%82%89%E7%B2%89%7C%E8%8A%B1%E6%BA%AA%E7%89%9B%E8%82%89%E7%B2%89%7C%E5%AF%8C%E9%A1%BA%E8%B1%86%E8%8A%B1%7C%E8%B7%B7%E8%84%9A%E7%89%9B%E8%82%89%7C%E5%AE%89%E9%A1%BA%E8%A3%B9%E5%8D%B7%7C%E6%B0%B4%E5%9F%8E%E7%83%99%E9%94%85%7C%E6%81%8B%E7%88%B1%E8%B1%86%E8%85%90%E6%9E%9C%7C%E6%9D%8E%E5%BA%84%E7%99%BD%E8%82%89%7C%E9%BB%94%E6%B1%9F%E9%B8%A1%E6%9D%82%7C%E4%B8%87%E5%B7%9E%E7%83%A4%E9%B1%BC%7C%E6%AF%95%E8%8A%82%E6%B1%A4%E5%9C%86%7C%E5%8D%97%E6%BA%AA%E8%B1%86%E8%85%90%E5%B9%B2%7C%E7%BD%97%E6%B1%9F%E8%B1%86%E9%B8%A1%7C%E7%9B%90%E8%BE%B9%E6%B2%B9%E5%BA%95%E8%82%89%7C%E7%9B%98%E5%B7%9E%E7%81%AB%E8%85%BF%7C%E5%AE%A3%E5%A8%81%E7%81%AB%E8%85%BF%7C%E6%9D%BE%E9%98%B3%E7%85%A8%E7%9B%90%E9%B8%A1%7C%E6%B0%B8%E5%B9%B3%E9%BB%84%E7%84%96%E9%B8%A1%7C%E5%AE%9C%E5%AE%BE%E9%85%92%7C%E9%83%8E%E9%85%92%7C%E9%87%91%E6%B2%99%E5%9B%9E%E6%B2%99%E9%85%92%7C%E5%90%88%E5%B7%9D%E6%A1%83%E7%89%87%7C%E9%80%9A%E6%B5%B7%E8%B1%86%E6%9C%AB%E7%B3%96%7C%E5%89%91%E9%97%A8%E5%85%B3%E8%B1%86%E8%85%90%7C%E5%BB%BA%E6%B0%B4%E7%83%A7%E8%B1%86%E8%85%90%7C%E6%B2%B3%E8%88%92%E8%B1%86%E8%85%90%7C%E6%A2%81%E5%B9%B3%E5%BC%A0%E9%B8%AD%E5%AD%90%7C%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%7C%E7%BA%A2%E5%8E%9F%E7%89%A6%E7%89%9B%E5%A5%B6%7C%E8%8F%8A%E4%B9%90%7C%E9%9B%AA%E5%85%B0%E7%89%9B%E5%A5%B6%7C%E5%A4%A9%E5%8F%8B%E4%B9%B3%E4%B8%9A%7C%E6%96%B0%E5%B8%8C%E6%9C%9B%E4%B9%B3%E4%B8%9A%7C%E5%A4%A7%E7%90%86%E7%A0%82%E9%94%85%E9%B1%BC%7C%E8%BF%87%E6%89%8B%E7%B1%B3%E7%BA%BF%7C%E6%B2%BE%E7%9B%8A%E8%BE%A3%E5%AD%90%E9%B8%A1%7C%E6%BC%86%E6%B2%B9%E9%B8%A1%7C%E9%A6%99%E8%8C%85%E8%8D%89%E7%83%A4%E9%B1%BC%7C%E6%B1%9F%E5%8F%A3%E7%B1%B3%E8%B1%86%E8%85%90&prop=pageimages%7Cextracts&piprop=name%7Coriginal&exintro=1&explaintext=1&redirects=1&converttitles=1",
+      "query": "Existing southwest card exact food names with simplified/traditional conversion; original article/body saved, image identity and licensing still checked",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/southwest-existing-food-articles-76/4d799df99ec84e648767e62cbf4bff4a.response.gz",
+      "responseSha256": "8daf1d39975f2bc2d395ddcb551da4c4b6dd2275da4fd3f19c52029c6af99c26",
+      "compressedSha256": "2afc5d2f81b98c931946d3d357f367c296d3bd0817967ff1f8a0e7648150b32a",
+      "journal": "research/.local/china-photos-20261121-06/southwest-existing-food-articles-76/requests.jsonl"
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Bounded official dataset footer probe only: HTTP Range last2MB, abort if range ignored; no full8GB database download",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/official-product-parquet-footer-70/1b593ef6fb154aca94d9137d5e6bc497.response.gz",
+      "responseSha256": "f188c6611efe24a118901701f233b601e53cf3be973442a39c03b8fdb99ba0c0",
+      "compressedSha256": "f15e002df3533e6faa5b5201a1411abf6543145c7d47a2602a5973ca96f259bb",
+      "journal": "research/.local/china-photos-20261121-06/official-product-parquet-footer-70/requests.jsonl"
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 493: bytes=1071792423-1073907235; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 493,
+        "start": 1071792423,
+        "end": 1073907235
+      },
+      "status": "saved",
+      "responseFile": "/workspace/eurotrip/research/.local/china-photos-20261121-06/official-product-selected-groups-73/6f4bb3070c774d199e379f6aa384b485.response.gz",
+      "responseSha256": "cd86dacce4626848a2806d320ea66e6ff21b80253cf629807f82e927cce43cae",
+      "compressedSha256": "004492515aa9f17fda96bc69a199966f6226d1990d37e2d8cc6e48d3944fff51",
+      "journal": "research/.local/china-photos-20261121-06/official-product-selected-groups-73/requests.jsonl"
+    },
+    {
+      "url": "https://datasets-server.huggingface.co/filter?dataset=openfoodfacts%2Fproduct-database&config=default&split=food&where=%22brands%22+LIKE+%27%25%E5%85%89%E6%98%8E%25%27&offset=0&length=30",
+      "query": "Single-brand bounded filter after broad OR pilot timed out; one request with55-second read timeout and no retry",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 500,
+      "error": "HTTP Error 500: Internal Server Error",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-06/official-product-filter-resume-67/0ac7ca81c17140bb919503db2ed660ec.response.gz",
+      "responseSha256": "68771397aeefb2e305f8d23156f12d941075925f39d43e8dd58910ddd79d2979",
+      "compressedSha256": "e43d484cdf00944411294936f2699d0848c98b6a325235ea2a0d70b5f43256d0",
+      "journal": "research/.local/china-photos-20261121-06/official-product-filter-resume-67/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2014/05/hunan-chicken.jpg",
+      "query": "Actual full author photo after reading exact named recipe https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-originals-74/e9af924896bb44a29629699163c19e1e.response.gz",
+      "responseSha256": "a7823d76e6256f7f4ff67e5efddc384398d1ddfcd74c107b98d83c67338b6224",
+      "compressedSha256": "1c8e55db9cceb85434b2dd40f3015e1bf2cb07932cd36be88d9209667b67b1cc",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-originals-74/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2021/01/Braised-Chicken-with-Rice-.jpg",
+      "query": "Actual full author photo after reading exact named recipe https://www.chinasichuanfood.com/braised-chicken-with-rice/",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-originals-74/de55773d7fcd4b1a8aad7d9601a47297.response.gz",
+      "responseSha256": "d2413002274e7e909ab2699b1a03fb28bfe886f14155fa9048ea8723de1f52e3",
+      "compressedSha256": "d9e81a751d6abfee4dfc7c37fc430797c8ccac6f427e6a9d3029d1af822f5b4f",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-originals-74/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2018/09/Chinese-chive-potstickers-51.jpg",
+      "query": "Actual full author photo after reading exact named recipe https://www.chinasichuanfood.com/pot-stickers-chive-and-pork/",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-originals-74/97c5b6d99e604f12915ba796d90d8932.response.gz",
+      "responseSha256": "767d8e028becbc8d482ff65ba797f9b64cc38a420f0a844a99a04d2a33ebd0f4",
+      "compressedSha256": "7f3ef5109d60ecc180acfb241498f5188704194cf69d1aaf5e4aa0dc3bcc098c",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-originals-74/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/4.jpg",
+      "query": "Known original upload4 by elemka; review alternative Wangzhihe package photograph after feet/flash glare rejected",
+      "itemIds": [
+        "bj-wangzhihe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/wangzhihe-second-original-78/30a394015f814057a6e5fd1f8e3a8878.response.gz",
+      "responseSha256": "e1725ae0109aefbc2384ef7b1d0b225134215158cd5f60655488548784715133",
+      "compressedSha256": "061625a02a094777ba459c1c1dc474225dae88fa0e6a6309dbddc18dee255371",
+      "journal": "research/.local/china-photos-20261121-06/wangzhihe-second-original-78/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3A%E8%91%B1%E5%8C%85%E6%A1%A7.jpg%7CFile%3ASteamed_Rice_Cake.JPG%7CFile%3AGuangxi_lemon_duck_on_Z5_%2820160323175957%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Full source metadata after confirmed title conversion: Congbaohui, lemon duck, steamed rice cake; native original review required",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/variant-title-file-metadata-68/92672b3014564b7b8ba6d9949957705a.response.gz",
+      "responseSha256": "8450d66306a2e05e8dddcb5abe5bbff2d7eb91406f526c25c83b1754701791fc",
+      "compressedSha256": "8458a44c232757eb2f917e75f372aa865fc85cdaec51e7f2afe53e7283287d37",
+      "journal": "research/.local/china-photos-20261121-06/variant-title-file-metadata-68/requests.jsonl"
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 494: bytes=1073907236-1075743715; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 494,
+        "start": 1073907236,
+        "end": 1075743715
+      },
+      "status": "saved",
+      "responseFile": "/workspace/eurotrip/research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/61f497fe8d0e412fbaf210ca44ce4614.response.gz",
+      "responseSha256": "232f91f0c8257903a8e9fe0fc4db5b474b2b0950e20bb9b21f80a3beb23ef481",
+      "compressedSha256": "e64b5c9459af152e2c074340aca3f427cb283aceaa4ccbf401059bff073ee289",
+      "journal": "research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/1.jpg",
+      "query": "Wangzhihe alternative historical original upload1 and selected front_es revision31; reject prior feet/hand clutter",
+      "itemIds": [
+        "bj-wangzhihe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/wangzhihe-alternative-originals-77/3a49a7dbae7144e5abfbef3bed2fdf78.response.gz",
+      "responseSha256": "60420022bdbe4dd794710727438830f9ccf1b60be281eaec03c2c5eec1ae399c",
+      "compressedSha256": "71f0f209ac624e9bebabe2bd4f92cff3b4888baf33af9cb8faf76c3627315f19",
+      "journal": "research/.local/china-photos-20261121-06/wangzhihe-alternative-originals-77/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/front_es.31.full.jpg",
+      "query": "Wangzhihe alternative historical original upload1 and selected front_es revision31; reject prior feet/hand clutter",
+      "itemIds": [
+        "bj-wangzhihe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/wangzhihe-alternative-originals-77/f1dcc59a51494169ad945ff199ff8f62.response.gz",
+      "responseSha256": "e658cc19c74eaf4f50de0e2e336e45201629cd080508638a9cd63a0162db2c68",
+      "compressedSha256": "e8f25653e7ca5773b4ac7cb06b4484349ac8be09bc2867376998c80b7ef074a4",
+      "journal": "research/.local/china-photos-20261121-06/wangzhihe-alternative-originals-77/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AHechuan_Peach_Slices4.jpg%7CFile%3AQiaojiao_Beef_at_Li_Si_Niang_Restaurant%2C_Beijing_%2820211019184013%29.jpg%7CFile%3A%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact southwest dish photo metadata for Hechuan peach slices, Qiaojiao beef and Lijiang chickpea jelly; inspect actual source place and photo",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/southwest-exact-photo-metadata-79/7bcef932f3d9469bab287d57de60b8a6.response.gz",
+      "responseSha256": "c6b065ae186e9d378b7594cb0a64cd081d959d46ee922bbf389d451ea8faddaf",
+      "compressedSha256": "fc431fd2254a0838394881f28ac8c9b34899d1742e6baed09713c61da7ef71c2",
+      "journal": "research/.local/china-photos-20261121-06/southwest-exact-photo-metadata-79/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/943f90b632634ca4977388fa450fcbcb.response.gz",
+      "responseSha256": "2488f0a0b9fb3b33ebe59769be31709f6fe3baaeae78e50ca3bc38e9da08192b",
+      "compressedSha256": "d907942aae543062e9a985a0fe6a2b0ec73447ca03b07c1e173713b77cd20964",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/braised-chicken-with-rice/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/6b0c8ffed1974a968e9579140cfc1e98.response.gz",
+      "responseSha256": "265794a2eb172f85bbe698ef4c284409345b51a8f25993f82e9b8565b8725bb4",
+      "compressedSha256": "b1358feb89b461ecc6e2b84755c97c3a37febd50ae46db7fa1e56e698f9e7603",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/pot-stickers-chive-and-pork/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/c6b75f6eba0e411ab5bc08ee75f94104.response.gz",
+      "responseSha256": "d2678e33768ce4fc1534d46ed0f56fc0b5a8339b04a56d0fa43c3cb4493f8711",
+      "compressedSha256": "7408d0778cc7af7cbe75cc2035805c36f6f861fc3bb887a16046e528e93c3037",
+      "journal": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/9.jpg",
+      "query": "6907592000026 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "bj-wangzhihe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/d688d523798045909bc488cb87a8af0a.response.gz",
+      "responseSha256": "9300068d3533ff840fac02e53cc076167c25744ac524402f458faaaad32fb213",
+      "compressedSha256": "f9b265ee37865d6cbfcc85a302fe13d8c5d39d955dd8604bdfa26587d7172898",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/front_en.39.full.jpg",
+      "query": "6907592000026 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "bj-wangzhihe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/02a9e716a82b41f3931193c953956c2e.response.gz",
+      "responseSha256": "df4bac6e04e2e04b3c1f1461044b6d6d436ed7039fa2452665b1716f1011f9df",
+      "compressedSha256": "90d7dba20350cfd15769113ec58ccc7803671662d3171abce17c51e6bcf76937",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/400/760/1786/1.jpg",
+      "query": "6904007601786 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "sg-59af21369451aa5e41"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/9359f7c798314bf6941a1072e1b4afcb.response.gz",
+      "responseSha256": "2f21f186ed0ece8b227331dbf49c40c328e504bae5da4b921b96f5ff96852e98",
+      "compressedSha256": "94676cdfa149f0c82e4f9ad73142da595922a68d0588044aba002dd5a5b88357",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/400/760/1786/front_zh.3.full.jpg",
+      "query": "6904007601786 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "sg-59af21369451aa5e41"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/d345baad505847f08ab9e3be1f57745a.response.gz",
+      "responseSha256": "bcace55cde2a4082c3b0f493996acfd372138c97d0eac1c91e3fd9626dad434f",
+      "compressedSha256": "9acaf4b870f34d67395c304ad62430bf2a405dcb085b8d36581c11f2679b48ac",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/792/588/5955/1.jpg",
+      "query": "6907925885955 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "flavor-heilongjiang-04b29faaf3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/4c468c820b554d3e8547b590fc646471.response.gz",
+      "responseSha256": "3750334c076cc9ff946d52ebaeed166d065bac0750597c3678cbca5a77f692f3",
+      "compressedSha256": "e80f2e5fec3871d4a7dbf517d96ff5261b3b20b8ceed8a7512de4e61c8c99c61",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/792/588/5955/front_de.3.full.jpg",
+      "query": "6907925885955 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "flavor-heilongjiang-04b29faaf3"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/d181c11486a0445cb9e7157c9a6e00a8.response.gz",
+      "responseSha256": "cef7f0ac6e3b4826905b0c429515d815ea289d7c8db5acd042bec3c00edf0e6c",
+      "compressedSha256": "d034088db63b412bf06a41003ce623ff29a7b87b243866bff8cee74ff4443135",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/692/058/447/1017/6.jpg",
+      "query": "6920584471017 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/244bf9b46d43428d9a5c048794116208.response.gz",
+      "responseSha256": "a74190865171c0ab8fc7b638346108a4ada3596af23ec2155513544be770cf03",
+      "compressedSha256": "f2843049e12c3ba9b89a6f9d467aabe6b0498a4aaf1de5c2323a93657174e4d2",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/692/058/447/1017/front_zh.21.full.jpg",
+      "query": "6920584471017 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/product-package-originals-75/dd66c9e4a3dd49cb9f57feef42994862.response.gz",
+      "responseSha256": "bbe080134bd4f1be3b8da0f5b0f90f30dba74fc3f74e97eecdc00da2d96c36cc",
+      "compressedSha256": "e52d0e027aa54644eb7ead34175686cb2779405663ed74e422e6f497faeec981",
+      "journal": "research/.local/china-photos-20261121-06/product-package-originals-75/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hechuan_Peach_Slices4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Hechuan Peach Slices4.jpg full original after exact title, author and licence checked; actual dish/location only",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/southwest-food-originals-80/d99ada69c301476ebb6eac727c612b61.response.gz",
+      "responseSha256": "689683738bcfd6c4edbc5e64212dbed77db66a310741062f41e1320080ec0512",
+      "compressedSha256": "ae2ac2a8d236cec9340cbd88f78f78d66e2770ee33d2060dacd5e48bc076d162",
+      "journal": "research/.local/china-photos-20261121-06/southwest-food-originals-80/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Qiaojiao_Beef_at_Li_Si_Niang_Restaurant%2C_Beijing_%2820211019184013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:Qiaojiao Beef at Li Si Niang Restaurant, Beijing (20211019184013).jpg full original after exact title, author and licence checked; actual dish/location only",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/southwest-food-originals-80/869d4c7235c24be08b130db5fd48fc36.response.gz",
+      "responseSha256": "2ef220c6ecfaa05c8e09da693a28530168a481722f1226db78aaaed8899cc2ac",
+      "compressedSha256": "09113a0298d7e3276f8a5170c6f034bea2105c8730ccb8ccd40c7b050e26c81d",
+      "journal": "research/.local/china-photos-20261121-06/southwest-food-originals-80/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "File:丽江鸡豌豆凉粉 - Chicken pea jelly.jpg full original after exact title, author and licence checked; actual dish/location only",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/southwest-food-originals-80/cf3cab7330764d968cc6226d059a31a3.response.gz",
+      "responseSha256": "469313f17e28a8d5d403ca56dcefe8957bd4496aef0d9e1e8f3389f175de3a73",
+      "compressedSha256": "9657ac724a5213a6593ff6307cf792c35ed5e5820e7ff35d3b49567cce236f16",
+      "journal": "research/.local/china-photos-20261121-06/southwest-food-originals-80/requests.jsonl"
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Exact byte range for official dataset row group 495: bytes=1075743716-1077853244; bounded source pilot, not full database download",
+      "itemIds": [],
+      "range": {
+        "rowGroup": 495,
+        "start": 1075743716,
+        "end": 1077853244
+      },
+      "status": "saved",
+      "responseFile": "/workspace/eurotrip/research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/9a860ff1534248aaaecfdc7be7d3a77b.response.gz",
+      "responseSha256": "25e1d68938dc3012ee486eafeff9d68a8240ea223be475427227d83effb18561",
+      "compressedSha256": "930485b2ed95064100dd49817f6496661a37b705fd22b8a56ac490f9f84bd8b4",
+      "journal": "research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/requests.jsonl"
+    },
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Complete Parquet metadata footer107968258 bytes only (1.4% of dataset); inspect row-group code ordering before any data reads; abort ignored range",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/official-product-parquet-metadata-71/457c8a33284f470ea85002ffe7429d13.response.gz",
+      "responseSha256": "81a1d25d62c2e5a4b7c4f3f508911d6a800d57d8f77b00bf3f9499c390fb6abb",
+      "compressedSha256": "92a694bd445f2d2fc536894563eb06e25de02268943796b2d57a6ac117e610bd",
+      "journal": "research/.local/china-photos-20261121-06/official-product-parquet-metadata-71/requests.jsonl"
     }
   ]
 }

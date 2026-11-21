@@ -410,6 +410,71 @@
       "kind": "food",
       "viewedOriginal": true,
       "permissionReviewed": true
+    },
+    {
+      "itemId": "sd-huangmen-chicken",
+      "itemName": "黄焖鸡",
+      "candidateId": "csf-huangmen-chicken-rice",
+      "caption": "黄焖鸡米饭家常成品实拍，鸡块配香菇、青椒与米饭。",
+      "reason": "原作者直接称黄焖鸡米饭并说明黄豆酱焖鸡做法，近景鸡肉、配菜和米饭可辨；对应现有卡片提及的现代米饭形式，不冒称济南传统馆子出品。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "flavor-liaoning-8d2207ae83",
+      "itemName": "锅烙",
+      "candidateId": "csf-pan-fried-dumplings",
+      "caption": "锅烙同类煎饺家常实拍，底面煎至金黄。",
+      "reason": "原文为猪肉韭菜锅贴，制作先煎、加水蒸熟再收干，与现有锅烙卡片所述煎蒸包馅面食相合；以同类家常做法示例采用，不冒称锦州店铺或当地特定馅口。成品焦底清楚，画面干净。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "sg-59af21369451aa5e41",
+      "itemName": "银桥乳业",
+      "candidateId": "yinqiao-walnut-peanut-milk",
+      "caption": "银桥“核桃花生牛奶”220克旧包装实拍，作为品牌产品示例。",
+      "reason": "原始上传与所选正面均已全幅审阅，品牌、商品名及220克规格清楚，未把它改称纯牛奶；真实袋装表面与背景保留，不以包装名称替代配料或生产厂证据。光线较柔暗但主要标签可读，没有人物或脚部杂景。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-eac5c560bed541d7db",
+      "itemName": "飞鹤奶粉",
+      "candidateId": "firmus-high-calcium-milk-powder",
+      "caption": "飞鹤高钙高铁奶粉旧包装实拍；非婴幼儿配方乳粉。",
+      "reason": "原始上传及所选正面可辨飞鹤、高钙高铁奶粉与400克标签，为真实奶粉包装；按品牌乳粉产品示例使用，不冒充婴幼儿配方乳粉，也不据图片推定克东加工厂或奶源。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-cc2c6fe00f78dc",
+      "itemName": "大旺南京调制乳",
+      "candidateId": "want-want-sweet-milk-can",
+      "caption": "旺仔牛奶旧包装实拍，作为同品牌调制乳产品示例。",
+      "reason": "条码记录为旺仔牛奶，原始上传与所选正面是同一实体红罐，品牌图形与标签可辨，木纹背景简洁。对应卡片记录的调制乳产品，不将其称纯牛奶；商品照片不作为南京厂区或该罐产地证据。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sw-5816841f03da664228",
+      "itemName": "跷脚牛肉",
+      "candidateId": "leshan-qiaojiao-beef",
+      "caption": "北京李四娘餐厅的跷脚牛肉实拍，配干碟。",
+      "reason": "原文件直接命名跷脚牛肉并保留北京实际餐馆，清汤、牛肉薄片与干碟清楚，碗盘完整、背景简洁；作为同名菜品实拍采用，不虚构乐山拍摄地点或当前菜单价格。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sw-6fc347d5dd177ca39f",
+      "itemName": "鸡豆凉粉",
+      "candidateId": "lijiang-chickpea-jelly",
+      "caption": "丽江鸡豆凉粉成品实拍，切片配辣椒与香菜。",
+      "reason": "原作者中英文直接说明丽江鸡豌豆凉粉；全幅实拍可见灰绿色凉粉、调味与成品盘，不是其他地区的白色绿豆凉粉或原料照片。保留自然光色彩与真实桌布，不使用生成图。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -527,6 +592,18 @@
     {
       "candidate": "national-food-originals-61",
       "reason": "已看过全幅：肉燕是灰暗堆放原料，艾窝窝画面含大字覆盖且清晰度低，烧鹅整只带头且光线暗，未当作新增成品封面。台湾蚵仔煎未当作福建地方变体。"
+    },
+    {
+      "candidate": "wangzhihe-package-pilot",
+      "reason": "2025原图包含裸脚和手部杂景，2018替代图闪光反射强且背景为地毯；另一个历史上传是配料表，不采用为封面。"
+    },
+    {
+      "candidate": "dong-an-chicken-recipe-72",
+      "reason": "实拍菜肴已全幅看过且主题正确，但现有东安鸡卡片详细文字误混同名地理标志活禽的饲养要求；先保留照片和食谱原文，后续新批次更正文案后再采用，避免将原料鸡信息当菜肴说明。"
+    },
+    {
+      "candidate": "Hechuan Peach Slices4.jpg",
+      "reason": "已全幅查看：460×279的小图含商业包装式插画元素，不能确认为独立食品原始实拍，清晰度亦不足；不采用。"
     }
   ]
 }

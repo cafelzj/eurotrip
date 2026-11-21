@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-21",
+  "issue": "通用响应缓存只以URL作键，未区分HTTP Range；第73试点相同URL的组494/495最初复用了组493。",
+  "preservedJournal": "research/.local/china-photos-20261121-06/official-product-selected-groups-73/requests.jsonl",
+  "invalidCacheReuses": [
+    494,
+    495
+  ],
+  "resolution": "未采用错误复用；每个Range改用独立日志并核对Content-Range及原始字节长度，实际各下载一次。稀疏文件仅含完整元数据及选定3个实际数据组，不是完整8GB数据库。",
+  "actualJournals": [
+    "research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/requests.jsonl",
+    "research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/requests.jsonl"
+  ],
+  "selectedRows": 2999,
+  "chinaPrefixRows": 1133
+}

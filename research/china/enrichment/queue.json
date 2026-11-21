@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 351,
-    "withListPhoto": 338,
-    "missingRealPhoto": 6276,
-    "needsListPhoto": 6289
+    "withDetailPhoto": 358,
+    "withListPhoto": 345,
+    "missingRealPhoto": 6269,
+    "needsListPhoto": 6282
   },
   "byProvince": {
     "henan": {
@@ -42,14 +42,14 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 343,
-      "needsListPhoto": 343
+      "missingRealPhoto": 342,
+      "needsListPhoto": 342
     },
     "liaoning": {
       "cards": 306,
       "shortReadings": 226,
-      "missingRealPhoto": 306,
-      "needsListPhoto": 306
+      "missingRealPhoto": 305,
+      "needsListPhoto": 305
     },
     "zhejiang": {
       "cards": 424,
@@ -72,8 +72,8 @@
     "heilongjiang": {
       "cards": 212,
       "shortReadings": 117,
-      "missingRealPhoto": 210,
-      "needsListPhoto": 210
+      "missingRealPhoto": 209,
+      "needsListPhoto": 209
     },
     "shanxi": {
       "cards": 331,
@@ -84,8 +84,8 @@
     "shandong": {
       "cards": 501,
       "shortReadings": 272,
-      "missingRealPhoto": 498,
-      "needsListPhoto": 498
+      "missingRealPhoto": 497,
+      "needsListPhoto": 497
     },
     "jilin": {
       "cards": 120,
@@ -120,8 +120,8 @@
     "shaanxi": {
       "cards": 147,
       "shortReadings": 68,
-      "missingRealPhoto": 143,
-      "needsListPhoto": 143
+      "missingRealPhoto": 142,
+      "needsListPhoto": 142
     },
     "jiangxi": {
       "cards": 222,
@@ -138,8 +138,8 @@
     "sichuan": {
       "cards": 573,
       "shortReadings": 358,
-      "missingRealPhoto": 557,
-      "needsListPhoto": 563
+      "missingRealPhoto": 556,
+      "needsListPhoto": 562
     },
     "guizhou": {
       "cards": 203,
@@ -150,8 +150,8 @@
     "yunnan": {
       "cards": 265,
       "shortReadings": 180,
-      "missingRealPhoto": 252,
-      "needsListPhoto": 256
+      "missingRealPhoto": 251,
+      "needsListPhoto": 255
     },
     "chongqing": {
       "cards": 94,
@@ -4049,19 +4049,6 @@
       "priority": 1
     },
     {
-      "itemId": "sd-huangmen-chicken",
-      "name": "黄焖鸡",
-      "province": "shandong",
-      "city": "济南",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "threeprov-53c0f194d13c2f4630",
       "name": "竹丝团扇",
       "province": "guangxi",
@@ -6239,19 +6226,6 @@
       "city": "沈阳",
       "category": "food",
       "subcategory": "alcohol",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-liaoning-8d2207ae83",
-      "name": "锅烙",
-      "province": "liaoning",
-      "city": "锦州",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 50,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -19961,19 +19935,6 @@
       "priority": 1
     },
     {
-      "itemId": "sw-6fc347d5dd177ca39f",
-      "name": "鸡豆凉粉",
-      "province": "yunnan",
-      "city": "丽江",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 68,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sw-86bb4947876e67da17",
       "name": "盘州火腿",
       "province": "guizhou",
@@ -23757,19 +23718,6 @@
       "priority": 1
     },
     {
-      "itemId": "sg-59af21369451aa5e41",
-      "name": "银桥乳业",
-      "province": "shaanxi",
-      "city": "西安",
-      "category": "food",
-      "subcategory": "dairy",
-      "readingCharacters": 76,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sw-2a0d9d98ce3b35636b",
       "name": "黄老五花生酥",
       "province": "sichuan",
@@ -23919,19 +23867,6 @@
       "city": "重庆",
       "category": "food",
       "subcategory": "seasoning",
-      "readingCharacters": 77,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sw-5816841f03da664228",
-      "name": "跷脚牛肉",
-      "province": "sichuan",
-      "city": "乐山",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 77,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -33273,19 +33208,6 @@
       "priority": 1
     },
     {
-      "itemId": "program-eac5c560bed541d7db",
-      "name": "飞鹤奶粉",
-      "province": "heilongjiang",
-      "city": "齐齐哈尔",
-      "category": "food",
-      "subcategory": "dairy",
-      "readingCharacters": 106,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "program-f6a2a7b9960f1af2e4",
       "name": "凤阳酿豆腐",
       "province": "anhui",
@@ -34343,19 +34265,6 @@
       "name": "健桥乳品",
       "province": "jiangsu",
       "city": "盐城",
-      "category": "food",
-      "subcategory": "dairy",
-      "readingCharacters": 119,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "county-cc2c6fe00f78dc",
-      "name": "大旺南京调制乳",
-      "province": "jiangsu",
-      "city": "南京",
       "category": "food",
       "subcategory": "dairy",
       "readingCharacters": 119,
@@ -82127,6 +82036,19 @@
       "priority": 3
     },
     {
+      "itemId": "sd-huangmen-chicken",
+      "name": "黄焖鸡",
+      "province": "shandong",
+      "city": "济南",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sh-bright-yogurt",
       "name": "光明酸奶",
       "province": "shanghai",
@@ -82274,6 +82196,19 @@
       "name": "镇江蟹黄汤包",
       "province": "jiangsu",
       "city": "镇江",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-liaoning-8d2207ae83",
+      "name": "锅烙",
+      "province": "liaoning",
+      "city": "锦州",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 50,
@@ -83453,6 +83388,19 @@
       "priority": 3
     },
     {
+      "itemId": "sw-6fc347d5dd177ca39f",
+      "name": "鸡豆凉粉",
+      "province": "yunnan",
+      "city": "丽江",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 68,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sw-e4625bc6ff85b3d267",
       "name": "川北凉粉",
       "province": "sichuan",
@@ -83830,6 +83778,19 @@
       "priority": 3
     },
     {
+      "itemId": "sg-59af21369451aa5e41",
+      "name": "银桥乳业",
+      "province": "shaanxi",
+      "city": "西安",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 76,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sg-6ef828b02943f66944",
       "name": "biangbiang面",
       "province": "shaanxi",
@@ -83888,6 +83849,19 @@
       "city": "阿坝州",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 77,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sw-5816841f03da664228",
+      "name": "跷脚牛肉",
+      "province": "sichuan",
+      "city": "乐山",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 77,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -84493,6 +84467,19 @@
       "priority": 3
     },
     {
+      "itemId": "program-eac5c560bed541d7db",
+      "name": "飞鹤奶粉",
+      "province": "heilongjiang",
+      "city": "齐齐哈尔",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 106,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "tip-wuxi-metro",
       "name": "无锡地铁 · 先查方向与末班车",
       "province": "jiangsu",
@@ -84591,6 +84578,19 @@
       "category": "brands",
       "subcategory": "pharmacy",
       "readingCharacters": 118,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "county-cc2c6fe00f78dc",
+      "name": "大旺南京调制乳",
+      "province": "jiangsu",
+      "city": "南京",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 119,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

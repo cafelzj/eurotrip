@@ -248,6 +248,46 @@
     {
       "file": "research/.local/china-photos-20261121-06/food63-review-2.jpg",
       "sha256": "c9123bd7c4a1319d3c676c4cb7bdc7536f51e4e678d7b5c1d795835fa3d55c77"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/author74-review-1.jpg",
+      "sha256": "b6ae03b4cf3f626bd84d5877d5bb28ff7d1ccac8d02d72c663fea03c305cac8e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/author74-review-2.jpg",
+      "sha256": "f543ea3e5728ff1343cc2c301770cf291a9fe967977ad7762598cc9cb6201401"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-2.jpg",
+      "sha256": "b77e2c34a2dee0b5f6deaf1b439c10982417be2e68617b17f392419d5767153e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-3.jpg",
+      "sha256": "e668b997faca5a7aaf1b6fd4858894d111ba259e1e9fa82c2adb908559d6b6a2"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-4.jpg",
+      "sha256": "677074ae6b35b9af87d54e6f71afb73255ee1d487f432140a481f78a59cf4d2f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-5.jpg",
+      "sha256": "fb8b8a43fbb2291ecc7b64ab93f1734c97d6efe167e185b1d4efa08068a1bf9e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-6.jpg",
+      "sha256": "09950cb46e0f56be5d887d00600455ce02ef7756834706d1fb9716849e6ef71c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/package75-review-7.jpg",
+      "sha256": "2ebdaad9079cc096417cb195b8a426db5adec075e8d572f2128731d70d94c74b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/southwest80-review-1.jpg",
+      "sha256": "a5a8179f297eb773193449ff4b6a585906c4eea7b3e9138991c5973f443c7fae"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/southwest80-review-2.jpg",
+      "sha256": "13b6e3b6a97c9f2fbaf421147adb8fc02fa0021cf869e2c6e3bd886f1e22766d"
     }
   ],
   "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"

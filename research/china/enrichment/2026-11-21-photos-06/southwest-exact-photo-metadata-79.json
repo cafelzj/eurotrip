@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AHechuan_Peach_Slices4.jpg%7CFile%3AQiaojiao_Beef_at_Li_Si_Niang_Restaurant%2C_Beijing_%2820211019184013%29.jpg%7CFile%3A%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact southwest dish photo metadata for Hechuan peach slices, Qiaojiao beef and Lijiang chickpea jelly; inspect actual source place and photo",
+      "itemIds": []
+    }
+  ]
+}

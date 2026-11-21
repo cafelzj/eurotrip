@@ -26,7 +26,7 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 367,
+    "research-support": 379,
     "adoption": 14,
     "preserved-source-reading": 1451,
     "cross-review": 4,
@@ -1702,8 +1702,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/README.md",
       "role": "research-support",
-      "bytes": 5203,
-      "sha256": "2cda9bb5ef6adfe2b6ccac3c99144614b399bd9b4f69db959f8c2b2b9b9e3b54"
+      "bytes": 6401,
+      "sha256": "5b5e03200bd0a3d298f8afdf3938773aa15e80f5b04f83b75c5f78dd6a3bd45e"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/article-file-and-craft-context-36.json",
@@ -1774,8 +1774,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/candidates.json",
       "role": "research-support",
-      "bytes": 54647,
-      "sha256": "5e51bbbc88ddcc185cbaf17b80b1b92110ea82124ead190cd58d1591edc7d3f7"
+      "bytes": 66091,
+      "sha256": "881b7cc197114c7d1c3b27ffa9665fe15489d78d8b89f2f6ebdf06721cb37782"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/community-recipe-source-pilot-04.json",
@@ -1958,6 +1958,18 @@
       "sha256": "1ebad2291ca573ac4bf0e2a6e814ca590c44d550cadf2b16bb357362eb59d879"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-06/national-named-author-originals-74.json",
+      "role": "research-support",
+      "bytes": 848,
+      "sha256": "ba40056ceb43400c8ad7f3911851dd67b9564190e7c148edfb5f2a52b472434b"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/national-named-author-recipes-72.json",
+      "role": "research-support",
+      "bytes": 667,
+      "sha256": "41cc7a5aaad7ddd75154c38f9c5c8f32bcba788197d57e21a50d6ee5e1a278c0"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-06/official-jzy-dish-articles-41.json",
       "role": "research-support",
       "bytes": 1411,
@@ -1982,6 +1994,24 @@
       "sha256": "75987ea1e2dc4c21058b2a6ab4befcea802a11d4d3e13a4a1891004d053f3044"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-06/official-product-parquet-footer-70.json",
+      "role": "research-support",
+      "bytes": 292,
+      "sha256": "5ec7722a3414564bd7129fb26f780b11fa120ec8e216dfa84d363c54e2f70dc7"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/official-product-parquet-metadata-71.json",
+      "role": "research-support",
+      "bytes": 322,
+      "sha256": "e7318a82ae258aff3e0dcffc82860d2432ab2133965193545c4c92790e6c2336"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/official-product-selected-groups-73.json",
+      "role": "research-support",
+      "bytes": 1198,
+      "sha256": "e756d3ab1b438abe66d24d64135acf7cc23a6813e062b04b71126d951b06f266"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-06/official-product-single-brand-53.json",
       "role": "research-support",
       "bytes": 385,
@@ -1996,14 +2026,26 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/photo-adoption.json",
       "role": "adoption",
-      "bytes": 60244,
-      "sha256": "3b6cdefbfdaad9bcaa7dc8dd0139c6a04e553ff5cf66493a3bc7f17192287e3a"
+      "bytes": 69951,
+      "sha256": "4ddc02c9f99c83d71721218d69f008b32d698dcaa6037f3b8546cb35bb114aa8"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/product-package-originals-75.json",
+      "role": "research-support",
+      "bytes": 2549,
+      "sha256": "5a0d371e8a86567afe03ead72978bf7db12a98a0c6619448c292f9a8f7908a38"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/pups-recipe-discovery-56.json",
       "role": "research-support",
       "bytes": 427,
       "sha256": "b5a37fee5bfe52e10a0f04c21a1b7c972e004bae4b5d2330f78e10d7ada37e08"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/range-cache-correction.json",
+      "role": "research-support",
+      "bytes": 839,
+      "sha256": "e61ca779b3b8b4342764137611cae4e33a49f343b041c3593a188d373e2bf7fa"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/recipe-and-regional-followup-06.json",
@@ -2050,8 +2092,26 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/source-responses.json",
       "role": "research-support",
-      "bytes": 235525,
-      "sha256": "07441d7d0c43ef593c4357d0c4e0aaf177a37327f23b812c7b03860b2ab4a6e5"
+      "bytes": 260640,
+      "sha256": "b84906f0c56efb7177d70520997bb11dbb0d2dd28f2140395700acdd3b38ab99"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/southwest-exact-photo-metadata-79.json",
+      "role": "research-support",
+      "bytes": 587,
+      "sha256": "8bef79223f823c8b18d8fedd0c38f2f8b8bfeacf242c11b0bb42c0cc08b40faa"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/southwest-existing-food-articles-76.json",
+      "role": "research-support",
+      "bytes": 2308,
+      "sha256": "74f822b1f32f90fb5c257f962db5e0fa59d2d247932af54bb6526c3c36d0ea3b"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/southwest-food-originals-80.json",
+      "role": "research-support",
+      "bytes": 1215,
+      "sha256": "bcf107c2560a2e7e4be209c1fe5fae2b0e0255b17d767c9d8951e8774f9e7760"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/tea-and-dairy-source-pilot-24.json",
@@ -2068,14 +2128,26 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/visual-decisions.json",
       "role": "research-support",
-      "bytes": 28175,
-      "sha256": "925afa8088f5ddbd66c53b51f1778df61289afcbbe5f089a0bb7dd0e47b6c201"
+      "bytes": 32718,
+      "sha256": "190250952638849a9976d616ceb46a6820a0496d4ba91e3582dab5c1e41a0f90"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/visual-screening.json",
       "role": "research-support",
-      "bytes": 11023,
-      "sha256": "747efdffeb22fac6cfc0bd7d25d661d39ab9dd18da768275e496d07a85098f27"
+      "bytes": 12795,
+      "sha256": "001ec0ba17a97e046e44f3b6bdb6ca033ccae2f7f11ccd276d1ae95013a18a60"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/wangzhihe-alternative-originals-77.json",
+      "role": "research-support",
+      "bytes": 602,
+      "sha256": "3a613b75044a571fcc7b15897a9df47acea0f81f083b5920968ddbe92471249e"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-06/wangzhihe-second-original-78.json",
+      "role": "research-support",
+      "bytes": 302,
+      "sha256": "ab97947876feb3747ed9f5e04217ab620b616dd275a095698ba3eeb6f5f36bf0"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-06/wikidata-bounded-index-followup-13.json",
@@ -2105,13 +2177,13 @@
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
       "bytes": 4351,
-      "sha256": "601533d828e90a3e007e08b24fcae8ae4d9ede544425bbc4d986e42572451b69"
+      "sha256": "b6daa9b2919f52c8cbd30198d5bcc27f501f9d9c99f556eabf896b4b4ed26ad5"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508270,
-      "sha256": "08b65c3b78e2a8c8b17a0484334c3e9873f0638425fde165fd984f1b25182844"
+      "bytes": 2508277,
+      "sha256": "2500aedae95105a4bf588031bcbdbf833ac796faabe515dad992084039ff90b0"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -5879,7 +5951,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6695,
-      "sha256": "f70ba1e7da7a9ff7b92d36d6ca305636d0aefa5c00b8f80a87cdb219d820d5f7"
+      "sha256": "20c2be1efa5c9cade5a18ce6ea2d4e1ceb3a36817effd657bb66fe0d8eee8139"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

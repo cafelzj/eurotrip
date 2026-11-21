@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Bounded official dataset footer probe only: HTTP Range last2MB, abort if range ignored; no full8GB database download",
+      "itemIds": []
+    }
+  ]
+}

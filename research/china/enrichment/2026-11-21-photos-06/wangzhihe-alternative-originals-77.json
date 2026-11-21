@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/1.jpg",
+      "query": "Wangzhihe alternative historical original upload1 and selected front_es revision31; reject prior feet/hand clutter",
+      "itemIds": [
+        "bj-wangzhihe"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/front_es.31.full.jpg",
+      "query": "Wangzhihe alternative historical original upload1 and selected front_es revision31; reject prior feet/hand clutter",
+      "itemIds": [
+        "bj-wangzhihe"
+      ]
+    }
+  ]
+}

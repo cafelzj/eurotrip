@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-hunan-chicken-donan-chicken/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/braised-chicken-with-rice/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/pot-stickers-chive-and-pork/",
+      "query": "Read actual named food recipe and images, resolve local dish variant before adoption",
+      "itemIds": []
+    }
+  ]
+}

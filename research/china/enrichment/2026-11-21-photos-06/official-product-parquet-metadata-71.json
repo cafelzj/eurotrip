@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://huggingface.co/datasets/openfoodfacts/product-database/resolve/main/food.parquet",
+      "query": "Complete Parquet metadata footer107968258 bytes only (1.4% of dataset); inspect row-group code ordering before any data reads; abort ignored range",
+      "itemIds": []
+    }
+  ]
+}

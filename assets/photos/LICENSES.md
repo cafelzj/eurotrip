@@ -1894,3 +1894,59 @@ Source: https://pupswithchopsticks.com/wonton-noodle-soup/
 License: [作者公开许可（每篇限一张，署名并链接原文）](https://pupswithchopsticks.com/about/)
 Original image URL: https://pupswithchopsticks.com/wp-content/uploads/chinese-wonton-noodle-soup-tn.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-huangmen-chicken-rice.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/braised-chicken-with-rice/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2021/01/Braised-Chicken-with-Rice-.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-pan-fried-dumplings.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/pot-stickers-chive-and-pork/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2018/09/Chinese-chive-potstickers-51.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-yinqiao-walnut-peanut-milk.jpg
+
+Author: groverchout / Open Food Facts
+Source: https://world.openfoodfacts.org/product/6904007601786
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://images.openfoodfacts.org/images/products/690/400/760/1786/front_zh.3.full.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-firmus-high-calcium-milk-powder.jpg
+
+Author: tomato / Open Food Facts
+Source: https://world.openfoodfacts.org/product/6907925885955
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://images.openfoodfacts.org/images/products/690/792/588/5955/front_de.3.full.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-want-want-sweet-milk-can.jpg
+
+Author: kiliweb / Open Food Facts
+Source: https://world.openfoodfacts.org/product/6920584471017
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://images.openfoodfacts.org/images/products/692/058/447/1017/front_zh.21.full.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-leshan-qiaojiao-beef.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Qiaojiao_Beef_at_Li_Si_Niang_Restaurant,_Beijing_(20211019184013).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/4c/Qiaojiao_Beef_at_Li_Si_Niang_Restaurant%2C_Beijing_%2820211019184013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-lijiang-chickpea-jelly.jpg
+
+Author: Kent Wang
+Source: https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f9/%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

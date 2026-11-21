@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/9.jpg",
+      "query": "6907592000026 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "bj-wangzhihe"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/759/200/0026/front_en.39.full.jpg",
+      "query": "6907592000026 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "bj-wangzhihe"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/400/760/1786/1.jpg",
+      "query": "6904007601786 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "sg-59af21369451aa5e41"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/400/760/1786/front_zh.3.full.jpg",
+      "query": "6904007601786 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "sg-59af21369451aa5e41"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/792/588/5955/1.jpg",
+      "query": "6907925885955 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "flavor-heilongjiang-04b29faaf3"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/792/588/5955/front_de.3.full.jpg",
+      "query": "6907925885955 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "flavor-heilongjiang-04b29faaf3"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/692/058/447/1017/6.jpg",
+      "query": "6920584471017 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/692/058/447/1017/front_zh.21.full.jpg",
+      "query": "6920584471017 actual original/selected front package upload; metadata verifies file IDs, uploader and revision; must inspect image",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ]
+    }
+  ]
+}

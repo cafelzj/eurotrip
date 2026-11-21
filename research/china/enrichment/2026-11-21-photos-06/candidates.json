@@ -885,6 +885,184 @@
         "url": "https://pupswithchopsticks.com/about/",
         "conditions": "作者说明照片均由本人拍摄，允许使用每篇一张照片，须署名本站并将做法链接回原文。本站仅采用本篇一张实际照片，署名并保留原文链接，不复制菜谱文字。"
       }
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-huangmen-chicken-rice",
+      "title": "黄焖鸡家常成品实拍",
+      "itemIds": [
+        "sd-huangmen-chicken"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/author74-original-1",
+      "rawSha256": "d2413002274e7e909ab2699b1a03fb28bfe886f14155fa9048ea8723de1f52e3",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/6b0c8ffed1974a968e9579140cfc1e98.response.gz",
+      "metadataSha256": "b1358feb89b461ecc6e2b84755c97c3a37febd50ae46db7fa1e56e698f9e7603",
+      "source": "https://www.chinasichuanfood.com/braised-chicken-with-rice/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2021/01/Braised-Chicken-with-Rice-.jpg"
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-pan-fried-dumplings",
+      "title": "锅烙家常成品实拍",
+      "itemIds": [
+        "flavor-liaoning-8d2207ae83"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/author74-original-2",
+      "rawSha256": "767d8e028becbc8d482ff65ba797f9b64cc38a420f0a844a99a04d2a33ebd0f4",
+      "metadataFile": "research/.local/china-photos-20261121-06/national-named-author-recipes-72/c6b75f6eba0e411ab5bc08ee75f94104.response.gz",
+      "metadataSha256": "7408d0778cc7af7cbe75cc2035805c36f6f861fc3bb887a16046e528e93c3037",
+      "source": "https://www.chinasichuanfood.com/pot-stickers-chive-and-pork/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2018/09/Chinese-chive-potstickers-51.jpg"
+    },
+    {
+      "id": "yinqiao-walnut-peanut-milk",
+      "title": "银桥乳业 · 6904007601786 old package photograph",
+      "itemIds": [
+        "sg-59af21369451aa5e41"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/package75-original-3.jpg",
+      "rawSha256": "bcace55cde2a4082c3b0f493996acfd372138c97d0eac1c91e3fd9626dad434f",
+      "metadataFile": "research/.local/china-photos-20261121-06/product-package-selected-75.json",
+      "metadataSha256": "4d177ca2be5e406ea0b968c62a2f66bd28eabf036589ca52445c6ddfb14d73c0",
+      "author": "groverchout / Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6904007601786",
+      "preview": "https://images.openfoodfacts.org/images/products/690/400/760/1786/front_zh.3.full.jpg",
+      "provider": "Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "barcode": "6904007601786",
+      "supportingEvidence": {
+        "originalFile": "research/.local/china-photos-20261121-06/package75-original-2.jpg",
+        "originalSha256": "2f21f186ed0ece8b227331dbf49c40c328e504bae5da4b921b96f5ff96852e98",
+        "derivedMetadata": true,
+        "metadataOrigin": "Official Open Food Facts product-database Parquet published by openfoodfacts on Hugging Face",
+        "completeFooterJournal": "research/.local/china-photos-20261121-06/official-product-parquet-metadata-71/requests.jsonl",
+        "actualDataRangeJournals": [
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/requests.jsonl"
+        ],
+        "rangeCacheCorrection": "research/china/enrichment/2026-11-21-photos-06/range-cache-correction.json",
+        "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
+      }
+    },
+    {
+      "id": "firmus-high-calcium-milk-powder",
+      "title": "飞鹤奶粉 · 6907925885955 old package photograph",
+      "itemIds": [
+        "program-eac5c560bed541d7db"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/package75-original-5.jpg",
+      "rawSha256": "cef7f0ac6e3b4826905b0c429515d815ea289d7c8db5acd042bec3c00edf0e6c",
+      "metadataFile": "research/.local/china-photos-20261121-06/product-package-selected-75.json",
+      "metadataSha256": "4d177ca2be5e406ea0b968c62a2f66bd28eabf036589ca52445c6ddfb14d73c0",
+      "author": "tomato / Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6907925885955",
+      "preview": "https://images.openfoodfacts.org/images/products/690/792/588/5955/front_de.3.full.jpg",
+      "provider": "Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "barcode": "6907925885955",
+      "supportingEvidence": {
+        "originalFile": "research/.local/china-photos-20261121-06/package75-original-4.jpg",
+        "originalSha256": "3750334c076cc9ff946d52ebaeed166d065bac0750597c3678cbca5a77f692f3",
+        "derivedMetadata": true,
+        "metadataOrigin": "Official Open Food Facts product-database Parquet published by openfoodfacts on Hugging Face",
+        "completeFooterJournal": "research/.local/china-photos-20261121-06/official-product-parquet-metadata-71/requests.jsonl",
+        "actualDataRangeJournals": [
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/requests.jsonl"
+        ],
+        "rangeCacheCorrection": "research/china/enrichment/2026-11-21-photos-06/range-cache-correction.json",
+        "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
+      }
+    },
+    {
+      "id": "want-want-sweet-milk-can",
+      "title": "大旺南京调制乳 · 6920584471017 old package photograph",
+      "itemIds": [
+        "county-cc2c6fe00f78dc"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/package75-original-7.jpg",
+      "rawSha256": "bbe080134bd4f1be3b8da0f5b0f90f30dba74fc3f74e97eecdc00da2d96c36cc",
+      "metadataFile": "research/.local/china-photos-20261121-06/product-package-selected-75.json",
+      "metadataSha256": "4d177ca2be5e406ea0b968c62a2f66bd28eabf036589ca52445c6ddfb14d73c0",
+      "author": "kiliweb / Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6920584471017",
+      "preview": "https://images.openfoodfacts.org/images/products/692/058/447/1017/front_zh.21.full.jpg",
+      "provider": "Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "barcode": "6920584471017",
+      "supportingEvidence": {
+        "originalFile": "research/.local/china-photos-20261121-06/package75-original-6.jpg",
+        "originalSha256": "a74190865171c0ab8fc7b638346108a4ada3596af23ec2155513544be770cf03",
+        "derivedMetadata": true,
+        "metadataOrigin": "Official Open Food Facts product-database Parquet published by openfoodfacts on Hugging Face",
+        "completeFooterJournal": "research/.local/china-photos-20261121-06/official-product-parquet-metadata-71/requests.jsonl",
+        "actualDataRangeJournals": [
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-494/requests.jsonl",
+          "research/.local/china-photos-20261121-06/official-product-selected-groups-73-495/requests.jsonl"
+        ],
+        "rangeCacheCorrection": "research/china/enrichment/2026-11-21-photos-06/range-cache-correction.json",
+        "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
+      }
+    },
+    {
+      "id": "leshan-qiaojiao-beef",
+      "title": "Qiaojiao Beef at Li Si Niang Restaurant, Beijing (20211019184013).jpg",
+      "itemIds": [
+        "sw-5816841f03da664228"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/southwest80-original-1",
+      "rawSha256": "2ef220c6ecfaa05c8e09da693a28530168a481722f1226db78aaaed8899cc2ac",
+      "metadataFile": "research/.local/china-photos-20261121-06/southwest-exact-photo-metadata-79/7bcef932f3d9469bab287d57de60b8a6.response.gz",
+      "metadataSha256": "fc431fd2254a0838394881f28ac8c9b34899d1742e6baed09713c61da7ef71c2",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Qiaojiao_Beef_at_Li_Si_Niang_Restaurant,_Beijing_(20211019184013).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Qiaojiao_Beef_at_Li_Si_Niang_Restaurant%2C_Beijing_%2820211019184013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "lijiang-chickpea-jelly",
+      "title": "丽江鸡豌豆凉粉 - Chicken pea jelly.jpg",
+      "itemIds": [
+        "sw-6fc347d5dd177ca39f"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/southwest80-original-2",
+      "rawSha256": "469313f17e28a8d5d403ca56dcefe8957bd4496aef0d9e1e8f3389f175de3a73",
+      "metadataFile": "research/.local/china-photos-20261121-06/southwest-exact-photo-metadata-79/7bcef932f3d9469bab287d57de60b8a6.response.gz",
+      "metadataSha256": "fc431fd2254a0838394881f28ac8c9b34899d1742e6baed09713c61da7ef71c2",
+      "author": "Kent Wang",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E4%B8%BD%E6%B1%9F%E9%B8%A1%E8%B1%8C%E8%B1%86%E5%87%89%E7%B2%89_-_Chicken_pea_jelly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
     }
   ]
 }
