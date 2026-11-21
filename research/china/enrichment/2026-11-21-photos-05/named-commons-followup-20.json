@@ -1,0 +1,11 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3A%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg%7CFile%3A%E5%91%A8%E7%94%9F%E8%AE%B0%E5%8D%83%E5%BC%A0%E5%8C%85%E5%AD%90.jpg",
+      "query": "Actual named red-bean jiuniang yuanxiao and Huzhou qianzhang bao metadata",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ]
+    }
+  ]
+}

@@ -196,6 +196,24 @@
       "reason": "中文叫化鸡条目及原文件民俗类别共同支持具体叫花鸡主题，条目说明常熟起源及向杭州传播的关系，原元数据保留实际杭州拍摄地。已看原图，整鸡、荷叶包裹及成品形态清楚，餐桌无其他餐具杂物干扰。以同名叫花鸡成品实拍作为例，不冒称常熟餐馆出品，也不由成品照片断言完整封泥或烤制过程。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-4f3d113057",
+      "itemName": "桂花糖芋苗",
+      "candidateId": "nanjing-tangyumiao",
+      "caption": "南京糖芋苗实拍，芋头与桂花糖汁的成品近景。",
+      "reason": "完整元数据中文直接标为南京糖芋苗，实际菜名和地域吻合。已看原图，整碗芋头、糖汁与少量桂花清楚，无人物和餐桌杂物遮挡主体；保留原有室内暖光，不进行调色。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-fdd1cc53a5",
+      "itemName": "镇江蟹黄汤包",
+      "candidateId": "dintaifung-crab-soup-buns",
+      "caption": "鼎泰丰蟹黄小笼汤包实拍，作为同类小汤包示例，不代表镇江餐馆出品。",
+      "reason": "原上传者题名明确鼎泰丰 hairy crab soup dumplings，完整页面图片许可 CC BY 2.0。已看原图，竹笼内成品小汤包褶纹与皮色清楚，桌面无杂乱干扰。镇江条目描述个头小、蟹与猪肉馅的汤包，与本图同类；作为同类实拍保留实际品牌，不宣称镇江出品、同一配方或产地认证。原始只有500×375，按原尺寸保存不放大。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -378,6 +396,21 @@
     {
       "candidateId": "437332055",
       "reason": "电脑杂物桌、瓶身只露局部且保质日期故事不宜代表当前产品，继续寻找更完整照片。"
+    },
+    {
+      "candidateId": "commons-red-bean-jiuniang-yuanxiao",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "reason": "原名与南京地域均吻合，照片已看，但塑料袋、人物与餐桌杂物占画面，暂不用于美食卡片封面。",
+      "viewedOriginal": false,
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "cns-shaoxing-food-video",
+      "itemIds": [],
+      "reason": "已看173帧接触表，来源许可具审查记录；多数画面是采访、制作过程或带直播字幕的远景，未选出同时主体明确、画质和构图适合当前缺图卡片的成品照片，本轮不采用。",
+      "viewedContactSheets": true
     }
   ]
 }

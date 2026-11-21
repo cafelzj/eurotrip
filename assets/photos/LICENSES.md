@@ -1526,3 +1526,19 @@ Source: https://commons.wikimedia.org/wiki/File:Chicken_packed_with_lotus_leaf.j
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chicken_packed_with_lotus_leaf.jpg/960px-Chicken_packed_with_lotus_leaf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-nanjing-tangyumiao.jpg
+
+Author: AddisWang
+Source: https://commons.wikimedia.org/wiki/File:Tangyumiao.JPG
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/Tangyumiao.JPG
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-dintaifung-crab-soup-buns.jpg
+
+Author: Krista / goodiesfirst
+Source: https://www.flickr.com/photos/49215102@N00/1864469256
+License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+Original image URL: https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

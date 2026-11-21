@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3ATangyumiao.JPG",
+      "query": "Actual Nanjing sweet taro file full metadata",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ]
+    },
+    {
+      "url": "https://kqh.me/post/106/",
+      "query": "Read Yangzhou original photo travel essay reuse and actual named dishes",
+      "itemIds": []
+    },
+    {
+      "url": "https://kqh.me/post/104/",
+      "query": "Read Hangzhou original photo travel essay and subjects",
+      "itemIds": []
+    }
+  ]
+}

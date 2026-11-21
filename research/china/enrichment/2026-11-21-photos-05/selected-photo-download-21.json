@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg",
+      "query": "Actual Nanjing red-bean jiuniang yuanxiao photograph",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/7026/6735063921_9a172bbdb2_k.jpg",
+      "query": "蟹黃湯包 original photograph",
+      "itemIds": []
+    },
+    {
+      "url": "https://live.staticflickr.com/7167/6735064089_67accf51a6_k.jpg",
+      "query": "P1280093 original photograph",
+      "itemIds": []
+    },
+    {
+      "url": "https://live.staticflickr.com/2182/1863642077_49562e8cb6.jpg",
+      "query": "din tai fung hairy crab dumpling original photograph",
+      "itemIds": []
+    },
+    {
+      "url": "https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg",
+      "query": "din tai fung hairy crab soup dumplings original photograph",
+      "itemIds": []
+    }
+  ]
+}

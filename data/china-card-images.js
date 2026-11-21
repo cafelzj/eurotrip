@@ -5582,6 +5582,58 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-nanjing-tangyumiao": {
+      "file": "Tangyumiao.JPG",
+      "src": "assets/photos/china/cn05-nanjing-tangyumiao.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "南京糖芋苗实拍，芋头与桂花糖汁的成品近景。",
+      "caption": "南京糖芋苗实拍，芋头与桂花糖汁的成品近景。",
+      "author": "AddisWang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Tangyumiao.JPG",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tangyumiao.JPG",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "完整元数据中文直接标为南京糖芋苗，实际菜名和地域吻合。已看原图，整碗芋头、糖汁与少量桂花清楚，无人物和餐桌杂物遮挡主体；保留原有室内暖光，不进行调色。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-dintaifung-crab-soup-buns": {
+      "file": "din tai fung hairy crab soup dumplings",
+      "src": "assets/photos/china/cn05-dintaifung-crab-soup-buns.jpg",
+      "width": 500,
+      "height": 375,
+      "kind": "food",
+      "alt": "鼎泰丰蟹黄小笼汤包实拍，作为同类小汤包示例，不代表镇江餐馆出品。",
+      "caption": "鼎泰丰蟹黄小笼汤包实拍，作为同类小汤包示例，不代表镇江餐馆出品。",
+      "author": "Krista / goodiesfirst",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/49215102@N00/1864469256",
+      "originalSrc": "https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原上传者题名明确鼎泰丰 hairy crab soup dumplings，完整页面图片许可 CC BY 2.0。已看原图，竹笼内成品小汤包褶纹与皮色清楚，桌面无杂乱干扰。镇江条目描述个头小、蟹与猪肉馅的汤包，与本图同类；作为同类实拍保留实际品牌，不宣称镇江出品、同一配方或产地认证。原始只有500×375，按原尺寸保存不放大。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -5804,7 +5856,9 @@ window.chinaCardImages = {
     "program-bb6fac915982500284": "cn05-commons-jinhua-subing",
     "js-ruandou-eel": "cn05-beijing-qintang-ruandou",
     "program-8da0619ace8cd0cc98": "cn05-bazirou-beijing",
-    "js-beggar-chicken": "cn05-beggars-chicken-lotus"
+    "js-beggar-chicken": "cn05-beggars-chicken-lotus",
+    "flavor-jiangsu-4f3d113057": "cn05-nanjing-tangyumiao",
+    "flavor-jiangsu-fdd1cc53a5": "cn05-dintaifung-crab-soup-buns"
   },
   "galleries": {}
 };

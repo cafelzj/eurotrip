@@ -441,6 +441,40 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "nanjing-tangyumiao",
+      "title": "Tangyumiao.JPG",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/tangyumiao-original.jpg",
+      "rawSha256": "a470ae59561bd6ec411d8721ee9285f4df0c401cfc381edc1885c4b12c7359be",
+      "metadataFile": "research/.local/china-photos-20261121-05/named-photo-followup-16/99bad7f107e64afdb1ce886e377c6e15.response.gz",
+      "metadataSha256": "9d183452d18ab5d1ce4e23dade820314f86e18d27a30d278091a0fde5669ce10",
+      "author": "AddisWang",
+      "source": "https://commons.wikimedia.org/wiki/File:Tangyumiao.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tangyumiao.JPG",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "dintaifung-crab-soup-buns",
+      "title": "din tai fung hairy crab soup dumplings",
+      "itemIds": [
+        "flavor-jiangsu-fdd1cc53a5"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/selected-original-4.jpg",
+      "rawSha256": "54c4c102d44b3d0430e4fe369b0d05759aeaeadd21cfb4e2ac832e2c33d0c4ad",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/f317d4cbd9454f058e67e33f0d30390b.response.gz",
+      "metadataSha256": "bd97dcc928f81c1ef57e58fc84ccca796d94ba4498d85dd674c7c724eba4fcfb",
+      "author": "Krista / goodiesfirst",
+      "source": "https://www.flickr.com/photos/49215102@N00/1864469256",
+      "preview": "https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg",
+      "provider": "Flickr",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
     }
   ]
 }

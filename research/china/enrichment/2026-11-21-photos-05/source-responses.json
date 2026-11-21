@@ -6258,6 +6258,307 @@
       "responseSha256": "e342f607efd6f3519b2feea0b5ccd026be37c9f09c5731e8ef01f81771a2a210",
       "compressedSha256": "2f1ef6592b489810dcca8f6e6809e4eb9d6c87be9073471809ff5aee63a8990c",
       "journal": "research/.local/china-photos-20261121-05/named-food-image-followup-10/requests.jsonl"
+    },
+    {
+      "url": "https://marweey.github.io/2024/01/18/%E4%B8%80%E4%BA%9B%E5%8D%97%E4%BA%AC%E6%97%85%E6%B8%B8%E5%9B%9E%E5%BF%86/",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/2e835a09bf4d49f59324ed04c19f90fb.response.gz",
+      "responseSha256": "7eaa4fc40e6b13fd4687ee9ba915aaa6b9bc97c2435b1c56f5ce17ba21dc41c6",
+      "compressedSha256": "9e4aa0d6befd4464755432447b1a4f1d89cfdbb497dce0efae4c7893322a561e",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://kqh.me/diary/n114/",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/b1d5c12864534e1190e60df2d641c82c.response.gz",
+      "responseSha256": "73243a2a69f48f81ff671b5bd69e7e111931a77c8f8943d91d966f5a780c1a29",
+      "compressedSha256": "ac8c95638c96e8ccf2867a5504d2eb46da1084bd58a8937d9f1e396e27ab13c5",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://welkinii.cn/archives/2a2c459f-c9ca-43f7-a9f3-14869f175c47",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/91109e74474a40b4ad2d2cfd1a4690db.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://luolei.org/meet-hangzhou-day-two",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/cb65ee89df2f4a16a1f387c8fa6cca8d.response.gz",
+      "responseSha256": "6d2ed249643d93947b5fec71c2472a347e32298168316d0399dd767ad66b481e",
+      "compressedSha256": "7a9ee563f72fd24d764fb589a14192e781550119233f613f250f3c8d12369746",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://www.kelejun.cn/post/2023ganwu",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/d78e6c8df0184da4a449fe67a90343b8.response.gz",
+      "responseSha256": "dd0d9db34511a35bb4221eb020d99e10f13da9d6ab32e075c97c24337ea9622b",
+      "compressedSha256": "1071a64227b586eac426e62dd6d7004540b62a39b00d383db883d4b40cdbff35",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://english.visitbeijing.com.cn/article/47ONSmS1muW",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/5e7b57c7de464ee8b6afc95f185ca10a.response.gz",
+      "responseSha256": "65552c905d0f2772e4ec93f5249193c7f4a2e33e2c5aa6a152bd5cb741e62f6d",
+      "compressedSha256": "9ef0381ab190f099c55f1c2a5d210e8c3a28e2efd7ebb2eb04c7347a5c1d8647",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://english.visitbeijing.com.cn/article/47ONBnuhQeA",
+      "query": "Read actual named regional food photos and complete source reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/2d7ee28e3d694c3f8707a5a232ceb1ef.response.gz",
+      "responseSha256": "ce3df36015e8468080edf99fd609162fca0402363aa9c4dec3e5bb71f45154ed",
+      "compressedSha256": "593af4b9be031f9ba68d447d0fdc9ab8385f601ded0f513aa3192f27921d40d7",
+      "journal": "research/.local/china-photos-20261121-05/cc-food-blog-pilot-15/requests.jsonl"
+    },
+    {
+      "url": "https://china-revealed.com/zhejiang/huzhou/",
+      "query": "Read named Chinese dish photo credits and follow original source, no site-wide image grant assumed",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/7dd070567f9d430ba862055a0b1c63ac.response.gz",
+      "responseSha256": "a72759e3621adbee5de6950d5e8ac6b5d3c1a8eb34712ac52baa110c66137642",
+      "compressedSha256": "395af1ed07c21a1e74163fb40359e4cad45ca2e0b24ec460c964d63fc57e927d",
+      "journal": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/requests.jsonl"
+    },
+    {
+      "url": "https://china-revealed.com/jiangsu/nanjing/",
+      "query": "Read named Chinese dish photo credits and follow original source, no site-wide image grant assumed",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/549bcd130e214a188f502e6f4e34ce42.response.gz",
+      "responseSha256": "6dcc489fb1902870d955293813c979dc8e3349420280cac7aa2fa4bbe4cba6ba",
+      "compressedSha256": "7994530107d51c56c8794b46b6cea8cd29192676fec2a1c7abe207a1b7e2065f",
+      "journal": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.thepaper.cn/newsDetail_forward_24391239",
+      "query": "Read named Chinese dish photo credits and follow original source, no site-wide image grant assumed",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/088c5aa6da064956b0c509aca03d097b.response.gz",
+      "responseSha256": "efcdfad1569fb40f568ccdd090fde5301a434ed2a80bd0c4e939503cb31e0c48",
+      "compressedSha256": "a32747dcc38543c41ed3d0eb10782cffe196b874f935792fcef062c21402bfd0",
+      "journal": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/requests.jsonl"
+    },
+    {
+      "url": "https://nyu.manifoldapp.org/projects/nyush-recipe",
+      "query": "Read named Chinese dish photo credits and follow original source, no site-wide image grant assumed",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/f9dc68afc5fa455c8b8c14fc72465f5c.response.gz",
+      "responseSha256": "5ce7934baebb788b8305828118465af146e0dfc3e44391747ee60d7e6b3db911",
+      "compressedSha256": "b247cea6b2013465dcd58d7ab562432d19cacea056909e5fcc80f5f97f23943e",
+      "journal": "research/.local/china-photos-20261121-05/cc-photo-curation-pilot-18/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/87807876@N00/6735063921",
+      "query": "蟹黃湯包 full original subject and author licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/3a8b8197fc38450a98e175061f65f03c.response.gz",
+      "responseSha256": "8165741811df9498a52bdb5ba3c79dd8831c9c4800790dc33e470fa8d510914d",
+      "compressedSha256": "be24094a3a4e658bc44bd80f5f7f3cb77098f9e89f36804c9265b3633c528da8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/87807876@N00/6735064089",
+      "query": "P1280093 full original subject and author licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/604b824fd36f42ddb18117d986246113.response.gz",
+      "responseSha256": "c6a2ccaeeaaea51e6a5f6a5b5a902e9aee316e4425f08482d9a593e5566afc0f",
+      "compressedSha256": "09cee7aea8c9a3bed47388030c704da17483bbbd37b2e4cf9e5abc3fb805ea30",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/49215102@N00/1863642077",
+      "query": "din tai fung hairy crab dumpling full original subject and author licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/537732c423ca4371b7ad1ac9ec384140.response.gz",
+      "responseSha256": "0f8a00095aa9c206ff7461633e51e70aaaa0e367747397b82fe57218bfad5cf6",
+      "compressedSha256": "fe3f74a4218b397d1f162ba44545a30ccbddb3f6d64e0f6ee51e03512f128a5e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/49215102@N00/1864469256",
+      "query": "din tai fung hairy crab soup dumplings full original subject and author licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/f317d4cbd9454f058e67e33f0d30390b.response.gz",
+      "responseSha256": "9e457ffdd09e94304326b44c2c034b7e50b9c2de0aa2fbc6ba51223f8c51b340",
+      "compressedSha256": "bd97dcc928f81c1ef57e58fc84ccca796d94ba4498d85dd674c7c724eba4fcfb",
+      "journal": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/2021%E5%B9%B410%E6%9C%8817%E6%97%A5_%E5%AF%BB%E5%91%B3%E7%BB%8D%E5%85%B4%EF%BC%8C%E7%9B%B8%E7%BA%A6%E9%B2%81%E8%BF%85%E5%AE%B6%E4%B9%A1%E8%8F%9C.webm/2021%E5%B9%B410%E6%9C%8817%E6%97%A5_%E5%AF%BB%E5%91%B3%E7%BB%8D%E5%85%B4%EF%BC%8C%E7%9B%B8%E7%BA%A6%E9%B2%81%E8%BF%85%E5%AE%B6%E4%B9%A1%E8%8F%9C.webm.480p.vp9.webm",
+      "query": "Provided 480p Shaoxing field food video copy for frame review; retain complete bytes and time references",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/licensed-food-video-download-14/a36b2b926ebb43dbb3c6589d774618c3.response.gz",
+      "responseSha256": "e476d19980a9db6a13e36dd5044b40e3041c434e0e85ec2b25a9ff422f4a01cb",
+      "compressedSha256": "5940205c238906adfef3b3bd964d2e4ff332762968bb4de5de43d7543b984d4b",
+      "journal": "research/.local/china-photos-20261121-05/licensed-food-video-download-14/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A2021%E5%B9%B410%E6%9C%8817%E6%97%A5+%E5%AF%BB%E5%91%B3%E7%BB%8D%E5%85%B4%EF%BC%8C%E7%9B%B8%E7%BA%A6%E9%B2%81%E8%BF%85%E5%AE%B6%E4%B9%A1%E8%8F%9C.webm&prop=videoinfo&viprop=url%7Csize%7Cderivatives%7Cmetadata%7Ctimedtext",
+      "query": "Actual provided video transcodes and duration via TimedMediaHandler",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/licensed-food-video-followup-13/618276d52ba64be79162d5fbf6984a07.response.gz",
+      "responseSha256": "ce83967dc8d663c973e0fc47d16bf0baf8036b2e45da587d50514cb524fa300f",
+      "compressedSha256": "a6ad1948e6931da1702c270d9a32680a98e2ec8ba19df0e5e2bf5b5e843c0b24",
+      "journal": "research/.local/china-photos-20261121-05/licensed-food-video-followup-13/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:2021%E5%B9%B410%E6%9C%8817%E6%97%A5_%E5%AF%BB%E5%91%B3%E7%BB%8D%E5%85%B4%EF%BC%8C%E7%9B%B8%E7%BA%A6%E9%B2%81%E8%BF%85%E5%AE%B6%E4%B9%A1%E8%8F%9C.webm",
+      "query": "Full original video file page license review and provided video variants",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/licensed-food-video-followup-13/d0b36846b7a7407792ca7fc11f2757fb.response.gz",
+      "responseSha256": "fb9f37b10db17de9419e887f2cabcca260e4a5fa26a945afa9796068e1e05637",
+      "compressedSha256": "8424d28261abd41454bee09e4982f44d5fafaec83d083cfa8a38d70ad2c20ea6",
+      "journal": "research/.local/china-photos-20261121-05/licensed-food-video-followup-13/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A2021%E5%B9%B410%E6%9C%8817%E6%97%A5+%E5%AF%BB%E5%91%B3%E7%BB%8D%E5%85%B4%EF%BC%8C%E7%9B%B8%E7%BA%A6%E9%B2%81%E8%BF%85%E5%AE%B6%E4%B9%A1%E8%8F%9C.webm&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize%7Cderivatives",
+      "query": "Actual licensed Shaoxing field food video original metadata and derivatives",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/licensed-food-video-pilot-12/e62c83c326314335a3e208ef59264d4b.response.gz",
+      "responseSha256": "038dc792c56fe5cd1dbfdd0b0815b4526757151aa0c45d2f4d68c28a367a1114",
+      "compressedSha256": "9092e99c9afbed4463a9111c81ca0e545867fac4e9b927d4491a719dd886bf6a",
+      "journal": "research/.local/china-photos-20261121-05/licensed-food-video-pilot-12/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3A%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg%7CFile%3A%E5%91%A8%E7%94%9F%E8%AE%B0%E5%8D%83%E5%BC%A0%E5%8C%85%E5%AD%90.jpg",
+      "query": "Actual named red-bean jiuniang yuanxiao and Huzhou qianzhang bao metadata",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-commons-followup-20/d17408597d68445db1a409ac8c0e6607.response.gz",
+      "responseSha256": "f520de9fb914182b58fc8f65148acf1c04c6b1f6a8b09bc3e2cf974f5b4b4a15",
+      "compressedSha256": "15a149e5d666d558a8ec4449f09abeb7121475b0d509eb79fbe02eefcc3265aa",
+      "journal": "research/.local/china-photos-20261121-05/named-commons-followup-20/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tangyumiao.JPG",
+      "query": "Original Nanjing Tangyumiao photograph, inspect before any adoption",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-photo-download-17/2b2b99e0a30248d5a8dd2bb1280d8d7b.response.gz",
+      "responseSha256": "a470ae59561bd6ec411d8721ee9285f4df0c401cfc381edc1885c4b12c7359be",
+      "compressedSha256": "02413fc7be8e2415e8e2625e7d2cae23e658a7ad42afe42786337f965cc03b1a",
+      "journal": "research/.local/china-photos-20261121-05/named-photo-download-17/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3ATangyumiao.JPG",
+      "query": "Actual Nanjing sweet taro file full metadata",
+      "itemIds": [
+        "flavor-jiangsu-4f3d113057"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-photo-followup-16/99bad7f107e64afdb1ce886e377c6e15.response.gz",
+      "responseSha256": "cb1482e890d384d77ad068de8689e65c8fe92af8b56f08f4b3ffb2ce81a1e6b3",
+      "compressedSha256": "9d183452d18ab5d1ce4e23dade820314f86e18d27a30d278091a0fde5669ce10",
+      "journal": "research/.local/china-photos-20261121-05/named-photo-followup-16/requests.jsonl"
+    },
+    {
+      "url": "https://kqh.me/post/106/",
+      "query": "Read Yangzhou original photo travel essay reuse and actual named dishes",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-photo-followup-16/740dac7c1f1c40e0970d6c15b0df7512.response.gz",
+      "responseSha256": "c33cd1ab0e2a6ad055d76b7d0c35761bf33681abb23cdb8312fcf92c3bf004bf",
+      "compressedSha256": "a5cbaf87e4334a5e6a4f6ab3320d7d2d6bee24be5678cf4082d5aaaddb2dd10c",
+      "journal": "research/.local/china-photos-20261121-05/named-photo-followup-16/requests.jsonl"
+    },
+    {
+      "url": "https://kqh.me/post/104/",
+      "query": "Read Hangzhou original photo travel essay and subjects",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-photo-followup-16/b7111c3558c140b58efb2bf7e2899a29.response.gz",
+      "responseSha256": "11c358279eea3d68abf9b5119eabc933c1731bd847a02efb65c20ea1fb7e9e0d",
+      "compressedSha256": "87d8478844906cd8dedab654778374c35f6609b15765612d4a4a6022147318ef",
+      "journal": "research/.local/china-photos-20261121-05/named-photo-followup-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg",
+      "query": "Actual Nanjing red-bean jiuniang yuanxiao photograph",
+      "itemIds": [
+        "flavor-jiangsu-ef6b20f987"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/selected-photo-download-21/ea88b6fd95564b27a27d93f678e0ea5b.response.gz",
+      "responseSha256": "8b182e1bdcde91538f65a1c72925f28366ffe400eeafdaa941068b43c2846270",
+      "compressedSha256": "8d5ee4da11ad17ec70ebc72c9490e8d90a9e3dec2b422d04a460db21bd0f7e1b",
+      "journal": "research/.local/china-photos-20261121-05/selected-photo-download-21/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/7026/6735063921_9a172bbdb2_k.jpg",
+      "query": "蟹黃湯包 original photograph",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/selected-photo-download-21/8ea026e4a7d54f8183a2aaef50ac53e1.response.gz",
+      "responseSha256": "fd89b32abc2dfa5480f59cf3e4506869b0382bd17f3fb1d1c815c227acb6ed01",
+      "compressedSha256": "45aba3bf55f844ed7d2b1138911be3cb7c4ea332d517929c46763afcad66f297",
+      "journal": "research/.local/china-photos-20261121-05/selected-photo-download-21/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/7167/6735064089_67accf51a6_k.jpg",
+      "query": "P1280093 original photograph",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/selected-photo-download-21/7b4e06613e6148ea8ded635f743fb542.response.gz",
+      "responseSha256": "e8c8666f7900bf0518664b063c5d3f9047743a25083290e5307c90d755cb6162",
+      "compressedSha256": "88c3ec977fc5f57e337c6a076968eae4650462b267690afaaa9868790c748d02",
+      "journal": "research/.local/china-photos-20261121-05/selected-photo-download-21/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2182/1863642077_49562e8cb6.jpg",
+      "query": "din tai fung hairy crab dumpling original photograph",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/selected-photo-download-21/d3f17cec99bb4e40a898ccee7c7b7d47.response.gz",
+      "responseSha256": "0e5114c54c84f9b4aa850656f13f60772870c56bd882b259ac09b5241464b267",
+      "compressedSha256": "61b4337224d989966514a0735e2efb4569e2a9838ca3864c56f8c497dcd425c2",
+      "journal": "research/.local/china-photos-20261121-05/selected-photo-download-21/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg",
+      "query": "din tai fung hairy crab soup dumplings original photograph",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/selected-photo-download-21/eb18c53add7f44289e226858b411eba9.response.gz",
+      "responseSha256": "54c4c102d44b3d0430e4fe369b0d05759aeaeadd21cfb4e2ac832e2c33d0c4ad",
+      "compressedSha256": "1178cfb29c0425bc1b94806a9e5d632bf22065f2811c64a68a0b10fed1d7128a",
+      "journal": "research/.local/china-photos-20261121-05/selected-photo-download-21/requests.jsonl"
     }
   ]
 }

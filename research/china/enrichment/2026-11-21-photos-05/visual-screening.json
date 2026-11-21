@@ -80,6 +80,54 @@
     {
       "file": "research/.local/china-photos-20261121-05/beggars-chicken-lotus.jpg",
       "sha256": "8ca23aae3bc2e45a0693b9498056ba73c7d2db9199a2758dead789858f532032"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/tangyumiao-original.jpg",
+      "sha256": "a470ae59561bd6ec411d8721ee9285f4df0c401cfc381edc1885c4b12c7359be"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/selected-photo-contact-21.jpg",
+      "sha256": "e8918807bc2761f40fb33e243d64a573416be81b89ec83baad568e3ea24ceae0"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/selected-original-4.jpg",
+      "sha256": "54c4c102d44b3d0430e4fe369b0d05759aeaeadd21cfb4e2ac832e2c33d0c4ad"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/selected-original-1.jpg",
+      "sha256": "fd89b32abc2dfa5480f59cf3e4506869b0382bd17f3fb1d1c815c227acb6ed01"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-01.jpg",
+      "sha256": "f653c33c4a47a65c1b91d9fe0f7de8795b57cf422a0a1a94801ce3ee784a0b9a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-02.jpg",
+      "sha256": "46cc42b9e687c7107a45c289806957acc020a507e73a84e6c51decbc0b8bbd29"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-03.jpg",
+      "sha256": "9bcb5dc7a791f1a5ef4f5910945b8d4b92c4f59c1dd4708785155e5b6d81c54d"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-04.jpg",
+      "sha256": "8db76acf723de0b05e2c62f616ac9bc43688c4eb29ff392c9f926309f0671e74"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-05.jpg",
+      "sha256": "6c520386d9c2eaad9c54e936a21c04675b903d10d9d7e17fd0ea9e32e1221d72"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-06.jpg",
+      "sha256": "d7a52417c61c4208746b143053a1b50021acba5e9c6b3e80337fe97bb90e1c89"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-07.jpg",
+      "sha256": "12c790b145bcf161fe79fba029feafd8f63038f27b92c845fa64f86e5f9bb473"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/shaoxing-video-samples/contact-08.jpg",
+      "sha256": "268b368bc4dedd543ce04b0614cc1617216632806ec5d7d14f001056a3ecf61a"
     }
   ],
   "notes": [

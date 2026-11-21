@@ -399,6 +399,44 @@
       "metadataSha256": "2f1ef6592b489810dcca8f6e6809e4eb9d6c87be9073471809ff5aee63a8990c",
       "action": "newly-adopted-real-photo",
       "candidateId": "beggars-chicken-lotus"
+    },
+    {
+      "itemId": "flavor-jiangsu-4f3d113057",
+      "itemName": "桂花糖芋苗",
+      "assetId": "cn05-nanjing-tangyumiao",
+      "src": "assets/photos/china/cn05-nanjing-tangyumiao.jpg",
+      "derivativeSha256": "d15a4d844927f9cf69c5b21d3cfb3b2f6c369cc21e6ea08a4e5339a2a745d1a5",
+      "caption": "南京糖芋苗实拍，芋头与桂花糖汁的成品近景。",
+      "reason": "完整元数据中文直接标为南京糖芋苗，实际菜名和地域吻合。已看原图，整碗芋头、糖汁与少量桂花清楚，无人物和餐桌杂物遮挡主体；保留原有室内暖光，不进行调色。",
+      "source": "https://commons.wikimedia.org/wiki/File:Tangyumiao.JPG",
+      "author": "AddisWang",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/tangyumiao-original.jpg",
+      "originalSha256": "a470ae59561bd6ec411d8721ee9285f4df0c401cfc381edc1885c4b12c7359be",
+      "metadataFile": "research/.local/china-photos-20261121-05/named-photo-followup-16/99bad7f107e64afdb1ce886e377c6e15.response.gz",
+      "metadataSha256": "9d183452d18ab5d1ce4e23dade820314f86e18d27a30d278091a0fde5669ce10",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "nanjing-tangyumiao"
+    },
+    {
+      "itemId": "flavor-jiangsu-fdd1cc53a5",
+      "itemName": "镇江蟹黄汤包",
+      "assetId": "cn05-dintaifung-crab-soup-buns",
+      "src": "assets/photos/china/cn05-dintaifung-crab-soup-buns.jpg",
+      "derivativeSha256": "535de8f44d4219d17c3c3c65b9b1a994f17f42864ae456ea2c867241dfe0f36b",
+      "caption": "鼎泰丰蟹黄小笼汤包实拍，作为同类小汤包示例，不代表镇江餐馆出品。",
+      "reason": "原上传者题名明确鼎泰丰 hairy crab soup dumplings，完整页面图片许可 CC BY 2.0。已看原图，竹笼内成品小汤包褶纹与皮色清楚，桌面无杂乱干扰。镇江条目描述个头小、蟹与猪肉馅的汤包，与本图同类；作为同类实拍保留实际品牌，不宣称镇江出品、同一配方或产地认证。原始只有500×375，按原尺寸保存不放大。",
+      "source": "https://www.flickr.com/photos/49215102@N00/1864469256",
+      "author": "Krista / goodiesfirst",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/selected-original-4.jpg",
+      "originalSha256": "54c4c102d44b3d0430e4fe369b0d05759aeaeadd21cfb4e2ac832e2c33d0c4ad",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-specific-photo-followup-19/f317d4cbd9454f058e67e33f0d30390b.response.gz",
+      "metadataSha256": "bd97dcc928f81c1ef57e58fc84ccca796d94ba4498d85dd674c7c724eba4fcfb",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "dintaifung-crab-soup-buns"
     }
   ]
 }

@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 305,
-    "withListPhoto": 292,
-    "missingRealPhoto": 6322,
-    "needsListPhoto": 6335
+    "withDetailPhoto": 307,
+    "withListPhoto": 294,
+    "missingRealPhoto": 6320,
+    "needsListPhoto": 6333
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 345,
-      "needsListPhoto": 345
+      "missingRealPhoto": 343,
+      "needsListPhoto": 343
     },
     "liaoning": {
       "cards": 306,
@@ -792,19 +792,6 @@
       "city": "怀化",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 44,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-4f3d113057",
-      "name": "桂花糖芋苗",
-      "province": "jiangsu",
-      "city": "南京",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 44,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -6213,19 +6200,6 @@
       "city": "徐州",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-fdd1cc53a5",
-      "name": "镇江蟹黄汤包",
-      "province": "jiangsu",
-      "city": "镇江",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 50,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82569,6 +82543,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-jiangsu-4f3d113057",
+      "name": "桂花糖芋苗",
+      "province": "jiangsu",
+      "city": "南京",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 44,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-6f05e5bdfc",
       "name": "蜜三刀",
       "province": "jiangsu",
@@ -82768,6 +82755,19 @@
       "name": "苏式鲜肉月饼",
       "province": "jiangsu",
       "city": "苏州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-jiangsu-fdd1cc53a5",
+      "name": "镇江蟹黄汤包",
+      "province": "jiangsu",
+      "city": "镇江",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 50,
