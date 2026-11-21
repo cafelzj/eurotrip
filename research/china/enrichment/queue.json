@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 338,
-    "withListPhoto": 325,
-    "missingRealPhoto": 6289,
-    "needsListPhoto": 6302
+    "withDetailPhoto": 340,
+    "withListPhoto": 327,
+    "missingRealPhoto": 6287,
+    "needsListPhoto": 6300
   },
   "byProvince": {
     "henan": {
@@ -99,12 +99,6 @@
       "missingRealPhoto": 70,
       "needsListPhoto": 70
     },
-    "shanghai": {
-      "cards": 52,
-      "shortReadings": 35,
-      "missingRealPhoto": 34,
-      "needsListPhoto": 34
-    },
     "guangxi": {
       "cards": 302,
       "shortReadings": 127,
@@ -116,6 +110,12 @@
       "shortReadings": 160,
       "missingRealPhoto": 262,
       "needsListPhoto": 262
+    },
+    "shanghai": {
+      "cards": 52,
+      "shortReadings": 35,
+      "missingRealPhoto": 32,
+      "needsListPhoto": 32
     },
     "shaanxi": {
       "cards": 147,
@@ -4055,19 +4055,6 @@
       "city": "济南",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sh-bright-yogurt",
-      "name": "光明酸奶",
-      "province": "shanghai",
-      "city": "上海",
-      "category": "food",
-      "subcategory": "dairy",
       "readingCharacters": 48,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -10425,19 +10412,6 @@
       "city": "临夏州",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 53,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sh-bright-milk",
-      "name": "光明鲜牛奶",
-      "province": "shanghai",
-      "city": "上海",
-      "category": "food",
-      "subcategory": "dairy",
       "readingCharacters": 53,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82296,6 +82270,19 @@
       "priority": 3
     },
     {
+      "itemId": "sh-bright-yogurt",
+      "name": "光明酸奶",
+      "province": "shanghai",
+      "city": "上海",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-0c84d4e7b1",
       "name": "惠山油酥",
       "province": "jiangsu",
@@ -82705,6 +82692,19 @@
       "city": "常州",
       "category": "food",
       "subcategory": "tea",
+      "readingCharacters": 53,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sh-bright-milk",
+      "name": "光明鲜牛奶",
+      "province": "shanghai",
+      "city": "上海",
+      "category": "food",
+      "subcategory": "dairy",
       "readingCharacters": 53,
       "readingStatus": "needs-expansion",
       "readingBatch": null,

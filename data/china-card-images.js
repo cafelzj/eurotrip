@@ -6512,6 +6512,60 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn06-bright-rushi-yogurt": {
+      "file": "光明酸奶 · 6901209212215 actual package photograph",
+      "src": "assets/photos/china/cn06-bright-rushi-yogurt.jpg",
+      "width": 500,
+      "height": 600,
+      "kind": "product",
+      "alt": "光明如实原味纯净发酵乳旧包装实拍。",
+      "caption": "光明如实原味纯净发酵乳旧包装实拍。",
+      "author": "foodvisor / Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/6901209212215",
+      "originalSrc": "https://images.openfoodfacts.org/images/products/690/120/921/2215/front_en.3.full.jpg",
+      "provider": "Open Food Facts",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-06",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已查看原始上传及所选正面完整画面，纸杯与印刷纹理真实可见；标签为光明如实纯净发酵乳，不是常温酸奶饮品。600像素原件不放大；杯右缘原拍摄即部分出框，保留原场景。署名采用实际上传账户，不推定个人摄影者。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
+    },
+    "cn06-bright-ubest-fresh-milk": {
+      "file": "光明鲜牛奶 · 6901209200182 actual package photograph",
+      "src": "assets/photos/china/cn06-bright-ubest-fresh-milk.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "product",
+      "alt": "光明优倍950毫升鲜牛奶旧包装实拍，包装信息不代表当前配方。",
+      "caption": "光明优倍950毫升鲜牛奶旧包装实拍，包装信息不代表当前配方。",
+      "author": "deedaniels / Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://world.openfoodfacts.org/product/6901209200182",
+      "originalSrc": "https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg",
+      "provider": "Open Food Facts",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-06",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已逐幅查看原始上传及所选正面，标签清楚写FRESH MILK与优倍；并非另一个候选的零乳糖调制乳，也不是常温纯牛奶。完整纸盒与简洁木纹背景，保留旧包装及历史营养标示，不据此宣称现款配方或上海加工厂。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
     }
   },
   "cards": {
@@ -6767,7 +6821,9 @@ window.chinaCardImages = {
     "bj-zhizi": "cn06-beijing-zhizi-mutton",
     "sg-6ef828b02943f66944": "cn06-csf-biangbiang",
     "threeprov-6d7c55e58bfd184d65": "cn06-csf-cheung-fun",
-    "flavor-anhui-44a26dcad2": "cn06-huainan-beef-soup"
+    "flavor-anhui-44a26dcad2": "cn06-huainan-beef-soup",
+    "sh-bright-yogurt": "cn06-bright-rushi-yogurt",
+    "sh-bright-milk": "cn06-bright-ubest-fresh-milk"
   },
   "galleries": {}
 };

@@ -288,6 +288,24 @@
       "reason": "原文件命名及归类支持淮南牛肉汤主题，原作者Flickr照片与Commons所引原图ID一致。已看全幅，单碗汤品与肉片、香菜、汤中配料清楚。原作者在Flickr以Public Domain Mark标记，完整Commons原页有2023年FlickreviewR确认；这不是CC0许可，保留原作者署名与公共域声明链接。仅作同名成品示例，不把文件主题所在地当作实际拍摄城市，也不由照片断言所有肉片部位。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "sh-bright-yogurt",
+      "itemName": "光明酸奶",
+      "candidateId": "bright-rushi-yogurt",
+      "caption": "光明如实原味纯净发酵乳旧包装实拍。",
+      "reason": "已查看原始上传及所选正面完整画面，纸杯与印刷纹理真实可见；标签为光明如实纯净发酵乳，不是常温酸奶饮品。600像素原件不放大；杯右缘原拍摄即部分出框，保留原场景。署名采用实际上传账户，不推定个人摄影者。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sh-bright-milk",
+      "itemName": "光明鲜牛奶",
+      "candidateId": "bright-ubest-fresh-milk",
+      "caption": "光明优倍950毫升鲜牛奶旧包装实拍，包装信息不代表当前配方。",
+      "reason": "已逐幅查看原始上传及所选正面，标签清楚写FRESH MILK与优倍；并非另一个候选的零乳糖调制乳，也不是常温纯牛奶。完整纸盒与简洁木纹背景，保留旧包装及历史营养标示，不据此宣称现款配方或上海加工厂。",
+      "kind": "product",
+      "viewedOriginal": true
     }
   ],
   "held": [

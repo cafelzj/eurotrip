@@ -1790,3 +1790,19 @@ Source: https://www.flickr.com/photos/198503324@N06/52969944927/
 License: [Public domain](https://commons.wikimedia.org/wiki/File:A_Bowl_of_Huainan_Beef_Soup.jpg#Licensing)
 Original image URL: https://live.staticflickr.com/65535/52969944927_afb6aae2ea_o.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-bright-rushi-yogurt.jpg
+
+Author: foodvisor / Open Food Facts
+Source: https://world.openfoodfacts.org/product/6901209212215
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://images.openfoodfacts.org/images/products/690/120/921/2215/front_en.3.full.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码；未生成、调色或改变主体。
+
+### assets/photos/china/cn06-bright-ubest-fresh-milk.jpg
+
+Author: deedaniels / Open Food Facts
+Source: https://world.openfoodfacts.org/product/6901209200182
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码；未生成、调色或改变主体。

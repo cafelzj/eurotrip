@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/2215/front_en.3.full.jpg",
+      "query": "Selected front of visually confirmed original; compare actual packaging",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg",
+      "query": "Selected front of visually confirmed original; compare actual packaging",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    }
+  ]
+}

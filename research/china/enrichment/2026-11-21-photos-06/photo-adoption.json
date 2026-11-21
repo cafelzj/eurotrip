@@ -589,6 +589,44 @@
       "metadataSha256": "74a94f18578beac8f4cbae7435a47b4717e67c5459df70f8b0ba8031fde64771",
       "action": "newly-adopted-real-photo",
       "candidateId": "huainan-beef-soup"
+    },
+    {
+      "itemId": "sh-bright-yogurt",
+      "itemName": "光明酸奶",
+      "assetId": "cn06-bright-rushi-yogurt",
+      "src": "assets/photos/china/cn06-bright-rushi-yogurt.jpg",
+      "derivativeSha256": "9c28372089dff7068b342d9f027018ab0144ddc21e280d9132f197b889e79e42",
+      "caption": "光明如实原味纯净发酵乳旧包装实拍。",
+      "reason": "已查看原始上传及所选正面完整画面，纸杯与印刷纹理真实可见；标签为光明如实纯净发酵乳，不是常温酸奶饮品。600像素原件不放大；杯右缘原拍摄即部分出框，保留原场景。署名采用实际上传账户，不推定个人摄影者。",
+      "source": "https://world.openfoodfacts.org/product/6901209212215",
+      "author": "foodvisor / Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "originalResponseFile": "research/.local/china-photos-20261121-06/bright-front-0.jpg",
+      "originalSha256": "f176549c54cb23d8ff14b74b27fcbab304dacf51dc4fbfa7927168911645ae79",
+      "metadataFile": "research/.local/china-photos-20261121-06/tea-and-dairy-source-pilot-24/05c5dd31aa924a9aa0baf2dfeed5b9f6.response.gz",
+      "metadataSha256": "623590fa108331cab0d2ea3a062283d494f88c09c47ca2dc6cd71cdfb979756d",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "bright-rushi-yogurt"
+    },
+    {
+      "itemId": "sh-bright-milk",
+      "itemName": "光明鲜牛奶",
+      "assetId": "cn06-bright-ubest-fresh-milk",
+      "src": "assets/photos/china/cn06-bright-ubest-fresh-milk.jpg",
+      "derivativeSha256": "96161c16c2b87fe2a1c921505082fb4a2c27329d4d1f36d22014fe285e90e951",
+      "caption": "光明优倍950毫升鲜牛奶旧包装实拍，包装信息不代表当前配方。",
+      "reason": "已逐幅查看原始上传及所选正面，标签清楚写FRESH MILK与优倍；并非另一个候选的零乳糖调制乳，也不是常温纯牛奶。完整纸盒与简洁木纹背景，保留旧包装及历史营养标示，不据此宣称现款配方或上海加工厂。",
+      "source": "https://world.openfoodfacts.org/product/6901209200182",
+      "author": "deedaniels / Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "originalResponseFile": "research/.local/china-photos-20261121-06/bright-front-1.jpg",
+      "originalSha256": "6c66d3f883bb82c36b80d052398cad80cac805738eecc4ff472e4644eeaf0a82",
+      "metadataFile": "research/.local/china-photos-20261121-06/tea-and-dairy-source-pilot-24/05c5dd31aa924a9aa0baf2dfeed5b9f6.response.gz",
+      "metadataSha256": "623590fa108331cab0d2ea3a062283d494f88c09c47ca2dc6cd71cdfb979756d",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "bright-ubest-fresh-milk"
     }
   ]
 }

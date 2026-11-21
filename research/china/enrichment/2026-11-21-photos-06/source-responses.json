@@ -1718,6 +1718,112 @@
       "responseSha256": "a034f75068b6c1dddb7cd9f2bfc2e39e34bb141fbb884271cdeacbca89ed7950",
       "compressedSha256": "623590fa108331cab0d2ea3a062283d494f88c09c47ca2dc6cd71cdfb979756d",
       "journal": "research/.local/china-photos-20261121-06/tea-and-dairy-source-pilot-24/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/2215/front_en.3.full.jpg",
+      "query": "Selected front of visually confirmed original; compare actual packaging",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/bright-selected-front-27/663a73aa74ca4055b7da9437bf65ab1b.response.gz",
+      "responseSha256": "f176549c54cb23d8ff14b74b27fcbab304dacf51dc4fbfa7927168911645ae79",
+      "compressedSha256": "8ac2d0cfa4c14df7c3abaa7bf9461a88ff5051d11f8d21c1da417548e5c4e4ae",
+      "journal": "research/.local/china-photos-20261121-06/bright-selected-front-27/requests.jsonl"
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg",
+      "query": "Selected front of visually confirmed original; compare actual packaging",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/bright-selected-front-27/bbe2eb5dbf8d4b0b9a2fef03e8f351b7.response.gz",
+      "responseSha256": "6c66d3f883bb82c36b80d052398cad80cac805738eecc4ff472e4644eeaf0a82",
+      "compressedSha256": "86ff2a4eb0b3b140b9024088d02d9b8bce7e23e0dbf5541cee3539668f62c71d",
+      "journal": "research/.local/china-photos-20261121-06/bright-selected-front-27/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%8D%AB%E5%B2%97&search_simple=1&action=process&json=1&page_size=30",
+      "query": "卫岗 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/545fe677dcad4fe98e9e5ee2c2d8ad2c.response.gz",
+      "responseSha256": "4dcb7fe756f1ebd0ff10635549cd8d8197284d1d66259e9ada79f625fde9e57d",
+      "compressedSha256": "362dac3fedf5593b795afb9f5ad0eb5b3a84b4dcfb2c7ececdc6261251d90ed6",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E4%B8%80%E9%B8%A3&search_simple=1&action=process&json=1&page_size=30",
+      "query": "一鸣 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/3eba53328ab54ff192dfa72131bad3c6.response.gz",
+      "responseSha256": "fa13f8614fb6b695b3de3ac03227804dfc6ab25b6fee4ca3eced0c5c79c63c1b",
+      "compressedSha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E6%9D%8E%E5%AD%90%E5%9B%AD&search_simple=1&action=process&json=1&page_size=30",
+      "query": "李子园 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/231680275ac7421dbd2866e43c556080.response.gz",
+      "responseSha256": "fa13f8614fb6b695b3de3ac03227804dfc6ab25b6fee4ca3eced0c5c79c63c1b",
+      "compressedSha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E6%AD%A3%E5%B9%BF%E5%92%8C&search_simple=1&action=process&json=1&page_size=30",
+      "query": "正广和 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "deferUntilEpoch": 1795243174.3877575,
+      "responseFile": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/78468a92db9d4487adc06531619b85b5.response.gz",
+      "responseSha256": "fa13f8614fb6b695b3de3ac03227804dfc6ab25b6fee4ca3eced0c5c79c63c1b",
+      "compressedSha256": "c5ecd3f90714d978bb130159402f3899daa4d20a9d01ab5742ccc3f27eab4c43",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E7%BB%B4%E7%BB%B4&search_simple=1&action=process&json=1&page_size=30",
+      "query": "维维 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "Three consecutive failures: source paused for this run.",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E7%BE%8E%E4%B8%BD%E5%81%A5&search_simple=1&action=process&json=1&page_size=30",
+      "query": "美丽健 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "Three consecutive failures: source paused for this run.",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%8D%A1%E5%A3%AB&search_simple=1&action=process&json=1&page_size=30",
+      "query": "卡士 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "Three consecutive failures: source paused for this run.",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E4%BC%98%E8%AF%BA&search_simple=1&action=process&json=1&page_size=30",
+      "query": "优诺 actual package photography discovery; read product/SKU and image uploader",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "Three consecutive failures: source paused for this run.",
+      "journal": "research/.local/china-photos-20261121-06/jzy-dairy-brand-search-28/requests.jsonl"
     }
   ]
 }

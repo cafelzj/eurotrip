@@ -188,6 +188,22 @@
     {
       "file": "research/.local/china-photos-20261121-06/independent-review-3.jpg",
       "sha256": "ae88c3255b78c88bbbdbe11c077e70e5b2b503ad1a881bb5c911f1fd0397e688"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/bright-alt-review-0.jpg",
+      "sha256": "1a9a5fea363a070ca86d63ce7209a019e11d76f8002b427f3086c5dc03c70152"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/bright-front-review-0.jpg",
+      "sha256": "d63d9557638844dd89076bf87d6f9419716e464dc87a6d3ea4f7b09ec3a1c73b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/bright-alt-review-1.jpg",
+      "sha256": "063de6bf8b7948e371677a1afad46651dd7f06a584ea2a5ce521bfde60578511"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/bright-front-review-1.jpg",
+      "sha256": "be0948663793a6afca68acebaddcca42409103a9b03b1b521356aa676ef4cf58"
     }
   ],
   "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"

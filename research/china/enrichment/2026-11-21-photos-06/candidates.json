@@ -597,6 +597,52 @@
           "scope": "Commons full creator-applied Public Domain Mark statement and 2023 FlickreviewR confirmation; PDM is not CC0."
         }
       ]
+    },
+    {
+      "id": "bright-rushi-yogurt",
+      "title": "光明酸奶 · 6901209212215 actual package photograph",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/bright-front-0.jpg",
+      "rawSha256": "f176549c54cb23d8ff14b74b27fcbab304dacf51dc4fbfa7927168911645ae79",
+      "metadataFile": "research/.local/china-photos-20261121-06/tea-and-dairy-source-pilot-24/05c5dd31aa924a9aa0baf2dfeed5b9f6.response.gz",
+      "metadataSha256": "623590fa108331cab0d2ea3a062283d494f88c09c47ca2dc6cd71cdfb979756d",
+      "author": "foodvisor / Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6901209212215",
+      "preview": "https://images.openfoodfacts.org/images/products/690/120/921/2215/front_en.3.full.jpg",
+      "provider": "Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "barcode": "6901209212215",
+      "supportingEvidence": {
+        "originalFile": "research/.local/china-photos-20261121-06/bright-alt-original-0.jpg",
+        "originalSha256": "d1fbcc75621904eac2383b5382f6cc3d9cf2c18fe71c28d25ac45b3860d5ee1d",
+        "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
+      }
+    },
+    {
+      "id": "bright-ubest-fresh-milk",
+      "title": "光明鲜牛奶 · 6901209200182 actual package photograph",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/bright-front-1.jpg",
+      "rawSha256": "6c66d3f883bb82c36b80d052398cad80cac805738eecc4ff472e4644eeaf0a82",
+      "metadataFile": "research/.local/china-photos-20261121-06/tea-and-dairy-source-pilot-24/05c5dd31aa924a9aa0baf2dfeed5b9f6.response.gz",
+      "metadataSha256": "623590fa108331cab0d2ea3a062283d494f88c09c47ca2dc6cd71cdfb979756d",
+      "author": "deedaniels / Open Food Facts",
+      "source": "https://world.openfoodfacts.org/product/6901209200182",
+      "preview": "https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg",
+      "provider": "Open Food Facts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "barcode": "6901209200182",
+      "supportingEvidence": {
+        "originalFile": "research/.local/china-photos-20261121-06/bright-alt-original-1.jpg",
+        "originalSha256": "13d4d1930e2e752dad317bde9ef72d9a5615767cba3fc44b9e4624a39b6eb3e0",
+        "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
+      }
     }
   ]
 }
