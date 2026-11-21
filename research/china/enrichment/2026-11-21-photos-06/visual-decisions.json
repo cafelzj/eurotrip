@@ -45,6 +45,103 @@
       "reason": "原作者说明明确祁门毫芽茶叶与冲泡茶汤。全幅查看，茶汤色泽与叶底同框可辨，按茶饮实拍使用，不宣称所有等级外观均完全相同；列表焦点朝茶汤。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "sw-f488502bc68c95379a",
+      "itemName": "钟水饺",
+      "candidateId": "csf-zhong-dumplings",
+      "caption": "钟水饺家常成品实拍，红油与甜酱油裹在水饺表面。",
+      "reason": "原文直接命名钟水饺并说明红油、四川甜酱油与半月形猪肉馅水饺，全幅成品实拍已审，油汁与饺皮清楚，盘面与布景整洁。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "sw-e4625bc6ff85b3d267",
+      "itemName": "川北凉粉",
+      "candidateId": "csf-liangfen",
+      "caption": "绿豆凉粉的川味家常实拍，作为同类凉粉示例，非南充店铺出品。",
+      "reason": "原文为四川风味绿豆凉粉，条状凉粉与红油、蒜末、葱花可辨。与川北凉粉同属川味豆类淀粉凉粉，作为有依据的同类示例采用；原文没有声称南充店铺或川北具体配方已验证，故图注明确家常绿豆版本，不把它称作当地原店实拍。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-b0741f8e30dcc3ddf9",
+      "itemName": "梅菜扣肉",
+      "candidateId": "csf-meicai-kourou",
+      "caption": "梅菜扣肉家常成品实拍，切片五花肉与梅菜同盘。",
+      "reason": "原文明确梅菜、五花肉及蒸制扣肉，全幅查看成品切片、肉皮和梅菜清楚，明亮背景及近景构图适合列表；不用于不同做法的绍兴梅干菜焖肉。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-74fe943851dd2fa5c7",
+      "itemName": "客家盐焗鸡",
+      "candidateId": "csf-salt-baked-chicken",
+      "caption": "热盐焗制的家常盐焗鸡实拍，非特定店铺出品。",
+      "reason": "原文采用纸包鸡、粗盐埋焗的制作方式，并交代沙姜、姜黄家庭配方；成品金黄、切块与鸡翼清楚，保留实际家庭做法，不称梅州店铺或统一固定配方。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-9c9d866b2444f68f34",
+      "itemName": "白切鸡",
+      "candidateId": "csf-white-cut-chicken",
+      "caption": "白切鸡家常成品实拍，切块鸡肉搭配姜葱蘸料。",
+      "reason": "原文明确广东白切鸡及热水浸熟方式，全幅查看切块成品、鸡皮与蘸料清楚，白盘与背景简洁，不挪用为特定湛江鸡种的证据。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-af54725a59a71e1d08",
+      "itemName": "沙湾姜撞奶",
+      "candidateId": "csf-ginger-milk",
+      "caption": "姜汁与牛奶凝成的家常姜撞奶实拍，非沙湾店铺出品。",
+      "reason": "原文使用鲜姜汁、全脂牛奶和糖，通过姜汁凝乳而非明胶或琼脂；与卡片描述同类姜撞奶做法，按家庭版本采用，不称沙湾原店或特定水牛奶配方。奶品凝结质地与勺中成品清楚，浅色布景自然。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "sg-62ee0a0a264be00a0a",
+      "itemName": "肉夹馍",
+      "candidateId": "csf-roujiamo",
+      "caption": "白吉馍夹卤肉的家常肉夹馍实拍。",
+      "reason": "原文直接对应陕西肉夹馍及白吉馍、卤肉，作者交代西安求学经历但照片按家庭食谱示例使用。成品馍与肉馅近景清楚，不挪用成另一类荷叶包或刈包。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "bj-jingjiang",
+      "itemName": "京酱肉丝",
+      "candidateId": "beijing-jingjiang-rousi",
+      "caption": "京酱肉丝成品实拍，酱汁肉丝置于葱丝上，旁配薄饼。",
+      "reason": "原文件名直接对应京酱肉丝，原作者为 Дмитрий Журавлев (dejur)，CC BY-SA 3.0；全幅成品近景，肉丝与葱丝、薄饼对应，保留原有水印及暖光。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "itemName": "大同刀削面",
+      "candidateId": "datong-dao-xiao-mian",
+      "caption": "大同刀削面实拍，前景为宽厚面片配肉汤。",
+      "reason": "原作者题名大同，元数据中文明确大同刀削面，实际菜名与地点相符。全幅查看前景面片、肉与汤汁可辨，列表焦点朝前景面碗，详情仍保留完整原画面，不伪装其他面条。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-a6597ace05e39fc299",
+      "itemName": "老友粉",
+      "candidateId": "nanning-laoyoufen",
+      "caption": "南宁万国酒家牛肉版老友粉实拍，摄于2024年。",
+      "reason": "原题名明确南宁万国酒家牛肉老友粉，属同名食品的牛肉版本；全幅实拍汤粉、豆豉与配料可辨，不声称所有老友粉都用牛肉或由照片确认完整配方。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -66,6 +163,31 @@
     {
       "candidateId": "Maofeng (medium grade, spring 2007).jpg",
       "reason": "标尺占据显著画面，更适合辨识记录，另找更好的展示照片。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "苏州蟹粉面.jpg",
+      "reason": "原件画面为蟹粉油汁浇头，未见面条且油汁占画面，不作为上海蟹粉面的成品封面。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "江苏灌南县裕灌农业白蘑菇.jpg",
+      "reason": "原件主题为白蘑菇，现有灌南卡片是金针菇，名称与菌种不符，不采用。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "Single Dezhou braised chicken wrapped in paper (20170115132902).jpg",
+      "reason": "接触表显示包装纸与整鸡粗糙表皮占画面，暂不作为美食封面。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "Xinyang Maojian.jpg",
+      "reason": "接触表干茶失焦、曝光欠佳，另找更好的成品照片。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "宣化牛奶葡萄.JPG",
+      "reason": "已看全幅，品种主题吻合但曝光灰暗，不调色补救，暂不采用。",
       "viewedContactSheet": true
     }
   ]

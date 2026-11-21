@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%AE%81%E6%B3%A2+%E9%A3%9F%E7%89%A9&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "宁波 食物 actual Commons source index metadata pilot",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%AE%89%E5%90%89+%E7%99%BD%E8%8C%B6&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "安吉 白茶 actual Commons source index metadata pilot",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E4%B8%8A%E6%B5%B7+%E7%89%9B%E5%A5%B6&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "上海 牛奶 actual Commons source index metadata pilot",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E6%B1%9F%E8%8B%8F+%E7%BE%8E%E9%A3%9F&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "江苏 美食 actual Commons source index metadata pilot",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AYAKULT+PRODUCTS+IN+CHINA+%282%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Named exact dairy brand product file metadata",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E6%98%8E%E6%B2%BB%E7%89%9B%E4%B9%B3+20250302+143613.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Named exact dairy brand product file metadata",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/YAKULT_PRODUCTS_IN_CHINA.jpg",
+      "query": "File:YAKULT PRODUCTS IN CHINA.jpg inspect exact ordinary vs low sugar product label",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Yakult_LT_Hong_Kong.JPG",
+      "query": "File:Yakult LT Hong Kong.JPG inspect exact ordinary vs low sugar product label",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ]
+    }
+  ]
+}

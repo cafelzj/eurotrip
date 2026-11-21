@@ -85,6 +85,225 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "csf-zhong-dumplings",
+      "title": "钟水饺 — Elaine original recipe photograph",
+      "itemIds": [
+        "sw-f488502bc68c95379a"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-0",
+      "rawSha256": "70b90ee095758336b3ee5b3f7cda198f8876ca5b0251ac3924317a22b32a0df7",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/4967021c49a848078d92823c824e151b.response.gz",
+      "metadataSha256": "ab716ba5b9acf7cdf312c2f102056727ccef1f45d810b021810dec1879de04a8",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/szechuan-dumplings-zhong-dumplings/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2020/09/Szechuan-dumpling-Zhong-Dumplings.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-liangfen",
+      "title": "川北凉粉 — Elaine original recipe photograph",
+      "itemIds": [
+        "sw-e4625bc6ff85b3d267"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-1",
+      "rawSha256": "6dcd3ba54ce988f8bfc216763ee575d5d33b0941fdffa9fb759548cb5f42c561",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/e5af4c686b824e0889658b8d7cd6cbd2.response.gz",
+      "metadataSha256": "36f8296e01210a3a9c52b643913b4ecaf175ed98a0874b62e296a119621c56e0",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/liangfen-chinese-jelly-noodles/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2018/06/boba-52.webp",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-meicai-kourou",
+      "title": "梅菜扣肉 — Elaine original recipe photograph",
+      "itemIds": [
+        "threeprov-b0741f8e30dcc3ddf9"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-2",
+      "rawSha256": "a2ddbfe5c6461a89390b286bb84ba988d38ccfefd60699b1f1a14d6c0f21ddd6",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/ef2208d1a0664179bd89fa1356ccd508.response.gz",
+      "metadataSha256": "0206c35be6036d71434bc7d88f3d802a70ba0fb756c490bbf615a3cc05e5bc61",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/mei-cai-kou-rou-steamed-pork-with-preserved-mustard/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2017/07/mei-cai-kou-rou-8-copy.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-salt-baked-chicken",
+      "title": "客家盐焗鸡 — Elaine original recipe photograph",
+      "itemIds": [
+        "threeprov-74fe943851dd2fa5c7"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-3",
+      "rawSha256": "725ac55959c97cb3c2e3f1b4a8e6dbabba0a0656a1649bd4f2aec87f46746306",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/7b2de9d3794b4483bc014c612da7b268.response.gz",
+      "metadataSha256": "e3d35bc8b4aad75ee0f359fedd039a079b43fc8b5a5f1cd7f5a005bc156bd129",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/salt-baked-chicken/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2017/09/salt-baked-chicken-18-copy.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-white-cut-chicken",
+      "title": "白切鸡 — Elaine original recipe photograph",
+      "itemIds": [
+        "threeprov-9c9d866b2444f68f34"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-4",
+      "rawSha256": "2ac6269b5f1cafff3f7785894257d6831a456f1a97adfb70ad335dc38f838830",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/5d26933f852b40eeb2fcdf0b807ff902.response.gz",
+      "metadataSha256": "80d221247382e923cc22ddf31d56f727235516f8056c60c38f5e7ada6244ec7f",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/white-cut-chicken/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2015/08/white-cut-chicken-1-scaled.webp",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-ginger-milk",
+      "title": "沙湾姜撞奶 — Elaine original recipe photograph",
+      "itemIds": [
+        "threeprov-af54725a59a71e1d08"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-5",
+      "rawSha256": "2b24c7e5abd0e7fcc5c76226e62980db0a8bc55420a94fc88dec9c7d378cb47c",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/b72ee0b6020848b2a8607ef80153eac5.response.gz",
+      "metadataSha256": "d063753ff3cd7e043c5d2a6469da975c59053b36f68cd4838b9c207eb77d8ba7",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/ginger-milk-pudding/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2017/04/ginger-milk-curd-7-copy.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-roujiamo",
+      "title": "肉夹馍 — Elaine original recipe photograph",
+      "itemIds": [
+        "sg-62ee0a0a264be00a0a"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/recipe-original-6",
+      "rawSha256": "c5b998e4c61d420ce83eb63b3aea82cf46930534befdeaa4b95ae6dfd44147b2",
+      "metadataFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/bf5a32bde5a6441896ba9175b705cd29.response.gz",
+      "metadataSha256": "cd006f554c12c7b140c1aaaaa879c3ae9d567bea06a39703d329334d0342cd59",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2014/10/Rou-Jia-Mo-31.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "beijing-jingjiang-rousi",
+      "title": "京酱肉丝.jpg",
+      "itemIds": [
+        "bj-jingjiang"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/resumed-original-2.jpg",
+      "rawSha256": "e24dbcc875372119e52ecdc3923b54bd218441d954ada85fae511c8a278607b2",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "Дмитрий Журавлев (dejur)",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/7/71/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "datong-dao-xiao-mian",
+      "title": "Datong Fideos.jpg",
+      "itemIds": [
+        "program-83ceb06c8c4b57473b"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/resumed-original-6.jpg",
+      "rawSha256": "749a742ed0e004814c9dda89bce83b6b4ca81d4388a1fffb4d79e65a96427c9e",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "Seba Della y Sole Bossio from Cordoba, Argentina",
+      "source": "https://commons.wikimedia.org/wiki/File:Datong_Fideos.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "nanning-laoyoufen",
+      "title": "Laoyoufen with beef at Wanguo Restaurant, Nanning (20240216205412).jpg",
+      "itemIds": [
+        "threeprov-a6597ace05e39fc299"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/resumed-original-7.jpg",
+      "rawSha256": "6c45b78bd5709592df3c735f9a9921e7efc0c79a8735d327aa336fd75606483e",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_(20240216205412).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

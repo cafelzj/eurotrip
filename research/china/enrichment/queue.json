@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 312,
-    "withListPhoto": 299,
-    "missingRealPhoto": 6315,
-    "needsListPhoto": 6328
+    "withDetailPhoto": 322,
+    "withListPhoto": 309,
+    "missingRealPhoto": 6305,
+    "needsListPhoto": 6318
   },
   "byProvince": {
     "henan": {
@@ -78,8 +78,8 @@
     "shanxi": {
       "cards": 331,
       "shortReadings": 223,
-      "missingRealPhoto": 331,
-      "needsListPhoto": 331
+      "missingRealPhoto": 330,
+      "needsListPhoto": 330
     },
     "shandong": {
       "cards": 501,
@@ -96,8 +96,8 @@
     "beijing": {
       "cards": 76,
       "shortReadings": 62,
-      "missingRealPhoto": 74,
-      "needsListPhoto": 74
+      "missingRealPhoto": 73,
+      "needsListPhoto": 73
     },
     "shanghai": {
       "cards": 52,
@@ -108,20 +108,20 @@
     "guangxi": {
       "cards": 302,
       "shortReadings": 127,
-      "missingRealPhoto": 301,
-      "needsListPhoto": 301
+      "missingRealPhoto": 300,
+      "needsListPhoto": 300
     },
     "guangdong": {
       "cards": 272,
       "shortReadings": 160,
-      "missingRealPhoto": 271,
-      "needsListPhoto": 271
+      "missingRealPhoto": 267,
+      "needsListPhoto": 267
     },
     "shaanxi": {
       "cards": 147,
       "shortReadings": 68,
-      "missingRealPhoto": 146,
-      "needsListPhoto": 146
+      "missingRealPhoto": 145,
+      "needsListPhoto": 145
     },
     "jiangxi": {
       "cards": 222,
@@ -138,8 +138,8 @@
     "sichuan": {
       "cards": 573,
       "shortReadings": 358,
-      "missingRealPhoto": 560,
-      "needsListPhoto": 566
+      "missingRealPhoto": 558,
+      "needsListPhoto": 564
     },
     "guizhou": {
       "cards": 203,
@@ -2051,19 +2051,6 @@
       "name": "绩溪一品锅",
       "province": "anhui",
       "city": "宣城",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 47,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "bj-jingjiang",
-      "name": "京酱肉丝",
-      "province": "beijing",
-      "city": "北京",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 47,
@@ -16373,19 +16360,6 @@
       "priority": 1
     },
     {
-      "itemId": "threeprov-b0741f8e30dcc3ddf9",
-      "name": "梅菜扣肉",
-      "province": "guangdong",
-      "city": "梅州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 61,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "threeprov-c01ab2e91840253840",
       "name": "芋仔焖泥鳅",
       "province": "jiangxi",
@@ -16925,19 +16899,6 @@
       "city": "广州",
       "category": "food",
       "subcategory": "crafts",
-      "readingCharacters": 62,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "threeprov-74fe943851dd2fa5c7",
-      "name": "客家盐焗鸡",
-      "province": "guangdong",
-      "city": "梅州",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 62,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -18752,19 +18713,6 @@
       "priority": 1
     },
     {
-      "itemId": "threeprov-a6597ace05e39fc299",
-      "name": "老友粉",
-      "province": "guangxi",
-      "city": "南宁",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 65,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "threeprov-bf620dbfae7ee0c065",
       "name": "恭城油茶",
       "province": "guangxi",
@@ -20130,19 +20078,6 @@
       "priority": 1
     },
     {
-      "itemId": "threeprov-9c9d866b2444f68f34",
-      "name": "白切鸡",
-      "province": "guangdong",
-      "city": "广州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 67,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "threeprov-a7ae3813e85b976ec9",
       "name": "梧州纸包鸡",
       "province": "guangxi",
@@ -20559,19 +20494,6 @@
       "priority": 1
     },
     {
-      "itemId": "sw-e4625bc6ff85b3d267",
-      "name": "川北凉粉",
-      "province": "sichuan",
-      "city": "南充",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 69,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sw-fe9b6f33e6ce8567da",
       "name": "维西糯山药",
       "province": "yunnan",
@@ -20656,19 +20578,6 @@
       "city": "佛山",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 69,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "threeprov-af54725a59a71e1d08",
-      "name": "沙湾姜撞奶",
-      "province": "guangdong",
-      "city": "广州",
-      "category": "food",
-      "subcategory": "dairy",
       "readingCharacters": 69,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -23215,19 +23124,6 @@
       "name": "菠萝紫米饭",
       "province": "yunnan",
       "city": "西双版纳州",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 74,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sw-f488502bc68c95379a",
-      "name": "钟水饺",
-      "province": "sichuan",
-      "city": "成都",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 74,
@@ -71857,19 +71753,6 @@
       "priority": 1
     },
     {
-      "itemId": "sg-62ee0a0a264be00a0a",
-      "name": "肉夹馍",
-      "province": "shaanxi",
-      "city": "西安",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 376,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": "2026-11-15-national-01",
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sg-d065650101d94d97f0",
       "name": "靖远枸杞",
       "province": "gansu",
@@ -74843,19 +74726,6 @@
       "readingCharacters": 392,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-83ceb06c8c4b57473b",
-      "name": "大同刀削面",
-      "province": "shanxi",
-      "city": "大同",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 392,
-      "readingStatus": "has-300-plus-characters-needs-periodic-review",
-      "readingBatch": "2026-11-15-national-01",
       "imageStatus": "missing-real-photo",
       "priority": 1
     },
@@ -82543,6 +82413,19 @@
       "priority": 3
     },
     {
+      "itemId": "bj-jingjiang",
+      "name": "京酱肉丝",
+      "province": "beijing",
+      "city": "北京",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 47,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-fd4c1613d4",
       "name": "枫镇大面",
       "province": "jiangsu",
@@ -83492,6 +83375,19 @@
       "priority": 3
     },
     {
+      "itemId": "threeprov-b0741f8e30dcc3ddf9",
+      "name": "梅菜扣肉",
+      "province": "guangdong",
+      "city": "梅州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 61,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "zj-hangzhou-xiaolong",
       "name": "杭州小笼包",
       "province": "zhejiang",
@@ -83537,6 +83433,19 @@
       "city": "上海",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 62,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-74fe943851dd2fa5c7",
+      "name": "客家盐焗鸡",
+      "province": "guangdong",
+      "city": "梅州",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 62,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83609,6 +83518,19 @@
       "priority": 3
     },
     {
+      "itemId": "threeprov-a6597ace05e39fc299",
+      "name": "老友粉",
+      "province": "guangxi",
+      "city": "南宁",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 65,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-xiting-cuibing",
       "name": "西亭脆饼",
       "province": "jiangsu",
@@ -83628,6 +83550,19 @@
       "city": "昆明",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 67,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-9c9d866b2444f68f34",
+      "name": "白切鸡",
+      "province": "guangdong",
+      "city": "广州",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 67,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83661,12 +83596,38 @@
       "priority": 3
     },
     {
+      "itemId": "sw-e4625bc6ff85b3d267",
+      "name": "川北凉粉",
+      "province": "sichuan",
+      "city": "南充",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 69,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sw-efcdd041ce66e8dd47",
       "name": "喜洲粑粑",
       "province": "yunnan",
       "city": "大理州",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 69,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "threeprov-af54725a59a71e1d08",
+      "name": "沙湾姜撞奶",
+      "province": "guangdong",
+      "city": "广州",
+      "category": "food",
+      "subcategory": "dairy",
       "readingCharacters": 69,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83862,6 +83823,19 @@
       "city": "丽水",
       "category": "food",
       "subcategory": "crafts",
+      "readingCharacters": 74,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sw-f488502bc68c95379a",
+      "name": "钟水饺",
+      "province": "sichuan",
+      "city": "成都",
+      "category": "food",
+      "subcategory": "staples",
       "readingCharacters": 74,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -85897,6 +85871,19 @@
       "priority": 3
     },
     {
+      "itemId": "sg-62ee0a0a264be00a0a",
+      "name": "肉夹馍",
+      "province": "shaanxi",
+      "city": "西安",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 376,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": "2026-11-15-national-01",
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-hebei-848d9c6f4e",
       "name": "驴肉火烧",
       "province": "hebei",
@@ -86010,6 +85997,19 @@
       "readingCharacters": 388,
       "readingStatus": "has-300-plus-characters-needs-periodic-review",
       "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "name": "大同刀削面",
+      "province": "shanxi",
+      "city": "大同",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 392,
+      "readingStatus": "has-300-plus-characters-needs-periodic-review",
+      "readingBatch": "2026-11-15-national-01",
       "imageStatus": "list-photo-reviewed",
       "priority": 3
     },

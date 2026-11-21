@@ -1,0 +1,48 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YAKULT_PRODUCTS_IN_CHINA_%282%29.jpg",
+      "query": "File:YAKULT PRODUCTS IN CHINA (2).jpg actual original photo; resumed after recorded source waiting period",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E8%8B%8F%E5%B7%9E%E8%9F%B9%E7%B2%89%E9%9D%A2.jpg",
+      "query": "File:苏州蟹粉面.jpg actual original photo; resumed after recorded source waiting period",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "query": "File:京酱肉丝.jpg original photo for visual screening",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG",
+      "query": "File:宣化牛奶葡萄.JPG original photo for visual screening",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg",
+      "query": "File:Single Dezhou braised chicken wrapped in paper (20170115132902).jpg original photo for visual screening",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Xinyang_Maojian.jpg",
+      "query": "File:Xinyang Maojian.jpg original photo for visual screening",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg",
+      "query": "File:Datong Fideos.jpg original photo for visual screening",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg",
+      "query": "File:Laoyoufen with beef at Wanguo Restaurant, Nanning (20240216205412).jpg original photo for visual screening",
+      "itemIds": []
+    }
+  ]
+}

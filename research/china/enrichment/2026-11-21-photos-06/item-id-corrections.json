@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-21",
+  "records": [
+    {
+      "sourcePlan": "research/china/enrichment/2026-11-21-photos-06/regional-category-metadata-pilot-03.json",
+      "incorrectItemIds": [
+        "flavor-shanghai-0c00452d36"
+      ],
+      "correctItemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "reason": "搜索计划记录创建时ID填写错误，已依实际范围清单纠正；若已执行的请求日志保留旧值，按此记录解释，未形成正式图片绑定。"
+    }
+  ]
+}

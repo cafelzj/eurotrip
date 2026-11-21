@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=deepcat%3A%22Cuisine+of+Jiangsu%22+filetype%3Abitmap+%28tea+OR+%E8%98%91%E8%8F%87%29&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "deepcat:\"Cuisine of Jiangsu\" filetype:bitmap (tea OR 蘑菇) targeted food metadata followup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=deepcat%3A%22Cuisine+of+Zhejiang%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "deepcat:\"Cuisine of Zhejiang\" filetype:bitmap targeted food metadata followup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E6%A1%82%E9%A6%99%E7%B3%96%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"桂香糖\" targeted food metadata followup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E9%9B%AA%E8%8F%9C%22+%22%E9%BB%84%E9%B1%BC%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"雪菜\" \"黄鱼\" targeted food metadata followup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"皮肚面\" targeted food metadata followup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E7%81%8C%E5%8D%97%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"灌南\" targeted food metadata followup",
+      "itemIds": []
+    }
+  ]
+}

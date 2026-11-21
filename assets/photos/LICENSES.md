@@ -1582,3 +1582,83 @@ Source: https://commons.wikimedia.org/wiki/File:Qimen_Hao_Ya.jpg
 License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/a5/Qimen_Hao_Ya.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-zhong-dumplings.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/szechuan-dumplings-zhong-dumplings/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2020/09/Szechuan-dumpling-Zhong-Dumplings.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-liangfen.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/liangfen-chinese-jelly-noodles/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2018/06/boba-52.webp
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-meicai-kourou.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/mei-cai-kou-rou-steamed-pork-with-preserved-mustard/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2017/07/mei-cai-kou-rou-8-copy.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-salt-baked-chicken.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/salt-baked-chicken/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2017/09/salt-baked-chicken-18-copy.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-white-cut-chicken.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/white-cut-chicken/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2015/08/white-cut-chicken-1-scaled.webp
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-ginger-milk.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/ginger-milk-pudding/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2017/04/ginger-milk-curd-7-copy.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-roujiamo.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2014/10/Rou-Jia-Mo-31.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-beijing-jingjiang-rousi.jpg
+
+Author: Дмитрий Журавлев (dejur)
+Source: https://commons.wikimedia.org/wiki/File:%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/7/71/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-datong-dao-xiao-mian.jpg
+
+Author: Seba Della y Sole Bossio from Cordoba, Argentina
+Source: https://commons.wikimedia.org/wiki/File:Datong_Fideos.jpg
+License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-nanning-laoyoufen.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_(20240216205412).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

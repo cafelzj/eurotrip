@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.flickr.com/search/?text=steamed+pork+lotus+leaf&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "steamed pork lotus leaf",
+      "itemIds": [
+        "program-9a8cdc8b6698f39550"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%8D%B7%E8%91%89%E7%B2%89%E8%92%B8%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "荷葉粉蒸肉",
+      "itemIds": [
+        "program-9a8cdc8b6698f39550"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%9B%AA%E8%8F%9C+%E9%BB%83%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "雪菜 黃魚",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BF%A1%E7%BF%A0+%E7%87%92%E8%B3%A3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "翡翠 燒賣",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Xuyi+crayfish&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Xuyi crayfish",
+      "itemIds": [
+        "flavor-jiangsu-d98a0ac065"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%9B%B1%E7%9C%99+%E9%BE%99%E8%99%BE&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "盱眙 龙虾",
+      "itemIds": [
+        "flavor-jiangsu-d98a0ac065"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Bright+milk+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Bright milk China",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yiming+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yiming milk",
+      "itemIds": [
+        "zj-yiming"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,54 @@
   "status": "continuously-appended-current-batch",
   "records": [
     {
+      "url": "https://www.yakult-gz.com.cn/contactus/index.aspx",
+      "query": "Official distinction between South China Yiliduo and YangLeDuo brand names, not factory origin proof",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/5d313d6e13b64608907e8e90f666b047.response.gz",
+      "responseSha256": "eebf0a0dc934aee19b713acde08cf4a7e461cbd40894d885dacde9eb9457f602",
+      "compressedSha256": "9e7770b33b9be53fabfd43b59ccb9fe5c4fd487a47c127e24fec468790e45c8f",
+      "journal": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AYAKULT+PRODUCTS+IN+CHINA.jpg%7CFile%3AYakult+LT+Hong+Kong.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Previously observed category files: check actual low-sugar brand packaging before adoption",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/23debbaba2654486a087309a1e0aa7b7.response.gz",
+      "responseSha256": "89f32827f34337c4a5475b8c6b1931d438741e07aa064f9ccd57a700e3264b1f",
+      "compressedSha256": "789d530fce3f9876fafa9c373ccd5502cb53d504e68de204c60824d96e031ec8",
+      "journal": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG",
+      "query": "Read actual author public-domain release for exact Xuanhua milk grape photograph",
+      "itemIds": [
+        "program-40c71ebeb7a42f3c93"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/7cabaf84e84a4786b9f187d86bab819a.response.gz",
+      "responseSha256": "b2a9cbf6f0de32aa86f1ec13a14b9908bbebf32d09434e83dc4b3c93dede3fda",
+      "compressedSha256": "9fe2736a3d399c3981827b2bf35a994e9d43f61796d1bc1b036860e259fbd4a6",
+      "journal": "research/.local/china-photos-20261121-06/brand-and-permission-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://nyu.manifoldapp.org/read/the-recipes/section/47b43c19-eb88-470d-af43-3f3f85290a60",
+      "query": "Read preserved-vegetable pork actual home recipe, photo and reuse statement",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/community-recipe-source-pilot-04/389366b23637409983c982b638e79c58.response.gz",
+      "responseSha256": "0f298cdae18dd2e5b601d551feae310c0e1478098715926196251c777de50eeb",
+      "compressedSha256": "3673b708c2e04e3c78c91a474dcd4c89088b6e443514e4e4465760f3102cee40",
+      "journal": "research/.local/china-photos-20261121-06/community-recipe-source-pilot-04/requests.jsonl"
+    },
+    {
       "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3AGaizai+crackers.jpg%7CFile%3ALitchi+Pork.jpg%7CFile%3AQuanzhou-style+Kiu%E2%81%BF-b%C3%B3-ah+%28Ginger+Duck%29+at+Yipin+Xiangqing+Restaurant%2C+Beijing+%2820240908174515%29.jpg%7CFile%3A%E7%94%9C%E6%B2%AB+202509.jpg%7CFile%3AMianwo.JPG%7CFile%3AMaofeng+%28medium+grade%2C+spring+2007%29.jpg%7CFile%3AKeemun+FTGFOP+%281%29.JPG%7CFile%3AQimen+Hao+Ya.jpg%7CFile%3APigCake.jpg%7CFile%3ATaigubing.JPG%7CFile%3A%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg%7CFile%3A%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG%7CFile%3AHofanUpClose.jpg%7CFile%3ASingle+Dezhou+braised+chicken+wrapped+in+paper+%2820170115132902%29.jpg%7CFile%3AXinyang+Maojian.jpg%7CFile%3ADatong+Fideos.jpg%7CFile%3ALaoyoufen+with+beef+at+Wanguo+Restaurant%2C+Nanning+%2820240216205412%29.jpg",
       "query": "Existing saved exact-name national food photo leads: read full actual file metadata, no automatic adoption",
       "itemIds": [
@@ -192,6 +240,590 @@
       "status": "not-started-source-paused",
       "reason": "HTTP429: stop this source; retain Retry-After and change source.",
       "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=steamed+pork+lotus+leaf&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "steamed pork lotus leaf",
+      "itemIds": [
+        "program-9a8cdc8b6698f39550"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/a5b156a91f9e45059580ad4f7a878c69.response.gz",
+      "responseSha256": "730fd154e2103a11561cefd9799fdfbb6ca75c5ca13cdd57cd964ea67f5cca25",
+      "compressedSha256": "4c11c8c7edf5e69f78353b87b1c41d222be669af4095a5c366aad58dcc7dfcb3",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%8D%B7%E8%91%89%E7%B2%89%E8%92%B8%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "荷葉粉蒸肉",
+      "itemIds": [
+        "program-9a8cdc8b6698f39550"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/01d5f7bf97d148afbe5e6b31ba95b0ae.response.gz",
+      "responseSha256": "df103bd88ddf02333ad0f76adda90048d4a495719e4f8ac8b27a7bd66c4680c6",
+      "compressedSha256": "c9385447bd3fe4cc72fcd20b8b95575c2f42c630574ef56eacbf13d3a45d47d2",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%9B%AA%E8%8F%9C+%E9%BB%83%E9%AD%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "雪菜 黃魚",
+      "itemIds": [
+        "zj-yellow-croaker"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/661bd78d80b54b6ca379f545d8e0425b.response.gz",
+      "responseSha256": "61d2e70ba21d97718156de02f9121d595e99154cf58402d460b3ac6f608bfa56",
+      "compressedSha256": "771b499f310797f76545d65aa77a7cfc0a89b0ccd72c7ff29b56e493ca851f04",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BF%A1%E7%BF%A0+%E7%87%92%E8%B3%A3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "翡翠 燒賣",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/691736dee0034d52b480de2ddaa91bb3.response.gz",
+      "responseSha256": "47020289c8bea9a0bd0308db80c82de56dd382b9245df17ee0c1db67a73888ff",
+      "compressedSha256": "56e01b40bfa12e2057afe0ef6a9e327859a4c0bb573ffb8e5aca32f3fd19b2b1",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Xuyi+crayfish&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Xuyi crayfish",
+      "itemIds": [
+        "flavor-jiangsu-d98a0ac065"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/62c6a8b4566647a185c3f7ee18f7b99d.response.gz",
+      "responseSha256": "36d790796cf5c5f3f0aefd566e52656b210ff77d159edee5cd01251fa5542e5e",
+      "compressedSha256": "a73aa15fac80d9ba4f23b04be411e76e5cff2b8c59b5c0ed6e97b3ef8055111b",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%9B%B1%E7%9C%99+%E9%BE%99%E8%99%BE&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "盱眙 龙虾",
+      "itemIds": [
+        "flavor-jiangsu-d98a0ac065"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/82435e4e84a040648a9fd6b42b86be06.response.gz",
+      "responseSha256": "b0eb4229c4fb1881de61e7f510142f394a9571848803cee1d0cf9de30460e15f",
+      "compressedSha256": "6722a045d569656e37b2d9509228d3e9c343b470f986f718216e24e139c4e127",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Bright+milk+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Bright milk China",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/02acb65d371d4f0189a13376e2e6f613.response.gz",
+      "responseSha256": "39ede0a7b4b17fe7923ccaa6c96f20c364aca5fa17957de2efa8d100f53b07cb",
+      "compressedSha256": "99c525b38a10f8cfccb541828a9db7f893f927476e9e3068f8ae074913c94a31",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yiming+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yiming milk",
+      "itemIds": [
+        "zj-yiming"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/ab814a81907646b8a3c112360e7f6b99.response.gz",
+      "responseSha256": "3a6cb959860dc5e52227572391ac2fe58954d6b6f0f6e183a6500170ee6316a3",
+      "compressedSha256": "e4943ae14fd877668255b12f2bbaaf2dd2db2c04783db498a999fe9ced14fb5c",
+      "journal": "research/.local/china-photos-20261121-06/flickr-jzy-alias-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/szechuan-dumplings-zhong-dumplings/",
+      "query": "钟水饺 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sw-f488502bc68c95379a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/4967021c49a848078d92823c824e151b.response.gz",
+      "responseSha256": "09a5c1275d7a7804d1fbfb4af23065a2190c6604baa21bc35f81f91d3a5bd520",
+      "compressedSha256": "ab716ba5b9acf7cdf312c2f102056727ccef1f45d810b021810dec1879de04a8",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/liangfen-chinese-jelly-noodles/",
+      "query": "川北凉粉 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sw-e4625bc6ff85b3d267"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/e5af4c686b824e0889658b8d7cd6cbd2.response.gz",
+      "responseSha256": "ced7d7ed5a3107f8c2bc4cc70266a43b595ed9a9e8f70626865c3bda2a7dc643",
+      "compressedSha256": "36f8296e01210a3a9c52b643913b4ecaf175ed98a0874b62e296a119621c56e0",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/mei-cai-kou-rou-steamed-pork-with-preserved-mustard/",
+      "query": "梅菜扣肉 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-b0741f8e30dcc3ddf9"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/ef2208d1a0664179bd89fa1356ccd508.response.gz",
+      "responseSha256": "37c8bfc64242393ae4329f8f870f79441cad1cabee4c817e3fb7b1917ce2d06f",
+      "compressedSha256": "0206c35be6036d71434bc7d88f3d802a70ba0fb756c490bbf615a3cc05e5bc61",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/salt-baked-chicken/",
+      "query": "客家盐焗鸡 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-74fe943851dd2fa5c7"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/7b2de9d3794b4483bc014c612da7b268.response.gz",
+      "responseSha256": "da6e91a2bac452aa5a68283247ba57da4d9c5b881a82fc6e443421535c94454e",
+      "compressedSha256": "e3d35bc8b4aad75ee0f359fedd039a079b43fc8b5a5f1cd7f5a005bc156bd129",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/white-cut-chicken/",
+      "query": "白切鸡 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-9c9d866b2444f68f34"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/5d26933f852b40eeb2fcdf0b807ff902.response.gz",
+      "responseSha256": "90e22adc52d044a61026117495fa345e145097da363883768e69f52ca1b77e24",
+      "compressedSha256": "80d221247382e923cc22ddf31d56f727235516f8056c60c38f5e7ada6244ec7f",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/ginger-milk-pudding/",
+      "query": "沙湾姜撞奶 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-af54725a59a71e1d08"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/b72ee0b6020848b2a8607ef80153eac5.response.gz",
+      "responseSha256": "d872a664f520f264267e0ff2aa7dba026deb7ca75e22c5112763711d8a4d1a16",
+      "compressedSha256": "d063753ff3cd7e043c5d2a6469da975c59053b36f68cd4838b9c207eb77d8ba7",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/",
+      "query": "肉夹馍 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sg-62ee0a0a264be00a0a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/bf5a32bde5a6441896ba9175b705cd29.response.gz",
+      "responseSha256": "88ef52eb47db14fd19e884e9b6fddc4e2abcbd96dad921f08aa81d683f6833ef",
+      "compressedSha256": "cd006f554c12c7b140c1aaaaa879c3ae9d567bea06a39703d329334d0342cd59",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3A%F0%AC%B2%B1&gcmtype=file&gcmlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Known Jiangsu regional snack category full subject metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/b8cf5de0c61f4200bf328dcddecdc4cb.response.gz",
+      "responseSha256": "fb6bfc6c32ae5bd4f082605b856279bb37921099c9e5610d21309c280779de52",
+      "compressedSha256": "42ea66ec7bc833d27831365ff24963f3fb6d33e0b6d837b7acb339ad1a9570b6",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3A%F0%AE%A8%BB&gcmtype=file&gcmlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Known Jiangsu regional snack category full subject metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/ce0ffc2191f244189adf6e997c8a7d53.response.gz",
+      "responseSha256": "ea85512f1d6d299500bfb314a95e49dcf1cf2c9fcbb49982ca21fbe763ae737c",
+      "compressedSha256": "11b7a2bcdd7316cbc6222ec989538b54fe729f138f42d41d1cad759153e5c1ac",
+      "journal": "research/.local/china-photos-20261121-06/recipe-and-regional-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2020/09/Szechuan-dumpling-Zhong-Dumplings.jpg",
+      "query": "钟水饺 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "sw-f488502bc68c95379a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/06036b4a57ed4383abd2c0d22f1079a9.response.gz",
+      "responseSha256": "70b90ee095758336b3ee5b3f7cda198f8876ca5b0251ac3924317a22b32a0df7",
+      "compressedSha256": "69603158a4dbec6f084feb710149931e323db54a081780ad90a32d742ac2e765",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2018/06/boba-52.webp",
+      "query": "川北凉粉 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "sw-e4625bc6ff85b3d267"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/c7d70d7877da4692bf22df60d7120d49.response.gz",
+      "responseSha256": "6dcd3ba54ce988f8bfc216763ee575d5d33b0941fdffa9fb759548cb5f42c561",
+      "compressedSha256": "2b61ec4a3c1ce0327a882d631fe2abde52e505f636f936995ba22a2d07ae9e24",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2017/07/mei-cai-kou-rou-8-copy.jpg",
+      "query": "梅菜扣肉 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "threeprov-b0741f8e30dcc3ddf9"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/d1f483f795954d4aad8fb6adc8b05c53.response.gz",
+      "responseSha256": "a2ddbfe5c6461a89390b286bb84ba988d38ccfefd60699b1f1a14d6c0f21ddd6",
+      "compressedSha256": "b97a10b063a93eabcd73789e936f4c2a3d595064bf50067b248aa54995c665ce",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2017/09/salt-baked-chicken-18-copy.jpg",
+      "query": "客家盐焗鸡 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "threeprov-74fe943851dd2fa5c7"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/5ee94c3032b943d8a0155b22c72b71bf.response.gz",
+      "responseSha256": "725ac55959c97cb3c2e3f1b4a8e6dbabba0a0656a1649bd4f2aec87f46746306",
+      "compressedSha256": "adbed8d7a01c7df2393fba7fb3bb26dffec3e2c84419f91446cbd1b38f665fdf",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2015/08/white-cut-chicken-1-scaled.webp",
+      "query": "白切鸡 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "threeprov-9c9d866b2444f68f34"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/20872c9bd43549d694d990d1499e5cd3.response.gz",
+      "responseSha256": "2ac6269b5f1cafff3f7785894257d6831a456f1a97adfb70ad335dc38f838830",
+      "compressedSha256": "5b7e3cdd61cbeb322276d95c93e2241aafe6749324866804c7ca95dc4fb6f242",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2017/04/ginger-milk-curd-7-copy.jpg",
+      "query": "沙湾姜撞奶 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "threeprov-af54725a59a71e1d08"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/4176cd170b9f4ff2a41e5fdc03fd5780.response.gz",
+      "responseSha256": "2b24c7e5abd0e7fcc5c76226e62980db0a8bc55420a94fc88dec9c7d378cb47c",
+      "compressedSha256": "109b0319f285c39bf535801ab4c43648d4439409618d300a814f5bedb9304830",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2014/10/Rou-Jia-Mo-31.jpg",
+      "query": "肉夹馍 actual original recipe and finished photo; inspect variant before adoption full hero photo for visual review",
+      "itemIds": [
+        "sg-62ee0a0a264be00a0a"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/recipe-photo-download-08/944acc18334c4a1e9e39a9212a72885d.response.gz",
+      "responseSha256": "c5b998e4c61d420ce83eb63b3aea82cf46930534befdeaa4b95ae6dfd44147b2",
+      "compressedSha256": "ebbd4c98274b7b501d2f4c54f47cda696d02e2561833347637dd97e1f0b7a49e",
+      "journal": "research/.local/china-photos-20261121-06/recipe-photo-download-08/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Jiangsu&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Cuisine of Jiangsu known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/149f50b6f68f4d87a49728a82f6b5303.response.gz",
+      "responseSha256": "7308b93866ab2fe068115731acddf0dc5bf0afe7b3e606825254e1fe1bdf1573",
+      "compressedSha256": "e27be3745a7ef99033ca3936f3dfa5eb66467ca7ab6385669d95d199e25d9ec3",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AZhejiang+cuisine&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Zhejiang cuisine known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/52b5e20b48d24acca82900bbe7e65ca9.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Changzhou&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Cuisine of Changzhou known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/6cdaf5499a314366bc4b051ecb17c848.response.gz",
+      "responseSha256": "2c14684276caebfe6da2723b9bdc2b56cce59abd962d382fa0fadb2b64ddbab9",
+      "compressedSha256": "389b029dcd1634d75858013285c5b1ef0dc1254a842b68ec14b8614e2f452b48",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Wuxi&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Cuisine of Wuxi known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/70ea6b4196a84724b81b2b2f8884d3e2.response.gz",
+      "responseSha256": "1bf0057c3b968ec63919d26edea3cc24526b45cf823ba030b0be66a83c0edbd4",
+      "compressedSha256": "baa61c4c231d1d886bcf09d076e8a44061f05abd9b05c8040ee4272884ede21d",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Zhenjiang&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Cuisine of Zhenjiang known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/61064b6baa19421dbcfa08c49d54c365.response.gz",
+      "responseSha256": "e8d760713d1998e8e3460ac12967404c20b69167ad2cadfbb0d02097281095e1",
+      "compressedSha256": "f07124204c7139efd8326c154679691d33dd05e16a3aeb3cbb8bc12d7b21ad43",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ANoodle+dishes+of+Zhejiang&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Category:Noodle dishes of Zhejiang known regional cuisine originals metadata; no auto adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/285476b4c9a942ec820858f6a2aac6fa.response.gz",
+      "responseSha256": "c54e20b783d11880739e66a9660b37f193186afc073748f5a038a8d96138b727",
+      "compressedSha256": "82c06ead4206dbee6531bac92b3b50c7143da7d25c996d6223e31e032611bbe2",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E8%8B%8F%E5%B7%9E%E8%9F%B9%E7%B2%89%E9%9D%A2.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Known named Suzhou crab roe noodle actual subject and licence",
+      "itemIds": [
+        "flavor-shanghai-0c00452d36"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/70576fee7e6346a6a1ed2e7a2093ff6a.response.gz",
+      "responseSha256": "e3160592882cc9006fadef639cf1cdeba9763d1fe6bf2666b9856dbf4fe128f8",
+      "compressedSha256": "54e08ff3ecde7614d523ad25e6d9fff6666ce36d7dab58c36a630165fc0260c9",
+      "journal": "research/.local/china-photos-20261121-06/regional-category-metadata-pilot-03/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=deepcat%3A%22Cuisine+of+Jiangsu%22+filetype%3Abitmap+%28tea+OR+%E8%98%91%E8%8F%87%29&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "deepcat:\"Cuisine of Jiangsu\" filetype:bitmap (tea OR 蘑菇) targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/1ab92112b40a4bf786b50a2f3a7b9180.response.gz",
+      "responseSha256": "7ce2900d07ef09494ea8cb53f746375a510c91d312a79154e1f180f4f20c42a0",
+      "compressedSha256": "db25ea7ddf4475836db3b9470d4f12be138997bbd78d8716fd1e5f0fb8810b59",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=deepcat%3A%22Cuisine+of+Zhejiang%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "deepcat:\"Cuisine of Zhejiang\" filetype:bitmap targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/1ee1e8787f14463a8fc2b9ea921a370f.response.gz",
+      "responseSha256": "173033d68cecf3067979ec1f3159d20559176f4e927defbabbbd29bc31274053",
+      "compressedSha256": "4c196f37f83ac17624c9f6cf4908a8fda14dacb02edea16df5aa6f7bd8c59efa",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E6%A1%82%E9%A6%99%E7%B3%96%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"桂香糖\" targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/3c7754140d71411dab8d1382ac244d5c.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E9%9B%AA%E8%8F%9C%22+%22%E9%BB%84%E9%B1%BC%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"雪菜\" \"黄鱼\" targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/d2a4f93525ac4c9da39b85b09f7e3a55.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"皮肚面\" targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/784109615ebe47bc9a98d0b0b60f8f46.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=filetype%3Abitmap+%22%E7%81%8C%E5%8D%97%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "filetype:bitmap \"灌南\" targeted food metadata followup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/8a88c35c85fb4891bbc237f0b7d7b7b4.response.gz",
+      "responseSha256": "21ba5c56f31c21283d40337ea634aa17ade614cfe0e016d3228852aa5b61b738",
+      "compressedSha256": "38a1a750a129456c26c9e966293bae47cf948896a2c064542a6910ae66c1f815",
+      "journal": "research/.local/china-photos-20261121-06/regional-food-subject-followup-05/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%AE%81%E6%B3%A2+%E9%A3%9F%E7%89%A9&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "宁波 食物 actual Commons source index metadata pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/4d203d93389b405ebdff9dec2db0c946.response.gz",
+      "responseSha256": "09236a753d608949282cfa58fad4953f780f72de82cc61f8c920c6f864ecd422",
+      "compressedSha256": "885d946d85fe6012d8a687ee32a6f5b3d88740b5ba7a94d6068b4678a94f521d",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E5%AE%89%E5%90%89+%E7%99%BD%E8%8C%B6&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "安吉 白茶 actual Commons source index metadata pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/07da61055dab4b2fa99e18091ab54b42.response.gz",
+      "responseSha256": "f3329d2fe373785f997bb03cab847dc4bf956ef73176e63341d39f961edb0c91",
+      "compressedSha256": "c26154cacb6fb0ee17d7298272d891b88635c80286c9e2c7799eebd2bba1a2c9",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E4%B8%8A%E6%B5%B7+%E7%89%9B%E5%A5%B6&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "上海 牛奶 actual Commons source index metadata pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/702f7880d7124576b0636c352093ca74.response.gz",
+      "responseSha256": "348a137a4a4e441ccf6cea58c5919230945aab4bae2292e6adcf4889b70fea2a",
+      "compressedSha256": "4e28224c5a4e00c7f63633bf4a5fa5d851ebe286a080139e43238adddaf27fa5",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%E6%B1%9F%E8%8B%8F+%E7%BE%8E%E9%A3%9F&gsrnamespace=6&gsrlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "江苏 美食 actual Commons source index metadata pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/c52619534e024c0e8d5fb3a9c731529e.response.gz",
+      "responseSha256": "4368aa8e2588d89b7958a44f5846e3a738e2d92d537460e2f4fe05f7f093b8a0",
+      "compressedSha256": "231d1af053c03e33ccfc8147d34336d1daf6e8d3105a62df2b311cb622d2e38c",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AYAKULT+PRODUCTS+IN+CHINA+%282%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Named exact dairy brand product file metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/58e6c799f218478f864426cc5df2e05f.response.gz",
+      "responseSha256": "98b1ad75ec7b683bb82526bccbabfd31e58da7e336651689a5204182770ad50d",
+      "compressedSha256": "dd7ccb38f2024e4a1b79c83414b6db9bf992e510c2f295baa59d47ed32862ef8",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E6%98%8E%E6%B2%BB%E7%89%9B%E4%B9%B3+20250302+143613.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Named exact dairy brand product file metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/293da382a58b42be8c2097524c5ed4b2.response.gz",
+      "responseSha256": "8124da66ee3fd393c7da981e62d86fbab70a33fe23cc041bbc77a9c664251265",
+      "compressedSha256": "9be4e2c43bd8c81eb692c6dcfc158661058acdfdae3a64688580fbbf475ff838",
+      "journal": "research/.local/china-photos-20261121-06/regional-metadata-source-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/YAKULT_PRODUCTS_IN_CHINA_%282%29.jpg",
+      "query": "File:YAKULT PRODUCTS IN CHINA (2).jpg actual original photo; resumed after recorded source waiting period",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/08b8835d9f0d493c8ddba724a27d52be.response.gz",
+      "responseSha256": "edac9418096abe5a4bc950d4c1894a3e5f0b0fedfa04a7fd862ba5dc78375e23",
+      "compressedSha256": "b91b846f3e680877ec45541959795f3793a77c31ea74fbf2e72459614514d3e1",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E8%8B%8F%E5%B7%9E%E8%9F%B9%E7%B2%89%E9%9D%A2.jpg",
+      "query": "File:苏州蟹粉面.jpg actual original photo; resumed after recorded source waiting period",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/97dc742a16ac4ec8a7b61d2edd2f97b7.response.gz",
+      "responseSha256": "dd53766ea594305968a3fb2f1fd1b6b7aa5da2c8df0d2e80de2b24944e62d076",
+      "compressedSha256": "18eb8d3cfce9693bc9824ef37cba800a1753492e0c655286b56d9c7f0009f870",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "query": "File:京酱肉丝.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/dca32936c75b45fa81639fec4d611bbf.response.gz",
+      "responseSha256": "e24dbcc875372119e52ecdc3923b54bd218441d954ada85fae511c8a278607b2",
+      "compressedSha256": "8b4064cf52faa516581958e488b29007117716e7802c8e846ddc0b79d4a69c76",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG",
+      "query": "File:宣化牛奶葡萄.JPG original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/d3390bbeb038476ab5a9b13136997189.response.gz",
+      "responseSha256": "c99bda2021d771ad8522e04910def58ee024b9f1be63b6bd97077f9abaef1407",
+      "compressedSha256": "a2f084dbd231a508e59bd2bcbf2affc0a1ae1dc9c67fb066c80235080921da85",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg",
+      "query": "File:Single Dezhou braised chicken wrapped in paper (20170115132902).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/f0b879b0257e40779938d40922c14e81.response.gz",
+      "responseSha256": "1aa4a2828c440b4897af461599637744e89726f16389a2d5a5838a7bc3d6924e",
+      "compressedSha256": "a9f9a7a4aa9c388490874cbb69d5f79fafcefbe122e2a2dac33b777feec855ce",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Xinyang_Maojian.jpg",
+      "query": "File:Xinyang Maojian.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/c9df003d678f41caa39670fa1454332a.response.gz",
+      "responseSha256": "011cc458da4bf1c85c0543d38e9b8259edfce78aa25a102c6e04dba577118479",
+      "compressedSha256": "e0d0ae8adfc556fbc13e1349b5fee85b1caa796fc1eb7d0747943a5341a9980b",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg",
+      "query": "File:Datong Fideos.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/00e5280f30fd470cb27607354814d3f7.response.gz",
+      "responseSha256": "749a742ed0e004814c9dda89bce83b6b4ca81d4388a1fffb4d79e65a96427c9e",
+      "compressedSha256": "274f43d0a7430155a441f8568425e9ae35e91bfba99b856ccb490927805279f3",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg",
+      "query": "File:Laoyoufen with beef at Wanguo Restaurant, Nanning (20240216205412).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/ff3089539fc64168af0acc691780c86b.response.gz",
+      "responseSha256": "6c45b78bd5709592df3c735f9a9921e7efc0c79a8735d327aa336fd75606483e",
+      "compressedSha256": "88271b28a4b22d11847bf4cf4b2aadea4eab300f6e1cf88749dcf84e5aa2a2b8",
+      "journal": "research/.local/china-photos-20261121-06/reviewed-source-download-resume-07/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/YAKULT_PRODUCTS_IN_CHINA.jpg",
+      "query": "File:YAKULT PRODUCTS IN CHINA.jpg inspect exact ordinary vs low sugar product label",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/yakult-low-sugar-photo-pilot-10/63e0cd6de0db495ca3f6de7dd9d8ce45.response.gz",
+      "responseSha256": "ec79704c602993b1dd867efcddb5b690e895221954b87fc34335392314fa6694",
+      "compressedSha256": "59a93fe6ce0dbcf10c12e1156950fa84d3b693424e2dbb8b4699f0d9e7112082",
+      "journal": "research/.local/china-photos-20261121-06/yakult-low-sugar-photo-pilot-10/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Yakult_LT_Hong_Kong.JPG",
+      "query": "File:Yakult LT Hong Kong.JPG inspect exact ordinary vs low sugar product label",
+      "itemIds": [
+        "county-3ca3ad30befffe"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/yakult-low-sugar-photo-pilot-10/eeea009c028f4d73ad0542db62a4184a.response.gz",
+      "responseSha256": "759db333e3d1c1ac88bd34ca1dd5ef9dd305ee851bbb20d7e90ea9185bddb09f",
+      "compressedSha256": "26df764f8a0c8ea2addc429db687c30321521816b91267378fcd877a9b9a8981",
+      "journal": "research/.local/china-photos-20261121-06/yakult-low-sugar-photo-pilot-10/requests.jsonl"
     }
   ]
 }

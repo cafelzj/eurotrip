@@ -1,0 +1,63 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/szechuan-dumplings-zhong-dumplings/",
+      "query": "钟水饺 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sw-f488502bc68c95379a"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/liangfen-chinese-jelly-noodles/",
+      "query": "川北凉粉 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sw-e4625bc6ff85b3d267"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/mei-cai-kou-rou-steamed-pork-with-preserved-mustard/",
+      "query": "梅菜扣肉 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-b0741f8e30dcc3ddf9"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/salt-baked-chicken/",
+      "query": "客家盐焗鸡 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-74fe943851dd2fa5c7"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/white-cut-chicken/",
+      "query": "白切鸡 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-9c9d866b2444f68f34"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/ginger-milk-pudding/",
+      "query": "沙湾姜撞奶 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "threeprov-af54725a59a71e1d08"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-hamburger-pork-belly-buns/",
+      "query": "肉夹馍 actual original recipe and finished photo; inspect variant before adoption",
+      "itemIds": [
+        "sg-62ee0a0a264be00a0a"
+      ]
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3A%F0%AC%B2%B1&gcmtype=file&gcmlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Known Jiangsu regional snack category full subject metadata",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3A%F0%AE%A8%BB&gcmtype=file&gcmlimit=20&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Known Jiangsu regional snack category full subject metadata",
+      "itemIds": []
+    }
+  ]
+}
