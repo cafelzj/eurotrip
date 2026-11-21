@@ -177,6 +177,51 @@
       "reason": "复核第三批已保存的苗家坡炒肝照片及完整作者许可元数据，菜名明确，肠段、肝片、蒜粒与稠芡清楚，白碗成品占主要画面。相比同批溢出碗沿的照片构图更整洁，不把包子列作炒肝原料。使用此前留存的Wikimedia 960px全幅公开缩图，不放大，不冒称已重新下载完整原分辨率文件；不引用旧价签作现价。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-henan-ab18e15123",
+      "itemName": "小笼灌汤包",
+      "candidateId": "kaifeng-soup-buns",
+      "caption": "开封小笼灌汤包成品实拍。",
+      "reason": "原作者与原页明确开封汤包，完整笼中主包褶纹、饱满包身和竹笼清楚，前景主体合焦，后景自然浅景深；未把其他地区汤包替代开封版本。复用第三批留存的960px全幅公开缩图及完整许可元数据，不放大，不宣称已重新下载完整原分辨率文件。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-bdcfc2c3777003",
+      "itemName": "永州血鸭",
+      "candidateId": "yongzhou-blood-duck",
+      "caption": "永州血鸭实拍，摄于北京永州会馆，2024年。",
+      "reason": "作者直接标为北京永州会馆的永州血鸭，说明收尾加入鸭血；盘中鸭块、姜椒和稠汁清楚，白盘主体完整。明确异地餐馆实拍，不冒称永州门店或当地唯一配方，不引用旧价格作现价。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-f551974f43df23",
+      "itemName": "浏阳蒸菜",
+      "candidateId": "liuyang-steamed-dishes",
+      "caption": "浏阳蒸菜实拍，以小碗配竹笼蒸制。",
+      "reason": "原作者明确浏阳蒸菜，餐具亦有蒸菜店标识；多只小碗蒸菜本身就是这张菜系集合卡的对象，可见茄子、剁椒与蒸蛋等形态，不把一锅杂菜假称某道指定肉菜。原件600×407，保持原分辨率不放大。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "bj-furong",
+      "itemName": "芙蓉鸡片",
+      "candidateId": "cuihualou-furong-chicken-slices",
+      "caption": "芙蓉鸡片实拍，摄于北京崔华楼，2022年。",
+      "reason": "原作者标明芙蓉鸡片与北京东直门崔华楼，并说明蛋白鸡蓉成片配豌豆苗；照片呈现洁白鸡片、清汁与绿色配菜，主体清楚，不将其当蛋花汤或豆腐。不引用历史套餐价格作当前价格。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-hubei-a5b44b8c59",
+      "itemName": "鄂州武昌鱼",
+      "candidateId": "steamed-wuchang-bream",
+      "caption": "清蒸武昌鱼成品实拍示例；不作鄂州养殖地或认证证明。",
+      "reason": "作者原题与描述明确清蒸武昌鱼，鱼体、姜葱和蒸制成品清楚，保留完整菜盘。用于食用呈现实拍，不将照片当作鱼的具体养殖水域、鄂州地理标志认证或来源批次证明，图注保留这一限制。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -207,6 +252,14 @@
     {
       "candidate": "old03-chaogan-and-satang-revisit",
       "reason": "炒肝选择主体最清楚的苗家坡白碗图，不用溢出碗沿的版本；连锁店糁汤照片塑料碗灰暗、具体地方版本也未证明，未用于徐州啥汤或临沂糁。"
+    },
+    {
+      "candidate": "old03-kaifeng-and-elbow-revisit",
+      "reason": "开封第一楼另一图失焦且偏黄，不选；东坡肘子图已吃剩、筷子伸入及骨头为主体，未采用。"
+    },
+    {
+      "candidate": "national-category-originals-57",
+      "reason": "臭豆腐低分辨率失焦偏黄；三下锅餐桌昏暗、米饭及灶具干扰；淄博风格卷饼实拍背景烤炉与桌面杂物较多；糊汤粉画面灰暗、塑料袋杂景，先不采用这些封面。"
     }
   ]
 }

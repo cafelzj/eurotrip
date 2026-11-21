@@ -365,6 +365,91 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "kaifeng-soup-buns",
+      "title": "Steamed soup buns of Kaifeng.jpg",
+      "itemIds": [
+        "flavor-henan-ab18e15123"
+      ],
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-ea4f27050afd5952.jpg",
+      "rawSha256": "46ae3d79a59202488dd2548cc6960c18ddaaaf85e994ab4a3e7dbab24285a993",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/2288e02ab4829029b71a.json",
+      "metadataSha256": "339c7f04c41802afeb03ad7c6546cae6ae04c3aa9550c8f06f8cf16e0d878784",
+      "author": "Windmemories",
+      "source": "https://commons.wikimedia.org/wiki/File:Steamed_soup_buns_of_Kaifeng.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Steamed_soup_buns_of_Kaifeng.jpg/960px-Steamed_soup_buns_of_Kaifeng.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "yongzhou-blood-duck",
+      "title": "Yongzhou Xueya at Beijing Yongzhou Guild Hall (20240204130200).jpg",
+      "itemIds": [
+        "county-bdcfc2c3777003"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national57-original-2",
+      "rawSha256": "117ea2fd142da2c3a79e84e885d6f1718ab33d8d82b599d47680917eefc20be5",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/5859e17e111b4d3ba27471d47dea5fff.response.gz",
+      "metadataSha256": "75af6af6f9beb51c0860dd71da8ac963a65259dbe7487204a047c3fb33967a0f",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Yongzhou_Xueya_at_Beijing_Yongzhou_Guild_Hall_(20240204130200).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/6/65/Yongzhou_Xueya_at_Beijing_Yongzhou_Guild_Hall_%2820240204130200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "liuyang-steamed-dishes",
+      "title": "浏阳蒸菜.jpg",
+      "itemIds": [
+        "county-f551974f43df23"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national57-original-3",
+      "rawSha256": "dd2fc7a00b95be1daba96eb8ad1d6d5a0261aaf271367f3cbb5dfa0f44780754",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/5859e17e111b4d3ba27471d47dea5fff.response.gz",
+      "metadataSha256": "75af6af6f9beb51c0860dd71da8ac963a65259dbe7487204a047c3fb33967a0f",
+      "author": "Yinsanhen",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%8F%E9%98%B3%E8%92%B8%E8%8F%9C.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E6%B5%8F%E9%98%B3%E8%92%B8%E8%8F%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "cuihualou-furong-chicken-slices",
+      "title": "Furong Jipian at Cui Hua Lou, Dongzhimen (20220718124704).jpg",
+      "itemIds": [
+        "bj-furong"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national57-original-4",
+      "rawSha256": "ffa174373c8f5bbb4fbd2652ddf2b816c7e277f6a869c1c4f316465eb4a26d65",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/361f055e7a4c4d57bcb603c927894725.response.gz",
+      "metadataSha256": "099950911678166164d6a434ffcf2bc18d5f4ee8401d69856893eeeaf3f44c7b",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Furong_Jipian_at_Cui_Hua_Lou,_Dongzhimen_(20220718124704).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/6/65/Furong_Jipian_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718124704%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "steamed-wuchang-bream",
+      "title": "Steamed Wuchang Bream.jpg",
+      "itemIds": [
+        "flavor-hubei-a5b44b8c59"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national57-original-7",
+      "rawSha256": "d86da308e862934edbcc153e7fadc990d9ece549b233f391a18c3ff79c27d0ac",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/6af40afcb3be4c588032d9a378ccd71b.response.gz",
+      "metadataSha256": "f75c42b2f996906114447fddb3ac7239ba1765ff3e252b8b79ffaed77677aa0a",
+      "author": "ZhengZhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Steamed_Wuchang_Bream.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/58/Steamed_Wuchang_Bream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

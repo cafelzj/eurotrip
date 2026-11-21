@@ -2102,3 +2102,43 @@ Source: https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg/960px-Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-kaifeng-soup-buns.jpg
+
+Author: Windmemories
+Source: https://commons.wikimedia.org/wiki/File:Steamed_soup_buns_of_Kaifeng.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Steamed_soup_buns_of_Kaifeng.jpg/960px-Steamed_soup_buns_of_Kaifeng.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-yongzhou-blood-duck.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Yongzhou_Xueya_at_Beijing_Yongzhou_Guild_Hall_(20240204130200).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/6/65/Yongzhou_Xueya_at_Beijing_Yongzhou_Guild_Hall_%2820240204130200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-liuyang-steamed-dishes.jpg
+
+Author: Yinsanhen
+Source: https://commons.wikimedia.org/wiki/File:%E6%B5%8F%E9%98%B3%E8%92%B8%E8%8F%9C.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/7/7d/%E6%B5%8F%E9%98%B3%E8%92%B8%E8%8F%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-cuihualou-furong-chicken-slices.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Furong_Jipian_at_Cui_Hua_Lou,_Dongzhimen_(20220718124704).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/6/65/Furong_Jipian_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718124704%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-steamed-wuchang-bream.jpg
+
+Author: ZhengZhou
+Source: https://commons.wikimedia.org/wiki/File:Steamed_Wuchang_Bream.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/58/Steamed_Wuchang_Bream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。

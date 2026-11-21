@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Hunan&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Hunan",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Shandong&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Shandong",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Hubei&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Hubei",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Henan&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Henan",
+      "itemIds": []
+    }
+  ]
+}

@@ -168,6 +168,50 @@
     {
       "file": "research/.local/china-photos-20261121-07/old03-review-168.jpg",
       "sha256": "440d418569e4e2939b56b032ff31f7989665120a7fb4af335e2ff7eb216f1a41"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-256.jpg",
+      "sha256": "cd1025cbc51454088bd893ee02d85798bbaa764bc8763c16ed551fd2320769b4"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-380.jpg",
+      "sha256": "aa98d8a68eb669c8af7ec92ad8fda311f058e1d8c3689a9721ec8a2152edba5a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-381.jpg",
+      "sha256": "13d313c84e8244bcf3b23b4896e6fea20adb3a578ec5c53f90f849b8ade50606"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-0.jpg",
+      "sha256": "6c9e228cf4fd93f04a0a7613a264fb9367034f54d147759271736083a0be5181"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-1.jpg",
+      "sha256": "2460b2d3b4d8a9cfd147889ded908ff3ea07cd456d5654ebe371262a40872227"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-2.jpg",
+      "sha256": "be3c31123752dedd1a4f64d3e736c7af87ba6d8a8569ac52ec70ba9368114fd4"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-3.jpg",
+      "sha256": "6ad6a974551a4bf93945b39a7a20eb524863bbf2bbdd30a27c9692f3f01a09c8"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-4.jpg",
+      "sha256": "1e21b6b64b13f1fa372ce1216cac86d9e3b27be7d7b4025b89d4078a21df6bce"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-5.jpg",
+      "sha256": "390d08a2590d77a69c0284fb32f9767f834eda54227f339a89c2476d098a3cb2"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-6.jpg",
+      "sha256": "aece69fe498b5581e080b83df0925aa4f06eeb4b9cce811efc87bec9a4334e0a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national57-review-7.jpg",
+      "sha256": "6a845d76ab0ef14b0be411fc326cee328cb94bdfff0d462fce0c7338050cf3e5"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

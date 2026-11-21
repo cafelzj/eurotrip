@@ -1259,6 +1259,126 @@
       "responseSha256": "a2c6a668a76935c16f14aba321c9250db8b494a06ae859d42ab05aef9f63317f",
       "compressedSha256": "4e34b1f10f2056e175a81971fd92a9e14af95dbbdad29690502bed0d152e9a45",
       "journal": "research/.local/china-photos-20261121-07/matters-original-articles-44/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Hunan&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Hunan",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/5859e17e111b4d3ba27471d47dea5fff.response.gz",
+      "responseSha256": "be39bfb956eb373a0c2339fb79dd3128069ded35145c708284edeae2661f968d",
+      "compressedSha256": "75af6af6f9beb51c0860dd71da8ac963a65259dbe7487204a047c3fb33967a0f",
+      "journal": "research/.local/china-photos-20261121-07/national-category-pilot-56/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Shandong&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Shandong",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/361f055e7a4c4d57bcb603c927894725.response.gz",
+      "responseSha256": "c27e49006ff99975503452905de9bf55792f929a72e707c5bd98cd28e6cd8f81",
+      "compressedSha256": "099950911678166164d6a434ffcf2bc18d5f4ee8401d69856893eeeaf3f44c7b",
+      "journal": "research/.local/china-photos-20261121-07/national-category-pilot-56/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Hubei&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Hubei",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/6af40afcb3be4c588032d9a378ccd71b.response.gz",
+      "responseSha256": "8d6729f3803a255f226f7f86d8eda40a9882eaf077a57b4238ca438e0bd99d87",
+      "compressedSha256": "f75c42b2f996906114447fddb3ac7239ba1765ff3e252b8b79ffaed77677aa0a",
+      "journal": "research/.local/china-photos-20261121-07/national-category-pilot-56/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Henan&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Pilot one named provincial food category and read full photo identity/licence; reuse saved sources and never import all category photos automatically: Cuisine of Henan",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/ef38bdaedf634186919d438793f4866b.response.gz",
+      "responseSha256": "08ae1386ff095c2c6cb49a4c28e893cd2f68efe02bb1bfcb5c1c4f283cbfcbb0",
+      "compressedSha256": "e570dd38f3fd6d12d0d6b4698f1e5d100771d6e7a81b011e16d7b6e01b37398d",
+      "journal": "research/.local/china-photos-20261121-07/national-category-pilot-56/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Changshachoudoufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Changshachoudoufu.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/ecb6d1ae1f9b4dcc9be65513a2ec6145.response.gz",
+      "responseSha256": "98b7a5dc18e2093963a5015504ebdd1511dd3c9e01b49847f8aaf71ba943cfaf",
+      "compressedSha256": "7dcf9f732ebe2e199892ee4bbccb855d70cd839cb4d8c083bd10a041080ecc94",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/China_WP_20160813_007_%2828643522724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:China WP 20160813 007 (28643522724).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/057e798fab154c0c9f3205d853724393.response.gz",
+      "responseSha256": "20209cbb3460ffbe0c8cc1cae6c646f10e085806851699f8e07153225c7ef1ff",
+      "compressedSha256": "8a67c4068753bb023a1bc56fb65677caf7cd0ad349cdd431b4c51252cfc250a5",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Yongzhou_Xueya_at_Beijing_Yongzhou_Guild_Hall_%2820240204130200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Yongzhou Xueya at Beijing Yongzhou Guild Hall (20240204130200).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/51dc43b37a0f4de1b65f89ae33171b63.response.gz",
+      "responseSha256": "117ea2fd142da2c3a79e84e885d6f1718ab33d8d82b599d47680917eefc20be5",
+      "compressedSha256": "83afeec6988b579e781629d74ca718f763ef0e723882ee0205058a92602b7aad",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E6%B5%8F%E9%98%B3%E8%92%B8%E8%8F%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:浏阳蒸菜.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/3465cae315be45908bb3894a3b5dc3e8.response.gz",
+      "responseSha256": "dd2fc7a00b95be1daba96eb8ad1d6d5a0261aaf271367f3cbb5dfa0f44780754",
+      "compressedSha256": "05bdd412e202018f3a462475f7aa87ea41c3ac09c89c3b02685eae23ad488748",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Furong_Jipian_at_Cui_Hua_Lou%2C_Dongzhimen_%2820220718124704%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Furong Jipian at Cui Hua Lou, Dongzhimen (20220718124704).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/829bd3793bd543ba92d966b2ec1db4e6.response.gz",
+      "responseSha256": "ffa174373c8f5bbb4fbd2652ddf2b816c7e277f6a869c1c4f316465eb4a26d65",
+      "compressedSha256": "846cebfde5befb2fb37b0a88a473847bdeecbbfbfb778dfc44f73cc65b7e0572",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Zibo-style_barbecue_in_Qingdao%2C_wrapped_in_flatbread_%2820230428172227%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Zibo-style barbecue in Qingdao, wrapped in flatbread (20230428172227).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/b52eb197a1dd4911af91f64d9604f96c.response.gz",
+      "responseSha256": "ab2ed6ed768d97c16c551a330a6846b31aea846beb453deb89b0d25b73191dbc",
+      "compressedSha256": "d6528b81c786da93527cc92d6dd7975cde569f81c2ec9aae31487d0c2efd5fc6",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hutangfen_%28Rice_Noodles_in_Peppery_Carp_Soup%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Hutangfen (Rice Noodles in Peppery Carp Soup).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/79800b84435344328bade1965f0ae7ed.response.gz",
+      "responseSha256": "6b6a82da80778d261a705b9c25d8006ea16ce9698e069d7abe16b5099e99eeae",
+      "compressedSha256": "690cd7d05d70865912889eca49db964cc6852badb5a60e41a48140e623f06d3d",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Steamed_Wuchang_Bream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original visual review of explicitly named national dish; no automatic use of category or generic place match: File:Steamed Wuchang Bream.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-selected-originals-57/7924a4c63078429aa9225ed1f371cd4c.response.gz",
+      "responseSha256": "d86da308e862934edbcc153e7fadc990d9ece549b233f391a18c3ff79c27d0ac",
+      "compressedSha256": "ec208354f13a3742b090dd5441b82f4967421f8dbeda66f7feac9eab93991f26",
+      "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
     }
   ]
 }
