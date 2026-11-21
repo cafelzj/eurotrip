@@ -1451,3 +1451,36 @@ License: [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 Original image URL: https://live.staticflickr.com/7323/11646591484_5db77e609b_c.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
 Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-cleveland-1942-825.jpg
+
+Author: The Cleveland Museum of Art
+Source: https://clevelandart.org/art/1942.825
+License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Original image URL: https://openaccess-cdn.clevelandart.org/1942.825/1942.825_web.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-commons-jiangyin-matisu.jpg
+
+Author: Caizzz
+Source: https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E8%B9%84%E9%85%A5.png
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%A9%AC%E8%B9%84%E9%85%A5.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-50369932.jpg
+
+Author: Ming Xia
+Source: https://www.flickr.com/photos/76815233@N00/50369932
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+Original image URL: https://live.staticflickr.com/32/50369932_57c59c121e_b.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-3192462709.jpg
+
+Author: Charles Wiriawan
+Source: https://www.flickr.com/photos/24029786@N00/3192462709
+License: [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+Original image URL: https://live.staticflickr.com/3396/3192462709_a2735b64cf_b.jpg
+Changes: 完整保留原字节和画面。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。

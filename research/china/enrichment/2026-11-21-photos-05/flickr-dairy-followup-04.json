@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "query": "Yili milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Yili+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Mengniu milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Mengniu+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Bright Dairy milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Bright+Dairy+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Meiji milk China",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Meiji+milk+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Yakult China",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Yakult+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Yoplait yogurt",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Yoplait+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Weigang milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Weigang+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Yiming milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Yiming+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Classy Kiss yogurt",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Classy+Kiss+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Panda condensed milk",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Panda+condensed+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "Sanyuan milk China",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=Sanyuan+milk+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    },
+    {
+      "query": "New Hope milk China",
+      "itemIds": [],
+      "url": "https://www.flickr.com/search/?text=New+Hope+milk+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "query": "Yakult candidate 6332480131 source",
+      "url": "https://www.flickr.com/photos/61322584@N07/6332480131",
+      "itemIds": []
+    },
+    {
+      "query": "Yakult candidate 6332480131 preview",
+      "url": "https://live.staticflickr.com/6036/6332480131_c62ab29861_b.jpg",
+      "itemIds": []
+    },
+    {
+      "query": "Yakult candidate 4859177731 source",
+      "url": "https://www.flickr.com/photos/46214148@N00/4859177731",
+      "itemIds": []
+    },
+    {
+      "query": "Yakult candidate 4859177731 preview",
+      "url": "https://live.staticflickr.com/4114/4859177731_18d942f459_b.jpg",
+      "itemIds": []
+    }
+  ]
+}

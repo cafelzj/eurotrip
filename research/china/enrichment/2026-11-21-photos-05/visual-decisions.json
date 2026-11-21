@@ -111,6 +111,43 @@
       "kind": "food",
       "viewedOriginal": true,
       "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "regional-6ad4439b924d2a",
+      "itemName": "苏州缂丝",
+      "candidateId": "cleveland-1942-825",
+      "caption": "清代缂丝毛挂毯《岁朝图》馆藏实物影像，克利夫兰艺术博物馆藏。",
+      "reason": "馆方中文题名明确缂丝毛挂毯、丝与羊毛缂织，正文关联乾隆向苏州订制西式挂毯的宫廷织造背景；此器物与普通绘画、机织锦缎区分。已看完整实物影像，构图与边框完整，采用馆藏缂织作品实例，不称当代商品或完全等同纯蚕丝缂丝。馆方该记录明确CC0。",
+      "kind": "craft",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-jiangsu-b987dd1904",
+      "itemName": "江阴马蹄酥",
+      "candidateId": "commons-jiangyin-matisu",
+      "caption": "江阴马蹄酥实拍，表面为芝麻与花瓣状剞纹。",
+      "reason": "原作者文件题名马蹄酥、说明江阴特产；另读江阴发布在江阴网的原文，确认传统马蹄形后改良为菊花状，解决圆形外观疑问。已查看原图，成品近景、芝麻和剞纹清楚、背景干净，无错误品牌指认。原图仅351×355，保留原尺寸不放大编码，不声称高清原片。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-zhejiang-165174eadb",
+      "itemName": "熊猫炼乳",
+      "candidateId": "50369932",
+      "caption": "温州熊猫牌甜炼乳旧版出口罐装实拍。",
+      "reason": "完整原作者说明明确浙江熊猫乳业、温州、中国生产，图中熊猫品牌、炼乳和甜炼乳文字清楚。已看原图，商品占据画面主体、正面可读，不以其他炼乳品牌替代；保留旧版出口包装语境，不宣称当前全部规格和包装。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "county-b8826e8faa9b71",
+      "itemName": "蒙牛宿迁乳品",
+      "candidateId": "3192462709",
+      "caption": "蒙牛特仑苏低脂奶旧包装实拍，作为品牌产品示例。",
+      "reason": "原作者明确蒙牛特仑苏低脂奶，已看真实包装近景，品牌、低脂奶与容量清楚；此卡介绍蒙牛在宿迁的乳品业务，采用同品牌产品示例并明确并非厂区实景，不据包装推断宿迁生产或当地独有产品。ND许可保持全部原JPEG字节和全幅。",
+      "kind": "product",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
     }
   ],
   "held": [
@@ -217,6 +254,26 @@
     {
       "candidateId": "3621443964",
       "reason": "人物居中占据黄天源门店前景，不作食品成品封面。"
+    },
+    {
+      "candidateId": "6332480131",
+      "reason": "照片虽由作者叫养乐多，实物为韩文不同品牌瓶装发酵乳，不能给中国养乐多品牌采用。"
+    },
+    {
+      "candidateId": "4859177731",
+      "reason": "只有揭开的盖膜和模糊瓶身，不采用为品牌产品主图。"
+    },
+    {
+      "candidateId": "1359473385",
+      "reason": "只露出两瓶无标识瓶顶，无法从实物核对正广和品牌，不采用。"
+    },
+    {
+      "candidateId": "575129376",
+      "reason": "与已选特仑苏相比电脑餐桌背景干扰大，本批优先清楚的同品牌产品近景。"
+    },
+    {
+      "candidateId": "3633552005",
+      "reason": "熊猫炼乳货架远景主题正确，但现已有单罐正面近景，不重复增加无必要图库。"
     }
   ]
 }

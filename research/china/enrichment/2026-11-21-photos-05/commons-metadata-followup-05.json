@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AHK+SKD+TKO+%E5%B0%87%E8%BB%8D%E6%BE%B3+Tseung+Kwan+O+%E5%9D%91%E5%8F%A3+Hang+Hau+%E6%9D%B1%E6%B8%AF%E5%9F%8E+East+Point+City+mall+shop+%E5%AE%B6%E4%B8%8A%E6%B5%B7+Modern+Shanghai+Restaurant+September+2022+Px3+02.jpg%7CFile%3ASZ+%E6%B7%B1%E5%9C%B3+Shenzhen+%E7%BE%85%E6%B9%96+Luohu+%E7%BE%85%E6%B2%99%E8%B7%AF+Luosha+Lu+%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8+Liantang+Port+shopping+mall+%E6%B1%9F%E5%8D%97%E9%85%A5+Jianan+Su+Bakery+March+2023+Px3+06.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Discovered croaker and pastry actual file metadata",
+      "itemIds": []
+    }
+  ]
+}

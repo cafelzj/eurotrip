@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 296,
-    "withListPhoto": 283,
-    "missingRealPhoto": 6331,
-    "needsListPhoto": 6344
+    "withDetailPhoto": 300,
+    "withListPhoto": 287,
+    "missingRealPhoto": 6327,
+    "needsListPhoto": 6340
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 351,
-      "needsListPhoto": 351
+      "missingRealPhoto": 348,
+      "needsListPhoto": 348
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 356,
-      "needsListPhoto": 356
+      "missingRealPhoto": 355,
+      "needsListPhoto": 355
     },
     "anhui": {
       "cards": 330,
@@ -6174,19 +6174,6 @@
       "city": "泰州",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-jiangsu-b987dd1904",
-      "name": "江阴马蹄酥",
-      "province": "jiangsu",
-      "city": "无锡",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 50,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -12427,19 +12414,6 @@
       "city": "晋城",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 55,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-zhejiang-165174eadb",
-      "name": "熊猫炼乳",
-      "province": "zhejiang",
-      "city": "温州",
-      "category": "food",
-      "subcategory": "dairy",
       "readingCharacters": 55,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -24147,19 +24121,6 @@
       "priority": 1
     },
     {
-      "itemId": "regional-6ad4439b924d2a",
-      "name": "苏州缂丝",
-      "province": "jiangsu",
-      "city": "苏州",
-      "category": "food",
-      "subcategory": "crafts",
-      "readingCharacters": 76,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "regional-6cc76a09be029e",
       "name": "盘锦大米",
       "province": "liaoning",
@@ -34696,19 +34657,6 @@
       "city": "长沙",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 113,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "county-b8826e8faa9b71",
-      "name": "蒙牛宿迁乳品",
-      "province": "jiangsu",
-      "city": "宿迁",
-      "category": "food",
-      "subcategory": "dairy",
       "readingCharacters": 113,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82868,6 +82816,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-jiangsu-b987dd1904",
+      "name": "江阴马蹄酥",
+      "province": "jiangsu",
+      "city": "无锡",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-e01650d3e6",
       "name": "苏式鲜肉月饼",
       "province": "jiangsu",
@@ -83278,6 +83239,19 @@
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 54,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-zhejiang-165174eadb",
+      "name": "熊猫炼乳",
+      "province": "zhejiang",
+      "city": "温州",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 55,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -83973,6 +83947,19 @@
       "priority": 3
     },
     {
+      "itemId": "regional-6ad4439b924d2a",
+      "name": "苏州缂丝",
+      "province": "jiangsu",
+      "city": "苏州",
+      "category": "food",
+      "subcategory": "crafts",
+      "readingCharacters": 76,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "regional-c756b98e6fcf50",
       "name": "惠山泥人",
       "province": "jiangsu",
@@ -84604,6 +84591,19 @@
       "category": "food",
       "subcategory": "crafts",
       "readingCharacters": 112,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "county-b8826e8faa9b71",
+      "name": "蒙牛宿迁乳品",
+      "province": "jiangsu",
+      "city": "宿迁",
+      "category": "food",
+      "subcategory": "dairy",
+      "readingCharacters": 113,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

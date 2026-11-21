@@ -1,0 +1,69 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=osmanthus+taro+filetype%3Abitmap&ns6=1",
+      "query": "osmanthus taro",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=red+bean+rice+balls+filetype%3Abitmap&ns6=1",
+      "query": "red bean rice balls",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Ningbo+yellow+croaker+filetype%3Abitmap&ns6=1",
+      "query": "Ningbo yellow croaker",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=yellow+croaker+soup+filetype%3Abitmap&ns6=1",
+      "query": "yellow croaker soup",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=crab+soup+dumplings+filetype%3Abitmap&ns6=1",
+      "query": "crab soup dumplings",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=shelled+gorgon+seeds+filetype%3Abitmap&ns6=1",
+      "query": "shelled gorgon seeds",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=goose+braised+Yangzhou+filetype%3Abitmap&ns6=1",
+      "query": "goose braised Yangzhou",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Jinhua+pastries+filetype%3Abitmap&ns6=1",
+      "query": "Jinhua pastries",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=lotus+root+starch+balls+filetype%3Abitmap&ns6=1",
+      "query": "lotus root starch balls",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Nantong+clams+filetype%3Abitmap&ns6=1",
+      "query": "Nantong clams",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Shaoxing+duck+filetype%3Abitmap&ns6=1",
+      "query": "Shaoxing duck",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=Zhejiang+rice+cake+filetype%3Abitmap&ns6=1",
+      "query": "Zhejiang rice cake",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E9%A9%AC%E8%B9%84%E9%85%A5.png&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual discovered file 马蹄酥.png full metadata",
+      "itemIds": []
+    }
+  ]
+}

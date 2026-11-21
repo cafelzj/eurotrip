@@ -267,6 +267,84 @@
       "provider": "Flickr",
       "license": "CC BY-NC 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/"
+    },
+    {
+      "id": "cleveland-1942-825",
+      "title": "缂丝毛挂毯：岁朝图（Cleveland 1942.825）",
+      "itemIds": [
+        "regional-6ad4439b924d2a"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/cleveland-1942-825.jpg",
+      "rawSha256": "39d2722bb6ce184de946710e7a6dce5b77ab4cb901e9a111588a6f9dc8271d0b",
+      "metadataFile": "research/.local/china-photos-20261121-05/museum-search-pilot/f3f68915547c4240b313d5d8d75ad45e.response.gz",
+      "metadataSha256": "c4765566b3cf05979ed3451f8b4e191d9e831f8d22d20788d89fbeae4b1e6152",
+      "author": "The Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1942.825",
+      "preview": "https://openaccess-cdn.clevelandart.org/1942.825/1942.825_web.jpg",
+      "provider": "The Cleveland Museum of Art Open Access",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "commons-jiangyin-matisu",
+      "title": "马蹄酥.png",
+      "itemIds": [
+        "flavor-jiangsu-b987dd1904"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/jiangyin-matisu.png",
+      "rawSha256": "16b397d5b7781362b84d714fe37f2f92a2303356815082af71eae419b469c4cc",
+      "metadataFile": "research/.local/china-photos-20261121-05/commons-english-followup-05/c32c2787f14a48d992f2d01eb8aa28f2.response.gz",
+      "metadataSha256": "0f93fbc5c6215a11b9cd831d83f43a341f0b3a7c51de79302179076de95822d2",
+      "author": "Caizzz",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E8%B9%84%E9%85%A5.png",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%A9%AC%E8%B9%84%E9%85%A5.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "50369932",
+      "title": "Panda Condensed Milk",
+      "description": "Proudly manufactured by the Zhejiang Panda Dairy Products Co., Ltd, Wenzhou, Zhejiang, People's Republic of China",
+      "licenseCode": 5,
+      "source": "https://www.flickr.com/photos/76815233@N00/50369932",
+      "preview": "https://live.staticflickr.com/32/50369932_57c59c121e_b.jpg",
+      "itemIds": [
+        "flavor-zhejiang-165174eadb"
+      ],
+      "query": "Panda condensed milk",
+      "searchMetadataFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-04/d61aba6369304a099ec4b1fdfa3b5616.response.gz",
+      "author": "Ming Xia",
+      "provider": "Flickr",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rawFile": "research/.local/china-photos-20261121-05/50369932.jpg",
+      "rawSha256": "b2453755c05fb85b4ad38da868fe6ba8fa7f29bf54e86084c830037f1f4adc09",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-04/2b9fc66c0c2b4816a8473ab8850825c6.response.gz",
+      "metadataSha256": "3b960e2decdb54d218021e6ab91502fc8612653db8081b78dcc30df385acbd63",
+      "fullDescription": "Proudly manufactured by the Zhejiang Panda Dairy Products Co., Ltd, Wenzhou, Zhejiang, People's Republic of China"
+    },
+    {
+      "id": "3192462709",
+      "title": "China dairy",
+      "description": "My favorite Mengniu low fat Milk Deluxe, retails for CNY 5.4 (about USD 80 cents) in the convenient stores. This one is fortunately unaffected by the melamine fiasco.",
+      "licenseCode": 3,
+      "source": "https://www.flickr.com/photos/24029786@N00/3192462709",
+      "preview": "https://live.staticflickr.com/3396/3192462709_a2735b64cf_b.jpg",
+      "itemIds": [
+        "county-b8826e8faa9b71"
+      ],
+      "query": "Mengniu milk",
+      "searchMetadataFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-04/f29fc4d267994fa5b598ef97a00dd595.response.gz",
+      "author": "Charles Wiriawan",
+      "provider": "Flickr",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "rawFile": "research/.local/china-photos-20261121-05/3192462709.jpg",
+      "rawSha256": "8a36e888b2909fb865ffa195d0cf519524db9c7d339e36af08300dba3dd846e2",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-04/877d0e70cf044da698520a06d023be47.response.gz",
+      "metadataSha256": "02081b8a5c89a60342ebff89fa8740514bda6414f7e77ef0484612db7b050f7a",
+      "fullDescription": "My favorite Mengniu low fat Milk Deluxe, retails for CNY 5.4 (about USD 80 cents) in the convenient stores. This one is fortunately unaffected by the melamine fiasco."
     }
   ]
 }

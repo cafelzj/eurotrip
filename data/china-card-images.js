@@ -5330,6 +5330,115 @@ window.chinaCardImages = {
       "commercialUse": false,
       "deploymentContext": "personal-informational-github-pages-without-advertising",
       "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-cleveland-1942-825": {
+      "file": "缂丝毛挂毯：岁朝图（Cleveland 1942.825）",
+      "src": "assets/photos/china/cn05-cleveland-1942-825.jpg",
+      "width": 900,
+      "height": 623,
+      "kind": "craft",
+      "alt": "清代缂丝毛挂毯《岁朝图》馆藏实物影像，克利夫兰艺术博物馆藏。",
+      "caption": "清代缂丝毛挂毯《岁朝图》馆藏实物影像，克利夫兰艺术博物馆藏。",
+      "author": "The Cleveland Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://clevelandart.org/art/1942.825",
+      "originalSrc": "https://openaccess-cdn.clevelandart.org/1942.825/1942.825_web.jpg",
+      "provider": "The Cleveland Museum of Art Open Access",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "馆方中文题名明确缂丝毛挂毯、丝与羊毛缂织，正文关联乾隆向苏州订制西式挂毯的宫廷织造背景；此器物与普通绘画、机织锦缎区分。已看完整实物影像，构图与边框完整，采用馆藏缂织作品实例，不称当代商品或完全等同纯蚕丝缂丝。馆方该记录明确CC0。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-commons-jiangyin-matisu": {
+      "file": "马蹄酥.png",
+      "src": "assets/photos/china/cn05-commons-jiangyin-matisu.jpg",
+      "width": 351,
+      "height": 355,
+      "kind": "food",
+      "alt": "江阴马蹄酥实拍，表面为芝麻与花瓣状剞纹。",
+      "caption": "江阴马蹄酥实拍，表面为芝麻与花瓣状剞纹。",
+      "author": "Caizzz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%A9%AC%E8%B9%84%E9%85%A5.png",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%A9%AC%E8%B9%84%E9%85%A5.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者文件题名马蹄酥、说明江阴特产；另读江阴发布在江阴网的原文，确认传统马蹄形后改良为菊花状，解决圆形外观疑问。已查看原图，成品近景、芝麻和剞纹清楚、背景干净，无错误品牌指认。原图仅351×355，保留原尺寸不放大编码，不声称高清原片。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-50369932": {
+      "file": "Panda Condensed Milk",
+      "src": "assets/photos/china/cn05-50369932.jpg",
+      "width": 868,
+      "height": 1017,
+      "kind": "product",
+      "alt": "温州熊猫牌甜炼乳旧版出口罐装实拍。",
+      "caption": "温州熊猫牌甜炼乳旧版出口罐装实拍。",
+      "author": "Ming Xia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": "https://www.flickr.com/photos/76815233@N00/50369932",
+      "originalSrc": "https://live.staticflickr.com/32/50369932_57c59c121e_b.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "完整原作者说明明确浙江熊猫乳业、温州、中国生产，图中熊猫品牌、炼乳和甜炼乳文字清楚。已看原图，商品占据画面主体、正面可读，不以其他炼乳品牌替代；保留旧版出口包装语境，不宣称当前全部规格和包装。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
+    },
+    "cn05-3192462709": {
+      "file": "China dairy",
+      "src": "assets/photos/china/cn05-3192462709.jpg",
+      "width": 767,
+      "height": 1024,
+      "kind": "product",
+      "alt": "蒙牛特仑苏低脂奶旧包装实拍，作为品牌产品示例。",
+      "caption": "蒙牛特仑苏低脂奶旧包装实拍，作为品牌产品示例。",
+      "author": "Charles Wiriawan",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "source": "https://www.flickr.com/photos/24029786@N00/3192462709",
+      "originalSrc": "https://live.staticflickr.com/3396/3192462709_a2735b64cf_b.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确蒙牛特仑苏低脂奶，已看真实包装近景，品牌、低脂奶与容量清楚；此卡介绍蒙牛在宿迁的乳品业务，采用同品牌产品示例并明确并非厂区实景，不据包装推断宿迁生产或当地独有产品。ND许可保持全部原JPEG字节和全幅。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "source-bytes-nd-1",
+      "colorProfile": "preserved",
+      "changes": "完整保留原字节和画面。",
+      "fit": "contain",
+      "commercialUse": false,
+      "deploymentContext": "personal-informational-github-pages-without-advertising",
+      "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
     }
   },
   "cards": {
@@ -5543,7 +5652,11 @@ window.chinaCardImages = {
     "flavor-zhejiang-96a2482fa2": "cn05-c-06d205bd3e34dc57",
     "flavor-jiangsu-3550c9608c": "cn05-c-e2b01c172d85da58",
     "flavor-jiangsu-d80d5b33c7": "cn05-c-95749bca58ebe8d7",
-    "flavor-zhejiang-0b1a1c181d": "cn05-11646591484"
+    "flavor-zhejiang-0b1a1c181d": "cn05-11646591484",
+    "regional-6ad4439b924d2a": "cn05-cleveland-1942-825",
+    "flavor-jiangsu-b987dd1904": "cn05-commons-jiangyin-matisu",
+    "flavor-zhejiang-165174eadb": "cn05-50369932",
+    "county-b8826e8faa9b71": "cn05-3192462709"
   },
   "galleries": {}
 };
