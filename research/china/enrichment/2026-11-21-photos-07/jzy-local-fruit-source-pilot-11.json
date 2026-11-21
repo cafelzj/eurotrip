@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.taihutour.com/news.asp?None=3&nlt=801",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.taihutour.com/news.asp?None=3&nlt=719",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": []
+    },
+    {
+      "url": "https://news.66wz.com/system/2018/06/22/105093239.shtml",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": []
+    },
+    {
+      "url": "https://news.66wz.com/system/2020/06/15/105283224.shtml",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": []
+    }
+  ]
+}

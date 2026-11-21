@@ -171,6 +171,25 @@
       "metadataSha256": "82b3f63e89390e7a325bc72d0b29ba6f821a6e81536207aa4757b8356fa9b9bb",
       "action": "newly-adopted-real-photo",
       "candidateId": "tianditu-fanshan-rouyan"
+    },
+    {
+      "itemId": "flavor-liaoning-5c43e66947",
+      "itemName": "麻辣拌",
+      "assetId": "cn07-malaban-mixed-dish",
+      "src": "assets/photos/china/cn07-malaban-mixed-dish.jpg",
+      "derivativeSha256": "7bd6aad9af978a0b666517763339168decae008ac0e376a9108e795f318c7fd8",
+      "caption": "麻辣拌成品实拍示例，摄于苏州；非抚顺门店出品。",
+      "reason": "作者明确标为麻辣拌并说明与抚顺的地方关联；实拍坐标在苏州，因此只作为同一道麻辣拌的异地制作实例，不称抚顺门店或地方独有配方。全幅可见蔬菜、豆制品与粉类拌汁后的成品，菜碗主体清楚、光线自然；旁边柚子茶不是麻辣拌原料。",
+      "source": "https://commons.wikimedia.org/wiki/File:Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/follow16-original-0",
+      "originalSha256": "cbc4f158bcec37bf39726b03795d507ebefba6b7517a25292766bf36a96db849",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "malaban-mixed-dish"
     }
   ]
 }

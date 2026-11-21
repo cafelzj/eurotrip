@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mutton_pudding_%28C%C3%A1ng_sh%C5%AB_y%C3%A1ng_r%C3%B2u%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Actual author-labelled Cangshu mutton dish full original; examine presentation and dish version",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ]
+    }
+  ],
+  "note": "下载请求的itemIds曾带有临时占位标记；不作条目采用依据。以本计划修正后的实际ID及逐图采用记录为准，原请求日志保留。"
+}

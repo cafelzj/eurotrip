@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 367,
-    "withListPhoto": 354,
-    "missingRealPhoto": 6260,
-    "needsListPhoto": 6273
+    "withDetailPhoto": 368,
+    "withListPhoto": 355,
+    "missingRealPhoto": 6259,
+    "needsListPhoto": 6272
   },
   "byProvince": {
     "henan": {
@@ -48,8 +48,8 @@
     "liaoning": {
       "cards": 306,
       "shortReadings": 226,
-      "missingRealPhoto": 305,
-      "needsListPhoto": 305
+      "missingRealPhoto": 304,
+      "needsListPhoto": 304
     },
     "zhejiang": {
       "cards": 424,
@@ -3821,19 +3821,6 @@
       "city": "鞍山",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-liaoning-5c43e66947",
-      "name": "麻辣拌",
-      "province": "liaoning",
-      "city": "抚顺",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 48,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -81884,6 +81871,19 @@
       "name": "常州芝麻糖",
       "province": "jiangsu",
       "city": "常州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-liaoning-5c43e66947",
+      "name": "麻辣拌",
+      "province": "liaoning",
+      "city": "抚顺",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 48,

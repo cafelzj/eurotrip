@@ -2022,3 +2022,11 @@ Source: https://www.sohu.com/a/222519296_168335/
 License: [原稿公开转载声明（注明来源并保留水印）](https://www.sohu.com/a/222519296_168335/)
 Original image URL: https://5b0988e595225.cdn.sohucs.com/images/20180213/d8c248c8229440d38830014ab571e551.jpeg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-malaban-mixed-dish.jpg
+
+Author: Shwangtianyuan
+Source: https://commons.wikimedia.org/wiki/File:Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f0/Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。

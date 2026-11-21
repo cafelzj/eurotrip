@@ -26,7 +26,7 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 394,
+    "research-support": 401,
     "adoption": 15,
     "preserved-source-reading": 1451,
     "cross-review": 4,
@@ -2182,20 +2182,56 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/README.md",
       "role": "research-support",
-      "bytes": 1330,
-      "sha256": "7e468acc2926d738b04557677130912f2b070bafb02b3a47a076d52d906ce946"
+      "bytes": 1769,
+      "sha256": "dad7dd1edcf8760f59920ba64f7312ca633eeeb2c2bb827728df045a6c47936c"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/candidates.json",
       "role": "research-support",
-      "bytes": 12009,
-      "sha256": "4ee90cc886569963b35e96597824821f860193ba3f0e0cd12d47ac7b8d772c95"
+      "bytes": 13101,
+      "sha256": "4eeb35e1db798e776de174deefb7680de1fd4c97aa713407d7934078f25eb8d9"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/cangshu-original-22.json",
+      "role": "research-support",
+      "bytes": 596,
+      "sha256": "8a9bd05826a5a894e8899f660aa2666ae860635a20e81bf277dec7dc17fdb7c6"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/dongan-correction-source-plan.json",
       "role": "research-support",
       "bytes": 685,
       "sha256": "c19a027a6595b33499139413214f8b7568e5c6d8c71038aba8350e72a1c993d3"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/independent-author-pilot-24.json",
+      "role": "research-support",
+      "bytes": 1076,
+      "sha256": "801f048ceebbee6e6943ae1d31c23a46ba38932acf8fdb1bf13884f58b270a2c"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-exact-fulltext-21.json",
+      "role": "research-support",
+      "bytes": 3139,
+      "sha256": "ff54f477e7754ce8d9d6748e3be8103663056722aeb151ef0eea2e68da22ebf6"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-local-fruit-source-pilot-11.json",
+      "role": "research-support",
+      "bytes": 1183,
+      "sha256": "f3a28e80d0521c72bece2444610e2ba6a16ff4dcaa8963ea3ce3a16ea0bad0ac"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/mashan-linked-originals-14.json",
+      "role": "research-support",
+      "bytes": 1008,
+      "sha256": "2849dc6b054e57c6b9cfa01d7e38c3bcbe3edddcfd555210be99770810471bba"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/named-recipes-25.json",
+      "role": "research-support",
+      "bytes": 2056,
+      "sha256": "44ffb24bc09ef8e599a99b8fbcd1851e48729b04ed8a5dc0b7241996c57d002b"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/national-article-file-metadata-02.json",
@@ -2210,6 +2246,12 @@
       "sha256": "06856e90a7514097e7fa0c71e0b0789f5c3b03cfaa8d282c37aaf970b6620cb1"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/national-followup-originals-16.json",
+      "role": "research-support",
+      "bytes": 702,
+      "sha256": "486e6e30185ee64b82ca2bfb5a9a0df1e78124fbc77f134b57401ca990fa7cea"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/national-food-tea-bottle-originals-03.json",
       "role": "research-support",
       "bytes": 3537,
@@ -2218,8 +2260,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/photo-adoption.json",
       "role": "adoption",
-      "bytes": 12538,
-      "sha256": "875d23679b27356a41e40d06c6768220b9e621bd5ecb36a9e5cf64d0beeebd63"
+      "bytes": 14024,
+      "sha256": "ddfe067c74cd14f617a59bf6a72fca594b9269f9db0fce768f3aa682d25db07e"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/reading-corrections.json",
@@ -2248,20 +2290,20 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/source-responses.json",
       "role": "research-support",
-      "bytes": 20965,
-      "sha256": "46dfb01b64bb412edbf17a867f54c672b1303eb868021cc5ac67212b90ba253f"
+      "bytes": 44379,
+      "sha256": "05f1eed972bb612386975579b19a514ff7d37fb6b40630e2776e1683d07f54c6"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-decisions.json",
       "role": "research-support",
-      "bytes": 5241,
-      "sha256": "76b86dccc923073a237b3f28ac2c69f84d40039b19b0601b57b9e74d848d96df"
+      "bytes": 6115,
+      "sha256": "a424a3942378e3fcd496527fe576f9472384ca7dae5d4943495f2f99e89093cb"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-screening.json",
       "role": "research-support",
-      "bytes": 1778,
-      "sha256": "159bec2a5343e0e4edad1cd0c27d3224acd2a64159278e690203cb0a0ddd1c6f"
+      "bytes": 2305,
+      "sha256": "bc4b9f6af9e1fa14d4e1110a732650fb82f5f23d78c9c10106b5500b478be2fa"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/wenzhou-exact-food-originals-07.json",
@@ -2272,14 +2314,14 @@
     {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
-      "bytes": 4574,
-      "sha256": "a39e78cc11629213776df00aebff1aaed95e21833505c1900cef8b7e360bd1ec"
+      "bytes": 4575,
+      "sha256": "4f6aa7ee1de86867ade1bc9fcaf577c19684d56e517c0d50c4628927d320bde0"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508304,
-      "sha256": "b4b4d82417a57fbd5d3c2a622046917a1e790fd1e711fa123f1ca65e8fd528cf"
+      "bytes": 2508305,
+      "sha256": "01cb8d7abf7b7e8348204948cf3ea7be203bdb125e5d0a4a2f373c3c94fe821e"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -6047,7 +6089,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6847,
-      "sha256": "afb077598cda5f6f323ca73da9d1807e35e0f9a09cf20cfe3343f77c6a108501"
+      "sha256": "43679136ee29af527a0008a4cfc0fd58443a6a035a5723a8c5e8437edf1e449a"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

@@ -36,6 +36,18 @@
     {
       "file": "research/.local/china-photos-20261121-07/wenzhou07-review-2.jpg",
       "sha256": "5f1aa8e6b0579af990423eb28e7038b9566001523bf9db2404e3f820df28053b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/follow16-review-0.jpg",
+      "sha256": "c69c9a0ea9ed4e37b5e175875c0be6ad53fc34dc12477f6647aa05e039810308"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/follow16-review-1.jpg",
+      "sha256": "ba8e8eff6ddb9007965a604075638aa113288f8a702c32ae46cdc0e6443608e0"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/cangshu22-review.jpg",
+      "sha256": "06e071f994f2b64bb6593b9afd5d8315439983221d941b1ab8aa46bf077f7463"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

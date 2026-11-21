@@ -181,6 +181,23 @@
         "url": "https://www.sohu.com/a/222519296_168335/",
         "conditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
       }
+    },
+    {
+      "id": "malaban-mixed-dish",
+      "title": "Dry-mixed Malatang and Teewow Honey Yuja Tea-20210620.jpg",
+      "itemIds": [
+        "flavor-liaoning-5c43e66947"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/follow16-original-0",
+      "rawSha256": "cbc4f158bcec37bf39726b03795d507ebefba6b7517a25292766bf36a96db849",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-article-file-metadata-02/84bb63abb14046f293fcee5d9ec9bc54.response.gz",
+      "metadataSha256": "165eac4bad9e032186dbbf3d07156d1262734743a81dcb1ba3d2164cb04f71c6",
+      "author": "Shwangtianyuan",
+      "source": "https://commons.wikimedia.org/wiki/File:Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

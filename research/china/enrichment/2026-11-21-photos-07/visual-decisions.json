@@ -85,12 +85,25 @@
       "kind": "food",
       "viewedOriginal": true,
       "permissionReviewed": true
+    },
+    {
+      "itemId": "flavor-liaoning-5c43e66947",
+      "itemName": "麻辣拌",
+      "candidateId": "malaban-mixed-dish",
+      "caption": "麻辣拌成品实拍示例，摄于苏州；非抚顺门店出品。",
+      "reason": "作者明确标为麻辣拌并说明与抚顺的地方关联；实拍坐标在苏州，因此只作为同一道麻辣拌的异地制作实例，不称抚顺门店或地方独有配方。全幅可见蔬菜、豆制品与粉类拌汁后的成品，菜碗主体清楚、光线自然；旁边柚子茶不是麻辣拌原料。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
     {
       "candidate": "national-originals-03",
       "reason": "桶子鸡为整堆待售鸡且构图杂；四果汤有反光和模糊；鼎边糊画面灰暗、台面杂景；糌粑仅原料摆放；四特液未确证与现有四特酒产品身份，不采用这些封面。口子窖文章首图是公交广告、润饼是台湾版本、擀面皮跳到汉中米面皮，均未按标题自动配图。"
+    },
+    {
+      "candidate": "liubao-and-cangshu-followup-16-22",
+      "reason": "六堡茶图以冲茶活动人物为主体，不是清楚的茶叶或茶汤；藏书羊肉是整板羊糕近照，保鲜膜反光且色泽灰暗，没有采用为封面。"
     }
   ]
 }

@@ -241,6 +241,330 @@
       "responseSha256": "d1e11dbe2ea029f29e387ffcdabaa9fe7154feae6d0bd1f382b4dced9ea15078",
       "compressedSha256": "ebf9c451bbba604ccd749f24d9ff42e48fd9cd4f9e9179d0c604e8c1b014ea83",
       "journal": "research/.local/china-photos-20261121-07/dongan-correction-sources/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mutton_pudding_%28C%C3%A1ng_sh%C5%AB_y%C3%A1ng_r%C3%B2u%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Actual author-labelled Cangshu mutton dish full original; examine presentation and dish version",
+      "itemIds": [
+        "flavor-jiangsu-PLACEHOLDER"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/cangshu-original-22/5da3e6486a4543d49dd71c651bd932d4.response.gz",
+      "responseSha256": "71bbbc4bd26ad46e743ef96d006dfe8cf0e8b9ebe8a2f54d5cb7ade0220700e3",
+      "compressedSha256": "54470c71e6a5a6c6d84e7eecc065938c43941d43edb172baafa66ecc8ac79e06",
+      "journal": "research/.local/china-photos-20261121-07/cangshu-original-22/requests.jsonl"
+    },
+    {
+      "url": "https://touch.travel.qunar.com/youji/6716590",
+      "query": "Read original author/photo ownership and reuse conditions before any photo selection; original Jiangsu Zhejiang Shanghai travelogue or cooking author pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-author-pilot-24/ba442b354fde471e95d7cb076a20f100.response.gz",
+      "responseSha256": "c508633a5c0ac0697b761f6604e90a1482df64d83e2bbe83e635a5803c175d9f",
+      "compressedSha256": "366dfb1a2c758e0f204e5e7cb7c7c1e5e93548a48c9fe771601ab6738479fa9e",
+      "journal": "research/.local/china-photos-20261121-07/independent-author-pilot-24/requests.jsonl"
+    },
+    {
+      "url": "https://tidenews.com.cn/news.html?id=2586395",
+      "query": "Read original author/photo ownership and reuse conditions before any photo selection; original Jiangsu Zhejiang Shanghai travelogue or cooking author pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-author-pilot-24/28944b694d314e1b815c8cca6dffa76b.response.gz",
+      "responseSha256": "cd6c50a11f1ea1e5fa0954257aa4cda06fc42ea44903d8f8c96d54139abc11b9",
+      "compressedSha256": "9422db8a13acf3c1e2fb31318794ed455b3c35bb4cee3ef5f4d409eed307e30c",
+      "journal": "research/.local/china-photos-20261121-07/independent-author-pilot-24/requests.jsonl"
+    },
+    {
+      "url": "https://theburningkitchen.com/about/",
+      "query": "Read original author/photo ownership and reuse conditions before any photo selection; original Jiangsu Zhejiang Shanghai travelogue or cooking author pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-author-pilot-24/08a4edb8579e4126a61bfdb78bbc7cff.response.gz",
+      "responseSha256": "1145634741d9e5b1c25485d19089fc1e1ba3d351176c70b09136badb11ef12fe",
+      "compressedSha256": "f512dc48e7cd894bbf2c9723578ea89e7ae0a752b9b2bb55103fec17da2c4b6d",
+      "journal": "research/.local/china-photos-20261121-07/independent-author-pilot-24/requests.jsonl"
+    },
+    {
+      "url": "https://blog.themalamarket.com/about/",
+      "query": "Read original author/photo ownership and reuse conditions before any photo selection; original Jiangsu Zhejiang Shanghai travelogue or cooking author pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-author-pilot-24/485be8277d7448d6a65cf4f59e2020e3.response.gz",
+      "responseSha256": "1f4f1a0b1a0f33b71f71d21f7b7909bd1c06714d17556df6399b5268c38e743f",
+      "compressedSha256": "adda3f81878adf2fbbed67a61f383981701703dc065f6e167e2c22a9c25a9f2e",
+      "journal": "research/.local/china-photos-20261121-07/independent-author-pilot-24/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"桂花鸡头米\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/f4345af2b76948da9bc8fc0ac202e447.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%BC%80%E5%8C%96%E6%B1%BD%E7%B3%95%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"开化汽糕\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/d2d22487fe714c69a3844ea444982958.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"藏书羊肉\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/30899b442e53438fbb6fb8ebb2f2bfcd.response.gz",
+      "responseSha256": "6cb1206498427ff5fa2ca70a3c9cc950b2fa601bcee75a7782b234192a70cbdc",
+      "compressedSha256": "54c209d2c98d4f90dc07c503fc88a4b98136251af5909f7fa20ff295c25c11e4",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"翡翠烧麦\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/588ba5eaefb34fdab7881b5f883cb53b.response.gz",
+      "responseSha256": "69e4748f3c724a3f39d0de68f336d8a9ce9aa83bdb2d97066cb9fa5e2861c98f",
+      "compressedSha256": "ef1912144a0fa8b5abb3a168fcacc47b96d5552c1c8af13e09726de4de559ca9",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%85%90%E7%9A%AE%E9%BB%84%E9%B1%BC%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"腐皮黄鱼\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/a1da0e79bcde4b7f8d32f1972802226e.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%A2%AD%E5%AD%90%E8%9F%B9%E7%82%92%E5%B9%B4%E7%B3%95%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"梭子蟹炒年糕\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/ca237338670544baad25e0bda307d74e.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%9B%99%E9%B1%BC%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"蛙鱼\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/baacdd915fbf46ecbbc66816ee609d4b.response.gz",
+      "responseSha256": "94a46b8fe8ffe4d906822e29205a7fc9fe0e8cc69aa38edfcf53434bcd4c30bf",
+      "compressedSha256": "51a525d41293bca9bcca7662914c0038ebffef54ace03d69363f05636b23baff",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Focused alternative file-title/fulltext search, not Wikipedia lead only: \"皮肚面\"",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/7c248178ee7f48608dd873e6c6888da9.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-exact-fulltext-21/requests.jsonl"
+    },
+    {
+      "url": "https://www.taihutour.com/news.asp?None=3&nlt=801",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/059733377fae4263be3bac4590f6ba5f.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.taihutour.com/news.asp?None=3&nlt=719",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/69d286c8d3904632ab9479d9223965e9.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://news.66wz.com/system/2018/06/22/105093239.shtml",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/fec5dacfcbfa4a27969bef7060db01cf.response.gz",
+      "responseSha256": "52634212e0bf805dc9efc0394c522c2db0605e910a0d57b5fa3be84f6cb36a01",
+      "compressedSha256": "bf1004f1472484cf0dabc45d26374de5dfe9d578493bc0355db4b8b13371c5c7",
+      "journal": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://news.66wz.com/system/2020/06/15/105283224.shtml",
+      "query": "Read exact local bayberry article and image captions, identify original publisher and article-specific or own-content reprint permission; no prices/current opening claims",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/2bc1bb4a74e54e60b854cb2081a8d7fc.response.gz",
+      "responseSha256": "6319f7dc453e7d9bced47412710a5bfcb15e123388959034f6053111760a290d",
+      "compressedSha256": "ecfd1bf27b691ead9ac67b59d8a7cef159d45a6434b8c2181271acc63e7df842",
+      "journal": "research/.local/china-photos-20261121-07/jzy-local-fruit-source-pilot-11/requests.jsonl"
+    },
+    {
+      "url": "https://www.taihutour.com/uploadfiles/20250630/Eq5CPNyK1751270778.jpeg",
+      "query": "Actual linked Mashan bayberry photograph from official article after original-content reprint statement was read; inspect image and preserve source",
+      "itemIds": [
+        "program-7ebecd23e2a663b7e6"
+      ],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/5dfe447c5edf4214948a227636822b7f.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/requests.jsonl"
+    },
+    {
+      "url": "https://www.taihutour.com/uploadfiles/20250630/ruwxDDcq1751270779.jpeg",
+      "query": "Actual linked Mashan bayberry photograph from official article after original-content reprint statement was read; inspect image and preserve source",
+      "itemIds": [
+        "program-7ebecd23e2a663b7e6"
+      ],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/f5e2d885eaf8464b8183b6d308c51c32.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/requests.jsonl"
+    },
+    {
+      "url": "https://www.taihutour.com/uploadfiles/20230614/ea1a4Czz1686719385.png",
+      "query": "Actual linked Mashan bayberry photograph from official article after original-content reprint statement was read; inspect image and preserve source",
+      "itemIds": [
+        "program-7ebecd23e2a663b7e6"
+      ],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "deferUntilEpoch": 1795247086.4535718,
+      "responseFile": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/2d25532de8324faaa64791247b6c4fed.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-07/mashan-linked-originals-14/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/pork-and-pepper-stir-fry/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/3cf82b9b31844a4cb583fca66288153d.response.gz",
+      "responseSha256": "7adeb1378a6e2d01e7963a03467f6d9b32b4eee08d8256e280002f87e9186617",
+      "compressedSha256": "30576895dd43e28c330286b24bee00a8225d6f841bc2bb8ec6be7667681bfda1",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/lotus-root-soup/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/eceee67a0e93420b9a8cd81fd40b9aee.response.gz",
+      "responseSha256": "264c7b207626e134393ccd39b50f779709bcc7553d2eb10f6577c55d96ed8c10",
+      "compressedSha256": "204cf3dfc699690e20bd6a8dd54597796993b2462063c68289502d45f145131b",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-sauteed-green-peppers-tiger-skin-pepper/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/a81c399d353d41e1b48d830aff0ef5c1.response.gz",
+      "responseSha256": "af36972658ee2db71a6a821cfa66e5f8845a0e11d191d0070dfac066beddcc83",
+      "compressedSha256": "98502bdf51a7571dd05e6d9bf76ac7df85a44c0460e07b89a036bdf593263a9e",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/stuffed-lotus-roots-pan-fried-version/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/c9411124e044428681561a8d8d977447.response.gz",
+      "responseSha256": "a97c6819bb868c5d62189b303c198ab2cdd44e0d77d39e94d0efa65dc4ceb0ba",
+      "compressedSha256": "88e804c6a74350fc0f493779b1b2db9b3e99e4b8829692153643ea629c9e70cf",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/stuffed-sticky-rice-balls-zi-fantuan/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/40e1594946d84d819c8df58d4d023832.response.gz",
+      "responseSha256": "2a3f35e33632f1b11126eb43ed63a56bea761f2e5e37cb107df56328d26792e5",
+      "compressedSha256": "07ffd2c54ee37c4a18c44aa37f674c245623e2d5a5ee8d54a4348a533855e43b",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/steamed-meatball-with-sticky-rice/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/d02b7c5b98b645c7bf5b3b470b237abe.response.gz",
+      "responseSha256": "7a6d8049d36f3e8bac603d2b4bebe20f1ae8773ee87db61c85381842093f4437",
+      "compressedSha256": "cafc5cfd54b0dd5dda6800cc9aa2e4ebd29e01a75cc31f9e3511929b29627ef9",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/beer-duck/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/05651f299449424b89ea93c65028acaa.response.gz",
+      "responseSha256": "594c50c7414b78c27057273c168ce98affd0132bccdf8e26399d52c99ae617ac",
+      "compressedSha256": "779b73e1ac2993f5b37b46bb9a697a9eabce82c376574acc6112be564ea94468",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/peanut-candy/",
+      "query": "Actual named home recipe; inspect ingredients, regional variant, original photography and match existing card before approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/named-recipes-25/1b9549018573485a9ffb3df14d55b5dd.response.gz",
+      "responseSha256": "0e78a85f2ee9b566623893215009660000eba83c84b1c0141b5b52dacf1be809",
+      "compressedSha256": "b2fd148c9ff4ad4301547a843ec01a8d46c3c78bb322aa8f991fe5ea00247240",
+      "journal": "research/.local/china-photos-20261121-07/named-recipes-25/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Review full original of explicitly identified Malaban and Liubao tea craft; no automatic approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-16/9993ec011dcf4838b21cc85abed37488.response.gz",
+      "responseSha256": "cbc4f158bcec37bf39726b03795d507ebefba6b7517a25292766bf36a96db849",
+      "compressedSha256": "cfbb83e1eea2e6b1e44a5d2e9d54bc46e1787e9d149675045bab6e41363e2882",
+      "journal": "research/.local/china-photos-20261121-07/national-followup-originals-16/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/%E4%B8%89%E6%9C%88%E4%B8%89_4152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Review full original of explicitly identified Malaban and Liubao tea craft; no automatic approval",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-16/04bfca0744fc44efaf7d560ddec99da2.response.gz",
+      "responseSha256": "30f24338b72b3f1783d724207ec0ae0acfe451dba0548b05d3c73313af886947",
+      "compressedSha256": "e03ca61c0c7e17f96085cf50dd0bad8293305dc6bff3097ae347f692dc359e29",
+      "journal": "research/.local/china-photos-20261121-07/national-followup-originals-16/requests.jsonl"
     }
   ]
 }

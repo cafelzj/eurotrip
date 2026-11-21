@@ -7354,6 +7354,32 @@ window.chinaCardImages = {
         "conditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
       },
       "useConditions": "原文保留天地图温州声明“本文系原创内容，如转载请注明”，来源明确为天地图温州；这三幅图片带有同名水印。按原稿声明保留水印、发布方署名及原文链接，仅在相关地方美食资料中使用，不扩展到第三方水印图片或整篇文字。发布方不是已知个人摄影者，原文未单列摄影者。"
+    },
+    "cn07-malaban-mixed-dish": {
+      "file": "Dry-mixed Malatang and Teewow Honey Yuja Tea-20210620.jpg",
+      "src": "assets/photos/china/cn07-malaban-mixed-dish.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "麻辣拌成品实拍示例，摄于苏州；非抚顺门店出品。",
+      "caption": "麻辣拌成品实拍示例，摄于苏州；非抚顺门店出品。",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "作者明确标为麻辣拌并说明与抚顺的地方关联；实拍坐标在苏州，因此只作为同一道麻辣拌的异地制作实例，不称抚顺门店或地方独有配方。全幅可见蔬菜、豆制品与粉类拌汁后的成品，菜碗主体清楚、光线自然；旁边柚子茶不是麻辣拌原料。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -7638,7 +7664,8 @@ window.chinaCardImages = {
     "flavor-hunan-1b96f0e428": "cn07-mala-crayfish-dish",
     "county-c10d7f850f8864": "cn07-tianditu-yongjia-maibing",
     "flavor-zhejiang-f1b67ca9a0": "cn07-tianditu-baixiang-xianggao",
-    "county-7a0969fc8211ad": "cn07-tianditu-fanshan-rouyan"
+    "county-7a0969fc8211ad": "cn07-tianditu-fanshan-rouyan",
+    "flavor-liaoning-5c43e66947": "cn07-malaban-mixed-dish"
   },
   "galleries": {}
 };
