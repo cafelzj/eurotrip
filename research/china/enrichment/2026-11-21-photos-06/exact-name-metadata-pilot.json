@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3AGaizai+crackers.jpg%7CFile%3ALitchi+Pork.jpg%7CFile%3AQuanzhou-style+Kiu%E2%81%BF-b%C3%B3-ah+%28Ginger+Duck%29+at+Yipin+Xiangqing+Restaurant%2C+Beijing+%2820240908174515%29.jpg%7CFile%3A%E7%94%9C%E6%B2%AB+202509.jpg%7CFile%3AMianwo.JPG%7CFile%3AMaofeng+%28medium+grade%2C+spring+2007%29.jpg%7CFile%3AKeemun+FTGFOP+%281%29.JPG%7CFile%3AQimen+Hao+Ya.jpg%7CFile%3APigCake.jpg%7CFile%3ATaigubing.JPG%7CFile%3A%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg%7CFile%3A%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG%7CFile%3AHofanUpClose.jpg%7CFile%3ASingle+Dezhou+braised+chicken+wrapped+in+paper+%2820170115132902%29.jpg%7CFile%3AXinyang+Maojian.jpg%7CFile%3ADatong+Fideos.jpg%7CFile%3ALaoyoufen+with+beef+at+Wanguo+Restaurant%2C+Nanning+%2820240216205412%29.jpg",
+      "query": "Existing saved exact-name national food photo leads: read full actual file metadata, no automatic adoption",
+      "itemIds": [
+        "threeprov-01d707220781b35264",
+        "flavor-fujian-b6afcd1c23",
+        "program-4a0d974a2cd9c8d569",
+        "flavor-fujian-d0f2839f50",
+        "program-298e9e154a4bf2e2ee",
+        "flavor-shandong-8d625f695f",
+        "flavor-hubei-b1afd0a5db",
+        "ah-maofeng",
+        "ah-qimen",
+        "threeprov-b6063094fa6e8ba793",
+        "flavor-shanxi-468ea651d5",
+        "bj-jingjiang",
+        "program-40c71ebeb7a42f3c93",
+        "threeprov-2654bf95617c1d5816",
+        "sd-dezhou-chicken",
+        "flavor-henan-d69d3ba5aa",
+        "program-83ceb06c8c4b57473b",
+        "threeprov-a6597ace05e39fc299"
+      ]
+    }
+  ]
+}

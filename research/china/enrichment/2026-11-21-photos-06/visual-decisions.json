@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-21",
+  "approved": [
+    {
+      "itemId": "flavor-fujian-b6afcd1c23",
+      "itemName": "荔枝肉",
+      "candidateId": "fuzhou-litchi-pork",
+      "caption": "福州荔枝肉成品实拍，以酸甜红汁包裹肉块。",
+      "reason": "原作者描述直接为福州荔枝肉，未把名字当作含有荔枝的配方。整盘成品光线明亮、主体清楚，保留来源图细边框，不改色。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-fujian-d0f2839f50",
+      "itemName": "姜母鸭",
+      "candidateId": "quanzhou-ginger-duck",
+      "caption": "北京一品芗情餐厅的泉州做法姜母鸭，实际摄于2024年。",
+      "reason": "原作者明确泉州偏干做法及北京餐馆位置，并区分台湾汤锅版本。砂锅内成品与姜片清楚，保留实际拍摄地，不冒称泉州店铺。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-shandong-8d625f695f",
+      "itemName": "甜沫",
+      "candidateId": "jinan-tianmo",
+      "caption": "丰香源餐厅甜沫实拍，保留原本浅色稠汤及配料。",
+      "reason": "文件中文题名与原作者说明均为甜沫，未以普通米粥替代。整碗成品近景，餐桌干净，无塑料袋或人物遮挡，不将自然浅色改成浓艳颜色。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-hubei-b1afd0a5db",
+      "itemName": "面窝",
+      "candidateId": "wuhan-mianwo",
+      "caption": "武汉面窝实拍，白盘中可见金黄外壳、芝麻及中间孔洞。",
+      "reason": "原作者中英文直接说明武汉面窝。全幅单独查看，成品完整、焦脆外表与孔洞清楚，暖色自然、背景简洁，没有用其他油炸圈饼替代。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "ah-qimen",
+      "itemName": "祁门红茶",
+      "candidateId": "qimen-haoya-infusion",
+      "caption": "祁门红茶毫芽的茶汤与叶底实拍。",
+      "reason": "原作者说明明确祁门毫芽茶叶与冲泡茶汤。全幅查看，茶汤色泽与叶底同框可辨，按茶饮实拍使用，不宣称所有等级外观均完全相同；列表焦点朝茶汤。",
+      "kind": "food",
+      "viewedOriginal": true
+    }
+  ],
+  "held": [
+    {
+      "candidateId": "Gaizai crackers.jpg",
+      "reason": "接触表可见仅少量碎片，不能作为有食欲的鸡仔饼封面。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "PigCake.jpg",
+      "reason": "包装盒抢占画面且主体仍在袋中；完整作者信息待核，本轮不采用。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "Taigubing.JPG",
+      "reason": "整幅成品明显失焦，暂不采用。",
+      "viewedContactSheet": true
+    },
+    {
+      "candidateId": "Maofeng (medium grade, spring 2007).jpg",
+      "reason": "标尺占据显著画面，更适合辨识记录，另找更好的展示照片。",
+      "viewedContactSheet": true
+    }
+  ]
+}

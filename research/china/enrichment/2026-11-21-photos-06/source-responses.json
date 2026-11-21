@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-21",
+  "status": "continuously-appended-current-batch",
+  "records": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&titles=File%3AGaizai+crackers.jpg%7CFile%3ALitchi+Pork.jpg%7CFile%3AQuanzhou-style+Kiu%E2%81%BF-b%C3%B3-ah+%28Ginger+Duck%29+at+Yipin+Xiangqing+Restaurant%2C+Beijing+%2820240908174515%29.jpg%7CFile%3A%E7%94%9C%E6%B2%AB+202509.jpg%7CFile%3AMianwo.JPG%7CFile%3AMaofeng+%28medium+grade%2C+spring+2007%29.jpg%7CFile%3AKeemun+FTGFOP+%281%29.JPG%7CFile%3AQimen+Hao+Ya.jpg%7CFile%3APigCake.jpg%7CFile%3ATaigubing.JPG%7CFile%3A%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg%7CFile%3A%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG%7CFile%3AHofanUpClose.jpg%7CFile%3ASingle+Dezhou+braised+chicken+wrapped+in+paper+%2820170115132902%29.jpg%7CFile%3AXinyang+Maojian.jpg%7CFile%3ADatong+Fideos.jpg%7CFile%3ALaoyoufen+with+beef+at+Wanguo+Restaurant%2C+Nanning+%2820240216205412%29.jpg",
+      "query": "Existing saved exact-name national food photo leads: read full actual file metadata, no automatic adoption",
+      "itemIds": [
+        "threeprov-01d707220781b35264",
+        "flavor-fujian-b6afcd1c23",
+        "program-4a0d974a2cd9c8d569",
+        "flavor-fujian-d0f2839f50",
+        "program-298e9e154a4bf2e2ee",
+        "flavor-shandong-8d625f695f",
+        "flavor-hubei-b1afd0a5db",
+        "ah-maofeng",
+        "ah-qimen",
+        "threeprov-b6063094fa6e8ba793",
+        "flavor-shanxi-468ea651d5",
+        "bj-jingjiang",
+        "program-40c71ebeb7a42f3c93",
+        "threeprov-2654bf95617c1d5816",
+        "sd-dezhou-chicken",
+        "flavor-henan-d69d3ba5aa",
+        "program-83ceb06c8c4b57473b",
+        "threeprov-a6597ace05e39fc299"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "responseSha256": "dba67e208d827687b4debcbc138b6a85c1f90c73dd0e25c3b6820e01e5414cfa",
+      "compressedSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-metadata/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gaizai_crackers.jpg",
+      "query": "File:Gaizai crackers.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/c7eb0a7528bd479892c2aa44a1d7877d.response.gz",
+      "responseSha256": "56c2496cc27bdf6aac60e588b52f796290d0006c095029867b7162788d3aae48",
+      "compressedSha256": "0d63160bc14fe490dd868904dee408229b4ff1912c9107afc61931000f504cf2",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Litchi_Pork.jpg",
+      "query": "File:Litchi Pork.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/3d3f0529bd7e450e9742427c1b9cd675.response.gz",
+      "responseSha256": "6672bfd7bdfd1d760195154bd75f88f040cb91952418bc7658fc6598e8d691d6",
+      "compressedSha256": "7a3e3bc04cc051517944af61e9249e7f2329d18e34516d7b14654f480373bc53",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_%28Ginger_Duck%29_at_Yipin_Xiangqing_Restaurant%2C_Beijing_%2820240908174515%29.jpg",
+      "query": "File:Quanzhou-style Kiuⁿ-bó-ah (Ginger Duck) at Yipin Xiangqing Restaurant, Beijing (20240908174515).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/55ece5bf10614e5685581c69db47f91a.response.gz",
+      "responseSha256": "7f31ee028562119c6c0dfb2499ba47d0edae108c0e92fa1b873fd8f561410777",
+      "compressedSha256": "02baf9b67087b1bcf5560080970dc9f544d6dcaaa66bf4897772d4d12f58015a",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E7%94%9C%E6%B2%AB_202509.jpg",
+      "query": "File:甜沫 202509.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/6957c12a80234890887d4ca1ea0ad7b2.response.gz",
+      "responseSha256": "b7e54b00d4d08288886844f3ea811f4a0358d82809502530399e072bab4b67c9",
+      "compressedSha256": "70a1e2797e963b4905e586c0326406176a6804f8beee58e64974b292f222e74c",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mianwo.JPG",
+      "query": "File:Mianwo.JPG original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/817752a5b29340f1acd9ffcedf754720.response.gz",
+      "responseSha256": "dd5b22b78c9e8b84b0ab70af9cb2593f87fa21d2fa14107bd5b380362148c0ce",
+      "compressedSha256": "c88c510a80774514c6285f5d6812c1c35c3f2064485e8b89e823eb33ed2d6afe",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Maofeng_%28medium_grade%2C_spring_2007%29.jpg",
+      "query": "File:Maofeng (medium grade, spring 2007).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/8e9310e7465a4a5888836cf13f936dfd.response.gz",
+      "responseSha256": "4b0fbdc7dad0bf43778be56e077946c058c17c67aa138af073c985b67e59ec2a",
+      "compressedSha256": "b2337e58aa62235057bb78e9acdd99c5f19ff041caee8379ddc1d7f51e3e3282",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Keemun_FTGFOP_%281%29.JPG",
+      "query": "File:Keemun FTGFOP (1).JPG original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/fe4221c5f0734634b55607aeabeb8c5a.response.gz",
+      "responseSha256": "25a4d24f2583ddeb3c48d251ec80d68b59c7c558458dcfec3672f5bfb0807b95",
+      "compressedSha256": "43a25e2bf8d2cf1950c71f2b392695209e9d400ea029b1a0466b576f2d8668f0",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Qimen_Hao_Ya.jpg",
+      "query": "File:Qimen Hao Ya.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/9e353af5eb6b44b4ad1640586653cba4.response.gz",
+      "responseSha256": "3914795da4803bdb2722c64e12a35ed54436170cfb788a764e1b3efbfb23bb9b",
+      "compressedSha256": "d2c0fb3c56bf1b374b1261a782d920276f8cb12abf7c41dd9fc5a9f00cb7b26b",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PigCake.jpg",
+      "query": "File:PigCake.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/d48adc00fe3d40119890496c191f8723.response.gz",
+      "responseSha256": "5ba1f7760cdb0e83b478b71a84aff09e9afd944e77c2b6be594a3e7d00f58e89",
+      "compressedSha256": "34a095c35b655611d4239dcc476c9b891c489ae0291c8d3ba64deeb97ce20a31",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Taigubing.JPG",
+      "query": "File:Taigubing.JPG original photo for visual screening",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/222d97c466574771b01f2eea88bb26fb.response.gz",
+      "responseSha256": "555c5cfd649d0cfc32ce32fdfa49931dc1240a02b6ae8c187e81e70f095ec31e",
+      "compressedSha256": "f93ee18a9524673b20a751cc21cc99bc3202d28d2ef2e56a9e4dd3b9edf0e1ba",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "query": "File:京酱肉丝.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 429,
+      "error": "HTTP Error 429: Too Many Requests",
+      "retryAfter": "600",
+      "deferUntilEpoch": 1795239137.6589732,
+      "responseFile": "research/.local/china-photos-20261121-06/exact-name-originals/e274aba47e67410ea6d920359eba0541.response.gz",
+      "responseSha256": "2ad752b21db2ae2a8c9bc968a630dd63f5797e47b1c6dfc6a780cad2704462a7",
+      "compressedSha256": "aa7bd2b9288967119b2e5a00760b93339827a2f9715aad0270c70015011b4fed",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG",
+      "query": "File:宣化牛奶葡萄.JPG original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/HofanUpClose.jpg",
+      "query": "File:HofanUpClose.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Single_Dezhou_braised_chicken_wrapped_in_paper_%2820170115132902%29.jpg",
+      "query": "File:Single Dezhou braised chicken wrapped in paper (20170115132902).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Xinyang_Maojian.jpg",
+      "query": "File:Xinyang Maojian.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Datong_Fideos.jpg",
+      "query": "File:Datong Fideos.jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Laoyoufen_with_beef_at_Wanguo_Restaurant%2C_Nanning_%2820240216205412%29.jpg",
+      "query": "File:Laoyoufen with beef at Wanguo Restaurant, Nanning (20240216205412).jpg original photo for visual screening",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source.",
+      "journal": "research/.local/china-photos-20261121-06/exact-name-originals/requests.jsonl"
+    }
+  ]
+}

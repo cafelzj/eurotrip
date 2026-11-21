@@ -1,0 +1,177 @@
+{
+  "source": "research/.local/china-photos-20261121-05/wikidata-card-name-matches-03.json",
+  "note": "此前保存结构化索引的精确名称线索，只用于发现文件；逐源元数据、原图和地方版本仍须审核。",
+  "records": [
+    {
+      "itemId": "threeprov-01d707220781b35264",
+      "name": "鸡仔饼",
+      "province": "guangdong",
+      "matchedLabel": "鸡仔饼",
+      "wikidata": "http://www.wikidata.org/entity/Q10567040",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaizai%20crackers.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-fujian-b6afcd1c23",
+      "name": "荔枝肉",
+      "province": "fujian",
+      "matchedLabel": "荔枝肉",
+      "wikidata": "http://www.wikidata.org/entity/Q15895670",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Litchi%20Pork.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "program-4a0d974a2cd9c8d569",
+      "name": "荔枝肉",
+      "province": "fujian",
+      "matchedLabel": "荔枝肉",
+      "wikidata": "http://www.wikidata.org/entity/Q15895670",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Litchi%20Pork.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-fujian-d0f2839f50",
+      "name": "姜母鸭",
+      "province": "fujian",
+      "matchedLabel": "薑母鴨",
+      "wikidata": "http://www.wikidata.org/entity/Q17035821",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quanzhou-style%20Kiu%E2%81%BF-b%C3%B3-ah%20%28Ginger%20Duck%29%20at%20Yipin%20Xiangqing%20Restaurant%2C%20Beijing%20%2820240908174515%29.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "program-298e9e154a4bf2e2ee",
+      "name": "姜母鸭",
+      "province": "fujian",
+      "matchedLabel": "薑母鴨",
+      "wikidata": "http://www.wikidata.org/entity/Q17035821",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Quanzhou-style%20Kiu%E2%81%BF-b%C3%B3-ah%20%28Ginger%20Duck%29%20at%20Yipin%20Xiangqing%20Restaurant%2C%20Beijing%20%2820240908174515%29.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-shandong-8d625f695f",
+      "name": "甜沫",
+      "province": "shandong",
+      "matchedLabel": "甜沫",
+      "wikidata": "http://www.wikidata.org/entity/Q85882742",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%94%9C%E6%B2%AB%20202509.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-hubei-b1afd0a5db",
+      "name": "面窝",
+      "province": "hubei",
+      "matchedLabel": "麵窩",
+      "wikidata": "http://www.wikidata.org/entity/Q6827710",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mianwo.JPG",
+      "exact": true
+    },
+    {
+      "itemId": "ah-maofeng",
+      "name": "黄山毛峰",
+      "province": "anhui",
+      "matchedLabel": "黄山毛峰",
+      "wikidata": "http://www.wikidata.org/entity/Q1069679",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maofeng%20%28medium%20grade%2C%20spring%202007%29.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "ah-qimen",
+      "name": "祁门红茶",
+      "province": "anhui",
+      "matchedLabel": "祁门红茶",
+      "wikidata": "http://www.wikidata.org/entity/Q1376140",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keemun%20FTGFOP%20%281%29.JPG",
+      "exact": true
+    },
+    {
+      "itemId": "ah-qimen",
+      "name": "祁门红茶",
+      "province": "anhui",
+      "matchedLabel": "祁门红茶",
+      "wikidata": "http://www.wikidata.org/entity/Q1376140",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qimen%20Hao%20Ya.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "threeprov-b6063094fa6e8ba793",
+      "name": "猪仔饼",
+      "province": "guangxi",
+      "matchedLabel": "豬仔餅",
+      "wikidata": "http://www.wikidata.org/entity/Q2487163",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PigCake.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-shanxi-468ea651d5",
+      "name": "太谷饼",
+      "province": "shanxi",
+      "matchedLabel": "太谷餅",
+      "wikidata": "http://www.wikidata.org/entity/Q10941762",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taigubing.JPG",
+      "exact": true
+    },
+    {
+      "itemId": "bj-jingjiang",
+      "name": "京酱肉丝",
+      "province": "beijing",
+      "matchedLabel": "京酱肉丝",
+      "wikidata": "http://www.wikidata.org/entity/Q549081",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%AC%E9%85%B1%E8%82%89%E4%B8%9D.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "program-40c71ebeb7a42f3c93",
+      "name": "宣化牛奶葡萄",
+      "province": "hebei",
+      "matchedLabel": "宣化牛奶葡萄",
+      "wikidata": "http://www.wikidata.org/entity/Q10226473",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%A3%E5%8C%96%E7%89%9B%E5%A5%B6%E8%91%A1%E8%90%84.JPG",
+      "exact": true
+    },
+    {
+      "itemId": "threeprov-2654bf95617c1d5816",
+      "name": "沙河粉",
+      "province": "guangdong",
+      "matchedLabel": "沙河粉",
+      "wikidata": "http://www.wikidata.org/entity/Q877957",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HofanUpClose.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "sd-dezhou-chicken",
+      "name": "德州扒鸡",
+      "province": "shandong",
+      "matchedLabel": "德州扒鸡",
+      "wikidata": "http://www.wikidata.org/entity/Q10296519",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Single%20Dezhou%20braised%20chicken%20wrapped%20in%20paper%20%2820170115132902%29.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "flavor-henan-d69d3ba5aa",
+      "name": "信阳毛尖",
+      "province": "henan",
+      "matchedLabel": "信阳毛尖",
+      "wikidata": "http://www.wikidata.org/entity/Q10888066",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xinyang%20Maojian.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "program-83ceb06c8c4b57473b",
+      "name": "大同刀削面",
+      "province": "shanxi",
+      "matchedLabel": "大同刀削面",
+      "wikidata": "http://www.wikidata.org/entity/Q10934152",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Datong%20Fideos.jpg",
+      "exact": true
+    },
+    {
+      "itemId": "threeprov-a6597ace05e39fc299",
+      "name": "老友粉",
+      "province": "guangxi",
+      "matchedLabel": "老友粉",
+      "wikidata": "http://www.wikidata.org/entity/Q55285600",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laoyoufen%20with%20beef%20at%20Wanguo%20Restaurant%2C%20Nanning%20%2820240216205412%29.jpg",
+      "exact": true
+    }
+  ]
+}

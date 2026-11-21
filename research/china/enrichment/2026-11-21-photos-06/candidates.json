@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-21",
+  "candidates": [
+    {
+      "id": "fuzhou-litchi-pork",
+      "title": "Litchi Pork.jpg",
+      "itemIds": [
+        "flavor-fujian-b6afcd1c23"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/original-1.jpg",
+      "rawSha256": "6672bfd7bdfd1d760195154bd75f88f040cb91952418bc7658fc6598e8d691d6",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "Royal Shi",
+      "source": "https://commons.wikimedia.org/wiki/File:Litchi_Pork.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/44/Litchi_Pork.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "id": "quanzhou-ginger-duck",
+      "title": "Quanzhou-style Kiuⁿ-bó-ah (Ginger Duck) at Yipin Xiangqing Restaurant, Beijing (20240908174515).jpg",
+      "itemIds": [
+        "flavor-fujian-d0f2839f50"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/original-2.jpg",
+      "rawSha256": "7f31ee028562119c6c0dfb2499ba47d0edae108c0e92fa1b873fd8f561410777",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_(Ginger_Duck)_at_Yipin_Xiangqing_Restaurant%2C_Beijing_(20240908174515).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/47/Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_%28Ginger_Duck%29_at_Yipin_Xiangqing_Restaurant%2C_Beijing_%2820240908174515%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "jinan-tianmo",
+      "title": "甜沫 202509.jpg",
+      "itemIds": [
+        "flavor-shandong-8d625f695f"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/original-3.jpg",
+      "rawSha256": "b7e54b00d4d08288886844f3ea811f4a0358d82809502530399e072bab4b67c9",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "Steven Sun",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%94%9C%E6%B2%AB_202509.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E7%94%9C%E6%B2%AB_202509.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "wuhan-mianwo",
+      "title": "Mianwo.JPG",
+      "itemIds": [
+        "flavor-hubei-b1afd0a5db"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/original-4.jpg",
+      "rawSha256": "dd5b22b78c9e8b84b0ab70af9cb2593f87fa21d2fa14107bd5b380362148c0ce",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "ZhengZhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Mianwo.JPG",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mianwo.JPG",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "qimen-haoya-infusion",
+      "title": "Qimen Hao Ya.jpg",
+      "itemIds": [
+        "ah-qimen"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/original-7.jpg",
+      "rawSha256": "3914795da4803bdb2722c64e12a35ed54436170cfb788a764e1b3efbfb23bb9b",
+      "metadataFile": "research/.local/china-photos-20261121-06/exact-name-metadata/87996f286f7143588d004ea086d455a7.response.gz",
+      "metadataSha256": "941c8b623c1a3abd16fd1fb0c276a5722d41221540a6f0b800d9bb66230e5249",
+      "author": "Laubrau",
+      "source": "https://commons.wikimedia.org/wiki/File:Qimen_Hao_Ya.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Qimen_Hao_Ya.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

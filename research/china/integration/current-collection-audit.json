@@ -8,8 +8,8 @@
   "verifiedFlavors": 6497,
   "unifiedChinaCards": 6627,
   "retainedPhotoCards": 67,
-  "canonicalChinaPhotoCards": 307,
-  "canonicalChinaListPhotoCards": 294,
+  "canonicalChinaPhotoCards": 312,
+  "canonicalChinaListPhotoCards": 299,
   "enrichedChineseCards": 24,
   "reviewedReadingUpdates": [
     {
@@ -165,7 +165,7 @@
   "inputs": [
     {
       "path": "data/china-card-images.js",
-      "sha256": "66d32eca69614fc8375e0ad1b2f2684bbaacb4db2c3131ad2f21b220648b8b73"
+      "sha256": "a8a43f9ec09c2ae1ac613ff3a4b1412a375d797e38e95f697f345b915a9989f0"
     },
     {
       "path": "data/china-card-reading.js",

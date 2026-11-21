@@ -1542,3 +1542,43 @@ Source: https://www.flickr.com/photos/49215102@N00/1864469256
 License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 Original image URL: https://live.staticflickr.com/2319/1864469256_ce1796b8f0.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-fuzhou-litchi-pork.jpg
+
+Author: Royal Shi
+Source: https://commons.wikimedia.org/wiki/File:Litchi_Pork.jpg
+License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/44/Litchi_Pork.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-quanzhou-ginger-duck.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_(Ginger_Duck)_at_Yipin_Xiangqing_Restaurant%2C_Beijing_(20240908174515).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/47/Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_%28Ginger_Duck%29_at_Yipin_Xiangqing_Restaurant%2C_Beijing_%2820240908174515%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-jinan-tianmo.jpg
+
+Author: Steven Sun
+Source: https://commons.wikimedia.org/wiki/File:%E7%94%9C%E6%B2%AB_202509.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/d/d8/%E7%94%9C%E6%B2%AB_202509.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-wuhan-mianwo.jpg
+
+Author: ZhengZhou
+Source: https://commons.wikimedia.org/wiki/File:Mianwo.JPG
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/28/Mianwo.JPG
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-qimen-haoya-infusion.jpg
+
+Author: Laubrau
+Source: https://commons.wikimedia.org/wiki/File:Qimen_Hao_Ya.jpg
+License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/a/a5/Qimen_Hao_Ya.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

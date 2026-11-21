@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 307,
-    "withListPhoto": 294,
-    "missingRealPhoto": 6320,
-    "needsListPhoto": 6333
+    "withDetailPhoto": 312,
+    "withListPhoto": 299,
+    "missingRealPhoto": 6315,
+    "needsListPhoto": 6328
   },
   "byProvince": {
     "henan": {
@@ -30,8 +30,8 @@
     "hubei": {
       "cards": 395,
       "shortReadings": 205,
-      "missingRealPhoto": 394,
-      "needsListPhoto": 394
+      "missingRealPhoto": 393,
+      "needsListPhoto": 393
     },
     "hunan": {
       "cards": 351,
@@ -60,14 +60,14 @@
     "anhui": {
       "cards": 330,
       "shortReadings": 212,
-      "missingRealPhoto": 327,
-      "needsListPhoto": 327
+      "missingRealPhoto": 326,
+      "needsListPhoto": 326
     },
     "fujian": {
       "cards": 253,
       "shortReadings": 142,
-      "missingRealPhoto": 250,
-      "needsListPhoto": 250
+      "missingRealPhoto": 248,
+      "needsListPhoto": 248
     },
     "heilongjiang": {
       "cards": 212,
@@ -84,8 +84,8 @@
     "shandong": {
       "cards": 501,
       "shortReadings": 272,
-      "missingRealPhoto": 501,
-      "needsListPhoto": 501
+      "missingRealPhoto": 500,
+      "needsListPhoto": 500
     },
     "jilin": {
       "cards": 120,
@@ -3139,19 +3139,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-fujian-b6afcd1c23",
-      "name": "荔枝肉",
-      "province": "fujian",
-      "city": "福州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-fujian-d48e88d429",
       "name": "鼎边趖",
       "province": "fujian",
@@ -3520,19 +3507,6 @@
       "name": "通山粑砣",
       "province": "hubei",
       "city": "咸宁",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-hubei-b1afd0a5db",
-      "name": "面窝",
-      "province": "hubei",
-      "city": "武汉",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 48,
@@ -6961,19 +6935,6 @@
       "priority": 1
     },
     {
-      "itemId": "ah-qimen",
-      "name": "祁门红茶",
-      "province": "anhui",
-      "city": "黄山",
-      "category": "food",
-      "subcategory": "tea",
-      "readingCharacters": 51,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "depth-hebei-156a08d396",
       "name": "花生酥糖",
       "province": "hebei",
@@ -8404,19 +8365,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-fujian-d0f2839f50",
-      "name": "姜母鸭",
-      "province": "fujian",
-      "city": "泉州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 52,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-hebei-d3070d2d47",
       "name": "正定八大碗",
       "province": "hebei",
@@ -8902,19 +8850,6 @@
       "name": "赵先红豆腐皮",
       "province": "shandong",
       "city": "德州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 52,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-shandong-8d625f695f",
-      "name": "甜沫",
-      "province": "shandong",
-      "city": "济南",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,
@@ -82621,6 +82556,32 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-fujian-b6afcd1c23",
+      "name": "荔枝肉",
+      "province": "fujian",
+      "city": "福州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-hubei-b1afd0a5db",
+      "name": "面窝",
+      "province": "hubei",
+      "city": "武汉",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-45f4286741",
       "name": "常州芝麻糖",
       "province": "jiangsu",
@@ -82803,6 +82764,19 @@
       "priority": 3
     },
     {
+      "itemId": "ah-qimen",
+      "name": "祁门红茶",
+      "province": "anhui",
+      "city": "黄山",
+      "category": "food",
+      "subcategory": "tea",
+      "readingCharacters": 51,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-10f6f396d5",
       "name": "虾籽饺面",
       "province": "jiangsu",
@@ -82946,10 +82920,36 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-fujian-d0f2839f50",
+      "name": "姜母鸭",
+      "province": "fujian",
+      "city": "泉州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 52,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-8a5e336eda",
       "name": "连云港酒醉螃蟹",
       "province": "jiangsu",
       "city": "连云港",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 52,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-shandong-8d625f695f",
+      "name": "甜沫",
+      "province": "shandong",
+      "city": "济南",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 52,
