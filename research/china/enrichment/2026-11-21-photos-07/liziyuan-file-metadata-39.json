@@ -1,0 +1,11 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ALiziyuan+Sweet+Milk-20210508.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Actual named Liziyuan sweet milk photograph, author licence and original URL",
+      "itemIds": [
+        "zj-liziyuan"
+      ]
+    }
+  ]
+}

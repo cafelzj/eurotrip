@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bottled_Shaoxing_Huadiao_wine_at_a_supermarket_in_Beijing_%2820241109164450%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Inspect actual visible Shaoxing wine brand labels or wine ice cream, not infer specific brand from generic title: File:Bottled Shaoxing Huadiao wine at a supermarket in Beijing (20241109164450).jpg",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jarred_Shaoxing_wine_at_a_supermarket_in_Beijing_%2820241109164501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Inspect actual visible Shaoxing wine brand labels or wine ice cream, not infer specific brand from generic title: File:Jarred Shaoxing wine at a supermarket in Beijing (20241109164501).jpg",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Shaoxing_Rice_Wine%2C_Huadiao%2C_10ys%2C_bottle_and_glass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Inspect actual visible Shaoxing wine brand labels or wine ice cream, not infer specific brand from generic title: File:Shaoxing Rice Wine, Huadiao, 10ys, bottle and glass.jpg",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/%E4%BC%8A%E6%9B%BC%E9%BB%84%E9%85%92%E6%A3%92%E5%86%B0%EF%BC%88%E5%89%A5%E5%BC%80%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Inspect actual visible Shaoxing wine brand labels or wine ice cream, not infer specific brand from generic title: File:伊曼黄酒棒冰（剥开）.jpg",
+      "itemIds": []
+    }
+  ]
+}

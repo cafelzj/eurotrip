@@ -314,6 +314,23 @@
       "provider": "Wikimedia Commons",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "liziyuan-sweet-milk-2021",
+      "title": "Liziyuan Sweet Milk-20210508.jpg",
+      "itemIds": [
+        "zj-liziyuan"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/liziyuan40-original",
+      "rawSha256": "65c9e8c70806ad6fd61acfd1d4d53efcc0b757676760d4d4b143a34de8948ca1",
+      "metadataFile": "research/.local/china-photos-20261121-07/liziyuan-file-metadata-39/731b7db3d0c949c2b211fa27f8793cc4.response.gz",
+      "metadataSha256": "1e538aff4878748c61c6c1562f00f6cce943bdc533acf9e7400a2db4676bfe6e",
+      "author": "Shwangtianyuan",
+      "source": "https://commons.wikimedia.org/wiki/File:Liziyuan_Sweet_Milk-20210508.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/56/Liziyuan_Sweet_Milk-20210508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

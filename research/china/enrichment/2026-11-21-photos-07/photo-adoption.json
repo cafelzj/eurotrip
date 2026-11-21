@@ -304,6 +304,25 @@
       "metadataSha256": "79c7bac5747afdf6e6d718586bfb5b9f5b4b5553bbd93242e059d540778c62eb",
       "action": "newly-adopted-real-photo",
       "candidateId": "dezhou-sweet-sour-carp"
+    },
+    {
+      "itemId": "zj-liziyuan",
+      "itemName": "李子园甜牛奶饮料",
+      "assetId": "cn07-liziyuan-sweet-milk-2021",
+      "src": "assets/photos/china/cn07-liziyuan-sweet-milk-2021.jpg",
+      "derivativeSha256": "65b3321b1f16e60c3f2c39afec815a2adb784a43480330d73c347e4173c1936f",
+      "caption": "李子园甜牛奶饮料225mL瓶装实拍，摄于2021年。",
+      "reason": "作者原图题名明确李子园甜牛奶，实际瓶标可见李子园商标及225mL；为实体瓶装饮料手持照片，不是工厂外景或商品渲染图。保持含乳饮料定位，不称纯牛奶或金华工厂产地证明；历史包装与2021年拍摄日期如实保留。主体完整，瓶标清楚，背景无杂乱餐食和脚部。",
+      "source": "https://commons.wikimedia.org/wiki/File:Liziyuan_Sweet_Milk-20210508.jpg",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/liziyuan40-original",
+      "originalSha256": "65c9e8c70806ad6fd61acfd1d4d53efcc0b757676760d4d4b143a34de8948ca1",
+      "metadataFile": "research/.local/china-photos-20261121-07/liziyuan-file-metadata-39/731b7db3d0c949c2b211fa27f8793cc4.response.gz",
+      "metadataSha256": "1e538aff4878748c61c6c1562f00f6cce943bdc533acf9e7400a2db4676bfe6e",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "liziyuan-sweet-milk-2021"
     }
   ]
 }

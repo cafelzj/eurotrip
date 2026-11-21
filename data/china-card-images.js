@@ -7550,6 +7550,33 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "preserved",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-liziyuan-sweet-milk-2021": {
+      "file": "Liziyuan Sweet Milk-20210508.jpg",
+      "src": "assets/photos/china/cn07-liziyuan-sweet-milk-2021.jpg",
+      "width": 960,
+      "height": 1280,
+      "kind": "product",
+      "alt": "李子园甜牛奶饮料225mL瓶装实拍，摄于2021年。",
+      "caption": "李子园甜牛奶饮料225mL瓶装实拍，摄于2021年。",
+      "author": "Shwangtianyuan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Liziyuan_Sweet_Milk-20210508.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/56/Liziyuan_Sweet_Milk-20210508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "作者原图题名明确李子园甜牛奶，实际瓶标可见李子园商标及225mL；为实体瓶装饮料手持照片，不是工厂外景或商品渲染图。保持含乳饮料定位，不称纯牛奶或金华工厂产地证明；历史包装与2021年拍摄日期如实保留。主体完整，瓶标清楚，背景无杂乱餐食和脚部。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
     }
   },
   "cards": {
@@ -7841,7 +7868,8 @@ window.chinaCardImages = {
     "program-20bfb80b40219524a2": "cn07-xuemian-red-bean-puffs",
     "ah-mandarin-fish": "cn07-anhui-fermented-mandarin-fish",
     "flavor-shandong-9779a15053": "cn07-zhou-cun-sesame-shaobing",
-    "sd-carp": "cn07-dezhou-sweet-sour-carp"
+    "sd-carp": "cn07-dezhou-sweet-sour-carp",
+    "zj-liziyuan": "cn07-liziyuan-sweet-milk-2021"
   },
   "galleries": {}
 };

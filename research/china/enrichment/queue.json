@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 374,
-    "withListPhoto": 361,
-    "missingRealPhoto": 6253,
-    "needsListPhoto": 6266
+    "withDetailPhoto": 375,
+    "withListPhoto": 362,
+    "missingRealPhoto": 6252,
+    "needsListPhoto": 6265
   },
   "byProvince": {
     "henan": {
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 350,
-      "needsListPhoto": 350
+      "missingRealPhoto": 349,
+      "needsListPhoto": 349
     },
     "anhui": {
       "cards": 330,
@@ -16782,19 +16782,6 @@
       "city": "赣州",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 62,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "zj-liziyuan",
-      "name": "李子园甜牛奶饮料",
-      "province": "zhejiang",
-      "city": "金华",
-      "category": "food",
-      "subcategory": "drinks",
       "readingCharacters": 62,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83082,6 +83069,19 @@
       "city": "梅州",
       "category": "food",
       "subcategory": "dishes",
+      "readingCharacters": 62,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "zj-liziyuan",
+      "name": "李子园甜牛奶饮料",
+      "province": "zhejiang",
+      "city": "金华",
+      "category": "food",
+      "subcategory": "drinks",
       "readingCharacters": 62,
       "readingStatus": "needs-expansion",
       "readingBatch": null,

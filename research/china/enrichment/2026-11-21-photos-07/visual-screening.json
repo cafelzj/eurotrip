@@ -84,6 +84,10 @@
     {
       "file": "research/.local/china-photos-20261121-07/national33-review-5.jpg",
       "sha256": "f7692a7b73615d7b8144b9b1302226a8d2b6fb6883bf4ad981d5905f1e5d8512"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/liziyuan40-review.jpg",
+      "sha256": "c8ecb32fd4f982a1e24ba35ca831df5bdd25183fcee58e5188caccc8001e9cab"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

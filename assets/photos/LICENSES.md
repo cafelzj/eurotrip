@@ -2078,3 +2078,11 @@ Source: https://commons.wikimedia.org/wiki/File:%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B
 License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/57/%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC2024%EF%BC%88%E5%BE%B7%E5%B7%9E%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-liziyuan-sweet-milk-2021.jpg
+
+Author: Shwangtianyuan
+Source: https://commons.wikimedia.org/wiki/File:Liziyuan_Sweet_Milk-20210508.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/56/Liziyuan_Sweet_Milk-20210508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
