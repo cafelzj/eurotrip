@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 340,
-    "withListPhoto": 327,
-    "missingRealPhoto": 6287,
-    "needsListPhoto": 6300
+    "withDetailPhoto": 343,
+    "withListPhoto": 330,
+    "missingRealPhoto": 6284,
+    "needsListPhoto": 6297
   },
   "byProvince": {
     "henan": {
@@ -36,8 +36,8 @@
     "hunan": {
       "cards": 351,
       "shortReadings": 215,
-      "missingRealPhoto": 349,
-      "needsListPhoto": 349
+      "missingRealPhoto": 348,
+      "needsListPhoto": 348
     },
     "jiangsu": {
       "cards": 505,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 354,
-      "needsListPhoto": 354
+      "missingRealPhoto": 353,
+      "needsListPhoto": 353
     },
     "anhui": {
       "cards": 330,
@@ -138,8 +138,8 @@
     "sichuan": {
       "cards": 573,
       "shortReadings": 358,
-      "missingRealPhoto": 558,
-      "needsListPhoto": 564
+      "missingRealPhoto": 557,
+      "needsListPhoto": 563
     },
     "guizhou": {
       "cards": 203,
@@ -20611,19 +20611,6 @@
       "priority": 1
     },
     {
-      "itemId": "sw-bae9fd9ecd8a7152c8",
-      "name": "龙抄手",
-      "province": "sichuan",
-      "city": "成都",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 70,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sw-e984d08054f9d4be54",
       "name": "花溪牛肉粉",
       "province": "guizhou",
@@ -21941,19 +21928,6 @@
       "name": "阳新布贴",
       "province": "hubei",
       "city": "黄石",
-      "category": "food",
-      "subcategory": "crafts",
-      "readingCharacters": 73,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "regional-80148cd3b298b0",
-      "name": "乐清黄杨木雕",
-      "province": "zhejiang",
-      "city": "温州",
       "category": "food",
       "subcategory": "crafts",
       "readingCharacters": 73,
@@ -32889,19 +32863,6 @@
       "city": "黄冈",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 106,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-3d19906a32010c24fb",
-      "name": "毛氏红烧肉",
-      "province": "hunan",
-      "city": "湘潭",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 106,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83596,6 +83557,19 @@
       "priority": 3
     },
     {
+      "itemId": "sw-bae9fd9ecd8a7152c8",
+      "name": "龙抄手",
+      "province": "sichuan",
+      "city": "成都",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 70,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "regional-d21561c3928cab",
       "name": "嵊州竹编",
       "province": "zhejiang",
@@ -83678,6 +83652,19 @@
       "name": "南通蓝印花布",
       "province": "jiangsu",
       "city": "南通",
+      "category": "food",
+      "subcategory": "crafts",
+      "readingCharacters": 73,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "regional-80148cd3b298b0",
+      "name": "乐清黄杨木雕",
+      "province": "zhejiang",
+      "city": "温州",
       "category": "food",
       "subcategory": "crafts",
       "readingCharacters": 73,
@@ -84486,6 +84473,19 @@
       "city": "湖州",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 106,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-3d19906a32010c24fb",
+      "name": "毛氏红烧肉",
+      "province": "hunan",
+      "city": "湘潭",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 106,
       "readingStatus": "needs-expansion",
       "readingBatch": null,

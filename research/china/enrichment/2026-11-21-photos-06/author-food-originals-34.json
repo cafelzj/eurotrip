@@ -1,0 +1,25 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2015/01/pork-floss-19.webp",
+      "query": "Actual full recipe image for visual review https://www.chinasichuanfood.com/homemade-meat-floss/",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2015/07/red-oil-wonton-7.jpg",
+      "query": "Actual full recipe image for visual review https://www.chinasichuanfood.com/red-oil-wonton/",
+      "itemIds": [
+        "sw-bae9fd9ecd8a7152c8"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/red-braised-pork-belly/",
+      "query": "Read original Mao red-braised pork recipe and actual images, not mixed versions",
+      "itemIds": [
+        "program-3d19906a32010c24fb"
+      ]
+    }
+  ]
+}

@@ -1806,3 +1806,27 @@ Source: https://world.openfoodfacts.org/product/6901209200182
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 Original image URL: https://images.openfoodfacts.org/images/products/690/120/920/0182/front_en.3.full.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码；未生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-maoshi-pork.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/red-braised-pork-belly/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2021/05/chairman-maos-red-braised-pork-b-2.webp
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-red-oil-chaoshou.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/red-oil-wonton/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2015/07/red-oil-wonton-7.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-yueqing-boxwood-su-wu.jpg
+
+Author: 三猎
+Source: https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/4/4d/%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

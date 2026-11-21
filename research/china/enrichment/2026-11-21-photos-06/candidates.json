@@ -643,6 +643,82 @@
         "originalSha256": "13d4d1930e2e752dad317bde9ef72d9a5615767cba3fc44b9e4624a39b6eb3e0",
         "termsJournal": "research/.local/china-photos-20261121-06/bright-alternative-originals-26/requests.jsonl"
       }
+    },
+    {
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "id": "csf-maoshi-pork",
+      "title": "毛氏红烧肉家常实拍",
+      "itemIds": [
+        "program-3d19906a32010c24fb"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/mao-original.webp",
+      "rawSha256": "96f7a9d5fb49161c06a1ffe978b405bde56449ec1173c3e3d328b836c9bffbda",
+      "metadataFile": "research/.local/china-photos-20261121-06/author-food-originals-34/9e107f0daa7d41d59b05f898fad936e9.response.gz",
+      "metadataSha256": "eeb4355e66817e74c8e5a326d874b0ee753fa5e63231e11fbdbe5871d00b96da",
+      "source": "https://www.chinasichuanfood.com/red-braised-pork-belly/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2021/05/chairman-maos-red-braised-pork-b-2.webp"
+    },
+    {
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "id": "csf-red-oil-chaoshou",
+      "title": "龙抄手家常实拍",
+      "itemIds": [
+        "sw-bae9fd9ecd8a7152c8"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/author-original-1",
+      "rawSha256": "f34119889979c78fb755dc1e19347ae18b820cd1d6195d0d2ee542c35f93483d",
+      "metadataFile": "research/.local/china-photos-20261121-06/author-exact-dish-followup-31/f3cdfd99b2d84e838cd25ead8c188b9a.response.gz",
+      "metadataSha256": "75fe4ac855f16f6c54e680633c71e4a458c37b0ead59efb1b8f945d7e3f1695d",
+      "source": "https://www.chinasichuanfood.com/red-oil-wonton/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2015/07/red-oil-wonton-7.jpg"
+    },
+    {
+      "id": "yueqing-boxwood-su-wu",
+      "title": "清朱子常黄杨木雕——苏武牧羊.jpg",
+      "itemIds": [
+        "regional-80148cd3b298b0"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/craft-original-6",
+      "rawSha256": "5513131b0f5ec98f76c11ce3e171efb5eb4cddde7b9fd194aa4637c613e883cf",
+      "metadataFile": "research/.local/china-photos-20261121-06/jzy-commons-exact-search-30/bc4e6f84c4db420eb70de199d9279548.response.gz",
+      "metadataSha256": "e4acbad22cb990baff995fe67e80c00ae1545e36f4256ca47ccfdb9df2c513eb",
+      "author": "三猎",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "supportingEvidence": {
+        "url": "https://www.ihchina.cn/project_details/14024",
+        "query": "Original national intangible heritage page links Zhu Zichang to Yueqing boxwood carving tradition; do not infer birthplace from craft listing",
+        "itemIds": [
+          "regional-80148cd3b298b0"
+        ],
+        "status": "saved",
+        "responseFile": "research/.local/china-photos-20261121-06/article-file-and-craft-context-36/f62518751ef747328e72eeadd969fa5c.response.gz",
+        "responseSha256": "1eaa2d66b49bf126b29631553112b3a6f704bd75778e035d6e5d10158b30cdb8",
+        "compressedSha256": "1f412ec904a15741dcabf38a7f863f3b6d096dbd988b67562794db05be93cc4d"
+      }
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Morella+rubra&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Morella rubra bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Eriobotrya+japonica&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Eriobotrya japonica bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Prunus+persica&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Prunus persica bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Diospyros+kaki&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Diospyros kaki bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Trapa+natans&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Trapa natans bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Euryale+ferox&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Euryale ferox bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Brasenia+schreberi&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Brasenia schreberi bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    },
+    {
+      "url": "https://api.inaturalist.org/v1/observations?taxon_name=Castanea+mollissima&photos=true&photo_license=cc0%2Ccc-by%2Ccc-by-sa%2Ccc-by-nc%2Ccc-by-nc-sa%2Ccc-by-nd%2Ccc-by-nc-nd&quality_grade=casual%2Cneeds_id%2Cresearch&swlat=27&swlng=116&nelat=35.5&nelng=123.2&per_page=100&order_by=votes",
+      "query": "Castanea mollissima bounded JZY pilot without incomplete fruit annotation; require actual fruit and corresponding county, never generic species substitution",
+      "itemIds": []
+    }
+  ]
+}

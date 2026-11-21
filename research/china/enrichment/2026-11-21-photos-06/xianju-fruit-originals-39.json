@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393899133/original.jpeg",
+      "query": "iNaturalist observation222369839 actual Xianju Morella rubra photograph; inspect fruit not ornamental foliage",
+      "itemIds": [
+        "regional-0f9a12585365c8"
+      ]
+    },
+    {
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/393900038/original.jpeg",
+      "query": "iNaturalist observation222369839 actual Xianju Morella rubra photograph; inspect fruit not ornamental foliage",
+      "itemIds": [
+        "regional-0f9a12585365c8"
+      ]
+    }
+  ]
+}

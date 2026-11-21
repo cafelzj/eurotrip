@@ -306,6 +306,35 @@
       "reason": "已逐幅查看原始上传及所选正面，标签清楚写FRESH MILK与优倍；并非另一个候选的零乳糖调制乳，也不是常温纯牛奶。完整纸盒与简洁木纹背景，保留旧包装及历史营养标示，不据此宣称现款配方或上海加工厂。",
       "kind": "product",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "program-3d19906a32010c24fb",
+      "itemName": "毛氏红烧肉",
+      "candidateId": "csf-maoshi-pork",
+      "caption": "毛氏红烧肉家常成品实拍，保留原作者水印。",
+      "reason": "已读原文直接介绍毛氏红烧肉，区分糖色、干辣椒等做法与另一篇混合版本。成品五花肉层次、油亮红汁清楚，画面整洁且自然，不使用通用上海红烧肉冒充。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "sw-bae9fd9ecd8a7152c8",
+      "itemName": "龙抄手",
+      "candidateId": "csf-red-oil-chaoshou",
+      "caption": "川味红油抄手家常成品示例，并非龙抄手门店出品。",
+      "reason": "现有卡片按食品品类记录，与门店品牌分开；原文明确红油抄手及四川做法，实拍馄饨、红油、葱花主体清楚。作为同类家常菜品实拍采用，图注明确不是龙抄手门店照片，不据此证明该店配方。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "regional-80148cd3b298b0",
+      "itemName": "乐清黄杨木雕",
+      "candidateId": "yueqing-boxwood-su-wu",
+      "caption": "温州博物馆藏朱子常黄杨木雕《苏武牧羊》，2017年实拍。",
+      "reason": "已读国家非遗网乐清黄杨木雕原文，明确将朱子常列入该工艺发展脉络；摄影者注明作品、作者及温州博物馆藏。全幅木雕实物清晰，木纹、衣褶和羊的造型可辨；这是馆藏作品摄影，不是模型制作场景，也不推定作者出生于乐清。",
+      "kind": "product",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -415,6 +444,10 @@
     {
       "candidateId": "CSF-Chinese-sausage-variants",
       "reason": "两篇已读原文包含广式甜味与川鄂麻辣等不同香肠版本；尚未找到与单张照片明确对应的广式版本，不把混合或湖北麻辣图用于广式腊肠。"
+    },
+    {
+      "candidate": "article-photo-originals-37",
+      "reason": "已查看旺鸡蛋摊位及芡实糕全幅：前者偏暗且台面杂景，后者有明显阴影、零碎包装且没有西塘拍摄证明，不采用。湖笔博物馆候选是门面与展厅入口，不当成湖笔产品。"
     }
   ]
 }

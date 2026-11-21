@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ABlack_Cooked_Rice.jpg%7CFile%3A%E6%97%A0%E9%94%A1%E5%A4%AA%E6%B9%96%E9%93%B6%E9%B1%BC.jpg%7CFile%3A%E8%8A%A1%E5%AE%9E%E7%B3%95.jpg%7CFile%3AW%C3%A0ng_j%C4%ABd%C3%A0n.jpg%7CFile%3A%E7%A6%8F%E9%BC%8E%E8%82%89%E7%89%87.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Actual article file licenses, authors and location descriptions; generic dish is not county product verification",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2021/05/chairman-maos-red-braised-pork-b-2.webp",
+      "query": "Specific Mao-style pork full original photo after reading corresponding recipe",
+      "itemIds": [
+        "program-3d19906a32010c24fb"
+      ]
+    },
+    {
+      "url": "https://www.ihchina.cn/project_details/14024",
+      "query": "Original national intangible heritage page links Zhu Zichang to Yueqing boxwood carving tradition; do not infer birthplace from craft listing",
+      "itemIds": [
+        "regional-80148cd3b298b0"
+      ]
+    }
+  ]
+}

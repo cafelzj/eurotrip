@@ -204,6 +204,18 @@
     {
       "file": "research/.local/china-photos-20261121-06/bright-front-review-1.jpg",
       "sha256": "be0948663793a6afca68acebaddcca42409103a9b03b1b521356aa676ef4cf58"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/mao-review.jpg",
+      "sha256": "f47aca2c57c439cef75f4bfe5e1fa035d53c5839a1020871220de633f233b68a"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/author-review-1.jpg",
+      "sha256": "e3a5a92b29945bf4fbadc90f00635f30b8c6002b62e71870f477f7f3300a20ed"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/craft-review-6.jpg",
+      "sha256": "2acbb0edbcde56f259f0fbc62982d4cfa8bf3689d626748721bc6fdaaaf1c786"
     }
   ],
   "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"

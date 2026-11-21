@@ -6566,6 +6566,99 @@ window.chinaCardImages = {
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
       "fit": "contain"
+    },
+    "cn06-csf-maoshi-pork": {
+      "file": "毛氏红烧肉家常实拍",
+      "src": "assets/photos/china/cn06-csf-maoshi-pork.jpg",
+      "width": 854,
+      "height": 1280,
+      "kind": "food",
+      "alt": "毛氏红烧肉家常成品实拍，保留原作者水印。",
+      "caption": "毛氏红烧肉家常成品实拍，保留原作者水印。",
+      "author": "Elaine / China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "source": "https://www.chinasichuanfood.com/red-braised-pork-belly/",
+      "originalSrc": "https://www.chinasichuanfood.com/wp-content/uploads/2021/05/chairman-maos-red-braised-pork-b-2.webp",
+      "provider": "China Sichuan Food",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-06",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已读原文直接介绍毛氏红烧肉，区分糖色、干辣椒等做法与另一篇混合版本。成品五花肉层次、油亮红汁清楚，画面整洁且自然，不使用通用上海红烧肉冒充。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "useConditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+    },
+    "cn06-csf-red-oil-chaoshou": {
+      "file": "龙抄手家常实拍",
+      "src": "assets/photos/china/cn06-csf-red-oil-chaoshou.jpg",
+      "width": 650,
+      "height": 975,
+      "kind": "food",
+      "alt": "川味红油抄手家常成品示例，并非龙抄手门店出品。",
+      "caption": "川味红油抄手家常成品示例，并非龙抄手门店出品。",
+      "author": "Elaine / China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "source": "https://www.chinasichuanfood.com/red-oil-wonton/",
+      "originalSrc": "https://www.chinasichuanfood.com/wp-content/uploads/2015/07/red-oil-wonton-7.jpg",
+      "provider": "China Sichuan Food",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-06",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "现有卡片按食品品类记录，与门店品牌分开；原文明确红油抄手及四川做法，实拍馄饨、红油、葱花主体清楚。作为同类家常菜品实拍采用，图注明确不是龙抄手门店照片，不据此证明该店配方。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "useConditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+    },
+    "cn06-yueqing-boxwood-su-wu": {
+      "file": "清朱子常黄杨木雕——苏武牧羊.jpg",
+      "src": "assets/photos/china/cn06-yueqing-boxwood-su-wu.jpg",
+      "width": 960,
+      "height": 639,
+      "kind": "product",
+      "alt": "温州博物馆藏朱子常黄杨木雕《苏武牧羊》，2017年实拍。",
+      "caption": "温州博物馆藏朱子常黄杨木雕《苏武牧羊》，2017年实拍。",
+      "author": "三猎",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%E6%B8%85%E6%9C%B1%E5%AD%90%E5%B8%B8%E9%BB%84%E6%9D%A8%E6%9C%A8%E9%9B%95%E2%80%94%E2%80%94%E8%8B%8F%E6%AD%A6%E7%89%A7%E7%BE%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-06",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "已读国家非遗网乐清黄杨木雕原文，明确将朱子常列入该工艺发展脉络；摄影者注明作品、作者及温州博物馆藏。全幅木雕实物清晰，木纹、衣褶和羊的造型可辨；这是馆藏作品摄影，不是模型制作场景，也不推定作者出生于乐清。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "fit": "contain"
     }
   },
   "cards": {
@@ -6823,7 +6916,10 @@ window.chinaCardImages = {
     "threeprov-6d7c55e58bfd184d65": "cn06-csf-cheung-fun",
     "flavor-anhui-44a26dcad2": "cn06-huainan-beef-soup",
     "sh-bright-yogurt": "cn06-bright-rushi-yogurt",
-    "sh-bright-milk": "cn06-bright-ubest-fresh-milk"
+    "sh-bright-milk": "cn06-bright-ubest-fresh-milk",
+    "program-3d19906a32010c24fb": "cn06-csf-maoshi-pork",
+    "sw-bae9fd9ecd8a7152c8": "cn06-csf-red-oil-chaoshou",
+    "regional-80148cd3b298b0": "cn06-yueqing-boxwood-su-wu"
   },
   "galleries": {}
 };
