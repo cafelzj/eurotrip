@@ -2086,3 +2086,19 @@ Source: https://commons.wikimedia.org/wiki/File:Liziyuan_Sweet_Milk-20210508.jpg
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/56/Liziyuan_Sweet_Milk-20210508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-zhangjiagang-container-port.jpg
+
+Author: Pierre Marshall
+Source: https://commons.wikimedia.org/wiki/File:Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/b5/Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-miaojiapo-chaogan.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant_(20201105150908).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg/960px-Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。

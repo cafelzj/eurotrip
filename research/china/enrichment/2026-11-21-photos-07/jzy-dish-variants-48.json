@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22pork%22+%22lotus+leaves%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"pork\" \"lotus leaves\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%B2%89%E8%92%B8%E8%82%89%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"粉蒸肉\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%91%B1%E5%8C%85%E7%83%A9%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"葱包烩\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22cong+bao%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"cong bao\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%BF%A1%E7%BF%A0%22+%22%E7%83%A7%E5%8D%96%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"翡翠\" \"烧卖\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Emerald%22+%22shumai%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"Emerald\" \"shumai\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22croaker%22+%22soup%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"croaker\" \"soup\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%9F%B9%E7%B2%89%E9%9D%A2%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"蟹粉面\" filetype:bitmap",
+      "itemIds": []
+    }
+  ]
+}

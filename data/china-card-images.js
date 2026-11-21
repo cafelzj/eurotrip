@@ -7577,6 +7577,58 @@ window.chinaCardImages = {
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
       "fit": "contain"
+    },
+    "cn07-zhangjiagang-container-port": {
+      "file": "Zhangjiagang win hanverky container terminal port 2024-04.jpg",
+      "src": "assets/photos/china/cn07-zhangjiagang-container-port.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "place",
+      "alt": "张家港永嘉集装箱码头实拍，摄于2024年4月。",
+      "caption": "张家港永嘉集装箱码头实拍，摄于2024年4月。",
+      "author": "Pierre Marshall",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确张家港永嘉集装箱码头、拍摄时间及楼顶视角，符合现有长江港城卡片介绍港口与沿江地理的内容。全幅码头堆场、集装箱与岸边起重机清楚，没有拿其他港口替代；照片不作为可供公众进入、现时吞吐量或游览线路证明。阴天天空保留自然色，不调色或补生成。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-miaojiapo-chaogan": {
+      "file": "Chaoganr at Miaojiapo Restaurant (20201105150908).jpg",
+      "src": "assets/photos/china/cn07-miaojiapo-chaogan.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "炒肝成品实拍，摄于2020年。",
+      "caption": "炒肝成品实拍，摄于2020年。",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant_(20201105150908).jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg/960px-Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "复核第三批已保存的苗家坡炒肝照片及完整作者许可元数据，菜名明确，肠段、肝片、蒜粒与稠芡清楚，白碗成品占主要画面。相比同批溢出碗沿的照片构图更整洁，不把包子列作炒肝原料。使用此前留存的Wikimedia 960px全幅公开缩图，不放大，不冒称已重新下载完整原分辨率文件；不引用旧价签作现价。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -7869,7 +7921,9 @@ window.chinaCardImages = {
     "ah-mandarin-fish": "cn07-anhui-fermented-mandarin-fish",
     "flavor-shandong-9779a15053": "cn07-zhou-cun-sesame-shaobing",
     "sd-carp": "cn07-dezhou-sweet-sour-carp",
-    "zj-liziyuan": "cn07-liziyuan-sweet-milk-2021"
+    "zj-liziyuan": "cn07-liziyuan-sweet-milk-2021",
+    "local-zhangjiagang-culture": "cn07-zhangjiagang-container-port",
+    "bj-chaogan": "cn07-miaojiapo-chaogan"
   },
   "galleries": {}
 };

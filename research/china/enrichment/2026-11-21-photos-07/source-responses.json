@@ -953,6 +953,312 @@
       "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
       "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
       "journal": "research/.local/china-photos-20261121-07/translated-food-aliases-41/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E8%8B%8F%E5%B7%9E%E8%9F%B9%E7%B2%89%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Inspect actual Suzhou crab roe noodle preparation as explicitly labelled same-dish Jiangnan example; not Shanghai restaurant proof",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/crab-noodles-original-50/8a107fb41fd54affa16a55cafc4ed2d4.response.gz",
+      "responseSha256": "dd53766ea594305968a3fb2f1fd1b6b7aa5da2c8df0d2e80de2b24944e62d076",
+      "compressedSha256": "18eb8d3cfce9693bc9824ef37cba800a1753492e0c655286b56d9c7f0009f870",
+      "journal": "research/.local/china-photos-20261121-07/crab-noodles-original-50/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Wufangzhai%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Wufangzhai\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/be07b24b73ff4c6da1a7d83f80514919.response.gz",
+      "responseSha256": "743e585547d693473d97cde88482e05dfaa068e55141bbe0e1c02358aa54e870",
+      "compressedSha256": "8d634a892e785cca8c3ee5f4a95f03e7d75fb260064d0954a74516465ff90754",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BA%94%E8%8A%B3%E9%BD%8B%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"五芳齋\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/8d1cf65f7b7f4c10bba54dd64ef344fc.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%A1%9B%E5%B4%97%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"衛崗\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/242a510659574a59a264d0a826dfbb6c.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%B8%80%E9%B3%B4%22+%22%E5%A5%B6%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"一鳴\" \"奶\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/ed1b7b8adba64eebbec343ec96960704.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22V+V%22+%22soy%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"V V\" \"soy\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/7605402f0a554878b200c371d15a20dc.response.gz",
+      "responseSha256": "e616e8fa8267cf1c0a90a08a68df0752b6c5d495e6fcbd4f9e75855a9b05721d",
+      "compressedSha256": "64257c78be4cdcc63617a51f1b57a736ab92240d07abd6e5fcae408483453e68",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%BB%B4%E7%BB%B4%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"维维\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/ee8a668cdb2840ee8a4927d34b67ba51.response.gz",
+      "responseSha256": "9bed3fe0d1251bfe2eedcdc28add8d523e1386d47e564703ee72045e4893ca7a",
+      "compressedSha256": "ff90562d886818f45e40b4758c1c9c46f25f8432bef9db9da5082486d584c8a2",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Yiming%22+%22milk%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Yiming\" \"milk\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/e536566df7b4410c8e2f304c5c43c2eb.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Shuangfeng%22+%22milk%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Shuangfeng\" \"milk\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/7d6cefd5d214466186987f49239a50ea.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-beverage-brand-aliases-52/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%A4%A7%E6%B6%A6%E5%8F%91%22+%22%E8%8B%8F%E5%B7%9E%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"大润发\" \"苏州\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/3782fbaad67b4e569b774743840fd4ab.response.gz",
+      "responseSha256": "2b0f60be7e9fa387c3fa3c119815503815bcdfeece77785976562ca7f6824b70",
+      "compressedSha256": "d1fe67183b994fa2877ada165cadc810e28782e0dd491919be3e31087aabec17",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%A4%A7%E6%BD%A4%E7%99%BC%22+%22%E7%84%A1%E9%8C%AB%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"大潤發\" \"無錫\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/30307c885c7e41e4bd5228fad73eb7c1.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22RT-Mart%22+%22Xuzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"RT-Mart\" \"Xuzhou\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/ab668bfaed624f65a036a81a56d6594f.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Hema%22+%22Suzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Hema\" \"Suzhou\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/2acbd370fe19482f95a9e920259bd09f.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Sam%22+%22Suzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Sam\" \"Suzhou\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/3c5748a92bde42da8f07333305540553.response.gz",
+      "responseSha256": "9ad12b6927008e8da296677b32b86f46cf6b8e87b89dda4ca34f9dd8d6bc1b12",
+      "compressedSha256": "ef92124a4dcefe8e366dfb460fb40447b0a75c3530aa0ae97c5cc922aeaacf45",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Zhangjiagang%22+%22port%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Zhangjiagang\" \"port\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/e2615010a0e04a43960980cd73792f72.response.gz",
+      "responseSha256": "b7d4b1338e9de96ccc99a37453f5777885eff5983737f4e7f4d7b4547856cd53",
+      "compressedSha256": "d90e1d92f3f4151e8388bb0b022dce752b1eaff73ae58bcd8ac5b71f0b5bb9ca",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Pizhou%22+%22ginkgo%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Pizhou\" \"ginkgo\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/b8be713625e14cfc8571df8dcb4ebb93.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Wuxi%22+%22textile%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Wuxi\" \"textile\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/c143159db77d420593a944dc85a11667.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rt-Mart_Suzhou_Donghuan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original photo of actual Suzhou RT-Mart exterior or Zhangjiagang container port for corresponding existing store-finding/local-culture card; no food substitution",
+      "itemIds": [
+        "brand-suzhou-rtmart"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-originals-55/f4f1cb5b163c46bd89a9c134e9b44987.response.gz",
+      "responseSha256": "ab5819f60a288c9b357536e49da18edf3e03af4570692699af471f6a1cf222ab",
+      "compressedSha256": "8f25ab7cd3ae8347884512f42b6484f27492cec37d3b45193be57943715fd969",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-originals-55/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original photo of actual Suzhou RT-Mart exterior or Zhangjiagang container port for corresponding existing store-finding/local-culture card; no food substitution",
+      "itemIds": [
+        "local-zhangjiagang-culture"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-city-originals-55/913fd14d1c104bd185ff888e09366046.response.gz",
+      "responseSha256": "bf3e8d4302c1e0f207587ac0ed9c1041a09f37c28b3699211b45d712a4f43505",
+      "compressedSha256": "870d60582797fc1025a904553894e39c52e48c0b8d3dd7bd234930def6268272",
+      "journal": "research/.local/china-photos-20261121-07/jzy-city-originals-55/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22pork%22+%22lotus+leaves%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"pork\" \"lotus leaves\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/a0d2f1f38e024f78b345449ed747d43b.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%B2%89%E8%92%B8%E8%82%89%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"粉蒸肉\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/c6fb94925aaf41828d1eff2351eca911.response.gz",
+      "responseSha256": "857e3858d191f4ccd0443b2d7d522586d218aa2d2a55e0dea0075a684c99d841",
+      "compressedSha256": "5b5866594474275dc18b3e0dc53ea337eccf484e3a1ef406bda4c1dc82ee82f3",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%91%B1%E5%8C%85%E7%83%A9%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"葱包烩\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/1ac49bc34a554b80aceb308ebe98087e.response.gz",
+      "responseSha256": "47a1898cccaaa3d2de4a0747e3ad3e5c6f1f3256c83688061ea174dedf46c918",
+      "compressedSha256": "7c874e199541c5b74d65922181296193754a9aab6cfb02f34fbbcce594a63432",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22cong+bao%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"cong bao\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/20c81d32e3f14267b477a06d6cadc913.response.gz",
+      "responseSha256": "e2a36394dffd9dac9fe9aceb2065e3e6a1970f389eb4db5db1810728cb7273cf",
+      "compressedSha256": "ea2fbb8a18820b8ecdf80fa6d82384c92efc7e86fb3191f7ce64b2d39a34ac3b",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%BF%A1%E7%BF%A0%22+%22%E7%83%A7%E5%8D%96%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"翡翠\" \"烧卖\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/024e43733e434956b21dca6615d6e2e0.response.gz",
+      "responseSha256": "7c0780cf73289db43a2657709efc5d40617c4cb2dc446934282ddd235dd96930",
+      "compressedSha256": "c63912c34655929a631746ec9b1af0868e3a81a38cf6331e22b09d193a442525",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Emerald%22+%22shumai%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"Emerald\" \"shumai\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/e1e7c59086784363b8095d7f82355a58.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22croaker%22+%22soup%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"croaker\" \"soup\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/ec705c7212e74759b5b750b8d9f4a8dd.response.gz",
+      "responseSha256": "b286a9a28df7528302b29a85398a1cb9edae528f26d501a03d0edea8920d8f01",
+      "compressedSha256": "48c27b13ff453f97dc6540442ea35e4afb9a894d409ee29341dbd5d087b26f72",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%9F%B9%E7%B2%89%E9%9D%A2%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=10&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Alternative dish/spelling/translated name JZY-focused search; inspect exact local preparation not just similar dish: \"蟹粉面\" filetype:bitmap",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/62c969cfb5d04bcc9a098377feaa84b6.response.gz",
+      "responseSha256": "34aefd70a7c2727a3f0d12691cf9ce75d1a0bac9f6fe22b6ffe8eefa69beaa54",
+      "compressedSha256": "bfea134764c4ee20d6e967090dd4dc1623638ba6cad02c0397aaa86947be276c",
+      "journal": "research/.local/china-photos-20261121-07/jzy-dish-variants-48/requests.jsonl"
+    },
+    {
+      "url": "https://matters.town/a/plxh7mvfnj60",
+      "query": "Read actual author travel/food original and per-article licence; do not assume the platform default applies; identify exact pictured dishes",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/matters-original-articles-44/85eccd919c854d5bae07def308778ed9.response.gz",
+      "responseSha256": "c912f93372850fb1b4568ac3d50df9d2f41b8c33fb08193e643cb6f070b25d2b",
+      "compressedSha256": "fe1705f28bef958e96f0f2c8d927175ef7e101934b90f30847861d651ee7cfe6",
+      "journal": "research/.local/china-photos-20261121-07/matters-original-articles-44/requests.jsonl"
+    },
+    {
+      "url": "https://matters.town/a/xj9jsoatxizr",
+      "query": "Read actual author travel/food original and per-article licence; do not assume the platform default applies; identify exact pictured dishes",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/matters-original-articles-44/ac0108d057124a00a1b5b809e2be91bc.response.gz",
+      "responseSha256": "5911392b690731f3db8590b50943749d17f07c79d5a9958fdf0b8fea22b3cf33",
+      "compressedSha256": "3870bbf8baac89d8d478e651f41af4a2ca5ca1bdf2734f6b0d4b6b6e90eec2b8",
+      "journal": "research/.local/china-photos-20261121-07/matters-original-articles-44/requests.jsonl"
+    },
+    {
+      "url": "https://matters.town/a/u7z9odmlo5b4",
+      "query": "Read actual author travel/food original and per-article licence; do not assume the platform default applies; identify exact pictured dishes",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/matters-original-articles-44/00140bd37c984ee8aabc47b6c7a96f31.response.gz",
+      "responseSha256": "a2c6a668a76935c16f14aba321c9250db8b494a06ae859d42ab05aef9f63317f",
+      "compressedSha256": "4e34b1f10f2056e175a81971fd92a9e14af95dbbdad29690502bed0d152e9a45",
+      "journal": "research/.local/china-photos-20261121-07/matters-original-articles-44/requests.jsonl"
     }
   ]
 }

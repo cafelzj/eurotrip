@@ -331,6 +331,40 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "zhangjiagang-container-port",
+      "title": "Zhangjiagang win hanverky container terminal port 2024-04.jpg",
+      "itemIds": [
+        "local-zhangjiagang-culture"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/city55-original-1",
+      "rawSha256": "bf3e8d4302c1e0f207587ac0ed9c1041a09f37c28b3699211b45d712a4f43505",
+      "metadataFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/e2615010a0e04a43960980cd73792f72.response.gz",
+      "metadataSha256": "d90e1d92f3f4151e8388bb0b022dce752b1eaff73ae58bcd8ac5b71f0b5bb9ca",
+      "author": "Pierre Marshall",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "miaojiapo-chaogan",
+      "title": "Chaoganr at Miaojiapo Restaurant (20201105150908).jpg",
+      "itemIds": [
+        "bj-chaogan"
+      ],
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-3afe2493ec80b589.jpg",
+      "rawSha256": "c82f5e5b6e8f9c86324589b1c84320097a0a0d13a5dd81fd80a031053077e926",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant_(20201105150908).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg/960px-Chaoganr_at_Miaojiapo_Restaurant_%2820201105150908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

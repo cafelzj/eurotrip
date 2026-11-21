@@ -323,6 +323,44 @@
       "metadataSha256": "1e538aff4878748c61c6c1562f00f6cce943bdc533acf9e7400a2db4676bfe6e",
       "action": "newly-adopted-real-photo",
       "candidateId": "liziyuan-sweet-milk-2021"
+    },
+    {
+      "itemId": "local-zhangjiagang-culture",
+      "itemName": "张家港 · 长江港城",
+      "assetId": "cn07-zhangjiagang-container-port",
+      "src": "assets/photos/china/cn07-zhangjiagang-container-port.jpg",
+      "derivativeSha256": "7e261b998eb204e2bbf6af4fb9ed5712351a38392695269db9b2b03c0f81e89e",
+      "caption": "张家港永嘉集装箱码头实拍，摄于2024年4月。",
+      "reason": "原作者明确张家港永嘉集装箱码头、拍摄时间及楼顶视角，符合现有长江港城卡片介绍港口与沿江地理的内容。全幅码头堆场、集装箱与岸边起重机清楚，没有拿其他港口替代；照片不作为可供公众进入、现时吞吐量或游览线路证明。阴天天空保留自然色，不调色或补生成。",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg",
+      "author": "Pierre Marshall",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/city55-original-1",
+      "originalSha256": "bf3e8d4302c1e0f207587ac0ed9c1041a09f37c28b3699211b45d712a4f43505",
+      "metadataFile": "research/.local/china-photos-20261121-07/jzy-city-card-photo-pilot-54/e2615010a0e04a43960980cd73792f72.response.gz",
+      "metadataSha256": "d90e1d92f3f4151e8388bb0b022dce752b1eaff73ae58bcd8ac5b71f0b5bb9ca",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "zhangjiagang-container-port"
+    },
+    {
+      "itemId": "bj-chaogan",
+      "itemName": "北京炒肝",
+      "assetId": "cn07-miaojiapo-chaogan",
+      "src": "assets/photos/china/cn07-miaojiapo-chaogan.jpg",
+      "derivativeSha256": "402522cc599c519c386fdf9e0525009fd7b92e8bbe1b8e682102b0dd68a4170c",
+      "caption": "炒肝成品实拍，摄于2020年。",
+      "reason": "复核第三批已保存的苗家坡炒肝照片及完整作者许可元数据，菜名明确，肠段、肝片、蒜粒与稠芡清楚，白碗成品占主要画面。相比同批溢出碗沿的照片构图更整洁，不把包子列作炒肝原料。使用此前留存的Wikimedia 960px全幅公开缩图，不放大，不冒称已重新下载完整原分辨率文件；不引用旧价签作现价。",
+      "source": "https://commons.wikimedia.org/wiki/File:Chaoganr_at_Miaojiapo_Restaurant_(20201105150908).jpg",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-3afe2493ec80b589.jpg",
+      "originalSha256": "c82f5e5b6e8f9c86324589b1c84320097a0a0d13a5dd81fd80a031053077e926",
+      "metadataFile": "research/.local/jiangzhehu-images-20261117-03/responses/28f741d8a4419a3aedd0.json",
+      "metadataSha256": "798716465726989ad48157597739888d0267de8e9f0738f4988234a7e07a3df2",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "miaojiapo-chaogan"
     }
   ]
 }

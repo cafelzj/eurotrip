@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%A4%A7%E6%B6%A6%E5%8F%91%22+%22%E8%8B%8F%E5%B7%9E%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"大润发\" \"苏州\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%A4%A7%E6%BD%A4%E7%99%BC%22+%22%E7%84%A1%E9%8C%AB%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"大潤發\" \"無錫\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22RT-Mart%22+%22Xuzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"RT-Mart\" \"Xuzhou\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Hema%22+%22Suzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Hema\" \"Suzhou\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Sam%22+%22Suzhou%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Sam\" \"Suzhou\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Zhangjiagang%22+%22port%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Zhangjiagang\" \"port\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Pizhou%22+%22ginkgo%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Pizhou\" \"ginkgo\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Wuxi%22+%22textile%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Existing non-food JZY cards, same-city shop exterior is appropriate only for store-finding card; actual identified local culture or port: \"Wuxi\" \"textile\" filetype:bitmap",
+      "itemIds": []
+    }
+  ]
+}

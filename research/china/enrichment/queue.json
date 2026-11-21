@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 375,
-    "withListPhoto": 362,
-    "missingRealPhoto": 6252,
-    "needsListPhoto": 6265
+    "withDetailPhoto": 377,
+    "withListPhoto": 364,
+    "missingRealPhoto": 6250,
+    "needsListPhoto": 6263
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 342,
-      "needsListPhoto": 342
+      "missingRealPhoto": 341,
+      "needsListPhoto": 341
     },
     "liaoning": {
       "cards": 306,
@@ -96,8 +96,8 @@
     "beijing": {
       "cards": 76,
       "shortReadings": 62,
-      "missingRealPhoto": 68,
-      "needsListPhoto": 68
+      "missingRealPhoto": 67,
+      "needsListPhoto": 67
     },
     "guangxi": {
       "cards": 302,
@@ -20006,19 +20006,6 @@
       "city": "北京",
       "category": "food",
       "subcategory": "drinks",
-      "readingCharacters": 69,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "bj-chaogan",
-      "name": "北京炒肝",
-      "province": "beijing",
-      "city": "北京",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 69,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -41714,19 +41701,6 @@
       "name": "睢宁 · 儿童画文化",
       "province": "jiangsu",
       "city": "徐州",
-      "category": "facts",
-      "subcategory": "facts",
-      "readingCharacters": 199,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "local-zhangjiagang-culture",
-      "name": "张家港 · 长江港城",
-      "province": "jiangsu",
-      "city": "苏州",
       "category": "facts",
       "subcategory": "facts",
       "readingCharacters": 199,
@@ -83310,6 +83284,19 @@
       "priority": 3
     },
     {
+      "itemId": "bj-chaogan",
+      "name": "北京炒肝",
+      "province": "beijing",
+      "city": "北京",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 69,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sw-e4625bc6ff85b3d267",
       "name": "川北凉粉",
       "province": "sichuan",
@@ -84734,6 +84721,19 @@
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 198,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "local-zhangjiagang-culture",
+      "name": "张家港 · 长江港城",
+      "province": "jiangsu",
+      "city": "苏州",
+      "category": "facts",
+      "subcategory": "facts",
+      "readingCharacters": 199,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Rt-Mart_Suzhou_Donghuan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original photo of actual Suzhou RT-Mart exterior or Zhangjiagang container port for corresponding existing store-finding/local-culture card; no food substitution",
+      "itemIds": [
+        "brand-suzhou-rtmart"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zhangjiagang_win_hanverky_container_terminal_port_2024-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full original photo of actual Suzhou RT-Mart exterior or Zhangjiagang container port for corresponding existing store-finding/local-culture card; no food substitution",
+      "itemIds": [
+        "local-zhangjiagang-culture"
+      ]
+    }
+  ]
+}

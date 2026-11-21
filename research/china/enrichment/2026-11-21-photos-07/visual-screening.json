@@ -88,6 +88,86 @@
     {
       "file": "research/.local/china-photos-20261121-07/liziyuan40-review.jpg",
       "sha256": "c8ecb32fd4f982a1e24ba35ca831df5bdd25183fcee58e5188caccc8001e9cab"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/city55-review-0.jpg",
+      "sha256": "566d067c32b5c4ee928e9237b73817b08b9a587890df41b2e911ca5fb30e76f7"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/city55-review-1.jpg",
+      "sha256": "7590d9bd3c591778dc76a3065cfcf0eb76e0996c344543871137cb79291ecacd"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/crab50-review.jpg",
+      "sha256": "c0c812874ecb43568f5a0de344d5f662d3f3d59f9ccfcd966cd634fb5719205f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-4.jpg",
+      "sha256": "170732190585f029ce5da382bc0ac539d5c3d44bbc6a45e5c93ec4b7886f8b69"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-16.jpg",
+      "sha256": "f027a787dbb08fb79254ad72b67a7c4472497518384e2eaaaa1f86aa6fee4005"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-30.jpg",
+      "sha256": "ffd93cddd788586ba476bf155613bf02db743dfaba3979f130884ef19312c1db"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-50.jpg",
+      "sha256": "edcd46b61701a930f2ab6611f12cbdcbe4fe41ee7c57af8d0b2571c2ea33f693"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-69.jpg",
+      "sha256": "b655d96ea5c566700e951fac2fb53f69ecd86177d0ac0b2fb34c6e7dd51c3e78"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-79.jpg",
+      "sha256": "821a663ffaddc498585278506c9d676a71fff4c9ab5606b4d36f8bf4f340b041"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-92.jpg",
+      "sha256": "559638efcdea442ac7a3fb227f4f0d9b98c99f57d577a8073348c5bccee7f378"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-106.jpg",
+      "sha256": "83c53b02218ce588c784ee944e721a4bac436609e003f8a150270b5c82c89465"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-113.jpg",
+      "sha256": "fb3e56fe5328eae60ea8bcf4113d0eb2f72ecdd8c783d6f9653b271531f98d41"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-237.jpg",
+      "sha256": "67e5086799f52c0ece2dcef42bf8358c6249bd1381d79c658dbcc5710fd0cdd1"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/prior-revisit-254.jpg",
+      "sha256": "49ff19f4324fa07cf46e921ce29411438e9cc010c5418d5881dfe2d0ab5efc50"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-46.jpg",
+      "sha256": "adfa802c5b95230bf16d43c096d70298acf0e82c0c68f34604afefe7f7f41653"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-47.jpg",
+      "sha256": "a146889ff0b991db617784ee33a29d107fdf58f6055e4dd4e5489e1f97e9a09f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-48.jpg",
+      "sha256": "0d79645f7fce1720a5c3e12537524946b2db785b320d9feb894ff82f202df6cc"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-49.jpg",
+      "sha256": "577671f34378589ffd4ef2eca8454f01b1057e9d9f248fbf2f6bba872d34da09"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-50.jpg",
+      "sha256": "42394db7ecbca084c37ee818ea409a1c59b4a73a937ca14c5c5cb079ef03b681"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/old03-review-168.jpg",
+      "sha256": "440d418569e4e2939b56b032ff31f7989665120a7fb4af335e2ff7eb216f1a41"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

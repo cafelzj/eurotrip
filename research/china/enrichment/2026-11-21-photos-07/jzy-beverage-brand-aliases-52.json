@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Wufangzhai%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Wufangzhai\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BA%94%E8%8A%B3%E9%BD%8B%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"五芳齋\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E8%A1%9B%E5%B4%97%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"衛崗\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%B8%80%E9%B3%B4%22+%22%E5%A5%B6%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"一鳴\" \"奶\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22V+V%22+%22soy%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"V V\" \"soy\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E7%BB%B4%E7%BB%B4%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"维维\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Yiming%22+%22milk%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Yiming\" \"milk\" filetype:bitmap",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22Shuangfeng%22+%22milk%22+filetype%3Abitmap&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "JZY named milk beverage or zongzi brand aliases, reject storefronts/logos or wrong products: \"Shuangfeng\" \"milk\" filetype:bitmap",
+      "itemIds": []
+    }
+  ]
+}
