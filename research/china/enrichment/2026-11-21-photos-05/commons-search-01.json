@@ -1,0 +1,355 @@
+{
+  "jobs": [
+    {
+      "query": "桂花鸡头米",
+      "itemIds": [
+        "flavor-jiangsu-222c2cf834"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "宁式鳝丝",
+      "itemIds": [
+        "flavor-zhejiang-025c794ff3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AE%81%E5%BC%8F%E9%B3%9D%E4%B8%9D+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "蛙鱼",
+      "itemIds": [
+        "flavor-jiangsu-70c2f71073"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%9B%99%E9%B1%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "徐州啥汤",
+      "itemIds": [
+        "flavor-jiangsu-f1fa272deb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%BE%90%E5%B7%9E%E5%95%A5%E6%B1%A4+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "藏书羊肉",
+      "itemIds": [
+        "flavor-jiangsu-9b61f8355c"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "千层油糕",
+      "itemIds": [
+        "flavor-jiangsu-886c8438f1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8D%83%E5%B1%82%E6%B2%B9%E7%B3%95+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "翡翠烧麦",
+      "itemIds": [
+        "flavor-jiangsu-9dcc323f36"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "太仓肉松",
+      "itemIds": [
+        "flavor-jiangsu-e59d104932"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E4%BB%93%E8%82%89%E6%9D%BE+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "无锡三鲜馄饨",
+      "itemIds": [
+        "flavor-jiangsu-d13f9cbba7"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%97%A0%E9%94%A1%E4%B8%89%E9%B2%9C%E9%A6%84%E9%A5%A8+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "如意回卤干",
+      "itemIds": [
+        "flavor-jiangsu-886c3f2c40"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A6%82%E6%84%8F%E5%9B%9E%E5%8D%A4%E5%B9%B2+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "金钱萝卜饼",
+      "itemIds": [
+        "flavor-jiangsu-e1f53ea939"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E9%92%B1%E8%90%9D%E5%8D%9C%E9%A5%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "常州素火腿",
+      "itemIds": [
+        "flavor-jiangsu-3550c9608c"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B8%B8%E5%B7%9E%E7%B4%A0%E7%81%AB%E8%85%BF+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "白汁鮰鱼",
+      "itemIds": [
+        "flavor-jiangsu-929e10b790"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%99%BD%E6%B1%81%E9%AE%B0%E9%B1%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "奶汤鱼皮",
+      "itemIds": [
+        "flavor-jiangsu-e554484beb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A5%B6%E6%B1%A4%E9%B1%BC%E7%9A%AE+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "荷叶粉蒸肉",
+      "itemIds": [
+        "zj-steamed-pork",
+        "program-9a8cdc8b6698f39550"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "霉苋菜梗",
+      "itemIds": [
+        "flavor-zhejiang-96a2482fa2"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%9C%89%E8%8B%8B%E8%8F%9C%E6%A2%97+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "葱包桧",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%91%B1%E5%8C%85%E6%A1%A7+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "宁波烤菜",
+      "itemIds": [
+        "flavor-zhejiang-0b1a1c181d"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%AE%81%E6%B3%A2%E7%83%A4%E8%8F%9C+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "新风鳗鲞",
+      "itemIds": [
+        "flavor-zhejiang-ccf338cca4"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%B0%E9%A3%8E%E9%B3%97%E9%B2%9E+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "梅干菜焖肉",
+      "itemIds": [
+        "zj-meigan"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "三丝敲鱼",
+      "itemIds": [
+        "program-9dcb67aa763f9e9b83"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%89%E4%B8%9D%E6%95%B2%E9%B1%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "新昌春饼",
+      "itemIds": [
+        "flavor-zhejiang-a1e8193b8b"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%B0%E6%98%8C%E6%98%A5%E9%A5%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "铁板蛏子",
+      "itemIds": [
+        "flavor-zhejiang-c7fcb348bd"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%93%81%E6%9D%BF%E8%9B%8F%E5%AD%90+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "象山炒米面",
+      "itemIds": [
+        "flavor-zhejiang-56c16bb7d1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%B1%A1%E5%B1%B1%E7%82%92%E7%B1%B3%E9%9D%A2+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "蟹粉面",
+      "itemIds": [
+        "flavor-shanghai-b57c5af186"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%9F%B9%E7%B2%89%E9%9D%A2+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "大纵湖醉蟹",
+      "itemIds": [
+        "flavor-jiangsu-3905af32c3"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A7%E7%BA%B5%E6%B9%96%E9%86%89%E8%9F%B9+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "南通跳面",
+      "itemIds": [
+        "flavor-jiangsu-33f596e0ee"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8D%97%E9%80%9A%E8%B7%B3%E9%9D%A2+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "太仓糟油",
+      "itemIds": [
+        "flavor-jiangsu-07b613be05"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%AA%E4%BB%93%E7%B3%9F%E6%B2%B9+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "斜桥榨菜",
+      "itemIds": [
+        "flavor-zhejiang-884212115b"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%96%9C%E6%A1%A5%E6%A6%A8%E8%8F%9C+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "光明鲜牛奶",
+      "itemIds": [
+        "sh-bright-milk"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%85%89%E6%98%8E%E9%B2%9C%E7%89%9B%E5%A5%B6+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "熊猫炼乳",
+      "itemIds": [
+        "flavor-zhejiang-165174eadb"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%86%8A%E7%8C%AB%E7%82%BC%E4%B9%B3+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "洋河酒",
+      "itemIds": [
+        "js-yanghe"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B4%8B%E6%B2%B3%E9%85%92+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "沙洲优黄",
+      "itemIds": [
+        "flavor-jiangsu-c2597b8797"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "会稽山绍兴酒",
+      "itemIds": [
+        "zj-kuaiji"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%BC%9A%E7%A8%BD%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "石库门黄酒",
+      "itemIds": [
+        "sh-shikumen"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E7%9F%B3%E5%BA%93%E9%97%A8%E9%BB%84%E9%85%92+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "丹阳封缸酒",
+      "itemIds": [
+        "flavor-jiangsu-79ad60cfcc"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E4%B8%B9%E9%98%B3%E5%B0%81%E7%BC%B8%E9%85%92+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "鼎丰腐乳",
+      "itemIds": [
+        "sh-dingfeng-furu"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%BC%8E%E4%B8%B0%E8%85%90%E4%B9%B3+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "松阳银猴",
+      "itemIds": [
+        "flavor-zhejiang-145e2f75b1"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%9D%BE%E9%98%B3%E9%93%B6%E7%8C%B4+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "顾渚紫笋",
+      "itemIds": [
+        "flavor-zhejiang-b6fe4d08c5"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%A1%BE%E6%B8%9A%E7%B4%AB%E7%AC%8B+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "金坛雀舌",
+      "itemIds": [
+        "flavor-jiangsu-952840c1a7"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%9D%9B%E9%9B%80%E8%88%8C+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "雨花茶",
+      "itemIds": [
+        "js-yuhua"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%9B%A8%E8%8A%B1%E8%8C%B6+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "天目青顶",
+      "itemIds": [
+        "program-b1051fbcad5003c4af"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A9%E7%9B%AE%E9%9D%92%E9%A1%B6+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "平水珠茶",
+      "itemIds": [
+        "flavor-zhejiang-966f5bb63e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B9%B3%E6%B0%B4%E7%8F%A0%E8%8C%B6+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "金华汤包",
+      "itemIds": [
+        "flavor-zhejiang-0371787652"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E9%87%91%E5%8D%8E%E6%B1%A4%E5%8C%85+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "浦江麦饼",
+      "itemIds": [
+        "flavor-zhejiang-2944fdf741"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E6%B5%A6%E6%B1%9F%E9%BA%A6%E9%A5%BC+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "葱花馒头",
+      "itemIds": [
+        "flavor-zhejiang-cfbb32e120"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E8%91%B1%E8%8A%B1%E9%A6%92%E5%A4%B4+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "台州姜汤面",
+      "itemIds": [
+        "zj-taizhou-jiangtangmian"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%8F%B0%E5%B7%9E%E5%A7%9C%E6%B1%A4%E9%9D%A2+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "崇明糕",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B4%87%E6%98%8E%E7%B3%95+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "天台什锦糕",
+      "itemIds": [
+        "flavor-zhejiang-769f8a846e"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%A4%A9%E5%8F%B0%E4%BB%80%E9%94%A6%E7%B3%95+filetype%3Abitmap&ns6=1"
+    },
+    {
+      "query": "平湖糟蛋",
+      "itemIds": [
+        "zj-pinghu-zaodan"
+      ],
+      "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%E5%B9%B3%E6%B9%96%E7%B3%9F%E8%9B%8B+filetype%3Abitmap&ns6=1"
+    }
+  ]
+}

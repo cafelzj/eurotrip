@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-21",
+  "candidates": [
+    {
+      "id": "c-d27b5630eeead2a8",
+      "title": "Ningbo-Style Ricefield Eel Slices.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ningbo-Style_Ricefield_Eel_Slices.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ningbo-Style_Ricefield_Eel_Slices.jpg/960px-Ningbo-Style_Ricefield_Eel_Slices.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Ningbo-Style Ricefield Eel Slices by Hangzhou's Fu Yuan Ju Restaurant",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-metadata-02/e0f7fed6e5d64803bf57f5a17f5b050d.response.gz",
+      "metadataSha256": "f03e202833ab60d379198afd9c55b2c33a67e2a314fcdd7a31d8eb0116a462a5",
+      "itemIds": [
+        "flavor-zhejiang-025c794ff3"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/c-d27b5630eeead2a8.jpg",
+      "rawSha256": "9d8b200466975dee62904c22cc72a63d8944a02565a91bd1c7fcc4625e89b0ad"
+    },
+    {
+      "id": "c-e6a81529c468ccf5",
+      "title": "Fu Chun Tea House buns.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Fu_Chun_Tea_House_buns.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fu_Chun_Tea_House_buns.JPG/960px-Fu_Chun_Tea_House_buns.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "author": "Gisling",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Yangzhou Fu Chun Tea House buns 扬州富春茶社三丁包,千层油糕,翡翠烧卖.",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-metadata-02/e0f7fed6e5d64803bf57f5a17f5b050d.response.gz",
+      "metadataSha256": "f03e202833ab60d379198afd9c55b2c33a67e2a314fcdd7a31d8eb0116a462a5",
+      "itemIds": [
+        "js-yangzhou-sanding"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/c-e6a81529c468ccf5.jpg",
+      "rawSha256": "8309449bbd93a226e08d532a21e76d0cab9794e1da917b7b0ab91c7b17e1b749"
+    },
+    {
+      "title": "Maoerduo.JPG",
+      "categoryNames": [
+        "Mao'erduo"
+      ],
+      "categorySourceFiles": [
+        "research/.local/jiangzhehu-images-20261117-03/categories/39e2e8e804a5d91a0f64.html.gz"
+      ],
+      "id": "c-975405b23cf7ee34",
+      "provider": "Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Maoerduo.JPG",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Maoerduo.JPG/960px-Maoerduo.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "知味观的猫耳朵。Shizhao 2005年于杭州。",
+      "itemIds": [
+        "program-cf797a5d34ce94c299"
+      ],
+      "metadataFile": "research/.local/china-photos-20261121-05/file-page-01/050b72b53db14904994a8df6fa302f58.response.gz",
+      "metadataSha256": "8187b81a3f5db1123d1afd216a5ae88664390b832937612b6ec102d57cff24c0",
+      "status": "downloaded-not-approved",
+      "width": 960,
+      "height": 720,
+      "rawFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-975405b23cf7ee34.jpg",
+      "rawSha256": "d206e9fad181f7612ddbaaa8f60e15ade97e8df0cd45274c0e81b8fbb36502f2"
+    }
+  ]
+}

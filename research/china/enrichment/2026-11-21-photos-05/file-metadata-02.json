@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ANingbo-Style+Ricefield+Eel+Slices.jpg%7CFile%3AMutton+pudding+%28C%C3%A1ng+sh%C5%AB+y%C3%A1ng+r%C3%B2u%29.jpg%7CFile%3AFu+Chun+Tea+House+buns.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Ningbo eel, Cangshu mutton, Fuchun buns exact metadata",
+      "itemIds": []
+    }
+  ]
+}

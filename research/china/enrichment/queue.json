@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "status": "in-progress",
   "scope": "全部现有规范化中国卡片；不把检索或有图自动当作内容完整。",
   "readingRule": "300–500字为目标，不用模板填充；原始记录、后续补充及来源分别追溯。",
@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 284,
-    "withListPhoto": 271,
-    "missingRealPhoto": 6343,
-    "needsListPhoto": 6356
+    "withDetailPhoto": 287,
+    "withListPhoto": 274,
+    "missingRealPhoto": 6340,
+    "needsListPhoto": 6353
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 358,
-      "needsListPhoto": 358
+      "missingRealPhoto": 357,
+      "needsListPhoto": 357
     },
     "liaoning": {
       "cards": 306,
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 361,
-      "needsListPhoto": 361
+      "missingRealPhoto": 359,
+      "needsListPhoto": 359
     },
     "anhui": {
       "cards": 330,
@@ -4094,19 +4094,6 @@
       "city": "晋中",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 48,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-zhejiang-025c794ff3",
-      "name": "宁式鳝丝",
-      "province": "zhejiang",
-      "city": "宁波",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 48,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -16158,19 +16145,6 @@
       "city": "淮安",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 61,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "js-yangzhou-sanding",
-      "name": "扬州三丁包",
-      "province": "jiangsu",
-      "city": "扬州",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 61,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -29559,19 +29533,6 @@
       "name": "糊汤粉",
       "province": "hubei",
       "city": "武汉",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 100,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-cf797a5d34ce94c299",
-      "name": "猫耳朵",
-      "province": "zhejiang",
-      "city": "杭州",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 100,
@@ -82894,6 +82855,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-zhejiang-025c794ff3",
+      "name": "宁式鳝丝",
+      "province": "zhejiang",
+      "city": "宁波",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 48,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-zhejiang-7ccd4c9f83",
       "name": "片儿川",
       "province": "zhejiang",
@@ -83600,6 +83574,19 @@
       "name": "苏州三虾面",
       "province": "jiangsu",
       "city": "苏州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 61,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "js-yangzhou-sanding",
+      "name": "扬州三丁包",
+      "province": "jiangsu",
+      "city": "扬州",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 61,
@@ -84343,6 +84330,19 @@
       "city": "温州",
       "category": "food",
       "subcategory": "dishes",
+      "readingCharacters": 100,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-cf797a5d34ce94c299",
+      "name": "猫耳朵",
+      "province": "zhejiang",
+      "city": "杭州",
+      "category": "food",
+      "subcategory": "staples",
       "readingCharacters": 100,
       "readingStatus": "needs-expansion",
       "readingBatch": null,

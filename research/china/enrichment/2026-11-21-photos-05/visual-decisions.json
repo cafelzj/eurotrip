@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-21",
+  "approved": [
+    {
+      "itemId": "flavor-zhejiang-025c794ff3",
+      "itemName": "宁式鳝丝",
+      "candidateId": "c-d27b5630eeead2a8",
+      "caption": "杭州餐馆制作的宁波风味鳝丝实拍。",
+      "reason": "原作者明确命名Ningbo-Style Ricefield Eel Slices并说明杭州Fu Yuan Ju餐馆。已看成品实拍，鳝丝与配菜主体清楚，碗盘完整；符合宁式鳝丝主题，不把拍摄地写成宁波。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "js-yangzhou-sanding",
+      "itemName": "扬州三丁包",
+      "candidateId": "c-e6a81529c468ccf5",
+      "caption": "扬州富春茶社三丁包实拍，同席还有千层油糕和翡翠烧卖。",
+      "reason": "原作者中英文直接列明扬州富春茶社、三丁包、千层油糕及翡翠烧卖；已看实拍，前景三丁包与蒸笼清楚。仅给三丁包主主题绑定，未把同一照片重复计作三张独立图片。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-cf797a5d34ce94c299",
+      "itemName": "猫耳朵",
+      "candidateId": "c-975405b23cf7ee34",
+      "caption": "杭州知味观猫耳朵实拍，Shizhao摄于2005年。",
+      "reason": "补读完整文件原页，原作者文字明确知味观、杭州、2005年及署名Shizhao，解决旧机器元数据作者字段缺失。已看真实汤碗与耳形面粒，主体清晰、器皿整洁；未因该图用于山西菜百科条目而改写其实际拍摄地点。采用文件页明确提供的CC BY-SA 3.0许可。",
+      "kind": "food",
+      "viewedOriginal": true
+    }
+  ],
+  "held": [
+    {
+      "candidateId": "c-4a4663971db01063",
+      "reason": "赤豆酒酿元宵主题确切，但一次性餐盒、塑料袋及人物背景干扰明显，继续寻找更干净的成品近景。"
+    },
+    {
+      "candidateId": "c-94396df81abc65f9",
+      "reason": "原图为大块羊肉冻／羊糕，不能当作卡片所述白汤炖羊肉的成品；包装与画面观感也不足。"
+    }
+  ]
+}

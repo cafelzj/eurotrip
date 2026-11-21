@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "records": [
+    {
+      "itemId": "flavor-zhejiang-025c794ff3",
+      "itemName": "宁式鳝丝",
+      "assetId": "cn05-c-d27b5630eeead2a8",
+      "src": "assets/photos/china/cn05-c-d27b5630eeead2a8.jpg",
+      "derivativeSha256": "c838fd4c420bb0dc9f08555e85ee8bd24db5e24209eb0779b9b3cd93b62f9e57",
+      "caption": "杭州餐馆制作的宁波风味鳝丝实拍。",
+      "reason": "原作者明确命名Ningbo-Style Ricefield Eel Slices并说明杭州Fu Yuan Ju餐馆。已看成品实拍，鳝丝与配菜主体清楚，碗盘完整；符合宁式鳝丝主题，不把拍摄地写成宁波。",
+      "source": "https://commons.wikimedia.org/wiki/File:Ningbo-Style_Ricefield_Eel_Slices.jpg",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/c-d27b5630eeead2a8.jpg",
+      "originalSha256": "9d8b200466975dee62904c22cc72a63d8944a02565a91bd1c7fcc4625e89b0ad",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-metadata-02/e0f7fed6e5d64803bf57f5a17f5b050d.response.gz",
+      "metadataSha256": "f03e202833ab60d379198afd9c55b2c33a67e2a314fcdd7a31d8eb0116a462a5",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "c-d27b5630eeead2a8"
+    },
+    {
+      "itemId": "js-yangzhou-sanding",
+      "itemName": "扬州三丁包",
+      "assetId": "cn05-c-e6a81529c468ccf5",
+      "src": "assets/photos/china/cn05-c-e6a81529c468ccf5.jpg",
+      "derivativeSha256": "16ed2a7ab9d843764f69a359b28358d069c73c4cccad4cfd914be0a5ff94475d",
+      "caption": "扬州富春茶社三丁包实拍，同席还有千层油糕和翡翠烧卖。",
+      "reason": "原作者中英文直接列明扬州富春茶社、三丁包、千层油糕及翡翠烧卖；已看实拍，前景三丁包与蒸笼清楚。仅给三丁包主主题绑定，未把同一照片重复计作三张独立图片。",
+      "source": "https://commons.wikimedia.org/wiki/File:Fu_Chun_Tea_House_buns.JPG",
+      "author": "Gisling",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/c-e6a81529c468ccf5.jpg",
+      "originalSha256": "8309449bbd93a226e08d532a21e76d0cab9794e1da917b7b0ab91c7b17e1b749",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-metadata-02/e0f7fed6e5d64803bf57f5a17f5b050d.response.gz",
+      "metadataSha256": "f03e202833ab60d379198afd9c55b2c33a67e2a314fcdd7a31d8eb0116a462a5",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "c-e6a81529c468ccf5"
+    },
+    {
+      "itemId": "program-cf797a5d34ce94c299",
+      "itemName": "猫耳朵",
+      "assetId": "cn05-c-975405b23cf7ee34",
+      "src": "assets/photos/china/cn05-c-975405b23cf7ee34.jpg",
+      "derivativeSha256": "9c5824a042c449fe86d7f27205bfa72eb7bfa1611690c8111eb2ce7d33201284",
+      "caption": "杭州知味观猫耳朵实拍，Shizhao摄于2005年。",
+      "reason": "补读完整文件原页，原作者文字明确知味观、杭州、2005年及署名Shizhao，解决旧机器元数据作者字段缺失。已看真实汤碗与耳形面粒，主体清晰、器皿整洁；未因该图用于山西菜百科条目而改写其实际拍摄地点。采用文件页明确提供的CC BY-SA 3.0许可。",
+      "source": "https://commons.wikimedia.org/wiki/File:Maoerduo.JPG",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "originalResponseFile": "research/.local/jiangzhehu-images-20261117-03/photos/c-975405b23cf7ee34.jpg",
+      "originalSha256": "d206e9fad181f7612ddbaaa8f60e15ade97e8df0cd45274c0e81b8fbb36502f2",
+      "metadataFile": "research/.local/china-photos-20261121-05/file-page-01/050b72b53db14904994a8df6fa302f58.response.gz",
+      "metadataSha256": "8187b81a3f5db1123d1afd216a5ae88664390b832937612b6ec102d57cff24c0",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "c-975405b23cf7ee34"
+    }
+  ]
+}

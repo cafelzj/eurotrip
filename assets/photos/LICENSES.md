@@ -1352,3 +1352,27 @@ License: [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 Original image URL: https://live.staticflickr.com/2637/3816735725_10e3212644_c.jpg
 Changes: 完整保留原字节和画面。
 Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-c-d27b5630eeead2a8.jpg
+
+Author: Zheng Zhou
+Source: https://commons.wikimedia.org/wiki/File:Ningbo-Style_Ricefield_Eel_Slices.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ningbo-Style_Ricefield_Eel_Slices.jpg/960px-Ningbo-Style_Ricefield_Eel_Slices.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-e6a81529c468ccf5.jpg
+
+Author: Gisling
+Source: https://commons.wikimedia.org/wiki/File:Fu_Chun_Tea_House_buns.JPG
+License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fu_Chun_Tea_House_buns.JPG/960px-Fu_Chun_Tea_House_buns.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-c-975405b23cf7ee34.jpg
+
+Author: Shizhao
+Source: https://commons.wikimedia.org/wiki/File:Maoerduo.JPG
+License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Maoerduo.JPG/960px-Maoerduo.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

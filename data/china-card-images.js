@@ -5007,6 +5007,84 @@ window.chinaCardImages = {
       "commercialUse": false,
       "deploymentContext": "personal-informational-github-pages-without-advertising",
       "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-c-d27b5630eeead2a8": {
+      "file": "Ningbo-Style Ricefield Eel Slices.jpg",
+      "src": "assets/photos/china/cn05-c-d27b5630eeead2a8.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "杭州餐馆制作的宁波风味鳝丝实拍。",
+      "caption": "杭州餐馆制作的宁波风味鳝丝实拍。",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ningbo-Style_Ricefield_Eel_Slices.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ningbo-Style_Ricefield_Eel_Slices.jpg/960px-Ningbo-Style_Ricefield_Eel_Slices.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确命名Ningbo-Style Ricefield Eel Slices并说明杭州Fu Yuan Ju餐馆。已看成品实拍，鳝丝与配菜主体清楚，碗盘完整；符合宁式鳝丝主题，不把拍摄地写成宁波。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-c-e6a81529c468ccf5": {
+      "file": "Fu Chun Tea House buns.JPG",
+      "src": "assets/photos/china/cn05-c-e6a81529c468ccf5.jpg",
+      "width": 960,
+      "height": 712,
+      "kind": "food",
+      "alt": "扬州富春茶社三丁包实拍，同席还有千层油糕和翡翠烧卖。",
+      "caption": "扬州富春茶社三丁包实拍，同席还有千层油糕和翡翠烧卖。",
+      "author": "Gisling",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fu_Chun_Tea_House_buns.JPG",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Fu_Chun_Tea_House_buns.JPG/960px-Fu_Chun_Tea_House_buns.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者中英文直接列明扬州富春茶社、三丁包、千层油糕及翡翠烧卖；已看实拍，前景三丁包与蒸笼清楚。仅给三丁包主主题绑定，未把同一照片重复计作三张独立图片。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-c-975405b23cf7ee34": {
+      "file": "Maoerduo.JPG",
+      "src": "assets/photos/china/cn05-c-975405b23cf7ee34.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "杭州知味观猫耳朵实拍，Shizhao摄于2005年。",
+      "caption": "杭州知味观猫耳朵实拍，Shizhao摄于2005年。",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Maoerduo.JPG",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Maoerduo.JPG/960px-Maoerduo.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "补读完整文件原页，原作者文字明确知味观、杭州、2005年及署名Shizhao，解决旧机器元数据作者字段缺失。已看真实汤碗与耳形面粒，主体清晰、器皿整洁；未因该图用于山西菜百科条目而改写其实际拍摄地点。采用文件页明确提供的CC BY-SA 3.0许可。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -5208,7 +5286,10 @@ window.chinaCardImages = {
     "program-a873f83973b70e5c08": "cn04-inat-carya-540689824",
     "js-wensi-tofu": "cn04-223765921",
     "js-dazhugansi": "cn04-4372400698",
-    "flavor-jiangsu-8a5e336eda": "cn04-3816735725"
+    "flavor-jiangsu-8a5e336eda": "cn04-3816735725",
+    "flavor-zhejiang-025c794ff3": "cn05-c-d27b5630eeead2a8",
+    "js-yangzhou-sanding": "cn05-c-e6a81529c468ccf5",
+    "program-cf797a5d34ce94c299": "cn05-c-975405b23cf7ee34"
   },
   "galleries": {}
 };

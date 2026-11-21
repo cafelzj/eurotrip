@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3A%E8%B5%A4%E8%B1%86%E9%85%92%E9%85%BF%E5%85%83%E5%AE%B5.jpg%7CFile%3AMaoerduo.JPG&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960",
+      "query": "Exact discovered file metadata: Jiuniang yuanxiao and maoerduo",
+      "itemIds": []
+    }
+  ]
+}
