@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.flickr.com/search/?text=Meiji+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Meiji milk",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yakult+bottle&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yakult bottle",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yoplait+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yoplait China",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Shanghai+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Shanghai milk",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Bright+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Bright yogurt",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Mengniu+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Mengniu yogurt",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E6%98%8E%E6%B2%BB+%E7%89%9B%E4%B9%B3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "明治 牛乳",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%A4%8A%E6%A8%82%E5%A4%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "養樂多",
+      "itemIds": []
+    }
+  ]
+}

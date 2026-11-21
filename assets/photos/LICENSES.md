@@ -1484,3 +1484,20 @@ License: [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 Original image URL: https://live.staticflickr.com/3396/3192462709_a2735b64cf_b.jpg
 Changes: 完整保留原字节和画面。
 Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-4375023323.jpg
+
+Author: Jake / Jake Ji
+Source: https://www.flickr.com/photos/27232078@N02/4375023323
+License: [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+Original image URL: https://live.staticflickr.com/4059/4375023323_4b16ff2f87_b.jpg
+Changes: 完整保留原字节和画面。
+Use conditions: 限非商业使用；按原许可署名并保留使用条件。
+
+### assets/photos/china/cn05-commons-jinhua-subing.jpg
+
+Author: DSGZodlands Wings
+Source: https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

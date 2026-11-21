@@ -148,6 +148,25 @@
       "kind": "product",
       "viewedOriginal": true,
       "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "sh-chongming-gao",
+      "itemName": "崇明糕",
+      "candidateId": "4375023323",
+      "caption": "崇明糕切面与切片实拍，可见果仁、红枣和红绿丝点缀。",
+      "reason": "原作者直接命名chongming rice cake。已看原图，米糕切片、完整糕体与展示切面均清楚，手只作持糕展示，食物为画面主体；不以普通发糕代替，不据图推断固定配方。保留原图ND字节与全幅，图中可见果仁、红枣和红绿丝。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-bb6fac915982500284",
+      "itemName": "金华酥饼",
+      "candidateId": "commons-jinhua-subing",
+      "caption": "深圳江南酥店内下层柜台的金华酥饼实拍，2023年3月。",
+      "reason": "完整粤文说明明确金华酥饼，照片下层价签直接写金华酥饼；已看原图，金黄饼面、成品层叠和价签清楚。为具体同名糕点的近景实拍，上层为另外的糯米糍，图注区分。实际深圳拍摄，不冒称金华本地商户或所有门店统一售价。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -274,6 +293,42 @@
     {
       "candidateId": "3633552005",
       "reason": "熊猫炼乳货架远景主题正确，但现已有单罐正面近景，不重复增加无必要图库。"
+    },
+    {
+      "candidateId": "1296927008",
+      "reason": "原作者明确是梅干菜炒猪肉片，不给梅干菜焖肉自动当作同一做法。"
+    },
+    {
+      "candidateId": "4154439425",
+      "reason": "多碗甜品前景主要是独立汤圆，赤豆与汤圆并非清楚的同碗成品，且偏黄杂景，不作为赤豆元宵封面。"
+    },
+    {
+      "candidateId": "8631651199",
+      "reason": "原图及标签能确认蟹黄汤包，观感较好，但具体拍摄地及镇江、靖江等地方做法尚未核实；保留可审候选，不直接冒充已核实的具名地方版本。"
+    },
+    {
+      "candidateId": "16132235794",
+      "reason": "作者题名南京蟹黄汤包，但压塌的包体、插入的筷子影响封面观感，继续找更完整成品。"
+    },
+    {
+      "candidateId": "54266156608",
+      "reason": "上海豫园大汤包虽主题正确，手持纸杯和柜台背景杂，不作为靖江或镇江具名版本封面。"
+    },
+    {
+      "candidateId": "54266156553",
+      "reason": "上海豫园大汤包虽主题正确，手持纸杯和柜台背景杂，不作为靖江或镇江具名版本封面。"
+    },
+    {
+      "candidateId": "63428155",
+      "reason": "富春茶社蟹黄汤包与杯、号牌同框，食品主体较小，且不是所缺的镇江或靖江版本。"
+    },
+    {
+      "candidateId": "49962165693",
+      "reason": "欣图轩蟹黄汤饺，已看其为单独粤式汤饺摆盘，不能据此冒充靖江或镇江汤包。"
+    },
+    {
+      "candidateId": "8217081638",
+      "reason": "大桌多个蒸笼、杯盘杂景，尚未确认所需地方汤包版本，不作封面。"
     }
   ]
 }

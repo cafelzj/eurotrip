@@ -345,6 +345,44 @@
       "metadataFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-04/877d0e70cf044da698520a06d023be47.response.gz",
       "metadataSha256": "02081b8a5c89a60342ebff89fa8740514bda6414f7e77ef0484612db7b050f7a",
       "fullDescription": "My favorite Mengniu low fat Milk Deluxe, retails for CNY 5.4 (about USD 80 cents) in the convenient stores. This one is fortunately unaffected by the melamine fiasco."
+    },
+    {
+      "id": "4375023323",
+      "title": "chongming rice cake",
+      "description": null,
+      "licenseCode": 3,
+      "source": "https://www.flickr.com/photos/27232078@N02/4375023323",
+      "preview": "https://live.staticflickr.com/4059/4375023323_4b16ff2f87_b.jpg",
+      "itemIds": [
+        "sh-chongming-gao"
+      ],
+      "query": "Chongming rice cake",
+      "searchMetadataFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/3077547528ae40b29324cdc437b9bf37.response.gz",
+      "author": "Jake / Jake Ji",
+      "provider": "Flickr",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "rawFile": "research/.local/china-photos-20261121-05/4375023323.jpg",
+      "rawSha256": "acadb30e690b8e43c114681a629f3b771817f08a2eb83783b2a77b47a580b7eb",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/c90dcf87e01e4e1899d800da5a7b7447.response.gz",
+      "metadataSha256": "8917efcb20f685ababbc33603a140f0ac437875862d0ad8c5bec65b6934ead92"
+    },
+    {
+      "id": "commons-jinhua-subing",
+      "title": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall 江南酥 Jianan Su Bakery March 2023 Px3 06.jpg",
+      "itemIds": [
+        "program-bb6fac915982500284"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/commons-jinhua-subing.jpg",
+      "rawSha256": "e43102db8b330d5524a8dd6dec41f6efe2e270c6e44b912a4e97e6ce6d9d9303",
+      "metadataFile": "research/.local/china-photos-20261121-05/commons-metadata-followup-05-resume/2b2a59aaefea4a2f9bae2ea2841af518.response.gz",
+      "metadataSha256": "1a463fb6fcce610682317df26d98503c19af0b03a9233b3b21726b6a5ca07b6c",
+      "author": "DSGZodlands Wings",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

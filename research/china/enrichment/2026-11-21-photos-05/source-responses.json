@@ -5081,6 +5081,698 @@
       "responseSha256": "1f432d655007a058a4a0eca308367b67b5fb2f0e532395f4000f087b77d6ec67",
       "compressedSha256": "13b567d3e8a38b40c8859ba4cbf647d33e31c5c8735204cb0df17d4a06282bde",
       "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-04/requests.jsonl"
+    },
+    {
+      "url": "https://www.recipetineats.com/policy-use-of-recipes-images/",
+      "query": "Full author photo reuse conditions, one photo per recipe",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-permission-primary-06/b63dbead992b446d82cf76e90e2497ae.response.gz",
+      "responseSha256": "7be9612b42e2ecfb655c37b6bf6b19d54b255dc1182af5e5769bed94d9bb13ef",
+      "compressedSha256": "b6229a426978af2d0b4834c713fadc4dded368c352ebc9081f7d5abe0da2c390",
+      "journal": "research/.local/china-photos-20261121-05/recipe-permission-primary-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/scallion-oil-noodles/",
+      "query": "Full scallion oil noodle ingredients and dried shrimp identity",
+      "itemIds": [
+        "flavor-shanghai-fef9d5f9dc"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/recipe-subject-followup-04/a8d87107bdf74d169f0bbbd276ec3fce.response.gz",
+      "responseSha256": "78771868705aa85b1a2ac482b358c2d3c84f7ab7f3ab51bc68b4caf465386006",
+      "compressedSha256": "1eaabbb9b9042b2b4d522072c2bb19e6800b33e97f340c09138d1c43db49094f",
+      "journal": "research/.local/china-photos-20261121-05/recipe-subject-followup-04/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+%3Fitem+%3FitemLabel+%3FitemAltLabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP495+wd%3AQ148%3B+wdt%3AP18+%3Fimage.+%3Fitem+wdt%3AP31%2Fwdt%3AP279%2A+wd%3AQ2095.+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22zh%2Cen%22.+%7D+%7D+LIMIT+500&format=json",
+      "query": "Chinese-origin food entities with actual photo links, bounded pilot",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/wikidata-source-pilot-01/61e4b8c93ab841b39bbd99e0d4d2f175.response.gz",
+      "responseSha256": "18ef2ef1c47cefc0808ce6db9aa70c69a1f0a74f43ff0e6206f5df4f123916f1",
+      "compressedSha256": "e3212e6ef984f4d4db80d3d314e7cc6b96641cb8c374ab1863392ec78d8f9a1a",
+      "journal": "research/.local/china-photos-20261121-05/wikidata-source-pilot-01/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Meiji+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Meiji milk",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/56ede8262a244dbe9462041c442a6885.response.gz",
+      "responseSha256": "56cb3763410291ad0204aba8f01534217cb837272615365f7c32bba8a33414b7",
+      "compressedSha256": "4672efc6565abc57862a2bc1d815dfb99278b149c270b36c48c859e40b1b1483",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yakult+bottle&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yakult bottle",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/376489fbb2354b2584a6ebdca2a11f5a.response.gz",
+      "responseSha256": "2688ee6a42b8095203d4abfbf4c4e118fe2c7d268070bb92fca56e72ad6f884f",
+      "compressedSha256": "cb4298a709f52083212e34e308a5f7c22a1b404c4c655bc20f4078e953583cc7",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yoplait+China&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yoplait China",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/d6a9740aa78d41bd8e73d435310762ca.response.gz",
+      "responseSha256": "ca0f74532ed4cb2ecf8fb20c464f4fd5ca109b650b3fa017c52c233a98faa722",
+      "compressedSha256": "b6fab6ff0709f8b8a11d2aee0d70fb73762e55da247182a9a8ee1840179092b5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Shanghai+milk&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Shanghai milk",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/a4794684bdae4349815634932dfe8522.response.gz",
+      "responseSha256": "6bb7a2a0760059dd227aa25594ea404470e08efa2ed969e7d7060ae4a59ad4ca",
+      "compressedSha256": "0e78fe7a4107f4a11d0de92cfea9ec44757f210be642a5fa3b681a15a7cca398",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Bright+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Bright yogurt",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/8bf9c6e1652a44f886ac481f88bd70cc.response.gz",
+      "responseSha256": "09f505d03470ab9bd9ace341c1fa629c2695297e7556e1e2934ecbf42b8ef5f6",
+      "compressedSha256": "08ce1111ed4f92833121669f2d7df6bc04234f9f7e108b78c3541cc2866c9116",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Mengniu+yogurt&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Mengniu yogurt",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/863ee6ee48e24cfb91485cbba089b405.response.gz",
+      "responseSha256": "11e304debac79a404706c6bbaa32607e146dfa20922ad932426e55ee7925b776",
+      "compressedSha256": "3e52574b626e912fb9084ca72b76df659cec9fcd6022ba010eada721d5b938d5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E6%98%8E%E6%B2%BB+%E7%89%9B%E4%B9%B3&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "明治 牛乳",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/9fefb2ec9ae143b0bd2c6efe81dc2e35.response.gz",
+      "responseSha256": "8e5233ae42f13ffe1b8ae0c28dea0ce71f45d78eb43ca46c0d9945cdd43d82a6",
+      "compressedSha256": "c87e1e36943ec011eb452d60c3436dd9125e850304534de6fc5cae1aa0dc78bb",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%A4%8A%E6%A8%82%E5%A4%9A&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "養樂多",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/9ce27527092743e7aa05e421e6d39603.response.gz",
+      "responseSha256": "8a54ab93f3b6974b06335a7e0e02f61ee9583f1c561e15d19748d1acf9859d91",
+      "compressedSha256": "612318d7acd7221a762efc5d80ce4abbf4032572e1ce5d51f012c6fba266c32b",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Zangshu+lamb&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Zangshu lamb",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/54310f109c5e4a57ad585b91f29ad2f4.response.gz",
+      "responseSha256": "5e122e7a197a331e0ae7987dc017375feb2679a8e6781eb0ebf050edf0bcf3b0",
+      "compressedSha256": "2f193a30e0cf0693d3d109a9a70b91a3bcc8e46b89c954a220ff6ac9e45eecab",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Suzhou+mutton+soup&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Suzhou mutton soup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/f57d027c7f6d494aa1c2dcf1e3f1f3b0.response.gz",
+      "responseSha256": "bc03bb03d173d2f0e680f7d22e05a67712b4b2018fd525d6145cf8cf3a640fcb",
+      "compressedSha256": "8eec2c5294c6cd69a60f9427bb3fe1f9123baee47913fa141b961c388a714329",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nanjing+red+bean&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nanjing red bean",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/487ad9e8320749f59cc3e8d459e9cf23.response.gz",
+      "responseSha256": "e2ab24bfaef8f2bf9147890ef86184d26eea1c9efd62469285d0e04e868c50c3",
+      "compressedSha256": "2bad3bd6fd44bb367cdc287b5452dfdbf55cf9f2e2c2350d719abcd5ed2c5623",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nanjing+taro&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nanjing taro",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/a37c8ad70a3f4177a62451c28bca950f.response.gz",
+      "responseSha256": "ec64b216b95497946975260f559ffcfb57e6951e2d99a3ba41b5f6ffc48daf4b",
+      "compressedSha256": "3ee055bf680a49711a6a751cabbeb374dcdd36e9281ee093cfa98bd92a30b3f5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+yellow+fish&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo yellow fish",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/78f56a2563b54785b6827f59c581dc0a.response.gz",
+      "responseSha256": "d711d63a84ef05946439063409d76b05527e640b70c3a81b230adf43e7f69c09",
+      "compressedSha256": "f5ab359f96b33415eda44f9da768f91544a5388aeaf00d28bbc3aea67f6a8018",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+croaker&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo croaker",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/c5521e64da5a498a9b38a49ce8686348.response.gz",
+      "responseSha256": "d4b7988fdfec71502dabf1528b66b2e7ea7ec7e0527f3498c7b9a013569882e6",
+      "compressedSha256": "bbb44681746e58e6d7d8b1acfffcaf98f1556631d80c905aca4dfb4305495969",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+tofu&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo tofu",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/fd8730ff94f2436a9de1abb08bfde3fc.response.gz",
+      "responseSha256": "c5aa52646cc2547dfcc46c9ec7a95e305fd2fe31947ae864869c36ebd1dedb50",
+      "compressedSha256": "bcff9311bee9e1af4cade4a26e7affb23a77169344294a8546466c9dfaa41ca5",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Shaoxing+lamb&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Shaoxing lamb",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/22ff0eb6131e4649b1460f2279909f45.response.gz",
+      "responseSha256": "21dc445199946e8abece3f6991a311d484440e6d1eb3a83b8eb667123d4f8124",
+      "compressedSha256": "85d3eb9654db5b28ecf8c01e695c5003730f0b371a30eee71b77e6aac763b4a8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Taizhou+noodle+soup&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Taizhou noodle soup",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/c0fe6f21681046dd86af646c90cb291a.response.gz",
+      "responseSha256": "6a41f05096acb734cf25f444f0cec1d29d9a9fa4b32300f468ecae2d1343bb39",
+      "compressedSha256": "ece51203f87183258cb85f8bb122fad0978910f181602c8b438e8c9055bd5d9d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Wenzhou+lean+pork+balls&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Wenzhou lean pork balls",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/d3d01a4511c241c3b5e525dc93f1e728.response.gz",
+      "responseSha256": "9d47fb3faf686f96fbc3be72fecfa6b934b9bfa45986bf87fe82bd1b0049e501",
+      "compressedSha256": "e1926f2dd9fc454cb360bfe0b6a724c85378ade87bb57fd222942976a60dafaa",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nantong+seafood&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nantong seafood",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/a275ad1d102d4740a4eccd9897d7c988.response.gz",
+      "responseSha256": "e1040622cee630d32f97d39d2ee8b502dff1c1b1b61dea37c909d0f311010171",
+      "compressedSha256": "e4cb7f4d689ea5236de425cab2d6db583e86c51131f8de3a40f5c96260a60ae0",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yangzhou+green+shaomai&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yangzhou green shaomai",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/177cbb31d6374e9ea8346d527c347d3d.response.gz",
+      "responseSha256": "667b2a2284dd2de7540ffc98c13136936ad164dbe4aa8421316e99cfab574ac3",
+      "compressedSha256": "6a06951ecf3006861ffd8e94cc9a9b668eec9e9e884891a228a5393931005a9b",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-english-followup-06/requests.jsonl"
+    },
+    {
+      "query": "Named original prepared food 4375023323 source",
+      "url": "https://www.flickr.com/photos/27232078@N02/4375023323",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/c90dcf87e01e4e1899d800da5a7b7447.response.gz",
+      "responseSha256": "a633eed1311ae476746f8aaf0266bcf49cfe0abef5ba97fd2eadc1083fe085af",
+      "compressedSha256": "8917efcb20f685ababbc33603a140f0ac437875862d0ad8c5bec65b6934ead92",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/requests.jsonl"
+    },
+    {
+      "query": "Named original prepared food 4375023323 preview",
+      "url": "https://live.staticflickr.com/4059/4375023323_4b16ff2f87_b.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/3d53cf2e27fc4b0c8fcf4cbee0980ec4.response.gz",
+      "responseSha256": "acadb30e690b8e43c114681a629f3b771817f08a2eb83783b2a77b47a580b7eb",
+      "compressedSha256": "dbd6e04e3f5967282447afab659c133076f4a5968f808790d40810664fb56f89",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/requests.jsonl"
+    },
+    {
+      "query": "Named original prepared food 1296927008 source",
+      "url": "https://www.flickr.com/photos/70668033@N00/1296927008",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/d3ae9e6e9b414f238237d67841a35f51.response.gz",
+      "responseSha256": "7c08483b6793578ef4bc7570e17481e9553baddaa7ad75a7d7996ee0675f182d",
+      "compressedSha256": "ed0302327871374fe9f83d808803bb8711263179a6481c87e221033d9a34bbbc",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/requests.jsonl"
+    },
+    {
+      "query": "Named original prepared food 1296927008 preview",
+      "url": "https://live.staticflickr.com/1029/1296927008_2995cd5e6b_b.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/6fa6ea37432344418bcacb1e725d49d3.response.gz",
+      "responseSha256": "17007967edd913d0a9141ea30ca896cb2ec52db761fcd8225509d42f5ac7acf7",
+      "compressedSha256": "e84751441a22f69c275f0f4b4ffc148a2b178d1c73b3c364f10e74784bdb7ce4",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/13722866@N02/4154439425",
+      "query": "Red bean tangyuan original source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/3ecb44bf52894b9892e1e436003582a4.response.gz",
+      "responseSha256": "6c731a38a0875cffbf365961fd60e232d423e31897401a28865559aefe6f6a73",
+      "compressedSha256": "34144830928525868e12a91d97cc5153cb1b60ad93b2d417134d3bd35b02e3c7",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2575/4154439425_babc087d3a_b.jpg",
+      "query": "Red bean tangyuan original preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/191cd954279f4025bff5d6cb853c0b8b.response.gz",
+      "responseSha256": "edc19b8676c243f4cc48ae16b0fa245f1442e6d4c1c4a58cc5796d029b28b0ee",
+      "compressedSha256": "baa92764d5cc39cbead5f07fa93d96d211e0bba06aa35b5a8172c317d094ecd8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BF%A1%E7%BF%A0%E7%83%A7%E5%8D%96&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "翡翠烧卖",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/f1a6de7d76d4431794bb4176e10ca3ac.response.gz",
+      "responseSha256": "ed80ef106c8b04b8a388036c5bcf841b44a5a1253bddba1f6f3937e04418eece",
+      "compressedSha256": "f535628d14c9129721be9ceaf12a2a51a0cf397741a9ad6a976307cd09452c50",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BF%A1%E7%BF%A0%E7%87%92%E9%BA%A5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "翡翠燒麥",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/699c9fdee6a34e6c8e6bad274a30e89b.response.gz",
+      "responseSha256": "8d73f70ee23df01724a7ce2659ea616841c8ea1ad67ff0636503aec5132ffb20",
+      "compressedSha256": "b0df54e3b092ba57653978a50fac938a90abfed2fdbb7497bb29c83502cafc75",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=jade+shaomai&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "jade shaomai",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/55d125dd03444255b60b6c17644d5e9d.response.gz",
+      "responseSha256": "c368a17b5df45454182ba8fa42a3ad92bbf87692cbfdb80bc44fe5eb6ed51303",
+      "compressedSha256": "8ae6ec9dd0df4cde2071192d3d1d02c1792e222a42182c061d2eb27de56f6d01",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%94%A5%E6%B2%B9%E6%8B%8C%E9%BA%B5&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "蔥油拌麵",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/48e7a52d08684c7bbfa72fc3ad8249ee.response.gz",
+      "responseSha256": "200fb64e0794d2a8f85d35b88db246fd206c123117c5c9155aefd19d830da99f",
+      "compressedSha256": "9299477bf502f63de8c57fe112826110db306e50b936b852a14e92738329464e",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Scallion+oil+noodles+dried+shrimp&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Scallion oil noodles dried shrimp",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/6a59ea37eb2a4e1b82f6e01d3bfb4cb6.response.gz",
+      "responseSha256": "d13805c758731faa8409bbafe6b9de6ee0ade975d900daff43cce921fb177133",
+      "compressedSha256": "cd3db6c4a4ce3d690dbdee84e948ae3c3a227b205f31a83a130bc36aa600a22f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=duck+lard+pastry&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "duck lard pastry",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/2d51497d276e4500a9bf655710a09837.response.gz",
+      "responseSha256": "34fcda2f5440f2633c23eb29aed9d5b17c851620ed8a1c5f49bf3264c29e8a8e",
+      "compressedSha256": "94b34eacacf9043359462c7ba8616037f479ecba3ac04e47420e1186ddb6469b",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=duck+fat+shaobing&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "duck fat shaobing",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/b9a5aa33e9124ce0a86c1220413a53b5.response.gz",
+      "responseSha256": "8077bfd32f699e649882b58aa616853c17a63bea136b16ea497058c20575b8db",
+      "compressedSha256": "a257e62b58fde2c5630bb9881ca3f04b8e26fba798281b8598d1bc73690ccc97",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Chongming+rice+cake&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Chongming rice cake",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/3077547528ae40b29324cdc437b9bf37.response.gz",
+      "responseSha256": "e1002f9221418f70b96cc46bcb8be11202b63f49e3353e786a24c8ed468c21c0",
+      "compressedSha256": "64f22a03157bc3569f69d504a25cc2f759387bc9bb3764ab1aa5c38ade5d2aac",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%97%95%E7%B2%89%E5%9C%86%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "藕粉圆子",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/a6684bd1c64f42f497f5cfc223c4fdb0.response.gz",
+      "responseSha256": "e826ff9ab4153a8ce03ab69fd2aeca48df6084851efe88ac271759ca2e34b444",
+      "compressedSha256": "d1cfc57a2163a1407dcd6f54a22f7a6cde02b4a9acb523c5bb44a015ed6b4c76",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%97%95%E7%B2%89%E5%9C%93%E5%AD%90&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "藕粉圓子",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/aeb4358ed191413db42f9abc5fc1a6c9.response.gz",
+      "responseSha256": "bc7b1fb84dc5610d1e3d394c09ac0b96ebaac4c4051493bc7fa4c12b152347e6",
+      "compressedSha256": "046d3371d783e91feb4e28015555f4e5618bcd0858bab420734d1efe8d252f87",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E6%A2%85%E4%B9%BE%E8%8F%9C%E7%87%92%E8%82%89&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "梅乾菜燒肉",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/42044f07b5dd4f2583eb72723b8121c9.response.gz",
+      "responseSha256": "260b528fc5ed11e81deda4d0b3564dd79894b6d0d099cb6e6599dca99bdfcc2b",
+      "compressedSha256": "39e0c0074b94b7f2e77894d8f54c9ad5843d39100b5bebfbe9f07f4f8c6bdec1",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BE%8A%E8%82%89%E6%B1%A4+%E8%8B%8F%E5%B7%9E&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "羊肉汤 苏州",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/dd352d03b62f44d2a3ff5f3fef6b2bca.response.gz",
+      "responseSha256": "28b9173e41f3aecdf54aea2eb9d81043ccaa927dd28c509648d567d37810957d",
+      "compressedSha256": "b558ec6b0d77ba42d330830ace80daf8e9b7a11eb91b7c30851b467357b748e4",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%9F%B9%E9%BB%84%E6%B1%A4%E5%8C%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "蟹黄汤包",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/0a04023e624d4fcaba4a6a8c78abd834.response.gz",
+      "responseSha256": "3210e8e7e6473580d8d4d722b3a067051c585a7f9692ea23274644abc0bf94af",
+      "compressedSha256": "e11aa4880cc8b8b120ff5adf4ff2249deffcad216c114e18840ada493c1ccd8a",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E8%9F%B9%E9%BB%83%E6%B9%AF%E5%8C%85&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "蟹黃湯包",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/34cf9ed55d2449888cdc0d8cade31c5a.response.gz",
+      "responseSha256": "a2ae6f3462b8d6e45995368035f28fefffa278404e4c312a2267e7c040099110",
+      "compressedSha256": "145842bca373adcff69e1bdc5065c7c230c22d27cf0cd1c61627f118d2268c29",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=crab+roe+soup+dumpling&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "crab roe soup dumpling",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/edf410c2044e49a5a7db39c1045122ce.response.gz",
+      "responseSha256": "76cdc86cc197e5967ed84a84747a4e5b53508216d1e75a817c33d3912f1f0129",
+      "compressedSha256": "d6ed84dc610d1fdeb63240f33ae4e8bdf6f50f0f66f8944030eb48906f9502f9",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Jingjiang+tangbao&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Jingjiang tangbao",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/9b26f9b1dadb41cbb0bdd99665ef353b.response.gz",
+      "responseSha256": "e73b6e08972548209a835f76e46f0108145fb79c1a454936b5a32ee7076044de",
+      "compressedSha256": "17983e0fab4e389895f07cb7bec0248356ddd81db180b04341a5285ea11f6c02",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Huaian+eel&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Huaian eel",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/c32f11879dd54e85ae5134c052fa430b.response.gz",
+      "responseSha256": "5b42ecff181e610d0610535610b366083fadbf9ea286af397978a61124ecebd2",
+      "compressedSha256": "fa613d83e8b1c1529cf4d64361213d8ee915207a7df23dd6e83f453a1082a104",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Huaiyang+eel&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Huaiyang eel",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/beb2a0646b3b4cc0b610fceae25a1a8c.response.gz",
+      "responseSha256": "bbcbe1895ed93bded964f8a2f217eccbcf938c410680f9c1fb419283db73e357",
+      "compressedSha256": "b9bc32cd3a4da06a32f91c424ccec686fd3679d21788bccd35995af5d3796068",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%BB%84%E9%B1%BC%E9%9B%AA%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "黄鱼雪菜",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/e084bcb32e504ca59c3fd3e065a0ae11.response.gz",
+      "responseSha256": "102c962cadace991020b807cf611854e3d43e3370c960c32c7346b1cac0ae79d",
+      "compressedSha256": "dff0d5d9bb2a50cc3559ac2dd857eccf8faa761e88d47dc46a48e4c6bc90dba2",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E9%BB%83%E9%AD%9A%E9%9B%AA%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "黃魚雪菜",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/7b3f15152a1640908bda2bf390518dd7.response.gz",
+      "responseSha256": "8c111b8f745aada976ab8b1d02acc437f7aca29ab48c9425a2f040a68ef826e3",
+      "compressedSha256": "7eea33f45e1e5722811420fe2f50e55aa867300345a2d7d8372671a0098e5cce",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9C%86&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "四喜汤圆",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/9bc0f6ac8fd84b778b526c084fe718ae.response.gz",
+      "responseSha256": "82b2164674c4b5fe1a8e947a1122a2178358d7eaafffc18a1354c25f3d51e07d",
+      "compressedSha256": "0ee5c983d429d52accbd425271983a09d7bcd9fc8ab0279cc850f07d8003f0df",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E5%9B%9B%E5%96%9C%E6%B9%AF%E5%9C%93&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "四喜湯圓",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/ec2946eb646e401081765afcae721be0.response.gz",
+      "responseSha256": "7520ff4332aa5692f9340d1e65e6cce20064c1063abdee604201644822b8c45a",
+      "compressedSha256": "3de566de7d4c168cc16c6c5b56ef6de0226373c14ad2907a388289bc1cf8cc7d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E5%AE%81%E6%B3%A2+%E7%83%A4%E9%BA%B8&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "宁波 烤麸",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/7ed00c29a00d4bfc80e254004249d48d.response.gz",
+      "responseSha256": "9a2a5a32433e68847c1bbc5bbcd01a6ce89529bff26af780e2b1d9d2b0ce6f0f",
+      "compressedSha256": "757d5ede3a433a7854793c27ea4ea4b30bfb2ce02ad39f32c3fb7588a03354ee",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=%E7%BB%8D%E5%85%B4+%E6%A2%85%E5%B9%B2%E8%8F%9C&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "绍兴 梅干菜",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/d418f75ba3c44af8b3bee7d3943aee5d.response.gz",
+      "responseSha256": "befc7ca19e899ec01e9e649bb0976e5039f3f9aef49344163f93609064d85840",
+      "compressedSha256": "c857fe2832a25ad9a49827aeae3685204189e32924a91e2a38e4aa78b4b32d0c",
+      "journal": "research/.local/china-photos-20261121-05/flickr-food-aliases-followup-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/44534236@N00/8631651199",
+      "query": "Named crab roe soup dumpling 8631651199 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/334037d180e34faf998e9ffdd8ade761.response.gz",
+      "responseSha256": "969428502cf5697867d452fbc15452bf686d9fd8e42a768adc00bbfb8f5d60a1",
+      "compressedSha256": "40f59debd4422c605238364692087ec912dcbb4ff97d7ff38d6b4a1dbc4e3b1e",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/8531/8631651199_dcdd6c6b1b_b.jpg",
+      "query": "Named crab roe soup dumpling 8631651199 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/7fb69cb7b28e4b96918e67009195916c.response.gz",
+      "responseSha256": "32bd198804dd468c801834cc20e7ad52ff13728c82b5600256e537247ee87044",
+      "compressedSha256": "57b1d9ef0f3c43284e0b61ab3eafed04e727dfdd1f06f9ae58888d9f10c4c44e",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/129880933@N05/16132235794",
+      "query": "Named crab roe soup dumpling 16132235794 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/3a6c9f44df7242e6840b5d9e78579406.response.gz",
+      "responseSha256": "769cb65407fe3a644cab4fba0bc38736697c567e64f998d7da7609ae9ab99b98",
+      "compressedSha256": "640ab9f7a21a9c1b08093058268f62efa59a4b4528b9c56e24df3c0bbfb1fd2a",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/7615/16132235794_3e26c1fe05_b.jpg",
+      "query": "Named crab roe soup dumpling 16132235794 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/cbd08359b2a74346b71a9cc497a68d83.response.gz",
+      "responseSha256": "4ecf9920b817c43faf8e47e1efb037dce026a29f749f2f64665fe9f2504060a2",
+      "compressedSha256": "f6761ae68cc2591c198693b7650aa777d8c5ce3d9171042ed5fc6b41ecd9245b",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/10559879@N00/54266156608",
+      "query": "Named crab roe soup dumpling 54266156608 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/bbd9cc9a6753436289f272469bbf0fac.response.gz",
+      "responseSha256": "259cf8684970b1a2dfc57f56352e3227eda15963ae265ba66d1b205f10f8e365",
+      "compressedSha256": "1c36d1e4421e4800d95febd916b9f35da099ee6eb4c6962b0f6ec63aa62e6b04",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/65535/54266156608_5d608fb614_b.jpg",
+      "query": "Named crab roe soup dumpling 54266156608 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/8d591aa82fbf4830ae6a5552d36b8233.response.gz",
+      "responseSha256": "403b9182fce972b6d419994d221baeeb47215b4b50444424decf89d4e59fc1da",
+      "compressedSha256": "50c5c1636328e5864861c5b1f77b89e763231ebef540399e6e313d800975bcc3",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/10559879@N00/54266156553",
+      "query": "Named crab roe soup dumpling 54266156553 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/d71f08505c564e9f9bc24d5b6ecf22b9.response.gz",
+      "responseSha256": "8364414429c98719696d81210280cb18cdb2db4206f9e64d86f7128abbe6ee78",
+      "compressedSha256": "ee8494735e1a3d27e6be3da132987df53161f35ed7d39ff57c6be25fc08e1821",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/65535/54266156553_c5f96ea7a3_b.jpg",
+      "query": "Named crab roe soup dumpling 54266156553 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/f64e5fe847224df7b67b6b7a59cbecc6.response.gz",
+      "responseSha256": "6c38de61013a50980ac467c4d7a90788011a3d6de5ee79a64cbf34ab75204bcb",
+      "compressedSha256": "28351b10e7e9652b37476366947d5f171ad584495ce7e47bacf22d4f1c9326b1",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/32006782@N00/63428155",
+      "query": "Named crab roe soup dumpling 63428155 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/caf1bb8dab7748e8acb01511c754de24.response.gz",
+      "responseSha256": "aa30c247617fc0f5a17fb673f022c08794d80664cd9a313504d251198c957739",
+      "compressedSha256": "e5781b27cdc3ba8e247467395ae5730b39e6ba24bc38708bb491f646830278ff",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/27/63428155_f3308c5778_c.jpg",
+      "query": "Named crab roe soup dumpling 63428155 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/fd2811c2f84344f480b4e3048ec308c8.response.gz",
+      "responseSha256": "e3570d7f0825a045aa1f5bc9441e699a153eea98f7a21b1faae59e2f65063de7",
+      "compressedSha256": "bd334d2403fb5e4f42ca9f75372a794eb5f3cf5decda0165fd9132bd1df6b598",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/49914387@N03/49962165693",
+      "query": "Named crab roe soup dumpling 49962165693 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/1d39bb112eab4c99b7d3b0d195c3bad0.response.gz",
+      "responseSha256": "595753832628276ff4799927cee9ef2fe65818d8aaed5c6a6ea07589a4a5c916",
+      "compressedSha256": "9b6022ea72304ae423c6db994446feb1bf849dfe93af187e41062c5cb233d505",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/65535/49962165693_742a0686e7_b.jpg",
+      "query": "Named crab roe soup dumpling 49962165693 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/9b1ce4214ba740e1b877c55374f7aab5.response.gz",
+      "responseSha256": "7e071cdb7d25ddaa608b341952d806aebd46b50cd75cdb6a1cb3b6db4050c763",
+      "compressedSha256": "a344a973ff521f4f90e5996beeba10119f84d00b7c40351f413ced4cfd9e7503",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/51348636@N03/8217081638",
+      "query": "Named crab roe soup dumpling 8217081638 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/ab3ca5cd4be34121990a595db262f7cb.response.gz",
+      "responseSha256": "89b3d721999c18a4c15e9a42398e662a3f93422426eaae379afa386fa763d177",
+      "compressedSha256": "d10a6a05af8a66f8b6758a2ab36c307b6106e10eff5172544c4fedc46400d529",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/8481/8217081638_2f7262c931_b.jpg",
+      "query": "Named crab roe soup dumpling 8217081638 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/a2816587dc004fc693939d72d526b158.response.gz",
+      "responseSha256": "e11f6922dea40806df66e978aff5eddd5c0fbf63ec7c167aa24683cef2059210",
+      "compressedSha256": "ffc9eeb7b3846e76c1af5d4e1ab05665892865cdcf455fb67b4ea66a66010910",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "Jinhua subing actual pastry counter close view",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/food-photos-qualified-08/eb9e4355749048599d40019851948c5c.response.gz",
+      "responseSha256": "e43102db8b330d5524a8dd6dec41f6efe2e270c6e44b912a4e97e6ce6d9d9303",
+      "compressedSha256": "9948545919063384cb75bbef347e1b5804512753f1d2343ec1a1e626545965c8",
+      "journal": "research/.local/china-photos-20261121-05/food-photos-qualified-08/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AHK+SKD+TKO+%E5%B0%87%E8%BB%8D%E6%BE%B3+Tseung+Kwan+O+%E5%9D%91%E5%8F%A3+Hang+Hau+%E6%9D%B1%E6%B8%AF%E5%9F%8E+East+Point+City+mall+shop+%E5%AE%B6%E4%B8%8A%E6%B5%B7+Modern+Shanghai+Restaurant+September+2022+Px3+02.jpg%7CFile%3ASZ+%E6%B7%B1%E5%9C%B3+Shenzhen+%E7%BE%85%E6%B9%96+Luohu+%E7%BE%85%E6%B2%99%E8%B7%AF+Luosha+Lu+%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8+Liantang+Port+shopping+mall+%E6%B1%9F%E5%8D%97%E9%85%A5+Jianan+Su+Bakery+March+2023+Px3+06.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Discovered croaker and pastry actual file metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/commons-metadata-followup-05-resume/2b2a59aaefea4a2f9bae2ea2841af518.response.gz",
+      "responseSha256": "fc0c1bf0a24a8a9a6f18de59edcc58b5e1456ba9d270128ddb1977eec6a9a1cf",
+      "compressedSha256": "1a463fb6fcce610682317df26d98503c19af0b03a9233b3b21726b6a5ca07b6c",
+      "journal": "research/.local/china-photos-20261121-05/commons-metadata-followup-05-resume/requests.jsonl"
     }
   ]
 }

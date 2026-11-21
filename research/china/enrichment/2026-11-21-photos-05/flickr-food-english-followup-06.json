@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.flickr.com/search/?text=Zangshu+lamb&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Zangshu lamb",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Suzhou+mutton+soup&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Suzhou mutton soup",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nanjing+red+bean&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nanjing red bean",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nanjing+taro&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nanjing taro",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+yellow+fish&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo yellow fish",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+croaker&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo croaker",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Ningbo+tofu&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Ningbo tofu",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Shaoxing+lamb&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Shaoxing lamb",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Taizhou+noodle+soup&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Taizhou noodle soup",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Wenzhou+lean+pork+balls&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Wenzhou lean pork balls",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Nantong+seafood&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Nantong seafood",
+      "itemIds": []
+    },
+    {
+      "url": "https://www.flickr.com/search/?text=Yangzhou+green+shaomai&license=1%2C2%2C3%2C4%2C5%2C6%2C9%2C10&media=photos",
+      "query": "Yangzhou green shaomai",
+      "itemIds": []
+    }
+  ]
+}

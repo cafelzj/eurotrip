@@ -304,6 +304,44 @@
       "metadataSha256": "02081b8a5c89a60342ebff89fa8740514bda6414f7e77ef0484612db7b050f7a",
       "action": "newly-adopted-real-photo",
       "candidateId": "3192462709"
+    },
+    {
+      "itemId": "sh-chongming-gao",
+      "itemName": "崇明糕",
+      "assetId": "cn05-4375023323",
+      "src": "assets/photos/china/cn05-4375023323.jpg",
+      "derivativeSha256": "acadb30e690b8e43c114681a629f3b771817f08a2eb83783b2a77b47a580b7eb",
+      "caption": "崇明糕切面与切片实拍，可见果仁、红枣和红绿丝点缀。",
+      "reason": "原作者直接命名chongming rice cake。已看原图，米糕切片、完整糕体与展示切面均清楚，手只作持糕展示，食物为画面主体；不以普通发糕代替，不据图推断固定配方。保留原图ND字节与全幅，图中可见果仁、红枣和红绿丝。",
+      "source": "https://www.flickr.com/photos/27232078@N02/4375023323",
+      "author": "Jake / Jake Ji",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/4375023323.jpg",
+      "originalSha256": "acadb30e690b8e43c114681a629f3b771817f08a2eb83783b2a77b47a580b7eb",
+      "metadataFile": "research/.local/china-photos-20261121-05/flickr-food-qualified-07/c90dcf87e01e4e1899d800da5a7b7447.response.gz",
+      "metadataSha256": "8917efcb20f685ababbc33603a140f0ac437875862d0ad8c5bec65b6934ead92",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "4375023323"
+    },
+    {
+      "itemId": "program-bb6fac915982500284",
+      "itemName": "金华酥饼",
+      "assetId": "cn05-commons-jinhua-subing",
+      "src": "assets/photos/china/cn05-commons-jinhua-subing.jpg",
+      "derivativeSha256": "bb23540e344de3820d71fd4a32221722ec11519934a53da7d35fb597ff364620",
+      "caption": "深圳江南酥店内下层柜台的金华酥饼实拍，2023年3月。",
+      "reason": "完整粤文说明明确金华酥饼，照片下层价签直接写金华酥饼；已看原图，金黄饼面、成品层叠和价签清楚。为具体同名糕点的近景实拍，上层为另外的糯米糍，图注区分。实际深圳拍摄，不冒称金华本地商户或所有门店统一售价。",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg",
+      "author": "DSGZodlands Wings",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-05/commons-jinhua-subing.jpg",
+      "originalSha256": "e43102db8b330d5524a8dd6dec41f6efe2e270c6e44b912a4e97e6ce6d9d9303",
+      "metadataFile": "research/.local/china-photos-20261121-05/commons-metadata-followup-05-resume/2b2a59aaefea4a2f9bae2ea2841af518.response.gz",
+      "metadataSha256": "1a463fb6fcce610682317df26d98503c19af0b03a9233b3b21726b6a5ca07b6c",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "commons-jinhua-subing"
     }
   ]
 }

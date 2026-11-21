@@ -5439,6 +5439,63 @@ window.chinaCardImages = {
       "commercialUse": false,
       "deploymentContext": "personal-informational-github-pages-without-advertising",
       "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-4375023323": {
+      "file": "chongming rice cake",
+      "src": "assets/photos/china/cn05-4375023323.jpg",
+      "width": 1024,
+      "height": 666,
+      "kind": "food",
+      "alt": "崇明糕切面与切片实拍，可见果仁、红枣和红绿丝点缀。",
+      "caption": "崇明糕切面与切片实拍，可见果仁、红枣和红绿丝点缀。",
+      "author": "Jake / Jake Ji",
+      "license": "CC BY-NC-ND 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "source": "https://www.flickr.com/photos/27232078@N02/4375023323",
+      "originalSrc": "https://live.staticflickr.com/4059/4375023323_4b16ff2f87_b.jpg",
+      "provider": "Flickr",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者直接命名chongming rice cake。已看原图，米糕切片、完整糕体与展示切面均清楚，手只作持糕展示，食物为画面主体；不以普通发糕代替，不据图推断固定配方。保留原图ND字节与全幅，图中可见果仁、红枣和红绿丝。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "source-bytes-nd-1",
+      "colorProfile": "preserved",
+      "changes": "完整保留原字节和画面。",
+      "fit": "contain",
+      "commercialUse": false,
+      "deploymentContext": "personal-informational-github-pages-without-advertising",
+      "useConditions": "限非商业使用；按原许可署名并保留使用条件。"
+    },
+    "cn05-commons-jinhua-subing": {
+      "file": "SZ 深圳 Shenzhen 羅湖 Luohu 羅沙路 Luosha Lu 蓮塘口岸 Liantang Port shopping mall 江南酥 Jianan Su Bakery March 2023 Px3 06.jpg",
+      "src": "assets/photos/china/cn05-commons-jinhua-subing.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "深圳江南酥店内下层柜台的金华酥饼实拍，2023年3月。",
+      "caption": "深圳江南酥店内下层柜台的金华酥饼实拍，2023年3月。",
+      "author": "DSGZodlands Wings",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "完整粤文说明明确金华酥饼，照片下层价签直接写金华酥饼；已看原图，金黄饼面、成品层叠和价签清楚。为具体同名糕点的近景实拍，上层为另外的糯米糍，图注区分。实际深圳拍摄，不冒称金华本地商户或所有门店统一售价。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "listPosition": "50% 100%"
     }
   },
   "cards": {
@@ -5656,7 +5713,9 @@ window.chinaCardImages = {
     "regional-6ad4439b924d2a": "cn05-cleveland-1942-825",
     "flavor-jiangsu-b987dd1904": "cn05-commons-jiangyin-matisu",
     "flavor-zhejiang-165174eadb": "cn05-50369932",
-    "county-b8826e8faa9b71": "cn05-3192462709"
+    "county-b8826e8faa9b71": "cn05-3192462709",
+    "sh-chongming-gao": "cn05-4375023323",
+    "program-bb6fac915982500284": "cn05-commons-jinhua-subing"
   },
   "galleries": {}
 };

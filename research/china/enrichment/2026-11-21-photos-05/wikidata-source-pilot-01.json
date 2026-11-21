@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+%3Fitem+%3FitemLabel+%3FitemAltLabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP495+wd%3AQ148%3B+wdt%3AP18+%3Fimage.+%3Fitem+wdt%3AP31%2Fwdt%3AP279%2A+wd%3AQ2095.+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22zh%2Cen%22.+%7D+%7D+LIMIT+500&format=json",
+      "query": "Chinese-origin food entities with actual photo links, bounded pilot",
+      "itemIds": []
+    }
+  ]
+}

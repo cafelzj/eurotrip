@@ -56,6 +56,14 @@
     {
       "file": "research/.local/china-photos-20261121-05/yakult-review-05.jpg",
       "sha256": "27a2e63a9657298586666e1b11bda85c1c22ca2de5ae0737718241bdac936051"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/food-review-07.jpg",
+      "sha256": "ca9757bbe5fa0571304f537fec0fdf3f75a65bafc221ea6aa5b66b1b8298b372"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-05/food-review-08.jpg",
+      "sha256": "cf7d2e5113db266137135561d9050ebd1b202892eea4f7d4a9d08d0f727f64d6"
     }
   ],
   "notes": [

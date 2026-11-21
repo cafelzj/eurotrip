@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 300,
-    "withListPhoto": 287,
-    "missingRealPhoto": 6327,
-    "needsListPhoto": 6340
+    "withDetailPhoto": 302,
+    "withListPhoto": 289,
+    "missingRealPhoto": 6325,
+    "needsListPhoto": 6338
   },
   "byProvince": {
     "henan": {
@@ -54,8 +54,8 @@
     "zhejiang": {
       "cards": 424,
       "shortReadings": 303,
-      "missingRealPhoto": 355,
-      "needsListPhoto": 355
+      "missingRealPhoto": 354,
+      "needsListPhoto": 354
     },
     "anhui": {
       "cards": 330,
@@ -102,8 +102,8 @@
     "shanghai": {
       "cards": 52,
       "shortReadings": 35,
-      "missingRealPhoto": 35,
-      "needsListPhoto": 35
+      "missingRealPhoto": 34,
+      "needsListPhoto": 34
     },
     "guangxi": {
       "cards": 302,
@@ -16815,19 +16815,6 @@
       "priority": 1
     },
     {
-      "itemId": "sh-chongming-gao",
-      "name": "崇明糕",
-      "province": "shanghai",
-      "city": "上海",
-      "category": "food",
-      "subcategory": "staples",
-      "readingCharacters": 62,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sw-4b362a3a8e6fb4156c",
       "name": "刷把头",
       "province": "guizhou",
@@ -32746,19 +32733,6 @@
       "city": "聊城",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 105,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-bb6fac915982500284",
-      "name": "金华酥饼",
-      "province": "zhejiang",
-      "city": "金华",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 105,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83570,6 +83544,19 @@
       "priority": 3
     },
     {
+      "itemId": "sh-chongming-gao",
+      "name": "崇明糕",
+      "province": "shanghai",
+      "city": "上海",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 62,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-hengshun",
       "name": "恒顺香醋",
       "province": "jiangsu",
@@ -84499,6 +84486,19 @@
       "city": "嘉兴",
       "category": "food",
       "subcategory": "dishes",
+      "readingCharacters": 105,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-bb6fac915982500284",
+      "name": "金华酥饼",
+      "province": "zhejiang",
+      "city": "金华",
+      "category": "food",
+      "subcategory": "staples",
       "readingCharacters": 105,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
