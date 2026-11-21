@@ -2188,8 +2188,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/candidates.json",
       "role": "research-support",
-      "bytes": 12011,
-      "sha256": "06c732789ba448cab7f88a0e1006e4460da480b66700746e500a4069151b914c"
+      "bytes": 12009,
+      "sha256": "4ee90cc886569963b35e96597824821f860193ba3f0e0cd12d47ac7b8d772c95"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/dongan-correction-source-plan.json",
@@ -2218,8 +2218,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/photo-adoption.json",
       "role": "adoption",
-      "bytes": 12540,
-      "sha256": "cab7f8dce99df608df2b8ff4463aca00fd55442efaab75fcdd855e3083e057a3"
+      "bytes": 12538,
+      "sha256": "875d23679b27356a41e40d06c6768220b9e621bd5ecb36a9e5cf64d0beeebd63"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/reading-corrections.json",

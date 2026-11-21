@@ -1961,7 +1961,7 @@ Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成�
 
 ### assets/photos/china/cn07-dahongpao-tea-leaves.jpg
 
-Author: Iateasquirrel  at  English Wikipedia
+Author: Iateasquirrel at English Wikipedia
 Source: https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg
 License: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/2/29/Da_Hong_Pao_Oolong_tea_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original

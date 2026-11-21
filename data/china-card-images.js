@@ -7130,7 +7130,7 @@ window.chinaCardImages = {
       "kind": "product",
       "alt": "大红袍干茶叶实拍示例，保留原有条索与色泽。",
       "caption": "大红袍干茶叶实拍示例，保留原有条索与色泽。",
-      "author": "Iateasquirrel  at  English Wikipedia",
+      "author": "Iateasquirrel at English Wikipedia",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg",
