@@ -450,6 +450,40 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "xinhua-sanhetang",
+      "title": "Xinhua Sanhetang at Huanxiang Restaurant, GR Mall, Beijing (20220305174652).jpg",
+      "itemIds": [
+        "program-960f1f7b94ce9392a7"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national58-original-1",
+      "rawSha256": "f003b0cb133372b1f15f1577d5a04c694f1c07b1297f5a7575cc9f0e65703d21",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/5859e17e111b4d3ba27471d47dea5fff.response.gz",
+      "metadataSha256": "75af6af6f9beb51c0860dd71da8ac963a65259dbe7487204a047c3fb33967a0f",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Xinhua_Sanhetang_at_Huanxiang_Restaurant,_GR_Mall,_Beijing_(20220305174652).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xinhua_Sanhetang_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820220305174652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "boshan-tofu-box",
+      "title": "Boshan Tofu Box.jpg",
+      "itemIds": [
+        "flavor-shandong-ef6b36ee53"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national58-original-2",
+      "rawSha256": "35497a2aa1db55c82d48f0ca9b43dfb0f53c972fd4583cdbee1426c4175d14f7",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/361f055e7a4c4d57bcb603c927894725.response.gz",
+      "metadataSha256": "099950911678166164d6a434ffcf2bc18d5f4ee8401d69856893eeeaf3f44c7b",
+      "author": "Zheng Zhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Boshan_Tofu_Box.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Boshan_Tofu_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

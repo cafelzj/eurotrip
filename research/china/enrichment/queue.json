@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 382,
-    "withListPhoto": 369,
-    "missingRealPhoto": 6245,
-    "needsListPhoto": 6258
+    "withDetailPhoto": 384,
+    "withListPhoto": 371,
+    "missingRealPhoto": 6243,
+    "needsListPhoto": 6256
   },
   "byProvince": {
     "henan": {
@@ -36,8 +36,8 @@
     "hunan": {
       "cards": 351,
       "shortReadings": 215,
-      "missingRealPhoto": 342,
-      "needsListPhoto": 342
+      "missingRealPhoto": 341,
+      "needsListPhoto": 341
     },
     "jiangsu": {
       "cards": 505,
@@ -84,8 +84,8 @@
     "shandong": {
       "cards": 501,
       "shortReadings": 272,
-      "missingRealPhoto": 495,
-      "needsListPhoto": 495
+      "missingRealPhoto": 494,
+      "needsListPhoto": 494
     },
     "jilin": {
       "cards": 120,
@@ -9879,19 +9879,6 @@
       "city": "滨州",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 53,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-shandong-ef6b36ee53",
-      "name": "博山豆腐箱",
-      "province": "shandong",
-      "city": "淄博",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 53,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -30783,19 +30770,6 @@
       "city": "淮南",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 104,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-960f1f7b94ce9392a7",
-      "name": "三合汤",
-      "province": "hunan",
-      "city": "娄底",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 104,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82335,6 +82309,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-shandong-ef6b36ee53",
+      "name": "博山豆腐箱",
+      "province": "shandong",
+      "city": "淄博",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 53,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "sh-bright-milk",
       "name": "光明鲜牛奶",
       "province": "shanghai",
@@ -84328,6 +84315,19 @@
       "name": "万三蹄",
       "province": "jiangsu",
       "city": "苏州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 104,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-960f1f7b94ce9392a7",
+      "name": "三合汤",
+      "province": "hunan",
+      "city": "娄底",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 104,

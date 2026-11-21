@@ -16,11 +16,6 @@
       "itemIds": []
     },
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Wok-Fried_Pork_Kidney_%28at_Fengzeyuan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Wok-Fried Pork Kidney (at Fengzeyuan).jpg",
-      "itemIds": []
-    },
-    {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hongshan_Caitai.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Hongshan Caitai.jpeg",
       "itemIds": []
@@ -35,5 +30,6 @@
       "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Hutangfen with Fried Dough.jpg",
       "itemIds": []
     }
-  ]
+  ],
+  "note": "丰泽园爆炒腰花只保留元数据，本轮现有缺图队列无对应菜名，不下载、不为图片新建卡片。"
 }

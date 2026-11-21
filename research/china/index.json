@@ -2182,14 +2182,14 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/README.md",
       "role": "research-support",
-      "bytes": 3066,
-      "sha256": "18ed2e893157e7bed74e20c5e6f52e64f83a4764d801005442b0967a428fa843"
+      "bytes": 3377,
+      "sha256": "8c2a9aef6860f2665373dd2334f7789ec6e77fda9d0b349596842464fc034224"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/candidates.json",
       "role": "research-support",
-      "bytes": 28735,
-      "sha256": "c970a09f24b4bcd282befdfec0902ca5642bc640a000ff17adb8247843a9aa13"
+      "bytes": 30852,
+      "sha256": "d18b5909b135f67a5c9475e7a572f4f98bede5841f07fdbee50659e598371c92"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/cangshu-original-22.json",
@@ -2356,8 +2356,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/national-followup-originals-58.json",
       "role": "research-support",
-      "bytes": 2583,
-      "sha256": "f764133d03c0770157693f1020c1cd256294a35a95138fcf2becc8eb34b2611c"
+      "bytes": 2338,
+      "sha256": "e2849be40bcde5ad0c91a833fb60cfd068eea15b892ce1b585db7d8d59dca12e"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/national-food-tea-bottle-originals-03.json",
@@ -2374,8 +2374,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/photo-adoption.json",
       "role": "adoption",
-      "bytes": 34041,
-      "sha256": "45ea8b43b342d109c1ca6d62069751ad4cdfd388bff2cffc287e16127be80c2d"
+      "bytes": 36667,
+      "sha256": "f317c76b6d92e73b2e71d0ea93f6a30aea170b943f91e141043e1e6fd66255b6"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/reading-corrections.json",
@@ -2404,8 +2404,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/source-responses.json",
       "role": "research-support",
-      "bytes": 114793,
-      "sha256": "26d7a45277cc3ff8eec1ed0640fd99ea56052e0b7f3ab5782001cd32328f648d"
+      "bytes": 119247,
+      "sha256": "13eb2f7bf2f19c013717b9d561f7ed0fc93d366a3fa05946e183d0ebda30035a"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/translated-food-aliases-41.json",
@@ -2416,14 +2416,14 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-decisions.json",
       "role": "research-support",
-      "bytes": 16384,
-      "sha256": "a78703d7e49e8d7a6f03c78513dc3284eb3953589d390ee6e164b3f19b7eca6d"
+      "bytes": 17629,
+      "sha256": "b324d4665005b410bdee7f084262357615533e7d02e7d64ce78e73b4dbd8feec"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-screening.json",
       "role": "research-support",
-      "bytes": 9515,
-      "sha256": "946f029dc89b7c7c7c4ff29b497cee7b9facc7c1cc3057d1c9e2ebbac8212d32"
+      "bytes": 10405,
+      "sha256": "061ddfd2b25735c66c9bd91debcae7bee247a1950b70231b5c86efa1d216aae3"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/wenzhou-exact-food-originals-07.json",
@@ -2441,13 +2441,13 @@
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
       "bytes": 4575,
-      "sha256": "6ef431c5994210ff31910548ababbb8d61f063e7da9e3b7cb2addaf895883a3a"
+      "sha256": "00d7abe936b98cf6bf3a3b9a9e536fea287e88e30e175651997cbec82ee8a411"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508319,
-      "sha256": "f1b547fc595a617a211fb00c17031744368431435172455d7725845d9102e77b"
+      "bytes": 2508321,
+      "sha256": "79fb6e19307fd6e045a51758bde871315d963a69fcc6badf884bb87f9e26e231"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -6215,7 +6215,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6847,
-      "sha256": "7a1fd15d69a3731bc94335d3e90a3d147f65e81d504b6e5f9129bd33030c74ba"
+      "sha256": "45df0e4fb50a20b7c7145cbfab95c2a8ca5dc6e6fbce9933415edc2d4d9e0064"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

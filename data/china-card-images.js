@@ -7759,6 +7759,58 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-xinhua-sanhetang": {
+      "file": "Xinhua Sanhetang at Huanxiang Restaurant, GR Mall, Beijing (20220305174652).jpg",
+      "src": "assets/photos/china/cn07-xinhua-sanhetang.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "新化三合汤实拍，摄于北京欢湘餐厅，2022年。",
+      "caption": "新化三合汤实拍，摄于北京欢湘餐厅，2022年。",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Xinhua_Sanhetang_at_Huanxiang_Restaurant,_GR_Mall,_Beijing_(20220305174652).jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xinhua_Sanhetang_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820220305174652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确新化三合汤及牛肉、牛肚、牛血、辣椒与山胡椒油；照片完整呈现陶碗成汤，三种主料清晰。明确为异地餐馆的同菜实拍，不冒称娄底本地门店或现行价格。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-boshan-tofu-box": {
+      "file": "Boshan Tofu Box.jpg",
+      "src": "assets/photos/china/cn07-boshan-tofu-box.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "博山豆腐箱成品实拍。",
+      "caption": "博山豆腐箱成品实拍。",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Boshan_Tofu_Box.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Boshan_Tofu_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者明确题名博山豆腐箱，豆腐方块、酱汁与配菜清楚，画面以成品为主体；不从图片推断具体馅料配方、门店或拍摄地域。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -8058,7 +8110,9 @@ window.chinaCardImages = {
     "county-bdcfc2c3777003": "cn07-yongzhou-blood-duck",
     "county-f551974f43df23": "cn07-liuyang-steamed-dishes",
     "bj-furong": "cn07-cuihualou-furong-chicken-slices",
-    "flavor-hubei-a5b44b8c59": "cn07-steamed-wuchang-bream"
+    "flavor-hubei-a5b44b8c59": "cn07-steamed-wuchang-bream",
+    "program-960f1f7b94ce9392a7": "cn07-xinhua-sanhetang",
+    "flavor-shandong-ef6b36ee53": "cn07-boshan-tofu-box"
   },
   "galleries": {}
 };

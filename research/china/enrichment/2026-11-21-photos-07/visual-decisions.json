@@ -222,6 +222,24 @@
       "reason": "作者原题与描述明确清蒸武昌鱼，鱼体、姜葱和蒸制成品清楚，保留完整菜盘。用于食用呈现实拍，不将照片当作鱼的具体养殖水域、鄂州地理标志认证或来源批次证明，图注保留这一限制。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "program-960f1f7b94ce9392a7",
+      "itemName": "三合汤",
+      "candidateId": "xinhua-sanhetang",
+      "caption": "新化三合汤实拍，摄于北京欢湘餐厅，2022年。",
+      "reason": "原作者明确新化三合汤及牛肉、牛肚、牛血、辣椒与山胡椒油；照片完整呈现陶碗成汤，三种主料清晰。明确为异地餐馆的同菜实拍，不冒称娄底本地门店或现行价格。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-shandong-ef6b36ee53",
+      "itemName": "博山豆腐箱",
+      "candidateId": "boshan-tofu-box",
+      "caption": "博山豆腐箱成品实拍。",
+      "reason": "原作者明确题名博山豆腐箱，豆腐方块、酱汁与配菜清楚，画面以成品为主体；不从图片推断具体馅料配方、门店或拍摄地域。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -260,6 +278,10 @@
     {
       "candidate": "national-category-originals-57",
       "reason": "臭豆腐低分辨率失焦偏黄；三下锅餐桌昏暗、米饭及灶具干扰；淄博风格卷饼实拍背景烤炉与桌面杂物较多；糊汤粉画面灰暗、塑料袋杂景，先不采用这些封面。"
+    },
+    {
+      "candidate": "national-followup-originals-58",
+      "reason": "长沙臭豆腐是杂乱油锅摊台，食品主体太小；洪山菜薹已萎蔫，观感不佳；荆州鱼糕多盘杂景且失焦，均不作为封面。糊汤粉原图请求429，遵守600秒暂停，不计为取得原图。"
     }
   ]
 }

@@ -456,6 +456,44 @@
       "metadataSha256": "f75c42b2f996906114447fddb3ac7239ba1765ff3e252b8b79ffaed77677aa0a",
       "action": "newly-adopted-real-photo",
       "candidateId": "steamed-wuchang-bream"
+    },
+    {
+      "itemId": "program-960f1f7b94ce9392a7",
+      "itemName": "三合汤",
+      "assetId": "cn07-xinhua-sanhetang",
+      "src": "assets/photos/china/cn07-xinhua-sanhetang.jpg",
+      "derivativeSha256": "9a321f7b5acd5f9ac856b43b981d8a3d5d89e291c1188d07c3a492d4da7d945f",
+      "caption": "新化三合汤实拍，摄于北京欢湘餐厅，2022年。",
+      "reason": "原作者明确新化三合汤及牛肉、牛肚、牛血、辣椒与山胡椒油；照片完整呈现陶碗成汤，三种主料清晰。明确为异地餐馆的同菜实拍，不冒称娄底本地门店或现行价格。",
+      "source": "https://commons.wikimedia.org/wiki/File:Xinhua_Sanhetang_at_Huanxiang_Restaurant,_GR_Mall,_Beijing_(20220305174652).jpg",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/national58-original-1",
+      "originalSha256": "f003b0cb133372b1f15f1577d5a04c694f1c07b1297f5a7575cc9f0e65703d21",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/5859e17e111b4d3ba27471d47dea5fff.response.gz",
+      "metadataSha256": "75af6af6f9beb51c0860dd71da8ac963a65259dbe7487204a047c3fb33967a0f",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "xinhua-sanhetang"
+    },
+    {
+      "itemId": "flavor-shandong-ef6b36ee53",
+      "itemName": "博山豆腐箱",
+      "assetId": "cn07-boshan-tofu-box",
+      "src": "assets/photos/china/cn07-boshan-tofu-box.jpg",
+      "derivativeSha256": "c9fdba4607c12656730444782ead017bf4ed79ed1f23bb52516ba08e8002cc23",
+      "caption": "博山豆腐箱成品实拍。",
+      "reason": "原作者明确题名博山豆腐箱，豆腐方块、酱汁与配菜清楚，画面以成品为主体；不从图片推断具体馅料配方、门店或拍摄地域。",
+      "source": "https://commons.wikimedia.org/wiki/File:Boshan_Tofu_Box.jpg",
+      "author": "Zheng Zhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/national58-original-2",
+      "originalSha256": "35497a2aa1db55c82d48f0ca9b43dfb0f53c972fd4583cdbee1426c4175d14f7",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/361f055e7a4c4d57bcb603c927894725.response.gz",
+      "metadataSha256": "099950911678166164d6a434ffcf2bc18d5f4ee8401d69856893eeeaf3f44c7b",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "boshan-tofu-box"
     }
   ]
 }

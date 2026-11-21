@@ -1379,6 +1379,64 @@
       "responseSha256": "d86da308e862934edbcc153e7fadc990d9ece549b233f391a18c3ff79c27d0ac",
       "compressedSha256": "ec208354f13a3742b090dd5441b82f4967421f8dbeda66f7feac9eab93991f26",
       "journal": "research/.local/china-photos-20261121-07/national-selected-originals-57/requests.jsonl"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Changsha.zhenzong.choudoufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Changsha.zhenzong.choudoufu.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/590c2d3d0eb74d59aa78d7793dcac725.response.gz",
+      "responseSha256": "0197bb844e0d29e5e0d9d43dac83289955548fdeef6fba6e266ffd961904cd0b",
+      "compressedSha256": "20fe25a0f35f7d5e28bbf55891a31d897cee1aff65e306c986ade5dbfe135c44"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Xinhua_Sanhetang_at_Huanxiang_Restaurant%2C_GR_Mall%2C_Beijing_%2820220305174652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Xinhua Sanhetang at Huanxiang Restaurant, GR Mall, Beijing (20220305174652).jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/d9ed23b4fe754b25aef6dce253a99263.response.gz",
+      "responseSha256": "f003b0cb133372b1f15f1577d5a04c694f1c07b1297f5a7575cc9f0e65703d21",
+      "compressedSha256": "a9c9d9c1a0cd6d92485dc44b54a1aa9a47f15806fd433bddc2c7f27bf8f5ca2e"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Boshan_Tofu_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Boshan Tofu Box.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/80400b5861df4681a7be43565d124ee9.response.gz",
+      "responseSha256": "35497a2aa1db55c82d48f0ca9b43dfb0f53c972fd4583cdbee1426c4175d14f7",
+      "compressedSha256": "d2e1522b8068df0e4963735a608de48a25dd285fe51334ff294e0e8bb75a5e69"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hongshan_Caitai.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Hongshan Caitai.jpeg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/2e925af8b1364d03a475458ffc2d9a65.response.gz",
+      "responseSha256": "a8de3266d24306e243c7fdf9522d4b4a16c536132bdb016116b472e72fe7c098",
+      "compressedSha256": "19bf1b398c659352ae9b54e25780f7bc9f13a74986b9340970f71b4187dbef7d"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hubei-zhengyugao.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Hubei-zhengyugao.JPG",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/a5926b7616ae4bd09aa4f637d37c5ce5.response.gz",
+      "responseSha256": "8f09205d2a651cecca052a74b59417eac8f46e02c5db2b444c0f701070e44fc3",
+      "compressedSha256": "103b2931626f58c99d1715cc2b69fa7c8ca518b722b4215833a9787fe9742403"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hutangfen_with_Fried_Dough.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Full followup photograph of explicitly named dish/ingredient; inspect before any card match: File:Hutangfen with Fried Dough.jpg",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 429,
+      "error": "HTTP Error 429: Too Many Requests",
+      "retryAfter": "600",
+      "deferUntilEpoch": 1795250543.9170368,
+      "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/eb1b6342e96749e193e0822ff66621df.response.gz",
+      "responseSha256": "7d89f0c347e62cd9487f75ba9218950459cf6f5ddce7ecea206d6a306d706cfc",
+      "compressedSha256": "88b568643b795ee5a61b1aca41f187261f569dc2785e1324c9024154cd5194b4"
     }
   ]
 }

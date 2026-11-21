@@ -212,6 +212,26 @@
     {
       "file": "research/.local/china-photos-20261121-07/national57-review-7.jpg",
       "sha256": "6a845d76ab0ef14b0be411fc326cee328cb94bdfff0d462fce0c7338050cf3e5"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national58-review-0.jpg",
+      "sha256": "0c25db8a93c075d8547e28aa24993cd2382145a9f2aa4031314a1f941cc71d78"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national58-review-1.jpg",
+      "sha256": "1d4508f904e592d3d5ea8c478ef644a29d4e278ec26839762fe91567beefa2f5"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national58-review-2.jpg",
+      "sha256": "7e83cee3c2ab81005e24b9881f7a471c9f413a29df5fa83e0cd811a235490398"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national58-review-3.jpg",
+      "sha256": "180cd07586d29f5a69c09bb909d1c8904b8525746be6a71278f2191caf6d2627"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national58-review-4.jpg",
+      "sha256": "b2acd61cb46e66c118aaa482ad9ad80141037604869ec484f5089f182364ae52"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"
