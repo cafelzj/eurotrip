@@ -198,6 +198,122 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-pepper-pork",
+      "title": "辣椒炒肉家常做法实拍",
+      "itemIds": [
+        "flavor-hunan-9d52bdac1d"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/recipe28-original-0",
+      "rawSha256": "6480a2578b77eba9eb07eaccb5e72d619354b78ff033faf67fe7222105466162",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-recipes-25/3cf82b9b31844a4cb583fca66288153d.response.gz",
+      "metadataSha256": "30576895dd43e28c330286b24bee00a8225d6f841bc2bb8ec6be7667681bfda1",
+      "source": "https://www.chinasichuanfood.com/pork-and-pepper-stir-fry/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2018/03/pork-and-pepper-stir-fry-26.jpg"
+    },
+    {
+      "author": "Elaine / China Sichuan Food",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      },
+      "id": "csf-lotus-root-rib-soup",
+      "title": "排骨莲藕汤家常做法实拍",
+      "itemIds": [
+        "flavor-hubei-436dd60ef7"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/recipe28-original-1",
+      "rawSha256": "854a96eb826632e61bc5e5017b775e9e21d240cd1a5731dccd2a91919953b0c2",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-recipes-25/eceee67a0e93420b9a8cd81fd40b9aee.response.gz",
+      "metadataSha256": "204cf3dfc699690e20bd6a8dd54597796993b2462063c68289502d45f145131b",
+      "source": "https://www.chinasichuanfood.com/lotus-root-soup/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2016/05/lotus-root-soup-18.jpg"
+    },
+    {
+      "id": "xuemian-red-bean-puffs",
+      "title": "Deep-Fried Egg Whites with Red Bean Paste (Xue Mian Dousha).jpg",
+      "itemIds": [
+        "program-20bfb80b40219524a2"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national33-original-0",
+      "rawSha256": "5d1877864f4bb6ec32b92f3bc2c583a0feec9145431425687676270a2e769755",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-lead-file-metadata-32/606a3a9b8e6b41fe8eaf1e8164dc43a4.response.gz",
+      "metadataSha256": "79c7bac5747afdf6e6d718586bfb5b9f5b4b5553bbd93242e059d540778c62eb",
+      "author": "Zheng Zhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Deep-Fried_Egg_Whites_with_Red_Bean_Paste_(Xue_Mian_Dousha).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/b/be/Deep-Fried_Egg_Whites_with_Red_Bean_Paste_%28Xue_Mian_Dousha%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "anhui-fermented-mandarin-fish",
+      "title": "Fermented mandarin fish.jpg",
+      "itemIds": [
+        "ah-mandarin-fish"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national33-original-1",
+      "rawSha256": "52d7d427ade9acf9d8221eec5b9a762e127dcc2e678e0317f67cd18c62d27bf3",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-lead-file-metadata-32/606a3a9b8e6b41fe8eaf1e8164dc43a4.response.gz",
+      "metadataSha256": "79c7bac5747afdf6e6d718586bfb5b9f5b4b5553bbd93242e059d540778c62eb",
+      "author": "Zheng Zhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Fermented_mandarin_fish.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fermented_mandarin_fish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "zhou-cun-sesame-shaobing",
+      "title": "周村烧饼 zhoucun shaobing.jpg",
+      "itemIds": [
+        "flavor-shandong-9779a15053"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national33-original-3",
+      "rawSha256": "3b429630e4aa808887f58dd3d11c6bddb64cc350b8406b0b2fea88c53f7e4aaf",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-lead-file-metadata-32/606a3a9b8e6b41fe8eaf1e8164dc43a4.response.gz",
+      "metadataSha256": "79c7bac5747afdf6e6d718586bfb5b9f5b4b5553bbd93242e059d540778c62eb",
+      "author": "Cartonfox",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%91%A8%E6%9D%91%E7%83%A7%E9%A5%BC_zhoucun_shaobing.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/1/16/%E5%91%A8%E6%9D%91%E7%83%A7%E9%A5%BC_zhoucun_shaobing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "dezhou-sweet-sour-carp",
+      "title": "糖醋鲤鱼2024（德州）.jpg",
+      "itemIds": [
+        "sd-carp"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national33-original-4",
+      "rawSha256": "bafb8009f2169959d040a0c89c433b6e0b927ff22c13d6aecc80dca18d597172",
+      "metadataFile": "research/.local/china-photos-20261121-07/named-lead-file-metadata-32/606a3a9b8e6b41fe8eaf1e8164dc43a4.response.gz",
+      "metadataSha256": "79c7bac5747afdf6e6d718586bfb5b9f5b4b5553bbd93242e059d540778c62eb",
+      "author": "Suginami",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC2024%EF%BC%88%E5%BE%B7%E5%B7%9E%EF%BC%89.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/57/%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC2024%EF%BC%88%E5%BE%B7%E5%B7%9E%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     }
   ]
 }

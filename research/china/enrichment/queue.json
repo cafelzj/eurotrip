@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 368,
-    "withListPhoto": 355,
-    "missingRealPhoto": 6259,
-    "needsListPhoto": 6272
+    "withDetailPhoto": 374,
+    "withListPhoto": 361,
+    "missingRealPhoto": 6253,
+    "needsListPhoto": 6266
   },
   "byProvince": {
     "henan": {
@@ -30,14 +30,14 @@
     "hubei": {
       "cards": 395,
       "shortReadings": 205,
-      "missingRealPhoto": 393,
-      "needsListPhoto": 393
+      "missingRealPhoto": 392,
+      "needsListPhoto": 392
     },
     "hunan": {
       "cards": 351,
       "shortReadings": 215,
-      "missingRealPhoto": 345,
-      "needsListPhoto": 345
+      "missingRealPhoto": 344,
+      "needsListPhoto": 344
     },
     "jiangsu": {
       "cards": 505,
@@ -60,8 +60,8 @@
     "anhui": {
       "cards": 330,
       "shortReadings": 212,
-      "missingRealPhoto": 324,
-      "needsListPhoto": 324
+      "missingRealPhoto": 323,
+      "needsListPhoto": 323
     },
     "fujian": {
       "cards": 253,
@@ -84,14 +84,14 @@
     "shandong": {
       "cards": 501,
       "shortReadings": 272,
-      "missingRealPhoto": 497,
-      "needsListPhoto": 497
+      "missingRealPhoto": 495,
+      "needsListPhoto": 495
     },
     "jilin": {
       "cards": 120,
       "shortReadings": 90,
-      "missingRealPhoto": 119,
-      "needsListPhoto": 119
+      "missingRealPhoto": 118,
+      "needsListPhoto": 118
     },
     "beijing": {
       "cards": 76,
@@ -1683,19 +1683,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-hubei-436dd60ef7",
-      "name": "排骨莲藕汤",
-      "province": "hubei",
-      "city": "武汉",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 46,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-hubei-64ca59e51a",
       "name": "宜红茶",
       "province": "hubei",
@@ -2014,19 +2001,6 @@
       "city": "威海",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 46,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "sd-carp",
-      "name": "糖醋黄河鲤鱼",
-      "province": "shandong",
-      "city": "济南",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 46,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -5921,19 +5895,6 @@
       "priority": 1
     },
     {
-      "itemId": "flavor-hunan-9d52bdac1d",
-      "name": "辣椒炒肉",
-      "province": "hunan",
-      "city": "长沙",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "flavor-hunan-c1feaebd38",
       "name": "桂东玲珑茶",
       "province": "hunan",
@@ -6473,19 +6434,6 @@
       "city": "菏泽",
       "category": "food",
       "subcategory": "dishes",
-      "readingCharacters": 50,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-shandong-9779a15053",
-      "name": "周村烧饼",
-      "province": "shandong",
-      "city": "淄博",
-      "category": "food",
-      "subcategory": "staples",
       "readingCharacters": 50,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -9240,19 +9188,6 @@
       "name": "李鸿章大杂烩",
       "province": "anhui",
       "city": "合肥",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 53,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "ah-mandarin-fish",
-      "name": "臭鳜鱼",
-      "province": "anhui",
-      "city": "黄山",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 53,
@@ -28844,19 +28779,6 @@
       "name": "排骨藕汤",
       "province": "hubei",
       "city": "武汉",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 101,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-20bfb80b40219524a2",
-      "name": "雪衣豆沙",
-      "province": "jilin",
-      "city": "长春",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 101,
@@ -81802,12 +81724,38 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-hubei-436dd60ef7",
+      "name": "排骨莲藕汤",
+      "province": "hubei",
+      "city": "武汉",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 46,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-e9fc4e4cb6",
       "name": "无锡小笼包",
       "province": "jiangsu",
       "city": "无锡",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 46,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "sd-carp",
+      "name": "糖醋黄河鲤鱼",
+      "province": "shandong",
+      "city": "济南",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 46,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -82036,6 +81984,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-hunan-9d52bdac1d",
+      "name": "辣椒炒肉",
+      "province": "hunan",
+      "city": "长沙",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-jiangsu-36907426de",
       "name": "钦工肉圆",
       "province": "jiangsu",
@@ -82105,6 +82066,19 @@
       "name": "锅烙",
       "province": "liaoning",
       "city": "锦州",
+      "category": "food",
+      "subcategory": "staples",
+      "readingCharacters": 50,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "flavor-shandong-9779a15053",
+      "name": "周村烧饼",
+      "province": "shandong",
+      "city": "淄博",
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 50,
@@ -82394,6 +82368,19 @@
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 52,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "ah-mandarin-fish",
+      "name": "臭鳜鱼",
+      "province": "anhui",
+      "city": "黄山",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 53,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -84162,6 +84149,19 @@
       "category": "food",
       "subcategory": "staples",
       "readingCharacters": 100,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-20bfb80b40219524a2",
+      "name": "雪衣豆沙",
+      "province": "jilin",
+      "city": "长春",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 101,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",

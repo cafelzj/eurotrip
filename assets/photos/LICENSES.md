@@ -2030,3 +2030,51 @@ Source: https://commons.wikimedia.org/wiki/File:Dry-mixed_Malatang_and_Teewow_Ho
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/f/f0/Dry-mixed_Malatang_and_Teewow_Honey_Yuja_Tea-20210620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-csf-pepper-pork.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/pork-and-pepper-stir-fry/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2018/03/pork-and-pepper-stir-fry-26.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-csf-lotus-root-rib-soup.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/lotus-root-soup/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2016/05/lotus-root-soup-18.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-xuemian-red-bean-puffs.jpg
+
+Author: Zheng Zhou
+Source: https://commons.wikimedia.org/wiki/File:Deep-Fried_Egg_Whites_with_Red_Bean_Paste_(Xue_Mian_Dousha).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/b/be/Deep-Fried_Egg_Whites_with_Red_Bean_Paste_%28Xue_Mian_Dousha%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-anhui-fermented-mandarin-fish.jpg
+
+Author: Zheng Zhou
+Source: https://commons.wikimedia.org/wiki/File:Fermented_mandarin_fish.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/0/0a/Fermented_mandarin_fish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-zhou-cun-sesame-shaobing.jpg
+
+Author: Cartonfox
+Source: https://commons.wikimedia.org/wiki/File:%E5%91%A8%E6%9D%91%E7%83%A7%E9%A5%BC_zhoucun_shaobing.jpg
+License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/1/16/%E5%91%A8%E6%9D%91%E7%83%A7%E9%A5%BC_zhoucun_shaobing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-dezhou-sweet-sour-carp.jpg
+
+Author: Suginami
+Source: https://commons.wikimedia.org/wiki/File:%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC2024%EF%BC%88%E5%BE%B7%E5%B7%9E%EF%BC%89.jpg
+License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/57/%E7%B3%96%E9%86%8B%E9%B2%A4%E9%B1%BC2024%EF%BC%88%E5%BE%B7%E5%B7%9E%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。

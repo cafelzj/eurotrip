@@ -48,6 +48,42 @@
     {
       "file": "research/.local/china-photos-20261121-07/cangshu22-review.jpg",
       "sha256": "06e071f994f2b64bb6593b9afd5d8315439983221d941b1ab8aa46bf077f7463"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/recipe28-review-0.jpg",
+      "sha256": "3675dfdfdbe0fdc121efce742e87fd85d6afa6d5830ca90540af52e7ac448c06"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/recipe28-review-1.jpg",
+      "sha256": "ae9a47ffd364002b9604e5b3b65a3eea0a44b06d162e608a43f8b734eabab88c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/wuxi29-review.jpg",
+      "sha256": "0b6fe69f628eae5e7b6b7e2543efc161df5df8aec1bd5c0f1dbeb9b792c9295b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-0.jpg",
+      "sha256": "c6dc0ac9cdc7734f1ef715c893d60d9a88a70dc48815674b997d32da5dad04a3"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-1.jpg",
+      "sha256": "da76a8804d67373fcf0a78410e306839d91a7e9df1ece847fcde6e7582d517ea"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-2.jpg",
+      "sha256": "269b9a77fa8df49e42fa71fb6b7e3b5f1ffd41cb3a56328702e85821249415e5"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-3.jpg",
+      "sha256": "a6a0a603267852f383a901ae095f282d8f212ab59011707d7f8a52d562e8a179"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-4.jpg",
+      "sha256": "9b797084fd2a316da5ad119da46769e51dd752b5d51786a8b5b528769de141dc"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national33-review-5.jpg",
+      "sha256": "f7692a7b73615d7b8144b9b1302226a8d2b6fb6883bf4ad981d5905f1e5d8512"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

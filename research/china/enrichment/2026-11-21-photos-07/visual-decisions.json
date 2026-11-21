@@ -94,6 +94,62 @@
       "reason": "作者明确标为麻辣拌并说明与抚顺的地方关联；实拍坐标在苏州，因此只作为同一道麻辣拌的异地制作实例，不称抚顺门店或地方独有配方。全幅可见蔬菜、豆制品与粉类拌汁后的成品，菜碗主体清楚、光线自然；旁边柚子茶不是麻辣拌原料。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-hunan-9d52bdac1d",
+      "itemName": "辣椒炒肉",
+      "candidateId": "csf-pepper-pork",
+      "caption": "辣椒炒肉家常做法实拍，以青椒配猪肉片快炒。",
+      "reason": "原作者题为青椒炒肉，原料是猪肉薄片、鲜青椒和蒜等；画面肉片、绿色椒片与炒制成品清楚，光线自然、保留原水印。仅作同一道家常辣椒炒肉的做法实例，不称长沙门店拍摄，更不用于指定余干辣椒品种的“余干辣椒炒肉”。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "flavor-hubei-436dd60ef7",
+      "itemName": "排骨莲藕汤",
+      "candidateId": "csf-lotus-root-rib-soup",
+      "caption": "排骨莲藕汤家常版本实拍；这锅另加入花生。",
+      "reason": "原作者明确关联湖北家庭的排骨莲藕汤，并区分广东常加入花生的版本；采用的是同道汤的家常实拍，图注注明额外加入花生，不将作者这锅等同武汉唯一标准。完整画面可见粉红藕块、带骨排骨和汤汁，主体清楚，保留原水印。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "program-20bfb80b40219524a2",
+      "itemName": "雪衣豆沙",
+      "candidateId": "xuemian-red-bean-puffs",
+      "caption": "雪绵豆沙（雪衣豆沙）成品实拍，外层为蛋白泡。",
+      "reason": "原作者明确雪绵豆沙／高力豆沙并标英文蛋白包豆沙油炸成品，与现有雪衣豆沙的蛋泡包豆沙做法对应。盘中成品洁白蓬松、撒糖清楚，未把普通豆沙包误认；只说明同道成菜实拍，不称吉林门店出品。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "ah-mandarin-fish",
+      "itemName": "臭鳜鱼",
+      "candidateId": "anhui-fermented-mandarin-fish",
+      "caption": "安徽臭鳜鱼成品实拍。",
+      "reason": "原作者明确安徽发酵鳜鱼，成品鱼形和烹调后的酱汁完整清楚，主体占比高；不将其他鱼种或未经发酵的红烧鱼替代，不补写未证明的具体餐馆和拍摄县区。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-shandong-9779a15053",
+      "itemName": "周村烧饼",
+      "candidateId": "zhou-cun-sesame-shaobing",
+      "caption": "周村烧饼实拍，可见薄脆饼身与芝麻层。",
+      "reason": "原作者直接以淄博周村烧饼命名、声明自摄并以CC0提供；盘中薄饼及芝麻表面清楚，中心破口可见饼身很薄，未用普通厚烧饼替代。保留原自然光，不调亮或补生成纹理。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sd-carp",
+      "itemName": "糖醋黄河鲤鱼",
+      "candidateId": "dezhou-sweet-sour-carp",
+      "caption": "糖醋鲤鱼成品实拍，摄于德州；照片不证明原料来自黄河。",
+      "reason": "作者明确糖醋鲤鱼与2024年德州，成品为弯翘鱼身、刀花与糖醋汁的同道菜肴示例。现有卡片介绍济南鲁菜，未将拍摄地点冒称济南，也未把照片作为黄河原料或地理标志证明；图注保留地域和原料来源限制。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -104,6 +160,14 @@
     {
       "candidate": "liubao-and-cangshu-followup-16-22",
       "reason": "六堡茶图以冲茶活动人物为主体，不是清楚的茶叶或茶汤；藏书羊肉是整板羊糕近照，保鲜膜反光且色泽灰暗，没有采用为封面。"
+    },
+    {
+      "candidate": "wuxi-maohua-yulan-meal",
+      "reason": "作者无锡毛华美食原始游记与CC BY-SA4明确，但全幅主要是酸辣汤，玉兰饼只占小部分并有筷子横跨，未作为玉兰饼封面。原图与许可继续保留。"
+    },
+    {
+      "candidate": "taigu-and-congbaogui-33",
+      "reason": "太谷饼原件整体失焦模糊；葱包桧被咬过、形状不完整，不作列表封面。平遥牛肉条目首图为店面，不采用为牛肉实拍；台北干拌面线不作福建面线糊。"
     }
   ]
 }
