@@ -1501,3 +1501,28 @@ Source: https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%BE%85%E6%B9%96_Luohu_%E7%BE%85%E6%B2%99%E8%B7%AF_Luosha_Lu_%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8_Liantang_Port_shopping_mall_%E6%B1%9F%E5%8D%97%E9%85%A5_Jianan_Su_Bakery_March_2023_Px3_06.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-beijing-qintang-ruandou.jpg
+
+Author: 北京旅游网（原稿未单列摄影者）
+Source: https://www.visitbeijing.com.cn/article/47QmdZpn8bm
+License: [北京旅游网原稿转载声明：注明来源；本项目限非商业资料展示](https://www.visitbeijing.com.cn/article/47QmdZpn8bm)
+Original image URL: https://img-rs.visitbeijing.com.cn/image/e9bb5a340f4322c94acb6d073f5b3e7cc5.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+Use conditions: 按原稿明确转载声明注明北京旅游网及原文链接；本项目限非商业资料展示。原稿未单列摄影者，不虚构个人署名；保留原有版式与署名。
+
+### assets/photos/china/cn05-bazirou-beijing.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Bazirou_above_rice_at_Chao_Yi_Xing,_Caoqiao,_Beijing_(20231209134804).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg/960px-Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn05-beggars-chicken-lotus.jpg
+
+Author: Pauloleong2002
+Source: https://commons.wikimedia.org/wiki/File:Chicken_packed_with_lotus_leaf.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chicken_packed_with_lotus_leaf.jpg/960px-Chicken_packed_with_lotus_leaf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

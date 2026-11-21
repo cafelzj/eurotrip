@@ -1,0 +1,42 @@
+{
+  "jobs": [
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E6%8A%8A%E5%AD%90%E8%82%89&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 把子肉",
+      "itemIds": [
+        "program-8da0619ace8cd0cc98"
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E8%9B%99%E9%B1%BC&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 蛙鱼",
+      "itemIds": [
+        "flavor-jiangsu-70c2f71073"
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8F%AB%E8%8A%B1%E9%B8%A1&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 叫花鸡",
+      "itemIds": [
+        "js-beggar-chicken"
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8D%83%E5%BC%A0%E5%8C%85%E5%AD%90&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 千张包子",
+      "itemIds": []
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8D%97%E9%80%9A%E7%81%AB%E9%A5%BA&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 南通火饺",
+      "itemIds": [
+        "flavor-jiangsu-340f3cfead"
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ABazirou+above+rice+at+Chao+Yi+Xing%2C+Caoqiao%2C+Beijing+%2820231209134804%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual discovered named food photograph original metadata",
+      "itemIds": []
+    }
+  ]
+}

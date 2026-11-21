@@ -383,6 +383,64 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "beijing-qintang-ruandou",
+      "title": "秦唐中餐厅淮安软兜（北京旅游网2018年原稿）",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/beijing-qintang-ruandou.jpg",
+      "rawSha256": "2db8d696a1588de86f1e7340ba0047f45446560988ec045a2890c2496f6a3a5b",
+      "metadataFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/a174c34c24c44322969a0eabf9e7b556.response.gz",
+      "metadataSha256": "99f5be2560918c893e91ec7bccdbbcc41976f7e58e509ca7000dc44f8f920b27",
+      "author": "北京旅游网（原稿未单列摄影者）",
+      "source": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+      "preview": "https://img-rs.visitbeijing.com.cn/image/e9bb5a340f4322c94acb6d073f5b3e7cc5.jpg",
+      "provider": "北京旅游网",
+      "license": "北京旅游网原稿转载声明：注明来源；本项目限非商业资料展示",
+      "licenseUrl": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/a174c34c24c44322969a0eabf9e7b556.response.gz",
+        "sha256": "99f5be2560918c893e91ec7bccdbbcc41976f7e58e509ca7000dc44f8f920b27",
+        "url": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+        "conditions": "原稿明确声明为北京旅游网原创、版权仍归北京旅游网，转载请注明来自北京旅游网。按该逐篇声明保留署名与原文链接，非商业资料展示；不扩展为所有第三方转载图片的许可。"
+      }
+    },
+    {
+      "id": "bazirou-beijing",
+      "title": "Bazirou above rice at Chao Yi Xing, Caoqiao, Beijing (20231209134804).jpg",
+      "itemIds": [
+        "program-8da0619ace8cd0cc98"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/bazirou-beijing.jpg",
+      "rawSha256": "f50e7b806b3264f254d5d5d8a2763074052e47b4af9ba63ac3a65adf14794c64",
+      "metadataFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/a61de3592eac48f8bb32e03ed89eee7b.response.gz",
+      "metadataSha256": "2e0f4d001d7d58ce2c8a8c2dfda720216f889747b6149bfc82842cc02554a60f",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Bazirou_above_rice_at_Chao_Yi_Xing,_Caoqiao,_Beijing_(20231209134804).jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg/960px-Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "beggars-chicken-lotus",
+      "title": "Chicken packed with lotus leaf.jpg",
+      "itemIds": [
+        "js-beggar-chicken"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-05/beggars-chicken-lotus.jpg",
+      "rawSha256": "8ca23aae3bc2e45a0693b9498056ba73c7d2db9199a2758dead789858f532032",
+      "metadataFile": "research/.local/china-photos-20261121-05/named-food-image-followup-10/08c7f7aac63e4c42bb093b800c21987e.response.gz",
+      "metadataSha256": "2f1ef6592b489810dcca8f6e6809e4eb9d6c87be9073471809ff5aee63a8990c",
+      "author": "Pauloleong2002",
+      "source": "https://commons.wikimedia.org/wiki/File:Chicken_packed_with_lotus_leaf.jpg",
+      "preview": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chicken_packed_with_lotus_leaf.jpg/960px-Chicken_packed_with_lotus_leaf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

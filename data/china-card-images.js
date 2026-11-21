@@ -5496,6 +5496,92 @@ window.chinaCardImages = {
       "colorProfile": "source-without-profile",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
       "listPosition": "50% 100%"
+    },
+    "cn05-beijing-qintang-ruandou": {
+      "file": "秦唐中餐厅淮安软兜（北京旅游网2018年原稿）",
+      "src": "assets/photos/china/cn05-beijing-qintang-ruandou.jpg",
+      "width": 398,
+      "height": 531,
+      "kind": "food",
+      "alt": "北京秦唐中餐厅的淮安软兜实拍，保留北京旅游网2018年原稿版式。",
+      "caption": "北京秦唐中餐厅的淮安软兜实拍，保留北京旅游网2018年原稿版式。",
+      "author": "北京旅游网（原稿未单列摄影者）",
+      "license": "北京旅游网原稿转载声明：注明来源；本项目限非商业资料展示",
+      "licenseUrl": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+      "source": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+      "originalSrc": "https://img-rs.visitbeijing.com.cn/image/e9bb5a340f4322c94acb6d073f5b3e7cc5.jpg",
+      "provider": "北京旅游网",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "完整原稿将该图直接对应淮安软兜／软兜长鱼，并说明餐厅位于北京、由南京厨师制作，菜名、黄鳝背肉形态与条目一致。已看原图，鳝肉与红色器皿清楚，为实拍而非生成画面；原片含文字和署名版式，详情保留完整原作，不将版内历史说法写入条目正文。逐篇原创及转载声明已保存，作者按发布机构署名，未虚构摄影者或CC许可。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/a174c34c24c44322969a0eabf9e7b556.response.gz",
+        "sha256": "99f5be2560918c893e91ec7bccdbbcc41976f7e58e509ca7000dc44f8f920b27",
+        "url": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+        "conditions": "原稿明确声明为北京旅游网原创、版权仍归北京旅游网，转载请注明来自北京旅游网。按该逐篇声明保留署名与原文链接，非商业资料展示；不扩展为所有第三方转载图片的许可。"
+      },
+      "useConditions": "原稿明确声明为北京旅游网原创、版权仍归北京旅游网，转载请注明来自北京旅游网。按该逐篇声明保留署名与原文链接，非商业资料展示；不扩展为所有第三方转载图片的许可。",
+      "listPosition": "50% 65%"
+    },
+    "cn05-bazirou-beijing": {
+      "file": "Bazirou above rice at Chao Yi Xing, Caoqiao, Beijing (20231209134804).jpg",
+      "src": "assets/photos/china/cn05-bazirou-beijing.jpg",
+      "width": 960,
+      "height": 640,
+      "kind": "food",
+      "alt": "把子肉配米饭实拍，摄于北京超意兴草桥店。",
+      "caption": "把子肉配米饭实拍，摄于北京超意兴草桥店。",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bazirou_above_rice_at_Chao_Yi_Xing,_Caoqiao,_Beijing_(20231209134804).jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg/960px-Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者文件名直接命名Bazirou，中文百科原文将同名把子肉同时列为徐州、济南等地日常菜，并说明各地做法略有不同。已看原图，长条五花肉与米饭主体完整、酱色清楚、餐具整洁。采用同名菜品的异地餐馆实拍，明确实际北京门店，不据此宣称徐州拍摄或完全相同的本地配方。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn05-beggars-chicken-lotus": {
+      "file": "Chicken packed with lotus leaf.jpg",
+      "src": "assets/photos/china/cn05-beggars-chicken-lotus.jpg",
+      "width": 960,
+      "height": 576,
+      "kind": "food",
+      "alt": "拆开荷叶后的叫花鸡实拍，实际拍摄于杭州。",
+      "caption": "拆开荷叶后的叫花鸡实拍，实际拍摄于杭州。",
+      "author": "Pauloleong2002",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chicken_packed_with_lotus_leaf.jpg",
+      "originalSrc": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chicken_packed_with_lotus_leaf.jpg/960px-Chicken_packed_with_lotus_leaf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-05",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "中文叫化鸡条目及原文件民俗类别共同支持具体叫花鸡主题，条目说明常熟起源及向杭州传播的关系，原元数据保留实际杭州拍摄地。已看原图，整鸡、荷叶包裹及成品形态清楚，餐桌无其他餐具杂物干扰。以同名叫花鸡成品实拍作为例，不冒称常熟餐馆出品，也不由成品照片断言完整封泥或烤制过程。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -5715,7 +5801,10 @@ window.chinaCardImages = {
     "flavor-zhejiang-165174eadb": "cn05-50369932",
     "county-b8826e8faa9b71": "cn05-3192462709",
     "sh-chongming-gao": "cn05-4375023323",
-    "program-bb6fac915982500284": "cn05-commons-jinhua-subing"
+    "program-bb6fac915982500284": "cn05-commons-jinhua-subing",
+    "js-ruandou-eel": "cn05-beijing-qintang-ruandou",
+    "program-8da0619ace8cd0cc98": "cn05-bazirou-beijing",
+    "js-beggar-chicken": "cn05-beggars-chicken-lotus"
   },
   "galleries": {}
 };

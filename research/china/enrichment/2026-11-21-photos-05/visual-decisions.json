@@ -167,6 +167,35 @@
       "reason": "完整粤文说明明确金华酥饼，照片下层价签直接写金华酥饼；已看原图，金黄饼面、成品层叠和价签清楚。为具体同名糕点的近景实拍，上层为另外的糯米糍，图注区分。实际深圳拍摄，不冒称金华本地商户或所有门店统一售价。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "js-ruandou-eel",
+      "itemName": "软兜长鱼",
+      "candidateId": "beijing-qintang-ruandou",
+      "caption": "北京秦唐中餐厅的淮安软兜实拍，保留北京旅游网2018年原稿版式。",
+      "reason": "完整原稿将该图直接对应淮安软兜／软兜长鱼，并说明餐厅位于北京、由南京厨师制作，菜名、黄鳝背肉形态与条目一致。已看原图，鳝肉与红色器皿清楚，为实拍而非生成画面；原片含文字和署名版式，详情保留完整原作，不将版内历史说法写入条目正文。逐篇原创及转载声明已保存，作者按发布机构署名，未虚构摄影者或CC许可。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true,
+      "noncommercialContext": "personal-informational-github-pages-without-advertising"
+    },
+    {
+      "itemId": "program-8da0619ace8cd0cc98",
+      "itemName": "把子肉",
+      "candidateId": "bazirou-beijing",
+      "caption": "把子肉配米饭实拍，摄于北京超意兴草桥店。",
+      "reason": "原作者文件名直接命名Bazirou，中文百科原文将同名把子肉同时列为徐州、济南等地日常菜，并说明各地做法略有不同。已看原图，长条五花肉与米饭主体完整、酱色清楚、餐具整洁。采用同名菜品的异地餐馆实拍，明确实际北京门店，不据此宣称徐州拍摄或完全相同的本地配方。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "js-beggar-chicken",
+      "itemName": "常熟叫花鸡",
+      "candidateId": "beggars-chicken-lotus",
+      "caption": "拆开荷叶后的叫花鸡实拍，实际拍摄于杭州。",
+      "reason": "中文叫化鸡条目及原文件民俗类别共同支持具体叫花鸡主题，条目说明常熟起源及向杭州传播的关系，原元数据保留实际杭州拍摄地。已看原图，整鸡、荷叶包裹及成品形态清楚，餐桌无其他餐具杂物干扰。以同名叫花鸡成品实拍作为例，不冒称常熟餐馆出品，也不由成品照片断言完整封泥或烤制过程。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -329,6 +358,26 @@
     {
       "candidateId": "8217081638",
       "reason": "大桌多个蒸笼、杯盘杂景，尚未确认所需地方汤包版本，不作封面。"
+    },
+    {
+      "candidateId": "475300194",
+      "reason": "实际为明治配送木箱，不是牛奶产品；不能作为乳品成品封面。"
+    },
+    {
+      "candidateId": "425125761",
+      "reason": "实际为明治配送木箱，不是牛奶产品；不能作为乳品成品封面。"
+    },
+    {
+      "candidateId": "1858189292",
+      "reason": "黑白木箱、局部品牌彩色效果，不采用为乳品产品照片。"
+    },
+    {
+      "candidateId": "5122647481",
+      "reason": "夜景背景占画面大部，瓶身小、开盖，继续找更清楚整洁的品牌产品照。"
+    },
+    {
+      "candidateId": "437332055",
+      "reason": "电脑杂物桌、瓶身只露局部且保质日期故事不宜代表当前产品，继续寻找更完整照片。"
     }
   ]
 }

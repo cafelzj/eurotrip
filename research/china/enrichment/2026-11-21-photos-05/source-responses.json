@@ -5773,6 +5773,491 @@
       "responseSha256": "fc0c1bf0a24a8a9a6f18de59edcc58b5e1456ba9d270128ddb1977eec6a9a1cf",
       "compressedSha256": "1a463fb6fcce610682317df26d98503c19af0b03a9233b3b21726b6a5ca07b6c",
       "journal": "research/.local/china-photos-20261121-05/commons-metadata-followup-05-resume/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47QseFlqz91",
+      "query": "Full Nanjing Impressions named taro dish and original reuse statement",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/b6558af5808746d3996e505e45511df1.response.gz",
+      "responseSha256": "e38f2c1235ad647a7b516413fce25a792884cda9605b71ba3f100b51cd3448b4",
+      "compressedSha256": "31c1fea16d77f81ee0254b2fdb82905b0c2dc1b4fb12de5365373be3bf6e1f5b",
+      "journal": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47Qme4pKiWj",
+      "query": "Full Jiangzhe dishes and original photo reuse statement",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/e03d50d8babf4e11b5bc04e1d200c32c.response.gz",
+      "responseSha256": "cf90d71849dff176e18ec0198af96533f79e2c4c814fda0761327307d01a1da4",
+      "compressedSha256": "ea1d337b5ba806e974964610b6e8a1eda89ad5d52cf24598843e7e43e2289114",
+      "journal": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/4OWNPE1eW7m",
+      "query": "Full braised pork, duck soup and beggar chicken subject photos and source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/aeca49b6a7d042b195c34a191566fc63.response.gz",
+      "responseSha256": "687a98fabd19ea135ff6fcaec70e858f41fa17a69d93153eb81f0c97162afab1",
+      "compressedSha256": "0923c5468d2ab600d814ef4a158572f7533583b3985c3fd01a1459b5fb8086bb",
+      "journal": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47Qnanh70UY",
+      "query": "Full named Nanjing dessert photographs and source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/6c0b99a041dc45dda4e48f3a5f18a619.response.gz",
+      "responseSha256": "356111a0b583bd1479ad30917fe25546dffba5f5ad77f25a629d4296304170b6",
+      "compressedSha256": "ea440196643c43a0b690f86989b6e1b91ce09810af6fe317549750bc163c9610",
+      "journal": "research/.local/china-photos-20261121-05/beijing-named-food-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+VALUES+%3Flabel+%7B+%22%E7%8E%89%E5%85%B0%E9%A5%BC%22%40zh+%22%E7%8E%89%E5%85%B0%E9%A5%BC%22%40zh-hans+%22%E7%8E%89%E5%85%B0%E9%A5%BC%22%40zh-cn+%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22%40zh+%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22%40zh-hans+%22%E7%9A%AE%E8%82%9A%E9%9D%A2%22%40zh-cn+%22%E6%B6%9F%E6%B0%B4%E5%8D%83%E5%BC%A0%22%40zh+%22%E6%B6%9F%E6%B0%B4%E5%8D%83%E5%BC%A0%22%40zh-hans+%22%E6%B6%9F%E6%B0%B4%E5%8D%83%E5%BC%A0%22%40zh-cn+%22%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89%22%40zh+%22%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89%22%40zh-hans+%22%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89%22%40zh-cn+%22%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97%22%40zh+%22%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97%22%40zh-hans+%22%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97%22%40zh-cn+%22%E9%87%91%E9%92%B1%E8%90%9D%E5%8D%9C%E9%A5%BC%22%40zh+%22%E9%87%91%E9%92%B1%E8%90%9D%E5%8D%9C%E9%A5%BC%22%40zh-hans+%22%E9%87%91%E9%92%B1%E8%90%9D%E5%8D%9C%E9%A5%BC%22%40zh-cn+%22%E5%8D%97%E9%80%9A%E7%81%AB%E9%A5%BA%22%40zh+%22%E5%8D%97%E9%80%9A%E7%81%AB%E9%A5%BA%22%40zh-hans+%22%E5%8D%97%E9%80%9A%E7%81%AB%E9%A5%BA%22%40zh-cn+%22%E6%97%A0%E9%94%A1%E4%B8%89%E9%B2%9C%E9%A6%84%E9%A5%A8%22%40zh+%22%E6%97%A0%E9%94%A1%E4%B8%89%E9%B2%9C%E9%A6%84%E9%A5%A8%22%40zh-hans+%22%E6%97%A0%E9%94%A1%E4%B8%89%E9%B2%9C%E9%A6%84%E9%A5%A8%22%40zh-cn+%22%E6%B1%AA%E6%81%95%E6%9C%89%E6%BB%B4%E9%86%8B%22%40zh+%22%E6%B1%AA%E6%81%95%E6%9C%89%E6%BB%B4%E9%86%8B%22%40zh-hans+%22%E6%B1%AA%E6%81%95%E6%9C%89%E6%BB%B4%E9%86%8B%22%40zh-cn+%22%E7%81%8C%E4%BA%91%E5%A4%A7%E7%B3%95%22%40zh+%22%E7%81%8C%E4%BA%91%E5%A4%A7%E7%B3%95%22%40zh-hans+%22%E7%81%8C%E4%BA%91%E5%A4%A7%E7%B3%95%22%40zh-cn+%22%E6%B6%9F%E6%B0%B4%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh+%22%E6%B6%9F%E6%B0%B4%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh-hans+%22%E6%B6%9F%E6%B0%B4%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh-cn+%22%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9B%A2%22%40zh+%22%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9B%A2%22%40zh-hans+%22%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9B%A2%22%40zh-cn+%22%E5%A6%82%E6%84%8F%E5%9B%9E%E5%8D%A4%E5%B9%B2%22%40zh+%22%E5%A6%82%E6%84%8F%E5%9B%9E%E5%8D%A4%E5%B9%B2%22%40zh-hans+%22%E5%A6%82%E6%84%8F%E5%9B%9E%E5%8D%A4%E5%B9%B2%22%40zh-cn+%22%E7%8A%B6%E5%85%83%E8%B1%86%22%40zh+%22%E7%8A%B6%E5%85%83%E8%B1%86%22%40zh-hans+%22%E7%8A%B6%E5%85%83%E8%B1%86%22%40zh-cn+%22%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5%22%40zh+%22%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5%22%40zh-hans+%22%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5%22%40zh-cn+%22%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89%22%40zh+%22%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89%22%40zh-hans+%22%E6%A2%85%E5%B9%B2%E8%8F%9C%E7%84%96%E8%82%89%22%40zh-cn+%22%E9%A9%AC%E5%8E%82%E9%A6%8D%E5%A4%B4%22%40zh+%22%E9%A9%AC%E5%8E%82%E9%A6%8D%E5%A4%B4%22%40zh-hans+%22%E9%A9%AC%E5%8E%82%E9%A6%8D%E5%A4%B4%22%40zh-cn+%22%E9%92%B1%E9%9B%86%E5%8D%A4%E9%B9%85%22%40zh+%22%E9%92%B1%E9%9B%86%E5%8D%A4%E9%B9%85%22%40zh-hans+%22%E9%92%B1%E9%9B%86%E5%8D%A4%E9%B9%85%22%40zh-cn+%22%E5%A5%87%E5%9B%AD%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh+%22%E5%A5%87%E5%9B%AD%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh-hans+%22%E5%A5%87%E5%9B%AD%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh-cn+%22%E6%B6%9F%E6%B0%B4%E9%B8%A1%E7%B3%95%22%40zh+%22%E6%B6%9F%E6%B0%B4%E9%B8%A1%E7%B3%95%22%40zh-hans+%22%E6%B6%9F%E6%B0%B4%E9%B8%A1%E7%B3%95%22%40zh-cn+%22%E6%96%87%E8%9B%A4%E4%B8%B8%E5%AD%90%22%40zh+%22%E6%96%87%E8%9B%A4%E4%B8%B8%E5%AD%90%22%40zh-hans+%22%E6%96%87%E8%9B%A4%E4%B8%B8%E5%AD%90%22%40zh-cn+%22%E5%92%8C%E6%A1%A5%E8%B1%86%E8%85%90%E5%B9%B2%22%40zh+%22%E5%92%8C%E6%A1%A5%E8%B1%86%E8%85%90%E5%B9%B2%22%40zh-hans+%22%E5%92%8C%E6%A1%A5%E8%B1%86%E8%85%90%E5%B9%B2%22%40zh-cn+%22%E6%B5%B7%E5%AE%89%E7%B3%AF%E7%B1%B3%E9%85%92%22%40zh+%22%E6%B5%B7%E5%AE%89%E7%B3%AF%E7%B1%B3%E9%85%92%22%40zh-hans+%22%E6%B5%B7%E5%AE%89%E7%B3%AF%E7%B1%B3%E9%85%92%22%40zh-cn+%22%E5%8D%97%E9%80%9A%E5%B5%8C%E6%A1%83%E9%BA%BB%E7%B3%95%22%40zh+%22%E5%8D%97%E9%80%9A%E5%B5%8C%E6%A1%83%E9%BA%BB%E7%B3%95%22%40zh-hans+%22%E5%8D%97%E9%80%9A%E5%B5%8C%E6%A1%83%E9%BA%BB%E7%B3%95%22%40zh-cn+%22%E6%96%B0%E6%98%8C%E6%98%A5%E9%A5%BC%22%40zh+%22%E6%96%B0%E6%98%8C%E6%98%A5%E9%A5%BC%22%40zh-hans+%22%E6%96%B0%E6%98%8C%E6%98%A5%E9%A5%BC%22%40zh-cn+%22%E7%9B%90%E5%9F%8E%E8%8D%89%E7%82%89%E9%A5%BC%22%40zh+%22%E7%9B%90%E5%9F%8E%E8%8D%89%E7%82%89%E9%A5%BC%22%40zh-hans+%22%E7%9B%90%E5%9F%8E%E8%8D%89%E7%82%89%E9%A5%BC%22%40zh-cn+%22%E5%8D%97%E9%80%9A%E8%B7%B3%E9%9D%A2%22%40zh+%22%E5%8D%97%E9%80%9A%E8%B7%B3%E9%9D%A2%22%40zh-hans+%22%E5%8D%97%E9%80%9A%E8%B7%B3%E9%9D%A2%22%40zh-cn+%22%E9%BE%99%E8%A2%8D%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh+%22%E9%BE%99%E8%A2%8D%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh-hans+%22%E9%BE%99%E8%A2%8D%E8%9F%B9%E9%BB%84%E5%8C%85%22%40zh-cn+%22%E8%9B%99%E9%B1%BC%22%40zh+%22%E8%9B%99%E9%B1%BC%22%40zh-hans+%22%E8%9B%99%E9%B1%BC%22%40zh-cn+%22%E6%B4%AA%E6%B3%BD%E5%B0%8F%E9%B1%BC%E9%94%85%E8%B4%B4%22%40zh+%22%E6%B4%AA%E6%B3%BD%E5%B0%8F%E9%B1%BC%E9%94%85%E8%B4%B4%22%40zh-hans+%22%E6%B4%AA%E6%B3%BD%E5%B0%8F%E9%B1%BC%E9%94%85%E8%B4%B4%22%40zh-cn+%7D+%3Fitem+%28rdfs%3Alabel%7Cskos%3AaltLabel%29+%3Flabel%3B+wdt%3AP18+%3Fimage.+%7D+LIMIT+120&format=json",
+      "query": "Existing missing JZY named entities and photo links 0",
+      "itemIds": [
+        "flavor-jiangsu-614a338f09",
+        "flavor-jiangsu-f3a8026ec8",
+        "flavor-jiangsu-9afd2574b0",
+        "zj-steamed-pork",
+        "flavor-jiangsu-4f3d113057",
+        "flavor-jiangsu-e1f53ea939",
+        "flavor-jiangsu-340f3cfead",
+        "flavor-jiangsu-d13f9cbba7",
+        "flavor-jiangsu-4409362422",
+        "flavor-jiangsu-4c48f62974",
+        "flavor-jiangsu-76ac4b6c7f",
+        "flavor-jiangsu-80ccd93c01",
+        "flavor-jiangsu-886c3f2c40",
+        "flavor-jiangsu-d8d029b46a",
+        "flavor-jiangsu-ef6b20f987",
+        "zj-meigan",
+        "flavor-jiangsu-362d9e1953",
+        "flavor-jiangsu-38c64f990c",
+        "flavor-jiangsu-749a7cf0e4",
+        "flavor-jiangsu-788b2e7e50",
+        "flavor-jiangsu-8a11dfb3a0",
+        "flavor-jiangsu-8eb3c4d0ec",
+        "flavor-jiangsu-cb9521d03d",
+        "flavor-jiangsu-cf85633184",
+        "flavor-zhejiang-a1e8193b8b",
+        "flavor-jiangsu-2920c1e69c",
+        "flavor-jiangsu-33f596e0ee",
+        "flavor-jiangsu-68b3a5aa76",
+        "flavor-jiangsu-70c2f71073",
+        "flavor-jiangsu-7126c6ce4d"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/wikidata-named-pilot-02/5e23d8276e9e420c988057da24c0d6b1.response.gz",
+      "responseSha256": "15b3355a94b76ff58f7006e4db934f4634e1d8b787ba002a6a4b427f8a3a6d34",
+      "compressedSha256": "f6b4fd03099e1d6294f89cb74dbb23c34925a030d8d087edccc255970bc01c48",
+      "journal": "research/.local/china-photos-20261121-05/wikidata-named-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+VALUES+%3Flabel+%7B+%22%E9%B8%AD%E6%B2%B9%E9%85%A5%E7%83%A7%E9%A5%BC%22%40zh+%22%E9%B8%AD%E6%B2%B9%E9%85%A5%E7%83%A7%E9%A5%BC%22%40zh-hans+%22%E9%B8%AD%E6%B2%B9%E9%85%A5%E7%83%A7%E9%A5%BC%22%40zh-cn+%22%E4%BA%94%E7%A6%8F%E9%85%B1%E8%8F%9C%22%40zh+%22%E4%BA%94%E7%A6%8F%E9%85%B1%E8%8F%9C%22%40zh-hans+%22%E4%BA%94%E7%A6%8F%E9%85%B1%E8%8F%9C%22%40zh-cn+%22%E9%95%87%E6%B1%9F%E7%B3%96%E9%86%8B%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh+%22%E9%95%87%E6%B1%9F%E7%B3%96%E9%86%8B%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh-hans+%22%E9%95%87%E6%B1%9F%E7%B3%96%E9%86%8B%E8%90%9D%E5%8D%9C%E5%B9%B2%22%40zh-cn+%22%E5%BC%80%E5%8C%96%E6%B1%BD%E7%B3%95%22%40zh+%22%E5%BC%80%E5%8C%96%E6%B1%BD%E7%B3%95%22%40zh-hans+%22%E5%BC%80%E5%8C%96%E6%B1%BD%E7%B3%95%22%40zh-cn+%22%E8%8D%A0%E8%8F%9C%E5%8C%85%E5%9C%86%22%40zh+%22%E8%8D%A0%E8%8F%9C%E5%8C%85%E5%9C%86%22%40zh-hans+%22%E8%8D%A0%E8%8F%9C%E5%8C%85%E5%9C%86%22%40zh-cn+%22%E5%85%89%E6%98%8E%E9%85%B8%E5%A5%B6%22%40zh+%22%E5%85%89%E6%98%8E%E9%85%B8%E5%A5%B6%22%40zh-hans+%22%E5%85%89%E6%98%8E%E9%85%B8%E5%A5%B6%22%40zh-cn+%22%E9%9B%AA%E8%8F%9C%E5%A4%A7%E6%B1%A4%E9%BB%84%E9%B1%BC%22%40zh+%22%E9%9B%AA%E8%8F%9C%E5%A4%A7%E6%B1%A4%E9%BB%84%E9%B1%BC%22%40zh-hans+%22%E9%9B%AA%E8%8F%9C%E5%A4%A7%E6%B1%A4%E9%BB%84%E9%B1%BC%22%40zh-cn+%22%E7%8E%8B%E9%9B%86%E5%B0%8F%E5%9B%A2%E9%A5%BC%22%40zh+%22%E7%8E%8B%E9%9B%86%E5%B0%8F%E5%9B%A2%E9%A5%BC%22%40zh-hans+%22%E7%8E%8B%E9%9B%86%E5%B0%8F%E5%9B%A2%E9%A5%BC%22%40zh-cn+%22%E5%AD%A3%E5%B8%82%E5%A4%A7%E7%82%89%E9%A5%BC%22%40zh+%22%E5%AD%A3%E5%B8%82%E5%A4%A7%E7%82%89%E9%A5%BC%22%40zh-hans+%22%E5%AD%A3%E5%B8%82%E5%A4%A7%E7%82%89%E9%A5%BC%22%40zh-cn+%22%E9%87%91%E6%B9%96%E8%8A%A1%E5%AE%9E%22%40zh+%22%E9%87%91%E6%B9%96%E8%8A%A1%E5%AE%9E%22%40zh-hans+%22%E9%87%91%E6%B9%96%E8%8A%A1%E5%AE%9E%22%40zh-cn+%22%E6%B3%97%E9%98%B3%E8%86%98%E9%B8%A1%22%40zh+%22%E6%B3%97%E9%98%B3%E8%86%98%E9%B8%A1%22%40zh-hans+%22%E6%B3%97%E9%98%B3%E8%86%98%E9%B8%A1%22%40zh-cn+%22%E6%88%9A%E6%A1%A5%E6%AD%AA%E5%AD%90%E8%8C%B6%E5%B9%B2%22%40zh+%22%E6%88%9A%E6%A1%A5%E6%AD%AA%E5%AD%90%E8%8C%B6%E5%B9%B2%22%40zh-hans+%22%E6%88%9A%E6%A1%A5%E6%AD%AA%E5%AD%90%E8%8C%B6%E5%B9%B2%22%40zh-cn+%22%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84%22%40zh+%22%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84%22%40zh-hans+%22%E6%B2%99%E6%B4%B2%E4%BC%98%E9%BB%84%22%40zh-cn+%22%E4%B8%B0%E5%8E%BF%E7%83%A7%E9%A5%BC%22%40zh+%22%E4%B8%B0%E5%8E%BF%E7%83%A7%E9%A5%BC%22%40zh-hans+%22%E4%B8%B0%E5%8E%BF%E7%83%A7%E9%A5%BC%22%40zh-cn+%22%E5%A4%AA%E4%BB%93%E8%82%89%E6%9D%BE%22%40zh+%22%E5%A4%AA%E4%BB%93%E8%82%89%E6%9D%BE%22%40zh-hans+%22%E5%A4%AA%E4%BB%93%E8%82%89%E6%9D%BE%22%40zh-cn+%22%E6%96%B0%E4%B8%AD%E4%B9%B3%E8%85%90%22%40zh+%22%E6%96%B0%E4%B8%AD%E4%B9%B3%E8%85%90%22%40zh-hans+%22%E6%96%B0%E4%B8%AD%E4%B9%B3%E8%85%90%22%40zh-cn+%22%E6%B3%97%E6%B4%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%22%40zh+%22%E6%B3%97%E6%B4%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%22%40zh-hans+%22%E6%B3%97%E6%B4%AA%E5%A4%A7%E9%97%B8%E8%9F%B9%22%40zh-cn+%22%E4%BC%9A%E7%A8%BD%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92%22%40zh+%22%E4%BC%9A%E7%A8%BD%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92%22%40zh-hans+%22%E4%BC%9A%E7%A8%BD%E5%B1%B1%E7%BB%8D%E5%85%B4%E9%85%92%22%40zh-cn+%22%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3%22%40zh+%22%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3%22%40zh-hans+%22%E6%A1%82%E8%8A%B1%E9%B8%A1%E5%A4%B4%E7%B1%B3%22%40zh-cn+%22%E5%A4%A7%E7%BA%B5%E6%B9%96%E9%86%89%E8%9F%B9%22%40zh+%22%E5%A4%A7%E7%BA%B5%E6%B9%96%E9%86%89%E8%9F%B9%22%40zh-hans+%22%E5%A4%A7%E7%BA%B5%E6%B9%96%E9%86%89%E8%9F%B9%22%40zh-cn+%22%E7%A9%BF%E5%9F%8E%E5%A4%A7%E9%A5%BC%22%40zh+%22%E7%A9%BF%E5%9F%8E%E5%A4%A7%E9%A5%BC%22%40zh-hans+%22%E7%A9%BF%E5%9F%8E%E5%A4%A7%E9%A5%BC%22%40zh-cn+%22%E6%B1%A4%E6%B2%9F%E9%85%92%22%40zh+%22%E6%B1%A4%E6%B2%9F%E9%85%92%22%40zh-hans+%22%E6%B1%A4%E6%B2%9F%E9%85%92%22%40zh-cn+%22%E6%B6%9F%E6%B0%B4%E6%8D%86%E8%B9%84%22%40zh+%22%E6%B6%9F%E6%B0%B4%E6%8D%86%E8%B9%84%22%40zh-hans+%22%E6%B6%9F%E6%B0%B4%E6%8D%86%E8%B9%84%22%40zh-cn+%22%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89%22%40zh+%22%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89%22%40zh-hans+%22%E8%97%8F%E4%B9%A6%E7%BE%8A%E8%82%89%22%40zh-cn+%22%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6%22%40zh+%22%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6%22%40zh-hans+%22%E7%BF%A1%E7%BF%A0%E7%83%A7%E9%BA%A6%22%40zh-cn+%22%E6%A1%82%E9%A6%99%E7%B3%96%22%40zh+%22%E6%A1%82%E9%A6%99%E7%B3%96%22%40zh-hans+%22%E6%A1%82%E9%A6%99%E7%B3%96%22%40zh-cn+%22%E6%BB%A8%E6%B5%B7%E7%89%8C%E4%B8%89%E4%BC%8F%E9%85%B1%E6%B2%B9%22%40zh+%22%E6%BB%A8%E6%B5%B7%E7%89%8C%E4%B8%89%E4%BC%8F%E9%85%B1%E6%B2%B9%22%40zh-hans+%22%E6%BB%A8%E6%B5%B7%E7%89%8C%E4%B8%89%E4%BC%8F%E9%85%B1%E6%B2%B9%22%40zh-cn+%22%E9%9D%96%E6%B1%9F%E9%87%91%E6%B3%A2%E9%85%92%22%40zh+%22%E9%9D%96%E6%B1%9F%E9%87%91%E6%B3%A2%E9%85%92%22%40zh-hans+%22%E9%9D%96%E6%B1%9F%E9%87%91%E6%B3%A2%E9%85%92%22%40zh-cn+%22%E5%BE%90%E5%B7%9E%E5%95%A5%E6%B1%A4%22%40zh+%22%E5%BE%90%E5%B7%9E%E5%95%A5%E6%B1%A4%22%40zh-hans+%22%E5%BE%90%E5%B7%9E%E5%95%A5%E6%B1%A4%22%40zh-cn+%22%E9%95%87%E6%B1%9F%E8%9F%B9%E9%BB%84%E6%B1%A4%E5%8C%85%22%40zh+%22%E9%95%87%E6%B1%9F%E8%9F%B9%E9%BB%84%E6%B1%A4%E5%8C%85%22%40zh-hans+%22%E9%95%87%E6%B1%9F%E8%9F%B9%E9%BB%84%E6%B1%A4%E5%8C%85%22%40zh-cn+%7D+%3Fitem+%28rdfs%3Alabel%7Cskos%3AaltLabel%29+%3Flabel%3B+wdt%3AP18+%3Fimage.+%7D+LIMIT+120&format=json",
+      "query": "Existing missing JZY named entities and photo links 30",
+      "itemIds": [
+        "flavor-jiangsu-dc962a8f81",
+        "flavor-jiangsu-dfc01af87a",
+        "flavor-jiangsu-e03d26593f",
+        "flavor-zhejiang-0aa72b5f9a",
+        "flavor-zhejiang-367013ddcf",
+        "sh-bright-yogurt",
+        "zj-yellow-croaker",
+        "flavor-jiangsu-2f5c10f5b2",
+        "flavor-jiangsu-55618e219b",
+        "flavor-jiangsu-66a66ecdec",
+        "flavor-jiangsu-738251d723",
+        "flavor-jiangsu-9c92a146f6",
+        "flavor-jiangsu-c2597b8797",
+        "flavor-jiangsu-cd43e8355c",
+        "flavor-jiangsu-e59d104932",
+        "flavor-jiangsu-f02d53d97c",
+        "flavor-jiangsu-fc05c9ed72",
+        "zj-kuaiji",
+        "flavor-jiangsu-222c2cf834",
+        "flavor-jiangsu-3905af32c3",
+        "flavor-jiangsu-5fa5f920a6",
+        "flavor-jiangsu-60ae60b3d9",
+        "flavor-jiangsu-7d6a17d006",
+        "flavor-jiangsu-9b61f8355c",
+        "flavor-jiangsu-9dcc323f36",
+        "flavor-jiangsu-b857073fbf",
+        "flavor-jiangsu-e38789f0a1",
+        "flavor-jiangsu-ebc2cbc874",
+        "flavor-jiangsu-f1fa272deb",
+        "flavor-jiangsu-fdd1cc53a5"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/wikidata-named-pilot-02/530ec63f3f224340b198fb0a92890582.response.gz",
+      "responseSha256": "15b3355a94b76ff58f7006e4db934f4634e1d8b787ba002a6a4b427f8a3a6d34",
+      "compressedSha256": "f6b4fd03099e1d6294f89cb74dbb23c34925a030d8d087edccc255970bc01c48",
+      "journal": "research/.local/china-photos-20261121-05/wikidata-named-pilot-02/requests.jsonl"
+    },
+    {
+      "url": "https://blog.ericzhao3366.work/posts/suzhoutrip/",
+      "query": "Original Suzhou travel and food photographs with CC BY-NC-SA notice",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/regional-cc-source-pilot-08/e5b593a3c4644b4f8319da314bb9122f.response.gz",
+      "responseSha256": "65cb339695393dd348dccb82c6b76d52286d0627270c0c63e981869fd00625ee",
+      "compressedSha256": "460c7c205ab2f8d52fa5c30253754db4507bb135855c517709203d058e946b97",
+      "journal": "research/.local/china-photos-20261121-05/regional-cc-source-pilot-08/requests.jsonl"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E7%9B%AE%E6%B9%96%E7%99%BD%E8%8C%B6_%E6%BA%A7%E9%98%B3%E7%99%BD%E8%8C%B6.jpg",
+      "query": "Discovered Tianmu Liyang white tea actual original source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/regional-cc-source-pilot-08/d3f2e4e5a1884c00b4536ea96bfc4ad1.response.gz",
+      "responseSha256": "c1168ddbbdcf0a89548b0737260ab5c55ce414e2f0a8c485083e0c39eec3e22a",
+      "compressedSha256": "0569ee9eb4ccb8cb677b5588b155a16eda4348ff40b9f65e112a237bfb64f0c5",
+      "journal": "research/.local/china-photos-20261121-05/regional-cc-source-pilot-08/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/76626958@N00/475300194",
+      "query": "Exact dairy brand original 475300194 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/3daa0536d03c4166b3f7bb9bd8be651c.response.gz",
+      "responseSha256": "85b61bcfa8b604a610f5ad4c585b083db87e421a1406862a27624854e7570d3a",
+      "compressedSha256": "5f508a96cf770f2b4c291a561e26770e33e72f52348057fe557f99c4400664e2",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/187/475300194_f41ebae924_b.jpg",
+      "query": "Exact dairy brand original 475300194 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/d0076a9c95ce4cfc84ced02254e0e280.response.gz",
+      "responseSha256": "bf75a5bbd76baefe55a861dfaca3688d411014a4fab48c2b17f6baf4623626a6",
+      "compressedSha256": "383df432dd7479ff628009a0bbf102fa65fe447347e6c11b9710b4ef09537286",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/76626958@N00/425125761",
+      "query": "Exact dairy brand original 425125761 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/a2e8bcfea0db48b9bf995b4abe54d841.response.gz",
+      "responseSha256": "0f59670bade48f43e994d7d300d3a50330337aeb313aa1a9398d578555f1acfb",
+      "compressedSha256": "c2e5f6575771d7dc1d9d12f90002f0a4d910c73be7f7df53934fe27ea6a05eb0",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/151/425125761_36a90720b4_b.jpg",
+      "query": "Exact dairy brand original 425125761 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/0cb3791c337845da95e01613d1bdaef2.response.gz",
+      "responseSha256": "f943c2d4994b37bb67956962f65b46559d6f73491f19d6410b11949e33e36406",
+      "compressedSha256": "8cbeee94f120af60643c8ead44d18123b359ca59fd27ad013e43ecff2ae63ee8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/76626958@N00/1858189292",
+      "query": "Exact dairy brand original 1858189292 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/2f2d14d1d465440d8be38aab6cbd4a80.response.gz",
+      "responseSha256": "ce7bd7b40923b519fd4225b3338370afcc3aebd8391c38c78c503e1c8eec2fd7",
+      "compressedSha256": "9b5369835187dd9219b16a9c5220ada168c0902c128cae0069f5103de5e83250",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/2376/1858189292_c749c70ee7_b.jpg",
+      "query": "Exact dairy brand original 1858189292 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/0a6933177315423e83e3f3fbfc6e1082.response.gz",
+      "responseSha256": "d2e00e876cf152b96811b007d11bdaa7067bef0e49eac3e80f9ed2e99e8ca75c",
+      "compressedSha256": "f76191100a975e3f6884fe99ed9766632f30f28ba10373df8b1a3951c38d6b4f",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/12173213@N00/5122647481",
+      "query": "Exact dairy brand original 5122647481 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/27dab86467d84b4e964fe87bf2f6a999.response.gz",
+      "responseSha256": "a36983805784042a524963f5fe9204b2d0a0eed1338c9124a27b656866b88460",
+      "compressedSha256": "7712addead0e213c75a3cdb1f6a71878498d8abc8a9d4f39742b6fbd844f8b96",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/4025/5122647481_78ea9dde1c_b.jpg",
+      "query": "Exact dairy brand original 5122647481 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/c718e20fdd454db89cf655fdcb8fa73f.response.gz",
+      "responseSha256": "728f8ca8253939c215022db7094016aad5c455475a6559e0e0387ebb23719825",
+      "compressedSha256": "5df99ea25677ab07040b9e93350f7de6659bfb0eae0645feae5d2680c26f58f8",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://www.flickr.com/photos/69004123@N00/437332055",
+      "query": "Exact dairy brand original 437332055 source",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/b29f9696d91c4c6e87bd6d8078f9b103.response.gz",
+      "responseSha256": "aa84f8d3c7edd36e0034c0b8eee2f52071680b0b4c32fc580be16939b3e2b111",
+      "compressedSha256": "36fc870e1cc7723a921fd4d601c147e179d875e4c9c35755f9dc8a23488fc87d",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://live.staticflickr.com/172/437332055_55af63d1aa_b.jpg",
+      "query": "Exact dairy brand original 437332055 preview",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/7fbf39342c7a43cb8bf5dbce0249156b.response.gz",
+      "responseSha256": "de46e72eb26fc6f101b73bcfd921e9765460a8ad459eea4ad2741fda591f12fa",
+      "compressedSha256": "c5b914e950072d8a1e5953fac5c7e60c6162eb23b7c9cdbe8bf2a1f992eb154b",
+      "journal": "research/.local/china-photos-20261121-05/flickr-dairy-qualified-06/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E7%8E%89%E5%85%B0%E9%A5%BC%7C%E7%9A%AE%E8%82%9A%E9%9D%A2%7C%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97%7C%E7%8A%B6%E5%85%83%E8%B1%86%7C%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5%7C%E7%BF%A1%E7%BF%A0%E7%83%A7%E5%8D%96%7C%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89%7C%E8%BD%AF%E5%85%9C%E9%95%BF%E9%B1%BC%7C%E9%95%9C%E7%AE%B1%E8%B1%86%E8%85%90%7C%E5%BC%80%E6%B4%8B%E8%91%B1%E6%B2%B9%E6%8B%8C%E9%9D%A2&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&exlimit=max&piprop=original&inprop=url&redirects=1",
+      "query": "Read actual Chinese encyclopedia articles and their photo references 0",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/chinese-articles-image-pilot-06/fd7803ab31be4ea3ba6514abe2d02b0f.response.gz",
+      "responseSha256": "3e0eb81fcb65977126b3a0a8934bf3b3a94fdc23f178a5f68596d13e731a9d84",
+      "compressedSha256": "bd59e42051b143033fe8a1d6599b90d901201fc67a2684c67ef74196aae87ee6",
+      "journal": "research/.local/china-photos-20261121-05/chinese-articles-image-pilot-06/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%B4%87%E6%98%8E%E7%B3%95%7C%E5%A4%A9%E7%9B%AE%E6%B9%96%E7%A0%82%E9%94%85%E9%B1%BC%E5%A4%B4%7C%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9B%A2%7C%E6%B9%96%E7%BE%8A%7C%E6%B9%96%E7%AC%94%7C%E6%9E%AB%E6%B3%BE%E7%8C%AA%7C%E9%9D%96%E6%B1%9F%E7%8C%AA%E8%82%89%E8%84%AF%7C%E9%A9%AC%E8%B9%84%E9%85%A5%7C%E7%83%AB%E5%B9%B2%E4%B8%9D%7C%E7%B4%A0%E7%81%AB%E8%85%BF&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&exlimit=max&piprop=original&inprop=url&redirects=1",
+      "query": "Read actual Chinese encyclopedia articles and their photo references 10",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/chinese-articles-image-pilot-06/4b46ecd5a1d5449889ff27a399b6d7c6.response.gz",
+      "responseSha256": "a291142ddb2dcc6b8b30a3dd98183e180977803b8748d03457328cadab94e431",
+      "compressedSha256": "afe9831c1ee6a28d62e47be75ff9680b2ff499d15d3d0b205ae224c899d2b408",
+      "journal": "research/.local/china-photos-20261121-05/chinese-articles-image-pilot-06/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E7%8E%89%E5%85%B0%E9%A5%BC%7C%E7%9A%AE%E8%82%9A%E9%9D%A2%7C%E6%A1%82%E8%8A%B1%E7%B3%96%E8%8A%8B%E8%8B%97%7C%E7%8A%B6%E5%85%83%E8%B1%86%7C%E8%B5%A4%E8%B1%86%E5%85%83%E5%AE%B5%7C%E7%BF%A1%E7%BF%A0%E7%83%A7%E5%8D%96%7C%E8%8D%B7%E5%8F%B6%E7%B2%89%E8%92%B8%E8%82%89%7C%E8%BD%AF%E5%85%9C%E9%95%BF%E9%B1%BC%7C%E9%95%9C%E7%AE%B1%E8%B1%86%E8%85%90%7C%E5%BC%80%E6%B4%8B%E8%91%B1%E6%B2%B9%E6%8B%8C%E9%9D%A2&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&exlimit=max&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read actual Chinese encyclopedia articles and their photo references 0 with explicit simplified/traditional title conversion",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/article-image-title-followup-07/1f82a95107e242fa9833eb7f6313bfeb.response.gz",
+      "responseSha256": "3e0eb81fcb65977126b3a0a8934bf3b3a94fdc23f178a5f68596d13e731a9d84",
+      "compressedSha256": "bd59e42051b143033fe8a1d6599b90d901201fc67a2684c67ef74196aae87ee6",
+      "journal": "research/.local/china-photos-20261121-05/article-image-title-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%B4%87%E6%98%8E%E7%B3%95%7C%E5%A4%A9%E7%9B%AE%E6%B9%96%E7%A0%82%E9%94%85%E9%B1%BC%E5%A4%B4%7C%E5%9B%9B%E5%96%9C%E6%B1%A4%E5%9B%A2%7C%E6%B9%96%E7%BE%8A%7C%E6%B9%96%E7%AC%94%7C%E6%9E%AB%E6%B3%BE%E7%8C%AA%7C%E9%9D%96%E6%B1%9F%E7%8C%AA%E8%82%89%E8%84%AF%7C%E9%A9%AC%E8%B9%84%E9%85%A5%7C%E7%83%AB%E5%B9%B2%E4%B8%9D%7C%E7%B4%A0%E7%81%AB%E8%85%BF&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&exlimit=max&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read actual Chinese encyclopedia articles and their photo references 10 with explicit simplified/traditional title conversion",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/article-image-title-followup-07/11a72ef27dab4d1d88f2a08e9bfddb9d.response.gz",
+      "responseSha256": "abb8915415c7c4b9caa3b4053555e1233157f27b9a6f36897e6ae96c23801040",
+      "compressedSha256": "90f0b2a09bd2de4814c5854f100f120e24d81b6d0055ae45dd2f71036be6c2a0",
+      "journal": "research/.local/china-photos-20261121-05/article-image-title-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=Hu+sheep%7CFengjing+pig%7CHaimen+goat%7CTaihu+pig%7CLangshan+chicken%7CTaihu+goose&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&exlimit=max&piprop=original&inprop=url&redirects=1",
+      "query": "Named Chinese regional livestock breed article references, inspect exact breed and place before use",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/article-image-title-followup-07/b1d99ad9889b4f609b8ba383177d6794.response.gz",
+      "responseSha256": "3e9f0d5415f195fbf641c72dd74cd59b57cd9d8f553c2fa56a13c417b6f48bf9",
+      "compressedSha256": "f703dc9f1bb40d786f0d6c15182bc78496e8e4d084f7c52bb594b718b1999691",
+      "journal": "research/.local/china-photos-20261121-05/article-image-title-followup-07/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47QmdZpn8bm",
+      "query": "Full Qin Tang Huaiyang food original source and photo captions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/a174c34c24c44322969a0eabf9e7b556.response.gz",
+      "responseSha256": "59a61704a93fb96ba9fd169f972d608735072b045838356b5f8b1e1090a8ec00",
+      "compressedSha256": "99f5be2560918c893e91ec7bccdbbcc41976f7e58e509ca7000dc44f8f920b27",
+      "journal": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/4HKz2z2xTg4",
+      "query": "Full Shanghai restaurant article original source and scallion shrimp noodles photo captions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/c3bb9d214b3c4c2b8c70b2db4935a933.response.gz",
+      "responseSha256": "bc434b3a2e4e4e3dbc9aaaec8d4b1af2dabe40ee193662da96a0b5d589e587b9",
+      "compressedSha256": "aac7b16960f8b4e19ec9d7daca3eccd06be5aa36c61009cbcdd849a116607fc0",
+      "journal": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/article/47QoN68itJO",
+      "query": "Full heritage shaomai article original source and photo captions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/f83b6a94143e4d6492708482baf5095f.response.gz",
+      "responseSha256": "8aa1dbf7b1dd0641dcbf7b6e9b47ded4252810fb7e9e4887c3abc091339f4e51",
+      "compressedSha256": "1790110c1eebed6038b42cf3ec9a30e2caef15bce1b138ba00e81d10b3d57380",
+      "journal": "research/.local/china-photos-20261121-05/beijing-official-food-pilot-05/requests.jsonl"
+    },
+    {
+      "url": "https://img-rs.visitbeijing.com.cn/image/e9bb5a340f4322c94acb6d073f5b3e7cc5.jpg",
+      "query": "Qin Tang restaurant named Huai an Ruandou eel real photograph from original article",
+      "itemIds": [
+        "js-ruandou-eel"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/beijing-food-photo-pilot-06/53d9f73e968245288470f21ae80ee684.response.gz",
+      "responseSha256": "2db8d696a1588de86f1e7340ba0047f45446560988ec045a2890c2496f6a3a5b",
+      "compressedSha256": "1e38112d66c1cba1e6e6b8d9bb8ba1c331b0b3aade64518816e0f168ac653f5d",
+      "journal": "research/.local/china-photos-20261121-05/beijing-food-photo-pilot-06/requests.jsonl"
+    },
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP31%2Fwdt%3AP279%2A+wd%3AQ2095%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+2500&format=json",
+      "query": "Food index with Chinese labels and actual image references; match existing card names before downloads",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/wikidata-food-index-03/b83bbce869bb45b1b27b5cdecd9cefc8.response.gz",
+      "responseSha256": "c247e47fc0b2255646be4948411543725150fbf69cbb4d3f7c141668d1449214",
+      "compressedSha256": "0ceb35c6db837b00288dc968d917ebe5ef99c2218fa89cfe03ee03d003834acc",
+      "journal": "research/.local/china-photos-20261121-05/wikidata-food-index-03/requests.jsonl"
+    },
+    {
+      "url": "https://xczxhxzjlj.sz.gov.cn/qtxx/bqbh/index.html",
+      "query": "Shenzhen agency full noncommercial reuse conditions",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 503,
+      "error": "HTTP Error 503: Service Unavailable",
+      "retryAfter": null,
+      "responseFile": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/595213e63b82479892e1b97da68adae5.response.gz",
+      "responseSha256": "33fbc61ad080ef68dd7a6479f8c53f1bf864dba2930567dbbc4ceb47490a1909",
+      "compressedSha256": "b0e3b00671c6e6659aaf9d6faab000d6ad36bd047673e17ef7b0162549d2ae68",
+      "journal": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/requests.jsonl"
+    },
+    {
+      "url": "https://www.visitbeijing.com.cn/service-agreement",
+      "query": "Beijing tourism full first-party picture reuse conditions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/fb878138a7ef4076a64a5126966f3fc2.response.gz",
+      "responseSha256": "c8c455a2273a0bc4b01334b9379730b3b5defc9ee16060e07702d753a715248b",
+      "compressedSha256": "f1ced9041770754b5087965b840c4aa459f05a6b95c45997657fc2a2f579a44c",
+      "journal": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/requests.jsonl"
+    },
+    {
+      "url": "https://www.wzmuseum.cn/Col/Col62/Index.aspx",
+      "query": "Wenzhou Museum full picture reuse exceptions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/481ac4cc7c4b4d1a843eacf496c75bfb.response.gz",
+      "responseSha256": "bcfa0f170a35386d6e84765f741f3cbed7db4189dd8d412a4c9b9946b50d7749",
+      "compressedSha256": "273da556242aae77ca048a09cb384703273037faa9345ffee9dc496adf762d30",
+      "journal": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/requests.jsonl"
+    },
+    {
+      "url": "https://www.capitalmuseum.org.cn/article/3740540a63354fd38a53d677ea1da2d7",
+      "query": "Capital Museum full photo reuse exceptions",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/80f1eb615885497fa2a815f5a3e4e566.response.gz",
+      "responseSha256": "2a9a0bdec88b46399730391697cf1341d27214d1709773ee2141a9edd0cf439e",
+      "compressedSha256": "1968b8037dffc1cc2575d40ffa76e44b80748130fa70eb5b6fbda6d9aee01316",
+      "journal": "research/.local/china-photos-20261121-05/official-permissions-pilot-04/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Chicken_packed_with_lotus_leaf.jpg/960px-Chicken_packed_with_lotus_leaf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "View original article food reference File:Chicken packed with lotus leaf.jpg",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-food-photo-followup-11/aaba6db0eb124c8194b896d0fa6757bd.response.gz",
+      "responseSha256": "8ca23aae3bc2e45a0693b9498056ba73c7d2db9199a2758dead789858f532032",
+      "compressedSha256": "ae6f80aedf4397c7866e782efa543b4783c81359e9faa9294a23bb64086f338e",
+      "journal": "research/.local/china-photos-20261121-05/named-food-photo-followup-11/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E6%8A%8A%E5%AD%90%E8%82%89&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 把子肉",
+      "itemIds": [
+        "program-8da0619ace8cd0cc98"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/4ad790dfe4984b05b4524e9276ab2b57.response.gz",
+      "responseSha256": "4646c4bdafdbfa0f40b787625f70bc13c04eef2cfef1af82d97b724e533436e4",
+      "compressedSha256": "aaea5605848a5a26217532a06ffc84edb75e06ae83a95153883d03df01236af1",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E8%9B%99%E9%B1%BC&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 蛙鱼",
+      "itemIds": [
+        "flavor-jiangsu-70c2f71073"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/8e8fc92489a24f0b863ee8b690a82d41.response.gz",
+      "responseSha256": "d0a4f54aa60cbb981dd69c5494cb2c77ddddb790fbee8e62191488e996a5e348",
+      "compressedSha256": "25529b523c3f54a9f1cbf753b28d9a1409d22f15a08ad2ebe34eab08444601f7",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8F%AB%E8%8A%B1%E9%B8%A1&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 叫花鸡",
+      "itemIds": [
+        "js-beggar-chicken"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/178638d34c334f8ca66f7baac017a3b5.response.gz",
+      "responseSha256": "892a9afb761ec4008d08b54bb7b1a28285447a1b25e529894c8ae29204944c69",
+      "compressedSha256": "a93b0640d6ad8318a96e651cbb985f642af3e000cb76e8bf9aa4c25ac56a9df1",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8D%83%E5%BC%A0%E5%8C%85%E5%AD%90&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 千张包子",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/ab1bc233cedd43119b4ea8a11c1e1e1c.response.gz",
+      "responseSha256": "d0173b2ef8a845245bd118726cf3d204e55421af0d4c05ed9c7b15c0d6986e48",
+      "compressedSha256": "8a54a3bc8fbd7b37ebd176e390c6c0cea9be1e928c324e5cf1ec53daf9eac344",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&titles=%E5%8D%97%E9%80%9A%E7%81%AB%E9%A5%BA&prop=pageimages%7Cextracts%7Cinfo&explaintext=1&piprop=original&inprop=url&redirects=1&converttitles=1",
+      "query": "Read exact dish name, aliases and photograph reference 南通火饺",
+      "itemIds": [
+        "flavor-jiangsu-340f3cfead"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/a049bb133c464b0b9549928495d2dfce.response.gz",
+      "responseSha256": "33033bae258699ca2b1f59a90353b56911d18369404cfedb2a8ce7999913a803",
+      "compressedSha256": "6e0208ce82382beca22eb4e5d47656b316690a5daed1df969732576d6cf39762",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3ABazirou+above+rice+at+Chao+Yi+Xing%2C+Caoqiao%2C+Beijing+%2820231209134804%29.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual discovered named food photograph original metadata",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/a61de3592eac48f8bb32e03ed89eee7b.response.gz",
+      "responseSha256": "b39ed67c03135f6df3617d5085d9151d59b1d0139148bb4027c71b20ed1d422c",
+      "compressedSha256": "2e0f4d001d7d58ce2c8a8c2dfda720216f889747b6149bfc82842cc02554a60f",
+      "journal": "research/.local/china-photos-20261121-05/dish-aliases-image-followup-09/requests.jsonl"
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg/960px-Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "Named Beijing Chao Yi Xing bazirou photograph",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-food-image-followup-10/5953efb225c64ffb8398a16117ec821c.response.gz",
+      "responseSha256": "f50e7b806b3264f254d5d5d8a2763074052e47b4af9ba63ac3a65adf14794c64",
+      "compressedSha256": "1799dace2b3988f75b280fa78b809ee79834f12fb51c8dc15c437ef8243a99e8",
+      "journal": "research/.local/china-photos-20261121-05/named-food-image-followup-10/requests.jsonl"
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AChicken+packed+with+lotus+leaf.jpg%7CFile%3A%E6%8A%8A%E5%AD%90%E8%82%89%E5%92%8C%E9%BB%84%E7%84%96%E9%B8%A1.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual article-referenced chicken and pork image original descriptions and licenses",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-05/named-food-image-followup-10/08c7f7aac63e4c42bb093b800c21987e.response.gz",
+      "responseSha256": "e342f607efd6f3519b2feea0b5ccd026be37c9f09c5731e8ef01f81771a2a210",
+      "compressedSha256": "2f1ef6592b489810dcca8f6e6809e4eb9d6c87be9073471809ff5aee63a8990c",
+      "journal": "research/.local/china-photos-20261121-05/named-food-image-followup-10/requests.jsonl"
     }
   ]
 }

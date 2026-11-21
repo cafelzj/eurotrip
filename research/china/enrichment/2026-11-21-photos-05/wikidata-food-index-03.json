@@ -1,0 +1,9 @@
+{
+  "jobs": [
+    {
+      "url": "https://query.wikidata.org/sparql?query=SELECT+DISTINCT+%3Fitem+%3Flabel+%3Fimage+WHERE+%7B+%3Fitem+wdt%3AP31%2Fwdt%3AP279%2A+wd%3AQ2095%3B+wdt%3AP18+%3Fimage%3B+rdfs%3Alabel+%3Flabel.+FILTER%28LANG%28%3Flabel%29+%3D+%22zh%22%29+%7D+LIMIT+2500&format=json",
+      "query": "Food index with Chinese labels and actual image references; match existing card names before downloads",
+      "itemIds": []
+    }
+  ]
+}

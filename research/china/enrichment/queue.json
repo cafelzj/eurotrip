@@ -9,10 +9,10 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 302,
-    "withListPhoto": 289,
-    "missingRealPhoto": 6325,
-    "needsListPhoto": 6338
+    "withDetailPhoto": 305,
+    "withListPhoto": 292,
+    "missingRealPhoto": 6322,
+    "needsListPhoto": 6335
   },
   "byProvince": {
     "henan": {
@@ -42,8 +42,8 @@
     "jiangsu": {
       "cards": 505,
       "shortReadings": 364,
-      "missingRealPhoto": 348,
-      "needsListPhoto": 348
+      "missingRealPhoto": 345,
+      "needsListPhoto": 345
     },
     "liaoning": {
       "cards": 306,
@@ -11576,19 +11576,6 @@
       "priority": 1
     },
     {
-      "itemId": "js-beggar-chicken",
-      "name": "常熟叫花鸡",
-      "province": "jiangsu",
-      "city": "苏州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 54,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
       "itemId": "sd-qingdao-clams",
       "name": "辣炒蛤蜊",
       "province": "shandong",
@@ -14453,19 +14440,6 @@
       "name": "仙居八大碗",
       "province": "zhejiang",
       "city": "台州",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 58,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "js-ruandou-eel",
-      "name": "软兜长鱼",
-      "province": "jiangsu",
-      "city": "淮安",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 58,
@@ -29249,19 +29223,6 @@
       "city": "厦门",
       "category": "food",
       "subcategory": "staples",
-      "readingCharacters": 100,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-8da0619ace8cd0cc98",
-      "name": "把子肉",
-      "province": "jiangsu",
-      "city": "徐州",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 100,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -83141,6 +83102,19 @@
       "priority": 3
     },
     {
+      "itemId": "js-beggar-chicken",
+      "name": "常熟叫花鸡",
+      "province": "jiangsu",
+      "city": "苏州",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 54,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "js-biluochun",
       "name": "碧螺春",
       "province": "jiangsu",
@@ -83382,6 +83356,19 @@
       "category": "food",
       "subcategory": "drinks",
       "readingCharacters": 57,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "js-ruandou-eel",
+      "name": "软兜长鱼",
+      "province": "jiangsu",
+      "city": "淮安",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 58,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
       "imageStatus": "list-photo-reviewed",
@@ -84265,6 +84252,19 @@
       "city": "南京",
       "category": "food",
       "subcategory": "staples",
+      "readingCharacters": 100,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-8da0619ace8cd0cc98",
+      "name": "把子肉",
+      "province": "jiangsu",
+      "city": "徐州",
+      "category": "food",
+      "subcategory": "dishes",
       "readingCharacters": 100,
       "readingStatus": "needs-expansion",
       "readingBatch": null,

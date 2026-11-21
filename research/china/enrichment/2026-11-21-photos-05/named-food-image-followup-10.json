@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg/960px-Bazirou_above_rice_at_Chao_Yi_Xing%2C_Caoqiao%2C_Beijing_%2820231209134804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "query": "Named Beijing Chao Yi Xing bazirou photograph",
+      "itemIds": []
+    },
+    {
+      "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&titles=File%3AChicken+packed+with+lotus+leaf.jpg%7CFile%3A%E6%8A%8A%E5%AD%90%E8%82%89%E5%92%8C%E9%BB%84%E7%84%96%E9%B8%A1.jpg&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=960&iiextmetadatamultilang=1",
+      "query": "Actual article-referenced chicken and pork image original descriptions and licenses",
+      "itemIds": []
+    }
+  ]
+}
