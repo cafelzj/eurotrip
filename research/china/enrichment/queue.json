@@ -9,17 +9,17 @@
     "readings300to500": 2530,
     "readingsBelow300": 4097,
     "readingsOver500": 0,
-    "withDetailPhoto": 384,
-    "withListPhoto": 371,
-    "missingRealPhoto": 6243,
-    "needsListPhoto": 6256
+    "withDetailPhoto": 386,
+    "withListPhoto": 373,
+    "missingRealPhoto": 6241,
+    "needsListPhoto": 6254
   },
   "byProvince": {
     "henan": {
       "cards": 332,
       "shortReadings": 222,
-      "missingRealPhoto": 328,
-      "needsListPhoto": 328
+      "missingRealPhoto": 327,
+      "needsListPhoto": 327
     },
     "hebei": {
       "cards": 197,
@@ -30,8 +30,8 @@
     "hubei": {
       "cards": 395,
       "shortReadings": 205,
-      "missingRealPhoto": 391,
-      "needsListPhoto": 391
+      "missingRealPhoto": 390,
+      "needsListPhoto": 390
     },
     "hunan": {
       "cards": 351,
@@ -4289,19 +4289,6 @@
       "city": "伊春",
       "category": "food",
       "subcategory": "ingredients",
-      "readingCharacters": 49,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "flavor-henan-0627633da5",
-      "name": "皮渣",
-      "province": "henan",
-      "city": "安阳",
-      "category": "food",
-      "subcategory": "dishes",
       "readingCharacters": 49,
       "readingStatus": "needs-expansion",
       "readingBatch": null,
@@ -28909,19 +28896,6 @@
       "name": "葱烧海参",
       "province": "shandong",
       "city": "青岛",
-      "category": "food",
-      "subcategory": "dishes",
-      "readingCharacters": 101,
-      "readingStatus": "needs-expansion",
-      "readingBatch": null,
-      "imageStatus": "missing-real-photo",
-      "priority": 1
-    },
-    {
-      "itemId": "program-ae127ffe8a82891836",
-      "name": "沔阳三蒸",
-      "province": "hubei",
-      "city": "仙桃",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 101,
@@ -81776,6 +81750,19 @@
       "priority": 3
     },
     {
+      "itemId": "flavor-henan-0627633da5",
+      "name": "皮渣",
+      "province": "henan",
+      "city": "安阳",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 49,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
       "itemId": "flavor-hubei-a5b44b8c59",
       "name": "鄂州武昌鱼",
       "province": "hubei",
@@ -84172,6 +84159,19 @@
       "name": "红膏炝蟹",
       "province": "zhejiang",
       "city": "宁波",
+      "category": "food",
+      "subcategory": "dishes",
+      "readingCharacters": 101,
+      "readingStatus": "needs-expansion",
+      "readingBatch": null,
+      "imageStatus": "list-photo-reviewed",
+      "priority": 3
+    },
+    {
+      "itemId": "program-ae127ffe8a82891836",
+      "name": "沔阳三蒸",
+      "province": "hubei",
+      "city": "仙桃",
       "category": "food",
       "subcategory": "dishes",
       "readingCharacters": 101,

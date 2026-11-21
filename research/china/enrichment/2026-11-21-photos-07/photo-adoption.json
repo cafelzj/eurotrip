@@ -494,6 +494,44 @@
       "metadataSha256": "099950911678166164d6a434ffcf2bc18d5f4ee8401d69856893eeeaf3f44c7b",
       "action": "newly-adopted-real-photo",
       "candidateId": "boshan-tofu-box"
+    },
+    {
+      "itemId": "program-ae127ffe8a82891836",
+      "itemName": "沔阳三蒸",
+      "assetId": "cn07-mianyang-three-steamed-dishes",
+      "src": "assets/photos/china/cn07-mianyang-three-steamed-dishes.jpg",
+      "derivativeSha256": "e46e25ace5c34988798d3d229b4a04c7fc34fb20eec14cd3175bc37877246b67",
+      "caption": "沔阳三蒸合蒸版本实拍，2016年。",
+      "reason": "原作者中文描述直接标明沔阳三蒸，竹笼内多种蒸制食物、米粒与配菜清楚，画面明亮；这是作者记录的合蒸版本，不把照片里的一笼解释为所有地方版本必须具备的鱼肉菜组合，也不挪用于天门三蒸。",
+      "source": "https://commons.wikimedia.org/wiki/File:The_three_steaming_dishes_of_Mianyang.jpeg",
+      "author": "ZhengZhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/national79-original-0",
+      "originalSha256": "3b47e76fea5d6c1f19ac4b32567241a345e168e7628afd75b52929875fb4c088",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/6af40afcb3be4c588032d9a378ccd71b.response.gz",
+      "metadataSha256": "f75c42b2f996906114447fddb3ac7239ba1765ff3e252b8b79ffaed77677aa0a",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "mianyang-three-steamed-dishes"
+    },
+    {
+      "itemId": "flavor-henan-0627633da5",
+      "itemName": "皮渣",
+      "assetId": "cn07-henan-fried-pizha",
+      "src": "assets/photos/china/cn07-henan-fried-pizha.jpg",
+      "derivativeSha256": "8ce74a3f599f25ddb36ed600c0ba6088a27118efb1a5c59ffe28f560b3cdd834",
+      "caption": "河南皮渣炸制成品实拍；不作安阳具体门店的证明。",
+      "reason": "原始文件题为Fried skin residue并归入河南菜，名称直译与淀粉块炸制形态共同支持皮渣的合理对应；保留这一判断依据，不推断照片未说明的具体产县、店名或淀粉配方。盘中方块和葱椒清楚、主体完整；不是将普通土豆或豆腐照片冒充皮渣。",
+      "source": "https://commons.wikimedia.org/wiki/File:Fried_skin_residue.jpg",
+      "author": "유신예",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "originalResponseFile": "research/.local/china-photos-20261121-07/national79-original-1",
+      "originalSha256": "819d6ca3573abb0363edd7b3ae5d3986f09754bb2fe981eaf7956f76b6b09958",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/ef38bdaedf634186919d438793f4866b.response.gz",
+      "metadataSha256": "e570dd38f3fd6d12d0d6b4698f1e5d100771d6e7a81b011e16d7b6e01b37398d",
+      "action": "newly-adopted-real-photo",
+      "candidateId": "henan-fried-pizha"
     }
   ]
 }

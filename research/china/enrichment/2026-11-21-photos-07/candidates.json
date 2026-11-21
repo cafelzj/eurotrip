@@ -484,6 +484,40 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "mianyang-three-steamed-dishes",
+      "title": "The three steaming dishes of Mianyang.jpeg",
+      "itemIds": [
+        "program-ae127ffe8a82891836"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national79-original-0",
+      "rawSha256": "3b47e76fea5d6c1f19ac4b32567241a345e168e7628afd75b52929875fb4c088",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/6af40afcb3be4c588032d9a378ccd71b.response.gz",
+      "metadataSha256": "f75c42b2f996906114447fddb3ac7239ba1765ff3e252b8b79ffaed77677aa0a",
+      "author": "ZhengZhou",
+      "source": "https://commons.wikimedia.org/wiki/File:The_three_steaming_dishes_of_Mianyang.jpeg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_three_steaming_dishes_of_Mianyang.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "henan-fried-pizha",
+      "title": "Fried skin residue.jpg",
+      "itemIds": [
+        "flavor-henan-0627633da5"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-07/national79-original-1",
+      "rawSha256": "819d6ca3573abb0363edd7b3ae5d3986f09754bb2fe981eaf7956f76b6b09958",
+      "metadataFile": "research/.local/china-photos-20261121-07/national-category-pilot-56/ef38bdaedf634186919d438793f4866b.response.gz",
+      "metadataSha256": "e570dd38f3fd6d12d0d6b4698f1e5d100771d6e7a81b011e16d7b6e01b37398d",
+      "author": "유신예",
+      "source": "https://commons.wikimedia.org/wiki/File:Fried_skin_residue.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fried_skin_residue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ]
 }

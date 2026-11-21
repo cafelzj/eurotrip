@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E9%87%91%E5%9D%9B%E9%9B%80%E8%88%8C%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"金坛雀舌\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%B9%B3%E6%B0%B4%E7%8F%A0%E8%8C%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"平水珠茶\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%97%A5%E9%93%B8%E8%8C%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"日铸茶\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%BC%80%E5%8C%96%E9%BE%99%E9%A1%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"开化龙顶\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%B8%89%E6%9D%AF%E9%A6%99%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"三杯香\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%B9%B3%E9%98%B3%E9%BB%84%E6%B1%A4%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"平阳黄汤\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BC%9A%E7%A8%BD%E5%B1%B1%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"会稽山\" 酒; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%B4%8B%E6%B2%B3%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"洋河\" 酒; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%8F%8C%E6%B2%9F%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"双沟\" 酒; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BB%8A%E4%B8%96%E7%BC%98%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"今世缘\" 酒; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%8D%97%E4%BA%AC%E6%9D%BF%E9%B8%AD%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"南京板鸭\"; metadata only, no automatic adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%89%AC%E5%B7%9E%E7%83%AB%E5%B9%B2%E4%B8%9D%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"扬州烫干丝\"; metadata only, no automatic adoption",
+      "itemIds": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_three_steaming_dishes_of_Mianyang.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Native corresponding real photo from preserved full metadata: File:The three steaming dishes of Mianyang.jpeg; validate quality before adoption",
+      "itemIds": []
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fried_skin_residue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Native corresponding real photo from preserved full metadata: File:Fried skin residue.jpg; validate quality before adoption",
+      "itemIds": []
+    }
+  ]
+}

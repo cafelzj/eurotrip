@@ -232,6 +232,70 @@
     {
       "file": "research/.local/china-photos-20261121-07/national58-review-4.jpg",
       "sha256": "b2acd61cb46e66c118aaa482ad9ad80141037604869ec484f5089f182364ae52"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national79-review-0.jpg",
+      "sha256": "e9d7b418f953f3faa39714796a0d0fec198aa87a8fdad11ed7583770661a6ae9"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/national79-review-1.jpg",
+      "sha256": "fba583a986df4d53a3d840a13933dbab401107268732e5cc1ad1d0cea6ca3c9e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/chidou63-review.jpg",
+      "sha256": "913e6f96a081d92026d69624c9e8bce460bfef1b268194bd7dcdff63bbc33216"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia67-review-1.jpg",
+      "sha256": "e20ed2edacdec28823c402495f96fe80f44146204baf560c811a781ff4c5a395"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia67-review-3.jpg",
+      "sha256": "7cf4b05bda7477dc0c5e31a24494335a4f7add5f7b99db8c4a91e4b331619688"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia67-review-2.jpg",
+      "sha256": "5dcd1e1f80b25df31db740ee7bb6600128688aaccec487e7ff086cb6599691d8"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia67-review-0.jpg",
+      "sha256": "8df7796ed0fb21fec4d8d25d7c5fba31319bf955dfb956479b1876f64296fb40"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia69-review-0.jpg",
+      "sha256": "32ecf3abd092e62e0ebdda482d4c20ae86ab9c3a54686a74288ac41c86f10add"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia69-review-1.jpg",
+      "sha256": "376ee2a04ea61ddc12b66593f077004a8a040671aaaa06b8392e2e86330e4ba7"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia70-review-2.jpg",
+      "sha256": "72c5281683f8dfdd9902192b1e298835dc7e29da80b8f5617142fa41d7e9e7bb"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia70-review-1.jpg",
+      "sha256": "60c66c2ba895ce2822b88fa212d9c923a9b171bc4d64b8f60e241230a733227e"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia70-review-0.jpg",
+      "sha256": "f34eb866ca0bf0741d48dedf7588ffba1288572df93bdff63d723cb41137b30f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia70-review-3.jpg",
+      "sha256": "45d25da3b1a87390dee859217b1e3f9febf79ae95df6d8bf2c64d92e8ac4f4ae"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/yongjia74-review-0.jpg",
+      "sha256": "e6772995bf8ef6cf2f231ba54b48f41db6dc36a989ab4dcf9dbcc109c84cebdc"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/hangzhou73-review-1.jpg",
+      "sha256": "bb1cb21847f3651b8f94b5a7e204a544927d024702fa8570ea7a9f430df6d310"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-07/hangzhou73-review-0.jpg",
+      "sha256": "95c5e9bc29d42fa6d902126465446c48f3046d14688c12a5c069fe53e25b546e"
     }
   ],
   "reviewMethod": "逐幅查看完整画面，大图使用未裁切等比预览；包装同时看原始上传与所选正面。"

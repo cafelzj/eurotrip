@@ -58,5 +58,47 @@
         "adoption": "correct-dish-versus-live-poultry-name-collision"
       }
     ]
+  },
+  {
+    "id": "photos-07-independent-jzy-articles-61",
+    "title": "中国烹饪：鱼鲞，叫我如何不想TA",
+    "url": "https://www.sohu.com/a/595038800_121124450",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整HTTP响应保存后提取正文，核对指定菜名段落与署名、转载条件",
+    "originalResponseFile": "research/.local/china-photos-20261121-07/independent-jzy-articles-61/065718fb2c374b45b4817d5e66b64841.response.gz",
+    "originalResponseSha256": "6ebe77b8f7d230470fa0f772c0b1384f609ec980763cf48beb0bd0458082eb7c",
+    "readableFile": "research/.local/china-photos-20261121-07/articles61-0-readable.txt",
+    "readableSha256": "36a3d41aaf2d7fb174236a808b39f38cddcacf497fe623ec5f085ba7d1b0313c",
+    "scope": "已读原文：正文有明确“未经授权，谢绝转载”，末尾“转载注明署名”以先取得授权为前提，不能截取为公开使用许可；只有插画，没有对应黄鱼菜肴实拍，不采用。",
+    "items": []
+  },
+  {
+    "id": "photos-07-yongjia-author-source-66",
+    "title": "永嘉吃货：阿三瘦肉丸原始探店",
+    "url": "https://mt.sohu.com/20151114/n426481412.shtml",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整HTTP响应保存后提取正文，核对指定菜名段落与署名、转载条件",
+    "originalResponseFile": "research/.local/china-photos-20261121-07/yongjia-author-source-66/d44654cc85e24c0d990e982eb6366082.response.gz",
+    "originalResponseSha256": "6704e991070c4de84fa57e4b5aa522724f4ed81053ffdd2ab7be481703e02b0c",
+    "readableFile": "research/.local/china-photos-20261121-07/yongjia66-readable.txt",
+    "readableSha256": "828d470e27042e8291818d50cd2d790ba917c35d44552176ae59f075bdc6fdb0",
+    "scope": "按页面gb2312编码正确读取，原文自述自行拍照、编辑周裕福、凡原创文章转载注明出处。图像全部目视后因没有合适的成品主体而未采用，不将2015年地址、销量、价格当现状。",
+    "items": []
+  },
+  {
+    "id": "photos-07-hangzhou-author-original-72",
+    "title": "杭州头条：中山路原始美食探店",
+    "url": "https://www.sohu.com/a/229588139_349182",
+    "date": "2026-11-21",
+    "read": true,
+    "readMethod": "完整HTTP响应保存后提取正文，核对指定菜名段落与署名、转载条件",
+    "originalResponseFile": "research/.local/china-photos-20261121-07/hangzhou-author-original-72/9dd3400fd14b40089ac7f19c89606192.response.gz",
+    "originalResponseSha256": "a802370720f5431fd939635eceeaf867c7c2cf8352096600d23a425c090a88b8",
+    "readableFile": "research/.local/china-photos-20261121-07/hangzhou72-readable.txt",
+    "readableSha256": "4017f237a7942853b34ab9cb9542745e043680b880ac219470ab194d4ceae0ca",
+    "scope": "已读原稿葱包烩段落及末尾原创图文转载注明来源声明，部分街景另署阿漫RFJM等个人作者，不能把总声明扩展到另署作品。两张菜名段落实拍一张店面人物，一张制作铁板，均未作为封面；不将旧价及旧地址写为现行信息。",
+    "items": []
   }
 ]

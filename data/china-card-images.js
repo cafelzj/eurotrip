@@ -7811,6 +7811,58 @@ window.chinaCardImages = {
       "encodingVersion": "jpeg-preserve-icc-1",
       "colorProfile": "preserved",
       "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-mianyang-three-steamed-dishes": {
+      "file": "The three steaming dishes of Mianyang.jpeg",
+      "src": "assets/photos/china/cn07-mianyang-three-steamed-dishes.jpg",
+      "width": 960,
+      "height": 720,
+      "kind": "food",
+      "alt": "沔阳三蒸合蒸版本实拍，2016年。",
+      "caption": "沔阳三蒸合蒸版本实拍，2016年。",
+      "author": "ZhengZhou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_three_steaming_dishes_of_Mianyang.jpeg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_three_steaming_dishes_of_Mianyang.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原作者中文描述直接标明沔阳三蒸，竹笼内多种蒸制食物、米粒与配菜清楚，画面明亮；这是作者记录的合蒸版本，不把照片里的一笼解释为所有地方版本必须具备的鱼肉菜组合，也不挪用于天门三蒸。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "source-without-profile",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
+    },
+    "cn07-henan-fried-pizha": {
+      "file": "Fried skin residue.jpg",
+      "src": "assets/photos/china/cn07-henan-fried-pizha.jpg",
+      "width": 960,
+      "height": 785,
+      "kind": "food",
+      "alt": "河南皮渣炸制成品实拍；不作安阳具体门店的证明。",
+      "caption": "河南皮渣炸制成品实拍；不作安阳具体门店的证明。",
+      "author": "유신예",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fried_skin_residue.jpg",
+      "originalSrc": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fried_skin_residue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "provider": "Wikimedia Commons",
+      "checked": "2026-11-21",
+      "batch": "2026-11-21-photos-07",
+      "visualReview": {
+        "status": "approved",
+        "date": "2026-11-21",
+        "notes": "原始文件题为Fried skin residue并归入河南菜，名称直译与淀粉块炸制形态共同支持皮渣的合理对应；保留这一判断依据，不推断照片未说明的具体产县、店名或淀粉配方。盘中方块和葱椒清楚、主体完整；不是将普通土豆或豆腐照片冒充皮渣。"
+      },
+      "listDisplay": true,
+      "encodingVersion": "jpeg-preserve-icc-1",
+      "colorProfile": "preserved",
+      "changes": "仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。"
     }
   },
   "cards": {
@@ -8112,7 +8164,9 @@ window.chinaCardImages = {
     "bj-furong": "cn07-cuihualou-furong-chicken-slices",
     "flavor-hubei-a5b44b8c59": "cn07-steamed-wuchang-bream",
     "program-960f1f7b94ce9392a7": "cn07-xinhua-sanhetang",
-    "flavor-shandong-ef6b36ee53": "cn07-boshan-tofu-box"
+    "flavor-shandong-ef6b36ee53": "cn07-boshan-tofu-box",
+    "program-ae127ffe8a82891836": "cn07-mianyang-three-steamed-dishes",
+    "flavor-henan-0627633da5": "cn07-henan-fried-pizha"
   },
   "galleries": {}
 };

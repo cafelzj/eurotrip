@@ -1437,6 +1437,390 @@
       "responseFile": "research/.local/china-photos-20261121-07/national-followup-originals-58/eb1b6342e96749e193e0822ff66621df.response.gz",
       "responseSha256": "7d89f0c347e62cd9487f75ba9218950459cf6f5ddce7ecea206d6a306d706cfc",
       "compressedSha256": "88b568643b795ee5a61b1aca41f187261f569dc2785e1324c9024154cd5194b4"
+    },
+    {
+      "url": "https://www.sohu.com/a/229588139_349182",
+      "query": "Read own Hangzhou Toutiao food walk, exact Congbaogui photo and image attribution scope; retain article permission statement",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/hangzhou-author-original-72/9dd3400fd14b40089ac7f19c89606192.response.gz",
+      "responseSha256": "fd48221173042215982e714bf843c507bee1bddc0d2d51fc2dc2fa99852e0f81",
+      "compressedSha256": "a802370720f5431fd939635eceeaf867c7c2cf8352096600d23a425c090a88b8"
+    },
+    {
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20180426/be5a2c2d55e74956ad805625bf50aba8.jpeg",
+      "query": "Two explicit Sun Nainai Congbaogui paragraph photos in Hangzhou Toutiao original walk, verify watermark/subject; do not use separately credited street photographs",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/hangzhou-congbaogui-originals-73/b787dab6f8b543bbbedfa1bbcf18f58e.response.gz",
+      "responseSha256": "557f222ee9886b0e7a50904415748c952f08b3b9f01d0d9c03afbc63fd06dffa",
+      "compressedSha256": "7c32012580e53c76e289c057f31b0401506584beb1c5aa49c3f9a5e300bd8713"
+    },
+    {
+      "url": "https://5b0988e595225.cdn.sohucs.com/images/20180426/2878ff6b5db545558fb0d9107dc46167.jpeg",
+      "query": "Two explicit Sun Nainai Congbaogui paragraph photos in Hangzhou Toutiao original walk, verify watermark/subject; do not use separately credited street photographs",
+      "itemIds": [
+        "flavor-zhejiang-87b3c65e52"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/hangzhou-congbaogui-originals-73/768949ff4fe3449ab8b1ada610e4f0f8.response.gz",
+      "responseSha256": "dfcc662d84e88c34ee0c5ec90d76813a1c9103bc8a8326b27f5d49e728164296",
+      "compressedSha256": "719287f14596549cba6870c26ccc8bf192ca60911b12898be8675b4c3de276f8"
+    },
+    {
+      "url": "https://www.sohu.com/a/595038800_121124450",
+      "query": "Read complete article, actual image captions and permission scope before possible exact JZY card match; no search-result attribution as licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-jzy-articles-61/065718fb2c374b45b4817d5e66b64841.response.gz",
+      "responseSha256": "a83fdc04939d6ce0ab536996aea7f14b53bb5feb41a9c41f9defdf0de56f826e",
+      "compressedSha256": "6ebe77b8f7d230470fa0f772c0b1384f609ec980763cf48beb0bd0458082eb7c"
+    },
+    {
+      "url": "https://china-revealed.com/jiangsu/nanjing/",
+      "query": "Read complete article, actual image captions and permission scope before possible exact JZY card match; no search-result attribution as licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-jzy-articles-61/4c7b0248fad24ee8a3a9d8dffc6e1470.response.gz",
+      "responseSha256": "6dcc489fb1902870d955293813c979dc8e3349420280cac7aa2fa4bbe4cba6ba",
+      "compressedSha256": "7994530107d51c56c8794b46b6cea8cd29192676fec2a1c7abe207a1b7e2065f"
+    },
+    {
+      "url": "https://lycra.bizup.cn/wechat-app-messages/19640",
+      "query": "Read complete article, actual image captions and permission scope before possible exact JZY card match; no search-result attribution as licence",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/independent-jzy-articles-61/4555e2bd62144e708b5c4fd5c8531f39.response.gz",
+      "responseSha256": "785c369fe02bf803d62537c5ce127d0adea056eb28859735bcd1196c1adca022",
+      "compressedSha256": "660d319459528f79b931ec88ed456959a327e9741eddc201bdbb8c961f94096f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Jiangsu&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Jiangsu",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-current-food-categories-78/1f0843dc76e74f29b2ee944728a4caa7.response.gz",
+      "responseSha256": "7308b93866ab2fe068115731acddf0dc5bf0afe7b3e606825254e1fe1bdf1573",
+      "compressedSha256": "e27be3745a7ef99033ca3936f3dfa5eb66467ca7ab6385669d95d199e25d9ec3"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Zhejiang&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Zhejiang",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-current-food-categories-78/fdf2358c18f04d7eb71f03b5f306e68b.response.gz",
+      "responseSha256": "efc6c3cf4937613065686a555db4db1353ac90c842bedfa1c8a987a660a72023",
+      "compressedSha256": "bef53b34b4737f1b3090653e0b0c98e654f744144bb66f9222cc8b27f301c081"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Shanghai&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Shanghai",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-current-food-categories-78/388a37e8fa7d46e998fde9d6913fb661.response.gz",
+      "responseSha256": "9fb8598573661bd28a0dabea5912f8d8669edc4f58c9e0b1fa15fef158c54e5c",
+      "compressedSha256": "8aaad43a4789ef1046f33800b235047f59eac87601110436fdcbeaf9a3dbf793"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AChinese+alcoholic+beverages&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Chinese alcoholic beverages",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-current-food-categories-78/a5bdea3250ab4462b9d459a3739e0297.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E9%87%91%E5%9D%9B%E9%9B%80%E8%88%8C%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"金坛雀舌\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/0afa9c1ff9ea433cb583a4ec6315c77e.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%B9%B3%E6%B0%B4%E7%8F%A0%E8%8C%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"平水珠茶\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/0d2db993cb4b4fe29508854ba5e51da8.response.gz",
+      "responseSha256": "ca9e392141c5bcffe455c82f5d5687ad334140ef9ed50348ad4b7f27d1949796",
+      "compressedSha256": "419ea5e573a3ae9315070878c0a712a5bfbb39637f8ab37172b38d4cfd118802"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%97%A5%E9%93%B8%E8%8C%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"日铸茶\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/956806f93ec049d7a45955697b6e870e.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%BC%80%E5%8C%96%E9%BE%99%E9%A1%B6%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"开化龙顶\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/d831464bcc744414b03a769ece5406c6.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%B8%89%E6%9D%AF%E9%A6%99%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"三杯香\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/5fa863d63be94b0ba4e2b707983d4a1d.response.gz",
+      "responseSha256": "1b8615d3f97a191f5eebc6ba2bda828afa126af95ce1df54767de3a17c30d2d6",
+      "compressedSha256": "08ccc0a28f56cab44a2cdaff7b93bfc21c524219d340c3ad922e4dad033356b2"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%B9%B3%E9%98%B3%E9%BB%84%E6%B1%A4%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"平阳黄汤\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/33c97e92761648f2aebda14f14704879.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BC%9A%E7%A8%BD%E5%B1%B1%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"会稽山\" 酒; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/229e27d162b64ca3ac61420e60296ea3.response.gz",
+      "responseSha256": "b5d77b08035f83105cff43874d1bacb996d6e981bf8cb96fb78731b9a0fe6268",
+      "compressedSha256": "79b4a6aad795fe113fde9c5189978d87d5f728e5ef482798ec52e3fb5eb51a99"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%B4%8B%E6%B2%B3%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"洋河\" 酒; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/ae9a52e1be5142128d1f9a186182e65b.response.gz",
+      "responseSha256": "8fd2d8b4bbc8d0f5bee75ed445f6b67c33c28918577107c4f99291e11f660946",
+      "compressedSha256": "2ae4269d0500c8f66010d2ed8d763112d07a0c84c4bbcf057b2e89b50e07f367"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%8F%8C%E6%B2%9F%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"双沟\" 酒; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/504355debeed4cbaadaba758d80f9571.response.gz",
+      "responseSha256": "a4674c02a1a92f78e61c5385736169aadf5dd888abbc42a9702e00519691d3ab",
+      "compressedSha256": "979f01b502cbfa7a1d8270ff14df469ba90f6d31893aaf99106f815e6075fc3b"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E4%BB%8A%E4%B8%96%E7%BC%98%22+%E9%85%92&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"今世缘\" 酒; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/abffea9a519f41c2a586850e26aaf1f8.response.gz",
+      "responseSha256": "ada2a601f24c7f102c6432340d6adca256996c391606174b387338725fe7cf7d",
+      "compressedSha256": "e7c9fe3b4acced5199c35bc3f41859cae4f9a9b0f48f7c148a17ca5361a89b5f"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E5%8D%97%E4%BA%AC%E6%9D%BF%E9%B8%AD%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"南京板鸭\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "http-error",
+      "httpStatus": 429,
+      "error": "HTTP Error 429: Too Many Requests",
+      "retryAfter": "37",
+      "deferUntilEpoch": 1795250520.360098,
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-exact-tea-bottle-64/95f996fd95b04189803fda5681c5adff.response.gz",
+      "responseSha256": "33fe19b0fb1cd651a65e7c791e544ecbaf9d69be4cde5e259671bea0118af65c",
+      "compressedSha256": "75f654c810bc57e998eea2c9a24a168c239b10c2c208d0d54e702c3b212b9f17"
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=%22%E6%89%AC%E5%B7%9E%E7%83%AB%E5%B9%B2%E4%B8%9D%22&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Exact JZY tea cultivar/product or named dish: \"扬州烫干丝\"; metadata only, no automatic adoption",
+      "itemIds": [],
+      "status": "not-started-source-paused",
+      "reason": "HTTP429: stop this source; retain Retry-After and change source."
+    },
+    {
+      "url": "https://www.kelejun.cn/post/2023ganwu",
+      "query": "Read canonical author article at exact published hostname and explicit per-article licence; previous non-www leads were unreadable or wrong content, no active source pause",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-personal-canonical-77/521a9d3e0202450f84eda861909387a1.response.gz",
+      "responseSha256": "dd0d9db34511a35bb4221eb020d99e10f13da9d6ab32e075c97c24337ea9622b",
+      "compressedSha256": "1071a64227b586eac426e62dd6d7004540b62a39b00d383db883d4b40cdbff35"
+    },
+    {
+      "url": "https://blog.2broear.com/news/19-10-2025_ultra-journey-vacation",
+      "query": "Read canonical author article at exact published hostname and explicit per-article licence; previous non-www leads were unreadable or wrong content, no active source pause",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/jzy-personal-canonical-77/ce53f9ad08d74012a251b2617433daa7.response.gz",
+      "responseSha256": "cad297b00fbb45a49284917176419f6fe2417f5cb4a6fa2cb217ee3b844bdd62",
+      "compressedSha256": "33b05b388fda1e3098476f124b5528a5b803bef1407ebf56cdaef7426385fa83"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_three_steaming_dishes_of_Mianyang.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Native corresponding real photo from preserved full metadata: File:The three steaming dishes of Mianyang.jpeg; validate quality before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-exact-originals-79/47b78818413949daa39e3cf48f065305.response.gz",
+      "responseSha256": "3b47e76fea5d6c1f19ac4b32567241a345e168e7628afd75b52929875fb4c088",
+      "compressedSha256": "bda14b2a17f18daece8d78fce318129aba4cbda9abdee2c558309b9b7ca462a9"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Fried_skin_residue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "query": "Native corresponding real photo from preserved full metadata: File:Fried skin residue.jpg; validate quality before adoption",
+      "itemIds": [],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/national-exact-originals-79/c6602a9cc79e440da52e0fa7531a8631.response.gz",
+      "responseSha256": "819d6ca3573abb0363edd7b3ae5d3986f09754bb2fe981eaf7956f76b6b09958",
+      "compressedSha256": "1e2fae3fe1532064b1e3276c4b2d1e3664ec96124b121a2cae6dd3e8062febfe"
+    },
+    {
+      "url": "https://mt.sohu.com/20151114/n426481412.shtml",
+      "query": "Read actual Yongjia original food report and per-article reprint statement; inspect explicitly named Wenzhou lean pork soup photo only",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-author-source-66/d44654cc85e24c0d990e982eb6366082.response.gz",
+      "responseSha256": "25f143871b61f72778cd6cba2a25dc8a883effe62a831d460a32b1f3202414f8",
+      "compressedSha256": "6704e991070c4de84fa57e4b5aa522724f4ed81053ffdd2ab7be481703e02b0c"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_8.jpg",
+      "query": "Adjacent linked images at paragraph describing served lean pork soup; inspect actual finished bowl rather than stall context",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-bowl-originals-69/199b70b7280d43ffaac5400af7b640bd.response.gz",
+      "responseSha256": "83c8264fd9eca80fd3c6dc6597b60e8accea677afaae7ddf8ffc4b176e281d1d",
+      "compressedSha256": "ad8f0e7083de85f42ef6063d1e0e03daa3aea225af602359dd7d3ea8f1a4852b"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_9.jpg",
+      "query": "Adjacent linked images at paragraph describing served lean pork soup; inspect actual finished bowl rather than stall context",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-bowl-originals-69/bb84ebf228164edaa3259faa625635fd.response.gz",
+      "responseSha256": "bb3637d57d384073eab4fa61a45f9623508c1639c7ca2752f7cae7760b3d3a2c",
+      "compressedSha256": "6259c048498d11ec16551a4d223b8635a59c9b6ac1cd63a15630556f42a9e72d"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_7.jpg",
+      "query": "Original image explicitly linked in own Yongjia food report, inspect bowl subject and quality; preserve source statement and watermark",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-food-originals-67/24fcd7097ab1408088497c66c9e9b6e0.response.gz",
+      "responseSha256": "3d5fb389a71efa32a287f634027bfb7468916e3a2026c79edaec5ee439ce1a68",
+      "compressedSha256": "c06aed70f04e0159c33d5cd67fa2a500f99c5c8730298f36e8d3d932e883e907"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_10.jpg",
+      "query": "Original image explicitly linked in own Yongjia food report, inspect bowl subject and quality; preserve source statement and watermark",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-food-originals-67/114e70ca2edd477bbf9cf1b4f0935e42.response.gz",
+      "responseSha256": "a5e61454499f94dddd8fc147ca67ead585aa62ceeae9053430d0ee77ae6a9939",
+      "compressedSha256": "347faf0d011ccae82aa5cd4dbd85ffef867f7e9e42270dc31cac7ef0630d9458"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_11.jpg",
+      "query": "Original image explicitly linked in own Yongjia food report, inspect bowl subject and quality; preserve source statement and watermark",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-food-originals-67/5983de6a30b042219fd0bcbc539ed58d.response.gz",
+      "responseSha256": "9eb123bc10257eb228ff57185e2190637ff93e05329986be05ca1fc163a0f242",
+      "compressedSha256": "7a1ee3c53b53db779f213e639a3bd0a27b36af58e5a1b8ac4f33e1fe1beebf14"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_13.jpg",
+      "query": "Original image explicitly linked in own Yongjia food report, inspect bowl subject and quality; preserve source statement and watermark",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-food-originals-67/7ac588ca815047bc941c8018192aa3af.response.gz",
+      "responseSha256": "42c370df175603a33be80bf2cacdd81f75cbdf9ba1bc469667860d163387feac",
+      "compressedSha256": "1f074f3887bee743b0ddede6a65b5b3c80b12d242594e4d091a4c1a914fc9a1e"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_12.jpg",
+      "query": "One retry of an explicitly linked image after incomplete response; first partial-transfer failure retained, no 429 involved",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-incomplete-transfer-retry-74/9866de7b2b7a462093acef377542b7d4.response.gz",
+      "responseSha256": "7b3772118eabddd2d6cf6bbb6647210149dce09acb63afc75ec4943f0ba4eb90",
+      "compressedSha256": "4689e1cea4a17a796e02295bcc12bf5f68c6f44f5edadcbba79773d1f21b3f97"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_3.jpg",
+      "query": "Remaining explicitly linked article pictures within 12-request source pilot; inspect identity and finished food before adoption",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-linked-food-70/f4574112df3744a1a547196085e7f3f4.response.gz",
+      "responseSha256": "e25c2864d5b521aa12664866e9aabdffc5a7376a0f7c26c352aa3f3148b3527a",
+      "compressedSha256": "25ef594576d79ea2d72eb3c580832280f484c5c5a82a1b073082706580475208"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_4.jpg",
+      "query": "Remaining explicitly linked article pictures within 12-request source pilot; inspect identity and finished food before adoption",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-linked-food-70/bb0c5f49e3d143939972f306d39a7a19.response.gz",
+      "responseSha256": "da67ff45b443f0bdc9b1792c2aaea4b7e97b88bbd30cada299e993716723b860",
+      "compressedSha256": "44a84ec80591a8c1c11efb9c39f08f07ac1c1c14766597a7868db852de6d622f"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_5.jpg",
+      "query": "Remaining explicitly linked article pictures within 12-request source pilot; inspect identity and finished food before adoption",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-linked-food-70/e7aca97091cc41558c2cfdb6fd68d770.response.gz",
+      "responseSha256": "727a014f9a563edfa271dca1c219238f2044aceee0bce695a84fc75e9184d1eb",
+      "compressedSha256": "5cbca3bc89ec734d7377a7f63a44cdca5ad76232beebec69e1fab5ff8edeb98c"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_6.jpg",
+      "query": "Remaining explicitly linked article pictures within 12-request source pilot; inspect identity and finished food before adoption",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "saved",
+      "responseFile": "research/.local/china-photos-20261121-07/yongjia-linked-food-70/e047199b11f14e80adf65e352bf917eb.response.gz",
+      "responseSha256": "8f5a2ba0d71176991d1afe025806e17fdb65c05da1da7bfbf4b9427be68f58dc",
+      "compressedSha256": "be8b59fe5f648b476c0257a0c7e9390e5215d555ff52f13c77aae1b288b16b8f"
+    },
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_12.jpg",
+      "query": "Remaining explicitly linked article pictures within 12-request source pilot; inspect identity and finished food before adoption",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ],
+      "status": "request-error",
+      "error": "http.client.IncompleteRead: 32034 bytes read, 15614 more expected; response incomplete, not adopted",
+      "partialResponseNotRetained": true
     }
   ]
 }

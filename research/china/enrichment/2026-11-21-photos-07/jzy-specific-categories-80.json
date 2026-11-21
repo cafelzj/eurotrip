@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3ACuisine+of+Jiangsu&cmtype=subcat&cmlimit=50",
+      "query": "Inspect actual subcategory names for missing JZY dishes, no automatic item matching",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=categorymembers&cmtitle=Category%3ACuisine+of+Zhejiang&cmtype=subcat&cmlimit=50",
+      "query": "Inspect actual subcategory names for missing JZY dishes, no automatic item matching",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Shanghai&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1&gcmcontinue=file%7C484b2043574220e98a85e991bce781a32043415553455741592042415920e8a898e588a9e4bd90e6b2bbe8a1972047524541542047454f5247452053545245455420e7bfa1e7bfa0e6988ee78fa0e5bba3e5a0b4204a5020504c415a41204d414c4c2053484f5020e4b88ae6b5b7e5a7a5e5a7a5205348414e47484149204c414f204c414f2052455354415552414e54204c554e434820464f4f442046454252554152592032303231205353322030362e4a5047%7C100463945&continue=gcmcontinue%7C%7C",
+      "query": "Continue exact existing Shanghai food category cursor; find newly described named dishes before image download",
+      "itemIds": []
+    }
+  ]
+}

@@ -240,6 +240,24 @@
       "reason": "原作者明确题名博山豆腐箱，豆腐方块、酱汁与配菜清楚，画面以成品为主体；不从图片推断具体馅料配方、门店或拍摄地域。",
       "kind": "food",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "program-ae127ffe8a82891836",
+      "itemName": "沔阳三蒸",
+      "candidateId": "mianyang-three-steamed-dishes",
+      "caption": "沔阳三蒸合蒸版本实拍，2016年。",
+      "reason": "原作者中文描述直接标明沔阳三蒸，竹笼内多种蒸制食物、米粒与配菜清楚，画面明亮；这是作者记录的合蒸版本，不把照片里的一笼解释为所有地方版本必须具备的鱼肉菜组合，也不挪用于天门三蒸。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "flavor-henan-0627633da5",
+      "itemName": "皮渣",
+      "candidateId": "henan-fried-pizha",
+      "caption": "河南皮渣炸制成品实拍；不作安阳具体门店的证明。",
+      "reason": "原始文件题为Fried skin residue并归入河南菜，名称直译与淀粉块炸制形态共同支持皮渣的合理对应；保留这一判断依据，不推断照片未说明的具体产县、店名或淀粉配方。盘中方块和葱椒清楚、主体完整；不是将普通土豆或豆腐照片冒充皮渣。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -282,6 +300,22 @@
     {
       "candidate": "national-followup-originals-58",
       "reason": "长沙臭豆腐是杂乱油锅摊台，食品主体太小；洪山菜薹已萎蔫，观感不佳；荆州鱼糕多盘杂景且失焦，均不作为封面。糊汤粉原图请求429，遵守600秒暂停，不计为取得原图。"
+    },
+    {
+      "candidate": "old-chidou-63",
+      "reason": "南京赤豆酒酿元宵虽是同名实拍，但同一来源已在第五批采用，而且袋装及人物杂景，不重复计数或增添另一张低观感封面。"
+    },
+    {
+      "candidate": "yongjia-original-pilot-66-to-74",
+      "reason": "原稿明确作者自行拍照及原创转载注明出处，但11张成功取得的图片为摊位人物、备料、生肉、沸锅或失焦的餐桌，未找到清楚的成品主体，全部不作瘦肉丸封面。一张传输不完整已记录失败并单次重试成功，原失败不删除。"
+    },
+    {
+      "candidate": "hangzhou-congbaogui-73",
+      "reason": "杭州头条原稿有原创转载注明来源声明，但两张为店面人物和未装盘的铁板制作场景，未作为葱包桧封面；单独署名的街景照片不在采用范围。"
+    },
+    {
+      "candidate": "jzy-exact-tea-bottle-64",
+      "reason": "珠茶结果是一般Gunpowder及英国品牌，不能证明平水产地；其他结果多为PDF或列车广告，不拿来当指定茶酒产品照。37秒API限流已停止本轮，后续请求在等待期结束后才执行。"
     }
   ]
 }

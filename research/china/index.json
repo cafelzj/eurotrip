@@ -26,7 +26,7 @@
   ],
   "migrationFile": "research/china/path-migrations.json",
   "roles": {
-    "research-support": 422,
+    "research-support": 435,
     "adoption": 15,
     "preserved-source-reading": 1451,
     "cross-review": 4,
@@ -2182,14 +2182,14 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/README.md",
       "role": "research-support",
-      "bytes": 3377,
-      "sha256": "8c2a9aef6860f2665373dd2334f7789ec6e77fda9d0b349596842464fc034224"
+      "bytes": 3846,
+      "sha256": "0e1b62b28470537dbf14a8cbfa28c12151302b68d6f3c9174f570ec33412e902"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/candidates.json",
       "role": "research-support",
-      "bytes": 30852,
-      "sha256": "d18b5909b135f67a5c9475e7a572f4f98bede5841f07fdbee50659e598371c92"
+      "bytes": 32873,
+      "sha256": "c61d0c8fd31fefd8cc1c21db93282eaabdbdcb8bf78f9a8d03ff9f11e2eaa89a"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/cangshu-original-22.json",
@@ -2210,10 +2210,28 @@
       "sha256": "c19a027a6595b33499139413214f8b7568e5c6d8c71038aba8350e72a1c993d3"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/hangzhou-author-original-72.json",
+      "role": "research-support",
+      "bytes": 295,
+      "sha256": "ff0f1be23aa899162a1b361c35616dbf353f029f838e4ad7065b0d5bd6b69fca"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/hangzhou-congbaogui-originals-73.json",
+      "role": "research-support",
+      "bytes": 749,
+      "sha256": "b2dd0ff9b272bf07372a803ea9d20387279e06315db249b83422aabf9ca7fa83"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/independent-author-pilot-24.json",
       "role": "research-support",
       "bytes": 1076,
       "sha256": "801f048ceebbee6e6943ae1d31c23a46ba38932acf8fdb1bf13884f58b270a2c"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/independent-jzy-articles-61.json",
+      "role": "research-support",
+      "bytes": 788,
+      "sha256": "8cc7bf1a3dba419c15362639a54969b9e8a0847f689ef262e698615be7fdf719"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/jzy-alternative-files-35.json",
@@ -2240,6 +2258,12 @@
       "sha256": "6fdca742c70d2f04a01b165e80770d85c6960dd2e7a5f3aba909b0ea9b05357c"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-current-food-categories-78.json",
+      "role": "research-support",
+      "bytes": 1817,
+      "sha256": "22dfec7ddd7af32eae7a730d8c135971eb061d28836f644bd99d503e0c374147"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/jzy-dish-variants-48.json",
       "role": "research-support",
       "bytes": 3687,
@@ -2258,16 +2282,34 @@
       "sha256": "ff54f477e7754ce8d9d6748e3be8103663056722aeb151ef0eea2e68da22ebf6"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-exact-tea-bottle-64.json",
+      "role": "research-support",
+      "bytes": 4803,
+      "sha256": "df77563d1323b159ee96cdc81036283c04d4dc4a08c3c7264c79f91c70e0d4af"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/jzy-local-fruit-source-pilot-11.json",
       "role": "research-support",
       "bytes": 1183,
       "sha256": "f3a28e80d0521c72bece2444610e2ba6a16ff4dcaa8963ea3ce3a16ea0bad0ac"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-personal-canonical-77.json",
+      "role": "research-support",
+      "bytes": 880,
+      "sha256": "a2ade17dc75274d898247cbfc0533bc34ed6f9ead4b58e191813c45d3988a122"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/jzy-personal-originals-27.json",
       "role": "research-support",
       "bytes": 738,
       "sha256": "206e21ba9817ce61ff5fc2e430363622b7245cf692428330e7d126e97a7bd1df"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/jzy-specific-categories-80.json",
+      "role": "research-support",
+      "bytes": 1445,
+      "sha256": "20c48aa79d8dff50757bfd3d558a95837e5b76ee2d310ec37e8e934ed1e36fd7"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/jzy-wine-originals-36.json",
@@ -2348,6 +2390,12 @@
       "sha256": "06856e90a7514097e7fa0c71e0b0789f5c3b03cfaa8d282c37aaf970b6620cb1"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/national-exact-originals-79.json",
+      "role": "research-support",
+      "bytes": 745,
+      "sha256": "958f2c55d2ffc8e65ee88adad2774ea0737982de7fb7e8a860f0a576a927a5e4"
+    },
+    {
       "path": "research/china/enrichment/2026-11-21-photos-07/national-followup-originals-16.json",
       "role": "research-support",
       "bytes": 702,
@@ -2374,8 +2422,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/photo-adoption.json",
       "role": "adoption",
-      "bytes": 36667,
-      "sha256": "f317c76b6d92e73b2e71d0ea93f6a30aea170b943f91e141043e1e6fd66255b6"
+      "bytes": 39513,
+      "sha256": "c77119d9f9e78aa23a3a6c15b6bb5a5bb49b9ce8e7689bf3c67b64b2a0201431"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/reading-corrections.json",
@@ -2386,8 +2434,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/reading-notes.json",
       "role": "research-support",
-      "bytes": 3287,
-      "sha256": "d5fc1ecffbbd4b12d6bfb9a1437873a646622440fd2172e76e2bbc7d6d3eb72a"
+      "bytes": 6385,
+      "sha256": "32ee7dce197af0330c22cd39b8d09c763a8876d902ab9b815af7300bb51532f3"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/regional-original-source-pilot-05.json",
@@ -2404,8 +2452,8 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/source-responses.json",
       "role": "research-support",
-      "bytes": 119247,
-      "sha256": "13eb2f7bf2f19c013717b9d561f7ed0fc93d366a3fa05946e183d0ebda30035a"
+      "bytes": 146257,
+      "sha256": "58b8292e8d1a56a9f381f9986ab718f08c6c6188e00bb5080a9ec68aeb72ef1d"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/translated-food-aliases-41.json",
@@ -2416,14 +2464,14 @@
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-decisions.json",
       "role": "research-support",
-      "bytes": 17629,
-      "sha256": "b324d4665005b410bdee7f084262357615533e7d02e7d64ce78e73b4dbd8feec"
+      "bytes": 19969,
+      "sha256": "03e4e873731db519095e621d5f49d1fce60da9a1a13383bebf727aafc420c0ed"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/visual-screening.json",
       "role": "research-support",
-      "bytes": 10405,
-      "sha256": "061ddfd2b25735c66c9bd91debcae7bee247a1950b70231b5c86efa1d216aae3"
+      "bytes": 13238,
+      "sha256": "e19ff7cfa368eef9ce8320b972dcb9a6679c85b0a37311bd9cb1b9affb08e171"
     },
     {
       "path": "research/china/enrichment/2026-11-21-photos-07/wenzhou-exact-food-originals-07.json",
@@ -2438,16 +2486,46 @@
       "sha256": "3c9bdb10510e012db85a1042f804889cbd436a9bd4512df520d26ea0bae88a6d"
     },
     {
+      "path": "research/china/enrichment/2026-11-21-photos-07/yongjia-author-source-66.json",
+      "role": "research-support",
+      "bytes": 311,
+      "sha256": "b85970da299f738cfad4a77cb30cfea5b3501588de5914e0450c3039d9d059cb"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/yongjia-bowl-originals-69.json",
+      "role": "research-support",
+      "bytes": 623,
+      "sha256": "f249a9251f2a8d2ef2686ecce630cfbe16a6f31cad04d213137b7dd0bd18aaeb"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/yongjia-food-originals-67.json",
+      "role": "research-support",
+      "bytes": 1270,
+      "sha256": "c3731e9aa96c1c94d5afbe2d02a2d82251fd6eb56e0e27a831e2320bb5de4a79"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/yongjia-incomplete-transfer-retry-74.json",
+      "role": "research-support",
+      "bytes": 321,
+      "sha256": "4eb9ab2c117db389522f11fe41fc99059a686851a8b3877676ee2c781271fbcd"
+    },
+    {
+      "path": "research/china/enrichment/2026-11-21-photos-07/yongjia-linked-food-70.json",
+      "role": "research-support",
+      "bytes": 1545,
+      "sha256": "994349a5cd71bbdb09f06c5b9210067ac79d00192c1161502907d4a5bc288952"
+    },
+    {
       "path": "research/china/enrichment/README.md",
       "role": "research-support",
       "bytes": 4575,
-      "sha256": "00d7abe936b98cf6bf3a3b9a9e536fea287e88e30e175651997cbec82ee8a411"
+      "sha256": "7555299adffaef1e71827c230bf7332b1eb826ed7ede1c2beb5ffb804ba0e4a7"
     },
     {
       "path": "research/china/enrichment/queue.json",
       "role": "research-support",
-      "bytes": 2508321,
-      "sha256": "79fb6e19307fd6e045a51758bde871315d963a69fcc6badf884bb87f9e26e231"
+      "bytes": 2508323,
+      "sha256": "d41eff289e6ae7d9a56e331ee11a3edc01c9cc1c4724477494f2638d23ca9212"
     },
     {
       "path": "research/china/expansions/2026-11-15-jiangxi-guangxi-guangdong/README.md",
@@ -6215,7 +6293,7 @@
       "path": "research/china/integration/current-collection-audit.json",
       "role": "current-integration",
       "bytes": 6847,
-      "sha256": "45df0e4fb50a20b7c7145cbfab95c2a8ca5dc6e6fbce9933415edc2d4d9e0064"
+      "sha256": "d0707332215347a9953bd32eb77dcb3206bc7a588fbcba0c94d5cdea6d3661ff"
     },
     {
       "path": "research/china/integration/standalone-retirement.json",

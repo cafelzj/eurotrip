@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Jiangsu&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Jiangsu",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Zhejiang&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Zhejiang",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACuisine+of+Shanghai&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Cuisine of Shanghai",
+      "itemIds": []
+    },
+    {
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AChinese+alcoholic+beverages&gcmtype=file&gcmlimit=50&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiextmetadatamultilang=1",
+      "query": "Read current named JZY category and explicit dish/brand identity; compare preserved older candidates before downloading originals: Chinese alcoholic beverages",
+      "itemIds": []
+    }
+  ]
+}

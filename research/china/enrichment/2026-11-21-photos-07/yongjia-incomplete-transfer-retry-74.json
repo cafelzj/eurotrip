@@ -1,0 +1,11 @@
+{
+  "jobs": [
+    {
+      "url": "https://photocdn.sohu.com/20151114/mp41801715_1447505360250_12.jpg",
+      "query": "One retry of an explicitly linked image after incomplete response; first partial-transfer failure retained, no 429 involved",
+      "itemIds": [
+        "flavor-zhejiang-3dee9a6965"
+      ]
+    }
+  ]
+}

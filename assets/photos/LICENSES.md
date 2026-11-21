@@ -2158,3 +2158,19 @@ Source: https://commons.wikimedia.org/wiki/File:Boshan_Tofu_Box.jpg
 License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Boshan_Tofu_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-mianyang-three-steamed-dishes.jpg
+
+Author: ZhengZhou
+Source: https://commons.wikimedia.org/wiki/File:The_three_steaming_dishes_of_Mianyang.jpeg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/ec/The_three_steaming_dishes_of_Mianyang.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
+
+### assets/photos/china/cn07-henan-fried-pizha.jpg
+
+Author: 유신예
+Source: https://commons.wikimedia.org/wiki/File:Fried_skin_residue.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/8/80/Fried_skin_residue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色、去水印或改变主体。
