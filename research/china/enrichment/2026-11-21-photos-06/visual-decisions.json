@@ -205,6 +205,89 @@
       "reason": "原作者中文具体标注程瑶田铭歙砚与歙县博物馆收藏，全幅可见砚体、墨池与侧面铭文，按馆藏器物实拍展示，不冒称现代在售商品或当前展陈状态。",
       "kind": "product",
       "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-f527ceee478274facc",
+      "itemName": "端砚",
+      "candidateId": "duan-inkstone",
+      "caption": "端砚器物实拍，原页以Snowyowls上传署名。",
+      "reason": "原文件直接命名端砚，完整原页许可包含CC BY 2.5；未单列摄影者，原页按上传记录推定Snowyowls，署名中保留这一范围。全幅可见砚池与雕刻细节，按器物实拍使用，不补写未核实年代、藏所或现代厂牌。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sd-intestines",
+      "itemName": "九转大肠",
+      "candidateId": "jiuzhuan-dachang",
+      "caption": "济南九转大肠成品实拍，摄于2009年。",
+      "reason": "原作者说明直接记录济南及大肠菜品，标题中的Jiuqu为原作者拼写，所示卷状红烧大肠与九转大肠主题吻合。全幅成品摆盘清楚，保留原有光色，不将旧照片作为当前店铺营业证明。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sx-zhuyeqing",
+      "itemName": "竹叶青酒",
+      "candidateId": "zhuyeqing-bottles",
+      "caption": "2019年拍摄的竹叶青酒瓶装实物，包装与店内标价反映拍摄时状况。",
+      "reason": "瓶身直接可读竹叶青、杏花村与生产企业信息，原文件名与拍摄日期对应；完整查看商品近景，整瓶、标签可辨。保留历史包装和店内价签，不将图中价格作为现价。",
+      "kind": "product",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "program-df0adb2a02995f9379",
+      "itemName": "驴打滚",
+      "candidateId": "lvdagun",
+      "caption": "北京驴打滚实拍，豆粉外层与卷状切面可辨。",
+      "reason": "原作者中英文均直接命名北京驴打滚，全幅查看黄豆粉、卷状切面及单盘成品清楚，背景没有人物和杂物遮挡主体，不推断所有馅料的固定比例。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "threeprov-7ad0307c23bbdf0297",
+      "itemName": "陈村粉",
+      "candidateId": "chencun-rice-noodles",
+      "caption": "西八里庄广州顺德酒家的排骨蒸陈村粉实拍。",
+      "reason": "原作者题名明确排骨蒸陈村粉，说明陈村镇来源。全幅可见薄片状陈村粉与排骨、酱汁同盘，按这一做法展示，保留原餐馆位置名称，不冒称在陈村现场拍摄。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "bj-zhizi",
+      "itemName": "炙子烤肉",
+      "candidateId": "beijing-zhizi-mutton",
+      "caption": "炙子上烤制羊肉的餐桌实拍，摄于2022年。",
+      "reason": "原作者题名明确炙子烤肉及羊肉，炙子、羊肉与洋葱在同一实拍场景清楚可辨。保留烤制中的蒸汽和实际食用状态，不把处理中的肉片宣称为全部成熟，也不更改原有颜色。",
+      "kind": "food",
+      "viewedOriginal": true
+    },
+    {
+      "itemId": "sg-6ef828b02943f66944",
+      "itemName": "biangbiang面",
+      "candidateId": "csf-biangbiang",
+      "caption": "油泼宽带biangbiang面的家常成品实拍。",
+      "reason": "原文明确陕西biangbiang面，并记录宽带手扯面与油泼辣椒做法。全幅查看宽面与调味清楚，原作者摄影及公开图片使用许可已核，保留水印、署名与原文链接，不复制菜谱正文。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "threeprov-6d7c55e58bfd184d65",
+      "itemName": "肠粉",
+      "candidateId": "csf-cheung-fun",
+      "caption": "广式肠粉家常成品实拍，米浆薄皮卷制后配酱汁。",
+      "reason": "原文明确广式蒸肠粉、米浆蒸薄皮卷制及虾与葱等配料；全幅成品近景清楚、布景干净，采用该家庭版本，不冒称特定店铺或统一固定配方。",
+      "kind": "food",
+      "viewedOriginal": true,
+      "permissionReviewed": true
+    },
+    {
+      "itemId": "flavor-anhui-44a26dcad2",
+      "itemName": "淮南牛肉汤",
+      "candidateId": "huainan-beef-soup",
+      "caption": "淮南风味牛肉汤成品示例，摄于2023年。",
+      "reason": "原文件命名及归类支持淮南牛肉汤主题，原作者Flickr照片与Commons所引原图ID一致。已看全幅，单碗汤品与肉片、香菜、汤中配料清楚。原作者在Flickr以Public Domain Mark标记，完整Commons原页有2023年FlickreviewR确认；这不是CC0许可，保留原作者署名与公共域声明链接。仅作同名成品示例，不把文件主题所在地当作实际拍摄城市，也不由照片断言所有肉片部位。",
+      "kind": "food",
+      "viewedOriginal": true
     }
   ],
   "held": [
@@ -282,6 +365,38 @@
       "reason": "原文件名为德国圣诞烤鹅，不能因结构化烧鹅名称匹配而用于广东烧鹅。",
       "viewedContactSheet": false,
       "viewedOriginal": false
+    },
+    {
+      "candidateId": "NYU-double-skinned-milk",
+      "reason": "章节实际配图是手写食谱讲义，不是双皮奶实拍；章节还把地方归属写成福建，不能作为广东起源证据，不采用。"
+    },
+    {
+      "candidateId": "Making Xuan Paper (9974514453).jpg",
+      "reason": "照片是安徽博物馆制作工艺场景模型，不能当作真实制作现场或宣纸产品实拍来补齐。"
+    },
+    {
+      "candidateId": "20261006 Daokou Red Cooked Chicken.jpg",
+      "reason": "盘中鸡肉骨架与碎肉占主导，不够适合作为有食欲的道口烧鸡封面。"
+    },
+    {
+      "candidateId": "Waguan.Nanchang xiaoguan.jpg",
+      "reason": "画面只见煨汤大缸，未见汤品，不作为瓦罐汤的成品封面。"
+    },
+    {
+      "candidateId": "Tijian noodles at a Shanxi-style restaurant in Beijing (20251005182240).jpg",
+      "reason": "面条形态清楚，但背景酒瓶等杂物抢眼，暂不作为主图。"
+    },
+    {
+      "candidateId": "Instant-boiled mutton hot pot at Yangfang Shengli (20200111153612).jpg",
+      "reason": "整桌铜锅涮肉场景分散，另找更简洁清楚的成品或食用近景。"
+    },
+    {
+      "candidateId": "Yakult-China-and-Hong-Kong-variants",
+      "reason": "中国实拍普通款与香港低糖高纤款均已核对，但都不能作为条目所记无锡低糖款包装或生产地的证明，保留线索，暂不绑定该卡片。"
+    },
+    {
+      "candidateId": "CSF-Chinese-sausage-variants",
+      "reason": "两篇已读原文包含广式甜味与川鄂麻辣等不同香肠版本；尚未找到与单张照片明确对应的广式版本，不把混合或湖北麻辣图用于广式腊肠。"
     }
   ]
 }

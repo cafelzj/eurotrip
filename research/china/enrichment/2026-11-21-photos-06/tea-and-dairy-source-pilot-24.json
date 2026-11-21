@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "url": "https://teapedia.org/en/",
+      "query": "Pilot tea-specific knowledge/photo source homepage, inspect actual links and rights before further requests",
+      "itemIds": []
+    },
+    {
+      "url": "https://world.openfoodfacts.org/cgi/search.pl?search_terms=%E5%85%89%E6%98%8E&search_simple=1&action=process&json=1&page_size=20",
+      "query": "Recheck original public food-product image source for Bright dairy after old service-failure pause has elapsed",
+      "itemIds": []
+    }
+  ]
+}

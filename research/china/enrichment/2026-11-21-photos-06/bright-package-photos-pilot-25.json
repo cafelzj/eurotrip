@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/4295/1.jpg",
+      "query": "6901209214295 original package upload, read before adoption",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/4295/front_en.3.full.jpg",
+      "query": "6901209214295 source selected front full-size image",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/6374/1.jpg",
+      "query": "6901209216374 original package upload, read before adoption",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/6374/front_en.3.full.jpg",
+      "query": "6901209216374 source selected front full-size image",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/927/3742/1.jpg",
+      "query": "6901209273742 original package upload, read before adoption",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/927/3742/front_zh.3.full.jpg",
+      "query": "6901209273742 source selected front full-size image",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    }
+  ]
+}

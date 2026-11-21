@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2015/09/biang-biang-noodles-13.webp",
+      "query": "biangbiang面 full original source, subject and licence; no automatic adoption original image for visual review",
+      "itemIds": [
+        "sg-6ef828b02943f66944"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/wp-content/uploads/2016/11/Cheung-fun-4-copy.jpg",
+      "query": "肠粉 full original source, subject and licence; no automatic adoption original image for visual review",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ]
+    },
+    {
+      "url": "https://nyu.manifoldapp.org/api/proxy/ingestion_sources/500e3105-9f26-4b2c-bd4e-6175fd3a15ea",
+      "query": "大良双皮奶 full original source, subject and licence; no automatic adoption original image for visual review",
+      "itemIds": [
+        "threeprov-984ff114967161ee6b"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/65535/52969944927_afb6aae2ea_o.jpg",
+      "query": "淮南牛肉汤 full original source, subject and licence; no automatic adoption original image for visual review",
+      "itemIds": [
+        "flavor-anhui-44a26dcad2"
+      ]
+    },
+    {
+      "url": "https://live.staticflickr.com/7431/9974514453_51aabd5be3_o.jpg",
+      "query": "宣纸 full original source, subject and licence; no automatic adoption original image for visual review",
+      "itemIds": [
+        "regional-6f0ca66101f2a7"
+      ]
+    },
+    {
+      "url": "https://www.chinasichuanfood.com/chinese-sausage-how-to-cook-chinese-sausage/",
+      "query": "Read specific Cantonese lap cheong product photos, distinguish from prior mixed sweet/spicy sausage recipe",
+      "itemIds": [
+        "threeprov-7c6da91a81bd4ae4cc"
+      ]
+    }
+  ]
+}

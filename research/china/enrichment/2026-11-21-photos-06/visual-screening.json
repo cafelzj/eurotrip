@@ -140,6 +140,54 @@
     {
       "file": "research/.local/china-photos-20261121-06/national-review-10.jpg",
       "sha256": "78c8a0910e66989d722f8adff8cbeb54f7e356c67a3627456fbad162d7a6cf8c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-contact-22-1.jpg",
+      "sha256": "fe5a5a5aba9f82d84efabae2bedfba4a5e8ab1fb628271f3fac8088317e48f2b"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-contact-22-2.jpg",
+      "sha256": "1d34e176cebdd0b5306da75949b4762b61462dffc0359d0bf1f04bc2dbf36c6c"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/independent-contact-20.jpg",
+      "sha256": "a1347d7060c9636522ede02732f92627331f5575d5b4434fd33e32734c543a0f"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-4.jpg",
+      "sha256": "5c85de9ce9598dcdb3e3fc74841cd11140d4f54354688be41d824ded369c94a8"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-12.jpg",
+      "sha256": "c99e20e5e0d78f269dfdfa6556cfeae3120547d612e84a16145f2b93ac6a1106"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-18.jpg",
+      "sha256": "55f2f5b82ea39e599f82f64c08c25b0b6bcb2e73b837efb43729f3798392879d"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-19.jpg",
+      "sha256": "fcd611e3799c2677e88527e0da3a64b1f86ccf285ac89a54c03db6d0637aec78"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-20.jpg",
+      "sha256": "b0c2f1c14689b4cbf3713e5b5a98d02f9bb40f45d8818e48883ddd484f1c5bf4"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/national-review-22.jpg",
+      "sha256": "9bed34b0f8a2e82a1fa7b802c7556720be622711f2607ca40fe43a4617dde1ca"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/independent-review-0.jpg",
+      "sha256": "f15489692a2cba0bca3dbe3c5cbbd75e685bf808de2eeb19ff4afebab01bca71"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/independent-review-1.jpg",
+      "sha256": "8a9863b9098781d35f7133231593706a0d8997efe8a8d2839a14cd0f433f55eb"
+    },
+    {
+      "file": "research/.local/china-photos-20261121-06/independent-review-3.jpg",
+      "sha256": "ae88c3255b78c88bbbdbe11c077e70e5b2b503ad1a881bb5c911f1fd0397e688"
     }
   ],
   "reviewMethod": "逐幅查看完整原画面，较大原件使用未裁切的等比全幅预览；不靠接触表单独批准。"

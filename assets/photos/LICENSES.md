@@ -1718,3 +1718,75 @@ Source: https://commons.wikimedia.org/wiki/File:Sheyan_5313.jpg
 License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
 Original image URL: https://upload.wikimedia.org/wikipedia/commons/1/15/Sheyan_5313.jpg
 Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-duan-inkstone.jpg
+
+Author: Snowyowls（原页按上传记录推定；未单列摄影者）
+Source: https://commons.wikimedia.org/wiki/File:Duanyan.jpg
+License: [CC BY 2.5](https://creativecommons.org/licenses/by/2.5)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/7/70/Duanyan.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-jiuzhuan-dachang.jpg
+
+Author: Rolfmueller
+Source: https://commons.wikimedia.org/wiki/File:Jiuqu_dachang_2009_03.jpg
+License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Jiuqu_dachang_2009_03.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-zhuyeqing-bottles.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Chu_Yeh_Ching_Chiew_in_glass_bottle_(20191118165928).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/5/54/Chu_Yeh_Ching_Chiew_in_glass_bottle_%2820191118165928%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-lvdagun.jpg
+
+Author: ZhengZhou
+Source: https://commons.wikimedia.org/wiki/File:Lyu_Da_Gun.jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/8/83/Lyu_Da_Gun.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-chencun-rice-noodles.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Steamed_Chencun_noodles_with_pork_ribs_at_Guangzhou_Shunde_Restaurant%2C_Xibalizhuang_(20211123172246).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e2/Steamed_Chencun_noodles_with_pork_ribs_at_Guangzhou_Shunde_Restaurant%2C_Xibalizhuang_%2820211123172246%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-beijing-zhizi-mutton.jpg
+
+Author: N509FZ
+Source: https://commons.wikimedia.org/wiki/File:Zhizi_Kaorou%2C_mutton_after_roasting_(20220219182001).jpg
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+Original image URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Zhizi_Kaorou%2C_mutton_after_roasting_%2820220219182001%29.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-biangbiang.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/biang-biang-mian-biang-biang-noodles/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2015/09/biang-biang-noodles-13.webp
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-csf-cheung-fun.jpg
+
+Author: Elaine / China Sichuan Food
+Source: https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/
+License: [作者公开许可（须署名并链接原文）](https://www.chinasichuanfood.com/about/)
+Original image URL: https://www.chinasichuanfood.com/wp-content/uploads/2016/11/Cheung-fun-4-copy.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。
+
+### assets/photos/china/cn06-huainan-beef-soup.jpg
+
+Author: Franklin Rainier
+Source: https://www.flickr.com/photos/198503324@N06/52969944927/
+License: [Public domain](https://commons.wikimedia.org/wiki/File:A_Bowl_of_Huainan_Beef_Soup.jpg#Licensing)
+Original image URL: https://live.staticflickr.com/65535/52969944927_afb6aae2ea_o.jpg
+Changes: 仅方向处理、等比限宽、JPEG编码并保留ICC；没有生成、调色或改变主体。

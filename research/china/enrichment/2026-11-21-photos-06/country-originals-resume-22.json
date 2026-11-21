@@ -1,0 +1,74 @@
+{
+  "jobs": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duanyan.jpg",
+      "query": "4 File:Duanyan.jpg original image, resumed after source wait",
+      "itemIds": [
+        "threeprov-f527ceee478274facc"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jiuqu_dachang_2009_03.jpg",
+      "query": "12 File:Jiuqu dachang 2009 03.jpg original image, resumed after source wait",
+      "itemIds": [
+        "sd-intestines"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/20261006_Daokou_Red_Cooked_Chicken.jpg",
+      "query": "13 File:20261006 Daokou Red Cooked Chicken.jpg original image, resumed after source wait",
+      "itemIds": [
+        "flavor-henan-3edb5b0b46"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Waguan.Nanchang_xiaoguan.jpg",
+      "query": "14 File:Waguan.Nanchang xiaoguan.jpg original image, resumed after source wait",
+      "itemIds": [
+        "threeprov-8d491dff10fe979eee"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Tijian_noodles_at_a_Shanxi-style_restaurant_in_Beijing_%2820251005182240%29.jpg",
+      "query": "17 File:Tijian noodles at a Shanxi-style restaurant in Beijing (20251005182240).jpg original image, resumed after source wait",
+      "itemIds": [
+        "flavor-shanxi-8b3df1e8eb"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chu_Yeh_Ching_Chiew_in_glass_bottle_%2820191118165928%29.jpg",
+      "query": "18 File:Chu Yeh Ching Chiew in glass bottle (20191118165928).jpg original image, resumed after source wait",
+      "itemIds": [
+        "sx-zhuyeqing"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lyu_Da_Gun.jpg",
+      "query": "19 File:Lyu Da Gun.jpg original image, resumed after source wait",
+      "itemIds": [
+        "program-df0adb2a02995f9379"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Steamed_Chencun_noodles_with_pork_ribs_at_Guangzhou_Shunde_Restaurant%2C_Xibalizhuang_%2820211123172246%29.jpg",
+      "query": "20 File:Steamed Chencun noodles with pork ribs at Guangzhou Shunde Restaurant, Xibalizhuang (20211123172246).jpg original image, resumed after source wait",
+      "itemIds": [
+        "threeprov-7ad0307c23bbdf0297"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Instant-boiled_mutton_hot_pot_at_Yangfang_Shengli_%2820200111153612%29.jpg",
+      "query": "21 File:Instant-boiled mutton hot pot at Yangfang Shengli (20200111153612).jpg original image, resumed after source wait",
+      "itemIds": [
+        "bj-lamb-hotpot"
+      ]
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Zhizi_Kaorou%2C_mutton_after_roasting_%2820220219182001%29.jpg",
+      "query": "22 File:Zhizi Kaorou, mutton after roasting (20220219182001).jpg original image, resumed after source wait",
+      "itemIds": [
+        "bj-zhizi"
+      ]
+    }
+  ]
+}

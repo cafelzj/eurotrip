@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/921/2215/1.jpg",
+      "query": "6901209212215 actual original package upload to inspect, not automatically a photo approval",
+      "itemIds": [
+        "sh-bright-yogurt"
+      ]
+    },
+    {
+      "url": "https://images.openfoodfacts.org/images/products/690/120/920/0182/1.jpg",
+      "query": "6901209200182 actual original package upload to inspect, not automatically a photo approval",
+      "itemIds": [
+        "sh-bright-milk"
+      ]
+    },
+    {
+      "url": "https://world.openfoodfacts.org/terms-of-use",
+      "query": "Primary photo reuse terms; distinguish photo licence from database licence",
+      "itemIds": []
+    }
+  ]
+}

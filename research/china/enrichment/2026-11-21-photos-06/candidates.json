@@ -423,6 +423,180 @@
       "provider": "Wikimedia Commons",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "duan-inkstone",
+      "title": "Duanyan.jpg",
+      "itemIds": [
+        "threeprov-f527ceee478274facc"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-4.jpg",
+      "rawSha256": "88b1494d555bd126d91de14bc22530190ec2cc1c9d6cb0ea8b3f1b1cb8485d5a",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/46c6ac7df3bd427fa56b086ffaf2ef43.response.gz",
+      "metadataSha256": "f6c927f062ffa0196c59ae77caa23f267c31fa4922d23a5a5f3914c146e8507c",
+      "author": "Snowyowls（原页按上传记录推定；未单列摄影者）",
+      "source": "https://commons.wikimedia.org/wiki/File:Duanyan.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duanyan.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+      "id": "jiuzhuan-dachang",
+      "title": "Jiuqu dachang 2009 03.jpg",
+      "itemIds": [
+        "sd-intestines"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-12.jpg",
+      "rawSha256": "bbe1fbac955452f1f991f0471d3d57ff62058fae79eb0fc4be909a48554605ff",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "metadataSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "author": "Rolfmueller",
+      "source": "https://commons.wikimedia.org/wiki/File:Jiuqu_dachang_2009_03.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jiuqu_dachang_2009_03.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "zhuyeqing-bottles",
+      "title": "Chu Yeh Ching Chiew in glass bottle (20191118165928).jpg",
+      "itemIds": [
+        "sx-zhuyeqing"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-18.jpg",
+      "rawSha256": "7519691f0a0ef151c777a1a582a58117603a6ea12c47631680759186510ff616",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "metadataSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Chu_Yeh_Ching_Chiew_in_glass_bottle_(20191118165928).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chu_Yeh_Ching_Chiew_in_glass_bottle_%2820191118165928%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "lvdagun",
+      "title": "Lyu Da Gun.jpg",
+      "itemIds": [
+        "program-df0adb2a02995f9379"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-19.jpg",
+      "rawSha256": "345fd457215e34cc8cedddd2bf3a4accbe77dcf089da45dc271bb809e28bfcc3",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "metadataSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "author": "ZhengZhou",
+      "source": "https://commons.wikimedia.org/wiki/File:Lyu_Da_Gun.jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lyu_Da_Gun.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "chencun-rice-noodles",
+      "title": "Steamed Chencun noodles with pork ribs at Guangzhou Shunde Restaurant, Xibalizhuang (20211123172246).jpg",
+      "itemIds": [
+        "threeprov-7ad0307c23bbdf0297"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-20.jpg",
+      "rawSha256": "b9c36fbe5d0ff2f7ba99f0bfc18f04378a7af7cc0399897452110d0944608602",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "metadataSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Steamed_Chencun_noodles_with_pork_ribs_at_Guangzhou_Shunde_Restaurant%2C_Xibalizhuang_(20211123172246).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Steamed_Chencun_noodles_with_pork_ribs_at_Guangzhou_Shunde_Restaurant%2C_Xibalizhuang_%2820211123172246%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "beijing-zhizi-mutton",
+      "title": "Zhizi Kaorou, mutton after roasting (20220219182001).jpg",
+      "itemIds": [
+        "bj-zhizi"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/national-original-22.jpg",
+      "rawSha256": "ecaa373f77cfb38cf48eb1252cf9297a0aa7db7fb2b2cea0216b565a03c8df3c",
+      "metadataFile": "research/.local/china-photos-20261121-06/country-index-metadata-pilot-15/9b440f4fd5824495958a91e095cbf45f.response.gz",
+      "metadataSha256": "8118a3a742f64fb5df21be4fc8ab13a511b79ffc9a649172ece6760e2854b0a9",
+      "author": "N509FZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhizi_Kaorou%2C_mutton_after_roasting_(20220219182001).jpg",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Zhizi_Kaorou%2C_mutton_after_roasting_%2820220219182001%29.jpg",
+      "provider": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "csf-biangbiang",
+      "title": "biangbiang面 — Elaine original recipe photograph",
+      "itemIds": [
+        "sg-6ef828b02943f66944"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/independent-original-0",
+      "rawSha256": "c8f1f4d09f3c9202d689f4da27515026e9257e490624ac82750700b49d0abab2",
+      "metadataFile": "research/.local/china-photos-20261121-06/original-source-followup-18/e50228850a8045e0b6c4362ed8503906.response.gz",
+      "metadataSha256": "a0dda868882f67a93bb6a95bf1c959f5c063926ddf7d41fa0418aaefed6d7c34",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/biang-biang-mian-biang-biang-noodles/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2015/09/biang-biang-noodles-13.webp",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "csf-cheung-fun",
+      "title": "肠粉 — Elaine original recipe photograph",
+      "itemIds": [
+        "threeprov-6d7c55e58bfd184d65"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/independent-original-1",
+      "rawSha256": "244fe91a91ee832ed7243b1b7ed9e1f4716c65c0853e506626bee05aed7033a2",
+      "metadataFile": "research/.local/china-photos-20261121-06/original-source-followup-18/65198f1c8b984191ae1ee051464d4e20.response.gz",
+      "metadataSha256": "2027fe8064c71fe3b3f52ba5c929ef7918a0bf14f2b1a29fe5edbe3e6b57168f",
+      "author": "Elaine / China Sichuan Food",
+      "source": "https://www.chinasichuanfood.com/cheung-fun-steamed-rice-noodles/",
+      "preview": "https://www.chinasichuanfood.com/wp-content/uploads/2016/11/Cheung-fun-4-copy.jpg",
+      "provider": "China Sichuan Food",
+      "license": "作者公开许可（须署名并链接原文）",
+      "licenseUrl": "https://www.chinasichuanfood.com/about/",
+      "licenseKind": "author-published-permission",
+      "permission": {
+        "responseFile": "research/.local/china-photos-20261120-04/author-sources/81dd72de628a49f7a98f38183486f6f1.response.gz",
+        "sha256": "971f4519e112529522aae389524f04abfe01770e02c0fef3999f659112be8602",
+        "url": "https://www.chinasichuanfood.com/about/",
+        "conditions": "按作者About页面公开许可使用图片；署名Elaine / China Sichuan Food并链接食谱原文。保留图片水印，不转载食谱文字。"
+      }
+    },
+    {
+      "id": "huainan-beef-soup",
+      "title": "A Bowl of Huainan Beef Soup",
+      "itemIds": [
+        "flavor-anhui-44a26dcad2"
+      ],
+      "rawFile": "research/.local/china-photos-20261121-06/independent-original-3",
+      "rawSha256": "6c89c798f500246d06dd0c2e6b5e147abb48cc297cad64f1a816aa8cb73fbc88",
+      "metadataFile": "research/.local/china-photos-20261121-06/original-source-followup-18/4e5dda7abee74e2cae20ee0c3db5bbf3.response.gz",
+      "metadataSha256": "74a94f18578beac8f4cbae7435a47b4717e67c5459df70f8b0ba8031fde64771",
+      "author": "Franklin Rainier",
+      "source": "https://www.flickr.com/photos/198503324@N06/52969944927/",
+      "preview": "https://live.staticflickr.com/65535/52969944927_afb6aae2ea_o.jpg",
+      "provider": "Flickr",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:A_Bowl_of_Huainan_Beef_Soup.jpg#Licensing",
+      "supportingEvidence": [
+        {
+          "file": "research/.local/china-photos-20261121-06/huainan-photo-release-followup-23/f5f6104af9ab448b85d9bf6c6e0bf33b.response.gz",
+          "sha256": "ef9b6106c0021ce9c7556cf8e7cd68a4a41734bad6f3ccbf44faf0174b84f0c4",
+          "scope": "Commons full creator-applied Public Domain Mark statement and 2023 FlickreviewR confirmation; PDM is not CC0."
+        }
+      ]
     }
   ]
 }
